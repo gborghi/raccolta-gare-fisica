@@ -1,0 +1,45 @@
+---
+tipo: quesito
+quesito_id: quesito_1liv23T-fasc__Q25
+parent: prova_1liv23T-fasc
+competition: Olimpiadi Italiane della Fisica
+comp_code: OII
+country: Italia
+year: '2023'
+level: 1° Livello
+pdf: Gara individuale/1livello/2023/1liv23T-fasc.pdf
+cluster: Meccanica
+quesito: '25'
+tags:
+  - nazione/italia
+  - tipo-gara/individuale
+  - livello/1-livello
+  - difficolta/1
+  - multidisciplina/mono
+  - topic/geometric-optics
+  - argomento/meccanica
+---
+
+# OII 2023 1° Livello — Quesito 25
+
+Si hanno a disposizione una lente convergente di focale $+10\,\text{cm}$ e una lente divergente di focale $-20\,\text{cm}$. Si eseguono le seguenti prove:
+
+1. si pone un oggetto a 25 cm dalla lente divergente;
+2. si pone un oggetto a 15 cm dalla lente divergente;
+3. si pone un oggetto a 25 cm dalla lente convergente;
+4. si pone un oggetto a 15 cm dalla lente convergente;
+5. si pone un oggetto a 5 cm dalla lente convergente.
+
+In quante delle prove descritte si ottiene un'immagine di dimensioni ridotte rispetto all'oggetto?
+
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Fonte:** Testo (PDF) — p.5
+**Risposta:** **C** · Soluzioni (PDF)

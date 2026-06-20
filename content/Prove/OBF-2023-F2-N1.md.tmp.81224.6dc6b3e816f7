@@ -1,0 +1,207 @@
+---
+tipo: prova
+prova_id: prova_OBF-2023-F2-N1
+competition: Brasile Physics Olympiad
+comp_code: OBF
+country: Brasile
+year: 2023
+level: ''
+pdf: gare di altri paesi/Brasile/OBF2023_Provas/OBF-2023-F2-N1.pdf
+cluster: Fisica Moderna
+n_problemi: 8
+tags:
+- kg/prova
+- anno/2023
+- paese/Brasile
+- comp/OBF
+- cluster/Fisica Moderna
+---
+
+# OBF 2023 — OBF-2023-F2-N1.pdf
+
+**Fonte:** `gare di altri paesi/Brasile/OBF2023_Provas/OBF-2023-F2-N1.pdf` · [[gare di altri paesi/Brasile/OBF2023_Provas/OBF-2023-F2-N1.pdf#page=3|Apri PDF]] · [apri PDF p.3](file:///E%3A/giovanni/Dropbox/insegnamento/Wiligelmo/OlimpiadiFisica/raccolte%20gare%20di%20Fisica/gare%20di%20altri%20paesi/Brasile/OBF2023_Provas/OBF-2023-F2-N1.pdf#page=3)
+**Cluster:** [[Fisica Moderna]]
+
+## Problema 1
+
+
+
+
+
+
+
+
+Questão 1.
+Uma criança veste uma blusa que, quanto iluminada
+por luz branca, apresenta um padrão de listas nas cores
+amarela, branca, preta e azul, conforme figura ao lado.
+Se esta criança entrar em uma sala iluminada por uma
+luz monocromática azul, o padrão de cores das listas irá
+apresentar quantas cores diferentes?
+
+**Topic:** [[Geometric Optics]], [[Wave Optics]]
+**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Superposition Principle (metodo)|Superposition Principle]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** [[gare di altri paesi/Brasile/OBF2023_Provas/OBF-2023-F2-N1.pdf#page=3|Testo (PDF) — p.3]]
+
+## Problema 2
+
+
+
+
+
+
+
+
+Questão 2.
+A figura ao lado mostra um amassador de latas
+de refrigerante. O dispositivo pode ser fixado,
+por exemplo, na parede. Desta forma é possível
+amassar a lata sem muito esforço simplesmente
+puxando a alavanca para baixo.
+Dependo da posição relativa do ponto de apoio, do ponto de resistência e do ponto de aplicação
+da força as alavancas podem ser classificadas em três tipos:
+1. interfixa (ponto de apoio no meio da alavanca).
+2. interpotente (ponto de aplicação da força no meio da alavanca).
+3. inter-resistente (ponto de resistência no meio da alavanca).
+Qual número do tipo correspondente à alavanca usada no amassador de latas? (Preencha a
+caixa de resposta com 1 se for interfixa, 2 se for interpotente ou 3 se for inter-resistente.)
+Na figura a ser anexada, justifique sua resposta através de uma figura esquemática mostrando
+o funcionamento do dispositivo. Por exemplo, faça o diagrama de forças aplicadas na alavanca,
+destacando o ponto de apoio e as forças aplicada e resistente.
+
+**Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** [[gare di altri paesi/Brasile/OBF2023_Provas/OBF-2023-F2-N1.pdf#page=3|Testo (PDF) — p.3]]
+
+## Problema 3
+
+
+
+
+
+
+
+
+Questão 3. Em um espelho plano as distâncias da imagem ao espelho e do objeto ao espelho
+são iguais. Em uma estrada um motorista que se movimenta com uma velocidade de 60,0 km/h,
+medida em relação à estrada, observa através do espelho retrovisor interno, que é plano, um
+caminhão que se movimenta no mesmo sentido com uma velocidade de 45,0 km/h, também
+medida em relação à estrada. Determine as velocidades, em km/h,
+(a) da imagem do caminhão em relação ao motorista.
+(b) da imagem do caminhão em relação ao caminhão.
+
+**Topic:** [[Geometric Optics]], [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Fonte:** [[gare di altri paesi/Brasile/OBF2023_Provas/OBF-2023-F2-N1.pdf#page=4|Testo (PDF) — p.4]]
+
+## Problema 4
+
+
+
+
+
+
+
+
+Questão 4. Na quinta feira, dia 06/07/2023 a Terra atingiu o afélio, ponto mais distante de
+sua órbita em torno do Sol.
+Considere as três sentenças seguintes, numeradas por potências de 2 (1, 2 e 4), relacionadas ao
+afélio:
+1. A variação da distância ao Sol é decorrência da órbita elíptica da Terra em torno do Sol.
+2. No afélio há menor incidência de luz solar, por isso é usado para definir o início do inverno
+no hemisfério sul.
+4. No afélio a Terra atinge sua menor velocidade de translação.
+Qual soma dos números das sentenças verdadeiras? (Preencha a caixa de resposta com 0 se
+nenhuma sentença é verdadeira, com 7 se todas são verdadeiras, etc.)
+
+**Topic:** [[Gravitation]], [[Astrophysics]]
+**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** [[gare di altri paesi/Brasile/OBF2023_Provas/OBF-2023-F2-N1.pdf#page=4|Testo (PDF) — p.4]]
+
+## Problema 5
+
+
+
+
+
+
+
+
+Questão 5. Três blocos A, B e C, rugosos, de diferentes materiais, e massas respectivamente
+iguais a 3M, 2M e 2M são colocados numa mesa com atrito em duas configurações diferentes
+dadas pelas figuras abaixo. Em ambas as configurações o sistema permanece em equilíbrio
+estático. Qual o valor do coeficiente de atrito estático entre o bloco C e a superfície da mesa?
+Considere que as polias e os fios tem massas desprezíveis.
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation Laws (metodo)|Conservation Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Fonte:** [[gare di altri paesi/Brasile/OBF2023_Provas/OBF-2023-F2-N1.pdf#page=4|Testo (PDF) — p.4]]
+
+## Problema 6
+
+
+
+
+
+
+
+
+Questão 6. André é um atleta que vai disputar uma meia-maratona. Em um de seus treinos ele
+percorreu uma distância de 4,8 km com uma velocidade constante de 18,0 km/h, com passadas
+de 1,20 m. Um dos parâmetros importantes do treinamento é a cadência das passadas, que no
+seu relógio de treinamento é dado pelo número de passos por minuto. A cadência também pode
+ser vista como sendo a frequência das passadas.
+(a) Qual a cadência do treinamento de André conforme medida em seu relógio?
+(b) Qual a cadência do treinamento de André em Hz?
+
+**Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Fonte:** [[gare di altri paesi/Brasile/OBF2023_Provas/OBF-2023-F2-N1.pdf#page=5|Testo (PDF) — p.5]]
+
+## Problema 7
+
+
+
+
+
+
+
+
+Questão 7. Dez cubos de açúcar de 15,0 mm de aresta à temperatura ambiente de $20{,}0\ ^\circ\text{C}$
+são colocado numa garrafa térmica contendo 300 g de água a $90{,}0\ ^\circ\text{C}$. A densidade e o calor
+específico do açúcar são, aproximadamente, iguais a $1{,}6\ \text{g/cm}^3$ e $1{,}30\ \text{J/g}\cdot{}^\circ\text{C}$. Desprezando
+as trocas de calor com o ambiente e a capacidade calorífica da garrafa térmica, determine a
+temperatura de equilíbrio da mistura.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Conservation of Energy (metodo)|Conservation of Energy]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** [[gare di altri paesi/Brasile/OBF2023_Provas/OBF-2023-F2-N1.pdf#page=5|Testo (PDF) — p.5]]
+
+## Problema 8
+
+
+
+
+
+
+
+
+Questão 8. O movimento de três partículas A, B e C em movimento retilíneo é monitorado
+em um laboratório didático. Os gráficos de suas velocidades em função do tempo são mostrado
+na figura abaixo.
+Considerando o intervalo de tempo entre 0 e 4 s, determine:
+(a) A distância percorrida, em m, da partícula que realizou o maior deslocamento.
+(b) O menor valor da aceleração instantânea, em $\text{m/s}^2$, experimentado por qualquer uma das
+partículas.
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** [[gare di altri paesi/Brasile/OBF2023_Provas/OBF-2023-F2-N1.pdf#page=5|Testo (PDF) — p.5]]

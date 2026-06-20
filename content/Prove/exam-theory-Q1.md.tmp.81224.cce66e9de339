@@ -1,0 +1,187 @@
+---
+tipo: prova
+prova_id: prova_exam-theory-Q1
+competition: Olimpiadi Italiane della Fisica
+comp_code: OII
+country: Italia
+year: na
+level: ''
+pdf: Gara individuale/ipho/teorica/int25tit/exam-theory-Q1.pdf
+cluster: Meccanica
+n_problemi: 1
+tags:
+- kg/prova
+- anno/na
+- paese/Italia
+- comp/OII
+- cluster/Meccanica
+---
+
+# OII na Teorica — exam-theory-Q1.pdf
+
+**Fonte:** `Gara individuale/ipho/teorica/int25tit/exam-theory-Q1.pdf` · [[Gara individuale/ipho/teorica/int25tit/exam-theory-Q1.pdf#page=1|Apri PDF]] · [apri PDF p.1](file:///E%3A/giovanni/Dropbox/insegnamento/Wiligelmo/OlimpiadiFisica/raccolte%20gare%20di%20Fisica/Gara%20individuale/ipho/teorica/int25tit/exam-theory-Q1.pdf#page=1)
+**Cluster:** [[Meccanica]]
+
+## Problema 1
+
+Theory
+Q1-1
+English (Official)
+Hydrogen and galaxies (10 points)
+This problem aims to study the peculiar physics of galaxies, such as their dynamics and structure. In
+particular, we explain how to measure the mass distribution of our galaxy from the inside. For this we
+will focus on hydrogen, its main constituent.
+Throughout this problem we will only use $\hbar$, defined as $\hbar = h/2\pi$.
+Part A - Introduction
+Bohr model
+We assume that the hydrogen atom consists of a non-relativistic electron, with mass $m_e$, orbiting a fixed
+proton. Throughout this part, we assume its motion is on a circular orbit.
+A.1
+Determine the electron's velocity $v$ in a circular orbit of radius $r$.
+0.2pt
+In the Bohr model, we assume the magnitude of the electron's angular momentum $L$ is quantized, $L = n\hbar$
+where $n > 0$ is an integer. We define $\alpha = \dfrac{e^2}{4\pi\varepsilon_0\hbar c} \approx 7.27\times10^{-3}$.
+A.2
+Show that the radius of each orbit is given by $r_n = n^2 r_1$, where $r_1$ is called the
+Bohr radius. Express $r_1$ in terms of $\alpha$, $m_e$, $c$ and $\hbar$ and calculate its numerical
+value with 3 digits. Express $v_1$, the velocity on the orbit of radius $r_1$, in terms of
+$\alpha$ and $c$.
+0.5pt
+A.3
+Determine the electron's mechanical energy $E_n$ on an orbit of radius $r_n$ in terms
+of $e$, $\varepsilon_0$, $r_1$ and $n$. Determine $E_1$ in the ground state in terms of $\alpha$, $m_e$ and $c$.
+Compute its numerical value in eV.
+0.5pt
+Hydrogen fine and hyperfine structures
+The rare spontaneous inversion of the electron's spin causes a photon to be emitted on average once
+per 10 million years per hydrogen atom. This emission serves as a hydrogen tracer in the universe and is
+thus fundamental in astrophysics. We will study the transition responsible for this emission in two steps.
+First, consider the interaction between the electron spin and the relative motion of the electron and the
+proton. Working in the electron's frame of reference, the proton orbits the electron at a distance $r_1$. This
+produces a magnetic field $\vec{B}_1$.
+A.4
+Determine the magnitude $B_1$ of $\vec{B}_1$ at the position of the electron in terms of $\mu_0$,
+$e$, $\alpha$, $c$ and $r_1$.
+0.5pt
+Second, the electron spin creates a magnetic moment $\vec{\mathcal{M}}_s$. Its magnitude is roughly $\mathcal{M}_s = \dfrac{e}{m_e}\hbar$. The fine
+(F) structure is related to the energy difference $\Delta E_F$ between an electron with a magnetic moment $\vec{\mathcal{M}}_s$
+parallel to $\vec{B}_1$ and that of an electron with $\vec{\mathcal{M}}_s$ anti-parallel to $\vec{B}_1$. Similarly, the hyperfine (HF) structure is
+related to the energy difference $\Delta E_{HF}$, due to the interaction between parallel and anti-parallel magnetic
+moments of the electron and the proton. It is known to be approximately $\Delta E_{HF} \simeq 3.72\,\dfrac{m_e}{m_p}\Delta E_F$ where $m_p$ is
+the proton mass.
+
+Theory
+Q1-2
+English (Official)
+A.5
+Express $\Delta E_F$ as a function of $\alpha$ and $E_1$.
+Express the wavelength $\lambda_{HF}$ of a photon emitted during a transition between
+the two states of the hyperfine structure and give its numerical value with two
+digits.
+0.5pt
+Part B - Rotation curves of galaxies
+Data
+• Kiloparsec: $1\,\text{kpc} = 3.09\times10^{19}$ m
+• Solar mass : $1\,M_\odot = 1.99\times10^{30}$ kg
+We consider a spherical galaxy centered around a fixed point $O$. At any point $P$, let $\rho = \rho(P)$ be the
+volumetric mass density and $\varphi = \varphi(P)$ the associated gravitational potential (i.e. potential energy per
+unit mass). Both $\rho$ and $\varphi$ depend only on $r = \|\vec{OP}\|$. The motion of a mass $m$ located at $P$, due to the field
+$\varphi$, is restricted to a plane containing $O$.
+B.1
+In the case of a circular orbit, determine the velocity $v_c$ of an object on a circular
+orbit passing through $P$ in terms of $r$ and $\dfrac{d\varphi}{dr}$.
+0.2pt
+Fig. 1(A) is a picture of the spiral galaxy NGC 6946 in the visible band (from the 0.8m Schulman Telescope
+at the Mount Lemmon Sky Center in Arizona). The little ellipses in Fig. 1(B) show experimental measurements of $v_c$ for this galaxy. The central region ($r < 1\,\text{kpc}$) is named the bulge. In this region, the mass
+distribution is roughly homogeneous. The red curve is a prediction for $v_c$ if the system were homogeneous in the bulge and keplerian ($\varphi(r) = -\beta/r$ with $\beta > 0$) outside it, i.e. considering that the total mass
+of the galaxy is concentrated in the bulge.
+Fig. 1: NGC 6946 galaxy: Picture (A) and rotation curve (B).
+B.2
+Deduce the mass $M_b$ of the bulge of NGC 6946 from the red rotation curve in
+Fig. 1(B), in solar mass units.
+0.5pt
+Comparing the keplerian model and the experimental data makes astronomers confident that part of
+the mass is invisible in the picture. They thus suppose that the galaxy's actual mass density is given by
+
+Theory
+Q1-3
+English (Official)
+$$\rho_m(r) = \frac{C_m}{r_m^2 + r^2} \tag{1}$$
+where $C_m > 0$ and $r_m > 0$ are constants.
+B.3
+Show that the velocity profile $v_{c,m}(r)$, corresponding to the mass density in Eq.
+1, can be written $v_{c,m}(r) = \sqrt{k_1 - \dfrac{k_2\cdot\arctan(r/r_m)}{r}}$. Express $k_1$ and $k_2$ in terms of $C_m$, $r_m$
+and $G$.
+( Hints:
+$\displaystyle\int_0^r \frac{x^2}{a^2 + x^2}\,dx = r - a\arctan(r/a)$, and: $\arctan(x) \simeq x - x^3/3$ for $x \ll 1$. )
+
+Simplify $v_{c,m}(r)$ when $r \ll r_m$ and when $r \gg r_m$.
+Show that if $r \gg r_m$, the mass $M_m(r)$ embedded in a sphere of radius $r$ with the
+mass density given by Eq. 1 simplifies and depends only on $C_m$ and $r$.
+Estimate the mass of the galaxy NGC 6946 actually present in the picture in Fig.
+1(A).
+1.8pt
+Part C - Mass distribution in our galaxy
+For a spiral galaxy, the model for Eq. 1 is modified and one usually considers the gravitational potential
+is given by $\varphi_G(r,z) = \varphi_0 \ln\!\left(\dfrac{r}{r_0}\right)\exp\!\left[-\left(\dfrac{z}{z_0}\right)^2\right]$, where $z$ is the distance to the galactic plane (defined by $z = 0$
+), and $r < r_0$ is now the axial radius and $\varphi_0 > 0$ a constant to be determined. $r_0$ and $z_0$ are constant values.
+C.1
+Find the equation of motion on $z$ for the vertical motion of a point mass $m$
+in such a potential, assuming $r$ is constant. Show that, if $r < r_0$, the galactic
+plane is a stable equilibrium state by giving the angular frequency $\omega_0$ of small
+oscillations around it.
+0.5pt
+From here on, we set $z = 0$.
+C.2
+Identify the regime, either $r \gg r_m$ or $r \ll r_m$, in which the model of Eq. 1 recovers
+a potential of the form $\varphi_G(r,0)$ with a suitable definition of $\varphi_0$.
+Under this condition $v_c(r)$ no longer depends on $r$. Express it in terms of $\varphi_0$.
+0.6pt
+Therefore, outside the bulge the velocity modulus $v_c$ does not depend on the distance to the galactic
+center. We will use this fact, as astronomers do, to measure the galaxy's mass distribution from the
+inside.
+All galactic objects considered here for astronomical observations, such as stars or nebulae, are primarily
+composed of hydrogen. Outside the bulge, we assume that they rotate on circular orbits around the
+galactic center $C$. $S$ is the sun's position and $E$ that of a given galactic object emitting in the hydrogen
+spectrum. In the galactic plane, we consider a line of sight $SE$ corresponding to the orientation of an
+observation, on the unit vector $\hat{u}_v$ (see Fig. 2).
+
+Theory
+Q1-4
+English (Official)
+Fig. 2: Geometry of the measurement
+Let $\ell$ be the galactic longitude, measuring the angle between $SC$ and the $SE$. The sun's velocity on its
+circular orbit of radius $R_\odot = 8.00\,\text{kpc}$ is denoted $\vec{v}_\odot$. A galactic object in $E$ orbits on another circle of radius
+$R$ at velocity $\vec{v}_E$. Using a Doppler effect on the previously studied 21cm line, one can obtain the relative
+radial velocity $v_{rE/S}$ of the emitter $E$ with respect to the sun $S$: it is the projection of
+$\vec{v}_E - \vec{v}_\odot$ on the line of
+sight.
+C.3
+Determine $v_{rE/S}$ in terms of $\ell$, $R$, $R_\odot$ and $v_\odot$. Then, express $R$ in terms of $R_\odot$, $v_\odot$,
+$\ell$ and $v_{rE/S}$.
+0.7pt
+Using a radio telescope, we make observations in the plane of our galaxy toward a longitude $\ell = 30^\circ$. The
+frequency band used contains the 21cm line, whose frequency is $f_0 = 1.42\,\text{GHz}$. The results are reported
+in Fig. 3.
+Fig. 3: Electromagnetic signal as a function of the frequency shift, measured in the radio
+frequency band at $\ell = 30^\circ$ using EU-HOU RadioAstronomy
+
+Theory
+Q1-5
+English (Official)
+C.4
+In our galaxy, $v_\odot = 220\,\text{km}\cdot\text{s}^{-1}$. Determine the values of the relative radial velocity (with 3 significant digits) and the distance from the galactic center (with
+2 significant digits) of the 3 sources observed in Fig. 3. Distances should be
+expressed as multiples of $R_\odot$.
+0.6pt
+C.5
+On the top view of our galaxy (in the answer box), indicate the positions of the
+sources observed in Fig. 3.
+What could be deduced from repeated measurements changing $\ell$?
+0.6pt
+Part D
+
+**Topic:** [[Modern-Quantum Physics]], [[Gravitation]], [[Astrophysics]]
+**Metodi:** [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
+**Fonte:** [[Gara individuale/ipho/teorica/int25tit/exam-theory-Q1.pdf#page=1|Testo (PDF) — p.1]]

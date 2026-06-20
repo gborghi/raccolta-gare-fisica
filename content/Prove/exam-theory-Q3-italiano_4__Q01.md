@@ -1,0 +1,143 @@
+---
+tipo: quesito
+quesito_id: quesito_exam-theory-Q3-italiano_4__Q01
+parent: prova_exam-theory-Q3-italiano_4
+competition: Olimpiadi Italiane della Fisica
+comp_code: OII
+country: Italia
+year: na
+level: ''
+pdf: Gara individuale/ipho/teorica/int23tit/exam-theory-Q3-italiano.pdf
+cluster: Meccanica
+quesito: '1'
+tags:
+  - nazione/italia
+  - tipo-gara/individuale
+  - livello/internazionale
+  - difficolta/5
+  - multidisciplina/multi
+  - topic/fluid-mechanics
+  - topic/conservation-of-energy
+  - topic/oscillations-e-waves
+  - argomento/meccanica
+---
+
+# OII na Teorica — Problema 1
+
+**Acqua e oggetti (10 pt)**
+
+In questo problema consideriamo i fenomeni causati dall’interazione tra acqua e oggetti collegati alla tensione superficiale. La parte A tratta situazioni di moto, mentre le parti B e C riguardano situazioni statiche.
+
+Se necessario, si può usare il fatto che se la funzione $y(x)$ soddisfa l’equazione differenziale $y''(x) = ay(x)$ ($a$ è una costante positiva), allora la sua soluzione generale è $y(x) = Ae^{\sqrt{a}x} + Be^{-\sqrt{a}x}$, dove $A$ e $B$ sono costanti arbitrarie.
+
+Parte A. Fusione di gocce d’acqua (2.0 punti)
+
+Come mostrato in Fig. 1, consideriamo due gocce d’acqua sferiche stazionarie sulla superficie di un materiale super-idrofobo, cioè per il quale esistono intense forze repulsive tra il materiale e l’acqua.
+
+Sulla superficie sono posizionate due gocce d’acqua sferiche identiche inizialmente vicine tra loro; successivamente queste due gocce si fondono dopo essersi toccate e formano una goccia d’acqua sferica più grande, che improvvisamente salta verso l’alto.
+
+A.1
+Il raggio $a$ di entrambe le gocce d’acqua prima della fusione è $100\ \mu\text{m}$. La densità dell’acqua $\rho$ è $1.00 \times 10^3\ \text{kg/m}^3$. La tensione superficiale $\gamma$ è $7.27 \times 10^{-2}\ \text{J/m}^2$.
+Una frazione $k$ della differenza di energia di superficie $\Delta E$ tra prima e dopo la fusione è trasformata in energia cinetica della sfera che salta verso l’alto. Determinare quindi la velocità iniziale di salto, $v$, della goccia d’acqua fusa con due cifre significative in base alle seguenti ipotesi:
+- $k = 0.06$
+- Prima e dopo la fusione, il volume totale di acqua viene conservato.
+
+2.0pt
+
+Fig. 1: Fusione di due gocce d’acqua e salto della goccia d’acqua fusa.
+
+Parte B. Una tavola posizionata verticalmente (4.5 punti)
+
+Una tavola piatta viene immersa verticalmente in acqua. Le figure 2(a) e 2(b) mostrano rispettivamente le forme della superficie dell’acqua per materiali idrofili (attrattivi) e idrofobi. Si trascuri lo spessore della tavola.
+
+La superficie della tavola si trova sul piano $yz$ e la superficie orizzontale dell’acqua lontana dalla tavola si trova sul piano $xy$ con $z = 0$. La forma della superficie non dipende dalla coordinata $y$. Sia $\theta(x)$ l’angolo tra la superficie dell’acqua e il piano orizzontale in un punto $(x, z)$ della superficie dell’acqua nel piano $xz$. Qui $\theta(x)$ è misurato rispetto all’asse positivo $x$ e la rotazione antioraria è considerata positiva. Sia $\theta(x)$ pari a $\theta_0$ nel punto di contatto tra la tavola e la superficie dell’acqua ($x = 0$). Nel seguito, $\theta_0$ è fissato dalle proprietà del materiale della tavola.
+
+La densità dell’acqua $\rho$ e la tensione superficiale dell’acqua $\gamma$ sono uniformi. L’accelerazione gravitazionale è data da $g$. Si assuma uniforme la pressione atmosferica $P_0$. Si noti che l’unità di misura della tensione superficiale è $\text{J/m}^2$ ma anche N/m. Si determini la forma della superficie dell’acqua con i seguenti passaggi.
+
+Fig. 2: Tavole immerse verticalmente nell’acqua. (a) Nel caso di tavola idrofila; (b) nel caso di tavola idrofoba.
+
+B.1
+Si consideri il caso di una tavola idrofila, come mostrato nella Fig. 2(a). Si noti che la pressione dell’acqua, $P$, soddisfa le condizioni $P < P_0$ per $z > 0$ e $P = P_0$ per $z = 0$. Si determini $P$ alla quota $z$ in funzione di $\rho$, $g$, $z$, e $P_0$.
+
+0.6pt
+
+B.2
+Si consideri un blocco d’acqua la cui forma è mostrata ombreggiata in Fig.3(a). La sua sezione trasversale nel piano $xz$ è mostrata dall’area tratteggiata in Fig.3(b). Siano $z_1$ e $z_2$ rispettivamente le coordinate del bordo sinistro e destro del confine (superficie dell’acqua) tra il blocco d’acqua e l’aria.
+Ricavare la componente orizzontale (componente $x$) $f_x$ della forza risultante per unità di lunghezza lungo l’asse $y$, esercitata sul blocco d’acqua a causa della pressione, in funzione di $\rho$, $g$, $z_1$ e $z_2$. Si noti che la presenza della pressione atmosferica $P_0$ non determina una forza orizzontale netta sul blocco d’acqua.
+
+0.8pt
+
+Fig. 3: Forma del blocco d’acqua. (a) Vista a volo d’uccello e (b) vista in sezione.
+
+B.3
+La tensione superficiale che agisce sul blocco d’acqua è bilanciata dalla forza $f_x$ discussa in B.2. Si definiscano rispettivamente $\theta_1$ e $\theta_2$ gli angoli tra la superficie dell’acqua e il piano orizzontale ai bordi sinistro e destro. Ricavare $f_x$ in funzione di $\gamma$, $\theta_1$ e $\theta_2$.
+
+0.8pt
+
+B.4
+La seguente equazione vale in un punto arbitrario $(x, z)$ sulla superficie dell’acqua,
+
+$$\frac{1}{2}\left(\frac{z}{\ell}\right)^a + \cos\theta(x) = \text{constant.} \tag{1}$$
+
+Determinare l’esponente $a$ ed esprimere la costante $\ell$ in funzione di $\gamma$ e $\rho$. Si noti che questa equazione è valida per materiali della tavola sia idrofili sia idrofobi.
+
+0.8pt
+
+B.5
+Nell’equazione (1) in B.4, si assuma che la variazione della superficie dell’acqua sia lieve, cioè $|z'(x)| \ll 1$, in modo da poter sviluppare $\cos\theta(x)$ in serie di $z'(x)$ fino al secondo ordine. Successivamente, differenziando l’equazione risultante rispetto a $x$, si ottiene l’equazione differenziale soddisfatta da $z(x)$. Risolvere questa equazione differenziale e determinare $z(x)$ per $x \geq 0$ in funzione di $\tan\theta_0$ e $\ell$. Si noti che le dimensioni verticali nelle Fig. 2 e 3 sono esagerate per ragioni grafiche e non soddisfano la condizione $|z'(x)| \ll 1$.
+
+1.5pt
+
+Parte C. Interazione tra due aste (3.5 punti)
+
+Le aste identiche A e B, di uno stesso materiale, galleggiano parallelamente tra loro sulla superficie dell’acqua e sono poste simmetricamente alla stessa distanza dall’asse $y$ (Fig. 4).
+
+Fig. 4: Due aste A e B che galleggiano sulla superficie dell’acqua.
+
+C.1
+Nei punti di contatto tra l’asta B e l’acqua, si definiscano le coordinate $z$ e gli angoli come mostrato in Fig. 5. Determinare la componente orizzontale della forza, $F_x$, sull’asta B per unità di lunghezza lungo l’asse $y$ in funzione di $\theta_a$, $\theta_b$, $z_a$, $z_b$, $\rho$, $g$, e $\gamma$.
+
+1.0pt
+
+Fig. 5: Vista in sezione verticale di due aste che galleggiano sulla superficie dell’acqua.
+
+C.2
+Si definisca $z_0$ la coordinata $z$ della superficie dell’acqua nel punto medio tra le due aste nel piano $xz$. Esprimere la forza $F_x$ ottenuta in C.1 senza utilizzare $\theta_a$, $\theta_b$, $z_a$ e $z_b$.
+
+1.5pt
+
+C.3
+Sia $x_a$ la coordinata $x$ del punto di contatto tra la superficie dell’acqua e la parte sinistra dell’asta B. Utilizzando l’equazione differenziale ottenuta in B.4, esprimere la coordinata $z_0$ del livello dell’acqua del punto medio di queste due aste A e B in funzione di $x_a$ e $z_a$. Si può utilizzare la costante $\ell$ introdotta in B.4.
+
+1.0pt
+
+<!--fig:start-->
+**p.1** — Fusione di due gocce d'acqua
+![[_attachments/exam-theory-Q3-italiano_4/exam-theory-Q3-italiano_4_p1_f1.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.2** — Tavola immersa verticalmente nell'acqua
+![[_attachments/exam-theory-Q3-italiano_4/exam-theory-Q3-italiano_4_p2_f2.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.3** — Forma del blocco d'acqua e sezione
+![[_attachments/exam-theory-Q3-italiano_4/exam-theory-Q3-italiano_4_p3_f3.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.4** — Due aste A e B galleggianti
+![[_attachments/exam-theory-Q3-italiano_4/exam-theory-Q3-italiano_4_p4_f4.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.4** — Sezione verticale aste A e B
+![[_attachments/exam-theory-Q3-italiano_4/exam-theory-Q3-italiano_4_p4_f5.png]]
+<!--fig:end-->
+
+**Topic:** [[Fluid Mechanics]], [[Conservation of Energy]], [[Oscillations & Waves]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Differential Equations (metodo)|Differential Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Fonte:** Testo (PDF) — p.1
+**Soluzione:** Soluzioni (PDF)

@@ -1,0 +1,133 @@
+---
+tipo: prova
+prova_id: prova_prueba_1992
+competition: Argentina Physics Olympiad
+comp_code: Argent
+country: Argentina
+year: '1992'
+level: ''
+pdf: gare di altri paesi/Argentina/pruebas-nacionales/prueba_1992.pdf
+cluster: Elettromagnetismo
+n_problemi: '3'
+tags:
+  - kg/prova
+  - anno/1992
+  - paese/Argentina
+  - comp/Argent
+  - cluster/Elettromagnetismo
+---
+
+# Argent 1992 — prueba_1992.pdf
+
+**Fonte:** `gare di altri paesi/Argentina/pruebas-nacionales/prueba_1992.pdf` · Apri PDF · apri PDF p.1
+**Cluster:** [[Elettromagnetismo]]
+
+## Problema 1
+
+
+
+Problema 1:
+
+Dos rayos paralelos de luz llegan simultáneamente a los puntos $A_1$ y $A_2$ de dos placas de caras
+paralelas, dispuestas como indica la figura. Al emerger, los rayos son detectados por sendos sensores
+$S_1$ y $S_2$. Cuando emerge el primero, se pone en funcionamiento un reloj que se detiene al emerger el
+segundo.
+
+Ambas placas son del mismo espesor y sus respectivos índices de refracción $n_1$ y $n_2$.
+a) Calcule el ángulo de refracción de cada rayo.
+b) ¿Cuál de los dos rayos emerge antes? Justifique su respuesta.
+c) Calcule el tiempo transcurrido desde que se puso en marcha el reloj hasta que se detuvo.
+d) Proponga una modificación en el dispositivo de la figura (variando posiciones de las placas,
+eliminando partes, etc.) de tal forma que, con el intervalo de tiempo medido por el reloj y el espesor de
+una de las placas, pueda determinar su índice de refracción.
+
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Fonte:** Testo (PDF) — p.1
+
+## Problema 2
+
+
+Problema 2:
+
+El sistema de arranque de un automóvil está funcionando con dificultades, y de manera lenta.
+Uno de los terminales del motor del arranque está conectado al borne positivo (+) de la batería por
+medio de un cable. El circuito entre el otro terminal y el borne negativo (-) se completa a través de la
+carrocería. El mecánico debe decidir si la falla está en el motor del arranque, el cable de alimentación
+de éste o en la batería. El manual del automóvil dice que para asegurar un perfecto funcionamiento
+del sistema de arranque, la batería de $12\ \text{V}$ no puede tener mas de $0.02\ \Omega$ de resistencia interna, el
+cable no mas de $0.04\ \Omega$ de resistencia, y el motor del arranque (cuando está funcionando) no mas de
+$0.10\ \Omega$. El mecánico enciende el motor del arranque y mide $11.4\ \text{V}$ entre los bornes de la batería, $3\ \text{V}$
+entre los extremos del cable y una corriente de $50\ \text{A}$.
+
+¿Cuál o cuáles son las partes defectuosas?
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Fonte:** Testo (PDF) — p.1
+
+## Problema 3
+
+
+Problema 3:
+
+Se ha improvisado un sistema que permite controlar el tiempo que demora un dispositivo
+desde que se lo activa hasta que permite el paso de la corriente eléctrica. El mismo fue construido
+usando un inflador manual (ver la figura), cuya válvula está cerrada. El émbolo, que puede deslizarse
+sin rozamiento, tiene una masa de 100 grs. y su volumen es despreciable.
+
+En el instante inicial el émbolo se halla libre a 5 cm del extremo superior del inflador, la
+presión ambiente es de 1 atmósfera y la temperatura ambiente de $20\ ^\circ\text{C}$.
+
+Un gotero agrega una gota de mercurio cada dos segundos en el espacio entre el émbolo y las
+paredes del inflador. A medida que se acumula el mercurio, el émbolo baja. El sistema se ha
+preparado de tal manera que cuando el menisco de mercurio llega a 1 cm del borde superior de las
+paredes del inflador, se cierra un contacto eléctrico que permite el paso de la corriente.
+
+Suponiendo que el aire dentro del inflador se comporte como gas ideal y la temperatura se
+mantiene constante, calcule el tamaño máximo de la gota para que el contacto no se cierre antes de que
+transcurran $20000\ \text{seg}$ (5h 33m 20seg) desde que se depósito la primera gota.
+
+Datos numéricos:
+aceleración de la gravedad
+$g = 9.80\ \text{m/s}^2$
+
+1 atmósfera = 760 mm de mercurio
+
+densidad del mercurio: $13600\ \text{kg/m}^3$
+Prueba Experimental.
+
+Objetivo:
+
+Determinar la proporción relativa en volumen con la que se debe realizar una mezcla de
+alcohol y agua para obtener un líquido cuya densidad relativa al agua sea el promedio entre las
+densidades del agua (que es entonces igual a uno) y la del alcohol puro.
+
+Elementos:
+- Agua
+- Alcohol puro.
+- 4 vasos plásticos.
+- Manguera de látex.
+- Papel milimetrado.
+- Una tabla con dos pedazos de manguera plástica adozados.
+- Una jeringa graduada.
+- Una unión "T".
+- Una prensa.
+
+Requerimientos:
+
+Sólo podrá utilizar los elementos ofrecidos, papel, lápiz y calculadora. Al finalizar la
+experiencia, deberá entregar un informe donde conste:
+- Planteo analítico del problema.
+- Método experimental utilizado.
+- Valores obtenidos en las mediciones realizadas.
+- Fuentes de error y análisis de cómo influyen en el resultado final.
+- Resultado experimental de lo solicitado.
+- Comentarios que desee hacer.
+
+**Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
+**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
+**Fonte:** Testo (PDF) — p.2

@@ -1,0 +1,122 @@
+---
+tipo: prova
+prova_id: prova_3sol
+competition: India Physics Olympiad
+comp_code: India
+country: India
+year: na
+level: ''
+pdf: gare di altri paesi/India/matematica/3sol.pdf
+cluster: ''
+n_problemi: 6
+tags:
+- kg/prova
+- anno/na
+- paese/India
+- comp/India
+---
+
+# India na — 3sol.pdf
+
+**Fonte:** `gare di altri paesi/India/matematica/3sol.pdf` · [[gare di altri paesi/India/matematica/3sol.pdf#page=1|Apri PDF]] · [apri PDF p.1](file:///E%3A/giovanni/Dropbox/insegnamento/Wiligelmo/OlimpiadiFisica/raccolte%20gare%20di%20Fisica/gare%20di%20altri%20paesi/India/matematica/3sol.pdf#page=1)
+**Soluzioni (stessa cartella):** [[INMO_2021_solutions (soluzioni)|INMO_2021_solutions.pdf]] · [[INMO_2024_final_solutions (soluzioni)|INMO_2024_final_solutions.pdf]] · [[IOQM-Part-A-answer-key- (soluzioni)|IOQM-Part-A-answer-key-.pdf]] · [[Inmo-2019-Solutions (soluzioni)|Inmo-2019-Solutions.pdf]] · [[Part_B_2022_Solutions_revised (soluzioni)|Part_B_2022_Solutions_revised.pdf]] · [[RMO-2024-Official-Solutions (soluzioni)|RMO-2024-Official-Solutions.pdf]] · [[RMO-2025-KV-solutions (soluzioni)|RMO-2025-KV-solutions.pdf]] · [[RMO-2025-NonKV-solutions (soluzioni)|RMO-2025-NonKV-solutions.pdf]] · [[crmo-2013-solutions-1 (soluzioni)|crmo-2013-solutions-1.pdf]] · [[crmo-2013-solutions-2 (soluzioni)|crmo-2013-solutions-2.pdf]] · [[crmo-2013-solutions-2.pdf_1 (soluzioni)|crmo-2013-solutions-2.pdf_1.pdf]] · [[crmo-2013-solutions-4 (soluzioni)|crmo-2013-solutions-4.pdf]] · [[inmo2013-solutions (soluzioni)|inmo2013-solutions.pdf]] · [[ioqm2024-answerkey (soluzioni)|ioqm2024-answerkey.pdf]] · [[rmo-2011-solutions (soluzioni)|rmo-2011-solutions.pdf]] · [[rmosolutions2019 (soluzioni)|rmosolutions2019.pdf]] · [[solutions-KL-TN-18 (soluzioni)|solutions-KL-TN-18.pdf]] · [[solutions-crmo-18 (soluzioni)|solutions-crmo-18.pdf]] · [[solutions-to-rmo-2013-mumbai-region (soluzioni)|solutions-to-rmo-2013-mumbai-region.pdf]] · [[solutions (soluzioni)|solutions.pdf]]
+
+## Problema 1
+
+1. Let $ABC$ be a triangle and $D$ be the mid-point of $BC$. Suppose the angle bisector of $\angle ADC$ is
+tangent to the circumcircle of triangle $ABD$ at $D$. Prove that $\angle A = 90^\circ$.
+
+Solution: Let $P$ be the center of the circumcircle $\Gamma$ of $\triangle ABC$. Let the tangent at $D$ to $\Gamma$ intersect $AC$ in $E$. Then $PD \perp DE$. Since $DE$ bisects $\angle ADC$, this implies that $DP$ bisects $\angle ADB$. Hence the circumcenter and the incenter of $\triangle ABD$ lies on the same line $DP$. This implies that $DA = DB$. Thus $DA = DB = DC$ and hence $D$ is the circumcenter of $\triangle ABC$. This gives $\angle A = 90^\circ$.
+
+**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** [[gare di altri paesi/India/matematica/3sol.pdf#page=1|Testo (PDF) — p.1]]
+
+## Problema 2
+
+2. Let $a, b, c$ be positive real numbers such that $abc = 1$. Prove that
+$$\frac{a^3}{(a-b)(a-c)} + \frac{b^3}{(b-c)(b-a)} + \frac{c^3}{(c-a)(c-b)} \geq 3.$$
+
+Solution: Observe that
+$$\frac{1}{(a-b)(a-c)} = \frac{(b-c)}{(a-b)(b-c)(a-c)} = \frac{(a-c) - (a-b)}{(a-b)(b-c)(a-c)} = \frac{1}{(a-b)(b-c)} - \frac{1}{(b-c)(a-c)}.$$
+
+Hence
+$$\frac{a^3}{(a-b)(a-c)} + \frac{b^3}{(b-c)(b-a)} + \frac{c^3}{(c-a)(c-b)} = \frac{a^3 - b^3}{(a-b)(b-c)} + \frac{c^3 - a^3}{(c-a)(c-b)}$$
+$$= \frac{a^2 + ab + b^2}{b-c} - \frac{c^2 + ca + a^2}{b-c} = \frac{ab + b^2 - c^2 - ca}{b-c} = \frac{(a+b+c)(b-c)}{b-c} = a + b + c.$$
+
+Therefore
+$$\frac{a^3}{(a-b)(a-c)} + \frac{b^3}{(b-c)(b-a)} + \frac{c^3}{(c-a)(c-b)} = a + b + c \geq 3(abc)^{1/3} = 3.$$
+
+**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** [[gare di altri paesi/India/matematica/3sol.pdf#page=1|Testo (PDF) — p.1]]
+
+## Problema 3
+
+3. Let $a, b, c, d, e, f$ be positive integers such that
+$$\frac{a}{b} < \frac{c}{d} < \frac{e}{f}.$$
+Suppose $af - be = -1$. Show that $d \geq b + f$.
+
+Solution: Since $bc - ad > 0$, we have $bc - ad \geq 1$. Similarly, we obtain $de - fc \geq 1$. Therefore
+$$d = d(be - af) = dbe - daf = dbe - bfc + bfc - adf = b(de - fc) + f(bc - ad) \geq b + f.$$
+
+**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** [[gare di altri paesi/India/matematica/3sol.pdf#page=1|Testo (PDF) — p.1]]
+
+## Problema 4
+
+4. There are 100 countries participating in an olympiad. Suppose $n$ is a positive integer such that each
+of the 100 countries is willing to communicate in exactly $n$ languages. If each set of 20 countries can
+communicate in at least one common language, and no language is common to all 100 countries,
+what is the minimum possible value of $n$?
+
+Solution: We show that $n = 20$.
+We first show that $n = 20$ is possible.
+Call the countries $C_1, \cdots, C_{100}$. Let $1, 2, \cdots, 21$ be languages and suppose, the country $C_i$ ($1 \leq i \leq 20$) communicates exactly in the languages $\{j : 1 \leq j \leq 20,\ j \neq i\}$. Suppose each of the countries $C_{21}, \cdots, C_{100}$ communicates in the languages $1, 2, \cdots, 20$. Then, clearly every set of 20 countries have a common language of communication.
+
+Now, we show that $n \geq 20$. If $n < 20$, look at any country $A$ communicating in the languages $L_1, \cdots, L_n$. As no language is common to all 100 countries, for each $L_i$, there is a country $A_i$ not communicating in $L_i$. Then, the $n + 1 \leq 20$ countries $A, A_1, A_2, \cdots, A_n$ have no common language of communication. This contradiction shows $n \geq 20$.
+
+**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** [[gare di altri paesi/India/matematica/3sol.pdf#page=1|Testo (PDF) — p.1]]
+
+## Problema 5
+
+5. Let $ABC$ be a right-angled triangle with $\angle B = 90^\circ$. Let $I$ be the incentre of $ABC$. Extend $AI$
+and $CI$; let them intersect $BC$ in $D$ and $AB$ in $E$ respectively. Draw a line perpendicular to $AI$ at
+$I$ to meet $AC$ in $J$; draw a line perpendicular to $CI$ at $I$ to meet $AC$ in $K$. Suppose $DJ = EK$.
+Prove that $BA = BC$.
+
+Solution: Extend $JI$ to meet $CB$ extended at $L$. Then $ALBI$ is a cyclic quadrilateral. Therefore $\angle BLI = \angle BAI = \angle IAC$. Therefore $\angle LAD = \angle IBD = 45^\circ$. Since $\angle AIL = 90^\circ$, it follows that $\angle ALI = 45^\circ$. Therefore $AI = IL$. This shows that the triangles $AIJ$ and $LID$ are congruent giving $IJ = ID$. Similarly, $IK = IE$. Since $IJ \perp ID$ and $IK \perp IE$ and since $DJ = EK$, we see that $IJ = ID = IK = IE$. Thus $E, D, J, K$ are concyclic. This implies together with $DJ = EK$ that $EDJK$ is an isosceles trapezium. Therefore $DE \parallel JK$. Hence $\angle EDA = \angle DAC = \angle A/2$ and $\angle DEC = \angle ECA = \angle C/2$. Since $IE = ID$, it follows that $\angle A/2 = \angle C/2$. This means $BA = BC$.
+
+**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** [[gare di altri paesi/India/matematica/3sol.pdf#page=2|Testo (PDF) — p.2]]
+
+## Problema 6
+
+6. (a) Given any natural number $N \geq 3$, prove that there exists a strictly increasing sequence of $N$
+positive integers in harmonic progression.
+(b) Prove that there cannot exist a strictly increasing infinite sequence of positive integers which is
+in harmonic progression.
+
+Solution: (a) Let $N \geq 3$ be a given positive integer. Consider the HP
+$$1,\ \frac{1}{2},\ \frac{1}{3},\ \frac{1}{4},\ \ldots,\ \frac{1}{N}.$$
+If we multiply this by $N!$, we get the HP
+$$N!,\ \frac{N!}{2},\ \frac{N!}{3},\ \frac{N!}{4},\ \ldots,\ \frac{N!}{N}.$$
+This is decreasing. We write this in reverse order to get a strictly increasing HP:
+$$\frac{N!}{N},\ \frac{N!}{N-1},\ \frac{N!}{N-2},\ \ldots,\ \frac{N!}{3},\ \frac{N!}{2},\ N!.$$
+
+(b) Assume the contrary that there is an infinite strictly increasing sequence $\langle a_1, a_2, a_3, \ldots, \rangle$ of positive integers which forms a harmonic progression. Define $b_k = 1/a_k$, for $k \geq 1$. Then $\langle b_1, b_2, b_3, \ldots \rangle$ is a strictly decreasing sequence of positive rational numbers which is in an arithmetic progression.
+Let $d = b_2 - b_1 < 0$ be its common difference. Then $b_1 - b_2 > 0$. Choose a positive integer $n$ such that
+$$n > \frac{b_1}{b_1 - b_2}.$$
+Then
+$$b_{n+1} = b_1 + (b_2 - b_1)n = b_1 - (b_1 - b_2)n < b_1 - \left(\frac{b_1}{b_1 - b_2}\right) \times (b_1 - b_2) = 0.$$
+Thus for all large $n$, we see that $b_n$ is negative contradicting $b_n$ is positive for all $n$.
+
+———-0———-
+
+**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** [[gare di altri paesi/India/matematica/3sol.pdf#page=2|Testo (PDF) — p.2]]

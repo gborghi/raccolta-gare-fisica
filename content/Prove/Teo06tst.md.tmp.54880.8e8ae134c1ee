@@ -1,0 +1,132 @@
+---
+tipo: prova
+prova_id: prova_Teo06tst
+competition: "Olimpiadi Italiane della Fisica"
+comp_code: "OII"
+country: "Italia"
+year: 2006
+level: "Nazionale"
+pdf: "Gara individuale/nazionale/teorica/naz2006tpd/Teo06tst.pdf"
+generator: llm-retranscribed
+tags: [kg/prova]
+---
+
+# OII 2006 Nazionale — Teo06tst.pdf
+
+**Fonte:** `Gara individuale/nazionale/teorica/naz2006tpd/Teo06tst.pdf` · [[Gara individuale/nazionale/teorica/naz2006tpd/Teo06tst.pdf#page=1|Apri PDF]]
+
+## Problema 1
+
+**Attenti alla colla!** — 100 Punti
+
+Un manubrio è costituito da due piccole sferette di uguale massa $m$, incollate alle estremità di una sottile asticciola rigida, di lunghezza $L$, avente massa trascurabile rispetto a quella delle sferette. Si trattino le sferette come puntiformi.
+
+Il manubrio può ruotare liberamente, con attrito trascurabile, in un piano verticale, attorno ad un asse orizzontale passante per un punto dell'asticella distante $L/3$ da un'estremità, come in figura. Inizialmente il manubrio si trova, fermo, nella sua posizione di equilibrio instabile. Ad un certo istante, per una piccolissima perturbazione, il manubrio comincia a ruotare.
+
+1. Si determini la velocità angolare in funzione di $L$ e dell'angolo $\theta$ che la parte più lunga dell'asticella forma con la verticale ascendente (vedi figura).
+
+La sferetta 1, più lontana dall'asse di rotazione, è incollata male, e nel corso della rotazione, quando la forza che la tiene attaccata all'asticella raggiunge un valore pari a $1.8$ volte il peso della sferetta, si stacca.
+
+2. Detta $\vec{F}$ la forza che l'asticella esercita sulla sferetta 1, si dimostri che le sue componenti radiale e tangenziale sono date rispettivamente dalle relazioni seguenti:
+
+$$F_r = \frac{1}{5}\,mg\,(4 - 9\cos\theta)$$
+
+$$F_t = -\frac{3}{5}\,mg\,\sin\theta$$
+
+dove si sono assunti positivi rispettivamente il verso centripeto e quello delle $\theta$ crescenti.
+
+3. Si trovi il valore $\theta_d$ dell'angolo a cui si verifica il distacco.
+
+4. Dopo il distacco, si descriva il moto della sferetta rimanente (sferetta 2), determinando in particolare la posizione $\theta_i$ in cui essa inverte il suo moto (si supponga che questa sferetta non si stacchi).
+
+5. Si calcoli il rapporto tra la forza che il vincolo esercita sull'asticella quando la sferetta 2 (dopo il distacco della prima) passa per il punto più basso della sua traiettoria e il peso della sferetta.
+
+**Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Fonte:** [[Gara individuale/nazionale/teorica/naz2006tpd/Teo06tst.pdf#page=1|Testo (PDF) — p.1]]
+
+## Problema 2
+
+**Zig-zagando...** — 50 Punti
+
+Il moto irregolare di particelle microscopiche molto più grandi delle molecole del liquido in cui sono immerse è detto **moto browniano**, in quanto fu osservato per la prima volta nel 1828 da R. Brown. Nella teoria formulata da A. Einstein nel 1905, il moto browniano di una particella è descritto utilizzando il coefficiente di diffusione $D$ legato alla viscosità del liquido dalla relazione (detta appunto di Einstein):
+
+$$D = \frac{R\,T}{6\pi\,\eta\,a\,N_A}$$
+
+dove $R$ è la costante universale dei gas perfetti (il cui valore all'epoca era già noto), $T$ la temperatura assoluta, $\eta$ la viscosità del liquido, $a$ il raggio della particella e $N_A$ il Numero di Avogadro.
+
+A sua volta il coefficiente di diffusione è legato al valore medio su varie traiettorie del quadrato dello spostamento $\ell$ subito dalla particella nel tempo $t$, cioè:
+
+$$\langle \ell^2 \rangle = 6\,D\,t$$
+
+La teoria di Einstein fu presto seguita dalle conferme sperimentali di J. Perrin (1908). In una di queste, il fenomeno venne utilizzato per determinare il Numero di Avogadro. La figura, riprodotta dal libro "Les atomes" di Perrin, mostra i risultati di una serie di osservazioni — viste al microscopio — della migrazione di una particella di raggio $a = 0.53\ \mu\text{m}$ soggetta ad un moto browniano. Il fattore di scala della figura è tale che il lato di un quadretto corrisponde a $3.2\ \mu\text{m}$. I punti rappresentano la posizione osservata della particella ad intervalli di tempo costanti $t = 30\ \text{s}$. La temperatura dell'acqua è $25\ ^\circ\text{C}$ e la sua viscosità è $\eta = 1.00 \times 10^{-3}\ \text{kg\,m}^{-1}\text{s}^{-1}$.
+
+1. Misurando almeno 10 spostamenti consecutivi della particella (partendo da un punto qualunque in figura) ricavare una stima del Numero di Avogadro $N_A$.
+
+   **Avvertenza:** Nella soluzione è richiesta l'annotazione della prima posizione utilizzata (a partire da quella indicata con il n. 1 in figura); inoltre tutte le misure eseguite devono essere riportate in una tabella del tipo:
+
+   | Spostamento n. | lunghezza in figura (quadretti) | lunghezza $\ell$ effettiva ($\mu$m) | $\ell^2$ ($\mu\text{m}^2$) |
+   |---|---|---|---|
+   | ... | ... | ... | ... |
+
+2. In che modo si potrebbe valutare l'incertezza sulla precedente stima del Numero di Avogadro?
+
+**Topic:** [[Kinetic Theory]], [[Order-of-Magnitude Estimation]]
+**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Statistical Averaging (metodo)|Statistical Averaging]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
+**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Error Propagation (competenza)|Error Propagation]]
+**Fonte:** [[Gara individuale/nazionale/teorica/naz2006tpd/Teo06tst.pdf#page=2|Testo (PDF) — p.2]]
+
+## Problema 3
+
+**Pierino in laboratorio** — 100 Punti
+
+Pierino ha studiato a scuola cosa è un **selettore di velocità**: un dispositivo nel quale qualunque particella carica (ione) si muove di moto rettilineo uniforme solo se la sua velocità ha un valore determinato.
+
+Si considera una regione in cui sono contemporaneamente presenti un campo elettrico e un campo magnetico stazionari, uniformi e ortogonali tra loro; un sistema di assi cartesiani ortogonali viene fissato in modo che l'asse $x$ sia nella direzione e verso di $\vec{E}$ e l'asse $y$ nella direzione e verso di $\vec{B}$. Indicando come di consueto con $\hat{\imath}$, $\hat{\jmath}$ e $\hat{k}$ i versori (vettori unitari) orientati lungo i tre assi cartesiani $x$, $y$ e $z$, si può dunque scrivere $\vec{E} = E\,\hat{\imath}$ e $\vec{B} = B\,\hat{\jmath}$.
+
+Se uno ione (di cui è noto il rapporto carica–massa $q/m$) si muove in tale regione con una generica velocità istantanea $\vec{v} = v_x\,\hat{\imath} + v_y\,\hat{\jmath} + v_z\,\hat{k}$, allora il suo moto è accelerato.
+
+1. Quanto vale, in modulo, la sua accelerazione istantanea?
+
+   *Suggerimento: Si ricorda che il prodotto vettoriale gode della proprietà distributiva rispetto alla somma: $(\vec{A} + \vec{B}) \times \vec{C} = \vec{A} \times \vec{C} + \vec{B} \times \vec{C}$.*
+
+2. Per quali velocità iniziali sono possibili moti rettilinei uniformi dello ione e quale di questi corrisponde alla minima energia cinetica della particella?
+
+Pierino pensa che un tale dispositivo si possa realizzare usando semplicemente un generatore reale di f.e.m. ($V$, con resistenza interna $r$), un grosso condensatore a facce piane parallele (di superficie $S$ e distanza $d$) e un solenoide ($N$ spire, raggio $a < d/2$, lunghezza $\ell$ e resistenza nulla).
+
+3. Disegnare schematicamente la disposizione "spaziale" degli oggetti che Pierino vorrebbe usare.
+
+4. Disegnare gli schemi dei circuiti che si hanno disponendo i tre componenti in serie o in parallelo e spiegare per quale motivo in nessuno dei due casi si può realizzare il dispositivo descritto che funzioni a regime, cioè per valori stazionari dei campi.
+
+Dopo averci pensato un po' Pierino si accorge che è possibile realizzare il dispositivo con l'aggiunta di un resistore opportunamente inserito in uno qualunque dei due circuiti; decide di usare quello con gli elementi disposti in parallelo.
+
+5. Disegnare lo schema del circuito definitivo e calcolare (in funzione dei parametri indicati in precedenza) il valore della velocità che dovrebbe avere lo ione per muoversi di moto uniforme perpendicolarmente ai due campi.
+
+6. Assumendo i seguenti valori numerici dei parametri dei componenti del circuito:
+
+$$V = 12\ \text{V},\quad r = 5\ \Omega,\quad S = 1\ \text{m}^2,\quad d = 5\ \text{cm},\quad N = 1000,\quad a = 2\ \text{cm},\quad \ell = 50\ \text{cm}$$
+
+   dire quale resistenza dovrebbe essere usata affinché la velocità costante dello ione sia prossima a $v = 8 \times 10^6\ \text{m\,s}^{-1}$.
+
+7. Dal momento in cui si disconnette il generatore lasciando il resto del circuito collegato fino al completo spegnimento del dispositivo, quanta energia viene convertita in calore nella resistenza?
+
+**Topic:** [[Electromagnetism]], [[Circuits]], [[Electromagnetic Induction]]
+**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Fonte:** [[Gara individuale/nazionale/teorica/naz2006tpd/Teo06tst.pdf#page=3|Testo (PDF) — p.3]]
+
+## Problema 4
+
+**Luci ed ombre** — 50 Punti
+
+Un fascio collimato di luce monocromatica, assimilabile ad un'onda piana, incide ortogonalmente sulla faccia piana verticale di un componente di vetro lucidato (indice di rifrazione: $n = 1.5$) avente la forma di un quarto di cilindro di raggio $r = 5\ \text{cm}$, appoggiato con l'altra faccia piana su di un tavolo (vedi figura). La luce viene deviata per rifrazione e va a incidere sulla superficie del tavolo, dove forma un'area illuminata, di larghezza pari all'altezza del cilindro. Una parte della luce viene anche riflessa sul tavolo al di sotto del cilindro, ma di essa in questo problema non ci occupiamo.
+
+1. Qual è la distanza minima, a partire dal bordo posteriore del cilindro ($x$ in figura), a cui la superficie del tavolo risulta illuminata? Fra i raggi che incidono sul tavolo, quello che giunge a distanza $x$ è quello inizialmente più alto sul piano del tavolo.
+
+2. E quella massima, che si ha nel caso dei raggi in arrivo radenti al tavolo?
+
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Fonte:** [[Gara individuale/nazionale/teorica/naz2006tpd/Teo06tst.pdf#page=4|Testo (PDF) — p.4]]

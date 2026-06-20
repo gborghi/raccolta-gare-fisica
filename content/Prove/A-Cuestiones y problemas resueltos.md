@@ -1,0 +1,171 @@
+---
+tipo: prova
+prova_id: prova_A-Cuestiones y problemas resueltos
+competition: 'Olimpiada de Física — Departamento de Física, Jaén'
+comp_code: OFJaen
+country: Spain
+year: ''
+level: Local/Provincial
+pdf: gare di altri paesi/Spagna/Jaen/A-Cuestiones y problemas resueltos.pdf
+generator: llm-extracted
+tags:
+  - kg/prova
+---
+
+# [OFJaen] — A-Cuestiones y problemas resueltos.pdf
+
+**Fonte:** `gare di altri paesi/Spagna/Jaen/A-Cuestiones y problemas resueltos.pdf` · Apri PDF
+
+## Problema 1
+
+
+
+
+
+
+
+
+**C1.** Una plataforma gira alrededor de un eje vertical a razón de una vuelta por segundo. Colocamos sobre ella un cuerpo cuyo coeficiente estático de rozamiento es $\mu = 0{,}4$.
+
+a) Calcular la distancia máxima al eje de giro para la cual el cuerpo gira con la plataforma y no es lanzado al exterior.
+
+b) Si permaneciendo el cuerpo en esa distancia máxima, la plataforma se para en $0{,}2$ segundos, describa qué ocurriría con el cuerpo.
+
+**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Fonte:** Testo (PDF) — p.1
+
+## Problema 2
+
+
+
+
+
+
+
+
+**C2.** Un disco de momento de inercia $I_1$ gira alrededor de un eje vertical, sin fricción y que pasa por su centro, con una velocidad angular $\omega_1$. Un segundo disco, cuyo momento de inercia es $I_2$, y que no gira en principio, se deja caer sobre el primero acoplándose con él. Calcular:
+
+a) La velocidad angular $\omega$ con la cual giran ambos discos después de la unión.
+
+b) La energía mecánica perdida en el acoplamiento.
+
+**Topic:** [[Rotational Dynamics]], [[Conservation of Energy]], [[Conservation of Momentum]]
+**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Fonte:** Testo (PDF) — p.2
+
+## Problema 3
+
+
+
+
+
+
+
+
+**C3.** La ecuación de una onda transversal que se propaga en una cuerda es:
+
+$$y(x,t) = 20\,\sin\!\bigl(2\pi(x - 0{,}4\,t)\bigr)$$
+
+donde $x$ e $y$ se expresan en cm y $t$ en segundos. Determinar:
+
+a) Amplitud, longitud de onda y velocidad de propagación de la onda.
+
+b) Velocidad transversal máxima de un punto cualquiera de la cuerda.
+
+c) Dibuje la onda situando el origen de coordenadas e indique el valor de estas magnitudes.
+
+**Topic:** [[Oscillations & Waves]]
+**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Fonte:** Testo (PDF) — p.3
+
+## Problema 4
+
+
+
+
+
+
+
+
+**C4.** En la figura se representan las líneas de campo creadas por cuatro partículas cargadas.
+
+a) Dibuje en la misma figura, de forma aproximada, las superficies equipotenciales.
+
+b) Indique razonadamente si el trabajo para llevar una carga positiva desde el punto $A$ al punto $B$ es positivo, negativo o cero.
+
+c) Indique razonadamente si el trabajo para llevar una carga positiva desde el punto $A$ al punto $C$ es positivo, negativo o cero.
+
+**Topic:** [[Electrostatics]]
+**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Symmetry Argument (metodo)|Symmetry Argument]], [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Fonte:** Testo (PDF) — p.4
+
+## Problema 5
+
+
+
+
+
+
+
+
+**P1.** Se suelta una bolita desde el punto $A$. Tras llegar a $B$, sale horizontalmente recorriendo una distancia de $40$ cm, igual a la altura del escalón, hasta que toca el suelo.
+
+a) Obtener la altura $h$ (figura 1a) desde la que se ha soltado la bola.
+
+b) Si $h$ hubiera sido 3 veces más grande, ¿qué distancia horizontal hubiera recorrido desde que abandona la rampa en $B$ hasta que toca el suelo?
+
+c) ¿Qué relación matemática relaciona la altura $h$ con la distancia horizontal recorrida $x$? (ver figura 1b). Aplicarla para obtener la altura desde la que habría que soltar la bola para que alcanzara una distancia $x = 0{,}8$ m.
+
+Considérese $g = 10\ \text{m/s}^2$.
+
+**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Fonte:** Testo (PDF) — p.5
+
+## Problema 6
+
+
+
+
+
+
+
+
+**P2.** Un bloque de masa $M = 980\ \text{g}$ está en reposo sobre una superficie horizontal, unido a un muelle elástico de masa despreciable que por el otro extremo está rígidamente unido a la pared. Una masa de plastilina de $20\ \text{g}$ se lanza con una velocidad horizontal de $20\ \text{m/s}$, chocando y quedando unida al bloque. El muelle se comprime $4\ \text{cm}$ y comienza a realizar un movimiento oscilatorio.
+
+Supuesto que no hay rozamiento, hallar:
+
+a) La constante elástica del muelle.
+
+b) El periodo de oscilación del muelle.
+
+**Topic:** [[Oscillations & Waves]], [[Conservation of Momentum]], [[Conservation of Energy]]
+**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Hooke's Law (metodo)|Hooke's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Fonte:** Testo (PDF) — p.7
+
+## Problema 7
+
+
+
+
+
+
+
+
+**P3.** Considere tres alambres rectos, largos y paralelos por los que circulan intensidades de $3\ \text{A}$, $1{,}5\ \text{A}$ y $10\ \text{A}$ respectivamente en las direcciones indicadas en la figura (alambres F, C y G). Calcular:
+
+a) El campo magnético que se crea sobre el alambre $C$.
+
+b) La fuerza por unidad de longitud que experimenta el alambre $C$. ¿En qué dirección?
+
+**Topic:** [[Magnetism]], [[Electromagnetism]]
+**Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Superposition Principle (metodo)|Superposition Principle]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Fonte:** Testo (PDF) — p.8

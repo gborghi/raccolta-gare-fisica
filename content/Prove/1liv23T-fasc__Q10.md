@@ -1,0 +1,40 @@
+---
+tipo: quesito
+quesito_id: quesito_1liv23T-fasc__Q10
+parent: prova_1liv23T-fasc
+competition: Olimpiadi Italiane della Fisica
+comp_code: OII
+country: Italia
+year: '2023'
+level: 1° Livello
+pdf: Gara individuale/1livello/2023/1liv23T-fasc.pdf
+cluster: Meccanica
+quesito: '10'
+tags:
+  - nazione/italia
+  - tipo-gara/individuale
+  - livello/1-livello
+  - difficolta/1
+  - multidisciplina/bi
+  - topic/gravitation
+  - topic/newtonian-mechanics
+  - argomento/meccanica
+---
+
+# OII 2023 1° Livello — Quesito 10
+
+Un'astronauta pesa 500 N sulla Terra e 25 N su un asteroide X.
+
+L'accelerazione di gravità sull'asteroide X è approssimativamente
+
+(A) $0.05\,\text{m s}^{-2}$
+(B) $0.2\,\text{m s}^{-2}$
+(C) $0.5\,\text{m s}^{-2}$
+(D) $1\,\text{m s}^{-2}$
+(E) $2\,\text{m s}^{-2}$
+
+**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** Testo (PDF) — p.4
+**Risposta:** **C** · Soluzioni (PDF)

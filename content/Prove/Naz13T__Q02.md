@@ -1,0 +1,56 @@
+---
+tipo: quesito
+quesito_id: quesito_Naz13T__Q02
+parent: prova_Naz13T
+competition: Olimpiadi Italiane della Fisica
+comp_code: OII
+country: Italia
+year: '2013'
+level: Nazionale
+pdf: Gara individuale/nazionale/teorica/naz2013th/Naz13T.pdf
+cluster: Meccanica
+quesito: '2'
+tags:
+  - nazione/italia
+  - tipo-gara/individuale
+  - livello/nazionale
+  - difficolta/4
+  - multidisciplina/mono
+  - topic/electrostatics
+  - argomento/meccanica
+---
+
+# OII 2013 Nazionale Teorica — Problema 2
+
+**L'attrazione dell'induzione elettrostatica**
+
+Una sferetta di massa $m$ possiede una carica $q$ ed è appesa ad un lungo filo. Se si dispone la sferetta vicino ad una lastra conduttrice scarica, si osserva che la sferetta viene attratta dalla lastra; questo accade perché, per induzione, sulla superficie della lastra si forma una distribuzione di cariche di segno opposto a $q$. Si supponga che, all'equilibrio, la sferetta si trovi ad una distanza $a$ dalla lastra e che il filo formi un angolo $\alpha$ con la verticale.
+
+Rispetto alla distanza $a$ tra carica e lastra le dimensioni della sferetta sono molto piccole cosicché la carica $q$ può essere sempre considerata **puntiforme**; inoltre le dimensioni della lastra, molto maggiori di $a$, possono essere considerate **infinite**. Si può quindi considerare un piano (di equazione $x = 0$) come superficie di separazione tra un mezzo conduttore nel semispazio $x < 0$ e il vuoto nel semispazio $x > 0$, entro cui si trova la sferetta. Nella figura è indicato anche il sistema di coordinate consigliato, in modo che la sferetta si trovi sull'asse $x$, quindi nel punto di coordinate $(a, 0, 0)$, che l'asse $y$ sia verticale e orientato verso l'alto e l'asse $z$ perpendicolare al piano della figura ed uscente.
+
+Relativamente alla distribuzione delle cariche indotte, sarà sufficiente studiare la situazione lungo l'asse $y > 0$. Infatti, per simmetria, la densità di carica, $\sigma$, dipenderà solo dalla distanza $r$ del punto considerato dall'origine ($r^2 = y^2 + z^2$).
+
+**1.** Per determinare il campo elettrostatico in un generico punto $P = (x, y, 0)$ nel semispazio vuoto $x > 0$ si consideri inizialmente il punto $Q = (-x, y, 0)$ all'interno del materiale conduttore e simmetrico di $P$ rispetto al piano di separazione tra i due mezzi. Si scrivano il vettore campo e.s. $\vec{E}(Q)$ prodotto da tutte le cariche presenti e il vettore $\vec{E}_1(Q)$ prodotto dalle sole cariche indotte che si formano sulla superficie della lastra (piano $x = 0$). Qui — e nel seguito — si esprimano i vettori usando la notazione coi versori o per componenti.
+
+**2.** Si scriva adesso il campo e.s. $\vec{E}_1$ (prodotto dalle sole cariche indotte presenti sulla superficie della lastra) nel punto $P$ nel semispazio $x > 0$, mostrando che, limitatamente a questo semispazio, il campo $\vec{E}_1$ è identico a quello generato da una singola carica puntiforme $q'$ di cui si chiede il valore e la posizione.
+
+**3.** A titolo d'esempio, si scriva il campo e.s. (totale) $\vec{E}$, nel punto $A = (a, a, 0)$.
+
+**4.** Si scriva il campo e.s. (totale) $\vec{E}$, in prossimità del punto $S = (0, r, 0)$ nel semispazio vuoto, cioè in un punto vicinissimo alla superficie della lastra, a distanza $r$ dall'origine $O$; in altri termini, il limite dell'espressione del campo per $x \to 0^+$, $y = r$, $z = 0$.
+
+**5.** Si calcoli la densità di carica indotta $\sigma(r)$ nel punto $S$ e si dica quanto vale nel punto della superficie della lastra dove il suo modulo è massimo.
+
+**6.** Si calcoli il valore della carica $q$ in funzione di $m$, $a$ ed $\alpha$.
+
+**7.** Si calcoli la quantità totale di carica indotta sul piano conduttore.
+
+<!--fig:start-->
+![[_attachments/Naz13T/Naz13T_p4_f2.png]]
+*Carica q vicino a lastra conduttrice con immagine*
+<!--fig:end-->
+
+**Topic:** [[Electrostatics]]
+**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Symmetry Argument (metodo)|Symmetry Argument]], [[Gauss's Law (metodo)|Gauss's Law]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** Testo (PDF) — p.4
+**Soluzione:** Soluzioni (PDF)

@@ -1,0 +1,274 @@
+---
+tipo: prova
+prova_id: prova_2012Jan_R2
+competition: UK Physics Olympiad
+comp_code: UK
+country: UK
+year: 2012
+level: ''
+pdf: gare di altri paesi/UK/round2/2012Jan_R2.pdf
+cluster: Elettromagnetismo
+n_problemi: 5
+tags:
+- kg/prova
+- anno/2012
+- paese/UK
+- comp/UK
+- cluster/Elettromagnetismo
+---
+
+# UK 2012 — 2012Jan_R2.pdf
+
+**Fonte:** `gare di altri paesi/UK/round2/2012Jan_R2.pdf` · [[gare di altri paesi/UK/round2/2012Jan_R2.pdf#page=2|Apri PDF]] · [apri PDF p.2](file:///E%3A/giovanni/Dropbox/insegnamento/Wiligelmo/OlimpiadiFisica/raccolte%20gare%20di%20Fisica/gare%20di%20altri%20paesi/UK/round2/2012Jan_R2.pdf#page=2)
+**Cluster:** [[Elettromagnetismo]]
+
+## Problema 1
+
+Q1
+
+In this question you are asked to make reasoned estimates, assumptions and explanations. These must be clearly
+stated.
+
+(a)
+
+(i)
+The planet Venus orbits the Sun and is nearer the Sun than the Earth is. Viewed through weak binoculars
+Venus can often seem to be crescent shaped. Its size and shape appear to change some time later. Why is
+this?
+
+(ii) The planet Venus does not appear to change in this way viewed by the naked eye. However, its brightness
+does vary throughout its orbit. How and why?
+
+(iii) It was realised in the 18th century that if two telescopes on different parts of the Earth measured the
+position of Venus at the same time, the distance of the Earth to Venus could be determined and hence the
+scale of the Solar System. The radius of the Earth was quite well known. With the backing of the Royal
+Society, Captain Cooke performed the experiment when an eclipse of the Sun by Venus occurred
+(appearing as a black dot crossing the surface of the Sun). Why did he need the eclipse of the Sun? Why did
+he go to the South Pacific? Explain.
+
+(iv) A long hose is connected to a tap. If the end of the hose is partially covered by a thumb, the water seems
+to squirt out much faster. Explain.
+
+(v) Alpha radiation is observed and photographed digitally in a cloud chamber. The density of the track, (‘light’
+pixels/per unit length $p_x$), is plotted against distance from the source ($x$). Explain the shape of the graph in
+Figure 1.1.
+
+(b)
+
+A beam of electrons is accelerated through a p.d. of 100 V in a high vacuum tube, Figure 1.2. There is no
+external magnetic field. The beam current is $1\ \mu\text{A}$. The diameter of the cross section of the circular beam is $0.5\ \text{mm}$. Assume the electrons are constant density per unit area across the beam. Calculate:
+
+(i)
+The maximum velocity of the electrons.
+
+(ii) The velocity of electrons after they have travelled half the distance in the accelerating field.
+
+(iii) The magnetic field a distance of $5\ \text{mm}$ from the centre of the beam.
+
+(iv) What happens if the accelerating p.d. is increased to 100 kV?
+
+(c)
+
+(i)
+Figure 1.3 shows an active four terminal device (it has internal power supplies). $I_\text{in}$ is very small and the
+output behaves as if it is of p.d. $V_\text{out}$ and internal resistance $r$, where $r$ is a constant. Draw a very simple
+circuit that will behave in this way.
+
+(ii) Show that if the resistance $r$ is large compared to the resistance of the subsequent resistors in a complete
+circuit then the current $I_\text{out}$ will be constant and the device will act as a constant current source. What is the
+condition for a constant voltage source? Suggest a circuit for a constant voltage source.
+
+
+<!--fig:start-->
+![[_attachments/2012Jan_R2/2012Jan_R2_p2_f1.png]]
+*grafico densità pixel vs distanza*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2012Jan_R2/2012Jan_R2_p2_f2.png]]
+*tubo acceleratore fascio elettroni*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2012Jan_R2/2012Jan_R2_p3_f3.png]]
+*dispositivo attivo a quattro terminali*
+<!--fig:end-->
+
+**Topic:** [[Magnetism]], [[Circuits]], [[Nuclear & Particle Physics]]
+**Metodi:** [[Ampère's Law (metodo)|Ampère's Law]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Fonte:** [[gare di altri paesi/UK/round2/2012Jan_R2.pdf#page=2|Testo (PDF) — p.2]]
+
+## Problema 2
+
+Q2
+
+(a) In cosmology it is thought that the Universe is expanding and this results in an apparent velocity of
+recession $V_H$. This velocity is related to the distance from the observer $R_0$ by the equation:
+
+$$V_H = HR_0$$
+
+$H$ is Hubble's constant. A very distant galaxy at present (time $t_0$) is observed to be $R_0$ away. How would you
+expect the distance of the galaxy to change with time?
+
+(b) It can be shown that in the case of a number of atoms with one electronic energy level $E$, of value $\epsilon$ above
+the ground state, the number of electrons, $n_1$ in $E$ is related to the number in the ground state $n_0$ by the
+equation:
+
+$$\frac{n_1}{n_0} \approx e^{-\frac{\epsilon}{kT}}$$
+
+Where $T$ is the absolute temperature and $k$ is the Boltzman constant. Show that if the atom has two
+electronic levels $E_1$ and $E_2$ of energy $\epsilon_1$ and $\epsilon_2$ above the ground state then if $n_1 \ll n_0$ and $n_2 \ll n_0$ then:
+
+$$\frac{n_2}{n_1} \approx e^{-\frac{\epsilon_2 - \epsilon_1}{kT}}.$$
+
+**Topic:** [[Astrophysics]], [[Thermodynamics]], [[Kinetic Theory]]
+**Metodi:** [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Statistical Averaging (metodo)|Statistical Averaging]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
+**Fonte:** [[gare di altri paesi/UK/round2/2012Jan_R2.pdf#page=3|Testo (PDF) — p.3]]
+
+## Problema 3
+
+Q3
+
+(a) Figure 3.1 shows a diagram of the Earth and the Moon. Assume a very simple model that the whole
+smooth Earth is covered with a layer of water depth 750 m. Find an expression that relates the
+gravitational field due to the Moon at A and B (assume $r \ll x$). Hence give a reasoned estimate of the height
+of the tides at the equator. Ignore the effects of continents, ocean currents etc. Comment on your
+estimate and the assumptions you make.
+
+(b) The Moon is slowly coming towards the Earth. The gravitational tidal effect on the Moon will become
+greater. The Roche limit is the value of the radius of an orbit at which the tidal effect on a body, in this case
+the Moon, will disrupt the body if it has no internal tensile strength, eg composed of sand or loose rock.
+What would be the Roche limit for a neutron star radius 10 km and mass about the mass of the Sun?
+
+(c) The year is 3500 AD. Captain Amabo is steering his space ship Enterprise X11. He is searching for Dark
+Matter Asteroid VII which could be a hazard to space navigation. Dark matter interacts with ordinary
+matter through the exchange of gravitons that are the quanta of gravity. Gravitons were first detected in
+2035 AD. The normal electromagnetic interaction does not react with dark matter. Enterprise X11 photon
+rocket engines are switched off. Design a very simple apparatus that he could carry that would warn him of
+the possible hazard. What is the nature of the hazard?
+
+
+<!--fig:start-->
+![[_attachments/2012Jan_R2/2012Jan_R2_p4_f4.png]]
+*diagramma Luna-Terra maree*
+<!--fig:end-->
+
+**Topic:** [[Gravitation]], [[Astrophysics]], [[Modern-Quantum Physics]]
+**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** [[gare di altri paesi/UK/round2/2012Jan_R2.pdf#page=4|Testo (PDF) — p.4]]
+
+## Problema 4
+
+Q4
+
+(a) In 1971 Leon Chua formulated the theory of the memristor. It is a passive two terminal device. He realised
+that he could relate the circles labelled $v$, $q$, $i$, $\phi$ diagrammatically, as shown in Figure 4.1. Figure 4.1 is not
+a circuit diagram. The resistor in square 1 relates $v$ and $i$. The capacitor in square 2 relates $q$ and $v$. The
+inductor in square 3 relates $\phi$ and $i$. However, a device seems to be needed in square 4 to complete the
+symmetry. The name memristor was suggested for this device. In April 2008 HP Labs announced the
+development of a switching semiconductor memristor.
+
+(i) Are the equations in Figure.4.1 dimensionally consistent?
+
+(ii) The team that first produced a memristor on a chip suggested that it could revolutionise the fabrication
+and use of computer memories. How?
+
+(b)
+
+A student has been given the task of making a practical analogue of a memristor. She thinks that she could
+make a bar magnet from lightly magnetised steel filings covered in a thin layer of slippery plastic placed in a
+suitable tube. Explain how this set up is an analogue of a memristor. Her idea is illustrated in Figure 4.2.
+Comment briefly on the suggested analogue, being careful to explain the physics involved.
+
+(c)
+
+(i) A magnet will set itself along the field lines if it is able to rotate in the plane of the paper (Figures 4.3).
+There is a torque on the magnet due to the magnet’s interaction with the Earth’s field. The magnetic
+moment of a magnet, $m$ is the maximum torque on it in a field of 1 T. Find an expression for the torque on
+the magnet illustrated in Figure 4.3.
+
+(ii) It is possible to imagine a model of a magnet as a dipole where the pole strength is $q_m$. See Figure 4.4. The
+poles are $r$ apart. The force between two isolated magnetic poles is similar to that between two isolated
+charges i.e. where $\mu$ is the magnetic permeability of the intervening medium.
+
+$$F = \frac{\mu q_{m1} q_{m2}}{4\pi r^2}$$
+
+What is the relationship between $q_m$ and $m$?
+
+(d)
+
+(i) Figure 4.5 illustrates two “isolated” magnetic poles. The other two poles can be regarded as too far away
+to interact or contribute to the field. How can you find the direction of the field lines using a Hall probe?
+
+(ii) Show that for a small isolated magnet, the magnetic field $B$ at a large distance away $d$ from the magnet will
+be proportional to $\dfrac{1}{d^3}$.
+
+
+<!--fig:start-->
+![[_attachments/2012Jan_R2/2012Jan_R2_p5_f5.png]]
+*relazioni circuitali memristor quattro quadranti*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2012Jan_R2/2012Jan_R2_p6_f6.png]]
+*apparato analogico memristor magnete sonda Hall*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2012Jan_R2/2012Jan_R2_p6_f7.png]]
+*magnete in campo B esterno*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2012Jan_R2/2012Jan_R2_p6_f8.png]]
+*due poli magnetici separati distanza r*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2012Jan_R2/2012Jan_R2_p7_f9.png]]
+*due poli magnetici isolati su asta*
+<!--fig:end-->
+
+**Topic:** [[Magnetism]], [[Circuits]], [[Electrostatics]]
+**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Coulomb's Law (metodo)|Coulomb's Law]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** [[gare di altri paesi/UK/round2/2012Jan_R2.pdf#page=5|Testo (PDF) — p.5]]
+
+## Problema 5
+
+Q5
+
+In the late 19th century the American student, Edwin Hall, was given the problem of observing the effect of a
+magnetic field on electrons travelling in a conductor. This is known as the Hall effect and the probe has been
+used in Q4.
+
+Figure 5.1. Illustrates the experiment. A current is passed through a strip of gold leaf and the current carriers
+(usually electrons) pass through the gold leaf. The current passes through the gold leaf in the direction shown.
+The magnetic field acts on the moving current carriers and these carriers are pulled to the left. One thin edge of
+the gold leaf becomes positive (coloured pink/grey), relative to the other side. The Hall voltage, $V_H$ is the p.d.
+between points on the pink/grey face and the side opposite.
+
+(i) The number density of the carriers is $n$, the cross sectional area of the strip is $a$, the charge on the current
+carrier (electrons) is $e$. Derive or write down an expression for the drift velocity, $v_d$ in terms of $I, n, a, e$.
+
+(ii) Draw a circuit diagram that shows a practical circuit that could measure the Hall effect in a strip of gold
+leaf. The effect is very small.
+
+(iii) The charge carriers in semiconductors are fewer - therefore they move more rapidly for the same current
+density. How does this make the sensors based on Hall voltage more sensitive? In some materials the
+polarity of the voltage is reversed. Comment.
+
+(iv) Measuring the thickness of the gold leaf is difficult. A student knows that when viewing a strong white light
+through a piece of gold leaf the light appears green - blue. He has also read that if 1 g of gold is beaten out
+as thin as possible it covers an area of $50\ \text{m}^2$. Are these facts consistent? Explain.
+
+(v) The highest field available is 0.1 T. The length of the gold leaf is 40 mm, the width 10 mm and the current is
+200 mA. What is the drift velocity of the free electrons (one per atom)? What would be the Hall voltage?
+
+
+<!--fig:start-->
+![[_attachments/2012Jan_R2/2012Jan_R2_p7_f10.png]]
+*effetto Hall lamina d'oro in campo B*
+<!--fig:end-->
+
+**Topic:** [[Magnetism]], [[Electromagnetism]], [[Circuits]]
+**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
+**Fonte:** [[gare di altri paesi/UK/round2/2012Jan_R2.pdf#page=7|Testo (PDF) — p.7]]

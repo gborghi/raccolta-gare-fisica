@@ -1,0 +1,670 @@
+---
+tipo: quesito
+quesito_id: quesito_teo10sol__Q09
+parent: prova_teo10sol
+competition: Olimpiadi Italiane della Fisica
+comp_code: OII
+country: Italia
+year: '2010'
+level: Nazionale
+pdf: Gara individuale/nazionale/teorica/naz2010th/teo10sol.pdf
+cluster: Meccanica
+quesito: '9'
+tags:
+  - nazione/italia
+  - tipo-gara/individuale
+  - livello/nazionale
+  - difficolta/4
+  - multidisciplina/mono
+  - topic/thermodynamics
+  - argomento/meccanica
+---
+
+# OII 2010 Nazionale Teorica — Problema 9
+
+Quesito
+n.
+2.
+La
+temp
+eratura
+T
+B
+nello
+stato
+B
+dev
+e
+essere
+maggiore
+o
+uguale
+a
+T
+C
+,
+o
+vv
+ero,
+nel
+piano
+p
+ V
+,
+B
+dev
+e
+stare
+sopra
+l'isoterma
+p
+er
+C.
+Infatti
+nell'espansione
+adiabati a
+il
+la
+v
+oro
+
+e
+p
+ositiv
+o
+a
+sp
+ese
+dell'energia
+in
+terna
+e
+dunque
+la
+temp
+eratura
+pu
+o
+solo
+dimin
+uire
+o
+restare
+uguale
+(p
+er
+la
+v
+oro
+n
+ullo,
+ ome
+ aso
+estremo).
+Ne
+segue
+
+he
+(T
+B
+)
+min
+=
+T
+C
+=
+580
+K
+Al
+temp
+o
+stesso,
+p
+oi
+h
+
+e
+le
+adiabati
+he
+rev
+ersibili
+sono
+ urv
+e
+iso
+en
+tropi
+he,
+il
+pun
+to
+B
+dev
+e
+stare
+sotto
+l'adiabati a
+rev
+ersibile
+p
+er
+C
+dato
+
+he
+l'en
+tropia
+pu
+o
+solo
+aumen
+tare
+o
+al
+massimo
+restare
+ ostan
+te
+(se
+la
+trasformazione
+del
+gas
+fosse
+un'adiabati a
+rev
+ersibile).
+Il
+massimo,
+o
+meglio,
+l'estremo
+sup
+eriore
+p
+er
+la
+temp
+eratura
+T
+B
+pu
+o
+essere
+ al olato
+su
+una
+trasformazione
+adiabati a
+rev
+ersibile
+o
+v
+e
+T
+V
+
+ 1
+=
+ ost,
+do
+v
+e
+
+=
+
+p
+=
+V
+=
+7=5
+nel
+ aso
+di
+gas
+biatomi o.
+Quindi
+(T
+B
+)
+sup
+=
+
+V
+C
+V
+B
+
+ 1
+T
+C
+=
+2
+2=5
+T
+C
+=
+765
+K
+Il
+ragionamen
+to
+sv
+olto
+sopra
+pu
+o
+essere
+sviluppato
+a
+partire
+dalle
+stesse
+premesse
+dis utendo
+i
+div
+ersi
+ on
+tributi
+di
+ alore
+e
+la
+v
+oro
+p
+er
+determinare
+il
+v
+alore
+minimo
+di
+T
+B
+e
+ al olando
+la
+v
+ariazione
+di
+en
+tropia
+p
+er
+il
+v
+alore
+massimo.
+Nel
+seguito
+si
+indi
+heranno
+ on
+
+p
+e
+
+V
+i
+ alori
+molari,
+risp
+ettiv
+amen
+te
+a
+pressione
+e
+v
+olume
+ ostan
+te.
+P
+er
+un
+ i lo
+termo
+dinami o
+ U
+=
+0
+)
+Q
+=
+L
+Q
+A!B
+=
+n
+V
+(T
+B
+ T
+A
+)
+=
+5
+2
+nR
+(T
+B
+ T
+A
+)
+assorbito
+duran
+te
+l'iso
+ ora
+Q
+B!C
+=
+0
+essendo
+un'adiabati a
+Q
+C!A
+=
+n
+p
+(T
+A
+ T
+C
+)
+=
+7
+2
+nR
+(T
+A
+ T
+C
+)
+ eduto
+duran
+te
+l'isobara
+L
+A!B
+=
+0
+p
+er
+h
+
+e
+non
+ '
+
+e
+v
+ariazione
+di
+v
+olume
+L
+B!C
+
+0
+la
+v
+oro
+fatto
+v
+erso
+l'esterno
+nell'abiabati a
+irrev
+ersibile
+L
+C!A
+=
+p
+ V
+=
+nR
+(T
+A
+ T
+C
+)
+<
+0
+p
+er
+h
+
+e
+il
+gas
+viene
+ ompresso
+P
+er
+il
+primo
+prin ipio
+si
+ha
+dunque
+Q
+A!B
++
+Q
+C!A
+=
+L
+B!C
++
+L
+C!A
+)
+L
+B!C
+=
+n
+V
+(T
+B
+ T
+A
+)
++
+n
+p
+(T
+A
+ T
+C
+)
+ nR
+(T
+A
+ T
+C
+)
+=
+=
+n
+V
+T
+B
++
+n(
+V
++
+
+p
+ R
+)T
+A
+ n(
+p
+ R
+)T
+C
+=
+n
+V
+(T
+B
+ T
+C
+)
+T
+rattandosi
+di
+un'espansione
+il
+la
+v
+oro
+dev
+e
+essere
+non
+negativ
+o
+p
+er
+ ui
+(T
+B
+ T
+C
+)
+
+0
+)
+T
+B
+
+T
+C
+P
+er
+l'espansione
+adiabati a
+irrev
+ersibile
+dev
+e
+essere
+ S
+>
+0,
+o
+vv
+ero
+ S
+B!C
+=
+nR
+ln
+V
+C
+V
+B
++
+n
+V
+ln
+T
+C
+T
+B
+=
+nR
+
+ln
+2
++
+5
+2
+ln
+T
+C
+T
+B
+
+>
+0
+)
+)
+ln
+T
+C
+T
+B
+>
+ 2
+5
+ln
+2
+)
+T
+B
+<
+2
+2=5
+T
+C
+In
+de
+nitiv
+a,
+p
+er
+la
+temp
+eratura
+dello
+stato
+B
+v
+algono
+le
+ ondizioni
+580
+K
+
+T
+B
+<
+765
+K
+P
+ag.
+4
+AIF
+{
+Olimpiadi
+di
+Fisi a
+Ga
+ra
+Nazionale:
+SOLUZIONE
+della
+Prova
+T
+eo
+ri a
+{
+Senigallia
+{
+9
+Ap
+rile
+2010
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** Testo (PDF) — p.4
+**Soluzione:** Soluzioni (PDF)

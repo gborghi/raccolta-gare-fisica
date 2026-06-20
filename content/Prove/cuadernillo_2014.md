@@ -1,0 +1,922 @@
+---
+tipo: prova
+prova_id: prova_cuadernillo_2014
+competition: Argentina Physics Olympiad
+comp_code: Argent
+country: Argentina
+year: '2014'
+level: ''
+pdf: gare di altri paesi/Argentina/pruebas-locales/cuadernillo_2014.pdf
+cluster: Meccanica
+n_problemi: '6'
+tags:
+  - kg/prova
+  - anno/2014
+  - paese/Argentina
+  - comp/Argent
+  - cluster/Meccanica
+---
+
+# Argent 2014 — cuadernillo_2014.pdf
+
+**Fonte:** `gare di altri paesi/Argentina/pruebas-locales/cuadernillo_2014.pdf` · Apri PDF · apri PDF p.3
+**Cluster:** [[Meccanica]]
+
+## Problema 1
+
+Problema 1
+Aprovechando el viento
+La energía eólica supone actualmente una fuente de energía renovable,
+competitiva con otras fuentes de energía renovables e incluso con las
+tradicionales no renovables. El aerogenerador transforma energía cinética del
+viento en energía mecánica (que se evidencia en el giro de las palas del
+generador) y luego esta energía mecánica se transforma en energía eléctrica. Es
+decir que tenemos una máquina, que opera en modo generador de energía
+eléctrica, gracias al giro del eje del rotor del aerogenerador, provocado por la
+acción del viento sobre las palas.
+
+a) Si las aspas del generador tienen una longitud de 20 m calcule cual es el
+área que barren cuando giran.
+b) Suponiendo que la velocidad del viento es de 30 km/h calcule cuál es el
+volumen de aire por unidad de tiempo que pasa a través del área
+circular calculada en la consigna a).
+c) Sabiendo que la densidad del aire es de $1{,}2\ \text{kg/m}^3$ calcule la potencia del
+viento (energía por unidad de tiempo) que incide sobre el generador.
+d) Si el generador tiene una eficiencia teórica del 48% para transformar
+energía cinética del viento en energía de rotación del generador,
+determine la energía por unidad de tiempo (potencia), que el generador
+absorbe de la energía eólica.
+e) Calcule velocidad del viento en la parte posterior del generador.
+f) Se denota con la letra griega a un parámetro importante en los
+generadores. Su valor corresponde a la relación que existe entre la
+velocidad en los extremos de las palas y la velocidad del viento
+incidente. En generadores de tres palas la potencia óptima (48%) se
+obtiene cuando vale 7. Calcule la velocidad que tiene el extremo de
+las palas cuando se genera la potencia óptima.
+g) Calcule la aceleración centrípeta de los extremos de las palas.
+h) Calcule la velocidad angular del rotor.
+OAF 2014 - 4
+Problema No1: Aprovechando el viento (NIVEL 1)
+Hoja de Respuestas (Exprese todas las respuestas en el sistema MKS)
+
+Puntaje
+a)
+Valor del área
+
+b)
+Volumen de aire por unidad de tiempo
+
+c)
+Potencia del viento
+
+d)
+Potencia absorbida por el generador.
+
+e)
+Velocidad del viento
+
+f)
+Velocidad del extremo de las palas
+
+g)
+Aceleración del extremo de las palas
+
+h)
+Velocidad angular del rotor
+OAF 2014 - 5
+
+**Topic:** [[Conservation of Energy]], [[Rotational Dynamics]], [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
+**Fonte:** Testo (PDF) — p.3
+
+## Problema 2
+
+Problema 2
+Acerca de la línea de flotación$\dots$
+El grado de salinidad de las aguas en diferentes lugares de los océanos no es el
+mismo. Los marinos experimentados saben de esto y de cómo influye en la línea
+de flotación de su navío.
+La densidad de una solución de agua y sal depende de la salinidad de la
+solución como se muestra en la Figura 1.
+Figura 1. Dependencia de la densidad del agua con la salinidad.
+
+En la Figura 2 se muestra un plano transversal de un buque. Considere que el
+mismo comenzó su travesía en algún lugar del océano atlántico próximo al este
+de Brasil donde hay una salinidad de 36,5
+‰ y la concluyó en algún lugar del
+océano atlántico próximo a Puerto Santa Cruz, ubicado en la provincia argentina
+de Santa Cruz donde hay una salinidad de 34‰ .
+
+a) Establecer las densidades correspondientes al lugar de salida y al lugar
+del fin de la travesía.
+
+Calado (Ca)
+Figura 2: plano transversal de un buque
+Línea de flotación
+Agua oceánica
+buque
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+1,024
+1,026
+1,028
+1,030
+1,032
+1,034
+
+Densidad ($\text{g/cm}^3$)
+Salinidad (‰)
+OAF 2014 - 6
+El calado (Ca) es la profundidad que alcanza en el agua la parte sumergida de
+un barco; esto es, la distancia que separa la superficie del agua (línea de
+flotación) de la “base” o “fondo” del barco
+
+b) Determinar el calado al final de la travesía si al inicio de la misma era
+de 12 m. Suponer que el buque es como el de la Figura 2. Expresar el
+resultado con 6 cifras significativas.
+OAF 2014 - 7
+Problema No2: Acerca de la línea de flotación$\dots$ (NIVEL 1)
+Hoja de Respuestas
+Exprese todas las respuestas en el sistema MKS
+
+Puntaje
+a)
+densidad correspondiente al lugar de salida
+
+$1028{,}5\ \dfrac{\text{Kg}}{\text{m}^3}$
+
+densidad correspondiente al lugar del fin de la travesía
+$1026{,}5\ \dfrac{\text{Kg}}{\text{m}^3}$
+
+2
+
++
+
+2
+b)
+calado al final de la travesía
+$m\,g = e_i = e_f$ (empujes)
+
+$e_i = Ca_i\, L\, a\, \rho_i = Ca_f\, L\, a\, \rho_f = e_f$
+
+$Ca_f = \dfrac{\rho_i}{\rho_f}\, Ca_i = 12{,}0234\ \text{m}$
+
+5
+
++
+
+1(cifras)
+OAF 2014 - 8
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Significant Figures (competenza)|Significant Figures]], [[Graph Linearization (competenza)|Graph Linearization]]
+**Fonte:** Testo (PDF) — p.5
+
+## Problema 3
+
+Problema 3
+El Pato bebedor.
+El pato bebedor es un juguete, patentado en 1946, en el cual una figura con
+forma de pato simula beber de un vaso ubicado al frente. Este juguete es una
+máquina térmica simple y muy ingeniosa.
+El pato está hecho de vidrio y consta de dos esferas conectadas por un tubo
+como se muestra en la figura 1. La esfera inferior, que simula el cuerpo del pato,
+contiene una sustancia volátil, cuya temperatura de ebullición es cercana a la
+temperatura ambiente. La esfera superior, que simula la cabeza, está cubierta de
+un material absorbente. El pato puede rotar alrededor de un eje, el cual está
+apoyado sobre una estructura que simula las patas del pato.
+Para iniciar el movimiento se moja la cabeza del pato con agua, y luego de unos
+momentos, el pato se inclina para beber agua del vaso, luego recupera su
+posición vertical. Unos segundos después, el pato se inclina nuevamente a
+beber y repite este movimiento mientras haya agua en el vaso. En la figura 1, se
+esquematiza el movimiento del pato.
+
+Figura 1. Pato bebedor.
+
+Para entender su funcionamiento, primero tenemos que entender la mecánica
+del movimiento. En la esfera inferior (cuerpo) coexisten líquido y vapor de la
+misma sustancia, por lo que para una dada temperatura se tendrá una
+determinada presión. En la esfera superior (cabeza) sólo hay vapor de dicha
+sustancia, aunque coexistiendo con el líquido presente en el cuello. Esto es, la
+presión del vapor en la cabeza estará determinada por su temperatura de
+coexistencia. Si se establece una pequeña diferencia de temperatura entre la
+cabeza y el cuerpo del pato, se producirá una diferencia de presión entre ambos
+recintos. Para contrarrestar esta diferencia de presión, parte del líquido asciende
+o desciende por el tubo (cuello del pato) hasta que se alcance una situación de
+equilibrio en la que no fluye más líquido. Esta redistribución de líquido produce
+un cambio en la posición del centro de masa del pato. Debido a la forma en la
+que está construido el pato, el cambio en la posición del centro de masa tiene
+asociado un torque tal que produce la oscilación del pato.
+La diferencia de temperatura entre la cabeza y el cuerpo del pato se establece
+por la evaporación del agua que moja la cabeza del pato. La provisión de agua
+que se evapora desde la cabeza se consigue con cada inclinación del pato para
+beber.
+
+Modelo
+En la figura 2 se muestra nuestro modelo del pato bebedor. La parte inferior del
+pato está formada por un cubo de 6 cm de lado y la parte superior (cabeza) por
+una esfera de 4 cm diámetro. Ambas partes están conectadas por un tubo de 2
+cm de diámetro y de 12 cm de largo, medido desde la parte superior del cubo
+hasta la parte inferior de la cabeza.
+OAF 2014 - 9
+El cubo contiene un líquido cuya temperatura de ebullición es $40\ ^\circ\text{C}$ y cuya
+densidad es $1.336\ \text{g cm}^{-3}$. El resto del pato está lleno del vapor de la misma
+sustancia que llena el cuerpo.
+En nuestro modelo se considerará como cuerpo del pato a la porción del
+cubo llena de líquido y como cuello a la parte del tubo que va desde la
+superficie del líquido, contenido en el cubo, hasta la parte inferior de la
+cabeza.
+Como se muestra en la figura 2, el tubo se extiende hacia el interior del líquido
+de manera que el vapor contenido en el cubo está aislado del vapor contenido
+en el resto del pato generando dos recintos con vapor aislados.
+Sobre la cabeza, el pato tiene un sombrero de 80 g simulado por un cilindro de 4
+cm de diámetro y 5 cm de alto. El eje alrededor del cual nuestro pato puede
+rotar está ubicado a 2 cm por arriba del cubo y es paralelo al plano del dibujo
+(Ver figura 2).
+Tanto la masa del vidrio que forma al pato como la masa de vapor
+contenida en él, son despreciables frente a las masas del sombrero y del
+líquido contenido en el cubo.
+
+Figura 2. Modelo del Pato bebedor.
+
+Actividades
+1) Determinar la masa de líquido contenida en el cubo (Masa del cuerpo,
+$M_\text{cuerpo}$). Considere despreciable la masa del vidrio.
+OAF 2014 - 10
+2) La coexistencia de la fase líquida y gaseosa de cualquier sustancia ocurre a
+una presión de equilibrio (P) y a una temperatura (T) vinculadas por la ecuación
+de Clausiuss-Clayperon (Ecuación 1),
+
+$$P(T) = P_0\exp\left[-\frac{\Delta h}{R}\left(\frac{1}{T}-\frac{1}{T_b}\right)\right] \quad (1)$$
+
+donde $P_0 = 1.013\times10^5$ Pa, $R = 8.3145\ \text{J K}^{-1}\text{mol}^{-1}$ es la constante universal de
+los gases, $\Delta h = 28094{,}5\ \text{J mol}^{-1}$ es la " variación de entalpía de vaporización
+molar" de la sustancia y $T_b$ es su temperatura de ebullición en Kelvin.
+
+Determinar la presión en el interior de la cabeza ($P_\text{cabeza}$) y del cubo ($P_\text{cubo}$) si el
+pato se encuentra inicialmente a la temperatura ambiente ($T_a$) cuyo valor es
+$25\ ^\circ\text{C}$.
+
+3) Determinar la temperatura de la cabeza ($T_\text{cabeza}$) si ésta se moja con 10 mg de
+agua a temperatura ambiente. Suponga que la humedad ambiente es menor a
+100%.
+
+Suponga que todo el calor necesario para evaporar el agua es provisto por la
+cabeza y que ésta tiene un calor específico efectivo $C = 47.5\ \text{J }^\circ\text{C}^{-1}$.
+
+Nota: En caso que la humedad ambiente es menor a 100%, el agua se evapora
+sin necesidad de alcanzar los $100\ ^\circ\text{C}$ (temperatura de ebullición del agua). En
+este caso, la energía necesaria para evaporar un gramo de agua es de 2257 J.
+
+4) Determinar la nueva presión en el interior de la cabeza ($P'_\text{cabeza}$).
+
+5) Determinar la altura ($h$) del líquido en el cuello, respecto a la superficie del
+liquido contenido en el cubo, para la nueva presión de equilibrio. Suponga que la
+temperatura del cuerpo del pato se mantiene constante e igual a la temperatura
+ambiente.
+
+6) Determinar en cuanto disminuye la altura del líquido en el cubo ($\Delta z$).
+
+7) Determinar la masa de líquido contenida en el cubo ($M'_\text{cuerpo}$) y en el cuello
+($M_\text{cuello}$).
+OAF 2014 - 11
+Problema No3: El Pato bebedor. (NIVEL 1)
+Hoja de Respuestas
+Exprese todas las respuestas en el sistema MKS
+
+Puntaje
+1)
+$M_\text{cuerpo} =$
+
+2)
+$P_\text{cubo} =$
+
+$P_\text{cabeza} =$
+
+3)
+$T_\text{cabeza} =$
+
+4)
+$P'_\text{cabeza} =$
+
+5)
+$h =$
+
+6)
+$\Delta z =$
+
+7)
+$M_\text{cuello} =$
+
+$M'_\text{cuerpo} =$
+OAF 2014 - 12
+
+Instancia Nacional
+Prueba Experimental
+Nivel 1
+OAF 2014 - 13
+La Física del reloj de arena.
+
+Introducción:
+La materia granular o materia granulada es aquella que está formada por un
+conjunto de partículas macroscópicas sólidas. El tamaño de estas partículas es
+tal que la fuerza de interacción dominante entre ellas es la de fricción. Como
+ejemplos de materia granular se encuentran los granos y semillas,
+la nieve, la arena, etc.
+
+Dentro del estudio de los medios granulares, existe un capítulo extenso que
+abarca los problemas del flujo de materia en forma de granos. Este interés se
+remonta a la antigüedad cuando se usaban, para medir el tiempo, relojes de
+arena.
+
+En los líquidos que escapan a través de un orificio,
+el flujo, masa por unidad de tiempo, depende
+principalmente de la altura del líquido dentro del
+recipiente. El fenómeno se explica a través
+del teorema de Torricelli y es debido al aumento de
+la presión hidrostática en el fondo del recipiente al
+aumentar la altura del fluido. Sin embargo, en los
+medios granulares, la presión en el fondo del
+contenedor deja de incrementarse cuando el
+material alcanza una altura de aproximadamente
+dos veces el diámetro del mismo. Por esta razón si
+un contenedor de materia granular es perforado en
+su parte inferior, los granos fluirán hacia afuera de
+tal forma que su flujo es constante.
+
+El flujo $f$ (masa por unidad de tiempo) de un material granular que pasa a través
+de una abertura de diámetro D bajo la acción del campo gravitatorio terrestre, es:
+
+$$f = \frac{m}{t} = \text{cte}$$
+
+y depende del diámetro del orificio de acuerdo a la expresión:
+
+$$f = A\, D^{\gamma} \quad (1)$$
+
+donde $\gamma$ y $A$ son constantes.
+
+Objetivo:
+Determinar experimentalmente el flujo $f$ para diferentes diámetros del
+orificio de salida
+
+Elementos disponibles
+- Pie porta botella
+
+- 2 bol con tapa
+- 1 kg de arena
+
+- Balanza
+- Cronómetro
+
+- Regla
+- Cinta de enmascarar
+
+**Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Rotational Dynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Fonte:** Testo (PDF) — p.8
+
+## Problema 4
+
+Problema 1
+Aprovechando el viento.
+La energía eólica supone actualmente una fuente de energía renovable,
+competitiva con otras fuentes de energía renovables e incluso con las
+tradicionales no renovables. El aerogenerador transforma energía cinética del
+viento en energía mecánica (que se evidencia en el giro de las palas del
+generador) y luego esta energía mecánica se transforma en energía eléctrica. Es
+decir que tenemos una máquina, que opera en modo generador de energía
+eléctrica, gracias al giro del eje del rotor del aerogenerador, provocado por la
+acción del viento sobre las palas.
+
+a) Si las aspas del generador tienen una longitud de 20 m calcule cual es el
+área que barren cuando giran.
+b) Suponiendo que la velocidad del viento es de 30 km/h calcule cuál es el
+volumen de aire por unidad de tiempo que pasa a través del área
+circular calculada en la consigna a).
+c) Sabiendo que la densidad del aire es de $1{,}2\ \text{kg/m}^3$ calcule la potencia del
+viento (energía por unidad de tiempo) que incide sobre el generador.
+d) Si el generador tiene una eficiencia teórica del 48% para transformar
+energía cinética del viento en energía de rotación del generador,
+determine la energía por unidad de tiempo (potencia), que el generador
+absorbe de la energía eólica.
+e) Calcule velocidad del viento en la parte posterior del generador.
+f) Se denota con la letra griega a un parámetro importante en los
+generadores. Su valor corresponde a la relación que existe entre la
+velocidad en los extremos de las palas y la velocidad del viento
+incidente. En generadores de tres palas la potencia óptima (48%) se
+obtiene cuando vale 7. Calcule la velocidad que tiene el extremo de
+las palas cuando se genera la potencia óptima.
+g) Calcule la aceleración centrípeta de los extremos de las palas.
+h) Calcule la velocidad angular del rotor.
+i) Calcule el torque del generador.
+
+La potencia de la rotación del rotor de la turbina
+eólica es transferida al generador a través del tren
+de potencia, es decir, a través del eje principal, la
+caja multiplicadora y el eje de alta velocidad
+OAF 2014 - 18
+j) Si fuera necesario generar corriente alterna con una frecuencia de
+50Hz, calcule la relación de multiplicación que debe tener la caja
+multiplicadora.
+k) Suponiendo que sólo el 90% de la energía eólica absorbida se
+transforma en energía eléctrica y que ésta se genera a una tensión
+efectiva 13kV calcule cuál es la corriente efectiva que se genera.
+l) La demanda eléctrica anual del departamento Punilla Córdoba es de
+aproximadamente $2{,}5\times10^{11}$ MWh y la energía eólica anual disponible es
+de $2{,}68\times10^8$ MWh. Calcule qué porcentaje de la energía consumida en el
+departamento Punilla podrá ser producida por energía eólica.
+OAF 2014 - 19
+Problema No1: Aprovechando el viento (NIVEL 2)
+Hoja de Respuestas (Exprese todas las respuestas en el sistema MKS)
+
+Puntaje
+a)
+Valor del área
+
+b)
+Volumen de aire por unidad de tiempo
+
+c)
+Potencia del viento
+
+d)
+Potencia absorbida por el generador.
+
+e)
+Velocidad del viento
+
+f)
+Velocidad del extremo de las palas
+
+g)
+Aceleración del extremo de las palas
+
+h)
+Velocidad angular del rotor
+
+i)
+Torque
+
+j)
+Relación de multiplicación
+
+k)
+Corriente efectiva
+
+l)
+Porcentaje de la energía eléctrica a partir de la energía
+eólica
+OAF 2014 - 20
+
+**Topic:** [[Conservation of Energy]], [[Rotational Dynamics]], [[Circuits]]
+**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
+**Fonte:** Testo (PDF) — p.17
+
+## Problema 5
+
+Problema 2
+Acerca de la línea de flotación$\dots$
+El grado de salinidad de las aguas en diferentes lugares de los océanos no es el
+mismo. Los marinos experimentados saben de esto y de cómo influye en la línea
+de flotación de su navío.
+La densidad de una solución de agua y sal depende de la salinidad de la
+solución como se muestra en la Figura 1.
+
+Figura 1. Dependencia de la densidad del agua con la salinidad.
+
+En la Figura 2 se muestra un plano transversal de un buque. Considere que el
+mismo comenzó su travesía en algún lugar del océano atlántico próximo al este
+de Brasil donde hay una salinidad de 36,5
+‰ y la concluyó en algún lugar del
+océano atlántico próximo a Puerto Santa Cruz, ubicado en la provincia argentina
+de Santa Cruz donde hay una salinidad de 34‰ .
+
+a) Establecer las densidades correspondientes al lugar de salida y al lugar
+del fin de la travesía.
+
+El calado (Ca) es la profundidad que alcanza en el agua la parte sumergida de
+un barco; esto es, la distancia que separa la superficie del agua (línea de
+flotación) de la “base” o “fondo” del barco
+
+Calado (Ca)
+Figura 2: plano transversal de un buque
+Línea de flotación
+Agua oceánica
+buque
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+1,024
+1,026
+1,028
+1,030
+1,032
+1,034
+
+Densidad ($\text{g/cm}^3$)
+Salinidad (‰)
+OAF 2014 - 21
+b) Determinar el calado al final de la travesía si al inicio de la misma era
+de 12 m. Suponer que el buque es como el de la Figura 2. Expresar el
+resultado con 6 cifras significativas.
+
+Acerca de choques entre barcos.
+Los viejos lobos de mar, esto es los marinos experimentados, saben
+perfectamente que los barcos que navegan juntos se atraen entre sí con
+bastante fuerza. Por esto los capitanes tienen en cuenta este fenómeno cuando
+maniobran con su buque.
+Trataremos de entender este fenómeno aplicando el teorema de Bernoulli
+(ecuación de Bernoulli) y el principio de conservación de la masa.
+En la Figura 3 pueden verse dos buques iguales que navegan con velocidad
+$v = 40$ km/h uno al lado del otro en aguas tranquilas dejando entre si un “canal” de
+ancho $d = 20$ m; esto es lo mismo que si los dos barcos estuvieran parados y el
+agua corriese en sentido opuesto “rodeándolos”. Suponer que la salinidad del
+agua es 34‰ :
+
+Figura 3
+
+c) Encontrar la magnitud y el sentido de la velocidad del agua vista desde
+un sistema de referencia que se mueve a 40 km/h, paralelamente a los
+buques y en el mismo sentido que los buques. Realizar un gráfico
+explicativo en el que estén las velocidades correspondientes.
+d) Determinar, en el mismo sistema de referencia, la velocidad del agua
+que circula entre los buques (canal de ancho d). Suponer que toda el
+agua que “viene” y fluye a través de la sección “J J ́” que tiene un área
+$A = Ca \cdot D$ lo hace, al pasar entre los buques, por la sección “KK ́” que
+tiene un área $A^* = Ca \cdot d$. Mientras que el agua que circula por el lado
+“exterior” a los buques no se ve afectada.
+e) Usando el Principio de Bernoulli, determinar la diferencia de presión que
+se produce entre ambos lados de cada uno de los buques.
+f) Determinar la fuerza neta sobre cada buque. Considerar los respetivos
+largos (L) y líneas de flotación.
+Suponiendo que mediante maniobras de timón el capitán de uno de los buques
+puede neutralizar el efecto de esta fuerza si su módulo no supera un valor $F_c$.
+g) Dar una expresión de la distancia mínima ($d_m$) entre buques, para que
+no se produzca una colisión.
+
+Datos: $L = 294$ m, $a = 32$ m, $d = 20$ m, $v = 40$ km/h
+OAF 2014 - 22
+Problema No2: Acerca de la línea de flotación$\dots$ (NIVEL 2)
+Hoja de Respuestas
+Exprese todas las respuestas en el sistema MKS
+
+Puntaje
+a)
+densidad correspondiente al lugar de salida
+
+$1028{,}5\ \dfrac{\text{Kg}}{\text{m}^3}$
+densidad correspondiente al lugar del fin de la travesía
+$1026{,}5\ \dfrac{\text{Kg}}{\text{m}^3}$
+
+2
+
++
+
+2
+b)
+calado al final de la travesía
+$m\,g = e_i = e_f$ (empujes)
+
+$e_i = Ca_i\, L\, a\, \rho_i = Ca_f\, L\, a\, \rho_f = e_f$
+
+$Ca_f = \dfrac{\rho_i}{\rho_f}\, Ca_i = 12{,}0234\ \text{m}$
+
+5
+
++
+
+1(cifras)
+c)
+velocidad del agua
+
+gráfico explicativo
+
+El agua tiene respecto de tierra velocidad cero ($v_{at} = 0$) .
+El bote tiene respecto de tierra velocidad 40 km/h ($v_{bt}$) .
+
+Se cumple
+$v_{at} = v_{ab} + v_{bt}$
+
+asi, $v_{ab} = -40$ km/h $= -11{,}11$ m/s
+
+1
+d)
+velocidad del agua que circula entre los buques
+
+$Ca\, D\, v_{ab} = Ca\, d\, v_\text{canal}$
+
+$v_\text{canal} = \dfrac{D}{d}\, v_{ab} = \dfrac{52}{20}\,(-11{,}11)\ \dfrac{\text{m}}{\text{s}}$
+1
+$O_t$
+$O_b$
+$v_{bt}$
+OAF 2014 - 23
+
+e)
+diferencia de presión entre ambos lados de cada uno de los
+buques
+
+$\dfrac{\rho_f}{2}\, v_{ab}^2 + P_\text{ext} = \dfrac{\rho_f}{2}\, v_\text{canal}^2 + P_\text{int}$
+$\Delta P = P_\text{ext} - P_\text{int} = \dfrac{\rho_f}{2}\left(v_\text{canal}^2 - v_{ab}^2\right)$
+$\Delta P = \dfrac{\rho_f}{2}\left(\left(\dfrac{D}{d}\right)^2 - 1\right) v_{ab}^2$
+
+$\Delta P = 364904{,}8$ Pa
+
+2
+f)
+fuerza neta sobre cada buque.
+
+$F = Ca_f\, L\, \Delta P = 1289894483{,}5$ N
+
+1
+g)
+expresión de la distancia mínima ($d_m$) entre buques, para
+que no se produzca una colisión.
+
+$F_c \geq Ca_f\, L\, \Delta P_c = Ca_f\, L\, \dfrac{\rho_f}{2}\left(\left(\dfrac{D}{d_m}\right)^2 - 1\right) v_{ab}^2$
+
+$F_c \geq Ca_f\, L\, \dfrac{\rho_f}{2}\left(\left(\dfrac{a + d_m}{d_m}\right)^2 - 1\right) v_{ab}^2$
+
+$d_m \geq \dfrac{a}{\left[\dfrac{F_c}{Ca_f\, L\, \frac{\rho_f}{2}\, v_{ab}^2} + 1\right]^{1/2} - 1}$
+
+2
+OAF 2014 - 24
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Fonte:** Testo (PDF) — p.20
+
+## Problema 6
+
+Problema 3
+El Pato bebedor.
+El pato bebedor es un juguete, patentado en 1946, en el cual una figura con
+forma de pato simula beber de un vaso ubicado al frente. Este juguete es una
+máquina térmica simple y muy ingeniosa.
+El pato está hecho de vidrio y consta de dos esferas conectadas por un tubo
+como se muestra en la figura 1. La esfera inferior, que simula el cuerpo del pato,
+contiene una sustancia volátil, cuya temperatura de ebullición es cercana a la
+temperatura ambiente. La esfera superior, que simula la cabeza, está cubierta de
+un material absorbente. El pato puede rotar alrededor de un eje, el cual está
+apoyado sobre una estructura que simula las patas del pato.
+Para iniciar el movimiento se moja la cabeza del pato con agua, y luego de unos
+momentos, el pato se inclina para beber agua del vaso,luego recupera su
+posición vertical. Unos segundos después, el pato se inclina nuevamente a
+beber y repite este movimiento mientras haya agua en el vaso. En la figura 1, se
+esquematiza el movimiento del pato.
+
+Figura 1. Pato bebedor.
+
+Para entender su funcionamiento, primero tenemos que entender la mecánica
+del movimiento. En la esfera inferior (cuerpo) coexisten líquido y vapor de la
+misma sustancia, por lo que para una dada temperatura se tendrá una
+determinada presión. En la esfera superior (cabeza) sólo hay vapor de dicha
+sustancia, aunque coexistiendo con el líquido presente en el cuello. Esto es, la
+presión del vapor en la cabeza estará determinada por su temperatura de
+coexistencia. Si se establece una pequeña diferencia de temperatura entre la
+cabeza y el cuerpo del pato, se producirá una diferencia de presión entre ambos
+recintos. Para contrarrestar esta diferencia de presión, parte del líquido asciende
+o desciende por el tubo (cuello del pato) hasta que se alcance una situación de
+equilibrio en la que no fluye más líquido. Esta redistribución de líquido produce
+un cambio en la posición del centro de masa del pato. Debido a la forma en la
+que está construido el pato, el cambio en la posición del centro de masa tiene
+asociado un torque tal que produce la oscilación del pato.
+La diferencia de temperatura entre la cabeza y el cuerpo del pato se establece
+por la evaporación del agua que moja la cabeza del pato. La provisión de agua
+que se evapora desde la cabeza se consigue con cada inclinación del pato para
+beber.
+
+Modelo
+En la figura 2 se muestra nuestro modelo del pato bebedor. La parte inferior del
+pato está formada por un cubo de 6 cm de lado y la parte superior (cabeza) por
+una esfera de 4 cm diámetro. Ambas partes están conectadas por un tubo de 2
+cm de diámetro y de 12 cm de largo, medido desde la parte superior del cubo
+hasta la parte inferior de la cabeza.
+OAF 2014 - 25
+El cubo contiene un líquido cuya temperatura de ebullición es $40\ ^\circ\text{C}$ y cuya
+densidad es $1.336\ \text{g cm}^{-3}$. El resto del pato está lleno del vapor de la misma
+sustancia que llena el cuerpo.
+En nuestro modelo se considerará como cuerpo del pato a la porción del
+cubo llena de líquido y como cuello a la parte del tubo que va desde la
+superficie del líquido, contenido en el cubo, hasta la parte inferior de la
+cabeza.
+Como se muestra en la figura 2, el tubo se extiende hacia el interior del líquido
+de manera que el vapor contenido en el cubo está aislado del vapor contenido
+en el resto del pato generando dos recintos con vapor aislados.
+Sobre la cabeza, el pato tiene un sombrero de 80 g simulado por un cilindro de 4
+cm de diámetro y 5 cm de alto. El eje alrededor del cual nuestro pato puede
+rotar está ubicado a 2 cm por arriba del cubo y es paralelo al plano del dibujo
+(Ver figura 2).
+Tanto la masa del vidrio que forma al pato como la masa de vapor
+contenida en él, son despreciables frente a las masas del sombrero y del
+líquido contenido en el cubo.
+
+Figura 2. Modelo del Pato bebedor.
+
+Actividades
+1) Determinar la masa de líquido contenida en el cubo (Masa del cuerpo,
+$M_\text{cuerpo}$). Considere despreciable la masa del vidrio.
+OAF 2014 - 26
+2) La coexistencia de la fase líquida y gaseosa de cualquier sustancia ocurre a
+una presión de equilibrio (P) y a una temperatura (T) vinculadas por la ecuación
+de Clausiuss-Clayperon (Ecuación 1),
+
+$$P(T) = P_0\exp\left[-\frac{\Delta h}{R}\left(\frac{1}{T}-\frac{1}{T_b}\right)\right] \quad (1)$$
+
+donde $P_0 = 1.013\times10^5$ Pa, $R = 8.3145\ \text{J K}^{-1}\text{mol}^{-1}$ es la constante universal de
+los gases, $\Delta h = 28094{,}5\ \text{J mol}^{-1}$ es la " variación de entalpía de vaporización
+molar" de la sustancia y $T_b$ es su temperatura de ebullición en Kelvin.
+
+Determinar la presión en el interior de la cabeza ($P_\text{cabeza}$) y del cubo ($P_\text{cubo}$) si el
+pato se encuentra inicialmente a la temperatura ambiente ($T_a$) cuyo valor es
+$25\ ^\circ\text{C}$.
+
+3) Determinar la temperatura de la cabeza ($T_\text{cabeza}$) si ésta se moja con 10 mg de
+agua a temperatura ambiente. Suponga que la humedad ambiente es menor a
+100%.
+
+Suponga que todo el calor necesario para evaporar el agua es provisto por la
+cabeza y que ésta tiene un calor específico efectivo $C = 47.5\ \text{J }^\circ\text{C}^{-1}$.
+
+Nota: En caso que la humedad ambiente es menor a 100%, el agua se evapora
+sin necesidad de alcanzar los $100\ ^\circ\text{C}$ (temperatura de ebullición del agua). En
+este caso, la energía necesaria para evaporar un gramo de agua es de 2257 J.
+
+4) Determinar la nueva presión en el interior de la cabeza ($P'_\text{cabeza}$).
+
+5) Determinar la altura ($h$) del líquido en el cuello, respecto a la superficie del
+liquido contenido en el cubo, para la nueva presión de equilibrio. Suponga que la
+temperatura del cuerpo del pato se mantiene constante e igual a la temperatura
+ambiente.
+
+6) Determinar en cuanto disminuye la altura del líquido en el cubo ($\Delta z$).
+
+7) Determinar la masa de líquido contenida en el cubo ($M'_\text{cuerpo}$) y en el cuello
+($M_\text{cuello}$).
+
+8) Determinar la posición inicial del centro de masa del pato respecto del eje de
+rotación cuando todo el sistema se encuentra a $T_a$.
+
+Ayuda: Para un cuerpo con densidad uniforme, el centro de masa coincide con
+su centro geométrico.
+
+a) En el esquema mostrado en la hoja de respuesta, señale la posición del
+centro de masa del cuerpo, de la porción de liquido contenida en el cuello y del
+sombrero (en el esquema el eje y se encuentra perpendicular a la superficie
+de la hoja). En la Tabla I, indique las posiciones, respecto del eje de rotación, de
+cada centro de masa señalado junto con el valor de masa correspondiente.
+
+b) En base al punto anterior, determine la posición del centro de masa del
+sistema.
+
+9) Determine el modulo ($\tau$) del torque generado por el peso del pato si éste se
+inclina un ángulo de $5^\circ$ respecto a la vertical. Suponga que el ángulo es
+suficientemente pequeño de modo de poder considerar que la posición del
+OAF 2014 - 27
+centro de masa no cambia debido al desplazamiento del líquido producido por la
+inclinación.
+
+10) Determine la aceleración angular inicial ($\gamma$) del pato cuando está inclinado $5^\circ$
+respecto de la vertical.
+
+Ayuda
+El momento de inercia para un paralelepípedo recto rectangular de masa M
+respecto de un eje como el mostrado en la figura 3a es,
+
+$$I = \frac{1}{12}\, M(a^2 + b^2)$$
+
+El momento de inercia de un cilindro de masa M respecto de un eje como el
+mostrado en la figura 3b es,
+
+$$I = \frac{1}{12}\, M(3R^2 + L^2)$$
+
+Figura 3a. Paralelepípedo recto rectangular, b. Cilindro de masa M
+
+Datos y constantes
+Parámetro
+Valor
+Unidad
+$P_0$
+$1.013\times10^5$
+Pa
+$\Delta h$
+28094.5
+$\text{J mol}^{-1}$
+R
+8.3145
+$\text{J k}^{-1}\text{mol}^{-1}$
+$\rho$
+1.336
+$\text{g cm}^{-3}$
+$T_b$
+40
+$^\circ\text{C}$
+C
+47.5
+$\text{J }^\circ\text{C}^{-1}$
+$L_v$
+2257
+$\text{kJ kg}^{-1}$
+$c_\text{agua}$
+4.1813
+$\text{J g}^{-1}\,^\circ\text{C}^{-1}$
+g
+9.8
+$\text{m s}^{-2}$
+$T_a$
+25
+$^\circ\text{C}$
+$m_\text{agua}$
+10
+mg
+m
+80
+g
+OAF 2014 - 28
+Problema No3: El Pato bebedor. (NIVEL 2)
+Hoja de Respuestas
+Exprese todas las respuestas en el sistema MKS
+
+Puntaje
+1)
+$M_\text{cuerpo} =$
+
+2)
+$P_\text{cubo} =$
+
+$P_\text{cabeza} =$
+
+3)
+$T_\text{cabeza} =$
+
+4)
+$P'_\text{cabeza} =$
+
+5)
+$h =$
+
+6)
+$\Delta z =$
+
+7)
+$M_\text{cuello} =$
+
+$M'_\text{cuerpo} =$
+
+8a)
+Puntaje
+OAF 2014 - 29
+Tabla I
+Posición del Centro de Masa
+Masa
+
+x
+y
+z
+
+Sombrero
+
+Cuerpo
+
+Líquido
+contenido en
+el Cuello
+
+8b) $x_\text{CM} =$
+
+$y_\text{CM} =$
+
+$z_\text{CM} =$
+
+9)
+
+**Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Rotational Dynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Fonte:** Testo (PDF) — p.24

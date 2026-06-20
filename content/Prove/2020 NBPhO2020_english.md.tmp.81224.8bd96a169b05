@@ -1,0 +1,346 @@
+---
+tipo: prova
+prova_id: prova_2020 NBPhO2020_english
+competition: Nordic-Baltic Physics Olympiad
+comp_code: BPhO
+country: Nordic-Baltic
+year: 2020
+level: ''
+pdf: gare di altri paesi/Nordic-Baltic/all/2020 NBPhO2020_english.pdf
+cluster: Termodinamica
+n_problemi: 5
+tags:
+- kg/prova
+- anno/2020
+- paese/Nordic-Baltic
+- comp/BPhO
+- cluster/Termodinamica
+---
+
+# BPhO 2020 — 2020 NBPhO2020_english.pdf
+
+**Fonte:** `gare di altri paesi/Nordic-Baltic/all/2020 NBPhO2020_english.pdf` · [[gare di altri paesi/Nordic-Baltic/all/2020 NBPhO2020_english.pdf#page=1|Apri PDF]] · [apri PDF p.1](file:///E%3A/giovanni/Dropbox/insegnamento/Wiligelmo/OlimpiadiFisica/raccolte%20gare%20di%20Fisica/gare%20di%20altri%20paesi/Nordic-Baltic/all/2020%20NBPhO2020_english.pdf#page=1)
+**Cluster:** [[Termodinamica]]
+**Soluzioni (stessa cartella):** [[2020 NBPhO-2020-solutions-grading (soluzioni)|2020 NBPhO-2020-solutions-grading.pdf]] · [[2021 NBPhO_2021_with_solutions_and_grading_v4 (soluzioni)|2021 NBPhO_2021_with_solutions_and_grading_v4.pdf]] · [[2022 NBPhO_2022_solutions (soluzioni)|2022 NBPhO_2022_solutions.pdf]]
+
+## Problema 1
+
+1. PHASES OF WATER (6 points)
+— Johan
+Runeson.
+In this problem we will look at
+the phase diagram of water (see graphs on
+a separate page). The first figure shows the
+phase diagram in a region close to the triple
+point [(s) – solid, (l) – liquid, (g) – gas], while
+the second figure shows the melting curve.
+When two phases $\alpha$ and $\beta$ are in equilibrium,
+the phase transition curve follows the law of
+Clausius–Clapeyron:
+
+$$\frac{dp}{dT} = \frac{1}{T}\frac{H_\beta - H_\alpha}{V_\beta - V_\alpha},$$
+
+where $H_\alpha$ is the specific enthalpy (enthalpy
+per mass) of phase $\alpha$, and $V_\alpha$ is the specific
+volume (volume per mass).
+i) (1.5 points) Using that $V_g \gg V_l$, find an
+expression for the liquid-gas transition curve
+$p(T)$ in terms of the latent heat of evaporation $\Delta H_{lg} \equiv H_l - H_g$, the pressure $p_0$ at any
+reference point along the curve, the gas constant $R$ and the molar mass $\mu$.
+ii) (1.5 points) Approximate the Earth as a
+system of a homogeneous atmosphere, consisting of air and water vapor, in equilibrium with a sea of liquid water.
+If the atmospheric temperature rises by $3\ ^\circ\text{C}$, by what
+percentage does the water vapor pressure
+rise? (The current temperature of the Earth
+is $15\ ^\circ\text{C}$.)
+You may need the values $R = 8.314\ \text{J mol}^{-1}\text{K}^{-1}$ and $\mu = 18.015\ \text{g mol}^{-1}$.
+iii) (3 points) Use reasonable approximations
+and calculate $V_l - V_s$, the difference in specific volume between liquid water and ice, at
+atmospheric pressure.
+
+
+<!--fig:start-->
+![[_attachments/2020 NBPhO2020_english/2020 NBPhO2020_english_p3_f3.png]]
+*Diagramma di fase dell'acqua (vicino triplo punto)*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2020 NBPhO2020_english/2020 NBPhO2020_english_p4_f4.png]]
+*Curva di fusione del ghiaccio p-T*
+<!--fig:end-->
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Differential Equations (metodo)|Differential Equations]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** [[gare di altri paesi/Nordic-Baltic/all/2020 NBPhO2020_english.pdf#page=1|Testo (PDF) — p.1]]
+
+## Problema 2
+
+2. TUNNEL DIODE (10 points) — Jaan Kalda.
+The V-I-curve of a tunnel diode is depicted
+in the figure below, curve (a). In some parts
+of the problem, we use an idealized model
+curve (b).
+I (mA)
+5
+10
+15
+20
+25
+400
+300
+200
+100
+V (mV)
+(b)
+(a)
+i) (1 point) In order to measure the V-I curve
+of the diode, it is connected in series with a
+variable power supply (the value of the electromotive force $\mathcal{E}$ can be changed from $0\ \text{V}$
+to $1\ \text{V}$), see circuit (a). The ammeter has internal resistance $r = 2\ \Omega$; the applied voltage
+is $\mathcal{E} = 50\ \text{mV}$. What is the diode voltage $V_i$ and
+current $I_i$? Use the real V-I-curve of the diode.
+L
+A
+K
+(b)
+A
+(a)
+A
+(c)
+C
+(d)
+C
+r
+Rd
+L
+L
+ii) (1 point) Now, let us study the effect of the
+self-inductance of the wires. In order to take
+into account such an inductance, the circuit
+needs to be modified as shown in circuit (b);
+let $L = 500\ \text{nH}$. The switch K is kept open
+until the voltage is adjusted to $\mathcal{E} = 250\ \text{mV}$,
+and is then closed.
+How long will it take
+for the current to reach $I_1 = 20\ \text{mA}$? Neglect
+henceforth (until otherwise instructed) the
+internal resistances of the battery and of the
+ammeter (put $r = 0$), and use the idealized V-
+I-curve of the diode.
+iii) (1 point) With the same settings as for task
+ii), how long will it take from the moment
+when the switch was closed until the diode
+voltage reaches $V_2 = 500\ \text{mV}$?
+iv) (2 points) With the same setting as for task
+ii), plot the diode current as a function of
+time and find the period and amplitude of
+the current oscillations.
+v) (2 points) Circuit (b) is used to measure
+the V-I curve of the diode: for each data
+point, the voltage is adjusted to the desired
+value while the switch is kept open, and then
+the switch is closed.
+Note that when the
+ammeter current oscillates with a high frequency, it shows the average current. Plot
+the expected measurement results, i.e. the
+average current through the ammeter as a
+function of the applied voltage $V = \mathcal{E}$.
+vi) (1 point) Thus far we have assumed that
+the diode is an ideal device; in reality, it
+has a small parasitic capacitance, let it be
+$C = 30\ \text{pF}$.
+Taking this into account, our
+circuit should be drawn as shown in diagram (c).
+Now we assume the ammeter,
+again, to be non-ideal, with internal resistance $r = 2\ \Omega$. Let us assume that after closing
+the switch, the voltage was slowly increased
+from $\mathcal{E} = 0\ \text{mV}$ to $\mathcal{E} = 150\ \text{mV}$ so that a stationary (oscillations-free) operation regime
+$V(t) \equiv V_0$ and $I(t) \equiv I_0$ has been achieved.
+Suppose there is a small perturbation to the
+diode current and voltage: $I = I_0 + \delta I(t)$ and
+$V = V_0 + \delta V(t)$, where $I_0$ and $V_0$ are the current and voltage in the stationary operational
+regime. For small perturbation amplitudes,
+the V-I-curve of the diode can be linearized,
+resulting in $\delta V = R_d \delta I$, where $R_d$ is the differential resistance of the diode. Determine the
+value of $R_d$.
+vii) (2 points) Continuing with the previous
+question, one can show that the problem of
+stability for the circuit (c), i.e. the question
+if the small current perturbations $\delta I(t)$ will
+grow exponentially in time or not, is equivalent to the problem of stability for the circuit (d) (the battery is removed, and the diode is substituted with its differential resistance found by the previous task). What is the
+largest inductance of wires $L$ for which the
+system is stable?
+
+
+<!--fig:start-->
+![[_attachments/2020 NBPhO2020_english/2020 NBPhO2020_english_p1_f1.png]]
+*Curva V-I del diodo tunnel*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2020 NBPhO2020_english/2020 NBPhO2020_english_p1_f2.png]]
+*Circuiti (a)(b)(c)(d) con diodo tunnel*
+<!--fig:end-->
+
+**Topic:** [[Circuits]], [[Oscillations & Waves]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Differential Equations (metodo)|Differential Equations]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Graph Linearization (competenza)|Graph Linearization]]
+**Fonte:** [[gare di altri paesi/Nordic-Baltic/all/2020 NBPhO2020_english.pdf#page=1|Testo (PDF) — p.1]]
+
+## Problema 3
+
+3. CONICAL ROOM (3 points) — Maté Vigh.
+The interior of a modern museum is a perfect, right cone with half apex angle $60^{\circ}$ (i.e.
+the walls are slanted by $60^{\circ}$ with respect to
+the vertical). Launched from the center of
+the coneʼs base, the minimal speed needed
+for a projectile to reach the apex (i.e. the
+highest point of the walls) is $v_0$. What is the
+minimal speed required to reach the wall of
+the cone?
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Calculus-Integration (metodo)|Calculus-Integration]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** [[gare di altri paesi/Nordic-Baltic/all/2020 NBPhO2020_english.pdf#page=1|Testo (PDF) — p.1]]
+
+## Problema 4
+
+4. DRONE (9 points) — Lasse Franti and Jaan
+Kalda. A drone is pulling a cuboid with a rope
+as shown in the sketch; the cuboid is sliding
+slowly, with a constant speed, on the horizontal floor. The cuboid is made from an homogeneous material. You may take measurements from the sketch (on a separate page)
+assuming that the dimensions and distances
+on it are correct within an unknown scale
+factor.
+In order to help you in case you
+donʼt have access to a printer, and need to
+read the problem texts directly from the computer screen, some auxiliary dashed lines are
+shown in the diagram (which might or might
+not be useful).
+i) (2 points) Find the coefficient of friction
+between the cuboid and the floor.
+ii) (2 points) Find the mass of the cuboid if the
+mass of the drone is $m = 1\ \text{kg}$.
+iii) (2 points) Next we will be studying the
+flight of a drone in adiabatic atmosphere. In
+adiabatic atmosphere, air parcels are moving
+continuously up or down, and while doing so,
+expand or contract adiabatically. It can be
+shown that in adiabatic atmosphere, the temperature is a linear function of the height $z$:
+$T = T_0 - zg/c_p$, where $T_0 = 293\ \text{K}$ is the temperature on the ground, $c_p = 1.00\ \text{J g}^{-1}\text{K}^{-1}$ is
+the specific heat of air at constant pressure,
+and $g = 9.81\ \text{m/s}^2$. Find the dependence of
+air density $\rho$ as a function of height, in terms
+of the density $\rho_0$ at the ground level ($z = 0$),
+specific heat of air at constant volume $c_v = 0.718\ \text{J g}^{-1}\text{K}^{-1}$, and other previously defined
+quantities.
+iv) (3 points) Assuming that the maximal
+flight height $z_\text{max}$ of a drone with no load is
+limited by the power of its motor, find $z_\text{max}$
+if it is known that the power is just enough
+for the drone to lift a load equal to 50% of its
+mass off the ground. You may neglect the effect of turbulence on droneʼs thrust.
+
+
+<!--fig:start-->
+![[_attachments/2020 NBPhO2020_english/2020 NBPhO2020_english_p5_f5.png]]
+*Drone che trascina cuboide con fune*
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]], [[Thermodynamics]], [[Fluid Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** [[gare di altri paesi/Nordic-Baltic/all/2020 NBPhO2020_english.pdf#page=1|Testo (PDF) — p.1]]
+
+## Problema 5
+
+5. BOTTLEʼS SOUND (8 points) — Jaan Kalda
+and Eero Uustalu.
+Tools:
+an empty 1-litre
+bottle, a small (about 100 ml) cup of known
+volume (or other tool for measuring water
+volumes), a smartphone with installed “Physics Toolbox Sensor Suite” or “Physics Toolbox
+Pro” (mark on your paper, which version did
+you use).
+If you blow near the bottleʼs mouth, a
+whistling sound can be generated: a gentle
+(to moderately strong) air flow needs to pass
+the bottleʼs mouth perpendicularly to the
+bottleʼs axis.
+Your task is to study the dependence of the frequency $f$ of the generated
+sound as a function of the volume $V$ occupied by water inside the bottle.
+i) (4 points) While blowing near the bottleʼs
+mouth, measure the sound frequency using
+either the “tone detector” or “spectrum analyzer” of the “Physics Toolbox” (once the app
+is launched, the menu can be pulled from
+the left top corner of the screen).
+If you
+manage to obtain a nice distinct sound, use
+the “tone detector”; otherwise use the “spectrum analyzer” to determine the frequency of
+the spectrumʼs peak. Tabulate your measurement data.
+ii) (1 point) Either based on theoretical consideration or on the data analysis, suggest a
+functional dependence of $f$ on $V$.
+iii) (3 points) Test the validity of your suggestion for this dependence graphically, and determine the parameters of it. Error analysis
+is not required.
+
+$-20$
+$-15$
+$-10$
+$-5$
+0
+5
+10
+15
+20
+$T\ (^\circ\text{C})$
+0
+250
+500
+750
+1000
+1250
+1500
+1750
+$p$ (Pa)
+0
+150
+300
+$T\ (^\circ\text{C})$
+$10^3$
+$10^5$
+$10^7$
+$p$ (Pa)
+(l)
+(s)
+(g)
+$-20$
+$-15$
+$-10$
+$-5$
+0
+$T\ (^\circ\text{C})$
+0.00
+0.25
+0.50
+0.75
+1.00
+1.25
+1.50
+1.75
+2.00
+$p$ (Pa)
+$\times 10^8$
+0
+150
+300
+$T\ (^\circ\text{C})$
+$10^3$
+$10^5$
+$10^7$
+$p$ (Pa)
+
+**Topic:** [[Oscillations & Waves]]
+**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Fonte:** [[gare di altri paesi/Nordic-Baltic/all/2020 NBPhO2020_english.pdf#page=2|Testo (PDF) — p.2]]

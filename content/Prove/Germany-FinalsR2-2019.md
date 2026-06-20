@@ -1,0 +1,396 @@
+---
+tipo: prova
+prova_id: prova_Germany-FinalsR2-2019
+competition: Russia Physics Olympiad
+comp_code: Russia
+country: Russia
+year: '2019'
+level: ''''''
+pdf: gare di altri paesi/Russia/ruPho/Germany-FinalsR2-2019.pdf
+generator: llm-retranscribed
+tags:
+  - kg/prova
+---
+
+# Russia 2019 '' — Germany-FinalsR2-2019.pdf
+
+**Fonte:** `gare di altri paesi/Russia/ruPho/Germany-FinalsR2-2019.pdf` · Apri PDF
+
+> **Nota:** Questo documento è una traduzione in inglese (a cura di Ahmed Saad Sabit, editor Kushal Thaman) dei problemi della *Deutschen Physikolympiade* 2019, Finale Runde 2. Il testo tedesco originale (*Deutscher*) è riportato per ciascun problema prima della traduzione inglese. I problemi 4, 6 e 8 sono assenti dal documento (le opzioni di risposta erano affidate esclusivamente a grafici embedded). I dati tabulari del Problema 11 erano presenti nel PDF come grafica vettoriale non estraibile.
+
+---
+
+## Problema 1
+
+
+
+
+
+
+
+**Aufgabe 1 — Korken im Eimer (MC-Aufgabe) (5 Pkt.)**
+
+**Deutscher.** Ein mit Wasser gefüllter Eimer ist an einem Seil aufgehängt. In dem Eimer befindet sich, wie nebenstehend abgebildet, ein Korken, der mit einem Faden am Boden des Eimers befestigt ist. Wenn der Faden durchtrennt wird, steigt der Korken an die Wasseroberfläche. Wird das Seil am Eimer durchtrennt, fällt dieser mit Inhalt nach unten.
+
+Wie bewegt sich der Korken relativ zu dem Eimer, unmittelbar nachdem das Seil und der Faden gleichzeitig durchtrennt worden sind?
+
+- (A) Der Korken steigt schneller zur Wasseroberfläche.
+- (B) Der Korken steigt genau so schnell an die Wasseroberfläche.
+- (C) Der Korken bleibt in Ruhe.
+- (D) Der Korken sinkt zum Boden des Eimers.
+
+**Problem (English translation).** A bucket filled with water is suspended from a rope. There is a cork in the bucket, as shown opposite, which is attached to the bottom of the bucket with a thread. When the thread is cut, the cork rises to the surface of the water. If the rope on the bucket is cut, the bucket and its contents fall down.
+
+How does the cork move relative to the bucket immediately after the rope and thread have been severed at the same time?
+
+- (A) The cork rises faster to the surface of the water.
+- (B) The cork rises to the surface of the water just as quickly.
+- (C) The cork stays in place.
+- (D) The cork sinks to the bottom of the bucket.
+
+
+---
+
+**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Fonte:** Testo (PDF) — p.1
+
+## Problema 2
+
+
+
+
+
+
+
+**Aufgabe 2 — Bewegung! (MC-Aufgabe) (5 Pkt.)**
+
+**Deutscher.** Der nebenstehende Graph zeigt die Beschleunigung $a$ eines Körpers bei einer eindimensionalen Bewegung als Funktion der Zeit $t$.
+
+Welche der nachfolgenden Graphen stellt die Geschwindigkeit $v$ des Körpers als Funktion der Zeit korrekt dar?
+
+**Problem (English translation).** The graph opposite shows the acceleration $a$ of a body during a one-dimensional movement as a function of time $t$.
+
+Which of the following graphs correctly represents the speed $v$ of the body as a function of time?
+
+*(Il grafico di $a(t)$ e le quattro opzioni $v(t)$ sono figure embedded nel PDF; fare riferimento alla pagina PDF originale.)*
+
+
+---
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]]
+**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Fonte:** Testo (PDF) — p.2
+
+## Problema 3
+
+
+
+
+
+
+
+**Aufgabe 3 — Gravitationswellen (MC-Aufgabe)**
+
+**Deutscher.** Die allgemeine Relativitätstheorie sagt die Existenz von Gravitationswellen, also Wellen in der Struktur der Raumzeit voraus. Diese Wellen werden von beschleunigten Massen erzeugt und breiten sich mit Lichtgeschwindigkeit aus.
+
+Für zwei Körper mit gleicher Masse $m$, die sich in einem Abstand $r$ umkreisen, lässt sich die durch Gravitationswellen abgestrahlte Leistung $P$ mit Hilfe der Gravitationskonstante $G$ und der Vakuumlichtgeschwindigkeit $c$ ausdrücken.
+
+Welcher der folgenden Ausdrücke könnte einen passenden Ausdruck für die Leistung $P$ darstellen?
+
+$$\text{(A)}\quad P = \frac{32}{5}\,\frac{G^5 m^5}{c^5 r^4}$$
+
+$$\text{(B)}\quad P = \frac{32}{5}\,\frac{G^5 m^5}{c^4 r^5}$$
+
+$$\text{(C)}\quad P = \frac{32}{5}\,\frac{G^5 m^4}{c^5 r^5}$$
+
+$$\text{(D)}\quad P = \frac{32}{5}\,\frac{G^4 m^5}{c^5 r^5}$$
+
+**Problem (English translation).** The general theory of relativity predicts the existence of gravitational waves, i.e. waves in the structure of space-time. These waves are generated by accelerated masses and propagate at the speed of light.
+
+For two bodies with the same mass $m$, which circle each other at a distance $r$, the power $P$ radiated by gravitational waves can be expressed with the help of the gravitational constant $G$ and the vacuum speed of light $c$.
+
+Which of the following expressions might be a suitable expression for the power $P$?
+
+$$\text{(A)}\quad P = \frac{32}{5}\,\frac{G^5 m^5}{c^5 r^4}$$
+
+$$\text{(B)}\quad P = \frac{32}{5}\,\frac{G^5 m^5}{c^4 r^5}$$
+
+$$\text{(C)}\quad P = \frac{32}{5}\,\frac{G^5 m^4}{c^5 r^5}$$
+
+$$\text{(D)}\quad P = \frac{32}{5}\,\frac{G^4 m^5}{c^5 r^5}$$
+
+
+---
+
+**Topic:** [[Gravitation]], [[Circuits]], [[Thermodynamics]]
+**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Fonte:** Testo (PDF) — p.2
+
+## Problema 5
+
+
+
+
+
+
+
+**Aufgabe 5 — Widerstandfünfeck (MC-Aufgabe)**
+
+**Deutscher.** Eine Batterie mit einer Spannung von $9{,}0\ \text{V}$ ist mit einem idealen Amperemeter in Reihe geschaltet. Die Reihenschaltung kann an zwei beliebige Ecken des abgebildeten Widerstandfünfecks angeschlossen werden.
+
+Wie groß ist die betragsmäßig kleinste Stromstärke, die dabei durch das Amperemeter fließt?
+
+- (A) $0{,}30\ \text{A}$
+- (B) $0{,}60\ \text{A}$
+- (C) $1{,}20\ \text{A}$
+- (D) $2{,}30\ \text{A}$
+
+**Problem (English translation).** A battery with a voltage of $9.0\ \text{V}$ is connected in series with an ideal ammeter. The series circuit can be connected to any two corners of the resistor pentagon shown.
+
+How big is the smallest amount of current that flows through the ammeter?
+
+- (A) $0.30\ \text{A}$
+- (B) $0.60\ \text{A}$
+- (C) $1.20\ \text{A}$
+- (D) $2.30\ \text{A}$
+
+*(Il diagramma del Widerstandfünfeck con i valori delle resistenze è una figura embedded nel PDF; fare riferimento alla pagina PDF originale.)*
+
+
+---
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Symmetry Argument (metodo)|Symmetry Argument]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Fonte:** Testo (PDF) — p.3
+
+## Problema 7
+
+
+
+
+
+
+
+**Aufgabe 7 — RLC-Schaltung (MC-Aufgabe)**
+
+**Deutscher.** Ein Widerstand mit Widerstandswert $R$, ein Kondensator der Kapazität $C$ und eine Spule der Induktivität $L$ werden an eine Wechselspannungsquelle angeschlossen. Die Amplitude der Wechselspannung beträgt $U$ und die Bauteile können als ideal angenommen werden.
+
+Der folgende Graph zeigt die Amplitude $I$ der Stromstärke in dem Stromkreis als Funktion der Frequenz $f$ der sinusförmigen Wechselspannung.
+
+Welche der folgenden Schaltskizzen stellt die verwendete Schaltung korrekt dar?
+
+**Problem (English translation).** A resistor with resistance value $R$, a capacitor with capacitance $C$ and a coil with inductance $L$ are connected to an alternating voltage source. The amplitude of the alternating voltage is $U$ and the components can be assumed to be ideal.
+
+The following graph shows the amplitude $I$ of the current in the circuit as a function of the frequency $f$ of the sinusoidal alternating voltage.
+
+Which of the following circuit diagrams correctly represents the circuit used?
+
+*(Il grafico $I(f)$ e le quattro schematiche di circuito sono figure embedded nel PDF; fare riferimento alla pagina PDF originale.)*
+
+
+---
+
+**Topic:** [[Circuits]], [[Oscillations & Waves]]
+**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** Testo (PDF) — p.3
+
+## Problema 9
+
+
+
+
+
+
+
+**Aufgabe 9 — Kreisprozess (MC-Aufgabe)**
+
+**Deutscher.** Ein ideales Gas durchläuft einen Kreisprozess. Ausgehend von dem Zustand $A$ wird es zunächst bei konstantem Volumen bis zu einem Zustand $B$ erwärmt, anschließend expandiert es ohne Temperaturänderung bis zu einem Zustand $C$ und wird schließlich isobar wieder zum Ausgangszustand $A$ komprimiert.
+
+Bezeichne mit $p$, $V$ und $T$ den Druck, das Volumen und die Temperatur des Gases.
+
+Welche der nachfolgenden Graphen stellen den Kreisprozess korrekt dar?
+
+- (A) Nur die Graphen I und II.
+- (B) Nur die Graphen I und III.
+- (C) Nur die Graphen II und III.
+- (D) Alle drei Graphen.
+
+**Problem (English translation).** An ideal gas goes through a cycle. Starting from state $A$, it is first heated at constant volume up to state $B$, then it expands to state $C$ without a change in temperature and is finally isobarically compressed again to initial state $A$.
+
+Use $p$, $V$ and $T$ to denote the pressure, volume and temperature of the gas.
+
+Which of the following graphs represent the cycle correctly?
+
+- (A) Graphs I and II only.
+- (B) Graphs I and III only.
+- (C) Graphs II and III only.
+- (D) All three graphs.
+
+*(I tre grafici del ciclo sono figure embedded nel PDF; fare riferimento alla pagina PDF originale.)*
+
+
+---
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** Testo (PDF) — p.4
+
+## Problema 10
+
+
+
+
+
+
+
+**Aufgabe 10 — Eis schmelzen (MC-Aufgabe)**
+
+**Deutscher.** An einem kalten Wintertag stehen drei identische, nicht isolierte Holzkisten vor dem Haus, die jeweils mit der gleichen Menge Eis der Temperatur $0{,}0\ ^\circ\text{C}$ befüllt werden. Um das Eis zu schmelzen, wird in jede der Boxen ein elektrisches Heizelement platziert. Die Heizelemente sind identisch, werden aber mit unterschiedlichen Spannungen betrieben.
+
+In der ersten Kiste wird das Heizelement mit einer Spannung von $80\ \text{V}$ betrieben. Das gesamte Eis in der Kiste schmilzt dann in $20{,}0$ Minuten. An das Heizelement der zweiten Kiste wird eine Spannung von $120\ \text{V}$ angelegt, woraufhin das Eis in nur $4{,}0$ Minuten vollständig schmilzt. In der dritten Kiste wird für das Heizelement eine Spannung von $40\ \text{V}$ verwendet.
+
+Die Heizelemente sind so konstruiert, dass sie die gesamte Eismasse in der jeweiligen Kiste gleichzeitig heizen. Nimm an, dass das Schmelzwasser nicht durch das Heizelement erwärmt wird. Welche der folgenden Aussagen ist dann für das Schmelzen des Eises in der dritten Kiste zutreffend?
+
+- (A) Zum Schmelzen des gesamten Eises in der dritten Kiste werden etwa $80$ Minuten benötigt.
+- (B) Zum Schmelzen des gesamten Eises in der dritten Kiste werden etwa $100$ Minuten benötigt.
+- (C) Zum Schmelzen des gesamten Eises in der dritten Kiste werden etwa $130$ Minuten benötigt.
+- (D) Mit der verwendeten Spannung ist es nicht möglich, das gesamte Eis zu schmelzen.
+
+**Problem (English translation).** On a cold winter's day, there are three identical, non-insulated wooden boxes in front of the house, each filled with the same amount of ice at a temperature of $0.0\ ^\circ\text{C}$. To melt the ice, an electric heating element is placed in each of the boxes. The heating elements are identical, but are operated with different voltages.
+
+In the first box, the heating element is operated with a voltage of $80\ \text{V}$. All of the ice in the box will then melt in $20.0$ minutes. A voltage of $120\ \text{V}$ is applied to the heating element of the second box, whereupon the ice completely melts in just $4.0$ minutes. In the third box, a voltage of $40\ \text{V}$ is used for the heating element.
+
+The heating elements are designed in such a way that they heat the entire mass of ice in the respective box at the same time. Assume that the meltwater is not being heated by the heating element. Which of the following statements is then true for the melting of the ice in the third box?
+
+- (A) It takes about $80$ minutes to melt all of the ice in the third box.
+- (B) It takes about $100$ minutes to melt all of the ice in the third box.
+- (C) It will take about $130$ minutes to melt all of the ice in the third box.
+- (D) With the voltage used, it is not possible to melt all of the ice.
+
+
+---
+
+**Topic:** [[Thermodynamics]], [[Circuits]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Fonte:** Testo (PDF) — p.4
+
+## Problema 11
+
+
+
+
+
+
+
+**Aufgabe 11 — Kondensatorentladung**
+
+**Deutscher.** Ein geladener Kondensator wird über einen unbekannten Widerstand entladen. In der linken der unten stehenden Tabellen ist der Entladestrom $I$ des Kondensators in Abhängigkeit von der Zeit $t$ aufgeführt.
+
+In einem zweiten Versuch wird der erneut geladene Kondensator über den unbekannten Widerstand in Reihe mit einem Vorwiderstand von $5{,}1\ \text{M}\Omega$ entladen. Die entsprechenden Werte für den Entladestrom sind in der rechten Tabelle aufgeführt.
+
+Bestimme aus den Messwerten sowohl die Kapazität des Kondensators als auch den Widerstandswert des unbekannten Widerstandes. Erstelle dazu einen geeigneten Graphen.
+
+**Hinweis:** Es ist nicht bekannt, auf welche Spannungen der Kondensator in den beiden Versuchen aufgeladen wurde. Insbesondere können die Spannungen in beiden Versuchen unterschiedlich sein.
+
+*(Le due tabelle dei dati di scarica — $I$ vs.\ $t$ per l'esperimento 1 e per l'esperimento 2 — sono figure vettoriali embedded nel PDF; fare riferimento alla pagina PDF originale.)*
+
+**Problem (English translation).** A charged capacitor is discharged through an unknown resistor. The left of the tables below shows the discharge current $I$ of the capacitor as a function of the time $t$.
+
+In a second attempt, the recharged capacitor is discharged via the unknown resistor in series with a series resistor of $5.1\ \text{M}\Omega$. The corresponding values for the discharge current are listed in the table on the right.
+
+Determine both the capacitance of the capacitor and the resistance value of the unknown resistor from the measured values. Create a suitable graph for this.
+
+**Note:** It is not known to which voltages the capacitor was charged in the two experiments. In particular, the voltages in the two tests can be different.
+
+
+---
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Differential Equations (metodo)|Differential Equations]]
+**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Fonte:** Testo (PDF) — p.5
+
+## Problema 12
+
+
+
+
+
+
+
+**Aufgabe 12 — Supernova in Barnards Galaxie**
+
+**Deutscher.** Bei einer Supernova in Barnards Galaxie, einer Nachbargalaxie unserer Milchstraße, gehen ein Photon und ein Proton gleichzeitig auf die Reise zur Erde. Dort wird das Proton $72$ Stunden später registriert als das Photon. Die Gesamtenergie des Protons beträgt
+
+$$E = 9{,}38\ \text{TeV} = 9{,}38 \times 10^{12}\ \text{eV}.$$
+
+- (A) Zeige, dass die Gesamtenergie des Protons etwa das $10\,000$-fache seiner Ruheenergie beträgt.
+- (B) Berechne, in welcher Entfernung von der Erde die Supernova stattfand. Gib dein Ergebnis in Lichtjahren an.
+- (C) Bestimme, wie lange die Reise des Protons in seinem Bezugssystem gedauert hat.
+
+**Problem (English translation).** In the case of a supernova in Barnard's galaxy, a neighboring galaxy to our Milky Way, a photon and a proton travel to Earth at the same time. There the proton is registered $72$ hours later than the photon. The total energy of the proton is
+
+$$E = 9.38\ \text{TeV} = 9.38 \times 10^{12}\ \text{eV}.$$
+
+- (A) Show that the total energy of the proton is about $10\,000$ times its rest energy.
+- (B) Calculate the distance from the earth at which the supernova took place. Give your result in light years.
+- (C) Determine how long the proton's journey took in its frame of reference.
+
+
+---
+
+**Topic:** [[Special Relativity]], [[Astrophysics]]
+**Metodi:** [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Lorentz Transformation (metodo)|Lorentz Transformation]], [[Mass-Energy Equivalence (metodo)|Mass-Energy Equivalence]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** Testo (PDF) — p.6
+
+## Problema 13
+
+
+
+
+
+
+
+**Aufgabe 13 — Aufsteigende Luftpakete und Quellwolken**
+
+**Deutscher.** Früh an einem Sommermorgen beträgt die Lufttemperatur am Boden $\vartheta_0 = 13\ ^\circ\text{C}$. Mit der Höhe über dem Boden nimmt die Temperatur ab und zwar näherungsweise um $0{,}50\ \text{K}$ pro $100\ \text{m}$ Höhe. Nimm an, dass diese Temperaturschichtung der Umgebungsluft über den gesamten Tag konstant bleibt.
+
+Durch die Sonneneinstrahlung werden im Laufe des Vormittages Luftpakete am Boden erwärmt und steigen nach oben. Beim Aufsteigen dehnen sich diese Pakete aus und kühlen durch die dabei verrichtete Arbeit ab. Die Abkühlungsrate der Luftpakete beträgt $\gamma_d = 0{,}0098\ \text{K\,m}^{-1}$. Die Luftpakete steigen nicht weiter auf, wenn ihre Temperatur gleich der Temperatur der umgebenden Luft ist.
+
+- (A) Betrachte ein Luftpaket, das am Boden eine Temperatur von $\vartheta_1 = 18\ ^\circ\text{C}$ besitzt. Zeichne in einem gemeinsamen Graphen sowohl die Temperatur der Umgebungsluft als auch die des aufsteigenden Luftpaketes in Abhängigkeit von der Höhe über dem Erdboden ein. Trage dabei die Höhe auf der vertikalen Achse auf. Bestimme aus dem Graphen oder rechnerisch, bis in welche Höhe das Luftpaket aufsteigt.
+
+Wenn die Temperatur in den Luftpaketen den sogenannten Taupunkt erreicht, beginnt die in der Luft enthaltene Feuchtigkeit zu kondensieren und es bilden sich Wolken. Der Taupunkt ist dabei die Temperatur, auf die man Luft einer bestimmten Luftfeuchtigkeit bei konstantem Druck abkühlen muss, damit Kondensation einsetzt. Der Taupunkt ist druckabhängig und ändert sich daher ebenfalls mit der Höhe über dem Boden. Nimm an, dass der Taupunkt in den Luftpaketen an der Erdoberfläche bei $\vartheta_T = 7{,}0\ ^\circ\text{C}$ liegt und mit der Höhe um $\gamma_T = 0{,}0018\ \text{K\,m}^{-1}$ abnimmt.
+
+- (B) Im Verlauf des Vormittags zeigen sich die ersten Quellwolken. Bestimme die Temperatur der Luftpakete am Boden bei Auftreten der ersten Quellwolken.
+
+Durch die bei der Kondensation frei werdende Kondensationswärme verringert sich die Abkühlungsrate der aufsteigenden Luftpakete auf $\gamma_m = 0{,}0060\ \text{K\,m}^{-1}$. Am Nachmittag beträgt die Temperatur der Luftpakete an der Erdoberfläche $\vartheta_2 = 26\ ^\circ\text{C}$ und der Taupunkt liegt immer noch bei $7{,}0\ ^\circ\text{C}$. Am Himmel sind nun einige Quellwolken zu sehen.
+
+- (C) Bestimme, in welcher Höhe sich die Unterseite der Wolken befindet und bis in welche Höhe.
+
+**Problem (English translation).** Early on a summer morning, the air temperature on the ground is $\vartheta_0 = 13\ ^\circ\text{C}$. With the altitude above the ground, the temperature decreases by approximately $0.50\ \text{K}$ per $100\ \text{m}$ of altitude (environmental lapse rate $\Gamma = 0.0050\ \text{K\,m}^{-1}$). Assume that this temperature stratification of the ambient air remains constant throughout the day.
+
+In the course of the morning, air parcels on the ground are warmed up by the sun's rays and rise. As they ascend, these packets expand and cool due to the work done. The dry adiabatic lapse rate of the air parcels is $\gamma_d = 0.0098\ \text{K\,m}^{-1}$. The air parcels do not rise any further when their temperature equals the temperature of the surrounding air.
+
+- (A) Consider an air parcel that has a temperature of $\vartheta_1 = 18\ ^\circ\text{C}$ on the ground. Draw both the temperature of the ambient air and that of the rising air parcel in a common graph as a function of the height above the ground, with height on the vertical axis. Determine from the graph or by calculation the height to which the air parcel rises.
+
+When the temperature in the air parcels reaches the so-called dew point, the moisture in the air begins to condense and clouds form. The dew point is the temperature to which air of a certain humidity must be cooled at constant pressure in order for condensation to set in. The dew point is pressure-dependent and therefore also changes with the height above the ground. Assume that the dew point in the air parcels at the Earth's surface is $\vartheta_T = 7.0\ ^\circ\text{C}$ and decreases with height at a rate $\gamma_T = 0.0018\ \text{K\,m}^{-1}$.
+
+- (B) The first cumulus clouds appear in the course of the morning. Determine the temperature of the air parcels on the ground when the first cumulus clouds appear.
+
+The heat of condensation released during condensation reduces the cooling rate of the rising air parcels to the saturated adiabatic lapse rate $\gamma_m = 0.0060\ \text{K\,m}^{-1}$. In the afternoon, the temperature of the air parcels at the Earth's surface is $\vartheta_2 = 26\ ^\circ\text{C}$ and the dew point is still $7.0\ ^\circ\text{C}$. Some cumulus clouds can now be seen in the sky.
+
+- (C) Determine at what height the bottom of the clouds is located and up to what height the clouds extend.
+
+**Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Fonte:** Testo (PDF) — p.6

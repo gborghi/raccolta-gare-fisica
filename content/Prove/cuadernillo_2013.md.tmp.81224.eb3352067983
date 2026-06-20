@@ -1,0 +1,1103 @@
+---
+tipo: prova
+prova_id: prova_cuadernillo_2013
+competition: Argentina Physics Olympiad
+comp_code: Argent
+country: Argentina
+year: 2013
+level: ''
+pdf: gare di altri paesi/Argentina/pruebas-locales/cuadernillo_2013.pdf
+cluster: Termodinamica
+n_problemi: 3
+tags:
+- kg/prova
+- anno/2013
+- paese/Argentina
+- comp/Argent
+- cluster/Termodinamica
+---
+
+# Argent 2013 — cuadernillo_2013.pdf
+
+**Fonte:** `gare di altri paesi/Argentina/pruebas-locales/cuadernillo_2013.pdf` · [[gare di altri paesi/Argentina/pruebas-locales/cuadernillo_2013.pdf#page=3|Apri PDF]] · [apri PDF p.3](file:///E%3A/giovanni/Dropbox/insegnamento/Wiligelmo/OlimpiadiFisica/raccolte%20gare%20di%20Fisica/gare%20di%20altri%20paesi/Argentina/pruebas-locales/cuadernillo_2013.pdf#page=3)
+**Cluster:** [[Termodinamica]]
+
+## Problema 1
+
+
+Problema 1
+De la tierra a la luna, de Julio Verne.
+En la novela De la tierra a la luna de Julio Verne (Nantes, 8 de febrero de 1828-
+Amiens, 24 de marzo de 1905) se narranlas peripecias de los miembros del Club
+de cañones de Baltimore, condenados a la inactividad después de terminar la
+guerra civil de Norteamérica, para enviar a la luna una bala de cañón tripulada.
+Para esto, los miembros del club decidieron construir un cañón colosal, cargarlo
+con un proyectil hueco y, por medio de un disparo, lanzar este vagón-proyectil a
+la luna.
+El cañón construido tenía una longitud de $200\ \text{m}$ y estaba enterrado
+verticalmente en la tierra. Como vagón-proyectil se utilizó una esfera hueca de
+aluminio de $4.60\ \text{m}$ diámetro exterior y $0.30\ \text{m}$ de espesor. La masa total del
+vagón-proyectil, teniendo en cuenta la tripulación y la carga, era de $8000\ \text{kg}$.
+Para efectuar el disparo, el cañón se cargó con $160000\ \text{kg}$ de algodón pólvora.
+En la novela se indica que el proyectil alcanzó, al momento de salir de la boca
+del cañón, una velocidad de $16\ \text{km/s}$ y que, debido al rozamiento con el aire de
+la atmósfera terrestre, la velocidad disminuyó a $11\ \text{km/s}$ al momento de
+abandonar la misma.
+Se propone realizar algunos cálculos y sacar algunas conclusiones.
+a) Determinar la cantidad de energía liberada por kilogramo de algodón
+pólvora. Suponer que no hay rozamiento entre el proyectil y el ánima del
+cañón y que se pierde un 20% de energía por calor.
+b) Calcular la aceleración que experimentan los pasajeros del vagónproyectil cuando recorren el ánima del cañón. Suponer que el
+movimiento del vagón dentro del ánima del cañón es uniformemente
+acelerado.
+c) Estudios muestran que el cuerpo humano es capaz de soportar, por
+cortos períodos de tiempo, 10 veces la aceleración de la gravedad sin
+perjuicio para la salud. Determinar cuál debería ser la longitud del cañón
+para que la tripulación sobreviva al disparo considerando la misma
+velocidad de salida del caso anterior. Tomar como valor de aceleración
+de la gravedad $g = 10\ \text{m}\,\text{s}^{-2}$.
+d) Establecer si el proyectil escapa del campo gravitatorio terrestre.
+Despreciar la atracción gravitatoria de la luna.
+NOTA: Entendemos por “velocidad de escape” a la velocidad inicial requerida
+para ir desde un punto inicial en un campo gravitatorio (en nuestro caso el punto
+inicial es el límite exterior de la atmósfera) y llegar al infinito con velocidad cero.
+Cuando el vagón-proyectil se encuentre en el espacio exterior recibirá radiación
+solar. Esta radiación será absorbida por el vagón-proyectil elevando su
+temperatura. El flujo de radiación que recibirá el vagón-proyectil es
+aproximadamente de $1366\ \dfrac{\text{W}}{\text{m}^2}$.
+
+Considerando que el vagón-proyectil se comporta como un cuerpo negro, éste
+irradiará una potencia $P$ dada por la siguiente fórmula:
+
+$$P = \sigma A T^4$$
+
+Donde $\sigma$ es la constante de Stefan-Boltzmann, $A$ es la superficie por la que se
+emite la radiación (superficie del cuerpo) y $T$ es la temperatura del cuerpo en
+Kelvin.
+OAF 2013 - 4
+e) Determinar la potencia de radiación que absorbe el vagón-proyectil.
+f) Determinar la temperatura que alcanza el vagón-proyectil. Suponer que
+el mismo ha alcanzado un estado estacionario en el cual la temperatura
+no cambia con el tiempo.
+g) Concluir si será necesario un sistema para refrigerar el vagón-proyectil o
+para calefaccionar el mismo.
+Para tener iluminación, el vagón-proyectil tiene un sistema que transforma parte
+de la energía recibida, en forma de radiación, en energía eléctrica. De esta forma
+se cuenta con una fuente de tensión continua de $24\ \text{V}$. Para la iluminación, se
+utilizarán lámparas “frías” que tienen una resistencia de trabajo de $200\ \Omega$ y por
+las que puede circular una corriente máxima de $5\ \text{mA}$.
+h) Determinar el número mínimo de lámparas en serie que se deben
+conectar a la fuente para obtener la máxima cantidad de luz sin que
+ninguna se dañe.
+i) Calcular la potencia que disipa el circuito en estas condiciones.
+j) Calcular la potencia que entrega la fuente en estas condiciones.
+
+Datos:
+Longitud del cañón: $200\ \text{m}$
+Diámetro exterior de la esfera hueca de aluminio: $4.60\ \text{m}$
+Espesor de la esfera hueca de aluminio: $0.30\ \text{m}$
+Masa total de la esfera más la tripulación: $8000\ \text{kg}$
+Masa de algodón pólvora: $160000\ \text{kg}$
+Velocidad de salida del proyectil en la boca del cañón: $16\ \dfrac{\text{km}}{\text{s}}$
+
+Velocidad del proyectil al abandonar la atmósfera: $11\ \dfrac{\text{km}}{\text{s}}$
+
+Masa de la tierra: $M_T = 5.974\times10^{24}\ \text{kg}$
+Radio de la tierra: $R_T = 6400\ \text{km}$
+Altura de la atmósfera respecto de la superficie terrestre: $H = 100\ \text{km}$
+Aceleración de la gravedad: $10\ \dfrac{\text{m}}{\text{s}^2}$
+
+Flujo de radiación solar: $1366\ \dfrac{\text{W}}{\text{m}^2}$
+
+Constante gravitatoria universal: $G = 6.672\times10^{-11}\ \dfrac{\text{Nm}^2}{\text{kg}^2}$
+
+Constante de Stefan-Boltzmann: $\sigma = 5{,}67\times10^{-8}\ \dfrac{\text{W}}{\text{m}^2\text{K}^4}$
+
+NOTA: La superficie efectiva de absorción de una esfera de radio $R$, irradiada
+desde una única dirección, es $\pi R^2$
+OAF 2013 - 5
+Hoja de soluciones Problema 1: De la tierra a la luna, de Julio Verne.
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+i)
+
+j)
+OAF 2013 - 6
+
+**Topic:** [[Gravitation]], [[Thermodynamics]], [[Circuits]]
+**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Fonte:** [[gare di altri paesi/Argentina/pruebas-locales/cuadernillo_2013.pdf#page=3|Testo (PDF) — p.3]]
+
+## Problema 2
+
+
+Problema 2
+Probando Neumáticos
+
+Una rueda de automóvil es expuesta a una serie de experimentos, con el fin de
+estudiar sus propiedades dinámicas. Uno de estos experimentos está
+representado en la figura adjunta.
+
+Mediante un sistema mecánico adecuado la rueda se hace girar desde el reposo
+hasta una velocidad angular final $\Omega_0$ en sentido anti-horario (vista de frente). Con
+un sistema de palancas se puede apoyar (y separar) la rueda en movimiento
+sobre una superficie plana, la cual permanece siempre en reposo. La máxima
+fuerza normal, $N$, que puede ejercer el neumático sobre la superficie es $2500\ \text{N}$.
+El coeficiente de rozamiento dinámico, $\mu_\text{din}$ entre la rueda y la superficie puede
+variar en el rango 0,055 (simulando el caso en que la superficie plana es hielo)
+hasta 0,8 (para el caso en que la superficie plana simula pavimento seco). Por
+efecto del rozamiento entre la rueda y la superficie, aquella se detiene tras un
+tiempo $\Delta t$, después de apoyarse sobre la superficie.
+Suponiendo que las dimensiones de la rueda son las detalladas en la Tabla 1,
+que la fuerza normal $N$ es la máxima, que $\Omega_0$ corresponde a una velocidad lineal
+de $120\ \text{km/h}$ y que $\mu_\text{din} = 0{,}4$.
+a) Indique dirección, sentido y módulo de la fuerza de rozamiento.
+b) Calcule la energía total disipada por rozamiento, desde que la rueda se
+pone en contacto con la superficie plana, hasta que se detiene.
+c) Calcule el tiempo que tarda en frenarse la rueda.
+D2 D1
+H
+OAF 2013 - 7
+d) Calcule el número de vueltas que da la rueda antes de detenerse y la
+distancia de frenado teniendo en cuenta solo el rozamiento entre el
+neumático y la superficie (es decir, sin la asistencia de un sistema de
+frenos).
+e) Calcule el número de moles de aire contenidos dentro del neumático.
+Considere que el aire con el que se rellena el neumático se comporta
+como un gas ideal. Suponga que la rueda se infló hasta una presión de
+$245\ \text{kPa}$, a una temperatura ambiente igual a $T = 293\ ^\circ\text{K}$. Las
+dimensiones de la llanta son las que se indican en la tabla 1. (constante
+de los gases $R = 8.31\ \text{J/(mol K)}$)
+f) Suponiendo que toda la energía disipada por el rozamiento entre el
+neumático y la superficie plana, calculada en el punto c), genera el
+calentamiento de la rueda (neumático y llanta) y del aire que contiene,
+determine el cambio de temperatura del aire.
+Considere que:
+- el volumen del neumático se mantiene constante
+- la rueda y el gas están siempre en equilibrio térmico
+- el calor específico del aire a volumen constante es $C_v = 717{,}7\ \text{J}/^\circ\text{K}\ \text{kg}$
+- la densidad media del aire es $1.19\ \text{kg/m}^3$
+- la masa de la rueda es $M_r = 14{,}2\ \text{kg}$
+- la capacidad calorífica especifica media de la rueda es $C_r = 1000\ \text{J}/^\circ\text{K}\ \text{kg}$.
+
+g) Calcule el incremento de presión del aire dentro del neumático debido al
+incremento de la temperatura calculada en el punto anterior.
+h) Determine la máxima velocidad angular $\Omega_0$ con la que se puede realizar
+el ensayo a la rueda sin que explote, teniendo presente que la máxima
+presión que soporta el neumático es $392\ \text{kPa}$.
+
+Diámetro interno ($D_1$)
+$33{,}9\ \text{cm}$
+Diámetro externo ($D_2$)
+$58{,}9\ \text{cm}$
+Ancho ($H$)
+$18{,}5\ \text{cm}$
+Espesor de la pared de caucho
+$2\ \text{cm}$
+Momento de inercia total de la rueda $1{,}012\ \text{kg m}^{-2}$
+Tabla 1
+OAF 2013 - 8
+Hoja de Soluciones Problema 2: Probando Neumáticos
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+OAF 2013 - 9
+
+
+<!--fig:start-->
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p6_f1.png]]
+*ruota su superficie piana*
+<!--fig:end-->
+
+**Topic:** [[Rotational Dynamics]], [[Thermodynamics]], [[Kinetic Theory]]
+**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Fonte:** [[gare di altri paesi/Argentina/pruebas-locales/cuadernillo_2013.pdf#page=6|Testo (PDF) — p.6]]
+
+## Problema 3
+
+
+Problema 3
+
+Rascacielos peligroso.
+
+Un nuevo rascacielos de Londres,
+conocido
+informalmente
+como
+el
+"Walkie-Talkie" ha sido acusado de
+reflejar la luz que fundió las piezas de
+un coche estacionado en una calle
+cercana. Este edificio de 37 pisos
+diseñado
+por
+Rafael
+Viñoly,
+un
+arquitecto nacido en Uruguay y
+educado en Argentina, tiene la forma
+esquematizada en la Figura 1 (vista
+lateral de la Foto A).
+
+ Foto A
+Martin Lindsay aparcó su Jaguar XJ negro en el centro financiero de Londres,
+también conocido como la City de Londres, el jueves 29 de agosto por la tarde.
+Cuando regresó, unas dos horas más tarde, descubrió que algunas partes de su
+vehículo -incluyendo el espejo retrovisor y la insignia- se habían derretido.
+ Foto B
+
+ Foto C
+La compañía de seguros de la empresa constructora, le ha encargado a Ud. que
+determine si estos hechos son factibles para responder a los reclamos
+económicos del damnificado.
+Para ello los constructores le han facilitado el esquema de la Figura 1 que
+representa una vista lateral del edificio, las dimensiones relevantes y algunas
+características a tener en cuenta, a saber:
+- En los primeros $50\ \text{m}$ de altura el edificio es recto.
+- En los últimos 80 metros, el perfil responden a una curvatura de radio $R = 325\ \text{m}$
+- A la hora que sucedió el hecho, los rayos solares inciden formando un
+ángulo de $50^\circ$ respecto a la normal al suelo.
+Para cumplir con la tarea, le sugerimos realizar las siguientes consignas:
+a) Calcule a qué distancia del pie del edificio incide el rayo 1 reflejado.
+OAF 2013 - 10
+b) Calcule el ángulo $\gamma$ que forma la recta tangente a la superficie del
+edificio con la normal al suelo en el punto de incidencia del rayo 2 .
+c) Calcule a qué distancia del pie del edificio incide el rayo 2 reflejado.
+d) Calcule el largo de la región donde se concentra la luz reflejada en el
+piso.
+e) Sabiendo que la intensidad de radiación solar promedio que llega a la
+superficie de la Tierra es de $198\ \text{W/m}^2$ y que la reflectividad de la
+superficie del edificio es del 50%, calcule la intensidad de radiación en
+el sector iluminado.
+f) Sabiendo que el espejo retrovisor del auto está confeccionado con PBT,
+cuyas propiedades están dadas en la Tabla 1, y teniendo en cuenta que
+de acuerdo a la información brindada por Jaguar el volumen de PBT del
+espejo es $V = 0.0005\ \text{m}^3$ y que la superficie expuesta a la luz es $S = 0.02\ \text{m}^2$, calcule cuanto tiempo debe permanecer estacionado el auto
+para que comience a deformarse el espejo. (Suponga que la
+temperatura ambiente es de $20\ ^\circ\text{C}$)
+
+Densidad del PBT
+$1.31\ \text{g/cm}^3$
+Coeficiente de absorción de radiación
+70%
+Temperatura de inicio de deformación
+$90\ ^\circ\text{C}$
+Calor específico del PBT
+$1500\ \text{J/}(^\circ\text{C}\ \text{kg})$
+Tabla 1
+OAF 2013 - 11
+OAF 2013 - 12
+Hoja de soluciones Problema 3: Rascacielos peligroso.
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+OAF 2013 - 13
+
+Instancia Nacional
+Prueba Experimental
+OAF 2013 - 14
+Qué tubooo!!!
+
+Marco teórico
+Un tubo de Kundt es un dispositivo que permite estudiar ondas de sonido
+estacionarias. El dispositivo consiste de un tubo cilíndrico, cerrado por ambos
+extremos. En uno de los extremos se ubica un emisor de ondas sonoras de una
+dada frecuencia ($f$) y en el otro extremo, un detector de las mismas. El
+funcionamiento del tubo de Kundt se basa en la generación de ondas
+estacionarias en la región comprendida entre el emisor y el detector. Las ondas
+estacionarias se producen al superponerse dos ondas de igual amplitud y
+frecuencia ($f$), que viajan paralelas al eje del tubo, una de ellas en el sentido
+emisor-detector, y la otra en el sentido opuesto (esto es, en el sentido detectoremisor). Esta última onda resulta de la reflexión de la primera onda (generada
+por el emisor) en el extremo del tubo donde se encuentra ubicado el detector.
+
+Las ondas estacionarias se caracterizan por la existencia de zonas donde la
+onda tiene amplitud máxima (máximos o vientres) y otras con amplitud cero
+(nodos), las cuales tienen posiciones constantes en el tiempo. El número de
+nodos y máximos que se establecen dentro del tubo de Kundt depende de la
+longitud del mismo y de la frecuencia de la onda emitida; sin embargo la
+velocidad de propagación ( ) de la onda permanece constante. La distancia
+existente entre dos nodos consecutivos, o entre dos máximos consecutivos,
+siempre es igual a media longitud de onda.
+La velocidad de propagación de la onda está relacionada con su longitud de
+onda y con su frecuencia por la expresión:
+
+[1]
+
+Entonces, en base a la ecuación [1], un tubo de Kundt permite realizar
+mediciones para determinar la velocidad del sonido.
+
+Descripción del dispositivo de medición
+El tubo de Kundt que se presenta aquí consiste de una cavidad cilíndrica, cuyos
+extremos están limitados por un emisor y por un detector de ondas de
+ultrasonido. La posición del detector se encuentra fija mientras que el emisor se
+encuentra ubicado en un émbolo cuya posición puede variarse respecto del
+detector. Esto permite variar la distancia entre el emisor y el detector y, por lo
+tanto, la longitud de la cavidad cilíndrica. El émbolo está montado sobre un
+Ondas estacionarias en un tubo
+Tubo ( cavidad)
+nodo
+máximo
+ /2
+ /2
+emisor
+detector
+Figura 1
+OAF 2013 - 15
+calibre (Ver Uso Calibre en Apéndice), mediante el cual se puede medir la
+separación entre dos posiciones diferentes del mismo Ver Figura 2.
+
+Terminales de la
+resistencia
+Multímetro
+posicionado para
+medir
+Perilla P, para
+cambiar el valor
+de
+Figura 2
+Terminales de
+voltaje
+Multímetro posicionado
+para medir voltajes
+OAF 2013 - 16
+Emisor
+El emisor es un dispositivo que genera ondas sonoras en el rango de
+frecuencias entre 37000Hz y 42000Hz. El emisor se encuentra conectado a un
+circuito electrónico que permite variar la frecuencia de la onda de ultrasonido.
+Se puede modificar la frecuencia de la onda generada variando el valor de la
+resistencia que está conectada al mismo.
+La relación entre la frecuencia y el valor de la resistencia está dada por la
+siguiente fórmula:
+
+[2]
+
+donde está dada en kilo Hertz ( ) y en kilo Ohm ( ).
+Los valores de a y b son:
+
+Nota:
+Recuerde que la letra significa kilo = 1000 = 103
+
+El valor de resistencia se puede ajustar rotando la perilla P (ver Figura 2) y se
+puede determinar utilizando un multímetro colocado en función de óhmetro ( )
+(Ver Uso Multímetro en Apéndice)
+
+Detector
+Es un dispositivo que transforma la amplitud de ondas de ultrasonido a una señal
+de voltaje eléctrico continuo. Este voltaje se puede medir con un multímetro
+colocado en la función voltímetro (DCV) (Ver Uso Multímetro en Apéndice).
+
+Funcionamiento
+Al fijar un valor de la resistencia conectada al generador de ondas, el emisor
+emite una onda de ultrasonido cuya frecuencia f está determinada por la
+ecuación [2], y se establecen ondas estacionarias en la cavidad cilíndrica.
+Modificando la posición del embolo se varía la longitud de la cavidad; cuando la
+distancia ( ) que separa el emisor del detector es un número entero de semilongitudes de onda se tiene la denominada condición de resonancia, esto es
+cuando:
+
+ (n es: 1,2,3,4,...)
+[3]
+
+Por lo tanto, si se cambia , cambia la cantidad de nodos y máximos en el
+interior de la cavidad. Esto produce que la señal registrada por el detector varíe,
+alcanzando valores máximo o mínimos, dependiendo si la posición del detector
+se corresponde a un máximo o a un nodo de la onda estacionaria.
+OAF 2013 - 17
+Objetivo:
+Determinar la velocidad del sonido.
+Consignas
+
+Parte 1
+A- Determinar el rango de resistencias que está asociado al rango de
+frecuencias ( ) en las que trabaja el equipo. Usar la ecuación 2.
+B- Posicionar la perilla P de modo de leer en el multímetro un valor de que
+esté dentro del rango de tr
+
+
+<!--fig:start-->
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p9_f2.png]]
+*grattacielo Walkie-Talkie, vista laterale*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p9_f3.png]]
+*auto danneggiato dal riflesso solare*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p9_f4.png]]
+*dettaglio parti fuse dell'auto*
+<!--fig:end-->
+
+**Topic:** [[Geometric Optics]], [[Thermodynamics]]
+**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Fonte:** [[gare di altri paesi/Argentina/pruebas-locales/cuadernillo_2013.pdf#page=9|Testo (PDF) — p.9]]
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+<!--fig:start-->
+**p.15** — multimetro per misure di voltaggio
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p15_f5.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.15** — multimetro per misure di resistenza
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p15_f6.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.18** — calibro verniero con lettura
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p18_f7.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.30** — cella Hele-Shaw per granulati
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p30_f8.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.31** — sequenza rotazione cella con granulati
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p31_f9.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.36** — circuito reostato-potenziometro
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p36_f10.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.41** — apparato candela-ghiaccio su lastra
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p41_f11.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.45** — piano inclinato con corpo
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p45_f12.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.45** — circuito con resistenze parallelo-serie
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p45_f13.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.46** — pallina in caduta libera
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p46_f14.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.46** — sfera su arco semicircolare
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p46_f15.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.47** — pendolo di torsione di Cavendish
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p47_f16.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.48** — tubatura frigorifero con gas CFC
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p48_f17.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.48** — diagramma P-V ciclo frigorifero
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p48_f18.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.49** — schema forze su sfera in arco
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p49_f19.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.50** — solenoide generatore con circuito
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p50_f20.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.51** — pompa manuale con pistone
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p51_f21.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.52** — due lastre parallele con raggi luminosi
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p52_f22.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.52** — schema circuito generatore-case
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p52_f23.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.53** — diagramma rete elettrica comunità
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p53_f24.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.54** — tratto rettilineo percorso rally
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p54_f25.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.54** — curva percorso rally con raggi
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p54_f26.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.56** — circuito generatori-resistenze in parallelo
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p56_f27.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.57** — proiettile sparato contro blocco
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p57_f28.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.58** — cilindro con pistone gas ideale
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p58_f29.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.58** — diagramma P-V due processi gas
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p58_f30.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.59** — componenti per circuito lampada wolframio
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p59_f31.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.59** — grafico corrente-tensione lampada
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p59_f32.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.60** — piletoni termali a cascata su livelli
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p60_f33.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.62** — circuito LED-resistenze-pila
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p62_f34.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.62** — circuito modificato con nuova resistenza
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p62_f35.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.63** — schema ottico lanterna con lenti
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p63_f36.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.64** — circuito batteria-lampada auto
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p64_f37.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.65** — circuito batteria-lampada-mate
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p65_f38.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.66** — pentola locro con ingredienti
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p66_f39.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.67** — due pendoli che collidono
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p67_f40.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.67** — circuito con amperometro voltmetro
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p67_f41.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.69** — schema generatore con carichi su strada
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p69_f42.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.70** — reattore a fusione plasma toroidale
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p70_f43.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.71** — sistema bilancia-dinamometro-blocco
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p71_f44.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.72** — solenoide con nucleo magnetico
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p72_f45.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.76** — pendolo di torsione elettrostatico
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p76_f46.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.76** — circuito reti di resistenze con foce
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p76_f47.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.77** — spettrometro di massa schema
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p77_f48.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.78** — grafico posizione vs tempo moto
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p78_f49.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.79** — circuito Wheatstone incognita Rx
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p79_f50.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.80** — camion e auto su strada direzione
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p80_f51.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.81** — circuito resistenze con R9 tagliata
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p81_f52.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.81** — circuito resistenze 20Ω e 50Ω
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p81_f53.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.82** — elettrone tra due placche cariche
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p82_f54.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.83** — proiettile arcilla in caduta da tavolo
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p83_f55.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.83** — traiettoria arcilla senza aria
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p83_f56.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.83** — grafico forza vs tempo urto pallina
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p83_f57.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.84** — particella alfa tra placche parallele
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p84_f58.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.84** — impulso elettrone in campo magnetico
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p84_f59.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.85** — grafico P-V ciclo termodinamico gas
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p85_f60.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.85** — pezzo di ferro riscaldato in acqua
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p85_f61.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.86** — oggetto in caduta su piano con attrito
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p86_f62.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.88** — cubo con tubature e campo elettrico
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p88_f63.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.88** — circuito serie con interruttore S
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p88_f64.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.89** — barre oro-argento a contatto termico
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p89_f65.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.93** — pendolo con dinamometro su bilancia
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p93_f66.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.94** — circuito resistenze con condizione potenza
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p94_f67.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.95** — gru che traina auto su piano inclinato
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p95_f68.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.98** — corpo su arco circolare con urti
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p98_f69.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.99** — circuito resistenze con potenza limite
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p99_f70.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.100** — raggio laser tangente a pianeta
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p100_f71.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.100** — astronave vicino pianeta Borto
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p100_f72.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.101** — due cubi con molle in equilibrio
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p101_f73.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.101** — molle in serie collegate a batteria
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p101_f74.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.102** — barra con cuneo e masse in equilibrio
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p102_f75.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.103** — pallina che rimbalza su parete
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p103_f76.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.103** — diagramma rimbalzo pelota-pavimento
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p103_f77.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.104** — conduttori paralleli con corrente
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p104_f78.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.104** — schema conduttore C1 nel piano
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p104_f79.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.104** — fascio elettroni in campo E e B incrociati
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p104_f80.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.105** — cubo di rame su cordone riscaldato
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p105_f81.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.106** — grafico velocità navicella vs tempo
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p106_f82.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.107** — grafico posizione navicella vs tempo
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p107_f83.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.110** — schema effetto fotoelettrico placche
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p110_f84.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.112** — ascensore in caduta con freno attrito
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p112_f85.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.113** — percorso veicolo con salto scalino
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p113_f86.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.113** — circuito resistenze 1Ω con potenza 4W
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p113_f87.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.114** — circuito resistenze con llave LL
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p114_f88.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.114** — circuito con reostati variabili
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p114_f89.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.116** — macchia d'olio su carta con regola
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p116_f90.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.120** — schema parallasse stellare su orbita terrestre
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p120_f91.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.120** — triangolo parallasse con braccio teso
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p120_f92.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.121** — misura angolo parallasse con dita
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p121_f93.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.122** — cambio posizione stella su sfondo distante
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p122_f94.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.122** — schema stellare con parallasse angolare
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p122_f95.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.128** — circuito misura resistenza filo conduttore
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p128_f96.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.129** — schema forme geometriche per densità
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p129_f97.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.129** — bilancia elettronica per misura massa
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p129_f98.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.131** — multimetro digitale per misure circuito
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p131_f99.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.133** — molla verticale con massa appesa
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p133_f100.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.134** — grafico T² vs massa per oscillazioni molla
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p134_f101.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.134** — pendolo con molla e massa su asta
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p134_f102.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.135** — pendolo doppio con lunghezze L1 e L2
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p135_f103.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.135** — pendolo alternante tra L1 e L2
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p135_f104.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.138** — circuito accoppiamento resistenze misto
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p138_f105.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.143** — pendolo semplice con filo e massa
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p143_f106.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.147** — pendolo a catena con varilla frontale
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p147_f107.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.147** — vista laterale e frontale pendolo con catena
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p147_f108.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.148** — oscillazione pendolo con spostamento 5cm
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p148_f109.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.148** — pendolo con segnale di mezza oscillazione
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p148_f110.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.149** — grafico T vs x pendolo con catena
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p149_f111.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.150** — due pendoli che collidono elasticamente
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p150_f112.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.158** — apparato metodo Clement-Desormes Cp/Cv
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p158_f113.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.161** — circuito per legge di Ohm (Figura 1)
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p161_f114.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.161** — grafico V-I conduttore ohmico
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p161_f115.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.162** — schema circuito con lampade (Figura 3)
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p162_f116.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.162** — grafico corrente-tensione lampada
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p162_f117.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.164** — rete resistiva maglia di grafito
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p164_f118.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.164** — schema diffrazione su CD come rete
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p164_f119.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.165** — schema diffrazione da singola fenditura
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p165_f120.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.168** — apparato caduta sfera in farina per cratere
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p168_f121.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.170** — elettrodi paralleli in vasca con voltmetro
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p170_f122.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.170** — linee equipotenziali campo elettrico piatto
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p170_f123.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.170** — formula gradiente campo elettrico
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p170_f124.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.170** — elettrodi cilindrici in vasca
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p170_f125.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.170** — elettrodi punta-piano in vasca
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p170_f126.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.170** — linee equipotenziali da misura in vasca
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p170_f127.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.173** — lente piano-convessa con alfileres
+![[_attachments/cuadernillo_2013/cuadernillo_2013_p173_f128.png]]
+<!--fig:end-->

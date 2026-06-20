@@ -1,0 +1,655 @@
+---
+tipo: prova
+prova_id: prova_2010e
+competition: Canada Physics Olympiad
+comp_code: Canada
+country: Canada
+year: 2010
+level: ''
+pdf: gare di altri paesi/Canada/all/2010e.pdf
+cluster: Meccanica
+n_problemi: 10
+tags:
+- kg/prova
+- anno/2010
+- paese/Canada
+- comp/Canada
+- cluster/Meccanica
+---
+
+# Canada 2010 — 2010e.pdf
+
+**Fonte:** `gare di altri paesi/Canada/all/2010e.pdf` · [[gare di altri paesi/Canada/all/2010e.pdf#page=2|Apri PDF]] · [apri PDF p.2](file:///E%3A/giovanni/Dropbox/insegnamento/Wiligelmo/OlimpiadiFisica/raccolte%20gare%20di%20Fisica/gare%20di%20altri%20paesi/Canada/all/2010e.pdf#page=2)
+**Cluster:** [[Meccanica]]
+**Soluzioni (stessa cartella):** [[2016-solutions-corrected-2018 (soluzioni)|2016-solutions-corrected-2018.pdf]] · [[2017 CAP-High-School-Prize-Exam-2017-English-solutions.pdf-1 (soluzioni)|2017 CAP-High-School-Prize-Exam-2017-English-solutions.pdf-1.pdf]] · [[2019 cap-2019-solutions-protected (soluzioni)|2019 cap-2019-solutions-protected.pdf]] · [[2022 ENGsolutions_2022_Mar282023 (soluzioni)|2022 ENGsolutions_2022_Mar282023.pdf]] · [[2022_solutions_eng_mar202026 (soluzioni)|2022_solutions_eng_mar202026.pdf]] · [[2023_CAP_solution (soluzioni)|2023_CAP_solution.pdf]] · [[2024_CAP_Exam_with_solutions (soluzioni)|2024_CAP_Exam_with_solutions.pdf]] · [[2024_CAP_Exam_with_solutions_May62025 (soluzioni)|2024_CAP_Exam_with_solutions_May62025.pdf]] · [[2025_CAP_Exam_with_solutions (soluzioni)|2025_CAP_Exam_with_solutions.pdf]] · [[2026_CAP_Exam_with_solutions (soluzioni)|2026_CAP_Exam_with_solutions.pdf]] · [[CAP-exam-solutions-En (soluzioni)|CAP-exam-solutions-En.pdf]]
+
+## Problema 1
+
+Question 1
+A ball is dropped from a height $h$. It hits the ground and
+bounces back up with a momentum loss of 10% due to the
+impact. The maximum height it will reach is
+
+a) $0.90\ h$;
+b) $0.81\ h$;
+c) $0.949\ h$;
+d) $0.3\ h$.
+
+**Topic:** [[Conservation of Energy]], [[Conservation of Momentum]]
+**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Fonte:** [[gare di altri paesi/Canada/all/2010e.pdf#page=2|Testo (PDF) — p.2]]
+
+## Problema 2
+
+Question 2
+A mass $m_1$ rests on a frictionless
+surface. It is attached to mass $m_2$
+by a light string which passes
+over a massless, frictionless
+pulley, as shown in the figure.
+The system is released from rest.
+The initial acceleration $a$ of $m_2$ is
+given by
+
+a) $a = g$;
+
+b) $a = \dfrac{m_2}{(m_1 + m_2)}\,g$;
+
+c) $a = (m_2 - m_1)g$;
+
+d) $a = \dfrac{m_1}{(m_1 + m_2)}\,g$.
+
+
+<!--fig:start-->
+![[_attachments/2010e/2010e_p2_f4.png]]
+*sistema Atwood m1 su piano m2 appeso*
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Fonte:** [[gare di altri paesi/Canada/all/2010e.pdf#page=2|Testo (PDF) — p.2]]
+
+## Problema 3
+
+Question 3
+The system in question 2 is attached to a spring of spring
+constant $k$ which in turn is attached
+to a vertical wall, as shown to the
+right. The spring is neither
+stretched nor compressed. The
+system is released from rest. The
+mass $m_2$ falls and then oscillates
+about a mean displacement $x$ from
+its original position before release given by
+
+a) $x = \dfrac{m_2 g}{k}$;
+
+b) $x = \dfrac{m_1 g}{k}$;
+
+c) $x = \dfrac{(m_1 + m_2)g}{k}$;
+
+d) $x = \dfrac{m_2 g}{k}$.
+
+
+<!--fig:start-->
+![[_attachments/2010e/2010e_p2_f1.png]]
+*sistema Atwood con molla a parete*
+<!--fig:end-->
+
+**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
+**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Fonte:** [[gare di altri paesi/Canada/all/2010e.pdf#page=2|Testo (PDF) — p.2]]
+
+## Problema 4
+
+Question 4
+Four 100 ohm resistors and a 1 V
+battery are connected as shown in
+the circuit diagram. The potential
+difference between points $P_1$ and
+$P_2$ is given by
+
+a) 0.250 V;
+b) 0.333 V;
+c) .500 V;
+d) 0.667 V.
+
+
+<!--fig:start-->
+![[_attachments/2010e/2010e_p2_f2.png]]
+*circuito quattro resistori e batteria*
+<!--fig:end-->
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Fonte:** [[gare di altri paesi/Canada/all/2010e.pdf#page=2|Testo (PDF) — p.2]]
+
+## Problema 5
+
+Question 5
+A heavy plate is held horizontal resting on two frictionless
+pistons, each of which is placed in the opening of an
+asymmetric U tube filled with an incompressible fluid, as
+shown in the figure. Once the restraints on the plate are
+released, then
+
+a) piston $A_1$ will rise and $A_2$
+will fall;
+b) piston $A_2$ will rise and $A_1$
+will fall;
+c) the plate will remain level
+and not move;
+d) the plate will remain level
+and both pistons will sink a
+similar small distance.
+
+
+<!--fig:start-->
+![[_attachments/2010e/2010e_p2_f3.png]]
+*tubo a U con pistoni A1 e A2*
+<!--fig:end-->
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Fonte:** [[gare di altri paesi/Canada/all/2010e.pdf#page=2|Testo (PDF) — p.2]]
+
+## Problema 6
+
+Question 6
+Two identical glasses, one completely filled with water, and
+the other filled with vodka, are viewed directly from above.
+The refractive index of vodka is slightly greater than the
+refractive index of water. Which glass appears to have a
+greater depth of fluid?
+
+a) the water glass;
+b) the vodka glass;
+c) neither glass because the apparent depth is the same as
+the real depth in both glasses;
+d) neither glass, because the effect of the clear fluid is to
+reduce the apparent depth by the same factor in both
+glasses.
+
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** [[gare di altri paesi/Canada/all/2010e.pdf#page=2|Testo (PDF) — p.2]]
+
+## Problema 7
+
+Question 7
+The drawing shows a crown glass slab of refractive index
+1.5 with a rectangular cross section. As illustrated, a laser
+beam strikes the upper surface at an angle of $60^\circ$. After
+reflecting from the upper surface, the beam reflects
+from the side and bottom surfaces.
+If the glass is surrounded by
+air, determine at which point part
+of the beam first exits the glass.
+
+a) A;
+b) B;
+c) C;
+d) none of the above.
+
+Question 8
+A block of mass $m$ is sandwiched between a rough vertical
+wall and a horizontally
+oriented spring with spring
+constant $k$. If the spring is
+compressed a distance $x$
+beyond its uncompressed
+length, then the minimum
+coefficient of static friction for
+which the block does not fall is
+
+a) $\dfrac{mg}{kx}$;
+b) $\dfrac{kx}{mg}$;
+c) $\dfrac{kx}{mg + kx}$;
+d) $\dfrac{mg}{mg + kx}$.
+
+Question 9
+A light wave has a high enough frequency to ionize an
+atom. If the amplitude of the light wave is tripled, the
+chance of an atom being ionized by the light wave increases
+by a factor of
+
+a) 1;
+b) $\sqrt{3}$;
+c) 3;
+d) 9.
+
+Question 10
+A 100-kg student eats a 200-calorie doughnut. To 'burn off
+the sugar high', he decides to climb the steps of a tall
+building. How high would he have to climb to expend an
+equivalent amount of work? (1 food calorie = $10^3$ calories ~
+4200 J).
+
+a) 273 m;
+b) 428 m;
+c) 857 m;
+d) 8400 m.
+
+Question 11
+In an insulated vessel, 250 g of ice at $0^\circ\text{C}$ is added to 600 g
+of water at $18^\circ\text{C}$. The latent heat of fusion is ~ $3.33\times10^5$
+J/kg. The amount of ice remaining when the system reaches
+thermal equilibrium is
+
+a) 0 g;
+b) 114 g;
+c) 136 g;
+d) 45.2 g.
+
+Question 12
+A liquid will rise in a narrow tube (capillary action) if the
+adhesive forces between the molecules of the liquid and the
+molecules of the tube are greater than the cohesive forces
+between the molecules of the liquid. The height of a column
+of liquid of density $\rho$ drawn up a tube of radius $r$ is given by
+
+$$h = \frac{2\gamma}{\rho g r}\cos\theta$$
+
+where $\theta$ is the contact angle
+between the surface of the liquid
+and the tube, $g$ is the acceleration
+due to gravity, and $\gamma$ is a constant
+that depends on a number of
+parameters. The dimensions of $\gamma$
+are given by
+
+a) $\text{ML}^{-2}$;
+b) $\text{MLT}^{-2}$;
+c) $\text{M}^{-1}\text{LT}^{-2}$;
+d) $\text{MT}^{-2}$;
+e) none of the above.
+
+Question 13
+If the Earth's polar land-based glaciers melted, water would
+be redistributed on the planet, and the depression in the
+earth's crust made by the weight of the ice would rebound,
+as the land rises when the weight of the glaciers is removed
+(an effect known as Post-Glacial Rebound or Glacial
+Isostatic Adjustment). Following post-glacial rebound, the
+length of day would
+
+a) increase;
+b) decrease;
+c) remain the same as the present length of day;
+d) at first increase but then shortly return to the present
+length of day;
+e) at first decrease but then shortly return to the present
+length of day.
+
+Question 14
+Eight identical negative
+charges $-q$ are arranged
+symmetrically on a circle of
+radius $r$, each equidistant
+from the next. Assume the
+point charges have zero
+potential at infinity. If the
+constant of proportionality
+in Coulomb's law is $k$, then
+the magnitude of the electric
+field and the electrostatic
+potential at the centre of the circle are given by
+
+a) $E = \dfrac{8kq}{r^2}$, $V = \dfrac{-8kq}{r}$;
+
+b) $E = \dfrac{8kq}{(2r)^2}$, $V = \dfrac{-8kq}{(2r)}$;
+
+c) $E = \dfrac{8kq}{r^2}$, $V = 0$;
+
+d) $E = 0$, $V = 0$;
+
+e) $E = 0$, $V = \dfrac{-8kq}{r}$.
+
+Question 15
+Three of the negative
+charges in the previous
+questions are replaced with
+positive charges with the
+same magnitude, and are
+arranged as in the figure.
+The magnitude of the
+electric field and the
+electrostatic potential at the centre of the circle are given by
+
+a) $E = \dfrac{2kq}{r^2}\left(1 + 2\sqrt{2}\right)$, $V = 0$;
+
+b) $E = \dfrac{2kq}{r^2}\left(1 + \sqrt{2}\right)$, $V = \dfrac{-2kq}{r}$;
+
+c) $E = \dfrac{2kq}{r^2}\left(1 + 2\sqrt{2}\right)$, $V = \dfrac{-2qk}{r}$;
+
+d) $E = 0$, $V = \dfrac{-2qk}{r}$;
+
+e) None of the above.
+
+Question 16
+An electric dipole consists of
+two small particles. Each has
+mass $m$ but opposite electric
+charge $\pm q$. They are
+separated by a light, nonconducting rod of length $l$.
+The dipole is placed in a
+uniform electric field $\vec{E}$ such that it forms an angle $\theta$ to the
+field, then is released. Its initial angular acceleration about
+its centre of mass is given by
+
+a) $\dfrac{2qE\cos\theta}{ml}$;
+b) $\dfrac{2qE\sin\theta}{ml}$;
+c) $\dfrac{qEl\cos\theta}{m}$;
+d) $\dfrac{qEl\sin\theta}{m}$;
+e) $\dfrac{qE\sin\theta}{ml^2}$.
+
+Question 17
+At time $t = 0$ a block of mass $m$ moves with momentum $p$
+along a rough horizontal surface. If it comes to a complete
+stop in time $t$, then the coefficient of kinetic friction $\mu_k$ is
+given by
+
+a) $\dfrac{p}{mgt}$;
+b) $\dfrac{pg}{mt}$;
+c) $\dfrac{ptg}{m}$;
+d) $\dfrac{pt}{mg}$;
+e) None of the above.
+
+Question 18
+A fish swimming in water with constant velocity $v_0$
+experiences a viscous drag force that is proportional to the
+square of its velocity (i.e. $F_\text{drag} \propto v^2$). If the fish doubles
+its velocity, then the thrust force $F$ that it must generate to
+maintain this new velocity is related to the fish's original
+thrust force $F_0$ via
+
+a) $F = 2F_0$;
+b) $F = \sqrt{2}F_0$;
+c) $F = 4F_0$;
+d) $F = F_0^2$;
+e) None of the above.
+
+Question 19
+A solid object has a hole
+in it. Which of these
+illustrations more
+correctly shows how the
+size of the object and
+the hole change as the
+temperature increases?
+
+a) illustration #1;
+b) illustration #2;
+c) The answer depends on the material of which the object
+is made;
+d) The answer depends on how much the temperature
+increases;
+e) Both c) and d) are correct.
+
+Question 20
+Two gear wheels of the same thickness, but with one twice
+the diameter of the other, are mounted on parallel light axles
+far enough apart not to mesh the teeth of the wheels. The
+larger wheel is spun with angular velocity $\Omega$ and the wheels
+are then moved together so they mesh. What is the
+subsequent angular velocity of the larger wheel?
+
+a) $\dfrac{\Omega}{2}$;
+b) $\dfrac{\Omega}{5}$;
+c) $\dfrac{2\Omega}{5}$;
+d) $\dfrac{4\Omega}{5}$.
+
+Question 21
+For the meshed rotating gears of the previous question, what
+fraction of the original energy is lost?
+
+a) 1/4;
+b) 1/8;
+c) 1/5;
+d) 2/5.
+
+Question 22
+The drawing shows
+a copper wire (of
+negligible
+resistance) bent into
+a circular shape
+with a radius of $r$.
+The radial section
+BC is fixed in
+place, while the
+copper bar AC
+sweeps around at an
+angular speed of $\omega$.
+The bar makes
+electrical contact with
+the wire at all times. The wire and the
+bar have negligible resistance. A uniform magnetic field
+exists everywhere, is perpendicular to the plane of the circle,
+and has a magnitude of $B$. Which of the following shows the
+magnitude of the current as a function of $\theta$?
+
+a)
+b)
+c)
+d)
+
+Part B: Problems
+
+
+<!--fig:start-->
+![[_attachments/2010e/2010e_p3_f5.png]]
+*lastra di crown glass con raggio laser*
+<!--fig:end-->
+
+**Topic:** [[Geometric Optics]], [[Electrostatics]], [[Rotational Dynamics]]
+**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Conservation of Energy (metodo)|Conservation of Energy]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Fonte:** [[gare di altri paesi/Canada/all/2010e.pdf#page=2|Testo (PDF) — p.2]]
+
+## Problema 8
+
+Problem 1
+A double inclined plane is in the form of a wedge of weight
+10 g, held on the ground with its base horizontal and rough
+faces inclined at $30^\circ$ and $45^\circ$ respectively to the horizontal.
+A 5 g particle on the face inclined at $30^\circ$ is connected by a
+mass less, flexible, inextensible string over a smooth mass
+less pulley at the ridge of the wedge to a 7 g particle on the
+other face. If the coefficient of friction between each of the
+particles and the wedge
+is 1/5, find the
+accelerations of the
+particles and the
+magnitude of the
+vertical force between
+the wedge and the
+ground.
+
+
+<!--fig:start-->
+![[_attachments/2010e/2010e_p5_f14.png]]
+*piano doppio inclinato 30 e 45 gradi*
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Fonte:** [[gare di altri paesi/Canada/all/2010e.pdf#page=5|Testo (PDF) — p.5]]
+
+## Problema 9
+
+Problem 2
+Oceanographers have deployed an array of instruments off
+the west coast of Vancouver Island, connected together by
+cables carrying power and communication. The power is
+supplied through a single DC line. The return path is
+through the sea water. The grounds at each end of the line
+are large metal spheres.
+
+Consider two copper spheres, radii $a$, buried in an infinite
+medium of resistivity $\rho$. Current flows out of one sphere and
+is collected by the second sphere. The current flow in
+vicinity of each sphere can be considered radially uniform
+as the distance between the spheres is large compared with
+$a$.
+
+a) By considering the series resistance of many thin
+spherical shells around a sphere show graphically (or by
+direct integration) that much of the resistance between
+the spheres is due to material within a radius $2a$ of each
+sphere and thereby estimate the total resistance between
+the spheres.
+b) If the current flow between the spheres is 1 A, calculate
+the charge in coulombs on each one.
+
+**Topic:** [[Electrostatics]], [[Circuits]]
+**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Electric Potential Method (metodo)|Electric Potential Method]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** [[gare di altri paesi/Canada/all/2010e.pdf#page=5|Testo (PDF) — p.5]]
+
+## Problema 10
+
+Problem 3
+Sir Ernest Rutherford, a very famous New Zealander who
+worked at McGill University in Montreal and the Cavendish
+Laboratory in Cambridge, won the Nobel Prize for his
+studies of the disintegration of nuclei. He established an
+important relationship for a nuclear reaction, in which a
+parent atom disintegrates into a daughter atom, which is
+called the Rutherford – Soddy law of radioactive
+disintegration. This law states that if $N$ is the number of
+radioactive nuclei present at some instant, the number of
+nuclei $\Delta N$ that decay in a time $\Delta t$ is given by:
+
+$$\Delta N = -\lambda N \Delta t$$
+
+where $\lambda$ is called the decay constant. We can integrate this
+expression to get the relationship
+
+$$N(t) = N_0 e^{-\lambda t}$$
+
+where $N_0$ represents the number of radioactive nuclei at time
+$t = 0$.
+
+a) Show that the time taken for $N(t) = N_0/2$ (known as the
+half-life), is given by $T_{1/2} = (\ln 2)/\lambda$.
+
+Potassium-argon (K-Ar) dating is used in earth science to
+determine the age of a rock sample. The potassium isotope
+$^{40}_{19}\text{K}$ is radioactive and decays over time to the argon
+isotope $^{40}_{18}\text{Ar}$. When a rock is molten the argon gas is
+released into the atmosphere but as the rock cools and
+crystallizes, the daughter argon atoms are trapped within the
+rock matrix. Time since crystallization is calculated by
+measuring the ratio of the amount of $^{40}_{18}\text{Ar}$ accumulated to
+the amount of $^{40}_{19}\text{K}$ remaining.
+
+The two possible nuclear reaction for $^{40}_{19}\text{K}$ to change to
+$^{40}_{18}\text{Ar}$ are:
+
+$$^{40}_{19}\text{K} + {}^{0}_{-1}e \to {}^{40}_{18}\text{Ar} + \text{a neutrino}$$
+$$^{40}_{19}\text{K} \to {}^{40}_{18}\text{Ar} + {}^{0}_{+1}e + \text{a neutrino}$$
+
+b) Describe the physical process that is occurring in these
+reactions.
+c) Which of the two is the more likely to occur?
+d) Most of the potassium $^{40}_{19}\text{K}$ (89.1%) decays to $^{40}_{20}\text{Ca}$.
+What is the equation for this reaction?
+
+The *approximate* ratio of the amount of $^{40}_{18}\text{Ar}$ to that of
+$^{40}_{19}\text{K}$ is directly related to the time elapsed since the rock
+was cool enough to trap the argon by the following
+equation:
+
+$$t = \frac{T_{1/2}}{\log_e(2)}\log_e\left(\frac{K_f + \dfrac{Ar_f}{0.109}}{K_f}\right)$$
+
+Where $T_{1/2}$ is the half-life of $^{40}_{19}\text{K}$, $K_f$ is the amount of $^{40}_{19}\text{K}$
+remaining in the sample, and $Ar_f$ is the amount of $^{40}_{18}\text{Ar}$
+found in the sample.
+
+e) If a rock sample has remained undisturbed for 50
+million years and the half-life of $^{40}_{19}\text{K}$ is $1.248\times10^9$
+years, what ratio of Ar/K should be measured in the
+sample?
+
+**Topic:** [[Nuclear & Particle Physics]]
+**Metodi:** [[Radioactive Decay Law (metodo)|Radioactive Decay Law]], [[Differential Equations (metodo)|Differential Equations]], [[Conservation Laws (metodo)|Conservation Laws]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** [[gare di altri paesi/Canada/all/2010e.pdf#page=5|Testo (PDF) — p.5]]
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+<!--fig:start-->
+**p.3** — tubo capillare angolo contatto h e r
+![[_attachments/2010e/2010e_p3_f6.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.3** — blocco compresso tra molla e parete
+![[_attachments/2010e/2010e_p3_f7.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.3** — otto cariche negative su cerchio
+![[_attachments/2010e/2010e_p3_f8.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.3** — cinque cariche negative tre positive su cerchio
+![[_attachments/2010e/2010e_p3_f9.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.4** — dipolo elettrico in campo uniforme
+![[_attachments/2010e/2010e_p4_f10.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.4** — filo circolare con sbarra rotante campo B
+![[_attachments/2010e/2010e_p4_f11.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.4** — quattro grafici corrente vs angolo theta
+![[_attachments/2010e/2010e_p4_f12.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.4** — solido con foro espansione termica illustrazioni
+![[_attachments/2010e/2010e_p4_f13.png]]
+<!--fig:end-->

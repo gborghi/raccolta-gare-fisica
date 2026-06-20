@@ -1,0 +1,1040 @@
+---
+tipo: quesito
+quesito_id: quesito_teo08sol__Q02
+parent: prova_teo08sol
+competition: Olimpiadi Italiane della Fisica
+comp_code: OII
+country: Italia
+year: '2008'
+level: Nazionale
+pdf: Gara individuale/nazionale/teorica/naz2008tpd/teo08sol.pdf
+cluster: Meccanica
+quesito: '2'
+tags:
+  - nazione/italia
+  - tipo-gara/individuale
+  - livello/nazionale
+  - difficolta/4
+  - multidisciplina/mono
+  - topic/thermodynamics
+  - argomento/meccanica
+---
+
+# OII 2008 Nazionale Teorica — Problema 2
+
+Quesito
+n.
+2.
+In
+assenza
+di
+attrito,
+p
+oi
+h
+
+e
+le
+rette
+d'azione
+di
+tutte
+le
+forze
+presen
+ti
+tra
+i
+ ilindri
+e
+tra
+il
+piano
+e
+i
+ ilindri
+in
+terse ano
+gli
+assi
+di
+ ias un
+ ilindro,
+tutti
+i
+momen
+ti
+assiali
+sono
+n
+ulli;
+se
+dunque
+inizialmen
+te
+i
+ ilindri
+sono
+in
+quiete,
+non
+si
+a
+vr
+a
+nessun
+moto
+rotatorio:
+i
+tre
+ ilindri
+traslano
+senza
+rotolare.
+P
+oi
+h
+
+e
+si
+assume
+
+he
+il
+sistema
+a elerato
+non
+ ollassi,
+esso
+si
+m
+uo
+v
+e
+rigidamen
+te
+e
+dunque,
+p
+er
+il
+se ondo
+prin ipio,
+l'a elerazione
+a
+pu
+o
+essere
+subito
+determinata
+essendo
+F
+=
+3M
+a.
+Si
+ onsiderano
+p
+oi
+le
+equazioni
+di
+moto,
+separatamen
+te
+p
+er
+ ias un
+ ilindro
+(p
+er
+i
+sim
+b
+oli
+fare
+riferimen
+to
+ai
+relativi
+diagrammi
+di
+ orp
+o
+lib
+ero),
+ ome
+segue.
+Risp
+etto
+al
+ aso
+stati o
+studiato
+prima,
+il
+sistema
+di
+forze
+non
+
+e
+pi
+
+u
+simmetri o:
+adesso
+le
+reazioni
+vin olari
+non
+hanno
+lo
+stesso
+mo
+dulo,
+men
+tre,
+p
+er
+il
+prin ipio
+di
+azione
+e
+reazione,
+resta
+v
+ero
+
+he
+N
+1
+=
+N
+0
+1
+,
+N
+2
+=
+N
+0
+2
+,
+N
+3
+=
+N
+0
+3
+.
+P
+er
+il
+ ilindro
+n.
+1
+8
+>
+>
+<
+>
+>
+:
+F
+ N
+3
+ 1
+2
+N
+1
+=
+M
+a
+N
+4
+ P
+ p
+3
+2
+N
+1
+=
+0
+P
+er
+il
+ ilindro
+n.
+2
+8
+>
+>
+<
+>
+>
+:
+N
+0
+3
++
+1
+2
+N
+2
+=
+M
+a
+N
+5
+ P
+ p
+3
+2
+N
+2
+=
+0
+P
+er
+il
+ ilindro
+n.
+3
+8
+>
+>
+<
+>
+>
+:
+1
+2
+N
+0
+1
+ 1
+2
+N
+0
+2
+=
+M
+a
+p
+3
+2
+N
+0
+2
++
+p
+3
+2
+N
+0
+1
+ P
+=
+0
+P
+ag.
+2
+AIF
+{
+Olimpiadi
+di
+Fisi a
+Ga
+ra
+Nazionale:
+SOLUZIONE
+della
+Prova
+T
+eo
+ri a
+{
+Senigallia
+{
+18
+Ap
+rile
+2008
+L'insieme
+delle
+6
+equazioni
+ ostituis ono
+un
+sistema
+nelle
+in ognite
+N
+1;:::
+;5
+ed
+a.
+Quest'ultima,
+an-
+
+he
+senza
+la
+ onsiderazione
+fatta
+sopra,
+si
+sarebb
+e
+p
+otuta
+tro
+v
+are
+sommando
+mem
+bro
+a
+mem
+bro
+le
+tre
+equazioni
+relativ
+e
+alle
+ omp
+onen
+ti
+orizzon
+tali
+del
+moto
+(le
+prime
+di
+ogni
+ oppia),
+p
+er
+ ui
+si
+pu
+o
+sostituire
+M
+a
+=
+F
+=3
+Il
+sistema
+di
+forze
+sul
+ ilindro
+n.
+3
+ onsen
+te
+di
+ri a
+v
+are
+N
+1
+e
+N
+2
+.
+Risolv
+endo
+il
+sistema,
+infatti,
+si
+tro
+v
+a
+N
+1
+=
+P
+p
+3
++
+F
+3
+N
+2
+=
+P
+p
+3
+ F
+3
+Una
+prima
+ ondizione
+su
+F
+si
+ottiene
+allora
+osserv
+ando
+
+he
+il
+sistema
+non
+ ollassa
+se
+risulta
+N
+2
+>
+0.
+Da
+qui
+si
+ri a
+v
+a
+F
+<
+p
+3P
+.
+La
+se onda
+ ondizione
+su
+F
+si
+ottiene
+dalle
+equazioni
+del
+moto
+di
+uno
+degli
+altri
+due
+ ilindri.
+In
+parti olare,
+dall'equazione
+della
+ omp
+onen
+te
+orizzon
+tale
+del
+moto
+del
+ ilindro
+n.
+2,
+si
+ri a
+v
+a
+N
+3
+=
+F
+3
+ N
+2
+2
+=
+F
+2
+ P
+2
+p
+3
+An
+he
+in
+questo
+ aso
+dev
+e
+essere
+N
+3
+>
+0.
+Da
+qui
+si
+ri a
+v
+a
+F
+>
+P
+p
+3
+.
+In
+ on lusione,
+il
+sistema
+non
+ ollassa
+se
+viene
+a elerato
+nel
+mo
+do
+des ritto
+da
+una
+forza
+F
+tale
+
+he
+M
+g
+p
+3
+<
+F
+<
+p
+3
+M
+g
+:
+PROBLEMA
+n.
+2
+{
+T
+ri- i lo:
+:
+:
+termo
+dinami o
+35
+Pun
+ti
+Il
+rendimen
+to
+
+di
+una
+ma
+hina
+termi a
+
+e
+dato
+dal
+rapp
+orto
+tra
+il
+la
+v
+oro
+netto
+s am
+biato
+nel
+ i lo
+e
+il
+ alore
+assorbito.
+Il
+la
+v
+oro
+si
+ al ola
+ ome
+segue.
+Nell'isoterma
+quasi
+stati a
+1{2,
+essendo
+V
+2
+=
+2V
+1
+,
+il
+la
+v
+oro
+
+e
+dato
+da:
+L
+12
+=
+Z
+V
+2
+V
+1
+p(V
+)
+dV
+=
+Z
+V
+2
+V
+1
+n
+R
+T
+V
+dV
+=
+n
+R
+T
+ln
+
+V
+2
+V
+1
+
+=
+p
+1
+V
+1
+ln
+2
+Nel
+ra
+reddamen
+to
+isobaro
+quasi
+stati o
+2{3,
+tenendo
+ on
+to
+del
+fatto
+
+he
+p
+2
+=
+p
+1
+=2
+e
+V
+3
+=
+V
+1
+,
+il
+la
+v
+oro
+
+e:
+L
+23
+=
+Z
+V
+3
+V
+2
+p
+2
+dV
+=
+p
+2
+(V
+3
+ V
+2
+)
+=
+ 1
+2
+p
+1
+V
+1
+In
+ne,
+nell'iso
+ ora
+2{3,
+il
+la
+v
+oro
+
+e
+n
+ullo.
+Il
+la
+v
+oro
+netto
+del
+ i lo
+risulta
+quindi:
+L
+ i lo
+=
+p
+1
+V
+1
+
+ln
+2
+ 1
+2
+
+Si
+ al ola
+ora
+il
+ alore
+assorbito
+nel
+ i lo:
+il
+sistema
+assorb
+e
+ alore
+nell'espansione
+isoterma
+1{2
+e
+nel
+ris aldamen
+to
+iso
+ oro
+3{1.
+Nell'espansione
+isoterma,
+p
+oi
+h
+
+e
+l'energia
+in
+terna
+di
+un
+gas
+p
+erfetto
+dip
+ende
+solo
+dalla
+temp
+eratura,
+ U
+=
+0,
+e
+dunque
+Q
+12
+=
+L
+12
+:
+Nel
+ris aldamen
+to
+iso
+ oro,
+L
+=
+0,
+e
+dunque
+Q
+=
+ U
+=
+n
+V
+ T
+:
+P
+oi
+h
+
+e
+il
+gas
+
+e
+monoatomi o,
+
+V
+=
+(3=2)R
+e
+risulta
+Q
+31
+=
+3
+2
+n
+R
+ T
+P
+ag.
+3
+AIF
+{
+Olimpiadi
+di
+Fisi a
+Ga
+ra
+Nazionale:
+SOLUZIONE
+della
+Prova
+T
+eo
+ri a
+{
+Senigallia
+{
+18
+Ap
+rile
+2008
+Dall'equazione
+di
+stato
+dei
+gas
+p
+erfetti,
+tenendo
+ on
+to
+
+he
+il
+v
+olume
+non
+v
+aria,
+si
+ha
+V
+ p
+=
+n
+R
+ T
+e
+dunque
+Q
+31
+=
+3
+2
+V
+1
+ p
+=
+3
+4
+V
+1
+p
+1
+In
+de
+nitiv
+a:
+Q
+ass
+=
+Q
+12
++
+Q
+31
+=
+p
+1
+V
+1
+
+ln
+2
++
+3
+4
+
+In
+ne
+il
+rendimen
+to
+risulta:
+
+=
+L
+ i lo
+Q
+ass
+=
+ln
+2
+ 1=2
+ln
+2
++
+3=4
+=
+0:134
+
+13:4
+%
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Calculus-Integration (metodo)|Calculus-Integration]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Fonte:** Testo (PDF) — p.2
+**Soluzione:** Soluzioni (PDF)

@@ -1,0 +1,126 @@
+---
+tipo: prova
+prova_id: prova_DR_2025
+competition: Giochi di Anacleto
+comp_code: Anacleto
+country: Italia
+year: 2025
+level: Nazionale
+pdf: Anacleto/teoria/DR_2025.pdf
+cluster: Meccanica
+n_problemi: 2
+tags:
+- kg/prova
+- anno/2025
+- paese/Italia
+- comp/Anacleto
+- cluster/Meccanica
+---
+
+# Anacleto 2025 Nazionale Quiz — DR_2025.pdf
+
+**Fonte:** `Anacleto/teoria/DR_2025.pdf` · [[Anacleto/teoria/DR_2025.pdf#page=2|Apri PDF]] · [apri PDF p.2](file:///E%3A/giovanni/Dropbox/insegnamento/Wiligelmo/OlimpiadiFisica/raccolte%20gare%20di%20Fisica/Anacleto/teoria/DR_2025.pdf#page=2)
+**Cluster:** [[Meccanica]]
+
+## Problema 1
+
+
+
+
+
+
+
+
+**Questionario Domande e Risposte (quesiti 1-27)**
+
+Questionario a risposta multipla dei *Giochi di Anacleto 2025 — Domande & Risposte* (27 quesiti a risposta chiusa, una sola corretta tra A, B, C, D).
+
+**Quesito 1.** Misurando la profondità di un pozzo un geologo ottiene $56{,}54$ m e ripetendo quattro volte ottiene sempre lo stesso valore. Può concludere che: A. il pozzo è profondo esattamente $56{,}54$ m · B. lo strumento non è abbastanza sensibile per rilevare differenze · C. non si sono verificati errori casuali · D. la misura non presenta incertezza
+
+**Quesito 2.** Per raggiungere una località a Est (direzione $90^\circ$) un aereo viaggia a $200$ km/h; un vento di traverso da nord a sud (direzione $180^\circ$) a $30$ km/h. Quale rotta deve impostare il pilota? A. $45^\circ$ · B. $81{,}5^\circ$ · C. $98{,}5^\circ$ · D. $135^\circ$
+
+**Quesito 3.** Due atomi si dicono isotopi se: A. stesso numero di protoni e neutroni · B. stesso numero di neutroni ma non di protoni · C. stesso numero di protoni ma non di neutroni · D. stesso numero di elettroni ma non di protoni
+
+**Quesito 4.** Quante volte si può piegare un foglio $300\times200$ mm di spessore $0{,}1$ mm (piegabile se il rapporto larghezza/spessore non è inferiore a una certa soglia; a ogni piega la larghezza si dimezza e lo spessore raddoppia)? A. 3 · B. 5 · C. 7 · D. 12
+
+**Quesito 5.** Grafico velocità-tempo di due corridori. All'istante $t$ cosa si deduce? A. stessa velocità · B. corridore 1 non accelera · C. corridore 1 sta sorpassando il 2 · D. corridore 2 sta rallentando *[Figura: grafico velocità vs tempo, due curve che si incrociano]*
+
+**Quesito 6.** Esperimento di caduta da una torre per provare la rotazione terrestre (Terra vista dal polo, rotazione antioraria). Dove tocca terra l'oggetto? *[Figura: cerchio = Terra dal polo P, verticale tratteggiata, punti A, B, C, D]*
+
+**Quesito 7.** Impulso laser Terra-Luna riflesso da uno specchietto, ricevuto dopo $2{,}500$ s. Distanza Terra-Luna? (raggio Terra $6{,}373\cdot10^3$ km, raggio Luna $1{,}738\cdot10^3$ km, $c=2{,}998\cdot10^5$ km/s) A. 384400 km · B. 374800 km · C. 749500 km · D. 382900 km
+
+**Quesito 8.** Diagrammi del moto di due corpi 1 e 2. Quale affermazione è corretta? A. stessa velocità · B. stessa distanza percorsa · C. stessa posizione finale · D. tutte false *[Figura: due grafici del moto]*
+
+**Quesito 9.** Pendolo semplice (massa $m$, filo di lunghezza $\ell$, piccole oscillazioni). Da cosa dipende il periodo? A. solo massa e lunghezza · B. solo massa e $g$ · C. solo $g$ e lunghezza · D. massa, $g$ e lunghezza
+
+**Quesito 10.** Una scatola su piano orizzontale (forza normale $N$) non si muove sotto una forza orizzontale; raddoppiando la forza resta ferma. Quale relazione per l'attrito $F_a$ con la forza iniziale (coefficiente $\mu_s$)? A. $F_a=0$ · B. $F_a=\mu_s N$ · C. $F_a > \mu_s N$ · D. $F_a < \mu_s N$
+
+**Quesito 11.** Uno studente spinge col pollice una puntina su una lavagna; entra nella lavagna ma non nel pollice. Come si spiega? A. forza solo sulla lavagna · B. forza minore sul pollice · C. pressione del pollice... · D. la pressione della puntina sul pollice è minore di quella sulla lavagna
+
+**Quesito 12.** Un pallone A (elio, forza verso l'alto) e una massa M su una sbarra incernierata in P. Quale spostamento provoca una rotazione oraria? A. pallone a 40 cm, massa a 30 cm · B. pallone a 20, massa a 10 · C. pallone a 25, massa a 25 · D. pallone a 20, massa a 30 *[Figura: sbarra con pallone A e massa M, perno P]*
+
+**Quesito 13.** Calvino (Cosmicomiche): un tempo la Luna era più vicina alla Terra. Perché? A. l'attrito delle maree dissipa energia e allontana il sistema per conservare il momento angolare · B. impatto con meteorite · C. fantasia letteraria · D. la Luna si sta in realtà avvicinando
+
+**Quesito 14.** Un furgone pesa $2{,}22\cdot10^4$ N e si muove a $50{,}0$ km/h. Ordine di grandezza dell'energia cinetica? A. $10^5$ J · B. $10^6$ J · C. $10^7$ J · D. Altro
+
+**Quesito 15.** Tre palle identiche lanciate dalla cima di una scogliera con velocità iniziale $v$: A verso l'alto, B verso il basso, C orizzontalmente. Relazione tra le velocità d'impatto $v_A, v_B, v_C$? (attrito trascurabile) A. $v_A>v_B>v_C$ · B. $v_B>v_C>v_A$ · C. $v_A=v_B=v_C$ · D. $v_A=v_B>v_C$
+
+**Quesito 16.** Due masse $M_1>M_2$ con stessa energia cinetica. Quantità di moto $p_1, p_2$? A. $p_1=p_2$ · B. $p_1>p_2$ · C. $p_1<p_2$ · D. non determinabile
+
+**Quesito 17.** Un Boeing 737 atterra a $240$ km/h ($66{,}7$ m/s), massa $82{,}0$ t, e percorre $2200$ m prima di fermarsi. Intensità della forza (costante)? A. $1{,}82\cdot10^8$ N · B. $82{,}9$ N · C. $8{,}29\cdot10^4$ N · D. $4{,}01\cdot10^{11}$ N
+
+**Quesito 18.** Due oggetti P e Q in un vaso con liquido: P galleggia, Q affonda. Quale combinazione di densità (P, Q, liquido) è compatibile? *[tabella con 4 righe A-D di valori in $\text{g/cm}^3$]*
+
+**Quesito 19.** Dilatazione lineare di tre sbarre I, II, III ($L=L_0+L_0\alpha\,t$). Quale relazione tra i coefficienti $\alpha$? A. $\alpha_I=\alpha_{II}$ · B. $\alpha_I=\alpha_{III}$ · C. $\alpha_I>\alpha_{II}$ · D. $\alpha_I>\alpha_{III}$ *[Figura: grafico L vs Δt per tre sbarre]*
+
+**Quesito 20.** Due cambiamenti di stato descritti: (1) le particelle non vibrano più attorno a posizioni fisse e occupano tutto lo spazio; (2) le particelle si avvicinano ma continuano a muoversi in tutta la sostanza. Quali passaggi di stato? A. sublimazione/condensazione · B. fusione/vaporizzazione · C. fusione/solidificazione · D. condensazione/vaporizzazione
+
+**Quesito 21.** Spazio tra due superfici (sopra fredda $T_1$, sotto calda $T_2$) riempito con aria, ferro, acqua o vuoto. In quale caso il trasferimento di energia termica è più veloce? A. aria · B. acqua · C. ferro · D. vuoto *[Figura: due superfici a temperatura diversa]*
+
+**Quesito 22.** Molecole di un gas in un contenitore sigillato a volume costante, scaldato: (I) le molecole si allontanano; (II) si muovono più velocemente. Quali vere? A. solo I · B. solo II · C. entrambe · D. nessuna *[Figura: molecole di gas]*
+
+**Quesito 23.** Un raggio di luce verso uno specchio angolare; il raggio incidente forma $\beta=22^\circ$ con uno specchio. Angolo $\delta$ da cui emerge? A. $22^\circ$ · B. $68^\circ$ · C. $44^\circ$ · D. nessuno dei precedenti *[Figura: specchio angolare, raggio incidente e riflesso]*
+
+**Quesito 24.** Affermazione corretta sulla radiazione elettromagnetica: A. infrarosso per analizzare le ossa · B. microonde nelle telecomunicazioni · C. visione notturna con ultravioletto · D. immagini termiche con raggi X
+
+**Quesito 25.** Diagramma di un'onda sonora nel tempo. Affermazione corretta sulla percezione? A. sempre più grave · B. sempre più acuto · C. sempre più debole · D. nessuna differenza *[Figura: pressione sonora vs tempo, ampiezza decrescente]*
+
+**Quesito 26.** Tre palline cariche ai vertici di un triangolo equilatero. Direzione della forza sulla pallina $Q_3=-10\ \mu$C? A. nulla · B. verso l'alto · C. verso il basso · D. non determinabile *[Figura: triangolo equilatero con $Q_1, Q_2, Q_3$]*
+
+**Quesito 27.** (Comprensione testo) Missione Hera (ESA, flyby di Marte, difesa planetaria, Didymos/Dimorphos). Qual è il principale scopo? A. proteggere la Terra dagli impatti asteroidali · B. studiare Deimos per missioni umane · C. accorciare i viaggi e risparmiare carburante · D. capire come si formano le lune
+
+**Topic:** [[Newtonian Mechanics]], [[Thermodynamics]], [[Electrostatics]]
+**Metodi:** [[Vector Decomposition (metodo)|Vector Decomposition]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Unit Conversion (competenza)|Unit Conversion]]
+**Fonte:** [[Anacleto/teoria/DR_2025.pdf#page=2|Testo (PDF) — p.2]]
+
+## Problema 2
+
+
+
+
+
+
+
+
+**Il proiettore per diapositive — costruzione ottica (problema 1x3)**
+
+Quesito a risposta aperta (Quesito uno X tre, $12$ punti).
+
+Il proiettore per diapositive proietta immagini su uno schermo. La diapositiva ("oggetto") è illuminata da dietro; la luce attraversa una lente convergente e raggiunge lo schermo. L'immagine è reale e capovolta. Lo schema ottico (unità arbitrarie) mostra l'oggetto (con base sull'asse ottico), la lente convergente con centro O, l'asse ottico, e i due fuochi $F_1$ (lato oggetto) ed $F_2$ (lato immagine). *[Figura: schema con asse ottico orizzontale, lente in O, fuochi $F_1$ a $x=-2$ e $F_2$ a $x=+2$; vari oggetti $A_1, B_1, C_1, D_1, E_1$ a coordinate $-3, -4, -5, -6, -6.5$ con i raggi tracciati e le immagini $A_2, B_2,\dots$ dal lato opposto]*
+
+Promemoria: i raggi da uno stesso punto convergono in un punto dopo la lente; il raggio per il centro O non viene deviato; i raggi paralleli all'asse passano per il fuoco; distanza focale $f=OF$.
+
+**a)** A quale distanza da O deve porsi l'oggetto perché l'immagine si formi in una certa posizione (leggere dal grafico)?
+**b)**, **c)** Analoghe, per altre posizioni dell'immagine.
+**d)** Disegna l'immagine se l'oggetto è in posizione $x=-3{,}5$ unità.
+**e)** Se lo schermo è a $5{,}4$ unità dalla lente, dove va posto l'oggetto?
+**f)** Spiega perché, se l'oggetto è posto sul fuoco $F_1$, non si forma immagine nitida per nessuna posizione dello schermo.
+**g)** Compila la tabella con $\overline{OA_1}$ (oggetto-lente), $\overline{OA_2}$ (immagine-lente) e il rapporto $\overline{OA_2}/\overline{OA_1}$. A cosa corrispondono questi rapporti?
+**h)** Compila la tabella con $\overline{F_1A_1}$ (oggetto-fuoco) e $\overline{F_2A_2}$ (immagine-fuoco). Quale relazione tra le due distanze?
+**i)** Se l'oggetto è a $20$ unità dalla lente, dove va posto lo schermo e quanto è grande l'immagine?
+
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Fonte:** [[Anacleto/teoria/DR_2025.pdf#page=10|Testo (PDF) — p.10]]

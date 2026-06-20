@@ -1,0 +1,35 @@
+---
+tipo: quesito
+quesito_id: quesito_FoglioQuad-2liv21__Q07
+parent: prova_FoglioQuad-2liv21
+competition: Olimpiadi Italiane della Fisica
+comp_code: OII
+country: Italia
+year: '2021'
+level: 2° Livello
+pdf: Gara individuale/2livello/2021/FoglioQuad-2liv21.pdf
+cluster: ''
+quesito: '7'
+tags:
+  - nazione/italia
+  - tipo-gara/individuale
+  - livello/2-livello
+  - difficolta/3
+  - multidisciplina/bi
+  - topic/magnetism
+  - topic/electromagnetism
+---
+
+# OII 2021 2° Livello — Problema 7
+
+Un solenoide formato da 240 spire, affiancate una all'altra, è lungo 20 cm ed è percorso da una corrente di 2.2 A; in un caso reale come questo anche la superficie laterale su cui è avvolto il solenoide è attraversata da linee di campo.
+
+La circuitazione del campo magnetico lungo una particolare linea di campo vale $5.3 \times 10^{-4}$ T·m.
+
+- A che distanza dalle estremità la linea di campo considerata interseca la superficie laterale del solenoide?
+
+**Topic:** [[Magnetism]], [[Electromagnetism]]
+**Metodi:** [[Ampère's Law (metodo)|Ampère's Law]], [[Symmetry Argument (metodo)|Symmetry Argument]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Fonte:** Testo (PDF) — p.3
+**Soluzione:** Soluzioni (PDF)

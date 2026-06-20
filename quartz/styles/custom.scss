@@ -1,3 +1,101 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// ─── Cheerful palette à la the Canva reference: warm cream + cobalt + orange/teal/yellow pops ───
+:root {
+  --accent-orange: #f0852a;
+  --accent-yellow: #f5c84b;
+  --accent-teal: #1fa6a0;
+  --navbar-bg: linear-gradient(100deg, #1f3bd1 0%, #4127b8 100%);
+  --navbar-fg: #fff6ec;
+  --radius: 12px;
+}
+[saved-theme="dark"] {
+  --navbar-bg: linear-gradient(100deg, #233aa6 0%, #3a2596 100%);
+  --navbar-fg: #fff6ec;
+}
+
+body { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+
+// ─── Headings: characterful Fraunces, generous, with a touch of optical weight ───
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--titleFont);
+  font-weight: 700;
+  letter-spacing: -0.015em;
+}
+h1 { font-weight: 800; }
+article h1:first-of-type { font-size: 2.5rem; line-height: 1.1; }
+
+// Homepage hero feel: accent rule under the first heading
+.center > article > h1:first-of-type {
+  border-bottom: 4px solid var(--accent-orange);
+  padding-bottom: 0.3rem; display: inline-block;
+}
+
+// ─── Links: cobalt, with a cheerful orange underline that grows on hover ───
+a {
+  color: var(--secondary);
+  text-decoration: none;
+  background-image: linear-gradient(var(--accent-orange), var(--accent-orange));
+  background-size: 0% 2px; background-position: 0 100%; background-repeat: no-repeat;
+  transition: background-size 0.2s ease, color 0.15s ease;
+}
+a:hover { color: var(--tertiary); background-size: 100% 2px; }
+a.internal {
+  background: var(--highlight); border-radius: 5px; padding: 0 0.18em;
+  background-image: none;
+}
+a.internal:hover { color: var(--tertiary); }
+
+// ─── Figures / images: soft rounded card ───
+article img {
+  border-radius: var(--radius);
+  border: 1px solid var(--lightgray);
+  background: #fff;
+  padding: 6px;
+  box-shadow: 0 2px 10px rgba(25, 26, 46, 0.06);
+}
+
+// ─── Generic + quesiti/cerca tables ───
+table.qtable-table, .cerca-results table.qtable-table {
+  border-radius: var(--radius); overflow: hidden;
+  box-shadow: 0 2px 12px rgba(25, 26, 46, 0.06);
+  border: 1px solid var(--lightgray);
+}
+table.qtable-table thead th, .cerca-results thead th {
+  background: var(--highlight);
+  font-family: var(--titleFont); font-weight: 700;
+  border-bottom: 2px solid var(--accent-orange) !important;
+}
+table.qtable-table tbody tr:nth-child(even) td { background: rgba(240, 133, 42, 0.045); }
+table.qtable-table tr:hover td, .cerca-results tr:hover td { background: var(--highlight) !important; }
+
+.qtable-search {
+  border-radius: 999px !important; border: 1.5px solid var(--lightgray) !important;
+}
+.qtable-search:focus { border-color: var(--secondary) !important; outline: none; }
+
+// ─── /cerca: faceted search as cheerful cards + pill chips ───
+.cerca-toggle {
+  background: var(--accent-teal) !important; border: none !important; color: #fff !important;
+  border-radius: 999px !important; font-family: var(--titleFont); font-weight: 700;
+}
+details.cerca-facet {
+  border: 1px solid var(--lightgray) !important; border-radius: var(--radius) !important;
+  background: var(--light);
+}
+details.cerca-facet > summary { font-family: var(--titleFont); }
+.cerca-chip {
+  border: 1.4px solid var(--lightgray) !important; border-radius: 999px !important;
+  transition: all 0.15s ease;
+}
+.cerca-chip:hover { border-color: var(--accent-orange) !important; }
+.cerca-chip.active {
+  background: var(--secondary) !important; color: #fff !important; border-color: var(--secondary) !important;
+}
+.cerca-chip .cerca-n { color: var(--accent-orange); font-weight: 700; }
+.cerca-chip.active .cerca-n { color: var(--accent-yellow); }
+.cerca-count strong { color: var(--secondary); font-size: 1.1em; }
+
+.page-title { font-weight: 800; }
+blockquote { border-left: 3px solid var(--accent-teal); }
+.graph .graph-outer, .explorer { border-radius: var(--radius); }

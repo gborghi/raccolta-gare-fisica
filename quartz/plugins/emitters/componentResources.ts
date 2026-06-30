@@ -5,10 +5,15 @@ import { QuartzEmitterPlugin } from "../types"
 import spaRouterScript from "../../components/scripts/spa.inline"
 // @ts-ignore
 import popoverScript from "../../components/scripts/popover.inline"
+// @ts-ignore  ported v4 custom: /cerca facet search (mounts into #cerca on the cerca page)
+import cercaScript from "../../components/scripts/cerca.inline"
+// @ts-ignore  ported v4 custom: client-side pagination for long folder/tag listings
+import pagedListScript from "../../components/scripts/pagedList.inline"
 import styles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
 import { BuildCtx } from "../../util/ctx"
 import { QuartzComponent } from "../../components/types"
+import { componentRegistry } from "../../components/registry"
 import {
   googleFontHref,
   googleFontSubsetHref,
@@ -27,11 +32,16 @@ type ComponentResources = {
 
 function getComponentResources(ctx: BuildCtx): ComponentResources {
   const allComponents: Set<QuartzComponent> = new Set()
+
   for (const emitter of ctx.cfg.plugins.emitters) {
     const components = emitter.getQuartzComponents?.(ctx) ?? []
     for (const component of components) {
       allComponents.add(component)
     }
+  }
+
+  for (const component of componentRegistry.getAllComponents()) {
+    allComponents.add(component)
   }
 
   const componentResources = {
@@ -241,7 +251,30 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
       vercelInsightsScript.defer = true
       document.head.appendChild(vercelInsightsScript)
     `)
+  } else if (cfg.analytics?.provider === "rybbit") {
+    componentResources.afterDOMLoaded.push(`
+      const rybbitScript = document.createElement("script");
+      rybbitScript.src = "${cfg.analytics.host ?? "https://app.rybbit.io"}/api/script.js";
+      rybbitScript.setAttribute("data-site-id", "${cfg.analytics.siteId}");
+      rybbitScript.async = true;
+      rybbitScript.defer = true;
+
+      document.head.appendChild(rybbitScript);
+    `)
   }
+
+  // ported v4 custom client scripts — pushed BEFORE the SPA router so their
+  // "nav" listeners register before the first nav dispatch.
+  componentResources.afterDOMLoaded.push(cercaScript)
+  componentResources.afterDOMLoaded.push(pagedListScript)
+  // per-site i18n: rename the graph panel title "Vista grafico" -> "Vista grafo"
+  componentResources.afterDOMLoaded.push(`
+    document.addEventListener("nav", () => {
+      document.querySelectorAll(".graph > h3, .graph .graph-title").forEach((el) => {
+        if (el.textContent && el.textContent.trim() === "Vista grafico") el.textContent = "Vista grafo"
+      })
+    })
+  `)
 
   if (cfg.enableSPA) {
     componentResources.afterDOMLoaded.push(spaRouterScript)

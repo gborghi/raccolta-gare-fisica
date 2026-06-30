@@ -5,6 +5,8 @@
 
 interface Q {
   href: string
+  flag: string
+  flag_name: string
   competition: string
   comp_code: string
   quesito: number | string
@@ -13,6 +15,7 @@ interface Q {
   topics: string[]
   methods: string[]
   skills: string[]
+  objects: string[]
   cluster: string[]
   level: string
   difficolta: string
@@ -39,9 +42,17 @@ const FACETS: Facet[] = [
   { key: "topics", label: "Argomento", multi: true },
   { key: "methods", label: "Metodo", multi: true, strip: " (metodo)" },
   { key: "skills", label: "Abilità", multi: true, strip: " (competenza)" },
+  { key: "objects", label: "Objects", multi: true, strip: " (object)" },
 ]
 
-const MAX_ROWS = 1000
+const PER_PAGE_OPTS = [25, 50, 100, 250, 0] // 0 = Tutti
+const RES_LS_KEY = "rgf-cerca-perpage"
+function getResPerPage(): number {
+  const raw = localStorage.getItem(RES_LS_KEY)
+  if (raw == null) return 50
+  const v = Number(raw)
+  return PER_PAGE_OPTS.includes(v) ? v : 50
+}
 
 function esc(s: unknown): string {
   return String(s).replace(/[&<>"]/g, (c) =>
@@ -69,7 +80,9 @@ async function init() {
   }
 
   const selected = new Set<string>()
-  let mode: "AND" | "OR" = "AND"
+  // "OR"  = QUALSIASI: OR within a facet group, AND across different groups.
+  // "AND" = TUTTI:     every selected tag must match (AND across all tags).
+  let mode: "AND" | "OR" = "OR"
 
   const facetValues: { facet: Facet; values: [string, number][] }[] = FACETS.map((facet) => {
     const counts = new Map<string, number>()
@@ -94,7 +107,19 @@ async function init() {
       return String(q[facet.key]) === val
     }
     const tokens = [...selected]
-    return mode === "AND" ? tokens.every(test) : tokens.some(test)
+    if (mode === "AND") return tokens.every(test) // TUTTI: every tag must match
+    // QUALSIASI: OR within each facet group, AND across groups.
+    const byGroup = new Map<string, string[]>()
+    for (const token of tokens) {
+      const key = token.split("::")[0]
+      const arr = byGroup.get(key)
+      if (arr) arr.push(token)
+      else byGroup.set(key, [token])
+    }
+    for (const group of byGroup.values()) {
+      if (!group.some(test)) return false
+    }
+    return true
   }
 
   const controls = document.createElement("div")
@@ -103,14 +128,67 @@ async function init() {
   facetsBox.className = "cerca-facets"
   const selectedBar = document.createElement("div")
   selectedBar.className = "cerca-selected"
+
+  let textQuery = ""
+  let resPerPage = getResPerPage()
+  let resPage = 0
+
+  // text-search + per-page controls (shown once tags are selected) — same UX as
+  // the per-page lists on concept pages (reuses .paged-* styles).
+  const searchBar = document.createElement("div")
+  searchBar.className = "cerca-searchbar"
+  const textSearch = document.createElement("input")
+  textSearch.type = "search"
+  textSearch.className = "paged-search"
+  textSearch.placeholder = "Cerca tra i risultati…"
+  textSearch.setAttribute("aria-label", "Cerca tra i risultati")
+  const ctrlRow = document.createElement("div")
+  ctrlRow.className = "paged-controls"
+  const countEl = document.createElement("span")
+  countEl.className = "paged-count"
+  const perSel = document.createElement("select")
+  perSel.className = "paged-perpage"
+  for (const n of PER_PAGE_OPTS) {
+    const o = document.createElement("option")
+    o.value = String(n)
+    o.textContent = n === 0 ? "Tutti" : String(n)
+    if (n === resPerPage) o.selected = true
+    perSel.appendChild(o)
+  }
+  const perLbl = document.createElement("label")
+  perLbl.className = "paged-perpage-label"
+  perLbl.append("mostra ", perSel, " per pagina")
+  ctrlRow.append(countEl, perLbl)
+  searchBar.append(textSearch, ctrlRow)
   const resultsBox = document.createElement("div")
   resultsBox.className = "cerca-results"
-  root.replaceChildren(controls, facetsBox, selectedBar, resultsBox)
+  const pager = document.createElement("nav")
+  pager.className = "paged-pager"
+  root.replaceChildren(controls, facetsBox, selectedBar, searchBar, resultsBox, pager)
+
+  let debounce: ReturnType<typeof setTimeout>
+  textSearch.addEventListener("input", () => {
+    clearTimeout(debounce)
+    debounce = setTimeout(() => {
+      textQuery = textSearch.value.trim().toLowerCase()
+      resPage = 0
+      render()
+    }, 120)
+  })
+  perSel.addEventListener("change", () => {
+    resPerPage = Number(perSel.value)
+    localStorage.setItem(RES_LS_KEY, String(resPerPage))
+    resPage = 0
+    render()
+  })
 
   const toggle = document.createElement("button")
   toggle.className = "cerca-toggle"
   function syncToggle() {
-    toggle.textContent = mode === "AND" ? "Corrispondenza: TUTTI i tag" : "Corrispondenza: QUALSIASI tag"
+    toggle.textContent =
+      mode === "AND"
+        ? "Corrispondenza: TUTTI i tag (AND)"
+        : "Corrispondenza: QUALSIASI (OR nel gruppo, AND tra gruppi)"
   }
   toggle.addEventListener("click", () => {
     mode = mode === "AND" ? "OR" : "AND"
@@ -148,25 +226,43 @@ async function init() {
 
   let sortKey: keyof Q = "competition"
   let sortDir = 1
-  function renderResults() {
-    if (selected.size === 0) {
-      resultsBox.innerHTML = `<p class="cerca-hint">Seleziona dei tag qui sopra per vedere i quesiti.</p>`
-      return
-    }
+
+  function matchedRows(): Q[] {
     let rows = data.filter(matches)
+    if (textQuery) {
+      rows = rows.filter((r) =>
+        (String(r.summary || "") + " " + String(r.competition || "") + " " + String(r.comp_code || "") + " " + String(r.quesito || "")).toLowerCase().includes(textQuery),
+      )
+    }
     rows.sort((a, b) => {
       let av: any = a[sortKey], bv: any = b[sortKey]
-      if (sortKey === "quesito" || sortKey === "year") {
-        av = Number(av)
-        bv = Number(bv)
-      }
+      if (sortKey === "quesito" || sortKey === "year") { av = Number(av); bv = Number(bv) }
       if (av < bv) return -sortDir
       if (av > bv) return sortDir
       if (a.competition !== b.competition) return a.competition < b.competition ? -1 : 1
       return Number(a.quesito) - Number(b.quesito)
     })
+    return rows
+  }
+
+  function renderResults() {
+    if (selected.size === 0) {
+      searchBar.style.display = "none"
+      pager.innerHTML = ""
+      resultsBox.innerHTML = `<p class="cerca-hint">Seleziona dei tag qui sopra per vedere i quesiti.</p>`
+      return
+    }
+    searchBar.style.display = ""
+    const rows = matchedRows()
     const total = rows.length
-    const shown = rows.slice(0, MAX_ROWS)
+    const pc = resPerPage === 0 ? 1 : Math.max(1, Math.ceil(total / resPerPage))
+    if (resPage >= pc) resPage = pc - 1
+    const start = resPerPage === 0 ? 0 : resPage * resPerPage
+    const shown = resPerPage === 0 ? rows : rows.slice(start, start + resPerPage)
+    countEl.textContent =
+      total === 0 ? "0 quesiti"
+        : pc > 1 ? `${total} quesiti — ${start + 1}–${start + shown.length} (pag. ${resPage + 1}/${pc})`
+        : `${total} quesiti`
     const cols: [keyof Q, string][] = [
       ["summary", "Quesito"],
       ["competition", "Gara"],
@@ -179,26 +275,49 @@ async function init() {
           `<th data-k="${k}" class="qtable-th${sortKey === k ? " sorted-" + (sortDir > 0 ? "asc" : "desc") : ""}">${l}</th>`,
       )
       .join("")
+    if (total === 0) {
+      resultsBox.innerHTML = `<p class="paged-empty">Nessun risultato.</p>`
+      pager.innerHTML = ""
+      return
+    }
     const body = shown
       .map(
         (r) =>
-          `<tr><td><a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +
+          `<tr><td>${r.flag ? `<img class="cerca-flagimg" src="https://flagcdn.com/${r.flag}.svg" alt="${esc(r.flag_name)}" title="${esc(r.flag_name)}" width="22" height="16" loading="lazy">` : `<span class="flag" title="${esc(r.flag_name || "Internazionale")}">🌍</span>`} <a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +
           `<td>${esc(r.competition)}</td><td>${esc(r.quesito)}</td><td>${esc(r.answer)}</td></tr>`,
       )
       .join("")
-    const note = total > MAX_ROWS ? ` (mostrati i primi ${MAX_ROWS})` : ""
     resultsBox.innerHTML =
-      `<div class="cerca-count"><strong>${total}</strong> quesiti${note}</div>` +
       `<table class="qtable-table"><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>`
     resultsBox.querySelectorAll<HTMLElement>("th.qtable-th").forEach((th) =>
       th.addEventListener("click", () => {
         const k = th.dataset.k as keyof Q
         if (sortKey === k) sortDir *= -1
-        else {
-          sortKey = k
-          sortDir = 1
-        }
+        else { sortKey = k; sortDir = 1 }
+        resPage = 0
+        render()
+      }),
+    )
+    renderResPager(pc)
+  }
+
+  function renderResPager(pc: number) {
+    if (pc <= 1) { pager.innerHTML = ""; return }
+    const btn = (label: string, target: number, disabled: boolean, cur = false) =>
+      `<button class="paged-btn${cur ? " current" : ""}" data-p="${target}" ${disabled ? "disabled" : ""}>${label}</button>`
+    const nums: string[] = []
+    const win = 2
+    const lo = Math.max(0, resPage - win)
+    const hi = Math.min(pc - 1, resPage + win)
+    if (lo > 0) { nums.push(btn("1", 0, false)); if (lo > 1) nums.push(`<span class="paged-ellip">…</span>`) }
+    for (let i = lo; i <= hi; i++) nums.push(btn(String(i + 1), i, false, i === resPage))
+    if (hi < pc - 1) { if (hi < pc - 2) nums.push(`<span class="paged-ellip">…</span>`); nums.push(btn(String(pc), pc - 1, false)) }
+    pager.innerHTML = btn("‹ Prec", resPage - 1, resPage === 0) + nums.join("") + btn("Succ ›", resPage + 1, resPage >= pc - 1)
+    pager.querySelectorAll<HTMLButtonElement>("button[data-p]").forEach((b) =>
+      b.addEventListener("click", () => {
+        resPage = Number(b.dataset.p)
         renderResults()
+        searchBar.scrollIntoView({ block: "start", behavior: "smooth" })
       }),
     )
   }

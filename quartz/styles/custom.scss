@@ -8,6 +8,8 @@
   --navbar-bg: linear-gradient(100deg, #1f3bd1 0%, #4127b8 100%);
   --navbar-fg: #fff6ec;
   --radius: 12px;
+  // navbar height = padding 0.9rem*2 + logo 2.4rem. Sidebar/content offset off this.
+  --navbar-h: 4.2rem;
 }
 [saved-theme="dark"] {
   --navbar-bg: linear-gradient(100deg, #233aa6 0%, #3a2596 100%);
@@ -54,6 +56,24 @@ article img {
   padding: 6px;
   box-shadow: 0 2px 10px rgba(25, 26, 46, 0.06);
 }
+// sober decorative concept icon, placed to the RIGHT of the page title.
+// It is the first element of the article body (just under the .page-header title);
+// float it right and lift it up so it sits beside the title line.
+img.concept-icon {
+  float: right; height: 5.8rem; width: auto;
+  margin: -6.3rem 0 0.5rem 1rem;
+  padding: 0; border: none; background: none; box-shadow: none;
+}
+@media all and (max-width: 800px) {
+  img.concept-icon { height: 4.4rem; margin: -4.9rem 0 0.4rem 0.6rem; }
+}
+
+// flag images (flagcdn) in /cerca results: tiny inline flags, NOT figure cards
+img.cerca-flagimg {
+  height: 1em; width: auto; display: inline-block; vertical-align: -0.12em;
+  padding: 0; background: none; box-shadow: none;
+  border: 1px solid var(--lightgray); border-radius: 2px; margin-right: 0.25em;
+}
 
 // ─── Generic + quesiti/cerca tables ───
 table.qtable-table, .cerca-results table.qtable-table {
@@ -96,6 +116,234 @@ details.cerca-facet > summary { font-family: var(--titleFont); }
 .cerca-chip.active .cerca-n { color: var(--accent-yellow); }
 .cerca-count strong { color: var(--secondary); font-size: 1.1em; }
 
+.cerca-searchbar { margin: 0.6rem 0 0.4rem; }
+.flag { font-size: 0.95em; margin-right: 0.15em; }
 .page-title { font-weight: 800; }
 blockquote { border-left: 3px solid var(--accent-teal); }
 .graph .graph-outer, .explorer { border-radius: var(--radius); }
+
+// ─── Navbar (rendered at body level in renderPage.tsx, so its styles live here,
+//     not in the component .css which Quartz only bundles for layout components) ───
+.navbar {
+  position: sticky; top: 0; z-index: 1000;
+  width: 100%; margin: 0; padding: 0.9rem 2rem;
+  background: var(--navbar-bg);
+  box-shadow: 0 2px 14px rgba(27, 40, 120, 0.22);
+}
+// brand left, links centred (middle grid cell) so they align over the page content
+.navbar-inner {
+  max-width: 1100px; margin: 0 auto;
+  display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 1rem;
+}
+.navbar-brand {
+  grid-column: 1; justify-self: start;
+  display: inline-flex; align-items: center; gap: 0.55rem;
+  font-family: var(--titleFont); font-weight: 800; font-size: 1.2rem;
+  color: var(--navbar-fg) !important; background: none; letter-spacing: -0.01em;
+  text-decoration: none !important;
+}
+.navbar-logo {
+  height: 2.4rem; width: auto; display: block; flex: 0 0 auto;
+  filter: drop-shadow(0 1px 3px rgba(20, 28, 90, 0.45));
+}
+.navbar-links {
+  grid-column: 2; justify-self: center;
+  display: flex; gap: 0.4rem; flex-wrap: wrap; justify-content: center;
+}
+.navbar-links a {
+  font-family: var(--titleFont); font-weight: 600; font-size: 0.95rem;
+  color: var(--navbar-fg) !important;
+  padding: 0.38rem 0.85rem; border-radius: 999px; text-decoration: none !important;
+  background-image: none;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+.navbar-links a:hover { background: var(--accent-orange); color: #1a1320 !important; }
+@media all and (max-width: 800px) {
+  .navbar { padding: 0.6rem 1rem; }
+  .navbar-inner { grid-template-columns: 1fr; justify-items: center; gap: 0.5rem; }
+  .navbar-brand { justify-self: center; }
+  .navbar-links a { font-size: 0.85rem; padding: 0.3rem 0.6rem; }
+}
+
+// ─── Full-width navbar + rails (mirrors the maturità site, which works) ───
+body { margin: 0; }
+// navbar reserves its own height in normal flow → kill Quartz's 6rem $topSpacing
+// gap so the centre content isn't pushed way down.
+.page-header { margin-top: 0 !important; }
+
+// Sticky side rails start BELOW the navbar in flow but their `top:0; height:100vh`
+// spills past the viewport. Offset them under the navbar. Desktop/tablet only —
+// on mobile the rails are static.
+@media all and (min-width: 800px) {
+  #quartz-root .sidebar {
+    top: var(--navbar-h) !important;
+    height: calc(100vh - var(--navbar-h)) !important;
+    padding-top: 1.5rem !important;
+  }
+  // RIGHT rail (TOC/backlinks) has no popout — safe to scroll wholesale.
+  #quartz-root .sidebar.right { overflow-y: auto; overflow-x: hidden; }
+  // LEFT rail holds the position:fixed search popout. It must NOT get its own
+  // overflow (a scroll ancestor would clip the popout) and — since position:sticky
+  // makes it a stacking context that TRAPPED the popout below the navbar — its
+  // z-index is lifted ABOVE the navbar (1000) so the popout escapes on top. The
+  // rail sits below the navbar vertically, so no visual clash.
+  #quartz-root .sidebar.left { overflow: visible; z-index: 1001 !important; }
+  #quartz-root .sidebar.left .explorer {
+    flex: 1 1 auto; min-height: 0; overflow-y: auto; overflow-x: hidden;
+  }
+}
+
+// Search popout MUST sit ABOVE the sticky navbar (z 1000), else the masthead
+// covers its top edge. And drop the popout body clearly below the navbar.
+.search > .search-container { z-index: 1100 !important; }
+.search > .search-container > .search-space { margin-top: calc(var(--navbar-h) + 2.5rem) !important; }
+
+// Homepage: the site title already lives in the navbar brand — don't repeat it as the
+// big page heading (the per-page article-title would duplicate the site name on the index).
+body[data-slug="index"] .page-header .article-title,
+body[data-slug="index"] .page-header .content-meta { display: none; }
+
+/* === ported v4 component CSS (Navbar/CercaPage/PagedList render outside v5 layout) === */
+/* --- navbar --- */
+/* full-bleed bar pinned to the very top of the viewport */
+.navbar {
+  position: sticky; top: 0; z-index: 1000;
+  width: 100%; margin: 0; padding: 0.55rem 2rem;
+  background: var(--navbar-bg);
+  box-shadow: 0 2px 14px rgba(27, 40, 120, 0.22);
+}
+.navbar-inner {
+  max-width: 1400px; margin: 0 auto;
+  display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;
+}
+.navbar-brand {
+  display: inline-flex; align-items: center; gap: 0.55rem;
+  font-family: var(--titleFont); font-weight: 800; font-size: 1.15rem;
+  color: var(--navbar-fg) !important; background: none; letter-spacing: -0.01em;
+  text-decoration: none !important;
+}
+.navbar-logo {
+  height: 2.4rem; width: auto; display: block; flex: 0 0 auto;
+  filter: drop-shadow(0 1px 3px rgba(20, 28, 90, 0.45));
+}
+.navbar-links { display: flex; gap: 0.35rem; flex-wrap: wrap; margin-left: auto; }
+.navbar-links a {
+  font-family: var(--titleFont); font-weight: 600; font-size: 0.92rem;
+  color: var(--navbar-fg) !important; background: rgba(255,255,255,0.0);
+  padding: 0.32rem 0.7rem; border-radius: 999px; text-decoration: none !important;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+.navbar-links a:hover { background: var(--accent-orange); color: #1a1320 !important; }
+.navbar-toggle { display: none; background: none; border: 0; color: var(--navbar-fg); font-size: 1.3rem; cursor: pointer; }
+@media all and (max-width: 800px) {
+  .navbar-links a { font-size: 0.85rem; padding: 0.28rem 0.55rem; }
+}
+/* --- cerca --- */
+#cerca { margin-top: 1rem; }
+.cerca-controls { margin-bottom: 0.8rem; }
+.cerca-toggle {
+  padding: 0.4rem 0.8rem; border: 1px solid var(--secondary); border-radius: 6px;
+  background: var(--secondary); color: var(--light); cursor: pointer; font-size: 0.9rem;
+}
+.cerca-toggle:hover { opacity: 0.9; }
+.cerca-facets { display: flex; flex-direction: column; gap: 0.4rem; margin-bottom: 0.8rem; }
+details.cerca-facet { border: 1px solid var(--lightgray); border-radius: 6px; padding: 0.3rem 0.6rem; }
+details.cerca-facet > summary { cursor: pointer; font-weight: 600; padding: 0.2rem 0; }
+.cerca-chips { display: flex; flex-wrap: wrap; gap: 0.35rem; padding: 0.4rem 0; }
+.cerca-chip {
+  display: inline-flex; align-items: center; gap: 0.3rem;
+  padding: 0.2rem 0.55rem; border: 1px solid var(--lightgray); border-radius: 999px;
+  background: var(--light); color: var(--dark); cursor: pointer; font-size: 0.82rem;
+}
+.cerca-chip:hover { border-color: var(--secondary); }
+.cerca-chip.active { background: var(--secondary); color: var(--light); border-color: var(--secondary); }
+.cerca-chip .cerca-n { font-size: 0.72rem; opacity: 0.7; }
+.cerca-chip.active .cerca-n { opacity: 0.85; }
+.cerca-selected { margin: 0.6rem 0; display: flex; flex-wrap: wrap; gap: 0.35rem; align-items: center; }
+.cerca-sel-label { font-size: 0.85rem; color: var(--gray); margin-right: 0.2rem; }
+.cerca-clear {
+  padding: 0.2rem 0.6rem; border: 1px solid var(--lightgray); border-radius: 6px;
+  background: transparent; color: var(--gray); cursor: pointer; font-size: 0.8rem;
+}
+.cerca-count { font-size: 0.9rem; margin: 0.5rem 0; }
+.cerca-hint { color: var(--gray); }
+.cerca-results table.qtable-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+.cerca-results th, .cerca-results td {
+  text-align: left; padding: 0.35rem 0.55rem; border-bottom: 1px solid var(--lightgray); vertical-align: top;
+}
+.cerca-results th.qtable-th { cursor: pointer; user-select: none; white-space: nowrap; }
+.cerca-results th.sorted-asc::after { content: " \2191"; }
+.cerca-results th.sorted-desc::after { content: " \2193"; }
+.cerca-results td:nth-child(3), .cerca-results td:nth-child(4) { text-align: center; }
+.cerca-results tr:hover td { background: var(--highlight); }
+/* --- pagedList --- */
+div.paged-list { margin: 1rem 0; }
+/* search box + bimodal scope toggle on one row (mate-site style) */
+.paged-search-row {
+  display: flex; gap: 0.5rem; align-items: stretch; flex-wrap: wrap; margin-bottom: 0.5rem;
+}
+.paged-search {
+  flex: 1 1 16rem; min-width: 0; box-sizing: border-box;
+  font-family: var(--bodyFont); font-size: 0.95rem;
+  padding: 0.5rem 0.7rem; border-radius: 8px;
+  border: 1.5px solid var(--lightgray); background: var(--light); color: var(--dark);
+}
+.paged-search:focus { outline: none; border-color: var(--secondary); }
+/* bimodal toggle: gara/descrizione  <->  contenuto completo (atom keywords) */
+.paged-modebtn {
+  flex: 0 0 auto; cursor: pointer; white-space: nowrap;
+  font-family: var(--titleFont); font-weight: 600; font-size: 0.82rem;
+  padding: 0.4rem 0.8rem; border-radius: 999px;
+  border: 1.5px solid var(--lightgray); background: var(--light); color: var(--gray);
+  transition: all 0.12s ease;
+}
+.paged-modebtn:hover { border-color: var(--secondary); color: var(--dark); }
+.paged-modebtn[aria-pressed="true"] {
+  background: var(--secondary); color: #fff; border-color: var(--secondary);
+}
+.paged-modebtn:disabled { opacity: 0.6; cursor: progress; }
+/* count (left) + per-page (right) */
+.paged-controls {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 0.6rem; flex-wrap: wrap; margin-bottom: 0.5rem;
+}
+.paged-count { font-size: 0.85rem; color: var(--gray); }
+.paged-perpage-label { font-size: 0.85rem; color: var(--darkgray); display: inline-flex; align-items: center; gap: 0.4rem; }
+.paged-perpage {
+  font-family: var(--titleFont); font-weight: 600; font-size: 0.85rem;
+  padding: 0.2rem 0.45rem; border-radius: 8px; border: 1.5px solid var(--lightgray);
+  background: var(--light); color: var(--dark); cursor: pointer;
+}
+.paged-perpage:focus { outline: none; border-color: var(--secondary); }
+.paged-empty { color: var(--gray); font-style: italic; margin: 0.6rem 0; }
+/* sortable table */
+table.paged-table { width: 100%; font-size: 0.9rem; }
+table.paged-table th.paged-sort { cursor: pointer; user-select: none; white-space: nowrap; }
+table.paged-table th.paged-sort:hover { color: var(--secondary); }
+table.paged-table td.paged-c-liv { white-space: nowrap; color: var(--darkgray); text-transform: capitalize; }
+table.paged-table th.paged-c-year, table.paged-table td.paged-c-year { white-space: nowrap; text-align: center; color: var(--darkgray); }
+table.paged-table td.paged-c-prob { white-space: nowrap; text-align: center; color: var(--darkgray); }
+table.paged-table td.paged-c-desc { color: var(--gray); }
+/* dedicated Paese/Stato column: cell = flag image (flagcdn) or globe, centered */
+table.paged-table th.paged-c-flag, table.paged-table td.paged-c-flag {
+  text-align: center; white-space: nowrap; width: 1%;
+}
+/* override the global `article img` card styling (border/padding/shadow) for tiny flags */
+table.paged-table td.paged-c-flag img.paged-flagimg {
+  height: 1em; width: auto; display: inline-block; vertical-align: -0.12em;
+  padding: 0; background: none; box-shadow: none;
+  border: 1px solid var(--lightgray); border-radius: 2px;
+}
+table.paged-table td.paged-c-flag .paged-flag-globe { font-size: 1.15em; }
+table.paged-table .flag { margin-right: 0.15em; }
+.paged-pager { display: flex; flex-wrap: wrap; gap: 0.3rem; align-items: center; justify-content: center; margin: 1rem 0 0.3rem; }
+.paged-btn {
+  font-family: var(--titleFont); font-weight: 600; font-size: 0.85rem;
+  min-width: 2rem; padding: 0.3rem 0.6rem; border-radius: 999px;
+  border: 1.4px solid var(--lightgray); background: var(--light); color: var(--dark); cursor: pointer;
+  transition: all 0.12s ease;
+}
+.paged-btn:hover:not(:disabled) { border-color: var(--accent-orange, #f0852a); }
+.paged-btn.current { background: var(--secondary); color: #fff; border-color: var(--secondary); }
+.paged-btn:disabled { opacity: 0.4; cursor: default; }
+.paged-ellip { color: var(--gray); padding: 0 0.2rem; }

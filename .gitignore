@@ -1,0 +1,10 @@
+node_modules/
+public/
+.quartz/
+.quartz-cache/
+.DS_Store
+# migration scratch
+extract_css.py
+quartz/styles/_ported_components.scss
+*conflicted copy*
+preprocess (DESKTOP*.mjs

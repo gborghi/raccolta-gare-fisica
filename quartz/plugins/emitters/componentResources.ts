@@ -9,6 +9,8 @@ import popoverScript from "../../components/scripts/popover.inline"
 import cercaScript from "../../components/scripts/cerca.inline"
 // @ts-ignore  ported v4 custom: client-side pagination for long folder/tag listings
 import pagedListScript from "../../components/scripts/pagedList.inline"
+// @ts-ignore  bilingual quesito language switch (flags, toggle, persist)
+import qlangScript from "../../components/scripts/qlang.inline"
 import styles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
 import { BuildCtx } from "../../util/ctx"
@@ -267,6 +269,7 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
   // "nav" listeners register before the first nav dispatch.
   componentResources.afterDOMLoaded.push(cercaScript)
   componentResources.afterDOMLoaded.push(pagedListScript)
+  componentResources.afterDOMLoaded.push(qlangScript)
   // per-site i18n: rename the graph panel title "Vista grafico" -> "Vista grafo"
   componentResources.afterDOMLoaded.push(`
     document.addEventListener("nav", () => {

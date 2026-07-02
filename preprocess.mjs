@@ -46,10 +46,11 @@ function parseFrontmatter(raw) {
 
 const VAULT = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/OlimpiadiFisica/raccolte gare di Fisica/Knowledge Graph"
 const ROOT = path.resolve(".")
-// Heavy, 100%-regenerable build artifacts (content copy + public output) live
-// OUTSIDE Dropbox: Dropbox locks files mid-sync (rm "Device or resource busy")
-// and would thrash on 20k+ files each build. Source stays in Dropbox (backed up).
-const BUILD = process.env.RGF_BUILD || "C:/Users/utente/site-build"
+// Build artifacts live INSIDE the site repo (in Dropbox, sibling of the vault —
+// mirrors OlimpiadiMatematica/garaMate-pages). content/, staticgen/ and public/
+// are heavy + 100%-regenerable, so they're marked Dropbox-ignored (NTFS ADS
+// `com.dropbox.ignored`) to stop Dropbox syncing/locking 20k+ files each build.
+const BUILD = process.env.RGF_BUILD || ROOT
 const CONTENT = path.join(BUILD, "content")
 // Generated static JSON (per-concept lists, quesiti index, keyword index) ALSO live
 // outside Dropbox: preprocess rm+recreates `cl/` each run and Dropbox locks it
@@ -245,11 +246,20 @@ function tagVal(tags, prefix) {
   return t ? t.slice(prefix.length) : ""
 }
 
+// Mark a dir Dropbox-ignored via its NTFS alternate-data-stream (same as
+// `Set-Content -Stream com.dropbox.ignored`). content/ + staticgen/ are rm+recreated
+// each run, so the flag must be re-written in-code or Dropbox re-syncs 20k+ files.
+async function dropboxIgnore(dir) {
+  try { await fs.writeFile(dir + ":com.dropbox.ignored", "1") } catch { /* non-NTFS / no perms */ }
+}
+
 async function main() {
   await fs.rm(CONTENT, { recursive: true, force: true })
   await fs.mkdir(CONTENT, { recursive: true })
+  await dropboxIgnore(CONTENT)
   await fs.rm(CL_DIR, { recursive: true, force: true })
   await fs.mkdir(CL_DIR, { recursive: true })
+  await dropboxIgnore(STATIC_GEN)
   // concept decorative icons: { note basename -> svg filename } in quartz/static/concept-icons/
   let ICON_MANIFEST = {}
   try {
@@ -262,6 +272,10 @@ async function main() {
   const stemCountry = {}   // stem -> English country name (tooltip on the flag column)
   const stemLevel = {}     // stem -> competition level (from `livello/<x>` tag, fallback frontmatter level)
   const stemYear = {}      // stem -> competition year (frontmatter `year`)
+  // Bilingual: default-stem -> [{lang, body}] hidden `secondary` translation siblings
+  // (emitted by graphify-out/emit_siblings.py). Merged into their default quesito
+  // page below; never emitted as their own page / indexed / graphed.
+  const siblings = new Map()
   // Foreign provas often lack a livello tag AND an explicit `level`. Deduce the
   // competition level/round from the source pdf path + filename (folders encode
   // the round: UK/round1, Argentina/pruebas-nacionales, Russia/izho.kz, etc.) so
@@ -301,8 +315,20 @@ async function main() {
     const fm = raw.match(/^---\r?\n([\s\S]*?)\r?\n---/)
     if (!fm) continue
     const g = (k) => (fm[1].match(new RegExp("^" + k + ":\\s*(.+)$", "m")) || [, ""])[1].trim().replace(/^["']|["']$/g, "")
-    const n = nationInfo(g("country"), g("comp_code"), g("pdf"))
     const stem = path.basename(rel, ".md")
+    // stash secondary translation siblings by their default's stem, then skip
+    const tipoM = fm[1].match(/^tipo:\s*(.+)$/m)
+    if (tipoM && tipoM[1].trim() === "quesito-translation") {
+      const of = (fm[1].match(/^translation_of:\s*(.+)$/m) || [, ""])[1].trim()
+      const lang = (fm[1].match(/^lang:\s*(.+)$/m) || [, ""])[1].trim()
+      if (of && lang) {
+        const body = raw.slice(fm[0].length).replace(/^\r?\n/, "")
+        if (!siblings.has(of)) siblings.set(of, [])
+        siblings.get(of).push({ lang, body })
+      }
+      continue
+    }
+    const n = nationInfo(g("country"), g("comp_code"), g("pdf"))
     stemFlag[stem] = n.iso
     stemCountry[stem] = n.name
     // Match only the `- livello/<x>` TAG line (anchored to list-item start), NOT
@@ -328,8 +354,10 @@ async function main() {
   const quesiti = []
   const kwIndex = {}
   let mdWritten = 0, assetsCopied = 0, clIdx = 0, pagedLists = 0
+  const SIB_RE = /__(?:it|en|es|pt|de|fr)$/   // secondary translation sibling stems
   for (const rel of files) {
     if (rel.endsWith(".md") && IGNORE_NOTES.has(path.basename(rel, ".md"))) continue
+    if (rel.endsWith(".md") && SIB_RE.test(path.basename(rel, ".md"))) continue  // merged into its default below
     const src = path.join(VAULT, rel)
     // v5: emit at the lowercase slug path so pages match OFM's lowercase wikilink
     // hrefs (applies to both .md notes and _attachments assets).
@@ -365,6 +393,25 @@ async function main() {
         outContent = ex.newContent.replace("__SRC__", srcRel)
         clIdx++; pagedLists++
       }
+    }
+    // Bilingual: merge hidden translation siblings into this default quesito page.
+    // One <div class="qlang-switch" data-default="<native>"> then the native body,
+    // and per sibling a <div class="qlang-split" data-lang="<l>"> + its body. The
+    // client qlang.inline.ts partitions these blocks and toggles by flag. Title/H1
+    // stays native (frontmatter), so strip each sibling's translated H1 + backlink.
+    if (data.tipo === "quesito" && siblings.has(path.basename(rel, ".md"))) {
+      const native = data.lang || "it"
+      const ORDER = { it: 0, en: 1, es: 2, pt: 3, de: 4, fr: 5 }
+      const sibs = [...siblings.get(path.basename(rel, ".md"))]
+        .sort((a, b) => (ORDER[a.lang] ?? 9) - (ORDER[b.lang] ?? 9))
+      let merged = `<div class="qlang-switch" data-default="${native}"></div>\n\n` + outContent
+      for (const s of sibs) {
+        let b = transform(s.body)
+          .replace(/^\s*#\s+.+?(?:\r?\n|$)/m, "")        // drop translated H1 (title comes from frontmatter)
+          .replace(/\n?\[\[[^\]]*\]\]\s*$/, "")           // drop trailing mutual backlink to default
+        merged += `\n\n<div class="qlang-split" data-lang="${s.lang}"></div>\n\n` + b.trim()
+      }
+      outContent = merged
     }
     await fs.writeFile(dest, matter.stringify(outContent, data))
     mdWritten++

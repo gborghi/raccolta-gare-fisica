@@ -347,3 +347,16 @@ table.paged-table .flag { margin-right: 0.15em; }
 .paged-btn.current { background: var(--secondary); color: #fff; border-color: var(--secondary); }
 .paged-btn:disabled { opacity: 0.4; cursor: default; }
 .paged-ellip { color: var(--gray); padding: 0 0.2rem; }
+
+// Bilingual quesito language switch (native + it/en translations)
+.qlang-switch { display: flex; gap: 0.4rem; flex-wrap: wrap; margin: 0 0 0.9rem; }
+.qlang-btn {
+  display: inline-flex; align-items: center; gap: 0.32rem; cursor: pointer;
+  padding: 0.22rem 0.5rem; border: 1.4px solid var(--lightgray); border-radius: 8px;
+  background: var(--light); opacity: 0.55; transition: opacity 0.15s, border-color 0.15s, box-shadow 0.15s;
+}
+.qlang-btn img { display: block; border-radius: 2px; }
+.qlang-btn .qlang-code { font-family: var(--titleFont); font-weight: 700; font-size: 0.72rem; letter-spacing: 0.04em; color: var(--dark); }
+.qlang-btn:hover { opacity: 0.85; }
+.qlang-btn.active { opacity: 1; border-color: var(--secondary); box-shadow: 0 0 0 1px var(--secondary); }
+.qlang-split { display: none; }

@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr"><head><title>Spagna 2015 — Quesito 3</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="Spagna 2015 — Quesito 3"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Spagna 2015 — Quesito 3"/><meta name="twitter:description" content="P3. El láser1. En el Año Internacional de la Luz, no podía faltar en la OAF un problema sobre la luz\dots láser."/><meta property="og:description" content="P3. El láser1. En el Año Internacional de la Luz, no podía faltar en la OAF un problema sobre la luz\dots láser."/><meta property="og:image:alt" content="P3. El láser1. En el Año Internacional de la Luz, no podía faltar en la OAF un problema sobre la luz\dots láser."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/2015-primera_prueba_2015__q03"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/2015-primera_prueba_2015__q03"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="P3. El láser1. En el Año Internacional de la Luz, no podía faltar en la OAF un problema sobre la luz\dots láser."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/2015-primera_prueba_2015__q03" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-2982" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-2982" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Spagna 2015 — Quesito 3</a></div></nav><h1 class="article-title">Spagna 2015 — Quesito 3</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/kg/prova" class="internal internal-link tag-link">kg/prova</a><span class="note-properties-separator">, </span><a href="../tags/paese/spagna" class="internal internal-link tag-link">paese/spagna</a><span class="note-properties-separator">, </span><a href="../tags/comp/spagna" class="internal internal-link tag-link">comp/spagna</a><span class="note-properties-separator">, </span><a href="../tags/cluster/onde-e-oscillazioni" class="internal internal-link tag-link">cluster/onde-e-oscillazioni</a><span class="note-properties-separator">, </span><a href="../tags/object/mirror" class="internal internal-link tag-link">object/mirror</a><span class="note-properties-separator">, </span><a href="../tags/object/photon" class="internal internal-link tag-link">object/photon</a><span class="note-properties-separator">, </span><a href="../tags/object/atom" class="internal internal-link tag-link">object/atom</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:27:47.719Z">02 lug 2026</time><span>25 minuti</span></p><ul class="tags"><li><a href="../tags/kg/prova" class="internal tag-link">kg/prova</a></li><li><a href="../tags/paese/spagna" class="internal tag-link">paese/spagna</a></li><li><a href="../tags/comp/spagna" class="internal tag-link">comp/spagna</a></li><li><a href="../tags/cluster/onde-e-oscillazioni" class="internal tag-link">cluster/onde-e-oscillazioni</a></li><li><a href="../tags/object/mirror" class="internal tag-link">object/mirror</a></li><li><a href="../tags/object/photon" class="internal tag-link">object/photon</a></li><li><a href="../tags/object/atom" class="internal tag-link">object/atom</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="es"></div>
+<p>P3. El láser1.
+En el Año Internacional de la Luz, no podía faltar en la OAF un problema
+sobre la <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal" style="margin-right:0.0197em;">l</span><span class="mord mathnormal">u</span><span class="mord mathnormal" style="margin-right:0.044em;">z</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="minner">…</span></span></span></span> láser. Desde su invención en 1960, el láser ha revolucionado las
+comunicaciones, la industria, la medicina y otras muchas ramas de la vida
+cotidiana, la ciencia y la tecnología. En algunas aplicaciones se aprovecha la alta
+direccionalidad y concentración energética de la luz láser, que se presenta como un
+intenso haz casi cilíndrico con unos pocos milímetros de diámetro y pequeña
+divergencia.
+En
+otras
+aplicaciones
+interesa
+principalmente
+la
+alta
+monocromaticidad que puede tener la luz láser, de forma que es una onda casi
+armónica, como las que se manejan habitualmente al estudiar fenómenos
+ondulatorios. Las dos propiedades, direccionalidad y monocromaticidad, están
+íntimamente relacionadas con la llamada cavidad resonante del dispositivo,
+formada por dos espejos enfrentados, de forma que la luz viaja repetidamente en trayectos de ida y vuelta,
+reflejándose normalmente en ambos espejos. Por tanto, como ya habrás comprendido, las ondas estacionarias
+van a jugar un importante papel en el funcionamiento de un láser, y sobre ello vamos a tratar en este problema.
+La región entre los dos espejos está llena de un material, llamado medio activo, que amplifica la luz que
+viaja por él, de forma que, idealmente, la intensidad del haz dentro de la cavidad tendería a infinito debido a los
+repetidos pasos de la luz por dicho medio activo. Como en todo sistema físico real, siempre hay pérdidas
+energéticas que limitan el proceso, pero llega a alcanzarse un equilibrio entre ganancias y pérdidas con una muy
+alta densidad energética luminosa dentro de la cavidad. Precisamente una de las pérdidas del sistema es debida
+al pequeño porcentaje de transmitancia que tiene uno de los espejos, que deja salir al exterior “un poco” de la
+luz que incide sobre él. Este es el haz de luz láser que emerge del dispositivo.
+El efecto amplificador del medio activo se debe al fenómeno conocido como emisión estimulada,
+consistente en que cuando un átomo emite radiación (un fotón) puede inducir la emisión de otros átomos
+excitados (que almacenan energía absorbida previamente por otra vía), con la particularidad de que ambas
+radiaciones se superponen en fase y se produce una interferencia constructiva entre ellas. Si quieres saber más
+sobre este tema, busca información sobre el proceso de bombeo para conseguir inversión de población entre dos
+niveles de los átomos del medio activo.
+Pero volvamos al tema central de nuestro problema:
+la luz (onda electromagnética transversal) viaja repetidamente entre los espejos de la cavidad resonante y la
+interferencia entre las ondas que viajan en ambos sentidos es
+constructiva sólo para unos valores concretos de la longitud
+de onda (o frecuencia) de la radiación, correspondientes a
+los llamados modos normales de la cavidad (ondas
+estacionarias). La distribución de amplitud del campo
+eléctrico dentro de la cavidad es del mismo tipo que conoces para ondas estacionarias transversales en una
+cuerda tensa con sus dos extremos fijos, es decir con nodos en los extremos, como se esquematiza en la figura 1.
+a) Teniendo en cuenta que la frecuencia de la luz es la misma en cualquier medio y que la cavidad láser está
+rellena de un medio de índice de refracción n, deduce la relación entre la longitud de onda de la luz dentro de
+la cavidad, , y la longitud de onda de esa misma luz en el vacío, 0.
+b) Obtén una expresión para las frecuencias de los modos en una cavidad de longitud L. Demuestra que la
+separación en frecuencia entre dos modos consecutivos es
+nL
+c
+f
+2
+/</p>
+<p>, donde c es la velocidad de la luz en
+el vacío.</p>
+<p>1 La palabra láser está formada por las siglas en inglés del proceso responsable de su funcionamiento: “Light Amplification by
+Stimulated Emission of Radiation” (amplificación de luz mediante emisión estimulada de radiación).
+m vientres
+Fig. 1. Modo m de la cavidad
+OLIMPIADA ESPAÑOLA DE FÍSICA
+FASE DE ARAGÓN
+olimpiada_de_fisica.unizar.es
+Vamos a considerar en adelante un láser de rubí (como el primer láser que funcionó en 1960) con índice
+de refracción n = 1,760 y una cavidad de longitud L = 200,0 mm. La velocidad de la luz en el vacío es
+m/s
+10
+998
+,
+2
+8</p>
+<p>c
+.
+c) Calcula la frecuencia del modo fundamental de esta cavidad, f1, y la separación entre dos modos
+consecutivos,
+f</p>
+<p>.
+d) Si el láser de rubí emite luz con espectro centrado en una longitud de onda en el vacío 0 = 694,3 nm, ¿cuál
+es el número de orden, m, del modo implicado?
+El medio activo sólo puede amplificar luz dentro de un
+estrecho rango de frecuencias, definido por su curva de
+ganancia ( ) (figura 2), en la que es la ganancia y la
+frecuencia de la luz. Las frecuencias para las que no se supera
+un cierto valor umbral de ganancia no son amplificadas, pues
+las pérdidas superan a las ganancias, y en la práctica no
+aparecen en la radiación del láser. La curva de ganancia típica
+del medio activo es una función lorentziana, de la forma
+2
+2
+0
+)
+2
+/
+(
+)
+(
+)
+(</p>
+<p>A</p>
+<p>(1)
+donde, como es fácil comprobar, 0
+es la frecuencia para la que se alcanza la máxima ganancia, max , y es
+la anchura de la curva a mitad de su altura (véase la figura 2). Para nuestro láser de rubí, el máximo de la curva
+corresponde a la longitud de onda ya mencionada, = 694,3 nm, y la anchura es
+Hz
+10
+0
+,8
+8</p>
+<p>. A es una
+constante cuyo valor no vas a necesitar.
+e) Si sólo se amplifican eficientemente las frecuencias con ganancia superior al 10 % de max , ¿cuántos
+modos aparecerán en la luz emitida por el láser2? Por simplicidad, supón que uno de los modos implicados
+está perfectamente centrado en la curva de ganancia.
+f) Suponiendo que la curva de ganancia no depende de la longitud de la cavidad, calcula la longitud máxima
+que puede tener para que sólo aparezca un modo en la luz del láser3.</p>
+<p>2 Si más de un modo se amplifica eficientemente, la luz emitida por el láser contiene radiación en un “peine” de frecuencias
+dentro de la curva de ganancia, y se dice que el láser es multimodo. Estos láseres se usan en aplicaciones donde interesa la
+alta potencia y no es necesaria la monocromaticidad.
+3 Los láseres monomodo emiten luz muy monocromática. Esto es necesario, por ejemplo, para el registro de hologramas o
+las comunicaciones por fibra óptica.
+Fig. 2.</p>
+<p>0</p>
+<p>max
+max/2
+OLIMPIADA ESPAÑOLA DE FÍSICA
+FASE DE ARAGÓN
+olimpiada_de_fisica.unizar.es
+P3 Solución
+a) Como es bien sabido, la longitud de onda, , la frecuencia, f, y la velocidad de propagación, v, de cualquier
+onda armónica cumplen</p>
+<p>f</p>
+<p>v</p>
+<p>(2)</p>
+<p>En particular, la velocidad de propagación de una onda electromagnética en el vacío es
+f
+c
+0</p>
+<p>, y en un
+medio material de índice de refracción n la velocidad es</p>
+<p>n
+f
+n
+c
+0</p>
+<p>v</p>
+<p>(3)</p>
+<p>Comparando (2) y (3) se obtiene</p>
+<p>n
+0</p>
+<p>(4)
+b) La conocida condición de onda estacionaria en un espacio de longitud L, con nodos en los dos extremos, es</p>
+<p>2</p>
+<p>m
+L</p>
+<p>(5)</p>
+<p>donde m es un número entero. Combinando esta ecuación con (4) y (3) y despejando la frecuencia se
+obtienen las posibles frecuencias,
+m
+f
+, de los modos de la cavidad láser</p>
+<p>L
+n
+c
+m
+fm
+2</p>
+<p>(6)</p>
+<p>Por tanto, la separación en frecuencia entre dos modos consecutivos, de órdenes m y m+1, es</p>
+<p>L
+n
+c
+f
+2</p>
+<p>(7)
+c) Observando (6) y (7), se deduce que la frecuencia
+1f del modo fundamental, correspondiente a m = 1,
+coincide con
+f</p>
+<p>. Operando con los datos se obtiene</p>
+<p>Hz
+10
+259
+,
+4
+8
+1</p>
+<p>f
+f</p>
+<p>(8)
+d) Podría calcularse la frecuencia de la luz para la longitud de onda = 694,3 nm, llevarla a (6) y despejar m,
+pero es más rápido y directo tener en cuenta (4) y (5), de donde se deduce que</p>
+<p>0
+2
+L
+n
+m</p>
+<p>El resultado que aparece en la pantalla de la calculadora es 1 013 970,90595. Pero se supone que m debe ser
+entero, por lo que es tentador redondear al entero más próximo y responder que el orden del modo implica</p>
+
+<p><img src="../_attachments/2015-primera_prueba_2015/2015-primera_prueba_2015_p7_f5.png" alt width="auto" height="auto"/>
+<em>Modo m in cavità laser, m ventri</em></p>
+
+
+<p><img src="../_attachments/2015-primera_prueba_2015/2015-primera_prueba_2015_p8_f6.png" alt width="auto" height="auto"/>
+<em>Curva di guadagno lorentziana gamma(nu)</em></p>
+
+
+<p><img src="../_attachments/2015-primera_prueba_2015/2015-primera_prueba_2015_p10_f7.png" alt width="auto" height="auto"/>
+<em>Curva guadagno con semiampiezza Delta</em></p>
+
+
+<p><img src="../_attachments/2015-primera_prueba_2015/2015-primera_prueba_2015_p10_f8.png" alt width="auto" height="auto"/>
+<em>Spettro modi emessi, Fig. 4</em></p>
+
+
+<p><img src="../_attachments/2015-primera_prueba_2015/2015-primera_prueba_2015_p10_f9.png" alt width="auto" height="auto"/>
+<em>Spettro modi emessi, Fig. 5</em></p>
+
+<p><strong>Topic:</strong> <a href="../topics/oscillations--and--waves" class="internal internal-link alias" data-slug="topics/oscillations--and--waves">Oscillations &amp; Waves</a>, <a href="../topics/wave-optics" class="internal internal-link alias" data-slug="topics/wave-optics">Wave Optics</a>, <a href="../topics/modern-quantum-physics" class="internal internal-link alias" data-slug="topics/modern-quantum-physics">Modern-Quantum Physics</a>
+<strong>Metodi:</strong> <a href="../methods/wave-equation-(metodo)" class="internal internal-link alias" data-slug="methods/wave-equation-(metodo)">Wave Equation</a>, <a href="../methods/superposition-principle-(metodo)" class="internal internal-link alias" data-slug="methods/superposition-principle-(metodo)">Superposition Principle</a>, <a href="../methods/simple-harmonic-motion-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/simple-harmonic-motion-analysis-(metodo)">Simple Harmonic Motion Analysis</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/mirror-(object)" class="internal internal-link alias" data-slug="objects/mirror-(object)">Mirror</a>, <a href="../objects/photon-(object)" class="internal internal-link alias" data-slug="objects/photon-(object)">Photon</a>, <a href="../objects/atom-(object)" class="internal internal-link alias" data-slug="objects/atom-(object)">Atom</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1dzyhxcHOg84Bi4KclhO5VRXfwU4Gtq_W/view" class="external external-link">Testo (PDF) — p.7<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="it"></div>
+<p>P3. Il laser1.
+Nell’Anno Internazionale della Luce, non poteva mancare all’OAF un problema
+sobre la <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal" style="margin-right:0.0197em;">l</span><span class="mord mathnormal">u</span><span class="mord mathnormal" style="margin-right:0.044em;">z</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="minner">…</span></span></span></span> láser. Dal suo invento nel 1960, il laser ha rivoluzionato le tecnologie di
+comunicazioni, industria, medicina e molti altri settori della vita
+la scienza e la tecnologia. In alcune applicazioni si approfitta dell’alta
+La direzionalità e la concentrazione energetica della luce laser, che si presenta come un
+un fascio quasi cilindrico con pochi millimetri di diametro e piccolo
+divergenza.
+En
+altri
+Applicazioni
+interessato
+in particolare
+la
+alta
+la luce laser può avere una monocromaticità, in modo che è un’onda quasi
+La maggior parte dei fenomeni sono armonici, come quelli che vengono utilizzati per studiare i fenomeni.</p>
+<ul>
+<li>Le ondulazioni. Le due proprietà, la direzionalità e la monocromaticità, sono:
+intimamente legati alla cosiddetta cavità risonante del dispositivo,
+formata da due specchi di fronte, in modo che la luce viaggia ripetutamente in percorsi di andata e ritorno,
+si riflette normalmente in entrambi i specchi. Quindi, come avete già capito, le onde stazionarie
+che gioca un ruolo importante nel funzionamento di un laser, e di questo ci parleremo in questo problema.
+La regione tra i due specchi è piena di un materiale, chiamato medio attivo, che amplifica la luce che
+Il fascio di velocità di un’onda di velocità di un’onda di velocità di un’onda di velocità di un’onda di velocità di un’onda di velocità di un’onda di velocità di un’onda di velocità di un’onda di velocità di un’onda di velocità di un’onda di velocità di un’onda di velocità di un’onda di velocità di velocità di un’onda di velocità di un’onda di velocità di un’onda di velocità di velocità di un’onda di velocità di velocità di un’onda di velocità di velocità di un’onda di velocità di velocità di un’onda di velocità di velocità di un’onda di velocità di velocità di velocità di un’onda di velocità di velocità di velocità di velocità di un’onda di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità
+passi di luce ripetuti attraverso tale mezzo attivo. Come in ogni sistema fisico reale, ci sono sempre perdite.
+La politica di sviluppo del settore energetico è un’ottica di sviluppo.
+alta densità di energia luminosa all’interno della cavità. Proprio una delle perdite del sistema è dovuta
+La percentuale di trasmissione di uno degli specchi è molto bassa, e questo lascia uscire un po’ fuori dalla parte di testa.
+luce che lo colpisce. Questo è il raggio di luce laser che emerge dal dispositivo.
+L’effetto amplificatore dell’ambiente attivo è dovuto al fenomeno noto come emissione stimolata,
+che quando un atomo emette radiazioni (un fotone) può indurre l’emissione di altri atomi
+di cui sopra:
+Le radiazioni si superponono in fase e si produce un’interferenza costruttiva tra di loro. Se vuoi saperne di più
+In questo tema, cerca informazioni sul processo di pompazione per ottenere investimenti di popolazione tra due
+i livelli di atomi dell’ambiente attivo.
+Ma torniamo al tema centrale del nostro problema:
+La luce (onda elettromagnetica transversale) viaggia ripetutamente tra gli specchi della cavità risonante e la
+l’interferenza tra le onde che viaggiano in entrambe le direzioni è
+La struttura è limitata a determinati valori di lunghezza.
+di onde (o frequenze) di radiazione, corrispondenti a
+Le “moduli normali” della cavità (onde)</li>
+<li>le stazioni di lavoro. Distribuzione di larghezza del campo
+l’elettricità all’interno della cavità è del tipo che conosci per le onde stazionarie transversali in una
+una corda tensa con le sue due estremità fisse, cioè con nodi alle estremità, come schematizzato nella figura 1.
+a) Considerando che la frequenza della luce è la stessa in qualsiasi mezzo e che la cavità laser è
+riempimento di un mezzo di indice di refraczione n, deduce il rapporto tra la lunghezza d’onda della luce all’interno di
+La cavità, e la lunghezza d’onda di quella stessa luce nel vuoto, 0.
+b) Ottenere un’espressione per le frequenze dei modi in una cavità di lunghezza L. Il risultato è che la
+la separazione di frequenza tra due modi consecutivi è
+nL
+c
+f
+2
+/</li>
+</ul>
+<p>, dove c è la velocità della luce in
+il vuoto.</p>
+<p>1 Il termine laser è formato da una sigla in inglese del processo responsabile del suo funzionamento: Light Amplification by
+Stimulated Emission of Radiation (amplificazione della luce mediante emissione stimolata di radiazioni).</p>
+<ul>
+<li>Come?
+Fig. 1. Modalità di cavità
+L’Olimpiade di Fisica di Spagna
+Fase di ARAGON
+olimpiada_de_fisica.unizzare.es
+Considereremo in seguito un laser di rubino (come il primo laser che funzionò nel 1960) con indice
+di rifrazione n = 1,760 e una cavità di lunghezza L = 200,0 mm. La velocità della luce nel vuoto è
+m/s
+10
+998
+,
+2
+8</li>
+</ul>
+<p>c
+.
+c) Calcola la frequenza del modo fondamentale di questa cavità, f1, e la separazione tra due modi
+consecutive,
+f</p>
+<p>.
+d) Se il laser rubino emette luce con spettro incentrato su una lunghezza d’onda nel vuoto 0 = 694,3 nm, quale
+è il numero di ordine, m, del modo implicito?
+Il mezzo attivo può amplificare solo la luce all’interno di un
+stretta gamma di frequenze, definita dalla sua curva di
+Il profitto () (fig. 2), in cui è il profitto e la
+frequenza della luce. Frequenze per le quali non si supera
+un certo valore di margine di profitto non è amplificato, poiché
+Le perdite superano i guadagni, e in pratica non
+si presentano nei raggi laser. La curva di guadagno tipica
+Il metodo di riproduzione del medio attivo è una funzione lorentziana,
+2
+2
+0
+)
+2
+/
+(
+)
+(
+)
+(</p>
+<p>A</p>
+<p>(1)
+dove, come è facile da verificare, 0
+è la frequenza per la quale si ottiene il massimo guadagno, max, ed è
+La larghezza della curva a metà della sua altezza (vedere figura 2). Per il nostro laser di rubin, il massimo della curva
+corrisponde alla lunghezza d’onda già menzionata, = 694,3 nm, e la larghezza è
+Hz
+10
+0
+,8
+8</p>
+<p>. A è una
+costante il cui valore non avrai bisogno.
+(e) Se si amplificano efficacemente solo le frequenze con un guadagno superiore al 10% del max , quante frequenze sono più elevate di quelle di cui sopra ?
+Le modalità appariranno nella luce emessa dal laser? Per semplicità, supponiamo che uno dei modi coinvolti sia
+è perfettamente focalizzato sulla curva di profitto.
+(f) Supponendo che la curva di guadagno non dipenda dalla lunghezza della cavità, si calcola la lunghezza massima
+che può avere solo una modalità per apparire nella luce del laser3.</p>
+<p>2 Se più di un modo è amplificato in modo efficiente, la luce emessa dal laser contiene radiazioni in un peine di frequenze
+all’interno della curva di guadagno, e si dice che il laser sia multimodo. Questi laser sono utilizzati in applicazioni che interessano la
+La tecnologia è molto potente e non è necessaria la monocromaticità.
+3 I laser monomodi emettono luce molto monocromatica. Questo è necessario, ad esempio, per la registrazione di hologrammi o
+le comunicazioni a fibra ottica.
+Fig. 2.</p>
+<p>0</p>
+<p>Max
+Max/2
+L’Olimpiade di Fisica di Spagna
+Fase di ARAGON
+olimpiada_de_fisica.unizzare.es
+P3 Soluzione
+a) Come è noto, la lunghezza d’onda, la frequenza, f, e la velocità di diffusione, v, di qualsiasi
+onda armonica soddisfa</p>
+<p>f</p>
+<p>v</p>
+<p>(2)</p>
+<p>In particolare, la velocità di diffusione di un’onda elettromagnetica nel vuoto è
+f
+c
+0</p>
+<p>, y en un
+media materiale indice di rifrazione n velocità è</p>
+<p>n
+f
+n
+c
+0</p>
+<p>v</p>
+<p>(3)</p>
+<p>Confrontando (2) e (3) si ottiene</p>
+<p>n
+0</p>
+<p>(4)
+b) La condizione nota di onda stazionaria in uno spazio di lunghezza L, con nodi alle due estremità, è</p>
+<p>2</p>
+<p>m
+L</p>
+<p>(5)</p>
+<p>dove m è un intero. Combinando questa equazione con (4) e (3) e chiarendo la frequenza si
+ottengono le frequenze possibili,
+m
+f
+, dei modi della cavità laser</p>
+<p>L
+n
+c
+m
+fm
+2</p>
+<p>(6)</p>
+<p>Quindi, la separazione di frequenza tra due modi consecutivi, di ordine m e m+1, è</p>
+<p>L
+n
+c
+f
+2</p>
+<p>(7)
+c) Sulla base di (6) e (7), si deduce che la frequenza di
+1f della modalità fondamentale, corrispondente a m = 1,
+coincide con
+f</p>
+<p>. Operando con i dati si ottiene</p>
+<p>Hz
+10
+259
+,
+4
+8
+1</p>
+<p>f
+f</p>
+<p>(8)
+d) Si potrebbe calcolare la frequenza della luce per la lunghezza d’onda = 694,3 nm, portarla a (6) e chiarire m,
+La Commissione ha adottato una decisione che prevede che il sistema di controllo dei dati sia stato adottato in base a criteri di cui all’articolo 4 del regolamento (CE) n.</p>
+<p>0
+2
+L
+n
+m</p>
+<p>Il risultato che viene visualizzato sullo schermo della calcolatrice è 1 013 970,90595. Ma è supposto che m deve essere
+l’insieme, quindi è tentativo di arrotondare l’insieme più vicino e rispondere che l’ordine del modo implica</p>
+
+<p><img src="../_attachments/2015-primera_prueba_2015/2015-primera_prueba_2015_p7_f5.png" alt width="auto" height="auto"/>
+<em>Modo m in cavità laser, m ventri</em></p>
+
+
+<p><img src="../_attachments/2015-primera_prueba_2015/2015-primera_prueba_2015_p8_f6.png" alt width="auto" height="auto"/>
+<em>Curva di guadagno lorentziana gamma(nu)</em></p>
+
+
+<p><img src="../_attachments/2015-primera_prueba_2015/2015-primera_prueba_2015_p10_f7.png" alt width="auto" height="auto"/>
+<em>Curva di guadagno con semiampiezza Delta</em></p>
+
+
+<p><img src="../_attachments/2015-primera_prueba_2015/2015-primera_prueba_2015_p10_f8.png" alt width="auto" height="auto"/>
+<em>Spettro modi emessi, Fig. 4</em></p>
+
+
+<p><img src="../_attachments/2015-primera_prueba_2015/2015-primera_prueba_2015_p10_f9.png" alt width="auto" height="auto"/>
+<em>Spettro modi emessi, Fig. 5</em></p>
+
+<p><strong>Topic:</strong> <a href="../topics/oscillations--and--waves" class="internal internal-link alias" data-slug="topics/oscillations--and--waves">Oscillations &amp; Waves</a>, <a href="../topics/wave-optics" class="internal internal-link alias" data-slug="topics/wave-optics">Wave Optics</a>, <a href="../topics/modern-quantum-physics" class="internal internal-link alias" data-slug="topics/modern-quantum-physics">Modern-Quantum Physics</a>
+<strong>Metodi:</strong> <a href="../methods/wave-equation-(metodo)" class="internal internal-link alias" data-slug="methods/wave-equation-(metodo)">Wave Equation</a>, <a href="../methods/superposition-principle-(metodo)" class="internal internal-link alias" data-slug="methods/superposition-principle-(metodo)">Superposition Principle</a>, <a href="../methods/simple-harmonic-motion-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/simple-harmonic-motion-analysis-(metodo)">Simple Harmonic Motion Analysis</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/mirror-(object)" class="internal internal-link alias" data-slug="objects/mirror-(object)">Mirror</a>, <a href="../objects/photon-(object)" class="internal internal-link alias" data-slug="objects/photon-(object)">Photon</a>, <a href="../objects/atom-(object)" class="internal internal-link alias" data-slug="objects/atom-(object)">Atom</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1dzyhxcHOg84Bi4KclhO5VRXfwU4Gtq_W/view" class="external external-link">Testo (PDF) — p.7<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>P3. The laser1.
+In the International Year of Light, there could be no problem at the OAF.
+sobre la <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal" style="margin-right:0.0197em;">l</span><span class="mord mathnormal">u</span><span class="mord mathnormal" style="margin-right:0.044em;">z</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="minner">…</span></span></span></span> láser. Since its invention in 1960, the laser has revolutionized the
+communications, industry, medicine and many other branches of life
+The world of science and technology. In some applications the high
+The directional and energy concentration of the laser light, which is presented as a
+The main feature is a very intense almost cylindrical beam with a few millimeters in diameter and small
+The difference.
+En
+Other
+Applications
+Interested
+mainly
+la
+High
+The monochromaticity that laser light can have, so it’s a wave almost
+The main objective of the programme is to improve the quality of the
+The following is the list of the types of equipment used: The two properties, directionality and monochromaticity, are
+closely related to the so-called resonant cavity of the device,
+It is made up of two mirrors facing each other, so that the light travels repeatedly in round-trip paths.
+It’s usually reflected in both mirrors. So, as you may have already understood, stationary waves
+They’re going to play a big role in how a laser works, and that’s what we’re going to talk about in this problem.
+The region between the two mirrors is filled with a material, called an active medium, which amplifies the light that
+The radius travels through it, so that ideally the intensity of the beam inside the cavity would tend to infinity due to the
+repeated light steps through that active medium. As in any real physical system, there are always losses.
+The Commission has already established a number of energy efficiency measures which limit the process, but a balance between gains and losses is reached with a very high level of efficiency.
+high energy density of light inside the cavity. One of the losses of the system is due
+The small percentage of transmission that one of the mirrors has, which lets out a little bit of the
+light that hits him. This is the laser beam of light that emerges from the device.
+The amplifying effect of the active medium is due to a phenomenon known as stimulated emission,
+This is the case for the electron emission of radiation from a given atom.
+Excited (storage of previously absorbed energy by another route), with the particularity that both
+radiation overlap in phase and constructive interference occurs between them. If you want to know more
+In this regard, it seeks information on the pumping process to achieve population investment between two
+levels of atoms in the active medium.
+But let’s get back to the core of our problem:
+The light (transversal electromagnetic wave) travels repeatedly between the mirrors of the resonant cavity and the
+interference between the waves traveling in both directions is
+The value of the measured length is the sum of the values of the measured lengths.
+radiation wave (or frequency) corresponding to
+The so-called normal cavity modes (waves)
+(a) the number of vehicles Field width distribution
+The electrical inside the cavity is the same type you know for transverse stationary waves in a
+The two ends of the string are fixed, i.e. with nodes at the ends, as shown in Figure 1.
+(a) Considering that the frequency of light is the same in any medium and that the laser cavity is
+The refractive index of a medium n is the ratio of the wavelength of light within
+The cavity, and the wavelength of that same light in the vacuum, 0.
+(b) Get an expression for the modes frequencies in a cavity of length L. It shows that the
+frequency separation between two consecutive modes is
+nL
+c
+f
+2
+/</p>
+<p>, where c is the speed of light in
+The void.</p>
+<p>1 The word laser is formed by the English acronyms for the process responsible for its operation: Light Amplification by
+Stimulated Emission of Radiation (amplification of light by stimulated emission of radiation).
+Come on in .
+Fig. 1. The cavity mode m
+Spanish Olympics in Physics
+The following is the list of the categories of products:
+The European Union has a number of important objectives:
+We’ll consider a ruby laser (like the first laser that worked in 1960) with index
+a refractive index of n = 1,760 and a cavity length L = 200,0 mm. The speed of light in a vacuum is
+m/s
+10
+998
+,
+2
+8</p>
+<p>c
+.
+(c) Calculate the frequency of the fundamental mode of this cavity, f1, and the separation between two modes
+consecutive,
+f</p>
+<p>.
+(d) If the ruby laser emits light with a spectrum centered on a wavelength in the vacuum 0 = 694.3 nm, what
+is the order number, m, of the mode involved?
+The active medium can only amplify light within a
+narrow frequency range, defined by its curve of
+The value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net
+frequency of light. Frequency not exceeded
+a certain profit threshold value are not amplified, because
+Losses outweigh profits, and in practice they do not.
+They appear in the laser radiation. The typical profit curve
+The active medium is a Lorentzian function, as
+2
+2
+0
+)
+2
+/
+(
+)
+(
+)
+(</p>
+<p>A</p>
+<p>(1)
+where, as is easy to verify, 0
+is the frequency at which the maximum gain is reached, max, and is
+the width of the curve at half its height (see Figure 2). For our ruby laser, the maximum of the curve
+corresponds to the wavelength already mentioned, = 694,3 nm, and the width is
+Hz
+10
+0
+,8
+8</p>
+<p>. A is a
+constant whose value you won’t need.
+(e) If only efficiently amplified frequencies with a gain of more than 10% of max , how many
+Will the modes appear in the light emitted by the laser? For simplicity’s sake, suppose that one of the ways involved is to
+It’s perfectly focused on the profit curve.
+(f) Assuming that the gain curve does not depend on the length of the cavity, calculate the maximum length
+It can have only one mode to appear in the laser light.</p>
+<p>2 If more than one mode is efficiently amplified, the light emitted by the laser contains radiation at a frequency range
+within the profit curve, and the laser is said to be multimodal. These lasers are used in applications where the
+The Commission has already adopted a number of proposals for a new directive.
+3 The single-mode lasers emit very monochrome light. This is necessary, for example, for the registration of holograms or
+the communication by optical fiber.
+Fig. 2.</p>
+<p>0</p>
+<p>Max
+Max/2
+Spanish Olympics in Physics
+The following is the list of the categories of products:
+The European Union has a number of important objectives:
+P3 Solution
+(a) As is well known, the wavelength, frequency, f, and propagation speed, v, of any
+The harmonic wave is</p>
+<p>f</p>
+<p>v</p>
+<p>(2)</p>
+<p>In particular, the propagation rate of an electromagnetic wave in vacuum is
+f
+c
+0</p>
+<p>, y en un
+The mean material refractive index n speed is</p>
+<p>n
+f
+n
+c
+0</p>
+<p>v</p>
+<p>(3)</p>
+<p>Comparing (2) and (3) is obtained</p>
+<p>n
+0</p>
+<p>(4)
+(b) The known stationary wave condition in a space of L length, with nodes at both ends, is</p>
+<p>2</p>
+<p>m
+L</p>
+<p>(5)</p>
+<p>where m is an integer. Combining this equation with (4) and (3) and clearing the frequency is
+They get the possible frequencies,
+m
+f
+, of the laser cavity modes</p>
+<p>L
+n
+c
+m
+fm
+2</p>
+<p>(6)</p>
+<p>Therefore, the frequency separation between two consecutive modes of order m and m+1 is</p>
+<p>L
+n
+c
+f
+2</p>
+<p>(7)
+(c) From (6) and (7), it follows that the frequency of
+1f of the fundamental mode, corresponding to m = 1,
+It coincides with
+f</p>
+<p>. Operating with the data is obtained</p>
+<p>Hz
+10
+259
+,
+4
+8
+1</p>
+<p>f
+f</p>
+<p>(8)
+(d) The frequency of light for the wavelength = 694.3 nm could be calculated, taken to (6) and cleared m,
+But it is faster and more direct to take into account (4) and (5), where it follows that</p>
+<p>0
+2
+L
+n
+m</p>
+<p>The result that appears on the calculator screen is 1 013 970,90595. But it’s supposed to be m
+whole, so it’s tempting to round off the nearest whole and answer that order of the mode implies</p>
+
+<p><img src="../_attachments/2015-primera_prueba_2015/2015-primera_prueba_2015_p7_f5.png" alt width="auto" height="auto"/>
+<em>Modo m in cavità laser, m ventri</em></p>
+
+
+<p><img src="../_attachments/2015-primera_prueba_2015/2015-primera_prueba_2015_p8_f6.png" alt width="auto" height="auto"/>
+<em>Curva di guadagno lorentziana gamma(nu)</em></p>
+
+
+<p><img src="../_attachments/2015-primera_prueba_2015/2015-primera_prueba_2015_p10_f7.png" alt width="auto" height="auto"/>
+<em>Curva guadagno con semiampiezza Delta</em></p>
+
+
+<p><img src="../_attachments/2015-primera_prueba_2015/2015-primera_prueba_2015_p10_f8.png" alt width="auto" height="auto"/>
+<em>Spettro modi emessi, Fig. 4</em></p>
+
+
+<p><img src="../_attachments/2015-primera_prueba_2015/2015-primera_prueba_2015_p10_f9.png" alt width="auto" height="auto"/>
+<em>Spettro modi emessi, Fig. 5</em></p>
+
+<p><strong>Topic:</strong> <a href="../topics/oscillations--and--waves" class="internal internal-link alias" data-slug="topics/oscillations--and--waves">Oscillations &amp; Waves</a>, <a href="../topics/wave-optics" class="internal internal-link alias" data-slug="topics/wave-optics">Wave Optics</a>, <a href="../topics/modern-quantum-physics" class="internal internal-link alias" data-slug="topics/modern-quantum-physics">Modern-Quantum Physics</a>
+<strong>Metodi:</strong> <a href="../methods/wave-equation-(metodo)" class="internal internal-link alias" data-slug="methods/wave-equation-(metodo)">Wave Equation</a>, <a href="../methods/superposition-principle-(metodo)" class="internal internal-link alias" data-slug="methods/superposition-principle-(metodo)">Superposition Principle</a>, <a href="../methods/simple-harmonic-motion-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/simple-harmonic-motion-analysis-(metodo)">Simple Harmonic Motion Analysis</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/mirror-(object)" class="internal internal-link alias" data-slug="objects/mirror-(object)">Mirror</a>, <a href="../objects/photon-(object)" class="internal internal-link alias" data-slug="objects/photon-(object)">Photon</a>, <a href="../objects/atom-(object)" class="internal internal-link alias" data-slug="objects/atom-(object)">Atom</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1dzyhxcHOg84Bi4KclhO5VRXfwU4Gtq_W/view" class="external external-link">Testo (PDF) — p.7<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/atom-(object)" class="internal">Atom</a></li><li><a href="../objects/mirror-(object)" class="internal">Mirror</a></li><li><a href="../objects/photon-(object)" class="internal">Photon</a></li><li><a href="../prove/2015-primera_prueba_2015" class="internal">Spagna 2015</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

@@ -1,0 +1,2489 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr"><head><title>Argent 2013 Locale — Quesito 3</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="Argent 2013 Locale — Quesito 3"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Argent 2013 Locale — Quesito 3"/><meta name="twitter:description" content="Rascacielos peligroso (Walkie-Talkie) Problema 3 Rascacielos peligroso."/><meta property="og:description" content="Rascacielos peligroso (Walkie-Talkie) Problema 3 Rascacielos peligroso."/><meta property="og:image:alt" content="Rascacielos peligroso (Walkie-Talkie) Problema 3 Rascacielos peligroso."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2013__q03"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2013__q03"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Rascacielos peligroso (Walkie-Talkie) Problema 3 Rascacielos peligroso."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/cuadernillo_2013__q03" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-8398" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-8398" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Argent 2013 Locale — Quesito 3</a></div></nav><h1 class="article-title">Argent 2013 Locale — Quesito 3</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/kg/prova" class="internal internal-link tag-link">kg/prova</a><span class="note-properties-separator">, </span><a href="../tags/paese/argentina" class="internal internal-link tag-link">paese/argentina</a><span class="note-properties-separator">, </span><a href="../tags/comp/argent" class="internal internal-link tag-link">comp/argent</a><span class="note-properties-separator">, </span><a href="../tags/cluster/ottica" class="internal internal-link tag-link">cluster/ottica</a><span class="note-properties-separator">, </span><a href="../tags/topic/geometric-optics" class="internal internal-link tag-link">topic/geometric-optics</a><span class="note-properties-separator">, </span><a href="../tags/argomento/ottica" class="internal internal-link tag-link">argomento/ottica</a><span class="note-properties-separator">, </span><a href="../tags/difficolta/4" class="internal internal-link tag-link">difficolta/4</a><span class="note-properties-separator">, </span><a href="../tags/multidisciplina/mono" class="internal internal-link tag-link">multidisciplina/mono</a><span class="note-properties-separator">, </span><a href="../tags/object/mirror" class="internal internal-link tag-link">object/mirror</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:27:59.591Z">02 lug 2026</time><span>64 minuti</span></p><ul class="tags"><li><a href="../tags/kg/prova" class="internal tag-link">kg/prova</a></li><li><a href="../tags/paese/argentina" class="internal tag-link">paese/argentina</a></li><li><a href="../tags/comp/argent" class="internal tag-link">comp/argent</a></li><li><a href="../tags/cluster/ottica" class="internal tag-link">cluster/ottica</a></li><li><a href="../tags/topic/geometric-optics" class="internal tag-link">topic/geometric-optics</a></li><li><a href="../tags/argomento/ottica" class="internal tag-link">argomento/ottica</a></li><li><a href="../tags/difficolta/4" class="internal tag-link">difficolta/4</a></li><li><a href="../tags/multidisciplina/mono" class="internal tag-link">multidisciplina/mono</a></li><li><a href="../tags/object/mirror" class="internal tag-link">object/mirror</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="es"></div>
+<p><strong>Rascacielos peligroso (Walkie-Talkie)</strong></p>
+<p>Problema 3</p>
+<p>Rascacielos peligroso.</p>
+<p>Un nuevo rascacielos de Londres,
+conocido
+informalmente
+como
+el
+“Walkie-Talkie” ha sido acusado de
+reflejar la luz que fundió las piezas de
+un coche estacionado en una calle
+cercana. Este edificio de 37 pisos
+diseñado
+por
+Rafael
+Viñoly,
+un
+arquitecto nacido en Uruguay y
+educado en Argentina, tiene la forma
+esquematizada en la Figura 1 (vista
+lateral de la Foto A).</p>
+<p>Foto A
+Martin Lindsay aparcó su Jaguar XJ negro en el centro financiero de Londres,
+también conocido como la City de Londres, el jueves 29 de agosto por la tarde.
+Cuando regresó, unas dos horas más tarde, descubrió que algunas partes de su
+vehículo -incluyendo el espejo retrovisor y la insignia- se habían derretido.
+Foto B</p>
+<pre><code>  Foto C 
+</code></pre>
+<p>La compañía de seguros de la empresa constructora, le ha encargado a Ud. que
+determine si estos hechos son factibles para responder a los reclamos
+económicos del damnificado.<br/>
+Para ello los constructores le han facilitado el esquema de la Figura 1 que
+representa una vista lateral del edificio, las dimensiones relevantes y algunas
+características a tener en cuenta, a saber:</p>
+<ul>
+<li>En los primeros 50 m de altura el edificio es recto.</li>
+<li>En los últimos 80 metros, el perfil responden a una curvatura de radio R =
+325 m</li>
+<li>A la hora que sucedió el hecho, los rayos solares inciden formando un
+ángulo de 50º respecto a la normal al suelo.
+Para cumplir con la tarea, le sugerimos realizar las siguientes consignas:
+a) Calcule a qué distancia del pie del edificio incide el rayo 1 reflejado.</li>
+</ul>
+<p>OAF 2013 - 10
+b) Calcule el ángulo  que forma la recta tangente a la superficie del
+edificio con la normal al suelo en el punto de incidencia del rayo 2 .
+c) Calcule a qué distancia del pie del edificio incide el rayo 2 reflejado.
+d) Calcule el largo de la región donde se concentra la luz reflejada en el
+piso.
+e) Sabiendo que la intensidad de radiación solar promedio que llega a la
+superficie de la Tierra es de 198 W/m2 y que la reflectividad de la
+superficie del edificio es del 50%,  calcule la intensidad de radiación  en
+el sector iluminado.
+f) Sabiendo que el espejo retrovisor del auto está confeccionado con PBT,
+cuyas propiedades están dadas en la Tabla 1, y teniendo en cuenta que
+de acuerdo a la información brindada por Jaguar el volumen de PBT del
+espejo es V = 0.0005 m3  y que la superficie expuesta a la luz es S =
+0.02 m2, calcule cuanto tiempo debe permanecer  estacionado el auto
+para que comience a deformarse el espejo. (Suponga que la
+temperatura ambiente es de 20ºC)</p>
+<p>Densidad del PBT
+1.31 g/cm3
+Coeficiente de absorción de radiación
+70%
+Temperatura de inicio de deformación
+90 ºC
+Calor específico del PBT
+1500 J/(ºC kg)
+Tabla 1</p>
+<p>OAF 2013 - 11</p>
+<p>OAF 2013 - 12
+Hoja de soluciones Problema 3: Rascacielos peligroso.</p>
+<p>a)</p>
+<p>b)</p>
+<p>c)</p>
+<p>d)</p>
+<p>e)</p>
+<p>f)</p>
+<p>OAF 2013 - 13</p>
+<p>Instancia Nacional
+Prueba Experimental</p>
+<p>OAF 2013 - 14
+Qué tubooo!!!</p>
+<p>Marco teórico
+Un  tubo de Kundt es un dispositivo que permite estudiar ondas de sonido
+estacionarias. El dispositivo consiste de un tubo cilíndrico, cerrado por ambos
+extremos. En uno de los extremos se ubica un emisor de ondas sonoras de una
+dada frecuencia ( ) y en el otro extremo, un detector de las mismas. El
+funcionamiento del tubo de Kundt se basa en la generación de ondas
+estacionarias en la región comprendida entre el emisor y el detector. Las ondas
+estacionarias se producen al superponerse dos ondas de igual amplitud y
+frecuencia ( ), que viajan paralelas al eje del tubo, una de ellas en el sentido<br/>
+emisor-detector, y la otra en el sentido opuesto (esto es, en el sentido detector-
+emisor). Esta última onda resulta de la reflexión de la primera onda (generada
+por el emisor) en el extremo del tubo donde se encuentra ubicado el detector.</p>
+<p>Las ondas estacionarias se caracterizan por la existencia de zonas donde la
+onda tiene amplitud máxima (máximos o vientres) y otras con amplitud cero
+(nodos), las cuales tienen posiciones constantes en el tiempo. El número de
+nodos y máximos que se establecen dentro del tubo de Kundt depende de la
+longitud del mismo y de la frecuencia de la onda emitida; sin embargo la
+velocidad de propagación ( ) de la onda permanece constante. La distancia
+existente entre dos nodos consecutivos, o entre dos máximos consecutivos,
+siempre es igual a media longitud de onda.<br/>
+La velocidad de propagación de la onda está relacionada con su longitud de
+onda  y con su frecuencia   por la expresión:</p>
+<pre><code>   
+</code></pre>
+<p>[1]</p>
+<p>Entonces, en base a la ecuación [1], un tubo de Kundt permite realizar
+mediciones para determinar la velocidad del sonido.</p>
+<p>Descripción del dispositivo de medición
+El tubo de Kundt que se presenta aquí consiste de una cavidad cilíndrica, cuyos
+extremos están limitados por un emisor y por un detector de ondas de
+ultrasonido. La posición del detector se encuentra fija mientras que el emisor se
+encuentra ubicado en un émbolo cuya posición puede variarse respecto del
+detector. Esto permite variar la distancia entre el emisor y el detector y, por lo
+tanto, la longitud de la cavidad cilíndrica. El émbolo está montado sobre un
+Ondas estacionarias en un tubo
+Tubo ( cavidad)
+nodo
+máximo
+/2
+/2
+emisor
+detector
+Figura 1</p>
+<p>OAF 2013 - 15
+calibre (Ver Uso Calibre en Apéndice), mediante el cual se puede medir la
+separación entre dos posiciones diferentes del mismo  Ver Figura 2.</p>
+<p>Terminales de la
+resistencia<br/>
+Multímetro
+posicionado para
+medir<br/>
+Perilla P, para
+cambiar el valor
+de<br/>
+Figura 2
+Terminales de
+voltaje
+Multímetro posicionado
+para medir voltajes</p>
+<p>OAF 2013 - 16
+Emisor
+El emisor es un dispositivo que genera ondas sonoras en el rango de
+frecuencias entre 37000Hz y 42000Hz. El emisor se encuentra conectado a un
+circuito electrónico que permite variar la frecuencia    de la onda de ultrasonido.
+Se puede modificar la frecuencia de la onda generada variando el valor de la
+resistencia   que está conectada al mismo.
+La relación entre la frecuencia y el valor de la resistencia   está dada por la
+siguiente fórmula:</p>
+<p>[2]</p>
+<p>donde   está dada en kilo Hertz (   ) y   en kilo Ohm ( ).
+Los valores de a y b son:</p>
+<pre><code>  
+
+             
+
+</code></pre>
+<p>Nota:<br/>
+Recuerde que la letra   significa kilo  =  1000 = 103</p>
+<p>El valor de resistencia    se puede ajustar rotando la perilla P (ver Figura 2) y se
+puede determinar utilizando un multímetro colocado en función de óhmetro ()
+(Ver Uso Multímetro en Apéndice)</p>
+<p>Detector
+Es un dispositivo que transforma la amplitud de ondas de ultrasonido a una señal
+de voltaje eléctrico continuo. Este voltaje se puede medir con un multímetro
+colocado en la función voltímetro (DCV) (Ver Uso Multímetro en Apéndice).</p>
+<p>Funcionamiento
+Al fijar un valor de la resistencia   conectada al generador de ondas, el emisor
+emite una onda de ultrasonido cuya frecuencia f está determinada por la
+ecuación [2], y se establecen ondas estacionarias en la cavidad cilíndrica.
+Modificando la posición del embolo se varía la longitud de la cavidad; cuando la
+distancia (    ) que separa el emisor del detector es un número entero de semi-
+longitudes de onda se tiene la denominada condición de resonancia, esto es
+cuando:</p>
+<p>
+(n es: 1,2,3,4,…)<br/>
+[3]</p>
+<p>Por lo tanto, si se cambia     , cambia  la cantidad de nodos y máximos en el
+interior de la cavidad. Esto produce que la señal registrada por el detector varíe,
+alcanzando valores máximo o mínimos, dependiendo si la posición del detector
+se corresponde a un máximo o a un nodo de la onda estacionaria.</p>
+<p>OAF 2013 - 17
+Objetivo:<br/>
+Determinar la velocidad del sonido.
+Consignas</p>
+<p>Parte 1
+A- Determinar el rango de resistencias   que está asociado al rango de
+frecuencias ( ) en las que trabaja el equipo. Usar la ecuación 2.
+B- Posicionar la perilla P de modo de leer en el multímetro un valor de   que
+esté dentro del rango de trabajo del equipo. Registrar este valor (  ) con
+su correspondiente incerteza.
+C- Determinar, usando la ecuación 2, el valor de frecuencia    asociado a
+. Registrar este valor (  ). con su correspondiente incerteza.
+D- Repetir el procedimiento anterior para otros dos valores de resistencia<br/>
+y   . Registrar estos valores y los valores de  frecuencia    y<br/>
+correspondientes</p>
+<p>Parte 2
+E- Posicionar la perilla P de modo de leer en el multímetro uno de los
+valores de   elegidos (  ).
+F-  Determinar la posición de un nodo, registrar esta posición.
+G- Mover el émbolo y determinar el desplazamiento   del emisor
+correspondiente a detectar 5 nodos consecutivos  de la cavidad cilíndrica.
+H- Determinar la longitud de onda.
+I- Calcular la velocidad del sonido.
+Nota:<br/>
+-Para realizar las mediciones de voltaje, conecte los cables de tal manera de
+obtener una lectura positiva en el display.</p>
+<ul>
+<li>Los nodos están asociados a valores absolutos mínimos de voltaje; estos
+valores no necesariamente son nulos y tampoco son todos iguales.</li>
+<li>Los valores de voltaje pueden verse afectados por el contacto del operador con
+el equipo, para que el dato de voltaje sea más confiable no se debe tocar el
+equipo al registrar dicho valor.</li>
+</ul>
+<p>Parte 3
+J- Posicionar la perilla P de modo de leer en el multímetro otro de los
+valores de   elegido (  ).
+K- Ubicar el emisor en una posición correspondiente a un nodo y registrar
+esta posición como posición inicial.
+L- Desplazar el emisor de la posición inicial una distancia que se
+corresponda al siguiente nodo, registrar esta posición. Desplazar
+nuevamente el embolo hasta  el siguiente  nodo  y registrar esta posición.
+Realizar este procedimiento al menos 7 veces, esto es desplazar el
+embolo para encontrar la posición de 7 nodos consecutivos y registrarlas.
+M- Graficar las posiciones registradas en función del número de nodos que
+se detectan al desplazar el emisor.
+N- Ajustar los puntos graficados mediante una recta.
+O- Determinar la pendiente de la recta y determinar la longitud de onda del
+sonido dentro del tubo.
+P- Calcular la velocidad del sonido.</p>
+<p>Parte 4
+Q- Posicionar la perilla P de modo de leer en el multímetro el tercer valor de
+resistencia elegido (  ).
+R-  Medir la variación de la señal de voltaje en la salida del detector en
+función de la posición del émbolo. Realizar el muestreo con intervalos no</p>
+<p>OAF 2013 - 18
+mayores a 0.5 mm para un rango no inferior a 20mm.  Medir
+aproximadamente 40 valores.
+S- Hacer un grafico con los valores de voltaje medidos en función de las
+posiciones del émbolo.
+T- Determinar la longitud de onda utilizando el gráfico.
+U- Calcular la velocidad del sonido.</p>
+<p>Parte 5
+V- Comparar los valores de la velocidad del sonido encontrados. Determinar
+si estos valores son distinguibles o indistinguibles.</p>
+<h2 id="apéndiceuso-del-calibreel-calibre-provisto-tiene-una-apreciación-de-002mma-continuación-se-describe-brevemente-como-realizar-una-lectura-en-el-calibre">Apéndice:<br/>
+Uso del calibre
+El calibre provisto tiene una apreciación de 0,02mm.
+A continuación se describe brevemente como realizar una lectura en el calibre.<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#apéndiceuso-del-calibreel-calibre-provisto-tiene-una-apreciación-de-002mma-continuación-se-describe-brevemente-como-realizar-una-lectura-en-el-calibre" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="ubicar-el-cero-del-nonio-vernier-reglita-desplazable">Ubicar el cero del nonio (vernier, reglita desplazable)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ubicar-el-cero-del-nonio-vernier-reglita-desplazable" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="leer-en-la-escala-milimetrada-la-cantidad-de-milímetros-que-mejoraproxima-por-debajo-a-la-posición-del-cero-del-nonio-m">Leer en la escala milimetrada la cantidad de milímetros que mejor
+aproxima (por debajo) a la posición del cero del nonio (M).<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#leer-en-la-escala-milimetrada-la-cantidad-de-milímetros-que-mejoraproxima-por-debajo-a-la-posición-del-cero-del-nonio-m" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="determinar-la-raya-del-nonio-que-coincide-con-una-correspondiente-a-laescala-milimetrada-contar-el-número-de-divisiones-n-que-hay-entre-elcero-del-nonio-y-la-raya-que-coincide">Determinar la raya del nonio que “coincide” con una correspondiente a la
+escala milimetrada. Contar el número de divisiones (N) que hay entre el
+cero del nonio y la raya que “coincide”.<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#determinar-la-raya-del-nonio-que-coincide-con-una-correspondiente-a-laescala-milimetrada-contar-el-número-de-divisiones-n-que-hay-entre-elcero-del-nonio-y-la-raya-que-coincide" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Informar la lectura (M +N<em>0.02) mm. En el ejemplo de la figura, la lectura
+es: (2+35</em>0.02)mm= 2,70mm.</p>
+<h2 id="uso-del-multímetroa-continuación-se-describe-brevemente-como-realizar-una-lectura-de-resistencia">Uso del multímetro
+A continuación se describe brevemente como realizar una lectura de resistencia.<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#uso-del-multímetroa-continuación-se-describe-brevemente-como-realizar-una-lectura-de-resistencia" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="verificar-que-por-la-resistencia-no-esté-circulando-corriente-apagar-lafuente">Verificar que por la resistencia no esté circulando corriente (apagar la
+fuente).<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#verificar-que-por-la-resistencia-no-esté-circulando-corriente-apagar-lafuente" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="ubicar-la-perilla-indicadora-en-el-mayor-valor-de-la-escala-de-ohmios-">Ubicar la perilla indicadora en el mayor valor de la escala de ohmios ().<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ubicar-la-perilla-indicadora-en-el-mayor-valor-de-la-escala-de-ohmios-" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="conectar-los-cables-provistos-en-los-lugares-de-conexión-indicados-comocom-cable-negro-y-en-vhz-cable-rojo">Conectar los cables provistos en los lugares de conexión indicados como
+COM (cable negro) y en VHz (cable rojo).<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#conectar-los-cables-provistos-en-los-lugares-de-conexión-indicados-comocom-cable-negro-y-en-vhz-cable-rojo" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="conectar-o-apoyar-firmemente-cada-uno-de-los-extremos-libres-de-estoscables-en-los-extremos-de-la-resistencia-desconocida">Conectar o apoyar firmemente cada uno de los extremos libres de estos
+cables en los extremos de la resistencia desconocida.<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#conectar-o-apoyar-firmemente-cada-uno-de-los-extremos-libres-de-estoscables-en-los-extremos-de-la-resistencia-desconocida" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="leer-el-display-cambiar-la-escala-de-ser-posible-para-aumentar-laprecisióna-continuación-se-describe-brevemente-como-realizar-una-lectura-de-voltaje">Leer el display. Cambiar la escala, de ser posible, para aumentar la
+precisión.<br/>
+A continuación se describe brevemente como realizar una lectura de voltaje.<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#leer-el-display-cambiar-la-escala-de-ser-posible-para-aumentar-laprecisióna-continuación-se-describe-brevemente-como-realizar-una-lectura-de-voltaje" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="ubicar-la-perilla-indicadora-en-el-mayor-valor-de-la-escala-de-vcc-v">Ubicar la perilla indicadora en el mayor valor de la escala de VCC (V—).<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ubicar-la-perilla-indicadora-en-el-mayor-valor-de-la-escala-de-vcc-v" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="conectar-los-cables-provistos-en-los-lugares-de-conexión-indicados-comocom-cable-negro-y-en-vhz-cable-rojo-1">Conectar los cables provistos en los lugares de conexión indicados como
+COM (cable negro) y en VHz (cable rojo).<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#conectar-los-cables-provistos-en-los-lugares-de-conexión-indicados-comocom-cable-negro-y-en-vhz-cable-rojo-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Conectar o apoyar firmemente cada uno de los extremos libres de estos
+cables en los terminales en donde se desea medir el voltaje.
+Leer el display. Cambiar la escala, de ser posible, para aumentar la precisión.</p>
+<p>OAF 2013 - 19
+Hoja de soluciones</p>
+<p>Parte 1
+A-</p>
+<p>Rango de resistencias.</p>
+<p>B-
+Valor de    con su correspondiente incerteza.</p>
+<p>C-
+Valor de     con su correspondiente incerteza.</p>
+<p>D-
+Valores de resistencia     y    con sus correspondientes incertezas<br/>
+Valores de frecuencia     y    con sus correspondientes incertezas</p>
+<p>Parte 2
+E- NO TIENE PUNTAJE.</p>
+<p>F-</p>
+<p>Posición de un nodo</p>
+<p>G-
+El desplazamiento   del emisor correspondiente a 5 nodos consecutivos<br/>
+de la cavidad cilíndrica.</p>
+<p>H-
+Longitud de onda.
+I-
+Valor de velocidad del sonido obtenido.</p>
+<p>OAF 2013 - 20
+Parte 3
+J- NO TIENE PUNTAJE.</p>
+<p>K-
+Posición correspondiente a un nodo (posición inicial).</p>
+<p>L-
+Posiciones de 7 nodos consecutivos.</p>
+<p>M- Gráfico. HOJA MILIMETRADA</p>
+<p>N- Ajustar los puntos graficados mediante una recta. HOJA MILIMETRADA.</p>
+<p>O-
+Pendiente de la recta y  longitud de onda del sonido</p>
+<p>P-
+Valor de velocidad del sonido obtenido.
+Parte 4
+Q- NO TIENE PUNTAJE.</p>
+<p>R- TABLA DE DATOS</p>
+<p>OAF 2013 - 21</p>
+<p>OAF 2013 - 22</p>
+<p>S- Grafico HOJA MILIMETRADA</p>
+<p>T-
+Longitud de onda obtenida a partir del gráfico.</p>
+<p>U-
+Valor de velocidad del sonido obtenido.
+Parte 5
+V-
+Son distinguibles o indistinguibles.</p>
+<p>OAF 2013 - 23</p>
+<p>Primer Prueba Preparatoria
+Mecánica</p>
+<p>OAF 2013 - 24
+Problema Teórico 1</p>
+<p>Suponga dos cuerpos de masas m1 y m2<br/>
+colgados, mediante hilos inextensibles y de
+masa despreciable, como se muestra en la
+figura.</p>
+<p>a) Determine  la tensión que soporta
+cada uno de los hilos.
+Considere la situación siguiente: la masa m2<br/>
+se eleva una altura h (verticalmente) a partir
+de la cual se la suelta. Suponiendo que los
+hilos soportan una tensión máxima Tc (antes
+de romperse) y que el proceso de
+rompimiento se produce en un tiempo t*:</p>
+<p>b) Cuál de los hilos se romperá primero?<br/>
+Justifique
+c) Cuál es la máxima altura que puede
+elevarse la masa m2  antes de que se
+den las condiciones para el
+rompimiento del hilo?
+Se reemplaza el hilo que une a m1  con m2<br/>
+por un resorte de constante elástica k y
+longitud natural l0.</p>
+<p>d) Calcule  el estiramiento del resorte que une ambas masas cuando el
+sistema está en equilibrio.
+Suponga que se eleva la masa m2  una altura h (en forma vertical).</p>
+<p>e) Determine la tensión que soporta  el  hilo en términos del estiramiento del
+resorte que une ambas masas.</p>
+<p>m1<br/>
+m2<br/>
+m1<br/>
+m2<br/>
+h</p>
+<p>OAF 2013 - 25
+Problema Teórico 2</p>
+<p>Considere una viga de largo L y masa mb, apoyada como se muestra en la<br/>
+figura 1.</p>
+<p>a) Determine  la  reacción de cada uno de los apoyos (A1 y A2).
+Suponga que sobre la biga se apoya un cuerpo de masa mc.</p>
+<p>b) Calcule la  reacción  de cada uno de los apoyos en función de la posición
+del objeto.
+En el caso a), si los apoyos de la viga consisten en resortes de constantes
+elásticas k1 y k2:</p>
+<p>c) Encuentre  las longitudes naturales de cada uno  de los resortes para que
+la viga permanezca horizontal.</p>
+<p>A1
+mc
+A2
+L1</p>
+<p>L2</p>
+<p>L3</p>
+<p>A1
+A2
+L1
+L2</p>
+<p>Figura 1
+Figura 2</p>
+<p>OAF 2013 - 26
+Problema Teórico 3</p>
+<p>Una partícula puntual de masa m1  cae por la rampa de la figura e impacta contra
+otra partícula puntual de masa m2  que está suspendida mediante un hilo de
+largo L.</p>
+<p>a) Si el choque es elástico (o sea que se conserva la energía mecánica),
+determine  la amplitud de la oscilación de la masa que pendula y la
+componente horizontal de la velocidad de la masa m1  luego del choque.
+b) Si  el choque es plástico (o sea que no se conserva la energía mecánica)
+y ambas partículas quedan pegadas, determine la amplitud de la
+oscilación de  la masa que pendula.
+c) Calcule  la frecuencia de oscilación del péndulo en cada uno de los casos
+anteriores.
+Suponga que m1  es mayor que m2.</p>
+<p>m1<br/>
+L
+m2</p>
+<p>OAF 2013 - 27
+Problema Teórico 1
+Hoja de respuestas.</p>
+<p>Inciso</p>
+<p>puntaje
+a)</p>
+<p>b)</p>
+<p>c)</p>
+<p>d)</p>
+<p>e)</p>
+<p>OAF 2013 - 28
+Problema Teórico 2
+Hoja de respuestas.</p>
+<p>Inciso</p>
+<p>puntaje
+a)</p>
+<p>b)</p>
+<p>c)</p>
+<p>OAF 2013 - 29
+Problema Teórico 3
+Hoja de respuestas.</p>
+<p>inciso</p>
+<p>puntaje
+a)</p>
+<p>b)</p>
+<p>c)</p>
+<p>OAF 2013 - 30
+Problema Experimental
+Determinación del ángulo de reposo de materiales granulados.<br/>
+Elementos disponibles<br/>
+
+Acrílico  (caja de CD)
+
+Cinta adhesiva de papel
+
+Un marcador (en lo posible indeleble)
+
+Una regla, transportador.
+
+Hojas en blanco, lápiz.
+
+Una trincheta o cuchillo (para cortar las pestañas de acrílico). Recuerde
+que su uso es peligroso y debe tener el máximo cuidado; en lo posible
+esta tarea debe ser supervisada por el docente.
+
+Un pequeño embudo de plástico o  de papel<br/>
+
+Sal fina, entrefina (parrillera) y gruesa.
+
+Azúcar.
+
+Balanza (optativa)</p>
+<p>Figura 1.
+Consigna 1
+Armar el aparato de medición (celda de Hele-Shaw).
+Procedimiento</p>
+<ol>
+<li>Desarme  la caja de CD, quedándose sólo con las caras transparentes.
+Figura 1.</li>
+<li>Con la trincheta, haciendo presión, corte las pestañas de acrílico que hay
+en su interior (las que sostenían el plástico sobre el que va apoyado el
+CD).</li>
+<li>Corte la franja de las placas que corresponde a las pestañas en donde
+están las “bisagras” de la caja. Esta tarea es difícil y puede ser peligrosa,
+pida el asesoramiento del profesor.</li>
+<li>Una ambas placas, como si fuese a armar nuevamente la caja. Asegúrela
+y selle los bordes (excepto la boca) con la cinta adhesiva de papel. Figura</li>
+<li></li>
+</ol>
+<p>OAF 2013 - 31
+Consigna 2
+Determinar el ángulo de reposo de materiales granulados.</p>
+<p>Figura 2
+Procedimiento</p>
+<ul>
+<li>Determinar  el ángulo de reposo de la sal fina.</li>
+</ul>
+<ol start="5">
+<li>Cargue la “celda” con sal fina (mediante el embudo) hasta
+aproximadamente la mitad de su altura. Figura 3a.</li>
+<li>Sin que se pierda su contenido rote la celda hasta lograr que se forme
+una superficie plana horizontal. Figura 3b.</li>
+<li>Vuelva  la celda a la posición de trabajo, rotándola suavemente. Figura
+3c.</li>
+<li>Determine el ángulo de reposo de la sal fina.</li>
+<li>Repita este procedimiento, al menos 10 veces.</li>
+</ol>
+<p>Consigna 3</p>
+<ul>
+<li>Determinar el ángulo de reposo de la sal entre-fina (parrillera), sal gruesa y del
+azúcar.</li>
+</ul>
+<p>Figura 3a
+Figura 3b
+Figura 3c</p>
+<p>OAF 2013 - 32
+Consigna 4</p>
+<ul>
+<li>Determinar la densidad aparente de cada una de las “sales” usadas y, también,
+la del azúcar.</li>
+</ul>
+<ol start="10">
+<li>Llene con sal un recipiente de volumen conocido.</li>
+<li>Determine la masa de sal empleada para llenar el recipiente.</li>
+<li>Calcule la densidad aparente de los materiales granulados que usó (sal,
+etc.).</li>
+</ol>
+<p>Consigna 5</p>
+<ul>
+<li>Confeccionar un grafico “ángulo de reposo (ordenada) versus densidad
+aparente (abscisa)”</li>
+</ul>
+<p>OAF 2013 - 33
+Problema Experimental
+Hoja de respuestas.
+Consigna 1
+inciso</p>
+<p>puntaje</p>
+<p>Dispositivo construido.</p>
+<p>Consignas 2 y 3
+inciso</p>
+<p>puntaje</p>
+<p>Tabla de valores medidos, correspondientes al ángulo
+de reposo de cada sal usada y del azúcar.</p>
+<p>Consigna 4
+inciso</p>
+<p>puntaje</p>
+<p>Tabla de valores medidos, correspondientes a  la
+densidad aparente de cada una de las “sales” usadas
+y, también, la del azúcar.</p>
+<p>Consigna 5
+inciso</p>
+<p>puntaje</p>
+<p>Grafico “ángulo de reposo versus densidad aparente”</p>
+<p>OAF 2013 - 34</p>
+<p>Segunda Prueba Preparatoria
+Termodinámica, Electricidad y
+Magnetismo</p>
+<p>OAF 2013 - 35
+Problema Teórico 1</p>
+<p>En un recipiente se han medido 300 cm3 de tolueno a la temperatura de 0 ºC y
+en otro recipiente se han medido 110 cm3 de tolueno a la temperatura de 100 ºC.
+El coeficiente de dilatación cúbica del tolueno es  = 10-3 ºC-1. Se supone que en
+la mezcla de los líquidos no hay pérdidas de calor con el exterior.
+Si se mezclan los dos líquidos encuentre:
+a) una expresión para el Volumen de tolueno a 100 oC en función del
+volumen de tolueno a 0 oC, V0, y del coeficiente de dilatación cúbica 
+b) la densidad del tolueno a 100 oC,
+c) la temperatura de equilibrio de la mezcla,
+d) la densidad del tolueno a la temperatura de equilibrio,
+e) el volumen de la mezcla,</p>
+<p>OAF 2013 - 36
+Problema Teórico 2</p>
+<p>Una bombilla eléctrica de resistencia Ro = 2 funciona a un voltaje Uo= 4,5
+V. Se conecta a una batería de resistencia interna despreciable y fuerza
+electromotriz U = 6 V mediante un reóstato de cursor que funciona como un
+potenciómetro. Se desea que la eficiencia (e = potencia consumida en la
+bombilla / Potencia total de la batería) no sea menor que 0,6.</p>
+<p>a) Calcular el valor de la resistencia del reóstato.<br/>
+b) ¿Cuál es la máxima eficiencia posible?
+c) En la situación del inciso b) ¿Cómo se debe conectar la bombilla al
+reóstato?</p>
+<p>El esquema del circuito eléctrico es el de la figura 1.</p>
+<p>OAF 2013 - 37
+Problema Teórico 3</p>
+<p>Un electrón de carga q = -1.6 x 10-19 C se mueve con una velocidad v = (0.5 x
+105 i + 0.5 x 105 j) (m/s). En el momento en que pasa por el punto de
+coordenadas (1, 1) calcular:</p>
+<p>a) El campo magnético B que el electrón crea en los puntos (-1, -1) y (0, 2).</p>
+<p>La fuerza que sufre un protón situado en el punto (0, 2) si lleva una velocidad:</p>
+<p>b) v = 2 x 105 k (m/s)</p>
+<p>c) v = 2 x 105 j (m/s)</p>
+<p>Datos: 0 = 4 x 10-7 Tm/A
+(Nota: los símbolos en negrita denotan vectores)</p>
+<p>OAF 2013 - 38
+Problema Teórico 1
+Hoja de respuestas.</p>
+<p>inciso</p>
+<p>puntaje
+a)</p>
+<p>V100 =</p>
+<p>2p
+b)</p>
+<p>100 =</p>
+<p>2p
+c)</p>
+<p>Te =</p>
+<p>2p
+d)</p>
+<p>equilibrio =</p>
+<p>1p
+e)</p>
+<p>Vmezcla =</p>
+<p>3p</p>
+<p>OAF 2013 - 39
+Problema Teórico 2
+Hoja de respuestas.</p>
+<p>inciso</p>
+<p>puntaje
+a)</p>
+<p>R =</p>
+<p>4p
+b)</p>
+<p>emax =</p>
+<p>4p
+c)</p>
+<p>Diagrama</p>
+<p>2p</p>
+<p>OAF 2013 - 40
+Problema Teórico 3
+Hoja de respuestas.</p>
+<p>inciso</p>
+<p>puntaje
+a)</p>
+<p>B(-1, -1) =</p>
+<p>B( 0,  2) =</p>
+<p>4p
+b)</p>
+<p>v =</p>
+<p>3p
+c)</p>
+<p>v =</p>
+<p>3p</p>
+<p>OAF 2013 - 41
+Problema Experimental
+Objetivo:</p>
+<ul>
+<li>Estudiar la potencia calórica de una vela.</li>
+</ul>
+<p>Breve descripción</p>
+<p>Una vela es un cilindro de cera
+con un pabilo en el eje para que
+pueda encenderse y como
+resultado de la combustión de la
+cera irradiar luz y calor.
+La llama de la vela tiene
+diferentes temperaturas (ver la
+figura) e irradia calor y luz en
+todas direcciones. Sin embargo,
+por el mecanismo de convección,
+el calor principalmente fluye en la
+dirección vertical (hacia donde
+apunta la llama).
+Figura 1</p>
+<p>El flujo de calor que emite la
+vela en la dirección de su eje
+(vertical) se puede estudiar
+mediante el dispositivo que
+se esquematiza en la Figura
+2. El mismo consiste de un
+cubito de hielo, apoyado
+sobre una chapa metálica
+fina, que está ligeramente
+inclinada. Por debajo de la
+chapa y en coincidencia con
+un eje que pasa por el centro
+del cubito se coloca la vela.
+La llama de esta última está
+a una distancia d de la
+chapa. En el extremo inferior
+de la chapa se ubica una
+jeringa graduada, sin émbolo
+y con el extremo fino (donde
+va la aguja) tapado (podría
+ser reemplazada por una
+probeta).<br/>
+El agua producida por la fusión del hielo se recolecta en la jeringa y se determina
+su volumen Va. Determinando Va en función del tiempo (t) y sabiendo el calor
+latente del hielo (80cal/g), se puede estimar la cantidad de energía por unidad de
+tiempo (potencia) que le ha llegado al hielo proveniente de la vela.</p>
+<p>vela
+jeringa
+hielo
+chapa
+d
+agua
+Figura 2
+plastilina</p>
+<p>OAF 2013 - 42
+Consignas<br/>
+a) Enuncie algunas de las hipótesis que se han realizado en la descripción
+previa y que no se han enunciado explícitamente. Algunas que
+involucran a la chapa y se relacionan con sus dimensiones. Otras que
+se relacionan con la temperatura del ambiente, del hielo, del agua.
+b) Mida la temperatura ambiente.
+c) Implemente el dispositivo propuesto.
+d) Mida el aporte de calor proveniente  del ambiente. Determine si es
+despreciable o no.
+e) Realice las mediciones de Va en función de t para, al menos, tres
+distancias chapa-llama (d) diferentes. Cada conjunto debe estar
+compuesto por no menos de diez  pares (t, Va).
+f)   Haga un gráfico t vs masa de hielo fundido, correspondiente a cada
+distancia d. Verifique si el comportamiento es aproximadamente lineal,
+en tal caso ajuste una recta.
+g) A partir de los gráficos anteriores estime la potencia (P) recibida por el
+cubito de hielo en cada caso.
+h) Presente estos resultados en un grafico (d vs P). Extrapole estos
+resultados al valor d=0 y determine un valor PM.
+Elementos que pueden resultar de utilidad:</p>
+<ul>
+<li>Chapa metálica fina (espesor despreciable).</li>
+<li>Cubitos de hielo (al menos 3).</li>
+<li>Plastilina (para evitar que el hielo deslice como consecuencia de la
+pendiente con la que se ha puesto la chapa).</li>
+<li>Vela (marca Ranchera o de calidad equivalente).</li>
+<li>Regla, papel milimetrado o cuadriculado, lápiz.</li>
+<li>Jeringa graduada de 10ml  o más.</li>
+<li>Cronómetro.</li>
+<li>Soportes, pinzas de madera (tipo broches de los de colgar la ropa).</li>
+<li>Recipientes para agua.</li>
+</ul>
+<p>OAF 2013 - 43
+Problema Experimental
+Hoja de respuestas.</p>
+<p>Consigna
+inciso</p>
+<p>puntaje
+a)
+Hipótesis</p>
+<p>b)
+Valor</p>
+<p>c)</p>
+<p>Esquema y elementos utilizados</p>
+<p>d)</p>
+<p>Método utilizado, resultados.</p>
+<p>e)</p>
+<p>Tablas de mediciones.</p>
+<p>f)</p>
+<p>Gráficos</p>
+<p>g)</p>
+<p>Tabla de resultados</p>
+<p>h)</p>
+<p>Gráfico y valor obtenido de PM</p>
+<p>OAF 2013 - 44</p>
+<p>Instancias Locales
+Problemas Teóricos</p>
+<p>OAF 2013 - 45</p>
+
+<p><img src="../_attachments/cuadernillo_2013/cuadernillo_2013_p09_f1.png" alt width="auto" height="auto"/>
+<img src="../_attachments/cuadernillo_2013/cuadernillo_2013_p09_f2.png" alt width="auto" height="auto"/>
+<img src="../_attachments/cuadernillo_2013/cuadernillo_2013_p11_f3.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/geometric-optics" class="internal internal-link alias" data-slug="topics/geometric-optics">Geometric Optics</a>
+<strong>Metodi:</strong> <a href="../methods/ray-tracing-(metodo)" class="internal internal-link alias" data-slug="methods/ray-tracing-(metodo)">Ray Tracing</a>, <a href="../methods/thin-lens--and--mirror-equation-(metodo)" class="internal internal-link alias" data-slug="methods/thin-lens--and--mirror-equation-(metodo)">Thin Lens &amp; Mirror Equation</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../objects/mirror-(object)" class="internal internal-link alias" data-slug="objects/mirror-(object)">Mirror</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1ZjOHaivInz1ql2TMC4e_aXJri9PIrQlv/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="it"></div>
+<p>**Riscassari pericolosi (Walkie-Talkie) **</p>
+<p>Problema 3</p>
+<p>Scattezze pericolose.</p>
+<p>Un nuovo palazzo di Londra,
+Conosciuto
+informalmente
+Come
+el
+“Walkie-Talkie” è stato accusato di
+riflettere la luce che ha fonduto i pezzi di
+Una macchina parcheggiata in una strada</p>
+<ul>
+<li>Non è che. Questo edificio di 37 piani
+progettato
+Per
+Raphael .
+Viñoly,
+un
+Architetto nato in Uruguay e
+educato in Argentina, ha la forma
+Il modello di riferimento è stato illustrato in figura 1 (vedere
+la parte laterale della Foto A).</li>
+</ul>
+<p>Foto A
+Martin Lindsay ha parcheggiato la sua Jaguar XJ nera nel centro finanziario di Londra.
+nota anche come la City di Londra, giovedì 29 agosto pomeriggio.
+Quando tornò, circa due ore dopo, scoprì che alcune parti del suo
+Il veicolo - compreso lo specchio retrovisore e la segnaletica - si era sciolto.
+Foto B</p>
+<p>Foto C
+La compagnia di assicurazione della società costruttrice, ha incaricato te di fare questo. che
+determinare se tali fatti sono fattibili per rispondere ai reclami</p>
+<ul>
+<li>La situazione economica del malato.
+Per questo i costruttori hanno fornito il schema di figura 1 che
+rappresenta una vista laterale del edificio, le dimensioni rilevanti e alcune
+caratteristiche da tenere conto, in particolare:</li>
+<li>Alti 50 metri, l’edificio è retto.</li>
+<li>Negli ultimi 80 metri, il profilo risponde ad una curvatura radio R =
+325 m</li>
+<li>L’ora in cui è successo, i raggi solari incidono formando un
+angolo di 50° rispetto al normale sul suolo.
+Per fare il compito, ti consigliamo di fare le seguenti consigli:
+a) Calcolare la distanza dal piede del edificio che incide il raggio 1 riflesso.</li>
+</ul>
+<p>OAF 2013 - 10
+b) Calcolare l’angolo  che forma la retta tangente alla superficie del
+Un edificio con la normalità sul suolo al punto di incidenza del raggio 2 .
+c) Calcolare la distanza dal piede del edificio che incide il raggio 2 riflesso.
+d) Calcolare la lunghezza della regione in cui si concentra la luce riflessa nel</p>
+<ul>
+<li>Piano.
+e) sapendo che l’intensità media di radiazione solare che raggiunge la
+La superficie della Terra è di 198 W/m2 e la riflettività della
+La superficie del edificio è del 50%, calcola l’intensità di radiazione in
+il settore illuminato.
+f) sapendo che il retrovisore della macchina è realizzato con PBT,
+Le proprietà di cui al punto 1 sono indicate in tabella 1, e considerando che
+Secondo le informazioni fornite da Jaguar il volume di PBT del
+lo specchio è V = 0,0005 m3 e la superficie esposta alla luce è S =
+Calcola quanto tempo deve rimanere parcheggiato.
+per iniziare a distorsione dello specchio. (Supponiamo che la
+temperatura ambiente è di 20°C)</li>
+</ul>
+<p>Densità del PBT
+1.31 g/cm3
+Coefficiente di assorbimento delle radiazioni
+70%
+Temperatura di inizio di deformazione
+90 ºC
+Calore specifico del PBT
+1500 J/(ºC kg)
+Tabella 1</p>
+<p>OAF 2013 - 11</p>
+<p>OAF 2013 - 12
+Scheda di soluzione problema 3: pericolose scintillature.</p>
+<p>a)</p>
+<p>b)</p>
+<p>c)</p>
+<p>d)</p>
+<p>e)</p>
+<p>f)</p>
+<p>OAF 2013 - 13</p>
+<p>Instanza nazionale
+Prova sperimentale</p>
+<p>OAF 2013 - 14
+Che tubooo!!!</p>
+<p>Marco teorico
+Un tubo Kundt è un dispositivo che permette di studiare le onde sonore.</p>
+<ul>
+<li>Stazionari. Il dispositivo consiste in un tubo cilindrico, chiuso da entrambi.
+estremi. In uno degli estremi si trova un emissione di onde sonore di una
+la frequenza () e all’altra estremità un rilevatore delle stesse. El
+Il funzionamento del tubo Kundt si basa sulla generazione di onde
+i dispositivi di stazionamento nella regione compresa tra l’emittente e il rilevatore. Le onde
+Le onde stazionarie si producono superponiendo due onde di uguale ampiezza e
+frequenza (), che viaggiano parallele all’asse del tubo, una delle quali in senso
+Il sistema di emissione è stato modificato in modo da consentire l’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’emissione di un’altra.
+emittente). Questa ultima onda è il risultato della riflessione della prima onda (generata)
+per l’emissione) all’estremità del tubo dove si trova il rilevatore.</li>
+</ul>
+<p>Le onde stazionarie sono caratterizzate dall’esistenza di zone in cui l’onda stazionaria è
+L’onda ha l’ampiezza massima (massimi o ventri) e altre con l’ampiezza zero
+(nodoli), che hanno posizioni costanti nel tempo. Il numero di
+I nodi e i massimi che si stabiliscono all’interno del tubo di Kundt dipendono dalla
+La lunghezza stessa e la frequenza dell’onda emessa; tuttavia la
+La velocità di diffusione ( ) dell’onda rimane costante. La distanza
+esistente tra due nodi consecutivi o tra due massimi consecutivi,
+E’ sempre uguale alla media lunghezza d’onda.
+La velocità di diffusione dell’onda è correlata alla sua lunghezza di
+onda  e con la sua frequenza per l’espressione:</p>
+<pre><code>   
+</code></pre>
+<p>[1]</p>
+<p>Quindi, basandosi sull’equazione [1], un tubo di Kundt permette di eseguire
+misurazioni per determinare la velocità del suono.</p>
+<p>Descrizione del dispositivo di misura
+Il tubo di Kundt che si presenta qui è costituito da una cavità cilindrica,
+Le estremità sono limitate da un emisore e da un rilevatore di onde di
+Ultrasonico. La posizione del rilevatore è fissa mentre l’emittente si
+si trova situato su un emblema la cui posizione può variare rispetto al</p>
+<ul>
+<li>Il rilevatore. Questo permette di variare la distanza tra l’emittente e il rilevatore e, quindi
+la lunghezza della cavità cilindrica. Il tamburo è montato su un
+onde stazionarie in un tubo
+Tubo (cavità)
+nodo
+massimo
+/2
+/2
+emittente
+Detettore
+Figura 1</li>
+</ul>
+<p>OAF 2013 - 15
+calibro (vedi Uso calibro nell’Appendice), con il quale si può misurare la
+Sezione 2 del medesimo grafico.</p>
+<p>Termini della
+resistenza
+Multimetro
+posizionato per
+Misurare
+Perilla P, per
+Cambiare il valore
+de<br/>
+Figura 2
+Termini di
+Voltaggio
+Multimetro posizionato
+per misurare le tensioni</p>
+<p>OAF 2013 - 16
+Ismettitore
+L’emittente è un dispositivo che genera onde sonore nella gamma di
+frequenze comprese tra 37000 Hz e 42000 Hz. L’emittente è collegata a un
+circuito elettronico che permette di variare la frequenza dell’onda ultrasuonica.
+La frequenza dell’onda generata può essere modificata variando il valore di
+resistenza che è collegata a esso.
+Il rapporto tra frequenza e valore della resistenza è dato dalla
+formula seguente:</p>
+<p>[2]</p>
+<p>dove è data in kilo Hertz ( ) e in kilo Ohm ().
+I valori di a e b sono:</p>
+<pre><code>  
+
+             
+
+</code></pre>
+<p>Nota:
+Ricorda che la lettera significa kilo = 1000 = 103</p>
+<p>Il valore di resistenza può essere regolato rotando il perilo P (vedi Figura 2) e si
+può determinare utilizzando un multimetro posizionato in funzione di óhmetro ()
+(Vedere Uso del multimetro nell’appendice)</p>
+<ul>
+<li>Il rilevatore
+È un dispositivo che trasforma l’ampiezza delle onde ultrasonore in un segnale.
+di tensione continua elettrica. Questo tensione può essere misurata con un multimetro
+inserito nella funzione voltometro (DCV) (vedere Uso multimetro nell’Appendice).</li>
+</ul>
+<p>Funzionamento
+Quando si fissa un valore di resistenza collegato al generatore d’onda, l’emittente
+emette un’ onda ultrasonora la cui frequenza f è determinata dalla
+equità [2], e si stabiliscono onde stazionarie nella cavità cilindrica.
+Modificare la posizione dell’embolo varia la lunghezza della cavità; quando il
+La distanza ( ) che separa l’emissione dal sensore è un intero numero di semiconduzioni
+Le lunghezze d’onda hanno la cosiddetta condizione di risonanza, cioè
+quando:</p>
+<p>
+(n es: 1,2,3,4,…)<br/>
+[3]</p>
+<p>Quindi, se si cambia, cambia il numero di nodi e massimi nel
+all’interno della cavità. Questo provoca che il segnale registrato dal rilevatore varia,
+raggiungendo valori massimi o minimi, a seconda che la posizione del rilevatore
+corrisponde a un massimo o a un nodo dell’onda stazionaria.</p>
+<p>OAF 2013 - 17
+Obiettivo:
+Determinare la velocità del suono.
+Consigne</p>
+<p>Parte 1
+A- Determinare il grado di resistenza associato al grado di resistenza
+frequenze ( ) in cui il team opera. Usare l’equazione 2.
+B- Posizione della pelle P in modo da leggere sul multimetro un valore di
+è entro il campo di lavoro della squadra. Registrare questo valore ( ) con
+la sua corrispondente incertezza.
+C- Determinare, usando l’equazione 2, il valore di frequenza associato a
+. Registrare questo valore (). con la sua corrispondente incertezza.
+D- Ripetere la procedura precedente per altri due valori di resistenza
+y   . Registrare questi valori e i valori di frequenza e
+corrispondenti</p>
+<p>Parte 2
+E- Posizione della perla P in modo da leggere sul multimetro uno dei
+Valori di scelte ().
+F- Determinare la posizione di un nodo, registrare questa posizione.
+G- Movere l’embolo e determinare il spostamento dell’emittente
+per rilevare 5 nodi consecutivi della cavità cilindrica.
+H- Determinare la lunghezza d’onda.
+I- Calcolare la velocità del suono.
+Nota:</p>
+<ul>
+<li>Per effettuare le misurazioni di tensione, collegare i cavi in modo tale da
+ottenere una lettura positiva sul display.</li>
+<li>I nodi sono associati a valori assoluti di tensione minima;
+I valori non sono necessariamente nulli e non sono tutti uguali.</li>
+<li>I valori di voltazione possono essere influenzati dal contatto dell’operatore con
+l’apparecchio, per rendere il dato di voltage più affidabile non si deve toccare il
+il valore di cui al punto 1.</li>
+</ul>
+<p>Parte 3
+J- Posizionare la perla P in modo da leggere il multimetro di un altro
+Valori di scelto ().
+K- Posizionare l’emittente in una posizione corrispondente a un nodo e registrare
+la posizione iniziale.
+L- spostare l’emittente della posizione iniziale una distanza che si
+corrisponde al nodo successivo, registrare questa posizione. - Si spostano .
+Ritorna l’embolo al nodo successivo e registra questa posizione.
+Fare questo procedimento almeno 7 volte, cioè spostare il
+per trovare la posizione di 7 nodi consecutivi e registrarli.
+M- Grafizzare le posizioni registrate in base al numero di nodi che
+sono rilevati spostando l’emittente.
+N- Aggiustare i punti graficati con una retta.
+O- Determinare l’inclinazione della retta e determinare la lunghezza d’onda della
+il suono dentro il tubo.
+P- Calcolare la velocità del suono.</p>
+<p>Parte 4
+Q- Posizione della perla P in modo da leggere sul multimetro il terzo valore di
+resistenza scelta ().
+R- Misurare la variazione del segnale di voltazione all’uscita del rilevatore in
+funzione della posizione dell’embolo. Prendere il campionamento con intervalli non</p>
+<p>OAF 2013 - 18
+di dimensioni superiori a 0,5 mm per un intervallo non inferiore a 20 mm. Misurare
+circa 40 valori.
+S- Fare un grafico con i valori di voltage misurati in base alle
+posizioni del tamburo.
+T- Determinare la lunghezza d’onda utilizzando il grafico.
+U- Calcolare la velocità del suono.</p>
+<p>Parte 5
+V- Confronta i valori della velocità del suono trovati. Determinare
+se questi valori sono distinguibili o indistinguibili.</p>
+<h2 id="appendiceutilizzare-il-calibroil-calibro-fornito-ha-unapprezzamento-di-002-mmin-seguito-è-descritto-brevemente-come-eseguire-una-lettura-in-calibro">Appendice:
+Utilizzare il calibro
+Il calibro fornito ha un’apprezzamento di 0,02 mm.
+In seguito è descritto brevemente come eseguire una lettura in calibro.<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#appendiceutilizzare-il-calibroil-calibro-fornito-ha-unapprezzamento-di-002-mmin-seguito-è-descritto-brevemente-come-eseguire-una-lettura-in-calibro" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="localizzazione-del-nonio-vernier-regolato-mobile">Localizzazione del nonio (vernier, regolato mobile)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#localizzazione-del-nonio-vernier-regolato-mobile" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="leggi-su-scala-millimetrica-il-numero-di-millimetri-che-megliosi-avvicina-sotto-alla-posizione-di-zero-di-nonio-m">Leggi su scala millimetrica il numero di millimetri che meglio
+si avvicina (sotto) alla posizione di zero di nonio (M).<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#leggi-su-scala-millimetrica-il-numero-di-millimetri-che-megliosi-avvicina-sotto-alla-posizione-di-zero-di-nonio-m" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="determinare-la-linea-di-nonio-che-coincide-con-una-corrispondente-alla-linea-di-nonioscala-a-millimetro-contare-il-numero-di-divisioni-n-tra-ilzero-di-nonio-e-la-linea-che-coincide">Determinare la linea di nonio che coincide con una corrispondente alla linea di nonio
+scala a millimetro. Contare il numero di divisioni (N) tra il
+Zero di nonio e la linea che coincide.<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#determinare-la-linea-di-nonio-che-coincide-con-una-corrispondente-alla-linea-di-nonioscala-a-millimetro-contare-il-numero-di-divisioni-n-tra-ilzero-di-nonio-e-la-linea-che-coincide" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Indicare la lettura (M + N* 0.02) mm. Nell’esempio della figura, la lettura
+es: (2+35*0.02)mm= 2,70mm.</p>
+<h2 id="uso-del-multimetroqui-di-seguito-è-descritto-brevemente-come-eseguire-una-lettura-di-resistenza">Uso del multimetro
+Qui di seguito è descritto brevemente come eseguire una lettura di resistenza.<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#uso-del-multimetroqui-di-seguito-è-descritto-brevemente-come-eseguire-una-lettura-di-resistenza" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="verificare-che-la-resistenza-non-stia-circolando-corrente-spegnere-la-correntefonte">Verificare che la resistenza non stia circolando corrente (spegnere la corrente).
+fonte).<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#verificare-che-la-resistenza-non-stia-circolando-corrente-spegnere-la-correntefonte" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="posizionare-il-perello-indicativo-nel-valore-più-alto-della-scala-di-ommi-">Posizionare il perello indicativo nel valore più alto della scala di ommi ().<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#posizionare-il-perello-indicativo-nel-valore-più-alto-della-scala-di-ommi-" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="collegare-i-cavi-forniti-nei-punti-di-connessione-indicati-comecom-cabo-nero-e-vhz-cabo-rosso">Collegare i cavi forniti nei punti di connessione indicati come
+COM (cabo nero) e VHz (cabo rosso).<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#collegare-i-cavi-forniti-nei-punti-di-connessione-indicati-comecom-cabo-nero-e-vhz-cabo-rosso" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="connettere-o-sostenere-fermamente-ogni-estremità-libera-di-questicavi-a-estremità-di-resistenza-sconosciuta">Connettere o sostenere fermamente ogni estremità libera di questi
+Cavi a estremità di resistenza sconosciuta.<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#connettere-o-sostenere-fermamente-ogni-estremità-libera-di-questicavi-a-estremità-di-resistenza-sconosciuta" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Leggere il display. Cambiare la scala, se possibile, per aumentare la</p>
+<ul>
+<li>Precisione.
+In seguito è descritto brevemente come eseguire una lettura di tensione.</li>
+<li></li>
+</ul>
+<h2 id="posizionare-il-perello-indicativo-nel-valore-più-alto-della-scala-vcc-v">Posizionare il perello indicativo nel valore più alto della scala VCC (V—).<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#posizionare-il-perello-indicativo-nel-valore-più-alto-della-scala-vcc-v" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="collegare-i-cavi-forniti-nei-punti-di-connessione-indicati-comecom-cabo-nero-e-vhz-cabo-rosso-1">Collegare i cavi forniti nei punti di connessione indicati come
+COM (cabo nero) e VHz (cabo rosso).<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#collegare-i-cavi-forniti-nei-punti-di-connessione-indicati-comecom-cabo-nero-e-vhz-cabo-rosso-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Connettere o sostenere fermamente ogni estremità libera di questi
+i cavi nei terminali in cui si desidera misurare la tensione.
+Leggere il display. Cambiare la scala, se possibile, per aumentare la precisione.</p>
+<p>OAF 2013 - 19
+Pagina di soluzioni</p>
+<p>Parte 1
+A-</p>
+<p>Rango di resistenza.</p>
+<p>B-
+Valore con la sua corrispondente incertezza.</p>
+<p>C-
+Valore con la sua corrispondente incertezza.</p>
+<p>D-
+Valori di resistenza e con i relativi incertezze
+Valori di frequenza e con i relativi incertezze</p>
+<p>Parte 2
+E- non ha punteggio.</p>
+<p>F-</p>
+<p>Posizione di un nodo</p>
+<p>G-
+Il spostamento dell’emittente per 5 nodi consecutivi
+della cavità cilindrica.</p>
+<p>H-
+Lunghezza d’onda.
+I-
+Valore di velocità del suono ottenuto.</p>
+<p>OAF 2013 - 20
+Parte 3
+J- Non ha punteggio.</p>
+<p>K-
+Posizione corrispondente a un nodo (posizione iniziale).</p>
+<p>L-
+Posizioni di 7 nodi consecutivi.</p>
+<p>M-Grafico. - L’aspetto è millimetrico .</p>
+<p>N- Aggiustare i punti graficati con una retta. - La foglia millimetrica.</p>
+<p>O-
+Spendiente della lunghezza d’onda del suono</p>
+<p>P-
+Valore di velocità del suono ottenuto.
+Parte 4
+Q- Non ha punteggio.</p>
+<p>R- TABELLA DI DATI</p>
+<p>OAF 2013 - 21</p>
+<p>OAF 2013 - 22</p>
+<p>S- Grafico di foglio millimetrico</p>
+<p>T-
+L’onda di lunghezza ottenuta dal grafico.</p>
+<p>U-
+Valore di velocità del suono ottenuto.
+Parte 5
+V-
+Sono distinguibili o indistinguibili.</p>
+<p>OAF 2013 - 23</p>
+<p>Primo test preparativo
+Meccanica</p>
+<p>OAF 2013 - 24
+Problema teorico 1</p>
+<p>Supponiamo due corpi di massa m1 e m2
+Appoggiati, con fili inestensibili e di
+massa disprezzabile, come mostrato nella</p>
+<ul>
+<li>Figura.</li>
+</ul>
+<p>a) Determina la tensione che si sopporta
+ogni filo.
+Considera la situazione seguente: massa m2
+si alza un’altezza h (verticalmente) a partire da
+e da cui si libera. Supponendo che i
+I fili supportano una tensione massima Tc (precedentemente
+La struttura di un’impresa è stata
+La rottura si verifica in un tempo t*:</p>
+<p>b) Quale filo si rompe prima?
+Giustifica
+c) Qual è la massima altezza che può</p>
+<ul>
+<li>Si può prendere il peso di un m2 prima di essere</li>
+<li>la condizione per il
+rompere il filo?
+Il filo che unisce m1 è sostituito da m2
+per una sorgente di costante elastico k e
+lunghezza naturale l0.</li>
+</ul>
+<p>d) Calcolare l’estensione della molla che unisce le due masse quando il
+Il sistema è in equilibrio.
+Supponiamo che la massa m2 sia sollevata ad un’altezza h (verticalmente).</p>
+<p>e) Determina la tensione che il filo sopporta in termini di estensione del filo.
+una primavera che unisce le due masse.</p>
+<p>m1<br/>
+m2<br/>
+m1<br/>
+m2<br/>
+h</p>
+<p>OAF 2013 - 25
+Problema teorico 2</p>
+<p>Considera un viglio lungo L e con massa mb, appoggiato come mostrato in
+Figura 1.</p>
+<p>a) Determina la reazione di ciascun supporto (A1 e A2).
+Supponiamo che sopra la biga si appoggi un corpo di massa mc.</p>
+<p>b) Calcolare la reazione di ciascun supporto in base alla posizione
+dell’oggetto.
+In caso a), se i supporti del vigno sono costituiti da sorgenti di costanti
+di tipo:</p>
+<p>(c) Trova le lunghezze naturali di ciascuna delle sorgenti per
+il vigillo resta orizzontale.</p>
+<p>A1
+mc
+A2
+L1</p>
+<p>L2</p>
+<p>L3</p>
+<p>A1
+A2
+L1
+L2</p>
+<p>Figura 1
+Figura 2</p>
+<p>OAF 2013 - 26
+Problema teorico 3</p>
+<p>Una particella puntuale di massa m1 cade dal rampo della figura e colpisce contro
+un’altra particella puntuale di massa m2 che è sospesa da un filo di
+L lungo.</p>
+<p>a) Se il colpo è elastico (cioè si conserva l’energia meccanica),
+determina l’ampiezza di oscillazione della massa che pendola e la
+componente orizzontale della velocità di massa m1 dopo l’impatto.
+b) Se la collisione è plastica (cioè non si conserva l’energia meccanica)
+e entrambe le particelle rimangono incollate, determinando l’ampiezza della
+oscillazione della massa che si pendola.
+c) Calcolare la frequenza di oscillazione del pendolo in ogni caso
+precedenti.
+Supponiamo che m1 sia maggiore di m2.</p>
+<p>m1<br/>
+L
+m2</p>
+<p>OAF 2013 - 27
+Problema teorico 1
+Pagina di risposte.</p>
+<p>Inciso</p>
+<p>punteggio
+a)</p>
+<p>b)</p>
+<p>c)</p>
+<p>d)</p>
+<p>e)</p>
+<p>OAF 2013 - 28
+Problema teorico 2
+Pagina di risposte.</p>
+<p>Inciso</p>
+<p>punteggio
+a)</p>
+<p>b)</p>
+<p>c)</p>
+<p>OAF 2013 - 29
+Problema teorico 3
+Pagina di risposte.</p>
+<p>inciso</p>
+<p>punteggio
+a)</p>
+<p>b)</p>
+<p>c)</p>
+<p>OAF 2013 - 30
+Problema sperimentale
+Determinazione dell’angolo di riposo dei materiali granulati.
+Elementi disponibili
+
+Acrilico (cassa di CD)
+
+Tinta adesiva di carta
+
+Un marcatore (se possibile indelebile)
+
+Una regola, trasportatore.
+
+Foglie bianche, penna.
+
+Un tritone o un coltello (per tagliare le macchie di acrilico). Ricordate.
+che il suo uso è pericoloso e deve essere fatto con la massima attenzione;
+Questo compito deve essere supervisionato dal docente.
+
+Un piccolo funil di plastica o carta
+
+Sal fine, interfine e grossa.
+
+Zucchero.
+
+Balance (opzionale)</p>
+<p>Figura 1.
+Consigna 1
+Armarsi l’apparecchio di misurazione (cellula di Hele-Shaw).
+Procedura</p>
+<ol>
+<li>Sbarazzarmi della cassetta di CD, restando solo le facce trasparenti.
+Figura 1.</li>
+<li>Con la trincea, facendo pressione, taglia le macchie di acrilico che ci sono.
+all’interno (quelli che sostenevano il plastica su cui si appoggia il
+CD).</li>
+<li>Taglia la fascia delle placche che corrisponde alle lampadine in cui
+Ci sono i bisagri della scatola. Questo compito è difficile e può essere pericoloso.
+Chiedi il consiglio del professore.</li>
+<li>Una delle due targhe, come se fosse per riassemblare la scatola. Assicurati .
+e sigilla i bordi (esclusa la bocca) con la cinta adesiva di carta. Figura</li>
+<li></li>
+</ol>
+<p>OAF 2013 - 31
+Consigna 2
+Determinare l’angolo di riposo dei materiali granulati.</p>
+<p>Figura 2
+Procedura</p>
+<ul>
+<li>Determinare l’angolo di riposo del sale fino.</li>
+</ul>
+<ol start="5">
+<li>Caricare la celda con sale sottile (attraverso il funile) fino a
+circa la metà della sua altezza. Figura 3a.</li>
+<li>Senza perdere il contenuto, ruota la cellula fino a che non si forma.
+una superficie piana orizzontale. Figura 3b.</li>
+<li>Ritorna la cella alla posizione di lavoro, girandola delicatamente. Figura
+3c.</li>
+<li>Determina l’angolo di riposo del sale sottile.</li>
+<li>Ripeti questa procedura almeno 10 volte.</li>
+</ol>
+<p>Consegna 3</p>
+<ul>
+<li>Determinazione dell’angolo di riposo del sale inter-finale (scalzone), del sale grossa e del
+zucchero.</li>
+</ul>
+<p>Figura 3a
+Figura 3b
+Figura 3c</p>
+<p>OAF 2013 - 32
+Consegna 4</p>
+<ul>
+<li>Determinare la densità apparente di ciascuna delle sale usate e, inoltre,
+la zuccherina.</li>
+</ul>
+<ol start="10">
+<li>Riempire di sale un recipiente di volume noto.</li>
+<li>Determina la massa di sale utilizzata per riempire il contenitore.</li>
+<li>Calcola la densità apparente dei materiali granulati che hai usato (sale,
+ecc.).</li>
+</ol>
+<p>Consigna 5</p>
+<ul>
+<li>Confezionare un grafico angolo di riposo (ordinato) versus densità
+apparente (abscisa)</li>
+</ul>
+<p>OAF 2013 - 33
+Problema sperimentale
+Pagina di risposte.
+Consigna 1
+inciso</p>
+<p>punteggio</p>
+<p>Dispositivo costruito.</p>
+<p>Consigne 2 e 3
+inciso</p>
+<p>punteggio</p>
+<p>Tabella dei valori misurati, corrispondenti all’angolo
+di riposo di ogni salato usato e di ogni zucchero.</p>
+<p>Consegna 4
+inciso</p>
+<p>punteggio</p>
+<p>Tabella dei valori misurati, corrispondenti alla
+densità apparente di ciascuna delle sale usate
+e anche quella dello zucchero.</p>
+<p>Consigna 5
+inciso</p>
+<p>punteggio</p>
+<p>Grafico angolo di riposo versus densità apparente</p>
+<p>OAF 2013 - 34</p>
+<p>Secondo test preparatorio
+Termodinamica, elettricità e
+Magnetismo</p>
+<p>OAF 2013 - 35
+Problema teorico 1</p>
+<p>In un recipiente sono stati misurati 300 cm3 di tolueno a 0 oC e
+in un altro contenitore sono stati misurati 110 cm3 di tolueno a 100 oC.
+Il coefficiente di dilatazione cubica del tolueno è  = 10-3 oC-1. Dovrebbe essere in
+la miscela dei liquidi non ha perdite di calore con l’esterno.
+Se si mescolano i due liquidi trovi:
+a) un’espressione per il volume di tolueno a 100 oC in funzione del
+volume di tolueno a 0 oC, V0 e coefficiente di dilatazione cubica<br/>
+b) la densità del tolueno a 100 oC,
+c) la temperatura di equilibrio della miscela
+(d) la densità del tolueno alla temperatura di equilibrio,
+e) il volume della miscela,</p>
+<p>OAF 2013 - 36
+Problema teorico 2</p>
+<p>Una lampada elettrica di resistenza Ro = 2 funziona a un voltaggio Uo = 4,5
+V. Si collega a una batteria di resistenza interna disprezzabile e forza
+U = 6 V tramite un reostato di cursore che funziona come un
+Potenzimetro. Si desidera che l’efficienza (e = potenza consumata in
+lampada / Potenza totale della batteria) non inferiore a 0,6.</p>
+<p>a) Calcolare il valore della resistenza del reostato.
+b) Qual è la massima efficienza possibile?
+(c) In caso di sottoscritto (b) Come si deve collegare la lampada alla</p>
+<ul>
+<li>Un reostato?</li>
+</ul>
+<p>Il diagramma del circuito elettrico è quello di cui alla figura 1.</p>
+<p>OAF 2013 - 37
+Problema teorico 3</p>
+<p>Un elettrone carico q = -1,6 x 10-19 C si muove a una velocità v = (0,5 x
+105 i + 0.5 x 105 j) (m/s). Il momento in cui passa il punto di
+coordinate (1, 1) calcolare:</p>
+<p>a) Il campo magnetico B che l’elettrone crea nei punti (-1, -1) e (0, 2).</p>
+<p>La forza che un protone situato al punto (0, 2) subisce se ha una velocità:</p>
+<p>b) v = 2 x 105 k (m/s)</p>
+<p>c) v = 2 x 105 j (m/s)</p>
+<p>Dati: 0 = 4 x 10-7 Tm/A
+(Nota: i simboli in caratteri in caratteri in grassetto indicano vettori)</p>
+<p>OAF 2013 - 38
+Problema teorico 1
+Pagina di risposte.</p>
+<p>inciso</p>
+<p>punteggio
+a)</p>
+<p>V100 =</p>
+<p>2p
+b)</p>
+<p>100 =</p>
+<p>2p
+c)</p>
+<p>Te =</p>
+<p>2p
+d)</p>
+<p>equilibrio =</p>
+<p>1p
+e)</p>
+<ul>
+<li>Mice =</li>
+</ul>
+<p>3p</p>
+<p>OAF 2013 - 39
+Problema teorico 2
+Pagina di risposte.</p>
+<p>inciso</p>
+<p>punteggio
+a)</p>
+<p>R =</p>
+<p>4p
+b)</p>
+<ul>
+<li>EMAX =</li>
+</ul>
+<p>4p
+c)</p>
+<p>Diagramma</p>
+<p>2p</p>
+<p>OAF 2013 - 40
+Problema teorico 3
+Pagina di risposte.</p>
+<p>inciso</p>
+<p>punteggio
+a)</p>
+<p>B(-1, -1) =</p>
+<p>B( 0,  2) =</p>
+<p>4p
+b)</p>
+<p>v =</p>
+<p>3p
+c)</p>
+<p>v =</p>
+<p>3p</p>
+<p>OAF 2013 - 41
+Problema sperimentale
+Obiettivo:</p>
+<ul>
+<li>Studiare la potenza calorica di una candela.</li>
+</ul>
+<p>Breve descrizione</p>
+<p>Una candela è un cilindro di cera
+con un pavilone sull’asse per farlo</p>
+<ul>
+<li>Si può accendere e come ?
+Risultato della combustione della
+la cera irradia luce e calore.
+La fiamma della candela ha
+Le temperature diverse (vedi
+Figura 1) e radiare calore e luce in
+tutte le direzioni. Tuttavia,
+per il meccanismo di convezione,
+Il calore fluisce principalmente nella
+direzione verticale (in direzione di</li>
+<li>punta la fiamma).
+Figura 1</li>
+</ul>
+<p>Il flusso di calore emesso dalla
+La vela si dirige verso l’asse.
+(verticale) si può studiare
+mediante il dispositivo che
+La figura è schematica
+2. La stessa consiste in un
+un coperto di ghiaccio, appoggiato
+su una lastra di metallo</p>
+<ul>
+<li>
+<p>E’ un po’ più fino.
+inclinata. Sotto la
+La copertura è stata effettuata con l’aiuto di un’azienda di cui all’articolo 6 del regolamento (CE) n.
+Un asse che passa attraverso il centro
+dal cubo si pone la candela.
+La fiamma di quest’ultima è
+a una distanza d dalla</p>
+</li>
+<li>
+<p>Lavatta. L’estremità inferiore
+della scheda si trova una
+Seringa graduata, senza embols
+e con l’estremità fine (dove
+Va la ago) tappo (potrebbe)
+essere sostituita da una</p>
+</li>
+<li>
+<p>la prova).
+L’acqua prodotta dalla fusione del ghiaccio viene raccolta nella siringa e determinata.
+il volume va. Determinando il tempo di va (t) e conoscendo il calore
+La quantità di energia per unità di
+tempo che è arrivato al ghiaccio dalla vela.</p>
+</li>
+<li>
+<p>Guarda !
+Seringa
+ghiaccio
+la copertura
+d
+acqua
+Figura 2
+plastilina</p>
+</li>
+</ul>
+<p>OAF 2013 - 42
+Consigne
+a) Indicare alcune delle ipotesi che sono state fatte nella descrizione
+che non sono state espressamente menzionate. Alcuni che
+coinvolgono la lamiera e si relazionano alle sue dimensioni. Altri che
+sono correlati alla temperatura ambientale, al ghiaccio, all’acqua.
+b) Misura la temperatura ambiente.
+c) Implementare il dispositivo proposto.
+d) Misura l’apporto di calore proveniente dall’ambiente. Determina se è vero.
+disprezzabile o meno.
+e) eseguire le misurazioni di Va in base a t per almeno tre
+distanze di lampada-placca (d) diverse. Ogni set deve essere
+composto da non meno di dieci coppie (t, Va).
+f) Fare un grafico t vs massa di ghiaccio fuso, corrispondente a ciascuna
+Distanza d. Verifica se il comportamento è approssimativamente lineare,
+In tal caso, aggiusta una retta.
+g) Sulla base dei grafici precedenti, stima la potenza (P) ricevuta dal
+un cubito di ghiaccio in ogni caso.
+h) Presenta questi risultati in un grafico (d vs P). Extrapola questi.
+i risultati al valore d=0 e determinare un valore PM.
+Elementi che possono risultare utili:</p>
+<ul>
+<li>Sciacche metalliche sottili (spessore spregevole).</li>
+<li>Coperte di ghiaccio (almeno 3).</li>
+<li>Plastilina (per evitare che il ghiaccio scivoli a causa della
+la pendenza con cui è stata messa la lamiera).</li>
+<li>Vela (marchio Ranchera o di qualità equivalente).</li>
+<li>Regola, carta millimetrica o quadrata, penna.</li>
+<li>Seringa graduata di 10ml o più.</li>
+<li>Un cronometro.</li>
+<li>supporti, pinze di legno (tipo di pinze per appendere i vestiti).</li>
+<li>Ricevitori per l’acqua.</li>
+</ul>
+<p>OAF 2013 - 43
+Problema sperimentale
+Pagina di risposte.</p>
+<p>Consigna
+inciso</p>
+<p>punteggio
+a)
+Ipotesi</p>
+<p>b)
+Valore</p>
+<p>c)</p>
+<p>Schema e elementi utilizzati</p>
+<p>d)</p>
+<p>Metodo usato, risultati.</p>
+<p>e)</p>
+<p>Tabelle di misura.</p>
+<p>f)</p>
+<p>Grafici</p>
+<p>g)</p>
+<p>Tabella dei risultati</p>
+<p>h)</p>
+<p>Grafico e valore ottenuto da PM</p>
+<p>OAF 2013 - 44</p>
+<p>I servizi locali
+Problemi teorici</p>
+<p>OAF 2013 - 45</p>
+
+<p><img src="../_attachments/cuadernillo_2013/cuadernillo_2013_p09_f1.png" alt width="auto" height="auto"/>
+<img src="../_attachments/cuadernillo_2013/cuadernillo_2013_p09_f2.png" alt width="auto" height="auto"/>
+<img src="../_attachments/cuadernillo_2013/cuadernillo_2013_p11_f3.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/geometric-optics" class="internal internal-link alias" data-slug="topics/geometric-optics">Geometric Optics</a>
+<strong>Metodi:</strong> <a href="../methods/ray-tracing-(metodo)" class="internal internal-link alias" data-slug="methods/ray-tracing-(metodo)">Ray Tracing</a>, <a href="../methods/thin-lens--and--mirror-equation-(metodo)" class="internal internal-link alias" data-slug="methods/thin-lens--and--mirror-equation-(metodo)">Thin Lens &amp; Mirror Equation</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../objects/mirror-(object)" class="internal internal-link alias" data-slug="objects/mirror-(object)">Mirror</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1ZjOHaivInz1ql2TMC4e_aXJri9PIrQlv/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>The Commission has also adopted a number of measures to ensure that the Commission is able to take all necessary measures to ensure that the information provided is kept up to date.</p>
+<p>Problem three .</p>
+<p>Dangerous skyscrapers.</p>
+<p>A new skyscraper in London,
+I know you .
+informally
+How
+el
+“Walkie-Talkie” has been charged with
+Reflect the light that melted the pieces of
+A car parked on a street.
+close. This 37-story building .
+Designed
+by
+Rafael .</p>
+<ul>
+<li>I’m going to go.
+un
+architect born in Uruguay and
+Educated in Argentina, he has the form
+The following is an overview of the main features of the
+side of photo A).</li>
+</ul>
+<p>Photo A
+Martin Lindsay parked his black Jaguar XJ in the financial district of London.
+Also known as the City of London, Thursday 29th August afternoon.
+When he returned, about two hours later, he discovered that some parts of his
+The vehicle - including the rear-view mirror and the badge - had melted.
+Photo B</p>
+<p>Photo C
+The insurance company of the construction company, has commissioned you. That
+determine whether these facts are feasible to respond to claims
+The economic situation of the damaged.
+For this purpose the builders have provided the diagram in Figure 1 which
+It represents a side view of the building, the relevant dimensions and some
+characteristics to be taken into account, namely:</p>
+<ul>
+<li>At the first 50 meters the building is straight.</li>
+<li>In the last 80 meters, the profile responds to a radial curvature R =
+325 m</li>
+<li>At the time of the incident, the sun’s rays flashed forming a
+angle of 50° to the ground.
+To accomplish the task, we suggest you do the following:
+(a) Calculate how far from the foot of the building the reflected ray 1 hits.</li>
+</ul>
+<p>The following is the list of the countries of the European Union:
+(b) Calculate the angle  forming the tangent line to the surface of the
+Building with normal to the ground at the beam 2 incident point .
+(c) Calculate the distance from the foot of the building to which the reflected ray 2 hits.
+(d) Calculate the length of the region where the reflected light is concentrated in the
+The floor.
+(e) Knowing that the average solar radiation intensity reaching the
+The surface of the Earth is 198 W/m2 and the reflectivity of the
+The building surface is 50%, calculate the radiation intensity in
+The light sector.
+(f) Knowing that the rear-view mirror of the car is made of PBT,
+The following table shows the properties of the product:
+According to the information provided by Jaguar, the PBT volume of the
+The mirror is V = 0.0005 m3 and the surface exposed to light is S =
+0.02 m2, calculate how long the car should be parked
+So the mirror starts to deform. (Suppose the
+The ambient temperature is 20°C)</p>
+<p>Density of PBT
+1.31 g/cm3
+Radiation absorption coefficient
+70%
+The temperature at which the deformation starts
+90 ºC
+Heat specific to PBT
+1500 J/(ºC kg)
+Table 1</p>
+<p>The following is the list of the Member States’ financial statements:</p>
+<p>The following is the list of the Member States’ financial statements:
+Problem 3: Dangerous skyscrapers.</p>
+<p>a)</p>
+<p>b)</p>
+<p>c)</p>
+<p>d)</p>
+<p>e)</p>
+<p>f)</p>
+<p>The following is the list of the countries of the European Union:</p>
+<p>The National Court
+Experimental test</p>
+<p>The following is the list of the Member States’ financial statements:
+What a pipe!</p>
+<p>Theoretical framework
+A Kundt tube is a device that allows you to study sound waves.
+The stationary ones. The device consists of a cylindrical tube, closed by both
+Extremes. At one end is a sound wave emitter of a
+The frequency (s) and at the other end, a detector of the same. El
+Kundt tube operation is based on wave generation
+stationary devices in the region between the emitter and the detector. The waves .
+The two waves of equal amplitude overlap and
+The frequency (s) travelling parallel to the tube axis, one of them in the direction
+The second is the detector-emitter and the other is the opposite direction.
+the issuer). This last wave is the result of the reflection of the first wave (generated by the
+The detector is located at the end of the tube.</p>
+<p>The stationary waves are characterized by the existence of areas where the
+The wave has maximum width (maximum or belly) and others with zero width.
+(nodes), which have constant positions in time. The number of
+The number of knots and maxims established within the Kundt tube depends on the
+The length of the same and the frequency of the wave emitted; however
+The wave propagation rate ( ) remains constant. The distance
+exists between two consecutive nodes or between two consecutive maxima,
+It’s always equal to half the wavelength.
+The speed of wave propagation is related to its length of
+wave  and its frequency by the expression:</p>
+<pre><code>   
+</code></pre>
+<p>[1]</p>
+<p>So, based on the equation [1], a Kundt tube allows you to perform
+measurements to determine the speed of sound.</p>
+<p>Description of the measuring device
+The Kundt tube shown here consists of a cylindrical cavity, whose
+The endpoints are limited by a transmitter and a wave detector of
+The ultrasound. The position of the detector is fixed while the emitter is
+is located on a plume whose position may vary from the
+The detector. This allows the distance between the transmitter and the detector to vary and, therefore
+So, the length of the cylindrical cavity. The embezzlement is mounted on a
+Stationary waves in a tube
+The tube (cavity)
+The knot
+Maximum
+/2
+/2
+issuer
+detector
+Figure 1</p>
+<p>The following is the list of the Member States’ financial statements:
+calibre (see Use of Calibre in Appendix), by which the
+separation between two different positions of the same See Figure 2.</p>
+<p>Terminals of the
+Resistance
+Multi-meter
+positioned for
+measuring
+Perilla P, for
+Change the value
+de<br/>
+Figure 2
+Terminals of
+voltage
+Multi-meter positioned
+to measure voltages</p>
+<p>The following is the list of the Member States’ financial statements:
+Issuer
+The emitter is a device that generates sound waves in the range of
+Frequency ranging from 37000Hz to 42000Hz. The transmitter is connected to a
+an electronic circuit that allows the frequency of the ultrasonic wave to vary.
+The generated wave frequency can be modified by varying the value of the
+resistance that’s connected to it.
+The ratio of frequency to resistance value is given by the
+the following formula:</p>
+<p>[2]</p>
+<p>where it is given in kilo Hertz ( ) and kilo Ohm ().
+The values of a and b are:</p>
+<pre><code>  
+
+             
+
+</code></pre>
+<p>Note:
+Remember that the letter means kilo = 1000 = 103</p>
+<p>The resistance value can be adjusted by rotating the P-barrel (see Figure 2) and is
+can be determined using a multimeter placed on the basis of óhmetre ()
+(See Use of the Multi-Meter in the Appendix)</p>
+<p>Detector .
+It ‘s a device that transforms the amplitude of ultrasonic waves into a signal .
+a continuous electrical voltage. This voltage can be measured with a multimeter.
+The value of the test chemical is the value of the test chemical used in the test chemical.</p>
+<p>Operations
+When setting a resistance value connected to the wave generator, the emitter
+emits an ultrasonic wave whose frequency f is determined by the
+equation [2], and stationary waves are established in the cylindrical cavity.
+Changing the position of the embolus varies the length of the cavity; when the
+The distance ( ) separating the emitter from the detector is an integer of half-
+Wavelengths have the so-called resonance condition, that is
+when:</p>
+<p>
+(n es: 1,2,3,4,…)<br/>
+[3]</p>
+<p>So if you change, change the number of nodes and maxima in the
+inside the cavity. This causes the signal recorded by the detector to vary,
+reaching maximum or minimum values, depending on whether the detector position
+is a maximum or a stationary wave node.</p>
+<p>The following is the list of the Member States’ financial statements:
+The objective:
+Determine the speed of sound.
+Consigns</p>
+<p>Part 1
+A- Determine the resistance range associated with the range of
+The frequency (s) at which the equipment operates. Use equation two.
+B- Position the p-bar so that a value of
+be within the team’s working range. Record this value ( ) with
+the corresponding uncertainty.
+C- Determine, using equation 2, the frequency value associated with
+. Record this value (). with its corresponding uncertainty.
+D- Repeat the previous procedure for two other resistance values
+y   . Record these values and frequency values and
+the corresponding</p>
+<p>Part 2
+E- Position the P-bar so that it can be read on the multimeter one of the
+the values of the selected ().
+F- Determine the position of a node, record this position.
+G- Move the embolus and determine the displacement of the emitter
+The test results shall be presented in accordance with the following criteria:
+H- Determine the wavelength.
+I- Calculate the speed of sound.
+Note:</p>
+<ul>
+<li>To make the voltage measurements, connect the cables in such a way as to
+Get a positive reading on the display.</li>
+<li>The nodes are associated with absolute minimum voltage values; these
+values are not necessarily zeros and not all are the same.</li>
+<li>Voltage values may be affected by the operator’ s contact with
+The equipment, in order to make the voltage data more reliable, should not be touched
+the equipment when recording that value.</li>
+</ul>
+<p>Part 3
+J- Position the P-bar so that it can be read on the other of the
+the values of the chosen ().
+K- Position the issuer in a position corresponding to a node and register
+This position as the starting position.
+L- Move the issuer from the initial position a distance that is
+corresponds to the next node, record this position. Move around .
+again the hub to the next node and record this position.
+Do this procedure at least 7 times, that is, move the
+I’m going to try to find the position of seven consecutive nodes and record them.
+M- Graphing the positions recorded according to the number of nodes that
+are detected when moving the emitter.
+N- Adjust the points graphed by a straight line.
+O- Determine the slope of the straight line and determine the wavelength of the line.
+sound inside the tube.
+P- Calculate the speed of sound.</p>
+<p>Part 4
+Q- Position the P-barrel so that the third value of  can be read on the multimeter.
+The resistance chosen ().
+R- Measuring the variation in the voltage signal at the output of the detector in
+the position of the embolus. Sampling with no intervals</p>
+<p>The following points shall be added:
+greater than 0,5 mm for a range not less than 20 mm. Measuring
+approximately 40 values.
+S- Draw a graph with the voltage values measured in terms of the
+position of the emblem.
+T- Determine the wavelength using the graph.
+U- Calculate the speed of sound.</p>
+<p>Part 5
+V- Compare the values of the sound speed found. Determine
+whether these values are distinguishable or indistinguishable.</p>
+<h2 id="appendixuse-of-the-caliberthe-caliber-provided-has-an-estimate-of-002mmthe-following-brief-description-describes-how-to-perform-a-caliber-reading">Appendix:
+Use of the caliber
+The caliber provided has an estimate of 0.02mm.
+The following brief description describes how to perform a caliber reading.<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#appendixuse-of-the-caliberthe-caliber-provided-has-an-estimate-of-002mmthe-following-brief-description-describes-how-to-perform-a-caliber-reading" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="locate-the-zero-of-the-nonium-vernier-displayable-reglite">Locate the zero of the nonium (vernier, displayable reglite)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#locate-the-zero-of-the-nonium-vernier-displayable-reglite" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="read-on-the-millimeter-scale-the-number-of-millimeters-you-need-bestapproaches-below-the-position-of-the-nodium-m-zero">Read on the millimeter scale the number of millimeters you need best
+approaches (below) the position of the nodium (M) zero.<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#read-on-the-millimeter-scale-the-number-of-millimeters-you-need-bestapproaches-below-the-position-of-the-nodium-m-zero" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="determine-the-nonium-line-that-coincides-with-one-corresponding-to-thethe-millimetre-scale-count-the-number-of-divisions-n-between-thenonium-zero-and-the-corresponding-line">Determine the nonium line that coincides with one corresponding to the
+the millimetre scale. Count the number of divisions (N) between the
+Nonium zero and the corresponding line.<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#determine-the-nonium-line-that-coincides-with-one-corresponding-to-thethe-millimetre-scale-count-the-number-of-divisions-n-between-thenonium-zero-and-the-corresponding-line" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Report the reading (M + N<em>0.02) mm. In the example in the figure, the reading
+es: (2+35</em>0.02)mm= 2,70mm.</p>
+<h2 id="use-of-the-multimeterthe-following-brief-description-describes-how-to-perform-a-resistance-reading">Use of the multimeter
+The following brief description describes how to perform a resistance reading.<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#use-of-the-multimeterthe-following-brief-description-describes-how-to-perform-a-resistance-reading" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="check-that-the-resistance-is-not-running-turn-off-the-power-supplysource">Check that the resistance is not running (turn off the power supply)
+(Source)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#check-that-the-resistance-is-not-running-turn-off-the-power-supplysource" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="locate-the-indicator-beam-at-the-highest-value-of-the-ohmium-scale-">Locate the indicator beam at the highest value of the ohmium scale ().<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#locate-the-indicator-beam-at-the-highest-value-of-the-ohmium-scale-" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="connect-the-cables-provided-at-the-connection-points-indicated-ascom-black-cable-and-vhz-red-cable">Connect the cables provided at the connection points indicated as
+COM (black cable) and VHz (red cable).<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#connect-the-cables-provided-at-the-connection-points-indicated-ascom-black-cable-and-vhz-red-cable" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="connect-or-firmly-support-each-of-the-free-ends-of-thesecables-at-the-ends-of-unknown-resistance">Connect or firmly support each of the free ends of these
+cables at the ends of unknown resistance.<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#connect-or-firmly-support-each-of-the-free-ends-of-thesecables-at-the-ends-of-unknown-resistance" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="read-the-display-change-the-scale-if-possible-to-increase-thethe-exactnessthe-following-is-a-brief-description-of-how-to-perform-a-voltage-reading">Read the display. Change the scale, if possible, to increase the
+The exactness.
+The following is a brief description of how to perform a voltage reading.<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#read-the-display-change-the-scale-if-possible-to-increase-thethe-exactnessthe-following-is-a-brief-description-of-how-to-perform-a-voltage-reading" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="locate-the-indicator-beam-at-the-highest-value-of-the-vcc-scale-v">Locate the indicator beam at the highest value of the VCC scale (V—).<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#locate-the-indicator-beam-at-the-highest-value-of-the-vcc-scale-v" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="connect-the-cables-provided-at-the-connection-points-indicated-ascom-black-cable-and-vhz-red-cable-1">Connect the cables provided at the connection points indicated as
+COM (black cable) and VHz (red cable).<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#connect-the-cables-provided-at-the-connection-points-indicated-ascom-black-cable-and-vhz-red-cable-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Connect or firmly support each of the free ends of these
+cables in the terminals where the voltage is to be measured.
+Read the display. Change the scale, if possible, to increase accuracy.</p>
+<p>The following points shall be added:
+Solution sheet</p>
+<p>Part 1
+A-</p>
+<p>Range of resistance.</p>
+<p>B-
+Value of its corresponding uncertainty.</p>
+<p>C-
+Value of its corresponding uncertainty.</p>
+<p>D-
+Resistance values and their associated uncertainties
+Frequency values and their associated uncertainties</p>
+<p>Part 2
+E-He doesn’t have a score.</p>
+<p>F-</p>
+<p>Position of a node</p>
+<p>G-
+The displacement of the issuer for 5 consecutive nodes
+of the cylindrical cavity.</p>
+<p>H-
+Wavelength.
+I-
+Speed value of the sound obtained.</p>
+<p>The following points shall be added:
+Part 3
+J- He doesn’t have a score.</p>
+<p>K-
+Position corresponding to a node (initial position).</p>
+<p>L-
+Position of 7 nodes in a row.</p>
+<p>M- graphic. Millimetered sheet .</p>
+<p>N- Adjust the points graphed by a straight line. It’s a millimeter sheet.</p>
+<p>O-
+Sound straight and wavelength pendent</p>
+<p>P-
+Speed value of the sound obtained.
+Part 4
+Q- He doesn’t have a score.</p>
+<p>The following table shows the data:</p>
+<p>The following is the list of the countries of the European Union:</p>
+<p>The following is the list of the Member States’ financial statements:</p>
+<p>S-Mill-sheet chart</p>
+<p>T-
+Wavelength obtained from the graph.</p>
+<p>U-
+Speed value of the sound obtained.
+Part 5
+V-
+They are distinguishable or indistinguishable.</p>
+<p>The following is the list of the Member States’ financial statements:</p>
+<p>First Preparatory Test
+Mechanics</p>
+<p>The following is the list of the Member States’ financial statements:
+Theoretical problem 1</p>
+<p>Suppose two bodies of mass m1 and m2
+Hanging, by means of unextended yarn and of
+The Commission has already adopted a number of proposals for a new directive on the protection of the environment.
+It’s a figure.</p>
+<p>(a) Determine the stress you are under
+Each of the threads.
+Consider the following situation: mass m2
+a height h (vertically) rises from
+from which it is released. Assuming that the
+Wire withstand a maximum Tc voltage (previously
+The process of breaking up is a process of
+breakdown occurs at a time t*:</p>
+<p>(b) Which of the threads will break first?
+Justify it .
+(c) What is the maximum height you can get ?
+The mass of the m2 is raised before it is
+The Commission will also examine the
+The thread breaking?
+The thread connecting m1 is replaced by m2
+by a spring of elastic constant k and
+Natural length l0.</p>
+<p>(d) Calculate the spring stretch of the joint mass when the
+The system is in balance.
+Suppose the mass m2 is raised to a height h (vertically).</p>
+<p>(e) Determine the stress that the yarn bears in terms of the tensile strength of the yarn.
+spring that unites the two masses.</p>
+<p>m1<br/>
+m2<br/>
+m1<br/>
+m2<br/>
+h</p>
+<p>The following is the list of the Member States’ financial statements:
+Theoretical problem 2</p>
+<p>Consider an L-long beam and a mb mass, supported as shown in the
+The following table shows the following:</p>
+<p>(a) Determine the reaction of each support (A1 and A2).
+Suppose a body of mass of mc is resting on the biga.</p>
+<p>(b) Calculate the reaction of each support based on the position
+of the object.
+In case a), if the beam supports consist of constant springs
+a length of not more than 30 mm,</p>
+<p>(c) Find the natural lengths of each spring so that
+The beam shall remain horizontal.</p>
+<p>A1
+mc
+A2
+L1</p>
+<p>L2</p>
+<p>L3</p>
+<p>A1
+A2
+L1
+L2</p>
+<p>Figure 1
+Figure 2</p>
+<p>The following points shall be added:
+Theoretical problem 3</p>
+<p>A point particle of m1 mass falls off the figure ramp and impacts against the
+another m2 point particle suspended by a thread of
+I ‘m long .</p>
+<p>(a) If the impact is elastic (i.e. mechanical energy is conserved),
+determines the width of the oscillation of the pendulous mass and the
+horizontal component of mass velocity m1 after impact.
+(b) If the impact is plastic (i.e. mechanical energy is not conserved)
+And both particles are stuck, determining the width of the
+oscillation of the mass that it is suspending.
+(c) Calculate the frequency of oscillation of the pendulum in each case.
+previously.
+Suppose m1 is greater than m2.</p>
+<p>m1<br/>
+L
+m2</p>
+<p>The following is the list of the Member States’ financial statements:
+Theoretical problem 1
+Answer sheet.</p>
+<p>Right .</p>
+<p>Score
+a)</p>
+<p>b)</p>
+<p>c)</p>
+<p>d)</p>
+<p>e)</p>
+<p>The following points shall be added:
+Theoretical problem 2
+Answer sheet.</p>
+<p>Right .</p>
+<p>Score
+a)</p>
+<p>b)</p>
+<p>c)</p>
+<p>The following is the list of the Member States’ financial statements:
+Theoretical problem 3
+Answer sheet.</p>
+<p>This section</p>
+<p>Score
+a)</p>
+<p>b)</p>
+<p>c)</p>
+<p>The following points shall be added:
+Experimental problem .
+Determination of the angle of repose of granulated materials.
+Available items
+
+Acryl (CD box)
+
+Paper adhesive tape
+
+A marker (where possible indelible)
+
+One rule, transporter.
+
+White papers, pencil.
+
+A trench or knife (to cut acrylic lashes). Remember that .
+that its use is dangerous and must be taken with the utmost care;
+This task must be supervised by the teacher.
+
+A small funnel of plastic or paper .
+
+Salt is fine, inter-fine and thick.
+</p>
+<ul>
+<li>Sugar. - What?
+
+Balance (optional)</li>
+</ul>
+<p>Figure 1 is shown.
+Consigna 1
+Arming the measuring device (Hele-Shaw cell).
+The procedure</p>
+<ol>
+<li>Unlock the CD box, leaving only the transparent faces.
+Figure 1 is shown.</li>
+<li>With the trench, pressing, cut the acrylic lashes that are there.
+The main features of the product are the use of the plastic on which the product is based.
+CD).</li>
+<li>Cut the strip of plates corresponding to the eyelashes where
+There’s the “bisagras” in the box. This task is difficult and can be dangerous.
+Ask the professor for advice.</li>
+<li>One of the two plates, like I’m going to reassemble the box. Secure it .
+and seal the edges (except the mouth) with the paper tape. Figure</li>
+<li></li>
+</ol>
+<p>The following points shall be added:
+Consigna 2
+Determine the angle of repose of granulated materials.</p>
+<p>Figure 2
+The procedure</p>
+<ul>
+<li>Determine the angle of repose of the fine salt.</li>
+</ul>
+<ol start="5">
+<li>Load the cellar with fine salt (through the funnel) until
+about half its height. Figure 3a.</li>
+<li>Without losing its contents, rotate the cell until it forms.
+a horizontal flat surface. Figure 3b.</li>
+<li>Return the cell to its working position, rotating it gently. Figure
+3c.</li>
+<li>Determine the angle of repose of the fine salt.</li>
+<li>Repeat this procedure at least 10 times.</li>
+</ol>
+<p>Consigna 3</p>
+<ul>
+<li>Determine the angle of repose of the intermediate salt (grill), coarse salt and salt
+sugar.</li>
+</ul>
+<p>Figure 3a
+Figure 3b
+Figure 3c</p>
+<p>The following is the list of the Member States’ financial statements:
+Consigna 4</p>
+<ul>
+<li>Determine the apparent density of each of the salts used and also
+The sugar.</li>
+</ul>
+<ol start="10">
+<li>Fill a known volume container with salt.</li>
+<li>Determine the salt mass used to fill the container.</li>
+<li>Calculate the apparent density of the granulated materials you used (salt,
+and so on).</li>
+</ol>
+<p>It is granted 5 .</p>
+<ul>
+<li>Create a chart rest angle (ordered) versus density
+apparent (abscise)</li>
+</ul>
+<p>The following is the list of the countries of the European Union:
+Experimental problem .
+Answer sheet.
+Consigna 1
+This section</p>
+<p>Score</p>
+<p>Device built.</p>
+<p>Consignes 2 and 3
+This section</p>
+<p>Score</p>
+<p>Table of measured values, corresponding to the angle
+of rest from every salt used and from sugar.</p>
+<p>Consigna 4
+This section</p>
+<p>Score</p>
+<p>Table of measured values, corresponding to
+apparent density of each of the salts used
+And also, the sugar.</p>
+<p>It is granted 5 .
+This section</p>
+<p>Score</p>
+<p>Chart rest angle versus apparent density</p>
+<p>The following is the list of the Member States’ financial statements:</p>
+<p>Second Preparatory Test
+The Commission has also adopted a proposal for a regulation on the
+Magnetism .</p>
+<p>The following points shall be added:
+Theoretical problem 1</p>
+<p>300 cm3 of toluene has been measured in a container at 0 oC and
+110 cm3 of toluene has been measured in another container at 100 oC.
+The cubic dilation coefficient of toluene is  = 10-3 oC-1. It’s supposed to be in
+the mixture of liquids there is no heat loss with the outside.
+If you mix the two liquids, find:
+(a) an expression for the volume of toluene at 100 oC depending on the
+volume of toluene at 0 oC, V0 and the cubic dilation coefficient<br/>
+(b) the toluene density at 100 oC,
+(c) the equilibrium temperature of the mixture,
+(d) the toluene density at the equilibrium temperature,
+(e) the volume of the mixture,</p>
+<p>The following is the list of the Member States’ financial statements:
+Theoretical problem 2</p>
+<p>An electric light bulb with resistance Ro = 2 works at a voltage Uo = 4,5
+V. It connects to a battery of despicable internal resistance and strength .
+The electric motor U = 6 V by means of a cursor reostate which functions as a
+I’m not going to say. It is desirable that the efficiency (e = power consumed in the
+bulb / Total battery power) not less than 0.6.</p>
+<p>(a) Calculate the resistance value of the reostat.
+(b) What is the maximum possible efficiency?
+(c) In the situation of subparagraph (b) How to connect the bulb to the
+What about the re-establishment?</p>
+<p>The diagram of the electrical circuit is that of Figure 1.</p>
+<p>The following is the list of the Member States’ financial statements:
+Theoretical problem 3</p>
+<p>An electron of charge q = -1.6 x 10-19 C moves at a velocity v = (0.5 x
+105 i + 0.5 x 105 j) (m/s). The moment it passes through the point of
+coordinates (1, 1) to calculate:</p>
+<p>(a) The magnetic field B created by the electron at points (-1, -1) and (0, 2).</p>
+<p>The force exerted by a proton at point (0, 2) if it is moving at a speed:</p>
+<p>b) v = 2 x 105 k (m/s)</p>
+<p>c) v = 2 x 105 j (m/s)</p>
+<p>The data: 0 = 4 x 10-7 Tm/A
+(Note: the bold symbols denote vectors)</p>
+<p>The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 1303/2013.
+Theoretical problem 1
+Answer sheet.</p>
+<p>This section</p>
+<p>Score
+a)</p>
+<p>V100 =</p>
+<p>2p
+b)</p>
+<p>100 =</p>
+<p>2p
+c)</p>
+<p>Te =</p>
+<p>2p
+d)</p>
+<p>balance =</p>
+<p>1p
+e)</p>
+<p>Mixing</p>
+<p>3p</p>
+<p>The following is the list of the Member States’ financial statements:
+Theoretical problem 2
+Answer sheet.</p>
+<p>This section</p>
+<p>Score
+a)</p>
+<p>R =</p>
+<p>4p
+b)</p>
+<p>The following is the list of the following:</p>
+<p>4p
+c)</p>
+<p>The diagram</p>
+<p>2p</p>
+<p>The following is the list of the countries of the European Union:
+Theoretical problem 3
+Answer sheet.</p>
+<p>This section</p>
+<p>Score
+a)</p>
+<p>B(-1, -1) =</p>
+<p>B( 0,  2) =</p>
+<p>4p
+b)</p>
+<p>v =</p>
+<p>3p
+c)</p>
+<p>v =</p>
+<p>3p</p>
+<p>The following is the list of the Member States’ financial statements:
+Experimental problem .
+The objective:</p>
+<ul>
+<li>Study the caloric power of a candle.</li>
+</ul>
+<p>Brief description</p>
+<p>A candle is a wax cylinder .
+With a pavilion on the axis so that
+It can be turned on and like
+The result of the combustion of the
+Wax radiates light and heat.
+The flame of the candle has
+The temperature difference between the two is the temperature difference (see the
+Figure 1) and radiation of heat and light in
+All directions. However,
+by the convection mechanism,
+The heat mainly flows in the
+vertical direction (towards where
+point the flame).
+Figure 1</p>
+<p>The heat flow emitted by the
+Watch in the direction of its axis
+(vertical) can be studied
+by the device which
+It is outlined in Figure
+2. It consists of a
+ice sheet, supported
+On a sheet of metal .
+Fine, which is slightly
+inclined. Under the
+The same as the previously mentioned
+A shaft that passes through the center.
+The candle is placed from the lid.
+The flame of the latter is
+at a distance d from the
+It’s a plaque. At the lower end
+The plate is located one
+Graduated syringe, without plunger
+and with the fine end (where
+The needle is going to be covered .
+be replaced by a
+the test).
+The water produced by melting the ice is collected in the syringe and determined
+Your volume is going. Determining the time (t) and the heat
+The energy content of the ice (80 cal/g) can be estimated per unit of
+Time (power) that has reached the ice from the candle.</p>
+<p>Look at that .
+syringe
+I ‘m not a big fan .
+The plate
+d
+Water
+Figure 2
+Plastic</p>
+<p>The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EU) No 1303/2013.
+Consigns
+(a) Give some of the hypotheses that have been made in the description
+The Commission has not yet made any specific proposals. Some of them
+They involve the sheet and relate to its dimensions. Other
+They’re related to the temperature of the environment, the ice, the water.
+(b) Measure the ambient temperature.
+(c) Implement the proposed device.
+(d) Measure the heat input from the environment. Determine if it is .
+Despicable or not.
+(e) Perform measurements of Va based on t for at least three
+different flame-plate distances (d). Each set must be
+composed of not less than ten pairs (t, Va).
+(f) Draw a graph t vs melting ice mass, corresponding to each
+distance d. Check if the behavior is approximately linear,
+In that case, adjust a straight line.
+(g) From the above graphs estimate the power (P) received by the
+ice cubes in each case.
+(h) Present these results in a graph (d vs P). Extrapolate these .
+results at d=0 and determine a PM value.
+Elements that may be useful:</p>
+<ul>
+<li>Fine sheet metal (despicable thickness).</li>
+<li>Ice cubes (at least 3).</li>
+<li>Plastiline (to prevent ice from slipping as a result of the
+The pendulum with which the plate is put).</li>
+<li>Sail (Ranchera mark or equivalent quality).</li>
+<li>Rule, millimeter paper or square, pencil.</li>
+<li>Graduated syringe of 10ml or more.</li>
+<li>It’s a timekeeper.</li>
+<li>Wood pins, wood pins (such as those for hanging clothes).</li>
+<li>Water receivers.</li>
+</ul>
+<p>The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EU) No 1303/2013.
+Experimental problem .
+Answer sheet.</p>
+<p>I ‘m giving it away .
+This section</p>
+<p>Score
+a)
+Hypothesis</p>
+<p>b)
+Value</p>
+<p>c)</p>
+<p>Scheme and elements used</p>
+<p>d)</p>
+<p>Method used, results.</p>
+<p>e)</p>
+<p>Measurement tables.</p>
+<p>f)</p>
+<p>Graphics</p>
+<p>g)</p>
+<p>Table of results</p>
+<p>h)</p>
+<p>Graph and value obtained from PM</p>
+<p>The following is the list of the Member States’ financial statements:</p>
+<p>Local authorities
+Theoretical problems</p>
+<p>The following is the list of the Member States’ financial statements:</p>
+
+<p><img src="../_attachments/cuadernillo_2013/cuadernillo_2013_p09_f1.png" alt width="auto" height="auto"/>
+<img src="../_attachments/cuadernillo_2013/cuadernillo_2013_p09_f2.png" alt width="auto" height="auto"/>
+<img src="../_attachments/cuadernillo_2013/cuadernillo_2013_p11_f3.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/geometric-optics" class="internal internal-link alias" data-slug="topics/geometric-optics">Geometric Optics</a>
+<strong>Metodi:</strong> <a href="../methods/ray-tracing-(metodo)" class="internal internal-link alias" data-slug="methods/ray-tracing-(metodo)">Ray Tracing</a>, <a href="../methods/thin-lens--and--mirror-equation-(metodo)" class="internal internal-link alias" data-slug="methods/thin-lens--and--mirror-equation-(metodo)">Thin Lens &amp; Mirror Equation</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../objects/mirror-(object)" class="internal internal-link alias" data-slug="objects/mirror-(object)">Mirror</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1ZjOHaivInz1ql2TMC4e_aXJri9PIrQlv/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"><div class="toc"><button type="button" class="toc-header" aria-controls="toc-401" aria-expanded="true"><h3>Indice</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-0" class="toc-content overflow"><li class="depth-0"><a href="#apéndiceuso-del-calibreel-calibre-provisto-tiene-una-apreciación-de-002mma-continuación-se-describe-brevemente-como-realizar-una-lectura-en-el-calibre" data-for="apéndiceuso-del-calibreel-calibre-provisto-tiene-una-apreciación-de-002mma-continuación-se-describe-brevemente-como-realizar-una-lectura-en-el-calibre">Apéndice:Uso del calibre
+El calibre provisto tiene una apreciación de 0,02mm.
+A continuación se describe brevemente como realizar una lectura en el calibre.</a></li><li class="depth-0"><a href="#ubicar-el-cero-del-nonio-vernier-reglita-desplazable" data-for="ubicar-el-cero-del-nonio-vernier-reglita-desplazable">Ubicar el cero del nonio (vernier, reglita desplazable)</a></li><li class="depth-0"><a href="#leer-en-la-escala-milimetrada-la-cantidad-de-milímetros-que-mejoraproxima-por-debajo-a-la-posición-del-cero-del-nonio-m" data-for="leer-en-la-escala-milimetrada-la-cantidad-de-milímetros-que-mejoraproxima-por-debajo-a-la-posición-del-cero-del-nonio-m">Leer en la escala milimetrada la cantidad de milímetros que mejor
+aproxima (por debajo) a la posición del cero del nonio (M).</a></li><li class="depth-0"><a href="#determinar-la-raya-del-nonio-que-coincide-con-una-correspondiente-a-laescala-milimetrada-contar-el-número-de-divisiones-n-que-hay-entre-elcero-del-nonio-y-la-raya-que-coincide" data-for="determinar-la-raya-del-nonio-que-coincide-con-una-correspondiente-a-laescala-milimetrada-contar-el-número-de-divisiones-n-que-hay-entre-elcero-del-nonio-y-la-raya-que-coincide">Determinar la raya del nonio que “coincide” con una correspondiente a la
+escala milimetrada. Contar el número de divisiones (N) que hay entre el
+cero del nonio y la raya que “coincide”.</a></li><li class="depth-0"><a href="#uso-del-multímetroa-continuación-se-describe-brevemente-como-realizar-una-lectura-de-resistencia" data-for="uso-del-multímetroa-continuación-se-describe-brevemente-como-realizar-una-lectura-de-resistencia">Uso del multímetro
+A continuación se describe brevemente como realizar una lectura de resistencia.</a></li><li class="depth-0"><a href="#verificar-que-por-la-resistencia-no-esté-circulando-corriente-apagar-lafuente" data-for="verificar-que-por-la-resistencia-no-esté-circulando-corriente-apagar-lafuente">Verificar que por la resistencia no esté circulando corriente (apagar la
+fuente).</a></li><li class="depth-0"><a href="#ubicar-la-perilla-indicadora-en-el-mayor-valor-de-la-escala-de-ohmios-" data-for="ubicar-la-perilla-indicadora-en-el-mayor-valor-de-la-escala-de-ohmios-">Ubicar la perilla indicadora en el mayor valor de la escala de ohmios ().</a></li><li class="depth-0"><a href="#conectar-los-cables-provistos-en-los-lugares-de-conexión-indicados-comocom-cable-negro-y-en-vhz-cable-rojo" data-for="conectar-los-cables-provistos-en-los-lugares-de-conexión-indicados-comocom-cable-negro-y-en-vhz-cable-rojo">Conectar los cables provistos en los lugares de conexión indicados como
+COM (cable negro) y en VHz (cable rojo).</a></li><li class="depth-0"><a href="#conectar-o-apoyar-firmemente-cada-uno-de-los-extremos-libres-de-estoscables-en-los-extremos-de-la-resistencia-desconocida" data-for="conectar-o-apoyar-firmemente-cada-uno-de-los-extremos-libres-de-estoscables-en-los-extremos-de-la-resistencia-desconocida">Conectar o apoyar firmemente cada uno de los extremos libres de estos
+cables en los extremos de la resistencia desconocida.</a></li><li class="depth-0"><a href="#leer-el-display-cambiar-la-escala-de-ser-posible-para-aumentar-laprecisióna-continuación-se-describe-brevemente-como-realizar-una-lectura-de-voltaje" data-for="leer-el-display-cambiar-la-escala-de-ser-posible-para-aumentar-laprecisióna-continuación-se-describe-brevemente-como-realizar-una-lectura-de-voltaje">Leer el display. Cambiar la escala, de ser posible, para aumentar la
+precisión.A continuación se describe brevemente como realizar una lectura de voltaje.</a></li><li class="depth-0"><a href="#ubicar-la-perilla-indicadora-en-el-mayor-valor-de-la-escala-de-vcc-v" data-for="ubicar-la-perilla-indicadora-en-el-mayor-valor-de-la-escala-de-vcc-v">Ubicar la perilla indicadora en el mayor valor de la escala de VCC (V—).</a></li><li class="depth-0"><a href="#conectar-los-cables-provistos-en-los-lugares-de-conexión-indicados-comocom-cable-negro-y-en-vhz-cable-rojo-1" data-for="conectar-los-cables-provistos-en-los-lugares-de-conexión-indicados-comocom-cable-negro-y-en-vhz-cable-rojo-1">Conectar los cables provistos en los lugares de conexión indicados como
+COM (cable negro) y en VHz (cable rojo).</a></li><li class="depth-0"><a href="#appendiceutilizzare-il-calibroil-calibro-fornito-ha-unapprezzamento-di-002-mmin-seguito-è-descritto-brevemente-come-eseguire-una-lettura-in-calibro" data-for="appendiceutilizzare-il-calibroil-calibro-fornito-ha-unapprezzamento-di-002-mmin-seguito-è-descritto-brevemente-come-eseguire-una-lettura-in-calibro">Appendice:
+Utilizzare il calibro
+Il calibro fornito ha un’apprezzamento di 0,02 mm.
+In seguito è descritto brevemente come eseguire una lettura in calibro.</a></li><li class="depth-0"><a href="#localizzazione-del-nonio-vernier-regolato-mobile" data-for="localizzazione-del-nonio-vernier-regolato-mobile">Localizzazione del nonio (vernier, regolato mobile)</a></li><li class="depth-0"><a href="#leggi-su-scala-millimetrica-il-numero-di-millimetri-che-megliosi-avvicina-sotto-alla-posizione-di-zero-di-nonio-m" data-for="leggi-su-scala-millimetrica-il-numero-di-millimetri-che-megliosi-avvicina-sotto-alla-posizione-di-zero-di-nonio-m">Leggi su scala millimetrica il numero di millimetri che meglio
+si avvicina (sotto) alla posizione di zero di nonio (M).</a></li><li class="depth-0"><a href="#determinare-la-linea-di-nonio-che-coincide-con-una-corrispondente-alla-linea-di-nonioscala-a-millimetro-contare-il-numero-di-divisioni-n-tra-ilzero-di-nonio-e-la-linea-che-coincide" data-for="determinare-la-linea-di-nonio-che-coincide-con-una-corrispondente-alla-linea-di-nonioscala-a-millimetro-contare-il-numero-di-divisioni-n-tra-ilzero-di-nonio-e-la-linea-che-coincide">Determinare la linea di nonio che coincide con una corrispondente alla linea di nonio
+scala a millimetro. Contare il numero di divisioni (N) tra il
+Zero di nonio e la linea che coincide.</a></li><li class="depth-0"><a href="#uso-del-multimetroqui-di-seguito-è-descritto-brevemente-come-eseguire-una-lettura-di-resistenza" data-for="uso-del-multimetroqui-di-seguito-è-descritto-brevemente-come-eseguire-una-lettura-di-resistenza">Uso del multimetro
+Qui di seguito è descritto brevemente come eseguire una lettura di resistenza.</a></li><li class="depth-0"><a href="#verificare-che-la-resistenza-non-stia-circolando-corrente-spegnere-la-correntefonte" data-for="verificare-che-la-resistenza-non-stia-circolando-corrente-spegnere-la-correntefonte">Verificare che la resistenza non stia circolando corrente (spegnere la corrente).
+fonte).</a></li><li class="depth-0"><a href="#posizionare-il-perello-indicativo-nel-valore-più-alto-della-scala-di-ommi-" data-for="posizionare-il-perello-indicativo-nel-valore-più-alto-della-scala-di-ommi-">Posizionare il perello indicativo nel valore più alto della scala di ommi ().</a></li><li class="depth-0"><a href="#collegare-i-cavi-forniti-nei-punti-di-connessione-indicati-comecom-cabo-nero-e-vhz-cabo-rosso" data-for="collegare-i-cavi-forniti-nei-punti-di-connessione-indicati-comecom-cabo-nero-e-vhz-cabo-rosso">Collegare i cavi forniti nei punti di connessione indicati come
+COM (cabo nero) e VHz (cabo rosso).</a></li><li class="depth-0"><a href="#connettere-o-sostenere-fermamente-ogni-estremità-libera-di-questicavi-a-estremità-di-resistenza-sconosciuta" data-for="connettere-o-sostenere-fermamente-ogni-estremità-libera-di-questicavi-a-estremità-di-resistenza-sconosciuta">Connettere o sostenere fermamente ogni estremità libera di questi
+Cavi a estremità di resistenza sconosciuta.</a></li><li class="depth-0"><a href="#posizionare-il-perello-indicativo-nel-valore-più-alto-della-scala-vcc-v" data-for="posizionare-il-perello-indicativo-nel-valore-più-alto-della-scala-vcc-v">Posizionare il perello indicativo nel valore più alto della scala VCC (V—).</a></li><li class="depth-0"><a href="#collegare-i-cavi-forniti-nei-punti-di-connessione-indicati-comecom-cabo-nero-e-vhz-cabo-rosso-1" data-for="collegare-i-cavi-forniti-nei-punti-di-connessione-indicati-comecom-cabo-nero-e-vhz-cabo-rosso-1">Collegare i cavi forniti nei punti di connessione indicati come
+COM (cabo nero) e VHz (cabo rosso).</a></li><li class="depth-0"><a href="#appendixuse-of-the-caliberthe-caliber-provided-has-an-estimate-of-002mmthe-following-brief-description-describes-how-to-perform-a-caliber-reading" data-for="appendixuse-of-the-caliberthe-caliber-provided-has-an-estimate-of-002mmthe-following-brief-description-describes-how-to-perform-a-caliber-reading">Appendix:
+Use of the caliber
+The caliber provided has an estimate of 0.02mm.
+The following brief description describes how to perform a caliber reading.</a></li><li class="depth-0"><a href="#locate-the-zero-of-the-nonium-vernier-displayable-reglite" data-for="locate-the-zero-of-the-nonium-vernier-displayable-reglite">Locate the zero of the nonium (vernier, displayable reglite)</a></li><li class="depth-0"><a href="#read-on-the-millimeter-scale-the-number-of-millimeters-you-need-bestapproaches-below-the-position-of-the-nodium-m-zero" data-for="read-on-the-millimeter-scale-the-number-of-millimeters-you-need-bestapproaches-below-the-position-of-the-nodium-m-zero">Read on the millimeter scale the number of millimeters you need best
+approaches (below) the position of the nodium (M) zero.</a></li><li class="depth-0"><a href="#determine-the-nonium-line-that-coincides-with-one-corresponding-to-thethe-millimetre-scale-count-the-number-of-divisions-n-between-thenonium-zero-and-the-corresponding-line" data-for="determine-the-nonium-line-that-coincides-with-one-corresponding-to-thethe-millimetre-scale-count-the-number-of-divisions-n-between-thenonium-zero-and-the-corresponding-line">Determine the nonium line that coincides with one corresponding to the
+the millimetre scale. Count the number of divisions (N) between the
+Nonium zero and the corresponding line.</a></li><li class="depth-0"><a href="#use-of-the-multimeterthe-following-brief-description-describes-how-to-perform-a-resistance-reading" data-for="use-of-the-multimeterthe-following-brief-description-describes-how-to-perform-a-resistance-reading">Use of the multimeter
+The following brief description describes how to perform a resistance reading.</a></li><li class="depth-0"><a href="#check-that-the-resistance-is-not-running-turn-off-the-power-supplysource" data-for="check-that-the-resistance-is-not-running-turn-off-the-power-supplysource">Check that the resistance is not running (turn off the power supply)
+(Source)</a></li><li class="depth-0"><a href="#locate-the-indicator-beam-at-the-highest-value-of-the-ohmium-scale-" data-for="locate-the-indicator-beam-at-the-highest-value-of-the-ohmium-scale-">Locate the indicator beam at the highest value of the ohmium scale ().</a></li><li class="depth-0"><a href="#connect-the-cables-provided-at-the-connection-points-indicated-ascom-black-cable-and-vhz-red-cable" data-for="connect-the-cables-provided-at-the-connection-points-indicated-ascom-black-cable-and-vhz-red-cable">Connect the cables provided at the connection points indicated as
+COM (black cable) and VHz (red cable).</a></li><li class="depth-0"><a href="#connect-or-firmly-support-each-of-the-free-ends-of-thesecables-at-the-ends-of-unknown-resistance" data-for="connect-or-firmly-support-each-of-the-free-ends-of-thesecables-at-the-ends-of-unknown-resistance">Connect or firmly support each of the free ends of these
+cables at the ends of unknown resistance.</a></li><li class="depth-0"><a href="#read-the-display-change-the-scale-if-possible-to-increase-thethe-exactnessthe-following-is-a-brief-description-of-how-to-perform-a-voltage-reading" data-for="read-the-display-change-the-scale-if-possible-to-increase-thethe-exactnessthe-following-is-a-brief-description-of-how-to-perform-a-voltage-reading">Read the display. Change the scale, if possible, to increase the
+The exactness.
+The following is a brief description of how to perform a voltage reading.</a></li><li class="depth-0"><a href="#locate-the-indicator-beam-at-the-highest-value-of-the-vcc-scale-v" data-for="locate-the-indicator-beam-at-the-highest-value-of-the-vcc-scale-v">Locate the indicator beam at the highest value of the VCC scale (V—).</a></li><li class="depth-0"><a href="#connect-the-cables-provided-at-the-connection-points-indicated-ascom-black-cable-and-vhz-red-cable-1" data-for="connect-the-cables-provided-at-the-connection-points-indicated-ascom-black-cable-and-vhz-red-cable-1">Connect the cables provided at the connection points indicated as
+COM (black cable) and VHz (red cable).</a></li><li class="overflow-end"></li></ul></div></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/mirror-(object)" class="internal">Mirror</a></li><li><a href="../prove/cuadernillo_2013" class="internal">Argent 2013</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="it" dir="ltr"><head><title>OII na Sperimentale — Problema 1</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="OII na Sperimentale — Problema 1"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="OII na Sperimentale — Problema 1"/><meta name="twitter:description" content="Experiment Q1-1 Italiano (Italy) Misura di massa (10 punti) In questo problema sperimentale si cerca di fare una misura di massa."/><meta property="og:description" content="Experiment Q1-1 Italiano (Italy) Misura di massa (10 punti) In questo problema sperimentale si cerca di fare una misura di massa."/><meta property="og:image:alt" content="Experiment Q1-1 Italiano (Italy) Misura di massa (10 punti) In questo problema sperimentale si cerca di fare una misura di massa."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/exam-experiment-q1-italiano_3__q01"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/exam-experiment-q1-italiano_3__q01"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Experiment Q1-1 Italiano (Italy) Misura di massa (10 punti) In questo problema sperimentale si cerca di fare una misura di massa."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/exam-experiment-q1-italiano_3__q01" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-10414" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-10414" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>OII na Sperimentale — Problema 1</a></div></nav><h1 class="article-title">OII na Sperimentale — Problema 1</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/nazione/italia" class="internal internal-link tag-link">nazione/italia</a><span class="note-properties-separator">, </span><a href="../tags/tipo-gara/individuale" class="internal internal-link tag-link">tipo-gara/individuale</a><span class="note-properties-separator">, </span><a href="../tags/livello/internazionale" class="internal internal-link tag-link">livello/internazionale</a><span class="note-properties-separator">, </span><a href="../tags/difficolta/5" class="internal internal-link tag-link">difficolta/5</a><span class="note-properties-separator">, </span><a href="../tags/multidisciplina/multi" class="internal internal-link tag-link">multidisciplina/multi</a><span class="note-properties-separator">, </span><a href="../tags/topic/oscillations-e-waves" class="internal internal-link tag-link">topic/oscillations-e-waves</a><span class="note-properties-separator">, </span><a href="../tags/topic/magnetism" class="internal internal-link tag-link">topic/magnetism</a><span class="note-properties-separator">, </span><a href="../tags/topic/newtonian-mechanics" class="internal internal-link tag-link">topic/newtonian-mechanics</a><span class="note-properties-separator">, </span><a href="../tags/argomento/meccanica" class="internal internal-link tag-link">argomento/meccanica</a><span class="note-properties-separator">, </span><a href="../tags/object/spring" class="internal internal-link tag-link">object/spring</a><span class="note-properties-separator">, </span><a href="../tags/object/magnet" class="internal internal-link tag-link">object/magnet</a><span class="note-properties-separator">, </span><a href="../tags/object/coil" class="internal internal-link tag-link">object/coil</a><span class="note-properties-separator">, </span><a href="../tags/object/mirror" class="internal internal-link tag-link">object/mirror</a><span class="note-properties-separator">, </span><a href="../tags/object/battery" class="internal internal-link tag-link">object/battery</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:28:04.241Z">02 lug 2026</time><span>14 minuti</span></p><ul class="tags"><li><a href="../tags/nazione/italia" class="internal tag-link">nazione/italia</a></li><li><a href="../tags/tipo-gara/individuale" class="internal tag-link">tipo-gara/individuale</a></li><li><a href="../tags/livello/internazionale" class="internal tag-link">livello/internazionale</a></li><li><a href="../tags/difficolta/5" class="internal tag-link">difficolta/5</a></li><li><a href="../tags/multidisciplina/multi" class="internal tag-link">multidisciplina/multi</a></li><li><a href="../tags/topic/oscillations-e-waves" class="internal tag-link">topic/oscillations-e-waves</a></li><li><a href="../tags/topic/magnetism" class="internal tag-link">topic/magnetism</a></li><li><a href="../tags/topic/newtonian-mechanics" class="internal tag-link">topic/newtonian-mechanics</a></li><li><a href="../tags/argomento/meccanica" class="internal tag-link">argomento/meccanica</a></li><li><a href="../tags/object/spring" class="internal tag-link">object/spring</a></li><li><a href="../tags/object/magnet" class="internal tag-link">object/magnet</a></li><li><a href="../tags/object/coil" class="internal tag-link">object/coil</a></li><li><a href="../tags/object/mirror" class="internal tag-link">object/mirror</a></li><li><a href="../tags/object/battery" class="internal tag-link">object/battery</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="it"></div>
+<p>Experiment
+Q1-1
+Italiano (Italy)
+Misura di massa (10 punti)
+In questo problema sperimentale si cerca di fare una misura di massa. Misuriamo inoltre la massa
+utilizzando le caratteristiche di risonanza dell’oscillatore armonico.
+Configurazione sperimentale
+Di seguito è riportato l’elenco dei componenti (Fig. 1). Il numero delle parti è indicato in [ ] solo se sono
+due o più.
+Figura 1: L’apparato sperimentale.</p>
+<ol>
+<li>Base di montaggio:
+Nota: l’unità magnetica sulla base crea campi magnetici radiali uniformi garantiti indipendenti
+dall’altezza in prossimità del centro della coppia di magneti fino a <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">±</span><span class="mord">3</span></span></span></span> mm in altezza.</li>
+<li>(Oscillatore) supporto</li>
+<li>Dado a farfalla [2]:
+Nota: rimuovere 2 e 3 da 1 nel materiale ricevuto per utilizzarlo.</li>
+<li>Spessori (rondelle) [6]</li>
+</ol>
+<p>Experiment
+Q1-2
+Italiano (Italy)
+5. Oscillatore cilindrico
+6. Elastici [6]
+7. Segnalini [2]
+8. Pesi [5]
+9. Pinzette
+10. Specchio
+11. Blocco di rialzo
+12. Alimentazione:
+È possibile attivare la modalità DC (corrente continua) o AC (corrente alternata).
+In modalità DC, funziona come sorgente di corrente costante. Ruotare la manopola ”DC Vol” per
+regolare la corrente. Il valore della corrente si ottiene dalla tensione tra ”DCmon” e ”DC GND”
+utilizzando il fattore di conversione
+1.00 A/V.
+In modalità AC, funziona come sorgente di tensione con un’ampiezza fissa. Ruotare ”AC Vol” per regolare la tensione. La corrente alternata si ottiene dalla tensione tra ”ACmon” e ”AC GND” utilizzando
+il fattore di conversione 0.106 A/V.
+La frequenza (Freq.) può essere regolata utilizzando le manopole di regolazione ”Coarse” e ”Fine”.
+13. Portabatterie [2]
+14. Batterie [8]
+15. Fili con collegato terminale a U [2]
+16. Fili con terminale a coccodrillo [2]
+17. Multimetro digitale (DMM):
+Ruotare la manopola per selezionare la modalità di misurazione appropriata, ”DCV”, ”ACV” e ”Hz”.
+Si noti che il valore visualizzato della tensione AC indica il valore quadratico medio (RMS), ossia il
+valore effettivo.
+Modellizzazione del sistema
+La Figura 2 rappresenta un modello semplificato dell’apparato sperimentale. Si tratta essenzialmente di
+un oscillatore forzato a massa su molla.</p>
+<p>Experiment
+Q1-3
+Italiano (Italy)
+Figura 2: Modello di oscillatore armonico.
+I parametri rilevanti sono:
+• M: massa dell’oscillatore (cilindrico)
+• m: massa di un pesetto
+• N: il numero di pesetti
+• g: accelerazione di gravità
+• k: costante elastica effettiva relativa al moto verticale
+• z: altezza (o spostamento) dell’oscillatore
+• ze: altezza dell’oscillatore alla quale si stabilisce l’equilibrio delle forze in assenza di forze elettromagnetiche e gravitazionali.
+• <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0019em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.0502em;">B</span><span class="mopen">(</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.0502em;">B</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>): campo magnetico applicato alla bobina (di controllo) principale
+• <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0019em;vertical-align:-0.25em;"></span><span class="mord mathnormal">L</span><span class="mopen">(</span><span class="mord"><span class="mord mathnormal">L</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>): lunghezza del filo conduttore della bobina (di controllo) principale
+• <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0019em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.0785em;">I</span><span class="mopen">(</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.0785em;">I</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>): corrente che scorre attraverso la bobina (di controllo) principale
+• α: coefficiente positivo di resistenza aerodinamica
+L’equazione del moto è data da
+(M+ Nm)d2z
+dt2 = <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">−</span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.109em;">M</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.109em;">N</span><span class="mord mathnormal">m</span><span class="mclose">)</span><span class="mord mathnormal" style="margin-right:0.0359em;">g</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.0315em;">k</span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.044em;">z</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.044em;">z</span><span class="mord mathnormal">e</span></span></span></span>) + BLI+ <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8352em;vertical-align:-0.0833em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.0502em;">B</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mord"><span class="mord mathnormal">L</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.0785em;">I</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span><span class="mord mathnormal">d</span><span class="mord mathnormal" style="margin-right:0.044em;">z</span></span></span></span>
+dt.
+(1)
+Installazione dell’oscillatore</p>
+<ol>
+<li>Rimuovere il supporto dalla base di montaggio. Avvolgere quattro elastici intorno ad esso secondo
+uno schema a griglia (vedere la Fig. 3(a)).</li>
+<li>Inserire l’oscillatore cilindrico dal lato della bilancia nell’apertura quadrata in mezzo agli elastici
+incrociati. Posizionare i conduttori sull’altro lato della bilancia. (Fig. 3(b)).</li>
+<li>L’oscillatore è stato progettato per essere appeso al supporto con quattro elastici e otto piccoli ganci
+(cerchiati in rosso nella Fig. 3(c)). Se realizzato correttamente, un anello di elastici forma un rombo
+tronco con due ganci sopra e sotto il livello del supporto nella vista laterale.
+Nota: in questo esperimento, possiamo assumere che la forza effettiva dovuta agli elastici obbedisca alla legge di Hooke.</li>
+</ol>
+<p>Experiment
+Q1-4
+Italiano (Italy)
+4. Fissare nuovamente il supporto al montante in diagonale con i due dadi a farfalla. La bilancia deve
+stare in piedi sopra, non a lato dei montanti (Fig. 3(d)).
+5. Mettere l’oscillatore in posizione verticale. Il suo asse deve essere allineato verticalmente e coincidere con quello dell’unità magnetica.
+6. La bobina principale dovrebbe trovarsi vicino al centro dei due magneti quando è a riposo, il che può
+essere confermato dalla distanza tra la superficie superiore del magnete inferiore e la superficie
+inferiore dell’oscillatore pari a 3-5 mm (Fig. 3(e) freccia rossa). Se è minore, inserire degli spessori
+tra i morsetti e il supporto (Fig. 3(f) freccia rossa). Se è maggiore, ruotare il montante del magnete
+per rimuoverlo e aggiungere lo spessore sotto il montante (Fig. 3(f) freccia gialla).
+7. Esporre la superficie adesiva del nastro biadesivo sul segnalino (Fig. 4(a)). Incollare il segnalino sul
+piccolo ripiano fluttuante dell’oscillatore per misurare l’altezza (Fig. 4(b)).
+8. Posizionare lo specchio sul blocco di rialzo (Fig. 4(c)). Assicurare una visione chiara del segnalino
+dall’alto attraverso lo specchio (Fig. 4(d) cerchio rosso).
+Figura 3: Installazione dell’oscillatore.</p>
+<p>Experiment
+Q1-5
+Italiano (Italy)
+Figura 4: Installazione del segnalino e dello specchio.
+Cablaggio</p>
+<ol>
+<li>Individuare e tirare delicatamente la coppia di fili corretta che conduce alle bobine principali (M) e
+di controllo (C) (Fig. 3(c)) dall’interno dell’oscillatore (Fig. 3(b)). Controllare se lo smalto è stato tolto
+dalle estremità allentate.</li>
+<li>Allentare la vite sui morsetti M+ e M- per lasciare degli spazi vuoti. Utilizzare gli spazi inferiori per il
+cablaggio (Fig. 5(a), (b)). Il controllo della polarità verrà spiegato dopo.</li>
+<li>Collegare allo stesso modo i morsetti etichettati C+ e C-. (Entrambe le polarità sono accettabili).</li>
+<li>Posizionare le batterie negli appositi supporti e fissare i collegamenti con l’alimentatore (CN1, CN2)
+(Fig. 5(c)).</li>
+<li>Collegare i morsetti M+ e M- all’uscita DC (DC+ e DC-) dell’alimentatore utilizzando i fili dei terminali
+a U.</li>
+<li>Selezionare corrente continua (DC) e accendere l’alimentatore.</li>
+<li>Ruotare la manopola ”DC Vol.” per regolare la corrente. Verificare se l’oscillatore si sposta verso
+l’alto di 2mm o di più. Se si muove verso il basso, scambiare i fili per invertire la polarità e riprovare.
+Attenzione: Parti calde. Attenzione alle bobine e ai magneti. Al termine di ogni fase, abbassare
+l’uscita DC al minimo.</li>
+</ol>
+<p>Experiment
+Q1-6
+Italiano (Italy)
+Figura 5: (a), (b) I morsetti cablati, (c) L’intero impianto cablato, compresi alimentazione e
+batterie.
+Prova dell’oscillatore</p>
+<ol>
+<li>Collegare i morsetti M+ e M- all’uscita AC (AC+ e AC-) con i fili con i terminali a U.</li>
+<li>Selezionare corrente alternata (AC) e accendere l’alimentatore.</li>
+<li>Ruotare la manopola ”AC Vol.” in senso orario partendo dal minimo fino a un quarto di giro. Sintonizzare la frequenza con la manopola ”Coarse” per avviare l’oscillazione.</li>
+<li>Regolare la tensione e la frequenza di uscita AC per ottenere un’oscillazione di ampiezza A=
+3 mm circa (Fig. 6). Se l’oscillazione è instabile, regolare le impostazioni dell’oscillatore in modo
+appropriato.</li>
+<li>Scollegare M+ e M- e collegare i morsetti C+ e C- all’uscita AC.</li>
+<li>Accendere l’alimentatore per far partire di nuovo l’oscillazione.</li>
+</ol>
+<p>Experiment
+Q1-7
+Italiano (Italy)
+Figura 6: comportamento dell’oscillazione visto attraverso lo specchio.
+Parte A. Legge di Hooke e forze elettromagnetiche (2.4 punti)
+A.1
+Disegnare nel foglio risposte le linee di campo magnetico create dai due
+magneti identici a forma di disco quando i poli N sono rivolti l’uno verso l’altro.
+0.4 pt
+A.2
+Collegare i morsetti M+ e M- all’uscita DC. Accoppiare il DMM con i terminali per
+la lettura della corrente C utilizzando i fili a coccodrillo (Fig. 7).
+Leggere l’altezza dell’oscillatore a corrente continua nulla senza pesi addizionali,
+ossia, N= 0. Scrivi il dato nella Tabella A.2.
+Mettere un peso (N= 1) su un ripiano circolare che sporge dalla parete interna
+del cilindro e registrare l’altezza za cui l’oscillatore si ferma.
+Qual è il valore della corrente continua Iche bisogna far scorre nella bobina
+principale per riportare l’oscillatore al punto</p>
+
+<p><strong>p.1</strong> — Apparato sperimentale: componenti numerati
+<img src="../_attachments/exam-experiment-q1-italiano_3/exam-experiment-q1-italiano_3_p1_f1.png" alt width="auto" height="auto"/></p>
+
+
+<p><strong>p.3</strong> — Modello di oscillatore armonico
+<img src="../_attachments/exam-experiment-q1-italiano_3/exam-experiment-q1-italiano_3_p3_f2.png" alt width="auto" height="auto"/></p>
+
+
+<p><strong>p.4</strong> — Installazione dell’oscillatore, pannelli a-e
+<img src="../_attachments/exam-experiment-q1-italiano_3/exam-experiment-q1-italiano_3_p4_f3.png" alt width="auto" height="auto"/></p>
+
+
+<p><strong>p.5</strong> — Installazione segnalino e specchio, pannelli a-d
+<img src="../_attachments/exam-experiment-q1-italiano_3/exam-experiment-q1-italiano_3_p5_f4.png" alt width="auto" height="auto"/></p>
+
+
+<p><strong>p.6</strong> — Morsetti e impianto cablato completo
+<img src="../_attachments/exam-experiment-q1-italiano_3/exam-experiment-q1-italiano_3_p6_f5.png" alt width="auto" height="auto"/></p>
+
+
+<p><strong>p.7</strong> — Oscillatore visto attraverso lo specchio
+<img src="../_attachments/exam-experiment-q1-italiano_3/exam-experiment-q1-italiano_3_p7_f6.png" alt width="auto" height="auto"/></p>
+
+
+<p><strong>p.8</strong> — DMM collegato e oscillatore con peso
+<img src="../_attachments/exam-experiment-q1-italiano_3/exam-experiment-q1-italiano_3_p8_f7.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/oscillations--and--waves" class="internal internal-link alias" data-slug="topics/oscillations--and--waves">Oscillations &amp; Waves</a>, <a href="../topics/magnetism" class="internal internal-link" data-slug="topics/magnetism">Magnetism</a>, <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>
+<strong>Metodi:</strong> <a href="../methods/simple-harmonic-motion-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/simple-harmonic-motion-analysis-(metodo)">Simple Harmonic Motion Analysis</a>, <a href="../methods/hooke's-law-(metodo)" class="internal internal-link alias" data-slug="methods/hooke's-law-(metodo)">Hooke’s Law</a>, <a href="../methods/lorentz-force-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/lorentz-force-analysis-(metodo)">Lorentz Force Analysis</a>, <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>
+<strong>Competenze:</strong> <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>, <a href="../skills/diagrammatic-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/diagrammatic-reasoning-(competenza)">Diagrammatic Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../objects/spring-(object)" class="internal internal-link alias" data-slug="objects/spring-(object)">Spring</a>, <a href="../objects/magnet-(object)" class="internal internal-link alias" data-slug="objects/magnet-(object)">Magnet</a>, <a href="../objects/coil-(object)" class="internal internal-link alias" data-slug="objects/coil-(object)">Coil</a>, <a href="../objects/mirror-(object)" class="internal internal-link alias" data-slug="objects/mirror-(object)">Mirror</a>, <a href="../objects/battery-(object)" class="internal internal-link alias" data-slug="objects/battery-(object)">Battery</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1fkNfJiqy80lGmRLp9aPLtRs0I35PbrfG/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+<strong>Soluzione:</strong> <a href="https://drive.google.com/file/d/1_0bpk6Qo3XGfcwS7VBkXMfowp8py_Qk8/view" class="external external-link">Soluzioni (PDF)<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>Experiments
+Q1-1
+Italian (Italy)
+Mass measurement (10 points)
+In this experimental problem we are trying to make a mass measurement. We also measure the mass
+using the resonance characteristics of the harmonic oscillator.
+The test shall be carried out in accordance with the following conditions:
+The following is a list of the components (Fig. 1). The number of parts is indicated in [ ] only if they are
+Two or more.
+Figure 1: The experimental apparatus.</p>
+<ol>
+<li>The following is the list of the following:
+Note: the magnetic unit on the basis creates independent guaranteed uniform radial magnetic fields
+from the height near the centre of the magnetic torque to <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">±</span><span class="mord">3</span></span></span></span> mm in height.</li>
+<li>(Obscillator) support</li>
+<li>Butterflyfish [2]:
+Note: Remove 2 and 3 from 1 in the material received for use.</li>
+<li>Other, of a thickness of not more than 10 mm</li>
+</ol>
+<p>Experiments
+Q1-2
+Italian (Italy)
+5. Other, of a kind used for the manufacture of goods of heading 8106
+6. Other, of a kind used for the manufacture of goods
+7. Signals [2]
+8. Weights [5]
+9. Other, of a thickness of not more than 0,01 mm
+10. Mirror
+11. The amount of the loan shall be calculated as follows:
+12. Food:
+The DC (continuous current) or AC (alternating current) mode can be activated.
+In DC mode, it works as a constant current source. Rotate the crankcase DC Vol for
+I’m going to adjust the current. The current value is obtained from the voltage between DCmon and DC GND
+using the conversion factor
+1.00 A/V.
+In AC mode, it operates as a fixed-amplitude voltage source. Rotate AC Vol to adjust the voltage. The alternating current is obtained from the voltage between ACmon and AC GND using
+The conversion factor is 0,106 A/V.
+The frequency (Freq.) can be adjusted using the Coarse and Fine controls.
+13. Other, of a kind used for the manufacture of electrical equipment
+14. Batteries [8]
+15. Wire with terminal connection to U [2]
+16. Wire with crocodile terminal [2]
+17. The following information shall be provided:
+Rotate the handle to select the appropriate measurement mode, DCV, ACV and Hz.
+Note that the displayed value of the AC voltage indicates the mean square value (RMS), i.e. the
+the actual value.
+Modelling of the system
+Figure 2 is a simplified model of the experimental apparatus. It is essentially a matter of
+a mass-force oscillator on the spring.</p>
+<p>Experiments
+Q1-3
+Italian (Italy)
+Figure 2: Model of harmonic oscillator.
+The relevant parameters are:
+• M: mass of the oscillator (cylinder)
+• m: mass of one peset
+• N: number of pesetas
+• g: acceleration by gravity
+• k: effective elastic constant relative to the vertical motion
+• z: height (or displacement) of the oscillator
+• Ze: height of the oscillator at which the balance of forces is established in the absence of electromagnetic and gravitational forces.
+• <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0019em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.0502em;">B</span><span class="mopen">(</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.0502em;">B</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>: magnetic field applied to the main (control) coil
+• <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0019em;vertical-align:-0.25em;"></span><span class="mord mathnormal">L</span><span class="mopen">(</span><span class="mord"><span class="mord mathnormal">L</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>: length of the main (control) coil conductive wire
+• <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0019em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.0785em;">I</span><span class="mopen">(</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.0785em;">I</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>: current flowing through the main (control) coil
+• α: positive coefficient of aerodynamic resistance
+The equation of the motion is given by
+(M+ Nm)d2z
+dt2 = <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">−</span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.109em;">M</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.109em;">N</span><span class="mord mathnormal">m</span><span class="mclose">)</span><span class="mord mathnormal" style="margin-right:0.0359em;">g</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.0315em;">k</span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.044em;">z</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.044em;">z</span><span class="mord mathnormal">e</span></span></span></span>) + BLI+ <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8352em;vertical-align:-0.0833em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.0502em;">B</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mord"><span class="mord mathnormal">L</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.0785em;">I</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span><span class="mord mathnormal">d</span><span class="mord mathnormal" style="margin-right:0.044em;">z</span></span></span></span>
+dt.
+(1)
+Installation of the oscillator</p>
+<ol>
+<li>Remove the support from the assembly base. Wrap four rubbers around it second
+A grid pattern (see Figure 1. 3(a)).</li>
+<li>Insert the cylindrical oscillator from the side of the scale into the square opening in the middle of the tyres
+crossed. Position the drivers on the other side of the balance. (Fig. 3(b)).</li>
+<li>The oscillator is designed to be suspended from the support with four elastic straps and eight small hooks
+(circled in red in Fig. 3(c)). If made correctly, a rubber ring forms a rope
+a trunk with two hooks above and below the support level in the side view.
+Note: In this experiment, we can assume that the actual force due to the elastic is subject to Hooke’s law.</li>
+</ol>
+<p>Experiments
+Q1-4
+Italian (Italy)
+4. Re-fix the support to the vertical side diagonally with the two butterfly dice. The balance sheet must be
+Standing on top, not on the side of the hills. 3(d)).
+5. Set the oscillator in a vertical position. Its axis must be aligned vertically and coincide with that of the magnetic unit.
+6. The main coil should be near the center of the two magnets when it is at rest, which can
+be confirmed by the distance between the upper surface of the magnet and the lower surface
+The maximum value of the oscillator is less than 3 to 5 mm (Fig. 3 (e) red arrow). If it is smaller, insert thicknesses
+The main features of the device are the use of the brushes and the support (Fig. 3 (f) red arrow). If it is larger, rotate the magnetic surge
+The weight of the material is not less than 0,5% of the weight of the material. 3 (f) yellow arrow).
+7. Exposing the adhesive surface of the bi-adhesive tape on the indicator (Fig. 4(a)). Pasting the sign on the
+The small floating plane of the oscillator to measure the height (Fig. 4(b)).
+8. Position the mirror on the upper block (Fig. 4(c)). Ensure clear vision of the sign
+From above through the mirror (Fig. 4 (d) red circle).
+Figure 3: Installation of the oscillator.</p>
+<p>Experiments
+Q1-5
+Italian (Italy)
+Figure 4: Installation of the sign and mirror.
+Other, of a kind used for the manufacture of goods</p>
+<ol>
+<li>Detect and gently pull the correct wire pair leading to the main coil (M) and
+The Commission has already adopted a number of proposals for a new programme. 3(c)) from the inside of the oscillator (Fig. 3(b)). Check if the enamel has been removed
+from loose ends.</li>
+<li>Loosen the screws on the M+ and M- wrists to leave empty spaces. Use the lower spaces for the
+The Commission has already adopted a proposal for a directive on the approximation of the laws of the Member States relating to the use of electricity. 5(a), (b)). The polarity control will be explained later.</li>
+<li>The C+ and C-marked knobs shall be connected in the same way. (Both polarities are acceptable).</li>
+<li>Place the batteries in the appropriate supports and connect them to the power supply (CN1, CN2)
+(Fig. 5(c)).</li>
+<li>Connecting the M+ and M-DC-output (DC+ and DC-) winding of the power supply using the terminal wires
+a U.</li>
+<li>Select direct current (DC) and turn on the power supply.</li>
+<li>Rotate the DC Vol. handle to adjust the current. Check whether the oscillator is moving towards
+2 mm or more in height. If you move down, swap the wires to reverse the polarity and try again.
+Warm parts. Watch out for the coils and the magnets. At the end of each stage, lower the
+The DC output is minimal.</li>
+</ol>
+<p>Experiments
+Q1-6
+Italian (Italy)
+Figure 5: (a), (b) Wired seals, (c) The whole wired system, including power and
+The batteries.
+Test of the oscillator</p>
+<ol>
+<li>Connect the M+ and M-output AC (AC+ and AC-) wires to the U-terminals.</li>
+<li>Select alternating current (AC) and turn on the power supply.</li>
+<li>Rotate the AC Vol. clockwise from the minimum to a quarter turn. Tune the frequency with the Coarse handle to start the oscillation.</li>
+<li>Adjust the AC output voltage and frequency to achieve an A= amplitude oscillation
+The size of the sample is approximately 3 mm (Fig. 6). If the oscillation is unstable, adjust the oscillator settings so that the oscillator is not
+The Commission has not yet taken a decision.</li>
+<li>Connect M+ and M- and connect the C+ and C-cranks to the AC output.</li>
+<li>Turn on the power supply to restart the oscillation.</li>
+</ol>
+<p>Experiments
+Q1-7
+Italian (Italy)
+Figure 6: Oscillation behaviour seen through the mirror.
+Part A. Hooke’s laws and electromagnetic forces (2.4 points)
+A.1
+Draw the magnetic field lines created by the two
+identical disk-shaped magnets when the N poles are facing each other.
+0.4 pt
+A.2
+Connect the M+ and M-output DC brackets. Couple the DMM with the terminals for
+The current C reading using the crocodile wires (Fig. 7).
+Reading the height of the DC oscillator is nothing without additional weights,
+That is, N=0. Enter the data in Table A.2.
+Put a weight (N= 1) on a circular plane protruding from the inner wall
+The cylinder shall be kept on the same level as the cylinder and the height at which the oscillator stops.
+What is the value of the DC current that must be drawn into the coil
+main to bring the oscillator back to the point</p>
+
+<p><strong>p.1</strong> — Apparato sperimentale: componenti numerati
+<img src="../_attachments/exam-experiment-q1-italiano_3/exam-experiment-q1-italiano_3_p1_f1.png" alt width="auto" height="auto"/></p>
+
+
+<p><strong>p.3</strong> — Modello di oscillatore armonico
+<img src="../_attachments/exam-experiment-q1-italiano_3/exam-experiment-q1-italiano_3_p3_f2.png" alt width="auto" height="auto"/></p>
+
+
+<p><strong>p.4</strong> — Installazione dell’oscillatore, pannelli a-e
+<img src="../_attachments/exam-experiment-q1-italiano_3/exam-experiment-q1-italiano_3_p4_f3.png" alt width="auto" height="auto"/></p>
+
+
+<p>**p.5 **  Signal and mirror installation, a-d panels
+<img src="../_attachments/exam-experiment-q1-italiano_3/exam-experiment-q1-italiano_3_p5_f4.png" alt width="auto" height="auto"/></p>
+
+
+<p>**p.6 **  Full cable-stayed plugs and fittings
+<img src="../_attachments/exam-experiment-q1-italiano_3/exam-experiment-q1-italiano_3_p6_f5.png" alt width="auto" height="auto"/></p>
+
+
+<p>**p.7 **  Oscillator seen through the mirror
+<img src="../_attachments/exam-experiment-q1-italiano_3/exam-experiment-q1-italiano_3_p7_f6.png" alt width="auto" height="auto"/></p>
+
+
+<p><strong>p.8</strong>  DMM connected and oscillator by weight
+<img src="../_attachments/exam-experiment-q1-italiano_3/exam-experiment-q1-italiano_3_p8_f7.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/oscillations--and--waves" class="internal internal-link alias" data-slug="topics/oscillations--and--waves">Oscillations &amp; Waves</a>, <a href="../topics/magnetism" class="internal internal-link" data-slug="topics/magnetism">Magnetism</a>, <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>
+<strong>Metodi:</strong> <a href="../methods/simple-harmonic-motion-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/simple-harmonic-motion-analysis-(metodo)">Simple Harmonic Motion Analysis</a>, <a href="../methods/hooke's-law-(metodo)" class="internal internal-link alias" data-slug="methods/hooke's-law-(metodo)">Hooke’s Law</a>, <a href="../methods/lorentz-force-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/lorentz-force-analysis-(metodo)">Lorentz Force Analysis</a>, <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>
+<strong>Competenze:</strong> <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>, <a href="../skills/diagrammatic-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/diagrammatic-reasoning-(competenza)">Diagrammatic Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../objects/spring-(object)" class="internal internal-link alias" data-slug="objects/spring-(object)">Spring</a>, <a href="../objects/magnet-(object)" class="internal internal-link alias" data-slug="objects/magnet-(object)">Magnet</a>, <a href="../objects/coil-(object)" class="internal internal-link alias" data-slug="objects/coil-(object)">Coil</a>, <a href="../objects/mirror-(object)" class="internal internal-link alias" data-slug="objects/mirror-(object)">Mirror</a>, <a href="../objects/battery-(object)" class="internal internal-link alias" data-slug="objects/battery-(object)">Battery</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1fkNfJiqy80lGmRLp9aPLtRs0I35PbrfG/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+<strong>Soluzione:</strong> <a href="https://drive.google.com/file/d/1_0bpk6Qo3XGfcwS7VBkXMfowp8py_Qk8/view" class="external external-link">Soluzioni (PDF)<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/battery-(object)" class="internal">Battery</a></li><li><a href="../objects/coil-(object)" class="internal">Coil</a></li><li><a href="../objects/magnet-(object)" class="internal">Magnet</a></li><li><a href="../objects/mirror-(object)" class="internal">Mirror</a></li><li><a href="../objects/spring-(object)" class="internal">Spring</a></li><li><a href="../prove/exam-experiment-q1-italiano_3" class="internal">OII na Sperimentale</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

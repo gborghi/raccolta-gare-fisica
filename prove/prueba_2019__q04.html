@@ -1,0 +1,2588 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr"><head><title>Argent 2019 Nazionale — Quesito 4</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="Argent 2019 Nazionale — Quesito 4"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Argent 2019 Nazionale — Quesito 4"/><meta name="twitter:description" content="Prueba Experimental Nivel 2 - Segunda Parte: Determinacion de gamma Segunda Parte."/><meta property="og:description" content="Prueba Experimental Nivel 2 - Segunda Parte: Determinacion de gamma Segunda Parte."/><meta property="og:image:alt" content="Prueba Experimental Nivel 2 - Segunda Parte: Determinacion de gamma Segunda Parte."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/prueba_2019__q04"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/prueba_2019__q04"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Prueba Experimental Nivel 2 - Segunda Parte: Determinacion de gamma Segunda Parte."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/prueba_2019__q04" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-17165" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-17165" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Argent 2019 Nazionale — Quesito 4</a></div></nav><h1 class="article-title">Argent 2019 Nazionale — Quesito 4</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/kg/prova" class="internal internal-link tag-link">kg/prova</a><span class="note-properties-separator">, </span><a href="../tags/paese/argentina" class="internal internal-link tag-link">paese/argentina</a><span class="note-properties-separator">, </span><a href="../tags/comp/argent" class="internal internal-link tag-link">comp/argent</a><span class="note-properties-separator">, </span><a href="../tags/cluster/termodinamica" class="internal internal-link tag-link">cluster/termodinamica</a><span class="note-properties-separator">, </span><a href="../tags/topic/thermodynamics" class="internal internal-link tag-link">topic/thermodynamics</a><span class="note-properties-separator">, </span><a href="../tags/argomento/termodinamica" class="internal internal-link tag-link">argomento/termodinamica</a><span class="note-properties-separator">, </span><a href="../tags/difficolta/3" class="internal internal-link tag-link">difficolta/3</a><span class="note-properties-separator">, </span><a href="../tags/multidisciplina/mono" class="internal internal-link tag-link">multidisciplina/mono</a><span class="note-properties-separator">, </span><a href="../tags/object/gas" class="internal internal-link tag-link">object/gas</a><span class="note-properties-separator">, </span><a href="../tags/object/cylinder" class="internal internal-link tag-link">object/cylinder</a><span class="note-properties-separator">, </span><a href="../tags/object/piston" class="internal internal-link tag-link">object/piston</a><span class="note-properties-separator">, </span><a href="../tags/object/manometer" class="internal internal-link tag-link">object/manometer</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:28:18.538Z">02 lug 2026</time><span>32 minuti</span></p><ul class="tags"><li><a href="../tags/kg/prova" class="internal tag-link">kg/prova</a></li><li><a href="../tags/paese/argentina" class="internal tag-link">paese/argentina</a></li><li><a href="../tags/comp/argent" class="internal tag-link">comp/argent</a></li><li><a href="../tags/cluster/termodinamica" class="internal tag-link">cluster/termodinamica</a></li><li><a href="../tags/topic/thermodynamics" class="internal tag-link">topic/thermodynamics</a></li><li><a href="../tags/argomento/termodinamica" class="internal tag-link">argomento/termodinamica</a></li><li><a href="../tags/difficolta/3" class="internal tag-link">difficolta/3</a></li><li><a href="../tags/multidisciplina/mono" class="internal tag-link">multidisciplina/mono</a></li><li><a href="../tags/object/gas" class="internal tag-link">object/gas</a></li><li><a href="../tags/object/cylinder" class="internal tag-link">object/cylinder</a></li><li><a href="../tags/object/piston" class="internal tag-link">object/piston</a></li><li><a href="../tags/object/manometer" class="internal tag-link">object/manometer</a></li><li><a href="../tags/vueltas" class="internal tag-link">vueltas</a></li><li><a href="../tags/torni" class="internal tag-link">torni</a></li><li><a href="../tags/rottes" class="internal tag-link">rottes</a></li><li><a href="../tags/spins" class="internal tag-link">spins</a></li><li><a href="../tags/turns" class="internal tag-link">turns</a></li><li><a href="../tags/return" class="internal tag-link">return</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="es"></div>
+<p><strong>Prueba Experimental Nivel 2 - Segunda Parte: Determinacion de gamma</strong></p>
+<p>Segunda Parte.</p>
+<p>Para determinar el valor de 𝛾 para el aire se someterá a un número 𝑛 de moles de aire al
+proceso indicado por la línea continua en la figura 4. Las flechas indican el sentido en que
+se realizan los procesos. La línea que unen los estados (𝑉𝐴;  𝑃𝐴) y (𝑉𝐵;  𝑃𝑎𝑡𝑚) corresponde
+a un proceso adiabático mientras que la línea a trazos que unen los estados (𝑉𝐴;  𝑃𝐴) y
+(𝑉𝐵;  𝑃𝐵) corresponde a una isoterma de temperatura 𝑇𝑎𝑚𝑏.</p>
+<p>Figura 4.</p>
+<p>2.1. Escriba una expresión para 𝛾 en función de las presiones 𝑃𝑎𝑡𝑚, 𝑃𝐴 y 𝑃𝐵.</p>
+<p>2.2. Realice las mediciones necesarias para determinar el valor de  𝛾 y reporte los valores
+medidos en una tabla.
+Para esto:
+a. Con la válvula abierta, ubique el émbolo en la posición de la escala
+correspondiente a 40 𝑚𝑙.
+b. Reporte el valor de 𝑃𝑎𝑡𝑚.
+c. Cierre la válvula.
+d. Expanda el aire contenido dentro de la jeringa en un volumen menor a 5 𝑚𝑙.
+Reporte el valor de la presión del aire 𝑃𝐴 luego de la expansión.
+e. Abra y cierre la válvula para que el aire en el interior de la jeringa se comprima
+adiabáticamente alcanzando la presión atmosférica. Este paso debe</p>
+<p>realizarse lo más rápidamente posible pero permitiendo que el sistema
+alcance la presión atmosférica.
+f. Espere a que el valor de la presión del aire alcance un valor de equilibrio y
+reporte dicho valor 𝑃𝐵.
+g. Repita los pasos anteriores para obtener al menos diez (10) mediciones.</p>
+<p>2.3. Reporte el valor de 𝛾 obtenido en cada medición y reporte su valor medio y la
+incertidumbre estimada.</p>
+<p>Nota: Para el cálculo de incertidumbre del logaritmo natural tenga en cuenta que si<br/>
+𝑥= (𝑥̅ ± Δ𝑥) y 𝑔= ln (𝑥), la incertidumbre Δ𝑔 puede determinarse mediante,</p>
+<p>Δ𝑔= 1
+2 [ln(𝑥̅ + Δ𝑥) −ln(𝑥̅ −Δ𝑥)]</p>
+<p>Prueba Experimental – Olimpiada Argentina de Física – 2019 - NIVEL 1</p>
+<p>Hoja de Respuestas</p>
+<p>Primera Parte</p>
+<p>Puntaje
+1.1
+∆𝑣=<br/>
+∆𝑣= (0,85 ± 0,01) 𝑚𝑙
+1 pto
+1.2
+Tabla
+Ver Tabla adjunta
+5 ptos
+1.3.
+Gráfico</p>
+<p>Pendiente</p>
+<p>Ordenada al origen
+Ver Gráfico Adjunto</p>
+<p>𝑎= (5 ± 3) × 10−5 𝐾
+𝑃𝑎</p>
+<p>𝑏= (150 ± 1) 𝐾
+𝑃𝑎𝑚−3
+3 ptos</p>
+<p>1 pto</p>
+<p>1 pto</p>
+<p>1.4
+𝑉0 =<br/>
+𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙
+0,5 ptos
+1.5
+𝜌𝑎𝑖𝑟𝑒=</p>
+<p>𝑛=<br/>
+𝜌𝑎𝑖𝑟𝑒= (1,19 ± 0,01) 𝑘𝑔 𝑚−3</p>
+<p>𝑛= (77 ± 4) × 10−5 𝑚𝑜𝑙
+0,5 ptos</p>
+<p>1 pto
+1.6
+𝑅=<br/>
+𝑅= (8,7 + 0,5)
+𝐽
+𝑚𝑜𝑙 𝐾
+2 ptos</p>
+<p>Segunda Parte</p>
+<p>Puntaje
+2.1
+Tabla
+Ver Tabla adjunta
+2 ptos
+2.2
+Tabla</p>
+<p>𝛾̅ =</p>
+<p>Ver Tabla adjunta</p>
+<p>𝛾̅ = (1,1 ± 0,4)
+2 ptos</p>
+<p>1 pto</p>
+<p>Prueba Experimental – Olimpiada Argentina de Física – 2019 - NIVEL 2</p>
+<p>Hola de Respuestas</p>
+<p>Primera Parte</p>
+<p>Puntaje
+1.1
+∆𝑣=<br/>
+∆𝑣= (0,85 ± 0,01) 𝑚𝑙
+0,5 ptos
+1.2
+𝑣𝑖=<br/>
+𝑣𝑖= (20,0 ±  0,1) 𝑚𝑙
+0,5 ptos
+1.3
+Tabla
+Ver Tabla adjunta
+5 ptos
+1.4
+𝑥=</p>
+<p>𝑦=<br/>
+𝑥= 𝑣</p>
+<p>𝑦= 𝑇
+𝑃
+0,5 ptos</p>
+<p>0,5 ptos
+1.5.
+Gráfico</p>
+<p>Pendiente (𝑎)</p>
+<p>Ordenada al origen
+(𝑏)
+Ver Gráfico Adjunto</p>
+<p>𝑎= (5 ± 3) × 10−5 𝐾
+𝑃𝑎</p>
+<p>𝑏= (150 ± 1) 𝐾
+𝑃𝑎𝑚−3
+3 ptos</p>
+<p>0,5 ptos</p>
+<p>0,5 ptos
+1.6
+𝑉0 =<br/>
+𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙
+0,5 ptos
+1.7
+𝑀𝑎𝑖𝑟𝑒=<br/>
+𝑀𝑎𝑖𝑟𝑒= (28,97 ± 0,03) 𝑔 𝑚𝑜𝑙−1
+1 pto
+1.8
+𝜌𝑎𝑖𝑟𝑒=</p>
+<p>𝑛=<br/>
+𝜌𝑎𝑖𝑟𝑒= (1,19 ± 0,01) 𝑘𝑔 𝑚−3</p>
+<p>𝑛= (77 ± 4) × 10−5 𝑚𝑜𝑙
+0,5 ptos</p>
+<p>0,5 ptos
+1.9
+𝑅=<br/>
+𝑅= (8,7 + 0,5)
+𝐽
+𝑚𝑜𝑙 𝐾
+1,5 ptos</p>
+<p>Segunda Parte</p>
+<p>Puntaje
+2.1
+𝛾=<br/>
+𝛾= 𝑙𝑛(𝑃𝑎𝑡𝑚) −𝑙𝑛(𝑃𝐴)
+𝑙𝑛(𝑃𝐵) −𝑙𝑛(𝑃𝐴)<br/>
+1 pto
+2.2
+Tabla
+Ver Tabla adjunta
+1,5 ptos
+2.3
+Tabla</p>
+<p>𝛾̅ =</p>
+<p>Ver Tabla adjunta</p>
+<p>𝛾̅ = (1,1 ± 0,4)
+1 pto</p>
+<p>1,5 ptos</p>
+<p>Solución
+Primera Parte</p>
+<p>1.1</p>
+<p>Se midió el número de vueltas (#𝑣𝑢𝑒𝑙𝑡𝑎𝑠) del tornillo para variar el volumen de la jeringa en
+30 𝑚𝑙.</p>
+<p><a href=".././tags/vueltas" class="tag-link internal internal-link alias" data-slug="tags/vueltas">vueltas</a>
+± 1 2
+⁄<br/>
+35,0
+35,3
+35,5
+35,3
+35,3</p>
+<p>La medición de volumen se la tomó como una medición exacta (sin incertidumbre) y la
+incertidumbre en el #𝑣𝑢𝑒𝑙𝑡𝑎𝑠 es el número de vueltas mínimo para determinar un volumen
+de acuerdo a la escala de la jeringa.</p>
+<p>#𝑣𝑢𝑒𝑙𝑡𝑎𝑠
+̅̅̅̅̅̅̅̅̅̅̅̅ = (35,3 ± 0,5)</p>
+<p>∆𝑣= (0,85 ± 0,01) 𝑚𝑙</p>
+<p>1.2</p>
+<p>Suponiendo un proceso isotérmico y un sistema cerrado (𝑛= 𝑐𝑡𝑒), se puede escribir que
+𝑃𝑉= 𝑐𝑡𝑒. Luego,</p>
+<p>𝑃𝑚𝑎𝑥𝑉𝑚𝑖𝑛= 𝑃𝑎𝑡𝑚𝑉𝑖= 𝑃𝑚𝑖𝑛𝑉𝑚𝑎𝑥</p>
+<p>Donde 𝑃𝑚𝑎𝑥 y 𝑃𝑚𝑖𝑛 son la presión máxima y mínima que puede medir el sensor de presión
+[300;  1100] ℎ𝑃𝑎, y 𝑉𝑚𝑖𝑛 y 𝑉𝑚𝑎𝑥 son los volúmenes mínimo (10 𝑚𝑙) y máximo de la jeringa
+(60 𝑚𝑙) y 𝑉𝑖 el volumen inicial (se desprecia en este caso 𝑉0).
+La presión atmosférica medida es 𝑃𝑎𝑡𝑚= (964 ± 1) ℎ𝑃𝑎
+Luego,</p>
+<p>𝑉𝑖= 𝑃𝑚𝑖𝑛𝑉𝑚𝑎𝑥
+𝑃𝑎𝑡𝑚
+~19 𝑚𝑙</p>
+<p>𝑉𝑖= 𝑃𝑚𝑎𝑥𝑉𝑚𝑖𝑛
+𝑃𝑎𝑡𝑚
+~11 𝑚𝑙</p>
+<p>Se elije como volumen inicial de la jeringa a 𝑣𝑖= (20,0 ±  0,4) 𝑚𝑙. La incertidumbre se toma
+como 1/2 de vuelta.</p>
+<p>1.3</p>
+<p><a href=".././tags/vueltas" class="tag-link internal internal-link alias" data-slug="tags/vueltas">vueltas</a>
+± 1 8
+⁄<br/>
+𝑣 [𝑚−3]
+× 10−6</p>
+<p>𝜎𝑣 [𝑚−3]
+× 10−6</p>
+<p>𝑃 [𝑃𝑎] × 100
+± 100 𝑃𝑎
+𝑇 [°𝐶]
+± 0,1 °𝐶
+𝑇
+𝑃 [ 𝐾
+𝑃𝑎]
+× 10−6
+Δ 𝑇
+𝑃 [ 𝐾
+𝑃𝑎]
+× 10−6
+0
+20,0
+0,4
+969
+22,1
+3046
+7
+-3
+17,4
+0,3
+1109
+22,1
+2662
+5
+-2
+18,3
+0,3
+1015
+22,2
+2909
+6
+0
+20,0
+0,4
+975
+22,2
+3029
+7
+3
+22,5
+0,5
+864
+22,3
+3419
+9
+6
+25,1
+0,6
+776
+22,3
+3807
+11
+9
+27,6
+0,6
+704
+22,4
+4198
+13
+12
+30,2
+0,6
+644
+22,4
+4589
+15
+15
+32,7
+0,7
+593
+22,5
+4985
+18
+18
+35,3
+0,7
+550
+22,5
+5375
+21
+21
+37,8
+0,7
+513
+22,6
+5765
+24
+24
+40,4
+0,7
+480
+22,6
+6161
+27
+27
+42,9
+0,8
+451
+22,6
+6557
+31
+30
+45,5
+0,8
+425
+22,7
+6961
+35
+33
+48,0
+0,8
+403
+22,7
+7341
+38
+36
+50,6
+0,9
+382
+22,8
+7747
+43
+39
+53,1
+0,9
+364
+22,8
+8130
+47
+36
+50,6
+0,9
+383
+22,8
+7727
+42
+33
+48,0
+0,8
+404
+22,8
+7325
+38
+30
+45,5
+0,8
+427
+22,8
+6930
+34
+27
+42,9
+0,8
+453
+22,8
+6533
+31
+24
+40,4
+0,8
+482
+22,8
+6140
+27
+21
+37,8
+0,7
+515
+22,8
+5746
+24
+18
+35,3
+0,7
+553
+22,7
+5349
+21
+15
+32,7
+0,7
+596
+22,7
+4963
+18
+12
+30,2
+0,6
+648
+22,7
+4565
+15
+9
+27,6
+0,6
+708
+22,7
+4178
+13
+6
+25,1
+0,6
+780
+22,6
+3791
+11
+3
+22,5
+0,5
+869
+22,6
+3403
+8
+0
+20,0
+0,4
+975
+22,6
+3033
+7
+0
+20,0
+0,4
+969
+22,1
+3046
+7</p>
+<p>El signo menos en el número de vueltas representa una compresión (el volumen
+disminuye),
+Para determinar el valor de 𝑣 se utilizó que 𝑣= 𝑣𝑖+ ∆𝑣 #𝑣𝑢𝑒𝑙𝑡𝑎𝑠 y su incertidumbre se
+determino mediante,</p>
+<p>𝜎𝑣= 𝜎𝑣𝑖+ 𝜎(∆𝑣 #𝑣𝑢𝑒𝑙𝑡𝑎𝑠)</p>
+<h1 id="𝜎𝑣-𝑣𝑢𝑒𝑙𝑡𝑎𝑠𝑣-𝑣𝑢𝑒𝑙𝑡𝑎𝑠">𝜎(∆𝑣 #𝑣𝑢𝑒𝑙𝑡𝑎𝑠)
+∆𝑣 #𝑣𝑢𝑒𝑙𝑡𝑎𝑠<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#𝜎𝑣-𝑣𝑢𝑒𝑙𝑡𝑎𝑠𝑣-𝑣𝑢𝑒𝑙𝑡𝑎𝑠" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>1 8
+⁄
+#𝑣𝑢𝑒𝑙𝑡𝑎𝑠+ 𝜎(∆𝑣)
+∆𝑣</p>
+<p>La incertidumbre de la presión representa las variaciones del valor de presión observado
+durante las mediciones,</p>
+<p>La incertidumbre en la temperatura se tomó igual a la apreciación del sensor de
+temperatura,
+La incertidumbre Δ
+𝑇
+𝑃 se determinó mediante,</p>
+<p>σ 𝑇
+𝑃= 𝑇
+𝑃(σ𝑇
+𝑇+ σ𝑃
+𝑃)</p>
+<p>Para el cálculo de
+𝑇
+𝑃, la temperatura se expresó en grados Kelvin.</p>
+<p>1.4</p>
+<p>Teniendo en cuenta la ecuación (3) y linealizando la ecuación (1) se puede obtener,</p>
+<p>𝑇
+𝑃= 𝑉0
+𝑛𝑅+ 𝑣
+𝑛𝑅</p>
+<p>Eligiendo</p>
+<p>𝑥= 𝑣</p>
+<p>𝑦= 𝑇
+𝑃</p>
+<p>Se obtiene una relación lineal de la forma</p>
+<p>𝑦= 𝑎+ 𝑏 𝑥</p>
+<p>con</p>
+<p>𝑎= 𝑉0
+𝑛 𝑅</p>
+<p>𝑏= 1
+𝑛 𝑅</p>
+<p>1.5</p>
+<p>Del ajuste se obtiene los siguientes valores para la ordenada al origen (𝑎) y para la
+pendiente (𝑏)</p>
+<p>𝑎= (5 ± 3) × 10−5 𝐾
+𝑃𝑎</p>
+<p>𝑏= (150 ± 1) 𝐾
+𝑃𝑎𝑚−3</p>
+<p>1.6</p>
+<p>Como 𝑎=
+𝑉0
+𝑛 𝑅 y 𝑏=
+1
+𝑛 𝑅, se obtiene que</p>
+<p>𝑉0 = 𝑎
+𝑏</p>
+<p>σ𝑉0 = 𝑉0 (σ𝑎
+𝑎+ σ𝑏
+𝑏)
+Luego,</p>
+<p>𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙</p>
+<p>1.7</p>
+<p>La masa molar promedio del aire se determina mediante,</p>
+<p>𝑀𝑎𝑖𝑟𝑒= ∑𝑓𝑖𝑀𝑖
+𝑖</p>
+<p>Donde el subíndice 𝑖 hace referencia a cada gas constituyente y 𝑀𝑖 y 𝑓𝑖= 𝐶𝑖100−1 son la
+masa atómica y la fracción del constituyente 𝑖−é𝑠𝑖𝑚𝑜, respectivamente. 𝐶𝑖 es la
+concentración reportada en la Tabla 1.
+Luego,</p>
+<p>𝑀𝑎𝑖𝑟𝑒= (28,97 ± 0,03) 𝑔 𝑚𝑜𝑙−1</p>
+<p>La incertidumbre de 𝑀𝑎𝑖𝑟𝑒 se determino</p>
+<p>σ𝑀𝑎𝑖𝑟𝑒= ∑σ(𝑓𝑖𝑀𝑖)
+𝑖</p>
+<p>σ(𝑓𝑖𝑀𝑖) = 𝑓𝑖𝑀𝑖(σ𝑓𝑖
+𝑓𝑖</p>
+<ul>
+<li>σ𝑀𝑖
+𝑀𝑖
+)</li>
+</ul>
+<p>1.8</p>
+<p>Para determinar la densidad del aire, se elige el punto medido más cercano al valor de
+1013,3 ℎ𝑃𝑎. En este caso, el punto medido correspondientes a −2 𝑣𝑢𝑒𝑙𝑡𝑎𝑠 tiene una presión
+medida de 1015,7 ℎ𝑃𝑎, la más cercana a la presión de interés. Luego se elige como
+temperatura del aire a 𝑇=  22,2°𝐶. Para determinar la densidad del aire para esta
+temperatura se realiza una interpolación lineal con los puntos (20º𝐶; 1,20 𝑘𝑔 𝑚−3) y
+(25º𝐶; 1,18 𝑘𝑔 𝑚−3).
+Dado las incertidumbres en la temperatura y en la densidad se toma como densidad del aire
+a</p>
+<p>𝜌𝑎𝑖𝑟𝑒= (1,19 ± 0,01) 𝑘𝑔 𝑚−3</p>
+<p>Luego, el número de moles 𝑛 utilizado en las mediciones es,</p>
+<p>𝑛= 𝜌𝑎𝑖𝑟𝑒
+𝑀𝑎𝑖𝑟𝑒
+𝑉𝑎𝑖𝑟𝑒</p>
+<p>Donde 𝑉𝑎𝑖𝑟𝑒 es el volumen que ocupan 𝑛 moles a 𝑇=  22,2°𝐶 y a una presión de
+1013,3 ℎ𝑃𝑎.
+En este caso se toma 𝑉𝑎𝑖𝑟𝑒= 𝑣 + 𝑉0 = (18,6 ± 0,7) 𝑚𝑙. Luego,</p>
+<p>𝑛= (77 ± 4) × 10−5 𝑚𝑜𝑙</p>
+<p>Donde la incertidumbre se calculó como</p>
+<p>σ𝑛
+𝑛= σ𝜌𝑎𝑖𝑟𝑒
+𝜌𝑎𝑖𝑟𝑒</p>
+<ul>
+<li>σ𝑉𝑎𝑖𝑟𝑒
+𝑉𝑎𝑖𝑟𝑒</li>
+<li>σ𝑀𝑎𝑖𝑟𝑒
+𝑀𝑎𝑖𝑟𝑒</li>
+</ul>
+<p>1.9</p>
+<p>De la pendiente del ajuste obtenemos,</p>
+<p>𝑅= 1
+𝑛 𝑏</p>
+<p>𝑅= (8,7 + 0,5)
+𝐽
+𝑚𝑜𝑙 𝐾</p>
+<p>Donde la incertidumbre se calculó como</p>
+<p>σ𝑅
+𝑅= σ𝑛
+𝑛+ σ𝑏
+𝑏</p>
+<p>Segunda Parte</p>
+<p>2.1</p>
+<p>Los estados (𝑉𝐴;  𝑃𝐴) y (𝑉𝐵;  𝑃𝑎𝑡𝑚) están relacionados mediante una adiabática, luego</p>
+<p>𝑃𝐴𝑉𝐴
+𝛾= 𝑃𝑎𝑡𝑚𝑉𝐵
+𝛾</p>
+<p>Por otro lado, los estados (𝑉𝐴;  𝑃𝐴) y (𝑉𝐵;  𝑃𝐵) están relacionados mediante la isoterma
+correspondiente a 𝑇𝑎𝑚𝑏, luego</p>
+<p>𝑃𝐴𝑉𝐴= 𝑃𝐵𝑉𝐵</p>
+<p>𝑉𝐴= 𝑃𝐵
+𝑃𝐴
+𝑉𝐵</p>
+<p>Reemplazando en la primera ecuación y reordenado los términos,</p>
+<p>(𝑃𝐵
+𝑃𝐴
+)
+𝛾
+= 𝑃𝑎𝑡𝑚
+𝑃𝐴</p>
+<p>Tomando logaritmo natural,</p>
+<p>𝛾 𝑙𝑛(𝑃𝐵
+𝑃𝐴
+) = 𝑙𝑛(𝑃𝑎𝑡𝑚
+𝑃𝐴
+)</p>
+<p>Despejando 𝛾 y utilizando la propiedad de logaritmo 𝑙𝑛(
+𝑦
+𝑥) = ln(𝑦) −ln (𝑥), se obtiene</p>
+<p>𝛾= 𝑙𝑛(𝑃𝑎𝑡𝑚) −𝑙𝑛(𝑃𝐴)
+𝑙𝑛(𝑃𝐵) −𝑙𝑛(𝑃𝐴)</p>
+<p>2.2</p>
+<p>Número de
+Medición
+𝑃𝑎𝑡𝑚 [ℎ𝑃𝑎]
+±1ℎ𝑃𝑎
+𝑃𝑎𝑡𝑚 [ℎ𝑃𝑎]
+±1ℎ𝑃𝑎
+𝑃𝐵 [ℎ𝑃𝑎]
+±1ℎ𝑃𝑎
+𝛾
+Δ𝛾
+1
+969
+956
+968
+1,1
+0,4
+2
+969
+956
+968
+1,1
+0,4
+3
+969
+953
+968
+1,1
+0,3
+4
+969
+953
+968
+1,1
+0,3
+5
+969
+954
+967
+1,2
+0,3
+6
+969
+940
+966
+1,1
+0,2
+7
+969
+938
+966
+1,1
+0,2
+8
+969
+939
+966
+1,1
+0,2
+9
+969
+940
+966
+1,1
+0,2
+10
+969
+941
+966
+1,1
+0,2</p>
+<p>El valor de Δ𝛾 se obtuvo mediante</p>
+<p>Δ𝛾
+𝛾= Δ[𝑙𝑛(𝑃𝑎𝑡𝑚) −𝑙𝑛(𝑃𝐴)]
+𝑙𝑛(𝑃𝑎𝑡𝑚) −𝑙𝑛(𝑃𝐴)</p>
+<ul>
+<li>Δ[𝑙𝑛(𝑃𝐵) −𝑙𝑛 (𝑃𝐴)]
+𝑙𝑛(𝑃𝐵) −𝑙𝑛 (𝑃𝐴)</li>
+</ul>
+<p>Δ[𝑙𝑛(𝑃𝑎𝑡𝑚) − 𝑙𝑛(𝑃𝐴)] = Δ[𝑙𝑛(𝑃𝑎𝑡𝑚)] + Δ[𝑙𝑛 (𝑃𝐴)]</p>
+<p>Δ[𝑙𝑛(𝑃𝐵) − 𝑙𝑛(𝑃𝐴)] = Δ[𝑙𝑛(𝑃𝐵)] + Δ[𝑙𝑛 (𝑃𝐴)]</p>
+<p>Δ[𝑙𝑛(𝑃𝑘)] = 1
+2 [𝑙𝑛(𝑃𝑘+ Δ𝑃𝑘) −𝑙𝑛(𝑃𝑘−Δ𝑃𝑘)]</p>
+<p>2.3</p>
+<p>𝛾̅ = (1,1 ± 0,4)</p>
+<p><a href=".././tags/vueltas" class="tag-link internal internal-link alias" data-slug="tags/vueltas">vueltas</a>
+± 1 8
+⁄<br/>
+𝑣 [𝑚−3]
+× 10−6</p>
+<p>𝜎𝑣 [𝑚−3]
+× 10−6</p>
+<p>𝑃 [𝑃𝑎] × 100
+± 100 𝑃𝑎
+𝑇 [°𝐶]
+± 0,1 °𝐶
+𝑇
+𝑃 [ 𝐾
+𝑃𝑎]
+× 10−6
+Δ 𝑇
+𝑃 [ 𝐾
+𝑃𝑎]
+× 10−6
+0
+15,0
+0,4
+956
+26,7
+3137
+4
+3
+17,6
+0,9
+823
+26,7
+3643
+6
+6
+20,1
+0,9
+722
+26,7
+4153
+7
+9
+22,7
+0,9
+642
+26,8
+4672
+9
+12
+25,2
+0,9
+579
+26,9
+5180
+10
+15
+28
+1
+526
+26,9
+5700
+10
+18
+30
+1
+483
+26,9
+6210
+20
+21
+33
+1
+446
+26,9
+6730
+20
+24
+35
+1
+414
+26,9
+7250
+20
+27
+38
+1
+386
+26,9
+7770
+20
+30
+41
+1
+362
+27,0
+8290
+30
+33
+43
+1
+341
+27,0
+8800
+30
+36
+46
+1
+322
+27,1
+9330
+30
+39
+48
+1
+305
+27,1
+9840
+40</p>
+<p>𝑎= (6 ± 4) × 10−5 𝐾
+𝑃𝑎</p>
+<p>𝑏= (204 ± 1) 𝐾
+𝑃𝑎𝑚−3</p>
+<p>𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙
+La presión más cercana a 1013,3 ℎ𝑃𝑎 es la medición correspondiente a 15 𝑚𝑙 (956 ℎ𝑃𝑎)
+a una temperatura de 26,7 º𝐶. Se toma<br/>
+𝜌𝑎𝑖𝑟𝑒= (1,17 ± 0,01) 𝑘𝑔 𝑚−3</p>
+<p>𝑛= (61 ± 6) × 10−5 𝑚𝑜𝑙</p>
+<p>𝑅= (8,2 + 0,9)
+𝐽
+𝑚𝑜𝑙 𝐾</p>
+<p><strong>Topic:</strong> <a href="../topics/thermodynamics" class="internal internal-link" data-slug="topics/thermodynamics">Thermodynamics</a>
+<strong>Metodi:</strong> <a href="../methods/thermodynamic-cycle-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/thermodynamic-cycle-analysis-(metodo)">Thermodynamic Cycle Analysis</a>, <a href="../methods/ideal-gas-law-(metodo)" class="internal internal-link alias" data-slug="methods/ideal-gas-law-(metodo)">Ideal Gas Law</a>, <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>
+<strong>Objects:</strong> <a href="../objects/gas-(object)" class="internal internal-link alias" data-slug="objects/gas-(object)">Gas</a>, <a href="../objects/cylinder-(object)" class="internal internal-link alias" data-slug="objects/cylinder-(object)">Cylinder</a>, <a href="../objects/piston-(object)" class="internal internal-link alias" data-slug="objects/piston-(object)">Piston</a>, <a href="../objects/manometer-(object)" class="internal internal-link alias" data-slug="objects/manometer-(object)">Manometer</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1bFbUQ76Q1VMniTczExvYP8N0viWrDi5d/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="it"></div>
+<p><strong>Prova sperimentale di livello 2 - Parte II: determinazione gamma</strong></p>
+<p>Parte due.</p>
+<p>Per determinare il valore di γ per aria si sommette un numero n di molli di aria al
+processo indicato dalla linea continua in figura 4. Le frecce indicano il senso in cui
+I processi sono eseguiti. La linea che unisce gli stati (VA; PA) e (VB; Patm) corrisponde
+Un processo adiabatico mentre la linea a tracce che uniscono gli stati (VA; PA) e
+(VB; PB) corrisponde ad un isoterma a temperatura Tamb.</p>
+<p>Figura 4</p>
+<p>2.1. Scrivi un’espressione per γ in base alle pressioni Patm, PA e PB.</p>
+<p>2.2. Eseguire le misure necessarie per determinare il valore di γ e riportare i valori
+misurate su una tavola.
+Per questo:
+a. Con la valvola aperta, posizionare l’imbolo in posizione della scala
+corrispondente a 40 ml.
+b. Segna il valore di Patm.
+c. Chiudi la valvola.
+d. Espande l’aria contenuta nella siringa a un volume inferiore a 5 ml.
+Segnala il valore della pressione dell’aria PA dopo l’espansione.
+e. Aprire e chiudere la valvola per comprimere l’aria all’interno della siringa
+adiabatamente raggiungendo la pressione atmosferica. Questo passo deve</p>
+<p>La Commissione ha inoltre adottato una decisione che prevede che il sistema di controllo sia stato adottato nel corso di una fase di
+raggiungere la pressione atmosferica.
+f. Aspettate che il valore della pressione dell’ aria raggiunga un valore di equilibrio e
+riportare tale valore PB.
+g. Ripeti i passaggi precedenti per ottenere almeno dieci (10) misure.</p>
+<p>2.3. Segnala il valore di γ ottenuto in ogni misurazione e segnala il suo valore medio e il
+l’incertezza stimata.</p>
+<p>Nota: Per il calcolo dell’incertezza del logaritmo naturale si tenga conto che se
+x= (x̅ ± Δx) e g= ln (x), l’incertezza Δg può essere determinata mediante,</p>
+<p>Δ𝑔= 1
+2 [ln(𝑥̅ + Δ𝑥) −ln(𝑥̅ −Δ𝑥)]</p>
+<p>Prova sperimentale  Olimpiada Argentina di Fisica  2019 - NIVEL 1</p>
+<p>Pagina delle Risposte</p>
+<p>Parte I</p>
+<p>Punteggi
+1.1
+∆𝑣=<br/>
+∆𝑣= (0,85 ± 0,01) 𝑚𝑙
+1 pto
+1.2
+Tabella
+Vede tabella allegata
+5 punti
+1.3.
+Grafico</p>
+<p>Inpendente</p>
+<p>Ordinazione di origine
+Vedi grafico allegato</p>
+<p>𝑎= (5 ± 3) × 10−5 𝐾
+𝑃𝑎</p>
+<p>𝑏= (150 ± 1) 𝐾
+Pam-3
+3 punti</p>
+<p>1 pto</p>
+<p>1 pto</p>
+<p>1.4
+𝑉0 =<br/>
+𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙
+0,5 p.o.
+1.5
+𝜌𝑎𝑖𝑟𝑒=</p>
+<p>𝑛=<br/>
+(1,19 ± 0,01) kg m−3</p>
+<p>N= (77 ± 4) × 10−5 mol
+0,5 p.o.</p>
+<p>1 pto
+1.6
+𝑅=<br/>
+𝑅= (8,7 + 0,5)
+𝐽
+Mol K
+2 punti</p>
+<p>Parte II</p>
+<p>Punteggi
+2.1
+Tabella
+Vede tabella allegata
+2 punti
+2.2
+Tabella</p>
+<p>𝛾̅ =</p>
+<p>Vede tabella allegata</p>
+<p>𝛾̅ = (1,1 ± 0,4)
+2 punti</p>
+<p>1 pto</p>
+<p>Prova sperimentale  Olimpiada Argentina di Fisica  2019 - NIVEL 2</p>
+<p>Ciao Risposte</p>
+<p>Parte I</p>
+<p>Punteggi
+1.1
+∆𝑣=<br/>
+∆𝑣= (0,85 ± 0,01) 𝑚𝑙
+0,5 p.o.
+1.2
+𝑣𝑖=<br/>
+𝑣𝑖= (20,0 ±  0,1) 𝑚𝑙
+0,5 p.o.
+1.3
+Tabella
+Vede tabella allegata
+5 punti
+1.4
+𝑥=</p>
+<p>𝑦=<br/>
+𝑥= 𝑣</p>
+<p>𝑦= 𝑇
+𝑃
+0,5 p.o.</p>
+<p>0,5 p.o.
+1.5.
+Grafico</p>
+<p>Appendice (a)</p>
+<p>Ordinazione di origine
+(𝑏)
+Vedi grafico allegato</p>
+<p>𝑎= (5 ± 3) × 10−5 𝐾
+𝑃𝑎</p>
+<p>𝑏= (150 ± 1) 𝐾
+Pam-3
+3 punti</p>
+<p>0,5 p.o.</p>
+<p>0,5 p.o.
+1.6
+𝑉0 =<br/>
+𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙
+0,5 p.o.
+1.7
+Maire=
+Maire= (28,97 ± 0,03) g mol−1
+1 pto
+1.8
+𝜌𝑎𝑖𝑟𝑒=</p>
+<p>𝑛=<br/>
+(1,19 ± 0,01) kg m−3</p>
+<p>N= (77 ± 4) × 10−5 mol
+0,5 p.o.</p>
+<p>0,5 p.o.
+1.9
+𝑅=<br/>
+𝑅= (8,7 + 0,5)
+𝐽
+Mol K
+1,5 p.o.</p>
+<p>Parte II</p>
+<p>Punteggi
+2.1
+𝛾=<br/>
+Il numero di persone che hanno partecipato alla riunione è stato di circa un milione di persone.
+𝑙𝑛(𝑃𝐵) −𝑙𝑛(𝑃𝐴)<br/>
+1 pto
+2.2
+Tabella
+Vede tabella allegata
+1,5 p.o.
+2.3
+Tabella</p>
+<p>𝛾̅ =</p>
+<p>Vede tabella allegata</p>
+<p>𝛾̅ = (1,1 ± 0,4)
+1 pto</p>
+<p>1,5 p.o.</p>
+<p>Soluzione
+Parte I</p>
+<p>1.1</p>
+<p>Si misurò il numero di giri (# giri) dello schino per variare il volume della siringa in
+30 𝑚𝑙.</p>
+<h1 id="tornato">Tornato<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#tornato" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>± 1 2
+⁄<br/>
+35,0
+35,3
+35,5
+35,3
+35,3</p>
+<p>La misurazione del volume è stata presa come misurazione accurata (senza incertezza) e la misurazione del volume è stata effettuata con un’esatta misurazione.
+Infatti, l’incertitudine in <a href=".././tags/torni" class="tag-link internal internal-link alias" data-slug="tags/torni">torni</a> è il numero minimo di giri per determinare un volume
+secondo la scala della siringa.</p>
+<h1 id="tornato-1">Tornato<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#tornato-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>̅̅̅̅̅̅̅̅̅̅̅̅ = (35,3 ± 0,5)</p>
+<p>∆𝑣= (0,85 ± 0,01) 𝑚𝑙</p>
+<p>1.2</p>
+<p>Supponendo un processo isotermo e un sistema chiuso (n=cte), si può scrivere che
+PV = cte. Poi,</p>
+<p>PmaxVmin= PatmVi= PminVmax</p>
+<p>Dove Pmax e Pmin sono la pressione massima e minima che il sensore di pressione può misurare
+[300; 1100] hPa, Vmin e Vmax sono i volumi minimi (10 ml) e massimi della siringa
+60 ml) e VI il volume iniziale (in questo caso V0 viene ignorato).
+La pressione atmosferica misurata è Patm= (964 ± 1) hPa
+Poi,</p>
+<p>Vi= PminVmax
+Patm
+~19 𝑚𝑙</p>
+<p>Vi= PmaxVmin
+Patm
+~11 𝑚𝑙</p>
+<p>Selezionare come volume iniziale della siringa a vi= (20,0 ± 0,4) ml. L’incertezza si prende.
+Come 1/2 volta.</p>
+<p>1.3</p>
+<h1 id="tornato-2">Tornato<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#tornato-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>± 1 8
+⁄<br/>
+𝑣 [𝑚−3]
+× 10−6</p>
+<p>𝜎𝑣 [𝑚−3]
+× 10−6</p>
+<p>𝑃 [𝑃𝑎] × 100
+± 100 𝑃𝑎
+𝑇 [°𝐶]
+± 0,1 °𝐶
+𝑇
+𝑃 [ 𝐾
+𝑃𝑎]
+× 10−6
+Δ 𝑇
+𝑃 [ 𝐾
+𝑃𝑎]
+× 10−6
+0
+20,0
+0,4
+969
+22,1
+3046
+7
+-3
+17,4
+0,3
+1109
+22,1
+2662
+5
+-2
+18,3
+0,3
+1015
+22,2
+2909
+6
+0
+20,0
+0,4
+975
+22,2
+3029
+7
+3
+22,5
+0,5
+864
+22,3
+3419
+9
+6
+25,1
+0,6
+776
+22,3
+3807
+11
+9
+27,6
+0,6
+704
+22,4
+4198
+13
+12
+30,2
+0,6
+644
+22,4
+4589
+15
+15
+32,7
+0,7
+593
+22,5
+4985
+18
+18
+35,3
+0,7
+550
+22,5
+5375
+21
+21
+37,8
+0,7
+513
+22,6
+5765
+24
+24
+40,4
+0,7
+480
+22,6
+6161
+27
+27
+42,9
+0,8
+451
+22,6
+6557
+31
+30
+45,5
+0,8
+425
+22,7
+6961
+35
+33
+48,0
+0,8
+403
+22,7
+7341
+38
+36
+50,6
+0,9
+382
+22,8
+7747
+43
+39
+53,1
+0,9
+364
+22,8
+8130
+47
+36
+50,6
+0,9
+383
+22,8
+7727
+42
+33
+48,0
+0,8
+404
+22,8
+7325
+38
+30
+45,5
+0,8
+427
+22,8
+6930
+34
+27
+42,9
+0,8
+453
+22,8
+6533
+31
+24
+40,4
+0,8
+482
+22,8
+6140
+27
+21
+37,8
+0,7
+515
+22,8
+5746
+24
+18
+35,3
+0,7
+553
+22,7
+5349
+21
+15
+32,7
+0,7
+596
+22,7
+4963
+18
+12
+30,2
+0,6
+648
+22,7
+4565
+15
+9
+27,6
+0,6
+708
+22,7
+4178
+13
+6
+25,1
+0,6
+780
+22,6
+3791
+11
+3
+22,5
+0,5
+869
+22,6
+3403
+8
+0
+20,0
+0,4
+975
+22,6
+3033
+7
+0
+20,0
+0,4
+969
+22,1
+3046
+7</p>
+<p>Il segno meno nel numero di giri rappresenta una compressione (il volume
+diminuisce),
+Per determinare il valore di v è stato utilizzato che v=vi+ ∆v <a href=".././tags/rottes" class="tag-link internal internal-link alias" data-slug="tags/rottes">rottes</a> e la sua incertezza è</p>
+<ul>
+<li>il regolamento (CE) n.</li>
+</ul>
+<p>σv= σvi+ σ(∆v <a href=".././tags/torni" class="tag-link internal internal-link alias" data-slug="tags/torni">torni</a>)</p>
+<h1 id="σv-torniv-torni">σ(∆v <a href=".././tags/torni" class="tag-link internal internal-link alias" data-slug="tags/torni">torni</a>)
+∆v <a href=".././tags/torni" class="tag-link internal internal-link alias" data-slug="tags/torni">torni</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#σv-torniv-torni" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>1 8
+⁄
+<a href=".././tags/torni" class="tag-link internal internal-link alias" data-slug="tags/torni">torni</a>+ σ(∆v)
+∆𝑣</p>
+<p>L’ incertezza della pressione rappresenta le variazioni del valore di pressione osservato
+durante le misurazioni,</p>
+<p>L’incertezza di temperatura è stata presa pari alla valutazione del sensore di
+temperatura,
+L’incertezza Δ
+𝑇
+P è stato determinato da,</p>
+<p>σ 𝑇
+𝑃= 𝑇
+𝑃(σ𝑇
+𝑇+ σ𝑃
+𝑃)</p>
+<p>Per il calcolo di
+𝑇
+P, la temperatura è stata espressa in gradi Kelvin.</p>
+<p>1.4</p>
+<p>Considerando l’equazione (3) e linealizzando l’equazione (1) si può ottenere,</p>
+<p>𝑇
+𝑃= 𝑉0
+𝑛𝑅+ 𝑣
+𝑛𝑅</p>
+<p>Scegliendo</p>
+<p>𝑥= 𝑣</p>
+<p>𝑦= 𝑇
+𝑃</p>
+<p>Si ottiene un rapporto lineare della forma</p>
+<p>𝑦= 𝑎+ 𝑏 𝑥</p>
+<p>con</p>
+<p>𝑎= 𝑉0
+𝑛 𝑅</p>
+<p>𝑏= 1
+𝑛 𝑅</p>
+<p>1.5</p>
+<p>L’adeguamento dà i seguenti valori per l’ordinato alla fonte (a) e per l’ordinato alla fonte (a).
+pendice (b)</p>
+<p>𝑎= (5 ± 3) × 10−5 𝐾
+𝑃𝑎</p>
+<p>𝑏= (150 ± 1) 𝐾
+Pam-3</p>
+<p>1.6</p>
+<p>Come a=
+𝑉0
+𝑛 𝑅 y 𝑏=
+1
+n R, si ottiene che</p>
+<p>𝑉0 = 𝑎
+𝑏</p>
+<p>σ𝑉0 = 𝑉0 (σ𝑎
+𝑎+ σ𝑏
+𝑏)
+Poi,</p>
+<p>𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙</p>
+<p>1.7</p>
+<p>La massa molare media dell’aria è determinata da:</p>
+<p>Maire= fiMi
+𝑖</p>
+<p>L’indice i è riferito a ogni gas costituente e Mi e fi= Ci100−1 sono i
+La massa atomica e la frazione del costituente i-esimo, rispettivamente. 𝐶𝑖 es la
+concentrazione riportata in Tabella 1.
+Poi,</p>
+<p>Maire= (28,97 ± 0,03) g mol−1</p>
+<p>L’incertezza di Maire si determina.</p>
+<p>Maire= σ(fiMi)
+𝑖</p>
+<p>(s) (fi) = (fi) (fi)
+𝑓𝑖</p>
+<ul>
+<li>σMi
+𝑀𝑖
+)</li>
+</ul>
+<p>1.8</p>
+<p>Per determinare la densità dell’aria, si sceglie il punto misurato più vicino al valore di
+1013,3 hPa. In questo caso, il punto misurato corrispondente a -2 giri ha una pressione
+misura di 1015,7 hPa, la più vicina alla pressione di interesse. Poi si sceglie come
+temperatura dell’aria a T= 22,2°C. Per determinare la densità dell’aria per questo
+La temperatura è interpolata linealmente con i punti (20oC; 1,20 kg m−3) e
+(25º𝐶; 1,18 𝑘𝑔 𝑚−3).
+Dato l’incertezza di temperatura e densità, viene presa come densità dell’aria.
+a</p>
+<p>(1,19 ± 0,01) kg m−3</p>
+<p>Quindi il numero di mole n utilizzati nelle misurazioni è,</p>
+<p>n = aria ρ
+Maire
+Vaire</p>
+<p>Dove Vaire è il volume occupato da n molli a T= 22,2°C e a una pressione di
+1013,3 hPa.
+In questo caso Vaire=v + V0 = (18,6 ± 0,7) ml. Poi,</p>
+<p>N= (77 ± 4) × 10−5 mol</p>
+<p>Dove l’incertezza è stata calcolata come</p>
+<p>σ𝑛
+n= σρρaire
+Air</p>
+<ul>
+<li>σVaire
+Vaire</li>
+<li>σMaire
+Maire</li>
+</ul>
+<p>1.9</p>
+<p>Dalla pendenza dell’adeguamento otteniamo,</p>
+<p>𝑅= 1
+𝑛 𝑏</p>
+<p>𝑅= (8,7 + 0,5)
+𝐽
+Mol K</p>
+<p>Dove l’incertezza è stata calcolata come</p>
+<p>σ𝑅
+𝑅= σ𝑛
+𝑛+ σ𝑏
+𝑏</p>
+<p>Parte II</p>
+<p>2.1</p>
+<p>Gli stati (VA; PA) e (VB; Patm) sono collegati da un adiabatic, quindi</p>
+<p>PAVA
+γ= PatmVB
+𝛾</p>
+<p>I stati (VA, PA) e (VB, PB) sono collegati dall’isoterma.
+corrispondente a Tamb, poi</p>
+<p>PAVA= PBVB</p>
+<p>𝑉𝐴= 𝑃𝐵
+𝑃𝐴
+𝑉𝐵</p>
+<p>Rimpiazzando la prima equazione e riordinando i termini,</p>
+<p>(𝑃𝐵
+𝑃𝐴
+)
+𝛾</p>
+<ul>
+<li>Patm
+𝑃𝐴</li>
+</ul>
+<p>Prendendo il logaritmo naturale,</p>
+<p>𝛾 𝑙𝑛(𝑃𝐵
+𝑃𝐴
+) = ln(Patm
+𝑃𝐴
+)</p>
+<p>Sconfiggendo γ e utilizzando la proprietà logaritmica ln(
+𝑦
+x) = ln(y) −ln (x), si ottiene</p>
+<p>Il numero di persone che hanno partecipato alla riunione è stato di circa un milione di persone.
+𝑙𝑛(𝑃𝐵) −𝑙𝑛(𝑃𝐴)</p>
+<p>2.2</p>
+<p>Numero di
+Misurazione
+Patm [hPa]
+±1hPa
+Patm [hPa]
+±1hPa
+PB [hPa]
+±1hPa
+𝛾
+Δ𝛾
+1
+969
+956
+968
+1,1
+0,4
+2
+969
+956
+968
+1,1
+0,4
+3
+969
+953
+968
+1,1
+0,3
+4
+969
+953
+968
+1,1
+0,3
+5
+969
+954
+967
+1,2
+0,3
+6
+969
+940
+966
+1,1
+0,2
+7
+969
+938
+966
+1,1
+0,2
+8
+969
+939
+966
+1,1
+0,2
+9
+969
+940
+966
+1,1
+0,2
+10
+969
+941
+966
+1,1
+0,2</p>
+<p>Il valore di Δγ è stato ottenuto mediante</p>
+<p>Δ𝛾
+(cfr. la voce “cfr”.
+In­* Patm) -in* PA)</p>
+<ul>
+<li>Δ[𝑙𝑛(𝑃𝐵) −𝑙𝑛 (𝑃𝐴)]
+𝑙𝑛(𝑃𝐵) −𝑙𝑛 (𝑃𝐴)</li>
+</ul>
+<p>Δ[ln(Patm) − ln(PA)] = Δ[ln(Patm)] + Δ[ln (PA)]</p>
+<p>Δ[𝑙𝑛(𝑃𝐵) − 𝑙𝑛(𝑃𝐴)] = Δ[𝑙𝑛(𝑃𝐵)] + Δ[𝑙𝑛 (𝑃𝐴)]</p>
+<p>Δ[𝑙𝑛(𝑃𝑘)] = 1
+2 [ln(Pk+ ΔPk) −ln(Pk−ΔPk)</p>
+<p>2.3</p>
+<p>𝛾̅ = (1,1 ± 0,4)</p>
+<h1 id="tornato-3">Tornato<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#tornato-3" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>± 1 8
+⁄<br/>
+𝑣 [𝑚−3]
+× 10−6</p>
+<p>𝜎𝑣 [𝑚−3]
+× 10−6</p>
+<p>𝑃 [𝑃𝑎] × 100
+± 100 𝑃𝑎
+𝑇 [°𝐶]
+± 0,1 °𝐶
+𝑇
+𝑃 [ 𝐾
+𝑃𝑎]
+× 10−6
+Δ 𝑇
+𝑃 [ 𝐾
+𝑃𝑎]
+× 10−6
+0
+15,0
+0,4
+956
+26,7
+3137
+4
+3
+17,6
+0,9
+823
+26,7
+3643
+6
+6
+20,1
+0,9
+722
+26,7
+4153
+7
+9
+22,7
+0,9
+642
+26,8
+4672
+9
+12
+25,2
+0,9
+579
+26,9
+5180
+10
+15
+28
+1
+526
+26,9
+5700
+10
+18
+30
+1
+483
+26,9
+6210
+20
+21
+33
+1
+446
+26,9
+6730
+20
+24
+35
+1
+414
+26,9
+7250
+20
+27
+38
+1
+386
+26,9
+7770
+20
+30
+41
+1
+362
+27,0
+8290
+30
+33
+43
+1
+341
+27,0
+8800
+30
+36
+46
+1
+322
+27,1
+9330
+30
+39
+48
+1
+305
+27,1
+9840
+40</p>
+<p>𝑎= (6 ± 4) × 10−5 𝐾
+𝑃𝑎</p>
+<p>𝑏= (204 ± 1) 𝐾
+Pam-3</p>
+<p>𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙
+La pressione più vicina a 1013,3 hPa è la misura corrispondente a 15 ml (956 hPa).
+a una temperatura di 26,7 oC. Si prende
+(1,17 ± 0,01) kg m−3</p>
+<p>N= (61 ± 6) × 10−5 mol</p>
+<p>𝑅= (8,2 + 0,9)
+𝐽
+Mol K</p>
+<p><strong>Topic:</strong> <a href="../topics/thermodynamics" class="internal internal-link" data-slug="topics/thermodynamics">Thermodynamics</a>
+<strong>Metodi:</strong> <a href="../methods/thermodynamic-cycle-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/thermodynamic-cycle-analysis-(metodo)">Thermodynamic Cycle Analysis</a>, <a href="../methods/ideal-gas-law-(metodo)" class="internal internal-link alias" data-slug="methods/ideal-gas-law-(metodo)">Ideal Gas Law</a>, <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>
+<strong>Objects:</strong> <a href="../objects/gas-(object)" class="internal internal-link alias" data-slug="objects/gas-(object)">Gas</a>, <a href="../objects/cylinder-(object)" class="internal internal-link alias" data-slug="objects/cylinder-(object)">Cylinder</a>, <a href="../objects/piston-(object)" class="internal internal-link alias" data-slug="objects/piston-(object)">Piston</a>, <a href="../objects/manometer-(object)" class="internal internal-link alias" data-slug="objects/manometer-(object)">Manometer</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1bFbUQ76Q1VMniTczExvYP8N0viWrDi5d/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>The test shall be carried out in accordance with the following conditions:</p>
+<p>Part two.</p>
+<p>To determine the value of γ for air, a number of n moles of air shall be submitted to the
+process as shown in the continuous line in Figure 4. The arrows indicate the direction in which
+processes are carried out. The line connecting the states (VA; PA) and (VB; Patm) corresponds
+to an adiabatic process while the line at traces joining the states (VA; PA) and
+(VB; PB) is a Tamb temperature isotherm.</p>
+<p>Figure 4 is shown.</p>
+<p>2.1. Write an expression for γ based on the pressures Patm, PA and PB.</p>
+<p>2.2. Perform the measurements necessary to determine the value of γ and report the values
+measured on a table.
+For this:
+a. With the valve open, place the embolus in the scale position.
+for 40 ml.
+b. Report the value of Patm.
+c. Close the valve.
+d. Expand the air contained within the syringe to a volume less than 5 ml.
+Report the PA air pressure value after expansion.
+e. Open and close the valve so that the air inside the syringe is compressed.
+Adiabatically reaching atmospheric pressure. This step must be taken.</p>
+<p>The Commission will take the necessary steps to ensure that the system is implemented as quickly as possible, but by allowing the system to
+reach the atmospheric pressure.
+f. Wait for the air pressure value to reach a balance value and
+report that PB value.
+g. Repeat the above steps to obtain at least ten (10) measurements.</p>
+<p>2.3. Report the value of γ obtained in each measurement and report its mean and the
+estimated uncertainty.</p>
+<p>Note: For the calculation of the uncertainty of the natural logarithm, consider that if
+x= (x̅ ± Δx) and g= ln (x), the uncertainty Δg can be determined by,</p>
+<p>Δ𝑔= 1
+2 [ln(𝑥̅ + Δ𝑥) −ln(𝑥̅ −Δ𝑥)]</p>
+<p>Experimental Test  Argentine Olympic Games in Physics  2019 - NIVEL 1</p>
+<p>Answer Sheet</p>
+<p>Part one</p>
+<p>Score
+1.1
+∆𝑣=<br/>
+∆𝑣= (0,85 ± 0,01) 𝑚𝑙
+1 pto
+1.2
+Table
+See attached table
+5 points
+1.3.
+Graphic</p>
+<p>Hanging on .</p>
+<p>Ordered by origin
+See attached chart</p>
+<p>𝑎= (5 ± 3) × 10−5 𝐾
+𝑃𝑎</p>
+<p>𝑏= (150 ± 1) 𝐾
+Pam-3
+3 points</p>
+<p>1 pto</p>
+<p>1 pto</p>
+<p>1.4
+𝑉0 =<br/>
+𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙
+0.5 pts
+1.5
+Air</p>
+<p>𝑛=<br/>
+The following conditions shall apply:</p>
+<p>The following table shows the results of the calculation of the total weight of the product:
+0.5 pts</p>
+<p>1 pto
+1.6
+𝑅=<br/>
+𝑅= (8,7 + 0,5)
+𝐽
+The Commission shall adopt implementing acts.
+Two points</p>
+<p>Part Two</p>
+<p>Score
+2.1
+Table
+See attached table
+Two points
+2.2
+Table</p>
+<p>𝛾̅ =</p>
+<p>See attached table</p>
+<p>𝛾̅ = (1,1 ± 0,4)
+Two points</p>
+<p>1 pto</p>
+<p>Experimental Test  Argentine Olympic Games in Physics  2019 - NIVEL 2</p>
+<p>Hello from Answers.</p>
+<p>Part one</p>
+<p>Score
+1.1
+∆𝑣=<br/>
+∆𝑣= (0,85 ± 0,01) 𝑚𝑙
+0.5 pts
+1.2
+𝑣𝑖=<br/>
+𝑣𝑖= (20,0 ±  0,1) 𝑚𝑙
+0.5 pts
+1.3
+Table
+See attached table
+5 points
+1.4
+𝑥=</p>
+<p>𝑦=<br/>
+𝑥= 𝑣</p>
+<p>𝑦= 𝑇
+𝑃
+0.5 pts</p>
+<p>0.5 pts
+1.5.
+Graphic</p>
+<p>The following table shows the results of the evaluation:</p>
+<p>Ordered by origin
+(𝑏)
+See attached chart</p>
+<p>𝑎= (5 ± 3) × 10−5 𝐾
+𝑃𝑎</p>
+<p>𝑏= (150 ± 1) 𝐾
+Pam-3
+3 points</p>
+<p>0.5 pts</p>
+<p>0.5 pts
+1.6
+𝑉0 =<br/>
+𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙
+0.5 pts
+1.7
+Maire=
+The following table shows the results of the calculation of the total weight of the product:
+1 pto
+1.8
+Air</p>
+<p>𝑛=<br/>
+The following conditions shall apply:</p>
+<p>The following table shows the results of the calculation of the total weight of the product:
+0.5 pts</p>
+<p>0.5 pts
+1.9
+𝑅=<br/>
+𝑅= (8,7 + 0,5)
+𝐽
+The Commission shall adopt implementing acts.
+1.5 points</p>
+<p>Part Two</p>
+<p>Score
+2.1
+𝛾=<br/>
+The following is the list of the countries of the European Union:
+𝑙𝑛(𝑃𝐵) −𝑙𝑛(𝑃𝐴)<br/>
+1 pto
+2.2
+Table
+See attached table
+1.5 points
+2.3
+Table</p>
+<p>𝛾̅ =</p>
+<p>See attached table</p>
+<p>𝛾̅ = (1,1 ± 0,4)
+1 pto</p>
+<p>1.5 points</p>
+<p>The solution
+Part one</p>
+<p>1.1</p>
+<p>The number of turns (#rops) of the screw was measured to vary the volume of the syringe in
+30 𝑚𝑙.</p>
+<p>♪ back to you ♪
+± 1 2
+⁄<br/>
+35,0
+35,3
+35,5
+35,3
+35,3</p>
+<p>The volume measurement was taken as an exact (uncertain) measurement and the volume measurement was based on the
+Uncertainty in <a href=".././tags/spins" class="tag-link internal internal-link alias" data-slug="tags/spins">spins</a> is the minimum number of spins to determine a volume
+according to the syringe scale.</p>
+<p>♪ back to you
+̅̅̅̅̅̅̅̅̅̅̅̅ = (35,3 ± 0,5)</p>
+<p>∆𝑣= (0,85 ± 0,01) 𝑚𝑙</p>
+<p>1.2</p>
+<p>Assuming an isothermal process and a closed system (n=cte), it can be written that
+PV is cte. Then,</p>
+<p>The following is the list of the countries of the European Union:</p>
+<p>Where Pmax and Pmin are the maximum and minimum pressure that the pressure sensor can measure
+[300; 1100] hPa, and Vmin and Vmax are the minimum (10 ml) and maximum syringe volumes
+I saw the initial volume (in this case V0 is neglected).
+The measured atmospheric pressure is Patm= (964 ± 1) hPa
+Then,</p>
+<p>The value of the input data shall be the sum of the values of the input data.
+Patm
+~19 𝑚𝑙</p>
+<p>The value of the input data shall be the sum of the values of the input data.
+Patm
+~11 𝑚𝑙</p>
+<p>The initial volume of the syringe is chosen as vi= (20,0 ± 0.4) ml. Uncertainty is taken .
+like 1/2 turn.</p>
+<p>1.3</p>
+<p>♪ back to you ♪
+± 1 8
+⁄<br/>
+𝑣 [𝑚−3]
+× 10−6</p>
+<p>𝜎𝑣 [𝑚−3]
+× 10−6</p>
+<p>𝑃 [𝑃𝑎] × 100
+± 100 𝑃𝑎
+𝑇 [°𝐶]
+± 0,1 °𝐶
+𝑇
+𝑃 [ 𝐾
+𝑃𝑎]
+× 10−6
+Δ 𝑇
+𝑃 [ 𝐾
+𝑃𝑎]
+× 10−6
+0
+20,0
+0,4
+969
+22,1
+3046
+7
+-3
+17,4
+0,3
+1109
+22,1
+2662
+5
+-2
+18,3
+0,3
+1015
+22,2
+2909
+6
+0
+20,0
+0,4
+975
+22,2
+3029
+7
+3
+22,5
+0,5
+864
+22,3
+3419
+9
+6
+25,1
+0,6
+776
+22,3
+3807
+11
+9
+27,6
+0,6
+704
+22,4
+4198
+13
+12
+30,2
+0,6
+644
+22,4
+4589
+15
+15
+32,7
+0,7
+593
+22,5
+4985
+18
+18
+35,3
+0,7
+550
+22,5
+5375
+21
+21
+37,8
+0,7
+513
+22,6
+5765
+24
+24
+40,4
+0,7
+480
+22,6
+6161
+27
+27
+42,9
+0,8
+451
+22,6
+6557
+31
+30
+45,5
+0,8
+425
+22,7
+6961
+35
+33
+48,0
+0,8
+403
+22,7
+7341
+38
+36
+50,6
+0,9
+382
+22,8
+7747
+43
+39
+53,1
+0,9
+364
+22,8
+8130
+47
+36
+50,6
+0,9
+383
+22,8
+7727
+42
+33
+48,0
+0,8
+404
+22,8
+7325
+38
+30
+45,5
+0,8
+427
+22,8
+6930
+34
+27
+42,9
+0,8
+453
+22,8
+6533
+31
+24
+40,4
+0,8
+482
+22,8
+6140
+27
+21
+37,8
+0,7
+515
+22,8
+5746
+24
+18
+35,3
+0,7
+553
+22,7
+5349
+21
+15
+32,7
+0,7
+596
+22,7
+4963
+18
+12
+30,2
+0,6
+648
+22,7
+4565
+15
+9
+27,6
+0,6
+708
+22,7
+4178
+13
+6
+25,1
+0,6
+780
+22,6
+3791
+11
+3
+22,5
+0,5
+869
+22,6
+3403
+8
+0
+20,0
+0,4
+975
+22,6
+3033
+7
+0
+20,0
+0,4
+969
+22,1
+3046
+7</p>
+<p>The minus sign in the number of turns represents a compression (volume
+decreases),
+To determine the value of v, it was used that v=vi+ ∆v <a href=".././tags/turns" class="tag-link internal internal-link alias" data-slug="tags/turns">turns</a> and its uncertainty is
+I shall determine by:</p>
+<p>σv= σvi+ σ(∆v <a href=".././tags/turns" class="tag-link internal internal-link alias" data-slug="tags/turns">turns</a>)</p>
+<h1 id="σv-spinsv-return">σ(∆v <a href=".././tags/spins" class="tag-link internal internal-link alias" data-slug="tags/spins">spins</a>)
+∆v <a href=".././tags/return" class="tag-link internal internal-link alias" data-slug="tags/return">return</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#σv-spinsv-return" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>1 8
+⁄
+<a href=".././tags/turns" class="tag-link internal internal-link alias" data-slug="tags/turns">turns</a>+ σ(∆v)
+∆𝑣</p>
+<p>Pressure uncertainty is the variation in the observed pressure value
+during measurements,</p>
+<p>The temperature uncertainty was taken equal to the sensor’s assessment of the temperature.
+temperature,
+The uncertainty Δ
+𝑇
+P was determined by,</p>
+<p>σ 𝑇
+𝑃= 𝑇
+𝑃(σ𝑇
+𝑇+ σ𝑃
+𝑃)</p>
+<p>For the calculation of
+𝑇
+P, the temperature was expressed in Kelvin degrees.</p>
+<p>1.4</p>
+<p>Taking into account equation (3) and linearising equation (1) can be obtained,</p>
+<p>𝑇
+𝑃= 𝑉0
+𝑛𝑅+ 𝑣
+𝑛𝑅</p>
+<p>Choosing</p>
+<p>𝑥= 𝑣</p>
+<p>𝑦= 𝑇
+𝑃</p>
+<p>You get a linear relationship of the form</p>
+<p>𝑦= 𝑎+ 𝑏 𝑥</p>
+<p>with</p>
+<p>𝑎= 𝑉0
+𝑛 𝑅</p>
+<p>𝑏= 1
+𝑛 𝑅</p>
+<p>1.5</p>
+<p>The following values are obtained from the adjustment for the ordered to origin (a) and for the
+The following is the list of the following:</p>
+<p>𝑎= (5 ± 3) × 10−5 𝐾
+𝑃𝑎</p>
+<p>𝑏= (150 ± 1) 𝐾
+Pam-3</p>
+<p>1.6</p>
+<p>As a=
+𝑉0
+𝑛 𝑅 y 𝑏=
+1
+n R, it is obtained that</p>
+<p>𝑉0 = 𝑎
+𝑏</p>
+<p>σ𝑉0 = 𝑉0 (σ𝑎
+𝑎+ σ𝑏
+𝑏)
+Then,</p>
+<p>𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙</p>
+<p>1.7</p>
+<p>The average molar mass of air is determined by,</p>
+<p>Maire= fiMi
+𝑖</p>
+<p>Where subindex i refers to each constituent gas and Mi and fi= Ci100−1 are the
+The atomic mass and the fraction of the constituent i−e, respectively. 𝐶𝑖 es la
+concentration reported in Table 1.
+Then,</p>
+<p>The following table shows the results of the calculation of the total weight of the product:</p>
+<p>Maire ‘s uncertainty is determined .</p>
+<p>The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+𝑖</p>
+<p>The following is the list of the categories of products:
+𝑓𝑖</p>
+<ul>
+<li>σMi
+𝑀𝑖
+)</li>
+</ul>
+<p>1.8</p>
+<p>To determine air density, the measured point closest to the value of  is chosen.
+The amount of the test chemical is calculated as follows: In this case, the measured point corresponding to −2 turns has a pressure
+The measurement of 1015,7 hPa, the closest to the interest pressure. Then he is chosen as
+The air temperature at T= 22,2°C. To determine the air density for this
+temperature linear interpolation is performed with the points (20oC; 1,20 kg m−3) and
+(25º𝐶; 1,18 𝑘𝑔 𝑚−3).
+Given the uncertainties in temperature and density it is taken as air density
+a</p>
+<p>The following conditions shall apply:</p>
+<p>Then the number of n moles used in the measurements is,</p>
+<p>n = air ρ
+Mayor
+Go away .</p>
+<p>Where Vaire is the volume occupied n moles at T= 22,2°C and at a pressure of
+The amount of the test chemical is calculated as follows:
+In this case, Vaire=v + V0 = (18,6 ± 0.7) ml is taken. Then,</p>
+<p>The following table shows the results of the calculation of the total weight of the product:</p>
+<p>Where uncertainty was calculated as</p>
+<p>σ𝑛
+N = σρρair
+Air</p>
+<ul>
+<li>σVaire
+Vaire</li>
+<li>σMaire
+Mayor</li>
+</ul>
+<p>1.9</p>
+<p>From the slope of the adjustment we get,</p>
+<p>𝑅= 1
+𝑛 𝑏</p>
+<p>𝑅= (8,7 + 0,5)
+𝐽
+The Commission shall adopt implementing acts.</p>
+<p>Where uncertainty was calculated as</p>
+<p>σ𝑅
+𝑅= σ𝑛
+𝑛+ σ𝑏
+𝑏</p>
+<p>Part Two</p>
+<p>2.1</p>
+<p>The states (VA; PA) and (VB; Patm) are related by an adiabatic, then</p>
+<p>The following is the list of the countries:
+The following shall be added:
+𝛾</p>
+<p>On the other hand, the states (VA; PA) and (VB; PB) are related by isothermal
+corresponding to Tamb, then</p>
+<p>The following is the list of the countries of the European Union:</p>
+<p>𝑉𝐴= 𝑃𝐵
+𝑃𝐴
+𝑉𝐵</p>
+<p>Replacing the first equation and rearranging the terms,</p>
+<p>(𝑃𝐵
+𝑃𝐴
+)
+𝛾</p>
+<ul>
+<li>Patm .
+𝑃𝐴</li>
+</ul>
+<p>Taking natural logarithms,</p>
+<p>𝛾 𝑙𝑛(𝑃𝐵
+𝑃𝐴
+(i) = ln
+𝑃𝐴
+)</p>
+<p>Clearing γ and using the logarithm property ln(
+𝑦
+x) = ln(y) −ln (x), is obtained</p>
+<p>The following is the list of the countries of the European Union:
+𝑙𝑛(𝑃𝐵) −𝑙𝑛(𝑃𝐴)</p>
+<p>2.2</p>
+<p>Number of
+Measurement
+The following is the list of the countries of the European Union:
+The following conditions shall apply:
+The following is the list of the countries of the European Union:
+The following conditions shall apply:
+PB [hPa]
+The following conditions shall apply:
+𝛾
+Δ𝛾
+1
+969
+956
+968
+1,1
+0,4
+2
+969
+956
+968
+1,1
+0,4
+3
+969
+953
+968
+1,1
+0,3
+4
+969
+953
+968
+1,1
+0,3
+5
+969
+954
+967
+1,2
+0,3
+6
+969
+940
+966
+1,1
+0,2
+7
+969
+938
+966
+1,1
+0,2
+8
+969
+939
+966
+1,1
+0,2
+9
+969
+940
+966
+1,1
+0,2
+10
+969
+941
+966
+1,1
+0,2</p>
+<p>The value of Δγ was obtained by</p>
+<p>Δ𝛾
+The following table shows the results of the evaluation:
+The Commission has also adopted a proposal for a regulation on the</p>
+<ul>
+<li>Δ[𝑙𝑛(𝑃𝐵) −𝑙𝑛 (𝑃𝐴)]
+𝑙𝑛(𝑃𝐵) −𝑙𝑛 (𝑃𝐴)</li>
+</ul>
+<p>The following table shows the number of persons who have been identified as having a disability:</p>
+<p>Δ[𝑙𝑛(𝑃𝐵) − 𝑙𝑛(𝑃𝐴)] = Δ[𝑙𝑛(𝑃𝐵)] + Δ[𝑙𝑛 (𝑃𝐴)]</p>
+<p>Δ[𝑙𝑛(𝑃𝑘)] = 1
+The following table shows the results of the evaluation:</p>
+<p>2.3</p>
+<p>𝛾̅ = (1,1 ± 0,4)</p>
+<p>♪ back to you ♪
+± 1 8
+⁄<br/>
+𝑣 [𝑚−3]
+× 10−6</p>
+<p>𝜎𝑣 [𝑚−3]
+× 10−6</p>
+<p>𝑃 [𝑃𝑎] × 100
+± 100 𝑃𝑎
+𝑇 [°𝐶]
+± 0,1 °𝐶
+𝑇
+𝑃 [ 𝐾
+𝑃𝑎]
+× 10−6
+Δ 𝑇
+𝑃 [ 𝐾
+𝑃𝑎]
+× 10−6
+0
+15,0
+0,4
+956
+26,7
+3137
+4
+3
+17,6
+0,9
+823
+26,7
+3643
+6
+6
+20,1
+0,9
+722
+26,7
+4153
+7
+9
+22,7
+0,9
+642
+26,8
+4672
+9
+12
+25,2
+0,9
+579
+26,9
+5180
+10
+15
+28
+1
+526
+26,9
+5700
+10
+18
+30
+1
+483
+26,9
+6210
+20
+21
+33
+1
+446
+26,9
+6730
+20
+24
+35
+1
+414
+26,9
+7250
+20
+27
+38
+1
+386
+26,9
+7770
+20
+30
+41
+1
+362
+27,0
+8290
+30
+33
+43
+1
+341
+27,0
+8800
+30
+36
+46
+1
+322
+27,1
+9330
+30
+39
+48
+1
+305
+27,1
+9840
+40</p>
+<p>𝑎= (6 ± 4) × 10−5 𝐾
+𝑃𝑎</p>
+<p>𝑏= (204 ± 1) 𝐾
+Pam-3</p>
+<p>𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙
+The pressure closest to 1013,3 hPa is the measurement for 15 ml (956 hPa).
+at a temperature of 26,7 oC. It ‘s taken .
+The following conditions shall apply:</p>
+<p>The following table shows the results of the calculation of the total weight of the product:</p>
+<p>𝑅= (8,2 + 0,9)
+𝐽
+Other</p>
+<p><strong>Topic:</strong> <a href="../topics/thermodynamics" class="internal internal-link" data-slug="topics/thermodynamics">Thermodynamics</a>
+<strong>Metodi:</strong> <a href="../methods/thermodynamic-cycle-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/thermodynamic-cycle-analysis-(metodo)">Thermodynamic Cycle Analysis</a>, <a href="../methods/ideal-gas-law-(metodo)" class="internal internal-link alias" data-slug="methods/ideal-gas-law-(metodo)">Ideal Gas Law</a>, <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>
+<strong>Objects:</strong> <a href="../objects/gas-(object)" class="internal internal-link alias" data-slug="objects/gas-(object)">Gas</a>, <a href="../objects/cylinder-(object)" class="internal internal-link alias" data-slug="objects/cylinder-(object)">Cylinder</a>, <a href="../objects/piston-(object)" class="internal internal-link alias" data-slug="objects/piston-(object)">Piston</a>, <a href="../objects/manometer-(object)" class="internal internal-link alias" data-slug="objects/manometer-(object)">Manometer</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1bFbUQ76Q1VMniTczExvYP8N0viWrDi5d/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"><div class="toc"><button type="button" class="toc-header" aria-controls="toc-673" aria-expanded="true"><h3>Indice</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-0" class="toc-content overflow"><li class="depth-0"><a href="#𝜎𝑣-𝑣𝑢𝑒𝑙𝑡𝑎𝑠𝑣-𝑣𝑢𝑒𝑙𝑡𝑎𝑠" data-for="𝜎𝑣-𝑣𝑢𝑒𝑙𝑡𝑎𝑠𝑣-𝑣𝑢𝑒𝑙𝑡𝑎𝑠">𝜎(∆𝑣 #𝑣𝑢𝑒𝑙𝑡𝑎𝑠)
+∆𝑣 #𝑣𝑢𝑒𝑙𝑡𝑎𝑠</a></li><li class="depth-0"><a href="#tornato" data-for="tornato">Tornato</a></li><li class="depth-0"><a href="#tornato-1" data-for="tornato-1">Tornato</a></li><li class="depth-0"><a href="#tornato-2" data-for="tornato-2">Tornato</a></li><li class="depth-0"><a href="#σv-torniv-torni" data-for="σv-torniv-torni">σ(∆v torni)
+∆v torni</a></li><li class="depth-0"><a href="#tornato-3" data-for="tornato-3">Tornato</a></li><li class="depth-0"><a href="#σv-spinsv-return" data-for="σv-spinsv-return">σ(∆v spins)
+∆v return</a></li><li class="overflow-end"></li></ul></div></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/cylinder-(object)" class="internal">Cylinder</a></li><li><a href="../objects/gas-(object)" class="internal">Gas</a></li><li><a href="../objects/manometer-(object)" class="internal">Manometer</a></li><li><a href="../objects/piston-(object)" class="internal">Piston</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

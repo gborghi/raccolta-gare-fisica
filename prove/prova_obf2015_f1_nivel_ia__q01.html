@@ -1,0 +1,760 @@
+<!DOCTYPE html>
+<html lang="pt" dir="ltr"><head><title>OBF 2015 — Quesito 1</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="OBF 2015 — Quesito 1"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="OBF 2015 — Quesito 1"/><meta name="twitter:description" content="OLIMPÍADA BRASILEIRA DE FÍSICA 2015 LEIA COM ATENÇÃO AS INSTRUÇÕES DESTA FOLHA ANTES DE APLICAR A PROVA (não imprima esta folha) Prova da 1a fase: Regulamento da OBF 2015 para a prova da 1a fase: 3.1 - A prova da 1a fase será realizada no dia 21 de maio de 2015 (quinta-feira)."/><meta property="og:description" content="OLIMPÍADA BRASILEIRA DE FÍSICA 2015 LEIA COM ATENÇÃO AS INSTRUÇÕES DESTA FOLHA ANTES DE APLICAR A PROVA (não imprima esta folha) Prova da 1a fase: Regulamento da OBF 2015 para a prova da 1a fase: 3.1 - A prova da 1a fase será realizada no dia 21 de maio de 2015 (quinta-feira)."/><meta property="og:image:alt" content="OLIMPÍADA BRASILEIRA DE FÍSICA 2015 LEIA COM ATENÇÃO AS INSTRUÇÕES DESTA FOLHA ANTES DE APLICAR A PROVA (não imprima esta folha) Prova da 1a fase: Regulamento da OBF 2015 para a prova da 1a fase: 3.1 - A prova da 1a fase será realizada no dia 21 de maio de 2015 (quinta-feira)."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/prova_obf2015_f1_nivel_ia__q01"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/prova_obf2015_f1_nivel_ia__q01"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="OLIMPÍADA BRASILEIRA DE FÍSICA 2015 LEIA COM ATENÇÃO AS INSTRUÇÕES DESTA FOLHA ANTES DE APLICAR A PROVA (não imprima esta folha) Prova da 1a fase: Regulamento da OBF 2015 para a prova da 1a fase: 3.1 - A prova da 1a fase será realizada no dia 21 de maio de 2015 (quinta-feira)."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/prova_obf2015_f1_nivel_ia__q01" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-16899" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-16899" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>OBF 2015 — Quesito 1</a></div></nav><h1 class="article-title">OBF 2015 — Quesito 1</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/kg/prova" class="internal internal-link tag-link">kg/prova</a><span class="note-properties-separator">, </span><a href="../tags/paese/brasile" class="internal internal-link tag-link">paese/brasile</a><span class="note-properties-separator">, </span><a href="../tags/comp/obf" class="internal internal-link tag-link">comp/obf</a><span class="note-properties-separator">, </span><a href="../tags/cluster/meccanica" class="internal internal-link tag-link">cluster/meccanica</a><span class="note-properties-separator">, </span><a href="../tags/object/star" class="internal internal-link tag-link">object/star</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:28:18.120Z">02 lug 2026</time><span>21 minuti</span></p><ul class="tags"><li><a href="../tags/kg/prova" class="internal tag-link">kg/prova</a></li><li><a href="../tags/paese/brasile" class="internal tag-link">paese/brasile</a></li><li><a href="../tags/comp/obf" class="internal tag-link">comp/obf</a></li><li><a href="../tags/cluster/meccanica" class="internal tag-link">cluster/meccanica</a></li><li><a href="../tags/object/star" class="internal tag-link">object/star</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="pt"></div>
+<p><strong>OLIMPÍADA BRASILEIRA DE FÍSICA 2015</strong></p>
+<p>LEIA COM ATENÇÃO AS INSTRUÇÕES DESTA FOLHA ANTES DE APLICAR A PROVA</p>
+<p>(não imprima esta folha)</p>
+<p>Prova da 1a fase:</p>
+<p>Regulamento da OBF 2015 para a prova da 1a fase:</p>
+<p>3.1 - A prova da 1a fase será realizada no dia 21 de maio de 2015 (quinta-feira).</p>
+<p>3.1.1 - A aplicação da prova da 1a fase é de responsabilidade do professor credenciado
+e será aplicada nas dependências da escola num dos seguintes períodos: manhã (das 7
+às 12h), tarde (13 às 18 h), noite (18h30 min às 23h).</p>
+<p>3.1.2 - Após a aplicação da prova os professores deverão recolher todo o material
+(caderno de questões e folhas de respostas) e manter o material consigo até um dia
+após a divulgação do gabarito oficial (ver calendário).
+Os alunos participantes devem ser instruídos pelos professores que não é
+permitida a transmissão/publicação de comentários sobre o conteúdo da prova
+(através de qualquer meio, redes sociais ou similares) durante o dia de aplicação da
+prova. A violação deste item implicará na desclassificação do aluno.</p>
+<p>O gabarito preliminar será divulgado somente na área de acesso restrito dos professores.
+Após dois dias da divulgação do gabarito preliminar será divulgado o gabarito oficial final.
+A partir da divulgação do gabarito final as provas poderão retornar aos alunos. As folhas
+de resposta deverão ficar com o professor.
+O lançamento das notas finais dos alunos será liberado na área de acesso restrito após a
+divulgação do gabarito final.</p>
+<p>(não imprima esta folha)</p>
+<p>OLIMPÍADA BRASILEIRA DE FÍSICA 2015
+1a FASE – 21 de maio de 2015</p>
+<p>NÍVEL I
+Ensino Fundamental - 8o e 9o anos</p>
+<p>Tema: ANO INTERNACIONAL DA LUZ</p>
+<p>LEIA ATENTAMENTE AS INSTRUÇÕES ABAIXO:
+01) Esta prova destina-se exclusivamente a alunos dos 8o e 9o anos do ensino fundamental. Ela
+contém vinte questões.
+02) Cada questão contém cinco alternativas, das quais apenas uma é correta.
+03) A alternativa julgada correta deve ser assinalada na Folha de Respostas.
+04) A Folha de Respostas com a identificação do aluno encontra-se na última página deste
+caderno e deverá ser entregue no final da prova.
+05) A duração desta prova é de no máximo quatro horas, devendo o aluno permanecer na sala
+por, no mínimo, noventa minutos.
+06) É vedado o uso de quaisquer tipos de calculadoras e telefones celulares.</p>
+<p>Dados: aceleração da gravidade na superfície da terra <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.204em;vertical-align:-0.25em;"></span><span class="mord">10</span><span class="mspace"> </span><span class="mord"><span class="mord text"><span class="mord">m/s</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.954em;"><span style="top:-3.2029em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>, densidade da água <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.204em;vertical-align:-0.25em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord"><span class="mord text"><span class="mord">kg/m</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.954em;"><span style="top:-3.2029em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span></span></span></span>,
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">3</span></span></span></span>, velocidade da luz no vácuo <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">3</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1.0641em;vertical-align:-0.25em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">8</span></span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord text"><span class="mord">m/s</span></span></span></span></span>, constante de Planck <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">6</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">6</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">34</span></span></span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord text"><span class="mord">J.s</span></span></span></span></span>, log 2 = 0,3</p>
+<p>O texto a seguir se refere às questões 1 e 2.</p>
+<p>“Em 1960 surgiu o primeiro laser, 44 anos após Albert Einstein prever a sua existência. Na época
+da sua descoberta, o LASER - Light Amplification by Stimulated Emission of Radiation ou
+Amplificação de Luz por Emissão Estimulada de Radiação - foi considerado apenas um objeto de
+muita curiosidade. Posteriormente foi descoberta uma infinidade de aplicações para ele, desde a
+pesquisa básica até o uso em medicina.” (Texto extraído de Revista Eletrônica de Ciências, Número 07, Maio
+de 2002).
+A luz viaja a uma velocidade de aproximadamente 300.000 km/s. Sendo as distâncias
+astronômicas muito grandes, muitas vezes é conveniente expressá-las em ano-luz (espaço
+percorrido pela luz em um ano corresponde aproximadamente a <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">9</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">5</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">12</span></span></span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord text"><span class="mord">km</span></span></span></span></span>).</p>
+<ol>
+<li>Imagine que uma informação fosse enviada por laser ao sistema Alfa Centauri e percorresse
+uma distância de <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">4</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">1</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">16</span></span></span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord text"><span class="mord">m</span></span></span></span></span>. Qual essa distância, aproximadamente, em anos-luz?</li>
+</ol>
+<ul>
+<li><strong>A.</strong> 3,6</li>
+<li><strong>B.</strong> 4,1</li>
+<li><strong>C.</strong> 4,3 (d) 4,6</li>
+<li><strong>E.</strong> 5,0</li>
+</ul>
+<ol start="2">
+<li>Qual o tempo gasto para a luz percorrer a distância de <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">4</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">1</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">16</span></span></span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord text"><span class="mord">m</span></span></span></span></span> em segundos,
+aproximadamente?</li>
+</ol>
+<ul>
+<li><strong>A.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">1</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">4</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">8</span></span></span></span></span></span></span></span></span></span></span></li>
+<li><strong>B.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">2</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">4</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">8</span></span></span></span></span></span></span></span></span></span></span></li>
+<li><strong>C.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">3</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">5</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">8</span></span></span></span></span></span></span></span></span></span></span></li>
+<li><strong>D.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">4</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">5</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">8</span></span></span></span></span></span></span></span></span></span></span></li>
+<li><strong>E.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">6</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">1</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">8</span></span></span></span></span></span></span></span></span></span></span></li>
+</ul>
+<ol start="3">
+<li>O astrônomo alemão Johannes Kepler (1571-1630) fez contribuições fundamentais para o
+desenvolvimento da astronomia com a proposição de leis que levam seu nome. Uma delas,
+conhecida como primeira lei de Kepler, estabelece que todos os planetas movem-se em orbitas
+elípticas, com o Sol ocupando um de seus focos. Na figura abaixo, representa-se
+esquematicamente o movimento de um planeta. Quando o planeta encontra-se no ponto de sua
+órbita mais próximo do Sol, diz-se que o mesmo atingiu:</li>
+</ol>
+<p>Fonte: <a href="http://www.infoescola.com/fisica/gravitacao-universal/" class="external external-link">http://www.infoescola.com/fisica/gravitacao-universal/<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<ul>
+<li><strong>A.</strong> apogeu</li>
+<li><strong>B.</strong> afélio</li>
+<li><strong>C.</strong> periélio</li>
+<li><strong>D.</strong> apoastro</li>
+<li><strong>E.</strong> equinócio</li>
+</ul>
+<ol start="4">
+<li>“O Radar Fixo, é um equipamento eletrônico, computadorizado, que visa monitorar um
+determinado ponto da rodovia ou toda ela, estabelecendo uma rotina de fiscalização, objetivando
+através dessas ações a redução das estatísticas de acidentes com vítimas fatais nas rodovias e
+disciplinando a curto e médio prazo o motorista no que se refere ao controle de velocidade”. (Texto
+Extraído da Secretaria do Rio de Janeiro, DER-RJ; <a href="http://www.der.rj.gov.br/lombadas_radares.asp" class="external external-link">http://www.der.rj.gov.br/lombadas_radares.asp<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>,
+acessado em 07/04/2015).</li>
+</ol>
+<p>Fonte da imagem: Departamento de Estradas e Rodagens do Rio de Janeiro)</p>
+<p>Na figura acima, considere que o radar detecta veículos dentro do triângulo retângulo em
+destaque. Qual a área da estrada, em <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord"><span class="mord text"><span class="mord">m</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span> coberta pelo feixe?</p>
+<ul>
+<li><strong>A.</strong> 6</li>
+<li><strong>B.</strong> 9 (c) 10</li>
+<li><strong>D.</strong> 12 (e) 20</li>
+</ul>
+<ol start="5">
+<li>Considere uma partícula que se move de acordo com a função horária
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">3</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">5</span><span class="mord mathnormal">t</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">2</span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>, onde a
+posição <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">x</span></span></span></span> é dada em metros e o tempo <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6151em;"></span><span class="mord mathnormal">t</span></span></span></span> em segundos. Qual a velocidade média da partícula entre
+os instantes <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7651em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">3</span></span></span></span> s e <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7651em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">4</span></span></span></span> s, em m/s?</li>
+</ol>
+<ul>
+<li><strong>A.</strong> 17</li>
+<li><strong>B.</strong> 19 (c) 21</li>
+<li><strong>D.</strong> 34</li>
+<li><strong>E.</strong> 38</li>
+</ul>
+<p>O texto a seguir se refere às questões 6, 7 e 8.
+Considere uma situação análoga a uma montanha russa na qual um bloco desliza sem atrito
+sobre uma calha que tem o perfil representado na figura abaixo, onde <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">h</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">4</span><span class="mord mathnormal" style="margin-right:0.0077em;">R</span></span></span></span>, sendo <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.0077em;">R</span></span></span></span> o raio do
+trecho circular.</p>
+<ol start="6">
+<li>Considerando que o bloco parte do repouso do ponto A e <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">h</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">5</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">0</span></span></span></span> m, qual a velocidade do bloco
+no ponto B?</li>
+</ol>
+<ul>
+<li><strong>A.</strong> 5,0 m/s</li>
+<li><strong>B.</strong> 10 m/s</li>
+<li><strong>C.</strong> 20 m/s</li>
+<li><strong>D.</strong> 40 m/s</li>
+<li><strong>E.</strong> 100 m/s</li>
+</ul>
+<ol start="7">
+<li>Abaixo os valores das energias mecânica (E), cinética (K) e potencial (U) do carrinho são
+representados por colunas verticais, e que o comprimento da parte sombreada é proporcional a
+esses valores.</li>
+</ol>
+<p>I)</p>
+<p>II)
+III)
+IV)
+V)</p>
+<p>VI)</p>
+<p>Identifique os diagramas que melhor representam a distribuição energética, nos pontos A, B e C,
+respectivamente;</p>
+<ul>
+<li><strong>A.</strong> I, IV e V</li>
+<li><strong>B.</strong> II, VI e IV</li>
+<li><strong>C.</strong> III, II e V</li>
+<li><strong>D.</strong> I, II e III</li>
+<li><strong>E.</strong> I, II e V</li>
+</ul>
+<ol start="8">
+<li>Baseado nas leis de Newton qual diagrama melhor representa a(s) força(s) que atua(m) no
+carrinho no ponto C.</li>
+</ol>
+<p>(a) (b) (c)</p>
+<p>(d) (e)</p>
+<ol start="9">
+<li>Um trabalho recente publicado na Revista Brasileira de Ensino da Física destaca um
+“Refrigerador termoelétrico de Peltier usado para estabilizar um feixe laser em experimentos
+didáticos” (Revista Brasileira de Ensino de Física, v. 36, n. 1, 1308 (2014)). O trabalho destaca um
+experimento onde é montado um sistema de estabilização de um laser de diodo mantido à
+temperatura controlada e estabilizada com materiais de baixo custo. Destacando o controle da
+temperatura, imaginemos que o experimento registra uma temperatura de <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">68</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">F</span></span></span></span></span>, e você tivesse
+que obter esta informação na escala Celsius, qual alternativa fornece essa temperatura.</li>
+</ol>
+<ul>
+<li><strong>A.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">10</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span></li>
+<li><strong>B.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">20</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span></li>
+<li><strong>C.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">32</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span></li>
+<li><strong>D.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">34</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span></li>
+<li><strong>E.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">38</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span></li>
+</ul>
+<p>O texto a seguir se refere às questões de 10 a 13
+“Totem da ousadia humana, orgulho da engenharia náutica, colosso de 269 metros de
+comprimento, uma largura de 28 m, altura de 71 m e 46 mil toneladas, obra-prima de 7,5 milhões
+de dólares, o RMS Titanic, tido e havido como inexpugnável pelos mais insuspeitos especialistas,
+soçobrou em sua viagem inaugural. Ao colidir com um iceberg, nas últimas horas do dia 14 de
+abril, o navio afundou e levou consigo a vida de mais de 1.500 pessoas nas águas gélidas do
+Atlântico norte”. (<a href="http://veja.abril.com.br/historia/titanic/tragedia-naufragio-iceberg-mortos-causas-investigacao.shtml" class="external external-link">http://veja.abril.com.br/historia/titanic/tragedia-naufragio-iceberg-mortos-causas-investigacao.shtml<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>)</p>
+<p>Fonte: <a href="http://veja.abril.com.br/historia/titanic/tragedia-naufragio-iceberg-mortos-causas-investigacao.shtml" class="external external-link">http://veja.abril.com.br/historia/titanic/tragedia-naufragio-iceberg-mortos-causas-investigacao.shtml<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<ol start="10">
+<li>Imagine que um compartimento vazio de <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0085em;vertical-align:-0.1944em;"></span><span class="mord">60</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">0</span><span class="mspace"> </span><span class="mord"><span class="mord text"><span class="mord">m</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span></span></span></span>, no qual a água penetra</li>
+</ol>
+<p><strong>Topic:</strong> <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>, <a href="../topics/conservation-of-energy" class="internal internal-link alias" data-slug="topics/conservation-of-energy">Conservation of Energy</a>, <a href="../topics/fluid-mechanics" class="internal internal-link alias" data-slug="topics/fluid-mechanics">Fluid Mechanics</a>
+<strong>Metodi:</strong> <a href="../methods/kinematic-equations-(metodo)" class="internal internal-link alias" data-slug="methods/kinematic-equations-(metodo)">Kinematic Equations</a>, <a href="../methods/energy-conservation-method-(metodo)" class="internal internal-link alias" data-slug="methods/energy-conservation-method-(metodo)">Energy Conservation Method</a>, <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>, <a href="../methods/hydrostatic-equilibrium-(metodo)" class="internal internal-link alias" data-slug="methods/hydrostatic-equilibrium-(metodo)">Hydrostatic Equilibrium</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/unit-conversion-(competenza)" class="internal internal-link alias" data-slug="skills/unit-conversion-(competenza)">Unit Conversion</a>
+<strong>Objects:</strong> <a href="../objects/star-(object)" class="internal internal-link alias" data-slug="objects/star-(object)">Star</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1Pl0AW3qBTi4NXlbbcBxvPzHz-Axh1ggU/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="it"></div>
+<p><strong>Olimpiade brasiliana di fisica 2015</strong></p>
+<p>Leggi attentamente le istruzioni prima di applicare la prova</p>
+<p>(non stampa questa foglia)</p>
+<p>Prova della prima fase:</p>
+<p>Regolamento OBF 2015 per la prova di fase 1:</p>
+<p>3.1 - La prova della prima fase sarà effettuata il 21 maggio 2015 (giovedì).</p>
+<p>3.1.1 - L’applicazione della prova di fase 1 è responsabilità del docente accreditato
+e sarà applicata nelle stanze scolastiche in uno dei seguenti periodi: mattina (dalle 7 alle 7 del mattino)
+alle 12h), pomeriggio (13 alle 18h), notte (18h30 min alle 23h).</p>
+<p>3.1.2 - Dopo l’applicazione della prova gli insegnanti devono raccogliere tutto il materiale
+(questione e fogli di risposte) e tenere il materiale con te fino a un giorno
+dopo la pubblicazione del biglietto ufficiale (vedi calendario).
+Gli studenti partecipanti devono essere istruiti da insegnanti che non sono
+autorizzato a trasmettere/pubblicare commenti sui contenuti della prova
+(attraverso qualsiasi mezzo, social network o altro) durante il giorno di applicazione della direttiva
+Prova. La violazione di questo punto implicerà la sclassificazione del studente.</p>
+<p>Il preliminarista sarà pubblicato solo nell’area di accesso ristretto per gli insegnanti.
+Due giorni dopo la pubblicazione del preliminarie bollettino, verrà pubblicato il finale bollettino ufficiale.
+Dalla pubblicazione del libro finale, le prove potranno essere restituite agli studenti. Le foglie
+La risposta deve essere con il professore.
+La pubblicazione dei voti finali degli studenti sarà libera nell’area di accesso ristretto dopo la fine del corso di formazione.
+diffusione del cappuccio finale.</p>
+<p>(non stampa questa foglia)</p>
+<p>L’Olimpiade di Fisica del Brasile 2015
+FASE 1  21 maggio 2015</p>
+<p>Nivel 1
+Istruzione elementare - 8° e 9° anno</p>
+<p>Tema: Anno internazionale della luce</p>
+<p>Leggi attentamente le istruzioni qui sotto:
+01) Questo test è rivolto esclusivamente agli studenti dell’ottavo e del nono anno di scuola elementare. Lei
+contiene venti domande.
+02) Ogni questione contiene cinque alternative, di cui solo una è corretta.
+03) L’alternativa ritenuta corretta deve essere indicata nella scheda delle risposte.
+04) La scheda di risposte con l’identificazione del studente si trova all’ultima pagina di questo
+la scheda e deve essere consegnata alla fine della prova.
+05) La durata di questo esame è di un massimo di quattro ore e il studente deve rimanere in sala
+per almeno 90 minuti.
+06) È vietato l’uso di qualsiasi tipo di calcolatore e di cellulare.</p>
+<p>Data: accelerazione della gravità sulla superficie della terra <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.204em;vertical-align:-0.25em;"></span><span class="mord">10</span><span class="mspace"> </span><span class="mord"><span class="mord text"><span class="mord">m/s</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.954em;"><span style="top:-3.2029em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>, densità dell’acqua <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.204em;vertical-align:-0.25em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord"><span class="mord text"><span class="mord">kg/m</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.954em;"><span style="top:-3.2029em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span></span></span></span>,
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">3</span></span></span></span>, velocità della luce nel vuoto <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">3</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1.0641em;vertical-align:-0.25em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">8</span></span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord text"><span class="mord">m/s</span></span></span></span></span>, costante di Planck <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">6</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">6</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">34</span></span></span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord text"><span class="mord">J.s</span></span></span></span></span>, log 2 = 0,3</p>
+<p>Il testo seguente riguarda le domande 1 e 2.</p>
+<p>Nel 1960 è apparso il primo laser, 44 anni dopo che Albert Einstein aveva previsto la sua esistenza. All’epoca
+La luce di una radioterapia può essere utilizzata per la radioterapia.
+Amplificazione della luce per emissione di radiazioni stimolate - è stato considerato solo un oggetto di
+Molto curiosa. In seguito sono state scoperte infinite applicazioni per esso, dal
+La ricerca di base fino all’uso in medicina. (Testo estratto dalla rivista Electronic Sciences, numero 07, maggio)
+de 2002).
+La luce viaggia a velocità di circa 300.000 km/s. Dalle distanze
+La luce di un’anno (spazio) è molto grande.
+il percorso luminoso in un anno corrisponde approssimativamente a <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">9</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">5</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">12</span></span></span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord text"><span class="mord">km</span></span></span></span></span>).</p>
+<ol>
+<li>Immaginate che un laser inviasse informazioni al sistema Alfa Centauri e le spingesse
+una distanza di <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">4</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">1</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">16</span></span></span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord text"><span class="mord">m</span></span></span></span></span>. Quanto è questa distanza, circa, in anni luce?</li>
+</ol>
+<ul>
+<li><strong>A.</strong> 3,6</li>
+<li><strong>B.</strong> 4,1</li>
+<li><strong>C.</strong> 4,3 (d) 4,6</li>
+<li><strong>E.</strong> 5,0</li>
+</ul>
+<ol start="2">
+<li>Qual è il tempo impiegato per la luce a percorrere la distanza di <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">4</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">1</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">16</span></span></span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord text"><span class="mord">m</span></span></span></span></span> in secondi,</li>
+</ol>
+<ul>
+<li>
+<p>Circa?</p>
+</li>
+<li>
+<p><strong>A.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">1</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">4</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">8</span></span></span></span></span></span></span></span></span></span></span></p>
+</li>
+<li>
+<p><strong>B.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">2</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">4</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">8</span></span></span></span></span></span></span></span></span></span></span></p>
+</li>
+<li>
+<p><strong>C.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">3</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">5</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">8</span></span></span></span></span></span></span></span></span></span></span></p>
+</li>
+<li>
+<p><strong>D.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">4</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">5</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">8</span></span></span></span></span></span></span></span></span></span></span></p>
+</li>
+<li>
+<p><strong>E.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">6</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">1</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">8</span></span></span></span></span></span></span></span></span></span></span></p>
+</li>
+</ul>
+<ol start="3">
+<li>L’astronomo tedesco Johannes Kepler (1571-1630) ha dato un contributo fondamentale alla
+sviluppo dell’astronomia con la proposta di leggi che portano il suo nome. Una di queste,
+nota come la prima legge di Kepler, stabilisce che tutti i pianeti si muovono in orbita
+Eliptica, con il sole occupando uno dei suoi foci. La figura qui sotto è rappresentata
+Schematicamente il movimento di un pianeta. Quando il pianeta si trova al suo punto di
+Orbita più vicina al Sole, si dice che abbia raggiunto:</li>
+</ol>
+<p>Fonte: <a href="http://www.infoescola.com/fisica/gravitazione-universale/" class="external external-link">http://www.infoescola.com/fisica/gravitazione-universale/<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<ul>
+<li>**A ** è aumentata</li>
+<li><strong>B.</strong> affilo</li>
+<li><strong>C.</strong> perielli</li>
+<li>**D ** apastro</li>
+<li><strong>E.</strong> equinozio</li>
+</ul>
+<ol start="4">
+<li>Il radar fisso è un’apparecchiatura elettronica, computerizzata, che mira a monitorare un
+determinato punto della strada o dell’intera via, stabilendo una routine di controllo,
+a) ridurre le statistiche sugli incidenti stradali con vittime letali;
+disciplinare il conducente nel breve e medio periodo in materia di controllo della velocità. (Testo)
+Attraverso il sito web di DER-RJ,
+acceduto il 7 aprile 2015.</li>
+</ol>
+<p>Foto: Dipartimento delle strade e dei trasporti di Rio de Janeiro)</p>
+<p>Nella figura precedente, consideri che il radar rileva veicoli all’interno del triangolo retangolo in</p>
+<ul>
+<li>
+<p>In primo luogo. Qual è l’area della strada, in <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord"><span class="mord text"><span class="mord">m</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span> coperta dal fascio?</p>
+</li>
+<li>
+<p><strong>A.</strong> 6</p>
+</li>
+<li>
+<p><strong>B.</strong> 9 (c) 10</p>
+</li>
+<li>
+<p><strong>D.</strong> 12 (e) 20</p>
+</li>
+</ul>
+<ol start="5">
+<li>Considerate una particella che si muove in funzione oraria
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">3</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">5</span><span class="mord mathnormal">t</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">2</span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>, dove la
+la posizione <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">x</span></span></span></span> è data in metri e il tempo <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6151em;"></span><span class="mord mathnormal">t</span></span></span></span> in secondi. Qual è la velocità media della particella tra
+i momenti <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7651em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">3</span></span></span></span> s e <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7651em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">4</span></span></span></span> s, in m/s?</li>
+</ol>
+<ul>
+<li><strong>A.</strong> 17</li>
+<li><strong>B.</strong> 19 (c) 21</li>
+<li><strong>D.</strong> 34</li>
+<li><strong>E.</strong> 38</li>
+</ul>
+<p>Il testo seguente riguarda le domande 6, 7 e 8.
+Considerate una situazione simile a una montagna russa in cui un blocco scivola senza attrito
+su una stagnola con il profilo rappresentato nella figura seguente, dove <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">h</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">4</span><span class="mord mathnormal" style="margin-right:0.0077em;">R</span></span></span></span>, essendo <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.0077em;">R</span></span></span></span> il raggio del
+tramo circolare.</p>
+<ol start="6">
+<li>Considerando che il blocco parte dal riposo del punto A e <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">h</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">5</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">0</span></span></span></span> m, quale è la velocità del blocco
+al punto B?</li>
+</ol>
+<ul>
+<li><strong>A.</strong> 5,0 m/s</li>
+<li><strong>B.</strong> 10 m/s</li>
+<li><strong>C.</strong> 20 m/s</li>
+<li><strong>D.</strong> 40 m/s</li>
+<li><strong>E.</strong> 100 m/s</li>
+</ul>
+<ol start="7">
+<li>Qui sotto i valori delle energie meccaniche (E), cinetiche (K) e potenziali (U) del carrello sono:
+che la lunghezza della parte oscura sia proporzionale alla
+i valori.</li>
+</ol>
+<p>I)</p>
+<p>II)
+III)
+IV)
+V)</p>
+<p>VI)</p>
+<p>Identificare i diagrammi che meglio rappresentano la distribuzione dell’energia nei punti A, B e C;
+rispettivamente;</p>
+<ul>
+<li><strong>A.</strong> I, IV e V</li>
+<li><strong>B.</strong> II, VI e IV</li>
+<li><strong>C.</strong> III, II e V</li>
+<li><strong>D.</strong> I, II e III</li>
+<li><strong>E.</strong> I, II e V</li>
+</ul>
+<ol start="8">
+<li>Basato sulle leggi di Newton quale diagramma rappresenta meglio la forza che agisce
+carro al punto C.</li>
+</ol>
+<p>(a) (b) (c)</p>
+<p>(d) (e)</p>
+<ol start="9">
+<li>Un recente lavoro pubblicato sulla rivista brasiliana di educazione fisica evidenzia un
+Frigorante termoelettrico di Peltier usato per stabilizzare un fascio laser in esperimenti
+La rivista brasiliana di insegnamento di fisica, v. 36, n. 1, 1308 (2014)). Il lavoro mette in evidenza un
+esperimento in cui viene montato un sistema di stabilizzazione di un laser diodo mantenuto al
+temperatura controllata e stabilizzata con materiali a basso costo. In particolare, il controllo della
+temperatura, immaginiamo che l’esperimento registra una temperatura di <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">68</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">F</span></span></span></span></span>, e avresti
+che ottengono queste informazioni su scala Celsius, quale alternativa fornisce questa temperatura.</li>
+</ol>
+<ul>
+<li><strong>A.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">10</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span></li>
+<li><strong>B.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">20</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span></li>
+<li><strong>C.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">32</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span></li>
+<li><strong>D.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">34</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span></li>
+<li><strong>E.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">38</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span></li>
+</ul>
+<p>Il testo seguente riguarda le domande 10-13
+Totten la coraggio umana, il fiere dell’ingegneria nautica, colosso di 269 metri di altezza
+lunghezza, larghezza di 28 m, altezza di 71 m e 46 000 tonnellate, lavori di 7,5 milioni
+Il RMS Titanic, considerato e considerato impugnabile dagli esperti più sottili,
+ha soccorso nel suo viaggio inaugurale. Colpisce un iceberg nelle ultime ore del 14
+Nel mese di aprile, la nave affondò e portò con sé la vita di più di 1.500 persone nelle acque gelate del
+Il Nord Atlantico. (<a href="http://vista.abril.com.br/historia/titanic/tragedia-naufragio-iceberg-mortos-causes-investigazione.shtml" class="external external-link">http://vista.abril.com.br/historia/titanic/tragedia-naufragio-iceberg-mortos-causes-investigazione.shtml<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>)</p>
+<p>Fonte: <a href="http://veja.abril.com.br/historia/titanic/tragedia-naufragio-iceberg-mortos-causes-investigacion.shtml" class="external external-link">http://veja.abril.com.br/historia/titanic/tragedia-naufragio-iceberg-mortos-causes-investigacion.shtml<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<ol start="10">
+<li>Immaginate un contenitore vuoto di <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0085em;vertical-align:-0.1944em;"></span><span class="mord">60</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">0</span><span class="mspace"> </span><span class="mord"><span class="mord text"><span class="mord">m</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span></span></span></span>, in cui l’acqua penetra</li>
+</ol>
+<p><strong>Topic:</strong> <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>, <a href="../topics/conservation-of-energy" class="internal internal-link alias" data-slug="topics/conservation-of-energy">Conservation of Energy</a>, <a href="../topics/fluid-mechanics" class="internal internal-link alias" data-slug="topics/fluid-mechanics">Fluid Mechanics</a>
+<strong>Metodi:</strong> <a href="../methods/kinematic-equations-(metodo)" class="internal internal-link alias" data-slug="methods/kinematic-equations-(metodo)">Kinematic Equations</a>, <a href="../methods/energy-conservation-method-(metodo)" class="internal internal-link alias" data-slug="methods/energy-conservation-method-(metodo)">Energy Conservation Method</a>, <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>, <a href="../methods/hydrostatic-equilibrium-(metodo)" class="internal internal-link alias" data-slug="methods/hydrostatic-equilibrium-(metodo)">Hydrostatic Equilibrium</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/unit-conversion-(competenza)" class="internal internal-link alias" data-slug="skills/unit-conversion-(competenza)">Unit Conversion</a>
+<strong>Objects:</strong> <a href="../objects/star-(object)" class="internal internal-link alias" data-slug="objects/star-(object)">Star</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1Pl0AW3qBTi4NXlbbcBxvPzHz-Axh1ggU/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>The following is the list of the countries of the European Union:</p>
+<p>Read the instructions carefully before applying the test</p>
+<p>(do not print this sheet)</p>
+<p>Phase 1 test:</p>
+<p>The following shall be added to the OBF Regulation 2015 for the first phase test:</p>
+<p>3.1 - The test for the first phase will be held on 21 May 2015 (Thursday).</p>
+<p>3.1.1 - The application of the first stage test is the responsibility of the accredited teacher
+The following periods are applied in the school premises: morning (7 a.m.
+at 12h), afternoon (13h to 18h), night (18h30min to 23h).</p>
+<p>3.1.2 - After the test is applied, teachers must collect all the material
+(Question book and answer sheets) and keep the material with you for a day
+after the official announcement (see calendar).
+Participants must be taught by teachers who are not
+The Commission shall, by means of implementing acts, adopt delegated acts in accordance with Article 21 of Regulation (EU) No 182/2011 and shall take into account the information contained in the Annex to this Regulation.
+(via any medium, social network or similar) during the day of application of the
+I’ll try that. Violation of this paragraph will result in the student being disqualified.</p>
+<p>The preliminary report shall be published only in the restricted area for teachers.
+Two days after the initial disclosure, the final official disclosure shall be made.
+Once the final score is released, the evidence can be returned to the students. The leaves
+The answer should be with the teacher.
+The release of students’ final grades will be released in the restricted area after the
+The final disclosure of the final cut.</p>
+<p>(do not print this sheet)</p>
+<p>The following is a list of the countries of Brazil by weight:
+The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.</p>
+<p>Level I
+Basic education - 8th and 9th grades</p>
+<p>The European Parliament has adopted a resolution on the situation in the Mediterranean.</p>
+<p>Please read the instructions below carefully:
+01) This test is intended exclusively for students in grades 8 and 9 of primary school. She ‘s …
+It contains 20 questions.
+02) Each question contains five alternatives, of which only one is correct.
+03) The alternative considered correct should be indicated in the Answer Sheet.
+04) The Student Identification Sheet is on the last page of this
+the notebook and must be delivered at the end of the test.
+05) The duration of this test is not more than four hours and the student must remain in the classroom
+for at least 90 minutes.
+06) The use of any kind of calculator and mobile phone is prohibited.</p>
+<p>Data: gravity acceleration at the earth’s surface <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.204em;vertical-align:-0.25em;"></span><span class="mord">10</span><span class="mspace"> </span><span class="mord"><span class="mord text"><span class="mord">m/s</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.954em;"><span style="top:-3.2029em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>, water density <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.204em;vertical-align:-0.25em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord"><span class="mord text"><span class="mord">kg/m</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.954em;"><span style="top:-3.2029em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span></span></span></span>,
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">3</span></span></span></span>, speed of light in vacuum <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">3</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1.0641em;vertical-align:-0.25em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">8</span></span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord text"><span class="mord">m/s</span></span></span></span></span>, Planck constant <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">6</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">6</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">34</span></span></span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord text"><span class="mord">J.s</span></span></span></span></span>, log 2 = 0,3</p>
+<p>The following text relates to questions 1 and 2.</p>
+<p>In 1960 the first laser appeared, 44 years after Albert Einstein predicted its existence. At that time
+of its discovery, the laser - Light Amplification by Stimulated Emission of Radiation or
+Amplification of Light by Stimulated Radiation Emission - was considered only an object of
+I’m very curious. Subsequently, a multitude of applications for it were discovered, from the
+Basic research to medical use. (Excerpted from the Electronic Journal of Science, May 07, 2017)
+de 2002).
+Light travels at a speed of about 300,000 km/s. ♪ Being the distances ♪
+The results of the study are not as clear as the results of the study.
+The average annual light-current time of one year is approximately <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">9</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">5</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">12</span></span></span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord text"><span class="mord">km</span></span></span></span></span>.</p>
+<ol>
+<li>Imagine that a laser sends information to the Alpha Centauri system and it travels through the system.
+a distance of <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">4</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">1</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">16</span></span></span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord text"><span class="mord">m</span></span></span></span></span>. What’s that distance, roughly, in light-years?</li>
+</ol>
+<ul>
+<li><strong>A.</strong> 3,6</li>
+<li><strong>B.</strong> 4,1</li>
+<li><strong>C.</strong> 4,3 (d) 4,6</li>
+<li><strong>E.</strong> 5,0</li>
+</ul>
+<ol start="2">
+<li>What is the time spent for light to travel <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">4</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">1</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">16</span></span></span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord text"><span class="mord">m</span></span></span></span></span> in seconds,</li>
+</ol>
+<ul>
+<li>
+<p>About what?</p>
+</li>
+<li>
+<p><strong>A.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">1</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">4</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">8</span></span></span></span></span></span></span></span></span></span></span></p>
+</li>
+<li>
+<p><strong>B.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">2</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">4</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">8</span></span></span></span></span></span></span></span></span></span></span></p>
+</li>
+<li>
+<p><strong>C.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">3</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">5</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">8</span></span></span></span></span></span></span></span></span></span></span></p>
+</li>
+<li>
+<p><strong>D.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">4</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">5</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">8</span></span></span></span></span></span></span></span></span></span></span></p>
+</li>
+<li>
+<p><strong>E.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">6</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">1</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">8</span></span></span></span></span></span></span></span></span></span></span></p>
+</li>
+</ul>
+<ol start="3">
+<li>The German astronomer Johannes Kepler (1571-1630) made fundamental contributions to the
+the development of astronomy with the proposal of laws bearing his name. One of them,
+Known as Kepler’s first law, it states that all planets move in orbits.
+elliptical, with the Sun occupying one of its focal points. The figure below shows
+The movement of a planet. When the planet is at its point of
+orbiting the Sun, it is said to have reached:</li>
+</ol>
+<p>The Commission has also adopted a number of measures to ensure that the European Union’s financial contribution to the programme is not exceeded.</p>
+<ul>
+<li>**A ** has been lifted</li>
+<li>**B ** aphelion</li>
+<li>**C ** perihelion</li>
+<li>**D **</li>
+<li>**E ** equation</li>
+</ul>
+<ol start="4">
+<li>Fixed radar is a computerised electronic equipment intended to monitor a
+a particular point on the highway or the whole of it, establishing a monitoring routine, with the objective of:
+The Commission will also be able to take action to ensure that the Union’s financial contribution to the implementation of the programme is not limited to the following:
+The Commission has also adopted a proposal for a directive on the protection of the environment. (Text from the
+The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
+This appropriation is intended to cover the expenditure incurred in the implementation of the programme.</li>
+</ol>
+<p>The Commission has also adopted a proposal for a directive on the protection of the environment.</p>
+<p>In the figure above, consider that the radar detects vehicles within the rectangle in
+highlight. What area of road in <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord"><span class="mord text"><span class="mord">m</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span> covered by the beam?</p>
+<ul>
+<li><strong>A.</strong> 6</li>
+<li><strong>B.</strong> 9 (c) 10</li>
+<li><strong>D.</strong> 12 (e) 20</li>
+</ul>
+<ol start="5">
+<li>Consider a particle moving according to the time function
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">3</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">5</span><span class="mord mathnormal">t</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">2</span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span> where the
+The position <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">x</span></span></span></span> is given in meters and the time <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6151em;"></span><span class="mord mathnormal">t</span></span></span></span> in seconds. What is the average particle velocity between
+the instants <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7651em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">3</span></span></span></span> s and <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7651em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">4</span></span></span></span> s, in m/s?</li>
+</ol>
+<ul>
+<li><strong>A.</strong> 17</li>
+<li><strong>B.</strong> 19 (c) 21</li>
+<li><strong>D.</strong> 34</li>
+<li><strong>E.</strong> 38</li>
+</ul>
+<p>The following text relates to questions 6, 7 and 8.
+Consider a situation similar to a Russian mountain where a block slides without friction
+on a well with the profile shown in the figure below, where <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">h</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">4</span><span class="mord mathnormal" style="margin-right:0.0077em;">R</span></span></span></span>, where <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.0077em;">R</span></span></span></span> is the radius of the
+Circular section.</p>
+<ol start="6">
+<li>Whereas the block starts at the rest of point A and <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">h</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">5</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">0</span></span></span></span> m, what is the block speed
+at point B?</li>
+</ol>
+<ul>
+<li><strong>A.</strong> 5,0 m/s</li>
+<li><strong>B.</strong> 10 m/s</li>
+<li><strong>C.</strong> 20 m/s</li>
+<li><strong>D.</strong> 40 m/s</li>
+<li><strong>E.</strong> 100 m/s</li>
+</ul>
+<ol start="7">
+<li>Below the values of the mechanical (E), kinetic (K) and potential (U) energies of the cart are
+represented by vertical columns, and the shaded part length is proportional to
+These values.</li>
+</ol>
+<p>I)</p>
+<p>II)
+(iii) the
+IV)
+V)</p>
+<p>VI)</p>
+<p>Identify the diagrams that best represent the energy distribution in points A, B and C,
+respectively;</p>
+<ul>
+<li><strong>A.</strong> I, IV e V</li>
+<li><strong>B.</strong> II, VI e IV</li>
+<li><strong>C</strong> III, II and V</li>
+<li>**D ** I, II and III</li>
+<li><strong>E.</strong> I, II e V</li>
+</ul>
+<ol start="8">
+<li>Based on Newton’s laws which diagram best represents the force acting on the
+cart at point C.</li>
+</ol>
+<p>(a) (b) (c)</p>
+<p>(d) (e)</p>
+<ol start="9">
+<li>A recent paper published in the Brazilian Journal of Physics Education highlights a
+Peltier thermoelectric refrigerator used to stabilize a laser beam in experiments
+The following is a list of the main activities of the Brazilian Institute of Physics: 36, n. 1, 1308 (2014)). The work highlights one
+An experiment where a diode laser stabilization system is installed
+controlled and stabilized temperature with low cost materials. The Commission has also taken note of the
+temperature, let’s say the experiment records a temperature of <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">68</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">F</span></span></span></span></span>, and you have
+So what’s the alternative to this temperature?</li>
+</ol>
+<ul>
+<li><strong>A.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">10</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span></li>
+<li><strong>B.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">20</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span></li>
+<li><strong>C.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">32</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span></li>
+<li><strong>D.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">34</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span></li>
+<li><strong>E.</strong> <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">38</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span></li>
+</ul>
+<p>The following text relates to questions 10 to 13
+Take away human courage, pride in nautical engineering, 269 meters tall colosse of
+length, width of 28 m, height of 71 m and 46 000 tonnes, masterpiece of 7,5 million
+The RMS Titanic, considered and held to be impregnable by the most unsuspecting experts,
+He was a failure on his inaugural trip. In the final hours of the 14th of December,
+In April, the ship sank and took the lives of over 1,500 people in the icy waters of the Mediterranean Sea.
+North Atlantic. The Commission has also adopted a number of measures to ensure that the Commission is able to take account of the situation of the Member States in the area of fisheries.</p>
+<p>The Commission has also adopted a number of measures to ensure that the Union’s financial resources are used to finance the implementation of the programme.</p>
+<ol start="10">
+<li>Imagine an empty compartment of <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0085em;vertical-align:-0.1944em;"></span><span class="mord">60</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">0</span><span class="mspace"> </span><span class="mord"><span class="mord text"><span class="mord">m</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span></span></span></span>, into which water penetrates</li>
+</ol>
+<p><strong>Topic:</strong> <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>, <a href="../topics/conservation-of-energy" class="internal internal-link alias" data-slug="topics/conservation-of-energy">Conservation of Energy</a>, <a href="../topics/fluid-mechanics" class="internal internal-link alias" data-slug="topics/fluid-mechanics">Fluid Mechanics</a>
+<strong>Metodi:</strong> <a href="../methods/kinematic-equations-(metodo)" class="internal internal-link alias" data-slug="methods/kinematic-equations-(metodo)">Kinematic Equations</a>, <a href="../methods/energy-conservation-method-(metodo)" class="internal internal-link alias" data-slug="methods/energy-conservation-method-(metodo)">Energy Conservation Method</a>, <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>, <a href="../methods/hydrostatic-equilibrium-(metodo)" class="internal internal-link alias" data-slug="methods/hydrostatic-equilibrium-(metodo)">Hydrostatic Equilibrium</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/unit-conversion-(competenza)" class="internal internal-link alias" data-slug="skills/unit-conversion-(competenza)">Unit Conversion</a>
+<strong>Objects:</strong> <a href="../objects/star-(object)" class="internal internal-link alias" data-slug="objects/star-(object)">Star</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1Pl0AW3qBTi4NXlbbcBxvPzHz-Axh1ggU/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/star-(object)" class="internal">Star</a></li><li><a href="../prove/prova_obf2015_f1_nivel_ia" class="internal">OBF 2015</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

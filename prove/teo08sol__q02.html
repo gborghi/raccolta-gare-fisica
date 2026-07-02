@@ -1,0 +1,2885 @@
+<!DOCTYPE html>
+<html lang="it" dir="ltr"><head><title>OII 2008 Nazionale Teorica — Problema 2</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="OII 2008 Nazionale Teorica — Problema 2"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="OII 2008 Nazionale Teorica — Problema 2"/><meta name="twitter:description" content="Quesito n. 2."/><meta property="og:description" content="Quesito n. 2."/><meta property="og:image:alt" content="Quesito n. 2."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/teo08sol__q02"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/teo08sol__q02"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Quesito n. 2."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/teo08sol__q02" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-18242" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-18242" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>OII 2008 Nazionale Teorica — Problema 2</a></div></nav><h1 class="article-title">OII 2008 Nazionale Teorica — Problema 2</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/nazione/italia" class="internal internal-link tag-link">nazione/italia</a><span class="note-properties-separator">, </span><a href="../tags/tipo-gara/individuale" class="internal internal-link tag-link">tipo-gara/individuale</a><span class="note-properties-separator">, </span><a href="../tags/livello/nazionale" class="internal internal-link tag-link">livello/nazionale</a><span class="note-properties-separator">, </span><a href="../tags/difficolta/4" class="internal internal-link tag-link">difficolta/4</a><span class="note-properties-separator">, </span><a href="../tags/multidisciplina/mono" class="internal internal-link tag-link">multidisciplina/mono</a><span class="note-properties-separator">, </span><a href="../tags/topic/thermodynamics" class="internal internal-link tag-link">topic/thermodynamics</a><span class="note-properties-separator">, </span><a href="../tags/argomento/meccanica" class="internal internal-link tag-link">argomento/meccanica</a><span class="note-properties-separator">, </span><a href="../tags/object/gas" class="internal internal-link tag-link">object/gas</a><span class="note-properties-separator">, </span><a href="../tags/object/heat-engine" class="internal internal-link tag-link">object/heat-engine</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:28:20.865Z">02 lug 2026</time><span>13 minuti</span></p><ul class="tags"><li><a href="../tags/nazione/italia" class="internal tag-link">nazione/italia</a></li><li><a href="../tags/tipo-gara/individuale" class="internal tag-link">tipo-gara/individuale</a></li><li><a href="../tags/livello/nazionale" class="internal tag-link">livello/nazionale</a></li><li><a href="../tags/difficolta/4" class="internal tag-link">difficolta/4</a></li><li><a href="../tags/multidisciplina/mono" class="internal tag-link">multidisciplina/mono</a></li><li><a href="../tags/topic/thermodynamics" class="internal tag-link">topic/thermodynamics</a></li><li><a href="../tags/argomento/meccanica" class="internal tag-link">argomento/meccanica</a></li><li><a href="../tags/object/gas" class="internal tag-link">object/gas</a></li><li><a href="../tags/object/heat-engine" class="internal tag-link">object/heat-engine</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="it"></div>
+<p>Quesito
+n.
+2.
+In
+assenza
+di
+attrito,
+p
+oi
+h</p>
+<p>e
+le
+rette
+d’azione
+di
+tutte
+le
+forze
+presen
+ti
+tra
+i
+ilindri
+e
+tra
+il
+piano
+e
+i
+ilindri
+in
+terse ano
+gli
+assi
+di
+ias un
+ilindro,
+tutti
+i
+momen
+ti
+assiali
+sono
+n
+ulli;
+se
+dunque
+inizialmen
+te
+i
+ilindri
+sono
+in
+quiete,
+non
+si
+a
+vr
+a
+nessun
+moto
+rotatorio:
+i
+tre
+ilindri
+traslano
+senza
+rotolare.
+P
+oi
+h</p>
+<p>e
+si
+assume</p>
+<h1 id="heilsistemaa-eleratononollassiessosimuoverigidamenteedunqueperilse-ondoprin-ipiola-elerazioneapuoesseresubitodeterminataessendof">he
+il
+sistema
+a elerato
+non
+ollassi,
+esso
+si
+m
+uo
+v
+e
+rigidamen
+te
+e
+dunque,
+p
+er
+il
+se ondo
+prin ipio,
+l’a elerazione
+a
+pu
+o
+essere
+subito
+determinata
+essendo
+F<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#heilsistemaa-eleratononollassiessosimuoverigidamenteedunqueperilse-ondoprin-ipiola-elerazioneapuoesseresubitodeterminataessendof" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>3M
+a.
+Si
+onsiderano
+p
+oi
+le
+equazioni
+di
+moto,
+separatamen
+te
+p
+er
+ias un
+ilindro
+(p
+er
+i
+sim
+b
+oli
+fare
+riferimen
+to
+ai
+relativi
+diagrammi
+di
+orp
+o
+lib
+ero),
+ome
+segue.
+Risp
+etto
+al
+aso
+stati o
+studiato
+prima,
+il
+sistema
+di
+forze
+non</p>
+<p>e
+pi</p>
+<p>u
+simmetri o:
+adesso
+le
+reazioni
+vin olari
+non
+hanno
+lo
+stesso
+mo
+dulo,
+men
+tre,
+p
+er
+il
+prin ipio
+di
+azione
+e
+reazione,
+resta
+v
+ero</p>
+<h1 id="hen1">he
+N
+1<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hen1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="n01n2">N
+0
+1
+,
+N
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#n01n2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="n02n3">N
+0
+2
+,
+N
+3<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#n02n3" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>N
+0
+3
+.
+P
+er
+il
+ilindro
+n.
+1
+8</p>
+<blockquote>
+</blockquote>
+<p>&lt;</p>
+<blockquote>
+</blockquote>
+<h1 id="fn312n1">:
+F
+N
+3
+1
+2
+N
+1<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#fn312n1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="man4pp32n1">M
+a
+N
+4
+P
+p
+3
+2
+N
+1<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#man4pp32n1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>0
+P
+er
+il
+ilindro
+n.
+2
+8</p>
+<blockquote>
+</blockquote>
+<p>&lt;</p>
+<blockquote>
+</blockquote>
+<h1 id="n0312n2">:
+N
+0
+3
++
+1
+2
+N
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#n0312n2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="man5pp32n2">M
+a
+N
+5
+P
+p
+3
+2
+N
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#man5pp32n2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>0
+P
+er
+il
+ilindro
+n.
+3
+8</p>
+<blockquote>
+</blockquote>
+<p>&lt;</p>
+<blockquote>
+</blockquote>
+<h1 id="12n0112n02">:
+1
+2
+N
+0
+1
+1
+2
+N
+0
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#12n0112n02" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="map32n02p32n01p">M
+a
+p
+3
+2
+N
+0
+2
++
+p
+3
+2
+N
+0
+1
+P<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#map32n02p32n01p" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>0
+P
+ag.
+2
+AIF
+{
+Olimpiadi
+di
+Fisi a
+Ga
+ra
+Nazionale:
+SOLUZIONE
+della
+Prova
+T
+eo
+ri a
+{
+Senigallia
+{
+18
+Ap
+rile
+2008
+L’insieme
+delle
+6
+equazioni
+ostituis ono
+un
+sistema
+nelle
+in ognite
+N
+1;:::
+;5
+ed
+a.
+Quest’ultima,
+an-</p>
+<h1 id="hesenzalaonsiderazionefattasoprasisarebbepotutatrovaresommandomembroamembroletreequazionirelativealleomponentiorizzontalidelmotoleprimediognioppiaperuisipuosostituirema">he
+senza
+la
+onsiderazione
+fatta
+sopra,
+si
+sarebb
+e
+p
+otuta
+tro
+v
+are
+sommando
+mem
+bro
+a
+mem
+bro
+le
+tre
+equazioni
+relativ
+e
+alle
+omp
+onen
+ti
+orizzon
+tali
+del
+moto
+(le
+prime
+di
+ogni
+oppia),
+p
+er
+ui
+si
+pu
+o
+sostituire
+M
+a<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hesenzalaonsiderazionefattasoprasisarebbepotutatrovaresommandomembroamembroletreequazionirelativealleomponentiorizzontalidelmotoleprimediognioppiaperuisipuosostituirema" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="f3ilsistemadiforzesulilindron3onsentediri-avaren1en2risolvendoilsistemainfattisitrovan1">F
+=3
+Il
+sistema
+di
+forze
+sul
+ilindro
+n.
+3
+onsen
+te
+di
+ri a
+v
+are
+N
+1
+e
+N
+2
+.
+Risolv
+endo
+il
+sistema,
+infatti,
+si
+tro
+v
+a
+N
+1<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#f3ilsistemadiforzesulilindron3onsentediri-avaren1en2risolvendoilsistemainfattisitrovan1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="pp3f3n2">P
+p
+3
++
+F
+3
+N
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#pp3f3n2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>P
+p
+3
+F
+3
+Una
+prima
+ondizione
+su
+F
+si
+ottiene
+allora
+osserv
+ando</p>
+<p>he
+il
+sistema
+non
+ollassa
+se
+risulta
+N
+2</p>
+<blockquote>
+</blockquote>
+<ol start="0">
+<li></li>
+</ol>
+<h1 id="daquisiri-avafp3plase-ondaondizionesufsiottienedalleequazionidelmotodiunodeglialtridueilindriinparti-olaredallequazionedellaomponenteorizzontaledelmotodelilindron2siri-avan3">Da
+qui
+si
+ri a
+v
+a
+F
+&lt;
+p
+3P
+.
+La
+se onda
+ondizione
+su
+F
+si
+ottiene
+dalle
+equazioni
+del
+moto
+di
+uno
+degli
+altri
+due
+ilindri.
+In
+parti olare,
+dall’equazione
+della
+omp
+onen
+te
+orizzon
+tale
+del
+moto
+del
+ilindro
+n.
+2,
+si
+ri a
+v
+a
+N
+3<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#daquisiri-avafp3plase-ondaondizionesufsiottienedalleequazionidelmotodiunodeglialtridueilindriinparti-olaredallequazionedellaomponenteorizzontaledelmotodelilindron2siri-avan3" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="f3n22">F
+3
+N
+2
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#f3n22" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>F
+2
+P
+2
+p
+3
+An
+he
+in
+questo
+aso
+dev
+e
+essere
+N
+3</p>
+<blockquote>
+</blockquote>
+<ol start="0">
+<li></li>
+</ol>
+<p>Da
+qui
+si
+ri a
+v
+a
+F</p>
+<blockquote>
+</blockquote>
+<p>P
+p
+3
+.
+In
+on lusione,
+il
+sistema
+non
+ollassa
+se
+viene
+a elerato
+nel
+mo
+do
+des ritto
+da
+una
+forza
+F
+tale</p>
+<p>he
+M
+g
+p
+3
+&lt;
+F
+&lt;
+p
+3
+M
+g
+:
+PROBLEMA
+n.
+2
+{
+T
+ri- i lo:
+:
+:
+termo
+dinami o
+35
+Pun
+ti
+Il
+rendimen
+to</p>
+<p>di
+una
+ma
+hina
+termi a</p>
+<h1 id="edatodalrapportotraillavoronettos-ambiatoneli-loeilaloreassorbitoillavorosial-olaomeseguenellisotermaquasistati-a12essendov2">e
+dato
+dal
+rapp
+orto
+tra
+il
+la
+v
+oro
+netto
+s am
+biato
+nel
+i lo
+e
+il
+alore
+assorbito.
+Il
+la
+v
+oro
+si
+al ola
+ome
+segue.
+Nell’isoterma
+quasi
+stati a
+1{2,
+essendo
+V
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#edatodalrapportotraillavoronettos-ambiatoneli-loeilaloreassorbitoillavorosial-olaomeseguenellisotermaquasistati-a12essendov2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>2V
+1
+,
+il
+la
+v
+oro</p>
+<h1 id="edatodal12">e
+dato
+da:
+L
+12<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#edatodal12" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="zv2v1pvdv">Z
+V
+2
+V
+1
+p(V
+)
+dV<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#zv2v1pvdv" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="zv2v1nrtvdv">Z
+V
+2
+V
+1
+n
+R
+T
+V
+dV<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#zv2v1nrtvdv" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>n
+R
+T
+ln</p>
+<p>V
+2
+V
+1</p>
+<p>=
+p
+1
+V
+1
+ln
+2
+Nel
+ra
+reddamen
+to
+isobaro
+quasi
+stati o
+2{3,
+tenendo
+on
+to
+del
+fatto</p>
+<h1 id="hep2">he
+p
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hep2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="p12ev3">p
+1
+=2
+e
+V
+3<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#p12ev3" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>V
+1
+,
+il
+la
+v
+oro</p>
+<h1 id="el23">e:
+L
+23<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#el23" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="zv3v2p2dv">Z
+V
+3
+V
+2
+p
+2
+dV<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#zv3v2p2dv" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="p2v3v2">p
+2
+(V
+3
+V
+2
+)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#p2v3v2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>1
+2
+p
+1
+V
+1
+In
+ne,
+nell’iso
+ora
+2{3,
+il
+la
+v
+oro</p>
+<h1 id="enulloillavoronettodeli-lorisultaquindili-lo">e
+n
+ullo.
+Il
+la
+v
+oro
+netto
+del
+i lo
+risulta
+quindi:
+L
+i lo<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#enulloillavoronettodeli-lorisultaquindili-lo" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>p
+1
+V
+1</p>
+<p>ln
+2
+1
+2</p>
+<p>Si
+al ola
+ora
+il
+alore
+assorbito
+nel
+i lo:
+il
+sistema
+assorb
+e
+alore
+nell’espansione
+isoterma
+1{2
+e
+nel
+ris aldamen
+to
+iso
+oro
+3{1.
+Nell’espansione
+isoterma,
+p
+oi
+h</p>
+<h1 id="elenergiainternadiungasperfettodipendesolodallatemperaturau">e
+l’energia
+in
+terna
+di
+un
+gas
+p
+erfetto
+dip
+ende
+solo
+dalla
+temp
+eratura,
+U<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#elenergiainternadiungasperfettodipendesolodallatemperaturau" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="0edunqueq12">0,
+e
+dunque
+Q
+12<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#0edunqueq12" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="l12nelris-aldamentoisoorol">L
+12
+:
+Nel
+ris aldamen
+to
+iso
+oro,
+L<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#l12nelris-aldamentoisoorol" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="0edunqueq">0,
+e
+dunque
+Q<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#0edunqueq" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="u">U<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#u" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>n
+V
+T
+:
+P
+oi
+h</p>
+<p>e
+il
+gas</p>
+<p>e
+monoatomi o,</p>
+<h1 id="v">V<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#v" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="32rerisultaq31">(3=2)R
+e
+risulta
+Q
+31<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#32rerisultaq31" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>3
+2
+n
+R
+T
+P
+ag.
+3
+AIF
+{
+Olimpiadi
+di
+Fisi a
+Ga
+ra
+Nazionale:
+SOLUZIONE
+della
+Prova
+T
+eo
+ri a
+{
+Senigallia
+{
+18
+Ap
+rile
+2008
+Dall’equazione
+di
+stato
+dei
+gas
+p
+erfetti,
+tenendo
+on
+to</p>
+<h1 id="heilvolumenonvariasihavp">he
+il
+v
+olume
+non
+v
+aria,
+si
+ha
+V
+p<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#heilvolumenonvariasihavp" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="nrtedunqueq31">n
+R
+T
+e
+dunque
+Q
+31<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#nrtedunqueq31" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="32v1p">3
+2
+V
+1
+p<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#32v1p" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="34v1p1indenitivaqass">3
+4
+V
+1
+p
+1
+In
+de
+nitiv
+a:
+Q
+ass<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#34v1p1indenitivaqass" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="q12q31">Q
+12
++
+Q
+31<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#q12q31" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>p
+1
+V
+1</p>
+<p>ln
+2
++
+3
+4</p>
+<p>In
+ne
+il
+rendimen
+to
+risulta:</p>
+<h1 id="li-loqass">=
+L
+i lo
+Q
+ass<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#li-loqass" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="ln212ln234">ln
+2
+1=2
+ln
+2
++
+3=4<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ln212ln234" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>0:134</p>
+<p>13:4
+%</p>
+<p><strong>Topic:</strong> <a href="../topics/thermodynamics" class="internal internal-link" data-slug="topics/thermodynamics">Thermodynamics</a>
+<strong>Metodi:</strong> <a href="../methods/thermodynamic-cycle-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/thermodynamic-cycle-analysis-(metodo)">Thermodynamic Cycle Analysis</a>, <a href="../methods/first-law-of-thermodynamics-(metodo)" class="internal internal-link alias" data-slug="methods/first-law-of-thermodynamics-(metodo)">First Law of Thermodynamics</a>, <a href="../methods/ideal-gas-law-(metodo)" class="internal internal-link alias" data-slug="methods/ideal-gas-law-(metodo)">Ideal Gas Law</a>, <a href="../methods/calculus-integration-(metodo)" class="internal internal-link alias" data-slug="methods/calculus-integration-(metodo)">Calculus-Integration</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/gas-(object)" class="internal internal-link alias" data-slug="objects/gas-(object)">Gas</a>, <a href="../objects/heat-engine-(object)" class="internal internal-link alias" data-slug="objects/heat-engine-(object)">Heat Engine</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view" class="external external-link">Testo (PDF) — p.2<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+<strong>Soluzione:</strong> <a href="https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view" class="external external-link">Soluzioni (PDF)<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>Question No
+n.
+2.
+In
+Absence
+di
+the friction,
+p
+oi
+h</p>
+<p>e
+le
+The Commission shall adopt implementing acts.
+The Commission
+di
+All of them
+le
+Forces
+the present
+ti
+between
+i
+Other, of a kind used for the manufacture of goods
+e
+between
+il</p>
+<ul>
+<li>It ‘s not easy .
+e
+i
+Other, of a kind used for the manufacture of goods
+in
+Tese year
+The Commission
+Other, not further worked than hot-rolled
+di
+The Commission shall adopt a decision on the
+the cylinder,
+All of them.
+i
+Moments
+ti
+Other
+I am
+n
+the oils;
+se
+So, what?
+Initially
+te
+i
+Other, of a kind used for the manufacture of goods
+I am
+in
+You’re going to be quiet.
+Not
+si
+a
+vr
+a
+No one
+Motorcycles
+Rotary:
+i
+three
+Other, of a kind used for the manufacture of goods
+They’re moving.
+without
+rolling.
+P
+oi
+h</li>
+</ul>
+<p>e
+si
+He takes</p>
+<h1 id="heilsystemother-not-further-worked-than-cold-rollednotthe-following-is-the-list-of-the-followingitsimuovethe-following-is-a-list-of-the-measures-takenteeso-whats-the-pointperilif-the-wavethe-first-horsethe-following-is-a-list-of-the-types-of-productsapuoto-beright-nowdeterminedbeingf">he
+il
+system
+Other, not further worked than cold-rolled
+Not
+The following is the list of the following:
+It
+si
+m
+uo
+v
+e
+The following is a list of the measures taken:
+te
+e
+So, what’s the point?
+p
+er
+il
+If the wave
+the first horse,
+The following is a list of the types of products:
+a
+pu
+o
+to be
+Right now.
+determined
+being
+F<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#heilsystemother-not-further-worked-than-cold-rollednotthe-following-is-the-list-of-the-followingitsimuovethe-following-is-a-list-of-the-measures-takenteeso-whats-the-pointperilif-the-wavethe-first-horsethe-following-is-a-list-of-the-types-of-productsapuoto-beright-nowdeterminedbeingf" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>3M
+a.
+Si
+They are all
+p
+oi
+le
+Equations
+di
+motorcycle,
+Separation of the
+te
+p
+er
+The Commission shall adopt a decision on the
+Other, of a kind used for the manufacture of goods
+(p
+er
+i
+Yes
+b
+oils
+to do
+References
+to
+ai
+Relative
+The following table shows the following:
+di
+orp
+o
+The Commission shall adopt implementing acts.
+I was .
+human beings
+Go on.
+Responsibility
+Other
+al
+Other
+States or
+studied
+Before that,
+il
+system
+di
+Forces
+Not</p>
+<p>e
+pi</p>
+<p>u
+symmetries or:
+Now
+le
+reactions
+Olary wine
+Not
+They have
+lo
+of the same
+mo
+the following:
+Men and women
+three,
+p
+er
+il
+The first
+di
+Action
+e
+reaction,
+Stay here
+v
+I was</p>
+<h1 id="hen1-1">he
+N
+1<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hen1-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="n01n2-1">N
+0
+1
+,
+N
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#n01n2-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="n02n3-1">N
+0
+2
+,
+N
+3<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#n02n3-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>N
+0
+3
+.
+P
+er
+il
+Other, of a kind used for the manufacture of goods
+n.
+1
+8</p>
+<blockquote>
+</blockquote>
+<p>&lt;</p>
+<blockquote>
+</blockquote>
+<h1 id="fn312n1-1">:
+F
+N
+3
+1
+2
+N
+1<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#fn312n1-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="man4pp32n1-1">M
+a
+N
+4
+P
+p
+3
+2
+N
+1<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#man4pp32n1-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>0
+P
+er
+il
+Other, of a kind used for the manufacture of goods
+n.
+2
+8</p>
+<blockquote>
+</blockquote>
+<p>&lt;</p>
+<blockquote>
+</blockquote>
+<h1 id="n0312n2-1">:
+N
+0
+3
++
+1
+2
+N
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#n0312n2-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="man5pp32n2-1">M
+a
+N
+5
+P
+p
+3
+2
+N
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#man5pp32n2-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>0
+P
+er
+il
+Other, of a kind used for the manufacture of goods
+n.
+3
+8</p>
+<blockquote>
+</blockquote>
+<p>&lt;</p>
+<blockquote>
+</blockquote>
+<h1 id="12n0112n02-1">:
+1
+2
+N
+0
+1
+1
+2
+N
+0
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#12n0112n02-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="map32n02p32n01p-1">M
+a
+p
+3
+2
+N
+0
+2
++
+p
+3
+2
+N
+0
+1
+P<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#map32n02p32n01p-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>0
+P
+ag.
+2
+The following information is provided:
+{
+The Olympics
+di
+The following is a list of
+Ga
+ra
+National team:
+The Commission
+of the
+Try it .
+T
+eo
+ri a
+{
+The following is the list of countries:
+{
+18
+Ap
+Reels
+2008
+The whole
+of the
+6
+Equations
+The Commission shall adopt a decision on the
+un
+system
+In the
+in days
+N
+1;:::
+;5
+ed
+a.
+The latter,
+an-</p>
+<h1 id="hewithoutlathe-commission-shall-adopt-implementing-actsmadeabovesii-wouldepotherthe-commissionvareby-addingthe-commissionbroathe-commissionbrolethreeequationsrelativeethe-commissionthe-commission-shall-adopt-implementing-actsothertithe-following-is-the-list-of-the-countriesof-whichof-themotorcyclesleotherdieachthe-opiumperuisipuoreplacema">he
+without
+la
+The Commission shall adopt implementing acts.
+made
+above,
+si
+I would
+e
+p
+Other
+The Commission
+v
+are
+by adding
+The Commission
+Bro
+a
+The Commission
+Bro
+le
+three
+Equations
+Relative
+e
+The Commission
+The Commission shall adopt implementing acts.
+Other
+ti
+The following is the list of the countries:
+of which:
+of the
+Motorcycles
+(le
+Other
+di
+Each
+the opium),
+p
+er
+ui
+si
+pu
+o
+replace
+M
+a<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hewithoutlathe-commission-shall-adopt-implementing-actsmadeabovesii-wouldepotherthe-commissionvareby-addingthe-commissionbroathe-commissionbrolethreeequationsrelativeethe-commissionthe-commission-shall-adopt-implementing-actsothertithe-following-is-the-list-of-the-countriesof-whichof-themotorcyclesleotherdieachthe-opiumperuisipuoreplacema" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="f3ilsystemdiforceson-theother-of-a-kind-used-for-the-manufacture-of-goodsn3onsentediri-avaren1en2resolvedotherilsystemin-factsithe-commissionvan1">F
+=3
+Il
+system
+di
+Forces
+on the
+Other, of a kind used for the manufacture of goods
+n.
+3
+onsen
+te
+di
+ri a
+v
+are
+N
+1
+e
+N
+2
+.
+Resolved
+Other
+il
+system,
+In fact,
+si
+The Commission
+v
+a
+N
+1<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#f3ilsystemdiforceson-theother-of-a-kind-used-for-the-manufacture-of-goodsn3onsentediri-avaren1en2resolvedotherilsystemin-factsithe-commissionvan1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="pp3f3n2-1">P
+p
+3
++
+F
+3
+N
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#pp3f3n2-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>P
+p
+3
+F
+3
+One of them.
+Before
+the condition
+su
+F
+si
+The result is
+Then
+See also
+I ‘m going</p>
+<p>he
+il
+system
+Not
+Other, of a thickness of not more than 10 mm
+se
+The following is the list of the
+N
+2</p>
+<blockquote>
+</blockquote>
+<ol start="0">
+<li></li>
+</ol>
+<h1 id="dahere-siri-avafp3plaif-it-flowsthe-conditionsufsithe-result-isfromequationsof-themotorcyclesdione-of-themof-theothertwothe-other-twoinwave-partsfrom-the-equationof-thethe-commission-shall-adopt-implementing-actsothertethe-following-is-the-list-of-the-countriessuchof-themotorcyclesof-theother-of-a-kind-used-for-the-manufacture-of-goodsn2siri-avan3">Da
+Here .
+si
+ri a
+v
+a
+F
+&lt;
+p
+3P
+.
+La
+If it flows
+the condition
+su
+F
+si
+The result is
+from
+Equations
+of the
+Motorcycles
+di
+One of them.
+of the
+Other
+two
+The other two.
+In
+Wave parts,
+from the equation
+of the
+The Commission shall adopt implementing acts.
+Other
+te
+The following is the list of the countries:
+such
+of the
+Motorcycles
+of the
+Other, of a kind used for the manufacture of goods
+n.
+2,
+si
+ri a
+v
+a
+N
+3<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#dahere-siri-avafp3plaif-it-flowsthe-conditionsufsithe-result-isfromequationsof-themotorcyclesdione-of-themof-theothertwothe-other-twoinwave-partsfrom-the-equationof-thethe-commission-shall-adopt-implementing-actsothertethe-following-is-the-list-of-the-countriessuchof-themotorcyclesof-theother-of-a-kind-used-for-the-manufacture-of-goodsn2siri-avan3" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="f3n22-1">F
+3
+N
+2
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#f3n22-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>F
+2
+P
+2
+p
+3
+An
+he
+in
+This one.
+Other
+It must be
+e
+to be
+N
+3</p>
+<blockquote>
+</blockquote>
+<ol start="0">
+<li></li>
+</ol>
+<p>Da
+Here .
+si
+ri a
+v
+a
+F</p>
+<blockquote>
+</blockquote>
+<p>P
+p
+3
+.
+In
+On lust,
+il
+system
+Not
+Other, of a thickness of not more than 10 mm
+se
+He ‘s coming .
+with a diameter of not more than 30 mm
+In the
+mo
+do
+of the following:
+da
+One of them.</p>
+<ul>
+<li>What ?
+F
+such</li>
+</ul>
+<p>he
+M
+g
+p
+3
+&lt;
+F
+&lt;
+p
+3
+M
+g
+:
+The problem
+n.
+2
+{
+T
+ri- i lo:
+:
+:
+term
+Other, of a kind used for the manufacture of goods
+35
+The Commission
+ti
+Il
+The Commission shall adopt implementing acts.
+to</p>
+<p>di
+One of them.
+ma
+Other
+Other</p>
+<h1 id="egivenfromrepvegetablebetweenillavgoldnets-amotherin-thei-loeilotherim-absorbed-by-itillavgoldsito-the-wavehuman-beingsgo-onin-the-isothermalmostthe-following-are-the-statistics12beingv2">e
+given
+from
+REP
+vegetable
+between
+il
+la
+v
+gold
+Net
+s am
+Other
+In the
+i lo
+e
+il
+Other
+I’m absorbed by it.
+Il
+la
+v
+gold
+si
+to the wave
+human beings
+Go on.
+In the isotherm
+Almost
+The following are the statistics:
+1{2,
+being
+V
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#egivenfromrepvegetablebetweenillavgoldnets-amotherin-thei-loeilotherim-absorbed-by-itillavgoldsito-the-wavehuman-beingsgo-onin-the-isothermalmostthe-following-are-the-statistics12beingv2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>2V
+1
+,
+il
+la
+v
+gold</p>
+<h1 id="egivendal12">e
+given
+da:
+L
+12<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#egivendal12" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="zv2v1pvdv-1">Z
+V
+2
+V
+1
+p(V
+)
+dV<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#zv2v1pvdv-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="zv2v1nrtvdv-1">Z
+V
+2
+V
+1
+n
+R
+T
+V
+dV<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#zv2v1nrtvdv-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>n
+R
+T
+ln</p>
+<p>V
+2
+V
+1</p>
+<p>=
+p
+1
+V
+1
+ln
+2
+In the
+ra
+The following is the list of the categories of persons who are not members of the European Parliament:
+to
+Other, of a kind used for the manufacture of goods
+Almost
+States or
+2{3,
+holding
+on
+to
+of the
+made</p>
+<h1 id="hep2-1">he
+p
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hep2-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="p12ev3-1">p
+1
+=2
+e
+V
+3<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#p12ev3-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>V
+1
+,
+il
+la
+v
+gold</p>
+<h1 id="el23-1">e:
+L
+23<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#el23-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="zv3v2p2dv-1">Z
+V
+3
+V
+2
+p
+2
+dV<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#zv3v2p2dv-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="p2v3v2-1">p
+2
+(V
+3
+V
+2
+)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#p2v3v2-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>1
+2
+p
+1
+V
+1
+In
+ne,
+in the ice
+Now
+2{3,
+il
+la
+v
+gold</p>
+<h1 id="enim-going-to-goillavgoldnetof-thei-lothe-following-is-the-list-of-theso-whatli-lo">e
+n
+I’m going to go.
+Il
+la
+v
+gold
+Net
+of the
+i lo
+The following is the list of the
+So, what?
+L
+i lo<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#enim-going-to-goillavgoldnetof-thei-lothe-following-is-the-list-of-theso-whatli-lo" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>p
+1
+V
+1</p>
+<p>ln
+2
+1
+2</p>
+<p>Si
+to the wave
+Now
+il
+Other
+absorbed
+In the
+i lo:
+il
+system
+Other, of a kind used for the manufacture of goods
+e
+Other
+In the expansion
+Other, of a kind used for the manufacture of goods
+1{2
+e
+In the
+Other articles of heading No 5
+to
+Other
+gold
+3{1.
+In the expansion
+isothermal,
+p
+oi
+h</p>
+<h1 id="eenergyinotherdiungaspof-whichdipotheronlyfromtempthe-followingu">e
+energy
+in
+Other
+di
+un
+Gas
+p
+of which:
+Dip
+Other
+only
+from
+Temp
+the following:
+U<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#eenergyinotherdiungaspof-whichdipotheronlyfromtempthe-followingu" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="0eso-whatq12">0,
+e
+So, what?
+Q
+12<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#0eso-whatq12" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="l12in-theother-articles-of-heading-no-5toothergoldl">L
+12
+:
+In the
+Other articles of heading No 5
+to
+Other
+gold,
+L<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#l12in-theother-articles-of-heading-no-5toothergoldl" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="0eso-whatq">0,
+e
+So, what?
+Q<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#0eso-whatq" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="u-1">U<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#u-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>n
+V
+T
+:
+P
+oi
+h</p>
+<p>e
+il
+Gas</p>
+<p>e
+monoatoms or,</p>
+<h1 id="v-1">V<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#v-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="32rethe-following-is-the-list-of-theq31">(3=2)R
+e
+The following is the list of the
+Q
+31<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#32rethe-following-is-the-list-of-theq31" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>3
+2
+n
+R
+T
+P
+ag.
+3
+The following information is provided:
+{
+The Olympics
+di
+The following is a list of
+Ga
+ra
+National team:
+The Commission
+of the
+Try it .
+T
+eo
+ri a
+{
+The following is the list of countries:
+{
+18
+Ap
+Reels
+2008
+From the equation
+di
+State of the Union
+of the
+Gas
+p
+the heirs,
+holding
+on
+to</p>
+<h1 id="heilvother-of-a-kind-used-for-the-manufacture-of-foodstuffsnotvairsihavp">he
+il
+v
+Other, of a kind used for the manufacture of foodstuffs
+Not
+v
+air,
+si
+ha
+V
+p<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#heilvother-of-a-kind-used-for-the-manufacture-of-foodstuffsnotvairsihavp" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="nrteso-whatq31">n
+R
+T
+e
+So, what?
+Q
+31<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#nrteso-whatq31" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="32v1p-1">3
+2
+V
+1
+p<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#32v1p-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="34v1p1indeotheraqother">3
+4
+V
+1
+p
+1
+In
+de
+Other
+a:
+Q
+Other<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#34v1p1indeotheraqother" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="q12q31-1">Q
+12
++
+Q
+31<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#q12q31-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>p
+1
+V
+1</p>
+<p>ln
+2
++
+3
+4</p>
+<p>In
+ne
+il
+The Commission shall adopt implementing acts.
+to
+It is:</p>
+<h1 id="li-loqother">=
+L
+i lo
+Q
+Other<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#li-loqother" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="ln212ln234-1">ln
+2
+1=2
+ln
+2
++
+3=4<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ln212ln234-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>0:134</p>
+<p>13:4
+%</p>
+<p><strong>Topic:</strong> <a href="../topics/thermodynamics" class="internal internal-link" data-slug="topics/thermodynamics">Thermodynamics</a>
+<strong>Metodi:</strong> <a href="../methods/thermodynamic-cycle-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/thermodynamic-cycle-analysis-(metodo)">Thermodynamic Cycle Analysis</a>, <a href="../methods/first-law-of-thermodynamics-(metodo)" class="internal internal-link alias" data-slug="methods/first-law-of-thermodynamics-(metodo)">First Law of Thermodynamics</a>, <a href="../methods/ideal-gas-law-(metodo)" class="internal internal-link alias" data-slug="methods/ideal-gas-law-(metodo)">Ideal Gas Law</a>, <a href="../methods/calculus-integration-(metodo)" class="internal internal-link alias" data-slug="methods/calculus-integration-(metodo)">Calculus-Integration</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/gas-(object)" class="internal internal-link alias" data-slug="objects/gas-(object)">Gas</a>, <a href="../objects/heat-engine-(object)" class="internal internal-link alias" data-slug="objects/heat-engine-(object)">Heat Engine</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view" class="external external-link">Testo (PDF) — p.2<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+<strong>Soluzione:</strong> <a href="https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view" class="external external-link">Soluzioni (PDF)<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"><div class="toc"><button type="button" class="toc-header" aria-controls="toc-703" aria-expanded="true"><h3>Indice</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-0" class="toc-content overflow"><li class="depth-0"><a href="#heilsistemaa-eleratononollassiessosimuoverigidamenteedunqueperilse-ondoprin-ipiola-elerazioneapuoesseresubitodeterminataessendof" data-for="heilsistemaa-eleratononollassiessosimuoverigidamenteedunqueperilse-ondoprin-ipiola-elerazioneapuoesseresubitodeterminataessendof">he
+il
+sistema
+a elerato
+non
+ollassi,
+esso
+si
+m
+uo
+v
+e
+rigidamen
+te
+e
+dunque,
+p
+er
+il
+se ondo
+prin ipio,
+l’a elerazione
+a
+pu
+o
+essere
+subito
+determinata
+essendo
+F</a></li><li class="depth-0"><a href="#hen1" data-for="hen1">he
+N
+1</a></li><li class="depth-0"><a href="#n01n2" data-for="n01n2">N
+0
+1
+,
+N
+2</a></li><li class="depth-0"><a href="#n02n3" data-for="n02n3">N
+0
+2
+,
+N
+3</a></li><li class="depth-0"><a href="#fn312n1" data-for="fn312n1">:
+F
+N
+3
+1
+2
+N
+1</a></li><li class="depth-0"><a href="#man4pp32n1" data-for="man4pp32n1">M
+a
+N
+4
+P
+p
+3
+2
+N
+1</a></li><li class="depth-0"><a href="#n0312n2" data-for="n0312n2">:
+N
+0
+3
++
+1
+2
+N
+2</a></li><li class="depth-0"><a href="#man5pp32n2" data-for="man5pp32n2">M
+a
+N
+5
+P
+p
+3
+2
+N
+2</a></li><li class="depth-0"><a href="#12n0112n02" data-for="12n0112n02">:
+1
+2
+N
+0
+1
+1
+2
+N
+0
+2</a></li><li class="depth-0"><a href="#map32n02p32n01p" data-for="map32n02p32n01p">M
+a
+p
+3
+2
+N
+0
+2
++
+p
+3
+2
+N
+0
+1
+P</a></li><li class="depth-0"><a href="#hesenzalaonsiderazionefattasoprasisarebbepotutatrovaresommandomembroamembroletreequazionirelativealleomponentiorizzontalidelmotoleprimediognioppiaperuisipuosostituirema" data-for="hesenzalaonsiderazionefattasoprasisarebbepotutatrovaresommandomembroamembroletreequazionirelativealleomponentiorizzontalidelmotoleprimediognioppiaperuisipuosostituirema">he
+senza
+la
+onsiderazione
+fatta
+sopra,
+si
+sarebb
+e
+p
+otuta
+tro
+v
+are
+sommando
+mem
+bro
+a
+mem
+bro
+le
+tre
+equazioni
+relativ
+e
+alle
+omp
+onen
+ti
+orizzon
+tali
+del
+moto
+(le
+prime
+di
+ogni
+oppia),
+p
+er
+ui
+si
+pu
+o
+sostituire
+M
+a</a></li><li class="depth-0"><a href="#f3ilsistemadiforzesulilindron3onsentediri-avaren1en2risolvendoilsistemainfattisitrovan1" data-for="f3ilsistemadiforzesulilindron3onsentediri-avaren1en2risolvendoilsistemainfattisitrovan1">F
+=3
+Il
+sistema
+di
+forze
+sul
+ilindro
+n.
+3
+onsen
+te
+di
+ri a
+v
+are
+N
+1
+e
+N
+2
+.
+Risolv
+endo
+il
+sistema,
+infatti,
+si
+tro
+v
+a
+N
+1</a></li><li class="depth-0"><a href="#pp3f3n2" data-for="pp3f3n2">P
+p
+3
++
+F
+3
+N
+2</a></li><li class="depth-0"><a href="#daquisiri-avafp3plase-ondaondizionesufsiottienedalleequazionidelmotodiunodeglialtridueilindriinparti-olaredallequazionedellaomponenteorizzontaledelmotodelilindron2siri-avan3" data-for="daquisiri-avafp3plase-ondaondizionesufsiottienedalleequazionidelmotodiunodeglialtridueilindriinparti-olaredallequazionedellaomponenteorizzontaledelmotodelilindron2siri-avan3">Da
+qui
+si
+ri a
+v
+a
+F
+&lt;
+p
+3P
+.
+La
+se onda
+ondizione
+su
+F
+si
+ottiene
+dalle
+equazioni
+del
+moto
+di
+uno
+degli
+altri
+due
+ilindri.
+In
+parti olare,
+dall’equazione
+della
+omp
+onen
+te
+orizzon
+tale
+del
+moto
+del
+ilindro
+n.
+2,
+si
+ri a
+v
+a
+N
+3</a></li><li class="depth-0"><a href="#f3n22" data-for="f3n22">F
+3
+N
+2
+2</a></li><li class="depth-0"><a href="#edatodalrapportotraillavoronettos-ambiatoneli-loeilaloreassorbitoillavorosial-olaomeseguenellisotermaquasistati-a12essendov2" data-for="edatodalrapportotraillavoronettos-ambiatoneli-loeilaloreassorbitoillavorosial-olaomeseguenellisotermaquasistati-a12essendov2">e
+dato
+dal
+rapp
+orto
+tra
+il
+la
+v
+oro
+netto
+s am
+biato
+nel
+i lo
+e
+il
+alore
+assorbito.
+Il
+la
+v
+oro
+si
+al ola
+ome
+segue.
+Nell’isoterma
+quasi
+stati a
+1{2,
+essendo
+V
+2</a></li><li class="depth-0"><a href="#edatodal12" data-for="edatodal12">e
+dato
+da:
+L
+12</a></li><li class="depth-0"><a href="#zv2v1pvdv" data-for="zv2v1pvdv">Z
+V
+2
+V
+1
+p(V
+)
+dV</a></li><li class="depth-0"><a href="#zv2v1nrtvdv" data-for="zv2v1nrtvdv">Z
+V
+2
+V
+1
+n
+R
+T
+V
+dV</a></li><li class="depth-0"><a href="#hep2" data-for="hep2">he
+p
+2</a></li><li class="depth-0"><a href="#p12ev3" data-for="p12ev3">p
+1
+=2
+e
+V
+3</a></li><li class="depth-0"><a href="#el23" data-for="el23">e:
+L
+23</a></li><li class="depth-0"><a href="#zv3v2p2dv" data-for="zv3v2p2dv">Z
+V
+3
+V
+2
+p
+2
+dV</a></li><li class="depth-0"><a href="#p2v3v2" data-for="p2v3v2">p
+2
+(V
+3
+V
+2
+)</a></li><li class="depth-0"><a href="#enulloillavoronettodeli-lorisultaquindili-lo" data-for="enulloillavoronettodeli-lorisultaquindili-lo">e
+n
+ullo.
+Il
+la
+v
+oro
+netto
+del
+i lo
+risulta
+quindi:
+L
+i lo</a></li><li class="depth-0"><a href="#elenergiainternadiungasperfettodipendesolodallatemperaturau" data-for="elenergiainternadiungasperfettodipendesolodallatemperaturau">e
+l’energia
+in
+terna
+di
+un
+gas
+p
+erfetto
+dip
+ende
+solo
+dalla
+temp
+eratura,
+U</a></li><li class="depth-0"><a href="#0edunqueq12" data-for="0edunqueq12">0,
+e
+dunque
+Q
+12</a></li><li class="depth-0"><a href="#l12nelris-aldamentoisoorol" data-for="l12nelris-aldamentoisoorol">L
+12
+:
+Nel
+ris aldamen
+to
+iso
+oro,
+L</a></li><li class="depth-0"><a href="#0edunqueq" data-for="0edunqueq">0,
+e
+dunque
+Q</a></li><li class="depth-0"><a href="#u" data-for="u">U</a></li><li class="depth-0"><a href="#v" data-for="v">V</a></li><li class="depth-0"><a href="#32rerisultaq31" data-for="32rerisultaq31">(3=2)R
+e
+risulta
+Q
+31</a></li><li class="depth-0"><a href="#heilvolumenonvariasihavp" data-for="heilvolumenonvariasihavp">he
+il
+v
+olume
+non
+v
+aria,
+si
+ha
+V
+p</a></li><li class="depth-0"><a href="#nrtedunqueq31" data-for="nrtedunqueq31">n
+R
+T
+e
+dunque
+Q
+31</a></li><li class="depth-0"><a href="#32v1p" data-for="32v1p">3
+2
+V
+1
+p</a></li><li class="depth-0"><a href="#34v1p1indenitivaqass" data-for="34v1p1indenitivaqass">3
+4
+V
+1
+p
+1
+In
+de
+nitiv
+a:
+Q
+ass</a></li><li class="depth-0"><a href="#q12q31" data-for="q12q31">Q
+12
++
+Q
+31</a></li><li class="depth-0"><a href="#li-loqass" data-for="li-loqass">=
+L
+i lo
+Q
+ass</a></li><li class="depth-0"><a href="#ln212ln234" data-for="ln212ln234">ln
+2
+1=2
+ln
+2
++
+3=4</a></li><li class="depth-0"><a href="#heilsystemother-not-further-worked-than-cold-rollednotthe-following-is-the-list-of-the-followingitsimuovethe-following-is-a-list-of-the-measures-takenteeso-whats-the-pointperilif-the-wavethe-first-horsethe-following-is-a-list-of-the-types-of-productsapuoto-beright-nowdeterminedbeingf" data-for="heilsystemother-not-further-worked-than-cold-rollednotthe-following-is-the-list-of-the-followingitsimuovethe-following-is-a-list-of-the-measures-takenteeso-whats-the-pointperilif-the-wavethe-first-horsethe-following-is-a-list-of-the-types-of-productsapuoto-beright-nowdeterminedbeingf">he
+il
+system
+Other, not further worked than cold-rolled
+Not
+The following is the list of the following:
+It
+si
+m
+uo
+v
+e
+The following is a list of the measures taken:
+te
+e
+So, what’s the point?
+p
+er
+il
+If the wave
+the first horse,
+The following is a list of the types of products:
+a
+pu
+o
+to be
+Right now.
+determined
+being
+F</a></li><li class="depth-0"><a href="#hen1-1" data-for="hen1-1">he
+N
+1</a></li><li class="depth-0"><a href="#n01n2-1" data-for="n01n2-1">N
+0
+1
+,
+N
+2</a></li><li class="depth-0"><a href="#n02n3-1" data-for="n02n3-1">N
+0
+2
+,
+N
+3</a></li><li class="depth-0"><a href="#fn312n1-1" data-for="fn312n1-1">:
+F
+N
+3
+1
+2
+N
+1</a></li><li class="depth-0"><a href="#man4pp32n1-1" data-for="man4pp32n1-1">M
+a
+N
+4
+P
+p
+3
+2
+N
+1</a></li><li class="depth-0"><a href="#n0312n2-1" data-for="n0312n2-1">:
+N
+0
+3
++
+1
+2
+N
+2</a></li><li class="depth-0"><a href="#man5pp32n2-1" data-for="man5pp32n2-1">M
+a
+N
+5
+P
+p
+3
+2
+N
+2</a></li><li class="depth-0"><a href="#12n0112n02-1" data-for="12n0112n02-1">:
+1
+2
+N
+0
+1
+1
+2
+N
+0
+2</a></li><li class="depth-0"><a href="#map32n02p32n01p-1" data-for="map32n02p32n01p-1">M
+a
+p
+3
+2
+N
+0
+2
++
+p
+3
+2
+N
+0
+1
+P</a></li><li class="depth-0"><a href="#hewithoutlathe-commission-shall-adopt-implementing-actsmadeabovesii-wouldepotherthe-commissionvareby-addingthe-commissionbroathe-commissionbrolethreeequationsrelativeethe-commissionthe-commission-shall-adopt-implementing-actsothertithe-following-is-the-list-of-the-countriesof-whichof-themotorcyclesleotherdieachthe-opiumperuisipuoreplacema" data-for="hewithoutlathe-commission-shall-adopt-implementing-actsmadeabovesii-wouldepotherthe-commissionvareby-addingthe-commissionbroathe-commissionbrolethreeequationsrelativeethe-commissionthe-commission-shall-adopt-implementing-actsothertithe-following-is-the-list-of-the-countriesof-whichof-themotorcyclesleotherdieachthe-opiumperuisipuoreplacema">he
+without
+la
+The Commission shall adopt implementing acts.
+made
+above,
+si
+I would
+e
+p
+Other
+The Commission
+v
+are
+by adding
+The Commission
+Bro
+a
+The Commission
+Bro
+le
+three
+Equations
+Relative
+e
+The Commission
+The Commission shall adopt implementing acts.
+Other
+ti
+The following is the list of the countries:
+of which:
+of the
+Motorcycles
+(le
+Other
+di
+Each
+the opium),
+p
+er
+ui
+si
+pu
+o
+replace
+M
+a</a></li><li class="depth-0"><a href="#f3ilsystemdiforceson-theother-of-a-kind-used-for-the-manufacture-of-goodsn3onsentediri-avaren1en2resolvedotherilsystemin-factsithe-commissionvan1" data-for="f3ilsystemdiforceson-theother-of-a-kind-used-for-the-manufacture-of-goodsn3onsentediri-avaren1en2resolvedotherilsystemin-factsithe-commissionvan1">F
+=3
+Il
+system
+di
+Forces
+on the
+Other, of a kind used for the manufacture of goods
+n.
+3
+onsen
+te
+di
+ri a
+v
+are
+N
+1
+e
+N
+2
+.
+Resolved
+Other
+il
+system,
+In fact,
+si
+The Commission
+v
+a
+N
+1</a></li><li class="depth-0"><a href="#pp3f3n2-1" data-for="pp3f3n2-1">P
+p
+3
++
+F
+3
+N
+2</a></li><li class="depth-0"><a href="#dahere-siri-avafp3plaif-it-flowsthe-conditionsufsithe-result-isfromequationsof-themotorcyclesdione-of-themof-theothertwothe-other-twoinwave-partsfrom-the-equationof-thethe-commission-shall-adopt-implementing-actsothertethe-following-is-the-list-of-the-countriessuchof-themotorcyclesof-theother-of-a-kind-used-for-the-manufacture-of-goodsn2siri-avan3" data-for="dahere-siri-avafp3plaif-it-flowsthe-conditionsufsithe-result-isfromequationsof-themotorcyclesdione-of-themof-theothertwothe-other-twoinwave-partsfrom-the-equationof-thethe-commission-shall-adopt-implementing-actsothertethe-following-is-the-list-of-the-countriessuchof-themotorcyclesof-theother-of-a-kind-used-for-the-manufacture-of-goodsn2siri-avan3">Da
+Here .
+si
+ri a
+v
+a
+F
+&lt;
+p
+3P
+.
+La
+If it flows
+the condition
+su
+F
+si
+The result is
+from
+Equations
+of the
+Motorcycles
+di
+One of them.
+of the
+Other
+two
+The other two.
+In
+Wave parts,
+from the equation
+of the
+The Commission shall adopt implementing acts.
+Other
+te
+The following is the list of the countries:
+such
+of the
+Motorcycles
+of the
+Other, of a kind used for the manufacture of goods
+n.
+2,
+si
+ri a
+v
+a
+N
+3</a></li><li class="depth-0"><a href="#f3n22-1" data-for="f3n22-1">F
+3
+N
+2
+2</a></li><li class="depth-0"><a href="#egivenfromrepvegetablebetweenillavgoldnets-amotherin-thei-loeilotherim-absorbed-by-itillavgoldsito-the-wavehuman-beingsgo-onin-the-isothermalmostthe-following-are-the-statistics12beingv2" data-for="egivenfromrepvegetablebetweenillavgoldnets-amotherin-thei-loeilotherim-absorbed-by-itillavgoldsito-the-wavehuman-beingsgo-onin-the-isothermalmostthe-following-are-the-statistics12beingv2">e
+given
+from
+REP
+vegetable
+between
+il
+la
+v
+gold
+Net
+s am
+Other
+In the
+i lo
+e
+il
+Other
+I’m absorbed by it.
+Il
+la
+v
+gold
+si
+to the wave
+human beings
+Go on.
+In the isotherm
+Almost
+The following are the statistics:
+1{2,
+being
+V
+2</a></li><li class="depth-0"><a href="#egivendal12" data-for="egivendal12">e
+given
+da:
+L
+12</a></li><li class="depth-0"><a href="#zv2v1pvdv-1" data-for="zv2v1pvdv-1">Z
+V
+2
+V
+1
+p(V
+)
+dV</a></li><li class="depth-0"><a href="#zv2v1nrtvdv-1" data-for="zv2v1nrtvdv-1">Z
+V
+2
+V
+1
+n
+R
+T
+V
+dV</a></li><li class="depth-0"><a href="#hep2-1" data-for="hep2-1">he
+p
+2</a></li><li class="depth-0"><a href="#p12ev3-1" data-for="p12ev3-1">p
+1
+=2
+e
+V
+3</a></li><li class="depth-0"><a href="#el23-1" data-for="el23-1">e:
+L
+23</a></li><li class="depth-0"><a href="#zv3v2p2dv-1" data-for="zv3v2p2dv-1">Z
+V
+3
+V
+2
+p
+2
+dV</a></li><li class="depth-0"><a href="#p2v3v2-1" data-for="p2v3v2-1">p
+2
+(V
+3
+V
+2
+)</a></li><li class="depth-0"><a href="#enim-going-to-goillavgoldnetof-thei-lothe-following-is-the-list-of-theso-whatli-lo" data-for="enim-going-to-goillavgoldnetof-thei-lothe-following-is-the-list-of-theso-whatli-lo">e
+n
+I’m going to go.
+Il
+la
+v
+gold
+Net
+of the
+i lo
+The following is the list of the
+So, what?
+L
+i lo</a></li><li class="depth-0"><a href="#eenergyinotherdiungaspof-whichdipotheronlyfromtempthe-followingu" data-for="eenergyinotherdiungaspof-whichdipotheronlyfromtempthe-followingu">e
+energy
+in
+Other
+di
+un
+Gas
+p
+of which:
+Dip
+Other
+only
+from
+Temp
+the following:
+U</a></li><li class="depth-0"><a href="#0eso-whatq12" data-for="0eso-whatq12">0,
+e
+So, what?
+Q
+12</a></li><li class="depth-0"><a href="#l12in-theother-articles-of-heading-no-5toothergoldl" data-for="l12in-theother-articles-of-heading-no-5toothergoldl">L
+12
+:
+In the
+Other articles of heading No 5
+to
+Other
+gold,
+L</a></li><li class="depth-0"><a href="#0eso-whatq" data-for="0eso-whatq">0,
+e
+So, what?
+Q</a></li><li class="depth-0"><a href="#u-1" data-for="u-1">U</a></li><li class="depth-0"><a href="#v-1" data-for="v-1">V</a></li><li class="depth-0"><a href="#32rethe-following-is-the-list-of-theq31" data-for="32rethe-following-is-the-list-of-theq31">(3=2)R
+e
+The following is the list of the
+Q
+31</a></li><li class="depth-0"><a href="#heilvother-of-a-kind-used-for-the-manufacture-of-foodstuffsnotvairsihavp" data-for="heilvother-of-a-kind-used-for-the-manufacture-of-foodstuffsnotvairsihavp">he
+il
+v
+Other, of a kind used for the manufacture of foodstuffs
+Not
+v
+air,
+si
+ha
+V
+p</a></li><li class="depth-0"><a href="#nrteso-whatq31" data-for="nrteso-whatq31">n
+R
+T
+e
+So, what?
+Q
+31</a></li><li class="depth-0"><a href="#32v1p-1" data-for="32v1p-1">3
+2
+V
+1
+p</a></li><li class="depth-0"><a href="#34v1p1indeotheraqother" data-for="34v1p1indeotheraqother">3
+4
+V
+1
+p
+1
+In
+de
+Other
+a:
+Q
+Other</a></li><li class="depth-0"><a href="#q12q31-1" data-for="q12q31-1">Q
+12
++
+Q
+31</a></li><li class="depth-0"><a href="#li-loqother" data-for="li-loqother">=
+L
+i lo
+Q
+Other</a></li><li class="depth-0"><a href="#ln212ln234-1" data-for="ln212ln234-1">ln
+2
+1=2
+ln
+2
++
+3=4</a></li><li class="overflow-end"></li></ul></div></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/gas-(object)" class="internal">Gas</a></li><li><a href="../objects/heat-engine-(object)" class="internal">Heat Engine</a></li><li><a href="../prove/teo08sol" class="internal">OII 2008 Nazionale Teorica</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

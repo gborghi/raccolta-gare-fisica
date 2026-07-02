@@ -1,0 +1,1712 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr"><head><title>Spagna 2012 — Quesito 1</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="Spagna 2012 — Quesito 1"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Spagna 2012 — Quesito 1"/><meta name="twitter:description" content="P2 El electrómetro monofilar de Wulf."/><meta property="og:description" content="P2 El electrómetro monofilar de Wulf."/><meta property="og:image:alt" content="P2 El electrómetro monofilar de Wulf."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/p2-oef-2012__q01"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/p2-oef-2012__q01"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="P2 El electrómetro monofilar de Wulf."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/p2-oef-2012__q01" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-16345" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-16345" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Spagna 2012 — Quesito 1</a></div></nav><h1 class="article-title">Spagna 2012 — Quesito 1</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/kg/prova" class="internal internal-link tag-link">kg/prova</a><span class="note-properties-separator">, </span><a href="../tags/paese/spagna" class="internal internal-link tag-link">paese/spagna</a><span class="note-properties-separator">, </span><a href="../tags/comp/spagna" class="internal internal-link tag-link">comp/spagna</a><span class="note-properties-separator">, </span><a href="../tags/cluster/termodinamica" class="internal internal-link tag-link">cluster/termodinamica</a><span class="note-properties-separator">, </span><a href="../tags/object/capacitor" class="internal internal-link tag-link">object/capacitor</a><span class="note-properties-separator">, </span><a href="../tags/object/battery" class="internal internal-link tag-link">object/battery</a><span class="note-properties-separator">, </span><a href="../tags/object/switch" class="internal internal-link tag-link">object/switch</a><span class="note-properties-separator">, </span><a href="../tags/object/wire" class="internal internal-link tag-link">object/wire</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:28:16.723Z">02 lug 2026</time><span>25 minuti</span></p><ul class="tags"><li><a href="../tags/kg/prova" class="internal tag-link">kg/prova</a></li><li><a href="../tags/paese/spagna" class="internal tag-link">paese/spagna</a></li><li><a href="../tags/comp/spagna" class="internal tag-link">comp/spagna</a></li><li><a href="../tags/cluster/termodinamica" class="internal tag-link">cluster/termodinamica</a></li><li><a href="../tags/object/capacitor" class="internal tag-link">object/capacitor</a></li><li><a href="../tags/object/battery" class="internal tag-link">object/battery</a></li><li><a href="../tags/object/switch" class="internal tag-link">object/switch</a></li><li><a href="../tags/object/wire" class="internal tag-link">object/wire</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="es"></div>
+<p>P2
+El electrómetro monofilar de Wulf.
+Con objeto de demostrar que la radiación en la superficie de la Tierra provenía de sustancias radiactivas
+existentes en el suelo, el sacerdote jesuita alemán Theodor Wulf diseñó y construyó un electrómetro de hilo que
+lleva su nombre. Con este instrumento, en 1910, quiso demostrar que la radiación debía disminuir con la altura.
+El resultado de la experiencia, realizada en la torre Eiffel, resultó negativo. La variación era pequeña pero en
+sentido contrario: aumentaba con la altura. Esto obligó a admitir la existencia de una radiación de origen externo
+que competía con la emanada de la propia Tierra. En 1912 el físico austriaco Victor Francis Hess, hizo
+mediciones ascendiendo en globo hasta los 5000 m: “La mejor explicación para los resultados de mis
+observaciones se basa en el supuesto de que una radiación de gran poder penetrante entra en nuestra atmósfera
+desde arriba”. Posteriores medidas, realizadas desde globos no tripulados, le llevaron a la conclusión de que la
+intensidad de la radiación procedente del exterior (rayos cósmicos) aumenta con la altitud, varía con la latitud y
+es algo más intensa de día que de noche. Victor Hess, que puede considerarse el “padre” de los rayos cósmicos,
+recibió el Premio el Nobel de Física en 1936.
+Los electrómetros son aparatos para medir diferencias de potencial o cargas eléctricas. Aunque existen
+diversos tipos, vamos a centrarnos en el electrómetro de Wulf de la figura 1, que se expone en la Facultad de
+Ciencias de la Universidad de Zaragoza y cuyo esquema se representa en la figura 2.
+En esencia, está constituido por una carcasa por cuyas caras laterales salen al exterior, perfectamente
+aislados, los soportes conductores de dos placas metálicas paralelas, A y B. Un fino hilo conductor HC tiene su
+extremo H conectado eléctricamente al borne 1 del aparato, y su extremo inferior está sujeto a la carcasa por
+medio de un bucle de cuarzo C, aislante, que permite regular la fuerza de tensión del hilo. El aparato dispone de
+un sistema lateral de iluminación, que permite observar el hilo con un microscopio dotado de un micrómetro. De
+esta forma es posible medir con gran precisión las pequeñas desviaciones laterales del hilo que se producen
+cuando entre los bornes 1 y 2 se aplica una diferencia de potencial V
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+.
+Las placas A y B, separadas una distancia d, se conectan a dos baterías de fem
+0
+V cada una, como se
+indica en la figura 2. Por tanto, entre dichas placas se establece un campo eléctrico que, para simplificar el
+problema, puede considerarse uniforme. Si el hilo HC no está cargado no sufrirá ninguna fuerza electrostática,
+como se representa en la figura 3. Pero si existe una diferencia de potencial
+0</p>
+<blockquote>
+</blockquote>
+<p>V
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+, el hilo adquirirá una carga
+q
++
+y tenderá a desplazarse lateralmente hacia la placa conductora negativa (figura 4) hasta que la fuerza
+electrostática esté compensada por las componentes horizontales de la fuerzas de tensión T
+r
+en los extremos del
+hilo.
+Dado que la carga q del hilo es extremadamente pequeña, también lo será el desplazamiento del hilo,
+l
+x &lt;&lt; , lo que justifica la necesidad del microscopio. En consecuencia, el ángulo <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span> que forma la tensión del
+hilo en sus extremos con la vertical será también muy pequeño (
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+g
+sen
+t
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span></span></span></span>
+) y, por la misma razón, se
+puede considerar que el módulo T de la tensión se mantiene constante e independiente de x. Como
+Fig. 1
+Fig. 2
+V0
+V0
+V
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+H
+B
+C
+2
+1
+A</p>
+<p>Fig. 6
+S</p>
+<p>I</p>
+<p>S ́</p>
+<p>b</p>
+<h1 id="12simplificación-adicional-puede-suponerse-que-en-equilibrio-el-hilo-es-prácticamente-recto-en-el-espaciocomprendido-entre-las-placas-como-se-representa-en-la-figura-5adetermine-el-módulo-del-campo-eléctrico-e-existente-entre-las-placas-a-y-b-en-función-de0v-y-dcuando-entre-los-bornes-1-y-2-se-establece-la-diferencia-de-potencial-vdelta-el-hilo-adquiere-una-carga-q-quese-reparte-uniformemente-por-el-hilo-como-una-densidad-lineal-de-cargalq-">1
+2
+simplificación adicional, puede suponerse que, en equilibrio, el hilo es prácticamente recto en el espacio
+comprendido entre las placas, como se representa en la figura 5.
+a)
+Determine el módulo del campo eléctrico E existente entre las placas A y B, en función de
+0
+V y d.
+Cuando entre los bornes 1 y 2 se establece la diferencia de potencial V
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+, el hilo adquiere una carga q que
+se reparte uniformemente por el hilo como una densidad lineal de carga
+L
+q /<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#12simplificación-adicional-puede-suponerse-que-en-equilibrio-el-hilo-es-prácticamente-recto-en-el-espaciocomprendido-entre-las-placas-como-se-representa-en-la-figura-5adetermine-el-módulo-del-campo-eléctrico-e-existente-entre-las-placas-a-y-b-en-función-de0v-y-dcuando-entre-los-bornes-1-y-2-se-establece-la-diferencia-de-potencial-vdelta-el-hilo-adquiere-una-carga-q-quese-reparte-uniformemente-por-el-hilo-como-una-densidad-lineal-de-cargalq-" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="lambda-la-parte-del-hilocomprendido-entre-las-placas-cuya-carga-esllambda--por-efecto-del-campo-eléctrico-uniforme-sufrirá-undesplazamiento-x-tal-como-se-muestra-en-la-figura-5bdeduzca-la-expresión-que-relaciona-el-desplazamiento-x-del-hilo-con-de-v0-l-l-d-t-y-qpara-modificar-el-rango-de-medidas-puede-modificarse-la-tensión-t-del-hilo-aunque-no-es-sencillodeterminar-su-valor-tampoco-es-fácil-encontrar-la-relación-entre-la-carga-del-hilo-y-la-diferencia-de-potencialvdeltaque-se-aplica-entre-los-bornes-del-electrómetro-sin-embargo-para-pequeños-valores-de-x-la-desviación-delhilo-y-el-voltaje-aplicadovdeltason-proporcionales-es-decirvkxdelta"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span>
+. La parte del hilo
+comprendido entre las placas, cuya carga es
+l
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span> , por efecto del campo eléctrico uniforme sufrirá un
+desplazamiento x, tal como se muestra en la figura 5.
+b)
+Deduzca la expresión que relaciona el desplazamiento x del hilo, con de V0, L, l, d, T y q.
+Para modificar el rango de medidas puede modificarse la tensión T del hilo, aunque no es sencillo
+determinar su valor. Tampoco es fácil encontrar la relación entre la carga del hilo y la diferencia de potencial
+V
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+que se aplica entre los bornes del electrómetro. Sin embargo, para pequeños valores de x, la desviación del
+hilo y el voltaje aplicado
+V
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+son proporcionales, es decir
+V
+K
+x
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#lambda-la-parte-del-hilocomprendido-entre-las-placas-cuya-carga-esllambda--por-efecto-del-campo-eléctrico-uniforme-sufrirá-undesplazamiento-x-tal-como-se-muestra-en-la-figura-5bdeduzca-la-expresión-que-relaciona-el-desplazamiento-x-del-hilo-con-de-v0-l-l-d-t-y-qpara-modificar-el-rango-de-medidas-puede-modificarse-la-tensión-t-del-hilo-aunque-no-es-sencillodeterminar-su-valor-tampoco-es-fácil-encontrar-la-relación-entre-la-carga-del-hilo-y-la-diferencia-de-potencialvdeltaque-se-aplica-entre-los-bornes-del-electrómetro-sin-embargo-para-pequeños-valores-de-x-la-desviación-delhilo-y-el-voltaje-aplicadovdeltason-proporcionales-es-decirvkxdelta" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="-suponga-que-mediante-una-operaciónprevia-de-calibrado-se-sabe-que-la-constante-deproporcionalidad-esmv105956-times">. Suponga que, mediante una operación
+previa de calibrado, se sabe que la constante de
+proporcionalidad es
+m/V
+10
+59
+,5
+6
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">×</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-suponga-que-mediante-una-operaciónprevia-de-calibrado-se-sabe-que-la-constante-deproporcionalidad-esmv105956-times" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="ken-estas-condiciones-como-se-muestra-en-lafigura-6-se-unen-los-bornes-1-y-2-del-electrómetro-através-de-un-interruptor-i-a-las-armaduras-s-y-s-́-deun-condensador-plano-cargado-las-armaduras-soncirculares-de-radiom1500">K
+.
+En estas condiciones, como se muestra en la
+figura 6, se unen los bornes 1 y 2 del electrómetro, a
+través de un interruptor I, a las armaduras S y S ́ de
+un condensador plano cargado. Las armaduras son
+circulares, de radio
+m
+150
+,0<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ken-estas-condiciones-como-se-muestra-en-lafigura-6-se-unen-los-bornes-1-y-2-del-electrómetro-através-de-un-interruptor-i-a-las-armaduras-s-y-s-́-deun-condensador-plano-cargado-las-armaduras-soncirculares-de-radiom1500" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="r-y-están-separadasuna-distanciam1200">r
+, y están separadas
+una distancia
+m
+120
+,0<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#r-y-están-separadasuna-distanciam1200" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="b-cuando-se-cierra-elinterruptor-i-se-observa-en-el-electrómetro-unadesviación-del-hilomm13901-xcdetermine-y-calcule-la-diferencia-de-potencial1vdeltaexistente-entre-las-armaduras-del-condensador-asícomo-su-carga1q--permitividad-dieléctrica-del-aire21212mnc10868---times">b
+. Cuando se cierra el
+interruptor I, se observa en el electrómetro una
+desviación del hilo
+mm
+139
+,0
+1 =
+x
+.
+c)
+Determine y calcule la diferencia de potencial
+1
+V
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+existente entre las armaduras del condensador, así
+como su carga
+1
+Q . (Permitividad dieléctrica del aire:
+2
+1
+2
+12
+m
+N
+C
+10
+86
+,8
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">×</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#b-cuando-se-cierra-elinterruptor-i-se-observa-en-el-electrómetro-unadesviación-del-hilomm13901-xcdetermine-y-calcule-la-diferencia-de-potencial1vdeltaexistente-entre-las-armaduras-del-condensador-asícomo-su-carga1q--permitividad-dieléctrica-del-aire21212mnc10868---times" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">ϵ</span></span></span></span>
+).
+Fig. 4
+T
+T
+x
+Fig. 3
+d
+T
+T
+l
+L
+Fig. 5
+T
+T
+x
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+x</p>
+<h1 id="a-partir-del-instante-en-que-se-cierra-el-interruptor-i-se-observa-que-la-desviación-del-hilo1x-disminuyelentamente-hasta-anularse-lo-que-significa-que-la-diferencia-de-potencial-entre-las-placas-del-condensadordisminuye-con-el-mismo-ritmo-hasta-hacerse-cero-si-no-existiese-ningún-tipo-de-corriente-de-fuga-a-través-de-losmateriales-aislantes-del-montaje-el-fenómeno-se-debería-exclusivamente-a-que-algún-tipo-de-radiaciónsuficientemente-energética-ioniza-las-moléculas-del-gas-aire-existente-entre-las-placas-los-iones-positivosemigran-a-la-placa-negativa-y-los-negativos-a-la-positiva-y-paulatinamente-se-descarga-el-condensadordsi-el-tiempo-que-transcurre-desde-que-se-acciona-el-interruptor-hasta-que01-approxxess106673times">A partir del instante en que se cierra el interruptor I se observa que la desviación del hilo
+1x disminuye
+lentamente hasta anularse, lo que significa que la diferencia de potencial entre las placas del condensador
+disminuye con el mismo ritmo hasta hacerse cero. Si no existiese ningún tipo de corriente de fuga a través de los
+materiales aislantes del montaje, el fenómeno se debería exclusivamente a que algún tipo de radiación,
+suficientemente energética, ioniza las moléculas del gas (aire) existente entre las placas. Los iones positivos
+emigran a la placa negativa y los negativos a la positiva y, paulatinamente, se descarga el condensador.
+d)
+Si el tiempo que transcurre desde que se acciona el interruptor hasta que
+0
+1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span></span></span></span>
+x
+es
+s
+10
+66
+,7
+3
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">×</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#a-partir-del-instante-en-que-se-cierra-el-interruptor-i-se-observa-que-la-desviación-del-hilo1x-disminuyelentamente-hasta-anularse-lo-que-significa-que-la-diferencia-de-potencial-entre-las-placas-del-condensadordisminuye-con-el-mismo-ritmo-hasta-hacerse-cero-si-no-existiese-ningún-tipo-de-corriente-de-fuga-a-través-de-losmateriales-aislantes-del-montaje-el-fenómeno-se-debería-exclusivamente-a-que-algún-tipo-de-radiaciónsuficientemente-energética-ioniza-las-moléculas-del-gas-aire-existente-entre-las-placas-los-iones-positivosemigran-a-la-placa-negativa-y-los-negativos-a-la-positiva-y-paulatinamente-se-descarga-el-condensadordsi-el-tiempo-que-transcurre-desde-que-se-acciona-el-interruptor-hasta-que01-approxxess106673times" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="tau-ysuponiendo-que-la-descarga-del-condensador-se-deba-solo-a-ionizaciones-simples-del-aire-entre-susarmaduras-cada-molécula-ionizada-da-lugar-a-un-solo-electrón-y-a-un-ion-positivo-determine-y-calculeel-número-n-de-ionizaciones-que-se-realizan-por-segundo-y-por3cm-en-el-espacio-comprendido-entre-lasarmaduras-del-condensador-carga-elementalc10602119-times"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.1132em;">τ</span></span></span></span>
+, y
+suponiendo que la descarga del condensador se deba solo a ionizaciones simples del aire entre sus
+armaduras (cada molécula ionizada da lugar a un solo electrón y a un ion positivo), determine y calcule
+el número N de ionizaciones que se realizan por segundo y por
+3
+cm en el espacio comprendido entre las
+armaduras del condensador. (carga elemental
+C
+10
+602
+,1
+19
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">×</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#tau-ysuponiendo-que-la-descarga-del-condensador-se-deba-solo-a-ionizaciones-simples-del-aire-entre-susarmaduras-cada-molécula-ionizada-da-lugar-a-un-solo-electrón-y-a-un-ion-positivo-determine-y-calculeel-número-n-de-ionizaciones-que-se-realizan-por-segundo-y-por3cm-en-el-espacio-comprendido-entre-lasarmaduras-del-condensador-carga-elementalc10602119-times" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>e
+).</p>
+<p>Solución
+a)
+En la figura 7 se representan exclusivamente las conexiones de las placas del electrómetro con las dos
+baterías y la conexión a tierra, y es fácil ver que la diferencia de potencial entre ambas es
+0
+2V . Dado que
+dichas placas constituyen un condensador plano, el módulo del campo eléctrico en su interior es</p>
+<h1 id="dve02">d
+V
+E
+0
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#dve02" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>b)
+Cuando el hilo tenga carga positiva, tenderá a desplazarse hacia la placa
+negativa, la B en nuestro caso. Aceptando la simplificación propuesta en el
+enunciado, consideremos como sistema mecánico en equilibrio la porción de
+hilo entre las placas (figura 8). Las fuerzas exteriores que actúan son las
+tensiones en sus extremos, de módulo T, y la fuerza electrostática F debida al
+campo eléctrico. Si <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span> es la densidad lineal de carga eléctrica del hilo, esta
+fuerza es</p>
+<h1 id="dvlelf02lambdalambda">d
+V
+l
+E
+l
+F
+0
+2
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#dvlelf02lambdalambda" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>=</p>
+<p>(1)
+En el equilibrio, la fuerza resultante horizontal debe ser nula, por lo que</p>
+<h1 id="0sen2">0
+sen
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#0sen2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+T
+F</p>
+<p>(2)
+Teniendo en cuenta el pequeño valor de <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span> ,</p>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+tg
+sen
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span></span></span></span></p>
+<p>De la figura 5 del enunciado es fácil deducir que</p>
+<h1 id="-2tgllx-">(
+) 2
+/
+tg
+l
+L
+x
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-2tgllx-" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span></p>
+<p>De donde,</p>
+<h1 id="llxtdvl-">l
+L
+x
+T
+d
+V
+l
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#llxtdvl-" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="222-0lambdarightarrowtvdlllx20lambda-">2
+2
+2 0
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+(
+)
+T
+V
+d
+l
+l
+L
+x
+2
+0
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#222-0lambdarightarrowtvdlllx20lambda-" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="y-comolq-">Y como
+L
+q /<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#y-comolq-" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span>
+, resulta</p>
+<h1 id="qtvldlllx20-">(
+)
+q
+T
+V
+Ld
+l
+l
+L
+x
+2
+0
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#qtvldlllx20-" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>(3)
+c)
+Al conectar las armaduras del condensador a los bornes del electrómetro se
+observa una desviación del hilo</p>
+<p><strong>Topic:</strong> <a href="../topics/electrostatics" class="internal internal-link" data-slug="topics/electrostatics">Electrostatics</a>, <a href="../topics/circuits" class="internal internal-link" data-slug="topics/circuits">Circuits</a>, <a href="../topics/nuclear--and--particle-physics" class="internal internal-link alias" data-slug="topics/nuclear--and--particle-physics">Nuclear &amp; Particle Physics</a>
+<strong>Metodi:</strong> <a href="../methods/electric-potential-method-(metodo)" class="internal internal-link alias" data-slug="methods/electric-potential-method-(metodo)">Electric Potential Method</a>, <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>, <a href="../methods/small-angle-approximation-(metodo)" class="internal internal-link alias" data-slug="methods/small-angle-approximation-(metodo)">Small-Angle Approximation</a>, <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>, <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/capacitor-(object)" class="internal internal-link alias" data-slug="objects/capacitor-(object)">Capacitor</a>, <a href="../objects/battery-(object)" class="internal internal-link alias" data-slug="objects/battery-(object)">Battery</a>, <a href="../objects/switch-(object)" class="internal internal-link alias" data-slug="objects/switch-(object)">Switch</a>, <a href="../objects/wire-(object)" class="internal internal-link alias" data-slug="objects/wire-(object)">Wire</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/159bwQmtpohZ17ZBbQJBqs6wOHxtZT7vt/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="it"></div>
+<p>P2
+L’elettrometro monofilare di Wulf.
+Per dimostrare che la radiazione sulla superficie terrestre proveniva da sostanze radioattive
+La prima volta che il sistema di misurazione del filo di un elettrometro è stato sviluppato, il sacerdote jesuita tedesco Theodor Wulf ha progettato e costruito un elettrometro di filo che
+porta il suo nome. Con questo strumento, nel 1910, voleva dimostrare che la radiazione doveva diminuire con l’altezza.
+Il risultato dell’esperimento, svolto nella torre Eiffel, è risultato negativo. La variazione era piccola ma in
+In senso contrario: aumentava con l’altezza. Questo ha costretto ad ammettere l’esistenza di una radiazione di origine esterna
+che competette con l’emana della Terra stessa. Nel 1912 il fisico austriaco Victor Francis Hess,
+“La migliore spiegazione per i risultati dei miei studi è che la
+Le osservazioni si basano sull’ipotesi che una radiazione di grande potenza penetrante entri nella nostra atmosfera
+dall’alto”. Le misure successive, effettuate da palloni senza pilota, hanno portato alla conclusione che la
+L’intensità della radiazione esterna (radioscosmici) aumenta con l’altitudine, varia con la latitudine e
+È qualcosa di più intenso di giorno che di notte. Victor Hess, che può essere considerato il “padre” dei raggi cosmici,
+ricevette il Premio Nobel di Fisica nel 1936.
+Gli elettrometri sono dispositivi per misurare differenze di potenziale o cariche elettriche. Anche se esistono
+Diversi tipi, ci concentreremo sull’elettrometro di Wulf della figura 1, che è esposto alla Facoltà di
+Scienze dell’Università di Saragoza e il cui schema è rappresentato nella figura 2.
+In sostanza, è costituito da una carcassa con le facce laterali che uscivano all’esterno, perfettamente
+a) le parti di cui al punto 1.2.1 sono state applicate per la produzione di un’unità di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di contenuto di materiale di base di materiale di contenuto di materiale di materiale di contenuto di materiale di base di materiale di contenuto di materiale di contenuto di materiale di base di materiale di contenuto di materiale di base di materiale di contenuto di base di base di base di materiale di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di Un filo di conduzione HC sottile ha il suo
+L’estremità H è collegata elettricamente al terminal 1 dell’apparecchio e la sua estremità inferiore è soggetta alla cassa per
+mezzo di un ciclo di quarzo C, isolante, che consente di regolare la forza di tensione del filo. L’apparecchio dispone di
+un sistema di illuminazione laterale che consente di osservare il filo con un microscopio dotato di un micrometro. De
+in questo modo è possibile misurare con grande precisione le piccole deviazioni laterali del filo che si producono
+quando si applica una differenza di potenziale V tra i terminali 1 e 2
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+.
+Le schede A e B, separate da una distanza d, si collegano a due batterie di fem
+0
+V ognuna, come si dice
+indica la figura 2. Infatti, il sistema di controllo delle parti è stato adottato nel corso del periodo di applicazione del regolamento (CE) n.
+problema, può essere considerato uniforme. Se il filo HC non è caricato non subirà alcuna forza elettrostatica,
+come mostrato nella figura 3. Ma se c’è una differenza di potenziale
+0</p>
+<blockquote>
+</blockquote>
+<p>V
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+, il filo acquisirà un carico
+q
++
+e tende a spostarsi lateralmente verso la scheda di condotta negativa (Figura 4) fino a quando la forza
+la tensione è compensata dalle componenti orizzontali delle forze di tensione T
+r
+Le estremità del
+filo.
+Poiché il carico q del filo è estremamente piccolo, lo sarà anche lo spostamento del filo,
+l
+x &lt;&lt; , che giustifica la necessità del microscopio. In conseguenza, l’angolo <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span> che forma la tensione del
+Il filo a le sue estremità con la verticale sarà anche molto piccolo (
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+g
+sen
+t
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span></span></span></span>
+) e, per lo stesso motivo,
+può considerare che il modulo T della tensione sia mantenuto costante e indipendente da x. Come
+Fig. 1
+Fig. 2
+V0
+V0
+V
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+H
+B
+C
+2
+1
+A</p>
+<p>Fig. 6
+S</p>
+<p>I</p>
+<p>S ́</p>
+<p>b</p>
+<h1 id="12in-questo-caso-se-si-vuole-che-il-filo-sia-praticamente-retto-nello-spazio-si-può-supporre-che-il-filo-sia-in-equilibriocompreso-tra-le-targhe-come-illustrato-in-figura-5adetermina-il-modulo-del-campo-elettrico-e-esistente-tra-le-schede-a-e-b-in-base-a0v-y-dquando-si-stabilisce-la-differenza-di-potenziale-v-tra-i-terminali-1-e-2delta-il-filo-acquista-un-carico-q-chedistribuita-uniformemente-sul-filo-come-una-densità-lineare-di-caricolq-">1
+2
+In questo caso, se si vuole che il filo sia praticamente retto nello spazio, si può supporre che il filo sia in equilibrio.
+compreso tra le targhe, come illustrato in figura 5.
+a)
+Determina il modulo del campo elettrico E esistente tra le schede A e B, in base a
+0
+V y d.
+Quando si stabilisce la differenza di potenziale V tra i terminali 1 e 2
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+, il filo acquista un carico q che
+distribuita uniformemente sul filo come una densità lineare di carico
+L
+q /<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#12in-questo-caso-se-si-vuole-che-il-filo-sia-praticamente-retto-nello-spazio-si-può-supporre-che-il-filo-sia-in-equilibriocompreso-tra-le-targhe-come-illustrato-in-figura-5adetermina-il-modulo-del-campo-elettrico-e-esistente-tra-le-schede-a-e-b-in-base-a0v-y-dquando-si-stabilisce-la-differenza-di-potenziale-v-tra-i-terminali-1-e-2delta-il-filo-acquista-un-carico-q-chedistribuita-uniformemente-sul-filo-come-una-densità-lineare-di-caricolq-" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="lambda-la-parte-del-filocompreso-tra-le-lastre-il-cui-carico-èllambda--por-efecto-del-campo-eléctrico-uniforme-sufrirá-unspostamento-x-come-mostrato-nella-figura-5bdeduce-lespressione-che-relaziona-lo-spostamento-x-del-filo-con-di-v0-l-l-d-t-e-qper-modificare-la-gamma-di-misure-è-possibile-modificare-la-tensione-t-del-filo-anche-se-non-è-semplicedeterminare-il-suo-valore-non-è-facile-trovare-il-rapporto-tra-il-carico-del-filo-e-la-differenza-di-potenzialevdeltache-si-applica-tra-le-estremità-dellelettrometro-tuttavia-per-i-piccoli-valori-di-x-la-deviazione-delfilo-e-voltage-applicatovdeltasono-proporzionali-cioèvkxdelta"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span>
+. La parte del filo
+compreso tra le lastre, il cui carico è
+l
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span> , por efecto del campo eléctrico uniforme sufrirá un
+spostamento x, come mostrato nella figura 5.
+b)
+Deduce l’espressione che relaziona lo spostamento x del filo, con di V0, L, l, d, T e q.
+Per modificare la gamma di misure è possibile modificare la tensione T del filo, anche se non è semplice.
+determinare il suo valore. Non è facile trovare il rapporto tra il carico del filo e la differenza di potenziale
+V
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+che si applica tra le estremità dell’elettrometro. Tuttavia, per i piccoli valori di x, la deviazione del
+Filo e voltage applicato
+V
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+sono proporzionali, cioè
+V
+K
+x
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#lambda-la-parte-del-filocompreso-tra-le-lastre-il-cui-carico-èllambda--por-efecto-del-campo-eléctrico-uniforme-sufrirá-unspostamento-x-come-mostrato-nella-figura-5bdeduce-lespressione-che-relaziona-lo-spostamento-x-del-filo-con-di-v0-l-l-d-t-e-qper-modificare-la-gamma-di-misure-è-possibile-modificare-la-tensione-t-del-filo-anche-se-non-è-semplicedeterminare-il-suo-valore-non-è-facile-trovare-il-rapporto-tra-il-carico-del-filo-e-la-differenza-di-potenzialevdeltache-si-applica-tra-le-estremità-dellelettrometro-tuttavia-per-i-piccoli-valori-di-x-la-deviazione-delfilo-e-voltage-applicatovdeltasono-proporzionali-cioèvkxdelta" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="-supponiamo-che-mediante-unoperazionela-misurazione-precedente-è-stata-effettuata-con-unala-proporzionalità-èmv105956-times">. Supponiamo che, mediante un’operazione
+La misurazione precedente è stata effettuata con una
+La proporzionalità è
+m/V
+10
+59
+,5
+6
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">×</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-supponiamo-che-mediante-unoperazionela-misurazione-precedente-è-stata-effettuata-con-unala-proporzionalità-èmv105956-times" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="kin-queste-condizioni-come-illustrato-nellafig-6-si-uniscono-i-terminali-1-e-2-dellelettrometro-aiinterruttore-i-gli-armature-s-e-s-diun-condensatore-piano-carico-le-armature-sonodi-radiocomunicazionim1500">K
+.
+In queste condizioni, come illustrato nella
+Fig. 6, si uniscono i terminali 1 e 2 dell’elettrometro, a
+I’interruttore I, gli armature S e S’ di
+un condensatore piano carico. Le armature sono
+di radiocomunicazioni
+m
+150
+,0<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#kin-queste-condizioni-come-illustrato-nellafig-6-si-uniscono-i-terminali-1-e-2-dellelettrometro-aiinterruttore-i-gli-armature-s-e-s-diun-condensatore-piano-carico-le-armature-sonodi-radiocomunicazionim1500" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="r-e-sono-separatiuna-distanzam1200">r
+, e sono separati
+una distanza
+m
+120
+,0<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#r-e-sono-separatiuna-distanzam1200" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="b-quando-si-chiude-ilil-computo-di-uninterruttore-i-è-osservato-nellelettrometro-asbiadimento-del-filomm13901-xcdetermina-e-calcola-la-differenza-di-potenziale1vdeltaesistente-tra-le-armature-del-condensatore-cosìcome-carico1q--permitività-dellaria-dielettrica21212mnc10868---times">b
+. Quando si chiude il
+Il computo di un’interruttore I è osservato nell’elettrometro a
+sbiadimento del filo
+mm
+139
+,0
+1 =
+x
+.
+c)
+Determina e calcola la differenza di potenziale
+1
+V
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+esistente tra le armature del condensatore, così
+Come carico
+1
+Q . (Permitività dell’aria dielettrica:
+2
+1
+2
+12
+m
+N
+C
+10
+86
+,8
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">×</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#b-quando-si-chiude-ilil-computo-di-uninterruttore-i-è-osservato-nellelettrometro-asbiadimento-del-filomm13901-xcdetermina-e-calcola-la-differenza-di-potenziale1vdeltaesistente-tra-le-armature-del-condensatore-cosìcome-carico1q--permitività-dellaria-dielettrica21212mnc10868---times" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">ϵ</span></span></span></span>
+).
+Fig. 4
+T
+T
+x
+Fig. 3
+d
+T
+T
+l
+L
+Fig. 5
+T
+T
+x
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+x</p>
+<h1 id="dal-momento-in-cui-si-chiude-il-interruttore-i-si-osserva-che-la-deviazione-del-filo1x-diminuiscelentamente-fino-a-che-si-annulla-il-che-significa-che-la-differenza-di-potenziale-tra-le-plache-del-condensatorediminuisce-allo-stesso-ritmo-fino-a-diventare-zero-se-non-esistesse-alcuna-corrente-di-fuga-attraverso-ila-presenza-di-materiali-isolanti-nellassemblaggio-è-dovuta-esclusivamente-a-che-tipo-di-radiazionisufficientemente-energetica-ionizza-le-molecole-di-gas-aria-che-esistono-tra-le-placche-ioni-positivie-poi-il-condensatore-si-scaricadse-il-tempo-che-passa-dal-momento-in-cui-si-attiva-il-interruttore-fino-a-quando01-approxxess106673times">Dal momento in cui si chiude il interruttore I si osserva che la deviazione del filo
+1x diminuisce
+lentamente fino a che si annulla, il che significa che la differenza di potenziale tra le plache del condensatore
+diminuisce allo stesso ritmo fino a diventare zero. Se non esistesse alcuna corrente di fuga attraverso i
+La presenza di materiali isolanti nell’assemblaggio è dovuta esclusivamente a che tipo di radiazioni,
+sufficientemente energetica, ionizza le molecole di gas (aria) che esistono tra le placche. Ioni positivi
+E poi il condensatore si scarica.
+d)
+Se il tempo che passa dal momento in cui si attiva il interruttore fino a quando
+0
+1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span></span></span></span>
+x
+es
+s
+10
+66
+,7
+3
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">×</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#dal-momento-in-cui-si-chiude-il-interruttore-i-si-osserva-che-la-deviazione-del-filo1x-diminuiscelentamente-fino-a-che-si-annulla-il-che-significa-che-la-differenza-di-potenziale-tra-le-plache-del-condensatorediminuisce-allo-stesso-ritmo-fino-a-diventare-zero-se-non-esistesse-alcuna-corrente-di-fuga-attraverso-ila-presenza-di-materiali-isolanti-nellassemblaggio-è-dovuta-esclusivamente-a-che-tipo-di-radiazionisufficientemente-energetica-ionizza-le-molecole-di-gas-aria-che-esistono-tra-le-placche-ioni-positivie-poi-il-condensatore-si-scaricadse-il-tempo-che-passa-dal-momento-in-cui-si-attiva-il-interruttore-fino-a-quando01-approxxess106673times" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="tau-ysupponiamo-che-il-discarico-del-condensatore-sia-dovuto-solo-a-semplici-ionizzazioni-dellaria-tra-i-suoiarmature-ogni-molecola-ionizzata-produce-un-singolo-elettrone-e-un-ion-positivo-determinare-e-calcolareil-numero-n-di-ionizzazioni-effettuate-per-secondo-e-per3cm-nello-spazio-tra-learmature-del-condensatore-carga-elementarec10602119-times"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.1132em;">τ</span></span></span></span>
+, y
+Supponiamo che il discarico del condensatore sia dovuto solo a semplici ionizzazioni dell’aria tra i suoi
+Armature (ogni molecola ionizzata produce un singolo elettrone e un ion positivo), determinare e calcolare
+il numero N di ionizzazioni effettuate per secondo e per
+3
+cm nello spazio tra le
+armature del condensatore. (carga elementare)
+C
+10
+602
+,1
+19
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">×</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#tau-ysupponiamo-che-il-discarico-del-condensatore-sia-dovuto-solo-a-semplici-ionizzazioni-dellaria-tra-i-suoiarmature-ogni-molecola-ionizzata-produce-un-singolo-elettrone-e-un-ion-positivo-determinare-e-calcolareil-numero-n-di-ionizzazioni-effettuate-per-secondo-e-per3cm-nello-spazio-tra-learmature-del-condensatore-carga-elementarec10602119-times" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>e
+).</p>
+<p>Soluzione
+a)
+La figura 7 mostra esclusivamente le connessioni delle schede dell’elettrometro con le due
+batterie e la connessione a terra, e è facile vedere che la differenza di potenziale tra i due è
+0
+2V . Dato che
+Le plache costituiscono un condensatore piano, il modulo del campo elettrico interno è</p>
+<h1 id="dve02-1">d
+V
+E
+0
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#dve02-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>b)
+Quando il filo ha una carica positiva, tende a spostarsi verso la scheda
+Negativo, B nel nostro caso. Accettando la proposta di semplificazione
+In questo caso, considerate come sistema meccanico in equilibrio la porzione di
+Filo tra le lastre (Figura 8). Le forze esterne che agiscono sono le
+Le tensioni alle loro estremità, modulo T, e la forza elettrostatica F dovuta alla
+campo elettrico. Se <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span> è la densità lineare di carico elettrico del filo, questo
+La forza è</p>
+<h1 id="dvlelf02lambdalambda-1">d
+V
+l
+E
+l
+F
+0
+2
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#dvlelf02lambdalambda-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>=</p>
+<p>(1)
+In equilibrio, la forza orizzontale risultante deve essere zero, quindi</p>
+<h1 id="0sen2-1">0
+sen
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#0sen2-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+T
+F</p>
+<p>(2)
+Considerato il piccolo valore di <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>,</p>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+tg
+sen
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span></span></span></span></p>
+<p>Dalla figura 5 della frase si deduce facilmente che</p>
+<h1 id="-2tgllx--1">(
+) 2
+/
+tg
+l
+L
+x
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-2tgllx--1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span></p>
+<p>Da dove,</p>
+<h1 id="llxtdvl--1">l
+L
+x
+T
+d
+V
+l
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#llxtdvl--1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="222-0lambdarightarrowtvdlllx20lambda--1">2
+2
+2 0
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+(
+)
+T
+V
+d
+l
+l
+L
+x
+2
+0
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#222-0lambdarightarrowtvdlllx20lambda--1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="e-comelq-">E come
+L
+q /<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#e-comelq-" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span>
+, si traduce</p>
+<h1 id="qtvldlllx20--1">(
+)
+q
+T
+V
+Ld
+l
+l
+L
+x
+2
+0
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#qtvldlllx20--1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>(3)
+c)
+Quando si collegano le armature del condensatore alle porte dell’elettrometro si
+osserva una deviazione del filo</p>
+<p><strong>Topic:</strong> <a href="../topics/electrostatics" class="internal internal-link" data-slug="topics/electrostatics">Electrostatics</a>, <a href="../topics/circuits" class="internal internal-link" data-slug="topics/circuits">Circuits</a>, <a href="../topics/nuclear--and--particle-physics" class="internal internal-link alias" data-slug="topics/nuclear--and--particle-physics">Nuclear &amp; Particle Physics</a>
+<strong>Metodi:</strong> <a href="../methods/electric-potential-method-(metodo)" class="internal internal-link alias" data-slug="methods/electric-potential-method-(metodo)">Electric Potential Method</a>, <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>, <a href="../methods/small-angle-approximation-(metodo)" class="internal internal-link alias" data-slug="methods/small-angle-approximation-(metodo)">Small-Angle Approximation</a>, <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>, <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/capacitor-(object)" class="internal internal-link alias" data-slug="objects/capacitor-(object)">Capacitor</a>, <a href="../objects/battery-(object)" class="internal internal-link alias" data-slug="objects/battery-(object)">Battery</a>, <a href="../objects/switch-(object)" class="internal internal-link alias" data-slug="objects/switch-(object)">Switch</a>, <a href="../objects/wire-(object)" class="internal internal-link alias" data-slug="objects/wire-(object)">Wire</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/159bwQmtpohZ17ZBbQJBqs6wOHxtZT7vt/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>P2
+Wulf’s single-string electrometer.
+In order to demonstrate that radiation on the surface of the Earth came from radioactive substances
+The German Jesuit priest Theodor Wulf designed and built a thread electrometer that
+It’s named after him. With this instrument, in 1910, he wanted to prove that radiation must decrease with height.
+The result of the experiment, carried out in the Eiffel Tower, was negative. The variation was small but in
+The opposite: it increased with height. This forced him to admit the existence of radiation from an external source.
+It was competing with the emanation of the Earth itself. In 1912 the Austrian physicist Victor Francis Hess, made
+The results of the study were published in the journal Nature and the results of the study were published in the journal Nature and the results of the study.
+The observations are based on the assumption that a high-powered penetrating radiation enters our atmosphere.
+from above”. Subsequent measurements, carried out from unmanned balloons, led to the conclusion that the
+The intensity of radiation from outside (cosmic rays) increases with altitude, varies with latitude and
+It’s more intense during the day than at night. Victor Hess, who can be considered the father of cosmic rays,
+He was awarded the Nobel Prize in Physics in 1936.
+Electrometers are devices for measuring potential or electrical charges differences. Although there are
+So we’re going to focus on the Wulf electrometer in Figure 1, which is on display at the University of
+Science of the University of Zaragoza and whose scheme is shown in figure 2.
+It’s essentially a casing with sides facing outward, perfectly
+Isolated, the conductive supports of two parallel metal plates, A and B. A fine conductive wire HC has its
+the H-end electrically connected to the device’s terminal 1, and its lower end is subject to the housing by
+a medium of an insulating C quartz loop, which allows the tensile strength of the wire to be regulated. The apparatus has
+a side lighting system, which allows the thread to be observed with a microscope equipped with a micrometer. De
+This way it is possible to measure with great precision the small lateral deviations of the thread that occur
+when a potential difference V is applied between terminals 1 and 2
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+.
+The A and B plates, separated by a distance d, are connected to two fem batteries.
+0
+V each, as you know
+is shown in Figure 2. The electric field between these plates is therefore established, which, in order to simplify the
+Problem, it can be considered uniform. If the HC wire is not charged it will not suffer any electrostatic force,
+as shown in Figure 3. But if there is a potential difference
+0</p>
+<blockquote>
+</blockquote>
+<p>V
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+, the thread will take on a load
+q
++
+The force is then applied to the negative driving plate (Figure 4) and tends to shift laterally towards the negative driving plate (Figure 4) until the force is applied to the
+electrostatic is offset by the horizontal components of the T-voltage forces
+r
+At the ends of the
+I’m going to do it.
+Since the q load of the thread is extremely small, so will the displacement of the thread,
+l
+x &lt;&lt; , which justifies the need for the microscope. Consequently, the angle <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span> forming the voltage of the
+The wire at its ends with the vertical will also be very small (
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+g
+Other
+t
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span></span></span></span>
+) and, for the same reason,
+can consider that the voltage module T remains constant and independent of x. As
+Fig. 1
+Fig. 2
+V0
+V0
+V
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+H
+B
+C
+2
+1
+A</p>
+<p>Fig. 6
+S</p>
+<p>I</p>
+<p>S ́</p>
+<p>b</p>
+<h1 id="12further-simplification-it-can-be-assumed-that-in-equilibrium-the-thread-is-practically-straight-in-spacecomprised-between-the-plates-as-shown-in-figure-5adetermine-the-electric-field-module-e-between-plates-a-and-b-based-on0v-y-dwhen-the-potential-difference-v-is-established-between-terminals-1-and-2delta-the-thread-acquires-a-charge-q-whichis-evenly-distributed-over-the-wire-as-a-linear-load-densitylq-">1
+2
+Further simplification, it can be assumed that, in equilibrium, the thread is practically straight in space
+comprised between the plates as shown in Figure 5.
+a)
+Determine the electric field module E between plates A and B, based on
+0
+V y d.
+When the potential difference V is established between terminals 1 and 2
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+, the thread acquires a charge q which
+is evenly distributed over the wire as a linear load density
+L
+q /<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#12further-simplification-it-can-be-assumed-that-in-equilibrium-the-thread-is-practically-straight-in-spacecomprised-between-the-plates-as-shown-in-figure-5adetermine-the-electric-field-module-e-between-plates-a-and-b-based-on0v-y-dwhen-the-potential-difference-v-is-established-between-terminals-1-and-2delta-the-thread-acquires-a-charge-q-whichis-evenly-distributed-over-the-wire-as-a-linear-load-densitylq-" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="lambda-the-part-of-the-threadthe-weight-of-the-plate-shall-bellambda--por-efecto-del-campo-eléctrico-uniforme-sufrirá-undisplacement-x-as-shown-in-figure-5bsubtract-the-expression-relating-the-motion-x-of-the-wire-with-v0-l-l-d-t-and-qthe-t-tension-of-the-wire-can-be-changed-to-change-the-range-of-measurements-although-this-is-not-easydetermine-its-value-it-is-also-not-easy-to-find-the-relationship-between-the-thread-load-and-the-potential-differencevdeltawhich-is-applied-between-the-electrometer-terminals-however-for-small-values-of-x-the-deviation-of-thewire-and-applied-voltagevdeltaare-proportional-ievkxdelta"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span>
+. The part of the thread
+The weight of the plate shall be:
+l
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span> , por efecto del campo eléctrico uniforme sufrirá un
+displacement x, as shown in Figure 5.
+b)
+Subtract the expression relating the motion x of the wire, with V0, L, l, d, T and q.
+The T-tension of the wire can be changed to change the range of measurements, although this is not easy.
+determine its value. It is also not easy to find the relationship between the thread load and the potential difference
+V
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+which is applied between the electrometer terminals. However, for small values of x, the deviation of the
+Wire and applied voltage
+V
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+are proportional, i.e.
+V
+K
+x
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#lambda-the-part-of-the-threadthe-weight-of-the-plate-shall-bellambda--por-efecto-del-campo-eléctrico-uniforme-sufrirá-undisplacement-x-as-shown-in-figure-5bsubtract-the-expression-relating-the-motion-x-of-the-wire-with-v0-l-l-d-t-and-qthe-t-tension-of-the-wire-can-be-changed-to-change-the-range-of-measurements-although-this-is-not-easydetermine-its-value-it-is-also-not-easy-to-find-the-relationship-between-the-thread-load-and-the-potential-differencevdeltawhich-is-applied-between-the-electrometer-terminals-however-for-small-values-of-x-the-deviation-of-thewire-and-applied-voltagevdeltaare-proportional-ievkxdelta" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="-suppose-that-by-an-operationthe-first-is-the-calibration-of-theproportionality-ismv105956-times">. Suppose that, by an operation,
+The first is the calibration of the
+Proportionality is
+m/V
+10
+59
+,5
+6
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">×</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-suppose-that-by-an-operationthe-first-is-the-calibration-of-theproportionality-ismv105956-times" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="kin-these-conditions-as-shown-in-thefigure-6-the-electrometer-terminals-1-and-2-are-joined-athrough-a-switch-i-to-the-s-and-s-armora-flat-capacitor-loaded-armour-isradiocommunicationm1500">K
+.
+In these conditions, as shown in the
+Figure 6, the electrometer terminals 1 and 2 are joined, a
+through a switch I, to the S and S’ armor
+A flat capacitor loaded. Armour is
+Radiocommunication
+m
+150
+,0<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#kin-these-conditions-as-shown-in-thefigure-6-the-electrometer-terminals-1-and-2-are-joined-athrough-a-switch-i-to-the-s-and-s-armora-flat-capacitor-loaded-armour-isradiocommunicationm1500" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="r-and-they-re-separateda-distancem1200">r
+, and they ‘re separated
+a distance
+m
+120
+,0<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#r-and-they-re-separateda-distancem1200" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="b-when-thethe-switch-i-is-observed-on-the-electrometer-adeviation-of-the-threadmm13901-xcdetermine-and-calculate-the-potential-difference1vdeltaexisting-between-the-capacitor-armor-as-wellas-its-burden1q--dielectrical-permeability-of-the-air21212mnc10868---times">b
+. When the
+The switch I is observed on the electrometer a
+deviation of the thread
+mm
+139
+,0
+1 =
+x
+.
+c)
+Determine and calculate the potential difference
+1
+V
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+existing between the capacitor armor, as well
+as its burden
+1
+Q . (Dielectrical permeability of the air:
+2
+1
+2
+12
+m
+N
+C
+10
+86
+,8
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">×</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#b-when-thethe-switch-i-is-observed-on-the-electrometer-adeviation-of-the-threadmm13901-xcdetermine-and-calculate-the-potential-difference1vdeltaexisting-between-the-capacitor-armor-as-wellas-its-burden1q--dielectrical-permeability-of-the-air21212mnc10868---times" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">ϵ</span></span></span></span>
+).
+Fig. 4
+T
+T
+x
+Fig. 3
+d
+T
+T
+l
+L
+Fig. 5
+T
+T
+x
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+x</p>
+<h1 id="from-the-moment-the-switch-i-is-closed-the-deviation-of-the-wire-is-observed1x-decreasesslowly-until-it-cancels-which-means-that-the-potential-difference-between-the-capacitor-platesit-decreases-at-the-same-rate-until-it-becomes-zero-if-there-were-no-current-of-any-kind-to-leak-through-thethe-phenomenon-is-due-exclusively-to-some-kind-of-radiationthe-energy-content-of-the-gas-air-between-the-plates-is-sufficiently-high-positive-ionsthe-negative-ones-migrate-to-the-negative-plate-and-the-negative-ones-migrate-to-the-positive-plate-and-gradually-the-capacitor-dischargesdif-the-time-elapsed-from-the-switch-being-switched-on-until-the01-approxxess106673times">From the moment the switch I is closed, the deviation of the wire is observed.
+1x decreases
+slowly until it cancels, which means that the potential difference between the capacitor plates
+It decreases at the same rate until it becomes zero. If there were no current of any kind to leak through the
+The phenomenon is due exclusively to some kind of radiation,
+The energy content of the gas (air) between the plates is sufficiently high. Positive ions
+The negative ones migrate to the negative plate and the negative ones migrate to the positive plate and gradually the capacitor discharges.
+d)
+If the time elapsed from the switch being switched on until the
+0
+1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span></span></span></span>
+x
+es
+s
+10
+66
+,7
+3
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">×</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#from-the-moment-the-switch-i-is-closed-the-deviation-of-the-wire-is-observed1x-decreasesslowly-until-it-cancels-which-means-that-the-potential-difference-between-the-capacitor-platesit-decreases-at-the-same-rate-until-it-becomes-zero-if-there-were-no-current-of-any-kind-to-leak-through-thethe-phenomenon-is-due-exclusively-to-some-kind-of-radiationthe-energy-content-of-the-gas-air-between-the-plates-is-sufficiently-high-positive-ionsthe-negative-ones-migrate-to-the-negative-plate-and-the-negative-ones-migrate-to-the-positive-plate-and-gradually-the-capacitor-dischargesdif-the-time-elapsed-from-the-switch-being-switched-on-until-the01-approxxess106673times" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="tau-yassuming-that-the-discharge-of-the-condenser-is-due-only-to-simple-ionization-of-air-between-itsarmorations-each-ionized-molecule-yields-a-single-electron-and-a-positive-ion-determine-and-calculatethe-number-of-ionizations-per-second-and-per3cm-in-the-space-between-thethe-capacitor-armor-elementary-chargec10602119-times"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.1132em;">τ</span></span></span></span>
+, y
+assuming that the discharge of the condenser is due only to simple ionization of air between its
+Armorations (each ionized molecule yields a single electron and a positive ion), determine and calculate
+the number of ionizations per second and per
+3
+cm in the space between the
+the capacitor armor. (Elementary charge)
+C
+10
+602
+,1
+19
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">×</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#tau-yassuming-that-the-discharge-of-the-condenser-is-due-only-to-simple-ionization-of-air-between-itsarmorations-each-ionized-molecule-yields-a-single-electron-and-a-positive-ion-determine-and-calculatethe-number-of-ionizations-per-second-and-per3cm-in-the-space-between-thethe-capacitor-armor-elementary-chargec10602119-times" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>e
+).</p>
+<p>Solution
+a)
+In Figure 7 only the connections of the electrometer plates to the two
+batteries and grounding, and it’s easy to see that the potential difference between the two is
+0
+2V . Since
+The electric field module inside the plate is a flat capacitor.</p>
+<h1 id="dve02-2">d
+V
+E
+0
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#dve02-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>b)
+When the thread is positive, it will tend to shift toward the plate.
+negative, the B in our case. Accepting the proposed simplification in the
+In this case, the part of the
+The two-dimensional plane of the plate is the same as the plane of the plate. The external forces acting are the
+The electrical conductivity of the T-module is the
+electric field. If <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span> is the linear density of the electrical charge of the wire, this
+Force is</p>
+<h1 id="dvlelf02lambdalambda-2">d
+V
+l
+E
+l
+F
+0
+2
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#dvlelf02lambdalambda-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>=</p>
+<p>(1)
+In equilibrium, the resulting horizontal force must be zero, so that the force is not</p>
+<h1 id="0other2">0
+Other
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#0other2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+T
+F</p>
+<p>(2)
+Given the small value of <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>,</p>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span>
+tg
+Other
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span></span></span></span></p>
+<p>From figure 5 of the statement it is easy to deduce that</p>
+<h1 id="-2tgllx--2">(
+) 2
+/
+tg
+l
+L
+x
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-2tgllx--2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span></p>
+<p>Where did you come from?</p>
+<h1 id="llxtdvl--2">l
+L
+x
+T
+d
+V
+l
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#llxtdvl--2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="222-0lambdarightarrowtvdlllx20lambda--2">2
+2
+2 0
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+(
+)
+T
+V
+d
+l
+l
+L
+x
+2
+0
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#222-0lambdarightarrowtvdlllx20lambda--2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="and-howlq-">And how
+L
+q /<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#and-howlq-" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span></span></span></span>
+, it turns out</p>
+<h1 id="qtvldlllx20--2">(
+)
+q
+T
+V
+Ld
+l
+l
+L
+x
+2
+0
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#qtvldlllx20--2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>(3)
+c)
+When connecting the capacitor armor to the electrometer terminals
+observes a deviation of the thread</p>
+<p><strong>Topic:</strong> <a href="../topics/electrostatics" class="internal internal-link" data-slug="topics/electrostatics">Electrostatics</a>, <a href="../topics/circuits" class="internal internal-link" data-slug="topics/circuits">Circuits</a>, <a href="../topics/nuclear--and--particle-physics" class="internal internal-link alias" data-slug="topics/nuclear--and--particle-physics">Nuclear &amp; Particle Physics</a>
+<strong>Metodi:</strong> <a href="../methods/electric-potential-method-(metodo)" class="internal internal-link alias" data-slug="methods/electric-potential-method-(metodo)">Electric Potential Method</a>, <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>, <a href="../methods/small-angle-approximation-(metodo)" class="internal internal-link alias" data-slug="methods/small-angle-approximation-(metodo)">Small-Angle Approximation</a>, <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>, <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/capacitor-(object)" class="internal internal-link alias" data-slug="objects/capacitor-(object)">Capacitor</a>, <a href="../objects/battery-(object)" class="internal internal-link alias" data-slug="objects/battery-(object)">Battery</a>, <a href="../objects/switch-(object)" class="internal internal-link alias" data-slug="objects/switch-(object)">Switch</a>, <a href="../objects/wire-(object)" class="internal internal-link alias" data-slug="objects/wire-(object)">Wire</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/159bwQmtpohZ17ZBbQJBqs6wOHxtZT7vt/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"><div class="toc"><button type="button" class="toc-header" aria-controls="toc-617" aria-expanded="true"><h3>Indice</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-0" class="toc-content overflow"><li class="depth-0"><a href="#12simplificación-adicional-puede-suponerse-que-en-equilibrio-el-hilo-es-prácticamente-recto-en-el-espaciocomprendido-entre-las-placas-como-se-representa-en-la-figura-5adetermine-el-módulo-del-campo-eléctrico-e-existente-entre-las-placas-a-y-b-en-función-de0v-y-dcuando-entre-los-bornes-1-y-2-se-establece-la-diferencia-de-potencial-vdelta-el-hilo-adquiere-una-carga-q-quese-reparte-uniformemente-por-el-hilo-como-una-densidad-lineal-de-cargalq-" data-for="12simplificación-adicional-puede-suponerse-que-en-equilibrio-el-hilo-es-prácticamente-recto-en-el-espaciocomprendido-entre-las-placas-como-se-representa-en-la-figura-5adetermine-el-módulo-del-campo-eléctrico-e-existente-entre-las-placas-a-y-b-en-función-de0v-y-dcuando-entre-los-bornes-1-y-2-se-establece-la-diferencia-de-potencial-vdelta-el-hilo-adquiere-una-carga-q-quese-reparte-uniformemente-por-el-hilo-como-una-densidad-lineal-de-cargalq-">1
+2
+simplificación adicional, puede suponerse que, en equilibrio, el hilo es prácticamente recto en el espacio
+comprendido entre las placas, como se representa en la figura 5.
+a)
+Determine el módulo del campo eléctrico E existente entre las placas A y B, en función de
+0
+V y d.
+Cuando entre los bornes 1 y 2 se establece la diferencia de potencial V
+\Delta
+, el hilo adquiere una carga q que
+se reparte uniformemente por el hilo como una densidad lineal de carga
+L
+q /</a></li><li class="depth-0"><a href="#lambda-la-parte-del-hilocomprendido-entre-las-placas-cuya-carga-esllambda--por-efecto-del-campo-eléctrico-uniforme-sufrirá-undesplazamiento-x-tal-como-se-muestra-en-la-figura-5bdeduzca-la-expresión-que-relaciona-el-desplazamiento-x-del-hilo-con-de-v0-l-l-d-t-y-qpara-modificar-el-rango-de-medidas-puede-modificarse-la-tensión-t-del-hilo-aunque-no-es-sencillodeterminar-su-valor-tampoco-es-fácil-encontrar-la-relación-entre-la-carga-del-hilo-y-la-diferencia-de-potencialvdeltaque-se-aplica-entre-los-bornes-del-electrómetro-sin-embargo-para-pequeños-valores-de-x-la-desviación-delhilo-y-el-voltaje-aplicadovdeltason-proporcionales-es-decirvkxdelta" data-for="lambda-la-parte-del-hilocomprendido-entre-las-placas-cuya-carga-esllambda--por-efecto-del-campo-eléctrico-uniforme-sufrirá-undesplazamiento-x-tal-como-se-muestra-en-la-figura-5bdeduzca-la-expresión-que-relaciona-el-desplazamiento-x-del-hilo-con-de-v0-l-l-d-t-y-qpara-modificar-el-rango-de-medidas-puede-modificarse-la-tensión-t-del-hilo-aunque-no-es-sencillodeterminar-su-valor-tampoco-es-fácil-encontrar-la-relación-entre-la-carga-del-hilo-y-la-diferencia-de-potencialvdeltaque-se-aplica-entre-los-bornes-del-electrómetro-sin-embargo-para-pequeños-valores-de-x-la-desviación-delhilo-y-el-voltaje-aplicadovdeltason-proporcionales-es-decirvkxdelta">\lambda
+. La parte del hilo
+comprendido entre las placas, cuya carga es
+l
+\lambda , por efecto del campo eléctrico uniforme sufrirá un
+desplazamiento x, tal como se muestra en la figura 5.
+b)
+Deduzca la expresión que relaciona el desplazamiento x del hilo, con de V0, L, l, d, T y q.
+Para modificar el rango de medidas puede modificarse la tensión T del hilo, aunque no es sencillo
+determinar su valor. Tampoco es fácil encontrar la relación entre la carga del hilo y la diferencia de potencial
+V
+\Delta
+que se aplica entre los bornes del electrómetro. Sin embargo, para pequeños valores de x, la desviación del
+hilo y el voltaje aplicado
+V
+\Delta
+son proporcionales, es decir
+V
+K
+x
+\Delta</a></li><li class="depth-0"><a href="#-suponga-que-mediante-una-operaciónprevia-de-calibrado-se-sabe-que-la-constante-deproporcionalidad-esmv105956-times" data-for="-suponga-que-mediante-una-operaciónprevia-de-calibrado-se-sabe-que-la-constante-deproporcionalidad-esmv105956-times">. Suponga que, mediante una operación
+previa de calibrado, se sabe que la constante de
+proporcionalidad es
+m/V
+10
+59
+,5
+6
+-
+\times</a></li><li class="depth-0"><a href="#ken-estas-condiciones-como-se-muestra-en-lafigura-6-se-unen-los-bornes-1-y-2-del-electrómetro-através-de-un-interruptor-i-a-las-armaduras-s-y-s-́-deun-condensador-plano-cargado-las-armaduras-soncirculares-de-radiom1500" data-for="ken-estas-condiciones-como-se-muestra-en-lafigura-6-se-unen-los-bornes-1-y-2-del-electrómetro-através-de-un-interruptor-i-a-las-armaduras-s-y-s-́-deun-condensador-plano-cargado-las-armaduras-soncirculares-de-radiom1500">K
+.
+En estas condiciones, como se muestra en la
+figura 6, se unen los bornes 1 y 2 del electrómetro, a
+través de un interruptor I, a las armaduras S y S ́ de
+un condensador plano cargado. Las armaduras son
+circulares, de radio
+m
+150
+,0</a></li><li class="depth-0"><a href="#r-y-están-separadasuna-distanciam1200" data-for="r-y-están-separadasuna-distanciam1200">r
+, y están separadas
+una distancia
+m
+120
+,0</a></li><li class="depth-0"><a href="#b-cuando-se-cierra-elinterruptor-i-se-observa-en-el-electrómetro-unadesviación-del-hilomm13901-xcdetermine-y-calcule-la-diferencia-de-potencial1vdeltaexistente-entre-las-armaduras-del-condensador-asícomo-su-carga1q--permitividad-dieléctrica-del-aire21212mnc10868---times" data-for="b-cuando-se-cierra-elinterruptor-i-se-observa-en-el-electrómetro-unadesviación-del-hilomm13901-xcdetermine-y-calcule-la-diferencia-de-potencial1vdeltaexistente-entre-las-armaduras-del-condensador-asícomo-su-carga1q--permitividad-dieléctrica-del-aire21212mnc10868---times">b
+. Cuando se cierra el
+interruptor I, se observa en el electrómetro una
+desviación del hilo
+mm
+139
+,0
+1 =
+x
+.
+c)
+Determine y calcule la diferencia de potencial
+1
+V
+\Delta
+existente entre las armaduras del condensador, así
+como su carga
+1
+Q . (Permitividad dieléctrica del aire:
+2
+1
+2
+12
+m
+N
+C
+10
+86
+,8
+-
+-
+-
+\times</a></li><li class="depth-0"><a href="#a-partir-del-instante-en-que-se-cierra-el-interruptor-i-se-observa-que-la-desviación-del-hilo1x-disminuyelentamente-hasta-anularse-lo-que-significa-que-la-diferencia-de-potencial-entre-las-placas-del-condensadordisminuye-con-el-mismo-ritmo-hasta-hacerse-cero-si-no-existiese-ningún-tipo-de-corriente-de-fuga-a-través-de-losmateriales-aislantes-del-montaje-el-fenómeno-se-debería-exclusivamente-a-que-algún-tipo-de-radiaciónsuficientemente-energética-ioniza-las-moléculas-del-gas-aire-existente-entre-las-placas-los-iones-positivosemigran-a-la-placa-negativa-y-los-negativos-a-la-positiva-y-paulatinamente-se-descarga-el-condensadordsi-el-tiempo-que-transcurre-desde-que-se-acciona-el-interruptor-hasta-que01-approxxess106673times" data-for="a-partir-del-instante-en-que-se-cierra-el-interruptor-i-se-observa-que-la-desviación-del-hilo1x-disminuyelentamente-hasta-anularse-lo-que-significa-que-la-diferencia-de-potencial-entre-las-placas-del-condensadordisminuye-con-el-mismo-ritmo-hasta-hacerse-cero-si-no-existiese-ningún-tipo-de-corriente-de-fuga-a-través-de-losmateriales-aislantes-del-montaje-el-fenómeno-se-debería-exclusivamente-a-que-algún-tipo-de-radiaciónsuficientemente-energética-ioniza-las-moléculas-del-gas-aire-existente-entre-las-placas-los-iones-positivosemigran-a-la-placa-negativa-y-los-negativos-a-la-positiva-y-paulatinamente-se-descarga-el-condensadordsi-el-tiempo-que-transcurre-desde-que-se-acciona-el-interruptor-hasta-que01-approxxess106673times">A partir del instante en que se cierra el interruptor I se observa que la desviación del hilo
+1x disminuye
+lentamente hasta anularse, lo que significa que la diferencia de potencial entre las placas del condensador
+disminuye con el mismo ritmo hasta hacerse cero. Si no existiese ningún tipo de corriente de fuga a través de los
+materiales aislantes del montaje, el fenómeno se debería exclusivamente a que algún tipo de radiación,
+suficientemente energética, ioniza las moléculas del gas (aire) existente entre las placas. Los iones positivos
+emigran a la placa negativa y los negativos a la positiva y, paulatinamente, se descarga el condensador.
+d)
+Si el tiempo que transcurre desde que se acciona el interruptor hasta que
+0
+1 \approx
+x
+es
+s
+10
+66
+,7
+3
+\times</a></li><li class="depth-0"><a href="#tau-ysuponiendo-que-la-descarga-del-condensador-se-deba-solo-a-ionizaciones-simples-del-aire-entre-susarmaduras-cada-molécula-ionizada-da-lugar-a-un-solo-electrón-y-a-un-ion-positivo-determine-y-calculeel-número-n-de-ionizaciones-que-se-realizan-por-segundo-y-por3cm-en-el-espacio-comprendido-entre-lasarmaduras-del-condensador-carga-elementalc10602119-times" data-for="tau-ysuponiendo-que-la-descarga-del-condensador-se-deba-solo-a-ionizaciones-simples-del-aire-entre-susarmaduras-cada-molécula-ionizada-da-lugar-a-un-solo-electrón-y-a-un-ion-positivo-determine-y-calculeel-número-n-de-ionizaciones-que-se-realizan-por-segundo-y-por3cm-en-el-espacio-comprendido-entre-lasarmaduras-del-condensador-carga-elementalc10602119-times">\tau
+, y
+suponiendo que la descarga del condensador se deba solo a ionizaciones simples del aire entre sus
+armaduras (cada molécula ionizada da lugar a un solo electrón y a un ion positivo), determine y calcule
+el número N de ionizaciones que se realizan por segundo y por
+3
+cm en el espacio comprendido entre las
+armaduras del condensador. (carga elemental
+C
+10
+602
+,1
+19
+-
+\times</a></li><li class="depth-0"><a href="#dve02" data-for="dve02">d
+V
+E
+0
+2</a></li><li class="depth-0"><a href="#dvlelf02lambdalambda" data-for="dvlelf02lambdalambda">d
+V
+l
+E
+l
+F
+0
+2
+\lambda
+\lambda</a></li><li class="depth-0"><a href="#0sen2" data-for="0sen2">0
+sen
+2</a></li><li class="depth-0"><a href="#-2tgllx-" data-for="-2tgllx-">(
+) 2
+/
+tg
+l
+L
+x
+-</a></li><li class="depth-0"><a href="#llxtdvl-" data-for="llxtdvl-">l
+L
+x
+T
+d
+V
+l
+-</a></li><li class="depth-0"><a href="#222-0lambdarightarrowtvdlllx20lambda-" data-for="222-0lambdarightarrowtvdlllx20lambda-">2
+2
+2 0
+\lambda
+\Rightarrow
+(
+)
+T
+V
+d
+l
+l
+L
+x
+2
+0
+\lambda
+-</a></li><li class="depth-0"><a href="#y-comolq-" data-for="y-comolq-">Y como
+L
+q /</a></li><li class="depth-0"><a href="#qtvldlllx20-" data-for="qtvldlllx20-">(
+)
+q
+T
+V
+Ld
+l
+l
+L
+x
+2
+0
+-</a></li><li class="depth-0"><a href="#12in-questo-caso-se-si-vuole-che-il-filo-sia-praticamente-retto-nello-spazio-si-può-supporre-che-il-filo-sia-in-equilibriocompreso-tra-le-targhe-come-illustrato-in-figura-5adetermina-il-modulo-del-campo-elettrico-e-esistente-tra-le-schede-a-e-b-in-base-a0v-y-dquando-si-stabilisce-la-differenza-di-potenziale-v-tra-i-terminali-1-e-2delta-il-filo-acquista-un-carico-q-chedistribuita-uniformemente-sul-filo-come-una-densità-lineare-di-caricolq-" data-for="12in-questo-caso-se-si-vuole-che-il-filo-sia-praticamente-retto-nello-spazio-si-può-supporre-che-il-filo-sia-in-equilibriocompreso-tra-le-targhe-come-illustrato-in-figura-5adetermina-il-modulo-del-campo-elettrico-e-esistente-tra-le-schede-a-e-b-in-base-a0v-y-dquando-si-stabilisce-la-differenza-di-potenziale-v-tra-i-terminali-1-e-2delta-il-filo-acquista-un-carico-q-chedistribuita-uniformemente-sul-filo-come-una-densità-lineare-di-caricolq-">1
+2
+In questo caso, se si vuole che il filo sia praticamente retto nello spazio, si può supporre che il filo sia in equilibrio.
+compreso tra le targhe, come illustrato in figura 5.
+a)
+Determina il modulo del campo elettrico E esistente tra le schede A e B, in base a
+0
+V y d.
+Quando si stabilisce la differenza di potenziale V tra i terminali 1 e 2
+\Delta
+, il filo acquista un carico q che
+distribuita uniformemente sul filo come una densità lineare di carico
+L
+q /</a></li><li class="depth-0"><a href="#lambda-la-parte-del-filocompreso-tra-le-lastre-il-cui-carico-èllambda--por-efecto-del-campo-eléctrico-uniforme-sufrirá-unspostamento-x-come-mostrato-nella-figura-5bdeduce-lespressione-che-relaziona-lo-spostamento-x-del-filo-con-di-v0-l-l-d-t-e-qper-modificare-la-gamma-di-misure-è-possibile-modificare-la-tensione-t-del-filo-anche-se-non-è-semplicedeterminare-il-suo-valore-non-è-facile-trovare-il-rapporto-tra-il-carico-del-filo-e-la-differenza-di-potenzialevdeltache-si-applica-tra-le-estremità-dellelettrometro-tuttavia-per-i-piccoli-valori-di-x-la-deviazione-delfilo-e-voltage-applicatovdeltasono-proporzionali-cioèvkxdelta" data-for="lambda-la-parte-del-filocompreso-tra-le-lastre-il-cui-carico-èllambda--por-efecto-del-campo-eléctrico-uniforme-sufrirá-unspostamento-x-come-mostrato-nella-figura-5bdeduce-lespressione-che-relaziona-lo-spostamento-x-del-filo-con-di-v0-l-l-d-t-e-qper-modificare-la-gamma-di-misure-è-possibile-modificare-la-tensione-t-del-filo-anche-se-non-è-semplicedeterminare-il-suo-valore-non-è-facile-trovare-il-rapporto-tra-il-carico-del-filo-e-la-differenza-di-potenzialevdeltache-si-applica-tra-le-estremità-dellelettrometro-tuttavia-per-i-piccoli-valori-di-x-la-deviazione-delfilo-e-voltage-applicatovdeltasono-proporzionali-cioèvkxdelta">\lambda
+. La parte del filo
+compreso tra le lastre, il cui carico è
+l
+\lambda , por efecto del campo eléctrico uniforme sufrirá un
+spostamento x, come mostrato nella figura 5.
+b)
+Deduce l’espressione che relaziona lo spostamento x del filo, con di V0, L, l, d, T e q.
+Per modificare la gamma di misure è possibile modificare la tensione T del filo, anche se non è semplice.
+determinare il suo valore. Non è facile trovare il rapporto tra il carico del filo e la differenza di potenziale
+V
+\Delta
+che si applica tra le estremità dell’elettrometro. Tuttavia, per i piccoli valori di x, la deviazione del
+Filo e voltage applicato
+V
+\Delta
+sono proporzionali, cioè
+V
+K
+x
+\Delta</a></li><li class="depth-0"><a href="#-supponiamo-che-mediante-unoperazionela-misurazione-precedente-è-stata-effettuata-con-unala-proporzionalità-èmv105956-times" data-for="-supponiamo-che-mediante-unoperazionela-misurazione-precedente-è-stata-effettuata-con-unala-proporzionalità-èmv105956-times">. Supponiamo che, mediante un’operazione
+La misurazione precedente è stata effettuata con una
+La proporzionalità è
+m/V
+10
+59
+,5
+6
+-
+\times</a></li><li class="depth-0"><a href="#kin-queste-condizioni-come-illustrato-nellafig-6-si-uniscono-i-terminali-1-e-2-dellelettrometro-aiinterruttore-i-gli-armature-s-e-s-diun-condensatore-piano-carico-le-armature-sonodi-radiocomunicazionim1500" data-for="kin-queste-condizioni-come-illustrato-nellafig-6-si-uniscono-i-terminali-1-e-2-dellelettrometro-aiinterruttore-i-gli-armature-s-e-s-diun-condensatore-piano-carico-le-armature-sonodi-radiocomunicazionim1500">K
+.
+In queste condizioni, come illustrato nella
+Fig. 6, si uniscono i terminali 1 e 2 dell’elettrometro, a
+I’interruttore I, gli armature S e S’ di
+un condensatore piano carico. Le armature sono
+di radiocomunicazioni
+m
+150
+,0</a></li><li class="depth-0"><a href="#r-e-sono-separatiuna-distanzam1200" data-for="r-e-sono-separatiuna-distanzam1200">r
+, e sono separati
+una distanza
+m
+120
+,0</a></li><li class="depth-0"><a href="#b-quando-si-chiude-ilil-computo-di-uninterruttore-i-è-osservato-nellelettrometro-asbiadimento-del-filomm13901-xcdetermina-e-calcola-la-differenza-di-potenziale1vdeltaesistente-tra-le-armature-del-condensatore-cosìcome-carico1q--permitività-dellaria-dielettrica21212mnc10868---times" data-for="b-quando-si-chiude-ilil-computo-di-uninterruttore-i-è-osservato-nellelettrometro-asbiadimento-del-filomm13901-xcdetermina-e-calcola-la-differenza-di-potenziale1vdeltaesistente-tra-le-armature-del-condensatore-cosìcome-carico1q--permitività-dellaria-dielettrica21212mnc10868---times">b
+. Quando si chiude il
+Il computo di un’interruttore I è osservato nell’elettrometro a
+sbiadimento del filo
+mm
+139
+,0
+1 =
+x
+.
+c)
+Determina e calcola la differenza di potenziale
+1
+V
+\Delta
+esistente tra le armature del condensatore, così
+Come carico
+1
+Q . (Permitività dell’aria dielettrica:
+2
+1
+2
+12
+m
+N
+C
+10
+86
+,8
+-
+-
+-
+\times</a></li><li class="depth-0"><a href="#dal-momento-in-cui-si-chiude-il-interruttore-i-si-osserva-che-la-deviazione-del-filo1x-diminuiscelentamente-fino-a-che-si-annulla-il-che-significa-che-la-differenza-di-potenziale-tra-le-plache-del-condensatorediminuisce-allo-stesso-ritmo-fino-a-diventare-zero-se-non-esistesse-alcuna-corrente-di-fuga-attraverso-ila-presenza-di-materiali-isolanti-nellassemblaggio-è-dovuta-esclusivamente-a-che-tipo-di-radiazionisufficientemente-energetica-ionizza-le-molecole-di-gas-aria-che-esistono-tra-le-placche-ioni-positivie-poi-il-condensatore-si-scaricadse-il-tempo-che-passa-dal-momento-in-cui-si-attiva-il-interruttore-fino-a-quando01-approxxess106673times" data-for="dal-momento-in-cui-si-chiude-il-interruttore-i-si-osserva-che-la-deviazione-del-filo1x-diminuiscelentamente-fino-a-che-si-annulla-il-che-significa-che-la-differenza-di-potenziale-tra-le-plache-del-condensatorediminuisce-allo-stesso-ritmo-fino-a-diventare-zero-se-non-esistesse-alcuna-corrente-di-fuga-attraverso-ila-presenza-di-materiali-isolanti-nellassemblaggio-è-dovuta-esclusivamente-a-che-tipo-di-radiazionisufficientemente-energetica-ionizza-le-molecole-di-gas-aria-che-esistono-tra-le-placche-ioni-positivie-poi-il-condensatore-si-scaricadse-il-tempo-che-passa-dal-momento-in-cui-si-attiva-il-interruttore-fino-a-quando01-approxxess106673times">Dal momento in cui si chiude il interruttore I si osserva che la deviazione del filo
+1x diminuisce
+lentamente fino a che si annulla, il che significa che la differenza di potenziale tra le plache del condensatore
+diminuisce allo stesso ritmo fino a diventare zero. Se non esistesse alcuna corrente di fuga attraverso i
+La presenza di materiali isolanti nell’assemblaggio è dovuta esclusivamente a che tipo di radiazioni,
+sufficientemente energetica, ionizza le molecole di gas (aria) che esistono tra le placche. Ioni positivi
+E poi il condensatore si scarica.
+d)
+Se il tempo che passa dal momento in cui si attiva il interruttore fino a quando
+0
+1 \approx
+x
+es
+s
+10
+66
+,7
+3
+\times</a></li><li class="depth-0"><a href="#tau-ysupponiamo-che-il-discarico-del-condensatore-sia-dovuto-solo-a-semplici-ionizzazioni-dellaria-tra-i-suoiarmature-ogni-molecola-ionizzata-produce-un-singolo-elettrone-e-un-ion-positivo-determinare-e-calcolareil-numero-n-di-ionizzazioni-effettuate-per-secondo-e-per3cm-nello-spazio-tra-learmature-del-condensatore-carga-elementarec10602119-times" data-for="tau-ysupponiamo-che-il-discarico-del-condensatore-sia-dovuto-solo-a-semplici-ionizzazioni-dellaria-tra-i-suoiarmature-ogni-molecola-ionizzata-produce-un-singolo-elettrone-e-un-ion-positivo-determinare-e-calcolareil-numero-n-di-ionizzazioni-effettuate-per-secondo-e-per3cm-nello-spazio-tra-learmature-del-condensatore-carga-elementarec10602119-times">\tau
+, y
+Supponiamo che il discarico del condensatore sia dovuto solo a semplici ionizzazioni dell’aria tra i suoi
+Armature (ogni molecola ionizzata produce un singolo elettrone e un ion positivo), determinare e calcolare
+il numero N di ionizzazioni effettuate per secondo e per
+3
+cm nello spazio tra le
+armature del condensatore. (carga elementare)
+C
+10
+602
+,1
+19
+-
+\times</a></li><li class="depth-0"><a href="#dve02-1" data-for="dve02-1">d
+V
+E
+0
+2</a></li><li class="depth-0"><a href="#dvlelf02lambdalambda-1" data-for="dvlelf02lambdalambda-1">d
+V
+l
+E
+l
+F
+0
+2
+\lambda
+\lambda</a></li><li class="depth-0"><a href="#0sen2-1" data-for="0sen2-1">0
+sen
+2</a></li><li class="depth-0"><a href="#-2tgllx--1" data-for="-2tgllx--1">(
+) 2
+/
+tg
+l
+L
+x
+-</a></li><li class="depth-0"><a href="#llxtdvl--1" data-for="llxtdvl--1">l
+L
+x
+T
+d
+V
+l
+-</a></li><li class="depth-0"><a href="#222-0lambdarightarrowtvdlllx20lambda--1" data-for="222-0lambdarightarrowtvdlllx20lambda--1">2
+2
+2 0
+\lambda
+\Rightarrow
+(
+)
+T
+V
+d
+l
+l
+L
+x
+2
+0
+\lambda
+-</a></li><li class="depth-0"><a href="#e-comelq-" data-for="e-comelq-">E come
+L
+q /</a></li><li class="depth-0"><a href="#qtvldlllx20--1" data-for="qtvldlllx20--1">(
+)
+q
+T
+V
+Ld
+l
+l
+L
+x
+2
+0
+-</a></li><li class="depth-0"><a href="#12further-simplification-it-can-be-assumed-that-in-equilibrium-the-thread-is-practically-straight-in-spacecomprised-between-the-plates-as-shown-in-figure-5adetermine-the-electric-field-module-e-between-plates-a-and-b-based-on0v-y-dwhen-the-potential-difference-v-is-established-between-terminals-1-and-2delta-the-thread-acquires-a-charge-q-whichis-evenly-distributed-over-the-wire-as-a-linear-load-densitylq-" data-for="12further-simplification-it-can-be-assumed-that-in-equilibrium-the-thread-is-practically-straight-in-spacecomprised-between-the-plates-as-shown-in-figure-5adetermine-the-electric-field-module-e-between-plates-a-and-b-based-on0v-y-dwhen-the-potential-difference-v-is-established-between-terminals-1-and-2delta-the-thread-acquires-a-charge-q-whichis-evenly-distributed-over-the-wire-as-a-linear-load-densitylq-">1
+2
+Further simplification, it can be assumed that, in equilibrium, the thread is practically straight in space
+comprised between the plates as shown in Figure 5.
+a)
+Determine the electric field module E between plates A and B, based on
+0
+V y d.
+When the potential difference V is established between terminals 1 and 2
+\Delta
+, the thread acquires a charge q which
+is evenly distributed over the wire as a linear load density
+L
+q /</a></li><li class="depth-0"><a href="#lambda-the-part-of-the-threadthe-weight-of-the-plate-shall-bellambda--por-efecto-del-campo-eléctrico-uniforme-sufrirá-undisplacement-x-as-shown-in-figure-5bsubtract-the-expression-relating-the-motion-x-of-the-wire-with-v0-l-l-d-t-and-qthe-t-tension-of-the-wire-can-be-changed-to-change-the-range-of-measurements-although-this-is-not-easydetermine-its-value-it-is-also-not-easy-to-find-the-relationship-between-the-thread-load-and-the-potential-differencevdeltawhich-is-applied-between-the-electrometer-terminals-however-for-small-values-of-x-the-deviation-of-thewire-and-applied-voltagevdeltaare-proportional-ievkxdelta" data-for="lambda-the-part-of-the-threadthe-weight-of-the-plate-shall-bellambda--por-efecto-del-campo-eléctrico-uniforme-sufrirá-undisplacement-x-as-shown-in-figure-5bsubtract-the-expression-relating-the-motion-x-of-the-wire-with-v0-l-l-d-t-and-qthe-t-tension-of-the-wire-can-be-changed-to-change-the-range-of-measurements-although-this-is-not-easydetermine-its-value-it-is-also-not-easy-to-find-the-relationship-between-the-thread-load-and-the-potential-differencevdeltawhich-is-applied-between-the-electrometer-terminals-however-for-small-values-of-x-the-deviation-of-thewire-and-applied-voltagevdeltaare-proportional-ievkxdelta">\lambda
+. The part of the thread
+The weight of the plate shall be:
+l
+\lambda , por efecto del campo eléctrico uniforme sufrirá un
+displacement x, as shown in Figure 5.
+b)
+Subtract the expression relating the motion x of the wire, with V0, L, l, d, T and q.
+The T-tension of the wire can be changed to change the range of measurements, although this is not easy.
+determine its value. It is also not easy to find the relationship between the thread load and the potential difference
+V
+\Delta
+which is applied between the electrometer terminals. However, for small values of x, the deviation of the
+Wire and applied voltage
+V
+\Delta
+are proportional, i.e.
+V
+K
+x
+\Delta</a></li><li class="depth-0"><a href="#-suppose-that-by-an-operationthe-first-is-the-calibration-of-theproportionality-ismv105956-times" data-for="-suppose-that-by-an-operationthe-first-is-the-calibration-of-theproportionality-ismv105956-times">. Suppose that, by an operation,
+The first is the calibration of the
+Proportionality is
+m/V
+10
+59
+,5
+6
+-
+\times</a></li><li class="depth-0"><a href="#kin-these-conditions-as-shown-in-thefigure-6-the-electrometer-terminals-1-and-2-are-joined-athrough-a-switch-i-to-the-s-and-s-armora-flat-capacitor-loaded-armour-isradiocommunicationm1500" data-for="kin-these-conditions-as-shown-in-thefigure-6-the-electrometer-terminals-1-and-2-are-joined-athrough-a-switch-i-to-the-s-and-s-armora-flat-capacitor-loaded-armour-isradiocommunicationm1500">K
+.
+In these conditions, as shown in the
+Figure 6, the electrometer terminals 1 and 2 are joined, a
+through a switch I, to the S and S’ armor
+A flat capacitor loaded. Armour is
+Radiocommunication
+m
+150
+,0</a></li><li class="depth-0"><a href="#r-and-they-re-separateda-distancem1200" data-for="r-and-they-re-separateda-distancem1200">r
+, and they ‘re separated
+a distance
+m
+120
+,0</a></li><li class="depth-0"><a href="#b-when-thethe-switch-i-is-observed-on-the-electrometer-adeviation-of-the-threadmm13901-xcdetermine-and-calculate-the-potential-difference1vdeltaexisting-between-the-capacitor-armor-as-wellas-its-burden1q--dielectrical-permeability-of-the-air21212mnc10868---times" data-for="b-when-thethe-switch-i-is-observed-on-the-electrometer-adeviation-of-the-threadmm13901-xcdetermine-and-calculate-the-potential-difference1vdeltaexisting-between-the-capacitor-armor-as-wellas-its-burden1q--dielectrical-permeability-of-the-air21212mnc10868---times">b
+. When the
+The switch I is observed on the electrometer a
+deviation of the thread
+mm
+139
+,0
+1 =
+x
+.
+c)
+Determine and calculate the potential difference
+1
+V
+\Delta
+existing between the capacitor armor, as well
+as its burden
+1
+Q . (Dielectrical permeability of the air:
+2
+1
+2
+12
+m
+N
+C
+10
+86
+,8
+-
+-
+-
+\times</a></li><li class="depth-0"><a href="#from-the-moment-the-switch-i-is-closed-the-deviation-of-the-wire-is-observed1x-decreasesslowly-until-it-cancels-which-means-that-the-potential-difference-between-the-capacitor-platesit-decreases-at-the-same-rate-until-it-becomes-zero-if-there-were-no-current-of-any-kind-to-leak-through-thethe-phenomenon-is-due-exclusively-to-some-kind-of-radiationthe-energy-content-of-the-gas-air-between-the-plates-is-sufficiently-high-positive-ionsthe-negative-ones-migrate-to-the-negative-plate-and-the-negative-ones-migrate-to-the-positive-plate-and-gradually-the-capacitor-dischargesdif-the-time-elapsed-from-the-switch-being-switched-on-until-the01-approxxess106673times" data-for="from-the-moment-the-switch-i-is-closed-the-deviation-of-the-wire-is-observed1x-decreasesslowly-until-it-cancels-which-means-that-the-potential-difference-between-the-capacitor-platesit-decreases-at-the-same-rate-until-it-becomes-zero-if-there-were-no-current-of-any-kind-to-leak-through-thethe-phenomenon-is-due-exclusively-to-some-kind-of-radiationthe-energy-content-of-the-gas-air-between-the-plates-is-sufficiently-high-positive-ionsthe-negative-ones-migrate-to-the-negative-plate-and-the-negative-ones-migrate-to-the-positive-plate-and-gradually-the-capacitor-dischargesdif-the-time-elapsed-from-the-switch-being-switched-on-until-the01-approxxess106673times">From the moment the switch I is closed, the deviation of the wire is observed.
+1x decreases
+slowly until it cancels, which means that the potential difference between the capacitor plates
+It decreases at the same rate until it becomes zero. If there were no current of any kind to leak through the
+The phenomenon is due exclusively to some kind of radiation,
+The energy content of the gas (air) between the plates is sufficiently high. Positive ions
+The negative ones migrate to the negative plate and the negative ones migrate to the positive plate and gradually the capacitor discharges.
+d)
+If the time elapsed from the switch being switched on until the
+0
+1 \approx
+x
+es
+s
+10
+66
+,7
+3
+\times</a></li><li class="depth-0"><a href="#tau-yassuming-that-the-discharge-of-the-condenser-is-due-only-to-simple-ionization-of-air-between-itsarmorations-each-ionized-molecule-yields-a-single-electron-and-a-positive-ion-determine-and-calculatethe-number-of-ionizations-per-second-and-per3cm-in-the-space-between-thethe-capacitor-armor-elementary-chargec10602119-times" data-for="tau-yassuming-that-the-discharge-of-the-condenser-is-due-only-to-simple-ionization-of-air-between-itsarmorations-each-ionized-molecule-yields-a-single-electron-and-a-positive-ion-determine-and-calculatethe-number-of-ionizations-per-second-and-per3cm-in-the-space-between-thethe-capacitor-armor-elementary-chargec10602119-times">\tau
+, y
+assuming that the discharge of the condenser is due only to simple ionization of air between its
+Armorations (each ionized molecule yields a single electron and a positive ion), determine and calculate
+the number of ionizations per second and per
+3
+cm in the space between the
+the capacitor armor. (Elementary charge)
+C
+10
+602
+,1
+19
+-
+\times</a></li><li class="depth-0"><a href="#dve02-2" data-for="dve02-2">d
+V
+E
+0
+2</a></li><li class="depth-0"><a href="#dvlelf02lambdalambda-2" data-for="dvlelf02lambdalambda-2">d
+V
+l
+E
+l
+F
+0
+2
+\lambda
+\lambda</a></li><li class="depth-0"><a href="#0other2" data-for="0other2">0
+Other
+2</a></li><li class="depth-0"><a href="#-2tgllx--2" data-for="-2tgllx--2">(
+) 2
+/
+tg
+l
+L
+x
+-</a></li><li class="depth-0"><a href="#llxtdvl--2" data-for="llxtdvl--2">l
+L
+x
+T
+d
+V
+l
+-</a></li><li class="depth-0"><a href="#222-0lambdarightarrowtvdlllx20lambda--2" data-for="222-0lambdarightarrowtvdlllx20lambda--2">2
+2
+2 0
+\lambda
+\Rightarrow
+(
+)
+T
+V
+d
+l
+l
+L
+x
+2
+0
+\lambda
+-</a></li><li class="depth-0"><a href="#and-howlq-" data-for="and-howlq-">And how
+L
+q /</a></li><li class="depth-0"><a href="#qtvldlllx20--2" data-for="qtvldlllx20--2">(
+)
+q
+T
+V
+Ld
+l
+l
+L
+x
+2
+0
+-</a></li><li class="overflow-end"></li></ul></div></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/battery-(object)" class="internal">Battery</a></li><li><a href="../objects/capacitor-(object)" class="internal">Capacitor</a></li><li><a href="../objects/switch-(object)" class="internal">Switch</a></li><li><a href="../objects/wire-(object)" class="internal">Wire</a></li><li><a href="../prove/p2-oef-2012" class="internal">Spagna 2012</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

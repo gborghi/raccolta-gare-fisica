@@ -1,0 +1,1389 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr"><head><title>Argent 2019 — Quesito 3</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="Argent 2019 — Quesito 3"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Argent 2019 — Quesito 3"/><meta name="twitter:description" content="Problema 3 Dos cargas puntuales negativas (Q_1) están separadas una distancia 2a."/><meta property="og:description" content="Problema 3 Dos cargas puntuales negativas (Q_1) están separadas una distancia 2a."/><meta property="og:image:alt" content="Problema 3 Dos cargas puntuales negativas (Q_1) están separadas una distancia 2a."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/2019_2da_prueba_preparatoria__q03"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/2019_2da_prueba_preparatoria__q03"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Problema 3 Dos cargas puntuales negativas (Q_1) están separadas una distancia 2a."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/2019_2da_prueba_preparatoria__q03" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-3604" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-3604" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Argent 2019 — Quesito 3</a></div></nav><h1 class="article-title">Argent 2019 — Quesito 3</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/kg/prova" class="internal internal-link tag-link">kg/prova</a><span class="note-properties-separator">, </span><a href="../tags/paese/argentina" class="internal internal-link tag-link">paese/argentina</a><span class="note-properties-separator">, </span><a href="../tags/comp/argent" class="internal internal-link tag-link">comp/argent</a><span class="note-properties-separator">, </span><a href="../tags/cluster/termodinamica" class="internal internal-link tag-link">cluster/termodinamica</a><span class="note-properties-separator">, </span><a href="../tags/object/point-charge" class="internal internal-link tag-link">object/point-charge</a><span class="note-properties-separator">, </span><a href="../tags/object/electron" class="internal internal-link tag-link">object/electron</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:27:49.120Z">02 lug 2026</time><span>24 minuti</span></p><ul class="tags"><li><a href="../tags/kg/prova" class="internal tag-link">kg/prova</a></li><li><a href="../tags/paese/argentina" class="internal tag-link">paese/argentina</a></li><li><a href="../tags/comp/argent" class="internal tag-link">comp/argent</a></li><li><a href="../tags/cluster/termodinamica" class="internal tag-link">cluster/termodinamica</a></li><li><a href="../tags/object/point-charge" class="internal tag-link">object/point-charge</a></li><li><a href="../tags/object/electron" class="internal tag-link">object/electron</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="es"></div>
+<p>Problema 3</p>
+<p>Dos cargas puntuales negativas (<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>) están separadas una distancia <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">2</span><span class="mord mathnormal">a</span></span></span></span>. Por el punto
+medio del segmento que las une se traza un plano perpendicular al mismo. Sobre este
+plano, una carga <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> está realizando un movimiento circular uniforme de radio <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">a</span></span></span></span>.</p>
+<p>a) Si <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> es un electrón y <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">a</span></span></span></span> es igual a 1 nm ¿cuál es el módulo y dirección del campo
+eléctrico generado por las dos cargas <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> en el sitio de la carga <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>?</p>
+<p>b) ¿Cuál debe ser el signo de la carga <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> para que esta realice el movimiento
+circular descripto?</p>
+<p>Si el valor absoluto de la carga <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> es equivalente a la del electrón, su signo el
+determinado en el punto anterior y su masa es equivalente a la de un protón:</p>
+<p>c) ¿cuál es la velocidad de la carga <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>?</p>
+<p>Datos
+Carga del electrón: <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">−</span><span class="mord">1</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">602</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">19</span></span></span></span></span></span></span></span></span></span></span></span> C
+Masa del electrón: <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">9</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">109</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">31</span></span></span></span></span></span></span></span></span></span></span></span> kg
+Masa del protón: <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">1</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">673</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">27</span></span></span></span></span></span></span></span></span></span></span></span> kg
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal" style="margin-right:0.0315em;">k</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">8</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">988</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1.1373em;vertical-align:-0.25em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">9</span></span></span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord"><span class="mord text"><span class="mord">N m</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8873em;"><span style="top:-3.1362em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mord">/</span><span class="mord"><span class="mord text"><span class="mord">C</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8873em;"><span style="top:-3.1362em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>
+1 Nm = <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">9</span></span></span></span></span></span></span></span></span></span></span></span> m (nanometro).
+Problema Teórico 1
+Hoja de Respuesta
+Inciso</p>
+<p>Puntaje
+a)</p>
+<p>b)</p>
+<p>c)</p>
+<p>d)
+Problema Teórico 2
+Hoja de Respuesta
+Inciso</p>
+<p>Puntaje
+a)</p>
+<p>b)</p>
+<p>c)
+Problema Teórico 3
+Hoja de Respuesta
+Inciso</p>
+<p>Puntaje
+a)</p>
+<p>b)</p>
+<p>c)
+Olimpíada Argentina de Física</p>
+<p>Pruebas Preparatorias
+Segunda Prueba:
+Termodinámica, Electricidad y Magnetismo
+Parte Experimental</p>
+<p>Nombre: …</p>
+<p>DNI: …</p>
+<p>Escuela: …</p>
+<ul>
+<li>Antes de comenzar a resolver la prueba lea cuidadosamente TODO
+el enunciado de la misma.</li>
+<li>Escriba su nombre y su número de DNI en el sitio indicado. No
+escriba su nombre en ningún otro sitio de la prueba.</li>
+<li>No escriba respuestas en las hojas del enunciado pues no serán
+consideradas.</li>
+<li>Escriba en un solo lado de las hojas.
+Algo de <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">c</span><span class="mord mathnormal">a</span><span class="mord mathnormal" style="margin-right:0.0197em;">l</span><span class="mord mathnormal" style="margin-right:0.0278em;">or</span><span class="mord mathnormal">im</span><span class="mord mathnormal">e</span><span class="mord mathnormal">t</span><span class="mord mathnormal" style="margin-right:0.0278em;">r</span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6944em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord latin_fallback">ı</span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="accent-body" style="left:-0.25em;"><span class="mord">ˊ</span></span></span></span></span></span></span><span class="mord mathnormal">a</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="minner">…</span></span></span></span> un “casi-calorímetro” de Bunsen!!!</li>
+</ul>
+<p>Un calorímetro es un instrumento de medición con el cual se pueden realizar los
+experimentos necesarios para determinar la capacidad calorífica de alguna substancia; en
+otras palabras, sirve para medir “calor”.</p>
+<p>Entre los numerosos calorímetros que
+se han inventado está el de Bunsen. El
+mismo consiste en un recipiente lleno
+de hielo en fusión, que tiene en su
+interior una “burbuja” de vidrio (porta
+muestra), la cual está en contacto
+térmico con el hielo. El hielo fundente
+está en contacto con mercurio que llega
+hasta el tubo capilar. A su vez, TODO
+está sumergido en hielo fundente.</p>
+<p>Cuando se introduce una muestra a una temperatura <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.1389em;">T</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3117em;"><span style="top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">i</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>, en el porta muestra, parte del
+hielo se funde y la muestra alcanza los <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">0</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span>; la mezcla agua-hielo cambia de volumen
+porque el hielo es menos denso que el agua. Este cambio de volumen se determina
+mediante el cambio en la posición del menisco de mercurio en el tubo capilar; recordemos
+que 1 g de agua a <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">0</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span> ocupa <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mspace"> </span><span class="mord"><span class="mord text"><span class="mord">cm</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span></span></span></span>, mientras que 1 g de hielo ocupa <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0085em;vertical-align:-0.1944em;"></span><span class="mord">1</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">09</span><span class="mspace"> </span><span class="mord"><span class="mord text"><span class="mord">cm</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span></span></span></span>. De este
+modo se determina la cantidad de calor que entregó la muestra y así se puede determinar
+su capacidad calorífica.</p>
+<p>PARTE A
+Analice el principio de funcionamiento del calorímetro de Bunsen, encuentre la expresión
+matemática que vincula el calor específico de la sustancia que compone la muestra y el
+desplazamiento del menisco (cambio de volumen de la mezcla de agua con hielo).</p>
+<p>PARTE B: CONSTRUCCIÓN DEL “CASI-CALORÍMETRO” DE BUNSEN.
+Para hacerlo puede utilizar:</p>
+<ul>
+<li>como contenedor de hielo fundente: un matraz de boca ancha o un frasco de
+mermelada/café en cuya tapa se realizaran los agujeros necesarios para instalar el
+porta muestra y el capilar.</li>
+<li>como capilar: un tubito fino transparente (el más fino del que se disponga), puede
+ser el que contiene la tinta en un bolígrafo/lapicera/portaminas o mangueritas muy
+finas. La disposición del tubo óptima es la horizontal (recomendado), aunque
+también puede instalarse en forma vertical.</li>
+<li>como porta muestra: puede ser un tubo de ensayo, un tubito plástico pequeño, la
+tapa de un lápiz de labios, de maquillaje, un tubito de “boligoma”, una jeringa
+tapada en donde va la aguja y sin embolo (OJO: en casos como el último, cuidado
+con las pérdidas).</li>
+<li>como sellador para evitar la pérdida de mezcla fundente: cola de carpintero,
+silicona, cera de vela, masilla, plastilina, etc. Los lugares de la tapa del frasco en
+los cuales se instalaron el capilar y el tubo porta muestras y la tapa misma,
+deben quedar correctamente sellados.</li>
+<li>para minimizar las pérdidas de calor deberá sumergir el dispositivo construido
+hasta aquí en otra mezcla de agua con hielo. Para ello puede utilizar algún tacho
+mediano/grande de telgopor, de plástico o una olla. OJO: la boca del capilar y
+del porta muestra no deben quedar sumergidas.
+Nota B1: a diferencia del calorímetro original de Bunsen, no utilizaremos mercurio.
+Para realizar la medición del cambio de volumen, en nuestro “casi-calorímetro” de
+Bunsen, el agua de la mezcla actuará como “pistón” e indicador en el tubo capilar.
+Nota B2: si lo considera necesario puede implementar una tapa para el porta
+muestra.
+Nota B3: necesitará mucho hielo.</li>
+</ul>
+<p>PARTE C: UTILIZAR EL CALORÍMETRO CONSTRUIDO.</p>
+<ol>
+<li>Realice mediciones utilizando masas determinadas de agua a temperatura
+conocida, por ejemplo a <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">100</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span>. Repita las mediciones para cada masa, use al
+menos 5 masas diferentes.</li>
+<li>Verifique que el desplazamiento del “menisco de agua” en el tubo capilar es el
+esperado para las distintas masas usadas. Calibre el calorímetro considerando
+conocida la capacidad calorífica especifica del agua y el calor de fusión del hielo.</li>
+<li>Realice mediciones utilizando masas determinadas de aceite de cocina o de
+algún otro líquido, a temperatura conocida (por ejemplo <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">100</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span>). Repita las
+mediciones para cada masa.</li>
+<li>Determine el calor específico del aceite de cocina o del líquido que utilizó.</li>
+</ol>
+<p>Nota C1: Para determinar la masa de los líquidos muestra puede utilizar una
+balanza o una jeringa o una pipeta, siempre y cuando conozca las densidades de
+los mismos.
+Nota C2: Para calentar el “líquido muestra”, hasta los <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">100</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span>, puede utilizar un baño
+maría.
+Nota C3: no utilice líquidos inflamables.
+Problema Experimental
+Hoja de respuestas.
+Inciso</p>
+<p>Puntaje
+PARTE A</p>
+<p>PARTE B</p>
+<p>PARTE C</p>
+<ol>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol>
+<p>Problema Teórico 1
+Hoja de Respuesta
+Inciso</p>
+<p>Puntaje
+a)</p>
+<p>2 ptos.
+b)</p>
+<p>3 ptos.
+c)</p>
+<p>3 ptos.
+d)</p>
+<p>2 ptos.
+Problema Teórico 2
+Hoja de Respuesta
+Inciso</p>
+<p>Puntaje
+a)</p>
+<p>3 ptos.
+b)</p>
+<p>3 ptos.
+c)</p>
+<p>4 ptos.
+Problema Teórico 3
+Hoja de Respuesta
+Inciso</p>
+<p>Puntaje
+a)</p>
+<p>4 ptos.
+b)</p>
+<p>2 ptos.
+c)</p>
+<p>4 ptos.
+Pruebas Preparatorias</p>
+<p>Resolución Problema teórico 1.</p>
+<p>En todos los cálculos es necesario uniformizar las unidades.
+a)
+La masa de nitrógeno líquido es</p>
+<p>kg
+l
+l
+kg
+V
+m
+NL
+NL
+NL
+035
+,4
+5
+807
+,0
+2
+2
+2</p>
+<p>La masa de nitrógeno gaseoso es</p>
+<p>moles
+K
+K
+mol
+J
+l
+atm
+T
+R
+V
+P
+nN
+791
+,0
+77
+31
+,8
+5
+1
+2</p>
+<p>kg
+uma
+kg
+mol
+uma
+mol
+mN
+022
+,0
+10
+6605
+,1
+10
+022
+,6
+0067
+,
+14
+2
+791
+,0
+27
+1
+23
+2</p>
+<p>b)
+El calor cedido por el aluminio al enfriarse vaporiza LN2.</p>
+<p>0
+1
+)
+(
+2</p>
+<p>v
+N
+i
+f
+Al
+Al
+C
+m
+T
+T
+C
+m</p>
+<p>Donde m1N2 es la masa de LN2 que se vaporiza. Si esta masa es menor a la masa total
+de LN2 entonces el estado final será parte del nitrógeno en estado líquido, parte en
+estado gaseoso y el cubo de aluminio todo a una temperatura de 77 K. En caso de que la
+masa sea mayor a la masa inicial de LN2 se deberá plantear la ecuación teniendo en
+cuenta la vaporización de toda la masa inicial de LN2 y el calentamiento del gas N2.
+kg
+kg
+kJ
+K
+K
+K
+g
+cal
+g
+C
+T
+T
+C
+m
+m
+v
+i
+f
+Al
+Al
+N
+099
+,0
+202
+)
+300
+77
+(
+214
+,0
+100
+)
+(
+1
+2</p>
+<p>Como esta masa es menor a la masa inicial de LN2 entonces vemos que al introducir el
+cubo de aluminio sólo se vaporiza una parte del LN2. Entonces en el termo queda</p>
+<p>kg
+kg
+kg
+mfLN
+936
+,3
+099
+,0
+035
+,4
+2</p>
+
+<p><img src="../_attachments/2019_2da_prueba_preparatoria/2019_2da_prueba_preparatoria_p4_f2.png" alt width="auto" height="auto"/>
+<em>geometria due cariche Q1 e orbita Q2</em></p>
+
+
+<p><img src="../_attachments/2019_2da_prueba_preparatoria/2019_2da_prueba_preparatoria_p21_f4.png" alt width="auto" height="auto"/>
+<em>campi elettrici delle due cariche Q1</em></p>
+
+
+<p><img src="../_attachments/2019_2da_prueba_preparatoria/2019_2da_prueba_preparatoria_p21_f5.png" alt width="auto" height="auto"/>
+<em>campo elettrico totale ET nel piano</em></p>
+
+<p><strong>Topic:</strong> <a href="../topics/electrostatics" class="internal internal-link" data-slug="topics/electrostatics">Electrostatics</a>, <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>
+<strong>Metodi:</strong> <a href="../methods/coulomb's-law-(metodo)" class="internal internal-link alias" data-slug="methods/coulomb's-law-(metodo)">Coulomb’s Law</a>, <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>, <a href="../methods/vector-decomposition-(metodo)" class="internal internal-link alias" data-slug="methods/vector-decomposition-(metodo)">Vector Decomposition</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/diagrammatic-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/diagrammatic-reasoning-(competenza)">Diagrammatic Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/point-charge-(object)" class="internal internal-link alias" data-slug="objects/point-charge-(object)">Point Charge</a>, <a href="../objects/electron-(object)" class="internal internal-link alias" data-slug="objects/electron-(object)">Electron</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1GDngoBRFe8vXnCkCeAOmqb_ADynP3EyP/view" class="external external-link">Testo (PDF) — p.4<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<h2 id="figure">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-1">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-2">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-3">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-3" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-4">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-4" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-5">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-5" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-6">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-6" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-7">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-7" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-8">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-8" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-9">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-9" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-10">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-10" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-11">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-11" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-12">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-12" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+<p><strong>p.9</strong> — calorimetro di Bunsen sezione trasversale</p>
+
+
+<p><strong>p.25</strong> — curva di calibrazione calorimetro Qi vs Delta L</p>
+
+
+<p><strong>p.27</strong> — foto coperchio barattolo con cannuccia</p>
+
+
+<p><strong>p.28</strong> — foto calorimetro barattolo con termometro</p>
+
+
+<p><strong>p.29</strong> — foto barattolo calorimetro completo</p>
+
+
+<p><strong>p.30</strong> — foto coperchio dal basso con cannuccia</p>
+
+
+<p><strong>p.31</strong> — foto calorimetro in secchio di ghiaccio</p>
+
+
+<p><strong>p.32</strong> — foto calorimetro immerso nel ghiaccio</p>
+
+
+<p><strong>p.33</strong> — foto secchio ghiaccio con cannuccia</p>
+
+
+<p><strong>p.34</strong> — foto cannuccia capillare misurazione</p>
+
+
+<p><strong>p.35</strong> — illustrazione becco Bunsen con fiamma</p>
+
+
+<p><strong>p.36</strong> — becco Bunsen originale disegno storico</p>
+
+
+<p><strong>p.36</strong> — spettroscopio Kirchhoff e Bunsen originale</p>
+
+
+<p><strong>p.37</strong> — calorimetri Lavoisier e Bunsen storici</p>
+
+
+<p><strong>p.37</strong> — calorimetro vapore Bunsen sezione</p>
+
+
+<p><strong>p.38</strong> — dispositivo Draper e pila Bunsen</p>
+
+
+<p><strong>p.38</strong> — pila Bunsen al carbonio disegno storico</p>
+
+
+<p><strong>p.39</strong> — pompe Sprengel e Bunsen per vuoto</p>
+
+
+<p><strong>p.39</strong> — apparato filtrazione sotto vuoto Bunsen</p>
+
+
+<p><strong>p.40</strong> — fornello gas camping tipo Bunsen</p>
+
+
+<p><strong>p.41</strong> — trompa di vacuo sezione e foto</p>
+
+<div class="qlang-split" data-lang="it"></div>
+<p>Problema 3</p>
+<p>Due carichi punteggi negativi (<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>) sono separati da una distanza <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">2</span><span class="mord mathnormal">a</span></span></span></span>. Per il punto
+La metà del segmento che li unisce viene tracciata in un piano perpendicolare al segmento. Su questo
+in piano, una carica <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> sta effettuando un movimento circolare uniforme di radio <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">a</span></span></span></span>.</p>
+<p>a) Se <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> è un elettrone e <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">a</span></span></span></span> è uguale a 1 nm, qual è il modulo e la direzione del campo
+elettrico generato dalle due cariche <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> sul sito di carica <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>?</p>
+<p>b) Qual è il segno della carica <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> per consentire il movimento?
+circolare descritto?</p>
+<p>Se il valore assoluto della carica <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> è equivalente a quello dell’elettrone, il suo segno è il
+determinato al punto precedente e la sua massa è equivalente a quella di un protone:</p>
+<p>c) qual è la velocità di carico <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>?</p>
+<p>Datossegna
+Carga di elettrone: <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">−</span><span class="mord">1</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">602</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">19</span></span></span></span></span></span></span></span></span></span></span></span> C
+Massa dell’elettrone: <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">9</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">109</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">31</span></span></span></span></span></span></span></span></span></span></span></span> kg
+Massa del protone: <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">1</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">673</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">27</span></span></span></span></span></span></span></span></span></span></span></span> kg
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal" style="margin-right:0.0315em;">k</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">8</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">988</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1.1373em;vertical-align:-0.25em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">9</span></span></span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord"><span class="mord text"><span class="mord">N m</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8873em;"><span style="top:-3.1362em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mord">/</span><span class="mord"><span class="mord text"><span class="mord">C</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8873em;"><span style="top:-3.1362em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>
+1 Nm = <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">9</span></span></span></span></span></span></span></span></span></span></span></span> m (nanometro).
+Problema teorico 1
+Pagina di risposta
+Inciso</p>
+<p>Punteggio
+a)</p>
+<p>b)</p>
+<p>c)</p>
+<p>d)
+Problema teorico 2
+Pagina di risposta
+Inciso</p>
+<p>Punteggio
+a)</p>
+<p>b)</p>
+<p>c)
+Problema teorico 3
+Pagina di risposta
+Inciso</p>
+<p>Punteggio
+a)</p>
+<p>b)</p>
+<p>c)
+Olimpiada Argentina di Fisica</p>
+<p>Prove di preparazione
+Secondo test:
+Termodinamica, elettricità e magnetismo
+Parte sperimentale</p>
+<p>Nome: … (di cui sopra)</p>
+<p>DNI: … è stato fatto il primo giorno di una riunione di lavoro.</p>
+<p>Scuola: …</p>
+<ul>
+<li>Prima di iniziare a risolvere il test, leggi attentamente TUTTO
+la sua frase.</li>
+<li>Scrivi il tuo nome e il tuo numero di identificazione in quel posto indicato. No
+non scriva il suo nome in nessun altro posto della prova.</li>
+<li>Non scrivere risposte sui fogli della frase, perché non saranno
+considerate.</li>
+<li>Scrivi su un solo lato delle foglie.
+Algo de <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">c</span><span class="mord mathnormal">a</span><span class="mord mathnormal" style="margin-right:0.0197em;">l</span><span class="mord mathnormal" style="margin-right:0.0278em;">or</span><span class="mord mathnormal">im</span><span class="mord mathnormal">e</span><span class="mord mathnormal">t</span><span class="mord mathnormal" style="margin-right:0.0278em;">r</span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6944em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord latin_fallback">ı</span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="accent-body" style="left:-0.25em;"><span class="mord">ˊ</span></span></span></span></span></span></span><span class="mord mathnormal">a</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="minner">…</span></span></span></span> un “casi-calorímetro” de Bunsen!!!</li>
+</ul>
+<p>Un calorimetro è un dispositivo di misurazione con cui si possono effettuare
+gli esperimenti necessari per determinare la capacità calorica di una sostanza;
+In altre parole, serve per misurare la calore.</p>
+<p>Tra i numerosi calometri che</p>
+<ul>
+<li>Si sono inventati. - Si’, è quello di Bunsen. El
+è costituito da un contenitore pieno
+di ghiaccio in fusione, che ha nel suo
+interno una “bubbia” di vetro (porta)
+campione), che è in contatto
+termico con il ghiaccio. Il ghiaccio che si fonda
+sta in contatto con il mercurio che arriva
+fino al capillario. E a sua volta, TUTTO
+è immerso nel ghiaccio che si fonda.</li>
+</ul>
+<p>Quando un campione viene inserito a una temperatura <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.1389em;">T</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3117em;"><span style="top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">i</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>, nella porta di campionamento, parte della
+il ghiaccio si fonde e il campione raggiunge <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">0</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span>; il mix acqua-ghiaccio cambia di volume
+Perché il ghiaccio è meno denso dell’acqua. Questo cambiamento di volume è determinato
+La differenza tra i livelli di mercurio e quelli di mercurio è che il menisco di mercurio è in grado di cambiare la posizione del menisco di mercurio nel tubo capillare.
+che 1 g di acqua a <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">0</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span> occupa <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mspace"> </span><span class="mord"><span class="mord text"><span class="mord">cm</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span></span></span></span>, mentre 1 g di ghiaccio <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0085em;vertical-align:-0.1944em;"></span><span class="mord">1</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">09</span><span class="mspace"> </span><span class="mord"><span class="mord text"><span class="mord">cm</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span></span></span></span>. Di questo
+in modo da determinare la quantità di calore che il campione ha fornito e così si può determinare
+la sua capacità calorica.</p>
+<p>PARTE A
+Analizzare il principio di funzionamento del calometro di Bunsen, trovare l’espressione
+La calore specifica della sostanza che compone il campione è legata al calore specifico della sostanza che compone il campione.
+spostamento del menisco (cambiamento di volume della miscela acqua-ghiaccio).</p>
+<p>PARTE B: Costruzione del calorifero di BUNSEN.
+Per farlo è possibile utilizzare:</p>
+<ul>
+<li>come contenitore di ghiaccio in fumo: un materasso a bocca larga o un frasco di
+confezione di latte o di caffè, la cui copertura avrebbe fornito i buchi necessari per installare il
+porta campione e capillario.</li>
+<li>come capillare: un tubo fino trasparente (il più sottile disponibile), può essere
+essere quello che contiene l’inchiostro in una penna/pietra/portacieme o manguelette molto</li>
+<li>Le cose sono molto delicate. La disposizione ottimale del tubo è orizzontale (recomandata), anche se
+può essere installato anche verticalmente.</li>
+<li>come porta mostra: può essere un tubo di prova, un piccolo tubo di plastica, la
+copertura di una penna di labbra, di trucco, di un tubo di boligoma, di una siringa
+Il punto di incontro è il punto di incontro, il punto di incontro è il punto di incontro.
+con le perdite).</li>
+<li>come sigillante per evitare la perdita di miscela fondente:
+di silicone, cera di vela, mascia, plastilina, ecc. I posti della copertura del frasco in
+che hanno installato il cappello e il tubo portatore di campioni e la copertura stessa,
+devono essere ben sigillati.</li>
+<li>per ridurre al minimo le perdite di calore, deve immergere il dispositivo costruito
+fino a questo punto in un altro miscela di acqua e ghiaccio. Per questo si può usare un taglio
+di gran numero di telgofor, di plastica o di una pentola. OJO: bocca capillare e
+non devono essere immersi.
+Nota B1: a differenza del calometro Bunsen originale, non useremo mercurio.
+Per misurare il cambiamento di volume, il nostro caloriometro di
+Bunsen, l’acqua della miscela agirà come un pistone e un indicatore nel tubo capillare.
+Nota B2: se lo ritiene necessario, può inserire un tappo per la porta
+mostra.
+Nota B3: ci vorrà molto ghiaccio.</li>
+</ul>
+<p>PARTE C: Utilizzare il calorifero costruito.</p>
+<ol>
+<li>Misurare utilizzando determinate masse di acqua a temperatura
+nota, ad esempio a <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">100</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span>. Ripeti le misurazioni per ogni massa, usa il
+meno 5 masse diverse.</li>
+<li>Verificare che il spostamento del menisco di acqua nel tubo capillare sia il
+L’esistenza di una specie di massa è stata osservata per le diverse masse usate. Calibra il caloriometro considerando:
+la capacità calorica specifica dell’acqua e il calore di fusione del ghiaccio.</li>
+<li>Misurare utilizzando determinate masse di olio di cucina o di
+un altro liquido, a temperatura nota (ad esempio <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">100</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span>). Ripeti le parole
+misurazioni per ogni massa.</li>
+<li>Determina il calore specifico dell’olio di cucina o del liquido utilizzato.</li>
+</ol>
+<p>Nota C1: Per determinare la massa dei liquidi campionati si può utilizzare un
+una bilancia o una siringa o una pipetta, purché conosca le densità di</p>
+<ul>
+<li>Gli stessi.
+Nota C2: per riscaldare il liquido del campione fino a <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">100</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span>, può essere utilizzato un bagno
+Maria, come sei?
+Nota C3: non utilizzare liquidi infiammabili.
+Problema sperimentale
+Pagina di risposte.
+Inciso</li>
+</ul>
+<p>Punteggio
+PARTE A</p>
+<p>Parte B</p>
+<p>Parte C</p>
+<ol>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol>
+<p>Problema teorico 1
+Pagina di risposta
+Inciso</p>
+<p>Punteggio
+a)</p>
+<p>Due punti.
+b)</p>
+<p>Tre punti.
+c)</p>
+<p>Tre punti.
+d)</p>
+<p>Due punti.
+Problema teorico 2
+Pagina di risposta
+Inciso</p>
+<p>Punteggio
+a)</p>
+<p>Tre punti.
+b)</p>
+<p>Tre punti.
+c)</p>
+<p>Quattro punti.
+Problema teorico 3
+Pagina di risposta
+Inciso</p>
+<p>Punteggio
+a)</p>
+<p>Quattro punti.
+b)</p>
+<p>Due punti.
+c)</p>
+<p>Quattro punti.
+Prove di preparazione</p>
+<p>Risoluzione Problema teorico 1.</p>
+<p>In tutti i calcoli è necessario uniformizzare le unità.
+a)
+La massa di azoto liquido è</p>
+<p>kg
+l
+l
+kg
+V
+m
+NL
+NL
+NL
+035
+,4
+5
+807
+,0
+2
+2
+2</p>
+<p>La massa di azoto gassoso è</p>
+<p>molli
+K
+K
+Mol
+J
+l
+ATM
+T
+R
+V
+P
+nN
+791
+,0
+77
+31
+,8
+5
+1
+2</p>
+<p>kg
+Una
+kg
+Mol
+Una
+Mol
+mN
+022
+,0
+10
+6605
+,1
+10
+022
+,6
+0067
+,
+14
+2
+791
+,0
+27
+1
+23
+2</p>
+<p>b)
+Il calore rilasciato dall’alluminio quando si raffredda vaporizza LN2.</p>
+<p>0
+1
+)
+(
+2</p>
+<p>v
+N
+i
+f
+Al
+Al
+C
+m
+T
+T
+C
+m</p>
+<p>Dove m1N2 è la massa di LN2 che viene vaporizzata. Se questa massa è inferiore alla massa totale
+di LN2 allora lo stato finale sarà parte del nitrogeno in stato liquido, parte in
+stato gassoso e il cubo di alluminio tutto a una temperatura di 77 K. In caso di
+se la massa è superiore alla massa iniziale di LN2, si deve presentare l’equazione tenendo conto di:
+si conta la vaporizzazione dell’intera massa iniziale di LN2 e il riscaldamento del gas N2.
+kg
+kg
+kJ
+K
+K
+K
+g
+cal
+g
+C
+T
+T
+C
+m
+m
+v
+i
+f
+Al
+Al
+N
+099
+,0
+202
+)
+300
+77
+(
+214
+,0
+100
+)
+(
+1
+2</p>
+<p>Poiché questa massa è inferiore alla massa iniziale di LN2 allora vediamo che quando si introduce il
+Il cubo di alluminio si vaporizza solo una parte dell’LN2. Allora, nel termico rimane</p>
+<p>kg
+kg
+kg
+Fabbricazione
+936
+,3
+099
+,0
+035
+,4
+2</p>
+
+<p><img src="../_attachments/2019_2da_prueba_preparatoria/2019_2da_prueba_preparatoria_p4_f2.png" alt width="auto" height="auto"/>
+<em>geometria due carica Q1 e orbita Q2</em></p>
+
+
+<p><img src="../_attachments/2019_2da_prueba_preparatoria/2019_2da_prueba_preparatoria_p21_f4.png" alt width="auto" height="auto"/>
+<em>campi elettrici delle due cariche Q1</em></p>
+
+
+<p><img src="../_attachments/2019_2da_prueba_preparatoria/2019_2da_prueba_preparatoria_p21_f5.png" alt width="auto" height="auto"/>
+<em>Total campo elettrico ET nel pianoforte</em></p>
+
+<p><strong>Topic:</strong> <a href="../topics/electrostatics" class="internal internal-link" data-slug="topics/electrostatics">Electrostatics</a>, <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>
+<strong>Metodi:</strong> <a href="../methods/coulomb's-law-(metodo)" class="internal internal-link alias" data-slug="methods/coulomb's-law-(metodo)">Coulomb’s Law</a>, <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>, <a href="../methods/vector-decomposition-(metodo)" class="internal internal-link alias" data-slug="methods/vector-decomposition-(metodo)">Vector Decomposition</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/diagrammatic-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/diagrammatic-reasoning-(competenza)">Diagrammatic Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/point-charge-(object)" class="internal internal-link alias" data-slug="objects/point-charge-(object)">Point Charge</a>, <a href="../objects/electron-(object)" class="internal internal-link alias" data-slug="objects/electron-(object)">Electron</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1GDngoBRFe8vXnCkCeAOmqb_ADynP3EyP/view" class="external external-link">Testo (PDF) — p.4<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<h2 id="figurare">Figurare<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figurare" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figurare-1">Figurare<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figurare-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figurare-2">Figurare<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figurare-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figurare-3">Figurare<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figurare-3" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figurare-4">Figurare<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figurare-4" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figurare-5">Figurare<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figurare-5" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figurare-6">Figurare<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figurare-6" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figurare-7">Figurare<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figurare-7" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figurare-8">Figurare<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figurare-8" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figurare-9">Figurare<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figurare-9" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figurare-10">Figurare<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figurare-10" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figurare-11">Figurare<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figurare-11" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figurare-12">Figurare<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figurare-12" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+<p>**p.9 **  caloriometro di Bunsen sezione trasversale</p>
+
+
+<p><strong>p.25</strong>  curva di calibrazione caloriometro Qi vs Delta L</p>
+
+
+<p><strong>p.27</strong>  foto coperchio barattolo con cannuccia</p>
+
+
+<p><strong>p.28</strong>  fototermometro barattolo con termometro</p>
+
+
+<p><strong>p.29</strong>  foto barattolo caloriometro completo</p>
+
+
+<p>**p.30 **  foto coperchio dal basso con cannuccia</p>
+
+
+<p>**p.31 **  fotocalorimetro in secchio di ghiaccio</p>
+
+
+<p><strong>p.32</strong>  fototermometro immerso nel ghiaccio</p>
+
+
+<p><strong>p.33</strong>  foto secchio ghiaccio con cannuccia</p>
+
+
+<p><strong>p.34</strong>  foto cannuccia capillare misurazione</p>
+
+
+<p><strong>p.35</strong>  illustrazione becco Bunsen con fiamma</p>
+
+
+<p><strong>p.36</strong>  becco Bunsen originale disegno storico</p>
+
+
+<p><strong>p.36</strong>  spettroscopio Kirchhoff e Bunsen originale</p>
+
+
+<p><strong>p.37</strong>  caloriometri Lavoisier e Bunsen storici</p>
+
+
+<p><strong>p.37</strong>  caloriometro vapore Bunsen sezione</p>
+
+
+<p><strong>p.38</strong>  dispositivo Draper e pile Bunsen</p>
+
+
+<p><strong>p.38</strong>  Bunsen stack al carbonio disegno storico</p>
+
+
+<p><strong>p.39</strong> — pompe Sprengel e Bunsen per vuoto</p>
+
+
+<p><strong>p.39</strong>  apparecchio filtrazione sotto vuoto Bunsen</p>
+
+
+<p><strong>p.40</strong>  fornello gas camping tipo Bunsen</p>
+
+
+<p>**p.41 **  tubo di sezione e foto</p>
+
+<div class="qlang-split" data-lang="en"></div>
+<p>The problem is 3</p>
+<p>Two negative spot loads (<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>) are separated by a distance <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">2</span><span class="mord mathnormal">a</span></span></span></span>. By the point
+The middle of the segment connecting them is drawn a plane perpendicular to it. About this one
+In the case of a plane, a charge <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> is performing a uniform circular motion of radius <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">a</span></span></span></span>.</p>
+<p>(a) If <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> is an electron and <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">a</span></span></span></span> is equal to 1 nm, what is the module and direction of the field
+electrical generated by the two <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> charges at the <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> charge site?</p>
+<p>(b) What must the sign of the load <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> be for it to make the move
+Circular described?</p>
+<p>If the absolute value of the charge <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> is equivalent to that of the electron, its sign is
+determined at the previous point and its mass is equivalent to that of a proton:</p>
+<p>(c) what is the load speed <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal">Q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>?</p>
+<p>The data
+The electron charge: <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">−</span><span class="mord">1</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">602</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">19</span></span></span></span></span></span></span></span></span></span></span></span> C
+The mass of the electron: <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">9</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">109</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">31</span></span></span></span></span></span></span></span></span></span></span></span> kg
+The mass of the proton: <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">1</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">673</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">27</span></span></span></span></span></span></span></span></span></span></span></span> kg
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal" style="margin-right:0.0315em;">k</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord">8</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">988</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1.1373em;vertical-align:-0.25em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">9</span></span></span></span></span></span></span></span></span><span class="mspace"> </span><span class="mord"><span class="mord text"><span class="mord">N m</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8873em;"><span style="top:-3.1362em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mord">/</span><span class="mord"><span class="mord text"><span class="mord">C</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8873em;"><span style="top:-3.1362em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>
+1 Nm = <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">9</span></span></span></span></span></span></span></span></span></span></span></span> m (nanometro).
+Theoretical problem 1
+Answering sheet
+Incise</p>
+<p>Score
+a)</p>
+<p>b)</p>
+<p>c)</p>
+<p>d)
+Theoretical problem 2
+Answering sheet
+Incise</p>
+<p>Score
+a)</p>
+<p>b)</p>
+<p>c)
+Theoretical problem 3
+Answering sheet
+Incise</p>
+<p>Score
+a)</p>
+<p>b)</p>
+<p>c)
+Argentine Olympic Games in Physics</p>
+<p>Preparatory tests
+Second test:
+Thermodynamics, electricity and magnetism
+The experimental part</p>
+<p>The following is the list of the countries of the European Union:</p>
+<p>The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 1303/2013.</p>
+<p>School: … is not a school</p>
+<ul>
+<li>Before you start solving the test read it carefully
+The statement of it.</li>
+<li>Write your name and ID number in the appropriate location. No
+Write your name anywhere else on the test.</li>
+<li>Don’t write answers on the statement sheets because they won’t be
+Considered.</li>
+<li>Write on one side of the leaves.
+Algo de <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">c</span><span class="mord mathnormal">a</span><span class="mord mathnormal" style="margin-right:0.0197em;">l</span><span class="mord mathnormal" style="margin-right:0.0278em;">or</span><span class="mord mathnormal">im</span><span class="mord mathnormal">e</span><span class="mord mathnormal">t</span><span class="mord mathnormal" style="margin-right:0.0278em;">r</span><span class="mord accent"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6944em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord latin_fallback">ı</span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="accent-body" style="left:-0.25em;"><span class="mord">ˊ</span></span></span></span></span></span></span><span class="mord mathnormal">a</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="minner">…</span></span></span></span> un “casi-calorímetro” de Bunsen!!!</li>
+</ul>
+<p>A calorimeter is a measuring instrument with which measurements can be made.
+experiments necessary to determine the heat capacity of a substance;
+In other words, it’s used to measure the temperature.</p>
+<p>Among the many calorimeters that
+They’ve invented Bunsen’s. El
+It consists of a full container
+of melting ice, which has in its
+Inside a glass bubble (door)
+sample), which is in contact
+thermal with ice. Melting ice
+It’s in contact with mercury coming in.
+to the capillary tube. In turn, all
+It’s submerged in melting ice.</p>
+<p>When a sample is inserted at <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.1389em;">T</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3117em;"><span style="top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">i</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>, part of the sample port
+hielo se funde y la muestra alcanza los <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">0</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span>; la mezcla agua-hielo cambia de volumen
+Because ice is less dense than water. This change in volume is determined by the
+By changing the position of the mercury meniscus in the capillary tube; remember
+1 g of water at <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">0</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span> occupies <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mspace"> </span><span class="mord"><span class="mord text"><span class="mord">cm</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span></span></span></span>, while 1 g of ice occupies <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0085em;vertical-align:-0.1944em;"></span><span class="mord">1</span><span class="mord"><span class="mpunct">,</span></span><span class="mord">09</span><span class="mspace"> </span><span class="mord"><span class="mord text"><span class="mord">cm</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span></span></span></span>. From this one
+The amount of heat delivered by the sample is determined and thus can be determined
+its heat capacity.</p>
+<p>Part A
+Analyze the principle of operation of the Bunsen calorimeter, find the expression
+The first is the use of the term ‘sampling’ to describe the process of measuring the heat of the sample.
+displacement of the meniscus (volume change of water-ice mixture).</p>
+<p>Part B: Construction of the BUNSEN CASSY-CALORYMETER.
+To do this you can use:</p>
+<ul>
+<li>as a melting ice container: a wide-mouthed mattress or a bottle of
+jam/coffee, the lid of which will be the place where the holes needed to install the
+the sample port and the capillary.</li>
+<li>as a hair: a transparent thin tube (the thinnest available), can be
+be the one containing the ink in a pen/pen/wallet/wallet or hose very
+Fine. The optimum tube layout is horizontal (recommended), although
+It can also be installed vertically.</li>
+<li>as a sample port: it may be a test tube, a small plastic tube, the
+a lid of lipstick, makeup, a tube of boligoma, a syringe
+The needle is covered where it goes and without the needle (OJ: in cases like the last, carefully
+with losses).</li>
+<li>as a sealant to prevent the loss of melting mixture: carpenter’s tail,
+Other, of a kind used for the manufacture of goods of heading 8104 The places on the lid of the bottle in
+which the capillary and the tube bore samples and the lid itself were installed,
+They must be properly sealed.</li>
+<li>to minimize heat loss, the built-in device must be submerged
+So far in another mixture of water and ice. You can use some kind of a tacho.
+medium to large telgopore, plastic or pot. OJO: the mouth of the capillary and
+the sample door must not be submerged.
+Note B1: Unlike the original Bunsen calorimeter, we will not use mercury.
+To measure the change in volume, our casi-calorimeter of
+Bunsen, the water in the mixture will act as a piston and indicator in the capillary tube.
+Note B2: If you consider it necessary you can install a door lid</li>
+<li>It’s a sample.
+Note B3: You’ll need a lot of ice.</li>
+</ul>
+<p>Part C: Use the built-in thermometer.</p>
+<ol>
+<li>Make measurements using determined masses of water at temperature
+known, e.g. to <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">100</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span>. Repeat the measurements for each mass, use the
+minus five different masses.</li>
+<li>Check that the displacement of the water meniscus in the capillary tube is the
+expected for the different masses used. Calibrate the thermometer by considering
+the specific heat capacity of water and the melting heat of ice is known.</li>
+<li>Make measurements using certain masses of cooking oil or
+any other liquid, at known temperature (e.g. <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">100</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span>). Repeat the
+measurements for each mass.</li>
+<li>Determine the specific heat of the cooking oil or liquid you used.</li>
+</ol>
+<p>Note C1: To determine the mass of the sample fluids, a
+The use of a scale or a syringe or a pipette, provided that the densities of the
+The same.
+Note C2: To heat the sample liquid up to <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">100</span><span class="mord"><span class="mspace"> </span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∘</span></span></span></span></span></span></span></span><span class="mord text"><span class="mord">C</span></span></span></span></span>, a bath may be used
+Mary.
+Note C3: Do not use flammable liquids.
+The experimental problem
+Answer sheet.
+Incise</p>
+<p>Score
+Part A</p>
+<p>The following information is provided:</p>
+<p>The following information is provided:</p>
+<ol>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol>
+<p>Theoretical problem 1
+Answering sheet
+Incise</p>
+<p>Score
+a)</p>
+<p>Two points.
+b)</p>
+<p>Three points.
+c)</p>
+<p>Three points.
+d)</p>
+<p>Two points.
+Theoretical problem 2
+Answering sheet
+Incise</p>
+<p>Score
+a)</p>
+<p>Three points.
+b)</p>
+<p>Three points.
+c)</p>
+<p>Four points.
+Theoretical problem 3
+Answering sheet
+Incise</p>
+<p>Score
+a)</p>
+<p>Four points.
+b)</p>
+<p>Two points.
+c)</p>
+<p>Four points.
+Preparatory tests</p>
+<p>Theoretical problem 1 is solved.</p>
+<p>In all calculations it is necessary to unify the units.
+a)
+The mass of liquid nitrogen is</p>
+<p>kg
+l
+l
+kg
+V
+m
+NL
+NL
+NL
+035
+,4
+5
+807
+,0
+2
+2
+2</p>
+<p>The mass of gaseous nitrogen is</p>
+<p>moles
+K
+K
+Other
+J
+l
+Other
+T
+R
+V
+P
+nN
+791
+,0
+77
+31
+,8
+5
+1
+2</p>
+<p>kg
+A
+kg
+Other
+A
+Other
+mN
+022
+,0
+10
+6605
+,1
+10
+022
+,6
+0067
+,
+14
+2
+791
+,0
+27
+1
+23
+2</p>
+<p>b)
+The heat released by the aluminium when cooled vaporizes LN2.</p>
+<p>0
+1
+)
+(
+2</p>
+<p>v
+N
+i
+f
+Al
+Al
+C
+m
+T
+T
+C
+m</p>
+<p>Where m1N2 is the mass of LN2 that is vaporized. If this mass is less than the total mass
+of LN2 then the final state will be part of the liquid nitrogen, part of the liquid nitrogen
+The gas state and the aluminum cube all at a temperature of 77 K. In the event that the
+The mass greater than the initial mass of LN2 shall be given by the equation having
+The total amount of the LN2 starting mass is calculated as the total amount of the LN2 starting mass and the heating of the N2 gas.
+kg
+kg
+kJ
+K
+K
+K
+g
+Cal
+g
+C
+T
+T
+C
+m
+m
+v
+i
+f
+Al
+Al
+N
+099
+,0
+202
+)
+300
+77
+(
+214
+,0
+100
+)
+(
+1
+2</p>
+<p>Since this mass is less than the initial mass of LN2 then we see that by entering the
+Aluminum cube only vaporizes a part of the LN2. So in the thermos it stays</p>
+<p>kg
+kg
+kg
+The following is the list of the Member States:
+936
+,3
+099
+,0
+035
+,4
+2</p>
+
+<p><img src="../_attachments/2019_2da_prueba_preparatoria/2019_2da_prueba_preparatoria_p4_f2.png" alt width="auto" height="auto"/>
+<em>geometria due cariche Q1 e orbita Q2</em></p>
+
+
+<p><img src="../_attachments/2019_2da_prueba_preparatoria/2019_2da_prueba_preparatoria_p21_f4.png" alt width="auto" height="auto"/>
+<em>campi elettrici delle due cariche Q1</em></p>
+
+
+<p><img src="../_attachments/2019_2da_prueba_preparatoria/2019_2da_prueba_preparatoria_p21_f5.png" alt width="auto" height="auto"/>
+<em>total electric field ET in the piano</em></p>
+
+<p><strong>Topic:</strong> <a href="../topics/electrostatics" class="internal internal-link" data-slug="topics/electrostatics">Electrostatics</a>, <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>
+<strong>Metodi:</strong> <a href="../methods/coulomb's-law-(metodo)" class="internal internal-link alias" data-slug="methods/coulomb's-law-(metodo)">Coulomb’s Law</a>, <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>, <a href="../methods/vector-decomposition-(metodo)" class="internal internal-link alias" data-slug="methods/vector-decomposition-(metodo)">Vector Decomposition</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/diagrammatic-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/diagrammatic-reasoning-(competenza)">Diagrammatic Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/point-charge-(object)" class="internal internal-link alias" data-slug="objects/point-charge-(object)">Point Charge</a>, <a href="../objects/electron-(object)" class="internal internal-link alias" data-slug="objects/electron-(object)">Electron</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1GDngoBRFe8vXnCkCeAOmqb_ADynP3EyP/view" class="external external-link">Testo (PDF) — p.4<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<h2 id="figure-13">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-13" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-14">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-14" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-15">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-15" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-16">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-16" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-17">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-17" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-18">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-18" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-19">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-19" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-20">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-20" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-21">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-21" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-22">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-22" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-23">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-23" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-24">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-24" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="figure-25">Figure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#figure-25" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+<p><strong>p.9</strong> — calorimetro di Bunsen sezione trasversale</p>
+
+
+<p><strong>p.25</strong> — curva di calibrazione calorimetro Qi vs Delta L</p>
+
+
+<p><strong>p.27</strong> — foto coperchio barattolo con cannuccia</p>
+
+
+<p><strong>p.28</strong> — foto calorimetro barattolo con termometro</p>
+
+
+<p><strong>p.29</strong> — foto barattolo calorimetro completo</p>
+
+
+<p><strong>p.30</strong> — foto coperchio dal basso con cannuccia</p>
+
+
+<p><strong>p.31</strong> — foto calorimetro in secchio di ghiaccio</p>
+
+
+<p><strong>p.32</strong>  photo-calorometer immersed in the ice</p>
+
+
+<p><strong>p.33</strong> — foto secchio ghiaccio con cannuccia</p>
+
+
+<p><strong>p.34</strong> — foto cannuccia capillare misurazione</p>
+
+
+<p><strong>p.35</strong> — illustrazione becco Bunsen con fiamma</p>
+
+
+<p><strong>p.36</strong> — becco Bunsen originale disegno storico</p>
+
+
+<p><strong>p.36</strong> — spettroscopio Kirchhoff e Bunsen originale</p>
+
+
+<p><strong>p.37</strong> — calorimetri Lavoisier e Bunsen storici</p>
+
+
+<p><strong>p.37</strong> — calorimetro vapore Bunsen sezione</p>
+
+
+<p><strong>p.38</strong> — dispositivo Draper e pila Bunsen</p>
+
+
+<p><strong>p.38</strong> — pila Bunsen al carbonio disegno storico</p>
+
+
+<p><strong>p.39</strong> — pompe Sprengel e Bunsen per vuoto</p>
+
+
+<p><strong>p.39</strong> — apparato filtrazione sotto vuoto Bunsen</p>
+
+
+<p><strong>p.40</strong> — fornello gas camping tipo Bunsen</p>
+
+
+<p><strong>p.41</strong> — trompa di vacuo sezione e foto</p>
+</div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"><div class="toc"><button type="button" class="toc-header" aria-controls="toc-111" aria-expanded="true"><h3>Indice</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-0" class="toc-content overflow"><li class="depth-0"><a href="#figure" data-for="figure">Figure</a></li><li class="depth-0"><a href="#figure-1" data-for="figure-1">Figure</a></li><li class="depth-0"><a href="#figure-2" data-for="figure-2">Figure</a></li><li class="depth-0"><a href="#figure-3" data-for="figure-3">Figure</a></li><li class="depth-0"><a href="#figure-4" data-for="figure-4">Figure</a></li><li class="depth-0"><a href="#figure-5" data-for="figure-5">Figure</a></li><li class="depth-0"><a href="#figure-6" data-for="figure-6">Figure</a></li><li class="depth-0"><a href="#figure-7" data-for="figure-7">Figure</a></li><li class="depth-0"><a href="#figure-8" data-for="figure-8">Figure</a></li><li class="depth-0"><a href="#figure-9" data-for="figure-9">Figure</a></li><li class="depth-0"><a href="#figure-10" data-for="figure-10">Figure</a></li><li class="depth-0"><a href="#figure-11" data-for="figure-11">Figure</a></li><li class="depth-0"><a href="#figure-12" data-for="figure-12">Figure</a></li><li class="depth-0"><a href="#figurare" data-for="figurare">Figurare</a></li><li class="depth-0"><a href="#figurare-1" data-for="figurare-1">Figurare</a></li><li class="depth-0"><a href="#figurare-2" data-for="figurare-2">Figurare</a></li><li class="depth-0"><a href="#figurare-3" data-for="figurare-3">Figurare</a></li><li class="depth-0"><a href="#figurare-4" data-for="figurare-4">Figurare</a></li><li class="depth-0"><a href="#figurare-5" data-for="figurare-5">Figurare</a></li><li class="depth-0"><a href="#figurare-6" data-for="figurare-6">Figurare</a></li><li class="depth-0"><a href="#figurare-7" data-for="figurare-7">Figurare</a></li><li class="depth-0"><a href="#figurare-8" data-for="figurare-8">Figurare</a></li><li class="depth-0"><a href="#figurare-9" data-for="figurare-9">Figurare</a></li><li class="depth-0"><a href="#figurare-10" data-for="figurare-10">Figurare</a></li><li class="depth-0"><a href="#figurare-11" data-for="figurare-11">Figurare</a></li><li class="depth-0"><a href="#figurare-12" data-for="figurare-12">Figurare</a></li><li class="depth-0"><a href="#figure-13" data-for="figure-13">Figure</a></li><li class="depth-0"><a href="#figure-14" data-for="figure-14">Figure</a></li><li class="depth-0"><a href="#figure-15" data-for="figure-15">Figure</a></li><li class="depth-0"><a href="#figure-16" data-for="figure-16">Figure</a></li><li class="depth-0"><a href="#figure-17" data-for="figure-17">Figure</a></li><li class="depth-0"><a href="#figure-18" data-for="figure-18">Figure</a></li><li class="depth-0"><a href="#figure-19" data-for="figure-19">Figure</a></li><li class="depth-0"><a href="#figure-20" data-for="figure-20">Figure</a></li><li class="depth-0"><a href="#figure-21" data-for="figure-21">Figure</a></li><li class="depth-0"><a href="#figure-22" data-for="figure-22">Figure</a></li><li class="depth-0"><a href="#figure-23" data-for="figure-23">Figure</a></li><li class="depth-0"><a href="#figure-24" data-for="figure-24">Figure</a></li><li class="depth-0"><a href="#figure-25" data-for="figure-25">Figure</a></li><li class="overflow-end"></li></ul></div></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/electron-(object)" class="internal">Electron</a></li><li><a href="../objects/point-charge-(object)" class="internal">Point Charge</a></li><li><a href="../prove/2019_2da_prueba_preparatoria" class="internal">Argent 2019</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

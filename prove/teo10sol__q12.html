@@ -1,0 +1,2885 @@
+<!DOCTYPE html>
+<html lang="it" dir="ltr"><head><title>OII 2010 Nazionale Teorica — Problema 12</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="OII 2010 Nazionale Teorica — Problema 12"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="OII 2010 Nazionale Teorica — Problema 12"/><meta name="twitter:description" content="Quesito n. 1."/><meta property="og:description" content="Quesito n. 1."/><meta property="og:image:alt" content="Quesito n. 1."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/teo10sol__q12"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/teo10sol__q12"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Quesito n. 1."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/teo10sol__q12" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-18280" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-18280" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>OII 2010 Nazionale Teorica — Problema 12</a></div></nav><h1 class="article-title">OII 2010 Nazionale Teorica — Problema 12</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/nazione/italia" class="internal internal-link tag-link">nazione/italia</a><span class="note-properties-separator">, </span><a href="../tags/tipo-gara/individuale" class="internal internal-link tag-link">tipo-gara/individuale</a><span class="note-properties-separator">, </span><a href="../tags/livello/nazionale" class="internal internal-link tag-link">livello/nazionale</a><span class="note-properties-separator">, </span><a href="../tags/difficolta/4" class="internal internal-link tag-link">difficolta/4</a><span class="note-properties-separator">, </span><a href="../tags/multidisciplina/mono" class="internal internal-link tag-link">multidisciplina/mono</a><span class="note-properties-separator">, </span><a href="../tags/topic/geometric-optics" class="internal internal-link tag-link">topic/geometric-optics</a><span class="note-properties-separator">, </span><a href="../tags/argomento/meccanica" class="internal internal-link tag-link">argomento/meccanica</a><span class="note-properties-separator">, </span><a href="../tags/object/tank-container" class="internal internal-link tag-link">object/tank-container</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:28:20.938Z">02 lug 2026</time><span>13 minuti</span></p><ul class="tags"><li><a href="../tags/nazione/italia" class="internal tag-link">nazione/italia</a></li><li><a href="../tags/tipo-gara/individuale" class="internal tag-link">tipo-gara/individuale</a></li><li><a href="../tags/livello/nazionale" class="internal tag-link">livello/nazionale</a></li><li><a href="../tags/difficolta/4" class="internal tag-link">difficolta/4</a></li><li><a href="../tags/multidisciplina/mono" class="internal tag-link">multidisciplina/mono</a></li><li><a href="../tags/topic/geometric-optics" class="internal tag-link">topic/geometric-optics</a></li><li><a href="../tags/argomento/meccanica" class="internal tag-link">argomento/meccanica</a></li><li><a href="../tags/object/tank-container" class="internal tag-link">object/tank-container</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="it"></div>
+<p>Quesito
+n.
+1.
+Si
+onsideri
+un
+arbitrario
+pun
+to
+A
+del
+fondo
+della
+v
+as a,
+a
+distanza
+x
+dal
+piede
+della
+p
+erp
+endi olare
+ondotta
+dal
+pun
+to
+di
+osserv
+azione
+O,
+e
+il
+raggio
+di
+lu e</p>
+<p>he
+partendo
+da
+questo
+pun
+to
+arriv
+a
+nello
+stesso
+pun
+to
+O.
+A
+ausa
+della
+rifrazione
+subita
+dalla
+lu e
+nel
+passaggio
+dall’a qua
+all’aria,
+esso
+sem
+bra
+essere
+emesso
+da
+un
+pun
+to
+A
+0
+,
+ome
+mostrato
+in</p>
+<p>gura.
+In
+termini
+dell’angolo
+’
+mostrato
+in</p>
+<h1 id="gurasihax">gura,
+si
+ha
+x<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gurasihax" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+tg
+’.
+Il
+raggio</p>
+<p>he
+parte
+da
+A,
+on
+un
+angolo
+’
+risp
+etto
+alla
+v
+erti ale,
+passa
+p
+er
+O;
+in
+v
+e e
+un
+raggio
+adia en
+te</p>
+<h1 id="heparteonangolodgiungeallasuperiediseparazioneinunpuntodistantedaodiunaquantitadxdatadaxdx">he
+parte
+on
+angolo
+’
++
+d’
+giunge
+alla
+sup
+er
+ie
+di
+separazione
+in
+un
+pun
+to
+distan
+te
+da
+O
+di
+una
+quan
+tit
+a
+dx
+data
+da
+x
++
+dx<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#heparteonangolodgiungeallasuperiediseparazioneinunpuntodistantedaodiunaquantitadxdatadaxdx" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="ltgddx">L
+tg
+(’
++
+d’)
+)
+dx<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ltgddx" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="ltgdtgdx">L
+[tg
+(’
++
+d’)
+tg
+’℄
+)
+dx<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ltgdtgdx" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L</p>
+<p>tg
+(’
++
+d’)
+tg
+’
+d’</p>
+<p>d’
+e,
+onsiderando</p>
+<p>he
+p
+er
+d’
+!
+0
+l’espressione
+tra
+paren
+tesi
+quadra</p>
+<h1 id="eladerivatadellafunzionetgsihadx">e
+la
+deriv
+ata
+della
+funzione
+tg
+’,
+si
+ha
+dx<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#eladerivatadellafunzionetgsihadx" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="los2d1notasipotevagiungereallostessorisultatodierenziandolespressioneinizialex">L
+os
+2
+’
+d’
+(1)
+Nota:
+Si
+p
+otev
+a
+giungere
+allo
+stesso
+risultato
+di
+erenziando
+l’espressione
+iniziale:
+x<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#los2d1notasipotevagiungereallostessorisultatodierenziandolespressioneinizialex" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="ltgdx">L
+tg
+’
+)
+dx<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ltgdx" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="ldtgdx">L
+d(tg
+’)
+)
+dx<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ldtgdx" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+1
+os
+2
+’
+d’
+Analogamen
+te,
+indi ando
+on
+`
+la
+profondit
+a
+del
+pun
+to
+A
+0
+,
+si
+ha</p>
+<h1 id="hex">he
+x<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hex" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>`
+os
+2</p>
+<h1 id></h1>
+<p>d#
+(2)
+Di
+erenziando
+la
+Legge
+di
+Snell,
+sen</p>
+<h1 id="-1"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="nsensiottienedsen">=
+n
+sen
+’,
+si
+ottiene
+d
+(sen
+#)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#nsensiottienedsen" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>nd
+(sen
+’)
+)
+os</p>
+<h1 id="-2"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="d">d#<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#d" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="nosdd">n
+os
+’
+d’
+)
+d’<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#nosdd" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>1
+n
+os</p>
+<h1 id="-3"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-3" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="osdsostituendonella1lespressioneperdappenaottenutasiri-avadx">os
+’
+d#
+:
+Sostituendo
+nella
+(1)
+l’espressione
+p
+er
+d’
+app
+ena
+otten
+uta,
+si
+ri a
+v
+a
+dx<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#osdsostituendonella1lespressioneperdappenaottenutasiri-avadx" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+n
+os</p>
+<h1 id="-4"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-4" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="os3d3eduguagliandoleespressioni2e3siottieneinne">os
+3
+’
+d#
+(3)
+ed
+uguagliando
+le
+espressioni
+(2)
+e
+(3)
+si
+ottiene
+in
+ne
+`<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#os3d3eduguagliandoleespressioni2e3siottieneinne" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+n</p>
+<p>os</p>
+<h1 id="-5"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-5" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>os
+‘</p>
+<h1 id="34sempredax">3
+(4)
+Sempre
+da
+x<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#34sempredax" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+tg
+’
+si
+ri a
+v
+a</p>
+<h1 id="hexl">he
+x
+L<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hexl" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="p1os2osos2">p
+1
+os
+2
+’
+os
+’
+)
+os
+2
+‘<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#p1os2osos2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="11xl2pag6aifolimpiadidifisi-agaranazionalesoluzionedellaprovateori-asenigallia9aprile2010daltraparteappli-andolaleggedisnellsipuoanhes-riverexl">1
+1
++
+(x=L)
+2
+P
+ag.
+6
+AIF
+{
+Olimpiadi
+di
+Fisi a
+Ga
+ra
+Nazionale:
+SOLUZIONE
+della
+Prova
+T
+eo
+ri a
+{
+Senigallia
+{
+9
+Ap
+rile
+2010
+D’altra
+parte,
+appli ando
+la
+Legge
+di
+Snell,
+si
+pu
+o
+an
+he
+s riv
+ere
+x
+L<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#11xl2pag6aifolimpiadidifisi-agaranazionalesoluzionedellaprovateori-asenigallia9aprile2010daltraparteappli-andolaleggedisnellsipuoanhes-riverexl" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>sen
+#=n
+p
+1
+(sen
+#=n)
+2
+)</p>
+<p>x
+L</p>
+<h1 id="2">2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>1
+os
+2</p>
+<h1 id="-6"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-6" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>n
+2
+1
++
+os
+2</p>
+<h1 id="-7"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-7" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>)
+os
+2</p>
+<h1 id="-8"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-8" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>=
+1
++
+(1
+n
+2
+)(x=L)
+2
+1
++
+(x=L)
+2
+In
+ultima
+analisi</p>
+<p>os</p>
+<h1 id="-9"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-9" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>os
+‘</p>
+<h1 id="2-1">2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>1
+(n
+2
+1)</p>
+<p>x
+L</p>
+<p>2</p>
+<h1 id="hesostituitanella4fornis-e">he
+sostituita
+nella
+(4)
+fornis e
+`<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hesostituitanella4fornis-e" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+n
+”
+r
+1
+(n
+2
+1)</p>
+<p>x
+L</p>
+<p>2</p>
+<h1 id="-10"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-10" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>3
+(5)
+|||||||||||
+Soluzione
+alternativ
+a
+Come
+prima,
+oltre
+al
+raggio
+us en
+te
+da
+A
+e
+passan
+te
+p
+er
+O,
+si
+onsideri
+un
+se ondo
+raggio</p>
+<p>he
+forma
+on
+il
+primo
+un
+angolo
+pi olo</p>
+<p>e</p>
+<p>he
+attra
+v
+ersa
+la
+sup
+er
+ie
+dell’a qua
+in
+un
+pun
+to
+O
+0
+.
+La
+profondit
+a
+`
+di
+A
+0
+si
+pu
+o
+esprimere
+in
+funzione
+della
+profondit
+a
+e
+ettiv
+a
+L,
+della
+distanza
+x
+e
+dell’indi e
+di
+rifrazione
+n
+onsiderando</p>
+<p>he
+il
+segmen
+to
+OO
+0</p>
+<p>e
+un
+lato
+om
+une
+dei
+due
+triangoli
+OHO
+0
+e
+OH
+0
+O
+0
+.
+Da
+sempli i
+onsiderazioni
+geometri
+he
+si
+ri a
+v
+a</p>
+<h1 id="hedoo0h">he
+d
+OO
+0
+H<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hedoo0h" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="edoo0h0">’
+e
+d
+OO
+0
+H
+0<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#edoo0h0" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="-11"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-11" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="dallageometriadelsistemasiri-avanosu-essivamentea0o0">:
+Dalla
+geometria
+del
+sistema
+si
+ri a
+v
+ano
+su essiv
+amen
+te
+A
+0
+O
+0<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#dallageometriadelsistemasiri-avanosu-essivamentea0o0" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>`
+os
+(#</p>
+<h1 id="o0h0">)
+;
+O
+0
+H
+0<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#o0h0" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>A
+0
+O
+0
+sen</p>
+<p>=
+`
+sen</p>
+<p>os
+(#</p>
+<h1 id="oo0">)
+;
+OO
+0<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#oo0" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>O
+0
+H
+0
+os</p>
+<h1 id="-12"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-12" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>=
+`
+sen</p>
+<p>os
+(#</p>
+<p>)
+os</p>
+<h1 id="-13"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-13" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="10analogamenteao0">:
+(1
+0
+)
+Analogamen
+te
+A
+O
+0<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#10analogamenteao0" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+os
+(’</p>
+<h1 id="o0h">)
+;
+O
+0
+H<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#o0h" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>A
+O
+0
+sen</p>
+<p>=
+L
+sen</p>
+<p>os
+(’</p>
+<h1 id="oo0-1">)
+;
+OO
+0<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#oo0-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="o0hos">O
+0
+H
+os
+’<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#o0hos" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+sen</p>
+<p>os
+(’</p>
+<h1 id="os20uguagliandola10ela20siottiene">)
+os
+’
+:
+(2
+0
+)
+Uguagliando
+la
+(1
+0
+)
+e
+la
+(2
+0
+)
+si
+ottiene
+`<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#os20uguagliandola10ela20siottiene" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+sen</p>
+<p>os</p>
+<h1 id="-14"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-14" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>os
+(#</p>
+<p>)
+sen</p>
+<p>os
+’
+os
+(’</p>
+<p>)
+:
+Ri ordando</p>
+<p>he
+la
+div
+ergenza
+del
+fas io</p>
+<p>e
+molto
+pi ola
+si
+pu
+o
+approssimare
+sen</p>
+<p>,
+sen</p>
+<p>e
+os</p>
+<p>os</p>
+<h1 id="1pertantolespressionepre-edentediventa">1;
+p
+ertan
+to
+l’espressione
+pre eden
+te
+div
+en
+ta
+`<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1pertantolespressionepre-edentediventa" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L</p>
+<p>os</p>
+<h1 id="-15"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-15" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>os
+’</p>
+<p>2</p>
+<p>:
+(3
+0
+)
+P
+ag.
+7
+AIF
+{
+Olimpiadi
+di
+Fisi a
+Ga
+ra
+Nazionale:
+SOLUZIONE
+della
+Prova
+T
+eo
+ri a
+{
+Senigallia
+{
+9
+Ap
+rile
+2010
+La
+legge
+di
+Snell
+appli ata
+nei
+pun
+ti
+O
+e
+O
+0
+fornis e
+risp
+ettiv
+amen
+te
+sen</p>
+<h1 id="-16"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-16" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="sen">sen
+’<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#sen" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>n
+;
+e
+sen
+(#</p>
+<p>)
+sen
+(’</p>
+<h1 id="-17">)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-17" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>n
+:
+Con
+l’approssimazione
+in
+tro
+dotta
+e
+tenendo
+presen
+te
+la
+prima
+espressione,
+dalla
+se onda
+si
+ottiene
+sen</p>
+<h1 id="-18"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-18" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>os</p>
+<h1 id="-19"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-19" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>=
+n
+sen
+’
+n</p>
+<p>os
+’
+)</p>
+<p>os</p>
+<h1 id="-20"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-20" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>=
+n</p>
+<p>os
+’
+)</p>
+<p>=
+n
+os
+’
+os</p>
+<h1 id="-21"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-21" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="sostituendoquestultimanella3siottiene">:
+Sostituendo
+quest’ultima
+nella
+(3’)
+si
+ottiene
+`<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#sostituendoquestultimanella3siottiene" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+n</p>
+<p>os</p>
+<h1 id="-22"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-22" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>os
+’</p>
+<p>3
+(4
+0
+)</p>
+<p>he
+oin ide
+on
+la
+(4).
+La
+legge
+di
+Snell,
+espressa
+in
+termini
+dei
+oseni
+degli
+angoli
+si
+pu
+o
+s riv
+ere
+1
+os
+2</p>
+<h1 id="-23"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-23" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="1os2">1
+os
+2
+’<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1os2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>n
+2
+)
+os
+2</p>
+<h1 id="-24"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-24" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="1n21os2">=
+1
+n
+2
+(1
+os
+2
+’)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1n21os2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>n
+2
+os
+2
+’
+(n
+2
+1)
+Dunque</p>
+<p>os#
+os
+‘</p>
+<h1 id="2-2">2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="n2n21os2">n
+2
+n
+2
+1
+os
+2
+‘<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#n2n21os2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="n2n211tg2">n
+2
+(n
+2
+1)(1
++
+tg
+2
+’)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#n2n211tg2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>1
+(n
+2
+1)
+tg
+2
+’
+In
+ne,
+ri ordando</p>
+<h1 id="hetg">he
+tg
+’<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hetg" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>x=L,
+dall’espressione
+pre eden
+te
+si
+ha
+os</p>
+<h1 id="-25"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-25" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="os">os
+’<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#os" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>r
+1
+(n
+2
+1)
++</p>
+<p>x
+L</p>
+<h1 id="2ela4infunzionedilnedxsis-riveome">2
+e
+la
+(4’)
+{
+in
+funzione
+di
+L,
+n
+ed
+x
+{
+si
+s riv
+e
+ome
+`<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2ela4infunzionedilnedxsis-riveome" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+n
+”
+r
+1
+(
+n
+2
+1)</p>
+<p>x
+L</p>
+<p>2</p>
+<h1 id="-26"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-26" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>3
+:
+(5
+0
+)</p>
+<p><strong>Topic:</strong> <a href="../topics/geometric-optics" class="internal internal-link alias" data-slug="topics/geometric-optics">Geometric Optics</a>
+<strong>Metodi:</strong> <a href="../methods/snell's-law-(metodo)" class="internal internal-link alias" data-slug="methods/snell's-law-(metodo)">Snell’s Law</a>, <a href="../methods/ray-tracing-(metodo)" class="internal internal-link alias" data-slug="methods/ray-tracing-(metodo)">Ray Tracing</a>, <a href="../methods/calculus-integration-(metodo)" class="internal internal-link alias" data-slug="methods/calculus-integration-(metodo)">Calculus-Integration</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/diagrammatic-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/diagrammatic-reasoning-(competenza)">Diagrammatic Reasoning</a>
+<strong>Objects:</strong> <a href="../tank/container-(object)" class="internal internal-link alias" data-slug="tank/container-(object)">Container</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view" class="external external-link">Testo (PDF) — p.6<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+<strong>Soluzione:</strong> <a href="https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view" class="external external-link">Soluzioni (PDF)<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>Question No
+n.
+1.
+Si
+Other
+un
+the amount of the contribution
+the following points are added:
+to
+A
+of the
+Fund
+of the
+v
+as a,
+a
+distance
+x
+from
+foot
+of the
+p
+Other
+Other, of a kind used for the manufacture of goods
+Wavy
+from
+the following points are added:
+to
+di
+See also
+Action
+O,
+e
+il
+Radius
+di
+lu e</p>
+<p>he
+I ‘m leaving
+da
+This one.
+the following points are added:
+to
+I ‘m coming
+a
+In the
+of the same
+the following points are added:
+to
+O.
+A
+Other
+of the
+the refraction
+Subtitles
+from
+lu e
+In the
+Passage
+From here.
+in the air,
+It
+We are
+Good .
+to be
+issued
+da
+un
+the following points are added:
+to
+A
+0
+,
+human beings
+shown
+in</p>
+<p>I’m going to go.
+In
+the terms
+of the corner
+’
+shown
+in</p>
+<h1 id="the-mouthsihax">the mouth,
+si
+ha
+x<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#the-mouthsihax" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+tg
+’.
+Il
+Radius</p>
+<p>he
+Part
+da
+A,
+on
+un
+angle
+’
+Responsibility
+Other
+to the
+v
+high-winged,
+Go ahead .
+p
+er
+O;
+in
+v
+e e
+un
+Radius
+The Commission shall adopt the following measures:
+te</p>
+<h1 id="hepartonangledit-comesto-thesupplementaryeriediseparationinunthe-following-points-are-addedtodistancetedaodione-of-themwhentitleadxdate-of-the-datedaxdx">he
+Part
+on
+angle
+’
++
+d’
+It comes
+to the
+Supplementary
+er
+ie
+di
+Separation
+in
+un
+the following points are added:
+to
+Distance
+te
+da
+O
+di
+One of them.
+When
+Title
+a
+dx
+Date of the date
+da
+x
++
+dx<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hepartonangledit-comesto-thesupplementaryeriediseparationinunthe-following-points-are-addedtodistancetedaodione-of-themwhentitleadxdate-of-the-datedaxdx" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="ltgddx-1">L
+tg
+(’
++
+d’)
+)
+dx<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ltgddx-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="ltgdtgdx-1">L
+[tg
+(’
++
+d’)
+tg
+’℄
+)
+dx<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ltgdtgdx-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L</p>
+<p>tg
+(’
++
+d’)
+tg
+’
+d’</p>
+<p>d’
+e,
+and weighing</p>
+<p>he
+p
+er
+d’
+!
+0
+the expression
+between
+the following points are added:
+The Commission
+Court</p>
+<h1 id="eladerivativesotherof-thefunctiontgsihadx">e
+la
+derivatives
+Other
+of the
+function
+tg
+’,
+si
+ha
+dx<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#eladerivativesotherof-thefunctiontgsihadx" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="los2d1notesipotherato-arrivethe-following-is-the-list-of-theof-the-sameresultdiby-herringthe-expressionthe-initialx">L
+os
+2
+’
+d’
+(1)
+Note:
+Si
+p
+Other
+a
+to arrive
+The following is the list of the
+of the same
+result
+di
+by herring
+the expression
+the initial:
+x<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#los2d1notesipotherato-arrivethe-following-is-the-list-of-theof-the-sameresultdiby-herringthe-expressionthe-initialx" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="ltgdx-1">L
+tg
+’
+)
+dx<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ltgdx-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="ldtgdx-1">L
+d(tg
+’)
+)
+dx<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ldtgdx-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+1
+os
+2
+’
+d’
+Other
+te,
+Indians
+on
+`
+la
+depth
+a
+of the
+the following points are added:
+to
+A
+0
+,
+si
+ha</p>
+<h1 id="hex-1">he
+x<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hex-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>`
+os
+2</p>
+<h1 id="-27"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-27" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>d#
+(2)
+Di
+by herring
+la
+Law
+di
+I’m going to get you.
+Other</p>
+<h1 id="-28"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-28" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="nothersithe-result-isdwithout">=
+n
+Other
+’,
+si
+The result is
+d
+(without
+#)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#nothersithe-result-isdwithout" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>nd
+(without
+’)
+)
+os</p>
+<h1 id="-29"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-29" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="d-1">d#<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#d-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="nosdd-1">n
+os
+’
+d’
+)
+d’<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#nosdd-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>1
+n
+os</p>
+<h1 id="-30"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-30" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="osdsubstitutingin-the1the-expressionperdappotherobtainedthe-followingsiri-avadx">os
+’
+d#
+:
+Substituting
+In the
+(1)
+the expression
+p
+er
+d’
+App
+Other
+obtained
+the following:
+si
+ri a
+v
+a
+dx<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#osdsubstitutingin-the1the-expressionperdappotherobtainedthe-followingsiri-avadx" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+n
+os</p>
+<h1 id="-31"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-31" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="os3d3edequalizingleexpressions2e3sithe-result-isinne">os
+3
+’
+d#
+(3)
+ed
+Equalizing
+le
+Expressions
+(2)
+e
+(3)
+si
+The result is
+in
+ne
+`<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#os3d3edequalizingleexpressions2e3sithe-result-isinne" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+n</p>
+<p>os</p>
+<h1 id="-32"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-32" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>os
+‘</p>
+<h1 id="34alwaysdax">3
+(4)
+Always
+da
+x<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#34alwaysdax" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+tg
+’
+si
+ri a
+v
+a</p>
+<h1 id="hexl-1">he
+x
+L<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hexl-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="p1os2osos2-1">p
+1
+os
+2
+’
+os
+’
+)
+os
+2
+‘<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#p1os2osos2-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="11xl2pag6the-following-information-is-providedthe-olympicsdithe-followinggaranational-teamthe-commissionof-thetry-it-teori-athe-following-is-the-list-of-countries9apreels2010otherpartthe-following-is-a-list-of-thelalawdiim-going-to-get-yousipuoanhethe-following-is-the-list-of-thethe-following-are-thexl">1
+1
++
+(x=L)
+2
+P
+ag.
+6
+The following information is provided:
+{
+The Olympics
+di
+The following
+Ga
+ra
+National team:
+The Commission
+of the
+Try it .
+T
+eo
+ri a
+{
+The following is the list of countries:
+{
+9
+Ap
+Reels
+2010
+Other
+part,
+The following is a list of the
+la
+Law
+di
+I’m going to get you.
+si
+pu
+o
+an
+he
+The following is the list of the
+The following are the
+x
+L<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#11xl2pag6the-following-information-is-providedthe-olympicsdithe-followinggaranational-teamthe-commissionof-thetry-it-teori-athe-following-is-the-list-of-countries9apreels2010otherpartthe-following-is-a-list-of-thelalawdiim-going-to-get-yousipuoanhethe-following-is-the-list-of-thethe-following-are-thexl" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Other
+#=n
+p
+1
+(without
+#=n)
+2
+)</p>
+<p>x
+L</p>
+<h1 id="2-3">2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2-3" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>1
+os
+2</p>
+<h1 id="-33"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-33" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>n
+2
+1
++
+os
+2</p>
+<h1 id="-34"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-34" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>)
+os
+2</p>
+<h1 id="-35"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-35" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>=
+1
++
+(1
+n
+2
+)(x=L)
+2
+1
++
+(x=L)
+2
+In
+Last of the
+The following table shows the results of the analysis:</p>
+<p>os</p>
+<h1 id="-36"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-36" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>os
+‘</p>
+<h1 id="2-4">2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2-4" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>1
+(n
+2
+1)</p>
+<p>x
+L</p>
+<p>2</p>
+<h1 id="hereplacedin-the4supplies-and">he
+Replaced
+In the
+(4)
+supplies and
+`<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hereplacedin-the4supplies-and" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+n
+”
+r
+1
+(n
+2
+1)</p>
+<p>x
+L</p>
+<p>2</p>
+<h1 id="-37"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-37" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>3
+(5)
+|||||||||||
+The solution
+Other
+a
+How
+Before that,
+Other
+al
+Radius
+us en
+te
+da
+A
+e
+Other
+te
+p
+er
+O,
+si
+Other
+un
+If the wave
+Radius</p>
+<p>he
+Form
+on
+il
+first
+un
+angle
+Other</p>
+<p>e</p>
+<p>he
+the following points are added:
+v
+Other
+la
+Supplementary
+er
+ie
+I’m not sure.
+in
+un
+the following points are added:
+to
+O
+0
+.
+La
+depth
+a
+`
+di
+A
+0
+si
+pu
+o
+to express
+in
+function
+of the
+depth
+a
+e
+Other
+a
+L,
+of the
+distance
+x
+e
+of the Indian and
+di
+the refraction
+n
+by weeping</p>
+<p>he
+il
+segmentation
+to
+OO
+0</p>
+<p>e
+un
+side
+om
+One of them
+of the
+two
+Triangles
+OHO
+0
+e
+OH
+0
+O
+0
+.
+Da
+The following is the list of the
+The Commission shall adopt the following measures:
+Other geometric
+he
+si
+ri a
+v
+a</p>
+<h1 id="hedoo0h-1">he
+d
+OO
+0
+H<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hedoo0h-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="edoo0h0-1">’
+e
+d
+OO
+0
+H
+0<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#edoo0h0-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="-38"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-38" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>:
+From her
+The following is the list of the following:
+of the
+system
+si
+ri a
+v</p>
+<ul>
+<li>What?
+on the exiv
+I will not let you go.
+te
+A
+0
+O
+0
+=
+`
+os
+(#</li>
+</ul>
+<h1 id="o0h0-1">)
+;
+O
+0
+H
+0<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#o0h0-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>A
+0
+O
+0
+Other</p>
+<p>=
+`
+Other</p>
+<p>os
+(#</p>
+<h1 id="oo0-2">)
+;
+OO
+0<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#oo0-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>O
+0
+H
+0
+os</p>
+<h1 id="-39"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-39" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>=
+`
+Other</p>
+<p>os
+(#</p>
+<p>)
+os</p>
+<h1 id="-40"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-40" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="10otherteao0">:
+(1
+0
+)
+Other
+te
+A
+O
+0<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#10otherteao0" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+os
+(’</p>
+<h1 id="o0h-1">)
+;
+O
+0
+H<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#o0h-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>A
+O
+0
+Other</p>
+<p>=
+L
+Other</p>
+<p>os
+(’</p>
+<h1 id="oo0-3">)
+;
+OO
+0<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#oo0-3" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="o0hos-1">O
+0
+H
+os
+’<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#o0hos-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+Other</p>
+<p>os
+(’</p>
+<h1 id="os20equalizingla10ela20sithe-result-is">)
+os
+’
+:
+(2
+0
+)
+Equalizing
+la
+(1
+0
+)
+e
+la
+(2
+0
+)
+si
+The result is
+`<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#os20equalizingla10ela20sithe-result-is" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+Other</p>
+<p>os</p>
+<h1 id="-41"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-41" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>os
+(#</p>
+<p>)
+Other</p>
+<p>os
+’
+os
+(’</p>
+<p>)
+:
+I ‘m ordering again .</p>
+<p>he
+la
+Div
+emergency
+of the
+I do .</p>
+<p>e
+Very much
+Other
+si
+pu
+o
+Approaching
+Other</p>
+<p>,
+Other</p>
+<p>e
+os</p>
+<p>os</p>
+<h1 id="1pothertothe-expressionfor-edentediventa">1;
+p
+Other
+to
+the expression
+for Eden
+te
+Div
+en
+ta
+`<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1pothertothe-expressionfor-edentediventa" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L</p>
+<p>os</p>
+<h1 id="-42"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-42" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>os
+’</p>
+<p>2</p>
+<p>:
+(3
+0
+)
+P
+ag.
+7
+The following information is provided:
+{
+The Olympics
+di
+The following is a list of
+Ga
+ra
+National team:
+The Commission
+of the
+Try it .
+T
+eo
+ri a
+{
+The following is the list of countries:
+{
+9
+Ap
+Reels
+2010
+La
+Law
+di
+The following is the list of the countries:
+Applications for the
+In the
+the following points are added:
+ti
+O
+e
+O
+0
+supplies and
+Responsibility
+Other
+I will not let you go.
+te
+Other</p>
+<h1 id="-43"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-43" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="other">Other
+’<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#other" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>n
+;
+e
+Other
+(#</p>
+<p>)
+Other
+(’</p>
+<h1 id="-44">)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-44" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>n
+:
+With
+the approximation
+in
+The Commission
+Other
+e
+holding
+the present
+te
+la
+Before
+the expression,
+from
+If it flows
+si
+The result is
+Other</p>
+<h1 id="-45"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-45" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>os</p>
+<h1 id="-46"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-46" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>=
+n
+Other
+’
+n</p>
+<p>os
+’
+)</p>
+<p>os</p>
+<h1 id="-47"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-47" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>=
+n</p>
+<p>os
+’
+)</p>
+<p>=
+n
+os
+’
+os</p>
+<h1 id="-48"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-48" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="substitutingthis-last-onein-the3sithe-result-is">:
+Substituting
+This last one
+In the
+(3’)
+si
+The result is
+`<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#substitutingthis-last-onein-the3sithe-result-is" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+n</p>
+<p>os</p>
+<h1 id="-49"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-49" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>os
+’</p>
+<p>3
+(4
+0
+)</p>
+<p>he
+The Commission shall adopt a decision on the
+on
+la
+(4).
+La
+Law
+di
+I’m going to get you.
+expressed
+in
+the terms
+of the
+You dare to
+of the
+Corners
+si
+pu
+o
+The following is the list of the
+The Commission
+1
+os
+2</p>
+<h1 id="-50"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-50" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="1os2-1">1
+os
+2
+’<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1os2-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>n
+2
+)
+os
+2</p>
+<h1 id="-51"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-51" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="1n21os2-1">=
+1
+n
+2
+(1
+os
+2
+’)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1n21os2-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>n
+2
+os
+2
+’
+(n
+2
+1)
+So, what?</p>
+<p>os#
+os
+‘</p>
+<h1 id="2-5">2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2-5" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="n2n21os2-1">n
+2
+n
+2
+1
+os
+2
+‘<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#n2n21os2-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="n2n211tg2-1">n
+2
+(n
+2
+1)(1
++
+tg
+2
+’)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#n2n211tg2-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>1
+(n
+2
+1)
+tg
+2
+’
+In
+ne,
+Re-ordering</p>
+<h1 id="hetg-1">he
+tg
+’<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hetg-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>x=L,
+from the expression
+for Eden
+te
+si
+ha
+os</p>
+<h1 id="-52"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-52" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="os-1">os
+’<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#os-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>r
+1
+(n
+2
+1)
++</p>
+<p>x
+L</p>
+<h1 id="2ela4infunctiondilnedxsithe-following-is-the-list-of-theehuman-beings">2
+e
+la
+(4’)
+{
+in
+function
+di
+L,
+n
+ed
+x
+{
+si
+The following is the list of the
+e
+human beings
+`<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2ela4infunctiondilnedxsithe-following-is-the-list-of-theehuman-beings" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+n
+”
+r
+1
+(
+n
+2
+1)</p>
+<p>x
+L</p>
+<p>2</p>
+<h1 id="-53"><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-53" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>3
+:
+(5
+0
+)</p>
+<p><strong>Topic:</strong> <a href="../topics/geometric-optics" class="internal internal-link alias" data-slug="topics/geometric-optics">Geometric Optics</a>
+<strong>Metodi:</strong> <a href="../methods/snell's-law-(metodo)" class="internal internal-link alias" data-slug="methods/snell's-law-(metodo)">Snell’s Law</a>, <a href="../methods/ray-tracing-(metodo)" class="internal internal-link alias" data-slug="methods/ray-tracing-(metodo)">Ray Tracing</a>, <a href="../methods/calculus-integration-(metodo)" class="internal internal-link alias" data-slug="methods/calculus-integration-(metodo)">Calculus-Integration</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/diagrammatic-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/diagrammatic-reasoning-(competenza)">Diagrammatic Reasoning</a>
+<strong>Objects:</strong> <a href="../tank/container-(object)" class="internal internal-link alias" data-slug="tank/container-(object)">Container</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view" class="external external-link">Testo (PDF) — p.6<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+<strong>Soluzione:</strong> <a href="https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view" class="external external-link">Soluzioni (PDF)<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"><div class="toc"><button type="button" class="toc-header" aria-controls="toc-723" aria-expanded="true"><h3>Indice</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-0" class="toc-content overflow"><li class="depth-0"><a href="#gurasihax" data-for="gurasihax">gura,
+si
+ha
+x</a></li><li class="depth-0"><a href="#heparteonangolodgiungeallasuperiediseparazioneinunpuntodistantedaodiunaquantitadxdatadaxdx" data-for="heparteonangolodgiungeallasuperiediseparazioneinunpuntodistantedaodiunaquantitadxdatadaxdx">he
+parte
+on
+angolo
+’
++
+d’
+giunge
+alla
+sup
+er
+ie
+di
+separazione
+in
+un
+pun
+to
+distan
+te
+da
+O
+di
+una
+quan
+tit
+a
+dx
+data
+da
+x
++
+dx</a></li><li class="depth-0"><a href="#ltgddx" data-for="ltgddx">L
+tg
+(’
++
+d’)
+)
+dx</a></li><li class="depth-0"><a href="#ltgdtgdx" data-for="ltgdtgdx">L
+[tg
+(’
++
+d’)
+tg
+’℄
+)
+dx</a></li><li class="depth-0"><a href="#eladerivatadellafunzionetgsihadx" data-for="eladerivatadellafunzionetgsihadx">e
+la
+deriv
+ata
+della
+funzione
+tg
+’,
+si
+ha
+dx</a></li><li class="depth-0"><a href="#los2d1notasipotevagiungereallostessorisultatodierenziandolespressioneinizialex" data-for="los2d1notasipotevagiungereallostessorisultatodierenziandolespressioneinizialex">L
+os
+2
+’
+d’
+(1)
+Nota:
+Si
+p
+otev
+a
+giungere
+allo
+stesso
+risultato
+di
+erenziando
+l’espressione
+iniziale:
+x</a></li><li class="depth-0"><a href="#ltgdx" data-for="ltgdx">L
+tg
+’
+)
+dx</a></li><li class="depth-0"><a href="#ldtgdx" data-for="ldtgdx">L
+d(tg
+’)
+)
+dx</a></li><li class="depth-0"><a href="#hex" data-for="hex">he
+x</a></li><li class="depth-0"><a href="#" data-for></a></li><li class="depth-0"><a href="#-1" data-for="-1"></a></li><li class="depth-0"><a href="#nsensiottienedsen" data-for="nsensiottienedsen">=
+n
+sen
+’,
+si
+ottiene
+d
+(sen
+#)</a></li><li class="depth-0"><a href="#-2" data-for="-2"></a></li><li class="depth-0"><a href="#d" data-for="d">d#</a></li><li class="depth-0"><a href="#nosdd" data-for="nosdd">n
+os
+’
+d’
+)
+d’</a></li><li class="depth-0"><a href="#-3" data-for="-3"></a></li><li class="depth-0"><a href="#osdsostituendonella1lespressioneperdappenaottenutasiri-avadx" data-for="osdsostituendonella1lespressioneperdappenaottenutasiri-avadx">os
+’
+d#
+:
+Sostituendo
+nella
+(1)
+l’espressione
+p
+er
+d’
+app
+ena
+otten
+uta,
+si
+ri a
+v
+a
+dx</a></li><li class="depth-0"><a href="#-4" data-for="-4"></a></li><li class="depth-0"><a href="#os3d3eduguagliandoleespressioni2e3siottieneinne" data-for="os3d3eduguagliandoleespressioni2e3siottieneinne">os
+3
+’
+d#
+(3)
+ed
+uguagliando
+le
+espressioni
+(2)
+e
+(3)
+si
+ottiene
+in
+ne
+`</a></li><li class="depth-0"><a href="#-5" data-for="-5"></a></li><li class="depth-0"><a href="#34sempredax" data-for="34sempredax">3
+(4)
+Sempre
+da
+x</a></li><li class="depth-0"><a href="#hexl" data-for="hexl">he
+x
+L</a></li><li class="depth-0"><a href="#p1os2osos2" data-for="p1os2osos2">p
+1
+os
+2
+’
+os
+’
+)
+os
+2
+‘</a></li><li class="depth-0"><a href="#11xl2pag6aifolimpiadidifisi-agaranazionalesoluzionedellaprovateori-asenigallia9aprile2010daltraparteappli-andolaleggedisnellsipuoanhes-riverexl" data-for="11xl2pag6aifolimpiadidifisi-agaranazionalesoluzionedellaprovateori-asenigallia9aprile2010daltraparteappli-andolaleggedisnellsipuoanhes-riverexl">1
+1
++
+(x=L)
+2
+P
+ag.
+6
+AIF
+{
+Olimpiadi
+di
+Fisi a
+Ga
+ra
+Nazionale:
+SOLUZIONE
+della
+Prova
+T
+eo
+ri a
+{
+Senigallia
+{
+9
+Ap
+rile
+2010
+D’altra
+parte,
+appli ando
+la
+Legge
+di
+Snell,
+si
+pu
+o
+an
+he
+s riv
+ere
+x
+L</a></li><li class="depth-0"><a href="#2" data-for="2">2</a></li><li class="depth-0"><a href="#-6" data-for="-6"></a></li><li class="depth-0"><a href="#-7" data-for="-7"></a></li><li class="depth-0"><a href="#-8" data-for="-8"></a></li><li class="depth-0"><a href="#-9" data-for="-9"></a></li><li class="depth-0"><a href="#2-1" data-for="2-1">2</a></li><li class="depth-0"><a href="#hesostituitanella4fornis-e" data-for="hesostituitanella4fornis-e">he
+sostituita
+nella
+(4)
+fornis e
+`</a></li><li class="depth-0"><a href="#-10" data-for="-10"></a></li><li class="depth-0"><a href="#hedoo0h" data-for="hedoo0h">he
+d
+OO
+0
+H</a></li><li class="depth-0"><a href="#edoo0h0" data-for="edoo0h0">’
+e
+d
+OO
+0
+H
+0</a></li><li class="depth-0"><a href="#-11" data-for="-11"></a></li><li class="depth-0"><a href="#dallageometriadelsistemasiri-avanosu-essivamentea0o0" data-for="dallageometriadelsistemasiri-avanosu-essivamentea0o0">:
+Dalla
+geometria
+del
+sistema
+si
+ri a
+v
+ano
+su essiv
+amen
+te
+A
+0
+O
+0</a></li><li class="depth-0"><a href="#o0h0" data-for="o0h0">)
+;
+O
+0
+H
+0</a></li><li class="depth-0"><a href="#oo0" data-for="oo0">)
+;
+OO
+0</a></li><li class="depth-0"><a href="#-12" data-for="-12"></a></li><li class="depth-0"><a href="#-13" data-for="-13"></a></li><li class="depth-0"><a href="#10analogamenteao0" data-for="10analogamenteao0">:
+(1
+0
+)
+Analogamen
+te
+A
+O
+0</a></li><li class="depth-0"><a href="#o0h" data-for="o0h">)
+;
+O
+0
+H</a></li><li class="depth-0"><a href="#oo0-1" data-for="oo0-1">)
+;
+OO
+0</a></li><li class="depth-0"><a href="#o0hos" data-for="o0hos">O
+0
+H
+os
+’</a></li><li class="depth-0"><a href="#os20uguagliandola10ela20siottiene" data-for="os20uguagliandola10ela20siottiene">)
+os
+’
+:
+(2
+0
+)
+Uguagliando
+la
+(1
+0
+)
+e
+la
+(2
+0
+)
+si
+ottiene
+`</a></li><li class="depth-0"><a href="#-14" data-for="-14"></a></li><li class="depth-0"><a href="#1pertantolespressionepre-edentediventa" data-for="1pertantolespressionepre-edentediventa">1;
+p
+ertan
+to
+l’espressione
+pre eden
+te
+div
+en
+ta
+`</a></li><li class="depth-0"><a href="#-15" data-for="-15"></a></li><li class="depth-0"><a href="#-16" data-for="-16"></a></li><li class="depth-0"><a href="#sen" data-for="sen">sen
+’</a></li><li class="depth-0"><a href="#-17" data-for="-17">)</a></li><li class="depth-0"><a href="#-18" data-for="-18"></a></li><li class="depth-0"><a href="#-19" data-for="-19"></a></li><li class="depth-0"><a href="#-20" data-for="-20"></a></li><li class="depth-0"><a href="#-21" data-for="-21"></a></li><li class="depth-0"><a href="#sostituendoquestultimanella3siottiene" data-for="sostituendoquestultimanella3siottiene">:
+Sostituendo
+quest’ultima
+nella
+(3’)
+si
+ottiene
+`</a></li><li class="depth-0"><a href="#-22" data-for="-22"></a></li><li class="depth-0"><a href="#-23" data-for="-23"></a></li><li class="depth-0"><a href="#1os2" data-for="1os2">1
+os
+2
+’</a></li><li class="depth-0"><a href="#-24" data-for="-24"></a></li><li class="depth-0"><a href="#1n21os2" data-for="1n21os2">=
+1
+n
+2
+(1
+os
+2
+’)</a></li><li class="depth-0"><a href="#2-2" data-for="2-2">2</a></li><li class="depth-0"><a href="#n2n21os2" data-for="n2n21os2">n
+2
+n
+2
+1
+os
+2
+‘</a></li><li class="depth-0"><a href="#n2n211tg2" data-for="n2n211tg2">n
+2
+(n
+2
+1)(1
++
+tg
+2
+’)</a></li><li class="depth-0"><a href="#hetg" data-for="hetg">he
+tg
+’</a></li><li class="depth-0"><a href="#-25" data-for="-25"></a></li><li class="depth-0"><a href="#os" data-for="os">os
+’</a></li><li class="depth-0"><a href="#2ela4infunzionedilnedxsis-riveome" data-for="2ela4infunzionedilnedxsis-riveome">2
+e
+la
+(4’)
+{
+in
+funzione
+di
+L,
+n
+ed
+x
+{
+si
+s riv
+e
+ome
+`</a></li><li class="depth-0"><a href="#-26" data-for="-26"></a></li><li class="depth-0"><a href="#the-mouthsihax" data-for="the-mouthsihax">the mouth,
+si
+ha
+x</a></li><li class="depth-0"><a href="#hepartonangledit-comesto-thesupplementaryeriediseparationinunthe-following-points-are-addedtodistancetedaodione-of-themwhentitleadxdate-of-the-datedaxdx" data-for="hepartonangledit-comesto-thesupplementaryeriediseparationinunthe-following-points-are-addedtodistancetedaodione-of-themwhentitleadxdate-of-the-datedaxdx">he
+Part
+on
+angle
+’
++
+d’
+It comes
+to the
+Supplementary
+er
+ie
+di
+Separation
+in
+un
+the following points are added:
+to
+Distance
+te
+da
+O
+di
+One of them.
+When
+Title
+a
+dx
+Date of the date
+da
+x
++
+dx</a></li><li class="depth-0"><a href="#ltgddx-1" data-for="ltgddx-1">L
+tg
+(’
++
+d’)
+)
+dx</a></li><li class="depth-0"><a href="#ltgdtgdx-1" data-for="ltgdtgdx-1">L
+[tg
+(’
++
+d’)
+tg
+’℄
+)
+dx</a></li><li class="depth-0"><a href="#eladerivativesotherof-thefunctiontgsihadx" data-for="eladerivativesotherof-thefunctiontgsihadx">e
+la
+derivatives
+Other
+of the
+function
+tg
+’,
+si
+ha
+dx</a></li><li class="depth-0"><a href="#los2d1notesipotherato-arrivethe-following-is-the-list-of-theof-the-sameresultdiby-herringthe-expressionthe-initialx" data-for="los2d1notesipotherato-arrivethe-following-is-the-list-of-theof-the-sameresultdiby-herringthe-expressionthe-initialx">L
+os
+2
+’
+d’
+(1)
+Note:
+Si
+p
+Other
+a
+to arrive
+The following is the list of the
+of the same
+result
+di
+by herring
+the expression
+the initial:
+x</a></li><li class="depth-0"><a href="#ltgdx-1" data-for="ltgdx-1">L
+tg
+’
+)
+dx</a></li><li class="depth-0"><a href="#ldtgdx-1" data-for="ldtgdx-1">L
+d(tg
+’)
+)
+dx</a></li><li class="depth-0"><a href="#hex-1" data-for="hex-1">he
+x</a></li><li class="depth-0"><a href="#-27" data-for="-27"></a></li><li class="depth-0"><a href="#-28" data-for="-28"></a></li><li class="depth-0"><a href="#nothersithe-result-isdwithout" data-for="nothersithe-result-isdwithout">=
+n
+Other
+’,
+si
+The result is
+d
+(without
+#)</a></li><li class="depth-0"><a href="#-29" data-for="-29"></a></li><li class="depth-0"><a href="#d-1" data-for="d-1">d#</a></li><li class="depth-0"><a href="#nosdd-1" data-for="nosdd-1">n
+os
+’
+d’
+)
+d’</a></li><li class="depth-0"><a href="#-30" data-for="-30"></a></li><li class="depth-0"><a href="#osdsubstitutingin-the1the-expressionperdappotherobtainedthe-followingsiri-avadx" data-for="osdsubstitutingin-the1the-expressionperdappotherobtainedthe-followingsiri-avadx">os
+’
+d#
+:
+Substituting
+In the
+(1)
+the expression
+p
+er
+d’
+App
+Other
+obtained
+the following:
+si
+ri a
+v
+a
+dx</a></li><li class="depth-0"><a href="#-31" data-for="-31"></a></li><li class="depth-0"><a href="#os3d3edequalizingleexpressions2e3sithe-result-isinne" data-for="os3d3edequalizingleexpressions2e3sithe-result-isinne">os
+3
+’
+d#
+(3)
+ed
+Equalizing
+le
+Expressions
+(2)
+e
+(3)
+si
+The result is
+in
+ne
+`</a></li><li class="depth-0"><a href="#-32" data-for="-32"></a></li><li class="depth-0"><a href="#34alwaysdax" data-for="34alwaysdax">3
+(4)
+Always
+da
+x</a></li><li class="depth-0"><a href="#hexl-1" data-for="hexl-1">he
+x
+L</a></li><li class="depth-0"><a href="#p1os2osos2-1" data-for="p1os2osos2-1">p
+1
+os
+2
+’
+os
+’
+)
+os
+2
+‘</a></li><li class="depth-0"><a href="#11xl2pag6the-following-information-is-providedthe-olympicsdithe-followinggaranational-teamthe-commissionof-thetry-it-teori-athe-following-is-the-list-of-countries9apreels2010otherpartthe-following-is-a-list-of-thelalawdiim-going-to-get-yousipuoanhethe-following-is-the-list-of-thethe-following-are-thexl" data-for="11xl2pag6the-following-information-is-providedthe-olympicsdithe-followinggaranational-teamthe-commissionof-thetry-it-teori-athe-following-is-the-list-of-countries9apreels2010otherpartthe-following-is-a-list-of-thelalawdiim-going-to-get-yousipuoanhethe-following-is-the-list-of-thethe-following-are-thexl">1
+1
++
+(x=L)
+2
+P
+ag.
+6
+The following information is provided:
+{
+The Olympics
+di
+The following
+Ga
+ra
+National team:
+The Commission
+of the
+Try it .
+T
+eo
+ri a
+{
+The following is the list of countries:
+{
+9
+Ap
+Reels
+2010
+Other
+part,
+The following is a list of the
+la
+Law
+di
+I’m going to get you.
+si
+pu
+o
+an
+he
+The following is the list of the
+The following are the
+x
+L</a></li><li class="depth-0"><a href="#2-3" data-for="2-3">2</a></li><li class="depth-0"><a href="#-33" data-for="-33"></a></li><li class="depth-0"><a href="#-34" data-for="-34"></a></li><li class="depth-0"><a href="#-35" data-for="-35"></a></li><li class="depth-0"><a href="#-36" data-for="-36"></a></li><li class="depth-0"><a href="#2-4" data-for="2-4">2</a></li><li class="depth-0"><a href="#hereplacedin-the4supplies-and" data-for="hereplacedin-the4supplies-and">he
+Replaced
+In the
+(4)
+supplies and
+`</a></li><li class="depth-0"><a href="#-37" data-for="-37"></a></li><li class="depth-0"><a href="#hedoo0h-1" data-for="hedoo0h-1">he
+d
+OO
+0
+H</a></li><li class="depth-0"><a href="#edoo0h0-1" data-for="edoo0h0-1">’
+e
+d
+OO
+0
+H
+0</a></li><li class="depth-0"><a href="#-38" data-for="-38"></a></li><li class="depth-0"><a href="#o0h0-1" data-for="o0h0-1">)
+;
+O
+0
+H
+0</a></li><li class="depth-0"><a href="#oo0-2" data-for="oo0-2">)
+;
+OO
+0</a></li><li class="depth-0"><a href="#-39" data-for="-39"></a></li><li class="depth-0"><a href="#-40" data-for="-40"></a></li><li class="depth-0"><a href="#10otherteao0" data-for="10otherteao0">:
+(1
+0
+)
+Other
+te
+A
+O
+0</a></li><li class="depth-0"><a href="#o0h-1" data-for="o0h-1">)
+;
+O
+0
+H</a></li><li class="depth-0"><a href="#oo0-3" data-for="oo0-3">)
+;
+OO
+0</a></li><li class="depth-0"><a href="#o0hos-1" data-for="o0hos-1">O
+0
+H
+os
+’</a></li><li class="depth-0"><a href="#os20equalizingla10ela20sithe-result-is" data-for="os20equalizingla10ela20sithe-result-is">)
+os
+’
+:
+(2
+0
+)
+Equalizing
+la
+(1
+0
+)
+e
+la
+(2
+0
+)
+si
+The result is
+`</a></li><li class="depth-0"><a href="#-41" data-for="-41"></a></li><li class="depth-0"><a href="#1pothertothe-expressionfor-edentediventa" data-for="1pothertothe-expressionfor-edentediventa">1;
+p
+Other
+to
+the expression
+for Eden
+te
+Div
+en
+ta
+`</a></li><li class="depth-0"><a href="#-42" data-for="-42"></a></li><li class="depth-0"><a href="#-43" data-for="-43"></a></li><li class="depth-0"><a href="#other" data-for="other">Other
+’</a></li><li class="depth-0"><a href="#-44" data-for="-44">)</a></li><li class="depth-0"><a href="#-45" data-for="-45"></a></li><li class="depth-0"><a href="#-46" data-for="-46"></a></li><li class="depth-0"><a href="#-47" data-for="-47"></a></li><li class="depth-0"><a href="#-48" data-for="-48"></a></li><li class="depth-0"><a href="#substitutingthis-last-onein-the3sithe-result-is" data-for="substitutingthis-last-onein-the3sithe-result-is">:
+Substituting
+This last one
+In the
+(3’)
+si
+The result is
+`</a></li><li class="depth-0"><a href="#-49" data-for="-49"></a></li><li class="depth-0"><a href="#-50" data-for="-50"></a></li><li class="depth-0"><a href="#1os2-1" data-for="1os2-1">1
+os
+2
+’</a></li><li class="depth-0"><a href="#-51" data-for="-51"></a></li><li class="depth-0"><a href="#1n21os2-1" data-for="1n21os2-1">=
+1
+n
+2
+(1
+os
+2
+’)</a></li><li class="depth-0"><a href="#2-5" data-for="2-5">2</a></li><li class="depth-0"><a href="#n2n21os2-1" data-for="n2n21os2-1">n
+2
+n
+2
+1
+os
+2
+‘</a></li><li class="depth-0"><a href="#n2n211tg2-1" data-for="n2n211tg2-1">n
+2
+(n
+2
+1)(1
++
+tg
+2
+’)</a></li><li class="depth-0"><a href="#hetg-1" data-for="hetg-1">he
+tg
+’</a></li><li class="depth-0"><a href="#-52" data-for="-52"></a></li><li class="depth-0"><a href="#os-1" data-for="os-1">os
+’</a></li><li class="depth-0"><a href="#2ela4infunctiondilnedxsithe-following-is-the-list-of-theehuman-beings" data-for="2ela4infunctiondilnedxsithe-following-is-the-list-of-theehuman-beings">2
+e
+la
+(4’)
+{
+in
+function
+di
+L,
+n
+ed
+x
+{
+si
+The following is the list of the
+e
+human beings
+`</a></li><li class="depth-0"><a href="#-53" data-for="-53"></a></li><li class="overflow-end"></li></ul></div></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/tank-container-(object)" class="internal">Tank/Container</a></li><li><a href="../prove/teo10sol" class="internal">OII 2010 Nazionale Teorica</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

@@ -1,0 +1,1033 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr"><head><title>Argent 2008 Locale — Quesito 4</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="Argent 2008 Locale — Quesito 4"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Argent 2008 Locale — Quesito 4"/><meta name="twitter:description" content="Mi tacho: viscosidad del agua por flujo de Poiseuille PRUEBA EXPERIMENTAL 7 - Mi tacho!! Determinación del valor de la viscosidad del agua Suponga que tiene un tacho cilíndrico con agua, que se descarga a través de una manguera de largo L y diámetro interno D (ver figura)."/><meta property="og:description" content="Mi tacho: viscosidad del agua por flujo de Poiseuille PRUEBA EXPERIMENTAL 7 - Mi tacho!! Determinación del valor de la viscosidad del agua Suponga que tiene un tacho cilíndrico con agua, que se descarga a través de una manguera de largo L y diámetro interno D (ver figura)."/><meta property="og:image:alt" content="Mi tacho: viscosidad del agua por flujo de Poiseuille PRUEBA EXPERIMENTAL 7 - Mi tacho!! Determinación del valor de la viscosidad del agua Suponga que tiene un tacho cilíndrico con agua, que se descarga a través de una manguera de largo L y diámetro interno D (ver figura)."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2008__q04"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2008__q04"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Mi tacho: viscosidad del agua por flujo de Poiseuille PRUEBA EXPERIMENTAL 7 - Mi tacho!! Determinación del valor de la viscosidad del agua Suponga que tiene un tacho cilíndrico con agua, que se descarga a través de una manguera de largo L y diámetro interno D (ver figura)."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/cuadernillo_2008__q04" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-7487" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-7487" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Argent 2008 Locale — Quesito 4</a></div></nav><h1 class="article-title">Argent 2008 Locale — Quesito 4</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/kg/prova" class="internal internal-link tag-link">kg/prova</a><span class="note-properties-separator">, </span><a href="../tags/paese/argentina" class="internal internal-link tag-link">paese/argentina</a><span class="note-properties-separator">, </span><a href="../tags/comp/argent" class="internal internal-link tag-link">comp/argent</a><span class="note-properties-separator">, </span><a href="../tags/cluster/fluidi" class="internal internal-link tag-link">cluster/fluidi</a><span class="note-properties-separator">, </span><a href="../tags/topic/fluid-mechanics" class="internal internal-link tag-link">topic/fluid-mechanics</a><span class="note-properties-separator">, </span><a href="../tags/argomento/fluidi" class="internal internal-link tag-link">argomento/fluidi</a><span class="note-properties-separator">, </span><a href="../tags/difficolta/4" class="internal internal-link tag-link">difficolta/4</a><span class="note-properties-separator">, </span><a href="../tags/multidisciplina/mono" class="internal internal-link tag-link">multidisciplina/mono</a><span class="note-properties-separator">, </span><a href="../tags/object/tank-container" class="internal internal-link tag-link">object/tank-container</a><span class="note-properties-separator">, </span><a href="../tags/object/pipe-tube" class="internal internal-link tag-link">object/pipe-tube</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:27:57.529Z">02 lug 2026</time><span>17 minuti</span></p><ul class="tags"><li><a href="../tags/kg/prova" class="internal tag-link">kg/prova</a></li><li><a href="../tags/paese/argentina" class="internal tag-link">paese/argentina</a></li><li><a href="../tags/comp/argent" class="internal tag-link">comp/argent</a></li><li><a href="../tags/cluster/fluidi" class="internal tag-link">cluster/fluidi</a></li><li><a href="../tags/topic/fluid-mechanics" class="internal tag-link">topic/fluid-mechanics</a></li><li><a href="../tags/argomento/fluidi" class="internal tag-link">argomento/fluidi</a></li><li><a href="../tags/difficolta/4" class="internal tag-link">difficolta/4</a></li><li><a href="../tags/multidisciplina/mono" class="internal tag-link">multidisciplina/mono</a></li><li><a href="../tags/object/tank-container" class="internal tag-link">object/tank-container</a></li><li><a href="../tags/object/pipe-tube" class="internal tag-link">object/pipe-tube</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="es"></div>
+<p><strong>Mi tacho: viscosidad del agua por flujo de Poiseuille</strong></p>
+<p>PRUEBA EXPERIMENTAL</p>
+<ul>
+<li>7 -
+Mi tacho!!
+Determinación del valor de la viscosidad del agua</li>
+</ul>
+<p>Suponga que tiene un tacho cilíndrico con agua, que se descarga a través de una manguera de largo L y
+diámetro interno D (ver figura).</p>
+<h1 id="el-punto-e-extremo-de-la-manguera-por-donde-ingresa-el-agua-está-al-mismo-nivel-que-el-punto-sextremo-por-donde-sale-el-aguamientras-sale-agua-por-la-manguera-la-altura-h-de-agua-en-el-tacho-varía-con-el-tiempo-el-caudal-q-deagua-volumen-por-unidad-de-tiempo-que-sale-a-través-de-la-manguera-en-un-dado-intervalo-de-tiempot-cumpleqthst">El punto E (extremo de la manguera por donde ingresa el agua) está al mismo nivel que el punto S
+(extremo por donde sale el agua).
+Mientras sale agua por la manguera, la altura h de agua en el tacho varía con el tiempo. El caudal Q de
+agua (volumen por unidad de tiempo) que sale a través de la manguera en un dado intervalo de tiempo
+∆t cumple:
+Q
+t
+h
+ST<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#el-punto-e-extremo-de-la-manguera-por-donde-ingresa-el-agua-está-al-mismo-nivel-que-el-punto-sextremo-por-donde-sale-el-aguamientras-sale-agua-por-la-manguera-la-altura-h-de-agua-en-el-tacho-varía-con-el-tiempo-el-caudal-q-deagua-volumen-por-unidad-de-tiempo-que-sale-a-través-de-la-manguera-en-un-dado-intervalo-de-tiempot-cumpleqthst" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="donde-st--es-la-sección-de-tacho-y--h-es-la-variación-de-la-altura-h-en-el-intervalo-de-tiempo-t-si-el-flujo-de-líquido-en-la-manguera-está-regido-por-la-ley-de-poiseuille-el-nivel-de-agua-en-el-tacho-enfunción-del-tiempo-esta-dado-portehthβ">∆
+∆
+,
+donde ST  es la sección de tacho y  ∆h es la variación de la altura h en el intervalo de tiempo ∆t .
+Si el flujo de líquido en la manguera está regido por la ley de Poiseuille, el nivel de agua en el tacho en
+función del tiempo esta dado por:
+t
+e
+h
+t
+h
+β
+−<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#donde-st--es-la-sección-de-tacho-y--h-es-la-variación-de-la-altura-h-en-el-intervalo-de-tiempo-t-si-el-flujo-de-líquido-en-la-manguera-está-regido-por-la-ley-de-poiseuille-el-nivel-de-agua-en-el-tacho-enfunción-del-tiempo-esta-dado-portehthβ" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>0
+)
+(</p>
+<h1 id="1conlsrgataηπρβ84">(1)
+con
+L
+S
+R
+g
+a
+T
+a
+η
+π
+ρ
+β
+8
+4<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1conlsrgataηπρβ84" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>(2)
+en donde: L es la longitud de la manguera,  R es el radio interno de la manguera, ST es la sección del
+tacho, ρa es la densidad del agua, ηa es la viscosidad del agua (la cual sólo depende de la temperatura)
+y g es la gravedad.</p>
+<p>Materiales provistos
+Tacho de plástico con regla y orificio.
+Dos recipientes de plástico, uno con agua.
+Manguera de diámetro interno D = 4,0 mm y de longitud LT.
+Apoyo de telgopor.
+Trapo para secar.
+Paño absorbente.
+Cinta adhesiva de papel.
+h
+L
+E
+S</p>
+<ul>
+<li>8 -
+Tijera.
+Cronómetro.
+Cinta métrica (pegada en la mesa de trabajo).
+Hojas milimetradas.
+Hojas blancas.</li>
+</ul>
+<p>Datos útiles:</p>
+<p>Sección del tacho con manguera
+ST = 164,4 cm2.</p>
+<p>Diámetro interno de la manguera
+D = 4.0 mm</p>
+<p>Densidad del agua
+ρa= 1,00 g cm-3.</p>
+<p>Gravedad
+g = 979 cm s-2</p>
+<p> Armado del equipo  experimental</p>
+<p>Con los elementos disponibles arme un sistema de forma adecuada para estudiar la descarga de agua a
+través de una manguera de longitud L.
+Para tener en cuenta:
+ Procure que el último tramo de manguera (aproximadamente 3cm) esté dispuesto de forma
+horizontal y al mismo nivel que el extremo por donde ingresa el agua. El resto de la manguera
+puede estar arrollada. Cuide que el agua descargue en el recipiente receptor.<br/>
+ Minimice las pérdidas de líquido en la unión manguera-tacho.
+ Procure que no se formen demasiadas burbujas de aire en la manguera.
+ Use el trapo de piso provisto como superficie de trabajo.
+ No desconecte la manguera del tacho hasta finalizar todas las mediciones.
+ En caso de derrame del agua, solo se rellenará el tacho una vez
+ Toda actividad de secado es obligatoria para los participantes.</p>
+<ol>
+<li>Realice un esquema del equipo experimental en el cual se identifiquen todos los componentes. (0,3
+pts)</li>
+</ol>
+<ul>
+<li>9 -
+ Procedimiento de medición:</li>
+</ul>
+<p>a- Cargue el tacho con agua hasta que el nivel de agua sea superior a 10,0 cm (medido desde el
+centro del orificio de  salida).
+b- Mida, en forma ininterrumpida, el tiempo que tarda el nivel de líquido en pasar de la altura h0
+= 9,5 cm a la hA = 9,0 cm (tA
+L) y a la hB = 7,5 cm (tB
+L).
+c- Repita los puntos a y b para diferentes largos (L) de la manguera de descarga, por lo menos
+para10 longitudes diferentes  entre el largo máximo LT  y un mínimo de aproximadamente 10
+cm.</p>
+<p>Sugerencia
+Realice las mediciones para valores de L iguales a:  LT , LT – 100cm,  LT – 200cm, LT – 250cm, LT –
+300cm , LT – 350cm, LT – 370cm, LT – 390cm, LT – 410cm, LT – 430cm, LT – 450cm,         LT – 470cm,
+LT – 490cm.</p>
+<p> Registro de los resultados</p>
+<ol start="2">
+<li>Con los datos correspondientes a los tiempos tA
+L ,  tB
+L  y L confeccione una tabla (TABLA 1). (4
+pts)</li>
+</ol>
+<p>TABLA 1
+tA
+L  (s)
+tB
+L (s)
+L (cm)</p>
+<p>Nota: incluya  en la tabla las incertezas correspondientes.</p>
+<p> Análisis de datos, primera parte.</p>
+<ol start="3">
+<li>
+<p>Elija  de la TABLA 1 los datos correspondientes a uno de los  niveles de agua considerados y
+justifique su elección. (0,3 pts)</p>
+</li>
+<li>
+<p>Con los datos elegidos calcule los valores correspondientes de β  utilizando la formula (1)  y
+confeccione una tabla (TABLA 2). (2,7 pts)</p>
+</li>
+</ol>
+<ul>
+<li>10 -
+TABLA 2
+tL  (s)
+L (cm)
+β (s-1)</li>
+</ul>
+<p>Nota: incluya  en la tabla las incertezas correspondientes.</p>
+<ol start="5">
+<li>A partir de los datos de la TABLA 2,  determine los valores correspondientes de ηa en función
+de L y confeccione una tabla (TABLA 3). (2,5 pts)</li>
+</ol>
+<p>TABLA 3
+L (cm)
+ηa (s-1)</p>
+<p>Nota: incluya  en la tabla las incertezas correspondientes.</p>
+<ol start="6">
+<li>
+<p>Grafique los valores ηa en función de L. (4 pts)</p>
+</li>
+<li>
+<p>A partir del gráfico anterior y suponiendo que la temperatura ambiente se mantuvo constante
+durante el transcurso de todas las mediciones, determine un rango de longitudes de manguera (Lmin,
+Lmax ) para las cuales es adecuada la hipótesis de flujo de Poiseuille. Indíquelo en el gráfico.
+Explicite  el criterio que utilizó. (2 pts)</p>
+</li>
+<li>
+<p>A partir del rango elegido en el punto anterior, determine el valor de  la viscosidad del agua y su
+error. Explicite el procedimiento que realizó y justifíquelo. (2 pts)</p>
+</li>
+</ol>
+<p> Análisis de datos, segunda parte.</p>
+<h1 id="para-que-se-establezca-el-flujo-de-poiseuille-en-la-manguera-el-agua-debe-recorrer-una-longitud-mayorquel--dada-por-la-expresión005reld">Para que se establezca el flujo de Poiseuille en la manguera, el agua debe recorrer una longitud mayor
+que
+*
+L , dada por la expresión:
+*
+0.05
+Re
+L
+D<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#para-que-se-establezca-el-flujo-de-poiseuille-en-la-manguera-el-agua-debe-recorrer-una-longitud-mayorquel--dada-por-la-expresión005reld" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="donde-re-es-el-número-de-reynolds-definido-comoamavdηρ">Donde Re es el número de Reynolds definido como:<br/>
+a
+m
+a
+v
+D
+η
+ρ<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#donde-re-es-el-número-de-reynolds-definido-comoamavdηρ" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Re</p>
+<p>y  vm es la velocidad media del agua en la manguera.</p>
+<ul>
+<li>11 -
+Consignas
+Usando el valor de viscosidad del agua que determinó en “ 8)”y considerando una manguera de
+longitud Lmin , extremo  inferior del rango de validez que determinó en “ 7)”:</li>
+</ul>
+<ol start="9">
+<li>
+<p>Calcule el valor de  vm y su error. (1 pts)</p>
+</li>
+<li>
+<p>Calcule el valor de</p>
+</li>
+</ol>
+<ul>
+<li></li>
+</ul>
+<p>L
+y su error. Escriba el valor de
+min
+*
+L
+L
+−
+. (1 pts)</p>
+<ol start="11">
+<li>Determine el porcentaje de la manguera en el cual el flujo es de Poiseuille. (0,2<br/>
+pts)</li>
+</ol>
+<ul>
+<li>12 -</li>
+</ul>
+<p>INSTANCIAS LOCALES
+PROBLEMAS TEÓRICOS</p>
+<ul>
+<li>13 -</li>
+</ul>
+
+<p><img src="../_attachments/cuadernillo_2008/cuadernillo_2008_p07_f1.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/fluid-mechanics" class="internal internal-link alias" data-slug="topics/fluid-mechanics">Fluid Mechanics</a>
+<strong>Metodi:</strong> <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>, <a href="../methods/bernoulli's-equation-(metodo)" class="internal internal-link alias" data-slug="methods/bernoulli's-equation-(metodo)">Bernoulli’s Equation</a>, <a href="../methods/curve-fitting-(metodo)" class="internal internal-link alias" data-slug="methods/curve-fitting-(metodo)">Curve Fitting</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../tank/container-(object)" class="internal internal-link alias" data-slug="tank/container-(object)">Container</a>, <a href="../pipe/tube-(object)" class="internal internal-link alias" data-slug="pipe/tube-(object)">Tube</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1C3e_kV2nxea7l_iZUAXvFoaDSCaA7fun/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="it"></div>
+<p><strong>Il mio tag: viscosità dell’acqua per flusso di Poiseuille</strong></p>
+<p>Prova sperimentale</p>
+<ul>
+<li>7 -
+Il mio taglio!
+Determinazione del valore della viscosità dell’acqua</li>
+</ul>
+<p>Supponiamo che tu abbia un taglio cilindrico con acqua, che si scarica attraverso un tubo lungo L e
+diametro interno D (vedi figura).</p>
+<h1 id="il-punto-e-lestremità-del-tubo-attraverso-il-quale-lacqua-entra-è-a-livello-dello-stesso-punto-sestremo-da-dove-usce-lacquamentre-lacqua-scorre-dal-tubo-laltezza-h-dellacqua-nel-tetto-varia-con-il-tempo-il-flusso-q-diacqua-volume-per-unità-di-tempo-che-esce-attraverso-il-tubo-in-un-dato-intervallo-di-tempot-soddisfaqthst">Il punto E (l’estremità del tubo attraverso il quale l’acqua entra) è a livello dello stesso punto S
+(estremo da dove usce l’acqua).
+Mentre l’acqua scorre dal tubo, l’altezza h dell’acqua nel tetto varia con il tempo. Il flusso Q di
+acqua (volume per unità di tempo) che esce attraverso il tubo in un dato intervallo di tempo
+∆t soddisfa:
+Q
+t
+h
+ST<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#il-punto-e-lestremità-del-tubo-attraverso-il-quale-lacqua-entra-è-a-livello-dello-stesso-punto-sestremo-da-dove-usce-lacquamentre-lacqua-scorre-dal-tubo-laltezza-h-dellacqua-nel-tetto-varia-con-il-tempo-il-flusso-q-diacqua-volume-per-unità-di-tempo-che-esce-attraverso-il-tubo-in-un-dato-intervallo-di-tempot-soddisfaqthst" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="dove-st-è-la-sezione-di-taglio-e-h-è-la-variazione-dell-altezza-h-nell-intervallo-di-tempo-t-se-il-flusso-di-liquido-nel-tubo-è-regolato-dalla-legge-di-poiseuille-il-livello-di-acqua-nel-tubo-è-difunzione-del-tempo-è-data-datehthβ">∆
+∆
+,
+dove ST è la sezione di taglio e ∆h è la variazione dell’ altezza h nell’ intervallo di tempo ∆t .
+Se il flusso di liquido nel tubo è regolato dalla legge di Poiseuille, il livello di acqua nel tubo è di
+funzione del tempo è data da:
+t
+e
+h
+t
+h
+β
+−<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#dove-st-è-la-sezione-di-taglio-e-h-è-la-variazione-dell-altezza-h-nell-intervallo-di-tempo-t-se-il-flusso-di-liquido-nel-tubo-è-regolato-dalla-legge-di-poiseuille-il-livello-di-acqua-nel-tubo-è-difunzione-del-tempo-è-data-datehthβ" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>0
+)
+(</p>
+<h1 id="1conlsrgataηπρβ84-1">(1)
+con
+L
+S
+R
+g
+a
+T
+a
+η
+π
+ρ
+β
+8
+4<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1conlsrgataηπρβ84-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>(2)
+dove: L è la lunghezza del tubo, R è il raggio interno del tubo, ST è la sezione del tubo.
+il punto, ρa è la densità dell’acqua, ηa è la viscosità dell’acqua (che dipende solo dalla temperatura)
+e g è la gravità.</p>
+<p>Materiali forniti
+Tato di plastica con rigolo e buco.
+Due contenitori di plastica, uno con acqua.
+Maniglia di diametro interno D = 4,0 mm e lunghezza LT.
+Supporto telgopor.</p>
+<ul>
+<li>
+<p>La stoffa per asciugare.</p>
+</li>
+<li>
+<p>Un vestito assorbente.
+Fascia adesiva di carta.
+h
+L
+E
+S</p>
+</li>
+<li>
+<p>8 -
+Scavatrice.
+Un cronometro.
+Cintura metrica (stampa sul tavolo di lavoro).
+Foglie millimetriche.
+Foglie bianche.</p>
+</li>
+</ul>
+<p>Informazioni utili:</p>
+<p>Sezione del cuoio con tubo
+ST = 164,4 cm2.</p>
+<p>Diametro interno del tubo
+D = 4.0 mm</p>
+<p>Densità dell’acqua
+ρa= 1,00 g cm-3.</p>
+<p>Gravità
+g = 979 cm s-2</p>
+<p>Armata da equipaggiamento sperimentale</p>
+<p>Con gli elementi disponibili, si può mettere a disposizione un sistema adeguato per studiare il discarico di acqua.
+attraverso un tubo di lunghezza L.
+Per tenere conto:
+Cerca che l’ultimo tratto di tubo (circa 3 cm) sia disposto in modo da
+orizzontale e a livello dello stesso punto da cui l’acqua entra. Il resto del tubo.</p>
+<ul>
+<li>Potrebbe essere rovinata. Assicurarsi che l’acqua si scarica nel recipiente ricevente.
+Minimizza le perdite di liquido nel collegamento tubo-tacco.
+Assicurati che non si formino troppe bolle d’aria nel tubo.
+Utilizzare il pavimento fornito come superficie di lavoro.
+Non disattivare il tubo del taglio fino a quando non avrete completato tutte le misure.
+In caso di scarico d’acqua, il buco verrà riempito una sola volta
+Tutte le attività di asciugatura sono obbligatorie per i partecipanti.</li>
+</ul>
+<ol>
+<li>Realizzare un schema dell’equipaggiamento sperimentale in cui tutti i componenti sono identificati. (0,3
+Pts)</li>
+</ol>
+<ul>
+<li>9 -
+Procedura di misurazione:</li>
+</ul>
+<p>a- Caricare il tappo con acqua fino a quando il livello dell’acqua non supera i 10,0 cm (misurato dal
+centro del foro di uscita).
+b- In continuità, il tempo necessario per superare l’altezza h0
+= 9,5 cm a la hA = 9,0 cm (tA
+L) y a la hB = 7,5 cm (tB
+L).
+c- Ripeti i punti a e b per diverse lunghezze (L) del tubo di scarico, almeno
+per10 lunghezze diverse tra la lunghezza massima LT e un minimo di circa 10
+cm.</p>
+<p>Suggerimento
+Eseguire le misurazioni per valori di L pari a: LT, LT  100cm, LT  200cm, LT  250cm, LT
+300cm , LT – 350cm, LT – 370cm, LT – 390cm, LT – 410cm, LT – 430cm, LT – 450cm,         LT – 470cm,
+LT – 490cm.</p>
+<p>Registrazione dei risultati</p>
+<ol start="2">
+<li>Con i dati relativi ai tempi
+L ,  tB
+L e L si compone di una tabella (tabella 1). (4
+Pts)</li>
+</ol>
+<p>TABELLA 1
+tA
+L  (s)
+tB
+L (s)
+L (cm)</p>
+<p>Nota: includere nella tabella le relative incertezze.</p>
+<p>Analisi dei dati, prima parte.</p>
+<ol start="3">
+<li>
+<p>Scegliete da TABELLA 1 i dati relativi a uno dei livelli di acqua considerati e
+giustifica la sua scelta. 0,3 pts)</p>
+</li>
+<li>
+<p>Con i dati scelti calcoli i valori corrispondenti di β utilizzando la formula (1) e</p>
+</li>
+</ol>
+<ul>
+<li>
+<p>un quadro (TABELLA 2). (7,2 pts)</p>
+</li>
+<li>
+<p>10 -
+TABELLA 2
+tL  (s)
+L (cm)
+β (s-1)</p>
+</li>
+</ul>
+<p>Nota: includere nella tabella le relative incertezze.</p>
+<ol start="5">
+<li>Sulla base dei dati di TABLINA 2, determinare i valori corrispondenti di ηa in funzione
+La tabella di cui sopra è di tipo L e si tratta di una tabella (TABELLA 3). (2,5 pts)</li>
+</ol>
+<p>TABELLA 3
+L (cm)
+ηa (s-1)</p>
+<p>Nota: includere nella tabella le relative incertezze.</p>
+<ol start="6">
+<li>
+<p>Graficare i valori ηa in funzione di L. (4 pts)</p>
+</li>
+<li>
+<p>Sulla base del grafico precedente e supponendo che la temperatura ambiente sia stata mantenuta costante
+Durante tutte le misurazioni, determinare un intervallo di lunghezze di manubrio (Lmin,
+Lmax) per cui è appropriata la ipotesi di flusso di Poiseuille. Indica il grafico.
+Spiega il criterio che ha usato. (2 pts)</p>
+</li>
+<li>
+<p>Dal range scelto nel punto precedente, determinare il valore della viscosità dell’acqua e il suo
+errore. Spiega e giustifica la procedura che ha eseguito. (2 pts)</p>
+</li>
+</ol>
+<p>Analisi dei dati, parte 2.</p>
+<h1 id="per-stabilire-il-flusso-di-poiseuille-nel-tubo-lacqua-deve-percorrere-una-lunghezza-maggiorechel--data-dall--espressione005reld">Per stabilire il flusso di Poiseuille nel tubo, l’acqua deve percorrere una lunghezza maggiore
+che
+*
+L , data dall ’ espressione:
+*
+0.05
+Re
+L
+D<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#per-stabilire-il-flusso-di-poiseuille-nel-tubo-lacqua-deve-percorrere-una-lunghezza-maggiorechel--data-dall--espressione005reld" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="dove-re-è-il-numero-di-reynolds-definito-comeamavdηρ">Dove Re è il numero di Reynolds definito come:
+a
+m
+a
+v
+D
+η
+ρ<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#dove-re-è-il-numero-di-reynolds-definito-comeamavdηρ" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Re</p>
+<p>e vm è la velocità media dell’acqua nel tubo.</p>
+<ul>
+<li>11 -
+Consigne
+Usando il valore di viscosità dell’acqua che ha determinato a  8) e considerando un tubo di
+longitudine Lmin , fine inferiore del range di validità che ha determinato in  7) :</li>
+</ul>
+<ol start="9">
+<li>
+<p>Calcola il valore di vm e il suo errore. 1 pts)</p>
+</li>
+<li>
+<p>Calcolare il valore di</p>
+</li>
+</ol>
+<ul>
+<li></li>
+</ul>
+<p>L
+e il suo errore. Scrivi il valore di
+Min
+*
+L
+L
+−
+. 1 pts)</p>
+<ol start="11">
+<li>Determina la percentuale di tubo in cui il flusso è di Poiseuille. (0,2<br/>
+Pts)</li>
+</ol>
+<ul>
+<li>12 -</li>
+</ul>
+<p>Istituzioni locali
+I problemi teorici</p>
+<ul>
+<li>13 -</li>
+</ul>
+
+<p><img src="../_attachments/cuadernillo_2008/cuadernillo_2008_p07_f1.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/fluid-mechanics" class="internal internal-link alias" data-slug="topics/fluid-mechanics">Fluid Mechanics</a>
+<strong>Metodi:</strong> <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>, <a href="../methods/bernoulli's-equation-(metodo)" class="internal internal-link alias" data-slug="methods/bernoulli's-equation-(metodo)">Bernoulli’s Equation</a>, <a href="../methods/curve-fitting-(metodo)" class="internal internal-link alias" data-slug="methods/curve-fitting-(metodo)">Curve Fitting</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../tank/container-(object)" class="internal internal-link alias" data-slug="tank/container-(object)">Container</a>, <a href="../pipe/tube-(object)" class="internal internal-link alias" data-slug="pipe/tube-(object)">Tube</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1C3e_kV2nxea7l_iZUAXvFoaDSCaA7fun/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>My tache: viscosity of water by Poiseuille flow</p>
+<p>The test is an experimental test.</p>
+<ul>
+<li>7 -
+My tacho!
+Determination of the viscosity value of water</li>
+</ul>
+<p>Suppose you have a cylindrical spike with water, which is discharged through a long L-shaped hose.
+The following is the list of the components of the test:</p>
+<h1 id="the-e-point-extreme-end-of-the-hose-through-which-water-enters-is-at-the-same-level-as-the-s-pointextreme-where-the-water-comes-outas-water-is-drawn-out-of-the-hose-the-height-h-of-water-in-the-roof-varies-over-time-the-flow-rate-q-ofwater-volume-per-unit-time-coming-out-of-the-hose-at-a-given-time-intervalt-complies-withqthst">The E point (extreme end of the hose through which water enters) is at the same level as the S point.
+(extreme where the water comes out).
+As water is drawn out of the hose, the height h of water in the roof varies over time. The flow rate Q of
+Water (volume per unit time) coming out of the hose at a given time interval
+∆t complies with:
+Q
+t
+h
+ST<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#the-e-point-extreme-end-of-the-hose-through-which-water-enters-is-at-the-same-level-as-the-s-pointextreme-where-the-water-comes-outas-water-is-drawn-out-of-the-hose-the-height-h-of-water-in-the-roof-varies-over-time-the-flow-rate-q-ofwater-volume-per-unit-time-coming-out-of-the-hose-at-a-given-time-intervalt-complies-withqthst" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="where-st-is-the-section-of-the-spike-and-h-is-the-variation-in-height-h-in-the-time-interval-t-if-the-flow-of-fluid-in-the-hose-is-governed-by-poiseuilles-law-the-water-level-in-the-hose-is-atthe-time-function-is-given-bytehthβ">∆
+∆
+,
+where ST is the section of the spike and ∆h is the variation in height h in the time interval ∆t .
+If the flow of fluid in the hose is governed by Poiseuille’s law, the water level in the hose is at
+The time function is given by:
+t
+e
+h
+t
+h
+β
+−<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#where-st-is-the-section-of-the-spike-and-h-is-the-variation-in-height-h-in-the-time-interval-t-if-the-flow-of-fluid-in-the-hose-is-governed-by-poiseuilles-law-the-water-level-in-the-hose-is-atthe-time-function-is-given-bytehthβ" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>0
+)
+(</p>
+<h1 id="1withlsrgataηπρβ84">(1)
+with
+L
+S
+R
+g
+a
+T
+a
+η
+π
+ρ
+β
+8
+4<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1withlsrgataηπρβ84" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>(2)
+where: L is the length of the hose, R is the inner radius of the hose, ST is the section of the hose.
+where ρa is the density of water, ηa is the viscosity of water (which depends only on temperature)
+And g is gravity.</p>
+<p>Materials provided
+Plastic roof with a handle and a hole.
+Two plastic containers, one with water.
+The main body of the vessel is the vessel.
+Support for telgopor.
+Dressing cloth.
+It’s a very absorbent cloth.
+Paper tape.
+h
+L
+E
+S</p>
+<ul>
+<li>8 -
+Shearer.
+It’s a timekeeper.
+Metric tape (stick on the work table).
+Millimeter leaves.
+White leaves.</li>
+</ul>
+<p>Useful data:</p>
+<p>Section of the sleeve with hose
+ST = 164,4 cm2.</p>
+<p>The inner diameter of the hose
+D = 4.0 mm</p>
+<p>Density of water
+ρa= 1,00 g cm-3.</p>
+<p>Gravity
+g = 979 cm s-2</p>
+<p>Armed with experimental equipment</p>
+<p>With the available elements, equip a system to study the discharge of water to
+through a hose of L length.
+To take into account:
+Make sure the last stretch of the hose (approximately 3cm) is arranged in a manner that is
+horizontal and at the same level as the end where the water enters. The rest of the hose .
+It could be overturned. Make sure the water discharges into the receiving vessel.
+Minimize fluid losses in the hose-to-tach junction.
+Make sure there are not too many air bubbles in the hose.
+Use the floor cloth provided as a working surface.
+Do not disconnect the tail hose until all measurements are completed.
+In case of water spill, the hole will only be filled once.
+All drying activities are mandatory for participants.</p>
+<ol>
+<li>Make a diagram of the experimental equipment in which all components are identified. (0,3
+The Commission shall adopt implementing acts.</li>
+</ol>
+<ul>
+<li>9 -
+Measurement procedure:</li>
+</ul>
+<p>a- Load the cap with water until the water level is above 10.0 cm (measured from the
+the centre of the exit hole).
+b- Mean, continuously, the time it takes the liquid level to rise above h0
+= 9,5 cm a la hA = 9,0 cm (tA
+L) y a la hB = 7,5 cm (tB
+L).
+c- Repeat points a and b for different lengths (L) of the discharge hose, at least
+for 10 different lengths between maximum length LT and minimum of approximately 10
+cm.</p>
+<p>Suggestion
+Perform measurements for values of L equal to: LT, LT  100cm, LT  200cm, LT  250cm, LT
+300cm , LT – 350cm, LT – 370cm, LT – 390cm, LT – 410cm, LT – 430cm, LT – 450cm,         LT – 470cm,
+LT – 490cm.</p>
+<p>Record of results</p>
+<ol start="2">
+<li>With data for the time
+L ,  tB
+L and L make a table (TABLE 1). (4
+The Commission shall adopt implementing acts.</li>
+</ol>
+<p>The following table shows the results of the study:
+tA
+L  (s)
+tB
+L (s)
+L (cm)</p>
+<p>Note: include the corresponding uncertainties in the table.</p>
+<p>Data analysis, first part of the report.</p>
+<ol start="3">
+<li>
+<p>Select from Table 1 the data for one of the water levels considered and
+justify your choice. The following table shows the following:</p>
+</li>
+<li>
+<p>With the data chosen, calculate the corresponding values of β using the formula (1) and
+The following table is provided for each of the following: The Commission shall adopt implementing acts in accordance with Article 21 of the Treaty.</p>
+</li>
+</ol>
+<ul>
+<li>10 -
+The following table shows the results of the study:
+tL  (s)
+L (cm)
+β (s-1)</li>
+</ul>
+<p>Note: include the corresponding uncertainties in the table.</p>
+<ol start="5">
+<li>From the data in TABLE 2, determine the corresponding values of ηa according to
+The following table shows the number of L-series and the number of L-series. The Commission shall adopt implementing acts in accordance with Article 21 of the Treaty.</li>
+</ol>
+<p>The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+L (cm)
+ηa (s-1)</p>
+<p>Note: include the corresponding uncertainties in the table.</p>
+<ol start="6">
+<li>
+<p>Graph the values ηa in L. The following is the list of the countries of the European Union:</p>
+</li>
+<li>
+<p>From the above graph and assuming that the ambient temperature was kept constant
+During all measurements, determine a range of hose lengths (Lmin,
+Lmax) for which the Poiseuille flow hypothesis is suitable. Point it at the chart.
+Explain the criterion he used. (Two pts)</p>
+</li>
+<li>
+<p>From the range chosen in the previous point, determine the viscosity value of the water and its
+It’s a mistake. Explain the procedure you have performed and justify it. (Two pts)</p>
+</li>
+</ol>
+<p>Data analysis, second part of the report.</p>
+<h1 id="to-establish-poiseuille-flow-in-the-hose-water-must-travel-a-longer-lengththatl--given-by-the-expression005reld">To establish Poiseuille flow in the hose, water must travel a longer length
+That
+*
+L , given by the expression:
+*
+0.05
+Re
+L
+D<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#to-establish-poiseuille-flow-in-the-hose-water-must-travel-a-longer-lengththatl--given-by-the-expression005reld" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="where-re-is-the-reynolds-number-defined-asamavdηρ">Where Re is the Reynolds number defined as:
+a
+m
+a
+v
+D
+η
+ρ<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#where-re-is-the-reynolds-number-defined-asamavdηρ" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Re</p>
+<p>And vm is the average velocity of the water in the hose.</p>
+<ul>
+<li>11 -
+Consigns
+Using the water viscosity value you determined at  8) and considering a hose of
+length Lmin , lower end of the validity range you determined at  7) :</li>
+</ul>
+<ol start="9">
+<li>
+<p>Calculate the value of vm and its error. The following is the list of the countries of the European Union:</p>
+</li>
+<li>
+<p>Calculate the value of</p>
+</li>
+</ol>
+<ul>
+<li></li>
+</ul>
+<p>L
+And his mistake. Write the value of
+Min
+*
+L
+L
+−
+. The following is the list of the countries of the European Union:</p>
+<ol start="11">
+<li>Determine the percentage of the hose in which the flow is Poiseuille. (0,2<br/>
+The Commission shall adopt implementing acts.</li>
+</ol>
+<ul>
+<li>12 -</li>
+</ul>
+<p>Local authorities
+Theoretical problems</p>
+<ul>
+<li>13 -</li>
+</ul>
+
+<p><img src="../_attachments/cuadernillo_2008/cuadernillo_2008_p07_f1.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/fluid-mechanics" class="internal internal-link alias" data-slug="topics/fluid-mechanics">Fluid Mechanics</a>
+<strong>Metodi:</strong> <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>, <a href="../methods/bernoulli's-equation-(metodo)" class="internal internal-link alias" data-slug="methods/bernoulli's-equation-(metodo)">Bernoulli’s Equation</a>, <a href="../methods/curve-fitting-(metodo)" class="internal internal-link alias" data-slug="methods/curve-fitting-(metodo)">Curve Fitting</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../tank/container-(object)" class="internal internal-link alias" data-slug="tank/container-(object)">Container</a>, <a href="../pipe/tube-(object)" class="internal internal-link alias" data-slug="pipe/tube-(object)">Tube</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1C3e_kV2nxea7l_iZUAXvFoaDSCaA7fun/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"><div class="toc"><button type="button" class="toc-header" aria-controls="toc-334" aria-expanded="true"><h3>Indice</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-0" class="toc-content overflow"><li class="depth-0"><a href="#el-punto-e-extremo-de-la-manguera-por-donde-ingresa-el-agua-está-al-mismo-nivel-que-el-punto-sextremo-por-donde-sale-el-aguamientras-sale-agua-por-la-manguera-la-altura-h-de-agua-en-el-tacho-varía-con-el-tiempo-el-caudal-q-deagua-volumen-por-unidad-de-tiempo-que-sale-a-través-de-la-manguera-en-un-dado-intervalo-de-tiempot-cumpleqthst" data-for="el-punto-e-extremo-de-la-manguera-por-donde-ingresa-el-agua-está-al-mismo-nivel-que-el-punto-sextremo-por-donde-sale-el-aguamientras-sale-agua-por-la-manguera-la-altura-h-de-agua-en-el-tacho-varía-con-el-tiempo-el-caudal-q-deagua-volumen-por-unidad-de-tiempo-que-sale-a-través-de-la-manguera-en-un-dado-intervalo-de-tiempot-cumpleqthst">El punto E (extremo de la manguera por donde ingresa el agua) está al mismo nivel que el punto S
+(extremo por donde sale el agua).
+Mientras sale agua por la manguera, la altura h de agua en el tacho varía con el tiempo. El caudal Q de
+agua (volumen por unidad de tiempo) que sale a través de la manguera en un dado intervalo de tiempo
+∆t cumple:
+Q
+t
+h
+ST</a></li><li class="depth-0"><a href="#donde-st--es-la-sección-de-tacho-y--h-es-la-variación-de-la-altura-h-en-el-intervalo-de-tiempo-t-si-el-flujo-de-líquido-en-la-manguera-está-regido-por-la-ley-de-poiseuille-el-nivel-de-agua-en-el-tacho-enfunción-del-tiempo-esta-dado-portehthβ" data-for="donde-st--es-la-sección-de-tacho-y--h-es-la-variación-de-la-altura-h-en-el-intervalo-de-tiempo-t-si-el-flujo-de-líquido-en-la-manguera-está-regido-por-la-ley-de-poiseuille-el-nivel-de-agua-en-el-tacho-enfunción-del-tiempo-esta-dado-portehthβ">∆
+∆
+,
+donde ST  es la sección de tacho y  ∆h es la variación de la altura h en el intervalo de tiempo ∆t .
+Si el flujo de líquido en la manguera está regido por la ley de Poiseuille, el nivel de agua en el tacho en
+función del tiempo esta dado por:
+t
+e
+h
+t
+h
+β
+−</a></li><li class="depth-0"><a href="#1conlsrgataηπρβ84" data-for="1conlsrgataηπρβ84">(1)
+con
+L
+S
+R
+g
+a
+T
+a
+η
+π
+ρ
+β
+8
+4</a></li><li class="depth-0"><a href="#para-que-se-establezca-el-flujo-de-poiseuille-en-la-manguera-el-agua-debe-recorrer-una-longitud-mayorquel--dada-por-la-expresión005reld" data-for="para-que-se-establezca-el-flujo-de-poiseuille-en-la-manguera-el-agua-debe-recorrer-una-longitud-mayorquel--dada-por-la-expresión005reld">Para que se establezca el flujo de Poiseuille en la manguera, el agua debe recorrer una longitud mayor
+que
+*
+L , dada por la expresión:
+*
+0.05
+Re
+L
+D</a></li><li class="depth-0"><a href="#donde-re-es-el-número-de-reynolds-definido-comoamavdηρ" data-for="donde-re-es-el-número-de-reynolds-definido-comoamavdηρ">Donde Re es el número de Reynolds definido como:a
+m
+a
+v
+D
+η
+ρ</a></li><li class="depth-0"><a href="#il-punto-e-lestremità-del-tubo-attraverso-il-quale-lacqua-entra-è-a-livello-dello-stesso-punto-sestremo-da-dove-usce-lacquamentre-lacqua-scorre-dal-tubo-laltezza-h-dellacqua-nel-tetto-varia-con-il-tempo-il-flusso-q-diacqua-volume-per-unità-di-tempo-che-esce-attraverso-il-tubo-in-un-dato-intervallo-di-tempot-soddisfaqthst" data-for="il-punto-e-lestremità-del-tubo-attraverso-il-quale-lacqua-entra-è-a-livello-dello-stesso-punto-sestremo-da-dove-usce-lacquamentre-lacqua-scorre-dal-tubo-laltezza-h-dellacqua-nel-tetto-varia-con-il-tempo-il-flusso-q-diacqua-volume-per-unità-di-tempo-che-esce-attraverso-il-tubo-in-un-dato-intervallo-di-tempot-soddisfaqthst">Il punto E (l’estremità del tubo attraverso il quale l’acqua entra) è a livello dello stesso punto S
+(estremo da dove usce l’acqua).
+Mentre l’acqua scorre dal tubo, l’altezza h dell’acqua nel tetto varia con il tempo. Il flusso Q di
+acqua (volume per unità di tempo) che esce attraverso il tubo in un dato intervallo di tempo
+∆t soddisfa:
+Q
+t
+h
+ST</a></li><li class="depth-0"><a href="#dove-st-è-la-sezione-di-taglio-e-h-è-la-variazione-dell-altezza-h-nell-intervallo-di-tempo-t-se-il-flusso-di-liquido-nel-tubo-è-regolato-dalla-legge-di-poiseuille-il-livello-di-acqua-nel-tubo-è-difunzione-del-tempo-è-data-datehthβ" data-for="dove-st-è-la-sezione-di-taglio-e-h-è-la-variazione-dell-altezza-h-nell-intervallo-di-tempo-t-se-il-flusso-di-liquido-nel-tubo-è-regolato-dalla-legge-di-poiseuille-il-livello-di-acqua-nel-tubo-è-difunzione-del-tempo-è-data-datehthβ">∆
+∆
+,
+dove ST è la sezione di taglio e ∆h è la variazione dell’ altezza h nell’ intervallo di tempo ∆t .
+Se il flusso di liquido nel tubo è regolato dalla legge di Poiseuille, il livello di acqua nel tubo è di
+funzione del tempo è data da:
+t
+e
+h
+t
+h
+β
+−</a></li><li class="depth-0"><a href="#1conlsrgataηπρβ84-1" data-for="1conlsrgataηπρβ84-1">(1)
+con
+L
+S
+R
+g
+a
+T
+a
+η
+π
+ρ
+β
+8
+4</a></li><li class="depth-0"><a href="#per-stabilire-il-flusso-di-poiseuille-nel-tubo-lacqua-deve-percorrere-una-lunghezza-maggiorechel--data-dall--espressione005reld" data-for="per-stabilire-il-flusso-di-poiseuille-nel-tubo-lacqua-deve-percorrere-una-lunghezza-maggiorechel--data-dall--espressione005reld">Per stabilire il flusso di Poiseuille nel tubo, l’acqua deve percorrere una lunghezza maggiore
+che
+*
+L , data dall ’ espressione:
+*
+0.05
+Re
+L
+D</a></li><li class="depth-0"><a href="#dove-re-è-il-numero-di-reynolds-definito-comeamavdηρ" data-for="dove-re-è-il-numero-di-reynolds-definito-comeamavdηρ">Dove Re è il numero di Reynolds definito come:
+a
+m
+a
+v
+D
+η
+ρ</a></li><li class="depth-0"><a href="#the-e-point-extreme-end-of-the-hose-through-which-water-enters-is-at-the-same-level-as-the-s-pointextreme-where-the-water-comes-outas-water-is-drawn-out-of-the-hose-the-height-h-of-water-in-the-roof-varies-over-time-the-flow-rate-q-ofwater-volume-per-unit-time-coming-out-of-the-hose-at-a-given-time-intervalt-complies-withqthst" data-for="the-e-point-extreme-end-of-the-hose-through-which-water-enters-is-at-the-same-level-as-the-s-pointextreme-where-the-water-comes-outas-water-is-drawn-out-of-the-hose-the-height-h-of-water-in-the-roof-varies-over-time-the-flow-rate-q-ofwater-volume-per-unit-time-coming-out-of-the-hose-at-a-given-time-intervalt-complies-withqthst">The E point (extreme end of the hose through which water enters) is at the same level as the S point.
+(extreme where the water comes out).
+As water is drawn out of the hose, the height h of water in the roof varies over time. The flow rate Q of
+Water (volume per unit time) coming out of the hose at a given time interval
+∆t complies with:
+Q
+t
+h
+ST</a></li><li class="depth-0"><a href="#where-st-is-the-section-of-the-spike-and-h-is-the-variation-in-height-h-in-the-time-interval-t-if-the-flow-of-fluid-in-the-hose-is-governed-by-poiseuilles-law-the-water-level-in-the-hose-is-atthe-time-function-is-given-bytehthβ" data-for="where-st-is-the-section-of-the-spike-and-h-is-the-variation-in-height-h-in-the-time-interval-t-if-the-flow-of-fluid-in-the-hose-is-governed-by-poiseuilles-law-the-water-level-in-the-hose-is-atthe-time-function-is-given-bytehthβ">∆
+∆
+,
+where ST is the section of the spike and ∆h is the variation in height h in the time interval ∆t .
+If the flow of fluid in the hose is governed by Poiseuille’s law, the water level in the hose is at
+The time function is given by:
+t
+e
+h
+t
+h
+β
+−</a></li><li class="depth-0"><a href="#1withlsrgataηπρβ84" data-for="1withlsrgataηπρβ84">(1)
+with
+L
+S
+R
+g
+a
+T
+a
+η
+π
+ρ
+β
+8
+4</a></li><li class="depth-0"><a href="#to-establish-poiseuille-flow-in-the-hose-water-must-travel-a-longer-lengththatl--given-by-the-expression005reld" data-for="to-establish-poiseuille-flow-in-the-hose-water-must-travel-a-longer-lengththatl--given-by-the-expression005reld">To establish Poiseuille flow in the hose, water must travel a longer length
+That
+*
+L , given by the expression:
+*
+0.05
+Re
+L
+D</a></li><li class="depth-0"><a href="#where-re-is-the-reynolds-number-defined-asamavdηρ" data-for="where-re-is-the-reynolds-number-defined-asamavdηρ">Where Re is the Reynolds number defined as:
+a
+m
+a
+v
+D
+η
+ρ</a></li><li class="overflow-end"></li></ul></div></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/pipe-tube-(object)" class="internal">Pipe/Tube</a></li><li><a href="../objects/tank-container-(object)" class="internal">Tank/Container</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

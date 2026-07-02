@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr"><head><title>Argent 2018 Locale — Quesito 64</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="Argent 2018 Locale — Quesito 64"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Argent 2018 Locale — Quesito 64"/><meta name="twitter:description" content="PT58. Instituto Politécnico Superior General San Martín. Rosario, Santa Fe."/><meta property="og:description" content="PT58. Instituto Politécnico Superior General San Martín. Rosario, Santa Fe."/><meta property="og:image:alt" content="PT58. Instituto Politécnico Superior General San Martín. Rosario, Santa Fe."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2018__q64"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2018__q64"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="PT58. Instituto Politécnico Superior General San Martín. Rosario, Santa Fe."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/cuadernillo_2018__q64" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-9532" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-9532" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Argent 2018 Locale — Quesito 64</a></div></nav><h1 class="article-title">Argent 2018 Locale — Quesito 64</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/kg/prova" class="internal internal-link tag-link">kg/prova</a><span class="note-properties-separator">, </span><a href="../tags/paese/argentina" class="internal internal-link tag-link">paese/argentina</a><span class="note-properties-separator">, </span><a href="../tags/comp/argent" class="internal internal-link tag-link">comp/argent</a><span class="note-properties-separator">, </span><a href="../tags/cluster/fluidi" class="internal internal-link tag-link">cluster/fluidi</a><span class="note-properties-separator">, </span><a href="../tags/topic/fluid-mechanics" class="internal internal-link tag-link">topic/fluid-mechanics</a><span class="note-properties-separator">, </span><a href="../tags/argomento/fluidi" class="internal internal-link tag-link">argomento/fluidi</a><span class="note-properties-separator">, </span><a href="../tags/difficolta/3" class="internal internal-link tag-link">difficolta/3</a><span class="note-properties-separator">, </span><a href="../tags/multidisciplina/mono" class="internal internal-link tag-link">multidisciplina/mono</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:28:02.293Z">02 lug 2026</time><span>13 minuti</span></p><ul class="tags"><li><a href="../tags/kg/prova" class="internal tag-link">kg/prova</a></li><li><a href="../tags/paese/argentina" class="internal tag-link">paese/argentina</a></li><li><a href="../tags/comp/argent" class="internal tag-link">comp/argent</a></li><li><a href="../tags/cluster/fluidi" class="internal tag-link">cluster/fluidi</a></li><li><a href="../tags/topic/fluid-mechanics" class="internal tag-link">topic/fluid-mechanics</a></li><li><a href="../tags/argomento/fluidi" class="internal tag-link">argomento/fluidi</a></li><li><a href="../tags/difficolta/3" class="internal tag-link">difficolta/3</a></li><li><a href="../tags/multidisciplina/mono" class="internal tag-link">multidisciplina/mono</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="es"></div>
+<p>PT58. Instituto Politécnico Superior General San Martín.
+Rosario, Santa Fe.</p>
+<p>Solo la punta del iceberg…
+Los Icebergs son enormes masas de hielo que flotan en el mar. Seguro has escuchado
+hablar de ellos. Por ejemplo, la colisión del Titanic con un iceberg en abril de 1912
+desencadenó el hundimiento del famoso transatlántico. Cuando se sospecha que lo que
+sabemos de un tema, por ejemplo de un escándalo público, es mucho menos de lo que
+aún ignoramos, se suele decir que esto es sólo la punta del Iceberg. ¿Cuál es el origen
+de esta expresión? En este problema averiguaremos eso y algunas cosas más sobre
+estos colosos.
+Lo primero que hay que saber, es que los icebergs provienen de los glaciares. ¿Eso
+quiere decir que están formados por agua dulce y flotan en agua salada? Así es. Cuando</p>
+<p>OAF 2018 - 57
+un glaciar en contacto con el mar es sometido a tensiones, mientras sufre los embates de
+las olas y las mareas, puede sufrir desprendimientos de hielo. Si estas piezas que se
+desprenden alcanzan los 5 m de altura sobre el nivel del mar, ahí es cuando los
+llamamos Icebergs.</p>
+<ol>
+<li>Se sabe que la densidad del agua de mar es 1025 kg/m3, mientras que la del
+hielo es, aproximadamente 920 kg/m3. Mientras flota en aguas calmas, ¿qué
+porcentaje del iceberg se encuentra sumergido? Considere para todos los
+cálculos de este problema que 𝑔= 10m/s².</li>
+</ol>
+<p>Centro de gravedad y centro de flotación: Cuando un iceberg flota, están en equilibrio
+las fuerzas de gravedad y el empuje. Suponiendo un iceberg con forma de prisma
+rectangular (como una caja de zapatos) homogéneo, para que este esté en equilibrio,
+ambas fuerzas deben actuar sobre la misma recta. Podemos suponer que el peso actúa
+justo en un punto llamado centro de gravedad, ubicado en el centro geométrico del
+prisma, mientras que el empuje actúa en el centro de flotación, que se encuentra en el
+centro geométrico de la parte sumergida del mismo. Si por acción de las olas y el viento
+(sucundún…), nuestro iceberg tambalea, las dos fuerzas ya no actuarán sobre la misma
+recta de acción, y el torque producido por ellas ¡hará que el iceberg se tumbe!</p>
+<p>Llamamos línea de flotación a la intersección de la superficie del agua con las paredes
+del hielo. En palabras más simples, la línea de flotación sería el nivel del mar en el
+instante estudiado. Consideremos que nuestro iceberg con forma de caja de zapatos
+tiene una altura total 𝐻= 100m.  El ancho del iceberg es 𝐴= 𝛼𝐻, en donde 0 &lt; 𝛼&lt; 1. La
+tercera dimensión, la longitud 𝑙, no es importante en nuestro análisis, siempre y cuando
+se cumpla que 𝐻> 𝑙> 𝐴. Al flotar en la forma de la Figura 1,
+2. ¿A qué profundidad, por debajo de la línea de flotación, se encuentra el centro
+de gravedad del iceberg?
+3. Si el iceberg se tumba, como muestra la Figura 2, ¿A qué profundidad se
+encontrará ahora el centro de gravedad? Escríbelo en función de 𝛼.
+4. Calcula, en función de 𝛼, el trabajo que realiza el peso dividido por la dimensión
+𝑙, es decir, el trabajo del peso por unidad de longitud, para elevar el centro de
+gravedad desde la posición de la Figura 1 a la de la Figura 2.</p>
+<p>Después de tumbarse, se ha producido un aumento de la energía potencial gravitatoria
+del iceberg. Este trabajo en contra de la gravedad es ejercido por el agua que desciende
+a llenar el espacio dejado por el hielo al subir. Una forma de calcular la energía
+transferida es suponer que la variación de altura del agua desplazada es igual a la
+variación de altura del centro de flotación del iceberg. Además, hay que suponer que el
+volumen de agua desalojada coincide con el volumen sumergido inicial.
+5. Calcula la variación de energía potencial gravitatoria por unidad de longitud del
+fluido desplazado en función de 𝛼.</p>
+<p>58 - OAF 2018
+6. Calcula 𝛥𝐸𝑙, la diferencia entre las variaciones de energía potencial gravitatoria
+por unidad de longitud del iceberg y del agua, como una función de 𝛼.
+7. Esboza una gráfica de 𝛥𝐸𝑙 en función de 𝛼. ¿Para qué valor de 𝛼 esta diferencia
+de energía es máxima?
+Ayuda: conviene factorizar el polinomio en 𝛼 obtenido para sacar sus raíces.
+8. Calcula la máxima diferencia de energía 𝑙· 𝛥𝐸𝑙, suponiendo que el largo del
+iceberg es 𝑙= 60m.</p>
+<p>Comentarios finales
+La diferencia de energía 𝑙· 𝛥𝐸𝑙 se suele disipar en forma de sonido en el aire y en
+grandes olas en el mar. Esta energía disipada es proporcional al cubo de la altura 𝐻, por
+lo que un iceberg dos veces más alto que el de este problema disipará una energía 8
+veces mayor. Un iceberg típico, de los que se encuentran cerca de la Antártida puede
+llegar a medir 1200 m de altura total. Si uno de estos colosos de hielo se tumbara, podría
+producir un tsunami con una energía de 120TJ, lo que equivale a la energía de 2
+explosiones nucleares como la de Hiroshima.</p>
+
+<p><img src="../_attachments/cuadernillo_2018/cuadernillo_2018_p57_f1.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/fluid-mechanics" class="internal internal-link alias" data-slug="topics/fluid-mechanics">Fluid Mechanics</a>, <a href="../topics/conservation-of-energy" class="internal internal-link alias" data-slug="topics/conservation-of-energy">Conservation of Energy</a>
+<strong>Metodi:</strong> <a href="../methods/hydrostatic-equilibrium-(metodo)" class="internal internal-link alias" data-slug="methods/hydrostatic-equilibrium-(metodo)">Hydrostatic Equilibrium</a>, <a href="../methods/energy-conservation-method-(metodo)" class="internal internal-link alias" data-slug="methods/energy-conservation-method-(metodo)">Energy Conservation Method</a>, <a href="../methods/torque--and--angular-momentum-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/torque--and--angular-momentum-analysis-(metodo)">Torque &amp; Angular Momentum Analysis</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> —
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view" class="external external-link">Testo (PDF) — p.5<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="it"></div>
+<p>PT58. Istituto Politetnico Superiore Generale San Martín.
+Rosario, Santa Fe.</p>
+<p>Solo la punta dell’iceberg
+Gli Iceberg sono enormi masse di ghiaccio che galleggiano nel mare. - Certo che l’hai sentito.
+Parlare di loro. Per esempio, il Titanic colpisse un iceberg nell’aprile del 1912
+ha scatenato il coagulo del famoso transatlantico. Quando si sospetta che
+Sappiamo di un argomento, per esempio di uno scandalo pubblico, è molto meno di quanto
+E’ stato detto che questa è solo la punta dell’iceberg. Qual è l’origine?
+di questa espressione? In questo problema, scopriamo tutto questo e alcune altre cose.
+questi colossi.
+La prima cosa da sapere è che gli iceberg provengono dai ghiacciai. - Che cosa?
+Significa che sono formate da acqua dolce e galleggiano in acqua salata? - Sì, è vero. Quando</p>
+<p>OAF 2018 - 57
+Un ghiacciaio in contatto con il mare è sottoposto a tensioni mentre subisce gli impatti di
+le onde e le maree, può subire crolli di ghiaccio. Se questi pezzi che sono
+Quando si spalancano raggiungono i 5 metri di altezza, è quando i
+Ci chiamiamo Iceberg.</p>
+<ol>
+<li>La densità dell’acqua di mare è nota per essere di 1025 kg/m3, mentre quella del mare è di 1025 kg/m3.
+il ghiaccio è di circa 920 kg/m3. Mentre galleggia in acque calme, cosa?
+Percentaggio dell’iceberg è immerso? Considerate tutti
+Calcoli di questo problema che g=10m/s2.</li>
+</ol>
+<p>Centro di gravità e centro di fluttuazione: quando un iceberg galleggia, sono in equilibrio
+la forza di gravità e la spinta. Supponendo un iceberg a forma di prisma
+rettangolare (come una scatola di scarpe) omogeneo, per farlo essere in equilibrio,
+Le due forze devono agire sulla stessa linea. Possiamo supporre che il peso agisca.
+Proprio in un punto chiamato centro di gravità, situato nel centro geometrico del
+La forza di pressione è la pressione di un’altra parte del corpo.
+centro geometrico della parte sotterranea della stessa. Se per l’azione delle onde e del vento
+(MSK0/>), il nostro iceberg si sta vacillare, le due forze non agiranno più sulla stessa
+La torsione prodotta da queste due macchine farà crollare l’iceberg!</p>
+<p>Chiamiamo linea di galleggia l’intersezione della superficie dell’acqua con i muri.
+del ghiaccio. In parole più semplici, la linea di galleggiamento sarebbe il livello del mare nel
+istante studiato. Consideriamo che il nostro iceberg con forma di scatola di scarpe
+ha un’altezza totale H= 100 m. La larghezza dell’iceberg è A= αH, dove 0 &lt; α&lt; 1. La
+La terza dimensione, la lunghezza l, non è importante nella nostra analisi, purché
+si riempie che H> l> A. Flotando in forma di Figura 1,
+2. A che profondità, sotto la linea di fluttuazione, si trova il centro?
+della gravità dell’iceberg?
+3. Se l’iceberg si sepolge, come mostra la figura 2, a che profondità si sepolge?
+Troverà il centro di gravità ora? Scrivete in funzione di α.
+4. Calcola, in base a α, il lavoro svolto dal peso diviso per dimensione
+L, cioè il lavoro del peso per unità di lunghezza, per alzare il centro di
+gravità dalla posizione di Figura 1 a quella di Figura 2.</p>
+<p>Dopo il suo crollo, si è verificata un aumento dell’energia potenziale gravitazionale.
+dell’iceberg. Questo lavoro contro la gravità è esercitato dall’acqua che scende.
+per riempire lo spazio lasciato dal ghiaccio quando si sale. Un modo per calcolare l’energia.
+La variazione dell’altezza dell’acqua spostata è pari alla variazione dell’altezza dell’acqua spostata.
+variazione di altezza del centro di fluttuazione dell’iceberg. Inoltre, si deve supporre che il
+volume di acqua smontata corrisponde al volume di immersione iniziale.
+5. Calcola la variazione di energia potenzialmente gravitazionale per unità di lunghezza di
+fluido spostato in funzione di α.</p>
+<p>58 - OAF 2018
+6. Calcola ΔEl, la differenza tra le variazioni di energia potenzialmente gravitazionale
+per unità di lunghezza dell’iceberg e dell’acqua, come funzione di α.
+7. Sbocciate un grafico di ΔEl in funzione di α. Per quale valore di α è questa differenza?
+energia è massima?
+Aiuto: è opportuno factorizzare il polinomio in α ottenuto per estrarre le sue radici.
+8. Calcola la differenza massima di energia l· ΔEl, supponendo che il lungo di
+l’iceberg è l=60m.</p>
+<p>Commenti conclusivi
+La differenza di energia l· ΔE è di solito dissipata in forma di suono in aria e in
+le grandi onde in mare. Questa energia dissipata è proporzionale al cubo di altezza H, per
+che un iceberg due volte più alto di quello di questo problema dissiperà un’energia 8
+volte più grande. Un tipico iceberg, di quelli che si trovano vicino all’Antartide può
+fino a raggiungere i 1200 metri di altezza totale. Se uno di questi colossi di ghiaccio si riposasse, potrebbe
+produrre uno tsunami con un’energia di 120 TJ, che equivale all’energia di 2
+esplosioni nucleari come quella di Hiroshima.</p>
+
+<p><img src="../_attachments/cuadernillo_2018/cuadernillo_2018_p57_f1.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/fluid-mechanics" class="internal internal-link alias" data-slug="topics/fluid-mechanics">Fluid Mechanics</a>, <a href="../topics/conservation-of-energy" class="internal internal-link alias" data-slug="topics/conservation-of-energy">Conservation of Energy</a>
+<strong>Metodi:</strong> <a href="../methods/hydrostatic-equilibrium-(metodo)" class="internal internal-link alias" data-slug="methods/hydrostatic-equilibrium-(metodo)">Hydrostatic Equilibrium</a>, <a href="../methods/energy-conservation-method-(metodo)" class="internal internal-link alias" data-slug="methods/energy-conservation-method-(metodo)">Energy Conservation Method</a>, <a href="../methods/torque--and--angular-momentum-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/torque--and--angular-momentum-analysis-(metodo)">Torque &amp; Angular Momentum Analysis</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> —
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view" class="external external-link">Testo (PDF) — p.5<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>PT58. The French authorities have also been involved in the investigation.
+Rosario, Santa Fe.</p>
+<p>Just the tip of the iceberg.
+The Icebergs are huge ice masses floating in the sea. I ‘m sure you ‘ve heard .
+I’m not talking about them. For example, the Titanic collided with an iceberg in April 1912.
+It triggered the sinking of the famous transatlantic. When you suspect that what you
+We know about a subject, for example a public scandal, is much less than what we know.
+We still don’t know, it’s often said that this is just the tip of the iceberg. What is the origin?
+of this expression? In this problem we’ll find out that and a few more things about it.
+These giants.
+The first thing you need to know is that icebergs come from glaciers. That’s it.
+You mean they’re made of fresh water and float in salt water? That’s right, you’re right. When</p>
+<p>The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009.
+A glacier in contact with the sea is subjected to stress while undergoing the impacts of
+the waves and tides, it can suffer ice breaks. If these pieces are
+They’re about five metres above sea level, that’s when they come out.
+We call it the Icebergs.</p>
+<ol>
+<li>The density of seawater is known to be 1025 kg/m3, while that of
+ice is approximately 920 kg/m3. While floating in calm waters, what?
+percentage of the iceberg is submerged? Consider for all
+calculations of this problem that g=10m/s2.</li>
+</ol>
+<p>Center of gravity and center of floatation: When an iceberg floats, they’re in balance.
+the forces of gravity and the thrust. Supposing an iceberg with a prism shape
+rectangular (like a shoe box) homogeneous, so that it is in balance,
+The two forces must act on the same lines. We can assume that the weight acts .
+Right at a point called the center of gravity, located in the geometric center of the Earth.
+The pressure is measured in the direction of the rotation of the lens, while the thrust acts at the center of the float, which is at the
+the geometric center of the submerged part of the same. If by the action of the waves and the wind
+(MSK0/>), our iceberg is wobbling, the two forces will no longer act on the same
+The torque produced by them will cause the iceberg to fall!</p>
+<p>We call a floating line the intersection of the surface of the water with the walls.
+of the ice. In simpler terms, the floating line would be sea level in the
+instantly studied. Let ‘s consider our iceberg shaped like a shoe box .
+has a total height of H= 100 m. The width of the iceberg is A= αH, where 0 &lt; α&lt; 1. La
+The third dimension, length l, is not important in our analysis, as long as
+H>l>A is fulfilled. Floating in the shape of Figure 1,
+2. At what depth, below the floating line, is the center?
+The gravity of the iceberg?
+3. If the iceberg is buried, as shown in Figure 2, how deep is it?
+Will he find the center of gravity now? Write it in terms of α.
+4. Calculates, based on α, the work done by the weight divided by the dimension
+l, i.e. the work of the weight per unit length, to raise the centre of
+gravity from the position of Figure 1 to that of Figure 2.</p>
+<p>After falling, there has been an increase in gravitational potential energy.
+from the iceberg. This work against gravity is done by the water descending.
+to fill the space left by the ice when you climb. A way to calculate energy.
+The transferred water is assumed to be equal to the height change of the displaced water.
+variation in altitude of the center of iceberg float. In addition, it must be assumed that the
+The volume of water discharged is equal to the initial volume of submerged water.
+5. Calculates the variation in gravitational potential energy per unit length of the
+fluid displaced by α.</p>
+<p>The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+6. Calculate ΔEl, the difference between gravitational potential energy variations
+per unit length of iceberg and water, as a function of α.
+7. Draw a graph of ΔEl as a function of α. What value of α is this difference
+The energy is maximum?
+Help: factorization of the polynomial in α obtained to extract its roots is useful.
+8. Calculates the maximum energy difference l· ΔEl, assuming that the length of the
+iceberg is l=60m.</p>
+<p>The Commission has also adopted a number of proposals.
+The energy difference l· ΔE is usually dissipated in the form of sound in the air and in the
+big waves in the sea. This dissipated energy is proportional to the height cube H, by
+What an iceberg twice as high as that of this problem will dissipate an energy 8
+times as big. A typical iceberg, of which you can find near Antarctica.
+reaching a total height of 1200 m. If one of these ice giants were to lie down, it could.
+It’s the same thing as a tsunami with a 120TJ energy.
+nuclear explosions like the one in Hiroshima.</p>
+
+<p><img src="../_attachments/cuadernillo_2018/cuadernillo_2018_p57_f1.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/fluid-mechanics" class="internal internal-link alias" data-slug="topics/fluid-mechanics">Fluid Mechanics</a>, <a href="../topics/conservation-of-energy" class="internal internal-link alias" data-slug="topics/conservation-of-energy">Conservation of Energy</a>
+<strong>Metodi:</strong> <a href="../methods/hydrostatic-equilibrium-(metodo)" class="internal internal-link alias" data-slug="methods/hydrostatic-equilibrium-(metodo)">Hydrostatic Equilibrium</a>, <a href="../methods/energy-conservation-method-(metodo)" class="internal internal-link alias" data-slug="methods/energy-conservation-method-(metodo)">Energy Conservation Method</a>, <a href="../methods/torque--and--angular-momentum-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/torque--and--angular-momentum-analysis-(metodo)">Torque &amp; Angular Momentum Analysis</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> —
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view" class="external external-link">Testo (PDF) — p.5<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

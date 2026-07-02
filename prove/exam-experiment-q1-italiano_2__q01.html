@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="it" dir="ltr"><head><title>OII na Sperimentale — Problema 1</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="OII na Sperimentale — Problema 1"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="OII na Sperimentale — Problema 1"/><meta name="twitter:description" content="Experiment Q1-1 Italiano (Italy) Condensatori non ideali (10 punti) Questo esperimento è progettato per studiare le proprietà dei condensatori."/><meta property="og:description" content="Experiment Q1-1 Italiano (Italy) Condensatori non ideali (10 punti) Questo esperimento è progettato per studiare le proprietà dei condensatori."/><meta property="og:image:alt" content="Experiment Q1-1 Italiano (Italy) Condensatori non ideali (10 punti) Questo esperimento è progettato per studiare le proprietà dei condensatori."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/exam-experiment-q1-italiano_2__q01"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/exam-experiment-q1-italiano_2__q01"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Experiment Q1-1 Italiano (Italy) Condensatori non ideali (10 punti) Questo esperimento è progettato per studiare le proprietà dei condensatori."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/exam-experiment-q1-italiano_2__q01" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-10412" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-10412" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>OII na Sperimentale — Problema 1</a></div></nav><h1 class="article-title">OII na Sperimentale — Problema 1</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/nazione/italia" class="internal internal-link tag-link">nazione/italia</a><span class="note-properties-separator">, </span><a href="../tags/tipo-gara/individuale" class="internal internal-link tag-link">tipo-gara/individuale</a><span class="note-properties-separator">, </span><a href="../tags/livello/internazionale" class="internal internal-link tag-link">livello/internazionale</a><span class="note-properties-separator">, </span><a href="../tags/difficolta/5" class="internal internal-link tag-link">difficolta/5</a><span class="note-properties-separator">, </span><a href="../tags/multidisciplina/multi" class="internal internal-link tag-link">multidisciplina/multi</a><span class="note-properties-separator">, </span><a href="../tags/topic/circuits" class="internal internal-link tag-link">topic/circuits</a><span class="note-properties-separator">, </span><a href="../tags/topic/electrostatics" class="internal internal-link tag-link">topic/electrostatics</a><span class="note-properties-separator">, </span><a href="../tags/topic/thermodynamics" class="internal internal-link tag-link">topic/thermodynamics</a><span class="note-properties-separator">, </span><a href="../tags/argomento/meccanica" class="internal internal-link tag-link">argomento/meccanica</a><span class="note-properties-separator">, </span><a href="../tags/object/capacitor" class="internal internal-link tag-link">object/capacitor</a><span class="note-properties-separator">, </span><a href="../tags/object/resistor" class="internal internal-link tag-link">object/resistor</a><span class="note-properties-separator">, </span><a href="../tags/object/switch" class="internal internal-link tag-link">object/switch</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:28:04.235Z">02 lug 2026</time><span>11 minuti</span></p><ul class="tags"><li><a href="../tags/nazione/italia" class="internal tag-link">nazione/italia</a></li><li><a href="../tags/tipo-gara/individuale" class="internal tag-link">tipo-gara/individuale</a></li><li><a href="../tags/livello/internazionale" class="internal tag-link">livello/internazionale</a></li><li><a href="../tags/difficolta/5" class="internal tag-link">difficolta/5</a></li><li><a href="../tags/multidisciplina/multi" class="internal tag-link">multidisciplina/multi</a></li><li><a href="../tags/topic/circuits" class="internal tag-link">topic/circuits</a></li><li><a href="../tags/topic/electrostatics" class="internal tag-link">topic/electrostatics</a></li><li><a href="../tags/topic/thermodynamics" class="internal tag-link">topic/thermodynamics</a></li><li><a href="../tags/argomento/meccanica" class="internal tag-link">argomento/meccanica</a></li><li><a href="../tags/object/capacitor" class="internal tag-link">object/capacitor</a></li><li><a href="../tags/object/resistor" class="internal tag-link">object/resistor</a></li><li><a href="../tags/object/switch" class="internal tag-link">object/switch</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="it"></div>
+<p>Experiment
+Q1-1
+Italiano (Italy)
+Condensatori non ideali (10 punti)
+Questo esperimento è progettato per studiare le proprietà dei condensatori.
+La capacità del condensatore (che in questo testo significherà sempre capacità differenziale) può essere
+trovata dal suo grafico che riporta il processo di carica in funzione della sua differenza di potenziale U(t)
+attraverso il resistore R1. A seconda del circuito, è necessario trovare la relazione tra la corrente di carica
+del condensatore e la differenza di potenziale, I(U), e usarla per determinare la capacità:
+C(U) = dq
+dU= Idt
+dU= I(U)
+dU/dt.
+(1)
+Il circuito elettrico implementato in questo esperimento è mostrato in Fig. 1.1. L’interruttore S1 sulla scheda può essere utilizzato per commutare tra i condensatori C1 e C2. La posizione centrale dell’interruttore
+non ha alcun ruolo in questo esperimento e non deve mai essere utilizzata.
+Figure 1.1. Circuito elettrico dell’esperimento.
+Attenzione: uno dei condensatori campione contiene un dielettrico con permettività dielettrica che dipende dalla velocità di variazione della differenza di potenziale del condensatore. Per mantenere questa
+velocità il più stabile possibile, quando si misura alle differenze di potenziale positive, il condensatore
+dovrebbe essere caricato a partire da 9 V fino a -9 V, mentre le misurazioni alle differenze di potenziale
+negative dovrebbero essere fatte quando il condensatore è caricato a partire da -9 V verso 9 V. La capacità misurata può essere influenzata dallo stato precedente del condensatore, pertanto il condensatore
+deve essere mantenuto alla differenza di potenziale di partenza per almeno 10 s prima della misurazione.
+Parte A. Condensatori a temperatura ambiente (4.0 punti)
+Misurare e rappresentare graficamente la capacità dei condensatori C1 e C2 rispetto alla differenza di
+potenziale a temperatura ambiente (disegnare tutte le curve insieme sugli stessi assi).</p>
+<p>Experiment
+Q1-2
+Italiano (Italy)
+A.1
+Misurare e costruire i grafici C1(U) e C2(U) nell’intervallo da -7 V a 7 V. Nel foglio
+risposte scrivere i valori di C1 e C2 a 0 V, 3 V, e 6 V. Annotare la formula utilizzata per calcolare la capacità dalle misurazioni grezze. Scrivere anche l’ID della
+scheda e la temperatura ambiente.
+2.3pt
+A.2
+Trovare la differenza di potenziale Umax change, alla quale la capacità del condensatore mostra la variazione relativa più rapida rispetto alla differenza di potenziale ( dC(U)
+C(U)dU). Nel foglio delle risposte scrivere quale condensatore (C1 o C2)
+presenta la variazione più rapida e la differenza di potenziale alla quale viene
+osservata.
+0.5pt
+A.3
+Quali sono le cariche q1 e q2 dei condensatori C1 e C2 a 6 V?
+1.2pt
+Parte B. Taratura del termistore NTC (1.0 punti)
+Misurare la differenza
+B.1
+Trovare la costante del termistore NTC R0.
+1.0pt
+Parte C. Condensatori a diverse temperature (3.0 punti)
+C.1
+Misurare e costruire i grafici C1(U) e C2(U) nell’intervallo da -7 V a 7 V alle
+temperature di 40 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">∘</span></span></span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.0715em;">C</span></span></span></span>, 65 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">∘</span></span></span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.0715em;">C</span></span></span></span> e 85 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">∘</span></span></span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.0715em;">C</span></span></span></span>.
+1.3pt
+C.2
+Costruire i grafici C1(T) e C2(T) a 0 V e 6 V in funzione della temperatura dalla
+temperatura ambiente fino a 85 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">∘</span></span></span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.0715em;">C</span></span></span></span>.
+0.5pt
+C.3
+Nel foglio risposte scrivere il rapporto C(85 ∘C)/C(40 ∘C) per entrambi i
+condensatori C1 e C2 a 0 V e 6 V.
+1.2pt
+Parte D. Fonti di errori di misurazione (2.0 punti)
+Le attività precedenti in questo esperimento sono state eseguite in condizioni di lunga carica iniziale.
+Quando si osservano tempi di ricarica più brevi (0.1 - 10 s) possono esserci più fonti di errore:</p>
+<ol>
+<li>Corrente di dispersione.</li>
+<li>Proprietà di polarizzazione dei mezzi dielettrici del condensatore che possono essere spiegate tramite
+la dipendenza della permittività dielettrica dalla scala temporale del processo.
+Attenzione: il materiale termoisolante può assorbire l’umidità dell’aria e diventare conduttore. Rimuoverlo quando si eseguono misurazioni delle perdite.
+Determinare la principale fonte di errore per la misurazione di C1 e C2, poiché la dispersione del condensatore e le correnti di ingresso del voltmetro dipendono dalla differenza di potenziale, stimare questi
+errori a una differenza di potenziale vicina a 9 V. Decidere quali misurazioni ausiliarie e in quali condizioni
+devono essere eseguite per rispondere queste domande. Nelle tue risposte alle seguenti domande D.1</li>
+</ol>
+<p>Experiment
+Q1-3
+Italiano (Italy)
+e D.2, potresti indicare le condizioni delle tue misurazioni, quali quantità misuri e quali conclusioni trai
+sulla base delle tue misurazioni, come esemplificato nelle tabelle seguenti.
+Nota: questi sono solo degli esempi su come descrivere schematicamente le tue misurazioni; è necessario determinare da soli le condizioni rilevanti delle misurazioni.
+Esempi di come dovrebbero essere scritte le risposte alle domande D.1 e D.2:
+Esempio 1.
+Per mostrare che il tasso di variazione della differenza di potenziale di C1 collegato al circuito di
+misura è più veloce a 9 V che a 0 V.
+Possibili posizioni S1: C1, C2
+Possibili connettore IN: +9V, -9V, GND, Libero
+Impostazioni iniziali:
+Posizione S1
+Connettore IN
+C1
+9V
+Processo:
+Numero
+del passo
+Posizione S1
+Connettore IN
+Durata, s
+Variabile
+misurata
+1
+C1
+Libero
+|duC(t)|/dt
+2
+C1
+GND
+3
+C1
+Libero
+|duC(t)|/dt
+Verifica: |duC(t)|/dt|1 > |duC(t)|/dt|3</p>
+<p>Experiment
+Q1-4
+Italiano (Italy)
+Esempio 2.
+Per mostrare che la velocità di variazione della differenza di potenziale di C1 a 9 V è maggiore della
+velocità di variazione media della differenza di potenziale a partire da 0 V in 1000 secondi.
+Possibili posizioni S1: C1, C2
+Possibili connessione IN: +9V, -9V, GND, Libero
+Impostazioni iniziali:
+Posizione S1
+Connettore IN
+C1
+9V
+Processo:
+Numero
+del passo
+Posizione S1
+Connettore IN
+Durata, s
+Variabile
+misurata
+1
+C1
+Libero
+|duC(t)|/dt
+2
+C1
+GND
+3
+C1
+Libero
+uC
+4
+C1
+Libero
+1000
+5
+C1
+Libero
+uC
+Verifica: |duC(t)|/dt|1 > (uC|3 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">−</span><span class="mord mathnormal">u</span><span class="mord mathnormal" style="margin-right:0.0715em;">C</span><span class="mord">∣5</span><span class="mclose">)</span><span class="mord">/1000</span></span></span></span>
+D.1
+Qual è la principale fonte di errore per la misurazione di C1(9 V)? Scrivere i
+passaggi di misurazione nelle tabelle.
+1.0pt
+D.2
+Qual è la principale fonte di errore per la misurazione di C2(9 V)? Scrivere i
+passaggi di misurazione nelle tabelle.
+1.0pt</p>
+
+<p><strong>p.1</strong> — Circuito elettrico dell’esperimento sui condensatori
+<img src="../_attachments/exam-experiment-q1-italiano_2/exam-experiment-q1-italiano_2_p1_f1.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/circuits" class="internal internal-link" data-slug="topics/circuits">Circuits</a>, <a href="../topics/electrostatics" class="internal internal-link" data-slug="topics/electrostatics">Electrostatics</a>, <a href="../topics/thermodynamics" class="internal internal-link" data-slug="topics/thermodynamics">Thermodynamics</a>
+<strong>Metodi:</strong> <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>, <a href="../methods/differential-equations-(metodo)" class="internal internal-link alias" data-slug="methods/differential-equations-(metodo)">Differential Equations</a>, <a href="../methods/graph-linearization-(metodo)" class="internal internal-link alias" data-slug="methods/graph-linearization-(metodo)">Graph Linearization</a>
+<strong>Competenze:</strong> <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>, <a href="../skills/graph-linearization-(competenza)" class="internal internal-link alias" data-slug="skills/graph-linearization-(competenza)">Graph Linearization</a>, <a href="../skills/error-propagation-(competenza)" class="internal internal-link alias" data-slug="skills/error-propagation-(competenza)">Error Propagation</a>
+<strong>Objects:</strong> <a href="../objects/capacitor-(object)" class="internal internal-link alias" data-slug="objects/capacitor-(object)">Capacitor</a>, <a href="../objects/resistor-(object)" class="internal internal-link alias" data-slug="objects/resistor-(object)">Resistor</a>, <a href="../objects/switch-(object)" class="internal internal-link alias" data-slug="objects/switch-(object)">Switch</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1fkNfJiqy80lGmRLp9aPLtRs0I35PbrfG/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+<strong>Soluzione:</strong> <a href="https://drive.google.com/file/d/1XQJ924hStEhE452AhCosejFW74UsiSbM/view" class="external external-link">Soluzioni (PDF)<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>Experiments
+Q1-1
+Italian (Italy)
+Non-ideal capacitors (10 points)
+This experiment is designed to study the properties of capacitors.
+The capacitance of the capacitor (which in this text will always mean differential capacity) can be
+found by its charging process graph based on its potential difference U(t)
+through the R1 resistor. Depending on the circuit, the relationship between the current of charge must be found
+the capacitor and the potential difference, I(U), and use it to determine the capacity:
+C(U) = dq
+DU= Idt
+dU= I(U)
+dU/dt.
+(1)
+The electrical circuit implemented in this experiment is shown in Fig. 1.1. The S1 switch on the board can be used to switch between C1 and C2 capacitors. The central position of the switch
+It has no role in this experiment and should never be used.
+The following information is provided: Electrical circuit of the experiment.
+Note: one of the sample capacitors contains a dielectric with dielectric permittivity that depends on the rate of change of the capacitor potential difference. To keep this
+The capacitor shall be capable of operating at a maximum speed of at least one minute.
+The power output of the system should be from 9 V to -9 V, while the power difference measurements
+Negatives should be made when the capacitor is charged from -9 V to 9 V. The measured capacity may be affected by the previous condition of the capacitor, therefore the capacitor
+The measurement shall be carried out at the start potential difference for at least 10 seconds before the measurement.
+Part A. The following conditions shall apply:
+Measure and graphically represent the capacitance of C1 and C2 capacitors relative to the difference in
+The potential at room temperature (draw all curves together on the same axis).</p>
+<p>Experiments
+Q1-2
+Italian (Italy)
+A.1
+Measure and construct the graphs C1(U) and C2(U) in the range from -7 V to 7 V. In the paper
+For the answer, write the values of C1 and C2 at 0 V, 3 V, and 6 V. Note the formula used to calculate the capacity from raw measurements. Please also write the ID of the
+the temperature and the temperature.
+2.3pt
+A.2
+Find the Umax change potential difference, at which the capacitor capacity shows the relative change faster than the potential difference (dC(U)
+C(U)dU). In the reply sheet write as capacitor (C1 or C2)
+The rate of change is the fastest and the potential difference is the
+I’m not going to lie.
+0.5pt
+A.3
+What are the q1 and q2 loads of the C1 and C2 capacitors at 6 V?
+1.2pt
+Part B. The NTC thermistor shall be measured at the level of the NTC thermistor.
+Measuring the Difference
+B.1
+Find the constant of the NTC R0 thermistor.
+1.0pt
+Part C. Condensers at different temperatures (3.0 points)
+C.1
+Measuring and constructing the C1(U) and C2(U) graphs in the range from -7 V to 7 V at
+temperature di 40 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">∘</span></span></span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.0715em;">C</span></span></span></span>, 65 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">∘</span></span></span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.0715em;">C</span></span></span></span> e 85 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">∘</span></span></span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.0715em;">C</span></span></span></span>.
+1.3pt
+C.2
+The graphs C1(T) and C2(T) are constructed at 0 V and 6 V depending on the temperature from the
+the ambient temperature is up to 85 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">∘</span></span></span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.0715em;">C</span></span></span></span>.
+0.5pt
+C.3
+In the reply sheet write the ratio C(85 C)/C(40 C) for both
+C1 and C2 capacitors at 0 V and 6 V.
+1.2pt
+The following is the list of the following: Sources of measurement errors (2.0 points)
+The previous activities in this experiment were performed under long initial load conditions.
+When shorter charging times (0.1 - 10 s) are observed, there may be several sources of error:</p>
+<ol>
+<li>Dispersion current.</li>
+<li>Polarization properties of the dielectric means of the capacitor which can be explained by
+the dependence of dielectric permittivity on the time scale of the process.
+Warning: the thermal insulating material can absorb moisture from the air and become conductive. Remove it when measuring losses.
+Determine the main source of error for measuring C1 and C2, since the dispersion of the capacitor and the input currents of the voltmeter depend on the potential difference, estimate these
+errors at a potential difference close to 9 V. Decide which auxiliary measurements and under what conditions
+The Commission is not prepared to accept the proposal. In your answers to the following questions D.1</li>
+</ol>
+<p>Experiments
+Q1-3
+Italian (Italy)
+and D.2, you could indicate the conditions of your measurements, the quantities you measure and the conclusions you draw.
+based on your measurements, as shown in the following tables.
+Note: these are only examples of how to describe your measurements schematically; you need to determine the relevant conditions of the measurements yourself.
+Examples of how the answers to questions D.1 and D.2 should be written:
+Example 1.
+To show that the rate of change of the C1 potential difference connected to the
+measurement is faster at 9 V than at 0 V.
+Possible positions S1: C1, C2
+The following is the list of the types of connectors that can be used:
+The initial settings:
+The following items are added:
+The following information shall be provided:
+C1
+9V
+The procedure:
+Number of the
+of the pass
+The following items are added:
+The following information shall be provided:
+Duration, s
+Variable
+measured
+1
+C1
+Free
+♪ I’m not going to be able to do it ♪
+2
+C1
+GND
+3
+C1
+Free
+♪ I’m not going to be able to do it ♪
+The Commission has also adopted a proposal for a regulation on the protection of the environment.</p>
+<p>Experiments
+Q1-4
+Italian (Italy)
+Example two.
+To show that the change rate of the C1 to 9 V potential difference is greater than the
+average change rate of the difference in power starting at 0 V per 1000 seconds.
+Possible positions S1: C1, C2
+The following conditions shall apply:
+The initial settings:
+The following items are added:
+The following information shall be provided:
+C1
+9V
+The procedure:
+Number of the
+of the pass
+The following items are added:
+The following information shall be provided:
+Duration, s
+Variable
+measured
+1
+C1
+Free
+♪ I’m not going to be able to do it ♪
+2
+C1
+GND
+3
+C1
+Free
+uC
+4
+C1
+Free
+1000
+5
+C1
+Free
+uC
+Verifica: |duC(t)|/dt|1 > (uC|3 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">−</span><span class="mord mathnormal">u</span><span class="mord mathnormal" style="margin-right:0.0715em;">C</span><span class="mord">∣5</span><span class="mclose">)</span><span class="mord">/1000</span></span></span></span>
+D.1
+What is the main source of error for measuring C1(9 V)? Write the
+measurement steps in the tables.
+1.0pt
+D.2
+What is the main source of error for measuring C2(9 V)? Write the
+measurement steps in the tables.
+1.0pt</p>
+
+<p><strong>p.1</strong> — Circuito elettrico dell’esperimento sui condensatori
+<img src="../_attachments/exam-experiment-q1-italiano_2/exam-experiment-q1-italiano_2_p1_f1.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/circuits" class="internal internal-link" data-slug="topics/circuits">Circuits</a>, <a href="../topics/electrostatics" class="internal internal-link" data-slug="topics/electrostatics">Electrostatics</a>, <a href="../topics/thermodynamics" class="internal internal-link" data-slug="topics/thermodynamics">Thermodynamics</a>
+<strong>Metodi:</strong> <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>, <a href="../methods/differential-equations-(metodo)" class="internal internal-link alias" data-slug="methods/differential-equations-(metodo)">Differential Equations</a>, <a href="../methods/graph-linearization-(metodo)" class="internal internal-link alias" data-slug="methods/graph-linearization-(metodo)">Graph Linearization</a>
+<strong>Competenze:</strong> <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>, <a href="../skills/graph-linearization-(competenza)" class="internal internal-link alias" data-slug="skills/graph-linearization-(competenza)">Graph Linearization</a>, <a href="../skills/error-propagation-(competenza)" class="internal internal-link alias" data-slug="skills/error-propagation-(competenza)">Error Propagation</a>
+<strong>Objects:</strong> <a href="../objects/capacitor-(object)" class="internal internal-link alias" data-slug="objects/capacitor-(object)">Capacitor</a>, <a href="../objects/resistor-(object)" class="internal internal-link alias" data-slug="objects/resistor-(object)">Resistor</a>, <a href="../objects/switch-(object)" class="internal internal-link alias" data-slug="objects/switch-(object)">Switch</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1fkNfJiqy80lGmRLp9aPLtRs0I35PbrfG/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+<strong>Soluzione:</strong> <a href="https://drive.google.com/file/d/1XQJ924hStEhE452AhCosejFW74UsiSbM/view" class="external external-link">Soluzioni (PDF)<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/capacitor-(object)" class="internal">Capacitor</a></li><li><a href="../objects/resistor-(object)" class="internal">Resistor</a></li><li><a href="../objects/switch-(object)" class="internal">Switch</a></li><li><a href="../prove/exam-experiment-q1-italiano_2" class="internal">OII na Sperimentale</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

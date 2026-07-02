@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="it" dir="ltr"><head><title>OII na Sperimentale — Problema 1</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="OII na Sperimentale — Problema 1"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="OII na Sperimentale — Problema 1"/><meta name="twitter:description" content="Experiment Q2-1 Italian (Italy) Viscoleasticità di un filo di polimero (10 punti) Attenzione: Il filo non deve essere stirato prima dell’inizio dell’esperimento! Accendi subito la bilancia (il tempo di riscaldamento è circa 10 minuti)."/><meta property="og:description" content="Experiment Q2-1 Italian (Italy) Viscoleasticità di un filo di polimero (10 punti) Attenzione: Il filo non deve essere stirato prima dell’inizio dell’esperimento! Accendi subito la bilancia (il tempo di riscaldamento è circa 10 minuti)."/><meta property="og:image:alt" content="Experiment Q2-1 Italian (Italy) Viscoleasticità di un filo di polimero (10 punti) Attenzione: Il filo non deve essere stirato prima dell’inizio dell’esperimento! Accendi subito la bilancia (il tempo di riscaldamento è circa 10 minuti)."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/exam-experiment-q2-italian__q01"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/exam-experiment-q2-italian__q01"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Experiment Q2-1 Italian (Italy) Viscoleasticità di un filo di polimero (10 punti) Attenzione: Il filo non deve essere stirato prima dell’inizio dell’esperimento! Accendi subito la bilancia (il tempo di riscaldamento è circa 10 minuti)."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/exam-experiment-q2-italian__q01" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-10421" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-10421" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>OII na Sperimentale — Problema 1</a></div></nav><h1 class="article-title">OII na Sperimentale — Problema 1</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/nazione/italia" class="internal internal-link tag-link">nazione/italia</a><span class="note-properties-separator">, </span><a href="../tags/tipo-gara/individuale" class="internal internal-link tag-link">tipo-gara/individuale</a><span class="note-properties-separator">, </span><a href="../tags/livello/internazionale" class="internal internal-link tag-link">livello/internazionale</a><span class="note-properties-separator">, </span><a href="../tags/difficolta/5" class="internal internal-link tag-link">difficolta/5</a><span class="note-properties-separator">, </span><a href="../tags/multidisciplina/multi" class="internal internal-link tag-link">multidisciplina/multi</a><span class="note-properties-separator">, </span><a href="../tags/topic/elasticity-e-materials" class="internal internal-link tag-link">topic/elasticity-e-materials</a><span class="note-properties-separator">, </span><a href="../tags/topic/fluid-mechanics" class="internal internal-link tag-link">topic/fluid-mechanics</a><span class="note-properties-separator">, </span><a href="../tags/topic/thermodynamics" class="internal internal-link tag-link">topic/thermodynamics</a><span class="note-properties-separator">, </span><a href="../tags/argomento/meccanica" class="internal internal-link tag-link">argomento/meccanica</a><span class="note-properties-separator">, </span><a href="../tags/object/rope-string" class="internal internal-link tag-link">object/rope-string</a><span class="note-properties-separator">, </span><a href="../tags/object/spring" class="internal internal-link tag-link">object/spring</a><span class="note-properties-separator">, </span><a href="../tags/object/mirror" class="internal internal-link tag-link">object/mirror</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:28:04.278Z">02 lug 2026</time><span>14 minuti</span></p><ul class="tags"><li><a href="../tags/nazione/italia" class="internal tag-link">nazione/italia</a></li><li><a href="../tags/tipo-gara/individuale" class="internal tag-link">tipo-gara/individuale</a></li><li><a href="../tags/livello/internazionale" class="internal tag-link">livello/internazionale</a></li><li><a href="../tags/difficolta/5" class="internal tag-link">difficolta/5</a></li><li><a href="../tags/multidisciplina/multi" class="internal tag-link">multidisciplina/multi</a></li><li><a href="../tags/topic/elasticity-e-materials" class="internal tag-link">topic/elasticity-e-materials</a></li><li><a href="../tags/topic/fluid-mechanics" class="internal tag-link">topic/fluid-mechanics</a></li><li><a href="../tags/topic/thermodynamics" class="internal tag-link">topic/thermodynamics</a></li><li><a href="../tags/argomento/meccanica" class="internal tag-link">argomento/meccanica</a></li><li><a href="../tags/object/rope-string" class="internal tag-link">object/rope-string</a></li><li><a href="../tags/object/spring" class="internal tag-link">object/spring</a></li><li><a href="../tags/object/mirror" class="internal tag-link">object/mirror</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="it"></div>
+<p>Experiment
+Q2-1
+Italian (Italy)
+Viscoleasticità di un filo di polimero (10 punti)
+Attenzione: Il filo non deve essere stirato prima dell’inizio dell’esperimento!
+Accendi subito la bilancia (il tempo di riscaldamento è circa 10 minuti). Non cambiare il
+settaggio della bilancia.
+Introduzione
+Quando un materiale solido è sottoposto a una forza esterna si deforma. Per forze di piccola intensità
+la deformazione è proporzionale alla forza (legge di Hooke) ed è reversibile, dunque il materiale ritorna
+alla sua forma originaria se si rimuove la forza.
+Per un solido, conviene descrivere il fenomeno usando i concetti di sforzo e deformazione. Lo sforzo σ
+è definito come il rapporto tra la forza Fe la superficie S su cui agisce, mentre la deformazione εè la
+variazione relativa di lunghezza:
+σ= F
+S
+e
+ε= <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7778em;vertical-align:-0.0833em;"></span><span class="mord mathnormal" style="margin-right:0.0197em;">l</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal" style="margin-right:0.0197em;">l</span><span class="mord">0</span></span></span></span>
+l0
+,
+(1)
+dove le l0 sono rispettivamente la lunghezza finale e iniziale. Nel range di elasticità, lo sforzo è semplicemente proporzionale alla deformazione: σ= Eε(legge di Hooke) e il fattore di proporzionalità, E,
+prende il nome di modulo di Young.
+Il comportamento elastico descritto dalla legge di Hooke è un’approssimazione valida solo per deformazioni sufficientemente piccole. Per deformazioni più grandi le variazioni diventano gradualmente irreversibili e si entra nella zona di plasticità, nella quale i movimenti molecolari cominciano a non essere più
+vincolati, in maniera simile a quanto accade in un fluido viscoso. In altre parole, sia nel caso di stiramento
+sia in quello di compressione, oltre il limite di elasticità il materiale diventa asintoticamente fluido.
+Materiali viscoelastici
+Alcuni materiali combinano aspetti di un solido elastico e caratteristiche simili a quelle dei fluidi viscosi,
+e sono perciò chiamati viscoelastici.
+Nei materiali viscoelastici è dunque ragionevole considerare separatamente il comportamento puramente elastico e il comportamento aggiuntivo viscoso; questo implica che lo sforzo totale σnecessario per
+produrre una data deformazione εè la somma di un termine puramente elastico σ0 = E0 ε0 e di un
+termine viscoelastico σ1:
+σ= σ0 + σ1
+(2)
+Entrambi i termini dello sforzo corrispondono alla stessa deformazione (ε= ε0 = ε1). Però la deformazione ε1 corrispondente al termine viscoelastico viene di solito modellizzata come la somma di una
+deformazione puramente elastica, εe
+1 = σ1/E1, e di una puramente viscosa, εv
+1 (entrambe soggette allo
+stesso sforzo σ1 = σe
+1 = σv
+1):
+ε1 = εe
+1 + εv
+1
+(3)</p>
+<p>Experiment
+Q2-2
+Italian (Italy)
+Nel processo puramente viscoso, si assume una relazione lineare tra lo sforzo e la derivata della deformazione rispetto al tempo (analogamente a quanto vale nei fluidi viscosi):
+σ1 = η1
+dεv
+1
+dt,
+dove η1 è il coefficiente di viscosità.
+Questo modello fenomenologico è il cosiddetto modello lineare standard per i solidi, ed è illustrato nella
+Figura 1: le molle rappresentano i componenti puramente elastici e la tazza il componente puramente
+viscoso.
+Figura 1. Modello lineare standard per la viscoelasticità lineare dei solidi.
+Dalle equazioni precedenti si ottiene la relazione seguente:
+dε1
+dt= 1
+E1
+dσ1
+dt+ σ1
+η1
+(4)
+Pertanto, nel modello lineare standard per la viscoelasticità dei solidi, è possibile dimostrare che
+σ= E0 ε+ τ1(E0 + E1)dε
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7778em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">d</span><span class="mord mathnormal">t</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord mathnormal" style="margin-right:0.1132em;">τ</span><span class="mord">1</span></span></span></span>
+dσ
+dt
+(5)
+dove τ1 = η1/E1. Questa equazione differenziale mostra che la relazione tra sforzo e deformazione non
+è lineare, e che la deformazione e lo sforzo sono entrambi, in generale, funzioni del tempo. Per ottenere
+ε(t) è necessario specificare la funzione σ(t) e viceversa.
+Ci sono due casi speciali di interesse pratico, in cui o dε/dt= 0 o dσ/dt= 0, comunemente noti rispettivamente come condizione di rilassamento dello sforzo e condizione di allungamento lento. Nella condizione
+di rilassamento dello sforzo si applica al materiale una deformazione improvvisa εche viene mantenuta</p>
+<p>Experiment
+Q2-3
+Italian (Italy)
+costante nel tempo, cosicché dε/dt= 0. In questo caso, la funzione σ(t) dipende quindi solamente dai
+parametri viscoelastici del materiale e la soluzione dell’equazione (5) è:
+σ(t) = ε(E0 + <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7667em;vertical-align:-0.0833em;"></span><span class="mord mathnormal" style="margin-right:0.0576em;">E</span><span class="mord">1</span><span class="mord mathnormal">e</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">t</span><span class="mord">/</span><span class="mord mathnormal" style="margin-right:0.1132em;">τ</span><span class="mord">1</span></span></span></span>)
+(6)
+dove si assume che per t= 0 solo i componenti elastici contribuiscano allo sforzo e quindi σ(t= 0) =
+ε(E0+E1). Questa soluzione mostra che lo sforzo viscoelastico decade esponenzialmente nel tempo, con
+una costante di tempo τ1.
+Processi multiviscoelastici
+Il modello lineare standard può essere facilmente esteso al caso di molti processi viscoelastici, come
+suggerisce la Figura 2
+Figura 2. Modello generalizzato per processi multiviscoelastici.
+Dunque, considerando Ncomponenti viscoelastici diversi,
+σ= σ0 + <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mop op-symbol small-op" style="position:relative;top:0em;">∑</span></span></span></span>
+k
+σk,
+k= 1, 2, ⋯, N
+(7)
+dove dεk
+dt=
+1
+Ek
+dσk
+dt+ σk
+ηke, come sopra, dε0
+dt= dεk
+dt= dε
+dt.
+L’equazione (5) si può dunque generalizzare in questo modo:
+σ= E0ε+ ηt
+dε
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7778em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">d</span><span class="mord mathnormal">t</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mop op-symbol small-op" style="position:relative;top:0em;">∑</span></span></span></span>
+k
+τk
+dσk
+dt,
+k= 1, 2, ⋯, N
+(8)
+dove ηt= <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\sumk</span></span><span class="mord mathnormal" style="margin-right:0.0359em;">η</span><span class="mord mathnormal" style="margin-right:0.0315em;">k</span></span></span></span>, e τk= ηk/Ek.</p>
+<p>Experiment
+Q2-4
+Italian (Italy)
+In condizioni di deformazione costante, ciascuno sforzo viscoelastico dovrebbe ancora decadere esponenzialmente nel tempo, σk= <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7778em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">A</span><span class="mord mathnormal" style="margin-right:0.0315em;">k</span><span class="mord mathnormal">e</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">t</span><span class="mord">/</span><span class="mord mathnormal" style="margin-right:0.1132em;">τ</span><span class="mord mathnormal" style="margin-right:0.0315em;">k</span><span class="mord mathnormal">e</span></span></span></span> si avrebbe quindi la soluzione:
+σ(t) = ε(E0 + <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mop op-symbol small-op" style="position:relative;top:0em;">∑</span></span></span></span>
+k
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7778em;vertical-align:-0.0833em;"></span><span class="mord mathnormal" style="margin-right:0.0576em;">E</span><span class="mord mathnormal" style="margin-right:0.0315em;">k</span><span class="mord mathnormal">e</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">t</span><span class="mord">/</span><span class="mord mathnormal" style="margin-right:0.1132em;">τ</span><span class="mord mathnormal" style="margin-right:0.0315em;">k</span></span></span></span>) ,
+k= 1, 2, ⋯, N
+(9)
+dove si è assunto che per t= 0 solo i componenti elastici contribuiscano allo sforzo totale e dunque
+σ0 = ε(E0 + <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\sumkEk</span></span></span></span></span>). La risposta viscoelastica che ne risulta è evidentemente non lineare.</p>
+<p>Experiment
+Q2-5
+Italian (Italy)</p>
+<p>Attrezzatura
+Per l’esperimento viene fornita la seguente attrezzatura (Figura 3):</p>
+<ol>
+<li>1 piedistallo, con un sistema di sostegno per posizionare un puntatore laser e un altro supporto
+superiore per tenere verticalmente il filo stirato con una deformazione costante sopra la bilancia;</li>
+<li>1 massetta, consistente in un cilindro cavo e una vite per fissare il filo;</li>
+<li>1 filo lungo di poliuretano termoplastico (TPU) attaccato alla massetta e a un’altra vite usata per
+appendere il filo al supporto superiore;</li>
+<li>1 filo TPU corto fissato a una vite singola;</li>
+<li>1 puntatore laser col relativo supporto;</li>
+<li>1 bilancia digitale;</li>
+<li>2 specchi piani;</li>
+<li>1 cronometro;</li>
+<li>1 righello;</li>
+<li>1 metro a nastro metallico;</li>
+<li>1 foglio di carta A4 da usare come schermo;</li>
+<li>1 fermaglio a molla per tenere il laser in posizione e per accenderlo;</li>
+</ol>
+<p>Experiment
+Q2-6
+Italian (Italy)</p>
+<p>Figura 3. Attrezzatura per il problema sperimentale.</p>
+<p>Experiment
+Q2-7
+Italian (Italy)
+Parte A: Misure di rilassamento dello sforzo (1.9 punti)
+Attenzione: il filo non deve essere stirato prima dell’inizio dell’esperimento! Se per caso il filo
+viene inavvertitamente stirato, chiedine un altro, ma tieni presente che questo richiederà un
+po’ di tempo, e di conseguenza avrai meno tempo per il tuo esperimento.
+Leggi attentamente le indicazioni date nella ”Parte D: Analisi dei dati” prima di iniziare le
+misure, allo scopo di pianificare il modo in cui condurrai l’esperimento.
+A.1
+Misura la lunghezza del filo tra le teste delle viti quando esso non è teso. Per ottenere la lunghezza totale del filo l0, compresa la lunghezza tra le viti, aggiungi
+5 mm per ciascuna vite. Scrivi nel foglio risposte il valore che hai misurato per
+l0 e la sua incertezza.
+0.3pt
+A.2
+Misura il peso totale della massetta, P0, in unità grammi-forza (gf). Ricorda che
+1 grammo-forza è la forza corrispondente al peso di una massa di 1 grammo
+(1 gf = 9.80 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">×</span><span class="mord">10</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">3</span></span></span></span> N). Scrivi nel foglio risposte il valore misurato, e una stima
+della sua incertezza.
+0.3pt
+Per osservare sperimentalmente le varie componenti del rilassamento è necessario misurare lo sforzo
+per un tempo sufficientemente lungo. In questo caso, è sufficiente campionare l’evoluzione dello sforzo
+per circa 45 minuti.
+Ora devi effettuare due azioni simultanee: 1 e 2. Leggi attentamente le istruzioni prima di
+iniziare.
+Importante: se per qualunque motivo l’esperimento viene interrotto non può essere ripreso.
+Bisogna ripartire con un altro filo. In questo caso, chiedine uno.
+Effettua simultaneamente queste due azioni:</p>
+<ol>
+<li>Tenendo la massettina sul piatto della bilancia, tendi il filo sistemando la vite fissata all’estremità
+sul supporto superiore situato nel piedistallo (Figura 4).</li>
+<li>Contemporaneamente fai partire i</li>
+</ol>
+
+<p><strong>p.2</strong> — Modello lineare standard del solido
+<img src="../_attachments/exam-experiment-q2-italian/exam-experiment-q2-italian_p2_f1.png" alt width="auto" height="auto"/></p>
+
+
+<p><strong>p.3</strong> — Modello generalizzato processi multiviscoelastici
+<img src="../_attachments/exam-experiment-q2-italian/exam-experiment-q2-italian_p3_f2.png" alt width="auto" height="auto"/></p>
+
+
+<p><strong>p.6</strong> — Attrezzatura per il problema sperimentale
+<img src="../_attachments/exam-experiment-q2-italian/exam-experiment-q2-italian_p6_f3.png" alt width="auto" height="auto"/></p>
+
+
+<p><strong>p.8</strong> — Appendi il filo al supporto e inizia misure
+<img src="../_attachments/exam-experiment-q2-italian/exam-experiment-q2-italian_p8_f4.png" alt width="auto" height="auto"/></p>
+
+
+<p><strong>p.9</strong> — Accendi il laser usando il fermaglio a molla
+<img src="../_attachments/exam-experiment-q2-italian/exam-experiment-q2-italian_p9_f5.png" alt width="auto" height="auto"/></p>
+
+
+<p><strong>p.10</strong> — Montaggio del filo TPU sulla vite di fissaggio
+<img src="../_attachments/exam-experiment-q2-italian/exam-experiment-q2-italian_p10_f6.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/elasticity--and--materials" class="internal internal-link alias" data-slug="topics/elasticity--and--materials">Elasticity &amp; Materials</a>, <a href="../topics/fluid-mechanics" class="internal internal-link alias" data-slug="topics/fluid-mechanics">Fluid Mechanics</a>, <a href="../topics/thermodynamics" class="internal internal-link" data-slug="topics/thermodynamics">Thermodynamics</a>
+<strong>Metodi:</strong> <a href="../methods/hooke's-law-(metodo)" class="internal internal-link alias" data-slug="methods/hooke's-law-(metodo)">Hooke’s Law</a>, <a href="../methods/differential-equations-(metodo)" class="internal internal-link alias" data-slug="methods/differential-equations-(metodo)">Differential Equations</a>, <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>
+<strong>Competenze:</strong> <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/graph-linearization-(competenza)" class="internal internal-link alias" data-slug="skills/graph-linearization-(competenza)">Graph Linearization</a>
+<strong>Objects:</strong> <a href="../rope/string-(object)" class="internal internal-link alias" data-slug="rope/string-(object)">String</a>, <a href="../objects/spring-(object)" class="internal internal-link alias" data-slug="objects/spring-(object)">Spring</a>, <a href="../objects/mirror-(object)" class="internal internal-link alias" data-slug="objects/mirror-(object)">Mirror</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1dPAVaRN1NXptPeJXDT1klqOPXB5qmNdl/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>Experiments
+Q2-1
+Italian (Italy)
+Viscoelasticity of a polymer wire (10 points)
+Note: The wire must not be stretched before the start of the experiment!
+Turn on the balance immediately (heating time is about 10 minutes). Do not change the
+the balance sheet.
+The Commission
+When a solid material is subjected to an external force, it deforms. For small force
+The deformation is proportional to the force (Hooke’s law) and is reversible, so the material returns
+It’s going to be in its original form if you remove the force.
+For a solid, it is appropriate to describe the phenomenon using the concepts of stress and deformation. The stress σ
+is defined as the ratio of the force Fe to the surface S on which it acts, whereas the deformation ε is the
+relative change in length:
+σ= F
+S
+e
+ε= <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7778em;vertical-align:-0.0833em;"></span><span class="mord mathnormal" style="margin-right:0.0197em;">l</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal" style="margin-right:0.0197em;">l</span><span class="mord">0</span></span></span></span>
+l0
+,
+(1)
+where l0 is the final and initial length respectively. In the elasticity range, the stress is simply proportional to the deformation: σ=Eε (Hooke’s law) and the proportionality factor, E,
+It’s called Young’s form.
+The elastic behaviour described by Hooke’s law is an approximation valid only for sufficiently small deformations. For larger deformations the variations become gradually irreversible and you enter the plasticity zone, where molecular movements begin to be no longer
+It’s like a viscous fluid. In other words, whether in the case of drawing
+In both the compression and the elasticity limits, the material becomes asynchronously fluid.
+Other, of a kind used for the manufacture of textile materials
+Some materials combine elements of an elastic solid with features similar to those of viscous fluids,
+And that’s why they’re called viscoelastic.
+In viscoelastic materials it is therefore reasonable to consider purely elastic behaviour and viscous additional behaviour separately; this implies that the total effort required to
+The resulting deformation date ε is the sum of a purely elastic term σ0 = E0 ε0 and a
+Viscoelastic term σ1:
+σ= σ0 + σ1
+(2)
+Both stress terms correspond to the same deformation (ε= ε0 = ε1). However, the deformation ε1 corresponding to the viscoelastic term is usually modeled as the sum of a
+a purely elastic deformation, εe
+1 = σ1/E1, and of a purely viscous, εv
+1 (both subject to the
+the same stress σ1 = σe
+1 = σv
+1):
+ε1 = εe
+1 + εv
+1
+(3)</p>
+<p>Experiments
+Q2-2
+Italian (Italy)
+In the purely viscous process, a linear relationship is assumed between the stress and the deformation derivative relative to time (similar to that in viscous fluids):
+σ1 = η1
+Dεv
+1
+dt,
+where η1 is the viscosity coefficient.
+This phenomenological model is the so-called standard linear model for solids, and is illustrated in the following table:
+Figure 1: the springs represent the purely elastic components and the cup the purely elastic component
+It’s very viscous.
+Figure 1 is shown. Standard linear model for linear viscoelasticity of solids.
+The following report is obtained from the previous equations:
+dε1
+dt= 1
+E1
+dσ1
+dt+ σ1
+η1
+(4)
+Therefore, in the standard linear model for solid viscoelasticity, it is possible to demonstrate that
+σ= E0 ε+ τ1(E0 + E1)dε
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7778em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">d</span><span class="mord mathnormal">t</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord mathnormal" style="margin-right:0.1132em;">τ</span><span class="mord">1</span></span></span></span>
+dσ
+dt
+(5)
+where τ1 = η1/E1. This differential equation shows that the relationship between stress and deformation is not
+It’s linear, and that deformation and stress are both, in general, functions of time. To obtain
+ε(t) the σ(t function must be specified and vice versa.
+There are two special cases of practical interest, where either dε/dt=0 or dσ/dt=0, commonly known as stress relaxation condition and slow stretching condition respectively. In the condition
+The material is subjected to a sudden deformation ε which is maintained</p>
+<p>Experiments
+Q2-3
+Italian (Italy)
+It’s constant over time, so dε/dt is equal to 0. In this case, the σ(t) function depends therefore only on the
+The viscoelastic parameters of the material and the solution to the equation (5) are:
+σ(t) = ε(E0 + <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7667em;vertical-align:-0.0833em;"></span><span class="mord mathnormal" style="margin-right:0.0576em;">E</span><span class="mord">1</span><span class="mord mathnormal">e</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">t</span><span class="mord">/</span><span class="mord mathnormal" style="margin-right:0.1132em;">τ</span><span class="mord">1</span></span></span></span>)
+(6)
+where t=0 is assumed to be only elastic components contributing to stress and thus σ(t=0) =
+ε(E0+E1). This solution shows that viscoelastic stress decreases exponentially over time, with the
+a time constant τ1.
+Multi-viscoelastic processes
+The standard linear model can be easily extended to many viscoelastic processes, such as
+This is shown in Figure 2.
+Figure two. Generalised model for multiviscoelastic processes.
+Therefore, having regard to the different viscoelastic components,
+σ= σ0 + <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mop op-symbol small-op" style="position:relative;top:0em;">∑</span></span></span></span>
+k
+σk,
+k= 1, 2, ⋯, N
+(7)
+Where dεk
+dt=
+1
+Ek
+Other
+dt+ σk
+ηke, as above, dε0
+D = d
+dt= dε
+dt.
+The equation (5) can therefore be generalized as follows:
+σ= E0ε+ ηt
+dε
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7778em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">d</span><span class="mord mathnormal">t</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mop op-symbol small-op" style="position:relative;top:0em;">∑</span></span></span></span>
+k
+τk
+Other
+dt,
+k= 1, 2, ⋯, N
+(8)
+where ηt = <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\sumk</span></span><span class="mord mathnormal" style="margin-right:0.0359em;">η</span><span class="mord mathnormal" style="margin-right:0.0315em;">k</span></span></span></span>, and τk = ηk/Ek.</p>
+<p>Experiments
+Q2-4
+Italian (Italy)
+Under constant deformation, each viscoelastic stress should still decay exponentially over time, σk= <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7778em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">A</span><span class="mord mathnormal" style="margin-right:0.0315em;">k</span><span class="mord mathnormal">e</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">t</span><span class="mord">/</span><span class="mord mathnormal" style="margin-right:0.1132em;">τ</span><span class="mord mathnormal" style="margin-right:0.0315em;">k</span><span class="mord mathnormal">e</span></span></span></span> would therefore be the solution:
+σ(t) = ε(E0 + <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mop op-symbol small-op" style="position:relative;top:0em;">∑</span></span></span></span>
+k
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7778em;vertical-align:-0.0833em;"></span><span class="mord mathnormal" style="margin-right:0.0576em;">E</span><span class="mord mathnormal" style="margin-right:0.0315em;">k</span><span class="mord mathnormal">e</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">t</span><span class="mord">/</span><span class="mord mathnormal" style="margin-right:0.1132em;">τ</span><span class="mord mathnormal" style="margin-right:0.0315em;">k</span></span></span></span>) ,
+k= 1, 2, ⋯, N
+(9)
+where it is assumed that for t=0 only the elastic components contribute to the total stress and therefore
+σ0 = ε(E0 + <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\sumkEk</span></span></span></span></span>). The resulting viscoelastic response is obviously nonlinear.</p>
+<p>Experiments
+Q2-5
+Italian (Italy)</p>
+<p>Equipment
+The following equipment is provided for the experiment (Figure 3):</p>
+<ol>
+<li>1 pedestal, with a support system for positioning a laser pointer and other support
+The upper part to hold the strung wire vertically with a constant deformation above the balance;</li>
+<li>1 mass, consisting of a cable cylinder and a screw for attaching the wire;</li>
+<li>1 long wire of thermoplastic polyurethane (TPU) attached to the mass and other screw used for
+hang the wire from the upper support;</li>
+<li>1 short TPU thread attached to a single screw;</li>
+<li>1 laser pointer with the support;</li>
+<li>1 digital balance sheet;</li>
+<li>2 flat mirrors;</li>
+<li>1 timepiece;</li>
+<li>1 reel;</li>
+<li>1 metre of metallic tape;</li>
+<li>1 sheet of A4 paper to be used as a screen;</li>
+<li>1 spring stop to hold the laser in position and to turn it on;</li>
+</ol>
+<p>Experiments
+Q2-6
+Italian (Italy)</p>
+<p>Figure 3 is shown. Equipment for the experimental problem.</p>
+<p>Experiments
+Q2-7
+Italian (Italy)
+Part A: Strength relaxation measures (1.9 points)
+Please note: the wire must not be stretched before the start of the experiment! If the wire is
+If you are unwittingly stretched, ask for another, but keep in mind that this will require a
+You’ll have less time for your experiment.
+Read carefully the instructions in Part D: Data analysis before you start the
+measures, in order to plan how you will conduct the experiment.
+A.1
+Measure the length of the wire between the heads of the screws when it is not stretched. To obtain the total length of the wire l0, including the length between the screws, add
+5 mm for each screw. Write down the value you measured for
+I0 and its uncertainty.
+0.3pt
+A.2
+Measures the total mass weight, P0, in units of gram-force (gf). Remember that
+1 gram-force is the force corresponding to the weight of a mass of 1 gram
+(1 gf = 9.80 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">×</span><span class="mord">10</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">3</span></span></span></span> N). Write down the measured value on the answer sheet, and an estimate
+of its uncertainty.
+0.3pt
+The experimental observation of the various relaxation components requires the measurement of the stress.
+For a long enough time. In this case, it is sufficient to sample the evolution of the effort
+for about 45 minutes.
+Now you have to do two simultaneous actions: 1 and 2. Read the instructions carefully before you
+I’m going to start.
+Important: if for any reason the experiment is interrupted it cannot be resumed.
+We have to start with another thread. In that case, ask one.
+It shall simultaneously carry out the following two actions:</p>
+<ol>
+<li>Holding the weight plate, stretch the wire by fixing the screw fixed at the end
+The upper support in the pedestal (Figure 4).</li>
+<li>At the same time, start the</li>
+</ol>
+
+<p>The following is the list of the types of solids used:
+<img src="../_attachments/exam-experiment-q2-italian/exam-experiment-q2-italian_p2_f1.png" alt width="auto" height="auto"/></p>
+
+
+<p>The following table shows the results of the analysis of the data and the results of the analysis.
+<img src="../_attachments/exam-experiment-q2-italian/exam-experiment-q2-italian_p3_f2.png" alt width="auto" height="auto"/></p>
+
+
+<p>The test results shall be presented in accordance with the following formula:
+<img src="../_attachments/exam-experiment-q2-italian/exam-experiment-q2-italian_p6_f3.png" alt width="auto" height="auto"/></p>
+
+
+<p><strong>p.8</strong>  Hang the wire to the support and start measurements
+<img src="../_attachments/exam-experiment-q2-italian/exam-experiment-q2-italian_p8_f4.png" alt width="auto" height="auto"/></p>
+
+
+<p>The laser is switched on using the spring plug.
+<img src="../_attachments/exam-experiment-q2-italian/exam-experiment-q2-italian_p9_f5.png" alt width="auto" height="auto"/></p>
+
+
+<p>The following conditions shall apply:
+<img src="../_attachments/exam-experiment-q2-italian/exam-experiment-q2-italian_p10_f6.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/elasticity--and--materials" class="internal internal-link alias" data-slug="topics/elasticity--and--materials">Elasticity &amp; Materials</a>, <a href="../topics/fluid-mechanics" class="internal internal-link alias" data-slug="topics/fluid-mechanics">Fluid Mechanics</a>, <a href="../topics/thermodynamics" class="internal internal-link" data-slug="topics/thermodynamics">Thermodynamics</a>
+<strong>Metodi:</strong> <a href="../methods/hooke's-law-(metodo)" class="internal internal-link alias" data-slug="methods/hooke's-law-(metodo)">Hooke’s Law</a>, <a href="../methods/differential-equations-(metodo)" class="internal internal-link alias" data-slug="methods/differential-equations-(metodo)">Differential Equations</a>, <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>
+<strong>Competenze:</strong> <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/graph-linearization-(competenza)" class="internal internal-link alias" data-slug="skills/graph-linearization-(competenza)">Graph Linearization</a>
+<strong>Objects:</strong> <a href="../rope/string-(object)" class="internal internal-link alias" data-slug="rope/string-(object)">String</a>, <a href="../objects/spring-(object)" class="internal internal-link alias" data-slug="objects/spring-(object)">Spring</a>, <a href="../objects/mirror-(object)" class="internal internal-link alias" data-slug="objects/mirror-(object)">Mirror</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1dPAVaRN1NXptPeJXDT1klqOPXB5qmNdl/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/mirror-(object)" class="internal">Mirror</a></li><li><a href="../objects/rope-string-(object)" class="internal">Rope/String</a></li><li><a href="../objects/spring-(object)" class="internal">Spring</a></li><li><a href="../prove/exam-experiment-q2-italian" class="internal">OII na Sperimentale</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

@@ -1,0 +1,958 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr"><head><title>Argent 2017 Locale — Quesito 3</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="Argent 2017 Locale — Quesito 3"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Argent 2017 Locale — Quesito 3"/><meta name="twitter:description" content="Oposicion Planetaria Problema 3 Oposición Planetaria El 21 de agosto pasado ocurrió un fenómeno astronómico que se dió a conocer en la prensa como el ―Eclipse del Siglo‖."/><meta property="og:description" content="Oposicion Planetaria Problema 3 Oposición Planetaria El 21 de agosto pasado ocurrió un fenómeno astronómico que se dió a conocer en la prensa como el ―Eclipse del Siglo‖."/><meta property="og:image:alt" content="Oposicion Planetaria Problema 3 Oposición Planetaria El 21 de agosto pasado ocurrió un fenómeno astronómico que se dió a conocer en la prensa como el ―Eclipse del Siglo‖."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2017__q03"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2017__q03"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Oposicion Planetaria Problema 3 Oposición Planetaria El 21 de agosto pasado ocurrió un fenómeno astronómico que se dió a conocer en la prensa como el ―Eclipse del Siglo‖."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/cuadernillo_2017__q03" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-9113" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-9113" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Argent 2017 Locale — Quesito 3</a></div></nav><h1 class="article-title">Argent 2017 Locale — Quesito 3</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/kg/prova" class="internal internal-link tag-link">kg/prova</a><span class="note-properties-separator">, </span><a href="../tags/paese/argentina" class="internal internal-link tag-link">paese/argentina</a><span class="note-properties-separator">, </span><a href="../tags/comp/argent" class="internal internal-link tag-link">comp/argent</a><span class="note-properties-separator">, </span><a href="../tags/cluster/gravitazione-e-astrofisica" class="internal internal-link tag-link">cluster/gravitazione-e-astrofisica</a><span class="note-properties-separator">, </span><a href="../tags/topic/gravitation" class="internal internal-link tag-link">topic/gravitation</a><span class="note-properties-separator">, </span><a href="../tags/argomento/gravitazione-e-astrofisica" class="internal internal-link tag-link">argomento/gravitazione-e-astrofisica</a><span class="note-properties-separator">, </span><a href="../tags/difficolta/3" class="internal internal-link tag-link">difficolta/3</a><span class="note-properties-separator">, </span><a href="../tags/multidisciplina/mono" class="internal internal-link tag-link">multidisciplina/mono</a><span class="note-properties-separator">, </span><a href="../tags/object/planet" class="internal internal-link tag-link">object/planet</a><span class="note-properties-separator">, </span><a href="../tags/object/star" class="internal internal-link tag-link">object/star</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:28:01.293Z">02 lug 2026</time><span>32 minuti</span></p><ul class="tags"><li><a href="../tags/kg/prova" class="internal tag-link">kg/prova</a></li><li><a href="../tags/paese/argentina" class="internal tag-link">paese/argentina</a></li><li><a href="../tags/comp/argent" class="internal tag-link">comp/argent</a></li><li><a href="../tags/cluster/gravitazione-e-astrofisica" class="internal tag-link">cluster/gravitazione-e-astrofisica</a></li><li><a href="../tags/topic/gravitation" class="internal tag-link">topic/gravitation</a></li><li><a href="../tags/argomento/gravitazione-e-astrofisica" class="internal tag-link">argomento/gravitazione-e-astrofisica</a></li><li><a href="../tags/difficolta/3" class="internal tag-link">difficolta/3</a></li><li><a href="../tags/multidisciplina/mono" class="internal tag-link">multidisciplina/mono</a></li><li><a href="../tags/object/planet" class="internal tag-link">object/planet</a></li><li><a href="../tags/object/star" class="internal tag-link">object/star</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="es"></div>
+<p><strong>Oposicion Planetaria</strong></p>
+<p>Problema 3<br/>
+Oposición Planetaria</p>
+<p>El 21 de agosto pasado ocurrió un fenómeno astronómico que se dió a conocer en la
+prensa como el ―Eclipse del Siglo‖. Algunos periódicos hasta informaron que el peso de
+las personas sobre la Tierra iba a ser afectado. Esta noticia nos hizo pensar… ¿y si
+hacemos un problema de Astronomía e interacción gravitatoria?</p>
+<p>En Astronomía, se denomina Oposición al fenómeno en el cual dos astros se
+encuentran, en relación a la Tierra, en dos puntos del cielo diametralmente opuestos. La
+figura 1 muestra a Marte en Oposición al Sol.</p>
+<p>Figura 1: Marte en Oposición al Sol</p>
+<p>P
+SO
+L
+Tierra
+Marte</p>
+<p>OAF 2017 - 9
+A lo largo de este problema, haremos uso de las leyes de Kepler y de la ley de
+interacción gravitatoria de Newton. Las Leyes de Kepler son</p>
+<p>Primera ley<br/>
+Todos los planetas se desplazan alrededor del Sol describiendo órbitas elípticas.
+El Sol se encuentra en uno de los focos de la elipse.</p>
+<p>Segunda ley
+El radio vector que une un planeta y el Sol barre áreas iguales en tiempos iguales.</p>
+<p>Tercera Ley<br/>
+Se cumple que para todos los planetas, la razón entre el periodo de revolución al
+cuadrado y el semieje mayor de la elipse al cubo se mantiene constante. Esto es:</p>
+<p>𝑇2
+𝑎3 = 𝐶</p>
+<p>Donde T es el periodo orbital (tiempo que tarda en dar una vuelta alrededor del
+Sol), 𝑎 es la distancia media del planeta con el Sol y 𝐶 la constante de
+proporcionalidad.</p>
+<p>Nota: en nuestro problema, consideraremos que las órbitas son circulares y los focos de
+la elipse coninciden en el centro del circulo. Ademas las orbitas de los panetas
+considerados están ubicadas en un mismo plano.</p>
+<p>Resuelva los siguientes puntos:</p>
+<p>a) Si la última vez que Marte estuvo en Oposicion al sol, ocurrió el 22 de mayo de
+2016, ¿Cuándo ocurrirá la próxima Oposicion al sol?</p>
+<p>b)  ¿Cuál es el radio de la órbita del planeta Marte?</p>
+<p>c) ¿Cuál es su peso en la superficie de Marte de un astronauta que en la Tierra pesa
+700 N?<br/>
+(no tenga en cuenta efectos debidos a la rotación del los planetas sobre sus
+propios ejes).</p>
+<p>Suponga que,  estando Marte en Oposición al sol, el astronauta se encuentra en el punto
+P de la Figura 1.</p>
+<p>d) ¿Cuál es el cambio que experimenta en su peso debido a la máxima proximidad
+de la Tierra respecto de Marte?</p>
+<p>Datos útiles para el problema</p>
+<p>Masa de Marte: 6,39 × 1023 kg
+Periodo orbital de Marte: 687 días
+Periodo orbital de la Tierra: 365 días
+Masa de la Tierra: 5,972 × 1024 kg
+Masa del Sol: 1,989 × 1030 kg
+Radio de la Tierra: 6371 km
+Radio de Marte: 3390 km
+Velocidad de la luz: 300000 km s-1
+Constante universal de la gravitación:      𝐺= 6,674 𝑥 10−11
+𝑁𝑚2
+𝑘𝑔2</p>
+<p>10 - OAF 2017
+Prueba Experimental - Nivel 1</p>
+<p>Interferencia por una Doble Rendija</p>
+<p>Objetivo General
+Verificar experimentalmente la naturaleza ondulatoria de la luz mediante la observación
+del patrón de interferencia generado por una doble rendija.</p>
+<p>Introducción
+En 1801 Thomas Young realizó un experimento de óptica, cuyo resultado sólo puede
+explicarse considerando que la luz se comporta como una onda, en contraposición de la
+teoría tradicional que sostenía que la luz estaba formada por una corriente de finas
+partículas.
+Para realizar el experimento, Young utilizó una fuente de luz monocromática, esto es de
+un sólo y determinado color. A la luz proveniente de esta fuente  la hizo incidir sobre una
+lámina no transparente que tenía una rendija delgada, único lugar por el que podía pasar
+la luz. Luego de pasar por esta rendija, la luz incidió sobre otra lámina no transparente<br/>
+que tenía dos rendijas delgadas y muy próximas entre sí, como se muestra en la Figura</p>
+<ol>
+<li>Grande fue la sorpresa de Young cuando observó que la luz captada sobre una
+pantalla, esto es la luz que ―emanaba‖ de las dos rendijas, producía un patrón de franjas
+brillantes y oscuras.</li>
+</ol>
+<p>Interpretación<br/>
+Para poder interpretar estos resultados, Young tuvo que suponer un comportamiento
+ondulatorio de la luz:<br/>
+ La luz se comporta como una onda, cuya longitud de onda asociada está
+relacionada con el color de la luz que se observa. Esto es, el color rojo tiene una
+longitud de onda diferente a la del amarillo o a la del verde.
+ La luz emerge de las rendijas como ondas cilíndricas, esto es que tiene frentes de
+onda cilíndricos (Figura 1).
+ Los frentes de onda que inciden sobre la lámina con la doble rendija emergen con
+la misma fase, es decir: las ondas son coherentes.
+ Las diferencias  de fase entre dos ondas está relacionada con la diferencia entre
+las distancias que han recorrido.
+ Las ondas que ―parten‖ de cada rendija de la segunda lámina (doble rendija)
+recorren diferentes distancias hasta alcanzar los puntos sobre la pantalla, por lo
+que arriban a cada punto con diferentes fases.
+Figura 1
+Franjas brillantes
+Franjas oscuras
+Pantalla<br/>
+Lámina con una
+rendija<br/>
+Lámina con dos
+rendijas<br/>
+Fuente de luz</p>
+<p>OAF 2017 - 11
+ Al superponerse, es decir: al sumarse ondas con diferentes fases se produce un
+patrón de interferencia (patrón de franjas brillantes y oscuras).</p>
+<p>Análisis
+En la Figura 2 se muestra esquemáticamente la disposición geométrica del experimento y
+la diferencia  𝛥 entre las distancias que recorren los frentes de onda hasta alcanzar un
+punto de una pantalla muy lejana.</p>
+<p>La condición de muy lejana es necesaria para tratar los rayos que alcanzan la pantalla
+como rayos casi paralelos y facilitar los cálculos matemáticos. Así, se puede considerar
+que la diferencia de ―camino recorrido‖  𝛥 entre los rayos que emergen de una rendija y
+los que emergen de la otra rendija es:
+𝛥= 𝑑sin θ
+Donde  𝑑  es la distancia de separación entre las rendijas y  θ es el ángulo que posiciona
+al punto considerado sobre la pantalla.
+Para no tener que poner una pantalla lejana, se suele usar una lente ―delgada‖, mediante
+la cual se consigue que los rayos paralelos converjan en el foco de la misma, en donde
+Figura 2
+Δ
+d</p>
+<p>Zona ampliada
+Rayos “casi”  paralelos
+Δ</p>
+<p>d</p>
+<p>12 - OAF 2017
+se ubica la pantalla. O realizar este experimento usando nuestro ojo, sistema ―cornea-
+cristalino‖, como lente y nuestra retina como pantalla. Si ponemos la doble rendija muy
+próxima a nuestro ojo, podemos esquematizar la situación como se muestra en la Figura
+3.</p>
+<p>Como se indica en la figura 3 se percibirá a los rayos que alcanzan nuestra retina, como
+provenientes de franjas brillantes ubicadas en el mismo plano en donde se encuentra la
+fuente de luz. Por ejemplo, parecerán ―provenir‖ del punto P’ ubicado a una distancia y
+del eje horizontal y sobre el plano en donde se ubica la fuente de luz y con una
+inclinación θ.
+Si el ángulo  θ  es pequeño (menor a 15º) se
+puede considerar:
+𝛥≅𝑑𝑡𝑔θ ≅𝑑 𝑦
+𝐷</p>
+<p>En este caso, considerando la diferencia de
+camino ―recorrido‖ por los rayos originados en
+cada rendija y considerando θ pequeños, la
+posición de las regiones brillantes (máximos de
+interferencia) estará dada  por:
+𝑦𝑚= 𝑚 𝜆 𝐷
+𝑑
+donde 𝜆 es la longitud de onda de la luz que
+incide sobre la doble rendija y 𝑚 es el número de
+orden de máximo considerado. Esto es: 𝑚= 0
+(central y coincidente con la fuente de luz),
+𝑚= ±1 (primeras franjas: a derecha y a
+izquierda de la central), 𝑚= ±2 (segundas
+franjas) y así sucesivamente.</p>
+<p>Patrón de franjas
+visualizado</p>
+<p>Figura 3
+θ
+𝐷
+𝑦
+Retina
+Cornea- Cristalino
+P’
+Fuente de  luz
+Patrón de franjas  visualizado
+Ojo</p>
+<p>OAF 2017 - 13</p>
+<p>Nota: En el análisis realizado no se ha considerado el fenómeno de difracción, el cual
+hace  que la intensidad de las regiones brillantes no sean las mismas y que se
+desvanezcan a medida que se incrementa el orden del máximo considerado.</p>
+<p>Propuesta  Experimental</p>
+<p>Elementos disponibles</p>
+<p> Diapositivas con dobles rendijas. Se ha escrito la separación entre las primeras
+doble rendijas 𝑑1  y el ancho de las rendijas 𝑎1 y, también la separación entre las
+segundas doble rendijas  𝑑2 y el ancho de las rendijas 𝑎2. En la diapositiva
+INCOGNITA no se consignan datos.</p>
+<p> Dispositivo a pilas, con tres fuentes de luz (roja, verde y azul) con sistema para
+controlar la intensidad de luz, encendido y apagado. Con regla incorporada.
+Notas: la luz de color verde NO será utilizada en esta práctica; si tenés problemas
+para reconocer los colores: llamá al bedel.</p>
+<p> Dos ―jinetillos‖ para ser ubicados sobre la regla incorporada en la fuente de luz.</p>
+<p> Tabla con pie y ranuras para ubicar el dispositivo de luz.</p>
+<p> Porta diapositivas adaptado a la Tabla provista.</p>
+<p>Nota: cuando no esté realizando mediciones apague la fuente de luz (ponga el
+interruptor en “off”).</p>
+<p>Objetivo experimental:<br/>
+Realizar las mediciones necesarias para determinar la longitud de onda de una fuente de
+luz a partir del fenómeno de interferencia, utilizando el dispositivo provisto y teniendo en
+cuenta la configuración descripta en la Figura 3.</p>
+<p>Desarrollo de las mediciones:</p>
+<ol>
+<li>Arme el dispositivo en la mesa de trabajo.</li>
+</ol>
+<p>Regla incorporada<br/>
+Diapositiva con dobles
+rendijas
+Interruptores
+Pie móvil, ajustable
+Control de intensidad
+jinetillos
+Ranuras predeterminadas para
+posicionar la fuente de luz
+Fuente de luz
+Equipo armado</p>
+<p>14 - OAF 2017
+2) Mida las distancias (𝐷𝑖), previstas en el equipo, entre la diapositiva (doble rendija)
+y la fuente de luz (una rendija).</p>
+<p>Encienda la luz ROJA y observe el patrón de interferencia producido por la doble rendija.<br/>
+Debido al fenómeno de difracción, la intensidad de las franjas de luz decrece a partir del
+máximo central (𝑚= 0) a medida que el orden (𝑚) crece, alcanzando un valor próximo a
+cero en    𝑚max .</p>
+<p>Utilizando la doble rendija 1 (𝑑1 = 0,13 mm) y la doble rendija 2 ( 𝑑2 = 0,065 mm)</p>
+<ol start="3">
+<li>
+<p>Identifique el valor de 𝑚  máximo (𝑚max ) y mida la distancia entre las franjas
+correspondientes a −𝑚max  y 𝑚max  (∆𝑦 max ).</p>
+</li>
+<li>
+<p>Determine la distancia que separa los máximos −𝑚 y 𝑚 ( ∆𝑦𝑚= 𝑦𝑚−𝑦−𝑚)  al
+menos para 3 valores de 𝑚 (incluida la distancia correspondiente a 𝑚max ) para
+cada una de las posiciones 𝐷𝑖 la fuente de luz.</p>
+</li>
+</ol>
+<p>Presente los resultados en una tabla (TABLA 1) y agregue el valor de 𝑥 definido por:
+𝑥=  𝑚 𝐷𝑖
+𝑑𝑖</p>
+<p>Modelo de TABLA sugerido.
+𝑑𝑖
+𝐷𝑖
+𝑚
+∆𝑦𝑚
+𝑥</p>
+<p>Nota: confeccione la TABLA con las filas que considere necesarias. Recuerde consignar
+las incertezas correspondientes.</p>
+<ol start="5">
+<li>
+<p>A partir de los datos recopilados en la TABLA 1, confeccione un gráfico
+(GRAFICO 1)  ∆𝑦𝑚 en función de 𝑥.</p>
+</li>
+<li>
+<p>Ajuste los puntos del GRAFICO 1 mediante una recta y determine la pendiente de
+la misma.</p>
+</li>
+<li>
+<p>A partir del valor de la pendiente, determine la longitud de onda 𝜆 correspondiente
+al color ROJO (  𝜆𝑅).</p>
+</li>
+</ol>
+<p>Determine la separación entre las rendijas de la diapositiva denominada INCÓGNITA
+(𝑑𝐼𝑅)</p>
+<p>Prueba Teórica - Nivel 2</p>
+
+<p><img src="../_attachments/cuadernillo_2017/cuadernillo_2017_p08_f1.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/gravitation" class="internal internal-link" data-slug="topics/gravitation">Gravitation</a>, <a href="../topics/astrophysics" class="internal internal-link" data-slug="topics/astrophysics">Astrophysics</a>
+<strong>Metodi:</strong> <a href="../methods/kepler's-laws-(metodo)" class="internal internal-link alias" data-slug="methods/kepler's-laws-(metodo)">Kepler’s Laws</a>, <a href="../methods/newton's-law-of-gravitation-(metodo)" class="internal internal-link alias" data-slug="methods/newton's-law-of-gravitation-(metodo)">Newton’s Law of Gravitation</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../objects/planet-(object)" class="internal internal-link alias" data-slug="objects/planet-(object)">Planet</a>, <a href="../objects/star-(object)" class="internal internal-link alias" data-slug="objects/star-(object)">Star</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1bJZAoRVCvwSVOZRe6fN2zGWhmFhsVA9v/view" class="external external-link">Testo (PDF) — p.5<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="it"></div>
+<p><strong>Oposizione planetaria</strong></p>
+<p>Problema 3
+Opposizione planetaria</p>
+<p>Il 21 agosto scorso si è verificato un fenomeno astronomico che si è reso noto all’Università di San Francisco.
+La stampa come l’Eclipse del Secolo. Alcuni giornali hanno anche riferito che il peso di
+le persone sulla Terra sarebbero state colpite. Questa notizia ci ha fatto pensare:</p>
+<ul>
+<li>Facciamo un problema di astronomia e interazione gravitazionale?</li>
+</ul>
+<p>In astronomia, si chiama Opposizione al fenomeno in cui due stelle si incontrano.
+si trovano, rispetto alla Terra, in due punti del cielo diametralmente opposti. La
+La figura 1 mostra Marte in opposizione al Sole.</p>
+<p>Figura 1: Marte in opposizione al Sole</p>
+<p>P
+SO
+L
+Terra .
+Marte .</p>
+<p>OAF 2017 - 9
+Nel corso di questo problema, faremo uso delle leggi di Kepler e della legge di
+Interazione gravitazionale di Newton. Le leggi di Kepler sono:</p>
+<p>La prima legge
+Tutti i pianeti si muovono attorno al Sole descrivendo orbite elliptiche.
+Il Sole si trova in uno dei foci dell’ellipse.</p>
+<p>Secondo legge
+La radio-vettrice che unisce un pianeta e il Sole spazia le stesse aree allo stesso tempo.</p>
+<p>Terza legge
+Si realizza che per tutti i pianeti, il rapporto tra il periodo di rivoluzione al
+La quadrata e la semiezza maggiore dell’ellipse al cubo rimangono costanti. Questo è:</p>
+<p>𝑇2
+𝑎3 = 𝐶</p>
+<p>Dove T è il periodo orbitale (il tempo necessario per girare intorno al
+Sol), a è la distanza media del pianeta dal Sole e C la costante di
+Proporzionalità.</p>
+<p>Nota: nel nostro problema, consideriamo che le orbite siano circolari e i foci di
+L’ellipse coincide con il centro del cerchio. E le orbite dei pianeti.
+Le parti considerate sono situate nello stesso piano.</p>
+<p>Risolvi i seguenti punti:</p>
+<p>a) Se l’ultima volta che Marte è stato in opposizione al sole, è avvenuto il 22 maggio di
+2016, quando si verificherà la prossima opposizione al sole?</p>
+<p>b) Qual è il raggio di orbita del pianeta Marte?</p>
+<p>c) Qual è il peso sulla superficie di Marte di un astronauta che pesa sulla Terra?
+700 N?
+(non tiene conto degli effetti dovuti alla rotazione dei pianeti sui loro
+aumenti di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di veloc</p>
+<p>Supponiamo che Marte sia in opposizione al sole, l’astronauta si trovi al punto.
+P della figura 1.</p>
+<p>d) Qual è il cambiamento di peso che si prova a causa della massima vicinanza?
+della Terra rispetto a Marte?</p>
+<p>Dati utili per il problema</p>
+<p>Massa di Marte: 6,39 × 1023 kg
+Periodo orbitale di Marte: 687 giorni
+Periodo orbitale della Terra: 365 giorni
+Massa terrestre: 5,972 × 1024 kg
+Massa del Sole: 1,989 × 1030 kg
+Radiosfera della Terra: 6371 km
+Radio di Marte: 3390 km
+Velocità della luce: 300000 km s-1
+Costante universale di gravità: G=6.674 x 10−11
+𝑁𝑚2
+𝑘𝑔2</p>
+<p>10 - OAF 2017
+Prova sperimentale - Livello 1</p>
+<p>Interferenza da una doppia rendija</p>
+<p>Obiettivo generale
+Verificare sperimentalmente la natura ondulatoria della luce mediante l’osservazione
+di interferenza generata da una doppia spazia.</p>
+<p>Introduzione
+Nel 1801 Thomas Young eseguì un esperimento di ottica, il cui risultato è solo possibile.
+La luce si comporta come un’onda, al contrario della luce.
+La teoria tradizionale che sosteneva che la luce fosse costituita da un flusso di fine
+particelle.
+Per eseguire l’esperimento, Young utilizzò una fonte di luce monocromatica, cioè di
+un colore unico e determinato. Alla luce proveniente da questa fonte, ha fatto incidere su una
+una lamina non trasparente che aveva una scia sottile, l’unico posto dove poteva passare.
+la luce. Dopo aver attraversato questa spazia, la luce si è incentrata su un’altra lamina non trasparente.
+che aveva due sottili spazzature molto vicine, come si vede nella figura.</p>
+<ol>
+<li>Grande fu la sorpresa di Young quando osservò che la luce catturata su una
+la luce che “emanò” dalle due spaccature, produceva un modello di strisce.
+luminosi e scuri.</li>
+</ol>
+<p>Interpretazione
+Per interpretare questi risultati, Young ha dovuto supporre un comportamento
+ondulazione della luce:
+La luce si comporta come un’onda, la cui lunghezza d’onda associata è
+è legato al colore della luce osservata. Cioè, il colore rosso ha un
+lunghezza d’onda diversa da quella del giallo o del verde.
+La luce emerge dalle spacie come onde cilindriche, cioè ha frunti di
+L’aumento della capacità di trasmissione è stato determinato in base alle seguenti caratteristiche:
+I frunti d’onda che incidono sulla lamina con la doppia spazia emergono con
+la stessa fase, cioè: le onde sono coerenti.
+Le differenze di fase tra due onde sono correlate alla differenza tra
+Le distanze che hanno percorso.
+Le onde che “partono” da ogni spaccatura della seconda lamina (doppio spaccatura)
+si spostano a diverse distanze fino a raggiungere i punti sullo schermo, quindi
+che arrivano a ogni punto con diverse fasi.
+Figura 1
+Strisce lucide
+Strisce scure
+Scattoli
+Laminata con una .</p>
+<ul>
+<li>La spaccatura
+L’ lamina con due</li>
+<li>Le scintille
+Fonte di luce</li>
+</ul>
+<p>OAF 2017 - 11
+Quando si superponono, cioè quando si sommano onde con diverse fasi si produce un
+modello di interferenza (modello di strisce luminose e scure).</p>
+<p>Analisi
+La figura 2 mostra schematicamente la disposizione geometrica dell’esperimento e
+La differenza Δ tra le distanze percorse dai frunti d’onda fino a raggiungere un
+punto di uno schermo molto lontano.</p>
+<p>La condizione di distanza è necessaria per trattare i raggi che raggiungono lo schermo.
+Come raggi quasi paralleli e facilitare i calcoli matematici. Così, si può considerare
+che la differenza di “corso percorso” Δ tra i raggi che emergono da una spaccatura e
+quelli che emergono dall’altra spaccatura sono:
+Δ = dsin θ
+Dove d è la distanza di separazione tra le spazzature e θ è l’angolo che posiziona
+al punto considerato sullo schermo.
+Per non dover mettere uno schermo lontano, si usa di solito un lente “sottile” mediante
+che permette di far convergere i raggi paralleli nel foco di questa stessa luce, dove
+Figura 2
+Δ
+d</p>
+<p>Zona ampliata
+Raggi quasi paralleli
+Δ</p>
+<p>d</p>
+<p>12 - OAF 2017
+si trova lo schermo. O fare questo esperimento usando il nostro occhio, il sistema — cornea —
+“Cristallino” come lente e la nostra retina come schermo. Se mettiamo il doppio spazzo molto
+vicino al nostro occhio, possiamo schematizzare la situazione come mostrato nella Figura
+3.</p>
+<p>Come indicato nella figura 3 si vedranno i raggi che raggiungono la nostra retina, come
+provenienti da strisce luminose situate nello stesso piano in cui si trova la
+fonte di luce. Ad esempio, sembreranno “provengono” dal punto P situato a distanza e
+di un’asse orizzontale e sul piano in cui si trova la fonte di luce e con una
+inclinamento θ.
+Se l’angolo θ è piccolo (meno di 15°) si
+può considerare:
+Δdtgθ d e
+𝐷</p>
+<p>In questo caso, considerando la differenza di
+Il percorso “corso” dei raggi originari di
+per ogni spazzo e considerando θ piccole, la
+La posizione delle regioni luminose (massimo di
+interferenza) sarà data da:
+𝑦𝑚= 𝑚 𝜆 𝐷
+𝑑
+dove λ è la lunghezza d’onda della luce che
+si incide sulla doppia spazia e m è il numero di
+di massima considerazione. Questo è: m=0
+(centrale e coincidente con la fonte di luce),
+m= ±1 (prime strisce: a destra e a
+a sinistra della centrale), m= ±2 (secondi
+La Commissione ha adottato una decisione che non può essere adottata.</p>
+<p>Patrono di strisce
+visualizato</p>
+<p>Figura 3
+θ
+𝐷
+𝑦
+Retina
+Cornea-Cristalino
+P’
+Fonte di luce
+Patrono di strisce visualizzato
+Occhio</p>
+<p>OAF 2017 - 13</p>
+<p>Nota: L’analisi non ha preso in considerazione il fenomeno di difrazione, che
+La luce di questa luce è molto più intensa che la luce di questa luce.
+La maggior parte dei prodotti di cui trattasi è destinata a essere utilizzata per la produzione di prodotti di base.</p>
+<p>Proposta sperimentale</p>
+<p>Elementi disponibili</p>
+<p>Slide con doppia spaccatura. È stata scritta la separazione tra le prime.
+doppia spazia d1 e larghezza delle spazia a1 e, anche la separazione tra le
+secondo doppio di rotture d2 e larghezza di rotture a2. Slide
+INCONONITA Non sono registrati dati.</p>
+<p>Dispositivo a batteria, con tre fonti di luce (rosso, verde e blu) con sistema per
+controllare l’intensità della luce, accesa e spenta. Con regola incorporata.
+Nota: la luce verde non sarà utilizzata in questa pratica; se hai problemi
+per riconoscere i colori: chiama il bedel.</p>
+<p>Due “chinettoni” da posizionare sopra la regola incorporata nella fonte di luce.</p>
+<p>Tavola con piede e rotture per individuare il dispositivo di luce.</p>
+<p>Porta diapositive adattate alla tabella fornita.</p>
+<p>Nota: quando non si effettuano le misure, spegnere la fonte di luce (spegni il</p>
+<ul>
+<li>il interruttore in off.</li>
+</ul>
+<p>Obiettivo sperimentale:
+Realizzare le misurazioni necessarie per determinare la lunghezza d’onda di una fonte di
+la luce proveniente dal fenomeno di interferenza, utilizzando il dispositivo fornito e tenendo in
+il numero di configurazioni descritto in figura 3.</p>
+<p>Sviluppo delle misure:</p>
+<ol>
+<li>Armati il dispositivo sul tavolo di lavoro.</li>
+</ol>
+<p>Regola incorporata
+Slide con doppi</p>
+<ul>
+<li>Le scintille
+Interruttori
+Piede mobile, regolabile
+Controllo dell’intensità
+Cavalieri
+Scratche predefinite per
+posizionare la fonte di luce
+Fonte di luce
+Equipaggiamento armato</li>
+</ul>
+<p>14 - OAF 2017
+2) Misurare le distanze (Di) previste nell’apparecchio tra la diapositiva (doppio spaziolo)
+e la fonte della luce.</p>
+<p>Accendi la luce RED e osserva il modello di interferenza prodotto dalla doppia spazia.
+A causa del fenomeno di diffrazione, l’intensità delle strisce di luce diminuisce a partire dal
+Il valore di riferimento è il valore di riferimento di un valore di riferimento.
+Zero su mmax .</p>
+<p>Utilizzando il doppio slot 1 (d1 = 0,13 mm) e il doppio slot 2 (d2 = 0,065 mm)</p>
+<ol start="3">
+<li>
+<p>Identificare il valore massimo di m (mmax) e misurare la distanza tra le strisce
+corrispondenti a −mmax e mmax (∆y max).</p>
+</li>
+<li>
+<p>Determina la distanza tra i massimi −m e m (∆ym= ym−y−m) e
+meno per 3 valori di m (inclusi la distanza corrispondente a mmax) per
+Ogni posizione diede la fonte di luce.</p>
+</li>
+</ol>
+<p>Presenta i risultati in una tabella (TABELLA 1) e somma il valore di x definito da:
+𝑥=  𝑚 𝐷𝑖
+𝑑𝑖</p>
+<p>Modello di tabella suggerito.
+𝑑𝑖
+𝐷𝑖
+𝑚
+∆𝑦𝑚
+𝑥</p>
+<p>Nota: confezionare la tabella con le righe che ritieni necessarie. Ricordate di consigliare.
+le circostanze di cui trattasi.</p>
+<ol start="5">
+<li>
+<p>Basandosi sui dati raccolti in TABELLA 1, confezionate un grafico
+(Grafico 1) ∆ym in funzione di x.</p>
+</li>
+<li>
+<p>Aggiusta i punti di GRAFICO 1 con una retta e determina la pendenza di</p>
+</li>
+</ol>
+<ul>
+<li>La stessa.</li>
+</ul>
+<ol start="7">
+<li>Dal valore della pendenza, determinare la corrispondente lunghezza d’onda λ
+il colore ROSSO ( λR).</li>
+</ol>
+<p>Determina la separazione tra le slitte della scheda denominata INCÓNITA
+(DIR)</p>
+<p>Prova teorica - Livello 2</p>
+
+<p><img src="../_attachments/cuadernillo_2017/cuadernillo_2017_p08_f1.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/gravitation" class="internal internal-link" data-slug="topics/gravitation">Gravitation</a>, <a href="../topics/astrophysics" class="internal internal-link" data-slug="topics/astrophysics">Astrophysics</a>
+<strong>Metodi:</strong> <a href="../methods/kepler's-laws-(metodo)" class="internal internal-link alias" data-slug="methods/kepler's-laws-(metodo)">Kepler’s Laws</a>, <a href="../methods/newton's-law-of-gravitation-(metodo)" class="internal internal-link alias" data-slug="methods/newton's-law-of-gravitation-(metodo)">Newton’s Law of Gravitation</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../objects/planet-(object)" class="internal internal-link alias" data-slug="objects/planet-(object)">Planet</a>, <a href="../objects/star-(object)" class="internal internal-link alias" data-slug="objects/star-(object)">Star</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1bJZAoRVCvwSVOZRe6fN2zGWhmFhsVA9v/view" class="external external-link">Testo (PDF) — p.5<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>The Commission has also adopted a proposal for a regulation on the protection of the environment.</p>
+<p>Problem three .
+Planetary Opposition</p>
+<p>On 21 August last, an astronomical phenomenon occurred which was reported in the
+Press such as the “Eclipse of the Century”. Some newspapers even reported that the weight of
+people on Earth would be affected. This news made us think, “What if?
+We’re going to do an astronomy and gravitational interaction problem?</p>
+<p>In astronomy, it is called Opposition to the phenomenon in which two stars are
+They are located, relative to the Earth, at two diametrically opposite points in the sky. La
+Figure 1 shows Mars as opposed to the Sun.</p>
+<p>Figure 1: Mars in opposition to the Sun</p>
+<p>P
+SO
+L
+Earth .
+Mars .</p>
+<p>The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
+Throughout this problem, we’ll use Kepler’s laws and Kepler’s law.
+Newton’s gravitational interaction. Kepler’s laws are</p>
+<p>First law
+All the planets move around the Sun describing elliptical orbits.
+The Sun is at one of the focuses of the ellipse.</p>
+<p>Second law
+The vector radius that connects a planet to the Sun crosses the same areas at the same time.</p>
+<p>Third Law
+It is true that for all planets, the ratio between the period of revolution to the
+square and the major semicircle of the ellipse to the cube remains constant. This is:</p>
+<p>𝑇2
+𝑎3 = 𝐶</p>
+<p>Where T is the orbital period (the time it takes to go around the
+Sun), a is the mean distance of the planet from the Sun and C is the constant of
+the Commission’s proposal.</p>
+<p>Note: in our problem, we will consider that the orbits are circular and the focuses of
+The ellipse coincides with the center of the circle. In addition to the orbits of the planets
+The two are located on the same plane.</p>
+<p>Resolve the following points:</p>
+<p>(a) If the last time Mars was in opposition to the sun, it happened on May 22nd of
+2016, when will the next Opposition to the Sun occur?</p>
+<p>(b) What is the radius of orbit of the planet Mars?</p>
+<p>(c) What is the weight on the surface of Mars of an astronaut who weighs on Earth?
+700 N?
+(does not take into account effects due to the rotation of the planets on their
+own axes).</p>
+<p>Suppose that, with Mars in opposition to the sun, the astronaut is at the point.
+P of Figure 1.</p>
+<p>(d) What is the change in weight you experience due to the maximum proximity?
+Earth’s relationship to Mars?</p>
+<p>Data useful for the problem</p>
+<p>The mass of Mars: 6,39 × 1023 kg
+Mars orbital period: 687 days
+Earth’s orbital period: 365 days
+The mass of the Earth: 5,972 × 1024 kg
+The mass of the Sun: 1,989 × 1030 kg
+Radius of the Earth: 6371 km
+Radio of Mars: 3390 km
+The speed of light: 300000 km s-1
+Universal gravity constant: G = 6,674 x 10−11
+𝑁𝑚2
+𝑘𝑔2</p>
+<p>10 - OAF 2017
+The following is the list of the types of tests:</p>
+<p>Interference by a Double Rendija</p>
+<p>General objective
+Experimentally verify the wavy nature of light by observation
+the interference pattern generated by a double slit.</p>
+<p>The first is the introduction.
+In 1801 Thomas Young conducted an experiment in optics, the result of which can only be
+The reason for this is that light behaves as a wave, as opposed to light.
+The traditional theory that light was made up of a fine stream of light.
+particles.
+To perform the experiment, Young used a monochrome light source, that is, from
+a single, determined color. The light from this source made her focus on a
+The non-transparent sheet that had a thin cleft, the only place he could pass through.
+The light. After passing through this crack, the light struck another opaque sheet.
+It had two thin, very close slits, as shown in Figure 1.</p>
+<ol>
+<li>Great was Young’s surprise when he noticed that light captured on a
+screen, this is the light that “emitted” from the two slits, producing a pattern of stripes.
+bright and dark.</li>
+</ol>
+<p>Interpretation of the text
+To interpret these results, Young had to assume a behavior.
+The light wavelength:
+Light behaves like a wave, whose associated wavelength is
+It’s related to the color of the light we see. I mean, the red color has a
+The wavelength is different from that of yellow or green.
+Light emerges from the gaps as cylindrical waves, that is, it has fronts of
+The following is the list of the types of electrical power generated by the electrical system:
+The wavefronts that impact the sheet with the double-slit emerge with
+The same phase, that is, the waves are consistent.
+The phase differences between two waves are related to the difference between
+the distances they’ve traveled.
+The waves that “break” from each slit of the second sheet (double slit)
+They travel different distances to reach the points on the screen, so
+They come to each point with different phases.
+Figure 1
+Bright stripes .
+Dark stripes .
+Screen
+Laminate with a .
+The gap
+Laminate with two .</p>
+<ul>
+<li>I ‘m not .
+Light source</li>
+</ul>
+<p>The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
+When superimposed, i.e. when waves with different phases add up, a
+interference pattern (bright and dark band pattern).</p>
+<p>Analysis of the data
+Figure 2 shows the geometric arrangement of the experiment and
+The difference Δ between the distances travelled by the wavefronts to reach a
+point of a very distant screen.</p>
+<p>The condition of very distant is necessary to treat the rays reaching the screen.
+Like almost parallel beams and make mathematical calculations easier. So, you can consider
+that the difference in “pathway” Δ between the rays emerging from a crack and
+Those that emerge from the other slit are:
+Δ = dsin θ
+Where d is the distance between the gaps and θ is the angle that it positions
+the point considered on the screen.
+To avoid having to put a remote screen, a thin lens is usually used, using a thin lens.
+which is where the parallel rays converge at the focus of the same, where
+Figure 2
+Δ
+d</p>
+<p>Enlarged area
+Almost parallel beams
+Δ</p>
+<p>d</p>
+<p>The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+the screen is located. Or do this experiment using our eye, system — the cornea —
+“crystalline” as a lens and our retina as a screen. If we put the double slit too much
+close to our eye, we can outline the situation as shown in Figure
+3.</p>
+<p>As shown in Figure 3, you will see the rays reaching our retina, such as
+The resulting light is a bright band located on the same plane as the
+the source of light. For example, they will appear to be “coming” from the point P located at a distance and
+The light source is located on the horizontal axis and on the plane where the light source is located and with a
+slope θ.
+If the angle θ is small (less than 15o) it is
+may consider:
+Ddtgθ d and
+𝐷</p>
+<p>In this case, considering the difference of
+The path ― traversed ― by the rays originating in
+Each slit and considering θ small, the
+The position of the bright regions (maximum of
+interference) shall be given by:
+𝑦𝑚= 𝑚 𝜆 𝐷
+𝑑
+where λ is the wavelength of the light that
+It’s on the double-slit and m is the number of
+order of maximum consideration. This is: m=0
+(central and matching the light source),
+m= ±1 (first lines: to the right and to
+The value of the input data shall be the value of the input data.
+The Commission has already taken a number of measures to ensure that the Community’s financial resources are not used to finance the implementation of the programme.</p>
+<p>Pattern of stripes
+displayed</p>
+<p>Figure 3
+θ
+𝐷
+𝑦
+Retina
+Cornea- crystalline
+P’
+Light source
+Pattern of stripes displayed
+Eye .</p>
+<p>The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.</p>
+<p>Note: The analysis did not consider the diffraction phenomenon, which
+The intensity of the bright regions is not the same and it is
+The number of the maximum considered shall be increased.</p>
+<p>Experimental proposal</p>
+<p>Available items</p>
+<p>Slides with double slits. The separation between the former has been written.
+double cleavage d1 and the width of the cleavages a1 and, also the separation between the
+second double slits d2 and the width of the slits a2. On the slide.
+NO data is recorded.</p>
+<p>Battery device with three light sources (red, green and blue) with system for
+control the intensity of the light, on and off. With a built-in rule.
+Notes: the green light will NOT be used in this practice; if you have problems
+To recognize colors: call the bedel.</p>
+<p>Two “knuckles” to be placed over the rule incorporated into the light source.</p>
+<p>Table with foot and slots to locate the lighting device.</p>
+<p>Slide port adapted to the provided table.</p>
+<p>Note: when not measuring, turn off the light source (set the
+switch in off).</p>
+<p>The experimental objective:
+Perform the measurements necessary to determine the wavelength of a source of
+light from the interference phenomenon, using the provided device and having in
+The configuration described in Figure 3 is calculated.</p>
+<p>Development of measurements:</p>
+<ol>
+<li>Arming the device on the work table.</li>
+</ol>
+<p>Embedded rule
+Slide with doubles</p>
+<ul>
+<li>I ‘m not .
+The switches
+Moveable foot, adjustable
+Control of intensity
+Horsemen
+Defaulted slots for
+Position the light source
+Light source
+Armed team .</li>
+</ul>
+<p>The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+2) Measure the distance (Di) planned on the equipment between the slide (double slit)
+and the source of light.</p>
+<p>Turn on the RED light and observe the interference pattern produced by the double-slit.
+Due to the diffraction phenomenon, the intensity of the light bands decreases from the
+The average value of the value of the product is the value of the product.
+Zero on mmax .</p>
+<p>Using the double slot 1 (d1 = 0,13 mm) and the double slot 2 (d2 = 0,065 mm)</p>
+<ol start="3">
+<li>
+<p>Identify the maximum m value (mmax) and measure the distance between the bands
+The following is the list of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the first of the first of the first of the first of the first of the first of the first of the first of those values of the first of the first of those values of the first of those values of the first of those values of those values of the first of those values of the first of those values of the first of the first of those values of the first of the first of the first of those values of those values of those values of the first of those values:</p>
+</li>
+<li>
+<p>Determine the distance between the maximum −m and m (∆ym= ym−y−m) to
+minus 3 values of m (including the distance to mmax) for
+Each of the positions is given the light source.</p>
+</li>
+</ol>
+<p>Present the results in a table (TABLE 1) and add the value of x defined by:
+𝑥=  𝑚 𝐷𝑖
+𝑑𝑖</p>
+<p>Suggested table model.
+𝑑𝑖
+𝐷𝑖
+𝑚
+∆𝑦𝑚
+𝑥</p>
+<p>Note: Make the TABLE with the rows you deem necessary. Remember to record .
+the relevant uncertainties.</p>
+<ol start="5">
+<li>
+<p>Draw up a graph from the data collected in TABLE 1.
+(Graph 1) ∆ym as a function of x.</p>
+</li>
+<li>
+<p>Adjust the points of GRAFICO 1 by a straight line and determine the slope of the
+The same.</p>
+</li>
+<li>
+<p>From the slope value, determine the corresponding wavelength λ
+the colour RED ( λR).</p>
+</li>
+</ol>
+<p>Determine the separation between the slits of the slide called INCÓNITA
+(dIR)</p>
+<p>Theoretical proof - Level 2</p>
+
+<p><img src="../_attachments/cuadernillo_2017/cuadernillo_2017_p08_f1.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/gravitation" class="internal internal-link" data-slug="topics/gravitation">Gravitation</a>, <a href="../topics/astrophysics" class="internal internal-link" data-slug="topics/astrophysics">Astrophysics</a>
+<strong>Metodi:</strong> <a href="../methods/kepler's-laws-(metodo)" class="internal internal-link alias" data-slug="methods/kepler's-laws-(metodo)">Kepler’s Laws</a>, <a href="../methods/newton's-law-of-gravitation-(metodo)" class="internal internal-link alias" data-slug="methods/newton's-law-of-gravitation-(metodo)">Newton’s Law of Gravitation</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../objects/planet-(object)" class="internal internal-link alias" data-slug="objects/planet-(object)">Planet</a>, <a href="../objects/star-(object)" class="internal internal-link alias" data-slug="objects/star-(object)">Star</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1bJZAoRVCvwSVOZRe6fN2zGWhmFhsVA9v/view" class="external external-link">Testo (PDF) — p.5<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/planet-(object)" class="internal">Planet</a></li><li><a href="../objects/star-(object)" class="internal">Star</a></li><li><a href="../prove/cuadernillo_2017" class="internal">Argent 2017</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

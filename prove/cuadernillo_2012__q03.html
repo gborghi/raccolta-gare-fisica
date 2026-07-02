@@ -1,0 +1,2558 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr"><head><title>Argent 2012 Locale — Quesito 3</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="Argent 2012 Locale — Quesito 3"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Argent 2012 Locale — Quesito 3"/><meta name="twitter:description" content="El salto que fue un record Problema 3: . El salto que fue un record."/><meta property="og:description" content="El salto que fue un record Problema 3: . El salto que fue un record."/><meta property="og:image:alt" content="El salto que fue un record Problema 3: . El salto que fue un record."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2012__q03"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2012__q03"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="El salto que fue un record Problema 3: . El salto que fue un record."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/cuadernillo_2012__q03" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-8246" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-8246" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Argent 2012 Locale — Quesito 3</a></div></nav><h1 class="article-title">Argent 2012 Locale — Quesito 3</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/kg/prova" class="internal internal-link tag-link">kg/prova</a><span class="note-properties-separator">, </span><a href="../tags/paese/argentina" class="internal internal-link tag-link">paese/argentina</a><span class="note-properties-separator">, </span><a href="../tags/comp/argent" class="internal internal-link tag-link">comp/argent</a><span class="note-properties-separator">, </span><a href="../tags/cluster/meccanica" class="internal internal-link tag-link">cluster/meccanica</a><span class="note-properties-separator">, </span><a href="../tags/topic/newtonian-mechanics" class="internal internal-link tag-link">topic/newtonian-mechanics</a><span class="note-properties-separator">, </span><a href="../tags/argomento/meccanica" class="internal internal-link tag-link">argomento/meccanica</a><span class="note-properties-separator">, </span><a href="../tags/difficolta/4" class="internal internal-link tag-link">difficolta/4</a><span class="note-properties-separator">, </span><a href="../tags/multidisciplina/multi" class="internal internal-link tag-link">multidisciplina/multi</a><span class="note-properties-separator">, </span><a href="../tags/object/projectile" class="internal internal-link tag-link">object/projectile</a><span class="note-properties-separator">, </span><a href="../tags/object/cylinder" class="internal internal-link tag-link">object/cylinder</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:27:59.245Z">02 lug 2026</time><span>76 minuti</span></p><ul class="tags"><li><a href="../tags/kg/prova" class="internal tag-link">kg/prova</a></li><li><a href="../tags/paese/argentina" class="internal tag-link">paese/argentina</a></li><li><a href="../tags/comp/argent" class="internal tag-link">comp/argent</a></li><li><a href="../tags/cluster/meccanica" class="internal tag-link">cluster/meccanica</a></li><li><a href="../tags/topic/newtonian-mechanics" class="internal tag-link">topic/newtonian-mechanics</a></li><li><a href="../tags/argomento/meccanica" class="internal tag-link">argomento/meccanica</a></li><li><a href="../tags/difficolta/4" class="internal tag-link">difficolta/4</a></li><li><a href="../tags/multidisciplina/multi" class="internal tag-link">multidisciplina/multi</a></li><li><a href="../tags/object/projectile" class="internal tag-link">object/projectile</a></li><li><a href="../tags/object/cylinder" class="internal tag-link">object/cylinder</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="es"></div>
+<p><strong>El salto que fue un record</strong></p>
+<p>Problema 3: .</p>
+<p>El salto que fue un record.
+Pocos días atrás, el austríaco Félix
+Baumgartner se propuso alcanzar la
+velocidad
+del
+sonido,
+sin
+ninguna
+asistencia mecánica, es decir sin el uso
+de ninguna nave o dispositivo mecánico
+que lo llevara a esa velocidad. Para ello
+una capsula colgada de un globo
+aerostático
+de
+helio,
+especialmente
+diseñada, lo ubicó a una gran altura por
+encima de la tierra, desde donde se
+arrojó (imagen).</p>
+<p>Para el diseño de esta hazaña el Sr. Baumgartner contó con el asesoramiento
+de varios especialistas, entre ellos una persona que sabe física, como Ud.<br/>
+En este problema nos proponemos investigar algunos aspectos que se tuvieron
+que tener en cuenta para el cumplimiento exitoso de esta aventura.
+A lo largo de todo este problema asumiremos que la aceleración de la gravedad
+es independiente de la altura, y su valor es 9.8 m/s2. También supondremos que
+la velocidad del sonido es constante en toda la atmósfera e igual  a 340m/s.</p>
+<p>a) Suponiendo que la caída fuese libre, ¿cuánto tiempo le llevaría a
+Félix alcanzar la velocidad del sonido?</p>
+<p>b) ¿Qué distancia recorrería en ese lapso de tiempo?
+Sin embargo, sobre un objeto que cae en la atmósfera terrestre actúan tres
+fuerzas:
+i)
+La fuerza de la gravedad, Fg.
+ii)
+la fuerza de flotación, Fe.
+iii)
+la fuerza  de arrastre, Fd.
+Las últimas dos fuerzas oponen resistencia a la caída libre del cuerpo.<br/>
+La fuerza de flotación es igual en magnitud al peso del fluido – en este caso el
+aire de la atmósfera- desalojado por el cuerpo (Principio de Arquímedes).<br/>
+Por otro lado la fuerza de arrastre, que está en la misma dirección y es de
+sentido contrario al movimiento del objeto, tiene una magnitud</p>
+<p>en donde:
+
+Cd  es un coeficiente dinámico que depende del cuerpo y de las
+condiciones del fluido en el que el cuerpo se mueve;
+
+ρa es la densidad de la atmósfera;
+
+v es la velocidad del cuerpo en movimiento;
+
+A es el área del cuerpo transversal a la dirección de movimiento.
+Denotaremos además por ρ a la densidad del cuerpo y por m a su masa.</p>
+<p>c) Exprese la magnitud de la fuerza de flotación Fe, en términos de la
+densidad del aire y de la densidad y masa del cuerpo.</p>
+<p>OAF 2012 - 15
+d) Escriba la ecuación de movimiento de un cuerpo que cae en la
+atmósfera.<br/>
+Si se supone que la densidad de la atmósfera es constante, entonces por efecto
+de la acción combinada de las tres fuerzas mencionadas arriba,  y tras un cierto
+tiempo de comenzar su caída, el cuerpo logra una velocidad final, conocida
+como velocidad límite.</p>
+<p>e) Encuentre una expresión para la velocidad límite, bajo la suposición
+de que la densidad de la atmósfera es constante.
+Con el propósito de poder responder a algunas de las preguntas planteadas por
+el aventurero Félix, haremos las siguientes suposiciones:</p>
+<p>i)
+Félix, vistiendo su traje “espacial”, es geométricamente similar a
+un cilindro de radio r = 40 cm, y de altura l=1.85 m, y que su
+densidad es igual a la del agua: ρ = 1 g/cm3.</p>
+<p>ii)
+El coeficiente dinámico de Félix es Cd = 1.5.</p>
+<p>iii)
+La densidad de la atmósfera es constante a tramos, con los
+valores que se muestran en la siguiente tabla:</p>
+<p>Rango de altura
+0-10 (km)
+10-20 (km)
+20-30 (km)
+30-40 (km)
+ρa (g/cm3)
+0.0012
+0.0006
+0.0003
+0.00002</p>
+<p>iv)
+La velocidad del sonido es constante en toda la atmósfera e igual<br/>
+a 340m/s.</p>
+<p>Teniendo en cuenta todas estas suposiciones y datos,</p>
+<p>f) ¿Desde cuáles rangos de altura de los indicados en la tabla, no
+debería arrojarse Félix si quiere lograr su objetivo, es decir superar
+la velocidad del sonido? Justifique su respuesta.<br/>
+La presión atmosférica decrece con la altura de acuerdo con la expresión</p>
+<pre><code>      (1) 
+</code></pre>
+<p>donde  P0 =760 mmHg = 760 Torr, es la presión atmosférica a nivel del mar y H
+es una constante que se llama escala de altura y vale H=8.42km.</p>
+<p>En la figura adjunta se representa la presión de vapor del agua en función de la
+temperatura.  Recuerde que la presión de vapor es la presión a la que coexisten
+la fase líquida y la fase gaseosa de una sustancia.</p>
+<p>OAF 2012 - 16</p>
+<p>Presión de vapor del agua. 1 Torr equivale a 1mmHg</p>
+<p>Suponga que la sangre de Félix es prácticamente agua y se encuentra a
+36ºC.
+Sobre la base de la información suministrada y usando la figura,
+responda</p>
+<p>g) ¿qué efecto sufriría la sangre de Félix, si no usara un traje
+adecuadamente presurizado al momento de lanzarse desde la
+cápsula?</p>
+<p>OAF 2012 - 17
+Hoja de Respuesta</p>
+<p>a)</p>
+<p>b)</p>
+<p>c)</p>
+<p>d)</p>
+<p>e)</p>
+<p>f)</p>
+<p>OAF 2012 - 18
+g)</p>
+<p>OAF 2012 - 19</p>
+<p>Instancia Nacional
+Prueba Experimental</p>
+<p>OAF 2012 - 20
+Introducción:</p>
+<p>Determinación de la permitividad eléctrica del aire
+Introducción
+Un condensador es un dispositivo que almacena energía en un campo eléctrico.
+Este dispositivo está formado por dos superficies conductoras (Placas)
+separadas por un medio dieléctrico como se muestra en la Figura 1.</p>
+<p>Figura 1. Condensador</p>
+<p>Cuando se aplica una diferencia de potencial    entre los “terminales” de un
+condensador, sus placas conductoras se cargan con carga Q y -Q
+respectivamente. La magnitud de la carga Q está dada por,</p>
+<pre><code>   (1) 
+</code></pre>
+<p>donde C es una constante denominada capacidad cuya unidad es el Faradio [F].
+La capacidad depende de la forma geométrica y de las dimensiones del
+condensador, y de la permitividad eléctrica ε del medio que separa las placas.</p>
+<p>Entre las formas de conectar condensadores se encuentran dos muy usadas:</p>
+<p>-Conexión en serie</p>
+<p>Figura 2a. Conexión en serie</p>
+<p>La capacidad C de un sistema formado por dos condensadores de capacidad<br/>
+y     conectados en serie (Figura 2a) es tal que:</p>
+<pre><code>(2) 
+</code></pre>
+<p>-Conexión en paralelo</p>
+<p>Figura 2b. Conexión en paralelo.</p>
+<p>OAF 2012 - 21
+La capacidad C de un sistema formado por dos condensadores de capacidad<br/>
+y     conectados en paralelo (Figura 2b) es:</p>
+<p>(3)</p>
+<p>Condensador cilíndrico</p>
+<p>En este tipo de condensador, las placas metálicas son cilindros ubicadas de
+manera coaxial como se muestra en la Figura 3.</p>
+<p>Figura 3. Condensador cilíndrico.</p>
+<p>La capacidad de un condensador cilíndrico de altura L y de radio interno    y
+externo    (     ), con un medio de permitividad eléctrica ε (ver Figura 3)  está
+dada por:</p>
+<pre><code>  (4) 
+</code></pre>
+<p>Objetivos:</p>
+<ul>
+<li>
+<p>Determinar la permitividad eléctrica del aire   utilizando un condensador
+cilíndrico de longitud variable.</p>
+</li>
+<li>
+<p>Determinar el valor de inductancia LB de una bobina.</p>
+</li>
+</ul>
+<p>OAF 2012 - 22
+Equipo:</p>
+<p>Figura 4. Equipo experimental.</p>
+<p>Parte 1: Calibración del transductor Capacidad-Frecuencia.</p>
+<p>El transductor capacidad-frecuencia es un dispositivo mediante el cual se puede
+determinar la capacidad (C) de un condensador  a través  de la medición de la
+frecuencia de la señal de voltaje de salida (V0).</p>
+<p>Figura 5. Esquema de conexión Transductor Capacidad -Frecuencia</p>
+<p>El esquema del dispositivo de medición se muestra en la Figura 5. La frecuencia
+(f) que indica el frecuencímetro conectado en los bornes de la salida (bornes C-
+D) está relacionada con la capacidad (C)  del condensador  conectado en los
+bornes de entrada (bornes A-B)  mediante la ecuación:</p>
+<p>(5)</p>
+<p>donde   y    son constantes que dependen de la construcción del transductor.</p>
+<p>Elementos disponibles:</p>
+<ul>
+<li>Transductor Capacidad-Frecuencia.</li>
+</ul>
+<p>OAF 2012 - 23</p>
+<ul>
+<li>
+<p>3 Condensadores de capacidad conocida con una incertidumbre relativa del
+10%.
+Color
+Capacidad [pF]
+Verde
+56
+Naranja
+82
+Blanco
+120</p>
+</li>
+<li>
+<p>Conector</p>
+</li>
+<li>
+<p>Frecuencímetro (Multímetro).</p>
+</li>
+<li>
+<p>Hoja milimetrada.</p>
+</li>
+</ul>
+<p>Utilizando los elementos provistos determine las constantes   y   .</p>
+<p>Procedimiento:</p>
+<p>1.1. Conecte dispositivos de capacidad conocida a la entrada del transductor
+(bornes A -B) y determine la frecuencia de la señal de voltaje de salida (bornes
+C-D), utilizando el frecuencímetro. Vuelque los valores medidos en una tabla
+(Tabla 1). Para la conexión de los condensadores a la entrada del transductor,
+utilice el conector provisto.</p>
+<p>Notas:</p>
+<ul>
+<li>Ver Anexo para conexión del frecuencímetro.</li>
+<li>El transductor posee un pulsador para su encendido y una luz de indicación de
+encendido.</li>
+<li>En caso en que el frecuencímetro se apague, vuelva a encenderlo utilizando el
+botón de encendido del mismo.</li>
+</ul>
+<p>1.2. A partir de los datos medidos, elabore un gráfico 1/f vs C.</p>
+<p>1.3. A partir del gráfico determine los valores de las constantes de la ecuación
+(5).</p>
+<p>Parte 2: Determinación de la permitividad eléctrica del aire</p>
+<p>Elementos disponibles:</p>
+<p>-Condensador cilíndrico de longitud variable.</p>
+<p>-Transductor Capacidad-Frecuencia.</p>
+<p>-Frecuencímetro (Multímetro).</p>
+<p>-Regla.</p>
+<p>-Hoja milimetrada.</p>
+<p>OAF 2012 - 24</p>
+<p>Figura 6. Esquema conexión para el condensador variable.</p>
+<p>Utilizando los elementos provistos determine el valor de  .</p>
+<p>Procedimiento:</p>
+<p>2.1. Determine la frecuencia de la señal de voltaje de salida del transductor
+Capacidad-Frecuencia (bornes C-D) para distintas posiciones (x) del cilindro
+interno del condensador cilíndrico. Vuelque los valores medidos en una tabla
+(Tabla 2).</p>
+<p>Notas:</p>
+<ul>
+<li>Ver Anexo para conexión del frecuencímetro.</li>
+<li>El transductor posee un pulsador para su encendido y una luz de indicación de
+encendido.</li>
+<li>En caso en que el frecuencímetro se apague, vuelva a encenderlo utilizando el
+botón de encendido del mismo.</li>
+</ul>
+<p>2.2. Determine los valores de capacidad (C) correspondientes a los valores de
+frecuencia medidos en el punto anterior.</p>
+<p>2.3. Elabore un gráfico de x vs C.</p>
+<p>2.4. Ajuste los valores graficados mediante una recta y determine la pendiente
+(m) de la misma.</p>
+<p>2.5. Mida los diámetros interno (a) y externo (b) de las placas del condensador
+cilíndrico.</p>
+<p>2.6. A partir de la ecuación (4) y usando los valores de m, a y b, determine la
+permitividad eléctrica del aire  .</p>
+<p>Ayuda:</p>
+<p>Parte 3: Determinación de la constante de inductancia (LB) de una bobina.</p>
+<p>Una bobina es un elemento capaz de almacenar energía en un campo
+magnético. Cuando se conecta la bobina a una fuente de tensión alterna, esta se
+opone al cambio en la corriente. Esta oposición está caracterizada por un</p>
+<p>OAF 2012 - 25
+parámetro denominado inductancia (LB) que caracteriza a la bobina. La unidad
+de la inductancia es el Henrio (H).</p>
+<p>Un circuito RLC (Figura 7) está formado una resistencia R, un condensador de
+capacidad C y una bobina de inductancia LB conectados en serie y alimentado
+por una fuente de tensión alterna V.</p>
+<p>Figura 7. Circuito RLC serie.</p>
+<p>Cuando la frecuencia de la fuente corresponde al valor de resonancia (f0), la
+corriente i que circula por el circuito tiene amplitud máxima. El valor de f0 está
+dado por,</p>
+<p>(6)</p>
+<p>Elementos disponibles:</p>
+<p>-Fuente de tensión de frecuencia variable (Condensador de longitud variable +
+transductor Capacidad-Frecuencia).</p>
+<p>-Resistencia</p>
+<p>-Condensador</p>
+<p>-Bobina de inductancia desconocida.</p>
+<p>-Amperímetro (Multímetro)</p>
+<p>Utilizando los elementos provistos determine el valor de la inductancia LB de la
+bobina.</p>
+<p>Procedimiento:</p>
+<p>3.1. Conectando el condensador cilíndrico (capacidad variable) en los bornes A-
+B del transductor Capacidad-Frecuencia, los bornes C-D del transductor
+funcionan como los de salida de una fuente de voltaje de corriente alterna.
+Implemente esta “fuente de voltaje de frecuencia variable” y conéctela al circuito
+RLC provisto.</p>
+<p>OAF 2012 - 26
+3.2. Conecte el amperímetro de modo de poder medir la corriente que circula por
+el circuito. Recuerde que el amperímetro se conecta en serie y que la corriente
+que se quiere medir es alterna.</p>
+<p>Notas:</p>
+<ul>
+<li>Ver Anexo para conexión del amperímetro.</li>
+<li>El transductor posee un pulsador para su encendido y una luz de indicación de
+encendido.</li>
+<li>En caso en que el amperímetro se apague, vuelva a encenderlo utilizando el
+botón de encendido del mismo.</li>
+</ul>
+<p>3.3. Varíe la frecuencia de la fuente de la fuente de tensión (variando la
+capacidad del capacitor cilíndrico). A partir de los valores de corrientes que
+circulan por el circuito, correspondientes a distintos valores de frecuencia,
+confeccione una tabla con los resultados de las mediciones y determine el valor
+de f0. Explicite los criterios utilizados en la determinación.</p>
+<p>3.4. Determine el valor de LB.</p>
+<p>OAF 2012 - 27
+Anexo: Uso de Multímetro</p>
+<p>Multímetro como Frecuencímetro.</p>
+<p>Multímetro como Amperímetro en Alterna.</p>
+<p>OAF 2012 - 28
+Hoja de Respuesta
+Parte 1.</p>
+<p>Tabla: Hoja aparte.</p>
+<p>Grafico: Hoja aparte.</p>
+<p>Parte 2.</p>
+<p>Tabla: Hoja aparte.</p>
+<p>Grafico: Hoja aparte</p>
+<p>Parte 3.</p>
+<p>Tabla: Hoja aparte.</p>
+<p>OAF 2012 - 29</p>
+<p>Primer Prueba Preparatoria
+Cinemática y Mecánica</p>
+<p>OAF 2012 - 30
+Problema Teórico 1</p>
+<p>Las funciones de movimiento de dos autos  A y  B son, respectivamente:</p>
+<p>1
+(
+/ )
+2.5
+2
+(2
+/ )
+4
+A
+B
+x
+m s t
+m
+x
+m s t
+m
+
+
+
+</p>
+<p>a) Determinar la distancia que separa a ambos móviles en  t = 2 s; en<br/>
+t = 3.2 min y en       t = 0.7 hs.</p>
+<p>b) Determinar la posición del móvil B, cuando el móvil A se encuentra en
+x = 4.5 m.</p>
+<p>c)
+¿Para qué valor de  t y en qué punto x se produce el encuentro de los
+autos?</p>
+<p>Resolver los incisos b) y c) en forma gráfica y analítica.</p>
+<p>Problema Teórico 2</p>
+<p>En la Figura 1 se muestra la función de movimiento, ( )
+x t , de un móvil, el cual se
+encuentra en   x = 0 m para t = -1.3 s.
+Figura 1</p>
+<p>a) Determinar la longitud total del camino recorrido en los siguientes
+intervalos de tiempo: [ -1.3; 3 ] s; [ 3; 10 ] s ; [ 10 ; 14 ] s ; [-1.3; 14 ] s</p>
+<p>b) Determinar la velocidad media v  en los mismos intervalos de tiempo
+del inciso anterior.</p>
+<p>OAF 2012 - 31</p>
+<p>c)
+Usando la velocidad media obtenida en el intervalo [-1.3; 14] s,
+determinar la longitud total del camino que recorrería el móvil en el
+mismo intervalo de tiempo, suponiendo que la posición es una función
+lineal del tiempo. Comparar este valor con el obtenido en a) para el
+intervalo [-1.3; 14] s. Explicar el resultado obtenido.</p>
+<p>d) Calcular la velocidad media v en los intervalos de tiempo [0.6; 6] s;<br/>
+[2; 4] s; [2.5; 3.5] s.</p>
+<p>e) Determinar gráficamente la velocidad instantánea del móvil en los
+siguientes instantes: t = 0 s; t  = 9 s; t  = 14 s.</p>
+<p>f)
+¿Para qué valores de t el móvil se encuentra en x = 50 m?</p>
+<p>g) ¿Para qué valores de t el móvil:<br/>
+i- se está desplazando en la dirección de x positiva?
+ii- se está desplazando en la dirección de x negativa?
+iii- tiene velocidad nula?</p>
+<p>Problema Teórico 3</p>
+<p>Un cuerpo de masa M, que se encuentra inicialmente en reposo a una altura H,
+desciende por la superficie curva mostrada en la Figura 2. Todos los
+movimientos se realizan en el plano vertical. Considere que la pista está libre de
+rozamiento, salvo en la zona marcada de longitud d. Suponga que la masa M es
+puntual.</p>
+<p>g) Haga el diagrama de cuerpo aislado al pasar por los puntos A y B.</p>
+<p>h) En esos puntos el vector aceleración total es ¿igual o diferente de
+cero?</p>
+<p>i)
+Dibuje un vector aceleración total posible cuando pasa por A.</p>
+<p>j)
+Calcule el vector aceleración total en el punto B.</p>
+<p>k)
+Suponga que la masa M llegó al punto C ¿Cuánto vale el  trabajo
+realizado por la fuerza de rozamiento sobre la masa M?</p>
+<p>l)
+Calcule el vector velocidad en el punto C.</p>
+<p>m) ¿Cuánto comprime la masa M al resorte?</p>
+<p>n) ¿Hasta donde llega la masa M luego de dejar el resorte?</p>
+<p>Datos:<br/>
+M = 1 kg
+H = 5 m
+c = 0,1 (coeficiente de rozamiento dinámico)
+d = 30 m
+g = 9,8 m/s2 (aceleración de la gravedad)
+k = 784 N/m. (constante elástica del resorte)</p>
+<p>OAF 2012 - 32</p>
+<p>Figura 2</p>
+<p>Problema Experimental</p>
+<p>Para cada tarea realizar un informe breve que conste de lo siguientes puntos:
+a) Objetivo
+b) Descripción del método de medición (esquema).
+c) Valores medidos (tablas, gráficos, etc.).
+d) Resultado.</p>
+<p>Tarea 1</p>
+<ul>
+<li>Determine el coeficiente de rozamiento estático entre una regla y una
+goma.</li>
+</ul>
+<p>Tarea 2</p>
+<ul>
+<li>Determine la densidad de una hoja de papel (utilizar hojas de papel de
+masa por metro cuadrado conocida, por ejemplo 70 gr/m2).</li>
+</ul>
+<p>OAF 2012 - 33</p>
+<p>Segunda Prueba Preparatoria
+Termodinámica</p>
+<p>OAF 2012 - 34
+Problema Teórico 1</p>
+<p>Una de las primeras estimaciones del número de Avogadro fue realizada por
+Lord Rayleigh en 1890. El observó que muy pequeñas cantidades de algunos
+aceites se esparcen en áreas muy amplias cuando se las deposita sobre la
+superficie de un estanque de agua. Bajo condiciones de reposo la “mancha de
+aceite” es aproximadamente circular, de forma que la superficie cubierta puede
+calcularse midiendo su diámetro. En particular, se observa que un miligramo de
+ácido oleico (aceite), cuya densidad es 0.9 g/cm3, cubre una superficie
+aproximada de 0.9 m2.</p>
+<p>a) ¿Cuál es el espesor de la capa de aceite?</p>
+<p>b) Asumiendo que el espesor de la capa de aceite se corresponde con el
+diámetro molecular, que las moléculas son esféricas a los fines de la
+estimación y que están en contacto entre sí en la película de aceite,
+¿cuál es el volumen estimado para una molécula?</p>
+<p>c) Estimar la constante de Avogadro (número de moléculas por mol de
+sustancia) a partir de los datos del experimento, considerando que un
+mol de ácido oleico tiene una masa de 282.5 g/mol.</p>
+<p>Problema Teórico 2</p>
+<p>Históricamente se ha definido de manera empírica la temperatura T a partir de
+una magnitud termométrica x experimentalmente accesible. El caso más
+conocido en la vida diaria, por ejemplo, es cuando x representa la altura de una
+columna de mercurio dentro de un capilar. Lo que conocemos como termómetro
+de mercurio. Una definición empírica (experimental) de la temperatura es:</p>
+<p>i) Partimos de dos puntos fijos (x1 , x2), a los cuales se les asignan
+arbitrariamente determinados valores (T1 , T2) en la escala termométrica que se
+está definiendo. Luego, se establece “a priori” una relación lineal entre la
+magnitud termométrica medida y la temperatura (T = A (x –x1) + B), utilizando los
+puntos (x1 , T1) y (x2 , T2). Para más claridad, hacemos en la figura 1 una
+representación gráfica para el caso
+de las escalas termométricas Celsius
+y Fahrenheit</p>
+<p>100
+212
+0
+32
+x
+x1
+x2
+T oF
+T oC
+cm</p>
+<p>OAF 2012 - 35
+a) Determinar los valores de las constantes A, B cuando la definición i) se
+aplica en la construcción de una escala termométrica cualquiera.</p>
+<p>b) Utilizando la siguiente tabla, encontrar las expresiones que permitan
+convertir los grados Celsius a cada una de las otras escalas:</p>
+<p>oC
+oF
+oRa
+K
+Temperatura de fusión del
+hielo
+0
+32
+492
+273
+Temperatura de
+evaporación del agua
+100
+212
+672
+373</p>
+<p>donde oC representa la escala de grados Celsius, oF la de grados Fahrenheit,
+oRa la de grados Rankine, K la de grados Kelvin.</p>
+<p>Problema Teórico 3</p>
+<p>Un recipiente, que puede considerarse adiabático (no intercambia calor con el
+medio ambiente), contiene 1 Kg de agua a temperatura ambiente. Un
+termómetro de mercurio, que se encuentra sumergido en el agua, indica que la
+temperatura del sistema es de 27oC. En el recipiente se vierte agua en estado de
+ebullición (100oC) y, cuando la temperatura del agua se estabiliza, el termómetro
+indica que la temperatura del sistema es de 50oC. La transferencia de calor al
+recipiente puede considerarse despreciable.</p>
+<p>a) ¿Cuál es la masa de agua en estado de ebullición que se agregó al
+recipiente? Tenga en cuenta que el calor específico del agua es<br/>
+cagua = 1 cal/(oC g), y la masa de agua equivalente para el termómetro
+de mercurio es meq=10 g.</p>
+<p>b) Ahora se extraen de un congelador tres cubitos de hielo, de 20 g de
+masa cada uno y a una temperatura de -20oC, y se agregan al
+recipiente. Calcular la temperatura que indicará el termómetro cuando el
+sistema alcance el equilibrio.</p>
+<p>Datos: Calor latente de fusión del hielo hielo = 80 cal/g, calor específico del hielo:
+chielo = 0.53 cal/(oC g),</p>
+<p>Problema Experimental: Construcción de un termómetro de gas</p>
+<p>Objetivo: construir un termómetro de gas utilizando elementos de fácil acceso.</p>
+<p>Breve descripción
+Un termómetro de gas utiliza como sustancia termométrica un gas. El principio
+de funcionamiento radica en que si una determinada cantidad de  gas encerrada
+en un recinto de  volumen V1, a una presión P1 y a una temperatura T1, se pone
+en contacto con un cuerpo a una temperatura T2, con el cual alcanza el
+equilibrio térmico,  experimenta un cambio de presión y  volumen (P2 y V2). Ver
+figura.</p>
+<p>OAF 2012 - 36
+Suponiendo que se trata de un gas ideal, el cambio de presión, volumen y
+temperatura cumplirá con la ecuación de estado de los gases ideales:<br/>
+, donde P es la presión del gas, n el numero de moles de gas, V el
+volumen que ocupa y T la temperatura a la que se encuentra.</p>
+<p>Así, para un número de moles constante de gas ideal, se cumple la relación
+entre las variables termodinámicas correspondientes al estado (1) y al<br/>
+estado (2):</p>
+<p>Para el caso de la figura se cumplirá que:</p>
+<p>Donde Patm es la presión atmosférica (1,013 105 Pa),  es la densidad del agua
+(1,0 g cm-3), g es la aceleración de la gravedad (9,80 m s-2),  A es la sección
+transversal del tubito, h1 y h2 con los niveles de agua en cada estado.</p>
+<p>Con las consideraciones anteriores, se puede arribar a la siguiente
+aproximación:</p>
+<p>Consigna 1
+Realizar la construcción de un dispositivo similar al de la figura.
+Es importante lograr que el sistema no tenga “pérdidas” (utilizando cera,
+plastilina, etc.); esto es, que no cambie la cantidad de gas encerrado en el
+recinto.</p>
+<p>Elementos que pueden resultar de utilidad:
+ Un recipiente con tapa (frasco estéril para análisis)
+ Un sorbete o tubito fino<br/>
+ Plastilina (paquete chico)
+ Vela de cera (candela) y fósforos…  ¡solo bajo supervisión del profesor!
+ Agua
+ Calentador de Agua… ¡solo bajo supervisión del profesor!
+ Agua con hielo
+ Termómetro áulico
+ Regla
+ Cinta adhesiva de papel (fina)
+ Lapicera (puede ser de tinta indeleble)</p>
+<p>Consigna 2
+Realizar la calibración del dispositivo para que funcione como termómetro entre
+0°C y 40°C. Esta calibración se puede realizar con un punto fijo o con dos
+valores de temperatura conocidos.</p>
+<p>OAF 2012 - 37
+Consigna 3
+Determinar la temperatura ambiente con el termómetro construido y compararla
+con el valor que indica el termómetro áulico.</p>
+<p>Figura problema experimental</p>
+<p>h2-h1
+Patm
+V2
+P1
+P2
+T1
+T2
+V1
+h1
+h2
+Estado 1
+Estado 2</p>
+<p>OAF 2012 - 38</p>
+<p>Tercer Prueba Preparatoria
+Electricidad y Magnetismo</p>
+<p>OAF 2012 - 39
+Problema Teórico 1</p>
+<p>La Figura 1 muestra un circuito cuyos elementos tienen los siguientes valores:
+1 = 2.1 V, 2 = 6.3 V, R1 =1.7 Ω, R2 = 3.5 Ω.</p>
+<p>Encuentre las corrientes en las tres ramas del circuito.</p>
+<p>Figura 1</p>
+<p>Las flechas en las fuentes indican el sentido en que aumenta el potencial
+eléctrico.</p>
+<p>Problema Teórico 2</p>
+<p>Un alambre horizontal largo, soportado rígidamente, conduce una corriente ia, de
+96 A. Directamente encima de él y paralelo a él hay un alambre delgado de peso
+por metro 0.73 N/m y que conduce una corriente ib de 23 A.</p>
+<p>a) ¿En qué sentido deben circular las corrientes para que haya repulsión
+magnética entre los alambres?</p>
+<p>b) ¿A qué altura sobre el alambre inferior habría que extender el segundo
+alambre si esperamos soportarlo mediante repulsión magnética?</p>
+<p>Problema Teórico 3</p>
+<p>En el modelo atómico de Bohr del átomo de hidrógeno, el electrón gira alrededor
+del núcleo en una trayectoria circular de 5.29 x 10-11 m de radio y a una
+frecuencia de 6.63 x 1015 Hz (o revoluciones/segundo).</p>
+<p>a) ¿Qué valor de campo magnético B se genera en el centro de la órbita?</p>
+<p>b) ¿Cuál es el momento dipolar magnético equivalente?</p>
+<p>Prueba Experimental
+Objetivos:</p>
+<ul>
+<li>Construir un electroimán.</li>
+</ul>
+<p>OAF 2012 - 40</p>
+<ul>
+<li>Construir una brújula.</li>
+<li>Verificar si el comportamiento del módulo del campo de inducción
+magnética producido por un dipolo magnético sobre el eje del mismo,
+responde a una  ley del tipo 1/x3.</li>
+</ul>
+<p>Breve descripción
+Un electroimán es un dispositivo mediante el cual  se obtiene un campo de
+inducción magnéti-ca B. Una configuración usual consiste en un clavo de hierro
+(o algún otro material ferromagnético) sobre el cual se ha bobinado algún
+número de vueltas de alambre de cobre (ver figura 1).
+Cuando la bobina se conecta a una fuente de tensión, la corriente eléctrica que
+circula por ella produce un campo de inducción magnética. El campo B que se
+consigue mediante un electroimán depende de la configuración geométrica
+utilizada; en el caso del descripto arriba (clavo y bobina) es similar al de un
+dipolo magnético.</p>
+<p>Figura 1</p>
+<p>El módulo del campo de inducción magnética, B, producido por un dipolo
+magnético de módulo Pm  a lo largo de la dirección de eje del dipolo y a una
+distancia x, está dado por:</p>
+<p>La dirección del vector campo de inducción magnética en este caso es la del<br/>
+eje x.</p>
+<p>Una brújula es un instrumento mediante el cual se puede determinar la dirección
+norte-sur (N-S) sobre la superficie terrestre; en general, se puede usar para
+determinar la dirección, en un punto determinado, de un campo de inducción
+magnética cualquiera. Consiste de una aguja imantada que puede girar
+libremente, por lo que se orienta en la dirección del campo de inducción
+magnética.</p>
+<p>Figura 2</p>
+<p>Eje del electroimán</p>
+<p>OAF 2012 - 41
+Consigna 1</p>
+<p>a) Realizar la construcción de un electroimán similar al de la figura 1, con
+una bobina de al menos 30 vueltas de alambre.</p>
+<p>b) ¡Verificar su funcionamiento! Describir el procedimiento utilizado.</p>
+<p>Elementos que pueden resultar de utilidad:</p>
+<ul>
+<li>Un clavo de unos 5cm de largo.</li>
+<li>Alambre fino de cobre (hilos de cables de electricidad, alambre
+esmaltado de bobinas, etc.), aproximadamente 1m.</li>
+<li>Cinta adhesiva de papel.</li>
+<li>Cables conductores para conexiones eléctricas.</li>
+<li>Pila de 1,5 V (en lo posible tipo A y nueva).</li>
+</ul>
+<p>Nota: Es importante que las vueltas de alambre que se bobinan no se
+cortocircuiten entre sí ni con el clavo. Para esto, en caso de no usar alambre
+esmaltado, se recomienda cubrir el clavo con un aislante (cinta de papel o papel)
+y cuidar de que las vueltas de alambre estén y permanezcan separadas entre sí.</p>
+<p>Consigna 2</p>
+<p>a) Realizar la construcción de una brújula similar a la de la figura 2.</p>
+<p>b) ¡Verificar su funcionamiento! Describir el procedimiento utilizado.</p>
+<p>Elementos que pueden resultar de utilidad:</p>
+<ul>
+<li>Una tapa o recipiente de poca profundidad y no metálico (por ejemplo,
+tapa de frasco estéril para análisis).</li>
+<li>Un alfiler magnetizado.</li>
+<li>Un trocito de papel</li>
+<li>Agua.</li>
+</ul>
+<p>Notas:</p>
+<ul>
+<li>Magnetice el alfiler utilizando el electroimán. Para esta tarea debe apoyar la
+cabeza del alfiler sobre la cabeza del clavo/núcleo del electroimán (con este
+último en funcionamiento).</li>
+<li>Es importante que la aguja pueda rotar libremente; para esto, utilice un trocito
+de papel para asentarla, el mismo flotará sobre una superficie de agua. Ni la
+aguja ni el barquito (papelito) deben tocar el borde de la cubeta.</li>
+</ul>
+<p>Consigna 3</p>
+<p>Verificar que el módulo del campo de inducción magnética B a lo largo del eje del
+electroimán varía con la distancia como el de un dipolo magnético, esto es:</p>
+<p>Elementos que pueden resultar de utilidad:</p>
+<ul>
+<li>La brújula construida.</li>
+<li>El electroimán construido.</li>
+<li>Hojas en blanco.</li>
+<li>Papel milimetrado.</li>
+</ul>
+<p>OAF 2012 - 42</p>
+<ul>
+<li>Regla.</li>
+<li>Lápiz.</li>
+</ul>
+<p>Para realizar la verificación ubique el eje del electroimán perpendicular al campo
+magnético terrestre y sobre un plano paralelo a la superficie terrestre. De esta
+manera, la presencia del campo del electroimán sumado vectorialmente al
+terrestre producirá una desviación de la aguja respecto de la dirección norte-sur
+(N-S). La tangente trigonométrica del ángulo ( ) entre la aguja y la dirección
+norte-sur es proporcional al campo de inducción magnética producido por el
+electroimán. Determine la tangente de α para diferentes distancias x entre el
+electroimán y la aguja de la brújula.</p>
+<p>Procedimiento sugerido</p>
+<p>a) Apoye la “brújula” sobre un extremo de una hoja de papel de tal manera
+que el lado corto quede alineado con la dirección N-S. Pegue, con cinta
+adhesiva, la hoja a la mesa y marque sobre la hoja el contorno de la
+cubeta de la brújula.</p>
+<p>b) Marque una recta que “contenga” a la aguja y una recta perpendicular
+que pase por el centro de la aguja y sea paralela al lado largo de la hoja
+(dirección E-O). El punto de intersección es el origen del sistema de
+coordenadas que se utilizará.</p>
+<p>Figura 3</p>
+<p>c) Apoye el electroimán sobre la línea E-O, a una distancia x del centro de
+la aguja y enciéndalo. Verifique que la aguja se reorienta y marque la
+posición del electroimán.</p>
+<p>d) Trace una recta que “contenga” a la aguja. Para esto apoye la regla
+sobre la cubeta en la dirección de la aguja (no cometa errores de
+paralaje), desconecte el electroimán, marque la recta sobre el papel.</p>
+<p>e) A partir de los catetos (h y h*) del triangulo determinado por la recta
+trazada en b) y por la trazada en d) y un borde de la hoja, determine la
+tangente del ángulo entre la dirección de la aguja en presencia del
+electroimán y la dirección N-S.</p>
+<p>Hoja de papel
+Brújula<br/>
+Electroimán<br/>
+E            O
+N</p>
+<p>S
+X</p>
+<p>OAF 2012 - 43
+Figura 4</p>
+<p>f) Consigne en una tabla los valores de tg α y de x correspondientes.</p>
+<p>Repita el procedimiento de c), d), e) y f), para diferentes posiciones (x) del
+electroimán.</p>
+<p>g) Haga un grafico (1/x3 vs tg α). Verifique si el comportamiento es lineal,
+en tal caso ajuste una recta.</p>
+<p>Recomendaciones:</p>
+<ul>
+<li>Utilice  en la brújula un nivel de agua del orden de 5 mm por sobre el
+nivel del la hoja de papel, para considerar que la aguja imantada y el eje
+del electroimán están en el mismo plano.</li>
+<li>Ni la aguja ni el barquillo (papelito) deben tocar el borde de la cubeta.</li>
+<li>Para determinar la dirección de la aguja utilice la regla como guía y
+trace la recta que “contiene” a la aguja sobre el papel base.</li>
+<li>Mida las distancias desde la cabeza del clavo hasta el centro del alfiler y
+déjelas asentadas en el papel base.</li>
+<li>Mantenga la pila alejada de la brújula durante todo el experimento.</li>
+<li>Utilice cables de conexión al electroimán suficientemente largos.</li>
+<li>Desconecte la pila luego de cada medición.</li>
+<li>Trabaje sobre una mesa que no tenga partes ferromagnéticas, o con el
+electroimán y la brújula suficientemente alejados de dichas partes.</li>
+<li>Luego de cada medición verifique que la aguja de la brújula esté
+ubicada en la posición original (con el centro en el origen de
+coordenadas).</li>
+</ul>
+<p>Hoja de papel
+Electroimán<br/>
+E            O
+N</p>
+<p>S
+x
+
+h
+h*</p>
+<p>OAF 2012 - 44</p>
+<p>Instancias Locales
+Problemas Teóricos</p>
+<p>OAF 2012 - 45</p>
+<p><strong>Topic:</strong> <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>, <a href="../topics/fluid-mechanics" class="internal internal-link alias" data-slug="topics/fluid-mechanics">Fluid Mechanics</a>
+<strong>Metodi:</strong> <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>, <a href="../methods/differential-equations-(metodo)" class="internal internal-link alias" data-slug="methods/differential-equations-(metodo)">Differential Equations</a>, <a href="../methods/kinematic-equations-(metodo)" class="internal internal-link alias" data-slug="methods/kinematic-equations-(metodo)">Kinematic Equations</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../objects/projectile-(object)" class="internal internal-link alias" data-slug="objects/projectile-(object)">Projectile</a>, <a href="../objects/cylinder-(object)" class="internal internal-link alias" data-slug="objects/cylinder-(object)">Cylinder</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/10NCgDucHDFMuORRKgMMrjBz90wa2XJ2X/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="it"></div>
+<p>Il salto che è stato un record</p>
+<p>Problema tre .</p>
+<p>Il salto che è stato un record.
+Qualche giorno fa, l’austriaco Felix
+Baumgartner si è impegnato a raggiungere il
+velocità
+di cui al
+suono,
+senza
+Nessuna .</p>
+<ul>
+<li>il controllo delle macchine, cioè senza l’uso
+di nessuna nave o dispositivo meccanico
+che lo porti a questa velocità. Per questo.
+una capsula appesa a un pallone.
+aerostatico
+de
+di h?io,
+specialmente
+Il suo design lo ha messo a un’altezza di circa 40 metri.
+sopra la terra, da dove si è
+E’ stato lanciato (immagine).</li>
+</ul>
+<p>Per il design di questo gesto, il signor Baumgartner ha avuto il suo consiglio.
+Diversi specialisti, tra cui una persona che sa la fisica, come te.
+In questo problema ci proponiamo di indagare su alcuni aspetti che si sono verificati.
+che si deve tenere in considerazione per il successo di questa avventura.
+Lungo tutto questo problema si presumerebbe che l’accelerazione della gravità
+è indipendente dall’altezza, e il suo valore è di 9,8 m/s2. Supponiamo anche che
+La velocità del suono è costante in tutta l’atmosfera e pari a 340m/s.</p>
+<p>a) Supponendo che la caduta fosse libera, quanto tempo ci vorrebbe per
+Felix raggiungere la velocità del suono?</p>
+<p>b) Che distanza avrebbe percorso in quel periodo di tempo?
+Tuttavia, su un oggetto che cade nell’atmosfera terrestre agiscono tre.
+Forze:
+i)
+La forza della gravità, Fg.
+ii)
+La forza di galleggiamento, Fede.
+(iii)
+la forza di trazione, Fd.
+Le ultime due forze si oppongono alla resistenza alla caduta libera del corpo.
+La forza di galleggiamento è uguale in magnitudo al peso del fluido  in questo caso il
+L’aria dell’atmosfera - dislocata dal corpo (Principio di Archimede).
+Dall’altra parte la forza di trazione, che è nella stessa direzione ed è di
+In senso contrario al movimento dell’oggetto, ha una grandezza.</p>
+<p>in cui:
+
+Cd è un coefficiente dinamico che dipende dal corpo e dalle
+condizioni del fluido in cui il corpo si muove;
+
+ρa è la densità dell’atmosfera;
+
+v è la velocità del corpo in movimento;
+
+A è l’area del corpo trasversale alla direzione del movimento.
+Indicheremo inoltre ρ alla densità del corpo e m alla sua massa.</p>
+<p>(c) Indicare la grandezza della forza di fluttuazione F, in termini di
+densità dell’aria e densità e massa del corpo.</p>
+<p>OAF 2012 - 15
+d) Scrivi l’equazione di movimento di un corpo che cade in
+l’atmosfera.
+Se si suppone che la densità dell’atmosfera sia costante, allora per effetto
+La Commissione ha adottato una decisione che prevede che le misure di sicurezza e di sicurezza siano state adottate in base alle misure di sicurezza e di sicurezza.
+Quando il corpo inizia a cadere, raggiunge una velocità finale, nota.
+come velocità limite.</p>
+<p>e) Trova un’espressione per la velocità limite, sotto l’ipotesi
+che la densità dell’atmosfera è costante.
+Per poter rispondere ad alcune delle domande poste da
+l’avventuriero Felix, faremo le seguenti ipotesi:</p>
+<p>i)
+Felix, indossando il suo abito spaziale, è geometricamente simile a
+un cilindro di radio r = 40 cm, e di altezza l = 1,85 m, e che il suo
+la densità è pari a quella dell’acqua: ρ = 1 g/cm3.</p>
+<p>ii)
+Il coefficiente dinamico di Felix è Cd = 1.5.</p>
+<p>(iii)
+La densità dell’atmosfera è costante in tratti, con i
+Valori mostrati nella tabella seguente:</p>
+<p>Rango di altezza
+0-10 (km)
+10-20 (km)
+20-30 (km)
+30-40 (km)
+ρa (g/cm3)
+0.0012
+0.0006
+0.0003
+0.00002</p>
+<p>iv)
+La velocità del suono è costante in tutta l’atmosfera e uguale.
+a 340m/s.</p>
+<p>Considerando tutte queste ipotesi e dati,</p>
+<p>f) Da quali ranghi di altezza sono indicati nella tabella, no
+Felix dovrebbe lanciarsi se vuole raggiungere il suo obiettivo, cioè superare.
+la velocità del suono? giustifica la tua risposta.
+La pressione atmosferica diminuisce con l’altezza in base all’espressione</p>
+<pre><code>      (1) 
+</code></pre>
+<p>dove P0 = 760 mmHg = 760 Torr, è la pressione atmosferica a livello del mare e H
+è una costante che si chiama scala di altezza e vale H=8.42km.</p>
+<p>La figura allegata rappresenta la pressione di vapore dell’acqua in funzione della
+temperatura. Ricorda che la pressione di vapore è la pressione alla quale coesistono.
+la fase liquida e la fase gassosa di una sostanza.</p>
+<p>OAF 2012 - 16</p>
+<p>Pressione di vapore dell’acqua. 1 Torr è pari a 1 mmHg</p>
+<p>Supponiamo che il sangue di Felix sia praticamente acqua e si trovi a
+36ºC.
+Basandosi sulle informazioni fornite e utilizzando la figura,
+Rispondi</p>
+<p>(g) che effetto avrebbe avuto il sangue di Felix se non indossava un vestito.
+Presione adeguata al momento del lancio
+Capsula?</p>
+<p>OAF 2012 - 17
+Pagina di risposta</p>
+<p>a)</p>
+<p>b)</p>
+<p>c)</p>
+<p>d)</p>
+<p>e)</p>
+<p>f)</p>
+<p>OAF 2012 - 18
+g)</p>
+<p>OAF 2012 - 19</p>
+<p>Instanza nazionale
+Prova sperimentale</p>
+<p>OAF 2012 - 20
+Introduzione:</p>
+<p>Determinazione della permissività elettrica dell’aria
+Introduzione
+Un condensatore è un dispositivo che immagazzina energia in un campo elettrico.
+Questo dispositivo è costituito da due superfici conduttrici (Platte)
+separati da un mezzo dielettrico come mostrato in figura 1.</p>
+<p>Figura 1. Condensatore</p>
+<p>Quando si applica una differenza di potenziale tra i terminal di un</p>
+<ul>
+<li>
+<p>il condensatore, le sue placche conduttrici sono caricate con carico Q e -Q
+rispettivamente. La grandezza della carica Q è data da,</p>
+<pre><code> (1) 
+</code></pre>
+</li>
+</ul>
+<p>dove C è una costante denominata capacità la cui unità è il Faradio [F].
+La capacità dipende dalla forma geometrica e dalle dimensioni del
+Il condensatore, e la capacità elettrica ε del mezzo che separa le plache.</p>
+<p>Tra i modi di connettere i condensatori ci sono due molto utilizzati:</p>
+<p>-Connezione in serie.</p>
+<p>Figura 2a. Connessione in serie</p>
+<p>Capacità C di un sistema formato da due capacitori di capacità
+e collegati in serie (Figura 2a) è tale che:</p>
+<pre><code>(2) 
+</code></pre>
+<p>-Connezione parallela.</p>
+<p>Figura 2b. Connessione parallela.</p>
+<p>OAF 2012 - 21
+Capacità C di un sistema formato da due capacitori di capacità
+e collegati in parallelo (Figura 2b) è:</p>
+<p>(3)</p>
+<p>Condensatore cilindrico</p>
+<p>In questo tipo di condensatore, le plache metalliche sono cilindri posizionati in
+modo coaxial come mostrato in Figura 3.</p>
+<p>Figura 3 Condensatore cilindrico.</p>
+<p>Capacità di un condensatore cilindrico di altezza L e di raggio interno e
+L’interfaccia di un’elettrica è un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di un’elettrica di
+data da:</p>
+<pre><code>  (4) 
+</code></pre>
+<p>Obiettivi:</p>
+<ul>
+<li>
+<p>Determinazione della permissività elettrica dell’aria utilizzando un condensatore
+cilindrico di lunghezza variabile.</p>
+</li>
+<li>
+<p>Determinare il valore di induzione LB di una bobina.</p>
+</li>
+</ul>
+<p>OAF 2012 - 22
+Equipaggiamento:</p>
+<p>Figura 4 Equipe sperimentale.</p>
+<p>Parte 1: Calibrazione del trasduttore Capacità-Frequenza.</p>
+<p>Il trasduttore capacità-frequenza è un dispositivo con il quale si può
+determinare la capacità (C) di un condensatore attraverso la misurazione della
+frequenza del segnale di tensione di uscita (V0).</p>
+<p>Figura 5 Schema di connessione Trasduttore Capacità - Frequenza</p>
+<p>Il diagramma del dispositivo di misurazione è mostrato in figura 5. Frequenza
+(f) che indica il frequentometro collegato ai bordi di uscita (borni C-
+D) è correlata alla capacità (C) del condensatore collegato nei
+I punti di ingresso (punti A-B) utilizzando l’equazione:</p>
+<p>(5)</p>
+<p>dove e sono costanti che dipendono dalla costruzione del trasduttore.</p>
+<p>Elementi disponibili:</p>
+<ul>
+<li>Trasduttore Capacità-Frequenza.</li>
+</ul>
+<p>OAF 2012 - 23</p>
+<ul>
+<li>
+<p>3 condensatori di capacità nota con un’incertezza relativa del
+10%.
+Colore
+Capacità [pF]
+Verde
+56</p>
+</li>
+<li>
+<p>L’arancia .
+82
+Bianco .
+120</p>
+</li>
+<li>
+<p>Conector</p>
+</li>
+<li>
+<p>Frequenza (Multimetro).</p>
+</li>
+<li>
+<p>Folito di millimetro.</p>
+</li>
+</ul>
+<p>Usando gli elementi forniti , determina le costanti e .</p>
+<p>Procedura:</p>
+<p>1.1. Connettere dispositivi di capacità nota all’entrata del trasduttore
+(borne A - B) e determina la frequenza del segnale di tensione di uscita (borne
+C-D), utilizzando il frequentometro. Roldare i valori misurati in una tabella
+(Table 1). Per il collegamento dei condensatori all’entrata del trasduttore,
+Usa il connettore fornito.</p>
+<p>Nota:</p>
+<ul>
+<li>Per la connessione del frequentometro, vedere allegato.</li>
+<li>Il trasduttore ha un pulsatore per l’accensione e una luce di indicazione di
+accesa.</li>
+<li>In caso di spegnimento del frequentometro, riattivalo usando
+il pulsante di accensione del medesimo.</li>
+</ul>
+<p>1.2. Sulla base dei dati misurati, elabora un grafico 1/f vs C.</p>
+<p>1.3. A partire dal grafico, determina i valori delle costanti dell’equazione
+(5).</p>
+<p>Parte 2: Determinazione della capacità elettrica dell’aria</p>
+<p>Elementi disponibili:</p>
+<p>-Condensatore cilindrico di lunghezza variabile.</p>
+<ul>
+<li>
+<p>Trasduttore Capacità-Frequenza.</p>
+</li>
+<li>
+<p>Frequenza (Multimetro).</p>
+</li>
+<li>
+<p>Regola.</p>
+</li>
+<li>
+<p>Figlia millimetrica.</p>
+</li>
+</ul>
+<p>OAF 2012 - 24</p>
+<p>Figura 6. Schema di connessione per il condensatore variabile.</p>
+<p>Usando gli elementi forniti , si determina il valore di .</p>
+<p>Procedura:</p>
+<p>2.1. Determina la frequenza del segnale di voltazione di uscita del trasduttore
+Capacità-Frequenza (borni C-D) per le diverse posizioni (x) del cilindro
+interno del condensatore cilindrico. Roldare i valori misurati in una tabella
+(Tabella 2).</p>
+<p>Nota:</p>
+<ul>
+<li>Per la connessione del frequentometro, vedere allegato.</li>
+<li>Il trasduttore ha un pulsatore per l’accensione e una luce di indicazione di
+accesa.</li>
+<li>In caso di spegnimento del frequentometro, riattivalo usando
+il pulsante di accensione del medesimo.</li>
+</ul>
+<p>2.2. Determina i valori di capacità (C) corrispondenti ai valori di
+frequenza misurata al punto precedente.</p>
+<p>2.3. Elaborare un grafico di x vs C.</p>
+<p>2.4. Aggiusta i valori graficati con una retta e determina la pendenza
+(m) della stessa.</p>
+<p>2.5. Misura i diametri interni (a) e esterni (b) delle schede del condensatore
+cilindrico.</p>
+<p>2.6. A partire dall’equazione (4) e utilizzando i valori di m, a e b, determinare la</p>
+<ul>
+<li>Permito elettrico dell ’ aria .</li>
+</ul>
+<p>Aiuto:</p>
+<p>Parte 3: Determinazione della costante di induzione (LB) di una bobina.</p>
+<p>Una bobina è un elemento in grado di immagazzinare energia in un campo.
+Magnetico. Quando la bobina è collegata a una fonte di tensione alternativa, questa si
+Oppone al cambiamento del corrente. Questa opposizione è caratterizzata da un</p>
+<p>OAF 2012 - 25
+parametro denominato inductance (LB) che caratterizza la bobina. L’unità
+di induzione è il Henrio (H).</p>
+<p>Un circuito RLC (Figura 7) è costituito da una resistenza R, un condensatore di
+Capacità C e una bobina di induzione LB collegata in serie e alimentata
+per una fonte di tensione alternativa V.</p>
+<p>Figura 7. Circuito RLC serie.</p>
+<p>Quando la frequenza della fonte corrisponde al valore di risonanza (f0), la
+corrente i che circola nel circuito ha l’ampiezza massima. Il valore di f0 è
+data da,</p>
+<p>(6)</p>
+<p>Elementi disponibili:</p>
+<p>-Fonte di tensione a frequenza variabile (Condensatore a lunghezza variabile +
+Capacità-Frequenza).</p>
+<ul>
+<li>
+<p>Resistenza.</p>
+</li>
+<li>
+<p>Condensatore.</p>
+</li>
+<li>
+<p>Un’inducenza sconosciuta.</p>
+</li>
+</ul>
+<p>-Amperimetro (Multimetro)</p>
+<p>L’induttanza LB della</p>
+<ul>
+<li>Il coil.</li>
+</ul>
+<p>Procedura:</p>
+<p>3.1. Connettere il condensatore cilindrico (capacità variabile) nei bordi A-
+B del trasduttore Capacità-Frequenza, i terminali C-D del trasduttore
+funzionano come quelle di uscita di una fonte di tensione di corrente alternativa.
+Implementa questa  fonte di tensione a frequenza variabile e collegala al circuito
+RLC fornito.</p>
+<p>OAF 2012 - 26
+3.2. Collegare l’ampiecatore in modo da poter misurare il corrente che circola per
+il circuito. Ricorda che l’ampiecatore si collega in serie e che il corrente
+che si vuole misurare è alternativo.</p>
+<p>Nota:</p>
+<ul>
+<li>Vedi allegato per la connessione dell’ampiezza.</li>
+<li>Il trasduttore ha un pulsatore per l’accensione e una luce di indicazione di
+accesa.</li>
+<li>In caso di spegnimento dell’ampiecatore, riattivalo usando il
+il pulsante di accensione del medesimo.</li>
+</ul>
+<p>3.3. Varia la frequenza della fonte della fonte di tensione (variegando la
+capacità del condensatore cilindrico). A partire dai valori di corrente che
+circolano nel circuito, corrispondenti a valori di frequenza diversi,
+Configgere una tabella con i risultati delle misurazioni e determinare il valore
+de f0. Especifica i criteri utilizzati per la determinazione.</p>
+<p>3.4. Determina il valore di LB.</p>
+<p>OAF 2012 - 27
+Anexo: Uso di multimetro</p>
+<p>Multimetro come Frequencimetro.</p>
+<p>Multimetro come Amperimetro in Alterna.</p>
+<p>OAF 2012 - 28
+Pagina di risposta
+Parte 1.</p>
+<p>Tabella: foglio da parte.</p>
+<p>Grafico: foglio da parte.</p>
+<p>Parte 2.</p>
+<p>Tabella: foglio da parte.</p>
+<p>Grafico: foglio da parte</p>
+<p>Parte 3.</p>
+<p>Tabella: foglio da parte.</p>
+<p>OAF 2012 - 29</p>
+<p>Primo test preparativo
+Cinematica e Meccanica</p>
+<p>OAF 2012 - 30
+Problema teorico 1</p>
+<p>Le funzioni di movimento di due auto A e B sono rispettivamente:</p>
+<p>1
+(
+/ )
+2.5
+2
+(2
+/ )
+4
+A
+B
+x
+m s t
+m
+x
+m s t
+m
+
+
+
+</p>
+<p>a) Determinare la distanza tra le due mobili in t = 2 s; in
+t = 3,2 minuti e t = 0,7 ore.</p>
+<p>b) Determinare la posizione del mobile B, quando il mobile A si trova in
+x = 4.5 m.</p>
+<p>c)
+Per quale valore di t e a quale punto x si verifica l’incontro dei</p>
+<ul>
+<li>Automobili?</li>
+</ul>
+<p>Risolvere b) e c) in modo grafico e analitico.</p>
+<p>Problema teorico 2</p>
+<p>La funzione di movimento è mostrata in figura 1.
+x t , di un cellulare, che si
+trova in x = 0 m per t = -1.3 s.
+Figura 1</p>
+<p>a) Determinare la lunghezza totale del percorso in:
+Intervalli di tempo: [ -1.3; 3 ] s; [ 3; 10 ] s; [ 10 ; 14 ] s; [-1.3; 14 ] s</p>
+<p>b) Determinare la velocità media v negli stessi intervalli di tempo
+del precedente punto.</p>
+<p>OAF 2012 - 31</p>
+<p>c)
+Usando la velocità media ottenuta nell’intervallo [-1.3; 14] s,
+determinare la lunghezza totale del percorso percorso dal cellulare in
+lo stesso intervallo di tempo, supponendo che la posizione sia una funzione
+lineare del tempo. Compare questo valore con quello ottenuto in a) per il
+intervallo [-1.3; 14] s. Spiegare il risultato ottenuto.</p>
+<p>d) Calcolare la velocità media v negli intervalli di tempo [0.6; 6] s;
+[2; 4] s; [2.5; 3.5] s.</p>
+<p>e) Determinare graficamente la velocità istantanea del cellulare nei
+i seguenti istanti: t = 0 s; t = 9 s; t = 14 s.</p>
+<p>f)
+Per quali valori di t il cellulare si trova a x = 50 m?</p>
+<p>g) Per quali valori di t il mobile:
+i- sta spostando nella direzione di x positivo?
+ii- si sta spostando nella direzione di x negativo?
+iii- ha velocità zero?</p>
+<p>Problema teorico 3</p>
+<p>Un corpo di massa M, che si trova inizialmente a riposo ad un’altezza H,
+scende per la superficie curva mostrata in Figura 2. Tutti i
+i movimenti sono realizzati a piano verticale. Considera che la pista è libera da
+il taglio, eccetto nella zona segnata di lunghezza d. Supponiamo che la massa M sia
+puntuale.</p>
+<p>g) Sviluppa il diagramma del corpo isolato passando per i punti A e B.</p>
+<p>h) In quei punti il vettore di accelerazione totale è uguale o diverso da</p>
+<ul>
+<li>Zero?</li>
+</ul>
+<p>i)
+Disegna un vettore di accelerazione totale possibile quando passa attraverso A.</p>
+<p>j)
+Calcola il vettore di accelerazione totale al punto B.</p>
+<p>k)
+Supponiamo che la massa M sia arrivata al punto C.
+effettuato dalla forza di ruggine sulla massa M?</p>
+<p>l)
+Calcola il vettore di velocità al punto C.</p>
+<p>m) Quanto compressa la massa M alla primavera?</p>
+<p>n) Quanto raggiunge la massa M dopo aver lasciato la primavera?</p>
+<p>Datati:
+M = 1 kg
+H = 5 m
+c = 0,1 (coefficiente di rasatura dinamica)
+d = 30 m
+g = 9,8 m/s2 (accelerazione da gravità)
+k = 784 N/m. (constante elastica della primavera)</p>
+<p>OAF 2012 - 32</p>
+<p>Figura 2</p>
+<p>Problema sperimentale</p>
+<p>Per ciascun compito si deve compiere un breve rapporto che contiene i seguenti punti:
+a) Obiettivo
+b) Descrizione del metodo di misurazione (schema).
+c) Valori misurati (tabelle, grafici, ecc.).
+d) Risultato.</p>
+<p>Tese 1</p>
+<ul>
+<li>
+<p>Determina il coefficiente di rottura statica tra una regola e una
+gomma.</p>
+</li>
+<li>
+<p>Tese 2</p>
+</li>
+<li>
+<p>Determina la densità di un foglio di carta (utilizza fogli di carta di
+massa per metro quadrato conosciuto, ad esempio 70 gr/m2).</p>
+</li>
+</ul>
+<p>OAF 2012 - 33</p>
+<p>Secondo test preparatorio
+Termodinamica</p>
+<p>OAF 2012 - 34
+Problema teorico 1</p>
+<p>Una delle prime stime del numero di Avogadro fu fatta da
+Lord Rayleigh nel 1890. Ha osservato che quantitativi molto piccoli di alcuni
+Le oli si diffondono in aree molto ampie quando vengono depositate sulla superficie del
+superficie di un stagno d’acqua. In condizioni di riposo la macchia di
+l’olio” è circolare circa, in modo che la superficie coperta può
+si calcola misurando il diametro. In particolare, si osserva che un miligramma di
+acido oleico (olio), densità 0,9 g/cm3, copre una superficie
+circa 0,9 m2.</p>
+<p>a) Qual è lo spessore dell’olio?</p>
+<p>b) Supponendo che il spessore dell’olio corrisponda al
+diametro molecolare, che le molecole sono sferiche alla fine del
+stima e che sono in contatto tra loro nel film olio,
+Qual è il volume stimato per una molecola?</p>
+<p>c) Estimare la costante di Avogadro (numero di molecole per mol di
+La sostanza) a partire dai dati dell’esperimento, considerando che un
+Mol di acido oleico ha una massa di 282,5 g/mol.</p>
+<p>Problema teorico 2</p>
+<p>Storicamente, la temperatura T è stata definita empiricamente a partire da
+una magnitudine termometrica x sperimentalmente accessibile. Il caso più
+nota nella vita quotidiana, per esempio, è quando x rappresenta l’altezza di una
+colonna di mercurio all’interno di un capillario. Quello che conosciamo come termometro.
+di mercurio. Una definizione empirica (esperimentare) della temperatura è:</p>
+<p>i) Partiamo da due punti fissi (x1 , x2), ai quali vengono assegnati</p>
+<ul>
+<li>determinati arbitrariamente (T1 , T2) sulla scala termometrica che viene
+sta definendo. Poi si stabilisce una relazione lineare tra la
+Maggiorità termometrica misurata e temperatura (T = A (x x1) + B), utilizzando i
+punti (x1 , T1) e (x2 , T2). Per chiarezza, facciamo in figura 1 un
+Rappresentazione grafica per il caso
+di scala termometrica Celsius
+e Fahrenheit.</li>
+</ul>
+<p>100
+212
+0
+32
+x
+x1
+x2
+T oF
+T oC
+cm</p>
+<p>OAF 2012 - 35
+a) Determinare i valori delle costanti A e B quando la definizione i) è
+applicabile alla costruzione di qualsiasi scala termometrica.</p>
+<p>b) Usando la tabella seguente, trovare le espressioni che permettono
+Convertire i gradi Celsius a ciascuna delle altre scale:</p>
+<p>oC
+oF
+O Ra
+K
+Temperatura di fusione del
+ghiaccio
+0
+32
+492
+273
+Temperatura di
+evaporazione dell’acqua
+100
+212
+672
+373</p>
+<p>dove oC rappresenta la scala di gradi Celsius o quella di gradi Fahrenheit,
+O la di gradi Rankine, K la di gradi Kelvin.</p>
+<p>Problema teorico 3</p>
+<p>Un recipiente, che può essere considerato adiabatico (non scambiano calore con il
+Il contenuto di 1 kg di acqua a temperatura ambiente. Un
+Il termometro di mercurio, immerso nell’acqua, indica che il
+La temperatura del sistema è di 27°C. Nel recipiente si versa acqua in stato di
+Boiling (100°C) e, quando la temperatura dell’acqua si stabilizza, il termometro
+indica che la temperatura del sistema è di 50°C. Il trasferimento di calore al
+il contenitore può essere considerato disprezzo.</p>
+<p>a) Qual è la massa di acqua in stato di ebollizione che è stata aggiunta al
+contenitore? Si noti che il calore specifico dell’acqua è
+acqua = 1 cal/(oC g), e massa di acqua equivalente per il termometro
+di mercurio è meq=10 g.</p>
+<p>b) Ora vengono estratti da un congelatore tre cubetti di ghiaccio, di 20 g di
+La massa di ciascuna è di -20 °C, e si aggiungono alla temperatura di -20 °C.
+contenitore. Calcolare la temperatura che il termometro indica quando il
+Il sistema raggiunge l’equilibrio.</p>
+<p>Data: Calore latente di fusione del ghiaccio ghiaccio = 80 cal/g, calore specifico del ghiaccio:
+il calcio = 0,53 cal/(oC g),</p>
+<p>Problema sperimentale: costruzione di un termometro a gas</p>
+<p>Obiettivo: costruire un termometro a gas utilizzando elementi facilmente accessibili.</p>
+<p>Breve descrizione
+Un termometro a gas usa come sostanza termometrica un gas. Il principio
+La funzione è che se una determinata quantità di gas è innescata
+in un recinto di volume V1, a una pressione P1 e a una temperatura T1, si pone
+in contatto con un corpo a una temperatura T2, con cui raggiunge il
+equilibrio termico, si verifica un cambiamento di pressione e di volume (P2 e V2). Vedi</p>
+<ul>
+<li>Figura.</li>
+</ul>
+<p>OAF 2012 - 36
+Supponendo che si tratti di un gas ideale, la pressione, il volume e il
+la temperatura soddisfa l’equazione di stato dei gas ideali:
+, dove P è la pressione del gas, n il numero di molli di gas, V il
+volume che occupa e T la temperatura a cui si trova.</p>
+<p>Quindi, per un numero costante di molli di gas ideale, si ottengono i rapporti
+tra le variabili termodinamiche corrispondenti allo stato (1) e al
+stato (2):</p>
+<p>Per il caso della figura si risponde che:</p>
+<p>Dove Patm è la pressione atmosferica (1,013 105 Pa),  è la densità dell’acqua
+(1,0 g cm-3), g è l’accelerazione della gravità (9,80 m s-2), A è la sezione
+il tubo, h1 e h2 con i livelli di acqua in ogni stato.</p>
+<p>Con le considerazioni precedenti, si può arrivare alla seguente
+Approximamento:</p>
+<p>Consigna 1
+Realizzare la costruzione di un dispositivo simile a quello riportato nella figura.
+È importante che il sistema non abbia perdite (usando cera,
+La plastilina, ecc.); cioè non cambia la quantità di gas contenuto nel</p>
+<ul>
+<li>Il recinto.</li>
+</ul>
+<p>Elementi che possono risultare utili:
+ Un contenitore con copertura (frasco sterile per analisi)
+ Una sorbetta o un tubo fino
+ Plastilina (pacco piccolo)
+ Candela di cera e mattassi… solo sotto la supervisione del professore!
+ Acqua
+ Scaldabagno … solo sotto la supervisione del professore!
+ Acqua con ghiaccio
+ termometro aulico
+ Regola
+ Fascia adesiva di carta (fina)
+ Lapicera (può essere di inchiostro indelebile)</p>
+<p>Consigna 2
+Per effettuare il calibrazione del dispositivo per funzionare come termometro tra
+0°C y 40°C. Questa calibrazione può essere effettuata con un punto fisso o con due punti.
+valori di temperatura noti.</p>
+<p>OAF 2012 - 37
+Consegna 3
+Determinare la temperatura ambiente con il termometro costruito e confrontarla
+con il valore indicato dal termometro aulico.</p>
+<p>Figura di problema sperimentale</p>
+<p>h2-h1
+Patm
+V2
+P1
+P2
+T1
+T2
+V1
+h1
+h2
+Stato 1
+Stato 2</p>
+<p>OAF 2012 - 38</p>
+<p>Terzo test preparatorio
+L’elettricità e il magnetismo</p>
+<p>OAF 2012 - 39
+Problema teorico 1</p>
+<p>La figura 1 mostra un circuito i cui elementi hanno i seguenti valori:
+1 = 2.1 V, 2 = 6.3 V, R1 =1.7 Ω, R2 = 3.5 Ω.</p>
+<p>Trova le correnti nei tre rami del circuito.</p>
+<p>Figura 1</p>
+<p>Le frecce nelle fonti indicano il senso in cui aumenta il potenziale
+elettrico.</p>
+<p>Problema teorico 2</p>
+<p>Un filo orizzontale lungo, sostenuto rigidamente, conduce un corrente di
+96 A. Proprio sopra e parallelo a lui c’ è un filo sottile di peso.
+per metro 0,73 N/m e che conduce un corrente ib di 23 A.</p>
+<p>a) In che senso devono circolare le correnti per avere ripulsione
+Magnetismo tra i fili?</p>
+<p>b) A che altezza sul filo inferiore dovrebbe essere esteso il secondo?
+Se speriamo di sopportarlo con la repulsione magnetica?</p>
+<p>Problema teorico 3</p>
+<p>Nel modello atomico di Bohr dell’atomo di idrogeno, l’elettrone gira intorno.
+Il nucleo è in una traiettoria circolare di 5,29 x 10-11 m di raggio e a una
+Frequenza di 6,63 x 1015 Hz (o rivoluzioni/secondo).</p>
+<p>a) Quale valore di campo magnetico B viene generato al centro dell’orbita?</p>
+<p>b) Qual è il momento di dipolarità magnetica equivalente?</p>
+<p>Prova sperimentale
+Obiettivi:</p>
+<ul>
+<li>Costruire un elettromagneto.</li>
+</ul>
+<p>OAF 2012 - 40</p>
+<ul>
+<li>Costruire una compassa.</li>
+<li>Verificare il comportamento del modulo del campo di induzione
+Magnetico prodotto da un dipolo magnetico sull’asse di esso,
+risponde a una legge del tipo 1/x3.</li>
+</ul>
+<p>Breve descrizione
+Un elettromagnetico è un dispositivo per ottenere un campo di
+Induzione magnetica B. Una configurazione comune consiste in un chiodo di ferro.
+(o qualsiasi altro materiale ferromagnetico) su cui è stato ripiegato un qualche
+numero di giri di filo di rame (vedere figura 1).
+Quando la bobina è collegata a una fonte di tensione, il corrente elettrica che
+circola attraverso di essa produce un campo di induzione magnetica. Il campo B che si</p>
+<ul>
+<li>Si ottiene con un elettromagneto dipende dalla configurazione geometrica.
+in cui è utilizzato; nel caso di quanto sopra descritto (chiodo e bobina) è simile a quello di un
+dipolo magnetico.</li>
+</ul>
+<p>Figura 1</p>
+<p>Il modulo del campo di induzione magnetica, B, prodotto da un dipolo
+Magnetico modulo Pm lungo la direzione dell’asse del dipolo e a una
+Distanza x, è data da:</p>
+<p>La direzione del vettore di campo di induzione magnetica in questo caso è quella di
+L’asse x.</p>
+<p>Una compassa è un strumento per determinare la direzione.
+Nord-sud (N-S) sulla superficie terrestre; in generale, può essere usato per
+determinare la direzione, a un determinato punto, di un campo di induzione
+Qualsiasi magnetico. Consiste in un ago magnetico che può girare.
+liberamente, quindi orientandosi nella direzione del campo di induzione
+Magnetico.</p>
+<p>Figura 2</p>
+<p>L’asse dell’elettromane</p>
+<p>OAF 2012 - 41
+Consigna 1</p>
+<p>a) Costruire un elettromagneto simile a quello di cui alla figura 1, con
+una bobina di almeno 30 giri di filo.</p>
+<p>b) Verificare il funzionamento! Descrivere la procedura utilizzata.</p>
+<p>Elementi che possono risultare utili:</p>
+<ul>
+<li>Un chiodo lungo circa 5 centimetri.</li>
+<li>fine fili di rame (filamenti di fili elettrici, fili di fiocco)
+di coil smaltato, ecc.), circa 1 m.</li>
+<li>Fascia adesiva di carta.</li>
+<li>Cable conduttori per le connessioni elettriche.</li>
+<li>Batteria di 1,5 V (possibile tipo A e nuova).</li>
+</ul>
+<p>Nota: è importante che le rotte di filo che si rotolano non si
+non si corteggiano tra loro né con il chiodo. Per questo, in caso di non usare il filo
+smaltato, si consiglia di coprire il chiodo con un isolante (cassetta di carta o carta)
+e assicurarsi che le rotte di filo siano e restino separate tra loro.</p>
+<p>Consigna 2</p>
+<p>a) Costruire una compassa simile a quella di cui alla figura 2.</p>
+<p>b) Verificare il funzionamento! Descrivere la procedura utilizzata.</p>
+<p>Elementi che possono risultare utili:</p>
+<ul>
+<li>Un coperchio o un recipiente di scarsa profondità non metallico (ad esempio:
+copertura di bottiglia sterile per analisi).</li>
+<li>Un pincino magnetizzato.</li>
+<li>Un pezzo di carta .</li>
+<li>L’acqua.</li>
+</ul>
+<p>Nota:</p>
+<ul>
+<li>Magnetizza la pinna usando l’elettromagnetico. Per questo dovrà sostenere la
+testa del colpo sopra la testa del clavo/nucleo dell’elettromagnetico (con questo
+ultimo in funzione).</li>
+<li>È importante che la ago possa ruotare liberamente; per questo, utilizzare un piccolo pezzo
+La sua superficie è di acqua. Ni la
+Neppure il pesce (papillone) deve toccare il bordo del cubo.</li>
+</ul>
+<p>Consegna 3</p>
+<p>Verificare che il modulo del campo di induzione magnetica B lungo l’asse del
+L’elettromagnetismo varia a distanza come quello di un dipolo magnetico, cioè:</p>
+<p>Elementi che possono risultare utili:</p>
+<ul>
+<li>La compassa costruita.</li>
+<li>L’elettromagneto costruito.</li>
+<li>Foglie bianche.</li>
+<li>Papero millimetrico.</li>
+</ul>
+<p>OAF 2012 - 42</p>
+<ul>
+<li>Regola.</li>
+<li>Una penna.</li>
+</ul>
+<p>Per verificare , localizza l’ asce dell’ elettromagnetico perpendicolare al campo .
+Magnetico terrestre e su un piano parallelo alla superficie terrestre. Di questa .
+la presenza del campo elettromagnetico,
+La terra terra produrrà una deviazione del ago rispetto alla direzione nord-sud.
+(N-S). La tangenza trigonometrica dell’angolo ( ) tra l’ago e la direzione
+Il campo di induzione magnetica prodotto dal</p>
+<ul>
+<li>Un elettromagnetico. Determina la tangenza di α per differenti distanze x tra il
+l’elettromagnetico e l’ago della compassa.</li>
+</ul>
+<p>Procedura suggerita</p>
+<p>a) appoggiare la scheda su un’estremità di una foglia di carta in questo modo
+il lato corto sia allineato all’indirizzo N-S. Collegare, con nastri.
+Appiccica la foglia al tavolo e segna sulla foglia il contorno della
+la cucchiaio della compassa.</p>
+<p>b) Segna un retto che contiene  la ago e un retto perpendicolare
+che passa attraverso il centro dell’ago e sia parallela al lato lungo della foglia
+(indirizzo E-O). Il punto di intersezione è l’origine del sistema di
+le coordinate da utilizzare.</p>
+<p>Figura 3</p>
+<p>c) appoggia l’elettromagnetico sulla linea E-O, a una distanza x dal centro di
+Il filo e accendilo. Verificare che l’ ago si sia reorientato e segnalare la
+posizione dell’elettromagnetico.</p>
+<p>d) Tracciare una retta che contiene l’ago. Per questo supporta la regola.
+sulla cucina nella direzione dell’ ago (non commettere errori di
+Parallaggio), spegni l’elettromagnetico, segna la retta sulla carta.</p>
+<p>e) A partire dai cateti (h e h*) del triangolo determinato dalla retta
+tracciato in b) e tracciato in d) e un bordo della foglia, determinare la
+tangente dell’angolo tra la direzione dell’ago in presenza del
+l’elettromagnetico e l’indirizzo N-S.</p>
+<p>Lettera di carta</p>
+<ul>
+<li>Brugola</li>
+<li>Un elettromanico.
+E            O
+N</li>
+</ul>
+<p>S
+X</p>
+<p>OAF 2012 - 43
+Figura 4</p>
+<p>f) Contiene in una tabella i valori di tg α e di x corrispondenti.</p>
+<p>Ripetere la procedura di c), d), e) e f) per le diverse posizioni (x) del</p>
+<ul>
+<li>Un elettromagnetico.</li>
+</ul>
+<p>g) Fate un grafico (1/x3 vs tg α). Verifica se il comportamento è lineare,
+In tal caso, aggiusta una retta.</p>
+<p>Raccomandazioni:</p>
+<ul>
+<li>Utilizzare sul compasso un livello di acqua dell’ordine di 5 mm sopra il
+La superficie della foglia di carta è di circa un milione di metri.
+L’elettromagnetico è nello stesso piano.</li>
+<li>Neppure l’ago neppure il pesce (papillone) devono toccare il bordo del cubo.</li>
+<li>Per determinare la direzione della ago, usa la regola come guida e
+traccia la retta che contiene l’ago sulla base.</li>
+<li>Misura le distanze dalla testa del clavo al centro del pin e
+Lasciateli appoggiati sul foglio di base.</li>
+<li>Tieni la pila lontana dalla compassa per tutto l’esperimento.</li>
+<li>Usa cavi di connessione all’elettromagnetico abbastanza lunghi.</li>
+<li>Smettila di attaccare la pila dopo ogni misurazione.</li>
+<li>Lavoro su un tavolo che non ha parti ferromagnetiche, o con il
+l’elettromagnetico e la compassa abbastanza lontani da tali parti.</li>
+<li>Dopo ogni misura, controlla che il punto della compassa sia
+situato nella posizione originale (con il centro all’origine di
+coordinate).</li>
+</ul>
+<p>Lettera di carta</p>
+<ul>
+<li>Un elettromanico.
+E            O
+N</li>
+</ul>
+<p>S
+x
+
+h
+h*</p>
+<p>OAF 2012 - 44</p>
+<p>I servizi locali
+Problemi teorici</p>
+<p>OAF 2012 - 45</p>
+<p><strong>Topic:</strong> <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>, <a href="../topics/fluid-mechanics" class="internal internal-link alias" data-slug="topics/fluid-mechanics">Fluid Mechanics</a>
+<strong>Metodi:</strong> <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>, <a href="../methods/differential-equations-(metodo)" class="internal internal-link alias" data-slug="methods/differential-equations-(metodo)">Differential Equations</a>, <a href="../methods/kinematic-equations-(metodo)" class="internal internal-link alias" data-slug="methods/kinematic-equations-(metodo)">Kinematic Equations</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../objects/projectile-(object)" class="internal internal-link alias" data-slug="objects/projectile-(object)">Projectile</a>, <a href="../objects/cylinder-(object)" class="internal internal-link alias" data-slug="objects/cylinder-(object)">Cylinder</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/10NCgDucHDFMuORRKgMMrjBz90wa2XJ2X/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>The jump that was a record.</p>
+<p>Problem three .</p>
+<p>The jump that was a record.
+A few days ago, the Austrian Felix
+Baumgartner set itself the goal of achieving the
+speed
+of the
+sound,
+without
+No one .
+Mechanical assistance, i.e. without the use
+of any craft or mechanical device
+I’m not sure what’s going on. For that .
+A capsule hanging from a balloon .
+Air conditioning
+de
+Helium,
+Especially .
+Designed, it was placed at a great height by
+above the earth, from where it is
+He threw it (image).</p>
+<p>For the design of this feat Mr. Baumgartner was advised.
+I’ve been asked by several specialists, including a person who knows physics, like you.
+In this problem we propose to investigate some aspects which have been
+to be taken into account for the successful completion of this adventure.
+Throughout this whole problem we’ll assume that gravitational acceleration
+is independent of height, and its value is 9.8 m/s2. We shall also assume that
+The speed of sound is constant throughout the atmosphere and equal to 340m/s.</p>
+<p>(a) Assuming the fall was free, how long would it take you to
+Felix reach the speed of sound?</p>
+<p>(b) What distance would he travel in that time span?
+However, on an object falling into the Earth’s atmosphere three things act.
+forces:
+i)
+The force of gravity, Fg.
+ii)
+The force of floating, Faith.
+(iii)
+The drag force, Fd.
+The last two forces oppose resistance to the free fall of the body.
+The force of floatation is equal in magnitude to the weight of the fluid  in this case the
+Air from the atmosphere - displaced by the body (Archymedes Principle).
+On the other hand the drag force, which is in the same direction and is of
+It has a magnitude.</p>
+<p>where:
+
+Cd is a dynamic coefficient that depends on the body and the body.
+fluid conditions in which the body moves;
+
+ρa is the density of the atmosphere;
+
+v is the speed of the moving body;
+
+A is the area of the body transversal to the direction of motion.
+We’ll also denote ρ to the density of the body and m to its mass.</p>
+<p>(c) Express the magnitude of the F floating force in terms of the
+density of air and density and mass of body.</p>
+<p>The following points shall be added:
+(d) Write the equation of motion of a body falling into the
+atmosphere.
+If the density of the atmosphere is assumed to be constant, then by effect
+The Commission has already taken a number of measures to ensure that the
+By the time it begins its fall, the body achieves a final, known velocity.
+as speed limit.</p>
+<p>(e) Find an expression for the speed limit, under the assumption
+The density of the atmosphere is constant.
+In order to answer some of the questions raised by
+The adventurer Felix, we will make the following assumptions:</p>
+<p>i)
+Felix, wearing his suit space, is geometrically similar to
+a cylinder of a radius of r = 40 cm, and a height of l = 1,85 m, and its
+density is equal to that of water: ρ = 1 g/cm3.</p>
+<p>ii)
+The dynamic coefficient of Felix is Cd = 1.5.</p>
+<p>(iii)
+The density of the atmosphere is constant over time, with the
+values shown in the following table:</p>
+<p>Height range
+0-10 (km)
+10-20 (km)
+20-30 (km)
+30-40 (km)
+ρa (g/cm3)
+0.0012
+0.0006
+0.0003
+0.00002</p>
+<p>iv)
+The speed of sound is constant throughout the atmosphere and equal.
+a 340m/s.</p>
+<p>Given all these assumptions and data,</p>
+<p>(f) From which height ranges of the ones shown in the table, no
+Felix should throw himself if he wants to achieve his goal, which is to overcome.
+the speed of sound? Justify your answer.
+The atmospheric pressure decreases with height according to the expression.</p>
+<pre><code>      (1) 
+</code></pre>
+<p>where P0 = 760 mmHg = 760 Torr, is the atmospheric pressure at sea level and H
+It’s a constant called the height scale and it’s H=8.42km.</p>
+<p>The figure below shows the water vapour pressure as a function of the
+The temperature. Remember that the pressure of steam is the pressure at which they coexist.
+the liquid phase and the gaseous phase of a substance.</p>
+<p>The following is the list of the countries of the European Union:</p>
+<p>Water vapor pressure. 1 torr is equal to 1mmHg</p>
+<p>Suppose Felix’s blood is practically water and is found at
+36ºC.
+Based on the information provided and using the figure,
+Answer me .</p>
+<p>(g) What effect would Felix’s blood have if he didn’t wear a suit?
+Properly pressurized at launch from the</p>
+<ul>
+<li>The capsule?</li>
+</ul>
+<p>The following points shall be added:
+Answering sheet</p>
+<p>a)</p>
+<p>b)</p>
+<p>c)</p>
+<p>d)</p>
+<p>e)</p>
+<p>f)</p>
+<p>The following is the list of the Member States’ financial statements:
+g)</p>
+<p>The following is the list of the Member States’ financial statements:</p>
+<p>The National Court
+Experimental test</p>
+<p>The following is the list of the Member States’ financial statements:
+The Commission has also adopted a proposal for a directive on the protection of workers’ rights.</p>
+<p>Determination of electrical permittivity of air
+The first is the introduction.
+A capacitor is a device that stores energy in an electric field.
+This device consists of two conductive surfaces (Plaques).
+The following table shows the number of units of the unit of measurement:</p>
+<p>Figure 1 is shown. Condenser .</p>
+<p>When a potential difference is applied between the terminals of a
+The capacitor, its conductive plates are charged with Q and -Q charges.
+the Commission. The magnitude of the charge Q is given by,</p>
+<pre><code>   (1) 
+</code></pre>
+<p>where C is a constant called capacity whose unit is the Faradio [F].
+Capacity depends on the geometric shape and dimensions of the
+The electrical conductivity of the plate separating medium ε.</p>
+<p>Among the ways of connecting capacitors are two widely used:</p>
+<p>-Serial connection</p>
+<p>Figure 2a. Serial connection</p>
+<p>C capacity of a system consisting of two capacity capacitors
+and connected in series (Figure 2a) is such that:</p>
+<pre><code>(2) 
+</code></pre>
+<ul>
+<li>Parallel connection</li>
+</ul>
+<p>Figure 2b. Parallel connection.</p>
+<p>The following points shall be added:
+C capacity of a system consisting of two capacity capacitors
+and connected in parallel (Figure 2b) is:</p>
+<p>(3)</p>
+<p>The cylindrical capacitor</p>
+<p>In this type of capacitor, metal plates are cylinders located in the
+Coaxial mode as shown in Figure 3.</p>
+<p>Figure 3 is shown below. The cylindrical capacitor.</p>
+<p>The capacity of an L-height cylindrical capacitor and internal radius and
+The external ( ), with an electrical permittivity medium ε (see Figure 3) is
+given by:</p>
+<pre><code>  (4) 
+</code></pre>
+<p>Objectives:</p>
+<ul>
+<li>
+<p>Determine the electrical permittivity of air using a condenser
+a cylinder of variable length.</p>
+</li>
+<li>
+<p>Determine the LB inductance value of a coil.</p>
+</li>
+</ul>
+<p>The following is the list of the Member States’ financial statements:
+Team:</p>
+<p>Figure 4 is shown. Experimental team.</p>
+<p>Part 1: Calibration of the Transducer Capacity-Frequency.</p>
+<p>The capacity-frequency transducer is a device by which you can
+Determine the capacity (C) of a capacitor by measuring the
+the frequency of the output voltage signal (V0).</p>
+<p>Figure 5 is shown. Connection scheme Transducer Capacity - Frequency</p>
+<p>The measuring device diagram is shown in Figure 5. The frequency
+(f) indicating the frequency meter connected at the output terminals (C-terminal terminals)
+D) is related to the capacitance (C) of the connected capacitor in the
+input boards (boards A-B) by the equation:</p>
+<p>(5)</p>
+<p>where and are constants that depend on the construction of the transducer.</p>
+<p>Available items:</p>
+<ul>
+<li>Capacity-frequency transducer.</li>
+</ul>
+<p>The following is the list of the Member States’ financial statements:</p>
+<ul>
+<li>
+<p>3 Condensers of known capacity with relative uncertainty of the
+10%.
+Color
+Capacity [pF]
+Green .
+56
+Orange .
+82
+White .
+120</p>
+</li>
+<li>
+<p>Connector .</p>
+</li>
+<li>
+<p>Frequency meter (multimeter)</p>
+</li>
+<li>
+<p>It’s a millimeter sheet.</p>
+</li>
+</ul>
+<p>Using the elements provided , determine the constants and .</p>
+<p>The procedure:</p>
+<p>1.1. Connect known-capacity devices to the transducer input
+(bornes A - B) and determine the frequency of the output voltage signal (bornes
+C-D), using the frequency meter. Turn the measured values in a table
+(Table 1) is the most important factor. For connecting capacitors to the input of the transducer,
+Use the connector provided.</p>
+<p>Notes:</p>
+<ul>
+<li>See Annex for connection of the frequency meter.</li>
+<li>The transducer has a pulser for switching on and a light indicating the
+It’s on.</li>
+<li>If the frequency meter is switched off, turn it on again using the
+the power button of the same.</li>
+</ul>
+<p>1.2. From the measured data, draw a graph 1/f vs C.</p>
+<p>1.3. From the graph, determine the values of the equation constants.
+(5).</p>
+<p>Part 2: Determination of electrical permittivity of air</p>
+<p>Available items:</p>
+<p>-Cylindrical capacitor of variable length.</p>
+<ul>
+<li>
+<p>Capacity-frequency transducer.</p>
+</li>
+<li>
+<p>Frequency meter.</p>
+</li>
+<li>
+<p>It’s a rule.</p>
+</li>
+<li>
+<p>It’s a millimeter of sheath.</p>
+</li>
+</ul>
+<p>The following is the list of the Member States’ financial statements:</p>
+<p>Figure 6 is shown. Connection scheme for the variable capacitor.</p>
+<p>Using the elements provided , determine the value of .</p>
+<p>The procedure:</p>
+<p>2.1. Determine the frequency of the output voltage signal of the transducer
+Capacity-Frequency (C-D bore) for different cylinder positions (x)
+The cylindrical capacitor is internal. Turn the measured values in a table
+The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.</p>
+<p>Notes:</p>
+<ul>
+<li>See Annex for connection of the frequency meter.</li>
+<li>The transducer has a pulser for switching on and a light indicating the
+It’s on.</li>
+<li>If the frequency meter is switched off, turn it on again using the
+the power button of the same.</li>
+</ul>
+<p>2.2. Determine the capacity values (C) for the values of
+frequency measured at the previous point.</p>
+<p>2.3. Draw a graph of x vs. C.</p>
+<p>2.4. Adjust the graphed values by a straight line and determine the slope
+(m) of the same.</p>
+<p>2.5. Measure the internal (a) and external (b) diameters of the capacitor plates
+cylindrical.</p>
+<p>2.6. From equation (4) and using the values of m, a and b, determine the
+electrical permittivity of the air .</p>
+<p>Help:</p>
+<p>Part 3: Determination of the inductance constant (LB) of a coil.</p>
+<p>A coil is an element capable of storing energy in a field.
+magnetic. When the coil is connected to an alternating voltage source, this is
+It’s opposed to the change in the current. This opposition is characterised by a</p>
+<p>The following is the list of the Member States’ financial statements:
+a parameter called inductance (LB) characterizing the coil. The unit
+The inductance is the Henrio (H).</p>
+<p>An RLC circuit (Figure 7) is formed by a resistor R, a capacitor of
+C capacity and an LB inductance coil connected in series and powered
+by an alternating voltage source V.</p>
+<p>Figure 7 is shown. RLC series circuit.</p>
+<p>When the frequency of the source corresponds to the resonance value (f0), the
+Current i circulating through the circuit has maximum width. The value of f0 is
+given by,</p>
+<p>(6)</p>
+<p>Available items:</p>
+<p>-Variable frequency voltage source (Variable length capacitor +
+The power-frequency transducer.</p>
+<ul>
+<li>
+<p>Resistance to the fire.</p>
+</li>
+<li>
+<p>Condenser.</p>
+</li>
+<li>
+<p>Unknown inductance coil.</p>
+</li>
+</ul>
+<p>-Amperimeter (Multimeter)</p>
+<p>Using the elements provided, determine the LB inductance value of the
+The coil.</p>
+<p>The procedure:</p>
+<p>3.1. Connecting the cylindrical capacitor (variable capacity) to the A-boards
+Capacity-frequency, C-D terminals of the transducer
+They work like the output of an alternating current voltage source.
+Implement this variable frequency voltage source and connect it to the circuit
+RLC provided.</p>
+<p>The following points shall be added:
+3.2. Connect the ampere so you can measure the current flowing through it.
+the circuit. Remember that the amp is connected in series and that the current is
+What you want to measure is alternating.</p>
+<p>Notes:</p>
+<ul>
+<li>See Annex for connection of the ampere.</li>
+<li>The transducer has a pulser for switching on and a light indicating the
+It’s on.</li>
+<li>If the amp is turned off, turn it on again using the
+the power button of the same.</li>
+</ul>
+<p>3.3. Vary the frequency of the source from the voltage source (variing the voltage)
+The cylindrical capacitor capacity). From current values that
+They circulate in the circuit, corresponding to different frequency values,
+Make a table with the measurement results and determine the value
+de f0. Explain the criteria used in the determination.</p>
+<p>3.4. Determine the value of LB.</p>
+<p>The following is the list of the Member States’ financial statements:
+Annex: Use of the multimeter</p>
+<p>Multi-meter as Frequency.</p>
+<p>Multi-meter as Ampermeter in the alternator.</p>
+<p>The following points shall be added:
+Answering sheet
+Part one</p>
+<p>Table: Set aside the sheet.</p>
+<p>Graph: Sheet aside.</p>
+<p>Part two.</p>
+<p>Table: Set aside the sheet.</p>
+<p>Graph: Sheet aside</p>
+<p>Part three.</p>
+<p>Table: Set aside the sheet.</p>
+<p>The following is the list of the Member States’ financial statements:</p>
+<p>First Preparatory Test
+Film and Mechanics</p>
+<p>The following points shall be added:
+Theoretical problem 1</p>
+<p>The motion functions of two cars A and B are respectively:</p>
+<p>1
+(
+/ )
+2.5
+2
+(2
+/ )
+4
+A
+B
+x
+m s t
+m
+x
+m s t
+m
+
+
+
+</p>
+<p>(a) Determine the distance between the two mobiles at t = 2 s;
+t = 3.2 min and t = 0.7 hs.</p>
+<p>(b) Determine the position of mobile B, when mobile A is in
+x = 4.5 m.</p>
+<p>c)
+For what value of t and at what point of x is the encounter of the</p>
+<ul>
+<li>What?</li>
+</ul>
+<p>Resolve subparagraphs (b) and (c) graphically and analytically.</p>
+<p>Theoretical problem 2</p>
+<p>Figure 1 shows the motion function, ()
+x t , of a mobile phone, which is
+Finds at x = 0 m for t = -1.3 s.
+Figure 1</p>
+<p>(a) Determine the total length of the route in the following steps:
+The following time intervals are given: [ -1.3; 3 ] s; [ 3; 10 ] s; [ 10 ; 14 ] s; [-1.3; 14 ] s</p>
+<p>(b) Determine the mean velocity v at the same time intervals
+of the previous paragraph.</p>
+<p>The following points shall be added:</p>
+<p>c)
+Using the average speed obtained in the interval [-1.3; 14] s,
+determining the total length of the route the mobile would travel on the
+same time interval, assuming the position is a function
+linear of time. Comparison of this value with the value obtained in (a) for the
+The following table shows the following: Explain the result obtained.</p>
+<p>(d) Calculate the mean speed v in the time intervals [0.6; 6] s;
+[2; 4] s; [2.5; 3.5] s.</p>
+<p>(e) Graphically determine the instantaneous speed of the mobile phone in the
+The following instances: t = 0 s; t = 9 s; t = 14 s.</p>
+<p>f)
+For what values of t is the mobile at x = 50 m?</p>
+<p>(g) For what values of t the mobile:
+i- is it moving in the direction of x positive?
+ii- is it moving in the direction of x negative?
+iii- has zero speed?</p>
+<p>Theoretical problem 3</p>
+<p>An M-mass body, which is initially resting at a height of H,
+decreases by the curved surface shown in Figure 2. All of them .
+The movements are made in the vertical plane. Consider the trail free of
+grinding, except in the marked area of length d. Suppose mass M is
+I’m on time.</p>
+<p>(g) Draw the isolated body diagram by passing through points A and B.</p>
+<p>(h) At those points the total acceleration vector is equal to or different from
+What is it?</p>
+<p>i)
+Draw a possible total acceleration vector when it passes through A.</p>
+<p>j)
+Calculate the total acceleration vector at point B.</p>
+<p>k)
+Suppose the mass M reached the point C. How much is the work worth?
+made by the force of friction on the mass M?</p>
+<p>l)
+Calculate the velocity vector at point C.</p>
+<p>(m) How much does mass M compress at the spring?</p>
+<p>(n) How far does mass M reach after leaving the spring?</p>
+<p>The data:
+M = 1 kg
+H = 5 m
+c = 0,1 (dynamic friction coefficient)
+d = 30 m
+The following shall be added to the list of the following:
+k = 784 N/m. (spring elastic constant)</p>
+<p>The following is the list of the Member States’ financial statements:</p>
+<p>Figure 2</p>
+<p>Experimental problem .</p>
+<p>For each task, prepare a brief report containing the following points:
+(a) Objective
+(b) Description of the measurement method (scheme).
+(c) Measured values (tables, charts, etc.).
+(d) Result</p>
+<p>The Commission shall adopt the following:</p>
+<ul>
+<li>Determine the static friction coefficient between a rule and a
+It’s rubber.</li>
+</ul>
+<p>The Commission shall adopt the following:</p>
+<ul>
+<li>Determine the density of a sheet of paper (use sheets of paper from
+known mass per square metre, e.g. 70 gr/m2).</li>
+</ul>
+<p>The following is the list of the countries of the European Union:</p>
+<p>Second Preparatory Test
+The thermodynamics</p>
+<p>The following points shall be added:
+Theoretical problem 1</p>
+<p>One of the first estimates of Avogadro’s number was made by
+Lord Rayleigh in 1890. He observed that very small amounts of some
+Oil is spread over very large areas when deposited over the
+surface of a water tank. Under resting conditions the stain of
+oil” is approximately circular, so that the covered surface can
+It is calculated by measuring its diameter. In particular, it is observed that a milligram of
+oleic acid (oil), density of 0.9 g/cm3, covers an area
+approximately 0.9 m2.</p>
+<p>(a) What is the thickness of the oil layer?</p>
+<p>(b) Assuming that the thickness of the oil layer corresponds to the
+molecular diameter, which molecules are spherical at the end of the
+estimate and that they’re in contact with each other in the oil film,
+What is the estimated volume for a molecule?</p>
+<p>(c) Estimate the Avogadro constant (number of molecules per mol of
+The results of the experiment were based on the data from the experiment, considering that a
+mol oleic acid has a mass of 282,5 g/mol.</p>
+<p>Theoretical problem 2</p>
+<p>Historically, the temperature T has been defined empirically from
+a thermometric magnitude x that is experimentally accessible. The most important case .
+known in everyday life, for example, is when x represents the height of a
+Mercury column inside a capillary. What we know as a thermometer .
+of mercury. An empirical (experimental) definition of temperature is:</p>
+<p>(i) We start from two fixed points (x1 , x2), which are assigned
+arbitrarily determined values (T1 , T2) on the thermometric scale that are
+He’s defining himself. Then a linear relationship between the
+The thermometric magnitude measured and the temperature (T = A (x x1) + B), using the
+points (x1 , T1) and (x2 , T2). For clarity, we do in Figure 1 a
+Graphical representation for the case
+The temperature of the temperature scale is Celsius.
+and Fahrenheit.</p>
+<p>100
+212
+0
+32
+x
+x1
+x2
+T oF
+T oC
+cm</p>
+<p>The following points shall be added:
+(a) Determine the values of constants A and B when the definition (i) is
+It applies to the construction of any thermometric scale.</p>
+<p>(b) Using the following table, find the expressions that allow
+Convert the degrees Celsius to each of the other scales:</p>
+<p>oC
+oF
+or
+K
+The melting temperature of the
+I ‘m not a big fan .
+0
+32
+492
+273
+Temperature of
+Evaporation of water
+100
+212
+672
+373</p>
+<p>where oC represents the scale of degrees Celsius, or the scale of degrees Fahrenheit,
+Or Rankine’s degree, K’s degree Kelvin.</p>
+<p>Theoretical problem 3</p>
+<p>A container, which may be considered adiabatic (does not exchange heat with the
+The water content is 1 kg at room temperature. Un
+Mercury thermometer, which is submerged in water, indicates that the
+The system temperature is 27°C. In the container, water is poured in the state of
+boiling (100°C) and, when the water temperature stabilizes, the thermometer
+indicates that the system temperature is 50°C. Heat transfer to the
+container may be considered despicable.</p>
+<p>(a) What is the boiling water mass added to the
+container? Please note that the specific heat of the water is
+water = 1 cal/(oC g), and the equivalent water mass for the thermometer
+of mercury is meq=10 g.</p>
+<p>(b) Three ice cubes, 20 g of
+Each mass and at a temperature of -20oC, and are added to the
+container. Calculate the temperature to be indicated by the thermometer when the temperature is
+The system reaches balance.</p>
+<p>Data: Latent heat of ice melting ice = 80 cal/g, specific heat of ice:
+The following table shows the results of the calculations:</p>
+<p>Experimental problem: building a gas thermometer</p>
+<p>The objective is to build a gas thermometer using easily accessible elements.</p>
+<p>Brief description
+A gas thermometer uses a gas as a thermometric substance. The beginning
+The functioning of the gas is determined by the fact that if a certain amount of gas is contained
+In a V1 volume enclosure, at a pressure of P1 and a temperature of T1, it is placed
+In contact with a body at a temperature of T2, at which it reaches the
+thermal equilibrium, changes in pressure and volume (P2 and V2). See
+It’s a figure.</p>
+<p>The following is the list of the countries of the European Union:
+Assuming it is an ideal gas, the change in pressure, volume and
+temperature will meet the ideal gas state equation:
+, where P is the gas pressure, n the number of gas moles, V the
+volume and T temperature at which it is located.</p>
+<p>Thus, for a constant number of ideal gas moles, the ratio is satisfied.
+between the thermodynamic variables corresponding to state (1) and
+State of the Union:</p>
+<p>For the figure, it shall be complied with that:</p>
+<p>Where Patm is the atmospheric pressure (1,013 105 Pa),  is the density of water
+The acceleration of gravity is a function of the velocity of the object.
+transverse tube, h1 and h2 with water levels in each state.</p>
+<p>With the above considerations, you can come to the following
+Approximation:</p>
+<p>Consigna 1
+To construct a device similar to that shown in the figure.
+It is important to ensure that the system has no losses (using wax,
+The amount of gas contained in the gas must not change.
+The enclosure.</p>
+<p>Elements that may be useful:
+ A container with a lid (sterile frosting for analysis)
+ A sorbet or a fine tubing
+ Plastiline (small package)
+• Wax candle and matches… under the supervision of the teacher only!
+ Water
+ Water heater… only under the supervision of the teacher!
+ Water with ice
+ Auline thermometer
+ Rule
+ Paper adhesive tape (fine)
+ Lapicera (may be of indelible ink)</p>
+<p>Consigna 2
+Calibration of the device to function as a thermometer between
+0°C y 40°C. This calibration can be performed with a fixed point or with two
+known temperature values.</p>
+<p>The following points shall be added:
+Consigna 3
+Determine the ambient temperature with the built-in thermometer and compare it
+with the value indicated by the aulic thermometer.</p>
+<p>It’s an experimental problem.</p>
+<p>h2-h1
+Patm
+V2
+P1
+P2
+T1
+T2
+V1
+h1
+h2
+State 1
+State 2</p>
+<p>The following is the list of the Member States’ financial statements:</p>
+<p>Third Preparatory Test
+Electricity and Magnetism</p>
+<p>The following is the list of the Member States’ financial statements:
+Theoretical problem 1</p>
+<p>Figure 1 shows a circuit whose elements have the following values:
+1 = 2.1 V, 2 = 6.3 V, R1 =1.7 Ω, R2 = 3.5 Ω.</p>
+<p>Find the currents on the three branches of the circuit.</p>
+<p>Figure 1</p>
+<p>The arrows in the sources indicate the direction in which the potential increases
+electrical.</p>
+<p>Theoretical problem 2</p>
+<p>A long, rigidly supported horizontal wire conducts a current of
+96 A. Right above it and parallel to it is a thin weight wire .
+per metre 0,73 N/m and which leads a current ib of 23 A.</p>
+<p>(a) In what direction should currents flow to give rise to repulsion?
+magnetic between the wires?</p>
+<p>(b) How high above the lower wire should the second be extended?
+Wire if we hope to withstand it by magnetic repulsion?</p>
+<p>Theoretical problem 3</p>
+<p>In Bohr’s atomic model of the hydrogen atom, the electron spins around.
+The radius of the nucleus is 5.29 x 10-11 m and a
+The frequency is 6.63 x 1015 Hz (or revolutions/second).</p>
+<p>(a) What value of magnetic field B is generated at the center of the orbit?</p>
+<p>(b) What is the equivalent magnetic dipole moment?</p>
+<p>Experimental test
+Objectives:</p>
+<ul>
+<li>Build an electromagnet.</li>
+</ul>
+<p>The following is the list of the Member States’ financial statements:</p>
+<ul>
+<li>Build a compass.</li>
+<li>Check whether the induction field module behaves
+magnetic produced by a magnetic dipole on its axis,
+It’s a 1/x3 law.</li>
+</ul>
+<p>Brief description
+An electromagnet is a device by which a field of
+Magnetic induction B. A typical configuration consists of an iron nail
+(or some other ferromagnetic material) over which some has been coiled
+number of copper wire turns (see Figure 1).
+When the coil is connected to a voltage source, the electric current that
+It’s a magnetic induction field. Field B is
+It ‘s a magnetic field . It depends on the geometric configuration .
+used; in the case of the above described (key and coil) it is similar to that of a
+magnetic dipole.</p>
+<p>Figure 1</p>
+<p>The module of the magnetic induction field, B, produced by a dipole
+magnetic module Pm along the axis direction of the dipole and to a
+distance x, is given by:</p>
+<p>The direction of the magnetic induction field vector in this case is that of the
+x-axis.</p>
+<p>A compass is an instrument by which the direction can be determined.
+North-South (N-S) over the land surface; in general, it can be used for
+determine the direction, at a given point, of an induction field
+Any magnetic. It consists of a magnetic needle that can rotate.
+freely, so it is oriented in the direction of the induction field
+magnetic.</p>
+<p>Figure 2</p>
+<p>The electromagnet ‘s axis .</p>
+<p>The following is the list of the Member States’ financial statements:
+Consigna 1</p>
+<p>(a) To construct an electromagnet similar to that in Figure 1, with
+a coil of at least 30 turns of wire.</p>
+<p>(b) verify its operation! Describe the procedure used.</p>
+<p>Elements that may be useful:</p>
+<ul>
+<li>A nail about five centimeters long.</li>
+<li>Copper fine wire (wire of electrical wires, wire)
+coil enamel, etc.), approximately 1 m.</li>
+<li>It’s a paper tape.</li>
+<li>Cable conductors for electrical connections.</li>
+<li>1.5 V battery (if possible type A and new).</li>
+</ul>
+<p>Note: It is important that the wires that are coiled are not worn.
+They’re not cutting each other with a nail. For this, in case you don’t use wire
+The application of the method of application of the test chemical is not recommended.
+and make sure the wire rope is and remains separate from each other.</p>
+<p>Consigna 2</p>
+<p>(a) To construct a compass similar to that in Figure 2.</p>
+<p>(b) verify its operation! Describe the procedure used.</p>
+<p>Elements that may be useful:</p>
+<ul>
+<li>A shallow, non-metallic lid or container (e.g.
+sterile bottle cap for analysis).</li>
+<li>A magnetized pin.</li>
+<li>A piece of paper .</li>
+<li>It’s water.</li>
+</ul>
+<p>Notes:</p>
+<ul>
+<li>Magnetise the pin using the electromagnet. For this task you must support the
+Head of the pin above the head of the electromagnet’s nail/core (with this
+The last operating system.</li>
+<li>It is important that the needle can rotate freely; for this, use a small piece
+paper to settle it, it will float on a water surface. Ni la
+Neither needle nor the boat (papillot) should touch the edge of the bucket.</li>
+</ul>
+<p>Consigna 3</p>
+<p>Verify that the magnetic induction field module B along the axis of the
+The electromagnet varies with distance like that of a magnetic dipole, that is:</p>
+<p>Elements that may be useful:</p>
+<ul>
+<li>The compass built.</li>
+<li>The built-in electromagnet.</li>
+<li>It’s blank.</li>
+<li>It’s a millimeter piece of paper.</li>
+</ul>
+<p>The following is the list of the Member States’ financial statements:</p>
+<ul>
+<li>It’s a rule.</li>
+<li>A pencil.</li>
+</ul>
+<p>To verify the position of the electromagnet perpendicular to the field.
+The magnetic field is the magnetic field of the Earth and is on a plane parallel to the Earth’s surface. Of this one .
+Thus, the presence of the electromagnetic field vectorally added to the
+Earth will cause a deviation of the needle from the north-south direction.
+(N-S). The trigonometric tangent of the angle ( ) between the needle and the direction
+North-South is proportional to the magnetic induction field produced by the
+The electromagnetic field. Determine the tangent of α for different distances x between the
+electromagnet and the needle of the compass.</p>
+<p>Suggested procedure</p>
+<p>(a) Hold the brush over one end of a sheet of paper in such a way
+the short side is aligned with the N-S address. Sticky, with tape.
+adhesive, the sheet to the table and mark the outline of the sheet on the table.
+The cube of the compass.</p>
+<p>(b) Mark a straight line containing the needle and a perpendicular straight line
+It passes through the center of the needle and is parallel to the long side of the leaf.
+(E-O address). The intersection point is the origin of the system of
+coordinates to be used.</p>
+<p>Figure 3</p>
+<p>(c) Supports the electromagnet over the E-O line, at a distance x from the centre of the
+the needle and light it. Check that the needle is re-directed and mark the
+position of the electromagnet.</p>
+<p>(d) Draw a straight line containing the needle. For this he supports the rule
+on the bucket in the direction of the needle (do not make mistakes of
+Parallax), disconnect the electromagnet, mark the straight on the paper.</p>
+<p>(e) From the cathetes (h and h*) of the triangle determined by the straight
+The number of pages in the sheet is given by the number of pages in the sheet.
+tangent of the angle between the direction of the needle in the presence of the
+electromagnet and N-S address.</p>
+<p>Paper sheet
+Broujula .
+The electromagnetic field
+E            O
+N</p>
+<p>S
+X</p>
+<p>The following is the list of the Member States’ financial statements:
+Figure 4</p>
+<p>(f) Contain in a table the corresponding tg α and x values.</p>
+<p>Repeat the procedure in (c), (d), (e) and (f) for different positions (x) of the table
+The electromagnetic field.</p>
+<p>g) Draw a graph (1/x3 vs tg α). Check if the behavior is linear,
+In that case, adjust a straight line.</p>
+<p>Recommendations for the following:</p>
+<ul>
+<li>Use a water level of the order of 5 mm above the compass.
+The paper sheet level, to consider that the magnetic needle and the shaft
+The electromagnet is on the same plane.</li>
+<li>Neither the needle nor the bark (papillot) should touch the edge of the bucket.</li>
+<li>To determine the direction of the needle use the rule as a guide and
+Draw the straight line that holds the needle on the base paper.</li>
+<li>Measure the distances from the nail head to the centre of the pin and
+Leave them on the base paper.</li>
+<li>Keep the stack away from the compass for the entire experiment.</li>
+<li>Use electromagnetic connecting cables long enough.</li>
+<li>Disconnect the battery after each measurement.</li>
+<li>Work on a table that has no ferromagnetic parts, or with the
+The electromagnet and compass are sufficiently distant from these parts.</li>
+<li>After each measurement check that the compass needle is
+located in the original position (with the centre at the origin of
+coordinates).</li>
+</ul>
+<p>Paper sheet
+The electromagnetic field
+E            O
+N</p>
+<p>S
+x
+
+h
+h*</p>
+<p>The following points shall be added:</p>
+<p>Local authorities
+Theoretical problems</p>
+<p>The following is the list of the Member States’ financial statements:</p>
+<p><strong>Topic:</strong> <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>, <a href="../topics/fluid-mechanics" class="internal internal-link alias" data-slug="topics/fluid-mechanics">Fluid Mechanics</a>
+<strong>Metodi:</strong> <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>, <a href="../methods/differential-equations-(metodo)" class="internal internal-link alias" data-slug="methods/differential-equations-(metodo)">Differential Equations</a>, <a href="../methods/kinematic-equations-(metodo)" class="internal internal-link alias" data-slug="methods/kinematic-equations-(metodo)">Kinematic Equations</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../objects/projectile-(object)" class="internal internal-link alias" data-slug="objects/projectile-(object)">Projectile</a>, <a href="../objects/cylinder-(object)" class="internal internal-link alias" data-slug="objects/cylinder-(object)">Cylinder</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/10NCgDucHDFMuORRKgMMrjBz90wa2XJ2X/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/cylinder-(object)" class="internal">Cylinder</a></li><li><a href="../objects/projectile-(object)" class="internal">Projectile</a></li><li><a href="../prove/cuadernillo_2012" class="internal">Argent 2012</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

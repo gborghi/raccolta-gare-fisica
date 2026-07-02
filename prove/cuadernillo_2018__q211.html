@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr"><head><title>Argent 2018 Locale — Quesito 211</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="Argent 2018 Locale — Quesito 211"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Argent 2018 Locale — Quesito 211"/><meta name="twitter:description" content="PE32. Instituto Atlético Pilar. Pilar, Buenos Aires."/><meta property="og:description" content="PE32. Instituto Atlético Pilar. Pilar, Buenos Aires."/><meta property="og:image:alt" content="PE32. Instituto Atlético Pilar. Pilar, Buenos Aires."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2018__q211"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2018__q211"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="PE32. Instituto Atlético Pilar. Pilar, Buenos Aires."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/cuadernillo_2018__q211" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-9455" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-9455" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Argent 2018 Locale — Quesito 211</a></div></nav><h1 class="article-title">Argent 2018 Locale — Quesito 211</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/kg/prova" class="internal internal-link tag-link">kg/prova</a><span class="note-properties-separator">, </span><a href="../tags/paese/argentina" class="internal internal-link tag-link">paese/argentina</a><span class="note-properties-separator">, </span><a href="../tags/comp/argent" class="internal internal-link tag-link">comp/argent</a><span class="note-properties-separator">, </span><a href="../tags/cluster/meccanica" class="internal internal-link tag-link">cluster/meccanica</a><span class="note-properties-separator">, </span><a href="../tags/topic/newtonian-mechanics" class="internal internal-link tag-link">topic/newtonian-mechanics</a><span class="note-properties-separator">, </span><a href="../tags/argomento/meccanica" class="internal internal-link tag-link">argomento/meccanica</a><span class="note-properties-separator">, </span><a href="../tags/difficolta/2" class="internal internal-link tag-link">difficolta/2</a><span class="note-properties-separator">, </span><a href="../tags/multidisciplina/mono" class="internal internal-link tag-link">multidisciplina/mono</a><span class="note-properties-separator">, </span><a href="../tags/object/rod" class="internal internal-link tag-link">object/rod</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:28:02.106Z">02 lug 2026</time><span>15 minuti</span></p><ul class="tags"><li><a href="../tags/kg/prova" class="internal tag-link">kg/prova</a></li><li><a href="../tags/paese/argentina" class="internal tag-link">paese/argentina</a></li><li><a href="../tags/comp/argent" class="internal tag-link">comp/argent</a></li><li><a href="../tags/cluster/meccanica" class="internal tag-link">cluster/meccanica</a></li><li><a href="../tags/topic/newtonian-mechanics" class="internal tag-link">topic/newtonian-mechanics</a></li><li><a href="../tags/argomento/meccanica" class="internal tag-link">argomento/meccanica</a></li><li><a href="../tags/difficolta/2" class="internal tag-link">difficolta/2</a></li><li><a href="../tags/multidisciplina/mono" class="internal tag-link">multidisciplina/mono</a></li><li><a href="../tags/object/rod" class="internal tag-link">object/rod</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="es"></div>
+<p>PE32. Instituto Atlético Pilar.
+Pilar, Buenos Aires.</p>
+<p>“Reaccionando a tiempo”</p>
+<p>OBJETIVOS</p>
+<ul>
+<li>Calcular el tiempo de reacción ante un estímulo visual y analizar su efecto en
+otras de mediciones.</li>
+<li>Medir magnitudes. Determinar errores/incertidumbres. Interpretar y presentar
+resultados.</li>
+</ul>
+<p>Materiales</p>
+<ul>
+<li>Regla de 30 cm</li>
+<li>Cronómetro</li>
+<li>Celular con aplicación Timer Plus (Es para realizar ejercicio físico. Entre otras
+cosas, emite pulsos lumínicos a través de la cámara del teléfono, a intervalos
+programables)</li>
+</ul>
+<p>Introducción
+Un arquero de fútbol detecta los movimientos de un jugador del equipo contrario que
+patea un penal, sabe qué pretende hacer y reacciona de manera rápida y precisa. Ataja
+el disparo. Las personas presentes en un evento son víctimas de un incendio, pero no
+pasa a mayores gracias a alguien que apenas detecta el fuego corre por el extintor más
+cercano. Un conductor frena a tiempo y logra no chocar a un imprudente peatón que se le
+cruza de repente. Estos son ejemplos en los que cobra especial protagonismo el tiempo
+de reacción.
+La respuesta de una persona ante un estímulo es un proceso automático pero complejo.
+Un sensor lo percibe, se transmite al cerebro para generar respuesta. Luego, el cerebro</p>
+<p>174 - OAF 2018
+envía comandos de acción a las partes del cuerpo, que reaccionan. Todo esto produce
+un retraso desde que se da el estímulo hasta que se responde. Es a ello que se le da el
+nombre de tiempo de reacción.
+Cuando se miden intervalos de tiempos cortos, el tiempo de reacción puede ser una
+fuente de error, y debe considerarse al analizar los resultados. Si quien activa el
+cronómetro lo hace de la misma manera al inicio que al final del intervalo, el tiempo de
+retraso en apretar el cronómetro se “cancela”. Pero ¿qué sucede con la propagación de
+errores en este tipo de medida?
+El error en la medida del intervalo se calcula como:
+∆𝑇𝑖→𝑓= ∆𝑇𝑓+ ∆𝑇𝑖
+Y bajo ciertas suposiciones (discutir cuáles), los errores ∆𝑇𝑓 y ∆𝑇𝑖 son iguales al error en
+la determinación del tiempo de reacción ∆𝑇𝑟. Por lo tanto, resulta:
+∆𝑇𝑖→𝑓 ≈2. ∆𝑇𝑟
+Por lo cual, aunque la medida del intervalo no está afectada por el tiempo de reacción, el
+error de dicha medida sí lo está.</p>
+<p>Procedimiento
+La experiencia consiste inicialmente en determinar la distancia de caída libre de una regla
+si intentamos detenerla apenas se inicia la caída. Con ese dato puede calcularse el
+tiempo de reacción.
+Luego, se trata de determinar la duración del intervalo de tiempo que transcurre entre dos
+destellos sucesivos emitidos por la cámara del celular.
+La actividad debe realizarse necesariamente en parejas:</p>
+<ol>
+<li>Un estudiante sostiene verticalmente la regla, por su parte superior. El otro se
+prepara alineando su mano con un punto inferior de la regla, con los dedos
+abiertos (la regla queda libre)</li>
+<li>Sin avisar, el primero suelta la regla y el segundo intenta sujetarla apenas se
+inicia la caída</li>
+<li>Repetir este proceso 20 veces. (todas las veces tener la misma referencia en la
+regla. La mano debe permanecer horizontal.) construir una tabla como la
+siguiente para el registro de las mediciones y futuros cálculos:
+I
+Xi
+Xi- 𝑋
+(Xi − 𝑋)2
+1</li>
+</ol>
+<p>……..</p>
+<p>20</p>
+<p>𝑋̅ =</p>
+<p>σ=
+4. Repetir todo el procedimiento intercambiando las funciones de los estudiantes.
+5. Usando la tabla de valores de las mediciones (una por cada miembro), calcular:
+La distancia media de caída de la regla. Escribir su correspondiente error ΔX
+La desviación estándar correspondiente a dicha distancia.
+6. Calcular el tiempo de reacción. (ayuda: utilice la ecuación de posición para un
+MRUV. Valor para g aquí en Buenos Aires 9.797 m/s2)
+7. Registrar los tiempos de reacción de todos los participantes de esta prueba.
+Calcular el valor medio y el error correspondiente.
+8. Abrir la aplicación Timer Plus (instalación previamente solicitada)</p>
+<p>En la configuración</p>
+<ul>
+<li>Desactivar las opciones asistente de voz  y vibración.</li>
+<li>Mantener activadas las opciones de linterna y flash de pantalla</li>
+</ul>
+<p>En Tabata
+Configurar:</p>
+<ul>
+<li>Prepárate: 00min 03seg</li>
+<li>Entrenar: (Es el intervalo de tiempo que habrá entre los destellos. Es
+conveniente que sólo el estudiante que configura la aplicación sepa el valor del
+dato)</li>
+</ul>
+<p>OAF 2018 - 175</p>
+<ul>
+<li>Descansar: (Es de elección libre, pero debe ser el tiempo suficiente para que un
+alumno reinicie el cronómetro y el otro registe en la tabla)</li>
+<li>Rondas: 20 o más.</li>
+</ul>
+<ol start="9">
+<li>Un estudiante activa la aplicación que dará lugar a sucesivos destellos de luz a
+intervalos regulares y apoya el celular sobre la mesa. El otro estudiante medirá
+el tiempo que transcurre entre dos encendidos. Conviene que apriete los
+botones necesarios, pero sin mirar el cronómetro. Es muy importante no tratar de
+anticiparse o adivinar cuándo ocurrirá el encendido.</li>
+<li></li>
+</ol>
+<p>Repetir la experiencia 20 veces (si se eligió un tiempo de descanso
+adecuado, no es necesario reiniciar la aplicación, sino más bien usar las rondas
+programadas). Construir para el registro una tabla como la siguiente:
+𝑇𝑓→𝑖</p>
+<p>𝑇−𝑇̅
+(𝑇−𝑇̅)2
+1</p>
+<p>…</p>
+<p>20</p>
+<p>𝑇𝑓→𝑖
+̅̅̅̅̅̅̅̅̅</p>
+<p>σ=
+11.
+Repetir todo el procedimiento anterior intercambiando los roles.
+12.
+Con la tabla de valores (una por cada alumno),<br/>
+Calcular El tiempo medio entre los destellos y en el error en la media
+correspondiente, de este intervalo.
+13.
+Comparar el valor obtenido con el real (el otro estudiante revelará el tiempo
+exacto de programación)</p>
+<p>Conclusiones
+Pueden guiarse con preguntas como las siguientes:</p>
+<ul>
+<li>¿Qué factores pueden influir en el tiempo de reacción de una persona?</li>
+<li>¿Cuáles son las posibles fuentes de error en la determinación de la caída de la
+regla?</li>
+<li>¿cómo influye la apreciación del cronómetro comparado con el tiempo de
+reacción?</li>
+<li>¿Cómo podría medirse el tiempo de reacción ante un estímulo auditivo? Dicho
+tiempo ¿Sería menor o mayor que el visual? ¿Por qué?</li>
+</ul>
+<p><strong>Topic:</strong> <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>
+<strong>Metodi:</strong> <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>, <a href="../methods/error-propagation-(metodo)" class="internal internal-link alias" data-slug="methods/error-propagation-(metodo)">Error Propagation</a>, <a href="../methods/kinematic-equations-(metodo)" class="internal internal-link alias" data-slug="methods/kinematic-equations-(metodo)">Kinematic Equations</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../objects/rod-(object)" class="internal internal-link alias" data-slug="objects/rod-(object)">Rod</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view" class="external external-link">Testo (PDF) — p.5<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="it"></div>
+<p>PE32. Istituto Atletico Pilar.
+Pilar, Buenos Aires.</p>
+<p>Razzo in tempo</p>
+<p>Obiettivi</p>
+<ul>
+<li>Calcolare il tempo di reazione a un stimolato visivo e analizzare il suo effetto su
+altre misure.</li>
+<li>Misurare le dimensioni. Determinare errori/incertezza. Interpretare e presentare
+risultati.</li>
+</ul>
+<p>Materiali</p>
+<ul>
+<li>Regola di 30 cm</li>
+<li>Cronometro .</li>
+<li>Cellulare con app Timer Plus (È per fare esercizio fisico. Tra le altre
+E’ un’operazione di radio, che trasmette impulsi luminosi attraverso la telecamera del telefono, a intervalli.
+programmabili)</li>
+</ul>
+<p>Introduzione
+Un arciere di calcio rileva i movimenti di un giocatore della squadra opposta
+Se una persona calza un criminale, sa cosa vuole fare e reagisce in modo rapido e preciso. Taglio
+il colpo. Le persone presenti in un evento sono vittime di un incendio, ma non
+Si passa a grandi grazie a qualcuno che appena rileva il fuoco corre per lo stermitore più</p>
+<ul>
+<li>Non è che vicino. Un autista frena in tempo e riesce a non colpire un pedone imprudente che si sta prendendo</li>
+<li>Si incrocia all’improvviso. Questi sono esempi in cui il tempo prende una particolare importanza.
+di reazione.
+La risposta di una persona a uno stimolo è un processo automatico ma complesso.
+Un sensore lo percepisce, lo trasmette al cervello per generare una risposta. Poi il cervello.</li>
+</ul>
+<p>174 - OAF 2018
+Invia comandi di azione alle parti del corpo che reagiscono. Tutto questo produce
+un ritardo dal momento in cui viene dato lo stimolo fino a quando non viene risposto. È questo che si dà il nome.
+nome del tempo di reazione.
+Quando si misurano intervalli di tempo brevi, il tempo di reazione può essere un
+La fonte di errore è la fonte di errore, e deve essere considerata quando si analizzano i risultati. Se chi attiva il
+cronometro lo fa allo stesso modo all’inizio che alla fine dell’intervallo, il tempo di
+Il ritardo di premura del cronometro è cancellato. Ma che succede alla diffusione di
+errori in questo tipo di misurazione?
+L’errore di misurazione dell’intervallo è calcolato come:
+∆Ti→f= ∆Tf+ ∆Ti
+E sotto alcune ipotesi (discutere quali), gli errori ∆Tf e ∆Ti sono uguali all’errore in ∆Tf e ∆Ti sono uguali all’errore in ∆Tf e ∆Ti sono uguali all’errore in ∆Tf e ∆Ti sono uguali all’errore in ∆Tf e ∆Ti sono uguali all’errore in ∆Tf e ∆Ti sono uguali all’errore in ∆Tf e ∆Ti sono uguali all’errore in ∆Tf.
+la determinazione del tempo di reazione ∆Tr. Quindi, si ottiene:
+∆Ti→f ≈2. ∆𝑇𝑟
+La misura dell’intervallo non è quindi influenzata dal tempo di reazione,
+Il problema è che la misura non è stata adottata.</p>
+<p>Procedura
+L’esperienza consiste inizialmente nel determinare la distanza di caduta libera di una regola.
+Se cerchiamo di fermarla, la caduta comincia appena. Con questo dato si può calcolare il
+tempo di reazione.
+Poi si tratta di determinare la durata dell’intervallo di tempo tra due.
+scintillanti successivi emessi dalla fotocamera del cellulare.
+L’attività deve necessariamente essere svolta in coppie:</p>
+<ol>
+<li>Uno studente sostiene la regola verticalmente, per la sua parte superiore. L’altro si è
+Preparare allineando la mano con un punto inferiore della regola, con le dita
+aperti (la regola rimane libera)</li>
+<li>Senza avvertirlo, il primo lascia la regola e il secondo cerca di tenerla ferma appena si sente.
+Inizia il caduto</li>
+<li>Ripetere questo processo 20 volte. (sempre avere lo stesso riferimento nella
+regola. La mano deve rimanere orizzontale.) costruire una tavola come la
+per il registro delle misure e dei futuri calcoli:
+I
+Xi
+Xi- 𝑋
+(Xi − 𝑋)2
+1</li>
+</ol>
+<p>……..</p>
+<p>20</p>
+<p>𝑋̅ =</p>
+<p>σ=
+4. Ripetere l’intera procedura scambiando le funzioni degli studenti.
+5. Usando il tabella dei valori delle misurazioni (uno per ogni membro), calcolare:
+La distanza media di caduta della regola. Scrivere il proprio errore ΔX
+La deviazione standard corrispondente a tale distanza.
+6. Calcolare il tempo di reazione. (aiuto: utilizzare l’equazione di posizione per un
+MRUV. Valore per g qui a Buenos Aires 9.797 m/s2)
+7. Registrare i tempi di reazione di tutti i partecipanti a questa prova.
+Calcolare il valore medio e l’errore corrispondente.
+8. Aprire l’applicazione Timer Plus (installazione pre-domandata)</p>
+<p>In configurazione</p>
+<ul>
+<li>Disattivare le opzioni assistente vocale e vibrazione.</li>
+<li>Tenere attivate le opzioni di torcia e flash dello schermo</li>
+</ul>
+<p>In Tabata
+Configurazione:</p>
+<ul>
+<li>Preparati: 00min 03second</li>
+<li>Allenamento: (Questo è l’intervallo di tempo che ci sarà tra i fulmini. Es
+È opportuno che solo lo studente che configura l’applicazione sappia il valore di
+data)</li>
+</ul>
+<p>OAF 2018 - 175</p>
+<ul>
+<li>Riposare: (È di libera scelta, ma deve essere abbastanza tempo per un
+Allievo riavviare il cronometro e l’altro registrare sulla tabella)</li>
+<li>Ronde: 20 o più.</li>
+</ul>
+<ol start="9">
+<li>Uno studente attiva l’applicazione che darà luogo a successivi lampioni di luce a
+a intervalli regolari e appoggi il cellulare sul tavolo. L’altro studente misurerà
+il tempo che passa tra due accese. - Dovrebbe essere meglio se li stringe.
+i pulsanti necessari, ma senza guardare il cronometro. È molto importante non cercare di
+anticipare o indovinare quando si accenderà l’incendio.</li>
+<li></li>
+</ol>
+<p>Ripetere l’esperienza 20 volte (se è stato scelto un tempo di riposo)
+Se è appropriato, non è necessario riavviare l’applicazione, ma piuttosto usare i round</p>
+<ul>
+<li>il programma di lavoro. Costruire per il registro una tabella come segue:
+Tf→i</li>
+</ul>
+<p>𝑇−𝑇̅
+(𝑇−𝑇̅)2
+1</p>
+<p>…</p>
+<p>20</p>
+<p>Tf→i
+̅̅̅̅̅̅̅̅̅</p>
+<p>σ=
+11.
+Ripetere l’intera procedura precedente scambiando i ruoli.
+12.
+Con il tabellone di valori (uno per ogni allievo),
+Calcolare il tempo medio tra i flash e l’ errore in media
+di questo intervallo.
+13.
+Confrontare il valore ottenuto con quello reale (l’altro studente rivelerà il tempo</p>
+<ul>
+<li>precisione di programmazione)</li>
+</ul>
+<p>Conclusioni
+Potete chiedervi:</p>
+<ul>
+<li>Quali fattori influenzano il tempo di reazione di una persona?</li>
+<li>Quali sono le possibili fonti di errore nel determinare la caduta della</li>
+<li>La regola?</li>
+<li>come influisce l’apprezzamento del cronometro rispetto al tempo di
+Reazione?</li>
+<li>Come si può misurare il tempo di reazione ad un stimolato uditivo? - Si ’ , si ’ .
+Il tempo sarebbe più piccolo o più grande del visivo? - Perché?</li>
+</ul>
+<p><strong>Topic:</strong> <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>
+<strong>Metodi:</strong> <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>, <a href="../methods/error-propagation-(metodo)" class="internal internal-link alias" data-slug="methods/error-propagation-(metodo)">Error Propagation</a>, <a href="../methods/kinematic-equations-(metodo)" class="internal internal-link alias" data-slug="methods/kinematic-equations-(metodo)">Kinematic Equations</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../objects/rod-(object)" class="internal internal-link alias" data-slug="objects/rod-(object)">Rod</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view" class="external external-link">Testo (PDF) — p.5<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>PE32. The Pilar Athletic Institute.
+Pilar, Buenos Aires. What is it?</p>
+<p>Reacting in a timely manner</p>
+<p>Objectives</p>
+<ul>
+<li>Calculate the reaction time to a visual stimulus and analyze its effect on
+other measurements.</li>
+<li>Measure the magnitude. Determine errors/uncertainties. Interpret and present
+The results.</li>
+</ul>
+<p>Materials</p>
+<ul>
+<li>The 30 cm rule .</li>
+<li>The chronometer .</li>
+<li>Cell phone with Timer Plus app (It is for exercise. Among other things
+Things, it emits light pulses through the phone’s camera, at intervals.
+Programmable)</li>
+</ul>
+<p>The first is the introduction.
+A football archer detects the movements of a player on the opposing team .
+He kicks a criminal, knows what he’s up to and reacts quickly and accurately. - Shortening .
+the shot. People at an event are victims of a fire, but they’re not.
+It’s passed to the elderly thanks to someone who barely detects the fire running for the fire extinguisher.
+close. A driver brakes on time and manages not to hit an unwise pedestrian who gets into it.
+It’s just crossed out. These are examples where time takes on a special role.
+The Commission has already adopted a proposal.
+A person’s response to a stimulus is an automatic but complex process.
+A sensor senses it, transmits it to the brain to generate a response. Then the brain.</p>
+<p>The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+It sends action commands to the body parts, which react. All this produces
+a delay from the moment the stimulus is given until it is responded to. That ‘s what it ‘s called .
+name of reaction time.
+When measuring short time intervals, reaction time can be a
+The results of the analysis are not exhaustive. If whoever activates the
+The time timer does it the same way at the beginning as at the end of the interval, the time of
+delay in pressing the timer is cancelled. But what about the spread of
+errors in this type of measurement?
+The error in the measurement of the interval is calculated as:
+The following table shows the results of the evaluation:
+And under certain assumptions (discuss which ones), the errors ∆Tf and ∆Ti are equal to the error in ∆Tf.
+the determination of reaction time ∆Tr. The result is therefore:
+The following is the list of the following: ∆𝑇𝑟
+Thus, although the measure of the interval is not affected by the reaction time, the
+The error of that measure is indeed.</p>
+<p>The procedure
+The experiment initially involves determining the free fall distance of a rule.
+If we try to stop it, it’s just beginning to fall. With this data the
+reaction time.
+Then it is a question of determining the length of the time interval between two.
+successive flashes emitted by the cell phone’s camera.
+The activity must necessarily be carried out in couples:</p>
+<ol>
+<li>A student holds the rule vertically, on top. The other one is .
+Prepare by aligning your hand with a lower point of the rule, with your fingers.
+Open (the rule remains free)</li>
+<li>Without warning, the first one releases the rule and the second one tries to hold it as soon as it is.
+It starts the fall.</li>
+<li>Repeat this process 20 times. (all times have the same reference in the
+The rule. The hand must remain horizontal.) build a table like the
+for the recording of measurements and future calculations:
+I
+Xi
+Xi- 𝑋
+(Xi − 𝑋)2
+1</li>
+</ol>
+<p>……..</p>
+<p>20</p>
+<p>𝑋̅ =</p>
+<p>σ=
+4. Repeat the whole procedure by exchanging student functions.
+5. Using the measurement table (one for each member), calculate:
+The mean drop distance of the rule. Write your corresponding error ΔX
+The standard deviation corresponding to that distance.
+6. Calculate the reaction time. (Help: use the position equation for a
+MRUV. Value for g here in Buenos Aires 9.797 m/s2)
+7. Record the reaction times of all participants in this test.
+Calculate the mean value and the corresponding error.
+8. Open the Timer Plus app (previously requested installation)</p>
+<p>In the configuration</p>
+<ul>
+<li>Disable the voice and vibration assistant options.</li>
+<li>Keep the flashlight and screen flash options on.</li>
+</ul>
+<p>In Tabata
+Set up:</p>
+<ul>
+<li>Get ready: 00min 03second</li>
+<li>Training: (It’s the time interval between flashes. Es
+It is appropriate that only the student who is setting up the application knows the value of the
+(d)</li>
+</ul>
+<p>The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.</p>
+<ul>
+<li>Rest: (It’s a free choice, but it should be enough time for a
+Student restart the timer and the other registers on the table)</li>
+<li>Rounds: 20 or more.</li>
+</ul>
+<ol start="9">
+<li>A student activates the app which will result in successive flashes of light to
+regular intervals and hold the cell phone on the table. The other student will measure .
+The time between two fires. It ‘s best if you squeeze them .
+Button needed, but without looking at the chronometer. It ‘s very important not to try .
+to anticipate or to guess when the ignition will occur.</li>
+<li></li>
+</ol>
+<p>Repeat the experiment 20 times (if a break time is chosen)
+If you’re right, you don’t need to restart the app, you just need to use the rounds.
+(including the following) Build a table for the record as follows:
+The following information is provided:</p>
+<p>𝑇−𝑇̅
+(𝑇−𝑇̅)2
+1</p>
+<p>…</p>
+<p>20</p>
+<p>The following information shall be provided:
+̅̅̅̅̅̅̅̅̅</p>
+<p>σ=
+11.
+Repeat the entire previous procedure by exchanging roles.
+12.
+With the scoreboard (one for each student),
+Calculate the average time between flashes and error in the mean
+The corresponding, of this interval.
+13.
+Compare the value obtained with the real (the other student will reveal the time
+(e.g. the exact schedule)</p>
+<p>Conclusions
+You can ask yourself questions such as:</p>
+<ul>
+<li>What factors can influence a person’s reaction time?</li>
+<li>What are the possible sources of error in determining the fall of the
+The rule?</li>
+<li>how does the time-to-time estimate of the chronometer influence
+What’s the reaction?</li>
+<li>How could the reaction time to an auditory stimulus be measured? That said .
+Would it be smaller or larger than the visual? - Why? - I don’t know.</li>
+</ul>
+<p><strong>Topic:</strong> <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>
+<strong>Metodi:</strong> <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>, <a href="../methods/error-propagation-(metodo)" class="internal internal-link alias" data-slug="methods/error-propagation-(metodo)">Error Propagation</a>, <a href="../methods/kinematic-equations-(metodo)" class="internal internal-link alias" data-slug="methods/kinematic-equations-(metodo)">Kinematic Equations</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../objects/rod-(object)" class="internal internal-link alias" data-slug="objects/rod-(object)">Rod</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view" class="external external-link">Testo (PDF) — p.5<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/rod-(object)" class="internal">Rod</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

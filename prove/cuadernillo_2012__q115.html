@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr"><head><title>Argent 2012 Locale — Quesito 115</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="Argent 2012 Locale — Quesito 115"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Argent 2012 Locale — Quesito 115"/><meta name="twitter:description" content="PE4. Escuela Técnica ORT Nro. 2 Ciudad de Buenos Aires. Determinación de la constante elástica de un resorte y Ley de Hooke."/><meta property="og:description" content="PE4. Escuela Técnica ORT Nro. 2 Ciudad de Buenos Aires. Determinación de la constante elástica de un resorte y Ley de Hooke."/><meta property="og:image:alt" content="PE4. Escuela Técnica ORT Nro. 2 Ciudad de Buenos Aires. Determinación de la constante elástica de un resorte y Ley de Hooke."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2012__q115"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2012__q115"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="PE4. Escuela Técnica ORT Nro. 2 Ciudad de Buenos Aires. Determinación de la constante elástica de un resorte y Ley de Hooke."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/cuadernillo_2012__q115" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-8270" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-8270" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Argent 2012 Locale — Quesito 115</a></div></nav><h1 class="article-title">Argent 2012 Locale — Quesito 115</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/kg/prova" class="internal internal-link tag-link">kg/prova</a><span class="note-properties-separator">, </span><a href="../tags/paese/argentina" class="internal internal-link tag-link">paese/argentina</a><span class="note-properties-separator">, </span><a href="../tags/comp/argent" class="internal internal-link tag-link">comp/argent</a><span class="note-properties-separator">, </span><a href="../tags/cluster/meccanica" class="internal internal-link tag-link">cluster/meccanica</a><span class="note-properties-separator">, </span><a href="../tags/topic/elasticity-and-materials" class="internal internal-link tag-link">topic/elasticity-and-materials</a><span class="note-properties-separator">, </span><a href="../tags/argomento/meccanica" class="internal internal-link tag-link">argomento/meccanica</a><span class="note-properties-separator">, </span><a href="../tags/difficolta/3" class="internal internal-link tag-link">difficolta/3</a><span class="note-properties-separator">, </span><a href="../tags/multidisciplina/multi" class="internal internal-link tag-link">multidisciplina/multi</a><span class="note-properties-separator">, </span><a href="../tags/object/spring" class="internal internal-link tag-link">object/spring</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:27:59.302Z">02 lug 2026</time><span>13 minuti</span></p><ul class="tags"><li><a href="../tags/kg/prova" class="internal tag-link">kg/prova</a></li><li><a href="../tags/paese/argentina" class="internal tag-link">paese/argentina</a></li><li><a href="../tags/comp/argent" class="internal tag-link">comp/argent</a></li><li><a href="../tags/cluster/meccanica" class="internal tag-link">cluster/meccanica</a></li><li><a href="../tags/topic/elasticity-and-materials" class="internal tag-link">topic/elasticity-and-materials</a></li><li><a href="../tags/argomento/meccanica" class="internal tag-link">argomento/meccanica</a></li><li><a href="../tags/difficolta/3" class="internal tag-link">difficolta/3</a></li><li><a href="../tags/multidisciplina/multi" class="internal tag-link">multidisciplina/multi</a></li><li><a href="../tags/object/spring" class="internal tag-link">object/spring</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="es"></div>
+<p>PE4. Escuela Técnica ORT Nro. 2
+Ciudad de Buenos Aires.</p>
+<p>Determinación de la constante elástica de un resorte y Ley de Hooke.</p>
+<p>En el laboratorio poseemos una pesa de masa desconocida, pero sabemos que
+es mayor a 200 g. La balanza que poseen para medir el peso de dicho cuerpo
+tiene un límite de 200 g, por lo cual no es apropiada para realizar la medición.
+Un instrumento que puede resultar apropiado para realizar la medición podría ser
+un dinamómetro. Este instrumento se utiliza para pesar objetos o medir fuerzas,
+basando su funcionamiento en la elongación de un resorte interno.<br/>
+Sin embargo, en el laboratorio no contamos con ningún dinamómetro.<br/>
+Pensá como se podría medir la masa de dicho objeto utilizando el principio del
+dinamómetro, utilizando uno o más resortes, teniendo en cuenta que como se
+desconoce la constante elástica de dichos resortes, previamente será necesario
+hallarlas.</p>
+<p>Objetivos
+ Calcular experimentalmente la constante elástica K de un resorte por
+medio de dos métodos (método estático, método dinámico).
+ Describir los errores de la medición y explicar sus causas.
+ Hallar la masa de un cuerpo utilizando resortes. Determinar la masa de
+por medio de un resorte con una precisión aceptable, teniendo en
+cuenta que la masa supera el valor máximo admisible por la balanza
+digital.</p>
+<p>Materiales
+Resorte, cuerpos de distintas masas, regla graduada, calibre, pie metálico, aro
+metálico, cronómetro, balanza.</p>
+<p>Introducción
+El estiramiento de un resorte está determinado por la ley de Hooke, que
+establece que el desplazamiento que experimenta cualquier material elástico es
+proporcional a la fuerza aplicada.</p>
+<p>Donde F es la fuerza aplicada, k es la constante elástica y x es el estiramiento
+del resorte. La constante k depende del material del resorte, de su forma
+geométrica y su construcción. Si la fuerza que se aplica sobre el resorte supera
+un cierto límite, el mismo quedará deformado permanentemente y la ley de
+Hooke ya no se cumpliría.
+Cuando a un resorte se le cuelga una pesa, se estira; si luego se lo libera, el
+mismo realiza un movimiento oscilatorio que puede caracterizarse como
+movimiento armónico simple (MAS). Se trata de un movimiento con aceleración
+variable producto de las fuerzas que se originan cuando el resorte es separado
+de su posición de equilibrio. La aceleración que experimentará la masa será:</p>
+<p>OAF 2012 - 127</p>
+<p>Teniendo en cuenta que es un movimiento armónico, se puede relacionar el
+período de oscilación (el tiempo que tarda el resorte en realizar una oscilación
+completa), la velocidad angular, la constante elástica y el estiramiento mediante
+las siguientes relaciones:</p>
+<p>Procedimiento
+Método Estático</p>
+<ol>
+<li>
+<p>Colocar el resorte en posición vertical suspendido del soporte.
+Considerar la longitud inicial del resorte.</p>
+</li>
+<li>
+<p>Colgar del mismo una pesa de masa conocida.</p>
+</li>
+<li>
+<p>Medir el alargamiento que se produce al colocar la masa.</p>
+</li>
+<li>
+<p>Repetir los pasos anteriores con distintas masas</p>
+</li>
+<li>
+<p>Graficar la relación entre la fuerza que producen las distintas masas y el
+estiramiento (F vs. X).</p>
+</li>
+<li>
+<p>Realizar una tabla donde se incluya la masa, la fuerza que produce
+dicha masa, el estiramiento y los errores absolutos correspondientes a
+cada medición.</p>
+</li>
+<li>
+<p>Describir las fuentes de error cometidos e informarlos.</p>
+</li>
+<li>
+<p>A partir del gráfico, hallar la constante elástica K e informarla junto con
+su error, teniendo en cuenta que la pendiente de la recta hallada
+responde a K:</p>
+</li>
+<li>
+<p>Informar la constante elástica con su error correspondiente.</p>
+</li>
+</ol>
+<p>Método dinámico</p>
+<ol>
+<li>Colocar el resorte en posición vertical suspendido del soporte.
+Considerar la longitud inicial del resorte.</li>
+<li>Colgar del mismo una pesa de masa conocida y estirar el resorte.</li>
+<li>Soltar el resorte en su posición de estiramiento y tomar el tiempo que
+tarda en realizar 20 oscilaciones. Hallar el período de una oscilación.</li>
+<li>Repetir los pasos anteriores con distintas masas conocidas.</li>
+<li>Realizar una tabla donde se incluya la masa (m), la fuerza que produce
+dicha masa (F), el período (T), el período al cuadrado (T2).</li>
+<li>Graficar T2 vs. m. A partir de la relación entre período y masa, hallar la
+constante elástica del resorte a partir de la siguiente fórmula:</li>
+</ol>
+<p>OAF 2012 - 128</p>
+<p>La pendiente de la recta será:</p>
+<ol start="7">
+<li>Informar la constante elástica con su error correspondiente.</li>
+</ol>
+<p>Calculo de la masa de un cuerpo de masa desconocida:
+Calcular la masa de un cuerpo con su correspondiente error relativo y absoluto
+utilizando como herramientas: el resorte utilizado en los puntos anteriores,
+soporte metálico, cronómetro y regla graduada.
+Tener en cuenta que si al colgar la masa del resorte éste se estira demasiado y
+se deformará. Una vez deformado el resorte ya no será de utilidad. Por lo tanto,
+si este fuera el caso, puede utilizar dos resortes colocados en paralelo (uno al
+lado del otro) considerando que las constantes elásticas de cada uno, se suman
+para dar una constante elástica total mayor a la de cada resorte por separado.</p>
+<p>Procesamiento de datos:
+Presentar un informe detallado con los pasos realizados en cada inciso para
+hallar lo pedido, informando y analizando las fuentes de errores y presentando
+las conclusiones de su resultado. Concluya si alguno de los métodos es
+preferible para hallar la constante elástica y la masa del cuerpo y explique su
+fundamento.</p>
+<p><strong>Topic:</strong> <a href="../topics/elasticity--and--materials" class="internal internal-link alias" data-slug="topics/elasticity--and--materials">Elasticity &amp; Materials</a>, <a href="../topics/oscillations--and--waves" class="internal internal-link alias" data-slug="topics/oscillations--and--waves">Oscillations &amp; Waves</a>
+<strong>Metodi:</strong> <a href="../methods/hooke's-law-(metodo)" class="internal internal-link alias" data-slug="methods/hooke's-law-(metodo)">Hooke’s Law</a>, <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>, <a href="../methods/simple-harmonic-motion-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/simple-harmonic-motion-analysis-(metodo)">Simple Harmonic Motion Analysis</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>
+<strong>Objects:</strong> <a href="../objects/spring-(object)" class="internal internal-link alias" data-slug="objects/spring-(object)">Spring</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/10NCgDucHDFMuORRKgMMrjBz90wa2XJ2X/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="it"></div>
+<p>PE4. Scuola tecnica ORT Nro. 2
+Città di Buenos Aires.</p>
+<p>Determinazione della costante elastica di una primavera e legge di Hooke.</p>
+<p>In laboratorio abbiamo un peso di massa sconosciuto, ma sappiamo che
+è superiore a 200 g. La bilancia che possiedono per misurare il peso di tale corpo
+ha un limite di 200 g, quindi non è appropriato per la misurazione.
+Un strumento che può risultare appropriato per effettuare la misurazione potrebbe essere
+un dinamometro. Questo strumento è usato per pesare oggetti o misurare forze,
+basandosi sullo allungamento di una sorgente interna.
+Tuttavia, nel laboratorio non abbiamo alcun dinamometro.
+Pensate a come si potrebbe misurare la massa di tale oggetto usando il principio di</p>
+<ul>
+<li>il dinamometro, utilizzando una o più sorgenti, tenendo conto che come si
+Non conosce la costante elastica di tali sorgenti, sarà necessario previamente
+trovarli.</li>
+</ul>
+<p>Obiettivi
+ Calcolare sperimentalmente la costante elastica K di una resorte per
+mezzo di due metodi (metodo statico, metodo dinamico).
+ Descrivere gli errori di misurazione e spiegare le loro cause.
+• Trovare la massa di un corpo utilizzando le sorgenti. Determinare la massa di
+mediante un’accelerazione accettabile,
+conta che la massa supera il valore massimo ammissibile per il bilanciamento
+digitale.</p>
+<p>Materiali
+Resorte, corpo di diverse masse, regola graduata, calibro, piede metallico, aro
+metallo, cronometro, bilancia.</p>
+<p>Introduzione
+L’estensione di una primavera è determinata dalla legge di Hooke, che
+stabilisce che il spostamento che ogni materiale elastico prova è
+proporzionale alla forza applicata.</p>
+<p>Dove F è la forza applicata, k è la costante elastica e x è lo stretching
+della primavera. La costante k dipende dal materiale della sorgente, dalla sua forma.
+la geometria e la sua costruzione. Se la forza applicata sulla primavera supera
+Un certo limite, il limite sarà distorto in modo permanente e la legge di
+Hooke non si sarebbe più rivelato.
+Quando un pesce viene appeso alla primavera, si allunga; se poi lo si libera, il pesce si allunga.
+La stessa si svolge un movimento oscillatorio che può essere caratterizzato come
+movimento armonico semplice (MAS). Si tratta di un movimento accelerato.
+variabile prodotto dalle forze che si originano quando la risorsa è separata
+della sua posizione di equilibrio. L’accelerazione che la massa sperimenterà sarà:</p>
+<p>OAF 2012 - 127</p>
+<p>Considerando che è un movimento armonico, si può correlare il
+periodo di oscillazione (il tempo necessario per effettuare un oscillazione durante la primavera
+La velocità angolare, la costante elastica e lo stretching
+le seguenti relazioni:</p>
+<p>Procedura
+Metodo statico</p>
+<ol>
+<li>
+<p>Posizionare la molla in posizione verticale sospesa dal supporto.
+Considerare la lunghezza iniziale della primavera.</p>
+</li>
+<li>
+<p>Appendere di esso un peso di massa nota.</p>
+</li>
+<li>
+<p>Misurare l’allungamento che si verifica quando si colloca la massa.</p>
+</li>
+<li>
+<p>Ripetere i passaggi precedenti con diverse masse</p>
+</li>
+<li>
+<p>Graficare il rapporto tra la forza prodotta dalle diverse masse e il
+Tensione (F vs. X).</p>
+</li>
+<li>
+<p>Fare una tabella che includa la massa, la forza che produce
+la massa, lo stretto e gli errori assoluti corrispondenti a
+ogni misurazione.</p>
+</li>
+<li>
+<p>Descrivere le fonti di errore commesse e informarle.</p>
+</li>
+<li>
+<p>Sulla grafica, trovare la costante elastica K e informarla insieme con
+il suo errore, considerando che la pendenza della retta trovata
+K:</p>
+</li>
+<li>
+<p>Informare la costante elastica con il suo errore corrispondente.</p>
+</li>
+</ol>
+<p>Metodo dinamico</p>
+<ol>
+<li>Posizionare la molla in posizione verticale sospesa dal supporto.
+Considerare la lunghezza iniziale della primavera.</li>
+<li>Appendere di esso un peso di massa nota e allungare la molla.</li>
+<li>Lasciare la molla nella sua posizione di estensione e prendere il tempo che
+Ci vuole 20 oscillazioni. Trovare il periodo di una oscillazione.</li>
+<li>Ripetere i passaggi precedenti con diverse masse note.</li>
+<li>Realizzare una tabella che include la massa (m), la forza che produce
+la massa (F), il periodo (T), il periodo a quadrato (T2).</li>
+<li>Grafica T2 vs. m. Dal rapporto periodo-massa, trovare la
+la costante elastica della sorgente a partire dalla formula seguente:</li>
+</ol>
+<p>OAF 2012 - 128</p>
+<p>La pendenza della retta sarà:</p>
+<ol start="7">
+<li>Informare la costante elastica con il suo errore corrispondente.</li>
+</ol>
+<p>Calcolo della massa di un corpo di massa sconosciuta:
+Calcolare la massa di un corpo con il relativo e assoluto errore corrispondente
+utilizzando come strumenti: il resorso utilizzato nei punti precedenti,
+supporto metallico, cronometro e regola graduata.
+Si deve tenere presente che se appendendo la massa della primavera si estende troppo e
+si distorsione. Una volta distorta la primavera non sarà più utile. Quindi,
+Se questo fosse il caso, si possono utilizzare due sorgenti posizionate in parallelo (una al
+considerando che le costanti elastiche di ciascuna di esse, si sommano
+per dare una costante elastica totale maggiore di quella di ogni primavera separatamente.</p>
+<p>Trattamento dei dati:
+Presentare un rapporto dettagliato dei passi compiuti in ciascun punto per
+trovare l’ordine, informare e analizzare le fonti di errori e presentare
+le conclusioni del loro risultato. Concludi se uno dei metodi è
+preferibilmente per trovare la costante elastica e la massa del corpo e spiegare il suo
+fondamento.</p>
+<p><strong>Topic:</strong> <a href="../topics/elasticity--and--materials" class="internal internal-link alias" data-slug="topics/elasticity--and--materials">Elasticity &amp; Materials</a>, <a href="../topics/oscillations--and--waves" class="internal internal-link alias" data-slug="topics/oscillations--and--waves">Oscillations &amp; Waves</a>
+<strong>Metodi:</strong> <a href="../methods/hooke's-law-(metodo)" class="internal internal-link alias" data-slug="methods/hooke's-law-(metodo)">Hooke’s Law</a>, <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>, <a href="../methods/simple-harmonic-motion-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/simple-harmonic-motion-analysis-(metodo)">Simple Harmonic Motion Analysis</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>
+<strong>Objects:</strong> <a href="../objects/spring-(object)" class="internal internal-link alias" data-slug="objects/spring-(object)">Spring</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/10NCgDucHDFMuORRKgMMrjBz90wa2XJ2X/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>PE4. The technical school ORT Nro. 2
+City of Buenos Aires.</p>
+<p>Determination of the elastic constant of a spring and Hooke’s Law.</p>
+<p>In the lab we have an unknown mass weighing, but we know that
+is greater than 200 g. The scale they have to measure the weight of that body
+It has a limit of 200 g, so it is not suitable for measurement.
+An instrument which may be appropriate for measurement could be
+A dynamometer. This instrument is used to weigh objects or measure forces,
+Based on the elongation of an internal spring.
+However, in the lab we don’t have any dynamometers.
+Think of how you could measure the mass of that object using the principle of
+The dynamometer, using one or more springs, taking into account how
+The first is that the water supply is not always elastic.
+I’m going to find them.</p>
+<p>Objectives
+ Experimentally calculate the elastic constant K of a spring by
+The method of calculation is based on the method of calculation of the total value of the input.
+• Describe measurement errors and explain their causes.
+• Find the mass of a body using springs. Determine the mass of
+by means of a spring with acceptable accuracy, having in
+The mass exceeds the maximum value allowed by the balance sheet
+digital.</p>
+<p>Materials
+Resort, bodies of different masses, graduated rule, caliber, metal foot, ring
+metal, timekeeper, scale.</p>
+<p>The first is the introduction.
+The stretch of a spring is determined by Hooke’s law, which
+It states that the displacement experienced by any elastic material is
+proportional to the force applied.</p>
+<p>Where F is the applied force, k is the elastic constant and x is the stretch
+of the spring. The constant k depends on the material of the spring, its shape
+geometry and its construction. If the force applied on the spring exceeds
+A certain limit, it will be permanently distorted and the law of
+Hooke would never be fulfilled.
+When a spring is hanged by a weighing instrument, it stretches; if then it is released, the weighing instrument
+It also performs an oscillatory motion that can be characterized as
+The following is a list of the parameters used in the calculation of the harmonic mean: It ‘s an accelerated movement .
+variable product of forces that originate when the spring is separated
+of its equilibrium position. The acceleration the mass will experience will be:</p>
+<p>The following points shall be added:</p>
+<p>Given that it is a harmonic movement, you can relate the
+oscillation period (the time it takes the spring to oscillate)
+The total of the total of the test is approximately 0,05 kg.
+the following relationships:</p>
+<p>The procedure
+Static method</p>
+<ol>
+<li>
+<p>Place the spring in a vertical position suspended from the support.
+Consider the initial length of the spring.</p>
+</li>
+<li>
+<p>Hanging a known mass from it.</p>
+</li>
+<li>
+<p>Measure the elongation that occurs when placing the mass.</p>
+</li>
+<li>
+<p>Repeat the previous steps with different masses</p>
+</li>
+<li>
+<p>Graph the relationship between the force produced by the different masses and the
+The following table shows the results of the calculations: X).</p>
+</li>
+<li>
+<p>Make a table that includes mass, the force it produces
+The total mass, stretch and absolute errors corresponding to
+every measurement.</p>
+</li>
+<li>
+<p>Describe the sources of error committed and report them.</p>
+</li>
+<li>
+<p>From the graph, find the elastic constant K and report it along with
+his error, considering that the slope of the straight found
+He answers K:</p>
+</li>
+<li>
+<p>Report the elastic constant with its corresponding error.</p>
+</li>
+</ol>
+<p>Dynamic method</p>
+<ol>
+<li>Place the spring in a vertical position suspended from the support.
+Consider the initial length of the spring.</li>
+<li>Hang a known mass from it and stretch the spring.</li>
+<li>Release the spring into its stretching position and take the time that
+It takes 20 oscillations. Find the period of a oscillation.</li>
+<li>Repeat the previous steps with different known masses.</li>
+<li>Make a table where the mass (m), the force it produces is included
+the mass (F), the period (T), the period squared (T2).</li>
+<li>Graph T2 vs. m. From the period-mass relationship, find the
+spring elastic constant from the following formula:</li>
+</ol>
+<p>The following is the list of the Member States’ financial statements:</p>
+<p>The slope of the straight line shall be:</p>
+<ol start="7">
+<li>Report the elastic constant with its corresponding error.</li>
+</ol>
+<p>Calculation of the mass of an unknown mass body:
+Calculate the mass of a body with its corresponding relative and absolute error
+using as tools: the spring used in the above points,
+metallic support, timekeeper and graduated rule.
+Note that if the spring mass is too stretched by hanging it and
+It’ll be distorted. Once the spring is warped, it will no longer be useful. Therefore,
+If this is the case, you can use two springs placed in parallel (one at the
+(i) the elastic constants of each are added together.
+to give a total constant elasticity greater than that of each spring separately.</p>
+<p>Data processing:
+Provide a detailed report with the steps taken in each subsection for
+to find the request, reporting and analysing the sources of errors and submitting
+the conclusions of its outcome. Find out if any of the methods are
+Preferably to find the elastic constant and body mass and explain its
+The foundation.</p>
+<p><strong>Topic:</strong> <a href="../topics/elasticity--and--materials" class="internal internal-link alias" data-slug="topics/elasticity--and--materials">Elasticity &amp; Materials</a>, <a href="../topics/oscillations--and--waves" class="internal internal-link alias" data-slug="topics/oscillations--and--waves">Oscillations &amp; Waves</a>
+<strong>Metodi:</strong> <a href="../methods/hooke's-law-(metodo)" class="internal internal-link alias" data-slug="methods/hooke's-law-(metodo)">Hooke’s Law</a>, <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>, <a href="../methods/simple-harmonic-motion-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/simple-harmonic-motion-analysis-(metodo)">Simple Harmonic Motion Analysis</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>
+<strong>Objects:</strong> <a href="../objects/spring-(object)" class="internal internal-link alias" data-slug="objects/spring-(object)">Spring</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/10NCgDucHDFMuORRKgMMrjBz90wa2XJ2X/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/spring-(object)" class="internal">Spring</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

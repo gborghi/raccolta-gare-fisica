@@ -1,0 +1,1033 @@
+<!DOCTYPE html>
+<html lang="pt" dir="ltr"><head><title>OBF 2007 — Quesito 3</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="OBF 2007 — Quesito 3"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="OBF 2007 — Quesito 3"/><meta name="twitter:description" content="Observe, atentamente, as fotografias figura 4 a seguir. A primeira é um arco duplo anunciando a presença de uma conhecida rede de lanchonetes."/><meta property="og:description" content="Observe, atentamente, as fotografias figura 4 a seguir. A primeira é um arco duplo anunciando a presença de uma conhecida rede de lanchonetes."/><meta property="og:image:alt" content="Observe, atentamente, as fotografias figura 4 a seguir. A primeira é um arco duplo anunciando a presença de uma conhecida rede de lanchonetes."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/obf2007_2fase_8serie_prova__q03"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/obf2007_2fase_8serie_prova__q03"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Observe, atentamente, as fotografias figura 4 a seguir. A primeira é um arco duplo anunciando a presença de uma conhecida rede de lanchonetes."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/obf2007_2fase_8serie_prova__q03" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-15122" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-15122" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>OBF 2007 — Quesito 3</a></div></nav><h1 class="article-title">OBF 2007 — Quesito 3</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/kg/prova" class="internal internal-link tag-link">kg/prova</a><span class="note-properties-separator">, </span><a href="../tags/paese/brasile" class="internal internal-link tag-link">paese/brasile</a><span class="note-properties-separator">, </span><a href="../tags/comp/obf" class="internal internal-link tag-link">comp/obf</a><span class="note-properties-separator">, </span><a href="../tags/cluster/meccanica" class="internal internal-link tag-link">cluster/meccanica</a><span class="note-properties-separator">, </span><a href="../tags/object/projectile" class="internal internal-link tag-link">object/projectile</a><span class="note-properties-separator">, </span><a href="../tags/object/ball" class="internal internal-link tag-link">object/ball</a><span class="note-properties-separator">, </span><a href="../tags/object/planet" class="internal internal-link tag-link">object/planet</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:28:14.139Z">02 lug 2026</time><span>22 minuti</span></p><ul class="tags"><li><a href="../tags/kg/prova" class="internal tag-link">kg/prova</a></li><li><a href="../tags/paese/brasile" class="internal tag-link">paese/brasile</a></li><li><a href="../tags/comp/obf" class="internal tag-link">comp/obf</a></li><li><a href="../tags/cluster/meccanica" class="internal tag-link">cluster/meccanica</a></li><li><a href="../tags/object/projectile" class="internal tag-link">object/projectile</a></li><li><a href="../tags/object/ball" class="internal tag-link">object/ball</a></li><li><a href="../tags/object/planet" class="internal tag-link">object/planet</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="pt"></div>
+<ol start="3">
+<li>Observe, atentamente, as fotografias figura 4 a seguir. A primeira é
+um arco duplo anunciando a presença de uma conhecida rede de
+lanchonetes. Embaixo dela vemos uma foto noturna de uma saltadora
+de trampolim, quase reproduzindo uma das parábolas do arco duplo.
+Ao seu lado, na parte de cima, temos um chafariz “jorrando
+parábolas”, que são também reproduzidas pela erupção de um vulcão,
+vista na foto de baixo. Estas parábolas podem ser obtidas para
+finalidades didáticas em fotografias estroboscópicas* (vejam a foto da
+figura 5) representando o conhecido fenômeno de lançamento de
+projéteis. A última foto da figura 5 representa um dos lados da
+parábola, obtido a partir do lançamento horizontal de uma bola branca
+em um campo gravitacional (g = 10 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0641em;vertical-align:-0.25em;"></span><span class="mord mathnormal">m</span><span class="mord">/</span><span class="mord"><span class="mord mathnormal">s</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>), com velocidade inicial de 2,0
+m/s e de uma altura de 5,0 m do solo.
+4</li>
+</ol>
+<p>Fig. 4
+O movimento da bola pode ser representado matematicamente pela
+função parábola y = 5,0 - 1,25 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord"><span class="mord mathnormal">x</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>, com y e x em metros. Pergunta-se:
+(a) Qual será a menor distância entre o ponto inicial e o ponto final da
+trajetória?
+Ainda na última fotografia da figura 5 se solta, simultaneamente com a
+bola branca, uma bola cinza em queda livre. Observe que as
+coordenadas verticais (y) das duas bolas são idênticas, a cada
+instante, e a função em y da bola em queda livre, em relação ao
+tempo, é y = 5,0 - 5 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>. De acordo com esta equação:
+(b) Quanto tempo levará a bola cinza para atingir o solo?</p>
+<ul>
+<li>Na fotografia estroboscópica temos apenas uma bola fotografada
+várias vezes, ou seja, fotografias estroboscópicas são aquelas que o
+filme ou o ccd (ocupa o lugar do filme da máquina digital) são expostos
+em um tempo maior que o usual e o objeto de estudo é iluminado
+algumas vezes resultando numa foto onde parecem existir múltiplas
+bolas.</li>
+</ul>
+<p>Fig. 5</p>
+<p>04 Para complementar a questão anterior, apresenta-se na figura 6
+acima uma seqüência de quatro ilustrações. Na última, observe a
+semelhança com as fotos da questão anterior, onde os pontos de uma
+parábola completa são obtidos do lançamento, na direção vertical, de
+um objeto a partir de um caminhão em Movimento Retilíneo Uniforme
+(MRU). Este MRU é representado pela seqüência uniforme de
+pontilhados horizontais.
+5
+1
+2
+3
+4</p>
+<p>Fig. 6
+a) Se a função que representa a evolução temporal do caminhão é
+x = 2,0 t, qual é a velocidade do caminhão?
+Como na questão anterior, a única força atuante é a da gravidade,
+cuja aceleração é aproximada para g = 10 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0641em;vertical-align:-0.25em;"></span><span class="mord mathnormal">m</span><span class="mord">/</span><span class="mord"><span class="mord mathnormal">s</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>. A descrição completa
+da ascensão e queda, na coordenada vertical, do objeto lançado do
+caminhão em função do tempo, é y = 10t <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8974em;vertical-align:-0.0833em;"></span><span class="mord">−</span><span class="mord">5</span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>, e na coordenada
+horizontal temos o MRU (x = 2,0 t).Com essas informações:
+(b) Calcule o módulo da velocidade inicial vertical, representado no
+primeiro quadro da seqüência de ilustrações.
+Combinando-se os dois movimentos (horizontal e vertical):
+(c) Qual é a equação da trajetória parabólica (y) em termos de x?
+d) Qual será a altura máxima atingida pelo objeto?</p>
+<ol start="5">
+<li>O morteiro pirotécnico é um fogo de artifício que, lançado
+verticalmente, explode à altura de 200 m. Suponha que você, situado a
+certa distância do lançamento de um morteiro, mediu o tempo de 3 s entre
+o clarão e o som da explosão correspondente.
+A velocidade da luz é extremamente alta (300.000 km/s) de modo que,
+para efeito prático, o clarão do morteiro chega instantaneamente aos
+nossos olhos. Por outro lado, a velocidade do som no ar é bem menor e
+perceptível aos nossos sentidos, sendo igual a 340m/s.
+a) Determine a distância percorrida pelo som do ponto da explosão até
+você.
+b) Determine a distância entre o ponto de lançamento do morteiro e a
+posição onde você ouviu a explosão.</li>
+</ol>
+<p>Fig. 7
+6
+06. Um eclipse solar ocorre quando a Lua se coloca entre o Sol e a Terra
+projetando sua sombra na superfície do nosso planeta. Os astrônomos
+calculam com muita precisão, entre outras grandezas, o tempo de duração
+do eclipse numa determinada cidade.</p>
+<p>SOL
+LUA
+TERRA
+ECLIPSE</p>
+<p>Fig. 8</p>
+<p>Podemos ter uma idéia aproximada de como esse cálculo é feito,
+resolvendo o seguinte problema (figura 9):
+O Sol, encontrando-se a pino, produz um feixe de luz paralelo e
+perpendicular ao solo. Entre o Sol e uma estrada plana e retilínea voa um
+avião de 80 m de comprimento com velocidade de 540 km/h em relação
+ao solo. A sombra produzida pelo avião atinge, em um determinado
+instante, uma motocicleta que se move no mesmo sentido e com
+velocidade de 180 km/h. Durante quanto tempo a sombra permanece
+sobre a moto? Observação: uma das propriedades de luz paralela em
+incidência normal é formar sombra com o mesmo tamanho do objeto.</p>
+<p>Fig. 9</p>
+<ol start="7">
+<li>Veja na figura 10 faíscas de um “fósforo de festas juninas”,
+usualmente denominado de chuvas de prata. A temperatura de sua chama
+pode atingir valores maiores que 2000 oC mas, quando ela atinge a pele
+humana, sente-se apenas uma ligeira “beliscada”. Desta forma, alta
+temperatura não necessariamente significa alta quantidade de calor. De
+fato, a variação de calor <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\DeltaQ</span></span></span></span></span>) é relacionada com a variação de
+Temperatura <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\DeltaT</span></span></span></span></span>) através da massa (m) e de uma quantidade chamada
+calor específico (c), resultando na fórmula.
+T
+mc
+Q
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+=
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></li>
+</ol>
+<p>Fig. 10
+7
+Consideremos (figura 11) um gráfico da Temperatura T em função da
+quantidade de calor adicionado Q, para o caso da água e do solo, cujos
+calores
+específicos
+c
+são
+)
+(
+18
+,4
+C
+g
+J
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6741em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">∘</span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p>e
+)
+(
+80
+,0
+C
+g
+J
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6741em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">∘</span></span></span></span></span></span></span></span></span></span></span></span>
+,
+respectivamente. No gráfico nota-se que, para aumentar de 1 oC a
+temperatura de uma quantidade de água ou de solo igual a 1,0 g, é
+necessário a energia de 4,18 J ou 0,80 J, respectivamente. Considerando
+este gráfico:
+(a) Determine o coeficiente angular da reta referente à água e da reta
+referente ao solo.</p>
+<p>1,0
+2,0
+3,0
+4,0
+Temperatura
+Quantidade de calor (energia)
+Q(J)
+4,18
+T (oC)
+1,0
+0,8
+1,0
+2,0
+3,0
+4,0
+Temperatura
+Quantidade de calor (energia)
+Q(J)
+4,18
+T (oC)
+1,0
+0,8</p>
+<p>Fig.11</p>
+<p>b) Ao adicionarmos a quantidade de calor de 1,0 J, a uma mesma
+quantidade m de água e de solo, qual será a diferença de temperatura
+entre os dois materiais?
+(c) Supondo que 1,0 mg (miligrama) do material “chuveirinho”, de calor
+específico igual a 0,20 J/goC, sofre uma variação de temperatura igual a
+2000 oC, calcule a variação da quantidade de calor.</p>
+<ol start="8">
+<li>A ilustração da figura 12 mostra o sistema solar cuja descrição
+matemática foi realizada por Isaac Newton. Ele sugeriu uma lei de atração
+dos corpos como uma força diretamente proporcional ao produto das
+massas e inversamente proporcional ao quadrado da distância entre eles.</li>
+</ol>
+<p>Fig.12</p>
+<p>Na ilustração da figura 13 tem-se a Terra, de massa M, atraindo um objeto
+qualquer de massa m. A expressão matemática que traduz esta atração é
+dada por
+2
+r
+GMm
+F =
+, onde G é a chamada constante de gravitação
+universal. Se o objeto estiver na superfície da Terra, e M e
+forem,
+respectivamente, a massa e o raio da Terra, o termo
+Tr
+2
+Tr
+GM é escrito como
+8
+g e assim a bem conhecida expressão da força peso dos objetos na Terra
+será
+.
+mg
+Fp =</p>
+<p>Fig. 13</p>
+<h1 id="a-calcule-o-valor-da-aceleração-da-gravidade-g-na-terra-para-efeitodeste-e-dos-cálculos-a-seguir-considere-os-seguintes-valores-aproximadospara-a-massa-e-o-raio-médio-da-terrakgm24106times">a) Calcule o valor da aceleração da gravidade, g, na Terra. Para efeito
+deste e dos cálculos a seguir, considere os seguintes valores aproximados
+para a massa e o raio médio da Terra:
+kg
+M
+24
+10
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">6</span><span class="mord">×</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#a-calcule-o-valor-da-aceleração-da-gravidade-g-na-terra-para-efeitodeste-e-dos-cálculos-a-seguir-considere-os-seguintes-valores-aproximadospara-a-massa-e-o-raio-médio-da-terrakgm24106times" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="mrconsidere-também-quet6106times">,
+m
+r
+.
+Considere também que
+.
+T
+6
+10
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">6</span><span class="mord">×</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#mrconsidere-também-quet6106times" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="1062311skgmg-times">)
+/(
+10
+6
+2
+3
+11
+s
+kg
+m
+G
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">×</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1062311skgmg-times" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>b) Se um objeto cujo peso na Terra é 10 N for levado para a Lua, Marte e
+Saturno, que peso apresentará nestes astros? Os valores aproximados do
+raio e da massa destes astros, com relação à massa e ao raio da Terra,
+estão indicados na tabela abaixo.</p>
+<p>Terra
+Lua
+Marte
+Saturno
+massa
+1
+0,012
+0,1
+95
+raio
+1
+0,27
+0,5
+9,5</p>
+<p><strong>Topic:</strong> <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>, <a href="../topics/gravitation" class="internal internal-link" data-slug="topics/gravitation">Gravitation</a>, <a href="../topics/thermodynamics" class="internal internal-link" data-slug="topics/thermodynamics">Thermodynamics</a>
+<strong>Metodi:</strong> <a href="../methods/kinematic-equations-(metodo)" class="internal internal-link alias" data-slug="methods/kinematic-equations-(metodo)">Kinematic Equations</a>, <a href="../methods/newton's-law-of-gravitation-(metodo)" class="internal internal-link alias" data-slug="methods/newton's-law-of-gravitation-(metodo)">Newton’s Law of Gravitation</a>, <a href="../methods/first-law-of-thermodynamics-(metodo)" class="internal internal-link alias" data-slug="methods/first-law-of-thermodynamics-(metodo)">First Law of Thermodynamics</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/diagrammatic-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/diagrammatic-reasoning-(competenza)">Diagrammatic Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/projectile-(object)" class="internal internal-link alias" data-slug="objects/projectile-(object)">Projectile</a>, <a href="../objects/ball-(object)" class="internal internal-link alias" data-slug="objects/ball-(object)">Ball</a>, <a href="../objects/planet-(object)" class="internal internal-link alias" data-slug="objects/planet-(object)">Planet</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1IyHtZRF29kNPA-SA6iIwGdblJlPcDBRi/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="it"></div>
+<ol start="3">
+<li>Guardate attentamente le fotografie riportate nella figura 4. La prima è:
+un doppio arco che annuncia la presenza di una nota rete di</li>
+</ol>
+<ul>
+<li>Cibo. Sotto di essa vediamo una foto notturna di una saltatrice.
+di trampolino, quasi riprodursi una delle parabole del doppio arco.
+Accanto a lui, in cima, abbiamo un caldaio che siede
+parallelamente a quelle che si riproducono nell’eruzione di un vulcano,
+visto nella foto di sotto. Queste parabole possono essere ottenute per
+Scopi didattici in fotografie stro-</li>
+</ul>
+<ol start="5">
+<li>che rappresenta il fenomeno noto di lancio di</li>
+</ol>
+<ul>
+<li>I proiettili. L’ultima foto della figura 5 rappresenta uno dei lati della
+Paragrafo, ottenuto dal lancio orizzontale di una palla bianca
+in un campo gravitazionale (g = 10 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0641em;vertical-align:-0.25em;"></span><span class="mord mathnormal">m</span><span class="mord">/</span><span class="mord"><span class="mord mathnormal">s</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>), con velocità iniziale di 2,0
+m/s e di una altezza di 5,0 m dal suolo.
+4</li>
+</ul>
+<p>Fig. 4
+Il movimento della palla può essere rappresentato matematicamente da
+Funzione parabola y = 5,0 - 1,25 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord"><span class="mord mathnormal">x</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>, con y e x in metri. Si chiede:
+(a) Qual è la distanza più breve tra il punto di partenza e il punto di fine della</p>
+<ul>
+<li>Tragittoria?
+L’ultimo ritratto di figura 5 si libera, contemporaneamente con la
+una palla bianca, una palla grigio in caduta libera. Si noti che le
+le coordinate verticali (y) delle due palle sono identiche, a ciascuna
+istantaneamente, e la funzione in y della palla in caduta libera, rispetto al
+tempo, è y = 5,0 - 5 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>. Secondo questa equazione:
+(b) Quanto tempo ci vorrà per raggiungere il suolo?
+Nella fotografia strofoscopica abbiamo solo una palla fotografata
+In altre parole, le fotografie strobiche sono quelle che
+film o ccd (occupa il posto del film della macchina digitale) sono esposti
+in un tempo superiore al normale e l’oggetto di studio è illuminato
+A volte si ottiene una foto in cui sembrano esistere molteplici</li>
+<li>Ma che cazzo!</li>
+</ul>
+<p>Fig. 5</p>
+<p>04 Per completare la questione precedente, figura 6
+sopra una sequenza di quattro illustrazioni. In ultima analisi, osservate la
+La foto di cui all’articolo 1 è simile alle foto della domanda precedente, dove i punti di una
+La parallato completa è ottenuta dal lancio, nella direzione verticale, di
+un oggetto da un camion in movimento reticolo uniforme
+(MRU) Questa MRU è rappresentata dalla sequenza uniforme di
+puntate orizzontali.
+5
+1
+2
+3
+4</p>
+<p>Fig. 6
+a) Se la funzione che rappresenta l’evoluzione temporale del camion è
+x = 2,0 t, qual è la velocità del camion?
+Come nella prima domanda, l’unica forza che agisce è quella della gravità.
+il cui accelerazione è approssimativa a g = 10 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0641em;vertical-align:-0.25em;"></span><span class="mord mathnormal">m</span><span class="mord">/</span><span class="mord"><span class="mord mathnormal">s</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>. Descrizione completa
+di ascesa e di caduta, in coordinata verticale, dell’oggetto lanciato dal
+il camion in funzione del tempo, è y = 10t <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8974em;vertical-align:-0.0833em;"></span><span class="mord">−</span><span class="mord">5</span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>, e la coordinata
+Horizontalmente abbiamo il MRU (x = 2.0 t). Con queste informazioni:
+b) Calcola il modulo di velocità iniziale verticale, rappresentato in
+Il primo quadro della sequenza illustrativa.
+Combinando i due movimenti (orizzontale e verticale):
+(c) Qual è l’equazione della tragittoria parabola (y) in termini di x?
+d) Qual è la massima altezza raggiunta dall’oggetto?</p>
+<ol start="5">
+<li>Il mortero pirotecnico è un fuoco artigianale che, lanciato
+Verticalmente, esplode a 200 metri di altezza. Supponiamo che tu, situato a
+una certa distanza dal lancio di un mortero, ha misurato il tempo di 3 secondi tra
+il fulmine e il suono dell’esplosione corrispondente.
+La velocità della luce è estremamente alta (300.000 km/s) in modo che,
+In pratica, il lampo del mortero arriva immediatamente ai
+i nostri occhi. D’altra parte, la velocità del suono nell’aria è molto inferiore e
+Per quanto riguarda i sensi, è pari a 340 metri al secondo.
+a) Determina la distanza percorsa dal suono dal punto di esplosione fino a</li>
+</ol>
+<ul>
+<li>E’ lei.
+b) Determina la distanza tra il punto di lancio del mortero e la
+posizione in cui hai sentito l’esplosione.</li>
+</ul>
+<p>Fig. 7
+6
+06. Un eclissi solare si verifica quando la luna si trova tra il sole e la terra
+Proiettando la sua ombra sulla superficie del nostro pianeta. Gli astronomi
+Calcolare con grande precisione, tra le altre dimensioni, il tempo di durata
+dell’eclissi in una città.</p>
+<p>Sol
+LUNE
+Terra
+Eclipse</p>
+<p>Fig. 8</p>
+<p>Possiamo avere un’idea approssimativa di come si fa questo calcolo,
+Soluzione del seguente problema (Figura 9):
+Il sole, incontrandosi con il pino, produce un fascio di luce parallelo e
+perpendicolare al suolo. Tra il sole e una strada piana e reticolare vola un
+aereo di 80 m di lunghezza con velocità di 540 km/h in relazione</p>
+<ul>
+<li>Al suolo. L’ombra prodotta dall’aereo raggiunge un determinato punto di vista
+In un istante, una motociclista che si muove nella stessa direzione e con
+velocità di 180 km/h. Per quanto tempo la ombra rimane
+sulla moto? Nota: una delle proprietà della luce parallela in
+l’incidenza normale è quella di formare un’ombra della stessa dimensione dell’oggetto.</li>
+</ul>
+<p>Fig. 9</p>
+<ol start="7">
+<li>Vedi la figura 10 spark di un phospho di feste giunine,
+di solito denominato “piogge d’argento”. La temperatura della sua fiamma
+può raggiungere valori superiori a 2000 oC ma, quando raggiunge la pelle
+E’ un’umanità, si sente solo un po’ sbalordita. Così, alta
+la temperatura non significa necessariamente un’elevata quantità di calore. De
+Infatti, la variazione di calore <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\DeltaQ</span></span></span></span></span>) è correlata alla variazione di
+Temperatura <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\DeltaT</span></span></span></span></span>) attraverso la massa (m) e una quantità chiamata
+calore specifico (c), risultante nella formula.
+T
+mc
+Q
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+=
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></li>
+</ol>
+<p>Fig. 10
+7
+Considerate (figura 11) un grafico della temperatura T in funzione della
+quantità di calore aggiunto Q, per l’acqua e il suolo,
+Calori
+specifici
+c
+sono
+)
+(
+18
+,4
+C
+g
+J
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6741em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">∘</span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p>e
+)
+(
+80
+,0
+C
+g
+J
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6741em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">∘</span></span></span></span></span></span></span></span></span></span></span></span>
+,
+rispettivamente. Il grafico rileva che, per aumentare da 1 oC a
+temperatura di una quantità di acqua o di suolo pari a 1,0 g, è
+La potenza di 4,18 J o 0,80 J, rispettivamente, è necessaria. Considerando che
+Questo grafico:
+(a) Determina il coefficiente angolare della rete relativa all’acqua e della rete
+per quanto riguarda il suolo.</p>
+<p>1,0
+2,0
+3,0
+4,0
+Temperatura
+Quantiità di calore (energia)
+Q(J)
+4,18
+T (oC)
+1,0
+0,8
+1,0
+2,0
+3,0
+4,0
+Temperatura
+Quantiità di calore (energia)
+Q(J)
+4,18
+T (oC)
+1,0
+0,8</p>
+<p>Fig.11</p>
+<p>b) Se aggiungiamo la quantità di calore di 1,0 J,
+quantità di acqua e di suolo, quale sarà la differenza di temperatura
+tra i due materiali?
+(c) Supponendo che 1,0 mg (milligrammi) di materiale
+specifico pari a 0,20 J/goC, subisce una variazione di temperatura pari a
+2000 oC, calcola la variazione della quantità di calore.</p>
+<ol start="8">
+<li>L’illustrazione di cui alla figura 12 mostra il sistema solare che descrive
+la matematica è stata realizzata da Isaac Newton. Ha suggerito una legge di attrazione
+La forza di un’azione di un’azione di forza è direttamente proporzionale al prodotto delle
+mass e inversamente proporzionale al quadrato della distanza tra di loro.</li>
+</ol>
+<p>Fig. 12</p>
+<p>L’immagine di questa figura 13 mostra la Terra, di massa M, attraendo un oggetto
+di massa m. L’espressione matematica che traduce questo atteggiamento è
+data da
+2
+r
+GMm
+F =
+, dove G è la cosiddetta costante di gravità
+universale. Se l’oggetto è sulla superficie terrestre, e M e
+sono,
+rispettivamente la massa e il raggio della Terra, il termine
+Tr
+2
+Tr
+GM è scritto come
+8
+g e quindi la nota espressione della forza di peso degli oggetti sulla Terra
+sarà
+.
+mg
+Fp =</p>
+<p>Fig. 13</p>
+<h1 id="a-calcola-il-valore-dellaccelerazione-della-gravità-g-sulla-terra-per-effettodi-questo-e-dei-seguenti-calcoli-considerate-i-seguenti-valori-approssimativiper-la-massa-e-il-raggio-medio-della-terrakgm24106times">a) Calcola il valore dell’accelerazione della gravità, g, sulla Terra. Per effetto
+di questo e dei seguenti calcoli, considerate i seguenti valori approssimativi
+per la massa e il raggio medio della Terra:
+kg
+M
+24
+10
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">6</span><span class="mord">×</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#a-calcola-il-valore-dellaccelerazione-della-gravità-g-sulla-terra-per-effettodi-questo-e-dei-seguenti-calcoli-considerate-i-seguenti-valori-approssimativiper-la-massa-e-il-raggio-medio-della-terrakgm24106times" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="mrconsidera-inoltre-chet6106times">,
+m
+r
+.
+Considera inoltre che
+.
+T
+6
+10
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">6</span><span class="mord">×</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#mrconsidera-inoltre-chet6106times" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="1062311skgmg-times-1">)
+/(
+10
+6
+2
+3
+11
+s
+kg
+m
+G
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">×</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1062311skgmg-times-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>b) Se un oggetto di peso terrestre di 10 N è portato sulla Luna, su Marte e
+Saturno, che peso avrà in queste stelle? I valori approssimativi del
+il raggio e la massa di queste stelle rispetto al massa e alla massa della Terra,
+sono indicati nella tabella seguente.</p>
+<p>Terra
+Luna
+Marte
+Saturno
+massa
+1
+0,012
+0,1
+95</p>
+<ul>
+<li>Maledizione
+1
+0,27
+0,5
+9,5</li>
+</ul>
+<p><strong>Topic:</strong> <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>, <a href="../topics/gravitation" class="internal internal-link" data-slug="topics/gravitation">Gravitation</a>, <a href="../topics/thermodynamics" class="internal internal-link" data-slug="topics/thermodynamics">Thermodynamics</a>
+<strong>Metodi:</strong> <a href="../methods/kinematic-equations-(metodo)" class="internal internal-link alias" data-slug="methods/kinematic-equations-(metodo)">Kinematic Equations</a>, <a href="../methods/newton's-law-of-gravitation-(metodo)" class="internal internal-link alias" data-slug="methods/newton's-law-of-gravitation-(metodo)">Newton’s Law of Gravitation</a>, <a href="../methods/first-law-of-thermodynamics-(metodo)" class="internal internal-link alias" data-slug="methods/first-law-of-thermodynamics-(metodo)">First Law of Thermodynamics</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/diagrammatic-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/diagrammatic-reasoning-(competenza)">Diagrammatic Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/projectile-(object)" class="internal internal-link alias" data-slug="objects/projectile-(object)">Projectile</a>, <a href="../objects/ball-(object)" class="internal internal-link alias" data-slug="objects/ball-(object)">Ball</a>, <a href="../objects/planet-(object)" class="internal internal-link alias" data-slug="objects/planet-(object)">Planet</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1IyHtZRF29kNPA-SA6iIwGdblJlPcDBRi/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<ol start="3">
+<li>Look carefully at the pictures in figure 4. The first is
+a double arc announcing the presence of a known network of</li>
+</ol>
+<ul>
+<li>I’m not going to eat. Below it we see a night photograph of a jumper.
+Trampoline, almost reproducing one of the parables of the double bow.
+Next to you, at the top, we have a heater sitting
+parables, which are also reproduced by the eruption of a volcano,
+as seen in the photo below. These parables can be obtained from
+The study was carried out in the context of the study of the use of photographic materials.
+Figure 5 shows the known phenomenon of the launch of
+You’re going to shoot. The last photo in Figure 5 represents one of the sides of the
+parabola obtained from the horizontal throwing of a white ball
+in a gravitational field (g = 10 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0641em;vertical-align:-0.25em;"></span><span class="mord mathnormal">m</span><span class="mord">/</span><span class="mord"><span class="mord mathnormal">s</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>), with an initial velocity of 2,0
+m/s and a height of 5,0 m from the ground.
+4</li>
+</ul>
+<p>Fig. 4
+The ball’s motion can be represented mathematically by
+the parabola function y = 5,0 - 1,25 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord"><span class="mord mathnormal">x</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>, with y and x in meters. You ask yourself:
+(a) What is the shortest distance between the starting and the end of the
+The trajectory?
+In the last picture in Figure 5 it is released simultaneously with the
+white ball, a gray ball in free fall. Please note that the
+The vertical coordinates (y) of the two balls are identical, at each
+In the instant, and the y function of the free fall ball, relative to the
+time, is y = 5,0 - 5 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>. According to this equation:
+(b) How long will it take the gray ball to reach the ground?
+In strobe photography, we only have one shot of a ball.
+The Commission has already taken a number of measures to ensure that the
+film or ccd (occupies the place of the digital machine film) are exposed
+in a longer time than usual and the subject is illuminated
+Sometimes resulting in a photo where multiple images appear to exist.</p>
+<ul>
+<li>I’m not going to.</li>
+</ul>
+<p>Fig. 5</p>
+<p>04 To supplement the previous question, figure 6 shows that the
+above a sequence of four illustrations. In the last one, note the
+The same as the pictures in the previous question, where the points of a
+The full parabola is obtained from the vertical direction of the launch of
+an object from a truck in uniform reticle motion
+(MRU) This MRU is represented by the uniform sequence of
+horizontal points.
+5
+1
+2
+3
+4</p>
+<p>Fig. 6
+(a) If the function representing the time evolution of the truck is
+x = 2.0 t, what’s the speed of the truck?
+As in the previous question, the only force acting is gravity.
+The acceleration is approximately g = 10 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0641em;vertical-align:-0.25em;"></span><span class="mord mathnormal">m</span><span class="mord">/</span><span class="mord"><span class="mord mathnormal">s</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>. The full description
+The vertical rise and fall of the object launched from the
+truck in time, is y = 10t <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8974em;vertical-align:-0.0833em;"></span><span class="mord">−</span><span class="mord">5</span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span>, and at the coordinate
+We have the MRU (x = 2.0 t) horizontally.
+(b) Calculate the vertical start speed module, represented in
+The first table of the illustration sequence.
+Combining the two movements (horizontal and vertical):
+(c) What is the parabolic trajectory equation (y) in terms of x?
+(d) What is the maximum height reached by the object?</p>
+<ol start="5">
+<li>The pyrotechnic mortar is a firework which, when fired,
+It explodes vertically at 200 m. Suppose you, situated at
+A certain distance from a mortar launch, measured the time of 3 s between
+the flash and sound of the corresponding explosion.
+The speed of light is extremely high (300,000 km/s) so that,
+In practice, the lightning from the mortar instantly reaches the
+our eyes. On the other hand, the speed of sound in the air is much lower and
+It’s perceptible to our senses, and it’s equal to 340m/s.
+(a) Determine the distance travelled by the sound from the point of explosion to the
+You, too.
+(b) Determine the distance between the launch point of the mortar and the
+position where you heard the explosion.</li>
+</ol>
+<p>Fig. 7
+6
+06. A solar eclipse occurs when the moon lies between the sun and the earth
+projecting its shadow onto the surface of our planet. The Astronomers
+calculate very accurately, among other quantities, the duration
+of the eclipse in a certain city.</p>
+<p>The following is the list of the following:
+The Lunar
+The following is the list of the countries:
+The Commission has already adopted a proposal for a directive.</p>
+<p>Fig. 8</p>
+<p>We can get a rough idea of how this calculation is done,
+by solving the following problem (Figure 9):
+The sun, meeting the pine, produces a parallel beam of light and
+perpendicular to the ground. Between the sun and a flat, straight road, a flying
+80 m long aircraft with a speed of 540 km/h relative to
+Get down on the ground. The shadow produced by the aircraft reaches a certain
+In the meantime, a motorcycle that moves in the same direction and with
+speed of 180 km/h. How long the shadow remains
+about the bike? Note: one of the parallel light properties in
+The normal incidence is to form a shadow of the same size as the object.</p>
+<p>Fig. 9</p>
+<ol start="7">
+<li>See in Figure 10 sparkles from a June party phosphorus,
+commonly referred to as silver rain. The temperature of your flame
+It can reach levels greater than 2000 °C but when it hits the skin
+human, you feel only a slight “blurred” This way, high
+temperature does not necessarily mean high amount of heat. De
+In fact, the heat change <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\DeltaQ</span></span></span></span></span>) is related to the change in
+Temperature <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\DeltaT</span></span></span></span></span>) through mass (m) and a quantity called
+specific heat (c), resulting in the formula.
+T
+mc
+Q
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+=
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></li>
+</ol>
+<p>Fig. 10
+7
+Consider (Figure 11) a graph of the temperature T as a function of the
+quantity of heat added Q, for water and soil, whose
+Heat
+specific
+c
+are
+)
+(
+18
+,4
+C
+g
+J
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6741em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">∘</span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p>e
+)
+(
+80
+,0
+C
+g
+J
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6741em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6741em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">∘</span></span></span></span></span></span></span></span></span></span></span></span>
+,
+the Commission. The graph shows that to increase from 1 oC to
+a temperature of a quantity of water or soil equal to 1,0 g, is
+The energy required is 4,18 J or 0,80 J, respectively. Whereas
+This chart:
+(a) Determine the angular coefficient of the water- and the line
+the soil.</p>
+<p>1,0
+2,0
+3,0
+4,0
+The temperature
+Amount of heat (energy)
+Q(J)
+4,18
+T (oC)
+1,0
+0,8
+1,0
+2,0
+3,0
+4,0
+The temperature
+Amount of heat (energy)
+Q(J)
+4,18
+T (oC)
+1,0
+0,8</p>
+<p>The following table shows the following:</p>
+<p>(b) Adding the amount of heat of 1.0 J to the same
+quantity m of water and soil, what will be the temperature difference
+between the two materials?
+(c) Assuming that 1.0 mg (milligrams) of the material is
+specific equal to 0,20 J/goC, has a temperature change equal to
+2000 oC, calculate the change in the amount of heat.</p>
+<ol start="8">
+<li>The illustration in Figure 12 shows the solar system described
+mathematics was done by Isaac Newton. He suggested a law of attraction
+The force of the bodies as a force directly proportional to the product of the
+mass and inversely proportional to the square of the distance between them.</li>
+</ol>
+<p>The following table shows the following:</p>
+<p>In the illustration in Figure 13, you have the Earth, mass M, attracting an object
+any m mass The mathematical expression that translates this attraction is
+given by
+2
+r
+GMm
+F =
+, where G is the so-called gravitational constant
+The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation. If the object is on the surface of the Earth, and M and
+are,
+The mass and radius of the Earth, respectively, the term
+Tr
+2
+Tr
+GM is written as
+8
+g and thus the well-known expression of the force of gravity of objects on Earth
+It will be
+.
+mg
+Fp =</p>
+<p>Fig. 13</p>
+<h1 id="a-calculate-the-value-of-gravitational-acceleration-g-on-earth-for-that-purposein-this-and-the-following-calculations-consider-the-following-approximate-valuesfor-the-mass-and-average-radius-of-the-earthkgm24106times">(a) Calculate the value of gravitational acceleration, g, on Earth. For that purpose
+In this and the following calculations, consider the following approximate values:
+for the mass and average radius of the Earth:
+kg
+M
+24
+10
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">6</span><span class="mord">×</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#a-calculate-the-value-of-gravitational-acceleration-g-on-earth-for-that-purposein-this-and-the-following-calculations-consider-the-following-approximate-valuesfor-the-mass-and-average-radius-of-the-earthkgm24106times" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="mrconsider-also-thatt6106times">,
+m
+r
+.
+Consider also that
+.
+T
+6
+10
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">6</span><span class="mord">×</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#mrconsider-also-thatt6106times" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="1062311skgmg-times-2">)
+/(
+10
+6
+2
+3
+11
+s
+kg
+m
+G
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">×</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1062311skgmg-times-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>(b) If an object with a weight of 10 N on Earth is brought to the Moon, Mars and
+Saturn, what weight will it carry in these stars? The approximate values of
+The mass and mass of these stars, relative to the mass and mass of the Earth,
+are shown in the table below.</p>
+<p>Land
+The moon
+Mars
+Saturn
+Other
+1
+0,012
+0,1
+95
+What the hell?
+1
+0,27
+0,5
+9,5</p>
+<p><strong>Topic:</strong> <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>, <a href="../topics/gravitation" class="internal internal-link" data-slug="topics/gravitation">Gravitation</a>, <a href="../topics/thermodynamics" class="internal internal-link" data-slug="topics/thermodynamics">Thermodynamics</a>
+<strong>Metodi:</strong> <a href="../methods/kinematic-equations-(metodo)" class="internal internal-link alias" data-slug="methods/kinematic-equations-(metodo)">Kinematic Equations</a>, <a href="../methods/newton's-law-of-gravitation-(metodo)" class="internal internal-link alias" data-slug="methods/newton's-law-of-gravitation-(metodo)">Newton’s Law of Gravitation</a>, <a href="../methods/first-law-of-thermodynamics-(metodo)" class="internal internal-link alias" data-slug="methods/first-law-of-thermodynamics-(metodo)">First Law of Thermodynamics</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/diagrammatic-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/diagrammatic-reasoning-(competenza)">Diagrammatic Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/projectile-(object)" class="internal internal-link alias" data-slug="objects/projectile-(object)">Projectile</a>, <a href="../objects/ball-(object)" class="internal internal-link alias" data-slug="objects/ball-(object)">Ball</a>, <a href="../objects/planet-(object)" class="internal internal-link alias" data-slug="objects/planet-(object)">Planet</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1IyHtZRF29kNPA-SA6iIwGdblJlPcDBRi/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"><div class="toc"><button type="button" class="toc-header" aria-controls="toc-563" aria-expanded="true"><h3>Indice</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-0" class="toc-content overflow"><li class="depth-0"><a href="#a-calcule-o-valor-da-aceleração-da-gravidade-g-na-terra-para-efeitodeste-e-dos-cálculos-a-seguir-considere-os-seguintes-valores-aproximadospara-a-massa-e-o-raio-médio-da-terrakgm24106times" data-for="a-calcule-o-valor-da-aceleração-da-gravidade-g-na-terra-para-efeitodeste-e-dos-cálculos-a-seguir-considere-os-seguintes-valores-aproximadospara-a-massa-e-o-raio-médio-da-terrakgm24106times">a) Calcule o valor da aceleração da gravidade, g, na Terra. Para efeito
+deste e dos cálculos a seguir, considere os seguintes valores aproximados
+para a massa e o raio médio da Terra:
+kg
+M
+24
+10
+6\times</a></li><li class="depth-0"><a href="#mrconsidere-também-quet6106times" data-for="mrconsidere-também-quet6106times">,
+m
+r
+.
+Considere também que
+.
+T
+6
+10
+6\times</a></li><li class="depth-0"><a href="#1062311skgmg-times" data-for="1062311skgmg-times">)
+/(
+10
+6
+2
+3
+11
+s
+kg
+m
+G
+-
+\times</a></li><li class="depth-0"><a href="#a-calcola-il-valore-dellaccelerazione-della-gravità-g-sulla-terra-per-effettodi-questo-e-dei-seguenti-calcoli-considerate-i-seguenti-valori-approssimativiper-la-massa-e-il-raggio-medio-della-terrakgm24106times" data-for="a-calcola-il-valore-dellaccelerazione-della-gravità-g-sulla-terra-per-effettodi-questo-e-dei-seguenti-calcoli-considerate-i-seguenti-valori-approssimativiper-la-massa-e-il-raggio-medio-della-terrakgm24106times">a) Calcola il valore dell’accelerazione della gravità, g, sulla Terra. Per effetto
+di questo e dei seguenti calcoli, considerate i seguenti valori approssimativi
+per la massa e il raggio medio della Terra:
+kg
+M
+24
+10
+6\times</a></li><li class="depth-0"><a href="#mrconsidera-inoltre-chet6106times" data-for="mrconsidera-inoltre-chet6106times">,
+m
+r
+.
+Considera inoltre che
+.
+T
+6
+10
+6\times</a></li><li class="depth-0"><a href="#1062311skgmg-times-1" data-for="1062311skgmg-times-1">)
+/(
+10
+6
+2
+3
+11
+s
+kg
+m
+G
+-
+\times</a></li><li class="depth-0"><a href="#a-calculate-the-value-of-gravitational-acceleration-g-on-earth-for-that-purposein-this-and-the-following-calculations-consider-the-following-approximate-valuesfor-the-mass-and-average-radius-of-the-earthkgm24106times" data-for="a-calculate-the-value-of-gravitational-acceleration-g-on-earth-for-that-purposein-this-and-the-following-calculations-consider-the-following-approximate-valuesfor-the-mass-and-average-radius-of-the-earthkgm24106times">(a) Calculate the value of gravitational acceleration, g, on Earth. For that purpose
+In this and the following calculations, consider the following approximate values:
+for the mass and average radius of the Earth:
+kg
+M
+24
+10
+6\times</a></li><li class="depth-0"><a href="#mrconsider-also-thatt6106times" data-for="mrconsider-also-thatt6106times">,
+m
+r
+.
+Consider also that
+.
+T
+6
+10
+6\times</a></li><li class="depth-0"><a href="#1062311skgmg-times-2" data-for="1062311skgmg-times-2">)
+/(
+10
+6
+2
+3
+11
+s
+kg
+m
+G
+-
+\times</a></li><li class="overflow-end"></li></ul></div></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/ball-(object)" class="internal">Ball</a></li><li><a href="../objects/planet-(object)" class="internal">Planet</a></li><li><a href="../objects/projectile-(object)" class="internal">Projectile</a></li><li><a href="../prove/obf2007_2fase_8serie_prova" class="internal">OBF 2007</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

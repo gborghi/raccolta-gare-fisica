@@ -1,0 +1,1847 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr"><head><title>Spagna 2022 — Quesito 2</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="Spagna 2022 — Quesito 2"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Spagna 2022 — Quesito 2"/><meta name="twitter:description" content="P2. Carga oscilante. Considera dos pequeñas esferas sujetas en los extremos de una varilla no conductora de longitud 2d (Figura 1)."/><meta property="og:description" content="P2. Carga oscilante. Considera dos pequeñas esferas sujetas en los extremos de una varilla no conductora de longitud 2d (Figura 1)."/><meta property="og:image:alt" content="P2. Carga oscilante. Considera dos pequeñas esferas sujetas en los extremos de una varilla no conductora de longitud 2d (Figura 1)."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/2022-33_oaf_2022_prueba_teorica__q02"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/2022-33_oaf_2022_prueba_teorica__q02"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="P2. Carga oscilante. Considera dos pequeñas esferas sujetas en los extremos de una varilla no conductora de longitud 2d (Figura 1)."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/2022-33_oaf_2022_prueba_teorica__q02" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-3923" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-3923" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Spagna 2022 — Quesito 2</a></div></nav><h1 class="article-title">Spagna 2022 — Quesito 2</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/kg/prova" class="internal internal-link tag-link">kg/prova</a><span class="note-properties-separator">, </span><a href="../tags/paese/spagna" class="internal internal-link tag-link">paese/spagna</a><span class="note-properties-separator">, </span><a href="../tags/comp/spagna" class="internal internal-link tag-link">comp/spagna</a><span class="note-properties-separator">, </span><a href="../tags/cluster/meccanica" class="internal internal-link tag-link">cluster/meccanica</a><span class="note-properties-separator">, </span><a href="../tags/object/sphere" class="internal internal-link tag-link">object/sphere</a><span class="note-properties-separator">, </span><a href="../tags/object/rod" class="internal internal-link tag-link">object/rod</a><span class="note-properties-separator">, </span><a href="../tags/object/point-charge" class="internal internal-link tag-link">object/point-charge</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:27:49.749Z">02 lug 2026</time><span>12 minuti</span></p><ul class="tags"><li><a href="../tags/kg/prova" class="internal tag-link">kg/prova</a></li><li><a href="../tags/paese/spagna" class="internal tag-link">paese/spagna</a></li><li><a href="../tags/comp/spagna" class="internal tag-link">comp/spagna</a></li><li><a href="../tags/cluster/meccanica" class="internal tag-link">cluster/meccanica</a></li><li><a href="../tags/object/sphere" class="internal tag-link">object/sphere</a></li><li><a href="../tags/object/rod" class="internal tag-link">object/rod</a></li><li><a href="../tags/object/point-charge" class="internal tag-link">object/point-charge</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="es"></div>
+<h1 id="p2-carga-oscilanteconsidera-dos-pequeñas-esferas-sujetas-en-los-extremos-de-una-varilla-no-conductora-de-longitud-2dfigura-1-una-tercera-esfera-c-tiene-masa-m-y-puede-deslizar-sin-rozamiento-en-la-varilla-las-tres-esferas-sonno-conductoras-y-cada-una-tiene-una-carga-eléctrica-q-distribuida-sobre-su-superficie-se-separa-la-esfera-c-unadistancia-x-de-la-posición-de-equilibrio-ofig-1ahalla-la-expresión-de-la-fuerza-que-actúa-sobre-la-esfera-c-cuando-se-encuentra-a-distancia-x-de-la-posiciónde-equilibriobcuál-es-la-expresión-de-la-fuerza-sobre-la-esfera-c-si-se-considera-que-x--d-se-desplaza-la-esfera-c-hasta-un-punto-a-a-una-distancia-x--d20-hacia-la-derecha-de-o-como-se-observaen-la-figura-y-se-liberaccalcula-la-velocidad-que-llevará-la-esfera-c-cuando-pase-por-la-posición-de-equilibrio-odcalcula-la-frecuencia-angular-de-oscilación-de-la-esfera-c-alrededor-de-la-posición-de-equilibrioecuánto-tiempo-tardará-la-esfera-c-en-ir-desde-a-hasta-ofpara10-ncq-10-cmd-y1gm--calcula-el-valor-del-periodo-t-de-una-oscilación-completa-de-laesfera-c-alrededor-del-punto-odatos--constante-de-coulomb92-219-10-n-mc4opiepsilon">P2. Carga oscilante.
+Considera dos pequeñas esferas sujetas en los extremos de una varilla no conductora de longitud 2d
+(Figura 1). Una tercera esfera C tiene masa m y puede deslizar sin rozamiento en la varilla. Las tres esferas son
+no conductoras y cada una tiene una carga eléctrica q distribuida sobre su superficie. Se separa la esfera C una
+distancia x de la posición de equilibrio O.
+Fig. 1
+a)
+Halla la expresión de la fuerza que actúa sobre la esfera C cuando se encuentra a distancia x de la posición
+de equilibrio.
+b)
+¿Cuál es la expresión de la fuerza sobre la esfera C si se considera que x &lt;&lt; d ?
+Se desplaza la esfera C hasta un punto A, a una distancia x = d/20 hacia la derecha de O, como se observa
+en la figura, y se libera.
+c)
+Calcula la velocidad que llevará la esfera C cuando pase por la posición de equilibrio O.
+d)
+Calcula la frecuencia angular de oscilación de la esfera C alrededor de la posición de equilibrio.
+e)
+¿Cuánto tiempo tardará la esfera C en ir desde A hasta O.
+f)
+Para
+10 nC
+q =
+,
+10 cm
+d =
+y
+1g
+m =
+, calcula el valor del periodo T de una oscilación completa de la
+esfera C alrededor del punto O.
+Datos: * Constante de Coulomb,
+9
+2
+-2
+1
+9 10 N m
+C
+4
+o
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#p2-carga-oscilanteconsidera-dos-pequeñas-esferas-sujetas-en-los-extremos-de-una-varilla-no-conductora-de-longitud-2dfigura-1-una-tercera-esfera-c-tiene-masa-m-y-puede-deslizar-sin-rozamiento-en-la-varilla-las-tres-esferas-sonno-conductoras-y-cada-una-tiene-una-carga-eléctrica-q-distribuida-sobre-su-superficie-se-separa-la-esfera-c-unadistancia-x-de-la-posición-de-equilibrio-ofig-1ahalla-la-expresión-de-la-fuerza-que-actúa-sobre-la-esfera-c-cuando-se-encuentra-a-distancia-x-de-la-posiciónde-equilibriobcuál-es-la-expresión-de-la-fuerza-sobre-la-esfera-c-si-se-considera-que-x--d-se-desplaza-la-esfera-c-hasta-un-punto-a-a-una-distancia-x--d20-hacia-la-derecha-de-o-como-se-observaen-la-figura-y-se-liberaccalcula-la-velocidad-que-llevará-la-esfera-c-cuando-pase-por-la-posición-de-equilibrio-odcalcula-la-frecuencia-angular-de-oscilación-de-la-esfera-c-alrededor-de-la-posición-de-equilibrioecuánto-tiempo-tardará-la-esfera-c-en-ir-desde-a-hasta-ofpara10-ncq-10-cmd-y1gm--calcula-el-valor-del-periodo-t-de-una-oscilación-completa-de-laesfera-c-alrededor-del-punto-odatos--constante-de-coulomb92-219-10-n-mc4opiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="cdotcdotcdot91nc10c-"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4445em;"></span><span class="mord">⋅</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4445em;"></span><span class="mord">⋅</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4445em;"></span><span class="mord">⋅</span></span></span></span>
+*
+9
+1nC
+10
+C
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#cdotcdotcdot91nc10c-" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="xqqqddoca33-olimpiada-española-de-físicafase-de-aragónp2-soluciónala-fuerza-sobre-la-esfera-cargada-c-será-la-suma-de-las-fuerzas-producidas-sobre-ella-por-cada-una-de-lasesferas-cargadas-de-los-extremos12fff">x
+q
+q
+q
+d
+d
+O
+C
+A
+33 OLIMPIADA ESPAÑOLA DE FÍSICA
+FASE DE ARAGÓN
+P2. Solución
+a)
+La fuerza sobre la esfera cargada C será la suma de las fuerzas producidas sobre ella por cada una de las
+esferas cargadas de los extremos,
+1
+2
+F
+F
+F<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#xqqqddoca33-olimpiada-española-de-físicafase-de-aragónp2-soluciónala-fuerza-sobre-la-esfera-cargada-c-será-la-suma-de-las-fuerzas-producidas-sobre-ella-por-cada-una-de-lasesferas-cargadas-de-los-extremos12fff" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<ul>
+<li></li>
+</ul>
+<h1 id="-ambas-fuerzas-son-repulsivas-la-fuerza-que-ejerce-cadauna-de-las-esferas-sobre-la-esfera-c-es-la-misma-que-se-ejercería-entre-dos-cargas-puntuales22221144ooqqfdxdxpiepsilonpiepsilon">. Ambas fuerzas son repulsivas. La fuerza que ejerce cada
+una de las esferas sobre la esfera C es la misma que se ejercería entre dos cargas puntuales,
+2
+2
+2
+2
+1
+1
+4
+4
+(
+)
+(
+)
+o
+o
+q
+q
+F
+d
+x
+d
+x
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-ambas-fuerzas-son-repulsivas-la-fuerza-que-ejerce-cadauna-de-las-esferas-sobre-la-esfera-c-es-la-misma-que-se-ejercería-entre-dos-cargas-puntuales22221144ooqqfdxdxpiepsilonpiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="--rightarrow22214cdot4-oq-d-xfdxdxpiepsilon---1b-si-x--d-podemos-aproximar22xdd--approxy22xdd-approxen-la-expresión-1-de-modo-que23144oq-xfdpiepsilonapprox-2cla-fuerza-eléctrica-sobre-la-carga-q-es-conservativa-por-lo-tanto-se-conserva-la-energía-mecánica-entre-ay-o22221111244422020oooqqqmvdddddpiepsilonpiepsilonpiepsilon"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
++
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+2
+2
+2
+1
+4
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4445em;"></span><span class="mord">⋅</span></span></span></span>
+4
+(
+) (
+)
+o
+q d x
+F
+d
+x
+d
+x
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span>
+= <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
++
+(1)
+b) Si x &lt;&lt; d, podemos aproximar
+2
+2
+(
+)
+x
+d
+d <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span></span></span></span>
+y
+2
+2
+(
+)
+x
+d
+d +
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span></span></span></span>
+en la expresión (1) de modo que
+2
+3
+1
+4
+4
+o
+q x
+F
+d
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+(2)
+c)
+La fuerza eléctrica sobre la carga q es conservativa, por lo tanto, se conserva la energía mecánica entre A
+y O.
+2
+2
+2
+2
+1
+1
+1
+1
+2
+4
+4
+4
+2
+20
+20
+o
+o
+o
+q
+q
+q
+mv
+d
+d
+d
+d
+d
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span>
++<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#--rightarrow22214cdot4-oq-d-xfdxdxpiepsilon---1b-si-x--d-podemos-aproximar22xdd--approxy22xdd-approxen-la-expresión-1-de-modo-que23144oq-xfdpiepsilonapprox-2cla-fuerza-eléctrica-sobre-la-carga-q-es-conservativa-por-lo-tanto-se-conserva-la-energía-mecánica-entre-ay-o22221111244422020oooqqqmvdddddpiepsilonpiepsilonpiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<ul>
+<li></li>
+<li></li>
+</ul>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span></p>
+<h1 id="rightarrow2101-4oqvmdpiepsilon"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+2
+1
+0,1 4
+o
+q
+v
+md
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#rightarrow2101-4oqvmdpiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="3den-la-expresión-2-se-observa-que-la-fuerza-f-es-proporcional-a-la-distancia-x-de-separación-de-la-posiciónde-equilibrio-y-de-sentido-contrario-similar-a-una-fuerza-elástica-fkx---a-partir-de-lo-que-podemosdeterminar-la-constante-elástica-k-del-sistema23144oq-xkxdpiepsilon">(3)
+d)
+En la expresión (2) se observa que la fuerza F es proporcional a la distancia x de separación de la posición
+de equilibrio, y de sentido contrario, similar a una fuerza elástica F
+Kx
+= <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+, a partir de lo que podemos
+determinar la “constante elástica” K del sistema,
+2
+3
+1
+4
+4
+o
+q x
+Kx
+d
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#3den-la-expresión-2-se-observa-que-la-fuerza-f-es-proporcional-a-la-distancia-x-de-separación-de-la-posiciónde-equilibrio-y-de-sentido-contrario-similar-a-una-fuerza-elástica-fkx---a-partir-de-lo-que-podemosdeterminar-la-constante-elástica-k-del-sistema23144oq-xkxdpiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="rightarrow23144oqkdpiepsilon"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+2
+3
+1
+4
+4
+o
+q
+K
+d
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#rightarrow23144oqkdpiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="4la-frecuencia-angularde-oscilación-alrededor-de-la-posición-de-equilibrio-vendrá-dada-porkmomega-rightarrow23144oqmdomegapiepsilon">(4)
+La frecuencia angular
+de oscilación alrededor de la posición de equilibrio vendrá dada por
+K
+m
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">ω</span></span></span></span> =
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+2
+3
+1
+4
+4
+o
+q
+md
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">ω</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#4la-frecuencia-angularde-oscilación-alrededor-de-la-posición-de-equilibrio-vendrá-dada-porkmomega-rightarrow23144oqmdomegapiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="5eel-tiempo-que-tardará-la-partícula-c-en-ir-de-a-hasta-o-será-un-cuarto-del-periodo-t-tiempo-que-tarda-enrealizar-una-oscilación-completa-y-volver-a-a-a-partir-de-la-expresión-5-se-obtiene321-4omdtqpipiomegapiepsilon">(5)
+e)
+El tiempo que tardará la partícula C en ir de A hasta O será un cuarto del periodo T, tiempo que tarda en
+realizar una oscilación completa y volver a A. A partir de la expresión (5) se obtiene
+3
+2
+(1/ 4
+)
+o
+md
+T
+q
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">ω</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#5eel-tiempo-que-tardará-la-partícula-c-en-ir-de-a-hasta-o-será-un-cuarto-del-periodo-t-tiempo-que-tarda-enrealizar-una-oscilación-completa-y-volver-a-a-a-partir-de-la-expresión-5-se-obtiene321-4omdtqpipiomegapiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="6de-modo-que-el-tiempo-para-ir-de-a-hasta-o-será4tt-rightarrow341-4omdtqpipiepsilon">=
+(6)
+De modo que el tiempo para ir de A hasta O será
+4
+T
+t =
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+3
+4
+(1/ 4
+)
+o
+md
+t
+q
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#6de-modo-que-el-tiempo-para-ir-de-a-hasta-o-será4tt-rightarrow341-4omdtqpipiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>(7)
+f)
+Expresando q, m y d en unidades del Sistema Internacional y sustituyendo en la expresión (6) obtenemos
+3,31s
+T =
+33 OLIMPIADA ESPAÑOLA DE FÍSICA
+FASE DE ARAGÓN</p>
+
+<p><img src="../_attachments/2022-33_oaf_2022_prueba_teorica/2022-33_oaf_2022_prueba_teorica_p5_f3.png" alt width="auto" height="auto"/>
+<em>Tre sfere cariche su asta non conduttrice</em></p>
+
+<p><strong>Topic:</strong> <a href="../topics/electrostatics" class="internal internal-link" data-slug="topics/electrostatics">Electrostatics</a>, <a href="../topics/oscillations--and--waves" class="internal internal-link alias" data-slug="topics/oscillations--and--waves">Oscillations &amp; Waves</a>
+<strong>Metodi:</strong> <a href="../methods/coulomb's-law-(metodo)" class="internal internal-link alias" data-slug="methods/coulomb's-law-(metodo)">Coulomb’s Law</a>, <a href="../methods/small-angle-approximation-(metodo)" class="internal internal-link alias" data-slug="methods/small-angle-approximation-(metodo)">Small-Angle Approximation</a>, <a href="../methods/simple-harmonic-motion-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/simple-harmonic-motion-analysis-(metodo)">Simple Harmonic Motion Analysis</a>, <a href="../methods/energy-conservation-method-(metodo)" class="internal internal-link alias" data-slug="methods/energy-conservation-method-(metodo)">Energy Conservation Method</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/sphere-(object)" class="internal internal-link alias" data-slug="objects/sphere-(object)">Sphere</a>, <a href="../objects/rod-(object)" class="internal internal-link alias" data-slug="objects/rod-(object)">Rod</a>, <a href="../objects/point-charge-(object)" class="internal internal-link alias" data-slug="objects/point-charge-(object)">Point Charge</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1YHxsQLC0x15NRB82OW60QvWvOYRAuOqV/view" class="external external-link">Testo (PDF) — p.5<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="it"></div>
+<h1 id="p2-carico-oscilanteconsidera-due-piccole-sfere-attaccate-alle-estremità-di-un-bastone-non-conduttore-di-lunghezza-2dfigura-1-una-terza-sfera-c-ha-massa-m-e-può-scivolare-senza-rottura-sul-bastone-le-tre-sfere-sonole-parti-di-questo-sistema-sono-di-tipo-non-conduttore-e-ognuna-ha-una-carica-elettrica-distribuita-sulla-sua-superficie-separazione-della-sfera-c-unadistanza-x-dalla-posizione-di-equilibrio-ofig-1atrova-lespressione-della-forza-che-agisce-sulla-sfera-c-quando-si-trova-a-distanza-x-dalla-posizionedi-equilibriobqual-è-lespressione-della-forza-sulla-sfera-c-se-si-considera-che-x--d-la-sfera-c-viene-spostata-fino-a-un-punto-a-a-una-distanza-x--d20-verso-la-destra-di-o-come-si-osservanella-figura-e-si-liberaccalcola-la-velocità-che-la-sfera-c-porterà-quando-passerà-attraverso-la-posizione-di-equilibrio-odcalcola-la-frequenza-angolare-di-oscillazione-della-sfera-c-attorno-alla-posizione-di-equilibrioequanto-tempo-ci-vorrà-per-la-sfera-c-di-andare-da-a-a-ofper10-ncq-10-cmd-y1gm--calcola-il-valore-del-periodo-t-di-unoscillazione-completa-dellasfera-c-intorno-al-punto-odata--costante-di-coulomb92-219-10-n-mc4opiepsilon">P2. Carico oscilante.
+Considera due piccole sfere attaccate alle estremità di un bastone non conduttore di lunghezza 2d
+(Figura 1). Una terza sfera C ha massa m e può scivolare senza rottura sul bastone. Le tre sfere sono
+Le parti di questo sistema sono di tipo non conduttore e ognuna ha una carica elettrica distribuita sulla sua superficie. Separazione della sfera C una
+Distanza x dalla posizione di equilibrio O.
+Fig. 1
+a)
+Trova l’espressione della forza che agisce sulla sfera C quando si trova a distanza x dalla posizione
+di equilibrio.
+b)
+Qual è l’espressione della forza sulla sfera C se si considera che x &lt;&lt; d ?
+La sfera C viene spostata fino a un punto A, a una distanza x = d/20 verso la destra di O, come si osserva
+nella figura, e si libera.
+c)
+Calcola la velocità che la sfera C porterà quando passerà attraverso la posizione di equilibrio O.
+d)
+Calcola la frequenza angolare di oscillazione della sfera C attorno alla posizione di equilibrio.
+e)
+Quanto tempo ci vorrà per la sfera C di andare da A a O.
+f)
+Per
+10 nC
+q =
+,
+10 cm
+d =
+y
+1g
+m =
+, calcola il valore del periodo T di un’oscillazione completa della
+sfera C intorno al punto O.
+Data: * Costante di Coulomb,
+9
+2
+-2
+1
+9 10 N m
+C
+4
+o
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#p2-carico-oscilanteconsidera-due-piccole-sfere-attaccate-alle-estremità-di-un-bastone-non-conduttore-di-lunghezza-2dfigura-1-una-terza-sfera-c-ha-massa-m-e-può-scivolare-senza-rottura-sul-bastone-le-tre-sfere-sonole-parti-di-questo-sistema-sono-di-tipo-non-conduttore-e-ognuna-ha-una-carica-elettrica-distribuita-sulla-sua-superficie-separazione-della-sfera-c-unadistanza-x-dalla-posizione-di-equilibrio-ofig-1atrova-lespressione-della-forza-che-agisce-sulla-sfera-c-quando-si-trova-a-distanza-x-dalla-posizionedi-equilibriobqual-è-lespressione-della-forza-sulla-sfera-c-se-si-considera-che-x--d-la-sfera-c-viene-spostata-fino-a-un-punto-a-a-una-distanza-x--d20-verso-la-destra-di-o-come-si-osservanella-figura-e-si-liberaccalcola-la-velocità-che-la-sfera-c-porterà-quando-passerà-attraverso-la-posizione-di-equilibrio-odcalcola-la-frequenza-angolare-di-oscillazione-della-sfera-c-attorno-alla-posizione-di-equilibrioequanto-tempo-ci-vorrà-per-la-sfera-c-di-andare-da-a-a-ofper10-ncq-10-cmd-y1gm--calcola-il-valore-del-periodo-t-di-unoscillazione-completa-dellasfera-c-intorno-al-punto-odata--costante-di-coulomb92-219-10-n-mc4opiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="cdotcdotcdot91nc10c--1"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4445em;"></span><span class="mord">⋅</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4445em;"></span><span class="mord">⋅</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4445em;"></span><span class="mord">⋅</span></span></span></span>
+*
+9
+1nC
+10
+C
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#cdotcdotcdot91nc10c--1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="xqqqddoca33-olimpiadi-di-fisica-in-spagnafase-di-aragonp2-soluzioneala-forza-sulla-sfera-carica-c-sarà-la-somma-delle-forze-prodotte-su-di-essa-da-ciascuna-dellesfere-cariche-dalle-estremità12fff">x
+q
+q
+q
+d
+d
+O
+C
+A
+33 Olimpiadi di Fisica in Spagna
+Fase di ARAGON
+P2. Soluzione
+a)
+La forza sulla sfera carica C sarà la somma delle forze prodotte su di essa da ciascuna delle
+sfere cariche dalle estremità,
+1
+2
+F
+F
+F<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#xqqqddoca33-olimpiadi-di-fisica-in-spagnafase-di-aragonp2-soluzioneala-forza-sulla-sfera-carica-c-sarà-la-somma-delle-forze-prodotte-su-di-essa-da-ciascuna-dellesfere-cariche-dalle-estremità12fff" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<ul>
+<li></li>
+</ul>
+<h1 id="-entrambe-le-forze-sono-ripugnanti-la-forza-esercitata-da-ogniuna-sfera-sopra-la-sfera-c-è-la-stessa-che-si-eserciterebbe-tra-due-carichi-puntiali22221144ooqqfdxdxpiepsilonpiepsilon">. Entrambe le forze sono ripugnanti. La forza esercitata da ogni
+una sfera sopra la sfera C è la stessa che si eserciterebbe tra due carichi puntiali,
+2
+2
+2
+2
+1
+1
+4
+4
+(
+)
+(
+)
+o
+o
+q
+q
+F
+d
+x
+d
+x
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-entrambe-le-forze-sono-ripugnanti-la-forza-esercitata-da-ogniuna-sfera-sopra-la-sfera-c-è-la-stessa-che-si-eserciterebbe-tra-due-carichi-puntiali22221144ooqqfdxdxpiepsilonpiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="--rightarrow22214cdot4-oq-d-xfdxdxpiepsilon---1b-se-x--d-possiamo-avvicinare22xdd--approxy22xdd-approxin-espressione-1-in-modo-che23144oq-xfdpiepsilonapprox-2cla-forza-elettrica-sulla-carica-q-è-conservatrice-quindi-lenergia-meccanica-viene-conservata-tra-a-e-ay-o22221111244422020oooqqqmvdddddpiepsilonpiepsilonpiepsilon"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
++
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+2
+2
+2
+1
+4
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4445em;"></span><span class="mord">⋅</span></span></span></span>
+4
+(
+) (
+)
+o
+q d x
+F
+d
+x
+d
+x
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span>
+= <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
++
+(1)
+b) Se x &lt;&lt; d, possiamo avvicinare
+2
+2
+(
+)
+x
+d
+d <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span></span></span></span>
+y
+2
+2
+(
+)
+x
+d
+d +
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span></span></span></span>
+in espressione (1) in modo che
+2
+3
+1
+4
+4
+o
+q x
+F
+d
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+(2)
+c)
+La forza elettrica sulla carica q è conservatrice, quindi l’energia meccanica viene conservata tra A e A.
+y O.
+2
+2
+2
+2
+1
+1
+1
+1
+2
+4
+4
+4
+2
+20
+20
+o
+o
+o
+q
+q
+q
+mv
+d
+d
+d
+d
+d
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span>
++<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#--rightarrow22214cdot4-oq-d-xfdxdxpiepsilon---1b-se-x--d-possiamo-avvicinare22xdd--approxy22xdd-approxin-espressione-1-in-modo-che23144oq-xfdpiepsilonapprox-2cla-forza-elettrica-sulla-carica-q-è-conservatrice-quindi-lenergia-meccanica-viene-conservata-tra-a-e-ay-o22221111244422020oooqqqmvdddddpiepsilonpiepsilonpiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<ul>
+<li></li>
+<li></li>
+</ul>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span></p>
+<h1 id="rightarrow2101-4oqvmdpiepsilon-1"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+2
+1
+0,1 4
+o
+q
+v
+md
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#rightarrow2101-4oqvmdpiepsilon-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="3dnella-espressione-2-si-osserva-che-la-forza-f-è-proporzionale-alla-distanza-x-di-separazione-della-posizionedi-equilibrio-e-di-senso-contrario-simile-a-una-forza-elastica-fkx---da-quanto-possiamodeterminare-la-costante-elastica-k-del-sistema23144oq-xkxdpiepsilon">(3)
+d)
+Nella espressione (2) si osserva che la forza F è proporzionale alla distanza x di separazione della posizione
+di equilibrio, e di senso contrario, simile a una forza elastica F
+Kx
+= <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+, da quanto possiamo
+determinare la costante elastica K del sistema,
+2
+3
+1
+4
+4
+o
+q x
+Kx
+d
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#3dnella-espressione-2-si-osserva-che-la-forza-f-è-proporzionale-alla-distanza-x-di-separazione-della-posizionedi-equilibrio-e-di-senso-contrario-simile-a-una-forza-elastica-fkx---da-quanto-possiamodeterminare-la-costante-elastica-k-del-sistema23144oq-xkxdpiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="rightarrow23144oqkdpiepsilon-1"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+2
+3
+1
+4
+4
+o
+q
+K
+d
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#rightarrow23144oqkdpiepsilon-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="4frequenza-angolaredi-oscillazione-intorno-alla-posizione-di-equilibrio-verrà-data-dakmomega-rightarrow23144oqmdomegapiepsilon">(4)
+Frequenza angolare
+di oscillazione intorno alla posizione di equilibrio verrà data da
+K
+m
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">ω</span></span></span></span> =
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+2
+3
+1
+4
+4
+o
+q
+md
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">ω</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#4frequenza-angolaredi-oscillazione-intorno-alla-posizione-di-equilibrio-verrà-data-dakmomega-rightarrow23144oqmdomegapiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="5eil-tempo-che-ci-vorrà-per-la-particella-c-di-andare-da-a-a-o-sarà-un-quarto-del-periodo-t-tempo-che-ci-vorrà-perfare-unoscillazione-completa-e-tornare-a-a-lespressione-5-è321-4omdtqpipiomegapiepsilon">(5)
+e)
+Il tempo che ci vorrà per la particella C di andare da A a O sarà un quarto del periodo T, tempo che ci vorrà per
+fare un’oscillazione completa e tornare a A. L’espressione (5) è
+3
+2
+(1/ 4
+)
+o
+md
+T
+q
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">ω</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#5eil-tempo-che-ci-vorrà-per-la-particella-c-di-andare-da-a-a-o-sarà-un-quarto-del-periodo-t-tempo-che-ci-vorrà-perfare-unoscillazione-completa-e-tornare-a-a-lespressione-5-è321-4omdtqpipiomegapiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="6quindi-il-tempo-per-andare-da-a-a-o-sarà4tt-rightarrow341-4omdtqpipiepsilon">=
+(6)
+Quindi il tempo per andare da A a O sarà
+4
+T
+t =
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+3
+4
+(1/ 4
+)
+o
+md
+t
+q
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#6quindi-il-tempo-per-andare-da-a-a-o-sarà4tt-rightarrow341-4omdtqpipiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>(7)
+f)
+Esprimendo q, m e d in unità del Sistema Internazionale e sostituendo in espressione (6) otteniamo
+3,31s
+T =
+33 Olimpiadi di Fisica in Spagna
+Fase di ARAGON</p>
+
+<p><img src="../_attachments/2022-33_oaf_2022_prueba_teorica/2022-33_oaf_2022_prueba_teorica_p5_f3.png" alt width="auto" height="auto"/>
+<em>Tre sfere carica la sua asta non conduttrice</em></p>
+
+<p><strong>Topic:</strong> <a href="../topics/electrostatics" class="internal internal-link" data-slug="topics/electrostatics">Electrostatics</a>, <a href="../topics/oscillations--and--waves" class="internal internal-link alias" data-slug="topics/oscillations--and--waves">Oscillations &amp; Waves</a>
+<strong>Metodi:</strong> <a href="../methods/coulomb's-law-(metodo)" class="internal internal-link alias" data-slug="methods/coulomb's-law-(metodo)">Coulomb’s Law</a>, <a href="../methods/small-angle-approximation-(metodo)" class="internal internal-link alias" data-slug="methods/small-angle-approximation-(metodo)">Small-Angle Approximation</a>, <a href="../methods/simple-harmonic-motion-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/simple-harmonic-motion-analysis-(metodo)">Simple Harmonic Motion Analysis</a>, <a href="../methods/energy-conservation-method-(metodo)" class="internal internal-link alias" data-slug="methods/energy-conservation-method-(metodo)">Energy Conservation Method</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/sphere-(object)" class="internal internal-link alias" data-slug="objects/sphere-(object)">Sphere</a>, <a href="../objects/rod-(object)" class="internal internal-link alias" data-slug="objects/rod-(object)">Rod</a>, <a href="../objects/point-charge-(object)" class="internal internal-link alias" data-slug="objects/point-charge-(object)">Point Charge</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1YHxsQLC0x15NRB82OW60QvWvOYRAuOqV/view" class="external external-link">Testo (PDF) — p.5<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<h1 id="p2-its-a-swinging-chargeconsider-two-small-spheres-attached-at-the-ends-of-a-non-conductive-rod-of-length-2dthe-commission-has-not-yet-adopted-a-proposal-a-third-c-sphere-has-mass-m-and-can-slide-without-a-scratch-on-the-rod-the-three-spheres-areeach-of-these-is-non-conductive-and-each-has-an-electrical-charge-distributed-over-its-surface-the-sphere-c-one-is-separateddistance-x-from-the-equilibrium-position-ofig-1afind-the-expression-of-the-force-acting-on-the-sphere-c-when-it-is-at-a-distance-x-from-the-positionthe-balancebwhat-is-the-expression-of-the-force-on-the-sphere-c-if-we-consider-that-x--dthe-sphere-c-is-moved-to-a-point-a-at-a-distance-x--d20-to-the-right-of-o-as-seenin-the-figure-and-its-releasedccalculate-the-speed-the-sphere-c-will-travel-at-when-it-passes-through-the-equilibrium-position-odcalculate-the-angular-frequency-of-oscillation-of-the-sphere-c-around-the-equilibrium-positionehow-long-will-it-take-the-c-sphere-to-go-from-a-to-ofstop10-ncq-10-cmd-y1gm--calculates-the-value-of-the-period-t-of-a-complete-oscillation-of-thesphere-c-around-the-point-othe-data-set-is-the-following92-219-10-n-mc4opiepsilon">P2. It’s a swinging charge.
+Consider two small spheres attached at the ends of a non-conductive rod of length 2d
+The Commission has not yet adopted a proposal. A third C-sphere has mass m and can slide without a scratch on the rod. The three spheres are
+Each of these is non-conductive and each has an electrical charge distributed over its surface. The sphere C one is separated
+distance x from the equilibrium position O.
+Fig. 1
+a)
+Find the expression of the force acting on the sphere C when it is at a distance x from the position
+The balance.
+b)
+What is the expression of the force on the sphere C if we consider that x &lt; d?
+The sphere C is moved to a point A, at a distance x = d/20 to the right of O, as seen
+In the figure, and it’s released.
+c)
+Calculate the speed the sphere C will travel at when it passes through the equilibrium position O.
+d)
+Calculate the angular frequency of oscillation of the sphere C around the equilibrium position.
+e)
+How long will it take the C-sphere to go from A to O?
+f)
+Stop
+10 nC
+q =
+,
+10 cm
+d =
+y
+1g
+m =
+, calculates the value of the period T of a complete oscillation of the
+Sphere C around the point O.
+The data set is the following:
+9
+2
+-2
+1
+9 10 N m
+C
+4
+o
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#p2-its-a-swinging-chargeconsider-two-small-spheres-attached-at-the-ends-of-a-non-conductive-rod-of-length-2dthe-commission-has-not-yet-adopted-a-proposal-a-third-c-sphere-has-mass-m-and-can-slide-without-a-scratch-on-the-rod-the-three-spheres-areeach-of-these-is-non-conductive-and-each-has-an-electrical-charge-distributed-over-its-surface-the-sphere-c-one-is-separateddistance-x-from-the-equilibrium-position-ofig-1afind-the-expression-of-the-force-acting-on-the-sphere-c-when-it-is-at-a-distance-x-from-the-positionthe-balancebwhat-is-the-expression-of-the-force-on-the-sphere-c-if-we-consider-that-x--dthe-sphere-c-is-moved-to-a-point-a-at-a-distance-x--d20-to-the-right-of-o-as-seenin-the-figure-and-its-releasedccalculate-the-speed-the-sphere-c-will-travel-at-when-it-passes-through-the-equilibrium-position-odcalculate-the-angular-frequency-of-oscillation-of-the-sphere-c-around-the-equilibrium-positionehow-long-will-it-take-the-c-sphere-to-go-from-a-to-ofstop10-ncq-10-cmd-y1gm--calculates-the-value-of-the-period-t-of-a-complete-oscillation-of-thesphere-c-around-the-point-othe-data-set-is-the-following92-219-10-n-mc4opiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="cdotcdotcdot91nc10c--2"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4445em;"></span><span class="mord">⋅</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4445em;"></span><span class="mord">⋅</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4445em;"></span><span class="mord">⋅</span></span></span></span>
+*
+9
+1nC
+10
+C
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#cdotcdotcdot91nc10c--2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="xqqqddoca33-spanish-olympics-in-physicsthe-following-is-the-list-of-the-categories-of-productsp2-solutionathe-force-on-the-charged-sphere-c-is-the-sum-of-the-forces-produced-on-it-by-each-of-thecharged-spheres-from-the-ends12fff">x
+q
+q
+q
+d
+d
+O
+C
+A
+33 Spanish Olympics in Physics
+The following is the list of the categories of products:
+P2. Solution
+a)
+The force on the charged sphere C is the sum of the forces produced on it by each of the
+Charged spheres from the ends,
+1
+2
+F
+F
+F<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#xqqqddoca33-spanish-olympics-in-physicsthe-following-is-the-list-of-the-categories-of-productsp2-solutionathe-force-on-the-charged-sphere-c-is-the-sum-of-the-forces-produced-on-it-by-each-of-thecharged-spheres-from-the-ends12fff" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<ul>
+<li></li>
+</ul>
+<h1 id="-both-forces-are-repulsive-the-force-exerted-by-eachone-of-the-spheres-above-the-sphere-c-is-the-same-as-would-be-exercised-between-two-point-loads22221144ooqqfdxdxpiepsilonpiepsilon">. Both forces are repulsive. The force exerted by each
+one of the spheres above the sphere C is the same as would be exercised between two point loads,
+2
+2
+2
+2
+1
+1
+4
+4
+(
+)
+(
+)
+o
+o
+q
+q
+F
+d
+x
+d
+x
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-both-forces-are-repulsive-the-force-exerted-by-eachone-of-the-spheres-above-the-sphere-c-is-the-same-as-would-be-exercised-between-two-point-loads22221144ooqqfdxdxpiepsilonpiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="--rightarrow22214cdot4-oq-d-xfdxdxpiepsilon---1b-if-x--d-we-can-approximate22xdd--approxy22xdd-approxin-expression-1-so-that23144oq-xfdpiepsilonapprox-2cthe-electrical-force-on-the-charge-q-is-conservative-therefore-the-mechanical-energy-is-conserved-between-a-and-ay-o22221111244422020oooqqqmvdddddpiepsilonpiepsilonpiepsilon"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
++
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+2
+2
+2
+1
+4
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4445em;"></span><span class="mord">⋅</span></span></span></span>
+4
+(
+) (
+)
+o
+q d x
+F
+d
+x
+d
+x
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span>
+= <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
++
+(1)
+(b) If x &lt;&lt; d, we can approximate
+2
+2
+(
+)
+x
+d
+d <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span></span></span></span>
+y
+2
+2
+(
+)
+x
+d
+d +
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span></span></span></span>
+in expression (1) so that
+2
+3
+1
+4
+4
+o
+q x
+F
+d
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+(2)
+c)
+The electrical force on the charge q is conservative, therefore the mechanical energy is conserved between A and A.
+y O.
+2
+2
+2
+2
+1
+1
+1
+1
+2
+4
+4
+4
+2
+20
+20
+o
+o
+o
+q
+q
+q
+mv
+d
+d
+d
+d
+d
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span>
++<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#--rightarrow22214cdot4-oq-d-xfdxdxpiepsilon---1b-if-x--d-we-can-approximate22xdd--approxy22xdd-approxin-expression-1-so-that23144oq-xfdpiepsilonapprox-2cthe-electrical-force-on-the-charge-q-is-conservative-therefore-the-mechanical-energy-is-conserved-between-a-and-ay-o22221111244422020oooqqqmvdddddpiepsilonpiepsilonpiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<ul>
+<li></li>
+<li></li>
+</ul>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span></p>
+<h1 id="rightarrow2101-4oqvmdpiepsilon-2"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+2
+1
+0,1 4
+o
+q
+v
+md
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#rightarrow2101-4oqvmdpiepsilon-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="3din-expression-2-it-is-noted-that-the-force-f-is-proportional-to-the-distance-x-from-the-positionof-a-kind-used-for-the-manufacture-of-electrical-equipmentkx---from-what-we-candetermine-the--elastic-constant--k-of-the-system23144oq-xkxdpiepsilon">(3)
+d)
+In expression (2) it is noted that the force F is proportional to the distance x from the position
+of a kind used for the manufacture of electrical equipment
+Kx
+= <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+, from what we can
+determine the  elastic constant  K of the system,
+2
+3
+1
+4
+4
+o
+q x
+Kx
+d
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#3din-expression-2-it-is-noted-that-the-force-f-is-proportional-to-the-distance-x-from-the-positionof-a-kind-used-for-the-manufacture-of-electrical-equipmentkx---from-what-we-candetermine-the--elastic-constant--k-of-the-system23144oq-xkxdpiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="rightarrow23144oqkdpiepsilon-2"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+2
+3
+1
+4
+4
+o
+q
+K
+d
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#rightarrow23144oqkdpiepsilon-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="4angular-frequencyof-oscillation-around-the-equilibrium-position-will-be-given-bykmomega-rightarrow23144oqmdomegapiepsilon">(4)
+Angular frequency
+of oscillation around the equilibrium position will be given by
+K
+m
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">ω</span></span></span></span> =
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+2
+3
+1
+4
+4
+o
+q
+md
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">ω</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#4angular-frequencyof-oscillation-around-the-equilibrium-position-will-be-given-bykmomega-rightarrow23144oqmdomegapiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="5ethe-time-it-will-take-the-particle-c-to-go-from-a-to-o-will-be-one-quarter-of-the-period-t-the-time-it-takes-tomake-a-complete-oscillation-and-go-back-to-a-from-the-expression-5-is-obtained321-4omdtqpipiomegapiepsilon">(5)
+e)
+The time it will take the particle C to go from A to O will be one quarter of the period T, the time it takes to
+Make a complete oscillation and go back to A. From the expression (5) is obtained
+3
+2
+(1/ 4
+)
+o
+md
+T
+q
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">ω</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#5ethe-time-it-will-take-the-particle-c-to-go-from-a-to-o-will-be-one-quarter-of-the-period-t-the-time-it-takes-tomake-a-complete-oscillation-and-go-back-to-a-from-the-expression-5-is-obtained321-4omdtqpipiomegapiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="6so-the-time-to-go-from-a-to-o-will-be4tt-rightarrow341-4omdtqpipiepsilon">=
+(6)
+So the time to go from A to O will be
+4
+T
+t =
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+3
+4
+(1/ 4
+)
+o
+md
+t
+q
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">π</span><span class="mord mathnormal">ϵ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#6so-the-time-to-go-from-a-to-o-will-be4tt-rightarrow341-4omdtqpipiepsilon" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>(7)
+f)
+Expressions q, m and d in units of the International System and substituting in the expression (6) are obtained
+3,31s
+T =
+33 Spanish Olympics in Physics
+The following is the list of the categories of products:</p>
+
+<p><img src="../_attachments/2022-33_oaf_2022_prueba_teorica/2022-33_oaf_2022_prueba_teorica_p5_f3.png" alt width="auto" height="auto"/>
+*Tre sphere charge its non-conductive axis *</p>
+
+<p><strong>Topic:</strong> <a href="../topics/electrostatics" class="internal internal-link" data-slug="topics/electrostatics">Electrostatics</a>, <a href="../topics/oscillations--and--waves" class="internal internal-link alias" data-slug="topics/oscillations--and--waves">Oscillations &amp; Waves</a>
+<strong>Metodi:</strong> <a href="../methods/coulomb's-law-(metodo)" class="internal internal-link alias" data-slug="methods/coulomb's-law-(metodo)">Coulomb’s Law</a>, <a href="../methods/small-angle-approximation-(metodo)" class="internal internal-link alias" data-slug="methods/small-angle-approximation-(metodo)">Small-Angle Approximation</a>, <a href="../methods/simple-harmonic-motion-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/simple-harmonic-motion-analysis-(metodo)">Simple Harmonic Motion Analysis</a>, <a href="../methods/energy-conservation-method-(metodo)" class="internal internal-link alias" data-slug="methods/energy-conservation-method-(metodo)">Energy Conservation Method</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/sphere-(object)" class="internal internal-link alias" data-slug="objects/sphere-(object)">Sphere</a>, <a href="../objects/rod-(object)" class="internal internal-link alias" data-slug="objects/rod-(object)">Rod</a>, <a href="../objects/point-charge-(object)" class="internal internal-link alias" data-slug="objects/point-charge-(object)">Point Charge</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1YHxsQLC0x15NRB82OW60QvWvOYRAuOqV/view" class="external external-link">Testo (PDF) — p.5<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"><div class="toc"><button type="button" class="toc-header" aria-controls="toc-119" aria-expanded="true"><h3>Indice</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-0" class="toc-content overflow"><li class="depth-0"><a href="#p2-carga-oscilanteconsidera-dos-pequeñas-esferas-sujetas-en-los-extremos-de-una-varilla-no-conductora-de-longitud-2dfigura-1-una-tercera-esfera-c-tiene-masa-m-y-puede-deslizar-sin-rozamiento-en-la-varilla-las-tres-esferas-sonno-conductoras-y-cada-una-tiene-una-carga-eléctrica-q-distribuida-sobre-su-superficie-se-separa-la-esfera-c-unadistancia-x-de-la-posición-de-equilibrio-ofig-1ahalla-la-expresión-de-la-fuerza-que-actúa-sobre-la-esfera-c-cuando-se-encuentra-a-distancia-x-de-la-posiciónde-equilibriobcuál-es-la-expresión-de-la-fuerza-sobre-la-esfera-c-si-se-considera-que-x--d-se-desplaza-la-esfera-c-hasta-un-punto-a-a-una-distancia-x--d20-hacia-la-derecha-de-o-como-se-observaen-la-figura-y-se-liberaccalcula-la-velocidad-que-llevará-la-esfera-c-cuando-pase-por-la-posición-de-equilibrio-odcalcula-la-frecuencia-angular-de-oscilación-de-la-esfera-c-alrededor-de-la-posición-de-equilibrioecuánto-tiempo-tardará-la-esfera-c-en-ir-desde-a-hasta-ofpara10-ncq-10-cmd-y1gm--calcula-el-valor-del-periodo-t-de-una-oscilación-completa-de-laesfera-c-alrededor-del-punto-odatos--constante-de-coulomb92-219-10-n-mc4opiepsilon" data-for="p2-carga-oscilanteconsidera-dos-pequeñas-esferas-sujetas-en-los-extremos-de-una-varilla-no-conductora-de-longitud-2dfigura-1-una-tercera-esfera-c-tiene-masa-m-y-puede-deslizar-sin-rozamiento-en-la-varilla-las-tres-esferas-sonno-conductoras-y-cada-una-tiene-una-carga-eléctrica-q-distribuida-sobre-su-superficie-se-separa-la-esfera-c-unadistancia-x-de-la-posición-de-equilibrio-ofig-1ahalla-la-expresión-de-la-fuerza-que-actúa-sobre-la-esfera-c-cuando-se-encuentra-a-distancia-x-de-la-posiciónde-equilibriobcuál-es-la-expresión-de-la-fuerza-sobre-la-esfera-c-si-se-considera-que-x--d-se-desplaza-la-esfera-c-hasta-un-punto-a-a-una-distancia-x--d20-hacia-la-derecha-de-o-como-se-observaen-la-figura-y-se-liberaccalcula-la-velocidad-que-llevará-la-esfera-c-cuando-pase-por-la-posición-de-equilibrio-odcalcula-la-frecuencia-angular-de-oscilación-de-la-esfera-c-alrededor-de-la-posición-de-equilibrioecuánto-tiempo-tardará-la-esfera-c-en-ir-desde-a-hasta-ofpara10-ncq-10-cmd-y1gm--calcula-el-valor-del-periodo-t-de-una-oscilación-completa-de-laesfera-c-alrededor-del-punto-odatos--constante-de-coulomb92-219-10-n-mc4opiepsilon">P2. Carga oscilante.
+Considera dos pequeñas esferas sujetas en los extremos de una varilla no conductora de longitud 2d
+(Figura 1). Una tercera esfera C tiene masa m y puede deslizar sin rozamiento en la varilla. Las tres esferas son
+no conductoras y cada una tiene una carga eléctrica q distribuida sobre su superficie. Se separa la esfera C una
+distancia x de la posición de equilibrio O.
+Fig. 1
+a)
+Halla la expresión de la fuerza que actúa sobre la esfera C cuando se encuentra a distancia x de la posición
+de equilibrio.
+b)
+¿Cuál es la expresión de la fuerza sobre la esfera C si se considera que x &lt;&lt; d ?
+Se desplaza la esfera C hasta un punto A, a una distancia x = d/20 hacia la derecha de O, como se observa
+en la figura, y se libera.
+c)
+Calcula la velocidad que llevará la esfera C cuando pase por la posición de equilibrio O.
+d)
+Calcula la frecuencia angular de oscilación de la esfera C alrededor de la posición de equilibrio.
+e)
+¿Cuánto tiempo tardará la esfera C en ir desde A hasta O.
+f)
+Para
+10 nC
+q =
+,
+10 cm
+d =
+y
+1g
+m =
+, calcula el valor del periodo T de una oscilación completa de la
+esfera C alrededor del punto O.
+Datos: * Constante de Coulomb,
+9
+2
+-2
+1
+9 10 N m
+C
+4
+o
+\pi\epsilon</a></li><li class="depth-0"><a href="#cdotcdotcdot91nc10c-" data-for="cdotcdotcdot91nc10c-">\cdot
+\cdot
+\cdot
+*
+9
+1nC
+10
+C
+-</a></li><li class="depth-0"><a href="#xqqqddoca33-olimpiada-española-de-físicafase-de-aragónp2-soluciónala-fuerza-sobre-la-esfera-cargada-c-será-la-suma-de-las-fuerzas-producidas-sobre-ella-por-cada-una-de-lasesferas-cargadas-de-los-extremos12fff" data-for="xqqqddoca33-olimpiada-española-de-físicafase-de-aragónp2-soluciónala-fuerza-sobre-la-esfera-cargada-c-será-la-suma-de-las-fuerzas-producidas-sobre-ella-por-cada-una-de-lasesferas-cargadas-de-los-extremos12fff">x
+q
+q
+q
+d
+d
+O
+C
+A
+33 OLIMPIADA ESPAÑOLA DE FÍSICA
+FASE DE ARAGÓN
+P2. Solución
+a)
+La fuerza sobre la esfera cargada C será la suma de las fuerzas producidas sobre ella por cada una de las
+esferas cargadas de los extremos,
+1
+2
+F
+F
+F</a></li><li class="depth-0"><a href="#-ambas-fuerzas-son-repulsivas-la-fuerza-que-ejerce-cadauna-de-las-esferas-sobre-la-esfera-c-es-la-misma-que-se-ejercería-entre-dos-cargas-puntuales22221144ooqqfdxdxpiepsilonpiepsilon" data-for="-ambas-fuerzas-son-repulsivas-la-fuerza-que-ejerce-cadauna-de-las-esferas-sobre-la-esfera-c-es-la-misma-que-se-ejercería-entre-dos-cargas-puntuales22221144ooqqfdxdxpiepsilonpiepsilon">. Ambas fuerzas son repulsivas. La fuerza que ejerce cada
+una de las esferas sobre la esfera C es la misma que se ejercería entre dos cargas puntuales,
+2
+2
+2
+2
+1
+1
+4
+4
+(
+)
+(
+)
+o
+o
+q
+q
+F
+d
+x
+d
+x
+\pi\epsilon
+\pi\epsilon</a></li><li class="depth-0"><a href="#--rightarrow22214cdot4-oq-d-xfdxdxpiepsilon---1b-si-x--d-podemos-aproximar22xdd--approxy22xdd-approxen-la-expresión-1-de-modo-que23144oq-xfdpiepsilonapprox-2cla-fuerza-eléctrica-sobre-la-carga-q-es-conservativa-por-lo-tanto-se-conserva-la-energía-mecánica-entre-ay-o22221111244422020oooqqqmvdddddpiepsilonpiepsilonpiepsilon" data-for="--rightarrow22214cdot4-oq-d-xfdxdxpiepsilon---1b-si-x--d-podemos-aproximar22xdd--approxy22xdd-approxen-la-expresión-1-de-modo-que23144oq-xfdpiepsilonapprox-2cla-fuerza-eléctrica-sobre-la-carga-q-es-conservativa-por-lo-tanto-se-conserva-la-energía-mecánica-entre-ay-o22221111244422020oooqqqmvdddddpiepsilonpiepsilonpiepsilon">-
++
+-
+\Rightarrow
+2
+2
+2
+1
+4
+\cdot
+4
+(
+) (
+)
+o
+q d x
+F
+d
+x
+d
+x
+\pi\epsilon
+= -
+-
++
+(1)
+b) Si x &lt;&lt; d, podemos aproximar
+2
+2
+(
+)
+x
+d
+d -
+\approx
+y
+2
+2
+(
+)
+x
+d
+d +
+\approx
+en la expresión (1) de modo que
+2
+3
+1
+4
+4
+o
+q x
+F
+d
+\pi\epsilon
+\approx-
+(2)
+c)
+La fuerza eléctrica sobre la carga q es conservativa, por lo tanto, se conserva la energía mecánica entre A
+y O.
+2
+2
+2
+2
+1
+1
+1
+1
+2
+4
+4
+4
+2
+20
+20
+o
+o
+o
+q
+q
+q
+mv
+d
+d
+d
+d
+d
+\pi\epsilon
+\pi\epsilon
+\pi\epsilon
++</a></li><li class="depth-0"><a href="#rightarrow2101-4oqvmdpiepsilon" data-for="rightarrow2101-4oqvmdpiepsilon">\Rightarrow
+2
+1
+0,1 4
+o
+q
+v
+md
+\pi\epsilon</a></li><li class="depth-0"><a href="#3den-la-expresión-2-se-observa-que-la-fuerza-f-es-proporcional-a-la-distancia-x-de-separación-de-la-posiciónde-equilibrio-y-de-sentido-contrario-similar-a-una-fuerza-elástica-fkx---a-partir-de-lo-que-podemosdeterminar-la-constante-elástica-k-del-sistema23144oq-xkxdpiepsilon" data-for="3den-la-expresión-2-se-observa-que-la-fuerza-f-es-proporcional-a-la-distancia-x-de-separación-de-la-posiciónde-equilibrio-y-de-sentido-contrario-similar-a-una-fuerza-elástica-fkx---a-partir-de-lo-que-podemosdeterminar-la-constante-elástica-k-del-sistema23144oq-xkxdpiepsilon">(3)
+d)
+En la expresión (2) se observa que la fuerza F es proporcional a la distancia x de separación de la posición
+de equilibrio, y de sentido contrario, similar a una fuerza elástica F
+Kx
+= -
+, a partir de lo que podemos
+determinar la “constante elástica” K del sistema,
+2
+3
+1
+4
+4
+o
+q x
+Kx
+d
+\pi\epsilon</a></li><li class="depth-0"><a href="#rightarrow23144oqkdpiepsilon" data-for="rightarrow23144oqkdpiepsilon">\Rightarrow
+2
+3
+1
+4
+4
+o
+q
+K
+d
+\pi\epsilon</a></li><li class="depth-0"><a href="#4la-frecuencia-angularde-oscilación-alrededor-de-la-posición-de-equilibrio-vendrá-dada-porkmomega-rightarrow23144oqmdomegapiepsilon" data-for="4la-frecuencia-angularde-oscilación-alrededor-de-la-posición-de-equilibrio-vendrá-dada-porkmomega-rightarrow23144oqmdomegapiepsilon">(4)
+La frecuencia angular
+de oscilación alrededor de la posición de equilibrio vendrá dada por
+K
+m
+\omega =
+\Rightarrow
+2
+3
+1
+4
+4
+o
+q
+md
+\omega
+\pi\epsilon</a></li><li class="depth-0"><a href="#5eel-tiempo-que-tardará-la-partícula-c-en-ir-de-a-hasta-o-será-un-cuarto-del-periodo-t-tiempo-que-tarda-enrealizar-una-oscilación-completa-y-volver-a-a-a-partir-de-la-expresión-5-se-obtiene321-4omdtqpipiomegapiepsilon" data-for="5eel-tiempo-que-tardará-la-partícula-c-en-ir-de-a-hasta-o-será-un-cuarto-del-periodo-t-tiempo-que-tarda-enrealizar-una-oscilación-completa-y-volver-a-a-a-partir-de-la-expresión-5-se-obtiene321-4omdtqpipiomegapiepsilon">(5)
+e)
+El tiempo que tardará la partícula C en ir de A hasta O será un cuarto del periodo T, tiempo que tarda en
+realizar una oscilación completa y volver a A. A partir de la expresión (5) se obtiene
+3
+2
+(1/ 4
+)
+o
+md
+T
+q
+\pi
+\pi
+\omega
+\pi\epsilon</a></li><li class="depth-0"><a href="#6de-modo-que-el-tiempo-para-ir-de-a-hasta-o-será4tt-rightarrow341-4omdtqpipiepsilon" data-for="6de-modo-que-el-tiempo-para-ir-de-a-hasta-o-será4tt-rightarrow341-4omdtqpipiepsilon">=
+(6)
+De modo que el tiempo para ir de A hasta O será
+4
+T
+t =
+\Rightarrow
+3
+4
+(1/ 4
+)
+o
+md
+t
+q
+\pi
+\pi\epsilon</a></li><li class="depth-0"><a href="#p2-carico-oscilanteconsidera-due-piccole-sfere-attaccate-alle-estremità-di-un-bastone-non-conduttore-di-lunghezza-2dfigura-1-una-terza-sfera-c-ha-massa-m-e-può-scivolare-senza-rottura-sul-bastone-le-tre-sfere-sonole-parti-di-questo-sistema-sono-di-tipo-non-conduttore-e-ognuna-ha-una-carica-elettrica-distribuita-sulla-sua-superficie-separazione-della-sfera-c-unadistanza-x-dalla-posizione-di-equilibrio-ofig-1atrova-lespressione-della-forza-che-agisce-sulla-sfera-c-quando-si-trova-a-distanza-x-dalla-posizionedi-equilibriobqual-è-lespressione-della-forza-sulla-sfera-c-se-si-considera-che-x--d-la-sfera-c-viene-spostata-fino-a-un-punto-a-a-una-distanza-x--d20-verso-la-destra-di-o-come-si-osservanella-figura-e-si-liberaccalcola-la-velocità-che-la-sfera-c-porterà-quando-passerà-attraverso-la-posizione-di-equilibrio-odcalcola-la-frequenza-angolare-di-oscillazione-della-sfera-c-attorno-alla-posizione-di-equilibrioequanto-tempo-ci-vorrà-per-la-sfera-c-di-andare-da-a-a-ofper10-ncq-10-cmd-y1gm--calcola-il-valore-del-periodo-t-di-unoscillazione-completa-dellasfera-c-intorno-al-punto-odata--costante-di-coulomb92-219-10-n-mc4opiepsilon" data-for="p2-carico-oscilanteconsidera-due-piccole-sfere-attaccate-alle-estremità-di-un-bastone-non-conduttore-di-lunghezza-2dfigura-1-una-terza-sfera-c-ha-massa-m-e-può-scivolare-senza-rottura-sul-bastone-le-tre-sfere-sonole-parti-di-questo-sistema-sono-di-tipo-non-conduttore-e-ognuna-ha-una-carica-elettrica-distribuita-sulla-sua-superficie-separazione-della-sfera-c-unadistanza-x-dalla-posizione-di-equilibrio-ofig-1atrova-lespressione-della-forza-che-agisce-sulla-sfera-c-quando-si-trova-a-distanza-x-dalla-posizionedi-equilibriobqual-è-lespressione-della-forza-sulla-sfera-c-se-si-considera-che-x--d-la-sfera-c-viene-spostata-fino-a-un-punto-a-a-una-distanza-x--d20-verso-la-destra-di-o-come-si-osservanella-figura-e-si-liberaccalcola-la-velocità-che-la-sfera-c-porterà-quando-passerà-attraverso-la-posizione-di-equilibrio-odcalcola-la-frequenza-angolare-di-oscillazione-della-sfera-c-attorno-alla-posizione-di-equilibrioequanto-tempo-ci-vorrà-per-la-sfera-c-di-andare-da-a-a-ofper10-ncq-10-cmd-y1gm--calcola-il-valore-del-periodo-t-di-unoscillazione-completa-dellasfera-c-intorno-al-punto-odata--costante-di-coulomb92-219-10-n-mc4opiepsilon">P2. Carico oscilante.
+Considera due piccole sfere attaccate alle estremità di un bastone non conduttore di lunghezza 2d
+(Figura 1). Una terza sfera C ha massa m e può scivolare senza rottura sul bastone. Le tre sfere sono
+Le parti di questo sistema sono di tipo non conduttore e ognuna ha una carica elettrica distribuita sulla sua superficie. Separazione della sfera C una
+Distanza x dalla posizione di equilibrio O.
+Fig. 1
+a)
+Trova l’espressione della forza che agisce sulla sfera C quando si trova a distanza x dalla posizione
+di equilibrio.
+b)
+Qual è l’espressione della forza sulla sfera C se si considera che x &lt;&lt; d ?
+La sfera C viene spostata fino a un punto A, a una distanza x = d/20 verso la destra di O, come si osserva
+nella figura, e si libera.
+c)
+Calcola la velocità che la sfera C porterà quando passerà attraverso la posizione di equilibrio O.
+d)
+Calcola la frequenza angolare di oscillazione della sfera C attorno alla posizione di equilibrio.
+e)
+Quanto tempo ci vorrà per la sfera C di andare da A a O.
+f)
+Per
+10 nC
+q =
+,
+10 cm
+d =
+y
+1g
+m =
+, calcola il valore del periodo T di un’oscillazione completa della
+sfera C intorno al punto O.
+Data: * Costante di Coulomb,
+9
+2
+-2
+1
+9 10 N m
+C
+4
+o
+\pi\epsilon</a></li><li class="depth-0"><a href="#cdotcdotcdot91nc10c--1" data-for="cdotcdotcdot91nc10c--1">\cdot
+\cdot
+\cdot
+*
+9
+1nC
+10
+C
+-</a></li><li class="depth-0"><a href="#xqqqddoca33-olimpiadi-di-fisica-in-spagnafase-di-aragonp2-soluzioneala-forza-sulla-sfera-carica-c-sarà-la-somma-delle-forze-prodotte-su-di-essa-da-ciascuna-dellesfere-cariche-dalle-estremità12fff" data-for="xqqqddoca33-olimpiadi-di-fisica-in-spagnafase-di-aragonp2-soluzioneala-forza-sulla-sfera-carica-c-sarà-la-somma-delle-forze-prodotte-su-di-essa-da-ciascuna-dellesfere-cariche-dalle-estremità12fff">x
+q
+q
+q
+d
+d
+O
+C
+A
+33 Olimpiadi di Fisica in Spagna
+Fase di ARAGON
+P2. Soluzione
+a)
+La forza sulla sfera carica C sarà la somma delle forze prodotte su di essa da ciascuna delle
+sfere cariche dalle estremità,
+1
+2
+F
+F
+F</a></li><li class="depth-0"><a href="#-entrambe-le-forze-sono-ripugnanti-la-forza-esercitata-da-ogniuna-sfera-sopra-la-sfera-c-è-la-stessa-che-si-eserciterebbe-tra-due-carichi-puntiali22221144ooqqfdxdxpiepsilonpiepsilon" data-for="-entrambe-le-forze-sono-ripugnanti-la-forza-esercitata-da-ogniuna-sfera-sopra-la-sfera-c-è-la-stessa-che-si-eserciterebbe-tra-due-carichi-puntiali22221144ooqqfdxdxpiepsilonpiepsilon">. Entrambe le forze sono ripugnanti. La forza esercitata da ogni
+una sfera sopra la sfera C è la stessa che si eserciterebbe tra due carichi puntiali,
+2
+2
+2
+2
+1
+1
+4
+4
+(
+)
+(
+)
+o
+o
+q
+q
+F
+d
+x
+d
+x
+\pi\epsilon
+\pi\epsilon</a></li><li class="depth-0"><a href="#--rightarrow22214cdot4-oq-d-xfdxdxpiepsilon---1b-se-x--d-possiamo-avvicinare22xdd--approxy22xdd-approxin-espressione-1-in-modo-che23144oq-xfdpiepsilonapprox-2cla-forza-elettrica-sulla-carica-q-è-conservatrice-quindi-lenergia-meccanica-viene-conservata-tra-a-e-ay-o22221111244422020oooqqqmvdddddpiepsilonpiepsilonpiepsilon" data-for="--rightarrow22214cdot4-oq-d-xfdxdxpiepsilon---1b-se-x--d-possiamo-avvicinare22xdd--approxy22xdd-approxin-espressione-1-in-modo-che23144oq-xfdpiepsilonapprox-2cla-forza-elettrica-sulla-carica-q-è-conservatrice-quindi-lenergia-meccanica-viene-conservata-tra-a-e-ay-o22221111244422020oooqqqmvdddddpiepsilonpiepsilonpiepsilon">-
++
+-
+\Rightarrow
+2
+2
+2
+1
+4
+\cdot
+4
+(
+) (
+)
+o
+q d x
+F
+d
+x
+d
+x
+\pi\epsilon
+= -
+-
++
+(1)
+b) Se x &lt;&lt; d, possiamo avvicinare
+2
+2
+(
+)
+x
+d
+d -
+\approx
+y
+2
+2
+(
+)
+x
+d
+d +
+\approx
+in espressione (1) in modo che
+2
+3
+1
+4
+4
+o
+q x
+F
+d
+\pi\epsilon
+\approx-
+(2)
+c)
+La forza elettrica sulla carica q è conservatrice, quindi l’energia meccanica viene conservata tra A e A.
+y O.
+2
+2
+2
+2
+1
+1
+1
+1
+2
+4
+4
+4
+2
+20
+20
+o
+o
+o
+q
+q
+q
+mv
+d
+d
+d
+d
+d
+\pi\epsilon
+\pi\epsilon
+\pi\epsilon
++</a></li><li class="depth-0"><a href="#rightarrow2101-4oqvmdpiepsilon-1" data-for="rightarrow2101-4oqvmdpiepsilon-1">\Rightarrow
+2
+1
+0,1 4
+o
+q
+v
+md
+\pi\epsilon</a></li><li class="depth-0"><a href="#3dnella-espressione-2-si-osserva-che-la-forza-f-è-proporzionale-alla-distanza-x-di-separazione-della-posizionedi-equilibrio-e-di-senso-contrario-simile-a-una-forza-elastica-fkx---da-quanto-possiamodeterminare-la-costante-elastica-k-del-sistema23144oq-xkxdpiepsilon" data-for="3dnella-espressione-2-si-osserva-che-la-forza-f-è-proporzionale-alla-distanza-x-di-separazione-della-posizionedi-equilibrio-e-di-senso-contrario-simile-a-una-forza-elastica-fkx---da-quanto-possiamodeterminare-la-costante-elastica-k-del-sistema23144oq-xkxdpiepsilon">(3)
+d)
+Nella espressione (2) si osserva che la forza F è proporzionale alla distanza x di separazione della posizione
+di equilibrio, e di senso contrario, simile a una forza elastica F
+Kx
+= -
+, da quanto possiamo
+determinare la costante elastica K del sistema,
+2
+3
+1
+4
+4
+o
+q x
+Kx
+d
+\pi\epsilon</a></li><li class="depth-0"><a href="#rightarrow23144oqkdpiepsilon-1" data-for="rightarrow23144oqkdpiepsilon-1">\Rightarrow
+2
+3
+1
+4
+4
+o
+q
+K
+d
+\pi\epsilon</a></li><li class="depth-0"><a href="#4frequenza-angolaredi-oscillazione-intorno-alla-posizione-di-equilibrio-verrà-data-dakmomega-rightarrow23144oqmdomegapiepsilon" data-for="4frequenza-angolaredi-oscillazione-intorno-alla-posizione-di-equilibrio-verrà-data-dakmomega-rightarrow23144oqmdomegapiepsilon">(4)
+Frequenza angolare
+di oscillazione intorno alla posizione di equilibrio verrà data da
+K
+m
+\omega =
+\Rightarrow
+2
+3
+1
+4
+4
+o
+q
+md
+\omega
+\pi\epsilon</a></li><li class="depth-0"><a href="#5eil-tempo-che-ci-vorrà-per-la-particella-c-di-andare-da-a-a-o-sarà-un-quarto-del-periodo-t-tempo-che-ci-vorrà-perfare-unoscillazione-completa-e-tornare-a-a-lespressione-5-è321-4omdtqpipiomegapiepsilon" data-for="5eil-tempo-che-ci-vorrà-per-la-particella-c-di-andare-da-a-a-o-sarà-un-quarto-del-periodo-t-tempo-che-ci-vorrà-perfare-unoscillazione-completa-e-tornare-a-a-lespressione-5-è321-4omdtqpipiomegapiepsilon">(5)
+e)
+Il tempo che ci vorrà per la particella C di andare da A a O sarà un quarto del periodo T, tempo che ci vorrà per
+fare un’oscillazione completa e tornare a A. L’espressione (5) è
+3
+2
+(1/ 4
+)
+o
+md
+T
+q
+\pi
+\pi
+\omega
+\pi\epsilon</a></li><li class="depth-0"><a href="#6quindi-il-tempo-per-andare-da-a-a-o-sarà4tt-rightarrow341-4omdtqpipiepsilon" data-for="6quindi-il-tempo-per-andare-da-a-a-o-sarà4tt-rightarrow341-4omdtqpipiepsilon">=
+(6)
+Quindi il tempo per andare da A a O sarà
+4
+T
+t =
+\Rightarrow
+3
+4
+(1/ 4
+)
+o
+md
+t
+q
+\pi
+\pi\epsilon</a></li><li class="depth-0"><a href="#p2-its-a-swinging-chargeconsider-two-small-spheres-attached-at-the-ends-of-a-non-conductive-rod-of-length-2dthe-commission-has-not-yet-adopted-a-proposal-a-third-c-sphere-has-mass-m-and-can-slide-without-a-scratch-on-the-rod-the-three-spheres-areeach-of-these-is-non-conductive-and-each-has-an-electrical-charge-distributed-over-its-surface-the-sphere-c-one-is-separateddistance-x-from-the-equilibrium-position-ofig-1afind-the-expression-of-the-force-acting-on-the-sphere-c-when-it-is-at-a-distance-x-from-the-positionthe-balancebwhat-is-the-expression-of-the-force-on-the-sphere-c-if-we-consider-that-x--dthe-sphere-c-is-moved-to-a-point-a-at-a-distance-x--d20-to-the-right-of-o-as-seenin-the-figure-and-its-releasedccalculate-the-speed-the-sphere-c-will-travel-at-when-it-passes-through-the-equilibrium-position-odcalculate-the-angular-frequency-of-oscillation-of-the-sphere-c-around-the-equilibrium-positionehow-long-will-it-take-the-c-sphere-to-go-from-a-to-ofstop10-ncq-10-cmd-y1gm--calculates-the-value-of-the-period-t-of-a-complete-oscillation-of-thesphere-c-around-the-point-othe-data-set-is-the-following92-219-10-n-mc4opiepsilon" data-for="p2-its-a-swinging-chargeconsider-two-small-spheres-attached-at-the-ends-of-a-non-conductive-rod-of-length-2dthe-commission-has-not-yet-adopted-a-proposal-a-third-c-sphere-has-mass-m-and-can-slide-without-a-scratch-on-the-rod-the-three-spheres-areeach-of-these-is-non-conductive-and-each-has-an-electrical-charge-distributed-over-its-surface-the-sphere-c-one-is-separateddistance-x-from-the-equilibrium-position-ofig-1afind-the-expression-of-the-force-acting-on-the-sphere-c-when-it-is-at-a-distance-x-from-the-positionthe-balancebwhat-is-the-expression-of-the-force-on-the-sphere-c-if-we-consider-that-x--dthe-sphere-c-is-moved-to-a-point-a-at-a-distance-x--d20-to-the-right-of-o-as-seenin-the-figure-and-its-releasedccalculate-the-speed-the-sphere-c-will-travel-at-when-it-passes-through-the-equilibrium-position-odcalculate-the-angular-frequency-of-oscillation-of-the-sphere-c-around-the-equilibrium-positionehow-long-will-it-take-the-c-sphere-to-go-from-a-to-ofstop10-ncq-10-cmd-y1gm--calculates-the-value-of-the-period-t-of-a-complete-oscillation-of-thesphere-c-around-the-point-othe-data-set-is-the-following92-219-10-n-mc4opiepsilon">P2. It’s a swinging charge.
+Consider two small spheres attached at the ends of a non-conductive rod of length 2d
+The Commission has not yet adopted a proposal. A third C-sphere has mass m and can slide without a scratch on the rod. The three spheres are
+Each of these is non-conductive and each has an electrical charge distributed over its surface. The sphere C one is separated
+distance x from the equilibrium position O.
+Fig. 1
+a)
+Find the expression of the force acting on the sphere C when it is at a distance x from the position
+The balance.
+b)
+What is the expression of the force on the sphere C if we consider that x &lt; d?
+The sphere C is moved to a point A, at a distance x = d/20 to the right of O, as seen
+In the figure, and it’s released.
+c)
+Calculate the speed the sphere C will travel at when it passes through the equilibrium position O.
+d)
+Calculate the angular frequency of oscillation of the sphere C around the equilibrium position.
+e)
+How long will it take the C-sphere to go from A to O?
+f)
+Stop
+10 nC
+q =
+,
+10 cm
+d =
+y
+1g
+m =
+, calculates the value of the period T of a complete oscillation of the
+Sphere C around the point O.
+The data set is the following:
+9
+2
+-2
+1
+9 10 N m
+C
+4
+o
+\pi\epsilon</a></li><li class="depth-0"><a href="#cdotcdotcdot91nc10c--2" data-for="cdotcdotcdot91nc10c--2">\cdot
+\cdot
+\cdot
+*
+9
+1nC
+10
+C
+-</a></li><li class="depth-0"><a href="#xqqqddoca33-spanish-olympics-in-physicsthe-following-is-the-list-of-the-categories-of-productsp2-solutionathe-force-on-the-charged-sphere-c-is-the-sum-of-the-forces-produced-on-it-by-each-of-thecharged-spheres-from-the-ends12fff" data-for="xqqqddoca33-spanish-olympics-in-physicsthe-following-is-the-list-of-the-categories-of-productsp2-solutionathe-force-on-the-charged-sphere-c-is-the-sum-of-the-forces-produced-on-it-by-each-of-thecharged-spheres-from-the-ends12fff">x
+q
+q
+q
+d
+d
+O
+C
+A
+33 Spanish Olympics in Physics
+The following is the list of the categories of products:
+P2. Solution
+a)
+The force on the charged sphere C is the sum of the forces produced on it by each of the
+Charged spheres from the ends,
+1
+2
+F
+F
+F</a></li><li class="depth-0"><a href="#-both-forces-are-repulsive-the-force-exerted-by-eachone-of-the-spheres-above-the-sphere-c-is-the-same-as-would-be-exercised-between-two-point-loads22221144ooqqfdxdxpiepsilonpiepsilon" data-for="-both-forces-are-repulsive-the-force-exerted-by-eachone-of-the-spheres-above-the-sphere-c-is-the-same-as-would-be-exercised-between-two-point-loads22221144ooqqfdxdxpiepsilonpiepsilon">. Both forces are repulsive. The force exerted by each
+one of the spheres above the sphere C is the same as would be exercised between two point loads,
+2
+2
+2
+2
+1
+1
+4
+4
+(
+)
+(
+)
+o
+o
+q
+q
+F
+d
+x
+d
+x
+\pi\epsilon
+\pi\epsilon</a></li><li class="depth-0"><a href="#--rightarrow22214cdot4-oq-d-xfdxdxpiepsilon---1b-if-x--d-we-can-approximate22xdd--approxy22xdd-approxin-expression-1-so-that23144oq-xfdpiepsilonapprox-2cthe-electrical-force-on-the-charge-q-is-conservative-therefore-the-mechanical-energy-is-conserved-between-a-and-ay-o22221111244422020oooqqqmvdddddpiepsilonpiepsilonpiepsilon" data-for="--rightarrow22214cdot4-oq-d-xfdxdxpiepsilon---1b-if-x--d-we-can-approximate22xdd--approxy22xdd-approxin-expression-1-so-that23144oq-xfdpiepsilonapprox-2cthe-electrical-force-on-the-charge-q-is-conservative-therefore-the-mechanical-energy-is-conserved-between-a-and-ay-o22221111244422020oooqqqmvdddddpiepsilonpiepsilonpiepsilon">-
++
+-
+\Rightarrow
+2
+2
+2
+1
+4
+\cdot
+4
+(
+) (
+)
+o
+q d x
+F
+d
+x
+d
+x
+\pi\epsilon
+= -
+-
++
+(1)
+(b) If x &lt;&lt; d, we can approximate
+2
+2
+(
+)
+x
+d
+d -
+\approx
+y
+2
+2
+(
+)
+x
+d
+d +
+\approx
+in expression (1) so that
+2
+3
+1
+4
+4
+o
+q x
+F
+d
+\pi\epsilon
+\approx-
+(2)
+c)
+The electrical force on the charge q is conservative, therefore the mechanical energy is conserved between A and A.
+y O.
+2
+2
+2
+2
+1
+1
+1
+1
+2
+4
+4
+4
+2
+20
+20
+o
+o
+o
+q
+q
+q
+mv
+d
+d
+d
+d
+d
+\pi\epsilon
+\pi\epsilon
+\pi\epsilon
++</a></li><li class="depth-0"><a href="#rightarrow2101-4oqvmdpiepsilon-2" data-for="rightarrow2101-4oqvmdpiepsilon-2">\Rightarrow
+2
+1
+0,1 4
+o
+q
+v
+md
+\pi\epsilon</a></li><li class="depth-0"><a href="#3din-expression-2-it-is-noted-that-the-force-f-is-proportional-to-the-distance-x-from-the-positionof-a-kind-used-for-the-manufacture-of-electrical-equipmentkx---from-what-we-candetermine-the--elastic-constant--k-of-the-system23144oq-xkxdpiepsilon" data-for="3din-expression-2-it-is-noted-that-the-force-f-is-proportional-to-the-distance-x-from-the-positionof-a-kind-used-for-the-manufacture-of-electrical-equipmentkx---from-what-we-candetermine-the--elastic-constant--k-of-the-system23144oq-xkxdpiepsilon">(3)
+d)
+In expression (2) it is noted that the force F is proportional to the distance x from the position
+of a kind used for the manufacture of electrical equipment
+Kx
+= -
+, from what we can
+determine the  elastic constant  K of the system,
+2
+3
+1
+4
+4
+o
+q x
+Kx
+d
+\pi\epsilon</a></li><li class="depth-0"><a href="#rightarrow23144oqkdpiepsilon-2" data-for="rightarrow23144oqkdpiepsilon-2">\Rightarrow
+2
+3
+1
+4
+4
+o
+q
+K
+d
+\pi\epsilon</a></li><li class="depth-0"><a href="#4angular-frequencyof-oscillation-around-the-equilibrium-position-will-be-given-bykmomega-rightarrow23144oqmdomegapiepsilon" data-for="4angular-frequencyof-oscillation-around-the-equilibrium-position-will-be-given-bykmomega-rightarrow23144oqmdomegapiepsilon">(4)
+Angular frequency
+of oscillation around the equilibrium position will be given by
+K
+m
+\omega =
+\Rightarrow
+2
+3
+1
+4
+4
+o
+q
+md
+\omega
+\pi\epsilon</a></li><li class="depth-0"><a href="#5ethe-time-it-will-take-the-particle-c-to-go-from-a-to-o-will-be-one-quarter-of-the-period-t-the-time-it-takes-tomake-a-complete-oscillation-and-go-back-to-a-from-the-expression-5-is-obtained321-4omdtqpipiomegapiepsilon" data-for="5ethe-time-it-will-take-the-particle-c-to-go-from-a-to-o-will-be-one-quarter-of-the-period-t-the-time-it-takes-tomake-a-complete-oscillation-and-go-back-to-a-from-the-expression-5-is-obtained321-4omdtqpipiomegapiepsilon">(5)
+e)
+The time it will take the particle C to go from A to O will be one quarter of the period T, the time it takes to
+Make a complete oscillation and go back to A. From the expression (5) is obtained
+3
+2
+(1/ 4
+)
+o
+md
+T
+q
+\pi
+\pi
+\omega
+\pi\epsilon</a></li><li class="depth-0"><a href="#6so-the-time-to-go-from-a-to-o-will-be4tt-rightarrow341-4omdtqpipiepsilon" data-for="6so-the-time-to-go-from-a-to-o-will-be4tt-rightarrow341-4omdtqpipiepsilon">=
+(6)
+So the time to go from A to O will be
+4
+T
+t =
+\Rightarrow
+3
+4
+(1/ 4
+)
+o
+md
+t
+q
+\pi
+\pi\epsilon</a></li><li class="overflow-end"></li></ul></div></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/point-charge-(object)" class="internal">Point Charge</a></li><li><a href="../objects/rod-(object)" class="internal">Rod</a></li><li><a href="../objects/sphere-(object)" class="internal">Sphere</a></li><li><a href="../prove/2022-33_oaf_2022_prueba_teorica" class="internal">Spagna 2022</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

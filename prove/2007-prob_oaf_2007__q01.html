@@ -1,0 +1,1793 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr"><head><title>Spagna 2007 — Quesito 1</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="Spagna 2007 — Quesito 1"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Spagna 2007 — Quesito 1"/><meta name="twitter:description" content="P1 El puenting."/><meta property="og:description" content="P1 El puenting."/><meta property="og:image:alt" content="P1 El puenting."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/2007-prob_oaf_2007__q01"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/2007-prob_oaf_2007__q01"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="P1 El puenting."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/2007-prob_oaf_2007__q01" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-1819" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-1819" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Spagna 2007 — Quesito 1</a></div></nav><h1 class="article-title">Spagna 2007 — Quesito 1</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/kg/prova" class="internal internal-link tag-link">kg/prova</a><span class="note-properties-separator">, </span><a href="../tags/paese/spagna" class="internal internal-link tag-link">paese/spagna</a><span class="note-properties-separator">, </span><a href="../tags/comp/spagna" class="internal internal-link tag-link">comp/spagna</a><span class="note-properties-separator">, </span><a href="../tags/cluster/meccanica" class="internal internal-link tag-link">cluster/meccanica</a><span class="note-properties-separator">, </span><a href="../tags/object/spring" class="internal internal-link tag-link">object/spring</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:27:45.243Z">02 lug 2026</time><span>23 minuti</span></p><ul class="tags"><li><a href="../tags/kg/prova" class="internal tag-link">kg/prova</a></li><li><a href="../tags/paese/spagna" class="internal tag-link">paese/spagna</a></li><li><a href="../tags/comp/spagna" class="internal tag-link">comp/spagna</a></li><li><a href="../tags/cluster/meccanica" class="internal tag-link">cluster/meccanica</a></li><li><a href="../tags/object/spring" class="internal tag-link">object/spring</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="es"></div>
+<p>P1
+El puenting.
+Seguramente conoces o has visto algún reportaje sobre uno de los deportes de riesgo mas llamativos, el “puenting”
+(bungee jumping en ingles1). Consiste en saltar desde lo alto de un puente con los tobillos sujetos a una cuerda elástica, que
+frena la caída con suavidad, como se muestra en la foto de la figura 1. Aunque una descripción realista del movimiento es
+bastante compleja, no es difícil analizar aproximadamente sus dos primeras fases: en la primera, el saltador cae libremente con
+la cuerda destensada, y en la segunda la cuerda se estira elásticamente hasta detener la caída del saltador en su punto más bajo.
+En esta segunda fase puede aceptarse que la cuerda cumple la ley de Hooke, es decir que se comporta como un muelle ideal de
+constante k.
+Supongamos que un aficionado al puenting dispone de una cuerda de longitud L = 48 m y quiere usarla para saltar desde
+un puente de altura h = 98 m (figura 2). Naturalmente, antes de lanzarse quiere tener ciertas garantías de que su cuerda es
+adecuada. En particular quiere saber si la longitud máxima que llegará a alcanzar la cuerda cuando se estire, Lmax, es menor que
+la altura h, ya que en caso contrario su integridad física se vería gravemente amenazada.
+Para tener un dato experimental sobre la elasticidad de la cuerda, este aficionado al puenting se cuelga de la cuerda y
+comprueba que, en equilibrio, se alarga <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\DeltaL</span></span></span></span></span> = 12 m.
+a)
+Despreciando la resistencia del aire y suponiendo que el saltador se deja caer sin velocidad inicial, haz una estimación de
+la longitud máxima que llegará a tener la cuerda, Lmax. ¿Es prudente utilizar esta cuerda para saltar desde el puente
+indicado?
+b)
+En el proceso de caída, la cuerda empieza a jugar su papel cuando la distancia recorrida por el saltador supera la longitud
+“natural” L de la cuerda y comienza a estirarse hasta su longitud máxima, cuando el saltador se detiene. Haz una
+representación gráfica de la aceleración del saltador en función de la distancia vertical, y, recorrida desde la parte
+superior del puente, y = 0, hasta el punto más bajo de la caída, y = Lmax. Durante este proceso de caída ¿cuál es la
+aceleración máxima a la que se ve sometido el saltador?
+c)
+Supuesto que la masa del saltador es m = 70 kg, calcula la máxima fuerza que ha de soportar el enganche de la cuerda con
+el puente.
+d)
+Por prudencia, el aficionado al puenting decide utilizar dos cuerdas iguales en paralelo. Esto significa que el muelle
+equivalente a las dos cuerdas tiene una constante elástica doble, 2k. ¿Qué longitud máxima llegarán a alcanzar las dos
+cuerdas? ¿Cuál será la aceleración máxima del saltador en estas condiciones?</p>
+<p>Aceleraciones comprendidas entre 4g y 6g pueden producir lesiones si no se adoptan medidas de seguridad adecuadas.
+Teniendo esto en cuenta, ¿es conveniente usar una cuerda “doble” para realizar un salto más seguro?</p>
+<p>Advertencia: Aunque hayas sido capaz de resolver todas las preguntas de este problema, no creas que estás capacitado para
+hacer un salto de estas características. El puenting es un deporte de alto riesgo y es necesario un entrenamiento
+dirigido por una persona especialmente preparada.</p>
+<p>1 Las primeras referencias de este tipo de saltos datan de 1930, cuando se descubrió que eran realizados por los indígenas de la isla Vanuatu
+(Islas de Pentecostés) con lianas sujetas a los pies, para probar su valor. En el club de deportes de riesgo de Bristol se realizaron en 1979
+los primeros saltos con una cuerda elástica de 78 m.</p>
+<p>Fig. 1
+Fig. 2
+OAF 2007 PRUEBAS DEL DISTRITO UNIVERSITARIO DE ZARAGOZA
+REAL SOCIEDAD ESPAÑOLA DE FÍSICA</p>
+<p>Solución</p>
+<p>a)
+Despreciando la resistencia del aire, suponiendo que el saltador se deja caer sin velocidad inicial y aceptando que la
+cuerda se comporta como un muelle ideal de constante k, en el proceso del salto se conserva la energía mecánica. Si
+consideramos como nivel de referencia para la energía potencial gravitatoria el punto más bajo que alcanza el saltador se
+tiene que</p>
+<h1 id="221maxmaxlkllmgdeltadelta">(
+)
+[
+]
+(
+)2
+2
+1
+max
+max
+L
+k
+L
+L
+mg
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#221maxmaxlkllmgdeltadelta" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<ul>
+<li></li>
+</ul>
+<p>(1)</p>
+<p>donde (
+)max
+L
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+es el alargamiento máximo que experimenta la cuerda.</p>
+<p>Por otra parte, como la cuerda se alarga
+L
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+cuando el “aficionado” se cuelga de ella y permanece en equilibrio, se
+verifica que</p>
+<h1 id="mglk">mg
+L
+k<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#mglk" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></p>
+<p>(2)</p>
+<p>Combinando (1) y (2) se llega a la siguiente ecuación de segundo grado</p>
+<h1 id="0222">(
+)
+(
+)
+0
+2
+2
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#0222" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+L
+L
+L
+L
+L
+max
+max
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></p>
+<p>cuya solución es</p>
+<h1 id="lllll-maxdeltadeltadeltadelta22-pm">(
+)
+L
+L
+L
+L
+L max
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+2
+2 +
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">±</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#lllll-maxdeltadeltadeltadelta22-pm" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Sustituyendo los datos numéricos del enunciado y prescindiendo del valor negativo de la solución, que no tiene sentido
+físico, se obtiene</p>
+<h1 id="m48">(
+)
+m
+48<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#m48" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>max
+L
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></p>
+<p>Por tanto, la longitud máxima que llega a alcanzar la cuerda es</p>
+<h1 id="maxmaxllldelta">(
+)max
+max
+L
+L
+L
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
++<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#maxmaxllldelta" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="rightarrowm96"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+m
+96<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#rightarrowm96" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>max
+L</p>
+<h1 id="aunquem98">Aunque
+m
+98<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#aunquem98" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>&lt; h
+Lmax
+, la diferencia es muy pequeña, máxime si se tiene en cuenta que el aficionado al puenting tiene
+una estatura no despreciable y se lanza con la cuerda atada a sus tobillos, como se aprecia en la figura 1. En un cálculo
+más realista debería tenerse en cuenta la distancia de su centro de masas a sus pies en el momento de lanzarse, y a su
+cabeza en el punto más bajo. Sin necesidad de hacer cálculos, como su altura es de unos dos metros, se comprende que su
+salud puede sufrir un serio quebranto si decide hacer el salto en las condiciones descritas.</p>
+<p>b) La cuerda no juega ningún papel mientras la distancia recorrida en la caída sea menor que su longitud L, por lo que el
+saltador cae con una aceleración constante g. Desde que la cuerda comienza a estirarse sobre el saltador actúa, además de
+su peso, la fuerza recuperadora que es proporcional al estiramiento, y - L. Considerando como origen de coordenadas el
+punto de lanzamiento y sentido positivo hacia abajo, la segunda ley de Newton permite escribir,</p>
+<p>(
+)</p>
+<p>para
+0</p>
+<h1 id="paralykmgmalylmgmalymax--">para
+L
+y
+k
+mg
+ma
+L
+y
+L
+mg
+ma
+L
+y
+max
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#paralykmgmalylmgmalymax--" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="leqleq"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#leqleq" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span></p>
+<p>(3)</p>
+<p>Por tanto, en la primera fase de la caída, la aceleración con que se mueve el saltador es</p>
+<h1 id="lygaleqleq">L
+y
+g
+a
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#lygaleqleq" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>0</p>
+<p>para</p>
+<p>Y en la segunda fase, teniendo en cuenta (2), la aceleración en función de y es</p>
+<p>( )
+max
+L
+y
+L
+L
+L
+g
+y
+L
+g
+y
+a
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span></p>
+<ul>
+<li></li>
+<li></li>
+</ul>
+<h1 id="-"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>para</p>
+<p>1
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></p>
+<p>(4)</p>
+<h1 id="para-y--l-esta-aceleración-coincide-con-g-paramaxmaxlllydelta">Para y = L, esta aceleración coincide con g. Para
+(
+)max
+max
+L
+L
+L
+y
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
++<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#para-y--l-esta-aceleración-coincide-con-g-paramaxmaxlllydelta" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>=
+la aceleración toma su valor máximo (en valor
+absoluto), dado por</p>
+<p>(
+)</p>
+<h1 id="--1"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#--1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="llgamaxmaxdeltadelta1rightarrowgamax3-">L
+L
+g
+a
+max
+max
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+1
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+g
+amax
+3
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#llgamaxmaxdeltadelta1rightarrowgamax3-" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>OAF 2007 PRUEBAS DEL DISTRITO UNIVERSITARIO DE ZARAGOZA
+REAL SOCIEDAD ESPAÑOLA DE FÍSICA</p>
+<p>Entre estos dos extremos la dependencia (4) de la aceleración con y es lineal, por
+lo que la gráfica que se pide es la de la figura 3.
+c)
+El enganche de la cuerda con el puente tiene que soportar la tensión de la cuerda
+que es igual a la fuerza elástica, (
+)
+L
+y
+k
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+. Por lo tanto, la máxima fuerza que
+tiene que soportar el enganche es</p>
+<h1 id="mgllmglkfmaxmaxmax4">(
+)
+(
+)
+mg
+L
+L
+mg
+L
+k
+F
+max
+max
+max
+4<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#mgllmglkfmaxmaxmax4" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id>=</h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></p>
+<p>Es decir</p>
+<p>N
+10
+7
+2
+3
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4445em;"></span><span class="mord">⋅</span></span></span></span>
+= ,
+Fmax</p>
+<p>d)
+Si el aficionado al puenting utiliza dos cuerdas iguales en paralelo, la constante del muelle equivalente es 2k, como indica
+el enunciado. La cuerda doble es más “dura”, el alargamiento máximo, (
+) max
+L <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+, es menor y el frenado más brusco, con
+mayor aceleración.</p>
+<p>El cálculo de (
+)’
+max
+L
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+se realiza partiendo de la ecuación (1) cambiando la constante del muelle por 2k. De esta forma, la
+ecuación de segundo grado que se obtiene es</p>
+<h1 id="02">(
+)
+(
+)
+0
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#02" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span></p>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>
+L
+L
+L
+L
+L
+max
+max
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></p>
+<h1 id="rightarrowm31"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+(
+)
+m
+31<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#rightarrowm31" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mord mathnormal">ma</span><span class="mord mathnormal">x</span></span></span></span>
+L
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></p>
+<p>La longitud máxima que alcanza la cuerda en este caso es</p>
+<h1 id="m79">m
+79<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#m79" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mord mathnormal">ma</span><span class="mord mathnormal">x</span></span></span></span>
+L</p>
+<p>La nueva aceleración <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span class="mord mathnormal">a</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span> se obtiene como en (3), pero cambiando la constante del muelle</p>
+<h1 id="ylkmgam--">(
+)
+y
+L
+k
+mg
+a
+m
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ylkmgam--" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>
+2</p>
+<p>Teniendo en cuenta (2)</p>
+<p>(
+)</p>
+<h1 id="--"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#--" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>
+L
+y
+L
+g
+a
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+2
+1</p>
+<p>Por lo que la aceleración máxima es</p>
+<p>(
+)</p>
+<h1 id="--2"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#--2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="llgamaxmaxdeltadelta21rightarrowgamax14-"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>
+L
+L
+g
+a
+max
+max
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+2
+1
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+g
+,
+amax
+1
+4
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#llgamaxmaxdeltadelta21rightarrowgamax14-" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p>En efec</p>
+
+<p><img src="../_attachments/2007-prob_oaf_2007/2007-prob_oaf_2007_p1_f1.png" alt width="auto" height="auto"/>
+<em>bungee jumping con corda elastica</em></p>
+
+<p><strong>Topic:</strong> <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>, <a href="../topics/conservation-of-energy" class="internal internal-link alias" data-slug="topics/conservation-of-energy">Conservation of Energy</a>, <a href="../topics/elasticity--and--materials" class="internal internal-link alias" data-slug="topics/elasticity--and--materials">Elasticity &amp; Materials</a>
+<strong>Metodi:</strong> <a href="../methods/hooke's-law-(metodo)" class="internal internal-link alias" data-slug="methods/hooke's-law-(metodo)">Hooke’s Law</a>, <a href="../methods/energy-conservation-method-(metodo)" class="internal internal-link alias" data-slug="methods/energy-conservation-method-(metodo)">Energy Conservation Method</a>, <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>, <a href="../methods/kinematic-equations-(metodo)" class="internal internal-link alias" data-slug="methods/kinematic-equations-(metodo)">Kinematic Equations</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/diagrammatic-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/diagrammatic-reasoning-(competenza)">Diagrammatic Reasoning</a>, <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/spring-(object)" class="internal internal-link alias" data-slug="objects/spring-(object)">Spring</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1-RBp6FjJgtoYd9ev8Q2ZWMaybqAsriQa/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="it"></div>
+<p>P1
+Il ponte.
+Probabilmente conosci o hai visto qualche articolo su uno dei sport a rischio più famosi, il puenting
+(bungee jumping in inglese) Consiste nel saltare da un ponte con le ginocchia attaccate a una corda elastica, che
+frenare il caduto con delicatezza, come mostrato nella foto di figura 1. Anche se una descrizione realistica del movimento è
+La velocità di un salto è molto complessa, non è difficile analizzare circa le sue due prime fasi: nella prima, il salvatore cade liberamente con
+la corda estesa, e nella seconda la corda si allunga elasticamente fino a fermare il salto del saltatore al suo punto più basso.
+In questa seconda fase si può accettare che la corda rispetti la legge di Hooke, cioè si comporta come un molo ideale di
+costante k.
+Supponiamo che un appassionato di puenting abbia una corda di lunghezza L = 48 m e voglia usarla per saltare da un punto di vista di velocità.
+un ponte di altezza h = 98 m (Figura 2). Naturalmente, prima di lanciare vuole avere certe garanzie che la sua corda è</p>
+<ul>
+<li>Proprio così. In particolare, vuole sapere se la lunghezza massima che raggiungerà la corda quando si allunga, Lmax, è inferiore a
+La quota h, altrimenti la sua integrità fisica sarebbe gravemente minacciata.
+Per avere un dato sperimentale sull’elasticità della corda, questo appassionato di puenting si appende alla corda e
+verifica che, in equilibrio, si allunga <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\DeltaL</span></span></span></span></span> = 12 m.
+a)
+Scommetendo la resistenza dell’aria e supponendo che il saltatore si faccia cadere senza velocità iniziale, si fa una stima di
+la lunghezza massima che raggiungerà la corda, Lmax. È prudente usare questa corda per saltare dal ponte?
+indicato?
+b)
+Nel processo di caduta, la corda inizia a svolgere il suo ruolo quando la distanza percorsa dal saltatore supera la lunghezza
+L della corda e inizia a stendere fino alla sua lunghezza massima, quando il saltatore si ferma. Fate una.
+una rappresentazione grafica dell’accelerazione del saltatore in funzione della distanza verticale e, percorso dalla parte
+il ponte superiore, e = 0, fino al punto più basso della caduta, e = Lmax. Durante questo processo di caduta, qual è la
+l’accelerazione massima al quale viene sottoposto il saltatore?
+c)
+Se il salto è di 70 kg, si calcola la forza massima che deve sopportare il collegamento della corda con
+il ponte.
+d)
+Per prudenza, l’amatore del puenting decide di usare due corde uguali in parallelo. Questo significa che il molo
+L’equivalente delle due corde ha una costante doppia elastica, 2k. Qual è la lunghezza massima che raggiungeranno i due</li>
+<li>Le corde? Qual è la massima velocità del saltatore in queste condizioni?</li>
+</ul>
+<p>Le accelerazioni comprese tra 4g e 6g possono causare lesioni se non vengono adottate adeguate misure di sicurezza.
+Considerando questo, è conveniente usare una corda doble per fare un salto più sicuro?</p>
+<p>Attenzione: anche se hai risolto tutte le domande di questo problema, non credi di essere qualificato per
+fare un salto di queste caratteristiche. Il puenting è un sport ad alto rischio e richiede un’addestramento
+Diretto da una persona particolarmente preparata.</p>
+<p>1 I primi riferimenti di questo tipo di salti risalgono al 1930, quando si scoprì che erano stati fatti dagli indigeni dell’isola di Vanuatu
+(Isole di Pentecoste) con le linenate attaccate ai piedi, per provare il loro valore. Nel 1979 si è svolta la Bristol Risk Sports Club
+i primi salti con una corda elastica di 78 m.</p>
+<p>Fig. 1
+Fig. 2
+OAF 2007 Provate del Distretto Universitario di Zaragoza
+REAL SOCIetà spagnola di fisica</p>
+<p>Soluzione</p>
+<p>a)
+Scommettere che il salvatore si lascia cadere senza velocità iniziale e accettare che la velocità di salto sia
+La corda si comporta come un molo ideale di costante k, nel processo di salto viene conservata l’energia meccanica. Si
+Considerando il livello di riferimento per l’energia potenzialmente gravitazionale il punto più basso raggiunto dal saltatore è</p>
+<ul>
+<li>Deve essere</li>
+</ul>
+<h1 id="221maxmaxlkllmgdeltadelta-1">(
+)
+[
+]
+(
+)2
+2
+1
+Max
+Max
+L
+k
+L
+L
+mg
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#221maxmaxlkllmgdeltadelta-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<ul>
+<li></li>
+</ul>
+<p>(1)</p>
+<p>dove (
+)max
+L
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+è l’allungamento massimo che la corda prova.</p>
+<p>D’altra parte, come la corda si allunga
+L
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+Quando l’amatore si appende a essa e rimane in equilibrio, si
+verifica che</p>
+<h1 id="mglk-1">mg
+L
+k<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#mglk-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></p>
+<p>(2)</p>
+<p>Combinando (1) e (2) si ottiene la seguente equazione di secondo grado</p>
+<h1 id="0222-1">(
+)
+(
+)
+0
+2
+2
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#0222-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+L
+L
+L
+L
+L
+Max
+Max
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></p>
+<p>La cui soluzione è</p>
+<h1 id="lllll-maxdeltadeltadeltadelta22-pm-1">(
+)
+L
+L
+L
+L
+L max
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+2
+2 +
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">±</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#lllll-maxdeltadeltadeltadelta22-pm-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Sostituendo i dati numerici della frase e dispense il valore negativo della soluzione, non ha senso
+fisica, si ottiene</p>
+<h1 id="m48-1">(
+)
+m
+48<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#m48-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Max
+L
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></p>
+<p>Quindi la lunghezza massima che raggiunge la corda è</p>
+<h1 id="maxmaxllldelta-1">(
+)max
+Max
+L
+L
+L
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
++<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#maxmaxllldelta-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="rightarrowm96-1"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+m
+96<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#rightarrowm96-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Max
+L</p>
+<h1 id="anche-sem98">Anche se
+m
+98<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#anche-sem98" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>&lt; h
+Lmax
+, la differenza è molto piccola, soprattutto se si tiene conto che l’amatore di puenting ha
+una statura non sconsiderata e lanciata con la corda attaccata alle arti, come si vede nella figura 1. In un calcolo
+La maggior parte dei lanciatori dovrebbe tenere conto della distanza dal loro centro di massa ai piedi al momento del lancio, e della loro
+la testa al punto più basso. Non occorre calcolare, poiché il suo altezza è di circa due metri, si comprende che il suo
+la salute può essere gravemente compromessa se si decide di fare il salto nelle condizioni descritte.</p>
+<p>b) La corda non svolge alcun ruolo finché la distanza percorsa nel caduto è inferiore alla sua lunghezza L, quindi il
+salter si abbassa con una costante accelerazione g. Da quando la corda inizia a stendersi sul saltatore agisce, oltre a
+il peso, la forza di recupero proporzionale all’estensione, e - L. Considerando come fonte di coordinate il
+punto di lancio e senso positivo verso il basso, la seconda legge di Newton consente di scrivere,</p>
+<p>(
+)</p>
+<p>per
+0</p>
+<h1 id="perlykmgmalylmgmalymax--">per
+L
+y
+k
+mg
+ma
+L
+y
+L
+mg
+ma
+L
+y
+Max
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#perlykmgmalylmgmalymax--" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="leqleq-1"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#leqleq-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span></p>
+<p>(3)</p>
+<p>Quindi, nella prima fase del caduta, l’accelerazione con cui il saltatore si muove è</p>
+<h1 id="lygaleqleq-1">L
+y
+g
+a
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#lygaleqleq-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>0</p>
+<p>per</p>
+<p>E nella seconda fase, considerando (2), l’accelerazione in funzione di e è</p>
+<p>( )
+Max
+L
+y
+L
+L
+L
+g
+y
+L
+g
+y
+a
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span></p>
+<ul>
+<li></li>
+<li></li>
+</ul>
+<h1 id="--3"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#--3" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>per</p>
+<p>1
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></p>
+<p>(4)</p>
+<h1 id="per-y--l-questa-accelerazione-corrisponde-a-g-permaxmaxlllydelta">Per y = L, questa accelerazione corrisponde a g. Per
+(
+)max
+Max
+L
+L
+L
+y
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
++<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#per-y--l-questa-accelerazione-corrisponde-a-g-permaxmaxlllydelta" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>=
+L’accelerazione prende il suo massimo valore (in valore
+assoluto), dato da</p>
+<p>(
+)</p>
+<h1 id="--4"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#--4" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>L
+L
+g
+a
+Max
+Max
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+1
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+g</p>
+<ul>
+<li>Ma non è vero.
+3
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+=
+OAF 2007 Provate del Distretto Universitario di Zaragoza
+REAL SOCIetà spagnola di fisica</li>
+</ul>
+<p>Tra queste due estremità la dipendenza (4) dell’accelerazione con e è lineare, per
+che la grafica che viene richiesta è quella della figura 3.
+c)
+Il collegamento della corda con il ponte deve sopportare la tensione della corda
+che è uguale alla forza elastica, (
+)
+L
+y
+k
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+. La forza massima che
+ha a sopportare il colpo è</p>
+<h1 id="mgllmglkfmaxmaxmax4-1">(
+)
+(
+)
+mg
+L
+L
+mg
+L
+k
+F
+Max
+Max
+Max
+4<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#mgllmglkfmaxmaxmax4-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="-1">=<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></p>
+<p>Cioè,</p>
+<p>N
+10
+7
+2
+3
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4445em;"></span><span class="mord">⋅</span></span></span></span>
+= ,
+Fmax</p>
+<p>d)
+Se l’amatore di puenting usa due corde uguali in parallelo, la costante di prato equivalente è 2k, come indicato
+la frase. La corda doppia è più dura, l’allungamento massimo, (
+) max
+L <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+, è più piccolo e il frenaggio più brusco, con
+maggiore accelerazione.</p>
+<p>Il calcolo di (
+)’
+Max
+L
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+La misurazione è effettuata partendo dall’equazione (1) cambiando la costante del molo per 2k. In questo modo, la
+Equazione di secondo grado che si ottiene è</p>
+<h1 id="02-1">(
+)
+(
+)
+0
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#02-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span></p>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>
+L
+L
+L
+L
+L
+Max
+Max
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></p>
+<h1 id="rightarrowm31-1"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+(
+)
+m
+31<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#rightarrowm31-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mord mathnormal">ma</span><span class="mord mathnormal">x</span></span></span></span>
+L
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></p>
+<p>La lunghezza massima che raggiunge la corda in questo caso è</p>
+<h1 id="m79-1">m
+79<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#m79-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mord mathnormal">ma</span><span class="mord mathnormal">x</span></span></span></span>
+L</p>
+<p>La nuova accelerazione <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span class="mord mathnormal">a</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span> viene ottenuta come in (3), ma cambiando la costante del molo</p>
+<h1 id="ylkmgam---1">(
+)
+y
+L
+k
+mg
+a
+m
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ylkmgam---1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>
+2</p>
+<p>Considerando (2)</p>
+<p>(
+)</p>
+<h1 id="---1"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#---1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>
+L
+y
+L
+g
+a
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+2
+1</p>
+<p>Quindi l’accelerazione massima è</p>
+<p>(
+)</p>
+<h1 id="--5"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#--5" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>
+L
+L
+g
+a
+Max
+Max
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+2
+1
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+g
+,</p>
+<ul>
+<li>Ma non è vero.
+1
+4
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+=
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span></li>
+</ul>
+<p>In effetti</p>
+
+<p><img src="../_attachments/2007-prob_oaf_2007/2007-prob_oaf_2007_p1_f1.png" alt width="auto" height="auto"/>
+<em>bungee jumping con corda elastica</em></p>
+
+<p><strong>Topic:</strong> <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>, <a href="../topics/conservation-of-energy" class="internal internal-link alias" data-slug="topics/conservation-of-energy">Conservation of Energy</a>, <a href="../topics/elasticity--and--materials" class="internal internal-link alias" data-slug="topics/elasticity--and--materials">Elasticity &amp; Materials</a>
+<strong>Metodi:</strong> <a href="../methods/hooke's-law-(metodo)" class="internal internal-link alias" data-slug="methods/hooke's-law-(metodo)">Hooke’s Law</a>, <a href="../methods/energy-conservation-method-(metodo)" class="internal internal-link alias" data-slug="methods/energy-conservation-method-(metodo)">Energy Conservation Method</a>, <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>, <a href="../methods/kinematic-equations-(metodo)" class="internal internal-link alias" data-slug="methods/kinematic-equations-(metodo)">Kinematic Equations</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/diagrammatic-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/diagrammatic-reasoning-(competenza)">Diagrammatic Reasoning</a>, <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/spring-(object)" class="internal internal-link alias" data-slug="objects/spring-(object)">Spring</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1-RBp6FjJgtoYd9ev8Q2ZWMaybqAsriQa/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>P1
+The bridging.
+You’ve probably seen or heard of one of the most striking risk sports, the Puenting.
+(bungee jumping in English1) It consists of jumping from the top of a bridge with the ankles attached to an elastic rope, which
+slow down the fall gently, as shown in Figure 1. Although a realistic description of the movement is
+The first is that the jumpper falls freely with the
+the rope is untied, and in the second the rope is stretched elastically until the jumper stops falling at its lowest point.
+In this second phase it can be accepted that the rope complies with Hooke’s law, that is, it behaves as an ideal dock of
+constant k.
+Suppose a puenting enthusiast has a string of length L = 48 m and wants to use it to jump from
+a bridge with a height of h = 98 m (Figure 2). Naturally, before you launch you want to have certain assurances that your rope is
+It’s a good one. In particular, he wants to know if the maximum length that will reach the rope when it is stretched, Lmax, is less than
+The height h, otherwise its physical integrity would be seriously threatened.
+To get an experimental data on the elasticity of the rope, this puenting enthusiast hangs from the rope and
+comprueba que, en equilibrio, se alarga <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\DeltaL</span></span></span></span></span> = 12 m.
+a)
+If the air resistance is negligible and the jumper is dropped without initial speed, make an estimate of
+The maximum length that the rope will reach, Lmax. Is it wise to use this rope to jump off the bridge?</p>
+<ul>
+<li>What’s the point?
+b)
+In the falling process, the rope starts to play its part when the distance travelled by the jumper exceeds the length
+The rope starts to stretch to its maximum length when the jumper stops. Make one
+a graphical representation of the acceleration of the jumper in relation to the vertical distance, and, travelled from the part
+above the bridge, and = 0, to the lowest point of fall, and = Lmax. During this falling process what is the
+maximum acceleration at which the jumper is subjected?
+c)
+Assuming the mass of the jumper is m = 70 kg, calculate the maximum force to be withstood by the rope’s attachment with
+The bridge.
+d)
+For prudence, the puenting enthusiast decides to use two equal strings in parallel. This means that the pier
+It’s equivalent to the two strings, it has a double elastic constant, 2k. What maximum length will the two reach?
+The ropes? What will be the maximum jump acceleration under these conditions?</li>
+</ul>
+<p>Accelerations between 4g and 6g may cause injury if adequate safety measures are not taken.
+With this in mind, is it appropriate to use a double rope to make a safer jump?</p>
+<p>Warning: Even if you’ve been able to solve all the questions in this problem, you don’t think you’re qualified to
+I’m going to make a leap of these characteristics. Puenting is a high-risk sport and training is required
+It is directed by a person specially trained.</p>
+<p>1 The first references to this type of jump date back to 1930, when it was discovered that they were made by the indigenous people of the island of Vanuatu
+(Pentecostal Islands) with lianas attached to the feet, to prove their worth. At the Bristol Risk Sports Club they were held in 1979
+The first jump with a 78 m rope.</p>
+<p>Fig. 1
+Fig. 2
+2007 Proofs of the ZARAGOZA University District
+The Spanish Royal Physical Society</p>
+<p>Solution</p>
+<p>a)
+The first is that the air resistance is neglected, assuming that the jumper is dropped without initial speed and accepting that the
+The rope behaves like an ideal constant k dock, in the jump process the mechanical energy is preserved. Si
+We consider the reference level for the gravitational potential energy the lowest point the jumper reaches is
+You have to</p>
+<h1 id="221maxmaxlkllmgdeltadelta-2">(
+)
+[
+]
+(
+)2
+2
+1
+Max
+Max
+L
+k
+L
+L
+mg
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#221maxmaxlkllmgdeltadelta-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<ul>
+<li></li>
+</ul>
+<p>(1)</p>
+<p>where (
+(max)
+L
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+is the maximum length the string experiences.</p>
+<p>On the other hand, as the rope stretches
+L
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+When the amateur hangs from it and stays in balance,
+verify that</p>
+<h1 id="mglk-2">mg
+L
+k<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#mglk-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></p>
+<p>(2)</p>
+<p>Combining (1) and (2) leads to the following second-degree equation</p>
+<h1 id="0222-2">(
+)
+(
+)
+0
+2
+2
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#0222-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+L
+L
+L
+L
+L
+Max
+Max
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></p>
+<p>whose solution is</p>
+<h1 id="lllll-maxdeltadeltadeltadelta22-pm-2">(
+)
+L
+L
+L
+L
+L max
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+2
+2 +
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">±</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#lllll-maxdeltadeltadeltadelta22-pm-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Substituting the numerical data in the statement and disregarding the negative value of the solution, which makes no sense
+Physically, you get</p>
+<h1 id="m48-2">(
+)
+m
+48<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#m48-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Max
+L
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></p>
+<p>So the maximum length that reaches the rope is</p>
+<h1 id="maxmaxllldelta-2">(
+(max)
+Max
+L
+L
+L
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
++<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#maxmaxllldelta-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="rightarrowm96-2"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+m
+96<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#rightarrowm96-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Max
+L</p>
+<h1 id="althoughm98">Although
+m
+98<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#althoughm98" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>&lt; h
+Lmax
+The difference is very small, especially if you consider that the puenting enthusiast has
+a not-despicable stature and thrown with the rope tied to its ankles, as shown in Figure 1. In a calculation
+The most realistic should take into account the distance from its mass center at its feet at the time of launch, and its
+Head to the lowest point. It is not necessary to make calculations, as its height is about two metres, it is understood that its
+The health of the person can be seriously affected if he decides to make the leap under the conditions described.</p>
+<p>(b) The rope does not play a role as long as the distance travelled in the fall is less than its length L, so the rope is not
+Jump falls at a constant acceleration g. Since the rope starts to stretch over the jumper it acts, in addition to
+its weight, the recuperative force that is proportional to the stretch, and - L. Considering as the source of coordinates the
+point of launch and positive direction down, Newton’s second law allows you to write,</p>
+<p>(
+)</p>
+<p>for
+0</p>
+<h1 id="forlykmgmalylmgmalymax--">for
+L
+y
+k
+mg
+ma
+L
+y
+L
+mg
+ma
+L
+y
+Max
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#forlykmgmalylmgmalymax--" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="leqleq-2"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#leqleq-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span></p>
+<p>(3)</p>
+<p>Therefore, in the first phase of the fall, the acceleration at which the jumper moves is</p>
+<h1 id="lygaleqleq-2">L
+y
+g
+a
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#lygaleqleq-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>0</p>
+<p>for</p>
+<p>And in the second phase, taking into account (2), the acceleration function of y is</p>
+<p>( )
+Max
+L
+y
+L
+L
+L
+g
+y
+L
+g
+y
+a
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span></span></span></span></p>
+<ul>
+<li></li>
+<li></li>
+</ul>
+<h1 id="--6"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#--6" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>for</p>
+<p>1
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></p>
+<p>(4)</p>
+<h1 id="for-y--l-this-acceleration-is-equal-to-g-stopmaxmaxlllydelta">For y = L, this acceleration is equal to g. Stop
+(
+(max)
+Max
+L
+L
+L
+y
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
++<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#for-y--l-this-acceleration-is-equal-to-g-stopmaxmaxlllydelta" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>=
+The acceleration takes its maximum value (in value)
+absolute), given by</p>
+<p>(
+)</p>
+<h1 id="--7"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#--7" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="llgamaxmaxdeltadelta1rightarrowgthe-following-is-the-list-of-the-countries-of-the-european-union3-">L
+L
+g
+a
+Max
+Max
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+1
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+g
+The following is the list of the countries of the European Union:
+3
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#llgamaxmaxdeltadelta1rightarrowgthe-following-is-the-list-of-the-countries-of-the-european-union3-" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>2007 Proofs of the ZARAGOZA University District
+The Spanish Royal Physical Society</p>
+<p>Between these two extremes the dependence (4) of acceleration with y is linear, by
+So what the graph you’re asking for is the graph in Figure 3.
+c)
+The cable ‘s connection to the bridge has to withstand the tension of the cable
+which is equal to the elastic force, (
+)
+L
+y
+k
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+. Therefore, the maximum force that
+He has to endure the hook is</p>
+<h1 id="mgllmglkfmaxmaxmax4-2">(
+)
+(
+)
+mg
+L
+L
+mg
+L
+k
+F
+Max
+Max
+Max
+4<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#mgllmglkfmaxmaxmax4-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="-2">=<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></p>
+<p>I mean,</p>
+<p>N
+10
+7
+2
+3
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4445em;"></span><span class="mord">⋅</span></span></span></span>
+= ,
+Fmax</p>
+<p>d)
+If the puenting enthusiast uses two equal strings in parallel, the equivalent dock constant is 2k, as indicated
+The sentence. The double string is more hard, the maximum length, (
+) max
+L <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+, is smaller and braking more abrupt, with
+The speed of the engine is greater.</p>
+<p>The calculation of (
+)’
+Max
+L
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+The value of the value of the underlying asset is the sum of the underlying asset’s assets. In this way, the
+The second-degree equation that you get is</p>
+<h1 id="02-2">(
+)
+(
+)
+0
+2<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#02-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span></p>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>
+L
+L
+L
+L
+L
+Max
+Max
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></p>
+<h1 id="rightarrowm31-2"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+(
+)
+m
+31<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#rightarrowm31-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mord mathnormal">ma</span><span class="mord mathnormal">x</span></span></span></span>
+L
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span></p>
+<p>The maximum length that the rope reaches in this case is</p>
+<h1 id="m79-2">m
+79<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#m79-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span><span class="mord mathnormal">ma</span><span class="mord mathnormal">x</span></span></span></span>
+L</p>
+<p>The new acceleration <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span class="mord mathnormal">a</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span> is obtained as in (3), but changing the constant of the dock</p>
+<h1 id="ylkmgam---2">(
+)
+y
+L
+k
+mg
+a
+m
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ylkmgam---2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>
+2</p>
+<p>Having regard to the Treaty on European Union (2)</p>
+<p>(
+)</p>
+<h1 id="---2"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#---2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>
+L
+y
+L
+g
+a
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+2
+1</p>
+<p>So the maximum acceleration is</p>
+<p>(
+)</p>
+<h1 id="--8"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#--8" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="llgamaxmaxdeltadelta21rightarrowgthe-following-is-the-list-of-the-countries-of-the-european-union14-"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span>
+L
+L
+g
+a
+Max
+Max
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span></span></span></span>
+2
+1
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span>
+g
+,
+The following is the list of the countries of the European Union:
+1
+4
+<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">−</span></span></span></span><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#llgamaxmaxdeltadelta21rightarrowgthe-following-is-the-list-of-the-countries-of-the-european-union14-" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7519em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7519em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p>In effect</p>
+
+<p><img src="../_attachments/2007-prob_oaf_2007/2007-prob_oaf_2007_p1_f1.png" alt width="auto" height="auto"/>
+<em>bungee jumping with elastic rope</em></p>
+
+<p><strong>Topic:</strong> <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>, <a href="../topics/conservation-of-energy" class="internal internal-link alias" data-slug="topics/conservation-of-energy">Conservation of Energy</a>, <a href="../topics/elasticity--and--materials" class="internal internal-link alias" data-slug="topics/elasticity--and--materials">Elasticity &amp; Materials</a>
+<strong>Metodi:</strong> <a href="../methods/hooke's-law-(metodo)" class="internal internal-link alias" data-slug="methods/hooke's-law-(metodo)">Hooke’s Law</a>, <a href="../methods/energy-conservation-method-(metodo)" class="internal internal-link alias" data-slug="methods/energy-conservation-method-(metodo)">Energy Conservation Method</a>, <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>, <a href="../methods/kinematic-equations-(metodo)" class="internal internal-link alias" data-slug="methods/kinematic-equations-(metodo)">Kinematic Equations</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/diagrammatic-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/diagrammatic-reasoning-(competenza)">Diagrammatic Reasoning</a>, <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/spring-(object)" class="internal internal-link alias" data-slug="objects/spring-(object)">Spring</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1-RBp6FjJgtoYd9ev8Q2ZWMaybqAsriQa/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"><div class="toc"><button type="button" class="toc-header" aria-controls="toc-61" aria-expanded="true"><h3>Indice</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-0" class="toc-content overflow"><li class="depth-0"><a href="#221maxmaxlkllmgdeltadelta" data-for="221maxmaxlkllmgdeltadelta">(
+)
+[
+]
+(
+)2
+2
+1
+max
+max
+L
+k
+L
+L
+mg
+\Delta
+\Delta</a></li><li class="depth-0"><a href="#mglk" data-for="mglk">mg
+L
+k</a></li><li class="depth-0"><a href="#0222" data-for="0222">(
+)
+(
+)
+0
+2
+2
+2</a></li><li class="depth-0"><a href="#lllll-maxdeltadeltadeltadelta22-pm" data-for="lllll-maxdeltadeltadeltadelta22-pm">(
+)
+L
+L
+L
+L
+L max
+\Delta
+\Delta
+\Delta
+\Delta
+2
+2 +
+\pm</a></li><li class="depth-0"><a href="#m48" data-for="m48">(
+)
+m
+48</a></li><li class="depth-0"><a href="#maxmaxllldelta" data-for="maxmaxllldelta">(
+)max
+max
+L
+L
+L
+\Delta
++</a></li><li class="depth-0"><a href="#rightarrowm96" data-for="rightarrowm96">\Rightarrow
+m
+96</a></li><li class="depth-0"><a href="#aunquem98" data-for="aunquem98">Aunque
+m
+98</a></li><li class="depth-0"><a href="#paralykmgmalylmgmalymax--" data-for="paralykmgmalylmgmalymax--">para
+L
+y
+k
+mg
+ma
+L
+y
+L
+mg
+ma
+L
+y
+max
+-
+-</a></li><li class="depth-0"><a href="#leqleq" data-for="leqleq">\leq
+\leq</a></li><li class="depth-0"><a href="#lygaleqleq" data-for="lygaleqleq">L
+y
+g
+a
+\leq
+\leq</a></li><li class="depth-0"><a href="#-" data-for="-">-</a></li><li class="depth-0"><a href="#para-y--l-esta-aceleración-coincide-con-g-paramaxmaxlllydelta" data-for="para-y--l-esta-aceleración-coincide-con-g-paramaxmaxlllydelta">Para y = L, esta aceleración coincide con g. Para
+(
+)max
+max
+L
+L
+L
+y
+\Delta
++</a></li><li class="depth-0"><a href="#--1" data-for="--1">-</a></li><li class="depth-0"><a href="#llgamaxmaxdeltadelta1rightarrowgamax3-" data-for="llgamaxmaxdeltadelta1rightarrowgamax3-">L
+L
+g
+a
+max
+max
+\Delta
+\Delta
+1
+\Rightarrow
+g
+amax
+3
+-</a></li><li class="depth-0"><a href="#mgllmglkfmaxmaxmax4" data-for="mgllmglkfmaxmaxmax4">(
+)
+(
+)
+mg
+L
+L
+mg
+L
+k
+F
+max
+max
+max
+4</a></li><li class="depth-0"><a href="#" data-for>=</a></li><li class="depth-0"><a href="#02" data-for="02">(
+)
+(
+)
+0
+2</a></li><li class="depth-0"><a href="#rightarrowm31" data-for="rightarrowm31">\Rightarrow
+(
+)
+m
+31</a></li><li class="depth-0"><a href="#m79" data-for="m79">m
+79</a></li><li class="depth-0"><a href="#ylkmgam--" data-for="ylkmgam--">(
+)
+y
+L
+k
+mg
+a
+m
+-
+-</a></li><li class="depth-0"><a href="#--" data-for="--">-
+-</a></li><li class="depth-0"><a href="#--2" data-for="--2">'
+-</a></li><li class="depth-0"><a href="#llgamaxmaxdeltadelta21rightarrowgamax14-" data-for="llgamaxmaxdeltadelta21rightarrowgamax14-">'
+L
+L
+g
+a
+max
+max
+\Delta
+\Delta
+2
+1
+\Rightarrow
+g
+,
+amax
+1
+4
+-</a></li><li class="depth-0"><a href="#221maxmaxlkllmgdeltadelta-1" data-for="221maxmaxlkllmgdeltadelta-1">(
+)
+[
+]
+(
+)2
+2
+1
+Max
+Max
+L
+k
+L
+L
+mg
+\Delta
+\Delta</a></li><li class="depth-0"><a href="#mglk-1" data-for="mglk-1">mg
+L
+k</a></li><li class="depth-0"><a href="#0222-1" data-for="0222-1">(
+)
+(
+)
+0
+2
+2
+2</a></li><li class="depth-0"><a href="#lllll-maxdeltadeltadeltadelta22-pm-1" data-for="lllll-maxdeltadeltadeltadelta22-pm-1">(
+)
+L
+L
+L
+L
+L max
+\Delta
+\Delta
+\Delta
+\Delta
+2
+2 +
+\pm</a></li><li class="depth-0"><a href="#m48-1" data-for="m48-1">(
+)
+m
+48</a></li><li class="depth-0"><a href="#maxmaxllldelta-1" data-for="maxmaxllldelta-1">(
+)max
+Max
+L
+L
+L
+\Delta
++</a></li><li class="depth-0"><a href="#rightarrowm96-1" data-for="rightarrowm96-1">\Rightarrow
+m
+96</a></li><li class="depth-0"><a href="#anche-sem98" data-for="anche-sem98">Anche se
+m
+98</a></li><li class="depth-0"><a href="#perlykmgmalylmgmalymax--" data-for="perlykmgmalylmgmalymax--">per
+L
+y
+k
+mg
+ma
+L
+y
+L
+mg
+ma
+L
+y
+Max
+-
+-</a></li><li class="depth-0"><a href="#leqleq-1" data-for="leqleq-1">\leq
+\leq</a></li><li class="depth-0"><a href="#lygaleqleq-1" data-for="lygaleqleq-1">L
+y
+g
+a
+\leq
+\leq</a></li><li class="depth-0"><a href="#--3" data-for="--3">-</a></li><li class="depth-0"><a href="#per-y--l-questa-accelerazione-corrisponde-a-g-permaxmaxlllydelta" data-for="per-y--l-questa-accelerazione-corrisponde-a-g-permaxmaxlllydelta">Per y = L, questa accelerazione corrisponde a g. Per
+(
+)max
+Max
+L
+L
+L
+y
+\Delta
++</a></li><li class="depth-0"><a href="#--4" data-for="--4">-</a></li><li class="depth-0"><a href="#mgllmglkfmaxmaxmax4-1" data-for="mgllmglkfmaxmaxmax4-1">(
+)
+(
+)
+mg
+L
+L
+mg
+L
+k
+F
+Max
+Max
+Max
+4</a></li><li class="depth-0"><a href="#-1" data-for="-1">=</a></li><li class="depth-0"><a href="#02-1" data-for="02-1">(
+)
+(
+)
+0
+2</a></li><li class="depth-0"><a href="#rightarrowm31-1" data-for="rightarrowm31-1">\Rightarrow
+(
+)
+m
+31</a></li><li class="depth-0"><a href="#m79-1" data-for="m79-1">m
+79</a></li><li class="depth-0"><a href="#ylkmgam---1" data-for="ylkmgam---1">(
+)
+y
+L
+k
+mg
+a
+m
+-
+-</a></li><li class="depth-0"><a href="#---1" data-for="---1">-
+-</a></li><li class="depth-0"><a href="#--5" data-for="--5">'
+-</a></li><li class="depth-0"><a href="#221maxmaxlkllmgdeltadelta-2" data-for="221maxmaxlkllmgdeltadelta-2">(
+)
+[
+]
+(
+)2
+2
+1
+Max
+Max
+L
+k
+L
+L
+mg
+\Delta
+\Delta</a></li><li class="depth-0"><a href="#mglk-2" data-for="mglk-2">mg
+L
+k</a></li><li class="depth-0"><a href="#0222-2" data-for="0222-2">(
+)
+(
+)
+0
+2
+2
+2</a></li><li class="depth-0"><a href="#lllll-maxdeltadeltadeltadelta22-pm-2" data-for="lllll-maxdeltadeltadeltadelta22-pm-2">(
+)
+L
+L
+L
+L
+L max
+\Delta
+\Delta
+\Delta
+\Delta
+2
+2 +
+\pm</a></li><li class="depth-0"><a href="#m48-2" data-for="m48-2">(
+)
+m
+48</a></li><li class="depth-0"><a href="#maxmaxllldelta-2" data-for="maxmaxllldelta-2">(
+(max)
+Max
+L
+L
+L
+\Delta
++</a></li><li class="depth-0"><a href="#rightarrowm96-2" data-for="rightarrowm96-2">\Rightarrow
+m
+96</a></li><li class="depth-0"><a href="#althoughm98" data-for="althoughm98">Although
+m
+98</a></li><li class="depth-0"><a href="#forlykmgmalylmgmalymax--" data-for="forlykmgmalylmgmalymax--">for
+L
+y
+k
+mg
+ma
+L
+y
+L
+mg
+ma
+L
+y
+Max
+-
+-</a></li><li class="depth-0"><a href="#leqleq-2" data-for="leqleq-2">\leq
+\leq</a></li><li class="depth-0"><a href="#lygaleqleq-2" data-for="lygaleqleq-2">L
+y
+g
+a
+\leq
+\leq</a></li><li class="depth-0"><a href="#--6" data-for="--6">-</a></li><li class="depth-0"><a href="#for-y--l-this-acceleration-is-equal-to-g-stopmaxmaxlllydelta" data-for="for-y--l-this-acceleration-is-equal-to-g-stopmaxmaxlllydelta">For y = L, this acceleration is equal to g. Stop
+(
+(max)
+Max
+L
+L
+L
+y
+\Delta
++</a></li><li class="depth-0"><a href="#--7" data-for="--7">-</a></li><li class="depth-0"><a href="#llgamaxmaxdeltadelta1rightarrowgthe-following-is-the-list-of-the-countries-of-the-european-union3-" data-for="llgamaxmaxdeltadelta1rightarrowgthe-following-is-the-list-of-the-countries-of-the-european-union3-">L
+L
+g
+a
+Max
+Max
+\Delta
+\Delta
+1
+\Rightarrow
+g
+The following is the list of the countries of the European Union:
+3
+-</a></li><li class="depth-0"><a href="#mgllmglkfmaxmaxmax4-2" data-for="mgllmglkfmaxmaxmax4-2">(
+)
+(
+)
+mg
+L
+L
+mg
+L
+k
+F
+Max
+Max
+Max
+4</a></li><li class="depth-0"><a href="#-2" data-for="-2">=</a></li><li class="depth-0"><a href="#02-2" data-for="02-2">(
+)
+(
+)
+0
+2</a></li><li class="depth-0"><a href="#rightarrowm31-2" data-for="rightarrowm31-2">\Rightarrow
+(
+)
+m
+31</a></li><li class="depth-0"><a href="#m79-2" data-for="m79-2">m
+79</a></li><li class="depth-0"><a href="#ylkmgam---2" data-for="ylkmgam---2">(
+)
+y
+L
+k
+mg
+a
+m
+-
+-</a></li><li class="depth-0"><a href="#---2" data-for="---2">-
+-</a></li><li class="depth-0"><a href="#--8" data-for="--8">'
+-</a></li><li class="depth-0"><a href="#llgamaxmaxdeltadelta21rightarrowgthe-following-is-the-list-of-the-countries-of-the-european-union14-" data-for="llgamaxmaxdeltadelta21rightarrowgthe-following-is-the-list-of-the-countries-of-the-european-union14-">'
+L
+L
+g
+a
+Max
+Max
+\Delta
+\Delta
+2
+1
+\Rightarrow
+g
+,
+The following is the list of the countries of the European Union:
+1
+4
+-</a></li><li class="overflow-end"></li></ul></div></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/spring-(object)" class="internal">Spring</a></li><li><a href="../prove/2007-prob_oaf_2007" class="internal">Spagna 2007</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

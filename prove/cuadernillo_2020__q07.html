@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr"><head><title>Argent 2020 Locale — Quesito 7</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="Argent 2020 Locale — Quesito 7"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Argent 2020 Locale — Quesito 7"/><meta name="twitter:description" content="Problema 3 Una niña arma el dispositivo que se muestra en la figura."/><meta property="og:description" content="Problema 3 Una niña arma el dispositivo que se muestra en la figura."/><meta property="og:image:alt" content="Problema 3 Una niña arma el dispositivo que se muestra en la figura."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2020__q07"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2020__q07"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Problema 3 Una niña arma el dispositivo que se muestra en la figura."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/cuadernillo_2020__q07" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-9824" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-9824" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Argent 2020 Locale — Quesito 7</a></div></nav><h1 class="article-title">Argent 2020 Locale — Quesito 7</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/kg/prova" class="internal internal-link tag-link">kg/prova</a><span class="note-properties-separator">, </span><a href="../tags/paese/argentina" class="internal internal-link tag-link">paese/argentina</a><span class="note-properties-separator">, </span><a href="../tags/comp/argent" class="internal internal-link tag-link">comp/argent</a><span class="note-properties-separator">, </span><a href="../tags/cluster/meccanica" class="internal internal-link tag-link">cluster/meccanica</a><span class="note-properties-separator">, </span><a href="../tags/topic/conservation-of-momentum" class="internal internal-link tag-link">topic/conservation-of-momentum</a><span class="note-properties-separator">, </span><a href="../tags/argomento/meccanica" class="internal internal-link tag-link">argomento/meccanica</a><span class="note-properties-separator">, </span><a href="../tags/difficolta/4" class="internal internal-link tag-link">difficolta/4</a><span class="note-properties-separator">, </span><a href="../tags/multidisciplina/multi" class="internal internal-link tag-link">multidisciplina/multi</a><span class="note-properties-separator">, </span><a href="../tags/object/pendulum" class="internal internal-link tag-link">object/pendulum</a><span class="note-properties-separator">, </span><a href="../tags/object/block" class="internal internal-link tag-link">object/block</a><span class="note-properties-separator">, </span><a href="../tags/object/spring" class="internal internal-link tag-link">object/spring</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:28:02.980Z">02 lug 2026</time><span>12 minuti</span></p><ul class="tags"><li><a href="../tags/kg/prova" class="internal tag-link">kg/prova</a></li><li><a href="../tags/paese/argentina" class="internal tag-link">paese/argentina</a></li><li><a href="../tags/comp/argent" class="internal tag-link">comp/argent</a></li><li><a href="../tags/cluster/meccanica" class="internal tag-link">cluster/meccanica</a></li><li><a href="../tags/topic/conservation-of-momentum" class="internal tag-link">topic/conservation-of-momentum</a></li><li><a href="../tags/argomento/meccanica" class="internal tag-link">argomento/meccanica</a></li><li><a href="../tags/difficolta/4" class="internal tag-link">difficolta/4</a></li><li><a href="../tags/multidisciplina/multi" class="internal tag-link">multidisciplina/multi</a></li><li><a href="../tags/object/pendulum" class="internal tag-link">object/pendulum</a></li><li><a href="../tags/object/block" class="internal tag-link">object/block</a></li><li><a href="../tags/object/spring" class="internal tag-link">object/spring</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="es"></div>
+<p>Problema 3
+Una niña arma el dispositivo que se muestra en la figura. Este está compuesto por un
+péndulo formado por una masa puntual m1 la cual está suspendida de un hilo de masa
+despreciable y longitud l0. El péndulo se libera con el hilo en posición horizontal y cuando
+la masa llega a la parte inferior de su trayectoria choca elásticamente con otro cuerpo m2.
+El cuerpo m2 desliza una distancia d sobre la superficie horizontal sin rozamiento hasta
+impactar con un resorte de constante elástica k al cual comprime hasta detenerse. Luego
+el resorte se expande haciendo que el cuerpo regrese hacia donde está el péndulo.
+a) Describa cualitativamente cuál será el movimiento de los cuerpos que componen
+el sistema.
+b) Determine la velocidad de los cuerpos luego del choque.
+c) Calcule cuál será la máxima compresión del resorte cuando m2 choque con él.
+d) Determine el tiempo que demorará m2 volver nuevamente a la posición inicial.
+e) Diga si el movimiento de este sistema será periódico y en caso afirmativo analice
+si se puede determinar el periodo de este movimiento y cuál sería su valor.</p>
+<p>32 - OAF 2020</p>
+<p>Datos: m1 = m2 = 5 kg; l0 = 5 m; d = 50 m; k = 125 N/m y g = 10 m/s2.</p>
+<p>Problema Experimental
+Caída libre y rebotes</p>
+<p>Primera Parte
+Introducción
+Cuando una pelota rebota sobre una superficie rígida, la componente de la velocidad
+perpendicular a la superficie invierte su sentido y disminuye su valor, mientras que la
+componente paralela se mantiene constante. Es decir, si la velocidad de la pelota antes
+del choque es 𝑣⃗ y luego del choque es 𝑢⃗⃗,</p>
+<p>𝑢𝑥= 𝑣𝑥<br/>
+(1)</p>
+<p>𝑢𝑦= −𝑒 𝑣𝑦<br/>
+(2)</p>
+<p>Donde 𝑒 es el coeficiente de restitución con 0 &lt; 𝑒&lt; 1 .</p>
+<p>Si una pelota se deja caer desde una altura ℎ0, en los sucesivos rebotes pierde energía y
+alcanza alturas cada vez menores hasta que eventualmente se detiene como se observa
+en la figura 1.</p>
+<p>Figura 1: Rebotes sucesivos de una pelota que cae desde una altura ℎ0.</p>
+<p>Escribiendo la ecuación de movimiento para la pelota se puede encontrar que</p>
+<p>𝑡0 = √
+2ℎ0
+𝑔<br/>
+(3)</p>
+<p>m1
+m2
+l0
+d</p>
+<p>OAF 2020- 33
+𝑡1 = (1 + 2𝑒)√
+2ℎ0
+𝑔<br/>
+(4)</p>
+<p>Donde g es la aceleración de la gravedad.</p>
+<p>Objetivo</p>
+<ul>
+<li>Determinar el coeficiente de restitución 𝑒 de una pelota.</li>
+</ul>
+<p>Materiales</p>
+<ul>
+<li>Pelota</li>
+<li>Cronómetro</li>
+<li>Cinta métrica</li>
+</ul>
+<p>Procedimiento
+a) Mida el tiempo 𝑡0 y 𝑡1 cuando la pelota se deja caer desde una altura ℎ0. Repita
+las mediciones 10 veces para 5 alturas ℎ0 distintas. Determine el valor de ℎ0
+utilizados en las mediciones.
+b) Grafique 𝑡0
+2 en función de ℎ0 y realice un ajuste lineal de los puntos.
+c) Grafique 𝑡1
+2 en función de ℎ0 y realice un ajuste lineal de los puntos.
+d) A partir de la ecuación (3) y (4) y de los ajustes realizados, determine el valor<br/>
+de 𝑒.</p>
+<p>Segunda Parte: Uso de un cronómetro acústico (Aplicación gratuita phyphox para
+teléfonos celulares).</p>
+<p>Introducción
+Se puede demostrar que el tiempo ∆𝑡𝑛= 𝑡𝑛−𝑡𝑛−1 que la pelota pasa en el aire entre dos
+rebotes sucesivos es</p>
+<p>∆𝑡𝑛= 2𝑡0𝑒𝑛</p>
+<p>(5)</p>
+<p>Donde 𝑡0 está dado por la ecuación (3) y 𝑛 es el número de rebotes.</p>
+<p>Tomando logaritmo natural en ambos miembros de la ecuación (5) se obtiene que</p>
+<p>ln(∆𝑡𝑛) = 𝑛 𝑙𝑛(𝑒) + 𝑙𝑛(2𝑡0)<br/>
+(6)</p>
+<p>Entonces eligiendo como variables a y = ln(∆𝑡𝑛) y a 𝑥= 𝑛 se obtiene una relación lineal
+entre estas variables.</p>
+<p>Objetivo</p>
+<ul>
+<li>Determinar el coeficiente de restitución 𝑒 de una pelota y la aceleración de la
+gravedad</li>
+</ul>
+<p>Materiales</p>
+<ul>
+<li>Pelota</li>
+<li>Cronómetro acústico (Aplicación phyphox)</li>
+<li>Cinta métrica</li>
+</ul>
+<p>Procedimiento
+e) Deje caer una pelota desde una altura ℎ0 y mida el tiempo entre rebotes sucesivos.
+Para ello utilice la opción Temporizadores > Cronómetro acústico > Secuencia de la
+aplicación phyphox.
+f) Determine la altura ℎ0 utilizada en la medición.</p>
+<p>34 - OAF 2020
+g) Realice un gráfico de la variable 𝑦 en función de la variable 𝑥 propuesta. Realice un
+ajuste lineal.
+h) A partir de la pendiente y de la ordenada al origen obtenidas del ajuste, determine el
+valor de 𝑔 y de 𝑒.</p>
+<p>Nota
+El error de y = ln(∆𝑡𝑛) puede determinarse como σ𝑦=
+σ∆𝑡𝑛
+∆𝑡𝑛  donde σ∆𝑡𝑛 es el error de ∆𝑡𝑛.</p>
+<p>Segunda Prueba Preparatoria: Electricidad y Magnetismo</p>
+
+<p><img src="../_attachments/cuadernillo_2020/cuadernillo_2020_vt17.png" alt width="auto" height="auto"/>
+<img src="../_attachments/cuadernillo_2020/cuadernillo_2020_vt103.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/conservation-of-momentum" class="internal internal-link alias" data-slug="topics/conservation-of-momentum">Conservation of Momentum</a>, <a href="../topics/conservation-of-energy" class="internal internal-link alias" data-slug="topics/conservation-of-energy">Conservation of Energy</a>
+<strong>Metodi:</strong> <a href="../methods/conservation-of-momentum-(metodo)" class="internal internal-link alias" data-slug="methods/conservation-of-momentum-(metodo)">Conservation of Momentum</a>, <a href="../methods/conservation-of-energy-(metodo)" class="internal internal-link alias" data-slug="methods/conservation-of-energy-(metodo)">Conservation of Energy</a>, <a href="../methods/hooke's-law-(metodo)" class="internal internal-link alias" data-slug="methods/hooke's-law-(metodo)">Hooke’s Law</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/pendulum-(object)" class="internal internal-link alias" data-slug="objects/pendulum-(object)">Pendulum</a>, <a href="../objects/block-(object)" class="internal internal-link alias" data-slug="objects/block-(object)">Block</a>, <a href="../objects/spring-(object)" class="internal internal-link alias" data-slug="objects/spring-(object)">Spring</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1bgAZSXy8ARIR8D6Cnsg9YiYajdt9Xs4P/view" class="external external-link">Testo (PDF) — p.7<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="it"></div>
+<p>Problema 3
+Una bambina arma il dispositivo che viene mostrato nella figura. Questo è composto da un
+pendolo formato da una massa puntante m1 che è sospesa da un filo di massa
+scarsa e longitudinale l0. Il pendolo si libera con il filo in posizione orizzontale e quando
+la massa raggiunge la parte inferiore del suo percorso colpisce elasticamente con un altro corpo m2.
+Il corpo m2 scivola una distanza d sulla superficie orizzontale senza rottura fino a
+colpisce con una sorgente di costante k e si comprime fino a fermarsi. Poi
+la primavera si espandono facendo tornare il corpo verso il pendolo.
+a) Descriva qualitativamente il movimento dei corpi che li compongono.
+il sistema.
+b) Determina la velocità dei corpi dopo l’impatto.
+c) Calcolare la massima compressione della molla quando m2 colpisce la molla.
+d) Determina il tempo necessario per tornare a posizionare di nuovo il m2.
+e) Indicare se il movimento di questo sistema sarà periodico e, se sì, analizzare
+se si può determinare il periodo di tale movimento e quale sarebbe il suo valore.</p>
+<p>32 - OAF 2020</p>
+<p>Dati: m1 = m2 = 5 kg; l0 = 5 m; d = 50 m; k = 125 N/m e g = 10 m/s2.</p>
+<p>Problema sperimentale
+Caduta libera e rimbalzi</p>
+<p>Parte I
+Introduzione
+Quando una palla rimbalza su una superficie rigida, la componente di velocità
+Perpendicolare alla superficie inverte il senso e diminuisce il valore, mentre la
+la componente parallela è costante. Cioè, se la velocità del pallone prima
+della collisione è v e dopo la collisione è u,</p>
+<p>𝑢𝑥= 𝑣𝑥<br/>
+(1)</p>
+<p>𝑢𝑦= −𝑒 𝑣𝑦<br/>
+(2)</p>
+<p>Dove e è il coefficiente di restituzione con 0 &lt; e &lt; 1 .</p>
+<p>Se una palla viene lasciata cadere da un’altezza h0, nei successivi rimbalzi perde energia e
+raggiunge altezze sempre più ridotte fino a quando si ferma come si osserva.
+in figura 1.</p>
+<p>Figura 1: Sostenute rinfreschi di una palla che cade da un’altezza h0.</p>
+<p>Scrivendo l’equazione di movimento per la palla si può trovare che</p>
+<p>𝑡0 = √
+2ℎ0
+𝑔<br/>
+(3)</p>
+<p>m1
+m2
+l0
+d</p>
+<p>OAF 2020- 33
+𝑡1 = (1 + 2𝑒)√
+2ℎ0
+𝑔<br/>
+(4)</p>
+<p>Dove g è l’accelerazione della gravità.</p>
+<p>Obiettivo</p>
+<ul>
+<li>Determinare il coefficiente di restituzione e di una palla.</li>
+</ul>
+<p>Materiali</p>
+<ul>
+<li>Ballo .</li>
+<li>Cronometro .</li>
+<li>Cintura metrica .</li>
+</ul>
+<p>Procedura
+a) Misurare il tempo t0 e t1 quando la palla viene lasciata cadere da un’altezza h0. Ripeti
+le misurazioni 10 volte per 5 altezze diverse. Determina il valore di h0
+utilizzati nelle misurazioni.
+b) Grafico t0
+2 in funzione di h0 e eseguire un regolazione lineare dei punti.
+c) Grafico t1
+2 in funzione di h0 e eseguire un regolazione lineare dei punti.
+d) Sulla base delle equazioni (3) e (4) e degli aggiustamenti effettuati, determinare il valore
+de 𝑒.</p>
+<p>Parte II: Uso di un cronometro acustico (Applicazione gratuita di phyphox per
+Telefoni cellulari).</p>
+<p>Introduzione
+Si può dimostrare che il tempo ∆tn=tn−tn−1 che la palla passa in aria tra due
+successive rimbalzi è</p>
+<p>∆𝑡𝑛= 2𝑡0𝑒𝑛</p>
+<p>(5)</p>
+<p>Dove t0 è dato dall’equazione (3) e n è il numero di rimbalzi.</p>
+<p>Prendendo logaritmo naturale su entrambi i membri dell’equazione (5) si ottiene che</p>
+<p>ln(∆𝑡𝑛) = 𝑛 𝑙𝑛(𝑒) + 𝑙𝑛(2𝑡0)<br/>
+(6)</p>
+<p>Quindi scegliendo come variabili a y = ln(∆tn) e a x = n si ottiene un rapporto lineare
+tra queste variabili.</p>
+<p>Obiettivo</p>
+<ul>
+<li>Determinare il coefficiente di restituzione e di una palla e l’accelerazione della
+gravità</li>
+</ul>
+<p>Materiali</p>
+<ul>
+<li>Ballo .</li>
+<li>Cronometro acustico (applicazione phyphox)</li>
+<li>Cintura metrica .</li>
+</ul>
+<p>Procedura
+e) Lasciare cadere una palla da un’altezza h0 e misurare il tempo tra i successivi rimbalzi.
+Per fare questo, utilizzare l’opzione Temporatori > Cronometro acustico > Sequenza della
+Applicazione di phyphox.
+f) Determina l’altezza h0 utilizzata per la misurazione.</p>
+<p>34 - OAF 2020
+g) Realizzare un grafico della variabile e in base alla variabile x proposta. Fate un’ operazione.
+regolazione lineare.
+h) A partire dalla pendenza e dall’ordinanza all’origine ottenute dall’aggiustamento, determinare il
+Valore di g e di e.</p>
+<p>Nota
+L’errore di y = ln(∆tn) può essere determinato come σy=
+σ∆𝑡𝑛
+∆tn dove σ∆tn è l’errore di ∆tn.</p>
+<p>Secondo esame preparatorio: elettricità e magnetismo</p>
+
+<p><img src="../_attachments/cuadernillo_2020/cuadernillo_2020_vt17.png" alt width="auto" height="auto"/>
+<img src="../_attachments/cuadernillo_2020/cuadernillo_2020_vt103.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/conservation-of-momentum" class="internal internal-link alias" data-slug="topics/conservation-of-momentum">Conservation of Momentum</a>, <a href="../topics/conservation-of-energy" class="internal internal-link alias" data-slug="topics/conservation-of-energy">Conservation of Energy</a>
+<strong>Metodi:</strong> <a href="../methods/conservation-of-momentum-(metodo)" class="internal internal-link alias" data-slug="methods/conservation-of-momentum-(metodo)">Conservation of Momentum</a>, <a href="../methods/conservation-of-energy-(metodo)" class="internal internal-link alias" data-slug="methods/conservation-of-energy-(metodo)">Conservation of Energy</a>, <a href="../methods/hooke's-law-(metodo)" class="internal internal-link alias" data-slug="methods/hooke's-law-(metodo)">Hooke’s Law</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/pendulum-(object)" class="internal internal-link alias" data-slug="objects/pendulum-(object)">Pendulum</a>, <a href="../objects/block-(object)" class="internal internal-link alias" data-slug="objects/block-(object)">Block</a>, <a href="../objects/spring-(object)" class="internal internal-link alias" data-slug="objects/spring-(object)">Spring</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1bgAZSXy8ARIR8D6Cnsg9YiYajdt9Xs4P/view" class="external external-link">Testo (PDF) — p.7<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>Problem three .
+A girl arms the device shown in the figure. This one is made up of a
+pendulum formed by a point mass m1 which is suspended from a mass thread
+The length of the length is 0. The pendulum is released with the thread in a horizontal position and when
+The mass reaches the bottom of its trajectory and collides elastically with another m2 body.
+The m2 body slides a distance d over the horizontal surface without rubbing up to
+The pressure of the gas is measured by the pressure of the gas. Then .
+The spring expands, causing the body to return to where the pendulum is.
+(a) Qualitatively describe the movement of the bodies that make up the body.
+the system.
+(b) Determine the speed of the bodies after impact.
+(c) Calculate the maximum spring compression when m2 hits it.
+(d) Determine how long it will take m2 to return to the starting position.
+(e) Tell if the movement of this system will be periodic and if so, analyse
+whether the period of this movement can be determined and its value.</p>
+<p>The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.</p>
+<p>Data: m1 = m2 = 5 kg; l0 = 5 m; d = 50 m; k = 125 N/m and g = 10 m/s2.</p>
+<p>Experimental problem .
+Free fall and bounce .</p>
+<p>Part one
+The first is the introduction.
+When a ball bounces over a rigid surface, the component of speed
+Perpendicular to the surface reverses its meaning and decreases its value, while the
+The parallel component is kept constant. I mean, if the speed of the ball before
+of the shock is v and after the shock is u,</p>
+<p>𝑢𝑥= 𝑣𝑥<br/>
+(1)</p>
+<p>𝑢𝑦= −𝑒 𝑣𝑦<br/>
+(2)</p>
+<p>Where e is the restitution coefficient with 0 &lt; e &lt; 1 .</p>
+<p>If a ball is dropped from a height of h0, in successive bouts it loses energy and
+It reaches ever-shorter heights until eventually stops as seen
+in Figure 1.</p>
+<p>Figure 1: Successive bouncing of a ball falling from a height of h0.</p>
+<p>Writing the motion equation for the ball you can find that</p>
+<p>𝑡0 = √
+2ℎ0
+𝑔<br/>
+(3)</p>
+<p>m1
+m2
+l0
+d</p>
+<p>The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
+𝑡1 = (1 + 2𝑒)√
+2ℎ0
+𝑔<br/>
+(4)</p>
+<p>Where g is the acceleration of gravity.</p>
+<p>The objective</p>
+<ul>
+<li>Determine the coefficient of return and a ball.</li>
+</ul>
+<p>Materials</p>
+<ul>
+<li>Ball .</li>
+<li>The chronometer .</li>
+<li>Metric tape .</li>
+</ul>
+<p>The procedure
+(a) Measure the time t0 and t1 when the ball is dropped from a height of h0. Repeat .
+The measurements are 10 times for 5 different heights h0. Determine the value of h0
+used in measurements.
+(b) Graph t0
+2 based on h0 and linearly adjust the points.
+(c) Graph t1
+2 based on h0 and linearly adjust the points.
+(d) From equation (3) and (4) and adjustments made, determine the value
+de 𝑒.</p>
+<p>Part Two: Use of an acoustic chronometer (Free phyphox app for
+cell phones).</p>
+<p>The first is the introduction.
+It can be shown that the time ∆tn=tn−tn−1 that the ball passes in the air between two
+Successive rebounds are</p>
+<p>∆𝑡𝑛= 2𝑡0𝑒𝑛</p>
+<p>(5)</p>
+<p>Where t0 is given by equation (3) and n is the number of bounces.</p>
+<p>Taking natural logarithms on both sides of the equation (5) it is obtained that</p>
+<p>ln(∆𝑡𝑛) = 𝑛 𝑙𝑛(𝑒) + 𝑙𝑛(2𝑡0)<br/>
+(6)</p>
+<p>So by choosing as variables a y = ln(∆tn) and a x = n we get a linear relationship
+between these variables.</p>
+<p>The objective</p>
+<ul>
+<li>Determine the return coefficient of a ball and the acceleration of the ball
+gravity</li>
+</ul>
+<p>Materials</p>
+<ul>
+<li>Ball .</li>
+<li>Acoustic chronometer (phyphox application)</li>
+<li>Metric tape .</li>
+</ul>
+<p>The procedure
+(e) Drop a ball from a height h0 and measure the time between successive bounces.
+For this, use the option Timers > Acoustic Chronometer > Sequence of the
+The application is phyphox.
+(f) Determine the height h0 used in the measurement.</p>
+<p>The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+g) Draw a graph of the variable and on the basis of the proposed variable x. Do a .
+linear adjustment.
+(h) From the slope and the originating order obtained from the adjustment, determine the
+value of g and of e.</p>
+<p>Note
+The error of y = ln(∆tn) can be determined as σy=
+σ∆𝑡𝑛
+∆tn where σ∆tn is the error of ∆tn.</p>
+<p>Second Preparatory Test: Electricity and Magnetism</p>
+
+<p><img src="../_attachments/cuadernillo_2020/cuadernillo_2020_vt17.png" alt width="auto" height="auto"/>
+<img src="../_attachments/cuadernillo_2020/cuadernillo_2020_vt103.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/conservation-of-momentum" class="internal internal-link alias" data-slug="topics/conservation-of-momentum">Conservation of Momentum</a>, <a href="../topics/conservation-of-energy" class="internal internal-link alias" data-slug="topics/conservation-of-energy">Conservation of Energy</a>
+<strong>Metodi:</strong> <a href="../methods/conservation-of-momentum-(metodo)" class="internal internal-link alias" data-slug="methods/conservation-of-momentum-(metodo)">Conservation of Momentum</a>, <a href="../methods/conservation-of-energy-(metodo)" class="internal internal-link alias" data-slug="methods/conservation-of-energy-(metodo)">Conservation of Energy</a>, <a href="../methods/hooke's-law-(metodo)" class="internal internal-link alias" data-slug="methods/hooke's-law-(metodo)">Hooke’s Law</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/pendulum-(object)" class="internal internal-link alias" data-slug="objects/pendulum-(object)">Pendulum</a>, <a href="../objects/block-(object)" class="internal internal-link alias" data-slug="objects/block-(object)">Block</a>, <a href="../objects/spring-(object)" class="internal internal-link alias" data-slug="objects/spring-(object)">Spring</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1bgAZSXy8ARIR8D6Cnsg9YiYajdt9Xs4P/view" class="external external-link">Testo (PDF) — p.7<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/block-(object)" class="internal">Block</a></li><li><a href="../objects/pendulum-(object)" class="internal">Pendulum</a></li><li><a href="../objects/spring-(object)" class="internal">Spring</a></li><li><a href="../prove/cuadernillo_2020" class="internal">Argent 2020</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

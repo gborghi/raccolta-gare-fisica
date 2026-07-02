@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head><title>Russia na — Quesito 1</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="Russia na — Quesito 1"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Russia na — Quesito 1"/><meta name="twitter:description" content="A. Star triangles VII International Zhautykov Olympiad January, 2011 Problem A."/><meta property="og:description" content="A. Star triangles VII International Zhautykov Olympiad January, 2011 Problem A."/><meta property="og:image:alt" content="A. Star triangles VII International Zhautykov Olympiad January, 2011 Problem A."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/problems-en__q01"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/problems-en__q01"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="A. Star triangles VII International Zhautykov Olympiad January, 2011 Problem A."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/problems-en__q01" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-16738" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-16738" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Russia na — Quesito 1</a></div></nav><h1 class="article-title">Russia na — Quesito 1</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/kg/prova" class="internal internal-link tag-link">kg/prova</a><span class="note-properties-separator">, </span><a href="../tags/paese/kazakhstan" class="internal internal-link tag-link">paese/kazakhstan</a><span class="note-properties-separator">, </span><a href="../tags/comp/izho" class="internal internal-link tag-link">comp/izho</a><span class="note-properties-separator">, </span><a href="../tags/cluster/gravitazione-e-astrofisica" class="internal internal-link tag-link">cluster/gravitazione-e-astrofisica</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:28:17.551Z">02 lug 2026</time><span>16 minuti</span></p><ul class="tags"><li><a href="../tags/kg/prova" class="internal tag-link">kg/prova</a></li><li><a href="../tags/paese/kazakhstan" class="internal tag-link">paese/kazakhstan</a></li><li><a href="../tags/comp/izho" class="internal tag-link">comp/izho</a></li><li><a href="../tags/cluster/gravitazione-e-astrofisica" class="internal tag-link">cluster/gravitazione-e-astrofisica</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="en"></div>
+<p><strong>A. Star triangles</strong></p>
+<p>VII International Zhautykov Olympiad
+January, 2011
+Problem A. Star triangles
+Input file:
+triangles.in
+Output file:
+triangles.out
+Time limit:
+2 seconds
+Memory limit:
+256 megabytes
+Detailed Feedback:
+full
+Zhomart likes watching the stars and construct a variety of geometric shapes from them. The sky is
+represented in the form of the Cartesian coordinate system, and the stars are represented by points on
+it. At this moment Zhomart interested in the question: how many different right triangles whose legs are
+parallel to the axes, you can create with the help of stars in the sky.
+Input
+In the first line of the input line you are given N –– the number of stars on the sky (3 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqN</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">300000</span></span></span></span>).
+Each of the next N lines contains integer X and Y (|X, Y | <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">109</span></span></span></span>) –– coordinates of the appropriate star.
+Output
+Print one number – the answer to the question.
+Examples
+triangles.in
+triangles.out
+3
+0 0
+1 0
+0 1
+1
+4
+0 0
+1 0
+0 1
+1 1
+4
+For this problem you will have full feedback.
+30% of tests contain N <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">100</span></span></span></span>.
+Page 1 of 8</p>
+<p>VII International Zhautykov Olympiad
+January, 2011
+Problem B. Hyper-minimum
+Input file:
+hyper.in
+Output file:
+hyper.out
+Time limit:
+2 seconds
+Memory limit:
+256 megabytes
+Detailed Feedback:
+none
+There is a 4-dimensional array X, each index of which is in interval from 1 to N. Your task is to construct
+new 4-dimensional array Y , elements of which can be calculated using the next formula: Y [i1, i2, i3, i4] =
+min(X[j1, j2, j3, j4]), where 1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqik</span></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqN</span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.109em;">M</span></span></span></span> + 1, ik <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqjk</span></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqik</span></span></span></span></span> + M <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">−</span><span class="mord">1</span></span></span></span>, and M is given.
+Input
+First line of the input file contains N and M (1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqM</span></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqN</span></span></span></span></span>). Next lines of the input file contain elements
+of array X. The number of elements will be not more than 1500000 and elements will be integers not
+exceeding 109 by absolute value. They are given in such order, that the array can be read using following
+pseudocode:
+for i = 1 to N:
+for j = 1 to N:
+for k = 1 to N:
+for l = 1 to N:
+read X[i, j, k, l]
+Output
+Output array Y in the same format as the X was given.
+Examples
+hyper.in
+hyper.out
+1 1
+1
+1
+3 2
+3 1 4 -4 0 4 0 0 -3 0 -2 -5 5 3 5 -4
+4 -3 -5 -4 -4 5 -1 0 -3 -2 -1 2 -5 -5
+-1 1 1 -4 3 5 3 -3 -3 3 0 1 4 -1 -2 3
+-2 5 4 -1 -5 3 -4 0 -3 -1 3 -1 4 4 -1
+-5 -3 4 -4 5 1 5 -4 3 2 2 -2 -2 4 2
+-4 -3 1 3 1
+-5 -5 -4 -3 -5 -5 -4 -5 -5 -5 -5 -5
+-4 -5 -4 -5
+Page 2 of 8</p>
+<p>VII International Zhautykov Olympiad
+January, 2011
+Problem C. Energetic turtle
+Input file:
+turtle.in
+Output file:
+turtle.out
+Time limit:
+2 seconds
+Memory limit:
+256 megabytes
+Detailed Feedback:
+none
+There is a grid with N + 1 rows and M + 1 columns. The turtle, which is on the cell (0, 0), wants to get
+into the cell (N, M). The turtle can only go up or right. There are K traps on the grid. If the turtle
+will get to one of these traps, it will turn up. The turtle has strength to stand up no more than T times.
+Calculate, how many different ways the turtle can reach the cell (N, M). Since this number can be very
+large, output the remainder of his division by Z.
+Input
+The first line contains 5 integers N, M, K, T and Z (1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqN</span></span></span></span></span>, M <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">300000</span></span></span></span>, 0 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqK</span></span></span></span></span>, T <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">20</span></span></span></span>, 1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqZ</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≤</span></span></span></span>
+1000000000). Each of the following K lines contains coordinates of a cell with a trap: X, Y (0 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqX</span></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqN</span></span></span></span></span>,
+0 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqY</span></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqM</span></span></span></span></span>). It’s guaranteed that all traps situated in different cells and there is no trap in cells (0, 0)
+and (N, M).
+Output
+Print one number – the answer.
+Examples
+turtle.in
+turtle.out
+1 1 1 0 1000
+0 1
+1
+2 2 0 0 10
+6
+40% of tests contain N, M <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1000</span></span></span></span>
+Page 3 of 8</p>
+<p>VII International Zhautykov Olympiad
+January, 2011
+Problem D. Weighting stones
+Input file:
+stones.in
+Output file:
+stones.out
+Time limit:
+1 second
+Memory limit:
+256 megabytes
+Detailed Feedback:
+none
+Jack somehow found N stones and arranged them in increasing order of their weights. No two weights
+are equal. The lightest stone is given the rank 1, the next lightest — 2, and so on, the heaviest stone gets
+the rank N.
+He has a balance scale and decided to put all the stones on it’s sides in some order. It’s known in which
+order he is going to put those stones on the scale and on which side each stone gets.
+You have to determine the state of scale after each stone is added. Jack doesn’t tell the exact weights of
+those stones.
+Input
+The first line contains integer number N (1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqN</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">100000</span></span></span></span>).
+Each of the next N lines contains two integer numbers: R (1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqR</span></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqN</span></span></span></span></span>) and S (1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqS</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">2</span></span></span></span>). R is the
+rank of the next stone which is put on side S. All R’s will be distinct.
+Output
+Output N lines — one for each added stone. If after adding the corresponding stone side 1 is heavier,
+output “&lt;”. If side 2 is heavier, output “>”. If it’s not clear in which state the scale will be, output “?”.
+Examples
+stones.in
+stones.out
+5
+1 2
+3 1
+2 1
+4 2
+5 1
+&lt;</p>
+<blockquote>
+</blockquote>
+<p>?</p>
+<blockquote>
+</blockquote>
+<p>Page 4 of 8</p>
+<p>VII International Zhautykov Olympiad
+January, 2011
+Problem E. Odd-even
+Input file:
+oddeven.in
+Output file:
+oddeven.out
+Time limit:
+2 seconds
+Memory limit:
+256 megabytes
+Detailed Feedback:
+full
+You are given an increasing sequence of positive integers 1, 2, 4, 5, 7, 9, 10, 12, 14, 16, 17, … It is formed by
+taking one odd integer, then two even integers, then three odd integers and so on. Output N-th element
+of this sequence.
+Input
+One positive integer N (1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqN</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">10100</span></span></span></span>).
+Output
+Output one integer N-th element of the sequence.
+Examples
+oddeven.in
+oddeven.out
+1
+1
+4
+5
+50% of tests contain N <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1018</span></span></span></span>.
+Page 5 of 8</p>
+<p>VII International Zhautykov Olympiad
+January, 2011
+Problem F. Skyline
+Input file:
+skyline.in
+Output file:
+skyline.out
+Time limit:
+2 seconds
+Memory limit:
+256 megabytes
+Detailed Feedback:
+none
+You want to have in your city a beatiful skyline. You have decided to build N skyscrapers in a straight
+row. The i-th of them should have exactly h[i] floors.
+You have got offers from different construction companies. One of them offers to build one floor in any of
+the skyscrapers for 3 Million Euros. The other one offers to build one floor in each of two neighbouring
+skyscrapers for 5 Millions in total. Note that it doesn’t matter whether these floors are on the same height
+or not. The third one can build one floor in each of three consecutive skyscrapers for only 7 Millions.
+You can build the floors in any order you want. Calculate the minimal possible total amount of money
+needed to finish the construction.
+Input
+The first line contains integer number N (1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqN</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">300</span></span></span></span>). The second line contains space separated N
+integer numbers, h[1], h[2], …, h[N], 1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqh</span></span><span class="mopen">[</span><span class="mord mathnormal">i</span><span class="mclose">]</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">200</span></span></span></span>.
+Output
+Output one integer number: the amount of money, in Millions.
+Examples
+skyline.in
+skyline.out
+3
+2 2 2
+14
+4
+1 3 1 1
+15
+Page 6 of 8</p>
+<p>VII International Zhautykov Olympiad
+January, 2011
+Problem G. Collider
+Input file:
+collider.in
+Output file:
+collider.out
+Time limit:
+2 seconds
+Memory limit:
+256 megabytes
+Detailed Feedback:
+none
+Physicians are investigating particles of three types: x, y and z. They load a numbered row of n particles
+into collider. During the experiment an exposure on a concrete particle is having place, after which the
+particle disappears from i-th position of the row and instantly appears on position j. After disappearance
+of the particle numbers of particles to the right are decreased by 1 and after the appearance number of
+particles to the right of that place are increased by 1. After a number of exposures scientists want to
+know, which particle is on place k. Write program, which will help them.
+Input
+The first line of the input file contains two integer numeber: n — number of particles and m — total
+number of exposures and queries (1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqn</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1000000</span></span></span></span>, 1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqm</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">15000</span></span></span></span>).
+In the second line there is a sequence of characters x, y and z of length n. Each of the next m lines
+contains exposure or query description. Line, containing an exposure, starts with character a and space
+and contains two integer number from interval [1; n]. First number is start position of the particle during
+the exposure and the second one is finish position. Line, describing a query, starts with character q and
+space and contains one number from interval [1; n] — position, which scientists are interested in.
+Output
+Output one line for each question from input file. Line number i must conta</p>
+<p><strong>Topic:</strong> <a href="../topics/astrophysics" class="internal internal-link" data-slug="topics/astrophysics">Astrophysics</a>
+<strong>Metodi:</strong> <a href="../methods/newton's-law-of-gravitation-(metodo)" class="internal internal-link alias" data-slug="methods/newton's-law-of-gravitation-(metodo)">Newton’s Law of Gravitation</a>, <a href="../methods/order-of-magnitude-estimation-(metodo)" class="internal internal-link alias" data-slug="methods/order-of-magnitude-estimation-(metodo)">Order-of-Magnitude Estimation</a>
+<strong>Competenze:</strong> <a href="../skills/estimation--and--approximation-(competenza)" class="internal internal-link alias" data-slug="skills/estimation--and--approximation-(competenza)">Estimation &amp; Approximation</a>
+<strong>Objects:</strong> —
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1wv4V9nObsoX92IkFvE0M8R7fwTSXt98Z/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="it"></div>
+<p><strong>A. Triangoli stellari</strong></p>
+<p>VII Olimpiada internazionale di Zhautykov
+gennaio 2011
+Il problema A. Triangoli stellari
+File di input:
+triangolari.in
+File di uscita:
+Triangolo.
+Limite di tempo:
+2 secondi
+Limite di memoria:
+256 megabytes
+Informazioni dettagliate:
+pieno
+A Zhomart piace guardare le stelle e costruire una varietà di forme geometriche da esse. Il cielo è
+Le stelle sono rappresentate da punti su
+it. In questo momento Zhomart si è interessato alla domanda: quanti diversi triangoli rettangolari le cui gambe sono
+parallelo agli assi, si può creare con l’aiuto delle stelle nel cielo.
+Input
+Nella prima riga della linea di input viene dato N  il numero di stelle nel cielo (3 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqN</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">300000</span></span></span></span>).
+Each of the next N lines contains integer X and Y (|X, Y | <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">109</span></span></span></span>) –– coordinates of the appropriate star.
+Prodotto
+Stampa un numero  la risposta alla domanda.
+Esempi
+triangolari.in
+Triangolo.
+3
+0 0
+1 0
+0 1
+1
+4
+0 0
+1 0
+0 1
+1 1
+4
+Per questo problema avrete un feedback completo.
+Il 30% dei test contiene N <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">100</span></span></span></span>.
+Pagina 1 di 8</p>
+<p>VII Olimpiada internazionale di Zhautykov
+gennaio 2011
+Il problema B. Iperminimo
+File di input:
+hyper.in
+File di uscita:
+iper. fuori
+Limite di tempo:
+2 secondi
+Limite di memoria:
+256 megabytes
+Informazioni dettagliate:</p>
+<ul>
+<li>nessuna
+C’è una matrice 4 dimensionali X, ogni indice del quale è in intervallo da 1 a N. Il tuo compito è costruire
+nuova matrice a 4 dimensioni Y , i cui elementi possono essere calcolati utilizzando la seguente formula: Y [i1, i2, i3, i4] =
+min(X[j1, j2, j3, j4]), dove viene data 1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqik</span></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqN</span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.109em;">M</span></span></span></span> + 1, ik <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqjk</span></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqik</span></span></span></span></span> + M <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">−</span><span class="mord">1</span></span></span></span>, e M.
+Input
+La prima riga del file di input contiene N e M (1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqM</span></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqN</span></span></span></span></span>). Le seguenti righe del file di input contengono elementi
+di array X. Il numero di elementi non sarà superiore a 1500000 e gli elementi saranno numeri interi non
+superiore a 109 per valore assoluto. Sono dati in un ordine tale che l’array possa essere letta utilizzando il seguente
+pseudocodi:
+per i = 1 a N:
+per j = 1 a N:
+per k = 1 a N:
+per l = 1 a N:
+Leggi X[i, j, k, l]
+Prodotto
+L’archivio di uscita Y nello stesso formato in cui è stato dato X.
+Esempi
+hyper.in
+iper. fuori
+1 1
+1
+1
+3 2
+3 1 4 -4 0 4 0 0 -3 0 -2 -5 5 3 5 -4
+4 -3 -5 -4 -4 5 -1 0 -3 -2 -1 2 -5 -5
+-1 1 1 -4 3 5 3 -3 -3 3 0 1 4 -1 -2 3
+-2 5 4 -1 -5 3 -4 0 -3 -1 3 -1 4 4 -1
+-5 -3 4 -4 5 1 5 -4 3 2 2 -2 -2 4 2
+-4 -3 1 3 1
+-5 -5 -4 -3 -5 -5 -4 -5 -5 -5 -5 -5
+-4 -5 -4 -5
+Pagina 2 di 8</li>
+</ul>
+<p>VII Olimpiada internazionale di Zhautykov
+gennaio 2011
+Il problema C. Tortuga energetica
+File di input:
+tortuga.in
+File di uscita:
+tortuga. fuori
+Limite di tempo:
+2 secondi
+Limite di memoria:
+256 megabytes
+Informazioni dettagliate:</p>
+<ul>
+<li>nessuna
+C’è una griglia con righe N + 1 e colonne M + 1. La tartaruga, che è sulla cella (0, 0), vuole ottenere
+nella cellula (N, M). La tartaruga può solo salire o andare a destra. Ci sono delle trappole K sulla griglia. Se la tartaruga
+Se arrivi a una di queste trappole, si mostrerà. La tartaruga ha la forza di stare in piedi non più di T volte.
+Calcola quanti modi diversi la tartaruga può raggiungere la cellula (N, M). Poiché questo numero può essere molto
+grande, esulse il resto della sua divisione per Z.
+Input
+La prima riga contiene 5 integri N, M, K, T e Z (1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqN</span></span></span></span></span>, M <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">300000</span></span></span></span>, 0 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqK</span></span></span></span></span>, T <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">20</span></span></span></span>, 1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqZ</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≤</span></span></span></span>
+1000000000). Ogni linea K seguente contiene le coordinate di una cella con una trappola: X, Y (0 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqX</span></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqN</span></span></span></span></span>,
+0 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqY</span></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqM</span></span></span></span></span>). È garantito che tutte le trappole si trovino in cellule diverse e che non vi sia alcuna trappola nelle cellule (0, 0)
+e (N, M).
+Prodotto
+Stampa un numero  la risposta.
+Esempi
+tortuga.in
+tortuga. fuori
+1 1 1 0 1000
+0 1
+1
+2 2 0 0 10
+6
+Il 40% dei test contiene N, M <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1000</span></span></span></span>
+Pagina 3 di 8</li>
+</ul>
+<p>VII Olimpiada internazionale di Zhautykov
+gennaio 2011
+Il problema D. Pietra pesante
+File di input:</p>
+<ul>
+<li>Le pietre.
+File di uscita:</li>
+<li>Le pietre.
+Limite di tempo:
+1 secondo
+Limite di memoria:
+256 megabytes
+Informazioni dettagliate:</li>
+<li>nessuna
+Jack ha trovato N pietre e le ha disposte in ordine crescente di peso. Non due pesi
+sono uguali. La pietra più leggera è classificata come 1, la pietra più leggera successiva come  2, e così via, la pietra più pesante viene
+il grado N.
+Ha una scala di equilibrio e ha deciso di mettere tutte le pietre sui lati in qualche ordine. È noto che in
+Ordina che metterà quelle pietre sulla bilancia e su quale lato si trova ogni pietra.
+Devi determinare lo stato di scala dopo che ogni pietra viene aggiunta. Jack non dice i pesi esatti di
+quelle pietre.
+Input
+La prima riga contiene il numero intero N (1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqN</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">100000</span></span></span></span>).
+Ciascuna delle seguenti linee N contiene due numeri interi: R (1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqR</span></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqN</span></span></span></span></span>) e S (1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqS</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">2</span></span></span></span>). R è il
+il grado della pietra successiva che viene posta sul lato S. Tutte le R saranno distinte.
+Prodotto
+Sotto forma di N linee  una per ogni pietra aggiunta. Se dopo l’aggiunta del lato 1 della pietra corrispondente è più pesante,
+di uscita &lt;. Se il lato 2 è più pesante, la uscita è >. Se non è chiaro in che stato sarà la scala, la produzione ?.
+Esempi</li>
+<li>Le pietre.</li>
+<li>Le pietre.
+5
+1 2
+3 1
+2 1
+4 2
+5 1
+&lt;</li>
+</ul>
+<blockquote>
+</blockquote>
+<p>?</p>
+<blockquote>
+</blockquote>
+<p>Pagina 4 di 8</p>
+<p>VII Olimpiada internazionale di Zhautykov
+gennaio 2011
+Il problema E. - Strano-e’ pari
+File di input:</p>
+<ul>
+<li>In ordine di tempo
+File di uscita:</li>
+<li>Smettila.
+Limite di tempo:
+2 secondi
+Limite di memoria:
+256 megabytes
+Informazioni dettagliate:
+pieno
+Vi viene data una sequenza crescente di numeri interi positivi 1, 2, 4, 5, 7, 9, 10, 12, 14, 16, 17, … È costituito da
+Prendendo un intero parziale, poi due numeri interi pari, poi tre numeri interi parziali e così via. Elemento N-esito
+di questa sequenza.
+Input
+Un intero positivo N (1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqN</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">10100</span></span></span></span>).
+Prodotto
+Esporta un numero intero N-esimo elemento della sequenza.
+Esempi</li>
+<li>In ordine di tempo</li>
+<li>Smettila.
+1
+1
+4
+5
+Il 50% dei test contiene N <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719em;vertical-align:-0.136em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1018</span></span></span></span>.
+Pagina 5 di 8</li>
+</ul>
+<p>VII Olimpiada internazionale di Zhautykov
+gennaio 2011
+Il problema F. Skyline
+File di input:
+Skyline.in
+File di uscita:
+Skyline. fuori
+Limite di tempo:
+2 secondi
+Limite di memoria:
+256 megabytes
+Informazioni dettagliate:</p>
+<ul>
+<li>nessuna
+Vuoi avere una città che abbia un splendido skyline. Hai deciso di costruire N grattacieli in una retta</li>
+<li>La fila. Il terzo di questi dovrebbe avere esattamente i piani.
+Avete offerte da diverse case edili. Uno di loro si propone di costruire un piano in uno qualsiasi di
+I grattacieli per 3 milioni di euro. L’altro propone di costruire un piano in ciascun di due quartieri vicini</li>
+<li>Grattacieli per 5 milioni in totale. Si noti che non importa se questi piani sono della stessa altezza</li>
+<li>O no. Il terzo può costruire un piano in ciascuno dei tre grattacieli consecutivi per soli 7 milioni.
+Puoi costruire i pavimenti in qualsiasi ordine. Calcolare la somma totale minima possibile di denaro
+doveva finire la costruzione.
+Input
+La prima riga contiene il numero intero N (1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqN</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">300</span></span></span></span>). La seconda linea contiene spazio separato N
+numeri interi, h[1], h[2], …, h[N], 1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqh</span></span><span class="mopen">[</span><span class="mord mathnormal">i</span><span class="mclose">]</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">200</span></span></span></span>.
+Prodotto
+Esci un numero intero: la somma di denaro, in milioni.
+Esempi
+Skyline.in
+Skyline. fuori
+3
+2 2 2
+14
+4
+1 3 1 1
+15
+Pagina 6 di 8</li>
+</ul>
+<p>VII Olimpiada internazionale di Zhautykov
+gennaio 2011
+Il problema G. Collider
+File di input:
+collatore.in
+File di uscita:
+Collider.out
+Limite di tempo:
+2 secondi
+Limite di memoria:
+256 megabytes
+Informazioni dettagliate:</p>
+<ul>
+<li>nessuna
+I medici stanno studiando particelle di tre tipi: x, y e z. Caricano una fila numerata di n particelle</li>
+<li>In collider. Durante l’esperimento si verifica un’esposizione su una particella di cemento, dopo la quale il
+la particella scompare dalla posizione i della riga e appare immediatamente nella posizione j. Dopo la scomparsa
+di cui il numero di particelle a destra è diminuito di 1 e dopo il numero di apparenze di
+le particelle a destra di quel luogo sono aumentate di 1. Dopo un certo numero di esposizioni gli scienziati vogliono
+Sapete, quale particella è sul posto K. Scrivi un programma che li aiuterà.
+Input
+La prima riga del file di input contiene due numeri interi: n  numero di particelle e m  totale
+numero di esposizioni e domande (1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqn</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1000000</span></span></span></span>, 1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text" style="color:#cc0000;"><span class="mord" style="color:#cc0000;">\leqm</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">15000</span></span></span></span>).
+Nella seconda riga c’è una sequenza di caratteri x, y e z di lunghezza n. Ciascuna delle seguenti linee m
+contiene una descrizione dell’esposizione o della richiesta. Linea, contenente un’esposizione, inizia con il carattere a e lo spazio
+e contiene due numeri interi dall’intervallo [1; n]. Il primo numero è la posizione di partenza della particella durante il
+l’esposizione e la seconda è la posizione di fine. Linea, che descrive una query, inizia con il carattere q e
+La posizione di un numero di intervallo [1; n] , che interessa gli scienziati.
+Prodotto
+Escludere una riga per ogni domanda dal file di input. Numero di linea che devo contattare</li>
+</ul>
+<p><strong>Topic:</strong> <a href="../topics/astrophysics" class="internal internal-link" data-slug="topics/astrophysics">Astrophysics</a>
+<strong>Metodi:</strong> <a href="../methods/newton's-law-of-gravitation-(metodo)" class="internal internal-link alias" data-slug="methods/newton's-law-of-gravitation-(metodo)">Newton’s Law of Gravitation</a>, <a href="../methods/order-of-magnitude-estimation-(metodo)" class="internal internal-link alias" data-slug="methods/order-of-magnitude-estimation-(metodo)">Order-of-Magnitude Estimation</a>
+<strong>Competenze:</strong> <a href="../skills/estimation--and--approximation-(competenza)" class="internal internal-link alias" data-slug="skills/estimation--and--approximation-(competenza)">Estimation &amp; Approximation</a>
+<strong>Objects:</strong> —
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1wv4V9nObsoX92IkFvE0M8R7fwTSXt98Z/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../prove/problems-en" class="internal">Russia na</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

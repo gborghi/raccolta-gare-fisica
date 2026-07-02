@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="it" dir="ltr"><head><title>OII na Teorica — Problema 1</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="OII na Teorica — Problema 1"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="OII na Teorica — Problema 1"/><meta name="twitter:description" content="Theory Q1-1 Italiano (Italy) Fisica planetaria (10 punti) Questo problema consiste di due problemi indipendenti relativi all’interno dei pianeti."/><meta property="og:description" content="Theory Q1-1 Italiano (Italy) Fisica planetaria (10 punti) Questo problema consiste di due problemi indipendenti relativi all’interno dei pianeti."/><meta property="og:image:alt" content="Theory Q1-1 Italiano (Italy) Fisica planetaria (10 punti) Questo problema consiste di due problemi indipendenti relativi all’interno dei pianeti."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/exam-theory-q1-italiano_2__q01"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/exam-theory-q1-italiano_2__q01"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Theory Q1-1 Italiano (Italy) Fisica planetaria (10 punti) Questo problema consiste di due problemi indipendenti relativi all’interno dei pianeti."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/exam-theory-q1-italiano_2__q01" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-10463" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-10463" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>OII na Teorica — Problema 1</a></div></nav><h1 class="article-title">OII na Teorica — Problema 1</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/nazione/italia" class="internal internal-link tag-link">nazione/italia</a><span class="note-properties-separator">, </span><a href="../tags/tipo-gara/individuale" class="internal internal-link tag-link">tipo-gara/individuale</a><span class="note-properties-separator">, </span><a href="../tags/livello/internazionale" class="internal internal-link tag-link">livello/internazionale</a><span class="note-properties-separator">, </span><a href="../tags/difficolta/5" class="internal internal-link tag-link">difficolta/5</a><span class="note-properties-separator">, </span><a href="../tags/multidisciplina/multi" class="internal internal-link tag-link">multidisciplina/multi</a><span class="note-properties-separator">, </span><a href="../tags/topic/fluid-mechanics" class="internal internal-link tag-link">topic/fluid-mechanics</a><span class="note-properties-separator">, </span><a href="../tags/topic/oscillations-e-waves" class="internal internal-link tag-link">topic/oscillations-e-waves</a><span class="note-properties-separator">, </span><a href="../tags/topic/thermodynamics" class="internal internal-link tag-link">topic/thermodynamics</a><span class="note-properties-separator">, </span><a href="../tags/argomento/meccanica" class="internal internal-link tag-link">argomento/meccanica</a><span class="note-properties-separator">, </span><a href="../tags/object/planet" class="internal internal-link tag-link">object/planet</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:28:04.340Z">02 lug 2026</time><span>14 minuti</span></p><ul class="tags"><li><a href="../tags/nazione/italia" class="internal tag-link">nazione/italia</a></li><li><a href="../tags/tipo-gara/individuale" class="internal tag-link">tipo-gara/individuale</a></li><li><a href="../tags/livello/internazionale" class="internal tag-link">livello/internazionale</a></li><li><a href="../tags/difficolta/5" class="internal tag-link">difficolta/5</a></li><li><a href="../tags/multidisciplina/multi" class="internal tag-link">multidisciplina/multi</a></li><li><a href="../tags/topic/fluid-mechanics" class="internal tag-link">topic/fluid-mechanics</a></li><li><a href="../tags/topic/oscillations-e-waves" class="internal tag-link">topic/oscillations-e-waves</a></li><li><a href="../tags/topic/thermodynamics" class="internal tag-link">topic/thermodynamics</a></li><li><a href="../tags/argomento/meccanica" class="internal tag-link">argomento/meccanica</a></li><li><a href="../tags/object/planet" class="internal tag-link">object/planet</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="it"></div>
+<p>Theory
+Q1-1
+Italiano (Italy)
+Fisica planetaria (10 punti)
+Questo problema consiste di due problemi indipendenti relativi all’interno dei pianeti. Gli effetti della
+curvatura della superficie dei pianeti può essere trascurata. Potrebbe essere utile usare la formula
+(1 + <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">x</span><span class="mclose">)</span><span class="mord mathnormal">ε</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≈</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1</span></span></span></span> + εx, quando |x| <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.5782em;vertical-align:-0.0391em;"></span><span class="mrel">≪</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1</span></span></span></span>.
+(1)
+Parte A. Dorsale oceanica (5.0 punti)
+Consideriamo un grande recipiente d’acqua situato in un campo gravitazionale uniforme con accelerazione di caduta libera g. Due piastre rettangolari verticali parallele l’una all’altra sono montate nel recipiente
+in modo che i bordi verticali delle piastre siano a stretto contatto senza spazi con le pareti verticali del
+recipiente. Un tratto di lunghezza hdi ogni piastra è immerso in acqua (Fig. 1). La larghezza delle piastre
+lungo l’asse y è w, la densità dell’acqua è ρ0.
+Figura 1. Piastre parallele in acqua.
+Olio di densità ρoil (ρoil &lt; ρ0) viene versato nello spazio tra le piastre fino a quando il livello inferiore
+dell’olio ha raggiunto i bordi inferiori delle piastre. Supponiamo che le piastre e i bordi del recipiente
+siano abbastanza alti da non far traboccare l’olio. La tensione superficiale e la miscelazione dei fluidi
+possono essere trascurate.
+A.1
+Qual è la componente xdella forza totale Fxche agisce sulla piastra destra
+(intensità e direzione)?
+0.8pt
+La Fig. 2 mostra una sezione trasversale di una dorsale oceanica. Consiste di strati sovrapposti di mantello, crosta e acqua oceanica. Il mantello è composto da rocce che supponiamo possano scorrere in tempi
+geologici. Perciò in questo problema sarà trattato come un fluido. Lo spessore della crosta è molto più
+piccolo della lunghezza caratteristica nella direzione x, quindi la crosta si comporta come una piastra
+liberamente pieghevole. Una tale dorsale può essere modellata con alta precisione come un sistema
+bidimensionale, senza alcuna variazione delle quantità lungo l’asse y, che è perpendicolare al piano di
+Fig. 2. Assumiamo che la lunghezza Ldella dorsale lungo l’asse ysia molto più grande di qualsiasi altra
+lunghezza introdotta in questo problema.
+Al centro della dorsale si assume che lo spessore della crosta sia nullo. La crosta si fa più spessa al crescere della distanza orizzontale xdal centro e si avvicina ad uno spessore costante Dquando <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">→</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord">∞</span></span></span></span>.
+Di conseguenza, il fondale oceanico si abbassa di un’altezza verticale hsotto la sommità della dorsale
+O, che definiamo come l’origine del nostro sistema di coordinate (vedi Fig. 2). La densità dell’acqua ρ0</p>
+<p>Theory
+Q1-2
+Italiano (Italy)
+e la sua temperatura T0 possono essere assunte uniformi nello spazio e costanti nel tempo. La stessa
+assunzione può essere fatta per la densità del mantello ρ1 e la sua temperatura T1. Anche la temperatura
+della crosta Tè costante nel tempo ma può dipendere dalla posizione.
+E’ noto che, con elevata precisione, il materiale crostale si espande linearmente con la temperatura T. Poiché si presume che le temperature dell’acqua e del mantello siano costanti, è conveniente utilizzare un’espressione adimensionale del coefficiente di espansione termica. Pertanto
+l(T) = l1 [1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">−</span><span class="mord mathnormal" style="margin-right:0.0315em;">k</span><span class="mord mathnormal" style="margin-right:0.0197em;">l</span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.1389em;">T</span><span class="mord">1</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.1389em;">T</span></span></span></span>) /(T1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">−</span><span class="mord mathnormal" style="margin-right:0.1389em;">T</span><span class="mord">0</span><span class="mclose">)]</span></span></span></span>, dove lè la lunghezza di un tratto del materiale della crosta, l1 è la
+sua lunghezza alla temperatura T1, e klè il coefficiente di espansione termico adimensionale, che può
+essere assunto come costante.
+Figura 2. Dorsale oceanica. Notare che l’asse z punta verso il basso
+A.2
+Assumendo che la crosta sia isotropica, trovare come la sua densità ρdipende
+dalla sua temperatura T. Assumendo che |kl| <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.5782em;vertical-align:-0.0391em;"></span><span class="mrel">≪</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1</span></span></span></span>, scrivere la risposta nella
+forma appropriata
+ρ(T) <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord mathnormal">ρ</span><span class="mord">1</span></span></span></span> [1 + kT1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7667em;vertical-align:-0.0833em;"></span><span class="mord">−</span><span class="mord mathnormal" style="margin-right:0.1389em;">T</span></span></span></span>
+T1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7667em;vertical-align:-0.0833em;"></span><span class="mord">−</span><span class="mord mathnormal" style="margin-right:0.1389em;">T</span><span class="mord">0</span></span></span></span>
+] ,
+(2)
+dove i termini dell’ordine k2
+le superiori sono trascurati. Successivamente,
+identificare la costante k.
+0.6pt
+E’ noto che k> 0. Inoltre, la conducibilità termica κdella crosta può essere assunta come costante. Di
+conseguenza, molto lontano dall’asse della dorsale la temperatura della crosta dipende linearmente con
+la profondità.
+A.3
+Assumendo che il mantello e l’acqua si comportino come un fluido incomprimibile in equilibrio idrostatico, esprimere lo spessore della crosta a grande distanza Din funzione di h, ρ0, ρ1e k. Qualsiasi movimento del materiale può essere
+trascurato.
+1.1pt</p>
+<p>Theory
+Q1-3
+Italiano (Italy)
+A.4
+Trova, al prim’ordine in k, la forza orizzontale totale Fche agisce sulla metà
+destra (x> 0) della crosta in funzione di ρ0, ρ1, h, L, ke g.
+1.6pt
+Supponiamo che la crosta sia isolata termicamente dal resto della Terra. Come risultato della conduzione
+del calore, le temperature delle superfici superiore e inferiore della crosta si avvicineranno l’una all’altra
+fino a quando la crosta raggiungerà l’equilibrio termico. Il calore specifico della crosta è ce si può ritenere
+costante.
+A.5
+Utilizzando l’analisi dimensionale o l’ordine di grandezza, stimare il tempo caratteristico τin cui la differenza tra la temperatura superficiale superiore e quella inferiore della crosta lontana dall’asse della dorsale diminuirà approssimativamente a zero. Puoi presumere che τnon dipende dalle due temperature
+superficiali iniziali della crosta.
+0.9pt
+Parte B. Onde sismiche in un mezzo stratificato (5.0 punti)
+Supponiamo che si verifichi un breve terremoto sulla superficie di un pianeta. Si può ipotizzare che le
+onde sismiche provengano da una sorgente lineare situata a z= x= 0, dove xè la coordinata orizzontale
+e zè la profondità sotto la superficie (Fig. 3). Si può presumere che la sorgente dell’onda sismica sia molto
+più lunga di qualsiasi altra lunghezza considerata in questa domanda.
+A seguito del terremoto, viene emesso un flusso uniforme delle cosiddette onde longitudinali P lungo
+tutte le direzioni nel piano x-zche ha componente positiva lungo l’asse z. Poiché la teoria delle onde in
+un solido è generalmente complicata, in questo problema trascuriamo tutte le altre onde emesse dal
+terremoto. La crosta del pianeta è stratificata in modo che il modulo della velocità vdell’onda P dipende
+dalla profondità zsecondo la formula v= v0(1+z/z0), dove v0 è la velocità in superficie e z0 è una costante
+positiva nota.
+Figura 3. Sistema di coordinate utilizzato nella parte B.
+B.1
+Consideriamo un singolo raggio emesso dal terremoto che forma un angolo
+iniziale 0 &lt; θ0 &lt; π/2 con l’asse ze si muove nel piano x-z. Qual è la coordinata
+orizzontale x1(θ0) <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mrel"><span class="mrel"><span class="mord vbox"><span class="thinbox"><span class="rlap"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="inner"><span class="mord"><span class="mrel"></span></span></span><span class="fix"></span></span></span></span></span><span class="mspace nobreak"></span><span class="mrel">=</span></span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">0</span></span></span></span> alla quale questo raggio può essere individuato sulla superficie del pianeta? E’ noto che il percorso del raggio è un arco di circonferenza.
+Scrivere la risposta nella forma x1(θ0) = Acot(bθ0), dove Ae bsono costanti che
+devono essere determinate.
+1.5pt</p>
+<p>Theory
+Q1-4
+Italiano (Italy)
+Se non sei riuscito a trovare Ae b, nelle domande successive puoi usare il risultato x1(θ0) = Acot(bθ0)
+come fornito. Supponiamo che l’energia totale, per unità di lunghezza della sorgente, rilasciata come
+onde P nella crosta durante il terremoto sia E. Supponiamo che le onde siano completamente assorbite
+quando raggiungono la superficie del pianeta proveniendo dal basso.
+B.2
+Trova come la densità di energia per unità di area ε(x) assorbita dalla superficie
+dipende dalla distanza lungo la superficie x. Disegna l’andamento di ε(x).
+1.5pt
+D’ora in poi, supponiamo che le onde siano invece completamente riflesse quando raggiungono la superficie. Immagina un dispositivo posizionato a z= x= 0 che ha la stessa geometria della sorgente sismica
+considerata in precedenza. Il dispositivo è in grado di emettere onde P in una distribuzione angolare liberamente scelta. Facciamo in modo che il dispositivo emetta un segnale con una gamma ristretta di angoli
+di emissione. In particolare, l’angolo iniziale che il segnale forma con la verticale appartiene all’intervallo
+[θ0 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">−</span><span class="mord">1</span></span></span></span>
+2δθ0, θ0 + 1
+2δθ0], dove 0 &lt; θ0 &lt; π/2, δθ0 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.5782em;vertical-align:-0.0391em;"></span><span class="mrel">≪</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1</span></span></span></span> e δθ0 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.5782em;vertical-align:-0.0391em;"></span><span class="mrel">≪</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal" style="margin-right:0.0278em;">θ</span><span class="mord">0</span></span></span></span>.
+B.3
+A quale distanza xmax lungo la superficie dalla sorgente si trova il punto più
+lontano che non viene raggiunto dal segnale? Scrivere la risposta in funzione di
+θ0, δθ0 e delle altri costanti fornite sopra.
+2.0pt</p>
+
+<p><strong>p.1</strong> — Colonne A e B, dorsale oceanica
+<img src="../_attachments/exam-theory-q1-italiano_2/exam-theory-q1-italiano_2_p1_f1.png" alt width="auto" height="auto"/></p>
+
+
+<p><strong>p.2</strong> — Sezione interno pianeta, profilo densita
+<img src="../_attachments/exam-theory-q1-italiano_2/exam-theory-q1-italiano_2_p2_f2.png" alt width="auto" height="auto"/></p>
+
+
+<p><strong>p.3</strong> — Sistema coordinate onde sismiche P
+<img src="../_attachments/exam-theory-q1-italiano_2/exam-theory-q1-italiano_2_p3_f3.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/fluid-mechanics" class="internal internal-link alias" data-slug="topics/fluid-mechanics">Fluid Mechanics</a>, <a href="../topics/oscillations--and--waves" class="internal internal-link alias" data-slug="topics/oscillations--and--waves">Oscillations &amp; Waves</a>, <a href="../topics/thermodynamics" class="internal internal-link" data-slug="topics/thermodynamics">Thermodynamics</a>
+<strong>Metodi:</strong> <a href="../methods/hydrostatic-equilibrium-(metodo)" class="internal internal-link alias" data-slug="methods/hydrostatic-equilibrium-(metodo)">Hydrostatic Equilibrium</a>, <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>, <a href="../methods/approximation--and--series-expansion-(metodo)" class="internal internal-link alias" data-slug="methods/approximation--and--series-expansion-(metodo)">Approximation &amp; Series Expansion</a>, <a href="../methods/dimensional-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/dimensional-analysis-(metodo)">Dimensional Analysis</a>, <a href="../methods/ray-tracing-(metodo)" class="internal internal-link alias" data-slug="methods/ray-tracing-(metodo)">Ray Tracing</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/estimation--and--approximation-(competenza)" class="internal internal-link alias" data-slug="skills/estimation--and--approximation-(competenza)">Estimation &amp; Approximation</a>
+<strong>Objects:</strong> <a href="../objects/planet-(object)" class="internal internal-link alias" data-slug="objects/planet-(object)">Planet</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1r0x7UgPURigNOfFcmUieRNKOkghaBcyV/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+<strong>Soluzione:</strong> <a href="https://drive.google.com/file/d/1PII6hp4bBFS5nRvGjtNRQRL6KbdZJGBY/view" class="external external-link">Soluzioni (PDF)<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>Theory
+Q1-1
+Italian (Italy)
+The following is the list of the countries of the European Union:
+This problem consists of two independent problems relating to the interior of the planets. The effects of the
+The curvature of the surface of the planets can be neglected. It might be useful to use the formula
+(1 + <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">x</span><span class="mclose">)</span><span class="mord mathnormal">ε</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">≈</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1</span></span></span></span> + εx, quando |x| <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.5782em;vertical-align:-0.0391em;"></span><span class="mrel">≪</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1</span></span></span></span>.
+(1)
+Part A. The following is the list of the countries of the European Union:
+Consider a large water container located in a uniform gravitational field with free-fall acceleration g. Two vertical rectangular plates parallel to each other are mounted in the container
+so that the vertical edges of the plates are in close contact with the vertical walls of the
+container. A stretch of length hdi each plate is immersed in water (Fig. 1). The width of the plates
+along the y-axis is w, the density of the water is ρ0.
+Figure 1 is shown. Parallel plates in the water.
+Oil of ρoil density (ρoil &lt; ρ0) is poured into the space between the plates until the lower level
+The oil has reached the lower edges of the plates. Suppose the plates and edges of the container
+They’re high enough not to overload the oil. Surface tension and fluid mixing
+They can be overlooked.
+A.1
+What is the component xd of the total force Fx that acts on the right plate
+(intensity and direction)?
+0.8pt
+The Fig. 2 shows a cross section of an ocean backbone. It consists of overlapping layers of mantle, crust and ocean water. The mantle is made up of rocks that we assume can flow through time.
+The geological ones. So in this problem it will be treated like a fluid. The thickness of the crust is much more
+So the crust behaves like a plate.
+freely folded. Such a backbone can be modeled with high precision as a system
+Two-dimensional, with no change in quantities along the y-axis, perpendicular to the plane of</p>
+<ul>
+<li>What? 2. Let’s assume that the length of the spine along the yasse is much larger than any other
+The length introduced into this problem.
+At the center of the spine, the crust is assumed to be zero in thickness. The crust thickens as it grows from the horizontal distance x from the centre and approaches a constant thickness D When <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">→</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord">∞</span></span></span></span>.
+As a result, the ocean floor drops to a vertical height below the summit of the backbone.
+Or, which we define as the origin of our coordinate system (see Fig. 2). The density of water ρ0</li>
+</ul>
+<p>Theory
+Q1-2
+Italian (Italy)
+and its temperature T0 can be assumed uniformly in space and constantly in time. The same
+The measurement shall be made for the coat density ρ1 and its temperature T1. The temperature too
+The time of the tea crust is constant, but it can depend on the location.
+It is known that, with high precision, the crustal material expands linearly with temperature T. Since the water and mantle temperatures are assumed to be constant, it is appropriate to use an additional termic expansion coefficient. Therefore,
+L (T) = l1 [1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">−</span><span class="mord mathnormal" style="margin-right:0.0315em;">k</span><span class="mord mathnormal" style="margin-right:0.0197em;">l</span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.1389em;">T</span><span class="mord">1</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.1389em;">T</span></span></span></span>) /(T1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">−</span><span class="mord mathnormal" style="margin-right:0.1389em;">T</span><span class="mord">0</span><span class="mclose">)]</span></span></span></span>, where the length of a stretch of crust material is l1,
+The temperature of the test chemical is T1 and the coefficient of thermal expansion of the test chemical is T1 and the coefficient of thermal expansion of the test chemical is T1 and T2
+be assumed as a constant.
+Figure two. Ocean backbone. Note that the z axis points downwards
+A.2
+Assuming the crust is isotropic, find how its density ρdepends
+from its temperature T. Assuming that kL <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.5782em;vertical-align:-0.0391em;"></span><span class="mrel">≪</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1</span></span></span></span>, write the answer in
+appropriate form
+ρ(T) <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4831em;"></span><span class="mrel">≈</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8389em;vertical-align:-0.1944em;"></span><span class="mord mathnormal">ρ</span><span class="mord">1</span></span></span></span> [1 + kT1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7667em;vertical-align:-0.0833em;"></span><span class="mord">−</span><span class="mord mathnormal" style="margin-right:0.1389em;">T</span></span></span></span>
+T1 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7667em;vertical-align:-0.0833em;"></span><span class="mord">−</span><span class="mord mathnormal" style="margin-right:0.1389em;">T</span><span class="mord">0</span></span></span></span>
+] ,
+(2)
+where the terms of the order k2
+The high schools are being neglected. Afterwards,
+Identify the constant k.
+0.6pt
+It’s known that k> 0. In addition, the thermal conductivity of the crust can be assumed to be constant. Di
+As a result, far from the dorsal axis, the temperature of the crust depends linearly on the
+The depth.
+A.3
+Assuming that the mantle and water behave as an incompressible fluid in hydrostatic equilibrium, express the thickness of the crust at a great distance Din function of h, ρ0, ρ1e k. Any movement of the material can be
+I’m not doing it.
+1.1pt</p>
+<p>Theory
+Q1-3
+Italian (Italy)
+A.4
+Find, in the first order in k, the total horizontal force Fche acting on the half
+the right (x> 0) of the crust in the function ρ0, ρ1, h, L, ke g.
+1.6pt
+Suppose the crust is heat-insulated from the rest of the Earth. As a result of driving
+The temperature of the upper and lower surfaces of the crust will approach each other
+Until the crust reaches thermal equilibrium. The specific heat of the crust is there you can think of
+The time is constant.
+A.5
+Using dimensional analysis or order of magnitude, estimate the characteristic time τ in which the difference between the upper and lower surface temperature of the crust away from the dorsal axis will decrease to approximately zero. You can assume that τ does not depend on the two temperatures
+the initial surface of the crust.
+0.9pt
+Part B. Seismic waves in a layered medium (5.0 points)
+Suppose there is a brief earthquake on the surface of a planet. It can be assumed that the
+Seismic waves come from a linear source located at z=x=0, where the horizontal coordinate is
+and z is the depth below the surface (Fig. 3). The source of the seismic wave can be assumed to be very
+The length of the test is more than any other length considered in this question.
+Following the earthquake, a uniform flow of the so-called longitudinal P waves is emitted
+All the directions in the x-z plane have a positive component along the z axis. Because the wave theory in
+So, a solid is usually complicated, so we ignore all the other waves emitted by the
+It’s an earthquake. The planet’s crust is layered so that the wave velocity modulo V of P depends on the
+from the depth z according to the formula v=v0(1+z/z0), where v0 is the surface velocity and z0 is a constant
+The Commission has not yet taken a decision.
+Figure 3 is shown. Coordinate system used in Part B.
+B.1
+Consider a single beam emitted by an earthquake that forms an angle
+The initial 0 &lt; θ0 &lt; π/2 with the x axis moves in the x-z plane. What is the coordinate?
+horizontal x1(θ0) <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mrel"><span class="mrel"><span class="mord vbox"><span class="thinbox"><span class="rlap"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="inner"><span class="mord"><span class="mrel"></span></span></span><span class="fix"></span></span></span></span></span><span class="mspace nobreak"></span><span class="mrel">=</span></span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">0</span></span></span></span> at which radius can be detected on the planet’s surface? It is known that the path of the beam is an arc of circumference.
+Write the answer in the form x1(θ0) = Acot(bθ0), where Ae are constants that
+They must be determined.
+1.5pt</p>
+<p>Theory
+Q1-4
+Italian (Italy)
+If you can’t find Ae b, in the next questions you can use the result x1(θ0) = Acot(bθ0)
+as provided. Suppose that the total energy, per unit of length of the source, released as
+P waves in the crust during the earthquake are E. Suppose the waves are completely absorbed.
+When they reach the surface of the planet from below.
+B.2
+Find how the energy density per unit area ε(x) absorbed by the surface
+depends on the distance along the surface x. Draw the sequence of ε(x).
+1.5pt
+From now on, let’s assume that the waves are completely reflected when they reach the surface. Imagine a device positioned at z=x=0 that has the same geometry as the seismic source.
+The Commission has already taken the necessary steps to ensure that the Commission is able to take the necessary measures. The device is capable of emitting P waves in a freely chosen angular distribution. Let’s make the device emit a signal with a narrow range of angles.
+The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation. In particular, the initial angle formed by the signal with the vertical is the interval
+[θ0 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">−</span><span class="mord">1</span></span></span></span>
+2δθ0, θ0 + 1
+2δθ0], where 0 &lt; θ0 &lt; π/2, δθ0 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.5782em;vertical-align:-0.0391em;"></span><span class="mrel">≪</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1</span></span></span></span> and δθ0 <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.5782em;vertical-align:-0.0391em;"></span><span class="mrel">≪</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal" style="margin-right:0.0278em;">θ</span><span class="mord">0</span></span></span></span>.
+B.3
+At what distance xmax along the surface from the source is the point most
+Far away from being reached by the Signal? Write the answer according to
+θ0, δθ0 and the other constants given above.
+2.0pt</p>
+
+<p><strong>p.1</strong> — Colonne A e B, dorsale oceanica
+<img src="../_attachments/exam-theory-q1-italiano_2/exam-theory-q1-italiano_2_p1_f1.png" alt width="auto" height="auto"/></p>
+
+
+<p><strong>p.2</strong> — Sezione interno pianeta, profilo densita
+<img src="../_attachments/exam-theory-q1-italiano_2/exam-theory-q1-italiano_2_p2_f2.png" alt width="auto" height="auto"/></p>
+
+
+<p><strong>p.3</strong> — Sistema coordinate onde sismiche P
+<img src="../_attachments/exam-theory-q1-italiano_2/exam-theory-q1-italiano_2_p3_f3.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/fluid-mechanics" class="internal internal-link alias" data-slug="topics/fluid-mechanics">Fluid Mechanics</a>, <a href="../topics/oscillations--and--waves" class="internal internal-link alias" data-slug="topics/oscillations--and--waves">Oscillations &amp; Waves</a>, <a href="../topics/thermodynamics" class="internal internal-link" data-slug="topics/thermodynamics">Thermodynamics</a>
+<strong>Metodi:</strong> <a href="../methods/hydrostatic-equilibrium-(metodo)" class="internal internal-link alias" data-slug="methods/hydrostatic-equilibrium-(metodo)">Hydrostatic Equilibrium</a>, <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>, <a href="../methods/approximation--and--series-expansion-(metodo)" class="internal internal-link alias" data-slug="methods/approximation--and--series-expansion-(metodo)">Approximation &amp; Series Expansion</a>, <a href="../methods/dimensional-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/dimensional-analysis-(metodo)">Dimensional Analysis</a>, <a href="../methods/ray-tracing-(metodo)" class="internal internal-link alias" data-slug="methods/ray-tracing-(metodo)">Ray Tracing</a>
+<strong>Competenze:</strong> <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>, <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/estimation--and--approximation-(competenza)" class="internal internal-link alias" data-slug="skills/estimation--and--approximation-(competenza)">Estimation &amp; Approximation</a>
+<strong>Objects:</strong> <a href="../objects/planet-(object)" class="internal internal-link alias" data-slug="objects/planet-(object)">Planet</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1r0x7UgPURigNOfFcmUieRNKOkghaBcyV/view" class="external external-link">Testo (PDF) — p.1<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+<strong>Soluzione:</strong> <a href="https://drive.google.com/file/d/1PII6hp4bBFS5nRvGjtNRQRL6KbdZJGBY/view" class="external external-link">Soluzioni (PDF)<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/planet-(object)" class="internal">Planet</a></li><li><a href="../prove/exam-theory-q1-italiano_2" class="internal">OII na Teorica</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

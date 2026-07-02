@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr"><head><title>Argent 2016 Locale — Quesito 131</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="Argent 2016 Locale — Quesito 131"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Argent 2016 Locale — Quesito 131"/><meta name="twitter:description" content="Caida en el no-vacio PT115. Escuela Superior de Comercio Carlos Pellegrini. Ciudad de Buenos Aires. Caída en el no-vacío."/><meta property="og:description" content="Caida en el no-vacio PT115. Escuela Superior de Comercio Carlos Pellegrini. Ciudad de Buenos Aires. Caída en el no-vacío."/><meta property="og:image:alt" content="Caida en el no-vacio PT115. Escuela Superior de Comercio Carlos Pellegrini. Ciudad de Buenos Aires. Caída en el no-vacío."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2016__q131"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2016__q131"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Caida en el no-vacio PT115. Escuela Superior de Comercio Carlos Pellegrini. Ciudad de Buenos Aires. Caída en el no-vacío."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/cuadernillo_2016__q131" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-8952" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-8952" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Argent 2016 Locale — Quesito 131</a></div></nav><h1 class="article-title">Argent 2016 Locale — Quesito 131</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/kg/prova" class="internal internal-link tag-link">kg/prova</a><span class="note-properties-separator">, </span><a href="../tags/paese/argentina" class="internal internal-link tag-link">paese/argentina</a><span class="note-properties-separator">, </span><a href="../tags/comp/argent" class="internal internal-link tag-link">comp/argent</a><span class="note-properties-separator">, </span><a href="../tags/cluster/meccanica" class="internal internal-link tag-link">cluster/meccanica</a><span class="note-properties-separator">, </span><a href="../tags/topic/newtonian-mechanics" class="internal internal-link tag-link">topic/newtonian-mechanics</a><span class="note-properties-separator">, </span><a href="../tags/argomento/meccanica" class="internal internal-link tag-link">argomento/meccanica</a><span class="note-properties-separator">, </span><a href="../tags/difficolta/4" class="internal internal-link tag-link">difficolta/4</a><span class="note-properties-separator">, </span><a href="../tags/multidisciplina/mono" class="internal internal-link tag-link">multidisciplina/mono</a><span class="note-properties-separator">, </span><a href="../tags/object/projectile" class="internal internal-link tag-link">object/projectile</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:28:00.930Z">02 lug 2026</time><span>15 minuti</span></p><ul class="tags"><li><a href="../tags/kg/prova" class="internal tag-link">kg/prova</a></li><li><a href="../tags/paese/argentina" class="internal tag-link">paese/argentina</a></li><li><a href="../tags/comp/argent" class="internal tag-link">comp/argent</a></li><li><a href="../tags/cluster/meccanica" class="internal tag-link">cluster/meccanica</a></li><li><a href="../tags/topic/newtonian-mechanics" class="internal tag-link">topic/newtonian-mechanics</a></li><li><a href="../tags/argomento/meccanica" class="internal tag-link">argomento/meccanica</a></li><li><a href="../tags/difficolta/4" class="internal tag-link">difficolta/4</a></li><li><a href="../tags/multidisciplina/mono" class="internal tag-link">multidisciplina/mono</a></li><li><a href="../tags/object/projectile" class="internal tag-link">object/projectile</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="es"></div>
+<p><strong>Caida en el no-vacio</strong></p>
+<p>PT115. Escuela Superior de Comercio Carlos Pellegrini.</p>
+<pre><code>Ciudad de Buenos Aires. 
+</code></pre>
+<p>Caída en el no-vacío.
+Desde la época de Galileo (fines del s. XVI y comienzos del XVII) se sabe que todo cuerpo
+que cae en las proximidades de la superficie del planeta lo hace con la misma
+aceleración, independientemente de su masa, si está sujeto únicamente a la gravedad.
+Esta postura entraba en directa contradicción con la aristotélica, que planteaba que la
+velocidad con la que caía un cuerpo era directamente proporcional a su masa.</p>
+<p>El planteo de Aristóteles (s. IV a. C.), que se mantuvo vigente por casi dos milenios, no
+carecía de sentido. Todos podemos observar que objetos livianos tales como hojas y
+plumas caen más lentamente que otros, en condiciones típicas. ¿Por qué la física le da la
+razón, entonces, a Galileo?</p>
+<p>Hoy sabemos que, en circunstancias ordinarias, un cuerpo que cae no está sujeto
+únicamente a la gravedad. El aire que rodea al cuerpo, como todo fluido, le opone una
+resistencia a su movimiento relativo a través de una fuerza de arrastre, la cual depende
+de su tamaño, forma y —particularmente— su velocidad, y que es la responsable de que
+algunos objetos caigan más lentamente que otros.</p>
+<p>La fuerza de arrastre puede ser estudiada en uno de los experimentos del laboratorio de
+la Escuela, en el cual se suelta una bolita de plomo de 3 × 10−3 m de radio en el interior
+de una probeta llena de miel en reposo. A medida que la bolita acelera por la gravedad,
+aumenta la resistencia que le ofrece el fluido. En 1851 Stokes dedujo que el módulo de la
+fuerza de arrastre sobre una esfera viene dado por
+𝑓𝑎= 6𝜋𝜇𝑅𝑣
+donde R es el radio de la esfera, v su rapidez relativa al fluido y µ es la llamada
+viscosidad dinámica (o viscosidad), que es característica de cada fluido.
+a) Hallar el peso de la bolita de plomo.</p>
+<p>A medida que el cuerpo acelera, la fuerza que le opone el fluido va creciendo hasta
+equipararse con la gravitatoria. En ese momento deja de acelerar, alcanzando la llamada
+velocidad terminal.</p>
+<p>b) ¿Cuánto debe valer la fuerza de arrastre sobre dicha bolita cuando está en su
+velocidad terminal?</p>
+<p>La medición de la velocidad terminal es el principio de funcionamiento del viscosímetro,
+utilizado para medir la viscosidad µ de un fluido.
+c) ¿Cuánto valdría la velocidad terminal de la bolita si el fluido tuviera µ = 0,9
+kg/(m.s)?
+d) En ese caso, estime el tiempo que tardaría la esfera en alcanzar un 95 % de la
+velocidad terminal, cuando se la suelta del reposo dentro del fluido. (Ayuda: si no
+sabe realizar el cálculo exacto, puede calcular el tiempo que tardaría en
+alcanzarla si la aceleración fuera sólo la gravitatoria. Multiplicando por 3 ese
+tiempo, se obtiene lo que tarda en alcanzar el 95 % de la velocidad terminal).
+e) ¿Cómo se modificaría la velocidad terminal si se usase una esfera más grande
+del mismo material? Justifique su respuesta, y calcúlela para una de 1 cm de
+diámetro.</p>
+<p>En un trabajo práctico, se mide el movimiento de la bolita con una filmación y el programa
+Tracker, desde el momento en que se la suelta dentro de la miel. En la figura 1 se
+muestra el gráfico de posición en función de tiempo obtenido.
+f) ¿Cuál fue la velocidad terminal de la bolita? Justifique su respuesta.
+g) Obtenga la viscosidad de la miel.
+h) Si la probeta es de 50 ml, estime el aumento de temperatura de la miel tras la
+caída de la bolita.
+i) Ahora calcule la velocidad terminal de la esfera original, si en lugar de miel se usa
+agua. ¿Considera razonable este resultado?</p>
+<p>La expresión dada por Stokes para la fuerza de arrastre es válida únicamente cuando se
+tiene flujo laminar o muy viscoso. Para decidir cuán viscoso es un flujo, en mecánica de
+fluidos se utiliza el llamado número de Reynolds:
+𝑅𝑒= 𝜌fl𝑣𝐷
+𝜇
+,
+donde 𝜌fl es la densidad del fluido, D es el diámetro del sólido sumergido y v es la rapidez
+relativa entre ambos. Se considera que un flujo es laminar cuando Re &lt; 1. Si Re es un
+número muy grande (donde ―grande‖ depende de las formas geométricas involucradas en
+el problema), se dice que se tiene un flujo turbulento.
+j) Establezca si la bolita cayendo en la miel con su velocidad terminal constituye un
+flujo laminar. Lo mismo para la bolita en el agua.</p>
+<p>Cuando el flujo no es laminar, la ley de Stokes pierde su validez debido a que la inercia
+del fluido resulta ser más importante que su viscosidad. En ese caso, se recurre a una
+expresión más general:
+𝑓𝑎= 𝑐𝑎𝜌fl𝑣2𝐷2,
+donde 𝑐𝑎 es un coeficiente de arrastre que depende del número de Reynolds. Mediante
+experimentos realizados en túneles de viento, se ha establecido que cuando Re > 104,
+para una esfera se puede considerar que 𝑐𝑎 es constante y aproximadamente igual a
+0,738.
+k) Hallar la velocidad terminal de la bolita cayendo en agua, suponiendo que Re >
+104. Su resultado ¿confirma esta suposición? Compare con el obtenido en f).
+l) ¿Cuál sería la velocidad terminal de la bolita cayendo en aire? ¿Puede usar una
+bolita para medir la viscosidad del aire?
+Justifique su respuesta.</p>
+<p>Datos</p>
+<p> g = 9,8 m/s2
+ Densidad del plomo: 11300 kg/m3
+ Densidad de la miel: 1360 kg/m3</p>
+<p> Densidad del agua: 1000 kg/m3
+ Viscosidad del agua: 8,9 × 10−4 kg/(m.s)
+ Volumen de una esfera: 4/3.πR3
+ Calor específico de la miel: aprox. 2,3 kJ/(kg °C).
+Figura 1. Posición en función del tiempo para una bolita cayendo en una probeta llena de
+miel. El origen de tiempos y de posición se toma en el lugar y en el instante donde se
+suelta la bolita.</p>
+<p><strong>Topic:</strong> <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>
+<strong>Metodi:</strong> <a href="../methods/differential-equations-(metodo)" class="internal internal-link alias" data-slug="methods/differential-equations-(metodo)">Differential Equations</a>, <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/projectile-(object)" class="internal internal-link alias" data-slug="objects/projectile-(object)">Projectile</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1yUt3qlvMhlX6NtiZ_M4vH9n6z3G3dgRP/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="it"></div>
+<p><strong>Casa nel non vuoto</strong></p>
+<p>PT115. Scuola superiore di commercio Carlos Pellegrini.</p>
+<p>Città di Buenos Aires.</p>
+<p>Caduta nel non-vuoto.
+Dall’epoca di Galileo (fine del secolo. XVI e inizio XVII) è noto che ogni corpo
+che cade nelle vicinanze della superficie del pianeta lo fa con la stessa
+l’accelerazione, indipendentemente dalla massa, se è soggetta unicamente alla gravità.
+Questa posizione era in diretta contraddizione con l’aristotelica, che postulava che la
+La velocità con cui un corpo cadeva era direttamente proporzionale alla sua massa.</p>
+<p>Il pensiero di Aristotele (s. IV a. C.), che è rimasta in vigore per quasi due millenni, non
+Non ha senso. Tutti possiamo osservare che oggetti leggeri come foglie e
+Le piume cadono più lentamente di altre, in condizioni tipiche. Perché la fisica gli dà la
+Giusto, allora, a Galileo?</p>
+<p>Oggi sappiamo che, in circostanze ordinarie, un corpo che cade non è soggetto.
+solo alla gravità. L’aria che circonda il corpo, come ogni fluido, si oppone a un
+resistenza al suo movimento relativo attraverso una forza di trazione, che dipende
+La sua dimensione, forma e velocità, in particolare, e che è responsabile di
+Alcuni oggetti cadono più lentamente di altri.</p>
+<p>La forza di trazione può essere studiata in uno degli esperimenti del laboratorio di
+La scuola, in cui viene rilasciata una pallina di piombo di 3 × 10−3 m di raggio all’interno
+di un’analisi piena di miele in riposo. Mentre la pallina si accelera a causa della gravità,
+aumenta la resistenza che il fluido gli offre. Nel 1851 Stokes dedusse che il modulo della
+La forza di trazione su una sfera viene data da
+Fa= 6πμRv
+dove R è il raggio della sfera, v la sua velocità relativa al fluido e μ è la chiamata
+viscosità dinamica (o viscosità), che è caratteristica di ogni fluido.
+a) Calcolare il peso della pallina di piombo.</p>
+<p>Mentre il corpo accelera, la forza che gli opone il fluido cresce fino a</p>
+<ul>
+<li>E’ il nostro sistema di gravità. A quel punto smette di accelerare, raggiungendo la chiamata.
+velocità terminale.</li>
+</ul>
+<p>b) Quanto deve valere la forza di trazione su tale pallina quando è in
+velocità terminale?</p>
+<p>La misurazione della velocità terminale è il principio di funzionamento del viscosimetro,
+utilizzato per misurare la viscosità μ di un fluido.
+c) Quanto valrebbe la velocità terminale della pallina se il fluido avesse μ = 0,9
+kg/(m.s)?
+(d) In tal caso, calcoli il tempo necessario per raggiungere il 95% della spherea.
+velocità terminale, quando viene rilasciata dal riposo nel fluido. (Ausilio: se non)
+sa fare il calcolo preciso, può calcolare il tempo che ci vorrebbe in
+raggiungerla se l’accelerazione fosse solo la gravità. Moltiplicando per 3 quel
+Il tempo di raggiungimento è il 95% della velocità terminale.
+e) Come si modificerebbe la velocità terminale se si utilizzasse una sfera più grande
+della stessa materia? Giustifica la tua risposta, e calcolala per un centimetro di
+diametro.</p>
+<p>In un lavoro pratico, si misura il movimento della pallina con un filmato e il programma
+Tracker, dal momento in cui la si lascia entrare nel miele. In figura 1 si
+mostra il grafico di posizione in base al tempo ottenuto.
+f) Qual è stata la velocità terminale della pallina? giustifica la tua risposta.
+g) Ottenere la viscosità del miele.
+h) Se il campione è di 50 ml, calcola l’ aumento della temperatura del miele dopo l’ assunzione.
+caduta della palla.
+i) Calcola ora la velocità terminale della sfera originale, se invece di miele si usa
+acqua. Considera ragionevole questo risultato?</p>
+<p>La parola Stokes per forza di trazione è valida solo quando si
+ha un flusso laminare o molto viscoso. Per decidere quanto sia viscoso un flusso, in meccanica di
+Fluidi viene utilizzato il numero di Reynolds:
+Re= ρflvD
+𝜇
+,
+dove ρfl è la densità del fluido, D è il diametro del solido immerso e v è la velocità
+Relativamente tra i due. Un flusso è considerato laminare quando Re &lt; 1. Si Re es un
+Numero molto grande (dove ―grande‖ dipende dalle forme geometriche coinvolte in
+Il problema è che si dice che si ha un flusso turbolento.
+j) Indicare se la pallina che cade nel miele alla sua velocità terminale costituisce un
+flussi laminari. Lo stesso per la pallina in acqua.</p>
+<p>Quando il flusso non è laminare, la legge di Stokes perde la sua validità perché l’inerzia
+La viscosità del liquido è più importante della sua viscosità. In questo caso, si ricorre a una
+espressione più generale:
+Fa= caρflv2D2,
+dove ca è un coefficiente di trazione che dipende dal numero di Reynolds. Mediante
+La Commissione ha inoltre concluso che la Commissione non ha fornito informazioni sufficienti per la valutazione della situazione.
+per una sfera si può considerare che ca è costante e approssimativamente uguale a
+0,738.
+k) Calcolare la velocità terminale della pallina che cade in acqua, supponendo che Re >
+104. Il suo risultato conferma questa ipotesi? Compare con quello ottenuto in f).
+L) Qual è la velocità terminale della pallina in aria? Può usare una?
+una palla per misurare la viscosità dell’aria?
+giustifica la tua risposta.</p>
+<p>Datos</p>
+<p> g = 9,8 m/s2
+ Densità di piombo: 11300 kg/m3
+ Densità del miele: 1360 kg/m3</p>
+<p> Densità dell’acqua: 1000 kg/m3
+ Viscosità dell’acqua: 8,9 × 10−4 kg/m.s.)
+ Volume di una sfera: 4/3.πR3
+ Calore specifico del miele: approx. 2,3 kJ/(kg °C).
+Figura 1. Posizione in funzione del tempo per una pallina cadendo in una prova piena di</p>
+<ul>
+<li>No, tesoro. L’origine dei tempi e della posizione è presa nel luogo e nell’istante in cui si</li>
+<li>Lascia perdere la pallina.</li>
+</ul>
+<p><strong>Topic:</strong> <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>
+<strong>Metodi:</strong> <a href="../methods/differential-equations-(metodo)" class="internal internal-link alias" data-slug="methods/differential-equations-(metodo)">Differential Equations</a>, <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/projectile-(object)" class="internal internal-link alias" data-slug="objects/projectile-(object)">Projectile</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1yUt3qlvMhlX6NtiZ_M4vH9n6z3G3dgRP/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p><strong>Falling into the non-vacuum</strong></p>
+<p>PT115. The Carlos Pellegrini High School of Commerce.</p>
+<p>City of Buenos Aires.</p>
+<p>Falling into the non-empty.
+Since the time of Galileo (late s. 16th and early 17th centuries) it is known that every body
+It falls close to the surface of the planet and does so with it.
+acceleration, regardless of mass, if subject to gravity alone.
+This position was in direct contradiction with Aristotelianism, which held that the
+The rate at which a body fell was directly proportional to its mass.</p>
+<p>The Aristotle’s assertion (p. IV a. C.), which remained in force for almost two millennia, no
+It didn’t make sense. We can all observe that light objects such as leaves and leaves
+Feathers fall more slowly than others, under typical conditions. Why does physics give you the
+Right, then, to Galileo?</p>
+<p>Today we know that, under ordinary circumstances, a body that falls is not subject.
+only to gravity. The air around the body, like all fluid, opposes it a
+resistance to its relative motion through a drag force, which depends on
+The Commission has also been responsible for the development of the new technologies and the development of new technologies.
+Some objects fall more slowly than others.</p>
+<p>The traction force can be studied in one of the laboratory experiments of
+The school, in which a lead ball of 3 × 10−3 m radius is released inside
+of a honey-filled sample at rest. As the ball accelerates by gravity,
+increases the resistance offered by the fluid. In 1851 Stokes deduced that the module of the
+The force of drag on a sphere is given by
+The following is the list of the following:
+where R is the radius of the sphere, v its velocity relative to the fluid and μ is the call
+dynamic viscosity (or viscosity), which is characteristic of each fluid.
+(a) Find the weight of the lead ball.</p>
+<p>As the body accelerates, the force against the fluid grows to
+equate to gravity. At that moment, stop speeding, reaching the call.
+terminal speed.</p>
+<p>(b) How much must the drag force be on the ball when it is in its
+terminal speed?</p>
+<p>The measurement of terminal speed is the principle of operation of the viscosometer,
+used to measure the μ viscosity of a fluid.
+(c) What would the terminal velocity of the ball be if the fluid had μ = 0.9
+kg/(m.s)?
+(d) In this case, estimate the time it would take the sphere to reach 95% of the total
+terminal velocity, when released from rest within the fluid. (Help: if not)
+You can calculate exactly how long it would take you to do the calculation.
+If the acceleration were just gravity, we would reach it. Multiplying by 3 that.
+The time it takes to reach 95% of the terminal speed is obtained.
+(e) How would the terminal speed be modified if a larger sphere were used
+of the same material? Justify your answer, and calculate it for a 1 cm of
+diameter.</p>
+<p>In a practical work, the ball’s motion is measured with a filming and programming.
+Tracker, from the moment she’s released into the honey. In Figure 1 it is
+The position graph is shown in terms of time obtained.
+(f) What was the terminal speed of the ball? Justify your answer.
+(g) Obtain the viscosity of the honey.
+(h) If the sample is 50 ml, estimate the increase in the temperature of the honey after the honey.
+falling off the ball.
+i) Now calculate the terminal velocity of the original sphere if you use honey instead</p>
+<ul>
+<li>What? Do you consider this a reasonable result?</li>
+</ul>
+<p>The expression given by Stokes for drag force is valid only when
+has a laminar flow or very viscous flow. To decide how viscous a flow is, in mechanics of
+fluids is used the so-called Reynolds number:
+The following is the list of the countries of the European Union:
+𝜇
+,
+where ρfl is the density of the fluid, D is the diameter of the submerged solid and v is the velocity
+relative between the two. A flow is considered laminar when Re &lt; 1. Si Re es un
+very large number (where ―big‖ depends on the geometric shapes involved in
+The problem is, they say there’s a turbulent flow.
+(j) Establish whether the ball falling into the honey at its terminal speed constitutes a
+Laminar flow. Same thing with the ball in the water.</p>
+<p>When the flow is not laminar, Stokes’ law loses its validity because inertia
+The fluid’s viscosity is more important than the fluid’s viscosity. In this case, you will use a
+More general terms:
+The following is the list of the categories of products:
+where ca is a drag coefficient that depends on the Reynolds number. By way of
+Experiments conducted in wind tunnels have established that when Re > 104,
+For a sphere, we can consider ca to be constant and approximately equal to
+0,738.
+k) Find the terminal velocity of the ball falling into water, assuming that Re >
+104. Does your result confirm this assumption? Compare that to the one in f).
+(l) What would be the terminal velocity of the ball falling into the air? Can you use one?
+a ball to measure air viscosity?
+Justify your answer.</p>
+<p>Data from the report</p>
+<p> g = 9,8 m/s2
+ Lead density: 11300 kg/m3
+• Density of honey: 1360 kg/m3</p>
+<p>• Water density: 1000 kg/m3
+ Viscosity of water: 8,9 × 10−4 kg/m.s.
+ Volume of a sphere: 4/3.πR3
+ Specific heat of honey: approx. 2,3 kJ/(kg °C).
+Figure 1 is shown. Time-based position for a ball falling into a sample filled with
+Honey, you know what? The origin of time and position is taken in the place and in the instant where it is
+Let go of the ball.</p>
+<p><strong>Topic:</strong> <a href="../topics/newtonian-mechanics" class="internal internal-link alias" data-slug="topics/newtonian-mechanics">Newtonian Mechanics</a>
+<strong>Metodi:</strong> <a href="../methods/differential-equations-(metodo)" class="internal internal-link alias" data-slug="methods/differential-equations-(metodo)">Differential Equations</a>, <a href="../methods/free-body-diagram-(metodo)" class="internal internal-link alias" data-slug="methods/free-body-diagram-(metodo)">Free-Body Diagram</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>
+<strong>Objects:</strong> <a href="../objects/projectile-(object)" class="internal internal-link alias" data-slug="objects/projectile-(object)">Projectile</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1yUt3qlvMhlX6NtiZ_M4vH9n6z3G3dgRP/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/projectile-(object)" class="internal">Projectile</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr"><head><title>Argent 2016 Locale — Quesito 183</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="Argent 2016 Locale — Quesito 183"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Argent 2016 Locale — Quesito 183"/><meta name="twitter:description" content="Movimiento armonico simple - resorte PE27. Escuela ORT - Sede Almagro. Ciudad de Buenos Aires."/><meta property="og:description" content="Movimiento armonico simple - resorte PE27. Escuela ORT - Sede Almagro. Ciudad de Buenos Aires."/><meta property="og:image:alt" content="Movimiento armonico simple - resorte PE27. Escuela ORT - Sede Almagro. Ciudad de Buenos Aires."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2016__q183"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2016__q183"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Movimiento armonico simple - resorte PE27. Escuela ORT - Sede Almagro. Ciudad de Buenos Aires."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/cuadernillo_2016__q183" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-9009" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-9009" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Argent 2016 Locale — Quesito 183</a></div></nav><h1 class="article-title">Argent 2016 Locale — Quesito 183</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/kg/prova" class="internal internal-link tag-link">kg/prova</a><span class="note-properties-separator">, </span><a href="../tags/paese/argentina" class="internal internal-link tag-link">paese/argentina</a><span class="note-properties-separator">, </span><a href="../tags/comp/argent" class="internal internal-link tag-link">comp/argent</a><span class="note-properties-separator">, </span><a href="../tags/cluster/onde-e-oscillazioni" class="internal internal-link tag-link">cluster/onde-e-oscillazioni</a><span class="note-properties-separator">, </span><a href="../tags/topic/oscillations-and-waves" class="internal internal-link tag-link">topic/oscillations-and-waves</a><span class="note-properties-separator">, </span><a href="../tags/argomento/onde-e-oscillazioni" class="internal internal-link tag-link">argomento/onde-e-oscillazioni</a><span class="note-properties-separator">, </span><a href="../tags/difficolta/2" class="internal internal-link tag-link">difficolta/2</a><span class="note-properties-separator">, </span><a href="../tags/multidisciplina/mono" class="internal internal-link tag-link">multidisciplina/mono</a><span class="note-properties-separator">, </span><a href="../tags/object/spring" class="internal internal-link tag-link">object/spring</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:28:01.044Z">02 lug 2026</time><span>16 minuti</span></p><ul class="tags"><li><a href="../tags/kg/prova" class="internal tag-link">kg/prova</a></li><li><a href="../tags/paese/argentina" class="internal tag-link">paese/argentina</a></li><li><a href="../tags/comp/argent" class="internal tag-link">comp/argent</a></li><li><a href="../tags/cluster/onde-e-oscillazioni" class="internal tag-link">cluster/onde-e-oscillazioni</a></li><li><a href="../tags/topic/oscillations-and-waves" class="internal tag-link">topic/oscillations-and-waves</a></li><li><a href="../tags/argomento/onde-e-oscillazioni" class="internal tag-link">argomento/onde-e-oscillazioni</a></li><li><a href="../tags/difficolta/2" class="internal tag-link">difficolta/2</a></li><li><a href="../tags/multidisciplina/mono" class="internal tag-link">multidisciplina/mono</a></li><li><a href="../tags/object/spring" class="internal tag-link">object/spring</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="es"></div>
+<p><strong>Movimiento armonico simple - resorte</strong></p>
+<p>PE27. Escuela ORT - Sede Almagro.</p>
+<p>Ciudad de Buenos Aires.</p>
+<p>Introducción
+Un tipo de movimiento oscilatorio muy importante es el movimiento armónico simple, el
+que, por ejemplo, experimenta un cuerpo unido a un resorte en ausencia de fricción. En el
+equilibrio, el resorte no ejerce ninguna fuerza sobre el cuerpo; sin embargo, al
+desplazarlo una cantidad 𝑥 de esta posición, el resorte ejerce una fuerza que viene dada
+por la ley de Hooke:
+𝐹= −𝑘𝑥
+(1)
+En donde 𝑘es la constante del resorte que caracteriza la rigidez del mismo. Esta fuerza
+es una fuerza restauradora, es decir se opone al sentido del desplazamiento respecto del
+punto de equilibrio. Los cuerpos que se encuentran sometidos solamente a esta fuerza
+son denominados osciladores armónicos simples. Para determinar el movimiento que
+hará el sistema es necesario resolver la ecuación de Newton que para el caso de
+movimiento en una sola dirección viene dada por:
+𝐹𝑥= 𝑚𝑎𝑥 (2)
+Reemplazando entonces queda:<br/>
+−𝑘𝑥= 𝑚𝑎𝑥 (3)
+Al ser un movimiento oscilatorio, es útil definir una frecuencia característica para el
+sistema, que en el caso mecánico viene dada por:
+𝜔0 =  𝑘
+𝑚
+(4)
+Esta frecuencia característica depende solamente de las propiedades mecánicas del
+sistema y no depende de los parámetros iniciales del movimiento en cuestión. La solución
+para la ecuación (3) viene dada por:
+𝑥 𝑡 = 𝐴cos 𝜔0𝑡+ 𝜑<br/>
+(5)
+Siendo 𝜑 el valor inicial de la fase que depende de la elección del origen de los tiempos.
+Para el caso en que la masa parte del reposo desde el punto de elongación máximo la
+solución viene dada por:
+𝑥 𝑡 = 𝐴cos 𝜔0𝑡<br/>
+(6)
+En general esta descripción es una idealización del caso real en el cual hay que tener en
+cuenta la existencia de fuerzas de fricción, dichas fuerzas se originan debido a que el</p>
+<p>OAF 2016 - 137
+sistema está inmerso en un fluido (generalmente aire, aunque puede ser aceite, agua,
+etc.) porlo que se observa que a medida que avanza el tiempo la oscilación se atenúa
+hasta que se detiene. Esto puede tenerse en cuenta tomando la fuerza viscosa de la
+manera:
+𝐹= −𝑏𝑣
+(7)
+Se puede ver que la fuerza aumenta con la velocidad de la partícula. La ecuación de
+Newton queda en este caso:
+−𝑘𝑥−𝑏𝑣= 𝑚𝑎 (8)
+En definitiva, queda:
+𝑎+ 2𝛽𝑣+ 𝜔02𝑥= 0</p>
+<p>(9)
+En donde 𝛽=
+𝑏
+2𝑚es el parámetro de amortiguamiento del sistema. El movimiento de la
+partícula ahora dependerá del parámetro teniendo tres regímenes distintos:
+ Sobre amortiguado: El parámetro de amortiguamiento es muy grande por lo que
+el sistema no oscila: al apartarlo del equilibrio, el sistema vuelve lentamente a
+esta posición.
+ Crítico: Como en el caso anterior el sistema no presenta oscilación y tiende al
+equilibrio más rápido que en el caso sobre amortiguado.
+ Débilmente amortiguado: El sistema presenta oscilaciones y se atenúa a medida
+que avanza el tiempo hasta detenerse.</p>
+<p>En los sistemas amortiguados es útil definir un factor de calidad 𝑄del sistema como la
+relación entre la energía máxima almacenada 𝐸 y la energía perdida media por
+periodo∆𝐸, que en términos de las variables características del sistema se puede escribir
+como:
+𝑄=
+𝜔0
+2𝛽</p>
+<p>(10)
+El factor de calidad representa una medida de la falta de amortiguamiento de un
+oscilador. Para valores elevados de 𝑄,el amortiguamiento es débil, lo que hace que la
+disminución de la amplitud sea muy lenta. En caso contrario, un factor de calidad bajo, la
+oscilación sería rápidamente amortiguada, que es útil en ciertos sistemas mecánicos, por
+ejemplo, la corteza terrestre para las ondas sísmicas.</p>
+<p>Por último se puede considerar un sistema oscilante en el cual hay presente una fuerza
+exterior variable 𝐹(𝑡), lo queda lugar a un oscilador armónico forzado. En este caso hay
+que incluir esta fuerza en la ecuación de Newton:
+−𝑘𝑥−𝑏𝑣+ 𝐹(𝑡) = 𝑚𝑎 (11)
+En este caso la forma de la solución no es muy ilustrativa pero es importante considerar
+que la fuerza exterior está inyectando energía en el sistema por lo que el mismo no
+llegaría al equilibrio como en el caso del oscilador armónico amortiguado si no que
+oscilará siempre y cuando la fuerza esté encendida.
+Si consideramos la fuerza exterior como un movimiento armónico, esta también estará
+caracterizada por alguna frecuencia𝜔que será determinada por el sistema del forzante.
+Un sistema de estas características puede presentar un fenómeno característico llamado
+resonancia, en el cual la amplitud de oscilación del sistema se hace máxima, esta
+frecuencia puede calcularse a partir de la solución obteniendo:
+𝜔𝑅=  𝜔02 −2𝛽2
+(12)
+Modificando la frecuencia de la fuerza externa y analizando la amplitud del movimiento
+para distintas frecuencias se puede analizar la resonancia del sistema.
+Además, se redefine entonces el factor de calidad en términos de esta frecuencia de
+resonancia:
+𝑄=
+𝜔𝑅
+2𝛽</p>
+<p>(13)</p>
+<p>Objetivo
+Determinar experimentalmente la constante elástica 𝑘 del resorte y la frecuencia de
+resonancia de un oscilador armónico amortiguado.</p>
+<p>138 - OAF 2016
+Elementos:</p>
+<ul>
+<li>Pie de laboratorio</li>
+<li>Resorte</li>
+<li>Masas y portapesa</li>
+<li>Balanza</li>
+<li>Regla</li>
+<li>Parlante de computadora</li>
+<li>Generador de funciones</li>
+<li>Pelotita de tenis</li>
+</ul>
+<p>Procedimientos y consignas
+1.1. Determinación de la constante elástica
+a) Determinar la longitud natural del resorte.
+b) Elegir un conjunto de masas, colgarlas del resorte y medir el estiramiento del
+mismo.
+c) Graficar los datos experimentales del peso y estiramiento correspondiente.
+d) A partir del gráfico y usando la ecuación (3), determinar la constante elástica𝑘.</p>
+<p>1.2. Determinación de la frecuencia de resonancia
+a) Mediante la utilización del generador de funciones barrer distintas frecuencias
+hasta ubicar la zona donde se encuentrala frecuencia de resonancia.
+b) Realizar un barrido de frecuencias espaciado uniformemente midiendo la
+amplitud de la oscilación.
+c) Realizar un gráfico de amplitud en función de frecuencia.
+d) Determinar un criterio para obtener la frecuencia de resonancia.
+e) A partir de este último valor, obtener el parámetro de amortiguamiento y el factor
+de calidad utilizando las ecuaciones (12) y (13).</p>
+<p>OAF 2016 - 139</p>
+
+<p><img src="../_attachments/cuadernillo_2016/cuadernillo_2016_p138_f1.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/oscillations--and--waves" class="internal internal-link alias" data-slug="topics/oscillations--and--waves">Oscillations &amp; Waves</a>
+<strong>Metodi:</strong> <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>, <a href="../methods/simple-harmonic-motion-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/simple-harmonic-motion-analysis-(metodo)">Simple Harmonic Motion Analysis</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>
+<strong>Objects:</strong> <a href="../objects/spring-(object)" class="internal internal-link alias" data-slug="objects/spring-(object)">Spring</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1yUt3qlvMhlX6NtiZ_M4vH9n6z3G3dgRP/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="it"></div>
+<p><strong>Semplice movimento armonico - resorte</strong></p>
+<p>PE27. Scuola ORT - Sede Almagro.</p>
+<p>Città di Buenos Aires.</p>
+<p>Introduzione
+Un tipo di movimento oscillatorio molto importante è il movimento armonico semplice, il
+che, per esempio, sperimenta un corpo unito a una primavera in assenza di attrito. En el
+L’equilibrio, la primavera non esercita alcuna forza sul corpo; tuttavia, il
+spostare una quantità x di questa posizione, la resorte esercita una forza che viene data
+per legge di Hooke:
+𝐹= −𝑘𝑥
+(1)
+In cui si trova la costante della resorsa che caratterizza la rigidità della stessa. Questa forza
+La forza di ristabilitazione è un’energia che si oppone al senso di spostamento rispetto al
+punto di equilibrio. I corpi che si trovano sottoposti solo a questa forza
+sono chiamati oscillatori armonici semplici. Per determinare il movimento che
+il sistema sarà necessario risolvere l’equazione di Newton che per il caso di
+movimento in una sola direzione è dato da:
+Fx= max (2)
+Rimpiazzando allora resta:
+-kx=max (3)
+Essendo un movimento oscilante, è utile definire una frequenza caratteristica per il
+sistema, che nel caso meccanico viene dato da:
+𝜔0 =  𝑘
+𝑚
+(4)
+Questa frequenza caratteristica dipende solo dalle proprietà meccaniche del
+La Commissione ha adottato una decisione che non è stata adottata. La soluzione
+per l’equazione (3) viene data da:
+x t = Acos ω0t+ φ
+(5)
+Essendo φ il valore iniziale della fase che dipende dalla scelta dell’origine dei tempi.
+Per il caso in cui la massa parte dal riposo dal punto di massima allungamento, la massa è
+La soluzione viene data da:
+x t = Acos ω0t
+(6)
+In generale, questa descrizione è un’idealizzazione del caso reale in cui si deve avere in
+La forza di attrito si verifica in base al fatto che il</p>
+<p>OAF 2016 - 137
+sistema è immerso in un fluido (generalmente aria, anche se può essere olio, acqua,
+ecc.) che si osserva che l’oscillazione si attenua con il passare del tempo.
+finché non si ferma. Questo può essere considerato prendendo la forza viscosa della
+modo:
+𝐹= −𝑏𝑣
+(7)
+Si può vedere che la forza aumenta con la velocità della particella. L’equazione di
+Newton rimane in questo caso:
+−𝑘𝑥−𝑏𝑣= 𝑚𝑎 (8)
+In breve, resta:
+𝑎+ 2𝛽𝑣+ 𝜔02𝑥= 0</p>
+<p>(9)
+Dove β=
+𝑏
+2° il parametro di ammortizzazione del sistema. Il movimento della
+Particolo ora dipenderà dal parametro avendo tre regimi diversi:
+ Over-amortizzato: il parametro di amortizzazione è molto grande per cui
+il sistema non oscilla: allontanandolo dall’equilibrio, il sistema torna lentamente a
+Questa posizione.
+ Critico: come nel caso precedente il sistema non presenta oscillazioni e tende a
+Il tasso di cambio è più elevato rispetto al tasso di cambio.
+ Debole amortizzazione: il sistema presenta oscillazioni e si attenua a misura
+che passa il tempo fino a fermarsi.</p>
+<p>In sistemi ammortizzati è utile definire un fattore di qualità Q del sistema come la
+Relazione tra la massima energia conservata E e l’energia media persa per
+period∆E, che in termini di variabili caratteristiche del sistema si può scrivere
+come:
+𝑄=
+𝜔0
+2𝛽</p>
+<p>(10)
+Il fattore qualità rappresenta una misura della mancanza di amortizzazione di un
+oscillatore. Per valori elevati di Q, l’ammortizzazione è debole, il che rende la
+la diminuzione dell’ampiezza è molto lenta. In caso contrario, un fattore di qualità inferiore, la
+L’oscillazione sarebbe rapidamente ammortizzata, che è utile in alcuni sistemi meccanici, per
+ad esempio, la corteccia terrestre per le onde sismiche.</p>
+<p>Infine si può considerare un sistema oscillante in cui è presente una forza.
+F (t) esterno variabile, che rende luogo ad un oscillatore armonico forzato. In questo caso c’è
+che includono questa forza nell’equazione di Newton:
+−𝑘𝑥−𝑏𝑣+ 𝐹(𝑡) = 𝑚𝑎 (11)
+In questo caso la forma della soluzione non è molto illustrativa ma è importante considerare
+che la forza esterna sta injectando energia nel sistema, e quindi non lo fa.
+che raggiungerebbe l’equilibrio come nel caso dell’oscillatore armonico amortizzato se non
+Oscilla finché la forza è accesa.
+Se consideriamo la forza esterna come un movimento armonico, anche questa sarà.
+La frequenza di un’operazione è determinata dal sistema del forzatore.
+Un sistema di queste caratteristiche può presentare un fenomeno caratteristico chiamato
+La risonanza, in cui l’ampiezza di oscillazione del sistema si ottiene massima, è
+La frequenza può essere calcolata a partire dalla soluzione ottenendo:
+𝜔𝑅=  𝜔02 −2𝛽2
+(12)
+Modificando la frequenza della forza esterna e analizzando la larghezza del movimento
+per diverse frequenze si può analizzare la risonanza del sistema.
+Inoltre, il fattore di qualità viene quindi ridefinito in termini di questa frequenza di
+Risonanza:
+𝑄=
+𝜔𝑅
+2𝛽</p>
+<p>(13)</p>
+<p>Obiettivo
+Determinare sperimentalmente la costante elastica k della primavera e la frequenza di
+risonanza di un oscillatore armonico ammortizzato.</p>
+<p>138 - OAF 2016
+Elementi:</p>
+<ul>
+<li>Piede di laboratorio.</li>
+<li>Resorte</li>
+<li>Masse e portafogli</li>
+<li>Sbalzo .</li>
+<li>Regola .</li>
+<li>Parlante di computer .</li>
+<li>Generatore di funzioni</li>
+<li>Palla di tennis.</li>
+</ul>
+<p>Procedure e consigli
+1.1. Determinazione della costante elastica
+a) Determinare la lunghezza naturale della primavera.
+b) Selezionare un insieme di masse, appenderele alla primavera e misurare l’estensione del</p>
+<ul>
+<li>Proprio così.
+c) Grafica dei dati sperimentali relativi al peso e all’estensione.
+d) Sulla base del grafico e utilizzando l’equazione (3), determinare la costante elasticak.</li>
+</ul>
+<p>1.2. Determinazione della frequenza di risonanza
+a) L’utilizzo del generatore di funzioni scansione diverse frequenze
+fino a individuare l’area di frequenza.
+b) effettuare una scansione di frequenze spaziate uniformemente misurando la
+amplitudine dell’oscillazione.
+c) realizzare un grafico di amplitudine in funzione della frequenza.
+d) Determinare un criterio per ottenere la frequenza di risonanza.
+(e) Da quest’ultimo valore si ottengono il parametro di ammortizzazione e il fattore
+di qualità utilizzando le equazioni (12) e (13).</p>
+<p>OAF 2016 - 139</p>
+
+<p><img src="../_attachments/cuadernillo_2016/cuadernillo_2016_p138_f1.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/oscillations--and--waves" class="internal internal-link alias" data-slug="topics/oscillations--and--waves">Oscillations &amp; Waves</a>
+<strong>Metodi:</strong> <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>, <a href="../methods/simple-harmonic-motion-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/simple-harmonic-motion-analysis-(metodo)">Simple Harmonic Motion Analysis</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>
+<strong>Objects:</strong> <a href="../objects/spring-(object)" class="internal internal-link alias" data-slug="objects/spring-(object)">Spring</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1yUt3qlvMhlX6NtiZ_M4vH9n6z3G3dgRP/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>The following is the list of the main components of the engine:</p>
+<p>PE27. The following is the list of the activities of the Regional Development Fund:</p>
+<p>City of Buenos Aires.</p>
+<p>The first is the introduction.
+One very important type of oscillatory motion is the simple harmonic motion, the
+For example, you experience a body attached to a spring in the absence of friction. En el
+The spring does not exert any force on the body; however, the spring is not a force on the body.
+If you move a quantity x from this position, the spring exerts a given force.
+by Hooke ‘s law:
+𝐹= −𝑘𝑥
+(1)
+Where you are the spring constant that characterizes its rigidity. This force
+It is a restorative force, i.e. it opposes the sense of displacement relative to the
+The balance point. The bodies that are subjected to this force alone .
+They are called simple harmonic oscillators. To determine the movement that
+The system will need to solve the Newton equation that for the case of
+One-way motion is given by:
+Fx = max (2)
+Substituting then remains:
+-kx=max (3)
+As an oscillatory motion, it is useful to define a characteristic frequency for the
+system, which in the mechanical case is given by:
+𝜔0 =  𝑘
+𝑚
+(4)
+This characteristic frequency depends only on the mechanical properties of the
+The system is not dependent on the initial parameters of the movement concerned. The solution
+for equation (3) is given by:
+x t = Acos ω0t+ φ
+(5)
+If φ is the initial value of the phase, it depends on the choice of the origin of the times.
+For the case where the mass rests from the point of maximum elongation the mass shall be
+solution is given by:
+x t = Acos ω0t
+(6)
+In general, this description is an idealization of the real case in which it is necessary to have in
+The fact that the force of friction is present is that the force of friction is caused by the</p>
+<p>The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EU) No 1303/2013.
+system is immersed in a fluid (usually air, although it can be oil, water,
+The result is that the oscillation is attenuated as time passes.
+until it stops. This can be taken into account by taking the viscous force of the
+How:
+𝐹= −𝑏𝑣
+(7)
+You can see that the force increases with the velocity of the particle. The equation of
+Newton is left in this case:
+−𝑘𝑥−𝑏𝑣= 𝑚𝑎 (8)
+In short, it is:
+𝑎+ 2𝛽𝑣+ 𝜔02𝑥= 0</p>
+<p>(9)
+Where β is equal to
+𝑏
+2me the system cushioning parameter. The movement of the
+Particle will now depend on the parameter having three different regimes:
+ Over-clutter: The cushioning parameter is very large so
+The system does not oscillate: by moving it away from the equilibrium, the system slowly returns to
+This position.
+ Critical: As in the previous case the system does not oscillate and tends to
+The balance is faster than in the case of over-collateral.
+ Weakly cushioned: The system oscillates and dims to the point of need
+It’s time to stop.</p>
+<p>In damaged systems it is useful to define a system quality factor Q as the
+The ratio of maximum energy stored E to average energy lost per
+period∆E, which in terms of the system characteristic variables can be written
+as follows:
+𝑄=
+𝜔0
+2𝛽</p>
+<p>(10)
+The quality factor is a measure of the lack of amortization of a
+The oscillator. For high Q values, the buffer is weak, which makes the buffer less than 0.
+The decrease in amplitude is very slow. Otherwise, a low quality factor, the
+The oscillation would be quickly cushioned, which is useful in certain mechanical systems, by
+For example, the Earth’s crust for seismic waves.</p>
+<p>Finally , it can be considered an oscillating system in which a force is present .
+The external variable F(t) gives rise to a forced harmonic oscillator. In this case there is
+which includes this force in Newton’s equation:
+−𝑘𝑥−𝑏𝑣+ 𝐹(𝑡) = 𝑚𝑎 (11)
+In this case the form of the solution is not very illustrative but it is important to consider
+That the outside force is injecting energy into the system so it doesn’t.
+It would reach equilibrium as in the case of the cushioned harmonic oscillator if not that
+It will oscillate as long as the force is on.
+If we consider the external force as a harmonious movement, this one will also be.
+The force is the force of the force.
+A system of these characteristics may present a characteristic phenomenon called
+The resonance, at which the system oscillation amplitude is maximized, is
+Frequency can be calculated from the solution by obtaining:
+𝜔𝑅=  𝜔02 −2𝛽2
+(12)
+By modifying the frequency of the external force and analyzing the amplitude of the motion
+The system resonance can be analysed for different frequencies.
+In addition, the quality factor is then redefined in terms of this frequency of
+Resonance:
+𝑄=
+𝜔𝑅
+2𝛽</p>
+<p>(13)</p>
+<p>The objective
+Experimentally determine the spring elastic constant k and the frequency of
+The resonance of a cushioned harmonic oscillator.</p>
+<p>The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+The following elements:</p>
+<ul>
+<li>Lab foot .</li>
+<li>Spring .</li>
+<li>Masses and bags</li>
+<li>Weigh it .</li>
+<li>Rule .</li>
+<li>Computer speaker .</li>
+<li>Function generator</li>
+<li>Tennis ball .</li>
+</ul>
+<p>Procedures and slogans
+1.1. Determination of the elastic constant
+(a) Determine the natural length of the spring.
+(b) Select a set of masses, hang them from the spring and measure the stretch of the
+I’m not.
+(c) Graph experimental data on the weight and corresponding stretch.
+(d) From the graph and using the equation (3), determine the elasticak constant.</p>
+<p>1.2. Determination of the resonance frequency
+(a) By using the function generator scan different frequencies
+The area where the resonance frequency is located.
+(b) Perform a uniformly spaced frequency scan by measuring the
+the amplitude of the oscillation.
+(c) Draw a frequency-based width chart.
+(d) Determine a criterion for the resonance frequency.
+(e) From the latter value, obtain the buffer parameter and the factor
+quality using equations (12) and (13).</p>
+<p>The following points shall be added:</p>
+
+<p><img src="../_attachments/cuadernillo_2016/cuadernillo_2016_p138_f1.png" alt width="auto" height="auto"/></p>
+
+<p><strong>Topic:</strong> <a href="../topics/oscillations--and--waves" class="internal internal-link alias" data-slug="topics/oscillations--and--waves">Oscillations &amp; Waves</a>
+<strong>Metodi:</strong> <a href="../methods/experimental-data-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/experimental-data-analysis-(metodo)">Experimental Data Analysis</a>, <a href="../methods/simple-harmonic-motion-analysis-(metodo)" class="internal internal-link alias" data-slug="methods/simple-harmonic-motion-analysis-(metodo)">Simple Harmonic Motion Analysis</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/experimental-data-analysis-(competenza)" class="internal internal-link alias" data-slug="skills/experimental-data-analysis-(competenza)">Experimental Data Analysis</a>
+<strong>Objects:</strong> <a href="../objects/spring-(object)" class="internal internal-link alias" data-slug="objects/spring-(object)">Spring</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1yUt3qlvMhlX6NtiZ_M4vH9n6z3G3dgRP/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/spring-(object)" class="internal">Spring</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

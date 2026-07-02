@@ -1,0 +1,942 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr"><head><title>IPhO 2014 — Quesito 3</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="IPhO 2014 — Quesito 3"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="IPhO 2014 — Quesito 3"/><meta name="twitter:description" content="Problem 3 (15 points) A hot hairstyle The American girls Sofia and Grace exchange travel experiences: “On my trip to Paris last month, my hairdryer burned out,” Grace reports."/><meta property="og:description" content="Problem 3 (15 points) A hot hairstyle The American girls Sofia and Grace exchange travel experiences: “On my trip to Paris last month, my hairdryer burned out,” Grace reports."/><meta property="og:image:alt" content="Problem 3 (15 points) A hot hairstyle The American girls Sofia and Grace exchange travel experiences: “On my trip to Paris last month, my hairdryer burned out,” Grace reports."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/45_ipho_2014_1rd_handzettel_web__q03"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/45_ipho_2014_1rd_handzettel_web__q03"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Problem 3 (15 points) A hot hairstyle The American girls Sofia and Grace exchange travel experiences: “On my trip to Paris last month, my hairdryer burned out,” Grace reports."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/45_ipho_2014_1rd_handzettel_web__q03" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-5105" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-5105" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>IPhO 2014 — Quesito 3</a></div></nav><h1 class="article-title">IPhO 2014 — Quesito 3</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/kg/prova" class="internal internal-link tag-link">kg/prova</a><span class="note-properties-separator">, </span><a href="../tags/paese/germania" class="internal internal-link tag-link">paese/germania</a><span class="note-properties-separator">, </span><a href="../tags/comp/ipho" class="internal internal-link tag-link">comp/ipho</a><span class="note-properties-separator">, </span><a href="../tags/cluster/ottica" class="internal internal-link tag-link">cluster/ottica</a><span class="note-properties-separator">, </span><a href="../tags/object/resistor" class="internal internal-link tag-link">object/resistor</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:27:52.384Z">02 lug 2026</time><span>22 minuti</span></p><ul class="tags"><li><a href="../tags/kg/prova" class="internal tag-link">kg/prova</a></li><li><a href="../tags/paese/germania" class="internal tag-link">paese/germania</a></li><li><a href="../tags/comp/ipho" class="internal tag-link">comp/ipho</a></li><li><a href="../tags/cluster/ottica" class="internal tag-link">cluster/ottica</a></li><li><a href="../tags/object/resistor" class="internal tag-link">object/resistor</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="de"></div>
+<p>Problem 3 (15 points)
+A hot hairstyle
+The American girls Sofia and Grace exchange travel experiences: “On my trip to Paris last month, my hairdryer burned out,” Grace reports. Sofia thinks
+that this was probably due to the higher European mains voltage
+of 230 V compared to the voltage of
+120 V usual in the USA, and decides to take precautions for her upcoming
+trip to Europe. She fits a series resistor between
+the socket and the hairdryer, so that at home the hairdryer takes up only
+half of its power. No sooner had she arrived in Europe
+…
+State how the story with the hairdryer is likely to continue
+and justify this physically.
+Junior problem (10 points)
+Round 1
+When? Registration is open from
+April 2013. Submission deadlines are
+in the summer and can be found on the IPhO
+website.
+Who? Interested students who, in the
+2013/2014 school year, attend a general-education
+German school and
+were born after 30.06.1994.
+Where? The problems are solved as
+homework. You hand in your work to
+your subject teacher for
+correction.
+How? Four problems
+from all areas of physics are to be solved. The
+solutions may be written by hand or
+on a computer
+and should be comprehensible but not unnecessarily long.
+Textbooks may be used provided the sources are cited. Formulas that appear in the standard
+textbooks do not need to be
+derived. Only
+individual work is allowed. Anyone who, in the
+2013/14 school year, has not yet reached
+the second-to-last grade level
+can earn a bonus of points through the additional
+junior problem.
+What can you win?
+Participants receive a certificate of participation or a diploma.
+Round 2
+When? September to October 2013.
+Who? The problems are published at the end of
+August on the IPhO website
+and sent to all prize winners of the first round.
+Successful candidates from middle-school physics competitions or
+Jugend Forscht may also
+take part.
+Where? You again solve the problems at
+home and send your work
+for correction, uncorrected, to your state
+representative by 30 October
+2013. It will later be
+reviewed once more at the IPN.
+How? Theoretical and experimental physics problems are to be worked on. These are
+more demanding than in the first
+round. Otherwise the same
+rules apply.
+What can you win?
+All participants receive a
+diploma with an assessment sheet. The
+roughly 50 best are invited to the third
+round.
+The state representatives coordinate the running of the first two rounds in the individual federal states.
+They are your contact persons up to the third round.
+Round 3
+When? 01 - 07 February 2014.
+Who? The roughly 50 best of the second round.
+Where? The third round takes place as a one-week seminar at the DLR_School_
+Lab Göttingen.
+How? The task now is to work on two
+theoretical and two experimental exams without reference literature.
+In the afternoons there are seminars and excursions.
+What can you win?
+All participants receive,
+in addition to a book voucher and
+a subscription, a diploma
+with an assessment sheet.
+Young talents are offered the
+opportunity to take part in the
+European Science Olympiad
+(EUSO), a science team competition.
+Round 4
+When? Expected 22-27 April 2014.
+Who? The 15 best of the third round.
+Where? For the fourth round the
+participants are invited for a week to a
+research centre.
+How? Here theoretical and experimental exams are again on the programme. To
+prepare for the IPhO,
+problem seminars
+are held
+that are specifically geared towards typical IPhO questions.
+What can you win?
+The five most successful not only
+make up the Olympiad team, but with this round also go through the selection process
+for the Studienstiftung des deutschen
+Volkes. For the others there are,
+besides a cash prize of 500
+Euro, also language trips and internships. In addition, the Deutsche
+Physikalische Gesellschaft awards
+its
+student prize to the team members.
+Baden-Württemberg
+OStR Fabian Bühler
+Schülerforschungszentrum
+Südwürttemberg
+Gutenbergstr. 18
+88348 Bad Saulgau
+<a href="mailto:baden-wuerttemberg@ipho.info" class="external external-link">baden-wuerttemberg@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Bayern
+StD Richard Reindl
+Werdenfels-Gymnasium
+Wettersteinstraße 30
+82467 Garmisch-Partenkirchen
+<a href="mailto:bayern@ipho.info" class="external external-link">bayern@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Berlin
+StD Dr. Ingo Wilken
+Lise-Meitner-Schule
+Rudower Str. 184
+12351 Berlin
+<a href="mailto:berlin@ipho.info" class="external external-link">berlin@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Brandenburg
+Reiner Bohn
+Carl-Friedrich-Gauß-Gymnasium
+Friedrich-Ebert-Str. 52
+15234 Frankfurt(Oder)
+<a href="mailto:brandenburg@ipho.info" class="external external-link">brandenburg@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Bremen
+OStR Peter Weinhold
+Lloyd Gymnasium
+Grazer Str. 61
+27568 Bremerhaven
+<a href="mailto:bremen@ipho.info" class="external external-link">bremen@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Hamburg
+OStR Carsten Reich
+Gymnasium Heidberg
+Fritz-Schumacher-Allee 200
+22417 Hamburg
+<a href="mailto:hamburg@ipho.info" class="external external-link">hamburg@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Hessen
+StR Jörg Steiper
+Albert-Schweitzer-Schule
+Schülerforschungszentrum Nordhessen
+Kölnische Str. 89
+34119 Kassel
+<a href="mailto:hessen@ipho.info" class="external external-link">hessen@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Mecklenburg-Vorpommern
+PD Dr. Heidi Reinholz
+Universität Rostock
+Institut für Physik
+Universitätsplatz 3
+18051 Rostock
+<a href="mailto:mecklenburg-vorpommern@ipho.info" class="external external-link">mecklenburg-vorpommern@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Niedersachsen
+OStR Dirk Brockmann-Behnsen
+Krausenstraße 39
+30171 Hannover
+und Prof. Dr. Gunnar Friege
+IDMP Universität Hannover
+Welfengarten 1
+30167 Hannover
+<a href="mailto:niedersachsen@ipho.info" class="external external-link">niedersachsen@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+NRW Arnsberg
+LRSD Thomas Daub
+Bezirksregierung Arnsberg
+Laurentiusstraße 1
+59821 Arnsberg
+<a href="mailto:nrw-arnsberg@ipho.info" class="external external-link">nrw-arnsberg@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+NRW Detmold
+StD Peter Goldkuhle und
+StD Stefan Blumenthal
+Bezirksregierung Detmold
+Fachberatung Physik
+Leopoldstraße 13-15
+32756 Detmold
+<a href="mailto:nrw-detmold@ipho.info" class="external external-link">nrw-detmold@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+NRW Düsseldorf
+LRSD Norbert Stirba
+Bezirksregierung Düsseldorf
+Am Bonneshof 35
+40474 Düsseldorf
+<a href="mailto:nrw-duesseldorf@ipho.info" class="external external-link">nrw-duesseldorf@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+NRW Köln
+StD Dieter Stauder
+Zentrum für schulpraktische Lehrerausbildung Bonn
+Godesberger Allee 136
+53175 Bonn
+<a href="mailto:nrw-koeln@ipho.info" class="external external-link">nrw-koeln@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+NRW Münster
+LRSD Klaus Dingemann und
+Reinhard Beer
+Bezirksregierung Münster
+Albrecht-Thaer-Str. 9
+48147 Münster
+<a href="mailto:nrw-muenster@ipho.info" class="external external-link">nrw-muenster@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Rheinland-Pfalz
+OStR Christoph Holtwiesche
+Rabanus-Maurus-Gymnasium
+117er Ehrenhof 2
+55118 Mainz
+<a href="mailto:rheinland-pfalz@ipho.info" class="external external-link">rheinland-pfalz@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Saarland
+Dr. Doris Simon
+Theodor-Heuss-Gymnasium
+Quierschieder Weg 4
+66280 Sulzbach
+<a href="mailto:saarland@ipho.info" class="external external-link">saarland@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Sachsen
+Joachim Brucherseifer
+Wilhelm-Ostwald-Gymnasium
+Willi-Bredel-Str. 15
+04279 Leipzig
+<a href="mailto:sachsen@ipho.info" class="external external-link">sachsen@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Sachsen-Anhalt
+Lutz Bothendorf
+Werner-von-Siemens Gymnasium
+Stendaler Str. 10
+39106 Magdeburg
+<a href="mailto:sachsen-anhalt@ipho.info" class="external external-link">sachsen-anhalt@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Schleswig-Holstein
+OStR Stefan Burzin
+Werner-Heisenberg-Gymnasium
+Rosenstraße 41
+25746 Heide
+<a href="mailto:schleswig-holstein@ipho.info" class="external external-link">schleswig-holstein@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Thüringen
+Bernd Schade
+Carl-Zeiss-Gymnasium
+Spezialschule mit
+math.-naturw.-techn. Richtung
+Erich-Kuithan-Str. 7
+07743 Jena
+<a href="mailto:thueringen@ipho.info" class="external external-link">thueringen@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Addresses of the state representatives
+The front shows a photograph of burning steel wool by Lucas-Raphael Müller, a
+participant in the selection competition for the IPhO 2013. Clearly visible are the approximately
+parabolic flight paths of the sparks.
+Have you taken great photos yourself that have something to do with physics? Then send us
+your picture with a short explanation to <a href="mailto:info@ipho.info" class="external external-link">info@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>. For the best pictures there is a
+prize and the chance that the picture will be printed on one of the next IPhO posters.
+Information on the four selection rounds for the 45th IPhO 2014</p>
+
+<p><img src="../_attachments/45_ipho_2014_1rd_handzettel_web/45_ipho_2014_1rd_handzettel_web_p3_f3.png" alt width="auto" height="auto"/>
+<em>sensore airbag: circuito con condensatore e molle</em></p>
+
+
+<p><img src="../_attachments/45_ipho_2014_1rd_handzettel_web/45_ipho_2014_1rd_handzettel_web_p3_f4.png" alt width="auto" height="auto"/>
+<em>cilindro appeso a parete con angolo e forze</em></p>
+
+<p><strong>Topic:</strong> <a href="../topics/circuits" class="internal internal-link" data-slug="topics/circuits">Circuits</a>
+<strong>Metodi:</strong> <a href="../methods/physical-modeling-(metodo)" class="internal internal-link alias" data-slug="methods/physical-modeling-(metodo)">Physical Modeling</a>, <a href="../methods/kirchhoff's-laws-(metodo)" class="internal internal-link alias" data-slug="methods/kirchhoff's-laws-(metodo)">Kirchhoff’s Laws</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../objects/resistor-(object)" class="internal internal-link alias" data-slug="objects/resistor-(object)">Resistor</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1zH1cZd9q0ws3fZIODZ3wX6DO8FWbCcIu/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="it"></div>
+<p>Problema 3 (15 punti)
+Un capelli caldi
+Le ragazze americane Sofia e Grace scambiano esperienze di viaggio: “Il mese scorso, durante il mio viaggio a Parigi, il mio asciugatore di capelli si è bruciato”, riporta Grace. Sofia pensa
+che questo è stato probabilmente dovuto alla maggiore tensione di corrente europea
+di 230 V rispetto alla volta di
+120 V, come in America, e decide di prendere precauzioni per il suo arrivo
+viaggio in Europa. She fits a series resistor between
+il punto di accesso e il secchiatore, così che a casa il secchiatore di capelli prende solo
+metà della sua potenza. Non prima che arrivasse in Europa
+…
+State how the story with the hairdryer is likely to continue
+e giustificare questo fisicamente.
+Problema minore (10 punti)
+Rondo 1
+Quando? Registration is open from
+Aprile 2013. I termini di presentazione sono:
+in the summer and can be found on the IPhO
+sito web.</p>
+<ul>
+<li>Chi? Studianti interessati che, nel
+2013/2014 anno scolastico, frequentare una educazione generale
+scuola tedesca e
+sono nati dopo il 30 giugno 1994.</li>
+<li>Dove? I problemi sono risolti come</li>
+<li>I compiti. Tu metti il tuo lavoro a
+il tuo insegnante di soggetto</li>
+<li>La correzione.
+Come? Quattro problemi
+da tutti gli aspetti della fisica sono da risolvere. Il
+soluzioni possono essere scritte a mano o
+su un computer
+e dovrebbe essere comprensibile ma non troppo lungo.
+I libri di testo possono essere utilizzati purché le fonti siano citate. Formulare che appaiono nel standard
+I libri di testo non hanno bisogno di essere
+derivati. Solo
+Il lavoro individuale è permesso. Qualsiasi persona che, nel
+2013/14 anno scolastico, non è ancora raggiunto
+il livello di grado second-to-last
+Can earn a bonus of points through the additional</li>
+<li>Il problema junior.
+Cosa puoi vincere?
+I partecipanti ricevono un certificato di partecipazione o un diploma.
+Rondo 2
+Quando? Settembre a ottobre 2013.</li>
+<li>Chi? I problemi sono pubblicati alla fine di
+Agosto sul sito IPhO
+e inviato a tutti i vincitori del primo round.
+Successful candidates from middle-school physics competitions or
+Gioventù ricerca può quindi</li>
+<li>Prendi parte.</li>
+<li>Dove? Tu risolvi i problemi di
+Home and send your work (a casa e mandare il lavoro)
+per correzione, non corretto, per il vostro stato
+rappresentativo entro il 30 ottobre</li>
+</ul>
+<ol start="2013">
+<li>
+<h1 id="e--più-tardi">E ’ più tardi<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#e--più-tardi" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+</li>
+</ol>
+<p>Reviewed once again at the IPN.
+Come? I problemi di fisica teorica e sperimentale devono essere risolti. Questi sono
+più esigente di quanto non sia stato il primo</p>
+<ul>
+<li>Rondo. Altrimenti lo stesso
+Le regole si applicano.
+Cosa puoi vincere?
+Tutti i partecipanti ricevono un
+diploma con una scheda di valutazione. Il
+circa 50 Best sono invitati al terzo</li>
+<li>Rondo.
+I rappresentanti statali coordinano il corso dei primi due round negli singoli stati federali.
+Sono le vostre persone di contatto fino al terzo round.
+Round 3
+Quando? 1 - 7 febbraio 2014.</li>
+<li>Chi? Il 50° migliore del secondo round.</li>
+<li>Dove? Il terzo round si svolge come un seminario di una settimana presso la DLR_School_</li>
+<li>Lavoratore di Gottingen.
+Come? Il compito ora è lavorare su due
+I test teorici e i due esperimenti senza riferimento alla letteratura.
+Nel pomeriggio ci sono seminari e escursioni.
+Cosa puoi vincere?
+Tutti i partecipanti ricevono,
+In aggiunta a un book voucher e
+a subscription, a diploma
+con una scheda di valutazione.
+Young talents are offered the
+l’opportunità di partecipare alla
+Olimpiada europea della scienza
+(EUSO), una competizione di team scientifico.
+Round 4
+Quando? Espected 22-27 aprile 2014.</li>
+<li>Chi? Il 15° migliore del terzo round.</li>
+<li>Dove? Per il quarto round
+I partecipanti sono invitati a una settimana
+Centro di ricerca.
+Come? Qui gli esami teorici e sperimentali sono di nuovo sul programma. To
+preparare l’IPhO,
+seminari di problemi
+sono erodi
+Le domande di cui trattasi sono specificamente orientate a domande tipiche di IPhO.
+Cosa puoi vincere?
+I cinque più riusciti non solo
+Ma con questo round, passate anche attraverso il processo di selezione.
+per la Fondazione per gli studi della lingua tedesca
+Popolare. Per gli altri ci sono,
+oltre a un premio in contanti di 500
+Euro, cioè viaggi e stage di lingua. Inoltre, il tedesco
+Società fisica premi
+di cui al capitolo
+Student Prize to the team members.
+Baden-Württemberg
+OStR Fabian Bühler
+Centro di ricerca per studenti
+Sud-Württemberg</li>
+<li>Gutenbergstr. - Cosa? 18
+88348 Bad Saulgau
+<a href="mailto:baden-wuerttemberg@ipho.info" class="external external-link">baden-wuerttemberg@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Baviera
+StD Richard Reindl
+La scuola superiore di Werdenfels
+Strada meteorologica 30
+82467 Chiese di Partenza di Garmisch
+<a href="mailto:bayern@ipho.info" class="external external-link">bayern@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Berlino</li>
+<li>Dott. Ingo Wilken
+Scuola di scuola superiore
+Rudower Str. 184
+12351 Berlino
+<a href="mailto:berlin@ipho.info" class="external external-link">berlin@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Brandenburg
+Fagioli di legno
+Carl Friedrich-Gauß-Gymnasium
+Str. Friedrich-Ebert 52
+15234 Francoforte (Oder)
+<a href="mailto:Brandenburg@ipho.info" class="external external-link">Brandenburg@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Bremeno
+OStR Peter Weinhold
+Lloyd’s High School
+Strada Grazer . 61
+27568 Bremerhaven
+<a href="mailto:Bremen@ipho.info" class="external external-link">Bremen@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+L’Agenzia europea
+OStR Carsten Reich
+Liceo Heidberg
+Fritz-Schumacher Avenue 200
+22417 Amburgo
+<a href="mailto:hamburg@ipho.info" class="external external-link">hamburg@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Hesse
+StR Jörg Steiper
+Scuola Albert-Schweitzer
+Centro di ricerca per studenti di Nordhessen
+Str. Cologne 89
+34119 Casella
+<a href="mailto:hessen@ipho.info" class="external external-link">hessen@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Mecklenburg-Vorpommern
+PD Dr. Heidi legno di legno
+Università di Rostock
+Istituzione di fisica
+Piazza universitaria 3
+18051 Rostock
+<a href="mailto:Mecklenburg-vorpommern@ipho.info" class="external external-link">Mecklenburg-vorpommern@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+La Germania
+OStR Dirk Brockmann-Behnsen
+Cammino di croce
+30171 Hannover
+e il Prof. Dr. Gunnari Friege
+IDMP Università di Hannover
+Giardini balenici 1
+30167 Hannover
+<a href="mailto:niedersachsen@ipho.info" class="external external-link">niedersachsen@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+R.N.R. Arnsberg
+LRSD Thomas Daub
+Regione di Arnsberg
+Laurentiusstraße 1
+59821 Arnsberg
+<a href="mailto:nrw-arnsberg@ipho.info" class="external external-link">nrw-arnsberg@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+NRW Detmold
+StD Peter Goldschule e
+StD Stefan Blumenthal
+Regione Detmold
+Consulenza fisica
+Via Leopold 13-15
+32756 Detmold
+<a href="mailto:nrw-detmold@ipho.info" class="external external-link">nrw-detmold@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+NRW Düsseldorf
+LRSD Norbert Stirba
+Regione di Düsseldorf
+Al Bonneshof 35
+40474 Düsseldorf
+<a href="mailto:nrw-duesseldorf@ipho.info" class="external external-link">nrw-duesseldorf@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Cologne, Repubblica federale di Germania
+StD Dieter Stauder
+Centro di formazione degli insegnanti scolastici Bonn
+Godesberger Allee 136
+53175 Bonn
+<a href="mailto:nrw-koeln@ipho.info" class="external external-link">nrw-koeln@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Rinascimento
+LRSD Klaus Dingemann e
+Reinhard Beer
+Municipalità di Munster
+Albrecht-Thaer Str. 9
+48147 campioni
+<a href="mailto:nrw-muenster@ipho.info" class="external external-link">nrw-muenster@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Rinasco-Pfalz
+OStR Christoph Holtwiesche
+Rabanus-Maurus
+117° Codice di onore 2
+55118 Maggiore
+<a href="mailto:Rheinland-pfalz@ipho.info" class="external external-link">Rheinland-pfalz@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Saarland
+Dr. Doris Simon
+La scuola di Teodor-Heuss
+Via di chieri 4
+66280 Sulzbach
+<a href="mailto:saarland@ipho.info" class="external external-link">saarland@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Sassonia
+Gioias, il capo della polizia
+La scuola superiore di Wilhelm-Ostwald
+Strada Willi-Bredel. 15
+04279 Leipzig
+<a href="mailto:Sachsen@ipho.info" class="external external-link">Sachsen@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Sassonia-Annault
+Lutz Bothendorf
+La scuola superiore di Werner von Siemens
+Strada Stendal . 10
+39106 Magdeburgo
+<a href="mailto:Sachsen-anhalt@ipho.info" class="external external-link">Sachsen-anhalt@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Schleswig-Holstein
+OStR Stefan Burzin
+La scuola superiore di Werner-Heisenberg
+Via Rosa 41
+25746 Pagano
+<a href="mailto:Schleswig-holstein@ipho.info" class="external external-link">Schleswig-holstein@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Turin
+Bernd Danno
+Carl Zeiss High School
+Scuola speciale con</li>
+<li>La matematica e la tecnologia. Direzione
+Strada Erich-Kuithan. 7
+07743 Jena
+<a href="mailto:thueringen@ipho.info" class="external external-link">thueringen@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>
+Addresses of the State Representatives
+The Front mostra una fotografia di lana di acciaio in fiamme di Lucas-Raphael Müller, un
+partecipante al concorso di selezione per l’IPhO 2013. Clearly visible are the approximately
+I percorsi di volo parabolici delle scintille.
+Hai fatto grandi foto da te che hanno qualcosa a che fare con la fisica? Allora mandateci
+la tua foto con una breve spiegazione a <a href="mailto:info@ipho.info" class="external external-link">info@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>. Per le migliori immagini c’è un
+premio e la possibilità che la foto venga stampata su uno dei prossimi poster dell’IPhO.
+Informazioni sui quattro round di selezione per il 45° IPhO 2014</li>
+</ul>
+
+<p><img src="../_attachments/45_ipho_2014_1rd_handzettel_web/45_ipho_2014_1rd_handzettel_web_p3_f3.png" alt width="auto" height="auto"/></p>
+<ul>
+<li>sensore airbag: circuito con condensatore e molle *</li>
+</ul>
+
+
+<p><img src="../_attachments/45_ipho_2014_1rd_handzettel_web/45_ipho_2014_1rd_handzettel_web_p3_f4.png" alt width="auto" height="auto"/>
+<em>cilindro appeso a parete con angolo e forze</em></p>
+
+<p><strong>Topic:</strong> <a href="../topics/circuits" class="internal internal-link" data-slug="topics/circuits">Circuits</a>
+<strong>Metodi:</strong> <a href="../methods/physical-modeling-(metodo)" class="internal internal-link alias" data-slug="methods/physical-modeling-(metodo)">Physical Modeling</a>, <a href="../methods/kirchhoff's-laws-(metodo)" class="internal internal-link alias" data-slug="methods/kirchhoff's-laws-(metodo)">Kirchhoff’s Laws</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../objects/resistor-(object)" class="internal internal-link alias" data-slug="objects/resistor-(object)">Resistor</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1zH1cZd9q0ws3fZIODZ3wX6DO8FWbCcIu/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>Problem 3 (15 points)
+A hot hairstyle
+The American girls Sofia and Grace exchange travel experiences: “On my trip to Paris last month, my hairdryer burned out”, Grace reports. Sofia thinks
+That this was probably due to the higher European mains voltage
+of 230 V compared to the voltage of
+120 V usual in the USA, and decides to take precautions for her upcoming
+I’m going to Europe. She fits a series resistor between
+The socket and the hairdryer, so that at home the hairdryer takes up only
+half of its power. No sooner had she arrived in Europe
+…
+State how the story with the hairdryer is likely to continue
+And justify this physically.
+The first is the ‘Junior Problem’ (10 points).
+Round 1
+When? Registration is open from
+The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation. Submission deadlines are
+in the summer and can be found on the IPhO
+The website.
+Who? Interested students who, in the
+2013/2014 school year, attend a general education
+German school and
+were born after 30.06.1994.
+Where? The problems are solved as
+I’m going to do my homework. You hand in your work to
+your subject teacher for
+correction.
+How did you do that? Four problems
+from all areas of physics are to be solved. The
+solutions may be written by hand or
+on a computer
+and should be comprehensible but not unnecessarily long.
+Textbooks may be used provided the sources are cited. Forms that appear in the standard
+textbooks do not need to be
+derived. Only
+Individual work is allowed. Anyone who, in the
+2013/14 school year, has not yet reached
+the second-to-last grade level
+can earn a bonus of points through the additional
+I’m not sure.
+What can you win?
+Participants receive a certificate of participation or a diploma.
+Round two
+When? September to October 2013.
+Who? The problems are published at the end of
+August on the IPhO website
+and sent to all prize winners of the first round.
+Successful candidates from middle school physics competitions or
+Youth Research may therefore
+Take part.
+Where? You again solve the problems at
+Home and send your work
+For correction, uncorrected, to your state
+representative by 30 October
+2013. It will be later
+reviewed once more at the IPN.
+How did you do that? Theoretical and experimental physics problems are to be worked on. These are
+More demanding than in the first
+Round. Otherwise the same
+The rules apply.
+What can you win?
+All participants receive a
+diploma with an assessment sheet. The
+roughly 50 best are invited to the third
+Round.
+The state representatives coordinate the running of the first two rounds in the individual federal states.
+They’re your contact persons up to the third round.
+Round three
+When? 1 to 7 February 2014.
+Who? The roughly 50 best of the second round.
+Where? The third round takes place as a one-week seminar at the DLR_School_
+The Commission has already taken a number of steps.
+How did you do that? The task now is to work on two
+Theoretical and two experimental exams without reference literature.
+In the afternoons there are seminars and excursions.
+What can you win?
+All participants receive,
+In addition to a book voucher and
+A subscription, a diploma
+with an assessment sheet.
+Young talents are offered the
+The Commission has also adopted a number of proposals for the
+The European Science Olympiad
+(EUSO), a science team competition.
+Round four
+When? Expected 22-27 April 2014.
+Who? The 15 best of the third round.
+Where? For the fourth round the
+Participants are invited for a week to a
+The research centre.
+How did you do that? Here theoretical and experimental exams are again on the programme. To
+prepare for the IPhO,
+Problem seminars
+Are you a hero?
+The Commission has also adopted a number of proposals for the implementation of the programme.
+What can you win?
+The five most successful not only
+make up the Olympic team, but with this round also go through the selection process
+for the German Research Foundation
+People. For the others there are,
+Besides a cash prize of 500
+Euro, meaning language trips and internships. In addition, the German
+Physical Society awards
+its
+Student prize to the team members.
+The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Student research centre
+The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+I’m going to go to Gutenberg. 18
+88348 Bad Saulgau
+The Commission has also adopted a proposal for a regulation on the protection of the environment.
+Bavaria
+The Commission shall adopt the following measures:
+The school is located in the town of Werdenfels.
+The following is the list of the following:
+82467 Garmisch parish churches
+The Commission has also adopted a proposal for a regulation on the protection of the environment.
+The European Union
+I ‘m going to be a doctor . Ingo Wilken
+Secondary school
+The following is the list of the buildings and their contents: 184
+12351 Berlin
+The Commission has decided to extend the period of validity of the application.
+The Commission shall adopt implementing acts.
+Other beans
+Carl Friedrich-Gauß secondary school
+The Commission shall adopt the following implementing acts: 52
+15234 Frankfurt am Main (Oder)
+The Commission has also adopted a proposal for a regulation on the protection of the environment.
+The Commission shall adopt the following measures:
+The Commission has also adopted a proposal for a Regulation (EC) No 1299/2008.
+Lloyd High School
+Grazer Street . 61
+27568 Bremerhaven
+The Commission has decided to extend the period of validity of the proposal.
+The Commission
+The Commission has also adopted a proposal for a directive on the protection of workers’ rights.
+High school Heidberg
+Fritz Schumacher Avenue 200
+22417 Hamburg
+The Commission has decided to extend the period of validity of the aid.
+Hesse
+The Commission shall adopt the following measures:
+The Albert Schweitzer School
+The student research centre in North Hesse
+Cologne Street 89
+34119 Kassel
+The Commission has decided to extend the period of validity of the application.
+Mecklenburg and the former Pomerania
+PD Dr. Heidi wood
+The University of Rostock
+Institute of physics
+University Square 3
+18051 Rostock
+The Commission has also adopted a proposal for a regulation on the protection of the environment.
+The Netherlands
+The Commission has also adopted a proposal for a regulation on the protection of the environment.
+Crossroads 39
+30171 Hanover
+and Prof. Dr. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+The following is a list of the institutions of the European Union:
+Whaling gardens 1
+30167 Hanover
+The Commission has decided to extend the period of validity of the aid.
+The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+The district government of Arnsberg
+The following is the list of the main routes:
+59821 Arnsberg
+The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+NRW Detmold
+The Commission has already adopted a proposal for a directive on the
+The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Local government Detmold
+Specialist advice physics
+Leopold Street 13 to 15
+32756 Detmold
+The Commission has also adopted a number of measures to ensure that the Commission is able to take appropriate measures to address the situation in the Union.
+The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+Municipality of Düsseldorf
+At the Bonneshof 35
+40474 Dusseldorf
+The Commission has also adopted a proposal for a regulation on the protection of the environment.
+Cologne, N.R.
+The Commission shall adopt the following measures:
+The Centre for Teacher Training in Schools Bonn
+The first is the “Godeesberger Allee”
+53175 Bonn
+The Commission has also adopted a proposal for a regulation on the protection of the environment.
+The following is the list of the countries of the European Union:
+The Commission has also adopted a proposal for a directive on the protection of workers’ rights.
+Reinhard Beer
+Municipality of Munster
+The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation. 9
+48147 samples
+The Commission has also adopted a proposal for a regulation on the protection of the environment.
+The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+The Commission has also adopted a proposal for a Regulation (EC) No 1299/2006.
+The following is the list of the schools in the region:
+117th Court of Honor 2
+55118 Mainz
+The Commission has also adopted a number of proposals for the establishment of a European Parliament and Council meeting on the subject.
+Saarland
+Dr. I ‘m not sure .
+Theodor Heuss High School
+The road to the sea
+66280 Sulzbach
+The Commission has also adopted a proposal for a regulation on the protection of the environment.
+The Commission
+The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
+The following is a list of the main schools in the Netherlands:
+The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation. 15
+The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1224/2009.
+The Commission has also adopted a proposal for a regulation on the protection of the environment.
+The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Werner von Siemens High School
+Stendal Street . 10
+39106 Magdeburg
+The Commission has also adopted a proposal for a regulation on the protection of the environment.
+The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+The Commission has also adopted a proposal for a Regulation (EC) No 1299/2006.
+Werner Heisenberg High School
+The road to Rosetta 41
+25746 Heathen
+The Commission has also adopted a proposal for a regulation on the protection of the environment.
+The following is the list of the Member States:
+The Commission shall adopt the following measures:
+Carl Zeiss High School
+Special school with
+The first is the mathematical and natural sciences. Direction
+The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation. 7
+The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+The Commission has decided to extend the period of validity of the information provided.
+Addresses of the State representatives
+The front shows a photograph of burning steel wool by Lucas-Raphael Müller, a
+Participant in the selection competition for the IPhO 2013. Clearly visible are the approximately
+Parabolic flight paths of the sparks.
+Have you taken great photos yourself that have something to do with physics? Then send us
+your picture with a short explanation to <a href="mailto:info@ipho.info" class="external external-link">info@ipho.info<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>. For the best pictures there is a
+prize and the chance that the picture will be printed on one of the next IPhO posters.
+Information on the four selection rounds for the 45th IPhO 2014</p>
+
+<p><img src="../_attachments/45_ipho_2014_1rd_handzettel_web/45_ipho_2014_1rd_handzettel_web_p3_f3.png" alt width="auto" height="auto"/>
+The manufacturer shall ensure that the manufacturer is able to provide the necessary information and that the manufacturer is able to provide the necessary information and that the manufacturer is able to provide the necessary information and that the manufacturer is able to provide the necessary information and that the manufacturer is able to provide the necessary information and that the manufacturer is able to provide the necessary information and that the manufacturer is able to provide the necessary information and that the manufacturer is able to provide the necessary information and that the manufacturer is able to provide the necessary information and that the manufacturer is able to provide the necessary information and that the manufacturer is able to provide the necessary information and that the manufacturer is able to provide the necessary information and the manufacturer is able to provide the necessary information and the necessary information.</p>
+
+
+<p><img src="../_attachments/45_ipho_2014_1rd_handzettel_web/45_ipho_2014_1rd_handzettel_web_p3_f4.png" alt width="auto" height="auto"/>
+The following table shows the results of the tests:</p>
+
+<p><strong>Topic:</strong> <a href="../topics/circuits" class="internal internal-link" data-slug="topics/circuits">Circuits</a>
+<strong>Metodi:</strong> <a href="../methods/physical-modeling-(metodo)" class="internal internal-link alias" data-slug="methods/physical-modeling-(metodo)">Physical Modeling</a>, <a href="../methods/kirchhoff's-laws-(metodo)" class="internal internal-link alias" data-slug="methods/kirchhoff's-laws-(metodo)">Kirchhoff’s Laws</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../objects/resistor-(object)" class="internal internal-link alias" data-slug="objects/resistor-(object)">Resistor</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1zH1cZd9q0ws3fZIODZ3wX6DO8FWbCcIu/view" class="external external-link">Testo (PDF) — p.3<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/resistor-(object)" class="internal">Resistor</a></li><li><a href="../prove/45_ipho_2014_1rd_handzettel_web" class="internal">IPhO 2014</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

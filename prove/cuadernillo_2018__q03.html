@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr"><head><title>Argent 2018 Locale — Quesito 3</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&amp;family=Figtree:ital,wght@0,400;0,600;1,400;1,600&amp;family=Spline Sans Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Raccolta Gare di Fisica"/><meta property="og:title" content="Argent 2018 Locale — Quesito 3"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Argent 2018 Locale — Quesito 3"/><meta name="twitter:description" content="Agujeros Negros y Enanas Blancas (Nivel 1) Problema 3 Agujeros Negros y Enanas Blancas PARTE A."/><meta property="og:description" content="Agujeros Negros y Enanas Blancas (Nivel 1) Problema 3 Agujeros Negros y Enanas Blancas PARTE A."/><meta property="og:image:alt" content="Agujeros Negros y Enanas Blancas (Nivel 1) Problema 3 Agujeros Negros y Enanas Blancas PARTE A."/><meta property="og:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:url" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta name="twitter:image" content="https://gborghi.github.io/raccolta-gare-fisica/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="gborghi.github.io/raccolta-gare-fisica"/><meta property="og:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2018__q03"/><meta property="twitter:url" content="https://gborghi.github.io/raccolta-gare-fisica/prove/cuadernillo_2018__q03"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Agujeros Negros y Enanas Blancas (Nivel 1) Problema 3 Agujeros Negros y Enanas Blancas PARTE A."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.clipboard-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  right: 0;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.clipboard-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.clipboard-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.clipboard-button:focus {
+  outline: 0;
+}
+
+pre:hover > .clipboard-button {
+  opacity: 1;
+  transition: 0.2s;
+}</style><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script></head><body data-slug="prove/cuadernillo_2018__q03" data-basepath="/raccolta-gare-fisica"><nav class="navbar"><div class="navbar-inner"><a class="navbar-brand" href="/raccolta-gare-fisica/"><img class="navbar-logo" src="/raccolta-gare-fisica/static/logo.svg" alt aria-hidden="true" width="40" height="40"/>Raccolta Gare di Fisica</a><div class="navbar-links"><a href="/raccolta-gare-fisica/clusters/">Aree</a><a href="/raccolta-gare-fisica/topics/">Argomenti</a><a href="/raccolta-gare-fisica/methods/">Metodi</a><a href="/raccolta-gare-fisica/skills/">Abilità</a><a href="/raccolta-gare-fisica/objects/">Objects</a><a href="/raccolta-gare-fisica/prove/">Prove</a><a href="/raccolta-gare-fisica/cerca">Cerca</a></div></div></nav><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Raccolta Gare di Fisica</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Cerca" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Cerca</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Cerca qualcosa" placeholder="Cerca qualcosa"/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Tema scuro"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Tema scuro"><title>Tema scuro</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Tema chiaro"><title>Tema chiaro</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Modalità lettura"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Modalità lettura"><title>Modalità lettura</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot; &amp;&amp; node.slugSegment !== \&quot;Svolgimenti\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-9325" aria-label="Esplora"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Esplora</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-9325" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../prove/">prove</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Argent 2018 Locale — Quesito 3</a></div></nav><h1 class="article-title">Argent 2018 Locale — Quesito 3</h1><details class="note-properties metadata-container" open data-collapsed="false"><summary class="note-properties-header"><span class="note-properties-title">Properties</span><span class="note-properties-count">1</span></summary><table class="note-properties-table"><tbody><tr class="note-properties-row metadata-property"><td class="note-properties-key metadata-property-key">tags</td><td class="note-properties-value metadata-property-value"><span class="note-properties-tags"><a href="../tags/kg/prova" class="internal internal-link tag-link">kg/prova</a><span class="note-properties-separator">, </span><a href="../tags/paese/argentina" class="internal internal-link tag-link">paese/argentina</a><span class="note-properties-separator">, </span><a href="../tags/comp/argent" class="internal internal-link tag-link">comp/argent</a><span class="note-properties-separator">, </span><a href="../tags/cluster/gravitazione-e-astrofisica" class="internal internal-link tag-link">cluster/gravitazione-e-astrofisica</a><span class="note-properties-separator">, </span><a href="../tags/topic/astrophysics" class="internal internal-link tag-link">topic/astrophysics</a><span class="note-properties-separator">, </span><a href="../tags/argomento/gravitazione-e-astrofisica" class="internal internal-link tag-link">argomento/gravitazione-e-astrofisica</a><span class="note-properties-separator">, </span><a href="../tags/difficolta/4" class="internal internal-link tag-link">difficolta/4</a><span class="note-properties-separator">, </span><a href="../tags/multidisciplina/mono" class="internal internal-link tag-link">multidisciplina/mono</a><span class="note-properties-separator">, </span><a href="../tags/object/star" class="internal internal-link tag-link">object/star</a><span class="note-properties-separator">, </span><a href="../tags/object/black-hole" class="internal internal-link tag-link">object/black-hole</a><span class="note-properties-separator">, </span><a href="../tags/object/electron" class="internal internal-link tag-link">object/electron</a></span></td></tr></tbody></table></details><p show-comma="true" class="content-meta"><time datetime="2026-07-02T05:28:01.815Z">02 lug 2026</time><span>23 minuti</span></p><ul class="tags"><li><a href="../tags/kg/prova" class="internal tag-link">kg/prova</a></li><li><a href="../tags/paese/argentina" class="internal tag-link">paese/argentina</a></li><li><a href="../tags/comp/argent" class="internal tag-link">comp/argent</a></li><li><a href="../tags/cluster/gravitazione-e-astrofisica" class="internal tag-link">cluster/gravitazione-e-astrofisica</a></li><li><a href="../tags/topic/astrophysics" class="internal tag-link">topic/astrophysics</a></li><li><a href="../tags/argomento/gravitazione-e-astrofisica" class="internal tag-link">argomento/gravitazione-e-astrofisica</a></li><li><a href="../tags/difficolta/4" class="internal tag-link">difficolta/4</a></li><li><a href="../tags/multidisciplina/mono" class="internal tag-link">multidisciplina/mono</a></li><li><a href="../tags/object/star" class="internal tag-link">object/star</a></li><li><a href="../tags/object/black-hole" class="internal tag-link">object/black-hole</a></li><li><a href="../tags/object/electron" class="internal tag-link">object/electron</a></li></ul></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><div class="qlang-switch" data-default="es"></div>
+<p><strong>Agujeros Negros y Enanas Blancas (Nivel 1)</strong></p>
+<p>Problema 3
+Agujeros Negros y Enanas Blancas</p>
+<p>PARTE A.
+Agujeros negros
+Los Agujeros Negros, una de las predicciones más fascinantes de la
+teoría de la Relatividad General de Einstein, son objetos
+extremadamente densos, tanto, que si algo cae al agujero: ya no
+puede escapar, ni siquiera la luz!!!
+Están caracterizados por un horizonte de eventos (el ”borde” del</p>
+<p>8 - OAF 2018
+agujero negro) que delimita la zona desde la cual no se puede salir. Afuera del horizonte
+de eventos, el campo gravitatorio es similar al producido por un objeto material ordinario.</p>
+<p>El objetivo, de esta parte del problema, es encontrar la relación entre la masa y el
+radio de un agujero negro. Para lograrlo, combinaremos ideas de física Newtoniana y
+Relatividad y, si bien los resultados serán estimativos, la relación que obtendremos de
+esta forma es idéntica a la predicha por la Teoría de la Relatividad General.</p>
+<p>Los conceptos relevantes a tener en cuenta son:</p>
+<p>• Velocidad de escape: es la mínima velocidad con la que se tiene que lanzar
+una partícula desde la superficie de un objeto, para que se aleje infinitamente del
+cuerpo (es decir, la distancia r al centro del objeto se hace infinita: 𝑟→∞).</p>
+<p>• Postulado de la Teoría de la Relatividad: nada puede moverse más rápido que
+la luz.</p>
+<p>A1. Calcule la velocidad de escape 𝒗𝒆𝒔𝒄 desde un objeto esférico de masa 𝑴 y
+radio 𝑹.</p>
+<p>Ahora, buscaremos la relación que deben tener 𝑀 y 𝑅 para que este objeto represente a
+un agujero negro, es decir, para que ninguna partícula, ni siquiera la luz, pueda escapar
+desde su horizonte de eventos. Para esto puede ser conveniente pensar a la luz como
+compuesta por partículas que se mueven a velocidad 𝑐.</p>
+<p>A2. Suponiendo que podemos utilizar la expresión de 𝒗𝒆𝒔𝒄 (hallada en el item
+anterior) para sistemas relativistas, encuentre la cota superior más pequeña
+para el radio 𝑹 del horizonte de eventos de un agujero negro de masa 𝑴.</p>
+<p>Nota:</p>
+<ul>
+<li>Los sistemas relativistas son aquellos que involucran velocidades próximas a la
+de la luz y/o campos gravitatorios muy intensos.</li>
+<li>Una cota superior para una cantidad 𝑓 es un valor 𝑓𝑠𝑢𝑝 que es mayor o igual a 𝑓.</li>
+</ul>
+<p>PARTE B.
+Enanas blancas
+Las estrellas se mantienen en equilibrio hidrostático debido al balance entre la atracción
+gravitatoria (hacia adentro) y la presión térmica que resulta de los procesos nucleares
+(hacia afuera).</p>
+<p>Cuando el combustible nuclear se agota, la atracción gravitatoria domina y la estrella
+comienza a colapsar. Sin embargo, si la masa de la estrella es menor que cierto valor
+crítico, llamado Masa de Chandrasekhar, existe otro proceso, puramente cuántico, que
+es capaz de detener el colapso gravitatorio. Ese proceso se basa en el principio de
+exclusión de Pauli, que dice que no puede haber dos electrones en el mismo estado
+cuántico en una cierta región.
+Cuando la estrella se contrae, los electrones son forzados a ocupar estados de mayor
+energía, generando una presión (presión de degeneración) que balancea esta
+contracción si la masa de la estrella es menor que la Masa de Chandrasekhar; este
+sistema en equilibrio se conoce como Enana Blanca.
+Si la masa de la estrella es mayor que la Masa de Chandrasekhar, la presión de
+degeneración es insuficiente para detener el colapso y el estado final, mucho más denso,
+puede ser una estrella de neutrones o un agujero negro.</p>
+<p>OAF 2018 - 9
+El objetivo de esta parte del problema es estimar la energía cinética de los átomos
+que componen la enana blanca.</p>
+<p>Para simplificar las expresiones, puede despreciar los números como 2,3,5, π, etc. que
+aparezcan en la resolución de los items siguientes. NO desprecie los valores de las
+constantes físicas presentadas en la hoja de respuestas.</p>
+<p>Considere que una estrella es una bola de átomos de hidrógeno (constituidos por un
+electrón y un protón), de densidad uniforme, masa 𝑀 y radio 𝑅.</p>
+<p>B1. Escriba el número de átomos por unidad de volumen, 𝒏, en términos de la
+masa total de la estrella 𝑴, el radio de la estrella 𝑹 y la masa del protón 𝒎𝒑.</p>
+<p>Nota:</p>
+<ul>
+<li>Tenga en cuenta que la masa 𝑚𝑒 de los electrones es mucho menor que la masa
+𝑚𝑝 de los protones (𝑚𝑒≪𝑚𝑝).</li>
+</ul>
+<p>B2. Encuentre la relación entre el número de átomos por unidad de volumen, 𝒏, y
+el número de electrones por unidad de volumen, 𝒏𝒆.</p>
+<p>Suponiendo que la energía cinética promedio de los átomos en la estrella es 𝐸𝑎𝑡,</p>
+<p>B3. Escriba la energía cinética 𝑬𝑲 del conjunto de todos los átomos de la
+estrella, en términos de 𝒏, 𝑬𝒂𝒕 y 𝑹.</p>
+<p>Para electrones ultra relativistas (con velocidades próximas a 𝑐) la energía promedio de
+los átomos se puede aproximar de la siguiente manera</p>
+<p>𝐸𝑎𝑡≈𝑝𝑒𝑐                                            (1)</p>
+<p>donde 𝑝𝑒 es el impulso lineal promedio de los electrones.</p>
+<p>Suponga que hay un electrón en cada volumen cúbico de lado 𝜆 donde</p>
+<p>𝜆=
+ħ
+𝑝𝑒                                                (2)</p>
+<p>B4. Escriba el impulso lineal 𝒑𝒆 en términos del número de electrones por unidad
+de volumen, 𝒏𝒆 y de ħ.</p>
+<p>B5. A partir de lo encontrado en los items anteriores, y usando la ecuación (1)
+escriba la energía cinética 𝑬𝑲 en términos de ħ, 𝒎𝒑, 𝑹 y 𝑴. Exprésela en la
+forma 𝑬𝑲=
+𝜷
+𝑹 e identifique el valor de 𝜷, independiente de 𝑹.</p>
+<p>Prueba Experimental - Nivel 1</p>
+<p>Flotabilidad de un cuerpo hueco</p>
+<p>Introducción
+Cuando a un cuerpo se lo sumerge en el seno de un líquido, si su densidad media es
+menor a la del líquido, flotará. Cualquier cuerpo que flota está sujeto a dos fuerzas
+verticales y opuestas: una es el peso del cuerpo 𝑃̅ que está dirigida hacia abajo y otra es
+el empuje 𝐸̅ (peso del líquido desalojado) dirigida hacia arriba.</p>
+<p>10 - OAF 2018
+Si se trata de un cuerpo rígido, el peso actúa en el centro de masa (CM) y el empuje en el
+centro de masa del volumen del líquido desalojado, conocido como centro de empuje
+(CE). 𝑃̅ y 𝐸̅ son siempre iguales en módulo y, si son colineales, el cuerpo permanecerá
+en posición vertical como se muestra en la figura 1.</p>
+<p>Figura 1</p>
+<p>Sin embargo, el cuerpo puede inclinarse por muchas causas exógenas (como viento, la
+acción de las olas, etc.) provocando que el centro de empuje se desplace a una nueva
+posición CE’ como se muestra en la figura 2a y 2b. Esto provoca que las fuerzas que
+actúan sobre el cuerpo generen un torque sobre el mismo.</p>
+<p>Figura 2a                                                                Figura 2b</p>
+<p>Si el punto Q, definido por la intersección del eje del cuerpo y la línea de acción del
+empuje, está por encima del CM (figura 2a), 𝑃̅ y 𝐸̅ producirán un momento en sentido
+antihorario que hará que el cuerpo retorne a la posición neutral o de equilibrio, de este
+modo el equilibrio del cuerpo es estable. Si Q está por debajo de CM (figura 2b), el
+cuerpo se vuelve inestable debido al momento de sentido horario generado por 𝑃̅ y 𝐸̅ y el
+equilibrio del cuerpo resulta inestable.
+Suponga que sumerge un cilindro hueco de aluminio de masa M y de sección uniforme A,
+en un líquido. Lo que se observa es que el mismo tiende a darse vuelta, indicando que el
+CM se encuentra debajo del punto Q (equilibrio inestable). Para bajar la posición del
+centro de masa hay que aumentar la masa del cilindro. Esto se logra, por ejemplo,
+agregando masas de peso uniforme m hasta lograr que el cilindro flote derecho como se
+muestra en la figura 3. En esta condición, el volumen sumergido 𝑉𝑠 verifica la ecuación:</p>
+<p>𝑀𝑡𝑔= 𝛿𝑙𝑖𝑞𝑉𝑠𝑔= 𝛿𝑙𝑖𝑞 A ℎ𝑠𝑔
+(1)</p>
+<p>OAF 2018 - 11
+donde 𝑀𝑡 es la masa total del cuerpo, 𝛿𝑙𝑖𝑞 es la
+densidad del líquido y 𝐴 es el área transversal. Si n
+es el número de masas agregadas, se cumple
+que:</p>
+<p>(𝑀+ 𝑛 𝑚)𝑔 =  𝛿𝑙𝑖𝑞 𝐴ℎ𝑠𝑔
+(2)
+De tal manera que:
+ℎ𝑠=
+1
+𝛿𝑙𝑖𝑞 𝐴(𝑀+ 𝑛 𝑚)                   (3)</p>
+<p>Objetivos</p>
+<ul>
+<li>Determinar experimentalmente el valor de la masa M del cilindro de aluminio y la
+masa m de una tuerca.</li>
+</ul>
+<p>Elementos disponibles</p>
+<ul>
+<li>55 tuercas de masa m</li>
+<li>1 recipiente con líquido sobre una base de madera.</li>
+<li>1 cilindro hueco de aluminio con una escala graduada en su exterior.</li>
+<li>1 cronómetro</li>
+<li>1 regla.</li>
+</ul>
+<p>Procedimiento</p>
+<ol>
+<li>Monte el dispositivo y determine el número mínimo no de tuercas que deben
+introducirse en el tubo de aluminio para que flote verticalmente. Tenga especial
+cuidado en que no entre líquido en el cilindro.</li>
+<li>A partir de ahí agregue tuercas en el interior del cilindro cuidadosamente y una
+vez alcanzado el equilibrio mida la profundidad de inmersión hs.</li>
+</ol>
+<p>Consignas</p>
+<ol>
+<li>Dé el valor de n0.</li>
+<li>Haga una tabla con los valores de hs y n.</li>
+<li>Grafique hs vs n.</li>
+<li>Ajuste los datos por una recta y determine el valor de la pendiente.</li>
+<li>Determine el valor de la ordenada al origen de dicha recta.</li>
+<li>Determine el valor de M</li>
+<li>Determine el valor de m.</li>
+</ol>
+<p>Dato: 𝛿𝑙𝑖𝑞= 1 𝑔/𝑐𝑚3</p>
+<p>Prueba Teórica - Nivel 2</p>
+<p><strong>Topic:</strong> <a href="../topics/astrophysics" class="internal internal-link" data-slug="topics/astrophysics">Astrophysics</a>, <a href="../topics/gravitation" class="internal internal-link" data-slug="topics/gravitation">Gravitation</a>
+<strong>Metodi:</strong> <a href="../methods/newton's-law-of-gravitation-(metodo)" class="internal internal-link alias" data-slug="methods/newton's-law-of-gravitation-(metodo)">Newton’s Law of Gravitation</a>, <a href="../methods/energy-conservation-method-(metodo)" class="internal internal-link alias" data-slug="methods/energy-conservation-method-(metodo)">Energy Conservation Method</a>, <a href="../methods/order-of-magnitude-estimation-(metodo)" class="internal internal-link alias" data-slug="methods/order-of-magnitude-estimation-(metodo)">Order-of-Magnitude Estimation</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../objects/star-(object)" class="internal internal-link alias" data-slug="objects/star-(object)">Star</a>, <a href="../objects/black-hole-(object)" class="internal internal-link alias" data-slug="objects/black-hole-(object)">Black Hole</a>, <a href="../objects/electron-(object)" class="internal internal-link alias" data-slug="objects/electron-(object)">Electron</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view" class="external external-link">Testo (PDF) — p.5<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="it"></div>
+<p>**Agenate nere e nani bianchi (livello 1) **</p>
+<p>Problema 3</p>
+<ul>
+<li>I buchi neri e le nana bianche.</li>
+</ul>
+<p>Parte A.</p>
+<ul>
+<li>I buchi neri.
+I buchi neri, una delle previsioni più affascinanti del mondo.
+La teoria della relatività generale di Einstein, sono oggetti.
+estremamente densi, tanto che se qualcosa cade nel buco: non più
+Non può scappare, nemmeno la luce!!!
+Sono caratterizzati da un orizzonte di eventi (il “borda” del</li>
+</ul>
+<p>8 - OAF 2018
+Il sistema di controllo del traffico di merci (TPS) è un sistema di controllo che limita l’area da cui non si può uscire. Fuori dall’orizzonte
+In questo caso, il campo gravitazionale è simile a quello prodotto da un oggetto materiale ordinario.</p>
+<p>L’obiettivo, in questa parte del problema, è trovare il rapporto tra massa e massa.
+radio di un buco nero. Per farlo, combineremo idee di fisica newtonica e
+Relatività e, sebbene i risultati siano stimativi, il rapporto che otterremo da
+Questa forma è identica a quella prevista dalla teoria della relatività generale.</p>
+<p>I concetti rilevanti da tenere in considerazione sono:</p>
+<p>• velocità di uscita: è la velocità minima con cui si deve lanciare
+una particella dalla superficie di un oggetto, per allontanarsi infinitamente da esso.
+corpo (cioè la distanza r dal centro dell’oggetto diventa infinita: r→∞).</p>
+<p>• Dipendente della teoria della relatività: nulla può muoversi più velocemente di
+la luce.</p>
+<p>A1. Calcola la velocità di scarico vesc da un oggetto sferico di massa M e
+radio R.</p>
+<p>Ora, cercheremo il rapporto che devono avere M e R per questo oggetto rappresentare
+un buco nero, cioè, in modo che nessuna particella, nemmeno la luce, possa sfuggire.
+dal suo orizzonte di eventi. Per questo può essere conveniente pensare alla luce come
+composto da particelle che si muovono a velocità c.</p>
+<p>A2. Supponiamo che possiamo usare l’espressione vesc (trovata nell’articolo
+Per i sistemi relativistici, si trova la quota superiore più piccola
+per il raggio R dell’orizzonte di eventi di un buco nero di massa M.</p>
+<p>Nota:</p>
+<ul>
+<li>I sistemi relativistici sono quelli che coinvolgono velocità vicine alla velocità di velocità.
+di luce e/o campi gravitazionali molto intensi.</li>
+<li>Un quota superiore per un quantitativo f è un valore fsup superiore o uguale a f.</li>
+</ul>
+<p>Parte B.
+Nani bianchi
+Le stelle sono tenute in equilibrio idrostatico a causa dell’equilibrio tra l’attrazione.
+gravità (in) e la pressione termica derivante dai processi nucleari
+(avanti).</p>
+<p>Quando il combustibile nucleare si esaurisce, la gravità domina e la stella
+comincia a crollare. Tuttavia, se la massa della stella è inferiore a un certo valore
+Il critico, chiamato Masa di Chandrasekhar, esiste un altro processo, puramente quantistico, che
+è in grado di fermare il collasso gravitazionale. Questo processo si basa sul principio di
+Pauli’s exclusion, che dice che non possono esserci due elettroni nello stesso stato.
+Quantistico in una determinata regione.
+Quando la stella si contrae, gli elettroni sono costretti ad occupare stati maggiori.
+La pressione di degenerazione che oscilla questa energia
+contrazione se la massa della stella è inferiore alla massa di Chandrasekhar; questo
+Il sistema in equilibrio è conosciuto come la nanna bianca.
+Se la massa della stella è maggiore della massa di Chandrasekhar, la pressione di
+La degenerazione è insufficiente per fermare il collasso e lo stato finale, molto più denso,
+Potrebbe essere una stella di neutroni o un buco nero.</p>
+<p>OAF 2018 - 9
+L’obiettivo di questa parte del problema è stimare l’energia cinetica degli atomi.
+che compongono il nano bianco.</p>
+<p>Per semplificare le espressioni, si possono disprezzare i numeri come 2,3,5, π, ecc. che
+sono riportate nella risoluzione dei seguenti punti. Non disprezzare i valori delle
+le costanti fisiche presentate nella scheda delle risposte.</p>
+<p>Considera che una stella è una sfera di atomi di idrogeno (consistenti in un
+di massa M e di radiazione R.</p>
+<p>B1. Scrivi il numero di atomi per unità di volume, n, in termini di
+la massa totale della stella M, il raggio della stella R e la massa del protone mp.</p>
+<p>Nota:</p>
+<ul>
+<li>Si noti che la massa dei me elettroni è molto inferiore alla massa
+mp dei protoni (me≪mp).</li>
+</ul>
+<p>B2. Trova il rapporto tra il numero di atomi per unità di volume, n, e
+il numero di elettroni per unità di volume, ne.</p>
+<p>Supponendo che l’energia cinetica media degli atomi in una stella sia Eat,</p>
+<p>B3. Scrivi l’energia cinetica EK del insieme di tutti gli atomi della
+stella, in termini di n, Eat e R.</p>
+<p>Per gli elettroni ultra-relativisti (a velocità vicine a c) l’energia media di
+Gli atomi possono essere avvicinati come segue</p>
+<p>E’ un’operazione di grande importanza.</p>
+<p>dove pe è la media dell’impulso lineare degli elettroni.</p>
+<p>Supponiamo che ci sia un elettrone in ogni volume cubo di lato λ dove</p>
+<p>𝜆=
+ħ
+𝑝𝑒                                                (2)</p>
+<p>B4. Scrivi il pulso lineare pe in termini di numero di elettroni per unità
+di volume, ne e ħ.</p>
+<p>B5. A partire da quello che si trova nei precedenti articoli, e usando l’equazione (1)
+Scrivi l’energia cinetica EK in termini di ħ, mp, R e M. Esprimete la parola in
+Forma EK=
+𝜷
+R e identifica il valore di β indipendente da R.</p>
+<p>Prova sperimentale - Livello 1</p>
+<p>Flotabilità di un corpo vuoto</p>
+<p>Introduzione
+Quando un corpo viene immerso nel seno di un liquido, se la densità media è
+inferiore a quella del liquido, fluttuerà. Ogni corpo che galleggia è soggetto a due forze.
+Verticali e opposti: uno è il peso del corpo P̅ che è rivolto verso il basso e l’altro è
+la spinta E̅ (peso del liquido sfogliato) rivolta verso l’alto.</p>
+<p>10 - OAF 2018
+Se si tratta di un corpo rigido, il peso agisce al centro di massa (CM) e la spinta al centro.
+centro di massa del volume del liquido sfogliato, noto come centro di spinta
+(CE). P̅ e E̅ sono sempre uguali in modulo e, se sono colineali, il corpo rimarrà
+in posizione verticale come mostrato in figura 1.</p>
+<p>Figura 1</p>
+<p>Tuttavia, il corpo può inclinarsi per molte cause esogeniche (come il vento, la
+L’azione delle onde, ecc.) causando il centro di spinta a spostarsi su una nuova
+Posizione CE’ come illustrato in figure 2a e 2b. Ciò provoca che le forze che
+agiscono sul corpo generano una torsione sul corpo.</p>
+<p>Figura 2a Figura 2b</p>
+<p>Se il punto Q, definito dall’intersezione dell’asse del corpo e della linea di azione del
+P̅ e E̅ produrranno un momento in senso
+Il corpo deve tornare alla posizione di equilibrio o neutrale.
+Il corpo è stabile. Se Q è inferiore a CM (Figura 2b), il
+Il corpo diventa instabile a causa del tempo di senso orario generato da P̅ e E̅ e il
+l’equilibrio corporeo è instabile.
+Supponiamo che si immerga un cilindro vuoto di alluminio di massa M e sezione uniforme A,
+in un liquido. Ciò che si osserva è che il corpo tende a girare, indicando che il
+Il CM è situato sotto il punto Q (equilibrio instabile). Per abbassare la posizione del
+centro di massa, bisogna aumentare la massa del cilindro. Questo è stato ottenuto, per esempio,
+Aggiungendo masse di peso uniforme m fino a far fluttuare il cilindro dritto come si
+mostra la figura 3. In questa condizione, il volume immerso Vs verifica l’equazione:</p>
+<p>Mtg= δliqVsg= δliq A hsg
+(1)</p>
+<p>OAF 2018 - 11
+dove Mt è la massa totale del corpo, δliq è la
+densità del liquido e A è l’area trasversale. Si n
+è il numero di masse aggregate, si compie
+che:</p>
+<p>(M+ n m) g = δliq Ahsg
+(2)
+In modo tale che:
+ℎ𝑠=
+1
+δliq A(M+ n m) (3)</p>
+<p>Obiettivi</p>
+<ul>
+<li>Determinare sperimentalmente il valore di massa M del cilindro di alluminio e la
+massa m di un’orticaria.</li>
+</ul>
+<p>Elementi disponibili</p>
+<ul>
+<li>55 noci di massa m</li>
+<li>1 contenitore di liquido su base di legno.</li>
+<li>1 cilindro vuoto di alluminio con scala graduata all’esterno.</li>
+<li>Un cronometro .</li>
+<li>Una regola.</li>
+</ul>
+<p>Procedura</p>
+<ol>
+<li>Metti il dispositivo e determina il numero minimo di non-nuccio che devono essere
+inserire il tubo in alluminio per farli fluttuare verticalmente. - Si ’ , si ’ .
+Attenzione a non far entrare liquido nel cilindro.</li>
+<li>Da lì, aggiungi le noci all’interno del cilindro con attenzione e una
+Una volta raggiunto l’equilibrio si misura la profondità di immersione hs.</li>
+</ol>
+<p>Consigne</p>
+<ol>
+<li>Datemi il valore di n.</li>
+<li>Fai una tabella con i valori di hs e n.</li>
+<li>Grafico hs vs n.</li>
+<li>Aggiusta i dati per un’artigliatura e determina il valore dell’inclinazione.</li>
+<li>Determina il valore dell’ordinato alla provenienza di tale rettitudine.</li>
+<li>Determina il valore di M</li>
+<li>Determina il valore di m.</li>
+</ol>
+<p>Data: δliq= 1 g/cm3</p>
+<p>Prova teorica - Livello 2</p>
+<p><strong>Topic:</strong> <a href="../topics/astrophysics" class="internal internal-link" data-slug="topics/astrophysics">Astrophysics</a>, <a href="../topics/gravitation" class="internal internal-link" data-slug="topics/gravitation">Gravitation</a>
+<strong>Metodi:</strong> <a href="../methods/newton's-law-of-gravitation-(metodo)" class="internal internal-link alias" data-slug="methods/newton's-law-of-gravitation-(metodo)">Newton’s Law of Gravitation</a>, <a href="../methods/energy-conservation-method-(metodo)" class="internal internal-link alias" data-slug="methods/energy-conservation-method-(metodo)">Energy Conservation Method</a>, <a href="../methods/order-of-magnitude-estimation-(metodo)" class="internal internal-link alias" data-slug="methods/order-of-magnitude-estimation-(metodo)">Order-of-Magnitude Estimation</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../objects/star-(object)" class="internal internal-link alias" data-slug="objects/star-(object)">Star</a>, <a href="../objects/black-hole-(object)" class="internal internal-link alias" data-slug="objects/black-hole-(object)">Black Hole</a>, <a href="../objects/electron-(object)" class="internal internal-link alias" data-slug="objects/electron-(object)">Electron</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view" class="external external-link">Testo (PDF) — p.5<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<div class="qlang-split" data-lang="en"></div>
+<p>The following information is provided for in the Annex to Implementing Regulation (EU) No 1308/2013:</p>
+<p>Problem three .
+Black Holes and White Dwarfs</p>
+<p>The following is the list of the categories of products:
+Black holes .
+The Black Holes, one of the most fascinating predictions of the world.
+Einstein’s theory of general relativity, they are objects.
+Extremely dense, so much so, that if something falls into the hole: no more
+It can escape, not even the light!!!
+They are characterized by an event horizon (the “brink” of the</p>
+<p>The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+The black hole) which delimits the area from which you cannot leave. Outside the horizon
+In the event of an event, the gravitational field is similar to that produced by an ordinary material object.</p>
+<p>The objective of this part of the problem is to find the relationship between mass and the
+radio of a black hole. To do this, we’ll combine ideas from Newtonian physics and
+Relativity and, while the results will be estimates, the ratio we will get from
+This form is identical to the one predicted by the theory of general relativity.</p>
+<p>The relevant concepts to be taken into account are:</p>
+<p>• Exhaust speed: the minimum speed at which a launch is to be made
+a particle from the surface of an object, so that it moves infinitely far from the
+body (i.e. the distance r to the center of the object becomes infinite: r→∞).</p>
+<p>• Postgraduate in the theory of relativity: nothing can move faster than
+The light.</p>
+<p>A1. Calculate the velocity of vesc escape from a spherical object of mass M and
+radio R.</p>
+<p>Now, we’re going to look for the relationship that M and R must have for this object to represent
+A black hole, that is, so that no particles, not even light, can escape.
+from their event horizon. For this it may be convenient to think of light as
+composed of particles moving at speed c.</p>
+<p>A2. Suppose we can use the expression vesc (found in item
+For relativistic systems, find the smallest upper quota
+for the radius R of the event horizon of a black hole of mass M.</p>
+<p>Note:</p>
+<ul>
+<li>Relativistic systems are those involving speeds close to the
+of light and/or very intense gravitational fields.</li>
+<li>A higher quota for a quantity f is an fsup value greater than or equal to f.</li>
+</ul>
+<p>The following information shall be provided:
+White dwarfs .
+Stars are kept in hydrostatic equilibrium due to the balance between attraction.
+gravitational (inward) and thermal pressure resulting from nuclear processes
+(outwardly).</p>
+<p>When the nuclear fuel runs out, gravitational pull dominates and the star is
+It’s starting to collapse. However, if the mass of the star is less than a certain value
+Critical, called Chandrasekhar’s Mass, there is another process, purely quantum, that
+It’s capable of stopping gravitational collapse. This process is based on the principle of
+Pauli exclusion, which says there can’t be two electrons in the same state.
+quantum in a certain region.
+When the star shrinks, the electrons are forced to occupy higher states.
+energy, generating a pressure (degeneration pressure) which balances this pressure.
+contraction if the mass of the star is less than the mass of Chandrasekhar; this
+The equilibrium system is known as the White Dwarf.
+If the mass of the star is greater than the mass of Chandrasekhar, the pressure of
+degeneration is insufficient to stop the collapse and the final state, much denser,
+It could be a neutron star or a black hole.</p>
+<p>The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
+The goal of this part of the problem is to estimate the kinetic energy of atoms.
+which make up the white dwarf.</p>
+<p>To simplify the expressions, you can disregard numbers like 2,3,5, π, etc. That
+appear in the resolution of the following items. Do not underestimate the values of the
+physical constants presented on the answer sheet.</p>
+<p>Consider that a star is a ball of hydrogen atoms (consisting of a
+electron and a proton), uniform density, mass M and radius R.</p>
+<p>B1. Write the number of atoms per unit volume, n, in terms of
+The total mass of the star M, the radius of the star R and the mass of the proton mp.</p>
+<p>Note:</p>
+<ul>
+<li>Please note that the mass of the electrons is much smaller than the mass
+MP of protons (me≪mp).</li>
+</ul>
+<p>B2. Find the ratio of the number of atoms per unit volume, n, and
+The number of electrons per unit volume, ne.</p>
+<p>Assuming the average kinetic energy of atoms in a star is Eat,</p>
+<p>B3. Write the kinetic energy EK of the set of all atoms in the
+star, in terms of n, Eat and R.</p>
+<p>For ultra-relativistic electrons (with speeds close to c) the average energy of
+The atoms can be approximated as follows</p>
+<p>The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.</p>
+<p>where p is the average linear pulse of the electrons.</p>
+<p>Suppose there is an electron in each cubic volume on the λ-side where</p>
+<p>𝜆=
+ħ
+𝑝𝑒                                                (2)</p>
+<p>B4. Write the linear momentum pe in terms of the number of electrons per unit.
+of volume, ne and ħ.</p>
+<p>B5. From what we found in the previous items, and using the equation (1)
+Write the kinetic energy EK in terms of ħ, mp, R and M. Express it in the
+EK form=
+𝜷
+R and identify the value of β independent of R.</p>
+<p>The following is the list of the types of tests:</p>
+<p>Flotability of hollow body</p>
+<p>The first is the introduction.
+When a body is immersed in the breast of a liquid, its average density is
+smaller than the liquid, it will float. Any body that floats is subject to two forces .
+verticals and opposites: one is the body weight P̅ which is directed downwards and another is
+the E̅ (weight of displaced liquid) thrust directed upwards.</p>
+<p>10 - OAF 2018
+If it is a rigid body, the weight acts at the centre of mass (CM) and the thrust at the centre of the mass.
+mass centre of volume of discharged liquid, known as centre of thrust
+(CE). P̅ and E̅ are always the same in modulus and, if they are colinear, the body will remain
+in vertical position as shown in Figure 1.</p>
+<p>Figure 1</p>
+<p>However, the body can tilt for many exogenous causes (such as wind, wind, and wind).
+The wave action, etc.) causing the centre of thrust to shift to a new one.
+EC position’ as shown in Figures 2a and 2b. This causes the forces that
+They act on the body, they generate torque on the body.</p>
+<p>Figure 2a Figure 2b</p>
+<p>If the point Q, defined by the intersection of the body axis and the line of action of the
+P̅ and E̅ will produce a moment in the direction
+anti-clockwise which will cause the body to return to the neutral or equilibrium position of this
+So the body balance is stable. If Q is below CM (Figure 2b), the
+body becomes unstable due to the timing generated by P̅ and E̅ and the
+The balance of the body is unstable.
+Suppose you submerge a hollow aluminium cylinder of mass M and uniform section A,
+in a liquid. What is observed is that it tends to turn around, indicating that the
+CM is below the point Q (unstable equilibrium). To lower the position of the
+The mass center is the mass of the cylinder. This is achieved, for example,
+Adding uniform mass m to the cylinder to float straight as it is
+the sample in Figure 3. In this condition, the volume submerged Vs verifies the equation:</p>
+<p>The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+(1)</p>
+<p>The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
+where Mt is the total mass of the body, δliq is the
+density of the liquid and A is the cross-sectional area. Si n
+is the number of masses added, it is fulfilled
+which:</p>
+<p>(M+ n m) g = δliq Ahsg
+(2)
+In such a way that:
+ℎ𝑠=
+1
+The following table shows the results of the evaluation:</p>
+<p>Objectives</p>
+<ul>
+<li>To experimentally determine the mass value of the aluminium cylinder M and the mass of the aluminium cylinder
+mass m of a nut.</li>
+</ul>
+<p>Available items</p>
+<ul>
+<li>55 nuts of mastic</li>
+<li>1 container with liquid on a wooden base.</li>
+<li>1 hollow aluminium cylinder with a graduated scale on its outside.</li>
+<li>One timepiece .</li>
+<li>One rule.</li>
+</ul>
+<p>The procedure</p>
+<ol>
+<li>Mount the device and determine the minimum number of no nuts you need.
+to be inserted into the aluminium tube so that it floats vertically. Have a special .
+be careful not to let fluid into the cylinder.</li>
+<li>From there, add nuts to the inside of the cylinder carefully and a
+Once the equilibrium is reached, the depth of immersion is measured hs.</li>
+</ol>
+<p>Consigns</p>
+<ol>
+<li>Give the value of n0.</li>
+<li>Make a table with the values of hs and n.</li>
+<li>Graph hs vs n</li>
+<li>Adjust the data by a straight line and determine the slope value.</li>
+<li>Determine the value of the order at the origin of that line.</li>
+<li>Determine the value of M</li>
+<li>Determine the value of m.</li>
+</ol>
+<p>Date: δliq = 1 g/cm3</p>
+<p>Theoretical proof - Level 2</p>
+<p><strong>Topic:</strong> <a href="../topics/astrophysics" class="internal internal-link" data-slug="topics/astrophysics">Astrophysics</a>, <a href="../topics/gravitation" class="internal internal-link" data-slug="topics/gravitation">Gravitation</a>
+<strong>Metodi:</strong> <a href="../methods/newton's-law-of-gravitation-(metodo)" class="internal internal-link alias" data-slug="methods/newton's-law-of-gravitation-(metodo)">Newton’s Law of Gravitation</a>, <a href="../methods/energy-conservation-method-(metodo)" class="internal internal-link alias" data-slug="methods/energy-conservation-method-(metodo)">Energy Conservation Method</a>, <a href="../methods/order-of-magnitude-estimation-(metodo)" class="internal internal-link alias" data-slug="methods/order-of-magnitude-estimation-(metodo)">Order-of-Magnitude Estimation</a>
+<strong>Competenze:</strong> <a href="../skills/physical-reasoning-(competenza)" class="internal internal-link alias" data-slug="skills/physical-reasoning-(competenza)">Physical Reasoning</a>, <a href="../skills/mathematical-modeling-(competenza)" class="internal internal-link alias" data-slug="skills/mathematical-modeling-(competenza)">Mathematical Modeling</a>
+<strong>Objects:</strong> <a href="../objects/star-(object)" class="internal internal-link alias" data-slug="objects/star-(object)">Star</a>, <a href="../objects/black-hole-(object)" class="internal internal-link alias" data-slug="objects/black-hole-(object)">Black Hole</a>, <a href="../objects/electron-(object)" class="internal internal-link alias" data-slug="objects/electron-(object)">Electron</a>
+<strong>Fonte:</strong> <a href="https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view" class="external external-link">Testo (PDF) — p.5<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Vista grafico</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false,&quot;maxNodes&quot;:220}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="desktop-only"></div><div class="backlinks"><h3>Link entranti</h3><ul id="list-0" class="overflow"><li><a href="../objects/black-hole-(object)" class="internal">Black Hole</a></li><li><a href="../objects/electron-(object)" class="internal">Electron</a></li><li><a href="../objects/star-(object)" class="internal">Star</a></li><li><a href="../prove/cuadernillo_2018" class="internal">Argent 2018</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Creato con <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/gborghi/raccolta-gare-fisica">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">var i='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>',s='<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"><path fill-rule="evenodd" fill="rgb(63, 185, 80)" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>',d=()=>{let o=document.getElementsByTagName("pre");for(let n=0;n<o.length;n++){let a=o[n];if(!a)continue;let t=a.getElementsByTagName("code")[0];if(t){let c=(t.dataset.clipboard?JSON.parse(t.dataset.clipboard):t.innerText).replace(/\n\n/g,`
+`),e=document.createElement("button");e.className="clipboard-button",e.type="button",e.innerHTML=i,e.ariaLabel="Copy source";let r=()=>{navigator.clipboard.writeText(c).then(()=>{e.blur(),e.innerHTML=s,setTimeout(()=>{e.innerHTML=i,e.style.borderColor=""},2e3)},l=>console.error(l))};e.addEventListener("click",r),window.addCleanup(()=>e.removeEventListener("click",r)),a.prepend(e)}}};document.addEventListener("nav",d);document.addEventListener("render",d);
+</script><script type="application/javascript" data-persist="true">function c(e){return e.document.body.dataset.slug}var d=e=>`${c(window)}-checkbox-${e}`,l=()=>{document.querySelectorAll("input.checkbox-toggle").forEach((t,s)=>{let n=d(s),o=u=>{let r=u.target?.checked?"true":"false";localStorage.setItem(n,r)};t.addEventListener("change",o),window.addCleanup(()=>t.removeEventListener("change",o)),localStorage.getItem(n)==="true"&&(t.checked=!0)})};document.addEventListener("nav",l);document.addEventListener("render",l);
+</script><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function o(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let c=e.classList.contains("is-collapsed");s.style.gridTemplateRows=c?"0fr":"1fr"}}document.addEventListener("nav",o);document.addEventListener("render",o);
+</script><script type="module" data-persist="true">var C=Object.defineProperty;var b=(s,e,t)=>e in s?C(s,e,{enumerable:!0,configurable:!0,writable:!0,value:t}):s[e]=t;var c=(s,e,t)=>b(s,typeof e!="symbol"?e+"":e,t);function f(s,e){if(!s)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}s?.addEventListener("click",t),window.addCleanup(()=>s?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function y(s){for(;s.firstChild;)s.removeChild(s.firstChild)}var p=class{constructor(e,t){c(this,"container",e);c(this,"content",t);c(this,"isDragging",!1);c(this,"startPan",{x:0,y:0});c(this,"currentPan",{x:0,y:0});c(this,"scale",1);c(this,"MIN_SCALE",.5);c(this,"MAX_SCALE",3);c(this,"cleanups",[]);this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),a=this.onTouchEnd.bind(this),i=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",a),window.addEventListener("resize",i),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",a),()=>window.removeEventListener("resize",i))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,a=t-this.scale;this.currentPan.x-=o*a,this.currentPan.y-=r*a,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},H=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],L;async function M(){let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;L||(L=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"));let t=L.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let i of e){i.removeAttribute("data-processed");let d=n.get(i);d&&(i.innerHTML=d)}let r=H.reduce((i,d)=>(i[d]=window.getComputedStyle(document.documentElement).getPropertyValue(d),i),{}),a=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:a?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let a=e[r],i=a.parentElement,d=i.querySelector(".clipboard-button"),u=i.querySelector(".expand-button"),v=window.getComputedStyle(d),w=d.offsetWidth+parseFloat(v.marginLeft||"0")+parseFloat(v.marginRight||"0");u.style.right=`calc(${w}px + 0.3rem)`,i.prepend(u);let l=i.querySelector("#mermaid-container");if(!l)return;let h=null,g=()=>{let E=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let x=a.querySelector("svg").cloneNode(!0);m.appendChild(x),l.classList.add("active"),E.style.cursor="grab",h=new p(E,m)},T=()=>{l.classList.remove("active"),h?.cleanup(),h=null};u.addEventListener("click",g),f(l,T),window.addCleanup(()=>{h?.cleanup(),u.removeEventListener("click",g)})}}document.addEventListener("nav",M);document.addEventListener("render",M);
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

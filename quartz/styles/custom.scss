@@ -126,7 +126,7 @@ blockquote { border-left: 3px solid var(--accent-teal); }
 //     not in the component .css which Quartz only bundles for layout components) ───
 .navbar {
   position: sticky; top: 0; z-index: 1000;
-  width: 100%; margin: 0; padding: 0.9rem 2rem;
+  width: 100%; margin: 0; padding: 0.9rem 2rem; box-sizing: border-box;
   background: var(--navbar-bg);
   box-shadow: 0 2px 14px rgba(27, 40, 120, 0.22);
 }
@@ -208,7 +208,7 @@ body[data-slug="index"] .page-header .content-meta { display: none; }
 /* full-bleed bar pinned to the very top of the viewport */
 .navbar {
   position: sticky; top: 0; z-index: 1000;
-  width: 100%; margin: 0; padding: 0.55rem 2rem;
+  width: 100%; margin: 0; padding: 0.55rem 2rem; box-sizing: border-box;
   background: var(--navbar-bg);
   box-shadow: 0 2px 14px rgba(27, 40, 120, 0.22);
 }

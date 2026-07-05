@@ -360,3 +360,15 @@ table.paged-table .flag { margin-right: 0.15em; }
 .qlang-btn:hover { opacity: 0.85; }
 .qlang-btn.active { opacity: 1; border-color: var(--secondary); box-shadow: 0 0 0 1px var(--secondary); }
 .qlang-split { display: none; }
+
+// note-properties plugin renders the tags row as an inline-flex with NO wrap,
+// inside a `table-layout: fixed` cell. With ~11 tags each chip is squeezed to a
+// ~1-char-wide column and `word-break` stacks its text vertically. Let the tags
+// flow horizontally and wrap, and keep each chip on one line.
+.note-properties-tags {
+  flex-wrap: wrap;
+  gap: 0.3rem 0.4rem;
+}
+.note-properties-tags .tag-link {
+  white-space: nowrap;
+}

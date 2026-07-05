@@ -263,33 +263,43 @@ async function init() {
       total === 0 ? "0 quesiti"
         : pc > 1 ? `${total} quesiti — ${start + 1}–${start + shown.length} (pag. ${resPage + 1}/${pc})`
         : `${total} quesiti`
-    const cols: [keyof Q, string][] = [
-      ["summary", "Quesito"],
-      ["competition", "Gara"],
-      ["quesito", "N."],
-      ["answer", "Risp."],
-    ]
-    const head = cols
-      .map(
-        ([k, l]) =>
-          `<th data-k="${k}" class="qtable-th${sortKey === k ? " sorted-" + (sortDir > 0 ? "asc" : "desc") : ""}">${l}</th>`,
-      )
-      .join("")
     if (total === 0) {
       resultsBox.innerHTML = `<p class="paged-empty">Nessun risultato.</p>`
       pager.innerHTML = ""
       return
     }
+    // Same 6-column layout as the concept-page paged-table (Stato / Gara /
+    // Livello / Anno / N° / Descrizione) so every table on the site is uniform.
+    const cols: [keyof Q, string, string][] = [
+      ["country", "Stato", "paged-c-flag"],
+      ["competition", "Gara", "paged-c-gara"],
+      ["level", "Livello", "paged-c-liv"],
+      ["year", "Anno", "paged-c-year"],
+      ["quesito", "N°", "paged-c-prob"],
+      ["summary", "Descrizione", "paged-c-desc"],
+    ]
+    const arrow = (k: keyof Q) => (sortKey === k ? (sortDir > 0 ? " ▲" : " ▼") : "")
+    const head = cols
+      .map(([k, l, cls]) => `<th data-k="${k}" class="paged-sort ${cls}">${l}${arrow(k)}</th>`)
+      .join("")
     const body = shown
-      .map(
-        (r) =>
-          `<tr><td>${r.flag ? `<img class="cerca-flagimg" src="https://flagcdn.com/${r.flag}.svg" alt="${esc(r.flag_name)}" title="${esc(r.flag_name)}" width="22" height="16" loading="lazy">` : `<span class="flag" title="${esc(r.flag_name || "Internazionale")}">🌍</span>`} <a href="${prefix}${esc(r.href)}">${esc(r.summary) || "(quesito)"}</a></td>` +
-          `<td>${esc(r.competition)}</td><td>${esc(r.quesito)}</td><td>${esc(r.answer)}</td></tr>`,
-      )
+      .map((r) => {
+        const flag = r.flag
+          ? `<td class="paged-c-flag"><img class="paged-flagimg" src="https://flagcdn.com/${r.flag}.svg" alt="${esc(r.flag_name)}" title="${esc(r.flag_name)}" width="22" height="16" loading="lazy"></td>`
+          : `<td class="paged-c-flag"><span class="paged-flag-globe" title="${esc(r.flag_name || "Internazionale")}">\u{1f30d}</span></td>`
+        return (
+          `<tr>${flag}` +
+          `<td class="paged-c-gara"><a href="${prefix}${esc(r.href)}">${esc(r.competition) || "(gara)"}</a></td>` +
+          `<td class="paged-c-liv">${r.level ? esc(r.level) : ""}</td>` +
+          `<td class="paged-c-year">${r.year ? esc(r.year) : ""}</td>` +
+          `<td class="paged-c-prob">${esc(r.quesito)}</td>` +
+          `<td class="paged-c-desc">${r.summary ? esc(r.summary) : ""}</td></tr>`
+        )
+      })
       .join("")
     resultsBox.innerHTML =
-      `<table class="qtable-table"><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>`
-    resultsBox.querySelectorAll<HTMLElement>("th.qtable-th").forEach((th) =>
+      `<table class="qtable-table paged-table"><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>`
+    resultsBox.querySelectorAll<HTMLElement>("th.paged-sort").forEach((th) =>
       th.addEventListener("click", () => {
         const k = th.dataset.k as keyof Q
         if (sortKey === k) sortDir *= -1

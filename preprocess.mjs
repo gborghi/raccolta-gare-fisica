@@ -94,7 +94,7 @@ const SKIP_DIRS = new Set(["tmp_imgs"])
 // stray root notes that pollute the Explorer sidebar with broken/empty entries
 // (the faceted /cerca search covers navigation). Skipped at publish time.
 const IGNORE_NOTES = new Set(["T3-Answersheet-it (4 files merged)", "_Home"])
-const CONCEPT_DIRS = ["Topics", "Methods", "Skills", "Clusters"]
+const CONCEPT_DIRS = ["Topics", "Methods", "Skills", "Clusters", "Objects"]
 
 // country -> flag emoji; IPhO/EuPhO/International -> globe
 const FLAGS = {

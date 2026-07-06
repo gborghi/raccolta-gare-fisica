@@ -80,9 +80,12 @@ async function init() {
   }
 
   const selected = new Set<string>()
-  // "OR"  = QUALSIASI: OR within a facet group, AND across different groups.
-  // "AND" = TUTTI:     every selected tag must match (AND across all tags).
-  let mode: "AND" | "OR" = "OR"
+  // "GROUP" = OR within a facet group, AND across different facet groups
+  //           (two years keep both; adding a topic intersects). Faceted-search default.
+  // "OR"    = pure union: match ANY selected tag (OR within AND across).
+  // (There is deliberately no pure-AND mode: requiring two values of the same
+  //  single-value facet, e.g. year 2016 AND year 2017, can never match.)
+  let mode: "GROUP" | "OR" = "GROUP"
 
   const facetValues: { facet: Facet; values: [string, number][] }[] = FACETS.map((facet) => {
     const counts = new Map<string, number>()
@@ -107,8 +110,9 @@ async function init() {
       return String(q[facet.key]) === val
     }
     const tokens = [...selected]
-    if (mode === "AND") return tokens.every(test) // TUTTI: every tag must match
-    // QUALSIASI: OR within each facet group, AND across groups.
+    // OR: pure union — a quesito matches if it carries ANY selected tag.
+    if (mode === "OR") return tokens.some(test)
+    // GROUP: OR within each facet group, AND across groups.
     const byGroup = new Map<string, string[]>()
     for (const token of tokens) {
       const key = token.split("::")[0]
@@ -186,12 +190,12 @@ async function init() {
   toggle.className = "cerca-toggle"
   function syncToggle() {
     toggle.textContent =
-      mode === "AND"
-        ? "Corrispondenza: TUTTI i tag (AND)"
-        : "Corrispondenza: QUALSIASI (OR nel gruppo, AND tra gruppi)"
+      mode === "GROUP"
+        ? "Corrispondenza: AND tra categorie · OR nella stessa"
+        : "Corrispondenza: QUALSIASI tag (OR)"
   }
   toggle.addEventListener("click", () => {
-    mode = mode === "AND" ? "OR" : "AND"
+    mode = mode === "GROUP" ? "OR" : "GROUP"
     syncToggle()
     render()
   })

@@ -1,19 +1,33 @@
 @use "./base.scss";
 
-// ─── Cheerful palette à la the Canva reference: warm cream + cobalt + orange/teal/yellow pops ───
+// ─── Redesign "Raccolta Gare" — blu/ciano design system ───
+//   blue #0028FF · deep #24009C · cyan #10EAF0 · ink #14163A · panel #F1F4DF
+//   Type: Space Grotesk (headers) · Instrument Sans (body) · Spline Sans Mono (labels/code)
 :root {
-  --accent-orange: #f0852a;
-  --accent-yellow: #f5c84b;
-  --accent-teal: #1fa6a0;
-  --navbar-bg: linear-gradient(100deg, #1f3bd1 0%, #4127b8 100%);
-  --navbar-fg: #fff6ec;
+  --accent-blue: #0028ff;
+  --accent-deep: #24009c;
+  --accent-cyan: #10eaf0;
+  --panel: #f1f4df; // soft chartreuse card/panel from the mockup
+  --ink: #14163a;
+  // legacy aliases — older rules that reference the previous warm palette now
+  // resolve to the blu/ciano tokens without touching every rule.
+  --accent-orange: var(--accent-deep);
+  --accent-yellow: var(--accent-cyan);
+  --accent-teal: var(--accent-cyan);
+  // navbar is now a light bar (dark text) matching the mockup, not a cobalt bar.
+  --navbar-bg: var(--light);
+  --navbar-fg: #14163a;
+  --navbar-border: rgba(20, 22, 58, 0.09);
   --radius: 12px;
-  // navbar height = padding 0.9rem*2 + logo 2.4rem. Sidebar/content offset off this.
+  // navbar height = padding 0.55rem*2 + logo 2.4rem. Sidebar/content offset off this.
   --navbar-h: 4.2rem;
 }
 [saved-theme="dark"] {
-  --navbar-bg: linear-gradient(100deg, #233aa6 0%, #3a2596 100%);
-  --navbar-fg: #fff6ec;
+  --panel: #16113b;
+  --ink: #edeffa;
+  --navbar-bg: #0c0827;
+  --navbar-fg: #edeffa;
+  --navbar-border: rgba(143, 162, 255, 0.16);
 }
 
 body { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
@@ -27,17 +41,17 @@ h1, h2, h3, h4, h5, h6 {
 h1 { font-weight: 800; }
 article h1:first-of-type { font-size: 2.5rem; line-height: 1.1; }
 
-// Homepage hero feel: accent rule under the first heading
+// Section-title accent: a short cyan rule under the first heading.
 .center > article > h1:first-of-type {
-  border-bottom: 4px solid var(--accent-orange);
+  border-bottom: 4px solid var(--accent-cyan);
   padding-bottom: 0.3rem; display: inline-block;
 }
 
-// ─── Links: cobalt, with a cheerful orange underline that grows on hover ───
+// ─── Links: cobalt blue, with a cyan underline that grows on hover ───
 a {
   color: var(--secondary);
   text-decoration: none;
-  background-image: linear-gradient(var(--accent-orange), var(--accent-orange));
+  background-image: linear-gradient(var(--accent-cyan), var(--accent-cyan));
   background-size: 0% 2px; background-position: 0 100%; background-repeat: no-repeat;
   transition: background-size 0.2s ease, color 0.15s ease;
 }
@@ -82,11 +96,12 @@ table.qtable-table, .cerca-results table.qtable-table {
   border: 1px solid var(--lightgray);
 }
 table.qtable-table thead th, .cerca-results thead th {
-  background: var(--highlight);
-  font-family: var(--titleFont); font-weight: 700;
-  border-bottom: 2px solid var(--accent-orange) !important;
+  background: var(--panel);
+  font-family: var(--codeFont); font-weight: 600;
+  font-size: 0.72em; letter-spacing: 0.06em; text-transform: uppercase; color: var(--darkgray);
+  border-bottom: 2px solid var(--accent-blue) !important;
 }
-table.qtable-table tbody tr:nth-child(even) td { background: rgba(240, 133, 42, 0.045); }
+table.qtable-table tbody tr:nth-child(even) td { background: rgba(0, 40, 255, 0.035); }
 table.qtable-table tr:hover td, .cerca-results tr:hover td { background: var(--highlight) !important; }
 
 .qtable-search {
@@ -94,9 +109,9 @@ table.qtable-table tr:hover td, .cerca-results tr:hover td { background: var(--h
 }
 .qtable-search:focus { border-color: var(--secondary) !important; outline: none; }
 
-// ─── /cerca: faceted search as cheerful cards + pill chips ───
+// ─── /cerca: faceted search as design cards + pill chips (blu/ciano) ───
 .cerca-toggle {
-  background: var(--accent-teal) !important; border: none !important; color: #fff !important;
+  background: var(--accent-blue) !important; border: none !important; color: #fff !important;
   border-radius: 999px !important; font-family: var(--titleFont); font-weight: 700;
 }
 details.cerca-facet {
@@ -108,13 +123,19 @@ details.cerca-facet > summary { font-family: var(--titleFont); }
   border: 1.4px solid var(--lightgray) !important; border-radius: 999px !important;
   transition: all 0.15s ease;
 }
-.cerca-chip:hover { border-color: var(--accent-orange) !important; }
+.cerca-chip:hover { border-color: var(--accent-blue) !important; }
 .cerca-chip.active {
   background: var(--secondary) !important; color: #fff !important; border-color: var(--secondary) !important;
 }
-.cerca-chip .cerca-n { color: var(--accent-orange); font-weight: 700; }
-.cerca-chip.active .cerca-n { color: var(--accent-yellow); }
-.cerca-count strong { color: var(--secondary); font-size: 1.1em; }
+.cerca-chip .cerca-n { color: var(--accent-deep); font-weight: 700; }
+.cerca-chip.active .cerca-n { color: var(--accent-cyan); }
+.cerca-count strong { color: var(--accent-deep); font-size: 1.1em; }
+// active tag chips (shown above the results) get the cyan-tinted "selected" look
+.cerca-selected .cerca-chip.active {
+  background: color-mix(in srgb, var(--accent-cyan) 22%, var(--light)) !important;
+  color: var(--ink) !important; border-color: var(--accent-cyan) !important;
+}
+.cerca-selected .cerca-chip.active .cerca-n { color: var(--accent-deep); }
 
 .cerca-searchbar { margin: 0.6rem 0 0.4rem; }
 .flag { font-size: 0.95em; margin-right: 0.15em; }
@@ -128,7 +149,8 @@ blockquote { border-left: 3px solid var(--accent-teal); }
   position: sticky; top: 0; z-index: 1000;
   width: 100%; margin: 0; padding: 0.9rem 2rem; box-sizing: border-box;
   background: var(--navbar-bg);
-  box-shadow: 0 2px 14px rgba(27, 40, 120, 0.22);
+  border-bottom: 1px solid var(--navbar-border);
+  box-shadow: 0 1px 0 var(--navbar-border);
 }
 // brand left, links centred (middle grid cell) so they align over the page content
 .navbar-inner {
@@ -144,7 +166,7 @@ blockquote { border-left: 3px solid var(--accent-teal); }
 }
 .navbar-logo {
   height: 2.4rem; width: auto; display: block; flex: 0 0 auto;
-  filter: drop-shadow(0 1px 3px rgba(20, 28, 90, 0.45));
+  filter: drop-shadow(0 1px 2px rgba(20, 22, 58, 0.14));
 }
 .navbar-links {
   grid-column: 2; justify-self: center;
@@ -157,7 +179,7 @@ blockquote { border-left: 3px solid var(--accent-teal); }
   background-image: none;
   transition: background 0.15s ease, color 0.15s ease;
 }
-.navbar-links a:hover { background: var(--accent-orange); color: #1a1320 !important; }
+.navbar-links a:hover { background: var(--highlight); color: var(--secondary) !important; }
 @media all and (max-width: 800px) {
   .navbar { padding: 0.6rem 1rem; }
   .navbar-inner { grid-template-columns: 1fr; justify-items: center; gap: 0.5rem; }
@@ -210,7 +232,8 @@ body[data-slug="index"] .page-header .content-meta { display: none; }
   position: sticky; top: 0; z-index: 1000;
   width: 100%; margin: 0; padding: 0.55rem 2rem; box-sizing: border-box;
   background: var(--navbar-bg);
-  box-shadow: 0 2px 14px rgba(27, 40, 120, 0.22);
+  border-bottom: 1px solid var(--navbar-border);
+  box-shadow: 0 1px 0 var(--navbar-border);
 }
 .navbar-inner {
   max-width: 1400px; margin: 0 auto;
@@ -224,7 +247,7 @@ body[data-slug="index"] .page-header .content-meta { display: none; }
 }
 .navbar-logo {
   height: 2.4rem; width: auto; display: block; flex: 0 0 auto;
-  filter: drop-shadow(0 1px 3px rgba(20, 28, 90, 0.45));
+  filter: drop-shadow(0 1px 2px rgba(20, 22, 58, 0.14));
 }
 .navbar-links { display: flex; gap: 0.35rem; flex-wrap: wrap; margin-left: auto; }
 .navbar-links a {
@@ -233,7 +256,7 @@ body[data-slug="index"] .page-header .content-meta { display: none; }
   padding: 0.32rem 0.7rem; border-radius: 999px; text-decoration: none !important;
   transition: background 0.15s ease, color 0.15s ease;
 }
-.navbar-links a:hover { background: var(--accent-orange); color: #1a1320 !important; }
+.navbar-links a:hover { background: var(--highlight); color: var(--secondary) !important; }
 .navbar-toggle { display: none; background: none; border: 0; color: var(--navbar-fg); font-size: 1.3rem; cursor: pointer; }
 @media all and (max-width: 800px) {
   .navbar-links a { font-size: 0.85rem; padding: 0.28rem 0.55rem; }
@@ -371,4 +394,110 @@ table.paged-table .flag { margin-right: 0.15em; }
 }
 .note-properties-tags .tag-link {
   white-space: nowrap;
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
+//  Homepage hero (index.md) — bespoke layout from the "Redesign Raccolta Gare"
+//  mockup. Only rendered on the index; scoped so it never leaks to concept pages.
+// ═══════════════════════════════════════════════════════════════════════════
+body[data-slug="index"] {
+  // section-title accents & article underline are redundant with the hero
+  .center > article > h1:first-of-type { border-bottom: none; }
+}
+.home-hero, .home-section, .home-modes { margin: 0 0 2.2rem; }
+.home-hero a, .home-section a, .home-modes a { background-image: none; } // kill the link underline-grow inside cards
+
+// ─── Hero ───
+.home-hero {
+  display: grid; grid-template-columns: 1.3fr 1fr; gap: 2.6rem; align-items: center;
+  background: linear-gradient(180deg, var(--panel) 0%, transparent 100%);
+  border-radius: 20px; padding: 2.4rem 2rem; margin-top: 0.5rem;
+}
+.home-eyebrow {
+  font-family: var(--codeFont); font-weight: 500; font-size: 0.72rem;
+  letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent-deep); margin-bottom: 0.9rem;
+}
+.home-title {
+  font-family: var(--titleFont); font-weight: 600; font-size: clamp(2rem, 4.4vw, 3.1rem);
+  line-height: 1.06; letter-spacing: -0.025em; color: var(--ink); margin: 0 0 1rem;
+}
+.home-lede { font-size: 1.06rem; line-height: 1.55; color: var(--darkgray); max-width: 34rem; margin: 0 0 1.4rem; }
+.home-lede b { color: var(--ink); }
+.home-searchcta {
+  display: flex; align-items: center; gap: 0.6rem; max-width: 36rem;
+  background: var(--light); border: 1.5px solid var(--accent-blue); border-radius: 14px;
+  padding: 0.85rem 1rem; box-shadow: 0 10px 30px rgba(0, 40, 255, 0.1); color: inherit;
+}
+.home-searchcta:hover { box-shadow: 0 12px 34px rgba(0, 40, 255, 0.18); }
+.home-searchcta-ic { color: var(--accent-blue); font-size: 1.1rem; }
+.home-searchcta-ph { color: var(--gray); font-size: 0.95rem; }
+.home-searchcta-go {
+  margin-left: auto; background: var(--accent-cyan); color: var(--ink);
+  font-family: var(--titleFont); font-weight: 600; font-size: 0.82rem;
+  padding: 0.45rem 0.9rem; border-radius: 9px; white-space: nowrap;
+}
+.home-hero-alt { display: flex; flex-wrap: wrap; gap: 0.4rem 1rem; margin-top: 1rem; font-size: 0.88rem; color: var(--gray); }
+
+// ─── Stat cards ───
+.home-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; }
+.home-stat {
+  background: var(--light); border: 1px solid var(--lightgray); border-radius: 16px; padding: 1.3rem 1.3rem 1.1rem;
+}
+.home-stat-n { font-family: var(--titleFont); font-weight: 600; font-size: 2.1rem; color: var(--accent-blue); line-height: 1; }
+.home-stat-l { font-size: 0.82rem; color: var(--gray); margin-top: 0.35rem; }
+.home-stat--accent { background: var(--accent-deep); border-color: var(--accent-deep); }
+.home-stat--accent .home-stat-n { color: var(--accent-cyan); }
+.home-stat--accent .home-stat-l { color: #c9cff6; }
+
+// ─── Section heading ───
+.home-section-head { display: flex; align-items: baseline; gap: 0.9rem; margin-bottom: 1.1rem; }
+.home-section-head h2 {
+  font-family: var(--titleFont); font-weight: 600; font-size: 1.5rem; letter-spacing: -0.01em; margin: 0;
+}
+.home-section-head a { margin-left: auto; font-size: 0.88rem; }
+
+// ─── Area grid ───
+.home-areas { display: grid; grid-template-columns: repeat(auto-fill, minmax(11.5rem, 1fr)); gap: 0.85rem; }
+.home-area {
+  display: block; background: var(--light); border: 1px solid var(--lightgray); border-radius: 16px;
+  padding: 1.2rem; color: var(--ink); transition: border-color 0.15s ease, transform 0.15s ease;
+}
+.home-area:hover { border-color: var(--accent-blue); transform: translateY(-2px); color: var(--ink); }
+.home-area img {
+  width: 2.6rem; height: 2.6rem; margin-bottom: 0.7rem;
+  border: none; background: none; padding: 0; box-shadow: none; border-radius: 0;
+}
+.home-area-n { font-family: var(--titleFont); font-weight: 600; font-size: 1.02rem; }
+.home-area-m { font-family: var(--codeFont); font-size: 0.72rem; color: var(--gray); margin-top: 0.25rem; }
+
+// ─── Explore-mode cards ───
+.home-modes { display: grid; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); gap: 0.85rem; }
+.home-mode {
+  display: block; background: var(--panel); border-radius: 16px; padding: 1.35rem; color: var(--ink);
+  transition: transform 0.15s ease;
+}
+.home-mode:hover { transform: translateY(-2px); color: var(--ink); }
+.home-mode-k {
+  font-family: var(--codeFont); font-weight: 500; font-size: 0.66rem; letter-spacing: 0.12em;
+  text-transform: uppercase; color: var(--accent-deep); margin-bottom: 0.6rem;
+}
+.home-mode-t { font-family: var(--titleFont); font-weight: 600; font-size: 1.05rem; }
+.home-mode-d { font-size: 0.84rem; color: var(--darkgray); margin-top: 0.4rem; line-height: 1.45; }
+.home-mode--graph {
+  background: var(--ink); color: #fff;
+}
+.home-mode--graph .home-mode-k { color: var(--accent-cyan); }
+.home-mode--graph .home-mode-d { color: #b9bdde; }
+
+[saved-theme="dark"] {
+  .home-mode--graph { background: #16113b; }
+  .home-searchcta { border-color: var(--accent-cyan); box-shadow: 0 10px 34px rgba(16, 234, 240, 0.12); }
+  .home-searchcta-ic { color: var(--accent-cyan); }
+  .home-stat-n { color: var(--secondary); }
+  .home-stat--accent { background: #16113b; }
+  .home-stat--accent .home-stat-n { color: var(--accent-cyan); }
+}
+
+@media all and (max-width: 750px) {
+  .home-hero { grid-template-columns: 1fr; gap: 1.6rem; padding: 1.6rem 1.2rem; }
 }

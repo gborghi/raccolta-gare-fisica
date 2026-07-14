@@ -4,7 +4,9 @@ configuration:
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-  analytics: null
+  analytics:
+    provider: goatcounter
+    websiteId: gborghi83-olifis
   locale: it-IT
   baseUrl: gborghi.github.io/raccolta-gare-fisica
   ignorePatterns:
@@ -17,30 +19,32 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Fraunces
-      body: Figtree
+      header: Space Grotesk
+      body: Instrument Sans
       code: Spline Sans Mono
     colors:
+      # Redesign "Raccolta Gare" — blu/ciano palette (blue #0028FF, deep #24009C,
+      # cyan #10EAF0, ink #14163A on warm off-white #FAFAF3).
       lightMode:
-        light: "#fff6ec"
-        lightgray: "#ecdfcd"
-        gray: "#9c8d77"
-        darkgray: "#39342c"
-        dark: "#191a2e"
-        secondary: "#1f3bd1"
-        tertiary: "#f0852a"
-        highlight: rgba(31, 59, 209, 0.08)
-        textHighlight: "#f5c84b99"
+        light: "#fafaf3"
+        lightgray: "#e3e6d3"
+        gray: "#8a8da8"
+        darkgray: "#43466b"
+        dark: "#14163a"
+        secondary: "#0028ff"
+        tertiary: "#24009c"
+        highlight: rgba(0, 40, 255, 0.06)
+        textHighlight: "#10eaf066"
       darkMode:
-        light: "#14152b"
-        lightgray: "#2d2f55"
-        gray: "#8a8db5"
-        darkgray: "#d9d7ea"
-        dark: "#f7f1e6"
-        secondary: "#8aa4ff"
-        tertiary: "#ffb05a"
-        highlight: rgba(138, 164, 255, 0.12)
-        textHighlight: "#f5c84b55"
+        light: "#0c0827"
+        lightgray: "#2a2550"
+        gray: "#7a7fa8"
+        darkgray: "#9ca2c8"
+        dark: "#edeffa"
+        secondary: "#8fa2ff"
+        tertiary: "#10eaf0"
+        highlight: rgba(143, 162, 255, 0.12)
+        textHighlight: "#10eaf033"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true

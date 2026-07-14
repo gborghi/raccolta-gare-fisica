@@ -273,6 +273,36 @@ body[data-lsb="open"] #nav-scrim { opacity: 1; pointer-events: auto; }
 .search > .search-container { z-index: 1200 !important; }
 .search > .search-container > .search-space { margin-top: calc(var(--navbar-h) + 2.5rem) !important; }
 
+// ─── Reclaim the left grid column (the rail is a fixed drawer now) ───
+// base.scss only sets `grid-area: grid-center` on `.center > article`, so `.center`
+// itself is auto-placed. With the left rail removed from flow, `.center` fell into
+// the freed 320px left track and squeezed all content to the left. Pin `.center` to
+// the center track and zero the (empty) left sidebar column.
+#quartz-root .center { grid-area: grid-center; }
+@media all and (min-width: 1200px) {          // $desktop
+  #quartz-root > #quartz-body { grid-template-columns: 0 minmax(0, 1fr) 320px !important; }
+}
+@media all and (min-width: 800px) and (max-width: 1200px) {  // $tablet (no right rail)
+  #quartz-root > #quartz-body { grid-template-columns: 0 minmax(0, 1fr) !important; }
+}
+
+// Homepage + Cerca: full-width, no right rail (mockup 1a / 1b).
+body[data-slug="index"] .right.sidebar,
+body[data-slug="cerca"] .right.sidebar { display: none !important; }
+// Homepage content capped + centered (mockup is a ~1280px centered canvas).
+body[data-slug="index"] .center {
+  min-width: 0 !important; max-width: 1220px !important;
+  margin-left: auto !important; margin-right: auto !important;
+}
+@media all and (min-width: 1200px) {
+  body[data-slug="index"] #quartz-root > #quartz-body,
+  body[data-slug="cerca"] #quartz-root > #quartz-body { grid-template-columns: 0 minmax(0, 1fr) 0 !important; }
+}
+@media all and (min-width: 800px) and (max-width: 1200px) {
+  body[data-slug="index"] #quartz-root > #quartz-body,
+  body[data-slug="cerca"] #quartz-root > #quartz-body { grid-template-columns: 0 minmax(0, 1fr) !important; }
+}
+
 // Homepage: the site title already lives in the navbar brand — don't repeat it as the
 // big page heading (the per-page article-title would duplicate the site name on the index).
 body[data-slug="index"] .page-header .article-title,

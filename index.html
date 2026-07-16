@@ -161,6 +161,45 @@ pre:hover > .expand-button {
   try { if (localStorage.getItem("rgf-sidebar") === "open") { body.setAttribute("data-lsb","open"); } } catch(e){}
   syncToggle(body.hasAttribute("data-lsb"));
 
+  // Force explorer folders COLLAPSED on every (re)render. The explorer fork auto-opens
+  // the folder containing the current page (folderIsPrefixOfCurrentSlug in its inline
+  // script) and can't be configured off. Open state lives ONLY in the .open class on
+  // .folder-outer, and the fork's own toggle handlers read that class, so stripping
+  // .open right after a render is desync-safe. We observe childList additions (i.e. the
+  // explorer rebuilding its tree) and strip; a user's icon-toggle is an attribute change,
+  // which this observer ignores, so manually-opened folders stay open until navigation.
+  function stripAutoOpen(scope){
+    var opened = scope.querySelectorAll(".folder-outer.open");
+    for (var i = 0; i < opened.length; i++) opened[i].classList.remove("open");
+  }
+  function attachExplorerCollapse(){
+    var uls = document.querySelectorAll(".explorer-ul");
+    for (var j = 0; j < uls.length; j++){
+      (function(ul){
+        if (ul.__rgfCollapseObs){ stripAutoOpen(ul); return; }
+        var obs = new MutationObserver(function(muts){
+          for (var k = 0; k < muts.length; k++){
+            var added = muts[k].addedNodes;
+            for (var n = 0; n < added.length; n++){
+              var el = added[n];
+              if (!el || el.nodeType !== 1) continue;
+              if ((el.classList && el.classList.contains("folder-outer")) ||
+                  (el.querySelector && el.querySelector(".folder-outer.open"))){
+                stripAutoOpen(ul); return;
+              }
+            }
+          }
+        });
+        obs.observe(ul, { childList: true, subtree: true });
+        ul.__rgfCollapseObs = obs;
+        stripAutoOpen(ul);
+      })(uls[j]);
+    }
+  }
+  attachExplorerCollapse();
+  document.addEventListener("nav", function(){ setTimeout(attachExplorerCollapse, 0); });
+  document.addEventListener("render", function(){ setTimeout(attachExplorerCollapse, 0); });
+
   document.addEventListener("click", function(e){
     var t = e.target;
     if (!t || !t.closest) return;
@@ -173,6 +212,16 @@ pre:hover > .expand-button {
       root.setAttribute("saved-theme", next);
       try { localStorage.setItem("theme", next); } catch(e2){}
       document.dispatchEvent(new CustomEvent("themechange", { detail: { theme: next } }));
+      return;
+    }
+    if (t.closest("#home-graph-open")){
+      // Homepage "Grafo della conoscenza" card: open the global-graph modal by
+      // clicking the graph plugin's own trigger. The graph lives in the right rail
+      // (display:none on the index page) but .click() still fires its handler and
+      // the position:fixed overlay opens. If the trigger is missing, do nothing here
+      // and let the anchor's href (cerca) act as the fallback.
+      var gg = document.querySelector(".global-graph-icon");
+      if (gg) { e.preventDefault(); gg.click(); }
       return;
     }
     if (t.closest("#nav-search")){
@@ -228,7 +277,8 @@ pre:hover > .expand-button {
   <a class="home-mode internal internal-link" href="./topics" data-slug="topics"><div class="home-mode-k">CARTELLA TOPICS</div><div class="home-mode-t">Argomenti</div><div class="home-mode-d">Dai circuiti alla relatività ristretta: 28 argomenti trasversali alle gare.</div></a>
   <a class="home-mode internal internal-link" href="./methods" data-slug="methods"><div class="home-mode-k">CARTELLA METHODS</div><div class="home-mode-t">Metodi risolutivi</div><div class="home-mode-d">Leggi di Kirchhoff, conservazioni, analisi dimensionale e altri approcci.</div></a>
   <a class="home-mode internal internal-link" href="./skills" data-slug="skills"><div class="home-mode-k">CARTELLA SKILLS</div><div class="home-mode-t">Abilità</div><div class="home-mode-d">Modellizzazione matematica, stime, lettura di grafici: le competenze in gioco.</div></a>
-  <div class="home-mode home-mode--graph"><div class="home-mode-k">GRAFO · 220 NODI LOCALI</div><div class="home-mode-t">Grafo della conoscenza</div><div class="home-mode-d">Ogni concetto è collegato via wikilink. Aprilo da qualsiasi pagina dalla barra laterale.</div></div>
+  <a class="home-mode internal internal-link" href="./objects" data-slug="objects"><div class="home-mode-k">CARTELLA OBJECTS</div><div class="home-mode-t">Oggetti</div><div class="home-mode-d">Piano inclinato, condensatore, lente, gas ideale: 58 oggetti fisici ricorrenti.</div></a>
+  <a class="home-mode home-mode--graph internal internal-link" id="home-graph-open" role="button" href="./cerca" data-router-ignore data-slug="cerca"><div class="home-mode-k">GRAFO · 220 NODI LOCALI</div><div class="home-mode-t">Grafo della conoscenza</div><div class="home-mode-d">Ogni concetto è collegato via wikilink. Aprilo qui o dalla barra laterale di ogni pagina.</div></a>
 </section>
 <p>Usa la <strong><a href="./cerca" class="internal internal-link alias" data-slug="cerca">ricerca per più tag</a></strong> per filtrare i 16888 quesiti classificati combinando gara, anno, livello, difficoltà, area, argomento, metodo e abilità. In alternativa: ricerca testuale (in alto) o il <strong>grafo</strong> della conoscenza. Ogni elenco nelle pagine-concetto è navigabile via wikilink.</p>
 <h2 id="crediti-e-fonti">Crediti e fonti<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#crediti-e-fonti" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>

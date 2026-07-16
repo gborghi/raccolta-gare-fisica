@@ -47,6 +47,45 @@ const NAV_SCRIPT = `
   try { if (localStorage.getItem("rgf-sidebar") === "open") { body.setAttribute("data-lsb","open"); } } catch(e){}
   syncToggle(body.hasAttribute("data-lsb"));
 
+  // Force explorer folders COLLAPSED on every (re)render. The explorer fork auto-opens
+  // the folder containing the current page (folderIsPrefixOfCurrentSlug in its inline
+  // script) and can't be configured off. Open state lives ONLY in the .open class on
+  // .folder-outer, and the fork's own toggle handlers read that class, so stripping
+  // .open right after a render is desync-safe. We observe childList additions (i.e. the
+  // explorer rebuilding its tree) and strip; a user's icon-toggle is an attribute change,
+  // which this observer ignores, so manually-opened folders stay open until navigation.
+  function stripAutoOpen(scope){
+    var opened = scope.querySelectorAll(".folder-outer.open");
+    for (var i = 0; i < opened.length; i++) opened[i].classList.remove("open");
+  }
+  function attachExplorerCollapse(){
+    var uls = document.querySelectorAll(".explorer-ul");
+    for (var j = 0; j < uls.length; j++){
+      (function(ul){
+        if (ul.__rgfCollapseObs){ stripAutoOpen(ul); return; }
+        var obs = new MutationObserver(function(muts){
+          for (var k = 0; k < muts.length; k++){
+            var added = muts[k].addedNodes;
+            for (var n = 0; n < added.length; n++){
+              var el = added[n];
+              if (!el || el.nodeType !== 1) continue;
+              if ((el.classList && el.classList.contains("folder-outer")) ||
+                  (el.querySelector && el.querySelector(".folder-outer.open"))){
+                stripAutoOpen(ul); return;
+              }
+            }
+          }
+        });
+        obs.observe(ul, { childList: true, subtree: true });
+        ul.__rgfCollapseObs = obs;
+        stripAutoOpen(ul);
+      })(uls[j]);
+    }
+  }
+  attachExplorerCollapse();
+  document.addEventListener("nav", function(){ setTimeout(attachExplorerCollapse, 0); });
+  document.addEventListener("render", function(){ setTimeout(attachExplorerCollapse, 0); });
+
   document.addEventListener("click", function(e){
     var t = e.target;
     if (!t || !t.closest) return;
@@ -59,6 +98,16 @@ const NAV_SCRIPT = `
       root.setAttribute("saved-theme", next);
       try { localStorage.setItem("theme", next); } catch(e2){}
       document.dispatchEvent(new CustomEvent("themechange", { detail: { theme: next } }));
+      return;
+    }
+    if (t.closest("#home-graph-open")){
+      // Homepage "Grafo della conoscenza" card: open the global-graph modal by
+      // clicking the graph plugin's own trigger. The graph lives in the right rail
+      // (display:none on the index page) but .click() still fires its handler and
+      // the position:fixed overlay opens. If the trigger is missing, do nothing here
+      // and let the anchor's href (cerca) act as the fallback.
+      var gg = document.querySelector(".global-graph-icon");
+      if (gg) { e.preventDefault(); gg.click(); }
       return;
     }
     if (t.closest("#nav-search")){

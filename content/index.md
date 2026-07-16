@@ -40,7 +40,8 @@ title: Raccolta Gare di Fisica
   <a class="home-mode" href="topics"><div class="home-mode-k">CARTELLA TOPICS</div><div class="home-mode-t">Argomenti</div><div class="home-mode-d">Dai circuiti alla relatività ristretta: 28 argomenti trasversali alle gare.</div></a>
   <a class="home-mode" href="methods"><div class="home-mode-k">CARTELLA METHODS</div><div class="home-mode-t">Metodi risolutivi</div><div class="home-mode-d">Leggi di Kirchhoff, conservazioni, analisi dimensionale e altri approcci.</div></a>
   <a class="home-mode" href="skills"><div class="home-mode-k">CARTELLA SKILLS</div><div class="home-mode-t">Abilità</div><div class="home-mode-d">Modellizzazione matematica, stime, lettura di grafici: le competenze in gioco.</div></a>
-  <div class="home-mode home-mode--graph"><div class="home-mode-k">GRAFO · 220 NODI LOCALI</div><div class="home-mode-t">Grafo della conoscenza</div><div class="home-mode-d">Ogni concetto è collegato via wikilink. Aprilo da qualsiasi pagina dalla barra laterale.</div></div>
+  <a class="home-mode" href="objects"><div class="home-mode-k">CARTELLA OBJECTS</div><div class="home-mode-t">Oggetti</div><div class="home-mode-d">Piano inclinato, condensatore, lente, gas ideale: 58 oggetti fisici ricorrenti.</div></a>
+  <a class="home-mode home-mode--graph" id="home-graph-open" role="button" href="cerca" data-router-ignore><div class="home-mode-k">GRAFO · 220 NODI LOCALI</div><div class="home-mode-t">Grafo della conoscenza</div><div class="home-mode-d">Ogni concetto è collegato via wikilink. Aprilo qui o dalla barra laterale di ogni pagina.</div></a>
 </section>
 
 Usa la **[ricerca per più tag](cerca)** per filtrare i 16888 quesiti classificati combinando gara, anno, livello, difficoltà, area, argomento, metodo e abilità. In alternativa: ricerca testuale (in alto) o il **grafo** della conoscenza. Ogni elenco nelle pagine-concetto è navigabile via wikilink.

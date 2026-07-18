@@ -114,7 +114,12 @@ plugins:
   - source: github:quartz-community/folder-page
     enabled: true
   - source: github:quartz-community/tag-page
-    enabled: true
+    # Disabled (Task 6.2): the native aggregate tags/*.html pages balloon to
+    # ~12MB each and duplicate /cerca, which is the real per-tag/faceted
+    # tool (per-atom, not per-page). Tag links across the site are repointed
+    # to /cerca by scripts/patch-tag-links-fork.mjs (gitignored plugin
+    # forks) + quartz/components/PageList.tsx (in-repo, currently unused).
+    enabled: false
   - source: github:gborghi/explorer
     enabled: true
     layout:

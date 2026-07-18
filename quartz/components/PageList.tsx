@@ -88,7 +88,13 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                   <li>
                     <a
                       class="internal tag-link"
-                      href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
+                      // Task 6.2: native tag pages are disabled (tags/*.html
+                      // aggregate monsters, ~12MB) -- /cerca is the per-tag
+                      // tool (faceted, per-atom). See
+                      // scripts/patch-tag-links-fork.mjs for the equivalent
+                      // repoint applied to the (gitignored) plugin forks
+                      // that actually render tag links.
+                      href={resolveRelative(fileData.slug!, "cerca" as FullSlug)}
                     >
                       {tag}
                     </a>

@@ -240,6 +240,17 @@ function transform(content) {
   // turn **Fonte/Risposta/Soluzione** PDF wikilinks into plain text (no public PDFs)
   content = content.replace(/\[\[[^\]]*\.pdf(?:#[^\]|]*)?(?:\|([^\]]*))?\]\]/gi, (full, alias) => alias || "")
   content = content.replace(/ ·\s*$/gm, "")
+  // SPA: atom-target wikilinks ([[<stem>__<atomId>...]]) no longer resolve to
+  // their own page -- repoint to the fragment section prove/<stem>#<atomId> on
+  // the container reader page. Applied globally here (transform() runs for every
+  // page's body) so cross-references from soluzioni pages and concept-page prose
+  // are covered too, not just links inside prove atom bodies. "__" in a wikilink
+  // basename is reserved for the frozen atom-naming convention, so this never
+  // matches concept/topic/method/skill wikilinks (which don't contain "__").
+  content = content.replace(
+    /\[\[([^\]|#]+?)__([a-z0-9]+)((?:#[^\]|]*)?)(\|[^\]]*)?\]\]/gi,
+    (full, st, aid, _h, alias) => `[[prove/${sluggify(st)}#${aid.toLowerCase()}${alias || ""}]]`
+  )
   return content
 }
 

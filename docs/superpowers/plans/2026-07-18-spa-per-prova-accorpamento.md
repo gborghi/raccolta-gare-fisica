@@ -454,63 +454,78 @@ git commit -m "feat(spa): rewrite atom-to-atom wikilinks to fragments"
 
 ---
 
-## Phase 4 -- Per-atom search bar (tf-idf, two tiers)
+## Phase 4 -- Per-atom search bar (tf-idf, full-index + projections)
 
-Deliverable: the top search bar returns per-atom hits that open `prove/<stem>#<atomId>`; the desktop index is ~15 MB, the mobile index ~8 MB, both < 25 MiB.
+Deliverable: the top search bar returns per-atom hits that open `prove/<stem>#<atomId>`; the shipped desktop index is ~15 MB, the shipped mobile index ~8 MB, both < 25 MiB. Both are size-driven **projections** of a rich **full index** that is generated once and kept OUT of the website.
 
-### Task 4.1: Emit a per-atom search-index source from preprocess
+**Design (locked with the user):** preprocess builds ONE full offline index carrying, per atom, ALL its terms with their tf-idf scores plus corpus stats (`df`, `N`). That file is never deployed. Two projection scripts read the full index and, each run, select as many top-ranking terms as fit the target size, writing the shipped desktop/mobile indices. Re-tuning a shipped size therefore never re-parses the vault -- it only re-projects from the full index.
+
+### Task 4.1: Emit the FULL offline search index from preprocess
 
 **Files:**
-- Modify: `preprocess.mjs` -- after the container pass, write `staticgen/atoms_search.json`.
+- Modify: `preprocess.mjs` -- after the container pass, write `staticgen/atoms_fullindex.json`. NOT shipped: `staticgen/` is not auto-copied to `public/`; only named files are (Phase 7 copies `cl/`, `quesiti.json`, `quesiti_kw.json` -- NOT the full index).
 - Reference: English `keywordCounts` (`preprocess.mjs:247`) and `topTfIdf` (`preprocess.mjs:266`).
 
 **Interfaces:**
-- Produces: `staticgen/atoms_search.json` = map `id -> { slug, frag, title, tags, terms }` where `id = "prove/<stem>#<atomId>"`, `slug = "prove/<stem>"` (clean path), `frag = "<atomId>"`, `terms` = string of top-N tf-idf terms.
+- Produces: `staticgen/atoms_fullindex.json` =
+  `{ N: <atom count>, df: { <term>: <doc-freq> }, atoms: { <id>: { slug, frag, title, tags, terms: [[term, tfidf], ...] } } }`
+  where `id = "prove/<stem>#<atomId>"`, `slug = "prove/<stem>"` (clean path, no `#`), `frag = "<atomId>"`, and `terms` is ALL of the atom's terms sorted by tf-idf descending. Carries `df`/`N` so a projection can recompute or threshold at any budget without the vault.
+- Produces (in-memory, consumed here): `atomMeta: Map<id, {title, tags}>` populated in the container pass.
 
 - [ ] **Step 1: Write the failing test.** `test/spa-search-source.test.mjs`:
 ```js
 import { test } from "node:test"; import assert from "node:assert/strict"; import fs from "node:fs"
-test("atoms_search.json has clean slug + frag, no # in slug", () => {
-  const m = JSON.parse(fs.readFileSync("staticgen/atoms_search.json", "utf8"))
-  const vals = Object.values(m)
+test("atoms_fullindex.json: full per-atom terms + corpus stats", () => {
+  const m = JSON.parse(fs.readFileSync("staticgen/atoms_fullindex.json", "utf8"))
+  assert.ok(m.N > 10000, "corpus size N present")
+  assert.ok(m.df && typeof m.df === "object", "df map present")
+  const vals = Object.values(m.atoms)
   assert.ok(vals.length > 10000, "has per-atom entries")
   assert.ok(vals.every((v) => !v.slug.includes("#")), "slug is a clean path")
-  assert.ok(vals.every((v) => v.frag && v.terms !== undefined), "frag + terms present")
+  assert.ok(vals.every((v) => v.frag && Array.isArray(v.terms)), "frag + terms[] present")
+  // terms are [term, score] pairs sorted desc
+  const t = vals.find((v) => v.terms.length >= 2).terms
+  assert.ok(Array.isArray(t[0]) && t[0].length === 2, "term entries are [term, score]")
+  assert.ok(t[0][1] >= t[1][1], "terms sorted by score desc")
 })
 ```
 
 - [ ] **Step 2: Run, verify it fails.**
 
-- [ ] **Step 3: Implement.** Port `keywordCounts` (term -> count within an atom body, using the existing physics `STOPWORDS` at `preprocess.mjs:69`) and `topTfIdf` (given `countsByKey`, compute df per term, score `tf * log(N/df)`, keep top-N per key). In the container pass, accumulate `counts[id] = keywordCounts(body)`; after the pass:
+- [ ] **Step 3: Implement.** Port `keywordCounts` (term -> count within an atom body, using the existing physics `STOPWORDS` at `preprocess.mjs:69`). In the container pass, accumulate `counts[id] = keywordCounts(body)` and `atomMeta.set(id, {title, tags})`. After the pass compute the full index (keep ALL terms, do not truncate to a small N -- an optional high safety cap like 300 terms/atom is fine to bound pathological atoms):
 ```js
-const N_TERMS = 60   // starting point; Task 4.2 tunes to hit the size budget
-const topTerms = topTfIdf(counts, N_TERMS)   // id -> "term term term"
-const atomsSearch = {}
-for (const [id, terms] of Object.entries(topTerms)) {
+const N = Object.keys(counts).length
+const df = {}
+for (const c of Object.values(counts)) for (const t of c.keys()) df[t] = (df[t] || 0) + 1
+const atoms = {}
+for (const [id, c] of Object.entries(counts)) {
   const [slug, frag] = id.split("#")
   const rec = atomMeta.get(id) || {}
-  atomsSearch[id] = { slug, frag, title: rec.title || frag, tags: rec.tags || [], terms }
+  const terms = [...c.entries()]
+    .map(([t, tf]) => [t, tf * Math.log(N / df[t])])
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 300)                       // high safety cap; NOT the shipped size
+  atoms[id] = { slug, frag, title: rec.title || frag, tags: rec.tags || [], terms }
 }
-await fs.writeFile(path.join(STATIC_GEN, "atoms_search.json"), JSON.stringify(atomsSearch))
+await fs.writeFile(path.join(STATIC_GEN, "atoms_fullindex.json"), JSON.stringify({ N, df, atoms }))
 ```
-(Store `atomMeta.set(id, {title, tags})` in the container pass so titles/tags are available here.)
 
-- [ ] **Step 4: Run preprocess + test, verify PASS.**
+- [ ] **Step 4: (controller, phase gate) Run preprocess + test, verify PASS.**
 
 - [ ] **Step 5: Commit.**
 ```bash
 git add preprocess.mjs test/spa-search-source.test.mjs
-git commit -m "feat(spa): emit per-atom tf-idf search source (atoms_search.json)"
+git commit -m "feat(spa): emit full offline tf-idf search index (atoms_fullindex.json)"
 ```
 
-### Task 4.2: Build desktop contentIndex packed to ~15 MB
+### Task 4.2: Project the shipped desktop index (~15 MB) from the full index
 
 **Files:**
-- Create: `scripts/make-search-index.mjs`.
+- Create: `scripts/make-search-index.mjs` -- a single script that emits BOTH shipped tiers (desktop here; the mobile budget is Task 4.3, same script, second output).
 
 **Interfaces:**
-- Consumes: `staticgen/atoms_search.json`.
-- Produces: `public/static/contentIndex.json` = map `id -> { slug, frag, title, tags, content, links }` sized to ~15 MB by growing terms-per-atom until the budget is filled.
+- Consumes: `staticgen/atoms_fullindex.json`.
+- Produces: `public/static/contentIndex.json` = map `id -> { slug, frag, title, tags, content, links }` where `content` is the space-joined subset of the atom's terms selected to FILL ~15 MB. Selection is a **global tf-idf threshold**: keep every term with score >= T; binary-search T so the whole file lands near the budget. Lower T -> more terms -> bigger file. This keeps the most informative terms corpus-wide and gives variable terms/atom (a term-rich atom keeps more). Re-runnable anytime without preprocess.
 
 - [ ] **Step 1: Write the failing test.** `test/spa-index-size.test.mjs`:
 ```js
@@ -527,67 +542,76 @@ test("desktop index ~15MB and < 25MiB", () => {
 
 - [ ] **Step 3: Implement `scripts/make-search-index.mjs`.**
 ```js
-// Post-build: assemble the per-atom desktop search index, filling the ~15MB budget.
-import fs from "fs"; import path from "path"
-const BUDGET = 15 * 1e6
-const src = JSON.parse(fs.readFileSync("staticgen/atoms_search.json", "utf8"))
-const entries = Object.entries(src)
-// Greedy fill: increase kept-terms per atom until total size approaches BUDGET.
-function build(termCap) {
+// Post-preprocess: project the shipped search indices from the full offline index.
+// Desktop ~15MB, mobile ~8MB. Selection = global tf-idf threshold, binary-searched
+// to fill each budget. Re-runnable without re-parsing the vault.
+import fs from "fs"
+const full = JSON.parse(fs.readFileSync("staticgen/atoms_fullindex.json", "utf8"))
+const entries = Object.entries(full.atoms)
+
+function project(threshold) {
   const out = {}
   for (const [id, v] of entries) {
-    const terms = v.terms.split(" ").slice(0, termCap).join(" ")
-    out[id] = { slug: v.slug, frag: v.frag, title: v.title, tags: v.tags, content: terms, links: [] }
+    const content = v.terms.filter(([, s]) => s >= threshold).map(([t]) => t).join(" ")
+    out[id] = { slug: v.slug, frag: v.frag, title: v.title, tags: v.tags, content, links: [] }
   }
   return out
 }
-let lo = 5, hi = 200, best = build(hi)
-for (let i = 0; i < 8; i++) {              // binary search term cap to hit budget
-  const mid = (lo + hi) >> 1
-  const cand = build(mid)
-  const size = Buffer.byteLength(JSON.stringify(cand))
-  if (size > BUDGET) hi = mid; else { lo = mid; best = cand }
+// term scores span (0, maxScore]; binary-search the threshold to hit the byte budget.
+function build(budget, outPath, label) {
+  let lo = 0, hi = Math.max(...entries.flatMap(([, v]) => v.terms.map(([, s]) => s)), 1)
+  let best = project(hi)                       // hi threshold -> fewest terms -> smallest
+  for (let i = 0; i < 24; i++) {
+    const mid = (lo + hi) / 2
+    const cand = project(mid)
+    const size = Buffer.byteLength(JSON.stringify(cand))
+    if (size > budget) lo = mid; else { hi = mid; best = cand }  // lower threshold grows file
+  }
+  fs.writeFileSync(outPath, JSON.stringify(best))
+  console.log(label, (Buffer.byteLength(JSON.stringify(best)) / 1e6).toFixed(1), "MB")
 }
-fs.writeFileSync("public/static/contentIndex.json", JSON.stringify(best))
-console.log("desktop index", (Buffer.byteLength(JSON.stringify(best)) / 1e6).toFixed(1), "MB")
+build(15e6, "public/static/contentIndex.json", "desktop index")
+build(8e6, "public/static/contentIndexMobile.json", "mobile index")   // Task 4.3
 ```
-(If N_TERMS in Task 4.1 caps below what fills 15 MB, raise it so the greedy fill has headroom.)
+(Note: lower threshold -> MORE terms kept -> larger file, so the search direction is `size>budget ? raise floor : lower floor`. Verify the direction against a real run at the gate; adjust the 24-iteration bound if convergence is loose.)
 
-- [ ] **Step 4: Run `node scripts/make-search-index.mjs` after a build; run the test, verify PASS.**
+- [ ] **Step 4: (controller, phase gate) Run `node scripts/make-search-index.mjs` after preprocess; run the test, verify PASS.**
 
 - [ ] **Step 5: Commit.**
 ```bash
 git add scripts/make-search-index.mjs test/spa-index-size.test.mjs
-git commit -m "feat(spa): build desktop per-atom search index filled to ~15MB"
+git commit -m "feat(spa): project shipped desktop search index (~15MB) from full index"
 ```
 
-### Task 4.3: Derive the mobile index (~8 MB)
+### Task 4.3: Project the shipped mobile index (~8 MB)
 
 **Files:**
-- Create: `scripts/make-mobile-index.mjs` (port English's, budget-driven).
+- Modify: `scripts/make-search-index.mjs` -- the second `build(8e6, ...)` call above already emits `public/static/contentIndexMobile.json`. This task just adds the mobile size test + verifies both tiers.
 
 **Interfaces:**
-- Consumes: `public/static/contentIndex.json`.
+- Consumes: `staticgen/atoms_fullindex.json` (same source as desktop -- NOT derived from the desktop file, so mobile keeps independent, correctly-thresholded terms).
 - Produces: `public/static/contentIndexMobile.json` ~8 MB.
 
-- [ ] **Step 1: Write the failing test.**
+- [ ] **Step 1: Write the failing test** (append to `test/spa-index-size.test.mjs`):
 ```js
 test("mobile index ~8MB and < desktop", () => {
   const m = fs.statSync("public/static/contentIndexMobile.json").size
+  const d = fs.statSync("public/static/contentIndex.json").size
   assert.ok(m <= 9 * 1e6 && m >= 6.5 * 1e6, "near 8MB, got " + m)
+  assert.ok(m < d, "mobile smaller than desktop")
 })
 ```
 
-- [ ] **Step 2: Run, verify it fails.**
+- [ ] **Step 2: Run, verify it fails** (mobile file not yet produced / test absent).
 
-- [ ] **Step 3: Implement** -- copy English `scripts/make-mobile-index.mjs`, but instead of a fixed `SNIPPET`, binary-search the per-atom term cap to hit an 8 MB budget (same greedy-fill helper as Task 4.2, `BUDGET = 8e6`, reading the desktop index's `content` field and re-trimming terms). Keep `slug`,`frag`,`title`,`tags`,`links:[]`.
+- [ ] **Step 3: Implement** -- confirm the `build(8e6, "public/static/contentIndexMobile.json", "mobile index")` call from Task 4.2 exists and is projected from the SAME `atoms_fullindex.json` (not from the desktop output). No new script.
 
-- [ ] **Step 4: Run + test, verify PASS.**
+- [ ] **Step 4: (controller, phase gate) Run + test, verify PASS.**
 
 - [ ] **Step 5: Commit.**
 ```bash
-git add scripts/make-mobile-index.mjs test/spa-index-size.test.mjs
-git commit -m "feat(spa): derive ~8MB mobile search index"
+git add scripts/make-search-index.mjs test/spa-index-size.test.mjs
+git commit -m "feat(spa): project shipped mobile search index (~8MB) from full index"
 ```
 
 ### Task 4.4: Patch the search fork -- tiered fetch + fragment href
@@ -839,4 +863,4 @@ git commit -m "chore(spa): point baseUrl at Cloudflare Pages"
 1. Fork patches live in gitignored `.quartz/` restored from `quartz.lock.json` -- confirm the `gborghi/*` fork-maintenance flow (Tasks 4.4, 5.1) before editing, or patches vanish on `quartz plugin restore`.
 2. Quartz OFM/crawl-links handling of `path#frag` wikilinks (Task 3.3) -- verify a fragment wikilink renders as expected before mass-applying.
 3. `contentIndex.json` is consumed by search AND graph AND popovers -- Task 4.2 makes it per-atom; confirm popovers (which fetch page HTML, not the index) are unaffected, and that the graph's expectations of the index shape are met (Task 5.1).
-4. The greedy size-fill (4.2/4.3) depends on N_TERMS headroom in 4.1 -- if the index can't reach 15 MB, raise N_TERMS.
+4. Search index resolves per-exercise (`id = prove/<stem>#<atomId>`, clean `slug` + `frag`) and is tf-idf-ranked. The shipped tiers are threshold projections of `atoms_fullindex.json` (which keeps ALL terms + `df`/`N`), so 15 MB headroom is guaranteed; verify the threshold binary-search direction against a real run at the Phase 4 gate (lower threshold must GROW the file).

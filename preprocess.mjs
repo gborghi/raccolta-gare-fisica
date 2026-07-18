@@ -392,7 +392,6 @@ async function main() {
   // agree if both maps are keyed by the same normalized slug.
   const proveAtoms = new Map()   // stem-slug -> [{ rel, base, atomId }]
   const proveParents = new Map() // stem-slug -> rel of the <stem>.md parent (if any)
-  const PROVE_ATOM_RE = /__[a-z]/i
   for (const rel of files) {
     if (!rel.endsWith(".md")) continue
     if (rel.split(path.sep)[0].toLowerCase() !== "prove") continue
@@ -515,11 +514,14 @@ async function main() {
     for (const a of atoms) {
       const raw = await fs.readFile(path.join(VAULT, a.rel), "utf8")
       const pf = parseFrontmatter(raw)
+      // atom title: frontmatter title, else atom body's own H1 (captured before
+      // it's stripped below), else fall back to the raw atomId.
+      const bodyH1 = pf.content.match(/^#\s+(.+?)\s*$/m)
+      const atomTitle = pf.data.title || (bodyH1 ? bodyH1[1].trim() : a.atomId)
       let body = pf.content.replace(/^#\s+.+?[ \t]*(\r?\n|$)/m, "")   // drop leading H1 (title rendered by marker)
       body = transform(body)
       body = mergeSiblings(a.base, body, pf.data.lang || "it", siblings, transform)
       const atags = Array.isArray(pf.data.tags) ? pf.data.tags : []
-      const atomTitle = pf.data.title || a.atomId
       const frag = `${stemSlug}#${a.atomId}`
       atomFrag.set(`prove/${sluggify(a.base)}`, `prove/${frag}`)
       blocks.push(
@@ -528,12 +530,12 @@ async function main() {
         body.trim()
       )
     }
-    const fm = `---\ntitle: ${JSON.stringify(title)}\ntipo: prova\ntags:\n` +
-      ptags.map((t) => `  - ${t}`).join("\n") + `\n---\n\n`
     const mount = `<div class="atom-reader" data-prova="${esc(stemSlug)}"></div>\n`
+    const data = { title, tipo: "prova", tags: ptags }
+    const body = mount + "\n\n" + blocks.join("\n\n")
     const dest = path.join(CONTENT, "prove", `${stemSlug}.md`)
     await fs.mkdir(path.dirname(dest), { recursive: true })
-    await fs.writeFile(dest, fm + mount + blocks.join("\n\n"))
+    await fs.writeFile(dest, matter.stringify(body, data))
     mdWritten++
   }
 

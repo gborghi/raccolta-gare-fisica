@@ -24,9 +24,13 @@ test("one container page per stem, atoms as markers, no per-atom pages", () => {
 // siblings (SIB_RE in preprocess.mjs). Confirmed: Prove/1994e__Q01__it.md is a
 // `tipo: quesito-translation` of Prove/1994e__Q01.md (native lang "en"). Same
 // stem as the test above.
-test("bilingual atom keeps qlang markers inside the reader page", () => {
+test("bilingual atom keeps qlang markers scoped to its own atom block", () => {
   const stem = "1994e"
   const page = path.join(C, stem + ".md")
   const html = fs.readFileSync(page, "utf8")
-  assert.match(html, /qlang-split/)
+  const q01 = html.indexOf('data-atom="q01"')
+  assert.ok(q01 >= 0, "q01 marker present")
+  const nextAtom = html.indexOf('class="atom-split"', q01 + 1)
+  const block = nextAtom >= 0 ? html.slice(q01, nextAtom) : html.slice(q01)
+  assert.match(block, /qlang-split/, "qlang block belongs to q01's atom block, not just somewhere on the page")
 })

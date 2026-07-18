@@ -392,6 +392,11 @@ async function main() {
   // agree if both maps are keyed by the same normalized slug.
   const proveAtoms = new Map()   // stem-slug -> [{ rel, base, atomId }]
   const proveParents = new Map() // stem-slug -> rel of the <stem>.md parent (if any)
+  // old atom slug (prove/<stem>__qnn) -> prove/<stem>#<atomId>. Populated HERE (in
+  // the grouping pass) rather than in the container-emission pass below, because
+  // the main file loop -- which needs it to rewrite quesiti/kw hrefs (Task 3.1) --
+  // runs BEFORE the container pass. This loop already has stem/base/atomId per atom.
+  const atomFrag = new Map()
   for (const rel of files) {
     if (!rel.endsWith(".md")) continue
     if (rel.split(path.sep)[0].toLowerCase() !== "prove") continue
@@ -403,10 +408,10 @@ async function main() {
     const atomId = base.slice(usc + 2).toLowerCase()          // e.g. "q01"
     if (!proveAtoms.has(stem)) proveAtoms.set(stem, [])
     proveAtoms.get(stem).push({ rel, base, atomId })
+    atomFrag.set(`prove/${sluggify(base)}`, `prove/${stem}#${atomId}`)
   }
   for (const list of proveAtoms.values())
     list.sort((a, b) => a.atomId.localeCompare(b.atomId, "en", { numeric: true }))
-  const atomFrag = new Map()  // old atom slug (prove/<stem>__qnn) -> prove/<stem>#<atomId>
 
   for (const rel of files) {
     if (rel.endsWith(".md") && IGNORE_NOTES.has(path.basename(rel, ".md"))) continue
@@ -469,7 +474,10 @@ async function main() {
       const tags = Array.isArray(data.tags) ? data.tags : []
       const cluster = data.cluster ? String(data.cluster) : ""
       const ans = content.match(/^\*\*Risposta:\*\*\s*\*\*\s*([A-E])\s*\*\*/m)
-      const href = slugFromRel(rel)
+      // SPA: repoint atom pages (old prove/<stem>__qnn slug) to their fragment
+      // section prove/<stem>#<atomId> -- the atom no longer has its own page.
+      const oldSlug = slugFromRel(rel)
+      const href = atomFrag.get(oldSlug) || oldSlug
       const kw = keywords(content)
       if (kw) kwIndex[href] = kw
       const nat = nationInfo(data.country, data.comp_code, data.pdf)
@@ -522,8 +530,9 @@ async function main() {
       body = transform(body)
       body = mergeSiblings(a.base, body, pf.data.lang || "it", siblings, transform)
       const atags = Array.isArray(pf.data.tags) ? pf.data.tags : []
-      const frag = `${stemSlug}#${a.atomId}`
-      atomFrag.set(`prove/${sluggify(a.base)}`, `prove/${frag}`)
+      // atomFrag is populated in the grouping pass above (needed there before the
+      // main file loop runs); this pass just consumes the same value implicitly
+      // via stemSlug/a.atomId below.
       // id= gives the marker a static scroll-anchor: hover-popovers (and no-JS
       // direct links) resolve prove/<stem>#qNN against the raw server-rendered
       // HTML, before atomRouter.inline.ts has detached/reinserted anything.

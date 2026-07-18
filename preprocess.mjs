@@ -236,6 +236,27 @@ function transform(content) {
   return content
 }
 
+// Bilingual: merge hidden translation siblings into a body. Emits one
+// <div class="qlang-switch" data-default="<native>"> then the native body,
+// and per sibling a <div class="qlang-split" data-lang="<l>"> + its body. The
+// client qlang.inline.ts partitions these blocks and toggles by flag. Title/H1
+// stays native (frontmatter), so each sibling's translated H1 + trailing mutual
+// backlink is stripped. Shared by the classic per-file loop and the SPA
+// container-emission pass (atoms keep their qlang blocks inside the reader).
+function mergeSiblings(base, body, nativeLang, siblings, transform) {
+  if (!siblings.has(base)) return body
+  const ORDER = { it: 0, en: 1, es: 2, pt: 3, de: 4, fr: 5 }
+  const sibs = [...siblings.get(base)].sort((a, b) => (ORDER[a.lang] ?? 9) - (ORDER[b.lang] ?? 9))
+  let merged = `<div class="qlang-switch" data-default="${nativeLang}"></div>\n\n` + body
+  for (const s of sibs) {
+    const b = transform(s.body)
+      .replace(/^\s*#\s+.+?(?:\r?\n|$)/m, "")        // drop translated H1 (title comes from frontmatter)
+      .replace(/\n?\[\[[^\]]*\]\]\s*$/, "")           // drop trailing mutual backlink to default
+    merged += `\n\n<div class="qlang-split" data-lang="${s.lang}"></div>\n\n` + b.trim()
+  }
+  return merged
+}
+
 async function walk(dir, base = dir, out = []) {
   for (const ent of await fs.readdir(dir, { withFileTypes: true })) {
     if (ent.isDirectory()) {
@@ -434,24 +455,10 @@ async function main() {
         clIdx++; pagedLists++
       }
     }
-    // Bilingual: merge hidden translation siblings into this default quesito page.
-    // One <div class="qlang-switch" data-default="<native>"> then the native body,
-    // and per sibling a <div class="qlang-split" data-lang="<l>"> + its body. The
-    // client qlang.inline.ts partitions these blocks and toggles by flag. Title/H1
-    // stays native (frontmatter), so strip each sibling's translated H1 + backlink.
-    if (data.tipo === "quesito" && siblings.has(path.basename(rel, ".md"))) {
-      const native = data.lang || "it"
-      const ORDER = { it: 0, en: 1, es: 2, pt: 3, de: 4, fr: 5 }
-      const sibs = [...siblings.get(path.basename(rel, ".md"))]
-        .sort((a, b) => (ORDER[a.lang] ?? 9) - (ORDER[b.lang] ?? 9))
-      let merged = `<div class="qlang-switch" data-default="${native}"></div>\n\n` + outContent
-      for (const s of sibs) {
-        let b = transform(s.body)
-          .replace(/^\s*#\s+.+?(?:\r?\n|$)/m, "")        // drop translated H1 (title comes from frontmatter)
-          .replace(/\n?\[\[[^\]]*\]\]\s*$/, "")           // drop trailing mutual backlink to default
-        merged += `\n\n<div class="qlang-split" data-lang="${s.lang}"></div>\n\n` + b.trim()
-      }
-      outContent = merged
+    // Bilingual: merge hidden translation siblings into this default quesito page
+    // (see mergeSiblings() above -- shared with the SPA container-emission pass).
+    if (data.tipo === "quesito") {
+      outContent = mergeSiblings(path.basename(rel, ".md"), outContent, data.lang || "it", siblings, transform)
     }
     // SPA: prove atoms + prove parents-with-atoms are emitted by the container
     // pass below (one reader page per stem) -- skip their classic per-file page.
@@ -510,6 +517,7 @@ async function main() {
       const pf = parseFrontmatter(raw)
       let body = pf.content.replace(/^#\s+.+?[ \t]*(\r?\n|$)/m, "")   // drop leading H1 (title rendered by marker)
       body = transform(body)
+      body = mergeSiblings(a.base, body, pf.data.lang || "it", siblings, transform)
       const atags = Array.isArray(pf.data.tags) ? pf.data.tags : []
       const atomTitle = pf.data.title || a.atomId
       const frag = `${stemSlug}#${a.atomId}`

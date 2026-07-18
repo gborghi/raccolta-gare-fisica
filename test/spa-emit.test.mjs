@@ -18,3 +18,15 @@ test("one container page per stem, atoms as markers, no per-atom pages", () => {
   // atom body text is present (searchable/no-JS readable)
   assert.match(html, /data-atom="q01"/)
 })
+
+// Bilingual sibling used for the qlang test below: found by scanning the vault
+// Prove/ folder for `<stem>__q<NN>__(it|en|es|pt|de|fr).md` secondary-translation
+// siblings (SIB_RE in preprocess.mjs). Confirmed: Prove/1994e__Q01__it.md is a
+// `tipo: quesito-translation` of Prove/1994e__Q01.md (native lang "en"). Same
+// stem as the test above.
+test("bilingual atom keeps qlang markers inside the reader page", () => {
+  const stem = "1994e"
+  const page = path.join(C, stem + ".md")
+  const html = fs.readFileSync(page, "utf8")
+  assert.match(html, /qlang-split/)
+})

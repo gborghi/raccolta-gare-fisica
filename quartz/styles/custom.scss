@@ -624,3 +624,50 @@ body[data-slug^="prove/"] {
 [saved-theme="dark"] body[data-slug^="prove/"] article > .markdown-preview-view {
   background: #14122f; border-color: var(--lightgray);
 }
+
+/* ---- Reading-page SPA (atomRouter.inline.ts): one atom at a time, TOC, prev/next ---- */
+.atom-reader { display: flex; flex-direction: column; gap: 0; margin: 0 0 2rem; }
+.ar-bar {
+  position: sticky; top: 0; z-index: 5; display: flex; align-items: center; gap: 0.6rem;
+  padding: 0.5rem 0.2rem; margin-bottom: 0.4rem;
+  background: color-mix(in srgb, var(--light) 90%, transparent);
+  backdrop-filter: blur(6px); border-bottom: 1px solid var(--lightgray);
+}
+.ar-bar .ar-spacer { flex: 1; }
+.ar-crumb { font-size: 0.82rem; color: var(--darkgray); }
+.ar-crumb .ar-count { color: var(--gray); font-variant-numeric: tabular-nums; margin-left: 0.5rem; font-size: 0.78rem; }
+.ar-pager { display: inline-flex; gap: 0.3rem; }
+.ar-pager button, .ar-tocbtn {
+  font: inherit; border: 1px solid var(--lightgray); background: var(--light); color: var(--dark);
+  width: 1.9rem; height: 1.9rem; border-radius: 7px; cursor: pointer; line-height: 1; font-size: 1rem;
+}
+.ar-pager button:disabled { opacity: 0.35; cursor: default; }
+.ar-pager button:hover:not(:disabled), .ar-tocbtn:hover { border-color: var(--secondary); color: var(--secondary); }
+.ar-tocbtn { display: none; }
+.ar-shell { display: grid; grid-template-columns: 230px minmax(0, 1fr); gap: 1.4rem; }
+.ar-toc {
+  align-self: start; position: sticky; top: 3.2rem; max-height: calc(100vh - 4rem);
+  overflow: auto; padding-right: 0.6rem; border-right: 1px solid var(--lightgray); font-size: 0.84rem;
+}
+.ar-toc-list { list-style: none; margin: 0; padding: 0; }
+.ar-toc-link {
+  display: block; text-decoration: none; color: var(--darkgray);
+  padding: 0.22rem 0.5rem; border-left: 2px solid transparent; margin-left: -1px; border-radius: 0 5px 5px 0;
+}
+.ar-toc-link:hover { background: var(--lightgray); color: var(--dark); }
+.ar-toc-link.active {
+  color: var(--secondary); border-left-color: var(--secondary);
+  background: color-mix(in srgb, var(--secondary) 8%, transparent); font-weight: 600;
+}
+.ar-pane { min-width: 0; }
+.ar-pane > :first-child { margin-top: 0; }
+@media (max-width: 800px) {
+  .ar-tocbtn { display: inline-flex; align-items: center; justify-content: center; }
+  .ar-shell { grid-template-columns: 1fr; }
+  .ar-toc {
+    position: fixed; inset: 3.5rem auto 0 0; width: 78%; max-width: 300px; z-index: 8;
+    background: var(--light); border-right: 1px solid var(--lightgray); padding: 1rem;
+    transform: translateX(-102%); transition: transform 0.22s ease; box-shadow: 0 0 24px rgba(0, 0, 0, 0.15);
+  }
+  .ar-shell.toc-open .ar-toc { transform: none; }
+}

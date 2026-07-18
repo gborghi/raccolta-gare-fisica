@@ -5,7 +5,16 @@
 //   <div class="qlang-split" data-lang="<l>"></div>  …sibling body blocks…  (repeated)
 // This partitions the sibling blocks by the split markers, draws flag buttons
 // (flagcdn images — Windows browsers can't render flag emoji), toggles visibility
-// and persists the choice. Runs on Quartz's "nav" event (SPA-safe).
+// and persists the choice. Runs on Quartz's "nav" event (SPA-safe), and also on
+// "atomrender" -- fired by atomRouter.inline.ts (quartz/components/scripts/
+// atomRouter.inline.ts) every time it swaps the visible atom inside a
+// prove/<stem> reading-page pane. atomRouter treats a bilingual atom's
+// qlang-switch/qlang-split DOM as an opaque blob it doesn't understand; this
+// script stays the sole owner of that widget and just needs re-poking each
+// time a (possibly different) atom's switch lands back in the live DOM.
+// document.querySelector(".qlang-switch") only ever sees the currently-visible
+// atom's switch, because atomRouter detaches every other atom's nodes from the
+// document -- so no extra scoping is needed here.
 const ISO: Record<string, string> = { it: "it", en: "gb", es: "es", pt: "br", de: "de", fr: "fr" }
 const LABEL: Record<string, string> = {
   it: "Italiano", en: "English", es: "Espanol", pt: "Portugues", de: "Deutsch", fr: "Francais",
@@ -77,3 +86,4 @@ function setupQlang() {
 }
 
 document.addEventListener("nav", setupQlang)
+document.addEventListener("atomrender", setupQlang)

@@ -11,6 +11,8 @@ import cercaScript from "../../components/scripts/cerca.inline"
 import pagedListScript from "../../components/scripts/pagedList.inline"
 // @ts-ignore  bilingual quesito language switch (flags, toggle, persist)
 import qlangScript from "../../components/scripts/qlang.inline"
+// @ts-ignore  SPA reader for prove/<stem>: one atom at a time, TOC, prev/next
+import atomRouterScript from "../../components/scripts/atomRouter.inline"
 import styles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
 import { BuildCtx } from "../../util/ctx"
@@ -270,6 +272,11 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
   componentResources.afterDOMLoaded.push(cercaScript)
   componentResources.afterDOMLoaded.push(pagedListScript)
   componentResources.afterDOMLoaded.push(qlangScript)
+  // atomRouter after qlang: on the very first "nav" of a reading page, qlang's
+  // handler runs before atomRouter has built the pane (harmless -- it either
+  // no-ops or processes an atom that's about to be detached), and atomRouter's
+  // own "atomrender" event re-pokes qlang correctly once the pane is live.
+  componentResources.afterDOMLoaded.push(atomRouterScript)
   // per-site i18n: rename the graph panel title "Vista grafico" -> "Vista grafo"
   componentResources.afterDOMLoaded.push(`
     document.addEventListener("nav", () => {

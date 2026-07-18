@@ -524,8 +524,11 @@ async function main() {
       const atags = Array.isArray(pf.data.tags) ? pf.data.tags : []
       const frag = `${stemSlug}#${a.atomId}`
       atomFrag.set(`prove/${sluggify(a.base)}`, `prove/${frag}`)
+      // id= gives the marker a static scroll-anchor: hover-popovers (and no-JS
+      // direct links) resolve prove/<stem>#qNN against the raw server-rendered
+      // HTML, before atomRouter.inline.ts has detached/reinserted anything.
       blocks.push(
-        `\n\n<span class="atom-split" data-atom="${esc(a.atomId)}" ` +
+        `\n\n<span class="atom-split" id="${esc(a.atomId)}" data-atom="${esc(a.atomId)}" ` +
         `data-title="${esc(atomTitle)}" data-tags="${esc(atags.join(","))}"></span>\n\n` +
         body.trim()
       )

@@ -34,3 +34,19 @@ test("bilingual atom keeps qlang markers scoped to its own atom block", () => {
   const block = nextAtom >= 0 ? html.slice(q01, nextAtom) : html.slice(q01)
   assert.match(block, /qlang-split/, "qlang block belongs to q01's atom block, not just somewhere on the page")
 })
+
+// Task 2.2 (popover parity): each atom-split marker needs a static id= so a
+// fragment link (prove/<stem>#qNN) has a scroll-anchor in the raw server-rendered
+// HTML -- quartz's popover.inline.ts fetches that HTML directly and scrolls its
+// preview to `#popover-internal-<hash>`, independent of atomRouter.inline.ts
+// (which only runs client-side, after the popover's own fetch).
+test("atom-split marker carries a static id= scroll-anchor for popovers", () => {
+  const stem = "1994e"
+  const page = path.join(C, stem + ".md")
+  const html = fs.readFileSync(page, "utf8")
+  assert.match(
+    html,
+    /<span class="atom-split" id="q01" data-atom="q01"/,
+    "atom-split marker for q01 has id=\"q01\"",
+  )
+})

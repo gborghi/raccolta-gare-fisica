@@ -720,23 +720,6 @@ Seleziona uno o più tag per filtrare i ${quesiti.length} quesiti classificati. 
 `
   await fs.writeFile(path.join(CONTENT, "cerca.md"), cerca)
 
-  // SPA (Task 6.1): pre-atomization deep links (old per-atom pages
-  // "prove/<stem>__<atomId>") no longer resolve -- ported from the English
-  // site's preprocess.mjs 404 block (quartz-eng-lit:1498-1511), reshaped for
-  // the physics path (prove/<stem>__<atomId> -> prove/<stem>#<atomId>).
-  // atomId is lowercased on rewrite to match the emitted fragment casing
-  // (Phase 1-3 lowercase atomId convention).
-  const notFound =
-    `---\ntitle: "Pagina non trovata"\n---\n\n` +
-    `<div class="nf-msg"><p><strong>Pagina non trovata.</strong> Reindirizzamento...</p>\n` +
-    `<p><a href="/">Home</a></p></div>\n\n` +
-    `<script>\n(function(){\n` +
-    `  var p=decodeURIComponent(location.pathname).replace(/\\/index\\.html$/,"").replace(/\\/$/,"");\n` +
-    `  var m=p.match(/^(.*)\\/prove\\/([^/]+?)__([a-z0-9]+)$/i);\n` +
-    `  if(m){ location.replace(m[1]+"/prove/"+m[2]+"#"+m[3].toLowerCase()); }\n` +
-    `})();\n</script>\n`
-  await fs.writeFile(path.join(CONTENT, "404.md"), notFound)
-
   console.log(`md written ${mdWritten}, assets copied ${assetsCopied}, indexed ${quesiti.length} quesiti, paginated ${pagedLists} concept lists`)
 }
 main()

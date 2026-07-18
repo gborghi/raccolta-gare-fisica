@@ -145,6 +145,13 @@ function slugFromRel(rel) {
   return sluggify(rel.replace(/\.md$/, "").split(path.sep).join("/"))
 }
 
+// HTML-attribute escape (SPA: atom-split marker attrs -- title/tags come from
+// vault frontmatter, which is ASCII-only per project convention, but escape
+// defensively so a stray & " < > never breaks the marker's HTML).
+function esc(s) {
+  return String(s ?? "").replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+}
+
 // Pull wikilink targets from a "**Label:** [[A]], [[B (metodo)|alias]]" meta line.
 function metaLinks(content, label) {
   const re = new RegExp("^\\*\\*" + label + ":\\*\\*(.*)$", "m")
@@ -355,9 +362,42 @@ async function main() {
   const kwIndex = {}
   let mdWritten = 0, assetsCopied = 0, clIdx = 0, pagedLists = 0
   const SIB_RE = /__(?:it|en|es|pt|de|fr)$/   // secondary translation sibling stems
+
+  // --- SPA: group Prove atoms by stem so we emit ONE reader page per exam ---
+  // Keyed by SLUG (not raw basename): vault stems are inconsistently cased
+  // (e.g. "1LV06t", "1liv15T def") while atomIds carry their own uppercase
+  // ("Q01"), so the classic-loop skip-guard below (`proveAtoms.has(sluggify(b))`)
+  // and the container pass's parent lookup (`proveParents.get(stemSlug)`) only
+  // agree if both maps are keyed by the same normalized slug.
+  const proveAtoms = new Map()   // stem-slug -> [{ rel, base, atomId }]
+  const proveParents = new Map() // stem-slug -> rel of the <stem>.md parent (if any)
+  const PROVE_ATOM_RE = /__[a-z]/i
+  for (const rel of files) {
+    if (!rel.endsWith(".md")) continue
+    if (rel.split(path.sep)[0].toLowerCase() !== "prove") continue
+    const base = path.basename(rel, ".md")
+    if (SIB_RE.test(base)) continue   // translation sibling, not its own atom -- merged via mergeSiblings
+    const usc = base.indexOf("__")
+    if (usc < 0) { proveParents.set(sluggify(base), rel); continue }
+    const stem = sluggify(base.slice(0, usc))
+    const atomId = base.slice(usc + 2).toLowerCase()          // e.g. "q01"
+    if (!proveAtoms.has(stem)) proveAtoms.set(stem, [])
+    proveAtoms.get(stem).push({ rel, base, atomId })
+  }
+  for (const list of proveAtoms.values())
+    list.sort((a, b) => a.atomId.localeCompare(b.atomId, "en", { numeric: true }))
+  const atomFrag = new Map()  // old atom slug (prove/<stem>__qnn) -> prove/<stem>#<atomId>
+
   for (const rel of files) {
     if (rel.endsWith(".md") && IGNORE_NOTES.has(path.basename(rel, ".md"))) continue
     if (rel.endsWith(".md") && SIB_RE.test(path.basename(rel, ".md"))) continue  // merged into its default below
+    let skipProvePage = false
+    if (rel.endsWith(".md") && rel.split(path.sep)[0].toLowerCase() === "prove") {
+      const b = path.basename(rel, ".md")
+      if (b.includes("__") || proveAtoms.has(sluggify(b))) {
+        skipProvePage = true  // prove atom OR a parent stem that has atoms -> emitted by container pass
+      }
+    }
     const src = path.join(VAULT, rel)
     // v5: emit at the lowercase slug path so pages match OFM's lowercase wikilink
     // hrefs (applies to both .md notes and _attachments assets).
@@ -413,8 +453,12 @@ async function main() {
       }
       outContent = merged
     }
-    await fs.writeFile(dest, matter.stringify(outContent, data))
-    mdWritten++
+    // SPA: prove atoms + prove parents-with-atoms are emitted by the container
+    // pass below (one reader page per stem) -- skip their classic per-file page.
+    if (!skipProvePage) {
+      await fs.writeFile(dest, matter.stringify(outContent, data))
+      mdWritten++
+    }
     if (data.tipo === "quesito") {
       const tags = Array.isArray(data.tags) ? data.tags : []
       const cluster = data.cluster ? String(data.cluster) : ""
@@ -445,6 +489,46 @@ async function main() {
       })
     }
   }
+
+  // --- SPA: emit one reader page per prove stem ---
+  for (const [stem, atoms] of proveAtoms) {
+    const stemSlug = sluggify(stem)
+    // parent frontmatter (title/tags) from <stem>.md if present, else derive
+    let title = stem, ptags = ["graph/prova"]
+    const parentRel = proveParents.get(stemSlug)
+    if (parentRel) {
+      const praw = await fs.readFile(path.join(VAULT, parentRel), "utf8")
+      const pf = parseFrontmatter(praw)
+      if (pf.data.title) title = pf.data.title
+      const h1 = pf.content.match(/^#\s+(.+?)\s*$/m)
+      if (!pf.data.title && h1) title = h1[1].trim()
+      if (Array.isArray(pf.data.tags)) ptags = pf.data.tags
+    }
+    const blocks = []
+    for (const a of atoms) {
+      const raw = await fs.readFile(path.join(VAULT, a.rel), "utf8")
+      const pf = parseFrontmatter(raw)
+      let body = pf.content.replace(/^#\s+.+?[ \t]*(\r?\n|$)/m, "")   // drop leading H1 (title rendered by marker)
+      body = transform(body)
+      const atags = Array.isArray(pf.data.tags) ? pf.data.tags : []
+      const atomTitle = pf.data.title || a.atomId
+      const frag = `${stemSlug}#${a.atomId}`
+      atomFrag.set(`prove/${sluggify(a.base)}`, `prove/${frag}`)
+      blocks.push(
+        `\n\n<span class="atom-split" data-atom="${esc(a.atomId)}" ` +
+        `data-title="${esc(atomTitle)}" data-tags="${esc(atags.join(","))}"></span>\n\n` +
+        body.trim()
+      )
+    }
+    const fm = `---\ntitle: ${JSON.stringify(title)}\ntipo: prova\ntags:\n` +
+      ptags.map((t) => `  - ${t}`).join("\n") + `\n---\n\n`
+    const mount = `<div class="atom-reader" data-prova="${esc(stemSlug)}"></div>\n`
+    const dest = path.join(CONTENT, "prove", `${stemSlug}.md`)
+    await fs.mkdir(path.dirname(dest), { recursive: true })
+    await fs.writeFile(dest, fm + mount + blocks.join("\n\n"))
+    mdWritten++
+  }
+
   await fs.mkdir(path.dirname(STATIC_JSON), { recursive: true })
   await fs.writeFile(STATIC_JSON, JSON.stringify(quesiti))
   await fs.writeFile(KW_JSON, JSON.stringify(kwIndex))

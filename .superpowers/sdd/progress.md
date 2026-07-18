@@ -22,3 +22,8 @@ Search fork: post-restore patch script scripts/patch-search-fork.mjs (upstream, 
 
 ### Heavy-run TODO at Phase-1 gate (controller)
 - run `RGF_BUILD=<scratch-or-inplace> node preprocess.mjs` then `node --test test/spa-emit.test.mjs`; assert container pages exist, ~1490 prove md, markers present, no per-atom pages.
+
+- Phase 2 (reader client): atomRouter.inline.ts (257L, flat per-prova), qlang kept authoritative via new `atomrender` event, addCleanup() for listeners (leak fix), popover anchor id on marker. Wired via componentResources.ts (v5). commits 5655dec72..60d5fea95. Review: SPEC ok, QUALITY approved. tsc 8->8 (verified by reviewer).
+  Minor (for final review): (1) body.reading-page class has no CSS consumer in physics -> add comment; (2) addCleanup?.() optional-chaining inconsistent w/ globals.d.ts + popover.inline.ts bare call; (3) atomRouter header comment omits id="qNN".
+  GATE ⚠️: double-TOC overlap (.ar-toc center vs right-sidebar heading TOC on prove pages) — eyeball at Phase 7 Playwright.
+  INTEGRATION NOTE for Phase 3: atomFrag currently populated in CONTAINER pass (after main loop). quesiti/kw href build is IN main loop -> must populate atomFrag in GROUPING pass (before main loop) for Task 3.1.

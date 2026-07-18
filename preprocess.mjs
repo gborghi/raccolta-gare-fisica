@@ -216,6 +216,10 @@ function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLeve
     // the main file loop, before the container pass builds proveAtoms' fragments.
     let h = hbase + anchor
     const am = tslug.match(/^(.*)__([a-z0-9]+)$/i)
+    // Any pre-existing "anchor" (#subheading) on an atom-target link is intentionally
+    // dropped here: the fragment is repurposed to select the atom itself, so a second
+    // "#" is impossible. The atomRouter renders the whole atom (subheading content
+    // included), so landing on prove/<stem>#<atomId> still surfaces the target text.
     if (am && (dir === "prove" || dir == null)) h = `prove/${am[1]}#${am[2]}`
     items.push({
       h,
@@ -247,6 +251,10 @@ function transform(content) {
   // are covered too, not just links inside prove atom bodies. "__" in a wikilink
   // basename is reserved for the frozen atom-naming convention, so this never
   // matches concept/topic/method/skill wikilinks (which don't contain "__").
+  // _h below (any pre-existing "#subheading" on the atom-target link) is captured
+  // but intentionally dropped: the fragment now selects the atom itself, so a
+  // second "#" is impossible. The atomRouter renders the whole atom (subheading
+  // content included), so landing on the atom section still surfaces that text.
   content = content.replace(
     /\[\[([^\]|#]+?)__([a-z0-9]+)((?:#[^\]|]*)?)(\|[^\]]*)?\]\]/gi,
     (full, st, aid, _h, alias) => `[[prove/${sluggify(st)}#${aid.toLowerCase()}${alias || ""}]]`

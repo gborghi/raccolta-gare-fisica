@@ -45,6 +45,13 @@ const FACETS: Facet[] = [
   { key: "objects", label: "Objects", multi: true, strip: " (object)" },
 ]
 
+// SPA (Task 6.4, Part C): the currently-active applyHashTag() closure, so the
+// module-scope "nav"/"hashchange" listeners can re-run it against whichever
+// #cerca root is live right now (init() re-assigns this each full run; a
+// same-page hash-only navigation reuses the existing closure/root instead of
+// re-running init(), since init() early-returns once root.dataset.rendered).
+let applyHashTagRef: (() => void) | null = null
+
 const PER_PAGE_OPTS = [25, 50, 100, 250, 0] // 0 = Tutti
 const RES_LS_KEY = "rgf-cerca-perpage"
 function getResPerPage(): number {
@@ -77,6 +84,16 @@ async function init() {
   } catch {
     root.textContent = "Impossibile caricare i dati."
     return
+  }
+  // SPA (Task 6.4, Part C): vault tag slug -> facet token, so a tag click
+  // (or graph tag-node click) lands pre-filtered on /cerca#tag=<slug>
+  // instead of the bare unfiltered page. Tolerate failure -- degrades to
+  // the pre-existing bare-/cerca behavior.
+  let tagmap: Record<string, string> = {}
+  try {
+    tagmap = await (await fetch(prefix + "static/tagmap.json")).json()
+  } catch {
+    tagmap = {}
   }
 
   const selected = new Set<string>()
@@ -376,9 +393,39 @@ async function init() {
   }
 
   render()
+
+  // SPA (Task 6.4, Part C): pre-select a tag carried in the URL as
+  // #tag=<encodeURIComponent(vault-tag-slug)> -- fired by a tag click
+  // (patch-tag-links-fork.mjs) or a graph tag-node click. Handles both a
+  // cold direct load of /cerca#tag=... (called here, right after the first
+  // render) and a same-page hash-only navigation that never re-runs init()
+  // (wired to "hashchange"/"nav" below via applyHashTagRef). Idempotent: a
+  // token already in `selected` is a no-op, so re-invoking never double-adds
+  // or re-renders needlessly.
+  function applyHashTag() {
+    const m = location.hash.match(/^#tag=(.+)$/)
+    if (!m) return
+    let slug: string
+    try {
+      slug = decodeURIComponent(m[1])
+    } catch {
+      return
+    }
+    const token = tagmap[slug]
+    if (!token) return
+    const key = token.split("::")[0]
+    if (!FACETS.some((f) => f.key === key)) return // guard: token's facet key must be real
+    if (selected.has(token)) return
+    selected.add(token)
+    render()
+  }
+  applyHashTagRef = applyHashTag
+  applyHashTag()
 }
 
-document.addEventListener("nav", () => {
-  init()
+document.addEventListener("nav", async () => {
+  await init()
+  applyHashTagRef?.()
 })
+window.addEventListener("hashchange", () => applyHashTagRef?.())
 init()

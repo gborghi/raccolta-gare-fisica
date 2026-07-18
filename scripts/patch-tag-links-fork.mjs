@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 // Idempotent post-restore patch that repoints every "tags/<tag>" link
-// emitted by upstream quartz-community plugin forks to "/cerca" (Task 6.2).
+// emitted by upstream quartz-community plugin forks to a pre-filtered
+// "/cerca#tag=<slug>" (Task 6.2, extended by Task 6.4 Part C).
 //
 // .quartz/ is gitignored and is restored fresh from quartz.lock.json on
 // every `npx quartz plugin restore`, so direct edits to files under
@@ -15,7 +16,7 @@
 // quartz.config.yaml (the aggregate tags/*.html pages balloon to ~12MB and
 // duplicate /cerca, the real per-tag/faceted tool -- per-atom, not
 // per-page). With tag-page gone, any in-site link still pointing at
-// "tags/<tag>" 404s. Four render paths emit such links:
+// "tags/<tag>" 404s. Five render paths emit such links:
 //   1. tag-list plugin (beforeBody, enabled) -- TagList.tsx, one <a> per
 //      frontmatter tag.
 //   2. note-properties plugin (beforeBody, enabled, "tags" is an included
@@ -28,24 +29,27 @@
 //      enableInHtmlEmbed regex branch; the latter is inert under this
 //      site's config (enableInHtmlEmbed: false) but is patched too so the
 //      drift guard covers the whole file consistently).
+//   5. graph plugin (Task 5.1's atom-graph fork) -- graph.inline.ts's
+//      nodeHref() falls back to the raw tag node id ("tags/<tag>") for tag
+//      nodes (no content-index entry), and the click/drag handlers navigate
+//      there directly -- a hard 404 with tag-page disabled (Task 6.4
+//      Critical #2).
 //
-// Repoint target: bare "/cerca" (NOT a pre-selected "/cerca?tag=..."). The
-// physics quesiti.json facets (topics/methods/skills/objects/cluster) are
-// keyed by their DISPLAY name (e.g. "Conservation of Energy", built from
-// the vault's **Topic:**/**Metodi:**/... wikilink text -- see metaLinks()
-// in preprocess.mjs), while a rendered tag string is the raw Obsidian vault
-// tag slug (e.g. "topic/conservation-of-energy", "argomento/meccanica" --
-// see the tags: frontmatter block on any content/prove/*.md atom). These
-// are two different namespaces with no shipped slug->display-name map on
-// the client, so a tag string cannot be reliably turned into a
-// "<facetKey>::<value>" cerca token without guessing (some tag families,
-// e.g. difficolta/tipo-gara, DO map 1:1 via tagVal(); others, e.g.
-// topic/argomento/object, do not -- cerca's facet values are the
-// human-readable wikilink text, not the tag slug). Per the phase brief,
-// wiring a pre-select into cerca's filter state is not something to guess
-// at statically -- bare /cerca (tags stay clickable, open the faceted
-// search tool, user picks the tag) is the verifiable, correct-by-inspection
-// choice. Flagged as reduced parity in the phase report.
+// Repoint target (Task 6.4 Part C): "/cerca#tag=" + encodeURIComponent(slug)
+// -- NOT bare "/cerca" anymore. preprocess.mjs's buildTagMap() (Part B) now
+// ships staticgen/tagmap.json, a vault-tag-slug -> cerca-facet-token map
+// built by co-occurrence (the two namespaces -- raw tag slug vs facet
+// display value -- still don't convert into each other by client-side
+// slugify, see preprocess.mjs's buildTagMap() header). cerca.inline.ts reads
+// the #tag=<slug> fragment, looks it up in tagmap.json, and pre-selects the
+// matching facet chip before first render (Part C1). Each of the five sites
+// below already has the raw frontmatter tag slug in scope (the loop/param
+// variable feeding the old "tags/<tag>" href) -- this patch just appends the
+// encoded slug as a URL fragment onto the same resolveRelative/resolveBasePath
+// call used for the bare-/cerca Task 6.2 repoint. If a site's slug does not
+// match tagmap.json (e.g. it was somehow computed differently), the lookup
+// on the cerca side simply misses and the page degrades to the bare
+// unfiltered /cerca view -- the safe Task 6.2 fallback, not a dead link.
 //
 // Idempotent: guarded per-file by the SENTINEL comment (no-ops on a second
 // run). Drift-guarded: validates every anchor across ALL not-yet-patched
@@ -68,14 +72,14 @@ const TARGETS = [
     anchor:
       'const linkDest = resolveRelative(fileData.slug as string, `tags/${tag}`);',
     replacement:
-      `${SENTINEL}\n          // Task 6.2: native tag pages disabled -- /cerca is the per-tag tool.\n          const linkDest = resolveRelative(fileData.slug as string, "cerca");`,
+      `${SENTINEL}\n          // Task 6.4: pre-select this tag on /cerca (falls back to the bare\n          // Task 6.2 /cerca view if tagmap.json has no entry for it).\n          const linkDest = resolveRelative(fileData.slug as string, "cerca") + "#tag=" + encodeURIComponent(tag);`,
   },
   {
     name: "note-properties NoteProperties.tsx",
     file: ".quartz/plugins/note-properties/src/components/NoteProperties.tsx",
     anchor: "const href = resolveRelative(ctx.slug, `tags/${tag}`);",
     replacement:
-      `${SENTINEL}\n    // Task 6.2: native tag pages disabled -- /cerca is the per-tag tool.\n    const href = resolveRelative(ctx.slug, "cerca");`,
+      `${SENTINEL}\n    // Task 6.4: pre-select this tag on /cerca (falls back to the bare\n    // Task 6.2 /cerca view if tagmap.json has no entry for it).\n    const href = resolveRelative(ctx.slug, "cerca") + "#tag=" + encodeURIComponent(tag);`,
   },
   {
     name: "folder-page PageList.tsx",
@@ -83,13 +87,13 @@ const TARGETS = [
     anchor:
       `href={resolveRelative(\n                        fileSlug ?? ("" as FullSlug),\n                        \`tags/\${tag}\` as unknown as FullSlug,\n                      )}`,
     replacement:
-      `${SENTINEL}\n                      href={resolveRelative(\n                        fileSlug ?? ("" as FullSlug),\n                        "cerca" as unknown as FullSlug,\n                      )}`,
+      `${SENTINEL}\n                      href={\n                        resolveRelative(\n                          fileSlug ?? ("" as FullSlug),\n                          "cerca" as unknown as FullSlug,\n                        ) + "#tag=" + encodeURIComponent(tag)\n                      }`,
   },
   {
     name: "obsidian-flavored-markdown transformer.ts (mdast tag node)",
     file: ".quartz/plugins/obsidian-flavored-markdown/src/transformer.ts",
     anchor: "url: base + `/tags/${tag}`,",
-    replacement: `${SENTINEL} url: base + "/cerca",`,
+    replacement: `${SENTINEL} url: base + "/cerca#tag=" + encodeURIComponent(tag),`,
   },
   {
     name: "obsidian-flavored-markdown transformer.ts (inline #tag regex, enableInHtmlEmbed)",
@@ -102,7 +106,22 @@ const TARGETS = [
     // at its own runtime, not by this patch script.
     replacement:
       SENTINEL +
-      ' return `<a href="${base}/cerca" class="tag-link">${slug}</a>`;',
+      ' return `<a href="${base}/cerca#tag=${encodeURIComponent(slug)}" class="tag-link">${slug}</a>`;',
+  },
+  {
+    name: "graph.inline.ts nodeHref (tag nodes, Critical #2)",
+    file: ".quartz/plugins/graph/src/components/scripts/graph.inline.ts",
+    anchor:
+      '        return resolveBasePath(slug) + (frag ? "#" + frag : "");',
+    // Tag nodes have no content-index `data` entry, so nodeHref()'s `slug`
+    // falls back to the raw node id, which for a tag node is
+    // simplifySlug("tags/" + tag) -- i.e. "tags/<the-same-frontmatter-slug>"
+    // (verified: simplifySlug only normalizes the "tags/" prefix segment, it
+    // does not touch the tag's own internal "/"-separated slug). Route those
+    // through the same /cerca#tag= pre-select as every other tag-link
+    // emitter, base-url-aware via the fork's own resolveBasePath().
+    replacement:
+      `        ${SENTINEL}\n        if (slug.indexOf("tags/") === 0) {\n          return resolveBasePath("cerca") + "#tag=" + encodeURIComponent(slug.slice(5));\n        }\n        return resolveBasePath(slug) + (frag ? "#" + frag : "");`,
   },
 ];
 

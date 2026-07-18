@@ -634,8 +634,9 @@ async function main() {
       atoms[id] = { slug, frag, title: rec.title || frag, tags: rec.tags || [], terms }
     }
     const fullIndexPath = path.join(STATIC_GEN, "atoms_fullindex.json")
-    await fs.writeFile(fullIndexPath, JSON.stringify({ N, df, atoms }))
-    console.log(`full tf-idf index: ${N} atoms, ${(JSON.stringify({ N, df, atoms }).length / 1e6).toFixed(1)}MB (offline only, not shipped)`)
+    const json = JSON.stringify({ N, df, atoms })
+    await fs.writeFile(fullIndexPath, json)
+    console.log(`full tf-idf index: ${N} atoms, ${(Buffer.byteLength(json) / 1e6).toFixed(1)}MB (offline only, not shipped)`)
   }
 
   const home = `---

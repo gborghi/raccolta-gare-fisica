@@ -4,13 +4,17 @@
 // to FILL each budget (undershooting degrades recall). Re-runnable without
 // re-parsing the vault -- only reads/re-thresholds the full index.
 import fs from "fs"
+import path from "path"
 
-const full = JSON.parse(fs.readFileSync("staticgen/atoms_fullindex.json", "utf8"))
+// Honor RGF_BUILD (build artifacts may live outside the repo, see preprocess.mjs) --
+// must match preprocess.mjs's STATIC_GEN = path.join(RGF_BUILD || ROOT, "staticgen").
+const BUILD = process.env.RGF_BUILD || "."
+const full = JSON.parse(fs.readFileSync(path.join(BUILD, "staticgen", "atoms_fullindex.json"), "utf8"))
 const entries = Object.entries(full.atoms)
 
 // term scores span (0, maxScore]. Avoid Math.max(...bigArray) -- with 10k+ atoms
 // x up to 300 terms/atom the spread can overflow the call stack.
-let maxScore = 1
+let maxScore = -Infinity
 for (const [, v] of entries) for (const [, s] of v.terms) if (s > maxScore) maxScore = s
 
 function project(threshold) {
@@ -28,34 +32,39 @@ function project(threshold) {
 // much as possible, never exceed it).
 function build(budget, outPath, label) {
   const zero = project(0)
-  const zeroSize = Buffer.byteLength(JSON.stringify(zero))
-  let best
+  const zeroStr = JSON.stringify(zero)
+  const zeroSize = Buffer.byteLength(zeroStr)
+  let best, bestStr
   if (zeroSize <= budget) {
     // Even keeping ALL terms (threshold 0) fits the budget -- ship everything.
     // (Binary search alone would only asymptotically approach T=0 and always
     // leave a thin sliver of near-zero-score terms out; this guard fills fully.)
     best = zero
+    bestStr = zeroStr
   } else {
     let lo = 0, hi = maxScore
     best = project(hi)   // T=hi -> fewest terms -> smallest file: safe starting floor, always <= budget
+    bestStr = JSON.stringify(best)
     for (let i = 0; i < 24; i++) {
       const mid = (lo + hi) / 2
       const cand = project(mid)
-      const size = Buffer.byteLength(JSON.stringify(cand))
+      const candStr = JSON.stringify(cand)
+      const size = Buffer.byteLength(candStr)
       // size>budget -> T too low (too many terms) -> raise the floor (shrink toward hi).
       // size<=budget -> T fits -> record as best, then try an even lower T (more fill).
       if (size > budget) lo = mid
-      else { hi = mid; best = cand }
+      else { hi = mid; best = cand; bestStr = candStr }
     }
   }
-  const bestSize = Buffer.byteLength(JSON.stringify(best))
+  const bestSize = Buffer.byteLength(bestStr)
   if (bestSize > budget) {
     // Should be unreachable (best is only ever assigned from a <=budget candidate,
     // or from the T=hi floor / the zero-fits-budget branch) -- fail loudly rather
     // than silently ship an over-budget file.
     throw new Error(`${label}: best candidate ${bestSize} bytes exceeds budget ${budget} bytes`)
   }
-  fs.writeFileSync(outPath, JSON.stringify(best))
+  fs.mkdirSync(path.dirname(outPath), { recursive: true })
+  fs.writeFileSync(outPath, bestStr)
   console.log(label, (bestSize / 1e6).toFixed(1), "MB")
 }
 

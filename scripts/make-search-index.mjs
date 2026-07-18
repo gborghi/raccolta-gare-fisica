@@ -1,8 +1,15 @@
-// Post-preprocess: project the shipped search indices from the full offline index
-// (staticgen/atoms_fullindex.json, written by preprocess.mjs -- Task 4.1).
+// Post-preprocess: project the shipped search+graph indices from the full offline
+// index (staticgen/atoms_fullindex.json, written by preprocess.mjs -- Task 4.1).
 // Desktop ~15MB, mobile ~8MB. Selection = global tf-idf threshold, binary-searched
 // to FILL each budget (undershooting degrades recall). Re-runnable without
 // re-parsing the vault -- only reads/re-thresholds the full index.
+//
+// `links` (Task 5.1 -- per-atom graph edges, captured by preprocess.mjs's
+// atomLinks()) is carried through UNCHANGED by threshold: it's not part of the
+// tf-idf selection, just copied per atom (already deduped + capped at 20 in the
+// full index; re-capped here defensively). Both tiers ship it -- the graph fork
+// (.quartz/plugins/graph, patched by scripts/patch-graph-fork.mjs) reads this
+// same contentIndex.json for both desktop and mobile.
 import fs from "fs"
 import path from "path"
 
@@ -21,7 +28,7 @@ function project(threshold) {
   const out = {}
   for (const [id, v] of entries) {
     const content = v.terms.filter(([, s]) => s >= threshold).map(([t]) => t).join(" ")
-    out[id] = { slug: v.slug, frag: v.frag, title: v.title, tags: v.tags, content, links: [] }
+    out[id] = { slug: v.slug, frag: v.frag, title: v.title, tags: v.tags, content, links: (v.links || []).slice(0, 20) }
   }
   return out
 }

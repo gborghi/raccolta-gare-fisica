@@ -180,6 +180,44 @@ function metaLinks(content, label) {
   return [...m[1].matchAll(/\[\[([^\]|#]+?)(?:#[^\]|]*)?(?:\|[^\]]*)?\]\]/g)].map((x) => x[1].trim())
 }
 
+// SPA (Task 5.1): per-atom outbound graph links, so the collapsed atom (a
+// fragment section, not its own page) still contributes edges to the knowledge
+// graph like it did as a standalone page. Scans an atom's POST-transform() body
+// (so atom-target wikilinks are already rewritten to "prove/<stem>#<atomid>"
+// fragment form -- see transform() above) for every remaining [[wikilink]]:
+// concept/topic/method/skill/objects meta-line targets AND any sibling-atom
+// fragment links, resolving concept targets through the same noteFolder lookup
+// extractConceptList() uses. PDF/figure embeds are skipped (not graph nodes).
+// Deduped, capped at MAX_ATOM_LINKS -- this is graph topology ONLY, never fed
+// into keywordCounts()/tf-idf terms (which run on a separately-cleaned body that
+// already strips all [[...]] wikilinks wholesale).
+const MAX_ATOM_LINKS = 20
+const LINK_WIKILINK_RE = /\[\[([^\]|#]+)(#[^\]|]*)?(?:\|[^\]]*)?\]\]/g
+function atomLinks(body, noteFolder) {
+  const out = []
+  const seen = new Set()
+  for (const m of body.matchAll(LINK_WIKILINK_RE)) {
+    const target = m[1].trim()
+    if (!target) continue
+    let id
+    if (target.startsWith("prove/") && m[2]) {
+      // already-rewritten sibling-atom link: "prove/<stem>" + "#<atomid>"
+      id = target + m[2]
+    } else {
+      if (/\.(pdf|png|jpe?g|gif|svg|webp)$/i.test(target)) continue  // asset embed, not a graph node
+      const tslug = sluggify(target)
+      const dir = noteFolder.get(tslug)
+      if (dir == null) continue   // unresolved target -- skip (no dangling graph nodes)
+      id = dir ? dir + "/" + tslug : tslug
+    }
+    if (seen.has(id)) continue
+    seen.add(id)
+    out.push(id)
+    if (out.length >= MAX_ATOM_LINKS) break
+  }
+  return out
+}
+
 function summarize(content) {
   let body = content
     .replace(/^#\s+.*$/m, "")                          // drop first H1
@@ -584,13 +622,18 @@ async function main() {
       let body = pf.content.replace(/^#\s+.+?[ \t]*(\r?\n|$)/m, "")   // drop leading H1 (title rendered by marker)
       const bodyForIndex = body   // TEXT body (pre-transform), for keywordCounts -- NOT the emitted HTML
       body = transform(body)
+      // SPA (Task 5.1): capture this atom's own outbound graph links from its
+      // post-transform body -- BEFORE mergeSiblings folds in translation-sibling
+      // blocks, so links stay scoped to this atom's own (native-language)
+      // content, not a translated duplicate of the same targets.
+      const links = atomLinks(body, noteFolder)
       body = mergeSiblings(a.base, body, pf.data.lang || "it", siblings, transform)
       const atags = Array.isArray(pf.data.tags) ? pf.data.tags : []
       // atomFrag is populated in the grouping pass above (needed there before the
       // main file loop runs); this pass just consumes the same value implicitly
       // via stemSlug/a.atomId below.
       const id = `prove/${stemSlug}#${a.atomId}`
-      atomMeta.set(id, { title: atomTitle, tags: atags })
+      atomMeta.set(id, { title: atomTitle, tags: atags, links })
       counts[id] = keywordCounts(bodyForIndex)
       // id= gives the marker a static scroll-anchor: hover-popovers (and no-JS
       // direct links) resolve prove/<stem>#qNN against the raw server-rendered
@@ -631,7 +674,7 @@ async function main() {
         .map(([t, tf]) => [t, tf * Math.log(N / df[t])])
         .sort((a, b) => b[1] - a[1])
         .slice(0, 300)                       // high safety cap; NOT the shipped size
-      atoms[id] = { slug, frag, title: rec.title || frag, tags: rec.tags || [], terms }
+      atoms[id] = { slug, frag, title: rec.title || frag, tags: rec.tags || [], links: rec.links || [], terms }
     }
     const fullIndexPath = path.join(STATIC_GEN, "atoms_fullindex.json")
     const json = JSON.stringify({ N, df, atoms })

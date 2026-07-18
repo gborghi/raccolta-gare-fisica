@@ -210,8 +210,15 @@ function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLeve
     const tslug = sluggify(target)
     const dir = (noteFolder && noteFolder.get(tslug))
     const hbase = dir != null ? (dir ? dir + "/" + tslug : tslug) : "prove/" + tslug
+    // SPA: atom targets (<stem>__<atomId>) no longer have their own page -- rewrite
+    // to the fragment section prove/<stem>#<atomId> on the container reader page.
+    // Computed locally (not from atomFrag) because extractConceptList runs during
+    // the main file loop, before the container pass builds proveAtoms' fragments.
+    let h = hbase + anchor
+    const am = tslug.match(/^(.*)__([a-z0-9]+)$/i)
+    if (am && (dir === "prove" || dir == null)) h = `prove/${am[1]}#${am[2]}`
     items.push({
-      h: hbase + anchor,
+      h,
       l: (m[3] || target).trim(),
       s: (m[4] || "").trim(),
       f: (stemFlag && stemFlag[target]) || "",   // ISO-2 for flagcdn; "" -> globe

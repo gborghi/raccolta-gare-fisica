@@ -167,7 +167,9 @@ async function renderOne(el: HTMLElement, prefix: string) {
     if (!query) return rows
     if (mode === "content") {
       return rows.filter((r) => {
-        const kw = kwCache?.[r.h.replace(/#.*$/, "")] // strip heading anchor for lookup
+        // SPA: kwIndex is now keyed by the full fragment href (prove/<stem>#<atomId>)
+        // for atom targets -- do NOT strip the anchor, or the lookup misses.
+        const kw = kwCache?.[r.h]
         return kw ? kw.includes(query) : false
       })
     }

@@ -36,3 +36,7 @@ Search fork: post-restore patch script scripts/patch-search-fork.mjs (upstream, 
 ### Phase 4 split
 - 4A = Tasks 4.1 (full offline index atoms_fullindex.json) + 4.2/4.3 (projection scripts make-search-index.mjs -> contentIndex.json ~15MB + contentIndexMobile.json ~8MB). Design: full index keeps ALL terms + tfidf + df/N (offline, NOT shipped); projections pick terms by global tfidf threshold to fill budget. Per-exercise (id=prove/<stem>#<atomId>), tf-idf.
 - 4B = Task 4.4 (scripts/patch-search-fork.mjs idempotent post-restore patch + tiered fetch mobile/desktop + fragment href in .quartz search fork).
+
+- Phase 4A (search index): keywordCounts() variant, atomMeta/counts in container pass, atoms_fullindex.json {N,df,atoms} offline; scripts/make-search-index.mjs projects contentIndex.json(15MB)+contentIndexMobile.json(8MB) by global tfidf threshold binary-search. commits fbe29214c..77f9a63ef + fix d8129559. Review: SPEC ok, QUALITY approved after fix (RGF_BUILD paths, mkdir guard, serialize-once, maxScore -Infinity). Threshold direction verified via synthetic fixture running real script.
+  GATE ⚠️: real desktop size must land 13-16MB; if <13MB the 300-terms/atom cap in Task 4.1 is starving fill -> raise cap. mobile 6.5-9MB & < desktop.
+- Phase 4B = Task 4.4 (search fork patch) NEXT.

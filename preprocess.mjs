@@ -90,6 +90,26 @@ function keywords(content) {
   }
   return [...seen].join(" ")
 }
+
+// Sibling of keywords() for the SPA full tf-idf index (Task 4.1): same body-slice
+// (drop the metadata footer), same cleaning, same STOPWORDS -- but returns a
+// Map<term, count> instead of a deduped string, since tf-idf needs term frequency.
+function keywordCounts(content) {
+  const body = content.split(/\n\*\*(?:Topic|Metodi|Competenze|Objects|Fonte|Risposta|Soluzione)/)[0]
+  const cleaned = body
+    .replace(/<!--fig:start-->[\s\S]*?<!--fig:end-->/g, " ")
+    .replace(/\[\[[^\]]*\]\]/g, " ")           // wikilinks
+    .replace(/\[[^\]]*\]\([^)]*\)/g, " ")       // md links
+    .replace(/[`*_>#|]/g, " ")                  // md syntax
+    .toLowerCase()
+    .replace(/[^a-zà-ÿ\s]/g, " ")               // letters only (drop digits/punct/symbols)
+  const counts = new Map()
+  for (const w of cleaned.split(/\s+/)) {
+    if (w.length < 3 || STOPWORDS.has(w)) continue
+    counts.set(w, (counts.get(w) || 0) + 1)
+  }
+  return counts
+}
 const SKIP_DIRS = new Set(["tmp_imgs"])
 // stray root notes that pollute the Explorer sidebar with broken/empty entries
 // (the faceted /cerca search covers navigation). Skipped at publish time.
@@ -530,6 +550,15 @@ async function main() {
     }
   }
 
+  // --- SPA: full offline tf-idf search index (Task 4.1) -- per-atom title/tags
+  // meta and term counts, accumulated during the container pass below, then
+  // reduced to tf-idf terms + corpus stats and written to
+  // staticgen/atoms_fullindex.json (kept OFFLINE, never shipped to public/;
+  // scripts/make-search-index.mjs projects the shipped desktop/mobile subsets
+  // from it).
+  const atomMeta = new Map()   // id ("prove/<stem>#<atomId>") -> { title, tags }
+  const counts = {}            // id -> Map<term, count> (this atom's TEXT body)
+
   // --- SPA: emit one reader page per prove stem ---
   for (const [stem, atoms] of proveAtoms) {
     const stemSlug = sluggify(stem)
@@ -553,12 +582,16 @@ async function main() {
       const bodyH1 = pf.content.match(/^#\s+(.+?)\s*$/m)
       const atomTitle = pf.data.title || (bodyH1 ? bodyH1[1].trim() : a.atomId)
       let body = pf.content.replace(/^#\s+.+?[ \t]*(\r?\n|$)/m, "")   // drop leading H1 (title rendered by marker)
+      const bodyForIndex = body   // TEXT body (pre-transform), for keywordCounts -- NOT the emitted HTML
       body = transform(body)
       body = mergeSiblings(a.base, body, pf.data.lang || "it", siblings, transform)
       const atags = Array.isArray(pf.data.tags) ? pf.data.tags : []
       // atomFrag is populated in the grouping pass above (needed there before the
       // main file loop runs); this pass just consumes the same value implicitly
       // via stemSlug/a.atomId below.
+      const id = `prove/${stemSlug}#${a.atomId}`
+      atomMeta.set(id, { title: atomTitle, tags: atags })
+      counts[id] = keywordCounts(bodyForIndex)
       // id= gives the marker a static scroll-anchor: hover-popovers (and no-JS
       // direct links) resolve prove/<stem>#qNN against the raw server-rendered
       // HTML, before atomRouter.inline.ts has detached/reinserted anything.
@@ -581,6 +614,29 @@ async function main() {
   await fs.writeFile(STATIC_JSON, JSON.stringify(quesiti))
   await fs.writeFile(KW_JSON, JSON.stringify(kwIndex))
   console.log(`keyword index: ${Object.keys(kwIndex).length} atoms, ${(JSON.stringify(kwIndex).length / 1e6).toFixed(1)}MB`)
+
+  // --- SPA: reduce accumulated per-atom term counts to the FULL offline tf-idf
+  // index (Task 4.1). Kept OUT of public/ -- scripts/make-search-index.mjs reads
+  // this to project the shipped desktop/mobile indices at any size budget without
+  // re-parsing the vault.
+  {
+    const N = Object.keys(counts).length
+    const df = {}
+    for (const c of Object.values(counts)) for (const t of c.keys()) df[t] = (df[t] || 0) + 1
+    const atoms = {}
+    for (const [id, c] of Object.entries(counts)) {
+      const [slug, frag] = id.split("#")
+      const rec = atomMeta.get(id) || {}
+      const terms = [...c.entries()]
+        .map(([t, tf]) => [t, tf * Math.log(N / df[t])])
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 300)                       // high safety cap; NOT the shipped size
+      atoms[id] = { slug, frag, title: rec.title || frag, tags: rec.tags || [], terms }
+    }
+    const fullIndexPath = path.join(STATIC_GEN, "atoms_fullindex.json")
+    await fs.writeFile(fullIndexPath, JSON.stringify({ N, df, atoms }))
+    console.log(`full tf-idf index: ${N} atoms, ${(JSON.stringify({ N, df, atoms }).length / 1e6).toFixed(1)}MB (offline only, not shipped)`)
+  }
 
   const home = `---
 title: Raccolta Gare di Fisica

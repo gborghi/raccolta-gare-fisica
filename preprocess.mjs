@@ -60,6 +60,7 @@ const STATIC_GEN = path.join(BUILD, "staticgen")
 const STATIC_JSON = path.join(STATIC_GEN, "quesiti.json")
 const CL_DIR = path.join(STATIC_GEN, "cl")   // per-concept paginated-list JSON
 const KW_JSON = path.join(STATIC_GEN, "quesiti_kw.json") // hidden full-text keyword index (href -> keywords)
+const TAGMAP_JSON = path.join(STATIC_GEN, "tagmap.json") // SPA (Task 6.4): vault tag slug -> cerca facet token
 
 // --- Hidden full-text keyword index --------------------------------------------
 // For each atom we extract the meaningful words of its statement so the concept-
@@ -358,6 +359,81 @@ function tagVal(tags, prefix) {
   return t ? t.slice(prefix.length) : ""
 }
 
+// SPA (Task 6.4, Part B): vault tag slug -> cerca facet token map.
+// The frontmatter tag slug (what on-page tag chips render as tags/<slug>) is
+// the vault's OWN slug and can NOT be re-derived by re-slugifying the facet's
+// display value client-side (verified: topic/oscillations-e-waves vs display
+// "Oscillations & Waves"; livello/1-livello vs value "1° Livello"). So the
+// map is built here, by co-occurrence, once per atom, from data already
+// computed for the quesiti.json push.
+//
+// Prefix -> facet mapping (verified corpus facts -- the vault's frontmatter
+// tag prefixes are EXACTLY: kg, graph, object, topic, paese, nazione, comp,
+// cluster, argomento, difficolta, tipo-gara, livello, anno, multidisciplina):
+//   topic/, object/     MULTI   -- zip with topics/objects display array by index
+//   paese/, nazione/    SCALAR  -- country
+//   comp/               SCALAR  -- comp_code
+//   cluster/, argomento/ SCALAR -- cluster
+//   livello/            SCALAR  -- level
+//   anno/               SCALAR  -- year
+//   difficolta/         DIRECT  -- suffix IS the value
+//   tipo-gara/          DIRECT  -- suffix IS the value
+//   kg/, graph/, multidisciplina/, any other -- OMIT (no facet)
+// methods/skills have NO frontmatter tag prefix in this vault (they live only
+// in **Metodi:**/**Competenze:** lines), so they need no slug mapping.
+const TAGMAP_MULTI = { "topic/": "topics", "object/": "objects" }
+const TAGMAP_SCALAR = {
+  "paese/": "country", "nazione/": "country", "comp/": "comp_code",
+  "cluster/": "cluster", "argomento/": "cluster", "livello/": "level", "anno/": "year",
+}
+const TAGMAP_DIRECT = { "difficolta/": "difficolta", "tipo-gara/": "tipo_gara" }
+const TAGMAP_KNOWN_PREFIXES = [
+  ...Object.keys(TAGMAP_MULTI), ...Object.keys(TAGMAP_SCALAR), ...Object.keys(TAGMAP_DIRECT),
+  "kg/", "graph/", "multidisciplina/",
+]
+
+// Populates `tagmap` (slug -> "facetKey::facetVal") for one atom's tags,
+// using the same facet values just computed for the quesiti.json push.
+// `facets` = { topics, objects, country, comp_code, cluster, level, year }
+// (topics/objects are the metaLinks() display arrays; the rest are the
+// scalar strings, already stringified/defaulted as pushed into quesiti).
+// `counters` = { skippedMulti, collisions, unmapped } accumulated across atoms.
+function buildTagMap(tagmap, tags, facets, counters) {
+  const set = (slug, token) => {
+    if (Object.prototype.hasOwnProperty.call(tagmap, slug) && tagmap[slug] !== token) counters.collisions++
+    tagmap[slug] = token
+  }
+
+  for (const [prefix, facetKey] of Object.entries(TAGMAP_MULTI)) {
+    const matchTags = tags.filter((t) => typeof t === "string" && t.startsWith(prefix))
+    if (!matchTags.length) continue
+    const display = facets[facetKey] || []
+    if (matchTags.length !== display.length) { counters.skippedMulti++; continue }  // zip guard: never guess pairing
+    for (let i = 0; i < matchTags.length; i++) set(matchTags[i], `${facetKey}::${display[i]}`)
+  }
+
+  for (const [prefix, facetKey] of Object.entries(TAGMAP_SCALAR)) {
+    const t = tags.find((x) => typeof x === "string" && x.startsWith(prefix))
+    if (!t) continue
+    const val = facets[facetKey]
+    if (val === undefined || val === null || val === "") continue  // scalar-empty guard
+    set(t, `${facetKey}::${val}`)
+  }
+
+  for (const [prefix, facetKey] of Object.entries(TAGMAP_DIRECT)) {
+    const t = tags.find((x) => typeof x === "string" && x.startsWith(prefix))
+    if (!t) continue
+    const suffix = t.slice(prefix.length)
+    if (!suffix) continue
+    set(t, `${facetKey}::${suffix}`)
+  }
+
+  for (const t of tags) {
+    if (typeof t !== "string" || !t.includes("/")) continue
+    if (!TAGMAP_KNOWN_PREFIXES.some((p) => t.startsWith(p))) counters.unmapped++
+  }
+}
+
 // Mark a dir Dropbox-ignored via its NTFS alternate-data-stream (same as
 // `Set-Content -Stream com.dropbox.ignored`). content/ + staticgen/ are rm+recreated
 // each run, so the flag must be re-written in-code or Dropbox re-syncs 20k+ files.
@@ -465,6 +541,8 @@ async function main() {
   }
   const quesiti = []
   const kwIndex = {}
+  const tagmap = {}   // SPA (Task 6.4): vault tag slug -> cerca facet token, see buildTagMap()
+  const tagmapCounters = { skippedMulti: 0, collisions: 0, unmapped: 0 }
   let mdWritten = 0, assetsCopied = 0, clIdx = 0, pagedLists = 0
   const SIB_RE = /__(?:it|en|es|pt|de|fr)$/   // secondary translation sibling stems
 
@@ -565,26 +643,40 @@ async function main() {
       const kw = keywords(content)
       if (kw) kwIndex[href] = kw
       const nat = nationInfo(data.country, data.comp_code, data.pdf)
+      // Captured once, reused for BOTH the quesiti.json push AND the tagmap
+      // (Task 6.4, Part B) -- avoids re-running metaLinks()/tagVal() twice.
+      const topicsV = metaLinks(content, "Topic")
+      const objectsV = metaLinks(content, "Objects")
+      const levelV = data.level ? String(data.level) : ""
+      const difficoltaV = tagVal(tags, "difficolta/")
+      const tipoGaraV = tagVal(tags, "tipo-gara/")
+      const yearV = data.year ?? ""
+      const countryV = data.country ?? ""
+      const compCodeV = data.comp_code ?? ""
       quesiti.push({
         href,
         flag: nat.iso,           // ISO-2 for flagcdn ("" -> globe)
         flag_name: nat.name,     // English country name (flag tooltip)
         competition: data.competition ?? "",
-        comp_code: data.comp_code ?? "",
+        comp_code: compCodeV,
         quesito: data.quesito ?? "",
         summary: summarize(content),
         answer: ans ? ans[1] : "",
-        topics: metaLinks(content, "Topic"),
+        topics: topicsV,
         methods: metaLinks(content, "Metodi"),
         skills: metaLinks(content, "Competenze"),
-        objects: metaLinks(content, "Objects"),
+        objects: objectsV,
         cluster: cluster ? [cluster] : [],
-        level: data.level ? String(data.level) : "",
-        difficolta: tagVal(tags, "difficolta/"),
-        tipo_gara: tagVal(tags, "tipo-gara/"),
-        year: data.year ?? "",
-        country: data.country ?? "",
+        level: levelV,
+        difficolta: difficoltaV,
+        tipo_gara: tipoGaraV,
+        year: yearV,
+        country: countryV,
       })
+      buildTagMap(tagmap, tags, {
+        topics: topicsV, objects: objectsV, country: countryV,
+        comp_code: compCodeV, cluster, level: levelV, year: yearV,
+      }, tagmapCounters)
     }
   }
 
@@ -657,6 +749,13 @@ async function main() {
   await fs.writeFile(STATIC_JSON, JSON.stringify(quesiti))
   await fs.writeFile(KW_JSON, JSON.stringify(kwIndex))
   console.log(`keyword index: ${Object.keys(kwIndex).length} atoms, ${(JSON.stringify(kwIndex).length / 1e6).toFixed(1)}MB`)
+  await fs.writeFile(TAGMAP_JSON, JSON.stringify(tagmap))
+  console.log(
+    `tagmap: ${Object.keys(tagmap).length} slugs, ` +
+    `${tagmapCounters.skippedMulti} skipped-multi-family atoms, ` +
+    `${tagmapCounters.collisions} conflicting-value collisions, ` +
+    `${tagmapCounters.unmapped} unmapped-prefix occurrences`
+  )
 
   // --- SPA: reduce accumulated per-atom term counts to the FULL offline tf-idf
   // index (Task 4.1). Kept OUT of public/ -- scripts/make-search-index.mjs reads

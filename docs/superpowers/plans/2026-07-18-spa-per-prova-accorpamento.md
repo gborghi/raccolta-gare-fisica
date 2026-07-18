@@ -692,6 +692,53 @@ git commit -m "feat(spa): per-atom graph nodes with fragment hrefs"
 
 ---
 
+## Phase 5.5 -- Merge real pages into the shipped index (search + graph parity)
+
+**Why (gap found during Phase 5):** `scripts/make-search-index.mjs` currently OVERWRITES `public/static/contentIndex.json` with atom entries ONLY. That drops every real Quartz page (concept pages: topics/methods/objects/clusters/skills; soluzioni; home; cerca) from the shipped index. Consequences: (1) concept + soluzioni pages become UN-searchable in the top bar -- a behavioral-parity regression; (2) the graph loses concept nodes, so atom->concept edges (`validLinks.has(dest)` on a concept slug) never render. The fix: MERGE, don't replace.
+
+### Task 5.5: Merge native page entries + atom entries in the projection
+
+**Files:**
+- Modify: `scripts/make-search-index.mjs` -- read the Quartz-native `contentIndex.json` (written by `npx quartz build`) BEFORE overwriting; merge.
+
+**Interfaces:**
+- Consumes: the build-generated `public/static/contentIndex.json` (native schema `{slug, title, content, tags, links, filePath}`, all real pages, NO atom entries) + `staticgen/atoms_fullindex.json`.
+- Produces: the merged shipped `contentIndex.json` (+ mobile) = native NON-container entries (concepts/soluzioni/home/cerca) with content truncated to a snippet, PLUS the atom projected entries, with the tf-idf threshold filling only the ATOM terms into the remaining budget.
+
+- [ ] **Step 1: Write the failing test** `test/spa-index-merge.test.mjs`:
+```js
+import { test } from "node:test"; import assert from "node:assert/strict"; import fs from "node:fs"
+const P = "public/static/contentIndex.json"
+const has = fs.existsSync(P)
+test("shipped index keeps concept pages AND atom entries", { skip: !has && "index not built" }, () => {
+  const idx = JSON.parse(fs.readFileSync(P, "utf8"))
+  const keys = Object.keys(idx)
+  assert.ok(keys.some((k) => /#/.test(k)), "has atom fragment entries")
+  assert.ok(keys.some((k) => /^(topics|methods|objects|clusters|skills)\//.test(k)), "has concept pages")
+  assert.ok(!keys.some((k) => /^prove\/[^#]+$/.test(k)), "prove CONTAINER pages dropped (atoms replace them)")
+})
+```
+
+- [ ] **Step 2: Run, verify it fails** (current script drops concepts).
+
+- [ ] **Step 3: Implement the merge in `make-search-index.mjs`.**
+  - Read the native index (if present): `const native = fs.existsSync(P) ? JSON.parse(fs.readFileSync(P)) : {}`. It is the file the script is about to overwrite -- read it FIRST at the top.
+  - Keep native entries whose key is NOT a `prove/<stem>` container (drop `^prove/[^#]+$` -- atoms replace them; keep everything else: concepts, soluzioni, home, cerca, tag pages if any). Truncate each kept entry's `content` to a snippet (e.g. 300 chars) to bound budget; keep its `title`/`tags`/`links`; leave `slug`=its key, no `frag`.
+  - Build the atom projection as today (threshold fill), but size the budget as `budget - byteSize(keptNativeEntries)` so the TOTAL merged file lands under 15 MB / 8 MB. Merge the two maps and write.
+  - Non-container native entries keep their native shape -> search href + graph nodeHref treat them (no `.frag`) exactly as today = parity.
+
+- [ ] **Step 4: (controller, gate) Run build -> `node scripts/make-search-index.mjs`; run this test + `test/spa-index-size.test.mjs` (still <=15/8 MB after merge).**
+
+- [ ] **Step 5: Commit.**
+```bash
+git add scripts/make-search-index.mjs test/spa-index-merge.test.mjs
+git commit -m "feat(spa): merge concept/soluzioni pages + atom entries in shipped index"
+```
+
+**Note (graph scope, found in Phase 5):** the GLOBAL graph is already deliberately capped to ~50 concept-only nodes by existing custom code; per-atom nodes matter mainly in the LOCAL ego-graph opened from an atom. The "current node" highlight also cannot match an atom (slug-from-URL ignores the hash) -- both are pre-existing consequences of the collapse, tracked as Phase 7 gate items, not blockers.
+
+---
+
 ## Phase 6 -- Redirects, native tag pages, parity audit
 
 Deliverable: old per-atom URLs redirect to fragments; native `tags/*.html` are gone; a click-through audit confirms parity.

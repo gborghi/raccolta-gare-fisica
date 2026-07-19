@@ -268,7 +268,14 @@ function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLeve
     // back to Prove/ keeps old behavior if a target isn't in the note index.
     const tslug = sluggify(target)
     const dir = (noteFolder && noteFolder.get(tslug))
-    const hbase = dir != null ? (dir ? dir + "/" + tslug : tslug) : "prove/" + tslug
+    // extractConceptList runs on POST-transform() content, so atom wikilinks are
+    // already rewritten to `[[prove/<stem>#<atomId>]]` -- target=`prove/<stem>`,
+    // tslug already carries the "prove/" segment. Prepending "prove/" again (the
+    // dir==null branch) doubles it to "prove/prove/<stem>#..." and 404s. If tslug
+    // already starts with "prove/", it IS the container path -- use as-is.
+    const hbase = tslug.startsWith("prove/")
+      ? tslug
+      : dir != null ? (dir ? dir + "/" + tslug : tslug) : "prove/" + tslug
     // SPA: atom targets (<stem>__<atomId>) no longer have their own page -- rewrite
     // to the fragment section prove/<stem>#<atomId> on the container reader page.
     // Computed locally (not from atomFrag) because extractConceptList runs during
@@ -279,7 +286,12 @@ function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLeve
     // dropped here: the fragment is repurposed to select the atom itself, so a second
     // "#" is impossible. The atomRouter renders the whole atom (subheading content
     // included), so landing on prove/<stem>#<atomId> still surfaces the target text.
-    if (am && (dir === "prove" || dir == null)) h = `prove/${am[1]}#${am[2]}`
+    // am[1] is sluggify(target) minus the __atomId; the target often already
+    // carries a "prove/" path segment (e.g. "prove/injso2017-question__q05"),
+    // so take only its LAST segment as the container stem -- else the href
+    // doubles to "prove/prove/<stem>#..." and 404s. Container pages emit at
+    // prove/<stem-basename>, matching atomFrag's `prove/${stem}#${atomId}`.
+    if (am && (dir === "prove" || dir == null)) h = `prove/${am[1].split("/").pop()}#${am[2]}`
     items.push({
       h,
       l: (m[3] || target).trim(),

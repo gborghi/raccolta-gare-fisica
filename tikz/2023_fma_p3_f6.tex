@@ -1,0 +1,17 @@
+\begin{tikzpicture}
+  % ground
+  \draw[pattern=north east lines] (-0.3,-0.3) rectangle (5.3,-0.6);
+  \draw (-0.3,-0.3) -- (5.3,-0.3);
+  % large base block m
+  \fill[gray!35] (0,0) rectangle (5,0.6);
+  \draw (0,0) rectangle (5,0.6);
+  \node at (2.5,0.3) {$m$};
+  % two top blocks m, m
+  \draw (0.8,0.6) rectangle (2.4,1.6);
+  \node at (1.6,1.1) {$m$};
+  \draw (2.4,0.6) rectangle (4.0,1.6);
+  \node at (3.2,1.1) {$m$};
+  % applied force F
+  \draw[-{Latex}] (5,0.3) -- (6.2,0.3);
+  \node at (6.5,0.3) {$F$};
+\end{tikzpicture}

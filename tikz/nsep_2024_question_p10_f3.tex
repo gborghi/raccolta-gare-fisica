@@ -1,0 +1,13 @@
+\begin{tikzpicture}[>=Latex]
+  \filldraw (0,0) circle (1.5pt) node[above] {A};
+  \filldraw (2.5,0) circle (1.5pt) node[above] {D};
+  \filldraw (5,0) circle (1.5pt) node[above] {P};
+  \draw[dashed] (0,0) -- (5,0);
+  \draw[->, thick] (2.5,0) -- (4.0,0);
+  \node[above] at (3.7,0.05) {$v$};
+  \draw[dashed] (2.5,0) -- (2.5,-2);
+  \filldraw (2.5,-2) circle (1.5pt) node[below] {O};
+  \draw (2.5,-0.35) -- (2.15,-0.35) -- (2.15,0);
+  \node[right] at (2.55,-0.25) {$90^\circ$};
+  \node[right] at (2.6,-1) {1 m};
+\end{tikzpicture}

@@ -1,0 +1,16 @@
+\begin{tikzpicture}[x=1cm,y=1cm,line width=0.9pt]
+  % three energy levels
+  \draw (0,0) -- (2.4,0);
+  \draw (0,1.6) -- (2.4,1.6);
+  \draw (0,3.2) -- (2.4,3.2);
+  \node[left] at (0,0) {$E_1$};
+  \node[left] at (0,1.6) {$E_2$};
+  \node[left] at (0,3.2) {$E_3$};
+  % transition arrows (double-headed, vertical)
+  \draw[{Stealth[length=2mm]}-{Stealth[length=2mm]}] (0.5,0) -- (0.5,1.6);
+  \node[right] at (0.5,0.8) {$\lambda_{21}$};
+  \draw[{Stealth[length=2mm]}-{Stealth[length=2mm]}] (1.3,0) -- (1.3,3.2);
+  \node[right] at (1.3,1.6) {$\lambda_{31}$};
+  \draw[{Stealth[length=2mm]}-{Stealth[length=2mm]}] (2.0,1.6) -- (2.0,3.2);
+  \node[right] at (2.0,2.4) {$\lambda_{32}$};
+\end{tikzpicture}

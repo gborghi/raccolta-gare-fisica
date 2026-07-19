@@ -1,0 +1,15 @@
+\begin{tikzpicture}[x=1cm,y=1cm,>=Stealth]
+  % ground (n3 medium)
+  \draw[line width=0.8pt] (-2.2,0) -- (2.2,0);
+  \node[below] at (0,-0.35) {$n_3$};
+  % vertical interface (n2 to the right)
+  \draw[line width=0.8pt] (0,0) -- (0,2.5);
+  \node[right] at (0.15,1.4) {$n_2$};
+  % incoming ray from upper right hitting interface point
+  \draw[->] (1.0,2.3) -- (0.05,1.15);
+  % refracted/transmitted ray continuing down to ground point
+  \draw[->] (0.05,1.15) -- (-1.4,0.05);
+  % reflected/incident ray from ground point going up-left (n1 side, outgoing)
+  \draw[->] (-1.4,0.05) -- (-2.1,1.9);
+  \node[left] at (-1.9,1.0) {$n_1$};
+\end{tikzpicture}

@@ -1,0 +1,22 @@
+\begin{tikzpicture}
+  % node point
+  \coordinate (O) at (0,0);
+  % top branch with 6A arrow pointing down into node
+  \draw (0,1.6) -- (O);
+  \draw[-{Latex}] (0,1.2) -- (0,0.6);
+  \node at (0.35,1.0) {6 A};
+  % left branch, arrow pointing left away from node, labeled 5A
+  \draw (-2,0) -- (O);
+  \draw[-{Latex}] (-1.4,0) -- (-2,0);
+  \node at (-1.0,0.3) {$\leftarrow$5 A};
+  % right branch, arrow pointing left toward node, labeled 2A
+  \draw (2,0) -- (O);
+  \draw[-{Latex}] (1.4,0) -- (0.8,0);
+  \node at (1.0,0.3) {$\leftarrow$2 A};
+  % bottom branch with ammeter
+  \draw (O) -- (0,-0.9);
+  \draw (0,-1.5) circle (0.35);
+  \node at (0,-1.5) {A};
+  \draw (0,-1.85) -- (0,-2.4);
+  \filldraw (O) circle (1.5pt);
+\end{tikzpicture}

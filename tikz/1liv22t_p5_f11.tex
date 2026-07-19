@@ -1,0 +1,15 @@
+\begin{tikzpicture}[x=1cm,y=1cm,>=Stealth]
+  % vertical support rod
+  \draw[line width=1.2pt] (0,0) -- (0,5);
+  % string from top of rod to bob at rest (bottom-left ball)
+  \draw[line width=1pt] (0,5) -- (-0.6,0.5);
+  \node[circle,fill=gray!70,minimum size=0.8cm,inner sep=0] at (-0.6,0.4) {};
+  \node[left] at (-0.35,2.8) {$\ell$};
+  % dashed string to swung position (overlapping double-circle bob)
+  \draw[dashed,line width=0.8pt] (0,5) -- (1.1,0.8);
+  \node[circle,fill=gray!50,minimum size=0.75cm,inner sep=0] at (1.0,0.7) {};
+  \node[circle,fill=gray!50,minimum size=0.75cm,inner sep=0] at (1.25,0.65) {};
+  % velocity arrow
+  \draw[->] (1.5,0.9) -- (2.3,1.15);
+  \node[above right] at (2.3,1.15) {$\vec{v}$};
+\end{tikzpicture}

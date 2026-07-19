@@ -1,0 +1,18 @@
+\begin{tikzpicture}[line width=0.8pt]
+% dotted square A B C D
+\draw[dotted] (0,3) -- (3,3) -- (3,0) -- (0,0) -- cycle;
+% corner points
+\filldraw[fill=white] (0,3) circle (1.5pt);
+\filldraw[fill=white] (3,3) circle (1.5pt);
+\filldraw[fill=white] (3,0) circle (1.5pt);
+\filldraw[fill=white] (0,0) circle (1.5pt);
+% center point P
+\filldraw[fill=white] (1.5,1.5) circle (1.5pt);
+% labels
+\node at (-0.3,3) {A};
+\node at (3.3,3) {B};
+\node at (3.3,0) {C};
+\node at (-0.3,0) {D};
+\node at (1.8,1.7) {P};
+\node at (3.35,1.5) {$\ell$};
+\end{tikzpicture}

@@ -1,0 +1,17 @@
+\begin{tikzpicture}[line width=0.9pt]
+  % bounding rectangle (water channel)
+  \draw (-2.6,-1.5) rectangle (2.6,1.5);
+  % dashed vertical reference line
+  \draw[dashed] (-1.3,1.3) -- (-1.3,-1.3);
+  % boat hull (hatched elongated shape) tilted at angle theta from the dashed vertical
+  \begin{scope}[rotate around={-25:(-1.3,0)}]
+    \draw[pattern=north west lines] (-1.3,-1.0) -- (-1.55,-0.35) -- (-1.05,-0.35) -- cycle;
+    \draw (-1.3,-1.0) -- (-1.55,-0.35) -- (-1.05,-0.35) -- cycle;
+  \end{scope}
+  % angle theta between dashed line and hull axis
+  \draw (-1.3,0.6) arc (90:65:0.6);
+  \node at (-1.05,0.75) {$\theta$};
+  % velocity arrow v_a to the right
+  \draw[->, line width=1.1pt] (0.2,0.3) -- (1.9,0.3);
+  \node[above] at (1.05,0.3) {$v_a$};
+\end{tikzpicture}

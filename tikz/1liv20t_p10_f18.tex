@@ -1,0 +1,16 @@
+\begin{tikzpicture}[line width=0.9pt]
+  % ceiling (double line)
+  \draw (-1.6,2.6) -- (1.6,2.6);
+  \draw (-1.6,2.45) -- (1.6,2.45);
+  % block M
+  \draw[fill=black!20] (-1.0,0.0) rectangle (1.0,1.0);
+  \node at (0,0.5) {$M$};
+  % dashed horizontal reference from top-right corner of block
+  \draw[dotted] (1.0,1.0) -- (2.4,1.0);
+  % force arrow F at angle theta from top-right corner
+  \draw[->, line width=1.1pt] (1.0,1.0) -- (2.1,2.6);
+  \node at (1.75,1.85) {$\vec{F}$};
+  % angle theta
+  \draw (1.5,1.0) arc (0:70:0.5);
+  \node at (1.35,1.35) {$\theta$};
+\end{tikzpicture}

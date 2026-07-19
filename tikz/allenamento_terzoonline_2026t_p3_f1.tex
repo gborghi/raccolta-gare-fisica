@@ -1,0 +1,15 @@
+\begin{tikzpicture}
+  % V-shaped incline
+  \draw[thick] (-2.5,2.5) -- (0,0) -- (2.5,2.5);
+  % particle on left slope
+  \filldraw (-1.1,1.1) circle (2pt);
+  % gravity vector
+  \draw[-{Latex}] (-1.2,-0.3) -- (-1.2,-1.3);
+  \node at (-1.5,-0.8) {$\vec{g}$};
+  % half-angles at the vertex
+  \draw[dashed] (0,0) -- (0,1.4);
+  \draw (0,0) ++(90:0.5) arc (90:125:0.5);
+  \node at (-0.25,0.55) {$\alpha$};
+  \draw (0,0) ++(90:0.5) arc (90:55:0.5);
+  \node at (0.25,0.55) {$\alpha$};
+\end{tikzpicture}

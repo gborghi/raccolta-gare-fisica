@@ -1,0 +1,10 @@
+\begin{tikzpicture}
+  \draw (0,3) to[R, l=$R$] (4,3);
+  \draw (0,3) to[capacitor, l_=$C$, *-] (0,1.6);
+  \node at (-0.35,3.15) {$+$};
+  \draw (4,3) to[capacitor, l=$2C$, -*] (4,1.6);
+  \node at (4.35,3.15) {$+$};
+  \draw (0,1.6) -- (0,0.8);
+  \draw (4,1.6) -- (4,0.8);
+  \draw (0,0.8) to[switch] (4,0.8);
+\end{tikzpicture}

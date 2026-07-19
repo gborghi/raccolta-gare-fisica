@@ -1,0 +1,12 @@
+\begin{tikzpicture}[line width=1pt]
+% field label with dot-in-circle (out of page)
+\node at (0,2.3) {$\mathbf{B_0}$};
+\draw (0.7,2.3) circle (0.13);
+\filldraw (0.7,2.3) circle (0.03);
+% ground
+\draw[line width=1.5pt] (-1,0) -- (3,0);
+% particle
+\filldraw (0.3,0) circle (2.5pt);
+% velocity vector
+\draw[-{Stealth[length=3mm]}] (0.3,0) -- (1.4,1.1);
+\end{tikzpicture}

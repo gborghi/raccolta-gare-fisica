@@ -331,7 +331,10 @@ try {
 // sidecar reproduction exists for <name> (lowercased). No-op when SVG_FIGS is empty.
 function injectFigSvg(content) {
   if (!SVG_FIGS.size) return content
-  return content.replace(/!\[\[_attachments\/[^\]]*?\/([^\]/]+?)\.png\]\]/gi, (full, name) => {
+  // Match both `![[_attachments/<dir>/<name>.png]]` and the bare `![[<name>.png]]`
+  // Obsidian embed form (some atoms use one, some the other; case varies e.g.
+  // SJPO_2010_...). Capture the basename, lowercase it for the sidecar lookup.
+  return content.replace(/!\[\[(?:[^\]]*\/)?([^\]/]+?)\.png\]\]/gi, (full, name) => {
     const svg = SVG_FIGS.get(name.toLowerCase())
     return svg ? `\n\n<figure class="tikz-fig">\n${svg}\n</figure>\n\n` : full
   })

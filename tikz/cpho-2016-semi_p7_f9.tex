@@ -1,0 +1,25 @@
+\begin{tikzpicture}[>=stealth,x=1cm,y=1cm]
+  \coordinate (A) at (0,0);
+  \coordinate (C) at (4.2,0.1);
+  \coordinate (B) at (1.75,-3.3);
+  \coordinate (D) at (5.4,0.15);
+  % hatched ceiling above A
+  \fill[pattern=north east lines] (-0.7,0.35) rectangle (1.15,0.55);
+  \draw (-0.7,0.35) -- (1.15,0.35);
+  \draw (A) -- (0,0.35);                     % pin to ceiling
+  % dashed reference line A -> C -> D
+  \draw[dashed] (A) -- (D);
+  % rods (thick)
+  \draw[line width=1.8pt] (A) -- (B);
+  \draw[line width=1.8pt] (C) -- (B);
+  % joints
+  \foreach \p in {A,B,C} \draw[fill=white] (\p) circle (0.16);
+  % 60 deg angle at B
+  \draw (B)++(75:0.9) arc (75:127:0.9);
+  \node at ($(B)+(101:1.35)$) {$60^\circ$};
+  % labels
+  \node[left]  at (A) {$A$};
+  \node[above] at (C) {$C$};
+  \node[above right] at (D) {$D$};
+  \node[below] at (B) {$B$};
+\end{tikzpicture}

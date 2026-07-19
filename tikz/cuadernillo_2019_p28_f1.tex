@@ -1,0 +1,20 @@
+\begin{tikzpicture}[>=stealth,x=1cm,y=1cm]
+  \draw (0,0) rectangle (5,5);
+  % top width a
+  \draw[<->] (0,5.6) -- (5,5.6);
+  \node[above] at (2.5,5.6) {$a$};
+  % right height a
+  \draw[<->] (5.6,0) -- (5.6,5);
+  \node[right] at (5.6,2.5) {$a$};
+  % left half-height a/2 (entry at mid-height)
+  \draw[<->] (-0.75,5) -- (-0.75,2.5);
+  \node[left] at (-0.75,3.75) {$a/2$};
+  % electron entering left edge at mid with velocity v
+  \draw[->] (-0.95,2.5) -- (-0.1,2.5);
+  \node[left] at (-0.95,2.5) {$e^-$};
+  \node[below] at (-0.35,2.4) {$v$};
+  % horizontal distance x to the point
+  \draw[<->] (0,2.5) -- (1.9,2.5);
+  \node[above] at (0.95,2.5) {$x$};
+  \fill (2.2,2.2) circle (1.6pt);
+\end{tikzpicture}

@@ -1,0 +1,12 @@
+\begin{tikzpicture}[>=Latex]
+  % incline
+  \draw[line width=2pt, gray!60] (0,0) -- (5.5,2.2);
+  \draw[thick] (0,0) -- (4.2,0);
+  % block on incline
+  \begin{scope}[rotate around={22.5:(1.6,0.64)}]
+    \draw[thick, fill=white] (1.15,0.64) rectangle (2.15,1.34);
+  \end{scope}
+  % angle arc and label
+  \draw (0.9,0) arc (0:22.5:0.9);
+  \node at (1.3,0.32) {$\alpha$};
+\end{tikzpicture}

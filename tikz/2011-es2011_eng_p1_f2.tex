@@ -1,0 +1,13 @@
+\begin{circuitikz}[american]
+  \draw (0,3) circle (0.05) node[left, xshift=-0.1cm] {A};
+  \draw (0,3) to[capacitor, l=$C_1$] (4,3);
+  \draw (4,3) -- (6,3);
+  \draw (6,3) circle (0.05) node[right] {C};
+  \draw (0,1) circle (0.05) node[left, xshift=-0.1cm] {B};
+  \draw (0,1) to[capacitor, l=$C_2$] (4,1);
+  \draw (4,3) -- (4,1.8);
+  \draw (4,1) -- (4,1.8);
+  \draw (4,1) to[battery1] (6,1);
+  \draw (6,1) circle (0.05) node[right] {+};
+  \draw (6,3) -- (6,1);
+\end{circuitikz}

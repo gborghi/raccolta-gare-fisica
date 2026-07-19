@@ -1,0 +1,16 @@
+\begin{tikzpicture}[>=Latex]
+  \coordinate (Apex) at (2.2,5);
+  \coordinate (S) at (0,2.2);
+  \coordinate (F) at (4.2,2.2);
+  \draw[fill=blue!70] (Apex) -- (1.4,0.2) .. controls (1.7,0) and (2.7,0) .. (3.0,0.2) -- (Apex) -- cycle;
+  \draw[thick] (Apex) -- (S);
+  \draw[thick] (Apex) -- (F);
+  \draw (S) -- (F);
+  \filldraw (S) circle (2pt) node[left] {S};
+  \filldraw (F) circle (2pt) node[right] {F};
+  \node[left] at (1.0,3.6) {L};
+  \node[below left] at (2.2,2.2) {h};
+  \draw[dashed] (S) -- (2.2,2.2);
+  \draw (Apex) ++(-80:0.6) arc (-80:-100:0.6);
+  \node at (2.2,4.55) {$\alpha$};
+\end{tikzpicture}

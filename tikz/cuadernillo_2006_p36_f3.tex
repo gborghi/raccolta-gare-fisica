@@ -1,0 +1,14 @@
+\begin{tikzpicture}[line width=0.9pt]
+  % ground horizontal line from launch point to wall
+  \draw (0,0) -- (5,0);
+  % launch angle arrow
+  \draw[->] (0,0) -- (1.4,1.4);
+  \node at (0.9,0.55) {$\alpha$};
+  % wall / block at right end, height h
+  \draw (5,0) rectangle (6,2.2);
+  \draw[<->] (5.3,0) -- (5.3,2.2);
+  \node[right] at (5.3,1.1) {h};
+  % L measure below
+  \draw[<->] (0,-0.4) -- (5,-0.4);
+  \node[below] at (2.5,-0.4) {L};
+\end{tikzpicture}

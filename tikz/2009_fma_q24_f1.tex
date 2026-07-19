@@ -1,0 +1,15 @@
+\begin{tikzpicture}[x=1cm,y=1cm]
+  % incline
+  \draw (-1,0) -- (5,0);
+  \draw (-1,0) -- (4,2.5);
+  % angle theta
+  \draw (0.3,0) arc (0:32:0.6);
+  \node at (0.75,0.25) {$\theta$};
+  % block sitting on incline, rotated to match slope (~32 deg)
+  \begin{scope}[shift={(2.3,1.44)},rotate=32]
+    \fill[gray] (0,0) rectangle (1.1,1.1);
+    \draw (0,0) rectangle (1.1,1.1);
+    \node[above] at (0.55,1.1) {$b$};
+    \node[right] at (1.1,0.55) {$a$};
+  \end{scope}
+\end{tikzpicture}

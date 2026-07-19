@@ -1,0 +1,17 @@
+\begin{tikzpicture}[>=Latex]
+  % table / big block
+  \draw[thick] (0,0) rectangle (5.5,3);
+  % block 1 on top
+  \draw[thick] (0.3,3) rectangle (1.5,3.7);
+  \node at (0.9,3.35) {1};
+  % string from block1 to pulley
+  \draw[thick] (1.5,3.35) -- (5.0,3.35);
+  % pulley
+  \draw[thick] (5.2,3.2) circle (0.25);
+  \draw[thick] (4.95,3.5) -- (5.2,3.2) -- (4.95,2.9) -- cycle;
+  % string down to block 2
+  \draw[thick] (5.2,2.95) -- (5.2,2.0);
+  % block 2 hanging
+  \draw[thick] (4.7,1.2) rectangle (5.7,2.0);
+  \node at (5.2,1.6) {2};
+\end{tikzpicture}

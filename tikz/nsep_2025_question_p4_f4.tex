@@ -1,0 +1,19 @@
+\begin{tikzpicture}[line width=1pt]
+% ground S
+\draw (-1.5,0) -- (4,0);
+\node at (3.7,-0.35) {$S$};
+% block m
+\draw (0,0) rectangle (2,1.6);
+\node at (1,0.8) {$m$};
+% force P (horizontal, into block)
+\draw[-{Stealth[length=3mm]}] (-1.5,0.8) -- (0,0.8);
+\node at (-1.5,1.1) {$P$};
+% dashed vertical reference at top-left corner
+\draw[dashed] (0,1.6) -- (0,2.6);
+% force Q (diagonal into top-left corner)
+\draw[-{Stealth[length=3mm]}] (-1.1,2.6) -- (0,1.6);
+\node at (-1.2,2.9) {$Q$};
+% angle theta
+\draw (0,2.2) arc (90:135:0.6);
+\node at (-0.35,2.15) {$\theta$};
+\end{tikzpicture}

@@ -1,0 +1,19 @@
+\begin{tikzpicture}[x=1cm,y=1cm]
+  % table (top surface + leg), light gray fill
+  \fill[gray!20] (-2.2,-1.4) rectangle (1.2,-1.0);
+  \draw (-2.2,-1.4) rectangle (1.2,-1.0);
+  \fill[gray!20] (-1.6,-2.6) rectangle (-1.0,-1.4);
+  \draw (-1.6,-2.6) rectangle (-1.0,-1.4);
+  % dashed line marking table right edge, extended down
+  \draw[dashed] (1.2,-1.0) -- (1.2,-2.6);
+  % lower plank (yellow), overhangs table edge by x
+  \fill[yellow!25!white,draw=blue!70!black] (-1.2,-0.6) rectangle (2.2,0.0);
+  % upper plank (yellow), shifted further right
+  \fill[yellow!25!white,draw=blue!70!black] (-0.6,0.0) rectangle (2.8,0.6);
+  % L arrow spanning upper plank
+  \draw[blue,{Stealth[length=2mm]}-{Stealth[length=2mm]}] (-0.6,1.0) -- (2.8,1.0);
+  \node[blue] at (1.1,1.35) {$L$};
+  % x arrow: overhang of lower plank past table edge
+  \draw[{Stealth[length=2mm]}-{Stealth[length=2mm]}] (1.2,-0.3) -- (2.2,-0.3);
+  \node[below] at (1.7,-0.3) {$x$};
+\end{tikzpicture}

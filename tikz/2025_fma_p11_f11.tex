@@ -1,0 +1,12 @@
+\begin{tikzpicture}[line width=0.9pt]
+  % pivot point (open circle) on horizontal dotted line
+  \draw[dotted] (0,0) -- (2.4,0);
+  \draw (0,0) circle (2pt);
+  % string
+  \draw (0,0) -- (-1.6,1.8);
+  % ball at end of string
+  \filldraw[fill=gray!60] (-1.6,1.8) circle (0.28);
+  % angle arc
+  \draw (0.7,0) arc (0:132:0.7);
+  \node at (0.3,0.35) {$\theta$};
+\end{tikzpicture}

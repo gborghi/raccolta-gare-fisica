@@ -1,0 +1,15 @@
+\begin{tikzpicture}[line width=1pt]
+% axes
+\draw[-{Stealth[length=3mm]}] (0,0) -- (0,3.2);
+\draw[-{Stealth[length=3mm]}] (0,0) -- (6,0);
+\node at (-0.5,3.0) {$I$ [A]};
+\node at (5.7,-0.4) {$V$ [V]};
+% curve: horizontal at I=2 from V=0 to V=20, then drop to axis
+\draw (0,2) -- (4,2) -- (4,0);
+% ticks
+\draw (0,1) -- (-0.1,1); \node[left] at (-0.15,1) {1};
+\draw (0,2) -- (-0.1,2); \node[left] at (-0.15,2) {2};
+\draw (2,0) -- (2,-0.1); \node[below] at (2,-0.15) {10};
+\draw (4,0) -- (4,-0.1); \node[below] at (4,-0.15) {20};
+\node at (0,0) [below left] {0};
+\end{tikzpicture}

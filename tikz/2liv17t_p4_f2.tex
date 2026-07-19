@@ -1,0 +1,23 @@
+\begin{tikzpicture}[>=Latex]
+  % main resistive wire PQ (double line, gray fill between)
+  \draw[fill=gray!30] (0,1) rectangle (8,1.4);
+  \node[left] at (0,1.2) {P};
+  \filldraw (0,1.2) circle (2pt);
+  \node[right] at (8,1.2) {Q};
+  \filldraw (8,1.2) circle (2pt);
+  % slider M
+  \filldraw (4,1.2) circle (2pt);
+  \node[above right] at (4,1.4) {M};
+  % B terminal above
+  \draw (4,2.6) circle (2pt);
+  \node[above] at (4,2.75) {B};
+  \draw (4,2.5) -- (4,1.4);
+  % R' below with arrow to M
+  \draw (3.75,-0.6) rectangle (4.25,0.4);
+  \node[right] at (4.3,-0.1) {$R'$};
+  \draw[->] (4,0.4) -- (4,1.15);
+  \draw (4,-0.6) -- (4,-1.4);
+  \draw (3.85,-1.4) circle (2pt);
+  \node[below] at (3.85,-1.55) {A};
+  \draw (3.85,-1.4) -- (4,-1.4);
+\end{tikzpicture}

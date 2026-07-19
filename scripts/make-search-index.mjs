@@ -24,9 +24,15 @@
 // `links` (Task 5.1 -- per-atom graph edges, captured by preprocess.mjs's
 // atomLinks()) is carried through UNCHANGED by threshold: it's not part of the
 // tf-idf selection, just copied per atom (already deduped + capped at 20 in the
-// full index; re-capped here defensively). Both tiers ship it -- the graph fork
-// (.quartz/plugins/graph, patched by scripts/patch-graph-fork.mjs) reads this
-// same contentIndex.json for both desktop and mobile.
+// full index; re-capped here defensively).
+// DESKTOP ships links; MOBILE does NOT. The graph fork reads Quartz's GLOBAL
+// `fetchData` (always public/static/contentIndex.json, the DESKTOP file) on
+// every device -- verified: .quartz/plugins/graph/.../graph.inline.ts uses
+// `await fetchData`, NOT the search fork's device-tiered fetch. So mobile's
+// search index never feeds the graph, and dropping its per-atom `links` (4.0MB
+// over 16.9k atoms) costs nothing while freeing that budget for tf-idf terms --
+// without it, the per-atom metadata floor (8.6MB) alone exceeds the 8MB mobile
+// budget and the index cannot be built at all.
 import fs from "fs"
 import path from "path"
 
@@ -47,6 +53,9 @@ const nativeMap = nativeRaw.content && !nativeRaw.content.slug ? nativeRaw.conte
 const PROVE_CONTAINER = /^prove\/[^#]+$/
 const keptNative = {}
 for (const [key, it] of Object.entries(nativeMap)) {
+  if (key.includes("#")) continue // atom entry (id carries "#") -- never "native"; makes this
+                                  // script re-runnable on its own already-merged output (a prior
+                                  // run's atom entries are re-projected fresh below, not kept here)
   if (PROVE_CONTAINER.test(key)) continue // dropped -- atoms replace these
   keptNative[key] = {
     slug: it.slug ?? key,
@@ -64,11 +73,13 @@ const keptNativeSize = Buffer.byteLength(keptNativeStr)
 let maxScore = -Infinity
 for (const [, v] of entries) for (const [, s] of v.terms) if (s > maxScore) maxScore = s
 
-function project(threshold) {
+function project(threshold, dropLinks = false) {
   const out = {}
   for (const [id, v] of entries) {
     const content = v.terms.filter(([, s]) => s >= threshold).map(([t]) => t).join(" ")
-    out[id] = { slug: v.slug, frag: v.frag, title: v.title, tags: v.tags, content, links: (v.links || []).slice(0, 20) }
+    out[id] = dropLinks
+      ? { slug: v.slug, frag: v.frag, title: v.title, tags: v.tags, content }
+      : { slug: v.slug, frag: v.frag, title: v.title, tags: v.tags, content, links: (v.links || []).slice(0, 20) }
   }
   return out
 }
@@ -78,7 +89,7 @@ function project(threshold) {
 // keeps MORE terms -> LARGER file; HIGHER T keeps FEWER terms -> SMALLER file. We
 // want the lowest T that still fits the atom budget (fill as much as possible,
 // never exceed it).
-function build(budget, outPath, label) {
+function build(budget, outPath, label, dropLinks = false) {
   if (keptNativeSize > budget) {
     // Should not happen -- concept pages are small post-preprocess (truncated to
     // 300-char snippets) -- but guard loudly rather than silently shipping an
@@ -90,7 +101,7 @@ function build(budget, outPath, label) {
   }
   const atomBudget = budget - keptNativeSize
 
-  const zero = project(0)
+  const zero = project(0, dropLinks)
   const zeroStr = JSON.stringify(zero)
   const zeroSize = Buffer.byteLength(zeroStr)
   let best, bestStr
@@ -102,11 +113,11 @@ function build(budget, outPath, label) {
     bestStr = zeroStr
   } else {
     let lo = 0, hi = maxScore
-    best = project(hi)   // T=hi -> fewest terms -> smallest file: safe starting floor, always <= atomBudget
+    best = project(hi, dropLinks)   // T=hi -> fewest terms -> smallest file: safe starting floor, always <= atomBudget
     bestStr = JSON.stringify(best)
     for (let i = 0; i < 24; i++) {
       const mid = (lo + hi) / 2
-      const cand = project(mid)
+      const cand = project(mid, dropLinks)
       const candStr = JSON.stringify(cand)
       const size = Buffer.byteLength(candStr)
       // size>atomBudget -> T too low (too many terms) -> raise the floor (shrink toward hi).
@@ -142,5 +153,5 @@ function build(budget, outPath, label) {
   )
 }
 
-build(15e6, DESKTOP_PATH, "desktop index")
-build(8e6, "public/static/contentIndexMobile.json", "mobile index")  // Task 4.3
+build(15e6, DESKTOP_PATH, "desktop index")                                      // ships links (feeds graph)
+build(8e6, "public/static/contentIndexMobile.json", "mobile index", true)       // Task 4.3 -- drops links (search-only)

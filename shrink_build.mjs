@@ -1,36 +1,18 @@
 // Post-build: shrink heavy assets so the site is usable on low-RAM mobile.
 // Mirrors the optimization applied to the OlimpiadiMatematica site.
-// 1) contentIndex.json (~28MB): truncate each `content` field to a short snippet
-//    (search still matches titles + lead text). `links` are KEPT because the
-//    on-demand graph uses them.
-// 2) Prove/index.html (~11MB FolderPage listing all atoms): replace with a tiny
-//    redirect stub, so a stray click/breadcrumb to /Prove/ no longer ships an
-//    11MB document to the phone. The faceted /cerca page is the browse entry.
+// NOTE (SPA re-architecture, Task 5/5.5): contentIndex.json is now owned by
+//   scripts/make-search-index.mjs, which projects a size-budgeted per-atom
+//   tf-idf index (desktop ~15MB / mobile ~8MB) and merges the native concept
+//   pages back in. shrink_build must NOT re-truncate it -- doing so would
+//   corrupt that carefully-sized structure. The old shrinkIndex() step is
+//   removed; make-search-index.mjs runs BEFORE this script and is authoritative.
+// Remaining job:
+//   Prove/index.html (~11MB FolderPage listing all atoms): replace with a tiny
+//   redirect stub, so a stray click/breadcrumb to /Prove/ no longer ships an
+//   11MB document to the phone. The faceted /cerca page is the browse entry.
 import { promises as fs } from "node:fs"
 
 const PUB = process.env.PUB || "public"
-const SNIPPET = 150
-
-async function shrinkIndex() {
-  const p = `${PUB}/static/contentIndex.json`
-  let before, idx
-  try {
-    const raw = await fs.readFile(p, "utf8")
-    before = raw.length
-    idx = JSON.parse(raw)
-  } catch (e) { console.log("contentIndex: skip -", e.message); return }
-  for (const k of Object.keys(idx)) {
-    const e = idx[k]
-    if (e && typeof e === "object") {
-      if (typeof e.content === "string" && e.content.length > SNIPPET) {
-        e.content = e.content.slice(0, SNIPPET)
-      }
-    }
-  }
-  const out = JSON.stringify(idx)
-  await fs.writeFile(p, out)
-  console.log(`contentIndex.json: ${(before / 1e6).toFixed(1)}MB -> ${(out.length / 1e6).toFixed(1)}MB`)
-}
 
 async function stubFolderPage(rel, redirectTo, label) {
   const p = `${PUB}/${rel}`
@@ -48,7 +30,6 @@ async function stubFolderPage(rel, redirectTo, label) {
   console.log(`${rel}: ${(sz / 1e6).toFixed(1)}MB -> stub redirect (${redirectTo})`)
 }
 
-await shrinkIndex()
 // from /Prove/index.html, "../cerca" is the faceted search page (best browse entry)
 await stubFolderPage("prove/index.html", "../cerca", "Cerca prove")
 console.log("shrink_build done")

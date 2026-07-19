@@ -4,6 +4,7 @@
 // - strips links to local PDFs (competition PDFs are not published)
 // - emits ./quartz/static/quesiti.json (the 'tipo: quesito' subset) for /cerca
 import { promises as fs } from "node:fs"
+import { readdirSync, readFileSync, existsSync } from "node:fs"
 import path from "node:path"
 import matter from "gray-matter"
 
@@ -308,6 +309,34 @@ function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLeve
   return { newContent, items }
 }
 
+// SPA (Spec 2 -- TikZ pilot): build-time TikZ reproductions. scripts/render-tikz.mjs
+// renders tikz/<basename>.tex -> tikz-svg/<basename>.svg BEFORE this runs. Keyed by
+// the LOWERCASED figure basename (vault uses mixed case like 1liv23T_p5_f8; the site
+// path is lowercased). When an atom body embeds a figure that has a sidecar SVG, the
+// embed is replaced by the inline SVG (crisp/scalable, no PNG request); the original
+// PNG is untouched (still in the vault + olifis-assets, shown for every non-sidecar figure).
+const SVG_FIGS = new Map()
+try {
+  const svgDir = path.join(process.env.RGF_BUILD || ROOT, "tikz-svg")
+  if (existsSync(svgDir)) {
+    for (const f of readdirSync(svgDir).filter((x) => x.endsWith(".svg"))) {
+      // strip the XML prolog / DOCTYPE so the SVG inlines cleanly into markdown-passed HTML
+      const svg = readFileSync(path.join(svgDir, f), "utf8").replace(/<\?xml[^>]*\?>\s*/i, "").replace(/<!DOCTYPE[^>]*>\s*/i, "").trim()
+      SVG_FIGS.set(f.replace(/\.svg$/, "").toLowerCase(), svg)
+    }
+  }
+} catch { /* no tikz-svg -- all figures stay PNG */ }
+
+// Replace `![[_attachments/<dir>/<name>.png]]` embeds with the inline TikZ SVG when a
+// sidecar reproduction exists for <name> (lowercased). No-op when SVG_FIGS is empty.
+function injectFigSvg(content) {
+  if (!SVG_FIGS.size) return content
+  return content.replace(/!\[\[_attachments\/[^\]]*?\/([^\]/]+?)\.png\]\]/gi, (full, name) => {
+    const svg = SVG_FIGS.get(name.toLowerCase())
+    return svg ? `\n\n<figure class="tikz-fig">\n${svg}\n</figure>\n\n` : full
+  })
+}
+
 function transform(content) {
   // strip PDF links (kept as plain text label)
   content = content.replace(/\[([^\]]*)\]\(<[^>]*\.pdf[^>]*>\)/gi, "$1")
@@ -330,6 +359,7 @@ function transform(content) {
     /\[\[([^\]|#]+?)__([a-z0-9]+)((?:#[^\]|]*)?)(\|[^\]]*)?\]\]/gi,
     (full, st, aid, _h, alias) => `[[prove/${sluggify(st)}#${aid.toLowerCase()}${alias || ""}]]`
   )
+  content = injectFigSvg(content)
   return content
 }
 

@@ -402,7 +402,13 @@ const TAGMAP_KNOWN_PREFIXES = [
 // scalar strings, already stringified/defaulted as pushed into quesiti).
 // `counters` = { skippedMulti, collisions, unmapped } accumulated across atoms.
 function buildTagMap(tagVotes, tags, facets, counters) {
-  const set = (slug, token) => {
+  const set = (slugRaw, token) => {
+    // Key by the LOWERCASED slug: Quartz renders tag hrefs lowercased (a
+    // frontmatter tag `paese/Canada` links to `.../cerca#tag=paese%2Fcanada`),
+    // so cerca.inline.ts looks up the lowercased slug. Keying the map on the raw
+    // mixed-case frontmatter tag would miss on the ~84 mixed-case tags
+    // (country/comp/cluster values like Canada, Meccanica) -> no pre-select.
+    const slug = slugRaw.toLowerCase()
     let votes = tagVotes[slug]
     if (!votes) { votes = tagVotes[slug] = new Map() }
     else if (!votes.has(token)) counters.collisions++   // slug saw a 2nd distinct candidate

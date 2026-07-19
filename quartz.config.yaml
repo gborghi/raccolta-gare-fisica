@@ -8,7 +8,7 @@ configuration:
     provider: goatcounter
     websiteId: gborghi83-olifis
   locale: it-IT
-  baseUrl: gborghi.github.io/raccolta-gare-fisica
+  baseUrl: raccolta-gare-fisica.pages.dev
   ignorePatterns:
     - private
     - templates

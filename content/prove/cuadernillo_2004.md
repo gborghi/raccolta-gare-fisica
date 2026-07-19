@@ -1,0 +1,24048 @@
+---
+title: Argent 2004
+tipo: prova
+tags:
+  - kg/prova
+  - anno/2004
+  - paese/Argentina
+  - comp/Argent
+  - cluster/Meccanica
+---
+<div class="atom-reader" data-prova="cuadernillo_2004"></div>
+
+
+
+
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2004 Locale — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/droplet"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**El maniatico de la gotita**
+
+PT1. Ciudad de Buenos Aires. Verde. 
+ 
+El maniático de la gotita. 
+Un coche transita por la calle y cae una leve llovizna y se le moja el parabrisas unos segundos después 
+se le seca pero le queda una gotita en el medio de este. El conductor comienza a acelerar para que la 
+gotita no caiga por el parabrisas. 
+a) ¿a qué aceleración deberá ir el coche para que la gotita no caiga? Teniendo en cuenta que el 
+rozamiento entre el vidrio y la gotita es de 0.23 la gotita no tiende a deformarse, la masa de la 
+gotita es de 2g y la inclinación del parabrisas es de 75°. 
+b) Luego de acelerar durante 20” y sabiendo que iba a una velocidad de 20 Km/h, de una vuelta 
+sin “acelerar” en una curva de 10m de diámetro, decir si la gota sale disparada o no y a que 
+velocidad lo hace luego de recorrer los 60cm que le restan del parabrisas.
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Droplet (object)|Droplet]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Il maniatico della goccia**
+
+PT1. Città di Buenos Aires. Verde. 
+ 
+Il manicomio della goccia. 
+Una macchina passa per la strada e cade una leggera pioggia e il parabrezza si bagna pochi secondi dopo.
+Si asciuga, ma rimane un goccio nel mezzo. Il conducente inizia a accelerare per farla
+Non cadere dalla copertura. 
+a) a che velocità deve andare la macchina per evitare che la goccia cade? Considerando che il
+La rottura tra il vetro e la goccia è di 0,23 la goccia non tende a deformarsi, la massa della
+la goccia è di 2 g e l'inclinazione del parabrezza è di 75°. 
+b) Dopo aver accelerato per 20 e sapendo che andava a una velocità di 20 Km/h, di un giro 
+senza accelerare in una curva di 10m di diametro, dire se la goccia viene sparata o no e a che
+La velocità lo fa dopo aver percorso i 60 cm che gli restano dal parabrezza.
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Droplet (object)|Droplet]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The maniac of the drop**
+
+PT1. City of Buenos Aires. Green, please. 
+ 
+The maniac of the drop. 
+A car is passing through the street and a slight rainstorm falls and the windshield is wet a few seconds later.
+It dries up, but it's got a drop in the middle of it. The driver starts speeding up to get the car to move.
+Don't drop a drop from the windshield. 
+(a) at what speed must the car go so that the drop does not fall? Given that the
+The friction between the glass and the drop is 0.23 the drop does not tend to deform, the mass of the
+drop is 2 g and the windscreen slope is 75°. 
+b) After accelerating for 20 and knowing that it was going at a speed of 20 Km/h, of one lap 
+without accelerating on a 10m curve, say whether the drop is fired or not and what
+speed does it after traveling the 60cm that is left of the windshield.
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Droplet (object)|Droplet]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2004 Locale — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Muchas gotitas**
+
+PT2. Ciudad de Buenos Aires. Verde. 
+ 
+Muchas gotitas. 
+En un calorímetro adiabático de equivalente en H2O de π: 30g. se encuentran 160g de agua a 40°C y se 
+agregan 60g de agua a -20°C. 
+a) Estado y temperatura final del sistema. 
+b) Si se lo quiere llevar a 80°C agregándole vapor de agua a 100°C  ¿Cuánta masa de vapor 
+necesitaría?   
+DATOS: Cf H2O: 80 cal/g  Ce H2O (s): 0,5 cal/g°C  Cvap H2O: 540 kcal/g
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Calorimeter (object)|Calorimeter]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+Molti gocciolotti
+
+PT2. Città di Buenos Aires. Verde. 
+ 
+Molte gocce. 
+In un calometro adiabatico equivalente in H2O di π: 30 g. 160 g di acqua a 40°C e si
+aggiungono 60 g di acqua a -20°C. 
+a) stato e temperatura finale del sistema. 
+b) Se si vuole portarlo a 80°C aggiungendo vapore d'acqua a 100°C, quanta massa di vapore 
+- Ne avresti bisogno? 
+DATI: Cf H2O: 80 cal/g Ce H2O (s): 0,5 cal/g°C Cvap H2O: 540 kcal/g
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Calorimeter (object)|Calorimeter]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Lots of drops**
+
+PT2. City of Buenos Aires. Green, please. 
+ 
+A lot of drops. 
+In an adiabatic calorimeter of H2O equivalent to π: 30g. 160 g of water at 40°C and are
+Add 60 g of water to -20°C. 
+(a) the final state and temperature of the system. 
+(b) If you want to take it to 80°C by adding water vapor to 100°C, how much vapor mass 
+Would you need it? 
+The following information is provided by the Commission:
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Calorimeter (object)|Calorimeter]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2004 Locale — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/prism,object/mirror"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**La gotita iluminada**
+
+PT3. Ciudad de Buenos Aires. Verde. 
+ 
+La gotita iluminada. 
+Se tiene la siguiente pecera (ver figura): 
+ 
+ 
+El triángulo es equilátero de 30cm de lado 
+El espejo plano tiene una longitud de 50cm (desde el prisma hasta la pared) 
+El alto de la otra pared de la pared de la pecera es 30cm y su espesor 2cm 
+El rayo incide con un ángulo de 30° en el punto medio del lado del triángulo 
+La altura del agua es 20cm  
+a) Dibuje la marcha del rayo hasta salir nuevamente al aire 
+b) Calcule con que ángulo debe incidir el rayo para que quede rasante al agua y salga al aire 
+c) Cual es el desplazamiento del rayo incidente, en la pared del vidrio 
+d) Cual es la desviación después de atravesar el prisma 
+DATOS: 
+nvidrio: 1,5  nagua: 1,33 
+Agua 
+Vidrio 
+Vidrio 
+Espejo plano
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p02_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Prism (object)|Prism]], [[Mirror (object)|Mirror]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**La goccia illuminata**
+
+PT3. Città di Buenos Aires. Verde. 
+ 
+La goccia illuminata. 
+Si ha il seguente pesce (vedi figura): 
+ 
+ 
+Il triangolo è equilaterale di 30 cm laterale.
+Lo specchio piano ha una lunghezza di 50 cm (dal prisma al muro) 
+L'altezza dell'altro muro del muro della cantina è di 30 cm e il suo spessore di 2 cm.
+Il raggio incide con un angolo di 30° sul punto medio del lato del triangolo 
+L'altezza dell'acqua è di 20 centimetri
+a) Disegna il passo del fulmine fino a quando non ritorna in aria.
+b) Calcolare l'angolo con cui il raggio deve incidere per farlo rimanere rassi all'acqua e uscire in aria 
+c) Qual è il movimento del raggio incidente, sul muro del vetro 
+d) Qual è la deviazione dopo aver attraversato il prisma 
+Dati: 
+Nvidrio: 1,5 nagua: 1,33 
+Acqua
+- Il vetro .
+- Il vetro .
+Specchio piatto
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p02_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Prism (object)|Prism]], [[Mirror (object)|Mirror]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The lighted droplet
+
+PT3. City of Buenos Aires. Green, please. 
+ 
+The lighted drop. 
+The following fishery is available (see figure): 
+ 
+ 
+The triangle is equilateral 30cm sideways.
+The flat mirror has a length of 50 cm (from the prism to the wall) 
+The height of the other wall of the fishpond wall is 30cm and its thickness 2cm 
+The beam hits at an angle of 30° at the midpoint of the side of the triangle 
+The height of the water is 20cm.
+(a) Draw the motion of the lightning until it is back in the air.
+(b) Calculate the angle at which the lightning must strike the beam to keep it flat in the water and out into the air.
+(c) What is the displacement of the incident beam, on the glass wall 
+d) What is the deviation after crossing the prism 
+The following is the list of the countries of the European Union:
+The following table shows the results of the evaluation:
+Water
+Glass .
+Glass .
+Flat mirror
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p02_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Prism (object)|Prism]], [[Mirror (object)|Mirror]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2004 Locale — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/sphere"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Polo Norte**
+
+PT4. Ciudad de Buenos Aires. Azul. 
+ 
+Polo Norte. 
+En el Polo norte los esquimales viven en construcciones de bloques de hielo, cuya forma son casquetes 
+semiesféricos. Un esquimal olvidó un bulto en la cúspide del iglú y espera que comience a deslizar 
+para recuperarlo. 
+a) ¿A qué altura h se separa de la superficie del casquete, si desliza desde el reposo sin fricción? 
+ 
+ 
+ 
+b) ¿Con qué velocidad despega? 
+c) ¿A qué distancia de la base del iglú cae y con qué velocidad?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p03_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Sphere (object)|Sphere]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Polo Nord**
+
+PT4. Città di Buenos Aires. Blu. 
+ 
+Polo Nord. 
+Al Polo Nord gli eschimali vivono in costruzioni di blocchi di ghiaccio, che hanno la forma di cascate.
+semisferici. Un eschimale ha dimenticato un coperchio sulla cima dell' igloo e aspetta che cominciasse a scivolare .
+- per recuperarlo. 
+a) A che altezza h si separa dalla superficie del cappotto se si scivola dal riposo senza attrito? 
+ 
+ 
+ 
+b) A che velocità parte? 
+c) A che distanza dalla base dell'iglio cade e a che velocità?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p03_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Sphere (object)|Sphere]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following table shows the number of countries in which the Union is located:
+
+PT4. City of Buenos Aires. Blue, please. 
+ 
+The North Pole. 
+At the North Pole, the Eskimos live in ice-block structures, shaped like caps.
+The two are semi-spherical. An Eskimo left a lump on the top of the igloo and waits for it to start sliding .
+to get it back. 
+(a) How far apart is h from the surface of the hood if it slides from the resting place without friction? 
+ 
+ 
+ 
+(b) At what speed does it take off? 
+(c) How far from the base of the igloo does it fall and at what speed?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p03_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Sphere (object)|Sphere]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Argent 2004 Locale — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi,object/resistor,object/switch"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Energia y ahorro**
+
+PT5. Ciudad de Buenos Aires. Azul. 
+ 
+Energía y ahorro. 
+La tormenta se desató repentinamente y pronto la temperatura bajó bruscamente; el termómetro de la 
+habitación marcaba 5 ºC. Se hacía necesario que se calefaccionara de alguna manera hasta que el aire 
+esté a 22 ºC. La casa había estado deshabitada durante mucho tiempo y debíamos tomar algunos 
+recaudos antes de encender las estufas. Teníamos dos posibilidades: 
+• 
+un radiador eléctrico de aceite - 1500 watt - 220 volt 
+• 
+una estufa de tiro balanceado de 2500 Kcal/h 
+El radiador eléctrico primero calienta el aceite hasta la temperatura de emisión y luego calienta el aire 
+de la habitación. Si se considera esta estufa como un cuerpo negro perfecto, la potencia que radia se 
+puede establecer según la siguiente ecuación: 
+P = σ . T4 . A 
+donde T es la temperatura de emisión, A es toda la superficie que emite y σ es la constante de Stefan-
+Boltzman. 
+La estufa de gas una vez encendida va calentando el aire de la habitación hasta la temperatura deseada. 
+Claro que el 50% de la energía liberada se pierde en los gases calientes de la combustión hacia el 
+exterior. 
+ 
+a) Considerando que el radiador está compuesto por 6 placas rectangulares de metal estampado de 
+0,70 m de alto, 0,15 m de ancho y grosor despreciable que emite cada una de ellas para ambos lados, y 
+en su interior contiene 3,5 litros de aceite. ¿Cuánto tiempo tarda en calentar la habitación el radiador 
+eléctrico desde que se enciende? (pueden estimarse las medidas de la habitación, considerar que no 
+hay pérdidas por puertas y ventanas, y se puede despreciar el volumen ocupado por los muebles). 
+ 
+b) La estufa eléctrica tiene dos interruptores; cada uno enciende una resistencia diferente con potencias 
+de 600 W y 900 W respectivamente, permitiendo utilizar la estufa con un interruptor indistintamente o 
+con ambos juntos, logrando de esta última manera su potencia máxima. 
+ 
+Esquematizar el circuito de la estufa con ambas resistencias y sus interruptores. 
+ 
+c) La instalación de las enchufes no admite una intensidad de corriente eléctrica de más de 5 A, ¿de 
+qué manera se la debe encender para que caliente rápido sin quemar la instalación? 
+ 
+
+d) Además de calentar rápidamente la habitación, queremos colaborar con el gobierno y tratar de 
+utilizar aquel medio cuyo costo sea el más bajo. ¿Cuál de las dos estufas conviene encender? 
+(considerando al radiador eléctrico con la potencia permitida por la instalación). 
+ 
+Datos: 
+ 
+σ = 5,7 x 10-8 W/m2.K4 
+ 
+Ceaceite = 0,4 cal/g.ºC 
+ 
+Ceaire = 0,237 cal/g.ºC 
+ 
+δaceite = 920 Kg/m3 
+ 
+δaire = 1,29 Kg/m3 
+ 
+1 cal = 4,18 J 
+ 
+costo energía eléctrica: 0,041 $/Kw-h 
+ 
+costo gas: 0,153469 $/m3 
+ 
+poder calorífico gas: 9396 Kcal/m3
+
+**Topic:** [[Thermodynamics]], [[Circuits]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Energia e risparmio**
+
+PT5. Città di Buenos Aires. Blu. 
+ 
+Energia e risparmio. 
+La tempesta si è improvvisamente scoppiata e presto la temperatura è scesa notevolmente.
+La stanza era di 5 oC. Si era fatto necessario riscaldare in qualche modo fino a quando l'aria non era più alta.
+è a 22 oC. La casa era stata disoccupata per molto tempo e dovevamo prendere un po '
+raccolte prima di accendere le stufe. Avevamo due possibilità:
+• 
+un radiatore elettrico di olio - 1500 watt - 220 volt 
+• 
+una stufa a tiro bilanciata di 2500 Kcal/h 
+Il radiatore elettrico prima riscalderà l'olio alla temperatura di emissione e poi riscalderà l'aria.
+- La stanza. Se si considera questo stufa come un corpo nero perfetto, la potenza che irradia è
+può stabilire secondo la seguente equazione: 
+P = σ . T4 . A 
+dove T è la temperatura di emissione, A è tutta la superficie che emette e σ è la costante di Stefan-
+Boltzman. 
+Una volta acceso il forno a gas, il caldo dell'aria della stanza si raggiunge alla temperatura desiderata. 
+Il 50% dell'energia rilasciata viene naturalmente perso nei gas caldi della combustione verso il
+all'esterno. 
+ 
+a) considerando che il radiatore è composto da 6 lastre rettangolari di metallo stampato di
+0,70 m di altezza, 0,15 m di larghezza e spessore spregevole che emette ciascuna di esse per entrambi i lati, e 
+dentro contiene 3,5 litri di olio. Quanto tempo ci vuole per riscaldare la stanza il radiatore?
+elettrico da quando si accende? (si possono stimare le misure della stanza, considerando che non 
+ci sono perdite per porte e finestre, e si può disprezzare il volume occupato dai mobili). 
+ 
+b) Il forno elettrico ha due interruttori, ognuno di essi accende una resistenza diversa con potenze 
+di 600 W e 900 W, rispettivamente, consentendo l'utilizzo di una stufa con un interruttore indifferente o 
+con entrambi insieme, raggiungendo così l'ultima potenza massima. 
+ 
+Scalda il circuito della stufa con entrambe le resistenze e i loro interruttori. 
+ 
+c) L'installazione dei socket non supporta un'intensità di corrente elettrica superiore a 5 A,
+Come si deve accendere per riscaldare rapidamente senza bruciare l'impianto? 
+ 
+
+d) Oltre a riscaldare rapidamente la stanza, vogliamo collaborare con il governo e cercare di
+utilizzare il mezzo più economico. Quale di queste due stufe è meglio accendere? 
+(considerando il radiatore elettrico con la potenza consentita dall'impianto). 
+ 
+Datati: 
+ 
+σ = 5,7 x 10-8 W/m2.K4 
+ 
+Ceaceite = 0,4 cal/g.oC 
+ 
+Ceaire = 0,237 cal/g.oC 
+ 
+δolio = 920 Kg/m3 
+ 
+δaire = 1,29 Kg/m3 
+ 
+1 cal = 4,18 J 
+ 
+costo dell'energia elettrica: 0,041 $/Kw-h 
+ 
+costo del gas: 0,153469 $/m3 
+ 
+Potenza calorifica gas: 9396 Kcal/m3
+
+**Topic:** [[Thermodynamics]], [[Circuits]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+Energy and savings
+
+PT5. City of Buenos Aires. Blue, please. 
+ 
+Energy and savings. 
+The storm broke out suddenly and soon the temperature dropped sharply.
+The room was 5 degrees Celsius. It was necessary to heat it up somehow until the air
+It is 22 oC. The house had been uninhabited for a long time and we should have taken some .
+I'll collect before I light the stoves. We had two options:
+• 
+an electric oil radiator - 1500 watts - 220 volts 
+• 
+a balanced fire stove of 2500 Kcal/h 
+The electric radiator first heats the oil to the emission temperature and then heats the air.
+from the room. If you consider this stove as a perfect black body, the power it radiates is
+can be established by the following equation: 
+P = σ . T4 . A 
+where T is the emission temperature, A is the total surface it emits and σ is the Stefan constant-
+Boltzman, you know. 
+The gas stove, once lit, heats the room's air to the desired temperature. 
+Of course, 50% of the energy released is lost in the hot gases of combustion towards the
+outside. 
+ 
+(a) Whereas the radiator is composed of 6 rectangular metal plates stamped with 
+0.70 m high, 0.15 m wide and a despicable thickness emitted by each of them to both sides, and 
+Inside it is 3.5 liters of oil. How long does it take to heat the room radiator?
+electric since it went on? (the room dimensions can be estimated, considering that no 
+There are losses for doors and windows, and you can disregard the volume occupied by the furniture). 
+ 
+(b) The electric stove has two switches; each switches on a different resistance with powers 
+600 W and 900 W respectively, allowing the stove to be used with a switch or
+with both together, thus achieving their ultimate power. 
+ 
+Squeeze the circuit of the stove with both resistors and their switches. 
+ 
+(c) The installation of the sockets does not allow an electric current intensity of more than 5 A,
+How do you turn it on so it's hot fast without burning the facility? 
+ 
+
+d) In addition to rapidly heating the room, we want to work with the government and try to
+use the medium with the lowest cost. Which of the two stoves is better to light? 
+(considering the electric radiator with the power permitted by the installation). 
+ 
+The data: 
+ 
+σ = 5,7 x 10-8 W/m2.K4 
+ 
+The following table shows the results of the calculations:
+ 
+Ceaire = 0,237 cal/g.oC 
+ 
+The following table shows the results of the evaluation:
+ 
+The following conditions shall apply:
+ 
+1 cal = 4,18 J 
+ 
+Electricity cost: $0.041/Kw-h 
+ 
+Gas cost: 0,153469 $/m3 
+ 
+Heating capacity of gas: 9396 Kcal/m3
+
+**Topic:** [[Thermodynamics]], [[Circuits]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Argent 2004 Locale — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/kinetic-theory,argomento/termodinamica,difficolta/4,multidisciplina/mono,object/gas,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Alla vamos**
+
+PT6. Ciudad de Buenos Aires. Azul. 
+ 
+Allá vamos. 
+¡¡Este año nos vamos de vacaciones!! Iremos a pasar unos días a La Paz (Bolivia). Antes de salir 
+revisamos bien el auto para dejarlo listo y salir a la ruta. El manual del auto indica que la presión del 
+aire en el interior de los neumáticos debe ser de 30 lb/plg2. El compresor toma aire del ambiente y lo 
+comprime en la cubierta. 
+a) ¿Qué volumen de aire debe tomar del ambiente para inflar los neumáticos antes de salir de 
+Buenos Aires? 
+b) Al salir a la ruta, el rozamiento con el asfalto provoca un aumento de la temperatura del 
+neumático de unos 25ºC. ¿Cuánto varía la presión del aire dentro del neumático? 
+c) Llegamos a La Paz y tuvimos que cambiar una rueda y poner la de auxilio. ¿Qué volumen de 
+aire se comprime para inflarla? (Considerar que la densidad y la temperatura de la atmósfera 
+son constantes a lo largo de todo el ascenso.) 
+d) En realidad, como la densidad de la atmósfera no es constante respecto de la altura, se puede 
+aproximar el cálculo de la presión atmosférica con la siguiente expresión: 
+ 
+P = po.e[(-g.δo/po).∆h] 
+ 
+¿Qué volumen de aire se comprime para inflar la rueda de auxilio con esta nueva 
+aproximación? 
+ 
+Nota: 
+Un neumático tiene un radio exterior de 24,3 cm, 17,5 cm de ancho, y la llanta tiene 17,8 cm de radio. 
+Buenos Aires se encuentra a nivel del mar y La Paz a 4000 m sobre el nivel del mar. 
+G= 9,8 m/s2 
+δ0 aire = 1,29 Kg/m3 a nivel del mar 
+p0 = 101300 Pa = 1 atm 
+1 lb/plg2 = 69 hPa = 0,068 atm
+
+**Topic:** [[Kinetic Theory]]
+**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+# # Avanti, andiamo #
+
+PT6. Città di Buenos Aires. Blu. 
+ 
+- Ci siamo. 
+Quest'anno ci andiamo in vacanza!! Passeremo qualche giorno a La Paz (Bolivia). Prima di uscire
+Abbiamo controllato la macchina per prepararla e per andare in pista. Il manuale dell'auto indica che la pressione del 
+aria all'interno delle gomme deve essere di 30 lb/plg2. Il compressore prende aria dall'ambiente e lo
+- Si comprime sul copertino. 
+a) Che volume di aria deve essere assunto dall'ambiente per gonfiare i pneumatici prima di uscire 
+Buenos Aires? 
+b) Quando si esce in pista, il rastrello con l'asfalto provoca un aumento della temperatura del
+pneumatico di circa 25°C. Quanto varia la pressione dell'aria all'interno della gomma? 
+c) Arrivati a La Paz, abbiamo dovuto cambiare una ruota e mettere quella di soccorso. Che volume di 
+l'aria viene compressa per gonfiarla? (Considerare che la densità e la temperatura dell'atmosfera 
+sono costanti lungo l'ascensione.) 
+d) In realtà, poiché la densità dell'atmosfera non è costante rispetto all'altezza, si può
+approssimare il calcolo della pressione atmosferica con la seguente espressione: 
+ 
+P = po.e[(-g.δo/po).∆h] 
+ 
+Che volume di aria viene compresso per gonfiare la ruota di soccorso con questa nuova 
+- Approximation? 
+ 
+Nota: 
+Una gomma ha un raggio esterno di 24,3 cm, 17,5 cm di larghezza, e la gomma ha 17,8 cm di raggio. 
+Buenos Aires si trova a livello del mare e La Paz a 4000 m sul livello del mare. 
+G= 9,8 m/s2 
+δ0 aria = 1,29 Kg/m3 a livello del mare 
+P0 = 101300 Pa = 1 atm 
+1 lb/plg2 = 69 hPa = 0,068 atm
+
+**Topic:** [[Kinetic Theory]]
+**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+We're going to the hospital.
+
+PT6. City of Buenos Aires. Blue, please. 
+ 
+There we go. 
+We're going on vacation this year!! We're going to spend a few days in La Paz, Bolivia. Before you go out
+We'll check the car carefully to get it ready and onto the road. The car manual indicates that the pressure of the
+air inside the tyres shall be 30 lb/plg2. The compressor takes air from the environment and it
+It's compressed on the deck. 
+(a) What volume of air should be taken from the air to inflate the tyres before leaving the air?
+What about Buenos Aires? 
+(b) When going out on the road, rubbing with asphalt causes an increase in the temperature of the road.
+25 degrees. How much does the air pressure vary inside the tire? 
+c) We got to La Paz and we had to change a wheel and put the helmet. What volume of 
+air is compressed to inflate? (Consider that atmospheric density and temperature 
+They're constant throughout the whole ascent.) 
+(d) In reality, as the density of the atmosphere is not constant with respect to altitude, it can be 
+approximate the calculation of atmospheric pressure with the following expression: 
+ 
+P = po.e[(-g.δo/po).∆h] 
+ 
+What volume of air is compressed to inflate the helmet wheel with this new one?
+The approach? 
+ 
+Note: 
+A tire has an outer radius of 24.3 cm, 17.5 cm wide, and the tire has 17.8 cm radius. 
+Buenos Aires is located at sea level and La Paz at 4000 m above sea level. 
+G= 9,8 m/s2 
+δ0 air = 1.29 Kg/m3 at sea level 
+The following is the list of the following:
+The following conditions shall apply:
+
+**Topic:** [[Kinetic Theory]]
+**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q07" data-atom="q07" data-title="Argent 2004 Locale — Quesito 7" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/ball"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Esfera de demolicion en caida libre**
+
+PT7. Villa Iris, Buenos Aires. Azul. 
+ 
+Una esfera de demolición se encuentra colgando en reposo de una grúa cuando de pronto se rompe el 
+cable que la sostiene. El tiempo que le toma a la esfera caer la mitad del camino hacia el suelo es de 
+1,2 s . Suponiendo que se desprecia la resistencia del aire: 
+a) Encontrar el tiempo que le toma a la esfera caer la mitad del camino hacia el suelo. 
+b) Velocidad de la esfera al cabo de 1,2 s. 
+c) La velocidad en el instante que impacta con el suelo. 
+
+d) La altura desde que se inicia el movimiento. 
+e) Graficar la variación de v y posición en función del tiempo.
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Ball (object)|Ball]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Sfera di demolizione in caduta libera**
+
+PT7. Villa Iris, Buenos Aires. Blu. 
+ 
+Una sfera di demolizione si trova appesa a riposo da un grilletto quando improvvisamente si rompe il
+il cavo che la sostiene. Il tempo che ci vuole per la sfera di cadere a metà strada verso il suolo è di 
+1,2 s . Supponiamo che si disprezzi la resistenza dell'aria:
+a) Trovare il tempo necessario per cadere la sfera a metà strada verso il suolo. 
+b) Velocità della sfera dopo 1,2 s. 
+c) La velocità all'istante in cui colpisce il suolo. 
+
+d) L'altezza da quando si inizia il movimento. 
+e) Graficare la variazione di v e posizione in funzione del tempo.
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Ball (object)|Ball]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following is the list of the types of vehicles that are included in the list:
+
+PT7. This is Villa Iris, Buenos Aires. Blue, please. 
+ 
+A demolition sphere is found hanging at rest from a crane when suddenly the crane breaks.
+cable that holds it. The time it takes the sphere to fall halfway down to the ground is about 
+1,2 s . Assuming you despise the resistance of the air:
+(a) Find the time it takes the sphere to fall halfway down to the ground. 
+(b) Speed of the sphere after 1.2 s. 
+(c) The speed at the instant it impacts the ground. 
+
+(d) The height from the start of the movement. 
+(e) Graph the variation of v and position according to time.
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Ball (object)|Ball]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q08" data-atom="q08" data-title="Argent 2004 Locale — Quesito 8" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/1,multidisciplina/mono,object/ball"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Energia de la esfera en caida libre**
+
+PT8. Villa Iris, Buenos Aires. Azul. 
+ 
+La esfera del problema anterior de 100 Kg recorre su camino hacia el suelo en caída libre, se quiere 
+saber: 
+ 
+a) Energía potencial y cinética cuando a recorrido los 1,2 s. 
+b) Energía potencial y cinética cuando ha recorrido el 66 % de su recorrido. 
+c) Energía total en el instante que llega al suelo.
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Ball (object)|Ball]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Energia della sfera in caduta libera**
+
+PT8. Villa Iris, Buenos Aires. Blu. 
+ 
+La sfera del problema precedente di 100 Kg si sposta verso il suolo in caduta libera, si vuole 
+sapere: 
+ 
+a) Energia potenziale e cinetica dopo 1,2 s. 
+b) Potenzialmente e in modo cinetico quando ha percorso il 66% del percorso. 
+c) Energia totale nel momento in cui raggiunge il suolo.
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Ball (object)|Ball]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Energy of the free-falling sphere**
+
+PT8. This is Villa Iris, Buenos Aires. Blue, please. 
+ 
+The 100 kg sphere of the previous problem travels its way to the ground in free fall, you want it.
+to know: 
+ 
+(a) Potential and kinetic energy after 1.2 s. 
+(b) Potential energy and kinetic energy when 66% of its journey has been completed. 
+(c) Total energy as soon as it reaches the ground.
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Ball (object)|Ball]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q09" data-atom="q09" data-title="Argent 2004 Locale — Quesito 9" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Aerostato de hidrogeno**
+
+PT9. Villa Iris, Buenos Aires. Azul. 
+ 
+Un aeróstato de 12 m de diámetro contiene Hidrógeno cuyo peso específico es 8.95 .10-2 Kg fuerza/m3. 
+La envoltura y demás accesorios pesan 500 Kg, es tripulado por 4 personas que pesan 80 Kg c/u. Se 
+quiere saber si el globo asciende o no. Calcular la fuerza ascensional.
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Aerostato di idrogeno**
+
+PT9. Villa Iris, Buenos Aires. Blu. 
+ 
+Un aerostato di 12 m di diametro contiene idrogeno il cui peso specifico è 8,95 .10-2 Kg forza/m3. 
+L'impalcatura e gli accessori pesano 500 Kg, è equipaggiata da 4 persone che pesano 80 Kg c/u. Se 
+vuole sapere se il globo si alza o no. Calcolare la forza ascendente.
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following is a list of the types of aircraft that are currently in service:
+
+PT9. This is Villa Iris, Buenos Aires. Blue, please. 
+ 
+A 12 m diameter aerostat contains hydrogen with a specific weight of 8.95 .10-2 Kg force/m3. 
+The wrapper and other accessories weigh 500 kg, it is manned by 4 people weighing 80 kg c/u. Se 
+He wants to know if the balloon is going up or not. Calculate the ascension force.
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q10" data-atom="q10" data-title="Argent 2004 Locale — Quesito 10" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/rod,object/projectile"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Girando estaba la masa**
+
+PT10. Salta. Azul y Verde. 
+ 
+Girando estaba la masa. 
+Se dispone de una masa de 0,1 kg en el extremo de una varilla indeformable de masa despreciable la 
+que puede girar respecto a un eje. 
+Estando la masa en reposo con la varilla en el punto mas alto se le aplica una fuerza F de 3 N 
+perpendicular  a la varilla  que actuará  permanentemente causando un movimiento 
+antihorario(despreciar el efecto del peso de la masa en este movimiento). 
+En el punto más bajo de la trayectoria justo donde comenzó la aplicación de la fuerza existe un 
+contador digital de vueltas que indica las veces que ésta paso por esa posición. Este contador también 
+puede accionar la liberación instantánea de la masa cuando el mismo alcanza un valor prefijado (tres 
+dígitos). 
+ 
+a-Determinar el número de pasadas n1 y 
+n2 que  se debe prefijar en el contador 
+para que la liberación de la masa vaya a 
+parar a dos puntos ubicados a 30 m y 60 
+m sobre un plano horizontal a 2 m por 
+debajo del punto de lanzamiento. 
+ 
+b-¿Después de cuanto tiempo de 
+iniciado el movimiento se acciona la 
+liberación de la masa que llega a 60 m.? 
+ 
+c-¿Cuál es la fuerza que ejerce la varilla 
+sobre la masa al segundo de iniciado el 
+movimiento? 
+ 
+d-Supongamos que una persona  se 
+encuentra a 8 metros del punto más 
+alejado.¿Cual debe ser la velocidad que 
+esta debe tener para alcanzar a la masa 
+dirigida al punto mas lejos cuando ésta 
+se encuentra a  0,30 m del suelo?.  
+Contador digital y expulsor
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p05_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Rotational Dynamics]]
+**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Rod (object)|Rod]], [[Projectile (object)|Projectile]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+La massa era in rotazione
+
+PT10. Salta. Salta. Blu e verde. 
+ 
+La massa girava. 
+Una massa di 0,1 kg è disposta all'estremità di un bastone indeformabile di massa scarsa.
+che può girare rispetto ad un asse. 
+Se la massa è a riposo con la verga al punto più alto, viene applicata una forza F di 3 N.
+perpendicolare alla verga che agirà in modo permanente causando un movimento 
+Il peso della massa in questo movimento è dispreziato. 
+Al punto più basso della traccia proprio dove è iniziata l'applicazione della forza esiste un 
+contaggio digitale di giri che indica le volte che questa passa attraverso quella posizione. Anche questo contatore.
+La massa può essere immediatamente liberata quando raggiunge un valore predefinito (tre).
+(dici) 
+ 
+a-Determare il numero di passi n1 e 
+n2 che deve essere prefisso sul contatore 
+Per far sì che la liberazione della massa vada a
+Fermarsi a due punti a 30 m e 60 m
+m su un piano orizzontale a 2 m per 
+Sotto il punto di lancio. 
+ 
+b-Dopo quanto tempo di
+Iniziato il movimento si attiva il 
+liberazione di massa fino a 60 m.? 
+ 
+c-Qual è la forza che esercita il bastone 
+sulla massa al secondo di inizio 
+movimento? 
+ 
+D-Supponiamo che una persona si
+si trova a 8 metri dal punto più alto 
+- Non è così. - Non è così.
+Questa deve avere per raggiungere la massa.
+Diretto al punto più lontano quando questa
+si trova a 0,30 m dal suolo. 
+Contatore digitale e espulsione
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p05_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Rotational Dynamics]]
+**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Rod (object)|Rod]], [[Projectile (object)|Projectile]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The mass was turning.
+
+PT10. Jump in. Blue and Green. 
+ 
+The mass was turning. 
+A mass of 0.1 kg is provided at the end of an indeformable rod of despicable mass.
+It can rotate with respect to an axis. 
+When the mass is at rest with the rod at the highest point, an F force of 3 N is applied to it.
+Perpendicular to the rod which will act permanently causing a movement 
+anti-clockwise (depreciate the effect of mass weight on this motion). 
+At the lowest point of the trajectory right where the force application began there is a
+A digital spin counter indicating the number of times the spin passes through that position. This accountant too.
+It can trigger the instantaneous release of mass when it reaches a pre-set value (three 
+(numbers) 
+ 
+a- Determine the number of steps n1 and 
+n2 to be prefixed on the counter 
+So the mass release goes to 
+Stop at two points at 30 m and 60 m.
+m on a horizontal plane at 2 m per 
+below the launch point. 
+ 
+b- After how long of
+The motion is initiated and the 
+release of mass up to 60 m.? 
+ 
+c-What is the force exerted by the rod 
+on the mass to the second of the initiated 
+What's the motion? 
+ 
+d- Suppose a person is 
+It 's about eight meters from the highest point .
+What speed should you be ?
+This one must have to reach the mass 
+directed to the farthest point when this one
+It is 0.30 m from the ground. 
+Digital counter and expeller
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p05_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Rotational Dynamics]]
+**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Rod (object)|Rod]], [[Projectile (object)|Projectile]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q11" data-atom="q11" data-title="Argent 2004 Locale — Quesito 11" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/magnetism,argomento/elettromagnetismo,difficolta/5,multidisciplina/mono,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Midiendo el campo magnetico con una cuba**
+
+PT11. Salta. Azul y Verde. 
+ 
+Ante la escasez de instrumentos ...agudizamos el ingenio. 
+Un físico de un importante centro de investigación en Magnetismo está interesado en medir la 
+intensidad de un campo magnético, pero no dispone de un gausimetro adecuado, dado que  la 
+disminución del  presupuesto en el laboratorio lo priva de tenerlo. 
+Ante esa situación se dispone  armar un dispositivo que le permita medir el campo magnético, para 
+ello  cuenta con   una cuba rectangular con un líquido conductor, con la particularidad de que en dos 
+extremos enfrentados de la cuba la superficie es conductora y la otras dos no lo son. 
+El líquido llena el recipiente hasta cierto nivel Yo, la densidad del mismo esδ , de  conductividad  σ  y 
+de capacidad calorífica Cp. 
+Primeramente la cuba se la dispone bajo la acción del campo magnético que se intentará medir e 
+inmediatamente se  conecta a una fuente de tensión variable. A medida que la  diferencia de potencial 
+∆V comienza a crecer, se observa que  aparece un desnivel en el líquido entre las paredes no 
+conductoras delantera y trasera de la cubeta. 
+El físico registra la variación de la pendiente  en función del voltaje aplicado obteniendo los siguientes 
+resultados. 
+∆V(volts) 
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+−
+a
+Y
+Y
+0
+0 
+0 
+0.5 
+1.10 
+1 
+2.20 
+1.5 
+3.30 
+2 
+4.40 
+a-Graficar 
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+−
+a
+Y
+Y
+0
+   en función de ∆V y encontrar la relación funcional entre ellas. 
+ 
+b-Tomar un elemento de volumen sobre la superficie y dibujar las fuerzas que originan el desnivel   y 
+calcular el valor de la corriente que se establece cuando se aplicó la máxima diferencia de potencial. 
+ 
+c-Con lo realizado hasta aquí ¿el físico está en condiciones  de calcular cual es el campo magnético? 
+.Si es así ¿como lo haría y cual sería su valor?. 
+ 
+d-Encuentre una relación funcional del campo con los parámetros que gobiernan su intensidad   y que 
+tenga en cuenta al relación obtenida en 
+(a). 
+ 
+d-Calcular el máximo valor del campo 
+magnético que el físico puede medir sin 
+que el  líquido conductor se derrame  de  
+la cuba, cuando se le aplicó el voltaje 
+máximo. 
+ 
+e-¿ Cual es la temperatura final que 
+adquiere la sustancia  cuando se le 
+aplicó el voltaje máximo durante 2 
+segundos? 
+Suponiendo 
+que 
+se 
+encontraba a 25 grados centígrados. 
+ 
+Datos 
+Yo=0.5 m   , a=0.25m ,    b=2m,   c=1,70m    σ =22.7 
+m
+Ω
+1
+  Cp
+ = 5,18 KJ /kg.K   δ = 2 g/cm3
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p06_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Magnetism]]
+**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Mettendo il campo magnetico con un cubo**
+
+PT11. Salta. Salta. Blu e verde. 
+ 
+Alla scarsità di strumenti... accresciamo l'ingegno. 
+Un fisico di un importante centro di ricerca in Magnetismo è interessato a misurare la
+L'intensità di un campo magnetico, ma non dispone di un gaussimetro adeguato, dato che la
+La riduzione del budget del laboratorio lo priva di avere. 
+In questo caso, si dispone di un dispositivo che permette di misurare il campo magnetico, per
+Il sistema di controllo è basato su una cuba rettangolare con un liquido conduttore, con la particolarità che in due
+Le estremità opposte della cuba la superficie è conducente e le altre due non lo sono. 
+Il liquido riempie il recipiente fino a un certo livello Io, la densità dello stesso esδ , di conduzione σ e 
+di capacità calorifica Cp. 
+Prima la cuba viene disposta sotto l'azione del campo magnetico che si tenta di misurare e
+si collega immediatamente a una fonte di tensione variabile. Come la differenza di potenziale 
+∆V inizia a crescere, si osserva un'oscillazione del liquido tra le pareti non
+conducenti anteriori e posteriori del cubo. 
+Il fisico registra la variazione della pendenza a seconda della volta applicata ottenendo i seguenti 
+risultati. 
+∆V(volts) 
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+−
+a
+Y
+Y
+0
+0 
+0 
+0.5 
+1.10 
+1 
+2.20 
+1.5 
+3.30 
+2 
+4.40 
+a-Grafica 
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+−
+a
+Y
+Y
+0
+La funzione di ∆V è di trovare il rapporto funzionale tra di loro. 
+ 
+b-Togliere un elemento di volume sulla superficie e disegnare le forze che causano lo squilibrio e 
+Calcolare il valore di corrente che viene stabilito quando è stata applicata la differenza massima di potenziale. 
+ 
+c-Con ciò che abbiamo fatto finora, il fisico è in grado di calcolare quale sia il campo magnetico? 
+Se è così, come lo farebbe e quale sarebbe il suo valore? 
+ 
+d-Ricerca un rapporto funzionale del campo con i parametri che governano la sua intensità e che 
+- il rapporto ottenuto in 
+(a). 
+ 
+d-Calcolare il valore massimo del campo 
+Magnetico che il fisico può misurare senza
+che il liquido conduttore si scarica da 
+la cuva, quando le è stata applicata la tensione.
+- Al massimo. 
+ 
+E-¿ Qual è la temperatura finale che 
+si acquista la sostanza quando viene
+ha applicato la massima tensione per 2 
+- Secondi? 
+Supponiamo che
+che 
+se 
+E' stato 25 gradi centigradi. 
+ 
+Datos 
+Yo=0.5 m   , a=0.25m ,    b=2m,   c=1,70m    σ =22.7 
+m
+Ω
+1
+  Cp
+ = 5,18 KJ /kg.K   δ = 2 g/cm3
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p06_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Magnetism]]
+**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+Measuring the magnetic field with a cube
+
+PT11. Jump in. Blue and Green. 
+ 
+With the scarcity of instruments, we sharpen our wit. 
+A physicist at a major magnetism research center is interested in measuring the
+The magnetic field is strong, but it does not have an adequate gausemeter, as the
+The fact that the budget in the laboratory is reduced deprives him of it. 
+In this situation, a device is set up to measure the magnetic field.
+It has a rectangular cube with a conductive liquid, with the particularity that in two
+The surface is conductive and the other two are not. 
+The liquid fills the container to a certain level I, the density of the same isδ , of conductivity σ and 
+of a heat capacity of Cp. 
+First the cube is arranged under the action of the magnetic field to be measured and
+immediately connected to a variable voltage source. As the potential difference 
+∆V starts to grow, a fluid imbalance appears between the walls no 
+front and rear drivers of the bucket. 
+The physicist records the change in slope depending on the applied voltage by obtaining the following 
+The results. 
+The following is the list of the current operating conditions:
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+−
+a
+Y
+Y
+0
+0 
+0 
+0.5 
+1.10 
+1 
+2.20 
+1.5 
+3.30 
+2 
+4.40 
+a-Graphing 
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+−
+a
+Y
+Y
+0
+The functional relationship between the two is determined by the functional relationship between the two functions. 
+ 
+b-Take a volume element over the surface and draw the forces causing the imbalance and 
+calculate the current value established when the maximum potential difference was applied. 
+ 
+With what we've done so far, is the physicist able to calculate what the magnetic field is? 
+If so, how would you do it and what would be its value? 
+ 
+d-Find a functional relationship of the field to the parameters governing its intensity and which 
+take into account the ratio obtained in 
+(a). 
+ 
+d-Calculate the maximum value of the field 
+Magnetic that physicists can measure without.
+The conductive fluid is poured from 
+the bowl, when the voltage was applied to it.
+- That's it. 
+ 
+What is the final temperature that you
+It acquires the substance when it is given to it.
+applied the maximum voltage for 2 
+Seconds? 
+Assuming that
+That 
+se 
+It was 25 degrees Celsius. 
+ 
+Data from the report 
+Yo=0.5 m   , a=0.25m ,    b=2m,   c=1,70m    σ =22.7 
+m
+Ω
+1
+  Cp
+ = 5,18 KJ /kg.K   δ = 2 g/cm3
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p06_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Magnetism]]
+**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q12" data-atom="q12" data-title="Argent 2004 Locale — Quesito 12" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/5,multidisciplina/multi,object/spring,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Dispositivo aparatoso para olimpiadas**
+
+PT12. Salta. Azul y Verde. 
+ 
+Dispositivo aparatoso para olimpíadas. 
+El recinto de la figura tiene una base cuadrada de 1 m de lado y en su interior se encuentra un laser 
+ubicado en el centro de la arista inferior izquierda inclinado  a 63o. Cuando se enciende el laser, el rayo 
+va a parar por encima de un dispositivo electrónico que está ubicado a una altura ho = 1.40 m.(punto 
+A) sobre el mismo plano que el laser. 
+Este dispositivo se activa por laser y manda una corriente eléctrica a otro dispositivo ubicado en el 
+punto B de la figura, cuando es activado. 
+Al no llegar la luz laser este dispositivo no se acciona y un físico propone agregar agua con un gotero 
+ubicado en la parte superior del recinto, lanzando 2 gotas /seg. De esta manera a medida que el recinto 
+se llena de agua,  el haz  laser que emerge  de la misma se va acercando  la luz al dispositivo gracias a 
+los efectos de la refracción, hasta que en un momento dado, la luz  da finalmente en el blanco.  
+ 
+a-Calcular el ángulo con que la luz se refracta en la interfase agua-aire. 
+ 
+b-Encontrar la ley que gobierna  la posición x de la salida del laser medida a partir del extremo 
+superior derecho de la superficie liquida, en función de la posición vertical en que se ubica la luz laser, 
+el ángulo de refracción ,  el volumen de cada gota , la cantidad de gotas /seg y el tiempo. 
+ 
+c-Se observa que el laser emerge hacia el aire y acciona el dispositivo cuando x es igual a 0,82 m. 
+Calcular el número de gotas que lanzó el gotero si el recinto tardo 1500 segundos en llenarse  y el 
+volumen de cada una de ella. 
+ 
+Una vez que el dispositivo fue activado envía una señal eléctrica a otro dispositivo que acciona un 
+resorte que estaba comprimido 0,30 m y empuja al recinto una distancia de 10 m en 4 segundos. 
+ 
+d-Calcular la aceleración  que le impartió el dispositivo al recinto si el agua se elevo 2 cm.  por encima 
+de la horizontal    y calcular también la constante del resorte. 
+ 
+e- Si ahora suponemos que existe una fuerza de rozamiento ( µ  = 0.1) ¿Cual debe ser la cte. del 
+resorte para que llegue a los 10 m sin velocidad? 
+ 
+Suponemos que el laser  tiene  volumen y masa despreciable frente a la masa total involucrada. 
+Despreciamos también la masa del recinto.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p07_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Geometric Optics]], [[Newtonian Mechanics]]
+**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Hooke's Law (metodo)|Hooke's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Spring (object)|Spring]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Dispositivo apparecchiato per le Olimpiadi**
+
+PT12. Salta. Salta. Blu e verde. 
+ 
+Dispositivo per le Olimpiadi. 
+L'ingresso della figura ha una base quadrata di 1 m laterale e all'interno si trova un laser 
+situato al centro del bordo inferiore sinistro inclinato a 63°. Quando si accende il laser, il fulmine
+si trova sopra un dispositivo elettronico che è situato ad un'altezza ho = 1,40 m.
+A) sullo stesso piano del laser. 
+Questo dispositivo viene attivato da un laser e manda un corrente elettrica ad un altro dispositivo situato nel
+punto B della figura, quando è attivato. 
+Quando non arriva la luce laser questo dispositivo non si attiva e un fisico propone di aggiungere acqua con un goccia
+situato nella parte superiore del recinto, lanciando 2 gocce /seg. In questo modo, mentre il recinto
+Si riempie di acqua, il raggio laser che ne emerge si avvicina alla luce del dispositivo grazie a 
+gli effetti della refraczione, fino a che, in un certo momento, la luce finalmente si schianta sul bianco. 
+ 
+a-Calcolare l'angolo con cui la luce si refracta nell'interfaccia acqua-aria. 
+ 
+b-Ricerca la legge che governa la posizione x dell'uscita del laser misurata dall'estremità 
+superiore a destra della superficie liquida, in funzione della posizione verticale in cui si trova la luce laser, 
+l'angolo di rifrazione, il volume di ogni goccia, la quantità di gocce /seg e il tempo. 
+ 
+c-Si osserva che il laser emerge verso l'aria e attiva il dispositivo quando x è uguale a 0,82 m. 
+Calcolare il numero di gocce che il goccia ha lanciato se il recinto ha tardato 1500 secondi a riempirsi e il
+volume di ciascuna di esse. 
+ 
+Una volta che il dispositivo è stato attivato, invia un segnale elettrico ad un altro dispositivo che accende un'altra.
+la primavera che era compressa 0,30 m e spinge il recinto a una distanza di 10 m in 4 secondi. 
+ 
+d-Calcolare l'accelerazione che il dispositivo ha dato al recinto se l'acqua si alza di 2 cm. sopra .
+La linea di massima è quella di un'ottica di calcolo. 
+ 
+e- Se supponiamo che ci sia una forza di rottura (μ = 0.1) di cui al
+Primavera per raggiungere i 10 m senza velocità? 
+ 
+Supponiamo che il laser abbia un volume e una massa scarsa rispetto alla massa totale coinvolta. 
+Ma non si tratta di un'impresa che non è stata fatta.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p07_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Geometric Optics]], [[Newtonian Mechanics]]
+**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Hooke's Law (metodo)|Hooke's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Spring (object)|Spring]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Olympic apparatus **
+
+PT12. Jump in. Blue and Green. 
+ 
+It's an Olympic device. 
+The frame of the figure has a square base of 1 m on the side and inside it is a laser 
+located in the center of the lower left edge inclined at 63°. When the laser is turned on, the lightning
+It's going to stop above an electronic device that's located at a height of ho = 1.40 m.
+A) on the same plane as the laser. 
+This device is activated by laser and sends an electric current to another device located in the
+point B of the figure, when activated. 
+When the laser light doesn 't come this device doesn 't work and a physicist proposes to add water with a dropper .
+located at the top of the enclosure, dropping 2 drops / sec. This way as the compound
+It's filled with water, the laser beam that comes out of it gets closer to the device thanks to
+The effects of refraction, until at some point, the light finally hits the target. 
+ 
+a-Calculate the angle at which light is refracted at the water-air interface. 
+ 
+b-Find the law governing the x position of the laser output measured from the end 
+upper right of the liquid surface, depending on the vertical position in which the laser light is located, 
+the angle of refraction, the volume of each drop, the number of drops/second and the time. 
+ 
+c-The laser is observed to emerge into the air and activate the device when x is equal to 0.82 m. 
+Calculate the number of drops that the drip threw if the enclosure takes 1500 seconds to fill and the
+volume of each of them. 
+ 
+Once the device is activated it sends an electrical signal to another device that activates a
+spring that was compressed to 0.30 m and pushes the enclosure a distance of 10 m in 4 seconds. 
+ 
+d-Calculate the acceleration given by the device to the enclosure if the water rises 2 cm. Over there .
+The horizontal and also calculate the spring constant. 
+ 
+e- If we now assume that there is a friction force (μ = 0.1) what should be the cte. of the 
+spring so he can get to 10 meters without speed? 
+ 
+Let's assume that the laser has a negligible volume and mass compared to the total mass involved. 
+We also disregard the mass of the compound.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p07_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Geometric Optics]], [[Newtonian Mechanics]]
+**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Hooke's Law (metodo)|Hooke's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Spring (object)|Spring]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q13" data-atom="q13" data-title="Argent 2004 Locale — Quesito 13" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,topic/gravitation,argomento/gravitazione-e-astrofisica,difficolta/4,multidisciplina/multi,object/planet,object/satellite"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Armageddon: salvacion de la Tierra**
+
+PT13. Rosario, Santa Fe. Verde. 
+ 
+¿Dejarías la salvación de la Tierra en las manos del guionista de esta película? 
+En la película “Armageddon”, un asteroide del tamaño de Texas se dirige directamente a la Tierra y la 
+única posibilidad de salvar a la humanidad es colocar una bomba nuclear que lo parta, de manera tal 
+que los dos fragmentos pasen a los lados de la Tierra sin producir ningún daño. 
+ 
+Para que esto suceda deben cumplirse dos condiciones: 1) la bomba nuclear debe partir al asteroide en 
+dos partes aproximadamente iguales y 2) la velocidad de separación  de las mitades debe ser 
+suficientemente grande para separarlas entre sí una distancia equivalente al diámetro de la Tierra más 
+1300 Km (según la película), en el tiempo que le toma al asteroide alcanzar nuestro planeta después de 
+la explosión nuclear. Para analizar esta odisea, haremos las siguientes  suposiciones: 
+ 
+Suposiciones 
+Comentarios 
+Diámetro del asteroide: 1240 Km 
+Dimensión Este-Oeste de Texas 
+Densidad del asteroide: 5500 Kg/m3 
+Equivalente a la densidad de la Tierra 
+Forma del asteroide: Esfera 
+En la película, el asteroide es alargado 
+Bomba nuclear: 100 Megatones 
+La mayor bomba atómica existente 
+Cantidad de energía termonuclear 
+convertida en energía cinética: 100% 
+Energía dividida equitativamente entre 
+las dos mitades del asteroide 
+Tiempo en que los fragmentos llegan a la 
+Tierra después de la detonación: 2 h 
+De acuerdo al contexto general de la 
+película 
+ 
+Datos 
+Comentarios 
+Velocidad del asteroide: 35400 Km/h 
+Dato de la película 
+Radio terrestre: 6380 Km 
+ 
+1 Megaton = 4,184 . 1015 J 
+ 
+ 
+1. Utilizando las suposiciones y datos de las tablas, determina la velocidad de separación de las 
+mitades del asteroide y la distancia que las separa cuando alcanza la Tierra. 
+ 
+2. Antes de alcanzar el asteroide, el trasbordador espacial debe acoplarse a la estación espacial rusa 
+MIR para abastecerse de combustible. En la película, el cosmonauta ruso “acciona” la gravedad 
+artificial haciendo rotar la estación ( poco presupuesto de la película para simular la ingravidez!!). 
+El círculo de la figura representa la sección transversal del núcleo del módulo rotando alrededor de 
+su centro. 
+• 
+Dibuja en el círculo una persona de aproximadamente 
+1,90 m de altura parada en el módulo. 
+• 
+Calcula la velocidad tangencial requerida para producir 
+una aceleración centrípeta de 1 g terrestre en los pies del 
+astronauta y las revoluciones por minuto de la MIR para 
+lograr esta aceleración. 
+• 
+Determina el valor de la g artificial en la cabeza del 
+astronauta suponiendo las r.p.m. de la estación rusa. 
+• 
+Explica la imposibilidad de lograr una gravedad artificial 
+de 1 g uniforme a través de la rotación de la MIR. 
+ 
+3. Suponiendo que realmente se cumple el objetivo de la misión y los fragmentos del asteroide pasan 
+en la distancia establecida, calcula la fuerza gravitatoria ejercida por estos sobre la Tierra y 
+compárala con la fuerza ejercida por la Luna. 
+ML = 7,35 . 1022 Kg 
+MT = 5,98 . 1024 Kg 
+DistT,L = 3,85 . 108 m 
+G = 6,67 x 10-11 Nm2/Kg2
+
+**Topic:** [[Gravitation]], [[Conservation of Momentum]]
+**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Planet (object)|Planet]], [[Satellite (object)|Satellite]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+Armageddon: Salvezza della Terra
+
+PT13. Rosario, Santa Fe. Verde. 
+ 
+Lasceresti la salvezza della Terra nelle mani del sceneggiatore di questo film? 
+Nel film Armageddon, un asteroide del taglio del Texas si dirige direttamente sulla Terra e la Terra.
+L'unica possibilità di salvare l'umanità è di mettere una bomba nucleare che la spezzi in modo tale.
+che i due frammenti passino sui lati della Terra senza causare alcun danno. 
+ 
+Per questo, due condizioni devono essere soddisfatte: 1) la bomba nucleare deve scagliare l'asteroide in
+due parti approssimativamente uguali e 2) la velocità di separazione delle mità deve essere 
+abbastanza grande da separarli da un'altra distanza equivalente al diametro della Terra più
+1300 Km (secondo il film), nel tempo necessario per raggiungere il nostro pianeta dopo
+l'esplosione nucleare. Per analizzare questa odissea, faremo le seguenti ipotesi:
+ 
+Supposizioni 
+Commenti 
+Diametro dell'asteroide: 1240 Km 
+Dimensione est-ovest del Texas 
+Densità dell'asteroide: 5500 Kg/m3 
+E ' equivalente alla densità della Terra .
+Forma dell'asteroide: sfera 
+Nel film, l'asteroide è allungato.
+Bombetta nucleare: 100 megatoni 
+La più grande bomba atomica esistente.
+Quantità di energia termonucleare 
+convertito in energia cinetica: 100% 
+Energia equamente divisa tra 
+Le due metà dell'asteroide .
+Il tempo in cui i frammenti arrivano alla
+Terra dopo la detonazione: 2 ore
+In base al contesto generale della
+film 
+ 
+Datos 
+Commenti 
+Velocità dell'asteroide: 35400 Km/h 
+Data del film 
+Radio terrestre: 6380 Km 
+ 
+1 megaton = 4.184 . 1015 J 
+ 
+ 
+1. Usando le ipotesi e i dati delle tabelle, determina la velocità di separazione delle 
+le metà dell'asteroide e la distanza che separa le due metà quando raggiunge la Terra. 
+ 
+2. Prima di raggiungere l'asteroide, la space shuttle deve collegarsi alla stazione spaziale russa.
+MIR per rifornirsi di carburante. Nel film, il cosmonauta russo agisce sulla gravità
+artificiale facendo girare la stazione (poco budget del film per simulare l'ingravidità!!). 
+Il cerchio della figura rappresenta la sezione trasversale del nucleo del modulo che ruota intorno a 
+il suo centro. 
+• 
+Disegna in cerchio una persona di circa 
+Alti 1,90 metri, fermi sul modulo. 
+• 
+Calcola la velocità tangenziale necessaria per produrre 
+un'accelerazione centripeta di 1 g terrestri ai piedi del 
+astronauta e le rivoluzioni al minuto della MIR per 
+raggiungere questa accelerazione. 
+• 
+Determina il valore del g artificiale nella testa del 
+astronauta, supponendo le RPM. della stazione russa. 
+• 
+Spiega l'impossibilità di ottenere una gravità artificiale
+di 1 g uniforme attraverso la rotazione del MIR. 
+ 
+3. Supponiamo che si realizzi l'obiettivo della missione e i frammenti dell'asteroide passino .
+a distanza stabilita, calcola la forza gravitazionale esercitata da questi sulla Terra e 
+Compare la forza esercitata dalla Luna. 
+ML = 7,35 . 1022 Kg 
+MT = 5,98 . 1024 Kg 
+DistT, L = 3,85 . 108 m 
+G = 6,67 x 10-11 Nm2/Kg2
+
+**Topic:** [[Gravitation]], [[Conservation of Momentum]]
+**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Planet (object)|Planet]], [[Satellite (object)|Satellite]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The Bible says that "the kingdom of God will come".
+
+PT13. Rosario, Santa Fe. Green, please. 
+ 
+Would you leave the salvation of the Earth in the hands of the writer of this film? 
+In the movie Armageddon, an asteroid the size of Texas is heading directly toward Earth and the Earth.
+The only way to save humanity is to place a nuclear bomb that will split it, in such a way.
+Let the two fragments pass through the sides of the earth without causing any harm. 
+ 
+For this to happen, two conditions must be met: 1) the nuclear bomb must blow up the asteroid in
+two approximately equal parts and 2) the separation rate of the halves must be 
+Large enough to separate them from each other at a distance equivalent to the diameter of the Earth plus
+1300 km (according to the movie), in the time it takes the asteroid to reach our planet after
+The nuclear explosion. To analyze this odyssey, we will make the following assumptions:
+ 
+Assumptions 
+Comments from the press
+The asteroid has a diameter of 1240 km.
+East-west dimension of Texas 
+Density of the asteroid: 5500 Kg/m3 
+Equivalent to the density of the Earth 
+The shape of the asteroid: Sphere 
+In the movie, the asteroid is elongated.
+Nuclear bomb: 100 megatons
+The largest atomic bomb in existence .
+Quantity of thermonuclear energy 
+converted to kinetic energy: 100% 
+Energy divided equally between 
+The two halves of the asteroid .
+Time for the fragments to reach the
+Ground after detonation: 2 h 
+In the general context of the 
+- What ?
+ 
+Data from the report 
+Comments from the press
+Speed of the asteroid: 35400 Km/h 
+Date of the movie 
+The land-based radio: 6380 km 
+ 
+One megaton is 4,184 . 1015 J 
+ 
+ 
+1. Using the assumptions and data from the tables, it determines the separation rate of the
+the asteroid's halves and the distance between them when it reaches Earth. 
+ 
+2. Before reaching the asteroid, the space shuttle must dock with the Russian space station.
+MIR to get fuel. In the film, the Russian cosmonaut activates gravity.
+Artificial turning the station (little budget of the movie to simulate weightlessness!!). 
+The circle in the figure represents the cross-section of the module core rotating around 
+its center. 
+• 
+Draw in the circle a person of approximately 
+Standing at 6 feet tall on the module. 
+• 
+Calculates the tangential velocity required to produce 
+a centrifugal acceleration of 1 g on the ground at the feet of the 
+Astronaut and the revolutions per minute of the MIR for 
+to achieve this acceleration. 
+• 
+Determine the value of the artificial g in the head of the 
+Astronaut assuming the rpm From the Russian station. 
+• 
+It explains the impossibility of achieving artificial gravity.
+1 g uniformly through the rotation of the MIR. 
+ 
+3. Assuming the mission's objective is actually met and the asteroid fragments pass through.
+At the distance, it calculates the gravitational force exerted by these on the Earth and 
+Compare it to the force exerted by the moon. 
+ML = 7,35 . 1022 Kg 
+MT = 5,98 . 1024 Kg 
+DistT,L is 3.85 . 108 m 
+G = 6,67 x 10-11 Nm2/Kg2
+
+**Topic:** [[Gravitation]], [[Conservation of Momentum]]
+**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Planet (object)|Planet]], [[Satellite (object)|Satellite]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q14" data-atom="q14" data-title="Argent 2004 Locale — Quesito 14" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/4,multidisciplina/multi,object/lens,object/mirror,object/battery"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Mermeladas caseras**
+
+PT14. Rosario, Santa Fe. Verde. 
+ 
+Mermeladas caseras. 
+En un hermoso pueblo de montaña los turistas tienen la opción de conocer una fábrica familiar de 
+mermeladas. Durante la visita, una persona los recibe, les narra algo de historia familiar, los guía en 
+una recorrida por las instalaciones y les describe algunos detalles de la producción. Antes de invitarlos 
+a un salón donde se exhiben los productos que pueden elegir si desean comprar, les ofrece degustar 
+algunos de ellos. Con el tiempo, y complementando el entorno natural privilegiado de la zona, han ido 
+incorporando servicios que amenizan la estancia de quienes los visitan: bar, comidas rápidas, juegos 
+para niños…, y el esfuerzo en todo lo que hacen está redituándoles los frutos esperados. 
+ 
+Hace tiempo, uno de los hijos –que estudia en nivel polimodal– tiene la idea de incorporar una especie 
+de museo experimental de ciencias. Para ello piensa llevar a cabo una modesta prueba con fines 
+múltiples: difundir la calidad de lo que hacen, sondear el impacto en la clientela y poner a prueba sus 
+propias habilidades: mostrar, en escala reducida, el envasado “al vacío” de los frascos de conserva. 
+ 
+En la sala de recepción pretende proyectar la imagen de la tapa de un frasco donde ser reproduce parte 
+de la bonita fachada de su casa/fábrica y del predio circundante. Desea hacer un montaje con pocos 
+elementos. Así, está dispuesto a arreglarse con: 
+• 
+Un espejo plano 
+• 
+Una lupa de 4 dioptrías que le obsequió su abuelo 
+• 
+Una batería de auto de 12 V y 60 A-h (ampere-hora)1 
+• 
+Un calentador eléctrico de inmersión de 12 V 
+• 
+Un termo para viandas 
+• 
+Una lámpara halógena (reflector) para iluminar la tapa 
+• 
+Algunos trozos de madera y de cables conectores 
+ 
+Tiene en mente el siguiente esquema (donde no se incluyen la lámpara halógena, el calentador de 
+inmersión y la batería con sus cables): 
+ 
+ 
+Datos de distancias: 
+d (entre la vertical de trazos y la pared): 3m 
+ 
+ 
+ 
+q ……………………………………....: 0,16 m 
+ 
+ 
+ 
+h ………………………………………: 0,026 m 
+Los puntos A y B corresponden a los “extremos” de la parte superior de la tapa cuyo diámetro es:  
+0,06 cm 
+ 
+1) Resulta necesario calcular algunas distancias, por ejemplo: ¿cuál sería la profundidad aparente de 
+la tapa vista desde el aire con incidencia normal?. Datos: índices de refracción: naire = 1; nagua = 1,3 
+ 
+2) Realiza un esquema simplificado mostrando sólo líneas (identificando c/u) que representen: ·la 
+superficie del agua, ·la parte superior (AB) de la tapa, ·la imagen (A’B’) que corresponde a la 
+
+imagen virtual calculada en el ítem 1), ·el espejo a 45º, ·la lente y ·la pared. Ahora ubica la imagen 
+–no se exige el trazado de rayos– (A’’B’’) que formará el espejo a partir de (A’B’). 
+ 
+3) Tomando como referencia un punto objeto del centro de la tapa, ¿a qué distancia de la pared 
+debería estar la lupa para proyectar la imagen ampliada de la tapa sumergida? 
+ 
+4) Considera que el frasco se llena casi completamente con la mermelada, dejando un espacio de aire 
+de sólo aproximadamente 0,010 litros (1x10-5 m3) y que se cierra con empaque de hule, que 
+permite el escape de gases hacia afuera del frasco, pero que evita que pase gas hacia adentro. 
+Luego se mantiene el frasco en agua hirviendo durante varios minutos y así se alcanza el 
+equilibrio térmico. Para poner en evidencia la efectividad del cierre se ofrece a un visitante que 
+intente abrirlo, ¿qué fuerza necesitará hacer para levantar la cubierta de este frasco después de 
+haberse enfriado a la temperatura ambiente, 20 ºC?. No tengas en cuenta la expansión térmica de 
+la mermelada y del frasco. Datos: presión atmosférica: 1 atm = 101300 Pa. R = 0,082 
+[atm.L/(mol.K)] = 8,31 [J/(mol.K)]. 
+ 
+5) Cuando se inicia la recorrida por la planta se conecta el calentador a la batería y se mantiene 
+conectado durante 25 minutos. Teniendo en cuenta los datos que se indican más abajo y 
+despreciando las “pérdidas” de energía: 
+a) ¿ Qué potencia y qué resistencia debe tener el calentador para calentar el agua (y el 
+resto del equipo) desde la temperatura ambiente (20 ºC) hasta 100 ºC en 15 minutos?. 
+b) Si se intentara fabricar y vender adornos recubiertos de cobre para colgar en las 
+paredes –armando la cuba electrolítica correspondiente–, ¿qué masa de cobre se 
+podría depositar sobre los adornos con la carga remanente de la batería, suponiendo 
+un rendimiento del 100% (e imaginando que estuvo conectada al calentador calculado 
+en el ítem anterior)?. 
+Datos: 
+Eq (equivalente en agua del termo) = 0,15 Kg 
+cF (calor específico medio del frasco y la mermelada) = 3600 J/(Kg.ºC) 
+mF (masa conjunta del frasco y mermelada) = 0,28 Kg 
+ma (masa de agua) = 1 Kg. [Se puede despreciar la masa de agua vaporizada hasta llegar a 
+100 ºC] 
+ca (calor específico del agua) = 4186 J/(Kgº.C) 
+ε (equivalente electroquímico del cobre (Cu2+)) = 3,29 x 10-7Kg/C. [Recuerda que el 
+equivalente electroquímico de un elemento es la masa del mismo que se deposita o 
+desprende en un electrodo por unidad de carga eléctrica circulante]. 
+Equivalencias: 1 L = 1 dm3 = 1x10-3 m3. 
+ 
+1 La vida útil de una batería de automóvil que no se recarga se expresa en términos de ampere-horas. 
+Una batería típica de 12 volts tiene una vida media nominal de 60 ampere-horas, lo que significa que 
+puede suministrar una corriente de 60 amperes durante una hora, 30 amperes durante 2 horas, etc.
+
+
+
+**Topic:** [[Geometric Optics]], [[Thermodynamics]]
+**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Lens (object)|Lens]], [[Mirror (object)|Mirror]], [[Battery (object)|Battery]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Marmelade domestiche**
+
+PT14. Rosario, Santa Fe. Verde. 
+ 
+Marmellata fatta a casa. 
+In un bel villaggio di montagna i turisti hanno la possibilità di conoscere una fabbrica familiare di
+marmellata. Durante la visita, una persona li accoglie, racconta loro una storia familiare, li guida in 
+un tour delle strutture e descrive alcuni dettagli della produzione. Prima di invitarli.
+in un salone dove vengono esposti i prodotti che possono scegliere se vogliono acquistare, offre loro di assaggiare 
+- Alcuni di loro. Nel tempo, e integrando l'ambiente naturale privilegiato della zona, sono andati via.
+incorporando servizi che migliorano il soggiorno dei visitatori: bar, fast food, giochi 
+per i bambini, e lo sforzo in tutto ciò che fanno sta riducendo i frutti che si aspettano. 
+ 
+Un po' fa, uno dei figli che studia a livello polimodal ha l'idea di incorporare una specie.
+di un museo sperimentale di scienze. Per questo, pensa di fare un modesto test per i suoi scopi.
+La loro attività è più ampia: diffondere la qualità di ciò che fanno, valutare l'impatto sui clienti e mettere a prova la loro qualità.
+capacità di mostrare, su scala ridotta, l'imballaggio a vuoto dei fraschi di conserve. 
+ 
+Nella sala ricezione si vuole proiettare l'immagine della copertura di un frasco dove si riproduce parte
+della bella facciata della sua casa/fabbrica e del territorio circostante. Vuole fare un montaggio con pochi.
+elementi. Quindi, è disposto a farsi conto di:
+• 
+Un specchio piano .
+• 
+Una luccia a 4 dioptri che il nonno gli ha regalato .
+• 
+Una batteria auto da 12 V e 60 A-h (ampere-ora)
+• 
+Un riscaldatore elettrico a immersione di 12 V 
+• 
+Un termoso per le carni
+• 
+Una lampada allogena (riflettore) per illuminare la copertura 
+• 
+Alcuni pezzi di legno e di cavi di connessione 
+ 
+Si tiene presente il seguente schema (non inclusa la lampada allogena, il riscaldatore di
+Immersione e batteria con i suoi cavi): 
+ 
+ 
+Dati di distanza: 
+d (tra la verticale dei tratti e il muro): 3m 
+ 
+ 
+ 
+q ……………………………………....: 0,16 m 
+ 
+ 
+ 
+h ………………………………………: 0,026 m 
+I punti A e B corrispondono ai estremità della parte superiore della copertura il cui diametro è: 
+0,06 cm 
+ 
+1) Occorre calcolare alcune distanze, ad esempio: quale sarebbe la profondità apparente di 
+la copertura vista dall'aria con incidenza normale? Dati: indici di rifrazione: naire = 1; nagua = 1,3 
+ 
+2) Realizzare un schema semplificato mostrando solo linee (identificando i/u) che rappresentano:
+superficie dell'acqua, la parte superiore (AB) della copertura, l'immagine (AB) che corrisponde alla
+
+immagine virtuale calcolata nell'articolo 1), ·lo specchio a 45°, ·la lente e ·il muro. Ora inserisci l'immagine.
+ non è richiesto il tracciamento di raggi (AB) che formerà lo specchio a partire da (AB). 
+ 
+3) Considerando come riferimento un punto oggetto del centro della copertura, a che distanza dal muro 
+Dovrebbe essere la luccia per proiettare l'immagine ampliata della copertura immersa? 
+ 
+4) Considera che il frasco si riempie quasi completamente di marmelada, lasciando spazio all'aria 
+di soli 0,010 litri (1x10-5 m3) e chiusa con imballaggio di uole, che 
+permette di scaricare i gas fuori dal frasco, ma impedisce di entrare. 
+Poi si mantiene il frasco in acqua bollente per diversi minuti e si ottiene il
+equilibrio termico. Per evidenziare l'efficacia della chiusura si offre a un visitatore che
+cerchi di aprirlo, che forza dovrà fare per sollevare la copertura di questo vaso dopo
+- si è raffreddato a temperatura ambiente, 20 oC? Non si deve considerare l'espansione termica di 
+la marmellata e il frasco. Dati: pressione atmosferica: 1 atm = 101300 Pa. R = 0,082 
+[atm.L/(mol.K) ] = 8,31 [J/(mol.K) ] 
+ 
+5) Quando si inizia il percorso attraverso la pianta si collega il riscaldatore alla batteria e si mantiene
+collegato per 25 minuti. Considerando i dati riportati di seguito e 
+Sconsigliando i perditi di energia:
+a) Che potenza e resistenza deve avere il riscaldatore per riscaldare l'acqua (e
+La temperatura ambiente (20 oC) a 100 oC in 15 minuti. 
+b) Se si tentasse di produrre e vendere ornamenti rivestiti di rame per essere appesi in
+Le pareti armando il corrispondente cubo elettrolitico, quale massa di rame è 
+Potrebbe essere depositato sugli ornamenti con la carica residuale della batteria, supponendo
+un rendimento del 100% (e immaginando che fosse collegato al caldaio calcolato 
+in precedente)?. 
+Datati: 
+Eq (equivalente in acqua del termo) = 0,15 Kg 
+cF (temperatura specifica media del frasco e della marmellata) = 3600 J/(Kg.oC) 
+mF (massa congiunta del frasco e della marmellata) = 0,28 Kg 
+ma (massa d'acqua) = 1 Kg. [Si può disprezzare la massa di acqua vaporizzata fino a raggiungere 
+100 ºC] 
+Ca (calore specifico dell'acqua) = 4186 J/(Kgo.C) 
+ε (equivalente elettrochimico del rame (Cu2+)) = 3,29 x 10-7Kg/C. [Ricorda che il 
+l'equivalente elettrochimico di un elemento è la massa di esso che viene depositato o 
+[risulta in un elettrodo per unità di carico elettrico circolante]. 
+Equivalenza: 1 L = 1 dm3 = 1x10-3 m3. 
+ 
+1 La durata di una batteria di un'auto che non si ricarica è espressa in termini di ampere ore. 
+Una batteria tipica di 12 volt ha una media vita nominale di 60 ampere-ora, il che significa che 
+può fornire una corrente di 60 amperes per un'ora, 30 amperes per 2 ore, ecc.
+
+
+
+**Topic:** [[Geometric Optics]], [[Thermodynamics]]
+**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Lens (object)|Lens]], [[Mirror (object)|Mirror]], [[Battery (object)|Battery]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+Other, of a kind used for the manufacture of foodstuffs
+
+PT14. Rosario, Santa Fe. Green, please. 
+ 
+Home-made jams. 
+In a beautiful mountain village tourists have the option to meet a family factory of
+- I'm not going to. During the visit, a person receives them, tells them a family history, guides them in 
+A tour of the facilities and a description of some of the production details. Before you invite them .
+To a showroom where you can show off the products you choose to buy, offer them a taste.
+some of them. Over time, and complementing the area's privileged natural environment, they've gone.
+incorporating services that make the stay of visitors more comfortable: bar, fast food, games 
+for children, and the effort in everything they do is reaping the desired results. 
+ 
+Some time ago, one of my children who's studying at the polymodal level has the idea of incorporating a species.
+It's the experimental science museum. To do this he plans to conduct a modest test for the purpose of
+Multiple: disseminate the quality of what they do, assess the impact on customers and test their performance 
+The first is the use of the 'supply' method, which is used to show the capacity of the container. 
+ 
+In the reception room he aims to project the image of the lid of a bottle where being reproduces part
+The beautiful facade of your house/factory and the surrounding area. You want to make a few-piece setup .
+The following elements. So, you're willing to deal with:
+• 
+A flat mirror .
+• 
+A four-dioptrial magnifying glass that his grandfather gave him .
+• 
+A 12 V and 60 A-h (ampere-hour) car battery1 
+• 
+A 12 V electric immersion heater
+• 
+A thermos for meat .
+• 
+A halogen lamp (reflector) to illuminate the lid 
+• 
+Some pieces of wood and connecting wires 
+ 
+The following scheme (which does not include the halogen lamp, the heater for
+Immersion and battery with cables): 
+ 
+ 
+Distance data: 
+d (between the vertical of the strokes and the wall): 3m 
+ 
+ 
+ 
+q ……………………………………....: 0,16 m 
+ 
+ 
+ 
+h ………………………………………: 0,026 m 
+The points A and B correspond to the extremes of the top of the lid, the diameter of which is: 
+0,06 cm 
+ 
+1) It is necessary to calculate some distances, for example: what would be the apparent depth of 
+the lid seen from the air with normal incidence. Data: refractive index: naire = 1; nagua = 1,3 
+ 
+2) Perform a simplified scheme showing only lines (identifying c/u) representing: · the 
+surface of the water, the top (AB) of the lid, the image (AB) corresponding to the
+
+The virtual image calculated in item 1), the 45° mirror, the lens and the wall. Now place the image.
+ no tracing of rays (AB) is required to form the mirror from (AB). 
+ 
+3) Taking as a reference an object point from the centre of the lid, how far from the wall 
+Should the magnifying glass be there to project the enlarged image of the submerged lid? 
+ 
+4) Consider that the vial is almost completely filled with jam, leaving a space for air.
+of a width of only about 0,010 litres (1x10-5 m3) and closed with a wrapper, which 
+It allows gas to escape out of the vial, but it prevents gas from entering. 
+Then keep the vial in boiling water for several minutes and thus achieve the
+The heat balance. To highlight the effectiveness of the closure, a visitor is offered a chance to:
+Try to open it, what force will it take to lift the lid of this bottle after
+have cooled to room temperature, 20 oC? Do not take into account the thermal expansion of 
+The jam and the jar. Data: atmospheric pressure: 1 atm = 101300 Pa. R = 0,082 
+The following table shows the number of samples taken from the sample: 
+ 
+5) When the plant tour is started, the heater is connected to the battery and maintained.
+connected for 25 minutes. Taking into account the data below and 
+Disregarding the energy losses:
+(a) What power and resistance should the heater have to heat water (and the heat output)
+The rest of the equipment) from room temperature (20 oC) to 100 oC in 15 minutes. 
+(b) If copper-coated ornaments were to be manufactured and sold for hanging in the
+walls arm the corresponding electrolytic cube, what mass of copper is 
+I could deposit on the ornaments with the remaining battery charge, assuming
+100% performance (and assuming it was connected to the calculated heater 
+in the previous item)?. 
+The data: 
+Eq (equivalent in thermal water) = 0,15 Kg 
+cF (mean specific heat of the vial and jam) = 3600 J/(Kg.oC) 
+mF (joint mass of the bottle and jam) = 0,28 Kg 
+ma (water mass) = 1 kg. [You can disregard the vaporized water mass until you get to 
+100 ºC] 
+The water temperature of the water is approximately 4186 J/(Kgo.C) 
+The value of the product concerned shall be the sum of the values of the product concerned. [Remember that the
+The electrochemical equivalent of an element is the mass of the element deposited or 
+It is emitted in an electrode per unit of electrical charge circulating]. 
+The following equations are used: 
+ 
+1 The life of a non-rechargeable car battery is expressed in ampere-hours. 
+A typical 12-volt battery has a nominal half-life of 60 amp-hours, which means that 
+It can supply a current of 60 amperes for an hour, 30 amperes for 2 hours, etc.
+
+
+
+**Topic:** [[Geometric Optics]], [[Thermodynamics]]
+**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Lens (object)|Lens]], [[Mirror (object)|Mirror]], [[Battery (object)|Battery]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q15" data-atom="q15" data-title="Argent 2004 Locale — Quesito 15" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/5,multidisciplina/mono,object/droplet,object/capacitor,object/electron"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Medicion de la carga del electron (Millikan)**
+
+PT15. Rosario, Santa Fe. Verde. 
+ 
+Medición de la carga del electrón. 
+En el laboratorio de Física del Instituto se decide medir la carga eléctrica de gotitas de aceite 
+utilizando un montaje similar al que empleó A. R. Millikan entre 1906 y 1916 para determinar la carga 
+del electrón (e- = 1,6x10-19 C). Numerosos ensayos (más de 3000 mediciones demostraron que la carga 
+de las gotas de aceite era un múltiplo entero de una pequenísima carga, la del electrón. 
+En esencia el dispositivo utilizado consiste en un pulverizador que arroja pequeñísimas gotitas de 
+aceite, cargadas eléctricamente por fricción con el pico del mismo, que caen en el aire, entre las placas 
+de un condensador, por un orificio practicado en la placa superior. Rápidamente estas gotas, que 
+pueden considerarse totalmente esféricas, adquieren una velocidad terminal constante (velocidad 
+
+límite o de Stokes) debido al rozamiento con el aire, la fricción así originada es directamente 
+proporcional a la velocidad y logra equilibrar a las fuerzas actuantes sobre la gotita. 
+Se aplica un campo eléctrico uniforme entre las placas que actúa sobre las cargas contenidas en las 
+gotas modificando su velocidad. Así conectando y desconectando el campo eléctrico es posible que de 
+una misma gota se midan varias veces tanto su velocidad terminal de caída sin campo eléctrico como 
+su velocidad Terminal con el campo eléctrico. 
+ 
+ 
+ 
+Te pedimos que colabores en algunos cálculos previos necesarios para realizar el diseño del equipo. 
+a) Se prevé que el diámetro de la gota será de 4 x 10-3mm. La densidad relativa del aceite es 0,8. 
+La expresión de Stokes que permite calcular la fuerza de rozamiento con el aire es f = 6πηrv. 
+El coeficiente de viscosidad del aire es η = 1,8.10-5Nsm-2. No consideraremos, en principio, el 
+empuje debido al aire. Calcula el valor de la velocidad límite cuando la gota cae por acción de 
+la gravedad. 
+ 
+b) Analiza si no considerar el empuje del aire sobre la gotita afecta o no, prácticamente, al 
+experimento. Utiliza como densidad relativa del aire: δaire = 0,0013 
+ 
+c) En realidad no se sabe cuántas cargas (electrones) pueden haber en la gotita (Millikan tuvo 
+desde muy pocas, dos o tres hasta cientos) por lo que será necesario regular el campo en un 
+amplio rango. ¿Cómo variará la intensidad del campo eléctrico necesario para que la esfera 
+permanezca en reposo entre las dos placas del condensador si tiene sólo un electrón y si tiene 
+doscientos 
+ 
+d) Las gotitas ya poseen la velocidad Terminal cuando ingresan al condensador. Millikan 
+observó que al someterlas al campo eléctrico unas ascendían, otras descendían y algunas 
+permanecían inmóviles suspendidas en el aire. Este comportamiento de las gotas dependía de 
+la carga que portaban. Se puede prescindir de conocer la masa de la gota midiendo las 
+velocidades terminales sin campo eléctrico y con campo eléctrico y combinando ambas 
+ecuaciones de equilibrio mecánico. Escribe la ecuación obtenida de esta forma y utilízala para 
+determinar la carga de una gota de diámetro 4.10-3 mm. Halla el número de electrones en 
+exceso sabiendo que la gota recorre 4mm en 16s en el primer caso y 4mm en 10,5s en el 
+segundo caso. La diferencia de potencial entre las placas separadas 2cm es 25800V. 
+ 
+e) Supongamos que una gota de 2,8x10 -14N adquiere una velocidad Terminal que es 3/2 de la 
+velocidad que posee cuando se halla bajo la acción de la gravedad, ¿cuál será la fuerza 
+eléctrica que actúa sobre ésta si su desplazamiento es descendente?, ¿cuál será la fuerza 
+eléctrica si su desplazamiento es ascendente?. Si se duplica la distancia entre las placas sin 
+modificar el voltaje, ¿cómo varía la velocidad límite para cada caso (ascenso y descenso)?. 
+ 
+Datos: 
+e- = 1,6x10-19 C 
+Volumen de la esfera: 4/3 π r3
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p11_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Electrostatics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Electric Potential Method (metodo)|Electric Potential Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Droplet (object)|Droplet]], [[Capacitor (object)|Capacitor]], [[Electron (object)|Electron]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Medizione della carica dell'elettrone (Millikan) **
+
+PT15. Rosario, Santa Fe. Verde. 
+ 
+Misurazione della carica dell'elettrone. 
+Nel laboratorio di fisica dell'Istituto si decide di misurare la carica elettrica di gocce di olio
+utilizzando un montaggio simile a quello di A. R. Millikan tra il 1906 e il 1916 per determinare il carico 
+di un'elettrone (e- = 1,6x10-19 C). Numerosi studi (oltre 3000 misure hanno dimostrato che il carico di
+Le gocce di olio erano un intero multiple di una carica molto piccola, quella dell'elettrone. 
+Il dispositivo utilizzato consiste essenzialmente in un pulverizzatore che getta molto piccole gocce di
+olio, elettricamente caricato da frizione con il picco di esso, che cade in aria, tra le placche 
+di un condensatore, attraverso un orificio praticato nella placca superiore. Rapidamente queste gocce, che 
+Le dimensioni di un'area di velocità di raggiungimento di un punto di riferimento sono le dimensioni di una superficie di velocità di raggiungimento di un punto di riferimento.
+
+La frattura così originata è diretta.
+proporzionale alla velocità e riesce a bilanciare le forze che agiscono sulla goccia. 
+Applicazione di un campo elettrico uniforme tra le schede che agisce sulle cariche contenute nelle schede
+gocce che modificano la velocità. Quindi collegando e disattivando il campo elettrico è possibile che
+Una stessa goccia è misurata più volte sia la sua velocità terminale di caduta senza campo elettrico che 
+la sua velocità terminale con il campo elettrico. 
+ 
+ 
+ 
+Vi chiediamo di collaborare a alcuni calcoli pre-esistenti necessari per realizzare il design dell'equipaggio. 
+a) Si prevede che il diametro della goccia sia di 4 x 10-3 mm. La densità relativa dell'olio è di 0,8. 
+L'espressione di Stokes che permette di calcolare la forza di ruggine con l'aria è f = 6πηrv. 
+Il coefficiente di viscosità dell'aria è η = 1,8.10-5Nsm-2. Non consideriamo, in linea di principio, il
+spinta per via dell'aria. Calcola il valore della velocità limite quando la goccia cade per azione di 
+La gravità. 
+ 
+b) Analizzare se non considerare la pressione dell'aria sul goccio influisce praticamente sulla
+l'esperimento. Utilizza come densità relativa dell'aria: δaire = 0,0013 
+ 
+c) Non si sa in realtà quanti carichi (elettroni) possono essere nella goccia (Millikan ha avuto)
+La situazione è molto difficile, ma non è possibile che il campo sia regolato in modo da ridurre il numero di persone che non hanno un'attività di lavoro.
+- Un'ampia gamma. Come varia l'intensità del campo elettrico necessario per far sì che la sfera 
+rimane a riposo tra le due placche del condensatore se ha solo un elettrone e se ha 
+Duecento 
+ 
+d) Le gocce hanno già la velocità Terminal quando entrano nel condensatore. Millikan 
+osservò che sottoposto al campo elettrico, alcuni salivano, altri scendevano e altri.
+rimanevano immobili, sospesi in aria. Questo comportamento delle gocce dipendeva da 
+il carico che portavano. Si può disporre di una conoscenza della massa della goccia misurando le
+velocità terminali senza campo elettrico e con campo elettrico e combinando le due 
+Equazioni di equilibrio meccanico. Scrivi l'equazione ottenuta in questo modo e la usi per
+determinare il carico di una goccia di diametro 4,10-3 mm. Trova il numero di elettroni in 
+E' troppo sapendo che la goccia passa 4 mm da 16s nel primo caso e 4 mm da 10,5s nel secondo.
+- Secondo caso. La differenza di potenziale tra le schede separate di 2 cm è di 25800 V. 
+ 
+e) Supponiamo che una goccia di 2,8x10-14N acquista una velocità terminale che è 3/2 della velocità terminale.
+La velocità che possiede quando si trova sotto l'azione della gravità, qual sarà la forza 
+La forza di movimento è di tipo di scalo.
+elettrica se il suo spostamento è ascendente. Se si raddoppia la distanza tra le schede senza 
+modificare la tensione, come varia la velocità limite per ogni caso (ascesa e discesa)?. 
+ 
+Datati: 
+e- = 1,6x10-19 C 
+Volume della sfera: 4/3 π r3
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p11_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Electrostatics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Electric Potential Method (metodo)|Electric Potential Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Droplet (object)|Droplet]], [[Capacitor (object)|Capacitor]], [[Electron (object)|Electron]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The measurement of the electron charge (Millikan)
+
+PT15. Rosario, Santa Fe. Green, please. 
+ 
+Measurement of the electron charge. 
+In the Institute 's physics lab , it is decided to measure the electrical charge of oil droplets .
+using a similar assembly to that used by A. R. Millikan between 1906 and 1916 to determine the load 
+The electron (e- = 1,6x10-19 C). Numerous trials (more than 3000 measurements showed that the load
+The oil droplets were an entire multiple of a tiny charge, the electron. 
+The device used is essentially a sprayer that throws very small droplets of water into the air.
+oil, electrically charged by friction at the peak of the oil, falling into the air between the plates 
+of a condenser, through a hole in the upper plate. Quickly these drops, that 
+They can be considered fully spherical, acquiring a constant terminal velocity (speed 
+
+The friction thus originated is directly
+proportional to the speed and manages to balance the forces acting on the droplet. 
+A uniform electric field is applied between the plates acting on the loads contained in the plates.
+drops by changing their speed. So by connecting and disconnecting the electric field it is possible that
+The same drop is measured several times as much as its terminal velocity of fall without an electric field as 
+Your terminal speed with the electric field. 
+ 
+ 
+ 
+We ask you to collaborate on some preliminary calculations necessary to carry out the design of the equipment. 
+(a) The diameter of the drop is expected to be 4 x 10-3 mm. The relative density of the oil is 0.8. 
+The Stokes expression for calculating the force of friction with air is f = 6πηrv. 
+The viscosity coefficient of air is η = 1,8.10-5Nsm-2. We will not consider, in principle, the
+I'm pushing because of the air. Calculate the limit velocity value when the drop falls per action of 
+The gravity. 
+ 
+(b) It analyses whether or not the air pressure on the drop is not taken into account in practice.
+I'm going to try it. It uses as the relative density of air: δair = 0,0013 
+ 
+c) It is not actually known how many charges (electrons) may be in the droplet (Millikan had 
+The number of people who have been in the field of education and training is very low, from very few, two or three to hundreds) so it will be necessary to regulate the field in a
+wide range. How will the intensity of the electric field required to make the sphere 
+It remains at rest between the two plates of the capacitor if it has only one electron and if it has 
+Two hundred .
+ 
+(d) The droplets already have the terminal speed when they enter the capacitor. Millikan 
+He observed that when they were subjected to the electric field, some went up, some went down, and some went down.
+They were still, suspended in the air. This droplets behaviour depended on 
+the load they carried. The mass of the droplet can be known without measuring the
+terminal speeds with no electric field and with electric field and a combination of both 
+Mechanical equilibrium equations. Write the equation obtained this way and use it to 
+determine the load of a drop of 4.10-3 mm diameter. Find the number of electrons in 
+Excessive knowing that the drop goes 4mm in 16s in the first case and 4mm in 10.5s in the second.
+Second case. The potential difference between the 2cm separate plates is 25800V. 
+ 
+e) Suppose a drop of 2.8x10-14N acquires a terminal velocity that is 3/2 of the
+The speed it has when it is under the action of gravity, what will be the force?
+If the displacement is downward, what is the force?
+electrical if its movement is upward. If the distance between the plates is doubled without
+the voltage change, how does the limit speed vary for each case (up and down)? 
+ 
+The data: 
+e- = 1,6x10-19 C 
+The following is the list of the relevant data sources:
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p11_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Electrostatics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Electric Potential Method (metodo)|Electric Potential Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Droplet (object)|Droplet]], [[Capacitor (object)|Capacitor]], [[Electron (object)|Electron]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q16" data-atom="q16" data-title="Argent 2004 Locale — Quesito 16" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/ball"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Basquet**
+
+PT16. Ciudad de Buenos Aires. Verde. 
+ 
+Básquet. 
+Es la final de la disciplina básquet en Atenas 2004 entre Argentina Y EEUU.. 
+Al comienzo el arbitro, en el medio de la cancha, tira la pelota hacia arriba y dos jugadores (uno de 
+cada equipo) se disputan el balón. 
+Sabiendo que el arbitro suelta la pelota a una altura de 1,8m y a una velocidad de 7 m/s. 
+ 
+i) 
+¿Hasta que altura llega la pelota? 
+ii) 
+¿Cuánto tiempo tarda en llegar a la altura máxima?. 
+ 
+Por Argentina está el gran jugador Emanuel Ginobilli que tiene un alcance de 2,5m con la mano 
+levantada y es capaz de saltar 0,8m. 
+Sabiendo que según las reglas la pelota se puede tocar una ves que comienza a bajar. 
+ 
+iii) 
+¿Cuanto tiempo después de que el arbitro suelta la pelota debe saltar “Manu” 
+para llegar a la misma lo antes posible?. 
+ 
+El partido transcurre y en un determinado momento le hacen un falta a Manu a lo cual este debe 
+efectuar dos tiros desde la llave. 
+El aro se encuentra a 4,5m de distancia y 3m de altura. Emanuel suelta la pelota a una altura de 2m y 
+con una velocidad que forma un ángulo de 45 grados con la horizontal. 
+ 
+iv) 
+¿Cual debe ser la velocidad de la pelota para embocar? 
+ 
+Luego de los tiros repiten la infracción en cámara lenta. En la repetición se ve claramente la falta. 
+Emanuel (100 Kg) venía desde un contraataque por el medio de la cancha hacia el aro, salta para hacer 
+una volcada espectacular pero cuando su trayectoria llega al punto mas alto es embestido en el aire por 
+O’Neal (180 Kg) que venía con una velocidad horizontal perpendicular a la de Emanuel y ambos caen 
+parados agarrados uno al otro . 
+Sabiendo que la velocidad de ambos jugadores era 8 m/s y que chocan a una altura de 80 cm a 2m de 
+la línea de fondo. 
+ 
+v) 
+A que velocidad (modulo) salen ambos jugadores?. 
+ 
+vi) 
+Indique mediante un dibujo y medidas en que lugar de la cancha caen los 
+jugadores. 
+ 
+En el entretiempo una de las porristas arroja un apelota hacia arriba llegando a una altura de 8m. 
+Luego del pique la pelota vuelve a subir hasta los 7m. 
+Sabiendo que el porcentaje de energía que se pierde en cada pique está dado por una constante (ε). 
+Cumpliéndose: 
+ac
+dc
+E
+E
+ε
+=
+ 
+ 
+Donde Edc : Energía después del choque 
+ 
+ 
+ 
+ 
+ 
+ 
+    Eac : Energía antes del choque 
+ 
+vii) 
+Calcule cuantas veces debe picar la pelota para que la altura se reduzca 
+aproximadamente a la mitad. 
+ 
+Otra porrista está picando la pelota de masa 2 Kg a una altura de 1,5m lo mas lento posible, es decir 
+que la pelota llega a su mano con velocidad nula. 
+ 
+viii) 
+Calcule la potencia media que la porrista le está entregando a la pelota. 
+ 
+
+En un determinado momento una pelota cae por uno de los pasillos de las tribunas que tiene una 
+inclinación de 30º. 
+Sabiendo que la pelota tiene 25 cm de diámetro y que rueda sin deslizar. 
+ 
+ix) 
+Calcule la aceleración del centro de masa de la  pelota 
+x) 
+Calcule el coeficiente de rozamiento estático mínimo que debe haber para que no 
+resbale. 
+ 
+Ayuda: El momento de inercia de un casquete esférico homogéneo respecto del centro de masa se 
+calcula como. 
+2
+3
+2 Mr
+ICM =
+ 
+Donde M es la masa total y r el radio 
+ 
+Datos: 
+2
+8,9
+s
+m
+g =
+
+**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Ball (object)|Ball]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Basquet**
+
+PT16. Città di Buenos Aires. Verde. 
+ 
+- Basquet. - Cosa? 
+E' la finale della disciplina di basket ad Atene 2004 tra Argentina e USA. 
+All'inizio l'arbitro, in mezzo al campo, tira la palla verso l'alto e due giocatori (uno di 
+ogni squadra) si disputeranno il pallone. 
+Sapendo che l'arbitro lascia la palla a un'altezza di 1,8m e a una velocità di 7m/s. 
+ 
+i) 
+Quanto alto arriva la palla? 
+ii) 
+Quanto tempo ci vuole per raggiungere la massima altezza? 
+ 
+Per l'Argentina c'è il grande giocatore Emanuel Ginobilli che ha una portata di 2,5m con la mano 
+E' in grado di saltare 0,8 metri. 
+Sapendo che secondo le regole, la palla può essere toccata quando la vespa inizia a scendere. 
+ 
+(iii) 
+Quanto tempo dopo che l'arbitro lascia il pallone deve saltare?
+per arrivare al massimo. 
+ 
+Il partito è finito e a un certo punto Manù è stato mancato , il che è dovuto .
+effettuare due colpi dalla chiave. 
+L'anello si trova a 4,5 metri di distanza e 3 metri di altezza. Emanuel lascia il pallone ad un'altezza di 2 metri e...
+con una velocità che forma un angolo di 45 gradi con l'orizzontale. 
+ 
+iv) 
+Qual è la velocità della palla per lanciare? 
+ 
+Dopo i colpi, ripetono l'infrazione in camera lenta. La ripetizione mostra chiaramente la mancanza. 
+Emanuel (100 Kg) veniva da un contrattacco attraverso il mezzo del campo verso l'arco, salta per fare
+Un colpo di terra spettacolare , ma quando il suo percorso arriva al punto più alto , viene colpito in aria da
+O'Neal (180 Kg) che veniva con una velocità orizzontale perpendicolare a quella di Emanuel e entrambi cadono
+- Fermi , stretti l' uno all' altro . 
+Sapendo che la velocità di entrambi i giocatori era di 8 m/s e che si scontrano ad un'altezza di 80 cm a 2 m di
+la linea di fondo. 
+ 
+v) 
+A che velocità (modulo) usciano entrambi i giocatori? 
+ 
+vi) 
+Indicare con un disegno e misure in cui cadono i punti della cancia
+giocatori. 
+ 
+Nel frattempo una delle giocatrici lancia un appello verso l'alto raggiungendo un'altezza di 8 metri. 
+Dopo il colpo la palla torna a salire fino a 7 metri. 
+Sapendo che la percentuale di energia persa in ogni picco è data da una costante (ε). 
+In conformità: 
+ac
+dc
+E
+E
+ε
+=
+ 
+ 
+Dove Edc: energia dopo lo scontro
+ 
+ 
+ 
+ 
+ 
+ 
+Eac: Energia prima dello scontro 
+ 
+(vii) 
+Calcola quante volte devi picchiare la palla per ridurre la altezza
+circa la metà. 
+ 
+Un altro porticciatore sta picchiando la palla di massa 2 kg ad un'altezza di 1,5 metri il più lento possibile, cioè
+che la palla arrivi in mano a zero velocità. 
+ 
+(viii) 
+Calcola la potenza media che il battista sta dando alla palla. 
+ 
+
+A un certo punto una palla cade per uno dei corridoi dei tribunali che ha un
+inclinamento di 30 gradi. 
+Sapendo che la palla ha un diametro di 25 cm e ruota senza scivolare. 
+ 
+ix) 
+Calcola l' acceleramento del centro di massa della palla
+x) 
+Calcolare il coefficiente di rottura statica minimo che deve essere necessario per non
+- Scaglialo. 
+ 
+Aiuto: il momento di inerzia di un casco sfero omogeneo rispetto al centro di massa si
+Calcola come. 
+2
+3
+2 Mr
+I.C.M. =
+ 
+Dove M è la massa totale e r il radio
+ 
+Datati: 
+2
+8,9
+s
+m
+g =
+
+**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Ball (object)|Ball]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following table shows the results of the tests:
+
+PT16. City of Buenos Aires. Green, please. 
+ 
+Basketball is a game. 
+It's the final of the basketball discipline in Athens 2004 between Argentina and the US. 
+At the beginning the referee, in the middle of the court, throws the ball up and two players (one of 
+Each team) will fight the ball. 
+Knowing that the referee releases the ball at a height of 1.8m and at a speed of 7m/s. 
+ 
+i) 
+How high does the ball get? 
+ii) 
+How long does it take to reach the maximum height? 
+ 
+For Argentina is the great player Emanuel Ginobilli who has a range of 2.5m with his hand 
+It's lifted and it's capable of jumping 0.8m. 
+Knowing that according to the rules, you can hit a ball when it starts to go down. 
+ 
+(iii) 
+How long after the referee releases the ball must it jump Manu 
+to get to it as soon as possible. 
+ 
+The game is over and at some point they miss Manu which he owes .
+Take two shots from the key. 
+The ring is 4.5m away and 3m high. Emanuel releases the ball to a height of 2 meters and 
+with a velocity that forms a 45-degree angle to the horizontal. 
+ 
+iv) 
+What's the speed of the ball to hit? 
+ 
+Then the shots repeat the slow-motion infringement. The repetition shows the lack clearly. 
+Emanuel (100 Kg) was coming from a counterattack through the middle of the court towards the ring, jump to do
+A spectacular overturn but when its trajectory reaches its highest point it is blown up by
+O'Neal (180 kg) coming at a horizontal speed perpendicular to Emanuel's and both falling.
+Standing together , holding on to each other . 
+Knowing that the speed of both players was 8 m/s and that they collided at a height of 80 cm to 2 m from 
+The bottom line. 
+ 
+v) 
+How fast (module) do both players go? 
+ 
+vi) 
+Draw and measure the place where the pitch falls.
+players. 
+ 
+Meanwhile, one of the punters throws a bell upwards reaching a height of 8m. 
+After the punch the ball goes up to 7m again. 
+Knowing that the percentage of energy lost in each peak is given by a constant (ε). 
+The following conditions shall apply: 
+ac
+dc
+E
+E
+ε
+=
+ 
+ 
+Where Edc: Energy after the crash
+ 
+ 
+ 
+ 
+ 
+ 
+Eac: Energy before the crash 
+ 
+(vii) 
+Calculate how many times you have to hit the ball to reduce the height.
+about half. 
+ 
+Another runner is chopping the 2 kg ball at a height of 1.5m as slowly as possible, that is 
+The ball reaches his hand at zero speed. 
+ 
+(viii) 
+Calculate the average power the goalkeeper is delivering to the ball. 
+ 
+
+At a certain point a ball falls through one of the hallways of the stands that has a
+slope of 30°. 
+Knowing the ball is 25 cm in diameter and that it's rolling without slipping. 
+ 
+ix) 
+Calculate the acceleration of the center of mass of the ball 
+x) 
+Calculate the minimum static friction coefficient that must be there to prevent it from happening.
+I got it. 
+ 
+Help: The moment of inertia of a homogeneous spherical cap relative to the centre of mass is
+Calculate how. 
+2
+3
+2 Mr
+The following is the list of the countries of the European Union:
+ 
+Where M is the total mass and r is the radius 
+ 
+The data: 
+2
+8,9
+s
+m
+g =
+
+**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Ball (object)|Ball]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q17" data-atom="q17" data-title="Argent 2004 Locale — Quesito 17" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/5,multidisciplina/multi,object/tank-container,object/wire"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Natacion**
+
+PT17. Ciudad de Buenos Aires. Verde. 
+ 
+Natación. 
+La pileta olímpica tiene 50m de largo 25m de ancho y 2m de profundidad. 
+ 
+i) 
+Calcule la masa de agua que hay en la pileta. 
+ 
+Los andaribeles (carriles para los nadadores) están separados por unas pelotitas de 10 cm de diámetro 
+agarradas unas con otras por una soga de masa despreciable. 
+ 
+ii) 
+Calcule la masa que deben tener la pelotitas para que se sumerjan hasta la mitad. 
+ 
+El agua de la pileta debe estar a una temperatura de 27 ºC. Para llenarla se dispone de agua fría (15ºc) 
+y agua caliente (50ºC). Suponiendo que la pileta es un calorímetro perfecto. 
+ 
+iii) 
+Calcule cuanto litros de cada agua hay que poner para llenar la pileta. 
+ 
+Una ves que la pileta está llena se puede suponer que solo intercambia calor en la superficie del agua. 
+La potencia por unidad de área que fluye desde la pileta de puede escribir como. 
+ 
+(
+)
+ambiente
+agua
+c
+T
+T
+k
+J
+−
+=
+ 
+Donde: 
+2
+0
+57
+,0
+m
+C
+W
+kc =
+ es una constante. 
+ Tagua: La temperatura del agua de la pileta 
+ Tambiente: La temperatura en el interior del estadio. 
+ 
+Sabiendo que para mantener la temperatura del agua el sistema de calefacción está entregando una 
+potencia constante de 5 Kwatt. 
+ 
+iv) 
+Calcule la temperatura en el estadio. 
+ 
+El estadio está cubierto por una techo y paredes en forma de medio cilindro como muestra la figura. 
+
+ 
+ 
+Tanto el techo como las paredes tienen un espesor de 10cm y están hechos de un material cuya 
+conductividad térmica es de
+C
+m
+W
+o
+01
+,0
+. 
+Suponiendo que la única fuente de calor en el estadio es la pileta y que el sistema está en estado 
+estacionario (temperaturas constantes). 
+ 
+v) 
+Calcule la temperatura exterior. 
+ 
+El sistema eléctrico tiene dos maneras de funcionar. La primera consta de sacar agua de la pileta y 
+cambiarla por agua caliente (50 ºC). 
+Suponiendo que el sistema está siempre en equilibrio termodinámico. 
+ 
+vi) 
+Cuantos litros de agua debe cambiar por minuto?. 
+ 
+La segunda opción es un alambre de cobre aislado de longitud 1000 m que recorre el suelo de la pileta 
+y cuyos extremos están conectados a la red de 220 V. 
+Suponiendo que el 90% de la potencia que disipa el cable va hacia la pileta. 
+ 
+vii) 
+Calcule la sección que debe tener el cable. 
+ 
+Luego de las competencias un nadador despistado cuyos ojos están a 1,8m de altura está parado en la 
+mitad del borde de largada buscando su gorra. 
+Justo en el centro de la pileta quedó una de las pelotitas que le está tapando la gorra al nadador. 
+ 
+viii) 
+Dibuje en que lugar del fondo esta la gorra. (suponga a la gorra y a la pelotita 
+como objetos puntuales). 
+ 
+Como no la puede encontrar el nadador se tira al agua y se ubica en el fondo contra la pared de largada 
+y mira hacia arriba examinando la superficie del agua. 
+ 
+ix) 
+Podrá ver la gorra desde ese punto?.(justifique) 
+x) 
+Dibuje en que lugar del estadio está la imagen de la gorra para el nadador. 
+ 
+Datos:  
+J
+cal
+18
+,4
+1
+=
+ 
+ Calor específico del Agua 
+C
+g
+cal
+C
+o
+agua
+1
+=
+ 
+ Resistividad del cobre: 
+m
+c
+⋅
+Ω
+⋅
+=
+−8
+10
+7,1
+ρ
+ 
+ Índice de refracción del agua: 
+33
+,1
+=
+a
+n
+ 
+ Volumen de una esfera 
+3
+3
+4 r
+V
+π
+=
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p14_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Thermodynamics]], [[Geometric Optics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Snell's Law (metodo)|Snell's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Tank/Container (object)|Tank/Container]], [[Wire (object)|Wire]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Natazione**
+
+PT17. Città di Buenos Aires. Verde. 
+ 
+Nuoto. 
+La pila olimpica ha 50 metri di lunghezza, 25 metri di larghezza e 2 metri di profondità. 
+ 
+i) 
+Calcola la massa d'acqua che c'è nella pila. 
+ 
+Le passerelle (corridoi per i nuotatori) sono separate da palle di 10 cm di diametro 
+Colpiti l'uno dall'altro da una corda di massa scarsa. 
+ 
+ii) 
+Calcola la massa che devono avere le palline per farli immergere fino alla metà. 
+ 
+L'acqua della pila deve essere a una temperatura di 27 oC. Per riempirla si dispone di acqua fredda (15 oC) 
+e acqua calda (50°C). Supponiamo che la pila sia un calometro perfetto. 
+ 
+(iii) 
+Calcola quanti litri di acqua ci vogliono per riempire la pila. 
+ 
+Una volta che si vede che la pila è piena si può supporre che scambi solo calore sulla superficie dell'acqua. 
+La potenza per unità di area che fluisce dal pile può essere scritta come. 
+ 
+(
+)
+ambiente
+acqua
+c
+T
+T
+k
+J
+−
+=
+ 
+Dove: 
+2
+0
+57
+,0
+m
+C
+W
+kc =
+è una costante. 
+Tagua: temperatura dell'acqua della pila 
+Ambiente: temperatura all'interno dello stadio. 
+ 
+Sapendo che per mantenere la temperatura dell'acqua il sistema di riscaldamento sta fornendo una
+potenza costante di 5 kwatt. 
+ 
+iv) 
+Calcola la temperatura nello stadio. 
+ 
+Lo stadio è coperto da un tetto e da pareti in forma di mezzo cilindro come mostra la figura. 
+
+ 
+ 
+Sia il tetto che le pareti hanno uno spessore di 10 cm e sono fatte di un materiale di cui
+La conducibilità termico è di
+C
+m
+W
+o
+01
+,0
+. 
+Supponiamo che l'unica fonte di calore nello stadio sia la pila e che il sistema sia in stato di funzionamento.
+stazionario (temperature costanti). 
+ 
+v) 
+Calcola la temperatura esterna. 
+ 
+Il sistema elettrico ha due modi di funzionare. La prima consiste nel togliere l'acqua dalla pila e
+sostituirla con acqua calda (50 oC). 
+Supponendo che il sistema sia sempre in equilibrio termodinamico. 
+ 
+vi) 
+Quanti litri d'acqua si devono cambiare al minuto? 
+ 
+La seconda opzione è un filo di rame isolato di 1000 m di lunghezza che attraversa il pavimento della pila 
+e le cui estremità sono collegate alla rete di 220 V. 
+Supponiamo che il 90% della potenza che il cavo dissipa vada verso la pila. 
+ 
+(vii) 
+Calcola la sezione che il cavo deve avere. 
+ 
+Dopo le competizioni un nuotatore sgarbo che ha gli occhi a 1,8 metri di altezza è in piedi sulla pista.
+Mezzo del bordo di partenza, cercando il suo cappello. 
+Proprio nel centro della pila c'è una delle palline che sta coprendo il cappello del nuotatore. 
+ 
+(viii) 
+Disegna in che parte del fondo si trova il cappello. (supponiamo il cappello e la palla)
+come oggetti puntuali). 
+ 
+Non riuscendo a trovarla il nuotatore si lancia nell'acqua e si trova in fondo contro il muro di larghezza
+e guarda in alto, esaminando la superficie dell'acqua. 
+ 
+ix) 
+Potrà vedere il cappello da quel punto?
+x) 
+Disegna in che parte dello stadio si trova l'immagine del cappello per il nuotatore. 
+ 
+Datati: 
+J
+cal
+18
+,4
+1
+=
+ 
+Calore specifico dell'acqua 
+C
+g
+cal
+C
+o
+acqua
+1
+=
+ 
+Resistenza del rame: 
+m
+c
+⋅
+Ω
+⋅
+=
+−8
+10
+7,1
+ρ
+ 
+Indice di refraczione dell'acqua: 
+33
+,1
+=
+a
+n
+ 
+Volume di una sfera 
+3
+3
+4 r
+V
+π
+=
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p14_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Thermodynamics]], [[Geometric Optics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Snell's Law (metodo)|Snell's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Tank/Container (object)|Tank/Container]], [[Wire (object)|Wire]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following information is provided for in the Annex to Implementing Regulation (EU) No 575/2013:
+
+PT17. City of Buenos Aires. Green, please. 
+ 
+Swimming. 
+The Olympic pool is 50m long, 25m wide and 2m deep. 
+ 
+i) 
+Calculate the mass of water in the pile. 
+ 
+The walkers (swimming lanes) are separated by 10 cm diameter balls 
+clinging to one another by a scornful rope. 
+ 
+ii) 
+Calculate the mass the balls must have to dive in half. 
+ 
+The water in the pile must be at a temperature of 27 oC. To fill it, cold water is available.
+and hot water (50°C). Assuming the pile is a perfect calorimeter. 
+ 
+(iii) 
+Calculate how many liters of each water you have to put in to fill the pile. 
+ 
+Once you see the pile is full you can assume that it only exchanges heat on the surface of the water. 
+The power per unit area flowing from the pile of can write as. 
+ 
+(
+)
+environment
+water
+c
+T
+T
+k
+J
+−
+=
+ 
+Where: 
+2
+0
+57
+,0
+m
+C
+W
+kc =
+It's a constant. 
+Tagua: The temperature of the water in the pile 
+Environment: The temperature inside the stadium. 
+ 
+Knowing that to keep the water temperature the heating system is delivering a
+Power is 5 kW. 
+ 
+iv) 
+Calculate the temperature in the stadium. 
+ 
+The stadium is covered by a half-cylinder roof and walls as shown in the figure. 
+
+ 
+ 
+Both the ceiling and the walls are 10cm thick and made of a material whose
+The thermal conductivity is of
+C
+m
+W
+o
+01
+,0
+. 
+Assuming the only source of heat in the stadium is the stack and the system is in good condition.
+The following is the list of the types of fuel used: 
+ 
+v) 
+Calculate the outside temperature. 
+ 
+The electrical system has two ways of working. The first is to draw water from the pile and
+change it to hot water (50 oC). 
+Assuming the system is always in thermodynamic equilibrium. 
+ 
+vi) 
+How many liters of water should you change per minute? 
+ 
+The second option is an isolated copper wire 1000 m long that runs along the pile floor.
+and whose ends are connected to the 220 V grid. 
+Assuming 90% of the power that dissipates the cable goes to the pile. 
+ 
+(vii) 
+Calculate the section the cable should have. 
+ 
+After the competition a misguided swimmer whose eyes are at 1.8m tall stands on the
+Halfway to the finish line looking for his hat. 
+Right in the center of the pile was one of the little balls that is covering the swimmer's cap. 
+ 
+(viii) 
+Draw where the cap is at the bottom. (assuming the hat and the ball)
+as pointed objects). 
+ 
+Since he can 't find it , the swimmer jumps into the water and sits at the bottom against the wall .
+And look up, looking at the surface of the water. 
+ 
+ix) 
+Can you see the hat from that point?
+x) 
+Draw a picture of the swimmer's hat in which place of the stadium. 
+ 
+The data: 
+J
+Cal
+18
+,4
+1
+=
+ 
+Specific water heat 
+C
+g
+Cal
+C
+o
+water
+1
+=
+ 
+Resistivity of copper: 
+m
+c
+⋅
+Ω
+⋅
+=
+−8
+10
+7,1
+ρ
+ 
+Water refractive index: 
+33
+,1
+=
+a
+n
+ 
+Volume of a sphere 
+3
+3
+4 r
+V
+π
+=
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p14_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Thermodynamics]], [[Geometric Optics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Snell's Law (metodo)|Snell's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Tank/Container (object)|Tank/Container]], [[Wire (object)|Wire]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q18" data-atom="q18" data-title="Argent 2004 Locale — Quesito 18" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/rope-string,object/spring,object/beam"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Gimnasia**
+
+PT18. Ciudad de Buenos Aires. Verde. 
+ 
+Gimnasia. 
+En la prueba de aros un gimnasta de masa (80 kg) está colgado como muestra la figura. 
+ 
+i) 
+Calcule la tensión de cada cuerda. 
+ 
+Luego el gimnasta hace una de las pruebas de fuerza llamada “El cristo” en la cual se 
+cuelga con los brazos en posición horizontal como muestra la figura. 
+Donde el ángulo que forman cada soga con la vertical es de 20º. 
+ 
+ii) 
+Calcule la tensión de cada cuerda en ese caso. 
+ 
+En el prueba de equilibrio las gimnastas deben hacer piruetas sobre una viga que tiene 
+4 m de largo y peso 30 Kg que está apoyada en sus extremos sobre dos patas. 
+Una gimnasta de 55 Kg está parada a 1m de uno de los extremos. 
+ 
+iii) 
+Calcule la fuerza que hace cada pata. 
+ 
+Para la prueba de salto se utiliza una plataforma de masa despreciable con cuatro resortes como 
+muestra la figura. 
+ 
+ 
+Una gimnasta de 60 Kg. se para en el centro de la plataforma. Si cada  resorte tiene una constante de 
+3000 N/m. 
+ 
+iv) 
+Cuanto se comprimirá cada resorte?. 
+ 
+Luego para probar la plataforma la gimnasta salta sobre el centro desde 40 cm de altura. 
+ 
+v) 
+Cuanto se llegan a comprimir los resortes?. 
+ 
+En la prueba de la barra un gimnasta de 1,8 m y que peso 80 Kg. se encuentra en 
+vertical sobre la barra hasta que se deja caer manteniéndose estirado como indica la 
+figura. 
+Suponiendo que no existe rozamiento entre las manos del gimnasta y la barra y además 
+considerando, en una primera aproximación, al gimnasta como una barra homogénea. 
+ 
+vi) 
+Calcule cual será la velocidad angular en el punto mas bajo 
+ 
+Ayuda: El momento de inercia de una barra homogénea respecto de uno de sus extremos es:  
+2
+3
+1 ML
+Ie =
+ 
+Y respecto del centro de masa es: 
+2
+12
+1 ML
+I e =
+ 
+Donde M la masa total y L el largo. 
+ 
+ 
+vii) 
+Calcule la fuerza que hacen los brazos en ese punto. 
+ 
+Justo en el punto mas bajo el gimnasta levanta las piernas hasta ponerlas a la altura de sus manos. 
+ 
+
+viii) 
+Calcule la velocidad angular luego de levantar las piernas. 
+ 
+Ayuda: Busque algún punto donde pueda usar la conservación del momento angular 
+ 
+Datos: 
+2
+8,9
+s
+m
+g =
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p15_f1.png]]
+![[cuadernillo_2004_p15_f2.png]]
+<!--fig:end-->
+
+**Topic:** [[Rigid Body Statics]], [[Rotational Dynamics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Hooke's Law (metodo)|Hooke's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]], [[Beam (object)|Beam]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Gimnasia**
+
+PT18. Città di Buenos Aires. Verde. 
+ 
+- La scuola. 
+Nella prova di aringhe un ginnasta di massa (80 kg) è appeso come mostra la figura. 
+ 
+i) 
+Calcola la tensione di ogni corda. 
+ 
+Poi il ginnasta fa uno dei test di forza chiamato "Il Cristo" in cui si
+appesa con le braccia in posizione orizzontale come mostra la figura. 
+L'angolo che formano ogni corda con la verticale è di 20°. 
+ 
+ii) 
+Calcola la tensione di ogni corda in quel caso. 
+ 
+Nel test di equilibrio le ginnaste devono fare piruette su un vigno che ha
+4 m di lunghezza e peso 30 Kg che è appoggiata alle estremità su due zampe. 
+Una ginnasta di 55 kg è in piedi a un metro da uno degli estremi. 
+ 
+(iii) 
+Calcola la forza di ogni gamba. 
+ 
+Per la prova di salto si utilizza una piattaforma di massa sconsiderata con quattro sorgenti come 
+mostra la figura. 
+ 
+ 
+Una ginnasta di 60 kg. si ferma al centro della piattaforma. Se ogni primavera ha una costante di 
+3000 N/m. 
+ 
+iv) 
+Quanto si comprimeranno ogni primavera? 
+ 
+Poi, per provare la piattaforma, la ginnasta salta sul centro da 40 cm di altezza. 
+ 
+v) 
+Quanto si comprimono le sorgenti? 
+ 
+Nella prova della barra un ginnasta di 1,8 m e che pesa 80 Kg. si trova in 
+Verticale sulla barra fino a quando si lascia cadere mantenendo il tenore come indicato dalla
+- Figura. 
+Supponiamo che non ci sia un'arrestazione tra le mani del ginnasta e la barra e poi
+Considerando, in un primo approccio, il ginnasta come una barra omogenea. 
+ 
+vi) 
+Calcola quale sarà la velocità angolare al punto più basso 
+ 
+Aiuto: Il momento di inerzia di una barra omogenea rispetto a una delle sue estremità è: 
+2
+3
+1 ML
+Ie =
+ 
+E per quanto riguarda il centro di massa è:
+2
+12
+1 ML
+I e =
+ 
+Dove M è la massa totale e L è la lunghezza. 
+ 
+ 
+(vii) 
+Calcola la forza che le braccia fanno a quel punto. 
+ 
+Proprio al punto più basso, il ginnasta alza le gambe fino a metterle al di sopra delle mani. 
+ 
+
+(viii) 
+Calcola la velocità angolare dopo aver sollevato le gambe. 
+ 
+Aiuto: Cerca un punto in cui puoi usare la conservazione del momento angolare 
+ 
+Datati: 
+2
+8,9
+s
+m
+g =
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p15_f1.png]]
+![[cuadernillo_2004_p15_f2.png]]
+<!--fig:end-->
+
+**Topic:** [[Rigid Body Statics]], [[Rotational Dynamics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Hooke's Law (metodo)|Hooke's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]], [[Beam (object)|Beam]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following table shows the results of the tests:
+
+PT18. City of Buenos Aires. Green, please. 
+ 
+- Gym. - What? 
+In the ring test a weighted gymnast (80 kg) is hung as shown in the figure. 
+ 
+i) 
+Calculate the tension of each string. 
+ 
+Then the gymnast does one of the strength tests called "The Christ" in which he
+hanging with the arms in a horizontal position as shown in the figure. 
+Where the angle that each rope forms with the vertical is 20 degrees. 
+ 
+ii) 
+Calculate the tension of each string in that case. 
+ 
+In the balance test gymnasts must do pyroets on a beam that has
+4 m long and weighing 30 kg, it is supported at its ends on two legs. 
+A 55-pound gymnast is standing one meter from one end. 
+ 
+(iii) 
+Calculate the force each leg makes. 
+ 
+For the jump test a despicable mass platform with four springs is used such as
+It shows the figure. 
+ 
+ 
+A 60kg gymnast. It stands in the center of the platform. If each spring has a constant of 
+3000 N/m. 
+ 
+iv) 
+How much will each spring be compressed? 
+ 
+Then to test the platform, the gymnast jumps over the center from 40 cm high. 
+ 
+v) 
+How much do the springs get compressed? 
+ 
+In the bar test a gymnast 1.8 m and weighing 80 kg. It is located in 
+vertical over the bar until dropped, holding the bar as indicated by the
+It's a figure. 
+Assuming there 's no friction between the gymnast 's hands and the bar and besides .
+Considering, in a first approach, the gymnast as a homogeneous bar. 
+ 
+vi) 
+Calculate the angular velocity at the lowest point.
+ 
+Help: The moment of inertia of a homogeneous bar relative to one of its ends is: 
+2
+3
+1 ML
+Ie =
+ 
+And with respect to the center of mass is: 
+2
+12
+1 ML
+I e =
+ 
+Where M is the total mass and L is the length. 
+ 
+ 
+(vii) 
+Calculate the force that the arms make at that point. 
+ 
+Right at the lowest point, the gymnast lifts his legs until they're at the height of his hands. 
+ 
+
+(viii) 
+Calculate the angular velocity after lifting your legs. 
+ 
+Help: Find a point where you can use angular momentum conservation 
+ 
+The data: 
+2
+8,9
+s
+m
+g =
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p15_f1.png]]
+![[cuadernillo_2004_p15_f2.png]]
+<!--fig:end-->
+
+**Topic:** [[Rigid Body Statics]], [[Rotational Dynamics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Hooke's Law (metodo)|Hooke's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]], [[Beam (object)|Beam]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q19" data-atom="q19" data-title="Argent 2004 Locale — Quesito 19" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/point-charge"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Transformando los campos**
+
+PT19. Ciudad de Buenos Aires. Verde. 
+ 
+Transformando los campos. 
+Un sistema de referencia inercial es aquel en el que un cuerpo libre de interacciones (fuerzas), se 
+mueve a velocidad constante. Resulta muy útil encontrar una serie de ecuaciones que relacionen las 
+magnitudes medidas en distintos sistemas. 
+Sean dos sistemas de referencia inerciales, 1 y 2 con una velocidad relativa 
+rel
+vv
+ como muestra la 
+figura 1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a. ¿Cuál es la relación entre 
+r
+r
+′v
+v,
+y 
+rel
+rv ? 
+Para encontrar una relación entre las velocidades y aceleraciones medidas en cada sistema, puede 
+postularse que el tiempo medido en cada sistema es el mismo. Este postulado es  válido para 
+velocidades involucradas mucho menores a la velocidad de la luz. Se obtienen así relaciones entre la 
+posición, velocidad y aceleración medidos en ambos sistemas, lo que se conoce como la transformada 
+de Galileo. 
+ 
+b. Asuma que t=t' y obtenga la transformada de Galileo. 
+Las leyes de Newton son solamente válidas en sistemas inerciales (e incluso también sólo para 
+velocidades mucho menores a la de la luz). 
+ 
+c. Suponga que sobre el cuerpo en estudio actúan algunas fuerzas, de modo que en cada sistema 
+se obtienen fuerzas netas. A partir de las leyes de Newton, de la relación entre las aceleraciones 
+encontradas en b y asumiendo que la masa en ambos sistemas es la misma, ¿Cómo deben ser las 
+fuerzas netas en cada sistema? 
+ 
+Una carga q en un campo eléctrico E
+v
+, sufre una fuerza eléctrica
+E
+q
+Fe
+v
+v
+⋅
+=
+; en un campo magnético 
+B
+v
+ siente una fuerza que depende de su velocidad, y es normal a esta y al campo; igual a  
+B
+v
+q
+Fm
+v
+v
+v
+×
+⋅
+=
+. En ambas fuerzas todas las magnitudes son referidas al sistema de referencia en 
+consideración. 
+ 
+d. En un dado sistema de referencia, existe un campo eléctrico constante en la dirección xˆ , un 
+campo magnético constante en la dirección zˆ  y una carga q que viaja a velocidad constante en 
+la dirección yˆ . ¿Cuál debe ser la relación entre los campos para que esto ocurra? 
+rv
+r′v
+rel
+rv
+Sistema 1 
+Sistema 2
+xˆ
+yˆ
+x′ˆ
+zˆ
+y′ˆ
+z′ˆ
+
+e. Si desaparece el campo eléctrico, ¿qué tipo de trayectoria describirá la carga?, ¿y si se apaga 
+el magnético? 
+ 
+La situación de la carga descripta en d, puede ser analizada utilizando como referencia un sistema fijo 
+a la carga (este sistema es inercial ya que la carga se desplaza a velocidad constante). 
+Experimentalmente se verifica que la cantidad de carga no depende del sistema de referencia utilizado, 
+o sea q=q’. 
+ 
+f. Compruebe que si los campos E
+v
+ y B
+v
+ no cambian en el nuevo sistema de referencia la 
+transformada de Galileo no es válida. 
+ 
+g. ¿Cuánto debe valer el campo eléctrico en el nuevo sistema de referencia E′v
+ para que se 
+cumpla la transformada de Galileo?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p16_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Electromagnetism]]
+**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Vector Decomposition (metodo)|Vector Decomposition]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Point Charge (object)|Point Charge]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Trasformando i campi**
+
+PT19. Città di Buenos Aires. Verde. 
+ 
+Trasformando i campi. 
+Un sistema di riferimento inerziale è quello in cui un corpo libero da interazioni (forze), si
+si muove a velocità costante. È molto utile trovare una serie di equazioni che collegano le
+le dimensioni misurate in diversi sistemi. 
+Se sono due sistemi di riferimento inerziali, 1 e 2 con velocità relativa 
+Rel
+vv
+Come mostra la
+Figura 1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a. Qual è la relazione tra 
+r
+r
+′v
+v,
+y 
+Rel
+rv ? 
+Per trovare un rapporto tra velocità e accelerazioni misurate in ogni sistema, si può 
+che il tempo misurato in ogni sistema sia lo stesso. Questo postulato è valido per 
+velocità coinvolte molto inferiori alla velocità della luce. Si ottengono così relazioni tra la
+La posizione, velocità e accelerazione misurate in entrambi i sistemi, che è conosciuta come la trasformata 
+di Galileo. 
+ 
+b. Supponiamo che t = t' e otteniamo la trasformata di Galileo. 
+Le leggi di Newton sono valide solo per sistemi inerziali (e anche solo per
+velocità molto inferiori a quelle della luce). 
+ 
+c. Supponiamo che sul corpo in studio agiscano alcune forze, in modo che in ogni sistema 
+si ottengono forze nette. Sulla base delle leggi di Newton, della relazione tra le accelerazioni.
+E se si assume che la massa in entrambi i sistemi sia la stessa, come dovrebbero essere le
+Forze nette in ogni sistema? 
+ 
+Una carica q in un campo elettrico E
+v
+, subisce una forza elettrica
+E
+q
+Fe
+v
+v
+⋅
+=
+In un campo magnetico
+B
+v
+sente una forza che dipende dalla sua velocità, ed è normale a questa e al campo; uguale a
+B
+v
+q
+Fm
+v
+v
+v
+×
+⋅
+=
+. In entrambe le forze tutte le magnitudini sono riferite al sistema di riferimento in 
+- La considerazione. 
+ 
+d. In un dato sistema di riferimento, esiste un campo elettrico costante nella direzione xˆ , un 
+campo magnetico costante nella direzione zˆ e una carica q che viaggia a velocità costante in 
+l' indirizzo e . Qual è la relazione tra i campi per questo? 
+rv
+r′v
+Rel
+rv
+Sistema 1 
+Sistema 2
+xˆ
+yˆ
+x′ˆ
+zˆ
+y′ˆ
+z′ˆ
+
+e. Se il campo elettrico scompare, che tipo di percorso descriverà la carica?
+Il magnetico? 
+ 
+La situazione della carica descritta in d può essere analizzata utilizzando un sistema fisso 
+a carico (questo sistema è inerziale poiché la carica si sposta a velocità costante). 
+Si verifica sperimentalmente che la quantità di carico non dipenda dal sistema di riferimento utilizzato, 
+che è q=q. 
+ 
+f. Verifica se i campi E
+v
+ y B
+v
+non cambiano nel nuovo sistema di riferimento 
+la trasformazione di Galileo non è valida. 
+ 
+g. Quanto deve valere il campo elettrico nel nuovo sistema di riferimento E′v
+Per farla
+- E' il caso di Galileo?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p16_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Electromagnetism]]
+**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Vector Decomposition (metodo)|Vector Decomposition]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Point Charge (object)|Point Charge]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following table summarizes the results of the calculations:
+
+PT19. City of Buenos Aires. Green, please. 
+ 
+Transforming the fields. 
+An inertial reference system is one in which a body free of interactions (forces), is
+It's moving at a constant speed. It is very useful to find a series of equations that relate the two
+The measurement of the magnitude of the measured quantities in different systems. 
+Two inertial reference systems, 1 and 2, with a relative speed 
+Other
+vv
+As shown by the 
+The following table shows the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a. What is the relationship between 
+r
+r
+′v
+v,
+y 
+Other
+rv ? 
+To find a relationship between the speeds and accelerations measured in each system, you can 
+The time measured in each system is the same. This claim is valid for 
+The speed involved is much lower than the speed of light. Relationships between the
+position, speed and acceleration measured in both systems, which is known as the transformed 
+It's from Galileo. 
+ 
+b. Assume t=t' and get the Galileo transform. 
+Newton's laws are only valid in inertial systems (and even only for
+(Visible speeds of light are much lower than those of light). 
+ 
+c. Suppose that some forces are acting on the body under study, so that in each system
+You get a net force. From Newton's laws, the relationship between accelerations.
+So if we're going to find the same mass in both systems, how should the two systems be?
+Net forces in each system? 
+ 
+A charge q in an electric field E
+v
+, suffers an electrical force
+E
+q
+Fe
+v
+v
+⋅
+=
+In a magnetic field .
+B
+v
+It feels a force that depends on its velocity, and it's normal to this and the field; equal to 
+B
+v
+q
+Fm
+v
+v
+v
+×
+⋅
+=
+. In both forces all magnitudes are referred to the reference system in 
+The Commission has already taken a number of measures. 
+ 
+d. In a given reference system, there is a constant electric field in the direction xˆ , a 
+a magnetic field constant in the direction zˆ and a charge q travelling at constant speed at 
+The address and . What must be the relationship between the fields for this to happen? 
+rv
+r′v
+Other
+rv
+System 1 
+System 2
+xˆ
+yˆ
+x′ˆ
+zˆ
+y′ˆ
+z′ˆ
+
+e. If the electric field goes away, what kind of path will the charge describe, and if it goes off?
+The magnet? 
+ 
+The load situation described in d can be analysed using a fixed system as a reference 
+to the load (this system is inertial as the load moves at a constant speed). 
+It is experimentally verified that the load quantity does not depend on the reference system used, 
+So that's q=q. 
+ 
+f. Check that if fields E
+v
+ y B
+v
+The new reference system does not change the 
+The Galileo transform is invalid. 
+ 
+g. What is the value of the electric field in the new reference system E′v
+So that you can 
+Does it meet the Galileo transform?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p16_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Electromagnetism]]
+**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Vector Decomposition (metodo)|Vector Decomposition]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Point Charge (object)|Point Charge]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q20" data-atom="q20" data-title="Argent 2004 Locale — Quesito 20" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/5,multidisciplina/mono,object/cart,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Carritos bajo la lluvia**
+
+PT20. Ciudad de Buenos Aires. Verde. 
+ 
+Carritos bajo la lluvia. 
+El carrito de la figura 1 tiene una masa de 50 kg, se encuentra bajo una lluvia vertical de 25 mm/h y 
+avanza, libre de toda fricción, con velocidad constante igual a 5 m/s bajo la acción de una fuerza F
+v
+ 
+aplicada como se indica en la mencionada figura. 
+ 
+a. Halle la masa de agua que junta el carrito por unidad de tiempo (en kg/h) y la fuerza F
+v
+ (en 
+N).  Para esto último, suponga despreciables los efectos de los choques entre las gotas de lluvia y 
+las paredes delantera y trasera del carrito. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Una vez que el carrito junta 10 kg de agua la fuerza F
+v
+ deja de actuar. En esta parte del trayecto los 
+efectos de la fricción continúan siendo despreciables. 
+ 
+b. Halle una expresión que indique cómo evoluciona la velocidad del carrito en el tiempo y 
+compruebe su resultado con la figura 2. 
+ 
+c. Halle una aproximación de la distancia recorrida por el carrito en los 1000 segundos 
+posteriores al instante en que deja de actuar la fuerza F
+v
+ (en m). 
+ 
+Figura 1. El carrito de las dimensiones 
+indicadas se desplaza bajo la lluvia con 
+velocidad constante impulsado por la fuerza F  
+
+4
+4,1
+4,2
+4,3
+4,4
+4,5
+4,6
+4,7
+4,8
+4,9
+5
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+t [s]
+v [m/s]
+ 
+ 
+Una vez cesada la lluvia el carrito, de ahora en más carrito 1, queda lleno de agua hasta el tope y es 
+conectado a un segundo carrito a través de una cañería de 1 m de largo equipada con una válvula 
+inicialmente cerrada, ubicada a media altura entre los lados de los carritos, ver figura 3. El carrito 2 
+tiene una masa de 35 kg, un largo de 1 m y las restantes dimensiones iguales a las del carrito 1. El 
+conjunto de los dos carritos se encuentra en reposo cuando se abre la válvula. 
+ 
+d. Halle qué distancia (en cm) y en qué sentido se desplazan los carritos desde que se abre la 
+válvula hasta que finaliza el flujo de agua. Desprecie la masa del conjunto cañería-válvula y del 
+agua allí contenida. La fricción es nuevamente despreciable. 
+ 
+                                                           
+ 
+ 
+Después del desplazamiento calculado en d) el centro de masa de los carritos queda en el centro de un 
+puente homogéneo, de 6 m de longitud y 2000 kg  de peso, apoyado por sus extremos.  
+ 
+e. Halle las reacciones ejercidas por los apoyos aplicados en los extremos del puente (en kg ). 
+Nuevamente, desprecie el peso del conjunto cañería-válvula y del agua allí contenida. 
+ 
+Suponga que el flujo de agua desde el carrito 1 hacia el carrito 2 mencionado en d) se produce estando 
+los carritos trabados. 
+ 
+f. Halle la velocidad con que desciende el nivel del agua del carrito 1 en el instante en que éste 
+tiene 700 kg de agua (en m/s). 
+ 
+ 
+Figura 2.  
+Evolución en 
+el tiempo de la 
+velocidad del 
+carrito cuando 
+la fuerza F 
+deja de actuar 
+Figura 3. El carrito 1, 
+lleno 
+de 
+agua, 
+es
+conectado a un segundo
+carrito a través de una
+cañería de 1 m de
+
+Datos:  
+• 
+Densidad del agua = 1000 
+3
+m
+kg  
+• 
+Aceleración de la gravedad = 9,8 
+2
+s
+m
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p17_f1.png]]
+![[cuadernillo_2004_p18_f2.png]]
+![[cuadernillo_2004_p18_f3.png]]
+<!--fig:end-->
+
+**Topic:** [[Conservation of Momentum]]
+**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Cart (object)|Cart]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Cari sotto la pioggia**
+
+PT20. Città di Buenos Aires. Verde. 
+ 
+Caddine sotto la pioggia. 
+Il carrello di figura 1 ha una massa di 50 kg, è sotto pioggia verticale di 25 mm/h e 
+avanzamento, senza frattura, con velocità costante pari a 5 m/s sotto l'azione di una forza F
+v
+ 
+applicato come indicato nella figura di cui sopra. 
+ 
+a. Trova la massa d'acqua che unisce il carrello per unità di tempo (in kg/h) e la forza F
+v
+ (en 
+N). Per l'ultimo, supponi scarsa l'effetto degli scontri tra le gocce di pioggia e
+le pareti anteriori e posteriori del carrello. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Una volta che il carrello ha raccolto 10 kg di acqua, la forza F
+v
+Smettila di agire. In questa parte del percorso i
+Gli effetti della friczione sono ancora scarsa. 
+ 
+b. Trova un'espressione che indichi come la velocità del carrello evolve nel tempo e
+verificare il risultato con la figura 2. 
+ 
+c. Trova un approccio della distanza percorsa dal carrello in 1000 secondi
+dopo l'istante in cui la forza F cessa di agire
+v
+ (en m). 
+ 
+Figura 1. Il carrello delle dimensioni 
+La pioggia si muove sotto la pioggia con 
+velocità costante spinta dalla forza F 
+
+4
+4,1
+4,2
+4,3
+4,4
+4,5
+4,6
+4,7
+4,8
+4,9
+5
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+t [s]
+v [m/s]
+ 
+ 
+Una volta che la pioggia cessa, il carrello, da ora in poi carrello 1, viene riempito di acqua fino al sommo e è 
+collegato a un secondo carrello attraverso un tubo di 1 m di lunghezza dotato di una valvola 
+inizialmente chiusa, a metà altezza tra i lati dei carrelli, vedere figura 3. Il carrello 2 
+ha una massa di 35 kg, una lunghezza di 1 m e le altre dimensioni sono uguali a quelle del carrello 1. El 
+il gruppo dei due carrelli è a riposo quando si apre la valvola. 
+ 
+d. Trova la distanza (in cm) e la direzione in cui i carrelli si spostano da quando si apre la porta.
+valvola fino a quando l'acqua non finisce. Sfruttare la massa del gruppo di tubi-valvo e del 
+acqua contenuta lì. La friczione è di nuovo sconsiderata. 
+ 
+                                                           
+ 
+ 
+Dopo il spostamento calcolato in d) il centro di massa dei carrelli rimane al centro di un
+ponte omogenea, lunga 6 m e di peso 2000 kg, sostenuta dalle sue estremità. 
+ 
+e. Trova le reazioni degli appoggi applicati alle estremità del ponte (in kg). 
+Ancora una volta, disprezza il peso del gruppo di canneria-valvola e dell'acqua contenuta. 
+ 
+Supponiamo che il flusso di acqua dal carrello 1 al carrello 2 di cui al punto d) si verifichi
+i carri bloccati. 
+ 
+f. Calcola la velocità con cui il livello dell'acqua scende dal carrello 1 nel momento in cui esso si abbassa.
+ha 700 kg di acqua (m/s). 
+ 
+ 
+Figura 2 
+Evoluzione in 
+Il tempo di 
+velocità del 
+Carro quando 
+la forza F 
+Smettila di agire.
+Figura 3 Il carrello 1, 
+pieno
+de 
+acqua,
+es
+collegato a un secondo
+Carro attraverso un
+1 m di canalizzazione
+
+Datati: 
+• 
+Densità dell'acqua = 1000 
+3
+m
+kg  
+• 
+Accelerazione della gravità = 9,8 
+2
+s
+m
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p17_f1.png]]
+![[cuadernillo_2004_p18_f2.png]]
+![[cuadernillo_2004_p18_f3.png]]
+<!--fig:end-->
+
+**Topic:** [[Conservation of Momentum]]
+**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Cart (object)|Cart]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Carriages in the rain**
+
+PT20. City of Buenos Aires. Green, please. 
+ 
+Carts in the rain. 
+The cart in Figure 1 has a mass of 50 kg, is under vertical rainfall of 25 mm/h and 
+forward, free of friction, with a constant speed equal to 5 m/s under the action of an F-force
+v
+ 
+applied as indicated in the figure above. 
+ 
+a. Find the mass of water joining the cart per unit of time (in kg/h) and force F
+v
+ (en 
+N). For the latter, it is despicable that the effects of the collisions between the rain drops and the
+the front and rear walls of the cart. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Once the cart pulls together 10 kg of water the force F
+v
+Stop acting. On this part of the journey the
+The effects of friction remain negligible. 
+ 
+b. Find an expression that indicates how the cart's speed evolves over time and
+Check your result with Figure 2. 
+ 
+c. Find an approximation of the distance travelled by the cart in 1000 seconds.
+after the moment when force F ceases to act
+v
+ (en m). 
+ 
+Figure 1 is shown. The size cart 
+The signals indicate that it moves under the rain with 
+constant speed driven by force F 
+
+4
+4,1
+4,2
+4,3
+4,4
+4,5
+4,6
+4,7
+4,8
+4,9
+5
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+t [s]
+v [m/s]
+ 
+ 
+Once the rain stops the cart, from now on in cart 1, it gets filled with water to the top and it's
+connected to a second cart through a 1 m long pipe fitted with a valve 
+initially closed, located at a mid-height between the sides of the carts, see Figure 3. The cart 2 
+It has a mass of 35 kg, a length of 1 m and the remaining dimensions are the same as those of cart 1. El 
+The joint of the two carriages is at rest when the valve is opened. 
+ 
+d. Find the distance (in cm) and direction of the carts since the opening of the carriage.
+valve until the water flow is complete. Disregard the mass of the plumbing-valve assembly and the
+water contained there. The friction is once again despicable. 
+ 
+                                                           
+ 
+ 
+After the displacement calculated in (d) the centre of mass of the carts remains at the centre of a
+a homogeneous bridge, 6 m long and 2000 kg in weight, supported by its ends. 
+ 
+e. Find the reactions of the supports applied at the ends of the bridge (in kg). 
+Again, disregard the weight of the plumbing-valve assembly and the water contained therein. 
+ 
+Suppose that the flow of water from cart 1 to cart 2 mentioned in d) occurs while 
+The trapped carts. 
+ 
+f. Find the rate at which the water level of cart 1 drops the instant it drops 
+It has 700 kg of water (in m/s). 
+ 
+ 
+Figure two. 
+The development of the
+The time of the 
+speed of the 
+Carriage when 
+force F 
+Stop acting .
+Figure 3 is shown. The cart one.
+Full of it .
+de 
+water, 
+es
+Connected to a second
+Carriage through a
+1 m pipe
+
+The data: 
+• 
+Density of water = 1000 
+3
+m
+kg  
+• 
+The acceleration of gravity is 9.8 
+2
+s
+m
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p17_f1.png]]
+![[cuadernillo_2004_p18_f2.png]]
+![[cuadernillo_2004_p18_f3.png]]
+<!--fig:end-->
+
+**Topic:** [[Conservation of Momentum]]
+**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Cart (object)|Cart]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q21" data-atom="q21" data-title="Argent 2004 Locale — Quesito 21" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/wave-optics,argomento/ottica,difficolta/5,multidisciplina/mono,object/prism,object/slit,object/lens"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Un problema iluminado con buena onda**
+
+PT21. Ciudad de Buenos Aires. Verde. 
+ 
+Un problema iluminado con buena onda. 
+Un generador eléctrico de corriente continua alimenta a un proyector de 10 lumen / Watt que concentra 
+toda la luz (blanca) en un círculo de 10 m de diámetro que se observa sobre la pared de un edificio. El 
+rendimiento del generador es del 78,5% y tiene una polea acoplada al eje de 10 cm de diámetro. La 
+diferencia entre las tensiones de las ramas de la correa es 50 N. 
+a. Un técnico mide, con un luxómetro, una iluminación de 10 lux en el centro del círculo 
+iluminado, ¿cuál es la velocidad angular del generador en rpm? 
+ 
+En el primer piso del edificio vive un estudiante de Física que, al 
+observar que por un pequeño orificio de la persiana ingresa un rayo de 
+luz perpendicular a la pared, decide emular a Newton con un prisma de 
+vidrio flint ligero figura 1, que utiliza como adorno pisa papeles en su 
+escritorio. 
+ 
+b. Utilizando el gráfico del índice de refracción n en función de la longitud de onda λ figura 2, 
+hallar la separación angular de la luz visible dispersada ∆δ (desviación del rayo violeta menos 
+desviación del rayo rojo), sabiendo que el ángulo en el vértice del prisma es de 60º y que la 
+normal al plano por el cual ingresa la luz, forma un ángulo de 50º con el rayo incidente (ver 
+figura). 
+ 
+c. Suponiendo que el índice de refracción del aire fuese n=1 y la velocidad de la luz c=3.108 m/s , 
+¿cuáles son los valores de frecuencia, velocidad de propagación y longitud de onda de los rayos 
+rojo y violeta dentro del prisma? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig 1. Prisma de vidrio Flint 
+i =50º 
+δr 
+δv 
+Luz blanca 
+incidente 
+normal 
+normal 
+α=60º 
+∆δ 
+
+ 
+ 
+Fig 2 Indice de refracción n en función de la longitud de onda λ 
+ 
+Entusiasmado por los resultados obtenidos, por haber logrado separar los colores del arco iris, el 
+futuro Licenciado en Física, intenta aislar un rayo de luz verde con la esperanza de comprobar el 
+comportamiento ondulatorio de la luz en su propio cuarto.  
+En primer lugar, toma el volumen II del libro de Física escrito por Serway que le habían regalado por 
+su paso por la OAF y repasa el tema de interferencia, anotando las condiciones para que se produzca: 
+ 
+• 
+Las fuentes deben ser coherentes, es decir, deben mantener una fase constante. 
+• 
+Las fuentes deben ser monocromáticas, es decir, de una sola longitud de onda. 
+• 
+Debe aplicarse el principio de superposición. 
+ 
+A partir de estas condiciones, suponga que un rayo de luz verde atraviesa una pequeña rendija de 
+modo que puede aislarse un rayo monocromático. A continuación, se coloca una lente convergente 
+para que, ubicada a la distancia focal de la rendija, permita que los rayos incidan paralelos  a la doble 
+rendija (esto se ve en la figura 3 como frentes de onda paralelos). 
+Si la separación D entre la pantalla donde se observa el patrón de interferencia y la doble ranura es 
+mucho mayor que la distancia entre esas rendijas d, podemos considerar que los rayos son paralelos y 
+que el ángulo θ es lo suficientemente pequeño como para considerar (aproximadamente)  sen θ = tg θ 
+ 
+d. Demostrar que se produce interferencia constructiva cuando d. sen θ = m λ  con m=0,1,2, ... 
+Y encontrar la expresión que relacione a y (la distancia del máximo enésimo al central) en 
+función de d, D, m y λ. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig 3. Esquema del experimento de doble rendija y patrón de intensidad obtenido. 
+ 
+Como la habitación del estudiante es pequeña, teme que la distancia D no fuese lo suficientemente 
+grande, por lo que coloca una lente convergente de 20 cm  de distancia focal delante de la pared que 
+utiliza como pantalla (Figura 4).  
+ 
+Con mucho esfuerzo consigue, mediante una hoja de afeitar, crear una doble rendija sobre un 
+papel grueso, cuya distancia de separación es d = 0,1 mm.  
+ 
+Si nuestro joven amigo mide, con un calibre, 
+la distancia entre el máximo central y el 
+primer máximo adyacente y obtiene 
+y=1,1mm , ¿con qué longitud de onda 
+realizó el experimento? 
+ 
+e.¿Qué podría sugerirle al muchacho para 
+que mejore la precisión en el cálculo de la 
+longitud de onda? 
+ 
+d. Finalmente, el estudiante cubre una de 
+las rendijas con una delgada hoja de mica 
+(n=1,58). Observa, entonces, que el 
+máximo central de la “pantalla” está 
+ocupado por lo que era la séptima franja 
+brillante, ¿cuál es el espesor de la mica? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig 4 A. Interferencia constructiva y 
+destructiva. B. Utilización de una lente 
+convergente y una pantalla en la distancia 
+focal de la misma.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p19_f1.png]]
+![[cuadernillo_2004_p20_f2.png]]
+![[cuadernillo_2004_p21_f3.png]]
+![[cuadernillo_2004_p21_f4.png]]
+<!--fig:end-->
+
+**Topic:** [[Wave Optics]], [[Geometric Optics]]
+**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Snell's Law (metodo)|Snell's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Prism (object)|Prism]], [[Slit (object)|Slit]], [[Lens (object)|Lens]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+Un problema illuminato con buona ondata
+
+PT21. Città di Buenos Aires. Verde. 
+ 
+Un problema illuminato con una buona onda. 
+Un generatore elettrico a corrente continua alimenta un proiettore di 10 lumen / watt che concentra
+la luce (blanca) in un cerchio di 10 m di diametro che si osserva sul muro di un edificio. El 
+la capacità del generatore è del 78,5% e ha una polea collegata all'asse di 10 cm di diametro. La 
+La differenza tra le tensioni dei rami della corda è di 50 N. 
+a. Un tecnico misura, con un lussometro, un'illuminazione di 10 lus nel centro del cerchio.
+illuminato, qual è la velocità angolare del generatore in rpm? 
+ 
+Al primo piano del palazzo vive uno studente di fisica che, al
+osservare che da un piccolo orizzonte della persiana entra un raggio di
+La luce perpendicolare al muro, decide di emulare Newton con un prisma di
+Figura 1, che utilizza come ornamento scorre i fogli in suo 
+- La scrivania. 
+ 
+b. Utilizzando il grafico dell'indice di refraczione n in funzione della lunghezza d'onda λ figura 2, 
+trovare la separazione angolare della luce visibile dispersa ∆δ (sviamento del raggio violato meno 
+(Scienza di avaria del raggio rosso), sapendo che l'angolo nella vertica del prisma è di 60° e che la
+normale al piano da cui entra la luce, forma un angolo di 50° con il raggio incidente (vedere 
+(Figura 1). 
+ 
+c. Supponendo che l'indice di refraczione dell'aria fosse n=1 e la velocità della luce c=3.108 m/s , 
+quali sono i valori di frequenza, velocità di diffusione e lunghezza d'onda dei raggi
+rosso e viola dentro il prisma? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 1. Prisma di vetro Flint 
+i =50º 
+δr 
+δv 
+Luce bianca
+Incidente
+Normalmente .
+Normalmente .
+α=60º 
+∆δ 
+
+ 
+ 
+Fig 2 Indice di rifrazione n in funzione della lunghezza d'onda λ 
+ 
+Entusiasmo per i risultati ottenuti, per aver saputo separare i colori dell'arcobaleno, il
+Laureato in fisica, cerca di isolare un raggio di luce verde nella speranza di verificare il
+il comportamento ondulatorio della luce nella propria stanza. 
+Primo, prende il volume II del libro di fisica scritto da Serway che gli erano stati regalati da
+il suo passaggio all'OAF e rileva il tema dell'interferenza, annotando le condizioni per la sua esistenza: 
+ 
+• 
+Le fonti devono essere coerenti, cioè devono mantenere una fase costante. 
+• 
+Le fonti devono essere monocromatiche, cioè di una singola lunghezza d'onda. 
+• 
+Il principio di sovrapposizione deve essere applicato. 
+ 
+A partire da queste condizioni, supponiamo che un raggio di luce verde attraversasse una piccola spazia di
+in modo che un raggio monocromatico possa essere isolato. Poi si inserisce un obiettivo convergente 
+che, situata a distanza focale dalla spazia, permetta ai raggi di colpire paralleli al doppio
+Scavo (questo è visto in figura 3 come fronte d'onda parallele). 
+Se la separazione D tra lo schermo dove si osserva il modello di interferenza e il doppio slot è 
+Molto più grande della distanza tra quelle spazi d, possiamo considerare che i raggi sono paralleli e
+che l'angolo θ sia sufficientemente piccolo da considerare (circa) sen θ = tg θ 
+ 
+d. Dimostrare che si verifica interferenza costruttiva quando d. sen θ = m λ con m=0,1,2, ... 
+E trovare l'espressione che si riferisce a y (la distanza dal massimo enesimo al centro) in 
+funzione di d, D, m e λ. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 3. Schema dell'esperimento a doppia fessura e modello di intensità ottenuto. 
+ 
+Poiché la stanza dello studente è piccola, teme che la distanza D non sia abbastanza.
+grande, quindi mette una lente convergente di 20 cm di distanza focale davanti al muro che 
+utilizza come schermo (Figura 4). 
+ 
+Con molto sforzo riesce, attraverso una foglia di rasoio, a creare una doppia spazia su un
+carta spessa, la cui distanza di separazione è d = 0,1 mm. 
+ 
+Se il nostro giovane amico misura, con un calibro,
+la distanza tra il massimo centrale e il 
+primo massimo adiacente e ottiene 
+e=1.1 mm, con quale lunghezza d'onda
+Ha fatto l'esperimento? 
+ 
+E. Cosa suggeriresti al ragazzo?
+che migliora la precisione nel calcolo della
+lunghezza d'onda? 
+ 
+d. Infine, lo studente copre una di 
+le spaccature con una sottile foglia di mica
+(n=1,58). Si noti, quindi, che il
+La massima massima centrale del screen è 
+occupato da quello che era la settima striscia 
+brillante, qual è lo spessore della mica? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 4A. Interferenza costruttiva e
+- E' distruttivo. B. Utilizzare un obiettivo 
+convergente e uno schermo a distanza 
+- Il suo focolare.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p19_f1.png]]
+![[cuadernillo_2004_p20_f2.png]]
+![[cuadernillo_2004_p21_f3.png]]
+![[cuadernillo_2004_p21_f4.png]]
+<!--fig:end-->
+
+**Topic:** [[Wave Optics]], [[Geometric Optics]]
+**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Snell's Law (metodo)|Snell's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Prism (object)|Prism]], [[Slit (object)|Slit]], [[Lens (object)|Lens]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**A problem with good lighting **
+
+PT21. City of Buenos Aires. Green, please. 
+ 
+A problem illuminated with a good wave. 
+A DC electric generator powers a 10 lumen/Watt projector that concentrates
+all the light (white) in a circle of 10 m in diameter that is seen on the wall of a building. El 
+The power output of the generator is 78,5% and it has a 10 cm diameter pulley attached to the axle. La 
+The difference between the straps of the straps is 50 N. 
+a. A technician uses a luxometer to measure a 10 lux lighting in the center of the circle.
+illuminated, what is the angular speed of the generator in rpm? 
+ 
+On the first floor of the building lives a physics student who, at the
+observe that through a small opening in the shutter a ray of lightning enters
+Perpendicular to the wall, he decides to emulate Newton with a prism of 
+Light flint glass figure 1, which uses as a paper tread ornament on its 
+The desk. 
+ 
+b. Using the refractive index n graph based on the wavelength λ figure 2, 
+Find the angular separation of the scattered visible light ∆δ (violet beam deviation minus 
+Red beam deviation), knowing that the angle at the vertex of the prism is 60° and that the
+Normal to the plane through which the light enters, form an angle of 50° with the incident beam (see 
+(Figure 1). 
+ 
+c. Assuming the refractive index of the air was n = 1 and the speed of light c = 3,108 m/s , 
+What are the frequency, propagation speed and wavelength values of the rays?
+Red and purple inside the prism? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 is shown below. Flint glass prism 
+i =50º 
+δr 
+δv 
+White light .
+The incident .
+- It 's normal .
+- It 's normal .
+α=60º 
+∆δ 
+
+ 
+ 
+Figure 2 Index of refraction n by wavelength λ 
+ 
+Enthusiastic about the results obtained, having succeeded in separating the colors of the rainbow, the
+Future graduate in physics, tries to isolate a green light beam in the hope of testing the
+The wavy behavior of light in its own room. 
+First, take Volume II of the physics book written by Serway that had been given to him by
+the time it takes to pass through the OAF and review the subject of interference, noting the conditions for it to occur: 
+ 
+• 
+The sources must be consistent, i.e. they must maintain a constant phase. 
+• 
+The sources must be monochrome, i.e. of a single wavelength. 
+• 
+The principle of overlap shall be applied. 
+ 
+From these conditions, suppose a ray of green light passes through a small cleft of 
+So that a monochrome beam can be isolated. Next, a convergent lens is placed 
+so that, located at the focal distance of the cleft, it allows the rays to strike parallel to the double
+The frequency of the waveforms is the frequency of the waveforms. 
+If the D-separation between the interference pattern displayed on the screen and the double-slot is 
+Much larger than the distance between those slits d, we can consider the rays to be parallel and
+where θ is small enough to consider (approximately) that sen θ = tg θ 
+ 
+d. Demonstrate that constructive interference occurs when d. where θ = m λ with m = 0,1,2, ... 
+And find the expression that relates to y (the distance from the maximum enzyme to the center) in 
+function of d, D, m and λ. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3 is shown below. Scheme of the double-slit experiment and intensity pattern obtained. 
+ 
+Since the student's room is small, he fears that distance D was not enough.
+So it's a large lens, so it's a 20 cm focal length convergent lens in front of the wall that
+It's used as a display (Figure 4). 
+ 
+With great effort, he manages, by means of a shaving sheet, to create a double crack on a
+thick paper, the separation distance of which is d = 0,1 mm. 
+ 
+If our young friend measures, with a caliber,
+the distance between the central maximum and the 
+First adjacent maximum and gets 
+and is equal to 1.1mm , what wavelength ?
+Did you run the experiment? 
+ 
+What would I suggest the boy do?
+The Commission will also be able to assess the impact of the measures on the environment.
+What's the wavelength? 
+ 
+d. Finally, the student covers one of 
+You cut the cracks with a thin sheet of mica.
+(n=1,58). Notice, then, that the
+The maximum central point of the screen is 
+occupied by what was the seventh strip .
+bright, what's the thickness of the mica? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4A. Constructive interference and
+It's destructive. B. Use of a lens 
+convergent and a display at a distance 
+The focal point of the same.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p19_f1.png]]
+![[cuadernillo_2004_p20_f2.png]]
+![[cuadernillo_2004_p21_f3.png]]
+![[cuadernillo_2004_p21_f4.png]]
+<!--fig:end-->
+
+**Topic:** [[Wave Optics]], [[Geometric Optics]]
+**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Snell's Law (metodo)|Snell's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Prism (object)|Prism]], [[Slit (object)|Slit]], [[Lens (object)|Lens]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q22" data-atom="q22" data-title="Argent 2004 Locale — Quesito 22" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/wheel"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Banda transportadora hacia el embudo**
+
+PT22. Mar del Plata, Buenos Aires. Azul. 
+ 
+En una industria se necesita depositar pequeñas piedras en un recipiente. Para ello se utiliza una banda 
+transportadora tal y como se indica en la figura.  
+ 
+ 
+ 
+Calcule:  
+a ) El tiempo que tardan las piedras en llegar al extremo superior del embudo. 
+b ) El rango de rapideces que debe tener la banda transportadora para que las piedras caigan en el 
+recipiente. 
+c )  La cantidad de vueltas por segundo del rodillo de radio r = 10 cm. 
+d ) Grafique el vector velocidad en el punto de la trayectoria, antes de ingresar al embudo, donde la 
+misma es máxima
+
+
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Wheel (object)|Wheel]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Bandetta di trasporto verso il funile**
+
+PT22. Mar del Plata, Buenos Aires. Blu. 
+ 
+In un'industria è necessario depositare piccole pietre in un contenitore. Per questo si utilizza una banda.
+trasportatore come indicato nella figura. 
+ 
+ 
+ 
+Calcola: 
+a) Il tempo impiegato per raggiungere l'estremità superiore del funile. 
+b) Il raggio di velocità che deve avere la banda trasportatrice per far cadere le pietre nel
+contenitore. 
+c) Il numero di giri al secondo del rotolo radio r = 10 cm. 
+d) Graficare il vettore di velocità al punto del percorso, prima di entrare nel funile, dove la velocità è
+- E' la massima
+
+
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Wheel (object)|Wheel]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Transporter band to the funnel**
+
+PT22. The city of Mar del Plata, Buenos Aires. Blue, please. 
+ 
+In an industry, small stones need to be deposited in a container. A band is used for this.
+the carrier as shown in the figure. 
+ 
+ 
+ 
+Calculate: 
+(a) The time it takes the stones to reach the top of the funnel. 
+(b) The range of velocities the conveyor belt must have in order for the stones to fall into the
+container. 
+c) The number of turns per second of the radius roller r = 10 cm. 
+d) Graph the velocity vector at the trajectory point before entering the funnel, where the 
+It 's the best .
+
+
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Wheel (object)|Wheel]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q23" data-atom="q23" data-title="Argent 2004 Locale — Quesito 23" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/multi,object/block,object/pendulum,object/inclined-plane"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Rampa, friccion y pendulo (MAS)**
+
+PT23. Mar del Plata, Buenos Aires. Azul. 
+ 
+Un cuerpo de masa m = 500 g se suelta desde una altura H a lo largo de una rampa sin rozamiento. El 
+ángulo que forma la rampa con la horizontal es de 30º, alcanzando en la parte inferior la masa una 
+velocidad de 4 m/s. Luego avanza una distancia d = 2,4 m, por una superficie con coeficiente de roce 
+igual a 0,05 hasta chocar y quedar adherida a otra masa m igual que se encuentra colgando de un 
+alambre de longitud l = 1 m, realizando entonces un movimiento armónico simple. 
+ 
+ 
+ 
+a ) ¿Cuánto vale la fuerza que el plano hace sobre la masa?  
+b ) Calcule la distancia s que recorre el bloque por el plano. 
+c ) Encuentre la velocidad de la masa sobre la superficie d un instante antes del choque. 
+d ) ¿Cuál es el período de oscilación del péndulo formado? 
+e ) Determine la aceleración centrípeta que posee el sistema de masas cuando oscila.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p22_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Conservation of Energy]], [[Oscillations & Waves]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Block (object)|Block]], [[Pendulum (object)|Pendulum]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Rampa, frizione e pendolo (MAS)**
+
+PT23. Mar del Plata, Buenos Aires. Blu. 
+ 
+Un corpo di massa m = 500 g si rilascia da un'altezza H lungo un ramp senza rottura. El 
+angolo che forma la rampa con la orizzontale è di 30°, raggiungendo in basso la massa una 
+velocità di 4 m/s. Poi si avanza una distanza d = 2,4 m, per una superficie con coefficiente di rottura 
+pari a 0,05 fino a quando non si colpisce e si attacca ad un'altra massa m pari a quanto si trova appeso a un 
+il filo di lunghezza l = 1 m, realizzando quindi un semplice movimento armonico. 
+ 
+ 
+ 
+a) Quanto vale la forza che il piano fa sulla massa? 
+b) Calcolare la distanza s che il blocco percorre sul piano. 
+c) Calcolare la velocità della massa sulla superficie d un istante prima del colpo. 
+d) Qual è il periodo di oscillazione del pendolo formato? 
+e) Determina l'accelerazione centripeta del sistema di massa quando oscilla.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p22_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Conservation of Energy]], [[Oscillations & Waves]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Block (object)|Block]], [[Pendulum (object)|Pendulum]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following conditions shall apply:
+
+PT23. The city of Mar del Plata, Buenos Aires. Blue, please. 
+ 
+A mass body m = 500 g is released from a height H along a ramp without friction. El 
+angle of the ramp with the horizontal is 30°, reaching at the bottom the mass a 
+speed of 4 m/s. Then a distance d = 2.4 m is advanced, by a surface with a coefficient of friction 
+equal to 0.05 until it collides and becomes attached to another mass m as it is hanging from a 
+The wire length l = 1 m, then performing a simple harmonic movement. 
+ 
+ 
+ 
+a) What is the force that the plane makes on the mass? 
+(b) Calculate the distance s travels through the block in the plane. 
+(c) Find the mass velocity over the surface d an instant before the impact. 
+d) What is the period of oscillation of the pendulum formed? 
+) Determine the centrifugal acceleration of the mass system when it oscillates.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p22_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Conservation of Energy]], [[Oscillations & Waves]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Block (object)|Block]], [[Pendulum (object)|Pendulum]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q24" data-atom="q24" data-title="Argent 2004 Locale — Quesito 24" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/multi,object/resistor"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Central hidroelectrica**
+
+PT24. Mar del Plata, Buenos Aires. Azul. 
+ 
+Un pequeño pueblo dispone de una pequeña central hidroeléctrica que funciona mediante la 
+conversión de energía mecánica en eléctrica, para ello se aprovecha un salto de agua de altura h = 20 
+m que provee 180.000 litros por hora. Se acciona un generador de corriente continua, que produce 
+energía eléctrica con una deferencia de potencial de 200 V. El rendimiento energético, η , de la 
+operación es del 60 %.  
+
+a ) Exprese el caudal en m3/s y calcule la masa de agua que cae por segundo. 
+b ) Determine la energía mecánica desarrollada por segundo y la potencia eléctrica generada. 
+c ) Calcule la intensidad de corriente que se obtiene. 
+d ) ¿Cuánta energía eléctrica produce por mes si funciona ininterrumpidamente? Exprésela en kW.h 
+ 
+En una casa se dispone de un conexionado de lámparas como el indicado que se conecta al generador 
+del pueblo. L1 es una lámpara de 200 V, 75 W; L2 y L3  son lámparas de 100 V, 75 W mientras que la 
+resistencia R1 es de 135 ohms. 
+ 
+ 
+ 
+e ) Calcule el valor de la resistencia R2 para que las lámparas L2 y L3  funcionen apropiadamente. 
+f ) ¿Cuál de las lámparas brillará más? ¿Por qué? 
+g ) ¿Cuánto calor se desarrolla en el sistema si funciona 1 hora, si el 10% de la potencia de la lámpara 
+se transforma en energía lumínica?
+
+**Topic:** [[Conservation of Energy]], [[Circuits]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Centrale idroelettrica**
+
+PT24. Mar del Plata, Buenos Aires. Blu. 
+ 
+Un piccolo villaggio dispone di una piccola centrale idroelettrica che opera con l'energia elettrica.
+La conversione di energia meccanica in energia elettrica, per cui si utilizza un salto d'acqua di altezza h = 20 
+che fornisce 180.000 litri all'ora. Si attiva un generatore di corrente continua, che produce 
+energia elettrica con una deferenza di potenziale di 200 V. La performance energetica, η , della
+l'operazione è del 60%. 
+
+a) Esprimere il flusso in m3/s e calcolare la massa d'acqua che cade per secondo. 
+b) Determina l'energia meccanica sviluppata per secondo e la potenza elettrica generata. 
+c) Calcolare l'intensità di corrente ottenuta. 
+d) Quanto energia elettrica produce al mese se funziona continuamente? Esprimete in kW.h 
+ 
+In una casa si dispone di un collegamento di lampe come indicato che si collega al generatore 
+della gente. L1 è una lampada da 200 V, 75 W; L2 e L3 sono lampadine da 100 V, 75 W mentre la
+resistenza R1 è di 135 ohms. 
+ 
+ 
+ 
+) Calcolare il valore della resistenza R2 per rendere funzionanti le lampe L2 e L3. 
+F) Quale lampada brilla di più? - Perché? 
+g) Quanto calore si sviluppa nel sistema se si lavora per 1 ora, se il 10% della potenza della lampada 
+si trasforma in energia luminosa?
+
+**Topic:** [[Conservation of Energy]], [[Circuits]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following is the list of the main types of hydroelectric power plants:
+
+PT24. The city of Mar del Plata, Buenos Aires. Blue, please. 
+ 
+A small village has a small hydroelectric power station which operates by
+The conversion of mechanical energy into electrical energy is achieved by using a water leap of height h = 20 
+The Commission has already established a number of measures to combat the pollution caused by the pollution caused by the pollution caused by the pollution caused by the pollution caused by the pollution. A DC generator is turned on, which produces 
+electrical energy with a potential deference of 200 V. The energy efficiency, η , of the 
+operation is 60%. 
+
+(a) Express the flow rate in m3/s and calculate the water mass falling per second. 
+(b) Determine the mechanical energy developed per second and the electrical power generated. 
+(c) Calculate the current intensity obtained. 
+(d) How much electricity is produced per month if it is running continuously? Express it in kW.h 
+ 
+In a house there is a lamp connector as indicated that connects to the generator 
+from the village. L1 is a 200 V, 75 W lamp; L2 and L3 are 100 V, 75 W lamps while the
+R1 resistance is 135 ohms. 
+ 
+ 
+ 
+) Calculate the resistance value R2 for the proper functioning of the L2 and L3 lamps. 
+(f) Which of the lamps will shine the brightest? - Why? - I don't know. 
+g) How much heat is developed in the system if it is running for 1 hour, if 10% of the lamp power 
+It's transformed into light energy?
+
+**Topic:** [[Conservation of Energy]], [[Circuits]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q25" data-atom="q25" data-title="Argent 2004 Locale — Quesito 25" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/1,multidisciplina/mono,object/rod"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Barra calentada: identificar material**
+
+PT25. San Fernando del Valle de Catamarca. Azul. 
+ 
+A una barra de 3,5 kg de un determinado material que se encontraba inicialmente a 20ºC, se le 
+suministra energía calorífica por un valor de 125.000 J aumentando en consecuencia la temperatura de 
+la barra hasta 96ºC. Averiguar de que material se trata.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Rod (object)|Rod]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Barra riscaldata: identificazione del materiale**
+
+PT25. San Fernando della Valle di Catamarca. Blu. 
+ 
+Una barra di 3,5 kg di un determinato materiale che si trovava inizialmente a 20°C, è
+Il calore di questa energia è di 125.000 J, aumentando di conseguenza la temperatura di
+la barra fino a 96°C. Scoprire che materiale è.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Rod (object)|Rod]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+Heated bar: identifying material
+
+PT25. San Fernando of the Catamarca Valley. Blue, please. 
+ 
+A 3.5 kg bar of a given material initially at 20°C is
+The energy supply is 125,000 J, thus increasing the temperature of the
+the bar to 96°C. Find out what material it's about.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Rod (object)|Rod]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q26" data-atom="q26" data-title="Argent 2004 Locale — Quesito 26" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block,object/inclined-plane"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Caja en plano inclinado con friccion**
+
+PT26. San Fernando del Valle de Catamarca. Azul. 
+ 
+Un hombre da un empujón a una caja cuya masa es de 5,5 kg. Como consecuencia de ello la misma se 
+desplaza con una velocidad inicial de 5m/s por un plano horizontal. Luego comienza a subir por un 
+plano inclinado de 30º. Hay rozamiento entre el cuerpo y la superficie plana inclinada. Por esta causa, 
+el cuerpo se detiene a la altura de 1,4m. 
+ 
+a) Determinar el fuerza de rozamiento sobre la superficie suponiendo que es constante. 
+b) El coeficiente de rozamiento 
+c) La energía cinética en el punto A 
+d) La energía potencial en el punto B 
+e) Tiempo que tarda en recorrer la distancia AB
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Cassa a piatto inclinata a friczione**
+
+PT26. San Fernando della Valle di Catamarca. Blu. 
+ 
+Un uomo spinge una scatola di 5,5 kg. In conseguenza, la stessa si è
+si spostano a velocità iniziale di 5 m/s per un piano orizzontale. Poi inizia a salire per un 
+piano inclinato di 30°. C'è un'acciappatura tra il corpo e la superficie piatta inclinata. Per questo motivo,
+Il corpo si ferma a 1,4 metri di altezza. 
+ 
+a) Determinare la forza di ruggine sulla superficie, supponendo che sia costante. 
+b) Il coefficiente di rottura 
+c) L'energia cinetica al punto A 
+d) L'energia potenziale al punto B
+e) Tempo necessario per percorrere la distanza AB
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Flat-slung box with friction **
+
+PT26. San Fernando of the Catamarca Valley. Blue, please. 
+ 
+A man pushes a box that weighs 5.5 kg. As a result, the same was done.
+moves at an initial speed of 5 m/s on a horizontal plane. Then it starts to rise by a 
+plane inclined by 30°. There's a friction between the body and the flat surface sloping. For this reason,
+The body stops at a height of 1.4m. 
+ 
+(a) Determine the friction force on the surface assuming that it is constant. 
+(b) The coefficient of friction 
+(c) Kinetic energy at point A 
+(d) The potential energy at point B 
+(e) Time taken to travel the distance AB
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q27" data-atom="q27" data-title="Argent 2004 Locale — Quesito 27" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Resistencia termica de paredes (analogia)**
+
+PT27. San Fernando del Valle de Catamarca. Azul. 
+ 
+Para aislar un determinado recinto, las paredes suelen estar constituidas por más de un material. Para 
+determinar la resistencia térmica se suele recurrir al método analógico de cálculo realizando una 
+comparación entre la transmisión de energía eléctrica a través de un conductor  y la conducción de la 
+energía calorífica que se produce en una pared. 
+ 
+Se utiliza 
+s
+d
+R
+λ
+1
+=
+ 
+Donde: 
+ 
+λ = coeficiente de conductividad térmica 
+ 
+d = espesor de la pared 
+
+ 
+s = superficie de la pared 
+Asimismo, la potencia calorífica se calcula como: 
+R
+t
+t
+q
+A
+B −
+=
+ 
+A propósito de ello se pide: calcular la potencia calorífica que por transmisión atraviesa la pared de 
+disposición y dimensiones según se muestra en la figura. 
+ 
+ 
+ 
+ 
+λAL = 202 W/(m.K) 
+λCu = 387 W/(m K) 
+λPb = 35 W(m K)
+
+
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Resistenza termica delle pareti (analogia) **
+
+PT27. San Fernando della Valle di Catamarca. Blu. 
+ 
+Per isolare un certo recinto, i muri sono di solito costituiti da più di un materiale. Per
+La determinazione della resistenza termico si ricorre di solito al metodo analogo di calcolo effettuando una
+La differenza tra il trasporto di energia elettrica attraverso un conduttore e il trasporto di energia elettrica attraverso un conduttore è che il conduttore è un'elettricità di
+energia calorica che si produce in un muro. 
+ 
+È usato 
+s
+d
+R
+λ
+1
+=
+ 
+Dove: 
+ 
+λ = coefficiente di conduzione termico 
+ 
+d = spessore del muro 
+
+ 
+s = superficie del muro 
+La potenza calorica è calcolata come segue: 
+R
+t
+t
+q
+A
+B −
+=
+ 
+In questo senso si chiede di calcolare la potenza calorica che attraversa il muro di 
+Disposizioni e dimensioni come illustrato nella figura. 
+ 
+ 
+ 
+ 
+L'aumento di energia elettrica è stato calcolato in base alle seguenti indicazioni:
+Il valore di un'operazione di cui all'articolo 1, paragrafo 1, del regolamento (UE) n.
+λPb = 35 W(m K)
+
+
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The heat resistance of the walls (analogue)
+
+PT27. San Fernando of the Catamarca Valley. Blue, please. 
+ 
+To insulate a particular enclosure, walls are usually made of more than one material. For 
+The thermal resistance is usually determined using the analogue calculation method by performing a 
+The comparison between the transmission of electrical energy through a conductor and the conduction of the
+heat energy that is produced in a wall. 
+ 
+It is used 
+s
+d
+R
+λ
+1
+=
+ 
+Where: 
+ 
+λ = coefficient of thermal conductivity 
+ 
+d = thickness of the wall 
+
+ 
+s = surface of the wall 
+The heat output is also calculated as: 
+R
+t
+t
+q
+A
+B −
+=
+ 
+In this respect, the calculation of the heat output transmitted through the wall of the building is requested.
+layout and dimensions as shown in Figure 1. 
+ 
+ 
+ 
+ 
+The following shall be added to the list of the following:
+The following is the list of the following:
+The following is the list of the following:
+
+
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q28" data-atom="q28" data-title="Argent 2004 Locale — Quesito 28" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/mono,object/tank-container,object/bubble"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Buzo Cartesiano**
+
+PT28. Ciudad de Buenos Aires. Azul. 
+ 
+“Buzo Cartesiano” 
+En este problema e proponemos analizar el Buzo Cartesiano. 
+Dicha experiencia se realiza utilizando un recipiente mayor con agua en su interior. El mismo pude ser 
+sellado y regular la presión del interior. 
+Flotando en el interior del recipiente mayor se encuentra un tubo de ensayo con la boca hacia abajo 
+con una burbuja en su interior (Figura 1).  
+ 
+Figura 1 
+ 
+El tubo de ensayo tiene un radio interno de 1 cm, radio externo de 1,1 cm  y un largo de 15 cm. 
+ 
+1) ¿Cual es el peso del tubo? 
+2) ¿Cuál es el peso del tubo cuando se encuentra totalmente sumergido en el agua? 
+ 
+Para que el tubo de ensayo flote se le coloca una burbuja de aire en su interior. 
+ 
+
+3) ¿Cuál es el volumen mínimo de la burbuja para que el tubo flote? (puede despreciar el peso 
+del aire) 
+4) Si se le coloca una burbuja de 30 cm3, ¿Cuál es la altura del tubo que emerge del agua? 
+ 
+Como paso siguiente se sella el recipiente mayor. Al aumentar la presión dentro del mismo el tubo de 
+ensayo (buzo) desciende. 
+ 
+5) Nuevamente para la burbuja de 30 cm3, ¿Cuál es la mínima presión para que el buzo 
+descienda? 
+ 
+Una vez que el buzo llega al fondo del recipiente mayor se disminuye la presión del mismo hasta que 
+el buzo vuelve a subir. 
+6) Si el recipiente mayor tiene 50 cm de agua, ¿a que  presión el buzo comienza a ascender? 
+7) ¿Cuál debería ser la altura de agua del recipiente mayor para que, estando el buzo en el fondo, 
+al igualar la presión con la atmosférica el buzo no ascienda? 
+ 
+Datos: 
+Densidad del vidrio: 2,7 g/cm3    Densidad del agua: 1 g/cm3    Presion Atm: 101300 Pa
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p24_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Tank/Container (object)|Tank/Container]], [[Bubble (object)|Bubble]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Buffo Cartesiano**
+
+PT28. Città di Buenos Aires. Blu. 
+ 
+Buzo Cartesiano 
+In questo problema proponiamo di analizzare il Carthage. 
+Tale esperienza è effettuata utilizzando un vassoio più grande con acqua all'interno. Potrebbe essere lo stesso.
+Se il sistema di controllo è stato sigillato e regolato, la pressione interna è regolata. 
+Flottando all'interno del recipiente principale si trova un tubo di prova con la bocca verso il basso
+con una bolla all'interno (Figura 1). 
+ 
+Figura 1 
+ 
+Il tubo di prova ha un raggio interno di 1 cm, un raggio esterno di 1,1 cm e una lunghezza di 15 cm. 
+ 
+1) Qual è il peso del tubo? 
+2) Qual è il peso del tubo quando è completamente immerso nell'acqua? 
+ 
+Per far fluttuare il tubo di prova viene inserita una bolla d'aria all'interno. 
+ 
+
+3) Qual è il volume minimo della bolla per far flotare il tubo? (può disprezzare il peso 
+dell'aria) 
+4) Se viene inserita una bolla di 30 cm3, qual è l'altezza del tubo che esce dall'acqua? 
+ 
+Il prossimo passo è quello di sigillare il recipiente più grande. Aumentando la pressione all'interno del tubo di
+il test (buzo) scende. 
+ 
+5) Ancora una volta per la bolla di 30 cm3, qual è la pressione minima per il buio
+- Scende? 
+ 
+Una volta che il buce arriva al fondo del recipiente maggiore, la pressione del recipiente si riduce fino a che non si
+il buceatore torna a salire. 
+6) Se il recipiente più grande ha 50 cm di acqua, a che pressione il subacqueo inizia a salire? 
+7) Qual è l'altezza dell'acqua del vascello più grande in modo che, essendo il subacqueo al fondo,
+E' il momento di eguagliare la pressione con l'atmosfera. 
+ 
+Datati: 
+Densità del vetro: 2,7 g/cm3 Densità dell'acqua: 1 g/cm3 Presione Atm: 101300 Pa
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p24_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Tank/Container (object)|Tank/Container]], [[Bubble (object)|Bubble]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following is the list of the Member States' official fishing opportunities in the Union:
+
+PT28. City of Buenos Aires. Blue, please. 
+ 
+Cartesian Boat 
+In this problem, we propose to analyze the Cartesian Dive. 
+This is done using a larger container with water inside. He could be the same .
+seal and regulate the pressure inside. 
+Floating inside the main container is a test tube with the mouth downwards.
+with a bubble inside (Figure 1). 
+ 
+Figure 1 
+ 
+The test tube has an internal radius of 1 cm, an external radius of 1,1 cm and a length of 15 cm. 
+ 
+1) What is the weight of the tube? 
+2) What is the weight of the tube when fully submerged in water? 
+ 
+To make the test tube float, an air bubble is placed inside it. 
+ 
+
+3) What is the minimum volume of the bubble for the tube to float? (may disregard the weight)
+(from the air) 
+4) If you put a 30 cm3 bubble in it, what is the height of the tube that emerges from the water? 
+ 
+The next step is to seal the main container. By increasing the pressure inside the tube itself 
+test (buzz) is descended. 
+ 
+5) Again for the 30 cm3 bubble, what is the minimum pressure for the diver to
+- Down the road? 
+ 
+Once the diver reaches the bottom of the main vessel the pressure of the main vessel is lowered until the
+The diver is back up. 
+6) If the larger vessel has 50 cm of water, at what pressure does the diver begin to rise? 
+7) What should be the water height of the larger vessel so that, being the diver at the bottom,
+When you match the pressure with the atmosphere, the diver doesn't rise? 
+ 
+The data: 
+The following is the list of the types of glass used:
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p24_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Tank/Container (object)|Tank/Container]], [[Bubble (object)|Bubble]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q29" data-atom="q29" data-title="Argent 2004 Locale — Quesito 29" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/resistor,object/gas"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Figuring Physics (preguntas independientes)**
+
+PT29. Ciudad de Buenos Aires. Azul. 
+ 
+“Figuring Physics” 
+Los siguientes preguntas son problemas individuales, completamente independientes entre si. Las 
+mismas han sido adaptadas de la sección “FIGURING PHYSICS” de la revista “The Physics Teacher” 
+ 
+Pregunta A (Marzo 2003) 
+ 
+ 
+ 
+Arrolle un pedazo de arcilla conductora en un cilindro y mida su resistencia. 
+Luego vuelva a arrollar la arcilla en otro cilindro del doble de longitud 
+ 
+¿Cuál será su resistencia en relación al primer cilindro? 
+ 
+Pregunta B (Abril 2003) 
+ 
+Un determinado gas tiene la propiedad especial de que su energía interna es directamente proporcional 
+a su temperatura. Considere un frasco de dicho gas a una temperatura de 2ºC. Si se lo caliente hasta 
+que su energía interna se duplica. ¿Cuál será su temperatura? 
+ 
+Pregunta C (Enero 2004) 
+ 
+Responde las siguientes preguntas para cada figura: 
+1) ¿Cuál de las dos pelotitas esta más tiempo en el aire? 
+2) ¿Cuál de las dos pelotitas tiene más velocidad inicial? 
+
+ 
+ 
+Pregunta D (Septiembre 2002) 
+ 
+Un proyectil es disparado por una pistola de resortes, la cual apunta horizontalmente a un blanco. 
+Debido a la gravedad el proyectil pega a una distancia Y por debajo del blanco. 
+Paga acertar al centro del blanco, ¿A dónde se debería apuntar la pistola? 
+ 
+ 
+Pregunta E (Diciembre 1999) 
+ 
+ 
+ 
+Cuando 2 bicicletas que viajan a 10 km/h se encuentran a 20 km de distancia una abeja comienza a 
+volar con una velocidad de 30 km/h desde una bicicleta hacia la otra ida y vuelta hasta que las 
+bicicletas se encuentran. 
+ 
+¿cuál será la distancia recorrida por la mosca?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p26_f2.png]]
+![[cuadernillo_2004_p26_f3.png]]
+![[cuadernillo_2004_p26_f4.png]]
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Gas (object)|Gas]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Figuring Physics (questioni indipendenti) **
+
+PT29. Città di Buenos Aires. Blu. 
+ 
+Figuring Physics 
+Le seguenti domande sono problemi individuali, completamente indipendenti tra loro. Le 
+Le loro stesse sono state adattate dalla sezione FIGURING PHYSICS della rivista The Physics Teacher 
+ 
+Domanda A (March 2003) 
+ 
+ 
+ 
+Rolle un pezzo di argilla conduttrice in un cilindro e misura la resistenza. 
+Poi rivolgete l'argilla in un altro cilindro di doppia lunghezza.
+ 
+Qual è la resistenza rispetto al primo cilindro? 
+ 
+Domanda B (aprile 2003) 
+ 
+Un determinato gas ha la proprietà speciale che la sua energia interna è direttamente proporzionale.
+alla sua temperatura. Considera un flacone di tale gas a 2°C. Se lo scaldate fino a
+che la sua energia interna si raddoppi. Qual è la sua temperatura? 
+ 
+Domanda C (Gennaio 2004) 
+ 
+Rispondi alle seguenti domande per ciascuna figura: 
+1) Quale delle due palle è in aria più a lungo? 
+2) Quale delle due palle ha la velocità iniziale maggiore? 
+
+ 
+ 
+Domanda D (settembre 2002) 
+ 
+Un proiettile viene sparato da una pistola di scarico, che punta orizzontalmente su un bersaglio. 
+A causa della gravità, il proiettile colpisce a una distanza Y sotto il bersaglio. 
+Pagano per il centro del bersaglio, dove dovrebbe puntare la pistola? 
+ 
+ 
+Domanda E (di dicembre 1999) 
+ 
+ 
+ 
+Quando due biciclette che viaggiano a 10 km/h si trovano a 20 km di distanza una abella inizia a
+a velocità di 30 km/h da una bicicletta all'altra e ritorno fino alle
+biciclette si trovano. 
+ 
+Qual è la distanza percorsa dalla mosca?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p26_f2.png]]
+![[cuadernillo_2004_p26_f3.png]]
+![[cuadernillo_2004_p26_f4.png]]
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Gas (object)|Gas]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following is the list of the main subjects covered by the report:
+
+PT29. City of Buenos Aires. Blue, please. 
+ 
+Figuring Physics 
+The following questions are individual problems, completely independent of each other. The 
+The following are the results of the study:
+ 
+Question A (March 2003) 
+ 
+ 
+ 
+Wrap a piece of conductive clay in a cylinder and measure its resistance. 
+Then roll the clay back into another cylinder twice the length.
+ 
+What's your resistance to the first cylinder? 
+ 
+Question B (April 2003) 
+ 
+A given gas has the special property that its internal energy is directly proportional.
+at its temperature. Consider a vial of such gas at a temperature of 2°C. If you heat it up 
+I'm just saying, you're gonna have to double your inner energy. What's your temperature going to be? 
+ 
+Question C (January 2004) 
+ 
+Answer the following questions for each figure: 
+1) Which of the two balls is in the air longer? 
+2) Which of the two balls has the highest initial speed? 
+
+ 
+ 
+Question D (September 2002) 
+ 
+A projectile is fired by a spring gun, which points horizontally at a target. 
+Due to gravity, the projectile hits a distance Y below the target. 
+It's a hit in the center of the target. Where should the gun be pointed? 
+ 
+ 
+Question E (December 1999) 
+ 
+ 
+ 
+When two bicycles traveling at 10 km/h are 20 km away a bee starts to
+Flying at a speed of 30 km/h from one bike to the other round until the
+Bicycles are found. 
+ 
+What's the distance the fly will travel?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p26_f2.png]]
+![[cuadernillo_2004_p26_f3.png]]
+![[cuadernillo_2004_p26_f4.png]]
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Gas (object)|Gas]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q30" data-atom="q30" data-title="Argent 2004 Locale — Quesito 30" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,topic/gravitation,argomento/gravitazione-e-astrofisica,difficolta/5,multidisciplina/multi,object/satellite,object/wire"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Pinza electromagnetica (desorbitar satelite)**
+
+PT30. Ciudad de Buenos Aires. Azul. 
+ 
+“Pinza electromagnética” 
+En este problema estudiaremos un posible sistema muy sencillo para sacar de orbita satélites 
+artificiales. 
+
+Para poner el satélite en orbita se lo lanza desde la superficie terrestre con una velocidad suficiente 
+para alcanzar la altura deseada. 
+ 
+1) ¿con que velocidad debo lanzar un satélite de 1000 Kg. para que alcance una altura de 300 
+Km.(puede considerar la altura de orbita mucho menor al radio terrestre)? 
+ 
+Para las comunicaciones son muy útiles los satélites geo-estacionarios cuya característica es la de rotar 
+a la misma velocidad que la tierra y de esa forma encontrarse “suspendido” por encima de 
+determinado lugar de la tierra todo el tiempo. 
+ 
+2) suponiendo una orbita circular, calcule la altura de la orbita para que la misma sea geo-
+estacionaria. 
+3) Encuentre una expresión, que dependa solamente de la altura de orbita , para la energía del 
+satélite.  Calcule dicha energía en el caso de la orbita geo-estacionaria 
+ 
+La “pinza electromagnética” es simplemente un cable conductor rígido de aluminio que se desprende 
+del satélite (Figura 1). Debido a que el mismo se mueve a alta velocidad dentro del campo magnético 
+terrestre se induce una diferencia de potencial entre los extremos del mismo. Como dicho cable es 
+conductor circulara una corriente por el mismo. 
+ 
+ 
+ 
+Figura 1 
+ 
+La formula para la diferencia de potencial inducida es: 
+ 
+V = v . B . L 
+ 
+Donde V es la diferencia de potencial, v es la velocidad perpendicular al campo magnético, B es 
+campo magnético terrestre y L es la longitud del cable. 
+ 
+4) Para el satélite en una orbita circular de 1000km si deseamos que la diferencia de potencial no 
+supere los 3000 V, ¿cuál debe ser la máxima longitud del cable? 
+ 
+5) Encuentre una expresión para la potencia disipada por el cable que dependa del volumen del 
+mismo. 
+
+6) Considerando un satélite de 1000kg en orbita inicial de 1000km, ¿cuál debe ser la masa del 
+cable para que, inicialmente, el satélite caiga radialmente con una velocidad de 10 km/h? 
+ 
+Datos: 
+Densidad del Al: 2700 kg/m3   
+resistividad del Al: 27.4 nΩ.m 
+B terrestre = 20 µT 
+ 
+ 
+ 
+Masa de la tierra = 6 x 1024 kg  
+G = 6.67 × 10-11 m3 kg-1 s-2 
+ 
+ 
+Radio de la tierra = 6,4 x 106 m
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p27_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Gravitation]], [[Electromagnetic Induction]]
+**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Satellite (object)|Satellite]], [[Wire (object)|Wire]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Pinza elettromagnetica (desorbitare satellitare) **
+
+PT30. Città di Buenos Aires. Blu. 
+ 
+Pinza elettromagnetica 
+In questo problema , studiamo un possibile sistema molto semplice per rimuovere satelliti in orbita .
+- Le mani artificiali. 
+
+Per mettere in orbita il satellite viene lanciato dalla superficie terrestre con una velocità sufficiente
+per raggiungere la altezza desiderata. 
+ 
+1) a che velocità devo lanciare un satellite da 1000 Kg. per raggiungere un'altezza di 300.
+Km. (può considerare l'altezza di orbita molto inferiore al raggio terrestre)? 
+ 
+Per le comunicazioni sono molto utili i satelliti geostazionari che hanno la caratteristica di rotare.
+alla stessa velocità della terra e così trovarsi sospeso sopra di noi.
+un certo luogo della terra tutto il tempo. 
+ 
+2) supponendo un'orbita circolare, calcolare l'altezza dell'orbita in modo che essa sia geoloca-
+- Stazionaria. 
+3) Trova un'espressione, che dipende solo dall'altezza di orbita, per l'energia del 
+- satellite. Calcola tale energia nel caso dell'orbita geo-stazionaria 
+ 
+La spina elettromagnetica è semplicemente un cavo rigido di alluminio che si sgancia
+Il satellite (Figura 1). Perché si muove a grande velocità all'interno del campo magnetico.
+La differenza di potenziale tra le estremità della terra è indotta. Come dice il cavo è 
+il conducente circolerà un flusso attraverso di esso. 
+ 
+ 
+ 
+Figura 1 
+ 
+La formula per la differenza di potenziale indotta è: 
+ 
+V = v . B . L 
+ 
+Dove V è la differenza di potenziale, v è la velocità perpendicolare al campo magnetico, B è 
+campo magnetico terrestre e L è la lunghezza del cavo. 
+ 
+4) Per il satellite in orbita circolare di 1000 km se vogliamo che la differenza di potenziale non
+se superano i 3000 V, qual è la massima lunghezza del cavo? 
+ 
+5) Trova un'espressione per la potenza dissipata dal cavo che dipende dal volume del cavo.
+- Proprio così. 
+
+6) Considerando un satellite di 1000 kg in orbita iniziale di 1000 km, quale deve essere la massa del satellite?
+Cable per inizialmente far cadere il satellite radialmente a velocità di 10 km/h? 
+ 
+Datati: 
+Densità dell'Al: 2700 kg/m3 
+resistenza dell'Al: 27,4 nΩ.m 
+B terrestri = 20 μT 
+ 
+ 
+ 
+Massa della terra = 6 x 1024 kg 
+G = 6.67 × 10-11 m3 kg-1 s-2 
+ 
+ 
+Radius della terra = 6,4 x 106 m
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p27_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Gravitation]], [[Electromagnetic Induction]]
+**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Satellite (object)|Satellite]], [[Wire (object)|Wire]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following table shows the results of the calculations:
+
+PT30. City of Buenos Aires. Blue, please. 
+ 
+Electromagnetic pincers 
+In this problem we will study a very simple possible system for taking satellites out of orbit.
+They're artificial. 
+
+To put the satellite into orbit it is launched from the Earth's surface at a sufficient speed.
+to reach the desired height. 
+ 
+1) how fast should I launch a 1000 kg satellite. to reach a height of 300 
+Km. can you consider the orbit height much lower than the Earth's radius)? 
+ 
+Geostationary satellites are very useful for communications, with their rotating characteristics.
+At the same speed as the earth and thus find themselves suspended above the Earth.
+A certain place on earth all the time. 
+ 
+2) assuming a circular orbit, calculate the height of the orbit so that it is geolocated.
+It's a stationary. 
+3) Find an expression, which depends only on the orbital height, for the energy of the 
+satellite. Calculate this energy in the case of geo-stationary orbit 
+ 
+The electromagnetic pin is simply a rigid aluminum conductive cable that breaks off.
+The satellite (Figure 1) Because it moves at high speed within the magnetic field.
+The Earth's surface is induced by a potential difference between the ends of the Earth. Like that cable is 
+The driver will circulate a current through it. 
+ 
+ 
+ 
+Figure 1 
+ 
+The formula for the induced potential difference is: 
+ 
+V = v . B . L 
+ 
+Where V is the potential difference, v is the velocity perpendicular to the magnetic field, B is 
+Earth's magnetic field and L is the length of the cable. 
+ 
+4) For the satellite in a 1000km circular orbit if we wish the potential difference not to
+If the cable exceeds 3000 V, what should be the maximum length of the cable? 
+ 
+5) Find an expression for the power dissipated by the cable that depends on the volume of the wire.
+I'm not. 
+
+6) Considering a 1000kg satellite in an initial orbit of 1000km, what should be the mass of the satellite?
+cable so that the satellite will initially fall radially at a speed of 10 km/h? 
+ 
+The data: 
+The following conditions shall apply:
+Resistivity of Al: 27.4 nΩ.m 
+The following is the list of the following:
+ 
+ 
+ 
+The mass of the land is 6 x 1024 kg 
+G = 6.67 × 10-11 m3 kg-1 s-2 
+ 
+ 
+Radius of the earth = 6.4 x 106 m
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p27_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Gravitation]], [[Electromagnetic Induction]]
+**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Satellite (object)|Satellite]], [[Wire (object)|Wire]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q31" data-atom="q31" data-title="Argent 2004 Locale — Quesito 31" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/3,multidisciplina/mono,object/sphere,object/block"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Una cuestion de choque**
+
+PT31. Río Segundo, Córdoba. Azul. 
+ 
+“Una cuestión de choque” 
+Se  denomina colisión o choque a una interacción de corta duración entre dos o más cuerpos que están 
+muy próximos entre sí. Para el sistema de cuerpos en interacción mutua, es válida la ley de 
+conservación de la cantidad de movimiento total, ya que las fuerzas que actúan son interiores. 
+Las ausencia de fuerzas exteriores sobre los cuerpos que chocan garantiza la conservación de la 
+cantidad de movimiento del sistema, 
+tot
+P
+. Entonces, las velocidades de los cuerpos antes y después 
+del choque se relacionan según: 
+después
+tot
+antes
+tot
+P
+P
+=
+ 
+ 
+despues
+despues
+antes
+antes
+V
+m
+V
+m
+V
+m
+V
+m
+2
+1
+1
+2
+1
+1
+⋅
++
+⋅
+=
+⋅
++
+⋅
+ 
+ 
+Esta ecuación es válida para cualquier situación de choque. Teniendo en cuenta estas consideraciones 
+teóricas se pide analizar la siguiente situación en la que interactúan dos cuerpos A y B. La Figura (1)  
+de este problema muestra una esfera A y un bloque B que colisionan elásticamente. 
+ 
+ 
+ 
+Figura (1) 
+ 
+A. De los siguientes ítems indique la respuesta correcta y justifique: 
+ 
+1) La energía cinética de la esfera A, inmediatamente antes de chocar con el bloque B es: 
+a) 
+2
+2
+0
+V
+m ⋅
+ 
+ 
+d) 
+h
+g
+m
+⋅
+⋅
+ 
+b) 
+l
+g
+m
+⋅
+⋅
+ 
+ 
+e) 
+h
+g
+m
+V
+m
+⋅
+⋅
++
+⋅
+2
+2
+0
+ 
+c) 
+l
+g
+m
+V
+m
+⋅
+⋅
++
+⋅
+2
+2
+0
+ 
+ 
+3 
+2 
+1
+4 
+y 
+l
+l
+A 
+B
+V0
+h
+
+2) La energía cinética EA de la esfera y EB del bloque, inmediatamente después del 
+choque, son respectivamente:                   
+a)  
+0
+=
+A
+E
+   y   
+h
+g
+m
+EB
+⋅
+⋅
+=
+ 
+b) 
+0
+=
+A
+E
+   y   
+h
+g
+m
+V
+m
+EB
+⋅
+⋅
++
+⋅
+=
+2
+2
+0
+ 
+c) 
+2
+4
+2
+0
+h
+g
+m
+V
+m
+E
+E
+B
+A
+⋅
+⋅
++
+⋅
+=
+=
+ 
+d) 
+0
+=
+A
+E
+   y   
+l
+g
+m
+EB
+⋅
+⋅
+=
+ 
+e) 
+2
+4
+2
+0
+l
+g
+m
+V
+m
+E
+E
+B
+A
+⋅
+⋅
++
+⋅
+=
+=
+ 
+ 
+3) Durante la colisión, las módulos de las fuerzas de interacción, FA, que ejerce A sobre B 
+y FB, que el bloque ejerce sobre la esfera A, guardan entre sí  la siguiente relación: 
+a) FA ≠ 0 y FB = 0.  
+b) FA >FB y ambas diferentes de cero. 
+c) FA =FB = 0. 
+d) FA =FB y ambas diferentes de cero. 
+e) FB ≠ 0 y FA = 0. 
+ 
+4) La velocidad del bloque B, inmediatamente después del choque es: 
+a)  
+l
+g ⋅
+⋅
+2
+ 
+b)  
+l
+g
+V
+⋅
+⋅
++ 2
+2
+0
+ 
+c)   
+0
+V  
+d)  
+h
+g
+V
+⋅
+⋅
++ 2
+2
+0
+ 
+e) 
+h
+g ⋅
+⋅
+2
+ 
+ 
+5) Después del choque, el bloque B alcanzará sobre la rampa una altura “y”, tal que: 
+ 
+a)  
+l
+y =   
+ 
+b)  
+h
+y =
+ 
+c)  
+g
+V
+h
+y
+⋅
++
+=
+2
+2
+0
+  
+d)  
+g
+V
+y
+⋅
+= 2
+2
+0
+ 
+e)  
+g
+V
+l
+y
+⋅
++
+=
+2
+2
+0
+ 
+B.   Si la situación de este problema se planteara como lo indica la Figura (2), es decir que el bloque B 
+se deslice con una velocidad VB = 4 m/s, ahora, sobre una superficie horizontal y choca 
+elásticamente con la esfera A inicialmente detenida y suspendida por un hilo de longitud l. Se  
+sabe que después del choque esta esfera alcanza una altura h = 0,20 m. 
+ 
+ 
+A 
+h 
+Figura (2) 
+B 
+mA = 5 kg. 
+mB = 2 kg. 
+
+Resolver analíticamente los siguientes  ítems:  
+6) ¿ Cuál es el módulo y el sentido de la velocidad del bloque B después del choque?. 
+7) ¿Cuál  es el valor de la energía cinética del sistema después de la colisión entre estos 
+cuerpos?. 
+8) Si el bloque B le aplicó a la esfera A una fuerza F = 15 N; ¿ qué tiempo transcurrió hasta 
+que el bloque se detiene?. 
+9) Determina el impulso con el que el bloque B reacciona después de la colisión. 
+10) Determina la aceleración adquirida por la esfera.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p28_f1.png]]
+![[cuadernillo_2004_p29_f2.png]]
+<!--fig:end-->
+
+**Topic:** [[Conservation of Momentum]]
+**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Sphere (object)|Sphere]], [[Block (object)|Block]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+Un problema di colpo
+
+PT31. Rio Segundo, Córdoba. Blu. 
+ 
+Questa è una questione di shock 
+Si chiama collisione o colpissione un'interazione di breve durata tra due o più corpi che si trovano in una situazione di collisione.
+molto vicini. Per il sistema di corpi in interazione reciproca, vale la legge di 
+La conservazione della quantità di movimento totale, poiché le forze che agiscono sono interne. 
+L'assenza di forze esterne sui corpi che si scontrano garantisce la conservazione della
+quantità di movimento del sistema, 
+tutto
+P
+. Quindi, le velocità dei corpi prima e dopo
+di colpo sono correlati in base a: 
+dopo
+tutto
+prima
+tutto
+P
+P
+=
+ 
+ 
+dopo
+dopo
+prima
+prima
+V
+m
+V
+m
+V
+m
+V
+m
+2
+1
+1
+2
+1
+1
+⋅
++
+⋅
+=
+⋅
++
+⋅
+ 
+ 
+Questa equazione vale per qualsiasi situazione di colpo. Considerando queste considerazioni 
+La teoria della corporeità è che si deve analizzare la seguente situazione in cui due corpi A e B interagiscono. La figura (1) 
+di questo problema mostra una sfera A e un blocco B che collidono elasticamente. 
+ 
+ 
+ 
+Figura 1 
+ 
+A. Indicare la risposta corretta e giustificare: 
+ 
+1) L'energia cinetica della sfera A, immediatamente prima di colpire il blocco B è: 
+a) 
+2
+2
+0
+V
+m ⋅
+ 
+ 
+d) 
+h
+g
+m
+⋅
+⋅
+ 
+b) 
+l
+g
+m
+⋅
+⋅
+ 
+ 
+e) 
+h
+g
+m
+V
+m
+⋅
+⋅
++
+⋅
+2
+2
+0
+ 
+c) 
+l
+g
+m
+V
+m
+⋅
+⋅
++
+⋅
+2
+2
+0
+ 
+ 
+3 
+2 
+1
+4 
+y 
+l
+l
+A 
+B
+V0
+h
+
+2) Energia cinetica EA della sfera e EB del blocco, immediatamente dopo 
+lo shock, sono rispettivamente: 
+a)  
+0
+=
+A
+E
+   y   
+h
+g
+m
+EB
+⋅
+⋅
+=
+ 
+b) 
+0
+=
+A
+E
+   y   
+h
+g
+m
+V
+m
+EB
+⋅
+⋅
++
+⋅
+=
+2
+2
+0
+ 
+c) 
+2
+4
+2
+0
+h
+g
+m
+V
+m
+E
+E
+B
+A
+⋅
+⋅
++
+⋅
+=
+=
+ 
+d) 
+0
+=
+A
+E
+   y   
+l
+g
+m
+EB
+⋅
+⋅
+=
+ 
+e) 
+2
+4
+2
+0
+l
+g
+m
+V
+m
+E
+E
+B
+A
+⋅
+⋅
++
+⋅
+=
+=
+ 
+ 
+3) Durante la collisione, i moduli delle forze di interazione, FA, che esercitano A su B 
+e FB, che il blocco esercita sulla sfera A, si tengono tra loro il seguente rapporto: 
+a) FA ≠ 0 y FB = 0. 
+b) FA >FB e entrambi diversi da zero. 
+c) FA =FB = 0. 
+d) FA =FB e entrambi diversi da zero. 
+e) FB ≠ 0 y FA = 0. 
+ 
+4) La velocità del blocco B immediatamente dopo l'impatto è: 
+a)  
+l
+g ⋅
+⋅
+2
+ 
+b)  
+l
+g
+V
+⋅
+⋅
++ 2
+2
+0
+ 
+c)   
+0
+V  
+d)  
+h
+g
+V
+⋅
+⋅
++ 2
+2
+0
+ 
+e) 
+h
+g ⋅
+⋅
+2
+ 
+ 
+5) Dopo l'impatto, il blocco B raggiungerà sulla rampa una altezza y, tale che: 
+ 
+a)  
+l
+y =   
+ 
+b)  
+h
+y =
+ 
+c)  
+g
+V
+h
+y
+⋅
++
+=
+2
+2
+0
+  
+d)  
+g
+V
+y
+⋅
+= 2
+2
+0
+ 
+e)  
+g
+V
+l
+y
+⋅
++
+=
+2
+2
+0
+ 
+B. Se la situazione di questo problema fosse stata presentata come indicato in figura (2), cioè il blocco B
+si scivola a velocità VB = 4 m/s, ora, su una superficie orizzontale e colpisce 
+con la sfera A inizialmente fermata e sospesa da un filo di lunghezza l. Se  
+sa che dopo l'impatto questa sfera raggiunge un'altezza h = 0,20 m. 
+ 
+ 
+A 
+h 
+Figura 2 
+B 
+mA = 5 kg. 
+mB = 2 kg. 
+
+Risolvere analiticamente i seguenti elementi: 
+6) Qual è il modulo e il senso della velocità del blocco B dopo l'impatto? 
+7) Qual è il valore dell'energia cinetica del sistema dopo la collisione tra questi?
+Corpi? 
+8) Se il blocco B ha applicato alla sfera A una forza F = 15 N;
+che il blocco si ferma? 
+9) Determina il impulso con cui il blocco B reagisce dopo la collisione. 
+10) Determina l'accelerazione acquisita dalla sfera.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p28_f1.png]]
+![[cuadernillo_2004_p29_f2.png]]
+<!--fig:end-->
+
+**Topic:** [[Conservation of Momentum]]
+**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Sphere (object)|Sphere]], [[Block (object)|Block]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+A shock issue
+
+PT31. The second river, Cordoba. Blue, please. 
+ 
+A matter of shock 
+A collision or collision is a short-lived interaction between two or more bodies that are in contact with each other.
+Very close to each other. For the system of interacting bodies, the law of 
+The total amount of motion is conserved, since the forces acting are internal. 
+The absence of external forces on the bodies in collision ensures the preservation of the
+amount of movement of the system, 
+All of them
+P
+. So the velocities of the bodies before and after.
+The impact factors are related according to: 
+After that
+All of them
+Before
+All of them
+P
+P
+=
+ 
+ 
+Then
+Then
+Before
+Before
+V
+m
+V
+m
+V
+m
+V
+m
+2
+1
+1
+2
+1
+1
+⋅
++
+⋅
+=
+⋅
++
+⋅
+ 
+ 
+This equation is valid for any crash situation. Given these considerations 
+Theoretical analysis is required to analyze the following situation in which two bodies A and B interact. The figure (1) 
+So this problem shows a sphere A and a block B colliding elastically. 
+ 
+ 
+ 
+Figure 1 
+ 
+A. Please indicate the correct answer and justify the following: 
+ 
+1) The kinetic energy of the sphere A immediately before colliding with block B is: 
+a) 
+2
+2
+0
+V
+m ⋅
+ 
+ 
+d) 
+h
+g
+m
+⋅
+⋅
+ 
+b) 
+l
+g
+m
+⋅
+⋅
+ 
+ 
+e) 
+h
+g
+m
+V
+m
+⋅
+⋅
++
+⋅
+2
+2
+0
+ 
+c) 
+l
+g
+m
+V
+m
+⋅
+⋅
++
+⋅
+2
+2
+0
+ 
+ 
+3 
+2 
+1
+4 
+y 
+l
+l
+A 
+B
+V0
+h
+
+2) The kinetic energy of the sphere and EB of the block, immediately after the
+shock, are respectively: 
+a)  
+0
+=
+A
+E
+   y   
+h
+g
+m
+EB
+⋅
+⋅
+=
+ 
+b) 
+0
+=
+A
+E
+   y   
+h
+g
+m
+V
+m
+EB
+⋅
+⋅
++
+⋅
+=
+2
+2
+0
+ 
+c) 
+2
+4
+2
+0
+h
+g
+m
+V
+m
+E
+E
+B
+A
+⋅
+⋅
++
+⋅
+=
+=
+ 
+d) 
+0
+=
+A
+E
+   y   
+l
+g
+m
+EB
+⋅
+⋅
+=
+ 
+e) 
+2
+4
+2
+0
+l
+g
+m
+V
+m
+E
+E
+B
+A
+⋅
+⋅
++
+⋅
+=
+=
+ 
+ 
+3) During the collision, the modules of the interaction forces, FA, which exerts A over B 
+and FB, which the block exerts over sphere A, have the following relationship with each other: 
+a) FA ≠ 0 y FB = 0. 
+(b) FA >FB and both different from zero. 
+c) FA =FB = 0. 
+(d) FA =FB and both different from zero. 
+e) FB ≠ 0 y FA = 0. 
+ 
+4) The speed of block B immediately after impact is: 
+a)  
+l
+g ⋅
+⋅
+2
+ 
+b)  
+l
+g
+V
+⋅
+⋅
++ 2
+2
+0
+ 
+c)   
+0
+V  
+d)  
+h
+g
+V
+⋅
+⋅
++ 2
+2
+0
+ 
+e) 
+h
+g ⋅
+⋅
+2
+ 
+ 
+5) After the impact, block B shall reach a height y above the ramp, such that: 
+ 
+a)  
+l
+y =   
+ 
+b)  
+h
+y =
+ 
+c)  
+g
+V
+h
+y
+⋅
++
+=
+2
+2
+0
+  
+d)  
+g
+V
+y
+⋅
+= 2
+2
+0
+ 
+e)  
+g
+V
+l
+y
+⋅
++
+=
+2
+2
+0
+ 
+B. If the situation of this problem were to arise as shown in Figure (2), that is to say, block B
+slides at VB = 4 m/s, now, over a horizontal surface and crashes 
+elastically with the sphere A initially stopped and suspended by a thread of length l. Se  
+You know that after the impact this sphere reaches a height of h = 0.20 m. 
+ 
+ 
+A 
+h 
+Figure 2 
+B 
+mA = 5 kg. 
+mB = 2 kg. 
+
+Analytically solve the following items: 
+6) What is the module and direction of the velocity of block B after impact? 
+7) What is the value of the kinetic energy of the system after the collision between these 
+The body. 
+8) If block B applied a force to sphere A F = 15 N; how long did it take to 
+That the block stops? 
+9) Determines the momentum with which block B reacts after the collision. 
+10) Determines the acceleration acquired by the sphere.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p28_f1.png]]
+![[cuadernillo_2004_p29_f2.png]]
+<!--fig:end-->
+
+**Topic:** [[Conservation of Momentum]]
+**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Sphere (object)|Sphere]], [[Block (object)|Block]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q32" data-atom="q32" data-title="Argent 2004 Locale — Quesito 32" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/cylinder,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Recordando a Arquimedes**
+
+PT32. Río Segundo, Córdoba. Azul. 
+ 
+“Recordando a Arquímedes” 
+En el siglo III a.C., el gran filósofo, matemático y físico griego Arquímedes, al realizar cuidadosos 
+experimentos descubrió la manera de calcular el empuje ascendente que actúa en los cuerpos 
+sumergidos en líquidos. Sus conclusiones fueron expresadas en un enunciado que recibe el nombre de 
+principio de Arquímedes y cuyo texto es: “todo cuerpo sumergido en un líquido recibe un empuje 
+vertical hacia arriba, igual al peso del líquido desplazado por el cuerpo”. Este principio permite 
+calcular dicho empuje. 
+Comprueba este principio en el desarrollo de este problema. En el recipiente A de la figura 
+correspondiente a este problema, se ha colocado mercurio y en el recipiente B alcohol etílico. 
+ 
+ 
+El cilindro metálico, cuya base tiene un radio r = 1,78 cm y 8 cm de altura que flota en el recipiente A, 
+está sumergido una altura h = 6 cm. 
+En el segundo recipiente hay una caja de 37 cm de lado y 22 cm de ancho totalmente abierta en su 
+parte superior, en el interior de la misma se coloca un cuerpo de 2,35 kg y se hunde 12,3 cm. 
+ 
+Resolver: 
+a) ¿Qué valor tiene el empuje hidrostático ascendente sobre el cilindro del recipiente A?. 
+b) ¿Cuál es el valor de la densidad del cilindro?. 
+c) ¿De que material es el cilindro?. 
+d) ¿Cuál es el peso de la caja del recipiente B?. 
+e) Suponiendo que en el primer recipiente un cubo de hierro de 12,8 cm de arista está flotando 
+con una cara horizontal. Determina la porción del cubo que emerge en la superficie líquida.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p30_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+Ricordando Archimede
+
+PT32. Rio Segundo, Córdoba. Blu. 
+ 
+Ricordando Archimede
+Nel III secolo a.C., il grande filosofo, matematico e fisico greco Archimede, nel compiere accurati
+Gli esperimenti hanno scoperto come calcolare la spinta ascendente che agisce nei corpi.
+immersi in liquidi. Le sue conclusioni sono state espresse in un comunicato intitolato
+Principio di Archimede, il cui testo è: "Ogni corpo immerso in un liquido riceve un impulso.
+Verticale verso l'alto, pari al peso del liquido spostato dal corpo. Questo principio permette di
+calcolare tale impulso. 
+Verifica questo principio nello sviluppo di questo problema. In contenitore A della figura 
+In questo caso, il mercurio e l'alcol etilico sono stati inseriti nel recipiente B. 
+ 
+ 
+Il cilindro metallico, la cui base ha un raggio r = 1,78 cm e 8 cm di altezza che galleggia nel recipiente A, 
+è immerso un'altezza h = 6 cm. 
+Nel secondo contenitore c'è una scatola di 37 cm laterale e 22 cm di larghezza completamente aperta nel suo contenitore.
+La parte superiore, all'interno della stessa si colloca un corpo di 2,35 kg e si immerge di 12,3 cm. 
+ 
+Risolvere: 
+a) Qual è il valore della spinta idrostatica ascendente sul cilindro del recipiente A? 
+b) Qual è il valore della densità del cilindro? 
+c) Di che materiale è il cilindro? 
+d) Qual è il peso della scatola del contenitore B? 
+e) Supponendo che nel primo contenitore si stia galleggiando un cubo di ferro di 12,8 cm di spina
+con un volto orizzontale. Determina la porzione del cubo che emerge sulla superficie liquida.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p30_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+Remembering Archimedes and the other two
+
+PT32. The second river, Cordoba. Blue, please. 
+ 
+Remembering Archimedes 
+In the third century B.C., the great Greek philosopher, mathematician and physicist Archimedes, in carrying out careful
+Experiments discovered a way to calculate the upward thrust that acts on the bodies.
+submerged in liquids. Their conclusions were expressed in a statement entitled 
+Archimedes' principle, which is: "Every body submerged in a liquid receives a boost".
+vertical upwards, equal to the weight of the fluid displaced by the body. This principle allows
+calculate that thrust. 
+It tests this principle in the development of this problem. In container A of figure 
+In the case of the product concerned, mercury and ethyl alcohol have been placed in container B. 
+ 
+ 
+The metal cylinder, the base of which has a radius r = 1,78 cm and a height of 8 cm floating in container A, 
+It is submerged at a height of h = 6 cm. 
+In the second container there is a 37 cm side box and 22 cm wide box fully open in its
+The body is 2,35 kg and sinks 12,3 cm. 
+ 
+Solve: 
+(a) What is the upward hydrostatic thrust on the cylinder of container A? 
+(b) What is the density value of the cylinder? 
+(c) What material is the cylinder made of? 
+(d) What is the weight of the container box B? 
+(e) Assuming that in the first container an iron cube of 12.8 cm of edge is floating 
+with a horizontal face. Determine the portion of the cube that emerges on the liquid surface.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p30_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q33" data-atom="q33" data-title="Argent 2004 Locale — Quesito 33" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/kinetic-theory,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Interpretacion cinetica de la temperatura**
+
+PT33. Río Segundo, Córdoba. Azul. 
+ 
+“Interpretación cinética de la temperatura de los gases” 
+La temperatura  de un cuerpo se relaciona con la energía de agitación de los átomos y moléculas del 
+mismo. Ahora demostraremos cómo llegaron a esta conclusión los físicos del siglo pasado (quienes se 
+basaron en el modelo cinético de un gas). 
+ 
+H 
+h
+E
+p
+Recipiente A 
+Hg 
+Alcohol Etílico 
+Recipiente B 
+
+La expresión  
+2
+3
+1
+v
+m
+V
+N
+P
+⋅
+⋅⎟
+⎠
+⎞
+⎜
+⎝
+⎛⋅
+=
+ , que se había obtenido con base en el modelo cinético se puede 
+escribir: 
+2
+3
+1
+V
+m
+N
+V
+P
+⋅
+⋅
+⋅
+=
+⋅
+ 
+ 
+Comparándola con la ecuación de estado de un gas ideal: 
+T
+R
+n
+V
+P
+⋅
+⋅
+=
+⋅
+  , que se había obtenido 
+experimentalmente, se concluyó que: 
+ 
+T
+R
+n
+V
+m
+N
+⋅
+⋅
+=
+⋅
+⋅
+⋅
+2
+3
+1
+ 
+ 
+Pero, siendo N0 (constante de Avogadro) el número de moléculas que existe en 1 mol, y n el número 
+de moles que corresponde a N moléculas, es claro que: 
+N = n . N0 
+entonces: 
+T
+N
+R
+V
+m
+T
+R
+n
+V
+m
+N
+n
+⋅⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛⋅
+=
+⋅
+⇒
+⋅
+⋅
+=
+⋅
+⋅
+⋅
+⋅
+0
+2
+2
+0
+3
+3
+1
+ 
+ 
+Si se dividen ambos miembros por 2 la última igualdad, se tiene: 
+ 
+T
+N
+R
+V
+m
+⋅⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛⋅
+=
+⋅
+⋅
+0
+2
+2
+3
+2
+1
+ 
+ 
+El primer miembro de esta expresión representa la energía cinética media de las moléculas. Esta 
+energía está representada por 
+C
+E
+, o sea 
+2
+2
+1
+v
+m
+EC
+⋅
+⋅
+=
+.  
+El cociente 
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+0
+N
+R
+es constante, ya que R y N0 son constantes también. Este cociente es muy 
+importante, se representa por k y se denomina constante de Boltzmann, en honor a Ludwing 
+Boltzmann, físico austriaco del siglo XIX. 
+Se puede escribir ahora la expresión:  
+T
+k
+EC
+⋅
+⋅
+= 2
+3
+     donde    
+0
+N
+R
+k =
+ 
+que indica que la energía cinética media de las moléculas de un gas es directamente proporcional a su 
+temperatura absoluta. 
+ 
+a) Calcula el valor de la constante de Boltzmann. 
+b) Un recipiente contiene H2 a 27º C. ¿Cuál es la energía cinética mediante sus moléculas?. 
+c) ¿Cuál sería la ĒC de las moléculas de O2 a la misma temperatura anterior?. Justifique la 
+respuesta. 
+d) Sabiendo que la masa de una molécula de H2 es 3,3 . 10-27 kg; ¿cuál debe ser su velocidad para 
+que tenga una energía cinética igual al valor obtenido en b)?. 
+e) ¿Cuál sería la respuesta a la pregunta anterior si la molécula fuese de O2?.  
+ 
+ANEXO 
+Constante universal de los gases: 
+K
+mol
+Joule
+K
+mol
+cm
+atm
+K
+mol
+litro
+atm
+R
+⋅
+=
+⋅
+⋅
+=
+⋅
+⋅
+=
+31
+,8
+82
+082
+,0
+3
+ 
+
+Constante de Avogadro:  
+                                            6,02 . 1023  1/mol 
+ 
+TABLA DE PESOS ESPECÍFICOS ( ρ) y DE DENSIDADES (δ) 
+SUSTANCIA 
+δ :  kg 
+     dm3 
+ρ:  N 
+    dm3 
+SUSTANCIA 
+δ :  kg 
+     dm3 
+ρ:  N 
+    dm3 
+Aceite de oliva 
+Agua 
+Agua de mar 
+Alcohol etílico 
+Aluminio 
+Ámbar 
+Azúcar 
+Azufre 
+Caucho 
+Celuloide 
+Cinc 
+Cloruro 
+de 
+sodio 
+Cobre  
+corcho 
+0,92 
+1,0 
+1,02 
+0,79 
+2,7 
+1,01 
+1,6 
+2,1 
+0,9 
+1,4 
+7,15 
+2,1 
+8,5 
+0,22 
+9,02 
+9,8 
+9,96 
+7,74 
+26,5 
+9,9 
+15,7 
+20,6 
+8,8 
+13,7 
+70,1 
+20,6 
+83,3 
+2,2 
+Cuarzo 
+Estaño 
+Granito 
+Hielo  
+Hierro 
+Leche 
+Mercurio 
+Nafta 
+Níquel 
+Oro 
+Petróleo 
+Plata 
+Platino 
+Plomo 
+ 
+2,65 
+7,3 
+2,7 
+0,917 
+7,85 
+1,028 
+13,6 
+0,7 
+8,6 
+19,3 
+0,75 
+10,5 
+21,4 
+11,3 
+26,0 
+71,5 
+26,5 
+9,0 
+77,0 
+1,6 
+133,0 
+6,9 
+84,3 
+189,0 
+7,35 
+103,0 
+210,0 
+111,0 
+GASES Y VAPORES: t = 20º C y PRESIÓN ATMOSFÉRICA NORMAL 
+SUSTANCIA 
+δ : _g_ 
+       dm3 
+ρ:  N 
+       m3 
+SUSTANCIA 
+δ : _g_ 
+       dm3 
+ρ:  N 
+       m3 
+Aire  
+Cloro 
+Helio 
+Oxígeno 
+ 
+1,3 
+3,2 
+0,18 
+1,5 
+12,7 
+31,4 
+1,76 
+14,7 
+Amoníaco 
+Dióxido de 
+Carbono 
+Ácido 
+clorhídrico 
+ 
+0,77 
+1,98 
+ 
+1,64 
+7,25 
+19,4 
+ 
+16,1 
+ 
+ 
+Masa del O2: m = 53 . 10-27 kg.
+
+**Topic:** [[Kinetic Theory]]
+**Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Statistical Averaging (metodo)|Statistical Averaging]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Gas (object)|Gas]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Interpretazione cinetica della temperatura**
+
+PT33. Rio Segundo, Córdoba. Blu. 
+ 
+Interpretazione cinetica della temperatura dei gas 
+La temperatura di un corpo è correlata all'energia di agitazione degli atomi e delle molecole del corpo.
+- Proprio così. Ora mostreremo come sono arrivati a questa conclusione i fisici del secolo scorso (che si sono
+basati sul modello cinetico di un gas). 
+ 
+H 
+h
+E
+p
+Raccogliente A 
+Hg 
+Alcol etilico 
+Ricevente B 
+
+L'espressione 
+2
+3
+1
+v
+m
+V
+N
+P
+⋅
+⋅⎟
+⎠
+⎞
+⎜
+⎝
+⎛⋅
+=
+, che era stato ottenuto sulla base del modello cinetico si può 
+scrivere: 
+2
+3
+1
+V
+m
+N
+V
+P
+⋅
+⋅
+⋅
+=
+⋅
+ 
+ 
+Confrontandola con l'equazione di stato di un gas ideale: 
+T
+R
+n
+V
+P
+⋅
+⋅
+=
+⋅
+, che si era ottenuto 
+sperimentalmente, è stato concluso che: 
+ 
+T
+R
+n
+V
+m
+N
+⋅
+⋅
+=
+⋅
+⋅
+⋅
+2
+3
+1
+ 
+ 
+Ma, essendo N0 (constante di Avogadro) il numero di molecole che esiste in 1 mol, e n il numero 
+di mole che corrispondono a N molecole, è chiaro che: 
+N = n . N0 
+Allora: 
+T
+N
+R
+V
+m
+T
+R
+n
+V
+m
+N
+n
+⋅⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛⋅
+=
+⋅
+⇒
+⋅
+⋅
+=
+⋅
+⋅
+⋅
+⋅
+0
+2
+2
+0
+3
+3
+1
+ 
+ 
+Se i due membri vengono divisi per 2 l'ultima equazione, si ottiene: 
+ 
+T
+N
+R
+V
+m
+⋅⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛⋅
+=
+⋅
+⋅
+0
+2
+2
+3
+2
+1
+ 
+ 
+Il primo membro di questa espressione rappresenta l'energia cinetica media delle molecole. Questa è la mia .
+l'energia è rappresentata da 
+C
+E
+, cioè
+2
+2
+1
+v
+m
+EC
+⋅
+⋅
+=
+. 
+Il coefficiente 
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+0
+N
+R
+è costante, poiché R e N0 sono costanti anche. Questo tasso è molto alto.
+importante, è rappresentato da k e viene chiamato costante di Boltzmann, in onore di Ludwing 
+Boltzmann, fisico austriaco del XIX secolo. 
+Si può scrivere ora l'espressione:
+T
+k
+EC
+⋅
+⋅
+= 2
+3
+dove 
+0
+N
+R
+k =
+ 
+che indica che l'energia cinetica media delle molecole di un gas è direttamente proporzionale alla sua
+temperatura assoluta. 
+ 
+a) Calcola il valore della costante di Boltzmann. 
+b) Un contenitore contiene H2 a 27°C. Qual è l'energia cinetica attraverso le sue molecole? 
+(c) Qual è l'EC delle molecole di O2 alla stessa temperatura precedente? Giustifica la
+- Risposta. 
+d) Sapendo che la massa di una molecola di H2 è 3,3 . 10-27 kg; qual è la velocità di
+che abbia un'energia cinetica pari al valore ottenuto in (b)?. 
+e) Qual è la risposta alla domanda precedente se la molecola fosse di O2? 
+ 
+ANNEXO 
+Costante universale dei gas: 
+K
+Mol
+Joule
+K
+Mol
+cm
+ATM
+K
+Mol
+litro
+ATM
+R
+⋅
+=
+⋅
+⋅
+=
+⋅
+⋅
+=
+31
+,8
+82
+082
+,0
+3
+ 
+
+Costante di Avogadro: 
+                                            6,02 . 1023 1/mol 
+ 
+TABELLA DI PESSI SPECIFICI ( ρ) e DENSITÀ (δ)
+Sostanza 
+δ :  kg 
+     dm3 
+ρ:  N 
+    dm3 
+Sostanza 
+δ :  kg 
+     dm3 
+ρ:  N 
+    dm3 
+Olio d'oliva 
+Acqua
+Acqua di mare 
+Alcol etilico 
+Alumini
+Ambar 
+Zucchero
+Sulfuro
+- Cucca !
+Celuloide 
+Cinque .
+Cloruro
+de 
+sodio 
+Copro
+Cork 
+0,92 
+1,0 
+1,02 
+0,79 
+2,7 
+1,01 
+1,6 
+2,1 
+0,9 
+1,4 
+7,15 
+2,1 
+8,5 
+0,22 
+9,02 
+9,8 
+9,96 
+7,74 
+26,5 
+9,9 
+15,7 
+20,6 
+8,8 
+13,7 
+70,1 
+20,6 
+83,3 
+2,2 
+Quarto
+Stagno
+Granito
+Ghiaccio
+Ferro
+Il latte
+Mercurio
+Nafta 
+Nickel
+Oro .
+Olio
+- Silver
+Platino 
+Pilo
+ 
+2,65 
+7,3 
+2,7 
+0,917 
+7,85 
+1,028 
+13,6 
+0,7 
+8,6 
+19,3 
+0,75 
+10,5 
+21,4 
+11,3 
+26,0 
+71,5 
+26,5 
+9,0 
+77,0 
+1,6 
+133,0 
+6,9 
+84,3 
+189,0 
+7,35 
+103,0 
+210,0 
+111,0 
+GASSI E VAPRI: t = 20° C e PRESSORE ATOMOSFERICO NORMALE 
+Sostanza 
+δ : _g_ 
+       dm3 
+ρ:  N 
+       m3 
+Sostanza 
+δ : _g_ 
+       dm3 
+ρ:  N 
+       m3 
+- Aereo .
+Cloruro 
+Helio
+Oggene
+ 
+1,3 
+3,2 
+0,18 
+1,5 
+12,7 
+31,4 
+1,76 
+14,7 
+Ammonica
+Diossido di
+Carbone
+Acido 
+Cloridrico
+ 
+0,77 
+1,98 
+ 
+1,64 
+7,25 
+19,4 
+ 
+16,1 
+ 
+ 
+Massa dell ' O2: m = 53 . 10-27 kg.
+
+**Topic:** [[Kinetic Theory]]
+**Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Statistical Averaging (metodo)|Statistical Averaging]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Gas (object)|Gas]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following table shows the results of the calculation of the temperature of the product:
+
+PT33. The second river, Cordoba. Blue, please. 
+ 
+Kinetic interpretation of the temperature of the gases 
+The temperature of a body is related to the energy of agitation of the atoms and molecules of the body.
+I'm not. We will now show how the physicists of the last century (who were
+The two models were based on the kinetic model of a gas. 
+ 
+H 
+h
+E
+p
+Receiving A 
+Hg 
+Ethyl alcohol
+Receiving B
+
+The expression 
+2
+3
+1
+v
+m
+V
+N
+P
+⋅
+⋅⎟
+⎠
+⎞
+⎜
+⎝
+⎛⋅
+=
+, which had been obtained on the basis of the kinetic model can be 
+Write: 
+2
+3
+1
+V
+m
+N
+V
+P
+⋅
+⋅
+⋅
+=
+⋅
+ 
+ 
+Comparing it to the ideal gas state equation: 
+T
+R
+n
+V
+P
+⋅
+⋅
+=
+⋅
+, which had been obtained 
+Experimentally, it was concluded that: 
+ 
+T
+R
+n
+V
+m
+N
+⋅
+⋅
+=
+⋅
+⋅
+⋅
+2
+3
+1
+ 
+ 
+But, being N0 (Avogard's constant) the number of molecules that exist in 1 mol, and n the number 
+of molecules corresponding to N molecules, it is clear that: 
+N = n . N0 
+Then: 
+T
+N
+R
+V
+m
+T
+R
+n
+V
+m
+N
+n
+⋅⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛⋅
+=
+⋅
+⇒
+⋅
+⋅
+=
+⋅
+⋅
+⋅
+⋅
+0
+2
+2
+0
+3
+3
+1
+ 
+ 
+If both members are divided by 2 the last equation is: 
+ 
+T
+N
+R
+V
+m
+⋅⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛⋅
+=
+⋅
+⋅
+0
+2
+2
+3
+2
+1
+ 
+ 
+The first member of this expression represents the average kinetic energy of the molecules. This one .
+energy is represented by 
+C
+E
+I mean ,
+2
+2
+1
+v
+m
+EC
+⋅
+⋅
+=
+. 
+The coefficient 
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+0
+N
+R
+It's constant, because R and N0 are constant too. This ratio is very high.
+important, represented by k and named Boltzmann's constant, after Ludwing 
+Boltzmann, Austrian physicist of the 19th century. 
+You can now write the expression:
+T
+k
+EC
+⋅
+⋅
+= 2
+3
+Where 
+0
+N
+R
+k =
+ 
+which indicates that the average kinetic energy of a gas molecule is directly proportional to its
+absolute temperature is the temperature. 
+ 
+(a) Calculate the value of the Boltzmann constant. 
+(b) A container contains H2 at 27°C. What is the kinetic energy using your molecules? 
+(c) What would be the ĒC of O2 molecules at the same previous temperature? Justify the
+The answer. 
+d) Knowing that the mass of a molecule of H2 is 3.3 . 10-27 kg; what should be your speed for 
+having a kinetic energy equal to the value obtained in (b)?. 
+(e) What would be the answer to the previous question if the molecule were O2? 
+ 
+The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Universal gas constant: 
+K
+Other
+Joule
+K
+Other
+cm
+Other
+K
+Other
+Other
+Other
+R
+⋅
+=
+⋅
+⋅
+=
+⋅
+⋅
+=
+31
+,8
+82
+082
+,0
+3
+ 
+
+Avogadro's constant is 
+                                            6,02 . 1023 1/mol 
+ 
+Table of specific weights ( ρ) and densities (δ) 
+Substance 
+δ :  kg 
+     dm3 
+ρ:  N 
+    dm3 
+Substance 
+δ :  kg 
+     dm3 
+ρ:  N 
+    dm3 
+Olive oil 
+Water
+Sea water 
+Ethyl alcohol
+Aluminium
+Ambar .
+Sugar
+Sulphur .
+Shot .
+Celluloid 
+Five .
+Chlorine
+de 
+Sodium
+Copper
+Cork
+0,92 
+1,0 
+1,02 
+0,79 
+2,7 
+1,01 
+1,6 
+2,1 
+0,9 
+1,4 
+7,15 
+2,1 
+8,5 
+0,22 
+9,02 
+9,8 
+9,96 
+7,74 
+26,5 
+9,9 
+15,7 
+20,6 
+8,8 
+13,7 
+70,1 
+20,6 
+83,3 
+2,2 
+Fourth .
+I 'm a tin man .
+Granite .
+Ice .
+Iron .
+Milk .
+Mercury .
+The NAFTA
+Nickel .
+Gold .
+Oil .
+Silver .
+Platinum .
+Lead
+ 
+2,65 
+7,3 
+2,7 
+0,917 
+7,85 
+1,028 
+13,6 
+0,7 
+8,6 
+19,3 
+0,75 
+10,5 
+21,4 
+11,3 
+26,0 
+71,5 
+26,5 
+9,0 
+77,0 
+1,6 
+133,0 
+6,9 
+84,3 
+189,0 
+7,35 
+103,0 
+210,0 
+111,0 
+Gases and vapours: t = 20°C and NO atmospheric pressure 
+Substance 
+δ : _g_ 
+       dm3 
+ρ:  N 
+       m3 
+Substance 
+δ : _g_ 
+       dm3 
+ρ:  N 
+       m3 
+Air .
+Chlorine
+Helium .
+Oxygen .
+ 
+1,3 
+3,2 
+0,18 
+1,5 
+12,7 
+31,4 
+1,76 
+14,7 
+Ammonium .
+Dioxide of 
+Carbon
+Acid 
+Hydrochloric acid
+ 
+0,77 
+1,98 
+ 
+1,64 
+7,25 
+19,4 
+ 
+16,1 
+ 
+ 
+Mass of O2 . m = 53 . 10-27 kg.
+
+**Topic:** [[Kinetic Theory]]
+**Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Statistical Averaging (metodo)|Statistical Averaging]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Gas (object)|Gas]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q34" data-atom="q34" data-title="Argent 2004 Locale — Quesito 34" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,topic/gravitation,argomento/gravitazione-e-astrofisica,difficolta/2,multidisciplina/mono,object/satellite,object/planet"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Satelite de comunicaciones en orbita**
+
+PT34. Ciudad de Córdoba. Azul. 
+ 
+Un satélite de comunicaciones cuya masa es de 100 kg se encuentra orbitando a 180 km de la corteza 
+terrestre. 
+a) Calcular la velocidad tangencial necesaria. 
+b) Calcular el período del satélite (en horas). 
+c) Calcular el valor de la aceleración de la gravedad sobre el satélite. 
+d) Si la masa del satélite fuera mayor, explicar si alguno/s e los cálculos anteriores sufrirían 
+alguna modificación. 
+(Datos: G = 6,67 x 10-11 N m2/kg2; Masa de la Tierra: 5,96 x 1024kg; Radio terrestre: 6370 km)
+
+**Topic:** [[Gravitation]]
+**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kepler's Laws (metodo)|Kepler's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Satellite di comunicazione in orbita**
+
+PT34. Città di Córdoba. Blu. 
+ 
+Un satellite di comunicazione di massa di 100 kg si trova in orbita a 180 km dalla corteccia.
+terrestri. 
+a) Calcolare la velocità tangenziale necessaria. 
+b) Calcolare il periodo del satellite (in ore). 
+c) Calcolare il valore dell'accelerazione della gravità sul satellite. 
+d) Se il satellite avesse una massa maggiore, spiegare se uno/s e i precedenti calcoli sarebbero stati colpiti 
+qualche modifica. 
+(Dati: G = 6,67 x 10-11 N m2/kg2; Massa della Terra: 5,96 x 1024kg; Radio terrestre: 6370 km)
+
+**Topic:** [[Gravitation]]
+**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kepler's Laws (metodo)|Kepler's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following information shall be provided:
+
+PT34. The city of Cordoba. Blue, please. 
+ 
+A communications satellite with a mass of 100 kg is orbiting 180 km from the crust.
+The land. 
+(a) Calculate the required tangential velocity. 
+(b) Calculate the period of the satellite (in hours). 
+(c) Calculate the value of gravitational acceleration over the satellite. 
+(d) If the mass of the satellite were greater, explain whether any of the above calculations would be affected 
+some modification. 
+(Data: G = 6,67 x 10-11 N m2/kg2; Earth mass: 5,96 x 1024kg; radius of the earth: 6370 km)
+
+**Topic:** [[Gravitation]]
+**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kepler's Laws (metodo)|Kepler's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q35" data-atom="q35" data-title="Argent 2004 Locale — Quesito 35" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor,object/battery"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Circuito con amperimetro y voltimetro**
+
+PT35. Ciudad de Córdoba. Azul. 
+ 
+El circuito de la figura se encuentra conectado a una 
+fuente de 12 V. Se pide determinar 
+a) Lectura 
+del 
+Amperímetro 
+y 
+Voltímetro 
+indicados. 
+b) Potencia de la resistencia 2. 
+
+c) Calor disipado en dicha resistencia en 10 minutos, si se supone que transforma el 100% 
+d) Costo de la energía consumida por todo el circuito en 60 días, si se supone un funcionamiento 
+de 2 horas diarias. (tener en cuenta: 500 kw.h cuestan $ 100).
+
+
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Circuito con ampere e voltometri**
+
+PT35. Città di Córdoba. Blu. 
+ 
+Il circuito della figura è collegato a una
+fonte di 12 V. Si chiede di determinare 
+a) Leggere 
+di cui al
+Perimetro 
+y 
+Voltímetro
+indicati. 
+b) Potenza di resistenza 2. 
+
+c) Calore dissipato in tale resistenza in 10 minuti, se è supposto di trasformare il 100% 
+d) Costo dell'energia consumata per tutto il circuito in 60 giorni, se si prevede un funzionamento 
+di due ore al giorno. (nota: 500 kw.h costano 100 dollari).
+
+
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Ampere and voltmeter circuit**
+
+PT35. The city of Cordoba. Blue, please. 
+ 
+The circuit in the figure is connected to a 
+12 V power source It is asked to determine 
+(a) Reading 
+of the 
+The perimeter 
+y 
+The voltmeter
+the following: 
+(b) Resistance power 2. 
+
+(c) Heat dissipated in such resistance within 10 minutes if it is assumed to transform 100% 
+(d) The cost of the energy consumed by the entire circuit in 60 days, if an operation is assumed 
+Two hours a day. (Note: 500 kw.h costs $100).
+
+
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q36" data-atom="q36" data-title="Argent 2004 Locale — Quesito 36" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/cart"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Carrito en montana rusa**
+
+PT36. Ciudad de Córdoba. Azul. 
+ 
+Un carrito de masa 100 kg se deja deslizar por la montaña rusa de la figura. 
+a) Calcular las velocidades y alturas indicadas, suponiendo nulo el rozamiento. 
+b) Si el coeficiente de rozamiento cinético fuera 0,25 y la longitud del recorrido 80 m., ¿podría 
+llegar hasta la posición D? (Suponer constante N=0,5 Peso) 
+c) Explicar qué cambiaría en las respuestas anteriores si sobre el carrito se sube una gorda de  
+100 kg.
+
+
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Cart (object)|Cart]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Carrito in montagna russa**
+
+PT36. Città di Córdoba. Blu. 
+ 
+Un carrello di massa di 100 kg viene lasciato scivolare sulla montagna russa della figura. 
+a) Calcolare le velocità e le altezze indicate, assumendo che il ruggine sia nullo. 
+b) Se il coefficiente di rottura cinetica fosse di 0,25 e la lunghezza del percorso fosse di 80 m, potresti 
+Arrivare alla posizione D? (Suppone costante N=0,5 Peso) 
+c) spiegare cosa cambierebbe nelle risposte precedenti se si saliva su un carrello di
+100 kg.
+
+
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Cart (object)|Cart]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following is the list of the Member States' official languages of the European Union:
+
+PT36. The city of Cordoba. Blue, please. 
+ 
+A 100 kg weight cart is allowed to slide over the figure's roller coaster. 
+(a) Calculate the indicated speeds and heights, assuming zero friction. 
+(b) If the kinetic friction coefficient were 0.25 and the length of the route 80 m, could 
+Get to position D? (Assuming constant N=0.5 Weight) 
+(c) Explain what would change in the previous answers if a fat of 
+100 kg.
+
+
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Cart (object)|Cart]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q37" data-atom="q37" data-title="Argent 2004 Locale — Quesito 37" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block,object/inclined-plane"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Cuerpo en rampa con friccion**
+
+PT37. Resistencia, Chaco. Verde. 
+ 
+En la figura se observa un cuerpo de 29,4 N de peso que se desliza hacia abajo por una rampa en un 
+muelle. La rampa mide 1 m de largo y tiene una inclinación de 30º. El cuerpo, inicialmente en reposo, 
+comienza a descender, experimentando una fuerza de fricción constante cuyo módulo es de 5 N y 
+continúa desplazándose una corta distancia sobre el suelo plano. 
+a) Utilizando 
+la 
+segunda 
+ley 
+de 
+Newton y las ecuaciones de la 
+cinemática calcule la velocidad del 
+cuerpo cuando llega al punto 
+inferior de la rampa. 
+b) Suponiendo que no existiera fricción 
+calcular la velocidad final del 
+cuerpo y su aceleración a lo largo de 
+la rampa. 
+c) Utilizando métodos de energía, calcule la velocidad del cuerpo al alcanzar el punto inferior de 
+la rampa. 
+d) Esquematizar las fuerzas que actúan sobre el cuerpo y calcular el trabajo que realiza cada una 
+de las fuerzas y el trabajo neto realizado por las mismas.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p34_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Corpo in rampa a friczione**
+
+PT37. Resistenza, Chaco. Verde. 
+ 
+La figura mostra un corpo di 29,4 N di peso che si scivola verso il basso su una rampa in una
+- Il molo. La rampa è lunga 1 m e ha un'inclinazione di 30°. Il corpo, inizialmente a riposo,
+inizia a scendere, sperimentando una forza di attrito costante il cui modulo è di 5 N e 
+continua a spostarsi a breve distanza sul terreno piatto. 
+a) L'uso di 
+la 
+secondo .
+Legge 
+de 
+Newton e le equazioni di
+la velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di
+corpo quando arriva al punto
+inferiore alla rampa. 
+b) Supponendo che non ci fosse attrito 
+Calcolare la velocità finale del 
+corpo e la sua accelerazione lungo 
+- Il ramp. 
+c) Calcolare la velocità del corpo raggiungendo il punto inferiore di energia.
+- Il ramp. 
+d) Squematizzare le forze che agiscono sul corpo e calcolare il lavoro svolto da ciascuna.
+La Commissione ha adottato una decisione che prevede che il Consiglio di esecuzione del Consiglio, in base alle disposizioni del regolamento (CE) n.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p34_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Friction body on ramp**
+
+PT37. Resistance, Chaco. What is it? Green, please. 
+ 
+In the figure we see a body of 29.4 N weighing downwards through a ramp in a
+Dock. The ramp is 1 m long and has a slope of 30°. The body, initially at rest,
+It starts to descend, experiencing a constant friction force whose modulus is 5 N and 
+continues to move a short distance above the flat ground. 
+(a) Using 
+la 
+Second 
+law 
+de 
+Newton and the equations of the
+The kinematics calculates the speed of the 
+body when it gets to the point.
+lower of the ramp. 
+(b) Assuming there was no friction 
+calculate the final speed of the 
+body and its acceleration along the length of 
+the ramp. 
+(c) Using energy methods, calculate the body speed at the bottom of the
+the ramp. 
+(d) Schematize the forces acting on the body and calculate the work each performs.
+The Commission has already taken a number of measures to ensure that the Community's financial resources are adequately used.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p34_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q38" data-atom="q38" data-title="Argent 2004 Locale — Quesito 38" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/projectile"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Tiro oblicuo desde edificio**
+
+PT38. Resistencia, Chaco. Verde. 
+ 
+Desde la terraza de un edificio de 45 m de altura 
+se lanza un cuerpo hacia arriba formando un 
+ángulo de 30º con la horizontal y con una 
+velocidad de 10 m/s. Calcular: 
+ 
+a) ¿cuánto tiempo permanece el cuerpo en 
+el aire? 
+
+b) ¿con qué velocidad golpea el suelo? 
+c) ¿a qué distancia de la base del edificio cae el cuerpo? 
+d) ¿con qué velocidad habría que lanzarlo para que el mismo alcance una distancia dos veces 
+mayor?
+
+
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Projectile (object)|Projectile]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Purto oblicuo dal palazzo**
+
+PT38. Resistenza, Chaco. Verde. 
+ 
+Dal terrazzo di un edificio alto 45 metri
+Si lancia un corpo verso l'alto formando un
+angolo di 30° con la linea orizzontale e con una 
+velocità di 10 m/s. Calcolare: 
+ 
+a) Quanto tempo il corpo rimane in
+l'aria? 
+
+b) a che velocità colpisce il suolo? 
+c) a che distanza dalla base del edificio cade il corpo? 
+d) a che velocità dovrebbe essere lanciato per raggiungere una distanza duplice 
+- Maio?
+
+
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Projectile (object)|Projectile]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Oblique shooting from the building**
+
+PT38. Resistance, Chaco. What is it? Green, please. 
+ 
+From the terrace of a 45-meter-high building .
+It throws a body upwards forming a
+angle of 30° with the horizontal and with a 
+speed of 10 m/s. Calculation: 
+ 
+(a) how long the body stays in
+the air? 
+
+(b) how fast does it hit the ground? 
+(c) how far from the base of the building does the body fall? 
+(d) how fast would it have to be launched to reach a distance twice?
+- What?
+
+
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Projectile (object)|Projectile]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q39" data-atom="q39" data-title="Argent 2004 Locale — Quesito 39" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor,object/switch"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Circuito con interruptores y amperimetro**
+
+PT39. Resistencia, Chaco. Verde. 
+ 
+En el circuito de la figura, determine cuál será el valor que se lee en el amperímetro y cuál será la 
+corriente que circula por la corriente cuando: 
+a) S1 está cerrada 
+b) S2 está cerrada 
+c) S1 y S2 están cerradas
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p35_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Circuito con interruttori e ampere **
+
+PT39. Resistenza, Chaco. Verde. 
+ 
+Nel circuito della figura, determina quale sarà il valore che si legge sull'ampimetro e quale sarà la
+corrente che circola attraverso il corrente quando: 
+a) S1 è chiuso 
+b) S2 è chiuso 
+c) S1 e S2 sono chiuse
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p35_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Circuit with switches and ampere **
+
+PT39. Resistance, Chaco. What is it? Green, please. 
+ 
+In the circuit of the figure, determine what the value will be read on the ampere and what the 
+current circulating through the current when: 
+(a) S1 is closed 
+(b) S2 is closed 
+(c) S1 and S2 are closed
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p35_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q40" data-atom="q40" data-title="Argent 2004 Locale — Quesito 40" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/ball"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Dos pelotas desde un rascacielos**
+
+PT40. Ciudad de Formosa. Azul. 
+ 
+Una pelota se deja caer desde la ventana de un rascacielo y 2seg. después se arroja verticalmente hacia 
+abajo una segunda pelota. ¿Cuál será la velocidad inicial de la segunda pelota si alcanza a la primera 
+justo antes de tocar el suelo 400m abajo?
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Ball (object)|Ball]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+Due palline da un palazzo
+
+PT40. Città di Formosa. Blu. 
+ 
+Una palla viene lasciata cadere dalla finestra di un palazzo e 2 secondi. Poi si lancia verticalmente verso
+- Un secondo pallone. Qual è la velocità iniziale della seconda palla se raggiunge la prima?
+Proprio prima di toccare il terreno 400 metri sotto?
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Ball (object)|Ball]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+Two balls from a skyscraper
+
+PT40. The city of Formosa. Blue, please. 
+ 
+A ball is dropped from a skyscraper window and 2 seconds. Then it throws vertically towards the
+Down a second ball. What will be the initial speed of the second ball if it hits the first one?
+Just before you hit the ground 400 meters down?
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Ball (object)|Ball]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q41" data-atom="q41" data-title="Argent 2004 Locale — Quesito 41" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/lens"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Lente convergente: imagen 4x**
+
+PT41. Ciudad de Formosa. Azul. 
+ 
+A qué distancia de una lente convergente de 8cm de distancia focal se debe colocar un objeto para 
+obtener una imagen 4 (cuatro) veces mayor? 
+ 
+a) Realizar la gráfica de la marcha de rayos.
+
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Lens (object)|Lens]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Lente convergente: immagine 4x**
+
+PT41. Città di Formosa. Blu. 
+ 
+A che distanza da un obiettivo convergente di 8 cm di distanza focale si deve posizionare un oggetto per 
+ottenere un'immagine 4 volte maggiore? 
+ 
+a) Realizzare il grafico della corsa dei raggi.
+
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Lens (object)|Lens]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following table shows the results of the calculation of the total value of the input:
+
+PT41. The city of Formosa. Blue, please. 
+ 
+How far from a convergent lens of 8 cm focal length should an object be placed to 
+Get a picture four times as big? 
+ 
+(a) To draw the graph of the speed of lightning.
+
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Lens (object)|Lens]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q42" data-atom="q42" data-title="Argent 2004 Locale — Quesito 42" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/point-charge"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Ley de Coulomb y cargas en linea**
+
+PT42. Ciudad de Formosa. Azul. 
+ 
+a) De acuerdo con la ley de Coulomb, la fuerza entre dos cargas es: 
+- Proporcional al producto de éstas. 
+- Inversamente proporcional al cuadrado de la distancia que las separa. 
+- Proporcional al cuadrado que las separa. 
+- Inversamente proporcional al cuadrado de las cargas. 
+ 
+b) Tres cargas puntuales +q1, -q2 y +q3 están espaciadas a lo largo de una recta tal como se indica en la 
+fig. Si los valores de q1 y q2 son iguales, cuál habrá de ser el valor de q3 para la fuerza neta sobre q1 sea 
+cero?
+
+
+
+**Topic:** [[Electrostatics]]
+**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Superposition Principle (metodo)|Superposition Principle]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Point Charge (object)|Point Charge]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Legge di Coulomb e carichi online**
+
+PT42. Città di Formosa. Blu. 
+ 
+a) Secondo la legge di Coulomb, la forza tra due carichi è: 
+- Proporzionale al prodotto di questi. 
+- Inversamente proporzionale al quadrato della distanza che li separa. 
+- Proporzionale al quadrato che li separa. 
+- Inversamente proporzionale al quadrato delle cariche. 
+ 
+b) Tre carichi puntiali +q1, -q2 e +q3 sono spaziati lungo una linea retta come indicato in 
+fig. Se i valori di q1 e q2 sono uguali, quale sarà il valore di q3 per la forza netta su q1
+- Zero?
+
+
+
+**Topic:** [[Electrostatics]]
+**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Superposition Principle (metodo)|Superposition Principle]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Point Charge (object)|Point Charge]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Coulomb law and online charges**
+
+PT42. The city of Formosa. Blue, please. 
+ 
+(a) According to Coulomb's law, the force between two charges is: 
+- Proportional to the product of these. 
+- Inverse proportional to the square of the distance between them. 
+- Proportional to the square that separates them. 
+- Inverse proportional to the square of the charges. 
+ 
+(b) Three point loads +q1, -q2 and +q3 are spaced along a straight line as indicated in the 
+Fig. If the values of q1 and q2 are equal, what will be the value of q3 for the net force over q1 being 
+What is it?
+
+
+
+**Topic:** [[Electrostatics]]
+**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Superposition Principle (metodo)|Superposition Principle]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Point Charge (object)|Point Charge]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q43" data-atom="q43" data-title="Argent 2004 Locale — Quesito 43" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono,object/pendulum"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Pendulo soltado a 30 grados**
+
+PT43. San Salvador de Jujuy. Azul y Verde. 
+ 
+Un péndulo de 1m de longitud está amarrado en 
+lo alto de una alacena y está inicialmente 
+mantenido formando un ángulo de 30º con la 
+vertical. 
+Al soltarse el péndulo ¿Cuál será el ángulo α que 
+la cuerda formará con la vertical cuando la masa 
+suspendida alcance el punto más alto, bajo la 
+alacena? Desprecie los efectos de la fricción.
+
+
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Pendulum (object)|Pendulum]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Pendela rilasciata a 30 gradi**
+
+PT43. San Salvatore di Jujuy. Blu e verde. 
+ 
+Un pendolo di 1m di lunghezza è attaccato a
+l'altezza di un'alacena e è inizialmente 
+mantenuto a un angolo di 30° con la
+Verticale. 
+Quando si lascia scendere il pendolo, quale sarà l'angolo α che 
+la corda si forma con la verticale quando la massa
+Sospeso raggiunge il punto più alto, sotto la
+- Laccina? Sprezzate gli effetti della friczione.
+
+
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Pendulum (object)|Pendulum]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Pendal released at 30 degrees**
+
+PT43. San Salvador de Jujuy. He was a great man. Blue and Green. 
+ 
+A 1m long pendulum is attached to the
+The height of a lapel and is initially 
+held at an angle of 30° with the 
+vertical. 
+When the pendulum is released, what angle will be α that 
+The rope will form with the vertical when the mass 
+Suspended reach the highest point, below the 
+- What? You despise the effects of friction.
+
+
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Pendulum (object)|Pendulum]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q44" data-atom="q44" data-title="Argent 2004 Locale — Quesito 44" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/block,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Bloque sumergido y balanzas**
+
+PT44. San Salvador de Jujuy. Azul y Verde. 
+ 
+Un bloque A cuelga de una balanza de resorte B y se sumerge en un líquido contenido en un 
+recipiente. El peso de dicho recipiente es de 1kg y el peso del líquido es de 1,5kg. El bloque tiene un 
+volumen de 0,004m3. 
+La balanza B indica 2,5kg y la balanza C indica 7,5kg. Determinar: 
+a) El peso específico del líquido 
+b) La indicación de cada balanza en caso de que el bloque fuera retirado del líquido.
+
+
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Blocco immerso e bilanci**
+
+PT44. San Salvatore di Jujuy. Blu e verde. 
+ 
+Un blocco A si appende a una bilancia di resortimento B e si immerge in un liquido contenuto in un 
+contenitore. Il peso di tale recipiente è di 1 kg e il peso del liquido è di 1,5 kg. Il blocco ha un
+volume di 0,004 m3. 
+La bilancia B indica 2,5 kg e la bilancia C indica 7,5 kg. Determinare: 
+a) Il peso specifico del liquido 
+b) Indicazione di ogni bilanciatore in caso di rimozione del blocco dal liquido.
+
+
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Submerged block and balances**
+
+PT44. San Salvador de Jujuy. He was a great man. Blue and Green. 
+ 
+A block A hangs from a spring scale B and is immersed in a liquid contained in a
+container. The weight of the container is 1 kg and the weight of the liquid is 1,5 kg. The block has a
+The volume of the product shall be 0,004 m3. 
+The B scale indicates 2,5 kg and the C scale indicates 7,5 kg. Determine: 
+(a) The specific weight of the liquid 
+(b) Indication of each balance in case the block was removed from the liquid.
+
+
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q45" data-atom="q45" data-title="Argent 2004 Locale — Quesito 45" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/switch"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Resistencia equivalente con interruptor**
+
+PT45. San Salvador de Jujuy. Azul y Verde. 
+La resistencia entre los puntos a y b ( la resistencia equivalente del circuito) se reduce a la mitad de su 
+valor original cuando el interruptor S se cierra. Determinar el valor de R
+
+
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Resistenza equivalente con interruttore**
+
+PT45. San Salvatore di Jujuy. Blu e verde. 
+La resistenza tra i punti a e b (resistenza equivalente del circuito) viene ridotta a metà del suo 
+valore originale quando si chiude il interruttore S. Determinare il valore di R
+
+
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following shall be added to the list of the following:
+
+PT45. San Salvador de Jujuy. He was a great man. Blue and Green. 
+The resistance between points a and b (the equivalent resistance of the circuit) is reduced to half its 
+the original value when the S switch is closed. Determine the value of R
+
+
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q46" data-atom="q46" data-title="Argent 2004 Locale — Quesito 46" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Persecucion automovil-motocicleta**
+
+PT46. Dos de Mayo, Misiones. Azul. 
+ 
+Un automóvil va a una velocidad constante de 20 m/s, pasa frente a un agente de tránsito que empieza 
+a seguirlo en su motocicleta, pues en ese lugar la velocidad es de 18 m/s. El agente inicia su 
+persecución 4 s después de que pasa el automóvil, partiendo de reposo y continuando con aceleración 
+constante alcanza al automovilista a 3600 m del lugar de donde partió. 
+a) ¿Durante cuanto tiempo se movió el vehículo desde el instante en que pasó frente al policía 
+hasta que fue alcanzado? 
+b) ¿Cuánto tiempo gastó el policía en su persecución? 
+c) ¿Cuál fue la aceleración del motociclista?
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Perseguizione auto-motore**
+
+PT46. Due maggio, missioni. Blu. 
+ 
+Un'auto va a una velocità costante di 20 m/s, passa davanti ad un agente di traffico che inizia
+Per seguire la moto, la velocità è di 18 m/s. L' agente inizia il suo
+4 s dopo che la macchina passa, partendo da un riposo e continuando ad accelerare 
+Il veicolo è sempre stato raggiunto a 3.600 metri dal luogo di partenza. 
+a) Per quanto tempo il veicolo si è spostato dall'istante in cui è passato davanti alla polizia?
+- Finché non fu raggiunto? 
+b) Quanto tempo ha speso il poliziotto per perseguirlo? 
+c) Qual è stata l'accelerazione del motociclista?
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009.
+
+PT46. May 2nd, missions. Blue, please. 
+ 
+A car goes at a constant speed of 20 m/s, passes a traffic agent that starts
+to follow him on his motorcycle, because in that place the speed is 18 m/s. The agent starts his .
+chase 4 s after the car passes, starting from rest and continuing acceleration 
+constantly reaching the driver at 3600 m from where it started. 
+(a) How long has the vehicle moved since it passed in front of the police?
+until he was hit? 
+(b) How long did the police spend chasing him? 
+(c) What was the motorcyclist's acceleration?
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q47" data-atom="q47" data-title="Argent 2004 Locale — Quesito 47" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono,object/projectile"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Maceta lanzada desde el cuarto piso**
+
+PT47. Dos de Mayo, Misiones. Azul. 
+ 
+Desde el cuarto piso de un edificio se lanza una maceta con tierra, cuya masa es de 5 Kg. Sabiendo 
+que la separación entre piso y piso es 2,5 m y el primer piso se encuentra a 3 m de altura de la planta 
+baja. 
+Averiguar: 
+a) ¿Cuál es el tiempo que llevó la maceta al llegar al suelo? 
+b) ¿Qué velocidad adquirió desde el momento en que fue lanzada hasta el momento del impacto? 
+c) ¿Con qué energía cinética golpeará el suelo? 
+d) ¿Cuál fue la potencia desarrollada en el proceso?
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Projectile (object)|Projectile]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Macetta lanciata dal quarto piano**
+
+PT47. Due maggio, missioni. Blu. 
+ 
+Dal quarto piano di un edificio viene lanciato un vaso di terra, il cui peso è di 5 Kg. Sapendo
+che la distanza tra piano e piano è di 2,5 m e il primo piano si trova a 3 m di altezza dal piano 
+- Scendi. 
+Scopri:
+a) Quanto tempo ha impiegato il vaso per arrivare al suolo? 
+b) Qual è la velocità che ha acquisito dal momento in cui è stato lanciato al momento dell'impatto? 
+c) Con quale energia cinetica colpisce il suolo? 
+d) Qual è stata la potenza sviluppata nel processo?
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Projectile (object)|Projectile]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Macet thrown from the fourth floor**
+
+PT47. May 2nd, missions. Blue, please. 
+ 
+From the fourth floor of a building a pot of earth is thrown, weighing 5 kg. Knowing 
+The floor-to-floor separation is 2.5 m and the first floor is 3 m above the floor.
+Get down there. 
+Find out: 
+(a) How long did the pot take to reach the ground? 
+(b) What speed did it gain from the moment it was launched to the moment of impact? 
+(c) With what kinetic energy will it hit the ground? 
+(d) What was the power developed in the process?
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Projectile (object)|Projectile]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q48" data-atom="q48" data-title="Argent 2004 Locale — Quesito 48" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Hierro en recipiente con agua (mezcla)**
+
+PT48. Dos de Mayo, Misiones. Azul. 
+ 
+En un recipiente de hierro de 40 g que contiene 180 g de agua a 15º C se agrega 70 g de hierro a    
+180º F. 
+a) Expresar la temperatura del hierro en ºC 
+b) Hallar la temperatura resultante sin considerar el recipiente. 
+c) Hallar la temperatura resultante considerando el recipiente.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Calorimeter (object)|Calorimeter]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Iro in recipiente con acqua (miscela) **
+
+PT48. Due maggio, missioni. Blu. 
+ 
+In un recipiente di ferro di 40 g contenente 180 g di acqua a 15 °C si aggiungono 70 g di ferro a 
+180º F. 
+a) Esprimere la temperatura del ferro in oC 
+b) Calcolare la temperatura risultante senza considerare il recipiente. 
+c) Calcolare la temperatura risultante considerando il recipiente.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Calorimeter (object)|Calorimeter]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Iron in containers with water (mixture) **
+
+PT48. May 2nd, missions. Blue, please. 
+ 
+In a 40 g iron container containing 180 g of water at 15 °C, 70 g of iron is added to 
+180º F. 
+(a) Express the temperature of iron in oC 
+(b) Find the resulting temperature without considering the container. 
+(c) Find the resulting temperature by considering the container.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Calorimeter (object)|Calorimeter]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q49" data-atom="q49" data-title="Argent 2004 Locale — Quesito 49" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/mono,object/block,object/inclined-plane"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Aprendiendo Snowboard con Malapata**
+
+PT49. San Carlos de Bariloche, Río Negro. Azul y Verde. 
+ 
+Aprendiendo Snowboard con Malapata. 
+Aprovechando la buena temporada de nieve en el cerro Catedral, nuestro amigo, el ingeniero 
+Malapata, decide hacer sus primeras incursiones en el snowboard, y por ello se dirige a la pista 
+preparada especialmente para principiantes. Dicha pista consiste en un tramo AB con una pendiente de 
+260 m de largo y un desnivel de 45 m, que empalma suavemente con un tramo horizontal BC cuya 
+longitud es de 40 m para luego enfrentar el ascenso de una pendiente CD que forma un ángulo de 37º 
+con la horizontal y sube una altura de 25 m. Aquellos principiantes que se atrevan podrán realizar un 
+salto desde D para caer en E sobre una superficie horizontal. (ver figura). 
+ 
+Nuestro amigo Malapata, con su tabla muy encerada, se deja deslizar partiendo del reposo en A. 
+Suponiendo que la fricción entre la tabla y la nieve es despreciable, al igual que el rozamiento con el 
+aire, se pide: 
+a) Determinar la velocidad con que recorre el tramo BC. 
+b) Determinar la velocidad con que llega al punto D. 
+
+c) Encontrar el tiempo de vuelo entre D y E, y la distancia horizontal entre D y E, (alcance). 
+Debido a su traumática primer experiencia, decide asesorarse para hacer friccionar su tabla con la 
+nieve pero solamente lo logra en el tramo horizontal BC. Dado que el coeficiente de fricción en ese 
+tramo BC es µ = 0,25 y además su masa es de 78 kg mientras que la tabla es de 2 kg, se pide: 
+d) Calcular el alcance. 
+No conforme con su segunda traumática experiencia por el golpe (aunque de menor intensidad que en 
+el primer caso) decide hacer friccionar su tabla contra la nieve en todo su recorrido, con el objetivo de 
+detenerse en el punto D y evitar el salto DE que no dominaba correctamente y por ende se golpeaba 
+contra el piso en E. Para este caso se pide: 
+e) Determinar el coeficiente de rozamiento mínimo que haría que se detenga en D, considerando 
+que existe fricción en todo el trayecto. 
+Feliz de haber logrado con éxito su objetivo se pregunta: 
+f) Suponiendo que todo el calor generado en la fricción se utilizara para calentar la nieve, 
+¿cuántos gramos de agua líquida se obtendrían, si la temperatura de la nieve es de 0º C y el 
+calor latente de fusión de la misma es de 80 cal / g. 
+Datos: utilizar:  
+g = 10 m / s2 
+ 
+ 
+ 
+1 cal = 4,182 J
+
+
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Imparare Snowboard con Malapata**
+
+PT49. San Carlo di Bariloche, Rio Negro. Blu e verde. 
+ 
+Imparando Snowboard con Malapata. 
+Sfruttando la buona stagione di neve sulla collina della cattedrale, il nostro amico, l'ingegnere
+Malapata, decide di fare le sue prime incursioni sul snowboard, e quindi si dirige alla pista
+preparata specialmente per i principianti. La pista è costituita da un tratto AB con un pendente di 
+260 m di lunghezza e un'aria di 45 m, che si spalla con una trama orizzontale BC che 
+La lunghezza è di 40 m per poi affrontare l'ascesa di un pendente CD che forma un angolo di 37° 
+con la linea orizzontale e si eleva a 25 m di altezza. I principianti che osano potranno realizzare un'operazione di
+Salto da D per cadere su E su una superficie orizzontale. (vedi figura). 
+ 
+Il nostro amico Malapata, con la sua tavola molto cerata, si lascia scivolare partendo dal riposo in A. 
+Supponendo che la frizione tra la tavola e la neve sia sconsiderata, così come il rasare con il
+aria, si chiede: 
+a) Determinare la velocità della trama BC. 
+b) Determinare la velocità con cui arriva al punto D. 
+
+c) Trovare il tempo di volo tra D e E e la distanza orizzontale tra D e E, (alcance). 
+A causa della sua prima esperienza traumatica, decide di fare il suo consiglio di fare frottare la sua tavola con la
+la neve, ma lo fa solo nel tratto orizzontale BC. Dato che il coefficiente di attrito in quella
+Se il tramo BC è μ = 0,25 e la sua massa è di 78 kg mentre la tabella è di 2 kg, si chiede:
+d) Calcolare la portata. 
+Non mi rallegro della sua seconda traumatica esperienza colpito (anche se di minor intensità di quella di
+Il primo caso) decide di fare friczione alla tavola contro la neve per tutto il suo percorso, con l'obiettivo di
+Fermarsi al punto D e evitare il salto DE che non dominava correttamente e quindi si colpisceva.
+contro il pavimento in E. Per questo caso si chiede: 
+(e) Determinare il coefficiente di rottura minimo che avrebbe portato ad un arresto in D, considerando 
+che c'è attrito in tutto il percorso. 
+Felice di aver raggiunto con successo il suo obiettivo si chiede:
+f) Supponendo che tutto il calore generato dalla frizione sia stato utilizzato per riscaldare la neve, 
+Quanti grammi di acqua liquida si otterrebbero se la temperatura della neve fosse di 0 °C e il
+Il calore latente di fusione della stessa è di 80 cal / g. 
+Datti: utilizzare: 
+g = 10 m / s2 
+ 
+ 
+ 
+1 cal = 4.182 J
+
+
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+Learning Snowboard with Malapata
+
+PT49. St. Charles of Bariloche, Rio Negro. Blue and Green. 
+ 
+Learning Snowboard with Malapata. 
+Taking advantage of the good snow season on Cathedral Hill, our friend, the engineer
+Malapata, decides to make his first forays on the snowboard, and so he heads to the track.
+It's designed especially for beginners. This track consists of an AB section with a slope of 
+260 m long and 45 m wide, which splits smoothly with a horizontal BC section whose 
+length is 40 m to then face the rise of a CD slope forming an angle of 37° 
+with the horizontal and rises to a height of 25 m. Those who dare to start can do a
+I jump from D to fall into E on a horizontal surface. (see figure). 
+ 
+Our friend Malapata, with his very waxed board, lets himself slip away from rest on A. 
+Assuming the friction between the board and the snow is despicable, as is the friction with the snow.
+Air, it is asked: 
+(a) Determine the speed at which the BC section travels. 
+(b) Determine the speed at which it reaches point D. 
+
+(c) Find the flight time between D and E and the horizontal distance between D and E, (range). 
+Because of his traumatic first experience, he decides to consult himself to friction his board with the
+snow but only gets it in the horizontal stretch BC. Given that the friction coefficient at that 
+The BC-section is μ = 0.25 and its mass is 78 kg while the table is 2 kg, it is asked: 
+(d) Calculate the scope. 
+I am not happy with his second traumatic experience with the stroke (though less intense than in
+The first case) decides to rub his board against the snow throughout its course, with the aim of
+Stop at D-point and avoid the DE jump that didn 't dominate properly and therefore hit .
+against the floor at E. In this case, the following questions are asked: 
+(e) Determine the minimum coefficient of friction that would cause it to stop at D,
+There's friction all the way through. 
+Happy to have achieved his goal he asks himself:
+(f) Assuming that all the heat generated by the friction was used to heat the snow, 
+How many grams of liquid water would you get if the temperature of the snow is 0°C and the temperature is 0°C?
+latent melting heat of the same is 80 cal/g. 
+Data: to use: 
+g = 10 m / s2 
+ 
+ 
+ 
+1 cal = 4,182 J
+
+
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q50" data-atom="q50" data-title="Argent 2004 Locale — Quesito 50" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/4,multidisciplina/mono"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Haciendo honor a su nombre (choques)**
+
+PT50. San Carlos de Bariloche, Río Negro. Azul y Verde. 
+ 
+Haciendo honor a su nombre. 
+Si creían que los inconvenientes de Malapata habían terminado, se equivocan, ya que de regreso a la 
+ciudad en su vehículo, el ingeniero no se percata que un amplio sector de la ruta se encuentra con 
+mucho hielo y por lo tanto con rozamiento despreciable entre el piso y los neumáticos. Al llegar al 
+cruce, intenta frenar, pero su automóvil se desliza por el hielo con una velocidad de 18 km/h haciendo 
+impacto en otro vehículo de igual masa que se encontraba detenido en el cruce. Como consecuencia 
+del impacto, ambos automóviles permanecen unidos luego de la colisión. Determinar: 
+a) La velocidad de ambos vehículos luego del choque. 
+b) Si la masa del auto que se encuentra detenido es el doble de la del auto de Malapata, ¿cuál 
+sería la velocidad de ambos luego del choque si también permanecieran unidos?. 
+Una de las formas de aumentar el rozamiento con el hielo, consiste en utilizar cadenas que rodean a las 
+cubiertas del automóvil. Suponiendo que el auto que se encontraba detenido usara cadenas y para el 
+caso calculado en el punto a) suponiendo que el coeficiente de rozamiento es de 0,0625 y la masa de 
+cada auto es de 800 kg, se pide determinar: 
+c) la distancia recorrida por el conjunto luego del choque, hasta detenerse. 
+Por desgracia para Malapata y para hacer honor a su nombre, después de chocar con el primer auto y 
+permanecer unidos, una camioneta que viajaba por la calle transversal con una velocidad de 27 km/h 
+impacta contra el conjunto. Sabiendo que la masa de la camioneta es el triple que la de un auto y 
+despreciando el rozamiento: 
+d) calcular el módulo y la dirección de la velocidad de los tres vehículos luego de la segunda 
+colisión, si permanecen unidos luego de la misma. 
+e) ¿cuál debería ser la velocidad de la camioneta antes del choque para que luego de la colisión 
+los tres vehículos se desplacen en una dirección que forma 45º con la que traían antes de 
+chocar?.
+
+**Topic:** [[Conservation of Momentum]]
+**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Vector Decomposition (metodo)|Vector Decomposition]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Facendo onore al suo nome (shock) **
+
+PT50. San Carlo di Bariloche, Rio Negro. Blu e verde. 
+ 
+In onore del suo nome. 
+Se pensano che i disagi di Malapata siano finiti, si sbagliano, perché ritorno alla
+La città nel suo veicolo, l'ingegnere non si rende conto che un ampio settore della strada si trova con 
+molto ghiaccio e quindi con scarsa rottura tra il pavimento e le gomme. Arrivati al
+Si incrocia, si tenta di frenare, ma la sua auto scivola sul ghiaccio a velocità di 18 km/h facendo
+incidenza su un altro veicolo di uguale massa che era fermo al punto di passaggio. Come conseguenza
+L'impatto, le due auto restano unite dopo l'incidente. Determinare: 
+a) La velocità di entrambi i veicoli dopo l'impatto. 
+b) Se la massa della macchina in sospensione è doppia di quella della macchina di Malapata, quale è il numero di unità?
+sarebbe la velocità di entrambi dopo lo scontro se anche loro restassero uniti? 
+Uno dei modi per aumentare il ruggine con il ghiaccio è utilizzare catene che circondano le
+coperture dell'auto. Supponiamo che la macchina che si trovava in arresto usasse le catene e per il
+caso calcolato in (a) supponendo che il coefficiente di rottura sia di 0,0625 e che la massa di 
+ogni auto è di 800 kg, si chiede di determinare: 
+c) la distanza percorsa dall'insieme dopo l'impatto fino all'arresto. 
+Purtroppo per Malapata e per onorare il suo nome, dopo aver colpito la prima auto e
+restare uniti, un camion che viaggiava per la strada trasversale a una velocità di 27 km/h 
+colpisce l'insieme. Sapendo che il massa del furgone è triplicata di quella di un'auto e
+disprezzando il ruggimento: 
+d) calcolare il modulo e la direzione della velocità dei tre veicoli dopo la seconda
+colpisce, se rimangono uniti dopo. 
+e) quale dovrebbe essere la velocità del furgone prima dell'impatto in modo che dopo l'impatto
+Le tre vetture si muovono in una direzione che forma 45° con la quale venivano prima di
+- Colpire?
+
+**Topic:** [[Conservation of Momentum]]
+**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Vector Decomposition (metodo)|Vector Decomposition]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Honouring his name (shocks) **
+
+PT50. St. Charles of Bariloche, Rio Negro. Blue and Green. 
+ 
+By honoring his name. 
+If you thought Malapata's troubles were over, you're wrong, because back to the
+city in his vehicle, the engineer does not realize that a large section of the road is encountered with 
+a lot of ice and therefore with a despicable friction between the floor and the tires. When I get to the
+He crosses, he tries to brake, but his car slides through the ice at a speed of 18 km/h making
+impact on another vehicle of equal mass that was stopped at the crossing. As a result
+The two cars remained united after the collision. Determine: 
+(a) The speed of both vehicles after the collision. 
+(b) If the mass of the car standing still is twice that of the Malapata car, what is the mass of the car?
+Would it be the speed of both after the crash if they also stayed together? 
+One way to increase the friction with ice is to use chains around the ice.
+car covers. Assuming the car that was stopped was using chains and for the
+case calculated in point (a) assuming that the coefficient of friction is 0,0625 and the mass of 
+Each car is 800 kg, it is asked to determine: 
+(c) the distance travelled by the assembly after the impact until it has stopped. 
+Unfortunately for Malapata and to honor his name, after colliding with the first car and
+Staying together, a pickup truck that was traveling down the cross street at a speed of 27 km/h 
+It's impacting the whole thing. Knowing that the mass of the van is three times that of a car and
+Despising the gnawing: 
+(d) calculate the speed module and direction of the three vehicles after the second one.
+collision, if they stay together after it. 
+(e) what should be the speed of the van before the collision so that after the collision
+All three vehicles are moving in a 45° direction that they were driving before .
+I'm going to crash.
+
+**Topic:** [[Conservation of Momentum]]
+**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Vector Decomposition (metodo)|Vector Decomposition]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q51" data-atom="q51" data-title="Argent 2004 Locale — Quesito 51" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/multi,object/wire,object/battery"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Calentar agua con cable Ni-Cu**
+
+PT51. San Carlos de Bariloche, Río Negro. Azul y Verde. 
+ 
+El ingeniero en materiales Malapata tuvo un día complicado y que mejor que un buen mate para 
+renovar fuerzas y empezar de nuevo. Al regresar a su laboratorio se propone calentar agua, y como 
+para colmo de males le cortaron el gas por falta de pago, decide hacerlo aprovechando un cable de un 
+nuevo material que está investigando y que se compone de 40% de Níquel y 60% de Cobre. Dicho 
+cable será usado como resistencia conectada a una batería de 12 V con que cuenta en el laboratorio. 
+
+Sabiendo que la densidad del níquel es δNi = 8,9 g/cm3 y la del cobre es δCu =8,96 g/cm3 , y que la 
+densidad del alambre cumple con la regla de la mezcla (proporcionalidad): 
+a) Calcular la densidad del alambre. 
+Para determinar el largo del cable, al no contar con la cinta métrica, que le robaron la noche anterior, y 
+teniendo una balanza que permite medir un rango entre 200 g y 400 g, aprovecha sus conocimientos 
+del principio de Arquímedes para determinar el largo del cable. Coloca un recipiente con agua sobre la 
+balanza haciendo una lectura de 243,28 g. Luego enrolla el cable, le ata un hilo muy fino y sumerge 
+totalmente el cable en el agua sin que toque el fondo del recipiente. En esta situación la balanza acusa 
+244,82 g. Ver figura: 
+ 
+Sabiendo que la densidad del agua es de 1 g/cm3, y que el diámetro del cable es de 1 mm: 
+b) determinar el largo del cable. 
+c) Determinar la masa del cable. 
+Este cable cumplirá la función de resistencia eléctrica en un calentador eléctrico conectado a la batería 
+de 12 V. Una de las principales propiedades que tiene el material del cable es que su resistencia 
+eléctrica permanece constante con la temperatura. Sabiendo que la resistencia de un alambre cumple la 
+siguiente ecuación: 
+A
+l
+R
+ρ
+=
+ donde ρ es la resistividad del material que equivale a 
+m
+mm2
+50
+,0
+Ω
+, l es 
+el largo del cable y A el área de la sección transversal, calcular: 
+d) la resistencia eléctrica del cable. 
+e) La potencia eléctrica del calentador. 
+Si suponemos que todo el calor suministrado por el calentador se utiliza para calentar medio litro de 
+agua y llevarla de una temperatura inicial de 16º C a 82º C (ideal para un buen mate) y que el calor 
+específico del agua es de 1 cal / g ºC: 
+f) ¿cuánto tiempo le demandará a Malapata calentar el agua para tomarse el primer matecito?. Si 
+al ingeniero lo pasan a buscar para llevarlo a su casa (recordar que su auto está en el chapista), 
+15 minutos después de haber colocado el agua a calentar ¿alcanzará a saborear el primer mate? 
+¡Qué mala suerte la de Malapata! ¡No!. 
+Recordar que 1 cal = 4,182 J.
+
+
+
+**Topic:** [[Circuits]], [[Thermodynamics]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Wire (object)|Wire]], [[Battery (object)|Battery]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Caldare acqua con cavo Ni-Cu**
+
+PT51. San Carlo di Bariloche, Rio Negro. Blu e verde. 
+ 
+L'ingegnere in materiali Malapata ha avuto una giornata complicata e che meglio di un buon mate per
+rinnovare le forze e ricominciare da capo. Tornando al laboratorio si propone di riscaldare l'acqua, e come
+Per il male che ha fatto, gli hanno tagliato il gas per mancanza di pagamento, decide di farlo sfruttando un cavo di un'altra.
+Il nuovo materiale che sta studiando è costituito da 40% di nichel e 60% di rame. - Si ' , si ' .
+il cavo sarà utilizzato come resistenza collegata a una batteria da 12 V che ha in laboratorio. 
+
+Sapendo che la densità del nichel è δNi = 8,9 g/cm3 e quella del rame è δCu = 8,96 g/cm3, e che la densità del nichel è 
+densità del filo è conforme alla regola della miscela (proporzionalità): 
+a) Calcolare la densità del filo. 
+Per determinare la lunghezza del cavo, non avendo il nastro metrico, che gli sono stati rubati la notte prima, e 
+con un'onda che permette di misurare un intervallo tra 200 e 400 g, sfrutta le sue conoscenze 
+Il principio di Archimede per determinare la lunghezza del cavo. Metti un recipiente con acqua sopra la
+Sbalza facendo una lettura di 243,28 g. Poi, arrotola il cavo, attacca un filo molto sottile e si immerge.
+il cavo completamente in acqua senza toccare il fondo del recipiente. In questa situazione la bilancia accusa
+244,82 g. Vede figura: 
+ 
+Sapendo che la densità dell'acqua è di 1 g/cm3, e che il diametro del cavo è di 1 mm: 
+b) determinare la lunghezza del cavo. 
+c) Determinare la massa del cavo. 
+Questo cavo svolgerà la funzione di resistenza elettrica in un riscaldatore elettrico collegato alla batteria.
+de 12 V. Una delle proprietà principali del materiale del cavo è che la resistenza è molto elevata.
+l'elettricità rimane costante con la temperatura. Sapendo che la resistenza di un filo soddisfa la
+l'equazione seguente: 
+A
+l
+R
+ρ
+=
+dove ρ è la resistività del materiale che equivale a 
+m
+mm2
+50
+,0
+Ω
+, l es 
+lungo il cavo e A l'area della sezione trasversale, calcolare: 
+d) resistenza elettrica del cavo. 
+e) Potenza elettrica del riscaldatore. 
+Se supponiamo che tutto il calore fornito dal riscaldatore sia utilizzato per riscaldare mezzo litro di
+La temperatura iniziale è di 16 °C a 82 °C (ideale per un buon mate) e il calore è di circa
+specificità dell' acqua è di 1 cal / g oC: 
+f) Quanto tempo ci vorrà per Malapata per riscaldare l'acqua per prendere il primo matecito? Si 
+L'ingegnere viene portato a casa sua (ricordate che la sua auto è sul cappello),
+15 minuti dopo aver messo l'acqua a riscaldare, riuscirà a assaggiare il primo mate? 
+Che sfortuna quella di Malapata! ¡No!. 
+Ricordate che 1 cal è pari a 4.182 J.
+
+
+
+**Topic:** [[Circuits]], [[Thermodynamics]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Wire (object)|Wire]], [[Battery (object)|Battery]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+Heating of water by Ni-Cu cable
+
+PT51. St. Charles of Bariloche, Rio Negro. Blue and Green. 
+ 
+The Malapata materials engineer had a rough day and better than a good mate for
+renew your strength and start again. When he returns to his lab he proposes to heat water, and as
+For the sake of his misfortune, he was cut off from the gas for nonpayment. He decides to do so by taking advantage of a cable from a
+A new material that you're investigating, which is 40% nickel and 60% copper. That said .
+The cable will be used as resistance connected to a 12 V battery that you have in the lab. 
+
+Knowing that the density of nickel is δNi = 8.9 g/cm3 and that of copper is δCu = 8.96 g/cm3, and that the density of nickel is 
+The wire density meets the mixing rule (proportion): 
+(a) Calculate the density of the wire. 
+To determine the length of the cable, not having the tape measure, which was stolen from him the night before, and 
+Having a scale that allows you to measure a range between 200 g and 400 g, take advantage of your knowledge 
+The principle of Archimedes to determine the length of the cable. Place a container of water over the
+Weighing by reading 243.28 g. Then he rolls the cable, ties it up with a very thin thread and plunges it.
+The cable is completely in the water without touching the bottom of the container. In this situation the balance sheet accuses 
+244,82 g. See figure: 
+ 
+Knowing that the density of the water is 1 g/cm3, and that the diameter of the cable is 1 mm: 
+(b) determine the length of the cable. 
+(c) Determine the mass of the cable. 
+This cable will perform the function of electrical resistance in an electric heater connected to the battery.
+de 12 V. One of the main properties of cable material is that it has a high resistance.
+The electrical current remains constant with temperature. Knowing that the strength of a wire meets the
+The following equation: 
+A
+l
+R
+ρ
+=
+where ρ is the resistivity of the material equivalent to 
+m
+mm2
+50
+,0
+Ω
+, l es 
+length of cable and A area of cross section, calculate: 
+(d) the electrical resistance of the cable. 
+(e) The electrical power of the heater. 
+If we assume that all the heat supplied by the heater is used to heat half a litre of
+The water is then taken from an initial temperature of 16°C to 82°C (ideal for a good mate) and the heat is
+specific water is 1 cal / g oC: 
+(f) How long will it take Malapata to heat the water to take the first sip? Si 
+The engineer is then picked up and taken home (remember your car is in the driveway),
+15 minutes after you put the water in the heat, will you be able to taste the first mate? 
+What a misfortune that was for Malapata! ¡No!. 
+Remember that 1 cal is 4,182 J.
+
+
+
+**Topic:** [[Circuits]], [[Thermodynamics]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Wire (object)|Wire]], [[Battery (object)|Battery]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q52" data-atom="q52" data-title="Argent 2004 Locale — Quesito 52" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/projectile"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**James Bond en accion**
+
+PT52. Ciudad de Buenos Aires. Azul. 
+ 
+James Bond en acción. 
+En la última película de James Bond, éste es perseguido por un auto de agentes rusos. 
+Cuando James Bond se encuentra St. Mathews se percata de que es vigilado. Entonces arranca con 
+aceleración constante de 3 m/seg2 hasta recorrer 150 m. A partir de ese momento sigue con velocidad 
+constante. 
+En el momento que Bond arranca los rusos se encuentran 350 m detrás de él viajando con velocidad 
+constante de 35 m/seg. 
+a) En cuánto tiempo los rusos alcanzarán a Bond? 
+A los 600 m de su punto de partida, James Bond observa un cartel anunciando la presencia de una 
+curva, 300 m adelante. En él logra leer las características de la curva: 
+ 
+ 
+
+ 
+ATENCIÓN: curva peligrosa 
+Radio = 160 m       α = 9º 
+µS = 0,11    veloc. máxima = …. 
+ 
+ 
+Lamentablemente para él no logra leer la velocidad máxima por lo que se ve obligado, en pocos 
+segundos, a hacer cálculos para ver si debe o no variar su velocidad. 
+b) Podrías ayudarlo y decirle si debe aprovechar los 300 m para variar su velocidad? Si debe 
+hacerlo: en cuánto? Cuál debe ser el módulo de su aceleración? 
+Gracias a tu ayuda Bond logra tomar la curva con éxito. Respira tranquilamente… pero no todo acaba 
+aquí. Inmediatamente recibe la señal de que su vehículo se autodestruiría en 30 seg. Es el momento de 
+activar su asiento disparador, que lo proyectará bajo un ángulo 30º. A 88 m del lugar de proyección, se 
+encuentra la boca de un desagote con agua a 50 m de profundidad y suficientemente ancho como para 
+poder descender por él. Un submarino inglés que se encuentra 200 m detrás del punto de inyección y a 
+nivel del agua, se pondría en movimiento en el instante mismo de la inyección intentando rescatarlo 
+justo cuando Bond llegara al agua. 
+c) Con qué velocidad debe ser disparado su asiento para lograr caer dentro de la boca de 
+desagote? 
+d) ¿Qué aceleración deberá tener el submarino para rescatarlo?
+
+
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Projectile (object)|Projectile]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+James Bond in azioni
+
+PT52. Città di Buenos Aires. Blu. 
+ 
+James Bond in azione. 
+Nell'ultimo film di James Bond, questo è inseguito da una macchina di agenti russi. 
+Quando James Bond si trova a St. Mathews si rende conto che è vigilato. Allora inizia con 
+Accelerazione costante di 3 m/sec2 fino a percorre 150 m. Da quel momento in poi continua a velocizzare.
+costante. 
+Quando Bond parte i russi sono a 350 metri di lui viaggiando a velocità.
+costante di 35 m/sec. 
+a) Quanto tempo ci vorrà per raggiungere Bond? 
+A 600 metri dal suo punto di partenza, James Bond osserva un cartello che annuncia la presenza di una
+Curva, 300 metri avanti. In esso riesce a leggere le caratteristiche della curva:
+ 
+ 
+
+ 
+ATTENZIONE: curva pericolosa 
+Radio = 160 m α = 9o 
+μS = 0,11 velocità. massimo = …. 
+ 
+ 
+Purtroppo non riesce a leggere la velocità massima, quindi si vede costretto, in pochi.
+secondo, per fare calcoli per vedere se deve o meno variare la sua velocità. 
+b) Potresti aiutarlo e dirgli se deve sfruttare i 300 m per variare la sua velocità? Se deve
+- In quanto? Qual è il modulo di accelerazione? 
+Grazie al tuo aiuto, Bond riesce a prendere la curva con successo. Respira tranquillamente, ma non tutto finisce.
+- Qui. Instantaneamente riceve il segnale che il suo veicolo si autodistruggerà in 30 secondi. È il momento di...
+attivare il suo seggio di sparo, che lo proietterà sotto un angolo di 30°. A 88 m dal luogo di proiezione, si 
+trova la bocca di un disagoglio con acqua a 50 m di profondità e abbastanza larga da
+- Che sia il mio modo di scendere. Un sottomarino inglese che si trova a 200 metri di distanza dal punto di iniezione e a
+L'acqua si allontana, si muove all'istante stesso dell'iniezione, cercando di salvarlo.
+Proprio quando Bond arrivò in acqua. 
+c) A che velocità deve essere sparato il suo sedile per riuscire a cadere nella bocca di un'autista?
+- non si esaurisce? 
+d) Qual è l'accelerazione che deve avere il sottomarino per salvarlo?
+
+
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Projectile (object)|Projectile]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+James Bond in stock
+
+PT52. City of Buenos Aires. Blue, please. 
+ 
+James Bond in action. 
+In the last James Bond movie, this one is chased by a car of Russian agents. 
+When James Bond is in St. Louis, Mathews realizes he's under surveillance. Then start with 
+a constant acceleration of 3 m/s2 until 150 m. From that moment on , it 's still moving fast .
+It's constant. 
+By the time Bond starts the Russians are 350 meters behind him travelling at high speed .
+constant of 35 m/s. 
+(a) How long before the Russians catch up to Bond? 
+600 metres from his starting point, James Bond observes a sign announcing the presence of a
+Curve, 300m ahead. In it he can read the characteristics of the curve:
+ 
+ 
+
+ 
+WARNING: dangerous curve
+Radio = 160 m α = 9o 
+μS = 0.11 speed. The maximum value of the vehicle shall be: 
+ 
+ 
+Unfortunately for him he can't read the maximum speed so he's forced, in a few minutes.
+Second, to do calculations to see if you should or should not vary your speed. 
+(b) Could you help him and tell him if he should take advantage of the 300 meters to vary his speed? If you must 
+How much? What should be the module of its acceleration? 
+Thanks to your help, Bond manages to take the curve successfully. Breathe quietly but it's not all over
+- I'll see you in here. You'll immediately receive a signal that your vehicle will self-destruct in 30 seconds. It 's time for you .
+activate your trigger seat, which will project it at a 30° angle. 88 m from the projection site,
+Find the mouth of a water drain at 50 m depth and wide enough to
+I can get down for him. An English submarine 200 m behind the injection point and a
+The water level would be set in motion at the very moment of injection trying to rescue it.
+Just as Bond was coming to the water. 
+(c) How fast should your seat be fired to make it fall into the mouth of the
+I'm not going to run out. 
+(d) What speed shall the submarine have to use to rescue it?
+
+
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Projectile (object)|Projectile]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q53" data-atom="q53" data-title="Argent 2004 Locale — Quesito 53" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi,object/resistor"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Lo que puede el frio (calefactor)**
+
+PT53. Ciudad de Buenos Aires. Azul. 
+ 
+Lo que puede el frío. 
+En una escuela  de campo, los alumnos del último curso, se quejaban a su profesor de Física, porque 
+decían no poder concentrarse debido al frío que sentían en su salón. Después de escucharlos el 
+profesor les propuso un proyecto: “Diseño y armado de un calefactor” 
+Muy entusiasmados con la idea comenzaron a hacer un listado de las variables que debían tener en 
+cuenta. 
+Dimensiones del salón: 3 m x 5 m x 2 m de alto 
+Temperatura del salón: 4ºC temperatura deseada: 20ºC. 
+Tiempo estimado para producir la ∆T: 20 minutos 
+Generador de la escuela: 300 V de CC y 10 Ω de resistencia interna. 
+Entonces comenzó la investigación del tema. Después de largas discusiones decidieron construir la 
+estufa con dos resistencias  R1 y R2 conectadas en paralelo, ello les daría la posibilidad, el día de 
+mañana, de utilizarla en días no tan fríos. Por eso si bien usaron el mismo material para ambas lo 
+hicieron de tal manera que la longitud de R2 fuera doce veces mayor que la de R1 para que su 
+resistencia fuera tres veces mayor que la de R1. En estas condiciones la resistencia de la estufa seria de 
+112 Ω.Para prevenirla decidieron colocar en serie con ella una resistencia variable de                       
+4,84 10-1 Ω mm2/m de resistividad especifica y 1 mm de diámetro. 
+El profesor les sugirió que cuando hicieran los últimos cálculos supusieran que su rendimiento fuera 
+del 80%. 
+Revisaron una y otra vez todos los cálculos y al final se decidieron probarla. 
+a) Que relación debía existir entre los diámetros de R1 y R2? 
+b) Cual es la potencia de la estufa? 
+c) Que longitud debieron darle a la resistencia variable? 
+ 
+La prueba tuvo éxito, los chicos estaban muy contentos, solo había algo que los preocupaba. La estufa 
+había tardado 5 minutos mas que el tiempo estimado. Volvieron a reveer sus cálculos, pero no 
+encontraban el error hasta que a uno de ellos se le ocurrió que no habían tenido en cuenta el calor 
+perdido por el techo del salón. Fueron a investigarlo y vieron que estaba formado por una capa de 
+madera de pino de 2 cm de espesor y sobre ella una capa de 6 cm de lana de vidrio, que el profesor 
+explico que era para un mejor aislamiento. 
+d) Podría esta perdida de calor explicar la tardanza? 
+
+e) Que hubiera pasado si el techo no tuviera la capa de lana de vidrio? 
+Datos: Ce aire = 0,205 Kcal/ºC kg 
+ 
+δ aire = 1,3 kg/m3 
+ 
+Kmadera de pino = 0,12 Joule/ m seg ºC 
+K lana de vidrio = 0,042 Joule/m seg ºC 
+ 
+k
+L
+T
+T
+A
+t
+Q
+/
+)
+(
+/
+1
+2
+Σ
+−
+=
+∆
+∆
+
+**Topic:** [[Thermodynamics]], [[Circuits]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Cosa può fare il freddo (calore) **
+
+PT53. Città di Buenos Aires. Blu. 
+ 
+Che può fare il freddo. 
+In una scuola di campagna, gli studenti dell'ultimo anno si lamentavano al loro insegnante di fisica perché
+Dicevano di non potersi concentrare a causa del freddo che sentivano nel loro salotto. Dopo averli ascoltati,
+Il professore ha proposto un progetto: Design e costruzione di un riscaldatore 
+Molto entusiasti dell'idea, iniziarono a fare un elenco delle variabili che dovevano avere in
+- Conti. 
+Dimensioni del salone: 3 m x 5 m x 2 m di altezza 
+Temperatura del salone: 4oC Temperatura desiderata: 20oC. 
+Tempo stimato per produrre ∆T: 20 minuti 
+Generatore scolastico: 300 V di CC e 10 Ω di resistenza interna. 
+Allora ha iniziato la ricerca sul tema. Dopo lunghe discussioni hanno deciso di costruire la
+Il caldaio con due resistenze R1 e R2 collegate in parallelo, questo li darebbe la possibilità, il giorno di
+domani, per usarla in giorni non così freddi. Quindi, sebbene usassero lo stesso materiale per entrambi,
+hanno fatto in modo che la lunghezza di R2 fosse dodici volte maggiore di quella di R1 in modo che il suo
+la resistenza era tre volte superiore a quella di R1. In queste condizioni la resistenza del stufa seria di 
+112 Ω.Per prevenirla, hanno deciso di mettere in serie una resistenza variabile di
+4,84 10-1 Ω mm2/m di specificità di resistenza e 1 mm di diametro. 
+Il professore suggerì loro di fare gli ultimi calcoli, supponendo che il loro rendimento fosse
+dell'80% 
+Hanno rivisto più volte tutti i calcoli e alla fine hanno deciso di provarlo. 
+a) Qual è il rapporto tra i diametri di R1 e R2? 
+b) Qual è la potenza del stufa? 
+c) Che lunghezza devono dare alla resistenza variabile? 
+ 
+Il test è stato un successo, i ragazzi erano molto contenti, c'era solo una cosa che li preoccupava. Il stufa
+Ci sono voluti 5 minuti in più del tempo previsto. Hanno rivisto i loro calcoli, ma non lo hanno fatto.
+Eppure, non si è mai visto il calore.
+Perduto dal tetto del salotto. E ' stato investigato e hanno visto che era costituito da una strata di
+Legno di pino di 2 cm di spessore e su di esso una piastra di 6 cm di lana di vetro, che il professore 
+Mi spieghi che era per un'isolamento migliore. 
+d) Questa perdita di calore potrebbe spiegare il ritardo? 
+
+e) Che cosa sarebbe successo se il tetto non avesse la piastra di lana di vetro? 
+Data: Ce aria = 0,205 Kcal/oC kg 
+ 
+δ aria = 1,3 kg/m3 
+ 
+Legno di pino = 0,12 Joule/ m seg oC 
+K lana di vetro = 0,042 Joule/m seg oC 
+ 
+k
+L
+T
+T
+A
+t
+Q
+/
+)
+(
+/
+1
+2
+Σ
+−
+=
+∆
+∆
+
+**Topic:** [[Thermodynamics]], [[Circuits]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**What cold can (heating factor) **
+
+PT53. City of Buenos Aires. Blue, please. 
+ 
+The cold can do. 
+In a country school, the last year students complained to their physics teacher because
+They said they couldn't concentrate because of the cold they felt in their living room. After hearing them the
+The teacher proposed a project: Design and build a heater 
+Very excited about the idea they started making a list of the variables they should have in 
+It counts. 
+The dimensions of the hall: 3 m x 5 m x 2 m high 
+Room temperature: 4oC Desired temperature: 20oC 
+Estimated time to produce ∆T: 20 minutes 
+School generator: 300 V of DC and 10 Ω of internal resistance. 
+Then the investigation of the matter began. After much discussion they decided to build the
+The heaters with two resistors R1 and R2 connected in parallel, this would give them the possibility, on the day of 
+Tomorrow, to use on not so cold days. So while they used the same material for both of them .
+They made it so that the length of R2 was twelve times greater than that of R1 so that its length was
+The resistance was three times greater than that of R1. Under these conditions the resistance of the stove would be
+112 Ω.To prevent it they decided to series a variable resistance of 
+4,84 10-1 Ω mm2/m of specific resistance and 1 mm of diameter. 
+The professor suggested that when they made the final calculations they assume their performance was
+of 80%. 
+They went over all the calculations over and over again and finally decided to try it out. 
+(a) What should be the relationship between the diameters of R1 and R2? 
+(b) What is the power of the stove? 
+(c) What length should they give to the variable resistance? 
+ 
+The test was successful, the kids were very happy, there was just one thing they were worried about. The stove .
+It took five minutes longer than expected. They reviewed their calculations, but they didn't.
+They found the error until one of them realized they had not taken heat into account.
+Lost by the living room ceiling. They went to investigate it and they saw it was made up of a layer of
+2 cm thick pine wood and a 6 cm layer of glass wool on top of it, which the professor 
+I'll explain that it was for better isolation. 
+(d) Could this heat loss explain the delay? 
+
+(e) What would have happened if the roof had not had the glass wool layer? 
+The data are available in the following formats:
+ 
+The following conditions shall apply:
+ 
+The wood of the pine tree = 0.12 Joule/ m sec oC 
+K glass wool = 0,042 Joule/m sec oC 
+ 
+k
+L
+T
+T
+A
+t
+Q
+/
+)
+(
+/
+1
+2
+Σ
+−
+=
+∆
+∆
+
+**Topic:** [[Thermodynamics]], [[Circuits]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q54" data-atom="q54" data-title="Argent 2004 Locale — Quesito 54" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Vacaciones en la nieve (rizo)**
+
+PT54. Ciudad de Buenos Aires. Azul. 
+ 
+Vacaciones en la nieve. 
+En estas vacaciones de invierno mi amigo Juan fue a esquiar al sur. Al regresar me contó algunas de 
+“sus proezas”. Una de ellas me llamó la atención. 
+El debía colocarse al comienzo de una pista sin rozamiento , y deslizarse por ella La pista presentaba 
+en primer lugar un rizo de 1,4 m de radio y terminaba en un tramo BC, de forma circular de 10 m de 
+radio. A partir de C, de 1,4 m de altura, Juan realizaría  un tiro oblicuo alcanzando una altura máxima 
+de 3,2 m y luego descendería en la nieve hasta llegar a la meta que se encontraba a 20 m de C. 
+Con todos estos datos se me ocurrió hacer algunos cálculos: 
+a) desde que altura partió Juan? 
+b) Que fuerza hizo el rizo sobre Juan cuando paso por su punto mas alto? 
+c) Cuantos metros a partir de C debía recorrer Juan sobre la nieve hasta llegar a la meta? 
+ 
+Datos: M Juan = 80 kg
+
+
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Vacanze in neve (risata) **
+
+PT54. Città di Buenos Aires. Blu. 
+ 
+Vacanze in neve. 
+In queste vacanze invernali il mio amico Juan è andato a sciare a sud. Tornando mi ha raccontato alcune di
+I suoi successi. Una di queste mi ha attirato l'attenzione. 
+Doveva essere posto all' inizio di un tracciato senza rottura , e scivolare su di esso .
+La prima era un'area di 1,4 m di raggio e terminava in un tratto di BC, in forma circolare di 10 m di
+radio. A partire da C, di 1,4 metri di altezza, Juan avrebbe eseguito un tiro oblicuo raggiungendo una altezza massima.
+di 3,2 metri e poi scenderebbe nella neve fino a raggiungere il bersaglio che si trovava a 20 metri di C. 
+Con tutti questi dati, ho pensato di fare qualche calcolo:
+a) da che altezza partì Giovanni? 
+b) Che forza ha fatto il riso su Giovanni quando ha superato il suo punto più alto? 
+c) Quanti metri da C doveva percorrere Giovanni sulla neve fino a raggiungere il traguardo? 
+ 
+Dati: M Juan = 80 kg
+
+
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following is the list of the countries of the European Union:
+
+PT54. City of Buenos Aires. Blue, please. 
+ 
+Holidays in the snow. 
+On this winter vacation my friend John went skiing south. When he came back , he told me some of 
+His feats. One of them caught my eye. 
+He was to be placed at the beginning of a track without a razor , and slide over it the track presented
+The first was a 1.4 m radius ridge and ended in a circular 10 m BC section.
+The radio. From C, 1.4 m high, Juan would make an oblique shot reaching a maximum height.
+It was about 3 m high and then it would descend into the snow until it reached the target which was 20 m high. 
+With all this data, I came up with some calculations:
+(a) From what height did John set out? 
+(b) What force did the laughing make on John as he passed his highest point? 
+(c) How many feet from C would John have to travel on the snow to the finish line? 
+ 
+Data: M Juan = 80 kg
+
+
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q55" data-atom="q55" data-title="Argent 2004 Locale — Quesito 55" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/inclined-plane"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Bloque desde pendiente sobre mesa**
+
+PT55. Ciudad de Buenos Aires. Azul. 
+ 
+Un bloque de masa 
+m=2kg se suelta del 
+reposo a una altura 
+h=0,5m de la 
+superficie de una 
+mesa, en la parte 
+superior de una 
+pendiente con un 
+ángulo de 30° como 
+se muestra en la 
+figura. La pendiente 
+est{a fija sobre una 
+mesa de altura 
+H=2m y la pendiente no presenta fricción. 
+a) Determine la aceleración del bloque cuando se desliza hacia debajo de la pendiente. 
+b) ¿Cuál es la velocidad del bloque cuando deja la pendiente? 
+c) ¿A qué distancia de la mesa el bloque golpeará el suelo? 
+H
+h
+R
+30° 
+m
+
+d) ¿Cuánto tiempo ha transcurrido entre el momento en que se suelta el bloque y cuando golpea el 
+suelo? 
+e) Repita el punto c) considerando que entre el bloque y la pendiente hay un coeficiente de rozamiento 
+µ=0,8. 
+Datos g=9,8m/s2.
+
+
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Blocco da pendenza su tavolo**
+
+PT55. Città di Buenos Aires. Blu. 
+ 
+Un blocco di massa
+m=2kg si scarica dal 
+Riposo a un'altezza.
+h=0,5m de la 
+superficie di una 
+Tavola, nella parte 
+superiore a una 
+pendente con un 
+angolo di 30° come 
+si mostra nella 
+- Figura. Il pendente
+È fissato su una
+Tavola di altitudine 
+H=2m e la pendenza non presenta attrito. 
+a) Determina l'accelerazione del blocco quando si scivola verso il basso della pendenza. 
+b) Qual è la velocità del blocco quando lascia la pendenza? 
+c) A che distanza dal tavolo il blocco colpirà il terreno? 
+H
+h
+R
+30° 
+m
+
+d) Quanto tempo è passato dal momento in cui il blocco si è sciolto al momento in cui ha colpito il blocco?
+- Il pavimento? 
+e) Ripetere il punto c) considerando che tra il blocco e la pendenza c' è un coefficiente di rottura 
+µ=0,8. 
+Dati g = 9,8 m/s2.
+
+
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Block from slope to table**
+
+PT55. City of Buenos Aires. Blue, please. 
+ 
+A block of mass .
+m=2kg is released from the 
+Rest at a height 
+h=0,5m de la 
+surface of a 
+Table, on the part 
+greater than one 
+Hanging with a 
+angle of 30° as 
+is shown in the 
+It's a figure. The slope 
+It's fixed on a
+Table height 
+H=2m and the slope has no friction. 
+(a) Determine the acceleration of the block as it slides down the slope. 
+(b) What is the speed of the block when it leaves the slope? 
+(c) How far from the table will the block hit the ground? 
+H
+h
+R
+30° 
+m
+
+(d) How long has elapsed between the time when the block is released and when it hits the block?
+The floor? 
+(e) Repeat point (c) whereas there is a coefficient of friction between the block and the slope 
+µ=0,8. 
+Data g is equal to 9.8m/s2.
+
+
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q56" data-atom="q56" data-title="Argent 2004 Locale — Quesito 56" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/kinetic-theory,argomento/termodinamica,difficolta/4,multidisciplina/multi,object/gas,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Gas nitrogeno en caja de cobre**
+
+PT56. Ciudad de Buenos Aires. Azul. 
+ 
+Consideremos gas nitrógeno (N2) en equilibrio dentro de una caja de cobre a la temperatura ambiente 
+(20°C) y presión atmosférica. La caja de cobre es de 20cmx20cmx20cm en su parte interna y tiene un 
+grosor de 1cm. 
+a) Calcule la masa de cobre que tiene el recipiente, usando que la densidad del cobre es de 8,9g/cm3. 
+b) Calcule el peso total de la caja considerando el nitrógeno. (Peso atómico del N2=28g/mol) 
+c) Si el peso atómico del cobre es de 63,5g/mol, su densidad es de 8,9g/cm3 y el número de avogadro 
+es NA=6,02x1023átomos/mol, calcular la cantidad de átomos que hay en un cristal de cobre de 1cm3. 
+(Los cristales de cobre forman una red cúbica). 
+d) Estimar aproximadamente el espaciado medio entre los átomos de cobre en el sólido. (Puede 
+suponerse que están localizados en los vértices de una red cúbica regular). 
+e) Cuando se aplica una fuerza F a una barra de cobre de sección recta A y longitud L, el aumento en 
+longitud ∆L de la barra viene dado por la relación F/A=Y∆L/L en donde la constante de 
+proporcionalidad Y se llama módulo de Young, cuyo valor para el cobre es Y=1,28x107 N/cm2. 
+Estimar la (pequeña) contracción de las paredes debido a la presión del gas y del aire. Además usando 
+el valor del módulo de Young para el cobre estimar la fuerza restauradora que actúa sobre un átomo de 
+cobre cuando se desplaza una pequeña cantidad x de su posición de equilibrio en el sólido. 
+Datos: 
+R=0,082 L.Atm/mol.K 
+1Atm=1013hPa
+
+**Topic:** [[Kinetic Theory]], [[Elasticity & Materials]]
+**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Gas di nitrogeno in scatola di rame**
+
+PT56. Città di Buenos Aires. Blu. 
+ 
+Consideriamo che il gas nitrogeno (N2) sia in equilibrio all'interno di una scatola di rame a temperatura ambiente.
+(20°C) e pressione atmosferica. La scatola di rame è di 20cmx20cmx20cm all'interno e ha un
+1 centimetro di spessore. 
+a) Calcolare la massa di rame contenuta nel recipiente, utilizzando che la densità del rame sia di 8,9 g/cm3. 
+b) Calcolare il peso totale della scatola considerando l'azoto. (Peso atomico di N2=28 g/mol) 
+c) Se il peso atomico del rame è di 63,5 g/mol, la densità è di 8,9 g/cm3 e il numero di avogadro 
+è NA=6,02x1023 atomi/mol, calcola la quantità di atomi che c'è in un cristallo di rame di 1cm3. 
+(I cristalli di rame formano una rete cubica). 
+d) Estimare approssimativamente la media spaziata tra gli atomi di rame nel solido. (Può)
+se si presumono che siano situate sulle cime di una rete cubica regolare). 
+e) Quando si applica una forza F a una barra di rame di sezione retta A e lunghezza L, l'aumento di
+La longitudine ∆L della barra viene data dal rapporto F/A=Y∆L/L dove la costante di 
+proporzionalità Y è chiamato modulo di Young, il cui valore per il rame è Y=1,28x107 N/cm2. 
+Calcolare la (piccola) contrazione delle pareti a causa della pressione del gas e dell'aria. Inoltre, usando 
+Il modulo di Young per il rame stima la forza di ripristino che agisce su un atomo di
+copro quando si spostano una piccola quantità x della sua posizione di equilibrio nel solido. 
+Datati: 
+R=0,082 L.Atm/mol.K 
+1Atm=1013hPa
+
+**Topic:** [[Kinetic Theory]], [[Elasticity & Materials]]
+**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Nitrogen gas in copper container**
+
+PT56. City of Buenos Aires. Blue, please. 
+ 
+Consider nitrogen gas (N2) in equilibrium within a copper box at room temperature.
+(20°C) and atmospheric pressure. The copper case is 20cmx20cmx20cm on its inner part and has a
+1 cm thick. 
+(a) Calculate the mass of copper in the container, using the density of copper of 8,9 g/cm3. 
+(b) Calculate the total weight of the box by taking into account nitrogen. (N2 atomic weight = 28 g/mol) 
+(c) If the atomic weight of copper is 63.5 g/mol, its density is 8.9 g/cm3 and the avogadro number 
+is NA=6,02x1023 atoms/mol, calculate the number of atoms in a 1cm3 copper crystal. 
+(Copper crystals form a cubic network). 
+(d) Estimate approximately the mean spacing between the copper atoms in the solid. (You can)
+(i.e. the number of units in the cube network) 
+(e) When an F force is applied to a copper bar of straight section A and length L, the increase in
+The length ∆L of the bar is given by the ratio F/A=Y∆L/L where the constant of 
+Proportion Y is called Young's module, whose value for copper is Y=1.28x107 N/cm2. 
+Estimate the (small) contraction of the walls due to gas and air pressure. Also using 
+The value of Young's module for copper estimate the restorative force acting on an atom of
+Copper is a copper that is used to remove a small amount of x from its equilibrium position in the solid. 
+The data: 
+The following is the list of the products concerned:
+1Atm = 1013hPa
+
+**Topic:** [[Kinetic Theory]], [[Elasticity & Materials]]
+**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q57" data-atom="q57" data-title="Argent 2004 Locale — Quesito 57" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/4,multidisciplina/multi,object/pendulum,object/point-charge"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Bolita de plata: pendulo con carga y campo E**
+
+PT57. Ciudad de Buenos Aires. Azul. 
+ 
+Una bolita de plata de 10g  se encuentra  atada a un hilo de longitud 1m. Se la aparta de la vertical un 
+ángulo de 15º y se la deja oscilar libremente. 
+a) Calcular las fuerzas que actúan sobre la bolita cuando se encuentra a 0º y 15º con respecto a la 
+vertical. 
+b) Calcular la velocidad de la bolita cuando el ángulo que forma con la vertical es de 10º y las fuerzas 
+que actúan sobre la bolita en ese momento. 
+c) Calcular el período de oscilación de la bolita.  
+Se carga la bolita con una carga +100µC y se coloca un campo eléctrico de 1000N/C con dirección 
+horizontal. (Nota: recuerde que la gravedad sigue actuando). 
+d) Calcule la fuerza electrostática que actúa sobre la bolita y su posición de equilibrio. 
+Se aparta la bolita 15º con respecto a la posición de equilibrio. 
+e) Calcular el nuevo período de oscilación.  
+Datos: g=9,8m/s2.
+
+**Topic:** [[Oscillations & Waves]], [[Electrostatics]]
+**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[Point Charge (object)|Point Charge]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Bollettina d'argento: pendolo con carico e campo E**
+
+PT57. Città di Buenos Aires. Blu. 
+ 
+Una pallina d'argento di 10 g è legata a un filo di 1 m di lunghezza. Se la separa dal verticale uno 
+angolo di 15° e lascialo oscillare liberamente. 
+a) Calcolare le forze che agiscono sulla bolletta quando si trova a 0° e 15° rispetto alla
+Verticale. 
+b) Calcolare la velocità della pallina quando l'angolo che forma con la verticale è di 10° e le forze 
+che agiscono sulla palla in quel momento. 
+c) Calcolare il periodo di oscillazione della pallina. 
+Il pallone è caricato con una carica +100μC e viene posto un campo elettrico di 1000N/C con direzione 
+- L'orizzontale. (Nota: ricorda che la gravità continua ad agire). 
+d) Calcolare la forza elettrostatica che agisce sulla pallina e la sua posizione di equilibrio. 
+La pallina si allontana 15° rispetto alla posizione di equilibrio. 
+(e) Calcolare il nuovo periodo di oscillazione. 
+Dati: g=9,8m/s2.
+
+**Topic:** [[Oscillations & Waves]], [[Electrostatics]]
+**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[Point Charge (object)|Point Charge]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Silver bag: pendulum with load and field E**
+
+PT57. City of Buenos Aires. Blue, please. 
+ 
+A 10g silver ball is tied to a 1m long thread. It's separated from vertical one.
+angle of 15° and let it swing freely. 
+(a) Calculate the forces acting on the ball when it is at 0° and 15° with respect to the ball.
+vertical. 
+(b) Calculate the speed of the ball when the angle of formation with the vertical is 10° and the forces 
+They're acting on the ballot right now. 
+(c) Calculate the period of oscillation of the ball. 
+The ball is charged with a charge of +100μC and an electric field of 1000N/C is placed with direction 
+horizontal. (Note: remember that gravity is still acting). 
+(d) Calculate the electrostatic force acting on the ball and its equilibrium position. 
+The ball is set aside 15° from the equilibrium position. 
+(e) Calculate the new period of oscillation. 
+Data: g is equal to 9.8m/s2.
+
+**Topic:** [[Oscillations & Waves]], [[Electrostatics]]
+**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[Point Charge (object)|Point Charge]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q58" data-atom="q58" data-title="Argent 2004 Locale — Quesito 58" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/mono"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**BIP BIP (Coyote y cinta)**
+
+PT58. Ciudad de Buenos Aires. Azul. 
+ 
+BIP, BIP! 
+En esta ocasión nos encontramos con nuestro amigo el Coyote y una nueva trampa que ideó para 
+atrapar al Correcaminos. Con la nueva tecnología el Coyote pudo construir una cinta trasladadora 
+marca ACME que situó camuflada al lado de un camino. Cuando el Correcaminos pasara por allí 
+desprevenido, nuestro cazador prendería unos patines propulsores que compró en la Megastore 
+“ACME” y situándose sobre la cinta, tendría la chance de alcanzar a su escurridizo enemigo. 
+
+Las velocidades del Correcaminos y la cinta son  constantes y valen 200km/h y 80km/h 
+respectivamente, y el tiempo que duran encendidos los propulsores hasta que se les acaba el 
+combustible es de 20 segundos. 
+ 
+Si cuando pasa el Correcaminos el tiempo de reacción del Coyote y lo que tarda        en encender los 
+propulsores es en conjunto de 5 segundos  
+a) 
+¿Qué distancia total tendrá que recorrer el Coyote si calculó que alcanzaría al Correcaminos en el 
+instante justo en que se le acabe el combustible? 
+Para la compra de los patines el Coyote consultó a su amigo físico Edgar que le dijo que fuerza 
+mínima debían tener los propulsores. 
+b) Calcule cuál es el valor de esta fuerza. 
+Basándose en estos cálculos se compró unos patines con fuerza de propulsión igual a 300N. 
+c) 
+Determine el trabajo y la potencia que realizan los propulsores y la velocidad con que alcanza al 
+Correcaminos. 
+Sin embargo, y como era de esperarse, el Correcaminos se dio cuenta de la trampa y se subió a la cinta 
+con el tiempo justo para escapar de su perseguidor, quien no había reparado en que ocurriría si fallaba 
+su plan. Lo que sucedió es que una vez acabada la cinta quedaba un tramo de unos 500m hasta un alto 
+precipicio.  
+Si el coeficiente de rozamiento por rodadura con el suelo es de 0,1. 
+d) ¿Con qué velocidad llega el Coyote al borde del precipicio? 
+La altura del precipicio es de 125m. 
+e) 
+¿Cuánto tarda en caer el Coyote y a qué distancia de la base del precipicio lo hace? 
+Datos: MCoyote = 60 kg  
+|g| = 9,82 m / s2
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p42_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**BIP BIP (coyote e cinta) **
+
+PT58. Città di Buenos Aires. Blu. 
+ 
+BIP, BIP! 
+Questa volta ci troviamo con il nostro amico il Coyote e un nuovo trappola che ha ideato per
+- Prendere il Correcaminos. Con la nuova tecnologia il Coyote è riuscito a costruire una cinta trasportiva
+- La marca ACME che ha messo in camicia al fianco di una strada. Quando il Corretto passerà da lì
+Se non fosse stato sveglio, il nostro cacciatore avrebbe acceso gli skate che ha comprato al Megastore.
+Arrivo e posizionandosi sulla cinta, avrebbe la possibilità di raggiungere il suo inimico fuggitivo. 
+
+Le velocità del Correcaminos e della cinta sono costanti e valono 200km/h e 80km/h 
+rispettivamente, e il tempo che i propulsori durano a fuoco fino a quando non si esauriscono il
+Il carburante è di 20 secondi. 
+ 
+Se quando passa il Correcaminos il tempo di reazione del Coyote e quanto tempo ci vuole per accendere i
+I propulsori sono complessi di 5 secondi 
+a) 
+Quanto sarà il percorso totale del Coyote se calcolerebbe di raggiungere il Correcaminos nel...
+- l'istante in cui si esaurisce il carburante? 
+Per l'acquisto dei pattin , il Coyote ha consultato il suo amico Edgar , che gli ha detto di fare forza .
+- Non è vero. 
+b) Calcolare il valore di questa forza. 
+Sulla base di questi calcoli sono state comprate patine con una forza di propulsione pari a 300N. 
+c) 
+Determina il lavoro e la potenza dei propulsori e la velocità con cui raggiunge il punto di
+- Cammina. 
+Tuttavia, come ci si aspettava, il Correcaminos si è accorto del trappola e si è messo sulla cinta.
+con il giusto tempo per sfuggire al suo perseguitatore, che non si era accorto di cosa sarebbe accaduto se avesse fallito.
+il suo piano. Il fatto è che una volta finito il film rimaneva un tratto di circa 500 metri fino ad un alto.
+- Il precipizio. 
+Se il coefficiente di ruggine per rotazione con il suolo è di 0,1. 
+D) A che velocità il Coyote arriva al bordo del precipizio? 
+L'altezza del precipizio è di 125 metri. 
+e) 
+Quanto tempo ci vuole per cadere il Coyote e a che distanza dalla base del precipizio lo fa? 
+Dati: MCoyote = 60 kg 
+|g| = 9,82 m / s2
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p42_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following table shows the number of vehicles that are used in the manufacture of the product:
+
+PT58. City of Buenos Aires. Blue, please. 
+ 
+BIP, BIP! 
+This time we meet our friend the Coyote and a new trap he devised for us .
+Catch the Roadrunner. With the new technology the Coyote was able to build a treadmill .
+mark ACME that placed camouflaged by a road. When the Trailblazer passed by there
+Unwittingly, our hunter would light up some propellers he bought at the Megastore.
+And by standing on the tape, he would have a chance to catch his elusive enemy. 
+
+The trail and the tape speeds are constant and are 200km/h and 80km/h.
+respectively, and the length of time the thrusters are on until they run out of fuel.
+Fuel is 20 seconds. 
+ 
+If when the Correcaminos pass the Coyote reaction time and how long it takes to ignite the
+The thrusters are set to 5 seconds 
+a) 
+What total distance would the Coyote have to travel if he calculated that it would reach the Correcaminos in the
+Just as soon as you run out of fuel? 
+For the skates , the Coyote consulted his physical friend Edgar , who told him to force him .
+At least they had to have the thrusters. 
+(b) Calculate the value of this force. 
+Based on these calculations, skates with a propulsion force equal to 300N were purchased. 
+c) 
+Determine the work and power of the propellers and the speed at which it reaches the
+We're on the wrong track. 
+However, and as expected, the Runner-Up realized the trap and climbed onto the tape.
+With the right time to escape from his stalker, who had not realized what would happen if he failed.
+his plan. What happened was that once the tape was finished , there was a stretch of about 500 meters to a high .
+The precipice. 
+If the coefficient of friction per rolling with the ground is 0,1. 
+(d) How fast does the Coyote reach the edge of the precipice? 
+The height of the cliff is 125 meters. 
+e) 
+How long does it take the Coyote to fall and how far from the bottom of the precipice does it fall? 
+The data are: MCoyote = 60 kg 
+|g| = 9,82 m / s2
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p42_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q59" data-atom="q59" data-title="Argent 2004 Locale — Quesito 59" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/multi,object/tank-container,object/gas"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Viaje en globo (aire y helio)**
+
+PT59. Ciudad de Buenos Aires. Azul. 
+ 
+Viaje en globo. 
+Se tiene un globo aerostático lleno de aire. La composición de este último estando no contaminado y al 
+nivel del mar es de 78% de Nitrógeno (N2), 21% de Oxígeno (O2) y un 1% de Argón (Ar), siendo el 
+porcentaje en que intervienen otros gases despreciable. Suponemos a nuestro globo como una gran 
+esfera de 10m de diámetro. 
+a) Se desea saber cuál es la masa de aire que se encuentra en el globo y la densidad del mismo a 
+condiciones normales de presión y temperatura (1 atm, 0 ºC y en adelante suponemos esta última 
+como temperatura ambiente) 
+Pero lo cierto es que si el aire que está en el interior del globo está a la misma temperatura que el del 
+exterior, este no podrá ascender. Para ello se lo calienta con una llama. 
+b) Calcule una función que me diga cuál es la nueva densidad del aire en el interior del globo 
+sabiendo la temperatura del mismo. (densidad en función de la temperatura) 
+Las fuerzas que hacen que el globo no ascienda son su propio peso (esto incluye el peso del aire dentro 
+de él) y la que lo hace ascender es el empuje E. Esta fuerza sólo depende del volumen V del cuerpo y 
+está dada por la fórmula  
+E = paire . Vcuerpo , donde el primer factor es el peso específico del aire fuera del globo. Se sabe que la 
+masa de la tela y el canasto del globo es de 100 kg 
+c) Calcule usando esta fórmula cuál debe ser la temperatura del aire del interior del globo si se 
+quieren llevar 2 personas de 75 kg. 
+
+d) Averigüe cuántas calorías fueron entregadas a la masa que quedó en el interior del globo siendo el 
+calor específico del aire a volumen constante de 0,171cal/ ºC.g 
+Otro invento volador es el zepelin o dirigible. A diferencia del globo aerostático, este consigue la 
+diferencia de densidad con el exterior con el uso de Helio (He). 
+e) Determine el radio deberá tener un globo lleno de helio si se quiere que lleve al mismo 
+contingente que el globo, pero siendo la temperatura ambiente de 30ºC  
+Datos:  
+Mr N = 14 g /mol 
+Mr O = 16 g / mol 
+ 
+Mr Ar = 40 g / mol 
+Mr He = 4 g / mol 
+R = 0,082 atm.L / ºK.mol 
+|g| = 9,82 m / s2
+
+**Topic:** [[Fluid Mechanics]], [[Kinetic Theory]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Viaggio a bollo (aria e elio) **
+
+PT59. Città di Buenos Aires. Blu. 
+ 
+Viaggio a pallone. 
+Ha un palloncino aereo pieno di aria. La composizione di quest'ultimo non è contaminata e
+Il livello del mare è del 78% di azoto (N2), del 21% di ossigeno (O2) e dell'1% di argone (Ar), il quale è il
+percentuale di altri gas dispregiati. Supponiamo che il nostro globo sia un grande
+sfera di 10 metri di diametro. 
+a) Si desidera sapere quale sia la massa dell'aria presente nel globo e la densità del globo a
+La temperatura e la pressione normali (1 atm, 0 oC e oltre)
+come temperatura ambiente) 
+Ma la verità è che se l'aria all'interno del globo è alla stessa temperatura di quella del globo
+fuori, questo non potrà salire. Per questo lo scaldano con una fiamma. 
+b) Calcola una funzione che mi dica qual è la nuova densità dell'aria all'interno del globo
+sapendo la temperatura della stessa. (densità a temperatura) 
+Le forze che fanno sì che il pallone non si alzi sono il suo peso (questo include il peso dell'aria dentro)
+E la cosa che lo fa salire è il pulso E. Questa forza dipende solo dal volume V del corpo e
+è dato dalla formula 
+E = coppia . Vcorpo, dove il primo fattore è il peso specifico dell'aria fuori dal globo. Si sa che 
+Il tessuto e la cesta del pallone sono di 100 kg.
+c) Calcolare con questa formula quale deve essere la temperatura dell'aria all'interno del palloncino se si
+Vogliono portare due persone di 75 kg. 
+
+d) Scoprire quante calorie sono state consegnate alla massa rimasta all'interno del globo essendo il
+calore specifico dell'aria a volume costante di 0,171 cal/ oC.g 
+Un'altra invenzione volante è il zepelino o dirigible. A differenza del pallone aereo, questo ottiene la
+differenze di densità con l'esterno con l'uso di Helio (He). 
+e) Determina che la radio deve avere un pallone pieno di elio se si vuole che lo porti.
+Contingente che il globo, ma essendo la temperatura ambiente di 30oC 
+Datati: 
+Mr N = 14 g /mol 
+Mr O = 16 g / mol 
+ 
+Mr Ar = 40 g / mol
+Mr He = 4 g / mol
+R = 0,082 atm.L / oK.mol 
+|g| = 9,82 m / s2
+
+**Topic:** [[Fluid Mechanics]], [[Kinetic Theory]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Blood travel (air and helium) **
+
+PT59. City of Buenos Aires. Blue, please. 
+ 
+Traveling in a balloon. 
+You have a balloon full of air. The composition of the latter being uncontaminated and the
+Sea level is 78% nitrogen (N2), 21% oxygen (O2) and 1% argon (Ar), with the
+The percentage of other negligible gases involved. We suppose our globe as a big one.
+10m diameter sphere. 
+(a) It is desirable to know the mass of air in the balloon and its density at
+Normal temperature and pressure conditions (1 atm, 0 oC and onwards we assume the latter 
+as room temperature) 
+But the truth is that if the air inside the balloon is at the same temperature as the inside of the balloon,
+outside, this one won't be able to ascend. It's heated with a flame. 
+(b) Calculate a function that tells me what the new density of air inside the balloon is.
+Knowing the temperature of the same. (density by temperature) 
+The forces that keep the balloon from rising are its own weight (this includes the weight of the air inside it).
+And the one that makes it go up is the E-push. This force depends only on the body volume V and
+It 's given by the formula .
+E = pair . Vcorpo, where the first factor is the specific weight of air outside the balloon. It is known that 
+The mass of the fabric and the basket of the balloon is 100 kg.
+(c) Calculate using this formula what the temperature of the air inside the balloon should be if you
+They want to carry two people weighing 75 kg. 
+
+(d) Find out how many calories were delivered to the mass left inside the balloon being the
+specific air temperature at a constant volume of 0,171 cal/ oC.g 
+Another flying invention is the zepelin or airship. Unlike the balloon, this one gets the
+density difference with the outside using Helium (He). 
+(e) Determine whether the radio must have a helium-filled balloon if it is to be carried by the same balloon.
+The balloon is contingent, but the room temperature is 30°C.
+The data: 
+The value of the product is not less than EUR 1 million.
+Mr O = 16 g / mol 
+ 
+Mr Ar = 40 g / mol
+Mr He = 4 g / mol
+R = 0,082 atm.L / oK.mol 
+|g| = 9,82 m / s2
+
+**Topic:** [[Fluid Mechanics]], [[Kinetic Theory]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q60" data-atom="q60" data-title="Argent 2004 Locale — Quesito 60" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/wheel,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**El Molino (de viento)**
+
+PT60. Ciudad de Buenos Aires. Azul. 
+ 
+El Molino. 
+En los campos donde no llega la energía eléctrica y no hay agua cerca 
+se usan los molinos de viento para obtener ambas. En este campo el 
+molino posee seis aspas de 5 m de longitud y al funcionar el viento 
+sopla a 16km/h. Se sabe que la velocidad en la punta de un aspa es de ¾ 
+partes de la velocidad del viento. 
+a) ¿Cuál es la velocidad angular del giro del molino? 
+Sabemos que este movimiento representa energía llamada cinética. Se 
+pueden pensar a las aspas como varas con toda su masa situada en la 
+punta de las mismas. La masa de cada aspa es de 10kg.  
+b) ¿Cuál es la energía cinética de las aspas del molino? 
+Esta energía es aprovechada por medio de engranajes que están 
+conectados al eje del molino para activar una bomba de agua. Esta 
+obtiene el líquido de napas subterráneas situadas a 15m de profundidad. 
+Si de la energía del molino se puede aprovechar un 15% de la misma en 
+el lapso de 1 minuto. 
+c) ¿Cuánto tiempo será necesario esperar para llenar un tanque de 1 m de altura y 500 L de capacidad 
+a 2m sobre el nivel del suelo? 
+Este tanque funciona además de reserva de agua como reserva de 
+energía, pues, al desbordar, el agua que cae hace girar una rueda 
+que transforma ese movimiento en energía eléctrica. Esta es 
+almacenada en una batería para épocas donde no hay viento. La 
+rueda está a 1 m sobre el nivel del suelo y tiene 3 m de diámetro.   
+d) ¿Cuántas vueltas dará la rueda en 1 minuto? 
+Con la energía almacenada se desea que funcionen 4 lamparitas de 
+25W durante 4 horas 
+e) ¿Cuánta energía debe guardarse y la caída de agua durante 
+cuánto tiempo representa? 
+ 
+Datos:    
+|g| = 9,82 m / s2 δagua = 1 g / cm3
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p43_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Rotational Dynamics]], [[Conservation of Energy]]
+**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Wheel (object)|Wheel]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Il mulino (a vento) **
+
+PT60. Città di Buenos Aires. Blu. 
+ 
+Il Molino. 
+Nei campi dove non arriva l'elettricità e non c'è acqua vicino
+Usano i mulini a vento per ottenere entrambi. In questo campo il
+il mulino ha sei aspi di 5 m di lunghezza e il vento funziona 
+Soffi a 16 km/h. La velocità della punta di un aspa è nota per tre quarti
+parti della velocità del vento. 
+a) Qual è la velocità angolare di rotazione del mulino? 
+Sappiamo che questo movimento rappresenta energia chiamata cinetica. Se 
+Si può pensare alle aspe come ai bastoni con tutta la loro massa situata nella
+La punta della stessa. La massa di ogni aspa è di 10 kg. 
+b) Qual è l'energia cinetica delle aspe del mulino? 
+Questa energia viene sfruttata da ingranaggi che sono
+collegati all'asse del mulino per attivare una pompa d'acqua. Questa è la mia .
+si ottiene il liquido da nassi sotterranei situati a 15 metri di profondità. 
+Se si può utilizzare il 15% dell'energia del mulino in
+il lapso di un minuto. 
+c) Quanto tempo occorre aspettare per riempire un serbatoio di 1 m di altezza e 500 L di capacità 
+a 2 metri dal livello del suolo? 
+Questo serbatoio funziona oltre a riserva d'acqua come riserva di
+energia, quindi, quando si esborda, l'acqua che cade fa girare una ruota
+che trasforma quel movimento in energia elettrica. Questa è
+conservata in una batteria per le epoche senza vento. La 
+La ruota è a 1 m dal livello del suolo e ha 3 m di diametro. 
+d) Quanti giri la ruota fa in un minuto? 
+Con l'energia immagazzinata si desidera che funzionino 4 lamparette di 
+25W per 4 ore.
+e) Quanto energia deve essere conservata e la caduta di acqua durante 
+Quanto tempo rappresenta? 
+ 
+Datati: 
+∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g 
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p43_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Rotational Dynamics]], [[Conservation of Energy]]
+**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Wheel (object)|Wheel]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The windmill (windmill)
+
+PT60. City of Buenos Aires. Blue, please. 
+ 
+The Mill. 
+In fields where there is no electricity and no water nearby
+windmills are used to get both. In this field the
+The mill has six 5 m long spindles and the wind is blowing.
+It's blowing at 16km/h. We know that the speed at the tip of an aspa is 3⁄4
+parts of the wind speed. 
+(a) What is the angular speed of the mill rotation? 
+We know that this movement represents energy called kinetics. Se 
+You can think of the aspas as sticks with their whole mass lying on the ground.
+The tip of the same. The mass of each aspa is 10 kg. 
+(b) What is the kinetic energy of the mill ash? 
+This energy is harnessed by gears that are
+connected to the axis of the mill to activate a water pump. This one .
+It gets the liquid from underground nests at a depth of 15m. 
+If the mill's energy can be used up to 15% of the same in
+The time span of one minute. 
+(c) How long will it take to fill a tank of 1 m high and 500 L capacity?
+At 2 meters above ground level? 
+This tank also functions as a water reservoir for
+So when the water is overflowed, the water that falls makes a wheel spin.
+It's the same thing that transforms that movement into electrical energy. This is it.
+stored in a battery for times when there's no wind. La 
+The wheel is 1 m above ground level and has a diameter of 3 m. 
+(d) How many turns will the wheel make in 1 minute? 
+With the energy stored, it is desired to operate 4 lamps of 
+25W for 4 hours 
+(e) How much energy should be stored and water fall during
+How long does it represent? 
+ 
+The data: 
+∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g ∆g 
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p43_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Rotational Dynamics]], [[Conservation of Energy]]
+**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Wheel (object)|Wheel]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q61" data-atom="q61" data-title="Argent 2004 Locale — Quesito 61" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Puntero laser barriendo una pared**
+
+PT61. Ciudad de Buenos Aires. Verde. 
+ 
+Un chico ilumina con un puntero láser una pared blanca que se encuentra a 9 metros de distancia. Su 
+perro es atraído por el punto luminoso y corre hacia él. El chico advierte la situación y comienza a 
+mover el puntero haciendo que la luz se mueva de un lado al otro. El perro se sienta y observa. 
+a) Calcule la velocidad angular media con que se mueve el puntero si realiza 24 oscilaciones 
+completas en 15 segundos, teniendo en cuenta que el ángulo barrido por el puntero en su mano es de 
+135°. 
+b) El puntero tiene una longitud de 7 cm y la distancia desde el extremo posterior  y el punto que 
+puede considerarse como eje de rotación de la mano, es de 8 cm. ¿Cuál es la velocidad tangencial en el 
+extremo anterior del puntero? 
+
+c) ¿Cuál es la velocidad del punto de luz sobre la pared cuando el ángulo que forman entre el haz y la 
+pared es de 90°? (la bisectriz del ángulo barrido por el puntero, en su movimiento de oscilación, 
+coincide con la menor distancia a la pared). 
+d) ¿Cuál es la velocidad máxima del punto lumínico en la pared? 
+e) Determine cómo varía la velocidad del punto lumínico sobre la pared en función del tiempo
+
+**Topic:** [[Rotational Dynamics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Puntatore laser che spazza un muro**
+
+PT61. Città di Buenos Aires. Verde. 
+ 
+Un ragazzo illumina con un puntatore laser un muro bianco che si trova a 9 metri di distanza. Su 
+Il cane è attratto dal punto luminoso e corre verso di esso. Il ragazzo avverte la situazione e inizia a
+spostare il puntatore facendo muovere la luce da un lato all'altro. Il cane si sente e osserva. 
+a) Calcolare la velocità angolare media con cui il puntatore si muove se fa 24 oscillazioni 
+completate in 15 secondi, considerando che l'angolo spazzato dal puntatore nella mano è di
+135°. 
+b) Il puntatore ha una lunghezza di 7 cm e la distanza dall'estremità posteriore e il punto che
+può essere considerata come un asse di rotazione della mano, è di 8 cm. Qual è la velocità tangenziale in 
+L'estremità anteriore del puntatore? 
+
+c) Qual è la velocità del punto di luce sul muro quando l'angolo che formano tra il fascio e la luce
+Il muro è di 90°? (la bisectrice dell'angolo spazzato dal puntatore, nel suo movimento oscilante, 
+coincide con la distanza più breve dal muro). 
+d) Qual è la velocità massima del punto luminoso sul muro? 
+e) Determina come la velocità del punto luminoso sul muro varia a seconda del tempo
+
+**Topic:** [[Rotational Dynamics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Laser pointer sweeping a wall**
+
+PT61. City of Buenos Aires. Green, please. 
+ 
+A boy uses a laser pointer to light a white wall that's nine meters away. Su 
+Dog is attracted to the light point and runs towards it. The boy notices the situation and starts to
+Move the pointer by moving the light from one side to the other. The dog sits and watches. 
+(a) Calculate the average angular velocity at which the pointer moves if it is 24 oscillators.
+You can do this in 15 seconds, considering the angle swept by the pointer in your hand is 
+135°. 
+(b) The pointer shall be 7 cm long and the distance from the rear end and the point which 
+can be considered as a rotating axis of the hand, it is 8 cm. What is the tangential velocity at the 
+The front end of the pointer? 
+
+(c) What is the speed of the light point on the wall when the angle formed between the beam and the
+The wall is 90°? (the angle bisector swept by the pointer, in its oscillating motion, 
+It's the shortest distance to the wall. 
+(d) What is the maximum speed of the light point on the wall? 
+(e) Determine how the speed of the light point on the wall varies with time
+
+**Topic:** [[Rotational Dynamics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q62" data-atom="q62" data-title="Argent 2004 Locale — Quesito 62" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Bloque que choca elasticamente sobre mesa**
+
+PT62. Ciudad de Buenos Aires. Verde. 
+ 
+Se suelta un bloque de 0,5 Kg desde una posición de reposo en lo alto de una pista sin fricción 2,5 m 
+arriba de la cubierta de una mesa. El bloque choca elásticamente con una masa de 1 Kg que 
+inicialmente está en reposo sobre la mesa, como se muestra en la figura. 
+Determine: 
+a) La rapidez de las dos masas un momento después de la colisión. 
+b) ¿Hasta qué altura de la pista regresa la masa de 0,5 Kg después del impacto? 
+c) ¿A qué distancia del fondo de la mesa cae la masa de 1 Kg, si la mesa tiene  2 m de altura? 
+d) ¿A qué distancia del fondo de la mesa cae finalmente la masa de 0,5 Kg ?
+
+
+
+**Topic:** [[Conservation of Momentum]], [[Conservation of Energy]]
+**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Blocco che colpisce elasticamente sul tavolo**
+
+PT62. Città di Buenos Aires. Verde. 
+ 
+Un blocco di 0,5 Kg viene rilasciato da una posizione di riposo in alto su una pista senza frizione di 2,5 m 
+sopra il copertino di un tavolo. Il blocco colpisce elasticamente con una massa di 1 kg che
+Inizialmente è a riposo sul tavolo, come si vede nella figura. 
+Determina: 
+a) La velocità delle due masse un momento dopo la collisione. 
+b) A che altezza della pista ritorna la massa di 0,5 Kg dopo l'impatto? 
+c) A che distanza dal fondo della tavola cade la massa di 1 Kg, se la tavola è alta 2 m? 
+D) A che distanza dal fondo della tavola si trova la massa di 0,5 Kg?
+
+
+
+**Topic:** [[Conservation of Momentum]], [[Conservation of Energy]]
+**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Elastically colliding block on table**
+
+PT62. City of Buenos Aires. Green, please. 
+ 
+A 0.5 kg block is released from a resting position at the top of a non-friction track 2.5 m.
+It's on the roof of a table. The block collides elastically with a mass of 1 kg which is
+initially resting on the table, as shown in the figure. 
+Determine: 
+(a) The speed of the two masses a moment after the collision. 
+(b) To what height of the runway does the mass of 0,5 Kg return after impact? 
+(c) How far from the bottom of the table does the mass of 1 kg fall if the table is 2 m high? 
+(d) How far from the bottom of the table does the 0.5 kg drop?
+
+
+
+**Topic:** [[Conservation of Momentum]], [[Conservation of Energy]]
+**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q63" data-atom="q63" data-title="Argent 2004 Locale — Quesito 63" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Gas ideal sometido a un ciclo**
+
+PT63. Ciudad de Buenos Aires. Verde. 
+ 
+Un gas ideal que inicialmente está a una presión P0 , 
+en un volumen V0 y a una temperatura T0 se somete 
+al ciclo que se describe en la figura. 
+Determine: 
+a) El trabajo neto realizado por el gas por 
+ciclo en términos de P0 y V0 . 
+b) ¿Cuál es el calor neto que se aporta al 
+sistema por ciclo? 
+c) Obtenga un valor numérico para el 
+trabajo realizado por ciclo cuando se tiene 1 mol de 
+gas a una temperatura inicial de 0 °C. 
+ 
+ 
+ 
+   P
+  V
+B
+    C 
+A 
+  D
+3P0
+  P0 
+V0 
+3V0 
+     h1 
+  
+X
+M1 
+M2 
+M1 = 0,5 Kg 
+M2 = 1 Kg 
+h1 = 2,5 m 
+h2 = 2 m
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p44_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Gas (object)|Gas]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Gas ideale sottoposto a ciclo**
+
+PT63. Città di Buenos Aires. Verde. 
+ 
+Un gas ideale che inizialmente è a una pressione P0 ,
+in un volume V0 e a una temperatura T0 si sommette 
+il ciclo descritto nella figura. 
+Determina: 
+a) Il lavoro netto effettuato dal gas per 
+ciclo in termini di P0 e V0 . 
+b) Qual è il calore netto che viene fornito al 
+sistema per ciclo? 
+(c) Ottieni un valore numerico per il 
+La produzione di un ciclo di lavoro è di 1 mol di
+gas a una temperatura iniziale di 0 °C. 
+ 
+ 
+ 
+   P
+  V
+B
+    C 
+A 
+  D
+3P0
+  P0 
+V0 
+3V0 
+     h1 
+  
+X
+M1 
+M2 
+M1 = 0,5 Kg 
+M2 = 1 Kg 
+h1 = 2,5 m 
+h2 = 2 m
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p44_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Gas (object)|Gas]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Ideal gas undergoing a cycle**
+
+PT63. City of Buenos Aires. Green, please. 
+ 
+An ideal gas that is initially at a P0 pressure ,
+at a volume of V0 and a temperature of T0 it is subjected 
+the cycle described in the figure. 
+Determine: 
+(a) Net work carried out by gas by 
+cycle in terms of P0 and V0 . 
+(b) What is the net heat supplied to the
+system by cycle? 
+(c) Obtain a numerical value for the 
+The work performed per cycle when you have 1 mol of 
+Gas at an initial temperature of 0 °C. 
+ 
+ 
+ 
+   P
+  V
+B
+    C 
+A 
+  D
+3P0
+  P0 
+V0 
+3V0 
+     h1 
+  
+X
+M1 
+M2 
+M1 = 0,5 Kg 
+M2 = 1 Kg 
+h1 = 2,5 m 
+h2 = 2 m
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p44_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Gas (object)|Gas]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q64" data-atom="q64" data-title="Argent 2004 Locale — Quesito 64" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/pulley,object/spring"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Bloque de granito en plano inclinado con poleas**
+
+PT64. Olivos, Buenos Aires. Azul. 
+ 
+Un bloque cúbico de granito que tiene 0,25 m de arista se encuentra apoyado sobre un plano inclinado 
+en reposo como se indica en la figura. 
+Se desprecia la influencia de las poleas, la masa de las cuerdas y el peso de la barra, pero no el 
+rozamiento entre el bloque y el plano inclinado. 
+ 
+Calcule: 
+a. El peso del bloque. 
+b. La tensión que ejerce la soga para sostener al bloque sobre el plano inclinado. 
+c. La fuerza que ejerce el bloque sobre el plano inclinado. 
+d. El valor en Newton que indica el dinamómetro. 
+e. Calcula la extensión del resorte en el dinamómetro. 
+f. La aceleración que adquiere el bloque al deslizarse por el plano inclinado si se corta la soga. 
+ 
+Densidad del granito = 2,7 g/cm3           AB = 1,0 m              AO = 40 cm 
+kresorte = 20 N/cm
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p45_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Rigid Body Statics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hooke's Law (metodo)|Hooke's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Spring (object)|Spring]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Blocco di granito a pianta inclinata con pollice**
+
+PT64. Olivos, Buenos Aires. Blu. 
+ 
+Un blocco di granito cubo di 0,25 m di spessore si trova appoggiato su un piano inclinato 
+in riposo come indicato nella figura. 
+Si disprezza l'influenza delle pole, la massa delle corde e il peso della barra, ma non il 
+il riscaldo tra il blocco e il piano inclinato. 
+ 
+Calcola: 
+a. Il peso del blocco. 
+b. La tensione che esercita la corda per sostenere il blocco sul piano inclinato. 
+c. La forza esercitata dal blocco sul piano inclinato. 
+d. Il valore in Newton che indica il dinamometro. 
+e. Calcola l'estensione della sorgente sul dinamometro. 
+f. L'accelerazione che il blocco acquista quando si scivola lungo il piano inclinato se si taglia la corda. 
+ 
+Densità del granito = 2,7 g/cm3 AB = 1,0 m AO = 40 cm 
+Cresorte = 20 N/cm
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p45_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Rigid Body Statics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hooke's Law (metodo)|Hooke's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Spring (object)|Spring]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Flat-slung granite block with pulleys **
+
+PT64. Olive trees, from Buenos Aires. Blue, please. 
+ 
+A cubic block of granite with a 0.25 m edge is supported on an inclined plane.
+at rest as shown in the figure. 
+The influence of pulleys, the mass of the strings and the weight of the bar is despised, but not the 
+friction between the block and the sloping plane. 
+ 
+Calculate: 
+a. The weight of the block. 
+b. The tension exerted by the rope to hold the block on the slope. 
+c. The force exerted by the block on the inclined plane. 
+d. The value in Newton that indicates the dynamometer. 
+e. Calculate the extent of the spring in the dynamometer. 
+f. The acceleration acquired by the block when sliding over the sloping plane if the rope is cut. 
+ 
+The following is the list of the main components of the granite:
+The following is the list of the following:
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p45_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Rigid Body Statics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hooke's Law (metodo)|Hooke's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Spring (object)|Spring]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q65" data-atom="q65" data-title="Argent 2004 Locale — Quesito 65" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,topic/gravitation,argomento/gravitazione-e-astrofisica,difficolta/3,multidisciplina/mono,object/satellite,object/planet"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Satelite en orbita eliptica (conceptual)**
+
+PT65. Olivos, Buenos Aires. Azul. 
+ 
+2.1) Un satélite artificial está orbitando la Tierra. Su órbita es levemente elíptica en vez de 
+exactamente circular. 
+Explique: 
+a. Aún cuando la órbita fuera circular, porqué su velocidad no sería constante 
+b. Porqué su rapidez no es constante 
+c. Porqué se dice que está cayendo 
+d. Qué fuerza o fuerzas actúa/n en él 
+e. Brevemente discuta qué información sería necesaria para poder determinar su velocidad 
+orbital, y explique cómo la determinaría 
+f. Suponga un valor para esa información, y calcule aproximadamente  la altura orbital 
+sobre la Tierra para un satélite geoestacionario (aquellos que en su órbita permanecen 
+siempre sobre el mismo punto en la Tierra). 
+ 
+2.2) Despreciando la resistencia del aire, un objeto lanzado hacia arriba verticalmente, vuelve a caer 
+con la misma velocidad con la que se lo lanzó. 
+Explique porqué una bala disparada verticalmente hacia arriba no constituye el mismo peligro al caer. 
+Intente explicarlo cuantitativamente con valores supuestos. 
+ 
+ 
+ 
+ 
+30° 
+  A
+B 
+O
+
+**Topic:** [[Gravitation]]
+**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kepler's Laws (metodo)|Kepler's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Satellite in orbita elliptica (concepzionale) **
+
+PT65. Olivos, Buenos Aires. Blu. 
+ 
+2.1) Un satellite artificiale sta orbitando la Terra. La sua orbita è leggermente elliptica invece di 
+circolare esattamente. 
+Spiega:
+a. Anche se l'orbita fosse circolare, perché la sua velocità non sarebbe costante
+b. Perché la sua velocità non è costante
+c. Perché si dice che sta cadendo?
+d. Che forza o forze agiscono in lui
+e. In breve, discute quali informazioni sarebbero necessarie per poter determinare la sua velocità.
+orbitale, e spiegare come la determinerebbe.
+f. Supponi un valore per queste informazioni, e calcola circa l'altezza orbitale.
+sulla Terra per un satellite geostazionario (quelli che restano in orbita)
+sempre sullo stesso punto sulla Terra). 
+ 
+2.2) Sotto l'aspetto di resistenza dell'aria, un oggetto lanciato verticalmente verso l'alto, cade di nuovo.
+con la stessa velocità con cui l'ha lanciato. 
+Spiega perché un proiettile sparato verticalmente verso l'alto non costituisce lo stesso pericolo quando cade. 
+Prova a spiegarlo quantitativamente con valori presunti. 
+ 
+ 
+ 
+ 
+30° 
+  A
+B 
+O
+
+**Topic:** [[Gravitation]]
+**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kepler's Laws (metodo)|Kepler's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following information is provided for in the Annex to Implementing Regulation (EU) 2015/2449.
+
+PT65. Olive trees, from Buenos Aires. Blue, please. 
+ 
+2.1) An artificial satellite is orbiting the Earth. Its orbit is slightly elliptical instead of 
+exactly circular. 
+Explain: 
+a. Even if the orbit was circular, why would its speed be unconstant?
+b. Because their speed is not constant .
+c. Why is it said to be falling?
+d. What force or forces are acting on him 
+e. Briefly discuss what information would be needed to determine its speed 
+orbital, and explain how you would determine it.
+f. Assume a value for that information, and calculate approximately the orbital height.
+above Earth for a geostationary satellite (those in its orbit remaining 
+always on the same spot on Earth). 
+ 
+2.2) Despite the resistance of the air, an object thrown up vertically falls again.
+At the same speed as he threw it. 
+Explain why a bullet fired vertically upward does not pose the same danger when falling. 
+Try to explain it quantitatively with assumed values. 
+ 
+ 
+ 
+ 
+30° 
+  A
+B 
+O
+
+**Topic:** [[Gravitation]]
+**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kepler's Laws (metodo)|Kepler's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q66" data-atom="q66" data-title="Argent 2004 Locale — Quesito 66" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/multi,object/spring,object/resistor,object/conducting-sphere"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Preguntas de opcion multiple**
+
+PT66. Olivos, Buenos Aires. Azul. 
+ 
+Preguntas de opción múltiple. 
+Las respuestas deben estar acompañadas de algún tipo de justificación que permita inferir las razones 
+utilizadas para su selección 
+ 
+1) Un astronauta suelta una manzana en la superficie de la Luna, donde la aceleración de la gravedad 
+es 6 veces menor que en la Tierra. El tiempo que tarde la manzana en caer a la superficie comparado 
+con el tiempo en caer en la Tierra, lanzada desde la misma altura es 
+a) el mismo 
+b) √6 veces mayor 
+c) 6 veces mayor 
+d) 36 veces mayor 
+ 
+2) María empuja un libro hacia arriba contra la superficie horizontal del techo de su pieza, como se 
+observa en la figura. 
+El libro pesa 20 N y ella empuja hacia arriba con una fuerza de 25 N. De la lista de magnitudes de 
+fuerza de contacto entre el techo y el libro, y entre el libro y su mano, ¿cual es la pareja de valores 
+correcta? 
+ 
+ 
+ 
+techo y libro 
+libro y su mano 
+a) 
+5N 
+45N 
+b) 
+5N 
+25N 
+c) 
+25N 
+25N 
+d) 
+20N 
+5N 
+ 
+3) Un carrito es empujado a lo largo de una superficie horizontal por una soga que pasa por una polea 
+fija, como se indica en la figura. 
+Mientras el carrito se mueve hacia la derecha, suponga que la tensión en la soga se mantiene constante 
+e ignore las fuerzas de fricción. 
+                                   
+ 
+ 
+ 
+ 
+ 
+Mientras el carrito se mueve hacia la derecha, su aceleración... 
+a) aumenta 
+ 
+b) disminuye 
+ 
+c) es cero 
+ 
+d) permanece constante 
+ 
+4) Una masa está suspendida de un resorte, oscilando en un plano vertical con una oscilación muy 
+pequeña. 
+Si la amplitud de la oscilación se duplica, el período... 
+a) se reduce a la mitad 
+b) se duplica 
+c) permanece constante 
+d) aumenta √2  
+ 
+techo  
+libro 
+Mano de María empujando
+Tensión 
+
+5) Considere dos planetas, planeta X con un radio R y masa M y planeta Y con un radio 2R y una 
+masa 2M. 
+El peso de una persona en X es P. Su peso en Y será 
+a) 2P 
+ 
+b) P/2  
+c) P 
+ 
+d) P/4 
+ 
+6) La figura muestra una superficie rectangular de bronce (en negro) en la cual se ha cortado un 
+rectángulo de dimensiones x e y, como se muestra. Si el metal es calentado uniformemente 
+ 
+                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) x aumentará e y disminuirá 
+b) ambos aumentarán 
+c) x disminuirá e y aumentará 
+d) ambos disminuirán 
+ 
+7) La energía absorbida por un gas en una expansión isotérmica es igual a... 
+a) el trabajo hecho por el gas 
+b) el trabajo hecho sobre el gas 
+c) cero 
+d) el cambio de energía interna del gas 
+ 
+8) Una barra de hierro es más larga que otra, como se observa. Sus Temperaturas se incrementan en la 
+misma magnitud. Cual de las siguientes expresiones es correcta para el cambio de longitud de cada 
+una de ellas,  
+ 
+a) el cambio es el mismo 
+b) el cambio es mayor para la barra más larga 
+c) el cambio es mayor para la barra más corta 
+d) ninguna incrementa su longitud 
+ 
+9) Una onda transversal se propaga de izquierda a derecha,  como se indica. 
+                                                             dirección de propagación 
+ 
+Sólo con esta información, se puede deducir que la dirección de la oscilación debe ser 
+a) hacia arriba y abajo en la hoja 
+b) hacia la izquierda y derecha en la hoja 
+c) en ángulos rectos a la dirección de la onda 
+d) hacia adentro y afuera de la hoja 
+ 
+10) Microondas de longitud de onda 4,0 cm se emiten perpendicularmente hacia una superficie 
+reflectora y son reflejadas. Un detector, que mide la intensidad neta de microondas, se mueve a lo 
+largo de la línea que une el emisor y la superficie reflectora como se indica 
+ 
+ 
+ 
+ 
+ y 
+x 
+fuente de microondas                         detector        superficie reflectora 
+
+La distancia movida por el punto detector entre un punto de mínima intensidad y el próximo punto de 
+mínima intensidad es de  
+a) 0,5 cm 
+ 
+b) 1,0 cm 
+ 
+c)2,0 cm 
+ 
+d) 4,0 cm 
+ 
+11) Una longitud L de cable, de resistencia R, es cortada al medio y ambos pedazos conectados en 
+paralelo, como se muestra. ¿Cuál es la resistencia equivalente? 
+ 
+ 
+a) R/4  
+b) R/2 
+c) 2R 
+d) 4R 
+ 
+12) Un conductor esférico hueco está cargado eléctricamente. El potencial electrostático dentro del 
+conductor es... 
+a) cero en todos los puntos 
+b) tiene un valor constante en todos los puntos 
+c) disminuye uniformemente desde la superficie hacia el centro 
+d) disminuye en forma inversa a la distancia desde la superficie hacia el centro 
+ 
+13) En el circuito de la figura, la celda tiene resistencia interna despreciable y el voltímetro tiene una 
+resistencia de 100 kΩ 
+La f.e.m. de la celda es de 6,0 V, y cada resistor es de 100 kΩ 
+ 
+ 
+ 
+La lectura del voltímetro será de 
+a) 0 V 
+b) 2,0 V 
+c) 3,0 V 
+d) 4,0 V 
+ 
+14) En 1936 Chadwick realizó un experimento en el cual determinó la masa del neutrón. En ese 
+experimento la determinación de esa masa se base en el principio de 
+a) conservación de la cantidad de movimiento lineal solamente 
+b) conservación de la energía solamente 
+c) conservación de la carga eléctrica 
+d) conservación de la cantidad de movimiento lineal y la energía 
+ 
+15) Una varilla de metal de longitud l se mueve a velocidad constante v perpendicularmente a un 
+campo magnético uniforme B. El trabajo hecho en mover a un electrón, de carga eléctrica e, de una 
+V
+
+punta a la otra de la varilla es de... 
+a) Blv/e 
+b) Blve 
+c) Blv 
+d) Bev
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p46_f1.png]]
+![[cuadernillo_2004_p47_f3.png]]
+![[cuadernillo_2004_p47_f4.png]]
+![[cuadernillo_2004_p47_f5.png]]
+![[cuadernillo_2004_p48_f6.png]]
+![[cuadernillo_2004_p48_f7.png]]
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Spring (object)|Spring]], [[Resistor (object)|Resistor]], [[Conducting Sphere (object)|Conducting Sphere]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Questioni di opzione multiple**
+
+PT66. Olivos, Buenos Aires. Blu. 
+ 
+Domande di scelta multipla. 
+Le risposte devono essere accompagnate da qualche tipo di giustificazione che permetta di dedurre le ragioni 
+utilizzati per la loro selezione 
+ 
+1) Un astronauta rilascia un'appella sulla superficie della Luna, dove l'accelerazione della gravità
+è sei volte più piccolo di quello che c'è sulla Terra. Il tempo che tarda l'apole a cadere sulla superficie rispetto
+Con il tempo di cadere sulla Terra, lanciato dall'altezza stessa è 
+a) lo stesso 
+b) √6 volte più grande 
+c) 6 volte più grande 
+d) 36 volte più grande 
+ 
+2) Maria spinge un libro verso l'alto contro la superficie orizzontale del tetto della sua pezzo, come si
+osserva la figura. 
+Il libro pesa 20 N e lei spinge verso l'alto con una forza di 25 N. Dal biglietto di grandezza 
+La forza di contatto tra il tetto e il libro, e tra il libro e la sua mano, qual è la coppia di valori.
+- È vero? 
+ 
+ 
+ 
+tetto e libro 
+libro e la sua mano
+a) 
+5N 
+45N 
+b) 
+5N 
+25N 
+c) 
+25N 
+25N 
+d) 
+20N 
+5N 
+ 
+3) Un carrello viene spinto lungo una superficie orizzontale da una corda che passa attraverso una polea.
+- il numero di persone che hanno un'attività di lavoro 
+Mentre il carrello si muove a destra, supponiamo che la tensione sul filo sia costante.
+e ignora le forze di attrito. 
+                                   
+ 
+ 
+ 
+ 
+ 
+Mentre il carro si muove a destra, la sua accelerazione... 
+a) aumenta 
+ 
+b) diminuisce 
+ 
+c) è zero 
+ 
+d) rimane costante 
+ 
+4) Una massa è sospesa da una resorte, oscillante in un piano verticale con un'oscillazione molto forte.
+piccola. 
+Se l'ampiezza dell'oscillazione raddoppia, il periodo... 
+a) si riduce di metà 
+b) raddoppiare 
+c) rimane costante 
+d) aumenta √2 
+ 
+- Il tetto
+libro 
+La mano di Maria spingendo
+Tensione
+
+5) Consideriamo due pianeti, il pianeta X con un raggio R e massa M e il pianeta Y con un raggio 2R e una 
+massa 2M. 
+Il peso di una persona in X è P. Il suo peso in Y sarà
+a) 2P 
+ 
+b) P/2  
+c) P 
+ 
+d) P/4 
+ 
+6) La figura mostra una superficie rettangolare di bronzo (in nero) su cui è stata tagliata una
+rettangolo di dimensioni x e y, come mostrato. Se il metallo è riscaldato uniformemente
+ 
+                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) x aumenterà e y diminuirà 
+b) entrambi aumenteranno 
+c) x diminuirà e y aumenterà 
+d) diminuiranno entrambi 
+ 
+7) L'energia assorbita da un gas in una espansione isotermica è pari a... 
+a) il lavoro svolto dal gas 
+b) il lavoro svolto sul gas 
+c) zero 
+d) il cambio di energia interna del gas 
+ 
+8) Una barra di ferro è più lunga di un'altra, come si osserva. Le loro temperature aumentano in
+La stessa grandezza. Qual è la formula corretta per il cambiamento di lunghezza di ciascuna
+una di queste,
+ 
+a) il cambiamento è lo stesso 
+b) il cambio è maggiore per la barra più lunga 
+c) il cambio è maggiore per la barra più corta 
+d) non aumenta la sua lunghezza 
+ 
+9) Un'onda trasversale si diffonde da sinistra a destra, come indicato. 
+indirizzo di diffusione 
+ 
+Solo con queste informazioni si può dedurre che la direzione dell'oscillazione deve essere
+a) su e giù sulla foglia 
+b) verso sinistra e destra sulla foglia 
+c) a angoli retti verso la direzione dell'onda 
+d) all'interno e all'esterno della foglia 
+ 
+10) Microonde di lunghezza d'onda di 4,0 cm vengono emesse perpendicularmente a una superficie 
+riflettore e sono riflessi. Un rilevatore, che misura l'intensità netta di microonde, si muove al
+lunghezza della linea che collega l'emittente e la superficie riflettente come indicato 
+ 
+ 
+ 
+ 
+ y 
+x 
+fonte di microonde, rilevatore superficie riflettente 
+
+La distanza percorsa dal punto di rilevamento tra un punto di minima intensità e il punto di successivo 
+L' intensità minima è di 
+a) 0,5 cm 
+ 
+b) 1,0 cm 
+ 
+c)2,0 cm 
+ 
+d) 4,0 cm 
+ 
+11) Una lunghezza L di cavo, resistente a R, è tagliata a metà e entrambi i pezzi sono collegati in
+parallelo, come si vede. Qual è la resistenza equivalente? 
+ 
+ 
+a) R/4  
+b) R/2 
+c) 2R 
+d) 4R 
+ 
+12) Un conduttore sfero vuoto è elettricamente carico. Potenzialmente, il potenziale elettrostatico all'interno del 
+Il conducente è... 
+a) zero in tutti i punti 
+b) ha un valore costante in tutti i punti 
+(c) diminuisce uniformemente dalla superficie verso il centro 
+d) diminuisce in modo inverso alla distanza dalla superficie al centro 
+ 
+13) Nel circuito della figura, la cellula ha una resistenza interna dispregiata e il voltimetro ha una resistenza di
+resistenza di 100 kΩ 
+La f.e.m. La resistenza della cella è di 6,0 V, e ogni resistenza è di 100 kΩ 
+ 
+ 
+ 
+La lettura del voltometro sarà di 
+a) 0 V 
+b) 2,0 V 
+c) 3,0 V 
+d) 4,0 V 
+ 
+14) Nel 1936 Chadwick eseguì un esperimento nel quale determinò la massa del neutrone. In quel
+L'esperimento che determina questa massa si basa sul principio di
+a) conservazione della quantità di movimento lineare soltanto 
+b) solo la conservazione dell'energia 
+c) conservazione della carica elettrica 
+d) conservazione della quantità di movimento lineare e dell'energia 
+ 
+15) Una barra di metallo di lunghezza l si muove a velocità costante v perpendicolare a un 
+campo magnetico uniforme B. Il lavoro fatto per spostare un elettrone, di carica elettrica e, di un 
+V
+
+Il punto all'altro del bastone è di... 
+(a) B.
+b) Blve 
+(c) Boll.
+d) Bev
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p46_f1.png]]
+![[cuadernillo_2004_p47_f3.png]]
+![[cuadernillo_2004_p47_f4.png]]
+![[cuadernillo_2004_p47_f5.png]]
+![[cuadernillo_2004_p48_f6.png]]
+![[cuadernillo_2004_p48_f7.png]]
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Spring (object)|Spring]], [[Resistor (object)|Resistor]], [[Conducting Sphere (object)|Conducting Sphere]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following information is provided by the Commission to the Member States:
+
+PT66. Olive trees, from Buenos Aires. Blue, please. 
+ 
+Multiple choice questions. 
+The answers must be accompanied by some form of justification which allows the reasons to be inferred.
+used for selection 
+ 
+1) An astronaut releases an apple on the surface of the moon, where gravity accelerates.
+It's six times smaller than on Earth. The time it takes the apple to fall to the surface compared to
+With time falling to Earth, launched from the same height is 
+(a) the same 
+(b) √6 times greater 
+(c) 6 times greater 
+(d) 36 times greater 
+ 
+2) Mary pushes a book up against the horizontal surface of the ceiling of her piece, as she
+You see in the figure. 
+The book weighs 20 N and she pushes upwards with a force of 25 N. From the list of magnitude of 
+The force of contact between the ceiling and the book, and between the book and your hand, what is the value pair?
+Right? 
+ 
+ 
+ 
+Roof and book 
+The book and his hand
+a) 
+5N 
+45N 
+b) 
+5N 
+25N 
+c) 
+25N 
+25N 
+d) 
+20N 
+5N 
+ 
+3) A cart is pushed along a horizontal surface by a rope that passes through a pole.
+fixed, as shown in the figure. 
+As the cart moves to the right, assume that the tension on the rope remains constant.
+And ignore the forces of friction. 
+                                   
+ 
+ 
+ 
+ 
+ 
+As the cart moves to the right, its acceleration... 
+(a) increases 
+ 
+(b) decreases 
+ 
+(c) is zero 
+ 
+(d) remains constant 
+ 
+4) A mass is suspended from a spring, oscillating in a vertical plane with a very high oscillation.
+It's a little girl. 
+If the amplitude of the oscillation doubles, the period... 
+(a) is reduced by half 
+(b) is doubled 
+(c) remains constant 
+(d) increases √2 
+ 
+The roof .
+book 
+Mary's hand pushing
+Tensions
+
+5) Consider two planets, planet X with a radius R and mass M and planet Y with a radius 2R and a 
+mass 2M. 
+The weight of a person in X is P. Your weight in Y will be 
+a) 2P 
+ 
+b) P/2  
+c) P 
+ 
+d) P/4 
+ 
+6) The figure shows a rectangular bronze surface (in black) on which a
+rectangle of dimensions x e y, as shown. If the metal is heated evenly 
+ 
+                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) x will increase and y will decrease 
+(b) both will increase 
+(c) x decreases and y increases 
+(d) both will decrease 
+ 
+7) The energy absorbed by a gas in an isothermal expansion is equal to... 
+(a) the work done by the gas 
+(b) the work done on gas 
+(c) zero 
+(d) the change in internal energy of the gas 
+ 
+8) One iron bar is longer than another, as observed. Their temperatures rise in the
+The same magnitude. Which of the following is correct for the change in length of each 
+One of them,
+ 
+(a) the change is the same 
+(b) the change is greater for the longest bar 
+(c) the change is greater for the shorter bar 
+(d) no increase in length 
+ 
+9) A transverse wave propagates from left to right, as indicated. 
+The distribution address 
+ 
+Only with this information can it be inferred that the direction of oscillation should be 
+(a) up and down on the leaf 
+(b) to the left and right of the leaf 
+(c) at right angles to the direction of the wave 
+(d) in and out of the leaf 
+ 
+10) Microwaves of wavelength of 4.0 cm are emitted perpendicular to a surface 
+They are reflected. A detector, which measures the net microwave intensity, moves to the
+length of the line connecting the emitter and the reflecting surface as indicated 
+ 
+ 
+ 
+ 
+ y 
+x 
+The surface reflector microwave source detector 
+
+The distance travelled by the detector point between a minimum intensity point and the next point of 
+The minimum intensity is 
+a) 0,5 cm 
+ 
+b) 1,0 cm 
+ 
+c)2,0 cm 
+ 
+d) 4,0 cm 
+ 
+11) A length of cable, L, of resistance R, is cut in half and both pieces connected in
+parallel, as shown. What's the equivalent resistance? 
+ 
+ 
+a) R/4  
+b) R/2 
+c) 2R 
+d) 4R 
+ 
+12) A hollow spherical conductor is electrically charged. The electrostatic potential within the 
+The driver is... 
+(a) zero at all points 
+(b) has a constant value at all points 
+(c) decreases uniformly from the surface to the centre 
+(d) decreases inversely with the distance from the surface to the centre 
+ 
+13) In the circuit of the figure, the cell has a despicable internal resistance and the voltmeter has a 
+a resistance of 100 kΩ 
+La f.e.m. The cell is 6.0 V, and each resistor is 100 kΩ 
+ 
+ 
+ 
+The readings of the voltmeter shall be of 
+a) 0 V 
+b) 2,0 V 
+c) 3,0 V 
+d) 4,0 V 
+ 
+14) In 1936 Chadwick conducted an experiment in which he determined the neutron mass. In that .
+The experimental determination of that mass is based on the principle of 
+(a) conservation of linear motion only 
+(b) energy conservation only 
+(c) conservation of electrical charge 
+(d) conservation of linear motion and energy.
+ 
+15) A length l metal rod moves at a constant speed v perpendicular to a 
+magnetic field uniform B. The work done in moving an electron, of electric charge and, of a 
+V
+
+The tip to the other end of the stick is from... 
+(a) the following:
+(b) Blve 
+(c) The
+(d) bev
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p46_f1.png]]
+![[cuadernillo_2004_p47_f3.png]]
+![[cuadernillo_2004_p47_f4.png]]
+![[cuadernillo_2004_p47_f5.png]]
+![[cuadernillo_2004_p48_f6.png]]
+![[cuadernillo_2004_p48_f7.png]]
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Spring (object)|Spring]], [[Resistor (object)|Resistor]], [[Conducting Sphere (object)|Conducting Sphere]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q67" data-atom="q67" data-title="Argent 2004 Locale — Quesito 67" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/battery,object/resistor"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Motor de CC en paralelo con lamparas**
+
+PT67. La Matanza, Buenos Aires. Verde. 
+ 
+Un motor de C.C. de 1 HP y rendimiento 84% se conecta en paralelo con 5 lámparas de 25 W/200V, 
+las cuales trabajan a la tensión nominal suministrada por un generador de f.e.m de 250V de resistencia 
+interna ri. 
+a) Dibujar el circuito 
+b) ¿Qué corriente circula por el motor? 
+c) ¿Qué corriente circula por cada lámpara? 
+d) ¿Qué corriente circula por el circuito? 
+e) ¿Cuál es la energía absorbida por el motor en 20 minutos y cuál es la entregada? 
+f) Hallar el valor de la resistencia interna del generador 
+g) Si el KWh cuesta $0.95. ¿Cuánto costará mantener las 5 lámparas encendidas 3 horas?
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Motore CC in parallelo con lampade**
+
+PT67. La Matanza, Buenos Aires. Verde. 
+ 
+Un motore di C.C. di 1 HP e un rendimento dell'84% è collegato in parallelo con 5 lampade da 25 W/200V, 
+che funzionano alla tensione nominale fornita da un generatore di resistenza di 250 V di f.e.m. 
+- La risata interna. 
+a) Disegnare il circuito 
+b) Che corrente circola attraverso il motore? 
+c) Che corrente circola per ogni lampada? 
+d) Che corrente circola nel circuito? 
+e) Qual è l'energia assorbita dal motore in 20 minuti e quale è la consegnata? 
+f) Indicare il valore della resistenza interna del generatore 
+g) Se il KWh costa 0,95 dollari. Quanto ci costa tenere le cinque lampade accese per tre ore?
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**DC motor in parallel with lamps**
+
+PT67. The killing, Buenos Aires. Green, please. 
+ 
+A C.C. engine . 1 HP and 84% power is connected in parallel with 5 25 W/200V lamps, 
+which operate at the rated voltage supplied by a 250V resistance f.e.m. generator 
+The internal laugh. 
+(a) Draw the circuit 
+(b) What current is flowing through the engine? 
+(c) What current is flowing through each lamp? 
+(d) What current is circulating in the circuit? 
+(e) What is the energy absorbed by the engine in 20 minutes and what is the energy delivered? 
+(f) Determine the value of the internal resistance of the generator 
+(g) If the KWh costs $0.95. How much will it cost to keep the five lamps on for three hours?
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q68" data-atom="q68" data-title="Argent 2004 Locale — Quesito 68" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/projectile"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Canon contra tanque (alcance)**
+
+PT68. La Matanza, Buenos Aires. Azul y Verde. 
+ 
+¿Qué distancia debe haber sobre el eje horizontal entre el cañón y el tanque en el instante de disparo 
+para que el proyectil impacte en el tanque? (usar g= 10m/s2)
+
+
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Projectile (object)|Projectile]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Canon contro il carro (alcanza) **
+
+PT68. La Matanza, Buenos Aires. Blu e verde. 
+ 
+Qual è la distanza che deve essere sull'asse orizzontale tra il cannone e il carro al momento del fuoco?
+Per far colpire il missile sul serbatoio? (usare g= 10m/s2)
+
+
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Projectile (object)|Projectile]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following is the list of the main components of the vehicle:
+
+PT68. The killing, Buenos Aires. Blue and Green. 
+ 
+What distance must be on the horizontal axis between the gun and the tank at the time of firing?
+So the projectile hits the tank? (use g= 10m/s2)
+
+
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Projectile (object)|Projectile]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q69" data-atom="q69" data-title="Argent 2004 Locale — Quesito 69" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/inclined-plane"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Bloque empujado por plano inclinado**
+
+PT69. La Matanza, Buenos Aires. Verde. 
+ 
+Un bloque de 100Kg. es empujado 40 metros hacia arriba por la superficie de un plano inclinado 30º 
+sobre la horizontal por una fuerza constante de 80Kg que actúa paralelamente al plano. El coeficiente 
+de rozamiento entre el bloque y el plano es 0,25. 
+a) Cuánto trabajo realiza la fuerza F 
+b) Calcular el incremento de energía cinética que experimenta el bloque 
+c) Hallar el incremento de energía potencial del bloque 
+d) Hallar el trabajo efectuado contra las fuerzas de rozamiento. ¿En qué se transforma éste? 
+e) ¿Qué puede decirse acerca de la suma de b,c,y d. 
+f) Cuál es la aceleración del bloque 
+g) Qué mejoras propondría para realizar el traslado del bloque-
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Block spinto per piano inclinato**
+
+PT69. La Matanza, Buenos Aires. Verde. 
+ 
+Un blocco di 100 kg. è spinto 40 metri verso l'alto dalla superficie di un piano inclinato di 30° 
+sopra il piano orizzontale da una forza costante di 80 kg che agisce in parallelo al piano. Il coefficiente 
+di rottura tra il blocco e il piano è 0,25. 
+a) Quanto lavoro fa la forza F 
+b) Calcolare l'aumento di energia cinetica sperimentato dal blocco 
+c) Trovare l'aumento di energia potenziale del blocco 
+d) Indicare il lavoro svolto contro le forze di rottura. In che cosa si trasforma questo? 
+e) Cosa si può dire della somma di b, c e d. 
+f) Qual è l'accelerazione del blocco 
+(g) Quali miglioramenti avrebbe proposto per realizzare il trasferimento del blocco?
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following table shows the following characteristics:
+
+PT69. The killing, Buenos Aires. Green, please. 
+ 
+A 100kg block. It is pushed 40 meters upwards by the surface of a plane tilted 30o 
+above the horizontal by a constant force of 80 kg acting parallel to the plane. The coefficient 
+The friction between the block and the plane is 0.25. 
+(a) How much work is done by the force F 
+(b) Calculate the increase in kinetic energy experienced by the block 
+(c) Find the potential energy increase of the block 
+(d) Find the work done against the force of friction. What does this turn into? 
+(e) What can be said about the sum of b,c, and d. 
+(f) What is the block acceleration 
+(g) What improvements would it propose to make the block transfer possible?
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q70" data-atom="q70" data-title="Argent 2004 Locale — Quesito 70" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/battery"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Cinco resistencias y una fuente**
+
+PT70. La Matanza, Buenos Aires. Azul. 
+ 
+Con 5 resistencias de 10 Ω cada una y una fuente, armar un circuito tal que: tres resistencias reciban la 
+misma diferencia de potencial de 5 Volt. Las otras dos poseen la misma potencia. ¿Cuál es esa 
+potencia? Y ¿Cuál es la diferencia de potencial de la fuente?
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Cinque resistenze e una fonte**
+
+PT70. La Matanza, Buenos Aires. Blu. 
+ 
+Con 5 resistenze di 10 Ω ciascuna e una fonte, montare un circuito in modo che:
+la stessa differenza di potenziale di 5 volt. Le altre due possiedono la stessa potenza. Che cos'è quella?
+Potenza? E qual è la differenza di potenziale della fonte?
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following is the list of the types of measurements used:
+
+PT70. The killing, Buenos Aires. Blue, please. 
+ 
+With 5 resistors of 10 Ω each and a source, assemble a circuit such that:
+same potential difference of 5 volts. The other two have the same power. What's that?
+What power? And what's the potential difference from the source?
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q71" data-atom="q71" data-title="Argent 2004 Locale — Quesito 71" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Trayectoria ABCD con friccion en BC**
+
+PT71. La Matanza, Buenos Aires. Azul. 
+ 
+Un cuerpo de 1 Kg se deja caer desde A. Realiza la trayectoria ABCD. Desde A hasta B el rozamiento 
+es despreciable. Desde B hasta C el trabajo de la fuerza de rozamiento es de 26 Joule. Responder y 
+calcular: 
+a) Las velocidades del cuerpo en B y C 
+b) Si en D se detiene ¿Qué tipo de movimiento posee en CD y cuál es su aceleración?
+
+
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Corrente ABCD con frizione in BC**
+
+PT71. La Matanza, Buenos Aires. Blu. 
+ 
+Un corpo di 1 kg viene lasciato cadere da A. Esegue il percorso ABCD. Da A a B il rasare
+è disprezzabile. Da B a C il lavoro della forza di ruggine è di 26 Joule. Rispondere e 
+Calcolare: 
+a) Le velocità del corpo in B e C
+b) Se si ferma su D che tipo di movimento ha su CD e quale è la sua accelerazione?
+
+
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following shall be added to the list of the following:
+
+PT71. The killing, Buenos Aires. Blue, please. 
+ 
+A 1 kg body is dropped from A. It's following the ABCD trajectory. From A to B the grating
+It's despicable. From B to C the work of the friction force is 26 Joules. Answer and 
+calculate: 
+(a) Body speeds in B and C
+(b) If you stop at D, what kind of movement does it have on CD and what is its acceleration?
+
+
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q72" data-atom="q72" data-title="Argent 2004 Locale — Quesito 72" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/4,multidisciplina/mono,object/cart"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Trineo que dispara bolas de nieve**
+
+PT72. Olivos, Buenos Aires. Azul. 
+ 
+ 
+ 
+Un trineo de 10 kg cargado con 20 kg. de nieve se deja caer desde (A) deslizándose sobre el hielo de 
+rozamiento despreciable. Alcanza al pie del plano inclinado una velocidad de 10 m/s. El trineo a partir 
+de (B) dispara bolas de nieve de 1 kg. que salen de la boca del cañón con velocidad de 20 m/s hacia 
+delante, a razón de una cada dos segundos. 
+a) Altura (H) de la que se dejó caer. 
+b) Velocidad del trineo luego de disparar la primera bola. 
+c) Si al llegar a C disparó 8 bolas. ¿Qué velocidad tiene en ese instante? 
+d) En el punto C deja de funcionar el cañón, ¿Qué distancia recorrerá hasta detenerse? 
+e) Confeccionar un gráfico v = f(t) del trineo desde (A) hasta (B) si para ese tramo tardó 5 s. 
+f) Si en otra variante de este problema se invierte el sentido de disparo del cañón, ¿ Cuál sería la 
+máxima velocidad que podría alcanzar el trineo, disparando bolas de nieve, (sin rozamiento)?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p50_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Conservation of Momentum]]
+**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Cart (object)|Cart]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Signato che lancia palle di neve**
+
+PT72. Olivos, Buenos Aires. Blu. 
+ 
+ 
+ 
+Un baglione da 10 kg caricato da 20 kg. La neve si fa cadere dal (A) scivolare sul ghiaccio di
+un sgradevole ruggine. Si raggiunge al piede del piano inclinato a una velocità di 10 m/s. Il bagliardo da parte
+di (B) lancia palline di neve di 1 kg. che uscivano dalla bocca del cannone a velocità di 20 m/s verso
+in avanti, a ragione di uno ogni due secondi. 
+a) Altezza (H) da cui si è caduto. 
+b) velocità di scorrimento dopo il primo pallone. 
+C) Se arrivando a C ha sparato 8 palline. Che velocità ha in quel momento? 
+d) Al punto C il cannone si ferma, che distanza percorrerà fino a quando si fermerà? 
+e) Confezionare un grafico v = f(t) del schizzo da (A) a (B) se per quel tratto ci sono voluti 5 s. 
+f) Se in un'altra variante di questo problema si inverte il senso di sparata del cannone, quale sarebbe la
+velocità massima raggiunta dal scivolo, sparando palline di neve, (senza ruggine)?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p50_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Conservation of Momentum]]
+**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Cart (object)|Cart]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+Snowball-shooting sled
+
+PT72. Olive trees, from Buenos Aires. Blue, please. 
+ 
+ 
+ 
+A 10kg sled loaded with 20kg. Snow is dropped from (A) by sliding over the ice of
+a despicable grating. It reaches the base of the inclined plane at a speed of 10 m/s. The sleigh starting .
+of (B) fires 1 kg snowballs. They're coming out of the mouth of the cannon at a speed of 20 m/s towards 
+In front of you, at a rate of one every two seconds. 
+(a) Height (H) from which it was dropped. 
+(b) Speed of the slide after the first ball is fired. 
+(c) If he fired 8 balls on reaching C. How fast is he at that moment? 
+(d) At point C, the cannon stops working, how far will it go until it stops? 
+e) Make a graph v = f(t) of the sleigh from (A) to (B) if it took 5 s for that stretch. 
+(f) If in another variant of this problem the direction of fire of the cannon is reversed, what would be the
+maximum speed that could be achieved by sliding, firing snowballs, (without rubbing)?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p50_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Conservation of Momentum]]
+**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Cart (object)|Cart]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q73" data-atom="q73" data-title="Argent 2004 Locale — Quesito 73" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/block,object/inclined-plane,object/rope-string"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Globo de hidrogeno sube bloque por plano**
+
+PT73. Olivos, Buenos Aires. Azul. 
+ 
+ 
+Un globo lleno de Hidrógeno logra hacer subir por un plano de inclinado de coeficiente de rozamiento 
+µ = 0,6 un cuerpo de 2 kg. con velocidad constante. 
+a) Determinar la fuerza de rozamiento entre el bloque y el plano 
+b) Determinar la tensión en la cuerda 
+c) Hallar el volumen de Hidrógeno necesario que llenará el globo, para que el dispositivo 
+funcione como se indicó, si la masa de la cuerda es despreciable y el material del globo pesa   
+4 N 
+δ (aire) = 1,3 g/dm3  
+ 
+δ ( H2 ) = 0,09 g/dm3
+
+
+
+**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Rope/String (object)|Rope/String]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Globo di idrogeno su blocco per piano**
+
+PT73. Olivos, Buenos Aires. Blu. 
+ 
+ 
+Un pallone pieno di idrogeno riesce a far salire un piano inclinato di coefficiente di rottura.
+μ = 0,6 un corpo di 2 kg. con velocità costante. 
+a) Determinare la forza di rottura tra il blocco e il piano 
+b) Determina la tensione della corda 
+c) Indicare il volume di idrogeno necessario per riempire il globulo, in modo che il dispositivo 
+funziona come indicato, se la massa della corda è scarsa e il materiale del globo pesa.
+4 N 
+δ (aria) = 1,3 g/dm3 
+ 
+δ ( H2 ) = 0,09 g/dm3
+
+
+
+**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Rope/String (object)|Rope/String]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Hydrogen balloon is blocked up per plane**
+
+PT73. Olive trees, from Buenos Aires. Blue, please. 
+ 
+ 
+A balloon full of hydrogen can make it up a sloping plane of friction coefficient.
+μ = 0,6 a body of 2 kg. with constant speed. 
+(a) Determine the friction force between the block and the plane 
+(b) Determine the tension on the rope 
+(c) Find the volume of hydrogen needed to fill the balloon, so that the device 
+It works as directed, if the mass of the rope is negligible and the material of the balloon weighs.
+4 N 
+The following conditions shall apply:
+ 
+δ ( H2 ) = 0,09 g/dm3
+
+
+
+**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Rope/String (object)|Rope/String]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q74" data-atom="q74" data-title="Argent 2004 Locale — Quesito 74" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/4,multidisciplina/mono,object/cart,object/spring,object/sphere"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Vagones con esfera y resorte**
+
+PT74. Olivos, Buenos Aires. Azul. 
+ 
+El esquema muestra una conjunto de vagones de 10 kg. cada uno viajando a 3 m/s. En un instante t = 0 
+la esfera del primer carrito sale disparada verticalmente con una velocidad de 15 m/s y comienza a 
+actuar en ese instante la fuerza F, de manera tal que la esfera al caer lo hace sobre el resorte del último 
+vagón. 
+a) Determinar la constante del resorte si la esfera es de 200 g. lo comprime 4 cm. 
+b) Determinar la velocidad total con que sale la esfera 
+c) Hallar la altura máxima que alcanza. 
+d) Determinar la intensidad de F 
+e) Hallar la tensión que soporta la cuerda que arrastra el último vagón, cuando está viajando con 
+velocidad constante. 
+f) Hallar la tensión que soporta la cuerda que arrastra el último vagón cuando está actuando F
+
+
+
+**Topic:** [[Conservation of Momentum]], [[Conservation of Energy]]
+**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Hooke's Law (metodo)|Hooke's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Cart (object)|Cart]], [[Spring (object)|Spring]], [[Sphere (object)|Sphere]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Vagnoni con sfera e molla**
+
+PT74. Olivos, Buenos Aires. Blu. 
+ 
+Lo schema mostra un insieme di vagoni da 10 kg. ognuno di loro viaggiando a 3 m/s. In un istante t = 0 
+La sfera del primo carrello viene sparata verticalmente a una velocità di 15 m/s e inizia a
+Agire in quel istante la forza F, in modo tale che la sfera cadendo lo fa sulla primavera dell'ultimo 
+- Il vagone. 
+a) Determinare la costante di resorgenza se la sfera è di 200 g. lo compresse a 4 cm. 
+b) Determinare la velocità totale con cui la sfera esce.
+c) Indicare la massima altezza raggiunta. 
+d) Determinare l'intensità di F
+e) Trovare la tensione che la corda trascina all'ultimo vagone, quando è in viaggio con 
+velocità costante. 
+f) Indicare la tensione sostenuta dalla corda che trascina l'ultimo vagone quando è in funzione F
+
+
+
+**Topic:** [[Conservation of Momentum]], [[Conservation of Energy]]
+**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Hooke's Law (metodo)|Hooke's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Cart (object)|Cart]], [[Spring (object)|Spring]], [[Sphere (object)|Sphere]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Wagons with sphere and spring**
+
+PT74. Olive trees, from Buenos Aires. Blue, please. 
+ 
+The scheme shows a set of 10 kg wagons. each traveling at 3 m/s. In an instant t = 0 
+The first cart sphere is fired vertically at a speed of 15 m/s and starts at 
+Acting at that instant force F, so that the sphere when falling does so over the spring of the last 
+The car. 
+(a) Determine the spring constant if the sphere is 200 g. It compresses it 4 cm. 
+(b) Determine the total speed at which the sphere exits 
+(c) Find the maximum height it reaches. 
+(d) Determine the intensity of F
+(e) Find the voltage of the rope that is being dragged by the last carriage when travelling with 
+constant speed. 
+(f) Find the voltage of the wire dragging the last carriage when it is running F
+
+
+
+**Topic:** [[Conservation of Momentum]], [[Conservation of Energy]]
+**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Hooke's Law (metodo)|Hooke's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Cart (object)|Cart]], [[Spring (object)|Spring]], [[Sphere (object)|Sphere]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q75" data-atom="q75" data-title="Argent 2004 Locale — Quesito 75" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Reflector que cae y camioneta (cinematica)**
+
+PT75. Caseros, Buenos Aires. Azul. 
+ 
+El predio de exposiciones se preparaba para abrir sus puertas y deslumbrar a los visitantes con sus 
+nuevos modelos y prototipos de camionetas. 
+a) El jefe de salón recorrió las instalaciones para ultimar detalles y notó que un reflector estaba a punto 
+de desprenderse. 
+Enseguida llamó a  un operario que se acercó dispuesto a solucionar el problema. Subió los dieciocho 
+escalones engrampados a la pared, separados tanto el primero del piso como uno del otro por 30cm. El 
+último escalón distaba 20cm. de la pasarela superior del predio. Caminando por esta llegó hasta el 
+reflector; alcanzó el soporte del mismo sujeto al techo del lugar con su brazo estirado, que con su 
+altura sumaban 2,10m. El artefacto de 3 Kg. estaba tan flojo que igual se desprendió estrellándose 
+contra el piso. 
+(Trabajando desde el punto de vista energético) 
+
+1) ¿Cuál era la Energía Cinética del reflector al llegar al piso y con qué velocidad lo hizo? 
+2) ¿Cuál era la Energía Cinética y Potencial cuando había caído 3m.? ¿Qué velocidad tenía el 
+reflector en ese instante?  
+3) ¿Cuántos metros había recorrido cuando la velocidad era de 5 m/seg? 
+ 
+b) Resuelto el inconveniente se abrieron las puertas y los espectadores comenzaron a recorrer el lugar. 
+Sergio quedó impactado por la nueva Volkswagen Touareg cuya performance, que estaba en el folleto, 
+era la siguiente: 
+Volkswagen Touareg R5 TDI 
+Motor y Transmisión 
+Posición 
+Delantero longitudinal 
+Alimentación/combustible 
+Bomba inyectora, turbo de 
+geometría variable 
+Cilindrada 
+2461 cm3 
+ 
+ 
+Potencia máxima 
+174 CV a 3500rpm 
+Par máximo 
+400Nm a 2000rpm 
+Relación de compresión 
+18.5:1 
+Transmisión 
+Total permanente 4Motion 
+Caja de cambios 
+Manual de 6 velocidades 
+Prestaciones 
+Velocidad máxima 
+184 Km/h  
+Aceleración  0-100 Km./h 
+12.4 seg. 
+Consumos 
+Interurbano 
+12.5 Lt/100Km. 
+Extraurbano 
+8.2 Lt/100Km. 
+Mixto 
+9.6 Lt/100Km. 
+Datos en General 
+Depósito de combustible 
+100Lt 
+Peso en vacío 
+2304Kg. 
+Largo x ancho x alto 
+4754 x 1928 x 1726 (mm) 
+Maletero 
+555Lt./1670Lt con asiento 
+abatido. 
+ 
+El muchacho rápidamente se planteó lo siguiente: 
+1) ¿Qué espacio recorre en10 seg. partiendo del reposo? 
+2) ¿Qué velocidad adquiere en ese tiempo? 
+3) ¿Cómo quedarían los gráficos de aceleración, velocidad y espacio en función del tiempo? 
+ 
+c) Más tarde, ya en su casa y con la ilusión de ser dueño de una Touareg se entusiasmó con esta 
+cuestión: 
+Si mi amigo con su camioneta sale a las 7:00Hs. para su casa de la playa distante 350Km, llevando 
+una velocidad de 70Km/h. y yo parto con el mismo destino 9Km. detrás de él a las 7:30Hs. 
+manteniendo una velocidad igual a la mitad de la máxima que puede alcanzar la Volkswagen, 
+considerando el camino rectilíneo: 
+1) ¿A qué hora lo alcanzo? 
+2) ¿A qué distancia de la casa de la playa lo encuentro? 
+3) ¿Cómo quedaría graficado?
+
+**Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Riflettore cadente e camionetta (cinematica) **
+
+PT75. Caseros, Buenos Aires. Blu. 
+ 
+Il parco espositivo si preparava ad aprire le sue porte e ad abbagliare i visitatori con i suoi
+nuovi modelli e prototipi di camionette. 
+a) Il capo salotto ha visitato le strutture per esaminare i dettagli e ha notato che un riflettore era pronto.
+di lasciarsi andare. 
+Presto chiamò un operatore che si avvicinò disposto a risolvere il problema. Ha fatto 18 anni.
+scalini incastrati nel muro, separati da 30 cm il primo piano e l'altro. El 
+L'ultimo gradino era a 20 centimetri. - Dalla passerella superiore del recinto. Camminava su questa fino al
+riflettore; raggiunge il supporto dello stesso soggetto al tetto del luogo con il suo braccio stretto, che con il suo 
+La loro altezza era di circa 2 metri e mezzo. L'artefatto di 3 Kg. Era così flaccido che si è spento in un colpo
+- Contro il pavimento. 
+(Lavorando dal punto di vista energetico)
+
+1) Qual era l'energia cinetica del riflettore quando arrivò al pavimento e a che velocità lo fece? 
+2) Qual era l'energia cinetica e potenziale quando era caduta 3m? Che velocità aveva il 
+riflettore in quel momento? 
+3) Quanti metri aveva percorso quando la velocità era di 5 m/s? 
+ 
+b) Risolto il problema, le porte si aprirono e gli spettatori iniziarono a percorrerlo. 
+Sergio è stato colpito dalla nuova Volkswagen Touareg, la cui performance, che era nel opuscolo,
+Era così: 
+Volkswagen Touareg R5 TDI 
+Motore e trasmissione 
+Posizione 
+Delantero longitudinale 
+Alimenti/carburante 
+Iniezione, turbo di
+geometria variabile 
+Cindrolata
+2461 cm3 
+ 
+ 
+Potenza massima 
+174 CV a 3500 rpm 
+Par massimo 
+400 Nm a 2000 rpm 
+Relazione di compressione 
+18.5:1 
+Trasmissione 
+Total permanente 4Motion 
+Cassa di cambio 
+Manual a 6 velocità 
+Performance 
+Velocità massima 
+184 Km/h  
+Accelerazione 0-100 Km/h 
+12,4 secondi. 
+Consumi
+Interurbano 
+12.5 Lt/100Km. 
+- Non è stata fatta.
+8.2 Lt/100Km. 
+Misto
+9.6 Lt/100Km. 
+Datos in generale 
+Dispositivo di combustibile 
+100Lt 
+Peso in vuoto 
+2304Kg. 
+Largo x largo x alto 
+4754 x 1928 x 1726 (mm) 
+- Castrello .
+555 litri/1670 litri con sedile
+- Sotto il fuoco. 
+ 
+Il ragazzo si è rapidamente chiesto:
+1) Che spazio percorre in 10 secondi. partendo dal riposo? 
+2) Che velocità acquista in quel tempo? 
+3) Come sarebbero i grafici di accelerazione, velocità e spazio in funzione del tempo? 
+ 
+c) Più tardi, già a casa sua e con l'illusione di possedere una Touareg si è entusiasta di questa 
+La questione: 
+Se il mio amico con il suo furgone esce alle 7:00. per la sua casa sulla spiaggia distante 350Km, portando 
+una velocità di 70 km/h. E io partirei con la stessa destinazione, 9km. dietro di lui alle 7:30 di mattina. 
+mantenendo una velocità pari a metà della massima raggiungibile da Volkswagen,
+considerando la via retta: 
+1) A che ora lo raggiungo? 
+2) A che distanza dalla casa sulla spiaggia lo trovo? 
+3) Come sarebbe stato graficato?
+
+**Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Falling reflector and pickup truck (cinematic) **
+
+PT75. The housewives, Buenos Aires. Blue, please. 
+ 
+The exhibition grounds were preparing to open their doors and dazzle visitors with their
+new models and prototypes of pickup trucks. 
+(a) The head of the salon went through the facilities to finalize details and noticed a reflector was on the way.
+I'm not going to get out of here. 
+He immediately called an operator who came to fix the problem. He went up the 18th .
+steps crammed into the wall, separating both the first floor and the second floor by 30 cm. El 
+Last step was 20cm away. From the upper gate of the building. Walking down this one he got to the
+reflector; reached the same subject's support to the ceiling of the place with his outstretched arm, which with his 
+They were 2.10 meters high. The 3kg artifact. It was so loose that it still came off by crashing .
+against the floor. 
+(Working from an energy point of view) 
+
+1) What was the Kinetic Energy of the reflector when it reached the floor and at what speed did it do so? 
+2) What was the Kinetic and Potential Energy when I fell 3m? How fast was the 
+reflector at that instant? 
+3) How many meters had he travelled when the speed was 5 m/s? 
+ 
+(b) The problem was resolved and the doors were opened and the spectators began to tour the place. 
+Sergio was shocked by the new Volkswagen Touareg whose performance, which was in the brochure,
+It was as follows: 
+The Volkswagen Touareg R5 TDI 
+Engine and transmission 
+Position 
+Longitudinal forward
+Food/fuel 
+Injecting pump, turbo
+Variable geometry 
+Cylinderhead
+2461 cm3 
+ 
+ 
+Maximum power
+174 hp at 3500 rpm 
+Maximum par
+400 Nm to 2000 rpm 
+Compression ratio 
+18.5:1 
+Transmission 
+Full-time 4Motion 
+Change box 
+6 speed manual 
+Performances 
+Maximum speed 
+184 Km/h  
+Acceleration from 0 to 100 km/h 
+12.4 seconds. 
+Consumption 
+Interurban
+12.5 Lt/100Km. 
+Out of town .
+8.2 Lt/100Km. 
+Mixed
+9.6 Lt/100Km. 
+General data 
+Fuel storage 
+100Lt 
+Weight in the void 
+2304Kg. 
+Long x wide x high 
+4754 x 1928 x 1726 (mm) 
+- The trunk .
+555 Lt./1670 Lt with seat
+I'm down. 
+ 
+The boy quickly asked himself:
+1) What space does it travel in 10 seconds? Starting from the rest? 
+2) How fast does it gain in that time? 
+3) What would the acceleration, speed and space graphs look like depending on the time? 
+ 
+c) Later, already at home and with the illusion of owning a Touareg he became enthusiastic about this 
+Question: 
+If my friend with his truck leaves at 7:00. To your beach house 350km away, taking 
+a speed of 70 km/h. And I'm leaving with the same destination nine kilometers away. behind him at 7:30. 
+maintaining a speed equal to half the maximum that the Volkswagen can achieve, 
+Considering the straight line: 
+1) What time do I get there? 
+2) How far from the beach house do I find it? 
+3) How would it be charted?
+
+**Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q76" data-atom="q76" data-title="Argent 2004 Locale — Quesito 76" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/mono,object/rope-string,object/block"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Capitan Frio (hielo flotante y fluidos)**
+
+PT75. Caseros, Buenos Aires. Azul. 
+ 
+El capitán Frío, archienemigo de Batman, tenía su gigantesco y sorprendente refugio en una isla 
+cercana a Ciudad Gótica. Por supuesto que allí reinaba el frío, las aguas heladas y gélidas figuras 
+ornamentaban el lugar. 
+ρagua= 9800N/m3    ρhielo= 9200N/m3    ρagua de mar= 10250N/m3 
+ 
+a) Enormes cubos de hielo sostenidos por cadenas colgaban del techo decorando la entrada 
+según el siguiente esquema: 
+ 
+l=80cm
+m=400kg
+T1
+T2
+45º
+T3
+Esquema no a escala 
+ 
+¿Cuál era la tensión de cada cadena si el sistema estaba en equilibrio cuando la del centro se 
+encontraba horizontal?. ¿Cuál es el valor de β? 
+b) En el mar que rodeaba la isla inmensos témpanos flotaban completando el paisaje. Si uno 
+de ellos tenía un volumen de 12.000m3 ¿Cuál es el volumen de la parte sumergida? ¿Qué 
+porcentaje del témpano estaba emergiendo? 
+c) Uno de los botes anclados en la costa del mar tenía un volumen de 4m3 y un peso de 
+1000N. ¿Cuántos secuaces del Capitán podían subirse para que no se sumergiera más de 
+un 25% si cada uno pesa en promedio 900N? 
+d) Un riacho que recorría la isla cuyo caudal era de 400m3/seg, en su parte más ancha tenía 
+una sección de 80m2. 
+1) ¿Cuál es la rapidez del agua en ese punto del recorrido? 
+2) Al pasar bajo un puente su sección disminuye en 30m2. ¿Cuál es allí la velocidad 
+del agua? 
+3) Suponiendo que el río se encontraba al mismo nivel en todos sus puntos. ¿Cuánto 
+variaba la presión del flujo de agua al pasar por el puente?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p53_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Capitano Freddo (ghiaccio galleggiante e fluidi) **
+
+PT75. Caseros, Buenos Aires. Blu. 
+ 
+Il Capitano Freddo, archinimigo di Batman, aveva il suo gigantesco e sorprendente rifugio su un'isola.
+vicino alla città gotica. Naturalmente, il freddo, le acque fredde e le figure fredde regnavano lì.
+- E' stato un ornamento. 
+L'acqua di mare = 10250 N/m3
+ 
+a) enormi cubetti di ghiaccio sostenuti da catene appesi dal tetto decorando l'ingresso 
+secondo il seguente schema: 
+ 
+l=80cm
+m=400kg
+T1
+T2
+45º
+T3
+Schema non a scala
+ 
+Qual era la tensione di ogni catena se il sistema fosse in equilibrio quando quella del centro si
+- E' stato orizzontale. Qual è il valore di β? 
+b) Nel mare che circondava l'isola, immensi tempani galleggiavano completando il paesaggio. Se uno
+di questi, ha un volume di 12.000 m3. Qual è il volume della parte immersa? Cosa?
+percentuale del tempano era emergente? 
+c) Una delle barche ancorate sulla costa del mare aveva un volume di 4 m3 e un peso di
+1000N. Quanti seguaci del capitano potevano salire per non farla immergere più di
+un 25% se ognuno pesa in media 900 N? 
+d) Un torrente che attraversava l'isola con un flusso di 400 m3/sec, nella sua parte più ampia aveva
+una sezione di 80 m2. 
+1) Qual è la velocità dell'acqua a quel punto del percorso? 
+2) Passando sotto un ponte la sua sezione diminuisce di 30 m2. Qual è la velocità?
+dell'acqua? 
+3) Supponendo che il fiume fosse allo stesso livello in tutti i suoi punti. Quanto?
+variava la pressione del flusso d'acqua passando per il ponte?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p53_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Cold Captain (floating and fluid ice) **
+
+PT75. The housewives, Buenos Aires. Blue, please. 
+ 
+Captain Cold, Batman's arch-enemy, had his gigantic and surprising refuge on an island.
+It's close to Gothic City. Of course, there was cold, cold water and cold figures.
+They were decorating the place. 
+The Commission has also adopted a proposal for a regulation on the approximation of the laws of the Member States relating to the use of the energy from renewable sources.
+ 
+(a) Huge ice cubes held by chains hung from the ceiling decorating the entrance.
+according to the following scheme: 
+ 
+l=80cm
+m=400kg
+T1
+T2
+45º
+T3
+Schedule not at scale 
+ 
+What was the voltage of each chain if the system was in equilibrium when the center was
+I found it horizontal. What is the value of β? 
+(b) In the sea surrounding the island, huge temples floated to complete the landscape. If one 
+Of them, it had a volume of 12,000 square meters. What's the volume of the submerged part? What?
+percent of the tempane was emerging? 
+(c) One of the boats anchored on the seashore had a volume of 4 m3 and a weight of 
+1000N. How many of the captain's deputies could climb up so he wouldn't dive more than
+25% if each weighs an average of 900N? 
+(d) A stream running through the island with a flow rate of 400 m3/sec, at its widest part had
+a section of 80 m2. 
+1) What is the water speed at that point of the route? 
+2) When passing under a bridge its section decreases by 30m2. What's the speed there?
+of water? 
+3) Assuming the river was at the same level at all its points. How much?
+Did the water flow pressure change as you passed the bridge?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p53_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q77" data-atom="q77" data-title="Argent 2004 Locale — Quesito 77" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/battery"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Sebastian y el electricista (circuitos)**
+
+PT76. Caseros, Buenos Aires. Azul. 
+ 
+Sebastián, el hijo del electricista del barrio, sabía que su papá necesitaba un ayudante. Ansioso por 
+ahorrar la plata para pagar las cuotas del viaje de egresados comenzó a estudiar e interesarse por el 
+oficio de su padre. Pocas semanas después lo desafió proponiéndole que le plantee cuestiones sencillas 
+y si las resolvía quería el puesto de trabajo.  
+Grata fue la sorpresa del electricista que le preparó los siguientes ejercicios, aunque sabía que de todos 
+modos le daría el trabajo considerando su esfuerzo. 
+a) Un circuito de corriente continua, está formado por tres pilas alcalinas en serie (de 
+resistencia interna despreciable) y una resistencia de 10Ωconectada en serie con otras dos 
+resistencias asociadas entre si en paralelo de 6Ω y 3Ω. Graficá el circuito y demostrá el 
+voltaje de cada una de las pilas si el amperímetro colocado a la salida de las mismas marca 
+0,375A.  
+b) 1) Hallá la resistencia equivalente entre los puntos A y B del siguiente gráfico: 
+
+A
+B
+5Ω
+10Ω
+10Ω
+10Ω
+5Ω
+10Ω
+4Ω
+ 
+ 
+ 
+ 
+2) Si la caída de potencial entre A y B es de 12V, hallá la corriente en cada resistencia. 
+ 
+c)  1) Si en un día normal se utilizan en una casa durante el tiempo indicado los siguientes 
+artefactos, ordenalos en orden creciente de la energía que consuman. 
+ 
+Lavarropas 
+2.100W ; durante 1,5Hs 
+ 
+Equipo de música 200W; durante 3Hs 
+ 
+3 Lamparitas 75W; durante 10Hs c/u 
+ 
+1 Lamparita 100W; durante 90 min. 
+ 
+2 Lamparitas 60W; durante 6 Hs c/u 
+ 
+Televisor 90W; durante 5Hs. 
+ 
+Horno de microondas 1000W; durante 10min. 
+ 
+Estufa eléctrica 900W; durante  4Hs 
+ 
+Plancha 1550W; durante 2Hs. 
+ 
+Heladera 500W, durante 10Hs. 
+ 
+2) Si el Kwh. cuesta $0,05. ¿Cuánto se gastó ese día? 
+ 
+d)   A 220V la potencia de un calentador es de 500W.  
+ 
+1) ¿Durante cuántos minutos habrá que tenerlo funcionando para hervir 4litros de agua 
+que están a 25ºC, si todo el calor pasa directamente al líquido? 
+ 
+2) ¿Qué intensidad de corriente circulará? 
+ 
+3) ¿Cuál es el valor de la resistencia del calentador?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p54_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Sebastian e l'elettricista (circuiti) **
+
+PT76. Caseros, Buenos Aires. Blu. 
+ 
+Sebastian, il figlio dell'elettricista del quartiere, sapeva che suo padre aveva bisogno di un aiutante. Ansioso per 
+A risparmiare soldi per pagare i costi del viaggio dei laureati ha iniziato a studiare e interessarsi al
+La professione di suo padre. Poche settimane dopo , lo sfidò proponendogli di porgli domande semplici .
+E se le risolvessi, volevo il lavoro. 
+Grata fu la sorpresa dell'elettricista che gli preparò gli esercizi successivi, anche se sapeva che di tutti
+Le daresti il lavoro considerando il tuo sforzo. 
+a) Un circuito a corrente continua, costituito da tre pile alcaline in serie (di
+resistenza interna dispregiata) e una resistenza di 10Ωconnessa in serie con altre due 
+resistenze associate tra loro in parallelo di 6Ω e 3Ω. Grafica il circuito e prova il
+volta di ciascuna batteria se l'ampiecatore è posto all'uscita dello stesso marchio 
+0,375A. 
+b) 1) Trova la resistenza equivalente tra i punti A e B del seguente grafico: 
+
+A
+B
+5Ω
+10Ω
+10Ω
+10Ω
+5Ω
+10Ω
+4Ω
+ 
+ 
+ 
+ 
+2) Se la caduta di potenziale tra A e B è di 12 V, troverà il corrente in ogni resistenza. 
+ 
+c) 1) Se in una normale giornata sono utilizzati in una casa per il tempo indicato:
+le artifici, ordinandole in ordine crescente dell'energia che consumano. 
+ 
+Lavatrici
+2,100W; per 1,5 ore 
+ 
+Equipo musicale 200W; per 3 ore 
+ 
+3 Lampadine 75W; per 10 ore
+ 
+1 lamparita 100W; per 90 minuti. 
+ 
+2 lampadine 60W; per 6 ore
+ 
+Televisore 90W, per 5 ore. 
+ 
+Forno a microonde 1000W; per 10 minuti. 
+ 
+Fornace elettrica 900W; per 4 ore 
+ 
+1550W, per 2 ore. 
+ 
+Geladore 500W, per 10 ore. 
+ 
+2) Se il Kwh. costa $0.05. Quanto è stato speso quel giorno? 
+ 
+d) A 220 V la potenza di un riscaldatore è di 500 W. 
+ 
+1) Per quanti minuti dovrà funzionare per far bollire 4 litri d'acqua?
+che sono a 25°C, se tutto il calore passa direttamente al liquido? 
+ 
+2) Che intensità di corrente circolerà? 
+ 
+3) Qual è il valore della resistenza del riscaldatore?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p54_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Sebastian and the electrician (circuits) **
+
+PT76. The housewives, Buenos Aires. Blue, please. 
+ 
+Sebastian, the son of the neighborhood electrician, knew his dad needed an assistant. I 'm anxious for
+He started to study and became interested in the
+His father's job. A few weeks later , he challenged him by asking him simple questions .
+And if I solved them, I wanted the job. 
+Grata was the surprise of the electrician who prepared the next exercises for him, though he knew that of all
+I'd give you the job if you consider your effort. 
+(a) A DC circuit, consisting of three series alkaline batteries (of
+The resistance of the two components is not less than 10Ω, but less than 10Ω, which is connected in series with two other components.
+The following conditions shall apply: Draw the circuit and prove the 
+voltage of each battery if the ampere placed at the output of the same mark 
+0,375A. 
+(b) 1) Find the equivalent resistance between points A and B of the following graph: 
+
+A
+B
+5Ω
+10Ω
+10Ω
+10Ω
+5Ω
+10Ω
+4Ω
+ 
+ 
+ 
+ 
+2) If the potential drop between A and B is 12V, find the current at each resistance. 
+ 
+(c) 1) If on a normal day the following are used in a house for the specified time 
+The artifacts, order them in increasing order of energy they consume. 
+ 
+Washing clothes 
+2,100W; for 1,5 hours 
+ 
+200W musical equipment; for 3Hs 
+ 
+3 75W lamps; for 10 hours c/u 
+ 
+1 Lamparita 100W; for 90 minutes. 
+ 
+2 60W lamps; for 6 hours
+ 
+90W TV for 5 hours. 
+ 
+1000W microwave oven; for 10 minutes. 
+ 
+Electric boiler 900W; for 4Hs 
+ 
+1550W board for 2Hs. 
+ 
+500W freezer, for 10 hours. 
+ 
+2) If the Kwh. It costs $0.05. How much did you spend that day? 
+ 
+(d) At 220 V the heater power is 500 W. 
+ 
+1) How long will it take to boil 4 liters of water?
+What if all the heat goes directly into the liquid? 
+ 
+2) What current intensity will circulate? 
+ 
+3) What is the heater resistance value?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p54_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q78" data-atom="q78" data-title="Argent 2004 Locale — Quesito 78" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/4,multidisciplina/mono,object/lens"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Una aproximacion al ojo humano**
+
+PT77. Aguilares, Tucumán. Azul y Verde. 
+ 
+Una aproximación al ojo humano. 
+El ojo humano es aproximadamente esférico, cuyo esquema se puede apreciarse en la figura (al pie de 
+la presente página), la membrana exterior es lo que Ud. ve de color blanco se llama esclerótica, se 
+interrumpe al frente para dejar pasar la luz, al igual que la segunda membrana llamada coroides que es 
+de color negro y hace las veces de cámara oscura; la tercera membrana es la parte sensible a la luz y se 
+llama retina, pero la zona de mayor sensibilidad está en una parte de ella llamada mancha amarilla que 
+es en definitiva donde se forma la imagen de lo que vemos.  En la parte anterior del ojo se observan 
+algunas formaciones transparentes semejantes a lentes convergentes.  
+Por ahora, prescindiendo de la descripción, se le solicita resuelva: 
+a) Si tuviéramos una lente biconvexa –similar al cristalino- de foco igual a 3,0cm y se 
+colocara un objeto de 1mm de altura a 2,0cm de la misma, ¿cuál es la posición, tamaño y 
+tipo de imagen que se obtiene?. 
+
+ 
+Para el siguiente punto considere al ojo perfectamente esférico con un único índice de refracción de 
+1,35, siendo el diámetro del mismo de 25mm. Bajo estas suposiciones un oculista pretende observar la 
+mancha amarilla de la retina: 
+b) ¿A que distancia aparente –a contar del frente del 
+ojo- la vería?. 
+Si consideramos al cristalino del ojo humano como una lente 
+biconvexa con igual radio de curvatura por los dos lados; donde 
+el líquido que la rodea, tanto en el humor acuoso como en el 
+humor vítreo, tienen un índice de refracción de 1,33 y que la 
+distancia focal del cristalino puede cambiar durante el proceso 
+de acomodación del ojo, por acción de los músculos ciliares, 
+entonces cuando la distancia focal es de 6,0cm, los radios de 
+curvatura miden 6,3mm. Bajo estas consideraciones se le solicita 
+que: 
+ 
+c) Determine el índice de refracción del cristalino.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p55_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Lens (object)|Lens]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Un approccio all'occhio umano**
+
+PT77. Aguilar, Tucumán. Blu e verde. 
+ 
+Un approccio all'occhio umano. 
+L'occhio umano è circa sferico, il cui schema si può apprezzare nella figura (al pie di
+La membrana esterna è ciò che si può vedere. Veno di colore bianco si chiama sclerosi, si
+interrompe la parte anteriore per far passare la luce, come la seconda membrana chiamata coroide che è
+La terza membrana è la parte sensibile alla luce e si
+si chiama retina, ma la zona più sensibile è in una parte di essa chiamata macchia gialla che
+È in definitiva dove si forma l'immagine di ciò che vediamo. L' occhio è oscurato.
+alcune formazioni trasparenti simili a lenti convergenti. 
+Per ora, indipendentemente dalla descrizione, è richiesto di risolvere:
+a) Se avessimo un biconvex -- simile al cristallino -- di fuoco pari a 3,0 cm e
+se si pone un oggetto di 1 mm di altezza a 2,0 cm di distanza, qual è la posizione, la dimensione e 
+tipo di immagine che si ottiene? 
+
+ 
+Per il punto successivo, considerate l'occhio perfettamente sferico con un singolo indice di refraczione di
+1,35, il diametro di cui è di 25 mm. In base a queste ipotesi un oculista pretende di osservare la
+macchia gialla della retina: 
+b) A che distanza apparente si deve contare la fronte del
+Occhio... la vedresti? 
+Se consideriamo il cristallino dell'occhio umano come una lente
+biconvexa con uguale radius di curvatura su entrambi i lati; dove 
+il liquido che la circonda, sia nell'umore acquoso che nel
+Humor di vetro, hanno un tasso di refraczione di 1,33 e che il
+La distanza focale della cristalina può cambiare durante il processo 
+di accoglienza dell'occhio, per azione dei muscoli ciliari,
+Quindi quando la distanza focale è di 6,0 cm, i raggi di 
+Curvatura misura 6,3 mm. In base a queste considerazioni è richiesto
+che: 
+ 
+c) Determina l'indice di refraczione del cristallino.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p55_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Lens (object)|Lens]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**An approximation to the human eye**
+
+PT77. The Eagles, Tucumán. Blue and Green. 
+ 
+A close-up of the human eye. 
+The human eye is approximately spherical, the scheme of which can be seen in the figure (at the foot of ).
+The outer membrane is what you're looking for. white vein is called sclerosis, it's
+It interrupts the front to let light through, just like the second membrane called the choroid that is
+The third membrane is the light-sensitive part and is
+It's called the retina, but the area of greatest sensitivity is in a part of it called the yellow spot that
+It's ultimately where the image of what we see is formed. In the front of the eye they are observed.
+Some transparent formations like convergent lenses. 
+For now, regardless of the description, you are asked to resolve:
+a) If we had a biconvex lens like the lens  with a focus equal to 3.0cm and it was 
+Place a 1 mm high object at a distance of 2 cm from it, what is the position, size and 
+What kind of image is it? 
+
+ 
+For the next point consider the perfectly spherical eye with a single refractive index of 
+1.35, being the diameter of the same 25mm. Under these assumptions an ophthalmologist intends to observe the
+Yellow spot on the retina: 
+(b) What distance is the apparent distance from the front of the vehicle?
+I'm not sure. 
+If we consider the lens of the human eye as a lens
+biconvex with equal radius of curvature on both sides; where 
+the liquid around it, both in the aqueous and the
+They have a refractive index of 1.33 and that's the
+The focal length of the lens may change during the process.
+of eye accommodation, by action of the ciliary muscles,
+So when the focal length is 6.0cm, the radii of 
+curvature measures 6.3mm. Under these considerations you are requested 
+which: 
+ 
+(c) Determine the refractive index of the lens.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p55_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Lens (object)|Lens]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q79" data-atom="q79" data-title="Argent 2004 Locale — Quesito 79" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/rope-string"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**El monoriel del ingenio**
+
+PT78. Aguilares, Tucumán. Azul y Verde. 
+ 
+El “monoriel” del ingenio. 
+Los atados de caña de azúcar al llegar a los Ingenios son levantados por “montacargas”, que los 
+operarios le llaman “monoriel”. Para una introducción al estudio de los mismos surge un diseño como 
+el de la figura:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Suponga que dos monrieles levantan un atado de caña, cuyo peso P se encuentra uniformemente 
+distribuido, con cables que inicialmente están en forma paralela: 
+a) ¿Cuál la tensión T de los cables en función de P? 
+Si a partir de esta situación ambos monorieles se desplazan en sentidos contrarios, los cables con la 
+vertical formarán un ángulo α; se le solicita que: 
+b) Grafique la variación de la tensión T en función del ánguloα. 
+La máxima tensión T que pueden soportar cada cable sin cortarse es de 5P. Bajo esta consideración se 
+le solicita que: 
+c) ¿Determine el ángulo α en el instante crítico al corte? 
+d) Calcule el trabajo W realizado (hasta ese momento) en función de P, l y α. 
+Un operario distraido supera dicho ángulo, por lo tanto el cable se corta. Si el monoriel que avanzaba 
+con una velocidad de 0,25m/s, tiene un peso igual a 3P y la fuerza que hacía al momento de corte 
+actúa durante 0,5s: 
+e)  ¿Cuál es la distancia que recorre el monoriel mientras actúa F? 
+Nota: Si Ud. no pudo determinar la Tensión al momento de corte, suponga una T=4P, para responder 
+el ítem anterior.
+
+**Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Rope/String (object)|Rope/String]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Il monoriello del ingegno**
+
+PT78. Aguilar, Tucumán. Blu e verde. 
+ 
+Il monoreale dell'ingegno. 
+I legami di canna da zucchero che arrivano agli Ingegneri vengono sollevati da montacargas, che i
+Gli operatori lo chiamano "monoriel". Per un'introduzione allo studio di tali progetti si presenta un disegno come 
+il seguente: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Supponiamo che due monrieli sollevino un legno di canna, il cui peso P si trova uniformemente.
+distribuito, con cabli che inizialmente sono in forma parallela: 
+a) Qual è la tensione T dei cavi in funzione di P? 
+Se da questa situazione i due monoreali si spostano in direzioni opposte, i cavi con la
+Verticale formano un angolo α; si richiede che: 
+b) Graficare la variazione della tensione T a seconda dell'angolo α. 
+La tensione T massima che ogni cavo può sopportare senza essere tagliato è di 5P. In tale considerazione si è
+le richiede di: 
+c) Determina l'angolo α all'istante critico alla corte? 
+d) Calcolare il lavoro W svolto (finora) in base a P, l e α. 
+Un operatore distratto supera tale angolo, quindi il cavo viene tagliato. Se il monoriel che stava andando avanti
+con una velocità di 0,25 m/s, ha un peso pari a 3P e la forza che faceva al momento del taglio 
+agisce per 0,5 s: 
+e) Qual è la distanza percorsa dal monoriel mentre agisce F? 
+Nota: se lei Non è stato possibile determinare la tensione al momento del taglio, supponiamo che T = 4P, per rispondere 
+l'articolo precedente.
+
+**Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Rope/String (object)|Rope/String]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The engine monoryl
+
+PT78. The Eagles, Tucumán. Blue and Green. 
+ 
+The monoreal of wit. 
+The sugar cane bands on arrival at the Engineers are lifted by the loaders, who
+Operators call it "monorel". For an introduction to the study of these, a design is given as 
+the figure: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Suppose two monrieles lift a straw tie, whose P weight is evenly spaced.
+distributed, with wires initially in parallel shape: 
+(a) What is the T voltage of the cables in terms of P? 
+If from this situation both monoreels move in opposite directions, the cables with the
+vertical angle α; you are requested to: 
+(b) Graph the variation of T voltage according to angle α. 
+The maximum T voltage that each cable can withstand without cutting is 5P. Under this consideration it is 
+request you to: 
+(c) Determine the angle α at the critical moment of the cut? 
+(d) Calculate the work W performed (up to that point) based on P, l and α. 
+A distracted operator overtakes that angle, thus cutting the cable. If the monoriel was moving forward
+With a speed of 0.25m/s, it has a weight equal to 3P and the force it was making at the time of cutting.
+It is active for 0,5 seconds: 
+(e) What is the distance travelled by the monorail while acting F? 
+Note: If you If you can't determine the voltage at the time of cutting, assume T=4P, to answer 
+the previous item.
+
+**Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Rope/String (object)|Rope/String]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q80" data-atom="q80" data-title="Argent 2004 Locale — Quesito 80" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/wire"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Acondicionar un salon (calentador y circuito)**
+
+PT79. Aguilares, Tucumán. Azul y Verde. 
+ 
+Acondicionar un salón. 
+Se desea acondicionar un viejo salón para museo. La Comisión Honoraria encargada de ello obtiene 
+como donación un calentador ambiental que “trabaja” con una corriente de 12,5A y le solicita a Ud. 
+asesoramiento para instalarlo, a más de consejos para iluminar dicho ambiente: 
+Si la instalación que lleva la corriente al calentador está compuesta por un cable de cobre de 30m de 
+longitud, de diámetro 4mm, cuya resistencia específica es 0,017Ωmm2m-1 y el voltaje en la caja de 
+fusibles es exactamente 220V; se le solicita: 
+a) Dibuje un circuito eléctrico que ilustre la situación planteada. 
+b) El voltaje distribuido al calentador ambiental. 
+Si ahora suponemos que la caída de tensión en los cables es despreciable y que además del calefactor 
+se deben iluminar las obras de exposición del museo con lámparas de 75watt, todos alimentados de la 
+instalación que sale de la caja de fusibles de 220V (algo así como una instalación domiciliaria); que el 
+fusible se funde cuando pasa una corriente mayor a 20A; se le solicita: 
+c) Dibuje un circuito que represente la nueva situación. 
+d) ¿Cuántas lámparas de 75w se pueden conectar, cuando el calentador (que trabaja con 
+12,5A) está funcionando? – Suponga un proceso isotérmico -  
+Como el circuito último es un clásico de la electricidad y Ud. quiere hacer gala de sus conocimientos 
+ante la Comisión Honoraria, decide indicarles los siguientes datos: 
+e) Corriente eléctrica en cada foco. 
+f) La resistencia equivalente de todo el circuito.
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Wire (object)|Wire]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Condizionare un salone (caldaio e circuito) **
+
+PT79. Aguilar, Tucumán. Blu e verde. 
+ 
+Condizionare un salotto. 
+Si desidera arredare un vecchio salone per il museo. La Commissione onoraria incaricata di questo compito ottiene 
+Come donazione un riscaldatore ambientale che funziona con un corrente di 12,5A e richiede di essere utilizzato. 
+- l'installazione, oltre a consigli per illuminare l'ambiente:
+Se l'impianto che conduce la corrente al riscaldatore è composto da un cavo di rame di 30 m di
+lunghezza, di diametro di 4 mm, la cui resistenza specifica è 0,017Ωmm2m-1 e la tensione nella cassa di 
+Fuse elettriche sono esattamente 220 V; si richiede: 
+a) Disegnare un circuito elettrico che illustra la situazione. 
+b) La tensione distribuita al riscaldatore ambientale. 
+Se supponiamo che la caduta di tensione nei cavi sia scarsa e che oltre al riscaldatore
+Le opere espositive del museo devono essere illuminate con lampade da 75 watt, tutte alimentate dalla luce del
+installazione che esce dalla cassa dei fusibili 220V (qualcosa come un impianto domestico); che il
+Fusibile si fonde quando passa un corrente superiore a 20A; è richiesto: 
+c) Disegni un circuito che rappresenti la nuova situazione. 
+d) Quante lampade di 75w possono essere collegate quando il riscaldatore (che lavora con 
+12,5A) sta funzionando?  Supponiamo un processo isotermico - 
+Come il circuito finale è un classico dell'elettricità e tu. Vuole fare il suo grande.
+la Commissione onoraria decide di comunicare loro: 
+e) corrente elettrica in ogni foco. 
+f) resistenza equivalente dell'intero circuito.
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Wire (object)|Wire]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Conditioning a salon (heater and circuit) **
+
+PT79. The Eagles, Tucumán. Blue and Green. 
+ 
+Conditioning a living room. 
+You want to make an old museum room. The Honorary Commission responsible for this obtains 
+As a donation, an environmental heater that works with a current of 12.5A and asks you to 
+advice on installing it, more tips on lighting up this environment: 
+If the heating system is made up of a 30 m copper wire
+length, diameter 4 mm, the specific resistance of which is 0,017Ωmm2m-1 and the voltage in the box of 
+Fuses are exactly 220V; you are asked to: 
+(a) Draw an electrical circuit illustrating the situation. 
+(b) The voltage distributed to the ambient heater. 
+If we now assume that the voltage drop in the wires is despicable and that in addition to the heater
+The museum's exhibits must be lit with 75watt lamps, all powered by the electricity.
+The installation is from the 220V fuse box (such as a home installation);
+Fuse is melted when a current exceeds 20A; it is requested: 
+(c) Draw a circuit representing the new situation. 
+(d) How many 75w lamps can be connected when the heater (working with 
+12.5A) is it working?  Suppose an isothermal process - 
+As the ultimate circuit is a classic electrical and you. He wants to show off his knowledge .
+before the Honorary Commission, decides to provide the following information: 
+(e) Electric current at each focus. 
+(f) The equivalent resistance of the entire circuit.
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Wire (object)|Wire]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q81" data-atom="q81" data-title="Argent 2004 Locale — Quesito 81" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/inclined-plane"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Baul en camion volcador**
+
+PT80. San Miguel de Tucumán. Azul. 
+ 
+Un baúl de 80 Kg es transportado por un camión volcador. Para bajarlo el camionero inclina la caja 
+del volcador hasta que    observa que el baúl comienza a deslizarse. Los coeficientes de rozamiento 
+entre el baúl y el piso del camión son µe=0,75 y µc=0,25 
+El baúl abandona la caja con una velocidad de 4 m/s por el extremo de la caja del camión que se 
+encuentra a 1m de altura del piso 
+a) ¿cuál es el valor del ángulo entre el acoplado y la horizontal que permite que el baúl comience 
+a deslizarse? 
+b) ¿Qué distancia recorre el baúl sobre la caja inclinada hasta abandonar el camión? 
+c) ¿A que distancia del camión, medida horizontalmente, el baúl toca la calle? ¿Con que 
+velocidad lo hace?
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Baul in camion volante**
+
+PT80. San Michele di Tucumán. Blu. 
+ 
+Un bagagliaio di 80 kg viene trasportato da un camion volante. Per scendere il camionista tende la scatola
+del volante fino a quando non vede che il cassonetto inizia a scivolare. Coefficienti di rottura 
+tra la scatola e il pavimento del camion sono μe=0,75 e μc=0,25 
+Il cofano lascia la cassa a una velocità di 4 m/s per l'estremità della cassa del camion che si
+si trova a 1 m di altezza dal pavimento 
+a) qual è il valore dell'angolo tra il coperto e l'orizzontale che permette di avviare la cassa 
+- Scendere? 
+b) Quanto si percorre il bagagliaio sulla cassa inclinata fino a lasciare il camion? 
+c) A che distanza dal camion, misurata orizzontalmente, il cassonetto tocca la strada? Con cosa?
+La velocità lo fa?
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following is the list of the categories of vehicles used:
+
+PT80. St. Michael of Tucumán. Blue, please. 
+ 
+A 80 kg trunk is transported by a rolling truck. To get it down the truck driver tilts the box
+The flipper until you notice the trunk starts to slip. The coefficients of friction 
+between the trunk and the truck floor are μe=0.75 and μc=0.25 
+The trunk leaves the box at a speed of 4 m/s at the end of the truck's box which is
+It 's 1 m above the floor .
+(a) what is the angle between the coupling and the horizontal that allows the trunk to start 
+to slip? 
+(b) How far does the trunk travel over the tilted box until it leaves the truck? 
+(c) How far from the truck, measured horizontally, does the trunk hit the street? With what?
+speed does it?
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q82" data-atom="q82" data-title="Argent 2004 Locale — Quesito 82" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/multi,object/rod"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Frenado de automovil y calentamiento de barras**
+
+PT81. San Miguel de Tucumán. Azul. 
+ 
+El conductor de un automóvil de 1600 Kg de masa y que va por una ruta a una velocidad de 30 m/s ve 
+un perro que cruza unos metros delante de su auto. Aplica los frenos y se detiene en 5s 
+a) ¿Cuál es la potencia de los frenos? 
+b) ¿Qué cantidad de calor se genera por el frenado? 
+c) Si ese calor se utilizara para calentar barras de igual masa y longitud pero de diferentes 
+materiales y cuyas constantes se dan en la tabla siguiente: 
+- 
+¿Cuáles de ellos se calienta más? ( adquiere mayor temperatura) 
+- 
+¿Cuál se dilata más? 
+Material 
+Calor especifico 
+Cal/gºC 
+Coef. de dilat. 
+Term. Lineal (ºC-1) 
+Calor de Fusión 
+(cal/g) 
+Punto de Fusión 
+ºC 
+Aluminio 
+Plata 
+Oro 
+Platino 
+Plomo 
+0,22 
+0,056 
+0,031 
+0,032 
+0,031 
+24 x 10-6 
+17 x 10-6 
+13 x 10-6 
+9 x 10-6 
+29 x 10-6 
+77 
+21 
+16 
+27 
+5,8 
+659 
+961 
+1063 
+1775 
+327
+
+**Topic:** [[Conservation of Energy]], [[Thermodynamics]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Rod (object)|Rod]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Frematura di auto e riscaldamento delle barre**
+
+PT81. San Michele di Tucumán. Blu. 
+ 
+Il conducente di un'auto di 1600 Kg di massa che va su una rotta a una velocità di 30 m/s ve
+un cane che attraversa a pochi metri di fronte alla sua auto. Applica i frenati e si ferma in 5s 
+a) Qual è la potenza dei freni? 
+b) Quanti calori vengono generati dal frenaggio? 
+c) Se tale calore fosse usato per riscaldare barre di massa e lunghezza uguali ma di dimensioni diverse 
+materiali e le cui costanti sono riportate nella tabella seguente: 
+- 
+Quale di loro si scalda di più? (acquista più temperatura)
+- 
+Quale si dilata di più? 
+Materiale 
+Calore specifico 
+Cal/goC 
+- Coef. dilatato. 
+Term. Lineare (oC-1) 
+Calore di fusione 
+(cal/g) 
+Punto di fusione 
+ºC 
+Alumini
+- Silver
+Oro .
+Platino 
+Pilo
+0,22 
+0,056 
+0,031 
+0,032 
+0,031 
+24 x 10-6 
+17 x 10-6 
+13 x 10-6 
+9 x 10-6 
+29 x 10-6 
+77 
+21 
+16 
+27 
+5,8 
+659 
+961 
+1063 
+1775 
+327
+
+**Topic:** [[Conservation of Energy]], [[Thermodynamics]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Rod (object)|Rod]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following conditions shall apply:
+
+PT81. St. Michael of Tucumán. Blue, please. 
+ 
+The driver of a 1600 kg car travelling on a route at a speed of 30 m/s
+A dog crossing a few feet in front of his car. Apply the brakes and stop in 5s 
+(a) What is the brake power? 
+(b) How much heat is generated by the brake? 
+(c) If that heat is used to heat bars of equal mass and length but of different lengths 
+materials and their constants are given in the following table: 
+- 
+Which one gets warmer? (acquires higher temperature) 
+- 
+Which one dilates more? 
+Material 
+Specific heat 
+Cal/goC 
+Coef, you know what? The dilatation. 
+Term. Linear (oC-1) 
+Heat of Fusion 
+(cal/g) 
+Fusion point 
+ºC 
+Aluminium
+Silver .
+Gold .
+Platinum .
+Lead
+0,22 
+0,056 
+0,031 
+0,032 
+0,031 
+24 x 10-6 
+17 x 10-6 
+13 x 10-6 
+9 x 10-6 
+29 x 10-6 
+77 
+21 
+16 
+27 
+5,8 
+659 
+961 
+1063 
+1775 
+327
+
+**Topic:** [[Conservation of Energy]], [[Thermodynamics]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Rod (object)|Rod]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q83" data-atom="q83" data-title="Argent 2004 Locale — Quesito 83" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/multi,object/resistor"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Circuito con varios resistores e instrumentos**
+
+PT82. San Miguel de Tucumán. Azul. 
+ 
+En la figura se muestra un circuito con varios resistores. 
+a) R1 y R2 están construidos con un alambre de cobre de la misma longitud ¿Cuál es la relación 
+entre sus diámetros? (d1 /d2) 
+b) ¿C uál es la lectura de los instrumentos (1) y (2) ¿De que instrumentos se trata? 
+c) R3 y R4 son dos calentadores  de inmersión que se colocan en un recipiente que contiene 3 
+litros de agua a temperatura ambiente (20ºC) ¿cuánto demora en llegar el agua a su ebullición 
+completa? 
+d) Si a este conjunto de resistencias se agregara otro alambre de cobre de 0,50 cm de longitud     
+1 mm de diámetro, en serie con R1 y R2 ¿La corriente total por el circuito, aumenta, 
+disminuye o permanece igual? 
+R1 = 40Ω 
+R2 = 20Ω 
+R3 = 10Ω 
+R4 = 10Ω 
+ρCu = 1,7 x 10-8 
+m
+mm2
+Ω
+
+
+
+**Topic:** [[Circuits]], [[Thermodynamics]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Circuito con diverse resistori e strumenti**
+
+PT82. San Michele di Tucumán. Blu. 
+ 
+La figura mostra un circuito con diverse resistori. 
+a) R1 e R2 sono costruite con un filo di rame della stessa lunghezza
+tra i suoi diametri? (d1 /d2) 
+b) Quali sono le letture degli strumenti (1) e (2) Quali sono gli strumenti? 
+(c) R3 e R4 sono due riscaldatori di immersione che vengono inseriti in un recipiente contenente 3 
+litri di acqua a temperatura ambiente (20°C) quanto tempo ci vuole per arrivare all'acqua a bollire 
+- Completamente? 
+d) Se a questo insieme di resistenze viene aggiunto un altro filo di rame di 0,50 cm di lunghezza 
+1 mm di diametro, in serie con R1 e R2  Il corrente totale per il circuito, aumenta, 
+diminuisce o rimane uguale? 
+R1 = 40Ω 
+R2 = 20Ω 
+R3 = 10Ω 
+R4 = 10Ω 
+ρCu = 1,7 x 10-8 
+m
+mm2
+Ω
+
+
+
+**Topic:** [[Circuits]], [[Thermodynamics]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Multi-resistant and multi-instrument circuit**
+
+PT82. St. Michael of Tucumán. Blue, please. 
+ 
+The figure shows a circuit with several resistors. 
+(a) R1 and R2 are constructed with a copper wire of the same length What is the ratio 
+between their diameters? (d1 /d2) 
+(b) What is the reading of instruments (1) and (2) What instruments are involved? 
+(c) R3 and R4 are two immersion heaters placed in a container containing 3 
+liters of water at room temperature (20°C) how long does it take for water to boil 
+complete? 
+(d) If another copper wire of 0,50 cm length is added to this resistance set 
+1 mm diameter, in series with R1 and R2  Total current through the circuit increases, 
+decreases or remains the same? 
+R1 = 40Ω 
+R2 = 20Ω 
+R3 = 10Ω 
+R4 = 10Ω 
+ρCu = 1.7 x 10-8 
+m
+mm2
+Ω
+
+
+
+**Topic:** [[Circuits]], [[Thermodynamics]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q84" data-atom="q84" data-title="Argent 2004 Locale — Quesito 84" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/5,multidisciplina/multi,object/spring,object/mirror"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Sirena en resorte con espejo convexo (Doppler)**
+
+PT83. San Miguel de Tucumán. Azul. 
+ 
+A un resorte de longitud suficientemente extensa se lo suspende de un soporte elevado y se le cuelga 
+en su extremo una sirena de masa M = 0,2 kg. , sonando. 
+Debido a esta carga el resorte se estira 2 m alcanzando la posición de equilibrio A. 
+Mediante una fuerza vertical hacia abajo el resorte es estirado 2 m más y luego dejado en libertad 
+oscilando sin rozamiento dentro de su rango elástico. 
+La posición A coincide con un punto del eje principal de un espejo convexo, de radio de curvatura      
+R = 1 m , ubicado a 10 del vértice del mismo, en el cual se reflejan las oscilaciones de la sirena. 
+En el punto A el oído de un observador escucha el sonido de la sirena  cuya frecuencia es                    
+µs = 15000 Hz. cuando la misma estaba quieta. 
+Usando g = 10 m / seg2 y tomando la velocidad del sonido en el aire en esas condiciones                  
+Vs= 330 m / seg. 
+Calcular: 
+1) La K del resorte. 
+2) La energía cinética máxima de la masa oscilando. 
+3) La frecuencia de oscilación. 
+4) La energía cinética a los 0,25 seg. de haber pasado la sirena por A en sentido ascendente. 
+5) Altura de la imagen en la amplitud de oscilación. 
+6) Velocidad máxima de la 
+imagen. 
+7) Aceleración máxima de la 
+imagen. 
+8) Periódo de oscilación de la 
+imagen. 
+9) Frecuencia sonora aparente 
+para el observador cuando la 
+sirena está a 1,5 m alejándose 
+de la posición A. 
+10) Frecuencia sonora aparente 
+para el observador cuando la 
+sirena está a 1,5 m 
+acercándose a la posición A.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p57_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Oscillations & Waves]], [[Geometric Optics]]
+**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Spring (object)|Spring]], [[Mirror (object)|Mirror]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Sirena a risorsa con specchio convexo (Doppler)**
+
+PT83. San Michele di Tucumán. Blu. 
+ 
+A una stagione di lunghezza sufficientemente lunga, viene sospeso da un supporto elevato e appeso.
+alla sua estremità una sirena di massa M = 0,2 kg. - Suona. 
+A causa di questo carico la molla si estende 2 m raggiungendo la posizione di equilibrio A. 
+Con una forza verticale verso il basso la primavera viene estesa 2 metri di più e poi lasciata libera.
+oscillante senza rughe all'interno del suo raggio elastico. 
+La posizione A corrisponde a un punto dell'asse principale di uno specchio convexo, di radius di curvatura 
+R = 1 m, situato a 10 da quel vertice, in cui si riflettono le oscillazioni della sirena. 
+Al punto A l'orecchio di un osservatore sente il suono della sirena la cui frequenza è
+µs = 15000 Hz. quando era quieta. 
+Usando g = 10 m / sec2 e prendendo la velocità del suono in aria in quelle condizioni 
+Vs = 330 m/sec. 
+Calcolare: 
+1) La K della primavera. 
+2) L'energia cinetica massima della massa oscillante. 
+3) Frequenza di oscillazione. 
+4) Energia cinetica a 0,25 seg. di aver passato la sirena per A in senso ascendente. 
+5) Altura dell'immagine nell'ampiezza di oscillazione. 
+6) Velocità massima della 
+immagine. 
+7) Accelerazione massima della 
+immagine. 
+8) Periodo di oscillazione della 
+immagine. 
+9) Frequenza sonora apparente 
+per l'osservatore quando la
+Sirena è a 1,5 metri di distanza.
+di posizione A. 
+10) Frequenza sonora apparente 
+per l'osservatore quando la
+Sirena è a 1,5 m
+Approcciandosi alla posizione A.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p57_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Oscillations & Waves]], [[Geometric Optics]]
+**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Spring (object)|Spring]], [[Mirror (object)|Mirror]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following is the list of the main types of mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury-based mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mercury mer
+
+PT83. St. Michael of Tucumán. Blue, please. 
+ 
+At a spring of sufficient length it is suspended from a raised support and hung.
+At its end a mermaid of mass M = 0,2 kg. , ringing. 
+Due to this load the spring is stretched 2 m to reach the equilibrium position A. 
+By a vertical force downwards the spring is stretched 2 m further and then released.
+oscillating without a scratch within its elastic range. 
+Position A corresponds to a point on the main axis of a convex mirror, with a radius of curvature 
+R = 1 m , located 10 metres from the summit of the same, in which the siren oscillations are reflected. 
+At point A, the ear of an observer hears the sound of the siren whose frequency is
+µs = 15000 Hz. when she was still. 
+Using g = 10 m/s2 and taking the sound speed in the air under those conditions 
+Vs = 330 m/s. 
+Calculation: 
+1) The K of the spring. 
+2) The maximum kinetic energy of the oscillating mass. 
+3) The frequency of oscillation. 
+4) Kinetic energy at 0.25 seconds. I'm sorry, sir, but I'm not sure I'm gonna be able to get the siren through A upwards. 
+5) Height of the image in the oscillation width. 
+6) Maximum speed of the 
+The image. 
+7) Maximum acceleration of the 
+The image. 
+8) The period of oscillation of the 
+The image. 
+9) Apparent sound frequency 
+for the observer when the
+Siren is 1.5 m away .
+of heading A. 
+10) Apparent sound frequency 
+for the observer when the
+Siren is 1.5 m away .
+approaching position A.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p57_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Oscillations & Waves]], [[Geometric Optics]]
+**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Spring (object)|Spring]], [[Mirror (object)|Mirror]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q85" data-atom="q85" data-title="Argent 2004 Locale — Quesito 85" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/elasticity-and-materials,argomento/meccanica,difficolta/5,multidisciplina/multi,object/piston,object/gas,object/cylinder"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Piston de plomo, mercurio y gas (timer)**
+
+PT84. San Miguel de Tucumán. Azul. 
+ 
+Se ha improvisado un sistema que permite  controlar el tiempo que demora un dispositivo desde que se 
+lo activa hasta que permite el paso de la corriente eléctrica. El mismo fue construido usando un bloque 
+de acero, donde se ha perforado un hueco cilíndrico dentro del cual puede desplazarse un pistón 
+macizo de plomo, cuya masa es de 1000 g. La cavidad cilíndrica, sellada por el pistón, puede llenarse 
+con un gas a presión controlada. 
+En el instante inicial, el pistón se halla libre 6 cm del extremo superior (ver gráfico ) , la presión 
+ambiente es de 1 atmósfera y la temperatura ambiente de 20 ºC. 
+Un gotero agrega una gota de mercurio cada 2 seg. en el espacio entre el émbolo y las paredes del 
+cilindro. A medida que se acumula mercurio, el émbolo 
+baja. El sistema se ha preparado de tal manera que 
+cuando el menisco de mercurio llega a 1 cm del borde 
+superior de las paredes del cilindro, se cierra un contacto 
+eléctrico que permite el paso de la corriente. 
+ 
+Datos: 
+Densidad mercurio = 13600 kg/m3 
+1 gota = 0,1 cm3 
+Coef. dilatación acero = 1,4 x 10 -5 1/ºC 
+Coef. dilatación plomo = 2,9 x 10 -5 1/ºC 
+Módulo de Young del acero = 2,16 x 10 5 N/mm2 
+Módulo de Young del plomo = 1,47 x 10 5 N/mm2 
+ 
+Suponiendo que han transcurrido 15 min. y que no hay rozamiento entre el pistón y la pared del 
+cilindro, 
+1) Determinar la presión del gas necesaria para que el pistón con el mercurio estén en 
+reposo. 
+Por acción de la temperatura, los cuerpos sólidos experimentan una dilatación por la cual sus 
+magnitudes cambian. A la temperatura de 20 ºC , el radio del cilindro y del pistón son iguales al valor 
+R = 5 cm y la altura del pistón 1 cm. 
+2) Calcule a la temperatura de trabajo (tº = 21ºC), el radio y el volumen del pistón de 
+plomo, si éste se hallase fuera del cilindro. Calcule también el radio de la cavidad 
+dentro del bloque de acero a dicha temperatura. 
+3) Calcule la presión P (en N/m2 y at.) que ejerce el cilindro sobre el pistón a la 
+temperatura de trabajo, tenga en cuenta que a una dada temperatura, dicha presión está 
+relacionada con la deformación sufrida por el radio del pistón, ∆R, según: 
+P = Y ∆R / R 
+ 
+ 
+Donde Y se conoce como módulo de Young, y R es el radio del pistón no deformado. 
+Suponiendo que el gas dentro del cilindro se comporta como un gas ideal, y manteniendo todo el 
+sistema a la temperatura de trabajo constante: 
+4) Calcule el tiempo necesario, desde que se depositó la primera gota, para que el 
+contacto se cierre y permita el paso de la corriente. 
+5) Calcule la presión del gas cuando se cierra el circuito. 
+6) Suponiendo que al comienzo se tenía perfectamente sellado 1 litro de gas en el 
+cilindro, manteniendo todo el sistema a la temperatura de trabajo constante, ¿cuánto 
+puede desplazarse el pistón hacia arriba tal que al liberarlo, con el mercurio, queden 
+en reposo?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p58_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Elasticity & Materials]], [[Kinetic Theory]]
+**Metodi:** [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Piston (object)|Piston]], [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Pistone di piombo, mercurio e gas (timero) **
+
+PT84. San Michele di Tucumán. Blu. 
+ 
+È stato improvvisato un sistema che consente di controllare il tempo che un dispositivo dura dal momento che è stato
+lo attiva fino a quando permette il passaggio del corrente elettrica. E ' stato costruito usando un blocco.
+di acciaio, dove è stata perforata una casca cilindrica in cui un pistone può spostarsi 
+massiccio di piombo, di massa di 1000 g. La cavità cilindrica, sigillata dal pistone, può essere riempita.
+con un gas a pressione controllata. 
+In questo momento, il pistone è libero a 6 cm dall'estremità superiore (vedi grafico), la pressione è
+l'ambiente è di 1 atmosfera e la temperatura ambiente di 20 oC. 
+Un goccia aggiunge una goccia di mercurio ogni 2 secondi. nello spazio tra l'imbolo e le pareti del
+cilindro. Mentre il mercurio si accumula, l'imbolo
+- Scendi. Il sistema è stato preparato in modo tale che 
+quando il menisco di mercurio arriva a 1 cm dal bordo 
+sopra le pareti del cilindro, si chiude un contatto 
+elettrico che permette il passaggio del corrente. 
+ 
+Datati: 
+Densità di mercurio = 13600 kg/m3 
+1 goccia = 0,1 cm3 
+- Coef. dilatazione dell'acciaio = 1,4 x 10 -5 1/oC 
+- Coef. dilatazione di piombo = 2,9 x 10 -5 1/oC 
+Modulo di Young dell'acciaio = 2,16 x 10 5 N/mm2 
+Modulo di Young del piombo = 1,47 x 10 5 N/mm2 
+ 
+Supponiamo siano passati 15 minuti. e che non c'è lacerazione tra il pistone e il muro del
+cilindro, 
+1) Determinare la pressione del gas necessaria per far sì che il pistone con il mercurio sia in grado di
+Riposo. 
+L'azione della temperatura fa sì che i corpi solidi si dilatino, e i loro corpi si dilatino.
+Le dimensioni cambiano. A 20 oC , il raggio del cilindro e del pistone sono uguali al valore .
+R = 5 cm e altezza del pistone 1 cm. 
+2) Calcolare alla temperatura di lavoro (to = 21°C), il raggio e il volume del pistone di 
+piombo, se questo è fuori dal cilindro. Calcola anche il raggio della cavità
+all'interno del blocco di acciaio a tale temperatura. 
+3) Calcolare la pressione P (in N/m2 e at) esercitata dal cilindro sul pistone a
+La temperatura di lavoro è di circa un quarto di temperatura.
+Relato alla deformazione del raggio del pistone, ∆R, secondo: 
+P = Y ∆R / R 
+ 
+ 
+Dove Y è noto come modulo di Young, e R è il raggio del pistone non deformato. 
+Supponendo che il gas all'interno del cilindro si comporti come un gas ideale, e mantenendo l'intero
+sistema a temperatura di lavoro costante: 
+4) Calcolare il tempo necessario, da quando è stata depositata la prima goccia, per consentire al
+il contatto si chiude e permette il passaggio del corrente. 
+5) Calcolare la pressione del gas quando si chiude il circuito. 
+6) Supponendo che all'inizio il litro di gas fosse perfettamente sigillato nel
+cilindro, mantenendo l'intero sistema a temperatura di lavoro costante, quanto 
+il pistone può essere spostato verso l'alto in modo che quando lo si libera, con il mercurio, rimangono
+- In riposo?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p58_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Elasticity & Materials]], [[Kinetic Theory]]
+**Metodi:** [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Piston (object)|Piston]], [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Piston of lead, mercury and gas (timer) **
+
+PT84. St. Michael of Tucumán. Blue, please. 
+ 
+An improvised system has been developed to control the time it takes for a device to be
+activate it until it allows the passage of electric current. It was built using a block.
+steel, where a cylindrical hole has been drilled into which a piston can be moved 
+a lead solid, with a mass of 1000 g. The cylindrical cavity, sealed by the piston, can be filled.
+with a controlled pressure gas. 
+At the initial moment, the piston is free 6 cm from the upper end (see graph), pressure 
+The ambient temperature is 1 atmosphere and the ambient temperature is 20 oC. 
+A drop adds a drop of mercury every 2 seconds. In the space between the embolus and the walls of the
+The cylinder. As mercury builds up, the embolus
+Get down there. The system has been prepared in such a way that 
+When the mercury meniscus reaches 1 cm from the edge
+above the cylinder walls, a contact is closed 
+electrical system that allows the flow of current. 
+ 
+The data: 
+The concentration of mercury is equal to 13600 kg/m3 
+1 drop = 0.1 cm3 
+Coef, you know what? The steel dilatation = 1,4 x 10 -5 1/oC 
+Coef, you know what? Lead dilation = 2.9 x 10 -5 1/oC 
+Young module of steel = 2,16 x 10 5 N/mm2 
+Young module of lead = 1.47 x 10 5 N/mm2 
+ 
+Assuming it's been 15 minutes. And there's no friction between the piston and the wall of the piston.
+The cylinder, 
+1) Determine the gas pressure necessary for the mercury piston to be in
+I'm going to rest. 
+By the action of temperature, solids experience a dilation by which their
+The magnitude changes. At 20 ° C , the cylinder and piston radius are equal to the value 
+R = 5 cm and the piston height 1 cm. 
+2) Calculate the working temperature (to = 21oC), the radius and volume of the piston of 
+lead, if this is outside the cylinder. Also calculate the radius of the cavity.
+inside the steel block at that temperature. 
+3) Calculate the pressure P (in N/m2 and at) exerted by the cylinder on the piston at the 
+The working temperature, please note that at a given temperature, the pressure is
+related to the deformation of the piston radius, ∆R, as follows: 
+P = Y ∆R / R 
+ 
+ 
+Where Y is known as Young's modulus, and R is the radius of the untwisted piston. 
+Assuming the gas inside the cylinder behaves like an ideal gas, and keeping the whole cylinder
+system at constant working temperature: 
+4) Calculate the time it takes since the first drop was deposited to make the
+contact is closed and current is allowed to pass. 
+5) Calculate the gas pressure when the circuit is closed. 
+6) Assuming that at the beginning 1 litre of gas was perfectly sealed in the
+cylinder, keeping the whole system at a constant working temperature, how much 
+The piston can be moved upwards so that when released, with mercury, they remain.
+At rest?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p58_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Elasticity & Materials]], [[Kinetic Theory]]
+**Metodi:** [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Piston (object)|Piston]], [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q86" data-atom="q86" data-title="Argent 2004 Locale — Quesito 86" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/multi,object/tank-container,object/resistor"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Tanque cilindrico con calentador electrico**
+
+PT85. San Miguel de Tucumán. Azul. 
+ 
+Un tanque cilíndrico, aislado térmicamente, de 1m de diámetro y 80cm de altura contiene agua a una 
+temperatura de 20ºC y el nivel indica ¾ de su capacidad. El tanque posee en su interior un calentador 
+
+eléctrico, cuyo rendimiento es del 80%, su resistencia es de 22Ω y está alimentado con una tensión  de 
+220V. 
+1) ¿Cuál es la masa de agua que contiene el tanque? 
+2) ¿Qué presión ejerce el agua sobre la base del tanque? 
+3) ¿Qué cantidad de calor debe suministrarsele al agua para que alcance una temperatura de 
+60ºC? 
+4) ¿Cuánto tiempo debe estar encendido el calefactor? 
+5) ¿Cuánto de energía eléctrica ha consumido el calefactor? 
+6) ¿Si el costo del kw-h es de 6,234 ctvos, cuánto dinero gastó para calentar el agua? 
+7) ¿Qué intensidad de corriente circula por la resistencia del calefactor?
+
+
+
+**Topic:** [[Thermodynamics]], [[Circuits]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Cilindrico con riscaldatore elettrico**
+
+PT85. San Michele di Tucumán. Blu. 
+ 
+Un serbatoio cilindrico, termicamente isolato, di 1 m di diametro e 80 cm di altezza contiene acqua a una
+temperatura di 20°C e il livello indica 3⁄4 della sua capacità. Il serbatoio ha dentro un riscaldatore
+
+Il sistema di controllo è dotato di un'energia elettrica, il cui rendimento è dell'80%, la resistenza è di 22Ω e è alimentato da una tensione di
+220V. 
+1) Qual è la massa d'acqua contenuta nel serbatoio? 
+2) Che pressione esercita l'acqua sulla base del serbatoio? 
+3) Quanta calore deve essere fornito all'acqua per raggiungere una temperatura di
+60ºC? 
+4) Quanto tempo deve essere acceso il riscaldatore? 
+5) Quanta energia elettrica ha consumato il riscaldatore? 
+6) Se il costo del kw-h è di 6.234 ctvos, quanti soldi ha speso per riscaldare l'acqua? 
+7) Qual è l'intensità di corrente circolante per la resistenza del riscaldatore?
+
+
+
+**Topic:** [[Thermodynamics]], [[Circuits]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Cylindrical tank with electric heater**
+
+PT85. St. Michael of Tucumán. Blue, please. 
+ 
+A cylindrical, thermal insulated tank, 1m in diameter and 80cm high, contains water at a
+temperature of 20°C and the level indicates 3⁄4 of its capacity. The tank has a heater inside it.
+
+The electrical power supply is 80% of the power output, the resistance is 22Ω and the voltage is
+220V. 
+1) What is the water mass of the tank? 
+2) What pressure does the water exert on the base of the tank? 
+3) How much heat must be supplied to the water to reach a temperature of 
+60ºC? 
+4) How long should the heater be on? 
+5) How much electricity has the heater consumed? 
+6) If the cost of the kw-h is 6,234 ctvos, how much money did he spend to heat the water? 
+7) What current intensity is the heater's resistance?
+
+
+
+**Topic:** [[Thermodynamics]], [[Circuits]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q87" data-atom="q87" data-title="Argent 2004 Locale — Quesito 87" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Competencia de esqui (energia y cinematica)**
+
+PT86. Yerba Buena, Tucumán. Azul. 
+ 
+Se realiza una competencia de esquí en la provincia de Mendoza. Esta competencia tiene varias etapas. 
+La primera consta de elevar a los participantes y sus equipos en vagones de funicular hasta una 
+montaña ubicada a 10 m de la base. 
+Una vez alcanzada esta altura el vagón se detiene y bajan los competidores. 
+a) calcular el trabajo necesario para elevar el funicular hasta lo alto de la montaña 
+Desde allí toma impulso (está permitido tomar impulso antes de la largada pero no durante la carrera) 
+y se desplaza 10 m previos a la largada. Suponiendo que el rozamiento es despreciable y que el 
+esquiador realiza una fuerza de 75 N a lo largo de un tramo de 10 m previos a la largada 
+b) ¿Con cuánta energía llega a la largada? 
+c) ¿Con qué velocidad larga? 
+Si luego de largar, cae en A 
+d) ¿Cuánto tiempo tarda en caer? 
+e) ¿A qué distancia horizontal del pie de la montaña cae? 
+Continúa esquiando, atravesando la bandera B 
+f) ¿Cuánto vale la energía mecánica en B? 
+g) Calcular la energía potencial en B. 
+h) ¿Con qué velocidad pasa por B? 
+Al pasar por la bandera C lleva una velocidad de 10 m/s 
+i) ¿A qué altura está la loma de la segunda bandera? 
+El esquiador para frenar emplea unos 24 m a lo largo de los cuales sus esquís son atravesados 
+recibiendo así una fuerza de rozamiento, hasta detenerse en la llegada. Si la fuerza de rozamiento es de 
+500 N. 
+j) ¿Cuánto vale la velocidad justo antes de comenzar a frenar? 
+k) Calcula la aceleración durante este tramo. 
+l) ¿Cuánto demora en detenerse? 
+La competencia consiste en recorrer dos veces el trayecto y gana el que lo realiza en menor tiempo. 
+Si el esquiador que viene por detrás posee 10 kg menos de masa y pasa por la largada a la misma 
+velocidad que el anterior. 
+m) ¿Cuál de los dos competidores realiza una prueba en menos tiempo? Explica.
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Competenza sciistica (energia e cinematica) **
+
+PT86. - Buona erba, Tucumán. Blu. 
+ 
+Si svolge una competizione di sci nella provincia di Mendoza. Questa competizione ha varie fasi. 
+La prima consiste nel sollevare i partecipanti e le loro equipaggiamenti in vagoni funicolari fino a un'ora di lavoro.
+montagna situata a 10 m dalla base. 
+Una volta raggiunta questa altezza il vagone si ferma e i concorrenti scendono. 
+a) calcolare il lavoro necessario per elevare il funicolo fino alla cima della montagna 
+Da lì prende impulso (si può prendere impulso prima della partenza ma non durante la gara) 
+e si muove 10 metri prima di partire. Supponiamo che il taglio sia disprezzabile e che il
+sciatore realizza una forza di 75 N lungo un tratto di 10 m prima della partenza 
+b) Con che energia arriva a casa? 
+c) A che velocità lungo? 
+Se dopo aver lasciato, cade in A 
+d) Quanto tempo ci vuole per cadere? 
+e) A che distanza orizzontale dal piede della montagna si trova? 
+Continua a sciare, attraversando la bandiera B 
+f) Quanto vale l'energia meccanica in B? 
+g) Calcolare l'energia potenziale in B. 
+h) A che velocità passa B? 
+Passando per la bandiera C, ha una velocità di 10 m/s.
+(i) A che altezza si trova la loma della seconda bandiera? 
+Lo sciatore per frenare impiega circa 24 metri lungo i quali i suoi schizzi sono attraversati.
+Così riceveranno la forza di un morso, fino a fermarsi all'arrivo. Se la forza di rottura è di 
+500 N. 
+j) Quanto vale la velocità appena prima di iniziare a frenare? 
+k) Calcola l'accelerazione durante questo periodo. 
+L) Quanto tempo ci vuole per fermarsi? 
+La competizione consiste nel fare due volte il percorso e vince chi lo fa in meno tempo. 
+Se lo sciatore che viene dietro ha 10 kg di massa in meno e passa per la pista alla stessa
+velocità rispetto a quella precedente. 
+(m) Qual è il concorrente che esegue una prova in meno tempo? Spiega.
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Skys competence (energy and kinematics) **
+
+PT86. It's good grass, Tucumán. Blue, please. 
+ 
+A ski competition is being held in Mendoza province. This competition has several stages. 
+The first is to lift the participants and their equipment in funiculars up to a
+Mountain located 10 m from the base. 
+Once this height is reached, the car stops and the competitors come down. 
+(a) calculate the work required to lift the funicular up to the top of the mountain.
+From there it takes momentum (it is allowed to take momentum before the start but not during the race) 
+And it moves 10 meters before the start. Assuming the grating is despicable and that the
+A skier performs a force of 75 N along a 10 m stretch before the start 
+(b) With what energy does he get to the start? 
+(c) At what long speed? 
+If after leaving, it falls on A 
+(d) How long does it take to fall? 
+(e) How far horizontally does the foot of the mountain fall? 
+He continues skiing, crossing the B-flag.
+(f) What is the value of mechanical energy in B? 
+(g) Calculate the potential energy in B. 
+(h) How fast does it pass through B? 
+When passing through the C flag, it travels at a speed of 10 m/s.
+(i) How high is the second flag's snout? 
+The skier to brake uses about 24 m along which his skis are crossed.
+And so they get a force of friction, until they stop at the arrival. If the force of friction is of 
+500 N. 
+j) What is the speed just before starting to brake? 
+k) Calculate the acceleration during this stretch. 
+(l) How long does it take to stop? 
+Competition consists of twice traveling the route and the one who does it in less time wins. 
+If the skier coming from behind has 10 kg less mass and goes through the runway to the same
+speed than the previous one. 
+(m) Which of the two competitors takes a test in less time? - Explain that.
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q88" data-atom="q88" data-title="Argent 2004 Locale — Quesito 88" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Puente Lucas Cordoba (dilatacion y calor solar)**
+
+PT87. Yerba Buena, Tucumán. Azul. 
+ 
+La longitud del puente Lucas Córdoba, que une la ciudad de San Miguel de Tucumán con la ciudad de 
+Banda del Río Salí, tiene una longitud de 220 m y un ancho de 24 m. 
+En un día de invierno la temperatura es de 270º K y en un día de verano 42ºC. 
+Sabiendo que el coeficiente de dilatación lineal es 
+C
+x
+º
+1
+10
+12
+6
+−
+: 
+a) Calcule la diferencia de su superficie entre un día de invierno y un día de verano. 
+La potencia solar determina cuánto calor llegan por m2 y en cada minuto a la superficie de la Tierra. 
+Según numerosas mediciones, se determinó que la radiación solar en Tucumán es de 10.850cal por 
+cada m2 y en cada minuto. También se sabe que el agua hierve a 98,6ºC. 
+Suponiendo que después de una tormenta de verano y debido a que los desagues se han obstruido, se 
+ha depositado 5 cm de agua en toda su superficie y si se pudiese colectar el 100% de la radiación solar, 
+entonces: 
+b) Suponiendo que después de la tormenta la temperatura es de 20ºC, ¿qué cantidad de calor será 
+necesario para llevarla a la temperatura de ebullición? 
+c) Calcular la cantidad de calor necesaria para evaporar toda el agua. 
+d) ¿En qué tiempo se evaporará?. 
+e) Graficar Temperatura – Calor para los puntos b) y c)
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Ponte Lucas Cordoba (dilatazione e calore solare) **
+
+PT87. - Buona erba, Tucumán. Blu. 
+ 
+La lunghezza del ponte Lucas Córdoba, che collega la città di San Miguel de Tucumán con la città di 
+Banda del Río Salí, ha una lunghezza di 220 m e una larghezza di 24 m. 
+In un giorno invernale la temperatura è di 270°C e in un giorno estivo di 42°C. 
+Sapendo che il coefficiente di dilatazione lineare è
+C
+x
+º
+1
+10
+12
+6
+−
+: 
+a) Calcolare la differenza di superficie tra un giorno d'inverno e un giorno di estate. 
+La potenza solare determina quanto calore arriva per m2 e ogni minuto sulla superficie terrestre. 
+Sulla base di numerose misurazioni, è stato determinato che la radiazione solare a Tucumán è di 10.850 cal.
+ogni m2 e ogni minuto. È anche noto che l'acqua si bolle a 98,6°C. 
+Supponendo che dopo una tempesta estiva e perché le scorie sono bloccate, si 
+ha depositato 5 cm di acqua su tutta la sua superficie e se si potesse raccogliere il 100% della radiazione solare,
+Allora: 
+b) Supponendo che dopo la tempesta la temperatura sia di 20°C, che quantità di calore sarà 
+necessario per portarla alla temperatura di ebollizione? 
+c) Calcolare la quantità di calore necessaria per evaporare tutta l'acqua. 
+d) Quando evaporerà? 
+e) Grafico Temperatura  Calore per i punti b) e c)
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The Commission has also adopted a proposal for a Regulation on the approximation of the laws of the Member States relating to the use of the electricity sector in the electricity sector.
+
+PT87. It's good grass, Tucumán. Blue, please. 
+ 
+The length of the Lucas Córdoba bridge, which connects the city of San Miguel de Tucumán with the city of 
+Banda del Río Salí, has a length of 220 m and a width of 24 m. 
+On a winter day the temperature is 270°C and on a summer day 42°C. 
+Knowing that the linear dilation coefficient is 
+C
+x
+º
+1
+10
+12
+6
+−
+: 
+(a) Calculate the difference in its surface area between a winter day and a summer day. 
+Solar power determines how much heat per m2 and every minute reaches the Earth's surface. 
+According to numerous measurements, it was determined that the solar radiation in Tucumán is 10,850 cal per day.
+every square foot and every minute. It is also known that water boils at 98.6 degrees Celsius. 
+Assuming that after a summer storm and because the drains have been blocked, you 
+has deposited 5 cm of water on its entire surface and if 100% of the solar radiation could be collected,
+Then: 
+(b) Assuming that after the storm the temperature is 20°C, how much heat will be 
+necessary to bring it to boiling temperature? 
+(c) Calculate the amount of heat required to evaporate all water. 
+(d) When will it evaporate? 
+(e) Graphing Temperature  Heat for points (b) and (c)
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q89" data-atom="q89" data-title="Argent 2004 Locale — Quesito 89" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/multi,object/resistor,object/battery"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Calentador para hervir agua en 10 min**
+
+PT88. Yerba Buena, Tucumán. Azul. 
+ 
+Un estudiante desea proyectar un calentador que sea capaz de elevar la temperatura de 1 l de agua, 
+inicialmente a 20º C, hasta su punto de ebullición, en solo 10 minutos. 
+Para armar el calentador se dispone de tres resistores R1, R2 y R3; así como de una batería que 
+proporciona un voltaje constante. 
+a) Entre los montajes que se muestran en la figura señale el que debería emplear para que el agua 
+se caliente más rápidamente 
+ 
+ 
+ 
+Suponga que todo el calor desarrollado en el calentador se emplea para elevar la temperatura del agua. 
+b) ¿Cuánto calor se entregará al agua? 
+c) ¿Cuál debe ser la Potencia de este hervidor? 
+d) Si el calentador se diseña para ser conectado a 220 v, ¿Cuál debe ser el valor de su Resistencia 
+Supongamos ahora que solo el 90% del calor desarrollado por el calentador se utiliza para elevar la 
+temperatura. 
+e) Calcular el tiempo que demorará en alcanzar los 100º C
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p60_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Circuits]], [[Thermodynamics]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Calditore per far bollire l'acqua in 10 minuti**
+
+PT88. - Buona erba, Tucumán. Blu. 
+ 
+Uno studente vuole progettare un riscaldatore che possa sollevare la temperatura di un litro d'acqua.
+Inizialmente a 20°C, fino al punto di ebollizione in soli 10 minuti. 
+Per il riscaldamento si dispone di tre resistori R1, R2 e R3 e di una batteria che 
+fornisce una tensione costante. 
+a) Tra le montaggi illustrate nella figura indicare quale deve essere utilizzato per far salire l'acqua
+Si scalda più velocemente 
+ 
+ 
+ 
+Supponiamo che tutto il calore sviluppato nel riscaldatore sia utilizzato per alzare la temperatura dell'acqua. 
+b) Quanto calore sarà consegnato all'acqua? 
+c) Qual è la potenza di questo bollente? 
+d) Se il riscaldatore è progettato per essere collegato a 220 v, qual è il valore della sua resistenza 
+Supponiamo che solo il 90% del calore prodotto dal riscaldatore sia usato per elevare la temperatura.
+temperatura. 
+e) Calcolare il tempo necessario per raggiungere i 100°C
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p60_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Circuits]], [[Thermodynamics]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Heater for boiling water in 10 min**
+
+PT88. It's good grass, Tucumán. Blue, please. 
+ 
+A student wants to design a heater that can raise the temperature of 1 liter of water.
+Initially at 20 degrees, to its boiling point, in just 10 minutes. 
+The heater is equipped with three resistors R1, R2 and R3 and a battery which is
+It provides a constant voltage. 
+(a) Among the assemblies shown in the figure indicate which one should be used for water
+It warms up faster 
+ 
+ 
+ 
+Suppose all the heat developed in the heater is used to raise the temperature of the water. 
+(b) How much heat will be delivered to the water? 
+(c) What should be the power of this boiler? 
+(d) If the heater is designed to be connected to 220 v, what should be the value of its resistance 
+Now let's say that only 90% of the heat developed by the heater is used to raise the temperature.
+The temperature. 
+(e) Calculate the time it will take to reach 100°C
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p60_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Circuits]], [[Thermodynamics]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q90" data-atom="q90" data-title="Argent 2004 Locale — Quesito 90" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/inclined-plane"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Salto en esqui (energia y proyectil)**
+
+PT89. San Miguel de Tucumán. Verde. 
+ 
+En una competencia de salto en esquí, un esquiador de 80 Kg debe deslizarse por la pista de la figura, 
+partiendo del reposo en el punto A y llegar a BC, una rampa horizontal que le permitirá realizar el 
+salto cayendo cerca de la línea de llegada al final de la pendiente (D). 
+a) Considerando que es despreciable el rozamiento entre el punto A y el punto C, ¿con qué 
+velocidad llega al final de la rampa? 
+
+b) Si los esquís estuvieran mal cuidados (sucios y oxidados) generándose un roce tal que el 
+coeficiente cinético vale 0,1 y el estático 0,2, la velocidad con que llega al final de la rampa, 
+¿será la misma? Calcúlela. 
+c) Los organizadores de la competencia determinaron que la velocidad real con que el esquiador 
+despega de la rampa es Vc = 144 Km/h, ¿a qué distancia medida horizontalmente desde C, 
+tocará la pista? (CD) 
+  
+ 
+ 
+Datos:   AB = 80 mts 
+             BC =   6 mts
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p61_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Salto in sci (energia e proiettile) **
+
+PT89. San Michele di Tucumán. Verde. 
+ 
+In una competizione di salto di sci, uno sciatore da 80 Kg deve scivolare sulla pista della figura, 
+partendo dal riposo al punto A e arrivando a BC, una rampa orizzontale che vi permetterà di effettuare il
+salto cadendo vicino alla linea di arrivo alla fine della pendenza (D). 
+(a) Considerando che il rasatura tra il punto A e il punto C è sconsiderato, con quale?
+La velocità arriva alla fine del ramp? 
+
+b) Se gli schizzi sono mal curati (suggi e ossidati) si genera un rottura tale che il
+il coefficiente cinetico è di 0,1 e lo static è di 0,2, la velocità con cui arriva alla fine del ramp, 
+- Sarà la stessa? Calcola. 
+c) Gli organizzatori della competizione hanno determinato che la velocità reale con cui lo sciatore
+decollo dal rampo è Vc = 144 Km/h, a che distanza misurata orizzontalmente da C, 
+- Suonerà il brano? (CD) 
+  
+ 
+ 
+Data: AB = 80 mts 
+BC = 6 mts
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p61_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Ski jump (energy and projectile) **
+
+PT89. St. Michael of Tucumán. Green, please. 
+ 
+In a ski jumping competition, an 80 kg skier must slide down the figure track, 
+Starting from the rest at point A and reaching BC, a horizontal ramp will allow you to perform the 
+Jump falling near the finish line at the end of the slope (D). 
+(a) Whereas the friction between point A and point C is despicable, what is the reason for this?
+Speed reaches the end of the ramp? 
+
+(b) If the skis were poorly cared for (dirty and oxidized) there would be a rub such that the skis would be
+The kinetic coefficient is 0.1 and the static coefficient is 0.2, the speed at which it reaches the end of the ramp, 
+Will it be the same? Calculate it. 
+(c) The competition organisers determined that the actual speed at which the skier
+ramp take-off is Vc = 144 Km/h, at what distance measured horizontally from C, 
+will you play the track? (CD) 
+  
+ 
+ 
+Data: AB = 80 mts 
+BC = 6 mts
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p61_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Conservation of Energy]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q91" data-atom="q91" data-title="Argent 2004 Locale — Quesito 91" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/rod"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Cinco barras metalicas calentadas**
+
+PT90. San Miguel de Tucumán. Verde. 
+ 
+Considerando cinco barras, de platino, aluminio, oro, plata y plomo, todas de la misma masa y que 
+están a temperatura ambiente (20 °C) y se les entrega calor hasta que su temperatura alcanza los 700 
+°C. Con los datos de la tabla siguiente, responda las siguientes preguntas: 
+a) ¿Todas las barras llegan a esa temperatura en estado sólido? Explique. 
+b) ¿Cuál de las barras ha absorbido mayor cantidad de calor cuando su temperatura alcanza los 
+300 °C? 
+c) ¿Si todas las barras tienen la misma longitud inicial, ¿cuál es la que se habrá estirado menos 
+cuando alcanzan los 300 °C? 
+d) Si las barras estuvieran todas a la respectiva temperatura de fusión y se les suministra calor 
+hasta que se fundan completamente. ¿Cuál de las barras habrá absorbido más calor? 
+e) Si todas las barras, cuando están a 200 °C se ponen en contacto con un bloque de hielo, a 0 °C, 
+parte del hielo se funde hasta que la barra entra en equilibrio térmico con él, ¿cuál de las 
+barras derretirá mayor cantidad de hielo?. 
+
+TABLA 
+ 
+Metal 
+Calor 
+Específico 
+(cal/g.°C) 
+Calor de 
+Fusión 
+(cal/g.°C) 
+Punto de 
+Fusión 
+(°C) 
+Coef. de 
+Dilatación 
+Lineal (°C-1) 
+PLATINO (Pt) 
+0.032 
+27 
+1775 
+9 x 10-6 
+ALUMINIO (Al) 
+0.22 
+77 
+659 
+23 x 10-6 
+ORO (Au) 
+0.031 
+16 
+1063 
+13 x 10-6 
+PLATA (Ag) 
+0.056 
+21 
+961 
+17 x 10-6 
+PLOMO (Pb) 
+0.031 
+5.8 
+327 
+29 x 10-6
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Rod (object)|Rod]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Cinque barre metalliche riscaldate**
+
+PT90. San Michele di Tucumán. Verde. 
+ 
+Considerando cinque barre di platino, alluminio, oro, argento e piombo, tutte della stessa massa e che
+sono a temperatura ambiente (20 °C) e vengono fornite calde fino a raggiungere le temperature di 700 °C.
+°C. Rispondere alle seguenti domande con i dati riportati nella tabella seguente: 
+a) Tutti i bastoni raggiungono questa temperatura in stato solido? Spiegami. 
+b) Quale delle barre ha assorbito la maggior quantità di calore quando la temperatura raggiunge i
+300 °C? 
+c) Se tutte le barre hanno la stessa lunghezza iniziale, quale è stata la meno estesa?
+quando raggiungono 300 °C? 
+d) Se le barre fossero tutte a rispettiva temperatura di fusione e fossero fornite di calore 
+finché non si fondono completamente. Quale delle barre ha assorbito più calore? 
+e) Se tutte le barre, quando sono 200 °C, si mettono in contatto con un blocco di ghiaccio, a 0 °C, 
+parte del ghiaccio si fonde fino a quando la barra entra in equilibrio termico con lui, quale delle due?
+Le barre di ghiaccio scioglieranno più ghiaccio? 
+
+TABELLA 
+ 
+Metallo
+Calore
+Specifico 
+(cal/g.°C) 
+Calore di 
+Fusione
+(cal/g.°C) 
+Punto di 
+Fusione
+(°C) 
+- Coef. de 
+Dilatazione
+Lineare (°C-1) 
+Platino (Pt) 
+0.032 
+27 
+1775 
+9 x 10-6 
+Alumini (Al) 
+0.22 
+77 
+659 
+23 x 10-6 
+ORO (Au) 
+0.031 
+16 
+1063 
+13 x 10-6 
+Plata (Ag) 
+0.056 
+21 
+961 
+17 x 10-6 
+PLO (Pb) 
+0.031 
+5.8 
+327 
+29 x 10-6
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Rod (object)|Rod]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following table shows the methodology used for calculating the value of the product:
+
+PT90. St. Michael of Tucumán. Green, please. 
+ 
+Considering five bars, platinum, aluminum, gold, silver and lead, all of the same mass and that 
+They are at room temperature (20 °C) and are given heat until their temperature reaches 700 
+°C. Use the data in the following table to answer the following questions: 
+(a) Do all bars reach that temperature in solid state? - Explain that. 
+(b) Which of the bars has absorbed the most heat when its temperature reaches the
+300 °C? 
+(c) If all bars have the same initial length, which one has been the least stretched 
+when they reach 300 °C? 
+(d) If all the bars were at their respective melting temperature and were supplied with heat 
+until they completely melt. Which of the bars will have absorbed more heat? 
+(e) If all bars, when 200 °C, come into contact with an ice block, at 0 °C, 
+Some of the ice melts until the bar gets into thermal equilibrium with it, which of the two?
+The barrel will melt more ice. 
+
+Table 
+ 
+Metal .
+Heat .
+Specific 
+The following information shall be provided:
+Heat of 
+Merger
+The following information shall be provided:
+Point of 
+Merger
+(°C) 
+Coef, you know what? de 
+Dilation
+Linear (°C-1) 
+The Commission has not yet adopted a proposal for a regulation.
+0.032 
+27 
+1775 
+9 x 10-6 
+Other materials of heading 8106
+0.22 
+77 
+659 
+23 x 10-6 
+GROW (Au) 
+0.031 
+16 
+1063 
+13 x 10-6 
+The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+0.056 
+21 
+961 
+17 x 10-6 
+The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+0.031 
+5.8 
+327 
+29 x 10-6
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Rod (object)|Rod]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q92" data-atom="q92" data-title="Argent 2004 Locale — Quesito 92" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**Cuatro lamparas en circuito de 220 V**
+
+PT91. San Miguel de Tucumán. Verde. 
+ 
+En un circuito alimentado con 220 V, están conectados 4 
+lámparas, L1, L2, L3 y L4 como se muestra en la Figura 1, 
+Datos: i1 = 0,15 (A) ; i2 = 0,85 (A) ; RL1 = RL3 = RL4 
+ 
+a) ¿Cuál es la lectura en el voltímetro? 
+b) ¿Cuánto costaría mantener encendida la lámpara L3 
+durante 2 horas? El precio del Kwh en Tucumán es de 
+$ 0,1243.  
+c) ¿Qué sucedería con la intensidad de la corriente que 
+circula por L1 si se quemara la lámpara L3? (aumenta, 
+disminuye, no cambia) 
+d) Si deseara disminuir la resistencia total del circuito de 
+la Figura 1, ¿cuál o cuáles de las siguientes formas 
+elegiría? ¿Por qué? 
+ 
+ 
+
+Pruebas Experimentales
+
+
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Quattro lampadine in circuito di 220 V**
+
+PT91. San Michele di Tucumán. Verde. 
+ 
+In un circuito alimentato da 220 V, sono collegati 4 
+lampe, L1, L2, L3 e L4 come mostrato in figura 1, 
+Data: i1 = 0,15 (A) ; i2 = 0,85 (A) ; RL1 = RL3 = RL4 
+ 
+a) Qual è la lettura sul voltometro? 
+b) Quanto ci sarebbe da pagare per mantenere la lampada L3 accesa?
+- Per due ore? Il prezzo del Kwh a Tucumán è di 
+$ 0,1243. 
+(c) Che cosa accadrebbe all'intensità del corrente che
+circola per L1 se la lampada L3 viene bruciata? (aumenta, 
+diminuisce, non cambia) 
+d) Se si desidera ridurre la resistenza totale del circuito di
+figura 1, quale o quali delle seguenti forme 
+- che scegliere? - Perché? 
+ 
+ 
+
+Provate sperimentali
+
+
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Four lamps in a 220 V circuit **
+
+PT91. St. Michael of Tucumán. Green, please. 
+ 
+In a 220 V powered circuit, they're connected 4
+Lamps, L1, L2, L3 and L4 as shown in Figure 1, 
+The data are: i1 = 0,15 (A); i2 = 0,85 (A); RL1 = RL3 = RL4 
+ 
+(a) What is the reading on the voltmeter? 
+(b) How much would it cost to keep the L3 lamp on?
+For two hours? The price of the Kwh in Tucumán is 
+$ 0,1243. 
+(c) What would happen to the current intensity that
+If the L3 lamp is burned, will it be moving through L1? (increases, 
+decreases, does not change) 
+(d) If you wish to reduce the total resistance of the circuit
+Figure 1 shows which or which of the following forms 
+Would you choose? - Why? - I don't know. 
+ 
+ 
+
+The following is the list of the types of tests:
+
+
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q93" data-atom="q93" data-title="Argent 2004 Locale — Quesito 93" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/calorimeter"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE1: Calor especifico del alcohol etilico**
+
+PE1. Ciudad de Buenos Aires. Verde. 
+ 
+Objetivo: 
+Medir el calor específico del alcohol etílico. 
+ 
+Elementos: 
+• 
+agua fría y caliente 
+• 
+1 botella de 500 cm3 de alcohol etílico 
+• 
+2 vasos térmicos con tapa 
+• 
+1 probeta 
+• 
+1 termómetro 
+• 
+servilletas necesarias 
+• 
+útiles escolares 
+ 
+Armado del equipo: 
+Mida con la probeta 100 cm3 de agua fría y traspáselos a unos de los vasos térmicos. Con un lápiz 
+negro marque en la parte interior del vaso la altura a la que llega el agua, tire el agua. Haga un agujero 
+en el centro de la tapa, de forma tal que se pueda colocar y sacar de ahí el termómetro fácilmente. 
+Ahora, ¡a medir! 
+ 
+Mediciones: 
+En cada paso, deberá:  
+1) colocar una cierta cantidad de alcohol en la probeta.  
+2) colocar el termómetro en la probeta y medir la temperatura del alcohol puro.  
+3) colocar 100 cm3 de agua caliente en el vaso térmico, utilizando para ello la marca hecha en lápiz.  
+4) mida la temperatura del agua caliente a partir de los 80ºC. 
+5) agregue el alcohol rápidamente.  
+6) mida la temperatura de la mezcla. Antes de medir, PIENSE, cuántas mediciones hará y cuánto 
+alcohol puede usar en cada medición. Sugerencia: que el alcohol utilizado en las distintas mediciones 
+abarque el rango entre 10 y 100 cm3. 
+Armará una tabla con los siguientes datos: masa de agua (100 g), vol. de alcohol, masa de alcohol, 
+temperatura del alcohol, temperatura del agua, temperatura mezcla, Q (cantidad de calor absorbido por 
+el alcohol), Calcohol (calor específico del alcohol). Importante, recordar que en la tabla deben estar 
+indicadas las unidades correspondientes a cada medición y que por cada columna de mediciones, debe 
+haber otra con los errores de éstas. 
+ Para calcular Q y Calcohol, utilizará las fórmulas: 
+Q = magua Cagua (Tinicial del agua - Tfinal del agua) = malcohol Calcohol (Tfinal del alcohol - Tinicial del alcohol), 
+Calcohol = Q / malcohol (Tfinal del alcohol -Tinicial del alcohol), 
+Graficar Q en función de malcohol . (Tfinal del alcohol -Tinicial del alcohol), y de allí sacar las pendientes máxima, 
+media y mínima para calcular Calcohol. 
+ 
+Informe: 
+Constará de: 
+• 
+Introducción (dónde explicará detalladamente cómo midió, agregando gráficos o dibujos) 
+• 
+Tabla de las mediciones 
+• 
+Cálculos y propagación de errores. 
+• 
+Gráfico/s 
+• 
+Conclusiones 
+Datos: δagua = 1g/cm3; CeH2Ο 1Χαλ/γ ≡Χ; δalcohol = 0,79 g/cm3.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Calorimeter (object)|Calorimeter]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE1: Calore specifico dell'alcol etilico**
+
+PE1. Città di Buenos Aires. Verde. 
+ 
+Obiettivo: 
+Misurare la temperatura specifica dell'alcol etilico. 
+ 
+Elementi: 
+• 
+acqua fredda e calda 
+• 
+1 bottiglia di 500 cm3 di alcol etilico 
+• 
+2 bicchieri termico con copertura
+• 
+1 prova 
+• 
+1 termometro 
+• 
+serviette necessarie 
+• 
+Utili scolastici 
+ 
+Armatura della squadra: 
+Misura con il campione di 100 cm3 di acqua fredda e trasmettila a uno dei vasi termici. Con un penna
+nero, segna sull'interno del bicchiere l'altezza a cui arriva l'acqua, tira l'acqua. Fai un buco
+nel centro della copertura, in modo tale che il termometro possa essere facilmente posizionato e estratto. 
+Ora, misurare! 
+ 
+Misure: 
+In ogni passaggio, dovrà: 
+1) inserire una certa quantità di alcol nella prova. 
+2) inserire il termometro nel campione e misurare la temperatura dell'alcol puro. 
+3) mettere 100 cm3 di acqua calda nel bicchiere termico, utilizzando per questo il marchio fatto con una matita. 
+4) misura la temperatura dell'acqua calda a partire da 80°C. 
+5) aggiungere l'alcol rapidamente. 
+6) misurare la temperatura della miscela. Prima di misurare, PENSATE, quante misure farà e quanto.
+l'alcol può essere usato in ogni misurazione. Suggerimento: che l'alcol usato nelle diverse misurazioni 
+copre il range compreso tra 10 e 100 cm3. 
+Si deve costruire una tabella con i seguenti dati: massa d'acqua (100 g), vol. di alcol, massa di alcol, 
+temperatura dell'alcol, temperatura dell'acqua, temperatura miscela, Q (quantità di calore assorbita da 
+Alcol (calore specifico dell'alcol). È importante ricordare che sul tavolo devono essere
+indicare le unità di misura e che per ogni colonna di misura,
+C'è un'altra persona con questi errori. 
+Per calcolare Q e Calcohol, utilizzerà le formule: 
+Q = magua Acqua (Tinizio dell'acqua - Tinizio dell'acqua) = alcool Alcol (Tinizio dell'alcol - Tinizio dell'alcol), 
+Alcol = Q / alcol (Finale dell'alcol - Iniziale dell'alcol), 
+Graficare Q in base all 'alcol . (Finale dell'alcol - Iniziario dell'alcol), e da lì prendere le pendenti massime,
+media e minima per calcolare il calcolo. 
+ 
+Rapporto: 
+Esso sarà costituito da: 
+• 
+Introduzione (dove spiegherà in dettaglio come ha misurato, aggiungendo grafici o disegni) 
+• 
+Tabella delle misure 
+• 
+Calcoli e diffusione degli errori. 
+• 
+Grafico/s 
+• 
+Conclusioni 
+Dati: δacqua = 1g/cm3; CeH2Ο 1Χαλ/γ Χ; δalcol = 0,79 g/cm3.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Calorimeter (object)|Calorimeter]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE1: Specific heat of ethyl alcohol**
+
+PE1. City of Buenos Aires. Green, please. 
+ 
+The objective: 
+Measure the specific heat of ethyl alcohol. 
+ 
+The following elements: 
+• 
+Hot and cold water 
+• 
+1 bottle of 500 cm3 of ethyl alcohol 
+• 
+2 capped hot glasses 
+• 
+1 proof 
+• 
+1 thermometer 
+• 
+necessary napkins 
+• 
+School supplies 
+ 
+Armed with equipment: 
+Measure with the sample 100 cm3 of cold water and pass it to one of the heat cups. With a pencil .
+black mark on the inside of the glass the height at which the water reaches, pull the water. Make a hole in the ground .
+in the center of the lid, so that the thermometer can be easily placed and removed from there. 
+Now, to measure! 
+ 
+Measurements: 
+At each step, you must: 
+1) place a certain amount of alcohol in the sample. 
+2) place the thermometer on the sample and measure the temperature of the pure alcohol. 
+3) place 100 cm3 of hot water in the hot glass, using the pencil mark. 
+4) measurement of the temperature of hot water from 80°C. 
+5) add alcohol quickly. 
+6) measure the temperature of the mixture. Before you measure, think about how many measurements you'll make and how much.
+alcohol can be used in each measurement. Suggestion: that the alcohol used in the various measurements 
+cover the range from 10 to 100 cm3. 
+It shall set up a table with the following data: water mass (100 g), vol. of alcohol, mass of alcohol, 
+The amount of heat absorbed by the product is the temperature of the alcohol, the water temperature, the mixed temperature, Q (the amount of heat absorbed by the product)
+The following table shows the results of the study: Important, remember that on the board they must be.
+The units for each measurement are indicated and for each measurement column, the
+There's another one with these mistakes. 
+To calculate Q and Calcohol, use the following formulae: 
+Q = magua Water (Tinnit of water - Tinnit of water) = alcohol Alcohol (Tinnit of alcohol - Tinnit of alcohol), 
+Alcohol = Q / alcohol (Alcohol end -Alcohol start), 
+Chart Q based on alcohol . (Alcohol end -Alcohol start) and then get the top slopes,
+average and minimum for calculating Calcohol. 
+ 
+Report: 
+It shall consist of: 
+• 
+Introduction (where you will explain in detail how you measured, adding charts or drawings) 
+• 
+Table of measurements 
+• 
+Calculations and error spreading. 
+• 
+Graph/s 
+• 
+Conclusions 
+The data are: δwater = 1 g/cm3; CeH2Ο 1Χαλ/γ Χ; δalcohol = 0,79 g/cm3.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Calorimeter (object)|Calorimeter]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q94" data-atom="q94" data-title="Argent 2004 Locale — Quesito 94" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/pulley"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE2: Coeficientes de rozamiento madera-lija**
+
+PE2. Ciudad de Buenos Aires. Azul. 
+ 
+Coeficientes de rozamiento. 
+Objetivo: 
+ 
+Determinar los coeficientes de rozamiento estático y dinámico para el par de superficies 
+madera-lija. Con los elementos provistos que considere necesarios diseñe y arme un dispositivo 
+adecuado para tal fin. 
+ 
+Materiales: 
+• 
+cuerpo 
+• 
+pesas y municiones 
+• 
+platillo 
+• 
+dinamómetros de 1,2 N y 5 N 
+• 
+roldadas 
+• 
+nueces 
+• 
+prensas de mesa 
+• 
+mesa 
+• 
+hilo 
+• 
+transportador 
+• 
+cronómetro 
+• 
+cinta métrica 
+• 
+lija fina 
+ 
+Requerimientos: 
+ 
+Sólo podrán utilizar los elementos dados, papel, lápiz y calculadora. En el informe deberá 
+constar: 
+• 
+Planteo analítico del problema y diagrama del dispositivo experimental montado. 
+• 
+Descripción del procedimiento utilizado. 
+• 
+Valores obtenidos en las mediciones realizadas. 
+• 
+Fuentes de error y análisis de cómo influyen en el resultado final. 
+• 
+Resultado experimental de lo solicitado. 
+• 
+Comentarios que desee hacer.
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE2: Coefficienti di rasatura legno-legno**
+
+PE2. Città di Buenos Aires. Blu. 
+ 
+Coefficienti di rottura. 
+Obiettivo: 
+ 
+Determinare i coefficienti di ruggine statico e dinamico per la coppia di superfici 
+Legno-legno. Con gli elementi forniti che riteni necessario progettare e armare un dispositivo 
+appropriato a tal fine. 
+ 
+Materiali: 
+• 
+corpo
+• 
+Pese e munizioni 
+• 
+- La piastrina
+• 
+dinamometri di 1,2 N e 5 N 
+• 
+Roldate
+• 
+Alcune noci
+• 
+presse da tavolo 
+• 
+Tavola
+• 
+Filo
+• 
+trasportatore 
+• 
+cronometro 
+• 
+Cintura metrica 
+• 
+- La mia piccola.
+ 
+Requisiti: 
+ 
+Solo i dati, la carta, la penna e il calcolatore possono essere utilizzati. Il rapporto deve
+- il numero di persone
+• 
+Sottoposizione analitica del problema e diagramma del dispositivo sperimentale montato. 
+• 
+Descrizione della procedura utilizzata. 
+• 
+Valori ottenuti dalle misurazioni effettuate. 
+• 
+Fonti di errore e analisi di come influenzano il risultato finale. 
+• 
+Risultato sperimentale della richiesta. 
+• 
+Commenti che vorrebbe fare.
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE2: Wood-liquid friction coefficients **
+
+PE2. City of Buenos Aires. Blue, please. 
+ 
+The coefficients of friction. 
+The objective: 
+ 
+Determine the static and dynamic friction coefficients for the surface pair 
+wood-lily. With the elements provided as you deem necessary , design and equip a device .
+appropriate for that purpose. 
+ 
+Materials: 
+• 
+body 
+• 
+Weights and ammunition 
+• 
+The dish .
+• 
+Dynamometers of 1,2 N and 5 N 
+• 
+rolled
+• 
+nuts 
+• 
+Table presses 
+• 
+Table 
+• 
+The wire
+• 
+Carrier 
+• 
+The time-meter .
+• 
+Metric tape
+• 
+Fine slate
+ 
+Requirements: 
+ 
+Only the data elements, paper, pen and calculator may be used. The report shall be drawn up by the
+be noted: 
+• 
+Analytical problem analysis and diagram of the experimental device mounted. 
+• 
+Description of the procedure used. 
+• 
+Value obtained from measurements made. 
+• 
+Sources of error and analysis of how they influence the end result. 
+• 
+Experimental result of the requested. 
+• 
+Any comments you want to make.
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q95" data-atom="q95" data-title="Argent 2004 Locale — Quesito 95" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE3: Peso especifico de un liquido desconocido**
+
+PE3. Villa Iris, Buenos Aires. Azul. 
+ 
+El trabajo práctico consiste en la determinación del peso específico de un líquido desconocido (aceite) 
+teniendo en cuenta otro conocido como el agua. Alumno se le proveen los elementos necesarios para 
+el desarrollo del trabajo práctico en el gabinete.  
+El alumno deberá realizar el trabajo y elevar el informe correspondiente utilizando los conocimientos 
+adquiridos durante el dictado de los contenidos curriculares. Deberá explicar los principios aplicados.
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE3: Peso specifico di un liquido sconosciuto**
+
+PE3. Villa Iris, Buenos Aires. Blu. 
+ 
+Il lavoro pratico consiste nel determinare il peso specifico di un liquido sconosciuto (olio).
+considerando un altro noto come l'acqua. Gli studenti sono dotati degli elementi necessari per
+Il programma di lavoro di cui alla lettera a) del regolamento (CE) n. 
+Lo studente deve svolgere il lavoro e elevare il rapporto corrispondente utilizzando le conoscenze 
+La Commissione ha adottato una decisione che prevede che il programma di formazione sia stato adottato in base a una decisione adottata dal Consiglio. Deve spiegare i principi applicati.
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE3: Specific weight of unknown liquid**
+
+PE3. This is Villa Iris, Buenos Aires. Blue, please. 
+ 
+The practical work consists of determining the specific weight of an unknown liquid (oil).
+Considering another known as water. The student is provided with the necessary elements to 
+The Commission will also be responsible for the implementation of the programme. 
+The student must do the work and raise the corresponding report using the knowledge.
+The following are the results of the study: You must explain the principles applied.
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q96" data-atom="q96" data-title="Argent 2004 Locale — Quesito 96" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/multi,object/projectile"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE4: Modelo fisico con sorbetes y cotonetes**
+
+PE4. Salta. Azul y Verde. 
+ 
+Introducción: 
+En física sabemos que no se trabaja sobre “la realidad” del mundo natural sino que se trabaja  sobre 
+“un modelo” que se desprende de esa realidad. De esta  manera un modelo puede ser entendido como 
+una simplificación del mundo natural a partir de una serie de hipótesis que serán los elementos de 
+partida que  soportarán  la aplicación de los principios físicos que lo gobiernan. Una de las intenciones 
+que cruzan el trabajo experimental es analizar la brecha entre la realidad y el modelo que intenta 
+representar o explicar, a la luz de diseños experimentales y el tratamiento de los errores que ello lleva 
+implícito. 
+ 
+
+Parte 1 Encontrando un modelo físico  
+ 
+ Si tomamos dos sorbetes y dos cotonetes (de esos que usamos para limpiarnos las orejas) y colocamos 
+un cotonete (A) en el extremo de un sorbete y el otro cotonete (B) en el extremo opuesto  del otro 
+sorbete  (figura) luego juntamos los sorbetes y soplamos a través de ellos loggrando  la expulsión de  
+los cotonetes tal como lo muestra la figura. 
+ 
+El impulso dado a cada cotonete será F.tA y F.tB respectivamente .Donde la fuerza F la suponemos 
+constante originada por la presión de aire sobre los cotonetes y tA y tB son los tiempos en que los 
+cotonetes son acelerados .Obviamente tA>tB, A recibe el mayor impulso y alcanza la mayor velocidad 
+y por ende alcanza también una mayor distancia. 
+Podemos cuantificar la situación planteada usando las ecuaciones del movimiento parabólico, el  
+concepto de trabajo y el de energía cinética. 
+ 
+Si suponemos que lanzamos los cotonetes desde una altura h, el tiempo que tarda en caer el cotonete 
+será  
+ 
+g
+h
+t
+.2
+=
+  (1) 
+ 
+y la máxima distancia que volará el cotonete será : 
+ 
+d= Vx.
+g
+h.2
+ 
+ 
+Despejando Vx tenemos: 
+ 
+Vx=d.
+h
+g
+.2
+ (2) 
+ 
+1-Teniendo en cuenta que  el trabajo realizado por una fuerza  sobre un cuerpo es igual a la  variación 
+de  su energía cinética,  encontrar la relación α  =
+A
+B
+x
+x
+ en función  de las distancias dA y dB. 
+ 
+Parte 2: Validez del modelo encontrado 
+ 
+Materiales: 
+Tienes a disposición cotonetes, dos  sorbetes 
+unidos que están apoyados en un soporte de 
+madera, un soporte vertical de 1,10 m de altura, 
+papel milimetrado, regla. 
+ 
+Requerimientos: 
+1-Para el dispositivo dispuesto α  mide 0,34, 
+propone una forma de trabajo con las mediciones 
+que vas a realizar y presenta el resultado con su 
+correspondiente error. 
+2-Discute todas las posibles fuentes de error y los 
+criterios que tuviste en cuenta para la 
+determinación de los mismos. 
+3-Discute sobre la validez del modelo utilizado y 
+los inconvenientes que crees que el mismo   tenga.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p65_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
+**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Projectile (object)|Projectile]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE4: Modello fisico con sorbetti e cotonetti**
+
+PE4. Salta. Salta. Blu e verde. 
+ 
+Introduzione: 
+In fisica sappiamo che non si lavora sulla realtà del mondo naturale, ma si lavora su
+Un modello che deriva da questa realtà. In questo modo un modello può essere inteso come 
+La Commissione ha adottato una proposta di regolamento che prevede che il sistema di gestione dei rifiuti sia un sistema di gestione dei rifiuti.
+La Commissione ha adottato una decisione che prevede che il sistema di controllo dei dati e dei dati di cui all'articolo 1 del regolamento (CE) n. Una delle intenzioni.
+Il lavoro sperimentale è quello di analizzare il divario tra la realtà e il modello che cerca di
+La Commissione ha adottato una decisione che prevede che le misure di cui all'articolo 1 del regolamento (UE) n.
+implicita. 
+ 
+
+Parte 1 Trovando un modello fisico 
+ 
+Se prendiamo due sorbette e due cotonetti (di quelli che usiamo per pulire le orecchie) e mettiamo
+un cotone (A) all'estremità di una sorbetta e l'altro cotone (B) all'estremità opposta dell'altro 
+Sorbette (figura) poi raccogliamo le sorbette e ne soffiamo il vento per ottenere l'espulsione di
+i cotonetti come mostrato nella figura. 
+ 
+Il impulso dato a ogni cotone sarà F.t.A. e F.t.B. rispettivamente .
+La pressione dell'aria sulle palle di cotone è una costante, e tA e tB sono i tempi in cui le palle di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cotone di cot
+Ovviamente tA>tB, A riceve la massima impulso e raggiunge la massima velocità
+e quindi raggiunge anche una distanza maggiore. 
+Possiamo quantificare la situazione proposta usando le equazioni del movimento parabolico, il
+Il concetto di lavoro e quello di energia cinetica. 
+ 
+Se supponiamo di lanciare i cotonetti da un'altezza h, il tempo che ci vuole per cadere il cotonetto
+- Sarà
+ 
+g
+h
+t
+.2
+=
+  (1) 
+ 
+e la distanza massima che il cotone volare sarà:
+ 
+d= Vx.
+g
+h.2
+ 
+ 
+Sbarazzando Vx abbiamo: 
+ 
+Vx=d.
+h
+g
+.2
+ (2) 
+ 
+1-Tutto ciò che si deve fare è considerare che il lavoro svolto da una forza su un corpo è uguale alla variazione.
+di energia cinetica, trovare il rapporto α =
+A
+B
+x
+x
+in funzione delle distanze dA e dB. 
+ 
+Parte 2: Validità del modello trovato 
+ 
+Materiali: 
+Hai a disposizione dei cotoni, due sorbette.
+Uniti che sono appoggiati su un supporto di 
+Legno, supporto verticale di 1,10 m di altezza, 
+carta millimetrica, regola. 
+ 
+Requisiti: 
+1-Per il dispositivo disposto α misura 0,34, 
+Propone un modo di lavorare con le misure 
+che si sta per fare e presenta il risultato con il suo 
+corrispondente errore. 
+2-Discutere tutte le possibili fonti di errore e le
+I criteri che hai tenuto in considerazione per la
+La determinazione delle stesse. 
+3-Discutere la validità del modello utilizzato e 
+I problemi che credi che abbia.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p65_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
+**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Projectile (object)|Projectile]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE4: Physical model with sorbet and cotton **
+
+PE4. Jump in. Blue and Green. 
+ 
+The Commission has also adopted a proposal for a directive on the protection of workers' rights.
+In physics we know that we don't work on the reality of the natural world, but we work on the reality of the natural world.
+A model that is derived from that reality. In this way a model can be understood as 
+The first is a simplification of the natural world from a series of hypotheses which will be the elements of the
+The Commission will be able to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the necessary measures are taken. One of the intentions .
+The crossroads of experimental work is to analyze the gap between reality and the model that tries to
+represent or explain, in the light of experimental designs and the resulting error treatment 
+implied. 
+ 
+
+Part 1 Finding a physical model 
+ 
+If we take two sorbet and two cotton swabs (the ones we use to clean our ears) and we put them in
+One cotton (A) at the end of one sorbet and the other cotton (B) at the opposite end of the other 
+We'll put the sorbet together and blow through them, and we'll get rid of the sorbet.
+the cotton swabs as shown in the figure. 
+ 
+The momentum given to each cotton ball will be F.tA and F.tB respectively . Where the force F is assumed .
+The time taken for the test to be performed is the time taken for the test to be performed.
+Obviously tA>tB, A gets the most impulse and reaches the highest speed.
+And so it reaches a greater distance. 
+We can quantify the situation posed using the parabolic motion equations, the
+The concept of work and kinetic energy. 
+ 
+If we assume we throw the cotton balls from a height h, the time it takes for the cotton ball to fall
+It will be
+ 
+g
+h
+t
+.2
+=
+  (1) 
+ 
+And the maximum distance the cotton will fly will be:
+ 
+d= Vx.
+g
+h.2
+ 
+ 
+Clearing Vx we have: 
+ 
+Vx=d.
+h
+g
+.2
+ (2) 
+ 
+1-Given that the work done by a force on a body is equal to the variation 
+of its kinetic energy, find the relation α =
+A
+B
+x
+x
+according to the dA and dB distances. 
+ 
+Part 2: Validity of the model found 
+ 
+Materials: 
+You have cotton candy, two sorbetes.
+attached that are supported on a support of 
+wood, a vertical support of 1,10 m high, 
+Millimeter paper, rule. 
+ 
+Requirements: 
+1-For the device provided α measures 0,34, 
+It proposes a way of working with measurements 
+You're going to do it and present the result with your
+the corresponding error. 
+2- Discuss all possible sources of error and the
+criteria you took into account for the
+The Commission will take the necessary measures to ensure that the 
+3-Discussion of the validity of the model used and 
+The drawbacks you think he has.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p65_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
+**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Projectile (object)|Projectile]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q97" data-atom="q97" data-title="Argent 2004 Locale — Quesito 97" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE5: Tension superficial del agua**
+
+PE5. Rosario, Santa Fe. Verde. 
+ 
+La tensión superficial es la fuerza que aparece en la capa límite entre dos medios diferentes, por 
+ejemplo la superficie del agua en contacto con el aire. En este experimento tendrás que medir el valor 
+de la tensión superficial del agua y para ello dispones de un dispositivo como el que se muestra en la 
+figura. 
+ 
+El alambre de acero horizontal funciona como un dinamómetro muy sensible que primero deberás 
+calibrar con las esferas de acero que se te entregan y luego emplearás para medir la fuerza necesaria 
+para extraer el alambre en forma de U invertida del agua. El valor de tensión superficial T es: 
+ 
+2L
+F
+T =
+ 
+ 
+donde F es la fuerza necesaria para extraer la U invertida y L es la longitud de la base de la U. 
+ 
+Pasos a seguir 
+1. Calibra el dinamómetro con las esferas de acero. 
+2. Dejando quieto el sistema y moviendo el recipiente con agua verticalmente sumerge la U invertida 
+en agua y bajando lentamente el recipiente mide la fuerza necesaria para superar la tensión 
+superficial. 
+3. Realiza esta medición el número de veces que consideres adecuado para lograr el resultado más 
+confiable posible. 
+4. Mide el valor de L.  
+5. Calcula el valor de T con la incerteza correspondiente. 
+6. Expresa lo realizado en el informe tomando especial cuidado en explicar las razones que te 
+llevaron a adoptar cada una de las decisiones que tomaste. 
+ 
+Observaciones  
+No se debe tocar la U invertida con la mano ya que cualquier suciedad, incluso la grasitud de la piel 
+puede alterar el valor de la tensión superficial.  
+ 
+Datos  
+g = 9,8 m/s2 
+mesfera= (130±1) mg
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p66_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE5: Tensione superficiale dell'acqua**
+
+PE5. Rosario, Santa Fe. Verde. 
+ 
+La tensione superficiale è la forza che appare nel livello limite tra due mezzi diversi, per 
+per esempio la superficie dell'acqua in contatto con l'aria. In questo esperimento dovrai misurare il valore.
+La temperatura del piano è molto elevata, e per questo si dispone di un dispositivo come quello mostrato in questa foto.
+- Figura. 
+ 
+Il filo di acciaio orizzontale funziona come un dinamometro molto sensibile che prima dovrai
+Calibrare con le sfere di acciaio che ti vengono consegnate e poi utilizzare per misurare la forza necessaria
+per estrarre il filo in forma di U inverso dall'acqua. Il valore di tensione superficiale T è: 
+ 
+2L
+F
+T =
+ 
+ 
+dove F è la forza necessaria per estrarre la U invertita e L è la lunghezza della base della U. 
+ 
+I passi da seguire
+1. Calibra il dinamometro con le sfere di acciaio. 
+2. Lasciando il sistema in silenzio e spostando il recipiente con acqua verticalmente immerge l'inverso U
+In acqua e con un lento abbassamento il recipiente misura la forza necessaria per superare la tensione
+superficiale. 
+3. Si esegue questa misura il numero di volte che ritieni adeguato per ottenere il risultato più
+Fiduciosa possibile. 
+4. Misura il valore di L. 
+5. Calcola il valore di T con l'incertezza corrispondente. 
+6. Esprima quanto si è fatto nel rapporto, prestando particolare attenzione a spiegare le ragioni per cui
+hanno portato a prendere ogni decisione che hai preso. 
+ 
+Le osservazioni 
+Non si deve toccare il U invertito con la mano poiché qualsiasi sporcizia, anche la grassizza della pelle 
+può alterare il valore della tensione superficiale. 
+ 
+Datos 
+g = 9,8 m/s2 
+La concentrazione di acido di ammoniaca è di 0,5%
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p66_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following is the list of the relevant water quality indicators:
+
+PE5. Rosario, Santa Fe. Green, please. 
+ 
+The surface tension is the force that appears in the boundary layer between two different media, by 
+For example, the surface of water in contact with air. In this experiment you 'll have to measure the value .
+The water surface tension is not the same as the surface tension of the water.
+It's a figure. 
+ 
+The horizontal steel wire works like a very sensitive dynamometer that you must first
+calibrate with the steel balls that are delivered to you and then use them to measure the necessary force.
+to extract the reverse U-shaped wire from the water. The surface tension value T is: 
+ 
+2L
+F
+T =
+ 
+ 
+where F is the force needed to extract the reversed U and L is the length of the base of the U. 
+ 
+The next step .
+1. Calibrate the dynamometer with the steel spheres. 
+2. By leaving the system still and moving the water container vertically, the reversed U is submerged.
+In water and slowly lowering the container measures the force needed to overcome the tension.
+It's superficial. 
+3. Do this measurement as many times as you think is appropriate to achieve the most result.
+as reliable as possible. 
+4. Measure the value of L. 
+5. Calculate the value of T with the corresponding uncertainty. 
+6. It expresses what has been achieved in the report, taking particular care to explain the reasons for this.
+They led to every decision you made. 
+ 
+The Commission has already adopted a proposal for a regulation on the
+You should not touch the reverse U with your hand as any dirt, even the grease of the skin 
+The surface tension may be altered. 
+ 
+Data from the report 
+g = 9,8 m/s2 
+The following table shows the results of the test:
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p66_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q98" data-atom="q98" data-title="Argent 2004 Locale — Quesito 98" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/magnetism,argomento/elettromagnetismo,difficolta/5,multidisciplina/multi,object/solenoid,object/rod"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE6: Fuerza ferromagnetica de un solenoide**
+
+PE6. Ciudad de Buenos Aires. Verde. 
+ 
+Fuerza Ferromagnética 
+En este experimental mediremos la fuerza que le hace un solenoide a una varilla de hierro que 
+atraviesa su centro, cuando por ella circula una corriente. 
+
+Materiales: 
+- 
+2 multímetros 
+- 
+Solenoide 
+- 
+Varilla de hierro con escala milimetrada montada sobre un vaso  (Figura) 
+- 
+Fuente de tensión continua variable 
+- 
+Resistencia de 10 ohm 10 Watt 
+- 
+Fuente de tensión alterna de 6 v 50Hz. 
+- 
+Resistencia de 100 ohm 
+- 
+Pie con soporte 
+- 
+Cables y conectores 
+- 
+Balanza 
+- 
+Hojas Milimetradas 
+ 
+Introducción teórica: 
+El solenoide tiene una inductancia L que depende de cuanto esté metida la varilla dentro del solenoide. 
+Entonces la energía del sistema es: 
+( )
+2
+2
+1
+I
+L
+E
+d
+=
+ 
+ 
+ 
+Donde: E es la energía 
+ 
+ 
+ 
+I es la corriente por el solenoide 
+ 
+d es la longitud de la parte de la barra que esta dentro del solenoide 
+            L la inductancia que depende de las propiedades magnéticas de los materiales, 
+de la geometría del problema y por supuesto de (d). 
+SI movemos la varilla una distancia ∆d muy pequeña tendremos una variación en la energía ∆E. 
+Si mantenemos la corriente es constante podemos escribir. 
+( )
+2
+2
+1
+I
+L
+E
+d
+∆
+=
+∆
+ 
+Sabiendo que dicha variación en la energía es el trabajo de la fuerza magnética podemos escribir dicha 
+fuerza como: 
+( )
+( )
+2
+2
+2
+1
+I
+H
+I
+d
+L
+d
+E
+F
+d
+d
+=
+∆
+∆
+=
+∆
+∆
+=
+ 
+ 
+Donde:  H es una función que depende de las propiedades magnéticas de los 
+materiales, de la geometría del problema y por supuesto de (d) 
+ 
+Dependencia con la corriente: 
+ 
+En la introducción teórica se demostró que la fuerza que ejerce la bobina sobre la varilla se 
+puede escribir como: 
+( )
+2I
+H
+F
+d
+=
+ 
+ 
+ 
+Donde: F es la fuerza 
+ 
+ 
+ 
+I es la corriente 
+ 
+d es la longitud de la parte de la barra que esta dentro del solenoide 
+             H es una función que depende de las propiedades magnéticas de los materiales 
+y de la geometría del problema 
+i) 
+Dejando fijo 
+0
+d
+d =
+ en una posición intermedia, ni todo afuera ni todo adentro, 
+mida F para distintas corrientes 
+ii) 
+Haga un grafica de F en función de 
+2I  
+iii) 
+Determine 
+(
+)
+0
+d
+H
+ con su error 
+ 
+Dependencia con d: 
+Para toda esta parte no es necesario que haga el tratado de los errores. 
+ 
+
+iv) 
+Mida F para distintos d 
+v) 
+Utilizando las mediciones haga una grafico aproximado (a mano alzada) de H(d) 
+ 
+Otra forma de obtener H(d), que suele ser mas cómoda, es medir la variación de la inductancia con d y 
+luego hacer 
+( )
+d
+L d
+∆
+∆
+ para obtener H(d). 
+ 
+Para calcular L se mide la resistencia del solenoide y la impedancia a una determinada frecuencia f. 
+Luego: 
+(
+)
+2
+2
+2
+2
+2
+1
+2
+R
+Z
+f
+L
+fL
+R
+Z
+−
+=
+⇒
++
+=
+π
+π
+ 
+ 
+vi) 
+Mida R con el multìmetro 
+vii) 
+Utilizando la fuente de 6 v 50Hz con la resistencia de 100 ohm en serie y los dos 
+multimetros mida Z para distintos d. 
+viii) 
+Utilizando las mediciones haga una grafico aproximado (a mano alzada) de L(d) 
+ix) 
+Calcule H(d) a partir del gráfico anterior para algún d y verifique con el primer 
+gráfico de H(d)
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p67_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Magnetism]], [[Electromagnetic Induction]]
+**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Solenoid (object)|Solenoid]], [[Rod (object)|Rod]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE6: Forza ferromagnetica di un solenoide**
+
+PE6. Città di Buenos Aires. Verde. 
+ 
+Forza Ferromagnetica 
+In questo esperimento misureremo la forza che un solenoide fa di un bastone di ferro che
+attraversa il suo centro, quando attraversa un flusso. 
+
+Materiali: 
+- 
+2 multimetro 
+- 
+Solenoide 
+- 
+Barella di ferro a scala millimetrica montata su un vaso (Figura) 
+- 
+Fonte di tensione continua variabile 
+- 
+Resistenza di 10 ohm 10 Watt 
+- 
+Fonte di tensione alternativa di 6 v 50Hz. 
+- 
+Resistenza di 100 ohm 
+- 
+Piso con supporto
+- 
+Cavi e connettori 
+- 
+Sbalzo
+- 
+Foli in millimetri 
+ 
+Introduzione teorica: 
+Il solenoide ha un'induttanza L che dipende da quanto il bastone è inserito all'interno del solenoide. 
+Quindi l'energia del sistema è:
+( )
+2
+2
+1
+I
+L
+E
+d
+=
+ 
+ 
+ 
+Dove: E è l'energia 
+ 
+ 
+ 
+I è il corrente per il solenoide 
+ 
+d è la lunghezza della parte della barra che è all'interno del solenoide 
+L induzione che dipende dalle proprietà magnetiche dei materiali,
+La geometria del problema e di certo di (d). 
+Se muoviamo la bacchetta a una distanza molto piccola di ∆d avremo una variazione di energia ∆E. 
+Se manteniamo la corrente costante possiamo scrivere. 
+( )
+2
+2
+1
+I
+L
+E
+d
+∆
+=
+∆
+ 
+Sapendo che tale variazione di energia è il lavoro della forza magnetica possiamo scrivere tale
+forza come: 
+( )
+( )
+2
+2
+2
+1
+I
+H
+I
+d
+L
+d
+E
+F
+d
+d
+=
+∆
+∆
+=
+∆
+∆
+=
+ 
+ 
+Dove: H è una funzione che dipende dalle proprietà magnetiche dei
+La geometria del problema e di certo di (d) 
+ 
+- Dependenza del corrente:
+ 
+L'introduzione teorica ha dimostrato che la forza esercitata dalla bobina sul bastone è
+si può scrivere come: 
+( )
+2I
+H
+F
+d
+=
+ 
+ 
+ 
+Dove: F è la forza 
+ 
+ 
+ 
+Io sono il corrente
+ 
+d è la lunghezza della parte della barra che è all'interno del solenoide 
+H è una funzione che dipende dalle proprietà magnetiche dei materiali 
+e della geometria del problema.
+i) 
+Lasciando fisso
+0
+d
+d =
+in una posizione intermedia, né tutto fuori né tutto dentro,
+misura F per diversi correnti 
+ii) 
+Fai un grafico di F in base a 
+2I  
+(iii) 
+Determina 
+(
+)
+0
+d
+H
+con il suo errore.
+ 
+Dpendenza con d: 
+Per tutta questa parte non è necessario che io faccia il trattato degli errori. 
+ 
+
+iv) 
+F misura per diversi
+v) 
+Usando le misure, eseguire un grafico approssimativo (a mano alzata) di H(d) 
+ 
+Un altro modo per ottenere H(d), che è di solito più comodo, è misurare la variazione di inductanza con d e 
+Poi fare 
+( )
+d
+L d
+∆
+∆
+per ottenere H(d). 
+ 
+Per calcolare L si misura la resistenza del solenoide e l'impedenza ad una determinata frequenza f. 
+Poi:
+(
+)
+2
+2
+2
+2
+2
+1
+2
+R
+Z
+f
+L
+fL
+R
+Z
+−
+=
+⇒
++
+=
+π
+π
+ 
+ 
+vi) 
+Misura R con il multimetro 
+(vii) 
+Usando la fonte di 6 v 50Hz con resistenza di 100 ohm in serie e i due 
+multimetri a misura Z per diversi d. 
+(viii) 
+Usando le misure, eseguire un grafico approssimativo (a mano alzata) di L(d) 
+ix) 
+Calcola H(d) dal grafico precedente per qualche d e verifica con il primo 
+grafico di H(d)
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p67_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Magnetism]], [[Electromagnetic Induction]]
+**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Solenoid (object)|Solenoid]], [[Rod (object)|Rod]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The value of the product shall be determined by the method described in paragraphs 1 and 2.
+
+PE6. City of Buenos Aires. Green, please. 
+ 
+Ferromagnetic force 
+In this experiment we'll measure the force that a solenoid makes to an iron rod that
+It passes through its centre, when a current flows through it. 
+
+Materials: 
+- 
+2mm .
+- 
+Solenoid .
+- 
+Iron rod with a millimetre scale mounted on a glass (Figure) 
+- 
+Variable continuous voltage source 
+- 
+Resistance of 10 ohm 10 Watt 
+- 
+Alternating voltage source of 6 v 50 Hz. 
+- 
+Resistance of 100 ohm
+- 
+Foot with support
+- 
+Cable and connectors 
+- 
+Weighing 
+- 
+Millimeter sheets 
+ 
+Theoretical introduction: 
+The solenoid has an L inductance which depends on how much the rod is inserted into the solenoid. 
+So the energy of the system is:
+( )
+2
+2
+1
+I
+L
+E
+d
+=
+ 
+ 
+ 
+Where: E is the energy 
+ 
+ 
+ 
+I is the current through the solenoid.
+ 
+d is the length of the part of the bar that is inside the solenoid 
+L inductance dependent on the magnetic properties of the materials,
+of the geometry of the problem and of course of (d). 
+If we move the rod a very small distance ∆d we'll have a variation in the energy ∆E. 
+If we keep the current constant we can write. 
+( )
+2
+2
+1
+I
+L
+E
+d
+∆
+=
+∆
+ 
+Knowing that such a variation in energy is the work of magnetic force we can write it as
+force such as: 
+( )
+( )
+2
+2
+2
+1
+I
+H
+I
+d
+L
+d
+E
+F
+d
+d
+=
+∆
+∆
+=
+∆
+∆
+=
+ 
+ 
+Where: H is a function that depends on the magnetic properties of the 
+The problem geometry and of course the (d) 
+ 
+Dependence on the current: 
+ 
+In the theoretical introduction it was shown that the force exerted by the coil on the rod was
+You can write:
+( )
+2I
+H
+F
+d
+=
+ 
+ 
+ 
+Where F is the force 
+ 
+ 
+ 
+I 'm the current .
+ 
+d is the length of the part of the bar that is inside the solenoid 
+H is a function that depends on the magnetic properties of materials 
+And the geometry of the problem.
+i) 
+I 'm leaving it fixed .
+0
+d
+d =
+In an intermediate position, not all outside and not all inside,
+F-measure for different currents 
+ii) 
+Make a graph of F based on 
+2I  
+(iii) 
+Determine 
+(
+)
+0
+d
+H
+With his mistake 
+ 
+Dependence with d: 
+For all this part it is not necessary for me to make the mistakes treaty. 
+ 
+
+iv) 
+Size F for different d 
+v) 
+Using the measurements make an approximate (upright) graph of H(d) 
+ 
+Another way to get H(d), which is usually more convenient, is to measure the variation in inductance with d and 
+Then do it .
+( )
+d
+L d
+∆
+∆
+to obtain H(d). 
+ 
+For the calculation of L, the resistance of the solenoid and the impedance at a given frequency f are measured. 
+Then:
+(
+)
+2
+2
+2
+2
+2
+1
+2
+R
+Z
+f
+L
+fL
+R
+Z
+−
+=
+⇒
++
+=
+π
+π
+ 
+ 
+vi) 
+Measure R with the multimeter 
+(vii) 
+Using the 6v 50Hz source with 100 ohm resistance in series and both 
+Z-sized multimeters for different d. 
+(viii) 
+Using the measurements make an approximate (upright) graph of L(d) 
+ix) 
+Calculate H(d) from the above graph for some d and check with the first 
+The following table shows the following:
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p67_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Magnetism]], [[Electromagnetic Induction]]
+**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Solenoid (object)|Solenoid]], [[Rod (object)|Rod]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q99" data-atom="q99" data-title="Argent 2004 Locale — Quesito 99" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE7: Conductividad de agua destilada y soluciones**
+
+PE7. Ciudad de Buenos Aires. Verde. 
+ 
+Objetivos: 
+El objetivo de esta práctica es determinar la conductividad específica del agua destilada y estudiar 
+el comportamiento de la conductividad de las soluciones salinas frente a su concentración. 
+ 
+Introducción: 
+Se define a la conductancia G como la inversa de la resistencia eléctrica R. Análogamente a la 
+resistividad específica de un conductor, las soluciones sólido en líquido tienen un parámetro 
+denominado conductividad específica K, que es directamente proporcional a la conductancia.  
+ 
+La conductividad de una solución puede determinarse mediante la medición de la circulación de 
+corriente eléctrica, utilizando electrodos inmersos en dicha solución. Si las líneas de campo son 
+perpendiculares a los electrodos, la conductividad específica puede escribirse como: 
+ 
+K = G . d / A 
+ 
+donde d es la distancia entre electrodos y A es el área de la superficie del electrodo. 
+ 
+Elementos: 
+• 
+Agua destilada. 
+• 
+Recipiente plástico de base rectangular. 
+• 
+Multímetro. 
+• 
+Fuente de tensión regulable. 
+• 
+Hojas milimetradas. 
+• 
+Cinta adhesiva. 
+• 
+Calibre. 
+• 
+Sal de mesa. 
+• 
+Balanza. 
+• 
+Toallas de papel. 
+• 
+Dos cables con fichas banana y electrodos planos en los extremos 
+• 
+Palillo. 
+ 
+
+Desarrollo: 
+ 
+Parte A: 
+a. Con los elementos proporcionados arme un dispositivo experimental a través del cual pueda 
+determinar la conductividad específica del agua destilada y hállela. 
+ 
+Parte B: 
+b. Verifique que para soluciones salinas muy diluidas, la conductividad específica es, en un 
+determinado rango entre los 10V y los 15V,  proporcional a su concentración. Utilice 
+concentraciones de entre   2,5.10-4   y   14.10-4   gramos de sal por gramo de agua.  
+ 
+c. Confeccione un gráfico de Conductividad específica en función de la concentración. 
+ 
+Observaciones y sugerencias 
+• 
+El hecho de que las fuentes de tensión sean de corriente continua genera un fenómeno 
+denominado polarización de los electrodos. 
+• 
+La circulación de corriente eléctrica por un fluido genera un aumento de la temperatura y por 
+ende una variación en la conductividad (en este caso, además provoca inhomogeneidad en la 
+solución).  
+ 
+Por ello, es conveniente realizar las mediciones velozmente, con el afán de no producir los efectos 
+mencionados, los cuales afectan considerablemente las magnitudes.  
+Puede utilizar el palillo para agitar la solución a medir, de modo de intentar mantener la 
+homogeneidad en la misma.  
+NO deje los electrodos dentro de la solución mientras no está midiendo. Es aconsejable secar los 
+electrodos cuando son retirados de la solución. 
+La balanza digital mide fuerzas de hasta 200 g. NO coloque objetos de mayor peso sobre el equipo.
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE7: Conductività e soluzioni di acqua distillata**
+
+PE7. Città di Buenos Aires. Verde. 
+ 
+Obiettivi: 
+L'obiettivo di questa pratica è determinare la specificità della conducibilità dell'acqua distillata e studiare
+il comportamento della conductività delle soluzioni saline rispetto alla loro concentrazione. 
+ 
+Introduzione: 
+La conduzione G è definita come l'inverso della resistenza elettrica R. Analogamente alla
+resistenza specifica di un conduttore, le soluzioni solide in liquido hanno un parametro 
+la conducibilità specifica K, che è direttamente proporzionale alla conducibilità. 
+ 
+La conducibilità di una soluzione può essere determinata misurando la circolazione di 
+corrente elettrica, utilizzando elettrodi immersi in tale soluzione. Se le linee di campo sono 
+perpendicolare agli elettrodi, la conducibilità specifica può essere scritta come: 
+ 
+K = G . d / A 
+ 
+dove d è la distanza tra gli elettrodi e A è l'area della superficie dell'elettrodo. 
+ 
+Elementi: 
+• 
+Acqua distillata. 
+• 
+Cose di plastica a base rettangolare. 
+• 
+- Multimetro. 
+• 
+Fonte di tensione regolabile. 
+• 
+Foglie millimetriche. 
+• 
+- Cintura adesiva. 
+• 
+Calibro. 
+• 
+Esci dal tavolo. 
+• 
+Sbalza. 
+• 
+- Toalete di carta. 
+• 
+Due cavi con fichi di banana e elettrodi piatti alle estremità
+• 
+- La palla. 
+ 
+
+Sviluppo: 
+ 
+Parte A: 
+a. Con gli elementi forniti, armare un dispositivo sperimentale attraverso il quale potete
+determinare la specificità di conduttività dell'acqua distillata e della gallela. 
+ 
+Parte B: 
+b. Verificare che per soluzioni saline molto diluite, la conducibilità specifica sia, in un
+un certo intervallo di 10 V a 15 V, proporzionato alla concentrazione. Usate
+concentrazioni comprese tra 2,5.10-4 e 14,10-4 grammi di sale per grammo di acqua. 
+ 
+c. Configuri un grafico di conduttività specifico in base alla concentrazione. 
+ 
+osservazioni e suggerimenti 
+• 
+Il fatto che le fonti di tensione siano a corrente continua genera un fenomeno.
+la polarizzazione degli elettrodi. 
+• 
+La circolazione di corrente elettrica attraverso un fluido genera un aumento della temperatura e di
+In questo caso, provoca anche inomogeneità nella conductività.
+Soluzione). 
+ 
+Per questo motivo è opportuno effettuare le misurazioni in fretta, nel caso in cui non si producano effetti negativi.
+La Commissione ha adottato una decisione che non può essere adottata. 
+Potete usare il bastone per agitare la soluzione da misurare, così da cercare di mantenere la
+l'omogeneità in essa. 
+Non lasciare gli elettrodi dentro la soluzione mentre non si sta misurando. È consigliabile seccarle.
+quando vengono ritirati dalla soluzione. 
+La bilancia digitale misura forze fino a 200 g. Non mettere oggetti più pesanti sull'apparecchio.
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+PE7: Distilled water conductivity and solutions
+
+PE7. City of Buenos Aires. Green, please. 
+ 
+Objectives: 
+The purpose of this practice is to determine the specific conductivity of distilled water and to study
+the conductance of saline solutions against their concentration. 
+ 
+The Commission has also adopted a proposal for a directive on the protection of workers' rights.
+The conductivity G is defined as the inverse of the electrical resistance R. Similarly to the
+The specific resistance of a conductor, solid solutions in liquid have a parameter 
+The resulting test results are calculated using the following formula: 
+ 
+The conductivity of a solution can be determined by measuring the circulation of 
+electric current using electrodes immersed in the solution. If the field lines are 
+perpendicular to the electrodes, the specific conductivity can be written as: 
+ 
+K = G . d / A 
+ 
+where d is the distance between electrodes and A is the area of the electrode surface. 
+ 
+The following elements: 
+• 
+Distilled water. 
+• 
+Rectangular base plastic container 
+• 
+Multi-meter, you know. 
+• 
+Regular voltage source. 
+• 
+Millimeter leaves. 
+• 
+It's a tape. 
+• 
+It's a caliber. 
+• 
+Get off the table. 
+• 
+Weigh it. 
+• 
+Paper towels. 
+• 
+Two cables with banana chips and flat electrodes at the ends.
+• 
+The stick. 
+ 
+
+Development of the Community: 
+ 
+Part A: 
+a. With the elements provided, we can build an experimental device through which we can
+determine the specific conductivity of distilled and hazelled water. 
+ 
+Part B: 
+b. Check that for highly diluted saline solutions, the specific conductivity is, in a
+a certain range between 10V and 15V, proportionate to their concentration. Use it .
+concentrations between 2,5.10-4 and 14,10-4 grams of salt per gram of water. 
+ 
+c. Make a specific conductivity chart based on the concentration. 
+ 
+Comments and suggestions 
+• 
+The fact that the voltage sources are direct current creates a phenomenon.
+This is called electrode polarization. 
+• 
+The flow of electric current through a fluid leads to an increase in temperature and by
+In this case, it also causes a change in conductivity (in this case, it also causes an inhomogeneity in the
+solution). 
+ 
+Therefore, it is advisable to carry out measurements quickly, with the aim of not producing the effects 
+The Commission has already adopted a number of proposals for a directive on the protection of workers' rights. 
+You can use the stick to shake the solution to measure, so you try to keep the
+the homogeneity in it. 
+DO NOT leave the electrodes inside the solution while you're measuring. It is advisable to dry them.
+electrodes when removed from the solution. 
+The digital scale measures forces up to 200 g. Do not place heavier objects on the equipment.
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q100" data-atom="q100" data-title="Argent 2004 Locale — Quesito 100" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE8: Densimetro de flotacion con jeringa**
+
+PE8. Mar del Plata, Buenos Aires. Azul. 
+ 
+Se desea medir la densidad de un líquido por medio de un densímetro de flotación. Para ello deberá 
+calibrar la jeringa que se le provee para poder realizar la medición. 
+ 
+Material 
+• Probeta graduada de 50 o 100 ml. • Jeringa 3 o 10 ml • Pico plástico • Municiones • Balanza de 
+platos. • Pesas • Recipiente con líquido incógnita. 
+ 
+Método 
+a ) Calibración: 
+I.  
+- Mida el nivel de líquido en la probeta graduada. 
+II. 
+- Ingrese la jeringa en la probeta y hágala flotar, mida el volumen del nivel de agua en la 
+probeta y el valor de la graduación en la jeringa. Calcule el volumen desplazado. 
+III. 
+- Con los valores de la graduación de la jeringa y el volumen desplazado de agua haga una 
+tabla. 
+IV. 
+- Presione la parte superior de la jeringa, la misma se hundirá. Mida los valores del nivel de 
+agua en la probeta y el valor de la graduación en la jeringa. Calcule el volumen desplazado y complete 
+con estos valores la tabla.  
+V. 
+- Repita una o dos veces más el punto IV. 
+VI.  
+- Analice los errores cometidos 
+ 
+Resultados experimentales 
+a ) Realice un gráfico del volumen desplazado en función de la graduación. 
+b ) Mida la densidad del líquido desconocido. 
+I.  
+- Introduzca el instrumento calibrado en el frasco con el líquido suministrado. 
+
+II. 
+- Lea el valor del nivel y por los datos obtenidos indique el volumen desplazado. 
+III. 
+- Mida la masa de líquido suministrado. 
+IV. 
+- Calcule la densidad del líquido 
+V. 
+- Analice los errores cometidos. 
+VI. 
+- Acote el error cometido. 
+ 
+Presente un informe con 
+• La tabla con los valores medidos del volumen desplazado y la graduación.  
+• Εl gráfico del volumen desplazado en función de la graduación.  
+• El análisis del gráfico anterior. 
+• La determinación de la densidad del líquido incógnita. 
+• La estimación de los errores cometidos en esta práctica, indique las fuentes de error.
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE8: Densimetro di flottazione con seringa**
+
+PE8. Mar del Plata, Buenos Aires. Blu. 
+ 
+Si desidera misurare la densità di un liquido mediante un densimetro di fluttuazione. Per questo dovrà
+calibrare la siringa che viene fornita per poter effettuare la misurazione. 
+ 
+Materiale 
+• 50 o 100 ml di prova graduata. • 3 o 10 ml di siringa • Pico di plastica • Munizioni • Balanza di
+piatti. • Pese • Cottura con liquido incognito. 
+ 
+Metodo 
+a) Calibrazione: 
+I. 
+- Misura il livello di liquido nella prova graduata. 
+II. 
+- Mettete la siringa nel campione e fatela fluttuare, misurate il volume del livello dell'acqua nella
+la prova e il valore della laurea nella siringa. Calcola il volume spostato. 
+III. 
+- Con i valori della graduazione della siringa e del volume di acqua spostato, fare un
+- La tavola. 
+IV. 
+- Presi la parte superiore della siringa, la stessa affonderà. Misura i valori del livello di 
+acqua nella prova e il valore della graduazione nella siringa. Calcolare il volume spostato e completare 
+con questi valori la tabella. 
+V. 
+- Ripeta un'altra volta o due il punto IV. 
+VI. 
+- Analizzare gli errori commessi.
+ 
+Risultati sperimentali 
+a) realizzare un grafico del volume spostato in base alla graduazione. 
+b) Misura la densità del liquido sconosciuto. 
+I. 
+- Inserire l'impianto calibrato nel frasco con il liquido fornito. 
+
+II. 
+- Leggi il valore del livello e dai dati ottenuti indichi il volume spostato. 
+III. 
+- Misura la massa di liquido fornito. 
+IV. 
+- Calcola la densità del liquido
+V. 
+- Analizzare gli errori commessi. 
+VI. 
+- Accetta il tuo errore. 
+ 
+Presenta un rapporto con 
+• La tabella con i valori misurati del volume spostato e la graduazione. 
+• Il grafico del volume spostato in base alla graduazione. 
+• L'analisi del grafico precedente. 
+• Determinazione della densità del liquido incognito. 
+• Indicare le fonti di errore.
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following is the list of the requirements for the type of equipment used:
+
+PE8. The city of Mar del Plata, Buenos Aires. Blue, please. 
+ 
+The density of a liquid is to be measured by means of a floating densometer. For this purpose, you must
+calibrate the syringe provided so that the measurement can be performed. 
+ 
+Material 
+• Graduated sample of 50 or 100 ml. • 3 or 10 ml syringe • Plastic tip • Ammunition • Balance of 
+- The dishes. • Weights • Container with unknown liquid. 
+ 
+The method 
+(a) Calibration: 
+I. 
+- Measure the fluid level in the graduated sample. 
+II. 
+- Insert the syringe into the sample and let it float, measure the volume of water level in the sample.
+test and the grade value in the syringe. Calculate the displaced volume. 
+The Commission shall adopt the following: 
+- With the values of the syringe gradation and the displaced volume of water make a
+The board. 
+IV. 
+- Press the top of the syringe, it will sink. Measure the values of the level of 
+water in the sample and the graduation value in the syringe. Calculate the displaced volume and complete 
+with these values the table. 
+V. 
+- Repeat point IV one or two more times. 
+VI. 
+- Analyze the mistakes made.
+ 
+Experimental results 
+(a) Draw a graph of the volume displaced by gradation. 
+(b) Measure the density of the unknown liquid. 
+I. 
+- Insert the calibrated instrument into the bottle with the supplied liquid. 
+
+II. 
+- Read the level value and indicate the volume displaced from the data obtained. 
+The Commission shall adopt the following: 
+- Measure the mass of fluid supplied. 
+IV. 
+- Calculate the density of the liquid 
+V. 
+- Analyze the mistakes made. 
+VI. 
+- Accentuate the mistake you made. 
+ 
+Report to the Commission
+• The table with the measured values of the displaced volume and the grading. 
+• The graph of the volume displaced by graduation. 
+• Analysis of the above chart. 
+• Determination of the density of the unknown liquid. 
+• The estimate of errors in this practice indicates the sources of error.
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q101" data-atom="q101" data-title="Argent 2004 Locale — Quesito 101" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE9: Peso especifico de muestra solida**
+
+PE9. San Fernando del Valle de Catamarca. Azul y Verde. 
+ 
+Objetivo: determinar el peso específico absoluto y relativo al aceite de la muestra provista 
+Lista de materiales: 
+• 
+Probeta graduada 
+• 
+Muestra sólida 
+• 
+Aceite 
+• 
+Dinamómetro 
+ 
+Requerimientos: 
+• 
+Sólo podrá utilizar los elementos ofrecidos, lápiz, papel y calculadora 
+• 
+Al finalizar la experiencia deberá entregar un informe que conste de: 
+1. Planteo del problema 
+2. Método experimental utilizado 
+3. Valores obtenidos en las mediciones realizadas 
+4. Fuentes de error 
+5. Resultado experimental de lo solicitado 
+6. Comentarios que desee realizar referidos al desarrollo de la experiencia
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE9: Peso specifico del campione solido**
+
+PE9. San Fernando della Valle di Catamarca. Blu e verde. 
+ 
+Obiettivo: determinare il peso specifico assoluto e relativo all'olio del campione fornito 
+Lista dei materiali: 
+• 
+Provetta graduata 
+• 
+Sostanza solida 
+• 
+Olio
+• 
+Dinamometro 
+ 
+Requisiti: 
+• 
+Può utilizzare solo gli elementi offerti, penna, carta e calcolatore 
+• 
+Al termine dell'esperienza dovrà presentare un rapporto che contiene: 
+1. La questione è stata sollevata.
+2. Metodo sperimentale utilizzato 
+3. Valori ottenuti dalle misurazioni effettuate 
+4. Fonti di errore 
+5. Risultato sperimentale della richiesta 
+6. Commenti che desiderate fare sullo sviluppo dell'esperienza
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE9: Specific weight of solid sample**
+
+PE9. San Fernando of the Catamarca Valley. Blue and Green. 
+ 
+Objective: to determine the absolute specific weight and relative to the oil of the sample supplied 
+List of materials: 
+• 
+Graduated test
+• 
+It shows solid .
+• 
+Oil .
+• 
+Dynamometer .
+ 
+Requirements: 
+• 
+You can only use the items offered, pencil, paper and calculator 
+• 
+At the end of the experience, you must submit a report on: 
+1. The problem is being raised.
+2. Experimental method used 
+3. Value obtained from measurements made 
+4. Sources of error 
+5. Experimental result of the requested product 
+6. Comments you wish to make on the development of experience
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q102" data-atom="q102" data-title="Argent 2004 Locale — Quesito 102" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/2,multidisciplina/mono,object/spring"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE10: Constante elastica de un resorte**
+
+PE10. San Fernando del Valle de Catamarca. Azul y Verde. 
+ 
+Objetivo: Determinar la constante elástica de un resorte 
+ 
+Procedimiento propuesto: 
+Se suspende un resorte fijo. Se cuelga una masa m del extremo inferior del resorte y se la deja oscilar 
+verticalmente. La masa oscila en forma periódica con periodo T. Sabiendo que: 
+ 
+(Aclaración: en la prueba enviada no hay ninguna fórmula) 
+ 
+Donde w es la frecuencia de oscilación, determinar la constante elástica K, del resorte 
+ 
+Lista de materiales: 
+• 
+Resorte 
+• 
+Un trípode, con su nuez y un eje-pinza 
+• 
+Un cronómetro 
+• 
+Pesas 
+ 
+Requerimientos: 
+• 
+Sólo podrá utilizar los elementos ofrecidos, lápiz, papel y calculadora 
+
+• 
+Al finalizar la experiencia deberá entregar un informe que conste de: 
+1- Planteo del problema 
+2- Método experimental utilizado 
+3- Valores obtenidos en las mediciones realizadas 
+4- Fuentes de error 
+5- Resultado experimental de lo solicitado 
+6- Comentarios que desee realizar referidos al desarrollo de la experiencia
+
+**Topic:** [[Oscillations & Waves]]
+**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Spring (object)|Spring]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE10: Costante elastica di una resorte**
+
+PE10. San Fernando della Valle di Catamarca. Blu e verde. 
+ 
+Obiettivo: Determinare la costante elastica di una primavera 
+ 
+Procedura proposta: 
+Si sospende una stagione fissa. Si appende una massa m dalla parte inferiore della molla e si lascia oscillare.
+Verticalmente. La massa oscilla periodicamente con periodo T. Sapendo che:
+ 
+(Clarificazione: nella prova inviata non vi è alcuna formula) 
+ 
+Dove w è la frequenza di oscillazione, determinare la costante elastica K, della resorte 
+ 
+Lista dei materiali: 
+• 
+Risorsa
+• 
+Un tripod, con il suo noci e un asse-pinza.
+• 
+Un cronometro .
+• 
+Pese
+ 
+Requisiti: 
+• 
+Può utilizzare solo gli elementi offerti, penna, carta e calcolatore 
+
+• 
+Al termine dell'esperienza dovrà presentare un rapporto che contiene: 
+1- Sulla base del problema 
+2- Metodo sperimentale utilizzato 
+3- Valori ottenuti dalle misurazioni effettuate 
+4- Fonti di errore 
+5- Risultato sperimentale della richiesta 
+6- Commenti che desiderate fare sullo sviluppo dell'esperienza
+
+**Topic:** [[Oscillations & Waves]]
+**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Spring (object)|Spring]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE10: elastic constant of a spring**
+
+PE10. San Fernando of the Catamarca Valley. Blue and Green. 
+ 
+Objective: Determine the elastic constant of a spring 
+ 
+Proposed procedure: 
+A fixed spring is suspended. A mass m is hung from the lower end of the spring and left to oscillate.
+vertically. The mass oscillates periodically with period T. Knowing that:
+ 
+(Clarification: there is no formula in the submitted test) 
+ 
+Where w is the oscillation frequency, determine the elastic constant K, of the spring 
+ 
+List of materials: 
+• 
+Spring
+• 
+A tripod, with its nut and a pin-axis.
+• 
+A timekeeper .
+• 
+Weights 
+ 
+Requirements: 
+• 
+You can only use the items offered, pencil, paper and calculator 
+
+• 
+At the end of the experience, you must submit a report on: 
+1- The problem is raised 
+2- Experimental method used 
+3- Values obtained from measurements made 
+4- Source of error 
+5- Experimental result of the requested product 
+6- Comments you wish to make on the development of experience
+
+**Topic:** [[Oscillations & Waves]]
+**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Spring (object)|Spring]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q103" data-atom="q103" data-title="Argent 2004 Locale — Quesito 103" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE11: Corrientes en serie y paralelo**
+
+PE11. San Fernando del Valle de Catamarca. Azul y Verde. 
+ 
+Objetivo: Determinar los valores de corriente que circulan por un circuito en serie y en paralelo. 
+ 
+Lista de materiales: 
+- 
+Tablero de circuito 
+- 
+Multímetro 
+- 
+Cables de concesión 
+- 
+Resistencias de diferentes valores 
+- 
+Fuente de alimentación 
+ 
+Requerimiento: 
+• 
+Sólo podrá utilizar los elementos ofrecidos, lápiz, papel y calculadora 
+• 
+Al finalizar la experiencia deberá entregar un informe que conste de: 
+1. Planteo del problema 
+2. Método experimental utilizado 
+3. Valores obtenidos en las mediciones realizadas 
+4. Fuentes de error 
+5. Resultado experimental de lo solicitado 
+6. Comentarios que desea realizar referidos al desarrollo de la experiencia 
+ 
+Procedimiento Propuesto: 
+I Parte: 
+1. Registre el valor de las resistencias con que cuenta 
+2. Registre el valor de la fuente de alimentación 
+3. Construya un circuito en serie con los elementos necesarios 
+4. Seleccione el multímetro en el rango de intensidad de corriente necesaria 
+5. Determine la corriente total que esta fluyendo por las resistencias. Mida y registre ese valor. 
+6. Determine la caída de tensión en cada resistencia. Mida y registre ese valor. 
+7. ¿Qué ley se aplica? ¿Concuerdan con el valor de esa ley? 
+II Parte: 
+Arme un circuito en paralelo. Repita los pasos 1. 2. 
+Determine la corriente que circula por cada resistencia. Mida y registre ese valor. 
+¿Qué ley se aplica? ¿Concuerdan con el valor de esa ley?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p71_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE11: Correnti in serie e paralleli**
+
+PE11. San Fernando della Valle di Catamarca. Blu e verde. 
+ 
+Obiettivo: Determinare i valori di corrente che circolano in un circuito in serie e in parallelo. 
+ 
+Lista dei materiali: 
+- 
+Disegno di circuito 
+- 
+Multimetro
+- 
+Cable di concessione 
+- 
+Risistenze di valori diversi 
+- 
+Fonte di alimentazione 
+ 
+Richiesto: 
+• 
+Può utilizzare solo gli elementi offerti, penna, carta e calcolatore 
+• 
+Al termine dell'esperienza dovrà presentare un rapporto che contiene: 
+1. La questione è stata sollevata.
+2. Metodo sperimentale utilizzato 
+3. Valori ottenuti dalle misurazioni effettuate 
+4. Fonti di errore 
+5. Risultato sperimentale della richiesta 
+6. Commenti che desiderate fare sullo sviluppo dell'esperienza 
+ 
+Procedura proposta: 
+Parte I: 
+1. Registra il valore delle resistenze che conta
+2. Registra il valore della fonte di alimentazione 
+3. Costruisci un circuito in serie con gli elementi necessari
+4. Selezionare il multimetro nella gamma di intensità di corrente necessaria 
+5. Determina il corrente totale che sta correndo attraverso le resistenze. Misura e registra quel valore. 
+6. Determina il calo di tensione a ogni resistenza. Misura e registra quel valore. 
+7. Che legge si applica? Concordiamo con il valore di questa legge? 
+Parte II: 
+Armati un circuito parallelo. Ripeti il passo 1. 2. 
+Determina il corrente che circola per ogni resistenza. Misura e registra quel valore. 
+Che legge si applica? Concordiamo con il valore di questa legge?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p71_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE11: Series and parallel currents**
+
+PE11. San Fernando of the Catamarca Valley. Blue and Green. 
+ 
+Objective: Determine the current values circulating in a series and parallel circuit. 
+ 
+List of materials: 
+- 
+Circuit board 
+- 
+Multi-meter
+- 
+Concession cables 
+- 
+Resistances of different values 
+- 
+Power supply 
+ 
+Requirement: 
+• 
+You can only use the items offered, pencil, paper and calculator 
+• 
+At the end of the experience, you must submit a report on: 
+1. The problem is being raised.
+2. Experimental method used 
+3. Value obtained from measurements made 
+4. Sources of error 
+5. Experimental result of the requested product 
+6. Comments you wish to make on the development of experience 
+ 
+Proposed procedure: 
+Part I: 
+1. Record the resistance value you have .
+2. Record the value of the power supply 
+3. Build a serial circuit with the necessary elements.
+4. Select the multimeter in the required current intensity range 
+5. Determine the total current flowing through the resistors. Measure and record that value. 
+6. Determine the voltage drop at each resistance. Measure and record that value. 
+7. What law is applicable? Do you agree with the value of that law? 
+Part II: 
+Arming a parallel circuit. Repeat step one. 2. 
+Determine the current flowing through each resistance. Measure and record that value. 
+What law is applicable? Do you agree with the value of that law?
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p71_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q104" data-atom="q104" data-title="Argent 2004 Locale — Quesito 104" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE12: Resistencia de trazos de grafito**
+
+PE12. Ciudad de Buenos Aires. Azul. 
+ 
+1. Tema:  
+ 
+Resistencia eléctrica de resistores construidos con trazos de grafito. 
+ 
+2. Objetivo:  
+ 
+Determinación de la resistencia de trazos de grafito en función de las características geométricas de 
+dichos trazos, y ensayando diferentes configuraciones circuitales. 
+ 
+3. Materiales: 
+ 
+- 
+1 Multímetro digital 
+- 
+Hojas de papel milimetrado 
+- 
+Hoja con trazos paralelos dibujados con mina de grafito 
+- 
+Monedas 
+- 
+2 Barras conductoras 
+- 
+Broches 
+- 
+1 Mina de grafito 
+- 
+1 Regla 
+- 
+Cinta de enmascarar 
+ 
+Desarrollo: 
+ 
+• 
+Variación de la resistencia eléctrica en función de la geometría del resistor: 
+ 
+Variación de la resistencia con la longitud: 
+ 
+En este punto se desea estudiar la relación existente entre la resistencia de un trazo de grafito y su 
+longitud. 
+Para ello dibuje, con la mina de grafito sobre una hoja milimetrada, un trazo recto de entre 1 y 2 mm 
+de espesor y entre 10 y 20 cm de longitud (realice entre 2 y 3 pasadas, ida y vuelta cada una, 
+guiándose con la regla). 
+Tomando un extremo fijo y variando el otro a lo largo de la longitud del trazo, mida con el multímetro 
+en modo ohmetro como varía la resistencia en función de la longitud del trazo sobre el cual circula 
+corriente. 
+Realice un gráfico de resistencia en función de la longitud y determine qué relación existe entre estas 
+dos magnitudes. 
+ 
+Variación de la resistencia con el ancho: 
+ 
+En este punto se desea estudiar la relación existente entre la resistencia de un trazo de grafito y su 
+espesor. 
+Para ello, a diferencia de lo realizado en el punto anterior, deberá dibujar distintos trazos variando el 
+ancho de los mismos. Por cada trazo, pegue dos cintas de enmascarar sobre la hoja milimetrada de 
+modo de delimitar con ellas los bordes del trazo. Para dibujar el trazo utilice como guía una regla y 
+realice trazos sucesivos, cada uno de los cuales tendrá el espesor de la mina de grafito, de modo tal 
+que en conjunto determinen un trazo del espesor deseado y homogéneo. 
+Es importante que todos los trazos tengan una densidad similar. 
+Tomando una longitud fija, mida con el multímetro en modo ohmetro la resistencia de los diferentes 
+trazos. 
+Realice un gráfico de resistencia en función del ancho del trazo. Repita el gráfico en función de la 
+inversa del ancho del trazo. En base a los resultados obtenidos, determine qué relación existe entre 
+estas dos magnitudes. 
+
+• 
+Variación de la resistencia eléctrica de acuerdo a la configuración: 
+ 
+En este punto se desea estudiar la resistencia obtenida al combinar trazos similares en configuración 
+serie o paralelo. Para ello, realice sobre una hoja de papel milimetrado 10 trazos paralelos de 5 cm de 
+longitud y del ancho dado por la mina de grafito, separados entre sí por aproximadamente 5 mm. 
+Para obtener cada configuración serie, utilice las monedas de forma de conectar dos resistores entre sí, 
+y los broches para fijar la posición de las monedas.  
+Para obtener cada configuración paralelo utilice las barras conductoras. 
+En ambos casos, mida como varía la resistencia total de la configuración en función de la resistencia R 
+de cada uno de los resistores y la cantidad de resistores conectados. Determine una fórmula que 
+exprese la relación observada en cada caso. 
+Realice una analogía entre los resultados obtenidos en este punto y los obtenidos al analizar la 
+variación de la resistencia de los trazos en función de su geometría.
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE12: resistenza ai tratti di graffito**
+
+PE12. Città di Buenos Aires. Blu. 
+ 
+1. Tema: 
+ 
+Resistenza elettrica di resistori costruiti con tratti di graffito. 
+ 
+2. Obiettivo: 
+ 
+Determinazione della resistenza dei tratti di graffito in base alle caratteristiche geometriche di 
+e testando diverse configurazioni di circuito. 
+ 
+3. Materiali: 
+ 
+- 
+1 Multimetro digitale 
+- 
+Foli di carta millimetrica 
+- 
+Carta con tratti paralleli disegnati con miniera di graffito 
+- 
+Monete
+- 
+2 barre di guida 
+- 
+- Brocchi .
+- 
+1 Mina di graffito 
+- 
+1 Regola 
+- 
+Tinta da mascherare 
+ 
+Sviluppo: 
+ 
+• 
+Variazione della resistenza elettrica in funzione della geometria della resistenza: 
+ 
+Variazione della resistenza con la lunghezza: 
+ 
+In questo punto si desidera studiare il rapporto tra la resistenza di un tratto di graffito e la sua resistenza.
+lunghezza. 
+Per questo, disegna, con la miniera di graffito su una foglia di millimetro, un tratto retto di 1 a 2 mm 
+di spessore e di 10 a 20 cm di lunghezza (fa 2 a 3 passi, avanti e indietro, 
+- "Guidando la regola". 
+Prendendo un'estremità fissa e variando l'altra lungo la lunghezza del tratto, misurata con il multimetro 
+in modo ohmetrico come varia la resistenza a seconda della lunghezza del tratto su cui si sposta 
+corrente. 
+Realizza un grafico di resistenza a seconda della lunghezza e determina quale sia il rapporto tra queste 
+due magnitudini. 
+ 
+Variazione della resistenza con la larghezza: 
+ 
+In questo punto si desidera studiare il rapporto tra la resistenza di un tratto di graffito e la sua resistenza.
+spessore. 
+Per questo, a differenza di quanto detto in precedenza, deve disegnare diversi tratti variando il
+La larghezza di questi. Per ogni tracciato, attaccare due nastri di mascheramento sulla foglia millimetrica di
+il modo di delimitare con loro i bordi del tracciato. Per disegnare il tracciato, usa come guida una regola e 
+realizza tracciati successivi, ognuno dei quali avrà lo spessore della miniera di graffito, in modo tale che 
+che determinano insieme un tratto di spessore desiderato e omogeneo. 
+È importante che tutti i tratti abbiano una densità simile. 
+Prendendo una lunghezza fissa, misurata con il multimetro in modalità ohmetro la resistenza dei diversi 
+Tracciati. 
+Sfrutta un grafico di resistenza in base alla larghezza del tracciato. Ripeti il grafico in base alla 
+Inverso della larghezza del tracciato. Sulla base dei risultati ottenuti, determinare quale sia il rapporto tra 
+queste due dimensioni. 
+
+• 
+Variazione della resistenza elettrica secondo le configurazioni: 
+ 
+In questo punto si desidera studiare la resistenza ottenuta combinando tratti simili in configurazione 
+serie o parallela. Per questo, su un foglio di carta millimetrica, realizzare 10 tratti paralleli di 5 cm di
+la lunghezza e la larghezza di cui alla miniera di graffito, separati tra loro di circa 5 mm. 
+Per ottenere ogni configurazione seria, utilizzare le monete in modo da collegare due resistori tra loro,
+e le pinne per fissare la posizione delle monete. 
+Per ottenere ogni configurazione parallela, utilizzare le barre di guida. 
+In entrambi i casi, la misura varia come la resistenza totale della configurazione in funzione della resistenza R 
+di ciascuna resistenza e di quanti resistenti sono collegati. Determina una formula che 
+Esprimere la relazione osservata in ogni caso. 
+Fa' un'analogia tra i risultati ottenuti in questo punto e quelli ottenuti analizzando la
+variazione della resistenza dei tratti in base alla geometria.
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following is the list of the types of materials used in the manufacture of the product:
+
+PE12. City of Buenos Aires. Blue, please. 
+ 
+1. Subject: 
+ 
+Electrical resistance of resistors constructed from graphite strokes. 
+ 
+2. The objective: 
+ 
+Determination of the resistance of graphite strokes based on the geometric characteristics of 
+These are the same lines, and we're testing different circuit configurations. 
+ 
+3. Materials: 
+ 
+- 
+1 Digital multimeter 
+- 
+Sheets of millimetre paper 
+- 
+Sheet with parallel lines drawn with graphite mine
+- 
+Coins 
+- 
+2 Driving bars 
+- 
+Brochures 
+- 
+1 Graphite mine 
+- 
+1 Rule 
+- 
+Masking tape 
+ 
+Development of the Community: 
+ 
+• 
+Variability of electrical resistance according to resistor geometry: 
+ 
+Variation of resistance with length: 
+ 
+In this respect, the relationship between the resistance of a graphite strip and its
+length. 
+For this purpose, draw a straight line of 1 to 2 mm with the graphite mine on a millimetre sheet.
+thickness and between 10 and 20 cm in length (does between 2 and 3 passes, back and forth each, 
+Guided by the rule. 
+Taking one fixed end and varying the other along the length of the stroke, measured with the multimeter
+In ohm mode as the resistance varies according to the length of the strip on which it is circulated 
+current. 
+Draw a resistance graph based on length and determine the relationship between these.
+two magnitude. 
+ 
+Variation of resistance with width: 
+ 
+In this respect, the relationship between the resistance of a graphite strip and its
+thickness. 
+For this purpose, unlike in the previous point, you must draw different lines, varying the
+wide of them. For each stroke, paste two masking tapes over the millimeter sheet of 
+The way to delimit the edges of the line with them. To draw the line, use a rule as a guide and 
+It makes successive strokes, each of which will be the thickness of a graphite mine, so that 
+which together determine a desired and homogeneous thickness. 
+It's important that all traits have a similar density. 
+Taking a fixed length, measured with the multimeter in ohm-mode the resistance of the different
+The traces. 
+Make a resistance graph based on the width of the stroke. Repeat the graph according to the 
+reverse of the width of the stroke. Based on the results obtained, determine what relationship exists between 
+These two magnitudes. 
+
+• 
+Variable electrical resistance according to configuration: 
+ 
+The aim is to study the resistance obtained by combining similar traits in configuration.
+series or parallel. For this purpose, make 10 parallel strokes of 5 cm on a millimeter sheet of paper.
+length and width given by the graphite mine, separated by approximately 5 mm. 
+To get each serial configuration, use the coins so that two resistors are connected to each other, 
+and the pins to set the position of the coins. 
+To obtain each parallel configuration use the driving bars. 
+In both cases, measurement as the total resistance of the configuration varies according to the resistance R 
+of each resistor and the number of resistors connected. Determine a formula that 
+the relationship observed in each case. 
+It draws an analogy between the results obtained at this point and those obtained by analysing the
+variation in the resistance of the strokes according to their geometry.
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q105" data-atom="q105" data-title="Argent 2004 Locale — Quesito 105" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/ball,object/inclined-plane"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE13: Buena punteria (proyectil desde rampa)**
+
+PE13. Río Segundo, Córdoba. Azul. 
+ 
+“Buena puntería”. 
+I. Objetivo: 
+Investigar el carácter independiente de las componentes horizontal y vertical del movimiento. Predecir 
+el punto donde caerá un proyectil. 
+ 
+II. Equipo / materiales necesarios: 
+• 
+Rampa. 
+• 
+Esfera de cristal. 
+• 
+Recipiente vacío. 
+• 
+Cinta métrica. 
+• 
+Cronómetro. 
+• 
+Calculadora. 
+ 
+III. Consideraciones teóricas: 
+¿A partir de cuando se cae? 
+Algunos pueden pensar que a partir de la altura 
+máxima el objeto empieza a caer. Pero, ¿a qué nos 
+referimos con el término “caer”?. Si nos referimos 
+a que el objeto está solamente sometido a la 
+aceleración de la gravedad y nada lo sostiene, 
+entonces el objeto comenzó a caer desde que lo 
+lanzamos con velocidad hacia arriba. Si en cambio 
+con la palabra “caer” nos referimos a acercarnos al 
+piso por la aceleración gravitatoria, entonces 
+parecería que recién se cae cuando ya ha pasado 
+por la altura máxima. Los físicos suelen elegir la 
+primera de las acepciones. 
+Además de esta aclaración, es cierto que a partir 
+del instante de la altura máxima todo sucede del 
+mismo modo, sin importar si el objeto se dejó caer 
+desde esa altura máxima o si fue disparada hacia 
+arriba desde el piso. Ambos movimientos son 
+idénticos. Los movimientos reales son más 
+complicados que los que se pueden analizar de 
+manera teórica. 
+ 
+Figura A 
+
+Podemos lograr mayor aproximación a la realidad, si consideramos la posibilidad de que un 
+movimiento esté compuesto por dos o más. 
+Por ejemplo, cuando un avión suelta una bomba esta adquiere un movimiento que se compone así: 
+- 
+Un movimiento de caída libre 
+- 
+Un movimiento uniforme con la misma velocidad que la del avión. 
+Esto nos conduce a una situación paradojal: la bomba tarda el mismo tiempo en llegar al suelo, 
+independientemente de la velocidad del avión. La razón de esto es que, la bomba está sometida a la 
+misma aceleración: la de la gravedad. Por lo tanto recorre, verticalmente, la misma distancia en el 
+mismo intervalo de tiempo. 
+Conclusión: Principio de la independencia de los movimientos. 
+El movimiento de caída libre no tiene ninguna influencia sobre el de traslación horizontal, cada uno de 
+los movimientos componentes se cumple como si los demás no existieran. 
+Supongamos que el avión vuela horizontalmente a una altura “h” y a una velocidad “v”. ¿Cuánto 
+metros antes del blanco deja caer la bomba? La bomba cae y avanza simultáneamente, de modo que el 
+aviador deberá dejarla caer antes de estar sobre el blanco y a una distancia tal que el tiempo que la 
+bomba emplea para llegar al suelo, recorra esa distancia hacia delante. 
+Tiempo que tarda en caer: como ambos movimientos se cumplen con absoluta independencia 
+(Principio de Galileo), el tiempo de caída será el mismo que emplearía si el avión pudiera estar quieto 
+y la dejara caer desde esa misma altura. 
+Imagina un universo sin gravedad. Si arrojaras una piedra en 
+ese universo, es un lugar sin aire, seguiría su camino 
+eternamente. Como la piedra viajaría con rapidez constante, 
+recorrería la misma distancia en cada segundo (Figura B). 
+ 
+La ecuación de la distancia 
+recorrida cuando el movimiento 
+es uniforme, es: x = v . t. La 
+rapidez es: 
+t
+x
+v =
+ 
+Volviendo a la Tierra, ¿qué pasa cuando dejas caer una piedra?. Se 
+precipita hacia el piso y la distancia que recorre en cada segundo va en 
+aumento (Figura C). La gravedad hace que su rapidez se incremente 
+constantemente. La 
+ecuación de la distancia 
+vertical de caída y después 
+de un tiempo t, es: v = g . t 
+¿Qué pasa cuando arrojas la 
+piedra en dirección lateral (Figura D)?. El movimiento 
+curvilíneo resultante se puede describir como la 
+combinación de dos movimientos rectilíneos: uno 
+vertical y otro horizontal. El movimiento vertical 
+está sujeto a la aceleración debida a la gravedad, no así 
+el movimiento horizontal. El secreto para analizar el 
+movimiento de proyectiles consiste en llevar dos juegos 
+separados de “registros”: uno se refiere al movimiento 
+horizontal y otro que se ocupa del movimiento 
+vertical. 
+ 
+Movimiento horizontal: 
+- 
+Cuando se trata que tan lejos llega el cuerpo, la ecuación que se debe aplicar es: …..... 
+- 
+Cuando se trata que tan rápidamente llega el cuerpo, la ecuación que se debe aplicar 
+es: ……………… 
+Movimiento vertical: 
+- 
+Cuando se trata que tan lejos llega el cuerpo, la ecuación que se debe aplicar es: … 
+ 
+Figura B 
+ 
+Figura D 
+
+- 
+Cuando se trata que tan rápidamente llega el cuerpo, la ecuación que se debe aplicar 
+es: ………………….. 
+Tu meta en esta experiencia es predecir dónde caerá una esfera de vidrio (canica) si la sueltas desde 
+cierta altura en un plano inclinado. La prueba de fuego para tus mediciones y cálculos será colocar un 
+recipiente de modo que la esfera caiga dentro de ella, ¿podrás en el primer intento?. 
+ 
+IV. Procedimiento: 
+- 
+Monta tu rampa. Procura que quede lo más firme posible, para que la esfera ruede suavemente 
+y el fenómeno sea reproducible, como lo muestra la Figura E. 
+- 
+Ubica el recipiente donde debe caer la esfera , realiza tantos intentos como sea necesario hasta 
+que aciertes, luego comienza a medir el tiempo. 
+- 
+Usa un cronómetro para medir el tiempo que tarda la esfera en recorrer el trayecto. 
+ 
+Figura E 
+- 
+Se te recomienda realizar como mínimo 30 mediciones de tiempo y registrarlas en la siguiente 
+tabla. Si consideras que debes realizar más mediciones, indica cuántas y porque. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 
+Realiza un cotejo de datos que hayas obtenido experimentalmente: t, x, y. 
+- 
+Resuelve y/o responde las siguientes cuestiones: 
+a) ¿Se debe tomar en cuenta la altura de la superficie sobre la que cae la esfera al medir 
+la distancia vertical y?. ¿Porqué?. 
+b) Usando la ecuación apropiada según lo dicho en el comentario, calcula el tiempo t que 
+la esfera tarda en caer dentro del recipiente. Escribe la ecuación que relaciona y con t. 
+c) Compara el tiempo calculado en b) con el tiempo promedio de tus mediciones 
+realizadas anteriormente. Calcula el error porcentual. Comenta las causas de porque 
+no obtienes exactamente la medida calculada analíticamente. 
+d) Calcula el valor de la rapidez horizontal y vertical de la esfera. 
+e) Calcula la velocidad con que la esfera toca el piso. 
+f) El alcance es la distancia horizontal que recorre la esfera. Escribe: 
+La ecuación para calcular el alcance: 
+Calcula el alcance para esta situación: 
+Pronóstico del alcance: 
+g) Compara el alcance real de la esfera con tu predicción. Comenta las causas de porque 
+no obtienes exactamente la medida calculada analíticamente. 
+h) ¿Cuál puede ser la causa de que la esfera no acierte en el blanco?. 
+i) ¿Cuál crees que fue el papel de la resistencia del aire en este experimento?. 
+j) Escribe todos los planteamientos que consideres pueden aportar a una mejor 
+resolución de este examen.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p73_f1.png]]
+![[cuadernillo_2004_p74_f2.png]]
+![[cuadernillo_2004_p75_f3.png]]
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Ball (object)|Ball]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE13: Buona puntatura (proiettile da ramp) **
+
+PE13. Rio Segundo, Córdoba. Blu. 
+ 
+- Buona puntata. 
+I. Obiettivo: 
+Investigare la indipendenza tra le componenti orizzontali e verticali del movimento. Prevedere
+il punto in cui un proiettile cadrà. 
+ 
+II. Equipaggiamento / materiali necessari: 
+• 
+Rampate. 
+• 
+- Sfera di cristallo. 
+• 
+- Cose vuote. 
+• 
+Cintura metrica. 
+• 
+Un cronometro. 
+• 
+Calcolatrice. 
+ 
+III. Considerazioni teoriche: 
+Da quando cade? 
+Alcuni potrebbero pensare che dall'altezza
+Al massimo l'oggetto inizia a cadere. Ma che ne dici di noi?
+La nostra parola è "caer". Se si riferisce a
+che l'oggetto è solo sottoposto alla
+Accelerazione della gravità e niente lo sostiene.
+Allora l'oggetto ha iniziato a cadere da quando lo
+lanciamo a velocità verso l'alto. Se invece 
+con la parola "caer" si intende avvicinarsi al
+Piano per l'accelerazione gravitazionale, allora 
+Sembra che sia appena caduto quando è passato.
+per la massima altezza. I fisici di solito scelgono la
+primo dei significati. 
+In aggiunta a questa chiarazione, è vero che a partire da
+L' istante di massima altezza tutto accade dal
+lo stesso, indipendentemente dal fatto che l'oggetto sia stato abbassato 
+Da quel punto massimo o se fu sparato verso
+- Su dal pavimento. Entrambi i movimenti sono
+identici. I movimenti reali sono più 
+Le informazioni che si possono analizzare sono più complicate di quelle di 
+teoricamente. 
+ 
+Figura A 
+
+Possiamo avvicinarci alla realtà, se consideriamo la possibilità che un
+il movimento è composto da due o più. 
+Per esempio, quando un aereo rilascia una bomba, essa acquista un movimento che si compone così:
+- 
+Un movimento di caduta libera
+- 
+Un movimento uniforme, con la stessa velocità dell'aereo. 
+Questo ci porta ad una situazione paradossale: la bomba impiega lo stesso tempo per arrivare al suolo.
+indipendentemente dalla velocità dell'aereo. La ragione è che la bomba è sottoposta alla
+la stessa accelerazione: quella della gravità. Quindi percorre verticalmente la stessa distanza in
+lo stesso intervallo di tempo. 
+Conclusione: Principio dell'indipendenza dei movimenti. 
+Il movimento di caduta libera non ha alcuna influenza su quello di traslazione orizzontale, ognuno di
+i movimenti componenti si eseguono come se gli altri non esistessero. 
+Supponiamo che l'aereo vola orizzontalmente ad un'altezza h e a una velocità v. Quanto?
+Metri prima che il bersaglio faccia cadere la bomba? La bomba cade e si muove simultaneamente, così che il
+L'aereo deve essere abbassato prima di essere sopra il bersaglio e a una distanza tale che il tempo che il volo
+La bomba che utilizza per arrivare al suolo, percorre quella distanza verso l'avanguardia. 
+Tempo che dura a cadere: come entrambi i movimenti si svolgono con assoluta indipendenza 
+(Principio di Galileo), il tempo di caduta sarà lo stesso che avrebbe impiegato se l'aereo potesse stare fermo.
+e la lascerebbe cadere da quella stessa altezza. 
+Immagina un universo senza gravità. Se lanci un sasso in
+quell'universo, è un luogo senza aria, seguirebbe il suo cammino
+per sempre. Come la pietra viaggierebbe a velocità costante,
+la stessa distanza ogni secondo (Figura B). 
+ 
+L'equazione della distanza 
+percorso quando il movimento 
+è uniforme, è: x = v. t. La 
+Rapidità è: 
+t
+x
+v =
+ 
+Tornando sulla Terra, cosa succede quando si lascia cadere una pietra? Se 
+Si precipita verso il pavimento e la distanza che percorre ogni secondo va in
+aumento (Figura C). La gravità fa aumentare la sua velocità
+costantemente. La 
+Equation di distanza 
+Verticale di caduta e poi 
+di un tempo t, è: v = g. t 
+Che succede quando la getti?
+Pietra laterale (Figura D) Il movimento
+La curvilinea risultante può essere descritta come 
+combinazione di due movimenti rettilini: uno 
+Verticale e orizzontale. Il movimento verticale 
+È soggetto all'accelerazione dovuta alla gravità, non così.
+il movimento orizzontale. Il segreto per analizzare il
+Il movimento dei proiettili consiste nel portare due giochi.
+separati da registri: uno si riferisce al movimento 
+L'altro è quello che si occupa del movimento.
+Verticale. 
+ 
+Movimento orizzontale: 
+- 
+Quando si tratta di quanto lontano arriva il corpo, l'equazione da applicare è: …..... 
+- 
+Quando si tratta di arrivare così rapidamente al corpo, l'equazione che deve essere applicata 
+es: ……………… 
+Movimento verticale: 
+- 
+Quando si tratta di quanto lontano arriva il corpo, l'equazione da applicare è: … 
+ 
+Figura B 
+ 
+Figura D
+
+- 
+Quando si tratta di arrivare così rapidamente al corpo, l'equazione che deve essere applicata 
+es: ………………….. 
+Il tuo obiettivo in questa esperienza è predire dove cadrà una sfera di vetro (canica) se la rilasci dal
+una certa altezza in un piano inclinato. Il test di fuoco per le tue misurazioni e calcoli sarà di mettere un 
+Container in modo che la sfera cade dentro di esso, potrai al primo tentativo? 
+ 
+IV. Procedura: 
+- 
+Metti il ramp. Cerca di tenerlo il più fermo possibile, così che la sfera ruota lentamente.
+e il fenomeno è riproducibile, come mostra la figura E. 
+- 
+Localizza il recipiente dove deve cadere la sfera , fa quanti tentativi è necessario fino a
+Se fai il giusto, allora inizia a misurare il tempo. 
+- 
+Usa un cronometro per misurare il tempo che la sfera impiega per percorrere il suo percorso. 
+ 
+Figura E 
+- 
+Si consiglia di effettuare almeno 30 misure di tempo e registrarle in seguito.
+- La tavola. Se ritieni che devi effettuare ulteriori misure, indichi quante e perché. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 
+Fate un'analisi dei dati che avete ottenuto sperimentalmente: t, x, y. 
+- 
+Risolve e/o risponde alle seguenti domande: 
+a) Si deve tenere conto dell'altezza della superficie su cui cade la sfera quando si misura 
+la distanza verticale e? - Perché? 
+b) Usando l'equazione appropriata, come detto nel commento, calcola il tempo t che 
+la sfera non si precipita più a lungo nel recipiente. Scrivi l'equazione che collega e con t. 
+c) Confronta il tempo calcolato in b) con il tempo medio delle tue misurazioni 
+le precedenti. Calcola il percentuale di errore. Commenta le cause del perché
+Non si ottiene esattamente la misura calcolata analiticamente. 
+d) Calcola il valore della velocità orizzontale e verticale della sfera. 
+e) Calcola la velocità con cui la sfera colpisce il pavimento. 
+f) La portata è la distanza orizzontale che attraversa la sfera. Scrive: 
+L'equazione per calcolare la portata: 
+Calcola il raggio di applicazione di questa situazione: 
+Previsione della portata: 
+g) Confronta la portata reale della sfera con la tua previsione. Commenta le cause del perché
+Non si ottiene esattamente la misura calcolata analiticamente. 
+h) Qual è la causa del non colpo di sfera? 
+i) Qual è stato il ruolo della resistenza dell'aria in questo esperimento? 
+j) Scrivi tutti gli approcci che riteni possano contribuire a una migliore
+- la risoluzione di questo esame.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p73_f1.png]]
+![[cuadernillo_2004_p74_f2.png]]
+![[cuadernillo_2004_p75_f3.png]]
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Ball (object)|Ball]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE13: Good aiming (shot from ramp) **
+
+PE13. The second river, Cordoba. Blue, please. 
+ 
+Good pointing. 
+I. The objective: 
+Investigate the independent nature of the horizontal and vertical components of the movement. Predicting
+The point where a projectile will fall. 
+ 
+II. Equipment / materials required: 
+• 
+It's a ramp. 
+• 
+It's a glass sphere. 
+• 
+Empty container. 
+• 
+It's a tape measure. 
+• 
+It's a timekeeper. 
+• 
+It's a calculator. 
+ 
+The Commission shall adopt the following: Theoretical considerations: 
+From when does it fall? 
+Some may think that from the height 
+Maximum the object begins to fall. But what do we do?
+We refer to it with the term caer?. If we 're talking about
+The object is only subject to the
+gravitational acceleration and nothing can hold it.
+Then the object started falling since it was.
+We're going up. If instead 
+The word 'fall' refers to approaching the
+Floor by gravitational acceleration, then 
+It would seem that he just falls when it 's over .
+by the maximum height. Physicists usually choose the
+First of all, the meaning. 
+In addition to this clarification, it is true that from
+From the moment of maximum height everything happens from the
+The same way, regardless of whether the object was dropped.
+From that maximum height or if it was fired at
+Up from the floor. Both moves are 
+identical. The real moves are more 
+The results of the study are more complicated than those that can be analyzed from 
+Theoretically speaking. 
+ 
+Figure A
+
+We can achieve a closer approach to reality if we consider the possibility that a
+the movement is composed of two or more. 
+For example, when an airplane releases a bomb, it acquires a motion that is composed of:
+- 
+A free fall movement .
+- 
+A uniform motion at the same speed as the plane. 
+This leads us to a paradoxical situation: the bomb takes the same time to reach the ground.
+regardless of the speed of the plane. The reason for this is that, the bomb is subjected to the
+The same acceleration as gravity. Therefore, it travels vertically the same distance in the
+the same time interval. 
+Conclusion: Principle of independence of movements. 
+The free-fall movement has no influence on the horizontal translation movement, each of which is
+The components of the movements are fulfilled as if the others did not exist. 
+Let's say the plane flies horizontally at a height h and a speed v. How much?
+Meters before the target dropped the bomb? The bomb drops and moves simultaneously, so the 
+The pilot must drop it before it is on target and at a distance such that the time it takes to fly is sufficient.
+The bomb is used to get to the ground, travel that distance forward. 
+Time that takes to fall: as both movements are fulfilled with absolute independence 
+(Galileo principle) the time of the fall will be the same as it would be if the plane could be still.
+And I'd drop it from that same height. 
+Imagine a universe without gravity. If you throw a stone at me
+That universe, it's a place without air, would follow its path.
+forever and ever. As the stone would travel at constant speed,
+It would travel the same distance every second (Figure B). 
+ 
+The equation of distance 
+The motion of the wheel is the same as the motion of the wheel.
+is uniform, is: x = v. t. La 
+speed is: 
+t
+x
+v =
+ 
+Back on Earth, what happens when you drop a rock? Se 
+It rushes to the floor and the distance it travels in every second goes in.
+The number of people in the EU is increasing. Gravity makes it faster .
+constantly. La 
+The distance equation 
+vertical drop and then 
+of a time t, is: v = g. t 
+What happens when you throw it away?
+stone in a lateral direction (Figure D). The movement 
+The resulting curvilinearity can be described as the 
+combination of two straight movements: one 
+vertical and one horizontal. The vertical movement 
+It's subject to acceleration due to gravity, not like that.
+the horizontal movement. The secret to analyzing the
+The projectile movement consists of two sets of moves.
+separated from registers: one refers to the movement 
+horizontal and another that deals with movement 
+vertical. 
+ 
+Horizontal movement: 
+- 
+When it comes to how far the body goes, the equation to apply is: …..... 
+- 
+When it comes to how quickly the body gets there, the equation that needs to be applied.
+es: ……………… 
+Vertical movement: 
+- 
+When it comes to how far the body goes, the equation to apply is: … 
+ 
+Figure B
+ 
+Figure D
+
+- 
+When it comes to how quickly the body gets there, the equation that needs to be applied.
+es: ………………….. 
+Your goal in this experiment is to predict where a glass sphere will fall if you release it from the
+a certain height on a sloping plane. The fire test for your measurements and calculations will be to place a 
+container so the sphere falls inside it, can you on the first try? 
+ 
+IV. The procedure: 
+- 
+Get your ramp up. Make sure it stays as firm as possible, so the sphere rolls smoothly.
+And the phenomenon is reproducible, as shown in Figure E. 
+- 
+He places the container where the sphere should fall , makes as many attempts as necessary until
+You get it right, then you start measuring time. 
+- 
+Use a timepiece to measure the time it takes the sphere to travel. 
+ 
+Figure E 
+- 
+It is recommended that you take at least 30 time measurements and record them on the following
+The board. If you feel you should take more measurements, indicate how many and why. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 
+Make a sample of data that you've experimentally obtained: t, x, and. 
+- 
+Resolves and/or answers the following questions: 
+(a) Should the height of the surface on which the sphere falls be taken into account when measuring 
+the vertical distance and? Why? Why? 
+(b) Using the appropriate equation as stated in the comment, calculate the time t which 
+The sphere is slow to fall into the container. Write the equation that relates y to t. 
+(c) Compare the time calculated in (b) with the average time of your measurements 
+the previously made. Calculate the percentage error. It explains why.
+You don't get exactly the measurement calculated analytically. 
+(d) Calculate the value of the horizontal and vertical velocity of the sphere. 
+(e) Calculate the speed at which the sphere hits the floor. 
+(f) Range is the horizontal distance through the sphere. He writes: 
+The equation for calculating the range: 
+Calculate the scope for this situation: 
+Forecast of the scope: 
+g) Compare the actual range of the sphere with your prediction. It explains why.
+You don't get exactly the measurement calculated analytically. 
+(h) What can be the cause of the sphere not hitting the target? 
+(i) What role do you think air resistance played in this experiment? 
+(j) Write down all the approaches you consider can contribute to a better one 
+Resolution of this examination.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p73_f1.png]]
+![[cuadernillo_2004_p74_f2.png]]
+![[cuadernillo_2004_p75_f3.png]]
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Ball (object)|Ball]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q106" data-atom="q106" data-title="Argent 2004 Locale — Quesito 106" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE14: Empuje y densidad de liquido incognita**
+
+PE14. Ciudad de Córdoba. Azul. 
+ 
+Objetivo: 
+- 
+Medir el Empuje que un líquido incógnita ejerce cobre un cuerpo metálico macizo, 
+completamente sumergido. 
+- 
+Medir la densidad de ese líquido. 
+ 
+Elementos: 
+- 
+1 vaso de precipitado de 250 ml aforado 
+- 
+1 vaso de precipitado de 10 ml aforado, con hilo pegado para poder colgarlo 
+- 
+1 soporte universal con una nuez con agarradera metálica 
+- 
+1 dinamómetro (0-2.5)N 
+- 
+500 ml líquido incógnita 
+- 
+1 taco de madera 
+- 
+1 cuerpo metálico macizo con un gancho 
+ 
+Requerimientos: 
+Solo podrá utilizar los elementos provistos, papel, lapicera y calculadora no programable. 
+Al finalizar el trabajo deberá presentar un informe que incluya los siguientes puntos: 
+- 
+Esquema de los dispositivos experimentales utilizados 
+- 
+Descripción y fundamentación del diseño utilizado 
+- 
+Diagrama de cuerpo libre del cuerpo metálico macizo completamente sumergido en el 
+líquido. 
+- 
+Cuadro de valores de las mediciones realizadas 
+- 
+Resultados obtenidos con sus correspondientes errores 
+- 
+Tanto para la determinación del Empuje como de la Densidad buscada: De todas las 
+mediciones directas realizadas, ¿cuál es el factor que, de hacer esta experiencia 
+nuevamente, ud. se preocuparía de medir con menor error la próxima vez? Justifique. 
+- 
+Respuesta justificada a la pregunta: ¿Es posible que el líquido incógnita sea agua? 
+- 
+Comentarios 
+ 
+Datos: 
+- 
+La densidad del agua es (1,00±0,03)g / cm3 
+- 
+En Córdoba, la aceleración de la gravedad es (9,79±0,01)m / s2
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE14: Pulsore e densità di liquido incognito**
+
+PE14. Città di Córdoba. Blu. 
+ 
+Obiettivo: 
+- 
+Misurare la spinta che un liquido incognito esercita copre un corpo metallico massiccio,
+completamente immerso. 
+- 
+Misurare la densità di quel liquido. 
+ 
+Elementi: 
+- 
+1 bicchiere di precipitato di 250 ml risparmiato 
+- 
+1 bicchiere di precipitato di 10 ml risparmiato, con filo attaccato per poterlo appendere 
+- 
+1 supporto universale con un'aria di noce con una catapulta metallica 
+- 
+1 dinamometro (0-2.5) N
+- 
+500 ml di liquido incognito 
+- 
+1 palo di legno 
+- 
+1 corpo metallico massiccio con un gancio 
+ 
+Requisiti: 
+Può utilizzare solo gli elementi forniti, carta, lapislatura e calcolatore non programmabile. 
+Al termine del lavoro, deve presentare un rapporto che include i seguenti punti: 
+- 
+Schema dei dispositivi sperimentali utilizzati 
+- 
+Descrizione e motivazione del design utilizzato 
+- 
+Diagramma di corpo libero del corpo metallico massiccio completamente immerso nel
+liquido. 
+- 
+Quadro dei valori delle misurazioni effettuate 
+- 
+Risultati ottenuti con i propri errori
+- 
+Per determinare sia la spinta che la densità desiderata:
+Le misure dirette effettuate, qual è il fattore che, di fare questa esperienza 
+Ancora una volta, Ud. Ti preoccuperai di misurare con meno errore la prossima volta? giustifica. 
+- 
+Risposta giustificata alla domanda: è possibile che il liquido incognito sia acqua? 
+- 
+Commenti 
+ 
+Datati: 
+- 
+La densità dell'acqua è (1,00±0,03) g / cm3 
+- 
+A Córdoba, l'accelerazione della gravità è (9,79±0,01)m/s2
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE14: Incognito liquid thrust and density**
+
+PE14. The city of Cordoba. Blue, please. 
+ 
+The objective: 
+- 
+Measure the thrust that an unknown liquid exert covers a solid metal body,
+completely submerged. 
+- 
+Measure the density of that liquid. 
+ 
+The following elements: 
+- 
+1 glass of 250 ml of precipitated savings 
+- 
+1 glass of 10 ml of precipitated water saved, with thread glued to allow it to be hung 
+- 
+1 universal support with a nut with a metal grip
+- 
+The following conditions shall apply:
+- 
+500 ml of unknown liquid 
+- 
+1 wooden stick 
+- 
+1 solid metal body with a hook 
+ 
+Requirements: 
+You may only use the items provided, paper, pencil and non-programmable calculator. 
+At the end of the work, a report shall be submitted, including the following: 
+- 
+Schedule of experimental devices used 
+- 
+Description and justification of the design used 
+- 
+Free-body diagram of the solid metal body completely submerged in the
+liquid. 
+- 
+Table of measurement values 
+- 
+Results obtained with their corresponding errors 
+- 
+For both the determination of the thrust and the density sought:
+direct measurements made, what is the factor that, of making this experiment 
+Again, you. Would you care to measure with less error next time? You justify it. 
+- 
+Justified answer to the question: Is it possible that the unknown liquid is water? 
+- 
+Comments from the press
+ 
+The data: 
+- 
+The density of water is (1,00±0.03) g / cm3 
+- 
+In Cordoba, the acceleration of gravity is (9,79±0.01)m/s2
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q107" data-atom="q107" data-title="Argent 2004 Locale — Quesito 107" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/multi,object/spring"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE15: Oscilaciones y ley de Hooke**
+
+PE15. Resistencia, Chaco. Verde. 
+ 
+Tema: Oscilaciones 
+Objeto del trabajo: Estudiar la ley que rige el comportamiento de los cuerpos elásticos frente a 
+pequeñas deformaciones: 
+- 
+Primera parte: Determinar la constante de recuperación de un cuerpo elástico (resorte 
+y banda) 
+- 
+Segunda parte: Analizar el comportamiento dinámico de un resorte. 
+Procedimiento: 
+Primera Parte: Armar el equipo y realizar varias determinaciones (utilizar varias cargas distintas) a fin 
+de determinar la constante de recuperación del cuerpo elástico (Ley de Hooke). Realizar la 
+representación gráfica. 
+Segunda Parte: Determinar el periodo de oscilación (realizar 20 oscilaciones para obtener el periodo T 
+de cada oscilación) para una carga conocida, para proceder a calcular la constante K. en este caso tener 
+en cuenta: 
+1. Que para una oscilación armónica, la aceleración está relacionada con un desplazamiento 
+como a=-w2 ∆x. 
+2. La expresión matemática de la segunda ley de Newton. 
+
+3. Relacionar 1 y 2 con la expresión de la ley de Hooke y obtener la expresión necesaria para el 
+cálculo de la constante K. (recordar que T = 2 π/w) 
+Tercera Parte: Comparar las constantes obtenidas en ambos casos. 
+Materiales: 
+- 
+Soporte universal 
+- 
+Resorte helicoidal 
+- 
+Platillo 
+- 
+Agarradera 
+- 
+Cronómetro 
+- 
+Cargas 
+- 
+Balanza 
+- 
+Elementos de geometría 
+- 
+Tijera 
+- 
+Papel milimetrado 
+Informe: 
+El informe del experimento debe incluir las siguientes partes: 
+1. Esquema y descripción en detalle del armado del equipo para estudiar la ley que rige el 
+comportamiento de los cuerpos elásticos frente a pequeñas deformaciones. 
+2. Explicación de los conceptos físicos utilizados para la realización de las prácticas. Deducción 
+de las fórmulas utilizadas. 
+3. Explicación del procedimiento experimental seguido para cada una de las prácticas. 
+4. Realización de cálculos correspondientes. 
+5. Confección de las gráficas correspondientes. 
+6. Propuestas para tratar con las fuentes posibles de error a fin de mejorar los resultados 
+obtenidos. 
+7. Conclusiones.
+
+**Topic:** [[Oscillations & Waves]], [[Elasticity & Materials]]
+**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Spring (object)|Spring]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE15: Oscillazioni e legge di Hooke**
+
+PE15. Resistenza, Chaco. Verde. 
+ 
+Tema: Oscillazioni 
+Obiettivo del lavoro: studiare la legge che governa il comportamento dei corpi elastici rispetto a
+piccole deformazioni: 
+- 
+Parte 1: Determinare la costante di recupero di un corpo elastico (resort 
+e banda) 
+- 
+Parte 2: Analizzare il comportamento dinamico di una primavera. 
+Procedura: 
+Parte 1: Armatare l'equipaggiamento e fare varie determinazioni (utilizzare diverse cariche diverse) per
+La legge di Hooke è la legge che determina la costante di recupero del corpo elastico. Realizzare il
+Rappresentazione grafica. 
+Parte II: Determinazione del periodo di oscillazione (realizzare 20 oscillazioni per ottenere il periodo T 
+per ogni oscillazione) per una carica nota, per procedere al calcolo della costante K. In questo caso avere 
+in considerazione: 
+1. Che per un'oscillazione armonica, l'accelerazione è correlata a un spostamento.
+come a=-w2 ∆x. 
+2. L'espressione matematica della seconda legge di Newton. 
+
+3. Relazionare 1 e 2 con l'espressione della legge di Hooke e ottenere l'espressione necessaria per il
+Calcolo della costante K. (ricordare che T = 2 π/w) 
+Parte III: confrontare le costanti ottenute in entrambi i casi. 
+Materiali: 
+- 
+Supporto universale 
+- 
+Resortimento a ghiaccio
+- 
+Plateau
+- 
+Agganciatelo
+- 
+Cronometro
+- 
+Carrieri
+- 
+Sbalzo
+- 
+Elementi di geometria 
+- 
+Scialdo
+- 
+Papero millimetrico 
+Rapporto: 
+Il rapporto dell'esperimento deve contenere le seguenti parti: 
+1. Schema e descrizione dettagliata dell'armatura dell'equipaggio per studiare la legge che governa il
+il comportamento dei corpi elastici in presenza di piccole deformazioni. 
+2. Esplorazione dei concetti fisici utilizzati per realizzare le pratiche. Deduzione 
+di tutte le formule utilizzate. 
+3. Una spiegazione del procedimento sperimentale seguito per ciascuna delle pratiche. 
+4. Realizzazione di calcoli corrispondenti. 
+5. Confezione dei grafici corrispondenti. 
+6. Proposte per affrontare le possibili fonti di errore per migliorare i risultati 
+ottenute. 
+7. Conclusioni.
+
+**Topic:** [[Oscillations & Waves]], [[Elasticity & Materials]]
+**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Spring (object)|Spring]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE15: Oscillations and Hooke's law**
+
+PE15. Resistance, Chaco. What is it? Green, please. 
+ 
+Subject: Oscillations
+The aim of the paper is to study the law governing the behaviour of elastic bodies in relation to
+small deformities: 
+- 
+Part one: Determine the recovery constant of an elastic body (resort 
+and band) 
+- 
+Part two: Analyzing the dynamic behavior of a spring. 
+The procedure: 
+Part One: Arming the equipment and performing various determinations (using several different loads) to
+The first step is to determine the elastic body recovery constant (Hooke's Law). The implementation of the
+Graphic representation. 
+Part Two: Determine the oscillation period (do 20 oscillations to obtain the period T 
+For a known load, to proceed to calculate the constant K. In this case, have 
+taking into account: 
+1. That for a harmonic oscillation, acceleration is related to a displacement.
+as a=-w2 ∆x. 
+2. The mathematical expression of Newton's second law. 
+
+3. Relate 1 and 2 to the expression of Hooke's law and get the expression needed for the 
+Calculation of the constant K. (remember that T = 2 π/w) 
+Part Three: Compare the constants obtained in both cases. 
+Materials: 
+- 
+Universal support 
+- 
+Helical spring 
+- 
+Plate 
+- 
+Grab it .
+- 
+The time-meter .
+- 
+Loads 
+- 
+Weighing 
+- 
+Elements of geometry 
+- 
+Scaffolding
+- 
+Millimeter paper 
+Report: 
+The experiment report shall include the following parts: 
+1. Detailed outline and description of the equipment used to study the law governing the
+the behaviour of elastic bodies in the face of small deformities. 
+2. Explanation of the physical concepts used for the implementation of the practices. The deduction 
+the formulas used. 
+3. Explanation of the experimental procedure followed for each practice. 
+4. The calculation shall be carried out accordingly. 
+5. The corresponding graphics are drawn up. 
+6. Proposals to address possible sources of error in order to improve results 
+obtained. 
+7. I'm going to draw conclusions.
+
+**Topic:** [[Oscillations & Waves]], [[Elasticity & Materials]]
+**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Spring (object)|Spring]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q108" data-atom="q108" data-title="Argent 2004 Locale — Quesito 108" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/cart"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE16: Velocidad y distancia en MRU (cronovibrador)**
+
+PE16. Ciudad de Formosa. Azul. 
+ 
+Objeto: 
+- 
+Determinar la relación que existe entre la velocidad de un móvil y la distancia que 
+recorre con movimiento uniforme. 
+Materiales: 
+- 
+Carrito 
+- 
+Cinta adhesiva 
+- 
+Cinta de papel 
+- 
+Conexión 1.000 R (2) 
+- 
+Cono de poleas 
+- 
+Cronovibrador 
+- 
+Disco de papel de calco de 40 mm Ø 
+- 
+Eje tambor 
+- 
+Fuente de alimentación 
+- 
+Gancho 
+- 
+Hilo de nylón de 0,4 mm Ø 
+- 
+Junta tórica 
+- 
+Metro metálico 
+- 
+Motor reductor 
+- 
+Nuez doble 
+- 
+Papel milimetrado 
+- 
+Plano con guía central 
+- 
+Tornillo de mesa (2) 
+- 
+Triple decímetro 
+- 
+Varilla de 250 mm (2) 
+- 
+Vástago de acero 
+
+Instrucciones: 
+La cinta de papel se fija al carrito con cinta adhesiva y se hace pasar por las guías del cronovibrador 
+procurando que deslice suavemente y que no aparezcan dobleces que perturbarían  las medidas. El 
+disco de papel de calco se coloca de modo que la cara de carbón mire a la cinta. En el otro lado del 
+carrito se ata un trocito de hilos de unos 70 cm de longitud. El extremo libre del hilo se pasa por el 
+orificio que tiene el vástago y se ata de modo que, al girar, se enrolle a su alrededor. Al girar el motor, 
+se enrolla la cuerda en el eje y tira del carrito que se mueve con v=cte. 
+Calculos y resultados: 
+Como el número de marcas obtenidas en la cinta es excesivo, para simplificar los cálculos, sólo se 
+considerarán significativos los ptos 5º, 10º, 15º, 20º… etc. Como el tiempo que transcurre en dos 
+marcas consecutivas es 0,02 seg., el tiempo que pasa entre dos ptos significativos es 0,02 . 5 = 0,1 seg. 
+A continuación se confecciona una tabla de valores semejante a la sgte: 
+ 
+Puntos 
+t 
+(s) 
+d 
+(cm) 
+v 
+(cm/s) 
+1 
+0,1 
+ 
+ 
+2 
+0,2 
+ 
+ 
+3 
+0,3 
+ 
+ 
+4 
+0,4 
+ 
+ 
+ 
+Para calcular las velocidades en cada pto. Q, se toma como intervalo de medida la distancia 
+comprendida entre el pto. anterior al Q y el sgte. a este y a continuación se calcula la velocidad media 
+en ese intervalo. 
+a) Compruébese si las velocidades obtenidas son aproximadamente iguales y, en tal caso, hállese 
+el valor medio. 
+b) Dibuje una gráfica en el papel milimetrado, poniendo las distancia recorridas en ordenadas y 
+los tiempos en abcisas.
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Cart (object)|Cart]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE16: velocità e distanza in MRU (cronovibratore)**
+
+PE16. Città di Formosa. Blu. 
+ 
+Oggetto: 
+- 
+Determinare il rapporto tra la velocità di un cellulare e la distanza che
+si muove in modo uniforme. 
+Materiali: 
+- 
+Carro .
+- 
+Cose di adesivo 
+- 
+Pinta di carta 
+- 
+Connessione 1.000 R (2) 
+- 
+Conno di pollice
+- 
+Vibratore cronovibratore 
+- 
+Disco di calco di 40 mm Ø 
+- 
+- Un'axe tamburo .
+- 
+Fonte di alimentazione 
+- 
+Hoccho 
+- 
+Felli di nylon di 0,4 mm Ø 
+- 
+- Convegno toraico .
+- 
+Metrometro metallico 
+- 
+Motore riduttore 
+- 
+Nove doppi
+- 
+Papero millimetrico 
+- 
+Piano con guida centrale 
+- 
+Torino da tavolo (2) 
+- 
+Triplice decimetro
+- 
+Settimo di 250 mm (2) 
+- 
+Vastago di acciaio
+
+Instruzioni: 
+La cinta di carta viene fissata al carrello con una cinta adesiva e viene impersonata dalle guide del cronovibratore
+assicurando che gli spostamenti siano facili e che non si verifichino raddoppiamenti che disturbino le misure. El 
+disco di calco è posto in modo che la faccia di carbone si affaccia sulla cinta. L'altra parte del 
+Carro è legato un pezzo di filo di circa 70 cm di lunghezza. L'estremità libera del filo passa attraverso il
+il tronco si attacca così che, girando, si rotola intorno. Quando gira il motore,
+si rotola la corda sull'asse e si tira il carrello che si muove con v=cte. 
+Calcoli e risultati: 
+Poiché il numero di marchi ottenuti sulla cinta è eccessivo, per semplificare i calcoli, si è solo
+Considerano significativi i punti 5, 10, 15, 20o… ecc. Come il tempo che passa in due 
+La durata di un'intervallo di tempo tra due punti significativi è di 0,02 seg. 5 = 0,1 seg. 
+La tabella di valori simile alla sgte è quindi elaborata: 
+ 
+Punti
+t 
+(s) 
+d 
+(cm) 
+v 
+(cm/s) 
+1 
+0,1 
+ 
+ 
+2 
+0,2 
+ 
+ 
+3 
+0,3 
+ 
+ 
+4 
+0,4 
+ 
+ 
+ 
+Per calcolare le velocità in ogni punto. Q, si prende come intervallo di misura la distanza 
+Il numero di persone che hanno diritto all'aiuto è il numero di persone che hanno diritto all'aiuto. prima di Q e sgte. a questo e poi si calcola la velocità media 
+in quel periodo. 
+a) Verificare se le velocità ottenute sono approssimativamente uguali e, in tal caso,
+il valore medio. 
+b) Disegnare un grafico su carta millimetrica, mettendo le distanze percorse in ordine e 
+I tempi in abcissa.
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Cart (object)|Cart]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE16: Speed and distance in MRU (chronovibration) **
+
+PE16. The city of Formosa. Blue, please. 
+ 
+Subject: 
+- 
+Determine the relationship between the speed of a mobile phone and the distance it travels.
+It moves uniformly. 
+Materials: 
+- 
+Carriage .
+- 
+Other, not further worked than hot-rolled
+- 
+Paper tape 
+- 
+Connection 1000 R (2) 
+- 
+Pulley cone
+- 
+The time-shifter .
+- 
+40 mm alloy paper disc Ø 
+- 
+Drum axis
+- 
+Power supply 
+- 
+Hook .
+- 
+0,4 mm nylon thread Ø 
+- 
+Thoracic joint
+- 
+Metallic subway .
+- 
+Reducing engine
+- 
+Nine double .
+- 
+Millimeter paper 
+- 
+Plan with central guidance 
+- 
+Table screw (2) 
+- 
+Three-tenths of a second .
+- 
+250 mm rod (2) 
+- 
+Steel waste
+
+Instructions: 
+The paper tape is attached to the cart with adhesive tape and is passed through the timing vibrator guides.
+The Commission shall, by means of implementing acts, adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2008 and with Article 21 of Regulation (EC) No 1272/2008.'; El 
+The calcium paper disc is placed so that the coal face looks at the tape. On the other side of the 
+The carriage is a piece of yarn about 70 cm long. The free end of the thread passes through the
+The trunk is a hole in the stem and is attached so that when it turns, it rolls around. When you turn the engine,
+The rope is rolled on the axle and pulled from the cart moving with v=cte. 
+Calculations and results: 
+As the number of marks obtained on the tape is excessive, to simplify the calculations, only you 
+They shall consider the 5th, 10th, 15th, 20th and so on to be significant. Like the time that passes in two.
+The time between consecutive marks is 0.02 seconds, the time between two significant points is 0.02 seconds. 5 = 0.1 sec. 
+A table of values similar to the sgte is created below: 
+ 
+Points 
+t 
+(s) 
+d 
+(cm) 
+v 
+(cm/s) 
+1 
+0,1 
+ 
+ 
+2 
+0,2 
+ 
+ 
+3 
+0,3 
+ 
+ 
+4 
+0,4 
+ 
+ 
+ 
+To calculate the speeds at each point. Q, is taken as the distance measurement interval 
+The Commission has not yet taken any further action. before Q and sgte. This and then the average speed is calculated.
+In that interval. 
+(a) Check whether the speeds obtained are approximately the same and, in this case, get it
+the mean. 
+(b) Draw a graph on millimeter paper, placing the distances traveled in order and
+The times in the abyss.
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Cart (object)|Cart]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q109" data-atom="q109" data-title="Argent 2004 Locale — Quesito 109" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE17: Peso especifico de un cuerpo liviano (telgopor)**
+
+PE17. San Salvador de Jujuy. Azul y Verde. 
+ 
+Objetivo:  
+- 
+Determinar el peso específico de un cuerpo liviano ( telgopor) 
+Elementos a utilizar: 
+- 
+Vaso plástico 
+- 
+Agua ( peso específico 1 grf/cm3) 
+- 
+Balanza electrónica 
+- 
+Hilo 
+- 
+Cuerpo de telgopor 
+- 
+Cuerpo metálico 
+Requerimientos: 
+Presente los resultados en un informe que contenga: 
+1- La descripción del procedimiento efectuado. 
+2- Los valores experimentales obtenidos por mediciones directas realizadas por Ud. 
+3- El cálculo del peso específico solicitado. 
+4- La determinación de los errores experimentales para cada una de las mediciones y para el 
+resultado de lo solicitado.
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE17: peso specifico di un corpo leggero (telgopor)**
+
+PE17. San Salvatore di Jujuy. Blu e verde. 
+ 
+Obiettivo: 
+- 
+Determinare il peso specifico di un corpo leggero (telgopor) 
+Elementi da utilizzare: 
+- 
+Vaso di plastica 
+- 
+Acqua (peso specifico 1 grf/cm3) 
+- 
+Balance elettronica 
+- 
+Il filo
+- 
+Corpo di telgopor 
+- 
+Corpo metallico 
+Requisiti: 
+Presenta i risultati in un rapporto contenente: 
+1- Descrizione della procedura effettuata. 
+2- I valori sperimentali ottenuti da misurazioni dirette effettuate da voi. 
+3- Calcolo del peso specifico richiesto. 
+4- Determinazione degli errori sperimentali per ciascuna misurazione e per il
+risultato della richiesta.
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE17: Specific weight of a lightweight body (telgopore) **
+
+PE17. San Salvador de Jujuy. He is a saint. Blue and Green. 
+ 
+The objective: 
+- 
+Determine the specific weight of a lightweight body (telgopor) 
+Elements to be used: 
+- 
+Plastic glass 
+- 
+Water (specific weight 1 grf/cm3) 
+- 
+Electronic balance sheet 
+- 
+I 'm not .
+- 
+The body of telgopor 
+- 
+Metal body 
+Requirements: 
+Present the results in a report containing: 
+1- Description of the procedure carried out. 
+2- Experimental values obtained from direct measurements made by you. 
+3- The calculation of the specific weight requested. 
+4- Determination of experimental errors for each of the measurements and for the
+result of the requested.
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q110" data-atom="q110" data-title="Argent 2004 Locale — Quesito 110" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE18: Calor absorbido por el agua al calentar**
+
+PE18. Dos de Mayo, Misiones. Azul. 
+ 
+Materiales: 
+- 
+Mechero 
+- 
+Termómetro 
+- 
+Probeta 
+
+- 
+Vaso de precipitados o Erlenmeyer 
+- 
+Trípode 
+- 
+Malla metálica 
+Desarrollo: 
+1- Mide con la probeta una cantidad de agua, adecuada para que puedas colocarla en el vaso de 
+precipitados o erlenmeyer y arma el dispositivo como indica la figura a. 
+a. 
+ 
+ 
+2- Mide la temperatura del agua. 
+3- Enciende el mechero y calienta el agua durante aproximadamente dos minutos 
+4- Mide la temperatura final del agua 
+5- Con los datos obtenidos determina la cantidad de calor que absorbió el agua en ese tiempo; 
+indicando el posible error en las mediciones y en el resultado final del calor. 
+6- Presenta un informe detallando lo que hiciste y los resultados que obtuviste
+
+
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE18: Calore assorbito dall'acqua durante il riscaldamento**
+
+PE18. Due maggio, missioni. Blu. 
+ 
+Materiali: 
+- 
+Mechero 
+- 
+Termodermico
+- 
+Prova
+
+- 
+Vaso di precipitazioni o Erlenmeyer 
+- 
+Tripiede
+- 
+Malla metallica 
+Sviluppo: 
+1- Misura con la prova una quantità di acqua sufficiente per poterla mettere nel bicchiere di 
+La macchina è stata presa in fretta o rimessa a fuoco e armata come indicato nella figura a. 
+a. 
+ 
+ 
+2- Misura la temperatura dell'acqua. 
+3- Accendi il lampadino e riscaldati l'acqua per circa due minuti 
+4- Misura la temperatura finale dell'acqua 
+5- Con i dati ottenuti determina la quantità di calore assorbita dall'acqua in quel tempo; 
+indicando il possibile errore nelle misurazioni e nel risultato finale del calore. 
+6- Presentare un rapporto che descriva in dettaglio ciò che hai fatto e i risultati ottenuti
+
+
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE18: Heat absorbed by water when heated**
+
+PE18. May 2nd, missions. Blue, please. 
+ 
+Materials: 
+- 
+I 'm a mechanic .
+- 
+Thermometer .
+- 
+Try it .
+
+- 
+A glass of precipitate or Erlenmeyer 
+- 
+Tripod .
+- 
+Metallic foam
+Development of the Community: 
+1- Measure with the sample an adequate amount of water so that you can place it in the glass of water.
+The device shall be rapidly or erlenmeyer and arm as indicated in Figure a. 
+a. 
+ 
+ 
+2- Measure the water temperature. 
+3- Turn on the lighter and heat the water for about two minutes 
+4- Measures the final water temperature 
+5- Using the data obtained, it determines the amount of heat absorbed by the water during that time. 
+indicating the possible error in the measurements and the final heat result. 
+6- Report in detail what you did and the results you got
+
+
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q111" data-atom="q111" data-title="Argent 2004 Locale — Quesito 111" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/4,multidisciplina/mono,object/tank-container,object/rod"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE19: Indice de refraccion por quiebre aparente**
+
+PE19. San Carlos de Bariloche, Río Negro. Azul y Verde. 
+ 
+Se quiebra pero no se dobla. 
+Consideraciones teóricas. 
+El aparente quiebre de un objeto cilíndrico colocado “fuera del centro” en un 
+recipiente que está lleno de agua puede usarse para medir el índice de 
+refracción del agua (o de otro líquido). Para ello utilizaremos un recipiente 
+cilíndrico transparente conteniendo agua y un conjunto de varillas cilíndricas 
+de distintos diámetros. 
+Si se sostiene la varilla en el centro del recipiente cilíndrico, que contiene agua, 
+con la mitad de su longitud sumergida y se observa la varilla al mismo nivel 
+horizontal que la superficie del agua, observarás que la parte sumergida se ve 
+más ancha. Puede demostrarse fácilmente que la “magnificación” de la porción 
+sumergida de la varilla localizada en el centro (o en un plano que atraviese el 
+centro) es n, el índice de refracción del agua. Esto quiere decir que si la varilla 
+tiene un diámetro d, la parte sumergida se verá con un diámetro igual a 
+d
+n ⋅
+. 
+Ahora, si movemos la varilla alejándola del centro, en ángulo recto a tu línea 
+de visión, notarás un aparente quiebre en la misma al nivel de la superficie del 
+agua. Cuando la varilla se ubique a una distancia crítica x a partir del borde del 
+recipiente, el quiebre será suficiente para que justo aparezca desplazarse la 
+imagen sumergida de la varilla por un ancho de varilla, a partir de la porción 
+por encima de la superficie del agua (ver figura). 
+Si se moviera un poco más cerca hacia el borde del recipiente, las porciones superior e inferior de la 
+varilla aparecerían completamente quebradas. Inténtalo (este defecto solamente puede observarse si el 
+ancho de la varilla no es mayor que alrededor de un décimo del diámetro del recipiente). 
+Si registramos la distancia crítica (x) entre el borde derecho de la varilla y el borde del recipiente 
+cilíndrico, podremos determinar el índice de refracción del líquido. Para que la medición sea 
+ 
+
+confiable, es esencial que el centro de la varilla se encuentre a lo largo de un diámetro 
+perpendicular a tu línea de visión. 
+Para poder encontrar una expresión que nos permita obtener el índice de refracción buscado, podemos 
+hacer las siguientes consideraciones: 
+- 
+El ancho de la porción sumergida “magnificada” de la varilla, es 
+d
+n ⋅
+. 
+- 
+Por el mismo criterio será 
+1
+2
+r
+n
+r
+⋅
+=
+ (ver figura). 
+- 
+En consecuencia como se aprecia en el gráfico: 
+1
+1
+1
+2
+r
+r
+n
+d
+n
+r
+r
+d
+n
+−
+⋅
+=
+⋅
+−
+=
+⋅
+ 
+Si agrupamos en el segundo miembro los términos con η y sacamos factor común nos 
+queda: 
+)1
+)(
+( 1
+1
+1
+1
+ecuación
+d
+r
+n
+r
+d
+n
+r
+n
+r
+−
+=
+⋅
+−
+⋅
+=
+ 
+Pero si observamos en el dibujo vemos que: 
+)
+2
+(
+2
+1
+ecuación
+x
+D
+r
+−
+=
+ 
+Por lo que podemos reemplazar r1 de la ecuación 2 en la ecuación 1, y despejar 
+nuestra incógnita que es n. Esto significa que si medimos con la regla el diámetro de 
+la varilla (d), el diámetro del recipiente (D) y la distancia entre los bordes de la varilla 
+y el recipiente (x), podremos determinar el índice de refracción del líquido utilizado, 
+que en este caso es agua. Para una mayor precisión se han medido los diámetros de las 
+varillas cilíndricas con un calibre y se obtuvieron los valores indicados al final de la 
+hoja. 
+Objetivo de la experiencia: Determinar el índice de refracción (n) del agua aprovechando las 
+propiedades de la refracción de la luz en un recipiente cilíndrico. 
+Elementos disponibles: Para realizar esta experiencia se dispone de: 
+- 
+Un vaso cilíndrico transparente. 
+- 
+Un conjunto de 6 varillas cilíndricas de distintos diámetros. 
+- 
+Una varilla de madera y un broche para sostener las varillas. 
+- 
+Una regla milimetrada. 
+- 
+Agua. 
+Requerimientos: 
+- 
+Se te pide que reemplaces r1 de la ecuación 2 en la ecuación 1 y despejes el índice de 
+refracción n, con el fin de encontrar la expresión que te permita determinarlo. 
+- 
+Determinar el índice de refracción del agua, con su correspondiente error asociado. 
+- 
+Al finalizar la experiencia se deberá entregar un informe donde conste: 
+• Planteo del problema. 
+• Método experimental utilizado. 
+• Resultados obtenidos y evaluación del error asociado. 
+• Discusión y comentarios. 
+Datos: 
+Diámetros de las varillas cilíndricas: 
+- 
+d1 = 3,3 mm ± 0,1 mm 
+- 
+d2 = 4,2 mm ± 0,1 mm 
+- 
+d3 = 5,2 mm ± 0,1 mm 
+- 
+d4 = 5,9 mm ± 0,1 mm 
+- 
+d5 = 7,4 mm ± 0,1 mm 
+- 
+d6 = 8,0 mm ± 0,1 mm
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p79_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rod (object)|Rod]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE19: Indice di rifrazione per apparente rottura**
+
+PE19. San Carlo di Bariloche, Rio Negro. Blu e verde. 
+ 
+Si rompe, ma non si piega. 
+Considerazioni teoriche. 
+L'apparente rottura di un oggetto cilindrico posto fuori dal centro in un
+contenitore pieno di acqua può essere usato per misurare l'indice di
+refraczione dell'acqua (o di un altro liquido). Per questo usiamo un recipiente.
+cilindrico trasparente contenente acqua e un insieme di bastone cilindrici 
+di diversi diametri. 
+Se il bastone è tenuto al centro del recipiente cilindrico, contenente acqua, 
+con la metà della sua lunghezza immersa e si osserva la verga allo stesso livello 
+L'acqua è più alta che la superficie, e la parte immersa è più alta.
+più ampia. Si può dimostrare facilmente che la magnificazione della porzione 
+immersione della verga situata al centro (o in un piano che attraversa il
+centro) è n, l'indice di refraczione dell'acqua. Questo significa che se il bastone
+ha un diametro d, la parte immersa verrà vista con un diametro uguale a 
+d
+n ⋅
+. 
+Ora, se muoviamo la bacchetta allontanandola dal centro, a un angolo retto alla tua linea
+Se si vede un'apparente rottura in esso a livello della superficie del
+acqua. Quando la verga è situata a una distanza critica x dal bordo del 
+Container, la rottura sarà sufficiente per farsi vedere solo spostare la
+immagine immersa del bastone per una larghezza di bastone, a partire dalla porzione 
+al di sopra della superficie dell'acqua (vedi figura). 
+Se si avvicinasse un po' più vicino al bordo del recipiente, le porzioni superiore e inferiore del recipiente
+la verga sarebbe apparsa completamente rotta. Prova (questo difetto può essere osservato solo se il
+La larghezza della canna non è superiore a circa un decimo del diametro del recipiente). 
+Se registriamo la distanza critica (x) tra il bordo destro del bastone e il bordo del recipiente 
+E' un'ottica cilindrica, quindi possiamo determinare l'indice di refraczione del liquido. Per far sì che la misurazione sia
+ 
+
+affidabile, è essenziale che il centro della bacchetta sia lungo un diametro
+perpendicolare alla tua linea di vista. 
+Per poter trovare un'espressione che ci permetta di ottenere l'indice di refraczione ricercato, possiamo 
+prendere in considerazione: 
+- 
+La larghezza della porzione immersa magnificata della canna è 
+d
+n ⋅
+. 
+- 
+Per lo stesso criterio sarà
+1
+2
+r
+n
+r
+⋅
+=
+(vedi figura). 
+- 
+Di conseguenza, come si vede nel grafico: 
+1
+1
+1
+2
+r
+r
+n
+d
+n
+r
+r
+d
+n
+−
+⋅
+=
+⋅
+−
+=
+⋅
+ 
+Se nel secondo membro riunissimo i termini con η e trattiamo il fattore comune
+rimane: 
+)1
+)(
+( 1
+1
+1
+1
+Equatoria
+d
+r
+n
+r
+d
+n
+r
+n
+r
+−
+=
+⋅
+−
+⋅
+=
+ 
+Ma se guardiamo il disegno, vediamo che:
+)
+2
+(
+2
+1
+Equatoria
+x
+D
+r
+−
+=
+ 
+Quindi possiamo sostituire r1 dell'equazione 2 nell'equazione 1, e chiarire 
+la nostra incognita che è n. Questo significa che se misuriamo con la regola il diametro di 
+il bastone (d), il diametro del recipiente (D) e la distanza tra i bordi del bastone 
+e il recipiente (x), possiamo determinare l'indice di refraczione del liquido utilizzato,
+che in questo caso è acqua. Per un'accuratezza maggiore, i diametri dei
+I valori indicati alla fine del test sono stati ottenuti.
+foglio. 
+L'obiettivo dell'esperienza: determinare l'indice di refraczione (n) dell'acqua utilizzando le
+proprietà di refraczione della luce in un recipiente cilindrico. 
+Elementi disponibili: Per realizzare questa esperienza si dispone di: 
+- 
+Un bicchiere cilindrico trasparente. 
+- 
+Un insieme di 6 bastone cilindrici di diversi diametri. 
+- 
+Una bacchetta di legno e una brocca per sostenere le bacchette. 
+- 
+Una regola di millimetro. 
+- 
+- L'acqua. 
+Requisiti: 
+- 
+Vi viene chiesto di sostituire r1 dell'equazione 2 nell'equazione 1 e di cancellare l'indice di 
+la refrazione n, per trovare l'espressione che ti permetta di determinarlo. 
+- 
+Determinare l'indice di refraczione dell'acqua, con il relativo errore associato. 
+- 
+Al termine dell'esperienza è necessario presentare un rapporto che contiene: 
+• La presentazione del problema. 
+• Metodo sperimentale utilizzato. 
+• Risultati ottenuti e valutazione dell'errore associato. 
+• Discussioni e commenti. 
+Datati: 
+Diametri dei bastoni cilindrici: 
+- 
+d1 = 3,3 mm ± 0,1 mm 
+- 
+d2 = 4,2 mm ± 0,1 mm 
+- 
+d3 = 5,2 mm ± 0,1 mm 
+- 
+d4 = 5,9 mm ± 0,1 mm 
+- 
+d5 = 7,4 mm ± 0,1 mm 
+- 
+d6 = 8,0 mm ± 0,1 mm
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p79_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rod (object)|Rod]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following shall be reported:
+
+PE19. St. Charles of Bariloche, Rio Negro. Blue and Green. 
+ 
+It breaks, but it doesn't bend. 
+Theoretical considerations. 
+The apparent breakdown of a cylindrical object placed outside the centre in a
+The water content of the container can be measured by measuring the water content of the container.
+refraction of water (or other liquid). We 'll use a container for this .
+transparent cylindrical containing water and a set of cylindrical rods 
+of different diameters. 
+If the rod is held in the centre of the cylindrical container, which contains water,
+With half its length submerged and the rod at the same level
+horizontal than the surface of the water, you'll notice that the submerged part is visible 
+It's wider. It can be easily shown that the magnification of the portion 
+The rod is placed in the centre (or in a plane through the
+The centre) is n, the refractive index of water. This means that if the rod is
+It has a diameter of d, the submerged part will be seen with a diameter equal to 
+d
+n ⋅
+. 
+Now, if we move the rod away from the center, at right angles to your line.
+In the field of vision, you'll notice an apparent break in it at the surface level of the
+- What? When the rod is located at a critical distance x from the edge of the
+The break will be enough to just show up to move the
+image of the rod submerged by a rod width, from the portion 
+above the water surface (see figure). 
+If you move a little closer to the edge of the container, the upper and lower portions of the container will be
+rod would appear completely broken. Try it (this defect can only be observed if the
+the width of the rod is not greater than about one tenth of the diameter of the container). 
+If we record the critical distance (x) between the right edge of the rod and the edge of the container 
+cylindrical, we can determine the refractive index of the liquid. So that the measurement is 
+ 
+
+reliable, it is essential that the centre of the rod is located along a diameter 
+perpendicular to your line of sight. 
+To be able to find an expression that allows us to get the desired refractive index, we can 
+to take the following considerations into account: 
+- 
+The width of the submerged portion of the rod is magnified
+d
+n ⋅
+. 
+- 
+By the same criteria it will be 
+1
+2
+r
+n
+r
+⋅
+=
+(see figure). 
+- 
+Consequently as shown in the graph: 
+1
+1
+1
+2
+r
+r
+n
+d
+n
+r
+r
+d
+n
+−
+⋅
+=
+⋅
+−
+=
+⋅
+ 
+If we group the terms with η into the second member and we take the common factor we
+It is: 
+)1
+)(
+( 1
+1
+1
+1
+Equation
+d
+r
+n
+r
+d
+n
+r
+n
+r
+−
+=
+⋅
+−
+⋅
+=
+ 
+But if you look at the drawing, you see that:
+)
+2
+(
+2
+1
+Equation
+x
+D
+r
+−
+=
+ 
+So we can replace r1 of equation 2 in equation 1, and clear 
+Our unknown that is n. This means that if we measure the diameter of  with the rule
+the rod (d), the diameter of the container (D) and the distance between the edges of the rod 
+and the container (x), we can determine the refractive index of the liquid used,
+which in this case is water. For greater accuracy, the diameters of the
+The values indicated at the end of the test were obtained by using a caliber cylindrical rod.
+the leaf. 
+The objective of the experiment: to determine the refractive index (n) of water using the
+the properties of the refraction of light in a cylindrical container. 
+Available items: To carry out this experience: 
+- 
+A transparent cylindrical glass. 
+- 
+A set of 6 cylindrical rods of different diameters. 
+- 
+A wooden stick and a brooch to hold the sticks. 
+- 
+A millimeter rule. 
+- 
+- It's water. 
+Requirements: 
+- 
+You're asked to replace r1 of equation 2 in equation 1 and clear the index of 
+refraction n, in order to find the expression that allows you to determine it. 
+- 
+Determine the refractive index of the water, with its corresponding error associated. 
+- 
+At the end of the experience a report shall be submitted which shall contain: 
+• The problem is raised. 
+• Experimental method used. 
+• Results obtained and assessment of the associated error. 
+• Discuss and comment. 
+The data: 
+Diameter of cylindrical rods: 
+- 
+d1 = 3,3 mm ± 0,1 mm 
+- 
+d2 = 4,2 mm ± 0,1 mm 
+- 
+d3 = 5,2 mm ± 0,1 mm 
+- 
+d4 = 5,9 mm ± 0,1 mm 
+- 
+d5 = 7,4 mm ± 0,1 mm 
+- 
+d6 = 8,0 mm ± 0,1 mm
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p79_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rod (object)|Rod]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q112" data-atom="q112" data-title="Argent 2004 Locale — Quesito 112" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE20: Ley de enfriamiento de Newton**
+
+PE20. Ciudad de Buenos Aires. Azul. 
+ 
+Objetivo: Verificar la ley de enfriamiento de Newton 
+Introducción: 
+Todos sabemos que cuando un sistema intercambia calor con el medio varia su temperatura. La 
+relación entre la variación de la temperatura y el tiempo esta dada por una curva que se rige por la 
+formula: 
+kt
+kt
+e
+T
+T
+T
+e
+T
+T
+−
+−
+=
+∆
+⇒
++
+=
+1
+0
+1
+, donde : k es una constante que depende de los materiales utilizados, 
+de la forma y de otros factores. 
+Materiales: 
+Vasito con tapa y orificio para colocar un termómetro 
+ 
+ 
+Termómetro 
+ 
+ 
+Agua caliente 
+ 
+ 
+Papel milimetrado. 
+Desarrollo: 
+ 
+Midan la T0 del agua caliente 
+ 
+Vuelquen el agua caliente dentro del vaso 
+ 
+Durante 5 minutos y cada 30 segundos midan la temperatura del agua 
+ 
+Armen una tabal de valores. 
+ 
+Grafiquen ∆T = f (t) 
+ 
+Como la grafica obtenida debió ser una curva, lineal ícenla para poder comprobar la relación 
+buscada. 
+ 
+Presenten un informe explicando lo realizado en el trabajo. 
+ 
+Describan detalladamente la obtención de los errores de todas las cantidades medidas y 
+calculadas.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE20: Legge di raffreddamento di Newton**
+
+PE20. Città di Buenos Aires. Blu. 
+ 
+Obiettivo: Verificare la legge di Newton sul raffreddamento
+Introduzione: 
+Sappiamo tutti che quando un sistema scambia calore con il suo ambiente, la sua temperatura varia. La 
+La relazione tra variazione della temperatura e tempo è data da una curva governata dalla 
+formula: 
+kt
+kt
+e
+T
+T
+T
+e
+T
+T
+−
+−
+=
+∆
+⇒
++
+=
+1
+0
+1
+, dove: k è una costante che dipende dai materiali utilizzati,
+La forma e altri fattori. 
+Materiali: 
+Vado con un cappuccio e un foro per mettere un termometro
+ 
+ 
+Termodermico
+ 
+ 
+Acqua calda 
+ 
+ 
+Papero millimetrico. 
+Sviluppo: 
+ 
+Misurano il T0 dell'acqua calda
+ 
+Rimuovete l'acqua calda dentro il bicchiere
+ 
+Per 5 minuti e ogni 30 secondi misurano la temperatura dell'acqua
+ 
+Armati un tavolo di valori. 
+ 
+Grafica ∆T = f (t) 
+ 
+Poiché il grafico ottenuto doveva essere una curva, l'icena lineare per poter verificare la relazione
+- Cercato. 
+ 
+Presentate un rapporto che descriva quanto avete fatto sul posto di lavoro. 
+ 
+Descrivono in dettaglio l'ottenimento degli errori di tutte le quantità misurate e
+Calcolati.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE20: Newton's law of cooling**
+
+PE20. City of Buenos Aires. Blue, please. 
+ 
+Objective: Verify Newton 's law of cooling
+The Commission has also adopted a proposal for a directive on the protection of workers' rights.
+We all know that when a system exchanges heat with the environment, its temperature changes. La 
+The relationship between temperature and time variation is given by a curve governed by the
+formula: 
+kt
+kt
+e
+T
+T
+T
+e
+T
+T
+−
+−
+=
+∆
+⇒
++
+=
+1
+0
+1
+, where: k is a constant that depends on the materials used,
+The Commission has already taken a number of measures to address the problem of the situation in the Member States. 
+Materials: 
+I 'm going to use a lid and a hole to place a thermometer .
+ 
+ 
+Thermometer .
+ 
+ 
+Hot water .
+ 
+ 
+It's a millimeter piece of paper. 
+Development of the Community: 
+ 
+They measure the T0 of hot water.
+ 
+Turn the hot water inside the glass .
+ 
+For 5 minutes and every 30 seconds they measure the temperature of the water .
+ 
+Put a value board together. 
+ 
+The graph ∆T = f (t) 
+ 
+Since the graph obtained must be a linear, linear, isenic curve to check the relationship.
+I'm looking for you. 
+ 
+They shall present a report explaining what they have done at the work. 
+ 
+They describe in detail the error of all quantities measured and
+calculated.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q113" data-atom="q113" data-title="Argent 2004 Locale — Quesito 113" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/2,multidisciplina/mono,object/pendulum"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE21: Calcular g con un pendulo**
+
+PE21. Ciudad de Buenos Aires. Azul. 
+ 
+Objetivo: 
+ 
+Calcular la aceleración de la gravedad. 
+Material: 
+ 
+Péndulo 
+ 
+cronometro 
+Desarrollo: 
+ 
+Valiéndose del periodo del péndulo, calculen la g en la tierra. 
+ 
+Presenten un informe explicando lo realizado en el trabajo. 
+ 
+Describan detalladamente la obtención de los errores de todas las cantidades medidas y 
+calculadas.
+
+**Topic:** [[Oscillations & Waves]]
+**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Pendulum (object)|Pendulum]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE21: Calcolare g con un pendolo**
+
+PE21. Città di Buenos Aires. Blu. 
+ 
+Obiettivo: 
+ 
+Calcolare l'accelerazione della gravità. 
+Materiale: 
+ 
+Pendale
+ 
+cronometro 
+Sviluppo: 
+ 
+Usando il periodo del pendolo, calcolate la g sulla terra. 
+ 
+Presentate un rapporto che descriva quanto avete fatto sul posto di lavoro. 
+ 
+Descrivono in dettaglio l'ottenimento degli errori di tutte le quantità misurate e
+Calcolati.
+
+**Topic:** [[Oscillations & Waves]]
+**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Pendulum (object)|Pendulum]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE21: Calculate g with a pendulum**
+
+PE21. City of Buenos Aires. Blue, please. 
+ 
+The objective: 
+ 
+Calculate the acceleration of gravity. 
+Material: 
+ 
+The pendulum .
+ 
+The time-meter .
+Development of the Community: 
+ 
+Using the period of the pendulum, calculate the g on the ground. 
+ 
+They shall present a report explaining what they have done at the work. 
+ 
+They describe in detail the error of all quantities measured and
+calculated.
+
+**Topic:** [[Oscillations & Waves]]
+**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Pendulum (object)|Pendulum]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q114" data-atom="q114" data-title="Argent 2004 Locale — Quesito 114" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/ball,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE22: Curva de densidad de solucion de azucar**
+
+PE22. Ciudad de Buenos Aires. Azul. 
+ 
+Objetivo: Medir la curva de densidad de una solución de azúcar en agua.  
+ 
+Lista de materiales  
+• Vasos con 50g y 10g de azúcar  
+• Agua  
+• Pie  
+• Pajitas (como para tomar gaseosa)  
+• Hilo de coser  
+• Aguja  
+• Bolitas de vidrio  
+• Hojas de papel con cuadriculado de 1cm x1cm  
+• Regla milimetrada  
+
+• Probeta graduada  
+ 
+Explicación Teórica 
+Cuando se introduce un objeto en un líquido de densidad δ aparece una fuerza sobre este objeto 
+llamada empuje; que se calcula como E=δ.g.V donde δ es la densidad del líquido, g es la gravedad y V 
+es el volumen del objeto sumergido. 
+Así una forma de calcular la densidad de un líquido (en nuestro caso agua azucarada en distintas 
+proporciones) es midiendo el empuje sobre un objeto (en este caso una bolita) con un volumen 
+conocido. 
+Para ello construiremos una balanza con dos bolitas, como se muestra en la figura, colgándola del pie 
+proporcionado y viendo que esté en equilibrio. Al introducir una de las bolitas dentro del vaso con la 
+solución de agua y azúcar, la balanza se desequilibra. Para volver a equilibrarla habrá que agregar una 
+cierta cantidad de pesitas (los cuadrados de papel) del lado del vaso. El peso del papel agregado 
+corresponde al empuje y de allí podemos despejar la densidad de la solución de agua con azúcar luego 
+de averiguar el volumen de la bolita. 
+Nota: Usaremos como pesitas cuadraditos de 1cmx1cm (0,008g/cm2 y un error del 5%) de hojas A4 
+(210mmx297mm) de gramaje 80g/m2. Hay que tener mucho cuidado con estas pesitas porque si se 
+mojan cambia bastante el peso correspondiente. 
+ 
+Instrucciones  
+Parte 1: Fabricación de una balanza.  
+1) Pase 3 hilos a través de la pajita, uno en el centro para colgarla y por las puntas los dos hilos con las 
+bolitas.  
+2) Marque uno de los extremos con marcador indeleble o birome. 
+3) Corte los cuadraditos de las hojas provistas. En algunas puede hacer un tajo, de manera que se 
+enganchen en los hilos.   
+Parte 2: Calibración de la balanza.  
+Con las balanza realice el siguiente procedimiento:  
+1) Agregue pesas del lado que corresponda, hasta que quede horizontal.  
+2) Determine cuál es la menor pesa que produce un cambio observable.  
+3) Repita el procedimiento anterior con otras pesas, compare los valores obtenidos. 
+4) Encuentre con qué precisión mide su balanza. Llegado el caso construya otra.  
+Parte 3: Medición del volumen de la bolita 
+1) Coloque agua en un vaso limpio. 
+2) Sumerja una de las dos bolitas de la balanza en el agua y nivele con pesas. Tenga cuidado de no 
+mojar las pesas. 
+3) Calcule el volumen de la bolita y estime el error de medición correspondiente. 
+Parte 4: Medición de la densidad de la solución (vaso con 50 g de azúcar)  
+1) Utilizando la probeta ponga una cierta cantidad de agua (por ejemplo 25 o 50 ml) en el vaso que 
+tiene 50g. Asegúrese de que el azúcar se disuelve completamente y que el nivel de solución alcanza 
+para sumergir una bolita.  
+2) Sumerja una de las dos bolitas de la balanza en el agua y nivele con pesas.  
+3) Vaya agregando más agua de a poco midiendo con la probeta (por ejemplo de a 25 o 50 ml) hasta 
+completar el vaso. Cada vez equilibre la balanza con las pesas. 
+4) Anote todas estas mediciones en una tabla, indicando los correspondientes errores de medición 
+(debería obtener unas 5 a 10 mediciones) 
+5) En la tabla anterior agregue una columna que indique la concentración de la solución (gramos de 
+azúcar / gramos de solución) 
+6) Agregue otra columna con la densidad de la solución (en gramos/cm3) 
+Parte 5: Medición de la densidad de la solución (vaso con 10 g de azúcar)  
+1) Repita toda la parte 4 con el vaso que contiene 10g de azúcar. 
+2) En total debería tener entre 5 y 10 mediciones. 
+Parte 6: Gráficos  
+
+1) Grafique en la hoja milimetrada la densidad de la solución (en gramos/cm3) en función de la 
+concentración de la solución (gramos de azúcar / gramos de solución), indicando el error 
+experimental de cada medición.  
+2) Busque en qué intervalos la curva es lineal y calcule las correspondientes pendientes.  
+3) Estime el error de las pendientes. 
+Parte 7: Realización de un informe.  
+Escriba un informe de la experiencia realizada que posea la siguiente información:  
+• Título  
+• Introducción (describiendo brevemente los principios físicos involucrados) 
+• Descripción detallada del dispositivo experimental (con esquema) 
+• Una descripción detallada de cómo se realizó cada medición 
+• Mediciones / Tablas  
+• Gráficos  
+• Cálculos  
+• Cálculos de errores  
+• Comentarios finales  
+• Conclusiones  
+Y cualquier otra información que considere relevante.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p81_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Ball (object)|Ball]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE22: Curva di densità di soluzione di zucchero**
+
+PE22. Città di Buenos Aires. Blu. 
+ 
+Obiettivo: Misurare la curva di densità di una soluzione di zucchero in acqua. 
+ 
+Lista dei materiali 
+• Vaso con 50 g e 10 g di zucchero 
+• acqua 
+• Piedi
+• Paghitas (come per bere gassosa) 
+• Felli da cucire 
+• Aghi
+• Bocce di vetro 
+• fogli di carta con quadri di 1cm x1cm 
+• regola di millimetro 
+
+• Provetta graduata 
+ 
+Esplicazione teorica 
+Quando un oggetto viene inserito in un liquido di densità δ, si manifesta una forza su questo oggetto 
+chiamata spinta; che viene calcolata come E=δ.g.V dove δ è la densità del liquido, g è la gravità e V 
+è il volume dell'oggetto immerso. 
+Quindi un modo per calcolare la densità di un liquido (in questo caso acqua zuccherata in diverse
+proporzioni) è la misurazione della spinta su un oggetto (in questo caso una pallina) con un volume 
+Conosciuto. 
+Per questo costruiamo una bilancia con due palle, come si vede nella figura, appesa al piede.
+proporzionato e visto che è in equilibrio. Quando si inserisce una delle palline nel bicchiere con la
+Soluzione di acqua e zucchero, la bilancia si squilibra. Per riequilibrarla, dovremo aggiungere una.
+una certa quantità di pesitas (quadrati di carta) sul lato del bicchiere. Peso della carta aggregata 
+corrisponde al pulso e da lì possiamo chiarire la densità della soluzione di acqua con zucchero.
+di scoprire il volume della pallina. 
+Nota: Useremo come pesci quadrati di 1cmx1cm (0,008g/cm2 e un errore del 5%) di foglie A4 
+(Testione di calcolo di temperatura di 10 °C) Dobbiamo essere molto attenti a questi pesci perché se si
+I pesanti si muovono molto. 
+ 
+Instruzioni 
+Parte 1: fabbricazione di una bilancia. 
+1) Passare 3 fili attraverso la canna, uno al centro per appenderla e per le punte i due fili con le spine.
+- Le palline. 
+2) Segna una delle estremità con un marcatore indelebile o birome. 
+3) Tagliare i quadrati delle foglie fornite. In alcuni potete fare un taglio, così che si 
+Collegate i fili. 
+Parte 2: Calibrazione della bilancia. 
+Con i bilanci esegue la seguente procedura: 
+1) Aggiungi i pesi del lato corrispondente fino a che non sia orizzontale. 
+2) Determina quale sia il minor peso che produce un cambiamento osservabile. 
+3) Ripeti la procedura precedente con altri pesci, confronta i valori ottenuti. 
+4) Scopri con quale precisione misura la sua bilancia. Quando arriva il caso, costruisci un altro. 
+Parte 3: Misurazione del volume della bolletta 
+1) Metti l'acqua in un bicchiere pulito. 
+2) Immergere una delle due palle della bilancia in acqua e livellarla con pesanti. - Non fare così.
+bagnare i pesi. 
+3) Calcolare il volume della pallina e valutare l'errore di misura corrispondente. 
+Parte 4: Misura della densità della soluzione (vaso con 50 g di zucchero) 
+1) Metti una certa quantità di acqua (ad esempio 25 o 50 ml) nel bicchiere che
+ha 50 grammi. Assicurati che lo zucchero si dissolva completamente e che il livello di soluzione raggiunga il livello di soluzione.
+per immergersi un po'. 
+2) Immergere una delle due palle della bilancia in acqua e livellarla con pesanti. 
+3) Aggiungi poco a poco più acqua misurando con il campione (ad esempio a 25 o 50 ml) fino a
+- Completa il bicchiere. Ogni volta equilibra la bilancia con i pesi. 
+4) Nota tutte queste misure in una tabella, indicando i relativi errori di misura 
+(dovrebbe ottenere circa 5-10 misure)
+5) Nella tabella precedente, aggiungere una colonna che indichi la concentrazione della soluzione (grammi di ).
+zucchero / grammi di soluzione) 
+6) Aggiungere un'altra colonna con la densità della soluzione (in grammo/cm3) 
+Parte 5: Misura della densità della soluzione (vaso con 10 g di zucchero) 
+1) Ripeti tutta la parte 4 con il bicchiere contenente 10 g di zucchero. 
+2) In totale dovrebbe avere tra 5 e 10 misure. 
+Parte 6: Grafici 
+
+1) Graficare sulla foglia millimetrica la densità della soluzione (in grammo/cm3) in funzione della
+concentrazione della soluzione (grammi di zucchero / grammi di soluzione), indicando l' errore 
+la misurazione è sperimentale. 
+2) Scopri in quali intervalli la curva è lineare e calcola le inclinate corrispondenti. 
+3) Valutare l'errore delle pendenti. 
+Parte 7: Realizzazione di un rapporto. 
+Scrivi un rapporto sull'esperienza svolta che contiene le seguenti informazioni: 
+• Titolo 
+• Introduzione (descrivendo brevemente i principi fisici coinvolti) 
+• Descrizione dettagliata del dispositivo sperimentale (con schema) 
+• Una descrizione dettagliata di come ogni misurazione è stata effettuata 
+• Misure / tabelle 
+• Grafiche 
+• Calcoli 
+• Calcoli di errori 
+• Commenti conclusivi 
+• Conclusioni 
+E qualsiasi altra informazione che ritenga rilevante.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p81_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Ball (object)|Ball]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE22: The density curve of the sugar solution **
+
+PE22. City of Buenos Aires. Blue, please. 
+ 
+Objective: Measure the density curve of a sugar solution in water. 
+ 
+List of materials 
+• 50 g and 10 g sugar cups 
+• Water
+• Foot 
+• Pagitas (as for drinking soda) 
+• Sewing thread 
+• Needle
+• Glass balls 
+• Sheets of paper with a square of 1 cm x 1 cm 
+• Millimeter rule 
+
+• Graduated test
+ 
+Theoretical explanation 
+When an object is introduced into a density δ liquid, a force appears on this object.
+called thrust; which is calculated as E=δ.g.V where δ is the density of the liquid, g is gravity and V 
+is the volume of the submerged object. 
+So a way to calculate the density of a liquid (in this case sugar water in different
+Proportions) is measuring the thrust on an object (in this case a ball) with a volume 
+I know you. 
+For this we will build a scale with two balls, as shown in the figure, hanging it from the foot.
+proportionate and seeing that it is in balance. When you insert one of the balls into the glass with the
+solution of water and sugar, the balance becomes unbalanced. To rebalance it, we'll have to add one.
+a certain amount of pesitas (paper squares) on the side of the glass. The weight of the paper added 
+It's the same as the push, and from there we can clear the density of the water solution with sugar.
+to find out the volume of the ball. 
+Note: We will use as square weights 1cmx1cm (0.008g/cm2 and a 5%) of A4 sheets 
+The following is the list of the products of the product concerned: You have to be very careful with these little ones because if you do
+The weight of the mojan changes considerably. 
+ 
+Instructions for the
+Part 1: Manufacture of a scale. 
+1) Pass 3 threads through the straw, one in the center to hang it and through the ends the two threads with the tips
+balls. 
+2) Mark one of the ends with an indelible marker or birome. 
+3) Cut the squares of the supplied leaves. In some you can make a cut, so you're 
+- Get on the ropes. 
+Part 2: Calibration of the scale. 
+With the balances, perform the following procedure: 
+1) Add weights to the corresponding side, until it is horizontal. 
+2) Determine which is the smallest weight that produces an observable change. 
+3) Repeat the previous procedure with other weights, compare the results. 
+4) Find out how accurately you measure your scale. When the case comes, build another one. 
+Part 3: Measurement of the ball volume 
+1) Put water in a clean glass. 
+2) Submerge one of the two balls of the scale in water and level it with weights. Be careful not to .
+wet the weights. 
+3) Calculate the volume of the ball and estimate the corresponding measurement error. 
+Part 4: Measurement of the density of the solution (cup with 50 g of sugar) 
+1) Using the sample put a certain amount of water (e. g. 25 or 50 ml) into the glass that is
+It's 50g. Make sure the sugar is completely dissolved and the solution level reaches 
+to dive a ball. 
+2) Submerge one of the two balls of the scale in water and level it with weights. 
+3) Add more water by measuring the sample (e. g. 25 or 50 ml) to the test.
+Fill the glass. Every time he balances the scales with the weights. 
+4) Write down all these measurements in a table, indicating the corresponding measurement errors 
+(you should get about 5 to 10 measurements) 
+5) In the table above, add a column indicating the concentration of the solution (grams of ).
+sugar / grams of solution) 
+6) Add another column with the solution density (in grams/cm3) 
+Part 5: Measurement of the density of the solution (cup with 10 g of sugar) 
+1) Repeat the whole part 4 with the glass containing 10 g of sugar. 
+2) In total it should have between 5 and 10 measurements. 
+Part 6: Graphics 
+
+1) Graph on the millimeter sheet the density of the solution (in grams/cm3) according to the
+concentration of solution (grams of sugar / gram of solution), indicating the error 
+The test results are based on the experimental data of each measurement. 
+2) Find the intervals at which the curve is linear and calculate the corresponding slopes. 
+3) Estimate the error of the earrings. 
+Part 7: Preparation of a report. 
+Write a report of the experience that contains the following information: 
+• Title 
+• Introduction (shortly describing the physical principles involved) 
+• Detailed description of the experimental device (with scheme) 
+• A detailed description of how each measurement was carried out 
+• Measurements / Tables 
+• Graphics 
+• Calculations 
+• Error calculations 
+• Final comments 
+• Conclusions 
+And any other information you consider relevant.
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p81_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Ball (object)|Ball]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q115" data-atom="q115" data-title="Argent 2004 Locale — Quesito 115" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/multi,object/spring"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE23: Constante elastica del resorte (dos metodos)**
+
+PE23. Ciudad de Buenos Aires. Azul. 
+ 
+La constante elástica del resorte 
+Objetivo: 
+Al sujetar en el extremo de un resorte un objeto, este cambia su longitud alargándose debido al peso 
+del objeto y de la rigidez o elasticidad del resorte. Si apartamos a este objeto de la posición de 
+equilibrio, veremos que este comenzará a oscilar en un eje vertical.   
+El objetivo en este experimento es determinar la constante elástica de dos resortes diferentes por dos 
+métodos distintos y de decidir cuál de los dos métodos es el más confiable. 
+ 
+Lista de materiales: 
+• 
+Dos resortes  
+ 
+• 
+Soporte 
+• 
+Recipiente 
+• 
+Agua 
+• 
+Probeta 
+• 
+Pipeta 
+• 
+Hojas de papel milimetrado 
+• 
+Regla milimetrada 
+• 
+Cinta métrica 
+• 
+Cronómetro 
+ 
+Comentarios generales: 
+1) Antes de comenzar lea todas las instrucciones 
+2) Agregue en el informe los comentarios que aclaren el procedimiento exacto que utilizó en cada 
+paso. En lo posible incluya también un dibujo aclaratorio. 
+3) Escriba en tablas los datos obtenidos en las mediciones 
+4) Aclare cualquier cambio o desvío respecto de las instrucciones, junto con una breve explicación de 
+su motivo. 
+5) Trate de ser prolijo. 
+ 
+La constante elástica k 
+Parte 1 
+Sujete un extremo del resorte al soporte y mida la elongación natural del mismo. 
+
+Ahora sujete el recipiente al otro extremo del resorte. Vaya agregando agua con ayuda de la probeta y 
+la pipeta y mida las variaciones en la elongación natural para cada uno de los distintos pesos. 
+Grafique los resultados y obtenga la relación de proporcionalidad k entre la variación de elongación 
+del resorte y la fuerza ejercida. (F  vs. ∆X), con sus respectivas unidades Escriba esta relación como 
+una ecuación. Esta se llama la Ley de Hooke. 
+ 
+Parte 2  
+El período T del resorte es el tiempo en que tarda el objeto suspendido en pasar por la misma posición 
+y con la misma velocidad. Este período depende de la masa, siendo esta la ecuación correspondiente: 
+  
+ m = α. T2       m es la masa colgada del resorte en kilogramos   
+                 
+y T el período en segundos. Las unidades de αson N/m 
+ 
+Realice varias mediciones del período del resorte para distintas masas suspendidas. Luego haga un 
+gráfico de la inversa del período al cuadrado versus la masa y deduzca la constante α de 
+proporcionalidad de la relación.. 
+Si α =   k    
+determine la constante elástica del resorte. 
+            4π2 
+ 
+Para los dos métodos anteriores decida cual es el más confiable comparando los errores obtenidos con 
+cada uno de ellos. 
+Ayudita: Para eliminar lo más posible el error en la medición de T, déjelo oscilar más de una vez y 
+luego divida el tiempo obtenido por el número de oscilaciones  
+ 
+Parte 2: Confección de un informe 
+Escriba un informe de la experiencia realizada que posea la siguiente información: 
+• 
+Título 
+• 
+Introducción (breve) 
+• 
+Hipótesis 
+• 
+Descripción del dispositivo experimental (texto y dibujo) 
+• 
+Detalles acerca de cómo se realizaron las mediciones (texto y dibujo) 
+• 
+Mediciones / Tablas 
+• 
+Gráficos (en hoja milimetrada) 
+• 
+Cálculos 
+• 
+Cálculos de errores 
+• 
+Resultados obtenidos 
+• 
+Comentarios finales 
+• 
+Conclusiones 
+Y cualquier información que considere relevante
+
+**Topic:** [[Oscillations & Waves]], [[Elasticity & Materials]]
+**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Spring (object)|Spring]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE23: Costante elastica della sorgente (due metodi) **
+
+PE23. Città di Buenos Aires. Blu. 
+ 
+La costante elastica della primavera
+Obiettivo: 
+Quando un oggetto si attacca all'estremità di una stagnola, la sua lunghezza cambia allungandosi a causa del peso.
+di oggetto e di rigidità o elasticità della resorsione. Se allontanamo questo oggetto dalla posizione di
+equilibrio, vedremo che questo inizierà a oscillare su un asse verticale. 
+L'obiettivo di questo esperimento è determinare la costante elastica di due sorgenti diverse per due.
+la scelta di un metodo più affidabile. 
+ 
+Lista dei materiali: 
+• 
+Due sorgenti
+ 
+• 
+Supporto
+• 
+Raccogliente 
+• 
+Acqua
+• 
+Prova
+• 
+Pipetta
+• 
+Foli di carta millimetrica 
+• 
+Regola millimetrica 
+• 
+Cintura metrica 
+• 
+Cronometro
+ 
+Commenti generali: 
+1) Prima di iniziare, leggi tutte le istruzioni 
+2) Aggiungere nel rapporto le osservazioni che chiariscono l'esatta procedura utilizzata in ciascuna delle
+Passate. Se possibile, includere anche un disegno chiaritorio. 
+3) Scrivi in tabella i dati ottenuti dalle misurazioni 
+4) Acclarare qualsiasi modifica o deviazione rispetto alle istruzioni, accompagnata da una breve spiegazione di
+il suo motivo. 
+5) Cerca di essere prolico. 
+ 
+La costante elastica k 
+Parte 1 
+Appoggiate un'estremità della resorte al supporto e misurate l'allungamento naturale della stessa. 
+
+Ora appoggiate il recipiente all'altra estremità della sorgente. Aggiungi l'acqua con la prova e
+il pipeta e misurare le variazioni nell'allungamento naturale per ciascun peso. 
+Grafica i risultati e ottieni il rapporto di proporzionalità k tra la variazione dell'allungamento 
+della primavera e della forza esercitata. (F  vs. ∆X), con le rispettive unità Scrivi questa relazione come 
+una equazione. Questa è chiamata legge di Hooke. 
+ 
+Parte 2 
+Il periodo T della primavera è il tempo che occorre per l' oggetto sospeso di passare dalla stessa posizione 
+e con la stessa velocità. Questo periodo dipende dalla massa, e questa è l'equazione corrispondente: 
+  
+ m = α. T2 m è la massa appesa della primavera in chilogrammi 
+                 
+e T il periodo in secondi. I sistemi di controllo sono stati utilizzati per la gestione dei sistemi di controllo.
+ 
+Eseguire diverse misurazioni del periodo di primavera per diverse masse sospese. Poi fai un'altra.
+grafico del periodo inverso al quadrato versus massa e deduci la costante α di 
+proporzionalità della relazione. 
+Si α =   k    
+determinare la costante elastica della primavera. 
+            4π2 
+ 
+Per i due metodi precedenti, decidete quale è il più affidabile confrontando gli errori ottenuti con 
+ognuno di loro. 
+Aiuto: Per eliminare il più possibile l'errore di misurazione di T, lascialo oscillare più di una volta e 
+Dividi il tempo ottenuto per il numero di oscillazioni
+ 
+Parte 2: Preparare un rapporto 
+Scrivi un rapporto sull'esperienza svolta che contiene le seguenti informazioni: 
+• 
+Titolo 
+• 
+Introduzione (breve) 
+• 
+Ipotesi 
+• 
+Descrizione del dispositivo sperimentale (testo e disegno) 
+• 
+Dettagli su come le misure sono state effettuate (testo e disegno) 
+• 
+Misure / tabelle 
+• 
+Grafici (in foglio in millimetri) 
+• 
+Calcoli
+• 
+Calcoli errori 
+• 
+Risultati ottenuti 
+• 
+Commenti conclusivi 
+• 
+Conclusioni 
+E qualsiasi informazione che ritenga rilevante
+
+**Topic:** [[Oscillations & Waves]], [[Elasticity & Materials]]
+**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Spring (object)|Spring]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE23: Spring elastic constant (two methods) **
+
+PE23. City of Buenos Aires. Blue, please. 
+ 
+The spring's elastic constant
+The objective: 
+When holding an object at the end of a spring, it changes its length by lengthening due to weight.
+the object and the spring rigidity or elasticity. If we take this object away from the position of 
+equilibrium, we'll see that this will start to oscillate on a vertical axis. 
+The objective in this experiment is to determine the elastic constant of two different springs by two 
+the method of determining which of the two methods is the most reliable. 
+ 
+List of materials: 
+• 
+Two springs .
+ 
+• 
+Support 
+• 
+Receiving 
+• 
+Water
+• 
+Try it .
+• 
+Pipeta 
+• 
+Sheets of millimetre paper 
+• 
+Millimeter rule
+• 
+Metric tape .
+• 
+The time-meter .
+ 
+General comments: 
+1) Before you start read all the instructions 
+2) Add to the report comments clarifying the exact procedure used in each case.
+I'm going through. If possible, include a clarifying drawing. 
+3) Write down the data obtained from the measurements in tables 
+4) Please explain any changes or deviations from the instructions, together with a brief explanation of 
+His motive. 
+5) Try to be prolific. 
+ 
+The elastic constant k 
+Part 1 
+Hold one end of the spring to the support and measure the natural elongation of the spring. 
+
+Now hold the container to the other end of the spring. Go add water with the help of the probe and
+the pipette and measure the variations in natural elongation for each of the different weights. 
+Graph the results and obtain the proportionality ratio k between the elongation variation 
+of spring and force. (F  vs. ∆X), with their respective units Write this relation as 
+It's an equation. This is called Hooke's Law. 
+ 
+Part 2 
+Spring period T is the time it takes the suspended object to pass through the same position 
+And at the same speed. This period depends on the mass, and this is the corresponding equation: 
+  
+ m = α. T2 m is the mass of the spring suspended in kilograms 
+                 
+And T the period in seconds. The units of αson N/m 
+ 
+It performs several measurements of the spring period for different suspended masses. Then make one .
+graph of the period inverse to square versus mass and deduce the constant α of 
+Proportion of the relationship. 
+Si α =   k    
+determine the spring elastic constant. 
+            4π2 
+ 
+For the two methods above decide which is the most reliable by comparing the errors obtained with 
+every one of them. 
+Help: To eliminate the T measurement error as much as possible, let it oscillate more than once and 
+Then divide the time obtained by the number of oscillations.
+ 
+Part 2: Preparation of a report 
+Write a report of the experience that contains the following information: 
+• 
+Title 
+• 
+The Commission has also adopted a number of proposals for the
+• 
+Hypothesis 
+• 
+Description of the experimental device (text and drawing) 
+• 
+Details of how the measurements were made (text and drawing) 
+• 
+Measurements / Tables 
+• 
+Graphics (in millimetre sheet) 
+• 
+Calculations
+• 
+Calculation of errors 
+• 
+Results obtained 
+• 
+The Commission has also adopted a number of proposals.
+• 
+Conclusions 
+And any information you deem relevant
+
+**Topic:** [[Oscillations & Waves]], [[Elasticity & Materials]]
+**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Spring (object)|Spring]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q116" data-atom="q116" data-title="Argent 2004 Locale — Quesito 116" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/capacitor,object/resistor,object/switch"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE24: Capacidad de un capacitor por tiempo de carga**
+
+PE24. Ciudad de Buenos Aires. Verde. 
+ 
+Objetivo: Determinación de la capacidad de un capacitor mediante el tiempo de carga del mismo. 
+Elementos:  
+• Tablero 
+• Capacitor electrolítico 
+• Instrumento de medición 
+• Fuente 
+• Interruptor 
+• Cables 
+• Cronómetro 
+
+Fundamento Teórico: En un circuito denominado RC por estar formado por una resistencia (R) y un 
+capacitor (C), se le agrega un interruptor (S) y una fuente (E) conectados todos en serie. 
+En el instante en que se cierra el interruptor S, la ddp entre los extremos del condensador es cero y, por 
+tanto, toda la tensión del generador queda aplicada a la resistencia. A partir de ese momento, el 
+condensador comienza a cargarse, y durante un tiempo la tensión E se reparte entre los dos elementos. 
+Cuando el, condensador está totalmente cargado, la corriente por el circuito se anula, la ddp en el 
+condensador se hace igual a la fem del generador y la caída de tensión en la resistencia se hace cero. 
+La duración del tiempo de carga depende de los valores de la resistencia y de la capacidad del 
+condensador. 
+La corriente de carga del condensador se ajusta a la ecuación:     I(t) = E/R . e-t/RC 
+E es la fem de la fuente, R y C representan el valor de la resistencia y la capacidad respectivamente, y 
+e la base de los logaritmos neperianos cuyo valor es 2,71828. 
+La corriente tiene su valor máximo I0 = E/R en t = 0 y decae exponencialmente hasta cero conforme    
+t → ∞. 
+La cantidad RC, la cual aparece en el exponente de la ecuación, se conoce como la constante de 
+tiempo, τ, del circuito. Representa el tiempo que tarda en disminuir la corriente hasta 1/e de su valor 
+inicial; esto es, en un tiempo τ,  I = e-1.I0. 
+ 
+Procedimiento: Armar el circuito de tal manera que el capacitor y la resistencia estén conectados en 
+serie. Asegúrese que el capacitor este conectado en la polaridad correcta. 
+Conecte el instrumento para medir CC y verifique que el capacitor este descargado. 
+Prepare el cronómetro, lea en el instrumento la corriente que circula por el circuito en intervalos 
+iguales de tiempos, empezando en el momento en que se cierra el circuito. 
+Anote en una tabla los valores obtenidos y represente gráficamente la corriente en función del tiempo, 
+trazar la curva correspondiente a partir de la cual se puede determinar el valor de t para el cual la 
+corriente toma el valor I0/2 o sea la mitad del valor inicial.   
+Con el valor t determine la capacidad C del capacitor.
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Capacitor (object)|Capacitor]], [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE24: Capacità di un condensatore per tempo di carica**
+
+PE24. Città di Buenos Aires. Verde. 
+ 
+Obiettivo: Determinare la capacità di un capacitore mediante il tempo di carico del capacitore. 
+Elementi: 
+• Tavola 
+• Capacitore elettrolitico 
+• Strumento di misurazione 
+• Fonte 
+• Interruttore 
+• Cavi
+• Cronometro 
+
+Fondamento Teorico: In un circuito denominato RC perché è formato da una resistenza (R) e un 
+Capacitatore (C), viene aggiunto un interruttore (S) e una fonte (E) tutti collegati in serie. 
+L'istante in cui si chiude il interruttore S, la ddp tra le estremità del condensatore è zero e, per 
+Quindi, tutta la tensione del generatore viene applicata alla resistenza. Da quel momento in poi, il
+Il condensatore inizia a caricare, e per un po' la tensione E viene distribuita tra i due elementi. 
+Quando il condensatore è completamente carico, la corrente per il circuito viene annullata, il ddp in
+Il condensatore diventa uguale alla fem del generatore e la caduta di tensione nella resistenza diventa zero. 
+La durata del tempo di carico dipende dai valori di resistenza e dalla capacità del
+- Il condensatore. 
+Il carico corrente del condensatore si adatta all'equatoria: I(t) = E/R . e-t/RC 
+E è la fem della fonte, R e C rappresentano rispettivamente il valore della resistenza e della capacità, e 
+e la base dei logaritmi neperiani il cui valore è 2.71828. 
+Il corrente ha il suo massimo valore I0 = E/R a t = 0 e decade esponenzialmente fino a zero conforme 
+t → ∞. 
+La quantità RC, che appare nell'esponente dell'equazione, è conosciuta come la costante di 
+tempo, τ, del circuito. Rappresenta il tempo necessario per diminuire il flusso fino a 1/e del suo valore 
+iniziale; cioè, in un tempo τ, I = e-1.I0. 
+ 
+Procedura: Armatura del circuito in modo tale che il condensatore e la resistenza siano collegati in 
+serie. Assicurati che il condensatore sia collegato alla giusta polarità. 
+Collegare l'impianto di misurazione CC e verificare che il condensatore sia scaricato. 
+Preparare il cronometro, leggere sullo strumento il corrente che circola nel circuito a intervalli
+pari tempi, a partire dal momento in cui il circuito si chiude. 
+Nota in una tabella i valori ottenuti e rappresenta graficamente il corrente in funzione del tempo, 
+tracciare la curva corrispondente da cui si può determinare il valore di t per il quale la
+corrente prende il valore I0/2 o metà del valore iniziale. 
+Con il valore t si determina la capacità C del capacitore.
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Capacitor (object)|Capacitor]], [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE24: Capacity of a capacitor per load time**
+
+PE24. City of Buenos Aires. Green, please. 
+ 
+Objective: Determination of the capacity of a capacitor by the load time of the capacitor. 
+The following elements: 
+• Board 
+• Electrolytic capacitor 
+• Measuring instrument 
+• Source 
+• The switch 
+• Cables 
+• The chronometer
+
+Theoretical basis: In a circuit called RC because it is formed by a resistance (R) and a 
+Capacitor (C), a switch (S) and a source (E) are added all connected in series. 
+The ddp between the ends of the capacitor is zero at the moment the switch S is closed and, by 
+So the whole generator voltage is applied to the resistance. From that moment on, the
+The capacitor starts to charge, and for a while the voltage E is distributed between the two elements. 
+When the capacitor is fully charged, the current through the circuit is cancelled, the ddp in the
+The capacitor becomes equal to the generator fem and the voltage drop in resistance becomes zero. 
+The duration of load time depends on the resistance and capacity values of the
+The condenser. 
+The capacitor load current is adjusted to the equation: I(t) = E/R . e-t/RC 
+E is the fem of the source, R and C represent the resistance and capacity values respectively, and 
+and the basis of the Nepelian logarithms whose value is 2,71828. 
+The current has its maximum value I0 = E/R at t = 0 and declines exponentially to zero as 
+t → ∞. 
+The quantity RC, which appears in the exponent of the equation, is known as the constant of 
+time, τ, of the circuit. It represents the time it takes to decrease the current to 1/ 1 of its value 
+initial; that is, in a time τ, I = e-1.I0. 
+ 
+Procedure: Arming the circuit such that the capacitor and resistor are connected in 
+The series. Make sure the capacitor is connected at the correct polarity. 
+Connect the instrument to measure DC and verify that the capacitor is discharged. 
+Prepare the chronometer, read the current circulating through the circuit at intervals on the instrument.
+equal times, starting at the time the circuit closes. 
+Write down the values obtained in a table and graphically represent the current in terms of time, 
+The value of t for which the 
+current takes the value I0/2 or half of the initial value. 
+The capacity C of the capacitor is determined by t.
+
+**Topic:** [[Circuits]]
+**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Capacitor (object)|Capacitor]], [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q117" data-atom="q117" data-title="Argent 2004 Locale — Quesito 117" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/4,multidisciplina/mono,object/wire"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE25: Periodo de oscilacion de cable doblado**
+
+PE25. Olivos, Buenos Aires. Azul. 
+ 
+Ésta investigación es sobre el período de oscilación de un cable de metal (cable de cobre, diámetro 1.6 
+mm) doblado en función del ángulo formado entre sus dos segmentos. 
+1. Agarre el corcho con el alfiler montado con la agarradera. 
+2. Haga un doblez en el centro del cable para que el ángulo entre los segmentos sea de 
+aproximadamente Θ = 160º, como se ve en la figura 
+ 
+ 
+ 
+ 
+3. Suspenda el cable del alfiler como se indica en la figura 
+ 
+ 
+ 
+ 
+ 
+ 
+4. Desplace el cable del equilibrio y suéltelo para que oscila en un plano vertical, como se 
+indica en la figura 
+ 
+ 
+ 
+ 
+5. Tome todas las mediciones que necesite para determinar el período T de éstas. 
+alfiler 
+Θ
+
+6. Saque el cable. Cambie el valor del ángulo doblando el cable. El nuevo valor debe estar en 
+el rango 160º ≥ θ ≥ 30º 
+7. Repita todas las mediciones que considere suficientes para intentar establecer la relación 
+entre el T del cable y el ángulo indicado. 
+8. T y el ángulo  están relacionados por la expresión  
+ 
+4
+^
+1
+T
+ = A cos θ  + B 
+ 
+donde A y B son constantes 
+9. Analice qué valores debe calcular para poder verificar la relación mencionada a través del 
+gráfico apropiado 
+10.  Un análisis teórico de este oscilador establece que  
+A = 2
+1
+⎥⎦
+⎤
+⎢⎣
+⎡
+2
+4
+3
+π
+L
+g
+ 
+Tome la medición que necesita para, usando los valores del experimento, calcular un valor de g, la 
+aceleración de la gravedad.
+
+**Topic:** [[Oscillations & Waves]]
+**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Wire (object)|Wire]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE25: Periodo di oscillazione del cavo piegato**
+
+PE25. Olivos, Buenos Aires. Blu. 
+ 
+Questa ricerca riguarda il periodo di oscillazione di un cavo di metallo (cabo di rame, diametro 1.6 
+mm) raddoppiato in funzione dell'angolo formato tra i suoi due segmenti. 
+1. Prendi la cork con il pincel montato con la colla. 
+2. Fai un doppio nel centro del cavo in modo che l'angolo tra i segmenti sia di 
+circa Θ = 160o, come si vede nella figura 
+ 
+ 
+ 
+ 
+3. Sospendere il cavo del pin come indicato nella figura 
+ 
+ 
+ 
+ 
+ 
+ 
+4. Spostare il cavo di equilibrio e lasciarlo oscillare in un piano verticale, come si fa.
+indica la figura 
+ 
+ 
+ 
+ 
+5. Prendi tutte le misure necessarie per determinare il periodo T di questi. 
+- Il cacciatore
+Θ
+
+6. Togli il cavo. Cambiare il valore dell'angolo piegando il cavo. Il nuovo valore deve essere in
+la gamma 160o ≥ θ ≥ 30o 
+7. Ripete tutte le misure che riteniate sufficienti per cercare di stabilire il rapporto.
+tra il T del cavo e l'angolo indicato. 
+8. T e angolo sono correlati dall'espressione 
+ 
+4
+^
+1
+T
+= A cos θ + B 
+ 
+dove A e B sono costanti 
+9. Analizzare quali valori deve calcolare per verificare la relazione menzionata attraverso 
+grafico appropriato 
+10. Un'analisi teorica di questo oscillatore stabilisce che 
+A = 2
+1
+⎥⎦
+⎤
+⎢⎣
+⎡
+2
+4
+3
+π
+L
+g
+ 
+Prendi la misura che ti serve per, usando i valori dell'esperimento, calcolare un valore di g, la
+l'accelerazione della gravità.
+
+**Topic:** [[Oscillations & Waves]]
+**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Wire (object)|Wire]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE25: The swinging period of the folded cable**
+
+PE25. Olive trees, from Buenos Aires. Blue, please. 
+ 
+This research is about the oscillation period of a metal wire (copper wire, diameter 1.6 
+mm) folded according to the angle formed between its two segments. 
+1. Grab the cork with the pin mounted to the handle. 
+2. Make a fold in the center of the cable so that the angle between the segments is of 
+approximately Θ = 160o, as shown in Figure 
+ 
+ 
+ 
+ 
+3. Suspend the pin cable as shown in Figure 
+ 
+ 
+ 
+ 
+ 
+ 
+4. Move the balance cable and let it swing vertically, as you do.
+indicated in the figure 
+ 
+ 
+ 
+ 
+5. Take all the measurements you need to determine the T-period of these. 
+- The pulley .
+Θ
+
+6. Take the cable out. Change the value of the angle by bending the wire. The new value must be in 
+The range of 160o ≥ θ ≥ 30o 
+7. Repeat any measurements you deem sufficient to attempt to establish the relationship 
+between the T of the cable and the angle indicated. 
+8. T and angle are related by the expression 
+ 
+4
+^
+1
+T
+= A cos θ + B 
+ 
+where A and B are constants 
+9. Analyze what values you need to calculate to verify the relationship mentioned through the 
+appropriate chart 
+10. A theoretical analysis of this oscillator states that 
+A = 2
+1
+⎥⎦
+⎤
+⎢⎣
+⎡
+2
+4
+3
+π
+L
+g
+ 
+Take the measurement you need to use the experiment values to calculate a value of g, the 
+acceleration of gravity.
+
+**Topic:** [[Oscillations & Waves]]
+**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Wire (object)|Wire]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q118" data-atom="q118" data-title="Argent 2004 Locale — Quesito 118" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/calorimeter"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE26: Orden de magnitud del calor especifico de metales**
+
+PE26. La Matanza, Buenos Aires. Azul y Verde. 
+ 
+Objetivo: 
+El objetivo de esta práctica es que construyas, con los elementos indicados, una experiencia sencilla 
+que te permita obtener el “orden de magnitud” del Calor Específico de algunos metales. 
+Materiales: 
+1 recipiente aislante de telgopor con tapa 
+1 vaso de precipitados 
+1 agitador 
+2 termómetros 
+1 embudo 
+1 probeta graduada 
+1 porta termómetro 
+1 trípode 
+1 nuez chica 
+1 vástago largo 
+1 tubo de ensayos 
+1 paralelepípedo de Hierro 
+1 paralelepípedo de Aluminio 
+Agua 
+1 mechero 
+Requerimientos: 
+- 
+Diagrama del dispositivo experimental montado 
+- 
+Descripción y fundamentación del diseño experimental 
+- 
+Valores obtenidos en las mediciones realizadas 
+- 
+Resultado obtenido de la magnitud solicitada 
+- 
+Incertidumbre del resultado 
+- 
+Observaciones y Conclusiones
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Calorimeter (object)|Calorimeter]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE26: Ordine di magnitudine del calore specifico dei metalli**
+
+PE26. La Matanza, Buenos Aires. Blu e verde. 
+ 
+Obiettivo: 
+L'obiettivo di questa pratica è che tu costruisca, con gli elementi indicati, un'esperienza semplice 
+che permette di ottenere l'ordine di magnitudo del calore specifico di alcuni metalli. 
+Materiali: 
+1 recipiente isolante di telgopor con copertura 
+1 bicchiere di precipitati
+1 agitatore 
+2 termometri
+1 funile 
+1 prova graduata 
+1 porta termometrica 
+1 tripod
+1 noce ragazza
+1 trame lungo 
+1 tubo di prova 
+1 parallelepiede di ferro 
+1 parallelepied di alluminio 
+Acqua
+1 macchia
+Requisiti: 
+- 
+Diagramma del dispositivo sperimentale montato 
+- 
+Descrizione e motivazione del design sperimentale 
+- 
+Valori ottenuti dalle misurazioni effettuate 
+- 
+Risultato ottenuto dalla quantità richiesta 
+- 
+Incertezza di risultato 
+- 
+Le osservazioni e le conclusioni
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Calorimeter (object)|Calorimeter]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE26: Order of magnitude of specific heat of metals**
+
+PE26. The killing, Buenos Aires. Blue and Green. 
+ 
+The objective: 
+The aim of this practice is to build, with the elements indicated, a simple experience 
+It's a method that allows you to get the magnitude order of the specific heat of some metals. 
+Materials: 
+1 insulating telgopor container with lid 
+1 glass of precipitate 
+1 agitator 
+Two thermometers .
+1 funnel 
+1 graduated test 
+One thermometer port .
+1 tripod 
+One little nut .
+1 long stem 
+1 test tube 
+1 parallel stone of iron 
+1 parallel stone of aluminium 
+Water
+1 spoon
+Requirements: 
+- 
+Diagram of the experimental device mounted 
+- 
+Description and foundation of experimental design 
+- 
+Value obtained from measurements made 
+- 
+Result obtained from the quantity requested 
+- 
+Uncertainty of the outcome 
+- 
+The Commission has also adopted a number of recommendations.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Calorimeter (object)|Calorimeter]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q119" data-atom="q119" data-title="Argent 2004 Locale — Quesito 119" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE27: Aumento de temperatura de liquidos y cambio de estado**
+
+PE27. Olivos, Buenos Aires. Azul. 
+ 
+Cambio de estado – Calor específico. 
+Objetivo: Determinar la rapidez del aumento de temperatura de distintos líquidos al ser calentados. 
+Caracterizar un cambio de estado. 
+Material necesario: 100 gr. De agua. 
+
+100 gr. de aceite 
+Vasos de precipitado y mechero (utilizar siempre el mismo mechero). 
+Termómetros. 
+Accesorios. 
+Indicaciones: Se solicita la presentación de un informe escrito, donde se describa el procedimiento 
+empleado, incluyendo gráficos y considerando errores de medición. 
+Actividades finales 
+¿Los gráficos del aumento de temperatura en función del tiempo son los esperados? 
+Explicar las particularidades de los gráficos obtenidos. 
+A partir del conocimiento del calor específico del agua, determinar las Cal/min (aproxim) que libera el 
+mechero. 
+Proponer de ser posible una planificación distinta de la experiencia, que permita mejorar las 
+mediciones obtenidas.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE27: Aumento della temperatura dei liquidi e cambiamento di stato**
+
+PE27. Olivos, Buenos Aires. Blu. 
+ 
+Cambio di stato  Calore specifico. 
+Obiettivo: Determinare la velocità di aumento della temperatura di diversi liquidi quando vengono riscaldati. 
+Caratterizzare un cambiamento di stato. 
+Materiale necessario: 100 gr. D'acqua. 
+
+100 gr. di olio 
+Vaso di precipitato e di macchia (utilizzare sempre lo stesso macchiaio). 
+Termodinamici. 
+- Accessori. 
+Indicazioni: è richiesta la presentazione di una relazione scritta che descriva la procedura 
+Il sistema di misurazione è stato utilizzato per la valutazione degli errori di misurazione. 
+Attività finali 
+I grafici dell'aumento della temperatura in funzione del tempo sono quelli che si aspettano? 
+Esprimi le particolarità dei grafici ottenuti. 
+Sulla base della conoscenza del calore specifico dell'acqua, determinare i cal/min (approxim) rilasciati dal 
+- Miccutatore. 
+Proporre che sia possibile una pianificazione diversa dall'esperienza, che permetta di migliorare le
+misurazioni ottenute.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE27: Increased liquid temperature and change of state**
+
+PE27. Olive trees, from Buenos Aires. Blue, please. 
+ 
+Change of state  Specific heat. 
+Objective: Determine the rate of temperature rise of different liquids when heated. 
+Characterizing a change of state. 
+Material required: 100 gr. - Of water. 
+
+100 gr. Oil 
+Spray and spray vessels (always use the same spray). 
+It's a thermometer. 
+- It's a little bit of an accessory. 
+Indications: A written report describing the procedure is requested 
+employee, including graphics and considering measurement errors. 
+Final activities 
+Are the weather-related temperature rise charts the expected ones? 
+Explain the particularities of the graphs obtained. 
+Based on knowledge of the specific heat of the water, determine the cal/min (approximate) released by the water.
+I'm a mechanic. 
+Propose that a planning different from the experience be possible, which would improve the
+measurements obtained.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q120" data-atom="q120" data-title="Argent 2004 Locale — Quesito 120" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE28: Calor especifico de una sustancia solida**
+
+PE28. Olivos, Buenos Aires. Azul. 
+ 
+Calor específico. 
+Objetivo: Determinar el calor específico de una sustancia sólida 
+ Material necesario: Trozo de metal desconocido 
+ 
+ 
+ 
+Calorímetro completo 
+ 
+ 
+ 
+Accesorios 
+Indicaciones: Se aclara que deberá considerarse el equivalente calórico del calorímetro. Se solicita la 
+presentación de un informe escrito, donde se describa el procedimiento empleado y los errores de 
+medición cometidos. 
+Actividades finales: 
+¿ El material desconocido puede dejar de serlo? 
+Proponer de ser posible una planificación distinta de la experiencia, que permita mejorar las 
+mediciones obtenidas.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Calorimeter (object)|Calorimeter]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE28: Calore specifico di una sostanza solida**
+
+PE28. Olivos, Buenos Aires. Blu. 
+ 
+Calore specifico. 
+Obiettivo: Determinare il calore specifico di una sostanza solida 
+Materiale necessario: Pezzo di metallo sconosciuto 
+ 
+ 
+ 
+Calorimetro completo 
+ 
+ 
+ 
+Accessori
+Indicazioni: si precisa che l'equivalente calorico del calometro deve essere considerato. La richiesta è presentata.
+presentazione di un rapporto scritto, che descriva la procedura e gli errori di
+misurazione effettuata. 
+Attività finali: 
+Il materiale sconosciuto può smettere di essere? 
+Proporre che sia possibile una pianificazione diversa dall'esperienza, che permetta di migliorare le
+misurazioni ottenute.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Calorimeter (object)|Calorimeter]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE28: Specific heat of a solid substance**
+
+PE28. Olive trees, from Buenos Aires. Blue, please. 
+ 
+Specific heat. 
+Objective: Determine the specific heat of a solid 
+Material required: Unknown piece of metal 
+ 
+ 
+ 
+Full calorimeter 
+ 
+ 
+ 
+Accessories 
+Indications: It is clarified that the caloric equivalent of the calorimeter must be considered. The request is made 
+The Commission shall, in accordance with the procedure laid down in Article 2 of Regulation (EC) No 1272/2006, submit a written report describing the procedure used and the errors in the report.
+measurement performed. 
+Final activities: 
+Can the unknown material stop being? 
+Propose that a planning different from the experience be possible, which would improve the
+measurements obtained.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Calorimeter (object)|Calorimeter]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q121" data-atom="q121" data-title="Argent 2004 Locale — Quesito 121" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE29: Estudio del enfriamiento del agua**
+
+PE29. Caseros, Buenos Aires. Azul. 
+ 
+Tema: 
+Estudio del enfriamiento del agua.   
+Materiales provistos: 
+Probeta 
+Frasco irregular 
+Cronómetro 
+Termómetro 
+Sustancias: 
+Agua Caliente 
+Esquema: 
+ 
+
+Con los materiales dados se te pide cumplir los siguientes objetivos 
+Objetivos: 
+1) Encontrar la relación matemática entre temperaturas iniciales, finales y ambiente 
+para intervalos iguales de tiempo de enfriamiento. 
+2) Calcular los ∆Q en cada intervalo de tiempo y analizar si varían en el tiempo y 
+como lo hacen. 
+Para cumplir con los objetivos deberás realizar los siguientes procedimientos. 
+ 
+Procedimiento parte 1 
+a) Colocar el agua caliente en el recipiente hasta el tapón, luego se realizan durante ½ hora, 10 lecturas 
+de temperatura, una cada 3 minutos. 
+b) Realiza el gráfico cartesiano de tº = f(t). 
+c) Observando la tabla, determina la hipótesis correcta y halla el valor más probable de la columna 
+correspondiente. 
+d) Deduce la fórmula para calcular la temperatura ambiente a partir de la hipótesis. 
+e) Con la fórmula hallada, recalcula los valores de temperatura ambiente (tamb) para  
+todos los intervalos, luego expresa  tamb  con su error. 
+ 
+Procedimiento parte 2:  
+a) Calcula el valor más probable de la masa, (5 mediciones) 
+b) Calcula los ∆Q entregados por la masa de agua al medio completando la tabla 2 
+c) Realiza un gráfico de ∆Q = f(t) 
+¿Qué conclusiones obtienes a partir del gráfico? 
+ 
+Tabla 1 
+Int. 
+ti (ºC) 
+tf (ºC) 
+tf-ta 
+ 
+ti-ta 
+tf . 
+ta 
+tf.ti 
+ta 
+ta 
+ 
+0-3´ 
+ 
+ 
+ 
+ 
+ 
+ 
+3-6´ 
+ 
+ 
+ 
+ 
+ 
+ 
+6-9´ 
+ 
+ 
+ 
+ 
+ 
+ 
+9-12´ 
+ 
+ 
+ 
+ 
+ 
+ 
+12-15´ 
+ 
+ 
+ 
+ 
+ 
+ 
+15-18´ 
+ 
+ 
+ 
+ 
+ 
+ 
+18-21´ 
+ 
+ 
+ 
+ 
+ 
+ 
+21-24´ 
+ 
+ 
+ 
+ 
+ 
+ 
+24-27´ 
+ 
+ 
+ 
+ 
+ 
+ 
+27-30´ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabla 2 
+Int. 
+t (ºC) 
+m 
+Q 
+0-3´ 
+ 
+ 
+3-6´ 
+ 
+ 
+6-9´ 
+ 
+ 
+9-12´ 
+ 
+ 
+12-15´ 
+ 
+ 
+15-18´ 
+ 
+ 
+18-21´ 
+ 
+ 
+21-24´ 
+ 
+ 
+24-27´ 
+ 
+ 
+27-30´
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p87_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE29: Studi sul raffreddamento dell'acqua**
+
+PE29. Caseros, Buenos Aires. Blu. 
+ 
+Tema: 
+Studi sul raffreddamento dell'acqua. 
+Materiali forniti: 
+Prova
+Fossito irregolare 
+Cronometro
+Termodermico
+Sostanze: 
+Acqua calda 
+Schema: 
+ 
+
+Con i materiali forniti, si chiede di raggiungere i seguenti obiettivi.
+Obiettivi: 
+1) Trovare la relazione matematica tra temperature iniziali, finali e ambienti 
+per uguali intervalli di tempo di raffreddamento. 
+2) Calcolare i ∆Q in ogni intervallo di tempo e analizzare se variano nel tempo e
+come fanno. 
+Per raggiungere gli obiettivi dovrai eseguire le procedure seguenti. 
+ 
+Procedura parte 1 
+a) Mettete l'acqua calda nel recipiente fino al tappo, poi si esegue per 1⁄2 ora, 10 letture 
+di temperatura, una ogni tre minuti. 
+b) Realizza il grafico cartesiano di to = f(t). 
+c) Guardando la tabella, determina la giusta ipotesi e trova il valore più probabile della colonna 
+corrispondente. 
+d) Deduce la formula per calcolare la temperatura ambiente dall'ipotesi. 
+e) Con la formula trovata, ricalcola i valori di temperatura ambiente (tamb) per 
+Tutti gli intervalli, poi esprime anche con il suo errore. 
+ 
+Procedura parte 2: 
+a) Calcola il valore più probabile della massa (5 misure) 
+b) Calcola i ∆Q forniti dalla massa di acqua al medio completando la tabella 2 
+c) Realizza un grafico di ∆Q = f(t) 
+Quali conclusioni troverete dal grafico? 
+ 
+Tabella 1 
+Int. 
+ti (ºC) 
+tf (ºC) 
+tf-ta 
+ 
+ti-ta 
+tf . 
+ta 
+tf.ti 
+ta 
+ta 
+ 
+0-3´ 
+ 
+ 
+ 
+ 
+ 
+ 
+3-6´ 
+ 
+ 
+ 
+ 
+ 
+ 
+6-9´ 
+ 
+ 
+ 
+ 
+ 
+ 
+9-12´ 
+ 
+ 
+ 
+ 
+ 
+ 
+12-15´ 
+ 
+ 
+ 
+ 
+ 
+ 
+15-18´ 
+ 
+ 
+ 
+ 
+ 
+ 
+18-21´ 
+ 
+ 
+ 
+ 
+ 
+ 
+21-24´ 
+ 
+ 
+ 
+ 
+ 
+ 
+24-27´ 
+ 
+ 
+ 
+ 
+ 
+ 
+27-30´ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabella 2 
+Int. 
+t (ºC) 
+m 
+Q 
+0-3´ 
+ 
+ 
+3-6´ 
+ 
+ 
+6-9´ 
+ 
+ 
+9-12´ 
+ 
+ 
+12-15´ 
+ 
+ 
+15-18´ 
+ 
+ 
+18-21´ 
+ 
+ 
+21-24´ 
+ 
+ 
+24-27´ 
+ 
+ 
+27-30´
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p87_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE29: Study of water cooling**
+
+PE29. The housewives, Buenos Aires. Blue, please. 
+ 
+Subject: 
+Study of water cooling. 
+Materials provided: 
+Try it .
+Irregular bottle
+The time-meter .
+Thermometer .
+Substances: 
+Hot water .
+Schedule: 
+ 
+
+With the materials given you are asked to meet the following objectives 
+Objectives: 
+1) Find the mathematical relationship between initial, final and ambient temperatures 
+for equal intervals of cooling time. 
+2) Calculate ∆Qs at each time interval and analyse whether they vary over time and 
+like they do. 
+To achieve the objectives, you will need to follow the following procedures. 
+ 
+Procedure part 1 
+a) Put the hot water in the container until the cap, then do it for 1⁄2 hour, 10 readings 
+temperature, one every three minutes. 
+(b) Perform the Cartesian graph of to = f(t). 
+(c) By looking at the table, determine the correct hypothesis and find the most likely value of the column 
+the corresponding. 
+(d) Derive the formula for calculating the ambient temperature from the hypothesis. 
+(e) Using the formula found, recalculate the ambient temperature values (tamb) for 
+All the intervals, then express it with its error. 
+ 
+The following is the list of the Member States' official languages:
+(a) Calculate the most likely mass value, (5 measurements) 
+(b) Calculate the ∆Q delivered by the water mass to the medium by completing Table 2 
+c) Perform a graph of ∆Q = f(t) 
+What conclusions do you draw from the graph? 
+ 
+Table 1 
+I'm not going to lie. 
+ti (ºC) 
+tf (ºC) 
+tf-ta 
+ 
+ti-ta 
+tf . 
+ta 
+tf.ti 
+ta 
+ta 
+ 
+0-3´ 
+ 
+ 
+ 
+ 
+ 
+ 
+3-6´ 
+ 
+ 
+ 
+ 
+ 
+ 
+6-9´ 
+ 
+ 
+ 
+ 
+ 
+ 
+9-12´ 
+ 
+ 
+ 
+ 
+ 
+ 
+12-15´ 
+ 
+ 
+ 
+ 
+ 
+ 
+15-18´ 
+ 
+ 
+ 
+ 
+ 
+ 
+18-21´ 
+ 
+ 
+ 
+ 
+ 
+ 
+21-24´ 
+ 
+ 
+ 
+ 
+ 
+ 
+24-27´ 
+ 
+ 
+ 
+ 
+ 
+ 
+27-30´ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2 
+I'm not going to lie. 
+t (ºC) 
+m 
+Q 
+0-3´ 
+ 
+ 
+3-6´ 
+ 
+ 
+6-9´ 
+ 
+ 
+9-12´ 
+ 
+ 
+12-15´ 
+ 
+ 
+15-18´ 
+ 
+ 
+18-21´ 
+ 
+ 
+21-24´ 
+ 
+ 
+24-27´ 
+ 
+ 
+27-30´
+
+
+<!--fig:start-->
+![[cuadernillo_2004_p87_f1.png]]
+<!--fig:end-->
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q122" data-atom="q122" data-title="Argent 2004 Locale — Quesito 122" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/mono,object/droplet"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE30: Tension superficial por metodo estalagmometrico**
+
+PE30. Aguilares, Tucumán. Azul y Verde. 
+ 
+Se desea determinar la tensión superficial τ –a la temperatura ambiente- de la interfase agua-
+aire y la solución de 96º etanol-aire. 
+Para ello se le proveen los siguientes elementos:  
+- 
+Jeringas graduadas. 
+- 
+Probeta. 
+- 
+Tubo de ensayo con tapón. 
+- 
+Balanza. 
+- 
+Calibre. 
+- 
+Tornillo micrométrico. 
+- 
+Cono alargado de madera de diámetro creciente 0,2 a 2,5mm. 
+- 
+Frasco con agua. 
+- 
+Frasco con etanol 96º. 
+- 
+Papel milimetrado. 
+Marco Teórico. 
+Debido a la cohesión las moléculas de un líquido se atraen mutuamente dentro de un radio de acción 
+muy pequeño. 
+Dentro de un líquido una molécula es atraída por las vecinas con igual fuerza en todas direcciones, 
+pero sobre las moléculas que se encuentran en la superficie se ejercen fuerzas de atracción no 
+equilibradas; esto hace que la superficie libre de un líquido tienda a retraerse y se comporte como una 
+membrana tensa que presenta siempre la menor superficie libre posible. 
+Podemos definir tensión superficial como: “la fuerza por unidad de longitud que una superficie 
+líquida ejerce sobre su contorno”, perpendicular a él, tangencial a la superficie y dirigida hacia el 
+seno de ella. 
+Por efecto de la tensión superficial las pequeñas masas de líquidos que forman las gotas tienden a 
+tomar forma esférica, porque es la menor superficie que encierra un mismo volumen. 
+La tensión superficial es un fenómeno de interfases. Sus valores característicos dependen de las 
+superficies en contacto y de la temperatura.  
+Existen distintos métodos para medir la tensión superficial τ, basados en los fenómenos que esta 
+origina, uno de ellos es el siguiente: 
+Método estalagmometrico 
+Al formarse una gota en el extremo de un tubo delgado, su volumen aumenta en forma progresiva 
+hasta que: su peso logra vencer la tensión superficial que la mantiene suspendida y entonces cae. 
+El peso de la gota está dado por el producto de la densidad, gravedad y el volumen de la gota: 
+P = δ g V   
+(1) 
+La fuerza que mantiene a la gota (suspendida del tubo) es igual al producto de la tensión 
+superficial τ por la circunferencia de radio r de la gota, que en nuestro caso se puede lograr una 
+buena aproximación considerando el radio del tubo estrecho por el cual sale la misma –preste especial 
+atención al contorno que moja la gota: el interior o el exterior -. 
+F = τ 2 π r 
+ 
+(2) 
+Al caer la gota: P = F; igualando (1) con (2) se obtiene: 
+δ g V = τ 2 πr 
+resultando 
+τ   = δ g V 
+ 
+ 
+         2 πr 
+ 
+donde:  δ= densidad del líquido 
+ 
+g = aceleración de la gravedad. Para Aguilares es g = (979 + 1) cm/s2 
+V = volumen de la gota 
+r = radio de la membrana líquida (considere el del orificio de salida) 
+ 
+1. A continuación proceda a determinar la densidad del etanol 96º.  
+Cuando trabaje con agua tome δ = (1,00 + 0,03) g/cm3. 
+2. Utilizando la jeringa graduada determine el volumen de la gota del líquido. (ver nota al pie) 
+3. Determine el radio exterior o interior. Justifique la elección. 
+
+4. Determine el  τsolicitado, con su correspondiente error.  
+ 
+Nota: 
+1- Debido a la presión atmosférica la gota no se forma (no cae), por lo que se le sugiere 
+presione lentamente el émbolo de la jeringa hasta lograr que caigan gotas en forma continua. 
+2- Durante el desarrollo de las experiencias o al final, realiza un informe detallado que tenga en 
+cuenta: los procedimientos empleados, dificultades encontradas, supuestos realizados, los 
+errores de medición, cuáles influyen más y toda otra consideración que crea necesario 
+agregar al informe.
+
+
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Droplet (object)|Droplet]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE30: Tensione superficiale per metodo stalagmometrico**
+
+PE30. Aguilar, Tucumán. Blu e verde. 
+ 
+Si desidera determinare la tensione superficiale τ a temperatura ambiente- dell'interfaccia acqua-
+aereo e la soluzione 96° etanolo-aria. 
+Per questo è fornito il seguente: 
+- 
+Seringhe di grado. 
+- 
+Provaci. 
+- 
+Più o meno. 
+- 
+Sbalza. 
+- 
+Calibro. 
+- 
+Torno micrometrico. 
+- 
+Conno allungato di legno di diametro crescente 0,2 a 2,5 mm. 
+- 
+Un vaso d'acqua. 
+- 
+Fossina di etanolo 96°. 
+- 
+Papero millimetrico. 
+Marco Teorico. 
+A causa della coesione le molecole di un liquido si attraggono reciprocamente all'interno di un raggio di azione 
+molto piccolo. 
+All'interno di un liquido una molecola viene attratta dai suoi vicini con uguale forza in tutte le direzioni.
+Ma sulle molecole che si trovano sulla superficie non si esercitano forze di attrazione.
+La superficie libera di un liquido tende a ritirarsi e si comporta come una
+membrana tensa che presenta sempre la minore superficie libera possibile. 
+Possiamo definire tensione superficiale come:  la forza per unità di lunghezza che una superficie 
+L'acqua si esercita sul contorno, perpendicolare a esso, tangenziale alla superficie e diretta verso il
+- La mia madre. 
+A causa della tensione superficiale, le piccole masse di liquidi che formano le gocce tendono a
+assumere forma sferica, perché è la superficie più piccola che contiene lo stesso volume. 
+La tensione superficiale è un fenomeno di interfacce. I loro valori caratteristici dipendono dalle
+le superfici in contatto e la temperatura. 
+Esistono diversi metodi per misurare la tensione superficiale τ, basati sui fenomeni che si verificano in questo campo.
+origin, uno dei quali è il seguente: 
+Metodo stalagmometrico 
+Quando si forma una goccia all'estremità di un tubo sottile, il suo volume aumenta progressivamente 
+fino a quando: il suo peso riesce a superare la tensione superficiale che lo tiene sospeso e poi cade. 
+Il peso della goccia è dato dal prodotto della densità, della gravità e del volume della goccia: 
+P = δ g V   
+(1) 
+La forza che mantiene la goccia (sospendente del tubo) è pari al prodotto della tensione 
+La superficie τ per la radius di circonferenza r della goccia, che nel nostro caso può essere ottenuta una 
+Buona approssimazione considerando il raggio del tubo stretto attraverso il quale esce la stessa
+Attenzione al contorno che bagna la goccia: interno o esterno -. 
+F = τ 2 π r 
+ 
+(2) 
+Quando si fa cadere la goccia: P = F; equa (1) con (2) si ottiene: 
+δ g V = τ 2 πr 
+Risultando
+τ   = δ g V 
+ 
+ 
+         2 πr 
+ 
+dove: δ= densità del liquido 
+ 
+g = accelerazione della gravità. Per Aguilares è g = (979 + 1) cm/s2 
+V = volume della goccia 
+r = radius della membrana liquida (considerare quello del foro di uscita) 
+ 
+1. La densità dell'etanolo 96o viene quindi determinata. 
+Quando si lavora con acqua, prendere δ = (1,00 + 0,03) g/cm3. 
+2. Utilizzando la siringa graduata si determina il volume della goccia del liquido. (vedi nota a piè di pagina) 
+3. Determina il raggio esterno o interno. Giustifica la scelta. 
+
+4. Determina il τ richiesto, con il relativo errore. 
+ 
+Nota: 
+1- A causa della pressione atmosferica la goccia non si forma (non cade), quindi è consigliato 
+premere lentamente l'embolo della siringa fino a far cadere continuamente le gocce. 
+2- Durante il processo di sviluppo delle esperienze o alla fine, esegue un rapporto dettagliato che abbia in
+- le procedure utilizzate, le difficoltà incontrate, le ipotesi fatte,
+errori di misurazione, che influenzano maggiormente e qualsiasi altra considerazione che ritiene necessaria 
+aggiungere al rapporto.
+
+
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Droplet (object)|Droplet]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The following is the list of the types of energy sources used:
+
+PE30. The Eagles, Tucumán. Blue and Green. 
+ 
+The surface tension τ a of the water interface is to be determined at room temperature.
+Air and the 96th ethanol-air solution. 
+The following elements are provided for this purpose: 
+- 
+Graduated syringes. 
+- 
+Try it. 
+- 
+I had a test tube with a lid. 
+- 
+Weigh it. 
+- 
+It's a caliber. 
+- 
+It's a micrometer screw. 
+- 
+Extended wood cone with a growing diameter of 0,2 to 2,5 mm. 
+- 
+Bottle with water. 
+- 
+Flask with 96° ethanol. 
+- 
+It's a millimeter piece of paper. 
+Theoretical mark. 
+Because of cohesion, molecules in a liquid attract each other within a radius of action.
+Very small. 
+Inside a liquid a molecule is attracted by its neighbors with equal force in all directions.
+But the molecules on the surface are not attracted by gravitational forces.
+This causes the free surface of a liquid to tend to retreat and behave like a
+a tight membrane with the least possible free surface. 
+We can define surface tension as: the force per unit length that a surface 
+The liquid is applied to its contour, perpendicular to it, tangential to the surface and directed towards the surface.
+I'm not a woman. 
+The surface tension causes the small masses of liquid forming the droplets to tend to
+It takes a spherical shape, because it's the smallest surface that contains the same volume. 
+Surface tension is an interface phenomenon. Its characteristic values depend on the
+contact surfaces and temperature. 
+There are different methods for measuring surface tension τ, based on the phenomena that are present.
+The Commission has decided to adopt a proposal for a regulation on the approximation of the laws of the Member States relating to the protection of the environment.
+Stalagmometric method 
+When a drop forms at the end of a thin tube, its volume gradually increases.
+Until: its weight manages to overcome the surface tension that keeps it suspended and then falls. 
+The weight of the drop is given by the product of the density, gravity and volume of the drop: 
+P = δ g V   
+(1) 
+The force that holds the drop (suspended from the tube) is equal to the product of the voltage.
+surface τ by the radius of the droplet, which in our case can be achieved by a 
+Good approximation considering the radius of the narrow tube through which the same special
+Pay attention to the contour that soaks the drop: inside or outside. 
+F = τ 2 π r 
+ 
+(2) 
+When the drop falls: P = F; equating (1) with (2) it is obtained: 
+δ g V = τ 2 πr 
+resulting 
+τ   = δ g V 
+ 
+ 
+         2 πr 
+ 
+where δ= density of liquid 
+ 
+g = acceleration of gravity. For Aguilares it is g = (979 + 1) cm/s2 
+V = volume of the drop 
+r = radius of the liquid membrane (consider the radius of the outlet hole) 
+ 
+1. The density of ethanol 96o is then determined. 
+When working with water take δ = (1,00 + 0,03) g/cm3. 
+2. Using the graduated syringe, determine the volume of the droplet in the liquid. (see footnote) 
+3. Determine the outer or inner radius. Justify the choice. 
+
+4. Determine the τrequested, with its corresponding error. 
+ 
+Note: 
+1- Due to atmospheric pressure the drop does not form (fall), so it is suggested 
+slowly press the syringe plunger until droplets drop continuously. 
+2- During the development of the experience or at the end, make a detailed report which is available to you at the end of the course.
+The number of cases is estimated at
+measurement errors, which influence more and any other consideration it considers necessary 
+to be added to the report.
+
+
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Droplet (object)|Droplet]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q123" data-atom="q123" data-title="Argent 2004 Locale — Quesito 123" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/calorimeter"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE31: Calor especifico de un metal por mezclas**
+
+PE31. San Miguel de Tucumán. Azul. 
+ 
+Se desea determinar, con el menor error, posible el calor específico de un metal. Para ello se utilizará 
+el “método de las mezclas, que consiste en colocar en un recipiente (calorímetro) que contiene agua a 
+la temperatura ambiente, un cuerpo a temperatura mayor. Cuando se mezclan y la temperatura alcanza 
+un valor de equilibrio, se aplica el concepto básico que: “el calor agregado por el cuerpo es igual al 
+calor que absorbe el agua” 
+Q hierro = Q agua           (I) 
+Q = m ce (tf – ti) 
+Materiales disponibles 
+1 cuerpo de masa conocida 
+1 recipiente de telgopor 
+1 termómetro 
+1 probeta graduada 
+a) Determinar, con el menor error posible el calor especifico del cuerpo 
+b) ¿Qué magnitudes deberá medir? 
+c) Acote el valor obtenido 
+d) ¿Cuál o cuales de las magnitudes introdujo mayor error? 
+e) ¿Qué supuestos tuvo que hacer para que la relación (I) utilizada fuera válida? 
+Nota: Coloque sólo la cantidad de agua suficiente para tapar el cuerpo completamente. 
+Redacte un informe de su experiencia donde se consigne: 
+- 
+Objetivos de su trabajo – Planteo analítico 
+- 
+Experiencia – método experimental utilizado 
+- 
+Valores obtenidos en las mediciones realizadas 
+- 
+Fuentes de error y análisis de cómo influyen en el resultado final 
+- 
+Resultado Final acotado 
+- 
+Todos aquellos comentarios que considere relevantes para el informe
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Calorimeter (object)|Calorimeter]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE31: Calore specifico di un metallo per miscele**
+
+PE31. San Michele di Tucumán. Blu. 
+ 
+Si desidera determinare, con il minimo errore possibile, il calore specifico di un metallo. Per questo si utilizzerà 
+il metodo di miscelazione, che consiste nel mettere in un recipiente (calorimetro) contenente acqua a
+la temperatura ambiente, un corpo a più alta temperatura. Quando si mescolano e la temperatura raggiunge
+Se si tratta di un valore di equilibrio, si applica il concetto di base che:
+calore che assorbe l'acqua 
+Q ferro = Q acqua (I) 
+Q = m ce (tf – ti) 
+Materiali disponibili 
+1 corpo di massa conosciuto 
+1 contenitore di telgopor 
+1 termometro 
+1 prova graduata 
+a) Determinare, con il minor errore possibile, la calore specifica del corpo 
+b) Quali dimensioni deve misurare? 
+(c) Accorgi il valore ottenuto 
+d) Qual è la maggiore errore? 
+e) Quali presupposti ha dovuto fare per validare il rapporto (I) utilizzato? 
+Nota: Metti solo abbastanza acqua per coprire completamente il corpo. 
+Scrivi un rapporto sull'esperienza che contiene: 
+- 
+Obiettivi del suo lavoro  Piantagione analitica 
+- 
+Esperienza  metodo sperimentale utilizzato 
+- 
+Valori ottenuti dalle misurazioni effettuate 
+- 
+Fonti di errore e analisi di come influenzano il risultato finale 
+- 
+Risultato finale annullato 
+- 
+Tutti i commenti che ritiene pertinenti per il rapporto
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Calorimeter (object)|Calorimeter]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE31: Specific heat of a metal by mixture**
+
+PE31. St. Michael of Tucumán. Blue, please. 
+ 
+The specific heat of a metal is to be determined with the least possible error. For this purpose it will be used 
+The method of mixing, which consists of placing in a container (calorometer) containing water to
+the ambient temperature, a body at higher temperature. When they mix and the temperature reaches 
+The basic concept is that: the body heat added is equal to 
+heat that absorbs water 
+Q iron = Q water (I) 
+Q = m ce (tf – ti) 
+Available materials 
+1 known mass body 
+1 container of telgopor 
+1 thermometer 
+1 graduated test 
+(a) Determine, with the least possible error, the specific body heat 
+(b) What dimensions should it measure? 
+(c) Include the value obtained 
+(d) Which of the major dimensions introduced the greatest error? 
+(e) What assumptions did he have to make to make the relationship (I) used valid? 
+Note: Only put in enough water to cover the body completely. 
+Write a report of your experience where you say: 
+- 
+Objectives of his work  Analytical planting 
+- 
+Experience  experimental method used 
+- 
+Value obtained from measurements made 
+- 
+Source of error and analysis of how they influence the final result 
+- 
+Final result summarised 
+- 
+All comments which you consider relevant to the report
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Calorimeter (object)|Calorimeter]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q124" data-atom="q124" data-title="Argent 2004 Locale — Quesito 124" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/mono,object/calorimeter,object/resistor"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE32: Equivalente electrico de la caloria y enfriamiento**
+
+PE32. San Miguel de Tucumán. Azul. 
+ 
+Esta prueba está estructurada en dos partes. La primera parte consiste en medir el equivalente eléctrico 
+de la caloria y en la segunda parte vamos a estudiar la relación matemática del descenso de la 
+temperatura en un cuerpo con temperatura por encima de la temperatura ambiente. 
+ 
+Primera parte 
+Equivalente Eléctrico de la Caloria 
+Introducción 
+El objetivo de esta práctica es calcular la capacidad térmica de un calorímetro y determinar el 
+equivalente eléctrico de la caloria, a través del principio de conservación de la energía. 
+Materiales 
+- 
+Un calentador pequeño ( potencia aproximada de 1200 W). 
+- 
+Un vaso de telgopor (calorímetro). 
+- 
+Un termómetro de mercurio. 
+- 
+Un vaso de plástico graduado. 
+Advertencias 
+Encienda el calentador solamente cuando esté sumergido en agua. Además la parte de la 
+resistencia debe estar totalmente cubierta por el agua. El cable puede ser mojado sin ningún 
+inconveniente. 
+- Encienda el calentador con 220 volts. 
+- Tenga cuidado par no quebrar el bulbo del termómetro. 
+Procedimiento 
+Coloque 200 ml de agua (mág) en el calorímetro (vaso de telgopor), agitelo levemente y mida la 
+temperatura inicial del agua (TI). Introduzca el calentador en el calorímetro y enciendalo durante 
+aproximadamente 1 minuto (no tiene que ser exactamente ese valor). Agite levemente el calorímetro y 
+mida la temperatura final (Tf). 
+Recomendación 1: Al agitar el calorímetro con agua, hagalo con cuidado para no derramar el agua. 
+Pasos 
+1 Paso: 
+Escriba las expresiones matemáticas que relacionan: 
+a) Capacidad térmica, calor y variación de temperatura. 
+b) Calor específico, capacidad térmica y masa. 
+c) Potencia, energía y variación de tiempo. 
+2 Paso: 
+Utilizando las expresiones anteriores, calcule: 
+a) El calor recibido por el agua (Q), durante el tiempo en el que el calentador permanece 
+encendido. 
+Datos sobre el agua: calor específico = 1 cal/g o C; densidad = 1g/ml. 
+b) La energía gastada por el calentador (E en joules) durante el mismo intervalo de tiempo. 
+Desprecie la capacidad térmica del calorímetro y la perdida de calor hacia el ambiente,  y suponga que 
+todo el calor generado por el calentador sirvió para calentar el agua. Utilizando el principio de la 
+conservación de la energía, determine cuantos Joules corresponden a una caloria, o en otras palabras, 
+determine el equivalente eléctrico de la caloria (J). 
+3 Paso: 
+Tire afuera el agua del calorímetro y sequelo, antes de continuar. Coloque 100 ml de agua en el 
+calorímetro, y deje otros 50 ml en el vaso de plástico. Agite levemente el agua del vaso y mida su 
+temperatura. Utilizando el calentador caliente el agua del calorímetro hasta aproximadamente 50 C (no 
+necesita ser exactamente ese valor). Vierta el agua del vaso plástico en el calorímetro, agitelo 
+nuevamente y mida la temperatura de equilibrio. 
+Recomendación 2: No retire el calentador del calorímetro; considerelo juntamente con el termómetro 
+como parte del calorímetro. 
+Recomendación 3: En la medida en que el agua es calentada, agite levemente el calorímetro para 
+leerl a temperatura. 
+Utilizando las expresiones del 1 paso: 
+
+a) Calcule el calor cedido por el agua caliente. 
+b) Calcule el calor recibido por el agua fría. 
+c) Escriba la expresión para el calor cedido por el calorímetro. 
+Despreciando la pérdida de calor hacia el ambiente, considere el intercambio de calor entre el agua 
+caliente, el agua fría y el calorímetro, y calcule la capacidad térmica (C) del calorímetro. 
+Para obtener un resultado más preciso repita la experiencia por lo menos tres veces y calcule el valor 
+medio de la capacidad térmica del calorímetro. 
+Para obtener un resultado más preciso repita la experiencia por lo menos tres veces y calcule el valor 
+medio de la capacidad térmica del calorímetro. Coloque los datos y resultados en una tabla. 
+Recomendación 4: Antes de cada experimento seque el calorímetro. 
+Experimento Masa 
+(agua caliente) 
+Temp. 
+Inicial 
+(agua 
+caliente) 
+Masa 
+(agua 
+fría) 
+Temp. 
+Inicial 
+(agua fría) 
+Temp. de 
+equilibrio 
+Capacidad 
+térmica 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Valor Medio C: 
+ 
+4 Paso: 
+Retome los datos del 2 paso y calcule el valor recibido por el agua y por el calorímetro, durante los 2 
+minutos de calentamiento. Considere, ahora, que la energía gastada por el calentador sirvió para 
+calentar el agua y también al calorímetro (desprecie apenas la perdida de calor hacia el ambiente), y 
+calcule nuevamente el equivalente eléctrico de la caloria. 
+5 Paso: 
+Considere el valor para el equivalente eléctrico (o mecánico) de la caloria como 4,18 J. 
+Calcule el error porcentual  (diferencia, en porcentaje) entre el valor esperado y el resultado obtenido, 
+primeramente para el 2 paso, y despues para el 4 paso. 
+Cual error porcentual es menor, para el 2 o 4 paso? Este resultado era esperado? Por qué? 
+Cuales son las principales fuentes de errores experimentales de esta práctica y como ellas pueden tener 
+influencia en el resultado? 
+ 
+Segunda Parte 
+Descenso de la temperatura 
+Si un cuerpo se enfría a partir de una temperatura inicial Ti hasta una T0, la ley de Newton puede ser 
+válida para explicar su enfriamiento. La ecuación: 
+T – T0 = (Ti – T0)e-k t 
+podría representar la evolución de la temperatura. 
+Estudiaremos entonces el enfriamiento de un cuerpo en función del tiempo. 
+Materiales: 
+Vaso 
+Termómetro 
+Hojas de papel milimetrado 
+Procedimiento 
+Paso 1: 
+Llena el vaso con agua e introduce el calentador para que el agua se caliente, no importa el valor que 
+se alcance. Retira el termómetro del vaso y trata de no moverlo mucho para no agitar el aire 
+circundante. Registra el descenso de temperatura con el termómetro, durante el primer minuto cada 2 o 
+3 segundos, luego cada 10 o 30 segundos hasta alcanzar la temeperatura ambiente. 
+Paso 2: 
+Traza la gráfica del temperatura (eje vertical) contra el tiempo (eje horizontal). 
+Paso 3: 
+Ahora traza la gráfica de la función en logaritmos. 
+
+In (T – T0)= 1n (Ti – T0) – k . t 
+Trata de obtener la pendiente de la recta. 
+Redacte un informe de su experiencia donde se consigne: 
+- 
+Objetivos de su trabajo – Planteo analítico 
+- 
+Experiencia realizada – Diseño experimental utilizado. 
+- 
+Valores, tablas y/o gráficas obtenidas. 
+- 
+Fuentes de errores y análisis de cómo influyen en los resultados finales acotados. 
+- 
+Consideraciones y supuestos que haya realizado. 
+- 
+Todos aquellos datos que considere relevantes para el informe.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Calorimeter (object)|Calorimeter]], [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE32: Equivalente elettrico di calore e raffreddamento**
+
+PE32. San Michele di Tucumán. Blu. 
+ 
+Questa prova è strutturata in due parti. La prima parte consiste nel misurare l'equivalente elettrico 
+La seconda parte di questa storia è la relazione matematica della diminuzione del calore.
+temperatura in un corpo con temperatura superiore alla temperatura ambiente. 
+ 
+Parte I
+Equivalente elettrico della caloria 
+Introduzione 
+L'obiettivo di questa pratica è calcolare la capacità termico di un calometro e determinare il
+Il valore di energia è il valore di energia di cui si tratta. 
+Materiali 
+- 
+Un piccolo riscaldatore (potenza approssimativa di 1200 W). 
+- 
+Un bicchiere di telgopor (calorimetro). 
+- 
+Un termometro di mercurio. 
+- 
+Un bicchiere di plastica graduato. 
+Avvertenze 
+Accendi il riscaldatore solo quando è immerso in acqua. Inoltre la parte della
+la resistenza deve essere completamente coperta dall'acqua. Il cavo può essere bagnato senza alcun tipo di acqua.
+- Non è conveniente. 
+- Accendi il riscaldatore a 220 volt. 
+- Fai attenzione a non rompere il bulbo del termometro. 
+Procedura 
+Metti 200 ml di acqua (mag) nel caloriometro (vaso di telgopor), agita leggermente e misura il volume di calore.
+temperatura iniziale dell'acqua (TI). Inserire il riscaldatore nel caloriometro e accenderlo durante 
+circa 1 minuto (non deve essere esattamente questo valore). Agita leggermente il calometro e
+misura la temperatura finale (Tf). 
+Suggerimento 1: Quando agitate il calometro con acqua, fate attenzione a non versare acqua. 
+Passi
+Passo 1 .
+Scrivi le espressioni matematiche che ti collegano: 
+a) Capacità termico, calore e variazione della temperatura. 
+b) Calore specifico, capacità termico e massa. 
+c) Potenza, energia e variazione del tempo. 
+Passo 2: 
+Usando le espressioni precedenti, calcola: 
+a) Calore ricevuto dall'acqua (Q) durante il periodo di permanenza del riscaldatore 
+accesa. 
+Dati sull'acqua: calore specifico = 1 cal/g o C; densità = 1 g/ml. 
+b) L'energia utilizzata dal riscaldatore (E in joule) durante lo stesso intervallo di tempo. 
+Scommetti la capacità termico del caloriometro e la perdita di calore nell'ambiente, e supponi che
+Tutto il calore generato dal riscaldatore serviva per riscaldare l'acqua. L'applicazione del principio di
+la conservazione dell'energia, determinare quanti Joule corrispondono a una caloria, o in altre parole,
+determinare l'equivalente elettrico della caloria (J). 
+Passo 3
+Togli l'acqua dal calometro e getta il liquido prima di continuare. Metti 100 ml di acqua nel liquido.
+caloriometro, e poi lasciate altri 50 ml nel bicchiere di plastica. Agita leggermente l ' acqua del bicchiere e misurata.
+temperatura. Utilizzando il riscaldatore, il caloriometro calda l'acqua fino a circa 50 C (no 
+deve essere esattamente quel valore). Versare l'acqua del bicchiere di plastica nel calometro, agitare.
+Ripetete e misurate la temperatura di equilibrio. 
+Recomandazione 2: Non togliere il riscaldatore dal calometro; consideralo insieme al termometro 
+come parte del calometro. 
+Suggerimento 3: Se l'acqua è riscaldata agita il calometro leggermente per
+Leggilo a temperatura. 
+Usando le espressioni del primo passo: 
+
+a) Calcolare il calore ceduto dall'acqua calda. 
+b) Calcolare il calore ricevuto dall'acqua fredda. 
+c) Scrivi l'espressione per il calore ceduto dal calometro. 
+Scommettere la perdita di calore verso l'ambiente, considera lo scambio di calore tra l'acqua 
+caldo, acqua fredda e calometro, e calcolare la capacità termico (C) del calometro. 
+Per un risultato più preciso, ripeta l'esperienza almeno tre volte e calcola il valore.
+media della capacità termico del calometro. 
+Per un risultato più preciso, ripeta l'esperienza almeno tre volte e calcola il valore.
+media della capacità termico del calometro. Metti i dati e i risultati in una tabella. 
+RICOMANDATORE 4: Prima di ogni esperimento, seccate il calometro. 
+Esperimento di massa
+(acqua calda) 
+Temp. 
+Inizialmente 
+(acqua 
+caldo) 
+Massa 
+(acqua 
+freddo) 
+Temp. 
+Inizialmente 
+(acqua fredda)
+Temp. de 
+equilibrio
+Capacità 
+termico 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Valore medio C: 
+ 
+Passo 4:
+Ritorna i dati del passo 2 e calcola il valore ricevuto dall'acqua e dal calometro, durante il 2
+Minuti di riscaldamento. Considera, ora, che l'energia spesa dal riscaldatore serviva per
+- il calore dell'acqua e del caloriometro (soprattutto la perdita di calore nell'ambiente);
+Calcola di nuovo l'equivalente elettrico della caloria. 
+5 Passo: 
+Considerare il valore per l'equivalente elettrico (o meccanico) della caloria come 4,18 J. 
+Calcolare l'errore percentuale (differenza, in percentuale) tra il valore atteso e il risultato ottenuto, 
+Prima per il secondo passo, poi per il quarto passo. 
+Qual è il minor errore percentuale per il passo 2 o 4? Questo risultato era previsto? - Perché? 
+Quali sono le principali fonti di errori sperimentali di questa pratica e come possono avere
+influenzare il risultato? 
+ 
+Parte II 
+Decrescita della temperatura
+Se un corpo si raffredda da una temperatura iniziale Ti a una T0, la legge di Newton può essere
+valida per spiegare il suo raffreddamento. L'equazione: 
+T – T0 = (Ti – T0)e-k t 
+potrebbe rappresentare l'evoluzione della temperatura. 
+Studieremo quindi il raffreddamento di un corpo in funzione del tempo. 
+Materiali: 
+Vaso 
+Termodermico
+Foli di carta millimetrica 
+Procedura 
+Passo 1:
+Riempire il bicchiere con acqua e inserire il riscaldatore per riscaldare l'acqua, non importa il valore che 
+si raggiunge. Togli il termometro del bicchiere e cerca di non muoverlo troppo per non agitare l'aria.
+- Circondante. Raccoglie la diminuzione della temperatura con il termometro, per il primo minuto ogni 2 o
+3 secondi, poi ogni 10 o 30 secondi fino a raggiungere la temperatura ambiente. 
+Passo 2:
+Traccia il grafico della temperatura (asse verticale) contro il tempo (asse orizzontale). 
+Passo 3:
+Ora traccia il grafico della funzione in logaritmi. 
+
+In (T – T0)= 1n (Ti – T0) – k . t 
+Cerchi di ottenere l'inclinazione della retta. 
+Scrivi un rapporto sull'esperienza che contiene: 
+- 
+Obiettivi del suo lavoro  Piantagione analitica 
+- 
+Esperienza realizzata  Disegno sperimentale utilizzato. 
+- 
+Valori, tabelle e/o grafici ottenuti. 
+- 
+Fonti di errori e analisi di come influenzano i risultati finali accorti. 
+- 
+Considerazioni e supposizioni che abbia fatto. 
+- 
+Tutti i dati che ritiene pertinenti per il rapporto.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Calorimeter (object)|Calorimeter]], [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE32: Electrical equivalent of heat and cooling**
+
+PE32. St. Michael of Tucumán. Blue, please. 
+ 
+This test is structured in two parts. The first part is to measure the electrical equivalent 
+And in the second part we're going to study the mathematical relationship of the decrease in the
+temperature in a body with a temperature above room temperature. 
+ 
+Part one
+Electrical equivalent of the calorie 
+The first is the introduction.
+The aim of this practice is to calculate the thermal capacity of a calorimeter and to determine the
+The electrical equivalent of the calorie, through the principle of energy conservation. 
+Materials 
+- 
+A small heater (approximately 1200 W). 
+- 
+A glass of telgopor (calorimeter). 
+- 
+A mercury thermometer. 
+- 
+A graduated plastic glass. 
+Warnings 
+Turn on the heater only when it is submerged in water. In addition, the part of the
+The resistance must be completely covered by water. The cable can be wet without any.
+It's inconvenient. 
+- Turn on the heater at 220 volts. 
+- Be careful not to break the thermometer bulb. 
+The procedure 
+Place 200 ml of water (mag) in the calorimeter (telgopor glass), stir slightly and measure the temperature.
+the initial water temperature (IT). Insert the heater into the thermometer and turn it on for a period of time.
+approximately 1 minute (not necessarily exactly that value). Shake the thermometer slightly and
+measurement of the final temperature (Tf). 
+Recommendation 1: When shaking the calorimeter with water, do so carefully so as not to spill water. 
+Steps .
+Step one:
+Write the mathematical expressions that relate: 
+(a) Heat capacity, heat and temperature variation. 
+(b) Specific heat, thermal capacity and mass. 
+(c) Power, energy and time variation. 
+Step two:
+Using the above expressions, calculate: 
+(a) The heat received by the water (Q), during the time the heater is in place 
+It's on. 
+Data on water: specific heat = 1 cal/g or C; density = 1 g/ml. 
+(b) The energy expended by the heater (E in joules) during the same time interval. 
+It's a disregard for the heat capacity of the thermometer and the heat loss to the environment, and suppose that
+All the heat generated by the heater was used to heat the water. Using the principle of 
+energy conservation, determining how many Joules correspond to a calorie, or in other words,
+determine the electrical equivalent of the calorie (J). 
+Step three:
+Remove the water from the thermometer and seep before continuing. Place 100 ml of water in the 
+heat meter, and leave another 50 ml in the plastic glass. Swing the water in the glass gently and measure its volume .
+The temperature. Using the heater the water from the calorimeter is heated to approximately 50 C (no
+It needs to be exactly that value). Pour the water from the plastic glass into the thermometer, stir it.
+Again and measure the equilibrium temperature. 
+Recommendation 2: Do not remove the heater from the thermometer; consider it together with the thermometer 
+as part of the thermometer. 
+Recommendation 3: As the water is heated, gently shake the thermometer to 
+read it at temperature. 
+Using the expressions in step 1: 
+
+(a) Calculate the heat released by the hot water. 
+(b) Calculate the heat received by the cold water. 
+(c) Write the expression for the heat given by the calorimeter. 
+Despite the loss of heat to the environment, consider the heat exchange between water.
+heat, cold water and the thermometer, and calculate the thermal capacity (C) of the thermometer. 
+For a more accurate result, repeat the experiment at least three times and calculate the value.
+the average heat capacity of the calorimeter. 
+For a more accurate result, repeat the experiment at least three times and calculate the value.
+the average heat capacity of the calorimeter. Put the data and results in a table. 
+Recommendation 4: Dry the calorimeter before each experiment. 
+Mass experiment
+(hot water) 
+Temp. 
+Initial
+(water)
+hot) 
+Mass 
+(water)
+cold) 
+Temp. 
+Initial
+(cold water) 
+Temp. de 
+Balance 
+Capacity 
+Heat
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Average value C: 
+ 
+Step four:
+Take the data from step 2 and calculate the value received by the water and the calorimeter during the 2
+minutes of warm-up. Consider, now, that the energy expended by the heater served to
+The heat is also used to heat the water and the thermometer (barely neglecting the heat loss to the environment), and
+Calculate the electrical equivalent of the calorie again. 
+Step five:
+Consider the value for the electrical (or mechanical) equivalent of the calorie as 4,18 J. 
+Calculate the percentage error (difference, in percentage) between the expected value and the result obtained, 
+First for step two, and then for step four. 
+Which percentage error is less, for step 2 or 4? This was the expected result? Why? Why? 
+What are the main sources of experimental errors in this practice and how they can have
+influence the outcome? 
+ 
+Part Two
+Temperature decline
+If a body is cooled from an initial temperature Ti to a T0, Newton's law can be 
+It's a valid explanation for its cooling. The equation: 
+T – T0 = (Ti – T0)e-k t 
+It could represent the evolution of temperature. 
+We'll then study the cooling of a body based on time. 
+Materials: 
+Glass .
+Thermometer .
+Sheets of millimetre paper 
+The procedure 
+Step one:
+Fill the glass with water and insert the heater so that the water will heat up, no matter what the value.
+reach. Remove the thermometer from the glass and try not to move it too much to not stir the air .
+surrounding. Record the temperature drop with the thermometer, for the first minute every 2 or 
+Three seconds, then every 10 or 30 seconds until room temperature. 
+Step two:
+Draw the temperature (vertical axis) against time (horizontal axis). 
+Step three:
+Now you plot the graph of the function in logarithms. 
+
+In (T – T0)= 1n (Ti – T0) – k . t 
+Try to get the slope of the straight. 
+Write a report of your experience where you say: 
+- 
+Objectives of his work  Analytical planting 
+- 
+Experience achieved  Experimental design used. 
+- 
+Value, tables and/or graphs obtained. 
+- 
+Sources of errors and analysis of how they influence the final results of the summary. 
+- 
+Considerations and assumptions you have made. 
+- 
+All the data you consider relevant to the report.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Calorimeter (object)|Calorimeter]], [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q125" data-atom="q125" data-title="Argent 2004 Locale — Quesito 125" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/mono,object/sphere,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE33: Viscosidad de un liquido (Stokes)**
+
+PE33. Yerba Buena, Tucumán. Azul. 
+ 
+Viscosidad de un líquido. 
+La viscosidad puede imaginarse como el rozamiento interno de un fluido. A causa de la viscosidad es 
+necesario ejercer una fuerza para obligar a una capa líquida a deslizar sobre otra, o para obligar a una 
+superficie a deslizar sobre otra cuando hay una capa de líquido entre ambas. 
+Cuando una esfera  se desplaza en el interior de un fluido viscoso en reposo, se ejerce una fuerza 
+resistente sobre la esfera. Si la esfera se abandona en reposo (v = 0) la resistencia debido a la 
+viscosidad es nula. Luego la esfera adquiere una velocidad dirigida hacia abajo, experimentando una 
+resistencia que puede calcularse por la “Ley de Stokes”. La velocidad aumenta y la resistencia 
+aumenta también en proporción directa, hasta alcanzar una velocidad constante llamada velocidad 
+límite. 
+Según el “Método de Stokes”, el coeficiente de viscosidad de un fluido se determina a partir de la 
+expresión 
+)
+(
+.
+9
+2
+2
+l
+c
+lv
+g
+r
+δ
+δ
+η
+−
+⋅
+=
+ 
+η =coeficiente de viscosidad 
+r =radio de la esfera 
+vl = velocidad límite 
+δc = densidad del cuerpo 
+δl = densidad del líquido 
+ 
+Materiales: 
+- 
+Recipiente 
+- 
+Cronómetro 
+- 
+Calibre 
+- 
+Glicerina 
+- 
+Papel milimetrado 
+- 
+Esferas de acero 
+Datos: 
+ 
+3
+3
+2
+)1
+1263
+(
+)1
+7821
+(
+)
+00001
+,0
+78903
+,9
+(
+m
+kg
+m
+kg
+s
+m
+g
+l
+c
+±
+=
+±
+=
+±
+=
+δ
+δ
+ 
+ 
+Experiencia: 
+1) Determine y acote el radio de las esferas. 
+2) Determine el tramo donde la velocidad es constante, de la siguiente forma 
+ 
+
+ 
+a) Mida x1, x2, x3 y compare 
+b) Deje deslizar cuidadosamente la esfera en el viscosímetro, mida y acote t1 
+c) Repita midiendo t2 y luego t3 
+d) Determine Xt y Tt 
+3) Calcule el valor de la viscosidad y acote. 
+4) Determine la viscosidad y su error 
+5) Analice las fuentes de error 
+6) Elabore un informe donde registre valores obtenidos
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Sphere (object)|Sphere]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE33: Viscosità di un liquido (Stokes) **
+
+PE33. - Buona erba, Tucumán. Blu. 
+ 
+Viscosità di un liquido. 
+La viscosità può essere immaginata come il ruggine interno di un fluido. A causa della viscosità è 
+necessaria un'esercizio di forza per costringere una strata liquida a scivolare su un'altra, o per costringere una
+la superficie da scivolare quando c'è una strata di liquido tra le due. 
+Quando una sfera si sposta all'interno di un fluido viscoso a riposo, si esercita una forza 
+resistente sulla sfera. Se la sfera si abbandona a riposo (v = 0) la resistenza dovuta alla
+la viscosità è nulla. Poi la sfera acquista una velocità diretta verso il basso, sperimentando una
+resistenza che può essere calcolata dalla legge di Stokes. La velocità aumenta e la resistenza aumenta.
+aumenta anche in proporzione diretta, fino a raggiungere una velocità costante chiamata velocità.
+limite. 
+Secondo il metodo di Stokes, il coefficiente di viscosità di un fluido è determinato a partire da
+espressione 
+)
+(
+.
+9
+2
+2
+l
+c
+lv
+g
+r
+δ
+δ
+η
+−
+⋅
+=
+ 
+η =coefficiente di viscosità 
+r =radio della sfera 
+vl = velocità limite 
+δc = densità del corpo 
+δl = densità del liquido 
+ 
+Materiali: 
+- 
+Raccogliente 
+- 
+Cronometro
+- 
+Calibro
+- 
+Glicerina
+- 
+Papero millimetrico 
+- 
+Sfere di acciaio 
+Datati: 
+ 
+3
+3
+2
+)1
+1263
+(
+)1
+7821
+(
+)
+00001
+,0
+78903
+,9
+(
+m
+kg
+m
+kg
+s
+m
+g
+l
+c
+±
+=
+±
+=
+±
+=
+δ
+δ
+ 
+ 
+Esperienza: 
+1) Determina e accetta il raggio delle sfere. 
+2) Determina il tratto in cui la velocità è costante, come segue 
+ 
+
+ 
+a) Misurare x1, x2, x3 e confrontare 
+b) Lascia scivolare con cura la sfera sul viscosimetro, misura e accetta t1 
+c) Ripeti misurando t2 e poi t3 
+d) Determina Xt e Tt 
+3) Calcolare il valore di viscosità e accorgerlo. 
+4) Determina la viscosità e il suo errore 
+5) Analizzare le fonti di errore 
+6) Preparare un rapporto che registri i valori ottenuti
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Sphere (object)|Sphere]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The value of the product shall be the sum of the values of the values of the product concerned.
+
+PE33. It's good grass, Tucumán. Blue, please. 
+ 
+Viscosity of a liquid. 
+Viscosity can be imagined as the internal friction of a fluid. Because of the viscosity it is 
+force is necessary to force a liquid layer to slide over another, or to force a
+surface to slide over another when there is a layer of liquid between the two. 
+When a sphere moves inside a resting viscous fluid, a force is applied.
+resistant to the sphere. If the sphere is left at rest (v = 0) the resistance due to the
+viscosity is zero. Then the sphere gains a downward-directed velocity, experiencing a
+resistance that can be calculated by Stokes' law. Speed increases and resistance increases.
+It also increases in direct proportion, until it reaches a constant velocity called velocity.
+The limit. 
+According to the Stokes method, the viscosity coefficient of a fluid is determined from the
+The expression 
+)
+(
+.
+9
+2
+2
+l
+c
+lv
+g
+r
+δ
+δ
+η
+−
+⋅
+=
+ 
+The viscosity coefficient is
+r = radius of the sphere 
+VL = speed limit 
+δc = body density 
+δl = density of the liquid 
+ 
+Materials: 
+- 
+Receiving 
+- 
+The time-meter .
+- 
+Caliber 
+- 
+Glycerin .
+- 
+Millimeter paper 
+- 
+Steel balls 
+The data: 
+ 
+3
+3
+2
+)1
+1263
+(
+)1
+7821
+(
+)
+00001
+,0
+78903
+,9
+(
+m
+kg
+m
+kg
+s
+m
+g
+l
+c
+±
+=
+±
+=
+±
+=
+δ
+δ
+ 
+ 
+Experience:
+1) Determine and record the radius of the spheres. 
+2) Determine the stretch where the speed is constant, as follows 
+ 
+
+ 
+(a) Measure x1, x2, x3 and compare 
+(b) Let the sphere slide carefully into the viscosometer, measure and take t1 
+(c) Repeat by measuring t2 and then t3 
+(d) Determine Xt and Tt 
+3) Calculate the viscosity value and take note. 
+4) Determine viscosity and error 
+5) Analyze the sources of error 
+6) Draw up a report recording the values obtained
+
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Sphere (object)|Sphere]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+
+<span class="atom-split" id="q126" data-atom="q126" data-title="Argent 2004 Locale — Quesito 126" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/resistor,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="es"></div>
+
+
+
+**PE34: Potencia de un calentador de agua**
+
+PE34. San Miguel de Tucumán. Verde. 
+ 
+Diseñar un método para conocer la POTENCIA en Watt de un calentador de agua, a partir del calor 
+que es capaz de entregar, teniendo en cuenta que: 
+ 
+a) Deben utilizarse los materiales e instrumentos disponibles que están sobre la mesa del 
+laboratorio. 
+b) Debe confeccionarse una guía de experimentación que contenga como mínimo: 
+• Fundamentos teóricos. 
+• Listado de materiales. 
+• Esquemas. 
+• Cuadro de valores de las respectivas mediciones. 
+• Cálculos y cotas de error. 
+• Observaciones. 
+• Conclusiones. 
+c) Contraste con otro método que crea conveniente. 
+d) Analice diferencias, explique, grafique.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Resistor (object)|Resistor]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**PE34: Potenza di un riscaldatore d'acqua**
+
+PE34. San Michele di Tucumán. Verde. 
+ 
+Progettare un metodo per conoscere il POTENZA in watt di un riscaldatore d'acqua, a partire dal calore 
+che è in grado di consegnare, tenendo conto che: 
+ 
+(a) I materiali e gli strumenti disponibili sul tavolo del
+laboratorio. 
+b) Deve essere redatto un test guide contenente almeno: 
+• fondamenti teorici. 
+• Lista dei materiali. 
+• Schemi. 
+• tabella dei valori delle rispettive misure. 
+• Calcoli e quote di errore. 
+• osservazioni. 
+• Conclusioni. 
+c) Contrastare con un altro metodo che ritiene opportuno. 
+d) Analizzare le differenze, spiegare, graficare.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Resistor (object)|Resistor]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**PE34: Power of a water heater**
+
+PE34. St. Michael of Tucumán. Green, please. 
+ 
+Design a method to know the Watt power of a water heater, from heat 
+which is capable of delivering, taking into account that: 
+ 
+(a) The materials and instruments available on the table of the
+The lab. 
+(b) An experimental guide containing at least: 
+• Theoretical foundations. 
+• List of materials. 
+• Schemes 
+• Table of values of the measurements. 
+• Calculations and error rates. 
+• Observations 
+• Conclusions 
+(c) Contrast with another method which you consider appropriate. 
+(d) Analyze differences, explain, draw.
+
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
+**Objects:** [[Resistor (object)|Resistor]], [[Tank/Container (object)|Tank/Container]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)

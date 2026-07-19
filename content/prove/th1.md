@@ -1,0 +1,293 @@
+---
+title: OII na Sperimentale
+tipo: prova
+tags:
+  - graph/prova
+---
+<div class="atom-reader" data-prova="th1"></div>
+
+
+
+
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/electrostatics,topic/electromagnetic-induction,argomento/meccanica,object/rope-string,object/heat-engine,object/nucleus,object/sphere,object/coil"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Problema Teorico 1
+
+**A**
+
+Un “bungee jumper” è una persona che esegue dei salti acrobatici: per questo
+viene legato all’estremo di una lunga corda elastica, mentre l’altro estremo della
+corda è fissato ad un ponte a grande altezza. Il saltatore si lascia cadere dal
+ponte e precipita da fermo verso il basso; la sua massa è $m$, la lunghezza della
+corda a riposo è $L$, la costante elastica della corda è $k$ ($k$ rappresenta la forza che
+fa allungare la corda di 1 m), l’accelerazione di gravità è $g$.
+Si può assumere che:
+
+- Il saltatore può essere considerato come una massa $m$ puntiforme
+attaccata all’estremo della corda,
+
+- la massa della corda è trascurabile rispetto ad $m$,
+
+- la corda si allunga secondo la legge di Hooke,
+
+- durante la caduta del saltatore la resistenza dell’aria può essere trascurata.
+
+Trova un’espressione per le seguenti grandezze e riportala sul foglio risposte:
+a) la distanza $y$ percorsa dal saltatore prima di fermarsi, la prima
+volta, per un istante;
+b) la velocità massima $v$ raggiunta durante questa fase della caduta;
+c) la durata $t$ di questa fase della caduta (prima di fermarsi la prima
+volta).
+
+**B**
+
+Una macchina termica lavora scambiando calore con due oggetti A e B a
+temperature diverse, $T_A$ e $T_B$ ($T_A > T_B$); ciascuno dei due oggetti ha massa $m$ e
+calore specifico $c$. I due oggetti sono mantenuti a pressione costante e non
+subiscono transizioni di fase.
+
+(a)
+Mostrando tutti i passaggi ricava un’espressione per la temperatura finale
+$T_0$ raggiunta dai corpi A e B supponendo che la macchina estragga dal
+sistema la massima quantità di energia meccanica consentita teoricamente.
+Scrivi l’espressione della temperatura $T_0$ determinata, sul foglio risposte.
+
+(b) Ricava quindi un’espressione per la massima quantità di energia meccanica
+disponibile e trascrivila sul foglio risposte.
+La macchina termica lavora tra due serbatoi d’acqua il cui volume è $2.50\ \text{m}^3$.
+Un serbatorio è a 350 K, l’altro a 300 K.
+
+(c) Calcola la massima quantità di energia meccanica che si può ottenere e
+trascrivi il valore trovato sul foglio risposte.
+
+Calore specifico dell’acqua $= 4.19\times10^3\ \text{J kg}^{-1}\,\text{K}^{-1}$
+
+Densità dell’acqua $= 1.00\times10^3\ \text{kg m}^{-3}$
+
+**C**
+
+Si assuma che nel periodo in cui si è formata la Terra fossero presenti gli
+isotopi $^{238}\text{U}$ e $^{235}\text{U}$, ma non i loro prodotti di decadimento. È possibile
+utilizzare il decadimento di $^{238}\text{U}$ e $^{235}\text{U}$ per determinare l’età della Terra $T$.
+
+(a)
+L’isotopo $^{238}\text{U}$ decade con un tempo di dimezzamento pari a $4.50\times10^9$ anni.
+I prodotti del decadimento della serie radioattiva risultante
+hanno un tempo di dimezzamento più corto rispetto agli altri e, in prima
+approssimazione la loro presenza si può trascurare. La serie dei
+decadimenti termina con l’isotopo stabile $^{206}\text{Pb}$.
+
+Sia $^{206}n$ il numero di atomi di $^{206}\text{Pb}$ prodotti all’istante $t$ ed $^{238}N$ il numero di
+atomi di $^{238}\text{U}$ presenti all’istante $t$, esprimi $^{206}n$ in funzione del tempo, del numero
+di atomi presenti di $^{238}\text{U}$, $^{238}N$, e del tempo di dimezzamento di $^{238}\text{U}$. (Può
+essere utile esprime tutto in unità di $10^9$ anni.)
+Riporta la formula trovata nel foglio risposte.
+
+(b)
+Analogamente, si ha che $^{235}\text{U}$ decade con tempo di dimezzamento di
+$0.710\times10^9$ anni nell’isotopo stabile $^{207}\text{Pb}$. I prodotti della serie del
+decadimento hanno un tempo di dimezzamento corto e perciò
+trascurabile.
+Ricava, come prima, un’espressione di $^{207}n$ in funzione di $t$, $^{207}\text{Pb}$ ed
+il tempo di dimezzamento di $^{235}\text{U}$.
+Trascrivi la formula trovata nel foglio risposte.
+
+(c)
+Un minerale, contenente uranio e piombo, viene analizzato con lo
+spettrometro di massa. Si misura la concentrazione relativa degli isotopi
+di $^{204}\text{Pb}$, $^{206}\text{Pb}$ e $^{207}\text{Pb}$ e si trova che il numero di atomi degli isotopi
+sta, rispettivamente, nei rapporti di 1,00:29,6; 22,6. L’isotopo $^{204}\text{Pb}$ che
+non è radioattivo viene preso come riferimento. Se, invece, viene
+analizzato un minerale puro di piombo, si ottengono i seguenti rapporti
+1,00;17,9;15,5. Sapendo che il rapporto $^{238}N : {}^{235}N$ è di 137:1, trova
+un’equazione nell’incognita $T$, l’età della Terra.
+
+(d)
+Supponendo che $T$ sia molto più grande del tempo di dimezzamento di
+tutti gli isotopi dell’uranio, calcola un valore approssimto dell’età della
+Terra $T$.
+
+(e) Il valore approssimato calcolato al punto precedente non è più grande in
+maniera significativa del più lungo tempo di dimezzamento, ma può
+essere adoperato per ottenere un valore di $T$ molto più accurato. Da qui, o
+in qualche altro modo, stima un valore dell’età della Terra preciso al 2%.
+
+**D**
+
+La carica elettrica $Q$, nel vuoto, è distribuita uniformemente entro un volume
+sferico di raggio $R$.
+
+(a) Trova un’espressione dell’intensità del campo elettrico in funzione della
+distanza $r$ dal centro della sfera, sia nel caso in cui $r \le R$ sia nel caso in
+cui $r > R$.
+Trascrivi l’espressione trovata nel foglio risposte.
+
+(b) Trova l’energia elettrostatica totale di questa distribuzione di carica.
+Riporta l’espressione trovata nel foglio risposte.
+
+**E**
+
+Un sottile anello circolare di rame viene fatto ruotare attorno ad un diametro
+disposto verticalmente in un punto del campo magnetico terrestre. Il campo
+magnetico terrestre in tale punto ha intensità $44.5\ \mu\text{T}$ ed è diretto verso il
+basso con un angolo di $64^\circ$ con l’orizzontale.
+
+Calcola quanto tempo occorre perché la velocità angolare dell’anello si dimezzi,
+sapendo che la densità del rame è $8.90\times10^3\ \text{kg m}^{-3}$ e la sua resistività è
+$1.70\times10^{-8}\ \Omega\,\text{m}$.
+Descrivi il procedimento seguito e poi indica il valore del tempo richiesto sul
+foglio risposte. Nota che questo tempo è molto maggiore del periodo di
+rotazione dell’anello.
+Puoi supporre che gli effetti dell’attrito dovuti ai supporti e alla presenza
+dell’aria siano trascurabili e, ai fini di questo problema, ignorare gli effetti
+dell’autoinduzione per quanto, in realtà, non siano piccoli.
+
+**Topic:** [[Thermodynamics]], [[Electrostatics]], [[Electromagnetic Induction]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Radioactive Decay Law (metodo)|Radioactive Decay Law]], [[Gauss's Law (metodo)|Gauss's Law]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Rope/String (object)|Rope/String]], [[Heat Engine (object)|Heat Engine]], [[Nucleus (object)|Nucleus]], [[Sphere (object)|Sphere]], [[Coil (object)|Coil]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1pxGeY8ECwEYqF5qhI-XAJA-xxK_gscAh/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Theoretical problem 1
+
+**A**
+
+A bungee jumper is a person who performs acrobatic jumps: for this reason
+The other end of the rope is connected to the end of a long elastic rope, while the other end of the rope is connected to the end of the rope.
+The rope is fixed to a high-altitude bridge. The jumper drops from the
+The length of the bridge and the slope of the bridge is $m$, the length of the bridge is $m$.
+The resting rope is $L$, the rope's elastic constant is $k$ ($k$ represents the force that
+The acceleration of gravity is $g$.
+It can be assumed that:
+
+- The jumper can be considered as a pointed mass $m$
+And she is attached to the end of the rope,
+
+- the mass of the rope is negligible compared to $m$,
+
+- the rope lengthens according to Hooke's law,
+
+- during the fall of the jumper the air resistance may be neglected.
+
+Find an expression for the following quantities and report it on the answer sheet:
+(a) the distance $y$ travelled by the jumper before stopping, the first
+Once, for a moment;
+(b) the maximum speed $v$ reached during this falling phase;
+(c) the duration $t$ of this fall phase (before the first stop)
+(Table number of the report)
+
+**B**
+
+A thermal machine works by exchanging heat with two objects A and B
+different temperatures, $T_A$ and $T_B$ ($T_A > T_B$); each of the two objects has a mass $m$ and
+calore specifico $c$. The two objects are kept under constant pressure and not
+They are undergoing phase transitions.
+
+(a)
+By showing all the steps, it takes an expression for the final temperature
+$T_0$ achieved by bodies A and B assuming that the machine extracts from the
+The system is the maximum amount of mechanical energy theoretically allowed.
+Write the temperature $T_0$ as determined on the answer sheet.
+
+(b) It thus yields an expression for the maximum amount of mechanical energy
+The Commission shall adopt implementing acts in accordance with Article 21 of the Treaty.
+The heat machine works between two water tanks whose volume is $2.50\ \text{m}^3$.
+One reservoir is 350 K, the other 300 K.
+
+(c) Calculates the maximum amount of mechanical energy that can be obtained and
+Write down the value found on the answer sheet.
+
+Specific heat of water $= 4.19\times10^3\ \text{J kg}^{-1}\,\text{K}^{-1}$
+
+Density of water $= 1.00\times10^3\ \text{kg m}^{-3}$
+
+**C**
+
+It is assumed that at the time of the formation of the Earth the
+isotopes $^{238}\text{U}$ and $^{235}\text{U}$, but not their decay products. It is possible
+use the decay of $^{238}\text{U}$ and $^{235}\text{U}$ to determine the age of the Earth $T$.
+
+(a)
+The $^{238}\text{U}$ isotope decays with a half-life of $4.50\times10^9$ years.
+Products of the resulting radioactive series decay
+They have a shorter half-life than others and, in the first
+The approximation of their presence can be neglected. The series of
+decay ends with the stable isotope $^{206}\text{Pb}$.
+
+Either the $^{206}n$ number of atoms of $^{206}\text{Pb}$ produced at the present $t$ and $^{238}N$ the number of atoms of $^{206}\text{Pb}$
+atoms of $^{238}\text{U}$ present in the $t$ adjacent, expressions $^{206}n$ in terms of time, number
+The average of the atoms present at $^{238}\text{U}$, $^{238}N$ and the half-life of $^{238}\text{U}$. (You can
+be useful is expressed in units of $10^9$ years.)
+Report the formula found in the reply sheet.
+
+(b)
+Similarly, $^{235}\text{U}$ decreases with half-life of
+$0.710\times10^9$ anni nell’isotopo stabile $^{207}\text{Pb}$. Products of the series
+decay have a short half-life and therefore
+It's negligible.
+It is an expression of $^{207}n$ as a function of $t$, $^{207}\text{Pb}$ and
+the half-life of $^{235}\text{U}$.
+Transcribe the formula found in the answer sheet.
+
+(c)
+A mineral containing uranium and lead is analysed with the
+mass spectrometer. The relative concentration of isotopes is measured
+di $^{204}\text{Pb}$, $^{206}\text{Pb}$ e $^{207}\text{Pb}$ e si trova che il numero di atomi degli isotopi
+The value of the underlying assets shall be calculated as follows: The isotope $^{204}\text{Pb}$ which
+It is not radioactive, it is taken as a reference. If, on the other hand, it comes
+The following results are obtained from the analysis of a pure lead mineral:
+1,00;17,9;15,5. Sapendo che il rapporto $^{238}N : {}^{235}N$ è di 137:1, trova
+un’equazione nell’incognita $T$, l’età della Terra.
+
+(d)
+Assuming that $T$ is much greater than the half-life of
+The total number of uranium isotopes is calculated as the approximate age of the
+Terra $T$.
+
+(e) The approximate value calculated in the preceding paragraph shall not be greater than
+The Commission has not yet taken any further action.
+be used to obtain a much more accurate value of $T$. From here, or
+Somehow, it estimates an exact Earth age value of 2%.
+
+**D**
+
+The electrical charge $Q$ in the vacuum is evenly distributed within one volume
+The radius of the sphere $R$.
+
+(a) Find an expression of the electric field intensity in relation to the
+distance $r$ from the centre of the sphere, whether in the case of $r \le R$ or in the case of $r \le R$
+where $r > R$ is used.
+Transcribe the expression found in the reply sheet.
+
+(b) Find the total electrostatic energy of this charge distribution.
+Report the expression found in the reply sheet.
+
+**E**
+
+A thin circular copper ring is rotated around a diameter
+It is located vertically at a point in the Earth's magnetic field. The field
+The magnetic field at this point is $44.5\ \mu\text{T}$ and is directed towards the
+low with an angle of $64^\circ$ with the horizontal.
+
+Calculate how long it takes for the angular velocity of the ring to halve,
+Knowing that copper density is $8.90\times10^3\ \text{kg m}^{-3}$ and its resistivity is
+$1.70\times10^{-8}\ \Omega\,\text{m}$.
+Describe the procedure followed and then indicate the time required for the
+The answer sheet. Note that this time is much longer than the period of
+rotation of the ring.
+You can assume that the effects of friction due to the presence of
+The problem is that the effects of the air pollution are negligible and, for the purpose of this problem, the effects of the
+The Commission has already decided to adopt a proposal for a directive on the protection of the environment.
+
+**Topic:** [[Thermodynamics]], [[Electrostatics]], [[Electromagnetic Induction]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Radioactive Decay Law (metodo)|Radioactive Decay Law]], [[Gauss's Law (metodo)|Gauss's Law]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Rope/String (object)|Rope/String]], [[Heat Engine (object)|Heat Engine]], [[Nucleus (object)|Nucleus]], [[Sphere (object)|Sphere]], [[Coil (object)|Coil]]
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1pxGeY8ECwEYqF5qhI-XAJA-xxK_gscAh/view)

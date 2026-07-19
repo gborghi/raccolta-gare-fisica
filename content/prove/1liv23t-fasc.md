@@ -1,0 +1,1928 @@
+---
+title: OII 2023 1° Livello
+tipo: prova
+tags:
+  - graph/prova
+---
+<div class="atom-reader" data-prova="1liv23t-fasc"></div>
+
+
+
+
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2023 1° Livello — Quesito 1" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Due forze di 3 N e 4 N sono applicate allo stesso corpo.
+
+Quando l'angolo fra le due forze varia da $0^\circ$ a $90^\circ$, il modulo della forza risultante varia fra
+
+- **A.** 1 N e 7 N
+- **B.** 7 N e 1 N
+- **C.** 5 N e 7 N
+- **D.** 7 N e 5 N
+- **E.** non varia.
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Vector Decomposition (metodo)|Vector Decomposition]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Two forces of 3 N and 4 N are applied to the same body.
+
+When the angle between the two forces varies from $0^\circ$ to $90^\circ$, the resulting force modulus varies between
+
+- **A.** 1 N e 7 N
+- **B.** 7 N e 1 N
+- **C.** 5 N e 7 N
+- **D.** 7 N e 5 N
+- **E.** does not change.
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Vector Decomposition (metodo)|Vector Decomposition]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+
+
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2023 1° Livello — Quesito 2" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/meccanica,object/gas"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+I grafici X e Y mostrano la pressione, il volume, l'entropia e la temperatura di una data massa di gas perfetto durante un esperimento in cui il gas si trova inizialmente nello stato indicato dal punto 1 e dopo una trasformazione reversibile raggiunge lo stato indicato dal punto 2.
+
+Quali delle seguenti affermazioni sono corrette?
+
+1. Il gas si espande secondo la legge di Boyle.
+2. La pressione decresce a temperatura costante.
+3. Il recipiente ha le pareti isolanti.
+
+- **A.** Solo la 1.
+- **B.** Solo la 3.
+- **C.** Solo la 1 e la 2.
+- **D.** Solo la 1 e la 3.
+- **E.** Nessuna delle tre.
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p3_f1.png]]
+*Grafici P-V e T-S trasformazione reversibile*
+<!--fig:end-->
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Gas (object)|Gas]]
+**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+The X and Y graphs show the pressure, volume, entropy and temperature of a given perfect gas mass during an experiment where the gas is initially in the state indicated in point 1 and after a reversible transformation reaches the state indicated in point 2.
+
+Which of the following statements is correct?
+
+1. Gas expands according to Boyle's law.
+2. Pressure drops at constant temperature.
+3. The container has insulating walls.
+
+- **A ** Only the 1.
+- **B.** Only the 3.
+- **C.** Only 1 and 2.
+- **D.** Only the 1 and 3.
+- None of the three.
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p3_f1.png]]
+*P-V and T-S graphs reversible transformation*
+<!--fig:end-->
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Gas (object)|Gas]]
+**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+
+
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2023 1° Livello — Quesito 3" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Se $s$ indica la posizione di un oggetto al tempo $t$, quale di questi grafici rappresenta meglio il caso in cui l'oggetto ha una velocità che aumenta in modulo nel tempo?
+
+- **A.** A
+- **B.** B
+- **C.** C
+- **D.** D
+- **E.** E
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p3_f2.png]]
+*Cinque grafici posizione-tempo*
+<!--fig:end-->
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+If $s$ indicates the position of an object at time $t$, which of these graphs best represents the case where the object has a speed that increases in the form over time?
+
+- **A.** A
+- **B.** B
+- **C.** C
+- **D.** D
+- **E.** E
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p3_f2.png]]
+The following table shows the position-time graphs:
+<!--fig:end-->
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+
+
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="OII 2023 1° Livello — Quesito 4" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/meccanica,object/rope-string"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Due impulsi trasversali viaggiano con la stessa velocità $v$ e in verso opposto lungo una corda. La figura mostra un'istantanea all'istante $t_0$.
+
+Assumendo che la velocità sia di 1 quadretto/s, quanto vale lo spostamento del punto X dopo 3 secondi?
+
+- **A.** +2 unità
+- **B.** +1 unità
+- **C.** 0 unità
+- **D.** −1 unità
+- **E.** −2 unità
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p3_f3.png]]
+*Istantanea due impulsi su corda*
+<!--fig:end-->
+**Topic:** [[Oscillations & Waves]]
+**Metodi:** [[Superposition Principle (metodo)|Superposition Principle]], [[Wave Equation (metodo)|Wave Equation]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Rope/String (object)|Rope/String]]
+**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Two cross-sectional pulses travel at the same speed $v$ and in opposite directions along a rope. The figure shows an instantaneous snapshot $t_0$.
+
+Assuming the speed is 1 square/s, what's the value of moving the point X after 3 seconds?
+
+- **A.** +2 units
+- **B.** +1 units
+- **C.** 0 units
+- **D.** −1 units
+- **E.** -2 units
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p3_f3.png]]
+*Instant two pulses on the rope*
+<!--fig:end-->
+**Topic:** [[Oscillations & Waves]]
+**Metodi:** [[Superposition Principle (metodo)|Superposition Principle]], [[Wave Equation (metodo)|Wave Equation]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Rope/String (object)|Rope/String]]
+**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+
+
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="OII 2023 1° Livello — Quesito 5" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/circuits,argomento/meccanica,object/battery,object/wire"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Nel circuito mostrato in figura le due pile e l'amperometro hanno una resistenza elettrica interna trascurabile.
+
+L'amperometro misura:
+
+- **A.** zero
+- **B.** 0.4 A
+- **C.** 0.6 A
+- **D.** 0.8 A
+- **E.** 1.2 A
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p3_f4.png]]
+*Circuito con due pile e amperometro*
+<!--fig:end-->
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Battery (object)|Battery]], [[Wire (object)|Wire]]
+**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+In the circuit shown in the figure, the two batteries and the amperometer have negligible internal electrical resistance.
+
+The amperometer shall measure:
+
+- **A ** zero
+- **B.** 0.4 A
+- **C.** 0.6 A
+- **D.** 0.8 A
+- **E.** 1.2 A
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p3_f4.png]]
+*Two-battery circuit and ampere *
+<!--fig:end-->
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Battery (object)|Battery]], [[Wire (object)|Wire]]
+**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+
+
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="OII 2023 1° Livello — Quesito 6" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/magnetism,argomento/meccanica,object/wire,object/switch"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+In figura è mostrato un circuito in cui il tratto superiore compreso tra X e Y è costituito da un filo rigido in grado di ruotare liberamente intorno all'asse orizzontale XY. È presente un campo magnetico diretto verso destra. Il circuito è inizialmente fermo nel piano della figura.
+
+Quando l'interruttore viene chiuso, la parte mobile del circuito, rispetto al piano della figura, …
+
+- **A.** … resta ferma.
+- **B.** … ruota di $90^\circ$ in verso uscente.
+- **C.** … ruota di $90^\circ$ in verso entrante.
+- **D.** … ruota di $180^\circ$ in verso uscente.
+- **E.** … ruota di $180^\circ$ in verso entrante.
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p3_f5.png]]
+*Circuito con filo rotante in campo magnetico*
+<!--fig:end-->
+**Topic:** [[Magnetism]]
+**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Wire (object)|Wire]], [[Switch (object)|Switch]]
+**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+In the figure a circuit is shown in which the upper part between X and Y is a rigid wire capable of rotating freely around the XY horizontal axis. There's a magnetic field right there. The circuit is initially fixed in the plane of the figure.
+
+When the switch is closed, the moving part of the circuit, relative to the plane of the figure, …
+
+- **A ** … remains stationary.
+- **B.** … wheel of $90^\circ$ on the outgoing side.
+- **C.** … wheel of $90^\circ$ in the inbound direction.
+- **D ** … wheel of $180^\circ$ on the outgoing side.
+- **E.** … wheel of $180^\circ$ in the inbound direction.
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p3_f5.png]]
+*Wire-rotating magnetic field circuit*
+<!--fig:end-->
+**Topic:** [[Magnetism]]
+**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Wire (object)|Wire]], [[Switch (object)|Switch]]
+**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
+
+
+
+<span class="atom-split" id="q07" data-atom="q07" data-title="OII 2023 1° Livello — Quesito 7" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/kinetic-theory,argomento/meccanica,object/gas"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Un gruppo di alunni ha fornito le seguenti affermazioni sulla teoria cinetica dei gas perfetti.
+
+Quale affermazione è falsa?
+
+- **A.** Le collisioni tra le molecole sono elastiche.
+- **B.** La velocità delle molecole diminuisce progressivamente tra un urto e l'altro.
+- **C.** Le molecole si muovono in modo casuale.
+- **D.** Le molecole possono essere considerate di volume trascurabile.
+- **E.** L'energia cinetica media è proporzionale alla temperatura misurata in kelvin.
+**Topic:** [[Kinetic Theory]]
+**Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Gas (object)|Gas]]
+**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A group of students made the following statements on the kinetic theory of perfect gases.
+
+What statement is false?
+
+- MSK1/ The collisions between the molecules are elastic.
+- **B.** The speed of molecules decreases gradually between each impact.
+- **C.** The molecules move randomly.
+- **D.** Molecules may be considered to be negligible in volume.
+- **E.** The mean kinetic energy is proportional to the temperature measured in kelvins.
+**Topic:** [[Kinetic Theory]]
+**Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Gas (object)|Gas]]
+**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+
+
+
+<span class="atom-split" id="q08" data-atom="q08" data-title="OII 2023 1° Livello — Quesito 8" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/gravitation,argomento/meccanica,object/satellite,object/planet"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Due satelliti identici X e Y sono in orbita circolare intorno alla Terra. Il raggio dell'orbita di X è il doppio del raggio dell'orbita di Y.
+
+Quali delle seguenti affermazioni sono corrette?
+
+1. L'energia potenziale gravitazionale di X è maggiore di quella di Y.
+2. L'energia cinetica di X è minore di quella di Y.
+3. I periodi delle due orbite sono uguali.
+
+- **A.** La 1, la 2 e la 3.
+- **B.** La 1 e la 2.
+- **C.** La 2 e la 3.
+- **D.** Solo la 1.
+- **E.** Solo la 3.
+**Topic:** [[Gravitation]]
+**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
+**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Two identical satellites X and Y orbit the Earth in a circular orbit. The radius of the orbit of X is twice the radius of the orbit of Y.
+
+Which of the following statements is correct?
+
+1. The gravitational potential energy of X is greater than that of Y.
+2. The kinetic energy of X is less than that of Y.
+3. The periods of the two orbits are the same.
+
+- **A.** La 1, la 2 e la 3.
+- **B.** La 1 e la 2.
+- **C.** La 2 e la 3.
+- **D.** Only the 1.
+- **E** Only the 3.
+**Topic:** [[Gravitation]]
+**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
+**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+
+
+
+<span class="atom-split" id="q09" data-atom="q09" data-title="OII 2023 1° Livello — Quesito 9" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Un'automobile si muove lungo un rettilineo in pianura, partendo da ferma all'istante $t = 0$, con un'accelerazione rappresentata nel grafico in figura.
+
+Qual è la velocità dell'automobile all'istante $t = 3\,\text{s}$?
+
+- **A.** $4.50\,\text{m s}^{-1}$
+- **B.** $7.50\,\text{m s}^{-1}$
+- **C.** $10.5\,\text{m s}^{-1}$
+- **D.** $12.5\,\text{m s}^{-1}$
+- **E.** $15.0\,\text{m s}^{-1}$
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p3_f6.png]]
+*Grafico accelerazione-tempo automobile*
+<!--fig:end-->
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A car moves along a straight line in the plain, starting from a stop at the instant $t = 0$, with an acceleration as shown in the figure.
+
+What is the speed of the car at the moment $t = 3\,\text{s}$?
+
+- **A.** $4.50\,\text{m s}^{-1}$
+- **B.** $7.50\,\text{m s}^{-1}$
+- **C.** $10.5\,\text{m s}^{-1}$
+- **D.** $12.5\,\text{m s}^{-1}$
+- **E.** $15.0\,\text{m s}^{-1}$
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p3_f6.png]]
+The vehicle speed-time chart
+<!--fig:end-->
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+
+
+
+<span class="atom-split" id="q10" data-atom="q10" data-title="OII 2023 1° Livello — Quesito 10" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/gravitation,topic/newtonian-mechanics,argomento/meccanica,object/planet"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Un'astronauta pesa 500 N sulla Terra e 25 N su un asteroide X.
+
+L'accelerazione di gravità sull'asteroide X è approssimativamente
+
+- **A.** $0.05\,\text{m s}^{-2}$
+- **B.** $0.2\,\text{m s}^{-2}$
+- **C.** $0.5\,\text{m s}^{-2}$
+- **D.** $1\,\text{m s}^{-2}$
+- **E.** $2\,\text{m s}^{-2}$
+**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Planet (object)|Planet]]
+**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+An astronaut weighs 500 N on Earth and 25 N on an X asteroid.
+
+The acceleration of gravity on asteroid X is approximately
+
+- **A.** $0.05\,\text{m s}^{-2}$
+- **B.** $0.2\,\text{m s}^{-2}$
+- **C.** $0.5\,\text{m s}^{-2}$
+- **D.** $1\,\text{m s}^{-2}$
+- **E.** $2\,\text{m s}^{-2}$
+**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Planet (object)|Planet]]
+**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+
+
+
+<span class="atom-split" id="q11" data-atom="q11" data-title="OII 2023 1° Livello — Quesito 11" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/modern-quantum-physics,argomento/meccanica,object/photon"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+In un esperimento sull'effetto fotoelettrico uno studente misura il potenziale di arresto $V_a$ quando un metallo è illuminato con una radiazione di lunghezza d'onda $\lambda$. Lo studente registra le misure che ottiene per varie lunghezze d'onda nel grafico mostrato in figura, ma omette di indicare le grandezze sugli assi X e Y.
+
+Le grandezze corrette da riportare sugli assi sono
+
+| | X | Y |
+|---|---|---|
+|(A) | $\lambda$ | $V_a$ |
+|(B) | $1/V_a$ | $\lambda$ |
+|(C) | $\lambda$ | $1/V_a$ |
+|(D) | $1/\lambda$ | $V_a$ |
+|(E) | $V_a$ | $1/\lambda$ |
+
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p4_f7.png]]
+*Grafico effetto fotoelettrico assi non etichettati*
+<!--fig:end-->
+
+**Topic:** [[Modern-Quantum Physics]]
+**Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Photon (object)|Photon]]
+**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+In a photoelectric effect experiment, a student measures the stop potential $V_a$ when a metal is illuminated with a wavelength radiation $\lambda$. The student records the measurements he takes for various wavelengths in the graph shown in the figure, but fails to indicate the magnitude on the X and Y axes.
+
+The correct values to be reported on the axes are
+
+| | X | Y |
+|---|---|---|
+|(A) | $\lambda$ | $V_a$ |
+|(B) | $1/V_a$ | $\lambda$ |
+|(C) | $\lambda$ | $1/V_a$ |
+|(D) | $1/\lambda$ | $V_a$ |
+|(E) | $V_a$ | $1/\lambda$ |
+
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p4_f7.png]]
+*Graph photoelectric effect of unlabeled axes*
+<!--fig:end-->
+
+**Topic:** [[Modern-Quantum Physics]]
+**Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Photon (object)|Photon]]
+**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+
+
+
+<span class="atom-split" id="q12" data-atom="q12" data-title="OII 2023 1° Livello — Quesito 12" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/magnetism,argomento/meccanica,object/electron"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Lo schizzo rappresenta un elettrone che sta per entrare in una zona di campo magnetico uniforme $\vec{B}$ entrante nel piano della figura. La velocità dell'elettrone è $\vec{v}$ verso destra.
+
+Appena entrato nella zona del campo magnetico, l'elettrone risente della forza magnetica che è diretta…
+
+- **A.** … verso l'alto nel piano della figura.
+- **B.** … verso il basso nel piano della figura.
+- **C.** … verso sinistra nel piano della figura.
+- **D.** … verso destra nel piano della figura.
+- **E.** … perpendicolarmente al piano della figura, con verso uscente.
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p4_f8.png]]
+*Elettrone che entra in zona di campo magnetico*
+<!--fig:end-->
+**Topic:** [[Magnetism]]
+**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Electron (object)|Electron]]
+**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+The diagram represents an electron that is about to enter a uniform magnetic field zone $\vec{B}$ entering the plane of the figure. The electron velocity is $\vec{v}$ to the right.
+
+As soon as the electron enters the magnetic field zone, it is subjected to the magnetic force that is directed…
+
+- **A.** … upwards in the plane of the figure.
+- **B.** … downward in the plane of the figure.
+- **C.** … to the left in the plane of the figure.
+- **D.** … to the right in the plane of the figure.
+- **E.** … perpendicular to the plane of the figure, with an outward direction.
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p4_f8.png]]
+*Electron entering the magnetic field zone*
+<!--fig:end-->
+**Topic:** [[Magnetism]]
+**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Electron (object)|Electron]]
+**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+
+
+
+<span class="atom-split" id="q13" data-atom="q13" data-title="OII 2023 1° Livello — Quesito 13" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/geometric-optics,argomento/meccanica,object/mirror,object/ball"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+In figura è rappresentata una persona in piedi, a 5 m da uno specchio piano. Una palla si trova 3 m davanti all'uomo, in direzione perpendicolare allo specchio.
+
+Qual è la distanza tra la persona e l'immagine della palla?
+
+- **A.** 2 m
+- **B.** 3 m
+- **C.** 5 m
+- **D.** 7 m
+- **E.** 10 m
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p4_f9.png]]
+*Persona e palla davanti a specchio piano*
+<!--fig:end-->
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Mirror (object)|Mirror]], [[Ball (object)|Ball]]
+**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+The figure depicts a standing person, 5 m from a flat mirror. A ball is located 3 m in front of the man, perpendicular to the mirror.
+
+What's the distance between the person and the image of the ball?
+
+- **A.** 2 m
+- **B.** 3 m
+- **C.** 5 m
+- **D.** 7 m
+- **E.** 10 m
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p4_f9.png]]
+Man and ball in front of a flat mirror
+<!--fig:end-->
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Mirror (object)|Mirror]], [[Ball (object)|Ball]]
+**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+
+
+
+<span class="atom-split" id="q14" data-atom="q14" data-title="OII 2023 1° Livello — Quesito 14" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/projectile,object/planet"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Una pietra viene lanciata verticalmente verso l'alto con velocità iniziale $v_0$, dalla superficie lunare. Essa raggiunge il culmine della traiettoria all'altezza $h$ e ritorna giù al punto di partenza dopo un tempo $t$ dal lancio.
+
+Raddoppiando la sua velocità iniziale, rimarrà in volo per un tempo $t'$ e raggiungerà un'altezza $h'$ dati, in funzione di $t$, da
+
+- **A.** $t,\ 4h$
+- **B.** $2t,\ h$
+- **C.** $2t,\ 2h$
+- **D.** $2t,\ 4h$
+- **E.** $4t,\ 2h$
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Projectile (object)|Projectile]], [[Planet (object)|Planet]]
+**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A stone is launched vertically upwards with initial speed $v_0$, from the lunar surface. It shall reach the peak of the trajectory at $h$ and return to the starting point after a time $t$ from launch.
+
+By doubling its initial speed, it will remain in flight for a time $t'$ and reach a data height $h'$, as a function of $t$, from
+
+- **A.** $t,\ 4h$
+- **B.** $2t,\ h$
+- **C.** $2t,\ 2h$
+- **D.** $2t,\ 4h$
+- **E.** $4t,\ 2h$
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Projectile (object)|Projectile]], [[Planet (object)|Planet]]
+**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+
+
+
+<span class="atom-split" id="q15" data-atom="q15" data-title="OII 2023 1° Livello — Quesito 15" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/geometric-optics,argomento/meccanica,object/mirror"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Una candela è posta davanti a uno specchio sferico concavo. Due raggi luminosi uscenti dallo stesso punto della candela incidono sullo specchio che ha il suo fuoco nel punto F, come mostrato nella figura.
+
+Dopo essersi riflessi nello specchio i raggi luminosi…
+
+- **A.** … divergono e formano un'immagine virtuale.
+- **B.** … divergono e formano un'immagine reale.
+- **C.** … convergono e formano un'immagine virtuale.
+- **D.** … convergono e formano un'immagine reale.
+- **E.** … sono paralleli.
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p4_f10.png]]
+*Due raggi su specchio sferico concavo*
+<!--fig:end-->
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Mirror (object)|Mirror]]
+**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A candle is placed in front of a concave spherical mirror. Two rays of light emanating from the same point of the candle affect the mirror that has its fire in the F-point, as shown in the figure.
+
+After reflecting light rays in the mirror
+
+- **A.** … diverge and form a virtual image.
+- **B.** … diverge and form a real image.
+- **C.** … converge and form a virtual image.
+- **D.** … converge and form a real image.
+- **E.** … are parallel.
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p4_f10.png]]
+*Two rays on a concave spherical mirror*
+<!--fig:end-->
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Mirror (object)|Mirror]]
+**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+
+
+
+<span class="atom-split" id="q16" data-atom="q16" data-title="OII 2023 1° Livello — Quesito 16" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/nuclear-e-particle-physics,argomento/meccanica,object/nucleus"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Un nucleo radioattivo decade in un suo isotopo, a seguito di diversi processi che avvengono in sequenza.
+
+Quale delle seguenti combinazioni di particelle potrebbe essere emessa durante questi processi?
+
+- **A.** Una particella $\alpha$ e una particella $\beta^-$.
+- **B.** Una particella $\alpha$ e due particelle $\beta^-$.
+- **C.** Una particella $\beta^-$ e un neutrone.
+- **D.** Una particella $\beta^-$ e due neutroni.
+- **E.** Due particelle $\beta^-$ e un neutrone.
+**Topic:** [[Nuclear & Particle Physics]]
+**Metodi:** [[Radioactive Decay Law (metodo)|Radioactive Decay Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Nucleus (object)|Nucleus]]
+**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A radioactive nucleus decays into its isotope as a result of several processes that occur in sequence.
+
+Which of the following combinations of particles could be emitted during these processes?
+
+- **A.** A particle $\alpha$ and a particle $\beta^-$.
+- **B.** One particle $\alpha$ and two particles $\beta^-$.
+- **C.** A particle $\beta^-$ and a neutron.
+- **D.** One particle $\beta^-$ and two neutrons.
+- **E.** Two particles $\beta^-$ and one neutron.
+**Topic:** [[Nuclear & Particle Physics]]
+**Metodi:** [[Radioactive Decay Law (metodo)|Radioactive Decay Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Nucleus (object)|Nucleus]]
+**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+
+
+
+<span class="atom-split" id="q17" data-atom="q17" data-title="OII 2023 1° Livello — Quesito 17" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/circuits,argomento/meccanica,object/wire,object/resistor"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Un filo di platino ha una resistenza di $100\,\Omega$ alla temperatura di fusione del ghiaccio e una resistenza di $140\,\Omega$ alla temperatura di ebollizione dell'acqua a pressione atmosferica; esso può quindi essere usato come sonda termometrica.
+
+Quando il filo ha una resistenza di $116\,\Omega$, la sua temperatura è di
+
+- **A.** $16^\circ\,\text{C}$
+- **B.** $24^\circ\,\text{C}$
+- **C.** $40^\circ\,\text{C}$
+- **D.** $60^\circ\,\text{C}$
+- **E.** $76^\circ\,\text{C}$
+**Topic:** [[Circuits]]
+**Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Wire (object)|Wire]], [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A platinum wire has a resistance of $100\,\Omega$ to the melting temperature of ice and a resistance of $140\,\Omega$ to the boiling temperature of water at atmospheric pressure; it can therefore be used as a thermometer probe.
+
+When the wire has a resistance of $116\,\Omega$, its temperature is
+
+- **A.** $16^\circ\,\text{C}$
+- **B.** $24^\circ\,\text{C}$
+- **C.** $40^\circ\,\text{C}$
+- **D.** $60^\circ\,\text{C}$
+- **E.** $76^\circ\,\text{C}$
+**Topic:** [[Circuits]]
+**Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Wire (object)|Wire]], [[Resistor (object)|Resistor]]
+**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+
+
+
+<span class="atom-split" id="q18" data-atom="q18" data-title="OII 2023 1° Livello — Quesito 18" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/projectile,object/ball"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Dalla cima di una scogliera a picco sul mare, con una fionda viene lanciata orizzontalmente una sferetta di acciaio alla velocità di $15\,\text{m s}^{-1}$.
+
+Se la sferetta tocca la superficie del mare dopo circa 2 secondi, quanto è alta approssimativamente la scogliera? Nota: L'attrito dell'aria si può trascurare.
+
+- **A.** 20 m
+- **B.** 30 m
+- **C.** 35 m
+- **D.** 40 m
+- **E.** 80 m
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
+**Objects:** [[Projectile (object)|Projectile]], [[Ball (object)|Ball]]
+**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+From the top of a cliff at the top of the sea, a steel sphere is thrown horizontally with a spindle at a speed of $15\,\text{m s}^{-1}$.
+
+If the sphere touches the surface of the sea after about two seconds, how high is the cliff approximately? Note: Air friction can be neglected.
+
+- **A.** 20 m
+- **B.** 30 m
+- **C.** 35 m
+- **D.** 40 m
+- **E.** 80 m
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
+**Objects:** [[Projectile (object)|Projectile]], [[Ball (object)|Ball]]
+**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
+
+
+
+<span class="atom-split" id="q19" data-atom="q19" data-title="OII 2023 1° Livello — Quesito 19" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Il grafico rappresenta una particolare trasformazione termodinamica in cui 1 kg di una certa sostanza passa dallo stato gassoso a $160^\circ\,\text{C}$ allo stato solido a $20^\circ\,\text{C}$. Il calore ceduto dalla sostanza nell'unità di tempo è costante durante tutta la trasformazione.
+
+Il punto di fusione della sostanza è a
+
+- **A.** $0^\circ\,\text{C}$
+- **B.** $20^\circ\,\text{C}$
+- **C.** $70^\circ\,\text{C}$
+- **D.** $100^\circ\,\text{C}$
+- **E.** $120^\circ\,\text{C}$
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p4_f11.png]]
+*Grafico raffreddamento sostanza da gas a solido*
+<!--fig:end-->
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+The graph represents a particular thermodynamic transformation in which 1 kg of a substance passes from the gaseous state to $160^\circ\,\text{C}$ to the solid state to $20^\circ\,\text{C}$. The heat released by the substance in the unit of time is constant throughout the transformation.
+
+The melting point of the substance is at
+
+- **A.** $0^\circ\,\text{C}$
+- **B.** $20^\circ\,\text{C}$
+- **C.** $70^\circ\,\text{C}$
+- **D.** $100^\circ\,\text{C}$
+- **E.** $120^\circ\,\text{C}$
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p4_f11.png]]
+*Chilling chart solid gas substance*
+<!--fig:end-->
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+
+
+
+<span class="atom-split" id="q20" data-atom="q20" data-title="OII 2023 1° Livello — Quesito 20" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/block,object/inclined-plane"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Un blocco di massa $m = 3\,\text{kg}$ è tenuto fermo su una superficie priva di attrito, inclinata di $30^\circ$ rispetto all'orizzontale, e a un certo istante viene lasciato libero.
+
+Due secondi dopo che il blocco è stato rilasciato, il modulo della componente del peso parallela al pendio ($F$) e la distanza ($d$) percorsa sono all'incirca
+
+| | $F$ [N] | $d$ [m] |
+|---|---|---|
+|(A) | 15 | 10 |
+|(B) | 15 | 5.0 |
+|(C) | 26 | 2.5 |
+|(D) | 26 | 5.0 |
+|(E) | 30 | 5.0 |
+
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p5_f12.png]]
+*Blocco su piano inclinato 30°*
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A mass block $m = 3\,\text{kg}$ is held firm on a frictionless surface, tilted by $30^\circ$ relative to the horizontal, and at a certain moment is released.
+
+Two seconds after the block has been released, the module of the slope-parallel weight component ($F$) and the distance ($d$) traveled are approximately
+
+| | $F$ [N] | $d$ [m] |
+|---|---|---|
+|(A) | 15 | 10 |
+|(B) | 15 | 5.0 |
+|(C) | 26 | 2.5 |
+|(D) | 26 | 5.0 |
+|(E) | 30 | 5.0 |
+
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p5_f12.png]]
+The following table shows the number of units in the unit:
+<!--fig:end-->
+
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
+
+
+
+<span class="atom-split" id="q21" data-atom="q21" data-title="OII 2023 1° Livello — Quesito 21" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/circuits,argomento/meccanica,object/capacitor,object/galvanometer,object/battery"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Quale dei seguenti circuiti, in cui A rappresenta un amperometro, potrà essere utilizzato in un esperimento per illustrare la carica e la scarica di un condensatore in un circuito in corrente continua?
+
+Si consideri il caso in cui il condensatore sia inizialmente scarico.
+
+- **A.** A
+- **B.** B
+- **C.** C
+- **D.** D
+- **E.** E
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p5_f13.png]]
+*Cinque circuiti RC con amperometro*
+<!--fig:end-->
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Capacitor (object)|Capacitor]], [[Galvanometer (object)|Galvanometer]], [[Battery (object)|Battery]]
+**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Which of the following circuits, in which A is an ampere, can be used in an experiment to illustrate the charge and discharge of a capacitor in a DC circuit?
+
+Consider the case where the capacitor is initially discharged.
+
+- **A.** A
+- **B.** B
+- **C.** C
+- **D.** D
+- **E.** E
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p5_f13.png]]
+The following is the list of the components of the engine:
+<!--fig:end-->
+**Topic:** [[Circuits]]
+**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Capacitor (object)|Capacitor]], [[Galvanometer (object)|Galvanometer]], [[Battery (object)|Battery]]
+**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+
+
+
+<span class="atom-split" id="q22" data-atom="q22" data-title="OII 2023 1° Livello — Quesito 22" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-momentum,argomento/meccanica,object/cart"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Cinque vagoni identici sono fermi, staccati uno dall'altro a distanze variabili, su un binario orizzontale; in caso di urto tra due vagoni, questi rimangono agganciati. Un sesto vagone — identico agli altri — viene lanciato verso gli altri a velocità $v$.
+
+Qual è la velocità dei sei vagoni subito dopo essersi tutti agganciati, se l'attrito è trascurabile?
+
+- **A.** $v$
+- **B.** $5v/6$
+- **C.** $v/\sqrt{6}$
+- **D.** $v/6$
+- **E.** $v/5$
+**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
+**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Cart (object)|Cart]]
+**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Five identical wagons are stationary, detached from each other at variable distances, on a horizontal track; in the event of a collision between two wagons, these remain attached. A sixth car  identical to the others  is launched towards the others at $v$ speed.
+
+What is the speed of the six cars immediately after they are all hooked up, if the friction is negligible?
+
+- **A.** $v$
+- **B.** $5v/6$
+- **C.** $v/\sqrt{6}$
+- **D.** $v/6$
+- **E.** $v/5$
+**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
+**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Cart (object)|Cart]]
+**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+
+
+
+<span class="atom-split" id="q23" data-atom="q23" data-title="OII 2023 1° Livello — Quesito 23" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/conservation-of-energy,topic/oscillations-e-waves,argomento/meccanica,object/spring,object/projectile"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Un ragazzo lancia una pietra con una fionda costituita da due corde di gomma che vengono allungate e poi rilasciate. Le due corde obbediscono alla legge di Hooke. Quando ciascuna corda è allungata di un tratto $x$ rispetto alla sua lunghezza a riposo, la pietra parte con una velocità $v$.
+
+Assumendo che tutta l'energia potenziale delle corde sia trasferita alla pietra, qual è, se ciascuna corda subisce un allungamento pari a $2x$, la velocità della pietra?
+
+- **A.** $v/2$
+- **B.** $v$
+- **C.** $\sqrt{2}\,v$
+- **D.** $2v$
+- **E.** $4v$
+**Topic:** [[Conservation of Energy]], [[Oscillations & Waves]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Hooke's Law (metodo)|Hooke's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Spring (object)|Spring]], [[Projectile (object)|Projectile]]
+**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A boy throws a stone with a spindle made of two rubber ropes that are stretched and then released. The two strings obey Hooke's law. When each string is stretched by $x$ relative to its rest length, the stone starts at a speed $v$.
+
+Assuming that all the potential energy of the strings is transferred to the stone, what is the speed of the stone if each string is stretched to $2x$?
+
+- **A.** $v/2$
+- **B.** $v$
+- **C.** $\sqrt{2}\,v$
+- **D.** $2v$
+- **E.** $4v$
+**Topic:** [[Conservation of Energy]], [[Oscillations & Waves]]
+**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Hooke's Law (metodo)|Hooke's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Spring (object)|Spring]], [[Projectile (object)|Projectile]]
+**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+
+
+
+<span class="atom-split" id="q24" data-atom="q24" data-title="OII 2023 1° Livello — Quesito 24" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/order-of-magnitude-estimation,argomento/meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Qual è l'ordine di grandezza del numero di elettroni che si assumono bevendo un bicchiere d'acqua?
+
+- **A.** $10^{30}$ elettroni
+- **B.** $10^{26}$ elettroni
+- **C.** $10^{22}$ elettroni
+- **D.** $10^{18}$ elettroni
+- **E.** Nessun elettrone perché l'acqua è neutra.
+**Topic:** [[Order-of-Magnitude Estimation]]
+**Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
+**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+What is the order of magnitude of the number of electrons taken up by drinking a glass of water?
+
+- **A.** $10^{30}$ elettroni
+- **B ** $10^{26}$ electrons
+- **C.** $10^{22}$ electrons
+- **D ** $10^{18}$ electrons
+- **E.** Nessun elettrone perché l'acqua è neutra.
+**Topic:** [[Order-of-Magnitude Estimation]]
+**Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
+**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+
+<span class="atom-split" id="q25" data-atom="q25" data-title="OII 2023 1° Livello — Quesito 25" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/geometric-optics,argomento/meccanica,object/lens"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Si hanno a disposizione una lente convergente di focale $+10\,\text{cm}$ e una lente divergente di focale $-20\,\text{cm}$. Si eseguono le seguenti prove:
+
+1. si pone un oggetto a 25 cm dalla lente divergente;
+2. si pone un oggetto a 15 cm dalla lente divergente;
+3. si pone un oggetto a 25 cm dalla lente convergente;
+4. si pone un oggetto a 15 cm dalla lente convergente;
+5. si pone un oggetto a 5 cm dalla lente convergente.
+
+In quante delle prove descritte si ottiene un'immagine di dimensioni ridotte rispetto all'oggetto?
+
+- **A.** 1
+- **B.** 2
+- **C.** 3
+- **D.** 4
+- **E.** 5
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Lens (object)|Lens]]
+**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A convergent lens of the $+10\,\text{cm}$ focal length and a divergent lens of the $-20\,\text{cm}$ focal length are available. The following tests shall be carried out:
+
+1. an object is placed 25 cm away from the divergent lens;
+2. an object is placed 15 cm away from the divergent lens;
+3. an object is placed 25 cm away from the converging lens;
+4. an object is placed 15 cm from the converging lens;
+5. an object is placed 5 cm away from the converging lens.
+
+How many of the tests described give you a smaller image than the object?
+
+- **A.** 1
+- **B.** 2
+- **C.** 3
+- **D.** 4
+- **E.** 5
+**Topic:** [[Geometric Optics]]
+**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Lens (object)|Lens]]
+**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+
+
+
+<span class="atom-split" id="q26" data-atom="q26" data-title="OII 2023 1° Livello — Quesito 26" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/rotational-dynamics,argomento/meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Una pattinatrice sul ghiaccio sta ruotando su se stessa con le braccia tese orizzontalmente. Si considerino trascurabili tutti gli attriti.
+
+Dopo che le braccia sono state portate aderenti al corpo, quali delle seguenti quantità sono rimaste costanti?
+
+1. Il momento di inerzia.
+2. L'energia cinetica.
+3. Il momento angolare.
+
+- **A.** Solo la 1 e la 2.
+- **B.** Solo la 2 e la 3.
+- **C.** Solo la 1.
+- **D.** Solo la 2.
+- **E.** Solo la 3.
+**Topic:** [[Rotational Dynamics]]
+**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A skater on the ice is rolling over herself with her arms out horizontally. Consider all friction negligible.
+
+After the arms were brought to the body, which of the following quantities remained constant?
+
+1. The moment of inertia.
+2. The kinetic energy.
+3. The timing is right.
+
+- **A.** Only the 1 and 2.
+- **B ** Only the 2 and 3.
+- **C.** Only the 1.
+- **D** Only the 2.
+- **E** Only the 3.
+**Topic:** [[Rotational Dynamics]]
+**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+
+
+
+<span class="atom-split" id="q27" data-atom="q27" data-title="OII 2023 1° Livello — Quesito 27" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/meccanica,object/point-charge,object/conducting-sphere"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+La figura mostra un protone $p$ che si sposta da un punto T a un punto S in prossimità di una sferetta caricata negativamente.
+
+Se per effettuare lo spostamento è necessario compiere sul protone un lavoro pari a $6.4 \times 10^{-19}\,\text{J}$, la differenza di potenziale tra i due punti è
+
+- **A.** $0\,\text{V}$
+- **B.** $4.0 \times 10^{-19}\,\text{V}$
+- **C.** $6.4 \times 10^{-19}\,\text{V}$
+- **D.** $4.0\,\text{V}$
+- **E.** $6.4\,\text{V}$
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p5_f14.png]]
+*Protone che si sposta vicino a sferetta negativa*
+<!--fig:end-->
+**Topic:** [[Electrostatics]]
+**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Coulomb's Law (metodo)|Coulomb's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Point Charge (object)|Point Charge]], [[Conducting Sphere (object)|Conducting Sphere]]
+**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+The figure shows a proton $p$ moving from a point T to a point S near a negatively charged sphere.
+
+If a $6.4 \times 10^{-19}\,\text{J}$ work is required on the proton to make the shift, the potential difference between the two points is
+
+- **A.** $0\,\text{V}$
+- **B.** $4.0 \times 10^{-19}\,\text{V}$
+- **C.** $6.4 \times 10^{-19}\,\text{V}$
+- **D.** $4.0\,\text{V}$
+- **E.** $6.4\,\text{V}$
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p5_f14.png]]
+*Proton moving near a negative sphere*
+<!--fig:end-->
+**Topic:** [[Electrostatics]]
+**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Coulomb's Law (metodo)|Coulomb's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Point Charge (object)|Point Charge]], [[Conducting Sphere (object)|Conducting Sphere]]
+**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+
+
+
+<span class="atom-split" id="q28" data-atom="q28" data-title="OII 2023 1° Livello — Quesito 28" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/meccanica,object/block"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Due blocchi di metallo, di uguale sezione, di lunghezze pari a 10 cm e 20 cm e conducibilità termiche rispettivamente $200\,\text{W m}^{-1}\text{K}^{-1}$ e $100\,\text{W m}^{-1}\text{K}^{-1}$, sono attaccati uno all'altro come in figura. L'estremità libera del primo blocco è mantenuta alla temperatura $T_1 = 50^\circ\,\text{C}$, mentre l'estremità libera del secondo blocco è mantenuta alla temperatura $T_2 = 20^\circ\,\text{C}$.
+
+In regime stazionario, la temperatura della giunzione tra i due blocchi è
+
+- **A.** $26^\circ\,\text{C}$
+- **B.** $30^\circ\,\text{C}$
+- **C.** $35^\circ\,\text{C}$
+- **D.** $40^\circ\,\text{C}$
+- **E.** $44^\circ\,\text{C}$
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p5_f15.png]]
+*Due blocchi metallici a conducibilità diverse in serie*
+<!--fig:end-->
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Block (object)|Block]]
+**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Two metal blocks of equal section, 10 cm and 20 cm in length and thermal conductivity $200\,\text{W m}^{-1}\text{K}^{-1}$ and $100\,\text{W m}^{-1}\text{K}^{-1}$ respectively, are attached to each other as shown in Figure 1. The free end of the first block is maintained at $T_1 = 50^\circ\,\text{C}$ while the free end of the second block is maintained at $T_2 = 20^\circ\,\text{C}$.
+
+At steady state, the temperature of the junction between the two blocks is
+
+- **A.** $26^\circ\,\text{C}$
+- **B.** $30^\circ\,\text{C}$
+- **C.** $35^\circ\,\text{C}$
+- **D.** $40^\circ\,\text{C}$
+- **E.** $44^\circ\,\text{C}$
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p5_f15.png]]
+*Two different types of metallic conductivity blocks in series*
+<!--fig:end-->
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Block (object)|Block]]
+**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+
+
+
+<span class="atom-split" id="q29" data-atom="q29" data-title="OII 2023 1° Livello — Quesito 29" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Un'automobile, che sta viaggiando a $15\,\text{m s}^{-1}$, accelera per 5 s, portando la sua velocità a $25\,\text{m s}^{-1}$.
+
+Quanto spazio percorre durante questa fase se l'accelerazione è costante?
+
+- **A.** 50 m
+- **B.** 75 m
+- **C.** 100 m
+- **D.** 125 m
+- **E.** 200 m
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A car travelling at $15\,\text{m s}^{-1}$ accelerates for 5 seconds, increasing its speed to $25\,\text{m s}^{-1}$.
+
+How much space does it travel through during this phase if the acceleration is constant?
+
+- **A.** 50 m
+- **B.** 75 m
+- **C.** 100 m
+- **D.** 125 m
+- **E.** 200 m
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+
+
+
+<span class="atom-split" id="q30" data-atom="q30" data-title="OII 2023 1° Livello — Quesito 30" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/wave-optics,argomento/meccanica,object/slit,object/screen"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Su una lastra opaca sono praticate due sottili fenditure parallele molto vicine. La lastra viene illuminata da un fascio collimato di luce verde monocromatica, che incide perpendicolarmente. Su uno schermo posto dietro la lastra si osservano frange d'interferenza in prossimità dell'asse ottico.
+
+La distanza tra le frange può essere aumentata…
+
+- **A.** … diminuendo la distanza tra la lastra e lo schermo.
+- **B.** … aumentando la distanza tra la sorgente e la lastra.
+- **C.** … aumentando la distanza tra le fenditure.
+- **D.** … aumentando la larghezza di ciascuna fenditura.
+- **E.** … sostituendo la sorgente di luce con una sorgente di luce monocromatica rossa.
+**Topic:** [[Wave Optics]]
+**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Slit (object)|Slit]], [[Screen (object)|Screen]]
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+On a dull plate, two thin parallel slits are made very close together. The plate is illuminated by a collimated beam of monochrome green light, which impacts perpendicularly. On a screen behind the plate, interference fringes are observed near the optical axis.
+
+The distance between the franges may be increased…
+
+- **A.** … by decreasing the distance between the sheet and the screen.
+- **B.** … by increasing the distance between the source and the plate.
+- **C.** … by increasing the gap between the cracks.
+- **D.** … increasing the width of each crack.
+- **E.** … by replacing the light source with a monochrome red light source.
+**Topic:** [[Wave Optics]]
+**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Slit (object)|Slit]], [[Screen (object)|Screen]]
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+
+
+
+<span class="atom-split" id="q31" data-atom="q31" data-title="OII 2023 1° Livello — Quesito 31" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/meccanica,object/gas"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Una certa quantità di gas è riscaldata a pressione costante fino a quando il suo volume è triplicato. Successivamente viene compressa adiabaticamente fino a tornare al suo volume iniziale. Infine è raffreddata a volume costante fino alla sua temperatura originale.
+
+Adottando il modello di gas perfetto, quale tra i seguenti grafici meglio rappresenta queste trasformazioni termodinamiche?
+
+- **A.** A
+- **B.** B
+- **C.** C
+- **D.** D
+- **E.** E
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p6_f16.png]]
+*Cinque grafici P-V trasformazioni termodinamiche*
+<!--fig:end-->
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Gas (object)|Gas]]
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A certain amount of gas is heated at a constant pressure until its volume is tripled. It is then compressed adiabatically until it returns to its original volume. Finally, it is cooled to its original temperature at a constant volume.
+
+Taking the perfect gas model, which of the following graphs best represents these thermodynamic transformations?
+
+- **A.** A
+- **B.** B
+- **C.** C
+- **D.** D
+- **E.** E
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p6_f16.png]]
+The following table shows the results of the calculation of the total energy consumption of the product:
+<!--fig:end-->
+**Topic:** [[Thermodynamics]]
+**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Gas (object)|Gas]]
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+
+
+
+<span class="atom-split" id="q32" data-atom="q32" data-title="OII 2023 1° Livello — Quesito 32" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/meccanica,object/conducting-sphere"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Due piccole sfere identiche conduttrici si trovano a distanza molto maggiore del loro diametro. Esse vengono inizialmente caricate rispettivamente con cariche $q_1 = -2 \times 10^{-6}\,\text{C}$ e $q_2 = 4 \times 10^{-6}\,\text{C}$. La forza che esercitano l'una sull'altra in questa posizione ha modulo $F = 1\,\text{N}$. Le sfere vengono poi collegate con un sottile filo conduttore senza spostarle dal posto in cui sono; successivamente il filo viene rimosso.
+
+Qual è il modulo della forza che agisce fra le sfere al termine del processo descritto?
+
+- **A.** 0
+- **B.** 0.125 N
+- **C.** 0.250 N
+- **D.** 1 N
+- **E.** 1.125 N
+**Topic:** [[Electrostatics]]
+**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Conducting Sphere (object)|Conducting Sphere]]
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Two small identical conductive spheres are much larger than their diameter. They are initially loaded with $q_1 = -2 \times 10^{-6}\,\text{C}$ and $q_2 = 4 \times 10^{-6}\,\text{C}$ loads respectively. The force exerted on each other in this position is $F = 1\,\text{N}$. The spheres are then connected with a thin conductive wire without moving them from their position; the wire is then removed.
+
+What is the form of the force acting between the spheres at the end of the process described?
+
+- **A.** 0
+- **B.** 0.125 N
+- **C.** 0.250 N
+- **D.** 1 N
+- **E.** 1.125 N
+**Topic:** [[Electrostatics]]
+**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** [[Conducting Sphere (object)|Conducting Sphere]]
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+
+
+
+<span class="atom-split" id="q33" data-atom="q33" data-title="OII 2023 1° Livello — Quesito 33" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/magnetism,argomento/meccanica,object/wire"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Il grafico in figura mostra un piano $Oxy$ con gli assi $Ox$ e $Oy$ che formano un angolo retto.
+
+Quale delle seguenti correnti elettriche che fluiscono in un conduttore rettilineo produrrà un campo magnetico nel punto O orientato nel verso positivo dell'asse $x$?
+
+- **A.** Passante per Q perpendicolare entrante nel piano del grafico.
+- **B.** Passante per Q perpendicolare uscente dal piano del grafico.
+- **C.** Passante per P parallela a $Ox$.
+- **D.** Passante per P perpendicolare entrante nel piano del grafico.
+- **E.** Passante per P perpendicolare uscente dal piano del grafico.
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p6_f17.png]]
+*Piano Oxy con punti P e Q per campo magnetico*
+<!--fig:end-->
+**Topic:** [[Magnetism]]
+**Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Ampère's Law (metodo)|Ampère's Law]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Wire (object)|Wire]]
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+The graph in the figure shows a plane $Oxy$ with the axes $Ox$ and $Oy$ forming a right angle.
+
+Which of the following electric currents flowing in a straight conductor will produce a magnetic field at the O-point oriented towards the positive side of the $x$ axis?
+
+- **A.** Passing through perpendicular Q entering the plane of the graph.
+- **B.** Passing through Q perpendicular to the plane of the graph.
+- **C.** Passing through P parallel to $Ox$.
+- **D.** Passing through P perpendicular to the entrance of the graph plane.
+- **E.** Passing through P perpendicularly out of the graph plane.
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p6_f17.png]]
+*Oxy plane with P and Q points per magnetic field*
+<!--fig:end-->
+**Topic:** [[Magnetism]]
+**Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Ampère's Law (metodo)|Ampère's Law]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Wire (object)|Wire]]
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+
+
+
+<span class="atom-split" id="q34" data-atom="q34" data-title="OII 2023 1° Livello — Quesito 34" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Un'automobile di 800 kg che sta viaggiando su un rettilineo a $30\,\text{m s}^{-1}$ frena e si arresta in 50 m sotto l'azione di una forza costante.
+
+L'intensità della forza frenante è
+
+- **A.** 9 N
+- **B.** 240 N
+- **C.** 7 200 N
+- **D.** 14 400 N
+- **E.** 28 800 N
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A 800 kg car travelling on a straight line at $30\,\text{m s}^{-1}$ brake and stopping at 50 m under constant force.
+
+The braking force intensity is
+
+- **A.** 9 N
+- **B.** 240 N
+- **C.** 7 200 N
+- **D.** 14 400 N
+- **E.** 28 800 N
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+
+
+
+<span class="atom-split" id="q35" data-atom="q35" data-title="OII 2023 1° Livello — Quesito 35" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/fluid-mechanics,argomento/meccanica,object/pipe-tube"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Un liquido scorre, in regime stazionario, in un condotto che presenta, in un certo punto, un restringimento.
+
+Quale tra i seguenti grafici rappresenta l'andamento della portata in massa in funzione della posizione lungo il condotto, in un tratto che comprende il restringimento?
+
+- **A.** A
+- **B.** B
+- **C.** C
+- **D.** D
+- **E.** E
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p6_f18.png]]
+*Cinque grafici portata in massa lungo condotto*
+<!--fig:end-->
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A liquid flows in a conduit at a certain point in a steady state.
+
+Which of the following graphs shows the trend of the mass flow in relation to the position along the pipe, in a stretch comprising the narrowing?
+
+- **A.** A
+- **B.** B
+- **C.** C
+- **D.** D
+- **E.** E
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p6_f18.png]]
+*Five mass-produced graphs along the conduit*
+<!--fig:end-->
+**Topic:** [[Fluid Mechanics]]
+**Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
+**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+
+
+
+<span class="atom-split" id="q36" data-atom="q36" data-title="OII 2023 1° Livello — Quesito 36" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/meccanica,object/pipe-tube"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Un piccolo altoparlante viene posto a una estremità di un tubo rettilineo di sezione piccola rispetto alla sua lunghezza. L'altra estremità del tubo è chiusa. L'altoparlante è collegato a un generatore di frequenza variabile. La più piccola frequenza a cui il tubo risuona è pari a 300 Hz. Vengono immesse nel tubo, in successione, onde di frequenza 600 Hz, 1000 Hz, 1500 Hz, 2100 Hz e 2400 Hz.
+
+Quante di queste frequenze daranno origine a risonanza?
+
+- **A.** 1
+- **B.** 2
+- **C.** 3
+- **D.** 4
+- **E.** 5
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p6_f19.png]]
+*Tubo chiuso con altoparlante a un'estremità*
+<!--fig:end-->
+**Topic:** [[Oscillations & Waves]]
+**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A small speaker is placed at one end of a straight tube of a section small in relation to its length. The other end of the tube is closed. The speaker is connected to a variable frequency generator. The smallest frequency at which the tube resonates is 300 Hz. Frequency waves of 600 Hz, 1000 Hz, 1500 Hz, 2100 Hz and 2400 Hz are introduced into the tube in succession.
+
+How many of these frequencies will give rise to an resonance?
+
+- **A.** 1
+- **B.** 2
+- **C.** 3
+- **D.** 4
+- **E.** 5
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p6_f19.png]]
+*Closed tube with speaker at one end*
+<!--fig:end-->
+**Topic:** [[Oscillations & Waves]]
+**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+
+
+
+<span class="atom-split" id="q37" data-atom="q37" data-title="OII 2023 1° Livello — Quesito 37" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Un corpo di massa 2 kg si sposta inizialmente verso Est a una velocità di $40\,\text{m s}^{-1}$.
+
+Se una forza costante di 10 N, diretta verso Nord, viene applicata per 6 secondi, la velocità finale del corpo sarà di
+
+- **A.** $30\,\text{m s}^{-1}$
+- **B.** $45\,\text{m s}^{-1}$
+- **C.** $50\,\text{m s}^{-1}$
+- **D.** $55\,\text{m s}^{-1}$
+- **E.** $70\,\text{m s}^{-1}$
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Vector Decomposition (metodo)|Vector Decomposition]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A body of 2 kg mass initially moves eastward at a speed of $40\,\text{m s}^{-1}$.
+
+If a constant force of 10 N, directed north, is applied for 6 seconds, the final speed of the body will be
+
+- **A.** $30\,\text{m s}^{-1}$
+- **B.** $45\,\text{m s}^{-1}$
+- **C.** $50\,\text{m s}^{-1}$
+- **D.** $55\,\text{m s}^{-1}$
+- **E.** $70\,\text{m s}^{-1}$
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Vector Decomposition (metodo)|Vector Decomposition]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+
+
+
+<span class="atom-split" id="q38" data-atom="q38" data-title="OII 2023 1° Livello — Quesito 38" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/block,object/rope-string"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Due scatole di massa $m_1 = 5\,\text{kg}$ e $m_2 = 7\,\text{kg}$ sono inizialmente in quiete su una superficie liscia e orizzontale. Le scatole sono collegate da un filo. Una cordicella è attaccata alla scatola di massa di 7 kg e viene tirata da una forza orizzontale di modulo $F$. Il filo e la cordicella sono praticamente inestensibili e di massa trascurabile.
+
+Se il filo è tale da resistere fino ad una sollecitazione massima di 15 N, oltre la quale si rompe, qual è il valore massimo del modulo $F$ della forza trainante da applicare per mantenere i due blocchi collegati durante il moto?
+
+- **A.** 15 N
+- **B.** 26 N
+- **C.** 30 N
+- **D.** 36 N
+- **E.** 72 N
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p6_f20.png]]
+*Due scatole collegate da filo su piano orizzontale*
+<!--fig:end-->
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Two boxes of $m_1 = 5\,\text{kg}$ and $m_2 = 7\,\text{kg}$ mass are initially still on a smooth, horizontal surface. The boxes are connected by a wire. A rope is attached to the box of 7 kg mass and is pulled by a horizontal force of the form $F$. The wire and rope are virtually unextended and of negligible mass.
+
+If the wire is such that it can withstand a maximum stress of 15 N, beyond which it breaks, what is the maximum value of the $F$ form of the traction force to be applied to keep the two blocks connected during the engine?
+
+- **A.** 15 N
+- **B.** 26 N
+- **C.** 30 N
+- **D.** 36 N
+- **E.** 72 N
+<!--fig:start-->
+![[_attachments/1liv23T-fasc/1liv23T-fasc_p6_f20.png]]
+*Two boxes connected by wire horizontally*
+<!--fig:end-->
+**Topic:** [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+
+
+
+<span class="atom-split" id="q39" data-atom="q39" data-title="OII 2023 1° Livello — Quesito 39" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/magnetism,topic/electromagnetism,argomento/meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Si esprima la dimensione fisica del campo di induzione magnetica $\vec{B}$ in termini delle dimensioni delle grandezze fondamentali: lunghezza (L), massa (M), tempo (T) e intensità di corrente (I).
+
+- **A.** $\text{M T}^{-1} \text{I}^{-2}$
+- **B.** $\text{M T}^{-2} \text{I}^{-1}$
+- **C.** $\text{M T I}^{-1}$
+- **D.** $\text{M T}^{-1} \text{I}$
+- **E.** $\text{M T}^{-2} \text{I}^{-2}$
+**Topic:** [[Magnetism]], [[Electromagnetism]]
+**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+The physical size of the magnetic induction field $\vec{B}$ is expressed in terms of the dimensions of the fundamental quantities: length (L), mass (M), time (T) and current intensity (I).
+
+- **A.** $\text{M T}^{-1} \text{I}^{-2}$
+- **B.** $\text{M T}^{-2} \text{I}^{-1}$
+- **C.** $\text{M T I}^{-1}$
+- **D.** $\text{M T}^{-1} \text{I}$
+- **E.** $\text{M T}^{-2} \text{I}^{-2}$
+**Topic:** [[Magnetism]], [[Electromagnetism]]
+**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+
+
+
+<span class="atom-split" id="q40" data-atom="q40" data-title="OII 2023 1° Livello — Quesito 40" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/electrostatics,topic/newtonian-mechanics,argomento/meccanica,object/point-charge"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+
+Un corpo carico positivamente si trova in una regione di campo elettrico verticale uniforme; inizialmente è in una posizione di equilibrio sotto l'azione del peso e del campo elettrico. Il corpo viene spostato di poco verso il basso, fermato e lasciato libero di muoversi.
+
+Cosa fa il corpo dopo essere stato rilasciato?
+
+- **A.** Torna nella posizione iniziale e si ferma.
+- **B.** Compie un moto armonico intorno alla posizione iniziale.
+- **C.** Cade con accelerazione costante.
+- **D.** Si muove verso l'alto con accelerazione costante.
+- **E.** Resta fermo nella posizione in cui è stato lasciato.
+**Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Electric Potential Method (metodo)|Electric Potential Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Point Charge (object)|Point Charge]]
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+**Risposta:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A positively charged body is in a uniform vertical electric field region; initially it is in a position of equilibrium under the action of weight and electric field. The body is moved slightly downward, stopped and left free to move.
+
+What does the body do after it's released?
+
+- **A.** Go back to the starting position and stop.
+- **B.** Completes a harmonic motion around the starting position.
+- **C.** It falls at a constant acceleration.
+- **D.** It moves upwards at constant acceleration.
+- **E.** Remain stationary in the position in which it was left.
+**Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
+**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Electric Potential Method (metodo)|Electric Potential Method]]
+**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Point Charge (object)|Point Charge]]
+**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
+The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.

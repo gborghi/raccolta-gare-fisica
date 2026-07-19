@@ -392,16 +392,21 @@ const TAGMAP_KNOWN_PREFIXES = [
   "kg/", "graph/", "multidisciplina/",
 ]
 
-// Populates `tagmap` (slug -> "facetKey::facetVal") for one atom's tags,
-// using the same facet values just computed for the quesiti.json push.
+// Accumulates per-slug candidate-token VOTES (slug -> Map<token,count>) for one
+// atom's tags, using the same facet values just computed for the quesiti.json
+// push. Voting (not last-write-wins) makes the map robust to the small fraction
+// of atoms whose MULTI zip mispairs: the correct token, appearing in the
+// majority of atoms carrying the slug, wins in finalizeTagMap().
 // `facets` = { topics, objects, country, comp_code, cluster, level, year }
 // (topics/objects are the metaLinks() display arrays; the rest are the
 // scalar strings, already stringified/defaulted as pushed into quesiti).
 // `counters` = { skippedMulti, collisions, unmapped } accumulated across atoms.
-function buildTagMap(tagmap, tags, facets, counters) {
+function buildTagMap(tagVotes, tags, facets, counters) {
   const set = (slug, token) => {
-    if (Object.prototype.hasOwnProperty.call(tagmap, slug) && tagmap[slug] !== token) counters.collisions++
-    tagmap[slug] = token
+    let votes = tagVotes[slug]
+    if (!votes) { votes = tagVotes[slug] = new Map() }
+    else if (!votes.has(token)) counters.collisions++   // slug saw a 2nd distinct candidate
+    votes.set(token, (votes.get(token) || 0) + 1)
   }
 
   for (const [prefix, facetKey] of Object.entries(TAGMAP_MULTI)) {
@@ -541,7 +546,8 @@ async function main() {
   }
   const quesiti = []
   const kwIndex = {}
-  const tagmap = {}   // SPA (Task 6.4): vault tag slug -> cerca facet token, see buildTagMap()
+  const tagmap = {}     // SPA (Task 6.4): final vault tag slug -> cerca facet token
+  const tagVotes = {}   // slug -> Map<token,count>, reduced to tagmap by majority below
   const tagmapCounters = { skippedMulti: 0, collisions: 0, unmapped: 0 }
   let mdWritten = 0, assetsCopied = 0, clIdx = 0, pagedLists = 0
   const SIB_RE = /__(?:it|en|es|pt|de|fr)$/   // secondary translation sibling stems
@@ -673,7 +679,7 @@ async function main() {
         year: yearV,
         country: countryV,
       })
-      buildTagMap(tagmap, tags, {
+      buildTagMap(tagVotes, tags, {
         topics: topicsV, objects: objectsV, country: countryV,
         comp_code: compCodeV, cluster, level: levelV, year: yearV,
       }, tagmapCounters)
@@ -749,11 +755,23 @@ async function main() {
   await fs.writeFile(STATIC_JSON, JSON.stringify(quesiti))
   await fs.writeFile(KW_JSON, JSON.stringify(kwIndex))
   console.log(`keyword index: ${Object.keys(kwIndex).length} atoms, ${(JSON.stringify(kwIndex).length / 1e6).toFixed(1)}MB`)
+  // SPA (Task 6.4): reduce per-slug candidate votes to the majority winner.
+  // Robust to the small fraction of MULTI-zip mispairings -- the correct token,
+  // carried by most atoms with the slug, outvotes the noise. Tie -> highest-count
+  // first seen (Map preserves insertion order). `contested` = slugs where the
+  // winner did NOT have a strict majority (>50%) -- a data-quality signal.
+  let contested = 0
+  for (const [slug, votes] of Object.entries(tagVotes)) {
+    let best = null, bestN = -1, total = 0
+    for (const [token, n] of votes) { total += n; if (n > bestN) { bestN = n; best = token } }
+    tagmap[slug] = best
+    if (bestN * 2 <= total) contested++
+  }
   await fs.writeFile(TAGMAP_JSON, JSON.stringify(tagmap))
   console.log(
     `tagmap: ${Object.keys(tagmap).length} slugs, ` +
     `${tagmapCounters.skippedMulti} skipped-multi-family atoms, ` +
-    `${tagmapCounters.collisions} conflicting-value collisions, ` +
+    `${tagmapCounters.collisions} multi-candidate slugs, ${contested} contested (no strict majority), ` +
     `${tagmapCounters.unmapped} unmapped-prefix occurrences`
   )
 

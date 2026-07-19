@@ -1,0 +1,12 @@
+\begin{tikzpicture}[>=stealth,x=0.55cm,y=0.55cm]
+  % axes
+  \draw[->] (0,-1.4) -- (0,8) node[left] {$y$};
+  \draw[->] (-1.2,0) -- (10.5,0) node[below] {$x$};
+  \node[below left] at (0,0) {$0$};
+  % right triangle (thick frame): legs 6 (vertical) and 8 (horizontal), hyp 10
+  \draw[line width=2.4pt] (0.7,0) -- (8.4,0) -- (0.7,6) -- cycle;
+  % labels
+  \node[left] at (-0.5,3) {6 cm};
+  \node[below=2pt] at (4.5,-0.1) {8 cm};
+  \node at (5.3,3.6) {10 cm};
+\end{tikzpicture}

@@ -12,7 +12,11 @@ Images: **`gborghi/olifis-assets`** (GitHub Pages) -> `gborghi.github.io/olifis-
 # 0. STOP Dropbox (preprocess/quartz-build rm content/ + public/ -> Dropbox EBUSY locks otherwise).
 #    (PowerShell) Get-Process Dropbox | Stop-Process -Force ; then clear content/ + public/ if a prior run left them.
 
-# 1. Regenerate content (ONLY if the vault changed; deterministic + baseUrl-independent, so skippable if content/ is current):
+# 1a. Render TikZ figure reproductions (Spec 2 pilot): tikz/*.tex -> tikz-svg/*.svg (hash-cached, needs TeX Live).
+node scripts/render-tikz.mjs
+
+# 1b. Regenerate content (ONLY if the vault changed; deterministic + baseUrl-independent, so skippable if content/ is current).
+#     preprocess inlines tikz-svg/<name>.svg for any embedded figure that has a sidecar (else the PNG):
 NODE_OPTIONS=--max-old-space-size=12288 node preprocess.mjs
 
 # 2. Fork prep (patched plugin forks; forks live in gitignored .quartz/, patches must be recompiled into dist/):

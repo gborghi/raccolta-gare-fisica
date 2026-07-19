@@ -671,3 +671,10 @@ body[data-slug^="prove/"] {
   }
   .ar-shell.toc-open .ar-toc { transform: none; }
 }
+
+// SPA Spec 2 (TikZ pilot): inline build-time TikZ->SVG figure reproductions.
+.tikz-fig {
+  text-align: center;
+  margin: 1rem 0;
+  svg { max-width: 100%; height: auto; }
+}

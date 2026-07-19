@@ -1,0 +1,12 @@
+\begin{tikzpicture}[>=stealth,x=1cm,y=1cm]
+  % vertical cylinder (3D)
+  \draw (-1,0) -- (-1,5);
+  \draw (1,0) -- (1,5);
+  \draw (0,5) ellipse (1 and 0.32);          % top rim
+  \draw (-1,0) arc (180:360:1 and 0.32);      % bottom front edge
+  % piston / weight on the top centre, with upward arrow
+  \draw (-0.18,5.0) rectangle (0.18,5.4);
+  \draw[->] (0,5.4) -- (0,6.0);
+  % downward arrow inside the cylinder
+  \draw[->] (-0.45,4.3) -- (-0.45,3.0);
+\end{tikzpicture}

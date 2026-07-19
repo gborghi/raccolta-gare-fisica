@@ -52,3 +52,46 @@ Search fork: post-restore patch script scripts/patch-search-fork.mjs (upstream, 
 - Phase 5.5 (index merge): make-search-index.mjs reads native contentIndex BEFORE overwrite, keeps concepts/soluzioni/home/cerca (snippet 300, no frag), drops prove containers, atomBudget=budget-keptNativeSize, merges (disjoint keys). Fixture-smoke verified (concepts kept, containers dropped, oversized-native guard fires). commit 76fbac75. Reviewed by controller (focused diff + fixture). Complete.
   GATE ⚠️: real merged sizes <=15/8MB; concept search hits + atom->concept edges render (Playwright).
 - Phase 6 = 6.1 (404 redirect old atom URLs) + 6.2 (disable native tag-page plugin + repoint tag-list links -> /cerca pre-filtered) + 6.3 (parity audit, gate). NEXT.
+
+Task 6 (6.1 404 + 6.2 tag-page disable): commits c0998cb74, 9eb4d255d. Review found 2 CRITICAL: (#1) 404 redirect clobbered by NotFoundPageType -> never ships; (#2) graph tag-nodes = 5th tags/<x> emitter -> hard 404 with tag-page off. 6.3 parity audit deferred to Phase 7 live gate.
+User decision: tag-click must PRE-FILTER /cerca (true parity), not bare /cerca.
+Task 6.4 (BASE 9eb4d255d): dispatched (sonnet, agent a71dde4c3d5ffe936). Fixes both Criticals + implements tagmap.json + cerca #tag= pre-select + repoint all 5 tag emitters (4 text links + graph nodes) to /cerca#tag=<slug>. Phase 7 cp step updated to copy tagmap.json.
+
+Task 6.4: complete (commits 35f304e2b, 48008e250, 9677e7cb4; review clean — Spec ✅ + Quality Approved). Fixed both Phase-6 Criticals (404 in-repo component; graph tag-node repoint) + true tag-parity pre-filter. Minors (non-blocking, for final review): redundant applyHashTag call on nav (idempotent); one ° in a preprocess.mjs comment (out of ASCII-body scope). Phase 6 COMPLETE.
+
+Phase 7 build gate IN PROGRESS:
+- Dropbox: content/_attachments (8131 assets) locked rm each run; flag-ignore lost the race -> user authorized closing Dropbox (stopped, 0 proc). RESTART Dropbox after deploy.
+- preprocess OK: 1939 md, 16888 quesiti, kw 8.3MB, full tf-idf 38.8MB offline. tagmap 210 slugs.
+- Follow-up commit 3b85b7357: buildTagMap majority-vote (0 contested on real vault; was 44 last-write-wins collisions). Flag for final review.
+- quartz build: running (bg bnoibmuxs, 16GB heap).
+- NEXT after build: copy staticgen (incl tagmap.json) -> public/static; make-search-index; shrink_build; .nojekyll; index-size gate; file-count <20k gate; per-file <25M gate; commit content+staticgen; deploy gh-pages via worktree; live Playwright parity audit.
+
+DEPLOY DONE (gh-pages e087c7954..d1837e024, commit d1837e024): 10378 files (17205 deletions = old atom pages collapsed). Live at https://gborghi.github.io/raccolta-gare-fisica/.
+Build-gate commits: 3b85b7357 (majority-vote tagmap), 6181291fc (mobile drops links + make-search-index re-runnable + shrink_build no-contentIndex).
+Gates PASS: 10378<20k files, no file>25M, desktop 15.0MB, mobile 7.98MB, index-size tests 3/3.
+Dropbox: STILL STOPPED — remind user to restart after audit.
+NEXT: live Playwright parity audit (Task 7.3), then commit content/staticgen bulk, then final whole-branch review + finishing-a-development-branch.
+
+BUILD-GATE AUDIT (v1 deploy d1837e024) found:
+- CRITICAL: fork patches (search/graph/tag-links) never reached build -- forks main=dist/index.js, quartz build imports compiled dist/ not patched src/. Tag links stayed tags/<x> (404), no mobile tier. FIX: scripts/rebuild-forks.mjs (tsup recompile), commit 7e257e366. Wired into plan Phase 7.
+- CRITICAL: tagmap keys mixed-case (paese/Canada) but Quartz tag hrefs lowercase (paese/canada) -> 84 keys never matched -> no pre-select. FIX: buildTagMap lowercases keys (preprocess.mjs). 210 slugs, 0 mixed-case now.
+- Reader (atomRouter) VERIFIED WORKING live: TOC/hash/prev-next/crumb all correct (1994e cold-load fail was one-off artifact).
+- Build OOM-killed x2 in background (16GB heap + browser + 8.5GB orphan on 32GB box). FIX: close browser, kill orphans, heap 12288. build4 exit 0.
+DEPLOY v2 (62bc73dc0): recompiled forks + lowercase tagmap. Gates PASS (10378 files, desktop 15MB, mobile 8MB). Awaiting GH Pages propagation -> re-audit.
+
+DEPLOY v2 LIVE + AUDIT PASS (62bc73dc0 + tagmap fix 52355ba27):
+- Reader SPA: mounted, 23 TOC, hash deep-link, prev/next, crumb -- OK
+- Search: per-atom #frag results + concept pages (merge) -- OK ("energy"=8 hits)
+- Tag pre-filter: /cerca#tag=cluster/meccanica -> Area:Meccanica pre-selected, 8311 filtered, per-atom rows -- OK
+- 404 redirect: prove/1994e__q03 -> #q03, reader lands on q03 -- OK
+- Mobile index: 200, 17344 entries, no links -- OK
+- Graph: atom nodes w/ slug/frag, atom->concept edges -- OK
+- Zero old tags/ hrefs
+Dropbox restarted. REMAINING: commit content/staticgen bulk (optional), final whole-branch review, finishing-a-development-branch.
+
+FINAL REVIEW (opus): READY TO MERGE, 0 Critical. Fixes applied (commit 7d0d87121): qlang per-atom re-scope (Important #1), cerca defensive lowercase (Minor). Deferred/documented: search hover-preview shows container not atom (Important #2, non-breaking); latent frozen-naming guards; test-guard uniformity.
+DEPLOY v3 (c9cb8d2c6): qlang fix + cerca. Gates PASS (10378, 15/8MB). Awaiting propagation.
+NEXT: complete site audit (user request) -> merge branch spa-per-prova -> main (finishing-a-development-branch).
+
+FULL-SITE AUDIT (v3) found CRITICAL: concept-page paged-list atom links doubled 'prove/prove/<stem>#..' -> 404 on EVERY concept->quesito click (117843 links). Cause: extractConceptList runs post-transform() so wikilinks already `prove/<stem>#atomId`; dir==null branch prepended another prove/. Fix (commit): hbase uses tslug as-is when it starts with prove/. cl regenerated: 0 double-prove. DEPLOY v4 (79d45fbfe): cl-only copy, no rebuild. Awaiting propagation -> resume audit.
+Dropbox STOPPED again (preprocess needed it) -- restart at end.

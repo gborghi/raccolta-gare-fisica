@@ -11,7 +11,8 @@ test("one container page per stem, atoms as markers, no per-atom pages", () => {
   assert.ok(fs.existsSync(page), "container page exists")
   const html = fs.readFileSync(page, "utf8")
   assert.match(html, /<div class="atom-reader" data-prova="1994e">/)
-  const markers = [...html.matchAll(/<span class="atom-split" data-atom="/g)].length
+  // marker carries a static id= scroll-anchor before data-atom (Task 2 popover anchor)
+  const markers = [...html.matchAll(/<span class="atom-split"[^>]*\bdata-atom="/g)].length
   assert.ok(markers >= 5, "has atom markers, got " + markers)
   // no per-atom page emitted
   assert.ok(!fs.existsSync(path.join(C, stem + "__q01.md")), "no per-atom page")

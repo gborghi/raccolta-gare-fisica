@@ -72,16 +72,35 @@ test(
   () => {
     for (const p of [DESKTOP, MOBILE]) {
       const idx = JSON.parse(fs.readFileSync(p, "utf8"))
-      const vals = Object.values(idx)
-      assert.ok(vals.every((v) => Array.isArray(v.links)), `${p}: every entry has links[]`)
-      assert.ok(vals.every((v) => v.links.length <= 20), `${p}: links capped at 20`)
-      assert.ok(vals.some((v) => v.links.length > 0), `${p}: at least one entry has links`)
-      // id keys are "prove/<stem>#<atomid>"; slug/frag stay a clean split (Global
+      const entries = Object.entries(idx)
+      // Post-Task-5.5 the shipped index MERGES native concept pages (key = clean
+      // slug, no "#", no frag) with per-atom entries (key = "prove/<stem>#<atomid>").
+      const atoms = entries.filter(([id]) => id.includes("#"))
+      const concepts = entries.filter(([id]) => !id.includes("#"))
+      assert.ok(atoms.length > 0, `${p}: has per-atom entries`)
+      // atom id keys are "prove/<stem>#<atomid>"; slug/frag stay a clean split (Global
       // Constraint: slugs fed to the graph/search path resolver must stay clean).
       assert.ok(
-        Object.entries(idx).every(([id, v]) => !v.slug.includes("#") && id === `${v.slug}#${v.frag}`),
-        `${p}: id key == slug + "#" + frag, slug itself carries no "#"`,
+        atoms.every(([id, v]) => !v.slug.includes("#") && id === `${v.slug}#${v.frag}`),
+        `${p}: atom id key == slug + "#" + frag, slug itself carries no "#"`,
       )
+      // native concept entries carry the clean slug and no fragment.
+      assert.ok(
+        concepts.every(([, v]) => !v.frag && !String(v.slug).includes("#")),
+        `${p}: concept entries carry no fragment`,
+      )
+      // graph edges: DESKTOP atoms ship links (the graph reads contentIndex.json
+      // via fetchData on every device); MOBILE atoms DROP links (search-only tier,
+      // freeing the 8MB budget for tf-idf terms -- see scripts/make-search-index.mjs).
+      if (p === MOBILE) {
+        assert.ok(atoms.every(([, v]) => !("links" in v)), `${p}: mobile atoms drop links`)
+      } else {
+        assert.ok(
+          atoms.every(([, v]) => Array.isArray(v.links) && v.links.length <= 20),
+          `${p}: desktop atoms have links[] capped at 20`,
+        )
+        assert.ok(atoms.some(([, v]) => v.links.length > 0), `${p}: at least one desktop atom has links`)
+      }
     }
   },
 )

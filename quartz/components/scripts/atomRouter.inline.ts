@@ -179,10 +179,17 @@ function build(reader: HTMLElement) {
     // The atom just inserted into `pane` may carry its own qlang-switch /
     // qlang-split DOM (see the file header). qlang.inline.ts only scans the
     // live document and only listens for "nav" (once per real page load), so
-    // ping it now that this atom's nodes are back in the DOM. It is a no-op
-    // for atoms it has already bound (guarded by `dataset.qlangReady`) and for
-    // atoms with no translation widget at all (`document.querySelector(".qlang-switch")`
-    // finds nothing).
+    // ping it now that this atom's nodes are back in the DOM.
+    // IMPORTANT: qlang's "nav" handler fires BEFORE this router partitions on
+    // the first nav of a reading page, so it binds the first-shown atom's
+    // qlang-switch while the WHOLE prova is still concatenated -- mis-scoping
+    // `groups` across every atom and setting `qlangReady` on that switch. Clear
+    // qlangReady on the pane's switch(es) before re-poking so setupQlang
+    // re-scopes to THIS atom's nodes (now the pane's only children). Atoms qlang
+    // has never seen (later swaps) have no qlangReady, so this is a no-op there.
+    pane.querySelectorAll<HTMLElement>(".qlang-switch").forEach((s) => {
+      delete s.dataset.qlangReady
+    })
     const event: CustomEventMap["atomrender"] = new CustomEvent("atomrender", { detail: {} })
     document.dispatchEvent(event)
   }

@@ -411,7 +411,10 @@ async function init() {
     } catch {
       return
     }
-    const token = tagmap[slug]
+    // tagmap keys are force-lowercased (preprocess buildTagMap) to match Quartz's
+    // lowercased tag hrefs; look up lowercased defensively in case any emitter
+    // ever passes a mixed-case slug (falls back to bare /cerca on a real miss).
+    const token = tagmap[slug] ?? tagmap[slug.toLowerCase()]
     if (!token) return
     const key = token.split("::")[0]
     if (!FACETS.some((f) => f.key === key)) return // guard: token's facet key must be real

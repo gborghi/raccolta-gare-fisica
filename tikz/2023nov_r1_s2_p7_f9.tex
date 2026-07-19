@@ -1,0 +1,11 @@
+\begin{tikzpicture}
+  % thin fluid disc element with pressure arrows top and bottom
+  \draw[fill=white] (0,0) ellipse (1.4 and 0.18);
+  \draw[fill=white] (0,0.35) ellipse (1.4 and 0.18);
+  \draw (-1.4,0) -- (-1.4,0.35);
+  \draw (1.4,0) -- (1.4,0.35);
+  \draw[-{Stealth}] (0,1.4) -- (0,0.55);
+  \draw[-{Stealth}] (0,-1.1) -- (0,-0.05);
+  \node at (2.1,0.85) {$P$};
+  \node at (2.1,-0.15) {$P+dP$};
+\end{tikzpicture}

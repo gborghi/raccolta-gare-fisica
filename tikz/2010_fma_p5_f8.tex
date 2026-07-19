@@ -1,0 +1,12 @@
+\begin{tikzpicture}[thick]
+  \fill (0.3,2.15) circle (0.09);
+  \draw (0.3,2.05)
+    .. controls (0.85,1.85) and (1.05,1.2) .. (1.45,0.35)
+    .. controls (1.55,0.12) and (1.65,0) .. (1.85,0)
+    -- (3.4,0)
+    .. controls (3.65,0) and (3.85,0.05) .. (3.9,0.35);
+  \draw[dashed] (0.3,2.15) -- (4.4,2.15);
+  \draw[dashed] (2.9,0) -- (4.4,0);
+  \draw[<->] (4.2,2.15) -- (4.2,0);
+  \node[right] at (4.2,1.1) {$h$};
+\end{tikzpicture}

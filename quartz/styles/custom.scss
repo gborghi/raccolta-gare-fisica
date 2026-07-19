@@ -553,6 +553,46 @@ body[data-slug="index"] {
   .home-hero { grid-template-columns: 1fr; gap: 1.6rem; padding: 1.6rem 1.2rem; }
 }
 
+// ─── Landing: dimmed physics background (gemini-cheap art) ───
+// Base-colour veil over the artwork -> "un po' dimmed"; fixed so it stays put.
+body[data-slug="index"] {
+  background-image:
+    linear-gradient(rgba(250, 250, 243, 0.88), rgba(250, 250, 243, 0.9)),
+    url("static/physics-bg.webp");
+  background-size: cover;
+  background-position: center top;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+[saved-theme="dark"] body[data-slug="index"] {
+  background-image:
+    linear-gradient(rgba(20, 22, 58, 0.84), rgba(20, 22, 58, 0.88)),
+    url("static/physics-bg.webp");
+}
+
+// ─── Area cards: isometric alpha icons (recraft), centered ───
+.home-area { text-align: center; }
+.home-area img {
+  width: 4.2rem; height: 4.2rem; object-fit: contain;
+  margin: 0 auto 0.7rem; display: block;
+  border: none; background: none; padding: 0; box-shadow: none; border-radius: 0;
+  filter: drop-shadow(0 6px 14px rgba(0, 40, 255, 0.12));
+}
+.home-area-m { color: var(--gray); }
+// Give the cards a touch of translucency so the backdrop reads through faintly.
+.home-area, .home-stat, .home-mode { backdrop-filter: saturate(1.05); }
+
+// ─── Credits accordion ───
+.home-credits { margin: 2.6rem 0 0; border-top: 1px solid var(--lightgray); padding-top: 1.1rem; }
+.home-credits > summary {
+  cursor: pointer; list-style: none;
+  font-family: var(--titleFont); font-weight: 600; font-size: 1.15rem; color: var(--ink);
+}
+.home-credits > summary::-webkit-details-marker { display: none; }
+.home-credits > summary::before { content: "+"; color: var(--accent-blue); font-weight: 700; margin-right: 0.5rem; }
+.home-credits[open] > summary::before { content: "\2013"; }
+.home-credits p { font-size: 0.88rem; line-height: 1.5; color: var(--darkgray); }
+
 // ═══════════════════════════════════════════════════════════════════════════
 //  Per-page fidelity to the mockup (1b Cerca · 1c Concept · 1d Quesito)
 // ═══════════════════════════════════════════════════════════════════════════

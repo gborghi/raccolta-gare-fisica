@@ -1,0 +1,10 @@
+\begin{tikzpicture}[line width=0.9pt]
+  % circle
+  \draw (0,0) circle (2.0);
+  % radius arrow from center to right, with arrowheads both ends (double-headed)
+  \draw[-{Stealth}] (0,0) -- (2.0,0);
+  \draw[-{Stealth}] (2.0,0) -- (0,0);
+  \node[above] at (1.0,0.05) {$2\ \mathrm{m}$};
+  % small mass dot at bottom of circle
+  \filldraw (0,-2.0) circle (3pt);
+\end{tikzpicture}

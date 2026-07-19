@@ -1,0 +1,15 @@
+\begin{tikzpicture}[>=Stealth]
+% vertical reference line
+\draw (0,0) -- (0,6.3);
+\draw (-0.2,6.3) -- (0.2,6.3);
+% B field symbol (out of page)
+\draw (0.9,5.8) circle (0.22);
+\fill (0.9,5.8) circle (0.04);
+\node at (1.7,5.8) {$\vec{B}$};
+% outer arc: start point down to S1
+\draw[->,thick] (0,6) arc[start angle=90,end angle=-90,radius=1.5];
+\node[left] at (0,3) {$S_1$};
+% inner arc: S1 down to S2
+\draw[->,thick] (0,3) arc[start angle=90,end angle=-90,radius=1.0];
+\node[left] at (0,1) {$S_2$};
+\end{tikzpicture}

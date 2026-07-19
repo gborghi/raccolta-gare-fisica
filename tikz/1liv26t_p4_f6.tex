@@ -1,0 +1,17 @@
+\begin{tikzpicture}[line width=1.4pt]
+  % gas inlet arrow
+  \draw[-{Stealth}] (-2.2,3.3) -- (-1.0,3.3);
+  \node[above] at (-1.6,3.3) {gas};
+  % outer tube outline (right tall tube down to U bend, then left tube up, open)
+  \draw (-1.0,3.5) -- (0.3,3.5) -- (0.3,-1.3)
+        arc (0:-180:0.9)
+        -- (-1.7,2.0);
+  \draw (-1.0,3.1) -- (-0.1,3.1) -- (-0.1,-1.3)
+        arc (0:-180:0.5)
+        -- (-1.1,2.0);
+  % liquid shading
+  \fill[gray!55] (-1.7,-1.3) rectangle (0.3,0.4);
+  \fill[gray!55] (-1.1,-1.3) rectangle (-0.1,1.4);
+  \draw[{Stealth}-{Stealth}] (0.6,0.4) -- (0.6,1.4);
+  \node[right] at (0.6,0.9) {$h$};
+\end{tikzpicture}

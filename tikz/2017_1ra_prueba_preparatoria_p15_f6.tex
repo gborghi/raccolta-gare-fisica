@@ -1,0 +1,14 @@
+\begin{tikzpicture}[>=Stealth]
+% axes
+\draw[->] (0,0) -- (0,3) node[above] {y};
+\draw[->] (-3,0) -- (3,0) node[right] {x};
+% block
+\draw (-1.5,-1) rectangle (1.5,1);
+% forces
+\draw[->,thick] (0,1) -- (0,2.6) node[above] {$\mathbf{N_B}$};
+\draw[->,thick] (-1.5,0) -- (-3,0) node[left] {$\mathbf{T_{1B}}$};
+\draw[->,thick] (1.5,0) -- (3,0) node[right] {$\mathbf{T_{2B}}$};
+\draw[->,thick] (0,0) -- (-1.1,0) node[above,pos=0.5] {$\mathbf{F_{rB}}$};
+\node at (0.35,0.3) {$\mathbf{N'_A}$};
+\draw[->,thick] (0,0) -- (0,-1.8) node[below] {$\mathbf{P_B}$};
+\end{tikzpicture}

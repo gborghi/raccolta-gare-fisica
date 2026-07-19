@@ -1,0 +1,26 @@
+\begin{tikzpicture}[>=Stealth]
+% left container (wide), open top, water fill higher
+\draw (0,0) -- (0,5);
+\draw (0,0) -- (0.4,-0.6);
+\draw (2.2,0) -- (2.2,5);
+\filldraw[fill=black!20,draw=none] (0.02,0) rectangle (2.18,3.2);
+\draw (0,3.2) -- (2.2,3.2);
+% right container (narrow), open top, water fill lower
+\draw (3,0) -- (3,5);
+\draw (4.2,0) -- (4.2,5);
+\filldraw[fill=black!20,draw=none] (3.02,0) rectangle (4.18,2.6);
+\draw (3,2.6) -- (4.2,2.6);
+% connecting U-tube at the bottom
+\draw[fill=black!20] (0.4,-0.6) .. controls (0.4,-1.4) and (0.9,-1.6) .. (1.6,-1.6)
+  .. controls (2.7,-1.6) and (2.8,-1.4) .. (2.8,-0.6) -- (2.4,-0.6)
+  .. controls (2.4,-1.2) and (2.3,-1.2) .. (1.6,-1.2)
+  .. controls (0.9,-1.2) and (0.8,-1.2) .. (0.8,-0.6) -- cycle;
+\draw (2.8,-0.6) -- (2.4,0);
+\draw (2.4,-0.6) -- (2.4,0);
+\draw (0.8,-0.6) -- (0.8,0);
+% spout/tap above right container
+\filldraw[fill=black!60,draw=black] (3.8,5.4) -- (4.2,5.4) -- (4.0,5.9) -- cycle;
+\draw (4.0,5.9) .. controls (3.7,6.4) and (3.2,6.3) .. (2.9,6.7);
+% height marker between the two water levels
+\draw[<->] (2.6,3.2) -- (2.6,5.0) node[midway,right] {$h$};
+\end{tikzpicture}

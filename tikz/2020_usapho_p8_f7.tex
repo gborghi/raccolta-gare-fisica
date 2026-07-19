@@ -1,0 +1,18 @@
+\begin{tikzpicture}
+  % ground
+  \draw[thick] (-0.3,0) -- (5.0,0);
+  % tall vertical wall on the right
+  \draw[thick] (4.8,0) -- (4.8,3.2);
+  % hemispherical shell (small bowl) sitting at height d above ground
+  \draw[thick] (0.55,0.75) arc (180:0:0.45 and 0.45);
+  \filldraw (1.0,0.75) circle (1.2pt);
+  % height d, double-headed arrow
+  \draw[{Stealth}-{Stealth}] (0.2,0.75) -- (0.2,0.05);
+  \node at (-0.05,0.4) {$d$};
+  % dotted line of sight from shell to base of wall
+  \draw[dotted] (1.0,0.75) -- (4.8,0);
+  % L/2 bracket under dotted line base
+  \draw[{Stealth}-{Stealth}] (1.0,-0.35) -- (4.8,-0.35);
+  \node at (2.9,-0.65) {$\frac{L}{2}$};
+  \node at (0.0,1.1) {hemispherical shell};
+\end{tikzpicture}

@@ -1,0 +1,11 @@
+\begin{tikzpicture}
+  % large ball M
+  \draw[fill=gray!45] (0,0) circle (1.5);
+  \node at (0.3,-0.6) {$M$};
+  % top capsule (rocket) touching top of ball
+  \draw[fill=orange!45] (-0.35,1.5) rectangle (0.05,2.3);
+  \draw[fill=white] (-0.35,2.3) .. controls (-0.35,2.55) and (0.05,2.55) .. (0.05,2.3) -- cycle;
+  % left capsule (rocket) touching left of ball
+  \draw[fill=orange!45] (-2.5,-0.2) rectangle (-1.5,0.2);
+  \draw[fill=white] (-2.5,-0.2) .. controls (-2.75,-0.2) and (-2.75,0.2) .. (-2.5,0.2) -- cycle;
+\end{tikzpicture}

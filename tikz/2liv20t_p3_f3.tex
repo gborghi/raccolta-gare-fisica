@@ -1,0 +1,12 @@
+\begin{tikzpicture}[>=Stealth]
+% concave mirror arc, opening to the right
+\draw[thick] (0,2.2) arc[start angle=125,end angle=235,radius=2.7];
+% label lambda with a short tick at the top of the mirror
+\draw (0.05,2.15) -- (0.55,2.55);
+\node[above] at (0.55,2.6) {$\lambda$};
+% dashed optical axis to the center of curvature C
+\draw[dashed] (-0.4,0) -- (2.6,0);
+\node[left] at (-0.4,0) {$r$};
+\draw (2.6,0) circle (0.06);
+\node[right] at (2.7,0) {C};
+\end{tikzpicture}

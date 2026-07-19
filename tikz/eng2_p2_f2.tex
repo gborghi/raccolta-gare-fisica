@@ -1,0 +1,9 @@
+\begin{circuitikz}[scale=1]
+\draw (0,0) to[battery1, l=$\varepsilon$] (0,3)
+  to[R, l=$r$] (2,3)
+  to[switch] (4,3)
+  to[R, l=$R$] (6,3)
+  to[C, l=$C$] (6,0)
+  -- (0,0);
+\draw (4,3) to[R, l=$r$] (4,0) -- (0,0);
+\end{circuitikz}

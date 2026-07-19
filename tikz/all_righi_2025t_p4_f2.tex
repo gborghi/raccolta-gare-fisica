@@ -1,0 +1,16 @@
+\begin{tikzpicture}
+  % ground line
+  \draw[thick] (-1.5,0) -- (6,0);
+  % vertical rotation axis
+  \draw[thick] (0,0) -- (0,3);
+  % rotation arrow at top
+  \draw[-{Stealth}] (0.6,3.3) arc (0:300:0.5);
+  % distance L horizontal segment near top
+  \draw (0,2.1) -- (1.1,2.1);
+  \node at (0.5,2.35) {L};
+  % spring B from rod to block
+  \draw[decorate, decoration={coil, aspect=0.3, segment length=3pt, amplitude=3pt}] (1.1,2.1) -- (2.1,2.1);
+  \node at (1.55,2.4) {B};
+  % block on ground
+  \draw[fill=cyan!40] (2.1,0) rectangle (5.2,1.8);
+\end{tikzpicture}

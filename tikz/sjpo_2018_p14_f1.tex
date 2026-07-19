@@ -1,0 +1,12 @@
+\begin{tikzpicture}[>=Stealth]
+% ground
+\draw[thick] (-0.5,0) -- (9,0);
+% block A (orange, larger, moving right)
+\filldraw[fill=orange,draw=black] (0,0) rectangle (3,3);
+\node at (1.5,1.5) {A};
+\draw[->,thick] (0.3,3.5) -- (2,3.5) node[midway,above] {2 m/s};
+% block B (green, smaller, moving left)
+\filldraw[fill=green!60!black!40,draw=black] (6,0) rectangle (7.5,1.5);
+\node at (6.75,0.75) {B};
+\draw[->,thick] (8.5,2.3) -- (6.5,2.3) node[midway,above] {-5 m/s};
+\end{tikzpicture}

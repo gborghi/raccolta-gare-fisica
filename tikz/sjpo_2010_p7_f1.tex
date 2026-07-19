@@ -1,0 +1,22 @@
+\begin{tikzpicture}[>=Stealth]
+  % pulse 1: rounded bump
+  \node at (-2.3,4.3) {$1$};
+  \draw[thick] (-1.8,4) -- (-0.7,4);
+  \draw[thick] (-0.7,4) .. controls (-0.45,4.7) and (-0.05,4.7) .. (0.2,4);
+  \draw[thick] (0.2,4) -- (1.6,4);
+  \draw[->,thick] (1.9,4.35) -- (2.9,4.35) node[right] {$v_1$};
+
+  % pulse 2: moderate kink
+  \node at (-2.3,2.3) {$2$};
+  \draw[thick] (-1.8,2) -- (-0.7,2);
+  \draw[thick] (-0.7,2) -- (-0.25,2.6) -- (0.2,2);
+  \draw[thick] (0.2,2) -- (1.6,2);
+  \draw[->,thick] (1.9,2.35) -- (2.9,2.35) node[right] {$v_2$};
+
+  % pulse 3: sharp narrow peak
+  \node at (-2.3,0.3) {$3$};
+  \draw[thick] (-1.8,0) -- (-0.55,0);
+  \draw[thick] (-0.55,0) -- (-0.05,1.1) -- (0.45,0);
+  \draw[thick] (0.45,0) -- (1.6,0);
+  \draw[->,thick] (1.9,0.35) -- (2.9,0.35) node[right] {$v_3$};
+\end{tikzpicture}

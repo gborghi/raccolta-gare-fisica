@@ -1,0 +1,14 @@
+\begin{tikzpicture}[>=Stealth]
+% ground/top reference line
+\draw[thick] (-0.5,4.2) -- (5,4.2);
+% block
+\filldraw[fill=black!25,draw=black] (0,0) rectangle (2,1.2);
+% resultant vector (gray)
+\draw[->,thick,black!45] (1,1.2) -- (3.3,3.6);
+% 6 N vertical component
+\draw[->,thick] (1,1.2) -- (1,3.4) node[above] {6 N};
+% 8 N horizontal component
+\draw[->,thick] (1,1.2) -- (3.2,1.2) node[right] {8 N};
+% width dimension
+\draw[<->] (0,-0.5) -- (2,-0.5) node[midway,below] {3 m};
+\end{tikzpicture}

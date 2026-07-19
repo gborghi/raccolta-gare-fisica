@@ -1,0 +1,8 @@
+\begin{tikzpicture}[line width=1pt]
+  \draw[-{Stealth}] (0,0) -- (0,3.5) node[above] {$f$};
+  \draw[-{Stealth}] (0,0) -- (5,0) node[right] {$t\ (\text{s})$};
+  \foreach \x/\lbl in {1/1,2/2,3/3,4/4} \node[below] at (\x,0) {\lbl};
+  \draw[dashed] (0,1.2) -- (4.3,1.2);
+  \node[left] at (0,1.2) {$f_0$};
+  \draw[line width=1.3pt] (0,1.2) -- (2,1.2) -- (2,1.9) -- (4.3,1.9);
+\end{tikzpicture}

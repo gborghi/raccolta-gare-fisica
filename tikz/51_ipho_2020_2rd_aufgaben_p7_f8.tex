@@ -1,0 +1,14 @@
+\begin{tikzpicture}
+  % left and right nodes
+  \coordinate (L) at (0,0);
+  \coordinate (Rn) at (4,0);
+  % top branch: diode then R2
+  \draw (L) to[diode] ++(1.6,0) coordinate (mid) to[R, l=$R_2$] (Rn);
+  % bottom branch: R1
+  \draw (L) -- (0,-0.9) to[R, l=$R_1$] (4,-0.9) -- (Rn);
+  % outer loop down through switch and battery, with current arrow
+  \draw (L) -- (0,-2.0) to[switch] (1.2,-2.0);
+  \draw (1.2,-2.0) to[battery1, l=$U$] (4,-2.0) -- (Rn);
+  \draw[-{Stealth}] (2.9,-2.0) -- (2.2,-2.0);
+  \node at (2.55,-2.35) {$I$};
+\end{tikzpicture}

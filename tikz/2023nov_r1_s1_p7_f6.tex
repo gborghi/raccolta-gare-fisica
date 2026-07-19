@@ -1,0 +1,11 @@
+\begin{tikzpicture}
+  % top and bottom rails
+  \draw (0,3) -- (4,3);
+  \draw (0,0) -- (4,0);
+  % battery r on left branch
+  \draw (0,3) to[battery1, l=$r$] (0,0);
+  % R1 middle vertical branch
+  \draw (2,3) to[R, l=$R_1$] (2,0);
+  % R2 variable resistor on right branch
+  \draw (4,3) to[vR, l=$R_2$] (4,0);
+\end{tikzpicture}

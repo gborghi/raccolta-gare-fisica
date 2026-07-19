@@ -1,0 +1,19 @@
+\begin{tikzpicture}[scale=1]
+  % points A and B with dashed connecting segment L
+  \filldraw (2.2,0) circle (0.05);
+  \node at (2.0,-0.3) {A};
+  \filldraw (2.2,2.6) circle (0.05);
+  \node at (2.0,2.9) {B};
+  \draw[thick,dashed] (2.2,0) -- (2.2,2.6);
+  % double-headed arrow indicating length L, offset to the right
+  \draw[thick,-{Stealth}] (2.7,0) -- (2.7,2.6);
+  \draw[thick,-{Stealth}] (2.7,2.6) -- (2.7,0);
+  \node at (3.0,1.3) {$L$};
+  % vector diagram at A: v_L straight up, v_N to the upper-left, V_a resultant
+  \draw[thick,-{Stealth}] (2.2,0) -- (2.2,1.4);
+  \node at (2.4,1.4) {$v_L$};
+  \draw[thick,-{Stealth}] (2.2,0) -- (1.2,1.1);
+  \node at (1.1,0.75) {$v_N$};
+  \draw[thick,-{Stealth}] (2.2,0) -- (1.5,1.55);
+  \node at (1.3,1.65) {$\vec{V_a}$};
+\end{tikzpicture}

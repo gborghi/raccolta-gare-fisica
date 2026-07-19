@@ -1,0 +1,16 @@
+\begin{tikzpicture}[>=Stealth]
+% incline (wedge), shaded
+\filldraw[fill=black!25,draw=black] (0,0) -- (6,0) -- (6,2) -- cycle;
+% block at the bottom of the incline, tilted to match the slope
+\begin{scope}[rotate around={18.43:(0.7,0.23)}]
+\filldraw[fill=black!45,draw=black] (0.7-0.45,0.23-0.45) rectangle (0.7+0.45,0.23+0.45);
+\end{scope}
+% arrow up the slope from the block
+\draw[->,thick] (1.1,0.36) -- (2.6,0.86);
+% dashed outline block near the top of the incline (final position)
+\begin{scope}[rotate around={18.43:(4.7,1.57)}]
+\draw[dashed] (4.7-0.45,1.57-0.45) rectangle (4.7+0.45,1.57+0.45);
+\end{scope}
+% height dimension on the right
+\draw[<->] (6.4,0) -- (6.4,2) node[midway,right] {2 m};
+\end{tikzpicture}

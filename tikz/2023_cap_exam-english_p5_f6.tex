@@ -1,0 +1,35 @@
+\begin{tikzpicture}[scale=1]
+  % --- left panel: sine wave graph ---
+  \draw[thick,-{Stealth}] (-1.4,0) -- (1.6,0) node[below right] {};
+  \draw[thick,-{Stealth}] (-1.1,-1.3) -- (-1.1,1.3);
+  \node at (-1.5,1.1) {$5\,V$};
+  \node at (-1.5,-1.1) {$-5\,V$};
+  \draw[thick,domain=-1.0:1.4,samples=60,smooth]
+    plot ({\x},{1.0*sin(2*180*\x)});
+
+  % --- right panel: diode clipper circuit ---
+  \begin{scope}[xshift=4.2cm]
+    \draw[thick] (0,0) -- (0,2.2);
+    \draw[thick] (0,2.2) -- (1.2,2.2);
+    \draw[thick] (1.2,2.2) node[above]{$R$};
+    \draw[thick] (0.7,2.05) rectangle (1.7,2.35);
+    \draw[thick] (1.7,2.2) -- (3.0,2.2);
+    \draw[thick] (0,2.2) node[left]{} ;
+    \node at (-0.3,1.1) {$V_{in}$};
+    \node at (3.3,1.1) {$V_{out}$};
+    \draw[thick] (0,0) -- (3.0,0);
+    \draw[thick] (3.0,0) -- (3.0,2.2);
+    % diode symbol pointing up between node and ground branch
+    \draw[thick] (3.0,1.55) -- (2.7,1.15) -- (3.3,1.15) -- cycle;
+    \draw[thick] (2.7,1.15) -- (3.3,1.15);
+    \draw[thick] (3.0,2.2) -- (3.0,1.55);
+    \draw[thick] (3.0,1.15) -- (3.0,0.85);
+    % battery -2V
+    \draw[thick] (2.75,0.85) -- (3.25,0.85);
+    \draw[thick] (2.85,0.65) -- (3.15,0.65);
+    \draw[thick] (3.0,0.65) -- (3.0,0);
+    \node at (3.55,0.55) {$-2V$};
+    \filldraw (0,2.2) circle (0.03);
+    \filldraw (3.0,2.2) circle (0.03);
+  \end{scope}
+\end{tikzpicture}

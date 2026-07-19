@@ -1,0 +1,9 @@
+\begin{circuitikz}[american]
+\draw (0,0) to[isource,l_=$I_t$] (0,3)
+  -- (2,3) to[R,l_=$R_t$] (2,0)
+  -- (0,0);
+\draw (2,3) -- (3,3) -- (3.5,2) -- (3.5,1.7) node[circ]{};
+\node[below] at (3.5,1.5) {A};
+\draw (4.5,1.7) node[circ]{} -- (4.5,0) -- (2,0);
+\node[below] at (4.5,1.5) {B};
+\end{circuitikz}

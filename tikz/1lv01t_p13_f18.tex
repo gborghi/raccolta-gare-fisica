@@ -1,0 +1,14 @@
+\begin{tikzpicture}
+  \draw (0,3) to[C, l=$6\,\mu$F] (4,3);
+  \draw (0,3) -- (0,2.3);
+  \draw (0,2.3) circle (2.5pt);
+  \node[left] at (-0.15,2.3) {B};
+  \draw (0,1.8) -- (0.6,1.8) to[C, l=$3\,\mu$F] (4,1.8);
+  \fill (0.6,1.8) circle (1.5pt);
+  \draw[-{Stealth}] (0.6,1.8) -- (0,1.1);
+  \draw (0,1.1) circle (2.5pt);
+  \node[left] at (-0.15,1.1) {A};
+  \draw (0,1.1) -- (0,0);
+  \draw (0,0) to[battery1, l=$6$ V] (4,0);
+  \draw (4,3) -- (4,0);
+\end{tikzpicture}

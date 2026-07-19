@@ -1,0 +1,11 @@
+\begin{tikzpicture}
+\definecolor{darkgreenrod}{RGB}{0,80,40}
+% outer rectangle
+\draw (0,0) rectangle (6,1.6);
+% hatched (wall) region on the left
+\draw[pattern=dots] (0,0) rectangle (2,1.6);
+% dark green rod/block
+\filldraw[fill=darkgreenrod,draw=black] (2,0) rectangle (2.6,1.6);
+% string/rod extending to the right
+\draw (6,0.8) -- (8,0.8);
+\end{tikzpicture}

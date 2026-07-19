@@ -1,0 +1,20 @@
+\begin{tikzpicture}[>=Stealth]
+% ground
+\draw[thick] (-0.5,0) -- (7,0);
+% belt: horizontal band that curves up and over on the right end
+\filldraw[fill=black!25,draw=black,rounded corners=6]
+  (0,0.3) -- (4.5,0.3) -- (4.5,0.9) -- (0,0.9) -- cycle;
+\draw[fill=black!25,draw=black] (4.5,0.6) circle (0.5);
+\draw[fill=white,draw=black] (4.5,0.6) circle (0.15);
+% rocks: three overlapping blobs on top of the belt
+\filldraw[fill=black!10,draw=black] (0.8,1.3) circle (0.4);
+\filldraw[fill=black!10,draw=black] (1.4,1.35) circle (0.45);
+\filldraw[fill=black!10,draw=black] (1.9,1.2) circle (0.35);
+% force P at angle theta from top of rocks
+\draw[dashed] (1.4,1.75) -- (3.2,1.75);
+\draw[->,thick] (1.4,1.75) -- (3.1,2.55) node[above] {$\vec{P}$};
+\draw (1.9,1.85) arc (0:35:0.5);
+\node at (2.15,1.95) {$\theta$};
+% force F along the belt, pointing left, below the rocks
+\draw[->,thick] (2.2,0.15) -- (0.3,0.15) node[midway,below] {$\vec{F}$};
+\end{tikzpicture}

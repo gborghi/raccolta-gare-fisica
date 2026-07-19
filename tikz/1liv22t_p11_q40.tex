@@ -1,0 +1,14 @@
+\begin{tikzpicture}[line width=0.9pt]
+  % bounding box
+  \draw[gray] (0,0) rectangle (5.6,3.6);
+  % B field into page symbol and label, left side
+  \node at (1.1,2.3) {$\vec{B}\otimes$};
+  % vertical rod R (top) to S (bottom)
+  \fill[gray!50] (2.6,0.9) rectangle (2.95,3.0);
+  \draw (2.6,0.9) rectangle (2.95,3.0);
+  \node[above] at (2.775,3.1) {R};
+  \node[below] at (2.775,0.8) {S};
+  % velocity arrow v to the right of the rod
+  \draw[-{Stealth}] (3.3,1.95) -- (4.3,1.95);
+  \node[above] at (3.8,2.0) {$\vec{v}$};
+\end{tikzpicture}

@@ -1,0 +1,11 @@
+\begin{tikzpicture}[line width=0.9pt]
+  % lamp (ellipse) upper left
+  \draw (0,4.0) ellipse (1.0 and 0.28);
+  \node[above] at (0,4.35) {Lamp};
+  % pen standing upright, lower right area
+  \draw (3.6,1.0) -- (3.6,2.2) -- (3.85,2.2) -- (3.85,1.0) -- (3.725,0.65) -- cycle;
+  % paper / table line
+  \draw (2.0,0.65) -- (6.0,0.65);
+  \node[below] at (3.725,0.6) {Pen};
+  \node[below] at (5.4,0.6) {Paper};
+\end{tikzpicture}

@@ -1,0 +1,15 @@
+\begin{tikzpicture}
+% support bar at the top with a small block and a pivot circle
+\draw[thick] (0,4) -- (4,4);
+\draw (0,3.7) rectangle (0.6,4);
+\draw (4,4) circle (0.08);
+\node[above] at (2,4.1) {L};
+% dashed vertical string from the block down to the resting bob position
+\draw[dashed] (0.3,3.7) -- (0.3,1);
+% pivot bob at bottom of the vertical string
+\draw (0.3,1) circle (0.15);
+% dashed arc trajectory from the top pivot to the bottom bob
+\draw[dashed] (4,4) .. controls (4.1,2.2) and (2.2,1.2) .. (0.45,1);
+% base block the pendulum hangs above
+\draw (-0.6,0) rectangle (2.6,1);
+\end{tikzpicture}

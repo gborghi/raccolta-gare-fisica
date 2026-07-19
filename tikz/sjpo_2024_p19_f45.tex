@@ -1,0 +1,17 @@
+\begin{tikzpicture}[scale=1]
+  % left and right thick vertical bars (heat reservoirs)
+  \draw[line width=2.5pt] (0,0) -- (0,2.2);
+  \draw[line width=2.5pt] (5.2,0) -- (5.2,2.2);
+  \node at (0,2.5) {$T_{\text{hot}}$};
+  \node at (5.2,2.5) {$T_{\text{cold}}$};
+  % outer rectangle
+  \draw[thick] (0,0) -- (5.2,0);
+  \draw[thick] (0,2.2) -- (5.2,2.2);
+  % vertical divider between block 1 and blocks 2/3
+  \draw[thick] (3.2,0) -- (3.2,2.2);
+  % horizontal divider between block 2 and block 3
+  \draw[thick] (3.2,1.1) -- (5.2,1.1);
+  \node at (1.6,1.1) {$1$};
+  \node at (4.2,1.65) {$2$};
+  \node at (4.2,0.55) {$3$};
+\end{tikzpicture}

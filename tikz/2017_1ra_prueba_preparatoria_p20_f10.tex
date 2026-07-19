@@ -1,0 +1,12 @@
+\begin{tikzpicture}[>=Stealth]
+  % axes
+  \draw[->] (-2.3,0) -- (2.3,0) node[right] {$x$};
+  \draw[->] (0,-2.0) -- (0,2.0) node[above] {$y$};
+  % block
+  \draw[thick] (-1,-0.7) rectangle (1,0.7);
+  % forces
+  \draw[->,thick] (0,0.7) -- (0,1.7) node[above] {$N_A$};
+  \draw[->,thick] (0,-0.7) -- (0,-1.7) node[below] {$P_A$};
+  \draw[->,thick] (-1,0) -- (-2.1,0) node[left] {$T_{1A}$};
+  \draw[->,thick] (1,0) -- (2.1,0) node[right] {$F_{rA}$};
+\end{tikzpicture}

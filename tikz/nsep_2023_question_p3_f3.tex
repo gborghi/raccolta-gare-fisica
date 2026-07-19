@@ -1,0 +1,12 @@
+\begin{tikzpicture}[line width=1pt]
+  \fill[gray!60] (0,3) ellipse (1.2 and 0.4);
+  \draw (0,3) ellipse (1.2 and 0.4);
+  \draw (-1.2,3) -- (-1.2,0);
+  \draw (1.2,3) -- (1.2,0);
+  \draw[dashed] (-1.2,0) arc (180:360:1.2 and 0.4);
+  \draw (-1.2,0) arc (180:0:1.2 and 0.4);
+  \draw[dashed] (0,3) -- (0,-0.6);
+  \draw (0,3) -- (1.2,3);
+  \node[right] at (0.6,3) {$R$};
+  \node[left] at (-1.2,1.5) {$h$};
+\end{tikzpicture}

@@ -1,0 +1,21 @@
+\begin{tikzpicture}
+  % outer rectangle
+  \draw[thick] (0,0) rectangle (6,3);
+  % 1m + 1m distance brackets on top
+  \draw[{Stealth}-{Stealth}] (0.5,3.5) -- (3.0,3.5);
+  \node at (1.75,3.75) {1 m};
+  \draw[{Stealth}-{Stealth}] (3.0,3.5) -- (5.5,3.5);
+  \node at (4.25,3.75) {1 m};
+  \draw (0.5,3.3) -- (0.5,3.5);
+  \draw (3.0,3.3) -- (3.0,3.5);
+  \draw (5.5,3.3) -- (5.5,3.5);
+  % two horizontal slit marks on the left
+  \draw[thick, line width=2pt] (0.8,2.0) -- (1.7,2.0);
+  \draw[thick, line width=2pt] (0.8,1.0) -- (1.7,1.0);
+  % circled plus symbol in the middle
+  \draw (3.0,1.5) circle (0.2);
+  \draw (2.8,1.5) -- (3.2,1.5);
+  \draw (3.0,1.3) -- (3.0,1.7);
+  % diagonal slit mark on the right
+  \draw[thick, line width=2pt] (4.3,1.15) -- (5.0,1.85);
+\end{tikzpicture}

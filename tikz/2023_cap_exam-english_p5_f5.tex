@@ -1,0 +1,10 @@
+\begin{tikzpicture}[>=Stealth]
+  % grid
+  \foreach \x in {0,...,5} {\draw[thick] (\x,0) -- (\x,5);}
+  \foreach \y in {0,...,5} {\draw[thick] (0,\y) -- (5,\y);}
+  % points A and B on the middle horizontal line
+  \filldraw (2,2) circle (2pt) node[below] {$A$};
+  \filldraw (3,2) circle (2pt) node[below] {$B$};
+  % X marker between A and B, slightly above the line
+  \node at (2.5,2.35) {$\times$};
+\end{tikzpicture}

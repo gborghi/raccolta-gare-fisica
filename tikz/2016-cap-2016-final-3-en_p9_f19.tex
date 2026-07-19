@@ -1,0 +1,12 @@
+\begin{tikzpicture}
+  % ground line
+  \draw[thick] (-1.5,0) -- (2.2,0);
+  % rounded (Reuleaux-triangle-like) shape resting on the ground
+  \draw[fill=gray!55, thick]
+    (0,0.1) .. controls (0.3,-0.05) and (1.0,-0.05) .. (1.3,0.1)
+    .. controls (1.7,1.1) and (1.1,1.9) .. (0.65,2.1)
+    .. controls (0.2,1.9) and (-0.4,1.1) .. (0,0.1) -- cycle;
+  % g arrow
+  \draw[-{Stealth}, thick] (-1.1,2.0) -- (-1.1,0.3);
+  \node at (-1.35,1.6) {$g$};
+\end{tikzpicture}

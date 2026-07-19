@@ -1,0 +1,9 @@
+\begin{tikzpicture}[line width=0.9pt]
+  % corner axes (vertical wall and horizontal floor)
+  \draw (0,0) -- (0,3.4);
+  \draw (0,0) -- (3.4,0);
+  % circle tangent to both walls, resting in the corner
+  \draw (1.7,1.7) circle (1.15);
+  % curved arrow inside circle indicating rotation direction
+  \draw[-{Stealth}] (1.2,2.1) .. controls (1.6,2.35) and (2.05,2.15) .. (2.25,1.75);
+\end{tikzpicture}

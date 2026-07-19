@@ -1,0 +1,11 @@
+\begin{tikzpicture}[>=Stealth]
+  % rod
+  \draw[line width=2pt,gray] (0,0) -- (5.5,0);
+  % pivot point X
+  \filldraw (0,0) circle (1.5pt);
+  \node[left] at (-0.15,0) {X};
+  % tension vector T (up-left)
+  \draw[->,thick] (1.7,0) -- (0.5,2.0) node[above] {$\vec{T}$};
+  % weight vector W (down)
+  \draw[->,thick] (1.7,0) -- (1.7,-1.8) node[below] {$\vec{W}$};
+\end{tikzpicture}

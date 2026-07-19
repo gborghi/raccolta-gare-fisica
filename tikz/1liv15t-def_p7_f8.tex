@@ -1,0 +1,9 @@
+\begin{tikzpicture}[scale=1]
+  \draw[thick,fill=gray!30] (0,0) -- (4.2,0) -- (0,2.4) -- cycle;
+  \node at (3.3,0.35) {$30^\circ$};
+  % force box "10 N" on the incline, rotated to match slope
+  \begin{scope}[rotate around={30:(2.1,1.4)}]
+    \draw[thick,fill=white] (1.75,1.15) rectangle (2.45,1.65);
+    \node at (2.1,1.4) {$10\ N$};
+  \end{scope}
+\end{tikzpicture}

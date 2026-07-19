@@ -1,0 +1,15 @@
+\begin{tikzpicture}
+% microwave source box
+\draw (0,0) rectangle (3,1.8);
+\node at (1.5,-0.6) {fuente de microondas};
+% horn lines from the box opening toward the beam axis
+\draw (3,1.5) -- (4.7,2.3);
+\draw (3,0.3) -- (4.7,-0.5);
+% dotted beam line
+\draw[dotted] (3,0.9) -- (9.5,0.9);
+% small circle marker on the beam
+\draw (5.8,0.9) circle (0.15);
+% detector: vertical gray bar on the right
+\filldraw[fill=black!35,draw=black] (9.3,-0.6) rectangle (9.7,2.4);
+\node at (9.5,-1.2) {detector};
+\end{tikzpicture}

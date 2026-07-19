@@ -1,0 +1,14 @@
+\begin{tikzpicture}
+  % outer rectangle loop, battery on top
+  \draw (0,2) to[battery1, l=12 V] (4,2);
+  \draw (0,2) -- (0,0.7);
+  \draw (4,2) -- (4,0.7);
+  % top row of resistors from P to R and R to Q
+  \draw (0,0.7) node[left] {P} to[R, l=$2\,\Omega$] (2,0.7) node[circ] {} to[R, l=$4\,\Omega$] (4,0.7) node[right] {Q};
+  \node at (2,1.0) {R};
+  % bottom row of resistors from P to S and S to Q
+  \draw (0,0.7) -- (0,-0.7);
+  \draw (4,0.7) -- (4,-0.7);
+  \draw (0,-0.7) to[R, l=$4\,\Omega$] (2,-0.7) node[circ] {} to[R, l=$8\,\Omega$] (4,-0.7);
+  \node at (2,-1.0) {S};
+\end{tikzpicture}

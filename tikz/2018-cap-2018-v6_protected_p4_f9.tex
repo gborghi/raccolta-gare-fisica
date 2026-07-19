@@ -1,0 +1,21 @@
+\begin{tikzpicture}[>=Stealth]
+% axes
+\draw[->] (0,0) -- (0,5.2) node[above] {p};
+\draw[->] (0,0) -- (6,0) node[right] {V};
+% cycle: left edge v1=1.5, right edge v2=4
+% horizontal levels: bottom p0=1, then 1.75, 2.5, 3.25, top 4 (arrows all point left except bottom which points right)
+\draw[->] (1.5,1) -- (4,1);
+\draw (4,1) -- (4,4);
+\draw[->] (4,1.75) -- (1.5,1.75);
+\draw[->] (4,2.5) -- (1.5,2.5);
+\draw[->] (4,3.25) -- (1.5,3.25);
+\draw[->] (4,4) -- (1.5,4);
+\draw (1.5,4) -- (1.5,1);
+% dashed guide lines to axes
+\draw[dashed] (0,1) -- (1.5,1);
+\draw[dashed] (1.5,0) -- (1.5,1);
+\draw[dashed] (4,0) -- (4,1);
+\node[left] at (0,1) {$p_0$};
+\node[below] at (1.5,0) {$v_1$};
+\node[below] at (4,0) {$v_2$};
+\end{tikzpicture}

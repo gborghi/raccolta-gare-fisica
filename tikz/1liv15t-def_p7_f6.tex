@@ -1,0 +1,12 @@
+\begin{tikzpicture}[scale=1]
+  % principal axis (dashed)
+  \draw[thick,dashed] (-0.3,0) -- (3.6,0);
+  \filldraw (0,0) circle (0.04);
+  \node at (0,-0.3) {C};
+  \filldraw (1.2,0) circle (0.04);
+  \node at (1.2,-0.3) {F};
+  % concave mirror arc
+  \draw[thick,gray] (2.6,1.9) .. controls (3.6,0.95) and (3.6,-0.95) .. (2.6,-1.9);
+  \node at (2.85,2.15) {specchio};
+  \draw[thick,gray] (2.85,2.05) -- (2.65,1.75);
+\end{tikzpicture}

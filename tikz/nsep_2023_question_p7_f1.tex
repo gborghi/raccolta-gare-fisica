@@ -1,0 +1,14 @@
+\begin{circuitikz}[scale=1]
+  % left and right vertical wires
+  \draw (0,0) node[circ,label=left:S]{} -- (0,2);
+  \draw (4,0) -- (4,2);
+  % top branch: C1 -- a -- C2
+  \draw (0,2) to[C, l=$C_1$] (1.8,2) node[circ]{} node[above]{$a$} to[C, l=$C_2$] (4,2);
+  % bottom branch: C3 -- b -- C4
+  \draw (0,0) to[C, l_=$C_3$] (2.2,0) node[circ]{} node[below]{$b$} to[C, l_=$C_4$] (4,0);
+  % switch K between a and b (diagonal)
+  \draw (1.8,2) to[switch, l=$K$] (2.2,0);
+  % leads down to terminals + and -
+  \draw (0,0) -- (0,-1) -- (1.5,-1.6) node[circ,label=below:$+$]{};
+  \draw (4,0) -- (4,-1) -- (2.5,-1.6) node[circ,label=below:$-$]{};
+\end{circuitikz}

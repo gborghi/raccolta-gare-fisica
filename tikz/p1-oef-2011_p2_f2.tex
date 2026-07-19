@@ -1,0 +1,13 @@
+\begin{tikzpicture}
+  \draw[-{Stealth}] (0,0) -- (0,2.6);
+  \node at (-0.4,1.9) {$\langle f\rangle$};
+  \draw[-{Stealth}] (0,0) -- (4.5,0);
+  % bump curve f(x)
+  \draw[thick] (0.3,0.4) .. controls (1.4,2.3) and (2.8,2.3) .. (3.9,0.3);
+  \node at (2.1,2.15) {$f(x)$};
+  % rectangle x1 to x2
+  \filldraw[fill=gray!45, draw=none] (0.7,0) rectangle (3.5,1.55);
+  \draw[thick] (0.7,0) rectangle (3.5,1.55);
+  \node at (0.7,-0.3) {$x_1$};
+  \node at (3.5,-0.3) {$x_2$};
+\end{tikzpicture}

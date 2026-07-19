@@ -19,8 +19,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Space Grotesk
-      body: Instrument Sans
+      header: Bricolage Grotesque
+      body: Hanken Grotesk
       code: Spline Sans Mono
     colors:
       # Redesign "Raccolta Gare" — blu/ciano palette (blue #0028FF, deep #24009C,

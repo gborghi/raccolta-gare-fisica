@@ -1,0 +1,10 @@
+\begin{circuitikz}[scale=1]
+  \draw (0,3) to[ammeter, l=$A$] (0,0);
+  \draw (0,3) -- (2,3) -- (4,3);
+  \draw (2,3) to[R, l=$20\,\Omega$] (2,0);
+  \draw (4,3) -- (4,0);
+  \draw (0,0) to[battery1] (1,0)
+    to[ammeter, l=$A$] (2,0)
+    to[ammeter, l=$A$] (3,0)
+    -- (4,0);
+\end{circuitikz}

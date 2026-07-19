@@ -1,0 +1,17 @@
+\begin{tikzpicture}[line width=1pt]
+  % object (candle)
+  \draw (-4,0) -- (-4,0.6);
+  \draw[line width=1.5pt] (-4.15,0.6) -- (-3.85,0.6) -- (-4,0.9) -- cycle;
+  % principal axis
+  \draw[dotted] (-4,0) -- (2.3,0);
+  % concave mirror
+  \draw[line width=1.3pt] (2,-1.6) arc (-55:55:2.2);
+  % focal point
+  \fill (0,0) circle (0.04);
+  \node[below] at (0,0) {$F$};
+  % ray 1: tip -> upper mirror, roughly parallel to axis
+  \draw[-{Stealth}] (-4,0.9) -- (1.6,0.55);
+  % ray 2: tip -> through F -> lower mirror
+  \draw[-{Stealth}] (-4,0.9) -- (0,0);
+  \draw[-{Stealth}] (0,0) -- (1.75,-0.75);
+\end{tikzpicture}

@@ -1,0 +1,12 @@
+\begin{circuitikz}[scale=1]
+  \draw (0,0) to[battery1, l=$6\,V$] (0,3)
+        to[R, l=$100\,\Omega$] (3,3)
+        to[short] (3,3)
+        (3,3) to[C, l=$4\,\mu F$] (3,1.5)
+        to[R, l_=$100\,\Omega$] (3,0)
+        to[short] (0,0)
+        ;
+  \draw (3,3) to[short] (5,3)
+        to[R, l=$200\,\Omega$] (5,0)
+        to[short] (3,0);
+\end{circuitikz}

@@ -1,0 +1,20 @@
+\begin{tikzpicture}
+  % hatched ceiling
+  \draw[thick] (-1.5,3) -- (1.5,3);
+  \foreach \x in {-1.4,-1.1,...,1.4} {
+    \draw (\x,3) -- (\x+0.3,3.3);
+  }
+  % pivot point
+  \coordinate (O) at (0,3);
+  % dashed vertical (axis of cone)
+  \draw[dashed] (0,3) -- (0,0.3);
+  % string of length ell to ball
+  \draw[thick] (O) -- (-1.2,0.5);
+  \filldraw (-1.2,0.5) circle (3.5pt);
+  \node at (-0.8,1.7) {$\ell$};
+  % angle theta at pivot
+  \draw (0,2.5) arc (270:245:0.5);
+  \node at (0.35,2.55) {$\theta$};
+  % dashed ellipse for circular path
+  \draw[dashed] (0,0.35) ellipse (1.2 and 0.3);
+\end{tikzpicture}

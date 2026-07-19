@@ -815,9 +815,11 @@ git commit -m "test(spa): behavioral parity audit notes"
 
 ---
 
-## Phase 7 -- Build, size gate, Cloudflare deploy
+## Phase 7 -- Build, size gate, GitHub Pages deploy
 
-Deliverable: a full local build under 20,000 files, deployed to Cloudflare Pages via Direct Upload.
+Deliverable: a full local build under 20,000 files, deployed to **GitHub Pages** (branch `gh-pages`, served at `gborghi.github.io/raccolta-gare-fisica`) to verify client-experience parity BEFORE any Cloudflare cutover. Cloudflare Direct Upload is deferred to a later phase; gh-pages is the existing known-good deploy path (already live 2026-07-16) and needs no file-count gate of its own, but we still assert < 20,000 files so the same build is Cloudflare-ready.
+
+**baseUrl stays `gborghi.github.io/raccolta-gare-fisica`** (project subpath) -- NO baseUrl change for gh-pages (unlike the old Cloudflare root-domain plan). Do not touch `quartz.config.yaml:11` or the gh-pages `CNAME`.
 
 ### Task 7.1: Full build + post-build pipeline + file-count gate
 
@@ -825,71 +827,111 @@ Deliverable: a full local build under 20,000 files, deployed to Cloudflare Pages
 - Modify: `shrink_build.mjs:53` -- the `prove/index.html` FolderPage is small now (one row per stem); drop or simplify the stub. Keep any other shrink steps.
 - Reference: build ops memory (heap 16 GB, Dropbox-ignore `public/`).
 
-- [ ] **Step 1: Stop Dropbox** (Windows content/ lock): `Get-Process Dropbox | Stop-Process -Force`.
+- [ ] **Step 1: Stop Dropbox** (Windows content/ lock + I/O contention): the USER stops it (`Get-Process Dropbox | Stop-Process -Force`, or via tray) -- the user reserved Dropbox start/stop for themselves. Confirm stopped (`tasklist | grep -i dropbox` empty) before proceeding.
 
-- [ ] **Step 2: Regenerate content + static:**
+- [ ] **Step 2: Restore forks + apply patches (order critical).** `npx quartz build` does NOT auto-restore (no `build` npm script; `prebuild` only fires on `npm run build`). Patches live in gitignored `.quartz/` and are wiped by a fork restore, so restore FIRST, then patch:
+```bash
+npm run install-plugins                 # restores .quartz/ forks from quartz.lock.json
+node scripts/patch-search-fork.mjs      # tiered mobile/desktop fetch + atom-frag result href
+node scripts/patch-graph-fork.mjs       # atom-frag node href + tag-node repoint
+node scripts/patch-tag-links-fork.mjs   # repoint tag emitters -> /cerca#tag=<slug>
+node scripts/rebuild-forks.mjs          # CRITICAL: recompile patched forks src -> dist
+```
+(Patch scripts are idempotent; safe to re-run. **`rebuild-forks.mjs` is mandatory**: every fork's `package.json` has `"main": "./dist/index.js"`, so `npx quartz build` imports the PRE-COMPILED `dist/`, never the patched `src/`. Without recompiling, the build ships the UNPATCHED forks -- tag links stay `tags/<x>` (404 with tag-page disabled), search loses the mobile tier + atom-fragment hrefs, graph loses atom-node hrefs. Found live at the Phase-7 gate: the src patches were invisible until the forks were rebuilt.)
+
+- [ ] **Step 3: Regenerate content + static:**
 ```bash
 NODE_OPTIONS=--max-old-space-size=16384 node preprocess.mjs
 ```
 
-- [ ] **Step 3: Build Quartz:**
+- [ ] **Step 4: Build Quartz:**
 ```bash
 NODE_OPTIONS=--max-old-space-size=16384 npx quartz build
 ```
 
-- [ ] **Step 4: Post-build pipeline (order matters):**
+- [ ] **Step 5: Post-build pipeline (order matters):**
 ```bash
-cp -r staticgen/cl public/static/ && cp staticgen/quesiti.json staticgen/quesiti_kw.json public/static/
-node scripts/make-search-index.mjs     # desktop contentIndex.json ~15MB (per-atom)
-node scripts/make-mobile-index.mjs      # contentIndexMobile.json ~8MB
+cp -r staticgen/cl public/static/ && cp staticgen/quesiti.json staticgen/quesiti_kw.json staticgen/tagmap.json public/static/
+node scripts/make-search-index.mjs      # merges native pages + emits desktop contentIndex.json (~15MB) AND mobile contentIndexMobile.json (~8MB), both per-atom
 node shrink_build.mjs                    # remaining shrink steps (NOT contentIndex now)
 : > public/.nojekyll
 ```
-(Ensure `shrink_build.mjs` no longer truncates/overwrites the new per-atom `contentIndex.json`; the search-index script is now the authority for that file.)
+(4A/5.5 folded the mobile projection INTO make-search-index.mjs -- the old `make-mobile-index.mjs` step is redundant; verify it is gone/no-op. Ensure `shrink_build.mjs` no longer truncates/overwrites the new per-atom `contentIndex.json`; the search-index script is the authority for that file.)
 
-- [ ] **Step 5: File-count gate.**
+- [ ] **Step 6: Index-size gate.** `node --test test/spa-index-size.test.mjs test/spa-index-merge.test.mjs` -- desktop 13-16MB, mobile 6.5-9MB, both < 25MiB, concepts kept, containers dropped.
+
+- [ ] **Step 7: File-count gate.**
 ```bash
 find public -type f | wc -l     # MUST be < 20000 (expect ~10,700)
 ```
-Assert < 20,000. If not, investigate which dir still explodes (`find public -type d -printf '' ; for d in public/*; do echo "$(find "$d" -type f|wc -l) $d"; done | sort -rn | head`).
+Assert < 20,000. If not, investigate which dir still explodes (`for d in public/*; do echo "$(find "$d" -type f|wc -l) $d"; done | sort -rn | head`).
 
-- [ ] **Step 6: Per-file size gate.**
+- [ ] **Step 8: Per-file size gate.**
 ```bash
-find public -type f -size +25M     # MUST be empty (CF 25MiB cap)
+find public -type f -size +25M     # MUST be empty
 ```
 
-- [ ] **Step 7: Restart Dropbox.** Commit the regenerated build inputs.
+- [ ] **Step 9: Commit the regenerated build inputs** (NOT public/, which is gitignored).
 ```bash
 git add content staticgen quartz/static shrink_build.mjs
-git commit -m "build(spa): regenerate content + per-atom indices for CF deploy"
+git commit -m "build(spa): regenerate content + per-atom indices for gh-pages deploy"
 ```
 
-### Task 7.2: Cloudflare Pages Direct Upload
+### Task 7.2: GitHub Pages deploy (push built public/ to gh-pages)
 
-**Files:**
-- Create: `wrangler` config / project (or use the dashboard-created project).
+The `gh-pages` branch holds the built site at its root (`.nojekyll`, `CNAME`, `index.html`, `prove/`, ...). Deploy = replace that branch's tree with the fresh `public/` and push. `public/` is gitignored in the working tree, so use a throwaway git worktree checked out to `gh-pages` OUTSIDE Dropbox (scratchpad), mirror `public/` into it, commit, push.
 
 **Interfaces:**
-- Consumes: `public/`.
-- Produces: a live Cloudflare Pages deployment.
+- Consumes: `public/` (built, gated).
+- Produces: updated `origin/gh-pages` -> live at `https://gborghi.github.io/raccolta-gare-fisica/`.
 
-- [ ] **Step 1: Confirm auth.** `npx wrangler whoami` (the user runs `! npx wrangler login` if needed -- interactive).
+- [ ] **Step 1: Confirm auth + remote.** `git remote -v` (origin = `github.com/gborghi/raccolta-gare-fisica`). Push uses the user's existing git credential; if it prompts, the user runs `! git push` context or provides a PAT.
 
-- [ ] **Step 2: Deploy.**
+- [ ] **Step 2: Prepare a gh-pages worktree** in scratchpad (outside Dropbox):
 ```bash
-npx wrangler pages deploy public --project-name=raccolta-gare-fisica
+GHP="$SCRATCH/ghp-deploy"          # scratchpad path, not under Dropbox
+git worktree add "$GHP" gh-pages
 ```
-Expected: upload succeeds (no file-count rejection), a `*.pages.dev` URL is returned.
 
-- [ ] **Step 3: Update `baseUrl`.** Set `quartz.config.yaml:11` `baseUrl` to the pages.dev host (or the chosen custom domain), rebuild (Task 7.1), redeploy. (Root-domain now, not the GH `raccolta-gare-fisica` subpath.)
-
-- [ ] **Step 4: Smoke test the live site.** Repeat the Phase 6.3 audit against the deployed URL: search -> atom, `/cerca` -> atom, graph -> atom, old URL -> redirect, mobile viewport -> mobile index. 
-
-- [ ] **Step 5: Commit config.**
+- [ ] **Step 3: Mirror the fresh build into it** (preserve .git, drop everything else, copy public/ verbatim, keep CNAME/.nojekyll which the build already emits):
 ```bash
-git add quartz.config.yaml
-git commit -m "chore(spa): point baseUrl at Cloudflare Pages"
+# remove old tracked content (keep .git), then copy new build
+find "$GHP" -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
+cp -a public/. "$GHP"/
+# ensure CNAME survives (build may not emit it) -- restore from branch if absent
+[ -f "$GHP/CNAME" ] || git -C "$GHP" checkout gh-pages -- CNAME 2>/dev/null || true
 ```
+
+- [ ] **Step 4: Commit + push.**
+```bash
+git -C "$GHP" add -A
+git -C "$GHP" commit -m "Deploy: SPA per-prova accorpamento (per-atom search/tag/graph parity, <20k files)"
+git -C "$GHP" push origin gh-pages
+```
+Expected: push succeeds; GitHub Pages rebuilds within ~1-2 min.
+
+- [ ] **Step 5: Clean up the worktree.**
+```bash
+git worktree remove "$GHP" --force
+```
+
+- [ ] **Step 6: (User) restart Dropbox.**
+
+- [ ] **Step 7: Live parity audit (Playwright MCP)** against `https://gborghi.github.io/raccolta-gare-fisica/` -- see Task 7.3.
+
+### Task 7.3: Live client-experience parity audit
+
+Goal (user's hard gate): the deployed site must be **identical as a client experience** to before the restructuring. Audit with the Playwright MCP against the live gh-pages URL. Record pass/fail per check.
+
+- [ ] **Nav/reader:** open a prova (e.g. `prove/<stem>`) -> exactly one atom visible, TOC lists all atoms, click TOC item N -> atom N shown + `#qNN` set, direct load `prove/<stem>#q03` opens on q03, browser back/forward moves between atoms.
+- [ ] **Search bar (per-atom):** type a term -> results resolve to individual exercises (atom tiles), Enter/click lands on `prove/<stem>#qNN` and scrolls to that atom. Concept pages (topics/methods/objects/clusters) still appear as hits.
+- [ ] **`/cerca` full page:** query resolves to per-atom results, click -> atom.
+- [ ] **Tagging (per-atom):** each atom's tags render; clicking a tag lands on the tag/search view scoped to that tag; tag pages do not 404.
+- [ ] **Old URL redirect:** a pre-restructure atom URL (`.../prove/<stem>__<atomId>`) 404-redirects to `prove/<stem>#<atomId>`.
+- [ ] **Graph:** local ego-graph from an atom shows atom + concept neighbors; clicking a graph node lands on the right atom (`#frag`). Global graph unchanged (concept-only cap is pre-existing).
+- [ ] **Mobile viewport:** narrow/coarse-pointer loads `contentIndexMobile.json` (smaller), search still works.
+- [ ] **Popover/qlang:** hover popover previews render; multi-language `qlang-switch` atoms toggle languages inside the reader.
+- [ ] Record any regression as a blocker; on clean pass, mark Phase 7 complete.
 
 ---
 

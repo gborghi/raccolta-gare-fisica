@@ -1,0 +1,20 @@
+\begin{tikzpicture}[>={Latex}]
+% gravity arrow
+\draw[->,thick] (0.15,2.35)--(0.15,1.15);
+\node[left] at (0.15,1.75) {$g$};
+% first ball
+\fill[cyan!60!black] (2.5,2.6) circle(0.06);
+\node[cyan!60!black,right] at (2.58,2.6) {$1^{\text{st}}$ ball};
+% second ball
+\fill[cyan!60!black] (1.15,1.5) circle(0.06);
+\node[cyan!60!black,left] at (1.07,1.5) {$2^{\text{nd}}$ ball};
+% throwing point P
+\fill[orange] (3.3,0.75) circle(0.06);
+\node[orange,above right] at (3.32,0.78) {$P$};
+\node[orange,below] at (3.35,0.68) {throwing point};
+% scale bar
+\draw (1.3,0.15)--(2.3,0.15);
+\draw (1.3,0.05)--(1.3,0.25);
+\draw (2.3,0.05)--(2.3,0.25);
+\node[above] at (1.8,0.2) {10m};
+\end{tikzpicture}

@@ -1,0 +1,19 @@
+\begin{tikzpicture}
+  % cliff + ground outline
+  \draw[thick] (0,3) -- (1.5,3) .. controls (2.3,2.4) and (1.0,1.2) .. (1.5,0) -- (8,0);
+  % stick figure thrower at edge
+  \draw (1.15,3.35) circle (0.12);
+  \draw (1.15,3.23) -- (1.15,2.85);
+  \draw (0.95,3.1) -- (1.45,3.2);
+  \draw (1.15,2.85) -- (1.0,2.6);
+  \draw (1.15,2.85) -- (1.28,2.6);
+  % projectile arc
+  \draw[-{Latex}] (1.7,3.6) to[bend left=30] (6.4,0.3);
+  % height dimension
+  \draw[{Latex}-{Latex}] (0.25,0) -- (0.25,3) node[midway,left] {$?$};
+  % impact marks
+  \fill (6.5,0.1) circle (1.2pt);
+  \draw (6.5,0.15) -- (6.2,0.5);
+  \draw (6.5,0.15) -- (6.5,0.55);
+  \draw (6.5,0.15) -- (6.8,0.5);
+\end{tikzpicture}

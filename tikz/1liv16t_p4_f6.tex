@@ -1,0 +1,17 @@
+\begin{tikzpicture}[>={Latex[length=2.5mm]}]
+  % disk (perspective) with thickness
+  \draw (0,0.9) -- (0,1.1);
+  \draw (4,0.9) -- (4,1.1);
+  \draw (0,0.9) arc (180:360:2 and 0.5);
+  \draw (2,1.1) ellipse (2 and 0.5);
+  % rotation axis (dashed)
+  \draw[dashed] (2,1.1) -- (2,2.2);
+  % central mass
+  \fill (2.4,1.05) rectangle (2.58,1.2);
+  % rod to rim block
+  \draw[very thick,gray] (2.58,1.13) -- (3.55,1.2);
+  % rim block
+  \draw[fill=gray!30] (3.55,1.1) rectangle (4.05,1.38);
+  % rotation arrow
+  \draw[->] (3.85,1.75) arc (160:15:0.45 and 0.3);
+\end{tikzpicture}

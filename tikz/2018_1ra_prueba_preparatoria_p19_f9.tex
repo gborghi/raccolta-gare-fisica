@@ -1,0 +1,15 @@
+\begin{tikzpicture}[>=Latex]
+  % vertical axis (blue), downward = x
+  \draw[blue,->] (0,0.4) -- (0,-2.2);
+  \node[blue] at (0.3,-2.0) {$x$};
+  % up arrow T_B from top of block
+  \draw[blue,->] (0,0.4) -- (0,1.8);
+  \node at (0.35,1.55) {$T_B$};
+  % block
+  \draw[thick] (-0.7,-0.4) rectangle (0.7,0.4);
+  % downward forces P_B and R
+  \draw[->] (-0.25,0.3) -- (-0.25,-1.4);
+  \draw[->] (0.25,0.3) -- (0.25,-1.4);
+  \node at (-0.7,-0.9) {$P_B$};
+  \node at (0.6,-0.9) {$R$};
+\end{tikzpicture}

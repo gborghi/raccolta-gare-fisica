@@ -1,0 +1,16 @@
+\begin{tikzpicture}
+% dashed axis
+\draw[dashed] (-0.4,0) -- (6.8,0);
+% wave
+\draw[thick,domain=0:540,samples=200,smooth] plot ({\x/90},{1.2*sin(\x)});
+% labelled points
+\foreach \x/\y/\lab/\pos in {%
+  0.6/0.97/A/{above left},
+  1/1.2/B/above,
+  1.6/0.705/C/{above right},
+  3/-1.2/D/below,
+  4/0/E/above,
+  5.5/0.848/F/{above right},
+  6/0/G/right}
+  { \filldraw[fill=white] (\x,\y) circle (2.2pt); \node[\pos] at (\x,\y) {\lab}; }
+\end{tikzpicture}

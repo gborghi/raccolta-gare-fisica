@@ -1,0 +1,27 @@
+\begin{circuitikz}[>={Latex}]
+% IC box
+\draw (2,1) rectangle (4,3);
+\node at (2.3,2.6) {$a$};
+\node at (2.3,1.4) {$b$};
+\node at (3.7,2.6) {$o$};
+\node at (3.7,1.4) {$g$};
+% input supply
+\draw (0,0.4) to[battery1] (0,3.0);
+\node[left] at (-0.15,1.7) {$V_{\text{in}}$};
+% a terminal wiring to supply +
+\draw (2,2.6) -- (1.2,2.6) -- (1.2,3.4) -- (0,3.4) -- (0,3.0);
+% output to Vout and divider
+\draw (4,2.6) -- (6,2.6);
+\node[right] at (6,2.6) {$V_{\text{out}}$};
+\draw (5.2,2.6) -- (5.2,2.0);
+\draw (5.2,2.0) to[R=$R_1$] (5.2,0.9);
+\draw (5.2,0.9) to[R=$R_2$] (5.2,-0.3);
+% feedback junction to b
+\draw (5.2,0.9) -- (1.5,0.9) -- (1.5,1.4) -- (2,1.4);
+% g to common ground rail
+\draw (4,1.4) -- (4.4,1.4) -- (4.4,-0.3) -- (5.2,-0.3);
+% supply - to ground rail
+\draw (0,0.4) -- (0,-0.3) -- (5.2,-0.3);
+% ground symbol
+\draw (5.2,-0.3) -- (5.2,-0.55) node[ground]{};
+\end{circuitikz}

@@ -1,0 +1,13 @@
+\begin{tikzpicture}
+  % channel walls
+  \draw[very thick] (0,0) -- (0,5);
+  \draw[very thick] (5,0) -- (5,5);
+  % current arrow
+  \draw[-{Latex}] (2.5,4.9) -- (2.5,4.2) node[midway,right] {4 m/s};
+  % boat (D-shape hull)
+  \draw[thick] (0.8,2.4) -- (0.8,3.1) .. controls (1.7,3.05) and (1.7,2.45) .. (0.8,2.4);
+  % velocity of boat
+  \draw[-{Latex}] (1.9,2.9) -- (2.4,3.15);
+  % width dimension
+  \draw[{Latex}-{Latex},dashed] (0,-0.4) -- (5,-0.4) node[midway,below] {600 m};
+\end{tikzpicture}

@@ -1,0 +1,17 @@
+\begin{tikzpicture}
+  % left: quarter axes
+  \draw[-{Latex}] (0,0) -- (0,2);
+  \node[right] at (0,2) {$\frac{E_0}{\sqrt{2}}$};
+  \draw[-{Latex}] (0,0) -- (2,0);
+  \node[below] at (1.8,-0.1) {$\frac{E_0}{\sqrt{2}}$};
+  % bold implication arrow
+  \draw[-{Latex[length=4mm,width=4mm]},line width=2pt] (2.9,1) -- (3.9,1);
+  % right: full axes
+  \draw[{Latex}-{Latex}] (4,0) -- (9,0);
+  \draw[dashed,-{Latex}] (6,0) -- (6,2);
+  % rotation arrow (ccw)
+  \draw[-{Latex}] (6.5,1.55) arc (10:195:0.5);
+  % labels on axis
+  \node[below] at (6.9,-0.05) {$\frac{E_0}{\sqrt{2}}$};
+  \node[below] at (8.3,-0.05) {$\frac{E_0}{\sqrt{2}}$};
+\end{tikzpicture}

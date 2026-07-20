@@ -1,0 +1,23 @@
+\begin{tikzpicture}[>=Latex]
+% ceiling
+\fill[gray!40] (-0.5,4) rectangle (5.5,4.5);
+\draw (-0.5,4) -- (5.5,4);
+% pivot
+\coordinate (P) at (2.5,4);
+\fill (P) circle (1.5pt);
+% vertical reference (dashed)
+\draw[dashed] (P) -- (2.5,0.6);
+% string to mass
+\coordinate (M) at (0.9,1);
+\draw[thick] (P) -- (M);
+\fill (M) circle (7pt);
+\node[left] at (M){$m$};
+\node at (1.55,2.4){$\ell$};
+% angle theta0
+\draw (P)+(-0.6,0) arc (180:250:0.6);
+\node at (2.05,3.4){$\theta_0$};
+% conical base (dashed ellipse through mass)
+\draw[dashed] (2.5,1) ellipse (1.6 and 0.4);
+% gravity
+\draw[->] (4,2.6) -- (4,1.4) node[midway,right]{$\bar{g}$};
+\end{tikzpicture}

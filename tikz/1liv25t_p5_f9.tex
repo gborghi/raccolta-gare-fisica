@@ -1,0 +1,18 @@
+\begin{tikzpicture}[>={Latex[length=2.5mm]}]
+  % axes
+  \draw[->] (0.5,0.5) -- (0.5,4.4);
+  \draw[->] (0.5,0.5) -- (4.9,0.5);
+  \node[left] at (0.5,4.2) {$p$};
+  \node[below] at (4.8,0.5) {$V$};
+  % cycle K -> L -> M -> K
+  \draw[->] (1.2,3.8) to[out=-30,in=150] (3.5,2.2);
+  \draw[->] (3.5,2.1) -- (2.7,1.05);
+  \draw[->] (2.6,1.0) to[out=150,in=-70] (1.15,3.7);
+  % points
+  \draw[fill=white] (1.2,3.8) circle (2pt);
+  \draw[fill=white] (3.5,2.2) circle (2pt);
+  \draw[fill=white] (2.6,1.0) circle (2pt);
+  \node[above] at (1.35,3.85) {K};
+  \node[right] at (3.6,2.25) {L};
+  \node[below] at (2.6,0.95) {M};
+\end{tikzpicture}

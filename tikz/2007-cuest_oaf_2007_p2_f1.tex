@@ -1,0 +1,15 @@
+\begin{tikzpicture}[>=Latex]
+  \fill[gray!20] (0,1.6) rectangle (6,1.85);
+  \draw (0,1.6) rectangle (6,1.85);
+  \fill[gray!55] (1.05,2.0) circle(0.17);
+  \draw[gray!55,line width=3.5pt,line cap=round]
+    plot[smooth,tension=0.7] coordinates {(1.25,1.98) (2.2,2.12) (3.4,2.0) (4.4,1.98) (4.9,1.9)};
+  \draw (1.2,1.25) circle(0.35);
+  \draw (4.8,1.25) circle(0.35);
+  \draw (1.2,1.6)--(1.2,1.6);
+  \draw (0,0.9)--(6,0.9);
+  \fill[pattern=north east lines] (0,0.75) rectangle (6,0.9);
+  \draw[<->] (1.2,2.7)--(4.8,2.7) node[midway,above] {$1{,}88$ m};
+  \node[left] at (0.75,1.25) {$4{,}5$ kg};
+  \node[right] at (5.25,1.25) {$40{,}0$ kg};
+\end{tikzpicture}

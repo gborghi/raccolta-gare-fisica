@@ -1,0 +1,21 @@
+\begin{tikzpicture}
+% ground
+\fill[pattern=north east lines] (-0.5,-0.4) rectangle (8.5,0);
+\draw (-0.5,0) -- (8.5,0);
+\draw (-0.5,-0.4) -- (8.5,-0.4);
+% book spines
+\draw[thick] (2,0) -- (2,3.4);
+\draw[thick] (6,0) -- (6,3.4);
+% top cover
+\draw (2,3.4) -- (6,3.4);
+% interleaved pages
+\foreach \y in {0.4,0.8,1.2,1.6,2.0,2.4,2.8,3.2}{
+  \draw (2,\y) -- (5,\y);
+}
+\foreach \y in {0.6,1.0,1.4,1.8,2.2,2.6,3.0}{
+  \draw (3,\y) -- (6,\y);
+}
+% labels
+\node[left] at (2,1.7){\textit{Book-A}};
+\node[right] at (6,1.7){\textit{Book-B}};
+\end{tikzpicture}

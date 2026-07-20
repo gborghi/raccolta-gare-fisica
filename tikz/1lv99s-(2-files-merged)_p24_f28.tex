@@ -1,0 +1,13 @@
+\begin{tikzpicture}[scale=1]
+  % grid (dotted)
+  \foreach \x in {1,2,3,4,5} \draw[dotted] (\x,0) -- (\x,6);
+  \foreach \y in {2,4,6} \draw[dotted] (0,\y) -- (5,\y);
+  % axes
+  \draw[-{Latex}] (0,0) -- (6,0) node[below right] {$t$};
+  \draw[-{Latex}] (0,0) -- (0,6.6);
+  \node[right] at (0.2,6.2) {Forza [N]};
+  % y ticks
+  \foreach \y in {2,4,6} \draw (-0.08,\y) -- (0.08,\y) node[left,xshift=-0.08cm] {\y};
+  % trapezoidal force profile
+  \draw[very thick] (0,0) -- (1,4) -- (3,4) -- (4,0);
+\end{tikzpicture}

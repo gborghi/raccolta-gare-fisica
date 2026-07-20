@@ -1,0 +1,11 @@
+\begin{tikzpicture}
+% channel outline (open at left)
+\draw (0,1) -- (5,1) -- (5,0.4) -- (0,0.4);
+% points B and C
+\filldraw[fill=blue!25] (2.5,1) circle (2.5pt); \node[above] at (2.5,1) {B};
+\filldraw[fill=blue!25] (5,1) circle (2.5pt); \node[above] at (5,1) {C};
+% x-axis
+\draw[-{Latex}] (5,0.7) -- (6.2,0.7); \node[right] at (6.2,0.7) {$x$};
+% position L
+\node[below] at (5,0.4) {L};
+\end{tikzpicture}

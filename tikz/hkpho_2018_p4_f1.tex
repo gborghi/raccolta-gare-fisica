@@ -1,0 +1,14 @@
+\begin{tikzpicture}[>=Latex]
+  % beam
+  \draw[thick] (0,0) rectangle (8,0.35);
+  % left pivot (triangle) at x=1.5
+  \draw[thick] (1.5,-0.02) -- (1.1,-0.9) -- (1.9,-0.9) -- cycle;
+  % right pivot at x=6
+  \draw[thick] (6,-0.02) -- (5.6,-0.9) -- (6.4,-0.9) -- cycle;
+  % dimension x : left end to first pivot
+  \draw[<->] (0,-0.35) -- (1.5,-0.35) node[midway,above]{$x$};
+  % dimension y : between pivots
+  \draw[<->] (1.5,-0.55) -- (6,-0.55) node[midway,above]{$y$};
+  % small leftward force under right pivot
+  \draw[<-] (6,-1.15) -- (7.2,-1.15);
+\end{tikzpicture}

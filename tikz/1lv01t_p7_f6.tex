@@ -1,0 +1,21 @@
+\begin{tikzpicture}[>={Latex[length=2mm]}]
+  % source box + speaker cone
+  \draw (0.2,2.2) rectangle (1.1,3.0);
+  \draw (1.1,2.45) -- (1.45,2.25) -- (1.45,2.95) -- (1.1,2.75);
+  \node at (0.65,3.35) {sorgente};
+  % barrier with two slits (fenditure)
+  \fill[gray] (2.95,0.3) rectangle (3.15,2.0);
+  \fill[gray] (2.95,2.2) rectangle (3.15,2.8);
+  \fill[gray] (2.95,3.0) rectangle (3.15,4.3);
+  \node at (3.35,2.5) {R};
+  \node at (3.35,2.1) {S};
+  \node[rotate=90] at (2.75,1.0) {fenditure};
+  % dashed axis to P
+  \draw[dashed] (3.15,2.6) -- (6.0,2.6);
+  \fill (6.0,2.6) circle (1.6pt);
+  \node[right] at (6.1,2.6) {P};
+  % P -> Q arrow
+  \draw[->] (6.0,2.6) -- (6.0,3.5);
+  \fill (6.0,3.6) circle (1.6pt);
+  \node[right] at (6.1,3.6) {Q};
+\end{tikzpicture}

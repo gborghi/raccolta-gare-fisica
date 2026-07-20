@@ -1,0 +1,19 @@
+\begin{tikzpicture}[scale=1.2]
+  % optical axis
+  \draw[-{Latex}] (-2.8,0) -- (2.9,0) node[above left] {$x$};
+  % biconvex lens
+  \fill[gray!35] (0,-1) .. controls (0.4,-0.4) and (0.4,0.4) .. (0,1)
+                       .. controls (-0.4,0.4) and (-0.4,-0.4) .. (0,-1);
+  \draw (0,-1) .. controls (0.4,-0.4) and (0.4,0.4) .. (0,1);
+  \draw (0,-1) .. controls (-0.4,-0.4) and (-0.4,0.4) .. (0,1);
+  % points
+  \fill (-2,0) circle (1.6pt);
+  \draw[fill=white] (-1,0) circle (1.6pt);
+  \draw[fill=white] (1,0) circle (1.6pt);
+  \fill (2,0) circle (1.6pt);
+  % labels
+  \node[below] at (-2,-0.15) {$-2f$};
+  \node[below] at (-1,-0.15) {$-f$};
+  \node[below] at (1,-0.15) {$f$};
+  \node[below] at (2,-0.15) {$2f$};
+\end{tikzpicture}

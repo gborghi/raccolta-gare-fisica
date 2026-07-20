@@ -1,0 +1,13 @@
+\begin{circuitikz}[>={Latex}]
+% three horizontal branches
+\draw (0,4) to[R=$6\,\Omega$] (5,4);
+\draw (0,2.5) to[R,l=$R$] (5,2.5);
+\draw (0,1) to[R=$10\,\Omega$] (2.7,1) to[ammeter] (5,1);
+% left rail
+\draw (0,1) -- (0,4);
+% right rail with battery
+\draw (5,4) -- (5,2.5) -- (5,2.1);
+\draw (5,2.1) to[battery1] (5,1);
+\node[right] at (5.1,1.55) {$12\,$V};
+\node[right] at (5.0,2.05) {$+$};
+\end{circuitikz}

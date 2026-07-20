@@ -1,0 +1,21 @@
+\begin{tikzpicture}[>=Latex]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (3.8,1.6);
+  \coordinate (C) at (5,0);
+  % wavy terrain curve A -> B -> C
+  \draw[gray,line width=1.2pt]
+    (A) .. controls (0.1,1.0) and (0.6,-0.2) .. (1.1,0.9)
+        .. controls (1.6,1.9) and (2.8,1.8) .. (B)
+        .. controls (4.2,1.4) and (4.6,0.9) .. (4.8,0.4)
+        .. controls (4.9,0.15) and (5.05,0.35) .. (C);
+  % straight chords
+  \draw (A) -- (B);
+  \draw (A) -- (C);
+  % points
+  \fill (A) circle (2pt);
+  \fill (B) circle (2pt);
+  \fill (C) circle (2pt);
+  \node[left] at (A) {$A$};
+  \node[above right] at (B) {$B$};
+  \node[right] at (C) {$C$};
+\end{tikzpicture}

@@ -1,0 +1,11 @@
+\begin{tikzpicture}[>=Latex]
+  \coordinate (T) at (2.2,3.4);
+  \coordinate (Lb) at (0.9,0.4);
+  \coordinate (Rb) at (3.5,0.4);
+  \draw[gray] (0,0.4)--(4.6,0.4);
+  \draw[very thick] (T)--(Lb);
+  \draw[very thick] (T)--(Rb);
+  \draw ($(T)+(246:0.9)$) arc (246:294:0.9);
+  \node at ($(T)+(270:1.35)$) {$\theta$};
+  \draw[<->] (2.55,3.3)--(3.85,0.5) node[midway,right] {$L$};
+\end{tikzpicture}

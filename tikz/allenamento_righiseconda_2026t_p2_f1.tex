@@ -1,0 +1,25 @@
+\begin{tikzpicture}
+% ceiling
+\fill[pattern=north east lines] (-0.3,0) rectangle (3.3,0.3);
+\draw (-0.3,0)--(3.3,0);
+% supports
+\draw (0.7,0)--(0.7,-0.42);
+\draw (2.4,0)--(2.4,-0.42);
+% fixed pulleys
+\draw (0.7,-0.7) circle(0.28);
+\draw (2.4,-0.7) circle(0.28);
+% movable pulley
+\draw (1.55,-1.9) circle(0.28);
+% outer ropes to side masses
+\draw (0.42,-0.7)--(0.42,-2.35);
+\draw (2.68,-0.7)--(2.68,-2.35);
+% inner ropes over movable pulley
+\draw (0.95,-0.82)--(1.30,-1.78);
+\draw (2.15,-0.82)--(1.80,-1.78);
+% movable pulley to middle mass
+\draw (1.55,-2.18)--(1.55,-2.4);
+% masses
+\draw (0.17,-2.85) rectangle (0.67,-2.35);
+\draw (2.43,-2.85) rectangle (2.93,-2.35);
+\draw (1.30,-2.9) rectangle (1.80,-2.4);
+\end{tikzpicture}

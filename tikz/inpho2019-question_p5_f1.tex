@@ -1,0 +1,24 @@
+\begin{tikzpicture}
+  % cylinder body
+  \draw (0,0) -- (0,6);
+  \draw (1.5,0) -- (1.5,6);
+  % top rim ellipse
+  \draw (0.75,6) ellipse (0.75 and 0.2);
+  % bottom (front solid, back dashed)
+  \draw (0,0) arc (180:360:0.75 and 0.2);
+  \draw[dashed] (0,0) arc (180:0:0.75 and 0.2);
+  % piston (gray ellipse)
+  \fill[gray!50] (0.75,4.5) ellipse (0.75 and 0.2);
+  \draw (0.75,4.5) ellipse (0.75 and 0.2);
+  % water level dashed ellipse
+  \draw[dashed] (0.75,2.8) ellipse (0.75 and 0.2);
+  % P_atm with curved arrow
+  \node at (-0.6,5.3) {$P_{\mathrm{atm}}$};
+  \draw[-{Latex}] (0.1,5.5) to[bend left] (0.75,5.9);
+  % z dimension (right)
+  \draw[{Latex}-{Latex}] (1.9,2.8) -- (1.9,4.5) node[midway,right] {$z$};
+  % h dimension (left)
+  \draw[{Latex}-{Latex}] (-0.5,0) -- (-0.5,4.5) node[midway,left] {$h$};
+  % gravity
+  \draw[-{Latex}] (3.2,3) -- (3.2,2) node[midway,right] {$g$};
+\end{tikzpicture}

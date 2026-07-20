@@ -1,0 +1,15 @@
+\begin{tikzpicture}
+  % ground (horizontal reference)
+  \draw (-0.5,0) -- (3.6,0);
+  % incline
+  \draw[thick] (0,0) -- (4.8,2.77);
+  % angle theta
+  \draw (1.3,0) arc (0:30:1.3);
+  \node at (1.6,0.28) {$\theta$};
+  % block on incline (rotated rectangle)
+  \fill[gray!40] (1.13,0.65) -- (3.03,1.75) -- (2.58,2.53) -- (0.68,1.43) -- cycle;
+  \draw (1.13,0.65) -- (3.03,1.75) -- (2.58,2.53) -- (0.68,1.43) -- cycle;
+  % horizontal force F
+  \draw[-{Latex}] (-0.8,1.35) -- (0.55,1.35);
+  \node[above left] at (-0.2,1.4) {$\vec{F}$};
+\end{tikzpicture}

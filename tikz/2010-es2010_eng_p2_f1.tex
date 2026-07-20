@@ -1,0 +1,14 @@
+\begin{circuitikz}[scale=1]
+% top branch: input port, inductor, node, diode, output port
+\draw (0,2) to[short,o-] (0.6,2) to[L=$L$] (3,2) coordinate(n) to[D] (5.4,2) to[short,-o] (6,2);
+% switch from node to bottom rail
+\draw (n) -- (3,1.2) to[switch] (3,0);
+% bottom rail
+\draw (0,0) to[short,o-] (6,0);
+% left vertical (input port)
+\draw (0,2) -- (0,0);
+\draw (6,2) -- (6,0);
+% port labels
+\node[left] at (-0.1,1){$U_\mathrm{i}$};
+\node[right] at (6.1,1){$U_\mathrm{o}$};
+\end{circuitikz}

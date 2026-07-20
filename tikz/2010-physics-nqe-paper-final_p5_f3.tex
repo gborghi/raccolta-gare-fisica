@@ -1,0 +1,18 @@
+\begin{tikzpicture}[>=Latex,scale=1]
+  % bottom ellipse
+  \draw (0,0) ellipse (2.2 and 0.5);
+  % top ellipse
+  \draw (0,2.2) ellipse (1 and 0.28);
+  % slanted sides
+  \draw (-1,2.2) -- (-2.2,0);
+  \draw (1,2.2) -- (2.2,0);
+  % r1 (top radius)
+  \draw[-{Latex}] (0,2.2) -- (0.95,2.25);
+  \node at (0.45,2.55) {$r_1$};
+  % h (height)
+  \draw[-{Latex}] (0,2.2) -- (0,0);
+  \node[right] at (0,1.1) {$h$};
+  % r2 (bottom radius)
+  \draw[-{Latex}] (0,0) -- (2.1,0);
+  \node at (1.2,-0.32) {$r_2$};
+\end{tikzpicture}

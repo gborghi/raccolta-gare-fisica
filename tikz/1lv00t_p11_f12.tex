@@ -1,0 +1,16 @@
+\begin{tikzpicture}[>=Latex]
+  % three lamps in parallel between left bus (x=1.5) and right bus (x=4)
+  \draw (1.5,2.5) to[lamp] (4,2.5) node[right,xshift=2pt]{$S$};
+  \draw (1.5,1.75) to[lamp] (4,1.75) node[right,xshift=2pt]{$R$};
+  \draw (1.5,1.0) to[lamp] (4,1.0) node[right,xshift=2pt]{$Q$};
+  % buses
+  \draw (1.5,2.5) -- (1.5,1.0);
+  \draw (4,2.5) -- (4,1.0);
+  % feed from battery top to left bus
+  \draw (1.5,2.5) -- (1.5,3.3) -- (0,3.3);
+  \draw (0,3.3) to[battery1=$E$] (0,0);
+  % bottom loop with lamp P
+  \draw (4,1.0) -- (4,0) -- (3.2,0);
+  \draw (3.2,0) to[lamp] (1.5,0) node[midway,below]{$P$};
+  \draw (1.5,0) -- (0,0);
+\end{tikzpicture}

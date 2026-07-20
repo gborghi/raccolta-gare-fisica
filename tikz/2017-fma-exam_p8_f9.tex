@@ -1,0 +1,18 @@
+\begin{tikzpicture}[>=Latex]
+  % circle
+  \filldraw[fill=gray!30,draw=black,line width=1pt] (0,0) circle (1.5);
+  % diameters (dotted)
+  \draw[dotted] (-1.6,0) -- (1.6,0);
+  \draw[dotted] (0,-1.6) -- (0,1.6);
+  \fill (0,0) circle (2pt);
+  % quadrant labels
+  \node at (0.7,0.7) {I};
+  \node at (-0.7,0.7) {II};
+  \node at (-0.7,-0.7) {III};
+  \node at (0.7,-0.7) {IV};
+  % force F
+  \draw[-{Latex},line width=1pt] (0,0) -- (3,0);
+  \node[above] at (2.6,0.1) {$F$};
+  % ground
+  \draw[line width=1.2pt] (-2.5,-1.5) -- (2.5,-1.5);
+\end{tikzpicture}

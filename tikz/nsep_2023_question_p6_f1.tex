@@ -1,0 +1,17 @@
+\begin{tikzpicture}[>=Latex]
+  % oblique parallelepiped (heat-conduction bar), depth offset (0.9,0.7)
+  % top face (light gray)
+  \fill[black!8] (0,1.2) -- (7,1.2) -- (7.9,1.9) -- (0.9,1.9) -- cycle;
+  % front face
+  \draw[thick] (0,0) -- (7,0) -- (7,1.2) -- (0,1.2) -- cycle;
+  % top visible edges
+  \draw[thick] (0,1.2) -- (0.9,1.9) -- (7.9,1.9) -- (7,1.2);
+  % right face visible edges
+  \draw[thick] (7,0) -- (7.9,0.7) -- (7.9,1.9);
+  % hidden edges
+  \draw[dashed] (0.9,1.9) -- (0.9,0.7) -- (7.9,0.7);
+  \draw[dashed] (0.9,0.7) -- (0,0);
+  % labels
+  \node[left] at (0,1.2) {X ($100^{\circ}$C)};
+  \node[right] at (7.9,1.0) {Y ($0^{\circ}$C)};
+\end{tikzpicture}

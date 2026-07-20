@@ -1,0 +1,20 @@
+\begin{tikzpicture}[>=Latex]
+  % laser box
+  \draw (0,0.4) rectangle (2,1.4);
+  \node at (1,0.9) {LASER};
+  % slit plane
+  \draw[thick,gray] (4,-0.4) -- (4,2.2);
+  % the slits: a small gap on the plane
+  \fill[white] (3.95,0.75) rectangle (4.05,1.05);
+  \draw[thick] (4,0.9) circle (0.5pt);
+  % beam from laser to slit
+  \draw (2,0.9) -- (4,0.9);
+  % label fenditure with arrow to slit
+  \node at (4.1,2.5) {fenditure};
+  \draw[->] (4.0,2.35) -- (4.0,1.1);
+  % screen on the right with fringes
+  \draw[thick] (6.3,-0.4) rectangle (6.6,2.2);
+  \foreach \y in {-0.15,0.3,0.75,1.2,1.65,2.1}
+    \fill[gray] (6.45,\y) ellipse (0.1 and 0.06);
+  \node[align=center] at (7.4,2.6) {frange\\ sullo\\ schermo};
+\end{tikzpicture}

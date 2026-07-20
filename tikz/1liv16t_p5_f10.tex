@@ -1,0 +1,24 @@
+\begin{tikzpicture}
+  % media bands
+  \fill[gray!20] (0,1) rectangle (7,3);
+  % interfaces
+  \draw (0,3) -- (7,3);
+  \draw (0,1) -- (7,1);
+  % normal (dashed)
+  \draw[dashed] (3,1.7) -- (3,4.2);
+  % incident ray
+  \draw[-{Latex}] (0.4,4.5) -- (3,3);
+  % refracted ray inside medium
+  \draw[-{Latex}] (3,3) -- (4.155,1);
+  % exit ray
+  \draw[-{Latex}] (4.155,1) -- (5.9,0);
+  % angle arcs
+  \draw (3,3) ++(90:0.8) arc (90:150:0.8);
+  \node at (2.45,3.95) {$60^\circ$};
+  \draw (3,3) ++(270:0.7) arc (270:300:0.7);
+  \node at (3.3,2.05) {$30^\circ$};
+  % labels
+  \node[above right] at (5.2,3) {aria};
+  \node[below right] at (0.3,0.9) {aria};
+  \node[right] at (5.2,2) {$n_2 = 1.5$};
+\end{tikzpicture}

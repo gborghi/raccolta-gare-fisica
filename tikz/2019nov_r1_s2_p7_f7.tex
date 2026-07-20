@@ -1,0 +1,16 @@
+\begin{tikzpicture}[>={Latex[length=2.5mm]}]
+  % ground
+  \draw (-0.5,0) -- (6.6,0);
+  % wheel
+  \draw (2.0,1.6) circle (1.6);
+  % radius vector with label
+  \draw[->] (2.0,1.6) -- (0.87,2.73);
+  \node at (1.35,2.35) {$r$};
+  % incline
+  \draw (1.3,0) -- (6.2,3.4);
+  % block at top of incline
+  \draw[rotate around={35:(6.2,3.4)}] (6.05,3.4) rectangle (6.4,3.75);
+  % height dimension h
+  \draw[<->] (6.2,0) -- (6.2,3.4);
+  \node[right] at (6.25,1.7) {$h$};
+\end{tikzpicture}

@@ -1,0 +1,20 @@
+\begin{tikzpicture}
+  % horizontal optical axis
+  \draw[-{Latex}] (-0.4,0) -- (8.7,0);
+  % vertical axis
+  \draw[-{Latex}] (0,-0.2) -- (0,1.8);
+  \node[left] at (0,1.7) {B};
+  \node[left] at (0,0.5) {A};
+  \node[below left] at (0,0) {0};
+  % marked points
+  \foreach \x/\lab in {2/f,4/2f,6/3f,8/4f}{
+    \fill (\x,0) circle (1.6pt);
+    \node[below] at (\x,-0.1) {$\lab$};
+  }
+  % lens near f (above axis)
+  \draw (2,-0.1) .. controls (1.6,0.5) .. (2,1.1) .. controls (2.4,0.5) .. (2,-0.1);
+  % lens near 2f (below axis)
+  \draw (4,0.1) .. controls (3.6,-0.5) .. (4,-1.1) .. controls (4.4,-0.5) .. (4,0.1);
+  % x direction arrow
+  \draw[-{Latex}] (2,-1.5) -- (6,-1.5) node[right] {$x$};
+\end{tikzpicture}

@@ -1,0 +1,13 @@
+\begin{tikzpicture}[>=Latex]
+  % base block
+  \fill[black] (-0.5,-0.35) rectangle (0.5,0);
+  % thick quarter-circle ramp: centre O=(0,3), from (0,0) up curving to (3,3)
+  \draw[line width=4pt] (0,0) arc (-90:0:3);
+  % radius R from centre to arc
+  \coordinate (O) at (0,3);
+  \draw[-{Latex}] (O) -- ($(O)+(-45:3)$);
+  \node at (1.35,1.6) {$R$};
+  % force F at top-right end pointing down-left into curve
+  \draw[-{Latex}] (3.9,3.6) -- (3.05,3.05);
+  \node at (3.9,3.15) {$F$};
+\end{tikzpicture}

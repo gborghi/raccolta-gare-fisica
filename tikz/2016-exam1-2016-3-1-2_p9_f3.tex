@@ -1,0 +1,15 @@
+\begin{tikzpicture}[>=Latex]
+  \fill[gray!30] (0.3,3) rectangle (6,3.25);
+  \draw (0.3,3) rectangle (6,3.25);
+  \fill[black] (5.85,3) rectangle (6,3.25);
+  \fill[gray] (0.3,3.125) circle(0.12);
+  \node[below left] at (0.3,3) {Pivot};
+  \draw[<->] (0.3,3.6)--(6,3.6) node[midway,above] {$l$};
+  \draw[decorate,decoration={coil,segment length=4pt,amplitude=4pt}] (5.9,3)--(5.9,1.4);
+  \draw (5.9,1.4)--(5.9,1.15);
+  \draw (5.9,1.02) circle(0.11);
+  \node[right] at (6.05,1.13) {Post};
+  \draw[<->] (6.6,3)--(6.6,1.4) node[midway,right] {$L$};
+  \draw[dotted] (2.6,1.7)--(5.9,1.7);
+  \node at (3.7,1.6) {Not to scale!};
+\end{tikzpicture}

@@ -1,0 +1,17 @@
+\begin{circuitikz}[european]
+  % left branch: C1
+  \draw (0,0) to[C=$C_1$] (0,4);
+  % top rail
+  \draw (0,4) -- (7,4);
+  % right rail
+  \draw (7,4) -- (7,0);
+  % bottom rail: battery V then switch A
+  \draw (0,0) to[battery1, l=$V$] (3.5,0) to[cspst, l=$A$] (7,0);
+  % middle branch C2 - C3
+  \draw (1.5,4) -- (1.5,2.5);
+  \draw (1.5,2.5) to[C=$C_2$] (3.2,2.5) to[C=$C_3$] (5,2.5);
+  % C4 top-right, node down to right rail
+  \draw (5,4) to[C=$C_4$] (5,2.5) -- (7,2.5);
+  % switch B hanging from middle to bottom rail
+  \draw (3.2,2.5) to[cspst, l_=$B$] (3.2,0);
+\end{circuitikz}

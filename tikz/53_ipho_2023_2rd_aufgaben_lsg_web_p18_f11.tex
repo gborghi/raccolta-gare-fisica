@@ -1,0 +1,24 @@
+\begin{tikzpicture}[>=Latex]
+  % prism
+  \fill[yellow!8] (1,1) -- (4,1) -- (2.5,3.8) -- cycle;
+  \draw[thick] (1,1) -- (4,1) -- (2.5,3.8) -- cycle;
+  % apex angle alpha
+  \draw (2.18,3.12) .. controls (2.5,2.95) .. (2.82,3.12);
+  \node at (2.5,3.42) {$\alpha$};
+  % incidence point on the left face: P=(1.8,2.48)
+  % incident ray v (vertical, downward)
+  \draw[red!55!black,->] (1.8,3.9) -- (1.8,2.55);
+  \node[red!55!black] at (1.55,3.25) {$v$};
+  % normal (dashed vertical) through P
+  \draw[red!55!black,dashed] (1.8,2.48) -- (1.8,1.4);
+  % refracted ray to lower-left
+  \draw[red!55!black,->] (1.8,2.48) -- (0.2,1.5);
+  % refraction angle alpha between normal and refracted ray
+  \draw[red!55!black] ([shift={(270:0.6)}]1.8,2.48) arc (270:212:0.6);
+  \node[red!55!black] at (1.5,1.9) {$\alpha$};
+  % base d
+  \draw[<->] (1,0.6) -- (4,0.6);
+  \node[below] at (2.5,0.6) {$d$};
+  \draw[dotted] (1,1) -- (1,0.55);
+  \draw[dotted] (4,1) -- (4,0.55);
+\end{tikzpicture}

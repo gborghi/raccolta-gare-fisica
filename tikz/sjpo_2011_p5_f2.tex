@@ -1,0 +1,15 @@
+\begin{tikzpicture}
+  % support
+  \draw[thick] (-3,4) -- (3,4);
+  % strings
+  \draw (-0.35,3.95) -- (-0.35,0.35);
+  \draw (0.35,3.95) -- (0.35,0.35);
+  % balls (touching)
+  \fill[blue!55] (-0.35,0) circle (0.35);
+  \draw (-0.35,0) circle (0.35);
+  \fill[blue!55] (0.35,0) circle (0.35);
+  \draw (0.35,0) circle (0.35);
+  % labels
+  \node at (-0.55,-0.6) {A};
+  \node at (0.55,-0.6) {B};
+\end{tikzpicture}

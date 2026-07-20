@@ -1,0 +1,27 @@
+\begin{tikzpicture}[>={Latex}]
+% ground
+\draw[line width=1.2pt] (-2.2,0)--(2.6,0);
+\node[below] at (0,-0.05) {X};
+% parachute dome
+\draw (-1.5,3) arc[start angle=180,end angle=0,radius=1.5];
+% scalloped lower edge
+\foreach \i in {0,1,2,3,4,5} {
+  \draw (-1.5+0.5*\i,3) arc[start angle=180,end angle=0,radius=0.25];
+}
+% suspension lines to block
+\foreach \x in {-1.5,-0.75,0,0.75,1.5} {
+  \draw (\x,3)--(0,1.62);
+}
+% block
+\filldraw[fill=gray!50] (-0.18,1.5) rectangle (0.18,1.72);
+% dashed drop line
+\draw[dashed] (0,1.5)--(0,0);
+% height h
+\draw[{Latex}-{Latex}] (-1.2,1.05)--(-1.2,0);
+\draw (-1.35,1.05)--(-1.05,1.05);
+\node[left] at (-1.2,0.52) {$h$};
+% horizontal (wind) arrows
+\draw[->] (0.55,2.15)--(1.95,2.15);
+\draw[->] (0.55,1.0)--(1.95,1.0);
+\draw[->] (0.55,0.35)--(1.95,0.35);
+\end{tikzpicture}

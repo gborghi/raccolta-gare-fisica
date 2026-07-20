@@ -1,0 +1,21 @@
+\begin{circuitikz}[>={Latex}]
+% top branch: switch + battery
+\draw (0,4.2) to[switch] (2.0,4.2) to[battery1] (3.8,4.2) -- (6,4.2);
+% left side with ammeter
+\draw (0,4.2) -- (0,3.0) to[ammeter] (0,2.1) -- (0,1.9) -- (4.3,1.9);
+% right side
+\draw (6,4.2) -- (6,1.9) -- (5.7,1.9);
+% voltmeter across heater
+\draw (4.3,1.9) -- (4.3,2.7) to[voltmeter] (5.7,2.7) -- (5.7,1.9);
+% beaker with liquid
+\fill[gray!30] (3.9,-0.18) rectangle (6.1,1.25);
+\draw (3.9,1.5) -- (3.9,-0.2) -- (6.1,-0.2) -- (6.1,1.5);
+% heating coil
+\draw[decorate,decoration={coil,aspect=0.5,segment length=4pt,amplitude=5pt}] (4.3,0.35) -- (5.7,0.35);
+% risers to coil
+\draw (4.3,0.35) -- (4.3,1.9);
+\draw (5.7,0.35) -- (5.7,1.9);
+% thermometer
+\draw (5.0,2.15) -- (5.0,0.75);
+\fill (5.0,0.68) circle(0.08);
+\end{circuitikz}

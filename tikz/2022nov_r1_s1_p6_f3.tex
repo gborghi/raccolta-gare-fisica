@@ -1,0 +1,19 @@
+\begin{circuitikz}
+  % left battery
+  \draw (0,0) to[battery1] (0,3);
+  % top wire with 20k resistor to node a
+  \draw (0,3) to[R=$20\,\mathrm{k\Omega}$] (3,3) coordinate (a);
+  % manual switch S
+  \draw (a) -- (3.2,3);
+  \fill (3.2,3) circle (1.3pt);
+  \fill (4.4,3) circle (1.3pt);
+  \draw (3.2,3) -- (4.25,3.35);
+  \node at (4.7,3.45) {$S$};
+  \draw (4.4,3) coordinate (b) -- (6,3) coordinate (c);
+  % parallel branches
+  \draw (a) to[R=$5\,\mathrm{k\Omega}$] (3,0);
+  \draw (b) to[R=$15\,\mathrm{k\Omega}$] (4.4,0);
+  \draw (c) to[R=$10\,\mathrm{k\Omega}$] (6,0);
+  % bottom wire
+  \draw (0,0) -- (6,0);
+\end{circuitikz}

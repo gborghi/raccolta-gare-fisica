@@ -1,0 +1,16 @@
+\begin{tikzpicture}[>=Latex]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (5.5,0);
+  \coordinate (C) at (5.5,2.6);
+  \fill[gray!25] (A)--(B)--(C)--cycle;
+  \draw[thick] (A)--(B)--(C)--cycle;
+  \begin{scope}[shift={(2.6,1.23)},rotate=25]
+    \fill[gray!50] (-0.7,0) rectangle (0.7,0.6);
+    \draw[thick] (-0.7,0) rectangle (0.7,0.6);
+    \node at (0,0.3) {$m$};
+  \end{scope}
+  \draw[decorate,decoration={coil,aspect=0.5,segment length=4pt,amplitude=4pt}] (3.75,1.78) -- (5.5,2.05);
+  \draw[very thick] (5.5,2.6)--(5.5,1.6);
+  \draw ($(A)+(25:0.9)$) arc (25:0:0.9);
+  \node at (1.15,0.2) {$\theta$};
+\end{tikzpicture}

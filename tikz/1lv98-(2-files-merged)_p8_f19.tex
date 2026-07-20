@@ -1,0 +1,20 @@
+\begin{circuitikz}[american]
+  % battery (cell) on the left
+  \draw (0,0) to[battery1] (0,3);
+  % top wire with ammeter A3 in series
+  \draw (0,3) -- (1.15,3);
+  \draw (1.5,3) circle (0.35) node {$A_3$};
+  \draw (1.85,3) -- (5,3);
+  % branch with R2 = 10 ohm and ammeter A2
+  \draw (3.5,3) to[R=$R_2$, l_=$10\,\Omega$] (3.5,1.25);
+  \draw (3.5,1.25) -- (3.5,0.85);
+  \draw (3.5,0.5) circle (0.35) node {$A_2$};
+  \draw (3.5,0.15) -- (3.5,0);
+  % branch with R1 = 5 ohm and ammeter A1
+  \draw (5,3) to[R=$R_1$, l^=$5\,\Omega$] (5,1.25);
+  \draw (5,1.25) -- (5,0.85);
+  \draw (5,0.5) circle (0.35) node {$A_1$};
+  \draw (5,0.15) -- (5,0);
+  % bottom rail
+  \draw (0,0) -- (5,0);
+\end{circuitikz}

@@ -1,0 +1,14 @@
+\begin{tikzpicture}[scale=1.0]
+  % left dipole
+  \draw (0,0.6) circle (0.35); \node at (0,0.6) {$+$};
+  \draw (0,-0.6) circle (0.35); \node at (0,-0.6) {$-$};
+  \draw[{Latex}-{Latex}] (-0.95,-0.6) -- (-0.95,0.6);
+  \node[left] at (-0.95,0) {$l$};
+  % right dipole
+  \draw (8,0.6) circle (0.35); \node at (8,0.6) {$-$};
+  \draw (8,-0.6) circle (0.35); \node at (8,-0.6) {$+$};
+  \draw[{Latex}-{Latex}] (8.95,-0.6) -- (8.95,0.6);
+  % distance r
+  \draw[{Latex}-{Latex}] (0,-1.35) -- (8,-1.35);
+  \node[below] at (4,-1.35) {$r$};
+\end{tikzpicture}

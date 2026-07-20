@@ -1,0 +1,22 @@
+\begin{tikzpicture}[>=Latex]
+  % ceiling with hatching
+  \draw[thick] (3,6) -- (5,6);
+  \foreach \x in {3.0,3.25,...,4.85} \draw (\x,6) -- (\x+0.2,6.25);
+  % string (cuerda)
+  \draw (4,6) -- (4,4.2);
+  % metal plate
+  \draw[thick,fill=gray!25] (3.82,1.6) rectangle (4.18,4.2);
+  % ball
+  \draw (2.2,2.75) circle (0.25);
+  % before-collision arrow (to the right)
+  \draw[->] (1.4,3.5) -- (3.4,3.5);
+  \node[left] at (1.4,3.5) {antes de la colisi\'on};
+  % after-collision arrow (to the left)
+  \draw[<-] (1.7,2.05) -- (3.2,2.05);
+  \node[left] at (1.7,2.05) {tras la colisi\'on};
+  % leader labels
+  \draw (4,5.2) -- (5.6,5.2);
+  \node[right] at (5.6,5.2) {cuerda};
+  \draw (4.18,3.0) -- (6.0,3.0);
+  \node[right] at (6.0,3.0) {placa de metal};
+\end{tikzpicture}

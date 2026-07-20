@@ -1,0 +1,14 @@
+\begin{tikzpicture}[>={Latex[length=2.5mm]}]
+  % circle
+  \draw (2.5,1.6) circle (1.6);
+  % vertical bar tangent to circle at its left point
+  \fill[gray!30] (0.35,0.7) rectangle (0.9,2.4);
+  \draw (0.35,0.7) rectangle (0.9,2.4);
+  % velocity arrow up from top of bar
+  \draw[->] (0.625,2.4) -- (0.625,3.4);
+  % labels
+  \node[left] at (0.85,2.9) {A};
+  \node[left] at (0.3,1.55) {B};
+  \node[right] at (0.95,1.35) {D};
+  \node[below] at (0.6,0.6) {C};
+\end{tikzpicture}

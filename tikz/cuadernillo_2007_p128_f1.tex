@@ -1,0 +1,23 @@
+\begin{tikzpicture}[>=Latex]
+  \draw (0,6) rectangle (10,6.35);
+  \coordinate (K) at (2,6);
+  \coordinate (P) at (5,6);
+  \coordinate (U) at (7,6);
+  \fill (K) circle(1.8pt);
+  \fill (P) circle(1.8pt);
+  \fill (U) circle(1.8pt);
+  \node[below] at (K) {K};
+  \node[below] at (P) {P};
+  \node[below] at (U) {U};
+  \draw (K)--(2,3.1);
+  \draw (U)--(7,3.1);
+  \draw (2,2.5) circle(0.6); \node at (2,2.5) {$\mathbf{V_1}$};
+  \draw (7,2.5) circle(0.6); \node at (7,2.5) {$\mathbf{V_2}$};
+  \draw (P)--(5,1.15);
+  \draw (4.2,0.5) rectangle (5.8,1.15);
+  \draw[thin] (2,6.35)--(2,7.0);
+  \draw[thin] (5,6.35)--(5,7.0);
+  \draw[thin] (7,6.35)--(7,7.0);
+  \draw[|-|] (2,6.9)--(5,6.9) node[midway,above] {$d_1$};
+  \draw[|-|] (5,6.9)--(7,6.9) node[midway,above] {$d_2$};
+\end{tikzpicture}

@@ -1,0 +1,22 @@
+\begin{tikzpicture}[>=Latex]
+  % top branch: switch node, C1 between open terminals
+  \draw (0,2) to[cspst] (0,0);           % switch on the far left
+  \draw (0,2) to[short,-o] (1.6,2)
+        to[C=$C_1$] (3.6,2)
+        to[short,o-] (6,2);
+  \node at (3,2.55) {$1$};
+  \node at (2.5,2.35) {$+$};
+  % bottom branch: two batteries then C2
+  \draw (0,0) to[battery1] (2,0) to[battery1] (4,0) to[C=$C_2$] (6,0);
+  \node at (5.2,0.4) {$2$};
+  \node at (4.5,0.35) {$+$};
+  % polarity marks on the two bottom batteries
+  \node at (0.55,-0.45) {$+$};
+  \node at (2.55,-0.45) {$+$};
+  % right side
+  \draw (6,2) -- (6,0);
+  % dimension bars
+  \draw[<->] (0,-1) -- (2,-1) node[midway,fill=white,inner sep=1pt]{6V};
+  \draw[<->] (2,-1) -- (4,-1) node[midway,fill=white,inner sep=1pt]{12V};
+  \draw[<->] (4,-1) -- (6,-1) node[midway,fill=white,inner sep=1pt]{6V};
+\end{tikzpicture}

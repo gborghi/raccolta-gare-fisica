@@ -1,0 +1,16 @@
+\begin{circuitikz}[>={Latex}]
+\node[above right] at (0,1.35) {$V_{AB}=12.4$ V};
+\node[left] at (0,0) {$A$};
+\draw (0,0) to[short,*-] (0.8,0) to[R=$4\,\Omega$] (2.6,0) coordinate(s);
+% top branch
+\draw (s) -- (2.6,1) coordinate(tl);
+\draw (tl) to[R=$6\,\Omega$] (4.4,1) to[R=$9\,\Omega$] (6.2,1) coordinate(tr);
+% bottom branch
+\draw (s) -- (2.6,-1) coordinate(bl);
+\draw (bl) to[R=$5\,\Omega$] (6.2,-1) coordinate(br);
+% merge
+\draw (tr) -- (6.2,0) coordinate(m);
+\draw (br) -- (m);
+\draw (m) to[short,-*] (7.0,0);
+\node[right] at (7.0,0) {$B$};
+\end{circuitikz}

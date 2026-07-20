@@ -1,0 +1,21 @@
+\begin{tikzpicture}[>=Latex]
+  % glass region
+  \fill[gray!30] (-2,0) rectangle (2,-1.8);
+  % interface
+  \draw (-2,0) -- (2,0);
+  % normal (dashed)
+  \draw[dashed] (0,1.6) -- (0,-1.6);
+  % incident ray (from upper-left to O), 45 deg
+  \draw[-{Latex}] (-1.13,1.13) -- (0,0);
+  % refracted ray (into glass, lower-right), 30 deg
+  \draw[-{Latex}] (0,0) -- (0.8,-1.386);
+  % angle arcs
+  \draw (0,0)+(90:0.5) arc (90:135:0.5);
+  \draw (0,0)+(90:0.62) arc (90:135:0.62);
+  \draw (0,0)+(270:0.55) arc (270:300:0.55);
+  % labels
+  \node at (-0.42,0.85) {$45^\circ$};
+  \node at (0.15,-1.2) {$30^\circ$};
+  \node at (1.1,0.35) {aria};
+  \node at (1.1,-0.4) {vetro};
+\end{tikzpicture}

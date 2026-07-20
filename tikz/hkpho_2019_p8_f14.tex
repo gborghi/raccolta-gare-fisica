@@ -1,0 +1,11 @@
+\begin{tikzpicture}
+% top surface and slope
+\draw[thick] (-1,3) -- (2.8,3) -- (8,0);
+% base
+\draw[thick] (5.5,0) -- (10,0);
+% angle 30 degrees
+\draw ([shift=(180:1.4)]8,0) arc (180:150:1.4);
+\node at (6.2,0.3) {$30^\circ$};
+% row of blocks on top surface
+\foreach \i in {0,...,6} \draw (-0.7+\i*0.5,3.0) rectangle (-0.35+\i*0.5,3.25);
+\end{tikzpicture}

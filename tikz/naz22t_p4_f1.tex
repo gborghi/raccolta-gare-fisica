@@ -1,0 +1,11 @@
+\begin{tikzpicture}[scale=1.0]
+  % r axis
+  \draw[-{Latex}] (0,0) -- (5,0);
+  \node[above] at (3.6,0.05) {$r$};
+  % tilted tube (parallelogram) at 30 deg
+  \draw (0.26,0.47) -- (3.86,2.55) -- (4.14,2.07) -- (0.54,-0.01) -- cycle;
+  % dashed centerline
+  \draw[dashed] (0.4,0.23) -- (4.0,2.31);
+  % angle arc at lower-left vertex
+  \draw (1.0,0) arc (0:30:0.55);
+\end{tikzpicture}

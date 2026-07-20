@@ -1,0 +1,19 @@
+\begin{tikzpicture}
+  % free surface (air above)
+  \draw (-0.5,6) -- (6,6);
+  \node[above] at (2,6.05) {Aire};
+  % trapped-air container (open bottom)
+  \draw (1,5) -- (1,1) -- (4,1) -- (4,5);
+  \draw (1,5) -- (4,5);
+  \node at (2.5,3) {Aire};
+  % water line (bottom of container)
+  \node[below] at (2.5,0.95) {Agua};
+  % height h (left)
+  \draw[{Latex}-{Latex}] (0.3,0.4) -- (0.3,5) node[midway,left] {$h$};
+  % height H (right)
+  \draw[{Latex}-{Latex}] (5,0.4) -- (5,6) node[midway,right] {$H$};
+  % x (bottom small)
+  \draw[{Latex}-{Latex}] (3.2,0.4) -- (3.2,1) node[midway,right] {$x$};
+  % base line
+  \draw (0.8,0.4) -- (4.2,0.4);
+\end{tikzpicture}

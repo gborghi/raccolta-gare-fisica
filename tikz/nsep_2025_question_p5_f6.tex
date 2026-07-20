@@ -1,0 +1,17 @@
+\begin{tikzpicture}[>=Latex]
+  % water region (hatched) to the left of the plate
+  \fill[pattern=horizontal lines,pattern color=gray] (-1.1,-0.2) rectangle (0,3.2);
+  % the plate/gate
+  \draw[thick,fill=gray!20] (0,0) rectangle (3,3);
+  % mid horizontal line O--O'
+  \draw (0,1.5) -- (3,1.5);
+  \node[left] at (0,1.5) {$O$};
+  \node[right] at (3,1.5) {$O'$};
+  % width dimension
+  \draw[<->] (0,3.4) -- (3,3.4) node[midway,above]{2 m};
+  % height dimension
+  \draw[<->] (3.6,0) -- (3.6,3) node[midway,right]{2 m};
+  % force F
+  \draw[->] (0.7,-0.8) -- (1.2,0.05);
+  \node at (1.0,-1.0) {$F$};
+\end{tikzpicture}

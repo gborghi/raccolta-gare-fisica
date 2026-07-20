@@ -1,0 +1,20 @@
+\begin{tikzpicture}[>=Latex]
+  % cliff edge
+  \draw[thick] (-2,3.5) -- (0,3.5);      % top platform
+  \draw[thick] (0,3.5) -- (0,0);         % vertical cliff
+  \draw[thick] (0,0) -- (6.5,0);         % ground
+  % launch point
+  \fill (0,3.5) circle (1.2pt);
+  % Projectile 1: launched up-forward, lands far right
+  \draw[dashed,thick] (0,3.5) .. controls (2.5,5.4) and (4.5,4.0) .. (6.0,0);
+  \node at (4.7,4.6) {Projectile 1};
+  % Projectile 2: launched down-forward from edge, lands near
+  \draw[dashed,thick] (0,3.5) .. controls (0.6,2.2) and (1.1,1.0) .. (1.5,0);
+  \node at (2.3,1.2) {Projectile 2};
+  % dotted horizontal reference at launch height
+  \draw[dotted] (0,3.5) -- (3.0,3.5);
+  % height 35 m
+  \draw[<->] (-1.2,0) -- (-1.2,3.5);
+  \node[left] at (-1.2,1.75) {35 m};
+  \draw[dotted] (-1.2,0) -- (0,0);
+\end{tikzpicture}

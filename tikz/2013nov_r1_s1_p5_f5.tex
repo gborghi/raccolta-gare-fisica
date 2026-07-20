@@ -1,0 +1,16 @@
+\begin{tikzpicture}[>=Latex]
+  \coordinate (Q) at (4,0);
+  \coordinate (Sfar) at ($(Q)+(165:3.2)$);
+  \coordinate (Pfar) at ($(Q)+(195:3.2)$);
+  \draw (Q) -- (Sfar);
+  \draw (Q) -- (Pfar);
+  % points S and P on the rays
+  \fill ($(Q)+(165:2.1)$) circle (2.5pt) coordinate(S);
+  \fill ($(Q)+(195:2.1)$) circle (2.5pt) coordinate(P);
+  \node[above] at (S) {$S$};
+  \node[below] at (P) {$P$};
+  % angle
+  \draw ($(Q)+(195:0.9)$) arc (195:165:0.9);
+  \node at ($(Q)+(180:1.25)$) {$30^\circ$};
+  \node[right] at (Q) {$Q$};
+\end{tikzpicture}

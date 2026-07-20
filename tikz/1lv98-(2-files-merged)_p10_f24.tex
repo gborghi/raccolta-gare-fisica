@@ -1,0 +1,14 @@
+\begin{circuitikz}
+% 100 V battery
+\draw (0,0) to[battery1, l=$100\ \mathrm{V}$] (0,3);
+% R1
+\draw (0,3) to[R=$R_1$] (3,3);
+% switch and R2
+\draw (3,3) to[cute open switch, l=$S$] (5,3);
+\draw (5,3) to[R=$R_2$] (7,3);
+% capacitors
+\draw (3,3) to[C=$C_1$] (3,0);
+\draw (5,3) to[C=$C_2$] (5,0);
+% bottom rail
+\draw (0,0) -- (7,0);
+\end{circuitikz}

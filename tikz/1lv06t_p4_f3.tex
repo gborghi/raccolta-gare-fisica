@@ -1,0 +1,16 @@
+\begin{circuitikz}[american]
+  % square bridge A(top-left) B(top-right) C(bottom-left) D(bottom-right)
+  \draw (0,2) to[R=$7\,\Omega$] (3,2);      % A - B top
+  \draw (0,2) to[R=$4\,\Omega$] (0,0);       % A - C left
+  \draw (3,2) to[R=$2\,\Omega$] (3,0);       % B - D right
+  \draw (0,0) to[R=$5\,\Omega$] (3,0);       % C - D bottom
+  % node labels
+  \node[above left] at (0,2) {$A$};
+  \node[above right] at (3,2) {$B$};
+  \node[below left] at (0,0) {$C$};
+  \node[below right] at (3,0) {$D$};
+  \fill (0,2) circle (1.5pt);
+  \fill (3,2) circle (1.5pt);
+  \fill (0,0) circle (1.5pt);
+  \fill (3,0) circle (1.5pt);
+\end{circuitikz}

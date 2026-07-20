@@ -1,0 +1,12 @@
+\begin{circuitikz}
+% bottom rail
+\draw (0,0) -- (6,0);
+% left branch: 10 ohm
+\draw (0,0) to[R, l=$10\ \Omega$] (0,2.5);
+% top: node - 20 ohm - node - to battery
+\draw (0,2.5) -- (2,2.5) to[R, l=$20\ \Omega$] (4,2.5) -- (6,2.5);
+% right branch: 60 V battery
+\draw (6,2.5) to[battery1, l=$60\ \mathrm{V}$] (6,0);
+% voltmeter across 20 ohm
+\draw (2,2.5) -- (2,3.8) to[voltmeter] (4,3.8) -- (4,2.5);
+\end{circuitikz}

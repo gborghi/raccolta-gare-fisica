@@ -1,0 +1,17 @@
+\begin{tikzpicture}
+  % pivot
+  \draw (0,0) circle (0.08);
+  % horizontal rod to mass
+  \draw[very thick] (0.08,0) -- (3,0);
+  \fill (3,0) circle (0.18);
+  \node[right] at (3.2,0) {$m$};
+  \node[below] at (1.5,-0.05) {$L$};
+  % dashed vertical
+  \draw[dashed] (0,0) -- (0,-3.2);
+  % dashed swung rod
+  \draw[dashed,thick] (0,0) -- (2.3,-1.93);
+  \draw[dashed] (2.3,-1.93) circle (0.18);
+  % angle theta
+  \draw (0,-1) arc (270:320:1);
+  \node at (0.55,-1.15) {$\theta$};
+\end{tikzpicture}

@@ -1,0 +1,16 @@
+\begin{tikzpicture}[>=Latex]
+  % series R1 from left node to node B
+  \draw (0,2) to[R=$R_1$] (2,2);
+  % top branch: R2 then R1
+  \draw (2,2) -- (2,3) to[R=$R_2$] (4,3) to[R=$R_1$] (6,3) -- (6,2);
+  % bottom branch: R1 then R2
+  \draw (2,2) -- (2,1) to[R=$R_1$] (4,1) to[R=$R_2$] (6,1) -- (6,2);
+  % middle vertical R1
+  \draw (4,3) to[R=$R_1$] (4,1);
+  % outer loop with source
+  \draw (0,2) -- (0,0);
+  \draw (6,2) -- (6,0);
+  \draw (0,0) to[battery1=$U$] (2.6,0) -- (6,0);
+  % current arrow
+  \draw[->] (3.4,0.35) -- (4.7,0.35) node[above,pos=0.4]{$I$};
+\end{tikzpicture}

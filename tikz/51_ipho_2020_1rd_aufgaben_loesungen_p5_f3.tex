@@ -1,0 +1,13 @@
+\begin{tikzpicture}[>=Latex]
+  \fill[gray!55] (0,0) circle(2);
+  \fill[orange!30] (-0.2,2.0) rectangle (0.4,2.7);
+  \fill[orange!30] (-2.7,-0.4) rectangle (-2.0,0.2);
+  \draw[->,thick] (0.1,2.0)--(0.1,0.9) node[right] {$F_{\mathrm{v}}$};
+  \draw[->,thick,red] (0.1,2.0)--(-1.0,2.0) node[left] {$F_{\mathrm{h}}'$};
+  \draw[->,thick] (-2.0,-0.1)--(-0.6,-0.1) node[above] {$F_{\mathrm{h}}$};
+  \draw[->,thick,red] (-2.0,-0.1)--(-2.0,1.0) node[left] {$F_{\mathrm{v}}'$};
+  \draw[->,thick] (0,-0.1)--(0,-1.2);
+  \node[right] at (0.05,-0.7) {$Mg$};
+  \draw[<->] (2.5,0)--(2.5,2);
+  \node[right] at (2.5,1.0) {$R$};
+\end{tikzpicture}

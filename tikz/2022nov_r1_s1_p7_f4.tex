@@ -1,0 +1,21 @@
+\begin{tikzpicture}[>=Latex]
+  \coordinate (A) at (2,3.2);
+  \coordinate (B) at (-0.2,0);
+  \coordinate (C) at (4.2,0.3);
+  % straight sides
+  \draw[gray] (A) -- (B);
+  \draw[gray] (A) -- (C);
+  % wavy base
+  \draw[gray] (B) .. controls (1.0,-0.5) and (2.5,0.9) .. (C);
+  % points
+  \fill (A) circle (1.5pt);
+  \fill (B) circle (1.5pt);
+  \fill (C) circle (1.5pt);
+  % angle at A
+  \draw ($(A)+(235:0.7)$) arc (235:307:0.7);
+  \node at (2,2.2) {$75^\circ$};
+  % labels
+  \node[above] at (A) {$A$};
+  \node[left] at (B) {$B$};
+  \node[right] at (C) {$C$};
+\end{tikzpicture}

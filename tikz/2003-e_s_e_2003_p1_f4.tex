@@ -1,0 +1,17 @@
+\begin{tikzpicture}[>=Latex]
+  % faint vertical grid lines
+  \foreach \x in {1,1.5,2,2.5,3,3.5,4,4.5,5} \draw[gray!35] (\x,0) -- (\x,3.0);
+  % axes
+  \draw[->] (0,0) -- (6.4,0) node[below right] {$w$};
+  \draw[->] (0,0) -- (0,3.3) node[left] {$\mu$};
+  % U-shaped curve (minimum u0 at w0)
+  \draw[thick,smooth,domain=0.6:5.6,samples=60] plot (\x,{1+0.278*(\x-3)*(\x-3)});
+  % u0 dashed level
+  \draw[dashed] (0,1.0) -- (5.6,1.0);
+  \node[left] at (0,1.0) {$u_0$};
+  \node[left] at (0,2.6) {$u_1$};
+  % x tick labels
+  \node[below] at (1.5,-0.05) {$\frac{1}{2}w_0$};
+  \node[below] at (3,-0.05) {$w_0$};
+  \node[below] at (4.5,-0.05) {$\frac{3}{2}w_0$};
+\end{tikzpicture}

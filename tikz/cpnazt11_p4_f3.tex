@@ -1,0 +1,16 @@
+\begin{tikzpicture}[>=Latex]
+  \coordinate (S2) at (0,3);
+  \coordinate (C) at (3,3);
+  \coordinate (S1) at (0,0);
+  \coordinate (B) at (3,0);
+  \draw (S2)--(C)--(B)--(S1)--cycle;
+  \draw[fill=white] (S2) circle(2.5pt);
+  \draw[fill=white] (S1) circle(2.5pt);
+  \fill (C) circle(2.5pt);
+  \fill (B) circle(2.5pt);
+  \node[left] at (S2) {$S_2$};
+  \node[left] at (S1) {$S_1$};
+  \node[right] at (C) {C};
+  \node[right] at (B) {B};
+  \node[left] at (0,1.5) {$d$};
+\end{tikzpicture}

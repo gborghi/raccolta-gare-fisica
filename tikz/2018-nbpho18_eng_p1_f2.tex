@@ -1,0 +1,16 @@
+\begin{tikzpicture}
+% tilted plane
+\draw (0,0) -- (2.5,-0.8) -- (3.3,2.8) -- (0.8,3.6) -- cycle;
+\coordinate (O) at (1.2,0.8);
+% Omega vector
+\draw[-{Latex}] (O) -- (1.4,3.2); \node[left] at (1.4,3.2) {$\Omega$};
+% v vector
+\draw[-{Latex}] (O) -- (2.6,2.6); \node[above right] at (2.6,2.6) {$v$};
+% angle phi
+\draw (1.2,0.8) ++(52:0.7) arc (52:85:0.7);
+\node at (1.57,1.73) {$\varphi$};
+% F_C vector
+\draw[-{Latex}] (O) -- (3.4,0.8); \node[right] at (3.4,0.8) {$F_C$};
+% right angle
+\draw (1.2,1.1) -- (1.5,1.1) -- (1.5,0.8);
+\end{tikzpicture}

@@ -1,0 +1,12 @@
+\begin{tikzpicture}[>=Latex]
+  \draw[<->] (0,3)--(8,3);
+  \node[fill=white] at (4,3) {bersaglio};
+  \foreach \x/\n in {0.8/1,2.3/2,3.8/3,5.3/4,6.8/5}{
+    \draw (\x,2.6)--(\x,1.4);
+    \node[below] at (\x,1.4) {\n};
+  }
+  \fill[gray!25] (3.8,2.0) circle(0.55);
+  \fill[gray!45] (3.8,2.0) circle(0.35);
+  \fill[gray!65] (3.8,2.0) circle(0.18);
+  \draw (3.8,2.0) circle(0.55);
+\end{tikzpicture}

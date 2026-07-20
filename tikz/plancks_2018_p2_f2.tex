@@ -1,0 +1,40 @@
+\begin{tikzpicture}[>=Latex,line width=0.6pt]
+  % ===== TOP CHAIN:  -C=C-C=C-C=C-C=C-  =====
+  \begin{scope}
+    % carbon positions (zigzag)
+    \foreach \i in {0,...,7} {
+      \pgfmathsetmacro\yy{ifthenelse(mod(\i,2)==0,0.15,-0.15)}
+      \coordinate (t\i) at (\i,\yy);
+    }
+    % double bonds: 0=1, 2=3, 4=5, 6=7
+    \foreach \a/\b in {0/1,2/3,4/5,6/7}{
+      \draw ($(t\a)+(0,0.05)$) -- ($(t\b)+(0,0.05)$);
+      \draw ($(t\a)+(0,-0.05)$) -- ($(t\b)+(0,-0.05)$);
+    }
+    % single bonds: 1-2, 3-4, 5-6
+    \foreach \a/\b in {1/2,3/4,5/6}{ \draw (t\a) -- (t\b); }
+    % terminal single stubs
+    \draw (t0) -- ($(t0)+(-0.7,0.25)$);
+    \draw (t7) -- ($(t7)+(0.7,0.25)$);
+    % carbon labels (mask the bonds)
+    \foreach \i in {0,...,7} \node[fill=white,inner sep=1pt] at (t\i) {C};
+  \end{scope}
+  % ===== BOTTOM CHAIN:  =C=C-C=C-C=C-C=C=  =====
+  \begin{scope}[yshift=-1.6cm]
+    \foreach \i in {0,...,7} {
+      \pgfmathsetmacro\yy{ifthenelse(mod(\i,2)==0,0.15,-0.15)}
+      \coordinate (b\i) at (\i,\yy);
+    }
+    \foreach \a/\b in {0/1,2/3,4/5,6/7}{
+      \draw ($(b\a)+(0,0.05)$) -- ($(b\b)+(0,0.05)$);
+      \draw ($(b\a)+(0,-0.05)$) -- ($(b\b)+(0,-0.05)$);
+    }
+    \foreach \a/\b in {1/2,3/4,5/6}{ \draw (b\a) -- (b\b); }
+    % terminal double stubs
+    \draw ($(b0)+(0,0.05)$) -- ($(b0)+(-0.7,0.25+0.05)$);
+    \draw ($(b0)+(0,-0.05)$) -- ($(b0)+(-0.7,0.25-0.05)$);
+    \draw ($(b7)+(0,0.05)$) -- ($(b7)+(0.7,0.25+0.05)$);
+    \draw ($(b7)+(0,-0.05)$) -- ($(b7)+(0.7,0.25-0.05)$);
+    \foreach \i in {0,...,7} \node[fill=white,inner sep=1pt] at (b\i) {C};
+  \end{scope}
+\end{tikzpicture}

@@ -1,0 +1,19 @@
+\begin{tikzpicture}[>=Latex]
+  % large uniformly (+) charged sphere with a spherical cavity
+  \draw (0,0) circle (2);
+  % cavity, centered to the right, radius ~1
+  \draw (1,0) circle (1);
+  % plus signs filling the charged region (outside cavity)
+  \foreach \p in {(-1.4,0.9),(-0.7,1.2),(0,1.4),(0.7,1.2),(1.3,0.9),
+                  (-1.6,0.2),(-1.1,0.3),(-1.5,-0.5),(-0.9,-0.7),(-0.2,-1.0),
+                  (0.6,-1.1),(1.3,-0.9),(1.7,-0.3),(-0.4,0.6),(-1.0,-0.1),
+                  (0.3,-0.5)} {
+    \node at \p {\small $+$};
+  }
+  % center of big sphere A, center of cavity B, radius R of cavity
+  \draw[<->] (0,0) -- (1,0);
+  \node[below] at (0,-0.05) {$A$};
+  \node[below] at (1,-0.05) {$B$};
+  \draw[<->] (1,0) -- (2,0);
+  \node at (1.5,0.3) {$R$};
+\end{tikzpicture}

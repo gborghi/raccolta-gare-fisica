@@ -1,0 +1,22 @@
+\begin{tikzpicture}[>={Latex[length=2.5mm]}]
+  % water body
+  \fill[blue!20] (0,0.4) rectangle (8,3.5);
+  \draw[decorate,decoration={snake,amplitude=1pt,segment length=6pt}] (0,3.5) -- (8,3.5);
+  % sediment bottom
+  \fill[brown!40] (0,0) rectangle (8,0.4);
+  % suspension rope + source
+  \draw[thick] (2.6,3.5) -- (2.6,2.2);
+  \fill[red] (2.35,1.85) -- (2.85,2.05) -- (2.85,2.35) -- (2.35,2.55) -- cycle;
+  % emitted wavefronts (to the right)
+  \foreach \r in {0.35,0.6,0.85} {\draw (2.95,2.2) arc (60:-60:\r);}
+  % path to receiver
+  \draw[dashed] (3.2,2.2) -- (5.6,2.2);
+  \fill (5.9,2.2) circle (2pt);
+  \foreach \r in {0.3,0.5} {\draw (5.65,2.2) arc (120:240:\r);}
+  % receiver drift u
+  \draw[->,thick] (6.2,2.55) -- (6.9,2.55);
+  \node[above] at (6.55,2.55) {$u$};
+  % current u
+  \draw[->,very thick] (0.5,1.1) -- (1.6,1.1);
+  \node[above] at (1.05,1.1) {$u$};
+\end{tikzpicture}

@@ -1,0 +1,18 @@
+\begin{tikzpicture}[>=Latex]
+  \node at (-0.3,2.3) {volt.};
+  % two R in parallel between A and mid node M
+  \draw (0,1.6) to[R=$R$] (2.2,1.6);
+  \draw (0,0.9) to[R=$R$] (2.2,0.9);
+  \draw (0,1.6) -- (0,0.9);
+  \draw (2.2,1.6) -- (2.2,0.9);
+  % node A
+  \fill (0,1.25) circle (1.4pt);
+  \draw (0,1.25) -- (-0.5,1.25) node[left]{$A$};
+  % series R to B
+  \draw (2.2,1.25) to[R=$R$] (4.4,1.25);
+  \fill (4.4,1.25) circle (1.4pt) node[right]{$B$};
+  % battery at bottom
+  \draw (-0.5,1.25) -- (-0.5,0) to[battery1] (2,0)
+        node[above left=1pt]{$+$} node[above right=1pt]{$-$} -- (4.4,0) -- (4.4,1.25);
+  \node at (0.75,-0.4) {$V$};
+\end{tikzpicture}

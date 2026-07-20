@@ -1,0 +1,15 @@
+\begin{tikzpicture}
+% current-carrying wire
+\draw[-{Latex}] (0,1) -- (0,4.5);
+\node[left] at (0,3) {$I_0$};
+\draw (0,1) -- (0,0.6) -- (-0.3,0.1);
+\draw (0,-0.2) -- (0,-0.6);
+% rectangular loop
+\draw (2,1) rectangle (4,4);
+% distance l
+\draw[{Latex}-{Latex}] (0,0.7) -- (2,0.7); \node[below] at (1,0.7) {$l$};
+% side a
+\draw[{Latex}-{Latex}] (2,0.6) -- (4,0.6); \node[below] at (3,0.6) {$a$};
+% side b
+\draw[{Latex}-{Latex}] (4.2,1) -- (4.2,4); \node[right] at (4.2,2.5) {$b$};
+\end{tikzpicture}

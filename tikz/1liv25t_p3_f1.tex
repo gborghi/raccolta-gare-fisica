@@ -1,0 +1,18 @@
+\begin{tikzpicture}[>={Latex[length=2.5mm]}]
+  % axes
+  \draw[->] (0.5,0.5) -- (0.5,4.4);
+  \draw[->] (0.5,0.5) -- (4.9,0.5);
+  \node[left] at (0.5,4.0) {$p$};
+  \node[below] at (4.8,0.5) {$V$};
+  % Y -> Z curve
+  \draw[->] (1.5,3.6) to[out=-25,in=160] (3.9,1.9);
+  % X -> Y curve
+  \draw[->] (2.2,1.0) to[out=120,in=-70] (1.55,3.5);
+  % points
+  \draw[fill=white] (1.5,3.6) circle (2pt);
+  \draw[fill=white] (3.9,1.9) circle (2pt);
+  \draw[fill=white] (2.2,1.0) circle (2pt);
+  \node[above] at (1.65,3.65) {Y};
+  \node[right] at (4.0,1.9) {Z};
+  \node[below] at (2.2,0.95) {X};
+\end{tikzpicture}

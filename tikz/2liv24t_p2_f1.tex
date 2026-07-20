@@ -1,0 +1,16 @@
+\begin{tikzpicture}[>=Latex]
+  % pivot
+  \fill (0,0) circle (1.4pt);
+  % vertical dashed to bottom of swing
+  \draw[dashed] (0,0) -- (0,-4);
+  \fill (0,-4) circle (1.4pt) node[right]{$B$};
+  % string to bob A (angle ~50 deg from vertical)
+  \draw[thick] (0,0) -- (-3.06,-2.57);
+  \draw[thick,fill=gray!30] (-3.06,-2.57) circle (0.28);
+  \node[right] at (-2.85,-2.75) {$A$};
+  % swing arc (dashed) from A to B
+  \draw[dashed] (-3.06,-2.57) arc (230:270:4);
+  % angle theta between string and vertical
+  \draw (0,-1.4) arc (270:230:1.4);
+  \node at (-0.75,-1.55) {$\theta$};
+\end{tikzpicture}

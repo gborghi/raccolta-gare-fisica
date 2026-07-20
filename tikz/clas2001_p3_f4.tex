@@ -1,0 +1,19 @@
+\begin{tikzpicture}
+  % cylinder body
+  \draw (0,0) -- (0,4);
+  \draw (2,0) -- (2,4);
+  % top ellipse (hatched)
+  \fill[pattern=vertical lines] (1,4) ellipse (1 and 0.25);
+  \draw (1,4) ellipse (1 and 0.25);
+  % bottom
+  \draw (0,0) arc (180:360:1 and 0.25);
+  \draw[dashed] (0,0) arc (180:0:1 and 0.25);
+  % hole on left side + velocity in
+  \draw (0.05,2) ellipse (0.1 and 0.2);
+  \fill (-1.2,2) circle (2pt);
+  \draw[-{Latex}] (-1.1,2) -- (-0.15,2) node[midway,above] {$v$};
+  % axis (dotted, to the right)
+  \draw[dotted] (2,2) -- (4,2);
+  % rotation omega
+  \draw[-{Latex}] (0,-0.3) arc (200:340:1 and 0.28) node[right] {$\omega$};
+\end{tikzpicture}

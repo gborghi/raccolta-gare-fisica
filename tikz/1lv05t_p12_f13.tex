@@ -1,0 +1,24 @@
+\begin{tikzpicture}[>=Latex]
+  % table top
+  \draw[thick] (0,2) rectangle (8,2.25);
+  % legs
+  \draw[thick] (1.6,2) rectangle (2.1,0);
+  \draw[thick] (5.9,2) rectangle (6.4,0);
+  % pulleys at the two edges
+  \draw[thick] (0.25,2.55) circle (0.25);
+  \draw[thick] (7.75,2.55) circle (0.25);
+  % block m2 on top
+  \draw[thick] (3.5,2.25) rectangle (4.7,3.1);
+  \node at (4.1,2.68) {$m_2$};
+  \node at (2.8,2.55) {$\mu$};
+  % string from block over left pulley to m1
+  \draw (3.5,2.7) -- (0.25,2.7);
+  \draw (0,2.55) -- (0,0.9);
+  \draw[thick] (-0.55,0) rectangle (0.55,0.9);
+  \node at (0,-0.35) {$m_1$};
+  % string from block over right pulley to m3
+  \draw (4.7,2.7) -- (7.75,2.7);
+  \draw (8,2.55) -- (8,0.9);
+  \draw[thick] (7.45,0) rectangle (8.55,0.9);
+  \node at (8,-0.35) {$m_3$};
+\end{tikzpicture}

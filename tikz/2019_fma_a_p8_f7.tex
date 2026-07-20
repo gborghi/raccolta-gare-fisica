@@ -1,0 +1,19 @@
+\begin{tikzpicture}[>={Latex}]
+% mass region (gray wedge)
+\fill[gray!45] (0.4,0.3) -- (4.04,2.4) -- (4.6,0.3) -- cycle;
+\node at (3.0,1.05) {$m$};
+% base plank
+\draw[line width=5pt,gray!60!black] (0.5,0.28) -- (4.6,0.28);
+% inclined plank
+\draw[line width=5pt,gray!60!black] (0.5,0.32) -- (4.04,2.42);
+% angle theta
+\draw (1.4,0.3) arc[start angle=0,end angle=30,radius=1.0];
+\node at (1.15,0.6) {$\theta$};
+% pivot cylinder
+\filldraw[fill=gray!25] (0.4,0.35) circle(0.38);
+% torque arrow
+\draw[->] (0.0,0.05) arc[start angle=200,end angle=-20,radius=0.55];
+\node[below left] at (-0.05,0.15) {$\tau$};
+% ground
+\draw (0,0) -- (4.9,0);
+\end{tikzpicture}

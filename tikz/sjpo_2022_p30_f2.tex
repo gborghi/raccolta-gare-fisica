@@ -1,0 +1,12 @@
+\begin{tikzpicture}[>=Latex]
+  \draw (0,3)--(6,3);
+  \draw[thick] (0,2)--(6,2);
+  \coordinate (O) at (3,2);
+  \draw[dashed] (O)--(3,0.4);
+  \node at (5.3,2.5) {$n_2$};
+  \node at (5.3,1.5) {$n_1$};
+  \draw[very thick,->] (1.0,1.0)--(O);
+  \draw[very thick,->] (O)--(5.0,1.0);
+  \draw ($(O)+(250:0.65)$) arc (250:206:0.65);
+  \node at (2.72,1.32) {$i$};
+\end{tikzpicture}

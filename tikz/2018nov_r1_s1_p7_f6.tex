@@ -1,0 +1,21 @@
+\begin{tikzpicture}[>=Latex]
+  % apex
+  \coordinate (T) at (0,0);
+  % dashed vertical
+  \draw[dashed] (T) -- (0,-3.2);
+  % wall: hatched line down-left from apex
+  \draw[thick] (T) -- (-1.25,-3.2);
+  \foreach \t in {0.15,0.3,0.45,0.6,0.75,0.9}{
+    \draw (T)+(-1.25*\t,-3.2*\t) -- ++(-1.25*\t-0.28,-3.2*\t+0.05);
+  }
+  \node[left] at (-0.75,-1.9) {wall};
+  % string to bob down-right
+  \draw[thick] (T) -- (1.35,-3.2);
+  \fill (1.35,-3.2) circle (0.13);
+  % angle phi between wall and vertical
+  \draw (-0.35,-0.9) arc (250:270:0.95);
+  \node at (-0.28,-1.15) {$\phi$};
+  % angle theta between vertical and string
+  \draw (0,-1.15) arc (270:293:1.15);
+  \node at (0.4,-1.2) {$\theta$};
+\end{tikzpicture}

@@ -1,0 +1,16 @@
+\begin{tikzpicture}[>=Latex]
+% title
+\node at (3.5,2.6){Resistive material};
+% left wire with current into charge
+\draw[->] (0,1.6) -- (1.6,1.6);
+\draw (1.6,1.6) -- (2,1.6);
+\fill (2,1.6) circle (4pt);
+\node[above] at (1,1.6){$I$};
+% right charge with current out
+\fill (5,1.6) circle (4pt);
+\draw (5,1.6) -- (5.4,1.6);
+\draw[->] (5.4,1.6) -- (7,1.6);
+\node[above] at (6,1.6){$I$};
+% distance a
+\draw[<->] (2,0.7) -- (5,0.7) node[midway,fill=white]{$a$};
+\end{tikzpicture}

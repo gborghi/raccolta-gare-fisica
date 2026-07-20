@@ -1,0 +1,15 @@
+\begin{tikzpicture}[>=Latex]
+% two support blocks
+\draw (0,0) rectangle (2.5,2.5);
+\draw (5.5,0) rectangle (8,2.5);
+% masses on top connected by rod (length L)
+\draw (1,2.5) -- (6,2.5);
+\fill (1,2.5) circle (3pt) node[above left]{$4m$};
+\fill (6,2.5) circle (3pt) node[above right]{$m$};
+% L measure
+\draw[dotted] (1,2.5) -- (1,3.6);
+\draw[dotted] (6,2.5) -- (6,3.6);
+\draw[<->] (1,3.4) -- (6,3.4) node[midway,above]{$L$};
+% D measure (gap between blocks)
+\draw[<->] (2.5,1.2) -- (5.5,1.2) node[midway,above]{$D$};
+\end{tikzpicture}

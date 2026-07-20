@@ -1,0 +1,11 @@
+\begin{tikzpicture}
+  \draw (0,2) to[short,o-] (1,2) coordinate(n1);
+  \draw (n1) to[L=$L$] (3,2) coordinate(A);
+  \draw (A) to[D] (5,2) coordinate(tr);
+  \draw (tr) to[R=$R$] (5,0) coordinate(br);
+  \draw (A) to[C=$C$] (3,0);
+  \draw (n1) to[cute open switch] (1,0);
+  \draw (0,0) to[short,o-] (1,0);
+  \draw (1,0) -- (5,0);
+  \node[left] at (0,1) {$U_\mathrm{i}$};
+\end{tikzpicture}

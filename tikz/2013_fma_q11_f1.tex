@@ -1,0 +1,27 @@
+\begin{tikzpicture}[>=Latex]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (4,2.6);
+  \coordinate (C) at (6,0);
+  % ground
+  \draw (-0.6,0) -- (6.9,0);
+  % wedge
+  \draw[line width=1.2pt] (A) -- (B) -- (C) -- cycle;
+  \node at (3.3,0.9) {$M$};
+  % block on left incline
+  \begin{scope}[shift={(3,1.95)},rotate=33]
+    \draw (-0.35,0) rectangle (0.35,0.7);
+    \node at (0,0.35) {$m$};
+  \end{scope}
+  % block on right incline
+  \begin{scope}[shift={(4.7,1.7)},rotate=-52]
+    \draw (-0.35,0) rectangle (0.35,0.7);
+    \node at (0,0.35) {$m$};
+  \end{scope}
+  % angles
+  \draw (A)+(0:0.75) arc (0:33:0.75);
+  \node at (1.0,0.22) {$\alpha$};
+  \draw (C)+(128:0.75) arc (128:180:0.75);
+  \node at (5.05,0.22) {$\beta$};
+  \draw (B)+(213:0.5) arc (213:308:0.5);
+  \node at (3.9,2.05) {$90$};
+\end{tikzpicture}

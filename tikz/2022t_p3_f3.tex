@@ -1,0 +1,19 @@
+\begin{tikzpicture}[>={Latex}]
+% top chain
+\node[draw,circle] (P) at (0,2) {$P$};
+\node[draw,circle] (Q) at (2,2) {$Q$};
+\node[draw,circle] (R) at (4,2) {$R$};
+\node[draw,circle] (S) at (6,2) {$S$};
+% decay products
+\node[draw,circle] (a)  at (1,0) {$\alpha$};
+\node[draw,circle] (b1) at (3,0) {$\beta$};
+\node[draw,circle] (b2) at (5,0) {$\beta$};
+% horizontal transitions
+\draw[->] (P) -- (Q);
+\draw[->] (Q) -- (R);
+\draw[->] (R) -- (S);
+% emissions
+\draw[->] (P) -- (a);
+\draw[->] (Q) -- (b1);
+\draw[->] (R) -- (b2);
+\end{tikzpicture}

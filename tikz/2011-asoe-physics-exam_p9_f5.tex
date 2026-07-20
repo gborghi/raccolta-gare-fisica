@@ -1,0 +1,17 @@
+\begin{tikzpicture}[>=Latex]
+% base
+\draw[very thick] (0,0) -- (4,0);
+% vertical walls
+\draw[very thick] (1.3,0) -- (1.3,5);
+\draw[very thick] (2.7,0) -- (2.7,5);
+% liquid column
+\fill[gray!35] (1.35,2.8) rectangle (2.65,4.3);
+% liquid bottom (dashed)
+\draw[dashed] (1.3,2.8) -- (2.7,2.8);
+% d measure
+\draw[<->] (0.55,0) -- (0.55,4.3) node[midway,left]{$d$};
+% h measure
+\draw[<->] (3.15,2.8) -- (3.15,4.3) node[midway,right]{$h$};
+% r arrow
+\draw[->] (2.0,0.35) -- (2.65,0.35) node[midway,below]{$r$};
+\end{tikzpicture}

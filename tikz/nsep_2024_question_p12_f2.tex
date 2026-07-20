@@ -1,0 +1,20 @@
+\begin{tikzpicture}[>=Latex]
+  % ground
+  \draw (-2.5,0) -- (2.5,0);
+  % rolling circle
+  \draw (0,1.5) circle (1.5);
+  \fill (0,1.5) circle (1.5pt);
+  \node[right] at (0,1.5) {$C$};
+  % contact point
+  \fill (0,0) circle (1.5pt);
+  \node[below] at (0,0) {$O$};
+  % radius R
+  \draw[-{Latex}] (0,1.5) -- (0,0);
+  \node[right] at (0,0.7) {$R$};
+  % dashed reference line
+  \draw[dashed] (-2.3,2.3) -- (2.3,2.3);
+  % height h = alpha R
+  \draw (-2.25,3) -- (-1.4,3);
+  \draw[<->] (-1.8,3) -- (-1.8,2.3);
+  \node[left] at (-1.85,2.65) {$h=\alpha R$};
+\end{tikzpicture}

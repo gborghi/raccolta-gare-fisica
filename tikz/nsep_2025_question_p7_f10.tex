@@ -1,12 +1,17 @@
 \begin{tikzpicture}[scale=1]
-  % large circle centered at (0,0)
+  % large circle a centered at the origin
   \draw[thick] (0,0) circle (2.0);
-  \node at (0,-2.3) {(0,0)};
-  % small circle centered at (c,0), labeled b, radius drawn to upper-right
-  \draw[thick] (1.6,0) circle (0.9);
-  \node at (1.6,0.35) {b};
-  \node at (1.6,-1.25) {(c, 0)};
-  % radius line "a" from origin going up-left, outside both circles
-  \draw[thick] (0,0) -- (-1.0,1.7);
-  \node at (-1.15,1.85) {a};
+  % small circle b internally tangent, centered at (c,0)=(1.1,0), tangent at (2,0)
+  \draw[thick] (1.1,0) circle (0.9);
+  % line of centers (x-axis) reaching the tangent point
+  \draw[thick] (0,0) -- (2.0,0);
+  % radius a from the origin up-left to the large circle
+  \draw[thick] (0,0) -- (-1.53,1.29);
+  \node at (-0.75,1.0) {a};
+  % radius b from (c,0) up-right to the small circle
+  \draw[thick] (1.1,0) -- (1.52,0.79);
+  \node at (1.3,0.55) {b};
+  % center labels
+  \node at (0.0,-0.3) {(0,0)};
+  \node at (1.15,-0.3) {(c, 0)};
 \end{tikzpicture}

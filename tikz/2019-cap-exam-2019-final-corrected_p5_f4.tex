@@ -1,6 +1,8 @@
 \begin{tikzpicture}[scale=1]
-  \draw[thick] (0,1.8) .. controls (0.1,0.9) and (0.6,0.2) .. (1.4,0.0)
-    .. controls (2.0,-0.15) and (2.5,0.3) .. (2.3,1.0);
-  \filldraw (1.0,1.35) circle (0.05);
-  \node at (1.15,1.65) {$+e$};
+  % open curve; the +e charge sits ON its start point (top)
+  \draw[thick] (1.2,1.35)
+    .. controls (0.4,1.1) and (-0.1,0.5) .. (0.4,-0.1)
+    .. controls (0.9,-0.7) and (1.6,-0.7) .. (2.1,-1.1);
+  \filldraw (1.2,1.35) circle (0.05);
+  \node[above] at (1.2,1.55) {$+e$};
 \end{tikzpicture}

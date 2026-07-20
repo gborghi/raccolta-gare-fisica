@@ -1,17 +1,22 @@
-\begin{tikzpicture}[line width=1.4pt]
-  % gas inlet arrow
-  \draw[-{Stealth}] (-2.2,3.3) -- (-1.0,3.3);
-  \node[above] at (-1.6,3.3) {gas};
-  % outer tube outline (right tall tube down to U bend, then left tube up, open)
-  \draw (-1.0,3.5) -- (0.3,3.5) -- (0.3,-1.3)
-        arc (0:-180:0.9)
-        -- (-1.7,2.0);
-  \draw (-1.0,3.1) -- (-0.1,3.1) -- (-0.1,-1.3)
-        arc (0:-180:0.5)
-        -- (-1.1,2.0);
-  % liquid shading
-  \fill[gray!55] (-1.7,-1.3) rectangle (0.3,0.4);
-  \fill[gray!55] (-1.1,-1.3) rectangle (-0.1,1.4);
-  \draw[{Stealth}-{Stealth}] (0.6,0.4) -- (0.6,1.4);
-  \node[right] at (0.6,0.9) {$h$};
+\begin{tikzpicture}[line width=1pt]
+  % liquid (gray): left arm at a LOWER level, right arm at a HIGHER level
+  \fill[gray!55]
+    (-1.5,0.4) -- (-1.5,-1.3) arc(180:360:1.0) -- (0.5,1.4)
+    -- (0.1,1.4) -- (0.1,-1.3) arc(0:-180:0.6) -- (-1.1,0.4) -- cycle;
+  % outer U wall: left arm down, bottom bend, right arm up (open top)
+  \draw (-1.5,2.4) -- (-1.5,-1.3) arc(180:360:1.0) -- (0.5,2.6);
+  % inner U wall
+  \draw (-1.1,2.0) -- (-1.1,-1.3) arc(180:360:0.6) -- (0.1,2.6);
+  % gas branch upper (outer) wall + rounded elbow into left arm
+  \draw (-2.6,2.6) -- (-1.7,2.6) arc(90:0:0.2);
+  % gas branch lower (inner) wall + rounded elbow into left arm
+  \draw (-2.6,2.2) -- (-1.3,2.2) arc(90:0:0.2);
+  % gas inlet arrow and label
+  \draw[-{Stealth}] (-3.4,2.7) -- (-2.9,2.7);
+  \node at (-3.1,2.45) {gas};
+  % level difference h between the two menisci
+  \draw (-0.6,0.4) -- (0.05,0.4);
+  \draw (-0.6,1.4) -- (0.05,1.4);
+  \draw[{Stealth}-{Stealth}] (-0.3,0.4) -- (-0.3,1.4);
+  \node[right] at (-0.25,0.9) {$h$};
 \end{tikzpicture}

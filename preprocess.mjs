@@ -901,6 +901,7 @@ ${areaCards}
 <a class="home-mode" href="topics"><div class="home-mode-k">Concetti</div><div class="home-mode-t">Argomenti</div><div class="home-mode-d">Naviga per argomento fisico specifico, dal generale al particolare.</div></a>
 <a class="home-mode" href="methods"><div class="home-mode-k">Concetti</div><div class="home-mode-t">Metodi risolutivi</div><div class="home-mode-d">Le tecniche e le strategie ricorrenti per risolvere i problemi.</div></a>
 <a class="home-mode" href="skills"><div class="home-mode-k">Concetti</div><div class="home-mode-t">Abilità</div><div class="home-mode-d">Le competenze allenate da ciascun quesito.</div></a>
+<a class="home-mode" href="objects"><div class="home-mode-k">Concetti</div><div class="home-mode-t">Oggetti</div><div class="home-mode-d">Gli oggetti fisici ricorrenti nei problemi: corpi, dispositivi, strumenti.</div></a>
 <a class="home-mode" href="prove"><div class="home-mode-k">Fonti</div><div class="home-mode-t">Prove</div><div class="home-mode-d">Sfoglia le ${nProve} prove, ciascuna atomizzata nei suoi quesiti.</div></a>
 </div>
 </section>

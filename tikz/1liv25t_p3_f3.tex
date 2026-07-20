@@ -1,0 +1,13 @@
+\begin{tikzpicture}[>=Latex]
+  \node at (0,3) {$S_1$};
+  \node at (6,3) {$S_2$};
+  % left wall
+  \draw[thick] (0,0)--(0,2.6);
+  % observer
+  \fill[gray!35] (4,1.5) ellipse (0.28 and 0.5);
+  \draw (4,1.5) circle (0.2);
+  % distances
+  \draw[<->] (0,0.3)--(4,0.3) node[midway,fill=white]{$2$ m};
+  \draw[<->] (4,0.3)--(6,0.3) node[midway,fill=white]{$1$ m};
+  \draw (4,0.12)--(4,0.48);
+\end{tikzpicture}

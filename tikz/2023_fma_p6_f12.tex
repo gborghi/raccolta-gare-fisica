@@ -1,0 +1,19 @@
+\begin{tikzpicture}[>=Latex]
+  % corner (ceiling + left wall)
+  \fill[gray!20] (-1.8,2.2) rectangle (2.6,2.55);
+  \fill[gray!20] (-1.8,-2.2) rectangle (-1.5,2.55);
+  \draw (2.6,2.2) -- (-1.5,2.2) -- (-1.5,-2.2);
+  \coordinate (P) at (0,2.2);
+  % reference verticals / swing extremes
+  \draw[dotted] (P) -- (0,-1.6);
+  \draw[dotted] (P) -- ($(P)+(248:2.5)$);
+  % rod
+  \draw[thick] (P) -- ($(P)+(292:2.5)$) coordinate (B);
+  \fill[gray!60] (B) circle (0.14);
+  \draw (B) circle (0.14);
+  \node[right] at (B) {$m$};
+  \node at (0.9,1.0) {$\ell$};
+  % angle theta_0
+  \draw (0,1.3) arc (-90:-68:0.9);
+  \node at (0.35,1.12) {$\theta_0$};
+\end{tikzpicture}

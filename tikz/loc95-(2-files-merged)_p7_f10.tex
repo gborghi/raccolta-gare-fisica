@@ -1,0 +1,11 @@
+\begin{circuitikz}
+  % left and right rails
+  \draw (0,0) -- (0,2);
+  \draw (4,0) -- (4,2);
+  % top branch: battery
+  \draw (0,2) to[battery1, l=$5$ V] (4,2);
+  % middle branch: two capacitors in series
+  \draw (0,1) to[C=$4\,\mu$F] (2,1) to[C=$4\,\mu$F] (4,1);
+  % bottom branch: capacitor
+  \draw (0,0) to[C=$8\,\mu$F] (4,0);
+\end{circuitikz}

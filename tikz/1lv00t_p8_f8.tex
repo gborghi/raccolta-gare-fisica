@@ -1,0 +1,9 @@
+\begin{circuitikz}
+  \draw (0,3) to[C=$3\,\mu$F] (3,3) to[C=$2\,\mu$F] (6,3);
+  \draw (0,3) -- (0,0);
+  \draw (6,3) -- (6,0);
+  \draw (0,0) to[battery1, l=$30$ V] (3,0) to[switch, l=T] (6,0);
+  \draw (3,3) -- (3,0);
+  \draw[<->] (0,3.7) -- (3,3.7) node[midway,above]{$V_1$};
+  \draw[<->] (3,3.7) -- (6,3.7) node[midway,above]{$V_2$};
+\end{circuitikz}

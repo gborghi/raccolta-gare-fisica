@@ -1,0 +1,12 @@
+\begin{tikzpicture}[>=Latex]
+  % axes
+  \draw[->] (0,-2) -- (0,2.4) node[left] {$F$};
+  \draw[->] (-0.3,0) -- (5,0) node[below] {$r$};
+  % curve: repulsive near origin, crosses zero at R, well, rises
+  \draw[thick] (0.55,2.3) .. controls (0.9,0.9) and (1.05,0.3) .. (1.3,0)
+        .. controls (1.7,-0.4) and (2.0,-1.15) .. (2.6,-1.15)
+        .. controls (3.4,-1.15) and (4.2,-0.55) .. (4.7,-0.15);
+  % zero crossing marker R
+  \filldraw (1.3,0) circle (1.2pt);
+  \node[above left] at (1.35,0.1) {$R$};
+\end{tikzpicture}

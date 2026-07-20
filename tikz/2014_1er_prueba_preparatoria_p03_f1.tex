@@ -1,0 +1,13 @@
+\begin{tikzpicture}[>=Latex]
+  % beam
+  \draw (0,0.6) rectangle (8,1.1);
+  \node at (4.2,0.85) {$m_b$};
+  % fulcrum triangle at A
+  \draw (1.5,0.6) -- (1.1,0) -- (1.9,0) -- cycle;
+  \node[below] at (1.5,-0.05) {A};
+  % dashed vertical through fulcrum
+  \draw[dashed] (1.5,1.5) -- (1.5,0.6);
+  % end labels
+  \node[below left] at (0.1,0.5) {C};
+  \node[right] at (8.1,0.85) {B};
+\end{tikzpicture}

@@ -1,0 +1,12 @@
+\begin{tikzpicture}[>=Latex]
+  % channel walls
+  \draw[line width=1pt] (0,0) -- (6,0);
+  \draw[line width=1pt] (0,1.8) -- (6,1.8);
+  % streamlines
+  \foreach \y in {0.3,0.6,1.2,1.5}{
+    \draw (0,\y) -- (6,\y);
+  }
+  % velocity vector v_c
+  \draw[->,line width=1pt] (2.3,0.9) -- (3.7,0.9);
+  \node[above] at (3.0,0.95) {$\vec{v}_c$};
+\end{tikzpicture}

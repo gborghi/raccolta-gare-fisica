@@ -1,0 +1,14 @@
+\begin{tikzpicture}[>=Latex,line width=0.8pt]
+  \fill[pattern=north east lines] (-1.2,3) rectangle (0.6,3.4);
+  \draw (-1.2,3) rectangle (0.6,3.4);
+  \draw (0,3) -- (-1.6,0.8);
+  \draw[dashed] (0,3) -- (0,0.5);
+  \draw ([shift=(270:0.7)]0,3) arc (270:234:0.7);
+  \node at ([shift=(252:0.98)]0,3) {$\theta$};
+  \fill[gray] (-1.6,0.8) circle (6pt);
+  \draw (-1.6,0.8) circle (6pt);
+  \node[left] at (-1.75,0.7) {$m$};
+  \node at (-0.95,2.05) {$L$};
+  \draw[-{Latex},line width=1.1pt] (1.3,1.5) -- (1.3,0.6);
+  \node[right] at (1.35,1.05) {$\vec g$};
+\end{tikzpicture}

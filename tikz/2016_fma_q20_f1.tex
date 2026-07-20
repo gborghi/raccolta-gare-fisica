@@ -1,0 +1,21 @@
+\begin{tikzpicture}[>=Latex]
+  % big incline: right angle at bottom-right
+  \draw[thick] (0,0) -- (6,0) -- (6,3) -- cycle;
+  % hatch ticks under base
+  \foreach \x in {0.3,0.9,1.5,2.1,2.7,3.3,3.9,4.5,5.1,5.7}
+    \draw (\x,0) -- (\x-0.3,-0.3);
+  % small wedge block on the slope (slope angle = atan(3/6) ~ 26.57 deg)
+  \begin{scope}[shift={(3.0,1.5)},rotate=26.565]
+    \fill[gray!55] (0,0) -- (1.5,0) -- (0,0.9) -- cycle;
+    \draw (0,0) -- (1.5,0) -- (0,0.9) -- cycle;
+    % w along top edge
+    \draw[{Latex[length=2mm]}-{Latex[length=2mm]}] (0.05,1.05) -- (1.45,1.05);
+    \node at (0.75,1.35) {$w$};
+  \end{scope}
+  % vertical height h at right of block
+  \draw[{Latex[length=2mm]}-{Latex[length=2mm]}] (4.85,1.5) -- (4.85,2.42);
+  \node at (5.15,1.95) {$h$};
+  % angle theta at bottom-left
+  \draw (1.0,0) arc (0:26.565:1.0);
+  \node at (1.15,0.24) {$\theta$};
+\end{tikzpicture}

@@ -1,0 +1,12 @@
+\begin{tikzpicture}[>=Latex]
+  % ring (hoop) with two masses
+  \draw (0,4) circle (0.7);
+  \filldraw (0,4.7) circle (2pt);
+  \node[above] at (0.05,4.85) {$m_1$};
+  \node at (0.55,4.15) {$m_2$};
+  % height arrow to ground
+  \draw[<->] (0,3.3) -- (0,0.1);
+  \node[right] at (0.15,1.7) {$h=1$m};
+  % ground
+  \draw[line width=2pt] (-1.6,0) -- (1.6,0);
+\end{tikzpicture}

@@ -1,0 +1,14 @@
+\begin{tikzpicture}[line width=0.8pt]
+  % walls (shaded L-shape): vertical wall left, floor bottom
+  \fill[gray!30] (-0.35,-0.35) rectangle (0,3.2);
+  \fill[gray!30] (-0.35,-0.35) rectangle (4.2,0);
+  \draw[line width=1.2pt] (0,3.2) -- (0,0) -- (4.2,0);
+  % rod L leaning: top on wall, bottom on floor
+  \coordinate (A) at (0,2.2);
+  \coordinate (B) at (3.0,0);
+  \draw[line width=2pt,gray!60!black] (A) -- (B);
+  \node at (1.7,1.4) {$L$};
+  % velocity of bottom end
+  \draw[-{Latex},line width=1.4pt] (3.0,0) -- (4.0,0);
+  \node[above] at (3.7,0.02) {$v$};
+\end{tikzpicture}

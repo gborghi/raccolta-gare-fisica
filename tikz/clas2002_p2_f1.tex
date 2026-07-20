@@ -1,0 +1,14 @@
+\begin{tikzpicture}[>={Latex[length=3mm]}]
+  % dotted grid
+  \draw[dotted] (0,0) grid (2,2);
+  % axis ticks
+  \foreach \i in {0,1,2}{
+    \node[left] at (-0.05,\i) {\i};
+    \node[below] at (\i,-0.05) {\i};
+  }
+  % four thick arrows forming an X, heads meeting at centre and out
+  \draw[line width=2pt,->] (0,0) -- (1.02,1.02);
+  \draw[line width=2pt,->] (0,2) -- (1.02,0.98);
+  \draw[line width=2pt,->] (1,1) -- (2,2);
+  \draw[line width=2pt,->] (1,1) -- (2,0);
+\end{tikzpicture}

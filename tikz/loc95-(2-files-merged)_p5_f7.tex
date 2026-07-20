@@ -1,0 +1,8 @@
+\begin{tikzpicture}[>=Latex]
+  % axes
+  \draw[thick] (0,4) -- (0,0) -- (5,0);
+  \node[below left] at (0,0) {$0$};
+  \node[below] at (4,-0.1) {tempo};
+  % decreasing convex curve from y-axis top to x-axis
+  \draw[thick] (0,3.4) .. controls (2.2,3.2) and (3.8,2.2) .. (4.4,0);
+\end{tikzpicture}

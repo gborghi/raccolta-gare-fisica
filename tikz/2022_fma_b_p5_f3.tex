@@ -1,0 +1,18 @@
+\begin{tikzpicture}[>=Latex]
+  % container walls
+  \draw (-1.6,2.6) -- (-1.6,-2) arc (180:360:1.6 and 0.5) -- (1.6,2.6);
+  % rim ellipse
+  \draw (0,2.6) ellipse (1.6 and 0.5);
+  % liquid surface
+  \fill[cyan!12] (-1.6,1.7) -- (-1.6,-2) arc (180:360:1.6 and 0.5) -- (1.6,1.7) arc (0:180:1.6 and 0.5);
+  \draw (0,1.7) ellipse (1.6 and 0.5);
+  \node[above right] at (0.9,1.6) {$M$};
+  % suspended mass m
+  \fill[black!20] (-0.4,0.2) rectangle (0.4,0.9);
+  \draw (-0.4,0.2) rectangle (0.4,0.9);
+  \node at (0,0.55) {$m$};
+  % string down to bottom
+  \draw (0,0.2) -- (0,-1.5);
+  % bottom (dashed back of base)
+  \draw[dashed] (-1.6,-2) arc (180:0:1.6 and 0.5);
+\end{tikzpicture}

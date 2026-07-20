@@ -1,0 +1,22 @@
+\begin{tikzpicture}[>=Latex]
+  % axes
+  \draw[->] (0,0) -- (0,4) node[above] {$p$};
+  \draw[->] (0,0) -- (5,0) node[right] {$V$};
+  % three isotherm-like decreasing curves from a common upper-left start
+  \draw (1,3.6) .. controls (2,1.6) and (3,1.0) .. (4,0.7);
+  \draw (1,3.2) .. controls (2,1.4) and (3,0.9) .. (4,0.7);
+  \draw (1,2.8) .. controls (2,1.2) and (3,0.85) .. (4,0.7);
+  % arrowheads along curves (pointing down the curves)
+  \draw[->] (1.5,2.3) -- (1.55,2.1);
+  \draw[->] (2.0,1.6) -- (2.1,1.45);
+  \draw[->] (2.7,1.15) -- (2.85,1.08);
+  % p0 level and horizontal arrow
+  \draw[dashed] (0,1.4) -- (4,1.4);
+  \node[left] at (0,1.4) {$p_0$};
+  \draw[->] (1.6,1.4) -- (2.1,1.4);
+  % v1 and v2 on V axis
+  \draw[dashed] (2,0) -- (2,2.9);
+  \draw[dashed] (4,0) -- (4,0.7);
+  \node[below] at (2,0) {$v_1$};
+  \node[below] at (4,0) {$v_2$};
+\end{tikzpicture}

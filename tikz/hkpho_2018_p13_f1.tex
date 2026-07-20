@@ -1,0 +1,15 @@
+\begin{tikzpicture}[>=Latex]
+  % ceiling: hatched block + support line
+  \fill[pattern=north east lines] (4.2,6.0) rectangle (7.0,6.6);
+  \draw[very thick] (4.2,6.0) -- (7.0,6.0);
+  % string
+  \draw[thick] (5.6,6.0) -- (5.6,3.0);
+  \node[right] at (5.75,4.4) {$\%$};
+  % hanging box
+  \draw[very thick,blue] (4.7,1.7) rectangle (6.5,3.0);
+  \node at (5.6,2.35) {$!$};
+  % incoming projectile (left) + block arrow
+  \draw[fill=black,rounded corners=4pt] (0.0,2.18) rectangle (0.7,2.52);
+  \draw[very thick,blue,->] (1.0,2.35) -- (4.6,2.35);
+  \node[above] at (2.6,2.9) {$\#\$$};
+\end{tikzpicture}

@@ -1,0 +1,18 @@
+\begin{tikzpicture}[line width=0.8pt]
+  % vertices
+  \coordinate (T) at (1.6,4.2);   % apex top
+  \coordinate (R) at (3.9,1.4);   % right (dot)
+  \coordinate (L) at (0.5,0.6);   % lower-left (dot)
+  \coordinate (B) at (3.2,3.4);   % back upper vertex
+  % solid edges
+  \draw (T)--(R);
+  \draw (T)--(L);
+  \draw (T)--(B);
+  \draw (B)--(R);
+  \draw (L)--(R);
+  % hidden edge dashed
+  \draw[dashed] (L)--(B);
+  % marked vertices
+  \fill (R) circle (2.2pt);
+  \fill (L) circle (2.2pt);
+\end{tikzpicture}

@@ -1,0 +1,14 @@
+\begin{tikzpicture}[>=Latex,line width=0.8pt]
+  \draw[->,gray] (0,0) -- (0,4) node[above,black] {$y$};
+  \draw[->,gray] (0,0) -- (4,0) node[right,black] {$x$};
+  \draw[line width=1pt] (0,0) -- (0,3) -- (1.5,3) -- (1.5,1.5) -- (3,1.5) -- (3,0) -- cycle;
+  \draw[gray] (-0.08,3) -- (0.08,3);
+  \draw[gray] (-0.08,1.5) -- (0.08,1.5);
+  \draw[gray] (1.5,-0.08) -- (1.5,0.08);
+  \draw[gray] (3,-0.08) -- (3,0.08);
+  \node[left] at (0,3) {$2a$};
+  \node[left] at (0,1.5) {$a$};
+  \node[below] at (1.5,-0.05) {$a$};
+  \node[below] at (3,-0.05) {$2a$};
+  \node[below left] at (0,0) {$0$};
+\end{tikzpicture}

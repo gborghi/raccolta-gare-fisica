@@ -1,0 +1,13 @@
+\begin{tikzpicture}[>=Latex]
+  % outer frame
+  \draw[thick] (0,0) rectangle (6,6.4);
+  % attachment stub from ceiling
+  \draw (3,6.4) -- (3,5.8);
+  % spring
+  \draw[decorate,decoration={coil,aspect=0.6,segment length=3mm,amplitude=2.5mm}]
+    (3,5.8) -- (3,4.0);
+  % short link to block
+  \draw (3,4.0) -- (3,3.7);
+  % hanging block (rounded square)
+  \draw[very thick,rounded corners=6pt] (2.0,1.9) rectangle (4.0,3.7);
+\end{tikzpicture}

@@ -1,0 +1,17 @@
+\begin{tikzpicture}[>=Latex]
+  % horizontal axis
+  \draw[gray] (-2.6,0) -- (4.2,0);
+  \node at (4.4,0) {$x$};
+  % charged ring / ellipse
+  \draw (-1.6,0) ellipse (0.55 and 1.1);
+  \node at (-1.15,1.15) {$Q$};
+  \filldraw (-1.6,0) circle (1.2pt);
+  \node[below] at (-1.6,-0.15) {O};
+  % point P with charge q
+  \filldraw (2.6,0) circle (1.2pt);
+  \node[above] at (2.6,0.12) {P};
+  \node[below] at (2.6,-0.15) {$q$};
+  % velocity vector pointing left
+  \draw[->,thick] (2.6,0) -- (0.9,0);
+  \node[above] at (1.75,0.12) {$\vec{v}_0$};
+\end{tikzpicture}

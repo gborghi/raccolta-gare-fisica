@@ -1,0 +1,13 @@
+\begin{circuitikz}[american]
+  % left source U
+  \draw (0,0) to[battery1, l=$U$] (0,3);
+  % top branch: 3 ohm then 2 ohm
+  \draw (0,3) to[R=$3\,\Omega$] (3,3);
+  \draw (3,3) to[R=$2\,\Omega$] (6,3);
+  % right source 20 V
+  \draw (6,3) to[battery1, l_=$20\,$V] (6,0);
+  % middle branch 4 ohm with 3 A current downward
+  \draw (3,3) to[R=$4\,\Omega$, i=$3\,$A] (3,0);
+  % bottom wire
+  \draw (0,0) -- (6,0);
+\end{circuitikz}

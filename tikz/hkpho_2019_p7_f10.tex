@@ -1,0 +1,18 @@
+\begin{tikzpicture}[line width=0.9pt,>={Latex[length=3mm]}]
+  % ground
+  \draw[line width=1pt] (-1,0) -- (10,0);
+  % big block M
+  \fill[blue!12] (2,0) rectangle (8,0.9);
+  \draw[blue!70!black] (2,0) rectangle (8,0.9);
+  \node[blue!50!black] at (7.4,0.45) {$M$};
+  % small block m
+  \fill[blue!70!black] (2,0.9) rectangle (2.7,1.5);
+  \draw (2,0.9) rectangle (2.7,1.5);
+  \node[above] at (2.35,1.55) {$m$};
+  % velocity v
+  \draw[->,line width=1pt] (2.75,1.2) -- (4.0,1.2);
+  \node[above] at (3.4,1.25) {$v$};
+  % length L
+  \draw[blue,<->] (2,-0.4) -- (8,-0.4);
+  \node[blue,below] at (5,-0.4) {$L$};
+\end{tikzpicture}

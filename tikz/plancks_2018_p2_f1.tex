@@ -1,0 +1,37 @@
+\begin{tikzpicture}[>=Latex,scale=1.0]
+  % conjugated polyene chain (zigzag backbone of C atoms)
+  % backbone vertices
+  \coordinate (c1) at (1.0,0);
+  \coordinate (c2) at (2.0,0.55);
+  \coordinate (c3) at (3.0,0);
+  \coordinate (c4) at (4.0,0.55);
+  \coordinate (c5) at (5.0,0);
+  \coordinate (c6) at (6.0,0.55);
+  \coordinate (c7) at (7.0,0);
+  \coordinate (c8) at (8.0,0.55);
+  % C labels
+  \foreach \p in {c1,c3,c5,c7} {\node[fill=white,inner sep=1pt] at (\p) {$C$};}
+  \foreach \p in {c2,c4,c6,c8} {\node[fill=white,inner sep=1pt] at (\p) {$C$};}
+  % single bonds along backbone
+  \draw (c2) -- (c3);
+  \draw (c4) -- (c5);
+  \draw (c6) -- (c7);
+  % double bonds along backbone
+  \draw (c1) -- (c2);
+  \draw ($(c1)+(0.08,0.13)$) -- ($(c2)+(0.08,0.13)$);
+  \draw (c3) -- (c4);
+  \draw ($(c3)+(0.08,0.13)$) -- ($(c4)+(0.08,0.13)$);
+  \draw (c5) -- (c6);
+  \draw ($(c5)+(0.08,0.13)$) -- ($(c6)+(0.08,0.13)$);
+  \draw (c7) -- (c8);
+  \draw ($(c7)+(0.08,0.13)$) -- ($(c8)+(0.08,0.13)$);
+  % terminal =CH2 double stubs
+  \draw (c1) -- (0.1,0.55);
+  \draw ($(c1)+(0.13,0.05)$) -- (0.23,0.6);
+  \draw (c8) -- (8.9,0);
+  \draw ($(c8)+(0.0,-0.02)$) -- (8.9,0.15);
+  % H atoms on top carbons
+  \foreach \p in {c2,c4,c6,c8} {\draw (\p) -- ($(\p)+(0,0.7)$); \node at ($(\p)+(0,0.95)$) {$H$};}
+  % H atoms on bottom carbons
+  \foreach \p in {c1,c3,c5,c7} {\draw (\p) -- ($(\p)+(0,-0.7)$); \node at ($(\p)+(0,-0.95)$) {$H$};}
+\end{tikzpicture}

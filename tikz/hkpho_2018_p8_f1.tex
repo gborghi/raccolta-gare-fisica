@@ -1,0 +1,16 @@
+\begin{tikzpicture}[line width=0.8pt,>={Latex[length=3mm]}]
+  % horizontal reference arrow with L
+  \node[left] at (-0.1,3.0) {$L$};
+  \draw[->] (0.2,3.0) -- (2.4,3.0);
+  % ball A
+  \fill (3.0,2.4) circle (3pt);
+  \node[above] at (3.0,2.55) {A};
+  % velocity v (red, leftward)
+  \draw[red,line width=1.6pt,->] (2.7,2.2) -- (1.6,2.2);
+  \node[below] at (2.15,2.15) {$v$};
+  % height H down to ground
+  \draw[<->] (3.0,2.25) -- (3.0,0.05);
+  \node[right] at (3.1,1.15) {$H$};
+  % ground
+  \draw[blue] (-0.2,0) -- (4.2,0);
+\end{tikzpicture}

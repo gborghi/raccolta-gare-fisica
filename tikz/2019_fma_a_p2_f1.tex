@@ -1,0 +1,18 @@
+\begin{tikzpicture}[>=Latex]
+  % ground
+  \draw[thick] (0,0) -- (10,0);
+  % curved ramp merging into tall block M
+  \fill[gray!45] (5.0,0) .. controls (6.6,0) and (7.0,1.2) .. (7.0,2.8)
+      -- (7.0,3.4) -- (8.3,3.4) -- (8.3,0) -- cycle;
+  \draw (5.0,0) .. controls (6.6,0) and (7.0,1.2) .. (7.0,2.8)
+      -- (7.0,3.4) -- (8.3,3.4) -- (8.3,0);
+  % small block m
+  \fill[gray!45] (2.2,0) rectangle (2.75,0.55);
+  \draw (2.2,0) rectangle (2.75,0.55);
+  \node at (2.48,0.85) {$m$};
+  % velocity arrow
+  \draw[-{Latex[length=3mm]}] (2.9,0.35) -- (4.1,0.35);
+  \node at (3.5,0.65) {$v$};
+  % label M
+  \node at (8.7,1.8) {$M$};
+\end{tikzpicture}

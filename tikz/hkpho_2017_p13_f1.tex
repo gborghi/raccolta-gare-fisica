@@ -1,0 +1,16 @@
+\begin{tikzpicture}[>=Latex]
+  % ground
+  \fill[blue!8] (-0.3,-0.45) rectangle (5.4,0);
+  \draw (-0.3,-0.45) rectangle (5.4,0);
+  % big block
+  \fill[orange!15] (1.6,0) rectangle (3.6,2);
+  \draw (1.6,0) rectangle (3.6,2);
+  \node at (2.6,1) {$10$ kg};
+  % small block
+  \fill[orange!15] (2.15,2) rectangle (3.05,2.8);
+  \draw (2.15,2) rectangle (3.05,2.8);
+  \node at (2.6,2.4) {$1$ kg};
+  % force arrow
+  \draw[->,line width=2.5pt,blue!60] (0.2,1) -- (1.55,1);
+  \node at (0.85,1.4) {$F$};
+\end{tikzpicture}

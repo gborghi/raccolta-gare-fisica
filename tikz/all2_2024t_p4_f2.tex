@@ -1,0 +1,16 @@
+\begin{tikzpicture}[>=Latex]
+  % cone opening to the right from apex
+  \draw (0,0) -- (6,1.5);
+  \draw (0,0) -- (6,-1.5);
+  % opening angle at apex
+  \draw (1.0,0.25) arc (14:-14:1.03);
+  \node at (0.55,0) {$\theta$};
+  % point inside
+  \fill (4.0,0) circle (0.09);
+  % r dimension
+  \draw[{Latex[length=2mm]}-{Latex[length=2mm]}] (0,1.55) -- (1.8,1.55);
+  \node at (0.9,1.8) {$r$};
+  % d dimension
+  \draw[{Latex[length=2mm]}-{Latex[length=2mm]}] (0,2.25) -- (5.5,2.25);
+  \node at (2.75,2.5) {$d$};
+\end{tikzpicture}

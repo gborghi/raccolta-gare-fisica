@@ -1,0 +1,21 @@
+\begin{tikzpicture}[line width=0.8pt,>={Latex[length=2.5mm]}]
+  % square
+  \draw (0,0) rectangle (5,5);
+  % thick bottom edge
+  \draw[line width=1.6pt] (0,0) -- (5,0);
+  % point source
+  \fill (2.5,0.45) circle (1.6pt);
+  \node[above] at (2.5,0.6) {point source};
+  % d
+  \draw[<->] (2.35,0) -- (2.35,0.45);
+  \node[left] at (2.3,0.24) {$d$};
+  % top dimension L
+  \draw[<->] (0,5.4) -- (5,5.4);
+  \node[above] at (2.5,5.4) {$L$};
+  % right dimension L
+  \draw[<->] (5.4,0) -- (5.4,5);
+  \node[right] at (5.4,2.5) {$L$};
+  % bottom L/2 dimension
+  \draw[<->] (2.5,-0.55) -- (5,-0.55);
+  \node[below] at (3.75,-0.55) {$\tfrac{L}{2}$};
+\end{tikzpicture}

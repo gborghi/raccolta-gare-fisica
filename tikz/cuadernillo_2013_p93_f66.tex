@@ -1,0 +1,20 @@
+\begin{circuitikz}
+  % left battery 10V
+  \draw (0,0) to[battery1, l=10V] (0,2.4);
+  % right battery 10V
+  \draw (6,0) to[battery1, l_=10V] (6,2.4);
+  % top-left branch with ammeter A
+  \draw (0,2.4) -- (1.4,2.4);
+  \node[draw,circle,minimum size=0.62cm,inner sep=0pt] (Am) at (1.85,2.4) {A};
+  \draw (2.3,2.4) -- (3,2.4);
+  % top-right segment
+  \draw (3,2.4) -- (6,2.4);
+  % middle vertical branch with meter B
+  \draw (3,2.4) -- (3,1.6);
+  \node[draw,circle,minimum size=0.62cm,inner sep=0pt] (Bm) at (3,1.15) {B};
+  \draw (3,0.7) -- (3,0);
+  % bottom-left segment
+  \draw (0,0) -- (3,0);
+  % bottom-right segment with resistor Ra
+  \draw (3,0) to[R, l=$R_a$] (6,0);
+\end{circuitikz}

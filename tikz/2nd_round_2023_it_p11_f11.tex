@@ -1,0 +1,24 @@
+\begin{tikzpicture}[>=Latex]
+  % ground
+  \draw (0,0) -- (8,0);
+  % goal posts
+  \draw (0.3,0) -- (0.3,2.0);
+  \draw (7.7,0) -- (7.7,2.0);
+  % corner angle arcs
+  \draw (0.3,0.35) arc (90:0:0.35);
+  \draw (7.35,0) arc (180:90:0.35);
+  % launch point
+  \fill (0.3,0) circle (0.06);
+  \node[left] at (0.25,0.0) {haqiri};
+  % trajectory
+  \draw[thick] (0.3,0) .. controls (2.5,1.9) and (5.0,1.9) .. (6.9,0.05);
+  \draw[-{Latex[length=2.5mm]}] (2.4,1.28) -- (2.55,1.31);
+  % initial velocity direction (dashed) and angle
+  \draw[dashed,-{Latex[length=2.5mm]}] (0.3,0) -- (2.3,1.45);
+  \draw (0.9,0) arc (0:36:0.9);
+  \node at (1.05,0.25) {$\theta$};
+  % goal (porta)
+  \fill[pattern=crosshatch] (2.7,0) rectangle (4.3,0.4);
+  \draw (2.7,0) rectangle (4.3,0.4);
+  \node at (4.0,0.75) {porta};
+\end{tikzpicture}

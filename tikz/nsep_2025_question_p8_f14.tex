@@ -1,0 +1,12 @@
+\begin{tikzpicture}[line width=0.9pt,>={Latex[length=2.5mm]}]
+  % waveform: partial pulse, low gap, then a narrow pulse
+  \draw (0,2) -- (0,0) -- (4,0) -- (4,2) -- (4.6,2) -- (4.6,0) -- (6,0);
+  % pulse width label
+  \node[above] at (4.3,2.05) {200 ns};
+  % period gap 5 ms
+  \draw[<->] (0.3,0.35) -- (3.7,0.35);
+  \node[above] at (2.0,0.4) {5 ms};
+  % amplitude 100 mA
+  \draw[<->] (5.5,0) -- (5.5,2);
+  \node[right] at (5.6,1) {100 mA};
+\end{tikzpicture}

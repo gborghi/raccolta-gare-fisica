@@ -1,0 +1,14 @@
+\begin{tikzpicture}
+  % central axis
+  \draw[dashed] (0,2.2)--(0,-1.6);
+  % upper disk
+  \draw (0,1.4) ellipse (1.5 and 0.35);
+  \draw (-1.5,1.4)--(-1.5,1.05);
+  \draw (1.5,1.4)--(1.5,1.05);
+  \draw (-1.5,1.05) arc (180:360:1.5 and 0.35);
+  % lower disk
+  \draw (0,0.5) ellipse (1.5 and 0.35);
+  \draw (-1.5,0.5)--(-1.5,0.15);
+  \draw (1.5,0.5)--(1.5,0.15);
+  \draw (-1.5,0.15) arc (180:360:1.5 and 0.35);
+\end{tikzpicture}

@@ -1,0 +1,23 @@
+\begin{tikzpicture}[>=Latex]
+  % ground at lower left
+  \draw[very thick] (0,0) -- (3.2,0);
+  % ball m on ground
+  \fill (0.8,0) circle (0.10);
+  \node at (0.45,-0.05) {$m$};
+  % velocity v at angle alpha
+  \draw[-{Latex[length=3mm]}] (0.8,0) -- (1.9,1.05);
+  \node at (2.05,1.15) {$v$};
+  \draw (1.25,0) arc (0:44:0.45);
+  \node at (1.35,0.18) {$\alpha$};
+  % box M
+  \draw (4.0,2.5) rectangle (5.5,4.0);
+  \node at (4.75,3.25) {$M$};
+  % short velocity arrow u
+  \draw[-{Latex[length=3mm]}] (4.25,4.3) -- (4.25,5.2);
+  \node at (4.0,4.75) {$u$};
+  % long pulling arrow from top of box
+  \draw[-{Latex[length=3mm]}] (4.9,4.0) -- (4.9,5.7);
+  % dimension L on right of box
+  \draw[{Latex[length=2.5mm]}-{Latex[length=2.5mm]}] (5.8,2.5) -- (5.8,4.0);
+  \node at (6.05,3.25) {$L$};
+\end{tikzpicture}

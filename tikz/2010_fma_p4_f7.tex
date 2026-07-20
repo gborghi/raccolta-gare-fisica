@@ -1,0 +1,28 @@
+\begin{tikzpicture}[>=Latex]
+  % two fixed pivots at top separated by a
+  \coordinate (L) at (0,4);
+  \coordinate (Rp) at (4,4);
+  \filldraw (L) circle (1.5pt);
+  \filldraw (Rp) circle (1.5pt);
+  % distance a between pivots
+  \draw[<->] (0,4.45) -- (4,4.45);
+  \node[above] at (2,4.45) {$a$};
+  % middle raised mass
+  \coordinate (Mid) at (2,3.4);
+  % ropes: left pivot to middle, middle to right pivot
+  \draw (L) -- (Mid);
+  \draw (Mid) -- (Rp);
+  \filldraw[fill=black!20] (Mid) circle (0.28);
+  % hanging masses
+  \coordinate (ML) at (1.0,2.0);
+  \coordinate (MR) at (3.4,2.6);
+  \draw (L) -- (ML);
+  \draw (Rp) -- (MR);
+  \filldraw[fill=black!20] (ML) circle (0.28);
+  \filldraw[fill=black!20] (MR) circle (0.28);
+  % offset b between top line and middle mass
+  \draw[dotted] (0,4) -- (5,4);
+  \draw[dotted] (2,3.4) -- (5,3.4);
+  \draw[<->] (4.7,4) -- (4.7,3.4);
+  \node[right] at (4.8,3.7) {$b$};
+\end{tikzpicture}

@@ -1,0 +1,18 @@
+\begin{tikzpicture}[>=Latex,line width=0.8pt]
+  \draw[->] (0,0) -- (0,4) node[above] {$P$};
+  \draw[->] (0,0) -- (4.6,0) node[right] {$V$};
+  % convergence point
+  \coordinate (C) at (3.2,1.0);
+  \draw[-{Latex}] (C) -- (1.5,3.3);
+  \draw[-{Latex}] (C) -- (1.5,2.6);
+  \draw[-{Latex}] (C) -- (1.9,2.1);
+  \draw[-{Latex}] (C) -- (2.3,1.6);
+  \draw[-{Latex}] (1.5,1.0) -- (2.5,1.0);
+  % guides
+  \draw[dashed] (0,1.0) -- (C);
+  \draw[dashed] (1.5,0) -- (1.5,3.3);
+  \draw[dashed] (3.2,0) -- (C);
+  \node[left] at (0,1.0) {$p_0$};
+  \node[below] at (1.5,0) {$v_1$};
+  \node[below] at (3.2,0) {$v_2$};
+\end{tikzpicture}

@@ -1,0 +1,18 @@
+\begin{tikzpicture}[>=Latex]
+  % ground
+  \draw[line width=1.2pt] (-0.5,0) -- (7,0);
+  % big block M
+  \draw[line width=1pt] (1,0) rectangle (5,3);
+  \node at (3,1.5) {$M$};
+  % small block m1 on top
+  \draw (2,3) rectangle (3.3,3.8);
+  \node at (2.65,3.4) {$m_1$};
+  % pulley at top-right corner of M
+  \draw (5,3.4) circle (0.22);
+  % rope from m1 over pulley to m2
+  \draw (3.3,3.55) -- (4.8,3.55);
+  \draw (5.22,3.4) -- (5.22,2.2);
+  % hanging block m2
+  \draw (4.85,1.4) rectangle (5.6,2.2);
+  \node at (5.22,1.8) {$m_2$};
+\end{tikzpicture}

@@ -1,0 +1,17 @@
+\begin{tikzpicture}[line width=0.8pt]
+% top weight
+\draw (-0.35,2.2) rectangle (0.35,4.0);
+\node[rotate=90] at (0,3.1) {12.0 kg};
+% rounded mass in bucket
+\draw[rounded corners=8pt] (-0.5,1.4) rectangle (0.5,2.15);
+% bucket
+\draw (-0.9,1.5) -- (-0.9,0.6) -- (0.9,0.6) -- (0.9,1.5);
+\draw (-0.9,1.5) -- (-0.75,1.5);
+\draw (0.9,1.5) -- (0.75,1.5);
+% base platform
+\draw (-1.5,0.0) rectangle (1.5,0.55);
+\node at (0,0.27) {45.0 kg};
+% feet
+\draw (-1.2,-0.2) rectangle (-0.8,0.0);
+\draw (0.8,-0.2) rectangle (1.2,0.0);
+\end{tikzpicture}

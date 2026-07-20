@@ -1,0 +1,15 @@
+\begin{tikzpicture}[>=Latex]
+  % rectangle with semicircular right end
+  \draw (0,0) -- (3,0);
+  \draw (0,-2) -- (3,-2);
+  \draw (0,0) -- (0,-2);
+  \draw (3,0) arc (90:-90:1);
+  % dashed vertical at junction
+  \draw[dashed] (3,0) -- (3,-2);
+  % top flow arrow
+  \draw[->] (0,0.35) -- (3,0.35);
+  \node[above left] at (2.4,0.35) {$1\,\mu$m};
+  % height dimension
+  \draw[<->] (4.4,0) -- (4.4,-2);
+  \node[right] at (4.5,-1) {$1\,\mu$m};
+\end{tikzpicture}

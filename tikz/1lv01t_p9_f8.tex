@@ -1,0 +1,15 @@
+\begin{tikzpicture}[line width=0.9pt]
+\coordinate (O) at (1.2,3.4);
+\coordinate (B) at (0,1.4);
+\fill (O) circle (2pt);
+\draw[dashed] (1.2,3.4) -- (1.2,0.4);
+\draw (O) -- (B);
+\fill[gray!45] (B) circle (0.32);
+\draw (B) circle (0.32);
+\node at (1.0,2.6) {$\theta$};
+\draw[-{Latex}] (B) -- (-1.2,1.4);
+\node[below] at (-1.1,1.35) {$\vec F$};
+\draw[-{Latex}] (B) -- (0,-0.1);
+\node[right] at (0,0.1) {$\vec P$};
+\foreach \y in {2.6,1.6,0.6}{ \draw[gray,line width=1.4pt,-{Latex}] (2.6,\y) -- (1.8,\y); }
+\end{tikzpicture}

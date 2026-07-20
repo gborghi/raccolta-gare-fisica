@@ -1,0 +1,18 @@
+\begin{tikzpicture}[>=Latex]
+  % axis line dashed
+  \draw[dashed] (-1,0) -- (7,0);
+  % charges
+  \filldraw (0,0) circle (5pt);
+  \node[above] at (0,0.25) {$Q_1$};
+  \filldraw (6,0) circle (5pt);
+  \node[above] at (6,0.25) {$Q_2$};
+  % point A
+  \draw (4.5,0) circle (2.5pt);
+  \node[above] at (4.5,0.25) {A};
+  % distance d
+  \draw[<->] (0,-0.9) -- (6,-0.9);
+  \node[below] at (3,-0.9) {$d$};
+  \draw[dotted] (0,0) -- (0,-0.9);
+  \draw[dotted] (6,0) -- (6,-0.9);
+  \node at (3,-1.7) {\textbf{Figura 2}};
+\end{tikzpicture}

@@ -1,0 +1,15 @@
+\begin{tikzpicture}[>=Latex]
+  % table top
+  \draw[fill=orange!25] (0,0) rectangle (5,0.6);
+  % table leg
+  \draw[fill=orange!25] (2,-2) rectangle (3,0);
+  \node at (2.5,0.3) {Tisch};
+  % can (cylinder cross-section) resting on table
+  \draw[fill=gray!25] (2.5,1.35) circle (0.75);
+  \node at (2.5,1.35) {Dose};
+  % ruler resting on top of can
+  \draw[fill=orange!45] (0.2,2.1) rectangle (2.5,2.35);
+  \node[above] at (1.2,2.4) {Lineal};
+  % push direction
+  \draw[->,thick] (2.6,2.22) -- (3.5,2.22);
+\end{tikzpicture}

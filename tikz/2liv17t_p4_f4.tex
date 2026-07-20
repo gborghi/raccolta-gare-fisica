@@ -1,0 +1,24 @@
+\begin{tikzpicture}[>=Latex]
+  \draw[->] (0,0) -- (4.3,0) node[right] {$T$};
+  \draw[->] (0,0) -- (0,3.5) node[above] {$V$};
+  \coordinate (A) at (1.5,1.0);
+  \coordinate (B) at (1.5,2.6);
+  \coordinate (C) at (3.2,2.6);
+  \coordinate (D) at (3.2,1.0);
+  \draw[dashed] (0,1.0) -- (D);
+  \draw[dashed] (0,2.6) -- (C);
+  \draw[dashed] (1.5,0) -- (B);
+  \draw[dashed] (3.2,0) -- (D);
+  \draw[->] (A) -- (B);
+  \draw[->] (B) -- (C);
+  \draw[->] (C) -- (D);
+  \draw[->] (D) -- (A);
+  \node[below left] at (A) {A};
+  \node[above left] at (B) {B};
+  \node[above right] at (C) {C};
+  \node[below right] at (D) {D};
+  \node[left] at (0,2.6) {$V_2$};
+  \node[left] at (0,1.0) {$V_1$};
+  \node[below] at (1.5,0) {$T_1$};
+  \node[below] at (3.2,0) {$T_2$};
+\end{tikzpicture}

@@ -1,0 +1,20 @@
+\begin{tikzpicture}[line width=0.8pt,>={Latex[length=2.5mm]}]
+  % axes
+  \draw[->] (0,-4.6) -- (0,3.0);
+  \draw[->] (-0.3,0) -- (6,0);
+  \node[above right] at (0,2.9) {$a$ [m/s$^2$]};
+  \node[below right] at (5.5,0) {$t$ [s]};
+  % y ticks
+  \foreach \y/\lab in {2/2,-2/-2,-4/-4}{
+    \draw (-0.08,\y) -- (0.08,\y);
+    \node[left] at (-0.1,\y) {\lab};}
+  \node[left] at (-0.1,0) {0};
+  % x ticks
+  \foreach \x in {1,2,3,4,5}{
+    \draw (\x,-0.08) -- (\x,0.08);
+    \node[below] at (\x,-0.12) {\x};}
+  % step function
+  \draw[line width=1pt] (0,2) -- (2,2);
+  \draw[line width=1pt,dashed] (2,2) -- (2,-4);
+  \draw[line width=1pt] (2,-4) -- (4,-4);
+\end{tikzpicture}

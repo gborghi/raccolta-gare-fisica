@@ -1,0 +1,14 @@
+\begin{tikzpicture}[>=Latex]
+  % horizontal axis line
+  \draw (0,0)--(6,0);
+  % left: point with field marker
+  \draw (1.2,0) circle (0.35);
+  \fill (1.2,0) circle (0.05);
+  \node[above] at (1.2,0.55) {$2F$};
+  % right: closed field loop enclosing a point
+  \fill (4.6,0) circle (0.05);
+  \draw (4.9,0) ellipse (0.75 and 0.5);
+  \node[above] at (4.9,0.6) {$2F$};
+  % central vertical double arrow
+  \draw[<->,very thick] (3,-1)--(3,1);
+\end{tikzpicture}

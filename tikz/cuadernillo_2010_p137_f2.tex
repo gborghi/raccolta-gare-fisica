@@ -1,0 +1,15 @@
+\begin{tikzpicture}[>=Latex]
+  % optical axis
+  \draw[thick] (-4,0) -- (4,0);
+  % lens plane
+  \draw (0,-1.4) -- (0,1.4);
+  \draw[->] (0,1.4) -- (0,1.0);
+  % object/image horizontal segments
+  \draw (-2.6,0.85) -- (0,0.85);
+  \draw (-2.6,-0.95) -- (0,-0.95);
+  % converging dotted cone toward focus
+  \draw[dotted] (-3.4,0) -- (0,0.85);
+  \draw[dotted] (-3.4,0) -- (0,-0.95);
+  % refracted ray
+  \draw[->,thick] (0,0.85) -- (2.6,1.65);
+\end{tikzpicture}

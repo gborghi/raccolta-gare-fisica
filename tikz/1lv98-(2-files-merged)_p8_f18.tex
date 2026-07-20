@@ -1,0 +1,19 @@
+\begin{tikzpicture}[>=Latex]
+  % ground
+  \fill[gray!40] (-0.2,-0.08) rectangle (6.2,0.08);
+  % reference line
+  \draw[dashed] (0.4,1.3) -- (5.6,1.3);
+  % trajectory
+  \draw[thick] plot[smooth,tension=0.8] coordinates {(1.0,1.3) (3.0,2.6) (5.0,1.3)};
+  % incoming velocity
+  \draw[->,thick] (0.5,0.45) -- (1.0,1.3);
+  \fill (1.0,1.3) circle (1.8pt);
+  \node[above left] at (1.0,1.3) {$X$};
+  % apex
+  \node[above] at (3.0,2.6) {$Y$};
+  % Z
+  \fill (5.0,1.3) circle (1.8pt);
+  \node[above right] at (5.0,1.3) {$Z$};
+  % outgoing velocity
+  \draw[->,thick] (5.0,1.3) -- (5.5,0.45);
+\end{tikzpicture}

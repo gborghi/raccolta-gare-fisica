@@ -1,0 +1,12 @@
+\begin{tikzpicture}[>=Latex]
+  % axes
+  \draw[->] (-2.4,0) -- (2.4,0) node[right] {x};
+  \draw[->] (0,-2.4) -- (0,2.4) node[above] {y};
+  % circle
+  \draw (0,0) circle (1.6);
+  % tension label at top of circle
+  \node[above right] at (0,1.6) {$T_{2C}$};
+  % weight vector downward beyond circle
+  \draw[->,line width=1pt] (0,-1.6) -- (0,-2.9);
+  \node[right] at (0,-2.0) {$P_C$};
+\end{tikzpicture}

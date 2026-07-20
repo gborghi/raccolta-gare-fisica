@@ -1,0 +1,22 @@
+\begin{tikzpicture}[>=Latex]
+  % support block
+  \fill[gray!30] (0,0.2) rectangle (3.5,1.5);
+  \node[right] at (3.55,0.85) {$L/2$};
+  % rod L attached at pivot, going up-left
+  \draw[line width=2pt] (0,0.2) -- (-1.7,1.5);
+  \node at (-1.1,1.1) {$L$};
+  % pivot
+  \fill (0,0.2) circle (0.04);
+  % vertical reference
+  \draw[dashed] (0,0.2) -- (0,-2.2);
+  % string to first mass (angle theta)
+  \draw (0,0.2) -- (-1.0,-1.7) coordinate (m1);
+  \draw[fill=white] (m1) circle (0.18);
+  % string to second mass (angle phi < theta)
+  \draw (0,0.2) -- (-0.35,-1.9) coordinate (m2);
+  \draw[fill=white] (m2) circle (0.18);
+  % angle labels
+  \node at (-0.55,-0.75) {$\theta$};
+  \node at (-0.13,-1.0) {$\phi$};
+  \node at (1.0,-2.7) {(b) $\phi < \theta$};
+\end{tikzpicture}

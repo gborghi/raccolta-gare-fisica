@@ -1,0 +1,27 @@
+\begin{tikzpicture}[>=Latex]
+  % outer and inner circles (spool)
+  \draw[line width=1pt] (0,0) circle (2);
+  \draw[line width=1pt] (0,0) circle (0.9);
+  % ground (hatched) tangent to bottom
+  \draw[line width=1pt] (-2.4,-2) -- (2.4,-2);
+  \foreach \x in {-2.2,-1.9,...,2.3}{
+    \draw (\x,-2) -- ++(-0.18,-0.22);
+  }
+  % radius A to outer circle (upper-left)
+  \draw (0,0) -- (135:2);
+  \node at (135:1.2) {$A$};
+  % radius B to inner circle
+  \draw (0,0) -- (-25:0.9);
+  \node at (-18:0.5) {$B$};
+  % applied force F at angle theta from a point on inner circle, up-right
+  \coordinate (P) at (-25:0.9);
+  \draw[->,line width=1pt] (P) -- ++(20:1.9) node[above right] {$F$};
+  % horizontal dashed reference through P for angle theta
+  \draw[dashed] (P) -- ++(1.9,0);
+  \draw (P)++(0.9,0) arc (0:20:0.9);
+  \node at ($(P)+(1.15,0.18)$) {$\theta$};
+  % normal N up at contact
+  \draw[->,line width=1pt] (0,-2) -- (0,-1.1) node[right] {$N$};
+  % friction f to left at ground
+  \draw[->,line width=1pt] (0,-2) -- (-0.9,-2) node[below] {$f$};
+\end{tikzpicture}

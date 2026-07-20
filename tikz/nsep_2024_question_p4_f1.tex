@@ -1,0 +1,14 @@
+\begin{tikzpicture}[line width=0.8pt,>={Latex[length=2.5mm]}]
+  % dashed circle
+  \draw[dashed] (0,0) circle (2);
+  % centre O and radius to P
+  \fill (0,0) circle (1.4pt);
+  \node[below left] at (0,0) {O};
+  \fill (2,0) circle (1.4pt);
+  \node[right] at (2.05,0) {P};
+  \draw (0,0) -- (2,0);
+  \node[above] at (1,0.05) {$l$};
+  % velocity u downward at P
+  \draw[->] (2,0) -- (2,-0.95);
+  \node[right] at (2.05,-0.7) {$u$};
+\end{tikzpicture}

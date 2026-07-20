@@ -1,0 +1,17 @@
+\begin{tikzpicture}[line width=0.9pt]
+  \coordinate (C) at (0,0);
+  \coordinate (I) at (-0.85,2.05); % point on circle
+  % circle arc (mirror surface)
+  \draw (I) ++(0,0) arc (112:-150:2.22);
+  % radius CI (dotted)
+  \draw[dotted,line width=1pt] (C) -- (I);
+  \node[below right] at (C) {$C$};
+  % incoming beam T to I
+  \draw[-{Latex}] (2.1,2.9) -- (I);
+  \node[above] at (1.0,2.75) {\textbf{BEAM}};
+  \node[right] at (2.1,2.75) {$T$};
+  % point I marker
+  \node[above left] at (I) {$I$};
+  % angle between radius and beam
+  \node at (-0.35,1.55) {$65^\circ$};
+\end{tikzpicture}

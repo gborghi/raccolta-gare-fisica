@@ -1,0 +1,14 @@
+\begin{tikzpicture}[>=Latex]
+  % ground with hatching
+  \draw[thick] (0,0) -- (7,0);
+  \foreach \x in {0.3,0.7,...,6.9} {\draw (\x,0) -- (\x-0.25,-0.28);}
+  % block A
+  \draw[fill=gray!12] (1.0,0) rectangle (4.2,1.2);
+  \node at (2.6,0.55) {A};
+  % block B on top
+  \draw[fill=gray!25] (2.1,1.2) rectangle (3.1,1.9);
+  \node at (2.6,1.55) {B};
+  % force F
+  \draw[very thick,->] (4.2,0.6) -- (5.9,0.6);
+  \node[above] at (5.0,0.6) {$F$};
+\end{tikzpicture}

@@ -1,0 +1,13 @@
+\begin{circuitikz}[line width=0.8pt]
+  \draw (0,4) to[C=$C_1$] (0,2);
+  \draw (0,2) to[C=$C_2$] (0,0);
+  \draw (0,4) -- (6,4);
+  \draw (0,0) -- (6,0);
+  \draw (3,4) to[R=$R$] (3,1.9);
+  \draw (3,1.9) to[cspst] (3,1.0);
+  \draw (3,1.0) to[battery1=$\mathcal{E}$] (3,0);
+  \draw (6,4) to[C=$C_3$] (6,0);
+  \node at (-0.65,3.0) {$q_1$};
+  \node at (-0.65,1.0) {$q_2$};
+  \node at (5.35,2.4) {$q_3$};
+\end{circuitikz}

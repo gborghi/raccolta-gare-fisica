@@ -1,0 +1,13 @@
+\begin{circuitikz}[american voltages]
+  % top rail with battery
+  \draw (0,0) to[battery1,l=$V$] (0,2.5);
+  \draw (0,2.5) -- (6,2.5);
+  \draw (0,0) -- (6,0);
+  % four resistors in parallel
+  \draw (1.5,2.5) to[R,l=$R_1$] (1.5,0);
+  \draw (3,2.5) to[R,l=$R_2$] (3,0);
+  \draw (4.5,2.5) to[R,l=$R_3$] (4.5,0);
+  \draw (6,2.5) to[R,l=$R_4$] (6,0);
+  % ammeter on bottom rail
+  \draw (3,0) to[ammeter] (4.5,0);
+\end{circuitikz}

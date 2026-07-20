@@ -1,0 +1,18 @@
+\begin{tikzpicture}[>=Latex]
+  % cylinder body
+  \draw (-1,-2) -- (-1,1.2);
+  \draw (1,-2) -- (1,1.2);
+  % top ellipse
+  \draw (0,1.2) ellipse (1 and 0.35);
+  % bottom ellipse (front solid, back dotted)
+  \draw (-1,-2) arc (180:360:1 and 0.35);
+  \draw[dotted] (1,-2) arc (0:180:1 and 0.35);
+  % Y axis vertical through top into cylinder
+  \draw (0,2.3) -- (0,1.2);
+  \draw[dotted] (0,1.2) -- (0,-0.4);
+  \node[above] at (0,2.3) {Y};
+  % X axis horizontal from centre out to right
+  \draw[dotted] (0,-0.4) -- (1,-0.4);
+  \draw (1,-0.4) -- (2.5,-0.4);
+  \node[right] at (2.5,-0.4) {X};
+\end{tikzpicture}

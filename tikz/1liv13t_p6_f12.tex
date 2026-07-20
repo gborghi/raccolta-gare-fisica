@@ -1,0 +1,21 @@
+\begin{tikzpicture}[>=Latex]
+  % ground
+  \draw[thick] (-0.3,0) -- (8.3,0);
+  % cart A
+  \draw[fill=gray!25,rounded corners=2pt] (0.3,0.3) rectangle (3.3,1.5);
+  \node at (1.8,0.9) {\Large A};
+  \node at (1.8,1.9) {$2\,$kg};
+  % wheels A
+  \fill (0.9,0.3) circle (2.2pt);
+  \fill (2.7,0.3) circle (2.2pt);
+  % cart B
+  \draw[fill=gray!25,rounded corners=2pt] (5.3,0.3) rectangle (7.3,1.5);
+  \node at (6.3,0.9) {\Large B};
+  \node at (6.3,1.9) {$1\,$kg};
+  % wheels B
+  \fill (5.7,0.3) circle (2.2pt);
+  \fill (6.9,0.3) circle (2.2pt);
+  % spring between A and B
+  \draw[decorate,decoration={coil,aspect=0.6,segment length=3.2mm,amplitude=2.2mm}]
+    (3.3,0.9) -- (5.3,0.9);
+\end{tikzpicture}

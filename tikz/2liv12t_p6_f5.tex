@@ -1,0 +1,22 @@
+\begin{circuitikz}[american]
+  % left source
+  \draw (0,0) to[battery1, l=$V$] (0,4);
+  % top wire to R1
+  \draw (0,4) -- (3,4);
+  \draw (3,4) to[R=$R_1$] (3,2.2);
+  \draw (3,2.2) to[R=$R_2$] (3,0.4);
+  \draw (3,0.4) -- (3,0) -- (0,0);
+  % node A (junction R1-R2) out to terminal
+  \draw (3,2.2) -- (4.2,2.2);
+  \draw[fill=white] (4.35,2.2) circle (2.2pt);
+  \node[above left] at (4.35,2.2) {A};
+  % node B (below R2) out to terminal
+  \draw (3,0.4) -- (4.2,0.4);
+  \draw[fill=white] (4.35,0.4) circle (2.2pt);
+  \node[below left] at (4.35,0.4) {B};
+  % switches to the lamp
+  \draw (4.5,2.2) to[switch] (6,2.2);
+  \draw (4.5,0.4) to[switch] (6,0.4);
+  % lamp on the right
+  \draw (6,2.2) to[lamp] (6,0.4);
+\end{circuitikz}

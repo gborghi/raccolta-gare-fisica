@@ -1,0 +1,16 @@
+\begin{tikzpicture}[line width=0.8pt,>={Latex[length=2.5mm]}]
+  % light grid
+  \draw[gray!40,very thin] (0,0) grid (5.5,3.3);
+  % axes
+  \draw[->] (0,0) -- (6,0);
+  \draw[->] (0,0) -- (0,3.6);
+  \node[above right] at (0,3.5) {$F$ [N]};
+  \node[below right] at (5.4,0) {$t$ [s]};
+  % ticks
+  \foreach \y in {1,2,3}{\node[left] at (0,\y) {\y};}
+  \foreach \x in {1,2,3,4,5}{\node[below] at (\x,0) {\x};}
+  \node[below left] at (0,0) {0};
+  % curve F(t)
+  \draw[line width=1pt,smooth]
+    plot coordinates {(0,0)(0.6,1.05)(1,1.55)(1.6,1.95)(2,2.05)(3,2.05)(4,1.98)(4.6,2.1)(5.2,2.55)};
+\end{tikzpicture}

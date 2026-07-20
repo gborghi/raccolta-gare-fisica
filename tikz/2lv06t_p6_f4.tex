@@ -1,0 +1,17 @@
+\begin{tikzpicture}[>=Latex]
+  % ground strip
+  \fill[gray!30] (0,-0.35) rectangle (8,0);
+  \draw (0,0) -- (8,0);
+  % beam
+  \fill[gray!55] (0.5,3.0) rectangle (7.5,3.3);
+  \draw (0.5,3.0) rectangle (7.5,3.3);
+  \node at (4.0,3.7) {$L$};
+  % spring at left end
+  \draw[decorate,decoration={coil,aspect=0.55,segment length=3mm,amplitude=2.2mm}]
+      (1.0,3.0) -- (1.0,0.1);
+  % supporting rod at L/3
+  \draw[very thick] (2.8,0) -- (2.8,3.0);
+  \node at (3.1,1.5) {$h$};
+  % label L/3 near base
+  \node at (1.9,0.18) {$L/3$};
+\end{tikzpicture}

@@ -1,0 +1,13 @@
+\begin{tikzpicture}[>=Latex]
+  % ground
+  \draw[thick] (-0.2,0) -- (6.2,0);
+  % block
+  \draw (0.4,0) rectangle (1.4,1.0);
+  % spring to wall
+  \draw[decorate,decoration={coil,segment length=5pt,amplitude=4pt}] (1.4,0.5) -- (4.8,0.5);
+  % wall
+  \fill[pattern=north east lines] (4.8,0) rectangle (5.4,1.6);
+  \draw (4.8,0) rectangle (5.4,1.6);
+  % distance
+  \draw[<->] (0.4,1.5) -- (2.6,1.5);
+\end{tikzpicture}

@@ -1,0 +1,19 @@
+\begin{circuitikz}[line width=0.7pt]
+  % battery on the left
+  \draw (0,1) to[battery1,l_=9V] (0,3);
+  \node[left] at (-0.05,2.6) {$+$};
+  % top-left wire to Q
+  \draw (0,3) -- (2,3) node[above left]{Q} coordinate (Q);
+  % top resistor Q-R
+  \draw (Q) to[R,l=$7\Omega$] (5,3) node[above right]{R} coordinate (R);
+  % left vertical resistor Q-P
+  \draw (Q) to[R,l=$4\Omega$] (2,1) node[below]{P} coordinate (P);
+  % right vertical resistor R-S
+  \draw (R) to[R,l=$2\Omega$] (5,1) node[right]{S} coordinate (S);
+  % bottom resistor P-S
+  \draw (P) to[R,l=$5\Omega$] (S);
+  % bottom-left wire
+  \draw (0,1) -- (P);
+  % S down to T
+  \draw (S) -- (5,0) node[right]{T};
+\end{circuitikz}

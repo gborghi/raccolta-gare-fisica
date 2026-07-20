@@ -1,0 +1,8 @@
+\begin{circuitikz}[american]
+  \draw (0,0) to[battery1, l=$6\,\mathrm{V}$] (0,3);
+  \draw (0,3) to[R=$10\,\Omega$] (3,3);
+  \draw (3,3) to[ammeter] (6,3);
+  \draw (6,3) to[battery1, l_=$2\,\mathrm{V}$] (6,0);
+  \draw (3,3) to[R=$5\,\Omega$] (3,0);
+  \draw (0,0) -- (6,0);
+\end{circuitikz}

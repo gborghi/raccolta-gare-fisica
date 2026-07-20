@@ -1,0 +1,20 @@
+\begin{tikzpicture}[line width=1pt]
+  % lower ledge / support: horizontal top surface with a vertical post
+  \draw (0,1.4) -- (3.6,1.4);          % floor into the step
+  \draw (3.6,1.4) -- (3.6,0);          % vertical post
+  % lower block sitting on the ledge
+  \draw (1.7,1.4) rectangle (5.6,2.3);
+  % upper block, shifted right, overhanging
+  \draw (2.7,2.3) rectangle (6.6,3.2);
+  % dashed reference verticals
+  \draw[dashed,blue] (2.7,2.3) -- (2.7,4.0);
+  \draw[dashed,blue] (6.6,3.2) -- (6.6,4.0);
+  \draw[dashed,blue] (3.6,0) -- (3.6,0.9);
+  \draw[dashed,blue] (6.6,0) -- (6.6,1.5);
+  % S measure (top)
+  \draw[{Latex}-{Latex},blue] (2.7,3.8) -- (6.6,3.8);
+  \node[above] at (4.65,3.8) {$S$};
+  % L measure (bottom)
+  \draw[{Latex}-{Latex},blue] (3.6,0.6) -- (6.6,0.6);
+  \node[below] at (5.1,0.6) {$L$};
+\end{tikzpicture}

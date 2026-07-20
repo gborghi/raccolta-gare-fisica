@@ -1,0 +1,27 @@
+\begin{tikzpicture}[>=Latex]
+  % baseline
+  \draw[thin] (0,0) -- (8.6,0);
+  % sources (open circles) on the left
+  \coordinate (A) at (0,0.55);   % upper source
+  \coordinate (B) at (0,-0.55);  % lower source
+  \draw[fill=white] (A) circle (2pt);
+  \draw[fill=white] (B) circle (2pt);
+  % point P (filled)
+  \coordinate (P) at (8,0.45);
+  \fill (P) circle (2pt);
+  \node[above] at (P) {$P$};
+  % dashed median from origin to P
+  \draw[dashed] (0,0) -- (P);
+  % rays
+  \draw (A) -- (P);
+  \draw (B) -- (P);
+  % labels of paths
+  \node at (1.6,0.55) {$L_2$};
+  \node at (1.6,-0.75) {$L_1$};
+  % angle theta near P
+  \node at (5.4,0.15) {$\theta$};
+  % small vertical extent marks on the right
+  \draw[thin] (8.35,-0.55) -- (8.35,0.55);
+  \draw[thin] (8.3,0.55) -- (8.4,0.55);
+  \draw[thin] (8.3,-0.55) -- (8.4,-0.55);
+\end{tikzpicture}

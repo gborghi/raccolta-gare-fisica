@@ -1,0 +1,21 @@
+\begin{tikzpicture}[>=Latex]
+  % rod (thick bar) pivoted at left
+  \draw[fill=white,thick] (0,-0.15) rectangle (6,0.15);
+  % pivot dot
+  \fill[gray!60] (0.35,0) circle (2.5pt);
+  \node[below] at (0,-0.2) {Pivot};
+  % spring from rod right end to post
+  \draw[decorate,decoration={coil,aspect=0.6,segment length=2.4mm,amplitude=1.6mm}]
+    (6,0) -- (7.8,0);
+  % post (open circle)
+  \draw[fill=white] (8.15,0) circle (2.5pt);
+  \node[below] at (8.15,-0.2) {Post};
+  % natural-length dotted marker in spring region
+  \draw[dotted] (7.4,-0.4) -- (7.4,0.5);
+  % dimension l over the rod
+  \draw[|<->|] (0,0.7) -- (6,0.7);
+  \node[above] at (3,0.7) {$l$};
+  % dimension L+l over the spring
+  \draw[|<->|] (6,0.7) -- (8.15,0.7);
+  \node[above] at (7.05,0.7) {$L+l$};
+\end{tikzpicture}

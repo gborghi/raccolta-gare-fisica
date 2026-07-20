@@ -1,0 +1,20 @@
+\begin{tikzpicture}[>=Latex]
+  % tilted platform (parallelogram)
+  \draw[line width=1pt] (-2,1.2) -- (1.4,1.2) -- (2.4,0.2) -- (-1,0.2) -- cycle;
+  % pivot point on platform
+  \coordinate (O) at (0.2,0.7);
+  \fill (O) circle (0.04);
+  % dashed circular path of mass m
+  \draw[dashed] (O) ++(0.9,0) arc (0:360:0.9 and 0.32);
+  % radius to mass m
+  \draw[->] (O) -- ++(0.9,0.28) node[above right] {$m$};
+  % string down to blocks
+  \draw (O) -- (0.2,-1);
+  % two blocks M
+  \draw (-0.2,-1.5) rectangle (0.6,-1);
+  \node[right] at (0.6,-1.25) {$M$};
+  \draw (-0.2,-2.1) rectangle (0.6,-1.6);
+  \node[right] at (0.6,-1.85) {$M$};
+  \draw (0.2,-1) -- (0.2,-1.5);
+  \draw (0.2,-1.6) -- (0.2,-1.6);
+\end{tikzpicture}

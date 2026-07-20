@@ -1,0 +1,14 @@
+\begin{tikzpicture}[>=Latex]
+  % vertical wall (hatched region)
+  \fill[gray!25] (-0.4,-2.6) rectangle (0,0.4);
+  \draw (0,-2.6) -- (0,0.4);
+  % ground reference (rod meets floor at right)
+  % leaning rod from top of wall down to floor
+  \coordinate (A) at (0,0);        % top contact on wall
+  \coordinate (B) at (4,-2.6);     % bottom on floor
+  \draw[line width=1.6pt] (A) -- (B);
+  % angle theta at B between rod and horizontal
+  \draw[thin] (B) -- ++(-1.6,0);
+  \draw (2.4,-2.6) arc (180:180-33:1.6);
+  \node at (2.75,-2.25) {$\theta$};
+\end{tikzpicture}

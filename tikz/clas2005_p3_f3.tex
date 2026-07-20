@@ -1,0 +1,13 @@
+\begin{tikzpicture}[line width=0.8pt]
+\draw[-{Latex}] (0,0) -- (0,3.2);
+\draw[-{Latex}] (0,0) -- (5,0);
+\node[above] at (1.8,3.2) {\textit{aceleraci\'on gravitacional}};
+\node[right] at (5,0) {$r$};
+\node[below left] at (0,0) {$0$};
+\draw[dotted] (0,2.4) -- (1.5,2.4);
+\draw[dotted] (1.5,0) -- (1.5,2.4);
+\node[left] at (0,2.4) {$\dfrac{GM}{R^2}$};
+\node[below] at (1.5,0) {$R$};
+\draw[line width=1pt] (0,0) -- (1.5,2.4);
+\draw[gray,line width=1.4pt,domain=1.5:4.8,samples=60,smooth] plot (\x, {2.4*(1.5*1.5)/(\x*\x)});
+\end{tikzpicture}

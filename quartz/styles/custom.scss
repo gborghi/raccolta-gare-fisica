@@ -511,7 +511,7 @@ body[data-slug="index"] {
 .home-areas { display: grid; grid-template-columns: repeat(auto-fill, minmax(11.5rem, 1fr)); gap: 0.85rem; }
 .home-area {
   display: block; background: var(--light); border: 1px solid var(--lightgray); border-radius: 16px;
-  padding: 1.2rem; color: var(--ink); transition: border-color 0.15s ease, transform 0.15s ease;
+  padding: 1.6rem 1.35rem 1.4rem; color: var(--ink); transition: border-color 0.15s ease, transform 0.15s ease;
 }
 .home-area:hover { border-color: var(--accent-blue); transform: translateY(-2px); color: var(--ink); }
 .home-area img {
@@ -524,7 +524,7 @@ body[data-slug="index"] {
 // ─── Explore-mode cards ───
 .home-modes { display: grid; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); gap: 0.85rem; }
 .home-mode {
-  display: block; background: var(--panel); border-radius: 16px; padding: 1.35rem; color: var(--ink);
+  display: block; background: var(--panel); border-radius: 16px; padding: 1.7rem 1.6rem; color: var(--ink);
   transition: transform 0.15s ease;
 }
 .home-mode:hover { transform: translateY(-2px); color: var(--ink); }

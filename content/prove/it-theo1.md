@@ -3,13 +3,15 @@ title: IPhO 2001
 tipo: prova
 tags:
   - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="it-theo1"></div>
 
 
 
 
-<span class="atom-split" id="q1a" data-atom="q1a" data-title="IPhO 2001 — Problema 1A" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/electromagnetism,object/particle-beam,object/electron,object/capacitor"></span>
+<span class="atom-split" id="q1a" data-atom="q1a" data-title="IPhO 2001 — Problema 1A" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/electromagnetism,object/particle-beam,object/electron,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -86,7 +88,7 @@ Calculate, with four significant digits:
 
 
 
-<span class="atom-split" id="q1b" data-atom="q1b" data-title="IPhO 2001 — Problema 1B" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/kinetic-theory,topic/thermodynamics,object/gas"></span>
+<span class="atom-split" id="q1b" data-atom="q1b" data-title="IPhO 2001 — Problema 1B" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/kinetic-theory,topic/thermodynamics,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -137,7 +139,7 @@ The following information is provided for in the Annex to Implementing Regulatio
 
 
 
-<span class="atom-split" id="q1c" data-atom="q1c" data-title="IPhO 2001 — Problema 1C" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/circuits,topic/oscillations-e-waves,object/capacitor,object/resistor,object/battery,object/switch"></span>
+<span class="atom-split" id="q1c" data-atom="q1c" data-title="IPhO 2001 — Problema 1C" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/circuits,topic/oscillations-e-waves,object/capacitor,object/resistor,object/battery,object/switch"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -216,7 +218,7 @@ A welding tooth voltage $V_0$ can be obtained at the capacitor heads $C$ in the 
 
 
 
-<span class="atom-split" id="q1d" data-atom="q1d" data-title="IPhO 2001 — Problema 1D" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/kinetic-theory,topic/order-of-magnitude-estimation,object/particle-beam,object/atom"></span>
+<span class="atom-split" id="q1d" data-atom="q1d" data-title="IPhO 2001 — Problema 1D" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/kinetic-theory,topic/order-of-magnitude-estimation,object/particle-beam,object/atom"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

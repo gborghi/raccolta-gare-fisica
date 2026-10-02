@@ -254,7 +254,7 @@ electrón? Dibuje un esquema representando los
 vectores campo magnético, velocidad y fuerza que
 actúa sobre el electrón.
 
-Datos: $\mu0$ = $4\pi \times$ 10-7 $N\cdotm2\cdotA-2$; me = 9,1 $\times$ 10-31 Kg; mp = 1,7 $\times$ 10-27 Kg; e = 1,6 $\times$ 10-19 C
+Datos: $\mu0$ = $4\pi \times$ 10-7 $N\cdot m2\cdot A-2$; me = 9,1 $\times$ 10-31 Kg; mp = 1,7 $\times$ 10-27 Kg; e = 1,6 $\times$ 10-19 C
 
 CUESTIONES:
 
@@ -289,7 +289,7 @@ In questo caso, la Commissione ha deciso di
 Vettori di campo magnetico, velocità e forza che
 agisce sull'elettrone.
 
-Dati: $\mu0$ = $4\pi \times$ 10-7 $N\cdotm2\cdotA-2$; me = 9,1 $\times$ 10-31 Kg; mp = 1,7 $\times$ 10-27 Kg; e = 1,6 $\times$ 10-19 C
+Dati: $\mu0$ = $4\pi \times$ 10-7 $N\cdot m2\cdot A-2$; me = 9,1 $\times$ 10-31 Kg; mp = 1,7 $\times$ 10-27 Kg; e = 1,6 $\times$ 10-19 C
 
 Domande:
 
@@ -323,7 +323,7 @@ What is the electron? Draw a diagram representing the
 Magnetic field vectors, speed and force which
 It acts on the electron.
 
-The data are: $\mu0$ = $4\pi \times$ 10-7 $N\cdotm2\cdotA-2$; me = 9,1 $\times$ 10-31 Kg; mp = 1,7 $\times$ 10-27 Kg; e = 1,6 $\times$ 10-19 C
+The data are: $\mu0$ = $4\pi \times$ 10-7 $N\cdot m2\cdot A-2$; me = 9,1 $\times$ 10-31 Kg; mp = 1,7 $\times$ 10-27 Kg; e = 1,6 $\times$ 10-19 C
 
 Question: What is the purpose of this report?
 

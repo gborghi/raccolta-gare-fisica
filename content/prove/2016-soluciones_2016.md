@@ -46,7 +46,7 @@ V1
 3 (0.3 $-x$) $\Rightarrow$ x(1 + 5
 6) = 5 $\cdot0.3$
 6
- $\Rightarrowx=$ 13.6 cm
+ $\Rightarrow x=$ 13.6 cm
 (b) Con el sistema sumergido en agua, debemos tener en cuenta los empujes. En la
 nueva posición de equilibrio se cumple:
 (P1 $-E1$) g $x'$ = (P2 $-E2$) g (0.3 $-x'$)
@@ -144,12 +144,12 @@ Q q x
 (x2 + R2)3 2
 ⁄
 Sólo si el desplazamiento en horizontal es muy pequeño en comparación con la
-distancia que separa las cargas $(x\llR$) entonces tendremos una oscilación
-armónica, ya que, en este caso, x2 + R2 $\approxR2$ y entonces
+distancia que separa las cargas $(x\ll R$) entonces tendremos una oscilación
+armónica, ya que, en este caso, x2 + R2 $\approx R2$ y entonces
 Fx= K
 Q q x
 (x2 + R2)3 2
-⁄ $\approxKQq$
+⁄ $\approx KQq$
 R3 x
 O
 R= 24 cm
@@ -191,12 +191,12 @@ dt .
 (a) Por semejanza de triángulos, se tiene que
 h
 H= $s'$
-x $\Rightarrow h\cdotx= H\cdots'$ = $H\cdot(s-x$)
+x $\Rightarrow h\cdot x= H\cdots'$ = $H\cdot(s-x$)
 Derivamos con respecto al tiempo:
-$h\cdotdx$
+$h\cdot dx$
 dt= $H\cdot(ds$
 $dt-dx$
-dt) $\Rightarrow h\cdotv= H\cdot(v-v1$)
+dt) $\Rightarrow h\cdot v= H\cdot(v-v1$)
 Despejando v obtenemos
 v=
 H

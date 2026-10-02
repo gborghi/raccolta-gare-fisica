@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: EuPhO 2023 — Teorica
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/EuPhO
 ---
 <div class="atom-reader" data-prova="eupho23_th_ita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/geometric-optics,topic/newtonian-mechanics,topic/electromagnetic-induction,argomento/meccanica,object/disk,object/lens,object/block,object/magnet"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2023 — Teorica — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/geometric-optics,topic/newtonian-mechanics,topic/electromagnetic-induction,argomento/meccanica,object/disk,object/lens,object/block,object/magnet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -78,57 +80,53 @@ c) (2 punti) Trovare la forza orizzontale necessaria per spostare la piastra.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Theoretical problems. Language: Italian
+**T1: Thermal lens (10 pts)**
 
-T1: Thermal lenses (10 points)
+When an intense laser beam falls onto a semitransparent plate, the transmitted light can self-focus to a point behind the plate due to the inhomogeneous heating of the material. This effect, known as thermal lensing, is observed in materials whose index of refraction increases with temperature, characterized by a positive thermo-optic coefficient $\gamma = \dfrac{dn}{dT}$.
 
-When an intense laser beam falls on a semitrasparent sheet, the transmitted light can focus automatically (on its own) at a point behind the sheet due to the material's heterogeneous heating. This effect, known as thermal lensing, is observed in materials whose refractive index increases with temperature and which are characterized by a positive thermo-optical coefficient $\gamma = \dfrac{dn}{dT}$.
+A semitransparent disk with radius $a = 15.0\ \text{mm}$, thickness $b = 0.2\ \text{mm}$ and optical absorption coefficient $A = 0.1$ is composed of a material having thermal conductivity $k = 0.3\ \text{W}\,\text{m}^{-1}\,\text{K}^{-1}$ and thermo-optic coefficient $\gamma = 2.5\cdot10^{-4}\ \text{K}^{-1}$. The outer rim of the disk is thermally connected to a circular metallic holder (not shown in the figure) maintained at a constant temperature $T_h = 20\ ^\circ\text{C}$. A parallel laser beam of radius $\sigma = 0.5\ \text{mm}$ and power $P_L = 20\ \text{mW}$ is incident normally onto the center of the disk. The intensity distribution is homogeneous across the cross-section of the beam.
 
-A semitrasparent disc of $a = 15{.}0\ \text{mm}$ radius, thickness $b = 0{.}2\ \text{mm}$ and optical absorption coefficient $A = 0{.}1$ is made of a material having a thermal conductivity $k = 0{.}3\ \text{W}\,\text{m}^{-1}\,\text{K}^{-1}$ and a thermooptic coefficient $\gamma = 2{.}5\cdot10^{-4}\ \text{K}^{-1}$.
+a) (2 pts) Sketch a qualitative graph of the temperature profile $T(r)$, where $r$ denotes the distance from the axis of the beam. Indicate clearly on the graph the illuminated region $0 \leq r \leq \sigma$ and the outer region $\sigma \leq r \leq a$.
 
-The outer edge of the disc is thermal connected to a circular metal support (not shown in the figure) maintained at a constant temperature $T_h = 20\ ^\circ\text{C}$. A parallel laser beam of $\sigma = 0{.}5\ \text{mm}$ radius and power $P_L = 20\ \text{mW}$ normally affects the center of the disc. The intensity distribution is uniform across the entire beam section.
+b) (4 pts) In the vicinity of the center of the disk, the temperature profile can be represented by a quadratic function $T(r) = T_c + m r^2$. Calculate the parameters $T_c$ and $m$.
 
-(a) (2 points) Draw a qualitative chart of the temperature profile $T(r)$, where $r$ indicates the distance from the axis of the beam. Clearly report the illuminated $0 \leq r \leq \sigma$ region and the outer $\sigma \leq r \leq a$ region on the chart.
+c) (4 pts) Show that the beam is focused in one point and find the distance $f$ from this point to the disk. If you failed to obtain $T_c$ and $m$ in part b), you may use them as parameters in your final answer.
 
-(b) (4 points) At points near the centre of the disc, the temperature profile may be represented by a quadratic function $T(r) = T_c + m r^2$. Calculate the parameters $T_c$ and $m$.
-
-(c) (4 points) Show that the beam is focused at a point and find the distance $f$ of this point from the disk. If you can't find $T_c$ and $m$ in b) you can leave them as parameters in the final answer.
-
-Do not consider the thermal dilation of the disc. It tracks the thermal radiation and heat exchange between the disk and the surrounding air. Assume that the air refractive index is $n_\text{air} = 1$.
-
-T2: Brick between two floors (10 points)
-
-A small brick is crushed between two parallel planes in the absence of weight. The planes are perpendicular to the $z$ axis. The lower plane moves at constant speed $u_1$ along the $x$ axis, while the upper plane moves at constant speed $u_2$ along the $y$ axis.
-
-Initially, the brick is at rest. The dynamic friction coefficient between the brick and each plane is the same.
-
-(a) (4 points) Find the speed of the brick $v_\infty$ in the condition $u_1 = u_2$ after a long period of time.
-
-(b) (6 points) Find the speed of the brick $v_\infty$ after a long period of time for $u_1 \neq u_2$.
-
-T3: Plate between magnets (10 points)
-
-Two identical magnets, long and cylindrical, of radius $R$, are close together and share the same axis of vertical symmetry. The polarity of the two magnets is the same. As a result, the magnetic field in the intercapedine between magnets is directed towards $+z$ (see figure) and uniform with a flow density $B$. The magnetic field outside the crack is zero. A large non-magnetic metal plate is placed in the gearbox and moved at a constant horizontal speed $v$ in the direction $+y$. The thickness of the sheet is $\delta$, the resistivity of the metal is $\varrho$.
-
-(a) (3 points) Draw the shape of the current lines in the metal plate at a given moment. Point the axes on your sketch.
-
-(b) (5 points) Find and trace the current density within the plate along a parallel line to the $y$ axis that intersects the magnetic symmetry axis.
-
-(c) (2 points) Find the horizontal force needed to move the plate.
+Do not consider the thermal expansion of the disk. Neglect the thermal radiation and the heat exchange between the disk and the surrounding air. Assume that the index of refraction of air is $n_\text{air} = 1$.
 
 <!--fig:start-->
-The following information is provided for in the Annex to this Regulation:
 ![[_attachments/eupho23_th_ITA/eupho23_th_ITA_p1_f1.png]]
+*Thermal lens: laser beam focused by the heated disk*
 <!--fig:end-->
 
+**T2: Brick between two planes (10 pts)**
+
+A small brick is squeezed between two parallel planes in zero gravity. The planes are perpendicular to the $z$-axis. The lower plane is moving with constant velocity $u_1$ along the $x$-axis, whilst the upper one is moving with constant velocity $u_2$ along the $y$-axis.
+
+Initially, the brick is at rest. The coefficient of kinetic friction between the brick and each plane is identical.
+
+a) (4 pts) Find the speed of the brick $v_\infty$ after a long time for $u_1 = u_2$.
+
+b) (6 pts) Find the speed of the brick $v_\infty$ after a long time for $u_1 \neq u_2$.
+
 <!--fig:start-->
-**p.1 **  Brick between two floors in motion
 ![[_attachments/eupho23_th_ITA/eupho23_th_ITA_p1_f2.png]]
+*Brick between two moving planes*
 <!--fig:end-->
 
+**T3: Plate between magnets (10 pts)**
+
+Two identical long, cylindrical rod magnets of radius $R$ are close to each other and share the same vertical symmetry axis. The polarity of the two magnets is the same. As a result, the magnetic field in the air gap between the magnets is directed towards the $+z$ direction (see figure) and uniform with flux density $B$. The magnetic field outside the gap is zero. A horizontal large non-magnetic metal plate is placed in the air gap and moved with constant horizontal velocity $v$ in $+y$-direction. The thickness of the plate is $\delta$, the resistivity of the metal is $\varrho$.
+
+a) (3 pts) Sketch the shape of current streamlines in the metal plate at a given time. Indicate the axes on your sketch.
+
+b) (5 pts) Find and plot the current density inside the plate along a line parallel to the $y$ axis intersecting the symmetry axis of the magnets.
+
+c) (2 pts) Find the horizontal force required to move the plate.
+
 <!--fig:start-->
-Other, of a kind used for the manufacture of goods of heading 8406
 ![[_attachments/eupho23_th_ITA/eupho23_th_ITA_p1_f3.png]]
+*Metal plate moving between two cylindrical magnets*
 <!--fig:end-->
 
 **Topic:** [[Thermodynamics]], [[Geometric Optics]], [[Newtonian Mechanics]], [[Electromagnetic Induction]]

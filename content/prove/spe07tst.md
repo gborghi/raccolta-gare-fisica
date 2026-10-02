@@ -29,7 +29,7 @@ zero) sul righello; il metro, opportunamente appesantito con i fermagli per rend
 rilevare le posizioni y delle varie spire (vedi figura 1). Per facilitare le letture sul metro, fa’ in modo che la sua
 graduazione sia a contatto con la molla e che si trovi dietro la molla stessa rispetto ai tuoi occhi.
 
-a) - Ricava sperimentalmente la funzione $\Deltay$ = f (n) , dove $\Deltay$ è la lunghezza assunta in direzione verticale dalla
+a) - Ricava sperimentalmente la funzione $\Delta y$ = f (n) , dove $\Delta y$ è la lunghezza assunta in direzione verticale dalla
 singola n-esima spira con molla scarica, ed n è il numero di spire sottostanti (vedi Figura 1).
 b) - Determina la massa della molla con la minor incertezza possibile.
 
@@ -144,7 +144,7 @@ QUADRO RIASSUNTIVO
 Risultati
 1 a
 
-$\Deltay$ = f (n)
+$\Delta y$ = f (n)
 
 1 b
 
@@ -187,7 +187,7 @@ The meter, properly weighed with the stoppers to make it a lead, allows the
 The position of the various spires (see Figure 1) shall be detected. To facilitate the reading on the subway, make sure that your
 graduation is in contact with the spring and that it is behind the spring itself relative to your eyes.
 
-(a) - Experimentally derives the function $\Deltay$ = f (n) where $\Deltay$ is the length taken in the vertical direction by the
+(a) - Experimentally derives the function $\Delta y$ = f (n) where $\Delta y$ is the length taken in the vertical direction by the
 The number of spires is the number of spires underneath (see Figure 1).
 (b) - Determine the mass of the spring with the least possible uncertainty.
 
@@ -302,7 +302,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of th
 Results
 1 a
 
-$\Deltay$ = f (n)
+$\Delta y$ = f (n)
 
 1 b
 

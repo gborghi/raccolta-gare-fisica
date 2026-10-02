@@ -1437,8 +1437,8 @@ con velocità $\vec{V}_i$ verso il basso. A $t_i \leq t \leq t_i + \tau/2$ la pa
 approssimativamente $t_i + \tau/2$ la deformazione della palla è massima e la velocità del suo centro di
 massa è nulla. All'intervallo $t_i + \tau/2 < t < t_f$, la palla si estende. Em $t_f$ ela volta à sua forma
 la velocità del suo centro di massa diventa $\vec{V}_f$ in alto.
-Considerando che la velocità dopo il collaggio è leggermente inferiore a prima, cioè $ ̇ \vec{V}_f ̇ =
-0,95\vec{V}_i$i, analizzare le seguenti affermazioni:
+Considerando che la velocità dopo il collaggio è leggermente inferiore a prima, cioè $|\vec{V}_f| =
+0{,}95\,|\vec{V}_i|$, analizzare le seguenti affermazioni:
 1. L'intervallo $t_i < t < t_i + \tau/2$ è prevalentemente di conversione di energia cinetica in
 energia potenziale elastica.
 2. Il pavimento rigido accumula l'energia necessaria per lanciare la palla di nuovo in alto.

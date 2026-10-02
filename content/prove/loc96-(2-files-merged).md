@@ -586,7 +586,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q17.** A given mass of gas is transformed into a figure (rectangle in plane $p$$V$ with vertices P, Q, R, S). If the gas passes from P to R following PQ and QR, it absorbs $8\ \text{J}$ heat and performs a $3\ \text{J}$ work. If it goes from P to R according to PS and SR, it does a $1\ \text{J}$ job. In this second case, the gas... A) cede $4\ \text{J}$; B) assorbe $6\ \text{J}$; C) assorbe $8\ \text{J}$; D) assorbe $10\ \text{J}$; E) cede $12\ \text{J}$ (di calore).
+**Q17.** A given mass of gas is transformed into a figure (rectangle in plane $p$–$V$ with vertices P, Q, R, S). If the gas passes from P to R following PQ and QR, it absorbs $8\ \text{J}$ heat and performs a $3\ \text{J}$ work. If it goes from P to R according to PS and SR, it does a $1\ \text{J}$ job. In this second case, the gas... A) cede $4\ \text{J}$; B) assorbe $6\ \text{J}$; C) assorbe $8\ \text{J}$; D) assorbe $10\ \text{J}$; E) cede $12\ \text{J}$ (di calore).
 
 <!--fig:start-->
 **p.7**  Rectangular cycle in the pressure-volume plane

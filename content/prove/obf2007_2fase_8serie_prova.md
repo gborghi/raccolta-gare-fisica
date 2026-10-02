@@ -455,8 +455,8 @@ usualmente denominado de chuvas de prata. A temperatura de sua chama
 pode atingir valores maiores que 2000 oC mas, quando ela atinge a pele
 humana, sente-se apenas uma ligeira “beliscada”. Desta forma, alta
 temperatura não necessariamente significa alta quantidade de calor. De
-fato, a variação de calor $(\DeltaQ$) é relacionada com a variação de
-Temperatura $(\DeltaT$) através da massa (m) e de uma quantidade chamada
+fato, a variação de calor $(\Delta Q$) é relacionada com a variação de
+Temperatura $(\Delta T$) através da massa (m) e de uma quantidade chamada
 calor específico (c), resultando na fórmula.
 T
 mc
@@ -732,8 +732,8 @@ di solito denominato "piogge d'argento". La temperatura della sua fiamma
 può raggiungere valori superiori a 2000 oC ma, quando raggiunge la pelle
 E' un'umanità, si sente solo un po' sbalordita. Così, alta
 la temperatura non significa necessariamente un'elevata quantità di calore. De
-Infatti, la variazione di calore $(\DeltaQ$) è correlata alla variazione di
-Temperatura $(\DeltaT$) attraverso la massa (m) e una quantità chiamata
+Infatti, la variazione di calore $(\Delta Q$) è correlata alla variazione di
+Temperatura $(\Delta T$) attraverso la massa (m) e una quantità chiamata
 calore specifico (c), risultante nella formula.
 T
 mc
@@ -1008,8 +1008,8 @@ commonly referred to as silver rain. The temperature of your flame
 It can reach levels greater than 2000 °C but when it hits the skin
 human, you feel only a slight "blurred" This way, high
 temperature does not necessarily mean high amount of heat. De
-In fact, the heat change $(\DeltaQ$) is related to the change in
-Temperature $(\DeltaT$) through mass (m) and a quantity called
+In fact, the heat change $(\Delta Q$) is related to the change in
+Temperature $(\Delta T$) through mass (m) and a quantity called
 specific heat (c), resulting in the formula.
 T
 mc

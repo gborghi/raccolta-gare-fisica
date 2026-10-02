@@ -73,14 +73,14 @@ di piccole oscillazioni del sistema.
 Problem 2 (35 marks). Binary star systems are important observation targets for astronomers. We
 shall model one of these in this problem. Two stars of masses M and m, modelled as point masses,
 orbit about their barycentre in circular orbits with period T0. Star M suddenly explodes and loses some
-of its mass $\DeltaM$. We assume that the explosion occurs instantaneously and is isotropic relative to star
-M, such that the instantaneous velocity of star M $'$ = M $-\DeltaM$ after the explosion remains the same
+of its mass $\Delta M$. We assume that the explosion occurs instantaneously and is isotropic relative to star
+M, such that the instantaneous velocity of star M $'$ = M $-\Delta M$ after the explosion remains the same
 as the velocity of M before, and that the explosion and the resulting ejecta have no effect on star m.
 We are given the gravitational constant G and neglect the effects of general relativity.
 (1) Find the distance r0 between M and m before the explosion.
 (2) If M $'$ and m still orbit each other after the explosion, find the period T1 of this motion.
 (3) If M $'$ and m are ejected from orbit as a result of the explosion, derive all the conditions in order
-for this to be true, in terms of M, m, and $\DeltaM$.
+for this to be true, in terms of M, m, and $\Delta M$.
 1
 Chinese Physics Olympiad
 
@@ -96,14 +96,14 @@ Chinese Physics Olympiad
 Il problema 2 (35 punti). I sistemi stellari binari sono obiettivi di osservazione importanti per gli astronomi. We
 Il modello di questo problema è uno di questi. Due stelle di massa M e m, modellate come masse puntate,
 orbitano intorno al loro baricentro in orbite circolari con periodo T0. La stella M esplode improvvisamente e perde alcuni
-di massa $\DeltaM$. Supponiamo che l'esplosione si verifichi istantaneamente ed è isotròpica rispetto alla stella
-M, in modo che la velocità istantanea della stella M $'$ = M $-\DeltaM$ dopo l'esplosione rimanga la stessa
+di massa $\Delta M$. Supponiamo che l'esplosione si verifichi istantaneamente ed è isotròpica rispetto alla stella
+M, in modo che la velocità istantanea della stella M $'$ = M $-\Delta M$ dopo l'esplosione rimanga la stessa
 come la velocità di M prima, e che l'esplosione e l'ejecta risultante non hanno alcun effetto sulla stella m.
 Ci viene data la costante gravitazionale G e si trascurano gli effetti della relatività generale.
 (1) Trova la distanza r0 tra M e m prima dell'esplosione.
 (2) Se dopo l'esplosione M $'$ e m continuano ad orbitare l'uno sull'altro, si trova il periodo T1 di questo movimento.
 (3) Se M $'$ e m vengono espulsi dall'orbita a causa dell'esplosione, si derivano tutte le condizioni in modo che
-per essere vero, in termini di M, m e $\DeltaM$.
+per essere vero, in termini di M, m e $\Delta M$.
 1
 Olimpiada cinese di fisica
 
@@ -148,17 +148,17 @@ Figure 3.1: A model of a boy on a swing. The solid lines indicate the trajectory
 mass.
 (1) Assuming that no mechanical energy is lost as the boy maintains his posture, e.g. as he squats
 from $A'$ to B or stands from $B'$ to C, find the boy’s mechanical energy during each of the four
-stages of his motion, A $\toA' \toB \toB' \toC$. Find also the change in his mechanical energy
+stages of his motion, A $\to A' \to B \to B' \to C$. Find also the change in his mechanical energy
 from A to C.
 (2) We now attempt to model the mechanical energy loss even as the boy maintains his posture. We
-assume that the relationship between the energy loss $\DeltaE$ and the absolute value of the change in
-height $\Deltah$ is given by
-$\DeltaE$ =
+assume that the relationship between the energy loss $\Delta E$ and the absolute value of the change in
+height $\Delta h$ is given by
+$\Delta E$ =
 (
-k1mg(h0 + $\Deltah$)
+k1mg(h0 + $\Delta h$)
 when the boy is squatting, and
 $k2mg(h'$
-0 + $\Deltah$)
+0 + $\Delta h$)
 when the boy is standing,
 where 0 < k1, k2 < 1, h0, and $h'$
 0 are constants and g is the gravitational acceleration. Taking the
@@ -214,17 +214,17 @@ Figura 3.1: Un modello di un ragazzo su uno swing. Le linee solide indicano la t
 - Mass.
 (1) Supponendo che non si perda alcuna energia meccanica mentre il ragazzo mantiene la sua postura, ad esempio mentre si accovaccia
 da $A'$ a B o da $B'$ a C, trovare l'energia meccanica del ragazzo durante ognuna delle quattro
-le fasi della sua mozione, A $\toA' \toB \toB' \toC$. Trova anche il cambiamento nella sua energia meccanica
+le fasi della sua mozione, A $\to A' \to B \to B' \to C$. Trova anche il cambiamento nella sua energia meccanica
 da A a C.
 (2) Ora cerchiamo di modellare la perdita di energia meccanica anche mentre il ragazzo mantiene la sua postura. We
-presumere che la relazione tra la perdita di energia $\DeltaE$ e il valore assoluto della variazione di
-Alto $\Deltah$ è indicato da
-$\DeltaE$ =
+presumere che la relazione tra la perdita di energia $\Delta E$ e il valore assoluto della variazione di
+Alto $\Delta h$ è indicato da
+$\Delta E$ =
 (
-k1mg(h0 + $\Deltah$)
+k1mg(h0 + $\Delta h$)
 quando il ragazzo si accovaccia,
 $k2mg(h'$
-0 + $\Deltah$)
+0 + $\Delta h$)
 quando il ragazzo si alza,
 in cui 0 < k1, k2 < 1, h0 e $h'$
 0 sono costanti e g è l'accelerazione gravitazionale. Prendendo il
@@ -277,8 +277,8 @@ B
 Figure 4.1: A spinning wire loop.
 (1) Find the moment of inertia J of the wire about $OO'$.
 (2) When t = 0, the wire is at rest and its plane makes a small angle $\theta0$ with the x-axis. At this instant,
-we force a steady current I through the wire in the direction given by P $\toa \tob \toc \tod \toQ$.
-Find the subsequent relationship between $\theta$, $ ̇\theta$, and $ ̈\theta$, where $\theta$ is the angle between the the plane
+we force a steady current I through the wire in the direction given by P $\to a \to b \to c \to d \to Q$.
+Find the subsequent relationship between $\theta$, $\dot\theta$, and $\ddot\theta$, where $\theta$ is the angle between the the plane
 of the wire and the x-axis.
 (3) When t = t0 > 0, the wire reaches a horizontal position again, whereupon we disconnect the
 current source between leads P and Q. Describe the subsequent motion of the wire. Hence, derive
@@ -326,8 +326,8 @@ B
 Figura 4.1: un circuito di filo a rotazione.
 (1) Trova il momento di inerzia J del filo circa $OO'$.
 (2) Quando t = 0, il filo è a riposo e il suo piano fa un angolo piccolo $\theta0$ con l'asse x. In questo istante,
-costringono una corrente costante I attraverso il filo nella direzione data da P $\toa \tob \toc \tod \toQ$.
-Trova la relazione successiva tra $\theta$, $ ̇\theta$ e $ ̈\theta$, dove $\theta$ è l'angolo tra il piano
+costringono una corrente costante I attraverso il filo nella direzione data da P $\to a \to b \to c \to d \to Q$.
+Trova la relazione successiva tra $\theta$, $\dot\theta$ e $\ddot\theta$, dove $\theta$ è l'angolo tra il piano
 di filo e dell'asse x.
 (3) Quando t = t0 > 0, il filo raggiunge di nuovo una posizione orizzontale, dopo la quale si disconnette il filo di
 fonte di corrente tra le linee P e Q. Descrivere il successivo movimento del filo. Di conseguenza, derivati
@@ -546,14 +546,14 @@ gravitational redshift. Now consider a spherical body (say, a planet) with unifo
 Suppose that a beam of light with wavelength $\lambda0$ is emitted vertically upwards from a point
 source A near the surface of the planet. The light beam is detected by a fixed receiver B
 vertically above A such that AB = L. Find the wavelength $\lambda'$ of the light detected by B.
-We are given the mass of the planet M, its radius R (where R $\ggL$), the speed of light c, and
+We are given the mass of the planet M, its radius R (where R $\gg L$), the speed of light c, and
 the gravitational constant G. We may assume the weak field approximation applies, i.e. we
 may freely use the results of the Newtonian theory of gravity.
 (ii) Refer to Figure 7.1. Suppose that a box whose length is L is suspended in free space. A
 laser source A and a receiver B are fixed at the lower and upper ends of the box respectively.
 When time t = 0, the box begins to accelerate from rest with magnitude a along the direction
 of $-\to$
-AB, where aL $\llc2$. Simultaneously, a laser beam of wavelength $\lambda0$ is emitted from A.
+AB, where aL $\ll c2$. Simultaneously, a laser beam of wavelength $\lambda0$ is emitted from A.
 Using the results of special relativity, find the wavelength $\lambda''$ of the light received at B.
 A
 B
@@ -596,14 +596,14 @@ spostamento di gravità verso il rosso. Ora consideriamo un corpo sferico (per e
 Supponiamo che un raggio di luce con lunghezza d'onda $\lambda0$ venga emesso verticalmente verso l'alto da un punto
 Fonte A vicino alla superficie del pianeta. Il fascio di luce viene rilevato da un ricevitore fisso B
 verticalmente sopra A in modo tale che AB = L. Trova la lunghezza d'onda $\lambda'$ della luce rilevata da B.
-Ci viene data la massa del pianeta M, il suo raggio R (dove R $\ggL$), la velocità della luce c, e
+Ci viene data la massa del pianeta M, il suo raggio R (dove R $\gg L$), la velocità della luce c, e
 la costante gravitazionale G. Possiamo presumere che si applichi l'approssimazione del campo debole, cioè we
 La teoria della gravità di Newton può essere liberamente utilizzata.
 ii) Si riferisce alla figura 7.1. Supponiamo che una scatola di lunghezza L sia sospesa nello spazio libero. A
 la fonte laser A e un ricevitore B sono fissate rispettivamente alle estremità inferiore e superiore della scatola.
 Quando il tempo t = 0, la scatola inizia ad accelerare dal riposo con magnitudo a lungo la direzione
 of $-\to$
-AB, dove aL $\llc2$. Simultaneamente, da A viene emesso un raggio laser di lunghezza d'onda $\lambda0$.
+AB, dove aL $\ll c2$. Simultaneamente, da A viene emesso un raggio laser di lunghezza d'onda $\lambda0$.
 Usando i risultati della relatività speciale, si trova la lunghezza d'onda $\lambda''$ della luce ricevuta a B.
 A
 B

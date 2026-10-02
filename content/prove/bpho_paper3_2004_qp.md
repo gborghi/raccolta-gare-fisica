@@ -143,7 +143,7 @@ Figure 1.3,
 Small hemisphere
 Surface of the
 damp ground.
-$\deltar$
+$\delta r$
 Vstrike
 r
 a
@@ -152,12 +152,12 @@ Figure 1.3 shows a diagram of a theoretical model of lightening striking damp gr
 constant potential of the small central hemisphere, radius a, is Vstrike. At a very long distance
 away, from the region where the lightening strikes the Earth, the potential of a point in and on
 the Earth is zero. The radius of the hemisphere in Figure 1.3 is r and a thin hemispherical
-shell, radius r, is of thickness $\deltar$. You can assume that the specific resistivity of the damp
+shell, radius r, is of thickness $\delta r$. You can assume that the specific resistivity of the damp
 earth is much less than that of the air and that the current flows radially through the
 hemisphere. Spherical symmetry is to be assumed on and below the ground.
 Sketch graphs (i) the current density $\sigma$, (ii) the potential gradient E, against r the radial
 distance from the centre.
-Show that for a small change in r, $\deltar$, there is a small change in potential $\deltaV$, given by:
+Show that for a small change in r, $\delta r$, there is a small change in potential $\delta V$, given by:
 r
 r
 K
@@ -336,7 +336,7 @@ Figura 1.3,
 Piccolo emisfero
 Superficie del
 terreno umido.
-$\deltar$
+$\delta r$
 Vstrike
 r
 a
@@ -345,12 +345,12 @@ La figura 1.3 mostra un diagramma di un modello teorico di luce che colpisce il 
 Il potenziale costante del piccolo emisfero centrale, raggio a, è Vstrike. A una distanza molto lunga
 lontano, dalla regione in cui il fulmine colpisce la Terra, il potenziale di un punto in e su
 la Terra è zero. Il raggio dell'emisfero nella figura 1.3 è r e un'emisfera sottile
-con un di spessore $\deltar$, di raggio r. Si può presumere che la specificità di resistenza dell'umidità
+con un di spessore $\delta r$, di raggio r. Si può presumere che la specificità di resistenza dell'umidità
 La superficie della terra è molto inferiore a quella dell'aria e che la corrente fluisce radialmente attraverso il
 - L'emisfero. Si presume una simmetria sferica su e sotto il suolo.
 Sketch grafici (i) la densità di corrente $\sigma$, (ii) il gradiente potenziale E, rispetto a r il radial
 Distanza dal centro.
-Mostra che per una piccola variazione di r, $\deltar$, vi è una piccola variazione del potenziale $\deltaV$, data da:
+Mostra che per una piccola variazione di r, $\delta r$, vi è una piccola variazione del potenziale $\delta V$, data da:
 r
 r
 K

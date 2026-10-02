@@ -64,8 +64,8 @@ B.6 (0.5 pt)
 
 κ0 =
 
-$\DeltaT$
-$\Deltat=$
+$\Delta T$
+$\Delta t=$
 
 B.7 (0.3 pt)
 Cerchia la risposta corretta:
@@ -125,10 +125,10 @@ T5
 T6
 T7
 T8
-$\DeltaTRame-1/\Deltax$
-$\DeltaTOttone/\Deltax$
-$\DeltaTAlluminio/\Deltax$
-$\DeltaTRame-2/\Deltax$
+$\Delta TRame-1/\Delta x$
+$\Delta TOttone/\Delta x$
+$\Delta TAlluminio/\Delta x$
+$\Delta TRame-2/\Delta x$
 D.3 (0.7 pt)
 
 Espressione:
@@ -231,8 +231,8 @@ B.6 (0.5 pt)
 
 κ0 =
 
-$\DeltaT$
-$\Deltat=$
+$\Delta T$
+$\Delta t=$
 
 B.7 (0.3 pt)
 Look for the right answer:
@@ -292,10 +292,10 @@ T5
 T6
 T7
 T8
-$\DeltaTRame-1/\Deltax$
-$\DeltaTOttone/\Deltax$
-$\DeltaTAlluminio/\Deltax$
-$\DeltaTRame-2/\Deltax$
+$\Delta TRame-1/\Delta x$
+$\Delta TOttone/\Delta x$
+$\Delta TAlluminio/\Delta x$
+$\Delta TRame-2/\Delta x$
 D.3 (0.7 pt)
 
 Expression:

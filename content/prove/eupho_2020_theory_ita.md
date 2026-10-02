@@ -1,15 +1,17 @@
 ---
-title: OII 2020 Teorica
+title: EuPhO 2020 — Teorica
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/EuPhO
 ---
 <div class="atom-reader" data-prova="eupho_2020_theory_ita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2020 Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electromagnetic-induction,topic/electromagnetism,argomento/elettromagnetismo,object/solenoid,object/wire,object/battery"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2020 — Teorica — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electromagnetic-induction,topic/electromagnetism,argomento/elettromagnetismo,object/solenoid,object/wire,object/battery"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -46,25 +48,27 @@ Un anello circolare chiuso di raggio $r$ è formato da una batteria ideale di fo
 
 <div class="qlang-split" data-lang="en"></div>
 
-**T1: Solenoid and ring**
+**T1: Solenoid and loop**
 
-A closed circular $r$ beam ring is formed by an ideal electromotive force $\mathcal{E}$ battery and a resistance wire $R$. A long, thin air core solenoid is aligned with the axis of the ring (axis $z$). Its length is $l \gg r$, cross section area is $A$ ($\sqrt{A} \ll r$) and the number of spires is $N$. The solenoid has a constant current $I$ provided by an ideal current generator. The direction of the currents in the solenoid and ring are the same (in the time-scale in the figure).
+A closed circular loop of radius $r$ consists of an ideal battery of electromotive force $\mathcal{E}$ and a wire of resistance $R$. A long thin air-core solenoid is aligned with the axis of the loop ($z$-axis). Its length is $\ell \gg r$, cross-sectional area is $A$ ($\sqrt{A} \ll r$), and the number of turns is $N$. The solenoid is powered by a constant current $I$ provided by an ideal current source. The directions of the currents in the solenoid and in the loop are the same (clockwise in the figure).
 
-**a.** Find the force $F_1$ acting on the solenoid when its $O_1$ head is placed in the centre of the $O$ ring. What is the $F_2$ force acting on the solenoid when its lower end $O_2$ is at the centre of the ring?
+**a.** Find the force $F_1$ acting on the solenoid when its head $O_1$ is positioned in the loop centre $O$. What is the force $F_2$ acting on the solenoid when its tail $O_2$ is located in the centre of the loop?
 
-**b.** Assume now that the solenoid moves slowly at a constant speed $v$ along the $z$ axis starting from a position very far from the ring, passing its centre and proceeding further to the right in a positive direction $z$. Draw a graph of the current $J$ flowing through the ring as a function of time. Highlight important characteristics and values in the graph. The $v$ speed is so small that the self-induction of the ring can be overlooked.
+**b.** Suppose now, that the solenoid is moving slowly with a constant velocity $v$ along $z$-axis starting far away from the loop, going past its centre, and proceeding further to the right in positive $z$-direction. Plot the current $J$ flowing in the loop as a function of time. Highlight important features and values on the graph. The velocity $v$ is so small that self inductance of the loop can be neglected.
 
 <!--fig:start-->
 ![[_attachments/EuPhO_2020_Theory_ITA/EuPhO_2020_Theory_ITA_p1_f1.png]]
-*Aligned solenoid with ring axis*
+*Solenoid aligned with the axis of the loop*
 <!--fig:end-->
+
 <!--fig:start-->
 ![[_attachments/EuPhO_2020_Theory_ITA/EuPhO_2020_Theory_ITA_p1_f3.png]]
-*Lens lamp optical scheme foil camera*
+*Cat eyes model: lamp, lens, sheet of paper and camera*
 <!--fig:end-->
+
 <!--fig:start-->
 ![[_attachments/EuPhO_2020_Theory_ITA/EuPhO_2020_Theory_ITA_p1_f4.png]]
-The following table shows the number of pixels in the log10 intensity vs pixel coordinate chart:
+*log10 of the light intensity versus pixel coordinate x*
 <!--fig:end-->
 
 **Topic:** [[Electromagnetic Induction]], [[Electromagnetism]]
@@ -76,7 +80,7 @@ The following table shows the number of pixels in the log10 intensity vs pixel c
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2020 Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/rotational-dynamics,argomento/elettromagnetismo,object/rope-string,object/cylinder"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2020 — Teorica — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/rotational-dynamics,argomento/elettromagnetismo,object/rope-string,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -103,15 +107,15 @@ Il filo è inestensibile e flessibile. Si supponga che le spire dell'avvolgiment
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following shall be added to the list of the following:
+**T2: Mechanical accelerator**
 
-A massless wire is wrapped for $N$ turns around a statically fixed cylinder, as shown in Figure 1. Initially, the free ends of the wire (i.e. the parts of the wire not rolled around the cylinder) are parallel to the $X$ axis. Subsequently a pointed $P$ body with mass is attached to one end of the wire, while the other end is pulled at a constant speed $u$ along $X$. Calculate the maximum speed reached by the heavy material point.
+A massless thread makes $N$ turns around statically fixed cylinder, as shown in the figure. Initially, the free (unwound) ends of the thread are parallel to the axis $X$. Then, a heavy point-like object $P$ is attached to one end of the thread while the other end is pulled with a constant velocity $u$ along $X$. Find the maximum velocity attained by the heavy object.
 
-The wire is extensible and flexible. Suppose the spires of the winding are wrapped very close together and are in practice placed on the same plane perpendicular to the cylinder's axis. Every friction in the system is neglected and gravity is not taken into account.
+The thread is inextendable and flexible. Suppose that the turns of the thread are wound tightly to one another and are placed practically in the same plane, perpendicular to the cylinder axis. Neglect any friction in the system. Do not consider the force of gravity.
 
 <!--fig:start-->
 ![[_attachments/EuPhO_2020_Theory_ITA/EuPhO_2020_Theory_ITA_p1_f2.png]]
-*Wire wrapped around the cylinder*
+*Thread wound around the cylinder*
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
@@ -123,7 +127,7 @@ The wire is extensible and flexible. Suppose the spires of the winding are wrapp
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2020 Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/geometric-optics,topic/wave-optics,argomento/elettromagnetismo,object/lens"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="EuPhO 2020 — Teorica — Quesito 3" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/geometric-optics,topic/wave-optics,argomento/elettromagnetismo,object/lens"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -147,13 +151,15 @@ Sulla base dei dati forniti, stimare (con l'accuratezza di ca 20%) la distanza $
 
 <div class="qlang-split" data-lang="en"></div>
 
-**T3: Cat's eyes**
+**T3: Cat eyes**
 
-You've noticed that in the dark, when a cat is in the light ray of a projector, its eyes appear very bright. This phenomenon can be modeled using an optical system.
+You may have noticed that in darkness, when a cat is within the light beam of a headlamp, its eyes appear very bright, see the photo below (left). This phenomenon can be modelled by a lens setup, see the photo on right, and the diagram beneath the photos.
 
-The lens of the model can be considered thin and ideal with a focal length $f = 55\text{ mm}$ and a diameter $D = 39\text{ mm}$. The graph shows the logarithm in base 10 of the light intensity (measured as the number of photons captured by each pixel) as a function of the $x$ coordinate, where the unit of measurement is given by the linear size of a pixel. The lens has some non-ideal characteristics: partial reflections from the lens surfaces of the illuminated areas can reduce contrast (the dark areas seen through the lens appear less dark than they actually are); this effect can be overlooked for the camera lens, but not so for the lens used in the cat's eye model.
+The photo on right was taken by a digital single-lens reflex camera. The light intensity at the camera sensor pixels marked by a red line (in the photo) is shown in the graph below: the log base 10 of the light intensity (measured as the number of photons caught by each pixel) is plotted against the $x$-coordinate, with the pixels' side length serving as the unit length.
 
-Based on the data provided, estimate (with an accuracy of approximately 20%) the distance $h$ between the camera axis and the lamp axis (which can be considered as a point source) if the distance of the camera from the paper was $L = 4.8\text{ m}$.
+The lens modelling cat eyes can be treated as an ideal thin lens of focal length $f = 55\text{ mm}$ and diameter $D = 39\text{ mm}$; however, you should keep in mind that the given graph shows real measurement data, and the lens has certain non-ideal features. Most importantly, partial reflections of brightly lit areas from the lens surfaces may decrease the contrast: dark areas seen through the lens appear less dark than they actually are; this effect can be neglected for the camera lens, but not so for the lens serving as a model of a cat's eye.
+
+Based on the given data, estimate (with the accuracy of ca 20%) the distance $h$ between the axis of the camera and the axis of the lamp (which can be considered as a point source) if the distance of the camera from the paper sheet was $L = 4.8\text{ m}$.
 
 **Topic:** [[Geometric Optics]], [[Wave Optics]]
 **Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Ray Tracing (metodo)|Ray Tracing]]

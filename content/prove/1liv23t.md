@@ -373,7 +373,7 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <!--fig:start-->
 ![[_attachments/1liv23T/1liv23T_p4_f1.png]]
-*Graph $a$$t$ decreasing from $5\,\mathrm{m\,s^{-2}}$ until cancelled to $t=5\,\mathrm s$.*
+*Graph $a$–$t$ decreasing from $5\,\mathrm{m\,s^{-2}}$ until cancelled to $t=5\,\mathrm s$.*
 <!--fig:end-->
 - **A.** $4.50$
 - **B.** $7.50$

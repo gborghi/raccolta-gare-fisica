@@ -187,7 +187,7 @@ O corpo humano é uma máquina térmica que transforma energia química acumulad
 
 $$Q = m \, c \, \Delta T$$
 
-onde $m$ é a massa, $c$ é o calor específico e $\Delta T$ é a variação de temperatura. Considere que uma pessoa em atividade física perca calor à razão de $600\,\text{cal/g}$ de suor evaporado, e que a água tem calor específico $c = 1{,}0\,\text{cal/(g\,{}^{\circ}\text{C})}$.
+onde $m$ é a massa, $c$ é o calor específico e $\Delta T$ é a variação de temperatura. Considere que uma pessoa em atividade física perca calor à razão de $600\,\text{cal/g}$ de suor evaporado, e que a água tem calor específico $c = 1{,}0\,\text{cal/(g}\,{}^{\circ}\text{C)}$.
 
 a) Faça uma estimativa da quantidade de calor perdida pelo corpo durante uma hora de atividade física em decorrência da evaporação do suor.
 
@@ -206,7 +206,7 @@ Il corpo umano è una macchina termica che trasforma l'energia chimica accumulat
 
 $$Q = m \, c \, \Delta T$$
 
-dove $m$ è la massa, $c$ è il calore specifico e $\Delta T$ è la variazione di temperatura. Considera che una persona in attività fisica perde calore al rapporto $600\,\text{cal/g}$ di sudore evaporato, e che l'acqua ha calore specifico $c = 1{,}0\,\text{cal/(g\,{}^{\circ}\text{C})}$.
+dove $m$ è la massa, $c$ è il calore specifico e $\Delta T$ è la variazione di temperatura. Considera che una persona in attività fisica perde calore al rapporto $600\,\text{cal/g}$ di sudore evaporato, e che l'acqua ha calore specifico $c = 1{,}0\,\text{cal/(g}\,{}^{\circ}\text{C)}$.
 
 a) Calcolare la calore che il corpo perde durante un'ora di attività fisica a causa dell'evaporazione del sudore.
 
@@ -224,7 +224,7 @@ The human body is a thermal machine that converts accumulated chemical energy in
 
 $$Q = m \, c \, \Delta T$$
 
-where $m$ is the mass, $c$ is the specific heat and $\Delta T$ is the temperature variation. Consider that a person in physical activity loses heat at the rate of $600\,\text{cal/g}$ evaporated sweat, and that water has specific heat $c = 1{,}0\,\text{cal/(g\,{}^{\circ}\text{C})}$.
+where $m$ is the mass, $c$ is the specific heat and $\Delta T$ is the temperature variation. Consider that a person in physical activity loses heat at the rate of $600\,\text{cal/g}$ evaporated sweat, and that water has specific heat $c = 1{,}0\,\text{cal/(g}\,{}^{\circ}\text{C)}$.
 
 (a) Estimate the amount of heat lost by the body during one hour of physical activity as a result of evaporation of sweat.
 

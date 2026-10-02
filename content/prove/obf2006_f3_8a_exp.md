@@ -21,9 +21,9 @@ tags:
 
 1) Meça o tempo correspondente da passagem da esfera através de seis marcações
 consecutivas, preenchendo a tabela no caderno de resposta com os valores medidos
-de espaço e tempo. A partir destes valores, determine as variações de espaço $(\Deltas$) e
-tempo $(\Deltat$) entre duas medidas consecutivas, calculando o valor da velocidade
-média (v) para o intervalo de tempo correspondente. Coloque os valores de $\Deltas$, $\Deltat$ e
+de espaço e tempo. A partir destes valores, determine as variações de espaço $(\Delta s$) e
+tempo $(\Delta t$) entre duas medidas consecutivas, calculando o valor da velocidade
+média (v) para o intervalo de tempo correspondente. Coloque os valores de $\Delta s$, $\Delta t$ e
 v nos espaços correspondentes da tabela.
 
 **Topic:** [[Newtonian Mechanics]]
@@ -37,9 +37,9 @@ v nos espaços correspondentes da tabela.
 
 1) Misura il tempo corrispondente del passaggio della sfera attraverso sei marcature
 consecutive, completando la tabella del libro di risposta con i valori misurati
-di spazio e tempo. a partire da questi valori, determinare le variazioni di spazio $(\Deltas$) e
-tempo $(\Deltat$) tra due misure consecutive, calcolando il valore della velocità
-media (v) per l'intervallo di tempo corrispondente. Immettere i valori di $\Deltas$, $\Deltat$ e
+di spazio e tempo. a partire da questi valori, determinare le variazioni di spazio $(\Delta s$) e
+tempo $(\Delta t$) tra due misure consecutive, calcolando il valore della velocità
+media (v) per l'intervallo di tempo corrispondente. Immettere i valori di $\Delta s$, $\Delta t$ e
 v nei corrispondenti spazi della tabella.
 
 **Topic:** [[Newtonian Mechanics]]
@@ -52,9 +52,9 @@ v nei corrispondenti spazi della tabella.
 
 1) Measure the corresponding time of the sphere's passage through six markings
 consecutive, filling in the table in the answer book with the measured values
-of space and time. From these values, determine the space variations $(\Deltas$) and
-time $(\Deltat$) between two consecutive measurements, calculating the value of the speed
-average (v) for the corresponding time interval. Enter the values of $\Deltas$, $\Deltat$ and
+of space and time. From these values, determine the space variations $(\Delta s$) and
+time $(\Delta t$) between two consecutive measurements, calculating the value of the speed
+average (v) for the corresponding time interval. Enter the values of $\Delta s$, $\Delta t$ and
 v in the corresponding spaces of the table.
 
 **Topic:** [[Newtonian Mechanics]]

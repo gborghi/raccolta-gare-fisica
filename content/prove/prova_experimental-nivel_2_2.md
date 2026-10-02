@@ -160,66 +160,66 @@ B.3. Propagação de erros em um cálculo matemático
 Quando obtemos qualquer medida experimental, sempre teremos o envolvimento do erro da medida. Ao
 realizarmos cálculo com essas medidas terá uma propagação destes erros e o resultado também deve ser
 representado com um erro.
-Se tivermos duas medidas do tipo, x $\pm \Deltax$, e y $\pm \Deltay$, e realizarmos uma operação matemática qualquer, o
-resultante f(x,y) também terá um erro $\Deltaf(x,y$). O valor do erro $\Deltaf(x,y$) pode ser obtido pela equação:
+Se tivermos duas medidas do tipo, x $\pm \Delta x$, e y $\pm \Delta y$, e realizarmos uma operação matemática qualquer, o
+resultante f(x,y) também terá um erro $\Delta f(x,y$). O valor do erro $\Delta f(x,y$) pode ser obtido pela equação:
 $\Delta$ f (x , y)=[(
-$\partialf$
-$\partialx$ )
+$\partial f$
+$\partial x$ )
 2
 $(\Delta$ x)
 2+(
-$\partialf$
-$\partialy$ )
+$\partial f$
+$\partial y$ )
 2
 $(\Delta$ y)
 2]
 1/2
 (B14)
-onde $\partialf /\partialz$
+onde $\partial f /\partial z$
 é a derivada parcial da função f com relação à variável z (z corresponde a x ou y, na expressão
 B14).
 Para um cálculo rápido e simplificado, apresentamos na Tabela B-1 uma lista de fórmulas para operações
 mais comuns.
 Tabela B-1: Exemplos de expressões para cálculos de propagação de erros.
 w= w(x, y, z,...)
-Expressão para a incerteza $\sigmaw$
+Expressão para a incerteza $\sigma w$
 w=x $\pm y\pm$ z $\pm$...
-$\sigmaw$
+$\sigma w$
 $2=\sigma$ x
 $2+\sigma$ y
-$2+\sigmaz$
+$2+\sigma z$
 2+...
 w=x
 m
-$\sigmaw=|mx$
-$m-1|\sigmax$ ou |
-$\sigmaw$
-w |=|m $\sigmax$
+$\sigma w=|mx$
+$m-1|\sigma x$ ou |
+$\sigma w$
+w |=|m $\sigma x$
 x |
 w=ax
-$\sigmaw=|a|\sigmax$ ou |
-$\sigmaw$
+$\sigma w=|a|\sigma x$ ou |
+$\sigma w$
 w |=|
 $\sigma$ x
 x |
 w=ax $\pm$ b
 $\sigma w=|a|\sigma$ x ou |
-$\sigmaw$
+$\sigma w$
 w |=|
 $\sigma$ x
 x |
 w=axy
-$\sigmaw$
+$\sigma w$
 2=(ay)
-$2\sigmax$
+$2\sigma x$
 2+(ax)
 $2\sigma$ y
 2 ou (
-$\sigmaw$
+$\sigma w$
 w )
 2
 =(
-$\sigmax$
+$\sigma x$
 x )
 2
 +(
@@ -228,23 +228,23 @@ y )
 2
 w=a x
 y
-$\sigmaw$
+$\sigma w$
 2=(
 a
 y)
 2
-$\sigmax$
+$\sigma x$
 2+(a x
 y
 2)
 2
 $\sigma$ y
 2 ou (
-$\sigmaw$
+$\sigma w$
 w )
 2
 =(
-$\sigmax$
+$\sigma x$
 x )
 2
 +(
@@ -264,17 +264,17 @@ pqy
 $q-1$)
 $2\sigma$ y
 2 ou (
-$\sigmaw$
+$\sigma w$
 w )
 2
-=( p $\sigmax$
+=( p $\sigma x$
 x )
 2
 +(q $\sigma$ y
 y )
 2
 w=a sen(bx)
-$\sigmaw=|abcos(bx)|\sigma$ x – com bx e $b\sigmax$ em radianos
+$\sigma w=|abcos(bx)|\sigma$ x – com bx e $b\sigma x$ em radianos
 B.4. Precisão e exatidão de medidas
 Dado um conjunto de N medidas de um determinado parâmetro, podemos verificar duas relações importantes em
 relação a elas: a precisão e a exatidão das mesmas.
@@ -301,10 +301,10 @@ b) Preciso mas inexato
 c) Exato mas impreciso
 d) Preciso e exato
 Figura B-2: Representação gráfica dos conceitos de precisão e exatidão.
-Podemos estimar quantitativamente a precisão de uma medida w, que possui uma incerteza $\Deltaw$, através da
+Podemos estimar quantitativamente a precisão de uma medida w, que possui uma incerteza $\Delta w$, através da
 expressão:
 |
-$\Deltaw$
+$\Delta w$
 w $|\cdot100%$
 (B15)
 Quanto mais baixo o valor obtido com B15, maior a precisão da medida.

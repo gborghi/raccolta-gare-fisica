@@ -24,7 +24,7 @@ Um disco circular de massa M no plano horizontal pode girar livremente sobre um 
 vertical fixo em um ponto B na borda do disco. Se um cachorro de massa m, inicialmente
 no ponto B caminha uma volta pela borda do disco, mostre que o disco gira em relação a
 seu centro geométrico um ângulo $\theta$ dada pela expressão:
-θ= $\intdγ$
+θ= $\int dγ$
 cos2 γ
 K+cos2 γ
 π
@@ -51,7 +51,7 @@ Un disco circolare di massa M in piano orizzontale può girare liberamente su un
 Verticale fissa in un punto B sul bordo del disco. Se un cane di massa m, inizialmente
 Il punto B si sposta un giro lungo il bordo del disco, mostra che il disco gira rispetto a
 il suo centro geometrico un angolo $\theta$ dato dall'espressione:
-θ= $\intdγ$
+θ= $\int dγ$
 cos2 γ
 C+cos2 γ
 π
@@ -77,7 +77,7 @@ A circular disc of mass M in the horizontal plane can rotate freely on an axis
 fixed vertical at a point B on the edge of the disc. If a dog of mass m initially
 At point B, it goes around the edge of the disk, showing that the disk spins relative to
 its geometric center an angle $\theta$ given by the expression:
-θ= $\intdγ$
+θ= $\int dγ$
 cos2 γ
 The following is the list of the following:
 π

@@ -33,7 +33,7 @@ Risultati:
 
 n=
 
-$\Deltan=$
+$\Delta n=$
 
 Experiment
 A1-2
@@ -103,7 +103,7 @@ Analisi e risultati:
 n=
 Indice di rifrazione medio ottenuto usando le misurazioni con N= 3, N= 4 ed N= 5:
 
-$\langlen\rangle=$
+$\langle n\rangle=$
 
 Experiment
 A1-10
@@ -171,7 +171,7 @@ Analisi e risultati:
 
 n=
 
-$\Deltan=$
+$\Delta n=$
 
 Experiment
 A1-15
@@ -225,7 +225,7 @@ The results:
 
 n=
 
-$\Deltan=$
+$\Delta n=$
 
 Experiments
 A1-2
@@ -295,7 +295,7 @@ Analysis and results:
 n=
 Average refractive index obtained using measurements with N=3, N=4 and N=5:
 
-$\langlen\rangle=$
+$\langle n\rangle=$
 
 Experiments
 A1-10
@@ -363,7 +363,7 @@ Analysis and results:
 
 n=
 
-$\Deltan=$
+$\Delta n=$
 
 Experiments
 A1-15

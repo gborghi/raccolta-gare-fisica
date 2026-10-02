@@ -1,15 +1,17 @@
 ---
-title: OII 2021 Teorica
+title: EuPhO 2021 — Teorica
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/EuPhO
 ---
 <div class="atom-reader" data-prova="eupho_2021_theory_ita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2021 Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/newtonian-mechanics,argomento/meccanica,object/cylinder,object/piston,object/gas"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2021 — Teorica — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/newtonian-mechanics,argomento/meccanica,object/cylinder,object/piston,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -35,11 +37,11 @@ c. Trova la temperatura $T_2$ nella camera inferiore immediatamente prima che il
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the total amount of the loss:
+**T1: A leak**
 
-A cylinder cable insulated with a height $2H$ and volume $2V$ is closed from the bottom by an insulating piston. The cylinder is divided into two chambers, initially identical, by an insulating diaphragm of $m$ mass. The diaphragm rests on a circular protrusion with a seal that makes them close together. Both chambers are filled with gaseous helium at $p$ pressure and $T$ temperature. A force is applied to the piston, so that it moves slowly upwards.
+A hollow insulated cylinder of height $2H$ and volume $2V$ is closed from below by an insulating piston. The cylinder is divided into two initially identical chambers by an insulating diaphragm of mass $m$. The diaphragm rests on a circular ledge and a gasket between them provides tight contact. Both chambers are filled with gaseous helium at pressure $p$ and temperature $T$. A force is applied to the piston, so that it moves upwards slowly.
 
-a. Find the volume of the lower chamber $V_0$ when the gas starts to flow between the chambers.
+a. Find the volume of the lower chamber $V_0$ when the gas starts to leak between the chambers.
 
 b. Find the temperature $T_1$ in the upper chamber when the piston touches the diaphragm.
 
@@ -54,7 +56,7 @@ c. Find the temperature $T_2$ in the lower chamber immediately before the piston
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2021 Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/rope-string,object/cylinder"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2021 — Teorica — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/rope-string,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -82,13 +84,11 @@ dove $\operatorname{arcsinh}x \equiv \ln\!\left(x + \sqrt{1+x^2}\right)$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**T2: A wire around a cylinder**
+**T2: Thread around a cylinder**
 
-One end of a wire is bent to form a length $L > 2\pi R$ ring, and a cylinder of radius $R$ is inserted into the ring. The coefficient of friction between the wire and the cylinder is $\mu$. The free end of the wire is pulled parallel to the cylinder axis (as shown by the arrow in the photo) keeping the cylinder still.
+One end of a thread is tied into a loop of length $L > 2\pi R$, and a cylinder of radius $R$ is put through the loop. The coefficient of friction between the thread and the cylinder is $\mu$. The free end of the thread is being pulled parallel to the axis of the cylinder (as shown by arrow in the photo) while keeping the cylinder at rest. If the length of the loop is longer than a critical value, $L > L_0$, the loop can slide along the cylinder without changing its shape, otherwise the friction "locks" it into a place and increasing the pulling force would eventually just break the thread. Find this critical value $L_0$. The weight of the thread is to be neglected; the thread will not twist when being pulled.
 
-If the length of the ring is greater than a critical value, $L > L_0$, the ring can run along the cylinder without changing its shape, otherwise friction would 'lock' it in one position and increasing the tensile strength would end up breaking the wire. Find this critical value $L_0$. The weight of the wire is negligible; the wire does not twist when pulled.
-
-It may be helpful to know that
+It might be useful to know that
 
 $$2\int\sqrt{1+x^2}\,dx = x\sqrt{1+x^2} + \operatorname{arcsinh}x,$$
 
@@ -103,7 +103,7 @@ where $\operatorname{arcsinh}x \equiv \ln\!\left(x + \sqrt{1+x^2}\right)$.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2021 Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/geometric-optics,topic/wave-optics,argomento/meccanica,object/sphere,object/wire"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="EuPhO 2021 — Teorica — Quesito 3" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/geometric-optics,topic/wave-optics,argomento/meccanica,object/sphere,object/wire"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -143,25 +143,25 @@ c. Determina la differenza dei coefficienti di rifrazione $\Delta n \equiv n_V -
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculation of the total weight of the product:
+**T3: Glass ball**
 
-The first photo here next door was taken with a digital camera and shows a glass sphere, backlit with diffuse bichromatic light that has only two narrow spectral lines (red 630 nm and purple 400 nm). The diffuse light comes from the white floor (marked with "1" in the figure) and the white walls (marked with "2"), both illuminated with purple and red LED lamps. The camera's sensor only has sensors sensitive to red, blue and green, so purple light appears in the photo as blue. The photo was taken from a distance far beyond the radius of the sphere.
+The first photo here is taken with a digital camera and shows a glass ball, backlit with diffuse dichromatic light which has only two narrow spectral lines (red 630 nm and violet 400 nm). This diffuse light comes from the white floor (marked with '1' in the figure) and the white walls (marked with '2'), both illuminated with violet and red LED lamps. The sensor of the camera has only red, blue and green sensors so that violet light appears in the photo as blue. The photo is taken from a distance much greater than the radius of the ball. On the back side of the ball, a very narrow opaque thread is glued to the glass surface, forming an arc of a great circle on the ball. In the photo, the thread is obstructed by the ball and cannot be seen directly. However, hugely deformed images of a very short segment of the thread are seen as blue (marked with 'b') and red ('r') ellipses. The letter 'p' indicates purple-coloured areas in the photo.
 
-On the back of the sphere, a very thin opaque thread is glued to the glass surface, forming a maximum circle arc on the sphere. In the photo, the wire is covered by the sphere and cannot be directly observed. However, extremely distorted images of a very short segment of the wire are seen as blue (marked with "b") and red ("r") ellipses. The letter "p" indicates the purple areas in the photo.
+In the first photo, the centre of the ball is marked with a cross, and the perimeter of the ball is traced with a dashed line. You can find a larger version of the first photo on a separate sheet. You may take distance measurements there. In the larger photo, the boundary between the red and purple regions is also traced with a dashed line.
 
-In the first photo, the center of the sphere is marked with a cross, and the perimeter of the sphere is drawn with a line drawn. You can find a larger version of the first photo on a separate sheet. You can measure the lengths on this image. The larger picture shows, with a drawn line, the border between the red and purple regions.
+The second photo is taken while illuminating with a white LED with the ball turned so that the thread can be seen directly.
 
-The second photo was taken while illuminating the scene with a white LED, with the sphere rotated so that the wire can be seen directly.
+a. Explain qualitatively using a ray diagram why a segment of the thread is seen as a closed loop in the first photo.
 
-a. Explain qualitatively, using a light-ray diagram, why a segment of the wire is seen as a closed ring in the first photo.
+b. Determine the coefficient of refraction $n_R$ for the red light.
 
-b. Determine the refractive index $n_R$ for red light.
+c. Determine the difference of the coefficients of refraction $\Delta n \equiv n_V - n_R$ for the red and violet light (with $n_V$ denoting the coefficient of refraction for the violet light).
 
-c. Determine the difference of refractive coefficients $\Delta n \equiv n_V - n_R$ for purple and red light (where $n_V$ indicates the refractive coefficient for purple light).
 <!--fig:start-->
 ![[_attachments/EuPhO_2021_theory_ITA/EuPhO_2021_theory_ITA_p2_f1.png]]
-The following table shows the results of the tests:
+*Glass ball backlit with red and violet light (first photo)*
 <!--fig:end-->
+
 <!--fig:start-->
 ![[_attachments/EuPhO_2021_theory_ITA/EuPhO_2021_theory_ITA_p2_f2.png]]
 *Sphere with wire visible under white LED*

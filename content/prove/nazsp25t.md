@@ -257,7 +257,7 @@ Se non ci fossero perdite di energia causate dalla viscosità tutta l’energia 
 Ciò, al limite, accadrebbe se la bolla venisse lasciata sgonfiare attraverso un anello sottile (L = 0) di raggio
 r uguale al raggio interno della cannuccia. Per tale ipotesi è possibile dimostrare che la relazione che lega il
 tempo di sgonfiamento e il raggio iniziale della bolla R è del tipo
-t0 = $\epsilonR7/2$
+t0 = $\epsilon R7/2$
 (2)
 in cui il parametro $\epsilon$ è a sua volta legato alla tensione superficiale dell’acqua saponata, alla densità della miscela
 di gas in uscita dalla bolla e al raggio interno della cannuccia.
@@ -285,7 +285,7 @@ If there were no energy losses caused by viscosity, all the potential energy ini
 This would happen at the limit if the bubble were allowed to deflate through a thin ring (L = 0) of radius.
 r equal to the inner radius of the straw. The Commission's proposal for a regulation on the
 The time of deflation and the initial radius of the bubble R is the type
-t0 = $\epsilonR7/2$
+t0 = $\epsilon R7/2$
 (2)
 where the $\epsilon$ parameter is in turn related to the surface tension of the soap water, the density of the mixture
 the gas coming out of the bubble and the inner radius of the straw.

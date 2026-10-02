@@ -604,7 +604,7 @@ Reaction stoichiometry, kinetics and thermodynamics
 Nitrosyl chloride (NOCl), is a yellow gas that is most commonly encountered as a
 decomposition product of aqua regia. It is toxic and irritating to the lungs. On heating
 NOCl decomposes as 2NOCl 2NO + Cl2.
-The enthalpy change $(\DeltaH$) for the formation of 1 mole of Cl2 by the decomposition of
+The enthalpy change $(\Delta H$) for the formation of 1 mole of Cl2 by the decomposition of
 NOCl is 75.3 kJ between 100 K to 600 K. The standard entropies (S0
 298K) of different
 species are as given below:

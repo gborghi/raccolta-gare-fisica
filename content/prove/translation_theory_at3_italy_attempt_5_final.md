@@ -49,12 +49,12 @@ page 3 of 4
 
 ε $\approx$
 $\approx$
-$\etaV$
+$\eta V$
 $\approx$
 dN
 $d\phi$
 $\approx$
-$\phiend$
+$\phi end$
 
 r
 
@@ -109,12 +109,12 @@ Page 3 of 4
 
 ε $\approx$
 $\approx$
-$\etaV$
+$\eta V$
 $\approx$
 dN
 $d\phi$
 $\approx$
-$\phiend$
+$\phi end$
 
 r
 

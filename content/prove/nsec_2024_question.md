@@ -188,8 +188,8 @@ Specific heat of water = 4.2 J/g °C
 
 A chemical reaction, $\mathrm{X_{(g)} + Y_{(g)} \to Z_{(g)}}$ has following mechanism:
 
-$$\mathrm{X_{(g)} + S_{(s)} \underset{k_2}^{k_1} [XS]_{(s)}}$$
-$$\mathrm{[XS]_{(s)} + Y_{(g)} \underset{k_4}^{k_3} Z_{(g)} + S_{(s)}}$$
+$$\mathrm{X_{(g)} + S_{(s)} \underset{k_2}{\overset{k_1}{\rightleftharpoons}} [XS]_{(s)}}$$
+$$\mathrm{[XS]_{(s)} + Y_{(g)} \underset{k_4}{\overset{k_3}{\rightleftharpoons}} Z_{(g)} + S_{(s)}}$$
 
 [where (S) is solid catalyst]
 

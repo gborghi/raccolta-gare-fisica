@@ -126,7 +126,7 @@ Así pues
 cos2 ββ
 = $-1$ + 2 senββ
 cos2 ββ
-$\Rightarrowsenββ=$ 1
+$\Rightarrow senββ=$ 1
 2
 Por tanto,
 ββ= arctan 1

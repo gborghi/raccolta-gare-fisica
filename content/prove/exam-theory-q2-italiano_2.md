@@ -20,7 +20,7 @@ Q2-1
 Italiano (Italy)
 Lenti elettrostatiche (10 punti)
 Considera un anello metallico di raggio R, uniformemente carico con carica totale q. L’anello è un toroide
-cavo di spessore $2a\llR$. Questo spessore può essere trascurato nelle parti A, B, C, ed E. Il piano xy
+cavo di spessore $2a\ll R$. Questo spessore può essere trascurato nelle parti A, B, C, ed E. Il piano xy
 coincide con il piano dell’anello, mentre l’asse zè ad esso perpendicolare , come mostrato nella Figura 1.
 Nelle parti A e B può essere necessario utilizzare la formula (sviluppo in serie di Taylor)
 (1 + $x)ε\approx1$ + εx+ 1
@@ -33,10 +33,10 @@ zdal suo centro (punto A in Figura 1).
 0.3pt
 A.2
 Calcola il potenziale elettrostatico $\Phi(z$) al primo ordine non costante in z,
-assumendo $z\llR$.
+assumendo $z\ll R$.
 0.4pt
 A.3
-Un elettrone (massa me carica $-e$) è posto nel punto A (Figura 1, $z\llR$). Qual
+Un elettrone (massa me carica $-e$) è posto nel punto A (Figura 1, $z\ll R$). Qual
 è l’espressione della forza che agisce sull’elettrone? Dall’espressione della forza
 determina il segno di qin modo che il moto risultante corrisponda ad un moto
 oscillatorio. L’elettrone in movimento non influenza la distribuzione di carica
@@ -46,7 +46,7 @@ A.4
 Qual è la frequenza angolare ωdi queste oscillazioni armoniche?
 0.1pt
 Parte B. Potenziale elettrostatico nel piano dell’anello (1.7 punti)
-In questa parte del problema dovrai analizzare il potenziale $\Phi(r$) nel piano dell’anello (z= 0) per $r\llR$
+In questa parte del problema dovrai analizzare il potenziale $\Phi(r$) nel piano dell’anello (z= 0) per $r\ll R$
 (punto B in Figura 1). Al primo ordine non costante in ril potenziale elettrostatico è dato da $\Phi(r$) $\approx$
 q(α+ βr2).
 
@@ -58,7 +58,7 @@ Determina l’espressione per β. Potresti aver bisogno dello sviluppo in serie 
 Taylor fornito precedentemente.
 1.5pt
 B.2
-Un elettrone è posto nel punto B (Figura 1, $r\llR$). Qual è l’espressione della
+Un elettrone è posto nel punto B (Figura 1, $r\ll R$). Qual è l’espressione della
 forza che agisce sull’elettrone? Dall’espressione della forza determina il segno di
 qin modo che il moto risultante corrisponda ad un moto oscillatorio. L’elettrone
 in movimento non influenza la distribuzione di carica sull’anello.
@@ -68,16 +68,16 @@ Si vuole costruire un dispositivo per focalizzare gli elettroni — una lente el
 seguente schema. L’anello è posizionato perpendicolarmente all’asse zcome mostrato in Figura 2. Abbiamo una sorgente che ammette a richiesta pacchetti di elettroni non relativistici. L’energia cinetica
 di questi elettroni è E= mv2/2 (vè la velocità) e vengono emessi dalla sorgente ad un istante perfettamente determinato. Il sistema è programmato in modo che l’anello sia a carica nulla per la maggior
 parte del tempo ma viene caricato con una carica qquando gli elettroni sono ad una distanza minore di
-$d/2(d\llR$) dal piano dell’anello (regione ombreggiata in grigio nella Figura 2, chiamata “regione attiva”).
+$d/2(d\ll R$) dal piano dell’anello (regione ombreggiata in grigio nella Figura 2, chiamata “regione attiva”).
 Nella parte C assumeremo che i processi di carica e la scarica siano istantanei e che il campo elettrico
 ”riempia lo spazio” in maniera altrettanto istantanea. Trascureremo inoltre l’influenza dei campi magnetici e assumeremo che la velocità degli elettroni nella direzione zsia costante. L’elettrone in movimento
 non influenza la distribuzione di carica sull’anello.
 Figura 2. Un modello di lente elettrostatica.
 C.1
-Determina la lunghezza focale fdi questa lente. Assumi che $f\ggd$. Esprimi il
+Determina la lunghezza focale fdi questa lente. Assumi che $f\gg d$. Esprimi il
 tuo risultato in termini della costante βdella domanda B.1 e di altre quantità
 note. Assumi che prima di raggiungere la ”regione attiva” il moto del pacchetto
-di elettroni sia parallelo all’asse ze che $r\llR$. Il segno di qdovrebbe essere
+di elettroni sia parallelo all’asse ze che $r\ll R$. Il segno di qdovrebbe essere
 scelto in modo che la lente sia convergente.
 1.3pt
 In realtà la sorgente di elettroni è posizionata sull’asse zad una distanza b> fdal centro dell’anello.
@@ -106,7 +106,7 @@ Il modello considerato precedentemente era idealizzato e abbiamo assunto che l�
 istantaneamente. Nella realtà il processo di carica non è istantaneo poiché l’anello è un condensatore
 con una capacità finita C. In questa parte studieremo le proprietà di questo condensatore. Potrebbero
 servirti i seguenti integrali:
-$\intdx$
+$\int dx$
 sin x= $-ln$ ∣cos x+ 1
 sin x
 ∣+ const
@@ -117,7 +117,7 @@ $\sqrt{}$
 1 + x2 = ln ∣x+ $\sqrt{}1$ + x2∣+ const.
 D.1
 Calcola la capacità Cdell’anello. Considera che l’anello ha una larghezza finita
-2ama ricorda che $a\llR$.
+2ama ricorda che $a\ll R$.
 2.0pt
 Quando gli elettroni raggiungono la “regione attiva” l’anello è collegato ad un generatore di differenza di
 potenziale V0 (Figura 3). Quando gli elettroni oltrepassano la “regione attiva” l’anello viene messo a terra.
@@ -141,7 +141,7 @@ punti)
 In questa parte del problema, considereremo il comportamento di una lente pù realistica. Qui trascureremo di nuovo lo spessore dell’anello 2ae assumeremo che gli elettroni viaggiano parallelamente all’asse
 zprima di raggiungere la ”regione attiva”. Invece il processo di carica dell’anello non è più istantaneo.
 E.1
-Trova la lunghezza focale fdella lente. Assumi che $f/v\ggR0C$, ma d/ve R0C
+Trova la lunghezza focale fdella lente. Assumi che $f/v\gg R0C$, ma d/ve R0C
 siano dello stesso ordine di grandezza. Esprimi la tua risposta in termini della
 costante βdella parte B e altre quantità note.
 1.7pt
@@ -181,7 +181,7 @@ Q2-1
 Italian (Italy)
 The following table shows the results of the calculations:
 Consider an R-ray metal ring, uniformly loaded with total q load. The ring is a toroid.
-a width of $2a\llR$. This thickness can be overlooked in parts A, B, C, and E. The xy plan
+a width of $2a\ll R$. This thickness can be overlooked in parts A, B, C, and E. The xy plan
 coincides with the plane of the ring, while the z axis is perpendicular to it, as shown in Figure 1.
 In Parts A and B it may be necessary to use the formula (Taylor series development)
 (1 + $x)ε\approx1$ + εx+ 1
@@ -194,10 +194,10 @@ The data set is the same as the data set.
 0.3pt
 A.2
 Calculate the electrostatic potential $\Phi(z$) at the first non-constant order in z,
-assumendo $z\llR$.
+assumendo $z\ll R$.
 0.4pt
 A.3
-An electron (charging mass me $-e$) is placed in point A (Figure 1, $z\llR$). What
+An electron (charging mass me $-e$) is placed in point A (Figure 1, $z\ll R$). What
 Is it the expression of the force acting on the electron? From the expression of force
 determines the qin sign so that the resulting motor corresponds to a motor
 The oscillating force. The electron in motion does not affect the charge distribution
@@ -207,7 +207,7 @@ A.4
 What is the angular frequency of these harmonic oscillations?
 0.1pt
 Part B. Electrostatic potential in the plane of the ring (1.7 points)
-In this part of the problem you'll have to analyze the potential $\Phi(r$ in the ring plane (z=0) for $r\llR$
+In this part of the problem you'll have to analyze the potential $\Phi(r$ in the ring plane (z=0) for $r\ll R$
 (point B in Figure 1). The first non-constant order in electrostatic potential is given by $\Phi(r$) $\approx$
 q(α+ βr2).
 
@@ -219,7 +219,7 @@ Determine the expression for β. You may need the series development of
 Taylor provided earlier.
 1.5pt
 B.2
-An electron is placed in point B (Figure 1, $r\llR$). What is the expression of the
+An electron is placed in point B (Figure 1, $r\ll R$). What is the expression of the
 The force acting on the electron? The force is expressed by the sign of
 The resulting motion is a oscillating motion. The electron
 The movement does not affect the distribution of the load on the ring.
@@ -229,16 +229,16 @@ You want to build a device to focus electrons  an electrostatic lens. Consider t
 The following diagram. The ring is positioned perpendicular to the z axis as shown in Figure 2. We have a source that allows for non-relativistic electron packs on demand. Kinetic energy
 of these electrons is E=mv2/2 (see velocity) and they are emitted from the source at a perfectly determined instant. The system is programmed so that the ring is charged at zero for most
 The electrons are at a distance of less than
-$d/2(d\llR$) from the plane of the ring (grey shaded region in Figure 2, called active region).
+$d/2(d\ll R$) from the plane of the ring (grey shaded region in Figure 2, called active region).
 In Part C we will assume that the charging and discharging processes are instantaneous and that the electric field is
 fill the space just as instantly. We will also ignore the influence of magnetic fields and assume that the velocity of the electrons in the direction is constant. The electron in motion
 does not affect the distribution of load on the ring.
 Figure two. It's a model of an electrostatic lens.
 C.1
-Determine the focal length of this lens. Assume that $f\ggd$. Express the
+Determine the focal length of this lens. Assume that $f\gg d$. Express the
 your result in terms of the constant β of application B.1 and other quantities
 Notes. Assume that before reaching the active region the package motion
-The electron is parallel to the axis z and $r\llR$. The sign of q should be
+The electron is parallel to the axis z and $r\ll R$. The sign of q should be
 selected so that the lens converges.
 1.3pt
 In reality the source of electrons is located on the zad axis a distance b> f from the center of the ring.
@@ -267,7 +267,7 @@ The model we considered was idealized and we assumed that the ring would be load
 I'm going to get it right away. In reality the charging process is not instantaneous because the ring is a condenser
 with a finite capacity C. In this part, we're going to study the properties of this capacitor. They could
 You need the following integers:
-$\intdx$
+$\int dx$
 sin x= $-ln$ ∣cos x+ 1
 without x
 + const
@@ -278,7 +278,7 @@ $\sqrt{}$
 1 + x2 = ln ∣x+ $\sqrt{}1$ + x2∣+ const.
 D.1
 Calculate the capacity of the ring. Consider the ring to be finite in width.
-2ama recalls that $a\llR$.
+2ama recalls that $a\ll R$.
 2.0pt
 When the electrons reach the  active region the ring is connected to a difference generator of
 The potential for V0 (Figure 3). When the electrons pass the active region the ring is put to the ground.
@@ -302,7 +302,7 @@ Part E. The focal length of a more realistic lens: non-instant loading process (
 In this part of the problem, we will consider the behaviour of a more realistic lens. Here we'll overlook the thickness of ring 2 again and assume that the electrons travel parallel to the axis.
 before reaching the active region. The process of loading the ring is no longer instantaneous.
 E.1
-Find the focal length of the lens. Assume that $f/v\ggR0C$, but d/ve R0C
+Find the focal length of the lens. Assume that $f/v\gg R0C$, but d/ve R0C
 They're the same order of magnitude. Please state your answer in terms of
 the β constant of part B and other known quantities.
 1.7pt

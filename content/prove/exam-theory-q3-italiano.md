@@ -48,11 +48,11 @@ u(x, t) = asin(kx) cos(ωt) = u1(x) cos(ωt)
 (notare che qui la variabile udescrive lo spostamento di un elemento di
 gas)
 
-dove $a\llLè$ una costante positiva, k= 2π/λè il numero d’onda e λè la lunghezza d’onda. Qual è la massima lunghezza d’onda possibile λmax in questo
+dove $a\ll Lè$ una costante positiva, k= 2π/λè il numero d’onda e λè la lunghezza d’onda. Qual è la massima lunghezza d’onda possibile λmax in questo
 sistema?
 0.3pt
 Si assuma in tutto il problema un modo di oscillazione con λ= λmax.
-Ora si consideri una sottile porzione di gas, situata a riposo tra xe x+ $\Deltax(\Deltax\llL$). Per effetto dell’onda
+Ora si consideri una sottile porzione di gas, situata a riposo tra xe x+ $\Delta x(\Delta x\ll L$). Per effetto dell’onda
 longitudinale della domanda A.1, la porzione oscilla lungo l’asse xe subisce un cambiamento di volume
 e di altre proprietà termodinamiche.
 Nei prossimi quesiti si assuma che tutti questi cambiamenti delle proprietà termodinamiche siano piccoli
@@ -62,7 +62,7 @@ Theory
 Q3-2
 Italiano (Italy)
 A.2
-Il volume V(x, t) della porzione oscilla intorno al valore di equilibrio V0 = $S\Deltaxe$
+Il volume V(x, t) della porzione oscilla intorno al valore di equilibrio V0 = $S\Delta xe$
 si può esprimere come
 V(x, t) = V0 + V1(x) cos(ωt).
 (2)
@@ -108,7 +108,7 @@ Italiano (Italy)
 Parte B: Amplificazione di onde sonore indotta da un contatto termico esterno (6.3 punti)
 Una pila di lamine sottili e ben distanziate una dall’altra è inserita nel tubo. Le lamine della pila sono
 allineate parallelamente all’asse del tubo, così da non ostacolare il flusso del gas lungo il tubo. Il centro
-della pila è posizionato a x0 = L/4. La pila ha una larghezza $l\llLlungo$ l’asse del tubo, riempiendo
+della pila è posizionato a x0 = L/4. La pila ha una larghezza $l\ll Llungo$ l’asse del tubo, riempiendo
 tutta la sua sezione trasversale. Gli estremi destro e sinistro della pila sono mantenuti a una differenza
 di temperatura τ. L’estremo sinistro della pila, a xH= x0 $-l/2$, è mantenuto da una sorgente termica
 esterna alla temperatura TH= T0 + τ/2. Allo stesso tempo il suo estremo destro, a xC= x0 + l/2, è
@@ -126,12 +126,12 @@ facciano le seguenti assunzioni:
 possibile. L’onda è modificata in modo trascurabile dalla presenza della pila di lamine.
 • La pila è molto più corta della lunghezza d’onda $l\llλmax$, e può essere posizionata sufficientemente
 lontana dai punti nodali dello spostamento e della pressione, in modo che lo spostamento u(x, t) $\approx$
-u(x0, t) e la pressione p(x, t) $\approxp(x0$, t) possono essere considerati uniformi lungo l’intera lunghezza
+u(x0, t) e la pressione p(x, t) $\approx p(x0$, t) possono essere considerati uniformi lungo l’intera lunghezza
 della pila.
 • Si possono trascurate tutti gli effetti di bordo, dovuti alle porzioni di gas che entrano ed escono
 dalla pila.
 • La differenza di temperatura tra le estremità della pila, cioè tra le sorgenti calda e fredda, è piccola
-rispetto alla temperatura assoluta: $τ\llT0$.
+rispetto alla temperatura assoluta: $τ\ll T0$.
 • La conduzione di calore attraverso la pila, attraverso il gas e lungo il tubo sono trascurabili. Le
 uniche cause significative di trasferimento di calore sono la convezione dovuta al moto del gas e la
 conduzione tra il gas e la pila.
@@ -217,11 +217,11 @@ The following table shows the number of samples taken from the sample:
 (note that here the variable u describes the displacement of an element of
 gas)
 
-where $a\llLè$ is a positive constant, k= 2π/λ is the wave number and λ is the wave length. What is the maximum possible wavelength λmax in this
+where $a\ll Lè$ is a positive constant, k= 2π/λ is the wave number and λ is the wave length. What is the maximum possible wavelength λmax in this
 The system?
 0.3pt
 A mode of oscillation with λ= λmax is assumed throughout the problem.
-Now consider a thin portion of gas, lying at rest between x+ $\Deltax(\Deltax\llL$). By the wave
+Now consider a thin portion of gas, lying at rest between x+ $\Delta x(\Delta x\ll L$). By the wave
 The longitudinal part of the A.1 question, the portion oscillating along the axis is subject to a change in volume
 and other thermodynamic properties.
 In the next few questions, it is assumed that all these changes in thermodynamic properties are small.
@@ -231,7 +231,7 @@ Theory
 Q3-2
 Italian (Italy)
 A.2
-The volume V(x, t) of the portion oscillates around the equilibrium value V0 = $S\Deltaxe$
+The volume V(x, t) of the portion oscillates around the equilibrium value V0 = $S\Delta xe$
 It can be expressed as
 V(x, t) = V0 + V1(x) cos(ωt)
 (2)
@@ -277,7 +277,7 @@ Italian (Italy)
 Part B: Sound wave amplification induced by external heat contact (6.3 points)
 A pile of thin, well-distant sheets is inserted into the tube. The stack sheets are
 align parallel to the axis of the pipe so as not to impede the flow of gas along the pipe. The centre
-the stack is positioned at x0 = L/4. The battery has a width $l\llLlungo$ lax of the tube, filling
+the stack is positioned at x0 = L/4. The battery has a width $l\ll Llungo$ lax of the tube, filling
 the entire cross section. The right and left ends of the pile are kept at a difference
 of a temperature of τ. The left-hand side of the battery, at xH=x0 $-l/2$, is maintained by a heat source
 The following conditions shall apply: At the same time its far right, at xC=x0 + l/2, is
@@ -295,12 +295,12 @@ They take the following positions:
 I'm sure you can. The wave is slightly altered by the presence of the sheet pile.
 • The stack is much shorter than the wavelength $l\llλmax$, and can be positioned sufficiently
 away from the nodal points of displacement and pressure, so that the displacement u(x, t) $\approx$
-U(x0, t) and the pressure p(x, t) $\approxp(x0$, t) can be considered uniform throughout the length
+U(x0, t) and the pressure p(x, t) $\approx p(x0$, t) can be considered uniform throughout the length
 The stack.
 • All onboard effects can be overlooked due to the portions of gas entering and leaving the vessel.
 from the pile.
 • The temperature difference between the ends of the stack, i.e. between hot and cold sources, is small
-with respect to absolute temperature: $τ\llT0$.
+with respect to absolute temperature: $τ\ll T0$.
 • The conduction of heat through the battery, through the gas and along the pipe is negligible. Le
 The only significant causes of heat transfer are convection due to the motion of the gas and the
 conduction between the gas and the battery.

@@ -41,31 +41,31 @@ a 1⁄4 o 1/5 di spira.
  Il numero totale delle spire
 servirà poi per trovare la massa della molla.
 
-- Ricava sperimentalmente la funzione $\Deltay$ = f (n) , dove $\Deltay$ è la lunghezza assunta in direzione verticale dalla singola
+- Ricava sperimentalmente la funzione $\Delta y$ = f (n) , dove $\Delta y$ è la lunghezza assunta in direzione verticale dalla singola
 n-esima spira a molla scarica, ed n è il numero di spire sottostanti (vedi figura 1).
 Quando la molla è appesa, il punto finale del gancio dovrebbe essere sulla stessa verticale dell’inizio della prima spira, se si
 vuole avere un numero intero di spire in sospensione. Sul metro di carta fissato al righello, che pende verticalmente lungo la
 molla a contatto con le spire, si legge la posizione y di ogni singola spira, o meglio la posizione del punto di ogni spira che
 risulti allineato con il punto d’inizio della prima, per esempio là dove questa si stacca dal righello di sostegno, oppure con un
 altro punto scelto come riferimento. Si leggono le posizioni y delle spire della molla scarica. La figura suggerisce di
-numerare le spire a partire dal basso e di comprendere nelle n spire anche quella che si deforma, e il cui $“\Deltay”$ è in esame. $\Deltay$
+numerare le spire a partire dal basso e di comprendere nelle n spire anche quella che si deforma, e il cui $“\Delta y”$ è in esame. $\Delta y$
 esprime l’allungamento della spira sommato al suo spessore.
 La tabella I riporta alcuni risultati per una molla di massa 103,62 g (misurata con bilancia), e 87,5 spire. Si è apprezzato il 1⁄2
 millimetro.
 Si può procedere costruendo il grafico degli allungamenti di una singola spira in funzione delle spire sottostanti. Il
 comportamento della molla sembra molto regolare, ma i punti risultano un po’ dispersi, anche perché non si possono
-apprezzare variazioni della lunghezza $\Deltay$ inferiori a 0,5 mm. Comunque il grafico appare chiaramente rettilineo e se ne può
-ricavare l’equazione $\Deltay$ = A0 + B0 n. È molto più comodo ottenere una regressione lineare con la calcolatrice.
+apprezzare variazioni della lunghezza $\Delta y$ inferiori a 0,5 mm. Comunque il grafico appare chiaramente rettilineo e se ne può
+ricavare l’equazione $\Delta y$ = A0 + B0 n. È molto più comodo ottenere una regressione lineare con la calcolatrice.
 Il grafico rettilineo per la molla scarica non passa per l’origine, e attraversa l’asse delle ascisse in un punto corrispondente a
 no spire (una decina di spire). Difatti le spire più basse della molla non si deformano per effetto del loro peso. L’equazione
 della retta esprime la relazione fisica tra numero di spire e allungamento solo per n> no . Per n $\leq$ no , con la formula si
-otterrebbero valori negativi o nulli, mentre in realtà ogni $\Deltay$ corrisponde al solo spessore s di una spira (s = lunghezza molla
+otterrebbero valori negativi o nulli, mentre in realtà ogni $\Delta y$ corrisponde al solo spessore s di una spira (s = lunghezza molla
 / numero totale di spire) .
- La funzione $\Deltay$ = f (n) è: per 0 < n $\leq$ n0, $\Deltay$ = s ; per n0 < n $\leq$ nmax, $\Deltay$ = A0 + B0 n
+ La funzione $\Delta y$ = f (n) è: per 0 < n $\leq$ n0, $\Delta y$ = s ; per n0 < n $\leq$ nmax, $\Delta y$ = A0 + B0 n
 
 Esempio: n0 = 11 ; lunghezza molla = 50 mm, numero totale di spire = 87,5; s = 0,57 mm
-per 0 < n $\leq$ 11, $\Deltay$ = 0,57 mm
-per 11 < n $\leq$ nmax, $\Deltay$ = A0 + B0 n , con A0 = -3,72 mm $\approx$ - 3,7 mm , B0 = 0,332 mm (da grafico manuale)
+per 0 < n $\leq$ 11, $\Delta y$ = 0,57 mm
+per 11 < n $\leq$ nmax, $\Delta y$ = A0 + B0 n , con A0 = -3,72 mm $\approx$ - 3,7 mm , B0 = 0,332 mm (da grafico manuale)
  A0 = - 2,56 mm $\approx$ -2,6 mm , B0 = 0,301 mm (da calcolatrice)
 
 Il termine con incertezza maggiore è A0.
@@ -98,13 +98,13 @@ y
 (rondelle2)
 (mm)
 
-$\Deltay$
+$\Delta y$
 scarica.
 (mm)
-$\Deltay$
+$\Delta y$
 (rondelle 1)
 (mm)
-$\Deltay$
+$\Delta y$
 (rondelle 2)
 (mm)
 
@@ -468,12 +468,12 @@ Esempio di risultati per una molla di massa 103,62 g (misurata con bilancia), e 
 
 Procedura (I):
 
-Dalle posizioni y si ricavano le lunghezze $\Deltay$ (= allungamento + spessore) di ogni singola spira, oppure di gruppetti di spire
+Dalle posizioni y si ricavano le lunghezze $\Delta y$ (= allungamento + spessore) di ogni singola spira, oppure di gruppetti di spire
 consecutive (p.es. 5 spire) sia per molla scarica che per molla caricata con 12 rondelle Si costruiscono con gli stessi assi i
 
 3
-due grafici delle lunghezze $\Deltay$ in funzione del numero n di spire sottostanti e la figura suggerisce come contare queste
-ultime, così da avere lunghezze $\Deltay$ crescenti al crescere di n. Raggruppando più spire (p.es. 5) si ottiene una minore
+due grafici delle lunghezze $\Delta y$ in funzione del numero n di spire sottostanti e la figura suggerisce come contare queste
+ultime, così da avere lunghezze $\Delta y$ crescenti al crescere di n. Raggruppando più spire (p.es. 5) si ottiene una minore
 dispersione dei punti. I due grafici sono rettilinei e (circa) paralleli tra loro.
 La molla non sembra presentare isteresi; si può supporre che a parità di allungamento di una singola spira o di un gruppo di
 spire, la forza di trazione sulla spira sia la stessa. Per ogni valore di allungamento, tra i due numeri di spire corrispondenti
@@ -483,7 +483,7 @@ complessivo di spire della molla si ricava facilmente quanto pesa tutta la molla
 
 Esempio2 con le rondelle di “tipo 1”.
 Massa rondelle 1 = 38,2 $\pm$ 0,1 g; numero totale di spire = 87,5 $\pm$ 0,25 spire
-Dai grafici manuali $(\Deltay$ vs n) : n scarica - n carica = 30 $\pm$ 2 spire
+Dai grafici manuali $(\Delta y$ vs n) : n scarica - n carica = 30 $\pm$ 2 spire
 Valore della massa molla = 38,2 $\cdot$ 87,5 / 30 = 111,42 g
 Incertezza % = 0,26% + 0,29% + 6,67% = 7,22 % massa molla = 111 $\pm$ 7 g
 
@@ -491,8 +491,8 @@ Dai grafici della lunghezza complessiva di 5 spire consecutive in funzione di n,
 diminuisce e così quella sulla massa:
 n scarica - n carica = 31,8 $\pm$ 0,6 spire massa molla = 105 $\pm$ 2 g
 
-Oppure con la calcolatrice si fanno le due regressioni lineari di $\Deltay$ in funzione di n. Dai coefficienti delle relazioni $\Deltay$ = A1
-+ B1 n e $\Deltay$ = A0 + B0 n , con molla carica e scarica, si può ricavare la differenza tra le ascisse n a parità di $\Deltay$. Il
+Oppure con la calcolatrice si fanno le due regressioni lineari di $\Delta y$ in funzione di n. Dai coefficienti delle relazioni $\Delta y$ = A1
++ B1 n e $\Delta y$ = A0 + B0 n , con molla carica e scarica, si può ricavare la differenza tra le ascisse n a parità di $\Delta y$. Il
 risultato è unico se le rette sono parallele, cioè se B1 =B0 .
 
 Esempio.
@@ -559,31 +559,31 @@ a quarter or a fifth of a spire.
 Total number of spires
 It'll be used to find the mass of the spring.
 
-- Experimentally, the function $\Deltay$ = f (n) is obtained, where $\Deltay$ is the length taken vertically by the single
+- Experimentally, the function $\Delta y$ = f (n) is obtained, where $\Delta y$ is the length taken vertically by the single
 n-eighth discharge spring, and n is the number of underlying spires (see Figure 1).
 When the spring is suspended, the end point of the hook should be on the same vertical as the start of the first spindle, if
 He wants to have a whole number of expired expirations. On the paper meter fixed to the reel, which hangs vertically along the
 If the spinning is in contact with the spins, the position y of each individual spinning is read, or rather the position of the point of each spinning that
 It is aligned with the starting point of the first, for example where it is detached from the supporting reel, or with a
 other point chosen as a reference. You read the y-positions of the exhaust spring's spires. The figure suggests that
-The number of spires from the bottom and including the one that is deformed and whose $“\Deltay”$ is under consideration in the n spires. $\Deltay$
+The number of spires from the bottom and including the one that is deformed and whose $“\Delta y”$ is under consideration in the n spires. $\Delta y$
 The length of the spire is expressed as the length of the spire plus its thickness.
 Table I shows some results for a spring of mass 103,62 g (measured by weight) and 87,5 spires. It was appreciated by the
 It's a millimeter.
 The graph of the elongations of a single spire can be constructed according to the underlying spires. Il
 The spring's behavior seems very regular, but the spots are a little bit missing, also because you can't
-appreciate variations in length $\Deltay$ less than 0,5 mm. However, the graph appears clearly straight and you can
-ricavare l’equazione $\Deltay$ = A0 + B0 n. It's much more convenient to get a linear regression with the calculator.
+appreciate variations in length $\Delta y$ less than 0,5 mm. However, the graph appears clearly straight and you can
+ricavare l’equazione $\Delta y$ = A0 + B0 n. It's much more convenient to get a linear regression with the calculator.
 The straight graph for the discharge spring does not pass through the source, and crosses the axis of the axis at a point corresponding to
 Not a ten-horse. In fact, the lower spires of the spring do not deform by their weight. The equation
 The number of lines of the line expresses the physical relationship between number of turns and elongation only by n> no. For n $\leq$ no, with the formula si
-They would get negative or zero values, whereas in reality each $\Deltay$ corresponds to the single thickness s of a spire (s = spring length)
+They would get negative or zero values, whereas in reality each $\Delta y$ corresponds to the single thickness s of a spire (s = spring length)
 / total number of spires)
-The function $\Deltay$ = f (n) is: for 0 < n $\leq$ n0, $\Deltay$ = s; for n0 < n $\leq$ nmax, $\Deltay$ = A0 + B0 n
+The function $\Delta y$ = f (n) is: for 0 < n $\leq$ n0, $\Delta y$ = s; for n0 < n $\leq$ nmax, $\Delta y$ = A0 + B0 n
 
 Example: n0 = 11; spring length = 50 mm, total number of spires = 87,5; s = 0,57 mm
-For 0 < n $\leq$ 11, $\Deltay$ = 0,57 mm
-for 11 < n $\leq$ nmax, $\Deltay$ = A0 + B0 n , with A0 = -3,72 mm $\approx$ - 3,7 mm , B0 = 0,332 mm (manual chart)
+For 0 < n $\leq$ 11, $\Delta y$ = 0,57 mm
+for 11 < n $\leq$ nmax, $\Delta y$ = A0 + B0 n , with A0 = -3,72 mm $\approx$ - 3,7 mm , B0 = 0,332 mm (manual chart)
 A0 = - 2,56 mm $\approx$ -2,6 mm , B0 = 0,301 mm (by calculator)
 
 The term with greater uncertainty is A0.
@@ -616,13 +616,13 @@ y
 (round 2)
 (mm)
 
-$\Deltay$
+$\Delta y$
 - It's off.
 (mm)
-$\Deltay$
+$\Delta y$
 (Rounds 1)
 (mm)
-$\Deltay$
+$\Delta y$
 (Rounds 2)
 (mm)
 
@@ -986,12 +986,12 @@ Example of results for a spring of mass 103,62 g (measured by weight), and 87,5 
 
 The following procedure (I):
 
-From the y positions the lengths $\Deltay$ (= elongation + thickness) of each individual spire or of groups of spires are obtained
+From the y positions the lengths $\Delta y$ (= elongation + thickness) of each individual spire or of groups of spires are obtained
 The following is the list of the following: 5 spires) for both the discharge spring and the spring loaded with 12 cylinders
 
 3
-two graphs of length $\Deltay$ according to the number n of underlying spires and the figure suggests how to count these
-ultime, così da avere lunghezze $\Deltay$ crescenti al crescere di n. By grouping multiple spires (e.g. 5) a minor is obtained
+two graphs of length $\Delta y$ according to the number n of underlying spires and the figure suggests how to count these
+ultime, così da avere lunghezze $\Delta y$ crescenti al crescere di n. By grouping multiple spires (e.g. 5) a minor is obtained
 scattering of the dots. The two graphs are straight and (almost) parallel to each other.
 The spring does not appear to be hysterical; it can be assumed that at the same length as a single spiral or a group of spirals
 the force of traction on the spire is the same. For each elongation value, between the two corresponding spire numbers
@@ -1001,7 +1001,7 @@ The total of the springs is easily collected as the whole spring weighs.
 
 Example2 with type 1 roundings.
 The weight of the round 1 = 38,2 $\pm$ 0,1 g; total number of spires = 87,5 $\pm$ 0,25 spires
-From the manual graph $(\Deltay$ vs n) : n discharge - n load = 30 $\pm$ 2 spires
+From the manual graph $(\Delta y$ vs n) : n discharge - n load = 30 $\pm$ 2 spires
 The weight of the spring = 38,2 $\cdot$ 87,5 / 30 = 111,42 g
 Uncertainty % = 0,26% + 0,29% + 6,67% = 7,22% of the mass of the spring = 111 $\pm$ 7 g
 
@@ -1009,8 +1009,8 @@ From the overall length graphs of 5 consecutive spires in function of n, the unc
 decreases and so does the mass:
 n scarica - n carica = 31,8 $\pm$ 0,6 spire massa molla = 105 $\pm$ 2 g
 
-Or with the calculator, you do the two linear regressions of $\Deltay$ as a function of n. From the coefficients of the relations $\Deltay$ = A1
-+ B1 n and $\Deltay$ = A0 + B0 n , with spring load and discharge, the difference between the n axes can be obtained at $\Deltay$. Il
+Or with the calculator, you do the two linear regressions of $\Delta y$ as a function of n. From the coefficients of the relations $\Delta y$ = A1
++ B1 n and $\Delta y$ = A0 + B0 n , with spring load and discharge, the difference between the n axes can be obtained at $\Delta y$. Il
 The result is unique if the lines are parallel, that is, if B1 = B0.
 
 I'll give you an example.

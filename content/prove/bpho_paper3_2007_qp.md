@@ -347,7 +347,7 @@ of the 600Hz signal vary with $\theta$?
 Note
 Bandwidth is loosely defined as the difference between the highest frequency received
 by a receiver and the lowest frequency received when it is set to receive a certain
-frequency f0. If $2\Deltaf$ is the bandwidth then the highest frequency received is f0+ $\Deltaf$.
+frequency f0. If $2\Delta f$ is the bandwidth then the highest frequency received is f0+ $\Delta f$.
 6
 
 
@@ -420,7 +420,7 @@ Vi) Perché il regime modificato è migliore?
 Nota
 La larghezza di banda è vagamente definita come la differenza tra la frequenza più alta ricevuta
 per un ricevitore e la frequenza più bassa ricevuta quando è impostata per ricevere un certo
-frequenza f0. Se $2\Deltaf$ è la larghezza di banda, la frequenza più alta ricevuta è f0+ $\Deltaf$.
+frequenza f0. Se $2\Delta f$ è la larghezza di banda, la frequenza più alta ricevuta è f0+ $\Delta f$.
 6
 
 
@@ -445,7 +445,7 @@ frequenza f0. Se $2\Deltaf$ è la larghezza di banda, la frequenza più alta ric
 
 Q3
 
-Hint: In this question you may find it a help to consider a small length of rope length $\deltal$ and
+Hint: In this question you may find it a help to consider a small length of rope length $\delta l$ and
 the forces on this element of rope.
 
 T1
@@ -480,7 +480,7 @@ F
 
 P
 
-$\deltaB$
+$\delta B$
 
 
 <!--fig:start-->
@@ -503,7 +503,7 @@ $\deltaB$
 
 Q3
 
-Suggerimento: in questa domanda potresti trovare utile considerare una piccola lunghezza di corda $\deltal$ e
+Suggerimento: in questa domanda potresti trovare utile considerare una piccola lunghezza di corda $\delta l$ e
 Le forze su questo elemento della corda.
 
 T1
@@ -538,7 +538,7 @@ F
 
 P
 
-$\deltaB$
+$\delta B$
 
 
 <!--fig:start-->
@@ -568,8 +568,8 @@ Q4
 
 Figure 4.1
 
-a) The Biot Savart law relates the magnetic field $\deltaB$ at P to the current I in an element of wire
-length $\deltal$ Figure 4.1.
+a) The Biot Savart law relates the magnetic field $\delta B$ at P to the current I in an element of wire
+length $\delta l$ Figure 4.1.
 
 2
 0
@@ -607,13 +607,13 @@ they run parallel.
 (ii) Find an expression for the magnetic field for the magnetic field BO, at O.
 (iii) Sketch the value of the magnetic field against distance along the Y axis.
 The direction of the B field
-$\deltaB$ is into the paper, at right
+$\delta B$ is into the paper, at right
 angles to the plane of the
 paper
 $\phi$
 a
 $\theta$
-$\deltal$
+$\delta l$
 I
 l
 M
@@ -660,8 +660,8 @@ Q4
 
 Figura 4.1
 
-a) La legge di Biot Savart collega il campo magnetico $\deltaB$ a P alla corrente I in un elemento di filo
-lunghezza $\deltal$ Figura 4.1.
+a) La legge di Biot Savart collega il campo magnetico $\delta B$ a P alla corrente I in un elemento di filo
+lunghezza $\delta l$ Figura 4.1.
 
 2
 0
@@ -699,13 +699,13 @@ correre in parallelo.
 (ii) Trovare un'espressione per il campo magnetico per il campo magnetico BO, a O.
 - Sceneggiare il valore del campo magnetico rispetto alla distanza lungo l'asse Y.
 La direzione del campo B
-$\deltaB$ è nella carta, a destra
+$\delta B$ è nella carta, a destra
 angoli verso il piano del
 carta
 $\phi$
 a
 $\theta$
-$\deltal$
+$\delta l$
 I
 l
 M

@@ -484,7 +484,7 @@ tetrachloride and toluene was measured. The solubilities were: 337g/kg, 182g/kg,
 
 Colour of iodine solution is sensitive to the nature of the solvent. Iodine is dissolved
 in two solvents; diethyl ether and carbon tetrachloride. The colours of the two
-solutions are bright violet and deep brown. The $\lambdamax$ values recorded were 460 – 480
+solutions are bright violet and deep brown. The $\lambda max$ values recorded were 460 – 480
 nm and 520 – 540 nm.
 Solvent
 Solubility
@@ -504,7 +504,7 @@ HBCSE, 28th January 2012
 16
 
 3.5
-Correlate solvents with the $\lambdamax$ and the colour.
+Correlate solvents with the $\lambda max$ and the colour.
 
 (2 marks)
 
@@ -532,7 +532,7 @@ equation written in 3.7.
 (2 marks)
 
 Solvent
-$\lambdamax$
+$\lambda max$
 Color
 Carbon tetrachloride
 
@@ -1026,10 +1026,10 @@ Quantum yield $(\phi$) = No. of moles of reactant converted
 No. of Einstein absorbed
 
 The correct statement/s is/are
-i) For a chain reaction $\phigas$ >> $\phisolution$
+i) For a chain reaction $\phi gas$ >> $\phi solution$
 ii) In a photochemical chain reaction $\phi$ >> 1
 iii) In a photochemical chain reaction $\phi$ << 1
-iv) For a chain reaction $\phigas$ << $\phisolution$
+iv) For a chain reaction $\phi gas$ << $\phi solution$
 
 (2 marks)
 
@@ -1057,21 +1057,21 @@ electronically excited state. The excitation of 2-naphthol can be brought about 
 absorption of light. Consider the energy level diagram presented below.
 
  The energies of the ground (GS) and excited (ES) states of AOH and $AO-$ are
-represented in the diagram, and the symbol $\DeltaU$ (without and with different labels)
+represented in the diagram, and the symbol $\Delta U$ (without and with different labels)
 indicates units of energy per mole.
 
-$\DeltaU*$
+$\Delta U*$
 ES AO
 $-$
 GS AO
 $-$
-$\DeltaU$
-$\DeltaU$ AO
+$\Delta U$
+$\Delta U$ AO
 $-$
 
 GS AOH
 ESAOH
-$\DeltaUAOH$
+$\Delta UAOH$
 Indian National Chemistry Olympiad
 Theory 2012
 HBCSE, 28th January 2012
@@ -1079,35 +1079,35 @@ HBCSE, 28th January 2012
 26
 
 5.6
-a) If $\nuAOH$ and $\nuAO$
+a) If $\nu AOH$ and $\nu AO$
 $-$ are the frequencies of light absorbed by AOH and $AO-$
-respectively. Write the expressions for $\DeltaUAOH$ and $\DeltaUAO$
-$-$ in terms of $\nuAOH$ and $\nuAO$
+respectively. Write the expressions for $\Delta UAOH$ and $\Delta UAO$
+$-$ in terms of $\nu AOH$ and $\nu AO$
 $-$
 and Avogadro’s number NA.
 
 (1 mark)
 
-b) From the energy level diagram, deduce $\DeltaU*$,
+b) From the energy level diagram, deduce $\Delta U*$,
 
 (1 mark)
-c) In this case, it can be assumed that $\DeltaU \approx \DeltaH$. Deduce the expression for $(\DeltaH -$
-$\DeltaH*$) in terms of $\nuAOH$ and $\nuAO$
+c) In this case, it can be assumed that $\Delta U \approx \Delta H$. Deduce the expression for $(\Delta H -$
+$\Delta H*$) in terms of $\nu AOH$ and $\nu AO$
 $-$ .
 
 (1.5 marks)
 5.7
- Assume that the entropy difference $(\DeltaS$) between the ground and the excited states of
+ Assume that the entropy difference $(\Delta S$) between the ground and the excited states of
 AOH and that of $AO-$ are the same. Let pka and pka
 * be the dissociation constants of
 AOH in ground state & excited state respectively.
-a) Deduce the expression for $\Deltapka$ (pka
-$*-pka$) in terms of $\nuAOH$ and $\nuAO$
+a) Deduce the expression for $\Delta pka$ (pka
+$*-pka$) in terms of $\nu AOH$ and $\nu AO$
 $-$.
 
 (2 marks)
-b) If $\nuAO$
-$-$ and $\nuAOH$ are 85 x 1013 Hz and 90 x1013 Hz respectively. Calculate $\Deltapka$ of
+b) If $\nu AO$
+$-$ and $\nu AOH$ are 85 x 1013 Hz and 90 x1013 Hz respectively. Calculate $\Delta pka$ of
 2-naphthol at 300K.
 
 (1 mark)

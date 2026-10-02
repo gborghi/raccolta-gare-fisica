@@ -813,8 +813,8 @@ Air
 Water
 Normal to
 surface
-$\thetaa$
-$\thetaw$
+$\theta a$
+$\theta w$
 Caustics at the bottom of the pool
 Light refracting at an air-water interface.
 a) A ‘slice’ of the forest pool at one instant is shown below. A series of parallel light rays is shown
@@ -898,8 +898,8 @@ Aereo
 Acqua
 Normalmente
 superficie
-$\thetaa$
-$\thetaw$
+$\theta a$
+$\theta w$
 Caustica al fondo della piscina
 Rifrazione della luce in un'interfaccia aria-acqua.
 a) Un'originaria parte della piscina forestale è riportata di seguito. Una serie di raggi di luce parallele è mostrata

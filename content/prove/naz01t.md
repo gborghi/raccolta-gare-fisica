@@ -86,7 +86,7 @@ A straight line conducting rod of length $\ell = 0.5\,\mathrm{m}$, arranged on t
 
 <!--fig:start-->
 ![[_attachments/naz01t/naz01t_p1_f2.png]]
-*Left of the bar in the plane $\pi$ with the vectors $\vec B$ and $\vec v$ and the angles $\alpha$ (bar$\vec B$), $\beta$ ($\vec B$$\vec v$), $\gamma$ ($\vec v$bar); right of the same situation in a Cartesian tube $x,y,z$.*
+*Left of the bar in the plane $\pi$ with the vectors $\vec B$ and $\vec v$ and the angles $\alpha$ (bar$\vec B$), $\beta$ ($\vec B$–$\vec v$), $\gamma$ ($\vec v$bar); right of the same situation in a Cartesian tube $x,y,z$.*
 <!--fig:end-->
 
 The angle between the bar and the magnetic induction field is $\alpha = 30^\circ$, that between the magnetic induction field and the speed is $\beta = 40^\circ$ and that between the speed and the bar is $\gamma = 50^\circ$.

@@ -232,7 +232,7 @@ La presenza di un'acide di acido di nitrogeno (in particolare, per via della pel
 la conducibilità termico dell'aria $\kappa = 30\ \text{mW m}^{-1}\text{K}^{-1}$
 a $T = 70\ ^\circ\text{C}$ (non si considera la dipendenza dalla temperatura) e la diffusività delle molecole di acqua nell'aria $D = 26\ \text{mm}^2\text{s}^{-1}$. - Non si tratta di
 dipendenza di $D$ dalla temperatura. Nota
-che il flusso di particelle (numero netto di molecole che attraversano un'intersezione in $y$$z$-piano
+che il flusso di particelle (numero netto di molecole che attraversano un'intersezione in $y$–$z$-piano
 per secondo e per superficie trasversale) può essere
 si trova come $J = D\dfrac{dn}{dx}$, dove $n$ indica il
 densità di numero (numero di molecole per
@@ -577,7 +577,7 @@ Una barra di massa $m$ porta una carica $q$; entrambe le
 la carica e la massa sono distribuite in modo omogeneo su tutta la sua lunghezza $l$. Il sistema
 è in un campo magnetico di forza omogeneo
 $B$, parallelo all'asse $z$- mentre la canna è
-nel piano $x$$y$-. Non si possono fare niente, tranne che...
+nel piano $x$–$y$-. Non si possono fare niente, tranne che...
 per la forza Lorentz. Una fine della canna è
 Verniciato in rosso, e l'altro blu.
 (i) (2 punti) Considerare il caso in cui la canna
@@ -703,7 +703,7 @@ $|z|$. La misurazione della densità è stata una grande sfida a causa dei contr
 e altre materie difficili da vedere. Ecco, noi.
 Considerare un metodo innovativo di fare
 it. Considerate le distribuzioni delle stelle in
-il nostro quartiere sul piano di fase $z$$v_z$,
+il nostro quartiere sul piano di fase $z$–$v_z$,
 dove ogni stella è un punto con coordinate
 $(v_z, z)$; $v_z$ indica il componente $z$ della stella
 velocità e $z$  la coordinata verticale. Inizialmente, questi punti erano distribuiti quasi omogenei, ma qualche tempo fa, la Galassia Lattea

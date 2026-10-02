@@ -25,7 +25,7 @@ In questa parte analizzerai due modelli semplificati del flusso sanguigno nei va
 I vasi sanguigni sono approssimativamente di forma cilindrica, ed è noto che per un flusso stazionario,
 non turbolento di un fluido incomprimibile in un cilindro rigido, la differenza di pressione del fluido alle
 due estremità del cilindro è data da
-$\DeltaP=$ 8lη
+$\Delta P=$ 8lη
 πr4 Q,
 (1)
 dove le rsono la lunghezza e il raggio del cilindro, ηè la viscosità del fluido e Qè la portata volumetrica,
@@ -48,7 +48,7 @@ Q3-2
 Italian (Italy)
 A.1
 Ricava un’espressione per la portata volumetrica, Qi, in un vaso del livello i, in
-funzione del numero totale di livelli N, della viscosità η, del raggio r0 e lunghezza l0 del primo vaso, e della differenza $\DeltaP=$ P0 $-Pcap$ tra la pressione delle
+funzione del numero totale di livelli N, della viscosità η, del raggio r0 e lunghezza l0 del primo vaso, e della differenza $\Delta P=$ P0 $-Pcap$ tra la pressione delle
 arteriole del livello 0, P0, e la pressione della distesa dei capillari Pcap.
 1.3pt
 A.2
@@ -172,7 +172,7 @@ In this section, you'll look at two simplified models of blood flow in the blood
 The blood vessels are approximately cylindrical in shape, and it's known that for a steady flow,
 Non-turbulent of an incompressible fluid in a rigid cylinder, the difference in fluid pressure at
 two ends of the cylinder are given by
-$\DeltaP=$ 8lη
+$\Delta P=$ 8lη
 πr4 Q,
 (1)
 where the length and radius of the cylinder are given, η is the viscosity of the fluid and Q is the volumetric flow rate,
@@ -195,7 +195,7 @@ Q3-2
 Italian (Italy)
 A.1
 It was an expression for the volume volume, Qi, in a level i vessel, in
-The pressure of the first vessel is measured in terms of the total number of N levels, viscosity η, radius r0 and length l0 of the first vessel, and the difference $\DeltaP=$ P0 $-Pcap$ between the pressure of the first vessel and the pressure of the second vessel.
+The pressure of the first vessel is measured in terms of the total number of N levels, viscosity η, radius r0 and length l0 of the first vessel, and the difference $\Delta P=$ P0 $-Pcap$ between the pressure of the first vessel and the pressure of the second vessel.
 The test results are given in the following table:
 1.3pt
 A.2

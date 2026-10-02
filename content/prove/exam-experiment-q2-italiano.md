@@ -134,7 +134,7 @@ vlimite=
 (1)
 dove mè la massa del magnete, σè la conduttività elettrica del materiale del tubo, aè il raggio interno del
 tubo, rme dsono rispettivamente il raggio e l’altezza del magnete, Mè la magnetizzazione del magnete,
-wè lo spessore della parete del tubo e f( da) è un fattore di scala. In questo caso, $a\approxrm$, d= $2rm\approx2ae$
+wè lo spessore della parete del tubo e f( da) è un fattore di scala. In questo caso, $a\approx rm$, d= $2rm\approx2ae$
 f(2) $\approx1.75$ . Di conseguenza, il tempo impiegato dal magnete per cadere attra
 
 <!--fig:start-->
@@ -296,7 +296,7 @@ The following table shows the results of the evaluation:
 (1)
 where the mass of the magnet is σ is the electrical conductivity of the tube material, i.e. the inner radius of the tube.
 The magnetic field and height of the magnet, respectively,
-where the thickness of the tube wall and f(d) is a scale factor. In this case, $a\approxrm$, d= $2rm\approx2ae$
+where the thickness of the tube wall and f(d) is a scale factor. In this case, $a\approx rm$, d= $2rm\approx2ae$
 f(2) $\approx1.75$ . As a result, the time taken by the magnet to fall attract
 
 <!--fig:start-->

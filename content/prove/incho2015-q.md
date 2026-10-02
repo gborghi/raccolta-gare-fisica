@@ -210,14 +210,14 @@ Theory 2015
 7
 
 1.5
-At 298.15 K, the $\DeltaGo$ of formation for N2O4(g), and NO2(g) are 98.28 kJ mol 1 and
+At 298.15 K, the $\Delta Go$ of formation for N2O4(g), and NO2(g) are 98.28 kJ mol 1 and
 51.84 kJ mol 1 respectively. Starting with 1 mole of N2O4(g) at 1.0 atm and 298.15 K,
 calculate % of N2O4 decomposed if the total pressure is kept constant at 1.0 atm and
 the temperature maintained at 298.15 K.
 
 (2 marks)
 1.6
-$\DeltaH$ for the reaction C is 58.03 kJ. Assuming $\DeltaH$ to be temperature independent,
+$\Delta H$ for the reaction C is 58.03 kJ. Assuming $\Delta H$ to be temperature independent,
 calculate the temperature at which the fraction of N2O4 decomposed is double the
 value of that calculated in 1.5.(The pressure is 1 atm)
 
@@ -236,7 +236,7 @@ The density of the gaseous mixture was 5.85 g L 1. Calculate the average molecul
 
 weight of the gaseous mixture and the degree of dissociation of N2O4 at 40 C.
 
-$(\DeltaG$ = 1.254 kJ mol 1)
+$(\Delta G$ = 1.254 kJ mol 1)
 
 (4 marks)
 Indian National Chemistry Olympiad

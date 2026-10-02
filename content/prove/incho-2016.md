@@ -1091,7 +1091,7 @@ octahedral site preference energy which is the difference of the crystal field s
 
 Metal ion
 $\Delta0$ (cm 1)
-$\Deltat$ (cm 1)
+$\Delta t$ (cm 1)
 
 Co3+
 
@@ -1108,7 +1108,7 @@ Ni2+
 8,500
 3,780
 
-$(\Delta0$ and $\Deltat$ imply the octahedral and tetrahedral splitting parameters respectively for oxide ions
+$(\Delta0$ and $\Delta t$ imply the octahedral and tetrahedral splitting parameters respectively for oxide ions
 which will provide a moderately weak field similar to that of water)
 5.7
 On the basis of the above data, calculate the CFSE for

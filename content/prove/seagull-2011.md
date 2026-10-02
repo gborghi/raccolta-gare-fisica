@@ -15,7 +15,7 @@ tags:
 
 
 
-The highest mountains on Earth ($\oplus$) and Mars ($\♂$) are $9\ \mathrm{km}$ (Mount Everest) and $27\ \mathrm{km}$ (Olympus Mons) respectively. Estimate the height of the highest mountain on Venus ($\♀$). The masses of Mars and Venus are $M_\♂ = 0.107\,M_\oplus$ and $M_\♀ = 0.815\,M_\oplus$, and their radii are $r_\♂ = 0.532\,r_\oplus$ and $r_\♀ = 0.950\,r_\oplus$.
+The highest mountains on Earth ($\oplus$) and Mars ($\text{♂}$) are $9\ \mathrm{km}$ (Mount Everest) and $27\ \mathrm{km}$ (Olympus Mons) respectively. Estimate the height of the highest mountain on Venus ($\text{♀}$). The masses of Mars and Venus are $M_\text{♂} = 0.107\,M_\oplus$ and $M_\text{♀} = 0.815\,M_\oplus$, and their radii are $r_\text{♂} = 0.532\,r_\oplus$ and $r_\text{♀} = 0.950\,r_\oplus$.
 
 **Topic:** [[Gravitation]], [[Astrophysics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -26,7 +26,7 @@ The highest mountains on Earth ($\oplus$) and Mars ($\♂$) are $9\ \mathrm{km}$
 
 <div class="qlang-split" data-lang="it"></div>
 
-Le montagne più alte della Terra ($\oplus$) e Marte ($\♂$) sono rispettivamente $9\ \mathrm{km}$ (Monte Everest) e $27\ \mathrm{km}$ (Olympus Mons). Calcolare l'altezza della montagna più alta di Venere ($\♀$). Le masse di Marte e Venere sono $M_\♂ = 0.107\,M_\oplus$ e $M_\♀ = 0.815\,M_\oplus$, e i loro raggi sono $r_\♂ = 0.532\,r_\oplus$ e $r_\♀ = 0.950\,r_\oplus$.
+Le montagne più alte della Terra ($\oplus$) e Marte ($\text{♂}$) sono rispettivamente $9\ \mathrm{km}$ (Monte Everest) e $27\ \mathrm{km}$ (Olympus Mons). Calcolare l'altezza della montagna più alta di Venere ($\text{♀}$). Le masse di Marte e Venere sono $M_\text{♂} = 0.107\,M_\oplus$ e $M_\text{♀} = 0.815\,M_\oplus$, e i loro raggi sono $r_\text{♂} = 0.532\,r_\oplus$ e $r_\text{♀} = 0.950\,r_\oplus$.
 
 **Topic:** [[Gravitation]], [[Astrophysics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Physical Modeling (metodo)|Physical Modeling]]

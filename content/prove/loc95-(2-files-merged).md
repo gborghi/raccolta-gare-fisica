@@ -1383,7 +1383,7 @@ The Commission has also adopted a number of measures to ensure that the Commissi
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q40.** Un cilindro metallico con pistone a tenuta contiene $1.2\times10^{-3}\ \text{m}^3$ di gas perfetto. When the gas has lost $120\ \text{J}$ heat, it occupies a volume of $1.0\times10^{-3}\ \text{m}^3$. If the external pressure on the piston is maintained at $1.0\times10^5\ \text{Pa}$: 1  the change in state can be represented in a diagram $p$$V$ with a straight segment parallel to an axis; 2  the gas work is $20\ \text{J}$; 3  the internal gas energy has decreased by $100\ \text{J}$. What statements are correct? (a) All three; (b) Only 1 and 2; (c) Only 2 and 3; (d) Only 1; (e) Only 3.
+**Q40.** Un cilindro metallico con pistone a tenuta contiene $1.2\times10^{-3}\ \text{m}^3$ di gas perfetto. When the gas has lost $120\ \text{J}$ heat, it occupies a volume of $1.0\times10^{-3}\ \text{m}^3$. If the external pressure on the piston is maintained at $1.0\times10^5\ \text{Pa}$: 1  the change in state can be represented in a diagram $p$–$V$ with a straight segment parallel to an axis; 2  the gas work is $20\ \text{J}$; 3  the internal gas energy has decreased by $100\ \text{J}$. What statements are correct? (a) All three; (b) Only 1 and 2; (c) Only 2 and 3; (d) Only 1; (e) Only 3.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]

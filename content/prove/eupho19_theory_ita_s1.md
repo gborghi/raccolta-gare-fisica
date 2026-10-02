@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: EuPhO 2019 — Teorica
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/EuPhO
 ---
 <div class="atom-reader" data-prova="eupho19_theory_ita_s1"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/fluid-mechanics,argomento/meccanica,object/droplet"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2019 — Teorica — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/fluid-mechanics,argomento/meccanica,object/droplet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -50,29 +52,30 @@ Utilizza $c_\text{acqua} = 4.2\,\text{kJ\,kg}^{-1}\text{K}^{-1}$ per il calore s
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculation of the total quantity of the product:
+**1 Ice pellets**
 
-An interesting weather phenomenon can occur when the temperature profile in the atmosphere shows an inversion. The blue line continues in Figure 1 to show this temperature profile. The inversion takes place at altitudes between 1 km and 2 km.
+An interesting weather phenomenon can occur when the temperature profile in the atmosphere shows an inversion. The solid blue line in figure 1 shows such a temperature profile. The inversion occurs at heights between 1 km and 2 km.
 
-Under these conditions, snow falling into the atmosphere melts (partially) when it crosses the warmer layer and freezes (partially) again before reaching the ground in the form of "ice pellets".
-
-Suppose a small spherical ice drop melts almost completely as it falls through the atmosphere between $h_A$ and $h_B$ where the temperature is above freezing point.
-
-a. Determine the fraction of mass of the drop that freezes before reaching the ground.
-
-b. Find, as accurately as possible, the temperature of the drop at ground level if there is no reversal and if the temperature profile follows the drawn line shown below the 2 km height.
-
-Evaporation, condensation and variations in the size of the drop can be overlooked. It is also assumed that water and ice have a very high thermal conductivity and that the density of the atmosphere is constant with altitude.
-
-Use $c_\text{acqua} = 4.2\,\text{kJ\,kg}^{-1}\text{K}^{-1}$ for specific water heat and $c_\text{ghiaccio} = 2.1\,\text{kJ\,kg}^{-1}\text{K}^{-1}$ for ice heat. The latent heat of ice melting is $L = 334\,\text{kJ\,kg}^{-1}$.
+Under these conditions snow falling through the atmosphere (partially) melts in the warmer layer and (partially) freezes again before reaching the ground in the form of "ice pellets".
 
 <!--fig:start-->
 ![[_attachments/EuPhO19_theory_ITA_S1/EuPhO19_theory_ITA_S1_p1_f1.png]]
-The following conditions are met:
+*Figure 1: Atmospheric temperature T vs. height h above the ground*
 <!--fig:end-->
+
+Assume that a small, spherical ice droplet almost completely melts while falling through the atmospheric layer between $h_A$ and $h_B$ where the temperature is above freezing point.
+
+a. Determine the mass fraction of the droplet that freezes before reaching the ground.
+
+b. Find, as precisely as possible, the temperature of the droplet at ground level if there were no inversion and the temperature profile followed the dashed line below a height of 2 km.
+
+Neglect evaporation, condensation and size changes of the droplet. Assume that water and ice have very high thermal conductivity and that the density of the atmosphere is constant with height.
+
+Use $c_\text{water} = 4.2\,\text{kJ\,kg}^{-1}\text{K}^{-1}$ for the specific heat of water and $c_\text{ice} = 2.1\,\text{kJ\,kg}^{-1}\text{K}^{-1}$ for that of ice. The specific latent heat for the melting of ice is $L = 334\,\text{kJ\,kg}^{-1}$.
+
 <!--fig:start-->
 ![[_attachments/EuPhO19_theory_ITA_S1/EuPhO19_theory_ITA_S1_p1_f2.png]]
-*Form of water drop at a given instant*
+*Figure 2: Shape of the water stream at a certain moment in time (problem 3)*
 <!--fig:end-->
 
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
@@ -84,7 +87,7 @@ The following conditions are met:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electromagnetism,topic/rotational-dynamics,topic/newtonian-mechanics,argomento/meccanica,object/sphere"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2019 — Teorica — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electromagnetism,topic/rotational-dynamics,topic/newtonian-mechanics,argomento/meccanica,object/sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -110,15 +113,17 @@ valida per qualunque vettore $\vec{a}$, $\vec{b}$ e $\vec{c}$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Motion of a charged sphere**
+**2 Motion of a charged ball**
 
-A solid, homogeneous sphere of $m$ mass and $R$ radius, of insulating material, has a charge of $Q$ uniformly distributed throughout its volume. The sphere is placed on a large horizontal surface and rotated without slipping so that its center begins to move at a horizontal speed $v_0$. There is a uniform magnetic field of $B$ perpendicular to the surface. The static friction coefficient is large enough to prevent the sphere from sliding over the surface. The moment of inertia of the sphere with respect to an axis passing through its centre is $\frac{2mR^2}{5}$.
+A solid, homogeneous spherical ball of mass $m$ and radius $R$ is made of insulating material and has charge $Q$ distributed uniformly throughout its volume. The ball is placed on a large horizontal surface, and set in rolling motion without slipping in such a way that its center starts to move with initial horizontal velocity $v_0$. There is a uniform magnetic field (flux density) of magnitude $B$ perpendicular to the surface. The coefficient of static friction is large enough to prevent the ball from slipping on the surface. The moment of inertia of the ball about an axis through its center is $\frac{2mR^2}{5}$.
 
-Describe the motion of the center of the sphere and the shape of its trajectory.
+Describe the motion of the center of the ball and the shape of its trajectory.
 
-**Suggest:** Depending on how you approach the problem, you may need the following identity:
+**Hint:** Depending on your approach you may use the following identity:
+
 $$\vec{a} \times (\vec{b} \times \vec{c}) = \vec{b}(\vec{a} \cdot \vec{c}) - \vec{c}(\vec{a} \cdot \vec{b})$$
-valida per qualunque vettore $\vec{a}$, $\vec{b}$ e $\vec{c}$.
+
+valid for any three vectors $\vec{a}$, $\vec{b}$ and $\vec{c}$.
 
 **Topic:** [[Electromagnetism]], [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
@@ -129,7 +134,7 @@ valida per qualunque vettore $\vec{a}$, $\vec{b}$ e $\vec{c}$.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/fluid-mechanics,argomento/meccanica,object/pipe-tube"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="EuPhO 2019 — Teorica — Quesito 3" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/fluid-mechanics,argomento/meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -151,11 +156,11 @@ Usando questa figura, determina la velocità d'uscita $v$ dell'acqua se l'accele
 
 <div class="qlang-split" data-lang="en"></div>
 
-**A water sleeve**
+**3 Water hose**
 
-A drop of water is coming out of a sleeve nozzle at a constant speed $v$. Un bambino gioca con il tubo inclinandolo a caso in un piano verticale $x$-$y$ fisso. The nozzle shall be kept in the position $x = y = 0\,\text{m}$ and the angle between the nozzle axis and the horizontal plane shall never be less than $45°$. At any moment, the water drop in the air has an irregular shape. The shape at a given moment is shown in Figure 2.
+A stream of water exits from the nozzle of a hose with a constant unknown speed $v$. A child plays with the hose by rotating it randomly in a fixed vertical $x$-$y$ plane. The nozzle is kept at $x = y = 0\,\text{m}$, and the angle between the nozzle's axis and the horizon is never less than $45°$. At each moment in time, the stream in the air has an irregular shape. The shape at one instant is shown in the figure below (Figure 2).
 
-Using this figure, determine the water output speed $v$ if the gravitational acceleration is $g = 9.8\,\text{m/s}^2$.
+Using this figure, determine the exit speed $v$ if the free fall acceleration is $g = 9.8\,\text{m/s}^2$.
 
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]], [[Graph Linearization (metodo)|Graph Linearization]]

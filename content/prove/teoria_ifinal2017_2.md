@@ -36,7 +36,7 @@ Um disco circular de massa M no plano horizontal pode girar livremente sobre um 
 vertical fixo em um ponto B na borda do disco. Se um cachorro de massa m, inicialmente
 no ponto B caminha uma volta pela borda do disco, mostre que o disco gira em relação a
 seu centro geométrico um ângulo $\theta$ dada pela expressão:
-θ= $\intdγ$
+θ= $\int dγ$
 cos2 γ
 K+cos2 γ
 π

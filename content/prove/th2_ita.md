@@ -72,13 +72,13 @@ $-2$ kg
 mole.
 Stato gassoso
 Per la descrizione delle proprietà dell’acqua allo stato gassoso è ragionevole assumere che valga la
-disuguaglianza V $G\ggb$.
+disuguaglianza V $G\gg b$.
 B1
 Ricavare la formula per il volume V G ed esprimerla in funzione di R,T , p0 ed a. (0.8 punti)
 Il volume V G0 può essere approssimativamente valutato utilizzando la legge dei gas perfetti.
 B2
 Valutare in percentuale la diminuzione relativa del volume del gas dovuta alle forze intermolecolari,
-$\DeltaV$ G
+$\Delta V$ G
 V G0
 =V $G0-V$ G
 V G0
@@ -96,11 +96,11 @@ Stato
  liquido
 
 Per descrivere il comportamento dell’acqua allo stato liquido, secondo l’equazione di Van der Waals,
-è ragionevole assumere la seguente disuguaglianza $P\lla/V$
+è ragionevole assumere la seguente disuguaglianza $P\ll a/V$
 2.
 B4
 Esprimere il volume dell’acqua liquida V L in funzione di a,b, R e T. (1 punto)
-Assunto che bRT $\lla$, trovare le seguenti proprietà caratteristiche dell’acqua. Non sorprenderti se
+Assunto che bRT $\ll a$, trovare le seguenti proprietà caratteristiche dell’acqua. Non sorprenderti se
 qualcuno dei valori che ottieni non coincide con quelli noti!
 B5
 Esprimere la densità dell’acqua liquida, $\rho$ L, usando qualcuno dei termini $\mu,a,b,R$. Calcolare,
@@ -108,8 +108,8 @@ quindi, il suo valore. (0.3 punti)
 B6
 Esprimere il coefficiente di dilatazione termica $\alpha=$ 1
 V L
-$\DeltaV$ L
-$\DeltaT$ usando qualcuno dei termini di a,b, R.
+$\Delta V$ L
+$\Delta T$ usando qualcuno dei termini di a,b, R.
 Calcolare, quindi, il suo valore. (0.6 punti)
 B7
 Esprimere il calore latente di vaporizzazione dell’acqua L usando qualcuno dei termini di $\mu,a,b,R$.
@@ -137,10 +137,10 @@ bagna le pareti di un capillare (angolo di contatto uguale a $180^{\circ}$). Qua
 capillare è immerso nel liquido, il liquido nel capillare si abbassa fino ad un
 certo livello a causa della tensione superficiale (vedi Figura 3).
 С1
-Trovare la (piccola) variazione di pressione $\DeltapT$ del vapore saturo
+Trovare la (piccola) variazione di pressione $\Delta pT$ del vapore saturo
 che si trova al di sopra della superficie curva del liquido. Esprimere
-il risultato in termini della densità del vapore, $\rhos$, della densità del
-liquido, $\rhoL$, della tensione superficiale, $\sigma$, e del raggio di curvatura r
+il risultato in termini della densità del vapore, $\rho s$, della densità del
+liquido, $\rho L$, della tensione superficiale, $\sigma$, e del raggio di curvatura r
 della superficie. (1.3 punti)
 Gli stati metastabili, considerati nella Parte B3, sono largamente
 utilizzati in apparati sperimentali quali le camere a nebbia utilizzate per
@@ -149,7 +149,7 @@ della rugiada mattutina. Il vapore soprassaturo condensa formando goccioline di 
 piccole evaporano rapidamente, ma quelle sufficientemente grandi possono crescere.
 C2
 Si supponga che, una sera, la temperatura sia t $e=20^{\circ}C$ e che il vapore acqueo nell’aria sia saturo. La
-mattina seguente, la temperatura ambiente è scesa di un piccolo $\Deltat=5.0^{\circ}C$. Assumendo che la
+mattina seguente, la temperatura ambiente è scesa di un piccolo $\Delta t=5.0^{\circ}C$. Assumendo che la
 pressione di vapore saturo non sia cambiata, stimare il minimo raggio delle goccioline che possono
 crescere. Utilizzare il valore tabulato della tensione superficiale dell’acqua, $\sigma=7.3\cdot10$
 $-2N/m$. (1.7
@@ -240,13 +240,13 @@ $-2$ kg
 I'm going to be a mole.
 Gas state
 For the description of the properties of water in the gaseous state it is reasonable to assume that it is worth the
-disuguaglianza V $G\ggb$.
+disuguaglianza V $G\gg b$.
 B1
 Find the formula for volume V G and express it as a function of R, T, p0 and a. (i.e. the number of points)
 The volume V G0 can be approximated using the perfect gas law.
 B2
 Assess the relative decrease in gas volume due to intermolecular forces as a percentage,
-$\DeltaV$ G
+$\Delta V$ G
 V G0
 =V $G0-V$ G
 V G0
@@ -264,11 +264,11 @@ State of the Union
 Liquid
 
 To describe the behavior of water in the liquid state, according to the Van der Waals equation,
-It is reasonable to assume the following inequality $P\lla/V$
+It is reasonable to assume the following inequality $P\ll a/V$
 2.
 B4
 Express the volume of liquid water V L in terms of a,b,R and T. (a) the number of days
-Assuming that bRT $\lla$, find the following characteristic properties of water. Don't be surprised if
+Assuming that bRT $\ll a$, find the following characteristic properties of water. Don't be surprised if
 Some of the values you get don't match the known ones!
 B5
 Express the density of liquid water, $\rho$ L, using some of the terms $\mu,a,b,R$. Calculate the
@@ -276,8 +276,8 @@ So, its value. (Documents and documents)
 B6
 Express the coefficient of thermal expansion $\alpha=$ 1
 V L
-$\DeltaV$ L
-$\DeltaT$ using some of the terms of a,b,R.
+$\Delta V$ L
+$\Delta T$ using some of the terms of a,b,R.
 Calculate its value, then. (0.6 points)
 B7
 Express the latent heat of water vaporization L using some of the terms $\mu,a,b,R$.
@@ -305,10 +305,10 @@ wash the walls of a capillary (angle of contact equal to $180^{\circ}$). When th
 The capillary is submerged in the fluid, the fluid in the capillary is lowered to a
 The surface tension is due to a certain level (see Figure 3).
 С1
-Find the (small) pressure change $\DeltapT$ of the saturated vapor
+Find the (small) pressure change $\Delta pT$ of the saturated vapor
 It is located above the curved surface of the liquid. Expressing
-The result in terms of the steam density, $\rhos$, of the density of the
-liquido, $\rhoL$, della tensione superficiale, $\sigma$, e del raggio di curvatura r
+The result in terms of the steam density, $\rho s$, of the density of the
+liquido, $\rho L$, della tensione superficiale, $\sigma$, e del raggio di curvatura r
 of the surface. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
 Metastable states, considered in Part B3, are broadly
 For the purposes of this Regulation, the following definitions shall apply:
@@ -317,7 +317,7 @@ of the morning dew. The supersaturated vapor condenses to form droplets of liqui
 Small ones evaporate quickly, but large ones can grow.
 C2
 Suppose that, one evening, the temperature is t $e=20^{\circ}C$ and that the water vapour in the air is saturated. La
-The following morning, the ambient temperature dropped by a small $\Deltat=5.0^{\circ}C$. Assuming that the
+The following morning, the ambient temperature dropped by a small $\Delta t=5.0^{\circ}C$. Assuming that the
 saturated vapour pressure has not changed, estimate the minimum droplet radius that can be
 I'm going to grow up. Use the table value of the surface tension of the water, $\sigma=7.3\cdot10$
 $-2N/m$. (1.7

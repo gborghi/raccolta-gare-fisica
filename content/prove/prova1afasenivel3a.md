@@ -1391,9 +1391,9 @@ e) R$ 8,00
 16. Uno studente di fisica decide di calcolare il consumo di energia elettrica di alcuni apparecchi
 più elettrici dissipative che possiedi a casa. Per questo, consulta le targhe indicative di ogni apparecchio
 che dispone, con la seguente notazione:
-01 ferro elettrico ($400\ \text{W}$$220\ \text{V}$);
-01 doccia elettrica ($3000\ \text{W}$$220\ \text{V}$);
-01 torte ($500\ \text{W}$$220\ \text{V}$).
+01 ferro elettrico ($400\ \text{W}$–$220\ \text{V}$);
+01 doccia elettrica ($3000\ \text{W}$–$220\ \text{V}$);
+01 torte ($500\ \text{W}$–$220\ \text{V}$).
 Usando ciascuno di questi apparecchi per una media di 10 minuti al giorno, quanto costerà (circa in reali) il
 La Commissione ha adottato una decisione che prevede che il consumo di energia elettrica sia limitato a 30 giorni, se la società elettrica locale richiede R$ 0,25 per 1 kWh?
 a) R$ 2,87

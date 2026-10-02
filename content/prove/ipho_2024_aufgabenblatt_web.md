@@ -22,8 +22,8 @@ tags:
 Problem 1 (10 points)
 Down into the depths and back up again
 Two equally large spheres are connected by a long, massless string, as sketched in the figure, and sink downwards in water at a constant
-speed v. When the string is cut, the upper sphere rises back up at the same constant speed v. The lower sphere is made of aluminium with a density of $\rhoAl$ = 2700 kg $m-3$. For the density of water
-you may assume the value $\rhoWasser$ = 1000 kg $m-3$.
+speed v. When the string is cut, the upper sphere rises back up at the same constant speed v. The lower sphere is made of aluminium with a density of $\rho Al$ = 2700 kg $m-3$. For the density of water
+you may assume the value $\rho Wasser$ = 1000 kg $m-3$.
 Determine the density $\rho$ of the upper sphere.
 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
@@ -38,8 +38,8 @@ Determine the density $\rho$ of the upper sphere.
 Problema 1 (10 punti)
 Sotto le profondità e di nuovo indietro
 Due sfere uguali sono collegate da una lunga stringa massless, come descritto nella figura, e affondano verso il basso in acqua a costante
-velocità v. Quando la corda è tagliata, la sfera superiore risce di nuovo alla stessa velocità costante v. La sfera inferiore è fatta di alluminio con una densità di $\rhoAl$ = 2700 kg $m-3$. Per la densità dell'acqua
-si può assumere il valore $\rhoWasser$ = 1000 kg $m-3$.
+velocità v. Quando la corda è tagliata, la sfera superiore risce di nuovo alla stessa velocità costante v. La sfera inferiore è fatta di alluminio con una densità di $\rho Al$ = 2700 kg $m-3$. Per la densità dell'acqua
+si può assumere il valore $\rho Wasser$ = 1000 kg $m-3$.
 Determina la densità $\rho$ della sfera superiore.
 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
@@ -53,8 +53,8 @@ Determina la densità $\rho$ della sfera superiore.
 The following points are added:
 Down into the depths and back up again
 Two equally large spheres are connected by a long, massless string, as sketched in the figure, and sink downwards in water at a constant
-speed v. When the string is cut, the upper sphere rises back up at the same constant speed v. The lower sphere is made of aluminium with a density of $\rhoAl$ = 2700 kg $m-3$. For the density of water
-you may assume the value $\rhoWasser$ = 1000 kg $m-3$.
+speed v. When the string is cut, the upper sphere rises back up at the same constant speed v. The lower sphere is made of aluminium with a density of $\rho Al$ = 2700 kg $m-3$. For the density of water
+you may assume the value $\rho Wasser$ = 1000 kg $m-3$.
 Determine the density $\rho$ of the upper sphere.
 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]

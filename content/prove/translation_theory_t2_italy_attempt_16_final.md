@@ -75,16 +75,16 @@ a
 T
 z
 vi
-$\deltazi$
+$\delta zi$
 T
 i
 v1
 v2
 v3
 p
-$\deltaz1$
-$\deltaz2$
-$\deltaz3$
+$\delta z1$
+$\delta z2$
+$\delta z3$
 percorsa
 
 Theory
@@ -94,10 +94,10 @@ page 5 of 6
 
 (where
 ) and height of .
-$\lambdaL/2$
+$\lambda L/2$
 L $\gg\lambda$
 h
-$\lambdaL/2$
+$\lambda L/2$
 L $\gg\lambda$
 h
 
@@ -180,16 +180,16 @@ a
 T
 z
 vi
-$\deltazi$
+$\delta zi$
 T
 i
 v1
 v2
 v3
 p
-$\deltaz1$
-$\deltaz2$
-$\deltaz3$
+$\delta z1$
+$\delta z2$
+$\delta z3$
 route
 
 Theory
@@ -199,10 +199,10 @@ Page 5 of 6
 
 (where
 ) and height of .
-$\lambdaL/2$
+$\lambda L/2$
 L $\gg\lambda$
 h
-$\lambdaL/2$
+$\lambda L/2$
 L $\gg\lambda$
 h
 

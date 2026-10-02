@@ -279,7 +279,7 @@ Determina la resistenza R= V
 Iche si può ricavare dal Grafico A.1.
 0.2pt
 A.3
-Usa il Grafico A.1 per determinare l’incertezza $\DeltaRsul$ valore di R nella misura
+Usa il Grafico A.1 per determinare l’incertezza $\Delta Rsul$ valore di R nella misura
 con la tecnica 4PP
 0.4pt
 Experiment
@@ -297,14 +297,14 @@ I
 La resistenza elettrica Rdel conduttore tridimensionale mostrato sopra è data da:
 R= R3D = $ρ\cdot$
 l
-$w\cdott$
+$w\cdot t$
 (1)
-Sulla stessa base si può definire la resistenza di un conduttore bidimensionale di spessore $t\llwe t\lll$
+Sulla stessa base si può definire la resistenza di un conduttore bidimensionale di spessore $t\ll we t\lll$
 l
 w
 t
 $\rho☐$
-R= R2D = $ρ□\cdotl$
+R= R2D = $ρ□\cdot l$
 w,
 (2)
 usando la resistività laminare $\rho□≡\rho/t$ (”rho box”). La sua unità è data in Ohm: $[\rho□]=1 \Omega$.
@@ -314,14 +314,14 @@ Invece si può dimostrare che la resistività della lamina è correlata alla res
 relazione
 ρ□=
 π
-ln(2) $\cdotR$
+ln(2) $\cdot R$
 (3)
-per l, $w\ggt$.
+per l, $w\gg t$.
 B.1
 Calcola la resistività laminare ρ□del foglio attraverso le misure 4PP viste nella
-parte A. Chiameremo questo particolare valore come $ρ\infty(e R\inftyla$ resistenza
+parte A. Chiameremo questo particolare valore come $ρ\infty(e R\infty la$ resistenza
 misurata nella parte A) perché le dimensioni del campione costituito dal foglio
-intero sono molto maggiori dello spazio tra i contatti s: l, $w\ggs$.
+intero sono molto maggiori dello spazio tra i contatti s: l, $w\gg s$.
 0.3pt
 Experiment
 Italiano (Italy)
@@ -343,14 +343,14 @@ La resistività laminare non cambia in funzione della dimensione del campione. C
 f(w/s):
 ρ□=
 π
-ln(2) $\cdotR(w/s$)
+ln(2) $\cdot R(w/s$)
 f(w/s) .
 (4)
-Per un campione di lunghezza $l\ggsil$ fattore fdipende solo dal rapporto w/sed è maggiore di 1:
+Per un campione di lunghezza $l\gg sil$ fattore fdipende solo dal rapporto w/sed è maggiore di 1:
 f(w/s) $\geq1$. Per semplicità ci concentriamo sulla dipendenza dalla larghezza wassicurandoci solamente
 che il campione sia abbastanza lungo per effettuare la misura. Assumiamo che il valore si avvicini a quello
 corretto ρ□per grandi dimensioni:
-R(w/s) = $R\infty\cdotf(w/s$)
+R(w/s) = $R\infty\cdot f(w/s$)
 con
 $f(w/s\to\infty$) $\to1.0$.
 (5)
@@ -472,7 +472,7 @@ Determine the resistance R=V
 The data can be obtained from Chart A.1.
 0.2pt
 A.3
-Usa il Grafico A.1 per determinare l’incertezza $\DeltaRsul$ valore di R nella misura
+Usa il Grafico A.1 per determinare l’incertezza $\Delta Rsul$ valore di R nella misura
 with 4PP technique
 0.4pt
 Experiments
@@ -490,14 +490,14 @@ I
 The electrical resistance R of the three-dimensional conductor shown above is given by:
 R= R3D = $ρ\cdot$
 l
-$w\cdott$
+$w\cdot t$
 (1)
-On the same basis, the resistance of a two-dimensional conductor of $t\llwe t\lll$ thickness can be defined.
+On the same basis, the resistance of a two-dimensional conductor of $t\ll we t\lll$ thickness can be defined.
 l
 w
 t
 $\rho☐$
-R= R2D = $ρ□\cdotl$
+R= R2D = $ρ□\cdot l$
 w,
 (2)
 using the laminar resistivity $\rho□≡\rho/t$ (rho box). Its unit is given in Ohm: $[\rho□]=1 \Omega$.
@@ -507,14 +507,14 @@ The resistance of the sheet is related to the resistance in this case by the
 Report by the Commission
 ρ□=
 π
-ln(2) $\cdotR$
+ln(2) $\cdot R$
 (3)
-for l, $w\ggt$.
+for l, $w\gg t$.
 B.1
 The laminar resistivity ρ□ of the sheet is calculated using the 4PP measures shown in
-Part A. Chiameremo questo particolare valore come $ρ\infty(e R\inftyla$ resistenza
+Part A. Chiameremo questo particolare valore come $ρ\infty(e R\infty la$ resistenza
 measured in Part A) because the sample size of the sheet
-The whole is much larger than the space between the contacts s: l, $w\ggs$.
+The whole is much larger than the space between the contacts s: l, $w\gg s$.
 0.3pt
 Experiments
 Italian (Italy)
@@ -536,14 +536,14 @@ The laminar resistivity does not change according to the sample size. So to conv
 f(w/s):
 ρ□=
 π
-ln(2) $\cdotR(w/s$)
+ln(2) $\cdot R(w/s$)
 f(w/s) .
 (4)
-For a length sample $l\ggsil$ the f-factor depends only on the w/sed ratio greater than 1:
+For a length sample $l\gg sil$ the f-factor depends only on the w/sed ratio greater than 1:
 f(w/s) $\geq1$. We simply focus on the dependence on width and we only make sure that we are
 the sample is long enough to be measured. Let's assume that the value is close to that.
 corrected ρ□ for large sizes:
-R(w/s) = $R\infty\cdotf(w/s$)
+R(w/s) = $R\infty\cdot f(w/s$)
 with
 $f(w/s\to\infty$) $\to1.0$.
 (5)

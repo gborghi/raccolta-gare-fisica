@@ -455,7 +455,7 @@ AS
 
 QUESTÃO 8 (6 pontos)
 
-$\Deltas=30m$
+$\Delta s=30m$
 V
 
 velocidade da onda:

@@ -345,7 +345,7 @@ Osservazioni e forme di energia in gioco
 
 3
 B
-Per $\phi=10^{\circ}$, $\thetamax$ =
+Per $\phi=10^{\circ}$, $\theta max$ =
 
 A
 Forza risultante di attrito all’interno della V > = < forza di attrito su piano?
@@ -489,7 +489,7 @@ Observations and forms of energy at stake
 
 3
 B
-For $\phi=10^{\circ}$, $\thetamax$ =
+For $\phi=10^{\circ}$, $\theta max$ =
 
 A
 The resulting friction force within the V > = < force of friction on the plane?

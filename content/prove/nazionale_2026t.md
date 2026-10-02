@@ -300,7 +300,7 @@ Una macchina termica compie un ciclo termodinamico quasi-statico il quale, nel p
 
 The following table shows the results of the calculations:
 
-A thermal machine performs a quasi-static thermodynamic cycle which, in the plane $T$$S$ (TemperatureEntropia), has the shape of an ellipse whose axes are parallel to the axes of the plane. What is the maximum yield of this heat engine?
+A thermal machine performs a quasi-static thermodynamic cycle which, in the plane $T$–$S$ (TemperatureEntropia), has the shape of an ellipse whose axes are parallel to the axes of the plane. What is the maximum yield of this heat engine?
 
 The measuring unit: ** additional dimension. The following information is provided:
 

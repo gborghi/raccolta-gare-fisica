@@ -97,7 +97,7 @@ Just as with other icebergs, in a floating tabular iceberg the largest part of t
 lies not above but below the water.
 In the following, consider an approximately box-shaped tabular iceberg of
 height H, length L and width B. For the density of ice and seawater use
-the approximate values $\rhoEis$ = 0.9 $\cdot$ 103 kg m-3 and $\rhoWasser$ = 1.0 $\cdot$ 103 kg m-3.
+the approximate values $\rho Eis$ = 0.9 $\cdot$ 103 kg m-3 and $\rho Wasser$ = 1.0 $\cdot$ 103 kg m-3.
 a) Determine what fraction of the height H of the iceberg lies below the
 water surface.
 When breaking off from an ice shelf, relatively narrow tabular icebergs can
@@ -141,7 +141,7 @@ Come con altri iceberg, in un iceberg tabulare galleggiante la più grande parte
 non è sopra, ma sotto l'acqua.
 In the following, considerate un iceberg tabular di
 altezza H, lunghezza L e larghezza B. Per la densità di uso di ghiaccio e acqua di mare
-i valori approssimativi $\rhoEis$ = 0,9 $\cdot$ 103 kg m-3 e $\rhoWasser$ = 1,0 $\cdot$ 103 kg m-3.
+i valori approssimativi $\rho Eis$ = 0,9 $\cdot$ 103 kg m-3 e $\rho Wasser$ = 1,0 $\cdot$ 103 kg m-3.
 a) Determina quale frazione dell'altezza H dell'iceberg si trova al di sotto del
 superficie acquatica.
 Quando si rompe da un ripiano di ghiaccio, gli iceberg tabulari possono essere relativamente stretti.
@@ -184,7 +184,7 @@ Just like with other icebergs, in a floating tabular iceberg the largest part of
 lies not above but below the water.
 In the following, consider an approximately box-shaped tabular iceberg of
 height H, length L and width B. For the density of ice and seawater use
-The approximate values $\rhoEis$ = 0.9 $\cdot$ 103 kg m-3 and $\rhoWasser$ = 1.0 $\cdot$ 103 kg m-3.
+The approximate values $\rho Eis$ = 0.9 $\cdot$ 103 kg m-3 and $\rho Wasser$ = 1.0 $\cdot$ 103 kg m-3.
 (a) Determine what fraction of the height H of the iceberg lies below the
 water surface.
 When breaking off from an ice shelf, relatively narrow tabular icebergs can

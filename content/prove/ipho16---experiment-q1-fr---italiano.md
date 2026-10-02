@@ -52,7 +52,7 @@ R=
 
 A.3 (0.4 pt)
 
-$\DeltaR=$
+$\Delta R=$
 
 Parte B. Resistività laminare (0.3 punti)
 B.1 (0.3 pt)
@@ -195,7 +195,7 @@ A1-9
 E.3 (0.2 pt)
 
 w=
-$\tow/s=$
+$\to w/s=$
 f(w/s) =
 
 E.4 (0.1 pt)
@@ -224,7 +224,7 @@ E.7 (0.5 pt)
 
 Grafico E.7: Iin funzione di V
 
-$\langleR\rangle=$
+$\langle R\rangle=$
 
 Experiment
 Italiano (Italy)
@@ -292,7 +292,7 @@ R=
 
 A.3 (0.4 pt)
 
-$\DeltaR=$
+$\Delta R=$
 
 Part B. Laminated resistivity (0.3 points)
 B.1 (0.3 pt)
@@ -435,7 +435,7 @@ A1-9
 E.3 (0.2 pt)
 
 w=
-$\tow/s=$
+$\to w/s=$
 f(w/s) =
 
 E.4 (0.1 pt)
@@ -464,7 +464,7 @@ E.7 (0.5 pt)
 
 Figure E.7: In the function of V
 
-$\langleR\rangle=$
+$\langle R\rangle=$
 
 Experiments
 Italian (Italy)

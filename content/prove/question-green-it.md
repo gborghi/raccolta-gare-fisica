@@ -179,9 +179,9 @@ non toccarla.
 Regola la posizione della lampada lungo il braccio fisso in modo da ottenere
 un fascio di luce quanto più possibile parallelo (lampada in fondo al tubo).
 4
-$\thetao$
+$\theta o$
 Reticolo
-$\thetao$
+$\theta o$
 $\theta'$
 Asse Ottico
 
@@ -395,9 +395,9 @@ Don't touch her.
 Adjust the position of the lamp along the fixed arm so that
 a beam of light as parallel as possible (lamp at the bottom of the tube).
 4
-$\thetao$
+$\theta o$
 Other, of a kind used for the manufacture of goods
-$\thetao$
+$\theta o$
 $\theta'$
 Optical axis
 

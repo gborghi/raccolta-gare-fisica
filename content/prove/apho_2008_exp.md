@@ -117,9 +117,13 @@ g. The standing wave will occur only between S and M, but behind the Source the 
 
 The observed and measured frequency of a signal changes by virtue of the relative motion between the source and the observer. This is known as the Doppler effect. The observed frequency is given by the formulas:
 
-$$f = f_0\,\frac{c - v_d}{c + v_s} \qquad \text{(Source and Detector receding)} \tag{1}$$
+$$
+f = f_0\,\frac{c - v_d}{c + v_s} \qquad \text{(Source and Detector receding)} \tag{1}
+$$
 
-$$f = f_0\,\frac{c + v_d}{c - v_s} \qquad \text{(Source and Detector approaching)} \tag{2}$$
+$$
+f = f_0\,\frac{c + v_d}{c - v_s} \qquad \text{(Source and Detector approaching)} \tag{2}
+$$
 
 where $f_0$ is the frequency of the wave emitted by the Source, $c$ the speed of sound in air, $v_d$ the velocity of the Detector, and $v_s$ the velocity of the Source.
 
@@ -294,9 +298,13 @@ g. L'onda in piedi si verificherà solo tra S e M, ma dietro la Fonte verranno o
 
 La frequenza osservata e misurata di un segnale cambia in virtù del movimento relativo tra la fonte e l'osservatore. Questo è noto come effetto Doppler. La frequenza osservata è data dalle formule:
 
-$$f = f_0\,\frac{c - v_d}{c + v_s} \qquad \text{(Source and Detector receding)} \tag{1}$$
+$$
+f = f_0\,\frac{c - v_d}{c + v_s} \qquad \text{(Source and Detector receding)} \tag{1}
+$$
 
-$$f = f_0\,\frac{c + v_d}{c - v_s} \qquad \text{(Source and Detector approaching)} \tag{2}$$
+$$
+f = f_0\,\frac{c + v_d}{c - v_s} \qquad \text{(Source and Detector approaching)} \tag{2}
+$$
 
 in cui $f_0$ è la frequenza dell'onda emessa dalla sorgente, $c$ la velocità del suono nell'aria, $v_d$ la velocità del rilevatore e $v_s$ la velocità della sorgente.
 

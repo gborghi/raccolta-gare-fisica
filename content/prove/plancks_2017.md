@@ -93,15 +93,25 @@ This problem is about generalised one-dimensional Brownian motion, which is math
 1. First consider the collisionless case for Newtonian mechanics of a single Brownian particle of mass $M$ at position $X(t)$ and velocity $V(t)$. *(Hint: don't think in a complicated way)*
 
    (a) What are the equations of motion for $X(t)$ and $V(t)$ if a force $F(X(t))$ is acting on the particle? Write them in the form
-   $$\frac{d}{dt} X(t) = \dots, \tag{1}$$
-   $$\frac{d}{dt} V(t) = \dots. \tag{2}$$
+   $$
+   \frac{d}{dt} X(t) = \dots, \tag{1}
+   $$
+   $$
+   \frac{d}{dt} V(t) = \dots. \tag{2}
+   $$
 
    (b) If we approximate the differential timestep $dt$ by a small but finite step $\Delta t$ starting at time $t$, what are the approximate changes in position $\Delta X_{\text{orb}} = X(t + \Delta t) - X(t)$ and velocity $\Delta V_{\text{orb}} = V(t + \Delta t) - V(t)$ after the time $\Delta t$ has passed?
-   $$\Delta X_{\text{orb}} = \dots, \tag{3}$$
-   $$\Delta V_{\text{orb}} = \dots. \tag{4}$$
+   $$
+   \Delta X_{\text{orb}} = \dots, \tag{3}
+   $$
+   $$
+   \Delta V_{\text{orb}} = \dots. \tag{4}
+   $$
 
 2. Now we consider an ensemble of non-interacting identical Brownian particles, still neglecting collisions with the background. In the force-free case $F = 0$, the evolution of their probability density $f(x, v, t)$ in phase-space with coordinates $(x, v)$ is given by
-   $$\frac{\partial f(x, v, t)}{\partial t} + v\,\frac{\partial f(x, v, t)}{\partial x} = 0. \tag{5}$$
+   $$
+   \frac{\partial f(x, v, t)}{\partial t} + v\,\frac{\partial f(x, v, t)}{\partial x} = 0. \tag{5}
+   $$
    To distinguish the $(x, v)$ used as independent variables here, they are denoted by small letters. This is in contrast to the orbit quantities $X(t), V(t)$ in the particle picture, being functions of time.
 
    (a) What is the mathematical and physical connection to the particle picture of 1.? *(Hint: use a total time derivative of $f$ with $x = X(t)$, $v = V(t)$ from 1a with $F = 0$)*
@@ -109,7 +119,9 @@ This problem is about generalised one-dimensional Brownian motion, which is math
    (b) What changes in Eq. (5) if we introduce a force $F(x)$?
 
 3. If we allow collisions of the ensemble of Brownian particles with the background (not with each other), Eq. (5) is changed to
-   $$\frac{\partial f(x, v, t)}{\partial t} + v\,\frac{\partial f(x, v, t)}{\partial x} = \nu_c\,\frac{\partial}{\partial v}\left[ v_T^2\,\frac{\partial f(x, v, t)}{\partial v} + v\,f(x, v, t) \right]. \tag{6}$$
+   $$
+   \frac{\partial f(x, v, t)}{\partial t} + v\,\frac{\partial f(x, v, t)}{\partial x} = \nu_c\,\frac{\partial}{\partial v}\left[ v_T^2\,\frac{\partial f(x, v, t)}{\partial v} + v\,f(x, v, t) \right]. \tag{6}
+   $$
    Here, the zero on the right-hand side in Eq. (5) has been replaced by a Fokker–Planck collision operator, where the collision frequency $\nu_c$ measures how frequently collisions occur in time, and the thermal velocity $v_T = \sqrt{2T/M}$ is the average velocity magnitude of the Brownian particle ensemble if it had the same temperature $T$ as the background.
 
    (a) For a homogeneous system with $\partial f / \partial x = 0$, what is the stationary distribution $f_\infty$ for which $f$ does not change in time anymore?
@@ -119,7 +131,9 @@ This problem is about generalised one-dimensional Brownian motion, which is math
    (c) What is the stationary distribution in the general case with $\partial f / \partial x \neq 0$ with a conservative force $F(x)$ acting as in 2b)?
 
 4. Switching back from the ensemble to the particle picture, we can represent the orbit of the Brownian particle including randomisation by collisions with the background using
-   $$V(t + \Delta t) - V(t) = \Delta V_{\text{orb}} - \nu_c V(t)\,\Delta t + \sqrt{2\nu_c v_T^2}\,\Theta\,\sqrt{\Delta t}. \tag{7}$$
+   $$
+   V(t + \Delta t) - V(t) = \Delta V_{\text{orb}} - \nu_c V(t)\,\Delta t + \sqrt{2\nu_c v_T^2}\,\Theta\,\sqrt{\Delta t}. \tag{7}
+   $$
    Here, $\Delta t$ is a sufficiently small time-step, $\Theta$ is a random number between $0$ and $1$ and $\Delta V_{\text{orb}}$ is taken from 1b).
 
    (a) Based on the similar form of $\Delta V_{\text{orb}}$ of 1b), how can the second term on the right-hand side of Eq. (7) be interpreted in terms of a force acting on the Brownian particle?
@@ -144,15 +158,25 @@ Questo problema riguarda il moto browniano unidimensionale generalizzato, che è
 1. Si consideri dapprima il caso senza collisioni per la meccanica newtoniana di una singola particella browniana di massa $M$ in posizione $X(t)$ e con velocità $V(t)$. *(Suggerimento: non pensare in modo complicato)*
 
    (a) Quali sono le equazioni del moto per $X(t)$ e $V(t)$ se una forza $F(X(t))$ agisce sulla particella? Scriverle nella forma
-   $$\frac{d}{dt} X(t) = \dots, \tag{1}$$
-   $$\frac{d}{dt} V(t) = \dots. \tag{2}$$
+   $$
+   \frac{d}{dt} X(t) = \dots, \tag{1}
+   $$
+   $$
+   \frac{d}{dt} V(t) = \dots. \tag{2}
+   $$
 
    (b) Se approssimiamo il passo temporale differenziale $dt$ con un passo piccolo ma finito $\Delta t$ a partire dall'istante $t$, quali sono le variazioni approssimate della posizione $\Delta X_{\text{orb}} = X(t + \Delta t) - X(t)$ e della velocità $\Delta V_{\text{orb}} = V(t + \Delta t) - V(t)$ dopo che è trascorso il tempo $\Delta t$?
-   $$\Delta X_{\text{orb}} = \dots, \tag{3}$$
-   $$\Delta V_{\text{orb}} = \dots. \tag{4}$$
+   $$
+   \Delta X_{\text{orb}} = \dots, \tag{3}
+   $$
+   $$
+   \Delta V_{\text{orb}} = \dots. \tag{4}
+   $$
 
 2. Consideriamo ora un insieme di particelle browniane identiche non interagenti, trascurando ancora le collisioni con il fondo. Nel caso privo di forze $F = 0$, l'evoluzione della loro densità di probabilità $f(x, v, t)$ nello spazio delle fasi con coordinate $(x, v)$ è data da
-   $$\frac{\partial f(x, v, t)}{\partial t} + v\,\frac{\partial f(x, v, t)}{\partial x} = 0. \tag{5}$$
+   $$
+   \frac{\partial f(x, v, t)}{\partial t} + v\,\frac{\partial f(x, v, t)}{\partial x} = 0. \tag{5}
+   $$
    Per distinguere le $(x, v)$ usate qui come variabili indipendenti, esse sono indicate con lettere minuscole. Ciò è in contrasto con le grandezze di orbita $X(t), V(t)$ nella descrizione particellare, che sono funzioni del tempo.
 
    (a) Qual è la connessione matematica e fisica con la descrizione particellare del punto 1.? *(Suggerimento: usare una derivata totale rispetto al tempo di $f$ con $x = X(t)$, $v = V(t)$ dal punto 1a con $F = 0$)*
@@ -160,7 +184,9 @@ Questo problema riguarda il moto browniano unidimensionale generalizzato, che è
    (b) Che cosa cambia nell'Eq. (5) se introduciamo una forza $F(x)$?
 
 3. Se permettiamo le collisioni dell'insieme di particelle browniane con il fondo (ma non tra loro), l'Eq. (5) si modifica in
-   $$\frac{\partial f(x, v, t)}{\partial t} + v\,\frac{\partial f(x, v, t)}{\partial x} = \nu_c\,\frac{\partial}{\partial v}\left[ v_T^2\,\frac{\partial f(x, v, t)}{\partial v} + v\,f(x, v, t) \right]. \tag{6}$$
+   $$
+   \frac{\partial f(x, v, t)}{\partial t} + v\,\frac{\partial f(x, v, t)}{\partial x} = \nu_c\,\frac{\partial}{\partial v}\left[ v_T^2\,\frac{\partial f(x, v, t)}{\partial v} + v\,f(x, v, t) \right]. \tag{6}
+   $$
    Qui lo zero al membro destro dell'Eq. (5) è stato sostituito da un operatore di collisione di Fokker–Planck, dove la frequenza di collisione $\nu_c$ misura quanto frequentemente avvengono le collisioni nel tempo, e la velocità termica $v_T = \sqrt{2T/M}$ è il modulo medio della velocità dell'insieme di particelle browniane se avesse la stessa temperatura $T$ del fondo.
 
    (a) Per un sistema omogeneo con $\partial f / \partial x = 0$, qual è la distribuzione stazionaria $f_\infty$ per cui $f$ non cambia più nel tempo?
@@ -170,7 +196,9 @@ Questo problema riguarda il moto browniano unidimensionale generalizzato, che è
    (c) Qual è la distribuzione stazionaria nel caso generale con $\partial f / \partial x \neq 0$ con una forza conservativa $F(x)$ agente come nel punto 2b)?
 
 4. Tornando dall'insieme alla descrizione particellare, possiamo rappresentare l'orbita della particella browniana includendo la casualizzazione dovuta alle collisioni con il fondo usando
-   $$V(t + \Delta t) - V(t) = \Delta V_{\text{orb}} - \nu_c V(t)\,\Delta t + \sqrt{2\nu_c v_T^2}\,\Theta\,\sqrt{\Delta t}. \tag{7}$$
+   $$
+   V(t + \Delta t) - V(t) = \Delta V_{\text{orb}} - \nu_c V(t)\,\Delta t + \sqrt{2\nu_c v_T^2}\,\Theta\,\sqrt{\Delta t}. \tag{7}
+   $$
    Qui $\Delta t$ è un passo temporale sufficientemente piccolo, $\Theta$ è un numero casuale tra $0$ e $1$ e $\Delta V_{\text{orb}}$ è preso dal punto 1b).
 
    (a) Sulla base della forma simile di $\Delta V_{\text{orb}}$ del punto 1b), come si può interpretare il secondo termine al membro destro dell'Eq. (7) in termini di una forza agente sulla particella browniana?
@@ -402,38 +430,62 @@ Figura 1: Scatter di un neutrone in un nucleo. Sistema di laboratorio (L) e sist
 **Solid state physics** *(Dirk van der Marel, University of Geneva)*
 
 **I, Background:** The color of a substance is caused by selective, i.e. frequency dependent, dissipation and dispersion of electromagnetic radiation. A vector potential $A$ oscillating at a frequency $\omega$ induces a current density $j$ at the same frequency. This is described by the linear relation $j = i\omega\sigma(\omega)A$, where $\sigma(\omega)$ is a complex frequency dependent function called "optical conductivity" which characterizes the optical properties of the substance. Throughout this problem set you may assume for simplicity that the electrons move in a one-dimensional space. The quantum theory of matter coupled to radiation provides the following expression for the real (dissipative) part of the optical conductivity
-$$\operatorname{Re}\sigma(\omega) = \operatorname{Re}\sigma(-\omega) = \frac{e^2}{V\hbar}\operatorname{Im}\int_0^\infty e^{i\omega t}\,\langle [\hat{x}(t), \hat{v}] \rangle\, dt \tag{1}$$
+$$
+\operatorname{Re}\sigma(\omega) = \operatorname{Re}\sigma(-\omega) = \frac{e^2}{V\hbar}\operatorname{Im}\int_0^\infty e^{i\omega t}\,\langle [\hat{x}(t), \hat{v}] \rangle\, dt \tag{1}
+$$
 where $e$ is the electron charge, $V$ the sample volume, and $\langle\,\rangle$ is an ensemble average over the Hamiltonian eigenstates of the substance. The position ($x$) and velocity ($v$) operators satisfy the equation of motion
-$$\hat{v}(t) = \frac{i}{\hbar}\big[\hat{H}, \hat{x}(t)\big] \tag{2}$$
+$$
+\hat{v}(t) = \frac{i}{\hbar}\big[\hat{H}, \hat{x}(t)\big] \tag{2}
+$$
 At time $t = 0$ the Heisenberg representation yields $\hat{v}(0) = \hat{v}$ and $\hat{x}(0) = \hat{x}$.
 
 **Question I:** Show that the optical conductivity satisfies the following sum-rule
-$$\int_0^\infty \operatorname{Re}\sigma(\omega)\,d\omega = \frac{\pi e^2}{2V\hbar^2}\operatorname{Re}\big\langle \big[\hat{x}, [\hat{H}, \hat{x}]\big] \big\rangle \tag{3}$$
+$$
+\int_0^\infty \operatorname{Re}\sigma(\omega)\,d\omega = \frac{\pi e^2}{2V\hbar^2}\operatorname{Re}\big\langle \big[\hat{x}, [\hat{H}, \hat{x}]\big] \big\rangle \tag{3}
+$$
 
 **II, Background:** The momentum operator $\hat{p}$ and the position operator satisfy the Heisenberg uncertainty relation
-$$[\hat{x}, \hat{p}] = i\hbar \tag{4}$$
+$$
+[\hat{x}, \hat{p}] = i\hbar \tag{4}
+$$
 Eq. (4) remains valid in a crystalline environment, but the set of eigenvalues of $\hat{p}$
-$$\hat{p}\,|q\rangle = q\,|q\rangle \tag{5}$$
+$$
+\hat{p}\,|q\rangle = q\,|q\rangle \tag{5}
+$$
 is confined to a finite interval, $q \in \{-\hbar\pi/a;\ \hbar\pi/a\}$ where $a$ is the lattice constant. In a metal in its simplest incarnation, one of the bands (the "conduction band") is partially occupied with electrons and all other bands are either fully occupied or completely empty. The corresponding band-energies $\varepsilon_c(q)$ are the eigenvalues of the Hamiltonian operator
-$$\hat{H} = \varepsilon_c(\hat{p}) \tag{6}$$
+$$
+\hat{H} = \varepsilon_c(\hat{p}) \tag{6}
+$$
 which in a solid environment is usually some complicated non-linear function of the momentum operator $\hat{p}$. In vacuum this reduces to the familiar expression $\varepsilon(\hat{p}) = \hat{p}^2/2m$, but in a solid environment the $\hat{p}$-dependence is different and varies strongly from one material to another. The optical conductivity has two types of contributions:
-$$\sigma(\omega) = \sigma_c(\omega) + \sigma_b(\omega) \tag{7}$$
+$$
+\sigma(\omega) = \sigma_c(\omega) + \sigma_b(\omega) \tag{7}
+$$
 The current carried by the electrons in the conduction band described by Eq. (6) gives rise to the contribution $\sigma_c(\omega)$, which corresponds to a zero-frequency mode with a finite width due to scattering. The finite-frequency ("bound charge") contribution defined as $\sigma_b(\omega)$, comes from optical transitions between the (fully and partly) occupied and (fully and partly) empty bands.
 
 **Question II:** Assume that the substance contains a single electron, and that it occupies momentum eigenstate $|q\rangle$ in the conduction band. Leave all other bands out of consideration and show with the help of Eqs. (3), (4) and (6) that $\sigma_c(\omega)$ satisfies
-$$\int_0^\infty \operatorname{Re}\sigma_c(\omega)\,d\omega = \frac{\pi e^2}{2V}\,\frac{\partial^2\varepsilon_c(q)}{\partial q^2} \tag{8}$$
+$$
+\int_0^\infty \operatorname{Re}\sigma_c(\omega)\,d\omega = \frac{\pi e^2}{2V}\,\frac{\partial^2\varepsilon_c(q)}{\partial q^2} \tag{8}
+$$
 
 **III, Background:** The many-electron generalization of Eq. (8) is a somewhat lengthy exercise which we are not asking you to do. It has the following result
-$$\int_0^\infty \operatorname{Re}\sigma_c(\omega)\,d\omega = \frac{\pi e^2}{2V}\sum_k n_c(k)\,\frac{\partial^2\varepsilon_c(k)}{\partial k^2} \tag{9}$$
+$$
+\int_0^\infty \operatorname{Re}\sigma_c(\omega)\,d\omega = \frac{\pi e^2}{2V}\sum_k n_c(k)\,\frac{\partial^2\varepsilon_c(k)}{\partial k^2} \tag{9}
+$$
 where $n_c(k) \in \{0;1\}$ is the average number of conduction electrons with momentum $k$. In the limit of very high temperature, $n_c(k)$ tends toward a $k$-independent constant: $\lim_{T\to\infty} n_c(k) = n_c$.
 
 **Question III:** Show that
-$$\lim_{T\to\infty}\int_0^\infty \operatorname{Re}\sigma_c(\omega)\,d\omega = 0 \tag{10}$$
+$$
+\lim_{T\to\infty}\int_0^\infty \operatorname{Re}\sigma_c(\omega)\,d\omega = 0 \tag{10}
+$$
 
 **IV, Background:** However, since electrons can be thermally excited from one band to another, the restriction to a single band is not justified at finite temperature. In fact the following sum-rule for the full conductivity ($\sigma = \sigma_c + \sigma_b$) holds for any temperature
-$$\int_0^\infty \operatorname{Re}\sigma(\omega)\,d\omega = \frac{\pi N e^2}{2 m_e V} \tag{11}$$
+$$
+\int_0^\infty \operatorname{Re}\sigma(\omega)\,d\omega = \frac{\pi N e^2}{2 m_e V} \tag{11}
+$$
 where $m_e$ is the free electron mass and $N$ is the total number of electrons summed over all (partly or fully) occupied bands. Bismuth-antimony alloys are very interesting materials that exhibit a topological insulating phase for certain compositions. Pure bismuth is a semimetal, for which the main characteristics of the electronic structure are displayed in Figure 1 (an additional band of heavy hole carriers is left out of consideration for simplicity). The conduction band of these materials is characterized by a large value of the inverse effective mass $1/m_c = \partial^2\varepsilon_c(q)/\partial q^2|_{q=0}$, in other words $m_c < m_e$. Since only a small number of $q$-states are occupied, all having $q \simeq 0$, the spectral weight of the zero-energy mode satisfies
-$$\int_0^\infty \operatorname{Re}\sigma_c(\omega)\,d\omega = \frac{\pi N_c e^2}{2 m_c V} \tag{12}$$
+$$
+\int_0^\infty \operatorname{Re}\sigma_c(\omega)\,d\omega = \frac{\pi N_c e^2}{2 m_c V} \tag{12}
+$$
 where $N_c$ is the number of electrons in the conduction band.
 
 **Question IV:** Given that $m_c < m_e$, would nature allow a situation where the conduction band (red in Figure 1) would be the only band that is (partly or fully) occupied, implying that the blue band would be absent from Figure 1? Explain why or why not.
@@ -453,38 +505,62 @@ where $N_c$ is the number of electrons in the conduction band.
 **Fisica dello stato solido** *
 
 **I, Sottocondo: ** Il colore di una sostanza è causato da selective, cioè di frequenza, di dissipazione e di dispersione delle radiazioni elettromagnetiche. Un potenziale vettoriale $A$ oscillante a frequenza $\omega$ induce una densità di corrente $j$ alla stessa frequenza. Questo è descritto dalla relazione lineare $j = i\omega\sigma(\omega)A$, dove $\sigma(\omega)$ è una funzione complessa a frequenza dipendente chiamata "conduttività ottica" che caratterizza le proprietà ottiche della sostanza. In tutto questo insieme di problemi si può supporre per semplicità che gli elettroni si muovono in uno spazio unidimensionale. La teoria quantistica della materia accoppiata alla radiazione fornisce la seguente espressione per la parte reale (dissipativa) della conduttività ottica
-$$\operatorname{Re}\sigma(\omega) = \operatorname{Re}\sigma(-\omega) = \frac{e^2}{V\hbar}\operatorname{Im}\int_0^\infty e^{i\omega t}\,\langle [\hat{x}(t), \hat{v}] \rangle\, dt \tag{1}$$
+$$
+\operatorname{Re}\sigma(\omega) = \operatorname{Re}\sigma(-\omega) = \frac{e^2}{V\hbar}\operatorname{Im}\int_0^\infty e^{i\omega t}\,\langle [\hat{x}(t), \hat{v}] \rangle\, dt \tag{1}
+$$
 dove $e$ è la carica di elettroni, $V$ il volume del campione e $\langle\,\rangle$ è una media complessiva sugli stati propri hamiltoniani della sostanza. Gli operatori di posizione ($x$) e velocità ($v$) soddisfano l'equazione di movimento
-$$\hat{v}(t) = \frac{i}{\hbar}\big[\hat{H}, \hat{x}(t)\big] \tag{2}$$
+$$
+\hat{v}(t) = \frac{i}{\hbar}\big[\hat{H}, \hat{x}(t)\big] \tag{2}
+$$
 Nel tempo $t = 0$ la rappresentazione di Heisenberg produce $\hat{v}(0) = \hat{v}$ e $\hat{x}(0) = \hat{x}$.
 
 **Questa I:** Dimostra che la conduttività ottica soddisfa la seguente regola sommata
-$$\int_0^\infty \operatorname{Re}\sigma(\omega)\,d\omega = \frac{\pi e^2}{2V\hbar^2}\operatorname{Re}\big\langle \big[\hat{x}, [\hat{H}, \hat{x}]\big] \big\rangle \tag{3}$$
+$$
+\int_0^\infty \operatorname{Re}\sigma(\omega)\,d\omega = \frac{\pi e^2}{2V\hbar^2}\operatorname{Re}\big\langle \big[\hat{x}, [\hat{H}, \hat{x}]\big] \big\rangle \tag{3}
+$$
 
 **II, Sottocfronto: ** L'operatore di impulso $\hat{p}$ e l'operatore di posizione soddisfano la relazione di incertezza di Heisenberg
-$$[\hat{x}, \hat{p}] = i\hbar \tag{4}$$
+$$
+[\hat{x}, \hat{p}] = i\hbar \tag{4}
+$$
 Eq. (4) rimane valida in un ambiente cristallino, ma l'insieme dei valori propri di $\hat{p}$
-$$\hat{p}\,|q\rangle = q\,|q\rangle \tag{5}$$
+$$
+\hat{p}\,|q\rangle = q\,|q\rangle \tag{5}
+$$
 è confinato ad un intervallo finito, $q \in \{-\hbar\pi/a;\ \hbar\pi/a\}$, dove $a$ è la costante della rete. In un metallo nella sua più semplice incarnazione, una delle bande (la "banda di condotta") è parzialmente occupata da elettroni e tutte le altre bande sono completamente occupate o completamente vuote. Le corrispondenti energie di banda $\varepsilon_c(q)$ sono i valori propri dell'operatore hamiltoniano
-$$\hat{H} = \varepsilon_c(\hat{p}) \tag{6}$$
+$$
+\hat{H} = \varepsilon_c(\hat{p}) \tag{6}
+$$
 che in un ambiente solido è di solito una complessa funzione non lineare dell'operatore di impulso $\hat{p}$. In vuoto si riduce a $\varepsilon(\hat{p}) = \hat{p}^2/2m$, ma in un ambiente solido la dipendenza $\hat{p}$ è diversa e varia fortemente da un materiale all'altro. La conducibilità ottica ha due tipi di contributi:
-$$\sigma(\omega) = \sigma_c(\omega) + \sigma_b(\omega) \tag{7}$$
+$$
+\sigma(\omega) = \sigma_c(\omega) + \sigma_b(\omega) \tag{7}
+$$
 La corrente trasportata dagli elettroni nella banda di conduzione descritta da Eq. (6) dà luogo al contributo $\sigma_c(\omega)$, che corrisponde a una modalità a frequenza zero con larghezza finita a causa della dispersione. Il contributo di frequenza finita ("carica vincolata") definito come $\sigma_b(\omega)$, deriva da transizioni ottiche tra le bande (interamente e parzialmente) occupate e (interamente e parzialmente) vuote.
 
 **Questione II: ** Supponiamo che la sostanza contenga un singolo elettrone e che occupi un stato di impulso proprio $|q\rangle$ nella banda di conduzione. Lascia tutte le altre band fuori considerazione e mostra con l'aiuto di Eqs. 3, 4 e 6 che $\sigma_c(\omega)$ soddisfa
-$$\int_0^\infty \operatorname{Re}\sigma_c(\omega)\,d\omega = \frac{\pi e^2}{2V}\,\frac{\partial^2\varepsilon_c(q)}{\partial q^2} \tag{8}$$
+$$
+\int_0^\infty \operatorname{Re}\sigma_c(\omega)\,d\omega = \frac{\pi e^2}{2V}\,\frac{\partial^2\varepsilon_c(q)}{\partial q^2} \tag{8}
+$$
 
 **III, Sottopiede: ** La generalizzazione multi-elettronica di Eq. (8) è un'attività piuttosto lunga che non vi chiediamo di fare. Ha il seguente risultato:
-$$\int_0^\infty \operatorname{Re}\sigma_c(\omega)\,d\omega = \frac{\pi e^2}{2V}\sum_k n_c(k)\,\frac{\partial^2\varepsilon_c(k)}{\partial k^2} \tag{9}$$
+$$
+\int_0^\infty \operatorname{Re}\sigma_c(\omega)\,d\omega = \frac{\pi e^2}{2V}\sum_k n_c(k)\,\frac{\partial^2\varepsilon_c(k)}{\partial k^2} \tag{9}
+$$
 in cui $n_c(k) \in \{0;1\}$ è il numero medio di elettroni di conduttività con impulso $k$. Nel limite di temperatura molto elevata, $n_c(k)$ tende verso una costante indipendente da $k$: $\lim_{T\to\infty} n_c(k) = n_c$.
 
 **Questione III: ** Mostra che
-$$\lim_{T\to\infty}\int_0^\infty \operatorname{Re}\sigma_c(\omega)\,d\omega = 0 \tag{10}$$
+$$
+\lim_{T\to\infty}\int_0^\infty \operatorname{Re}\sigma_c(\omega)\,d\omega = 0 \tag{10}
+$$
 
 **IV, Sostenibile: ** Tuttavia, poiché gli elettroni possono essere eccitati termicamente da una banda all'altra, la limitazione a una singola banda non è giustificata a temperatura finita. Infatti la seguente regola somma per la piena conducibilità ($\sigma = \sigma_c + \sigma_b$) si applica a qualsiasi temperatura
-$$\int_0^\infty \operatorname{Re}\sigma(\omega)\,d\omega = \frac{\pi N e^2}{2 m_e V} \tag{11}$$
+$$
+\int_0^\infty \operatorname{Re}\sigma(\omega)\,d\omega = \frac{\pi N e^2}{2 m_e V} \tag{11}
+$$
 in cui $m_e$ è la massa degli elettroni liberi e $N$ è il numero totale di elettroni sommato su tutte le bande occupate (parzialmente o completamente). Le leghe di bismuto-antimonio sono materiali molto interessanti che presentano una fase isolante topologica per determinate composizioni. Il bismuto puro è un semimetalo, per il quale le principali caratteristiche della struttura elettronica sono illustrate nella figura 1 (un'ulteriore fascia di portatori di buchi pesanti è esclusa per semplicità). La banda di conduzione di questi materiali è caratterizzata da un grande valore della massa effettiva inversa $1/m_c = \partial^2\varepsilon_c(q)/\partial q^2|_{q=0}$, in altre parole $m_c < m_e$. Poiché solo un piccolo numero di stati $q$ sono occupati, tutti $q \simeq 0$, il peso spettrale della modalità di energia zero soddisfa
-$$\int_0^\infty \operatorname{Re}\sigma_c(\omega)\,d\omega = \frac{\pi N_c e^2}{2 m_c V} \tag{12}$$
+$$
+\int_0^\infty \operatorname{Re}\sigma_c(\omega)\,d\omega = \frac{\pi N_c e^2}{2 m_c V} \tag{12}
+$$
 dove $N_c$ è il numero di elettroni nella banda di conduzione.
 
 **Questa IV: ** Dato che $m_c < m_e$, la natura consentirebbe una situazione in cui la banda di conduttività (rossa nella Figura 1) sarebbe l'unica banda occupata (parzialmente o completamente), implicando che la banda blu sarebbe assente dalla Figura 1? Spiegate il perché o il perché no.
@@ -578,7 +654,9 @@ At the start point (1), the gas has a reduced temperature of $T^r_1 = 1.5$, its 
 *Hint:* The vdW gas equation is given by $\left(p + \dfrac{a}{v^2}\right)(v - b) = RT$, where $a$ gives the average attraction between particles and $b$ is the volume of a mole of particles. It is characterized by the critical point with coordinates $(p_k, v_k, T_k)$, where $T_k = \dfrac{8a}{27Rb}$, $p_k = \dfrac{a}{27b^2}$ and $v_k = 3b$. The reduced quantities are given by $T^r = \dfrac{T}{T_k}$, $p^r = \dfrac{p}{p_k}$ and $v^r = \dfrac{v}{v_k}$.
 
 (a) For an adiabatic process with a vdW gas, the following relation between temperature $T$ and specific volume $v$ holds:
-$$T^{c_v}(v - b) = \text{const} \tag{1}$$
+$$
+T^{c_v}(v - b) = \text{const} \tag{1}
+$$
 Express this equation and the vdW equation only as a function of the reduced quantities.
 
 (b) Explicitly calculate the reduced quantities in every point of the cycle.
@@ -613,7 +691,9 @@ Al punto di partenza (1), il gas ha una temperatura ridotta di $T^r_1 = 1.5$, il
 *Signore:* L'equazione vdW del gas è data da $\left(p + \dfrac{a}{v^2}\right)(v - b) = RT$, dove $a$ dà l'attrazione media tra le particelle e $b$ è il volume di una mole di particelle. È caratterizzato dal punto critico con le coordinate $(p_k, v_k, T_k)$, dove $T_k = \dfrac{8a}{27Rb}$, $p_k = \dfrac{a}{27b^2}$ e $v_k = 3b$. I quantitativi ridotti sono indicati con $T^r = \dfrac{T}{T_k}$, $p^r = \dfrac{p}{p_k}$ e $v^r = \dfrac{v}{v_k}$.
 
 a) Per un processo adiabatico con gas vdW, la seguente relazione tra temperatura $T$ e volume specifico $v$ è:
-$$T^{c_v}(v - b) = \text{const} \tag{1}$$
+$$
+T^{c_v}(v - b) = \text{const} \tag{1}
+$$
 Esprimere questa equazione e l'equazione vdW solo come funzione delle quantità ridotte.
 
 b) Calcolare esplicitamente le quantità ridotte in ogni punto del ciclo.
@@ -771,9 +851,13 @@ In particular, when combining two systems described by angular momenta $\vec{J}_
 Consider a qubit setup consisting of four spin-$\tfrac{1}{2}$ particles in a square arrangement (see Fig. 1). We work in units with $\hbar = 1$.
 
 The Hamiltonian of the system is:
-$$H = \frac{1}{2}\sum_{i \neq j} J_{ij}\,\vec{S}_i \cdot \vec{S}_j \tag{1}$$
+$$
+H = \frac{1}{2}\sum_{i \neq j} J_{ij}\,\vec{S}_i \cdot \vec{S}_j \tag{1}
+$$
 where
-$$\vec{S}_j = \left( S^x_j, S^y_j, S^z_j \right) \tag{2}$$
+$$
+\vec{S}_j = \left( S^x_j, S^y_j, S^z_j \right) \tag{2}
+$$
 denotes the three components of the quantum mechanical spin operator[^3] of particle $j$ ($j = 1,2,3,4$), and the dot "$\cdot$" denotes scalar product over these components. The coupling constants $J_{ij}$ can have the values $J_A$ or $J_B$ according to the figure.
 
 Consider first the case $J_A < 0$, $J_B < 0$:
@@ -781,13 +865,17 @@ Consider first the case $J_A < 0$, $J_B < 0$:
 (i) Determine the energy and degeneracy of the ground state of Hamiltonian from (1).
 
 The system is prepared at $t = 0$ in a state consisting of all spins oriented in the $x$ direction. At the same time a magnetic field, described by the Hamiltonian
-$$H_B = -B\sum_{i=1}^{4} S^z_i \tag{3}$$
+$$
+H_B = -B\sum_{i=1}^{4} S^z_i \tag{3}
+$$
 is applied in the $z$ direction.
 
 (ii) How long does it take for the system to go back to the state with all spins oriented in the $x$ direction?
 
 (iii) Determine the time dependence of the magnetisation $M^x$ in the $x$ direction, where
-$$M^\alpha \equiv \langle S^\alpha_{\text{tot}} \rangle, \qquad S^\alpha_{\text{tot}} \equiv \sum_{i=1}^{4} S^\alpha_i, \qquad \alpha = x, y, z. \tag{4}$$
+$$
+M^\alpha \equiv \langle S^\alpha_{\text{tot}} \rangle, \qquad S^\alpha_{\text{tot}} \equiv \sum_{i=1}^{4} S^\alpha_i, \qquad \alpha = x, y, z. \tag{4}
+$$
 and the expectation value $\langle \cdots \rangle$ is taken with respect to the above-mentioned time-dependent state.
 
 We now go back to the Hamiltonian from (1) (without magnetic field (Eq. (3))):
@@ -799,15 +887,23 @@ We now go back to the Hamiltonian from (1) (without magnetic field (Eq. (3))):
 From now on we consider the case $J_A > 0$, $J_B > 0$ and $\Delta J \neq 0$:
 
 (vi) Consider again the action of a magnetic field, (3). Determine the magnetic susceptibility
-$$\chi \equiv \left.\frac{dM^z}{dB}\right|_{B=0} \tag{5}$$
+$$
+\chi \equiv \left.\frac{dM^z}{dB}\right|_{B=0} \tag{5}
+$$
 where the expectation value in Eq. (4) is carried out with respect to the ground state of $H + H_B$.
 
 (vii) Consider now $\Delta J > 0$ and a magnetic field applied to the first spin only, described by the Hamiltonian
-$$H_{\text{loc}} = -b\,S^z_1. \tag{6}$$
+$$
+H_{\text{loc}} = -b\,S^z_1. \tag{6}
+$$
 Determine the local susceptibility
-$$\chi_{\text{loc}} \equiv \left.\frac{dm^z}{db}\right|_{b=0} \tag{7}$$
+$$
+\chi_{\text{loc}} \equiv \left.\frac{dm^z}{db}\right|_{b=0} \tag{7}
+$$
 where
-$$m^z \equiv \langle S^z_1 \rangle \tag{8}$$
+$$
+m^z \equiv \langle S^z_1 \rangle \tag{8}
+$$
 and the expectation value is evaluated with respect to the ground state of $H + H_{\text{loc}}$ (no $H_B$!).
 
 [^3]: We omit the $\hat{}$ to indicate operators.
@@ -835,9 +931,13 @@ In particolare, quando si combinano due sistemi descritti dai momenti angolari $
 Considera una configurazione di qubit composta da quattro particelle spin-$\tfrac{1}{2}$ in un'arrangimento quadrato (vedi figura. 1). Lavoriamo in unità con $\hbar = 1$.
 
 L'amiltoniano del sistema è:
-$$H = \frac{1}{2}\sum_{i \neq j} J_{ij}\,\vec{S}_i \cdot \vec{S}_j \tag{1}$$
+$$
+H = \frac{1}{2}\sum_{i \neq j} J_{ij}\,\vec{S}_i \cdot \vec{S}_j \tag{1}
+$$
 dove
-$$\vec{S}_j = \left( S^x_j, S^y_j, S^z_j \right) \tag{2}$$
+$$
+\vec{S}_j = \left( S^x_j, S^y_j, S^z_j \right) \tag{2}
+$$
 indica le tre componenti dell'operatore di spin meccanico quantistico[^3] della particella $j$ ($j = 1,2,3,4$), e il punto "$\cdot$" indica il prodotto scalare su questi componenti. Le costanti di accoppiamento $J_{ij}$ possono avere i valori $J_A$ o $J_B$ a seconda della figura.
 
 Considerate in primo luogo il caso $J_A < 0$, $J_B < 0$:
@@ -845,13 +945,17 @@ Considerate in primo luogo il caso $J_A < 0$, $J_B < 0$:
 - Determinare l'energia e la degenerazione dello stato di base di Hamiltonian a partire da (1).
 
 Il sistema è preparato a $t = 0$ in uno stato composto da tutte le rotazioni orientate nella direzione $x$. Allo stesso tempo un campo magnetico, descritto dall'Hamiltoniano
-$$H_B = -B\sum_{i=1}^{4} S^z_i \tag{3}$$
+$$
+H_B = -B\sum_{i=1}^{4} S^z_i \tag{3}
+$$
 viene applicato nella direzione $z$.
 
 (ii) Quanto tempo ci vuole per il sistema di tornare allo stato con tutti i giri orientati nella direzione $x$?
 
 - Determinare la dipendenza temporale della magnetizzazione $M^x$ nella direzione $x$, quando
-$$M^\alpha \equiv \langle S^\alpha_{\text{tot}} \rangle, \qquad S^\alpha_{\text{tot}} \equiv \sum_{i=1}^{4} S^\alpha_i, \qquad \alpha = x, y, z. \tag{4}$$
+$$
+M^\alpha \equiv \langle S^\alpha_{\text{tot}} \rangle, \qquad S^\alpha_{\text{tot}} \equiv \sum_{i=1}^{4} S^\alpha_i, \qquad \alpha = x, y, z. \tag{4}
+$$
 e il valore di attesa $\langle \cdots \rangle$ viene preso per quanto riguarda lo stato di dipendenza temporale sopra indicato.
 
 Torniamo ora all'Hamiltoniano da (1) (senza campo magnetico (Eq. (3))):
@@ -863,15 +967,23 @@ Torniamo ora all'Hamiltoniano da (1) (senza campo magnetico (Eq. (3))):
 Da ora in poi consideriamo i casi $J_A > 0$, $J_B > 0$ e $\Delta J \neq 0$:
 
 (vi) Riguardo l'azione di un campo magnetico (3). Determinare la sensibilità magnetica
-$$\chi \equiv \left.\frac{dM^z}{dB}\right|_{B=0} \tag{5}$$
+$$
+\chi \equiv \left.\frac{dM^z}{dB}\right|_{B=0} \tag{5}
+$$
 in cui il valore di attesa in Eq. (4) viene effettuata per lo stato di base di $H + H_B$.
 
 (vii) Considerate ora $\Delta J > 0$ e un campo magnetico applicato solo alla prima spina, descritto dal Hamiltonian
-$$H_{\text{loc}} = -b\,S^z_1. \tag{6}$$
+$$
+H_{\text{loc}} = -b\,S^z_1. \tag{6}
+$$
 Determina la sensibilità locale
-$$\chi_{\text{loc}} \equiv \left.\frac{dm^z}{db}\right|_{b=0} \tag{7}$$
+$$
+\chi_{\text{loc}} \equiv \left.\frac{dm^z}{db}\right|_{b=0} \tag{7}
+$$
 dove
-$$m^z \equiv \langle S^z_1 \rangle \tag{8}$$
+$$
+m^z \equiv \langle S^z_1 \rangle \tag{8}
+$$
 e il valore di attesa viene valutato rispetto allo stato di base di $H + H_{\text{loc}}$ (nessun $H_B$!).
 
 [^3]: omettiamo il $\hat{}$ per indicare gli operatori.

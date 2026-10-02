@@ -221,7 +221,9 @@ Il raggio sarà focalizzato a causa del campo di margine. Calcolare la distanza 
 
 Reflection of light by a relativistically moving mirror is not theoretically new. Einstein discussed the possibility or worked out the process using the Lorentz transformation to get the reflection formula due to a mirror moving with a velocity $\vec{v}$. This formula, however, could also be derived by using a relatively simpler method. Consider the reflection process as shown in Fig. 3.1, where a plane mirror M moves with a velocity $\vec{v} = v\,\hat{e}_x$ (where $\hat{e}_x$ is a unit vector in the x-direction) observed from the lab frame F. The mirror forms an angle $\phi$ with respect to the velocity (note that $0 \le \phi \le 90^\circ$, see figure 3.1). The plane of the mirror has $\mathbf{n}$ as its normal. The light beam has an incident angle $\alpha$ and reflection angle $\beta$ which are the angles between $\vec{n}$ and the incident beam $1$ and reflection beam $1'$, respectively in the laboratory frame F. It can be shown that,
 
-$$\sin\alpha - \sin\beta = \frac{v}{c}\sin\phi\,\sin(\alpha + \beta) \tag{1}$$
+$$
+\sin\alpha - \sin\beta = \frac{v}{c}\sin\phi\,\sin(\alpha + \beta) \tag{1}
+$$
 
 ![[_attachments/APhO_2005_theory/APhO_2005_theory_Q3_p1_f1.png]]
 *Figure 3.1. Reflection of light by a relativistically moving mirror*
@@ -230,7 +232,9 @@ $$\sin\alpha - \sin\beta = \frac{v}{c}\sin\phi\,\sin(\alpha + \beta) \tag{1}$$
 
 About a century ago Einstein derived the law of reflection of an electromagnetic wave by a mirror moving with a constant velocity $\vec{v} = -v\,\hat{e}_x$ (see Fig. 3.2). By applying the Lorentz transformation to the result obtained in the rest frame of the mirror, Einstein found that:
 
-$$\cos\beta = \frac{\left(1 + \left(\dfrac{v}{c}\right)^2\right)\cos\alpha - 2\dfrac{v}{c}}{1 - 2\dfrac{v}{c}\cos\alpha + \left(\dfrac{v}{c}\right)^2} \tag{2}$$
+$$
+\cos\beta = \frac{\left(1 + \left(\dfrac{v}{c}\right)^2\right)\cos\alpha - 2\dfrac{v}{c}}{1 - 2\dfrac{v}{c}\cos\alpha + \left(\dfrac{v}{c}\right)^2} \tag{2}
+$$
 
 Derive this formula using Equation (1) without Lorentz transformation!
 
@@ -264,7 +268,9 @@ By referring to figure 3.3 for light wave propagation or using other methods, de
 
 Il riflesso della luce da uno specchio relativistico non è una novità. Einstein ha discusso la possibilità o elaborato il processo utilizzando la trasformazione di Lorentz per ottenere la formula di riflessione a causa di uno specchio in movimento con una velocità $\vec{v}$. Questa formula, tuttavia, potrebbe anche essere derivata utilizzando un metodo relativamente più semplice. Considerate il processo di riflessione come mostrato alla figura. 3.1, dove uno specchio piano M si muove con una velocità $\vec{v} = v\,\hat{e}_x$ (dove $\hat{e}_x$ è un vettore unitario nella direzione x) osservata dal quadro di laboratorio F. Lo specchio forma un angolo $\phi$ rispetto alla velocità (nota che $0 \le \phi \le 90^\circ$, cfr. figura 3.1). Il piano dello specchio ha $\mathbf{n}$ come normale. Il fascio luminoso ha un angolo di incidenza $\alpha$ e un angolo di riflessione $\beta$, che sono gli angoli tra $\vec{n}$ e il fascio di incidenza $1$ e il fascio di riflessione $1'$, rispettivamente nel quadro di laboratorio F. Si può dimostrare che,
 
-$$\sin\alpha - \sin\beta = \frac{v}{c}\sin\phi\,\sin(\alpha + \beta) \tag{1}$$
+$$
+\sin\alpha - \sin\beta = \frac{v}{c}\sin\phi\,\sin(\alpha + \beta) \tag{1}
+$$
 
 ![[_attachments/APhO_2005_theory/APhO_2005_theory_Q3_p1_f1.png]]
 *Figura 3.1. Riflessione della luce da uno specchio in movimento relativistico*
@@ -273,7 +279,9 @@ $$\sin\alpha - \sin\beta = \frac{v}{c}\sin\phi\,\sin(\alpha + \beta) \tag{1}$$
 
 Circa un secolo fa Einstein derivò la legge del riflesso di un'onda elettromagnetica da uno specchio in movimento con una velocità costante $\vec{v} = -v\,\hat{e}_x$ (vedi Figura. 3.2). Applicando la trasformazione di Lorentz al risultato ottenuto nel quadro del resto dello specchio, Einstein scoprì che:
 
-$$\cos\beta = \frac{\left(1 + \left(\dfrac{v}{c}\right)^2\right)\cos\alpha - 2\dfrac{v}{c}}{1 - 2\dfrac{v}{c}\cos\alpha + \left(\dfrac{v}{c}\right)^2} \tag{2}$$
+$$
+\cos\beta = \frac{\left(1 + \left(\dfrac{v}{c}\right)^2\right)\cos\alpha - 2\dfrac{v}{c}}{1 - 2\dfrac{v}{c}\cos\alpha + \left(\dfrac{v}{c}\right)^2} \tag{2}
+$$
 
 Derivare questa formula utilizzando l'Equazione (1) senza trasformazione di Lorentz!
 

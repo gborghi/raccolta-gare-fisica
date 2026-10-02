@@ -25,7 +25,9 @@ This problem studies variations of fluid pressure caused by pressure waves in a 
 
 We consider only nonviscous liquids and liquid flows which are essentially one-dimensional. All pipes including their valves are assumed to be rigid, but liquids are not always considered to be incompressible. If a liquid element of volume $V_0$ at equilibrium under pressure $P_0$ is subjected to a change of pressure $\Delta P$, the change of its volume $\Delta V$ is assumed to be proportional to $\Delta P$ so that
 
-$$\Delta P = -B\,\frac{\Delta V}{V_0} \tag{1}$$
+$$
+\Delta P = -B\,\frac{\Delta V}{V_0} \tag{1}
+$$
 
 The constant of proportionality $B$ represents the bulk modulus of the liquid. For water, take $\rho_0 = 1.0 \times 10^3\ \text{kg/m}^3$ as its equilibrium density and $B = 2.2\ \text{GPa}$.
 
@@ -129,7 +131,9 @@ Questo problema studia le variazioni della pressione del fluido causate dalle on
 
 Si considerano solo liquidi non viscosi e flussi liquidi che sono essenzialmente unidimensionali. Si presume che tutti i tubi, comprese le valvole, siano rigidi, ma non sempre i liquidi siano considerati incompressibili. Se un elemento liquido di volume $V_0$ in equilibrio sotto pressione $P_0$ è sottoposto a un cambiamento di pressione $\Delta P$, si presume che il suo cambiamento di volume $\Delta V$ sia proporzionale a $\Delta P$ in modo tale che
 
-$$\Delta P = -B\,\frac{\Delta V}{V_0} \tag{1}$$
+$$
+\Delta P = -B\,\frac{\Delta V}{V_0} \tag{1}
+$$
 
 La costante di proporzionalità $B$ rappresenta il modulo di massa del liquido. Per l'acqua, prendere $\rho_0 = 1.0 \times 10^3\ \text{kg/m}^3$ come densità di equilibrio e $B = 2.2\ \text{GPa}$.
 
@@ -270,7 +274,9 @@ In a uniaxial medium, the direction of $\vec{k}$ of a light wave may differ from
 
 Consider the propagation of a light ray from A to B through an interface between an isotropic medium, labelled 1, and an anisotropic medium, labelled 2, as shown in Fig. 1. The interface coincides with the $yz$ plane, while the plane of incidence is the $xz$ plane. Let the angle of incidence be $\theta_1$. The refractive index of medium 1 is $n$, while the refractive indices of medium 2 for axes $z_2$, $y_2$, $x_2$ are $n_e$, $n_o$, and $n_o$, respectively. Here $y_2$ axis coincides with $y$ axis. Fermat's principle states that the propagation time for the path that the light ray goes from A to B is a minimum. For light with polarization parallel to $xz$ plane and incident at the angle $\theta_1$, Fermat's principle leads to the following equation:
 
-$$\bar{A}(\tan\theta_2)^2 + \bar{B}\tan\theta_2 + \bar{C} = 0 \tag{1}$$
+$$
+\bar{A}(\tan\theta_2)^2 + \bar{B}\tan\theta_2 + \bar{C} = 0 \tag{1}
+$$
 
 > **B.5** Find $\bar{A}$, $\bar{B}$, and $\bar{C}$ in terms of $P_1$, $P_2$, $P_3$, and $n\sin\theta_1$, where $P_1 = n_o^2\cos^2\phi + n_e^2\sin^2\phi$, $P_2 = n_o^2\sin^2\phi + n_e^2\cos^2\phi$, and $P_3 = (n_o^2 - n_e^2)\sin\phi\cos\phi$. From Eq. (1), find corresponding $\tan\theta_2$ to two special orientations: $\phi = 0$ and $\phi = \pi/2$. *(1.1pt)*
 
@@ -361,7 +367,9 @@ In un mezzo uniaxiale, la direzione di $\vec{k}$ di un'onda luminosa può differ
 
 Si consideri la propagazione di un raggio luminoso da A a B attraverso un'interfaccia tra un mezzo isotropo, etichettato 1, e un mezzo anisotropo, etichettato 2, come mostrato nella figura. 1. L'interfaccia coincide con il piano $yz$, mentre il piano di incidenza è il piano $xz$. L' angolo di incidenza deve essere $\theta_1$. L'indice di rifrazione del mezzo 1 è $n$, mentre gli indici di rifrazione del mezzo 2 per gli assi $z_2$, $y_2$, $x_2$ sono $n_e$, $n_o$ e $n_o$, rispettivamente. Qui l'asse $y_2$ coincide con l'asse $y$. Il principio di Fermat afferma che il tempo di propagazione per il percorso che il raggio di luce va da A a B è minimo. Per la luce con polarizzazione parallela al piano $xz$ e incidente all'angolo $\theta_1$, il principio di Fermat porta alla seguente equazione:
 
-$$\bar{A}(\tan\theta_2)^2 + \bar{B}\tan\theta_2 + \bar{C} = 0 \tag{1}$$
+$$
+\bar{A}(\tan\theta_2)^2 + \bar{B}\tan\theta_2 + \bar{C} = 0 \tag{1}
+$$
 
 > **B.5** Trova $\bar{A}$, $\bar{B}$ e $\bar{C}$ in termini di $P_1$, $P_2$, $P_3$ e $n\sin\theta_1$, dove $P_1 = n_o^2\cos^2\phi + n_e^2\sin^2\phi$, $P_2 = n_o^2\sin^2\phi + n_e^2\cos^2\phi$ e $P_3 = (n_o^2 - n_e^2)\sin\phi\cos\phi$. - Da Eq. (1) trovare le corrispondenti $\tan\theta_2$ a due orientamenti speciali: $\phi = 0$ e $\phi = \pi/2$. *(1.1pt)*
 
@@ -441,7 +449,9 @@ A point-like dipole can be considered as a pair of monopoles carrying negative a
 
 The magnetic field $\vec{B}_{mp}$ from a monopole $q_m$ is assumed to have a Coulombic form, given by
 
-$$\vec{B}_{mp} = \frac{\mu_0 q_m}{4\pi r^2}\,\hat{r}, \tag{1}$$
+$$
+\vec{B}_{mp} = \frac{\mu_0 q_m}{4\pi r^2}\,\hat{r}, \tag{1}
+$$
 
 where $\vec{r}$ is the displacement vector from $q_m$ to the observation point (or field point), $\hat{r}$ is the unit vector $\hat{r} = \vec{r}/r$, and $\mu_0$ is the free-space permeability. The force exerted by an applied magnetic field $\vec{B}'$ on $q_m$ is given by $\vec{F} = q_m\vec{B}'$. It follows, from extending the concept of the monopole field just described in Eq.(1), that the magnetic field $\vec{B}$ from a point-dipole is derivable from a scalar potential $\Phi$, given by the form $\vec{B} = -\vec{\nabla}\Phi$. The scalar potential $\Phi$ is also called the magnetic potential.
 
@@ -478,7 +488,9 @@ For $t > 0$, the total magnetic field $\vec{B}$ becomes $\vec{B}(\vec{\rho}, z; 
 
 The equation for $B'_z$ inside the thin film is given below,
 
-$$\frac{\partial^2 B'_z(\rho, z; t)}{\partial z^2} = \mu_0\sigma\frac{\partial B'_z(\rho, z; t)}{\partial t}. \tag{2}$$
+$$
+\frac{\partial^2 B'_z(\rho, z; t)}{\partial z^2} = \mu_0\sigma\frac{\partial B'_z(\rho, z; t)}{\partial t}. \tag{2}
+$$
 
 This equation has been obtained from imposing inside the thin film the Maxwell equation and the Ohmic behavior of the conducting thin film ($\vec{j} = \sigma\vec{E}$, where $\sigma$ is the electrical conductivity) while neglecting the displacement-current effect. Term being neglected on the left-hand side of Eq.(2) is $\dfrac{1}{\rho}\dfrac{\partial}{\partial\rho}\left(\rho\dfrac{\partial B'_z}{\partial\rho}\right)$, based on the $h \gg d$ condition.
 
@@ -528,7 +540,9 @@ For the numerical evaluation in this Part below, we consider a conducting thin f
 
 It is known that the penetration depth $\delta$ (called skin depth), which distance an electromagnetic wave can penetrate into a conducting slab, depends on the angular frequency $\omega$ of the wave. The dependence is given by
 
-$$\delta = \sqrt{\frac{2}{\omega\mu_0\sigma}}. \tag{3}$$
+$$
+\delta = \sqrt{\frac{2}{\omega\mu_0\sigma}}. \tag{3}
+$$
 
 For the consideration below, we take $\omega = v_L/h$, where $v_L$ equals the larger velocity of $v$ and $v_0$.
 
@@ -586,7 +600,9 @@ Un dipolo a punto può essere considerato come una coppia di monopoli che traspo
 
 Il campo magnetico $\vec{B}_{mp}$ di un monopole $q_m$ si presume abbia una forma coulombica, data da
 
-$$\vec{B}_{mp} = \frac{\mu_0 q_m}{4\pi r^2}\,\hat{r}, \tag{1}$$
+$$
+\vec{B}_{mp} = \frac{\mu_0 q_m}{4\pi r^2}\,\hat{r}, \tag{1}
+$$
 
 se $\vec{r}$ è il vettore di spostamento da $q_m$ al punto di osservazione (o punto di campo), $\hat{r}$ è il vettore unitario $\hat{r} = \vec{r}/r$ e $\mu_0$ è la permeabilità nello spazio libero. La forza esercitata da un campo magnetico applicato $\vec{B}'$ su $q_m$ è data da $\vec{F} = q_m\vec{B}'$. Dall'estensione del concetto di campo monopolistico appena descritto in Eq.(1), si deduce che il campo magnetico $\vec{B}$ da un punto diopo è derivabile da un potenziale scalare $\Phi$, dato dalla forma $\vec{B} = -\vec{\nabla}\Phi$. Il potenziale scalare $\Phi$ è anche chiamato potenziale magnetico.
 
@@ -623,7 +639,9 @@ Per $t > 0$, il campo magnetico totale $\vec{B}$ diventa $\vec{B}(\vec{\rho}, z;
 
 L'equazione per $B'_z$ all'interno del film sottile è riportata di seguito,
 
-$$\frac{\partial^2 B'_z(\rho, z; t)}{\partial z^2} = \mu_0\sigma\frac{\partial B'_z(\rho, z; t)}{\partial t}. \tag{2}$$
+$$
+\frac{\partial^2 B'_z(\rho, z; t)}{\partial z^2} = \mu_0\sigma\frac{\partial B'_z(\rho, z; t)}{\partial t}. \tag{2}
+$$
 
 Questa equazione è stata ottenuta imponendo all'interno del film sottile l'equazione di Maxwell e il comportamento Ohmico del film sottile conduttore ($\vec{j} = \sigma\vec{E}$, dove $\sigma$ è la conducibilità elettrica) trascurando l'effetto di spostamento-corente. Il termine trascurato sul lato sinistro di Eq.(2) è $\dfrac{1}{\rho}\dfrac{\partial}{\partial\rho}\left(\rho\dfrac{\partial B'_z}{\partial\rho}\right)$, basato sulla condizione $h \gg d$.
 
@@ -673,7 +691,9 @@ Per la valutazione numerico di questa parte di seguito, consideriamo un film ten
 
 È noto che la profondità di penetrazione $\delta$ (denominata profondità della pelle), che è la distanza che un'onda elettromagnetica può penetrare in una lastra conduttrice, dipende dalla frequenza angolare $\omega$ dell'onda. La dipendenza è data da
 
-$$\delta = \sqrt{\frac{2}{\omega\mu_0\sigma}}. \tag{3}$$
+$$
+\delta = \sqrt{\frac{2}{\omega\mu_0\sigma}}. \tag{3}
+$$
 
 Per la considerazione di seguito, prendiamo $\omega = v_L/h$, dove $v_L$ è uguale alla velocità più grande di $v$ e $v_0$.
 

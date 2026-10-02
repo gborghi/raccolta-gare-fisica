@@ -236,7 +236,9 @@ $$\cosh(x) \equiv \frac{e^x + e^{-x}}{2}, \quad \sinh(x) \equiv \frac{e^x - e^{-
 
 The magnetic field due to a magnetic dipole of moment $\vec{\mu}$ at a position $\vec{r}$ away from it is given by ($\mu_0$ is the vacuum permeability):
 
-$$\vec{B} = \frac{\mu_o}{4\pi}\left( \frac{3(\vec{\mu} \cdot \vec{r})\,\vec{r}}{r^5} - \frac{\vec{\mu}}{r^3} \right) \tag{1}$$
+$$
+\vec{B} = \frac{\mu_o}{4\pi}\left( \frac{3(\vec{\mu} \cdot \vec{r})\,\vec{r}}{r^5} - \frac{\vec{\mu}}{r^3} \right) \tag{1}
+$$
 
 #### Part A. Precession and interactions of magnetic dipoles (1.2 points)
 
@@ -359,7 +361,9 @@ $$\cosh(x) \equiv \frac{e^x + e^{-x}}{2}, \quad \sinh(x) \equiv \frac{e^x - e^{-
 
 Il campo magnetico dovuto a un dipolo magnetico di momento $\vec{\mu}$ in una posizione $\vec{r}$ da esso è dato da ($\mu_0$ è la permeabilità del vuoto):
 
-$$\vec{B} = \frac{\mu_o}{4\pi}\left( \frac{3(\vec{\mu} \cdot \vec{r})\,\vec{r}}{r^5} - \frac{\vec{\mu}}{r^3} \right) \tag{1}$$
+$$
+\vec{B} = \frac{\mu_o}{4\pi}\left( \frac{3(\vec{\mu} \cdot \vec{r})\,\vec{r}}{r^5} - \frac{\vec{\mu}}{r^3} \right) \tag{1}
+$$
 
 #### Parte A. Precessione e interazioni dei dipoli magnetici (1.2 punti)
 

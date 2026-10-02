@@ -112,7 +112,9 @@ $$z = x + iy$$
 
 where $i \equiv \sqrt{-1}$ is called the imaginary unit, and $x, y \in \mathbb{R}$. With this, one can think of constructing complex-valued functions — namely, a function $f : \mathbb{C} \to \mathbb{C}$:
 
-$$f(z) = f(x + iy) = w(x, y) + iu(x, y) \tag{1}$$
+$$
+f(z) = f(x + iy) = w(x, y) + iu(x, y) \tag{1}
+$$
 
 Since complex numbers encode two real numbers $x$ and $y$, we can consider complex-valued functions yielding two real-valued functions $w(x, y)$ and $u(x, y)$ that depend on $x, y$. $w$ and $u$, being real-valued multivariable functions, allow us to extend calculus on $\mathbb{R}^2$ to $\mathbb{C}$. You are given that the composition of two differentiable complex differentiable functions yields another complex differentiable function on the appropriate domain.
 
@@ -122,7 +124,9 @@ $$\frac{\partial w}{\partial x} = \frac{\partial u}{\partial y} \quad \text{and}
 
 (b) Show that $w(x, y)$ and $u(x, y)$ are solutions to the 2D Laplace equation:
 
-$$\nabla^2 \phi = \frac{\partial^2 \phi}{\partial x^2} + \frac{\partial^2 \phi}{\partial y^2} = 0 \tag{2}$$
+$$
+\nabla^2 \phi = \frac{\partial^2 \phi}{\partial x^2} + \frac{\partial^2 \phi}{\partial y^2} = 0 \tag{2}
+$$
 
 (c) A parametrized curve $\gamma$ on the complex plane can be thought of as a function that takes a real number $t$ and yields a point $\gamma(t)$ on the complex plane. Two parametrized curves $\gamma_1$ and $\gamma_2$ intersect at some point $p = \gamma_1(t_1) = \gamma_2(t_2)$; tangent lines of these two curves at $p$ form an angle $\alpha$. Show that the tangent lines of the curves $f \circ \gamma_1$ and $f \circ \gamma_2$ at $f(p)$ form the same angle $\alpha$, where $\circ$ is the composition function.
 
@@ -187,7 +191,9 @@ $$z = x + iy$$
 
 dove $i \equiv \sqrt{-1}$ è chiamata unità immaginaria e $x, y \in \mathbb{R}$. Con questo, si può pensare di costruire funzioni a valore complesso , vale a dire, una funzione $f : \mathbb{C} \to \mathbb{C}$:
 
-$$f(z) = f(x + iy) = w(x, y) + iu(x, y) \tag{1}$$
+$$
+f(z) = f(x + iy) = w(x, y) + iu(x, y) \tag{1}
+$$
 
 Poiché i numeri complessi codificano due numeri reali $x$ e $y$, possiamo considerare funzioni a valore complesso che producono due funzioni a valore reale $w(x, y)$ e $u(x, y)$ che dipendono da $x, y$. Le funzioni multivariabili $w$ e $u$, essendo a valore reale, ci permettono di estendere il calcolo su $\mathbb{R}^2$ a $\mathbb{C}$. Vi viene dato che la composizione di due funzioni differenziabili complesse differenziabili produce un'altra funzione differenziabile complessa sul dominio appropriato.
 
@@ -197,7 +203,9 @@ $$\frac{\partial w}{\partial x} = \frac{\partial u}{\partial y} \quad \text{and}
 
 b) Indicare che $w(x, y)$ e $u(x, y)$ sono soluzioni dell'equazione 2D di Laplace:
 
-$$\nabla^2 \phi = \frac{\partial^2 \phi}{\partial x^2} + \frac{\partial^2 \phi}{\partial y^2} = 0 \tag{2}$$
+$$
+\nabla^2 \phi = \frac{\partial^2 \phi}{\partial x^2} + \frac{\partial^2 \phi}{\partial y^2} = 0 \tag{2}
+$$
 
 c) Una curva parametrizata $\gamma$ sul piano complesso può essere considerata come una funzione che prende un numero reale $t$ e produce un punto $\gamma(t)$ sul piano complesso. Due curve parametrizate $\gamma_1$ e $\gamma_2$ si intersecano in un certo punto $p = \gamma_1(t_1) = \gamma_2(t_2)$; le linee tangenti di queste due curve a $p$ formano un angolo $\alpha$. Indicare che le linee tangenti delle curve $f \circ \gamma_1$ e $f \circ \gamma_2$ a $f(p)$ formano lo stesso angolo $\alpha$, dove $\circ$ è la funzione di composizione.
 

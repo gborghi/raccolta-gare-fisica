@@ -75,7 +75,7 @@ I motori ad induzione (o asincroni) sono i motori elettrici più semplici e affi
 ![[WoPhO_2013_Q1_p1_f1.png]]
 **Figura 1: ** La struttura di un motore ad induzione.
 
-In un modello semplificato (cfr. figura 2) supponiamo che il vettore di induzione magnetica $\mathbf{B}$ prodotto dallo statore ruota nel piano $x$$y$ a una velocità angolare costante $\Omega$, e abbia una magnitudine costante $B$. L'asse del rotore è nella direzione $z$. Si presume che il rotore sia una bobina piatta di superficie $A$, numero di avvolgimento $N$, resistenza ohmica $R$ e auto-induzione $L$. Il vettore $\mathbf{n}$ perpendicolare a questa bobina ruota anche nel piano $x$$y$.
+In un modello semplificato (cfr. figura 2) supponiamo che il vettore di induzione magnetica $\mathbf{B}$ prodotto dallo statore ruota nel piano $x$–$y$ a una velocità angolare costante $\Omega$, e abbia una magnitudine costante $B$. L'asse del rotore è nella direzione $z$. Si presume che il rotore sia una bobina piatta di superficie $A$, numero di avvolgimento $N$, resistenza ohmica $R$ e auto-induzione $L$. Il vettore $\mathbf{n}$ perpendicolare a questa bobina ruota anche nel piano $x$–$y$.
 
 ![[WoPhO_2013_Q1_p1_f2.png]]
 **Figura 2: ** Il modello semplificato, visto dall'asse $z$.
@@ -246,14 +246,18 @@ Earth is a very interesting magnetic system. Earth is frequently approximated as
 ![[WoPhO_2013_Q3_p1_f1.png]]
 
 Due to the first two movements, particles travel along a helical path around the field lines. A key parameter to define such movement is the pitch angle $\alpha$, which is the ratio of the perpendicular and the parallel velocity components to the field line:
-$$\tan \alpha = \frac{v_\perp}{v_\parallel} \tag{1}$$
+$$
+\tan \alpha = \frac{v_\perp}{v_\parallel} \tag{1}
+$$
 
 ![[WoPhO_2013_Q3_p1_f2.png]]
 
 ### 1. Path around field lines
 
 The modulus of Earth's magnetic dipole moment is $M_E = 8.05 \times 10^{22}\ \text{A m}^2$. Earth's magnetic field can be expressed in spherical coordinates as a function of the latitude $\lambda$ and the distance $r$ to the center of the planet:
-$$\vec{B} = \frac{\mu_0}{4\pi}\frac{M_E}{r^3}\left(-2\sin\lambda\,\vec{u}_r + \cos\lambda\,\vec{u}_\lambda\right) \tag{2}$$
+$$
+\vec{B} = \frac{\mu_0}{4\pi}\frac{M_E}{r^3}\left(-2\sin\lambda\,\vec{u}_r + \cos\lambda\,\vec{u}_\lambda\right) \tag{2}
+$$
 where $u_r$ and $u_\lambda$ are unitary vectors pointing radial and polar directions respectively, with azimuthal symmetry. However, for our purposes it will be useful to express the field modulus value along one of the field lines. These lines follow the equation $r = r_{Eq}\cos^2\lambda$ where $r_{Eq}$ is the distance from the line to the center of the Earth at Equator. Moreover, the distance $r_{Eq}$ can also be expressed as a function of the parameter $L = \dfrac{r_{Eq}}{R_E}$. With this notation, we can identify a field line with the parameter $L$.
 
 **(a)** Determine the modulus of the magnetic field $B$ along a field line as a function of the variables $\lambda$ and $L$. The magnetic field in the surface of the Earth at the Equator is $B_E$. *(1.5 points)*
@@ -294,14 +298,18 @@ La Terra è un sistema magnetico molto interessante. La Terra è spesso approssi
 ![[WoPhO_2013_Q3_p1_f1.png]]
 
 A causa dei primi due movimenti, le particelle viaggiano lungo un percorso elicottero intorno alle linee di campo. Un parametro chiave per definire tale movimento è l'angolo di ritiro $\alpha$, che è il rapporto tra la linea di campo perpendicolare e la velocità parallela:
-$$\tan \alpha = \frac{v_\perp}{v_\parallel} \tag{1}$$
+$$
+\tan \alpha = \frac{v_\perp}{v_\parallel} \tag{1}
+$$
 
 ![[WoPhO_2013_Q3_p1_f2.png]]
 
 ### 1. Corso intorno alle linee di campo
 
 Il modulo del momento di dipolo magnetico terrestre è $M_E = 8.05 \times 10^{22}\ \text{A m}^2$. Il campo magnetico terrestre può essere espresso in coordinate sferiche in funzione della latitudine $\lambda$ e della distanza $r$ dal centro del pianeta:
-$$\vec{B} = \frac{\mu_0}{4\pi}\frac{M_E}{r^3}\left(-2\sin\lambda\,\vec{u}_r + \cos\lambda\,\vec{u}_\lambda\right) \tag{2}$$
+$$
+\vec{B} = \frac{\mu_0}{4\pi}\frac{M_E}{r^3}\left(-2\sin\lambda\,\vec{u}_r + \cos\lambda\,\vec{u}_\lambda\right) \tag{2}
+$$
 dove $u_r$ e $u_\lambda$ sono vettori unitari che puntano rispettivamente verso le direzioni radial e polare, con simmetria azimutare. Tuttavia, ai nostri fini sarà utile esprimere il valore del modulo di campo lungo una delle linee di campo. Queste linee seguono l'equazione $r = r_{Eq}\cos^2\lambda$ dove $r_{Eq}$ è la distanza dalla linea al centro della Terra all'equatore. Inoltre, la distanza $r_{Eq}$ può essere espressa anche come funzione del parametro $L = \dfrac{r_{Eq}}{R_E}$. Con questa notazione, possiamo identificare una linea di campo con il parametro $L$.
 
 **(a) ** Determina il modulo del campo magnetico $B$ lungo una linea di campo come funzione delle variabili $\lambda$ e $L$. Il campo magnetico della superficie terrestre all'equatore è $B_E$. *(1,5 punti) *
@@ -345,7 +353,9 @@ Se il punto specchio si trova non lontano dalla superficie terrestre il protone 
 Thermal atmospheric escape is a process in which small gas molecules reach speeds high enough to escape the gravitational field of the Earth and reach outer space. Particles in a gas collide with each other due to their thermal energy. These collisions constantly accelerate and decelerate particles, varying their speed continuously. Particles might be accelerated until they reach the so-called escape velocity and leave the atmosphere. This process, known as Jeans escape, is critical for the formation and maintenance or the evaporation of the atmosphere of a planet. It is believed that it played an important role in the loss of water from Venus and Mars atmospheres, due to their lower escape velocity.
 
 In this problem we will quantify the scattering (collisions between gas particles) and rate of loss of hydrogen in Earth's atmosphere. The modulus and direction velocity distribution of the molecules of a gas of mass $m$ and at a temperature $T$ is given by the Maxwellian distribution:
-$$f(v)\,d^3v = \left(\frac{m}{2\pi kT}\right)^{\frac{3}{2}} \exp\left(-\frac{mv^2}{2kT}\right) v^2 \sin(\theta)\, dv\,d\theta\,d\varphi \tag{1}$$
+$$
+f(v)\,d^3v = \left(\frac{m}{2\pi kT}\right)^{\frac{3}{2}} \exp\left(-\frac{mv^2}{2kT}\right) v^2 \sin(\theta)\, dv\,d\theta\,d\varphi \tag{1}
+$$
 where $d^3v$ is the velocity differential. In spherical coordinates it is expressed as $d^3v = v^2 \sin(\theta)\, dv\,d\theta\,d\varphi$.
 
 ![[WoPhO_2013_Q4_p1_f1.png]]
@@ -356,9 +366,13 @@ Thus at any temperature there can always be some molecules whose velocity is gre
 ### 1. Exobase height
 
 Exobase is defined as the height above which a radially outward moving particle will suffer less than one backscattering collision on average. This means that the mean free path has to be equal to the scale height, which is defined as the height where the atmosphere's density is $\frac{1}{e}$ lower than on Earth's surface ($R_E = 6.37 \times 10^6$ m). The mean free path $\lambda$ is the average distance covered by a moving particle in a gas (that we consider to be ideal) between two consecutive collisions and this can be expressed by the following equality:
-$$\lambda(h) = \frac{1}{\sigma\, n_V(h)}, \tag{2}$$
+$$
+\lambda(h) = \frac{1}{\sigma\, n_V(h)}, \tag{2}
+$$
 where $\sigma$ is the effective cross sectional area for the collision hydrogen atom-atmosphere $\sigma = 2 \times 10^{-19}\ \text{m}^2$ and $n_V$ is the number of molecules per unit volume. Atmosphere's density decreases with exponentially from altitude 250 km:
-$$P(h) = P_{Ref}\exp\left(-\frac{(h - h_{Ref})}{H}\right), \tag{3}$$
+$$
+P(h) = P_{Ref}\exp\left(-\frac{(h - h_{Ref})}{H}\right), \tag{3}
+$$
 where we know that at an altitude of 250 km, the pressure is 21 $\mu$Pa. $H$ is the scale height, and its value is $H = 60$ km.
 
 **(a)** Determine the air particles mean free path $\lambda$ at the altitude of 250 km. *(0.8 points)*
@@ -402,7 +416,9 @@ L'evaporazione atmosferica da parte di Jeans escape F. Romero, J. Medina e A. Gi
 L'evasione termica atmosferica è un processo in cui piccole molecole di gas raggiungono velocità sufficientemente alte per sfuggire al campo gravitazionale della Terra e raggiungere lo spazio esterno. Le particelle in un gas si collidono tra loro a causa della loro energia termica. Queste collisioni accelereranno e rallenteranno costantemente le particelle, variando continuamente la loro velocità. Le particelle potrebbero accelerare fino a raggiungere la cosiddetta velocità di fuga e lasciare l'atmosfera. Questo processo, noto come fuga di jeans, è critico per la formazione e il mantenimento o l'evaporazione dell'atmosfera di un pianeta. Si ritiene che abbia svolto un ruolo importante nella perdita di acqua dalle atmosfere di Venere e Marte, a causa della loro velocità di fuga inferiore.
 
 In questo problema quantificheremo la dispersione (collizioni tra particelle di gas) e il tasso di perdita di idrogeno nell'atmosfera terrestre. La distribuzione di modulo e velocità di direzione delle molecole di un gas di massa $m$ e a temperatura $T$ è data dalla distribuzione di Maxwellian:
-$$f(v)\,d^3v = \left(\frac{m}{2\pi kT}\right)^{\frac{3}{2}} \exp\left(-\frac{mv^2}{2kT}\right) v^2 \sin(\theta)\, dv\,d\theta\,d\varphi \tag{1}$$
+$$
+f(v)\,d^3v = \left(\frac{m}{2\pi kT}\right)^{\frac{3}{2}} \exp\left(-\frac{mv^2}{2kT}\right) v^2 \sin(\theta)\, dv\,d\theta\,d\varphi \tag{1}
+$$
 dove $d^3v$ è il differenziale di velocità. In coordinate sferiche è espressa come $d^3v = v^2 \sin(\theta)\, dv\,d\theta\,d\varphi$.
 
 ![[WoPhO_2013_Q4_p1_f1.png]]
@@ -413,9 +429,13 @@ Pertanto, a qualsiasi temperatura ci possono essere sempre alcune molecole la cu
 ### 1. Altezze di esobasi
 
 L'esobasi è definita come l'altezza sopra la quale una particella in movimento radialmente verso l'esterno subirà in media meno di una collisione di ritorno. Ciò significa che il percorso libero medio deve essere uguale all'altezza della scala, che è definita come l'altezza in cui la densità dell'atmosfera è $\frac{1}{e}$ inferiore a quella della superficie terrestre ($R_E = 6.37 \times 10^6$ m). Il percorso libero medio $\lambda$ è la distanza media percorsa da una particella in movimento in un gas (che consideriamo ideale) tra due collisioni consecutive e questo può essere espresso con la seguente equazione:
-$$\lambda(h) = \frac{1}{\sigma\, n_V(h)}, \tag{2}$$
+$$
+\lambda(h) = \frac{1}{\sigma\, n_V(h)}, \tag{2}
+$$
 dove $\sigma$ è l'area di sezione incrociata effettiva per l'atomo di idrogeno-atmosfera di collisione $\sigma = 2 \times 10^{-19}\ \text{m}^2$ e $n_V$ è il numero di molecole per unità di volume. La densità dell'atmosfera diminuisce esponenzialmente dall'altitudine di 250 km:
-$$P(h) = P_{Ref}\exp\left(-\frac{(h - h_{Ref})}{H}\right), \tag{3}$$
+$$
+P(h) = P_{Ref}\exp\left(-\frac{(h - h_{Ref})}{H}\right), \tag{3}
+$$
 dove sappiamo che ad un'altitudine di 250 km, la pressione è di 21 $\mu$Pa. $H$ è l'altezza della scala e il suo valore è $H = 60$ km.
 
 **(a) ** Determinare la media di percorso libero delle particelle d'aria $\lambda$ ad un'altitudine di 250 km. *(0,8 punti) *

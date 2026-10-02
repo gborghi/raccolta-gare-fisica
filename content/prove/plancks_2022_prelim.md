@@ -456,7 +456,9 @@ A simple model of synchronization of fireflies' flashing rhythm in response to s
 
 Now suppose there exists an external periodic stimulus whose phase $\Theta$ satisfies the same differential equation but different frequency $\Omega$, i.e.
 
-$$\dot\Theta = \Omega, \tag{1}$$
+$$
+\dot\Theta = \Omega, \tag{1}
+$$
 
 where $\Omega = 0$ is when the flash of the external stimulus is on. This stimulus can be e.g. another firefly, or even artificial LED light. We can model the firefly's response to this stimulus as follows:
 
@@ -465,7 +467,9 @@ where $\Omega = 0$ is when the flash of the external stimulus is on. This stimul
 
 A simple model that incorporates these assumptions is
 
-$$\dot\theta = \omega + A\sin(\Theta - \theta), \quad A > 0. \tag{2}$$
+$$
+\dot\theta = \omega + A\sin(\Theta - \theta), \quad A > 0. \tag{2}
+$$
 
 Clearly, if $\Theta$ is ahead of $\theta$, i.e. $\Theta - \theta \in (0,\pi)$ then the firefly speeds up ($\dot\theta > \omega$). The parameter $A$ is called the *reacting strength* of the firefly, which measures the ability of the firefly to modify its instantaneous frequency.
 
@@ -510,7 +514,9 @@ Un modello semplice di sincronizzazione del ritmo lampeggiante delle luci di fuo
 
 Ora supponiamo che esista uno stimolo periodico esterno la cui fase $\Theta$ soddisfa la stessa equazione differenziale ma una frequenza diversa $\Omega$, cioè
 
-$$\dot\Theta = \Omega, \tag{1}$$
+$$
+\dot\Theta = \Omega, \tag{1}
+$$
 
 quando $\Omega = 0$ è quando il flash dello stimolo esterno è acceso. Questo stimolo può essere, per esempio: un'altra volpe di fuoco, o persino una luce artificiale LED. Possiamo modellare la risposta della volpe a questo stimolo come segue:
 
@@ -519,7 +525,9 @@ quando $\Omega = 0$ è quando il flash dello stimolo esterno è acceso. Questo s
 
 Un modello semplice che incorpora queste ipotesi è
 
-$$\dot\theta = \omega + A\sin(\Theta - \theta), \quad A > 0. \tag{2}$$
+$$
+\dot\theta = \omega + A\sin(\Theta - \theta), \quad A > 0. \tag{2}
+$$
 
 In caso di $\Theta$ è preceduto da $\theta$, ovvero $\Theta - \theta \in (0,\pi)$, la volpe di fuoco accelera ($\dot\theta > \omega$). Il parametro $A$ è chiamato * resistenza alla reazione* della volpe da fuoco, che misura la capacità della volpe da fuoco di modificare la sua frequenza istantanea.
 

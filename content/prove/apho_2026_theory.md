@@ -141,120 +141,120 @@ It is assumed that the weights remain stationary relative to the pans and move i
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Fisica delle pesanti**
+**Fisica delle bilance**
 
-Le varie scale per misurare la massa degli oggetti sono utilizzate nella vita quotidiana. Questa domanda riguarda i principi fisici relativi all'equilibrio del fascio, l'equilibrio Roberval. Sebbene questi bilanci sembrino simili, hanno strutture leggermente diverse e si comportano in modo diverso.
+Nella vita quotidiana si usano varie bilance per misurare la massa degli oggetti. Questo problema riguarda i principi fisici della bilancia a bracci uguali (bilancia a giogo) e della bilancia di Roberval. Pur avendo un aspetto simile, queste bilance hanno strutture leggermente diverse e si comportano in modo diverso.
 
-Supponiamo che un piccolo attrito ai punti di rotazione permetta all'equilibrio di riposare. Tuttavia, questo attrito è sufficientemente piccolo da non influenzare l'angolo di equilibrio determinato dall'equilibrio della coppia. Pertanto, nel calcolo possono essere trascurate le condizioni di attrito e di resistenza all'aria.
+Supponiamo che un piccolo attrito nei perni permetta alla bilancia di fermarsi, prima o poi. Questo attrito è però abbastanza piccolo da non influire sull'angolo di equilibrio determinato dall'equilibrio dei momenti. Perciò nei calcoli si possono trascurare l'attrito e la resistenza dell'aria.
 
-### A. Sensibilità della bilancia del fascio (2,5 pts)
+### A. Sensibilità della bilancia a bracci uguali (2,5 pt)
 
 ![[APhO_2026_theory_Q1_p1_f1.png]]
 *Fig.1*
 
-Un equilibrio del fascio consiste in un fascio (braccio di leva) che ruota attorno ad un asse fisso (pivot o fulcro) e due parti di massa uguale sospesi da ogni lato del fascio. Se le masse posizionate sulle cassette differiscono, il fascio si inclina verso il lato più pesante per raggiungere l'equilibrio.
+Una bilancia a bracci uguali è formata da un giogo (braccio di leva) che ruota attorno a un asse fisso (perno o fulcro) e da due piatti di uguale massa appesi ai due lati del giogo. Se le masse poste sui piatti sono diverse, il giogo si inclina verso il lato più pesante fino a raggiungere l'equilibrio.
 
-Durante il movimento del fascio, le vasche sospese possono oscillare. Sebbene la forza esercitata dal sistema costituito dalla padella e dall'oggetto sul fascio possa variare nel tempo a causa di questa oscillazione, si approssima la forza come il peso totale della padella e dell'oggetto, trascurando l'effetto di oscillazione.
+Durante il moto del giogo i piatti appesi possono oscillare. Anche se la forza esercitata sul giogo dal sistema piatto + oggetto può variare nel tempo a causa di queste oscillazioni, la approssimiamo con il peso totale del piatto e dell'oggetto, trascurando l'effetto delle oscillazioni.
 
-Se il fascio si inclina ad un'angolazione ampia anche per una piccola differenza di massa, la scala è considerata sensibile. La parte A della domanda esamina la questione della sensibilità.
+Se il giogo si inclina di un angolo grande anche per una piccola differenza di massa, la bilancia si dice sensibile. La parte A del problema studia la sensibilità.
 
-Si presume che il raggio sia un foglio piatto di spessore trascurabile. Il punto fisso è $O$ e il punto di sospensione è $L$ e il punto di sospensione è $R$, rispettivamente, il punto di sospensione delle pannelle sinistra e destra. Il centro di massa del fascio coincide con il punto $O$, come in figura 2. L'asse di rotazione passa attraverso $O$ ed è perpendicolare al fascio. I parametri fisici e le variabili che possono essere correlati al bilanciamento del fascio e alla sua sensibilità sono i seguenti:
+Il giogo è considerato una lamina piana di spessore trascurabile. Sia $O$ il punto fisso e siano $L$ e $R$ i punti in cui sono appesi rispettivamente il piatto sinistro e il piatto destro. Il centro di massa del giogo coincide con il punto $O$, come in Fig.2. L'asse di rotazione passa per $O$ ed è perpendicolare al giogo. I parametri e le variabili fisiche che possono riguardare la bilancia e la sua sensibilità sono:
 
-- $b$: la distanza verticale tra $O$ e la linea di collegamento $L$ e $R$
-- $l$: la distanza orizzontale dal bisettore perpendicolare che passa attraverso $O$ ai punti $L$ e $R$
-- $g$: accelerazione gravitazionale
-- $M$: massa del fascio
-- $m_1$: massa totale della vasca sinistra e il suo carico
-- $m_2$: massa totale della vasca destra e il suo carico
+- $b$: la distanza verticale tra $O$ e la retta che congiunge $L$ e $R$
+- $l$: la distanza orizzontale dei punti $L$ e $R$ dall'asse (perpendicolare al giogo) passante per $O$
+- $g$: accelerazione di gravità
+- $M$: massa del giogo
+- $m_1$: massa totale del piatto sinistro e del suo carico
+- $m_2$: massa totale del piatto destro e del suo carico
 
-Quando $m_1 > m_2$, il fascio si inclina in senso antiorario con un angolo $\theta_0$ per raggiungere l'equilibrio.
+Quando $m_1 > m_2$, il giogo ruota in senso antiorario di un angolo $\theta_0$ fino a raggiungere l'equilibrio.
 
 ![[APhO_2026_theory_Q1_p2_f1.png]]
 *Fig. 2.*
 
-Quando il fascio è inclinato da un angolo $\theta$ contro il senso dell'orologio dall'orizzontale, trovare la grandezza della coppia di $O$ esercitata dalla pannella sinistra e il suo carico, prendendo come positiva la direzione contro il senso dell'orologio.
+**A.1** *(0,3 pt)* Quando il giogo è inclinato di un angolo $\theta$ in senso antiorario rispetto all'orizzontale, trova il modulo del momento rispetto a $O$ esercitato dal piatto sinistro con il suo carico, prendendo come positivo il verso antiorario.
 
-Quando il fascio è inclinato da un angolo $\theta$ contro il senso orologio orizzontale, si trova la coppia esercitata dalla pannella destra e il suo carico (massa totale $m_2$) che tende a ruotare il fascio in senso orologio.
+**A.2** *(0,3 pt)* Quando il giogo è inclinato di un angolo $\theta$ in senso antiorario rispetto all'orizzontale, trova il momento esercitato dal piatto destro con il suo carico (massa totale $m_2$), che tende a far ruotare il giogo in senso orario.
 
-**A.3** *(0,4 pt) * Esprimere l'angolo di inclinazione $\theta_0$ in equilibrio in termini di variabili e parametri dati.
+**A.3** *(0,4 pt)* Esprimi l'angolo di inclinazione $\theta_0$ all'equilibrio in funzione delle variabili e dei parametri dati.
 
-**A.4** *(0,3 pt) * Per rendere la scala più sensibile (una maggiore $\theta_0$ per una piccola differenza di massa), quale delle seguenti condizioni per $b$ e $l$ è corretta? (Se si sceglie un'opzione sbagliata si deriverà in una deduzione di 0,1 punti.)
+**A.4** *(0,3 pt)* Per rendere la bilancia più sensibile (un $\theta_0$ maggiore per una piccola differenza di massa), quale delle seguenti condizioni su $b$ e $l$ è corretta? (Scegliere un'opzione sbagliata comporta una penalità di 0,1 punti.)
 
-1. Un $l$ più grande o un $b$ più grande porta ad un $|\theta_0|$ più grande.
-2. Una $l$ più piccola o $b$ più piccola porta ad un $|\theta_0|$ più grande.
-3. Un $l$ più grande o un $b$ più piccolo porta ad un $|\theta_0|$ più grande.
-4. Una dimensione più piccola $l$ o più grande $b$ porta ad un $|\theta_0|$ più grande.
+1. Un $l$ più grande o un $b$ più grande danno un $|\theta_0|$ più grande.
+2. Un $l$ più piccolo o un $b$ più piccolo danno un $|\theta_0|$ più grande.
+3. Un $l$ più grande o un $b$ più piccolo danno un $|\theta_0|$ più grande.
+4. Un $l$ più piccolo o un $b$ più grande danno un $|\theta_0|$ più grande.
 
-Il fascio di un fascio di equilibrio commerciale è spesso realizzato in modo tale che l'asse di rotazione (punto di rotazione $O$) sia superiore al centro di massa (CM) del fascio. Tuttavia, la realizzazione del fascio in questo modo riduce la sensibilità dell'equilibrio del fascio. Per risolvere questo problema e progettare una scala più sensibile, intendiamo cambiare la struttura del fascio. Il fascio è progettato modificandolo in modo che il punto di rotazione ($O$) del fascio sia inferiore al centro di massa (CM) del fascio come mostrato nella figura 3. Il punto di rotazione del fascio deve essere posizionato a una distanza $d$ sotto il centro di massa. Si presume che il raggio sia un foglio piatto di spessore trascurabile. I significati di $M$, $L$, $R$, $b$, $l$, $m_1$, $m_2$, $g$ per la scala sono gli stessi del problema precedente.
+Nelle bilance in commercio il giogo è spesso costruito in modo che l'asse di rotazione (perno $O$) stia più in alto del centro di massa (CM) del giogo. Questa scelta però riduce la sensibilità della bilancia. Per risolvere il problema e progettare una bilancia più sensibile, vogliamo cambiare la struttura del giogo. Come possibile soluzione, il giogo viene modificato in modo che il perno ($O$) stia sotto il centro di massa (CM) del giogo, come in Fig.3. Il perno si trova a una distanza $d$ sotto il centro di massa. Il giogo è considerato una lamina piana di spessore trascurabile. I simboli $M$, $L$, $R$, $b$, $l$, $m_1$, $m_2$, $g$ hanno lo stesso significato di prima.
 
 ![[APhO_2026_theory_Q1_p3_f1.png]]
 *Fig.3*
 
-Quando il fascio si inclina da un angolo $\theta_1 (< \pi/2)$ orizzontale fino all'equilibrio, esprimere l'angolo di inclinazione $\theta_1$ in termini di variabili e parametri dati.
+**A.5** *(0,8 pt)* Quando il giogo raggiunge l'equilibrio inclinato di un angolo $\theta_1 (< \pi/2)$ rispetto all'orizzontale, esprimi l'angolo $\theta_1$ in funzione delle variabili e dei parametri dati.
 
-**A.6 ** *(0,4 pt) * Ottenere la condizione in cui il fascio raggiunge un angolo di equilibrio stabile $\theta_1 (< \pi/2)$. Esprimere la condizione come una disuguaglianza indipendente da $\theta_1$.
+**A.6** *(0,4 pt)* Trova la condizione perché il giogo raggiunga un angolo di equilibrio stabile $\theta_1 (< \pi/2)$. Esprimi la condizione come una disuguaglianza che non contenga $\theta_1$.
 
-### B. Modello di base del saldo roberval (3,6 pts)
+### B. Modello elementare della bilancia di Roberval (3,6 pt)
 
 ![[APhO_2026_theory_Q1_p3_f2.png]]
-*Fig.4 *
+*Fig.4*
 
-L'equilibrio Roberval utilizza una struttura di collegamento parallelo, in cui le pentole sono collegate a due travi orizzontali (alto e basso). Questi due travi sono collegati alle pentole da pivot, che agiscono come cerniere. Questa speciale connessione consente a ciascuna pannella di due pivot di rimanere perfettamente verticale anche quando i fasci sono inclinati (Fig.4). Mentre i fasci ruotano, le cassette si muovono insieme in modo sincronizzato. Una caratteristica unica di questo disegno è che l'equilibrio dipende solo dalla massa totale su ciascun lato; non importa dove si collocano i pesi sulle pentole. I parametri fisici, le variabili e le notazioni che possono essere correlate al bilanciamento del fascio sono i seguenti (Fig. 5).
+La bilancia di Roberval usa un quadrilatero articolato (parallelogramma): i piatti sono collegati a due gioghi orizzontali (superiore e inferiore). I due gioghi sono collegati ai piatti tramite perni, che funzionano come cerniere. Questo collegamento fa sì che ciascun piatto, con i suoi due perni, resti perfettamente verticale anche quando i gioghi si inclinano (Fig.4). Mentre i gioghi ruotano, i piatti si muovono insieme in modo sincronizzato. Una caratteristica tipica di questo dispositivo è che l'equilibrio dipende solo dalla massa totale su ciascun lato: non importa in quale punto dei piatti si mettano i pesi. I parametri, le variabili e le notazioni utili sono i seguenti (Fig.5).
 
-- $O, O'$: pivot fissi per i due travi orizzontali
-- $I_1$: il momento di inerzia del fascio superiore intorno al suo asse di rotazione
-- $I_2$: il momento di inerzia del fascio inferiore intorno al suo asse di rotazione
-- $l$: distanza dal pivot centrale al punto di sospensione della pan
-- $x_L, x_R$: compensazioni orizzontali dei pesi dal centro delle vasche e delle vasche destre, rispettivamente.
-- $m$: massa di ciascuna scatola
-- $m_L, m_R$: massa del carico posto rispettivamente sulle vasche sinistra e sulla destra. ($m_L \ge m_R$)
-- $g$: accelerazione gravitazionale.
+- $O, O'$: perni fissi dei due gioghi orizzontali
+- $I_1$: momento d'inerzia del giogo superiore rispetto al suo asse di rotazione
+- $I_2$: momento d'inerzia del giogo inferiore rispetto al suo asse di rotazione
+- $l$: distanza dal perno centrale al punto di sospensione del piatto
+- $x_L, x_R$: distanze orizzontali dei pesi dal centro del piatto sinistro e del piatto destro, rispettivamente
+- $m$: massa di ciascun piatto
+- $m_L, m_R$: massa del carico posto sul piatto sinistro e sul piatto destro, rispettivamente ($m_L \ge m_R$)
+- $g$: accelerazione di gravità.
 
-Supponiamo che il centro di massa (CM) di ogni fascio coincida con il suo pivot e che i pivot delle padelle e il pivot del fascio si trovino su una linea.
+Supponiamo che il centro di massa (CM) di ogni giogo coincida con il suo perno e che i perni dei piatti e il perno del giogo stiano su una stessa retta.
 
 ![[APhO_2026_theory_Q1_p4_f1.png]]
 *Fig.5*
 
-**B.1** *(0,3 pt) * Calcolare l'energia potenziale totale del sistema $U(\theta)$, quando il fascio è inclinato contro il senso orario da un angolo $\theta$ orizzontale ($m_L \ge m_R$). Definire l'energia potenziale $U$ come zero nella posizione orizzontale iniziale.
+**B.1** *(0,3 pt)* Calcola l'energia potenziale totale del sistema $U(\theta)$ quando il giogo è inclinato in senso antiorario di un angolo $\theta$ rispetto all'orizzontale ($m_L \ge m_R$). Poni $U = 0$ nella posizione orizzontale iniziale.
 
-**B.2** *(0,5 pt)* Esprimere l'energia cinetica totale del sistema in termini di variabili e parametri dati e velocità angolare $\dot{\theta}$.
+**B.2** *(0,5 pt)* Esprimi l'energia cinetica totale del sistema in funzione delle variabili e dei parametri dati e della velocità angolare $\dot{\theta}$.
 
-**B.3 ** *(0,6 pt) * Ottieni l'equazione differenziale di secondo ordine che regola l'angolo di rotazione $\theta$.
+**B.3** *(0,6 pt)* Ricava l'equazione differenziale del secondo ordine per l'angolo di rotazione $\theta$.
 
-L'accelerazione angolare $\ddot{\theta}$ nel momento in cui il fascio viene rilasciato dalla posizione orizzontale è la seguente:
+L'accelerazione angolare $\ddot{\theta}$ nell'istante in cui il giogo viene lasciato libero dalla posizione orizzontale è:
 
 $$\ddot{\theta} = \frac{(m_L - m_R)\,g\,l}{I_1 + I_2 + (2m + m_L + m_R)\,l^2}$$
 
-**B.4** *(1 pt) * In un istante con velocità iniziale zero, $T_{L1}, T_{L2}$ siano le magnitudini delle componenti verticali delle forze che agiscono tra il pannello sinistro e il fascio superiore e inferiore, rispettivamente, e allo stesso modo $T_{R1}, T_{R2}$ siano le magnitudini delle componenti verticali delle forze per il pannello destro. Calcolare i valori di $(T_{L2} + T_{R1})$ in termini di variabili e parametri dati.
+**B.4** *(1 pt)* In quell'istante, con velocità iniziale nulla, siano $T_{L1}, T_{L2}$ i moduli delle componenti verticali delle forze tra il piatto sinistro e, rispettivamente, il giogo superiore e quello inferiore; analogamente siano $T_{R1}, T_{R2}$ i moduli delle componenti verticali delle forze per il piatto destro. Calcola $(T_{L2} + T_{R1})$ in funzione delle variabili e dei parametri dati.
 
-**B.5** *(0,6 pt)* Supponendo che tutti i componenti del bilanciatore, compresi i fasci e le cassette, siano corpi rigidi, si determina se ciascuna delle seguenti forze può essere calcolata al momento del rilascio. (Risponi con sì, no o bianco per ciascuna. Per ogni risposta errata verrà applicata una pena di 0,1 punti.)
+**B.5** *(0,6 pt)* Supponendo che tutte le parti della bilancia, gioghi e piatti compresi, siano corpi rigidi, stabilisci se ciascuna delle forze seguenti può essere calcolata nell'istante del rilascio. (Rispondi Sì, No o lascia in bianco per ciascuna. Ogni risposta sbagliata comporta una penalità di 0,1 punti.)
 
 1. $T_{R1}$
-2. Componente verticale della forza esercitata dal pivot centrale sul fascio superiore
+2. Componente verticale della forza esercitata dal perno centrale sul giogo superiore
 
-Si possono creare tutte le equazioni relazionali necessarie per risolvere questo problema. Si noti che è richiesto di fornire solo le forme delle equazioni; non sono necessari calcoli definitivi espliciti.
+Scrivi tutte le equazioni necessarie per risolvere il problema. Basta indicare la forma delle equazioni; non servono i calcoli espliciti fino al risultato.
 
-**B.6 ** *(0,6 pt) * $M_T$ sia la massa del bilanciatore senza alcun peso. I pesi di massa $m_L$ e $m_R$ ($m_L > m_R$) sono posizionati rispettivamente sulle vasche sinistra e destra. Il fascio viene inizialmente tenuto orizzontale a mano e poi rilasciato. Trova la forza normale $N$ esercitata dal pavimento sulla bilancia immediatamente dopo il rilascio.
+**B.6** *(0,6 pt)* Sia $M_T$ la massa della bilancia senza pesi. Sui piatti sinistro e destro si pongono rispettivamente pesi di massa $m_L$ e $m_R$ ($m_L > m_R$). Il giogo viene tenuto orizzontale con la mano e poi lasciato libero. Trova la forza normale $N$ esercitata dal pavimento sulla bilancia subito dopo il rilascio.
 
-### C. Modello pratico di equilibrio roberval (3.9 pts)
+### C. Modello realistico della bilancia di Roberval (3,9 pt)
 
-Nel modello di base dell'equilibrio Roberval discusso nella parte B, uno squilibrio di massa provoca un'accelerazione angolare continua, rendendo impossibile determinare un angolo di equilibrio statico. Al contrario, un equilibrio Roberval pratico raggiunge un equilibrio stabile ad un angolo specifico di inclinazione a seconda della differenza di massa. Nella parte C, analizziamo la struttura fisica di tali equilibri Roberval pratici.
+Nel modello elementare della parte B, una differenza di massa produce un'accelerazione angolare continua e non esiste un angolo di equilibrio statico. Una bilancia di Roberval reale invece raggiunge un equilibrio stabile a un angolo di inclinazione che dipende dalla differenza di massa. Nella parte C studiamo la struttura fisica di queste bilance di Roberval reali.
 
-Per calcolare l'angolo di equilibrio in funzione della differenza di massa, si devono considerare le seguenti variabili e parametri:
+Per calcolare l'angolo di equilibrio in funzione della differenza di massa, considera le seguenti variabili e parametri:
 
-- **Raccio superiore: ** Il punto di rotazione (asse fisso del fascio) si trova a una distanza verticale $d$ direttamente sopra il centro di massa del fascio. Il fascio ha una massa $M$ e un momento di inerzia $I_1$ intorno al suo pivot (asse fisso).
-- **Fonte inferiore: ** Il punto di rotazione (asse fissa del fascio) coincide con il centro di massa del fascio. Il fascio ha un momento di inerzia $I_2$ intorno al suo pivot (asse fisso).
-- $m_1, m_2$ ($m_1 \ge m_2$): la massa combinata della padella e di tutti gli oggetti che si trovano su di essa per i lati sinistro e destro, rispettivamente. (Si prega di notare la differenza di notazione della parte B.)
-- $l$: la distanza orizzontale dal bisettore perpendicolare che passa attraverso il pivot centrale fino al punto di sospensione della panchina
-- $g$: accelerazione gravitazionale.
+- **Giogo superiore:** il perno (asse fisso del giogo) si trova a una distanza verticale $d$ esattamente sopra il centro di massa del giogo. Il giogo ha massa $M$ e momento d'inerzia $I_1$ rispetto al perno (asse fisso).
+- **Giogo inferiore:** il perno (asse fisso del giogo) coincide con il centro di massa del giogo. Il giogo ha momento d'inerzia $I_2$ rispetto al perno (asse fisso).
+- $m_1, m_2$ ($m_1 \ge m_2$): massa complessiva del piatto e degli oggetti posti su di esso, per il lato sinistro e il lato destro rispettivamente. (Attenzione: la notazione è diversa da quella della parte B.)
+- $l$: distanza orizzontale del punto di sospensione del piatto dall'asse (perpendicolare al giogo) passante per il perno centrale
+- $g$: accelerazione di gravità.
 
-Si presume che i pesi rimangano statici rispetto alle pentole e si muovano all'unisono con loro e che i pivot delle pentole e il pivot del fascio si trovino su una linea.
+Si suppone che i pesi restino fermi rispetto ai piatti e si muovano insieme a essi, e che i perni dei piatti e il perno del giogo stiano su una stessa retta.
 
-**C.1** *(1.4 pt) * Con due pesi di diverse masse posizionate sulle cassette ($m_1 > m_2$), il fascio viene inizialmente tenuto in posizione orizzontale e poi rilasciato dal riposo. In questa situazione, l'equazione differenziale di movimento di secondo ordine per l'angolo di inclinazione $\theta$ assume la forma: $A\ddot{\theta} = B\cos\theta + C\sin\theta$. Determinare i coefficienti $A$, $B$ e $C$ in termini di variabili e parametri dati. Impostare $\theta = 0$ nella posizione orizzontale.
+**C.1** *(1,4 pt)* Con due pesi di massa diversa sui piatti ($m_1 > m_2$), il giogo viene tenuto orizzontale e poi lasciato libero da fermo. In questa situazione l'equazione del moto del secondo ordine per l'angolo di inclinazione $\theta$ ha la forma $A\ddot{\theta} = B\cos\theta + C\sin\theta$. Determina i coefficienti $A$, $B$ e $C$ in funzione delle variabili e dei parametri dati. Poni $\theta = 0$ nella posizione orizzontale.
 
-**C.2 ** *(1,9 pt) * Quando l'equilibrio è in stato di equilibrio ($\theta = \theta_0$), un leggero disturbo fa oscillare i fasci e le vaselle intorno all'angolo di equilibrio. Per analizzare questa piccola oscillazione, definiamo una nuova variabile $\eta = \theta - \theta_0$. Approximando l'equazione di movimento ottenuta nella parte C.1, derivare l'equazione di governo per $\eta$ in termini di variabili e parametri dati. La risposta non deve includere $\theta_0$.
+**C.2** *(1,9 pt)* Quando la bilancia è in equilibrio ($\theta = \theta_0$), una piccola perturbazione fa oscillare gioghi e piatti attorno all'angolo di equilibrio. Per studiare queste piccole oscillazioni definiamo la nuova variabile $\eta = \theta - \theta_0$. Approssimando l'equazione del moto trovata in C.1, ricava l'equazione per $\eta$ in funzione delle variabili e dei parametri dati. La risposta non deve contenere $\theta_0$.
 
-Se la massa totale $m_1 + m_2$ è costante, determinare come la massa deve essere distribuita tra le cassette per massimizzare il periodo di piccole oscillazioni. Calcolare il periodo di piccole oscillazioni nel limite in cui $m_1 = m_2 = 0$.
+**C.3** *(0,6 pt)* Se la massa totale $m_1 + m_2$ è fissata, stabilisci come va distribuita la massa tra i piatti per rendere massimo il periodo delle piccole oscillazioni. Calcola il periodo delle piccole oscillazioni nel limite $m_1 = m_2 = 0$.
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/17qJE_93WXoxQHMmFc_F6Rxsq81v82Gas/view)
 **Topic:** [[Rigid Body Statics]], [[Rotational Dynamics]]
@@ -394,48 +394,48 @@ measured at $\mathbf{q} = \frac{\pi}{d}\hat{z}$. Assume that during each monolay
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Diffrazione dei raggi X per obiettivi strutturati e in evoluzione (10 punti) **
+**Diffrazione di raggi X da bersagli strutturati e in evoluzione (10 punti)**
 
 **Nota**
 
-1. I vettori sono indicati con simboli in grasso (ad esempio, $\mathbf{r}$, $\mathbf{q}$).
-2. Supponiamo che l'assorbimento sia trascurato e che il campo elettrico sia polarizzato perpendicolare al piano di incidenza.
+1. I vettori sono indicati con simboli in grassetto (ad esempio, $\mathbf{r}$, $\mathbf{q}$).
+2. Si trascuri l'assorbimento e si supponga il campo elettrico polarizzato perpendicolarmente al piano di incidenza.
 
-I modelli di diffrazione dei raggi X si verificano perché molte piccole "fonti d'onda" all'interno di un cristallo interferiscono, e possiamo prevedere questo aggiungendo le loro complesse amplitudini con le fasi corrette. Si consideri un'onda monocromatica caratterizzata da un'ampiezza (real) $A \ge 0$ e una fase $\phi$. Definitiamo l'ampiezza complessa $\tilde{A}$ come
+Le figure di diffrazione dei raggi X nascono dall'interferenza di molte piccole "sorgenti d'onda" all'interno di un cristallo, e si possono prevedere sommando le loro ampiezze complesse con le fasi corrette. Si consideri un'onda monocromatica caratterizzata da un'ampiezza (reale) $A \ge 0$ e una fase $\phi$. Definiamo l'ampiezza complessa $\tilde{A}$ come
 
 $$\tilde{A} = A e^{i\phi},$$
 
-in modo che l'ampiezza (rea) dell'onda sia la magnitudine (valore assoluto) di $\tilde{A}$ e $\phi$ sia la sua fase. Così $\tilde{A}$ codifica convenientemente sia la magnitudine che la fase in un singolo numero complesso. In questo insieme di problemi, definiamo un'intensità senza dimensioni per la magnitudine quadrata dell'ampiezza complessa totale:
+in modo che l'ampiezza (reale) dell'onda sia il modulo (valore assoluto) di $\tilde{A}$ e $\phi$ sia la sua fase. Così $\tilde{A}$ codifica convenientemente sia il modulo sia la fase in un singolo numero complesso. In questo insieme di problemi, definiamo un'intensità adimensionale come il quadrato del modulo dell'ampiezza complessa totale:
 
 $$I = |\tilde{A}|^2 = A^2.$$
 
-Fattori comuni di proporzionalità sperimentale e geometrica, come la risposta del rilevatore, la normalizzazione del fascio di incidente e i fattori comuni di propagazione, sono assorbiti in questa definizione. Al contrario, l'ampiezza di scattering singolo-elettrone $f_0$ viene mantenuta esplicitamente come scala di amplitudine per la scattering da un elettrone di un punto.
+Fattori comuni di proporzionalità sperimentale e geometrica, come la risposta del rilevatore, la normalizzazione del fascio incidente e i fattori comuni di propagazione, sono assorbiti in questa definizione. Al contrario, l'ampiezza di diffusione di un singolo elettrone $f_0$ viene mantenuta esplicitamente come scala di ampiezza per la diffusione da un elettrone puntiforme.
 
-Quando un materiale cristallino è esposto ad un'onda incidentale, l'onda viene diffratta dalla rete cristallina e le parti diffratte interferiscono tra loro. L'intensità dell'onda diffratta risultante può essere calcolata aggiungendo le amplitudini complesse delle singole onde diffratte, tenendo conto delle differenze di fase tra di esse, e quindi calcolando la grandezza quadrata dell'ampiezza complessa totale risultante. La diffrazione deriva principalmente dalle interazioni con gli elettroni e i contributi di particelle più pesanti come i nuclei sono tipicamente trascurabili. L'ampiezza dell'onda diffratta da un singolo elettrone di punto dipende solo da $R = |\mathbf{R}|$, la distanza dall'elettrone al rilevatore. Poiché $R$ è molto più grande delle dimensioni del campione, la sua variazione nel campione può essere trascurata. Pertanto, l'onda diffratta totale può essere determinata con precisione tenendo conto delle differenze di fase tra le singole onde diffratte, mentre le loro amplitudini sono presunte come costanti.
+Quando un materiale cristallino è esposto ad un'onda incidente, l'onda viene diffratta dal reticolo cristallino e le parti diffratte interferiscono tra loro. L'intensità dell'onda diffratta risultante può essere calcolata sommando le ampiezze complesse delle singole onde diffratte, tenendo conto delle differenze di fase tra di esse, e quindi calcolando il quadrato del modulo dell'ampiezza complessa totale risultante. La diffrazione deriva principalmente dalle interazioni con gli elettroni e i contributi di particelle più pesanti come i nuclei sono tipicamente trascurabili. L'ampiezza dell'onda diffratta da un singolo elettrone puntiforme dipende solo da $R = |\mathbf{R}|$, la distanza dall'elettrone al rilevatore. Poiché $R$ è molto più grande delle dimensioni del campione, la sua variazione nel campione può essere trascurata. Pertanto, l'onda diffratta totale può essere determinata con precisione tenendo conto delle differenze di fase tra le singole onde diffratte, mentre le loro ampiezze si assumono costanti.
 
-$\mathbf{k}_i$ e $\mathbf{k}_f$ indichino rispettivamente i vettori d'onda dell'incidente e le onde diffratte. Un'onda a piano incidentale con il vettore d'onda $\mathbf{k}_i$ viene diffratta in un'onda con il vettore d'onda $\mathbf{k}_f$. Il trasferimento di impulso è definito come
+Siano $\mathbf{k}_i$ e $\mathbf{k}_f$ i vettori d'onda, rispettivamente, dell'onda incidente e di quella diffratta. Un'onda piana incidente con il vettore d'onda $\mathbf{k}_i$ viene diffratta in un'onda con il vettore d'onda $\mathbf{k}_f$. Il trasferimento di impulso è definito come
 
 $$\mathbf{q} = \mathbf{k}_f - \mathbf{k}_i$$
 
-e le loro magnitudini sono presunte uguali, perché la lunghezza d'onda è invariata:
+e i loro moduli si assumono uguali, perché la lunghezza d'onda è invariata:
 
 $$k \equiv |\mathbf{k}_i| = |\mathbf{k}_f| = \frac{2\pi}{\lambda}.$$
 
-### Parte A: Diffrazione da due elettroni trattati come particelle puntine (2.0 pts)
+### Parte A: Diffrazione da due elettroni trattati come particelle puntiformi (2.0 pts)
 
-Considerate due elettroni puntini situati nelle posizioni $\mathbf{r}_1$ e $\mathbf{r}_2$, e definite $\mathbf{r} \equiv \mathbf{r}_2 - \mathbf{r}_1$. Un rilevatore è situato a $P$, e definiamo $\mathbf{R} \equiv P - \mathbf{r}_1$. Una onda piana $E_i(\mathbf{r}) \propto e^{i\mathbf{k}_i \cdot \mathbf{r}}$ incide sui due elettroni, e l'onda diffratta è osservata nel campo lontano lungo la direzione $\mathbf{k}_f$. Nella parte A, il fattore comune di dipendenza temporale $e^{-i\omega t}$ è soppresso, poiché sono rilevanti solo le fasi spaziali relative.
+Considerate due elettroni puntiformi situati nelle posizioni $\mathbf{r}_1$ e $\mathbf{r}_2$, e definite $\mathbf{r} \equiv \mathbf{r}_2 - \mathbf{r}_1$. Un rilevatore è situato a $P$, e definiamo $\mathbf{R} \equiv P - \mathbf{r}_1$. Una onda piana $E_i(\mathbf{r}) \propto e^{i\mathbf{k}_i \cdot \mathbf{r}}$ incide sui due elettroni, e l'onda diffratta è osservata nel campo lontano lungo la direzione $\mathbf{k}_f$. Nella parte A, il fattore comune di dipendenza temporale $e^{-i\omega t}$ è soppresso, poiché sono rilevanti solo le fasi spaziali relative.
 
-**A.1** *(0,6 pt) * Nell'approssimazione a campo lontano, $R \equiv |\mathbf{R}| \gg |\mathbf{r}|$, conservare solo il termine di ordine di punta in $|\mathbf{r}|/R$ e scrivere la differenza di percorso geometrico uscente, $\Delta L_{\text{out}} \equiv |P - \mathbf{r}_1| - |P - \mathbf{r}_2|$, in termini di $\mathbf{r}$ e $\mathbf{k}_f$, o equivalentemente $\mathbf{k}_f / k_f$.
+**A.1** *(0,6 pt) * Nell'approssimazione a campo lontano, $R \equiv |\mathbf{R}| \gg |\mathbf{r}|$, conservare solo il termine di ordine più basso in $|\mathbf{r}|/R$ e scrivere la differenza di percorso geometrico uscente, $\Delta L_{\text{out}} \equiv |P - \mathbf{r}_1| - |P - \mathbf{r}_2|$, in termini di $\mathbf{r}$ e $\mathbf{k}_f$, o equivalentemente $\mathbf{k}_f / k_f$.
 
-**A.2** *(0,4 pt) * Usando il risultato di A.1 e tenendo conto della fase posizionata-dipendente dell'onda incidente a $\mathbf{r}_1$ e $\mathbf{r}_2$, si trova la differenza di fase tra i due contributi diffratti al rilevatore, espressa in termini di $\mathbf{q}$ e $\mathbf{r}$. La differenza di fase è definita come $\Delta\phi \equiv \phi_1 - \phi_2$, dove $\phi_1$ e $\phi_2$ sono le fasi dei contributi degli elettroni a $r_1$ e $r_2$.
+**A.2** *(0,4 pt) * Usando il risultato di A.1 e tenendo conto della fase dell'onda incidente, che dipende dalla posizione, a $\mathbf{r}_1$ e $\mathbf{r}_2$, si trova la differenza di fase tra i due contributi diffratti al rilevatore, espressa in termini di $\mathbf{q}$ e $\mathbf{r}$. La differenza di fase è definita come $\Delta\phi \equiv \phi_1 - \phi_2$, dove $\phi_1$ e $\phi_2$ sono le fasi dei contributi degli elettroni a $r_1$ e $r_2$.
 
-**A.3 ** *(0,6 pt) * Esprimere l'ampiezza complessa totale dell'onda diffratta da questi due elettroni in termini di $\mathbf{q}$ e $\mathbf{r}$. Potreste ignorare qualsiasi fattore di fase comune, poiché non influisce sull'intensità. Supponiamo che l'ampiezza reale di un'onda diffratta da un singolo elettrone di punto sia una costante $f_0$, indipendente dalla posizione.
+**A.3 ** *(0,6 pt) * Esprimere l'ampiezza complessa totale dell'onda diffratta da questi due elettroni in termini di $\mathbf{q}$ e $\mathbf{r}$. Potreste ignorare qualsiasi fattore di fase comune, poiché non influisce sull'intensità. Supponiamo che l'ampiezza reale di un'onda diffratta da un singolo elettrone puntiforme sia una costante $f_0$, indipendente dalla posizione.
 
 **A.4 ** *(0,4 pt) * Esprimere l'intensità delle onde diffratte da questi due elettroni in termini di $\mathbf{q}$ e $\mathbf{r}$.
 
 ### Parte B: Coerenza longitudinale finita (modello di salto di fase) (2,3 punti)
 
-Considerate due elettroni point-like situati nelle posizioni $\mathbf{r}_1$ e $\mathbf{r}_2$, con $\mathbf{r} \equiv \mathbf{r}_2 - \mathbf{r}_1$. Un fascio di lunghezza d'onda $\lambda_0$ (così $k = 2\pi/\lambda_0$ e $\omega = 2\pi c/\lambda_0$) illumina gli elettroni e l'onda diffratta è osservata nel campo lontano lungo $\mathbf{k}_f$. Modelliamo il campo incidente come un'onda aereo con una fase casuale a seconda del tempo,
+Considerate due elettroni puntiformi situati nelle posizioni $\mathbf{r}_1$ e $\mathbf{r}_2$, con $\mathbf{r} \equiv \mathbf{r}_2 - \mathbf{r}_1$. Un fascio di lunghezza d'onda $\lambda_0$ (così $k = 2\pi/\lambda_0$ e $\omega = 2\pi c/\lambda_0$) illumina gli elettroni e l'onda diffratta è osservata nel campo lontano lungo $\mathbf{k}_f$. Modelliamo il campo incidente come un'onda piana con una fase casuale dipendente dal tempo,
 
 $$E_i(\mathbf{r}, t) = A \exp\!\big[i(\mathbf{k}_i \cdot \mathbf{r} - \omega t + \phi(t))\big],$$
 
@@ -443,13 +443,13 @@ in cui $\phi(t)$ è costante a pezzi e subisce salti di fase casuali a intervall
 
 $$t_0 \equiv \frac{L_0}{c},$$
 
-con $L_0$ la lunghezza di coerenza longitudinale (dita). All'inizio di ogni intervallo di lunghezza $t_0$, $\phi(t)$ viene riimpostato su un nuovo valore indipendente uniformemente distribuito su $[0, 2\pi)$. $I_0$ indica l'intensità (in media temporale) al rilevatore che si ottiene da un singolo elettrone nella stessa geometria. In questo problema, il rilevatore si presume di misurare un'intensità media temporale. Cioè, non risolve i singoli salti di fase casuali. Invece, registra la media dell'intensità istantanea per un periodo molto più lungo dell'intervallo di salto di fase $t_0$: $\langle I \rangle_t \equiv \langle |E(t)|^2 \rangle_t$. Qui $\langle \cdots \rangle_t$ indica una media su molti intervalli di salto di fase.
+con $L_0$ la lunghezza di coerenza longitudinale (assegnata). All'inizio di ogni intervallo di lunghezza $t_0$, $\phi(t)$ viene reimpostato su un nuovo valore indipendente uniformemente distribuito su $[0, 2\pi)$. $I_0$ indica l'intensità (in media temporale) al rilevatore che si ottiene da un singolo elettrone nella stessa geometria. In questo problema, il rilevatore si presume di misurare un'intensità media temporale. Cioè, non risolve i singoli salti di fase casuali. Invece, registra la media dell'intensità istantanea per un periodo molto più lungo dell'intervallo di salto di fase $t_0$: $\langle I \rangle_t \equiv \langle |E(t)|^2 \rangle_t$. Qui $\langle \cdots \rangle_t$ indica una media su molti intervalli di salto di fase.
 
-**B.1** *(2,3 pt)* Usando il modello di salto di fase di cui sopra, derivare l'intensità totale media temporale $\langle I \rangle_t$ al rilevatore dai due elettroni. Il risultato finale deve essere scritto in termini di $I_0$, $\mathbf{q} \equiv \mathbf{k}_f - \mathbf{k}_i$, il vettore di separazione $\mathbf{r}$, la lunghezza d'onda $\lambda_0$ e la lunghezza di coerenza $L_0$. Supponiamo che il rilevatore abbia una media di tempo molto più lunga di $t_0$.
+**B.1** *(2,3 pt)* Usando il modello di salto di fase di cui sopra, derivare l'intensità totale media temporale $\langle I \rangle_t$ al rilevatore dai due elettroni. Il risultato finale deve essere scritto in termini di $I_0$, $\mathbf{q} \equiv \mathbf{k}_f - \mathbf{k}_i$, il vettore di separazione $\mathbf{r}$, la lunghezza d'onda $\lambda_0$ e la lunghezza di coerenza $L_0$. Si supponga che il rilevatore medii su tempi molto più lunghi di $t_0$.
 
-### Parte C: effetto particella non-punto (1,0 pts)
+### Parte C: Effetto di particella non puntiforme (1,0 pt)
 
-Un elettrone è spesso trattato come una classica particella di punto, ma in un modello più realistico la sua carica può essere considerata come distribuita su una regione spaziale finita. Considera due distribuzioni di carica idealizzate: (i) una carica punto ideale situata a $\mathbf{r} = 0$, la cui amplitudine di dispersione è $A_1(\mathbf{q}) = Q_0$, (ii) una distribuzione di carica gaussiana estesa
+Un elettrone è spesso trattato come una particella puntiforme classica, ma in un modello più realistico la sua carica può essere considerata come distribuita su una regione spaziale finita. Considera due distribuzioni di carica idealizzate: (i) una carica puntiforme ideale situata a $\mathbf{r} = 0$, la cui ampiezza di diffusione è $A_1(\mathbf{q}) = Q_0$, (ii) una distribuzione di carica gaussiana estesa
 
 $$\rho_2(\mathbf{r}) = \rho_0 \exp\!\left(-\frac{r^2}{R_0^2}\right), \qquad r = |\mathbf{r}|.$$
 
@@ -457,7 +457,7 @@ Le costanti $Q_0$ e $\rho_0$ sono scelte in modo che la carica totale sia la ste
 
 $$Q_0 = \int \rho_2(\mathbf{r})\, d^3r.$$
 
-Qui $d^3r$ indica l'elemento volume nello spazio tridimensionale. In coordinate cartesiane, $d^3r = dx\,dy\,dz$ e $\int_{\mathbb{R}^3}$ si intendono integrazioni su tutto lo spazio. Identifiche utili (può essere utilizzata senza prova):
+Qui $d^3r$ indica l'elemento volume nello spazio tridimensionale. In coordinate cartesiane, $d^3r = dx\,dy\,dz$ e $\int_{\mathbb{R}^3}$ indica l'integrazione su tutto lo spazio. Identità utili (si possono usare senza dimostrazione):
 
 $$\int_0^\infty e^{-r^2/R_0^2}\, 4\pi r^2\, dr = \pi^{3/2} R_0^3, \qquad \int_{\mathbb{R}^3} e^{-\alpha r^2} e^{i\mathbf{k}\cdot\mathbf{r}}\, d^3r = \left(\frac{\pi}{\alpha}\right)^{3/2} \exp\!\left(-\frac{k^2}{4\alpha}\right), \quad \alpha > 0.$$
 
@@ -467,21 +467,21 @@ $$\int_0^\infty e^{-r^2/R_0^2}\, 4\pi r^2\, dr = \pi^{3/2} R_0^3, \qquad \int_{\
 
 $$A_2(\mathbf{q}) \equiv \int_{\mathbb{R}^3} \rho_2(\mathbf{r})\, e^{i\mathbf{q}\cdot\mathbf{r}}\, d^3r$$
 
-e confrontarlo con l'ampiezza di carica puntante $A_1(\mathbf{q}) = Q_0$.
+e confrontarlo con l'ampiezza della carica puntiforme $A_1(\mathbf{q}) = Q_0$.
 
-**C.3 ** *(0,2 pt) * Estimare il rapporto delle intensità diffratte, $\dfrac{I_2}{I_1}$, per questi due casi idealizzati quando $q = \dfrac{2}{R_0}$.
+**C.3 ** *(0,2 pt) * Stimare il rapporto delle intensità diffratte, $\dfrac{I_2}{I_1}$, per questi due casi idealizzati quando $q = \dfrac{2}{R_0}$.
 
 ### Parte D: Diffrazione da un film con morfologia non piatta di superficie (2.4 pts)
 
-Immaginate che la superficie di un film (cioè i livelli atomici superiori) non sia perfettamente piatta, ma mostri rugosità superficiale. Un modello comune è quello di supporre che lo spessore del film locale (misurato in monolieri) segua una distribuzione gaussiana. Il numero locale di monolieri completati entro un'area di coerenza laterale del fascio deve essere indicato da $N$. Supponiamo che $N$ varia su tutta la superficie ed è normalmente distribuita con media $\bar{N}$ e deviazione standard $\sigma$ (entrambi in unità di monolivello):
+Immaginate che la superficie di un film (cioè gli strati atomici più esterni) non sia perfettamente piatta, ma mostri rugosità superficiale. Un modello comune è quello di supporre che lo spessore del film locale (misurato in monostrati) segua una distribuzione gaussiana. Il numero locale di monostrati completi entro un'area di coerenza laterale del fascio deve essere indicato da $N$. Supponiamo che $N$ varia su tutta la superficie ed è normalmente distribuita con media $\bar{N}$ e deviazione standard $\sigma$ (entrambi in unità di monostrati):
 
 $$P(N) = \frac{1}{\sqrt{2\pi}\,\sigma} \exp\!\left[-\frac{(N - \bar{N})^2}{2\sigma^2}\right].$$
 
-(Per valutare le medie, si può trattare $N$ come una variabile continua.) $d$ deve essere l'intervallo tra strati atomici adiacenti (mono strati) e $q_z$ deve indicare la componente del vettore di dispersione $\mathbf{q} = \mathbf{k}_f - \mathbf{k}_i$ normale alla superficie piana del film, cioè $q_z = \mathbf{q} \cdot \hat{z}$. Per un numero intero di monolieri $N$, l'ampiezza di dispersione è
+(Per valutare le medie, si può trattare $N$ come una variabile continua.) $d$ deve essere l'intervallo tra strati atomici adiacenti (monostrati) e $q_z$ deve indicare la componente del vettore di diffusione $\mathbf{q} = \mathbf{k}_f - \mathbf{k}_i$ normale alla superficie piana del film, cioè $q_z = \mathbf{q} \cdot \hat{z}$. Per un numero intero di monostrati $N$, l'ampiezza di diffusione è
 
 $$A_N(q_z) = \sum_{n=0}^{N-1} e^{i q_z n d} = \frac{1 - e^{i q_z N d}}{1 - e^{i q_z d}}.$$
 
-Quando si fa una media sulla distribuzione di spessore di Gaussian, si tratta di $N$ come una variabile continua e si usa l'espressione di forma chiusa
+Quando si fa una media sulla distribuzione gaussiana dello spessore, si tratta di $N$ come una variabile continua e si usa l'espressione di forma chiusa
 
 $$A_N(q_z) \equiv \frac{1 - e^{i q_z N d}}{1 - e^{i q_z d}}$$
 
@@ -493,7 +493,7 @@ $$I(q_z) \equiv \big|\langle A(q_z) \rangle\big|^2, \qquad \langle A(q_z) \rangl
 
 $$\frac{I(q_z,\ \sigma = 0.4,\ \bar{N} = 5)}{I(q_z,\ \sigma = 0,\ \bar{N} = 5)}$$
 
-at
+per
 
 $$q_z = \frac{\pi}{2d} \qquad \text{and} \qquad q_z = \frac{2\pi}{d},$$
 
@@ -501,13 +501,13 @@ rispettivamente. Se necessario, valutare il secondo caso prendendo il limite app
 
 ### Parte E: Diffrazione da un film con morfologia evoluta della superficie (2.3 pts)
 
-Immaginate un film sottile con una semplice struttura cubica coltivata su un substrato in modalità strato per strato, cioè, ogni mono strato è completato prima che il prossimo mono strato cominciasse a crescere. Il $d$ deve essere l'intervallo tra strati atomici adiacenti (mono strati), e $q_z$ deve indicare la componente di $\mathbf{q} = \mathbf{k}_f - \mathbf{k}_i$ normale alla superficie piana del film, cioè $q_z = \mathbf{q} \cdot \hat{z}$. Mentre il film viene coltivato, il spessore del film cambia, così come l'intensità di diffrazione a $\mathbf{q} = \frac{\pi}{d}\hat{z}$. Il calcolo viene effettuato al trasferimento di impulso specificato fuori piano e tutti i contributi monolivello sono sommati in modo coerente.
+Immaginate un film sottile con struttura cubica semplice cresciuto su un substrato in modalità strato per strato, cioè, ogni monostrato viene completato prima che il successivo cominci a crescere. Il $d$ deve essere l'intervallo tra strati atomici adiacenti (monostrati), e $q_z$ deve indicare la componente di $\mathbf{q} = \mathbf{k}_f - \mathbf{k}_i$ normale alla superficie piana del film, cioè $q_z = \mathbf{q} \cdot \hat{z}$. Durante la crescita del film, lo spessore del film cambia, così come l'intensità di diffrazione a $\mathbf{q} = \frac{\pi}{d}\hat{z}$. Il calcolo viene effettuato al trasferimento di impulso specificato fuori piano e tutti i contributi dei monostrati sono sommati in modo coerente.
 
-Se il film inizia a crescere a $t = 0$ e il tempo necessario per completare un mono strato è $t_0$, ottenere il rapporto di intensità di diffrazione
+**E.1** *(2,3 pt)* Se il film inizia a crescere a $t = 0$ e il tempo necessario per completare un monostrato è $t_0$, ottenere il rapporto di intensità di diffrazione
 
 $$\frac{I(t = 0.8\,t_0)}{I(t = 3.6\,t_0)}$$
 
-misurata a $\mathbf{q} = \frac{\pi}{d}\hat{z}$. Supponiamo che durante ogni intervallo di crescita di uno strato, la copertura frazionaria dello strato superiore aumenta linearmente da 0 a 1, in modo che al tempo $t = (N + \theta)t_0$, ci siano $N$ monolieri completati e una copertura frazionaria $\theta$ del prossimo monoliero.
+misurata a $\mathbf{q} = \frac{\pi}{d}\hat{z}$. Supponiamo che durante ogni intervallo di crescita di uno strato, la copertura frazionaria dello strato superiore aumenta linearmente da 0 a 1, in modo che al tempo $t = (N + \theta)t_0$, ci sono $N$ monostrati completi e una copertura frazionaria $\theta$ del monostrato successivo.
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1XV2UMXsCnxfhiMpntZTu_5D_Ue9_e2yS/view)
 **Topic:** [[Wave Optics]], [[Modern-Quantum Physics]]
@@ -531,7 +531,9 @@ The origin of a material's magnetic property is the magnetic moment from the ang
 
 We consider the problem of nuclear spin relaxation due to random fluctuation of other physical degrees of freedom such as lattice vibration or electron's magnetic dipole moments. In order to familiarize ourselves with a randomness in the solutions of a classical mechanics system, let us start with a forced harmonic oscillator of mass $m$ and angular frequency $\omega_0$. The energy of the oscillator changes because of the effect of a time-dependent external force.
 
-$$m\frac{d^2 q(t)}{dt^2} + m\omega_0^2 q(t) = F(t) \tag{1}$$
+$$
+m\frac{d^2 q(t)}{dt^2} + m\omega_0^2 q(t) = F(t) \tag{1}
+$$
 
 where the external force is given by the following step-wise function.
 
@@ -563,7 +565,9 @@ According to this equation, when $\vec{B}$ is constant the angular momentum $\ve
 
 Let us now consider turning on an oscillating magnetic field in xy-plane, in addition to a constant part along z-direction. The magnetic energy is then
 
-$$E = -\omega_0 S_z - \omega_1 \cos(\omega_2 t) S_x - \omega_1 \sin(\omega_2 t) S_y \tag{2}$$
+$$
+E = -\omega_0 S_z - \omega_1 \cos(\omega_2 t) S_x - \omega_1 \sin(\omega_2 t) S_y \tag{2}
+$$
 
 where $\omega_0, \omega_1$ are given by the relevant components of the magnetic field and $\gamma$, while $\omega_2$ is the frequency of the oscillating magnetic field. We assume $\omega_0, \omega_1, \omega_2$ are all positive. The equations for $\vec{S}$ are
 
@@ -607,7 +611,7 @@ Let us now consider a large number of spins with a statistical distribution of i
 
 **B.4** *(1.5 pt)* Calculate $\langle S_z(t) \rangle$.
 
-**B.5** *(1.5 pt)* If $\langle S_z(t) \rangle = 0$ at odd multiples of $T_1$ (i.e. $t = T_1, 3T_1, 5T_1, \cdots$) and $\langle S_z(t) \rangle > 0$ otherwise, what is the value of $\omega_1 T_1$?
+**B.5** *(1.5 pt)* If $\langle S_z(t) \rangle = 0$ at odd multiples of $T_1$ (i.e. $t = T_1, 3T_1, 5T_1, \cdots$) e $\langle S_z(t) \rangle > 0$ altrimenti, quanto vale $\omega_1 T_1$?
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/11uexakrtqQn-Mavu3OmrqUxD5Sndn4PP/view)
 **Topic:** [[Magnetism]], [[Oscillations & Waves]]
@@ -620,45 +624,49 @@ Let us now consider a large number of spins with a statistical distribution of i
 
 **Risonanza magnetica e fluttuazione esterna**
 
-L'origine della proprietà magnetica di un materiale è il momento magnetico dal momento angolare del suo componente microscopico come gli elettroni e i nuclei. Per alcuni materiali i minuscoli momenti magnetici sono allineati lungo una particolare direzione per produrre un campo magnetico netto. In altre parole, il materiale ha una magnetizzazione non zero. Per diversi tipi di materiale i minuscoli momenti magnetici sono orientati in modo casuale, ma quando il materiale viene messo in un campo magnetico esterno, i minuscoli momenti magnetici ruotano intorno alla direzione del campo magnetico esterno e in media il materiale sviluppa una magnetizzazione non zero. Se spegniamo il campo magnetico esterno la magnetizzazione del materiale può diminuire gradualmente fino a quando non ritorna al suo valore originale. È dovuto all'interazione tra i momenti magnetici, o alla loro interazione con altri gradi microscopici di libertà come la vibrazione della rete. Questo processo è chiamato rilassamento, che verrà esaminato di seguito utilizzando modelli di meccanica classica.
+L'origine della proprietà magnetica di un materiale è il momento magnetico associato al momento angolare dei suoi costituenti microscopici, come gli elettroni e i nuclei. Per alcuni materiali i minuscoli momenti magnetici sono allineati lungo una particolare direzione per produrre un campo magnetico netto. In altre parole, il materiale ha una magnetizzazione non zero. In altri tipi di materiale i minuscoli momenti magnetici sono orientati in modo casuale, ma quando il materiale viene messo in un campo magnetico esterno, i minuscoli momenti magnetici ruotano intorno alla direzione del campo magnetico esterno e in media il materiale sviluppa una magnetizzazione non zero. Se spegniamo il campo magnetico esterno la magnetizzazione del materiale può diminuire gradualmente fino a quando non ritorna al suo valore originale. È dovuto all'interazione tra i momenti magnetici, o alla loro interazione con altri gradi microscopici di libertà come le vibrazioni del reticolo. Questo processo è chiamato rilassamento, che verrà esaminato di seguito utilizzando modelli di meccanica classica.
 
 ### Parte A. Oscillatore armonico forzato (3,6 pts)
 
-Consideramo il problema della rilassamento dello spin nucleare dovuto a fluttuazioni casuali di altri gradi fisici di libertà come la vibrazione della griglia o i momenti di dipolo magnetico dell'elettrone. Per familiarizzare con una randomità nelle soluzioni di un sistema di meccanica classica, iniziamo con un oscillatore armonico forzato di massa $m$ e frequenza angolare $\omega_0$. L'energia dell'oscillato cambia a causa dell'effetto di una forza esterna dipendente dal tempo.
+Consideriamo il problema del rilassamento dello spin nucleare dovuto a fluttuazioni casuali di altri gradi fisici di libertà come le vibrazioni del reticolo o i momenti di dipolo magnetico dell'elettrone. Per familiarizzare con la casualità nelle soluzioni di un sistema di meccanica classica, iniziamo con un oscillatore armonico forzato di massa $m$ e frequenza angolare $\omega_0$. L'energia dell'oscillatore cambia a causa dell'effetto di una forza esterna dipendente dal tempo.
 
-$$m\frac{d^2 q(t)}{dt^2} + m\omega_0^2 q(t) = F(t) \tag{1}$$
+$$
+m\frac{d^2 q(t)}{dt^2} + m\omega_0^2 q(t) = F(t) \tag{1}
+$$
 
-quando la forza esterna è data dalla seguente funzione di passo.
+dove la forza esterna è data dalla seguente funzione a gradini.
 
 $$F(t) = \begin{cases} 0, & t < 0 \\ +m f_0, & 0 \le t < T_0/2 \\ -m f_0, & T_0/2 \le t < T_0 \\ 0, & t \ge T_0 \end{cases}$$
 
-Qui $\omega_0 = 2\pi/T_0$ è la frequenza angolare dell'oscilatore $q(t)$. Supponiamo che la condizione iniziale sia data come $q(0) = A\sin\delta$, $\dot{q}(0) = A\omega_0 \cos\delta$. Prima di accendere la forza esterna, l'energia viene conservata e il suo valore è $E_0 = \frac{m}{2}\omega_0^2 A^2$. Senza perdere la generalità, supponiamo $-\pi \le \delta < \pi$.
+Qui $\omega_0 = 2\pi/T_0$ è la frequenza angolare dell'oscillatore $q(t)$. Supponiamo che la condizione iniziale sia data come $q(0) = A\sin\delta$, $\dot{q}(0) = A\omega_0 \cos\delta$. Prima che agisca la forza esterna, l'energia si conserva e il suo valore è $E_0 = \frac{m}{2}\omega_0^2 A^2$. Senza perdere la generalità, supponiamo $-\pi \le \delta < \pi$.
 
-**A.1 ** *(1.2 pt) * Trova la posizione $q$ e la velocità $\dot{q} = \frac{dq}{dt}$ a $t = T_0$. Esprimere le informazioni in termini di $A$, $\delta$, $f_0$, $\omega_0$.
+**A.1 ** *(1.2 pt) * Trova la posizione $q$ e la velocità $\dot{q} = \frac{dq}{dt}$ a $t = T_0$. Esprimili in funzione di $A$, $\delta$, $f_0$, $\omega_0$.
 
 **A.2 ** *(1.2 pt) * Considera l'energia meccanica totale $E(t) = \dfrac{m(\dot{q}^2 + \omega_0^2 q^2)}{2}$. Calcolare la differenza di $E(t)$ tra $t = T_0$ e $t = 0$, a causa dell'effetto della forza esterna $F(t)$. In altre parole, calcolare $\Delta E \equiv E(t \ge T_0) - E(t \le 0)$ e esprimere in termini di $A$, $\delta$, $f_0$, $\omega_0$.
 
 **A.3** *(1.2 pt) * Supponiamo che $\delta$ sia una variabile casuale con una distribuzione uniforme nell'intervallo di $-\pi \le \delta < \pi$. In altre parole, abbiamo un gran numero di oscillatori armonici forzati identici che seguono tutti la stessa equazione (1). Le loro condizioni iniziali sono indicate in modo che $A$ sia la stessa, ma $\delta$ è scelto a caso da $-\pi \le \delta < \pi$. Calcolare la media statistica dell'energia assorbita $\langle \Delta E \rangle$, nonché il secondo momento $\langle (\Delta E)^2 \rangle$.
 
-### Parte B: Precessione del momento di dipolo magnetico e utilizzo di variabili di telaio rotante (6,4 pts)
+### Parte B: Precessione del momento di dipolo magnetico e uso di variabili nel sistema rotante (6,4 pt)
 
 L'energia di un momento di dipolo magnetico sotto campo magnetico $\vec{B}$ è data come
 
 $$E = -\vec{\mu} \cdot \vec{B} = -\gamma \vec{S} \cdot \vec{B}$$
 
-Quando consideriamo una rotazione infinitesimale del momento angolare $\vec{S}$ e eguagliamo la differenza di energia con il prodotto della coppia ($\vec{\tau}$) e dello spostamento angolare, otteniamo l'equazione per $\vec{S}$.
+Quando consideriamo una rotazione infinitesimale del momento angolare $\vec{S}$ e eguagliamo la differenza di energia con il prodotto del momento torcente ($\vec{\tau}$) e dello spostamento angolare, otteniamo l'equazione per $\vec{S}$.
 
 $$\vec{\tau} = \frac{d\vec{S}}{dt} = \gamma \vec{S} \times \vec{B}$$
 
-Secondo questa equazione, quando $\vec{B}$ è costante, il momento angolare $\vec{S}$ si precede intorno alla direzione del campo magnetico $\vec{B}$. Questo fenomeno è conosciuto come la precessione di Larmor, e la frequenza della precessione è data da $\gamma|\vec{B}|$ e in particolare è indipendente dall'angolo tra $\vec{S}$ e $\vec{B}$.
+Secondo questa equazione, quando $\vec{B}$ è costante, il momento angolare $\vec{S}$ compie un moto di precessione attorno alla direzione del campo magnetico $\vec{B}$. Questo fenomeno è conosciuto come la precessione di Larmor, e la frequenza della precessione è data da $\gamma|\vec{B}|$ e in particolare è indipendente dall'angolo tra $\vec{S}$ e $\vec{B}$.
 
 ![[APhO_2026_theory_Q3_p2_f1.png]]
 
-**Radiamento di luce polarizzata circolare**
+**Irraggiamento con luce polarizzata circolarmente**
 
 Consideriamo ora di attivare un campo magnetico oscillante in piano xy, oltre a una parte costante lungo la direzione z. L'energia magnetica è quindi
 
-$$E = -\omega_0 S_z - \omega_1 \cos(\omega_2 t) S_x - \omega_1 \sin(\omega_2 t) S_y \tag{2}$$
+$$
+E = -\omega_0 S_z - \omega_1 \cos(\omega_2 t) S_x - \omega_1 \sin(\omega_2 t) S_y \tag{2}
+$$
 
 in cui $\omega_0, \omega_1$ sono dati dalle componenti rilevanti del campo magnetico e $\gamma$, mentre $\omega_2$ è la frequenza del campo magnetico oscillante. Supponiamo che $\omega_0, \omega_1, \omega_2$ siano tutti positivi. Le equazioni per $\vec{S}$ sono:
 
@@ -672,7 +680,7 @@ $$\dot{S}_+ = -i\omega_0 S_+ + i\omega_1 e^{+i\omega_2 t} S_z$$
 $$\dot{S}_- = +i\omega_0 S_- - i\omega_1 e^{-i\omega_2 t} S_z$$
 $$\dot{S}_z = \frac{i\omega_1}{2}\big(e^{-i\omega_2 t} S_+ - e^{+i\omega_2 t} S_-\big)$$
 
-Per il passo successivo, introduciamo lo spin in telaio rotante utilizzando $S_\pm \equiv e^{\pm i\omega_2 t}\Sigma_\pm$, $S_z \equiv \Sigma_z$. Si può dimostrare che le equazioni per $\Sigma_x \equiv \frac{1}{2}(\Sigma_+ + \Sigma_-)$, $\Sigma_y \equiv \frac{i}{2}(\Sigma_- - \Sigma_+)$ e $\Sigma_z$ possono essere scritte come
+Per il passo successivo, introduciamo lo spin nel sistema di riferimento rotante utilizzando $S_\pm \equiv e^{\pm i\omega_2 t}\Sigma_\pm$, $S_z \equiv \Sigma_z$. Si può dimostrare che le equazioni per $\Sigma_x \equiv \frac{1}{2}(\Sigma_+ + \Sigma_-)$, $\Sigma_y \equiv \frac{i}{2}(\Sigma_- - \Sigma_+)$ e $\Sigma_z$ possono essere scritte come
 
 $$\frac{d}{dt}\vec{\Sigma} = \vec{M} \times \vec{\Sigma}$$
 
@@ -686,9 +694,9 @@ $$\Sigma_X = \cos\Theta\,\Sigma_x - \sin\Theta\,\Sigma_z$$
 $$\Sigma_Y = \Sigma_y$$
 $$\Sigma_Z = \sin\Theta\,\Sigma_x + \cos\Theta\,\Sigma_z$$
 
-**B.2** *(0,9 pt)* Derivare le equazioni di movimento per $\Sigma_X, \Sigma_Y, \Sigma_Z$ e esprimerele usando $M_x, M_y, M_z$ e $\Theta$.
+**B.2** *(0,9 pt)* Derivare le equazioni di movimento per $\Sigma_X, \Sigma_Y, \Sigma_Z$ e esprimerle usando $M_x, M_y, M_z$ e $\Theta$.
 
-Poi in termini di nuove variabili in quadri a doppio rotazione, le equazioni possono essere ridotte alla seguente forma,
+Allora, in termini delle nuove variabili nel sistema doppiamente rotante, le equazioni possono essere ridotte alla seguente forma,
 
 $$\dot{\Sigma}_X = +\Omega\,\Sigma_Y$$
 $$\dot{\Sigma}_Y = -\Omega\,\Sigma_X$$
@@ -698,11 +706,11 @@ se sono scelte appropriatamente $\Omega$ e $\tan\Theta$.
 
 **B.3** *(1.0 pt)* Combinando le risposte di B.1 e B.2, si trovano le espressioni per $\Omega$ e $\tan\Theta$ in termini di $\omega_0, \omega_1, \omega_2$.
 
-Consideriamo ora un gran numero di giri con una distribuzione statistica delle configurazioni iniziali: a $t = 0$, i valori medi soddisfano $\langle S_x(0) \rangle = \langle S_y(0) \rangle = 0$ e $\langle S_z(0) \rangle > 0$. Tutti i giri soddisfano la stessa equazione derivata da Eq.(2).
+Consideriamo ora un gran numero di spin con una distribuzione statistica delle configurazioni iniziali: a $t = 0$, i valori medi soddisfano $\langle S_x(0) \rangle = \langle S_y(0) \rangle = 0$ e $\langle S_z(0) \rangle > 0$. Tutti gli spin soddisfano la stessa equazione derivata da Eq.(2).
 
 **B.4 ** *(1,5 pt) * Calcolare $\langle S_z(t) \rangle$.
 
-**B.5 ** *(1,5 pt) * Se $\langle S_z(t) \rangle = 0$ a multipli dispari di $T_1$ (cioè $t = T_1, 3T_1, 5T_1, \cdots$) and $\langle S_z(t) \rangle > 0$ otherwise, what is the value of $\omega_1 T_1$?
+**B.5 ** *(1,5 pt) * Se $\langle S_z(t) \rangle = 0$ a multipli dispari di $T_1$ (cioè $t = T_1, 3T_1, 5T_1, \cdots$) e $\langle S_z(t) \rangle > 0$ altrimenti, quanto vale $\omega_1 T_1$?
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/11uexakrtqQn-Mavu3OmrqUxD5Sndn4PP/view)
 **Topic:** [[Magnetism]], [[Oscillations & Waves]]

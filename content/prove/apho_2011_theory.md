@@ -300,7 +300,9 @@ The surface tension of a rubber film is the force that adjacent parts exert on e
 
 Hooke's Law is a linear approximation of real-world elasticity for small tensions. Assume that the balloon's length remains constant at $L_0$, while the surface tension $\sigma_t$ depends linearly on the inflation ratio $r/r_0$:
 
-$$\sigma_t = k\left(\frac{r}{r_0} - 1\right) \tag{1}$$
+$$
+\sigma_t = k\left(\frac{r}{r_0} - 1\right) \tag{1}
+$$
 
 **b. (1 pt.)** With these assumptions, obtain an expression for the dependence of the pressure $P$ inside the balloon on the balloon's volume $V$. Sketch a plot of $P - P_0$ as a function of $V$. What is the maximal inflation pressure $P_{max}$ resulting from Hooke's elasticity approximation?
 
@@ -322,7 +324,9 @@ This behavior is depicted in Figure 2.
 
 To explore the consequences of the behavior you found in part (c), we approximate $P(V)$ for a uniformly inflated balloon with a cubic function:
 
-$$P - P_0 = a\big((V - u)^3 - b(V - u) + c\big) \tag{2}$$
+$$
+P - P_0 = a\big((V - u)^3 - b(V - u) + c\big) \tag{2}
+$$
 
 where $a$, $b$, $c$ and $u$ are positive constants. Assume that the volume $V$ is larger than the balloon's uninflated volume $V_0$, and $c$ is large enough so that the function (2) is positive in the entire physical range $V > V_0$. See Figure (3).
 
@@ -361,7 +365,9 @@ La tensione superficiale di un film di gomma è la forza che le parti adiacenti 
 
 La Legge di Hooke è un'approssimazione lineare dell'elasticità del mondo reale per piccole tensioni. Supponiamo che la lunghezza del palloncino rimanga costante a $L_0$, mentre la tensione superficiale $\sigma_t$ dipende linearmente dal rapporto di inflazione $r/r_0$:
 
-$$\sigma_t = k\left(\frac{r}{r_0} - 1\right) \tag{1}$$
+$$
+\sigma_t = k\left(\frac{r}{r_0} - 1\right) \tag{1}
+$$
 
 **b. (1 pt.)** Con queste ipotesi si ottiene un'espressione per la dipendenza della pressione $P$ all'interno del palloncino dal volume del palloncino $V$. Segnare un diagramma di $P - P_0$ come funzione di $V$. Qual è la pressione di inflazione massima $P_{max}$ risultante dalla approssimazione di elasticità di Hooke?
 
@@ -383,7 +389,9 @@ Questo comportamento è raffigurato nella Figura 2.
 
 Per esplorare le conseguenze del comportamento trovato nella parte (c), approssimare $P(V)$ per un palloncino gonfiato uniformemente con una funzione cubica:
 
-$$P - P_0 = a\big((V - u)^3 - b(V - u) + c\big) \tag{2}$$
+$$
+P - P_0 = a\big((V - u)^3 - b(V - u) + c\big) \tag{2}
+$$
 
 in cui $a$, $b$, $c$ e $u$ sono costanti positive. Supponiamo che il volume $V$ sia più grande del volume non gonfiato del palloncino $V_0$, e $c$ sia sufficientemente grande da rendere la funzione (2) positiva in tutto l'intero intervallo fisico $V > V_0$. V. Figura (3).
 

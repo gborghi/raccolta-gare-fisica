@@ -148,7 +148,9 @@ The quantum behavior of light can be observed in extremely simple optics experim
 
 A beamsplitter is simply a partially reflective mirror, where each of the two input ports is broken into a transmitted and a reflected part, as shown in the figure. We consider a lossless beamsplitter with classical inputs $E_1$ and $E_3$. The outputs are then given by
 
-$$E_2 = RE_1 + TE_3,\qquad E_4 = TE_1 + RE_3,\tag{1}$$
+$$
+E_2 = RE_1 + TE_3,\qquad E_4 = TE_1 + RE_3,\tag{1}
+$$
 
 where $E_i$ are the (complex) amplitudes of the input and output light fields, $R$ is the reflection coefficient, and $T$ the transmission coefficient.
 
@@ -166,21 +168,31 @@ c) *(1 point)* Show that the above condition leads to an additional phase shift 
 
 We now consider the case where the input into the beamsplitter are single photons. Two photon sources, A and B, emit photons into the respective input modes of the beamsplitter, and two detectors, C and D detect photons in the respective output modes. Since the photons are non-interacting and independent of each other, we need to assign each photon $j$ an individual state vector $|x\rangle_j$ where their state $x$ expresses the mode X it is located in. The overall state for $n$ incoming photons in mode A would thus be
 
-$$|\psi^{(n)}\rangle = |a\rangle_1 |a\rangle_2 \cdots |a\rangle_n,\tag{1}$$
+$$
+|\psi^{(n)}\rangle = |a\rangle_1 |a\rangle_2 \cdots |a\rangle_n,\tag{1}
+$$
 
 while a state with photon 1 in mode A and photon 2 in mode B would be
 
-$$|\psi^{(2)}\rangle = |a\rangle_1 |b\rangle_2,\tag{2}$$
+$$
+|\psi^{(2)}\rangle = |a\rangle_1 |b\rangle_2,\tag{2}
+$$
 
 which is not identical to photon 1 in mode B and photon 2 in mode A
 
-$$|\psi^{(2)}\rangle = |b\rangle_1 |a\rangle_2.\tag{3}$$
+$$
+|\psi^{(2)}\rangle = |b\rangle_1 |a\rangle_2.\tag{3}
+$$
 
 The beam splitter either transmits or reflects each single photon, with the reflection and transmission coefficients now determining the probability of each outcome. For the case of a loss-free 50/50 beam splitter the output for single photons emitted in mode A and B, described by $|a\rangle$ and $|b\rangle$ respectively, is
 
-$$|a\rangle \xrightarrow{BS} \frac{1}{\sqrt{2}} (|c\rangle + i|d\rangle),\tag{4}$$
+$$
+|a\rangle \xrightarrow{BS} \frac{1}{\sqrt{2}} (|c\rangle + i|d\rangle),\tag{4}
+$$
 
-$$|b\rangle \xrightarrow{BS} \frac{1}{\sqrt{2}} (i|c\rangle + |d\rangle).\tag{5}$$
+$$
+|b\rangle \xrightarrow{BS} \frac{1}{\sqrt{2}} (i|c\rangle + |d\rangle).\tag{5}
+$$
 
 The factors of $i = \sqrt{-1}$ originate from the phase shift induced on reflected photons which you proved in the last exercise.
 
@@ -231,7 +243,9 @@ Il comportamento quantistico della luce può essere osservato in esperimenti di 
 
 Un fascio di scissione è semplicemente uno specchio parzialmente riflettente, in cui ciascuna delle due porte di ingresso è suddivisa in una parte trasmessa e una parte riflessa, come mostrato nella figura. Consideramo un splitter di fascio senza perdite con input classici $E_1$ e $E_3$. Le uscite sono quindi date da
 
-$$E_2 = RE_1 + TE_3,\qquad E_4 = TE_1 + RE_3,\tag{1}$$
+$$
+E_2 = RE_1 + TE_3,\qquad E_4 = TE_1 + RE_3,\tag{1}
+$$
 
 se $E_i$ sono le amplitudini (complese) dei campi di luce di ingresso e di uscita, $R$ è il coefficiente di riflessione e $T$ il coefficiente di trasmissione.
 
@@ -249,21 +263,31 @@ c) *(1 punto) * Mostra che la condizione di cui sopra conduce a un ulteriore spo
 
 Ora consideriamo il caso in cui l'input nel fascio di scissione sono singoli fotoni. Due fonti di fotoni, A e B, emettono fotoni nelle rispettive modalità di ingresso del fascio di scissione e due rilevatori, C e D, rilevano i fotoni nelle rispettive modalità di uscita. Poiché i fotoni non interagiscono e sono indipendenti l'uno dall'altro, dobbiamo assegnare a ciascun fotone $j$ un singolo vettore di stato $|x\rangle_j$ dove il loro stato $x$ esprime la modalità X in cui si trova. The overall state for $n$ incoming photons in mode A would thus be
 
-$$|\psi^{(n)}\rangle = |a\rangle_1 |a\rangle_2 \cdots |a\rangle_n,\tag{1}$$
+$$
+|\psi^{(n)}\rangle = |a\rangle_1 |a\rangle_2 \cdots |a\rangle_n,\tag{1}
+$$
 
 mentre uno stato con fotone 1 in modalità A e fotone 2 in modalità B sarebbe
 
-$$|\psi^{(2)}\rangle = |a\rangle_1 |b\rangle_2,\tag{2}$$
+$$
+|\psi^{(2)}\rangle = |a\rangle_1 |b\rangle_2,\tag{2}
+$$
 
 che non è identico al fotone 1 nella modalità B e al fotone 2 nella modalità A
 
-$$|\psi^{(2)}\rangle = |b\rangle_1 |a\rangle_2.\tag{3}$$
+$$
+|\psi^{(2)}\rangle = |b\rangle_1 |a\rangle_2.\tag{3}
+$$
 
 Il scartatore del fascio trasmette o riflette ogni singolo fotone, con i coefficienti di riflessione e trasmissione che determinano ora la probabilità di ogni risultato. Per un splitter a fascio 50/50 senza perdite, la uscita per i fotoni singoli emessi in modalità A e B, descritta rispettivamente da $|a\rangle$ e $|b\rangle$, è
 
-$$|a\rangle \xrightarrow{BS} \frac{1}{\sqrt{2}} (|c\rangle + i|d\rangle),\tag{4}$$
+$$
+|a\rangle \xrightarrow{BS} \frac{1}{\sqrt{2}} (|c\rangle + i|d\rangle),\tag{4}
+$$
 
-$$|b\rangle \xrightarrow{BS} \frac{1}{\sqrt{2}} (i|c\rangle + |d\rangle).\tag{5}$$
+$$
+|b\rangle \xrightarrow{BS} \frac{1}{\sqrt{2}} (i|c\rangle + |d\rangle).\tag{5}
+$$
 
 I fattori di $i = \sqrt{-1}$ provengono dal cambiamento di fase indotto sui fotoni riflessi che avete dimostrato nell'ultimo esercizio.
 
@@ -315,7 +339,9 @@ c) *(1 punto) * Come si adatta la dip di Hong-Ou-Mandel alla dichiarazione che i
 
 Consider a "radical pair" which consist of two unpaired electronic spins, where one of the electrons is coupled to a spin-1/2 nucleus through one hyperfine interaction tensor $A$. The radical pair is subject to an external magnetic field $\vec{B}$. The overall spin state of the two unpaired electronic spins can be either singlet ($S = 0$) or triplet ($T$). The Hamiltonian for the system is given by
 
-$$\hat{H} = \mu_B g(\vec{B} \cdot \vec{S}_1) + \mu_B g(\vec{B} \cdot \vec{S}_2) + \mu_B (\vec{S}_1 \cdot A \cdot \vec{I})\tag{1}$$
+$$
+\hat{H} = \mu_B g(\vec{B} \cdot \vec{S}_1) + \mu_B g(\vec{B} \cdot \vec{S}_2) + \mu_B (\vec{S}_1 \cdot A \cdot \vec{I})\tag{1}
+$$
 
 when the possible dipole-dipole and exchange interactions in the spin-system are neglected. $\vec{I} = (I_x, I_y, I_z)$, is the spin operator of the nucleus, $\vec{S}_{1,2} = (S_x, S_y, S_z)$ are the electron spin operators and $A$ is the hyperfine interaction tensor.
 
@@ -342,7 +368,9 @@ when the possible dipole-dipole and exchange interactions in the spin-system are
 
 Considera una "coppia radicale" che consiste in due spin elettronici non accoppiati, dove uno degli elettroni è accoppiato a un nucleo spin-1/2 attraverso un tensore di interazione iperfino $A$. La coppia radicale è soggetta a un campo magnetico esterno $\vec{B}$. Lo stato di spin complessivo dei due giri elettronici non abbinati può essere singolo ($S = 0$) o triplet ($T$). Il Hamiltonian per il sistema è dato da
 
-$$\hat{H} = \mu_B g(\vec{B} \cdot \vec{S}_1) + \mu_B g(\vec{B} \cdot \vec{S}_2) + \mu_B (\vec{S}_1 \cdot A \cdot \vec{I})\tag{1}$$
+$$
+\hat{H} = \mu_B g(\vec{B} \cdot \vec{S}_1) + \mu_B g(\vec{B} \cdot \vec{S}_2) + \mu_B (\vec{S}_1 \cdot A \cdot \vec{I})\tag{1}
+$$
 
 quando le possibili interazioni di dipolo-dipolo e di scambio nel sistema di spin sono trascurate. $\vec{I} = (I_x, I_y, I_z)$, è l'operatore di spin del nucleo, $\vec{S}_{1,2} = (S_x, S_y, S_z)$ sono gli operatori di spin degli elettroni e $A$ è il tensore di interazione iperfino.
 
@@ -564,19 +592,25 @@ Questo è ora noto come effetto Joule.
 
 In 2016 the Noble Prize in Physics was awarded to three British physicists John Kosterlitz, David Thouless and Duncan Haldane for their work on topological phases of matter and topological phase transitions, which have had major impact on many areas of physics. In this exercise we will go through some simple considerations in a statistical mechanical setting to illuminate some characteristics of topological phase transitions. Topological defects in physical systems emerges as point or string-like structures in the low-temperature "ordered" state of systems which possess continuous symmetry, e.g. ferro-magnets, nematic liquid crystals, magnetic liquids and superconductors. The relevant topological defects depend on the symmetry and the dimension of space, but the simplest examples are found in 2D ferromagnets. The standard O(2) symmetric model of ferro-magnetism on a regular 2D lattice (XY-model) takes the form
 
-$$\mathcal{H} = -\frac{J}{2}\sum_{\langle ij \rangle} \vec{S}_i \vec{S}_j,\tag{2}$$
+$$
+\mathcal{H} = -\frac{J}{2}\sum_{\langle ij \rangle} \vec{S}_i \vec{S}_j,\tag{2}
+$$
 
 where each lattice site $i = 1, \ldots, N$ is equipped with the variable $\vec{S}_i = (\cos(\theta_i), \sin(\theta_i)) \in S^1$, $\theta_i$ is the angle between $\vec{S}_i$ and the x-axis. $J > 0$ is the nearest neighbor coupling strength.
 
 **Problem 1:** *2 points* Show that at low temperatures Eq.(2) can be approximated by a continuum model
 
-$$\mathcal{H} \approx \frac{K}{2}\frac{1}{a} = \frac{K}{2}\int d^2x \partial_\mu \theta(x)\partial_\mu \theta(x),\tag{3}$$
+$$
+\mathcal{H} \approx \frac{K}{2}\frac{1}{a} = \frac{K}{2}\int d^2x \partial_\mu \theta(x)\partial_\mu \theta(x),\tag{3}
+$$
 
 where $\vec{x} = (x_1, x_2)$ and $\partial_\mu \theta = \frac{\partial \theta}{\partial x_\mu}, \mu = 1, 2$. $A$ is the area, $z$ is the lattice coordination number and $K = \frac{J}{a}$, where $z$ is a geometrical factor of order unity depending on the lattice considered. Furthermore, Eq.(3) has a short distance cut-off $a$ which is the lattice spacing.
 
 **Problem 2:** *2 points* Verify that the energetically most favorable configurations of the angle field $\theta(\vec{x})$ at low temperatures obey:
 
-$$\partial_\mu \partial_\mu \theta(x) = \nabla^2 \theta(x) = 0\tag{4}$$
+$$
+\partial_\mu \partial_\mu \theta(x) = \nabla^2 \theta(x) = 0\tag{4}
+$$
 
 As $\theta(\vec{x})$ obey the 2D Laplace equation, - it is a harmonic field. $\theta = \text{constant}$ is clearly a solution of Eq.(4), consistent with our expectation at $T = 0$. Show $N$ is possible we want in general expect that the associated angle field $\theta$ along a closed curve $C$ obey
 
@@ -588,7 +622,9 @@ $$\vec{e}_\phi = (-\sin(\phi), \cos(\phi))\quad\text{and}\quad \nabla^2\theta(x)
 
 **Problem 3:** *1 point* Show that
 
-$$\theta(x_1, x_2) = \theta_0 + q\phi(x_1, x_2) = \theta_0 + q\tan^{-1}(x_2/x_1)\tag{6}$$
+$$
+\theta(x_1, x_2) = \theta_0 + q\phi(x_1, x_2) = \theta_0 + q\tan^{-1}(x_2/x_1)\tag{6}
+$$
 
 is a solution of Eq.(3) in $\mathbb{R}^2/0$ which satisfy Eq.(5).
 
@@ -601,7 +637,9 @@ The resulting textures of $\vec{S}$ is shown in Figure 2 for $\theta_0 = 0$ and 
 
 The energy associated with these particle-like defect textures:
 
-$$\mathcal{H} = \frac{K}{2}\int_0^R \int_0^{2\pi} r\, dr\, d\phi (\nabla\theta)^2 = \pi q^2 K \ln(R/a)\tag{7}$$
+$$
+\mathcal{H} = \frac{K}{2}\int_0^R \int_0^{2\pi} r\, dr\, d\phi (\nabla\theta)^2 = \pi q^2 K \ln(R/a)\tag{7}
+$$
 
 where $R$ represents the system size, i.e. $\pi R^2 = A$.
 
@@ -640,19 +678,25 @@ Kosterlitz and Thouless (1973) argued that above this temperature the spontaneou
 
 Nel 2016 il Premio Nobel per la Fisica è stato assegnato a tre fisici britannici John Kosterlitz, David Thouless e Duncan Haldane per il loro lavoro sulle fasi topologiche della materia e le transizioni di fase topologiche, che hanno avuto un grande impatto su molti settori della fisica. In questo esercizio passeremo attraverso alcune semplici considerazioni in un contesto meccanico statistico per illuminare alcune caratteristiche delle transizioni di fase topologiche. I difetti topologici nei sistemi fisici emergono come strutture puntologiche o a corda nello stato "ordinato" a bassa temperatura di sistemi che possiedono una simmetria continua, ad esempio. Ferromagneti, cristalli liquidi nematici, liquidi magnetici e superconduttori. I difetti topologici rilevanti dipendono dalla simmetria e dalla dimensione dello spazio, ma gli esempi più semplici si trovano nei ferromagneti 2D. Il modello simmetrico standard O(2) del ferromagnetismo su una rete 2D regolare (modello XY) assume la forma
 
-$$\mathcal{H} = -\frac{J}{2}\sum_{\langle ij \rangle} \vec{S}_i \vec{S}_j,\tag{2}$$
+$$
+\mathcal{H} = -\frac{J}{2}\sum_{\langle ij \rangle} \vec{S}_i \vec{S}_j,\tag{2}
+$$
 
 se ogni sito della reticola $i = 1, \ldots, N$ è dotato della variabile $\vec{S}_i = (\cos(\theta_i), \sin(\theta_i)) \in S^1$, $\theta_i$ è l'angolo tra $\vec{S}_i$ e l'asse x. $J > 0$ è la forza di accoppiamento vicina più vicina.
 
 **Problema 1: ** *2 punti* Mostra che a basse temperature Eq.(2) può essere approssimato con un modello continuo
 
-$$\mathcal{H} \approx \frac{K}{2}\frac{1}{a} = \frac{K}{2}\int d^2x \partial_\mu \theta(x)\partial_\mu \theta(x),\tag{3}$$
+$$
+\mathcal{H} \approx \frac{K}{2}\frac{1}{a} = \frac{K}{2}\int d^2x \partial_\mu \theta(x)\partial_\mu \theta(x),\tag{3}
+$$
 
 dove $\vec{x} = (x_1, x_2)$ e $\partial_\mu \theta = \frac{\partial \theta}{\partial x_\mu}, \mu = 1, 2$. $A$ è l'area, $z$ è il numero di coordinamento della reticola e $K = \frac{J}{a}$, dove $z$ è un fattore geometrico di unità di ordine a seconda della reticola considerata. Inoltre, Eq.(3) ha un limite di distanza breve $a$ che è l'intervallo della rete.
 
 **Problema 2: ** *2 punti * Verificare che le configurazioni energetiche più favorevoli del campo angolare $\theta(\vec{x})$ a basse temperature rispettino:
 
-$$\partial_\mu \partial_\mu \theta(x) = \nabla^2 \theta(x) = 0\tag{4}$$
+$$
+\partial_\mu \partial_\mu \theta(x) = \nabla^2 \theta(x) = 0\tag{4}
+$$
 
 Come $\theta(\vec{x})$ obbedire all'equazione 2D Laplace, - è un campo armonica. $\theta = \text{constant}$ è chiaramente una soluzione di Eq.(4), coerente con le nostre aspettative a $T = 0$. Mostra $N$ è possibile vogliamo in generale aspettarsi che il campo angolare associato $\theta$ lungo una curva chiusa $C$ obbedire
 
@@ -664,7 +708,9 @@ $$\vec{e}_\phi = (-\sin(\phi), \cos(\phi))\quad\text{and}\quad \nabla^2\theta(x)
 
 **Problema 3: ** *1 punto * Mostra che
 
-$$\theta(x_1, x_2) = \theta_0 + q\phi(x_1, x_2) = \theta_0 + q\tan^{-1}(x_2/x_1)\tag{6}$$
+$$
+\theta(x_1, x_2) = \theta_0 + q\phi(x_1, x_2) = \theta_0 + q\tan^{-1}(x_2/x_1)\tag{6}
+$$
 
 è una soluzione di Eq.(3) in $\mathbb{R}^2/0$ che soddisfa Eq.(5).
 
@@ -677,7 +723,9 @@ Le texture risultanti di $\vec{S}$ sono indicate nella figura 2 per $\theta_0 = 
 
 L'energia associata a queste texture difettose simili a particelle:
 
-$$\mathcal{H} = \frac{K}{2}\int_0^R \int_0^{2\pi} r\, dr\, d\phi (\nabla\theta)^2 = \pi q^2 K \ln(R/a)\tag{7}$$
+$$
+\mathcal{H} = \frac{K}{2}\int_0^R \int_0^{2\pi} r\, dr\, d\phi (\nabla\theta)^2 = \pi q^2 K \ln(R/a)\tag{7}
+$$
 
 in cui $R$ rappresenta la dimensione del sistema, ovvero $\pi R^2 = A$.
 
@@ -721,7 +769,9 @@ Kosterlitz e Thouless (1973) sostenevano che al di sopra di questa temperatura l
 
 A long range force like the electromagnetic force is mediated by massless gauge bosons. A force like the weak force is short range and its strength decreases exponentially with the distance. The mediating gauge bosons are massive. While the electromagnetic force is connected to the Coulomb potential, the weak force can be derived from the Yukawa potential
 
-$$V^{Yuk}(r) = \frac{e^{-\frac{r}{r_0}}r}{4\pi r}\tag{8}$$
+$$
+V^{Yuk}(r) = \frac{e^{-\frac{r}{r_0}}r}{4\pi r}\tag{8}
+$$
 
 where $M$ is the mass of the mediating gauge boson. The Yukawa potential is the solution of the Klein-Gordon equation for a scalar potential with a pointlike source at the origin.
 
@@ -731,17 +781,23 @@ The mechanism can be illustrated by looking at the example of a superconductor. 
 
 The relation between a magnetic field $\vec{B}$ and the superconducting current density $\vec{j}_s$ is given by the London equation:
 
-$$\nabla \times \vec{j}_s = -\frac{(2e)^2 n_s}{m_s c}\vec{B}\tag{9}$$
+$$
+\nabla \times \vec{j}_s = -\frac{(2e)^2 n_s}{m_s c}\vec{B}\tag{9}
+$$
 
 where $n_s = \frac{1}{2}n_e$ is the number density of the Cooper pairs $n_e$, the number density of the electrons associated to the superconductivity. The mass of a Cooper pair is denoted by $m_s = 2m_e$ and $m_e$ is the mass of the electron.
 
 a) *(2 points)* Assume a static case with
 
-$$\frac{\partial \vec{E}}{\partial t} = 0\tag{10}$$
+$$
+\frac{\partial \vec{E}}{\partial t} = 0\tag{10}
+$$
 
 and use the Maxwell's equations (in SI units) to derive
 
-$$\nabla^2 \vec{B} = \frac{\mu_0 (2e)^2 n_s}{m_s c}\vec{B}\tag{11}$$
+$$
+\nabla^2 \vec{B} = \frac{\mu_0 (2e)^2 n_s}{m_s c}\vec{B}\tag{11}
+$$
 
 where $\lambda$ is the penetration depth.
 
@@ -751,15 +807,21 @@ c) *(1 point)* Compare the given Yukawa potential and the found solution for the
 
 d) *(3 points)* Show that the vector potential $\vec{A}$ with $\vec{B} = \nabla \times \vec{A}$ in Coulomb gauge ($\nabla \cdot \vec{A} = 0$) fulfills
 
-$$-\nabla^2 \vec{A} = \mu_0 \vec{j}_s\tag{12}$$
+$$
+-\nabla^2 \vec{A} = \mu_0 \vec{j}_s\tag{12}
+$$
 
 Now, using the knowledge from before show that the time-independent Proca equation for a massive vector field,
 
-$$\left[-\nabla^2 + \mu_0 \left(\frac{c}{4}M\right)^2\right]\vec{A} = 0,\tag{13}$$
+$$
+\left[-\nabla^2 + \mu_0 \left(\frac{c}{4}M\right)^2\right]\vec{A} = 0,\tag{13}
+$$
 
 is fulfilled assuming an appropriate gauge (specify what you choose). Remark: This procedure can also be done for the time-dependent case where the vector potential fulfils the inhomogeneous wave equation
 
-$$\left[\frac{1}{c^2}\frac{\partial^2}{\partial t^2} - \nabla^2\right]\vec{A} = \vec{j}_s,\tag{14}$$
+$$
+\left[\frac{1}{c^2}\frac{\partial^2}{\partial t^2} - \nabla^2\right]\vec{A} = \vec{j}_s,\tag{14}
+$$
 
 which corresponds to the photons having mass.
 
@@ -767,11 +829,15 @@ e) *(2 points)* In the framework of the Higgs mechanism, it is assumed that ther
 
 In natural units ($\hbar = c = \mu_0 = 1$), we can write the current $\vec{j}$ in the massive gauge boson case with the gauge field $\vec{A}$ as
 
-$$\vec{j} = -g^2 v^2 \vec{A}\tag{16}$$
+$$
+\vec{j} = -g^2 v^2 \vec{A}\tag{16}
+$$
 
 where $g$ is the coupling strength and $v$ is the minimum (vacuum) of the potential
 
-$$V = \mu v^2 + \lambda v^4,\qquad \lambda > 0\tag{17}$$
+$$
+V = \mu v^2 + \lambda v^4,\qquad \lambda > 0\tag{17}
+$$
 
 where $\mu$ and $\lambda$ are real parameters of the Higgs potential and $\phi$ is the Higgs field. Which condition needs $\mu^2$ to fulfil so that a non-vanishing $v$ exists? What is the measured mass of the gauge boson? (You may use relations that have been useful before for relating the two pictures, the one of the mass and the one of the surface current.)
 
@@ -788,7 +854,9 @@ where $\mu$ and $\lambda$ are real parameters of the Higgs potential and $\phi$ 
 
 Una forza a lungo raggio come la forza elettromagnetica è mediata da bosoni di misura senza massa. Una forza come la forza debole è di breve raggio e la sua forza diminuisce esponenzialmente con la distanza. I bosoni di misura medianti sono massicci. Mentre la forza elettromagnetica è collegata al potenziale di Coulomb, la forza debole può essere derivata dal potenziale di Yukawa
 
-$$V^{Yuk}(r) = \frac{e^{-\frac{r}{r_0}}r}{4\pi r}\tag{8}$$
+$$
+V^{Yuk}(r) = \frac{e^{-\frac{r}{r_0}}r}{4\pi r}\tag{8}
+$$
 
 dove $M$ è la massa del bosone di misura mediante. Il potenziale di Yukawa è la soluzione dell'equazione di Klein-Gordon per un potenziale scalare con una fonte puntuale all'origine.
 
@@ -798,17 +866,23 @@ Il meccanismo può essere illustrato osservando l'esempio di un superconduttore.
 
 La relazione tra un campo magnetico $\vec{B}$ e la densità di corrente superconduttrice $\vec{j}_s$ è data dall'equazione di Londra:
 
-$$\nabla \times \vec{j}_s = -\frac{(2e)^2 n_s}{m_s c}\vec{B}\tag{9}$$
+$$
+\nabla \times \vec{j}_s = -\frac{(2e)^2 n_s}{m_s c}\vec{B}\tag{9}
+$$
 
 dove $n_s = \frac{1}{2}n_e$ è la densità numerica delle coppie Cooper $n_e$, la densità numerica degli elettroni associati alla superconduttura. La massa di una coppia di Cooper è indicata da $m_s = 2m_e$ e $m_e$ è la massa dell'elettrone.
 
 a) *(2 punti) * Supponiamo una cassa statica con
 
-$$\frac{\partial \vec{E}}{\partial t} = 0\tag{10}$$
+$$
+\frac{\partial \vec{E}}{\partial t} = 0\tag{10}
+$$
 
 e utilizzare le equazioni di Maxwell (in unità SI) per derivare
 
-$$\nabla^2 \vec{B} = \frac{\mu_0 (2e)^2 n_s}{m_s c}\vec{B}\tag{11}$$
+$$
+\nabla^2 \vec{B} = \frac{\mu_0 (2e)^2 n_s}{m_s c}\vec{B}\tag{11}
+$$
 
 dove $\lambda$ è la profondità di penetrazione.
 
@@ -818,15 +892,21 @@ c) *(1 punto) * Confronta il dato potenziale Yukawa e la soluzione trovata per i
 
 d) *(3 punti) * Mostra che il potenziale vettoriale $\vec{A}$ con $\vec{B} = \nabla \times \vec{A}$ nel calibro di Coulomb ($\nabla \cdot \vec{A} = 0$) è soddisfatto
 
-$$-\nabla^2 \vec{A} = \mu_0 \vec{j}_s\tag{12}$$
+$$
+-\nabla^2 \vec{A} = \mu_0 \vec{j}_s\tag{12}
+$$
 
 Ora, usando le conoscenze di prima mostrano che l'equazione di Proca indipendente dal tempo per un campo vettoriale massiccio,
 
-$$\left[-\nabla^2 + \mu_0 \left(\frac{c}{4}M\right)^2\right]\vec{A} = 0,\tag{13}$$
+$$
+\left[-\nabla^2 + \mu_0 \left(\frac{c}{4}M\right)^2\right]\vec{A} = 0,\tag{13}
+$$
 
 è soddisfatto assumendo un calibro appropriato (indicate cosa scegli). Nota: Questa procedura può essere eseguita anche per il caso di tempo-dipendente in cui il potenziale vettoriale soddisfa l'equazione d'onda inomogenea
 
-$$\left[\frac{1}{c^2}\frac{\partial^2}{\partial t^2} - \nabla^2\right]\vec{A} = \vec{j}_s,\tag{14}$$
+$$
+\left[\frac{1}{c^2}\frac{\partial^2}{\partial t^2} - \nabla^2\right]\vec{A} = \vec{j}_s,\tag{14}
+$$
 
 che corrisponde ai fotoni con massa.
 
@@ -834,11 +914,15 @@ e) *(2 punti) * Nel quadro del meccanismo di Higgs, si presume che vi sia un cam
 
 In unità naturali ($\hbar = c = \mu_0 = 1$), possiamo scrivere la corrente $\vec{j}$ nel caso di bosone di misura massiccia con il campo di misura $\vec{A}$ come
 
-$$\vec{j} = -g^2 v^2 \vec{A}\tag{16}$$
+$$
+\vec{j} = -g^2 v^2 \vec{A}\tag{16}
+$$
 
 in cui $g$ è la forza di accoppiamento e $v$ è il minimo (vacuo) del potenziale
 
-$$V = \mu v^2 + \lambda v^4,\qquad \lambda > 0\tag{17}$$
+$$
+V = \mu v^2 + \lambda v^4,\qquad \lambda > 0\tag{17}
+$$
 
 dove $\mu$ e $\lambda$ sono parametri reali del potenziale di Higgs e $\phi$ è il campo di Higgs. Which condition needs $\mu^2$ to fulfil so that a non-vanishing $v$ exists? Qual è la massa misurata del bosone di misura? (Si possono usare relazioni utili prima per collegare le due immagini, quella della massa e quella della corrente superficiale.)
 
@@ -1012,7 +1096,9 @@ The thickness of the ice is controlled by the rate at which the heat flow throug
 
 (c) *3 points* Hence show that the position of the freezing front is given by
 
-$$X(t) = \sqrt{2Kt}\tag{18}$$
+$$
+X(t) = \sqrt{2Kt}\tag{18}
+$$
 
 and find a formula for the constant K.
 
@@ -1064,7 +1150,9 @@ b) *2 punti* Utilizzi la legge della conduzione termico per ottenere un'espressi
 
 c) *3 punti* Indicano quindi che la posizione del fronte di congelamento è data da
 
-$$X(t) = \sqrt{2Kt}\tag{18}$$
+$$
+X(t) = \sqrt{2Kt}\tag{18}
+$$
 
 e trovare una formula per la costante K.
 

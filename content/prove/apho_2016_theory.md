@@ -73,7 +73,7 @@ The motion of the whole system is confined in the $x$-$y$ plane. The moment of i
 
 ### Meccanica di un Lattice Deformabile (Marchi totali: 20)
 
-Qui studiamo una rete deformabile appesa alla gravità che agisce come un pendolo fisico deformabile. Il Parlamento europeo ha adottato una proposta di risoluzione del Parlamento europeo. solo un modo per deformarlo e la configurazione è completamente descritta con un angolo $\alpha$. Tali strutture sono state studiate dal famoso fisico James Maxwell nel XIX secolo, e recentemente sono stati scoperti alcuni comportamenti sorprendenti.
+Qui studiamo un reticolo deformabile appeso in presenza di gravità, che si comporta come un pendolo fisico deformabile. Ha un solo grado di libertà, cioè un solo modo di deformarsi, e la configurazione è completamente descritta da un angolo $\alpha$. Tali strutture sono state studiate dal famoso fisico James Maxwell nel XIX secolo, e recentemente sono stati scoperti alcuni comportamenti sorprendenti.
 
 Come mostrato alla figura 1, le piastre triangolari identiche $N^2$ (triangolo rosso) sono liberamente inclinate da barre identiche e formano una rete $N \times N$ ($N > 1$). Le articolazioni dei vertici sono segnate da piccoli cerchi. I lati dei triangoli equilaterali e le barre hanno la stessa lunghezza $l$. Le linee tracciate nella figura rappresentano quattro tubi; ogni tubo limita i vertici $N$ (cerchi grigi) sul bordo e i vertici $N$ possono scivolare nel tubo, cioè Il tubo è come una rotaia scorrevole.
 

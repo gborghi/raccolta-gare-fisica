@@ -97,11 +97,11 @@ dove $d$ è la dimensione caratteristica della trappola. Per generare il campo q
 
 In genere $\omega_c \gg \omega_z$. Supponiamo questo per il resto del problema.
 
-**(c) ** Il movimento dell'elettrone nel piano $xy$ consiste in due movimenti circolari uniformi separati sovrapposti l'uno all'altro. Uno è il movimento dei ciclotroni e l'altro è il movimento dei magnetroni. Trova espressioni per le frequenze angolari del movimento del ciclotrone e del movimento del magnetrone, in termini di $\omega_z$ e $\omega_c$.
+**(c) ** Il movimento dell'elettrone nel piano $xy$ consiste in due movimenti circolari uniformi separati sovrapposti l'uno all'altro. Uno è il moto di ciclotrone e l'altro è il moto di magnetron. Trova espressioni per le frequenze angolari del movimento del ciclotrone e del movimento del magnetrone, in termini di $\omega_z$ e $\omega_c$.
 
 ### 1.2
 
-In questo caso, la Commissione ha deciso di adottare una decisione che non può essere adottata. In genere, il movimento dei magnetroni ha una frequenza molto inferiore al movimento dei ciclotroni, quindi il decadimento del movimento dei magnetroni è trascurabile. La potenza irradiata da una particella accelerante è:
+**(d)** Consideriamo ora gli effetti della radiazione. In genere il moto di magnetron ha una frequenza molto inferiore a quella del moto di ciclotrone, quindi lo smorzamento del moto di magnetron è trascurabile. La potenza irradiata da una particella accelerante è:
 $$P = \frac{q^2 a^2}{6\pi\varepsilon_0 c^3}.$$
 
 - L'energia dell'orbita decade come $e^{-t/\gamma_c}$. Trova $\gamma_c$.
@@ -120,11 +120,11 @@ Potresti ignorare il potenziale quadrupolo in questa parte.
 
 **(f) ** In conclusione, consideriamo come raffreddare il movimento del magnetrone (riducendo il suo raggio).
 
-- Trova l'energia totale del movimento dei magnetroni. Supponiamo $z = 0$.
+- Trova l'energia totale del moto di magnetron. Supponiamo $z = 0$.
 
-Il processo funziona così: L'energia di questi fotoni è $\hbar(\omega_z + \omega_m)$, che interagiscono con l'ion. I numeri quantistici del movimento $z$ e del movimento dei magnetroni siano rispettivamente $k$ e $l$. In seguito, la transizione di raffreddamento è da $(k, l) \to (k+1, l-1)$ e la transizione di riscaldamento è da $(k, l) \to (k-1, l+1)$. Usando la meccanica quantistica, possiamo derivare che queste accadono a tassi proporzionali rispettivamente a $(k+1)l$ e $k(l+1)$. Il movimento del magnetrone sarà raffreddato fino a $l = k$, punto in cui sarà in equilibrio, senza che la temperatura cambi a lungo termine.
+Il processo funziona così: si inviano fotoni di energia $\hbar(\omega_z + \omega_m)$, che interagiscono con lo ione. I numeri quantistici del movimento $z$ e del moto di magnetron siano rispettivamente $k$ e $l$. In seguito, la transizione di raffreddamento è da $(k, l) \to (k+1, l-1)$ e la transizione di riscaldamento è da $(k, l) \to (k-1, l+1)$. Usando la meccanica quantistica, possiamo derivare che queste accadono a tassi proporzionali rispettivamente a $(k+1)l$ e $k(l+1)$. Il movimento del magnetrone sarà raffreddato fino a $l = k$, punto in cui sarà in equilibrio, senza che la temperatura cambi a lungo termine.
 
-- Ora deriveremo l'energia di equilibrio del movimento dei magnetroni. Supponiamo che, a equilibrio, i movimenti axiali e magnetroni siano rispettivamente a temperature $T_z$ e $T_m$. Mentre continuiamo a illuminare i fotoni, consideriamo il cambiamento di entropia. Usare questo per derivare $T_m$ in termini di $\omega_m$, $\omega_z$ e $T_z$.
+- Ora deriveremo l'energia di equilibrio del moto di magnetron. Supponiamo che, a equilibrio, i movimenti axiali e magnetroni siano rispettivamente a temperature $T_z$ e $T_m$. Mentre continuiamo a illuminare i fotoni, consideriamo il cambiamento di entropia. Usare questo per derivare $T_m$ in termini di $\omega_m$, $\omega_z$ e $T_z$.
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1RJ_qIR9t_tKq42wNvZXZNUiF7sloXszn/view)
 **Topic:** [[Electromagnetism]], [[Electrostatics]]

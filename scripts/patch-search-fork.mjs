@@ -138,7 +138,7 @@ const HREF_REPLACEMENT = `itemTile.href = resolveBasePath(item.slug) + (item.fra
 
 // Boolean-query patch (AND/OR/NOT, -word, "phrase", parentheses + help hint) lives in
 // its own idempotent script; chain it here so every existing pipeline (CI + DEPLOY.md)
-// that runs this script also applies it.
+// that runs this script also applies it -- no workflow change needed.
 function applyBooleanPatch() {
   try {
     execFileSync(process.execPath, [path.join(__dirname, "patch-search-boolean.mjs")], {
@@ -162,6 +162,11 @@ function main() {
     return;
   }
 
+  // Boolean patch FIRST: in repos without scripts/rebuild-forks.mjs it recompiles
+  // dist/ itself, so it must run before this script's own src edits to keep their
+  // (pre-existing) build behaviour unchanged there. Anchors are independent.
+  applyBooleanPatch();
+
   const raw = fs.readFileSync(TARGET, "utf8");
   // The restored fork ships with CRLF line endings; normalize to LF for anchor
   // matching/replacement, then restore CRLF on write so the diff stays clean.
@@ -170,7 +175,6 @@ function main() {
 
   if (src.includes(SENTINEL)) {
     console.log("[patch-search-fork] already patched");
-    applyBooleanPatch();
     process.exit(0);
     return;
   }
@@ -201,7 +205,6 @@ function main() {
   console.log(
     "[patch-search-fork] applied: tiered mobile/desktop fetch + atom-fragment result links",
   );
-  applyBooleanPatch();
 }
 
 main();

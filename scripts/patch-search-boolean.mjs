@@ -142,6 +142,11 @@ function fail(msg) {
   process.exit(1)
 }
 
+function distHasPatch() {
+  const dist = path.join(FORK, "dist/index.js")
+  return fs.existsSync(dist) && fs.readFileSync(dist, "utf8").includes("rgf-search-help")
+}
+
 function rebuildIfNeeded() {
   if (process.env.RGF_SKIP_FORK_REBUILD === "1") return
   if (fs.existsSync(path.join(REPO, "scripts/rebuild-forks.mjs"))) {
@@ -166,7 +171,8 @@ function main() {
 
   if (src.includes(SENTINEL)) {
     console.log("[patch-search-boolean] already patched")
-    rebuildIfNeeded()
+    // re-runs are no-ops; recompile only if dist/ somehow lacks the patch
+    if (!distHasPatch()) rebuildIfNeeded()
     return
   }
   for (const e of EDITS) {

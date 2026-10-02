@@ -118,7 +118,9 @@ Ora, si consideri che l'area dei fori per unità di area $\rho(\theta)$ sia dist
 
 When light is incident upon a dielectric interface, it will be reflected and refracted, depending on the incident angle of the light and the refractive indices of the dielectric media as shown in **Fig. 1**. The refraction of light is governed by the Snell's law,
 
-$$n_1 \sin\phi_1 = n_2 \sin\phi_2 \tag{1}$$
+$$
+n_1 \sin\phi_1 = n_2 \sin\phi_2 \tag{1}
+$$
 
 where $n_1$ and $n_2$ are the refractive indices of the lower and upper parts of the boundary, $\phi_1$ and $\phi_2$ are the angles that the light ray makes with the normal of the boundary.
 
@@ -188,7 +190,9 @@ La legge di Snell
 
 Quando la luce incide su un'interfaccia dielettrica, essa sarà riflessa e refrattata, a seconda dell'angolo di incidenza della luce e degli indici di rifrazione dei mezzi dielettrici come mostrato nella figura **. 1**. La rifrazione della luce è governata dalla legge di Snell,
 
-$$n_1 \sin\phi_1 = n_2 \sin\phi_2 \tag{1}$$
+$$
+n_1 \sin\phi_1 = n_2 \sin\phi_2 \tag{1}
+$$
 
 se $n_1$ e $n_2$ sono gli indici di rifrazione delle parti inferiori e superiori del confine, $\phi_1$ e $\phi_2$ sono gli angoli che il raggio luminoso fa con la normalità del confine.
 

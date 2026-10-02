@@ -125,7 +125,9 @@ The state of the SET is sensitive to electrical potentials created by nearby ele
 
 The change in reflectance due to switching of an SET between ON and OFF states is
 
-$$\Delta\Gamma = |\Gamma_{\text{ON}} - \Gamma_{\text{OFF}}|, \tag{1}$$
+$$
+\Delta\Gamma = |\Gamma_{\text{ON}} - \Gamma_{\text{OFF}}|, \tag{1}
+$$
 
 where $\Gamma_{\text{ON}}$ and $\Gamma_{\text{OFF}}$ are the reflectances in two different states.
 
@@ -280,7 +282,9 @@ Lo stato del SET è sensibile ai potenziali elettrici creati da elementi vicini 
 
 La variazione della riflettività dovuta al passaggio di un SET tra stati ON e OFF è
 
-$$\Delta\Gamma = |\Gamma_{\text{ON}} - \Gamma_{\text{OFF}}|, \tag{1}$$
+$$
+\Delta\Gamma = |\Gamma_{\text{ON}} - \Gamma_{\text{OFF}}|, \tag{1}
+$$
 
 dove $\Gamma_{\text{ON}}$ e $\Gamma_{\text{OFF}}$ sono le riflessioni in due stati diversi.
 
@@ -377,7 +381,9 @@ Any of these parameters can be used in your answers to A1–4.
 
 The power carried by a jet is defined to be the sum of the total bulk kinetic energy flux and the total thermal energy flux, so
 
-$$P_j(s) = F_E(s) - \dot{M} c^2 \tag{1}$$
+$$
+P_j(s) = F_E(s) - \dot{M} c^2 \tag{1}
+$$
 
 where $F_E(s)$ is the flux of energy through the cross section of the jet at $s$, and $\dot{M}$ is the mass flux through the jet cross section at the same distance $s$ from the AGN.
 
@@ -422,7 +428,9 @@ As the electron is accelerated due to the magnetic field it emits electromagneti
 
 The total synchrotron power emitted is
 
-$$P_s = \frac{1}{6\pi\varepsilon_0} \left( \frac{q^4 B^2 \sin^2\phi}{m^4 c^5} \right) E^2 \tag{2}$$
+$$
+P_s = \frac{1}{6\pi\varepsilon_0} \left( \frac{q^4 B^2 \sin^2\phi}{m^4 c^5} \right) E^2 \tag{2}
+$$
 
 **C.4** Estimate the time, $\tau$, for an electron of energy $E$ to lose its energy through synchrotron cooling. *(0.2pt)*
 
@@ -430,7 +438,9 @@ $$P_s = \frac{1}{6\pi\varepsilon_0} \left( \frac{q^4 B^2 \sin^2\phi}{m^4 c^5} \r
 
 The distribution of electron energies in a jet from an AGN is typically a power law, of the form $f(\epsilon) = \kappa\epsilon^{-p}$, where $f(\epsilon)\,d\epsilon$ is the number density of particles with energies between $\epsilon$ and $\epsilon + d\epsilon$. The corresponding spectrum of synchrotron emission depends on the electron energy distribution, rather than the spectrum for an individual electron. This spectrum is
 
-$$j(\nu)\,d\nu \propto B^{(1+p)/2}\,\nu^{(1-p)/2}\,d\nu. \tag{3}$$
+$$
+j(\nu)\,d\nu \propto B^{(1+p)/2}\,\nu^{(1-p)/2}\,d\nu. \tag{3}
+$$
 
 Here $j(\nu)\,d\nu$ is the energy per unit volume emitted as photons with frequencies between $\nu$ and $\nu + d\nu$.
 
@@ -512,7 +522,9 @@ Qualsiasi di questi parametri può essere utilizzato nelle risposte a A14.
 
 La potenza trasportata da un getto è definita come la somma del flusso totale di energia cinetica a granellamento e del flusso totale di energia termica, quindi
 
-$$P_j(s) = F_E(s) - \dot{M} c^2 \tag{1}$$
+$$
+P_j(s) = F_E(s) - \dot{M} c^2 \tag{1}
+$$
 
 dove $F_E(s)$ è il flusso di energia attraverso la sezione trasversale del getto a $s$, e $\dot{M}$ è il flusso di massa attraverso la sezione trasversale del getto alla stessa distanza $s$ dall'AGN.
 
@@ -557,7 +569,9 @@ Quando l'elettrone viene accelerato a causa del campo magnetico emette radiazion
 
 La potenza totale emessa dal sincrotron è
 
-$$P_s = \frac{1}{6\pi\varepsilon_0} \left( \frac{q^4 B^2 \sin^2\phi}{m^4 c^5} \right) E^2 \tag{2}$$
+$$
+P_s = \frac{1}{6\pi\varepsilon_0} \left( \frac{q^4 B^2 \sin^2\phi}{m^4 c^5} \right) E^2 \tag{2}
+$$
 
 **C.4 ** Estimare il tempo, $\tau$, per un elettrone di energia $E$ per perdere la sua energia attraverso il raffreddamento a sincrotrone. *(0.2pt)*
 
@@ -565,7 +579,9 @@ $$P_s = \frac{1}{6\pi\varepsilon_0} \left( \frac{q^4 B^2 \sin^2\phi}{m^4 c^5} \r
 
 La distribuzione delle energie elettroniche in uno scarico da un AGN è tipicamente una legge di potenza, della forma $f(\epsilon) = \kappa\epsilon^{-p}$, dove $f(\epsilon)\,d\epsilon$ è la densità di numero di particelle con energie tra $\epsilon$ e $\epsilon + d\epsilon$. Lo spettro corrispondente di emissioni di sincrotroni dipende dalla distribuzione dell'energia degli elettroni, piuttosto che dallo spettro di un singolo elettrone. Questo spettro è
 
-$$j(\nu)\,d\nu \propto B^{(1+p)/2}\,\nu^{(1-p)/2}\,d\nu. \tag{3}$$
+$$
+j(\nu)\,d\nu \propto B^{(1+p)/2}\,\nu^{(1-p)/2}\,d\nu. \tag{3}
+$$
 
 Qui $j(\nu)\,d\nu$ è l'energia per unità di volume emessa come fotoni con frequenze tra $\nu$ e $\nu + d\nu$.
 
@@ -648,7 +664,9 @@ The third Euler angle $\psi$ describes the rotation of the top about its own sym
 The reference frame of the spinning top is defined as a new rotating frame $123$, which is reached by rotating $xyz$ by $\theta$ around $\hat{y}$: 'tilting' the $\hat{z}$-axis down by $\theta$ to meet the top's symmetry axis $\hat{3}$. The transformation from the $xyz$ frame to the $123$ frame is shown in Figure 3(b). In particular, $\hat{2} = \hat{y}$.
 
 > **NOTE:** For a reference frame $\tilde{K}$ rotating in inertial frame $K$ with angular velocity $\omega$, the time derivatives of a vector $\mathbf{A}$ within both frames $K$ and $\tilde{K}$ are related via:
-> $$\left(\frac{\partial \mathbf{A}}{\partial t}\right)_K = \left(\frac{\partial \mathbf{A}}{\partial t}\right)_{\tilde{K}} + \omega \times \mathbf{A} \tag{1}$$
+> $$
+> \left(\frac{\partial \mathbf{A}}{\partial t}\right)_K = \left(\frac{\partial \mathbf{A}}{\partial t}\right)_{\tilde{K}} + \omega \times \mathbf{A} \tag{1}
+> $$
 
 The motion that a Tippe top undergoes is complex, involving the time evolution of the three Euler angles, as well the translational velocities (or positions) and the motion of the top's symmetry axis. All of these parameters are coupled. To solve for the motion of a Tippe top, one would use standard tools including Newton's laws to prepare the system of equations, then program a computer to solve them numerically via simulation.
 
@@ -679,7 +697,9 @@ Use Figure 3 if this is helpful. Give your answer in the $xyz$ frame, and in the
 **A.8** Qualitatively sketch the following energy terms in the answer sheet as a function of time, over the top's motion through the five phases I to V shown in Figure 2: the total energy $E_T$, gravitational potential energy $U_G$, translational kinetic energy $K_T$, and rotational kinetic energy $K_R$. The energy axes of your sketches are not required to be to scale. *(2pt)*
 
 **A.9** Show that the components of the angular momentum $\mathbf{L}$ and angular velocity $\omega$ that are perpendicular to the $\hat{3}$ direction are proportional, i.e.
-$$\mathbf{L} \times \hat{3} = k(\omega \times \hat{3}), \tag{2}$$
+$$
+\mathbf{L} \times \hat{3} = k(\omega \times \hat{3}), \tag{2}
+$$
 and find the proportionality constant $k$. *(0.5pt)*
 
 Combining your answers to A.1 and A.2 with subsequent results will give you the magnitude $N$ of the normal force, as well as a system of equations, relating the Euler angles, the components $v_x$ and $v_y$ of the velocity at $A$, the unit vector for the axis of symmetry $\hat{3}$, and their time derivatives. This system is not integrable, but instead could be solved numerically.
@@ -741,7 +761,9 @@ Il terzo angolo di Euler $\psi$ descrive la rotazione della parte superiore into
 Il telaio di riferimento della parte superiore di rotazione è definito come un nuovo telaio rotante $123$, che si ottiene ruotando $xyz$ da $\theta$ attorno a $\hat{y}$: "inclinando" l'asse $\hat{z}$ verso il basso di $\theta$ per raggiungere l'asse di simmetria della parte superiore $\hat{3}$. La trasformazione dal telaio $xyz$ al telaio $123$ è mostrata alla figura 3(b). In particolare, $\hat{2} = \hat{y}$.
 
 > **Nota: ** Per un quadro di riferimento $\tilde{K}$ che ruota in quadro inerziale $K$ con velocità angolare $\omega$, le derivate temporali di un vettore $\mathbf{A}$ all'interno di entrambi i quadri $K$ e $\tilde{K}$ sono correlate tramite:
-> $$\left(\frac{\partial \mathbf{A}}{\partial t}\right)_K = \left(\frac{\partial \mathbf{A}}{\partial t}\right)_{\tilde{K}} + \omega \times \mathbf{A} \tag{1}$$
+> $$
+> \left(\frac{\partial \mathbf{A}}{\partial t}\right)_K = \left(\frac{\partial \mathbf{A}}{\partial t}\right)_{\tilde{K}} + \omega \times \mathbf{A} \tag{1}
+> $$
 
 Il movimento che un top di Tippe subisce è complesso, coinvolgendo l'evoluzione temporale dei tre angoli di Euler, nonché le velocità di traslazione (o posizioni) e il movimento dell'asse di simmetria della cima. Tutti questi parametri sono accoppiati. Per risolvere il movimento di una tippe top, si utilizzerebbe strumenti standard tra cui le leggi di Newton per preparare il sistema di equazioni, quindi programmare un computer per risolverli numericamente tramite simulazione.
 
@@ -772,7 +794,9 @@ Quale forza opera contro la gravità? Trova un'espressione per il tasso di cambi
 **A.8** Sfogliare qualitativamente i seguenti termini energetici nella scheda di risposta in funzione del tempo, sul movimento della parte superiore attraverso le cinque fasi I-V mostrate alla figura 2: l'energia totale $E_T$, l'energia potenziale gravitazionale $U_G$, l'energia cinetica traslazionale $K_T$ e l'energia cinetica rotazionale $K_R$. Gli assi energetici dei tuoi disegni non sono necessari per essere a scala. *(2pt)*
 
 **A.9** Mostra che le componenti del momento angolare $\mathbf{L}$ e della velocità angolare $\omega$ perpendicolari alla direzione $\hat{3}$ sono proporzionali, cioè
-$$\mathbf{L} \times \hat{3} = k(\omega \times \hat{3}), \tag{2}$$
+$$
+\mathbf{L} \times \hat{3} = k(\omega \times \hat{3}), \tag{2}
+$$
 e trovare la costante di proporzionalità $k$. *(0.5pt)*
 
 Combinando le risposte a A.1 e A.2 con i risultati successivi si ottiene la magnitudine $N$ della forza normale, nonché un sistema di equazioni, che si riferiscono agli angoli di Euler, alle componenti $v_x$ e $v_y$ della velocità a $A$, al vettore unitario per l'asse di simmetria $\hat{3}$ e alle loro derivate temporali. Questo sistema non è integrabile, ma potrebbe essere risolto numericamente.

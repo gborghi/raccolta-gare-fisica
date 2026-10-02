@@ -126,19 +126,27 @@ The origin of the reflected diffraction patterns from a regular grating like Sam
 
 Using wave optics, one can derive the following equations for the reflected diffraction patterns from Sample 3,
 
-$$y^{2} = \frac{(D\cos\phi + x\sin\phi)^{2}}{\cos^{2}\theta\,\cos^{2}\phi} - x^{2} - D^{2} \tag{1}$$
+$$
+y^{2} = \frac{(D\cos\phi + x\sin\phi)^{2}}{\cos^{2}\theta\,\cos^{2}\phi} - x^{2} - D^{2} \tag{1}
+$$
 
-$$x = \frac{D\,m\lambda\cos\phi}{a\cos\theta - m\lambda\sin\phi} , \tag{2}$$
+$$
+x = \frac{D\,m\lambda\cos\phi}{a\cos\theta - m\lambda\sin\phi} , \tag{2}
+$$
 
 where $\lambda$ is the wavelength of the incident laser beam and $m$ is the order number of diffraction. One can predict the $x$ and $y$ co-ordinates of the diffraction spots as a function of $\phi$ using Equations (1) and (2), which can be demonstrated to be consistent with the observed patterns recorded in Task (C1).
 
 Based on Equations (1) and (2), the diffraction spots for $\phi = 90°$ should lie along the $y$-axis at $x = 0$ with their $y$-coordinates expressed by the following equation:
 
-$$y = D\sqrt{\frac{a^{2}}{(a\cos\theta - m\lambda)^{2}} - 1} \tag{3}$$
+$$
+y = D\sqrt{\frac{a^{2}}{(a\cos\theta - m\lambda)^{2}} - 1} \tag{3}
+$$
 
 **D1** *(0.9 marks)* — Equation (3) can be rearranged to obtain a quadratic equation for the grating constant $a$ of Sample 3, as
 
-$$A a^{2} + B a + C = 0. \tag{4}$$
+$$
+A a^{2} + B a + C = 0. \tag{4}
+$$
 
 Derive the expressions for $A$, $B$ and $C$. Enter your results in the corresponding table in the answer sheet.
 
@@ -156,7 +164,9 @@ Attach a graph paper on the observation board. Ensure that the bottom axis of th
 
 **E2** *(1.6 marks)* — Based on Eq. (1) given in Task (D), construct a linear equation in the form of
 
-$$M(y, x, D, \theta) = I(D) + S(\phi^{*})\,x . \tag{5}$$
+$$
+M(y, x, D, \theta) = I(D) + S(\phi^{*})\,x . \tag{5}
+$$
 
 Determine the functional forms for $M(y, x, D, \theta)$, $I(D)$ and $S(\phi^{*})$. Plot $M$ against $x$, using the data recorded in E1. Determine the unknown angle $\phi^{*}$ in degrees from this graph. Write down all the functional forms and the value of $\phi^{*}$ in the corresponding table in the answer sheet.
 
@@ -190,7 +200,9 @@ Note that the spacing of the streaks in this figure, which can be measured using
 
 In taking the diffraction pattern shown in Figure 16, the accelerating voltage of the electron gun was set to be $V = 13{,}000$ volts. The corresponding wavelength $\lambda$ of the high-energy electrons incident to the center of the sample surface can be calculated by
 
-$$\lambda = \frac{12.247 \times 10^{-10}}{\sqrt{V(1 + 10^{-6}V)}}\ [\text{m}], \tag{6}$$
+$$
+\lambda = \frac{12.247 \times 10^{-10}}{\sqrt{V(1 + 10^{-6}V)}}\ [\text{m}], \tag{6}
+$$
 
 where the relativistic effect has been taken into account.
 
@@ -318,19 +330,27 @@ L'origine delle figure di diffrazione riflesse da un reticolo regolare come il C
 
 Usando l'ottica ondulatoria, si possono ricavare le seguenti equazioni per le figure di diffrazione riflesse dal Campione 3,
 
-$$y^{2} = \frac{(D\cos\phi + x\sin\phi)^{2}}{\cos^{2}\theta\,\cos^{2}\phi} - x^{2} - D^{2} \tag{1}$$
+$$
+y^{2} = \frac{(D\cos\phi + x\sin\phi)^{2}}{\cos^{2}\theta\,\cos^{2}\phi} - x^{2} - D^{2} \tag{1}
+$$
 
-$$x = \frac{D\,m\lambda\cos\phi}{a\cos\theta - m\lambda\sin\phi} , \tag{2}$$
+$$
+x = \frac{D\,m\lambda\cos\phi}{a\cos\theta - m\lambda\sin\phi} , \tag{2}
+$$
 
 dove $\lambda$ è la lunghezza d'onda del fascio laser incidente e $m$ è il numero d'ordine della diffrazione. Si possono prevedere le coordinate $x$ e $y$ delle macchie di diffrazione in funzione di $\phi$ usando le Equazioni (1) e (2), il che può essere dimostrato essere coerente con le figure osservate registrate nel Compito (C1).
 
 In base alle Equazioni (1) e (2), le macchie di diffrazione per $\phi = 90°$ dovrebbero giacere lungo l'asse $y$ a $x = 0$ con le loro coordinate $y$ espresse dalla seguente equazione:
 
-$$y = D\sqrt{\frac{a^{2}}{(a\cos\theta - m\lambda)^{2}} - 1} \tag{3}$$
+$$
+y = D\sqrt{\frac{a^{2}}{(a\cos\theta - m\lambda)^{2}} - 1} \tag{3}
+$$
 
 **D1** *(0,9 punti)* — L'Equazione (3) può essere riordinata per ottenere un'equazione di secondo grado per la costante reticolare $a$ del Campione 3, come
 
-$$A a^{2} + B a + C = 0. \tag{4}$$
+$$
+A a^{2} + B a + C = 0. \tag{4}
+$$
 
 Ricavare le espressioni per $A$, $B$ e $C$. Inserire i risultati nella tabella corrispondente del foglio delle risposte.
 
@@ -348,7 +368,9 @@ Attaccare una carta millimetrata sulla tavola di osservazione. Assicurarsi che l
 
 **E2** *(1,6 punti)* — In base all'Eq. (1) data nel Compito (D), costruire un'equazione lineare nella forma
 
-$$M(y, x, D, \theta) = I(D) + S(\phi^{*})\,x . \tag{5}$$
+$$
+M(y, x, D, \theta) = I(D) + S(\phi^{*})\,x . \tag{5}
+$$
 
 Determinare le forme funzionali per $M(y, x, D, \theta)$, $I(D)$ e $S(\phi^{*})$. Riportare in grafico $M$ in funzione di $x$, usando i dati registrati in E1. Determinare l'angolo incognito $\phi^{*}$ in gradi a partire da questo grafico. Scrivere tutte le forme funzionali e il valore di $\phi^{*}$ nella tabella corrispondente del foglio delle risposte.
 
@@ -382,7 +404,9 @@ Si noti che la spaziatura delle strisce in questa figura, che può essere misura
 
 Nel rilevare la figura di diffrazione mostrata nella Figura 16, la tensione di accelerazione del cannone elettronico fu impostata a $V = 13{,}000$ volt. La corrispondente lunghezza d'onda $\lambda$ degli elettroni ad alta energia incidenti al centro della superficie del campione può essere calcolata con
 
-$$\lambda = \frac{12.247 \times 10^{-10}}{\sqrt{V(1 + 10^{-6}V)}}\ [\text{m}], \tag{6}$$
+$$
+\lambda = \frac{12.247 \times 10^{-10}}{\sqrt{V(1 + 10^{-6}V)}}\ [\text{m}], \tag{6}
+$$
 
 dove si è tenuto conto dell'effetto relativistico.
 
@@ -449,7 +473,9 @@ Consider an ideal air-gap Fabry-Perot (FP) etalon as shown in Figure 10. The eta
 
 We use a two-beam interference approximation to model the air-gap etalon. A light beam (beam 0) incident on the top glass plate, neglecting the reflection from the air-glass interface of the top glass, is partially reflected (beam 1) and partially transmitted (refracted) at the glass-air interface. The transmitted (refracted) beam then gets reflected at the air-sample interface and then transmitted (refracted) through the top glass plate, which is labeled as beam 2 shown in Figure 10. For beam 2, the reflection at the air-sample interface picks up an additional phase shift $\phi_s$ while there is no phase shift at other interfaces. The resulting intensity of reflected light $I(\theta)$ for incident angle $\theta$ is the superposition of beams 1 and 2 given by:
 
-$$I(\theta) = I_1 + I_2 + 2\sqrt{I_1 I_2}\,\cos(2kL\cos\theta + \phi_s) , \tag{1}$$
+$$
+I(\theta) = I_1 + I_2 + 2\sqrt{I_1 I_2}\,\cos(2kL\cos\theta + \phi_s) , \tag{1}
+$$
 
 where $I_1$ and $I_2$ are the intensities of beams 1 and 2, respectively, $k = \dfrac{2\pi}{\lambda}$ is the wavenumber and $\lambda$ is the wavelength of the incident light. Equation (1) exhibits intensity peaks and troughs as a function of incident angle $\theta$ for fixed wavelength $\lambda$ and air-gap spacing $L$. In this experiment, we fix the polarization direction of the incident light and neglect polarization effects when the beam is reflected/refracted at the interfaces. Moreover, we use a Titanium (Ti)-coated glass plate as the bottom sample plate of the FP etalon.
 
@@ -545,7 +571,9 @@ Considerate un'etichetta Fabry-Perot (FP) ideale per il divario d'aria, come mos
 
 Usiamo un approccio di interferenza a due raggi per modellare l'etalon di distanza dell'aria. Un raggio di luce (raggio 0) che si verifica sulla piastra superiore del vetro, trascurando il riflesso dall'interfaccia vetro-aria del vetro superiore, si riflette parzialmente (raggio 1) e si trasmette parzialmente (rifratto) all'interfaccia vetro-aria. Il fascio trasmesso (rifrattato) viene poi riflettuto all'interfaccia campione di aria e quindi trasmesso (rifrattato) attraverso la piastra di vetro superiore, che è etichettata come fascio 2 mostrato nella figura 10. Per il fascio 2, il riflesso all'interfaccia campione di aria rileva un ulteriore spostamento di fase $\phi_s$ mentre non vi è alcun spostamento di fase ad altre interfacce. L'intensità di luce riflessa $I(\theta)$ risultante per l'angolo di incidenza $\theta$ è la sovrapposizione dei fasci 1 e 2 data da:
 
-$$I(\theta) = I_1 + I_2 + 2\sqrt{I_1 I_2}\,\cos(2kL\cos\theta + \phi_s) , \tag{1}$$
+$$
+I(\theta) = I_1 + I_2 + 2\sqrt{I_1 I_2}\,\cos(2kL\cos\theta + \phi_s) , \tag{1}
+$$
 
 se $I_1$ e $I_2$ sono rispettivamente le intensità dei fasci 1 e 2, $k = \dfrac{2\pi}{\lambda}$ è il numero d'onda e $\lambda$ è la lunghezza d'onda della luce incidentale. L'equazione (1) presenta picchi e minimi di intensità come funzione dell'angolo di incidenza $\theta$ per lunghezza d'onda fissa $\lambda$ e spaziamento tra gli spazi d'aria $L$. In questo esperimento, fissa la direzione di polarizzazione della luce incidente e trascura gli effetti di polarizzazione quando il fascio è riflesso/rifrattato alle interfacce. Inoltre, la piastra di campione inferiore dell'etalon FP è un'immagine di vetro rivestita di titanio (Ti).
 

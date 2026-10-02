@@ -531,7 +531,9 @@ The origin of a material's magnetic property is the magnetic moment from the ang
 
 We consider the problem of nuclear spin relaxation due to random fluctuation of other physical degrees of freedom such as lattice vibration or electron's magnetic dipole moments. In order to familiarize ourselves with a randomness in the solutions of a classical mechanics system, let us start with a forced harmonic oscillator of mass $m$ and angular frequency $\omega_0$. The energy of the oscillator changes because of the effect of a time-dependent external force.
 
-$$m\frac{d^2 q(t)}{dt^2} + m\omega_0^2 q(t) = F(t) \tag{1}$$
+$$
+m\frac{d^2 q(t)}{dt^2} + m\omega_0^2 q(t) = F(t) \tag{1}
+$$
 
 where the external force is given by the following step-wise function.
 
@@ -563,7 +565,9 @@ According to this equation, when $\vec{B}$ is constant the angular momentum $\ve
 
 Let us now consider turning on an oscillating magnetic field in xy-plane, in addition to a constant part along z-direction. The magnetic energy is then
 
-$$E = -\omega_0 S_z - \omega_1 \cos(\omega_2 t) S_x - \omega_1 \sin(\omega_2 t) S_y \tag{2}$$
+$$
+E = -\omega_0 S_z - \omega_1 \cos(\omega_2 t) S_x - \omega_1 \sin(\omega_2 t) S_y \tag{2}
+$$
 
 where $\omega_0, \omega_1$ are given by the relevant components of the magnetic field and $\gamma$, while $\omega_2$ is the frequency of the oscillating magnetic field. We assume $\omega_0, \omega_1, \omega_2$ are all positive. The equations for $\vec{S}$ are
 
@@ -626,7 +630,9 @@ L'origine della proprietà magnetica di un materiale è il momento magnetico dal
 
 Consideramo il problema della rilassamento dello spin nucleare dovuto a fluttuazioni casuali di altri gradi fisici di libertà come la vibrazione della griglia o i momenti di dipolo magnetico dell'elettrone. Per familiarizzare con una randomità nelle soluzioni di un sistema di meccanica classica, iniziamo con un oscillatore armonico forzato di massa $m$ e frequenza angolare $\omega_0$. L'energia dell'oscillato cambia a causa dell'effetto di una forza esterna dipendente dal tempo.
 
-$$m\frac{d^2 q(t)}{dt^2} + m\omega_0^2 q(t) = F(t) \tag{1}$$
+$$
+m\frac{d^2 q(t)}{dt^2} + m\omega_0^2 q(t) = F(t) \tag{1}
+$$
 
 quando la forza esterna è data dalla seguente funzione di passo.
 
@@ -658,7 +664,9 @@ Secondo questa equazione, quando $\vec{B}$ è costante, il momento angolare $\ve
 
 Consideriamo ora di attivare un campo magnetico oscillante in piano xy, oltre a una parte costante lungo la direzione z. L'energia magnetica è quindi
 
-$$E = -\omega_0 S_z - \omega_1 \cos(\omega_2 t) S_x - \omega_1 \sin(\omega_2 t) S_y \tag{2}$$
+$$
+E = -\omega_0 S_z - \omega_1 \cos(\omega_2 t) S_x - \omega_1 \sin(\omega_2 t) S_y \tag{2}
+$$
 
 in cui $\omega_0, \omega_1$ sono dati dalle componenti rilevanti del campo magnetico e $\gamma$, mentre $\omega_2$ è la frequenza del campo magnetico oscillante. Supponiamo che $\omega_0, \omega_1, \omega_2$ siano tutti positivi. Le equazioni per $\vec{S}$ sono:
 

@@ -277,16 +277,24 @@ The most simple dielectric waveguide is a planar slab with thickness $d$ and ref
 1. Find the necessary condition for the constructive phase matching.
 
 2. The wave can only be guided without loss for certain values of $\theta$. Show that in these cases, $\theta$ must satisfy the equations:
-$$k_1 d \cos\theta - \delta = m\pi; \qquad m = 1, 2, 3, \dots \tag{1}$$
+$$
+k_1 d \cos\theta - \delta = m\pi; \qquad m = 1, 2, 3, \dots \tag{1}
+$$
 Verify that the equations above can also be written as:
-$$\sqrt{u^2 + v^2} = \frac{k_0 d}{2}\sqrt{n_1^2 - n_2^2}, \tag{2}$$
-$$u \tan u = v \quad \text{or} \quad -u \cot u = v, \tag{3}$$
+$$
+\sqrt{u^2 + v^2} = \frac{k_0 d}{2}\sqrt{n_1^2 - n_2^2}, \tag{2}
+$$
+$$
+u \tan u = v \quad \text{or} \quad -u \cot u = v, \tag{3}
+$$
 with $u = \frac{k_1 d}{2}\cos\theta$ and $v = \frac{d}{2}\sqrt{k_1^2 \sin^2\theta - k_2^2}$.
 
 ### 3. Maxwell's Equations
 
 The Maxwell wave equation for the electric field in a dielectric medium of relative permittivity $\varepsilon$ is
-$$\left(\frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2}\right)\mathbf{E}(\mathbf{r}, t) = \mu_0 \varepsilon \varepsilon_0 \frac{\partial^2 \mathbf{E}(\mathbf{r}, t)}{\partial t^2}. \tag{4}$$
+$$
+\left(\frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2}\right)\mathbf{E}(\mathbf{r}, t) = \mu_0 \varepsilon \varepsilon_0 \frac{\partial^2 \mathbf{E}(\mathbf{r}, t)}{\partial t^2}. \tag{4}
+$$
 
 <!--fig:start-->
 ![[WoPhO_2011_Q4_p2_f1.png]]
@@ -294,7 +302,9 @@ $$\left(\frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \fra
 <!--fig:end-->
 
 In the case of the slab waveguide shown in the figure above, $\varepsilon = n_1^2$ for $0 < z < d$, and $\varepsilon = n_2^2$ for $z < 0$ or $z > d$. Taking the system coordinates such that the wave travels in the $xz$-plane, the electric field can be generally written as
-$$\mathbf{E}(\mathbf{r}, t) = \mathbf{E}(x, z, t) = \mathbf{E}(z) \exp i(\beta x - \omega t), \tag{5}$$
+$$
+\mathbf{E}(\mathbf{r}, t) = \mathbf{E}(x, z, t) = \mathbf{E}(z) \exp i(\beta x - \omega t), \tag{5}
+$$
 where $\beta$ is the effective propagation constant along the waveguide due to the translational symmetry of the structure in the $x$-direction. In the case of waveguiding the TE polarized wave ($\mathbf{E}(z) = E(z)\hat{y}$), $\mathbf{E}(\mathbf{r}, t)$ should be simple harmonic inside the slab and decay exponentially outside.
 
 1. What is the relation of $\beta$ to $k_1$ and $\theta$?
@@ -310,17 +320,25 @@ The waveguide mode solutions are solutions of $\theta$ where waveguiding occurs 
 1. Sketch the functions in eqs. (2)-(3) in $(u, v)$ coordinates. Determine the necessary condition for only one mode solution to exist.
 
 2. Show that the maximum number of modes supported by the dielectric slab is
-$$M = \left\lceil \frac{k_0 d}{\pi}\sqrt{n_1^2 - n_2^2} \right\rceil, \tag{6}$$
+$$
+M = \left\lceil \frac{k_0 d}{\pi}\sqrt{n_1^2 - n_2^2} \right\rceil, \tag{6}
+$$
 where the $\lceil\ \rceil$ symbol denotes the ceiling function for which the expression inside is increased to the nearest integer.
 
 3. Verify the number of mode solutions is incremented by one for every increase of frequency:
-$$\Delta\omega = \frac{\pi c}{d\sqrt{n_1^2 - n_2^2}}. \tag{7}$$
+$$
+\Delta\omega = \frac{\pi c}{d\sqrt{n_1^2 - n_2^2}}. \tag{7}
+$$
 
 4. From eq.1, show that the group velocity ($d\omega/d\beta$) of each supported mode solution is
-$$v_g = \frac{d \tan\theta + \frac{\partial \delta}{\partial \beta}}{\frac{n_1 d}{c \cos\theta} - \frac{\partial \delta}{\partial \omega}}. \tag{8}$$
+$$
+v_g = \frac{d \tan\theta + \frac{\partial \delta}{\partial \beta}}{\frac{n_1 d}{c \cos\theta} - \frac{\partial \delta}{\partial \omega}}. \tag{8}
+$$
 
 5. Show that the maximum time disparity for different modes in the dielectric slab waveguide to travel a distance $L$ is
-$$\tau = \frac{L}{c}(n_1 - n_2). \tag{9}$$
+$$
+\tau = \frac{L}{c}(n_1 - n_2). \tag{9}
+$$
 
 6. For $n_1 = 1.7$, $n_2 = 1.5$, $\lambda = 800$ nm (in vacuum), and $d = 1$ μm, find all the mode solutions for $\theta$ (with $\theta > \theta_c$). Plot the electric field $E(z)$ for these solutions.
 
@@ -360,16 +378,24 @@ La guida d'onda dielettrica più semplice è una lastra planare di spessore $d$ 
 1. Trova la condizione necessaria per l'accordo di fase costruttivo.
 
 2. L'onda può essere guidata senza perdite solo per certi valori di $\theta$. Mostra che in questi casi $\theta$ deve soddisfare le equazioni:
-$$k_1 d \cos\theta - \delta = m\pi; \qquad m = 1, 2, 3, \dots \tag{1}$$
+$$
+k_1 d \cos\theta - \delta = m\pi; \qquad m = 1, 2, 3, \dots \tag{1}
+$$
 Verifica che le equazioni precedenti possono essere scritte anche come:
-$$\sqrt{u^2 + v^2} = \frac{k_0 d}{2}\sqrt{n_1^2 - n_2^2}, \tag{2}$$
-$$u \tan u = v \quad \text{or} \quad -u \cot u = v, \tag{3}$$
+$$
+\sqrt{u^2 + v^2} = \frac{k_0 d}{2}\sqrt{n_1^2 - n_2^2}, \tag{2}
+$$
+$$
+u \tan u = v \quad \text{or} \quad -u \cot u = v, \tag{3}
+$$
 con $u = \frac{k_1 d}{2}\cos\theta$ e $v = \frac{d}{2}\sqrt{k_1^2 \sin^2\theta - k_2^2}$.
 
 ### 3. Equazioni di Maxwell
 
 L'equazione d'onda di Maxwell per il campo elettrico in un mezzo dielettrico di permittività relativa $\varepsilon$ è
-$$\left(\frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2}\right)\mathbf{E}(\mathbf{r}, t) = \mu_0 \varepsilon \varepsilon_0 \frac{\partial^2 \mathbf{E}(\mathbf{r}, t)}{\partial t^2}. \tag{4}$$
+$$
+\left(\frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2}\right)\mathbf{E}(\mathbf{r}, t) = \mu_0 \varepsilon \varepsilon_0 \frac{\partial^2 \mathbf{E}(\mathbf{r}, t)}{\partial t^2}. \tag{4}
+$$
 
 <!--fig:start-->
 ![[WoPhO_2011_Q4_p2_f1.png]]
@@ -377,7 +403,9 @@ $$\left(\frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \fra
 <!--fig:end-->
 
 Nel caso della guida d'onda a lastra mostrata nella figura precedente, $\varepsilon = n_1^2$ per $0 < z < d$, e $\varepsilon = n_2^2$ per $z < 0$ o $z > d$. Scegliendo le coordinate del sistema in modo che l'onda viaggi nel piano $xz$, il campo elettrico può essere scritto in generale come
-$$\mathbf{E}(\mathbf{r}, t) = \mathbf{E}(x, z, t) = \mathbf{E}(z) \exp i(\beta x - \omega t), \tag{5}$$
+$$
+\mathbf{E}(\mathbf{r}, t) = \mathbf{E}(x, z, t) = \mathbf{E}(z) \exp i(\beta x - \omega t), \tag{5}
+$$
 dove $\beta$ è la costante di propagazione effettiva lungo la guida d'onda dovuta alla simmetria traslazionale della struttura nella direzione $x$. Nel caso della guida dell'onda con polarizzazione TE ($\mathbf{E}(z) = E(z)\hat{y}$), $\mathbf{E}(\mathbf{r}, t)$ deve essere armonica semplice all'interno della lastra e decadere esponenzialmente all'esterno.
 
 1. Qual è la relazione tra $\beta$ e $k_1$ e $\theta$?
@@ -393,17 +421,25 @@ Le soluzioni dei modi della guida d'onda sono le soluzioni di $\theta$ per cui l
 1. Traccia le funzioni nelle eq. (2)-(3) nelle coordinate $(u, v)$. Determina la condizione necessaria affinché esista una sola soluzione di modo.
 
 2. Mostra che il numero massimo di modi supportati dalla lastra dielettrica è
-$$M = \left\lceil \frac{k_0 d}{\pi}\sqrt{n_1^2 - n_2^2} \right\rceil, \tag{6}$$
+$$
+M = \left\lceil \frac{k_0 d}{\pi}\sqrt{n_1^2 - n_2^2} \right\rceil, \tag{6}
+$$
 dove il simbolo $\lceil\ \rceil$ indica la funzione di arrotondamento per eccesso, per cui l'espressione al suo interno è aumentata all'intero più vicino.
 
 3. Verifica che il numero di soluzioni di modo aumenta di uno per ogni incremento di frequenza:
-$$\Delta\omega = \frac{\pi c}{d\sqrt{n_1^2 - n_2^2}}. \tag{7}$$
+$$
+\Delta\omega = \frac{\pi c}{d\sqrt{n_1^2 - n_2^2}}. \tag{7}
+$$
 
 4. A partire dall'eq. 1, mostra che la velocità di gruppo ($d\omega/d\beta$) di ciascuna soluzione di modo supportata è
-$$v_g = \frac{d \tan\theta + \frac{\partial \delta}{\partial \beta}}{\frac{n_1 d}{c \cos\theta} - \frac{\partial \delta}{\partial \omega}}. \tag{8}$$
+$$
+v_g = \frac{d \tan\theta + \frac{\partial \delta}{\partial \beta}}{\frac{n_1 d}{c \cos\theta} - \frac{\partial \delta}{\partial \omega}}. \tag{8}
+$$
 
 5. Mostra che la massima differenza di tempo, per i diversi modi nella guida d'onda a lastra dielettrica, per percorrere una distanza $L$ è
-$$\tau = \frac{L}{c}(n_1 - n_2). \tag{9}$$
+$$
+\tau = \frac{L}{c}(n_1 - n_2). \tag{9}
+$$
 
 6. Per $n_1 = 1.7$, $n_2 = 1.5$, $\lambda = 800$ nm (nel vuoto) e $d = 1$ μm, trova tutte le soluzioni di modo per $\theta$ (con $\theta > \theta_c$). Traccia il campo elettrico $E(z)$ per queste soluzioni.
 

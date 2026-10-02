@@ -915,11 +915,13 @@ MSK1/> Per qualsiasi rete di circuiti realizzata in batterie e resistenti, se co
 
 **The Final Countdown.** A model of cancer tumor dynamics under a low-dose chemotherapy consists of three non-negative variables $(P, Q, R)$, in which $P$ represents the cancer tumor size, $Q$ represents the (normalized) carrying capability of the tumor vasculature network, and $R$ represents the local (normalized) activity of the immunology system:
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 \frac{\mathrm{d}}{\mathrm{d}t}P &= \xi P \ln\frac{Q}{P} - \theta P R - \varphi_1 P C \;, \\
 \frac{\mathrm{d}}{\mathrm{d}t}Q &= bP - \left(\mu + dP^{2/3}\right)Q - \varphi_2 QC \;, \\
 \frac{\mathrm{d}}{\mathrm{d}t}R &= \alpha\left(P - \beta P^2\right)R + \gamma - \delta R + \varphi_3 RC \;.
-\end{aligned}$$
+\end{aligned}
+$$
 
 Here, $C$ is the local concentration of chemotherapeutic agent at the tumor site, which we can assume to follow by a simple pharmacokinetics model:
 
@@ -940,11 +942,13 @@ where $U$ is the rate of chemotherapy drug administrated to the patient body. Le
 
 **Il conto alla rovescia finale.** Un modello della dinamica di un tumore canceroso in presenza di una chemioterapia a basso dosaggio è costituito da tre variabili non negative $(P, Q, R)$, in cui $P$ rappresenta la dimensione del tumore, $Q$ rappresenta la capacità portante (normalizzata) della rete vascolare del tumore e $R$ rappresenta l'attività locale (normalizzata) del sistema immunitario:
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 \frac{\mathrm{d}}{\mathrm{d}t}P &= \xi P \ln\frac{Q}{P} - \theta P R - \varphi_1 P C \;, \\
 \frac{\mathrm{d}}{\mathrm{d}t}Q &= bP - \left(\mu + dP^{2/3}\right)Q - \varphi_2 QC \;, \\
 \frac{\mathrm{d}}{\mathrm{d}t}R &= \alpha\left(P - \beta P^2\right)R + \gamma - \delta R + \varphi_3 RC \;.
-\end{aligned}$$
+\end{aligned}
+$$
 
 Qui $C$ è la concentrazione locale dell'agente chemioterapico nel sito del tumore, che possiamo assumere segua un semplice modello farmacocinetico:
 

@@ -23,7 +23,9 @@ tags:
 
 Magnetoresistance is the dependence of electrical resistance of a sample on the strength of an external magnetic field. It is characterized by the following formula:
 
-$$\delta(B) = \frac{R(B) - R(0)}{R(0)} \tag{1}$$
+$$
+\delta(B) = \frac{R(B) - R(0)}{R(0)} \tag{1}
+$$
 
 where $R(B)$ is the resistance of the sample in the magnetic field $B$, and $R(0)$ corresponds to $B = 0$; $\delta(B)$ is called the relative change of resistance.
 
@@ -203,7 +205,9 @@ In order to study the effect of a flux concentrator on a magnetic sensor, we use
 
 Once the sensor with a flux concentrator is put in a uniform magnetic field of magnitude $B_0$, the effective magnetic field acting on the sensor is $B$. In a not very large range of change of $L_1$, $B$ can be approximately found by using the empirical formula:
 
-$$\frac{B}{B_0} = n\frac{L_2}{L_1} + 1 \tag{2}$$
+$$
+\frac{B}{B_0} = n\frac{L_2}{L_1} + 1 \tag{2}
+$$
 
 You are asked to perform an experiment with the magnetic sensor and the two ferromagnetic sheets [18] to determine the value of $n$ in formula (2).
 
@@ -330,7 +334,9 @@ Before using the sensor, its cable needs to be plugged to the sensor connection 
 
 La resistenza magnetica è la dipendenza della resistenza elettrica di un campione dalla forza di un campo magnetico esterno. Si caratterizza per la seguente formula:
 
-$$\delta(B) = \frac{R(B) - R(0)}{R(0)} \tag{1}$$
+$$
+\delta(B) = \frac{R(B) - R(0)}{R(0)} \tag{1}
+$$
 
 dove $R(B)$ è la resistenza del campione nel campo magnetico $B$ e $R(0)$ corrisponde a $B = 0$; $\delta(B)$ si chiama variazione relativa della resistenza.
 
@@ -510,7 +516,9 @@ Il programma di valutazione del rischio di rischio di rischio di rischio di risc
 
 Una volta che il sensore con concentratore di flusso è inserito in un campo magnetico uniforme di magnitudo $B_0$, il campo magnetico effettivo che agisce sul sensore è $B$. In un intervallo di variazione non molto ampio di $L_1$, $B$ può essere trovato approssimativamente utilizzando la formula empirica:
 
-$$\frac{B}{B_0} = n\frac{L_2}{L_1} + 1 \tag{2}$$
+$$
+\frac{B}{B_0} = n\frac{L_2}{L_1} + 1 \tag{2}
+$$
 
 Vi viene chiesto di eseguire un esperimento con il sensore magnetico e i due fogli ferromagnetici [18] per determinare il valore di $n$ nella formula (2).
 

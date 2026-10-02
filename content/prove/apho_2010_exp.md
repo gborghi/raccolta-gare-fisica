@@ -270,7 +270,7 @@ Come mostrato nella figura. I-1, l'estremità libera di una canna può oscillars
 
 $$Q = \frac{f_R}{\Delta f}$$
 
-dove $\Delta f$ è la larghezza completa alla metà massima della curva $P_{av}$$f$, come mostrato nella figura. I-2, i.e. $\Delta f = f_2 - f_1$ con $f_1$ e $f_2$ corrispondenti a $\dfrac{P_{max}}{2}$ sul lato inferiore e sul lato superiore della frequenza di risonanza rispettivamente.
+dove $\Delta f$ è la larghezza completa alla metà massima della curva $P_{av}$–$f$, come mostrato nella figura. I-2, i.e. $\Delta f = f_2 - f_1$ con $f_1$ e $f_2$ corrispondenti a $\dfrac{P_{max}}{2}$ sul lato inferiore e sul lato superiore della frequenza di risonanza rispettivamente.
 
 - Non è vero. I-1. Una canna vibrante.](../_attaccamenti/APhO_2010_exp/APhO_2010_exp_Q1_p6_f1.png)
 

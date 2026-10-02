@@ -276,9 +276,13 @@ $$\frac{d^2}{dt^2}\theta = \omega\frac{d\omega}{d\theta}$$
 **The Bohr's molecule** — Deadline April 30, 2012
 
 In 1913 Niels Bohr published his famous model of the hydrogen atom explaining for the first time the Rydberg's formula for the emission spectrum of atomic hydrogen. According to the Bohr's model, the electron in the hydrogen atom revolves around the positively charged nucleus along one of the allowed 'stationary' orbits satisfying the condition:
-$$L = n\frac{h}{2\pi}, \tag{1}$$
+$$
+L = n\frac{h}{2\pi}, \tag{1}
+$$
 where $L$ is the electron's angular momentum, $n = 1, 2, \ldots$ is a positive integer number, and $h = 6.626 \times 10^{-34}\ \text{J·s}$ is the Planck's constant. For the sake of simplicity we will use also the 'reduced' Planck's constant $\hbar = 1.055 \times 10^{-34}\ \text{J·s}$. Thus, the quantization condition (1) could be rewritten in the form:
-$$L = n\hbar. \tag{2}$$
+$$
+L = n\hbar. \tag{2}
+$$
 
 ![[WoPhO_2012_Q3_p1_f1.png]]
 **Figure 1:** Stationary electronic orbits for different molecules as suggested by Niels Bohr in 1913.
@@ -331,7 +335,9 @@ The bonding energy $E_b$ of a molecule is defined as the minimum energy required
 In practice atomic nuclei in a molecule are not at rest but vibrate around their equilibrium positions. These vibrations persist even at temperatures close to $0\ \text{K}$ due to the quantum nature of atomic motion. Therefore, as the temperature tends to $0\ \text{K}$, the energy and the amplitude of atomic vibrations tend to specific minimum values.
 
 Since the protons are much heavier than the electrons, the velocities of the electrons in a molecule are several orders of magnitude higher than the nuclear velocities. For that reason, it is assumed in molecular physics that in each moment of time the electrons move along stationary orbits corresponding to the instantaneous positions of the protons as if the latter were at rest. According to this approximation the effective potential energy $E$ of the hydrogen molecule (does not include the kinetic energy of the protons) is a function of the instantaneous distance $R$ between protons. The effective potential energy of the molecule when the atoms are at an infinite distance is taken to be zero. It is not possible to derive an exact expression for the function $E(R)$ even in the frame of the Bohr's model. Instead, this function can be approximated by several expressions, whose applicability is justified on an experimental basis. In this task we will adopt the so called Morse function:
-$$E(R) = D\left(e^{2\alpha(1-R/R_0)} - 2e^{\alpha(1-R/R_0)}\right) \tag{3}$$
+$$
+E(R) = D\left(e^{2\alpha(1-R/R_0)} - 2e^{\alpha(1-R/R_0)}\right) \tag{3}
+$$
 where $D$ and $\alpha$ are positive constants.
 
 *Remark:* If you did not calculate $R_0$ and $E_b$ in points (1D) and (1E), use in this task the following values instead: $R_0 = 0.6\ \text{Å}$ and $E_b = 3.0\ \text{eV}$.
@@ -364,9 +370,13 @@ In a particular experiment an ampoule containing molecular hydrogen is illuminat
 **The Bohr's molecule** — Deadline April 30, 2012
 
 Nel 1913 Niels Bohr pubblicò il suo famoso modello dell'atomo di idrogeno spiegando per la prima volta la formula di Rydberg per lo spettro di emissioni dell'idrogeno atomico. Secondo il modello di Bohr, l'elettrone nell'atomo di idrogeno ruota intorno al nucleo carico positivamente lungo una delle orbite 'stazionarie' consentite soddisfacendo la condizione:
-$$L = n\frac{h}{2\pi}, \tag{1}$$
+$$
+L = n\frac{h}{2\pi}, \tag{1}
+$$
 dove $L$ è il momento angolare dell'elettrone, $n = 1, 2, \ldots$ è un numero intero positivo e $h = 6.626 \times 10^{-34}\ \text{J·s}$ è la costante di Planck. Per semplificazione, utilizzeremo anche la costante di Planck $\hbar = 1.055 \times 10^{-34}\ \text{J·s}$ "ridotta". La condizione di quantizzazione (1) potrebbe quindi essere riscritta sotto la forma:
-$$L = n\hbar. \tag{2}$$
+$$
+L = n\hbar. \tag{2}
+$$
 
 ![[WoPhO_2012_Q3_p1_f1.png]]
 **Figura 1: ** Orbit elettroniche stazionarie per diverse molecole come suggerito da Niels Bohr nel 1913.
@@ -419,7 +429,9 @@ L'energia di legame $E_b$ di una molecola è definita come l'energia minima nece
 In pratica i nuclei atomici di una molecola non sono a riposo ma vibranti intorno alle loro posizioni di equilibrio. Queste vibrazioni persistono anche a temperature vicine a $0\ \text{K}$ a causa della natura quantistica del movimento atomico. Pertanto, poiché la temperatura tende a $0\ \text{K}$, l'energia e l'ampiezza delle vibrazioni atomiche tendono a valori minimi specifici.
 
 Poiché i protoni sono molto più pesanti degli elettroni, le velocità degli elettroni in una molecola sono di diversi ordini di grandezza superiori alle velocità nucleari. Per questo motivo, nella fisica molecolare si assume che in ogni momento del tempo gli elettroni si muovono lungo orbite stazionarie corrispondenti alle posizioni istantanee dei protoni come se questi ultimi fossero in riposo. Secondo questa approssimazione l'energia potenziale effettiva $E$ della molecola di idrogeno (non include l'energia cinetica dei protoni) è una funzione della distanza istantanea $R$ tra i protoni. L'energia potenziale efficace della molecola quando gli atomi sono a una distanza infinita è considerata zero. Non è possibile derivare un'espressione esatta per la funzione $E(R)$ anche nel quadro del modello di Bohr. Invece, questa funzione può essere approssimata da diverse espressioni, la cui applicabilità è giustificata su base sperimentale. In questo compito adotteremo la cosiddetta funzione di Morse:
-$$E(R) = D\left(e^{2\alpha(1-R/R_0)} - 2e^{\alpha(1-R/R_0)}\right) \tag{3}$$
+$$
+E(R) = D\left(e^{2\alpha(1-R/R_0)} - 2e^{\alpha(1-R/R_0)}\right) \tag{3}
+$$
 dove $D$ e $\alpha$ sono costanti positive.
 
 *Ricerca: * Se non si calcola $R_0$ e $E_b$ nei punti (1D) e (1E), utilizzare in questo compito i seguenti valori: $R_0 = 0.6\ \text{Å}$ e $E_b = 3.0\ \text{eV}$.
@@ -470,7 +482,9 @@ To begin with, consider processes involving a liquid and vapour in a single pore
 **1.A.** Find the mass of vapour $m_{S0}$ in the pore.
 
 On heating a fraction of water evaporates and the vapour content in the pore increases. The saturated vapour pressure depends on temperature as follows:
-$$p = p_0\, e^{\frac{ML}{R}\left(\frac{1}{T_0} - \frac{1}{T}\right)}, \tag{1}$$
+$$
+p = p_0\, e^{\frac{ML}{R}\left(\frac{1}{T_0} - \frac{1}{T}\right)}, \tag{1}
+$$
 where $p_0$ is the pressure at temperature $T_0$.
 
 The saturated vapour pressure variation near a curved surface of water can be neglected.
@@ -482,7 +496,9 @@ Let the vapour mass be equal to $m_S$ at a certain temperature $T$. The temperat
 **1.C.** Considering the temperature change to be small ($\Delta T/T \ll 1$), write down the expression for the vapour mass change ($\Delta m_S(T)$).
 
 *Hint.* Use the following approximations valid for $x \ll 1$:
-$$e^x \approx 1 + x \qquad \text{and} \qquad (1+x)^\alpha \approx 1 + \alpha x. \tag{2}$$
+$$
+e^x \approx 1 + x \qquad \text{and} \qquad (1+x)^\alpha \approx 1 + \alpha x. \tag{2}
+$$
 
 **1.D.** How does the heat capacity $C_P(T)$ of the pore contents depend on temperature? Assume that the water does not evaporate completely.
 
@@ -493,7 +509,9 @@ At temperature $T_0 = 3.0 \times 10^2\ \text{K}$, the saturated vapour pressure 
 **1.F.** Estimate the values of all terms in the expression for heat capacity of pore content $C_P(T)$. Write down the expression for $C_P(T)$ retaining only the two most significant summands. What is the physical meaning of these terms?
 
 Let's define the specific heat capacity of the pore contents as a ratio of heat capacity of the pore contents to the mass of the pore contents:
-$$c_p = \frac{C_p}{m_W + m_S} \tag{3}$$
+$$
+c_p = \frac{C_p}{m_W + m_S} \tag{3}
+$$
 
 **1.G.** Calculate the values of the specific heat capacity for the pore contents at $T = T_0$, $T \to T_1$, and $T > T_1$.
 
@@ -534,7 +552,9 @@ Per cominciare, consideriamo i processi che coinvolgono un liquido e vapore in u
 **1.A.** Trova la massa del vapore $m_{S0}$ nel poro.
 
 Il riscaldamento fa evaporare una frazione dell'acqua e aumenta il contenuto di vapore nei pori. La pressione di vapore saturazione dipende dalla temperatura come segue:
-$$p = p_0\, e^{\frac{ML}{R}\left(\frac{1}{T_0} - \frac{1}{T}\right)}, \tag{1}$$
+$$
+p = p_0\, e^{\frac{ML}{R}\left(\frac{1}{T_0} - \frac{1}{T}\right)}, \tag{1}
+$$
 dove $p_0$ è la pressione a temperatura $T_0$.
 
 La variazione della pressione del vapore saturo vicino a una superficie curva dell'acqua può essere trascurata.
@@ -546,7 +566,9 @@ La massa del vapore deve essere pari a $m_S$ a una certa temperatura $T$. La tem
 **1.C.** Considerando che il cambiamento di temperatura è piccolo ($\Delta T/T \ll 1$), annotare l'espressione per il cambiamento di massa del vapore ($\Delta m_S(T)$).
 
 *Signore.* Utilizzare le seguenti approssimazioni valide per $x \ll 1$:
-$$e^x \approx 1 + x \qquad \text{and} \qquad (1+x)^\alpha \approx 1 + \alpha x. \tag{2}$$
+$$
+e^x \approx 1 + x \qquad \text{and} \qquad (1+x)^\alpha \approx 1 + \alpha x. \tag{2}
+$$
 
 **1.D.** How does the heat capacity $C_P(T)$ of the pore contents depend on temperature? Supponiamo che l'acqua non evapori completamente.
 
@@ -557,7 +579,9 @@ A temperatura $T_0 = 3.0 \times 10^2\ \text{K}$, la pressione di vapore saturazi
 **1.F.** Estimare i valori di tutti i termini nell'espressione per la capacità termico del contenuto di pori $C_P(T)$. Scrivere l'espressione per $C_P(T)$ che conserva solo le due sommand più significative. Qual è il significato fisico di questi termini?
 
 Definitiamo la capacità termico specifica del contenuto dei pori come rapporto tra la capacità termico del contenuto dei pori e la massa del contenuto dei pori:
-$$c_p = \frac{C_p}{m_W + m_S} \tag{3}$$
+$$
+c_p = \frac{C_p}{m_W + m_S} \tag{3}
+$$
 
 **1.G.** Calcolare i valori della capacità termica specifica dei porosi a $T = T_0$, $T \to T_1$ e $T > T_1$.
 
@@ -749,7 +773,9 @@ The ocean floor seismic rupture suddenly displaces a large body of water above i
 ### Part 2. Speed of tsunami
 
 Tsunami wave, in the open ocean, has small amplitude ($a \sim 5\ \text{m}$), extremely long wavelength ($\lambda \sim 100\ \text{km}$) and travels on a very deep ocean ($d \sim 5\ \text{km}$). Thus, surprisingly, tsunami can be considered as "shallow water waves" where $a \ll d \ll \lambda$. Here the speed of tsunami (or phase velocity) is given as:
-$$v = \sqrt{gd} \tag{1}$$
+$$
+v = \sqrt{gd} \tag{1}
+$$
 
 Let us make a very simple derivation of the tsunami speed by using a simple model of one half tsunami wave using a water tank model as shown below. The water is tilting back and forth from left to right given a slight initial imbalance of height. Thus the height $a$ will oscillate with time. Let us assume that the width of the water tank is half the wavelength of the tsunami wave $\lambda$. The length of water tank is $L$. Note: For tsunami (shallow water) wave, we assume: $a \ll d \ll \lambda$.
 
@@ -837,7 +863,9 @@ La rottura sismica del fondo oceanico sposta improvvisamente un grande corpo d'a
 ### Parte 2. Velocità dello tsunami
 
 L'onda tsunami, nell'oceano aperto, ha una piccola amplitudine ($a \sim 5\ \text{m}$), lunghezza d'onda estremamente lunga ($\lambda \sim 100\ \text{km}$) e viaggia su un oceano molto profondo ($d \sim 5\ \text{km}$). Pertanto, sorprendentemente, i tsunami possono essere considerati "onde di acqua poco profonda" dove $a \ll d \ll \lambda$. Qui la velocità dello tsunami (o velocità di fase) è data come:
-$$v = \sqrt{gd} \tag{1}$$
+$$
+v = \sqrt{gd} \tag{1}
+$$
 
 Facciamo una derivazione molto semplice della velocità del tsunami utilizzando un modello semplice di una metà di onda di tsunami utilizzando un modello di serbatoio d'acqua come mostrato di seguito. L'acqua si tende avanti e indietro da sinistra a destra, dato un lieve squilibrio iniziale di altezza. In questo modo l'altezza $a$ oscilla nel tempo. Let us assume that the width of the water tank is half the wavelength of the tsunami wave $\lambda$. La lunghezza del serbatoio d'acqua è $L$. Nota: per l'onda di tsunami (acqua bassa) supponiamo: $a \ll d \ll \lambda$.
 
@@ -963,7 +991,9 @@ As the old proverb goes, "seeing is believing", and since seeing depends on ligh
 ### Part 1. Cameras
 
 **1.A.** A perfectly reflecting mirror moves at a relativistic speed $v$ in a direction normal to the plane of its surface. At a certain moment, a narrow beam of light strikes the mirror at an angle of incidence $\alpha$. Determine the angle of reflection $\beta$ of the beam, and show that in the limit of small angles, the ratio of $\alpha$ and $\beta$ is given by
-$$\frac{\alpha}{\beta} = \frac{c+v}{c-v} \tag{1}$$
+$$
+\frac{\alpha}{\beta} = \frac{c+v}{c-v} \tag{1}
+$$
 
 ![[WoPhO_2012_Q8_p1_f1.png]]
 
@@ -1014,7 +1044,9 @@ Come dice il vecchio proverbio, "vedere è credere", e poiché vedere dipende da
 ### Parte 1. Cammere
 
 **1.A.** Uno specchio perfettamente riflesso si muove a velocità relativistica $v$ in una direzione normale al piano della sua superficie. In un certo momento, un raggio di luce stretta colpisce lo specchio ad un angolo di incidenza $\alpha$. Determinare l'angolo di riflessione $\beta$ del fascio e mostrare che nel limite di angoli piccoli, il rapporto tra $\alpha$ e $\beta$ è dato da
-$$\frac{\alpha}{\beta} = \frac{c+v}{c-v} \tag{1}$$
+$$
+\frac{\alpha}{\beta} = \frac{c+v}{c-v} \tag{1}
+$$
 
 ![[WoPhO_2012_Q8_p1_f1.png]]
 
@@ -1181,7 +1213,9 @@ The Moon's gravitational pull is commonly known to be among the main reasons for
 The only objects considered in the problem are Earth and Moon. The influence of the Sun and the rest of planets in the solar system will be neglected (except for question 2.G where the Earth-Sun system is considered). Assume also that the Earth surface is completely covered by water and the ocean floor doesn't prevent the water movement. You should solve the problem in terms of gravitational potential.
 
 Potential of the gravitational field is the ratio between the potential energy of a material point placed into the gravitational field and the mass of the point. It is analogous to the electric potential. The gravitational potential of the point mass $m$ at a distance $r$ from it is:
-$$\varphi = -\frac{Gm}{r} + \text{const} \tag{1}$$
+$$
+\varphi = -\frac{Gm}{r} + \text{const} \tag{1}
+$$
 where $G = 6.67 \times 10^{-11}\ \text{N·m}^2/\text{s}^2$ gravitational constant.
 
 The arbitrary constant is governed by conditions of the potential normalization. The value of the constant does not matter, so while solving the problem, one can drop all the constants from expressions for the gravitational potential.
@@ -1241,7 +1275,9 @@ La forza gravitazionale della Luna è comunemente nota per essere tra le princip
 Gli unici oggetti considerati nel problema sono la Terra e la Luna. L'influenza del Sole e del resto dei pianeti del sistema solare sarà trascurata (ad eccezione della domanda 2.G, in cui viene considerato il sistema Terra-Sol). Supponiamo anche che la superficie terrestre sia completamente coperta da acqua e il fondo oceanico non impedisca il movimento dell'acqua. Dovresti risolvere il problema in termini di potenziale gravitazionale.
 
 Il potenziale del campo gravitazionale è il rapporto tra l'energia potenziale di un punto materiale inserito nel campo gravitazionale e la massa del punto. È analogo al potenziale elettrico. Il potenziale gravitazionale della massa puntaria $m$ a distanza $r$ da essa è:
-$$\varphi = -\frac{Gm}{r} + \text{const} \tag{1}$$
+$$
+\varphi = -\frac{Gm}{r} + \text{const} \tag{1}
+$$
 dove $G = 6.67 \times 10^{-11}\ \text{N·m}^2/\text{s}^2$ è costante gravitazionale.
 
 La costante arbitraria è governata dalle condizioni della normalizzazione potenziale. Il valore della costante non conta, quindi, mentre si risolve il problema, si possono eliminare tutte le costanti dalle espressioni per il potenziale gravitazionale.

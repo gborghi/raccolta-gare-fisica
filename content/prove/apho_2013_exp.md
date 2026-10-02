@@ -79,21 +79,27 @@ We will explore basic theoretical aspects of wind power and power conversion eff
 
 **[A.1]** Consider a packet of air with mass density $\rho_A$ flowing through a tube with a cross section area $A_0$ as shown in Figure 3(a). Show that the power contained in the wind is:
 
-$$P_W = \frac{1}{2}\,\rho_A\,A_0\,v_0^{\,n} \tag{1}$$
+$$
+P_W = \frac{1}{2}\,\rho_A\,A_0\,v_0^{\,n} \tag{1}
+$$
 
 What is the value of $n$? We will also determine $n$ experimentally in part B.2.
 [0.4 pt]
 
 **[A.2]** Now consider a wind turbine with a rotor area $A_0$, intercepting a tubular section of the wind of the same cross section area as shown in Figure 3(b). The velocity at the rotor can be assumed to be $(v_0 + v_2)/2$. The maximum power that can be extracted by the wind turbine can be written as:
 
-$$P_R = \frac{1}{4}\,\rho_A\,A_0\,(v_0 + v_2)\,(v_0^2 - v_2^2) \tag{2}$$
+$$
+P_R = \frac{1}{4}\,\rho_A\,A_0\,(v_0 + v_2)\,(v_0^2 - v_2^2) \tag{2}
+$$
 
 The downstream wind slows down by a factor $\lambda$, where $\lambda = v_2/v_0$. For the turbine to extract maximum power, $\lambda$ cannot be too low (as the wind flow will stop) or too high (which means the turbine captures very little power from the wind). Find the optimum value of $\lambda$ that will yield the maximum power for the wind turbine.
 [0.4 pt]
 
 **[A.3]** We define rotor efficiency (or power coefficient) $C_P$ as the power that can be extracted by the rotor of the wind turbine $P_R$ over the available wind power $P_W$:
 
-$$C_P = \frac{P_R}{P_W} \tag{3}$$
+$$
+C_P = \frac{P_R}{P_W} \tag{3}
+$$
 
 Based on your answer in question A.2, find the maximum value of $C_P$. This value is called Betz efficiency[^2] which sets the theoretical limit of maximum power conversion efficiency of a wind turbine.
 [0.2 pt]
@@ -122,7 +128,9 @@ Measuring the rotation speed of the motor or wind turbine is important in wind p
 
 The wind speed inside the tunnel is mainly determined by the rotation frequency ($f_M$) of the wind generator motor. The relationship between the wind speed (measured at the center of the tunnel) and the motor frequency has been measured as shown in Figure 5 below and follows a simple linear relationship:
 
-$$v = 0.0873\ \text{meter} \times f_M \tag{4}$$
+$$
+v = 0.0873\ \text{meter} \times f_M \tag{4}
+$$
 
 ![[APhO_2013_exp_p5_f1.png]]
 *Figure 5. Wind velocity (at the center of the tunnel) vs. the motor fan rotation frequency.*
@@ -139,7 +147,9 @@ Measuring wind speed is a primary metrology activity in wind power engineering. 
 
 The principle of operation is very simple, the wind will impose a drag force and deflect the ping pong pendulum by an angle $\theta$. This drag force is given by:
 
-$$F_D = \frac{1}{2}\,C_D\,\rho_A\,A_B\,v^{\,m} \tag{5}$$
+$$
+F_D = \frac{1}{2}\,C_D\,\rho_A\,A_B\,v^{\,m} \tag{5}
+$$
 
 where $C_D$ is the drag coefficient of the object, $\rho_A$ is the density of the fluid (air), $A_B$ is the cross section of the ping pong ball, $v$ is the velocity of the ball relative to the fluid and $m$ is the power factor. Mass of the ping pong ball $m_B$ (in gram) is written on the ball as shown in Figure 6(c). Please refer to Constants & Data on pg. 2 for other data.
 
@@ -165,7 +175,9 @@ The ping pong ball anemometer we studied just now is not really suitable for pra
 
 We use a metal (tungsten) filament from an ordinary light bulb where the bulb is intentionally broken to expose the filament. For a small change of temperature, the filament resistance follows a linear relationship:
 
-$$R_w = R_0\,[1 + \alpha\,(T_w - T_0)] \tag{6}$$
+$$
+R_w = R_0\,[1 + \alpha\,(T_w - T_0)] \tag{6}
+$$
 
 where $R_w$ is the filament's resistance at temperature $T_w$, $R_0$ is the resistance at temperature $T_0$ and $\alpha$ is the temperature coefficient of the resistance. For tungsten, the value is $\alpha = 4.5\times10^{-3}\ /^{\circ}\text{C}$.
 
@@ -175,13 +187,17 @@ Consider the case where the filament is heated by external power such as by elec
 
 $$Q_{input} = Q_{\text{forced convection}} + Q_{\text{natural convection}} + Q_{\text{conduction}} + P_{\text{radiation}},$$
 
-$$V_W\,I_W = h'\,A_W\,(T_W - T_0) + Q_{nc} + Q_{\text{conduction}} + A_W\,\sigma\,\varepsilon\,(T_W^4 - T_0^4) \tag{7}$$
+$$
+V_W\,I_W = h'\,A_W\,(T_W - T_0) + Q_{nc} + Q_{\text{conduction}} + A_W\,\sigma\,\varepsilon\,(T_W^4 - T_0^4) \tag{7}
+$$
 
 where $A_W$ is the surface area of the filament, $T_0$ the room/surrounding temperature (presumably the original temperature of the filament), $\sigma$ the Stefan-Boltzmann constant, $\varepsilon$ the emissivity and $h'$ the forced convection heat transfer coefficient.
 
 For the forced convection of the hot wire filament, the forced convection process can be expressed as King's law: $h' = a' + b\,v^{\,c}$, where $a'$ and $b$ are constants and $c$ is the power factor of the wind velocity. The filament's length is much larger than its width hence the heat transfer by means of conduction can be ignored. For small temperature difference ($T_w \sim T_0$), $T_w^4 - T_0^4 \sim T_0^3\,(T_w - T_0)$, so the radiation heat transfer can be written as $4\,A_W\,\sigma\,\varepsilon\,T_0^3\,(T_W - T_0) \to k\,(T_W - T_0)$ and $Q_{nc}$ can be considered constant. After taking into account all these we can rewrite Eq. (6) as:
 
-$$V_W\cdot I_W = (a + b\,v^{\,c})\,(T_W - T_0) \tag{8}$$
+$$
+V_W\cdot I_W = (a + b\,v^{\,c})\,(T_W - T_0) \tag{8}
+$$
 
 with $a = a' + Q_{nc}/(T_w - T_0) + 4\,A_W\,\sigma\,\varepsilon\,T_0^3$.
 
@@ -208,18 +224,24 @@ First we balance the bridge by tuning the potentiometer (POT) to set the $V_{CAL
 
 The following formula is used in the constant temperature experiment:
 
-$$\frac{V_W^2}{R_W} = (a + b\,v^{\,c})\,(T_w - T_0) \tag{9}$$
+$$
+\frac{V_W^2}{R_W} = (a + b\,v^{\,c})\,(T_w - T_0) \tag{9}
+$$
 
 with $V_W$ and $R_W$ being the potential and resistance across the hotwire. We do not measure the hotwire potential, instead we measure the potential drop through the Wheatstone bridge ($V_{INPUT}$). With this substitution, Eq. 9 above can be rewritten as:
 
-$$V_{INPUT}^2 = A + B\,v^{\,c} \tag{10}$$
+$$
+V_{INPUT}^2 = A + B\,v^{\,c} \tag{10}
+$$
 
 **[D.1.1]** Find an expression for $A$ and $B$.
 [0.4 pt]
 
 Eq. 10 can be rewritten into a linear form that you can use in linear regression:
 
-$$y = \ln\frac{b}{a} + c\,\ln v \tag{11}$$
+$$
+y = \ln\frac{b}{a} + c\,\ln v \tag{11}
+$$
 
 **[D.1.2]** What is $y$?
 [0.3 pt]
@@ -246,7 +268,9 @@ The constant current experiment is done by keeping the current through the hotwi
 
 The following formula is used for the constant current experiment:
 
-$$\frac{V_W}{I_W} = \frac{R_0 + \alpha\,R_0\,(R_W - R_0)}{a + b\,v^{\,c}} \tag{12}$$
+$$
+\frac{V_W}{I_W} = \frac{R_0 + \alpha\,R_0\,(R_W - R_0)}{a + b\,v^{\,c}} \tag{12}
+$$
 
 which is obtained from Eq. 8 with the following substitution:
 
@@ -254,7 +278,9 @@ $$T_w - T_0 = \frac{R_w - R_0}{\alpha\,R_0}.$$
 
 In this experiment, we first need to measure $R_0$, which is done when there is no wind ($v = 0$). Eq. (12) can be rewritten as:
 
-$$\frac{R_W\,V_W}{I_W} = R_0 + k\,V_W \tag{13}$$
+$$
+\frac{R_W\,V_W}{I_W} = R_0 + k\,V_W \tag{13}
+$$
 
 **[D.2.1]** Find an expression for $k$.
 [0.2 pt]
@@ -275,7 +301,9 @@ $$\frac{R_W\,V_W}{I_W} = R_0 + k\,V_W \tag{13}$$
 
 Now we are ready to determine $b/a$ and $c$ like in the constant temperature case. Rewrite Eq. 12 into the following form:
 
-$$y = \ln\frac{b}{a} + c\,\ln v \tag{14}$$
+$$
+y = \ln\frac{b}{a} + c\,\ln v \tag{14}
+$$
 
 **[D.2.3]** What is $y$ in this case?
 [0.2 pt]
@@ -303,7 +331,9 @@ One factor that determines the efficiency of a wind turbine is the external load
 
 One key parameter that influences the wind turbine efficiency is the Tip Speed Ratio (TSR), which is defined as:
 
-$$\text{TSR} = \frac{\Omega\,R}{v} \tag{15}$$
+$$
+\text{TSR} = \frac{\Omega\,R}{v} \tag{15}
+$$
 
 where $\Omega$ is the angular speed of the blade, $R$ is the radius of the blade swept area and $v$ is the wind speed coming on the rotor at the tip of the blade. We assume the wind speed is uniform across the cross section of the tunnel.
 
@@ -408,21 +438,27 @@ Esploreremo gli aspetti teorici di base dell'energia eolica e dell'efficienza di
 
 **[A.1]** Si consideri un pacchetto di aria con densità di massa $\rho_A$ che scorre attraverso un tubo con un'area di sezione trasversale $A_0$ come mostrato alla figura 3(a). Mostra che la potenza contenuta nel vento è:
 
-$$P_W = \frac{1}{2}\,\rho_A\,A_0\,v_0^{\,n} \tag{1}$$
+$$
+P_W = \frac{1}{2}\,\rho_A\,A_0\,v_0^{\,n} \tag{1}
+$$
 
 Qual è il valore di $n$? Determineremo anche $n$ sperimentalmente nella parte B.2.
 [0.4 pt]
 
 **[A.2]** Ora consideriamo una turbina eolica con una superficie del rotore $A_0$, che intercetta una sezione tubulare del vento della stessa area di sezione trasversale come mostrato nella figura 3(b). La velocità al rotore può essere presumita di $(v_0 + v_2)/2$. La potenza massima che può essere estratta dalla turbina eolica può essere scritta come:
 
-$$P_R = \frac{1}{4}\,\rho_A\,A_0\,(v_0 + v_2)\,(v_0^2 - v_2^2) \tag{2}$$
+$$
+P_R = \frac{1}{4}\,\rho_A\,A_0\,(v_0 + v_2)\,(v_0^2 - v_2^2) \tag{2}
+$$
 
 Il vento a valle rallenta di un fattore $\lambda$, dove $\lambda = v_2/v_0$. Per ottenere la potenza massima della turbina, $\lambda$ non può essere troppo bassa (perché il flusso di vento si fermerà) o troppo alta (il che significa che la turbina cattura molto poco potere dal vento). Trova il valore ottimale di $\lambda$ che permetterà di ottenere la potenza massima per la turbina eolica.
 [0.4 pt]
 
 **[A.3]** Definisce l'efficienza del rotore (o il coefficiente di potenza) $C_P$ come la potenza che può essere estratti dal rotore della turbina eolica $P_R$ rispetto alla potenza eolica disponibile $P_W$:
 
-$$C_P = \frac{P_R}{P_W} \tag{3}$$
+$$
+C_P = \frac{P_R}{P_W} \tag{3}
+$$
 
 Sulla base della risposta alla domanda A.2, trovare il valore massimo di $C_P$. Questo valore è chiamato efficienza Betz[^2] che fissa il limite teorico dell'efficienza massima di conversione di potenza di una turbina eolica.
 [0.2 pt]
@@ -451,7 +487,9 @@ La misurazione della velocità di rotazione del motore o della turbina eolica è
 
 La velocità del vento all'interno del tunnel è determinata principalmente dalla frequenza di rotazione ($f_M$) del motore del generatore di vento. La relazione tra la velocità del vento (misurata al centro del tunnel) e la frequenza del motore è stata misurata come mostrato nella figura 5 di seguito e segue una semplice relazione lineare:
 
-$$v = 0.0873\ \text{meter} \times f_M \tag{4}$$
+$$
+v = 0.0873\ \text{meter} \times f_M \tag{4}
+$$
 
 ![[APhO_2013_exp_p5_f1.png]]
 *Figura 5. Velocità del vento (al centro del tunnel) vs. la frequenza di rotazione del ventilatore del motore.*
@@ -468,7 +506,9 @@ La misurazione della velocità del vento è un'attività primaria di metrologia 
 
 Il principio di funzionamento è molto semplice, il vento impone una forza di trazione e devia il pendolo del ping pong da un angolo $\theta$. Questa forza di trazione è data da:
 
-$$F_D = \frac{1}{2}\,C_D\,\rho_A\,A_B\,v^{\,m} \tag{5}$$
+$$
+F_D = \frac{1}{2}\,C_D\,\rho_A\,A_B\,v^{\,m} \tag{5}
+$$
 
 se $C_D$ è il coefficiente di resistenza dell'oggetto, $\rho_A$ è la densità del fluido (aria), $A_B$ è la sezione trasversale della palla di ping pong, $v$ è la velocità della palla rispetto al fluido e $m$ è il fattore di potenza. La massa della palla di ping pong $m_B$ (in grammi) è scritta sulla palla come mostrato alla figura 6(c). Si prega di consultare Constants & Data su pag. 2 per altri dati.
 
@@ -494,7 +534,9 @@ L'anemometro di palline di ping-pong che abbiamo appena studiato non è proprio 
 
 Utilizziamo un filamento di metallo (tungsten) da una lampadina ordinaria dove la lampadina viene intenzionalmente rotta per esporre il filamento. Per un piccolo cambiamento di temperatura, la resistenza del filamento segue una relazione lineare:
 
-$$R_w = R_0\,[1 + \alpha\,(T_w - T_0)] \tag{6}$$
+$$
+R_w = R_0\,[1 + \alpha\,(T_w - T_0)] \tag{6}
+$$
 
 se $R_w$ è la resistenza del filamento a temperatura $T_w$, $R_0$ è la resistenza a temperatura $T_0$ e $\alpha$ è il coefficiente di temperatura della resistenza. Per il tungsteno, il valore è $\alpha = 4.5\times10^{-3}\ /^{\circ}\text{C}$.
 
@@ -504,13 +546,17 @@ Si consideri il caso in cui il filamento è riscaldato da una potenza esterna, c
 
 $$Q_{input} = Q_{\text{forced convection}} + Q_{\text{natural convection}} + Q_{\text{conduction}} + P_{\text{radiation}},$$
 
-$$V_W\,I_W = h'\,A_W\,(T_W - T_0) + Q_{nc} + Q_{\text{conduction}} + A_W\,\sigma\,\varepsilon\,(T_W^4 - T_0^4) \tag{7}$$
+$$
+V_W\,I_W = h'\,A_W\,(T_W - T_0) + Q_{nc} + Q_{\text{conduction}} + A_W\,\sigma\,\varepsilon\,(T_W^4 - T_0^4) \tag{7}
+$$
 
 se $A_W$ è la superficie del filamento, $T_0$ la temperatura ambiente/circondante (presumibilmente la temperatura originale del filamento), $\sigma$ la costante Stefan-Boltzmann, $\varepsilon$ l'emissività e $h'$ il coefficiente di trasferimento di calore convezione forzata.
 
 Per la convezione forzata del filamento di filo caldo, il processo di convezione forzata può essere espresso come legge di King: $h' = a' + b\,v^{\,c}$, dove $a'$ e $b$ sono costanti e $c$ è il fattore di potenza della velocità del vento. La lunghezza del filamento è molto maggiore della sua larghezza e quindi il trasferimento di calore tramite conduttività può essere ignorato. Per una piccola differenza di temperatura ($T_w \sim T_0$), $T_w^4 - T_0^4 \sim T_0^3\,(T_w - T_0)$, quindi il trasferimento di calore da radiazione può essere scritto come $4\,A_W\,\sigma\,\varepsilon\,T_0^3\,(T_W - T_0) \to k\,(T_W - T_0)$ e $Q_{nc}$ può essere considerato costante. Dopo aver preso in considerazione tutti questi possiamo riscrivere Eq. (6) as:
 
-$$V_W\cdot I_W = (a + b\,v^{\,c})\,(T_W - T_0) \tag{8}$$
+$$
+V_W\cdot I_W = (a + b\,v^{\,c})\,(T_W - T_0) \tag{8}
+$$
 
 con $a = a' + Q_{nc}/(T_w - T_0) + 4\,A_W\,\sigma\,\varepsilon\,T_0^3$.
 
@@ -537,18 +583,24 @@ In primo luogo, bilanciamo il ponte regolaendo il potenziometro (POT) per impost
 
 La seguente formula è utilizzata nell'esperimento di temperatura costante:
 
-$$\frac{V_W^2}{R_W} = (a + b\,v^{\,c})\,(T_w - T_0) \tag{9}$$
+$$
+\frac{V_W^2}{R_W} = (a + b\,v^{\,c})\,(T_w - T_0) \tag{9}
+$$
 
 con $V_W$ e $R_W$ che sono il potenziale e la resistenza attraverso il cavo caldo. Non misuriamo il potenziale di filo di caldo, ma misuriamo il potenziale di caduta attraverso il ponte di Wheatstone ($V_{INPUT}$). Con questa sostituzione, Eq. 9 può essere riscritta come:
 
-$$V_{INPUT}^2 = A + B\,v^{\,c} \tag{10}$$
+$$
+V_{INPUT}^2 = A + B\,v^{\,c} \tag{10}
+$$
 
 **[D.1.1]** Trova un'espressione per $A$ e $B$.
 [0.4 pt]
 
 Eq. 10 può essere riscritto in una forma lineare che si può usare nella regressione lineare:
 
-$$y = \ln\frac{b}{a} + c\,\ln v \tag{11}$$
+$$
+y = \ln\frac{b}{a} + c\,\ln v \tag{11}
+$$
 
 **[D.1.2] ** Che cos'è $y$?
 [0.3 pt]
@@ -575,7 +627,9 @@ L'esperimento di corrente costante viene fatto mantenendo la corrente attraverso
 
 Per l'esperimento di corrente costante si usa la seguente formula:
 
-$$\frac{V_W}{I_W} = \frac{R_0 + \alpha\,R_0\,(R_W - R_0)}{a + b\,v^{\,c}} \tag{12}$$
+$$
+\frac{V_W}{I_W} = \frac{R_0 + \alpha\,R_0\,(R_W - R_0)}{a + b\,v^{\,c}} \tag{12}
+$$
 
 che è ottenuto da Eq. 8 con la sostituzione seguente:
 
@@ -583,7 +637,9 @@ $$T_w - T_0 = \frac{R_w - R_0}{\alpha\,R_0}.$$
 
 In questo esperimento, dobbiamo prima misurare $R_0$, che viene fatto quando non c'è vento ($v = 0$). Eq. (12) può essere riscritta come:
 
-$$\frac{R_W\,V_W}{I_W} = R_0 + k\,V_W \tag{13}$$
+$$
+\frac{R_W\,V_W}{I_W} = R_0 + k\,V_W \tag{13}
+$$
 
 **[D.2.1]** Trova un'espressione per $k$.
 [0.2 pt]
@@ -604,7 +660,9 @@ h) Ripetere la fase g) finché non si hanno dati sufficienti. Registrare i dati 
 
 Ora siamo pronti a determinare $b/a$ e $c$ come nel caso della temperatura costante. Riscrivere Eq. 12 nella seguente forma:
 
-$$y = \ln\frac{b}{a} + c\,\ln v \tag{14}$$
+$$
+y = \ln\frac{b}{a} + c\,\ln v \tag{14}
+$$
 
 **[D.2.3]** Che cos'è $y$ in questo caso?
 [0.2 pt]
@@ -632,7 +690,9 @@ Un fattore che determina l'efficienza di una turbina eolica è il carico esterno
 
 Un parametro chiave che influenza l'efficienza delle turbine eoliche è il Tip Speed Ratio (TSR), che è definito come:
 
-$$\text{TSR} = \frac{\Omega\,R}{v} \tag{15}$$
+$$
+\text{TSR} = \frac{\Omega\,R}{v} \tag{15}
+$$
 
 dove $\Omega$ è la velocità angolare della lama, $R$ è il raggio della superficie spazzata della lama e $v$ è la velocità del vento che arriva sul rotore alla punta della lama. Supponiamo che la velocità del vento sia uniforme attraverso la sezione trasversale del tunnel.
 

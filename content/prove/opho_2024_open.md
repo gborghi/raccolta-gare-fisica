@@ -651,7 +651,7 @@ The vertical coordinate of the highest point of the curve observed is $-1.5 \tex
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Un involucro di luce.** Una fonte di luce puntaria sul soffitto si trova al centro di una struttura cilindrica (con base aperta) di raggio $R$ e altezza $H$. Un muro è una distanza orizzontale $D$ dal centro del cilindro. Ora consideriamo un sistema di coordinate con la fonte luminosa all'origine. Il muro, a $x = -D$, ha la seguente forma nel piano $y$$z$:
+**Un involucro di luce.** Una fonte di luce puntaria sul soffitto si trova al centro di una struttura cilindrica (con base aperta) di raggio $R$ e altezza $H$. Un muro è una distanza orizzontale $D$ dal centro del cilindro. Ora consideriamo un sistema di coordinate con la fonte luminosa all'origine. Il muro, a $x = -D$, ha la seguente forma nel piano $y$–$z$:
 
 La coordinata verticale del punto più alto della curva osservata è $-1.5 \text{ m}$, mentre i gradienti delle linee asintoticamente tangenti alla curva sono $\pm 4/3$. A destra è mostrato un esempio di configurazione di questo fenomeno. Trova la distanza orizzontale $D$ della parete alla fonte luminosa.
 

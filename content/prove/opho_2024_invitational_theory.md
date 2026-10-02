@@ -326,7 +326,9 @@ We can use the above results to find the heat capacity of the chain. To do so, t
 $$\int_0^\infty \frac{x}{e^x - 1}\,dx = \frac{\pi^2}{6}, \qquad \int_0^\infty \frac{x^3}{e^x - 1}\,dx = \frac{\pi^4}{15}.$$
 
 **(c)** First, derive the energy levels of a quantum harmonic oscillator by using the WKB approximation:
-$$\oint p(x)\,dx = 2\pi\hbar\left(n + 1/2\right) \tag{1}$$
+$$
+\oint p(x)\,dx = 2\pi\hbar\left(n + 1/2\right) \tag{1}
+$$
 Here, $p(x)$ is the momentum of the particle as a function of position and the integral is across one classical period.
 
 **(d)** Using the model from part (a), derive the total energy and heat capacity as a function of the temperature $T$. (Your result only needs to hold for $\beta\hbar\omega_{\mathrm{avg}} \gg 1$, with $\beta = 1/k_B T$.) Assume that the atoms at either end of the chain must remain fixed in place.
@@ -338,7 +340,9 @@ Here, $p(x)$ is the momentum of the particle as a function of position and the i
 ### 4.3
 
 When the mass-energy of a particle is small compared to its energy level, relativistic corrections are required. The relativistic energy levels of a particle in a harmonic oscillator potential are given by:
-$$E_n = mc^2\left(-1 + \sqrt{1 + \frac{2\hbar\omega}{mc^2}\left(n + \frac{1}{2}\right)}\right) \tag{2}$$
+$$
+E_n = mc^2\left(-1 + \sqrt{1 + \frac{2\hbar\omega}{mc^2}\left(n + \frac{1}{2}\right)}\right) \tag{2}
+$$
 
 **(g)** Use the given energy levels to find the total energy and heat capacity of the chain where each particle is moving relativistically; you may assume that the dispersion relation is linear as in part (d). Give your answer to the lowest order in $\hbar\omega/mc^2$.
 
@@ -371,7 +375,9 @@ Possiamo utilizzare i risultati di cui sopra per trovare la capacità termico de
 $$\int_0^\infty \frac{x}{e^x - 1}\,dx = \frac{\pi^2}{6}, \qquad \int_0^\infty \frac{x^3}{e^x - 1}\,dx = \frac{\pi^4}{15}.$$
 
 **(c) ** In primo luogo, derivare i livelli di energia di un oscillatore armonico quantistico utilizzando l'approssimazione WKB:
-$$\oint p(x)\,dx = 2\pi\hbar\left(n + 1/2\right) \tag{1}$$
+$$
+\oint p(x)\,dx = 2\pi\hbar\left(n + 1/2\right) \tag{1}
+$$
 Qui, $p(x)$ è la dinamica della particella come funzione di posizione e l'integrale è attraverso un periodo classico.
 
 **(d) ** Utilizando il modello della parte a), derivare la capacità energetica e termica totale in funzione della temperatura $T$. (Il risultato deve essere valido solo per $\beta\hbar\omega_{\mathrm{avg}} \gg 1$, con $\beta = 1/k_B T$.) Supponiamo che gli atomi alle estremità della catena debbano rimanere fissi in posizione.
@@ -383,7 +389,9 @@ Qui, $p(x)$ è la dinamica della particella come funzione di posizione e l'integ
 ### 4.3
 
 Quando la massa-energia di una particella è piccola rispetto al suo livello energetico, sono necessarie correzioni relativistiche. I livelli di energia relativistici di una particella in un potenziale oscillatore armonico sono dati da:
-$$E_n = mc^2\left(-1 + \sqrt{1 + \frac{2\hbar\omega}{mc^2}\left(n + \frac{1}{2}\right)}\right) \tag{2}$$
+$$
+E_n = mc^2\left(-1 + \sqrt{1 + \frac{2\hbar\omega}{mc^2}\left(n + \frac{1}{2}\right)}\right) \tag{2}
+$$
 
 **(g) ** Utilizzare i livelli di energia dati per trovare la capacità energetica e termica totale della catena in cui ogni particella si muove relativisticamente; si può presumere che la relazione di dispersione sia lineare come nella parte (d). Rispondi al ordine più basso in $\hbar\omega/mc^2$.
 

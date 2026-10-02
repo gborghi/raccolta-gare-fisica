@@ -35,12 +35,13 @@ Enter P (W), between 0 and 300:
 
 <div class="qlang-split" data-lang="en"></div>
 
-1. Heating power of the heater:
-Enter P (W), between 0 and 300:
+1. The heating power of the heater:
+
+`Enter P (W), between 0 and 300:`
 
 <!--fig:start-->
 ![[_attachments/EuPhO_2021_exp_ITA/EuPhO_2021_exp_ITA_p2_f2.png]]
-*This metal with heater and sensors*
+*Metal rod with heater and sensors*
 <!--fig:end-->
 
 **Topic:** [[Thermodynamics]]
@@ -74,11 +75,9 @@ Enter heating duration (s), between 0 and
 
 <div class="qlang-split" data-lang="en"></div>
 
-2. The duration after the start of the experiment for the
-The heater is turned on (after this time, the heater is
-The heater shall be turned off):
-Enter heating duration (s), between 0 and
-3600s:
+2. The duration after the start of the experiment for which the heater is turned on for (after this time, the heater will be turned off):
+
+`Enter heating duration (s), between 0 and 3600s:`
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -95,14 +94,7 @@ Enter heating duration (s), between 0 and
 
 
 
-3. I tempi di inizio e fine (dopo l’inizio dell’esperimento)
-per
-le
-misurazioni
-della
-temperatura
-effettuate
-sull’asta:
+3. I tempi di inizio e fine (dopo l’inizio dell’esperimento) per le misurazioni della temperatura effettuate sull’asta:
 Enter the starting and finishing time
 for the measurements (s), separated by
 a space. Must be between 0 e 3600s:
@@ -117,17 +109,9 @@ a space. Must be between 0 e 3600s:
 
 <div class="qlang-split" data-lang="en"></div>
 
-3. Start and end times (after the start of the experiment)
-for
-le
-measurements
-of the
-The temperature
-made
-on the auction:
-Enter the starting and finishing time
-for the measurements (s), separated by
-In space. Must be between 0 and 3600s:
+3. The starting and finishing times (after the start of the experiment) for the temperature measurements made on the rod:
+
+`Enter the starting and finishing time for the measurements (s), separated by a space. Must be between 0 and 3600s:`
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -159,10 +143,9 @@ multiple of 5s:
 
 <div class="qlang-split" data-lang="en"></div>
 
-4. The time interval between two consecutive measurements
-made with temperature sensors:
-Enter dt (s), between 5 and 3600s and a
-multiple of 5s:
+4. The time interval between two consecutive measurements that are made with the temperature sensors:
+
+`Enter dt (s), between 5 and 3600s and a multiple of 5s:`
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -197,13 +180,11 @@ Nota che non inserire alcun numero significa semplicemente non effettuare alcuna
 
 <div class="qlang-split" data-lang="en"></div>
 
-5. The temperature sensor positions along the raft.
-The coordinates are specified in relation to the end of the
-Heating system:
-Enter up to 5 locations for the sensors
-(in cm), between L=0 and L=30cm, separated
-by spaces:
-Note that not entering any number simply means not taking any measurements.
+5. The locations of the temperature sensors along the rod. The coordinates are specified with respect to the end with the heater:
+
+`Enter up to 5 locations for the sensors (in cm), between L=0 and L=30cm, separated by spaces:`
+
+Note that not entering any numbers simply means not taking any measurements.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -235,9 +216,7 @@ Dopo aver continuato con la simulazione, il programma
 visualizzerà un riepilogo della configurazione sperimentale, quindi inizierà a mostrare il tempo trascorso
 dall’accensione del riscaldatore (t(s)) e tutte le letture
 del sensore nello stesso ordine in cui sono stati inseriti
-EuPhO-2021
-Problemi sperimentali. Linguaggio: Italiano
-nel prompt $(Ti(^{\circ}C$), dove ”i” corrisponde al sensore iesimo).
+nel prompt ($T_i$(°C), dove $i$ corrisponde all'$i$-esimo sensore).
 Al termine della simulazione, è possibile avviare un
 nuovo esperimento digitando restart e premendo return.
 
@@ -251,26 +230,17 @@ nuovo esperimento digitando restart e premendo return.
 
 <div class="qlang-split" data-lang="en"></div>
 
-6. The name of the output file for temperature readings. Note that all saved readings will also be displayed on the screen:
-Enter the output file name:
-It is recommended to use only Latin letters and numbers
-For the name. Other characters may or may not be allowed in the file name and in the case of a name
-If the file is invalid, the readings will not be saved. Le
-Readings will be saved in a .txt file with the name
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2005.
-If an invalid input is entered, an error message will be sent clarifying the error and another opportunity to enter will be given.
-The program will then ask you to press return to
-Start the experiment, or type restart and press
-return to reinsert all the experimental parameters.
-After continuing the simulation, the program
-It will display a summary of the experimental configuration, then it will start showing the time spent
-from the heater's ignition (t(s)) and all readings
-of the sensor in the same order in which they were inserted
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-I'm having some experimental problems. Language: Italian
-in the prompt $(Ti(^{\circ}C$), where i corresponds to the first sensor).
-At the end of the simulation, you can start a
-New experiment by typing restart and pressing return.
+6. The output file name for the temperature readings. Note that all of the saved readings will also be displayed on the screen:
+
+`Enter the output file name:`
+
+You are advised to only use Latin letters and numbers for the name. Other characters may or may not be allowed in the filename and in case of an invalid filename, the readings will not be saved. The readings will be saved in a .txt file with the given name in the same folder as the program.
+
+If you enter an invalid input, a clarifying error message will be sent, and an another opportunity for entering the input will be given.
+
+The program will then prompt to press return to start the experiment, or typing restart and pressing return to re-enter all the experimental parameters. After continuing with the simulation, the program will display a summary of the experimental setup, and then start printing out the time elapsed since the heater was turned on (t(s)), and all the sensor readings in the same order they were entered in the prompt ($T_i$(°C), where $i$ corresponds to the $i$-th sensor).
+
+After the simulation ends, a new experiment can be started by typing restart and pressing return.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]

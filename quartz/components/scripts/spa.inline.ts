@@ -101,6 +101,8 @@ async function _navigate(url: URL, isBack: boolean = false) {
   announcer.dataset.persist = ""
   html.body.appendChild(announcer)
 
+  // keep the runtime base path (set by renderPage BASEPATH_RUNTIME) across navigations
+  if (document.body.dataset.basepath !== undefined) html.body.dataset.basepath = document.body.dataset.basepath
   // morph body
   micromorph(document.body, html.body)
 

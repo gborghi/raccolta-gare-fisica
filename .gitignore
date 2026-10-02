@@ -8,3 +8,9 @@ extract_css.py
 quartz/styles/_ported_components.scss
 *conflicted copy*
 preprocess (DESKTOP*.mjs
+.playwright-mcp/
+debug.log
+build.done
+deploy.done
+build.redesign.log
+*.pptx

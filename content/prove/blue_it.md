@@ -3,13 +3,15 @@ title: IPhO 2007
 tipo: prova
 tags:
   - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="blue_it"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2007 — Problema 1" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/order-of-magnitude-estimation"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2007 — Problema 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/order-of-magnitude-estimation"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -76,7 +78,7 @@ Find $\alpha$, $\beta$ and $\gamma$ using the dimensional analysis.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2007 — Problema 2" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/gravitation,topic/thermodynamics,topic/order-of-magnitude-estimation,object/black-hole"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2007 — Problema 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/gravitation,topic/thermodynamics,topic/order-of-magnitude-estimation,object/black-hole"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -153,7 +155,7 @@ Trova $\alpha$, $\beta$, $\gamma$ e $\delta$.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2007 — Problema 3" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/gravitation,topic/modern-quantum-physics,object/black-hole"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2007 — Problema 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/gravitation,topic/modern-quantum-physics,object/black-hole"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -212,7 +214,7 @@ Find the thermal capacity $C$ of a black hole of mass $M$.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2007 — Problema 4" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/gravitation,topic/astrophysics,object/black-hole"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2007 — Problema 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/gravitation,topic/astrophysics,object/black-hole"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

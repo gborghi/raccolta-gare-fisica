@@ -2,14 +2,16 @@
 title: IPhO 2016 Internazionale Teorica — IPhO16 - Theory Q1
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="ipho16---theory-q1---italiano"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2016 Internazionale Teorica — IPhO16 - Theory Q1 — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/rotational-dynamics,topic/newtonian-mechanics,argomento/meccanica,object/disk,object/inclined-plane"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2016 Internazionale Teorica — IPhO16 - Theory Q1 — Problema 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/rotational-dynamics,topic/newtonian-mechanics,argomento/meccanica,object/disk,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -128,7 +130,7 @@ Now you want to determine the moment of inertia $I_S$ of the system with respect
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2016 Internazionale Teorica — IPhO16 - Theory Q1 — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/rotational-dynamics,topic/newtonian-mechanics,topic/gravitation,argomento/meccanica,object/spring,object/wheel"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2016 Internazionale Teorica — IPhO16 - Theory Q1 — Problema 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/rotational-dynamics,topic/newtonian-mechanics,topic/gravitation,argomento/meccanica,object/spring,object/wheel"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

@@ -6,6 +6,7 @@
 import { promises as fs } from "node:fs"
 import { readdirSync, readFileSync, existsSync } from "node:fs"
 import path from "node:path"
+import { fileURLToPath } from "node:url"
 import matter from "gray-matter"
 
 const NUL = String.fromCharCode(0)
@@ -45,8 +46,8 @@ function parseFrontmatter(raw) {
   return { data, content: m[2] }
 }
 
-const VAULT = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/OlimpiadiFisica/raccolte gare di Fisica/Knowledge Graph"
-const ROOT = path.resolve(".")
+const VAULT = path.join(path.dirname(fileURLToPath(import.meta.url)), "..", "raccolte gare di Fisica", "Knowledge Graph")
+const ROOT = path.dirname(fileURLToPath(import.meta.url))
 // Build artifacts live INSIDE the site repo (in Dropbox, sibling of the vault —
 // mirrors OlimpiadiMatematica/garaMate-pages). content/, staticgen/ and public/
 // are heavy + 100%-regenerable, so they're marked Dropbox-ignored (NTFS ADS
@@ -145,14 +146,34 @@ const COUNTRY = {
   Svizzera: ["ch", "Switzerland"], Australia: ["au", "Australia"], Colombia: ["co", "Colombia"],
   Giappone: ["jp", "Japan"], Kazakhstan: ["kz", "Kazakhstan"], Indonesia: ["id", "Indonesia"],
   Portogallo: ["pt", "Portugal"], "Hong Kong": ["hk", "Hong Kong"],
+  Brazil: ["br", "Brazil"], Estonia: ["ee", "Estonia"], China: ["cn", "China"],
+  Taiwan: ["tw", "Taiwan"], Romania: ["ro", "Romania"], Hungary: ["hu", "Hungary"],
+  Azerbaijan: ["az", "Azerbaijan"], Portugal: ["pt", "Portugal"],
 }
 // -> { iso, name }. iso "" means render the globe (international / multi-country / unmapped).
 function nationInfo(country, comp, pdf) {
   const p = (pdf || "").toLowerCase()
-  const intl = /\/ipho\/|\/eupho\//.test(p) || comp === "IPhO" || comp === "EuPhO" || /^intern/i.test(country || "")
   const e = COUNTRY[country]
+  // comp_code IPhO is also the German selection (paese/Germania). A mapped country
+  // keeps its flag; only a real international paper (path, or no single country) is a globe.
+  const pathIntl = /\/ipho\/|\/eupho\//.test(p)
+  const nameIntl = /^intern/i.test(country || "")
+  const compIntl = (comp === "IPhO" || comp === "EuPhO") && !e
+  const intl = pathIntl || nameIntl || compIntl
   if (e && !intl) return { iso: e[0], name: e[1] }
   return { iso: "", name: intl ? "International" : (country || "International") }
+}
+
+// Wikilinks are rewritten to prove/<stem> before the list is extracted, but the
+// flag maps are keyed by the file basename. Look up both, or every row is a globe.
+function lookupStem(map, target) {
+  if (!map || !target) return ""
+  if (Object.prototype.hasOwnProperty.call(map, target)) return map[target] || ""
+  const base = String(target).split("/").pop()
+  if (base && Object.prototype.hasOwnProperty.call(map, base)) return map[base] || ""
+  const noAtom = base.replace(/__[a-z0-9]+$/i, "")
+  if (noAtom && Object.prototype.hasOwnProperty.call(map, noAtom)) return map[noAtom] || ""
+  return ""
 }
 
 function sluggify(s) {
@@ -297,10 +318,10 @@ function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLeve
       h,
       l: (m[3] || target).trim(),
       s: (m[4] || "").trim(),
-      f: (stemFlag && stemFlag[target]) || "",   // ISO-2 for flagcdn; "" -> globe
-      c: (stemCountry && stemCountry[target]) || "",
-      lv: (stemLevel && stemLevel[target]) || "",
-      y: (stemYear && stemYear[target]) || "",
+      f: lookupStem(stemFlag, target),   // ISO-2 for flagcdn; "" -> globe
+      c: lookupStem(stemCountry, target),
+      lv: lookupStem(stemLevel, target),
+      y: lookupStem(stemYear, target),
     })
   }
   if (!items.length) return null

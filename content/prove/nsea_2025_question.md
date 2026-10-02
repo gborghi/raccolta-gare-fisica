@@ -808,7 +808,7 @@ Se $a$, $b$, $c$ sono in progressione aritmetica e $a^2$, $b^2$, $c^2$ sono in p
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="NSEA 2025 — Problema 20" data-tags="nazione/india,tipo-gara/individuale,livello/qualifica,difficolta/3,multidisciplina/mono,topic/mathematics,argomento/matematica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="it"></div>
 
 
 
@@ -825,24 +825,6 @@ $$\sum_{n=1}^{\infty} \frac{1}{n(n+3)} =$$
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/10Wf_W59ZtbUGInFDB_4tIaLvo1zXUx29/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Cg8dQKQOMZeyp9k0XNUpxGZds5Flnf55/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-$$\sum_{n=1}^{\infty} \frac{1}{n(n+3)} =$$
-
-- (a) $\dfrac{1}{3}$
-- (b) $\dfrac{11}{18}$
-- (c) $\dfrac{1}{2}$
-- (d) $\dfrac{4}{17}$
-
-**Topic:** [[Mathematics]]
-**Metodi:** [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/10Wf_W59ZtbUGInFDB_4tIaLvo1zXUx29/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Cg8dQKQOMZeyp9k0XNUpxGZds5Flnf55/view)
-
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="NSEA 2025 — Problema 21" data-tags="nazione/india,tipo-gara/individuale,livello/qualifica,difficolta/3,multidisciplina/mono,topic/mathematics,argomento/matematica"></span>
@@ -1003,7 +985,7 @@ Una parabola standard $x^2 = 36y$ è approssimata come un arco di un cerchio per
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="NSEA 2025 — Problema 25" data-tags="nazione/india,tipo-gara/individuale,livello/qualifica,difficolta/3,multidisciplina/mono,topic/mathematics,argomento/matematica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="it"></div>
 
 
 
@@ -1020,24 +1002,6 @@ $$\int_0^{\pi/2} \frac{\sin x}{\sin x + \cos x}\, dx =$$
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/10Wf_W59ZtbUGInFDB_4tIaLvo1zXUx29/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Cg8dQKQOMZeyp9k0XNUpxGZds5Flnf55/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-$$\int_0^{\pi/2} \frac{\sin x}{\sin x + \cos x}\, dx =$$
-
-- (a) $\dfrac{\pi}{2}$
-- (b) $\dfrac{\pi}{4}$
-- (c) $0$
-- (d) $\pi$
-
-**Topic:** [[Mathematics]]
-**Metodi:** [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/10Wf_W59ZtbUGInFDB_4tIaLvo1zXUx29/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Cg8dQKQOMZeyp9k0XNUpxGZds5Flnf55/view)
-
 
 
 <span class="atom-split" id="q26" data-atom="q26" data-title="NSEA 2025 — Problema 26" data-tags="nazione/india,tipo-gara/individuale,livello/qualifica,difficolta/3,multidisciplina/mono,topic/mathematics,argomento/matematica"></span>

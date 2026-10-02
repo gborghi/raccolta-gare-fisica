@@ -11,7 +11,7 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="[VsOSh 2025 Final] — Quesito 1" data-tags="kg/prova,paese/Russia,comp/VsOSh"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="ru"></div>
 
 
 
@@ -60,7 +60,7 @@ $$C \qquad A \qquad B$$
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="[VsOSh 2025 Final] — Quesito 2" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/cylinder"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="ru"></div>
 
 
 
@@ -101,7 +101,7 @@ La tavola si muove con una costante accelerazione orizzontale $a$, orientata ver
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="[VsOSh 2025 Final] — Quesito 3" data-tags="kg/prova,paese/Russia,comp/VsOSh"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="ru"></div>
 
 
 
@@ -170,7 +170,7 @@ Nota: tutti gli oggetti possono essere considerati punti di forza, non sono in f
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="[VsOSh 2025 Final] — Quesito 4" data-tags="kg/prova,paese/Russia,comp/VsOSh"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="ru"></div>
 
 
 
@@ -219,7 +219,7 @@ Il grafico delle unità è costituito da un'ossina $N_{\text{ср}}$; si possono
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="[VsOSh 2025 Final] — Quesito 5" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/resistor"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="ru"></div>
 
 
 
@@ -280,7 +280,7 @@ Le resistenze dei resistori $R_1$, $R_2$ e $R_3$, nonché i coefficienti $\alpha
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="[VsOSh 2025 Final] — Quesito 6" data-tags="kg/prova,paese/Russia,comp/VsOSh"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="ru"></div>
 
 
 
@@ -333,7 +333,7 @@ Dal punto $A$, situato su una riva di fiume di larghezza $l$, si trasporta sulla
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="[VsOSh 2025 Final] — Quesito 7" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/wedge,object/block,object/pulley"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="ru"></div>
 
 
 
@@ -382,7 +382,7 @@ Uspрение свободного падения равно $g$.
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="[VsOSh 2025 Final] — Quesito 8" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/piston,object/gas,object/cylinder"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="ru"></div>
 
 
 
@@ -443,7 +443,7 @@ Condizioni: * la capacità di trasporto e di trasporto di energia è molto bassa
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="[VsOSh 2025 Final] — Quesito 9" data-tags="kg/prova,paese/Russia,comp/VsOSh"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="ru"></div>
 
 
 
@@ -500,7 +500,7 @@ I punti $O$, $O'$, $A$, $B$ e $C$ si trovano nella stessa area della figura pert
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="[VsOSh 2025 Final] — Quesito 10" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/battery,object/resistor"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="ru"></div>
 
 
 
@@ -553,7 +553,7 @@ In una corrente elettrica infinita, un frammento del schema che è rappresentato
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="[VsOSh 2025 Final] — Quesito 11" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/projectile"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="ru"></div>
 
 
 
@@ -594,7 +594,7 @@ Determina la grandezza di questo angolo $\varphi$ e la distanza tra le pietre $l
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="[VsOSh 2025 Final] — Quesito 12" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/gas"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="ru"></div>
 
 
 
@@ -647,7 +647,7 @@ Temperature dei tre punti del ciclo: $T_1 = T_3 = 2T_0$, $T_4 = T_0$. In punto 4
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="[VsOSh 2025 Final] — Quesito 13" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/cylinder,object/disk"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="ru"></div>
 
 
 
@@ -706,7 +706,7 @@ Poi hanno tagliato un piccolo anello e lo hanno rimosso. In questo caso il centr
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="[VsOSh 2025 Final] — Quesito 14" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/capacitor,object/droplet,object/battery"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="ru"></div>
 
 
 
@@ -759,7 +759,7 @@ In uno degli esperimenti il condensatore di Gluca è stato collegato successivam
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="[VsOSh 2025 Final] — Quesito 15" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/lens,object/screen"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="ru"></div>
 
 
 

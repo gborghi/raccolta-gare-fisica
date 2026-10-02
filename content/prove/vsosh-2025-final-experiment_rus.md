@@ -11,7 +11,7 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="[VsOSh 2025 Final Experimental] — Problema 1" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/rod"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="ru"></div>
 
 
 
@@ -86,7 +86,7 @@ In questo lavoro dovrete studiare un macchinista serio. Per l'esecuzione di un c
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="[VsOSh 2025 Final Experimental] — Problema 2" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/resistor,object/switch"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="ru"></div>
 
 
 
@@ -153,7 +153,7 @@ Il tok attraverso il serïýýýýýýýýýk è determinato attraverso la tensi
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="[VsOSh 2025 Final Experimental] — Problema 3" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/rope-string"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="ru"></div>
 
 
 
@@ -228,7 +228,7 @@ $$\left(\frac{L-s}{H}\right)^2 - 1 = 2\mu \cdot \frac{s}{H}$$
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="[VsOSh 2025 Final Experimental] — Problema 4" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/resistor,object/switch"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="ru"></div>
 
 
 
@@ -289,7 +289,7 @@ Vigilanza!
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="[VsOSh 2025 Final Experimental] — Problema 5" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/diffraction-grating,object/slit"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="ru"></div>
 
 
 

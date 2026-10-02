@@ -766,7 +766,7 @@ L'emofilia e l'occultità dei colori sono i disturbi causati dal gene recessivo 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="INJSO 2012 — Problema 18" data-tags="nazione/india,tipo-gara/individuale,livello/nazionale,difficolta/3,multidisciplina/mono,topic/chemistry,argomento/chimica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="it"></div>
 
 
 
@@ -782,23 +782,6 @@ Liquid state of He is due to
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Wz_KFB37Wwq0GwNoSZVZ3mtrtvAVVhl6/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-Lo stato liquido di lui è dovuto a
-
-- a) interazione dipolio-dipolio
-- (b) interazione di ioni e dipoli
-- (c) interazione di dipole-induzione di dipole
-- d) forze di dispersione
-
-**Topic:** [[Chemistry]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Wz_KFB37Wwq0GwNoSZVZ3mtrtvAVVhl6/view)
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="INJSO 2012 — Problema 19" data-tags="nazione/india,tipo-gara/individuale,livello/nazionale,difficolta/3,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo,object/battery,object/resistor"></span>

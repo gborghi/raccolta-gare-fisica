@@ -715,7 +715,7 @@ added until the device rotates at angular velocity $2\omega$. What is the new ki
 **Topic:** [[Rotational Dynamics]], [[Conservation of Energy]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1YWJCGUBZlhqvijgsvgq7bQAeV55Khm-3/view)
 
 
@@ -734,7 +734,7 @@ aggiunto fino a quando il dispositivo ruota a velocità angolare $2\omega$. Qual
 **Topic:** [[Rotational Dynamics]], [[Conservation of Energy]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1YWJCGUBZlhqvijgsvgq7bQAeV55Khm-3/view)
 
 
@@ -1073,7 +1073,7 @@ vertical loop.
 **Topic:** [[Conservation of Momentum]], [[Conservation of Energy]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]], [[Projectile (object)|Projectile]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]], [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1YWJCGUBZlhqvijgsvgq7bQAeV55Khm-3/view)
 
 
@@ -1092,7 +1092,7 @@ circuito verticale.
 **Topic:** [[Conservation of Momentum]], [[Conservation of Energy]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]], [[Projectile (object)|Projectile]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]], [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1YWJCGUBZlhqvijgsvgq7bQAeV55Khm-3/view)
 
 

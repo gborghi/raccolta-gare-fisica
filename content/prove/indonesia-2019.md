@@ -273,7 +273,7 @@ small value of x, $\cos x \approx 1 - x^2/2$),
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]], [[Block (object)|Block]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1IOvFQiWRzIySXzT4F60Xpf-eqpS6CJty/view)
 
 
@@ -290,7 +290,7 @@ valore di x, $\cos x \approx 1 - x^2/2$),
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]], [[Block (object)|Block]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1IOvFQiWRzIySXzT4F60Xpf-eqpS6CJty/view)
 
 

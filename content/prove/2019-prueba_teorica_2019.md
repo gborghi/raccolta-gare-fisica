@@ -145,7 +145,7 @@ g) Se dispone de un picnómetro lleno de agua que «pesa» $250{,}00\,\text{g}$ 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/13kCFglxsDoBVBWc44RsvUTf_M3SJvFyq/view)
 
 
@@ -183,7 +183,7 @@ g) Si dispone di un picnometro pieno di acqua che pesa $250{,}00\,\text{g}$ e si
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/13kCFglxsDoBVBWc44RsvUTf_M3SJvFyq/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -220,7 +220,7 @@ g) A water-filled picnometer is available which weighs $250{,}00\,\text{g}$ and 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/13kCFglxsDoBVBWc44RsvUTf_M3SJvFyq/view)
 
 

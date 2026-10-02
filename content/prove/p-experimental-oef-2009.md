@@ -150,7 +150,7 @@ Vuelva a sujetar el tubo en U al listón de madera. Introduzca $60\text{ cm}^3$ 
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1cGiCm1VZUDe9nQCzDnh65q11YBBhy6sJ/view)
 
 
@@ -287,7 +287,7 @@ Riattacca il tubo in U al bastone di legno. Inserire $60\text{ cm}^3$ di acqua e
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1cGiCm1VZUDe9nQCzDnh65q11YBBhy6sJ/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -423,5 +423,5 @@ Reattach the U tube to the wooden bar. Enter $60\text{ cm}^3$ of water and mark 
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1cGiCm1VZUDe9nQCzDnh65q11YBBhy6sJ/view)

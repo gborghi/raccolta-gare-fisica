@@ -200,7 +200,7 @@ para los diez primeros segundos. Escriba los resultados de $t$ y $H(t)$ en una t
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]], [[Differential Equations (metodo)|Differential Equations]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/15pjs6LIL4GMH-uY6kc4i2689K-pu4zGa/view)
 
 
@@ -275,7 +275,7 @@ Schizzo studente: sistema fluido con pressioni
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]], [[Differential Equations (metodo)|Differential Equations]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/15pjs6LIL4GMH-uY6kc4i2689K-pu4zGa/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -349,7 +349,7 @@ For the first ten seconds. Write the results of $t$ and $H(t)$ in a table.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]], [[Differential Equations (metodo)|Differential Equations]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/15pjs6LIL4GMH-uY6kc4i2689K-pu4zGa/view)
 
 

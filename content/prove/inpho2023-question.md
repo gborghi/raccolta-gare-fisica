@@ -25,7 +25,7 @@ The timestamps (in seconds) of the bounces shown next to the peaks are: $10.260$
 
 <!--fig:start-->
 **Quesito 1**
-![[INPhO2023-Question_p2_f1.png]]
+![[_attachments/inpho2023-question/inpho2023-question_p2_f1.png]]
 <!--fig:end-->
 
 Make reasonable assumptions, when the ball hits the floor and calculate the height of the classroom from the given data. State your assumptions clearly.
@@ -50,7 +50,7 @@ I timestamp (in secondi) dei rimbalzi mostrati accanto alle cime sono: $10.260$,
 
 <!--fig:start-->
 **Quesito 1**
-![[INPhO2023-Question_p2_f1.png]]
+![[_attachments/inpho2023-question/inpho2023-question_p2_f1.png]]
 <!--fig:end-->
 
 Fate ipotesi ragionevoli, quando la palla colpisce il pavimento e calcolate l'altezza della classe a partire dai dati forniti. Esprimi le tue ipotesi chiaramente.
@@ -299,7 +299,7 @@ A typical smartphone screen is made up of mainly two components: a sheet of touc
 
 <!--fig:start-->
 **Quesito 5**
-![[INPhO2023-Question_p4_f1.png]]
+![[_attachments/inpho2023-question/inpho2023-question_p4_f1.png]]
 <!--fig:end-->
 
 We use two smartphones (S-I and S-II) in this exercise – S-I is the target instrument in which we want to estimate $h$, and S-II is the measuring instrument that can capture photos of the screen of S-I which we then analyse using a image-processing software.
@@ -310,14 +310,14 @@ The phone S-I is kept horizontal and the display is kept ON. A ruler is placed o
 
 <!--fig:start-->
 **Quesito 5**
-![[INPhO2023-Question_p4_f2.png]]
+![[_attachments/inpho2023-question/inpho2023-question_p4_f2.png]]
 <!--fig:end-->
 
 Figure 3(a) shows a part of the image of the ruler and its brightness value profile along the red reference line in Fig. 3(b).
 
 <!--fig:start-->
 **Quesito 5**
-![[INPhO2023-Question_p4_f3.png]]
+![[_attachments/inpho2023-question/inpho2023-question_p4_f3.png]]
 <!--fig:end-->
 
 (a) [2 marks] State the number of pixels used by the camera of S-II to capture one centimeter of the screen of S-I.
@@ -326,7 +326,7 @@ Figure 3(a) shows a part of the image of the ruler and its brightness value prof
 
 <!--fig:start-->
 **Quesito 5**
-![[INPhO2023-Question_p5_f1.png]]
+![[_attachments/inpho2023-question/inpho2023-question_p5_f1.png]]
 <!--fig:end-->
 
 Figure 4(d) shows the magnified image of the array of the RGB elements of the screen as viewed from the top through one of the drops. This image is captured by S-II keeping the camera settings and distance same as in the previous part. The brightness value profiles of the images of the five chosen drops along the reference lines are shown in Fig. (5) on the next page.
@@ -335,7 +335,7 @@ Using the profile plots, write the radius of the water drop ($R$ in mm) and the 
 
 <!--fig:start-->
 **Quesito 5**
-![[INPhO2023-Question_p6_f1.png]]
+![[_attachments/inpho2023-question/inpho2023-question_p6_f1.png]]
 <!--fig:end-->
 
 (c) [9 marks] For the given smartphone, $t = 0.50\ \text{mm}$, the refractive indices of the touch-sensitive glass, water drop, and the air to be $3/2$, $4/3$, and $1$ respectively. Using the data table of the previous part, plot a suitable linear graph to obtain the distance ($h$) of the RGB elements from the touch-sensitive glass. Use the table given in the summary answer sheet to enter the data used to plot the graph. Show your detailed theoretical calculation in the Detailed Answer sheet.
@@ -356,7 +356,7 @@ Un tipico schermo di smartphone è composto principalmente da due componenti: un
 
 <!--fig:start-->
 **Quesito 5**
-![[INPhO2023-Question_p4_f1.png]]
+![[_attachments/inpho2023-question/inpho2023-question_p4_f1.png]]
 <!--fig:end-->
 
 In questo esercizio usiamo due smartphone (S-I e S-II)  S-I è lo strumento di destinazione in cui vogliamo stimare $h$, e S-II è lo strumento di misurazione che può catturare le foto dello schermo di S-I che poi analizziamo utilizzando un software di elaborazione delle immagini.
@@ -367,14 +367,14 @@ Il telefono S-I è tenuto orizzontale e il display è tenuto ON. Un comando vien
 
 <!--fig:start-->
 **Quesito 5**
-![[INPhO2023-Question_p4_f2.png]]
+![[_attachments/inpho2023-question/inpho2023-question_p4_f2.png]]
 <!--fig:end-->
 
 La figura 3 ((a) mostra una parte dell'immagine della regola e il suo profilo di valore di luminosità lungo la linea di riferimento rossa nella figura. 3(b).
 
 <!--fig:start-->
 **Quesito 5**
-![[INPhO2023-Question_p4_f3.png]]
+![[_attachments/inpho2023-question/inpho2023-question_p4_f3.png]]
 <!--fig:end-->
 
 a) [2 segni] Indicare il numero di pixel utilizzati dalla fotocamera di S-II per catturare un centimetro dello schermo di S-I.
@@ -383,7 +383,7 @@ a) [2 segni] Indicare il numero di pixel utilizzati dalla fotocamera di S-II per
 
 <!--fig:start-->
 **Quesito 5**
-![[INPhO2023-Question_p5_f1.png]]
+![[_attachments/inpho2023-question/inpho2023-question_p5_f1.png]]
 <!--fig:end-->
 
 La figura 4 ((d) mostra l'immagine ingrandita dell'archivio degli elementi RGB dello schermo visto dall'alto attraverso una delle gocce. Questa immagine viene catturata da S-II mantenendo le impostazioni della fotocamera e la distanza identiche alla parte precedente. I profili di valore luminoso delle immagini delle cinque gocce scelte lungo le linee di riferimento sono riportati nella figura. (5) nella pagina successiva.
@@ -392,7 +392,7 @@ Utilizzando le schede di profilo, scrivere il raggio della goccia d'acqua ($R$ i
 
 <!--fig:start-->
 **Quesito 5**
-![[INPhO2023-Question_p6_f1.png]]
+![[_attachments/inpho2023-question/inpho2023-question_p6_f1.png]]
 <!--fig:end-->
 
 c) [9 punti] Per il smartphone specificato, $t = 0.50\ \text{mm}$, gli indici di rifrazione del vetro sensibile al tatto, della goccia d'acqua e dell'aria devono essere rispettivamente $3/2$, $4/3$ e $1$. Utilizzando la tabella dati della parte precedente, disegnare un grafico lineare appropriato per ottenere la distanza ($h$) degli elementi RGB dal vetro sensibile al tatto. Per inserire i dati utilizzati per tracciare il grafico, utilizzare la tabella riportata nella scheda di risposte riassumere. Indicare il calcolo teorico dettagliato nella scheda delle risposte dettagliate.

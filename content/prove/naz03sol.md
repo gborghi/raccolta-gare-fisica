@@ -73,7 +73,7 @@ $$T = 2\pi \sqrt{\frac{M_{tot}}{K}} \qquad \text{dove} \qquad K = \rho\, g\, A$$
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1_dpHvz0NjAjh1NVN3VJ6EyO1HBh4zoxQ/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1_dpHvz0NjAjh1NVN3VJ6EyO1HBh4zoxQ/view)
 
@@ -138,6 +138,6 @@ It is a delicate measurement, requiring readiness for reflections, especially fo
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1_dpHvz0NjAjh1NVN3VJ6EyO1HBh4zoxQ/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1_dpHvz0NjAjh1NVN3VJ6EyO1HBh4zoxQ/view)

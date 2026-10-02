@@ -38,7 +38,7 @@ Fibers made of elastic rubber can be stretched to lengths $l$, much longer than 
 **Topic:** [[Elasticity & Materials]], [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1eK_HrySXA8SdAAEHuDoPEy4RUssL9IHY/view)
 
 
@@ -63,7 +63,7 @@ Le fibre in gomma elastica possono essere estese fino a lunghezze $l$, molto pi�
 **Topic:** [[Elasticity & Materials]], [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1eK_HrySXA8SdAAEHuDoPEy4RUssL9IHY/view)
 
 
@@ -353,7 +353,7 @@ Consider a passive cooling system. Cold air (at normal conditions: $p_0 = 10^5$ 
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1eK_HrySXA8SdAAEHuDoPEy4RUssL9IHY/view)
 
 
@@ -381,7 +381,7 @@ Considerate un sistema di raffreddamento passivo. L'aria fredda (a condizioni no
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1eK_HrySXA8SdAAEHuDoPEy4RUssL9IHY/view)
 
 

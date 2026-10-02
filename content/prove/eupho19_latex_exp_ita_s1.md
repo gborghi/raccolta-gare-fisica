@@ -50,7 +50,7 @@ Qual è la più bassa potenza ricevuta misurabile (in mW)?
 **Topic:** [[Oscillations & Waves]], [[Electromagnetism]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1fz3SVJPdTu30Liq0lsh-6UkGMPo86mfP/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1PlOmCtFHyL-z-cC8D_bPRbV9cJpRqDw6/view)
 
@@ -92,7 +92,7 @@ The manufacturer shall provide the manufacturer with the following information: 
 **Topic:** [[Oscillations & Waves]], [[Electromagnetism]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1fz3SVJPdTu30Liq0lsh-6UkGMPo86mfP/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1PlOmCtFHyL-z-cC8D_bPRbV9cJpRqDw6/view)
 
@@ -156,7 +156,7 @@ Determina il coefficiente di attenuazione in acqua. **Suggerimento:** le onde ra
 **Topic:** [[Oscillations & Waves]], [[Electromagnetism]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1fz3SVJPdTu30Liq0lsh-6UkGMPo86mfP/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1PlOmCtFHyL-z-cC8D_bPRbV9cJpRqDw6/view)
 
@@ -182,7 +182,7 @@ Determine the water attenuation coefficient. **Suggest:** radio waves can propag
 **Topic:** [[Oscillations & Waves]], [[Electromagnetism]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1fz3SVJPdTu30Liq0lsh-6UkGMPo86mfP/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1PlOmCtFHyL-z-cC8D_bPRbV9cJpRqDw6/view)
 
@@ -201,7 +201,7 @@ Metti l'emettitore nel tubo di alluminio del diametro $d_1 = 46\,\text{mm}$ e st
 **Topic:** [[Oscillations & Waves]], [[Electromagnetism]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1fz3SVJPdTu30Liq0lsh-6UkGMPo86mfP/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1PlOmCtFHyL-z-cC8D_bPRbV9cJpRqDw6/view)
 
@@ -215,7 +215,7 @@ Place the emitter in the $d_1 = 46\,\text{mm}$ diameter aluminium tube and study
 **Topic:** [[Oscillations & Waves]], [[Electromagnetism]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1fz3SVJPdTu30Liq0lsh-6UkGMPo86mfP/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1PlOmCtFHyL-z-cC8D_bPRbV9cJpRqDw6/view)
 
@@ -234,7 +234,7 @@ Esegui una serie di misurazioni per determinare in che modo il parametro $\mu$ d
 **Topic:** [[Oscillations & Waves]], [[Electromagnetism]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1fz3SVJPdTu30Liq0lsh-6UkGMPo86mfP/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1PlOmCtFHyL-z-cC8D_bPRbV9cJpRqDw6/view)
 
@@ -248,7 +248,7 @@ Perform a series of measurements to determine how the parameter $\mu$ depends on
 **Topic:** [[Oscillations & Waves]], [[Electromagnetism]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1fz3SVJPdTu30Liq0lsh-6UkGMPo86mfP/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1PlOmCtFHyL-z-cC8D_bPRbV9cJpRqDw6/view)
 

@@ -30,7 +30,7 @@ Il "meccanismo elicoidale", costruito sulla base degli studi e dei disegni origi
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gear (object)|Gear]], [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[Gear (object)|Gear]], [[objects/rope-string-(object)|Rope/String]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/17G1H2ovlHsGiOgoLoxvmb_8Fq5-IEObP/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/16NR7JezlH-_z8SJ3G_KFzoWKm2cjRzbl/view)
 
@@ -52,7 +52,7 @@ Assuming that the $75\%$ of the power used is dissipated in friction and deforma
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gear (object)|Gear]], [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[Gear (object)|Gear]], [[objects/rope-string-(object)|Rope/String]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/17G1H2ovlHsGiOgoLoxvmb_8Fq5-IEObP/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/16NR7JezlH-_z8SJ3G_KFzoWKm2cjRzbl/view)
 

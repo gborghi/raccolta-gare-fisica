@@ -335,7 +335,7 @@ $$\mu_d= \frac{F_R}{N}= \frac{T-m_2(a+ g\sin 30)}{m_2g\cos 30}= \frac{1}{\sqrt{3
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1PP1RurRAc-dPxWGq0ro8-XcZjOLM_i45/view)
 
 
@@ -408,7 +408,7 @@ $$\mu_d= \frac{F_R}{N}= \frac{T-m_2(a+ g\sin 30)}{m_2g\cos 30}= \frac{1}{\sqrt{3
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1PP1RurRAc-dPxWGq0ro8-XcZjOLM_i45/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -480,7 +480,7 @@ The Commission has also adopted a draft decision on the implementation of the Co
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1PP1RurRAc-dPxWGq0ro8-XcZjOLM_i45/view)
 
 

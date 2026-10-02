@@ -7106,7 +7106,7 @@ L
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -8257,7 +8257,7 @@ L
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -8382,7 +8382,7 @@ L=n.
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -8502,7 +8502,7 @@ L=n.
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -8617,7 +8617,7 @@ rile
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -8727,7 +8727,7 @@ Reels
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 

@@ -24,7 +24,7 @@ Unità di misura: m. Precisione richiesta: 0.5%.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1k4omelQ-Y-cF--bqRPrDmKl7Ar0VPQrx/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Iul6-HxkDknkYHJiu3QZdFzfPWZmwNV7/view)
 
@@ -40,7 +40,7 @@ Unit of measurement: m. Precision required: 0.5%.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1k4omelQ-Y-cF--bqRPrDmKl7Ar0VPQrx/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Iul6-HxkDknkYHJiu3QZdFzfPWZmwNV7/view)
 
@@ -102,7 +102,7 @@ Unità di misura: K−1. Precisione richiesta: 0.5%.
 **Topic:** [[Thermodynamics]], [[Elasticity & Materials]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1k4omelQ-Y-cF--bqRPrDmKl7Ar0VPQrx/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Iul6-HxkDknkYHJiu3QZdFzfPWZmwNV7/view)
 
@@ -118,7 +118,7 @@ Unit of measurement: K−1. Precision required: 0.5%.
 **Topic:** [[Thermodynamics]], [[Elasticity & Materials]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1k4omelQ-Y-cF--bqRPrDmKl7Ar0VPQrx/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Iul6-HxkDknkYHJiu3QZdFzfPWZmwNV7/view)
 
@@ -176,7 +176,7 @@ Unità di misura: adimensionale. Precisione richiesta: 1.0%.
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1k4omelQ-Y-cF--bqRPrDmKl7Ar0VPQrx/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Iul6-HxkDknkYHJiu3QZdFzfPWZmwNV7/view)
 
@@ -192,7 +192,7 @@ Unit of measurement: dimension. Accuracy required: 1.0%.
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1k4omelQ-Y-cF--bqRPrDmKl7Ar0VPQrx/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Iul6-HxkDknkYHJiu3QZdFzfPWZmwNV7/view)
 

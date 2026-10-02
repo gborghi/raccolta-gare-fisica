@@ -114,7 +114,7 @@ Successivamente si chiude il rubinetto e si pone $B$ in contatto termico con una
 **Topic:** [[Kinetic Theory]], [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Manometer (object)|Manometer]], [[Pipe/Tube (object)|Pipe/Tube]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[Manometer (object)|Manometer]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1KzICuUAb49XF6rDQBJEK-RTJea3awJOJ/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1KzICuUAb49XF6rDQBJEK-RTJea3awJOJ/view)
 
@@ -133,7 +133,7 @@ The tap is then closed and $B$ is put into thermal contact with a source at $T_1
 **Topic:** [[Kinetic Theory]], [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Manometer (object)|Manometer]], [[Pipe/Tube (object)|Pipe/Tube]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[Manometer (object)|Manometer]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1KzICuUAb49XF6rDQBJEK-RTJea3awJOJ/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1KzICuUAb49XF6rDQBJEK-RTJea3awJOJ/view)
 

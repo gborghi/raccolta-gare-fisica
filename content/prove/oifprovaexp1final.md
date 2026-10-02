@@ -65,7 +65,7 @@ $$\eta = \frac{2g}{9k}\,(\rho_{\text{aço}} - \rho_{\text{óleo}})$$
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Sphere (object)|Sphere]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1lQzj-yixNAMaf_uRHfGANcVg2ijm-t1S/view)
 
 
@@ -117,7 +117,7 @@ $$\eta = \frac{2g}{9k}\,(\rho_{\text{aço}} - \rho_{\text{óleo}})$$
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Sphere (object)|Sphere]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1lQzj-yixNAMaf_uRHfGANcVg2ijm-t1S/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -168,5 +168,5 @@ How and where on the cylinder was the marking height of the $\Delta h$ defined? 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Sphere (object)|Sphere]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1lQzj-yixNAMaf_uRHfGANcVg2ijm-t1S/view)

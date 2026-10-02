@@ -70,7 +70,7 @@ Suppose that a star of mass $m_s$ has a planet of mass $m_p$ in a circular orbit
 
 <!--fig:start-->
 **Quesito 2**
-![[INAO2025-Question_p3_f1.png]]
+![[_attachments/inao2025-question/inao2025-question_p3_f1.png]]
 <!--fig:end-->
 
 Figure 1: Light curve of the Planet.
@@ -99,7 +99,7 @@ b) Possiamo determinare il periodo di tempo $P$ dalla periodicità di variazione
 
 <!--fig:start-->
 **Quesito 2**
-![[INAO2025-Question_p3_f1.png]]
+![[_attachments/inao2025-question/inao2025-question_p3_f1.png]]
 <!--fig:end-->
 
 Figura 1: Curva della luce del pianeta.
@@ -135,7 +135,7 @@ The flux of light reaching the earth from Venus varies due to (i) the distance o
 
 <!--fig:start-->
 **Quesito 3**
-![[INAO2025-Question_p4_f1.png]]
+![[_attachments/inao2025-question/inao2025-question_p4_f1.png]]
 <!--fig:end-->
 
 Phases of Venus (Figures not to scale)
@@ -162,7 +162,7 @@ b) Trova il valore di $\rho$ (in termini di $r$ e $\Delta$) in modo che Venere a
 
 <!--fig:start-->
 **Quesito 3**
-![[INAO2025-Question_p4_f1.png]]
+![[_attachments/inao2025-question/inao2025-question_p4_f1.png]]
 <!--fig:end-->
 
 Fase di Venere (Figure non su scala)
@@ -194,7 +194,7 @@ In a planetary system similar to ours (see Figure 2),
 
 <!--fig:start-->
 **Quesito 4**
-![[INAO2025-Question_p5_f1.png]]
+![[_attachments/inao2025-question/inao2025-question_p5_f1.png]]
 <!--fig:end-->
 
 Figure 2: A schematic sketch of the Star S - Planet P - Moon M system
@@ -233,7 +233,7 @@ In un sistema planetario simile al nostro (vedere figura 2),
 
 <!--fig:start-->
 **Quesito 4**
-![[INAO2025-Question_p5_f1.png]]
+![[_attachments/inao2025-question/inao2025-question_p5_f1.png]]
 <!--fig:end-->
 
 Figura 2: Sketch schematico del sistema Stella S - Pianeta P - Luna M
@@ -269,7 +269,7 @@ The axes of the Hertzsprung–Russell (HR) diagram in Figure 3 represent two fun
 
 <!--fig:start-->
 **Quesito 5**
-![[INAO2025-Question_p6_f1.png]]
+![[_attachments/inao2025-question/inao2025-question_p6_f1.png]]
 <!--fig:end-->
 
 Figure 3: The HR diagram
@@ -304,7 +304,7 @@ Gli assi del diagramma di HertzsprungRussell (HR) nella Figura 3 rappresentano d
 
 <!--fig:start-->
 **Quesito 5**
-![[INAO2025-Question_p6_f1.png]]
+![[_attachments/inao2025-question/inao2025-question_p6_f1.png]]
 <!--fig:end-->
 
 Figura 3: Il diagramma delle risorse umane
@@ -344,7 +344,7 @@ Refer to the attached Figure 4. Three identical gas clouds are marked as A, B, a
 
 <!--fig:start-->
 **Quesito 6**
-![[INAO2025-Question_p7_f1.png]]
+![[_attachments/inao2025-question/inao2025-question_p7_f1.png]]
 <!--fig:end-->
 
 Figure 4: Locations of gas clouds
@@ -371,7 +371,7 @@ Si riferisce alla figura 4. Tre nuvole di gas identiche sono contrassegnate come
 
 <!--fig:start-->
 **Quesito 6**
-![[INAO2025-Question_p7_f1.png]]
+![[_attachments/inao2025-question/inao2025-question_p7_f1.png]]
 <!--fig:end-->
 
 Figura 4: Localizzazione delle nuvole di gas
@@ -432,7 +432,7 @@ Let us consider a distant point-like object, say a star, which is emitting radia
 
 <!--fig:start-->
 **Quesito 8**
-![[INAO2025-Question_p8_f1.png]]
+![[_attachments/inao2025-question/inao2025-question_p8_f1.png]]
 <!--fig:end-->
 
 Figure 5: Star is in the centre and all the dots are the clouds absorbing radiation incident on them from the star and then emitted as line radiation towards a distant observer.
@@ -451,7 +451,7 @@ Consideriamo un oggetto lontano, come un punto, ad esempio una stella, che emett
 
 <!--fig:start-->
 **Quesito 8**
-![[INAO2025-Question_p8_f1.png]]
+![[_attachments/inao2025-question/inao2025-question_p8_f1.png]]
 <!--fig:end-->
 
 Figura 5: La stella è al centro e tutti i punti sono le nuvole che assorbono il risorgimento delle radiazioni provenienti dalla stella e che vengono quindi emesse come radiazioni lineari verso un osservatore lontano.
@@ -475,7 +475,7 @@ On August 16, 2023, it was new Moon and on August 23, 2023, 6 PM IST (the Chandr
 
 <!--fig:start-->
 **Quesito 9**
-![[INAO2025-Question_p8_f2.png]]
+![[_attachments/inao2025-question/inao2025-question_p8_f2.png]]
 <!--fig:end-->
 
 The orbital plane of Moon is tilted by about $5^{\circ}$, with respect to the ecliptic plane, and it orbits in an elliptical orbit. However, assume that the path of Moon around the Earth is coplanar with ecliptic and the orbit is circular.
@@ -489,7 +489,7 @@ An observer from Moon (nearside close to equator) will see the illuminated porti
 
 <!--fig:start-->
 **Quesito 9**
-![[INAO2025-Question_p9_f1.png]]
+![[_attachments/inao2025-question/inao2025-question_p9_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Astrophysics]]
@@ -506,7 +506,7 @@ Il 16 agosto 2023, era la Luna nuova e il 23 agosto 2023, alle 6 di sera IST (l'
 
 <!--fig:start-->
 **Quesito 9**
-![[INAO2025-Question_p8_f2.png]]
+![[_attachments/inao2025-question/inao2025-question_p8_f2.png]]
 <!--fig:end-->
 
 Il piano orbitale della Luna è inclinato di circa $5^{\circ}$, rispetto al piano eclittico, e orbita in un'orbita ellittica. Tuttavia, supponiamo che il percorso della Luna intorno alla Terra sia coplanare con l'eclittica e l'orbita sia circolare.
@@ -520,7 +520,7 @@ Un osservatore dalla Luna (vicino all'equatore) vedrà la parte illuminata della
 
 <!--fig:start-->
 **Quesito 9**
-![[INAO2025-Question_p9_f1.png]]
+![[_attachments/inao2025-question/inao2025-question_p9_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Astrophysics]]

@@ -210,7 +210,7 @@ ELECTRICIDAD Y MAGNETISMO
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]], [[Electrostatics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Wave Equation (metodo)|Wave Equation]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Point Charge (object)|Point Charge]], [[Electron (object)|Electron]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Point Charge (object)|Point Charge]], [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Dyp9tFsHLXjm0dHxED65bE1ic5WCo8yS/view)
 
 
@@ -331,7 +331,7 @@ L'elettricità e il magnetismo
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]], [[Electrostatics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Wave Equation (metodo)|Wave Equation]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Point Charge (object)|Point Charge]], [[Electron (object)|Electron]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Point Charge (object)|Point Charge]], [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Dyp9tFsHLXjm0dHxED65bE1ic5WCo8yS/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -451,5 +451,5 @@ Electricity and magnetism
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]], [[Electrostatics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Wave Equation (metodo)|Wave Equation]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Point Charge (object)|Point Charge]], [[Electron (object)|Electron]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Point Charge (object)|Point Charge]], [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Dyp9tFsHLXjm0dHxED65bE1ic5WCo8yS/view)

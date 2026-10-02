@@ -26,7 +26,7 @@ tags:
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1FoD_qhtR8AH57_Xu9pn8Ca808x3Jeq-q/view)
 
 
@@ -39,7 +39,7 @@ tags:
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1FoD_qhtR8AH57_Xu9pn8Ca808x3Jeq-q/view)
 
 
@@ -143,7 +143,7 @@ What is:
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1FoD_qhtR8AH57_Xu9pn8Ca808x3Jeq-q/view)
 
 
@@ -166,7 +166,7 @@ Che cos'è:
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1FoD_qhtR8AH57_Xu9pn8Ca808x3Jeq-q/view)
 
 
@@ -299,7 +299,7 @@ I) Quali sono le probabili fonti di radiazioni prodotte?
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]], [[Rod (object)|Rod]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1FoD_qhtR8AH57_Xu9pn8Ca808x3Jeq-q/view)
 
 
@@ -322,7 +322,7 @@ I) Quali sono le probabili fonti di radiazioni prodotte?
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]], [[Rod (object)|Rod]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1FoD_qhtR8AH57_Xu9pn8Ca808x3Jeq-q/view)
 
 
@@ -379,7 +379,7 @@ I) Quali sono le probabili fonti di radiazioni prodotte?
 **Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]], [[Point Charge (object)|Point Charge]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]], [[Point Charge (object)|Point Charge]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1FoD_qhtR8AH57_Xu9pn8Ca808x3Jeq-q/view)
 
 
@@ -392,7 +392,7 @@ I) Quali sono le probabili fonti di radiazioni prodotte?
 **Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]], [[Point Charge (object)|Point Charge]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]], [[Point Charge (object)|Point Charge]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1FoD_qhtR8AH57_Xu9pn8Ca808x3Jeq-q/view)
 
 

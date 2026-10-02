@@ -68,7 +68,7 @@ dove "$\times$" e "$\cdot$" rappresentano rispettivamente il prodotto vettoriale
 **Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]], [[Magnetism]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]], [[Inductor (object)|Inductor]], [[Magnetic Dipole (object)|Magnetic Dipole]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]], [[Inductor (object)|Inductor]], [[Magnetic Dipole (object)|Magnetic Dipole]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1doROE-nyZi7QBPu6fScyRvQdqhVfyTsR/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1fUs1qI5HkoT6eCt9paDdax3c8vtbWuHY/view)
 
@@ -128,6 +128,6 @@ where '$\times$' and '$\cdot$' represent the vector product and the scalar produ
 **Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]], [[Magnetism]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]], [[Inductor (object)|Inductor]], [[Magnetic Dipole (object)|Magnetic Dipole]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]], [[Inductor (object)|Inductor]], [[Magnetic Dipole (object)|Magnetic Dipole]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1doROE-nyZi7QBPu6fScyRvQdqhVfyTsR/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1fUs1qI5HkoT6eCt9paDdax3c8vtbWuHY/view)

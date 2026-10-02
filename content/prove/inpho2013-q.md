@@ -74,7 +74,7 @@ The figure below depicts the reflection of normally incident monochromatic wave 
 
 <!--fig:start-->
 **Quesito 2**
-![[inpho2013-Q_p5_f1.png]]
+![[_attachments/inpho2013-q/inpho2013-q_p5_f1.png]]
 <!--fig:end-->
 
 Two reflected waves will interfere. The interference is due to deBroglie wave of the electron accelerated from rest by less then 1 keV.
@@ -100,7 +100,7 @@ La figura seguente raffigura il riflesso di onde monocromatiche normalmente inci
 
 <!--fig:start-->
 **Quesito 2**
-![[inpho2013-Q_p5_f1.png]]
+![[_attachments/inpho2013-q/inpho2013-q_p5_f1.png]]
 <!--fig:end-->
 
 Due onde riflesse interferiranno. L'interferenza è dovuta all'onda deBroglie dell'elettrone accelerata dal riposo di meno di 1 keV.
@@ -133,7 +133,7 @@ Consider a bicycle in vertical position accelerating forward without slipping on
 
 <!--fig:start-->
 **Quesito 3**
-![[inpho2013-Q_p7_f1.png]]
+![[_attachments/inpho2013-q/inpho2013-q_p7_f1.png]]
 <!--fig:end-->
 
 (b) Obtain the acceleration $a$ in terms of the above mentioned quantities. [2]
@@ -163,7 +163,7 @@ a) Disegnare il diagramma della carrozzeria libera del sistema (bicicletta e cic
 
 <!--fig:start-->
 **Quesito 3**
-![[inpho2013-Q_p7_f1.png]]
+![[_attachments/inpho2013-q/inpho2013-q_p7_f1.png]]
 <!--fig:end-->
 
 b) Ottenere l'accelerazione $a$ in termini di quantità sopra menzionate. [2]
@@ -196,7 +196,7 @@ The figure below depicts a concave mirror with center of curvature $C$ focus $F$
 
 <!--fig:start-->
 **Quesito 4**
-![[inpho2013-Q_p9_f1.png]]
+![[_attachments/inpho2013-q/inpho2013-q_p9_f1.png]]
 <!--fig:end-->
 
 (a) Express $k$ in terms of $\{w, R\}$. [3]
@@ -209,7 +209,7 @@ $$k =$$
 
 <!--fig:start-->
 **Quesito 4**
-![[inpho2013-Q_p10_f1.png]]
+![[_attachments/inpho2013-q/inpho2013-q_p10_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]
@@ -225,7 +225,7 @@ La figura seguente raffigura uno specchio concavo con centro di curvatura $C$ fo
 
 <!--fig:start-->
 **Quesito 4**
-![[inpho2013-Q_p9_f1.png]]
+![[_attachments/inpho2013-q/inpho2013-q_p9_f1.png]]
 <!--fig:end-->
 
 a) Esprimere $k$ in termini di $\{w, R\}$. [3]
@@ -238,7 +238,7 @@ c) Considerare i punti $P_1, P_2, \ldots P_n$ dello specchio concavo che sono se
 
 <!--fig:start-->
 **Quesito 4**
-![[inpho2013-Q_p10_f1.png]]
+![[_attachments/inpho2013-q/inpho2013-q_p10_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]
@@ -259,7 +259,7 @@ Two long parallel wires in the $yz$ plane at a distance $2a$ apart carry a stead
 
 <!--fig:start-->
 **Quesito 5**
-![[inpho2013-Q_p11_f1.png]]
+![[_attachments/inpho2013-q/inpho2013-q_p11_f1.png]]
 <!--fig:end-->
 
 (a) Obtain the torque tending to rotate the rectangular loop about its axis as a function of $\phi$. Here $\phi$ is the angle that plane of loop makes with the plane of wires. [5]
@@ -283,7 +283,7 @@ Due lunghi fili paralleli nel piano $yz$ a distanza $2a$ da loro portano una cor
 
 <!--fig:start-->
 **Quesito 5**
-![[inpho2013-Q_p11_f1.png]]
+![[_attachments/inpho2013-q/inpho2013-q_p11_f1.png]]
 <!--fig:end-->
 
 (a) Ottenere la coppia che tende a ruotare il ciclo rettangolare intorno al suo asse come funzione di $\phi$. Qui $\phi$ è l'angolo che il piano di loop fa con il piano di fili. [5]

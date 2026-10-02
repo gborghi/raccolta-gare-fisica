@@ -247,7 +247,7 @@ Per rendere reversibile il processo di termalizzazione, con delle opportune modi
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/15LQxi6RmJFCPOikkL6znB9XbxORQ4WaX/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1xwYBM9D1JxIqUwMxLnH9ouojs2QlYTSm/view)
 
@@ -292,6 +292,6 @@ To make the thermalisation process reversible, with appropriate modifications an
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/15LQxi6RmJFCPOikkL6znB9XbxORQ4WaX/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1xwYBM9D1JxIqUwMxLnH9ouojs2QlYTSm/view)

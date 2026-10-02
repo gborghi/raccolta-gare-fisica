@@ -139,7 +139,7 @@ Relativamente alla distribuzione delle cariche indotte, sarà sufficiente studia
 **Topic:** [[Electrostatics]], [[Electromagnetism]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Gauss's Law (metodo)|Gauss's Law]], [[Symmetry Argument (metodo)|Symmetry Argument]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Point Charge (object)|Point Charge]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1v41jP5F22XWBHF5b4LxwmwM0uHHwpeRl/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/18Cy4mmNLddGLALeu-RcWUBqaEOWUkEY2/view)
 
@@ -165,7 +165,7 @@ For the distribution of induced loads, it will suffice to study the situation al
 **Topic:** [[Electrostatics]], [[Electromagnetism]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Gauss's Law (metodo)|Gauss's Law]], [[Symmetry Argument (metodo)|Symmetry Argument]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Point Charge (object)|Point Charge]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1v41jP5F22XWBHF5b4LxwmwM0uHHwpeRl/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/18Cy4mmNLddGLALeu-RcWUBqaEOWUkEY2/view)
 

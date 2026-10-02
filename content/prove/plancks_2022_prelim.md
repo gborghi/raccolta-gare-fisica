@@ -40,7 +40,7 @@ Useful data:
 
 The surface area of a spherical cap is given by $A = 2\pi d_m h$, where $h$ is the height (or depth) of the mirror.
 
-![[PLANCKS_2022_prelim_p3_f1.png]]
+![[prove/_attachments/plancks_2022_prelim/plancks_2022_prelim_p3_f1.png]]
 
 **(a) (8 marks)** Work out the surface area of the *big-shiny-moving-star-inator* that:
 
@@ -88,7 +88,7 @@ Dati utili:
 
 L'area superficiale di un tappo sferico è data da $A = 2\pi d_m h$, dove $h$ è l'altezza (o la profondità) dello specchio.
 
-![[PLANCKS_2022_prelim_p3_f1.png]]
+![[prove/_attachments/plancks_2022_prelim/plancks_2022_prelim_p3_f1.png]]
 
 **(a) (8 marchi) ** Esaminare la superficie del * grande e luminoso in movimento stella-inatore * che:
 
@@ -239,7 +239,7 @@ For all tasks, you may need the volume of a spherical cap formula (refer to figu
 - in terms of sphere radius and cap height $V = \frac{\pi h^2}{3}(3R - h)$;
 - in terms of cap radius and height $V = \frac{1}{6}\pi h(3a^2 + h^2)$.
 
-![[PLANCKS_2022_prelim_p7_f1.png]]
+![[prove/_attachments/plancks_2022_prelim/plancks_2022_prelim_p7_f1.png]]
 *figure 1, figure 2, figure 3, figure 4*
 
 **(a) (4 marks)** Tigger places the funnel upside down on a rubber base, so, the connection between the funnel edge and the surface is hermetic. Through the hole in the top, Tigger pours the liquid in, measuring the total volume. At some moment, the hydrostatic pressure pushes the funnel up, and the liquid starts leaking. Identify the total liquid volume $V$ when this happens. Assume that this volume is strictly less than the total funnel volume. Refer to figure 1.
@@ -252,7 +252,7 @@ For all tasks, you may need the volume of a spherical cap formula (refer to figu
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -268,7 +268,7 @@ Per tutte le attività, è possibile che sia necessario il volume di una formula
 - in termini di raggio di sfera e altezza del tappo $V = \frac{\pi h^2}{3}(3R - h)$;
 - in termini di raggio e altezza del tappo $V = \frac{1}{6}\pi h(3a^2 + h^2)$.
 
-![[PLANCKS_2022_prelim_p7_f1.png]]
+![[prove/_attachments/plancks_2022_prelim/plancks_2022_prelim_p7_f1.png]]
 *figura 1, figura 2, figura 3, figura 4*
 
 **(a) (4 marchi) ** Tigger pone il funnel a testa in giù su una base di gomma, quindi la connessione tra il bordo del funnel e la superficie è ermetica. Attraverso il buco in cima, Tigger versò il liquido, misurando il volume totale. In un certo momento, la pressione idrostatica spinge l'imbranaggio e il liquido inizia a perdere. Indicare il volume totale del liquido $V$ quando ciò accade. Supponiamo che questo volume sia strettamente inferiore al volume totale del funnel. Si riferisce alla figura 1.
@@ -281,7 +281,7 @@ Per tutte le attività, è possibile che sia necessario il volume di una formula
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 
 
 
@@ -299,7 +299,7 @@ This question is concerned with the oscillations of a single particle, mass $m$,
 
 For the system comprising just one spring with motion in the direction $x$, as shown in figure 1,
 
-![[PLANCKS_2022_prelim_p8_f1.png]]
+![[prove/_attachments/plancks_2022_prelim/plancks_2022_prelim_p8_f1.png]]
 *Figure 1: Single spring-mass system.*
 
 the period, $\tau$, is, in terms of $k$ and $m$, given by
@@ -314,7 +314,7 @@ In each case the equilibrium position is defined by the length $L$ with $L > l_0
 
 **(a) (2 marks)** Consider the system with two springs as shown in figure 2.
 
-![[PLANCKS_2022_prelim_p8_f2.png]]
+![[prove/_attachments/plancks_2022_prelim/plancks_2022_prelim_p8_f2.png]]
 *Figure 2: System with two springs along direction of motion.*
 
 Find the value of $\lambda_1$.
@@ -323,14 +323,14 @@ Find the value of $\lambda_1$.
 
 **(b) (3 marks)** This part involves two springs, as shown in figure 3.
 
-![[PLANCKS_2022_prelim_p9_f1.png]]
+![[prove/_attachments/plancks_2022_prelim/plancks_2022_prelim_p9_f1.png]]
 *Figure 3: System with two springs perpendicular to direction of motion.*
 
 Find the value of $\lambda_2$.
 
 **(c) (2 marks)** You may find the result in this section to be of help in sections (iv) and (v).
 
-![[PLANCKS_2022_prelim_p9_f2.png]]
+![[prove/_attachments/plancks_2022_prelim/plancks_2022_prelim_p9_f2.png]]
 *Figure 4: (a) Definition of $l_1$, $l_2$, $\alpha$ and $\beta$; (b) forces $F_1$ and $F_2$.*
 
 > The situation shown in figure 4(a) shows a point, P, a *small* distance, $x$, from the point E. Show:
@@ -345,14 +345,14 @@ Find the value of $\lambda_2$.
 
 **(d) (2 marks)** This part involves four springs along the diagonals of a square, ABCD, as shown in figure 5.
 
-![[PLANCKS_2022_prelim_p10_f1.png]]
+![[prove/_attachments/plancks_2022_prelim/plancks_2022_prelim_p10_f1.png]]
 *Figure 5: System with four springs along the diagonals of a square.*
 
 Find the value of $\lambda_3$.
 
 **(e) (1 mark)** This final part involves six springs arranged in a regular hexagonal form, ABCDEF, as shown in figure 6.
 
-![[PLANCKS_2022_prelim_p11_f1.png]]
+![[prove/_attachments/plancks_2022_prelim/plancks_2022_prelim_p11_f1.png]]
 *Figure 6: System with six springs in a regular hexagon.*
 
 Find the value of $\lambda_4$.
@@ -374,7 +374,7 @@ Questa domanda riguarda le oscillazioni di una singola particella, di massa $m$,
 
 Per il sistema che comprende solo una molla con movimento nella direzione $x$, come mostrato alla figura 1,
 
-![[PLANCKS_2022_prelim_p8_f1.png]]
+![[prove/_attachments/plancks_2022_prelim/plancks_2022_prelim_p8_f1.png]]
 *Figura 1: Sistema a massa solare di molla.*
 
 il periodo $\tau$ è, in termini di $k$ e $m$, dato da:
@@ -389,7 +389,7 @@ In ogni caso la posizione di equilibrio è definita dalla lunghezza $L$ con $L >
 
 **(a) (2 punti) ** Considerate il sistema con due molla come mostrato nella figura 2.
 
-![[PLANCKS_2022_prelim_p8_f2.png]]
+![[prove/_attachments/plancks_2022_prelim/plancks_2022_prelim_p8_f2.png]]
 *Figura 2: Sistema con due mollacci lungo la direzione di movimento.*
 
 Trova il valore di $\lambda_1$.
@@ -398,14 +398,14 @@ Trova il valore di $\lambda_1$.
 
 **(b) (3 punti) ** Questa parte comprende due molle, come mostrato alla figura 3.
 
-![[PLANCKS_2022_prelim_p9_f1.png]]
+![[prove/_attachments/plancks_2022_prelim/plancks_2022_prelim_p9_f1.png]]
 *Figura 3: Sistema con due molla perpendicolare alla direzione di movimento.*
 
 Trova il valore di $\lambda_2$.
 
 ** c) (2 punti) ** Il risultato di questa sezione può essere utile nelle sezioni (iv) e (v).
 
-![[PLANCKS_2022_prelim_p9_f2.png]]
+![[prove/_attachments/plancks_2022_prelim/plancks_2022_prelim_p9_f2.png]]
 *Figura 4: (a) Definizione di $l_1$, $l_2$, $\alpha$ e $\beta$; (b) forze $F_1$ e $F_2$.*
 
 > La situazione mostrata alla figura 4 ((a) mostra un punto, P, a distanza *small*, $x$, dal punto E. - Lo spettacolo:
@@ -420,14 +420,14 @@ Trova il valore di $\lambda_2$.
 
 **(d) (2 marchi) ** Questa parte comprende quattro molle lungo le diagonali di un quadrato, ABCD, come mostrato alla figura 5.
 
-![[PLANCKS_2022_prelim_p10_f1.png]]
+![[prove/_attachments/plancks_2022_prelim/plancks_2022_prelim_p10_f1.png]]
 *Figura 5: Sistema con quattro molle lungo le diagonali di un quadrato.*
 
 Trova il valore di $\lambda_3$.
 
 **(e) (1 segno) ** Questa parte finale comprende sei molle disposte in forma esagonale regolare, ABCDEF, come mostrato alla figura 6.
 
-![[PLANCKS_2022_prelim_p11_f1.png]]
+![[prove/_attachments/plancks_2022_prelim/plancks_2022_prelim_p11_f1.png]]
 *Figura 6: Sistema con sei mollacci in un esagono regolare.*
 
 Trova il valore di $\lambda_4$.

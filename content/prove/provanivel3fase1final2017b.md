@@ -659,7 +659,7 @@ atrito entre o bloco A e o plano inclinado.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1PwEdt_DyPjjHZw4flY08F6t9VEnVl7s4/view)
 
 
@@ -678,7 +678,7 @@ tra il blocco A e il piano inclinato.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1PwEdt_DyPjjHZw4flY08F6t9VEnVl7s4/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -696,7 +696,7 @@ friction between block A and the slope.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1PwEdt_DyPjjHZw4flY08F6t9VEnVl7s4/view)
 
 
@@ -946,7 +946,7 @@ pressão.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1PwEdt_DyPjjHZw4flY08F6t9VEnVl7s4/view)
 
 
@@ -966,7 +966,7 @@ ha capito l'avviso del medico, perché nella parte parzialmente bloccata da gras
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1PwEdt_DyPjjHZw4flY08F6t9VEnVl7s4/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -985,7 +985,7 @@ pressure.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1PwEdt_DyPjjHZw4flY08F6t9VEnVl7s4/view)
 
 
@@ -1070,7 +1070,7 @@ aplicadas sobre ela, além de desprezar qualquer tipo de rotação na mesma.
 **Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1PwEdt_DyPjjHZw4flY08F6t9VEnVl7s4/view)
 
 
@@ -1092,7 +1092,7 @@ Applicato su di essa, oltre a disprezzare qualsiasi tipo di rotazione in essa.
 **Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1PwEdt_DyPjjHZw4flY08F6t9VEnVl7s4/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1113,7 +1113,7 @@ The Commission has not yet taken any further action.
 **Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1PwEdt_DyPjjHZw4flY08F6t9VEnVl7s4/view)
 
 

@@ -125,7 +125,7 @@ $$m = 0{,}267\ \text{kg}$$
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1BTnlgeWDC3DbE1PIRHxJvW5Ln1gLnTA8/view)
 
 
@@ -237,7 +237,7 @@ $$m = 0{,}267\ \text{kg}$$
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1BTnlgeWDC3DbE1PIRHxJvW5Ln1gLnTA8/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -348,7 +348,7 @@ $$m = 0{,}267\ \text{kg}$$
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1BTnlgeWDC3DbE1PIRHxJvW5Ln1gLnTA8/view)
 
 

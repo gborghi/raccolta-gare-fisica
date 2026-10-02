@@ -36,7 +36,7 @@ Our environment is filled with sound and sound effects. This experimental proble
 | I | Detector holders | 1 | | Ruler | |
 | J | Metal mirror / Reflector | 1 | | | |
 
-![[APhO_2008_exp_p1_f1.png]]
+![[prove/_attachments/apho_2008_exp/apho_2008_exp_p1_f1.png]]
 **Figure 1. Apparatus and materials**
 
 #### Instrument notes
@@ -79,7 +79,7 @@ Our environment is filled with sound and sound effects. This experimental proble
 
 **2a. Study of the Wave Interference (1.6 points).** Using the instruments 1–8 shown in the above list, assemble the experimental set-up shown in Fig. 2.1 and study the interference of the wave. To reduce possible undesirable interference, be cautious and place other instruments away from the detector. Connect the function generator to the Source and set the frequency at $40\ \text{kHz}$.
 
-![[APhO_2008_exp_p6_f1.png]]
+![[prove/_attachments/apho_2008_exp/apho_2008_exp_p6_f1.png]]
 **Fig. 2.1. Study of the wave interference.** Position A: The detector is placed between Source and Mirror. Position B: The detector is placed behind the Source. S — Source, M — Mirror, D — Detector.
 
 **2a.1.** Place the detector in Position A (shown in Figure 2.1) and observe the dependence of the detected signal level on the positions of S, M and D. When the detector is too close to the source there will occur unclear effects, therefore do not measure at close distance to the source. Remember the detector has angular sensitivity. The detector should be placed for optimum measurement.
@@ -137,7 +137,7 @@ where $f_0$ is the frequency of the wave emitted by the Source, $c$ the speed of
 
 **3a. Formulas for the Doppler shift of sound from the rotating disk (1.5 points).** A sound wave from the Source reflects off the saw tooth of the rotating disk (Figure 1) and the Doppler effect occurs. If we denote by $v$ the velocity of motion of the saw tooth in the $R$ direction, obtain a formula for $f$ in terms of $v$, $c$ and $f_0$ for this case. Make sure that in the experimental setup the angle dependence is negligible, or that the incident and reflected angles are less than $5°$. From the obtained expression, write a simplified formula for $\Delta f / f_0$ as a function of $v/c$ using the abbreviation $\Delta f = |f - f_0|$, for the case $v \ll c$, where $f_0$ is the working frequency. The whole derivation procedure should be written on the Answer sheet.
 
-![[APhO_2008_exp_p9_f1.png]]
+![[prove/_attachments/apho_2008_exp/apho_2008_exp_p9_f1.png]]
 **Figure 1. The saw tooth of the rotating disk**
 
 **3b. Calculations for the Doppler effect from the rotating disk (1.4 points).** Derive the expression for the radial velocity $v$ of the middle point of the saw tooth in terms of the angular velocity $\Omega$ of the rotating disk and $\Delta l$. (The saw tooth's height is $\Delta l = 4.37 \pm 0.05\ \text{mm}$, for further calculation.)
@@ -217,7 +217,7 @@ Il nostro ambiente è pieno di suoni e effetti sonori. Questo problema speriment
 # # Sono il detettore # # il governante #
 # J  Metal Mirror / Riflettore # 1 
 
-![[APhO_2008_exp_p1_f1.png]]
+![[prove/_attachments/apho_2008_exp/apho_2008_exp_p1_f1.png]]
 **Figura 1. Apparecchi e materiali**
 
 ##### Notte per strumenti
@@ -260,7 +260,7 @@ Descrizione degli esperimenti
 
 **2a. Studi di interferenza d'onda (1,6 punti).** Con gli strumenti 18 mostrati nell'elenco di cui sopra, assemblare la configurazione sperimentale mostrata nella figura. 2.1 e studiare l'interferenza dell'onda. Per ridurre eventuali interferenze indesiderate, si deve essere cauti e mettere a distanza altri strumenti dal rilevatore. Connettere il generatore di funzioni alla sorgente e impostare la frequenza a $40\ \text{kHz}$.
 
-![[APhO_2008_exp_p6_f1.png]]
+![[prove/_attachments/apho_2008_exp/apho_2008_exp_p6_f1.png]]
 **Fig. 2.1. Studi di interferenza delle onde.** Pozizione A: Il rilevatore è posizionato tra la sorgente e lo specchio. Pozizione B: Il rilevatore è posto dietro la Fonte. S  Fonte, M  Specchio, D  Detector.
 
 **2a.1.** Metti il rilevatore nella posizione A (visto nella figura 2.1) e osserva la dipendenza del livello di segnale rilevato dalle posizioni S, M e D. Quando il rilevatore è troppo vicino alla fonte si verificano effetti poco chiari, quindi non misurare a distanza vicina alla fonte. Ricordate che il rilevatore ha sensibilità angolare. Il rilevatore deve essere posizionato per una misurazione ottimale.
@@ -318,7 +318,7 @@ in cui $f_0$ è la frequenza dell'onda emessa dalla sorgente, $c$ la velocità d
 
 **3a. Formula per il spostamento del suono da Doppler dal disco rotante (1,5 punti).** Una onda sonora proveniente dalla sorgente si riflette sul dente di seggia del disco rotante (Figura 1) e si verifica l'effetto Doppler. Se indichiamo con $v$ la velocità di movimento del dente di sega nella direzione $R$, ottieni una formula per $f$ in termini di $v$, $c$ e $f_0$ per questo caso. Assicurarsi che nell'impostazione sperimentale la dipendenza da angolo sia trascurabile o che l'incidente e gli angoli riflessi siano inferiori a $5°$. Scribire una formula semplificata per $\Delta f / f_0$ come funzione di $v/c$ utilizzando l'abbreviazione $\Delta f = |f - f_0|$, per il caso $v \ll c$, dove $f_0$ è la frequenza di lavoro. L'intera procedura di derivazione deve essere scritta sulla scheda di risposta.
 
-![[APhO_2008_exp_p9_f1.png]]
+![[prove/_attachments/apho_2008_exp/apho_2008_exp_p9_f1.png]]
 **Figura 1. Il dente di seggia del disco rotante**
 
 **3b. Calcoli dell'effetto Doppler dal disco rotante (1,4 punti).** Derivare l'espressione della velocità radial $v$ del punto medio del dente di sega in termini di velocità angolare $\Omega$ del disco rotante e $\Delta l$. (L'altezza del dente di seggia è $\Delta l = 4.37 \pm 0.05\ \text{mm}$, per ulteriori calcoli.)

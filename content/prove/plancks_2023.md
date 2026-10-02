@@ -53,10 +53,10 @@ $$
 
 The Bessel functions of the first kind, $y = J_\alpha(x)$, are regular at $x \to 0$, while those of the second kind, $y = Y_\alpha(x)$, diverge in the same limit. In Fig. 2 some of the Bessel functions are plotted.
 
-![[PLANCKS_2023_p1_f1.png]]
+![[_attachments/plancks_2023/plancks_2023_p1_f1.png]]
 *Figure 1: A cavity between two coaxial cylinders.*
 
-![[PLANCKS_2023_p1_f2.png]]
+![[_attachments/plancks_2023/plancks_2023_p1_f2.png]]
 *Figure 2: Bessel functions of the first and second kind.*
 
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1ycpaO_7pEmRDV7PEV1ICutpOjL15YAot/view)
@@ -104,10 +104,10 @@ $$
 
 Le funzioni di Bessel di prima specie, $y = J_\alpha(x)$, sono regolari per $x \to 0$, mentre quelle di seconda specie, $y = Y_\alpha(x)$, divergono nello stesso limite. In Fig. 2 sono rappresentate alcune delle funzioni di Bessel.
 
-![[PLANCKS_2023_p1_f1.png]]
+![[_attachments/plancks_2023/plancks_2023_p1_f1.png]]
 *Figura 1: Una cavità tra due cilindri coassiali.*
 
-![[PLANCKS_2023_p1_f2.png]]
+![[_attachments/plancks_2023/plancks_2023_p1_f2.png]]
 *Figura 2: Funzioni di Bessel di prima e seconda specie.*
 
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1ycpaO_7pEmRDV7PEV1ICutpOjL15YAot/view)
@@ -225,7 +225,7 @@ $$
 
 vi) (3 points) show that the smallest value $x_m > 0$ such that $\tilde{P}_e(x_m;\xi) = 0$ scales as $1/\xi$ in the limit $\xi \gg 1$.
 
-![[PLANCKS_2023_p3_f1.png]]
+![[_attachments/plancks_2023/plancks_2023_p3_f1.png]]
 *Two-cavity Ramsey setup: cavity 1 — free evolution ($T$) — cavity 2.*
 
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1ycpaO_7pEmRDV7PEV1ICutpOjL15YAot/view)
@@ -295,7 +295,7 @@ $$
 
 vi) (3 points) mostrare che il più piccolo valore $x_m > 0$ tale che $\tilde{P}_e(x_m;\xi) = 0$ scala come $1/\xi$ nel limite $\xi \gg 1$.
 
-![[PLANCKS_2023_p3_f1.png]]
+![[_attachments/plancks_2023/plancks_2023_p3_f1.png]]
 *Apparato di Ramsey a due cavità: cavità 1 — evoluzione libera ($T$) — cavità 2.*
 
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1ycpaO_7pEmRDV7PEV1ICutpOjL15YAot/view)
@@ -393,7 +393,7 @@ Now, let's assume $\beta = \beta_{\max}$, $r = 1\ \text{cm}$, $R = 0.5\ \text{m}
 
 vii) (4 points) what is the minimum value $v_0^{\min}$ of the initial speed $v_0$, such that the rolling ball keeps the conditions of "pure rolling" during all its motion? [provide both formula and numerical value]
 
-![[PLANCKS_2023_p5_f1.png]]
+![[_attachments/plancks_2023/plancks_2023_p5_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.23](https://drive.google.com/file/d/1ycpaO_7pEmRDV7PEV1ICutpOjL15YAot/view)
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
@@ -430,7 +430,7 @@ Ora, supponiamo $\beta = \beta_{\max}$, $r = 1\ \text{cm}$, $R = 0.5\ \text{m}$,
 
 vii) (4 punti) qual è il valore minimo $v_0^{\min}$ della velocità iniziale $v_0$, in modo tale che la palla di rotolamento mantenga le condizioni di "rollo puro" durante tutto il suo movimento? [indicare sia la formula che il valore numerica]
 
-![[PLANCKS_2023_p5_f1.png]]
+![[_attachments/plancks_2023/plancks_2023_p5_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.23](https://drive.google.com/file/d/1ycpaO_7pEmRDV7PEV1ICutpOjL15YAot/view)
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
@@ -471,7 +471,7 @@ ii) (2 points) Determine the Poynting vector in the above regions and discuss th
 
 iii) (4 points) Finally, assume $R = 0$ and determine the electromagnetic momentum of the system and compare it with movements of the parts of the system, if any.
 
-![[PLANCKS_2023_p6_f1.png]]
+![[_attachments/plancks_2023/plancks_2023_p6_f1.png]]
 *Figure 4: geometry of the battery a), coaxial cable b), and resistor c).*
 
 **Fonte:** [Testo (PDF) — p.27](https://drive.google.com/file/d/1ycpaO_7pEmRDV7PEV1ICutpOjL15YAot/view)
@@ -508,7 +508,7 @@ ii) (2 points) Determinare il vettore di Poynting nelle regioni sopra indicate e
 
 iii) (4 points) Infine, assumere $R = 0$ e determinare la quantità di moto elettromagnetica del sistema e confrontarla con i movimenti delle parti del sistema, se presenti.
 
-![[PLANCKS_2023_p6_f1.png]]
+![[_attachments/plancks_2023/plancks_2023_p6_f1.png]]
 *Figura 4: geometria della batteria a), del cavo coassiale b) e del resistore c).*
 
 **Fonte:** [Testo (PDF) — p.27](https://drive.google.com/file/d/1ycpaO_7pEmRDV7PEV1ICutpOjL15YAot/view)
@@ -563,7 +563,7 @@ ix) (1 point) Describe the expression of the root mean squared deflection angle 
 
 x) (1 point) Considering a $150\ \text{MeV}$ proton and a $285\ \text{MeV/u}$ carbon ion, compute the ratio of $\theta_0$ of proton over carbon ion after 1 meter of air.
 
-![[PLANCKS_2023_p7_f1.png]]
+![[_attachments/plancks_2023/plancks_2023_p7_f1.png]]
 *Figure 6: $\dfrac{\mu_{en}/\rho}{\mu/\rho}$ vs. photon energy for lead.*
 
 **Fonte:** [Testo (PDF) — p.34](https://drive.google.com/file/d/1ycpaO_7pEmRDV7PEV1ICutpOjL15YAot/view)
@@ -613,7 +613,7 @@ ix) (1 punto) Descrivere l'espressione dell'angolo di deviazione quadrata medio 
 
 x) (1 punto) Considerando un protone $150\ \text{MeV}$ e un ione di carbonio $285\ \text{MeV/u}$, calcolare il rapporto di $\theta_0$ di protone su ione di carbonio dopo 1 metro di aria.
 
-![[PLANCKS_2023_p7_f1.png]]
+![[_attachments/plancks_2023/plancks_2023_p7_f1.png]]
 *Figura 6: $\dfrac{\mu_{en}/\rho}{\mu/\rho}$ vs. energia fotonica per il piombo.*
 
 **Fonte:** [Testo (PDF) — p.34](https://drive.google.com/file/d/1ycpaO_7pEmRDV7PEV1ICutpOjL15YAot/view)
@@ -654,7 +654,7 @@ $$
 + \left(A_r\frac{\partial B_z}{\partial r} + \frac{A_\phi}{r}\frac{\partial B_z}{\partial \phi} + A_z\frac{\partial B_z}{\partial z}\right)\hat{z}
 $$
 
-![[PLANCKS_2023_p8_f1.png]]
+![[_attachments/plancks_2023/plancks_2023_p8_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.40](https://drive.google.com/file/d/1ycpaO_7pEmRDV7PEV1ICutpOjL15YAot/view)
 **Topic:** [[Astrophysics]], [[Fluid Mechanics]]
@@ -689,7 +689,7 @@ $$
 + \left(A_r\frac{\partial B_z}{\partial r} + \frac{A_\phi}{r}\frac{\partial B_z}{\partial \phi} + A_z\frac{\partial B_z}{\partial z}\right)\hat{z}
 $$
 
-![[PLANCKS_2023_p8_f1.png]]
+![[_attachments/plancks_2023/plancks_2023_p8_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.40](https://drive.google.com/file/d/1ycpaO_7pEmRDV7PEV1ICutpOjL15YAot/view)
 **Topic:** [[Astrophysics]], [[Fluid Mechanics]]

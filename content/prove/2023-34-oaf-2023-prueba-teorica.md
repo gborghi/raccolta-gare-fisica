@@ -743,7 +743,7 @@ frecuencia.
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1UaxomltixM7jARUskPOIsQLA3pL8aVw6/view)
 
 
@@ -920,7 +920,7 @@ frequenza.
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1UaxomltixM7jARUskPOIsQLA3pL8aVw6/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1096,7 +1096,7 @@ frequency.
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1UaxomltixM7jARUskPOIsQLA3pL8aVw6/view)
 
 

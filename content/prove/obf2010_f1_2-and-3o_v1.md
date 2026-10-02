@@ -834,7 +834,7 @@ $$\text{(E) } m = \frac{4\pi^2 T^2}{a^3}$$
 **Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Zq71Qwgp1CoRYdbRs80FaA9zFork_jE1/view)
 
 
@@ -856,7 +856,7 @@ $$\text{(E) } m = \frac{4\pi^2 T^2}{a^3}$$
 **Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Zq71Qwgp1CoRYdbRs80FaA9zFork_jE1/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -877,7 +877,7 @@ The following table shows the number of lines of the line:
 **Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Zq71Qwgp1CoRYdbRs80FaA9zFork_jE1/view)
 
 
@@ -904,7 +904,7 @@ The following table shows the number of lines of the line:
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Zq71Qwgp1CoRYdbRs80FaA9zFork_jE1/view)
 
 
@@ -926,7 +926,7 @@ The following table shows the number of lines of the line:
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Zq71Qwgp1CoRYdbRs80FaA9zFork_jE1/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -947,7 +947,7 @@ The following table shows the number of lines of the line:
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Zq71Qwgp1CoRYdbRs80FaA9zFork_jE1/view)
 
 

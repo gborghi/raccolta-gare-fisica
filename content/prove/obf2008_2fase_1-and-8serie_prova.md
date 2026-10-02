@@ -250,7 +250,7 @@ Fig. 3
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Ball (object)|Ball]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/132QifFWOaiSJYs8s2mdCpRdueexq4b20/view)
 
 
@@ -274,7 +274,7 @@ Fig. 3
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Ball (object)|Ball]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/132QifFWOaiSJYs8s2mdCpRdueexq4b20/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -297,7 +297,7 @@ Fig. 3
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Ball (object)|Ball]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/132QifFWOaiSJYs8s2mdCpRdueexq4b20/view)
 
 
@@ -546,7 +546,7 @@ Fig. 5
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Manometer (object)|Manometer]], [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Manometer (object)|Manometer]], [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/132QifFWOaiSJYs8s2mdCpRdueexq4b20/view)
 
 
@@ -580,7 +580,7 @@ Fig. 5
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Manometer (object)|Manometer]], [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Manometer (object)|Manometer]], [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/132QifFWOaiSJYs8s2mdCpRdueexq4b20/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -613,7 +613,7 @@ Fig. 5
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Manometer (object)|Manometer]], [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Manometer (object)|Manometer]], [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/132QifFWOaiSJYs8s2mdCpRdueexq4b20/view)
 
 
@@ -744,7 +744,7 @@ Fig. 7
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/132QifFWOaiSJYs8s2mdCpRdueexq4b20/view)
 
 
@@ -763,7 +763,7 @@ Fig. 7
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/132QifFWOaiSJYs8s2mdCpRdueexq4b20/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -781,7 +781,7 @@ Fig. 7
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/132QifFWOaiSJYs8s2mdCpRdueexq4b20/view)
 
 

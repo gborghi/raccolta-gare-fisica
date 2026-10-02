@@ -396,7 +396,7 @@ opportuno coefficiente di assorbimento di tale energia.
 **Topic:** [[Thermodynamics]], [[Conservation of Energy]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Differential Equations (metodo)|Differential Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1yFjUapFQw8JYDAUlLA0wg2MsXAIzi8Dn/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vuc0nT_XQn2pfXwhJxskKqshPjf8tj0S/view)
 
@@ -410,7 +410,7 @@ appropriate coefficient of absorption of such energy.
 **Topic:** [[Thermodynamics]], [[Conservation of Energy]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Differential Equations (metodo)|Differential Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1yFjUapFQw8JYDAUlLA0wg2MsXAIzi8Dn/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vuc0nT_XQn2pfXwhJxskKqshPjf8tj0S/view)
 
@@ -447,7 +447,7 @@ dove $\alpha$, $\beta$ e $B_0$ sono opportune costanti positive.
 **Topic:** [[Thermodynamics]], [[Conservation of Energy]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Coil (object)|Coil]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Coil (object)|Coil]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1yFjUapFQw8JYDAUlLA0wg2MsXAIzi8Dn/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vuc0nT_XQn2pfXwhJxskKqshPjf8tj0S/view)
 
@@ -479,7 +479,7 @@ where $\alpha$, $\beta$ and $B_0$ are appropriate positive constants.
 **Topic:** [[Thermodynamics]], [[Conservation of Energy]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Coil (object)|Coil]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Coil (object)|Coil]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1yFjUapFQw8JYDAUlLA0wg2MsXAIzi8Dn/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vuc0nT_XQn2pfXwhJxskKqshPjf8tj0S/view)
 

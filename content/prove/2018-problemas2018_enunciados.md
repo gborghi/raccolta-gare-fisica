@@ -242,7 +242,7 @@ En un experimento se pretende determinar la tensión superficial de un líquido 
 **Topic:** [[Fluid Mechanics]], [[Elasticity & Materials]]
 **Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]], [[Curve Fitting (metodo)|Curve Fitting]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/12LDhUrzCejuv_-kaFwXjvmmleoCiHoJi/view)
 
 
@@ -275,7 +275,7 @@ In un esperimento si intende determinare la tensione superficiale di un liquido 
 **Topic:** [[Fluid Mechanics]], [[Elasticity & Materials]]
 **Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]], [[Curve Fitting (metodo)|Curve Fitting]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/12LDhUrzCejuv_-kaFwXjvmmleoCiHoJi/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -307,5 +307,5 @@ The Commission has also adopted a number of proposals for the implementation of 
 **Topic:** [[Fluid Mechanics]], [[Elasticity & Materials]]
 **Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]], [[Curve Fitting (metodo)|Curve Fitting]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/12LDhUrzCejuv_-kaFwXjvmmleoCiHoJi/view)

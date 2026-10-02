@@ -81,7 +81,7 @@ O
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yDQ8A0-4S0GN2_Ptkn1-bh4hbDLFlQXa/view)
 
 
@@ -102,7 +102,7 @@ O
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yDQ8A0-4S0GN2_Ptkn1-bh4hbDLFlQXa/view)
 
 
@@ -179,7 +179,7 @@ watching from top?
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1yDQ8A0-4S0GN2_Ptkn1-bh4hbDLFlQXa/view)
 
 
@@ -208,7 +208,7 @@ Guardando da sopra?
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1yDQ8A0-4S0GN2_Ptkn1-bh4hbDLFlQXa/view)
 
 
@@ -446,7 +446,7 @@ on the vessel just after the tape breaks.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1yDQ8A0-4S0GN2_Ptkn1-bh4hbDLFlQXa/view)
 
 
@@ -465,7 +465,7 @@ sulla nave appena dopo che la nastro si è rotto.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1yDQ8A0-4S0GN2_Ptkn1-bh4hbDLFlQXa/view)
 
 

@@ -696,7 +696,7 @@ As assertivas verdadeiras são:
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Droplet (object)|Droplet]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Droplet (object)|Droplet]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/12DBs4fh2vcp1nRlizVL83UgDy4S1TDWF/view)
 
 
@@ -722,7 +722,7 @@ Le vere affermazioni sono:
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Droplet (object)|Droplet]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Droplet (object)|Droplet]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/12DBs4fh2vcp1nRlizVL83UgDy4S1TDWF/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -747,7 +747,7 @@ The true assertions are:
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Droplet (object)|Droplet]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Droplet (object)|Droplet]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/12DBs4fh2vcp1nRlizVL83UgDy4S1TDWF/view)
 
 
@@ -1068,7 +1068,7 @@ ambiente no qual as fotos foram tiradas?
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/12DBs4fh2vcp1nRlizVL83UgDy4S1TDWF/view)
 
 
@@ -1092,7 +1092,7 @@ ambiente in cui le foto sono state scattate?
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/12DBs4fh2vcp1nRlizVL83UgDy4S1TDWF/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1115,7 +1115,7 @@ the environment in which the photos were taken?
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/12DBs4fh2vcp1nRlizVL83UgDy4S1TDWF/view)
 
 
@@ -1148,7 +1148,7 @@ www.water-right.com/homeownerresources/how-does-a-well-work
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Lever (object)|Lever]], [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]], [[Wheel (object)|Wheel]]
+**Objects:** [[Lever (object)|Lever]], [[Cylinder (object)|Cylinder]], [[objects/rope-string-(object)|Rope/String]], [[Wheel (object)|Wheel]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/12DBs4fh2vcp1nRlizVL83UgDy4S1TDWF/view)
 
 
@@ -1176,7 +1176,7 @@ www.water-right.com/homeownerresources/how-does-a-well-work
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Lever (object)|Lever]], [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]], [[Wheel (object)|Wheel]]
+**Objects:** [[Lever (object)|Lever]], [[Cylinder (object)|Cylinder]], [[objects/rope-string-(object)|Rope/String]], [[Wheel (object)|Wheel]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/12DBs4fh2vcp1nRlizVL83UgDy4S1TDWF/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1203,7 +1203,7 @@ The Commission has also adopted a number of measures to ensure that the Commissi
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Lever (object)|Lever]], [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]], [[Wheel (object)|Wheel]]
+**Objects:** [[Lever (object)|Lever]], [[Cylinder (object)|Cylinder]], [[objects/rope-string-(object)|Rope/String]], [[Wheel (object)|Wheel]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/12DBs4fh2vcp1nRlizVL83UgDy4S1TDWF/view)
 
 
@@ -1481,7 +1481,7 @@ impossível de estar em equilíbrio hidrostático?
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/12DBs4fh2vcp1nRlizVL83UgDy4S1TDWF/view)
 
 
@@ -1502,7 +1502,7 @@ impossibile essere in equilibrio idrostatico?
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/12DBs4fh2vcp1nRlizVL83UgDy4S1TDWF/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1522,5 +1522,5 @@ impossible to be in hydrostatic equilibrium?
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/12DBs4fh2vcp1nRlizVL83UgDy4S1TDWF/view)

@@ -119,7 +119,7 @@ Correct answer:
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1tG5BAqy-TuNiDM4fbKxWNHu7Xg7FUOdo/view)
 
 
@@ -146,7 +146,7 @@ Corretta risposta:
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1tG5BAqy-TuNiDM4fbKxWNHu7Xg7FUOdo/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -172,7 +172,7 @@ Correct answer:
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1tG5BAqy-TuNiDM4fbKxWNHu7Xg7FUOdo/view)
 
 
@@ -1284,7 +1284,7 @@ Result:
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.26](https://drive.google.com/file/d/1tG5BAqy-TuNiDM4fbKxWNHu7Xg7FUOdo/view)
 
 
@@ -1365,7 +1365,7 @@ Risultato:
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.26](https://drive.google.com/file/d/1tG5BAqy-TuNiDM4fbKxWNHu7Xg7FUOdo/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1445,5 +1445,5 @@ The result:
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.26](https://drive.google.com/file/d/1tG5BAqy-TuNiDM4fbKxWNHu7Xg7FUOdo/view)

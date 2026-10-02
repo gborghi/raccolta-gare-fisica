@@ -156,7 +156,7 @@ B.2
 **Topic:** [[Fluid Mechanics]], [[Circuits]], [[Elasticity & Materials]]
 **Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Differential Equations (metodo)|Differential Equations]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Capacitor (object)|Capacitor]], [[Inductor (object)|Inductor]], [[Resistor (object)|Resistor]], [[Membrane (object)|Membrane]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Capacitor (object)|Capacitor]], [[Inductor (object)|Inductor]], [[Resistor (object)|Resistor]], [[Membrane (object)|Membrane]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1McQnuA40HwJW0-TuY1R67g1KRbAVRCQG/view)
 
 
@@ -303,5 +303,5 @@ B.2
 **Topic:** [[Fluid Mechanics]], [[Circuits]], [[Elasticity & Materials]]
 **Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Differential Equations (metodo)|Differential Equations]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Capacitor (object)|Capacitor]], [[Inductor (object)|Inductor]], [[Resistor (object)|Resistor]], [[Membrane (object)|Membrane]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Capacitor (object)|Capacitor]], [[Inductor (object)|Inductor]], [[Resistor (object)|Resistor]], [[Membrane (object)|Membrane]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1McQnuA40HwJW0-TuY1R67g1KRbAVRCQG/view)

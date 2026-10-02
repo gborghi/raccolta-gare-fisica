@@ -215,7 +215,7 @@ Elevator going up at constant speed
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/12V4Ao4SGeWoGEX2UpkogRIh51gB1_wn2/view)
 
 
@@ -237,7 +237,7 @@ Ascensione a velocità costante
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/12V4Ao4SGeWoGEX2UpkogRIh51gB1_wn2/view)
 
 
@@ -518,7 +518,7 @@ Use your estimate to comment on whether your answer to part (c) is reasonable.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Error Propagation (competenza)|Error Propagation]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/12V4Ao4SGeWoGEX2UpkogRIh51gB1_wn2/view)
 
 
@@ -561,7 +561,7 @@ Usa la tua stima per commentare se la tua risposta alla parte (c) è ragionevole
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Error Propagation (competenza)|Error Propagation]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/12V4Ao4SGeWoGEX2UpkogRIh51gB1_wn2/view)
 
 

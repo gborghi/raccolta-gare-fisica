@@ -86,7 +86,7 @@ numerico dell’esponente $\nu$.
 **Topic:** [[Newtonian Mechanics]], [[Magnetism]], [[Thermodynamics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Ball (object)|Ball]], [[Rod (object)|Rod]], [[Solenoid (object)|Solenoid]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Ball (object)|Ball]], [[Rod (object)|Rod]], [[Solenoid (object)|Solenoid]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1bNvKSOosTEsA2dlVOR9qveAJx6fafrDD/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/10UahBkIRhTaN1M9iOugaOwa4UnTG6VHI/view)
 
@@ -164,6 +164,6 @@ The following table shows the steps used in the calculation of the total number 
 **Topic:** [[Newtonian Mechanics]], [[Magnetism]], [[Thermodynamics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Ball (object)|Ball]], [[Rod (object)|Rod]], [[Solenoid (object)|Solenoid]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Ball (object)|Ball]], [[Rod (object)|Rod]], [[Solenoid (object)|Solenoid]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1bNvKSOosTEsA2dlVOR9qveAJx6fafrDD/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/10UahBkIRhTaN1M9iOugaOwa4UnTG6VHI/view)

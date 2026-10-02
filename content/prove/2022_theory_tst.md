@@ -224,7 +224,7 @@ negligible compared to the speed at which water enters the glass.
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Continuity Equation (metodo)|Continuity Equation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1IOAWfHqE-0RckmydENAPm5PS2qL8KvS_/view)
 
 
@@ -247,7 +247,7 @@ non è considerato importante rispetto alla velocità con cui l'acqua entra nel 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Continuity Equation (metodo)|Continuity Equation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1IOAWfHqE-0RckmydENAPm5PS2qL8KvS_/view)
 
 
@@ -267,7 +267,7 @@ of the string.
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1IOAWfHqE-0RckmydENAPm5PS2qL8KvS_/view)
 
 
@@ -282,7 +282,7 @@ della corda.
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1IOAWfHqE-0RckmydENAPm5PS2qL8KvS_/view)
 
 
@@ -304,7 +304,7 @@ but it can be solved with a clever change of variable.)
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Conservation Laws (metodo)|Conservation Laws]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1IOAWfHqE-0RckmydENAPm5PS2qL8KvS_/view)
 
 
@@ -321,7 +321,7 @@ ma può essere risolto con una cambiamento intelligente della variabile.)
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Conservation Laws (metodo)|Conservation Laws]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1IOAWfHqE-0RckmydENAPm5PS2qL8KvS_/view)
 
 

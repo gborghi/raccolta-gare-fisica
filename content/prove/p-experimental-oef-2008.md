@@ -32,7 +32,7 @@ $\overline{\Delta V}$, para cálculos posteriores.
 **Topic:** [[Electromagnetic Induction]], [[Newtonian Mechanics]], [[Circuits]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Resistor (object)|Resistor]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Resistor (object)|Resistor]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1vJ3ILlWMLIf_szJeR6FVLUeh_fmYbl34/view)
 
 
@@ -51,7 +51,7 @@ $\overline{\Delta V}$, per ulteriori calcoli.
 **Topic:** [[Electromagnetic Induction]], [[Newtonian Mechanics]], [[Circuits]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Resistor (object)|Resistor]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Resistor (object)|Resistor]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1vJ3ILlWMLIf_szJeR6FVLUeh_fmYbl34/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -69,7 +69,7 @@ $\overline{\Delta V}$, for further calculations.
 **Topic:** [[Electromagnetic Induction]], [[Newtonian Mechanics]], [[Circuits]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Resistor (object)|Resistor]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Resistor (object)|Resistor]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1vJ3ILlWMLIf_szJeR6FVLUeh_fmYbl34/view)
 
 

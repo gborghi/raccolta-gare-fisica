@@ -558,7 +558,7 @@ a) $2{,}5\ \text{m/s}^2$ b) $0{,}5\ \text{m/s}^2$ c) $1{,}0\ \text{m/s}^2$ d) $2
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Pipe/Tube (object)|Pipe/Tube]], [[Projectile (object)|Projectile]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Ball (object)|Ball]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Projectile (object)|Projectile]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/107uOUlRnTK-Zh7PIas75XxhI_c3YaiJ-/view)
 
 
@@ -612,7 +612,7 @@ a) $2{,}5\ \text{m/s}^2$ b) $0{,}5\ \text{m/s}^2$ c) $1{,}0\ \text{m/s}^2$ d) $2
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Pipe/Tube (object)|Pipe/Tube]], [[Projectile (object)|Projectile]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Ball (object)|Ball]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Projectile (object)|Projectile]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/107uOUlRnTK-Zh7PIas75XxhI_c3YaiJ-/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -665,7 +665,7 @@ a) $2{,}5\ \text{m/s}^2$ b) $0{,}5\ \text{m/s}^2$ c) $1{,}0\ \text{m/s}^2$ d) $2
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Pipe/Tube (object)|Pipe/Tube]], [[Projectile (object)|Projectile]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Ball (object)|Ball]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Projectile (object)|Projectile]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/107uOUlRnTK-Zh7PIas75XxhI_c3YaiJ-/view)
 
 
@@ -848,7 +848,7 @@ Assinale a proposição CORRETA.
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/107uOUlRnTK-Zh7PIas75XxhI_c3YaiJ-/view)
 
 
@@ -868,7 +868,7 @@ Quando si inizia un movimento, l'energia cinetica di A è sempre uguale all'ener
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/107uOUlRnTK-Zh7PIas75XxhI_c3YaiJ-/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -887,7 +887,7 @@ When the motion is initiated, the kinetic energy of A is always equal to the kin
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/107uOUlRnTK-Zh7PIas75XxhI_c3YaiJ-/view)
 
 

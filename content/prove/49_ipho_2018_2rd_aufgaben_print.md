@@ -84,7 +84,7 @@ For the solution, assume that the cuboid does not rotate during the motion.
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Block (object)|Block]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BdHA95pOUH-r_m9zIcx3D2T-b1qN4oLF/view)
 
 
@@ -155,7 +155,7 @@ Per la soluzione, supponiamo che il cuboide non ruota durante il movimento.
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Block (object)|Block]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BdHA95pOUH-r_m9zIcx3D2T-b1qN4oLF/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -225,7 +225,7 @@ For the solution, assume that the cuboid does not rotate during motion.
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Block (object)|Block]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BdHA95pOUH-r_m9zIcx3D2T-b1qN4oLF/view)
 
 
@@ -610,7 +610,7 @@ like ideal gases.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Gas (object)|Gas]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1BdHA95pOUH-r_m9zIcx3D2T-b1qN4oLF/view)
 
 
@@ -662,7 +662,7 @@ Come i gas ideali.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Gas (object)|Gas]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1BdHA95pOUH-r_m9zIcx3D2T-b1qN4oLF/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -713,5 +713,5 @@ like ideal gases.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Gas (object)|Gas]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1BdHA95pOUH-r_m9zIcx3D2T-b1qN4oLF/view)

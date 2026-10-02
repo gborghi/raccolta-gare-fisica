@@ -60,7 +60,7 @@ Il periodo orbitale della Luna intorno alla Terra è di 27,3 giorni. Il periodo 
 
 A circular hole with radius $R/2$ is carved from a uniform circular disk of radius $R$. A smaller disk with radius $R/4$ with the same uniform density is then put inside the hole, as shown in the figure below. The center of mass of the whole system is located at a distance $d$ from the origin. Find $d$.
 
-![[HKPhO_2017_p2_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p2_f1.png]]
 
 - **(A)** $R/13$
 - **(B)** $5R/52$
@@ -80,7 +80,7 @@ A circular hole with radius $R/2$ is carved from a uniform circular disk of radi
 
 Un buco circolare di raggio $R/2$ è scolpito da un disco circolare uniforme di raggio $R$. Un disco più piccolo con raggio $R/4$ con la stessa densità uniforme viene poi inserito all'interno del buco, come mostrato nella figura seguente. Il centro di massa di tutto il sistema si trova a una distanza $d$ dall'origine. Trova $d$.
 
-![[HKPhO_2017_p2_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p2_f1.png]]
 
 - **(A)** $R/13$
 - **(B)** $5R/52$
@@ -146,7 +146,7 @@ Un orologio a pendolo di secondi perde 20 secondi al giorno al posto A ma guadag
 
 A loop of chain of mass $M$ and length (circumference) $L$ rests on the slanted surface of a cone. The chain lies in a horizontal plane, and the half-angle of the cone is $\vartheta$. Assume that the contact surfaces are smooth. What is the tension in the chain?
 
-![[HKPhO_2017_p4_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p4_f1.png]]
 
 - **(A)** $\dfrac{2\pi M g}{\vartheta}$
 - **(B)** $\pi^2 M g \sec^2 \vartheta$
@@ -159,14 +159,14 @@ A loop of chain of mass $M$ and length (circumference) $L$ rests on the slanted 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 Un ciclo di catena di massa $M$ e lunghezza (circumferenza) $L$ si posa sulla superficie inclinata di un cono. La catena si trova in un piano orizzontale e il semicongo del cono è $\vartheta$. Supponiamo che le superfici di contatto siano lisce. Qual è la tensione nella catena?
 
-![[HKPhO_2017_p4_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p4_f1.png]]
 
 - **(A)** $\dfrac{2\pi M g}{\vartheta}$
 - **(B)** $\pi^2 M g \sec^2 \vartheta$
@@ -179,7 +179,7 @@ Un ciclo di catena di massa $M$ e lunghezza (circumferenza) $L$ si posa sulla su
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 
 
 
@@ -191,7 +191,7 @@ Un ciclo di catena di massa $M$ e lunghezza (circumferenza) $L$ si posa sulla su
 
 Particle 1 of mass $m_1$ takes time $t_1$ to slide down from rest on a chord starting from the highest point $H$ of a vertical circle. Particle 2 of mass $m_2$ takes time $t_2$ to slide down from rest on a chord ending at the lowest point $L$ of the circle. Particle 3 of mass $m_3$ takes time $t_3$ to drop from point $H$ to point $L$ (along the vertical diameter). Assume that the contact surfaces are smooth. Compare $t_1$, $t_2$, and $t_3$.
 
-![[HKPhO_2017_p5_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p5_f1.png]]
 
 - **(A)** $t_1 = t_2 = t_3$.
 - **(B)** $t_1 = t_2 > t_3$.
@@ -211,7 +211,7 @@ Particle 1 of mass $m_1$ takes time $t_1$ to slide down from rest on a chord sta
 
 La particella 1 di massa $m_1$ richiede tempo $t_1$ per scivolare dal riposo su un'accordazione partendo dal punto più alto $H$ di un cerchio verticale. La particella 2 di massa $m_2$ richiede tempo $t_2$ per scivolare dal riposo su un'accorda che termina al punto più basso $L$ del cerchio. La particella 3 di massa $m_3$ deve impiegare $t_3$ per scendere dal punto $H$ al punto $L$ (lungo il diametro verticale). Supponiamo che le superfici di contatto siano lisce. Compare $t_1$, $t_2$ e $t_3$.
 
-![[HKPhO_2017_p5_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p5_f1.png]]
 
 - **(A)** $t_1 = t_2 = t_3$.
 - **(B)** $t_1 = t_2 > t_3$.
@@ -277,7 +277,7 @@ Un satellite sta orbitando intorno alla Terra in orbita circolare a velocità $v
 
 A spacecraft moving with initial velocity $u$ approaches Jupiter (which moves with orbital velocity $U$) at an angle $\phi$ to the planet's orbital motion. The spacecraft does not enter Jupiter's atmosphere. The gravitational pull from Jupiter causes the spacecraft to swing around the planet and head off with final velocity $v$ in another direction. Note that $u$ and $v$ are the velocities when the spacecraft is sufficiently far away from Jupiter's gravitational influence. Find the final velocity $v$ of the spacecraft.
 
-![[HKPhO_2017_p7_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p7_f1.png]]
 
 - **(A)** $\sqrt{u^2 + U^2 - 2uU\cos\phi}$
 - **(B)** $\sqrt{4u^2 + U^2 - 4uU\cos\phi}$
@@ -297,7 +297,7 @@ A spacecraft moving with initial velocity $u$ approaches Jupiter (which moves wi
 
 Una nave spaziale in movimento con velocità iniziale $u$ si avvicina a Giove (che si muove con velocità orbitale $U$) ad un angolo $\phi$ al movimento orbitale del pianeta. La sonda spaziale non entra nell'atmosfera di Giove. L'attrazione gravitazionale di Giove fa girare la sonda intorno al pianeta e partire con velocità finale $v$ in un'altra direzione. Si noti che $u$ e $v$ sono le velocità quando la sonda spaziale è abbastanza lontana dall'influenza gravitazionale di Giove. Trova la velocità finale $v$ della sonda spaziale.
 
-![[HKPhO_2017_p7_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p7_f1.png]]
 
 - **(A)** $\sqrt{u^2 + U^2 - 2uU\cos\phi}$
 - **(B)** $\sqrt{4u^2 + U^2 - 4uU\cos\phi}$
@@ -363,7 +363,7 @@ Un grande pezzo di granito viene messo a bordo di una barca, che galleggia in un
 
 Consider a ship of mass $M$ and volume $V$ floating in water with density $\rho$. Assume that its density is uniform and its horizontal and vertical cross sections are rectangular. To prevent the ship from overturning, a thin layer of mass $m$ is placed at the bottom floor of the ship. What is the minimum value of $m$?
 
-![[HKPhO_2017_p9_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p9_f1.png]]
 
 - **(A)** $\rho V - M$
 - **(B)** $\dfrac{\rho V}{2M} - M$
@@ -383,7 +383,7 @@ Consider a ship of mass $M$ and volume $V$ floating in water with density $\rho$
 
 Considerate una nave di massa $M$ e volume $V$ galleggiante in acqua con densità $\rho$. Supponiamo che la densità sia uniforme e che le sue sezioni trasversali orizzontali e verticali siano rettangolari. Per evitare che la nave si rovesci, al piano inferiore della nave viene posizionato un sottile strato di massa $m$. Qual è il valore minimo di $m$?
 
-![[HKPhO_2017_p9_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p9_f1.png]]
 
 - **(A)** $\rho V - M$
 - **(B)** $\dfrac{\rho V}{2M} - M$
@@ -408,7 +408,7 @@ Considerate una nave di massa $M$ e volume $V$ galleggiante in acqua con densit�
 
 A chain, of mass per unit length $\mu$, is hung vertically by an upward pull $P$ acting at the upper end of the chain. Meanwhile, the chain is lowered onto the floor with velocity $v$. Let $l$ be the length of the free-hanging portion of the chain above the floor. Find the acceleration $\ddot{l}$ of the top end of the chain.
 
-![[HKPhO_2017_p10_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p10_f1.png]]
 
 - **(A)** $\ddot{l} = -g$
 - **(B)** $\ddot{l} = \dfrac{P}{\mu l} - g$
@@ -421,14 +421,14 @@ A chain, of mass per unit length $\mu$, is hung vertically by an upward pull $P$
 **Topic:** [[Conservation of Momentum]]
 **Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 Una catena, di massa per lunghezza unitaria $\mu$, è appesa in verticale da un trazione ascendente $P$ che agisce all'estremità superiore della catena. Nel frattempo, la catena viene abbassata sul pavimento con velocità $v$. La $l$ deve essere la lunghezza della parte di catena che si appende liberamente sopra il pavimento. Trova l'accelerazione $\ddot{l}$ dell'estremità superiore della catena.
 
-![[HKPhO_2017_p10_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p10_f1.png]]
 
 - **(A)** $\ddot{l} = -g$
 - **(B)** $\ddot{l} = \dfrac{P}{\mu l} - g$
@@ -441,7 +441,7 @@ Una catena, di massa per lunghezza unitaria $\mu$, è appesa in verticale da un 
 **Topic:** [[Conservation of Momentum]]
 **Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 
 
 
@@ -453,7 +453,7 @@ Una catena, di massa per lunghezza unitaria $\mu$, è appesa in verticale da un 
 
 A man with a ball of mass $m$ on his hand is sitting on the basket hung by a hot air balloon. The total mass of the balloon, the basket and the man is $M$ and the whole system remains at rest in the sky. Suddenly the man throws the ball vertically upward, and the ball falls back to his hand after time $t$. What is the total work done by the man in throwing the ball?
 
-![[HKPhO_2017_p11_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p11_f1.png]]
 
 - **(A)** $\dfrac{m(M+m)}{8M}g^2 t^2$
 - **(B)** $\dfrac{m(M+m)}{4M}g^2 t^2$
@@ -473,7 +473,7 @@ A man with a ball of mass $m$ on his hand is sitting on the basket hung by a hot
 
 Un uomo con una palla di massa $m$ sulla mano sta seduto sul cesto appeso da un palloncino ad aria calda. La massa totale del pallone, del cestino e dell'uomo è $M$ e l'intero sistema rimane a riposo nel cielo. All'improvviso l'uomo lancia la palla verticalmente verso l'alto, e la palla cade di nuovo nella sua mano dopo il tempo $t$. Qual è il lavoro totale fatto dall'uomo nel lanciare la palla?
 
-![[HKPhO_2017_p11_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p11_f1.png]]
 
 - **(A)** $\dfrac{m(M+m)}{8M}g^2 t^2$
 - **(B)** $\dfrac{m(M+m)}{4M}g^2 t^2$
@@ -498,7 +498,7 @@ Un uomo con una palla di massa $m$ sulla mano sta seduto sul cesto appeso da un 
 
 Three blocks with masses 10 kg, 5 kg and 1 kg respectively are sitting on the frictionless tabletop as shown in the figure. Initially, the 10 kg block is moving with $10\ \text{m s}^{-1}$ to the right. Assume all the collisions are elastic, what is the final velocity of the 1 kg mass after collision?
 
-![[HKPhO_2017_p12_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p12_f1.png]]
 
 - **(A)** $11.1\ \text{m s}^{-1}$
 - **(B)** $22.2\ \text{m s}^{-1}$
@@ -518,7 +518,7 @@ Three blocks with masses 10 kg, 5 kg and 1 kg respectively are sitting on the fr
 
 Tre blocchi di massa rispettivamente di 10 kg, 5 kg e 1 kg sono posti sulla tavola senza attrito, come mostrato nella figura. Inizialmente, il blocco di 10 kg si muove con $10\ \text{m s}^{-1}$ a destra. Supponiamo che tutte le collisioni siano elastiche, qual è la velocità finale della massa di 1 kg dopo la collisione?
 
-![[HKPhO_2017_p12_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p12_f1.png]]
 
 - **(A)** $11.1\ \text{m s}^{-1}$
 - **(B)** $22.2\ \text{m s}^{-1}$
@@ -543,7 +543,47 @@ Tre blocchi di massa rispettivamente di 10 kg, 5 kg e 1 kg sono posti sulla tavo
 
 Two blocks with masses 10 kg and 1 kg respectively are sitting on the frictionless tabletop as shown. The coefficients of static and kinetic friction on the interface between two blocks are 0.5 and 0.3 respectively. What is the acceleration of the 1 kg block relative to the 10 kg block if the horizontal force $F$ applied on the 10 kg block is 100 N?
 
-![[HKPhO_2017_p13_f1.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='161.97621pt' height='92.5235pt' viewBox='-68.01566 -68.01565 161.97621 92.5235'>
+<defs>
+<path id='g1-48' d='M4.582814-3.188045C4.582814-3.985056 4.533001-4.782067 4.184309-5.519303C3.726027-6.475716 2.909091-6.635118 2.49066-6.635118C1.892902-6.635118 1.165629-6.37609 .757161-5.449564C.438356-4.762142 .388543-3.985056 .388543-3.188045C.388543-2.440847 .428394-1.544209 .836862-.787049C1.265255 .019925 1.992528 .219178 2.480697 .219178C3.01868 .219178 3.775841 .009963 4.214197-.936488C4.533001-1.62391 4.582814-2.400996 4.582814-3.188045ZM2.480697 0C2.092154 0 1.504359-.249066 1.325031-1.205479C1.215442-1.803238 1.215442-2.719801 1.215442-3.307597C1.215442-3.945205 1.215442-4.60274 1.295143-5.140722C1.484433-6.326276 2.231631-6.41594 2.480697-6.41594C2.809465-6.41594 3.466999-6.236613 3.656289-5.250311C3.755915-4.692403 3.755915-3.935243 3.755915-3.307597C3.755915-2.560399 3.755915-1.882939 3.646326-1.24533C3.496887-.298879 2.929016 0 2.480697 0Z'/>
+<path id='g1-49' d='M2.929016-6.37609C2.929016-6.615193 2.929016-6.635118 2.699875-6.635118C2.082192-5.997509 1.205479-5.997509 .886675-5.997509V-5.688667C1.085928-5.688667 1.673724-5.688667 2.191781-5.947696V-.787049C2.191781-.428394 2.161893-.308842 1.265255-.308842H.946451V0C1.295143-.029888 2.161893-.029888 2.560399-.029888S3.825654-.029888 4.174346 0V-.308842H3.855542C2.958904-.308842 2.929016-.418431 2.929016-.787049V-6.37609Z'/>
+<path id='g1-103' d='M2.211706-1.713574C1.344956-1.713574 1.344956-2.709838 1.344956-2.938979C1.344956-3.20797 1.354919-3.526775 1.504359-3.775841C1.58406-3.895392 1.8132-4.174346 2.211706-4.174346C3.078456-4.174346 3.078456-3.178082 3.078456-2.948941C3.078456-2.67995 3.068493-2.361146 2.919054-2.11208C2.839352-1.992528 2.610212-1.713574 2.211706-1.713574ZM1.05604-1.325031C1.05604-1.364882 1.05604-1.594022 1.225405-1.793275C1.613948-1.514321 2.022416-1.484433 2.211706-1.484433C3.138232-1.484433 3.825654-2.171856 3.825654-2.938979C3.825654-3.307597 3.666252-3.676214 3.417186-3.905355C3.775841-4.244085 4.134496-4.293898 4.313823-4.293898C4.333748-4.293898 4.383562-4.293898 4.41345-4.283935C4.303861-4.244085 4.254047-4.134496 4.254047-4.014944C4.254047-3.845579 4.383562-3.726027 4.542964-3.726027C4.64259-3.726027 4.83188-3.795766 4.83188-4.024907C4.83188-4.194271 4.712329-4.513076 4.323786-4.513076C4.124533-4.513076 3.686177-4.4533 3.267746-4.044832C2.849315-4.373599 2.430884-4.403487 2.211706-4.403487C1.285181-4.403487 .597758-3.716065 .597758-2.948941C.597758-2.510585 .816936-2.132005 1.066002-1.92279C.936488-1.77335 .757161-1.444583 .757161-1.09589C.757161-.787049 .886675-.408468 1.195517-.209215C.597758-.039851 .278954 .388543 .278954 .787049C.278954 1.504359 1.265255 2.052304 2.480697 2.052304C3.656289 2.052304 4.692403 1.544209 4.692403 .767123C4.692403 .418431 4.552927-.089664 4.044832-.368618C3.516812-.647572 2.938979-.647572 2.331258-.647572C2.082192-.647572 1.653798-.647572 1.58406-.657534C1.265255-.697385 1.05604-1.006227 1.05604-1.325031ZM2.49066 1.823163C1.484433 1.823163 .797011 1.315068 .797011 .787049C.797011 .328767 1.175592-.039851 1.613948-.069738H2.201743C3.058531-.069738 4.174346-.069738 4.174346 .787049C4.174346 1.325031 3.466999 1.823163 2.49066 1.823163Z'/>
+<path id='g1-107' d='M1.05604-.757161C1.05604-.308842 .946451-.308842 .278954-.308842V0C.607721-.009963 1.075965-.029888 1.364882-.029888C1.663761-.029888 2.062267-.019925 2.460772 0V-.308842C1.793275-.308842 1.683686-.308842 1.683686-.757161V-1.783313L2.321295-2.331258C3.088418-1.275218 3.506849-.71731 3.506849-.537983C3.506849-.348692 3.337484-.308842 3.148194-.308842V0C3.427148-.009963 4.014944-.029888 4.224159-.029888C4.513076-.029888 4.801993-.019925 5.090909 0V-.308842C4.722291-.308842 4.503113-.308842 4.124533-.836862L2.859278-2.620174C2.849315-2.6401 2.799502-2.699875 2.799502-2.729763C2.799502-2.769614 3.506849-3.367372 3.606476-3.447073C4.234122-3.955168 4.652553-3.975093 4.861768-3.985056V-4.293898C4.572852-4.26401 4.443337-4.26401 4.164384-4.26401C3.805729-4.26401 3.188045-4.283935 3.048568-4.293898V-3.985056C3.237858-3.975093 3.337484-3.865504 3.337484-3.73599C3.337484-3.536737 3.198007-3.417186 3.118306-3.347447L1.713574-2.132005V-6.914072L.278954-6.804483V-6.495641C.976339-6.495641 1.05604-6.425903 1.05604-5.937733V-.757161Z'/>
+<path id='g0-70' d='M3.01868-3.237858H3.985056C4.732254-3.237858 4.811955-3.078456 4.811955-2.789539C4.811955-2.719801 4.811955-2.600249 4.742217-2.30137C4.722291-2.251557 4.712329-2.211706 4.712329-2.191781C4.712329-2.11208 4.772105-2.072229 4.83188-2.072229C4.931507-2.072229 4.931507-2.102117 4.98132-2.281445L5.529265-4.443337C5.559153-4.552927 5.559153-4.572852 5.559153-4.60274C5.559153-4.622665 5.539228-4.712329 5.439601-4.712329S5.330012-4.662516 5.290162-4.503113C5.080946-3.726027 4.851806-3.5467 4.004981-3.5467H3.098381L3.73599-6.07721C3.825654-6.425903 3.835616-6.465753 4.273973-6.465753H5.589041C6.814446-6.465753 7.043587-6.136986 7.043587-5.369863C7.043587-5.140722 7.043587-5.100872 7.013699-4.83188C6.993773-4.702366 6.993773-4.682441 6.993773-4.652553C6.993773-4.60274 7.023661-4.533001 7.113325-4.533001C7.222914-4.533001 7.232877-4.592777 7.252802-4.782067L7.452055-6.505604C7.481943-6.774595 7.43213-6.774595 7.183064-6.774595H2.30137C2.102117-6.774595 2.002491-6.774595 2.002491-6.575342C2.002491-6.465753 2.092154-6.465753 2.281445-6.465753C2.650062-6.465753 2.929016-6.465753 2.929016-6.286426C2.929016-6.246575 2.929016-6.22665 2.879203-6.047323L1.564134-.777086C1.464508-.388543 1.444583-.308842 .657534-.308842C.488169-.308842 .37858-.308842 .37858-.119552C.37858 0 .498132 0 .52802 0C.816936 0 1.554172-.029888 1.843088-.029888C2.171856-.029888 2.998755 0 3.327522 0C3.417186 0 3.536737 0 3.536737-.18929C3.536737-.268991 3.476961-.288917 3.476961-.298879C3.447073-.308842 3.427148-.308842 3.198007-.308842C2.978829-.308842 2.929016-.308842 2.67995-.328767C2.391034-.358655 2.361146-.398506 2.361146-.52802C2.361146-.547945 2.361146-.607721 2.400996-.757161L3.01868-3.237858Z'/>
+</defs>
+<g id='page1'>
+<path d='M-67.81641 24.3086V11.554687H93.7613V24.3086Z' fill='#ebebff'/>
+<path d='M-67.81641 24.3086V11.554687H93.7613V24.3086Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-13.957 11.554687V-45.1406H42.7383V11.554687Z' fill='#ffecd9'/>
+<path d='M-13.957 11.554687V-45.1406H42.7383V11.554687Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 61.94023 -25.8561)'>
+<use x='-59.311685' y='11.554419' xlink:href='#g1-49'/>
+<use x='-54.330346' y='11.554419' xlink:href='#g1-48'/>
+<use x='-46.028132' y='11.554419' xlink:href='#g1-107'/>
+<use x='-40.770044' y='11.554419' xlink:href='#g1-103'/>
+</g>
+<path d='M1.6328-45.1406V-67.8164H27.1445V-45.1406Z' fill='#ffecd9'/>
+<path d='M1.6328-45.1406V-67.8164H27.1445V-45.1406Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 64.43094 -65.5415)'>
+<use x='-59.311685' y='11.554419' xlink:href='#g1-49'/>
+<use x='-51.009471' y='11.554419' xlink:href='#g1-107'/>
+<use x='-45.751383' y='11.554419' xlink:href='#g1-103'/>
+</g>
+<path d='M-53.64063-16.793H-28.3242' stroke='#66f' fill='none' stroke-width='2.49069' stroke-miterlimit='10'/>
+<path d='M-20.50785-16.792968C-21.46879-17.039062-25.68754-18.43359-28.32426-19.94922V-13.63672C-25.68754-15.15234-21.46879-16.546875-20.50785-16.792968Z' fill='#66f'/>
+<path d='M-20.50785-16.792968C-21.46879-17.039062-25.68754-18.43359-28.32426-19.94922V-13.63672C-25.68754-15.15234-21.46879-16.546875-20.50785-16.792968Z' stroke='#66f' fill='none' stroke-width='2.49069' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 20.1998 -36.2814)'>
+<use x='-59.311685' y='11.554419' xlink:href='#g0-70'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 
 - **(A)** $6.77\ \text{m s}^{-2}$ to the left
 - **(B)** $6.77\ \text{m s}^{-2}$ to the right
@@ -563,7 +603,47 @@ Two blocks with masses 10 kg and 1 kg respectively are sitting on the frictionle
 
 Due blocchi di massa rispettivamente di 10 kg e 1 kg si trovano sul tavolo senza attrito come mostrato. I coefficienti di attrito statico e cinetico sull'interfaccia tra due blocchi sono rispettivamente 0,5 e 0,3. Qual è l'accelerazione del blocco da 1 kg rispetto al blocco da 10 kg se la forza orizzontale $F$ applicata al blocco da 10 kg è di 100 N?
 
-![[HKPhO_2017_p13_f1.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='161.97621pt' height='92.5235pt' viewBox='-68.01566 -68.01565 161.97621 92.5235'>
+<defs>
+<path id='g1-48' d='M4.582814-3.188045C4.582814-3.985056 4.533001-4.782067 4.184309-5.519303C3.726027-6.475716 2.909091-6.635118 2.49066-6.635118C1.892902-6.635118 1.165629-6.37609 .757161-5.449564C.438356-4.762142 .388543-3.985056 .388543-3.188045C.388543-2.440847 .428394-1.544209 .836862-.787049C1.265255 .019925 1.992528 .219178 2.480697 .219178C3.01868 .219178 3.775841 .009963 4.214197-.936488C4.533001-1.62391 4.582814-2.400996 4.582814-3.188045ZM2.480697 0C2.092154 0 1.504359-.249066 1.325031-1.205479C1.215442-1.803238 1.215442-2.719801 1.215442-3.307597C1.215442-3.945205 1.215442-4.60274 1.295143-5.140722C1.484433-6.326276 2.231631-6.41594 2.480697-6.41594C2.809465-6.41594 3.466999-6.236613 3.656289-5.250311C3.755915-4.692403 3.755915-3.935243 3.755915-3.307597C3.755915-2.560399 3.755915-1.882939 3.646326-1.24533C3.496887-.298879 2.929016 0 2.480697 0Z'/>
+<path id='g1-49' d='M2.929016-6.37609C2.929016-6.615193 2.929016-6.635118 2.699875-6.635118C2.082192-5.997509 1.205479-5.997509 .886675-5.997509V-5.688667C1.085928-5.688667 1.673724-5.688667 2.191781-5.947696V-.787049C2.191781-.428394 2.161893-.308842 1.265255-.308842H.946451V0C1.295143-.029888 2.161893-.029888 2.560399-.029888S3.825654-.029888 4.174346 0V-.308842H3.855542C2.958904-.308842 2.929016-.418431 2.929016-.787049V-6.37609Z'/>
+<path id='g1-103' d='M2.211706-1.713574C1.344956-1.713574 1.344956-2.709838 1.344956-2.938979C1.344956-3.20797 1.354919-3.526775 1.504359-3.775841C1.58406-3.895392 1.8132-4.174346 2.211706-4.174346C3.078456-4.174346 3.078456-3.178082 3.078456-2.948941C3.078456-2.67995 3.068493-2.361146 2.919054-2.11208C2.839352-1.992528 2.610212-1.713574 2.211706-1.713574ZM1.05604-1.325031C1.05604-1.364882 1.05604-1.594022 1.225405-1.793275C1.613948-1.514321 2.022416-1.484433 2.211706-1.484433C3.138232-1.484433 3.825654-2.171856 3.825654-2.938979C3.825654-3.307597 3.666252-3.676214 3.417186-3.905355C3.775841-4.244085 4.134496-4.293898 4.313823-4.293898C4.333748-4.293898 4.383562-4.293898 4.41345-4.283935C4.303861-4.244085 4.254047-4.134496 4.254047-4.014944C4.254047-3.845579 4.383562-3.726027 4.542964-3.726027C4.64259-3.726027 4.83188-3.795766 4.83188-4.024907C4.83188-4.194271 4.712329-4.513076 4.323786-4.513076C4.124533-4.513076 3.686177-4.4533 3.267746-4.044832C2.849315-4.373599 2.430884-4.403487 2.211706-4.403487C1.285181-4.403487 .597758-3.716065 .597758-2.948941C.597758-2.510585 .816936-2.132005 1.066002-1.92279C.936488-1.77335 .757161-1.444583 .757161-1.09589C.757161-.787049 .886675-.408468 1.195517-.209215C.597758-.039851 .278954 .388543 .278954 .787049C.278954 1.504359 1.265255 2.052304 2.480697 2.052304C3.656289 2.052304 4.692403 1.544209 4.692403 .767123C4.692403 .418431 4.552927-.089664 4.044832-.368618C3.516812-.647572 2.938979-.647572 2.331258-.647572C2.082192-.647572 1.653798-.647572 1.58406-.657534C1.265255-.697385 1.05604-1.006227 1.05604-1.325031ZM2.49066 1.823163C1.484433 1.823163 .797011 1.315068 .797011 .787049C.797011 .328767 1.175592-.039851 1.613948-.069738H2.201743C3.058531-.069738 4.174346-.069738 4.174346 .787049C4.174346 1.325031 3.466999 1.823163 2.49066 1.823163Z'/>
+<path id='g1-107' d='M1.05604-.757161C1.05604-.308842 .946451-.308842 .278954-.308842V0C.607721-.009963 1.075965-.029888 1.364882-.029888C1.663761-.029888 2.062267-.019925 2.460772 0V-.308842C1.793275-.308842 1.683686-.308842 1.683686-.757161V-1.783313L2.321295-2.331258C3.088418-1.275218 3.506849-.71731 3.506849-.537983C3.506849-.348692 3.337484-.308842 3.148194-.308842V0C3.427148-.009963 4.014944-.029888 4.224159-.029888C4.513076-.029888 4.801993-.019925 5.090909 0V-.308842C4.722291-.308842 4.503113-.308842 4.124533-.836862L2.859278-2.620174C2.849315-2.6401 2.799502-2.699875 2.799502-2.729763C2.799502-2.769614 3.506849-3.367372 3.606476-3.447073C4.234122-3.955168 4.652553-3.975093 4.861768-3.985056V-4.293898C4.572852-4.26401 4.443337-4.26401 4.164384-4.26401C3.805729-4.26401 3.188045-4.283935 3.048568-4.293898V-3.985056C3.237858-3.975093 3.337484-3.865504 3.337484-3.73599C3.337484-3.536737 3.198007-3.417186 3.118306-3.347447L1.713574-2.132005V-6.914072L.278954-6.804483V-6.495641C.976339-6.495641 1.05604-6.425903 1.05604-5.937733V-.757161Z'/>
+<path id='g0-70' d='M3.01868-3.237858H3.985056C4.732254-3.237858 4.811955-3.078456 4.811955-2.789539C4.811955-2.719801 4.811955-2.600249 4.742217-2.30137C4.722291-2.251557 4.712329-2.211706 4.712329-2.191781C4.712329-2.11208 4.772105-2.072229 4.83188-2.072229C4.931507-2.072229 4.931507-2.102117 4.98132-2.281445L5.529265-4.443337C5.559153-4.552927 5.559153-4.572852 5.559153-4.60274C5.559153-4.622665 5.539228-4.712329 5.439601-4.712329S5.330012-4.662516 5.290162-4.503113C5.080946-3.726027 4.851806-3.5467 4.004981-3.5467H3.098381L3.73599-6.07721C3.825654-6.425903 3.835616-6.465753 4.273973-6.465753H5.589041C6.814446-6.465753 7.043587-6.136986 7.043587-5.369863C7.043587-5.140722 7.043587-5.100872 7.013699-4.83188C6.993773-4.702366 6.993773-4.682441 6.993773-4.652553C6.993773-4.60274 7.023661-4.533001 7.113325-4.533001C7.222914-4.533001 7.232877-4.592777 7.252802-4.782067L7.452055-6.505604C7.481943-6.774595 7.43213-6.774595 7.183064-6.774595H2.30137C2.102117-6.774595 2.002491-6.774595 2.002491-6.575342C2.002491-6.465753 2.092154-6.465753 2.281445-6.465753C2.650062-6.465753 2.929016-6.465753 2.929016-6.286426C2.929016-6.246575 2.929016-6.22665 2.879203-6.047323L1.564134-.777086C1.464508-.388543 1.444583-.308842 .657534-.308842C.488169-.308842 .37858-.308842 .37858-.119552C.37858 0 .498132 0 .52802 0C.816936 0 1.554172-.029888 1.843088-.029888C2.171856-.029888 2.998755 0 3.327522 0C3.417186 0 3.536737 0 3.536737-.18929C3.536737-.268991 3.476961-.288917 3.476961-.298879C3.447073-.308842 3.427148-.308842 3.198007-.308842C2.978829-.308842 2.929016-.308842 2.67995-.328767C2.391034-.358655 2.361146-.398506 2.361146-.52802C2.361146-.547945 2.361146-.607721 2.400996-.757161L3.01868-3.237858Z'/>
+</defs>
+<g id='page1'>
+<path d='M-67.81641 24.3086V11.554687H93.7613V24.3086Z' fill='#ebebff'/>
+<path d='M-67.81641 24.3086V11.554687H93.7613V24.3086Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-13.957 11.554687V-45.1406H42.7383V11.554687Z' fill='#ffecd9'/>
+<path d='M-13.957 11.554687V-45.1406H42.7383V11.554687Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 61.94023 -25.8561)'>
+<use x='-59.311685' y='11.554419' xlink:href='#g1-49'/>
+<use x='-54.330346' y='11.554419' xlink:href='#g1-48'/>
+<use x='-46.028132' y='11.554419' xlink:href='#g1-107'/>
+<use x='-40.770044' y='11.554419' xlink:href='#g1-103'/>
+</g>
+<path d='M1.6328-45.1406V-67.8164H27.1445V-45.1406Z' fill='#ffecd9'/>
+<path d='M1.6328-45.1406V-67.8164H27.1445V-45.1406Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 64.43094 -65.5415)'>
+<use x='-59.311685' y='11.554419' xlink:href='#g1-49'/>
+<use x='-51.009471' y='11.554419' xlink:href='#g1-107'/>
+<use x='-45.751383' y='11.554419' xlink:href='#g1-103'/>
+</g>
+<path d='M-53.64063-16.793H-28.3242' stroke='#66f' fill='none' stroke-width='2.49069' stroke-miterlimit='10'/>
+<path d='M-20.50785-16.792968C-21.46879-17.039062-25.68754-18.43359-28.32426-19.94922V-13.63672C-25.68754-15.15234-21.46879-16.546875-20.50785-16.792968Z' fill='#66f'/>
+<path d='M-20.50785-16.792968C-21.46879-17.039062-25.68754-18.43359-28.32426-19.94922V-13.63672C-25.68754-15.15234-21.46879-16.546875-20.50785-16.792968Z' stroke='#66f' fill='none' stroke-width='2.49069' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 20.1998 -36.2814)'>
+<use x='-59.311685' y='11.554419' xlink:href='#g0-70'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 
 - **(A) ** $6.77\ \text{m s}^{-2}$ a sinistra
 - **(B) ** $6.77\ \text{m s}^{-2}$ a destra
@@ -588,7 +668,7 @@ Due blocchi di massa rispettivamente di 10 kg e 1 kg si trovano sul tavolo senza
 
 A uniform thin rod with mass $M$ and length $L$ is initially held at an angle $\theta_0$ with the ground. A small cup is fixed at the higher end of the rod with the mouth facing outward and a small ball is put inside the cup, as shown in the figure. The masses of the cup and the ball are both negligible. The rod is then released from rest to hit the ground. It is assumed that the friction of the ground is large enough so that the contact point of the rod and the ground remains the same when the rod falls. It is given that the rotational kinetic energy of the rod rotating about its end with angular speed $\omega$ is $\frac{1}{6}ML^2\omega^2$. At what angle will the ball start to move out of the cup, if the friction between the cup and the ball is negligible?
 
-![[HKPhO_2017_p14_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p14_f1.png]]
 
 - **(A)** At all angles
 - **(B)** At no angle
@@ -608,7 +688,7 @@ A uniform thin rod with mass $M$ and length $L$ is initially held at an angle $\
 
 Una canna sottile uniforme di massa $M$ e lunghezza $L$ è inizialmente tenuta in un angolo $\theta_0$ con il terreno. Una piccola tazza è fissata all'estremità superiore del bastone con la bocca rivolta verso l'esterno e una piccola palla viene messa all'interno della tazza, come mostrato nella figura. La massa della tazza e della palla sono entrambi trascurabili. La canna viene poi rilasciata dal riposo per colpire il terreno. Si presume che la frizione del terreno sia sufficientemente grande da mantenere lo stesso punto di contatto tra la canna e il terreno quando la canna cade. Si dà conto che l'energia cinetica di rotazione della canna che ruota intorno alla sua estremità con velocità angolare $\omega$ è $\frac{1}{6}ML^2\omega^2$. A quale angolo la palla inizierà a uscire dalla tazza, se l'attrito tra la tazza e la palla è trascurabile?
 
-![[HKPhO_2017_p14_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p14_f1.png]]
 
 - **(A) ** In tutti gli angoli
 - **(B) ** In nessun angolo
@@ -674,7 +754,7 @@ La diga di Grand Coulee è lunga 1270 m e alta 170 m. La potenza elettrica uscit
 
 A mass is hung from the ceiling of a lift by a spring and is initially at rest. The period of oscillation of the mass hung by the spring is $T$. At time $t = 0$ the lift starts from rest to move upwards and reaches a constant velocity in a short time. After moving a time interval equal to $3T/2$, the lift stops in a short time. Which one of the following figures represents the time dependence of the height of the mass, measured from the floor of the lift?
 
-![[HKPhO_2017_p16_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p16_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1lJRlivt02ec5BcHOt8SQAsZcMb0mJ71j/view)
 
@@ -688,7 +768,7 @@ A mass is hung from the ceiling of a lift by a spring and is initially at rest. 
 
 Una massa viene appesa al soffitto di un ascensore da una sorgente e inizialmente è in riposo. Il periodo di oscillazione della massa appesa alla molla è $T$. Al tempo $t = 0$ l'ascensore parte dal riposo per muoversi verso l'alto e raggiunge una velocità costante in breve tempo. Dopo aver spostato un intervallo di tempo pari a $3T/2$, l'ascensore si ferma in breve tempo. Quale delle seguenti figure rappresenta la dipendenza temporale dell'altezza della massa, misurata dal pavimento dell'ascensore?
 
-![[HKPhO_2017_p16_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p16_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1lJRlivt02ec5BcHOt8SQAsZcMb0mJ71j/view)
 
@@ -707,7 +787,7 @@ Una massa viene appesa al soffitto di un ascensore da una sorgente e inizialment
 
 A mass $m$ is attached to a spring and allowed to oscillate. The velocity of the mass is shown in the figure. What is the maximum acceleration magnitude of the mass?
 
-![[HKPhO_2017_p17_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p17_f1.png]]
 
 - **(A)** $39.27\ \text{cm s}^{-2}$
 - **(B)** $78.54\ \text{cm s}^{-2}$
@@ -727,7 +807,7 @@ A mass $m$ is attached to a spring and allowed to oscillate. The velocity of the
 
 Una massa $m$ è attaccata a una molla e può oscillarsi. La velocità della massa è mostrata nella figura. Qual è la massima grandezza di accelerazione della massa?
 
-![[HKPhO_2017_p17_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p17_f1.png]]
 
 - **(A)** $39.27\ \text{cm s}^{-2}$
 - **(B)** $78.54\ \text{cm s}^{-2}$
@@ -797,7 +877,7 @@ $$\theta_A > \frac{\pi}{2} - \tan^{-1}\frac{d_A}{d_B}$$
 
 It is also given that the electric force acting on a charge $q$ under an electric field $\vec{E}$ is $q\vec{E}$. Assume that the electrical and gravitational forces between the particles are negligible.
 
-![[HKPhO_2017_p19_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p19_f1.png]]
 
 Find the minimum value of $v_B$ so that particle B can hit particle A with certain angle $\theta_B$.
 
@@ -823,7 +903,7 @@ $$\theta_A > \frac{\pi}{2} - \tan^{-1}\frac{d_A}{d_B}$$
 
 Si ritiene inoltre che la forza elettrica che agisce su una carica $q$ sotto un campo elettrico $\vec{E}$ sia $q\vec{E}$. Supponiamo che le forze elettriche e gravitazionali tra le particelle siano trascurabili.
 
-![[HKPhO_2017_p19_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p19_f1.png]]
 
 Trova il valore minimo di $v_B$ in modo che la particella B possa colpire la particella A con un certo angolo $\theta_B$.
 
@@ -893,7 +973,7 @@ Con la velocità minima e l'angolo sopra indicati, a che ora la particella B col
 
 In the movie *Spider-Man 2*, Spider-Man uses his spider webs to save a runaway train by bringing it to a stop (see the figures). The train is running at 80 mph on a straight railway. It has six carts and the mass of each cart is 58,000 lb. Spider-Man shoots two identical bundles of spider webs, one bundle from each hand, which sticks firmly onto the buildings on both sides of the train. With the help of the webs, the train is eventually stopped in 50 s. The buildings are so close to the train that the webs can be considered parallel to the railway. Assume that each web bundle acts like a spring of spring constant $k$, and that friction is negligible.
 
-![[HKPhO_2017_p21_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p21_f1.png]]
 
 **(a)** Find the extension of each web bundle. You may take the extension as the distance travelled by the train during its deceleration by the webs.
 
@@ -919,7 +999,7 @@ Give your answers correct to 3 significant figures, in SI units.
 
 Nel film *Spider-Man 2*, Spider-Man usa le sue reti di ragno per salvare un treno in fuga portandolo in fermo (vedi le figure). Il treno corre a 80 mph su una linea di ferro dritta. Ha sei carri e la massa di ogni carro è di 58.000 libbre. Spider-Man spara due identici fasci di ragni, un fascio da ogni mano, che si attacca saldamente agli edifici su entrambi i lati del treno. Con l'aiuto delle reti, il treno finisce per essere fermato in 50 secondi. Gli edifici sono così vicini al treno che le reti possono essere considerate parallele al treno. Supponiamo che ogni fascia di rete agisca come una molla di costante di primavera $k$, e che l'attrito sia trascurabile.
 
-![[HKPhO_2017_p21_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p21_f1.png]]
 
 **(a) ** Trova l'estensione di ogni fascia web. L'estensione può essere considerata come la distanza percorsa dal treno durante la sua decelerazione dalle reti.
 
@@ -950,7 +1030,7 @@ Date le risposte corrette a 3 cifre significative, in unità SI.
 
 A smooth snooker ball S is struck from point O of a specially-designed circular snooker table. The ball then moves off horizontally in a direction making an angle $\varphi$ with the radius CO. The ball makes $n$ impacts with the smooth vertical wall of the table before returning to point O. If $n = 1$, $\varphi = 0$. The coefficient of restitution between the ball and the wall is $e$. (The coefficient of restitution is the ratio of the normal speed after the impact to its value before.)
 
-![[HKPhO_2017_p22_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p22_f1.png]]
 
 **(a)** If $n = 2$, find $\varphi$ in terms of $e$.
 
@@ -970,7 +1050,7 @@ A smooth snooker ball S is struck from point O of a specially-designed circular 
 
 Una palla da snooker liscia S viene colpita dal punto O di un tavolo da snooker circolare appositamente progettato. La palla si sposta poi orizzontalmente in una direzione che fa un angolo $\varphi$ con il raggio CO. La palla fa $n$ impatti con la parete verticale liscia del tavolo prima di tornare al punto O. If $n = 1$, $\varphi = 0$. Il coefficiente di restituzione tra la palla e la parete è $e$. (Il coefficiente di restituzione è il rapporto tra la velocità normale dopo l'impatto e il suo valore precedente.)
 
-![[HKPhO_2017_p22_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p22_f1.png]]
 
 **(a) ** Se $n = 2$, trovare $\varphi$ in termini di $e$.
 
@@ -995,7 +1075,7 @@ Se $n = 3$, trovare $\varphi$ in termini di $e$.
 
 An escalator has a horizontal length $L = 30$ m and a height $H = 18$ m. It transports passengers upward through its length in 90 s. Each step on the escalator is 0.5 m deep and 0.3 m high. There are 60 steps on the escalator.
 
-![[HKPhO_2017_p23_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p23_f1.png]]
 
 **(a)** Assume that there is one passenger with mass $m = 70$ kg standing on alternating steps of the escalator (i.e. there are 30 passengers on the escalator at any time). What is the minimum power of the electric motor to keep the escalator moving at the steady speed?
 
@@ -1025,7 +1105,7 @@ Assume both wheels have mass $M = 7{,}000$ kg, radius $R = 1$ m, and there is on
 
 Una scala mobile ha una lunghezza orizzontale $L = 30$ m e un'altezza $H = 18$ m. Trasporta passeggeri verso l'alto per tutta la sua lunghezza in 90 secondi. Ogni gradino della scala mobile è profondo 0,5 m e alto 0,3 m. Ci sono 60 gradini sulla scala mobile.
 
-![[HKPhO_2017_p23_f1.png]]
+![[_attachments/hkpho_2017/hkpho_2017_p23_f1.png]]
 
 **(a) ** Supponiamo che ci sia un passeggero di massa $m = 70$ kg che sta in piedi su gradini alternati della scala mobile (cioè: ci sono 30 passeggeri in ogni momento sulla scala mobile). Qual è la potenza minima del motore elettrico per mantenere la scala mobile in movimento a velocità costante?
 

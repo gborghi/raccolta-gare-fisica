@@ -759,7 +759,7 @@ b) Quali altri tipi di incendi (I, II, IV, V) possono essere estinti con questo 
 
 <!--fig:start-->
 **Quesito 15**
-![[IOQJS2022-PartII-Questions-en_p6_f1.png]]
+![[_attachments/ioqjs2022-partii-questions-en/ioqjs2022-partii-questions-en_p6_f1.png]]
 <!--fig:end-->
 
 (a) Draw a ray diagram showing all the elements (including the mirror) of the optical system so that the given object-image pair is produced. You are not allowed to change the size or position of any of the elements shown. Also state the values of the focal length of the lens $f$, and the location of the mirror $l$ (both in centimeters).
@@ -780,7 +780,7 @@ b) Quali altri tipi di incendi (I, II, IV, V) possono essere estinti con questo 
 
 <!--fig:start-->
 **Quesito 15**
-![[IOQJS2022-PartII-Questions-en_p6_f1.png]]
+![[_attachments/ioqjs2022-partii-questions-en/ioqjs2022-partii-questions-en_p6_f1.png]]
 <!--fig:end-->
 
 a) Disegnare un diagramma di raggi che mostra tutti gli elementi (compreso lo specchio) del sistema ottico in modo da produrre la coppia di immagini di oggetto data. Non è consentito modificare la dimensione o la posizione di nessuno degli elementi indicati. Indicare anche i valori della distanza focale della lente $f$ e la posizione dello specchio $l$ (entrambi in centimetri).
@@ -806,14 +806,14 @@ b) Con la coppia oggetto/immagine data, sono possibili altri valori di $f$ e $l$
 
 <!--fig:start-->
 **Quesito 16**
-![[IOQJS2022-PartII-Questions-en_p6_f2.png]]
+![[_attachments/ioqjs2022-partii-questions-en/ioqjs2022-partii-questions-en_p6_f2.png]]
 <!--fig:end-->
 
 She knows the distances $S_1$ and $S_2$ between the levels ($L_1$, $L_2$, $L_3$) of the shelf. She came to know that smartphones have a magnetometer sensor and there are apps which use it and display the magnetic field nearby. She experimented with an app and noticed that when a magnet passes within the close vicinity of the phone, the magnetometer in the phone shows the change in magnetic field graphically (as seen at $t = 15.37$ sec in graph below).
 
 <!--fig:start-->
 **Quesito 16**
-![[IOQJS2022-PartII-Questions-en_p7_f1.png]]
+![[_attachments/ioqjs2022-partii-questions-en/ioqjs2022-partii-questions-en_p7_f1.png]]
 <!--fig:end-->
 
 Clocks in the two phones are not synchronized but the time in the app is measured from the time the sensor is activated by pressing a switch in the app. She found that she can manually start the apps in the two phones simultaneously by pressing the start buttons in each together. However, synchronization of dropping the magnet and starting the app is very difficult, and introduces a large error in the measurement. The formula for change of magnetic field $B$ with distance is not known to her.
@@ -834,14 +834,14 @@ Padma vuole ideare un esperimento per determinare l'accelerazione dovuta alla gr
 
 <!--fig:start-->
 **Quesito 16**
-![[IOQJS2022-PartII-Questions-en_p6_f2.png]]
+![[_attachments/ioqjs2022-partii-questions-en/ioqjs2022-partii-questions-en_p6_f2.png]]
 <!--fig:end-->
 
 Conosce le distanze $S_1$ e $S_2$ tra i livelli ($L_1$, $L_2$, $L_3$) dello scaffale. Ha scoperto che gli smartphone hanno un sensore magnetometrico e ci sono app che lo usano e visualizzano il campo magnetico nelle vicinanze. Ha sperimentato un'app e ha notato che quando un magnete passa nelle vicinanze del telefono, il magnetometro del telefono mostra il cambiamento del campo magnetico in modo grafico (come visto a $t = 15.37$ sec nel grafico di seguito).
 
 <!--fig:start-->
 **Quesito 16**
-![[IOQJS2022-PartII-Questions-en_p7_f1.png]]
+![[_attachments/ioqjs2022-partii-questions-en/ioqjs2022-partii-questions-en_p7_f1.png]]
 <!--fig:end-->
 
 Gli orologi nei due telefoni non sono sincronizzati ma il tempo nell'app viene misurato dal momento in cui il sensore è attivato premendo un interruttore nell'app. Ha scoperto che può avviare manualmente le app nei due telefoni simultaneamente premendo i pulsanti di avvio in ciascuno insieme. Tuttavia, la sincronizzazione del lancio del magnete e l'avvio dell'app è molto difficile e introduce un grande errore nella misurazione. La formula per la variazione del campo magnetico $B$ con la distanza non è conosciuta.
@@ -871,7 +871,7 @@ The specificity of the antigen-antibody interactions is used as a tool for detec
 
 <!--fig:start-->
 **Quesito 17**
-![[IOQJS2022-PartII-Questions-en_p7_f2.png]]
+![[_attachments/ioqjs2022-partii-questions-en/ioqjs2022-partii-questions-en_p7_f2.png]]
 <!--fig:end-->
 
 The system is developed in such a way that if the antigens are labeled, when they bind to the antibodies, they form complexes that are coloured and can be detected. The process of labeling involves chemically attaching a coloured molecule to the antigen. If the antigens are not labeled, then the complex remains colourless.
@@ -895,14 +895,14 @@ After allowing the antigens to bind with the antibodies, the supernatant contain
 
 <!--fig:start-->
 **Quesito 17**
-![[IOQJS2022-PartII-Questions-en_p8_f1.png]]
+![[_attachments/ioqjs2022-partii-questions-en/ioqjs2022-partii-questions-en_p8_f1.png]]
 <!--fig:end-->
 
 **17.3.** Vaccine-mediated immune protection depends on antigen-antibody reactions. Most of the traditional vaccines are killed/ weakened or inactivated pathogens, which are unable to cause the disease by themselves, but are able to trigger antibody production.
 
 <!--fig:start-->
 **Quesito 17**
-![[IOQJS2022-PartII-Questions-en_p9_f1.png]]
+![[_attachments/ioqjs2022-partii-questions-en/ioqjs2022-partii-questions-en_p9_f1.png]]
 <!--fig:end-->
 
 Considering these facts and the graph shown above, identify possibilities for labels X, Y, P and Q from the list given below.
@@ -935,7 +935,7 @@ La specificità delle interazioni antigen- anticorpo è utilizzata come strument
 
 <!--fig:start-->
 **Quesito 17**
-![[IOQJS2022-PartII-Questions-en_p7_f2.png]]
+![[_attachments/ioqjs2022-partii-questions-en/ioqjs2022-partii-questions-en_p7_f2.png]]
 <!--fig:end-->
 
 Il sistema è sviluppato in modo tale che se gli antigeni sono etichettati, quando si legano agli anticorpi, formano complessi colorati e rilevabili. Il processo di etichettatura prevede l'attaccamento chimico di una molecola colorata all'antigene. Se gli antigeni non sono etichettati, il complesso rimane incolore.
@@ -959,14 +959,14 @@ Dopo aver permesso agli antigeni di legarsi agli anticorpi, viene rimosso il sup
 
 <!--fig:start-->
 **Quesito 17**
-![[IOQJS2022-PartII-Questions-en_p8_f1.png]]
+![[_attachments/ioqjs2022-partii-questions-en/ioqjs2022-partii-questions-en_p8_f1.png]]
 <!--fig:end-->
 
 La protezione immunitaria mediata dai vaccini dipende dalle reazioni antigen- anticorpi. La maggior parte dei vaccini tradizionali sono patogeni uccisi/ indeboliti o inattivati, che non sono in grado di causare la malattia da soli, ma sono in grado di innescare la produzione di anticorpi.
 
 <!--fig:start-->
 **Quesito 17**
-![[IOQJS2022-PartII-Questions-en_p9_f1.png]]
+![[_attachments/ioqjs2022-partii-questions-en/ioqjs2022-partii-questions-en_p9_f1.png]]
 <!--fig:end-->
 
 Considerando questi fatti e il grafico sopra indicato, si possono individuare le possibilità per le etichette X, Y, P e Q nell'elenco di seguito riportato.
@@ -1000,7 +1000,7 @@ Considerando questi fatti e il grafico sopra indicato, si possono individuare le
 
 <!--fig:start-->
 **Quesito 18**
-![[IOQJS2022-PartII-Questions-en_p9_f2.png]]
+![[_attachments/ioqjs2022-partii-questions-en/ioqjs2022-partii-questions-en_p9_f2.png]]
 <!--fig:end-->
 
 In a particular genetic condition associated with intractable diarrhea, the average length of the microvillus is found to be reduced by 66% (though the cross section remains almost the same).
@@ -1021,7 +1021,7 @@ Assume that absorption is happening predominantly on the microvilli surfaces. Ca
 
 <!--fig:start-->
 **Quesito 18**
-![[IOQJS2022-PartII-Questions-en_p9_f2.png]]
+![[_attachments/ioqjs2022-partii-questions-en/ioqjs2022-partii-questions-en_p9_f2.png]]
 <!--fig:end-->
 
 In una particolare condizione genetica associata alla diarrea intractabile, si constata una riduzione del 66% della lunghezza media del microvilo (anche se la sezione trasversale rimane quasi la stessa).

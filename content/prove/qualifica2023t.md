@@ -406,7 +406,7 @@ Superman tenta di bere l'acqua di un lago usando una cannuccia lunga più di $2\
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1JmbiUk4Kt2bJ4K49BIpjgIc4tBqbzvhZ/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kZILTlQlWrYJqdIwIStqIjlX62mXDgjd/view)
 
@@ -422,7 +422,7 @@ Superman tenta di bere l'acqua di un lago usando una cannuccia lunga più di $2\
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1JmbiUk4Kt2bJ4K49BIpjgIc4tBqbzvhZ/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kZILTlQlWrYJqdIwIStqIjlX62mXDgjd/view)
 
@@ -443,7 +443,7 @@ All'interno di un tubo verticale di altezza $h$ e raggio $R \ll h$ viene lasciat
 **Topic:** [[Conservation of Momentum]], [[Conservation of Energy]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Ball (object)|Ball]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1JmbiUk4Kt2bJ4K49BIpjgIc4tBqbzvhZ/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kZILTlQlWrYJqdIwIStqIjlX62mXDgjd/view)
 
@@ -459,7 +459,7 @@ Within a vertical tube of $h$ height and $R \ll h$ radius, a ball of mass $M$ is
 **Topic:** [[Conservation of Momentum]], [[Conservation of Energy]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Ball (object)|Ball]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1JmbiUk4Kt2bJ4K49BIpjgIc4tBqbzvhZ/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kZILTlQlWrYJqdIwIStqIjlX62mXDgjd/view)
 
@@ -532,7 +532,7 @@ Uno scienziato americano ha sintetizzato un nuovo gas e ne vuole studiare le pro
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Curve Fitting (metodo)|Curve Fitting]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1JmbiUk4Kt2bJ4K49BIpjgIc4tBqbzvhZ/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kZILTlQlWrYJqdIwIStqIjlX62mXDgjd/view)
 
@@ -567,6 +567,6 @@ An American scientist has synthesized a new gas and wants to study its thermodyn
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Curve Fitting (metodo)|Curve Fitting]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1JmbiUk4Kt2bJ4K49BIpjgIc4tBqbzvhZ/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kZILTlQlWrYJqdIwIStqIjlX62mXDgjd/view)

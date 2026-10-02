@@ -41,7 +41,7 @@ In Part A, use non-relativistic classical mechanics to solve all problems. All e
 
 **(a)** As shown in Fig. 1, an elementary particle of mass $m$ moves along the $x$ axis with $x$-component of momentum $p_1 > 0$. After being scattered by a stationary target of mass $M$, its momentum becomes $\vec{p}_2$.
 
-![[APhO_2010_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2010_theory/apho_2010_theory_q1_p1_f1.png]]
 
 *Fig. 1*
 
@@ -59,7 +59,7 @@ For a stationary composite target in its ground state before scattering, which r
 
 The incident elementary particle of mass $m$ moves in the $x$-direction both before and after scattering with its momenta given, respectively, by $p_1$ and $p_2$. Note that $p_2$ is negative if the particle recoils and moves backward. A scattering occurs only if the incident particle hits one of the target particles and $p_2 \neq p_1$. We assume all three particles move in the same plane before and after scattering.
 
-![[APhO_2010_theory_Q1_p2_f2.png]]
+![[prove/_attachments/apho_2010_theory/apho_2010_theory_q1_p2_f2.png]]
 
 *Fig. 2*
 
@@ -75,7 +75,7 @@ Assume $M = 3m$ and in the limit of large $k$, plot $\sigma$ as a function of $p
 
 Consider an elastic string stretched between two fixed ends A and B, as shown in Fig. 3. The linear mass density of the string is $\mu$. The speed of propagation for transverse waves in the string is $c$. Let the length $\overline{AB}$ be $L$. The string is plucked sideways and held in a triangular form with a maximum height $h \ll L$ at its middle point. At time $t = 0$, the plucked string is released from rest. All effects due to gravity may be neglected.
 
-![[APhO_2010_theory_Q1_p3_f3.png]]
+![[prove/_attachments/apho_2010_theory/apho_2010_theory_q1_p3_f3.png]]
 
 *Fig. 3*
 
@@ -130,7 +130,7 @@ $$\int_a^b e^{\beta x} \, dx = \frac{1}{\beta}\left(e^{\beta b} - e^{\beta a}\ri
 **Topic:** [[Conservation of Momentum]], [[Oscillations & Waves]], [[Astrophysics]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Wave Equation (metodo)|Wave Equation]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Rope/String (object)|Rope/String]], [[Photon (object)|Photon]]
+**Objects:** [[Spring (object)|Spring]], [[objects/rope-string-(object)|Rope/String]], [[Photon (object)|Photon]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -159,7 +159,7 @@ Nella parte A, utilizzare la meccanica classica non relativistica per risolvere 
 
 **(a) ** Come mostrato alla figura. 1, una particella elementare di massa $m$ si muove lungo l'asse $x$ con $x$-componente di impulso $p_1 > 0$. Dopo essere stato disperso da un obiettivo stazionario di massa $M$, il suo impulso diventa $\vec{p}_2$.
 
-![[APhO_2010_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2010_theory/apho_2010_theory_q1_p1_f1.png]]
 
 *Fig. 1*
 
@@ -177,7 +177,7 @@ Per un bersaglio composto stazionario nel suo stato di base prima della dispersi
 
 La particella elementare incidente di massa $m$ si muove nella direzione $x$ sia prima che dopo la dispersione con il suo momento dato rispettivamente da $p_1$ e $p_2$. Nota che $p_2$ è negativo se la particella si ritira e si muove indietro. Una dispersione si verifica solo se la particella incidentale colpisce una delle particelle bersaglio e $p_2 \neq p_1$. Supponiamo che tutte e tre le particelle si muovano nello stesso piano prima e dopo la dispersione.
 
-![[APhO_2010_theory_Q1_p2_f2.png]]
+![[prove/_attachments/apho_2010_theory/apho_2010_theory_q1_p2_f2.png]]
 
 *Fig. 2*
 
@@ -193,7 +193,7 @@ Supponiamo $M = 3m$ e nel limite di grande $k$, il plot $\sigma$ come funzione d
 
 Considerate una corda elastica estesa tra due estremità fisse A e B, come mostrato nella figura. 3. La densità di massa lineare della stringa è $\mu$. La velocità di propagazione per le onde trasversali nella corda è $c$. La lunghezza $\overline{AB}$ deve essere $L$. La corda è strappata lateralmente e tenuta in forma triangolare con un'altezza massima $h \ll L$ al suo punto medio. Al tempo $t = 0$, la corda strappata viene rilasciata dal riposo. Tutti gli effetti dovuti alla gravità possono essere trascurati.
 
-![[APhO_2010_theory_Q1_p3_f3.png]]
+![[prove/_attachments/apho_2010_theory/apho_2010_theory_q1_p3_f3.png]]
 
 *Fig. 3*
 
@@ -248,7 +248,7 @@ $$\int_a^b e^{\beta x} \, dx = \frac{1}{\beta}\left(e^{\beta b} - e^{\beta a}\ri
 **Topic:** [[Conservation of Momentum]], [[Oscillations & Waves]], [[Astrophysics]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Wave Equation (metodo)|Wave Equation]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Rope/String (object)|Rope/String]], [[Photon (object)|Photon]]
+**Objects:** [[Spring (object)|Spring]], [[objects/rope-string-(object)|Rope/String]], [[Photon (object)|Photon]]
 
 
 
@@ -264,7 +264,7 @@ $$\int_a^b e^{\beta x} \, dx = \frac{1}{\beta}\left(e^{\beta b} - e^{\beta a}\ri
 
 In this question we aim to assess if a cylindrical coil (or solenoid) of many turns can serve as a magnet for generating high magnetic fields. As shown in Fig. 1, the center of the magnet is at $O$. Its cylindrical coil consists of $N$ turns of copper wire carrying a current $I$ uniformly distributed over the cross section of the wire. The coil's mean diameter is $D$ and its length along the axial direction $x$ is $\ell$. The wire's cross section is rectangular with width $a$ and height $b$. The turns of the coil are so tightly wound that the plane of each turn may be taken as perpendicular to the $x$ axis and $\ell = Nb$. In Table 1, data specifying physical dimensions of the coil are listed.
 
-![[APhO_2010_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2010_theory/apho_2010_theory_q2_p1_f1.png]]
 
 *Figure 1*
 
@@ -291,7 +291,7 @@ Assume $b \ll D$ so that one may regard the wire as a thin strip of width $a$. L
 
 In Part B, we assume the length $\ell$ of the coil is infinite and $b \ll D$. Consider the turn of the coil located at $x = 0$. The magnetic field exerts Lorentz force on the current passing through the turn. Thus, as Fig. 2 shows, a wire segment of length $\Delta s$ is subject to a normal force $\Delta F_n$ which tends to make the turn expand.
 
-![[APhO_2010_theory_Q2_p2_f2.png]]
+![[prove/_attachments/apho_2010_theory/apho_2010_theory_q2_p2_f2.png]]
 
 *Figure 2*
 
@@ -321,7 +321,7 @@ If the large current needed for a strong magnet lasts only for a short time, the
 
 Thus, as shown in Fig. 3, a capacitor bank of capacitance $C$ charged initially to a potential $V_0$ is used to drive the current $I$ through the coil. The circuit is equipped with a switch $K$. The inductance $L$ and resistance $R$ of the circuit are assumed to be entirely due to the coil. The construct and dimensions of the coil are the same as given in Fig. 1 and Table 1. Assume $R$, $L$, and $C$ to be independent of temperature and the magnetic field is the same as that of an infinite solenoid with $\ell \to \infty$.
 
-![[APhO_2010_theory_Q2_p3_f3.png]]
+![[prove/_attachments/apho_2010_theory/apho_2010_theory_q2_p3_f3.png]]
 
 *Figure 3*
 
@@ -385,7 +385,7 @@ Find an expression for $\Delta T$ and then calculate its value. Note that the va
 
 In questa domanda si intende valutare se una bobina cilindrica (o solenoide) di molte giri può servire da magnete per generare campi magnetici elevati. Come mostrato nella figura. 1, il centro del magnete è a $O$. La sua bobina cilindrica è costituita da giri $N$ di filo di rame con corrente $I$ uniformemente distribuita sulla sezione trasversale del filo. Il diametro medio della bobina è $D$ e la sua lunghezza lungo la direzione asiale $x$ è $\ell$. La sezione trasversale del filo è rettangolare, con larghezza $a$ e altezza $b$. Le curve della bobina sono così strettamente rotte che il piano di ciascuna curva può essere considerato perpendicolare all'asse $x$ e $\ell = Nb$. Nella tabella 1 sono elencati i dati specifici delle dimensioni fisiche della bobina.
 
-![[APhO_2010_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2010_theory/apho_2010_theory_q2_p1_f1.png]]
 
 *Figura 1*
 
@@ -412,7 +412,7 @@ Supponiamo $b \ll D$ in modo da considerare il filo come una sottile striscia di
 
 Nella parte B, supponiamo che la lunghezza $\ell$ della bobina sia infinita e $b \ll D$. Considerare la rotazione della bobina situata a $x = 0$. Il campo magnetico esercita la forza di Lorentz sulla corrente che passa attraverso la curva. Così, come Fig. 2 indica che un segmento di filo di lunghezza $\Delta s$ è soggetto a una forza normale $\Delta F_n$ che tende a far espandere la curva.
 
-![[APhO_2010_theory_Q2_p2_f2.png]]
+![[prove/_attachments/apho_2010_theory/apho_2010_theory_q2_p2_f2.png]]
 
 *Figura 2*
 
@@ -442,7 +442,7 @@ Se la corrente elevata necessaria per un magnete forte dura solo per un breve pe
 
 Così, come si vede in Figura 1. 3, per guidare la corrente $I$ attraverso la bobina viene utilizzata una banca di condensatori di capacità $C$ caricata inizialmente a un potenziale $V_0$. Il circuito è dotato di un interruttore $K$. Si presume che l'induttanza $L$ e la resistenza $R$ del circuito siano interamente dovute alla bobina. La struttura e le dimensioni della bobina sono le stesse di quelle riportate nella figura. 1 e tabella 1. Supponiamo che $R$, $L$ e $C$ siano indipendenti dalla temperatura e che il campo magnetico sia lo stesso di un solenoide infinito con $\ell \to \infty$.
 
-![[APhO_2010_theory_Q2_p3_f3.png]]
+![[prove/_attachments/apho_2010_theory/apho_2010_theory_q2_p3_f3.png]]
 
 *Figura 3*
 
@@ -560,7 +560,7 @@ $$
 
 where $r_0$ is the radius of the outer surface of the liquid.
 
-![[APhO_2010_theory_Q3_p2_f1.png]]
+![[prove/_attachments/apho_2010_theory/apho_2010_theory_q3_p2_f1.png]]
 
 *Fig. 1*
 
@@ -699,7 +699,7 @@ $$
 
 dove $r_0$ è il raggio della superficie esterna del liquido.
 
-![[APhO_2010_theory_Q3_p2_f1.png]]
+![[prove/_attachments/apho_2010_theory/apho_2010_theory_q3_p2_f1.png]]
 
 *Fig. 1*
 

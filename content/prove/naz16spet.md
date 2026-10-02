@@ -171,7 +171,7 @@ Per rispondere a questa domanda può essere di aiuto
 **Topic:** [[Rigid Body Statics]], [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Hb7n8uhsaT30SuU2iObd-9WSNs24GLtJ/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1qpJKXqBWmB7KxoVRDPCIT74ATiViHY2o/view)
 
@@ -334,6 +334,6 @@ The following table shows the results of the calculations:
 **Topic:** [[Rigid Body Statics]], [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Hb7n8uhsaT30SuU2iObd-9WSNs24GLtJ/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1qpJKXqBWmB7KxoVRDPCIT74ATiViHY2o/view)

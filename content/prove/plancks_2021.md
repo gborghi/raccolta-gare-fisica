@@ -169,7 +169,7 @@ $$
 
 with the only requirement that the sum of phases along a loop is proportional to the magnetic flux in the area enclosed by the loop. The choice in Fig. 1 corresponds to a flux in the square of $Ba^2 = \phi$.
 
-![[_attachments/PLANCKS_2021/PLANCKS_2021_p2_f1.png]]
+![[prove/_attachments/plancks_2021/plancks_2021_p2_f1.png]]
 
 *Figure 1 — With $t$ real this choice of phases describes motion in a magnetic field perpendicular to the plane with flux in the square of $Ba^2 = \phi$.*
 
@@ -198,7 +198,7 @@ $$|\psi\rangle = \sum_{\mathbf{R}_{m,n}} a_{m,n}\,|\phi^A_{m,n}\rangle + b_{m,n}
 
 where $\mathbf{R}_{m,n} = m\mathbf{a}_1 + n\mathbf{a}_2$ is a Bravais lattice site, and $|\phi^A_{m,n}\rangle$ and $|\phi^B_{m,n}\rangle$ are the two local orbitals in the unit cell $\mathbf{R}_{m,n}$. In a minimal model the site energies of all local orbitals is taken to be zero and a non-zero hopping amplitude, $-t$, ($t \approx 3\,\text{eV}$) exists only between nearest neighbors. The magnetic field can be introduced with phases affecting only the bonds connecting orbitals with the same $n$.
 
-![[_attachments/PLANCKS_2021/PLANCKS_2021_p2_f2.png]]
+![[prove/_attachments/plancks_2021/plancks_2021_p2_f2.png]]
 
 *Figure 2 — Graphene lattice with basic lattice translations.*
 
@@ -264,7 +264,7 @@ $$
 
 con l'unico requisito che la somma delle fasi lungo un ciclo sia proporzionale al flusso magnetico nell'area chiusa dal ciclo. La scelta in Fig. 1 corrisponde a un flusso nel quadrato di $Ba^2 = \phi$.
 
-![[_attachments/PLANCKS_2021/PLANCKS_2021_p2_f1.png]]
+![[prove/_attachments/plancks_2021/plancks_2021_p2_f1.png]]
 
 *Figura 1  Con $t$ reale questa scelta di fasi descrive il movimento in un campo magnetico perpendicolare al piano con flusso nel quadrato di $Ba^2 = \phi$.*
 
@@ -293,7 +293,7 @@ $$|\psi\rangle = \sum_{\mathbf{R}_{m,n}} a_{m,n}\,|\phi^A_{m,n}\rangle + b_{m,n}
 
 dove $\mathbf{R}_{m,n} = m\mathbf{a}_1 + n\mathbf{a}_2$ è un sito della rete Bravais e $|\phi^A_{m,n}\rangle$ e $|\phi^B_{m,n}\rangle$ sono le due orbitali locali nella cella unità $\mathbf{R}_{m,n}$. In un modello minimo le energie del sito di tutti gli orbitali locali sono prese come zero e un'ampiezza di salto non zero, $-t$, ($t \approx 3\,\text{eV}$) esiste solo tra i vicini più vicini. Il campo magnetico può essere introdotto con fasi che riguardano solo i legami che collegano gli orbitali con lo stesso $n$.
 
-![[_attachments/PLANCKS_2021/PLANCKS_2021_p2_f2.png]]
+![[prove/_attachments/plancks_2021/plancks_2021_p2_f2.png]]
 
 *Figura 2  Rete di graphene con traduzioni di base di rete.*
 
@@ -329,7 +329,7 @@ in cui il commutatore $[\hat{A}(\partial_y, y), \hat{A}^\dagger(\partial_y, y)]$
 
 The stars form through the gravitational collapse of dense molecular clouds. The specific angular momentum of gas in the molecular cloud typically matches the specific angular momentum of the gas in a circumstellar disk. In many cases the disk is confined so closely to the disk mid-plane that to a first approximation, one can assume the disk as a two-dimensional gas flow, the so-called thin disk approximation, where the thickness of the disk, $H(r) \ll r$.
 
-![[_attachments/PLANCKS_2021/PLANCKS_2021_p3_f1.png]]
+![[prove/_attachments/plancks_2021/plancks_2021_p3_f1.png]]
 
 **Question 1 [20 points]**
 
@@ -386,7 +386,7 @@ L'evoluzione dei dischi di accrescimento
 
 Le stelle si formano attraverso il crollo gravitazionale di dense nuvole molecolari. La specifica dinamica angolare del gas nella nube molecolare corrisponde tipicamente alla specifica dinamica angolare del gas in un disco circonstellare. In molti casi il disco è confinato così vicino al disco a metà piano che ad una prima approssimazione, si può assumere il disco come un flusso di gas bidimensionale, la cosiddetta approssimazione del disco sottile, dove lo spessore del disco, $H(r) \ll r$.
 
-![[_attachments/PLANCKS_2021/PLANCKS_2021_p3_f1.png]]
+![[prove/_attachments/plancks_2021/plancks_2021_p3_f1.png]]
 
 **Domanda 1 [20 punti] **
 
@@ -448,7 +448,7 @@ $$\frac{M_{disk}}{M_*} > 0.5\left(\frac{H}{R_{disk}}\right)$$
 
 A spherical hole of radius $R_0$ (see Fig. 1) suddenly forms in a perfect incompressible fluid (specific mass $\rho$; weight negligible). The radius of the hole is small compared to the dimension of surrounding fluid.
 
-![[_attachments/PLANCKS_2021/PLANCKS_2021_p4_f1.png]]
+![[prove/_attachments/plancks_2021/plancks_2021_p4_f1.png]]
 
 *Figure 1 — Spherical hole forming in a perfect incompressible fluid.*
 
@@ -501,7 +501,7 @@ where $\tilde{R}(\omega)$ is the transfer function (susceptibility) of the mediu
 
 Un buco sferico di raggio $R_0$ (vedi figura. 1) si forma improvvisamente in un fluido perfettamente incompressibile (massa specifica $\rho$; peso trascurabile). Il raggio del buco è piccolo rispetto alla dimensione del fluido circostante.
 
-![[_attachments/PLANCKS_2021/PLANCKS_2021_p4_f1.png]]
+![[prove/_attachments/plancks_2021/plancks_2021_p4_f1.png]]
 
 *Figura 1  Buco sferico che si forma in un fluido perfettamente incompressibile.*
 
@@ -779,7 +779,7 @@ Nanotechnology is an emerging area that revolutionized the end and beginning of 
 
 One breakthrough was the invention of magnetic junctions constituted by two electrodes that are ferromagnetic materials sandwiching a non-magnetic material, all at the nanometer thickness (Fig. 1). These devices can detect the binary unit (*bit*) in computing and digital communications, namely for information storage systems such as hard disk drive (HDD). The electric current in these devices consists of two partial currents in a ferromagnetic material, and either with spin-up or spin-down electrons. Moreover, they can present two different configurations related to the relative direction of the FM layers (these layers are usually metals).
 
-![[_attachments/PLANCKS_2021/PLANCKS_2021_p7_f1.png]]
+![[prove/_attachments/plancks_2021/plancks_2021_p7_f1.png]]
 
 *Figure 3 — Two FM materials sandwiching a non-magnetic material.*
 
@@ -819,7 +819,7 @@ La nanotecnologia è un settore emergente che ha rivoluzionato la fine e l'inizi
 
 Una svolta fu l'invenzione di un'incontro magnetico costituito da due elettrodi che sono materiali ferromagnetici che coniugano un materiale non magnetico, tutto a spessore di nanometro (Fig. 1). Questi dispositivi possono rilevare l'unità binaria (*bit*) nelle comunicazioni informatiche e digitali, in particolare per sistemi di archiviazione delle informazioni come il disco rigido (HDD). La corrente elettrica in questi dispositivi è costituita da due correnti parziali in un materiale ferromagnetico, e sia con elettroni spin-up che spin-down. Inoltre, possono presentare due configurazioni diverse relative alla direzione relativa dei strati FM (questi strati sono solitamente metalli).
 
-![[_attachments/PLANCKS_2021/PLANCKS_2021_p7_f1.png]]
+![[prove/_attachments/plancks_2021/plancks_2021_p7_f1.png]]
 
 *Figura 3  Due materiali FM che si uniscono a un materiale non magnetico.*
 
@@ -1061,7 +1061,7 @@ Potresti assumere di nuovo un universo piatto.
 
 A proton moves in a vacuum chamber, entering a region with a uniform magnetic field $\vec{B}$ that points into the page, as shown in the figure. The proton passes through point P, at a distance $l$ from the region, with velocity $\vec{v}$, on the plane of the page and making an angle $\theta$ with the perpendicular to the border of the region. After entering the region, it exits at a point which is at a distance $d$ from the point where it entered, and with velocity that makes an angle $\phi$ with the perpendicular to the border. Assume that $v$ is large enough so the effect of gravity can be neglected during the trajectory, but much smaller than the speed of light making relativistic effects irrelevant.
 
-![[_attachments/PLANCKS_2021/PLANCKS_2021_p9_f1.png]]
+![[prove/_attachments/plancks_2021/plancks_2021_p9_f1.png]]
 
 *Figure 4 — Schematic representation of a proton entering a region with a magnetic field.*
 
@@ -1096,7 +1096,7 @@ With the initial magnetic field, pointing into the page, if the region is kept a
 
 Un protone si muove in una camera a vuoto, entrando in una regione con un campo magnetico uniforme $\vec{B}$ che punta nella pagina, come mostrato nella figura. Il protone passa attraverso il punto P, a una distanza $l$ dalla regione, con velocità $\vec{v}$, sul piano della pagina e fa un angolo $\theta$ perpendicolare al confine della regione. Dopo aver entrato nella regione, esce in un punto a una distanza $d$ dal punto in cui è entrato, e con una velocità che fa un angolo $\phi$ perpendicolare al confine. Supponiamo che $v$ sia abbastanza grande da poter trascurare l'effetto della gravità durante la traiettoria, ma molto più piccolo della velocità della luce rendendo irrilevanti gli effetti relativistici.
 
-![[_attachments/PLANCKS_2021/PLANCKS_2021_p9_f1.png]]
+![[prove/_attachments/plancks_2021/plancks_2021_p9_f1.png]]
 
 *Figura 4  Rappresentazione schematica di un protone che entra in una regione con un campo magnetico.*
 
@@ -1138,7 +1138,7 @@ Albeit being a central quantity in the physics of fluids, hydrostatic pressure d
 
 Meanwhile, in statistical physics thermodynamic state variables (e.g. internal energy, temperature, chemical potential, electric polarization, magnetization, etc...) can be described in terms of averages of microscopic observables with respect to an equilibrium probability distribution for the micro-state of the many-particle system. In order to define pressure in this language, one must find a way which does not depend on the existence of a container's wall, onto which the gas can exert force. Instead, we will consider a system of $N$ independent particles in free space, in equilibrium at a temperature $T$ and subjected to a general confinement potential — $V(\mathbf{r})$. Our aim is to provide a local definition of pressure in this setup using purely statistical arguments.
 
-![[_attachments/PLANCKS_2021/PLANCKS_2021_p10_f1.png]]
+![[prove/_attachments/plancks_2021/plancks_2021_p10_f1.png]]
 
 *Figure 5 — Sketch of the physical situation.*
 
@@ -1229,7 +1229,7 @@ Sebbene sia una quantità centrale nella fisica dei fluidi, la pressione idrosta
 
 Nel frattempo, nella fisica statistica le variabili di stato termodinamiche (ad esempio: La temperatura, il potenziale chimico, la polarizzazione elettrica, la magnetizzazione, ecc.) possono essere descritti in termini di medie di osservabili microscopici rispetto a una distribuzione di probabilità di equilibrio per il micro-stato del sistema multicolore. Per definire la pressione in questo linguaggio, bisogna trovare un modo che non dipenda dall'esistenza di un muro di contenitore, su cui il gas può esercitare forza. Invece, considereremo un sistema di particelle indipendenti $N$ nello spazio libero, in equilibrio a una temperatura $T$ e soggette a un potenziale di confinamento generale  $V(\mathbf{r})$. Il nostro obiettivo è quello di fornire una definizione locale della pressione in questa configurazione utilizzando argomenti puramente statistici.
 
-![[_attachments/PLANCKS_2021/PLANCKS_2021_p10_f1.png]]
+![[prove/_attachments/plancks_2021/plancks_2021_p10_f1.png]]
 
 *Figura 5  Sketto della situazione fisica.*
 
@@ -1406,7 +1406,7 @@ Calcolare $\tau$ per far girare il momento magnetico sull'asse $y'$.
 
 A short light pulse ($\lambda_0 = 590\ \text{nm}$) is split in two by a prism mirror. One of the beams travels in the air (refractive index 1.000) and the other beam travels through one meter of glass (silica) with a refractive index of 1.458.
 
-![[_attachments/PLANCKS_2021/PLANCKS_2021_p12_f1.png]]
+![[prove/_attachments/plancks_2021/plancks_2021_p12_f1.png]]
 
 Compute the time difference of the two pulses arriving at the target.
 
@@ -1434,7 +1434,7 @@ Note: with these simplifications, the maximum data frequency computed will be sm
 
 For simplification, consider now a triangular-shaped pulse centered at 1550 nm wavelength, and with a temporal duration of 200 ps.
 
-![[_attachments/PLANCKS_2021/PLANCKS_2021_p12_f2.png]]
+![[prove/_attachments/plancks_2021/plancks_2021_p12_f2.png]]
 
 The pulse carries an energy of 200 nanojoules and has a diameter of 10 micrometers in the optical fiber (for simplification assume a uniform distribution of power).
 
@@ -1469,7 +1469,7 @@ Note: At 1550 nm the refractive index is 1.468 and has a linear variation with w
 
 Un breve impulso luminoso ($\lambda_0 = 590\ \text{nm}$) è diviso in due da uno specchio prisma. Uno dei fasci viaggia nell'aria (indice di rifrazione 1.000) e l'altro fascio viaggia attraverso un metro di vetro (silica) con un indice di rifrazione di 1.458.
 
-![[_attachments/PLANCKS_2021/PLANCKS_2021_p12_f1.png]]
+![[prove/_attachments/plancks_2021/plancks_2021_p12_f1.png]]
 
 Calcola la differenza di tempo tra i due impulsi che arrivano al bersaglio.
 
@@ -1497,7 +1497,7 @@ Nota: con queste semplificazioni, la frequenza massima di dati calcolata sarà i
 
 Per semplificazione, consideriamo ora un impulso a forma triangolare centrato a una lunghezza d'onda di 1550 nm, e con una durata temporale di 200 ps.
 
-![[_attachments/PLANCKS_2021/PLANCKS_2021_p12_f2.png]]
+![[prove/_attachments/plancks_2021/plancks_2021_p12_f2.png]]
 
 L'impulso ha un'energia di 200 nanovoole e ha un diametro di 10 micrometri nella fibra ottica (per semplificazione, presumi una distribuzione uniforme della potenza).
 

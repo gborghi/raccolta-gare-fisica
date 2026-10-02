@@ -435,7 +435,7 @@ NORDıC‐BALTıC PHYsıCs OLYMPıAD 2024
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1xwIRzHYUJpkZ0CYYKj3Dq7xdjPDJf42y/view)
 
 
@@ -473,7 +473,7 @@ NORDıC-BALTıC PHYsıCs OLYMPıAD 2024
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1xwIRzHYUJpkZ0CYYKj3Dq7xdjPDJf42y/view)
 
 
@@ -765,7 +765,7 @@ counterclockwise?
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1xwIRzHYUJpkZ0CYYKj3Dq7xdjPDJf42y/view)
 
 
@@ -803,7 +803,7 @@ ii) (1 punto) La rotazione in senso orario o
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1xwIRzHYUJpkZ0CYYKj3Dq7xdjPDJf42y/view)
 
 

@@ -236,7 +236,7 @@ Figure 3: Problem 4
 **Topic:** [[Newtonian Mechanics]], [[Magnetism]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Magnet (object)|Magnet]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Magnet (object)|Magnet]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1oYyI0K-n1JLiJgctQiiTGi0uR3Jt8T3N/view)
 
 
@@ -264,7 +264,7 @@ Magnete A sospeso su filo con magnete B
 **Topic:** [[Newtonian Mechanics]], [[Magnetism]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Magnet (object)|Magnet]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Magnet (object)|Magnet]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1oYyI0K-n1JLiJgctQiiTGi0uR3Jt8T3N/view)
 
 
@@ -296,7 +296,7 @@ Figure 4: Problem 5
 **Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
 **Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1oYyI0K-n1JLiJgctQiiTGi0uR3Jt8T3N/view)
 
 
@@ -323,7 +323,7 @@ Perla su filo circolare con dipolo elettrico
 **Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
 **Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1oYyI0K-n1JLiJgctQiiTGi0uR3Jt8T3N/view)
 
 

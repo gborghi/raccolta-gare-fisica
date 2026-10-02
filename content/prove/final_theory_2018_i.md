@@ -705,7 +705,7 @@ inclina la bilancia, per mantenerla in equilibrio ?
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Lever (object)|Lever]], [[Sphere (object)|Sphere]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Lever (object)|Lever]], [[Sphere (object)|Sphere]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
 
 
@@ -723,7 +723,7 @@ Infine, il bilancio per mantenerlo in equilibrio?
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Lever (object)|Lever]], [[Sphere (object)|Sphere]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Lever (object)|Lever]], [[Sphere (object)|Sphere]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
 
 
@@ -825,7 +825,7 @@ $$\int x^\alpha\, dx = \frac{x^{\alpha+1}}{\alpha + 1} + K, \quad \alpha \neq -1
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Calculus-Integration (metodo)|Calculus-Integration]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Sphere (object)|Sphere]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
 
 
@@ -844,7 +844,7 @@ $$\int x^\alpha\, dx = \frac{x^{\alpha+1}}{\alpha + 1} + K, \quad \alpha \neq -1
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Calculus-Integration (metodo)|Calculus-Integration]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Sphere (object)|Sphere]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
 
 

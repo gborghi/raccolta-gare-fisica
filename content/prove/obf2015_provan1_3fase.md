@@ -281,7 +281,7 @@ do fio?
 **Topic:** [[Elasticity & Materials]], [[Newtonian Mechanics]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1sVRTAVD-FZZQXDKA7z-Mw322dAPweGO9/view)
 
 
@@ -297,7 +297,7 @@ del filo?
 **Topic:** [[Elasticity & Materials]], [[Newtonian Mechanics]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1sVRTAVD-FZZQXDKA7z-Mw322dAPweGO9/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -312,7 +312,7 @@ The wire?
 **Topic:** [[Elasticity & Materials]], [[Newtonian Mechanics]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1sVRTAVD-FZZQXDKA7z-Mw322dAPweGO9/view)
 
 

@@ -498,7 +498,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
 **Risposta:** **E**
 
@@ -510,7 +510,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
 The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
 
@@ -678,7 +678,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
 **Risposta:** **D**
 
@@ -695,7 +695,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
 **Risposta:** **D**
 
@@ -717,7 +717,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
 **Risposta:** **B**
 
@@ -734,7 +734,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
 The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2003.
 
@@ -1081,7 +1081,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
 **Risposta:** **C**
 
@@ -1093,7 +1093,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
 The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
 

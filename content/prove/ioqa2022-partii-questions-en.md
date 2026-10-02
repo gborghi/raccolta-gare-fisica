@@ -231,7 +231,7 @@ List of dates of the peaks of 7 meteor showers: 12 Aug, 1 Sep, 21 Oct, 17 Nov, 1
 
 <!--fig:start-->
 **Quesito 5**
-![[IOQA2022-PartII-Questions-en_p4_f1.png]]
+![[_attachments/ioqa2022-partii-questions-en/ioqa2022-partii-questions-en_p4_f1.png]]
 <!--fig:end-->
 
 *Figure 1: Here filled circles/points represents stars, filled triangles represents radiants of meteor showers and the sinusoidal curve represents the yearly path of Sun (Ecliptic).*
@@ -273,7 +273,7 @@ Elenco delle date dei picchi di 7 piogge di meteoriti: 12 agosto, 1 settembre, 2
 
 <!--fig:start-->
 **Quesito 5**
-![[IOQA2022-PartII-Questions-en_p4_f1.png]]
+![[_attachments/ioqa2022-partii-questions-en/ioqa2022-partii-questions-en_p4_f1.png]]
 <!--fig:end-->
 
 *Figura 1: Qui i cerchi/punti pieni rappresentano le stelle, i triangoli pieni rappresentano i radianti delle piogge di meteori e la curva sinusoidale rappresenta il percorso annuale del Sole (Ecliptica).*

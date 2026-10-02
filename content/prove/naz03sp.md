@@ -73,7 +73,7 @@ di lunghezza 50 cm, carta per asciugarsi le mani.
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1VaANEOQY3P5Qn_aG6w_SzNCoCUAnCkVG/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1_dpHvz0NjAjh1NVN3VJ6EyO1HBh4zoxQ/view)
 
@@ -138,6 +138,6 @@ a manual clock measurement at one cent of a second;
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1VaANEOQY3P5Qn_aG6w_SzNCoCUAnCkVG/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1_dpHvz0NjAjh1NVN3VJ6EyO1HBh4zoxQ/view)

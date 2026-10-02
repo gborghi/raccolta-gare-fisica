@@ -32,7 +32,7 @@ Si trovi la deviazione angolare subita dal fascio nel liquido, dal fondo fino al
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/10hIW4NhBa1k0vTkM4P-qEvxKCbsM-rf9/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1SAia3L9MOqLCZaPu73Fs-jNqYQiQkPyi/view)
 
@@ -56,7 +56,7 @@ The angular deviation from the beam in the liquid, from the bottom to the upper 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/10hIW4NhBa1k0vTkM4P-qEvxKCbsM-rf9/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1SAia3L9MOqLCZaPu73Fs-jNqYQiQkPyi/view)
 
@@ -73,7 +73,7 @@ Si trovi qual è il valore minimo che deve avere l'angolo d'ingresso $\alpha_0$ 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/10hIW4NhBa1k0vTkM4P-qEvxKCbsM-rf9/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1SAia3L9MOqLCZaPu73Fs-jNqYQiQkPyi/view)
 
@@ -85,7 +85,7 @@ Find out what the minimum value of the entry angle $\alpha_0$ must be if the bea
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/10hIW4NhBa1k0vTkM4P-qEvxKCbsM-rf9/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1SAia3L9MOqLCZaPu73Fs-jNqYQiQkPyi/view)
 
@@ -106,7 +106,7 @@ per una incidenza all'angolo limite calcolato al punto 2, supponendo che l'altez
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/10hIW4NhBa1k0vTkM4P-qEvxKCbsM-rf9/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1SAia3L9MOqLCZaPu73Fs-jNqYQiQkPyi/view)
 
@@ -122,7 +122,7 @@ for an incidence at the boundary angle calculated in point 2, assuming that the 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/10hIW4NhBa1k0vTkM4P-qEvxKCbsM-rf9/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1SAia3L9MOqLCZaPu73Fs-jNqYQiQkPyi/view)
 
@@ -141,7 +141,7 @@ Lo si calcoli per $z = 5\,\text{cm}$, $z = 10\,\text{cm}$, $z = 15\,\text{cm}$ e
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/10hIW4NhBa1k0vTkM4P-qEvxKCbsM-rf9/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1SAia3L9MOqLCZaPu73Fs-jNqYQiQkPyi/view)
 
@@ -155,7 +155,7 @@ The calculation is done for $z = 5\,\text{cm}$, $z = 10\,\text{cm}$, $z = 15\,\t
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/10hIW4NhBa1k0vTkM4P-qEvxKCbsM-rf9/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1SAia3L9MOqLCZaPu73Fs-jNqYQiQkPyi/view)
 
@@ -176,7 +176,7 @@ Si calcoli l'angolo $\beta_0$ che il raggio forma con l'asse $x$ sul fondo e la 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/10hIW4NhBa1k0vTkM4P-qEvxKCbsM-rf9/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1SAia3L9MOqLCZaPu73Fs-jNqYQiQkPyi/view)
 
@@ -192,7 +192,7 @@ The angle $\beta_0$ the beam forms with the axis $x$ on the bottom and the angul
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/10hIW4NhBa1k0vTkM4P-qEvxKCbsM-rf9/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1SAia3L9MOqLCZaPu73Fs-jNqYQiQkPyi/view)
 
@@ -211,7 +211,7 @@ Si calcoli in quale punto $x$ il raggio arriva sul fondo della vaschetta.
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Snell's Law (metodo)|Snell's Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/10hIW4NhBa1k0vTkM4P-qEvxKCbsM-rf9/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1SAia3L9MOqLCZaPu73Fs-jNqYQiQkPyi/view)
 
@@ -225,6 +225,6 @@ Calculate at which point $x$ the beam reaches the bottom of the tank.
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Snell's Law (metodo)|Snell's Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/10hIW4NhBa1k0vTkM4P-qEvxKCbsM-rf9/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1SAia3L9MOqLCZaPu73Fs-jNqYQiQkPyi/view)

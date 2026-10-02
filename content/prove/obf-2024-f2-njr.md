@@ -173,7 +173,7 @@ de modo que ele continue flutuando?
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1xsrWqaTxYtDGH_SxfnwJTaRv4mzW_4hW/view)
 
 
@@ -190,7 +190,7 @@ massa di acqua, in g, può essere aggiunta al contenitore
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1xsrWqaTxYtDGH_SxfnwJTaRv4mzW_4hW/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -206,7 +206,7 @@ So he keeps floating?
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1xsrWqaTxYtDGH_SxfnwJTaRv4mzW_4hW/view)
 
 
@@ -435,7 +435,7 @@ $\text{kg/m}^3$, determine:
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1xsrWqaTxYtDGH_SxfnwJTaRv4mzW_4hW/view)
 
 
@@ -455,7 +455,7 @@ $\text{kg/m}^3$, determina:
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1xsrWqaTxYtDGH_SxfnwJTaRv4mzW_4hW/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -474,7 +474,7 @@ $\text{kg/m}^3$, determine:
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1xsrWqaTxYtDGH_SxfnwJTaRv4mzW_4hW/view)
 
 

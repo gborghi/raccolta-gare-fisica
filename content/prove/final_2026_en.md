@@ -551,7 +551,7 @@ We divide our process into 3 steps.
 **Topic:** [[Rotational Dynamics]], [[Conservation of Energy]], [[Thermodynamics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.52](https://drive.google.com/file/d/1US0g0BQx5TDZVe5x47De3bBF43QNKTts/view)
 
 
@@ -652,7 +652,7 @@ Dividiamo il nostro processo in 3 fasi.
 **Topic:** [[Rotational Dynamics]], [[Conservation of Energy]], [[Thermodynamics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.52](https://drive.google.com/file/d/1US0g0BQx5TDZVe5x47De3bBF43QNKTts/view)
 
 

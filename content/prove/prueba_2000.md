@@ -55,7 +55,7 @@ del mismo  como se muestra en la figura.
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1A6M2nxosytR77LTvdlTT_nPsaJ4vejQd/view)
 
 
@@ -97,7 +97,7 @@ di questo stesso tipo come mostrato nella figura.
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1A6M2nxosytR77LTvdlTT_nPsaJ4vejQd/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -138,7 +138,7 @@ The same as shown in the figure.
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1A6M2nxosytR77LTvdlTT_nPsaJ4vejQd/view)
 
 
@@ -978,7 +978,7 @@ cronómetro. Si el cronómetro está detenido, vuelve el reloj a cero.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Piston (object)|Piston]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Piston (object)|Piston]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1A6M2nxosytR77LTvdlTT_nPsaJ4vejQd/view)
 
 
@@ -1100,7 +1100,7 @@ LAP/RESET: Quando il cronometro è in corso, mostra il tempo parziale senza ferm
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Piston (object)|Piston]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Piston (object)|Piston]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1A6M2nxosytR77LTvdlTT_nPsaJ4vejQd/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1221,5 +1221,5 @@ The timepiece. If the timer is stopped, turn the clock back to zero.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Piston (object)|Piston]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Piston (object)|Piston]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1A6M2nxosytR77LTvdlTT_nPsaJ4vejQd/view)

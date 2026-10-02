@@ -327,7 +327,7 @@ Momenti di inerzia: $I$, $I_o$, $I_1$, $I_2$,
 **Topic:** [[Rotational Dynamics]], [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Hooke's Law (metodo)|Hooke's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Ball (object)|Ball]], [[Spring (object)|Spring]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[Ball (object)|Ball]], [[Spring (object)|Spring]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1bozWf3Ai-OMx_pAKBi7zWic3aAVTZpgM/view)
 
 
@@ -645,5 +645,5 @@ Momenti di inerzia: $I$, $I_o$, $I_1$, $I_2$,
 **Topic:** [[Rotational Dynamics]], [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Hooke's Law (metodo)|Hooke's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Ball (object)|Ball]], [[Spring (object)|Spring]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[Ball (object)|Ball]], [[Spring (object)|Spring]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1bozWf3Ai-OMx_pAKBi7zWic3aAVTZpgM/view)

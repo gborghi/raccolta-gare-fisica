@@ -39,7 +39,7 @@ Riguardo alla precisione, potete decidere se stimare l'errore, calcolarlo o misu
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Disk (object)|Disk]], [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Disk (object)|Disk]], [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/16bKzwPkt-xZU5c_aZ6uzUQVpaBK4935s/view)
 
 
@@ -65,7 +65,7 @@ Per quanto riguarda la precisione, si può decidere di stimare l'errore, calcola
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Disk (object)|Disk]], [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Disk (object)|Disk]], [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/16bKzwPkt-xZU5c_aZ6uzUQVpaBK4935s/view)
 
 

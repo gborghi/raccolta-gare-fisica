@@ -1465,7 +1465,7 @@ Graph paper
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Manometer (object)|Manometer]], [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Manometer (object)|Manometer]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/1mon2WlFqN_uAImAm2fKQgcKMJdtVCjbP/view)
 
 
@@ -1528,7 +1528,7 @@ Carta grafica
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Manometer (object)|Manometer]], [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Manometer (object)|Manometer]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/1mon2WlFqN_uAImAm2fKQgcKMJdtVCjbP/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1590,5 +1590,5 @@ Graph paper
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Manometer (object)|Manometer]], [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Manometer (object)|Manometer]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/1mon2WlFqN_uAImAm2fKQgcKMJdtVCjbP/view)

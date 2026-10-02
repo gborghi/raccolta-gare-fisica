@@ -33,7 +33,7 @@ Fig. 1
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1A07q59VLu2msft9mG4etbJ61tyT3Qn-j/view)
 
 
@@ -53,7 +53,7 @@ Fig. 1
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1A07q59VLu2msft9mG4etbJ61tyT3Qn-j/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -72,7 +72,7 @@ Fig. 1
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1A07q59VLu2msft9mG4etbJ61tyT3Qn-j/view)
 
 

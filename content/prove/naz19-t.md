@@ -52,7 +52,7 @@ Si supponga che tutte le parti in legno della macchina siano fatte con lo stesso
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Rotational Dynamics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gear (object)|Gear]], [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[Gear (object)|Gear]], [[objects/rope-string-(object)|Rope/String]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1MYYzVhVf7ErTL6mmKJhvr2QrvPBKmV3y/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/16NR7JezlH-_z8SJ3G_KFzoWKm2cjRzbl/view)
 
@@ -96,7 +96,7 @@ The following is the list of the countries of the European Union.
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Rotational Dynamics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gear (object)|Gear]], [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[Gear (object)|Gear]], [[objects/rope-string-(object)|Rope/String]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1MYYzVhVf7ErTL6mmKJhvr2QrvPBKmV3y/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/16NR7JezlH-_z8SJ3G_KFzoWKm2cjRzbl/view)
 

@@ -19,7 +19,7 @@ Figure (1) shows a mechanical system free of any dissipation. The two spheres ($
 
 <!--fig:start-->
 **Quesito 1**
-![[inpho2012-Q_p3_f1.png]]
+![[_attachments/inpho2012-q/inpho2012-q_p3_f1.png]]
 <!--fig:end-->
 
 from which balls each of mass $m$ fall vertically at suitable intervals. The falling balls cause the rods and attached spheres to rotate. Sphere $B$ when it reaches the position now occupied by sphere $A$, suffers a collision from another falling ball and so on. Just before striking, the falling ball has velocity $v$. All collisions are elastic and the spheres as well as the falling balls can be considered to be point masses. [Marks: 12]
@@ -42,7 +42,7 @@ $$\omega_i =$$
 
 <!--fig:start-->
 **Quesito 1**
-![[inpho2012-Q_p5_f2.png]]
+![[_attachments/inpho2012-q/inpho2012-q_p5_f2.png]]
 <!--fig:end-->
 
 $$\omega^{*} =$$
@@ -60,7 +60,7 @@ La figura (1) mostra un sistema meccanico privo di dissipazioni. Le due sfere ($
 
 <!--fig:start-->
 **Quesito 1**
-![[inpho2012-Q_p3_f1.png]]
+![[_attachments/inpho2012-q/inpho2012-q_p3_f1.png]]
 <!--fig:end-->
 
 da cui ogni sfera di massa $m$ cade verticalmente ad intervalli adeguati. Le palle cadenti fanno girare le barre e le sfere attaccate. La sfera $B$, quando raggiunge la posizione ora occupata dalla sfera $A$, subisce una collisione da un'altra palla cadente e così via. Poco prima di colpire, la palla cadente ha velocità $v$. Tutte le collisioni sono elastiche e le sfere così come le palle cadenti possono essere considerate masse puntate. [Marchi: 12]
@@ -83,7 +83,7 @@ d) Se invece di un paio di sfere, abbiamo due coppie di sfere come mostrato nell
 
 <!--fig:start-->
 **Quesito 1**
-![[inpho2012-Q_p5_f2.png]]
+![[_attachments/inpho2012-q/inpho2012-q_p5_f2.png]]
 <!--fig:end-->
 
 $$\omega^{*} =$$

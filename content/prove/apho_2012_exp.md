@@ -93,7 +93,7 @@ A body of unknown mass $M_x$ and a pink cord is provided. Suspend the unknown ma
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 
 ---
 
@@ -104,7 +104,7 @@ A body of unknown mass $M_x$ and a pink cord is provided. Suspend the unknown ma
 
 Se un cavo viene trasmesso attorno a un palo o a un raggio e le tensioni nei due segmenti sono diverse, l'attrito tra il cavo e il raggio svolge un ruolo nel controllo del movimento del cavo (Fig.1). Si osserva che per tenere un corpo sospeso ad una estremità del cordone, la forza minima necessaria all'altra estremità del cordone è inferiore al peso del corpo a causa della presenza di forze di attrito. Con l'aumento del numero di giri intorno al fascio la diminuzione della forza è spettacolare. I marinai sono noti per usare questa idea per arrestare il movimento delle navi facendo rotolare le corde legate alle navi intorno ai posti dei porti.
 
-![Fig.1](../_attaccamenti/APhO_2012_exp/APhO_2012_exp_Q1_p2_f1.png)
+![[_attachments/apho_2012_exp/apho_2012_exp_q1_p2_f1.png|Fig.1]]
 
 **Fig.1**
 
@@ -138,7 +138,7 @@ Un apparecchio composto da quattro pezzi di tubo d'acciaio su quattro lati di un
 
 Il pulsante blu può essere spostato per accendere o spegnere la torcia. La piastra acrilica con le linee regolata è fornita per rilevare il movimento del cavo. Le linee della piastra acrilica possono essere prese come riferimento contro le quali si può osservare il movimento del cavo.
 
-![Fig.2  Foto di apparecchiature](../_attaccamenti/APhO_2012_exp/APhO_2012_exp_Q1_p4_f2.png)
+![[_attachments/apho_2012_exp/apho_2012_exp_q1_p4_f2.png|Fig.2  Foto di apparecchiature]]
 
 **Fig.2(a)** Steel pipes mounted on wooden platform — **Fig.2(b)** Set of weights — **Fig.2(c)** Plastic pan — **Fig.2(d)** Dial cord — **Fig.2(e)** Pink cord — **Fig.2(f)** Magnifying glass with torch — **Fig.2(g)** Body of unknown Mass, $M_x$ — **Fig.2(h)** Slotted weights with hook — **Fig.2(i)** Complete set-up
 
@@ -152,7 +152,7 @@ Procedura sperimentale:
 
 Utilizzare il pendolo con pesi a fessura $M_\mathrm{w}$ come carico. Appiccare il carico ad una estremità del taglio di cavo di scheda (la cui massa è trascurabile) e un pannello (con massa nota) all'altra. È inoltre fornita una scatola con pesi. L'angolo $\theta$ sottoscritto dal cavo può essere modificato passandolo sopra/circondando due o più dei tubi dati. (Rif. 3).
 
-![Fig.3](../_attaccamenti/APhO_2012_exp/APhO_2012_exp_Q1_p5_f3.png)
+![[_attachments/apho_2012_exp/apho_2012_exp_q1_p5_f3.png|Fig.3]]
 
 Il valore minimo di angolo $\theta$ è ottenuto quando il cavo passa su due barre parallele senza alcun contatto con il ponte centrale (Fig.3). By winding the cord around the vertical post and shifting the position of the effort the angle $\theta$ can be changed by steps of $\pi/2$. Il carico $M_\mathrm{w}$ deve essere sospeso dal tubo a cui è montata la piastra acrilica a rotura.
 
@@ -176,7 +176,7 @@ Nota sull'evaluare l'incertezza
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 
 ---
 
@@ -441,7 +441,7 @@ $$
 
 Per ottenere i valori $R$ e $L$ della bobina possiamo utilizzare le equazioni di cui sopra. Si possono misurare la tensione $V$ e la corrente $I$. Ma essendo ci sono tre quantità sconosciute $\theta$, $R$ e $X$ abbiamo bisogno di un'altra equazione.
 
-![Fig.1](../_attaccamenti/APhO_2012_exp/APhO_2012_exp_Q2_p3_f1.png)
+![[_attachments/apho_2012_exp/apho_2012_exp_q2_p3_f1.png|Fig.1]]
 
 **Fig.1**
 
@@ -495,7 +495,7 @@ dove $Z_S$ è l'impedenza del circuito secondario. Quando l'impedenza secondaria
 
 ####Apparecchiatura:
 
-![Apparato](../_attaccamenti/APhO_2012_exp/APhO_2012_exp_Q2_p5_f0.png)
+![[_attachments/apho_2012_exp/apho_2012_exp_q2_p5_f0.png|Apparato]]
 
 Tavola di resistenza  Fonte di connessione  Multimetro digitale  Coil ferita l'una sull'altra  Generatore d'onda di sinte  Tavola di resistenza  Rod di alluminio  Completa installazione sperimentale
 
@@ -517,7 +517,7 @@ La potenza di uscita del generatore di onde sinusoide di frequenza 1000 Hz deve 
 
 Connettere la bobina 1 (con terminali blu) in serie con una resistenza $R'$ (a selezionare dalla scheda di resistenza) attraverso i terminali di uscita del generatore di onde sinusoide. Il generatore di onde sinusoide sarà acceso prima di iniziare l'esperimento per stabilizzare la sua uscita. Non spegnere. Tenere l'ampiezza della tensione di uscita al massimo. (Il DMM dovrebbe mostrare la potenza di circa 10 V).
 
-![Fig.2](../_attaccamenti/APhO_2012_exp/APhO_2012_exp_Q2_p6_f2.png)
+![[_attachments/apho_2012_exp/apho_2012_exp_q2_p6_f2.png|Fig.2]]
 
 **Fig.2**
 
@@ -541,7 +541,7 @@ La produzione di ac del generatore può avere una certa asimmetria. In tal caso,
 
 **g) ** Selezionare la bobina 1 (con terminali blu) come primaria e la bobina 2 (con terminali verdi) come secondaria. Connettere la prima in serie con la resistenza di campionamento $R' = 300$ ohms attraverso i terminali di uscita del generatore. Collegare attraverso il secondario la resistenza variabile $R_L$. La tensione di uscita $V_O$ deve essere misurata su $R_L$. Cambiare $R_L$ e misurare le tensioni $V_A$, $V_{R'}$, $V$ e $V_O$ corrispondenti a ciascun valore di $R_L$. (0.8)
 
-![Fig.3](../_attaccamenti/APhO_2012_exp/APhO_2012_exp_Q2_p7_f3.png)
+![[_attachments/apho_2012_exp/apho_2012_exp_q2_p7_f3.png|Fig.3]]
 
 **Fig.3**
 

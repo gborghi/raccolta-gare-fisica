@@ -169,7 +169,7 @@ b) Ahora se extraen de un congelador tres cubitos de hielo, de $20\ \text{g}$ de
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Conservation Laws (metodo)|Conservation Laws]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Calorimeter (object)|Calorimeter]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Calorimeter (object)|Calorimeter]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1A_ShvWDyvtvQeW9-0jianYJngfhRkj_d/view)
 
 
@@ -186,7 +186,7 @@ b) Ora si tratti da un congelatore tre cubetti di ghiaccio, di massa $20\ \text{
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Conservation Laws (metodo)|Conservation Laws]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Calorimeter (object)|Calorimeter]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Calorimeter (object)|Calorimeter]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1A_ShvWDyvtvQeW9-0jianYJngfhRkj_d/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -202,7 +202,7 @@ The heat of the ice melting $\lambda_\text{hielo} = 80\ \text{cal/g}$; specific 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Conservation Laws (metodo)|Conservation Laws]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Calorimeter (object)|Calorimeter]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Calorimeter (object)|Calorimeter]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1A_ShvWDyvtvQeW9-0jianYJngfhRkj_d/view)
 
 
@@ -269,7 +269,7 @@ Determinar la temperatura ambiente con el termómetro construido y compararla co
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1A_ShvWDyvtvQeW9-0jianYJngfhRkj_d/view)
 
 
@@ -331,7 +331,7 @@ Determinare la temperatura ambiente con il termometro costruito e confrontarla c
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1A_ShvWDyvtvQeW9-0jianYJngfhRkj_d/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -392,5 +392,5 @@ Determine the ambient temperature with the built thermometer and compare it with
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1A_ShvWDyvtvQeW9-0jianYJngfhRkj_d/view)

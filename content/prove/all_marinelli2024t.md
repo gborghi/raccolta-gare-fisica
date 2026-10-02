@@ -239,7 +239,7 @@ Unità di misura: $\text{m/s}^2$. Precisione richiesta: 0.5%.
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]], [[Block (object)|Block]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Cylinder (object)|Cylinder]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1EJFT8hzYV_nJIPsGRLXj5mgZ_Ay1lKTv/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-o-xoIN6r-7UStD3zsEfFEL11-QslvVK/view)
 
@@ -261,7 +261,7 @@ The unit of measurement: $\text{m/s}^2$. Precision required: 0.5%.
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]], [[Block (object)|Block]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Cylinder (object)|Cylinder]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1EJFT8hzYV_nJIPsGRLXj5mgZ_Ay1lKTv/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-o-xoIN6r-7UStD3zsEfFEL11-QslvVK/view)
 

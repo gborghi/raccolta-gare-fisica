@@ -116,7 +116,7 @@ Aceleración de la gravedad $g = 9{,}8\ \text{m s}^{-2}$
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/17tvcPGB2WE4gmGUkvTC8AG4T8qOEPBXj/view)
 
 
@@ -137,7 +137,7 @@ Accelerazione gravitatoria $g = 9{,}8\ \text{m s}^{-2}$
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/17tvcPGB2WE4gmGUkvTC8AG4T8qOEPBXj/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -157,7 +157,7 @@ Aceleración de la gravedad $g = 9{,}8\ \text{m s}^{-2}$
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/17tvcPGB2WE4gmGUkvTC8AG4T8qOEPBXj/view)
 
 

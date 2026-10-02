@@ -870,7 +870,7 @@ When $p_{\text{CO}_2}$ is expressed in terms of mm Hg, the values of $K$, $K_{a1
 are at $37\ ^\circ\text{C}$.
 5.1
 Calculate the value of overall equilibrium constant $K_a'$, for the equilibrium between
-[H+](aq), [HCO3 ̄] (aq) and CO2 dissolved.
+[H+]\(aq), [HCO3 ̄] (aq) and CO2 dissolved.
 
 (1 mark)
 
@@ -882,7 +882,7 @@ H+(aq)+ HCO3
 responsible for maintaining the pH of blood. We will understand the effectiveness of
 this open system through the following example:
 
-A total carbonate pool (essentially [HCO3 ̄]+ [CO2](dissolved)) in blood plasma is
+A total carbonate pool (essentially [HCO3 ̄]+ [CO2]\(dissolved)) in blood plasma is
 
 $2.52\times10^{-2}$ M.
 5.2 i) The pH of blood in the body is maintained at 7.4. What is the ratio of

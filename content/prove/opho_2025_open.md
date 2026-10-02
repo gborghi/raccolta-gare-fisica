@@ -111,7 +111,7 @@ MSK1/> Due portali rettangolari identici sono disposti orizzontalmente in una ca
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -123,7 +123,7 @@ MSK1/> Due portali rettangolari identici sono disposti orizzontalmente in una ca
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 
 
 
@@ -236,7 +236,7 @@ You may treat the air, and all of its components, as an ideal diatomic gas. The 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -257,7 +257,7 @@ Si può trattare l'aria e tutti i suoi componenti come un gas diatomico ideale. 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 
 
 
@@ -274,7 +274,7 @@ Si può trattare l'aria e tutti i suoi componenti come un gas diatomico ideale. 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Droplet (object)|Droplet]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Droplet (object)|Droplet]], [[Gas (object)|Gas]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -286,7 +286,7 @@ Si può trattare l'aria e tutti i suoi componenti come un gas diatomico ideale. 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Droplet (object)|Droplet]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Droplet (object)|Droplet]], [[Gas (object)|Gas]]
 
 
 
@@ -413,7 +413,7 @@ Ad esempio, se il cubo di ghiaccio 2 si scioglie prima e il cubo di ghiaccio 4 s
 
 **Bouncing Down the Slope.** A dispenser releases small identical uniform disks of mass $m = 2\ \mathrm{kg}$ from rest at a height $h = 50\ \mathrm{m}$ above a long frictionless wedge of mass $M = 500\ \mathrm{kg}$ at a uniform rate of $50$ disks per second, beginning at $t = 0$. The wedge is angled at $\theta = 10^\circ$ above the horizontal and is fixed on top of a horizontal scale. The disks collide with the slope with a coefficient of restitution $\alpha = 0.95$. Find the reading on the scale after time $t = 150\ \mathrm{s}$ in Newtons, averaged over the timescale of a few ball collisions (the scale measures the vertical force exerted on it). Assume that the incline is sufficiently long such that no disks leave the incline.
 
-![[_attachments/OPhO_2025_Open/OPhO_2025_Open_p7_f1.png]]
+![[prove/_attachments/opho_2025_open/opho_2025_open_p7_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1XNUYuh0_1VRk85vL4MNn2Zs8aHhknH7b/view)
 
@@ -427,7 +427,7 @@ Ad esempio, se il cubo di ghiaccio 2 si scioglie prima e il cubo di ghiaccio 4 s
 
 **Ripuntando verso il basso della pendenza.** Un distributore rilascia piccoli dischi uniformi identici di massa $m = 2\ \mathrm{kg}$ dal riposo ad un'altezza $h = 50\ \mathrm{m}$ sopra una lunga cucita senza attrito di massa $M = 500\ \mathrm{kg}$ ad un ritmo uniforme di dischi $50$ al secondo, a partire da $t = 0$. La cucina è angolata a $\theta = 10^\circ$ sopra l'orizzontale e è fissata sopra una scala orizzontale. I dischi si schiantano con la pendenza con un coefficiente di restituzione $\alpha = 0.95$. Trova la lettura sulla scala dopo il tempo $t = 150\ \mathrm{s}$ in Newton, media sulla scala temporale di alcune collisioni di palle (la scala misura la forza verticale esercitata su di essa). Supponiamo che l'inclinazione sia sufficientemente lunga da non lasciare dischi.
 
-![[_attachments/OPhO_2025_Open/OPhO_2025_Open_p7_f1.png]]
+![[prove/_attachments/opho_2025_open/opho_2025_open_p7_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1XNUYuh0_1VRk85vL4MNn2Zs8aHhknH7b/view)
 
@@ -451,7 +451,7 @@ Ad esempio, se il cubo di ghiaccio 2 si scioglie prima e il cubo di ghiaccio 4 s
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -463,7 +463,7 @@ Ad esempio, se il cubo di ghiaccio 2 si scioglie prima e il cubo di ghiaccio 4 s
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 
 
 
@@ -512,7 +512,7 @@ e che la forza magnetica che agisce su un monopolio magnetico è $\vec{F} = \dfr
 
 **Variant Roulette, House Edge.** A spinner, modeled by a massless rod of length $R$ connected to a point mass, is attached to the center of a massless cylinder (pin) of radius $r$. The cylinder is almost perfectly fit in a hole in a floor, that is, the cylinder is slightly smaller than the hole. The spinner, laid perfectly flat on the floor and starting at $\theta = 0$, is given a random angular velocity in the interval $(0, \omega_L)$, where $\omega_L$ produces exactly $N \gg 1$ full rotations (assume classical mechanics). What is the probability that it lands in the region $\pi/2 < \theta < 3\pi/2$ if there is a coefficient of friction $\mu = 50$ between the pin and the hole and $r/R = 0.2$?
 
-![[_attachments/OPhO_2025_Open/OPhO_2025_Open_p8_f1.png]]
+![[prove/_attachments/opho_2025_open/opho_2025_open_p8_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1XNUYuh0_1VRk85vL4MNn2Zs8aHhknH7b/view)
 
@@ -526,7 +526,7 @@ e che la forza magnetica che agisce su un monopolio magnetico è $\vec{F} = \dfr
 
 **Roulette variabile, bordo della casa.** Un rotore, modellato da una barra senza massa di lunghezza $R$ collegata a una massa puntaria, è attaccato al centro di un cilindro senza massa (pin) di raggio $r$. Il cilindro si adatta quasi perfettamente in un buco in un pavimento, cioè il cilindro è leggermente più piccolo del buco. Il rotore, posto perfettamente piatto sul pavimento e partendo da $\theta = 0$, riceve una velocità angolare casuale nell'intervallo $(0, \omega_L)$, dove $\omega_L$ produce esattamente $N \gg 1$ rotazioni complete (presumendo la meccanica classica). Qual è la probabilità che atterri nella regione $\pi/2 < \theta < 3\pi/2$ se vi è un coefficiente di attrito $\mu = 50$ tra il pin e il buco e $r/R = 0.2$?
 
-![[_attachments/OPhO_2025_Open/OPhO_2025_Open_p8_f1.png]]
+![[prove/_attachments/opho_2025_open/opho_2025_open_p8_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1XNUYuh0_1VRk85vL4MNn2Zs8aHhknH7b/view)
 
@@ -607,7 +607,7 @@ e che la forza magnetica che agisce su un monopolio magnetico è $\vec{F} = \dfr
 
 **Arctic Circle.** A freely rotating disk of radius $R$, made of ice at its melting point, is pressed against a belt moving at speed $v$ such that the disk's center is at the edge of the belt. Due to drag, the disk rotates at constant angular velocity. The drag force per unit area is linear (proportional to relative velocity). Find the ratio between the largest and smallest time-averaged rates of melting at a point on the disk. Assume that the pressure is constant across the disk.
 
-![[_attachments/OPhO_2025_Open/OPhO_2025_Open_p9_f1.png]]
+![[prove/_attachments/opho_2025_open/opho_2025_open_p9_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1XNUYuh0_1VRk85vL4MNn2Zs8aHhknH7b/view)
 **Topic:** [[Thermodynamics]], [[Rotational Dynamics]]
@@ -620,7 +620,7 @@ e che la forza magnetica che agisce su un monopolio magnetico è $\vec{F} = \dfr
 
 Un disco in libera rotazione di raggio $R$, fatto di ghiaccio al punto di fusione, viene premuto contro una cintura in movimento a velocità $v$ in modo che il centro del disco sia al bordo della cintura. A causa del traguardo, il disco ruota a velocità angolare costante. La forza di trazione per unità di superficie è lineare (proporzionale alla velocità relativa). Trova il rapporto tra i tassi di fusione più grandi e più piccoli in media temporale in un punto del disco. Supponiamo che la pressione sia costante su tutto il disco.
 
-![[_attachments/OPhO_2025_Open/OPhO_2025_Open_p9_f1.png]]
+![[prove/_attachments/opho_2025_open/opho_2025_open_p9_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1XNUYuh0_1VRk85vL4MNn2Zs8aHhknH7b/view)
 **Topic:** [[Thermodynamics]], [[Rotational Dynamics]]
@@ -1053,7 +1053,7 @@ Dopo un impatto di un asteroide nel mezzo di un grande oceano, si sta formando u
 
 They mount the ABG on a rail which is mounted parallel to the vertical, and can hence move up and down freely. They set up a magnetic field such that in the 2nd quadrant and the top left half (from the horizontal to $45^\circ$ down from the horizontal) of the 3rd quadrant, the field is $B\sqrt{2}$ out of the page, and in the 1st and 4th quadrant, the field is $B = 1\ \mathrm{T}$ into the page. The ABG is then moved such that the two beams intersect at the origin, and there is a phase difference of exactly $2\pi$ between the beams at the origin. What must be the charge $q$ on the airplane for this to occur? Assume the airplane source is coherent and that there is no initial phase difference. Make sure to submit $|q|$.
 
-![[_attachments/OPhO_2025_Open/OPhO_2025_Open_p12_f1.png]]
+![[prove/_attachments/opho_2025_open/opho_2025_open_p12_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1XNUYuh0_1VRk85vL4MNn2Zs8aHhknH7b/view)
 **Topic:** [[Electromagnetism]], [[Wave Optics]]
@@ -1068,7 +1068,7 @@ Nella ricerca del dominio mondiale, il comitato OPhO ha creato un generatore di 
 
 L'ABG viene montato su una rotaia che è montata parallela alla verticale e può quindi muoversi liberamente su e giù. Hanno impostato un campo magnetico tale che nel secondo quadrante e nella metà superiore sinistra (da orizzontale a $45^\circ$ in basso dall'orizzontale) del terzo quadrante, il campo è $B\sqrt{2}$ fuori dalla pagina, e nel primo e quarto quadrante, il campo è $B = 1\ \mathrm{T}$ dentro la pagina. L'ABG viene quindi spostato in modo tale che i due fasci si incrociano all'origine e vi sia una differenza di fase di esattamente $2\pi$ tra i fasci all'origine. Qual è la carica $q$ dell'aereo per verificare questo? Supponiamo che la fonte dell'aereo sia coerente e che non ci sia alcuna differenza di fase iniziale. Assicurarsi di presentare $|q|$.
 
-![[_attachments/OPhO_2025_Open/OPhO_2025_Open_p12_f1.png]]
+![[prove/_attachments/opho_2025_open/opho_2025_open_p12_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1XNUYuh0_1VRk85vL4MNn2Zs8aHhknH7b/view)
 **Topic:** [[Electromagnetism]], [[Wave Optics]]

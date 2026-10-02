@@ -488,7 +488,7 @@ A mass sphere $m$ is supported on a vertical wall without friction and held in t
 **Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1viPNOlVvdg1DoO4zGJsHdy54csqzr2ze/view)
 
 
@@ -507,7 +507,7 @@ A mass sphere $m$ is supported on a vertical wall without friction and held in t
 **Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1viPNOlVvdg1DoO4zGJsHdy54csqzr2ze/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -525,7 +525,7 @@ Determine the reaction of the plane to the body 1.
 **Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1viPNOlVvdg1DoO4zGJsHdy54csqzr2ze/view)
 
 
@@ -987,7 +987,7 @@ Uma moeda se encontra exatamente na parte central do fundo de um tanque de água
 **Topic:** [[Geometric Optics]], [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1viPNOlVvdg1DoO4zGJsHdy54csqzr2ze/view)
 
 
@@ -1003,7 +1003,7 @@ Man observing coin in water tank on accelerating truck
 **Topic:** [[Geometric Optics]], [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1viPNOlVvdg1DoO4zGJsHdy54csqzr2ze/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1018,5 +1018,5 @@ Man observing coin in water tank on accelerating truck
 **Topic:** [[Geometric Optics]], [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1viPNOlVvdg1DoO4zGJsHdy54csqzr2ze/view)

@@ -38,7 +38,7 @@ In a uniform cylindrical pipe of length $L$, water is flowing steadily along the
 Suppose the flow-control valve T at the end of the pipe is then shut instantly so that the oncoming liquid element next to the valve suffers both a pressure change $\Delta P_s \equiv P_1 - P_0$ and a velocity change $\Delta v = v_1 - v_0$ with $v_1 \le 0$. This causes a longitudinal wave of excess pressure $\Delta P_s$ to travel upstream in the $-x$ direction with a speed of propagation $c$.
 
 <!--fig:start-->
-![[APhO_2021_theory_Q1_p1_f1.png]]
+![[_attachments/apho_2021_theory/apho_2021_theory_q1_p1_f1.png]]
 *Fig. 1: Steady flow in a uniform pipe.*
 <!--fig:end-->
 
@@ -53,7 +53,7 @@ Fig. 2 shows a model for control valve T and the liquid flow through it. The val
 The liquid is to be regarded as incompressible and the flow as steady with liquid element at the valve inlet having velocity $v_{\text{in}}$, pressure $P_{\text{in}}$, and density $\rho_0$. In Fig. 2, stream lines and normal lines are drawn only as an aid for visualizing the flow pattern.
 
 <!--fig:start-->
-![[APhO_2021_theory_Q1_p2_f1.png]]
+![[_attachments/apho_2021_theory/apho_2021_theory_q1_p2_f1.png]]
 *Fig. 2: Valve dimensions and contraction of jet.*
 <!--fig:end-->
 
@@ -116,7 +116,7 @@ Take fluid density $\rho_0$ and speed of propagation $c$ as constants. Let $n = 
 **Topic:** [[Fluid Mechanics]], [[Elasticity & Materials]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 
 ---
 
@@ -144,7 +144,7 @@ In un tubo cilindrico uniforme di lunghezza $L$, l'acqua scorre costantemente lu
 Supponiamo che la valvola T di controllo del flusso alla fine del tubo venga chiusa istantaneamente in modo che l'elemento liquido di fronte accanto alla valvola subisca sia un cambiamento di pressione $\Delta P_s \equiv P_1 - P_0$ che un cambiamento di velocità $\Delta v = v_1 - v_0$ con $v_1 \le 0$. Ciò provoca che un'onda longitudinale di pressione in eccesso $\Delta P_s$ si muova a monte nella direzione $-x$ con una velocità di propagazione $c$.
 
 <!--fig:start-->
-![[APhO_2021_theory_Q1_p1_f1.png]]
+![[_attachments/apho_2021_theory/apho_2021_theory_q1_p1_f1.png]]
 *Fig. 1: flusso costante in un tubo uniforme.*
 <!--fig:end-->
 
@@ -159,7 +159,7 @@ Fig. - Cosa? 2 mostra un modello della valvola di controllo T e del flusso di li
 Il liquido deve essere considerato incompressibile e il flusso deve essere considerato stabile con l'elemento liquido all'entrata della valvola, avendo velocità $v_{\text{in}}$, pressione $P_{\text{in}}$ e densità $\rho_0$. - In Fig. 2, le linee di flusso e le linee normali sono disegnate solo come aiuto per visualizzare il modello di flusso.
 
 <!--fig:start-->
-![[APhO_2021_theory_Q1_p2_f1.png]]
+![[_attachments/apho_2021_theory/apho_2021_theory_q1_p2_f1.png]]
 *Fig. 2: Dimensioni della valvola e contrazione del getto.*
 <!--fig:end-->
 
@@ -222,7 +222,7 @@ Prendi come costanti la densità del fluido $\rho_0$ e la velocità di propagazi
 **Topic:** [[Fluid Mechanics]], [[Elasticity & Materials]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 
 ---
 
@@ -281,7 +281,7 @@ $$
 > **B.5** Find $\bar{A}$, $\bar{B}$, and $\bar{C}$ in terms of $P_1$, $P_2$, $P_3$, and $n\sin\theta_1$, where $P_1 = n_o^2\cos^2\phi + n_e^2\sin^2\phi$, $P_2 = n_o^2\sin^2\phi + n_e^2\cos^2\phi$, and $P_3 = (n_o^2 - n_e^2)\sin\phi\cos\phi$. From Eq. (1), find corresponding $\tan\theta_2$ to two special orientations: $\phi = 0$ and $\phi = \pi/2$. *(1.1pt)*
 
 <!--fig:start-->
-![[APhO_2021_theory_Q2_p3_f1.png]]
+![[_attachments/apho_2021_theory/apho_2021_theory_q2_p3_f1.png]]
 *Fig. 1: Propagation of light from A to B through an interface between an isotropic medium 1 and an anisotropic medium 2.*
 <!--fig:end-->
 
@@ -300,14 +300,14 @@ Consider an incoming **e** ray traveling along $z'$ direction with wave vector $
 > **C.3** Let $M > 0$. Evaluate $M$, $N$, and $L$ in terms of $\Omega$, $\Omega_e$, $\Omega_o$, $K_e$, $K_o$ and $N_e(\omega, \theta) = \dfrac{1}{n_e(\omega,\theta)}\dfrac{dn_e(\omega,\theta)}{d\theta}$ and the group velocities $u_o = \dfrac{d\omega_2}{dk_2}$ and $u_e = \dfrac{d\omega_1}{dk_1}$ for the **o** and **e** rays. Estimate the angle between the axis of the cone and $z'$, and also the angle of the cone in terms of $L$, $M$, $N$ and $K_o$. *(1.3pt)*
 
 <!--fig:start-->
-![[APhO_2021_theory_Q2_p4_f1.png]]
+![[_attachments/apho_2021_theory/apho_2021_theory_q2_p4_f1.png]]
 *Fig. 2: (a) Vector $\vec{k}_\alpha$ has angular coordinates $(\psi_\alpha, \phi_\alpha)$ in the $x'y'z'$ coordinate system with $\vec{k}_{\alpha\perp}$ being its projection in the $x'y'$ plane. Note that $\vec{k}_\alpha$ makes an angle $\theta_\alpha$ with OA. (b) Non-collinear splitting of an $\mathbf{e}$ ray into $\mathbf{e} + \mathbf{o}$ rays that form two cones. Line $\overline{ab}$ is parallel to the $y'$ axis.*
 <!--fig:end-->
 
 Problem **C.3** shows that a photon may split into two photons which when passing through points $a$ and $b$ are polarized in perpendicular directions. These two photons are called *entangled photon pair* because if one photon that passes $a$ (called $a$-photon) is polarized in a direction $\hat{x}'$, the other that passes $b$ (called $b$-photon) will be polarized in the direction $\hat{y}' \perp \hat{x}'$, and if the $a$-photon is polarized in $\hat{y}'$, then the $b$-photon will be polarized in $\hat{x}'$. The entangled photon-pair state can be prepared experimentally. It is a superposition of the above two alternative states and can be expressed as $\frac{1}{\sqrt{2}}(|\hat{x}'_a\rangle|\hat{y}'_b\rangle + |\hat{y}'_a\rangle|\hat{x}'_b\rangle)$. Here $|\hat{x}'_a\rangle|\hat{y}'_b\rangle$ represents the state when $a$-photon is polarized in $\hat{x}'$ direction and $b$-photon is polarized in $\hat{y}'$ direction; similar meaning applies to $|\hat{y}'_a\rangle|\hat{x}'_b\rangle$. The coefficient $1/\sqrt{2}$ can be viewed as the product of electric field amplitudes (expressed in suitable units) of $a$- and $b$-photons. As illustrated in Fig. 3, two linear polarizers 1 and 2 have transmission axes at angles $\alpha$ and $\beta$ respectively with respect to $\hat{x}'$. We may use them to perform coincidence measurement on the two photons that pass $a$ and $b$. Let the probability of simultaneously finding two photons passing through polarizers 1 and 2 be $P(\alpha, \beta)$. Alternatively, $P(\alpha, \beta)$ can also be regarded as being proportional to the product of intensities (after appropriate superpositions) of light passing through the two polarizers. Denote $\alpha + \pi/2$ and $\beta + \pi/2$ by $\alpha_\perp$ and $\beta_\perp$ respectively.
 
 <!--fig:start-->
-![[APhO_2021_theory_Q2_p4_f2.png]]
+![[_attachments/apho_2021_theory/apho_2021_theory_q2_p4_f2.png]]
 *Fig. 3: Two linear polarizers 1 and 2 for coincidence measurement of photons that pass $a$ and $b$.*
 <!--fig:end-->
 
@@ -374,7 +374,7 @@ $$
 > **B.5** Trova $\bar{A}$, $\bar{B}$ e $\bar{C}$ in termini di $P_1$, $P_2$, $P_3$ e $n\sin\theta_1$, dove $P_1 = n_o^2\cos^2\phi + n_e^2\sin^2\phi$, $P_2 = n_o^2\sin^2\phi + n_e^2\cos^2\phi$ e $P_3 = (n_o^2 - n_e^2)\sin\phi\cos\phi$. - Da Eq. (1) trovare le corrispondenti $\tan\theta_2$ a due orientamenti speciali: $\phi = 0$ e $\phi = \pi/2$. *(1.1pt)*
 
 <!--fig:start-->
-![[APhO_2021_theory_Q2_p3_f1.png]]
+![[_attachments/apho_2021_theory/apho_2021_theory_q2_p3_f1.png]]
 *Fig. 1: Propagazione della luce da A a B attraverso un'interfaccia tra un mezzo isotropo 1 e un mezzo anisotropo 2.*
 <!--fig:end-->
 
@@ -393,14 +393,14 @@ Considera un raggio **e** che viaggia lungo la direzione $z'$ con il vettore d'o
 > **C.3 ** Lasciate $M > 0$. Valutare $M$, $N$ e $L$ in termini di $\Omega$, $\Omega_e$, $\Omega_o$, $K_e$, $K_o$ e $N_e(\omega, \theta) = \dfrac{1}{n_e(\omega,\theta)}\dfrac{dn_e(\omega,\theta)}{d\theta}$ e le velocità di gruppo $u_o = \dfrac{d\omega_2}{dk_2}$ e $u_e = \dfrac{d\omega_1}{dk_1}$ per i raggi ** o ** e ** e**. Calcolare l'angolo tra l'asse del cono e $z'$, nonché l'angolo del cono in termini di $L$, $M$, $N$ e $K_o$. *(1.3pt)*
 
 <!--fig:start-->
-![[APhO_2021_theory_Q2_p4_f1.png]]
+![[_attachments/apho_2021_theory/apho_2021_theory_q2_p4_f1.png]]
 *Fig. 2: a) Il vettore $\vec{k}_\alpha$ ha coordinate angolari $(\psi_\alpha, \phi_\alpha)$ nel sistema di coordinate $x'y'z'$ con $\vec{k}_{\alpha\perp}$ la sua proiezione nel piano $x'y'$. Si noti che $\vec{k}_\alpha$ fa un angolo $\theta_\alpha$ con OA. b) Divisione non collineare di un raggio $\mathbf{e}$ in raggi $\mathbf{e} + \mathbf{o}$ che formano due coni. La linea $\overline{ab}$ è parallela all'asse $y'$.*
 <!--fig:end-->
 
 Il problema **C.3** mostra che un fotone può dividersi in due fotoni che, passando attraverso i punti $a$ e $b$, sono polarizzati in direzioni perpendicolari. Questi due fotoni sono chiamati *parete di fotoni intrappolati* perché se un fotone che passa $a$ (chiamato $a$-fotone) è polarizzato in una direzione $\hat{x}'$, l'altro che passa $b$ (chiamato $b$-fotone) sarà polarizzato nella direzione $\hat{y}' \perp \hat{x}'$, e se il $a$-fotone è polarizzato in $\hat{y}'$, allora il $b$-fotone sarà polarizzato in $\hat{x}'$. Lo stato di coppia di fotoni intrecciati può essere preparato sperimentalmente. Si tratta di una sovrapposizione dei due stati alternativi di cui sopra e può essere espressa come $\frac{1}{\sqrt{2}}(|\hat{x}'_a\rangle|\hat{y}'_b\rangle + |\hat{y}'_a\rangle|\hat{x}'_b\rangle)$. Qui $|\hat{x}'_a\rangle|\hat{y}'_b\rangle$ rappresenta lo stato in cui $a$-fotone è polarizzato in direzione $\hat{x}'$ e $b$-fotone è polarizzato in direzione $\hat{y}'$; un significato simile si applica a $|\hat{y}'_a\rangle|\hat{x}'_b\rangle$. Il coefficiente $1/\sqrt{2}$ può essere considerato il prodotto delle amplitudini del campo elettrico (espresse in unità appropriate) dei fotoni $a$- e $b$. Come illustrato in Figura 1. 3, due polarizzatori lineari 1 e 2 hanno assi di trasmissione rispettivamente a angoli $\alpha$ e $\beta$ rispetto a $\hat{x}'$. Possiamo usarle per eseguire la misurazione della coincidenza sui due fotoni che passano $a$ e $b$. La probabilità di trovare contemporaneamente due fotoni che passano attraverso i polarizzatori 1 e 2 sia $P(\alpha, \beta)$. In alternativa, $P(\alpha, \beta)$ può essere considerato anche proporzionale al prodotto delle intensità (dopo le superposizioni appropriate) della luce che attraversa i due polarizzatori. Denotare $\alpha + \pi/2$ e $\beta + \pi/2$ rispettivamente con $\alpha_\perp$ e $\beta_\perp$.
 
 <!--fig:start-->
-![[APhO_2021_theory_Q2_p4_f2.png]]
+![[_attachments/apho_2021_theory/apho_2021_theory_q2_p4_f2.png]]
 *Fig. 3: Due polarizzatori lineari 1 e 2 per la misurazione della coincidenza dei fotoni che passano $a$ e $b$.*
 <!--fig:end-->
 
@@ -458,7 +458,7 @@ where $\vec{r}$ is the displacement vector from $q_m$ to the observation point (
 The conducting thin film is uniform with thickness $d$ in the $z$ direction (Fig. 1). It extends horizontally in $x$ and $y$ directions to infinity and its upper surface is located at a distance $h$ from either a point monopole or a dipole. We consider only the case $h \gg d$. This allows us to take the electric current density induced in the film to be independent of $z$. We also assume that the displacement current effect to be negligible.
 
 <!--fig:start-->
-![[APhO_2021_theory_Q3_p2_f1.png]]
+![[_attachments/apho_2021_theory/apho_2021_theory_q3_p2_f1.png]]
 *Fig.1 A monopole $q_m$ appears at a distance $h$ from a conducting thin film of thickness $d$. The origin of the coordinates is located on the upper surface.*
 <!--fig:end-->
 
@@ -507,7 +507,7 @@ This equation has been obtained from imposing inside the thin film the Maxwell e
 The moving image-monopole concept developed in **A.7** for $B'_z$ near $z \approx 0$ can be assumed to hold also for the $\vec{B}'$ field in the $z \ge 0$ region. This assumption is good as long as the time evolution is sufficiently slow in the conducting thin film response.
 
 <!--fig:start-->
-![[APhO_2021_theory_Q3_p3_f1.png]]
+![[_attachments/apho_2021_theory/apho_2021_theory_q3_p3_f1.png]]
 *Fig. 2 A monopole $q_m$ moves with a constant velocity $\vec{v}$ and a constant height $h$ from the conducting thin film. As shown are its coordinates at $t = 0$.*
 <!--fig:end-->
 
@@ -522,7 +522,7 @@ By splitting $q_m$'s trajectory into discrete time steps (a very small time step
 > **B.2** Find the summation form of the magnetic potential $\Phi_+(x, z)$ at $t = 0$ from all the image monopoles in **B.1**. Calculate $\Phi_+(x, z)$. *(0.7pt)*
 
 <!--fig:start-->
-![[APhO_2021_theory_Q3_p4_f1.png]]
+![[_attachments/apho_2021_theory/apho_2021_theory_q3_p4_f1.png]]
 *Fig. 3 A dipole with an **upward-pointing** magnetic dipole moment $\vec{m}$ moves with a constant $\vec{v}$ and a constant height $h$ from the conducting thin film. As shown are its coordinates at $t = 0$.*
 <!--fig:end-->
 
@@ -609,7 +609,7 @@ se $\vec{r}$ è il vettore di spostamento da $q_m$ al punto di osservazione (o p
 Il film sottile conduttore è uniforme con spessore $d$ nella direzione $z$ (Fig. 1). Si estende orizzontalmente nelle direzioni $x$ e $y$ fino all'infinito e la sua superficie superiore si trova a una distanza $h$ da un monopolio di punto o da un dipolo. Si tratta solo del caso $h \gg d$. Questo ci permette di prendere la densità di corrente elettrica indotta nel film per essere indipendente da $z$. Supponiamo anche che l'effetto della corrente di spostamento sia trascurabile.
 
 <!--fig:start-->
-![[APhO_2021_theory_Q3_p2_f1.png]]
+![[_attachments/apho_2021_theory/apho_2021_theory_q3_p2_f1.png]]
 *Fig.1 Un monopole $q_m$ appare a una distanza $h$ da un sottile film di spessore $d$. L'origine delle coordinate si trova sulla superficie superiore.*
 <!--fig:end-->
 
@@ -658,7 +658,7 @@ Questa equazione è stata ottenuta imponendo all'interno del film sottile l'equa
 Il concetto di monopolio di immagine in movimento sviluppato in **A.7** per $B'_z$ vicino a $z \approx 0$ può essere presunto per il campo $\vec{B}'$ nella regione $z \ge 0$. Questa ipotesi è buona finché l'evoluzione temporale è sufficientemente lenta nella risposta del film sottile conduttore.
 
 <!--fig:start-->
-![[APhO_2021_theory_Q3_p3_f1.png]]
+![[_attachments/apho_2021_theory/apho_2021_theory_q3_p3_f1.png]]
 *Fig. 2 Un monopole $q_m$ si muove con una velocità costante $\vec{v}$ e con un'altezza costante $h$ dal film sottile conduttore. Come mostrato, le sue coordinate sono $t = 0$.*
 <!--fig:end-->
 
@@ -673,7 +673,7 @@ Dividendo la traiettoria di $q_m$ in passi temporali discreti (un piccolo passo 
 > **B.2** Trova la forma di somma del potenziale magnetico $\Phi_+(x, z)$ a $t = 0$ da tutti i monopoli di immagine di **B.1**. Calcolare $\Phi_+(x, z)$. *(0.7pt)*
 
 <!--fig:start-->
-![[APhO_2021_theory_Q3_p4_f1.png]]
+![[_attachments/apho_2021_theory/apho_2021_theory_q3_p4_f1.png]]
 *Fig. 3 Un dipolo con un momento di dipolo magnetico ** puntato verso l'alto ** $\vec{m}$ si muove con una costante $\vec{v}$ e una costante altezza $h$ dal film sottile conduttore. Come mostrato, le sue coordinate sono $t = 0$.*
 <!--fig:end-->
 

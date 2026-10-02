@@ -105,7 +105,7 @@ os ajustes de v e $\theta$ para que o jogador marque um ponto?
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Projectile (object)|Projectile]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1JvtBp8IzL8mHzsUgRTIXuubjXEY64M2i/view)
 
 
@@ -130,7 +130,7 @@ le regolazioni di v e $\theta$ per il giocatore a segnare un punto?
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Projectile (object)|Projectile]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1JvtBp8IzL8mHzsUgRTIXuubjXEY64M2i/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -154,7 +154,7 @@ the v and $\theta$ adjustments so that the player scores a point?
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Projectile (object)|Projectile]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1JvtBp8IzL8mHzsUgRTIXuubjXEY64M2i/view)
 
 
@@ -187,7 +187,7 @@ imediatamete. (c) Este processo emite ou absorve calor?
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1JvtBp8IzL8mHzsUgRTIXuubjXEY64M2i/view)
 
 
@@ -215,7 +215,7 @@ e agitazione lieve si osserva che il liquido si solidifica
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1JvtBp8IzL8mHzsUgRTIXuubjXEY64M2i/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -242,7 +242,7 @@ I'll be right there. (c) Does this process emit or absorb heat?
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1JvtBp8IzL8mHzsUgRTIXuubjXEY64M2i/view)
 
 
@@ -703,7 +703,7 @@ câmara 2 na situação de equilíbrio?
 **Topic:** [[Kinetic Theory]], [[Thermodynamics]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Statistical Averaging (metodo)|Statistical Averaging]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1JvtBp8IzL8mHzsUgRTIXuubjXEY64M2i/view)
 
 
@@ -724,7 +724,7 @@ Camera 2 in equilibrio?
 **Topic:** [[Kinetic Theory]], [[Thermodynamics]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Statistical Averaging (metodo)|Statistical Averaging]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1JvtBp8IzL8mHzsUgRTIXuubjXEY64M2i/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -744,7 +744,7 @@ Chamber 2 in the equilibrium situation?
 **Topic:** [[Kinetic Theory]], [[Thermodynamics]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Statistical Averaging (metodo)|Statistical Averaging]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1JvtBp8IzL8mHzsUgRTIXuubjXEY64M2i/view)
 
 
@@ -770,7 +770,7 @@ e $\rho$ é a densidade do líquido.
 **Topic:** [[Fluid Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1JvtBp8IzL8mHzsUgRTIXuubjXEY64M2i/view)
 
 
@@ -791,7 +791,7 @@ e $\rho$ è la densità del liquido.
 **Topic:** [[Fluid Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1JvtBp8IzL8mHzsUgRTIXuubjXEY64M2i/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -811,7 +811,7 @@ and $\rho$ is the density of the liquid.
 **Topic:** [[Fluid Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1JvtBp8IzL8mHzsUgRTIXuubjXEY64M2i/view)
 
 

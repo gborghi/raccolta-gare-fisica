@@ -21,7 +21,7 @@ tags:
 
 Laser resonance ionization of neutral atoms is a powerful technique for the study and manipulation of atomic samples. A first laser $\lambda_1$ interacts with the neutral atom bringing it from the ground state $|0\rangle$ to an excited state $|1\rangle$ with opposite parity. When excited, the neutral atom is finally ionized using a second laser $\lambda_2$ which can remove an electron via an auto-ionizing state or towards the continuum, provided that the sum of the photon energies $\lambda_1 + \lambda_2$ is greater than the ionization potential of the atom.
 
-![[PLANCKS_2017_p1_f1.png]]
+![[_attachments/plancks_2017/plancks_2017_p1_f1.png]]
 *Figure 1 (left, energy level scheme) and Figure 2 (right, geometries of the laser beams relative to the atom velocity $v_x$).*
 
 **Questions:**
@@ -53,7 +53,7 @@ Laser resonance ionization of neutral atoms is a powerful technique for the stud
 
 L'ionizzazione a risonanza laser di atomi neutri è una potente tecnica per lo studio e la manipolazione di campioni atomici. Un primo laser $\lambda_1$ interagisce con l'atomo neutro portandolo dallo stato di base $|0\rangle$ a uno stato eccitato $|1\rangle$ con parità opposta. Quando è eccitato, l'atomo neutro viene infine ionizzato utilizzando un secondo laser $\lambda_2$ che può rimuovere un elettrone attraverso uno stato di auto-ionizzazione o verso il continuum, a condizione che la somma delle energie fotoniche $\lambda_1 + \lambda_2$ sia maggiore del potenziale di ionizzazione dell'atomo.
 
-![[PLANCKS_2017_p1_f1.png]]
+![[_attachments/plancks_2017/plancks_2017_p1_f1.png]]
 *Figura 1 (a sinistra, schema di livello di energia) e figura 2 (a destra, geometrie dei fasci laser rispetto alla velocità atomica $v_x$).*
 
 **Domande: **
@@ -231,12 +231,12 @@ Figure 1 shows a sketch of the particles and the interactions within the Standar
 - Baryon number, where baryons like protons, neutrons, pions and kaons have a baryon number of $1$, and anti-baryons have a baryon number of $-1$;
 - Electric charge.
 
-![[PLANCKS_2017_p3_f1.png]]
+![[_attachments/plancks_2017/plancks_2017_p3_f1.png]]
 *Figure 1: A graphical illustration of the SM interactions and forces.*
 
 Figure 2 shows how different kinds of particles interact in a general-purpose detector like the ATLAS detector, and shows a cross-section of the ATLAS detector.
 
-![[PLANCKS_2017_p3_f2.png]]
+![[_attachments/plancks_2017/plancks_2017_p3_f2.png]]
 *Figure 2: A graphical illustration of the particle interactions taking place in the ATLAS detector, together with a cross-section of the detector itself. Source: http://atlas.ch/ and http://www.particleadventure.org/*
 
 **1.1** The center of mass energy at which protons are collided at the Large Hadron Collider is $13\ \mathrm{TeV}$. The average energy in Joule of a Wasa cracker is $60$ kilo calories (source: a packet of Wasa). $1\ \mathrm{eV}$ is equivalent to $3.83 \times 10^{-20}$ calories. Use natural units, where $h$ and $c = 1$.
@@ -274,16 +274,16 @@ Figures 3–6 are graphical depictions of real collision events recorded at the 
 
 *Hint: Ignore the underlying background processes, focus on the highlighted tracks. The dotted line refers to a track which, although not observed by the detector, is inferred by some energy imbalance in the event.*
 
-![[PLANCKS_2017_p3_f3.png]]
+![[_attachments/plancks_2017/plancks_2017_p3_f3.png]]
 *Figure 3: A graphical illustration of the ATLAS detector for Event 14321500, showing a 3D profile of the inner detector, magnets and muon spectrometers.*
 
-![[PLANCKS_2017_p3_f4.png]]
+![[_attachments/plancks_2017/plancks_2017_p3_f4.png]]
 *Figure 4: A graphical illustration of event 23181153. Left: view looking down the barrel, where the inner rings are the electromagnetic and hadronic calorimeters and the outer panels are the muon detectors. The tracks of interest are colored pink and the grey tracks are the background events. Top right: side view. Bottom right: energies recorded by the calorimeters against the track "angles" $\eta$.*
 
-![[PLANCKS_2017_p3_f5.png]]
+![[_attachments/plancks_2017/plancks_2017_p3_f5.png]]
 *Figure 5: ATLAS event display. Left: view along the beam pipe, showing the tracks from the event and the detector calorimeters. Top right: a plot displaying the energies of the two tracks (in yellow) recorded in the calorimeters against their "angle" $\eta$ (pseudo-rapidity). Bottom right: looking down the barrel of the detector. The background tracks are colored blue.*
 
-![[PLANCKS_2017_p3_f6.png]]
+![[_attachments/plancks_2017/plancks_2017_p3_f6.png]]
 *Figure 6: ATLAS event display. This is a 3D mid-way section of the ATLAS detector, also called $R-z$ view: what you see in shaded grey and black are the toroidal magnets and their support structures. The energy deposited in the electromagnetic and hadronic calorimeters is represented as yellow and green rectangles, of height proportional to the magnitude of the transverse momentum recorded by the calorimeters.*
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QHsDQYUXgSqQ89h8-V5js1ViVneLxfGh/view)
@@ -305,12 +305,12 @@ La figura 1 mostra uno schema delle particelle e delle interazioni all'interno d
 - numero di barioni, in cui i barioni come i protoni, i neutroni, i pioni e i kaoni hanno un numero di barioni di $1$ e gli anti-barioni hanno un numero di barioni di $-1$;
 - Carica elettrica.
 
-![[PLANCKS_2017_p3_f1.png]]
+![[_attachments/plancks_2017/plancks_2017_p3_f1.png]]
 *Figura 1: Una grafica illustrativa delle interazioni e delle forze SM.*
 
 La figura 2 mostra come diversi tipi di particelle interagiscono in un rilevatore di uso generale come il rilevatore ATLAS e mostra una sezione trasversale del rilevatore ATLAS.
 
-![[PLANCKS_2017_p3_f2.png]]
+![[_attachments/plancks_2017/plancks_2017_p3_f2.png]]
 *Figura 2: Una illustrazione grafica delle interazioni di particelle che si verificano nel rilevatore ATLAS, insieme a una sezione trasversale del rilevatore stesso. Fonte: http://atlas.ch/ e http://www.particleadventure.org/*
 
 **1.1** Il centro di energia di massa al quale i protoni si schiantano al Grande Collider ad adroni è $13\ \mathrm{TeV}$. L'energia media in Joule di una cracker Wasa è $60$ di kilocalorie (fonte: un pacchetto di Wasa). $1\ \mathrm{eV}$ è equivalente a $3.83 \times 10^{-20}$ calorie. Utilizzare unità naturali, dove $h$ e $c = 1$.
@@ -348,16 +348,16 @@ Le figure 36 sono raffigurazioni grafiche di eventi di collisione reali registra
 
 *Suggetta: Ignorare i processi di fondo sottostanti, concentrarsi sulle tracce evidenziate. La linea puntata si riferisce a una pista che, sebbene non sia osservata dal rilevatore, viene dedotta da qualche squilibrio energetico nell'evento.*
 
-![[PLANCKS_2017_p3_f3.png]]
+![[_attachments/plancks_2017/plancks_2017_p3_f3.png]]
 *Figura 3: Una grafica del rilevatore ATLAS per l'evento 14321500, che mostra un profilo 3D del rilevatore interno, dei magneti e degli spettrometri di muoni.*
 
-![[PLANCKS_2017_p3_f4.png]]
+![[_attachments/plancks_2017/plancks_2017_p3_f4.png]]
 *Figura 4: Un'illustrazione grafica dell'evento 23181153. Sinistra: vista che guarda verso il basso del barile, dove gli anelli interni sono i caloriometri elettromagnetici e adronici e i pannelli esterni sono i rilevatori di muoni. Le tracce di interesse sono di colore rosa e le tracce grigie sono gli eventi di fondo. Verso a destra: vista laterale. Sotto a destra: le energie registrate dai caloriometri contro gli "angoli" della pista $\eta$.*
 
-![[PLANCKS_2017_p3_f5.png]]
+![[_attachments/plancks_2017/plancks_2017_p3_f5.png]]
 *Figura 5: visualizzazione degli eventi ATLAS. Sinistra: vista lungo il tubo del fascio, con le tracce dell'evento e i calorimetri del rilevatore. Superiore a destra: un diagramma che mostra le energie delle due tracce (in giallo) registrate nei caloriometri contro il loro "angolo" $\eta$ (pseudo-rapidità). Sotto a destra: guardare il barile del rilevatore. Le tracce di fondo sono di colore blu.*
 
-![[PLANCKS_2017_p3_f6.png]]
+![[_attachments/plancks_2017/plancks_2017_p3_f6.png]]
 *Figura 6: visualizzazione degli eventi ATLAS. Questa è una sezione di mezzo 3D del rilevatore ATLAS, chiamata anche vista $R-z$: ciò che si vede in grigio e nero ombrati sono i magneti toroidali e le loro strutture di supporto. L'energia depositata nei caloriometri elettromagnetici e adronici è rappresentata come rettangoli gialli e verdi, di altezza proporzionale alla grandezza del momento trasversale registrato dai caloriometri.*
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QHsDQYUXgSqQ89h8-V5js1ViVneLxfGh/view)
@@ -386,7 +386,7 @@ Required masses: $m_{^{235}\mathrm{U}} = 235.0439\,\mathrm{u}$, $m_{^{139}\mathr
 
 3. Calculate the energy of a neutron scattered at a stationary nucleus with the weight $A$. Consider a neutron with the energy $E = \tfrac{mv^2}{2}$ in the laboratory (L) system incident upon a stationary nucleus of mass $M$. Since the relative masses are important in the kinematics, we set the mass of the neutron $m = 1$ and the mass of the nucleus $M = A$. It is convenient to convert to the center-of-mass (CM) system as indicated in Fig. 1, because the elastic scattering event is isotropic in the CM system. Give the energy of the neutron after the scattering process.
 
-![[PLANCKS_2017_p4_f1.png]]
+![[_attachments/plancks_2017/plancks_2017_p4_f1.png]]
 *Figure 1: Scattering of a neutron at a nucleus. Lab system (L) and Center of mass (CMS) system.*
 
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1QHsDQYUXgSqQ89h8-V5js1ViVneLxfGh/view)
@@ -410,7 +410,7 @@ Masse richieste: $m_{^{235}\mathrm{U}} = 235.0439\,\mathrm{u}$, $m_{^{139}\mathr
 
 3. Calcolare l'energia di un neutrone disperso in un nucleo stazionario con il peso $A$. Considera un neutrone con l'energia $E = \tfrac{mv^2}{2}$ nel sistema di laboratorio (L) che incide su un nucleo stazionario di massa $M$. Poiché le masse relative sono importanti nella cinematica, impostamo la massa del neutrone $m = 1$ e la massa del nucleo $M = A$. È conveniente convertire al sistema di centro di massa (CM) come indicato nella figura. 1, perché l'evento di dispersione elastico è isotropo nel sistema CM. Date l'energia del neutrone dopo il processo di dispersione.
 
-![[PLANCKS_2017_p4_f1.png]]
+![[_attachments/plancks_2017/plancks_2017_p4_f1.png]]
 Figura 1: Scatter di un neutrone in un nucleo. Sistema di laboratorio (L) e sistema di centro di massa (CMS)
 
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1QHsDQYUXgSqQ89h8-V5js1ViVneLxfGh/view)
@@ -490,7 +490,7 @@ where $N_c$ is the number of electrons in the conduction band.
 
 **Question IV:** Given that $m_c < m_e$, would nature allow a situation where the conduction band (red in Figure 1) would be the only band that is (partly or fully) occupied, implying that the blue band would be absent from Figure 1? Explain why or why not.
 
-![[PLANCKS_2017_p5_f1.png]]
+![[_attachments/plancks_2017/plancks_2017_p5_f1.png]]
 *Figure 2: Left: Single crystal of bismuth. Middle panel: Schematic of the two bands close to the Fermi energy which are the most relevant ones for the optical spectrum shown in the right hand panel: The conduction band (red) crosses the Fermi energy $E_F$. A fully occupied band (blue) has its maximum about $0.02\ \mathrm{eV}$ below $E_F$. Right hand panel: Optical conductivity of bismuth. Note the presence of the zero-frequency mode, $\sigma_c(\omega)$, below $\hbar\omega \sim 0.02\ \mathrm{eV}$ for $T = 20\ \mathrm{K}$ (shifting to higher energy for higher temperatures). The rise in conductivity above $0.02\ \mathrm{eV}$ corresponds to $\sigma_b(\omega)$ and is due to optical transitions between the two bands indicated in the middle panel.*
 
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1QHsDQYUXgSqQ89h8-V5js1ViVneLxfGh/view)
@@ -565,7 +565,7 @@ dove $N_c$ è il numero di elettroni nella banda di conduzione.
 
 **Questa IV: ** Dato che $m_c < m_e$, la natura consentirebbe una situazione in cui la banda di conduttività (rossa nella Figura 1) sarebbe l'unica banda occupata (parzialmente o completamente), implicando che la banda blu sarebbe assente dalla Figura 1? Spiegate il perché o il perché no.
 
-![[PLANCKS_2017_p5_f1.png]]
+![[_attachments/plancks_2017/plancks_2017_p5_f1.png]]
 Figura 2: Sinistra: cristallo unico di bismuto. Pannello medio: Schema delle due bande vicine all'energia Fermi che sono le più rilevanti per lo spettro ottico mostrato nel pannello destro: la banda di conduzione (rosso) attraversa l'energia Fermi $E_F$. Una banda completamente occupata (blu) ha il suo massimo di circa $0.02\ \mathrm{eV}$ inferiore a $E_F$. Pannello a destra: conduttività ottica del bismuto. Si noti la presenza della modalità di frequenza zero, $\sigma_c(\omega)$, sotto $\hbar\omega \sim 0.02\ \mathrm{eV}$ per $T = 20\ \mathrm{K}$ (scensione ad energia superiore per temperature più elevate). L'aumento della conductività superiore a $0.02\ \mathrm{eV}$ corrisponde a $\sigma_b(\omega)$ e è dovuto a transizioni ottiche tra le due bande indicate nel pannello centrale.*
 
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1QHsDQYUXgSqQ89h8-V5js1ViVneLxfGh/view)
@@ -606,7 +606,7 @@ Marty, the driver in the first (front) locomotive is instructed to ignite his se
 **Topic:** [[Special Relativity]], [[Mathematics]]
 **Metodi:** [[Lorentz Transformation (metodo)|Lorentz Transformation]], [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -635,7 +635,7 @@ b) esattamente quando i tronchi della seconda locomotiva (arrivo) devono essere 
 **Topic:** [[Special Relativity]], [[Mathematics]]
 **Metodi:** [[Lorentz Transformation (metodo)|Lorentz Transformation]], [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 
 
 
@@ -663,7 +663,7 @@ Express this equation and the vdW equation only as a function of the reduced qua
 
 (c) Sketch the process qualitatively into the $pv$-diagram below. The critical point $k$ on the critical isothermal line $T_k$ alongside with other isothermal lines are already plotted.
 
-![[PLANCKS_2017_p6_f1.png]]
+![[_attachments/plancks_2017/plancks_2017_p6_f1.png]]
 *The $pv$-diagram: critical point $k$ on the critical isothermal line $T_k$, with other isothermal lines plotted.*
 
 In the following points, calculate with the non-reduced quantities:
@@ -700,7 +700,7 @@ b) Calcolare esplicitamente le quantità ridotte in ogni punto del ciclo.
 
 c) Sniciare qualitativamente il processo nel diagramma $pv$ di seguito. Il punto critico $k$ sulla linea isotermica critica $T_k$ è già tracciato insieme ad altre linee isotermiche.
 
-![[PLANCKS_2017_p6_f1.png]]
+![[_attachments/plancks_2017/plancks_2017_p6_f1.png]]
 *Il diagramma $pv$: punto critico $k$ sulla linea isotermica critica $T_k$, con altre linee isotermiche tracciate.*
 
 I seguenti punti sono calcolati con i quantitativi non ridotti:
@@ -755,10 +755,10 @@ ii. Smallest unit cell area
 iii. Smallest lattice constants $a$ and $b$
 iv. $a < b$, $\gamma \geq 90^\circ$
 
-![[PLANCKS_2017_p8_f1.png]]
+![[_attachments/plancks_2017/plancks_2017_p8_f1.png]]
 *Figure 1: Cairo Tiling.*
 
-![[PLANCKS_2017_p8_f2.png]]
+![[_attachments/plancks_2017/plancks_2017_p8_f2.png]]
 *Figure 2: The 17 possible wallpaper groups. P ... Primitive lattice; C ... Centered lattice.*
 
 ### 8.2 Part B — Trihex Tiling
@@ -767,7 +767,7 @@ For the triangle/hexagon tiling (TriHex) a two-dimensional plane is fully filled
 
 As in Part A, determine the points (a)–(e) for the Trihex Tiling.
 
-![[PLANCKS_2017_p8_f3.png]]
+![[_attachments/plancks_2017/plancks_2017_p8_f3.png]]
 *Figure 3: TriHex Tiling.*
 
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1QHsDQYUXgSqQ89h8-V5js1ViVneLxfGh/view)
@@ -810,10 +810,10 @@ ii. Piu' piccola superficie di cellula
 iii. Le costanti più piccole della rete $a$ e $b$
 iv. $a < b$, $\gamma \geq 90^\circ$
 
-![[PLANCKS_2017_p8_f1.png]]
+![[_attachments/plancks_2017/plancks_2017_p8_f1.png]]
 *Figura 1: Tiling del Cairo.*
 
-![[PLANCKS_2017_p8_f2.png]]
+![[_attachments/plancks_2017/plancks_2017_p8_f2.png]]
 Figura 2: I 17 possibili gruppi di carta da parati. P ... Rete primitiva; C ... Rete centralizzata.*
 
 ### 8.2 Parte B  Tiling Trihex
@@ -822,7 +822,7 @@ Per il triangolo/esagono (TriHex) un piano bidimensionale è completamente riemp
 
 Come nella parte A, determinare i punti (a) (e) per il Tiling Trihex.
 
-![[PLANCKS_2017_p8_f3.png]]
+![[_attachments/plancks_2017/plancks_2017_p8_f3.png]]
 *Figura 3: Tiling TriHex.*
 
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1QHsDQYUXgSqQ89h8-V5js1ViVneLxfGh/view)
@@ -845,7 +845,7 @@ Come nella parte A, determinare i punti (a) (e) per il Tiling Trihex.
 
 In particular, when combining two systems described by angular momenta $\vec{J}_1$ and $\vec{J}_2$, then one can choose a basis of eigenvectors of $\vec{J}^2$ and $J_z$, where $\vec{J} = \vec{J}_1 + \vec{J}_2$ is the total angular momentum operator. Also think how $\vec{J}^2$ is related to the scalar product $\vec{J}_1 \cdot \vec{J}_2$.
 
-![[PLANCKS_2017_p9_f1.png]]
+![[_attachments/plancks_2017/plancks_2017_p9_f1.png]]
 *Figure 1: Setup consisting of four spin-$\tfrac{1}{2}$ particles.*
 
 Consider a qubit setup consisting of four spin-$\tfrac{1}{2}$ particles in a square arrangement (see Fig. 1). We work in units with $\hbar = 1$.
@@ -925,7 +925,7 @@ and the expectation value is evaluated with respect to the ground state of $H + 
 
 In particolare, quando si combinano due sistemi descritti dai momenti angolari $\vec{J}_1$ e $\vec{J}_2$, si può scegliere una base di vetori propri di $\vec{J}^2$ e $J_z$, dove $\vec{J} = \vec{J}_1 + \vec{J}_2$ è l'operatore di momentum angolare totale. Pensate anche a come $\vec{J}^2$ sia correlato al prodotto scalare $\vec{J}_1 \cdot \vec{J}_2$.
 
-![[PLANCKS_2017_p9_f1.png]]
+![[_attachments/plancks_2017/plancks_2017_p9_f1.png]]
 *Figura 1: Impostazione costituita da quattro particelle spin-$\tfrac{1}{2}$.*
 
 Considera una configurazione di qubit composta da quattro particelle spin-$\tfrac{1}{2}$ in un'arrangimento quadrato (vedi figura. 1). Lavoriamo in unità con $\hbar = 1$.
@@ -1011,7 +1011,7 @@ e il valore di attesa viene valutato rispetto allo stato di base di $H + H_{\tex
 (a) Calculate the distribution of the electrical field $E(\Theta)$ as well as the intensity (irradiance) $I(\Theta)$ behind a single slit as function of the angle $\Theta$ in the Fraunhofer limit ($R \gg D$), according to Fig. 1. The slit width is $D$ ($y$ direction) and the slit is assumed to be indefinitely long ($z$ direction).
 *Hint:* Use the expansion $r(y) = R - y\sin(\Theta)$.
 
-![[PLANCKS_2017_p10_f1.png]]
+![[_attachments/plancks_2017/plancks_2017_p10_f1.png]]
 *Figure 1: The single slit.*
 
 (b) Sketch the intensity distribution.
@@ -1020,7 +1020,7 @@ e il valore di attesa viene valutato rispetto allo stato di base di $H + H_{\tex
 
 The Fraunhofer lines D1 and D2 appear as dark features (absorption lines) in the spectrum of the sun (Fig. 2). The D1 line, which is higher in energy, is found at $589.0\ \mathrm{nm}$.
 
-![[PLANCKS_2017_p10_f2.png]]
+![[_attachments/plancks_2017/plancks_2017_p10_f2.png]]
 *Figure 2: Spectrum of the sun.*
 
 The semiclassical derivation of the spin-orbit coupling in atoms is based on a coordinate transformation into the rest frame of the valence electron. In this picture, an orbiting (singly charged) ion creates a field $B = -(v \times E)/c^2$ felt by the valence electron. In this $B$-field, the magnetic momentum $\mu$ of the electron, coupled to the electron spin $s$ via $\mu = \dfrac{g_s \cdot \mu_b \cdot s}{\hbar}$, gives rise to an energy contribution $E_{so} = -\mu \cdot B$, which is known as spin-orbit interaction energy. A factor $0.5$ needs to be added here due to the incorrect assumption of a linear motion of the electron in the transformation (Thomas-Factor).
@@ -1049,7 +1049,7 @@ $$\hbar = \frac{h}{2\pi} = 1.0546 \cdot 10^{-34}\,\mathrm{Js};\quad e = 1.6022 \
 a) Calcolare la distribuzione del campo elettrico $E(\Theta)$ e l'intensità (irradianza) $I(\Theta)$ dietro una singola fessura in funzione dell'angolo $\Theta$ nel limite Fraunhofer ($R \gg D$), secondo la figura. 1. La larghezza della fessura è $D$ (direzione $y$) e si presume che la fessura sia indefinitamente lunga (direzione $z$).
 *Suggetta: * Utilizzare l'espansione $r(y) = R - y\sin(\Theta)$.
 
-![[PLANCKS_2017_p10_f1.png]]
+![[_attachments/plancks_2017/plancks_2017_p10_f1.png]]
 *Figura 1: La singola fessura.*
 
 b) Sfoglio della distribuzione dell'intensità.
@@ -1058,7 +1058,7 @@ b) Sfoglio della distribuzione dell'intensità.
 
 Le linee Fraunhofer D1 e D2 appaiono come caratteristiche scure (linee di assorbimento) nello spettro solare (Fig. 2). La linea D1, che è più elevata in energia, si trova a $589.0\ \mathrm{nm}$.
 
-![[PLANCKS_2017_p10_f2.png]]
+![[_attachments/plancks_2017/plancks_2017_p10_f2.png]]
 *Figura 2: Spettro solare.*
 
 La derivazione semiclassica del congiuntura spin-orbita negli atomi si basa su una trasformazione delle coordinate nel cornice di riposo dell'elettrone di valenza. In questa immagine, un ione in orbita (unicargiato) crea un campo $B = -(v \times E)/c^2$ sentito dall'elettrone di valenza. In questo campo $B$, il momento magnetico $\mu$ dell'elettrone, accoppiato allo spin $s$ dell'elettrone attraverso $\mu = \dfrac{g_s \cdot \mu_b \cdot s}{\hbar}$, dà luogo a un contributo energetico $E_{so} = -\mu \cdot B$, noto come energia di interazione spin-orbita. Qui è necessario aggiungere un fattore $0.5$ a causa dell'ipotesi erronea di un movimento lineare dell'elettrone nella trasformazione (Thomas-Factor).

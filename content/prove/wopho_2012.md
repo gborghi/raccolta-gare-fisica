@@ -133,7 +133,7 @@ In this problem assume that the hoop does not tilt and is always in the same ver
 Use the following conventions for the derivatives of any function $f$:
 $$\dot{f} \equiv \frac{df}{dt} \qquad \text{and} \qquad f' \equiv \frac{df}{d\theta}$$
 
-![[WoPhO_2012_Q2_p1_f1.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q2_p1_f1.png]]
 
 ### Part 1. Preliminary Calculations
 
@@ -205,7 +205,7 @@ In questo problema supponiamo che l'orlo non si incline e sia sempre nello stess
 Per le derivate di qualsiasi funzione $f$ si utilizzano le seguenti convenzioni:
 $$\dot{f} \equiv \frac{df}{dt} \qquad \text{and} \qquad f' \equiv \frac{df}{d\theta}$$
 
-![[WoPhO_2012_Q2_p1_f1.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q2_p1_f1.png]]
 
 ### Parte 1. Calcoli preliminari
 
@@ -284,7 +284,7 @@ $$
 L = n\hbar. \tag{2}
 $$
 
-![[WoPhO_2012_Q3_p1_f1.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q3_p1_f1.png]]
 **Figure 1:** Stationary electronic orbits for different molecules as suggested by Niels Bohr in 1913.
 
 Inspired by the agreement between the theoretical predictions of his model and the experimental data for the hydrogen atom, Niels Bohr has made an attempt to apply the concept of stationary orbit to more complicated systems like many-electron atoms and molecules. Figure 1 represents an original sketch by Niels Bohr of possible stationary electron orbits in a number of molecules. For the suggested molecular models, however, Bohr did not observe precise agreement with the experimental data concerning the distances between atomic protons and the molecular bonding energies.
@@ -295,7 +295,7 @@ The interest in the Bohr's molecular model, however, has revived after a number 
 
 Shown in Figure 2 is a detailed sketch of the model of the hydrogen molecule proposed by Niels Bohr. The two protons ($p^+$) are separated by a distance $R$. The two electrons ($e^-$) revolve with the same angular velocity around the same circular orbit, which is perpendicular to and bisects the line connecting the two protons. The electron-proton distances are denoted by $r$, and the radius of the circular orbit by $\rho$.
 
-![[WoPhO_2012_Q3_p2_f2.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q3_p2_f2.png]]
 **Figure 2:** A schematic representation of the Bohr's model for the hydrogen molecule. Shown are all the relevant distances.
 
 It is assumed that:
@@ -378,7 +378,7 @@ $$
 L = n\hbar. \tag{2}
 $$
 
-![[WoPhO_2012_Q3_p1_f1.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q3_p1_f1.png]]
 **Figura 1: ** Orbit elettroniche stazionarie per diverse molecole come suggerito da Niels Bohr nel 1913.
 
 Ispirato all'accordo tra le previsioni teoriche del suo modello e i dati sperimentali per l'atomo di idrogeno, Niels Bohr ha tentato di applicare il concetto di orbita stazionaria a sistemi più complessi come atomi e molecole a molti elettroni. La figura 1 rappresenta uno sketch originale di Niels Bohr di possibili orbite di elettroni stazionari in un certo numero di molecole. Per i modelli molecolari suggeriti, tuttavia, Bohr non osservò un accurato accordo con i dati sperimentali riguardanti le distanze tra i protoni atomici e le energie di legame molecolare.
@@ -389,7 +389,7 @@ L'interesse per il modello molecolare di Bohr, tuttavia, è risvegliato dopo una
 
 Nella figura 2 è mostrato uno schizzo dettagliato del modello della molecola di idrogeno proposto da Niels Bohr. I due protoni ($p^+$) sono separati da una distanza $R$. I due elettroni ($e^-$) ruotano con la stessa velocità angolare intorno alla stessa orbita circolare, che è perpendicolare e divide la linea che collega i due protoni. Le distanze tra elettroni e protoni sono indicate da $r$ e il raggio dell'orbita circolare da $\rho$.
 
-![[WoPhO_2012_Q3_p2_f2.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q3_p2_f2.png]]
 **Figura 2: ** Una rappresentazione schematica del modello di Bohr per la molecola di idrogeno. Sono mostrate tutte le distanze pertinenti.
 
 Si presume che:
@@ -472,7 +472,7 @@ When fabricated or in use, solid porous bodies may be exposed to moisture penetr
 
 The porous solid considered in the problem contains only closed pores with a little amount of water in them (Fig. 1). A volume of liquid water is negligible compared to that of the pore. The water is in equilibrium with the vapour phase. For simplicity the pores are taken to be void of any other gases. The pore heat expansion also can be neglected.
 
-![[WoPhO_2012_Q4_p1_f1.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q4_p1_f1.png]]
 **Figure 1:** Porous solid and single pore.
 
 ### Part 1. Pore contents
@@ -542,7 +542,7 @@ Quando sono fabbricati o utilizzati, i corpi solidi porosi possono essere espost
 
 Il solido poroso considerato nel problema contiene solo pori chiusi con una piccola quantità di acqua (Fig. 1). Un volume di acqua liquida è insignificante rispetto a quello del poro. L'acqua è in equilibrio con la fase di vapore. Per semplicità, i pori sono considerati privi di qualsiasi altro gas. Anche l'espansione del calore dei pori può essere trascurata.
 
-![[WoPhO_2012_Q4_p1_f1.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q4_p1_f1.png]]
 **Figura 1: ** solido poroso e poroso singolo.
 
 ### Parte 1. Contenuto delle porche
@@ -615,7 +615,7 @@ La porosità (il rapporto tra il volume dei pori e il volume totale del corpo) d
 
 The rainbow is a spectacular show of the dispersion phenomenon. There are many beautiful tales about the rainbow, but here we will look at the rainbow from a point of view of Physics. Just after rain, there are still a lot of tiny water droplets in the air. If the sun appears from behind the clouds at this time, then the rainbow can be formed from the sunlight refracted and reflected by these tiny water droplets. Water droplets in the air may have different shapes. Only spherical water droplets make contribution to the formation of the rainbow. When falling down through the air, the shape of a water droplet depends on its size. During that process, the surface tension of the water tends to minimize the surface of the droplet and make the droplet spherical, but at the same time, the weight of the droplet and the air resistant force make the water droplet deform from the spherical shape. The surface tension predominates in smaller water droplets, so smaller water droplets are spherical. For larger water droplets, the weight of the droplet and the air resistant force are stronger than the surface tension, therefore larger water droplets are non-spherical.
 
-![[WoPhO_2012_Q5_p1_f1.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q5_p1_f1.png]]
 **Figure 1:** The Rainbow
 
 ### Part 1. The maximal diameter of a spherical water droplet
@@ -624,10 +624,10 @@ Consider now a spherical water droplet that falls down through the air with a co
 
 **1.A.** Calculate the air resistant force per unit water droplet surface $f$. Express your result in terms of the density of the water $\rho$, the gravitational acceleration $g$ and the diameter of the water droplet $D$.
 
-![[WoPhO_2012_Q5_p2_f2.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q5_p2_f2.png]]
 **Figure 2:** The air resistant force on the surface of a water droplet.
 
-![[WoPhO_2012_Q5_p2_f3.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q5_p2_f3.png]]
 **Figure 3:** The horizontal component $F_a$ of the air resistant force and the horizontal component $F_t$ of the surface tension force acting on a quarter of the sphere in the lower part of the water droplet.
 
 **1.B.** Calculate the horizontal component $F_a$ of the air resistant force acting on a quarter of the sphere in the lower part of the water droplet as shown in Fig. 3. Express your result in terms of $\rho$, $g$ and $D$.
@@ -640,14 +640,14 @@ Consider now a spherical water droplet that falls down through the air with a co
 
 **2.A.** Consider a light ray that is refracted into the water droplet, then reflected back once in the water droplet, and finally refracted into air, as shown in Fig. 4. $\alpha$ is the central angle of the incident point. Find the angle $\theta$ between the reflected ray and the reverse direction of the incident ray. Express your result in terms of $\alpha$ and the refraction index of water $n$.
 
-![[WoPhO_2012_Q5_p3_f4.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q5_p3_f4.png]]
 **Figure 4:** Refraction and reflection of light rays in a spherical water droplet.
 
 **2.B.** Suppose that the incident light is a parallel light with an optical intensity (optical power per unit section) equal to $I_0$. Find the angular optical power distribution of the reflected light
 $$J(\theta) = \lim_{\substack{\Delta\theta\to 0 \\ \Delta\varphi\to 0}} \frac{\Delta P}{\Delta\theta\,\Delta\varphi},$$
 where $\Delta P$ is the optical power within a small angular range $\Delta\varphi\,\Delta\theta$ around a given direction (Fig. 5). Express your result in terms of $\alpha$, $n$, $I_0$, the diameter of the water droplet $D$, the transmittance from air to water $T_1$, the transmittance from water to air $T_2$, the reflectivity in the water droplet $R$.
 
-![[WoPhO_2012_Q5_p3_f5.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q5_p3_f5.png]]
 **Figure 5:** The angular power distribution of the reflected light.
 
 **2.C.** For monochromatic lights with the wavelength $\lambda = 550\ \text{nm}$, calculate the angle $\theta_M$ at which the maximum for $J(\theta)$ occurs, and the maximum value $J(\theta_M)$ of $J(\theta)$. The water's refraction index at $\lambda = 550\ \text{nm}$ is $n_g = 1.3342$.
@@ -680,7 +680,7 @@ $$\frac{d}{dx}\arcsin(x) = \frac{1}{\sqrt{1-x^2}}$$
 
 L'arcobaleno è uno spettacolare spettacolo del fenomeno della dispersione. Ci sono molte belle storie sull'arcobaleno, ma qui vedremo l'arcobaleno dal punto di vista della fisica. Dopo la pioggia, ci sono ancora un sacco di piccole gocce d'acqua nell'aria. Se il sole appare da dietro le nuvole in questo momento, allora l'arcobaleno può essere formato dalla luce solare refrattata e riflessa da queste piccole gocce d'acqua. Le goccioline d'acqua nell'aria possono avere forme diverse. Solo gocce di acqua sferiche contribuiscono alla formazione dell'arcobaleno. Quando cade attraverso l'aria, la forma di una goccia d'acqua dipende dalla sua dimensione. Durante questo processo, la tensione superficiale dell'acqua tende a ridurre al minimo la superficie della goccia e a rendere la goccia sferica, ma allo stesso tempo, il peso della goccia e la forza resistente all'aria fanno deformare la goccia dall'aspetto sferica. La tensione superficiale predominante nelle piccole goccioline d'acqua, quindi le piccole goccioline d'acqua sono sferiche. Per le gocce d'acqua più grandi, il peso della goccia e la forza resistente all'aria sono più forti della tensione superficiale, quindi le gocce d'acqua più grandi non sono sferiche.
 
-![[WoPhO_2012_Q5_p1_f1.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q5_p1_f1.png]]
 **Figura 1: ** L'arcobaleno
 
 ### Parte 1. Il diametro massimo di una goccia d'acqua sferica
@@ -689,10 +689,10 @@ Considerate ora una goccia di acqua sferica che cade nell'aria a una velocità c
 
 **1.A.** Calcolare la forza resistente all'aria per unità di superficie della goccia d'acqua $f$. Esprimere il risultato in termini di densità dell'acqua $\rho$, accelerazione gravitazionale $g$ e di diametro della goccia d'acqua $D$.
 
-![[WoPhO_2012_Q5_p2_f2.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q5_p2_f2.png]]
 **Figura 2: ** La forza resistente all'aria sulla superficie di una goccia d'acqua.
 
-![[WoPhO_2012_Q5_p2_f3.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q5_p2_f3.png]]
 **Figura 3: ** La componente orizzontale $F_a$ della forza resistente all'aria e la componente orizzontale $F_t$ della forza di tensione superficiale che agisce su un quarto della sfera nella parte inferiore della goccia d'acqua.
 
 **1.B.** Calcolare la componente orizzontale $F_a$ della forza resistente all'aria che agisce su un quarto della sfera nella parte inferiore della goccia d'acqua come mostrato nella figura. 3. Esprimere il risultato in termini di $\rho$, $g$ e $D$.
@@ -705,14 +705,14 @@ Considerate ora una goccia di acqua sferica che cade nell'aria a una velocità c
 
 **2.A.** Considerate un raggio di luce che viene refrattato nella goccia d'acqua, poi riflettuto una volta nella goccia d'acqua e infine refrattato nell'aria, come mostrato nella figura. 4. $\alpha$ è l'angolo centrale del punto di incidenza. Trova l'angolo $\theta$ tra il raggio riflesso e la direzione inversa del raggio incidente. Esprimere il risultato in termini di $\alpha$ e indice di rifrazione dell'acqua $n$.
 
-![[WoPhO_2012_Q5_p3_f4.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q5_p3_f4.png]]
 **Figura 4: ** Rifrazione e riflessione dei raggi luminosi in una goccia d'acqua sferica.
 
 **2.B.** Supponiamo che la luce incidente sia una luce parallela con un'intensità ottica (potenza ottica per sezione unità) uguale a $I_0$. Trova la distribuzione angolare di potenza ottica della luce riflessa
 $$J(\theta) = \lim_{\substack{\Delta\theta\to 0 \\ \Delta\varphi\to 0}} \frac{\Delta P}{\Delta\theta\,\Delta\varphi},$$
 in cui $\Delta P$ è la potenza ottica all'interno di un piccolo intervallo angolare $\Delta\varphi\,\Delta\theta$ intorno a una determinata direzione (Fig. 5). Esprimete il risultato in termini di $\alpha$, $n$, $I_0$, il diametro della goccia d'acqua $D$, la trasmissione da aria ad acqua $T_1$, la trasmissione da acqua ad aria $T_2$, la riflettività nella goccia d'acqua $R$.
 
-![[WoPhO_2012_Q5_p3_f5.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q5_p3_f5.png]]
 **Figura 5: ** La distribuzione angolare della potenza della luce riflessa.
 
 **2.C.** Per le luci monocromatiche con lunghezza d'onda $\lambda = 550\ \text{nm}$ calcolare l'angolo $\theta_M$ in cui si verifica il massimo per $J(\theta)$ e il valore massimo $J(\theta_M)$ di $J(\theta)$. L'indice di rifrazione dell'acqua a $\lambda = 550\ \text{nm}$ è $n_g = 1.3342$.
@@ -756,14 +756,14 @@ Tsunami is an enormous ocean wave phenomenon generated by sudden water displacem
 
 In this problem we will explore the basic physics of Tsunami that will help us to appreciate some of its fundamental characteristics and help disseminate some potentially life-saving knowledge in the event of such calamity. In this problem we will use some estimated data of the 2004 Indian Ocean tsunami produced by an earthquake off the coast of Sumatra, Indonesia as shown below.
 
-![[WoPhO_2012_Q6_p1_f1.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q6_p1_f1.png]]
 **Figure 1:** (a-c) The sequence of a Tsunami event. (d) The wave structure of the 2004 Indian Ocean Tsunami. Red wave travels to the west and blue to east. Dotted box: Effective area $L \times W$ for the initial tsunami wave generated along the fault line (See Question 1).
 
 ### Part 1. Energy of tsunami
 
 The ocean floor seismic rupture suddenly displaces a large body of water above it along the fault line as shown in Figure 1. This excess body of water will be dissipated as tsunami waves that mainly propagate to the left and right. Let us make a simple model of the excess body of water with triangular cross section as shown in Figure 2. The initial water displacement is $h = 5\ \text{m}$ covering a large area of fault line of $L = 1400\ \text{km}$ and width $W = 150\ \text{km}$. (Note that $h$ is really in meter, very small compared to $L$ and $W$).
 
-![[WoPhO_2012_Q6_p2_f2.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q6_p2_f2.png]]
 **Figure 2:** A model of the initial displacement of a tsunami wave.
 
 **1.A.** Calculate the excess energy that will be dissipated as tsunami! Assume that this excess body of water is at rest right after the seismic event.
@@ -779,7 +779,7 @@ $$
 
 Let us make a very simple derivation of the tsunami speed by using a simple model of one half tsunami wave using a water tank model as shown below. The water is tilting back and forth from left to right given a slight initial imbalance of height. Thus the height $a$ will oscillate with time. Let us assume that the width of the water tank is half the wavelength of the tsunami wave $\lambda$. The length of water tank is $L$. Note: For tsunami (shallow water) wave, we assume: $a \ll d \ll \lambda$.
 
-![[WoPhO_2012_Q6_p3_f3.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q6_p3_f3.png]]
 **Figure 3:** Water tank model of a tsunami wave to estimate its wave velocity.
 
 **2.A.** Write down the horizontal velocity of the water element as a function of horizontal position $x$, $a$ and/or its derivative. Hint: the velocity at the edge of the water tank is zero.
@@ -788,7 +788,7 @@ Let us make a very simple derivation of the tsunami speed by using a simple mode
 
 **2.C.** Show that the system exhibits a simple harmonic oscillator. Calculate the period of oscillation $T$ of the water!
 
-![[WoPhO_2012_Q6_p4_f4.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q6_p4_f4.png]]
 **Figure 4:** A tsunami warning system in a coastal area.
 
 **2.D.** The tsunami displaces wave with wavelength $\lambda$ in a time period $T$. The wave speed or "phase velocity" is given as: $v = \lambda/T$. Show that: $v \propto \sqrt{gd}$ ($\propto$ means proportional to).
@@ -805,7 +805,7 @@ Use the tsunami speed equation as given in Eq. 1 above.
 
 In the ocean where the seafloor depth is constant (region I) the tsunami waves has a characteristic height $h$ and coming to the land with linearly increasing ocean floor (region II).
 
-![[WoPhO_2012_Q6_p5_f5.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q6_p5_f5.png]]
 **Figure 5:** Tsunami characteristics on land impact.
 
 **4.A.** Investigate what happens to the tsunami wave height $h$ as it comes crashing to land. Express the relationship of $h$ as a function of depth $d$. Hint: The period of the tsunami wave is constant everywhere.
@@ -820,7 +820,7 @@ An early warning sign of the incoming tsunami is the "drawback effect" where the
 
 Let us explore this drawback effect by the following model. Assume that we put a test buoy $B$ on the water surface that will track the water particle there. Note that there are two movements: First is the cyclic up and down movement with a period $T = v_0/\lambda$ where $v_0$ is the phase velocity of the wave, and second: the horizontal movement because the buoy is dragged by the traveling wave, but with the speed less than the wave phase velocity $v_0$. Thus to track the trajectory of buoy $B$ we can use a Yo-Yo model which rotates with period $T$ but the center moves with speed less than $v_0$.
 
-![[WoPhO_2012_Q6_p6_f6.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q6_p6_f6.png]]
 **Figure 6:** (a) A test buoy model and (b) A yo-yo model to investigate the "tsunami drawback effect".
 
 **5.A.** Sketch the trajectory of the buoy $B$ as a function of distance as the "Yo-Yo" rolls.
@@ -831,7 +831,7 @@ Let us explore this drawback effect by the following model. Assume that we put a
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -846,14 +846,14 @@ Il tsunami è un enorme fenomeno di onde oceaniche generato da un improvviso spo
 
 In questo problema esploreremo le basi fisiche del tsunami che ci aiuteranno a comprendere alcune delle sue caratteristiche fondamentali e a diffondere alcune conoscenze che potrebbero salvare vite in caso di catastrofe. In questo problema useremo alcuni dati stimati del tsunami dell'Oceano Indiano del 2004 prodotto da un terremoto al largo della costa di Sumatra, in Indonesia come mostrato di seguito.
 
-![[WoPhO_2012_Q6_p1_f1.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q6_p1_f1.png]]
 **Figura 1: ** (a-c) La sequenza di un evento tsunami. d) La struttura delle onde del tsunami dell'Oceano Indiano del 2004. L'onda rossa viaggia verso ovest e l'onda blu verso est. Cassa puntata: area effettiva $L \times W$ per l'onda iniziale di tsunami generata lungo la linea di rottura (vedi domanda 1).
 
 ### Parte 1. Energia dello tsunami
 
 La rottura sismica del fondo oceanico sposta improvvisamente un grande corpo d'acqua sopra di esso lungo la linea di rottura come mostrato nella Figura 1. Questo eccesso di acqua si disperderà come onde di tsunami che si propagano principalmente a sinistra e a destra. Fate un modello semplice del corpo d'acqua in eccesso con sezione trasversale triangolare come mostrato alla Figura 2. Il spostamento iniziale dell'acqua è $h = 5\ \text{m}$ che copre una grande area di linea di rottura di $L = 1400\ \text{km}$ e larghezza $W = 150\ \text{km}$. (Ricorda che $h$ è realmente in metro, molto piccolo rispetto a $L$ e $W$).
 
-![[WoPhO_2012_Q6_p2_f2.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q6_p2_f2.png]]
 **Figura 2: ** Un modello del spostamento iniziale di un'onda di tsunami.
 
 **1.A.** Calculate the excess energy that will be dissipated as tsunami! Supponiamo che questo eccesso di acqua sia in riposo subito dopo l'evento sismico.
@@ -869,7 +869,7 @@ $$
 
 Facciamo una derivazione molto semplice della velocità del tsunami utilizzando un modello semplice di una metà di onda di tsunami utilizzando un modello di serbatoio d'acqua come mostrato di seguito. L'acqua si tende avanti e indietro da sinistra a destra, dato un lieve squilibrio iniziale di altezza. In questo modo l'altezza $a$ oscilla nel tempo. Let us assume that the width of the water tank is half the wavelength of the tsunami wave $\lambda$. La lunghezza del serbatoio d'acqua è $L$. Nota: per l'onda di tsunami (acqua bassa) supponiamo: $a \ll d \ll \lambda$.
 
-![[WoPhO_2012_Q6_p3_f3.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q6_p3_f3.png]]
 **Figura 3: ** Modello di serbatoio d'acqua di un'onda di tsunami per stimare la sua velocità d'onda.
 
 **2.A.** Scrivere la velocità orizzontale dell'elemento acqua come funzione della posizione orizzontale $x$, $a$ e/o della sua derivata. Suggerimento: la velocità al bordo del serbatoio d'acqua è zero.
@@ -878,7 +878,7 @@ Facciamo una derivazione molto semplice della velocità del tsunami utilizzando 
 
 **2.C.** Mostri che il sistema presenta un semplice oscillatore armonico. Calcolare il periodo di oscillazione $T$ dell'acqua!
 
-![[WoPhO_2012_Q6_p4_f4.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q6_p4_f4.png]]
 **Figura 4: ** Un sistema di allarme tsunami in una zona costiera.
 
 **2.D.** Lo tsunami spostano l'onda con lunghezza d'onda $\lambda$ in un periodo di tempo $T$. La velocità d'onda o "velocità di fase" è data come: $v = \lambda/T$. Indicare che: $v \propto \sqrt{gd}$ ($\propto$ significa proporzionale a).
@@ -895,7 +895,7 @@ Utilizzare l'equazione di velocità del tsunami come indicato in Eq. Uno sopra.
 
 Nell'oceano dove la profondità del fondo marino è costante (regione I) le onde di tsunami hanno un'altezza caratteristica $h$ e arrivano sulla terra con un aumento lineare del fondo oceanico (regione II).
 
-![[WoPhO_2012_Q6_p5_f5.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q6_p5_f5.png]]
 **Figura 5: ** Caratteristiche dei tsunami sull'impatto sul suolo.
 
 **4.A.** Investigare cosa accade all'altezza delle onde di tsunami $h$ quando si schianta a terra. Esprimere la relazione di $h$ come funzione di profondità $d$. L'epoca dell'onda tsunami è costante ovunque.
@@ -910,7 +910,7 @@ Un segno di avvertimento precoce del tsunami in arrivo è l'"effetto di ritiro" 
 
 Esploriamo questo effetto svantaggio con il modello seguente. Supponiamo di mettere una boia di prova $B$ sulla superficie dell'acqua che traccia la particella d'acqua lì. Si noti che ci sono due movimenti: primo è il movimento ciclico su e giù con un periodo $T = v_0/\lambda$ dove $v_0$ è la velocità di fase dell'onda, e secondo: il movimento orizzontale perché la boia è trascinata dall'onda in movimento, ma con la velocità inferiore alla velocità di fase dell'onda $v_0$. Per quindi tracciare la traiettoria della boia $B$ possiamo utilizzare un modello Yo-Yo che ruota con periodo $T$ ma il centro si muove a velocità inferiore a $v_0$.
 
-![[WoPhO_2012_Q6_p6_f6.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q6_p6_f6.png]]
 **Figura 6: ** (a) Modello di boia di prova e (b) Modello di yo-yo per indagare sull'"effetto di avversità dei tsunami".
 
 **5.A.** Segnare la traiettoria della boia $B$ in funzione della distanza in cui i rulli "Yo-Yo" ruotano.
@@ -921,7 +921,7 @@ Esploriamo questo effetto svantaggio con il modello seguente. Supponiamo di mett
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 
 
 
@@ -938,7 +938,7 @@ A solid ball magnet (with uniform permanent magnetization $M_0$) of mass $m$ and
 - Ignore air friction as well as friction between the ball and the tube.
 - For simplicity, one may assume that the magnetization of the ball is oriented vertically down and the ball does not rotate as it falls down.
 
-![[WoPhO_2012_Q7_p1_f1.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q7_p1_f1.png]]
 
 **(a).** Calculate the magnetic breaking force for the ball magnet in terms of the given quantities and relevant physical constants.
 
@@ -950,7 +950,7 @@ A solid ball magnet (with uniform permanent magnetization $M_0$) of mass $m$ and
 **Topic:** [[Electromagnetic Induction]], [[Magnetism]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lenz's Law (metodo)|Lenz's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Magnet (object)|Magnet]], [[Pipe/Tube (object)|Pipe/Tube]], [[Ball (object)|Ball]]
+**Objects:** [[Magnet (object)|Magnet]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Ball (object)|Ball]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -962,7 +962,7 @@ Un magnete a sfera solida (con una magnetizzazione permanente uniforme $M_0$) di
 - Ignora l'attrito dell'aria e l'attrito tra la palla e il tubo.
 - Per semplicità, si può supporre che la magnetizzazione della palla sia orientata verticalmente verso il basso e la palla non ruota mentre cade.
 
-![[WoPhO_2012_Q7_p1_f1.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q7_p1_f1.png]]
 
 **(a).** Calcolare la forza di rottura magnetica del magnete a sfera in termini di quantità e di costanti fisiche rilevanti.
 
@@ -974,7 +974,7 @@ Un magnete a sfera solida (con una magnetizzazione permanente uniforme $M_0$) di
 **Topic:** [[Electromagnetic Induction]], [[Magnetism]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lenz's Law (metodo)|Lenz's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Magnet (object)|Magnet]], [[Pipe/Tube (object)|Pipe/Tube]], [[Ball (object)|Ball]]
+**Objects:** [[Magnet (object)|Magnet]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Ball (object)|Ball]]
 
 
 
@@ -995,11 +995,11 @@ $$
 \frac{\alpha}{\beta} = \frac{c+v}{c-v} \tag{1}
 $$
 
-![[WoPhO_2012_Q8_p1_f1.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q8_p1_f1.png]]
 
 **1.B.** Consider a simplified view of image formation in a camera, wherein said device works by capturing light from an object and projecting it onto a screen. If the object is far away, light from it would obviously be focused at the focal point of the camera's lens.
 
-![[WoPhO_2012_Q8_p2_f2.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q8_p2_f2.png]]
 
 It is easily shown that the size of the image formed on the screen of the camera, for an object of size $H$ at a distance $L$ from the camera, is given by $h = Hf/L$.
 
@@ -1010,7 +1010,7 @@ Suppose now that the camera is approaching the object at a relativistic speed $v
 
 **1.C.** A camera with video-recording capability, width $D$, lens focal length $f$ and a clock attached in front of it is moving relativistically with speed $v$ towards a perfectly reflecting plane mirror as shown in the figure below.
 
-![[WoPhO_2012_Q8_p2_f3.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q8_p2_f3.png]]
 
 - (a) At a certain moment, the camera is located at a distance $L$ from the mirror in the mirror's rest frame. Determine the rate of change of the camera image's width as recorded by the camera itself, given that $L \gg d$.
 - (b) At that time an observer moving together with the camera notes that the difference between the reading of the camera's clock and the image's clock is $A$ seconds and that the ticking speed of one clock is $B$ times faster than the other. Using this information, find the distance between the camera and the mirror as seen in the rest frame of the mirror, given that $A > 0$ and $B > 1$.
@@ -1020,7 +1020,7 @@ Suppose now that the camera is approaching the object at a relativistic speed $v
 
 A perfectly spherical star of spectral class G initially has a radius $R_0$. All of a sudden, a cataclysmic event at $t = 0$ in the star's rest frame causes it to start expanding at a constant relativistic rate $dR/dt = v$. An observer on Earth, at a distance $L \gg R$ from the star, is observing this strange phenomenon. The Earth frame can be treated as an inertial frame.
 
-![[WoPhO_2012_Q8_p3_f4.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q8_p3_f4.png]]
 
 **2.A.** Determine the apparent angular size of the star as a function of time, $\theta(t)$, as seen by the observer. Hint: it may be a good idea to plot this function.
 
@@ -1048,11 +1048,11 @@ $$
 \frac{\alpha}{\beta} = \frac{c+v}{c-v} \tag{1}
 $$
 
-![[WoPhO_2012_Q8_p1_f1.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q8_p1_f1.png]]
 
 **1.B.** Considerate una visualizzazione semplificata della formazione di immagini in una fotocamera, in cui tale dispositivo funziona catturando la luce da un oggetto e proiettandola su uno schermo. Se l'oggetto è lontano, la luce da esso si focalizzerà ovviamente al punto focale dell'obiettivo della fotocamera.
 
-![[WoPhO_2012_Q8_p2_f2.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q8_p2_f2.png]]
 
 Si può facilmente dimostrare che la dimensione dell'immagine formata sullo schermo della fotocamera, per un oggetto di dimensioni $H$ a distanza $L$ dalla fotocamera, è data da $h = Hf/L$.
 
@@ -1063,7 +1063,7 @@ Supponiamo ora che la fotocamera si avvicini all'oggetto a una velocità relativ
 
 Una fotocamera con capacità di registrazione video, larghezza $D$, lunghezza focale $f$ e un orologio fissato davanti si muove relativisticamente con velocità $v$ verso uno specchio piano perfettamente riflesso come mostrato nella figura seguente.
 
-![[WoPhO_2012_Q8_p2_f3.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q8_p2_f3.png]]
 
 - a) In un certo momento, la telecamera si trova a una distanza $L$ dallo specchio nel quadro di riposo dello specchio. Determinare il tasso di variazione della larghezza dell'immagine della fotocamera, come registrato dalla fotocamera stessa, data la $L \gg d$.
 - (b) In quel momento un osservatore che si muove insieme alla macchina fotografica osserva che la differenza tra la lettura dell'orologio della macchina fotografica e l'orologio dell'immagine è di $A$ secondi e che la velocità di ticchatura di un orologio è $B$ volte più veloce dell'altro. Con queste informazioni, si trova la distanza tra la fotocamera e lo specchio come si vede nella cornice del resto dello specchio, dato che $A > 0$ e $B > 1$.
@@ -1073,7 +1073,7 @@ Una fotocamera con capacità di registrazione video, larghezza $D$, lunghezza fo
 
 Una stella perfettamente sferica di classe spettrale G ha inizialmente un raggio $R_0$. All'improvviso, un evento cataclismico a $t = 0$ nel quadro di riposo della stella fa sì che inizi a espandersi a un ritmo relativistico costante $dR/dt = v$. Un osservatore sulla Terra, a una distanza $L \gg R$ dalla stella, sta osservando questo strano fenomeno. Il telaio terrestre può essere trattato come un telaio inerziale.
 
-![[WoPhO_2012_Q8_p3_f4.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q8_p3_f4.png]]
 
 **2.A.** Determinare la dimensione angolare apparente della stella in funzione del tempo, $\theta(t)$, come osservato dall'osservatore. Suggerimento: potrebbe essere una buona idea tracciare questa funzione.
 
@@ -1101,7 +1101,7 @@ Supponiamo che la stella sia un corpo nero perfetto, in modo che la luce dall'in
 
 A steady stream of water from a pipe valve slowly fills up a relatively slender cylindrical tube of height $l_0 = 1\ \text{m}$ and base area $A = 1.26 \times 10^{-3}\ \text{m}^2$. As the tube is being filled up with water, a microphone records the sound that is being produced. The spectrogram of the recorded sound signal reveals the time evolution of the prominent audible frequencies as the water level in the tube rises. The details are illustrated in the following schematics:
 
-![[WoPhO_2012_Q9_p1_f1.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q9_p1_f1.png]]
 
 Based on the available information of the setup and the data given, determine reasonably reliable numerical estimates for the following quantities:
 
@@ -1115,7 +1115,7 @@ For the purpose of aiding analysis and calculations, a larger version of the abo
 
 On another occasion, a similar experiment is performed under slightly different conditions and settings. A steady stream of water slowly fills up a relatively slender cylindrical tube of height $l_0 = 1\ \text{m}$ and base area $A = 1.26 \times 10^{-3}\ \text{m}^2$, but this time the side of the tube has a small hole at a certain location. Again, a microphone records the sound that is being produced as the tube is being filled up with water. The gravitational acceleration is $g = 9.8\ \text{m/s}^2$. The settings and the resulting spectrogram traces are shown in the schematics below:
 
-![[WoPhO_2012_Q9_p2_f2.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q9_p2_f2.png]]
 
 Based on the available information of the setup and the data given, determine reasonably reliable numerical estimates for the following quantities:
 
@@ -1133,17 +1133,17 @@ Based on the available information of the setup and the data given, determine re
 
 Spectrogram Plot for Part I:
 
-![[WoPhO_2012_Q9_p4_f3.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q9_p4_f3.png]]
 
 Spectrogram Plot for Part II:
 
-![[WoPhO_2012_Q9_p5_f4.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q9_p5_f4.png]]
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1PKIJqNBRc47tKK71k0cV1YjBUlYECrzo/view)
 **Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -1154,7 +1154,7 @@ Spectrogram Plot for Part II:
 
 Un flusso costante di acqua proveniente da una valvola di tubo riempie lentamente un tubo cilindrico relativamente sottile di altezza $l_0 = 1\ \text{m}$ e di superficie di base $A = 1.26 \times 10^{-3}\ \text{m}^2$. Mentre il tubo si riempie di acqua, un microfono registra il suono che viene prodotto. Lo spettrogramma del segnale sonoro registrato rivela l'evoluzione temporale delle frequenze audibili più importanti man mano che il livello dell'acqua nel tubo sale. I dettagli sono illustrati nei seguenti schemi:
 
-![[WoPhO_2012_Q9_p1_f1.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q9_p1_f1.png]]
 
 Sulla base delle informazioni disponibili sull'impianto e dei dati forniti, determinare stime numeriche ragionevolmente affidabili per le seguenti quantità:
 
@@ -1168,7 +1168,7 @@ Ai fini dell'analisi e dei calcoli, una versione più ampia del diagramma di spe
 
 In un'altra occasione, un esperimento simile viene eseguito in condizioni e impostazioni leggermente diverse. Un flusso di acqua costante riempie lentamente un tubo cilindrico relativamente sottile di altezza $l_0 = 1\ \text{m}$ e di superficie di base $A = 1.26 \times 10^{-3}\ \text{m}^2$, ma questa volta il lato del tubo ha un piccolo buco in una certa posizione. Ancora una volta, un microfono registra il suono che viene prodotto mentre il tubo viene riempito di acqua. L'accelerazione gravitazionale è $g = 9.8\ \text{m/s}^2$. Le impostazioni e le tracce dello spettroogramma risultanti sono riportate nelle schemiche di seguito:
 
-![[WoPhO_2012_Q9_p2_f2.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q9_p2_f2.png]]
 
 Sulla base delle informazioni disponibili sull'impianto e dei dati forniti, determinare stime numeriche ragionevolmente affidabili per le seguenti quantità:
 
@@ -1186,17 +1186,17 @@ Nota: Ignorare l' effetto della vena contracta (cioè diametro di contrazione) n
 
 Spettro di spettro per la parte I:
 
-![[WoPhO_2012_Q9_p4_f3.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q9_p4_f3.png]]
 
 Spettro di spettro della parte II:
 
-![[WoPhO_2012_Q9_p5_f4.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q9_p5_f4.png]]
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1PKIJqNBRc47tKK71k0cV1YjBUlYECrzo/view)
 **Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 
 
 
@@ -1220,7 +1220,7 @@ where $G = 6.67 \times 10^{-11}\ \text{N·m}^2/\text{s}^2$ gravitational constan
 
 The arbitrary constant is governed by conditions of the potential normalization. The value of the constant does not matter, so while solving the problem, one can drop all the constants from expressions for the gravitational potential.
 
-![[WoPhO_2012_Q10_p1_f1.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q10_p1_f1.png]]
 **Figure 1:** Earth and Moon.
 
 **Earth-Moon system parameters:**
@@ -1282,7 +1282,7 @@ dove $G = 6.67 \times 10^{-11}\ \text{N·m}^2/\text{s}^2$ è costante gravitazio
 
 La costante arbitraria è governata dalle condizioni della normalizzazione potenziale. Il valore della costante non conta, quindi, mentre si risolve il problema, si possono eliminare tutte le costanti dalle espressioni per il potenziale gravitazionale.
 
-![[WoPhO_2012_Q10_p1_f1.png]]
+![[prove/_attachments/wopho_2012/wopho_2012_q10_p1_f1.png]]
 **Figura 1: ** Terra e Luna.
 
 **Parametri del sistema Terra-Luna:**

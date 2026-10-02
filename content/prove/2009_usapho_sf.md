@@ -32,7 +32,7 @@ c. Relate $\mathcal{E}$ to the current $I$, the resistivity $\rho$, and the dime
 d. The current at $t = 0$ is $I_0$. What is the current $I(t)$ for $t > 0$?
 
 **Topic:** [[Electromagnetic Induction]]
-**Metodi:** [[Ampere's Law (metodo)|Ampere's Law]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Differential Equations (metodo)|Differential Equations]]
+**Metodi:** [[methods/ampère's-law-(metodo)|Ampere's Law]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Solenoid (object)|Solenoid]]
 **Fonte:** [Testo (PDF) - p.3](https://drive.google.com/file/d/1fF-I-4RNfVcgJsn8P2rlcZeXa9AZa7YN/view)
@@ -55,7 +55,7 @@ c. Relazionare $\mathcal{E}$ alla corrente $I$, alla resistività $\rho$ e alle 
 d. La corrente a $t = 0$ è $I_0$. Qual è la corrente $I(t)$ per $t > 0$?
 
 **Topic:** [[Electromagnetic Induction]]
-**Metodi:** [[Ampere's Law (metodo)|Ampere's Law]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Differential Equations (metodo)|Differential Equations]]
+**Metodi:** [[methods/ampère's-law-(metodo)|Ampere's Law]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Solenoid (object)|Solenoid]]
 **Fonte:** [Testo (PDF) - p.3](https://drive.google.com/file/d/1fF-I-4RNfVcgJsn8P2rlcZeXa9AZa7YN/view)

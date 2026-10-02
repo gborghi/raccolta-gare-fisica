@@ -865,7 +865,7 @@ There are 3 containers X, Y and Z. X contains 10 ml of water and Z contains 10 m
 **Topic:** [[Chemistry]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1o3qXLG3UcGu9-AG5c1aUUcaR4MZGB7ze/view)
 
 
@@ -881,7 +881,7 @@ Ci sono 3 contenitori X, Y e Z. X contiene 10 ml di acqua e Z contiene 10 ml di 
 **Topic:** [[Chemistry]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1o3qXLG3UcGu9-AG5c1aUUcaR4MZGB7ze/view)
 
 
@@ -1021,7 +1021,7 @@ Three different circuits (I, II and III) are constructed using identical batteri
 
 <!--fig:start-->
 **Quesito 27**
-![[injso2014-Q_p6_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p6_f1.png]]
 <!--fig:end-->
 
 - (a) $I_I > I_{II} > I_{III}$
@@ -1042,7 +1042,7 @@ Tre circuiti diversi (I, II e III) sono costruiti utilizzando batterie e resisto
 
 <!--fig:start-->
 **Quesito 27**
-![[injso2014-Q_p6_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p6_f1.png]]
 <!--fig:end-->
 
 - (a) $I_I > I_{II} > I_{III}$
@@ -1080,7 +1080,7 @@ iv) Two persons enter the room. Person M is medically normal but person N has fe
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1o3qXLG3UcGu9-AG5c1aUUcaR4MZGB7ze/view)
 
 
@@ -1102,7 +1102,7 @@ iv) Entrano due persone nella stanza. La persona M è medicamente normale ma la 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1o3qXLG3UcGu9-AG5c1aUUcaR4MZGB7ze/view)
 
 
@@ -1117,7 +1117,7 @@ An optical system whose cross-section is shown below is constructed from two dif
 
 <!--fig:start-->
 **Quesito 29**
-![[injso2014-Q_p7_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p7_f1.png]]
 <!--fig:end-->
 
 - (a) 0°
@@ -1138,7 +1138,7 @@ Un sistema ottico la cui sezione trasversale è mostrata di seguito è costruito
 
 <!--fig:start-->
 **Quesito 29**
-![[injso2014-Q_p7_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p7_f1.png]]
 <!--fig:end-->
 
 - (a) 0°
@@ -1164,7 +1164,7 @@ The given diagram represents a dividing cell stained with pentea. From the optio
 
 <!--fig:start-->
 **Quesito 30**
-![[injso2014-Q_p7_f2.png]]
+![[_attachments/injso2014-q/injso2014-q_p7_f2.png]]
 <!--fig:end-->
 
 - (a) Leptotene
@@ -1185,7 +1185,7 @@ Il diagramma fornito rappresenta una cellula di divisione colorata di pentea. Da
 
 <!--fig:start-->
 **Quesito 30**
-![[injso2014-Q_p7_f2.png]]
+![[_attachments/injso2014-q/injso2014-q_p7_f2.png]]
 <!--fig:end-->
 
 - a) Leptotene
@@ -1285,7 +1285,7 @@ Of the four figures given below, $x_0$ is known value of the outcome in an exper
 
 <!--fig:start-->
 **Quesito 33**
-![[injso2014-Q_p8_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p8_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Mathematics]]
@@ -1301,7 +1301,7 @@ Tra le quattro cifre indicate di seguito, $x_0$ è il valore noto del risultato 
 
 <!--fig:start-->
 **Quesito 33**
-![[injso2014-Q_p8_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p8_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Mathematics]]
@@ -1507,7 +1507,7 @@ In the following circuit the ammeter is ideal and reads zero. Value of resistanc
 
 <!--fig:start-->
 **Quesito 39**
-![[injso2014-Q_p9_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p9_f1.png]]
 <!--fig:end-->
 
 - (a) 500 Ω
@@ -1528,7 +1528,7 @@ Nel circuito successivo l'ampilometro è ideale e si legge zero. Valore di resis
 
 <!--fig:start-->
 **Quesito 39**
-![[injso2014-Q_p9_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p9_f1.png]]
 <!--fig:end-->
 
 - (a) 500 Ω
@@ -1654,7 +1654,7 @@ Child drinks a liquid of density d through a vertical straw. Atmospheric pressur
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1o3qXLG3UcGu9-AG5c1aUUcaR4MZGB7ze/view)
 
 
@@ -1670,7 +1670,7 @@ Il bambino beve un liquido di densità d attraverso una paglia verticale. La pre
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1o3qXLG3UcGu9-AG5c1aUUcaR4MZGB7ze/view)
 
 
@@ -1722,7 +1722,7 @@ Variation of the concentration of the reactant (X) and the product (Y) are shown
 
 <!--fig:start-->
 **Quesito 44**
-![[injso2014-Q_p11_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p11_f1.png]]
 <!--fig:end-->
 
 - (a) I and II both are kinetic regions.
@@ -1743,7 +1743,7 @@ La variazione della concentrazione del reagente (X) e del prodotto (Y) è mostra
 
 <!--fig:start-->
 **Quesito 44**
-![[injso2014-Q_p11_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p11_f1.png]]
 <!--fig:end-->
 
 - a) I e II sono entrambe regioni cinetiche.
@@ -1769,7 +1769,7 @@ A ball falls from rest through air and eventually reaches a constant velocity. F
 
 <!--fig:start-->
 **Quesito 45**
-![[injso2014-Q_p11_f2.png]]
+![[_attachments/injso2014-q/injso2014-q_p11_f2.png]]
 <!--fig:end-->
 
 Which of the following should be force X and Force Y?
@@ -1794,7 +1794,7 @@ Una palla cade dal riposo attraverso l'aria e alla fine raggiunge una velocità 
 
 <!--fig:start-->
 **Quesito 45**
-![[injso2014-Q_p11_f2.png]]
+![[_attachments/injso2014-q/injso2014-q_p11_f2.png]]
 <!--fig:end-->
 
 Quale delle seguenti dovrebbe essere la forza X e la forza Y?
@@ -1824,7 +1824,7 @@ A person is riding a bicycle in vertical portion accelerating forward without sl
 
 <!--fig:start-->
 **Quesito 46**
-![[injso2014-Q_p12_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p12_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]]
@@ -1840,7 +1840,7 @@ Una persona sta guidando una bicicletta in parte verticale che accelera in avant
 
 <!--fig:start-->
 **Quesito 46**
-![[injso2014-Q_p12_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p12_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]]
@@ -2124,7 +2124,7 @@ Mayuri was performing thermometric titration of a weak base 100 ml of 1 M sulphu
 
 <!--fig:start-->
 **Quesito 54**
-![[injso2014-Q_p14_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p14_f1.png]]
 <!--fig:end-->
 
 - (a) $-13.7$ kcal
@@ -2145,7 +2145,7 @@ Mayuri stava eseguendo la titolazione termometrica di una base debole 100 ml di 
 
 <!--fig:start-->
 **Quesito 54**
-![[injso2014-Q_p14_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p14_f1.png]]
 <!--fig:end-->
 
 - a) $-13.7$ kcal
@@ -2368,7 +2368,7 @@ A smooth flat horizontal turntable 4.0 m in diameter is rotating at 0.050 revs p
 
 <!--fig:start-->
 **Quesito 60**
-![[injso2014-Q_p16_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p16_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]]
@@ -2384,7 +2384,7 @@ Una piatta rotatoria orizzontale liscia di 4,0 m di diametro ruota a 0,050 giri 
 
 <!--fig:start-->
 **Quesito 60**
-![[injso2014-Q_p16_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p16_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]]
@@ -2507,7 +2507,7 @@ Observe the Nitrogen cycle given below and answer the following questions.
 
 <!--fig:start-->
 **Quesito 63**
-![[injso2014-Q_p18_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p18_f1.png]]
 <!--fig:end-->
 
 **i.** Beginning with free atmospheric nitrogen, arrange the following processes of nitrogen cycle in a proper order. **[1 Mark]**
@@ -2553,7 +2553,7 @@ Osservate il ciclo di azoto riportato di seguito e risponda alle seguenti domand
 
 <!--fig:start-->
 **Quesito 63**
-![[injso2014-Q_p18_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p18_f1.png]]
 <!--fig:end-->
 
 **i.** A partire dal azoto atmosferico libero, organizzare in ordine il seguente ciclo di azoto. **[1 Marchio]**
@@ -2694,7 +2694,7 @@ The breakup of the comet was attributed to the strong effect of tidal forces act
 
 <!--fig:start-->
 **Quesito 66**
-![[injso2014-Q_p20_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p20_f1.png]]
 <!--fig:end-->
 
 ISON is made of two identical spheres ($m_1$, $m_2$) attached to each other. As seen from the sun, one spheres is exactly behind other sphere. Let total mass be m and distance between centers of two spheres be r. Let the distance of closest approach of the comet from the sun, when it broke, be R. (Distance of closest approach means, the distance between the comet and the sun, is smallest).
@@ -2710,7 +2710,7 @@ ISON is made of two identical spheres ($m_1$, $m_2$) attached to each other. As 
 **Topic:** [[Order-of-Magnitude Estimation]], [[Astrophysics]]
 **Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Sphere (object)|Sphere]], [[Star (object)|Star]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Sphere (object)|Sphere]], [[Star (object)|Star]]
 **Fonte:** [Testo (PDF) — p.20](https://drive.google.com/file/d/1o3qXLG3UcGu9-AG5c1aUUcaR4MZGB7ze/view)
 
 
@@ -2730,7 +2730,7 @@ La rottura della cometa fu attribuita al forte effetto delle forze di marea che 
 
 <!--fig:start-->
 **Quesito 66**
-![[injso2014-Q_p20_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p20_f1.png]]
 <!--fig:end-->
 
 ISON è costituito da due sfere identiche ($m_1$, $m_2$) unite tra loro. Come visto dal sole, una sfera è esattamente dietro l'altra sfera. La massa totale è m e la distanza tra i centri di due sfere è r. La distanza di avvicinamento più vicino della cometa al sole, quando si è rotta, sia R. (Distanza di avvicinamento più vicino significa, la distanza tra la cometa e il sole, è più piccola).
@@ -2746,7 +2746,7 @@ M.S.K.1/> Confrontando la differenza di forze su ciascuna delle due metà, rispe
 **Topic:** [[Order-of-Magnitude Estimation]], [[Astrophysics]]
 **Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Sphere (object)|Sphere]], [[Star (object)|Star]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Sphere (object)|Sphere]], [[Star (object)|Star]]
 **Fonte:** [Testo (PDF) — p.20](https://drive.google.com/file/d/1o3qXLG3UcGu9-AG5c1aUUcaR4MZGB7ze/view)
 
 
@@ -2761,7 +2761,7 @@ The purpose of an air bag is to slow the passenger's forward movement into the s
 
 <!--fig:start-->
 **Quesito 67**
-![[injso2014-Q_p21_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p21_f1.png]]
 <!--fig:end-->
 
 A certain model of car is equipped with 65.0 liter air bag that inflates to 89.4 m/s in 40 milliseconds. The weight of air bag is 2.0 Kg and the thickness of fully inflated air bag is 30.0 cm.
@@ -2805,7 +2805,7 @@ Lo scopo di un airbag è quello di rallentare il movimento del passeggero verso 
 
 <!--fig:start-->
 **Quesito 67**
-![[injso2014-Q_p21_f1.png]]
+![[_attachments/injso2014-q/injso2014-q_p21_f1.png]]
 <!--fig:end-->
 
 Un certo modello di auto è dotato di un airbag da 65,0 litri che gonfia a 89,4 m/s in 40 millisecondi. Il peso della borsa ad aria è di 2,0 kg e lo spessore della borsa ad aria completamente gonfiata è di 30,0 cm.
@@ -2865,7 +2865,7 @@ Pradip lives in an apartment on $4^\text{th}$ floor of a 6 storey building in Mu
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.23](https://drive.google.com/file/d/1o3qXLG3UcGu9-AG5c1aUUcaR4MZGB7ze/view)
 
 
@@ -2886,5 +2886,5 @@ Pradip lives in an apartment on $4^\text{th}$ floor of a 6 storey building in Mu
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.23](https://drive.google.com/file/d/1o3qXLG3UcGu9-AG5c1aUUcaR4MZGB7ze/view)

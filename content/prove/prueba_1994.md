@@ -54,7 +54,7 @@ agua.
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Droplet (object)|Droplet]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[Droplet (object)|Droplet]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1DZYIqKwE6h8G6t-cTxo5I-14JtDiaiP0/view)
 
 
@@ -95,7 +95,7 @@ acqua.
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Droplet (object)|Droplet]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[Droplet (object)|Droplet]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1DZYIqKwE6h8G6t-cTxo5I-14JtDiaiP0/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -135,7 +135,7 @@ The maximum value of the product shall be: The atmospheric pressure is equivalen
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Droplet (object)|Droplet]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[Droplet (object)|Droplet]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1DZYIqKwE6h8G6t-cTxo5I-14JtDiaiP0/view)
 
 

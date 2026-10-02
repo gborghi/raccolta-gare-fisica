@@ -381,7 +381,7 @@ $M = 4.003$ g/mol
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QFVyqRlhfg1xzmFD6uyBsMwHGVsX_uA0/view)
 
 
@@ -472,7 +472,7 @@ $M = 4.003$ g/mol
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QFVyqRlhfg1xzmFD6uyBsMwHGVsX_uA0/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -562,7 +562,7 @@ $M = 4.003$ g/mol
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QFVyqRlhfg1xzmFD6uyBsMwHGVsX_uA0/view)
 
 

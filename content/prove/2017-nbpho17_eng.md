@@ -299,7 +299,7 @@ stopwatch, ruler, container with water.
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Spring (object)|Spring]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Ball (object)|Ball]], [[Spring (object)|Spring]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Tsq8RfQvzVaZml7jiODl5R9aPRcE8fjF/view)
 
 
@@ -321,7 +321,7 @@ orologio fermo, reggente, contenitore con acqua.
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Spring (object)|Spring]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Ball (object)|Ball]], [[Spring (object)|Spring]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Tsq8RfQvzVaZml7jiODl5R9aPRcE8fjF/view)
 
 
@@ -601,7 +601,7 @@ such a tower?
 **Topic:** [[Fluid Mechanics]], [[Rotational Dynamics]], [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Tsq8RfQvzVaZml7jiODl5R9aPRcE8fjF/view)
 
 
@@ -623,7 +623,7 @@ una torre del genere?
 **Topic:** [[Fluid Mechanics]], [[Rotational Dynamics]], [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Tsq8RfQvzVaZml7jiODl5R9aPRcE8fjF/view)
 
 

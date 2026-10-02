@@ -33,7 +33,7 @@ questo secchio è critica per il funzionamento del mortaio.
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Rigid Body Statics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Lever (object)|Lever]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Lever (object)|Lever]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1F3f4myCHph-4lx_7gXvL1EngSJO-qy0k/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1l1F1pwWlq0EIQdkI6-kzR8oMT8lzRr2p/view)
 
@@ -58,7 +58,7 @@ The following table shows the manufacturer's specifications for the product:
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Rigid Body Statics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Lever (object)|Lever]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Lever (object)|Lever]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1F3f4myCHph-4lx_7gXvL1EngSJO-qy0k/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1l1F1pwWlq0EIQdkI6-kzR8oMT8lzRr2p/view)
 
@@ -255,7 +255,7 @@ possono sostituire le curve con righe a zig zag se ciò semplica i calcoli.
 **Topic:** [[Rotational Dynamics]], [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Lever (object)|Lever]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Lever (object)|Lever]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1F3f4myCHph-4lx_7gXvL1EngSJO-qy0k/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1l1F1pwWlq0EIQdkI6-kzR8oMT8lzRr2p/view)
 
@@ -447,7 +447,7 @@ The following table shows the results of the study:
 **Topic:** [[Rotational Dynamics]], [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Lever (object)|Lever]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Lever (object)|Lever]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1F3f4myCHph-4lx_7gXvL1EngSJO-qy0k/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1l1F1pwWlq0EIQdkI6-kzR8oMT8lzRr2p/view)
 
@@ -516,7 +516,7 @@ d’acqua
 **Topic:** [[Oscillations & Waves]], [[Rotational Dynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Lever (object)|Lever]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Lever (object)|Lever]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1F3f4myCHph-4lx_7gXvL1EngSJO-qy0k/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1l1F1pwWlq0EIQdkI6-kzR8oMT8lzRr2p/view)
 
@@ -580,6 +580,6 @@ Because the rice mill doesn't work.
 **Topic:** [[Oscillations & Waves]], [[Rotational Dynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Lever (object)|Lever]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Lever (object)|Lever]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1F3f4myCHph-4lx_7gXvL1EngSJO-qy0k/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1l1F1pwWlq0EIQdkI6-kzR8oMT8lzRr2p/view)

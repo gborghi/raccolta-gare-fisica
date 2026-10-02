@@ -124,7 +124,7 @@ $$\omega =$$
 
 <!--fig:start-->
 **Quesito 2**
-![[INPHO2020-Questions-en_p3_f1.png]]
+![[_attachments/inpho2020-questions-en/inpho2020-questions-en_p3_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Electromagnetic Induction]]
@@ -143,7 +143,7 @@ $$\omega =$$
 
 <!--fig:start-->
 **Quesito 2**
-![[INPHO2020-Questions-en_p3_f1.png]]
+![[_attachments/inpho2020-questions-en/inpho2020-questions-en_p3_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Electromagnetic Induction]]
@@ -262,7 +262,7 @@ A sound source $S$ is performing uniform circular motion with time period $T$. I
 
 <!--fig:start-->
 **Quesito 4**
-![[INPHO2020-Questions-en_p5_f1.png]]
+![[_attachments/inpho2020-questions-en/inpho2020-questions-en_p5_f1.png]]
 <!--fig:end-->
 
 Take the speed of sound in the medium to be 330 m/s.
@@ -275,7 +275,7 @@ $$T =$$
 
 <!--fig:start-->
 **Quesito 4**
-![[INPHO2020-Questions-en_p5_f2.png]]
+![[_attachments/inpho2020-questions-en/inpho2020-questions-en_p5_f2.png]]
 <!--fig:end-->
 
 (c) [3] Obtain the frequency $f_0$ of the source.
@@ -300,7 +300,7 @@ Una fonte sonora $S$ esegue un movimento circolare uniforme con periodo di tempo
 
 <!--fig:start-->
 **Quesito 4**
-![[INPHO2020-Questions-en_p5_f1.png]]
+![[_attachments/inpho2020-questions-en/inpho2020-questions-en_p5_f1.png]]
 <!--fig:end-->
 
 Si deve prendere la velocità del suono nel mezzo a 330 m/s.
@@ -313,7 +313,7 @@ b) [6] La figura seguente mostra la traiettoria circolare della fonte $S$. Marca
 
 <!--fig:start-->
 **Quesito 4**
-![[INPHO2020-Questions-en_p5_f2.png]]
+![[_attachments/inpho2020-questions-en/inpho2020-questions-en_p5_f2.png]]
 <!--fig:end-->
 
 c) [3] Ottenere la frequenza $f_0$ della fonte.
@@ -343,7 +343,7 @@ $$D =$$
 
 <!--fig:start-->
 **Quesito 5**
-![[INPHO2020-Questions-en_p6_f1.png]]
+![[_attachments/inpho2020-questions-en/inpho2020-questions-en_p6_f1.png]]
 <!--fig:end-->
 
 A massless inextensible string of length $D$ lies with one end fixed, while the other is attached to one end of a uniform rod of length $L$. The system is initially at rest with the rod aligned along the $x$-axis and the string stretched to its natural length at an angle with the negative $y$-axis $\theta$ ($\cos\theta = 1/3$). At a certain instant, a bullet of the same mass $m$ as the rod and negligible dimensions is fired horizontally along the positive $y$-direction. The bullet hits the rod at its right end with velocity $v_o$ and gets lodged in it, the impact being nearly instantaneous. What is the tension ($T$) in the string immediately after the impact? Assume the string doesn't break.
@@ -353,7 +353,7 @@ $$T =$$
 **Topic:** [[Rotational Dynamics]], [[Conservation of Momentum]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Rod (object)|Rod]], [[Projectile (object)|Projectile]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Rod (object)|Rod]], [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1C17aUBtOJqIRy82I0ORppiPbViwxnBrX/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Mn0cPZjhhDlZRtfbfHxOpxFevcYDUPj_/view)
 
@@ -364,7 +364,7 @@ $$T =$$
 
 <!--fig:start-->
 **Quesito 5**
-![[INPHO2020-Questions-en_p6_f1.png]]
+![[_attachments/inpho2020-questions-en/inpho2020-questions-en_p6_f1.png]]
 <!--fig:end-->
 
 Una corda inestensibile senza massa di lunghezza $D$ si trova con una estremità fissa, mentre l'altra è attaccata ad una estremità di una canna uniforme di lunghezza $L$. Il sistema è inizialmente a riposo con la canna allineata lungo l'asse $x$ e la corda estesa alla sua lunghezza naturale in un angolo con l'asse $y$ $\theta$ negativo ($\cos\theta = 1/3$). In un certo istante, un proiettile di massa $m$ e dimensioni trascurabili della canna viene sparato orizzontalmente lungo la direzione $y$ positiva. Il proiettile colpisce la canna alla sua estremità destra con velocità $v_o$ e si allontana in essa, l'impatto è quasi istantaneo. Qual è la tensione ($T$) nella corda immediatamente dopo l'impatto? Supponiamo che la corda non si rompa.
@@ -374,6 +374,6 @@ $$T =$$
 **Topic:** [[Rotational Dynamics]], [[Conservation of Momentum]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Rod (object)|Rod]], [[Projectile (object)|Projectile]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Rod (object)|Rod]], [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1C17aUBtOJqIRy82I0ORppiPbViwxnBrX/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Mn0cPZjhhDlZRtfbfHxOpxFevcYDUPj_/view)

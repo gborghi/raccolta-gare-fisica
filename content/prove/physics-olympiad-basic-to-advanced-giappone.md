@@ -744,7 +744,7 @@ An Atwood machine consists of two masses $m_1$ and $m_2$ ($m_1 > m_2$) connected
 **Topic:** [[Rotational Dynamics]] [[Newtonian Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Disk (object)|Disk]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Disk (object)|Disk]]
 **Fonte:** [Testo (PDF) — p.88](https://drive.google.com/file/d/1j0sRhYUcwMA12L6LbZyLA4ICY-NlXN3w/view)
 
 
@@ -765,7 +765,7 @@ Una macchina Atwood è composta da due masse $m_1$ e $m_2$ ($m_1 > m_2$) collega
 **Topic:** [[Rotational Dynamics]] [[Newtonian Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Disk (object)|Disk]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Disk (object)|Disk]]
 **Fonte:** [Testo (PDF) — p.88](https://drive.google.com/file/d/1j0sRhYUcwMA12L6LbZyLA4ICY-NlXN3w/view)
 
 
@@ -905,7 +905,7 @@ A transverse sinusoidal wave on a string is described by $y(x,t) = A\sin(kx - \o
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.113](https://drive.google.com/file/d/1j0sRhYUcwMA12L6LbZyLA4ICY-NlXN3w/view)
 
 
@@ -930,7 +930,7 @@ Un'onda sinusoidale trasversale su una stringa è descritta da $y(x,t) = A\sin(k
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.113](https://drive.google.com/file/d/1j0sRhYUcwMA12L6LbZyLA4ICY-NlXN3w/view)
 
 
@@ -1576,7 +1576,7 @@ A thermos contains $m_1 = 200\,\text{g}$ of tea at $T_1 = 80°\text{C}$. You add
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.209](https://drive.google.com/file/d/1j0sRhYUcwMA12L6LbZyLA4ICY-NlXN3w/view)
 
 
@@ -1597,7 +1597,7 @@ Un termo contiene $m_1 = 200\,\text{g}$ di tè a $T_1 = 80°\text{C}$. Aggiungi 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.209](https://drive.google.com/file/d/1j0sRhYUcwMA12L6LbZyLA4ICY-NlXN3w/view)
 
 
@@ -1744,7 +1744,7 @@ Suppose $N$ gas molecules of mass $m$ are in a box of volume $V = LS$ (length $L
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.228](https://drive.google.com/file/d/1j0sRhYUcwMA12L6LbZyLA4ICY-NlXN3w/view)
 
 
@@ -1787,7 +1787,7 @@ Supponiamo che le molecole di gas $N$ di massa $m$ siano in una scatola di volum
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.228](https://drive.google.com/file/d/1j0sRhYUcwMA12L6LbZyLA4ICY-NlXN3w/view)
 
 

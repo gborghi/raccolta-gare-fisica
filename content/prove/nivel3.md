@@ -378,7 +378,7 @@ a pressão da câmara 1 é $P_1$, qual o valor da pressão na câmara 2 na situa
 **Topic:** [[Kinetic Theory]], [[Thermodynamics]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Statistical Averaging (metodo)|Statistical Averaging]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1VpgQVJPLWVcoaybh1yPvOweMPqe_aHRC/view)
 
 
@@ -395,7 +395,7 @@ la pressione della camera 1 è $P_1$, qual è il valore della pressione nella ca
 **Topic:** [[Kinetic Theory]], [[Thermodynamics]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Statistical Averaging (metodo)|Statistical Averaging]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1VpgQVJPLWVcoaybh1yPvOweMPqe_aHRC/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -411,7 +411,7 @@ the pressure of chamber 1 is $P_1$, what is the pressure value in chamber 2 in t
 **Topic:** [[Kinetic Theory]], [[Thermodynamics]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Statistical Averaging (metodo)|Statistical Averaging]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1VpgQVJPLWVcoaybh1yPvOweMPqe_aHRC/view)
 
 
@@ -434,7 +434,7 @@ líquido.
 **Topic:** [[Fluid Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1VpgQVJPLWVcoaybh1yPvOweMPqe_aHRC/view)
 
 
@@ -452,7 +452,7 @@ liquido.
 **Topic:** [[Fluid Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1VpgQVJPLWVcoaybh1yPvOweMPqe_aHRC/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -469,5 +469,5 @@ liquid.
 **Topic:** [[Fluid Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1VpgQVJPLWVcoaybh1yPvOweMPqe_aHRC/view)

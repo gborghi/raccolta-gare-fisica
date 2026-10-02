@@ -30,7 +30,7 @@ What can be said about the water level in the glasses directly?
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Bubble (object)|Bubble]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Bubble (object)|Bubble]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18pxJrkjWoou2ORJ0LP598wFRaaDU_1fE/view)
 
 
@@ -47,7 +47,7 @@ Cosa si può dire direttamente del livello dell'acqua nei bicchieri?
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Bubble (object)|Bubble]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Bubble (object)|Bubble]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18pxJrkjWoou2ORJ0LP598wFRaaDU_1fE/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -63,7 +63,7 @@ The water level in glass 3 has got down, the other glasses are unchanged.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Bubble (object)|Bubble]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Bubble (object)|Bubble]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18pxJrkjWoou2ORJ0LP598wFRaaDU_1fE/view)
 
 

@@ -21,7 +21,7 @@ The following graphs represent activities of different enzymes (A to D) at diffe
 
 <!--fig:start-->
 **Quesito 1**
-![[injso2015-Q_p1_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p1_f1.png]]
 <!--fig:end-->
 
 Observe the graphs carefully and infer which of the following options given below (most likely) represents correctly the combinations A, B, C and D.
@@ -46,7 +46,7 @@ I seguenti grafici rappresentano le attività di diversi enzimi (A a D) a temper
 
 <!--fig:start-->
 **Quesito 1**
-![[injso2015-Q_p1_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p1_f1.png]]
 <!--fig:end-->
 
 Osservare attentamente i grafici e dedurre quale delle seguenti opzioni di seguito (il più probabile) rappresenta correttamente le combinazioni A, B, C e D.
@@ -377,7 +377,7 @@ Air of density $\rho$, moving with velocity $v$ strikes normally on an inclined 
 
 <!--fig:start-->
 **Quesito 9**
-![[injso2015-Q_p4_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p4_f1.png]]
 <!--fig:end-->
 
 - (a) $\dfrac{\rho A v^2}{mg + \rho A v^2 \cos\theta}$
@@ -398,7 +398,7 @@ L'aria di densità $\rho$, che si muove con velocità $v$ colpisce normalmente u
 
 <!--fig:start-->
 **Quesito 9**
-![[injso2015-Q_p4_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p4_f1.png]]
 <!--fig:end-->
 
 - (a) $\dfrac{\rho A v^2}{mg + \rho A v^2 \cos\theta}$
@@ -516,7 +516,7 @@ He now repeats the experiment with the same gas in the same volume, but with dif
 
 <!--fig:start-->
 **Quesito 12**
-![[injso2015-Q_p5_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p5_f1.png]]
 <!--fig:end-->
 
 - (a) AB itself.
@@ -539,7 +539,7 @@ Ora ripete l'esperimento con lo stesso gas, nello stesso volume, ma con una mass
 
 <!--fig:start-->
 **Quesito 12**
-![[injso2015-Q_p5_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p5_f1.png]]
 <!--fig:end-->
 
 - a) AB stessa.
@@ -639,7 +639,7 @@ A mass hanging with a spring suspended from a ceiling is pulled down and release
 
 <!--fig:start-->
 **Quesito 15**
-![[injso2015-Q_p6_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p6_f1.png]]
 <!--fig:end-->
 
 - (a) The amplitude of oscillations is 70 cm.
@@ -660,7 +660,7 @@ Una massa appesa con una molla sospesa dal soffitto viene abbassata e rilasciata
 
 <!--fig:start-->
 **Quesito 15**
-![[injso2015-Q_p6_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p6_f1.png]]
 <!--fig:end-->
 
 - a) L'ampiezza delle oscillazioni è di 70 cm.
@@ -686,7 +686,7 @@ The following question refers to energy transfer between trophic levels in an ec
 
 <!--fig:start-->
 **Quesito 16**
-![[injso2015-Q_p7_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p7_f1.png]]
 <!--fig:end-->
 
 What percentage of the energy in the caterpillar's food is actually used for secondary production?
@@ -709,7 +709,7 @@ La domanda seguente si riferisce al trasferimento di energia tra livelli trofici
 
 <!--fig:start-->
 **Quesito 16**
-![[injso2015-Q_p7_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p7_f1.png]]
 <!--fig:end-->
 
 Quanti percentuali dell'energia contenuta nel cibo della pipistrella vengono effettivamente utilizzate per la produzione secondaria?
@@ -737,7 +737,7 @@ Figure given below shows a small boat, containing some iron balls, floating on a
 
 <!--fig:start-->
 **Quesito 17**
-![[injso2015-Q_p7_f2.png]]
+![[_attachments/injso2015-q/injso2015-q_p7_f2.png]]
 <!--fig:end-->
 
 - (a) Level of the lake will fall, with ground reference.
@@ -758,7 +758,7 @@ La figura che segue mostra una piccola barca, contenente alcune palle di ferro, 
 
 <!--fig:start-->
 **Quesito 17**
-![[injso2015-Q_p7_f2.png]]
+![[_attachments/injso2015-q/injso2015-q_p7_f2.png]]
 <!--fig:end-->
 
 - a) Il livello del lago diminuirà, con riferimento al suolo.
@@ -940,7 +940,7 @@ There exists a uniform magnetic field perpendicular and inwards to the plane of 
 
 <!--fig:start-->
 **Quesito 22**
-![[injso2015-Q_p9_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p9_f1.png]]
 <!--fig:end-->
 
 i) Clockwise current will be set up in the loop, in the situation of figure 1.
@@ -966,7 +966,7 @@ Esiste un campo magnetico uniforme perpendicolare e verso l'interno del piano de
 
 <!--fig:start-->
 **Quesito 22**
-![[injso2015-Q_p9_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p9_f1.png]]
 <!--fig:end-->
 
 i) La corrente in senso orario sarà impostata nel ciclo, nella situazione della figura 1.
@@ -1075,7 +1075,7 @@ Study the following ray diagram in which: 'A' represents atmosphere, 'B' represe
 
 <!--fig:start-->
 **Quesito 25**
-![[injso2015-Q_p10_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p10_f1.png]]
 <!--fig:end-->
 
 The above ray diagram represents
@@ -1098,7 +1098,7 @@ Studiare il seguente diagramma di raggi in cui: "A" rappresenta l'atmosfera, "B"
 
 <!--fig:start-->
 **Quesito 25**
-![[injso2015-Q_p10_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p10_f1.png]]
 <!--fig:end-->
 
 Il diagramma di raggi di cui sopra rappresenta
@@ -1163,7 +1163,7 @@ Three filament bulbs made from a metal of low thermal coefficient of resistivity
 
 <!--fig:start-->
 **Quesito 27**
-![[injso2015-Q_p11_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p11_f1.png]]
 <!--fig:end-->
 
 - (a) P,Q
@@ -1184,7 +1184,7 @@ Tre lampadine a filamento realizzate in metallo con un basso coefficiente di res
 
 <!--fig:start-->
 **Quesito 27**
-![[injso2015-Q_p11_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p11_f1.png]]
 <!--fig:end-->
 
 - (a) P,Q
@@ -1261,7 +1261,7 @@ An equiconvex lens of focal length f is cut into two equal halves which are past
 
 <!--fig:start-->
 **Quesito 29**
-![[injso2015-Q_p12_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p12_f1.png]]
 <!--fig:end-->
 
 - (a) $f$
@@ -1282,7 +1282,7 @@ Un obiettivo equiconvex di distanza focale f viene tagliato in due metà uguali 
 
 <!--fig:start-->
 **Quesito 29**
-![[injso2015-Q_p12_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p12_f1.png]]
 <!--fig:end-->
 
 - (a) $f$
@@ -1349,7 +1349,7 @@ The unicellular yeast *Saccharomyces cerevisiae* divides by budding off a small 
 
 <!--fig:start-->
 **Quesito 31**
-![[injso2015-Q_p13_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p13_f1.png]]
 <!--fig:end-->
 
 (i) Based on the above figure calculate the volume of the mature parent cell and the budding yeast cell. For calculations the shape of each cell can be considered to be a sphere. ($V = 4/3\ \pi r^3$). Answers to be rounded off to whole numbers. **[1 mark]**
@@ -1383,7 +1383,7 @@ Il lievito unicellulare *Saccharomyces cerevisiae* si divide spuntando una picco
 
 <!--fig:start-->
 **Quesito 31**
-![[injso2015-Q_p13_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p13_f1.png]]
 <!--fig:end-->
 
 - basandosi sulla figura di cui sopra, calcolare il volume della cellula madre matura e della cellula di lievito in fiore. Per i calcoli la forma di ciascuna cella può essere considerata una sfera. ($V = 4/3\ \pi r^3$). Risposte da arrotondare a numeri interi. **[1 segno]**
@@ -1418,7 +1418,7 @@ d) Tra le cellule intestinali e mesofilli, le cellule ____________ (**intestinal
 
 <!--fig:start-->
 **Quesito 32**
-![[injso2015-Q_p14_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p14_f1.png]]
 <!--fig:end-->
 
 (b) When 5 V are applied across the terminals of a galvanometer, 100 mA current passes through its coil and the galvanometer shows full scale deflection. With suitable modification, it can be used to measure p.d. or currents with certain sensitivities.
@@ -1438,7 +1438,7 @@ A) 12 fili identici sono collegati nel piano, come mostrato nella figura. I fili
 
 <!--fig:start-->
 **Quesito 32**
-![[injso2015-Q_p14_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p14_f1.png]]
 <!--fig:end-->
 
 b) Quando si applicano 5 V attraverso i terminali di un galvanometro, una corrente di 100 mA passa attraverso la sua bobina e il galvanometro mostra una deviazione a scala completa. Con una modifica appropriata, può essere utilizzata per misurare la p.d. o correnti con certe sensibilità.
@@ -1506,7 +1506,7 @@ iii. Dall'espressione ottenuta al punto ii) deriva un'espressione per il pH dell
 
 <!--fig:start-->
 **Quesito 34**
-![[injso2015-Q_p15_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p15_f1.png]]
 <!--fig:end-->
 
   a) Name the producers:
@@ -1529,7 +1529,7 @@ The **understory** layer lies between the canopy and the forest floor. The plant
 
 <!--fig:start-->
 **Quesito 34**
-![[injso2015-Q_p16_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p16_f1.png]]
 <!--fig:end-->
 
   Which curve shows the photosynthesis rate of a leaf of a plant that is growing in the understory? ____________ **[1Mark]**
@@ -1553,7 +1553,7 @@ The **understory** layer lies between the canopy and the forest floor. The plant
 
 <!--fig:start-->
 **Quesito 34**
-![[injso2015-Q_p15_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p15_f1.png]]
 <!--fig:end-->
 
 a) Indicare i produttori:
@@ -1576,7 +1576,7 @@ a) È stato condotto uno studio per scoprire le differenze fisiologiche tra gli 
 
 <!--fig:start-->
 **Quesito 34**
-![[injso2015-Q_p16_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p16_f1.png]]
 <!--fig:end-->
 
 Quale curva mostra il tasso di fotosintesi di una foglia di pianta che cresce nel sottosortimento? ____________ **[1Mark]**
@@ -1606,7 +1606,7 @@ Bi) In media, il tasso di fotosintesi è più elevato per la curva A rispetto al
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Snell's Law (metodo)|Snell's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Lens (object)|Lens]], [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Lens (object)|Lens]], [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1AITi6iecw3iLR1b_RZ1v4JAHdOJSKyQE/view)
 
 
@@ -1619,7 +1619,7 @@ b) L'immagine più nitida del sole realizzata da una lente convergente con una l
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Snell's Law (metodo)|Snell's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Lens (object)|Lens]], [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Lens (object)|Lens]], [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1AITi6iecw3iLR1b_RZ1v4JAHdOJSKyQE/view)
 
 
@@ -1747,7 +1747,7 @@ Risposta ____________ **[0,5 punto]**
 **Topic:** [[Magnetism]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Magnet (object)|Magnet]], [[Rope/String (object)|Rope/String]], [[Sphere (object)|Sphere]]
+**Objects:** [[Magnet (object)|Magnet]], [[objects/rope-string-(object)|Rope/String]], [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/1AITi6iecw3iLR1b_RZ1v4JAHdOJSKyQE/view)
 
 
@@ -1760,7 +1760,7 @@ b) Un pacchetto di cibo di massa di 20 kg viene scaricato da un elicottero in ri
 **Topic:** [[Magnetism]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Magnet (object)|Magnet]], [[Rope/String (object)|Rope/String]], [[Sphere (object)|Sphere]]
+**Objects:** [[Magnet (object)|Magnet]], [[objects/rope-string-(object)|Rope/String]], [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/1AITi6iecw3iLR1b_RZ1v4JAHdOJSKyQE/view)
 
 
@@ -1881,7 +1881,7 @@ d) L'RNA è instabile all'interno della succhia cellulare
 
 <!--fig:start-->
 **Quesito 41**
-![[injso2015-Q_p21_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p21_f1.png]]
 <!--fig:end-->
 
 (b) Masses of 300 g and 500 g are hung at the opposite ends of a light inextensible string. The string passes over a smooth frictionless peg. The system is released from rest. Calculate the loss in gravitational potential energy of the system when the 300 g mass has ascended by 1 m. At this instant, the other mass is suddenly reduced by 400 g. How much further will the 300 g mass ascend? Neglect air resistance. **[2 marks]**
@@ -1889,7 +1889,7 @@ d) L'RNA è instabile all'interno della succhia cellulare
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Ball (object)|Ball]], [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.21](https://drive.google.com/file/d/1AITi6iecw3iLR1b_RZ1v4JAHdOJSKyQE/view)
 
 
@@ -1899,7 +1899,7 @@ d) L'RNA è instabile all'interno della succhia cellulare
 
 <!--fig:start-->
 **Quesito 41**
-![[injso2015-Q_p21_f1.png]]
+![[_attachments/injso2015-q/injso2015-q_p21_f1.png]]
 <!--fig:end-->
 
 b) Masse di 300 g e 500 g sono appese alle estremità opposte di una corda poco estensibile. La corda passa su una collana liscia senza attrito. Il sistema è rilasciato dal riposo. Calcolare la perdita di energia potenziale gravitazionale del sistema quando la massa di 300 g è aumentata di 1 m. In questo istante, l'altra massa viene improvvisamente ridotta di 400 g. Quanto più avanti la massa di 300 g aumenterà? - Non si tratta di resistenza all'aria. ** [2 punti] **
@@ -1907,7 +1907,7 @@ b) Masse di 300 g e 500 g sono appese alle estremità opposte di una corda poco 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Ball (object)|Ball]], [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.21](https://drive.google.com/file/d/1AITi6iecw3iLR1b_RZ1v4JAHdOJSKyQE/view)
 
 

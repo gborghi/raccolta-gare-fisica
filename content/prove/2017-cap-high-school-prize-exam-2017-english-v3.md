@@ -664,7 +664,7 @@ e) $3g$
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1qXJs_-4rGGKCoQZV8F7BCBOHVAR1GbMV/view)
 
 
@@ -685,7 +685,7 @@ e) $3g$
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1qXJs_-4rGGKCoQZV8F7BCBOHVAR1GbMV/view)
 
 
@@ -976,7 +976,7 @@ c) $T' < T$
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1qXJs_-4rGGKCoQZV8F7BCBOHVAR1GbMV/view)
 
 
@@ -993,7 +993,7 @@ c) $T' < T$
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1qXJs_-4rGGKCoQZV8F7BCBOHVAR1GbMV/view)
 
 
@@ -1169,7 +1169,7 @@ c) Estimate how long it would take for one ball to completely absorb the other.
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Bubble (object)|Bubble]], [[Droplet (object)|Droplet]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Bubble (object)|Bubble]], [[Droplet (object)|Droplet]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1qXJs_-4rGGKCoQZV8F7BCBOHVAR1GbMV/view)
 
 
@@ -1188,5 +1188,5 @@ c) Calcolare quanto tempo ci vorrebbe per una palla per assorbire completamente 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Bubble (object)|Bubble]], [[Droplet (object)|Droplet]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Bubble (object)|Bubble]], [[Droplet (object)|Droplet]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1qXJs_-4rGGKCoQZV8F7BCBOHVAR1GbMV/view)

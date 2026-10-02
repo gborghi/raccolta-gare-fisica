@@ -93,7 +93,7 @@ calcule la velocidad (en cm/s) del flujo de aire en el conducto.
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Gas (object)|Gas]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1SFr3vYpYyMtKTUuqk0A6etAaOzDvzN-1/view)
 
 
@@ -173,7 +173,7 @@ Calcolare la velocità (in cm/s) del flusso d'aria nel conducto.
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Gas (object)|Gas]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1SFr3vYpYyMtKTUuqk0A6etAaOzDvzN-1/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -252,7 +252,7 @@ calculate the velocity (in cm/s) of the air flow in the duct.
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Gas (object)|Gas]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1SFr3vYpYyMtKTUuqk0A6etAaOzDvzN-1/view)
 
 
@@ -1252,7 +1252,7 @@ eléctrico, a una tensión (r.m.s.) de 220 V.
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Circuits]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Gas (object)|Gas]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1SFr3vYpYyMtKTUuqk0A6etAaOzDvzN-1/view)
 
 
@@ -1360,7 +1360,7 @@ di una velocità di velocità di un po' di più di 100 V,
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Circuits]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Gas (object)|Gas]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1SFr3vYpYyMtKTUuqk0A6etAaOzDvzN-1/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1467,7 +1467,7 @@ Electrical, at a voltage (r.m.s.) of 220 V.
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Circuits]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Gas (object)|Gas]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1SFr3vYpYyMtKTUuqk0A6etAaOzDvzN-1/view)
 
 

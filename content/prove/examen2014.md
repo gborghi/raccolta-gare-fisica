@@ -36,7 +36,7 @@ Una nave spaziale è lanciata dalla superficie della Terra in direzione della Lu
 **Topic:** [[Newtonian Mechanics]], [[Gravitation]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1OmT-259axnKPLdxkcjX0M0YxtMHUIdk-/view)
 
 
@@ -59,7 +59,7 @@ Una nave spaziale è lanciata dalla superficie della Terra in direzione della Lu
 **Topic:** [[Newtonian Mechanics]], [[Gravitation]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1OmT-259axnKPLdxkcjX0M0YxtMHUIdk-/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -81,7 +81,7 @@ A spacecraft is launched from the surface of the Earth in the direction of the M
 **Topic:** [[Newtonian Mechanics]], [[Gravitation]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1OmT-259axnKPLdxkcjX0M0YxtMHUIdk-/view)
 
 
@@ -175,7 +175,7 @@ $$y(x,t) = 0{,}02\cos(100\pi - 5x)\quad (\text{S.I.})$$
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1OmT-259axnKPLdxkcjX0M0YxtMHUIdk-/view)
 
 
@@ -197,7 +197,7 @@ $$y(x,t) = 0{,}02\cos(100\pi - 5x)\quad (\text{S.I.})$$
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1OmT-259axnKPLdxkcjX0M0YxtMHUIdk-/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -218,5 +218,5 @@ $$y(x,t) = 0{,}02\cos(100\pi - 5x)\quad (\text{S.I.})$$
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1OmT-259axnKPLdxkcjX0M0YxtMHUIdk-/view)

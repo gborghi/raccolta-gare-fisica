@@ -459,7 +459,7 @@ Per la circolazione sistemica, il flusso totale vale $D = 100$ cm$^3$ s$^{-1}$ p
 **Topic:** [[Fluid Mechanics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Physical Modeling (metodo)|Physical Modeling]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1wWTEH9nGvCM7ye_SeNbYjDx3_PFqFlZn/view)
 
 
@@ -480,7 +480,7 @@ How many capillaries are there in the human body?
 **Topic:** [[Fluid Mechanics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Physical Modeling (metodo)|Physical Modeling]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1wWTEH9nGvCM7ye_SeNbYjDx3_PFqFlZn/view)
 
 
@@ -500,7 +500,7 @@ Stesse condizioni del problema 3.12 (capillari in parallelo, $r = 4\,\mu$m, $L =
 **Topic:** [[Fluid Mechanics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1wWTEH9nGvCM7ye_SeNbYjDx3_PFqFlZn/view)
 
 
@@ -515,7 +515,7 @@ The same conditions as in problem 3.12 (parallel capillaries, $r = 4\,\mu$m, $L 
 **Topic:** [[Fluid Mechanics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1wWTEH9nGvCM7ye_SeNbYjDx3_PFqFlZn/view)
 
 

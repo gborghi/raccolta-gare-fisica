@@ -67,7 +67,7 @@ f) Teniendo en cuenta lo anterior, haz una estimación de la incertidumbre $\Del
 **Topic:** [[Conservation of Momentum]], [[Conservation of Energy]], [[Oscillations & Waves]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Hooke's Law (metodo)|Hooke's Law]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Block (object)|Block]], [[Ball (object)|Ball]], [[Spring (object)|Spring]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[Block (object)|Block]], [[Ball (object)|Ball]], [[Spring (object)|Spring]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1LXB5l0NMIUNB9f-SXdKkUDF3Tp7eDLTs/view)
 
 
@@ -121,7 +121,7 @@ f) Considerando quanto sopra, si deve calcolare l'incertezza $\Delta K$ nel valo
 **Topic:** [[Conservation of Momentum]], [[Conservation of Energy]], [[Oscillations & Waves]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Hooke's Law (metodo)|Hooke's Law]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Block (object)|Block]], [[Ball (object)|Ball]], [[Spring (object)|Spring]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[Block (object)|Block]], [[Ball (object)|Ball]], [[Spring (object)|Spring]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1LXB5l0NMIUNB9f-SXdKkUDF3Tp7eDLTs/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -174,5 +174,5 @@ where $A$ is a constant that depends on $m$, $M$, $K$ and $g$.
 **Topic:** [[Conservation of Momentum]], [[Conservation of Energy]], [[Oscillations & Waves]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Hooke's Law (metodo)|Hooke's Law]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Block (object)|Block]], [[Ball (object)|Ball]], [[Spring (object)|Spring]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[Block (object)|Block]], [[Ball (object)|Ball]], [[Spring (object)|Spring]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1LXB5l0NMIUNB9f-SXdKkUDF3Tp7eDLTs/view)

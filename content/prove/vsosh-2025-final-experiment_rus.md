@@ -186,7 +186,7 @@ $$\left(\frac{L-s}{H}\right)^2 - 1 = 2\mu \cdot \frac{s}{H}$$
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Graph Linearization (metodo)|Graph Linearization]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1HBeIkDOcbE22XejgCjP3kR5mfI_fQoJo/view)
 
 
@@ -221,7 +221,7 @@ $$\left(\frac{L-s}{H}\right)^2 - 1 = 2\mu \cdot \frac{s}{H}$$
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Graph Linearization (metodo)|Graph Linearization]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1HBeIkDOcbE22XejgCjP3kR5mfI_fQoJo/view)
 
 

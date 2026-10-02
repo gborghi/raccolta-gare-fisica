@@ -207,7 +207,7 @@ way, to the inside of the aquarium wall. (6 pts.)
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Lens (object)|Lens]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Lens (object)|Lens]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1f1l9Og9w9vNzQsgcRFzp6ugbCWdalLnn/view)
 
 
@@ -229,7 +229,7 @@ Come, all'interno del muro dell'acquario. (6 punti)
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Lens (object)|Lens]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Lens (object)|Lens]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1f1l9Og9w9vNzQsgcRFzp6ugbCWdalLnn/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -250,7 +250,7 @@ way, to the inside of the aquarium wall. (Page 66)
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Lens (object)|Lens]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Lens (object)|Lens]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1f1l9Og9w9vNzQsgcRFzp6ugbCWdalLnn/view)
 
 
@@ -291,7 +291,7 @@ $-18{,}0\ ^\circ\text{C}$. (5 pts.)
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Heat Engine (object)|Heat Engine]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Heat Engine (object)|Heat Engine]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1f1l9Og9w9vNzQsgcRFzp6ugbCWdalLnn/view)
 
 
@@ -327,7 +327,7 @@ $-18{,}0\ ^\circ\text{C}$. (cfr.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Heat Engine (object)|Heat Engine]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Heat Engine (object)|Heat Engine]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1f1l9Og9w9vNzQsgcRFzp6ugbCWdalLnn/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -362,7 +362,7 @@ $-18{,}0\ ^\circ\text{C}$. (five points)
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Heat Engine (object)|Heat Engine]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Heat Engine (object)|Heat Engine]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1f1l9Og9w9vNzQsgcRFzp6ugbCWdalLnn/view)
 
 
@@ -423,7 +423,7 @@ they are easy to follow.
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Bubble (object)|Bubble]], [[Pipe/Tube (object)|Pipe/Tube]], [[Rope/String (object)|Rope/String]], [[Wire (object)|Wire]]
+**Objects:** [[Bubble (object)|Bubble]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[objects/rope-string-(object)|Rope/String]], [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1f1l9Og9w9vNzQsgcRFzp6ugbCWdalLnn/view)
 
 
@@ -479,7 +479,7 @@ sono facili da seguire.
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Bubble (object)|Bubble]], [[Pipe/Tube (object)|Pipe/Tube]], [[Rope/String (object)|Rope/String]], [[Wire (object)|Wire]]
+**Objects:** [[Bubble (object)|Bubble]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[objects/rope-string-(object)|Rope/String]], [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1f1l9Og9w9vNzQsgcRFzp6ugbCWdalLnn/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -534,5 +534,5 @@ They're easy to follow.
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Bubble (object)|Bubble]], [[Pipe/Tube (object)|Pipe/Tube]], [[Rope/String (object)|Rope/String]], [[Wire (object)|Wire]]
+**Objects:** [[Bubble (object)|Bubble]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[objects/rope-string-(object)|Rope/String]], [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1f1l9Og9w9vNzQsgcRFzp6ugbCWdalLnn/view)

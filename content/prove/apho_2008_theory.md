@@ -42,7 +42,7 @@ $$ F_d = 6\pi\eta_w R_b v_{slow} $$
 In contrast to this picture, when relatively large bubbles lift to the surface, it disturbs the surrounding water; cavitation hollows appear behind and the turbulent flow is observed (see Fig.1). In this case a part of the kinetic energy of an uprising bubble transfers into the dissipative work.
 
 <!--fig:start-->
-![[APhO_2008_theory_Q1_p2_f1.png]]
+![[prove/_attachments/apho_2008_theory/apho_2008_theory_q1_p2_f1.png]]
 *Fig. 1. Laminar and turbulent types of flow for rising air bubbles in water.*
 <!--fig:end-->
 
@@ -66,17 +66,17 @@ where $\sigma$ is the surface tension coefficient (unit = N/m), the force coming
 - H = 10 cm — Water attitude in teakettle.
 
 <!--fig:start-->
-![[APhO_2008_theory_Q1_p3_f2.png]]
+![[prove/_attachments/apho_2008_theory/apho_2008_theory_q1_p3_f2.png]]
 *Fig. 2. Bubbles in teakettle.*
 <!--fig:end-->
 
 <!--fig:start-->
-![[APhO_2008_theory_Q1_p3_f3.png]]
+![[prove/_attachments/apho_2008_theory/apho_2008_theory_q1_p3_f3.png]]
 *Fig. 3. Air bubble detaching from the bottom.*
 <!--fig:end-->
 
 <!--fig:start-->
-![[APhO_2008_theory_Q1_p3_f4.png]]
+![[prove/_attachments/apho_2008_theory/apho_2008_theory_q1_p3_f4.png]]
 *Fig. 4. Vapor bubble collapsing.*
 <!--fig:end-->
 
@@ -107,7 +107,7 @@ Consider water boiling in a flat-bottomed cylinder glass teakettle at normal atm
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Bubble (object)|Bubble]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Bubble (object)|Bubble]], [[objects/tank-container-(object)|Tank/Container]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -137,7 +137,7 @@ $$ F_d = 6\pi\eta_w R_b v_{slow} $$
 In contrasto con questa immagine, quando le bolle relativamente grandi si alzano alla superficie, disturbano l'acqua circostante; dietro si trovano buche di cavitazione e si osserva il flusso turbolento (vedi Figura 1). In questo caso una parte dell'energia cinetica di una bolla di sollevamento si trasferisce nel lavoro di dissipazione.
 
 <!--fig:start-->
-![[APhO_2008_theory_Q1_p2_f1.png]]
+![[prove/_attachments/apho_2008_theory/apho_2008_theory_q1_p2_f1.png]]
 *Fig. 1. Tipo di flusso laminare e turbolento per le bolle d'aria in aumento nell'acqua.*
 <!--fig:end-->
 
@@ -161,17 +161,17 @@ se $\sigma$ è il coefficiente di tensione superficiale (unità = N/m), la forza
 - H = 10 cm  Atteggiamento dell'acqua in teakettle.
 
 <!--fig:start-->
-![[APhO_2008_theory_Q1_p3_f2.png]]
+![[prove/_attachments/apho_2008_theory/apho_2008_theory_q1_p3_f2.png]]
 *Fig. 2. Bolle in teacettle.*
 <!--fig:end-->
 
 <!--fig:start-->
-![[APhO_2008_theory_Q1_p3_f3.png]]
+![[prove/_attachments/apho_2008_theory/apho_2008_theory_q1_p3_f3.png]]
 *Fig. 3. Bubble d'aria che si stacca dal fondo.*
 <!--fig:end-->
 
 <!--fig:start-->
-![[APhO_2008_theory_Q1_p3_f4.png]]
+![[prove/_attachments/apho_2008_theory/apho_2008_theory_q1_p3_f4.png]]
 *Fig. 4. La bolla di vapore si sta crollando.
 <!--fig:end-->
 
@@ -202,7 +202,7 @@ Considera l'acqua che bolle in una cella di vetro a cilindro a fondo piatto a pr
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Bubble (object)|Bubble]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Bubble (object)|Bubble]], [[objects/tank-container-(object)|Tank/Container]]
 
 
 
@@ -217,7 +217,7 @@ Considera l'acqua che bolle in una cella di vetro a cilindro a fondo piatto a pr
 Atoms of many chemical elements possess very low ionization energy and easily lose the outer electrons. Vice versa, atoms of other elements accept easily the electrons. Taken into one volume, these positive and negative ions can combine into stable ionic structures. Many solids exhibit a crystal structure, in which the atoms are arranged in extremely regular, periodic patterns. In an ideal crystal the same basic structural unit is repeated through the space.
 
 <!--fig:start-->
-![[APhO_2008_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2008_theory/apho_2008_theory_q2_p1_f1.png]]
 *Fig.1 — The face-centered cubic lattice of the sodium chloride (NaCl). The lattice spacing between the atomar centres is constant and is given by parameter $r_0$.*
 <!--fig:end-->
 
@@ -280,7 +280,7 @@ Experimental data for the lattice constant $r_0$ and the dissociation energy $E_
 Gli atomi di molti elementi chimici hanno una energia di ionizzazione molto bassa e perdono facilmente gli elettroni esterni. Al contrario, gli atomi di altri elementi accettano facilmente gli elettroni. Presi in un unico volume, questi ioni positivi e negativi possono combinarsi in strutture ioniche stabili. Molti solidi presentano una struttura cristallina, in cui gli atomi sono disposti in schemi periodici estremamente regolari. In un cristallo ideale la stessa unità strutturale di base si ripete attraverso lo spazio.
 
 <!--fig:start-->
-![[APhO_2008_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2008_theory/apho_2008_theory_q2_p1_f1.png]]
 *Fig.1  La rete cubica centrata sul viso del cloruro di sodio (NaCl). L'intervallo della rete tra i centri atomici è costante ed è dato dal parametro $r_0$.*
 <!--fig:end-->
 
@@ -362,7 +362,7 @@ An observer $M$ is located at the distance $d$ from $x$-axis.
 We choose the point nearest to the observer as the point $O$, the origin on the $x$-axis. The time when the particle actually passes over the point $x = 0$ is taken to be $t = 0$.
 
 <!--fig:start-->
-![[APhO_2008_theory_Q3_p1_f1.png]]
+![[prove/_attachments/apho_2008_theory/apho_2008_theory_q3_p1_f1.png]]
 *Figure 1*
 <!--fig:end-->
 
@@ -391,7 +391,7 @@ Consider a linear object, radiating light and moving along the $x$-axis. The len
 In this section, we assume that the radiating linear object moves longitudinally along $x$-axis as shown in Fig.2.
 
 <!--fig:start-->
-![[APhO_2008_theory_Q3_p2_f2.png]]
+![[prove/_attachments/apho_2008_theory/apho_2008_theory_q3_p2_f2.png]]
 *Figure 2*
 <!--fig:end-->
 
@@ -404,7 +404,7 @@ In this section, we assume that the radiating linear object moves longitudinally
 In this section, we assume that the radiating linear object moves perpendicularly along $x$-axis as shown in Fig.3. Let the observer be located at the origin of $x$-axis ($d = 0$). The object is symmetrical with respect to $x$-axis.
 
 <!--fig:start-->
-![[APhO_2008_theory_Q3_p3_f3.png]]
+![[prove/_attachments/apho_2008_theory/apho_2008_theory_q3_p3_f3.png]]
 *Figure 3*
 <!--fig:end-->
 
@@ -445,7 +445,7 @@ Un osservatore $M$ si trova alla distanza $d$ dall'asse $x$.
 Scegliamo il punto più vicino all'osservatore come punto $O$, l'origine sull'asse $x$. Il tempo in cui la particella effettivamente passa sopra il punto $x = 0$ è considerato $t = 0$.
 
 <!--fig:start-->
-![[APhO_2008_theory_Q3_p1_f1.png]]
+![[prove/_attachments/apho_2008_theory/apho_2008_theory_q3_p1_f1.png]]
 *Figura 1*
 <!--fig:end-->
 
@@ -474,7 +474,7 @@ Considera un oggetto lineare che irradia luce e si muove lungo l'asse $x$. La lu
 In questa sezione, supponiamo che l'oggetto lineare radiante si muova longitudinalmente lungo l'asse $x$ come mostrato nella figura 2.
 
 <!--fig:start-->
-![[APhO_2008_theory_Q3_p2_f2.png]]
+![[prove/_attachments/apho_2008_theory/apho_2008_theory_q3_p2_f2.png]]
 *Figura 2*
 <!--fig:end-->
 
@@ -487,7 +487,7 @@ In questa sezione, supponiamo che l'oggetto lineare radiante si muova longitudin
 In questa sezione, supponiamo che l'oggetto lineare radiante si muova perpendicolare lungo l'asse $x$ come mostrato in Figura 3. L'osservatore deve essere situato all'origine dell'asse $x$ ($d = 0$). L'oggetto è simmetrico rispetto all'asse $x$.
 
 <!--fig:start-->
-![[APhO_2008_theory_Q3_p3_f3.png]]
+![[prove/_attachments/apho_2008_theory/apho_2008_theory_q3_p3_f3.png]]
 *Figura 3*
 <!--fig:end-->
 

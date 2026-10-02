@@ -221,7 +221,7 @@ Unità di misura: m/s. Precisione richiesta: 0.5%.
 **Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1YFo3zjTcG_1JPmPho0fhzZwb0ygHOUPe/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1wW5LP6EjZzJ-dXfud4IbaXet5GR-fGyR/view)
 
@@ -237,7 +237,7 @@ The following shall be added: Precision required: 0.5%.
 **Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1YFo3zjTcG_1JPmPho0fhzZwb0ygHOUPe/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1wW5LP6EjZzJ-dXfud4IbaXet5GR-fGyR/view)
 

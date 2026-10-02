@@ -36,7 +36,7 @@ tags:
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]], [[Cart (object)|Cart]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]], [[Cart (object)|Cart]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1AoVAkbRy_N_wWjfgOmmF_r4MVVHRHiPx/view)
 
 
@@ -59,7 +59,7 @@ tags:
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]], [[Cart (object)|Cart]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]], [[Cart (object)|Cart]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1AoVAkbRy_N_wWjfgOmmF_r4MVVHRHiPx/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -81,7 +81,7 @@ tags:
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]], [[Cart (object)|Cart]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]], [[Cart (object)|Cart]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1AoVAkbRy_N_wWjfgOmmF_r4MVVHRHiPx/view)
 
 
@@ -117,7 +117,7 @@ tags:
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Projectile (object)|Projectile]], [[Block (object)|Block]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Projectile (object)|Projectile]], [[Block (object)|Block]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1AoVAkbRy_N_wWjfgOmmF_r4MVVHRHiPx/view)
 
 
@@ -148,7 +148,7 @@ All'estrem di un tubo flessibile se si mette un dispositivo che modifica la supe
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Projectile (object)|Projectile]], [[Block (object)|Block]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Projectile (object)|Projectile]], [[Block (object)|Block]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1AoVAkbRy_N_wWjfgOmmF_r4MVVHRHiPx/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -178,7 +178,7 @@ All'estrem di un tubo flessibile se si mette un dispositivo che modifica la supe
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Projectile (object)|Projectile]], [[Block (object)|Block]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Projectile (object)|Projectile]], [[Block (object)|Block]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1AoVAkbRy_N_wWjfgOmmF_r4MVVHRHiPx/view)
 
 

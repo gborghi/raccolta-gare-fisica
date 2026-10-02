@@ -149,7 +149,7 @@ dell’autoinduzione per quanto, in realtà, non siano piccoli.
 **Topic:** [[Thermodynamics]], [[Electrostatics]], [[Electromagnetic Induction]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Radioactive Decay Law (metodo)|Radioactive Decay Law]], [[Gauss's Law (metodo)|Gauss's Law]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Heat Engine (object)|Heat Engine]], [[Nucleus (object)|Nucleus]], [[Sphere (object)|Sphere]], [[Coil (object)|Coil]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Heat Engine (object)|Heat Engine]], [[Nucleus (object)|Nucleus]], [[Sphere (object)|Sphere]], [[Coil (object)|Coil]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1pxGeY8ECwEYqF5qhI-XAJA-xxK_gscAh/view)
 
 
@@ -289,5 +289,5 @@ The Commission has already decided to adopt a proposal for a directive on the pr
 **Topic:** [[Thermodynamics]], [[Electrostatics]], [[Electromagnetic Induction]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Radioactive Decay Law (metodo)|Radioactive Decay Law]], [[Gauss's Law (metodo)|Gauss's Law]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Heat Engine (object)|Heat Engine]], [[Nucleus (object)|Nucleus]], [[Sphere (object)|Sphere]], [[Coil (object)|Coil]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Heat Engine (object)|Heat Engine]], [[Nucleus (object)|Nucleus]], [[Sphere (object)|Sphere]], [[Coil (object)|Coil]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1pxGeY8ECwEYqF5qhI-XAJA-xxK_gscAh/view)

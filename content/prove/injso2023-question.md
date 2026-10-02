@@ -108,7 +108,7 @@ Based on the growth patterns shown after 24 hrs, pick the correct option:
 
 <!--fig:start-->
 **Quesito 3**
-![[INJSO2023-Question_p3_f1.png]]
+![[_attachments/injso2023-question/injso2023-question_p3_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Biology]]
@@ -132,7 +132,7 @@ Sulla base dei modelli di crescita mostrati dopo 24 ore, scegliere la scelta cor
 
 <!--fig:start-->
 **Quesito 3**
-![[INJSO2023-Question_p3_f1.png]]
+![[_attachments/injso2023-question/injso2023-question_p3_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Biology]]
@@ -163,7 +163,7 @@ Now, consider the following pictorial demonstration of a cross. Which of the fol
 
 <!--fig:start-->
 **Quesito 4**
-![[INJSO2023-Question_p4_f2.png]]
+![[_attachments/injso2023-question/injso2023-question_p4_f2.png]]
 <!--fig:end-->
 
 **Topic:** [[Biology]]
@@ -189,7 +189,7 @@ Ora, considerate la seguente dimostrazione immaginaria di una croce. Quali dei s
 
 <!--fig:start-->
 **Quesito 4**
-![[INJSO2023-Question_p4_f2.png]]
+![[_attachments/injso2023-question/injso2023-question_p4_f2.png]]
 <!--fig:end-->
 
 **Topic:** [[Biology]]
@@ -218,7 +218,7 @@ Based on the results, which of the following is true?
 
 <!--fig:start-->
 **Quesito 5**
-![[INJSO2023-Question_p4_f3.png]]
+![[_attachments/injso2023-question/injso2023-question_p4_f3.png]]
 <!--fig:end-->
 
 **Topic:** [[Biology]]
@@ -242,7 +242,7 @@ Secondo i risultati, quale di questi è vero?
 
 <!--fig:start-->
 **Quesito 5**
-![[INJSO2023-Question_p4_f3.png]]
+![[_attachments/injso2023-question/injso2023-question_p4_f3.png]]
 <!--fig:end-->
 
 **Topic:** [[Biology]]
@@ -717,7 +717,7 @@ Consider the two pyramids shown below and from the options, identify what they w
 
 <!--fig:start-->
 **Quesito 16**
-![[INJSO2023-Question_p7_f4.png]]
+![[_attachments/injso2023-question/injso2023-question_p7_f4.png]]
 <!--fig:end-->
 
 **Topic:** [[Biology]]
@@ -743,7 +743,7 @@ Considerate le due piramidi mostrate di seguito e dalle opzioni, identificate co
 
 <!--fig:start-->
 **Quesito 16**
-![[INJSO2023-Question_p7_f4.png]]
+![[_attachments/injso2023-question/injso2023-question_p7_f4.png]]
 <!--fig:end-->
 
 **Topic:** [[Biology]]
@@ -780,7 +780,7 @@ Choose the correct option(s) that describe(s) the condition for each annotated p
 
 <!--fig:start-->
 **Quesito 17**
-![[INJSO2023-Question_p8_f5.png]]
+![[_attachments/injso2023-question/injso2023-question_p8_f5.png]]
 <!--fig:end-->
 
 **Topic:** [[Biology]]
@@ -812,7 +812,7 @@ Scegliere le opzioni corrette che descrivono la condizione di ogni punto annotat
 
 <!--fig:start-->
 **Quesito 17**
-![[INJSO2023-Question_p8_f5.png]]
+![[_attachments/injso2023-question/injso2023-question_p8_f5.png]]
 <!--fig:end-->
 
 **Topic:** [[Biology]]
@@ -1058,7 +1058,7 @@ The figure shows an electron projected from O, with velocity $v$ along the posit
 
 <!--fig:start-->
 **Quesito 23**
-![[INJSO2023-Question_p10_f6.png]]
+![[_attachments/injso2023-question/injso2023-question_p10_f6.png]]
 <!--fig:end-->
 
 **Topic:** [[Electromagnetism]]
@@ -1080,7 +1080,7 @@ La figura mostra un elettrone proiettato da O, con velocità $v$ lungo l'asse X 
 
 <!--fig:start-->
 **Quesito 23**
-![[INJSO2023-Question_p10_f6.png]]
+![[_attachments/injso2023-question/injso2023-question_p10_f6.png]]
 <!--fig:end-->
 
 **Topic:** [[Electromagnetism]]
@@ -1150,7 +1150,7 @@ Prajakta sta guidando la sua bici su una strada piatta. Applica il freno e il ci
 
 <!--fig:start-->
 **Quesito 25**
-![[INJSO2023-Question_p10_f7.png]]
+![[_attachments/injso2023-question/injso2023-question_p10_f7.png]]
 <!--fig:end-->
 
 (a) Based on your knowledge of milk to curd formation, interpret which of the following is true?
@@ -1205,7 +1205,7 @@ Based on this and the experiments above, which of the following statements is/ar
 
 <!--fig:start-->
 **Quesito 25**
-![[INJSO2023-Question_p10_f7.png]]
+![[_attachments/injso2023-question/injso2023-question_p10_f7.png]]
 <!--fig:end-->
 
 (a) Sulla base delle vostre conoscenze sul latte e sulla formazione di caramelle, quale delle seguenti interpretazioni è vera?
@@ -1408,14 +1408,14 @@ c) La stazione spaziale internazionale ruota a 400 km sopra la superficie terres
 
 <!--fig:start-->
 **Quesito 28**
-![[INJSO2023-Question_p14_f8.png]]
+![[_attachments/injso2023-question/injso2023-question_p14_f8.png]]
 <!--fig:end-->
 
 In an experiment, plasmid pBR322 is used, which has both tetracycline (tet) and ampicillin (amp) resistance genes. A foreign gene is inserted in this plasmid at a site present within the tetracycline resistance gene.
 
 <!--fig:start-->
 **Quesito 28**
-![[INJSO2023-Question_p14_f9.png]]
+![[_attachments/injso2023-question/injso2023-question_p14_f9.png]]
 <!--fig:end-->
 
 (a) Bacterial cultures with these recombinant plasmids were grown on solid media plates each containing a different combination of antibiotics. Based on the observations after the growth period, state which of the following statements would be true/false–
@@ -1443,7 +1443,7 @@ vi. Isolate the bacteria with the desired recombinant plasmid
 
 <!--fig:start-->
 **Quesito 28**
-![[INJSO2023-Question_p15_f10.png]]
+![[_attachments/injso2023-question/injso2023-question_p15_f10.png]]
 <!--fig:end-->
 
 **Topic:** [[Biology]]
@@ -1460,14 +1460,14 @@ vi. Isolate the bacteria with the desired recombinant plasmid
 
 <!--fig:start-->
 **Quesito 28**
-![[INJSO2023-Question_p14_f8.png]]
+![[_attachments/injso2023-question/injso2023-question_p14_f8.png]]
 <!--fig:end-->
 
 In un esperimento, viene utilizzato il plasmido pBR322, che ha sia i geni di resistenza alla tetracciclina (tet) che all'ampicillina (amp). Un gene straniero viene inserito in questo plasmide in un sito presente all'interno del gene di resistenza alle tetraccicline.
 
 <!--fig:start-->
 **Quesito 28**
-![[INJSO2023-Question_p14_f9.png]]
+![[_attachments/injso2023-question/injso2023-question_p14_f9.png]]
 <!--fig:end-->
 
 (a) Le colture batteriche con questi plasmi ricombinanti sono state coltivate su piastre di supporto solide contenenti ciascuna una combinazione diversa di antibiotici. Sulla base delle osservazioni successive al periodo di crescita, indicare quale delle seguenti affermazioni sarebbe vera/falsa
@@ -1495,7 +1495,7 @@ vi. Isolare i batteri con il plasmido ricombinante desiderato
 
 <!--fig:start-->
 **Quesito 28**
-![[INJSO2023-Question_p15_f10.png]]
+![[_attachments/injso2023-question/injso2023-question_p15_f10.png]]
 <!--fig:end-->
 
 **Topic:** [[Biology]]
@@ -1521,7 +1521,7 @@ Swapnil repeated the experiment with 0.57 g of Aluminum powder from the same sam
 
 <!--fig:start-->
 **Quesito 29**
-![[INJSO2023-Question_p16_f11.png]]
+![[_attachments/injso2023-question/injso2023-question_p16_f11.png]]
 <!--fig:end-->
 
 (a) Write the balanced chemical equation for the reaction between aluminum and hydrochloric acid, stating the physical states of all chemicals.
@@ -1565,7 +1565,7 @@ Swapnil ha ripetuto l'esperimento con 0,57 g di polvere di alluminio proveniente
 
 <!--fig:start-->
 **Quesito 29**
-![[INJSO2023-Question_p16_f11.png]]
+![[_attachments/injso2023-question/injso2023-question_p16_f11.png]]
 <!--fig:end-->
 
 a) Scrivere l'equazione chimica equilibrata per la reazione tra alluminio e acido cloridrico, indicando gli stati fisici di tutte le sostanze chimiche.
@@ -1612,7 +1612,7 @@ The molecular structure of shikimic acid is shown below.
 
 <!--fig:start-->
 **Quesito 30**
-![[INJSO2023-Question_p17_f12.png]]
+![[_attachments/injso2023-question/injso2023-question_p17_f12.png]]
 <!--fig:end-->
 
 (a) What is the elemental composition of this molecule in terms of mass percentages?
@@ -1643,7 +1643,7 @@ La struttura molecolare dell'acido shikimico è mostrata di seguito.
 
 <!--fig:start-->
 **Quesito 30**
-![[INJSO2023-Question_p17_f12.png]]
+![[_attachments/injso2023-question/injso2023-question_p17_f12.png]]
 <!--fig:end-->
 
 (a) Qual è la composizione elementare di questa molecola in termini di percentuali di massa?
@@ -1714,14 +1714,14 @@ Strumenti e materiali disponibili in laboratorio: riscaldatore, sistema di subli
 
 <!--fig:start-->
 **Quesito 32**
-![[INJSO2023-Question_p18_f13.png]]
+![[_attachments/injso2023-question/injso2023-question_p18_f13.png]]
 <!--fig:end-->
 
 (a) For the following 4 graphs (Figures P, Q, R and S), the time interval of collision is too small to fit into the time scale on X-axis. Which of these four graphs would best represent the time variation of the force felt by the weighing machine while this process takes place?
 
 <!--fig:start-->
 **Quesito 32**
-![[INJSO2023-Question_p19_f14.png]]
+![[_attachments/injso2023-question/injso2023-question_p19_f14.png]]
 <!--fig:end-->
 
 (b) Determine the height of the cabin using the data from the graph.
@@ -1744,14 +1744,14 @@ Strumenti e materiali disponibili in laboratorio: riscaldatore, sistema di subli
 
 <!--fig:start-->
 **Quesito 32**
-![[INJSO2023-Question_p18_f13.png]]
+![[_attachments/injso2023-question/injso2023-question_p18_f13.png]]
 <!--fig:end-->
 
 (a) Per i seguenti 4 grafici (Figure P, Q, R e S), l'intervallo temporale di collisione è troppo piccolo per adattarsi alla scala temporale sull'asse X. Quale di questi quattro grafici rappresenta meglio la variazione temporale della forza che la macchina di pesatura sente mentre si svolge questo processo?
 
 <!--fig:start-->
 **Quesito 32**
-![[INJSO2023-Question_p19_f14.png]]
+![[_attachments/injso2023-question/injso2023-question_p19_f14.png]]
 <!--fig:end-->
 
 b) Determinare l'altezza della cabina utilizzando i dati del grafico.
@@ -1783,7 +1783,7 @@ She now connects the same voltmeter and ammeter simultaneously to measure potent
 
 <!--fig:start-->
 **Quesito 33**
-![[INJSO2023-Question_p19_f15.png]]
+![[_attachments/injso2023-question/injso2023-question_p19_f15.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -1804,7 +1804,7 @@ Ora collega allo stesso voltmeter e all'ampimetro contemporaneamente per misurar
 
 <!--fig:start-->
 **Quesito 33**
-![[INJSO2023-Question_p19_f15.png]]
+![[_attachments/injso2023-question/injso2023-question_p19_f15.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -1828,7 +1828,7 @@ The spring balance, along with the cubical block suspended, is now arranged in s
 
 <!--fig:start-->
 **Quesito 34**
-![[INJSO2023-Question_p20_f16.png]]
+![[_attachments/injso2023-question/injso2023-question_p20_f16.png]]
 <!--fig:end-->
 
 (a) Compute the respective readings of balances P and Q as shown in the left panel of the figure.
@@ -1838,7 +1838,7 @@ The spring balance, along with the cubical block suspended, is now arranged in s
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Spring (object)|Spring]], [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Spring (object)|Spring]], [[Block (object)|Block]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.20](https://drive.google.com/file/d/1HIntvjlapwvC-2ATuOuVJVRzveZBfP9l/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1k-8LUpjTfcgmSm9rDcGpMPuXLhhtWmGW/view)
 
@@ -1851,7 +1851,7 @@ Il saldo della molla, insieme al blocco cubico sospeso, è ora disposto in modo 
 
 <!--fig:start-->
 **Quesito 34**
-![[INJSO2023-Question_p20_f16.png]]
+![[_attachments/injso2023-question/injso2023-question_p20_f16.png]]
 <!--fig:end-->
 
 a) Calcolare le rispettive letture delle bilanci P e Q come mostrato nel pannello a sinistra della figura.
@@ -1861,7 +1861,7 @@ b) Supponendo che la molla della molla si estenda linearmente con la forza appli
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Spring (object)|Spring]], [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Spring (object)|Spring]], [[Block (object)|Block]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.20](https://drive.google.com/file/d/1HIntvjlapwvC-2ATuOuVJVRzveZBfP9l/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1k-8LUpjTfcgmSm9rDcGpMPuXLhhtWmGW/view)
 
@@ -1877,7 +1877,7 @@ b) Supponendo che la molla della molla si estenda linearmente con la forza appli
 
 <!--fig:start-->
 **Quesito 35**
-![[INJSO2023-Question_p20_f17.png]]
+![[_attachments/injso2023-question/injso2023-question_p20_f17.png]]
 <!--fig:end-->
 
 (a) Determine the horizontal distance $d$ covered by the gymnast from the point of leaving the rod till he reaches the protecting net.
@@ -1900,7 +1900,7 @@ b) Supponendo che la molla della molla si estenda linearmente con la forza appli
 
 <!--fig:start-->
 **Quesito 35**
-![[INJSO2023-Question_p20_f17.png]]
+![[_attachments/injso2023-question/injso2023-question_p20_f17.png]]
 <!--fig:end-->
 
 a) Determinare la distanza orizzontale $d$ percorsa dal ginnasta dal punto di uscita della canna fino a raggiungere la rete protettiva.

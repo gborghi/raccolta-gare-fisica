@@ -565,7 +565,7 @@ Il multimetro digitale.
 
 Considerate un'etichetta Fabry-Perot (FP) ideale per il divario d'aria, come mostrato alla figura 10. L'etalon è costituito da una piastra di vetro spessa superiore (con indice di rifrazione $n_g$) e da una piastra di campione inferiore (con indice di rifrazione $n_s$) che si inserisce un gap di aria sottile ($L \sim 5$ micron) tra le due parti.
 
-![Figura 10: Fabry-Perot etalon](../_attaccamenti/APhO_2016_exp/APhO_2016_exp_Q2_p4_f1.png)
+![[_attachments/apho_2016_exp/apho_2016_exp_q2_p4_f1.png|Figura 10: Fabry-Perot etalon]]
 
 > *Figura 10: riflessi luminosi di un'etalonia Fabry-Perot ideale per il divario atmosferico, costituita da una piastra di vetro superiore e da una piastra di campione inferiore.*
 

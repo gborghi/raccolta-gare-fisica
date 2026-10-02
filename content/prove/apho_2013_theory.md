@@ -152,11 +152,11 @@ Let's choose $x$ and $ct$ as the orthogonal axes. A point $(x', ct') = (1,0)$ in
 
 To get a better understanding of Minkowski diagram, let us take a look at this example. Consider a stick of proper length $L$ in a moving frame $S'$. We would like to find the length of the stick in the rest frame $S$. Consider the figure below.
 
-![[APhO_2013_theory/APhO_2013_theory_Q2_p3_f1.png]]
+![[prove/_attachments/apho_2013_theory/apho_2013_theory_q2_p3_f1.png]]
 
 The stick is represented by the segment $AC$. The length $AC$ is equal to $\sqrt{\dfrac{1 + \beta^2}{1 - \beta^2}}\,L$ in the $S$ frame. The stick length in the $S$ frame is represented by the line $AB$.
 
-![[APhO_2013_theory/APhO_2013_theory_Q2_p4_f1.png]]
+![[prove/_attachments/apho_2013_theory/apho_2013_theory_q2_p4_f1.png]]
 
 $$
 \begin{aligned}
@@ -272,11 +272,11 @@ Scegliamo $x$ e $ct$ come assi ortogonali. Un punto $(x', ct') = (1,0)$ nel sist
 
 Per capire meglio il diagramma di Minkowski, guardiamo questo esempio. Considera un'asta di lunghezza propria $L$ in un sistema in moto $S'$. Vogliamo trovare la lunghezza dell'asta nel sistema di quiete $S$. Considera la figura seguente.
 
-![[APhO_2013_theory/APhO_2013_theory_Q2_p3_f1.png]]
+![[prove/_attachments/apho_2013_theory/apho_2013_theory_q2_p3_f1.png]]
 
 L'asta è rappresentata dal segmento $AC$. La lunghezza $AC$ è uguale a $\sqrt{\dfrac{1 + \beta^2}{1 - \beta^2}}\,L$ nel sistema $S$. La lunghezza dell'asta nel sistema $S$ è rappresentata dal segmento $AB$.
 
-![[APhO_2013_theory/APhO_2013_theory_Q2_p4_f1.png]]
+![[prove/_attachments/apho_2013_theory/apho_2013_theory_q2_p4_f1.png]]
 
 $$
 \begin{aligned}
@@ -404,7 +404,7 @@ Spin is in fact a vector quantity; but due to its quantum properties, we cannot 
 $$F_x = \mu_x C.$$
 The field $\mathbf{B}_2$ has strong bias field component in the $x$ direction, where the atoms have magnetic moment $\mu_x = \pm\gamma\hbar$.
 
-![[APhO_2013_theory/APhO_2013_theory_Q3_p4_f1.png]]
+![[prove/_attachments/apho_2013_theory/apho_2013_theory_q3_p4_f1.png]]
 
 In order to determine $\mu_x$ by observing the splitting in $x$ direction, show that the following condition must be fulfilled:
 $$\frac{1}{\hbar}|\mu_x|\,\Delta x\,C t \gg 1,$$
@@ -485,7 +485,7 @@ Spin è infatti una quantità vettoriale; ma a causa delle sue proprietà quanti
 $$F_x = \mu_x C.$$
 Il campo $\mathbf{B}_2$ ha una componente di campo di forte bias nella direzione $x$, dove gli atomi hanno il momento magnetico $\mu_x = \pm\gamma\hbar$.
 
-![[APhO_2013_theory/APhO_2013_theory_Q3_p4_f1.png]]
+![[prove/_attachments/apho_2013_theory/apho_2013_theory_q3_p4_f1.png]]
 
 Per determinare $\mu_x$ osservando la divisione in direzione $x$, dimostrare che la seguente condizione deve essere soddisfatta:
 $$\frac{1}{\hbar}|\mu_x|\,\Delta x\,C t \gg 1,$$

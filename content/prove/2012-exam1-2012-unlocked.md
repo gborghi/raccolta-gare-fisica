@@ -450,7 +450,7 @@ is correct?
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Block (object)|Block]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/12jBuvsPapWU1zY8RCcNOhxIn2paJZ2Gq/view)
 
 
@@ -469,7 +469,7 @@ non vi sono frizioni tra la corda e la polla fissa. Poi, mentre la scatola si mu
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Block (object)|Block]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/12jBuvsPapWU1zY8RCcNOhxIn2paJZ2Gq/view)
 
 
@@ -508,7 +508,7 @@ $T_1$ and $T_2$ in the two strings is correct?
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/12jBuvsPapWU1zY8RCcNOhxIn2paJZ2Gq/view)
 
 
@@ -542,7 +542,7 @@ T1 T2 T1 T2 T2 T2 T2 T2 T2 T2 T2 T2 T2 T2 T2 T2 T2 T2 T2 T2 T2 T2 T2 T2 T2 T2 T2
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/12jBuvsPapWU1zY8RCcNOhxIn2paJZ2Gq/view)
 
 
@@ -876,7 +876,7 @@ of the pipe? The density of water is $\rho = 1000\ \text{kg/m}^3$.
 **Topic:** [[Fluid Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Continuity Equation (metodo)|Continuity Equation]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/12jBuvsPapWU1zY8RCcNOhxIn2paJZ2Gq/view)
 
 
@@ -895,7 +895,7 @@ della pipa? La densità dell'acqua è $\rho = 1000\ \text{kg/m}^3$.
 **Topic:** [[Fluid Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Continuity Equation (metodo)|Continuity Equation]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/12jBuvsPapWU1zY8RCcNOhxIn2paJZ2Gq/view)
 
 
@@ -929,7 +929,7 @@ What is the resulting reading on the scales?
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Block (object)|Block]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/12jBuvsPapWU1zY8RCcNOhxIn2paJZ2Gq/view)
 
 
@@ -958,7 +958,7 @@ Qual è la lettura che ne deriva sulle scale?
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Block (object)|Block]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/12jBuvsPapWU1zY8RCcNOhxIn2paJZ2Gq/view)
 
 
@@ -1078,7 +1078,7 @@ gravity (g)?
 **Topic:** [[Newtonian Mechanics]], [[Gravitation]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Spring (object)|Spring]], [[Rod (object)|Rod]], [[Inclined Plane (object)|Inclined Plane]], [[Projectile (object)|Projectile]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Spring (object)|Spring]], [[Rod (object)|Rod]], [[Inclined Plane (object)|Inclined Plane]], [[Projectile (object)|Projectile]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/12jBuvsPapWU1zY8RCcNOhxIn2paJZ2Gq/view)
 
 
@@ -1095,7 +1095,7 @@ gravità (g)?
 **Topic:** [[Newtonian Mechanics]], [[Gravitation]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Spring (object)|Spring]], [[Rod (object)|Rod]], [[Inclined Plane (object)|Inclined Plane]], [[Projectile (object)|Projectile]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Spring (object)|Spring]], [[Rod (object)|Rod]], [[Inclined Plane (object)|Inclined Plane]], [[Projectile (object)|Projectile]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/12jBuvsPapWU1zY8RCcNOhxIn2paJZ2Gq/view)
 
 

@@ -216,7 +216,7 @@ The following graph depicts the rate and extent of a person's breathing just bef
 
 <!--fig:start-->
 **Quesito 6**
-![[injso2013-Q_p4_f1.png]]
+![[_attachments/injso2013-q/injso2013-q_p4_f1.png]]
 <!--fig:end-->
 
 Here $V$ is the volume of air in lungs in $\text{dm}^3$ and $t$ is the time in seconds.
@@ -225,7 +225,7 @@ Which of the following graph best depicts the rate and extent of breathing of th
 
 <!--fig:start-->
 **Quesito 6**
-![[injso2013-Q_p4_f2.png]]
+![[_attachments/injso2013-q/injso2013-q_p4_f2.png]]
 <!--fig:end-->
 
 **Topic:** [[Biology]]
@@ -241,7 +241,7 @@ Il seguente grafico mostra la velocità e la portata della respirazione di una p
 
 <!--fig:start-->
 **Quesito 6**
-![[injso2013-Q_p4_f1.png]]
+![[_attachments/injso2013-q/injso2013-q_p4_f1.png]]
 <!--fig:end-->
 
 Qui $V$ è il volume di aria nei polmoni in $\text{dm}^3$ e $t$ è il tempo in secondi.
@@ -250,7 +250,7 @@ Quale dei seguenti grafici rappresenta meglio la velocità e la portata di respi
 
 <!--fig:start-->
 **Quesito 6**
-![[injso2013-Q_p4_f2.png]]
+![[_attachments/injso2013-q/injso2013-q_p4_f2.png]]
 <!--fig:end-->
 
 **Topic:** [[Biology]]
@@ -271,7 +271,7 @@ The following picture depicts the internal arrangement (anatomy) of bone structu
 
 <!--fig:start-->
 **Quesito 7**
-![[injso2013-Q_p5_f1.png]]
+![[_attachments/injso2013-q/injso2013-q_p5_f1.png]]
 <!--fig:end-->
 
 - (a) Bones of limbs of all the organisms have similar basic plan therefore may have common ancestor.
@@ -292,7 +292,7 @@ La seguente immagine raffigura l'organizzazione interna (anatomia) delle struttu
 
 <!--fig:start-->
 **Quesito 7**
-![[injso2013-Q_p5_f1.png]]
+![[_attachments/injso2013-q/injso2013-q_p5_f1.png]]
 <!--fig:end-->
 
 - a) Le ossa degli arti di tutti gli organismi hanno un piano di base simile e possono quindi avere un antenato comune.
@@ -318,7 +318,7 @@ Consider a beaker with a partition made up of sieved glass plate such that the b
 
 <!--fig:start-->
 **Quesito 8**
-![[injso2013-Q_p5_f2.png]]
+![[_attachments/injso2013-q/injso2013-q_p5_f2.png]]
 <!--fig:end-->
 
 As you can see in the image, some molecules of sugar have moved to the region B. Which of the following is the correct term for describing this process?
@@ -341,7 +341,7 @@ Considerate un bicchiere con una partizione di piastra di vetro setacciata in mo
 
 <!--fig:start-->
 **Quesito 8**
-![[injso2013-Q_p5_f2.png]]
+![[_attachments/injso2013-q/injso2013-q_p5_f2.png]]
 <!--fig:end-->
 
 Come si vede nell'immagine, alcune molecole di zucchero si sono spostate nella regione B. Quale dei seguenti termini è corretto per descrivere questo processo?
@@ -374,7 +374,7 @@ Set IV: Green light
 
 <!--fig:start-->
 **Quesito 9**
-![[injso2013-Q_p6_f1.png]]
+![[_attachments/injso2013-q/injso2013-q_p6_f1.png]]
 <!--fig:end-->
 
 The experiment is continued for 5 hours and the amount of oxygen evolved by the plant (measured in terms of number of bubbles) in each set is measured. The following graph is obtained from the data which details different quantities of oxygen evolved when exposed to different quality of light A, B, C and D.
@@ -404,7 +404,7 @@ Set IV: Luce verde
 
 <!--fig:start-->
 **Quesito 9**
-![[injso2013-Q_p6_f1.png]]
+![[_attachments/injso2013-q/injso2013-q_p6_f1.png]]
 <!--fig:end-->
 
 L'esperimento è proseguito per 5 ore e viene misurata la quantità di ossigeno evoluta dalla pianta (misurata in termini di numero di bolle) in ogni set. La seguente grafica è ottenuta dai dati che dettagliano le diverse quantità di ossigeno evoluti quando esposti a diverse qualità di luce A, B, C e D.
@@ -471,7 +471,7 @@ The life cycle of plants shows two distinct phases: a diploid (sporophytic) phas
 
 <!--fig:start-->
 **Quesito 11**
-![[injso2013-Q_p6_f2.png]]
+![[_attachments/injso2013-q/injso2013-q_p6_f2.png]]
 <!--fig:end-->
 
 Afreen studied the life cycles of 3 different plants: I, II, III, and made the following observations.
@@ -500,7 +500,7 @@ Il ciclo di vita delle piante presenta due fasi distinte: una fase diploide (spo
 
 <!--fig:start-->
 **Quesito 11**
-![[injso2013-Q_p6_f2.png]]
+![[_attachments/injso2013-q/injso2013-q_p6_f2.png]]
 <!--fig:end-->
 
 Afreen ha studiato i cicli di vita di 3 diverse piante: I, II, III, e ha fatto le seguenti osservazioni.
@@ -1408,7 +1408,7 @@ One of the tests used to distinguish a saturated from an unsaturated compound is
 
 <!--fig:start-->
 **Quesito 34**
-![[injso2013-Q_p12_f1.png]]
+![[_attachments/injso2013-q/injso2013-q_p12_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Organic Chemistry]]
@@ -1424,7 +1424,7 @@ Una delle prove utilizzate per distinguere un composto saturo da un composto ins
 
 <!--fig:start-->
 **Quesito 34**
-![[injso2013-Q_p12_f1.png]]
+![[_attachments/injso2013-q/injso2013-q_p12_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Organic Chemistry]]
@@ -1490,7 +1490,7 @@ Riya took two containers in which chlorine and oxygen are kept under STP with bo
 **Topic:** [[Chemistry]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1Fxh3U77_7wuo0Idc_ipxESdiF4ps0L3D/view)
 
 
@@ -1508,7 +1508,7 @@ Riya ha preso due contenitori in cui il cloro e l' ossigeno sono conservati sott
 **Topic:** [[Chemistry]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1Fxh3U77_7wuo0Idc_ipxESdiF4ps0L3D/view)
 
 
@@ -2222,7 +2222,7 @@ Under which of the above conditions does the monkey continue to see her image?
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Mirror (object)|Mirror]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1Fxh3U77_7wuo0Idc_ipxESdiF4ps0L3D/view)
 
 
@@ -2244,7 +2244,7 @@ In quali delle condizioni sopra indicate la scimmia continua a vedere la sua imm
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Mirror (object)|Mirror]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1Fxh3U77_7wuo0Idc_ipxESdiF4ps0L3D/view)
 
 
@@ -2635,7 +2635,7 @@ In a heating experiment in which heat is supplied at a steady rate it was noted 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/1Fxh3U77_7wuo0Idc_ipxESdiF4ps0L3D/view)
 
 
@@ -2651,7 +2651,7 @@ In un esperimento di riscaldamento in cui il calore viene fornito a velocità co
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/1Fxh3U77_7wuo0Idc_ipxESdiF4ps0L3D/view)
 
 
@@ -2826,7 +2826,7 @@ Le cariche puntate $q_1 = +1\ \mu\text{C}$ e $q_2$, la cui magnitudine è $64/27
 
 <!--fig:start-->
 **Quesito 70**
-![[injso2013-Q_p20_f1.png]]
+![[_attachments/injso2013-q/injso2013-q_p20_f1.png]]
 <!--fig:end-->
 
 *A cubical box of height $h$ and mass $m$ floats upright in a liquid of density $\rho$ in position (1) as depicted in the figure. When a downward force of magnitude $F$ is applied on the top of the block, the block moves down through a distance $y$ with some part of the block being still above the liquid in position (2) as shown in the figure. Force $F$ is now suddenly removed so that the block start moving up. Neglect the effect of viscosity throughout the motion.*
@@ -2858,7 +2858,7 @@ Risposta alle domande 70 e 71 basata sul seguente passaggio
 
 <!--fig:start-->
 **Quesito 70**
-![[injso2013-Q_p20_f1.png]]
+![[_attachments/injso2013-q/injso2013-q_p20_f1.png]]
 <!--fig:end-->
 
 *Una scatola cubica di altezza $h$ e massa $m$ galleggia verticalmente in un liquido di densità $\rho$ nella posizione (1) come illustrato nella figura. Quando viene applicata una forza verso il basso di magnitudo $F$ sulla parte superiore del blocco, il blocco si muove verso il basso attraverso una distanza $y$ con una parte del blocco ancora sopra il liquido in posizione (2) come mostrato nella figura. La forza $F$ viene ora rimuotta improvvisamente in modo che il blocco comincia a muoversi verso l'alto. Negliodare l'effetto della viscosità durante il movimento.*
@@ -2895,7 +2895,7 @@ Let W be the weight of the block. Upthrust (U) experienced by the block is plott
 
 <!--fig:start-->
 **Quesito 71**
-![[injso2013-Q_p21_f1.png]]
+![[_attachments/injso2013-q/injso2013-q_p21_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Fluid Mechanics]]
@@ -2911,7 +2911,7 @@ Lasciate che W sia il peso del blocco. La spinta verso l'alto (U) del blocco è 
 
 <!--fig:start-->
 **Quesito 71**
-![[injso2013-Q_p21_f1.png]]
+![[_attachments/injso2013-q/injso2013-q_p21_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Fluid Mechanics]]

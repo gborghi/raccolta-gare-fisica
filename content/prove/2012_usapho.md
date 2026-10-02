@@ -177,7 +177,7 @@ b. Determine the magnetic field for all regions.
 
 **Topic:** [[Electromagnetism]]
 **Metodi:** [[Gauss's Law (metodo)|Gauss's Law]]
-**Metodi:** [[Ampere's Law (metodo)|Ampere's Law]]
+**Metodi:** [[methods/ampère's-law-(metodo)|Ampere's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Cylinder (object)|Cylinder]]
@@ -204,7 +204,7 @@ b. Determinare il campo magnetico per tutte le regioni.
 
 **Topic:** [[Electromagnetism]]
 **Metodi:** [[Gauss's Law (metodo)|Gauss's Law]]
-**Metodi:** [[Ampere's Law (metodo)|Ampere's Law]]
+**Metodi:** [[methods/ampère's-law-(metodo)|Ampere's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Cylinder (object)|Cylinder]]

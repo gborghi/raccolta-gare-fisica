@@ -129,7 +129,7 @@ Note: entrambi i gas perfetti; volume dell'acqua condensata trascurabile; tensio
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1_0eqSoLzDG0fTYIJI_KD5_JfdhB7G6wv/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1_0eqSoLzDG0fTYIJI_KD5_JfdhB7G6wv/view)
 
@@ -161,7 +161,7 @@ The following table shows the results of the calculation of the total emissions 
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1_0eqSoLzDG0fTYIJI_KD5_JfdhB7G6wv/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1_0eqSoLzDG0fTYIJI_KD5_JfdhB7G6wv/view)
 

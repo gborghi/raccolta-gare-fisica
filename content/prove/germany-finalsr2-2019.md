@@ -41,7 +41,7 @@ How does the cork move relative to the bucket immediately after the rope and thr
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/15cWia_5qcPIIwU_24vuKXL4H1EtGSj0T/view)
 
 
@@ -73,7 +73,7 @@ Come si muove il canne rispetto al secchio immediatamente dopo che la corda e il
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/15cWia_5qcPIIwU_24vuKXL4H1EtGSj0T/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -104,7 +104,7 @@ How does the cork move relative to the bucket immediately after the rope and thr
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/15cWia_5qcPIIwU_24vuKXL4H1EtGSj0T/view)
 
 
@@ -663,7 +663,7 @@ The heating elements are designed in such a way that they heat the entire mass o
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Resistor (object)|Resistor]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Resistor (object)|Resistor]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/15cWia_5qcPIIwU_24vuKXL4H1EtGSj0T/view)
 
 
@@ -699,7 +699,7 @@ Gli elementi di riscaldamento sono progettati in modo da riscaldare l'intera mas
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Resistor (object)|Resistor]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Resistor (object)|Resistor]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/15cWia_5qcPIIwU_24vuKXL4H1EtGSj0T/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -734,7 +734,7 @@ The heating elements are designed in such a way that they heat the entire mass o
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Resistor (object)|Resistor]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Resistor (object)|Resistor]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/15cWia_5qcPIIwU_24vuKXL4H1EtGSj0T/view)
 
 

@@ -42,7 +42,7 @@ Bisogna determinare le forze tra la corda e la sbarra con massimo attrito static
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Statistical Averaging (metodo)|Statistical Averaging]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Rod (object)|Rod]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Rod (object)|Rod]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1lvaVL16ABiV6-GQWAKzOa6j9oPcECSSq/view)
 
 
@@ -75,7 +75,7 @@ Bisogna determinare la forza tra la corda e la barra con massimo attrito statico
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Statistical Averaging (metodo)|Statistical Averaging]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Rod (object)|Rod]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Rod (object)|Rod]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1lvaVL16ABiV6-GQWAKzOa6j9oPcECSSq/view)
 
 
@@ -101,7 +101,7 @@ Utilizza adesso una nuova corda. Useremo ancora un angolo di avvolgimento costan
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Rod (object)|Rod]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1lvaVL16ABiV6-GQWAKzOa6j9oPcECSSq/view)
 
 
@@ -122,7 +122,7 @@ Utilizzare ora una nuova corda. Useremo ancora un angolo di avvolgimento costant
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Rod (object)|Rod]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1lvaVL16ABiV6-GQWAKzOa6j9oPcECSSq/view)
 
 
@@ -152,7 +152,7 @@ In questa parte studiamo la dipendenza delle forze dall'angolo di avvolgimento (
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Rod (object)|Rod]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1lvaVL16ABiV6-GQWAKzOa6j9oPcECSSq/view)
 
 
@@ -177,5 +177,5 @@ In questa parte, studiamo la dipendenza delle forze dall'angolo di avvolgimento 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Rod (object)|Rod]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1lvaVL16ABiV6-GQWAKzOa6j9oPcECSSq/view)

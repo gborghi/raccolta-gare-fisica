@@ -60,7 +60,7 @@ Each of the figures below, depict a constellation. Find the odd one out. [3]
 
 <!--fig:start-->
 **Quesito 2**
-![[inaoJr2009-Q_p3_f1.png]]
+![[_attachments/inaojr2009-q/inaojr2009-q_p3_f1.png]]
 <!--fig:end-->
 
 - (a)
@@ -81,7 +81,7 @@ Ciascuna delle figure di seguito raffigura una costellazione. Trova la strana. [
 
 <!--fig:start-->
 **Quesito 2**
-![[inaoJr2009-Q_p3_f1.png]]
+![[_attachments/inaojr2009-q/inaojr2009-q_p3_f1.png]]
 <!--fig:end-->
 
 - (a)
@@ -224,7 +224,7 @@ A repairman on the T.V. tower finds his water bottle leaking at the rate of 5 ml
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1Z5SXql5m7d1MwWjdz8DszE3SdCy7YcWI/view)
 
 
@@ -240,7 +240,7 @@ Un riparatore al TV. La torre trova la sua bottiglia di acqua che scorre a una v
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1Z5SXql5m7d1MwWjdz8DszE3SdCy7YcWI/view)
 
 
@@ -292,7 +292,7 @@ In the following figure, A, B, C are three light source positions with respect t
 
 <!--fig:start-->
 **Quesito 8**
-![[inaoJr2009-Q_p4_f1.png]]
+![[_attachments/inaojr2009-q/inaojr2009-q_p4_f1.png]]
 <!--fig:end-->
 
 - (a) A
@@ -313,7 +313,7 @@ Nella figura seguente, A, B e C sono tre posizioni della fonte luminosa rispetto
 
 <!--fig:start-->
 **Quesito 8**
-![[inaoJr2009-Q_p4_f1.png]]
+![[_attachments/inaojr2009-q/inaojr2009-q_p4_f1.png]]
 <!--fig:end-->
 
 - (a) A
@@ -339,7 +339,7 @@ Which of the following represents the correct speed-time graph, for a ball bounc
 
 <!--fig:start-->
 **Quesito 9**
-![[inaoJr2009-Q_p4_f2.png]]
+![[_attachments/inaojr2009-q/inaojr2009-q_p4_f2.png]]
 <!--fig:end-->
 
 - (a)
@@ -360,7 +360,7 @@ Quale di queste rappresenta il grafico corretto della velocità-tempo per una pa
 
 <!--fig:start-->
 **Quesito 9**
-![[inaoJr2009-Q_p4_f2.png]]
+![[_attachments/inaojr2009-q/inaojr2009-q_p4_f2.png]]
 <!--fig:end-->
 
 - (a)
@@ -390,7 +390,7 @@ radius of the piston $A = 1.0$ cm and radius of piston $B = 1.5$ cm. A 30.0 gm o
 
 <!--fig:start-->
 **Quesito 10**
-![[inaoJr2009-Q_p4_f3.png]]
+![[_attachments/inaojr2009-q/inaojr2009-q_p4_f3.png]]
 <!--fig:end-->
 
 - (a) 67.5 gm
@@ -401,7 +401,7 @@ radius of the piston $A = 1.0$ cm and radius of piston $B = 1.5$ cm. A 30.0 gm o
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Piston (object)|Piston]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Piston (object)|Piston]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1Z5SXql5m7d1MwWjdz8DszE3SdCy7YcWI/view)
 
 
@@ -415,7 +415,7 @@ il raggio del pistone $A = 1.0$ cm e il raggio del pistone $B = 1.5$ cm. In part
 
 <!--fig:start-->
 **Quesito 10**
-![[inaoJr2009-Q_p4_f3.png]]
+![[_attachments/inaojr2009-q/inaojr2009-q_p4_f3.png]]
 <!--fig:end-->
 
 - (a) 67.5 gm
@@ -426,7 +426,7 @@ il raggio del pistone $A = 1.0$ cm e il raggio del pistone $B = 1.5$ cm. In part
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Piston (object)|Piston]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Piston (object)|Piston]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1Z5SXql5m7d1MwWjdz8DszE3SdCy7YcWI/view)
 
 
@@ -686,7 +686,7 @@ Mehul performed an experiment to verify Ohm's law. He connected the following ci
 
 <!--fig:start-->
 **Quesito 18**
-![[inaoJr2009-Q_p6_f1.png]]
+![[_attachments/inaojr2009-q/inaojr2009-q_p6_f1.png]]
 <!--fig:end-->
 
 Here, $R$ is the unknown resistance, $V$ the voltmeter, $A$ the ammeter and $K$ is the key. He obtained following readings:
@@ -712,7 +712,7 @@ Mehul ha eseguito un esperimento per verificare la legge di Ohm. Ha collegato il
 
 <!--fig:start-->
 **Quesito 18**
-![[inaoJr2009-Q_p6_f1.png]]
+![[_attachments/inaojr2009-q/inaojr2009-q_p6_f1.png]]
 <!--fig:end-->
 
 Qui, $R$ è la resistenza sconosciuta, $V$ il voltmeter, $A$ l'ampimetro e $K$ è la chiave. Ha ottenuto le seguenti letture:

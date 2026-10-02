@@ -121,3 +121,23 @@ Text in English ...
   tutti i blocchi `qlang` stanno nella stessa pagina, quindi la ricerca full-text di Quartz (inclusa quella booleana)
   e l'indice per quesito li indicizzano tutti; lo switch lingua è solo lato client e non cambia i file pubblicati,
   quindi GitHub Pages e il mirror Cloudflare restano identici byte per byte.
+
+## Immagini e limiti Cloudflare (20.000 file / 25 MiB per file)
+
+Cloudflare deve essere identico a GitHub Pages: nessuna immagine può essere esclusa o trasformata in link.
+Stato al 2026-10-02: nessun file supera i limiti (fisica ~2,7k file, mate ~5,4k, file max ~11 MB), quindi tutte
+le figure sono servite così:
+- **fisica**: `<img>` verso `https://gborghi.github.io/olifis-assets/_attachments/...` (stesso URL assoluto su
+  entrambi gli host; `build-pages.sh` sincronizza in add-only anche `content/prove/_attachments`);
+  figure TikZ → SVG inline nella pagina (`scripts/inline-tikz.mjs`).
+- **mate**: file nel sito (`_attachments/`), copiati byte per byte sul mirror tramite `mirror-manifest.json`.
+- Elenco per figura: `/workspace/gare-align/figure-methods.csv` (riepilogo `figure-methods.md`).
+
+Se in futuro una figura superasse i limiti, deve restare un `<img>` identico, in quest'ordine di preferenza:
+1. **jsDelivr** dal repo pubblico, fissato a un commit/tag: `https://cdn.jsdelivr.net/gh/gborghi/<repo>@<commit>/<path>`
+   (max 50 MB/file); va aggiunto `https://cdn.jsdelivr.net` a `img-src` in `_headers` (emit-cf-files).
+2. **Google Drive** (cartella `olimpiadifisica`, sottocartella dedicata, condivisione pubblica):
+   `https://lh3.googleusercontent.com/d/<ID>` o `https://drive.google.com/thumbnail?id=<ID>&sz=w2000`
+   (non `uc?export=view`); aggiungere il dominio a `img-src`.
+3. Cloudflare R2 solo come ultima scelta.
+Annotare qui ogni figura che usa uno di questi meccanismi.

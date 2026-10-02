@@ -27,7 +27,7 @@ Zed now wants to revert the container back to its original state with $N_1$ and 
 
 **(b) (5 pts.)** He thinks that any molecule in the left chamber incident on the door will enter the right chamber, and no molecules in the right chamber will enter the left one. Under such a model, what is the initial rate of change in entropy of the system?
 
-![[OPhO_2022_Invitational_Theory_p4_f1.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p4_f1.png]]
 *Figure 1: Parts (c) and (d).*
 
 Under the assumptions made by part (b), Zed's device violates the second law of thermodynamics. We'll now investigate why this actually does not happen for a particular kind of door. This door, of mass $M$, has a hinge that exerts a restoring torque $\tau = K\theta$ when the door is open at an angle $\theta$, where $\theta$ is not necessarily small (Figure 1).
@@ -40,7 +40,7 @@ Under the assumptions made by part (b), Zed's device violates the second law of 
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Statistical Averaging (metodo)|Statistical Averaging]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -55,7 +55,7 @@ Zed ora vuole riportare il contenitore al suo stato originale con $N_1$ e $N_2$ 
 
 Pensa che qualsiasi molecola nella camera sinistra incidentale sulla porta entrera' nella camera destra, e nessuna molecola nella camera destra entrera' nella sinistra. Secondo tale modello, qual è il tasso iniziale di cambiamento dell'entropia del sistema?
 
-![[OPhO_2022_Invitational_Theory_p4_f1.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p4_f1.png]]
 *Figura 1: Parti c) e d).*
 
 Secondo le ipotesi di parte b, il dispositivo di Zed viola la seconda legge della termodinamica. Ora esamineremo perché questo non accade per un particolare tipo di porta. Questa porta, di massa $M$, ha una cerniera che esercita una coppia di ripristino $\tau = K\theta$ quando la porta è aperta ad un angolo $\theta$, dove $\theta$ non è necessariamente piccola (Figura 1).
@@ -68,7 +68,7 @@ Secondo le ipotesi di parte b, il dispositivo di Zed viola la seconda legge dell
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Statistical Averaging (metodo)|Statistical Averaging]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 
 
 
@@ -204,7 +204,7 @@ A cubical box of mass $M$ and side length $L$ sits on a horizontal, frictionless
 **Topic:** [[Kinetic Theory]], [[Thermodynamics]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Statistical Averaging (metodo)|Statistical Averaging]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -225,7 +225,7 @@ Una scatola cubica di massa $M$ e lunghezza laterale $L$ si trova su un piano or
 **Topic:** [[Kinetic Theory]], [[Thermodynamics]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Statistical Averaging (metodo)|Statistical Averaging]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 
 
 
@@ -267,7 +267,7 @@ where $a, b \in \mathbb{C}$, and $\langle \Psi | \Psi \rangle = 1$.
 
 A quantum gate performs a unitary operator on a quantum state. Applying an operator (sometimes known as a gate) to a qubit state can be represented in the diagram below.
 
-![[OPhO_2022_Invitational_Theory_p8_f1.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p8_f1.png]]
 
 where $\hat{U}$ is a local unitary since it only acts on a single qubit. There are five important gates:
 
@@ -301,7 +301,7 @@ Physically, this means that a measurement of one qubit directly leads to a "coll
 
 We can change the concurrence using a control operation. For example,
 
-![[OPhO_2022_Invitational_Theory_p9_f1.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p9_f1.png]]
 
 performs the CNOT gate. The unitary $X$ is applied to $|b\rangle$ if $|a\rangle = 1$, otherwise nothing is done. That is, we have:
 
@@ -313,7 +313,7 @@ $$\text{CNOT} = \begin{pmatrix} 1 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 0 & 1 
 
 where $|00\rangle, \dots, |11\rangle$ form the 4 standard basis vectors. We can combine local and global unitaries to create entangled states. For example, consider the following circuit:
 
-![[OPhO_2022_Invitational_Theory_p10_f1.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p10_f1.png]]
 
 The initial state is $|\Psi_{\text{in}}\rangle = |00\rangle = \begin{pmatrix} 1 \\ 0 \\ 0 \\ 0 \end{pmatrix}$. After applying the Hadamard gate $H$, the state becomes
 
@@ -335,7 +335,7 @@ using only $X, Y, Z, H, \text{CNOT}$ gates.
 
 Quantum teleportation is the transfer of the quantum state of one qubit to another (not the actual physical qubit) using a shared entangled resource and two classical bits of information. It is performed using the following circuit.
 
-![[OPhO_2022_Invitational_Theory_p10_f2.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p10_f2.png]]
 
 The measurement gate measures the qubit (returns either a 0 or a 1) and the wider wire represents that information that flows through this wire is a classical bit.
 
@@ -347,45 +347,45 @@ We can analyze this by performing matrix multiplication, but using a circuit-bas
 
 **(f) (2 pts.)** The following circuits, according to the Griffiths-Niu Theorem, are equivalent:
 
-![[OPhO_2022_Invitational_Theory_p11_f1.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p11_f1.png]]
 
 Prove the Griffiths-Niu Theorem.
 
 Using this theorem, we can redraw our circuit as:
 
-![[OPhO_2022_Invitational_Theory_p11_f2.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p11_f2.png]]
 
 **(g) (1 pts.)** For a control-Z gate, it doesn't matter which branch is the control. In other words,
 
-![[OPhO_2022_Invitational_Theory_p11_f3.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p11_f3.png]]
 
 Prove this relationship.
 
 Using the above problem, we can flip the control-Z gate. Then using the identity $Z = HXH$, we can reduce it further:
 
-![[OPhO_2022_Invitational_Theory_p11_f4.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p11_f4.png]]
 
 Since $H^2 = I$, we can simplify the top part. Furthermore, we can introduce another CNOT between the first and the second branch.
 
-![[OPhO_2022_Invitational_Theory_p11_f5.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p11_f5.png]]
 
 We were allowed to introduce this CNOT gate since $XH|0\rangle = H|0\rangle$. This actually makes it easier using the following problem:
 
 **(h) (2 pts.)** Prove that the below two circuits are equivalent.
 
-![[OPhO_2022_Invitational_Theory_p12_f1.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p12_f1.png]]
 
 Using this substitution, we end up with:
 
-![[OPhO_2022_Invitational_Theory_p12_f2.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p12_f2.png]]
 
 We can now introduce another CNOT gate, which doesn't do anything since C will always be $|0\rangle$.
 
-![[OPhO_2022_Invitational_Theory_p12_f3.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p12_f3.png]]
 
 Three alternating CNOT gates is equivalent to the SWAP gate, so we can write:
 
-![[OPhO_2022_Invitational_Theory_p12_f4.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p12_f4.png]]
 
 where we clearly see a swapping that occurs between the top and bottom branch!
 
@@ -454,7 +454,7 @@ dove $a, b \in \mathbb{C}$, e $\langle \Psi | \Psi \rangle = 1$.
 
 Una porta quantistica applica un operatore unitario a uno stato quantistico. L'applicazione di un operatore (talvolta chiamato porta) a uno stato di qubit può essere rappresentata nel diagramma qui sotto.
 
-![[OPhO_2022_Invitational_Theory_p8_f1.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p8_f1.png]]
 
 dove $\hat{U}$ è un unitario locale poiché agisce solo su un singolo qubit. Esistono cinque porte importanti:
 
@@ -488,7 +488,7 @@ Fisicamente, questo significa che una misurazione di un qubit porta direttamente
 
 Possiamo modificare la concorrenza usando un'operazione di controllo. Per esempio,
 
-![[OPhO_2022_Invitational_Theory_p9_f1.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p9_f1.png]]
 
 esegue la porta CNOT. L'unitario $X$ è applicato a $|b\rangle$ se $|a\rangle = 1$, altrimenti non viene fatto nulla. Cioè, abbiamo:
 
@@ -500,7 +500,7 @@ $$\text{CNOT} = \begin{pmatrix} 1 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 0 & 1 
 
 dove $|00\rangle, \dots, |11\rangle$ formano i 4 vettori di base standard. Possiamo combinare unitari locali e globali per creare stati entangled. Per esempio, considera il seguente circuito:
 
-![[OPhO_2022_Invitational_Theory_p10_f1.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p10_f1.png]]
 
 Lo stato iniziale è $|\Psi_{\text{in}}\rangle = |00\rangle = \begin{pmatrix} 1 \\ 0 \\ 0 \\ 0 \end{pmatrix}$. Dopo aver applicato la porta di Hadamard $H$, lo stato diventa
 
@@ -522,7 +522,7 @@ usando solo le porte $X, Y, Z, H, \text{CNOT}$.
 
 Il teletrasporto quantistico è il trasferimento dello stato quantistico di un qubit a un altro (non del qubit fisico effettivo) usando una risorsa entangled condivisa e due bit classici di informazione. Viene eseguito usando il seguente circuito.
 
-![[OPhO_2022_Invitational_Theory_p10_f2.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p10_f2.png]]
 
 La porta di misura misura il qubit (restituisce uno 0 o un 1) e il filo più spesso rappresenta il fatto che l'informazione che scorre attraverso questo filo è un bit classico.
 
@@ -534,45 +534,45 @@ Possiamo analizzare questo eseguendo la moltiplicazione matriciale, ma usare un 
 
 **(f) (2 pts.)** I seguenti circuiti, secondo il Teorema di Griffiths-Niu, sono equivalenti:
 
-![[OPhO_2022_Invitational_Theory_p11_f1.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p11_f1.png]]
 
 Dimostra il Teorema di Griffiths-Niu.
 
 Usando questo teorema, possiamo ridisegnare il nostro circuito come:
 
-![[OPhO_2022_Invitational_Theory_p11_f2.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p11_f2.png]]
 
 **(g) (1 pts.)** Per una porta control-Z, non importa quale ramo sia il controllo. In altre parole,
 
-![[OPhO_2022_Invitational_Theory_p11_f3.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p11_f3.png]]
 
 Dimostra questa relazione.
 
 Usando il problema precedente, possiamo capovolgere la porta control-Z. Poi, usando l'identità $Z = HXH$, possiamo ridurla ulteriormente:
 
-![[OPhO_2022_Invitational_Theory_p11_f4.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p11_f4.png]]
 
 Poiché $H^2 = I$, possiamo semplificare la parte superiore. Inoltre, possiamo introdurre un'altra CNOT tra il primo e il secondo ramo.
 
-![[OPhO_2022_Invitational_Theory_p11_f5.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p11_f5.png]]
 
 Ci è stato permesso di introdurre questa porta CNOT poiché $XH|0\rangle = H|0\rangle$. Questo in realtà lo rende più facile usando il problema seguente:
 
 **(h) (2 pts.)** Dimostra che i due circuiti sottostanti sono equivalenti.
 
-![[OPhO_2022_Invitational_Theory_p12_f1.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p12_f1.png]]
 
 Usando questa sostituzione, otteniamo:
 
-![[OPhO_2022_Invitational_Theory_p12_f2.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p12_f2.png]]
 
 Possiamo ora introdurre un'altra porta CNOT, che non fa nulla poiché C sarà sempre $|0\rangle$.
 
-![[OPhO_2022_Invitational_Theory_p12_f3.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p12_f3.png]]
 
 Tre porte CNOT alternate sono equivalenti alla porta SWAP, quindi possiamo scrivere:
 
-![[OPhO_2022_Invitational_Theory_p12_f4.png]]
+![[prove/_attachments/opho_2022_invitational_theory/opho_2022_invitational_theory_p12_f4.png]]
 
 dove vediamo chiaramente uno scambio che avviene tra il ramo superiore e quello inferiore!
 

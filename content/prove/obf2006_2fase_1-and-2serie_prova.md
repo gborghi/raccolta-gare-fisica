@@ -28,7 +28,7 @@ mecânicas devidas ao circuito hidráulico, calcule:
 **Topic:** [[Fluid Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1KFXU-4F4wYymHFfcfLKeO32PBZC8cwrl/view)
 
 
@@ -43,7 +43,7 @@ meccaniche dovute al circuito idraulico, calcolare:
 **Topic:** [[Fluid Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1KFXU-4F4wYymHFfcfLKeO32PBZC8cwrl/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -57,7 +57,7 @@ mechanics due to the hydraulic circuit, calculate:
 **Topic:** [[Fluid Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1KFXU-4F4wYymHFfcfLKeO32PBZC8cwrl/view)
 
 
@@ -287,7 +287,7 @@ bujão de gás ("gás de cozinha") de capacidade igual a $30\ \text{dm}^3$.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1KFXU-4F4wYymHFfcfLKeO32PBZC8cwrl/view)
 
 
@@ -304,7 +304,7 @@ un gas di gas ("gas di cucina") di capacità pari a $30\ \text{dm}^3$.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1KFXU-4F4wYymHFfcfLKeO32PBZC8cwrl/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -320,7 +320,7 @@ a gas burner (kitchen gas) of a capacity equal to $30\ \text{dm}^3$.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1KFXU-4F4wYymHFfcfLKeO32PBZC8cwrl/view)
 
 
@@ -447,7 +447,7 @@ operador largar o corpo A.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1KFXU-4F4wYymHFfcfLKeO32PBZC8cwrl/view)
 
 
@@ -465,7 +465,7 @@ Operatore, lascia perdere il corpo A.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1KFXU-4F4wYymHFfcfLKeO32PBZC8cwrl/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -482,7 +482,7 @@ Operator drop body A.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1KFXU-4F4wYymHFfcfLKeO32PBZC8cwrl/view)
 
 
@@ -893,7 +893,7 @@ que a peça demora para chegar ao fundo do tubo?
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1KFXU-4F4wYymHFfcfLKeO32PBZC8cwrl/view)
 
 
@@ -914,7 +914,7 @@ che tempo ci vuole per arrivare al fondo del tubo?
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1KFXU-4F4wYymHFfcfLKeO32PBZC8cwrl/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -934,7 +934,7 @@ How long does it take the piece to get to the bottom of the tube?
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1KFXU-4F4wYymHFfcfLKeO32PBZC8cwrl/view)
 
 
@@ -1021,7 +1021,7 @@ b) o valor da força de reação exercida pela parede contra o jato de água.
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KFXU-4F4wYymHFfcfLKeO32PBZC8cwrl/view)
 
 
@@ -1042,7 +1042,7 @@ b) il valore della forza di reazione esercitata dal muro contro il jet d'acqua.
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KFXU-4F4wYymHFfcfLKeO32PBZC8cwrl/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1062,7 +1062,7 @@ the force associated with the change in water velocity at the mouth of the
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KFXU-4F4wYymHFfcfLKeO32PBZC8cwrl/view)
 
 

@@ -579,7 +579,7 @@ A liquid column of height 1.0 cm and having density 0.8 g/cc, is in a closed con
 **Topic:** [[Fluid Mechanics]], [[Gravitation]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Planet (object)|Planet]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Planet (object)|Planet]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1ZaPRtUZ0rJCfN2NJHS1yNRRilq9P0gOb/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1IAjcKoWdNLOg4p9VXIbRL8V2jC0kUAJr/view)
 
@@ -596,7 +596,7 @@ Una colonna liquida di altezza di 1,0 cm e densità di 0,8 g/cc, è in un conten
 **Topic:** [[Fluid Mechanics]], [[Gravitation]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Planet (object)|Planet]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Planet (object)|Planet]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1ZaPRtUZ0rJCfN2NJHS1yNRRilq9P0gOb/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1IAjcKoWdNLOg4p9VXIbRL8V2jC0kUAJr/view)
 
@@ -1344,7 +1344,7 @@ Thermal diffusivity of a material is related to the speed with which thermal equ
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1ZaPRtUZ0rJCfN2NJHS1yNRRilq9P0gOb/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1IAjcKoWdNLOg4p9VXIbRL8V2jC0kUAJr/view)
 
@@ -1361,7 +1361,7 @@ La diffusività termica di un materiale è correlata alla velocità con cui si r
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1ZaPRtUZ0rJCfN2NJHS1yNRRilq9P0gOb/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1IAjcKoWdNLOg4p9VXIbRL8V2jC0kUAJr/view)
 
@@ -1781,7 +1781,7 @@ A box of 22.4 litre is filled with ideal gas at pressure 2.00 atm and temperatur
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1ZaPRtUZ0rJCfN2NJHS1yNRRilq9P0gOb/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1IAjcKoWdNLOg4p9VXIbRL8V2jC0kUAJr/view)
 
@@ -1798,7 +1798,7 @@ Una scatola di 22,4 litri è riempita di gas ideale a pressione di 2,00 atm e te
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1ZaPRtUZ0rJCfN2NJHS1yNRRilq9P0gOb/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1IAjcKoWdNLOg4p9VXIbRL8V2jC0kUAJr/view)
 
@@ -1853,7 +1853,7 @@ In the following circuit, voltmeter has 40 kΩ resistance and ammeter has 40 Ω 
 
 <!--fig:start-->
 **Quesito 47**
-![[NSEA_2024_Question_p10_f1.png]]
+![[_attachments/nsea_2024_question/nsea_2024_question_p10_f1.png]]
 <!--fig:end-->
 
 - (a) Larger than 4.00 V, smaller than 40.0 mA
@@ -1875,7 +1875,7 @@ Nel circuito seguente, il voltmeter ha una resistenza di 40 kΩ e l'ampimetro ha
 
 <!--fig:start-->
 **Quesito 47**
-![[NSEA_2024_Question_p10_f1.png]]
+![[_attachments/nsea_2024_question/nsea_2024_question_p10_f1.png]]
 <!--fig:end-->
 
 - a) Più grande di 4,00 V, inferiore a 40,0 mA

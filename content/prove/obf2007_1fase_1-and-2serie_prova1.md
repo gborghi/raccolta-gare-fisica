@@ -1817,7 +1817,7 @@ Conectado ao radiador através de uma mangueira, existe o tanque de expansão. E
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
 
 
@@ -1836,7 +1836,7 @@ Connesso al radiatore attraverso un tubo, c'è il serbatoio di espansione. Quest
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1854,7 +1854,7 @@ Connected to the radiator through a hose, there is an expansion tank. This tank 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
 
 

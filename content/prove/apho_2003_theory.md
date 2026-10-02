@@ -21,7 +21,7 @@ tags:
 
 In the near future we ourselves may take part in launching of a satellite which, in point of view of physics, requires only the use of simple mechanics.
 
-![[APhO_2003_theory/APhO_2003_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2003_theory/apho_2003_theory_q1_p1_f1.png]]
 
 **a)** A satellite of mass $m$ is presently circling the Earth of mass $M$ in a circular orbit of radius $R_0$. What is the speed ($u_0$) of mass $m$ in terms of $M$, $R_0$ and the universal gravitation constant $G$?
 
@@ -45,7 +45,7 @@ In the near future we ourselves may take part in launching of a satellite which,
 
 **f)**
 
-![[APhO_2003_theory/APhO_2003_theory_Q1_p2_f1.png]]
+![[prove/_attachments/apho_2003_theory/apho_2003_theory_q1_p2_f1.png]]
 
 If the satellite is slightly and instantaneously perturbed in the radial direction so that it deviates from its previously perfectly circular orbit of radius $R_1$, derive the period of its oscillation $T$ of $r$ about the mean distance $R_1$.
 
@@ -77,7 +77,7 @@ $$mr^2\frac{d}{dt}\theta = \text{constant} \qquad \cdots\cdots (2)$$
 
 In un futuro prossimo potremmo partecipare noi stessi al lancio di un satellite che, dal punto di vista fisico, richiede solo l'uso di semplici meccaniche.
 
-![[APhO_2003_theory/APhO_2003_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2003_theory/apho_2003_theory_q1_p1_f1.png]]
 
 **a) ** Un satellite di massa $m$ sta attualmente girando intorno alla Terra di massa $M$ in un'orbita circolare di raggio $R_0$. Qual è la velocità ($u_0$) della massa $m$ in termini di $M$, $R_0$ e della costante gravitazionale universale $G$?
 
@@ -101,7 +101,7 @@ In un futuro prossimo potremmo partecipare noi stessi al lancio di un satellite 
 
 **f)**
 
-![[APhO_2003_theory/APhO_2003_theory_Q1_p2_f1.png]]
+![[prove/_attachments/apho_2003_theory/apho_2003_theory_q1_p2_f1.png]]
 
 Se il satellite è leggermente e istantaneamente perturbato nella direzione radial in modo tale che si allontana dalla sua orbita perfettamente circolare di raggio $R_1$, derivare il periodo di oscillazione $T$ di $r$ circa la distanza media $R_1$.
 
@@ -140,7 +140,7 @@ In 1913 Georges Sagnac (1869-1926) considered the use of a ring resonator to sea
 
 As shown in a schematic diagram in Fig. 1, a light wave enters a circular optical fibre light path of radius $R$ at point P on the rotating platform with a uniform angular speed $\Omega$, in the clockwise direction. Here the light wave is split into two waves which travels in the opposite directions, clockwise (CW) and counter clockwise (CCW), through the ring. The refractive index of optical fibre material is $\mu$. Assuming the light traveling inside the fibre-optic cable is a smooth circular path of radius $R$.
 
-![[APhO_2003_theory/APhO_2003_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2003_theory/apho_2003_theory_q2_p1_f1.png]]
 
 **a)** Practically, the orbital speed of the ring is much less than the speed of light such that $(R\Omega)^2 \ll c^2$, find the time difference $\Delta t = t' - t''$ where $t'$ and $t''$ denote the round-trip transit time of the CW and CCW beam respectively. Give your answer in term of area $A$ enclosed by the ring.
 
@@ -160,7 +160,7 @@ As shown in a schematic diagram in Fig. 1, a light wave enters a circular optica
 
 The second scheme of the Optical Gyroscope is Ring Laser Gyroscope (RLG). This could be accomplished by the inclusion of active laser cavity into an equilateral triangular ring, of total length $L$, as illustrated in Fig.2. The laser source here will generate two amplified coherent light sources propagating in the opposite directions. *In order to sustain the laser oscillation in this triangular ring resonator, the perimeter of the ring must be equal to the integer multiple of wavelength $\lambda$.* Etalon, additional component inserted into the ring, is possible to cause frequency selective losses in the ring resonator, so that the undesired modes can be damped and suppressed.
 
-![[APhO_2003_theory/APhO_2003_theory_Q2_p2_f1.png]]
+![[prove/_attachments/apho_2003_theory/apho_2003_theory_q2_p2_f1.png]]
 
 *Fig.2: Schematic illustration of the Ring Laser Gyroscope*
 
@@ -190,7 +190,7 @@ Nel 1913 Georges Sagnac (1869-1926) considerò l'uso di un risonatore anello per
 
 Come mostrato in un diagramma schematico in Figura. 1, un'onda luminosa entra in un percorso circolare di luce in fibra ottica di raggio $R$ al punto P della piattaforma rotante con una velocità angolare uniforme $\Omega$, in senso orario. Qui l'onda luminosa è divisa in due onde che viaggiano nelle direzioni opposte, nel senso orario (CW) e nel senso contro orario (CCW), attraverso l'anello. L'indice di rifrazione del materiale in fibra ottica è $\mu$. Supponendo che la luce che viaggia all'interno del cavo a fibra ottica sia un percorso circolare liscio di raggio $R$.
 
-![[APhO_2003_theory/APhO_2003_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2003_theory/apho_2003_theory_q2_p1_f1.png]]
 
 **a) ** In pratica, la velocità orbitale dell'anello è molto inferiore alla velocità della luce, in modo che $(R\Omega)^2 \ll c^2$, trovi la differenza di tempo $\Delta t = t' - t''$ dove $t'$ e $t''$ indicano rispettivamente il tempo di transito di andata e ritorno del fascio CW e del fascio CCW. Rispondi in termini di superficie $A$ connessa all'anello.
 
@@ -210,7 +210,7 @@ Come mostrato in un diagramma schematico in Figura. 1, un'onda luminosa entra in
 
 Il secondo schema del giroscopio ottico è il giroscopio laser anello (RLG). Questo potrebbe essere ottenuto mediante l'inserimento di una cavità laser attiva in un anello triangolare equilaterale, di lunghezza totale $L$, come illustrato nella figura 2. La sorgente laser qui genererà due sorgenti di luce coerenti amplificate che si propagano nelle direzioni opposte. *Per sostenere l'oscillazione laser in questo risonatore anello triangolare, il perimetro dell'anello deve essere uguale al multiplo intero della lunghezza d'onda $\lambda$.* Etalon, componente aggiuntivo inserito nell'anello, può causare perdite selettive di frequenza nel risonatore anello, in modo da poter ammortizzare e sopprimere le modalità indesiderate.
 
-![[APhO_2003_theory/APhO_2003_theory_Q2_p2_f1.png]]
+![[prove/_attachments/apho_2003_theory/apho_2003_theory_q2_p2_f1.png]]
 
 *Fig.2: illustrazione schematica del giroscopio laser anello*
 

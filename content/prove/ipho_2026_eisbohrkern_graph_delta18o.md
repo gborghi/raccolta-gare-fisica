@@ -24,7 +24,7 @@ tags:
 Il file contiene un solo diagramma sperimentale (nessun testo del problema): la grandezza isotopica $\delta^{18}\mathrm{O}$ (in ‰, per mille) di campioni di ghiaccio è riportata in funzione della temperatura $T$ (in °C).
 
 <!--fig:start-->
-![[_attachments/IPhO_2026_eisbohrkern_graph_delta18o/IPhO_2026_eisbohrkern_graph_delta18o_p1_f1.png]]
+![[prove/_attachments/ipho_2026_eisbohrkern_graph_delta18o/ipho_2026_eisbohrkern_graph_delta18o_p1_f1.png]]
 *Diagramma di dispersione: $\delta^{18}\mathrm{O}$ (in ‰) in funzione della temperatura $T$ (in °C); correlazione positiva approssimativamente lineare.*
 <!--fig:end-->
 
@@ -46,7 +46,7 @@ Il diagramma è utilizzato per ricavare la relazione di calibrazione tra il rapp
 Il file contiene un solo diagramma sperimentale (senza testo del problema): la grandezza isotopica $\delta^{18}\mathrm{O}$ (in ‰, per mille) di campioni di ghiaccio è riportata in funzione della temperatura $T$ (in ° C).
 
 <!--fig:start-->
-![[_attachments/IPhO_2026_eisbohrkern_graph_delta18o/IPhO_2026_eisbohrkern_graph_delta18o_p1_f1.png]]
+![[prove/_attachments/ipho_2026_eisbohrkern_graph_delta18o/ipho_2026_eisbohrkern_graph_delta18o_p1_f1.png]]
 *Diagramma di dispersione: $\delta^{18}\mathrm{O}$ (in ‰) in funzione della temperatura $T$ (in °C); correlazione positiva approssimativamente lineare.*
 <!--fig:end-->
 
@@ -67,7 +67,7 @@ The Commission has also adopted a proposal for a directive on the protection of 
 The file contains a single experimental diagram (no test of the problem): the size of the isotope $\delta^{18}\mathrm{O}$ (in ‰, per thousand) of the samples of the ice and the report in function of the temperature $T$ (in ° C).
 
 <!--fig:start-->
-![[_attachments/IPhO_2026_eisbohrkern_graph_delta18o/IPhO_2026_eisbohrkern_graph_delta18o_p1_f1.png]]
+![[prove/_attachments/ipho_2026_eisbohrkern_graph_delta18o/ipho_2026_eisbohrkern_graph_delta18o_p1_f1.png]]
 The following is a diagram of the dispersion: $\delta^{18}\mathrm{O}$ (in ‰) in function of temperature $T$ (in °C); correlazione positiva approssimativamente lineare.*
 <!--fig:end-->
 

@@ -718,7 +718,7 @@ Um recipiente com $1\ \text{dm}^{3}$ de capacidade pode conter um litro de líqu
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Unit Conversion (competenza)|Unit Conversion]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1mGzofzwQwpINIEBN0STz3mNbklAOqzq_/view)
 
 
@@ -735,7 +735,7 @@ Un contenitore con $1\ \text{dm}^{3}$ di capacità può contenere un litro di li
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Unit Conversion (competenza)|Unit Conversion]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1mGzofzwQwpINIEBN0STz3mNbklAOqzq_/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -751,7 +751,7 @@ A container with $1\ \text{dm}^{3}$ capacity may contain one litre of liquid. Un
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Unit Conversion (competenza)|Unit Conversion]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1mGzofzwQwpINIEBN0STz3mNbklAOqzq_/view)
 
 

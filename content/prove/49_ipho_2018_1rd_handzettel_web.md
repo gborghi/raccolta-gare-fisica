@@ -464,7 +464,7 @@ We need them, these young scientific talents. Young people should learn to deal 
 **Topic:** [[Geometric Optics]], [[Thermodynamics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1wSo7yiIMbVg1Pm5bey5w4xocThRVXK1L/view)
 
 
@@ -537,7 +537,7 @@ Foto di stalla in vetro con scala
 **Topic:** [[Geometric Optics]], [[Thermodynamics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1wSo7yiIMbVg1Pm5bey5w4xocThRVXK1L/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -609,5 +609,5 @@ Photo of straw in glass with scale
 **Topic:** [[Geometric Optics]], [[Thermodynamics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1wSo7yiIMbVg1Pm5bey5w4xocThRVXK1L/view)

@@ -27,7 +27,7 @@ A neutral sodium atom can be well described as a core with positive charge $e$ s
 
 We start off by considering the polarization of a neutral atom that is placed in a uniform external electric field $\vec{E}_0 = E_0 \hat{u}$, where $\hat{u}$ is a unit vector and $E_0$ is the field magnitude. Then, a dipole moment $\vec{p}_0 = e\ell\hat{u} = \alpha E_0 \hat{u}$ is induced. Here, $\ell$ is distance between the negative and positive charge centers, and $\alpha$ is called *polarizability*.
 
-![[APhO_2018_theory_Q1_p1_f1.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q1_p1_f1.png]]
 
 > **Figure 1.** Electron cloud distribution. [1] Spherical distribution of electron cloud about the atomic core; [2] Shifted electron cloud (separation of $+$ and $-$ within the atom) in an electric field.
 
@@ -99,7 +99,7 @@ $$I(\rho, z) = \frac{2P}{\pi D(z)^2}\exp\!\left(-\frac{2\rho^2}{D(z)^2}\right),$
 
 where $\rho = \sqrt{x^2 + y^2}$ and the waist size is $D(z) = D_0\sqrt{1 + z^2/z_R^2}$ with $z_R = \pi D_0^2/\lambda$ denoting the Rayleigh length. The total laser power $P$ and the beam waist parameter $D_0$ determine the parameters of the optical trapping potential, one of which is the potential depth $U_{depth}$. The latter is defined by the absolute value of the local minimum of the potential energy, taking as a reference the potential energy to be zero at infinity (Fig 2b).
 
-![[APhO_2018_theory_Q1_p4_f2.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q1_p4_f2.png]]
 
 > **Figure 2.** (a) Gaussian beam. The envelope represents the beam waist $D(z)$ at the plane $z = const$. (Adopted from wikipedia); (b) Illustration of optical trap along $x$-axis created by a Gaussian beam with $\omega < \omega_0$. The dashed line corresponds to a harmonic approximation near the trap bottom.
 
@@ -135,7 +135,7 @@ In what follows we will figure out how to differentiate the condensate cloud fro
 
 The thermal gas will show an isotropic Maxwell velocity distribution even if the trap is anisotropic. In contrast, the velocity distribution of a BEC is anisotropic. More precisely, the BEC expands faster along the axis of strong confinement than along the axis of weak confinement. The expansion predominantly occurs in the radial direction, and the initially cigar-shaped condensate becomes pancake-shaped. Therefore the density profile after a long time of flight will be anisotropic and inverted with respect to the shape of the cloud in the trap.
 
-![[APhO_2018_theory_Q1_p5_f3.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q1_p5_f3.png]]
 
 > **Figure 3.** Cloud shape. [1] Before switching off the trap; [2] A very long time after switching off the trap.
 
@@ -173,7 +173,7 @@ Un atomo di sodio neutro può essere ben descritto come un nucleo con carica pos
 
 We start off by considering the polarization of a neutral atom that is placed in a uniform external electric field $\vec{E}_0 = E_0 \hat{u}$, where $\hat{u}$ is a unit vector and $E_0$ is the field magnitude. Poi viene indotto un momento diopolare $\vec{p}_0 = e\ell\hat{u} = \alpha E_0 \hat{u}$. Qui, $\ell$ è la distanza tra i centri di carica negativa e positiva, e $\alpha$ è chiamato *polarizzabilità*.
 
-![[APhO_2018_theory_Q1_p1_f1.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q1_p1_f1.png]]
 
 > **Figura 1.** Distribuzione di nuvole elettroniche. [1] Distribuzione sferica della nube di elettroni intorno al nucleo atomico; [2] Nube di elettroni spostate (separazione di $+$ e $-$ all'interno dell'atomo) in un campo elettrico.
 
@@ -245,7 +245,7 @@ $$I(\rho, z) = \frac{2P}{\pi D(z)^2}\exp\!\left(-\frac{2\rho^2}{D(z)^2}\right),$
 
 dove $\rho = \sqrt{x^2 + y^2}$ e la cintura è $D(z) = D_0\sqrt{1 + z^2/z_R^2}$ con $z_R = \pi D_0^2/\lambda$ che indica la lunghezza di Rayleigh. La potenza totale del laser $P$ e il parametro della cintura del fascio $D_0$ determinano i parametri del potenziale di intrappolamento ottico, uno dei quali è la profondità potenziale $U_{depth}$. Quest'ultimo è definito dal valore assoluto del minimo locale dell'energia potenziale, tenendo come riferimento l'energia potenziale a zero all'infinito (Figura 2b).
 
-![[APhO_2018_theory_Q1_p4_f2.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q1_p4_f2.png]]
 
 > **Figura 2.** (a) Fascio di Gaussian. La busta rappresenta la cintura del fascio $D(z)$ sul piano $z = const$. (Adottato da wikipedia); (b) Illustrazione di trappola ottica lungo l'asse $x$ creato da un fascio di Gaussian con $\omega < \omega_0$. La linea tracciata corrisponde ad un approccio armonico vicino al fondo della trappola.
 
@@ -281,7 +281,7 @@ In questo articolo, scopriremo come differenziare la nube di condensato da quell
 
 Il gas termico mostrerà una distribuzione isotròpica della velocità Maxwell anche se la trappola è anisotròpica. Al contrario, la distribuzione della velocità di un BEC è anisotropa. Più precisamente, il BEC si espanderà più velocemente lungo l'asse di confinamento forte che lungo l'asse di confinamento debole. L'espansione avviene prevalentemente nella direzione radial, e il condensato inizialmente a forma di sigaro diventa a forma di pancake. Pertanto, il profilo di densità dopo un lungo periodo di volo sarà anisotropo e invertito rispetto alla forma della nuvola nella trappola.
 
-![[APhO_2018_theory_Q1_p5_f3.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q1_p5_f3.png]]
 
 > **Figura 3.** Forma di nuvola. [1] Prima di spegnere la trappola; [2] Molto tempo dopo aver spegnato la trappola.
 
@@ -322,7 +322,7 @@ $$e^x = 1 + \frac{x}{1!} + \frac{x^2}{2!} + \frac{x^3}{3!} + \ldots$$
 
 Presently, the use of rockets is the only viable method of transporting material from Earth to Moon, Mars, and beyond. However, this method of space travel is not so efficient. A space elevator, if it could be built, would provide a completely new technology for space travel (Fig. 1). This is a long structure that is anchored at the equator and reaches a higher altitude than geostationary orbit (GEO). Geostationary orbit is a circular orbit positioned approximately 42300 km from the Earth's center and having a period of the same duration and direction as the rotation of the Earth. An object in this orbit will appear stationary relative to the rotating Earth. The modern ideas of the space elevator were first proposed by Artsutanov (Artsutanov, Y. et al., Science, 158, 946, 1967). However, only modest attention was paid to the subject until Pearson published an inspiring paper "The Orbital Tower: a Spacecraft Launcher Using the Earth's Rotational Energy" (Pearson J., Acta Astronautica. Vol. 2, p. 785, 1975). In Pearson's paper, many useful features of the space elevator were pointed out and it was made clear that for the space elevator to ever become a reality, the use of a material that is much stronger but much lighter than steel would be necessary. Due to the lack of such a material, there was little continuation of this research for many years, until the 1990s when carbon nanotubes, a new material composed of hexagonal arrays of carbon atoms, were discovered. In 2003, the Port project (http://www.port.com/) was launched to build and operate a space elevator with current technology.
 
-![[APhO_2018_theory_Q2_p1_f1.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q2_p1_f1.png]]
 
 > **Figure 1.** Space Elevator (adapted from wikipedia). (1) Earth; (2) North pole; (3) Anchored at equator; (4) Climber; (5) Counterweight; (6) Rotates with Earth; (7) Cable; (8) Geostationary orbit altitude.
 
@@ -342,21 +342,21 @@ Let us first consider a space elevator, which is a cylindrical wire with a unifo
 
 Calculation in the previous part shows that in order to build the space elevator, it is neccessary to have light materials with very high tensile strength. Carbon nanotubes are materials that meet such requirements because of strong chemical bondings between very light atoms. Two natural polymorphs of carbon are diamond and graphite. In diamond every carbon atom is surrounded by four nearest neighbor (NN) atoms to form a tetrahedron. Graphite has a layer structure. In each layer, carbon atoms are arranged in a hexagonal plane lattice with three NNs. Although diamond is known as the hardest materials, covalent bondings between carbon atoms in hexagonal layers of graphite is stronger than those between carbon atoms in diamond tetrahedra. Graphite is much softer than diamond because of the van der Waals bonding between carbon atoms of different layers, which is much weaker than covalent bonding.
 
-![[APhO_2018_theory_Q2_p2_f2.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q2_p2_f2.png]]
 
 > **Figure 2.** Graphite structure
 
-![[APhO_2018_theory_Q2_p3_f3.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q2_p3_f3.png]]
 
 > **Figure 3.** Graphene (a) and carbon nanotube (b).
 
 A monatomic layer in graphite is called graphene and has monoatomic thickness. Isolated graphene sheet is not stable and has a tendency to roll up to form carbon spheres or carbon nanotubes. The hexagonal crystal lattice of graphene is depicted in Fig. 4. The distance between two NN carbon atoms is $a = 0.142$ nm and the distance between two closest parallel bondings is $b = 0.246$ nm. Because the covalent bondings between carbon atoms in graphene are very strong, mechanical properties of carbon nanotubes are very special. They have an extremely large Young's modulus and tensile strength, as well as a very light density. Young's modulus is defined as the ratio of the stress along an axis to the strain (ratio of deformation over initial length) along that axis in the range of stress in which Hooke's law holds.
 
-![[APhO_2018_theory_Q2_p3_f4.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q2_p3_f4.png]]
 
 > **Figure 4.** Graphene.
 
-![[APhO_2018_theory_Q2_p4_f5.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q2_p4_f5.png]]
 
 > **Figure 5.** An illustration of a carbon nanotube with 9 carbon–carbon parallel bondings. Note: In this problem, there are 27 carbon–carbon parallel bondings. (1) parallel bond; (2) slanted bond; (3) tube axis.
 
@@ -418,7 +418,7 @@ $$e^x = 1 + \frac{x}{1!} + \frac{x^2}{2!} + \frac{x^3}{3!} + \ldots$$
 
 Attualmente, l'uso di razzi è l'unico metodo praticabile per trasportare materiale dalla Terra alla Luna, a Marte e oltre. Tuttavia, questo metodo di viaggio nello spazio non è così efficiente. Un ascensore spaziale, se possibile, fornire una tecnologia completamente nuova per i viaggi spaziali (Fig. 1). Si tratta di una struttura lunga ancorata all'equatore e che raggiunge un'altitudine superiore all'orbita geostazionaria (GEO). L'orbita geostazionaria è un'orbita circolare posizionata a circa 42300 km dal centro della Terra e che ha un periodo della stessa durata e direzione della rotazione della Terra. Un oggetto in questa orbita apparirà stazionario rispetto alla Terra in rotazione. Le idee moderne dell'ascensore spaziale furono proposte per la prima volta da Artsutanov (Artsutanov, Y. Il testo è stato pubblicato nel corso della sua pubblicazione. Tuttavia, solo una modesta attenzione fu rivolta al tema fino a quando Pearson non pubblicò un ispirante articolo "La Torre Orbitale: un lanciatore di astronavi che utilizza l'energia rotazionale della Terra" (Pearson J., Acta Astronautica). Vol. 2, p. 785, 1975). Nel suo articolo, Pearson ha sottolineato molte caratteristiche utili dell'ascensore spaziale e ha chiarito che per far sì che questo diventi una realtà, sarebbe necessario utilizzare un materiale molto più forte ma molto più leggero dell'acciaio. A causa della mancanza di tale materiale, per molti anni non fu possibile proseguire questa ricerca, fino ai 1990 quando furono scoperti i nanotubes di carbonio, un nuovo materiale composto da array esagonali di atomi di carbonio. Nel 2003, il progetto Porto (http://www.port.com/) è stato lanciato per costruire e gestire un ascensore spaziale con la tecnologia attuale.
 
-![[APhO_2018_theory_Q2_p1_f1.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q2_p1_f1.png]]
 
 > **Figura 1.** Ascensione spaziale (adattato da Wikipedia). (1) Terra; (2) Polo Nord; (3) Ancorato all'equatore; (4) Alpinista; (5) Contro-peso; (6) Rotato con la Terra; (7) Cable; (8) Altitudine in orbita geostazionaria.
 
@@ -438,21 +438,21 @@ Consideriamo prima un ascensore spaziale, che è un filo cilindrico con un'inter
 
 Il calcolo della parte precedente mostra che per costruire l'ascensore spaziale è necessario disporre di materiali leggeri con una resistenza alla trazione molto elevata. I nanotubi di carbonio sono materiali che soddisfano tali requisiti a causa dei forti legami chimici tra atomi molto leggeri. Due polimorfi naturali del carbonio sono il diamante e il grafite. Nel diamante ogni atomo di carbonio è circondato da quattro atomi vicini (NN) per formare un tetraedro. Il grafite ha una struttura di strati. In ogni strato, gli atomi di carbonio sono disposti in una rete a piano esagonale con tre NN. Sebbene il diamante sia noto come il materiale più duro, i legami covalenti tra gli atomi di carbonio nei strati esagonali di grafite sono più forti di quelli tra gli atomi di carbonio nei tetraedri di diamante. La grafite è molto più morbida del diamante a causa del legame di van der Waals tra atomi di carbonio di diversi strati, che è molto più debole del legame covalente.
 
-![[APhO_2018_theory_Q2_p2_f2.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q2_p2_f2.png]]
 
 > **Figura 2.** Struttura grafite
 
-![[APhO_2018_theory_Q2_p3_f3.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q2_p3_f3.png]]
 
 > **Figura 3.** Grafene (a) e nanotubi di carbonio (b).
 
 Uno strato monatomo in grafite è chiamato graphene e ha spessore monoatomo. La foglia di grafene isolata non è stabile e ha la tendenza a rotolare per formare sfere di carbonio o nanotubi di carbonio. La rete cristallina esagonale del grafene è raffigurata nella figura. 4. La distanza tra due atomi di carbonio NN è $a = 0.142$ nm e la distanza tra due legami paralleli più vicini è $b = 0.246$ nm. Poiché i legami covalenti tra gli atomi di carbonio nel graphene sono molto forti, le proprietà meccaniche dei nanotubi di carbonio sono molto speciali. Hanno un modulo di Young estremamente grande e resistenza alla trazione, oltre a una densità molto leggera. Il modulo di Young è definito come il rapporto tra la tensione lungo un asse e la tensione (ratio di deformazione sulla lunghezza iniziale) lungo quell'asse nell'intervallo di tensione in cui si trova la legge di Hooke.
 
-![[APhO_2018_theory_Q2_p3_f4.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q2_p3_f4.png]]
 
 > **Figura 4. ** Graphene.
 
-![[APhO_2018_theory_Q2_p4_f5.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q2_p4_f5.png]]
 
 > **Figura 5.** Un'illustrazione di un nanotubo di carbonio con 9 legami paralleli di carbonio. Nota: in questo problema, ci sono 27 legami paralleli di carbonio. (1) legame parallelo; (2) legame inclinato; (3) asse del tubo.
 
@@ -527,7 +527,7 @@ $$
 
 where $\alpha$ is the Seebeck coefficient of the thermocouple. $\alpha$ is considered temperature independent. The Seebeck effect is applied in thermoelectric generator to convert heat energy into electrical one.
 
-![[APhO_2018_theory_Q3_p1_f1.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q3_p1_f1.png]]
 
 > **Figure 1.** (a) direct junctions. (b) junctions via an intermediate material C. (1) Heat source (temperature $T_1$); (2) Heat sink (temperature $T_2$).
 
@@ -543,7 +543,7 @@ $\pi$ is the Peltier coefficient of this junction. The Seebeck and Peltier effec
 
 For simplicity, the heat radiation, circulation, conduction through surrounding environment are considered negligible, and heat current is supposed to be inside the thermocouple and at the heat source and the heat sink.
 
-![[APhO_2018_theory_Q3_p2_f2.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q3_p2_f2.png]]
 
 > **Figure 2.** (a) Direct junctions; (b) junctions via an intermediate material C.
 
@@ -568,7 +568,7 @@ Data for thermal and electrical properties of materials and the thermocouple stu
 
 An electric current $I$ (Figure 3) flows along a homogeneous conducting bar with length $L$, resistivity $\rho$, thermal conductivity $k$. The two ends of the bar are located at coordinates $x = 0$ and $x = L$ in the OX axis. The temperature at $x = 0$ is $T_1$, at $x = L$ is $T_2$ ($T_1 > T_2$), both temperatures are kept constant.
 
-![[APhO_2018_theory_Q3_p3_f3.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q3_p3_f3.png]]
 
 > **Figure 3**
 
@@ -599,7 +599,7 @@ Relation between Peltier and Seebeck coefficients for all temperature range is g
 
 #### A3. Thermoelectric generator
 
-![[APhO_2018_theory_Q3_p4_f4.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q3_p4_f4.png]]
 
 > **Figure 4.** Thermoelectric generator. (1) Heat source (temperature $T_1$); (2) Heat sink (temperature $T_2$).
 
@@ -653,7 +653,7 @@ The thermocouple with parameters $\alpha$, $K$, $R$ given in the question A3 is 
 
 The upper end of the thermocouple is a heat source with the initial temperature $T_1$. It is thermally isolated with ambient environment, and needs to be cooled. The lower ends of the thermocouple, A and B bars are connected to a battery and are at the temperature $T_2$ of the heat sink. The sense of the electrical current is chosen so that the Peltier heat is absorbed at the upper junction and released to the heat sink at the lower junction.
 
-![[APhO_2018_theory_Q3_p6_f5.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q3_p6_f5.png]]
 
 > **Figure 5.** Thermoelectric refrigerator. (1) Isolated heat source (temperature $T_1$); (2) Heat sink (temperature $T_2$).
 
@@ -707,7 +707,7 @@ $$
 
 dove $\alpha$ è il coefficiente Seebeck del termopare. $\alpha$ è considerato indipendente dalla temperatura. L'effetto Seebeck viene applicato nel generatore termoelettrico per convertire l'energia termica in energia elettrica.
 
-![[APhO_2018_theory_Q3_p1_f1.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q3_p1_f1.png]]
 
 > **Figura 1.** (a) giunzioni dirette. b) le unioni attraverso un materiale intermedio C. (1) Fonte di calore (temperatura $T_1$); (2) Sciacquatore di calore (temperatura $T_2$).
 
@@ -723,7 +723,7 @@ $\pi$ è il coefficiente di Peltier di questa giunzione. Gli effetti Seebeck e P
 
 Per semplicità, la radiazione di calore, la circolazione, la conduzione attraverso l'ambiente circostante sono considerate trascurabili, e la corrente di calore dovrebbe essere all'interno del termopare e alla fonte di calore e al dissipatore di calore.
 
-![[APhO_2018_theory_Q3_p2_f2.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q3_p2_f2.png]]
 
 > **Figura 2.** (a) Giunzioni dirette; (b) Giunzioni attraverso un materiale intermedio C.
 
@@ -748,7 +748,7 @@ Per il calcolo numerico, i dati sulle proprietà termiche ed elettriche dei mate
 
 Un corrente elettrica $I$ (Figura 3) scorre lungo una barra di conduttore omogenea con lunghezza $L$, resistività $\rho$, conducibilità termica $k$. Le due estremità della barra sono situate alle coordinate $x = 0$ e $x = L$ nell'asse OX. La temperatura a $x = 0$ è $T_1$, a $x = L$ è $T_2$ ($T_1 > T_2$), entrambe le temperature sono mantenute costanti.
 
-![[APhO_2018_theory_Q3_p3_f3.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q3_p3_f3.png]]
 
 > **Figura 3**
 
@@ -779,7 +779,7 @@ La relazione tra i coefficienti Peltier e Seebeck per tutte le temperature è ge
 
 #### A3. Generatore termoelettrico
 
-![[APhO_2018_theory_Q3_p4_f4.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q3_p4_f4.png]]
 
 > **Figura 4.** Generatore termoelettrico. (1) Fonte di calore (temperatura $T_1$); (2) Sciacquatore di calore (temperatura $T_2$).
 
@@ -833,7 +833,7 @@ Il termopare con i parametri $\alpha$, $K$, $R$ indicati nella domanda A3 è uti
 
 L'estremità superiore della termoparta è una fonte di calore con temperatura iniziale $T_1$. È termicamente isolato dall'ambiente circostante e deve essere raffreddato. Le estremità inferiori della termocoppia, le barre A e B sono collegate a una batteria e sono a temperatura $T_2$ del disipadore termico. Il senso della corrente elettrica è scelto in modo che il calore di Peltier sia assorbito nella giunzione superiore e rilasciato al dissipatore di calore nella giunzione inferiore.
 
-![[APhO_2018_theory_Q3_p6_f5.png]]
+![[_attachments/apho_2018_theory/apho_2018_theory_q3_p6_f5.png]]
 
 > **Figura 5.** frigorifero termoelettrico. (1) Fonte di calore isolata (temperatura $T_1$); (2) Sciacquatore di calore (temperatura $T_2$).
 

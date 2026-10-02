@@ -29,7 +29,7 @@ Suponga que el agua se calienta de una manera tal que la temperatura del agua en
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Elasticity & Materials]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VSL7g7uzQYF1F6qxaHi4WKjURxgPT-C2/view)
 
 
@@ -49,7 +49,7 @@ Supponiamo che l'acqua si riscaldasse in modo tale che la temperatura dell'acqua
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Elasticity & Materials]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VSL7g7uzQYF1F6qxaHi4WKjURxgPT-C2/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -68,7 +68,7 @@ Suppose that the water is heated in such a way that the temperature of the water
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Elasticity & Materials]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VSL7g7uzQYF1F6qxaHi4WKjURxgPT-C2/view)
 
 
@@ -100,7 +100,7 @@ c) ¿Cuál es el trabajo realizado por la fuerza externa aplicada sobre el pist�
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1VSL7g7uzQYF1F6qxaHi4WKjURxgPT-C2/view)
 
 
@@ -127,7 +127,7 @@ c) Qual è il lavoro effettuato dalla forza esterna applicata sul pistone quando
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1VSL7g7uzQYF1F6qxaHi4WKjURxgPT-C2/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -153,7 +153,7 @@ Imagine an experiment in which the following occurs: The piston is slowly pushed
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1VSL7g7uzQYF1F6qxaHi4WKjURxgPT-C2/view)
 
 
@@ -379,7 +379,7 @@ k) Explicar las observaciones y los resultados.
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1VSL7g7uzQYF1F6qxaHi4WKjURxgPT-C2/view)
 
 
@@ -415,7 +415,7 @@ k) Esprimi le osservazioni e i risultati.
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1VSL7g7uzQYF1F6qxaHi4WKjURxgPT-C2/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -450,5 +450,5 @@ The following information shall be provided:
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1VSL7g7uzQYF1F6qxaHi4WKjURxgPT-C2/view)

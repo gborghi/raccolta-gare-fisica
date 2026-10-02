@@ -24,7 +24,7 @@ fornito.
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Snell's Law (metodo)|Snell's Law]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VTSqOzp7nsrq7lX4fwT0VHVcE8hP0wQh/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-PNapXFvCdsjnGpj70KYp5Zvv8lFzXni/view)
 
@@ -40,7 +40,7 @@ I'm going to get it.
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Snell's Law (metodo)|Snell's Law]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VTSqOzp7nsrq7lX4fwT0VHVcE8hP0wQh/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-PNapXFvCdsjnGpj70KYp5Zvv8lFzXni/view)
 
@@ -59,7 +59,7 @@ in modo significativo il percorso dei raggi luminosi.
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Snell's Law (metodo)|Snell's Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VTSqOzp7nsrq7lX4fwT0VHVcE8hP0wQh/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-PNapXFvCdsjnGpj70KYp5Zvv8lFzXni/view)
 
@@ -73,7 +73,7 @@ The path of light rays is significant.
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Snell's Law (metodo)|Snell's Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VTSqOzp7nsrq7lX4fwT0VHVcE8hP0wQh/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-PNapXFvCdsjnGpj70KYp5Zvv8lFzXni/view)
 
@@ -119,7 +119,7 @@ Pag. 2 di 2
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Snell's Law (metodo)|Snell's Law]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VTSqOzp7nsrq7lX4fwT0VHVcE8hP0wQh/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-PNapXFvCdsjnGpj70KYp5Zvv8lFzXni/view)
 
@@ -160,6 +160,6 @@ Pay it. 2 di 2
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Snell's Law (metodo)|Snell's Law]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VTSqOzp7nsrq7lX4fwT0VHVcE8hP0wQh/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-PNapXFvCdsjnGpj70KYp5Zvv8lFzXni/view)

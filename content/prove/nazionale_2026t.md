@@ -406,7 +406,7 @@ Un carrello è pieno d'acqua fino a un'altezza di $80\ \mathrm{cm}$. Esso viene 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y34RZDzWQuwnPjUc1rCA1ynxGcsVXr2f/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1bOuc16yWGpi7Vz70TczIJH9Ckbl7zhi8/view)
 
@@ -422,7 +422,7 @@ The following is the maximum amount of the measurement: The following informatio
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y34RZDzWQuwnPjUc1rCA1ynxGcsVXr2f/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1bOuc16yWGpi7Vz70TczIJH9Ckbl7zhi8/view)
 

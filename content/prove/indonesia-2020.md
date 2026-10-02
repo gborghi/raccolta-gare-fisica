@@ -336,7 +336,7 @@ b. The maximum value of the tension and the velocity at that point.
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]], [[Ball (object)|Ball]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]], [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1_uxMUZkUS3uXAV-b18K-XYumNKJ0CaVQ/view)
 
 
@@ -357,7 +357,7 @@ b. Il valore massimo della tensione e della velocità in quel punto.
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]], [[Ball (object)|Ball]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]], [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1_uxMUZkUS3uXAV-b18K-XYumNKJ0CaVQ/view)
 
 

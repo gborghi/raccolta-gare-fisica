@@ -58,7 +58,7 @@ For every object (the two objects are of different shapes):
 You must present your result on graph papers and try to deduce the mathematical equations to determine the shape of the object.
 
 <!--fig:start-->
-![[APhO_2005_exp_p2_f1.png]]
+![[prove/_attachments/apho_2005_exp/apho_2005_exp_p2_f1.png]]
 *Apparatus: closed cylindrical box with the angular scale on the top side (2a) and around the circumference (2b); the unknown object (2) is inside, rotated by the knob (3); the laser pointer (4) shines onto it.*
 <!--fig:end-->
 
@@ -72,7 +72,7 @@ You must present your result on graph papers and try to deduce the mathematical 
 **Topic:** [[Geometric Optics]], [[Mathematics]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Snell's Law (metodo)|Snell's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Mirror (object)|Mirror]], [[objects/tank-container-(object)|Tank/Container]]
 
 ---
 
@@ -120,7 +120,7 @@ Per ogni oggetto (i due oggetti hanno forme diverse):
 Dovete presentare il risultato su carta grafica e cercare di dedurre le equazioni matematiche per determinare la forma dell'oggetto.
 
 <!--fig:start-->
-![[APhO_2005_exp_p2_f1.png]]
+![[prove/_attachments/apho_2005_exp/apho_2005_exp_p2_f1.png]]
 *Apparecchio: scatola cilindrica chiusa con la scala angolare sul lato superiore (2a) e intorno alla circonferenza (2b); l'oggetto sconosciuto (2) è all'interno, girato dal pulsante (3); il puntatore laser (4) lo illumina.*
 <!--fig:end-->
 
@@ -134,7 +134,7 @@ Dovete presentare il risultato su carta grafica e cercare di dedurre le equazion
 **Topic:** [[Geometric Optics]], [[Mathematics]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Snell's Law (metodo)|Snell's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Mirror (object)|Mirror]], [[objects/tank-container-(object)|Tank/Container]]
 
 ---
 
@@ -191,7 +191,7 @@ In this experiment error analysis is required.
 7. Graphic papers (10 pieces)
 
 <!--fig:start-->
-![[APhO_2005_exp_p5_f1.png]]
+![[prove/_attachments/apho_2005_exp/apho_2005_exp_p5_f1.png]]
 *Doughnut-shaped magnet: the poles (N and S) are on the flat faces, with thickness $t_M$ measured along the axis.*
 <!--fig:end-->
 
@@ -217,7 +217,7 @@ This problem is divided into two sections:
 #### (A) Setup
 
 <!--fig:start-->
-![[APhO_2005_exp_p6_f1.png]]
+![[prove/_attachments/apho_2005_exp/apho_2005_exp_p6_f1.png]]
 *Figure 1. Inclined plane setup without aluminum bars.*
 <!--fig:end-->
 
@@ -226,7 +226,7 @@ Roll down the magnet along the track as shown. *Choose a reasonably small inclin
 **[1]** As the magnet is very strong, it may experience significant torque due to interaction with earth's magnetic field. It will twist the magnet as it rolls down and may cause significant friction with the track. *What will you do to minimize this torque?* Explain it using diagram(s). **[1.0 pt]**
 
 <!--fig:start-->
-![[APhO_2005_exp_p7_f1.png]]
+![[prove/_attachments/apho_2005_exp/apho_2005_exp_p7_f1.png]]
 *Figure 2. A complete setup with aluminum bars (with the front-view inset showing the magnet between two aluminum bars, each at distance $d$ from the center of the magnet).*
 <!--fig:end-->
 
@@ -300,7 +300,7 @@ In questo esperimento è richiesta l'analisi degli errori.
 7. Paperi grafici (10 pezzi)
 
 <!--fig:start-->
-![[APhO_2005_exp_p5_f1.png]]
+![[prove/_attachments/apho_2005_exp/apho_2005_exp_p5_f1.png]]
 *Magnete a forma di nocciolo: i poli (N e S) sono su facce piatte, con spessore $t_M$ misurato lungo l'asse.*
 <!--fig:end-->
 
@@ -326,7 +326,7 @@ Questo problema è diviso in due sezioni:
 #### (A) Impostazione
 
 <!--fig:start-->
-![[APhO_2005_exp_p6_f1.png]]
+![[prove/_attachments/apho_2005_exp/apho_2005_exp_p6_f1.png]]
 *Figura 1. Dispositivo di piano inclinato senza barre di alluminio.*
 <!--fig:end-->
 
@@ -335,7 +335,7 @@ Rolle il magnete lungo la pista come mostrato. *Scelta un angolo di inclinazione
 ** [1] ** Poiché il magnete è molto forte, può sperimentare una coppia significativa a causa dell'interazione con il campo magnetico terrestre. Tornerà il magnete mentre ruota verso il basso e può causare un significativo attrito con la pista. *Cosa farai per ridurre al minimo questa coppia?* Spiegalo usando diagrammi(). **[1.0 pt]**
 
 <!--fig:start-->
-![[APhO_2005_exp_p7_f1.png]]
+![[prove/_attachments/apho_2005_exp/apho_2005_exp_p7_f1.png]]
 *Figura 2. Un'impostazione completa con barre di alluminio (con l'inserimento della vista anteriore che mostra il magnete tra due barre di alluminio, ciascuna a distanza $d$ dal centro del magnete).*
 <!--fig:end-->
 

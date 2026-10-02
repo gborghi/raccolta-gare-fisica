@@ -35,7 +35,7 @@ As shown in the picture, a ball is attached to a ceiling and a wall with massles
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1i1Wm-afXgIe86OCVAjpYX8itQpVKf6m3/view)
 
 
@@ -57,7 +57,7 @@ Come si vede sulla foto, una palla è attaccata al soffitto e al muro con corde 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1i1Wm-afXgIe86OCVAjpYX8itQpVKf6m3/view)
 
 
@@ -694,7 +694,7 @@ Three identical closed containers are filled with gases at the same temperature.
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1i1Wm-afXgIe86OCVAjpYX8itQpVKf6m3/view)
 
 
@@ -711,7 +711,7 @@ Tre contenitori chiusi identici sono riempiti di gas alla stessa temperatura. Il
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1i1Wm-afXgIe86OCVAjpYX8itQpVKf6m3/view)
 
 
@@ -1226,7 +1226,7 @@ Imagine a tall column of water on the Moon, maintained at a temperature of $50^\
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Gravitation]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1i1Wm-afXgIe86OCVAjpYX8itQpVKf6m3/view)
 
 
@@ -1246,5 +1246,5 @@ Immaginate una lunga colonna d'acqua sulla Luna, mantenuta a una temperatura di 
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Gravitation]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1i1Wm-afXgIe86OCVAjpYX8itQpVKf6m3/view)

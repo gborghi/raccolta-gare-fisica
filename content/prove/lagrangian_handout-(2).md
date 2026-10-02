@@ -24,7 +24,7 @@ tags:
 **Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Manometer (object)|Manometer]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Manometer (object)|Manometer]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
 
 
@@ -35,7 +35,7 @@ Il problema 1 è stato risolto in base al metodo di valutazione del rischio. Un 
 **Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Manometer (object)|Manometer]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Manometer (object)|Manometer]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
 
 
@@ -51,7 +51,7 @@ Il problema 1 è stato risolto in base al metodo di valutazione del rischio. Un 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
 
 
@@ -62,7 +62,7 @@ Il problema 1 è stato risolto in base al metodo di valutazione del rischio. Un 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
 
 
@@ -83,7 +83,7 @@ Il problema 1 è stato risolto in base al metodo di valutazione del rischio. Un 
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Wedge (object)|Wedge]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[Block (object)|Block]], [[Wedge (object)|Wedge]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
 
 
@@ -99,7 +99,7 @@ Il problema 1 è stato risolto in base al metodo di valutazione del rischio. Un 
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Wedge (object)|Wedge]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[Block (object)|Block]], [[Wedge (object)|Wedge]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
 
 
@@ -295,7 +295,7 @@ b) L'intero pendolo è spostato a distanza orizzontale $r \ll R$ dal centro dell
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Wedge (object)|Wedge]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Wedge (object)|Wedge]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
 
 
@@ -311,7 +311,7 @@ Il problema 8 è stato risolto con la formulazione di "MSK1/" (1971 IPhO). Un cu
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Wedge (object)|Wedge]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Wedge (object)|Wedge]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
 
 

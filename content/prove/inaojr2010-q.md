@@ -405,7 +405,7 @@ If we throw a ball in a shallow water tank, propagation velocity of ripples on s
 **Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]]
 **Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Ball (object)|Ball]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1ylbegeOjDzqLAMwXYv7yr9gk3ZKiUIYR/view)
 
 
@@ -423,7 +423,7 @@ Se lanciamo una palla in un serbatoio di acqua poco profonda, la velocità di pr
 **Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]]
 **Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Ball (object)|Ball]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1ylbegeOjDzqLAMwXYv7yr9gk3ZKiUIYR/view)
 
 
@@ -649,7 +649,7 @@ Study the following image of the night sky (bigger version is printed in your an
 
 <!--fig:start-->
 **Quesito 17**
-![[inaoJr2010-Q_p6_f1.png]]
+![[_attachments/inaojr2010-q/inaojr2010-q_p6_f1.png]]
 <!--fig:end-->
 
 (a) Mark all the four directions on the map. [2]
@@ -678,7 +678,7 @@ Studiare la seguente immagine del cielo notturno (la versione più grande è sta
 
 <!--fig:start-->
 **Quesito 17**
-![[inaoJr2010-Q_p6_f1.png]]
+![[_attachments/inaojr2010-q/inaojr2010-q_p6_f1.png]]
 <!--fig:end-->
 
 a) Segna tutte e quattro le direzioni della mappa. [2]
@@ -753,7 +753,7 @@ Sketch approximate graphs for the following situations:
 
 <!--fig:start-->
 **Quesito 19**
-![[inaoJr2010-Q_p7_f1.png]]
+![[_attachments/inaojr2010-q/inaojr2010-q_p7_f1.png]]
 <!--fig:end-->
 
 Sketch the graph of reading on the spring balance as a function of $h$. [4]
@@ -767,7 +767,7 @@ A typical primary mirror used in a Newtonian telescope is a concave mirror. Sket
 **Topic:** [[Fluid Mechanics]], [[Geometric Optics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Spring (object)|Spring]], [[Mirror (object)|Mirror]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Spring (object)|Spring]], [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1ylbegeOjDzqLAMwXYv7yr9gk3ZKiUIYR/view)
 
 
@@ -779,7 +779,7 @@ Sketta grafici approssimativi per le seguenti situazioni:
 
 <!--fig:start-->
 **Quesito 19**
-![[inaoJr2010-Q_p7_f1.png]]
+![[_attachments/inaojr2010-q/inaojr2010-q_p7_f1.png]]
 <!--fig:end-->
 
 Segnare il grafico di lettura della bilancia di molla in funzione di $h$. [4]
@@ -793,5 +793,5 @@ Uno specchio tipico primario utilizzato in un telescopio newtoniano è uno specc
 **Topic:** [[Fluid Mechanics]], [[Geometric Optics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Spring (object)|Spring]], [[Mirror (object)|Mirror]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Spring (object)|Spring]], [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1ylbegeOjDzqLAMwXYv7yr9gk3ZKiUIYR/view)

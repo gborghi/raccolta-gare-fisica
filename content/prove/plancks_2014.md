@@ -37,7 +37,7 @@ The electrical potential energy is indicated by $U(x, y)$ and $p_x = -i\hbar\,\p
 **[2]** *4 points* Derive, for this case of uniform potential $U_0$, the relation between the energy $E$ and the wave vector components $k_x, k_y$. Make a plot of $E$ as a function of $k \equiv \sqrt{k_x^2 + k_y^2}$. The singularity at $k = 0$ is called "conical point" or "Dirac point", and is a unique feature of graphene.
 
 <!--fig:start-->
-![[PLANCKS_2014_p6_f1.png]]
+![[_attachments/plancks_2014/plancks_2014_p6_f1.png]]
 *Figure 1: Plot of potential $U(x)$.*
 <!--fig:end-->
 
@@ -85,7 +85,7 @@ L'energia potenziale elettrica è indicata con $U(x, y)$ e $p_x = -i\hbar\,\part
 **[2]** *4 punti* Ricava, per questo caso di potenziale uniforme $U_0$, la relazione tra l'energia $E$ e le componenti del vettore d'onda $k_x, k_y$. Traccia un grafico di $E$ in funzione di $k \equiv \sqrt{k_x^2 + k_y^2}$. La singolarità in $k = 0$ è chiamata "punto conico" o "punto di Dirac", ed è una caratteristica peculiare del grafene.
 
 <!--fig:start-->
-![[PLANCKS_2014_p6_f1.png]]
+![[_attachments/plancks_2014/plancks_2014_p6_f1.png]]
 *Figure 1: Plot of potential $U(x)$.*
 <!--fig:end-->
 
@@ -121,7 +121,7 @@ con $C$ una costante arbitraria e $s$ uguale a $+1$ o $-1$.
 **Newton's Cradle** — *Jan van Ruitenbeek, Leiden University*
 
 <!--fig:start-->
-![[PLANCKS_2014_p7_f1.png]]
+![[_attachments/plancks_2014/plancks_2014_p7_f1.png]]
 *Figure 2: Newton's Cradle.*
 <!--fig:end-->
 
@@ -143,7 +143,7 @@ Newton's cradle is a well-known gadget and physics demonstration. It is usually 
 **Cradle di Newton**  *Jan van Ruitenbeek, Università di Leiden*
 
 <!--fig:start-->
-![[PLANCKS_2014_p7_f1.png]]
+![[_attachments/plancks_2014/plancks_2014_p7_f1.png]]
 *Figura 2: Culla di Newton.*
 <!--fig:end-->
 
@@ -172,7 +172,7 @@ La culla di Newton è un'apparecchiatura ben nota e una dimostrazione di fisica.
 A 2-dimensional electron gas (2DEG) can exist at the interface between semiconductors. One example where this naturally occurs is at the AlGaAs-GaAs interface. Due to the bending of the energy bands, the potential energy landscape has the shape as shown by the dashed line in Figure 3. To first order, the area where the 2DEG forms, can be approximated by a triangular shaped potential well: $V(x < 0) = \infty$ and $V(x > 0) = Fx$, where $F$ is a proportionality constant which has dimensions of force. It will be of the order of $10\ \frac{\mathrm{meV}}{\mathrm{nm}}$, or $1\ \mathrm{pN}$. In this case, the problem can be solved analytically.
 
 <!--fig:start-->
-![[PLANCKS_2014_p8_f1.png]]
+![[_attachments/plancks_2014/plancks_2014_p8_f1.png]]
 *Figure 3: Schematic illustration of the potential energy landscape of a AlGaAs-GaAs interface (black dashed line). The area where the 2DEG is formed can be approximated by a triangular barrier (gray solid line).*
 <!--fig:end-->
 
@@ -211,7 +211,7 @@ $$
 Un gas di elettroni bidimensionale (2DEG) può esistere all'interfaccia tra semiconduttori. Un esempio in cui ciò avviene naturalmente è l'interfaccia AlGaAs-GaAs. A causa della curvatura delle bande energetiche, il profilo di energia potenziale ha la forma mostrata dalla linea tratteggiata nella Figura 3. In prima approssimazione, la regione in cui si forma il 2DEG può essere approssimata da una buca di potenziale a forma triangolare: $V(x < 0) = \infty$ e $V(x > 0) = Fx$, dove $F$ è una costante di proporzionalità che ha le dimensioni di una forza. Essa sarà dell'ordine di $10\ \frac{\mathrm{meV}}{\mathrm{nm}}$, ovvero $1\ \mathrm{pN}$. In questo caso, il problema può essere risolto analiticamente.
 
 <!--fig:start-->
-![[PLANCKS_2014_p8_f1.png]]
+![[_attachments/plancks_2014/plancks_2014_p8_f1.png]]
 *Figure 3: Schematic illustration of the potential energy landscape of a AlGaAs-GaAs interface (black dashed line). The area where the 2DEG is formed can be approximated by a triangular barrier (gray solid line).*
 <!--fig:end-->
 
@@ -253,7 +253,7 @@ $$
 **Exercises on Particle Physics** — *André Mischke, Utrecht University*
 
 <!--fig:start-->
-![[PLANCKS_2014_p9_f1.png]]
+![[_attachments/plancks_2014/plancks_2014_p9_f1.png]]
 *Figure 4: Tracks of particles from a collision of lead atomic nuclei, reconstructed by the ALICE experiment at the CERN Large Hadron Collider.*
 <!--fig:end-->
 
@@ -327,7 +327,7 @@ $$
 **Esercizi di fisica delle particelle** — *André Mischke, Utrecht University*
 
 <!--fig:start-->
-![[PLANCKS_2014_p9_f1.png]]
+![[_attachments/plancks_2014/plancks_2014_p9_f1.png]]
 *Figure 4: Tracks of particles from a collision of lead atomic nuclei, reconstructed by the ALICE experiment at the CERN Large Hadron Collider.*
 <!--fig:end-->
 
@@ -580,7 +580,7 @@ Suggerimento: considera una cosiddetta coppia di Bell, con due particelle di spi
 Some two-dimensional problems in statistical physics, such as a system of polymers, and the Ising, XY and Heisenberg models, can be formulated in terms of a sum on all configurations of non-intersecting loops in a plane. In the study of these loop models, the following problem occurs.
 
 <!--fig:start-->
-![[PLANCKS_2014_p14_f1.png]]
+![[_attachments/plancks_2014/plancks_2014_p14_f1.png]]
 *Figure 5: An example of non-intersecting loops in a plane.*
 <!--fig:end-->
 
@@ -618,7 +618,7 @@ and the recursion found under part **[1]** to derive an equation that $P(x)$ mus
 Alcuni problemi bidimensionali nella fisica statistica, come un sistema di polimeri, e i modelli Ising, XY e Heisenberg, possono essere formulati in termini di somma su tutte le configurazioni di cicli non intersezionati in un piano. Nell'esame di questi modelli di loop si presenta il seguente problema.
 
 <!--fig:start-->
-![[PLANCKS_2014_p14_f1.png]]
+![[_attachments/plancks_2014/plancks_2014_p14_f1.png]]
 *Figura 5: Un esempio di cicli non incrociati in un piano.*
 <!--fig:end-->
 
@@ -661,7 +661,7 @@ e la ricorsione trovata nella parte **[1]** per derivare un'equazione che $P(x)$
 As a consequence of climate fluctuations, glaciers vary in length. We can study the sensitivity of glaciers to climate change with a simple model.
 
 <!--fig:start-->
-![[PLANCKS_2014_p16_f1.png]]
+![[_attachments/plancks_2014/plancks_2014_p16_f1.png]]
 *Figure 6: A sketch of a glacier with constant slope.*
 <!--fig:end-->
 
@@ -700,7 +700,7 @@ Assume for part **[4]** the simple case that the glacier terminus does not reach
 A causa delle fluttuazioni climatiche, i ghiacciai variano di lunghezza. Possiamo studiare la sensibilità dei ghiacciai ai cambiamenti climatici con un modello semplice.
 
 <!--fig:start-->
-![[PLANCKS_2014_p16_f1.png]]
+![[_attachments/plancks_2014/plancks_2014_p16_f1.png]]
 *Figura 6: Sketta di un ghiacciaio con pendenza costante.*
 <!--fig:end-->
 
@@ -744,7 +744,7 @@ Come cambia questa sensibilità quando le temperature scendono e il fronte del g
 We all know that there are 24 hours in a day. If we look more closely, it turns out, this is not quite correct: a true solar day in late December is up to half a minute longer than the expected 24 hours, while in mid-September we are all shortchanged 20 seconds! Only averaged over a year, a "mean" solar day measures the regulation 24 hours.
 
 <!--fig:start-->
-![[PLANCKS_2014_p18_f1.png]]
+![[_attachments/plancks_2014/plancks_2014_p18_f1.png]]
 *Figure 7: Position of the sun at 12:00 noon GMT as seen at the Royal Observatory, Greenwich, UK (lat $51.5^\circ$N, long $0^\circ$W); Earth's last perihelion (147 Gm) occurred on January 4th, 2014, and its next aphelion (152 Gm) will be on July 4th.*
 <!--fig:end-->
 
@@ -757,7 +757,7 @@ To tackle this problem, I need to tell you what I mean by a "true" solar day: it
 **[3]** *4 points* The equation of time is caused by two different effects, both comparable in magnitude: the eccentricity of Earth's orbit and the obliquity ("tilt") of its axis. Explain how those two effects influence the length of a true solar day during a year, and sketch their independent contributions to the equation of time.
 
 <!--fig:start-->
-![[PLANCKS_2014_p19_f1.png]]
+![[_attachments/plancks_2014/plancks_2014_p19_f1.png]]
 *Figure 8: Axis Tilt (Obliquity) of Earth.*
 <!--fig:end-->
 
@@ -775,7 +775,7 @@ To tackle this problem, I need to tell you what I mean by a "true" solar day: it
 Sappiamo tutti che ci sono 24 ore al giorno. Se si guarda più da vicino, si scopre che non è proprio così: un vero giorno solare alla fine di dicembre è fino a mezzo minuto più lungo delle 24 ore previste, mentre a metà settembre ci mancano tutti 20 secondi! Solo una giornata solare "media" misura la regolazione di 24 ore.
 
 <!--fig:start-->
-![[PLANCKS_2014_p18_f1.png]]
+![[_attachments/plancks_2014/plancks_2014_p18_f1.png]]
 *Figura 7: posizione del sole alle 12:00 mezzogiorno GMT osservata presso l'Osservatorio Reale di Greenwich, Regno Unito (lat $51.5^\circ$N, lungo $0^\circ$W); l'ultimo perihelione della Terra (147 Gm) si è verificato il 4 gennaio 2014, e il suo prossimo aphelione (152 Gm) sarà il 4 luglio.*
 <!--fig:end-->
 
@@ -788,7 +788,7 @@ Per affrontare questo problema, devo dirvi cosa intendo con un "vero" giorno sol
 **[3]** *4 punti* L'equazione del tempo è causata da due effetti diversi, entrambi comparabili in magnitudine: l'escentricità dell'orbita terrestre e l'inclinazione ("inclinazione") del suo asse. Spiegate come questi due effetti influenzino la durata di un vero giorno solare durante un anno e descrivete il loro contributo indipendente all'equazione del tempo.
 
 <!--fig:start-->
-![[PLANCKS_2014_p19_f1.png]]
+![[_attachments/plancks_2014/plancks_2014_p19_f1.png]]
 *Figura 8: Tilt dell'asse (Obliquità) della Terra.*
 <!--fig:end-->
 
@@ -809,7 +809,7 @@ Per affrontare questo problema, devo dirvi cosa intendo con un "vero" giorno sol
 **Dzyaloshinskii-Moriya interactions and skyrmions** — *Rembert Duine, Utrecht University*
 
 <!--fig:start-->
-![[PLANCKS_2014_p20_f1.png]]
+![[_attachments/plancks_2014/plancks_2014_p20_f1.png]]
 *Figure 9: Example of a magnetic skyrmion. The magnetization points up at the skyrmion core and down away from the core.*
 <!--fig:end-->
 
@@ -890,7 +890,7 @@ $$
 **Interazioni di Dzyaloshinskii-Moriya e skyrmioni** — *Rembert Duine, Utrecht University*
 
 <!--fig:start-->
-![[PLANCKS_2014_p20_f1.png]]
+![[_attachments/plancks_2014/plancks_2014_p20_f1.png]]
 *Figure 9: Example of a magnetic skyrmion. The magnetization points up at the skyrmion core and down away from the core.*
 <!--fig:end-->
 

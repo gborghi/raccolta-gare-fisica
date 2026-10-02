@@ -398,7 +398,7 @@ resistance, as the water drains out the car will:
 **Topic:** [[Conservation of Momentum]], [[Newtonian Mechanics]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cart (object)|Cart]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1UvrYokqW_Vj6Iy1UadhVyGzv8TSxrEu5/view)
 
 
@@ -417,7 +417,7 @@ resistenza, come l'acqua drena fuori la macchina:
 **Topic:** [[Conservation of Momentum]], [[Newtonian Mechanics]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cart (object)|Cart]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1UvrYokqW_Vj6Iy1UadhVyGzv8TSxrEu5/view)
 
 

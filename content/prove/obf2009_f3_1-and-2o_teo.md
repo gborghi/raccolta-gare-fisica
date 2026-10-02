@@ -779,7 +779,7 @@ Uma caixa isolante é dividida em duas partes A e B com volumes constantes por u
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1ZBT6wUG5iSrTRUbr6qOCF4FWkg_Cbd-0/view)
 
 
@@ -799,7 +799,7 @@ Una scatola isolante è divisa in due parti A e B con volumi costanti da un muro
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1ZBT6wUG5iSrTRUbr6qOCF4FWkg_Cbd-0/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -818,7 +818,7 @@ Insulated box divided into A and B (Figure 12)
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1ZBT6wUG5iSrTRUbr6qOCF4FWkg_Cbd-0/view)
 
 

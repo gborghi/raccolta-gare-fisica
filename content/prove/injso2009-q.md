@@ -208,7 +208,7 @@ Which of the given velocity–time graphs (see box) matches the given accelerati
 
 <!--fig:start-->
 **Quesito 6**
-![[injso2009-Q_p2_f1.png]]
+![[_attachments/injso2009-q/injso2009-q_p2_f1.png]]
 <!--fig:end-->
 
 - (a) A
@@ -229,7 +229,7 @@ Quale dei grafici dati di velocitàtempo (vedi casella) corrisponde al grafico d
 
 <!--fig:start-->
 **Quesito 6**
-![[injso2009-Q_p2_f1.png]]
+![[_attachments/injso2009-q/injso2009-q_p2_f1.png]]
 <!--fig:end-->
 
 - (a) A
@@ -255,7 +255,7 @@ A ball is thrown vertically upwards. Ignore air resistance. Take the upward moti
 
 <!--fig:start-->
 **Quesito 7**
-![[injso2009-Q_p2_f2.png]]
+![[_attachments/injso2009-q/injso2009-q_p2_f2.png]]
 <!--fig:end-->
 
 - (a) A
@@ -276,7 +276,7 @@ Una palla viene lanciata verticalmente verso l'alto. Ignora la resistenza dell'a
 
 <!--fig:start-->
 **Quesito 7**
-![[injso2009-Q_p2_f2.png]]
+![[_attachments/injso2009-q/injso2009-q_p2_f2.png]]
 <!--fig:end-->
 
 - (a) A
@@ -302,7 +302,7 @@ The distance '$v$' of the real image formed by a convex lens is measured for var
 
 <!--fig:start-->
 **Quesito 8**
-![[injso2009-Q_p2_f3.png]]
+![[_attachments/injso2009-q/injso2009-q_p2_f3.png]]
 <!--fig:end-->
 
 - (a)
@@ -323,7 +323,7 @@ La distanza "$v$" dell'immagine reale formata da una lente convexa è misurata p
 
 <!--fig:start-->
 **Quesito 8**
-![[injso2009-Q_p2_f3.png]]
+![[_attachments/injso2009-q/injso2009-q_p2_f3.png]]
 <!--fig:end-->
 
 - (a)
@@ -349,7 +349,7 @@ A graph given, shows the variation of velocity and time of two bodies A and B. C
 
 <!--fig:start-->
 **Quesito 9**
-![[injso2009-Q_p3_f1.png]]
+![[_attachments/injso2009-q/injso2009-q_p3_f1.png]]
 <!--fig:end-->
 
 - (a) Average velocities of both are same since they have same initial and final velocities
@@ -370,7 +370,7 @@ Un grafico dato, mostra la variazione della velocità e del tempo di due corpi A
 
 <!--fig:start-->
 **Quesito 9**
-![[injso2009-Q_p3_f1.png]]
+![[_attachments/injso2009-q/injso2009-q_p3_f1.png]]
 <!--fig:end-->
 
 - (a) Le velocità medie di entrambe sono uguali in quanto hanno le stesse velocità iniziali e finali
@@ -396,7 +396,7 @@ Two identical balls are released simultaneously from equal heights $h$. Ball A i
 
 <!--fig:start-->
 **Quesito 10**
-![[injso2009-Q_p3_f2.png]]
+![[_attachments/injso2009-q/injso2009-q_p3_f2.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]]
@@ -412,7 +412,7 @@ Due palle identiche vengono rilasciate contemporaneamente da altezza uguale $h$.
 
 <!--fig:start-->
 **Quesito 10**
-![[injso2009-Q_p3_f2.png]]
+![[_attachments/injso2009-q/injso2009-q_p3_f2.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]]
@@ -470,7 +470,7 @@ In the circuit shown, the total current supplied by the battery is
 
 <!--fig:start-->
 **Quesito 12**
-![[injso2009-Q_p4_f1.png]]
+![[_attachments/injso2009-q/injso2009-q_p4_f1.png]]
 <!--fig:end-->
 
 - (a) $1\,\mathrm{A}$
@@ -491,7 +491,7 @@ Nel circuito mostrato, la corrente totale fornita dalla batteria è
 
 <!--fig:start-->
 **Quesito 12**
-![[injso2009-Q_p4_f1.png]]
+![[_attachments/injso2009-q/injso2009-q_p4_f1.png]]
 <!--fig:end-->
 
 - (a) $1\,\mathrm{A}$
@@ -708,7 +708,7 @@ A sealed container at a certain temperature is half full of water. The temperatu
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1-UqETHOvkKHcqDxo0uxanDgCnDsC0tEJ/view)
 
 
@@ -724,7 +724,7 @@ Un contenitore sigillato a una certa temperatura è mezzo pieno di acqua. La tem
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1-UqETHOvkKHcqDxo0uxanDgCnDsC0tEJ/view)
 
 
@@ -1575,7 +1575,7 @@ The cells in the following figure were all taken from the same individual (a mam
 
 <!--fig:start-->
 **Quesito 41**
-![[injso2009-Q_p8_f1.png]]
+![[_attachments/injso2009-q/injso2009-q_p8_f1.png]]
 <!--fig:end-->
 
 - (a) (a) Meiotic Metaphase I, (b) Mitotic Anaphase, (c) Meiotic Anaphase II
@@ -1596,7 +1596,7 @@ Le cellule della figura seguente sono state tutte prese dallo stesso individuo (
 
 <!--fig:start-->
 **Quesito 41**
-![[injso2009-Q_p8_f1.png]]
+![[_attachments/injso2009-q/injso2009-q_p8_f1.png]]
 <!--fig:end-->
 
 - a) metafase meiotica I, b) anafase meiotica, c) anafase meiotica II
@@ -1659,7 +1659,7 @@ The sense of taste is normally caused by the stimulation of chemoreceptors in th
 
 <!--fig:start-->
 **Quesito 43**
-![[injso2009-Q_p9_f1.png]]
+![[_attachments/injso2009-q/injso2009-q_p9_f1.png]]
 <!--fig:end-->
 
 Identify which taste was felt most strongly when the tip of the tongue was cooled:
@@ -1682,7 +1682,7 @@ Il senso del gusto è normalmente causato dalla stimolazione di chemioressitori 
 
 <!--fig:start-->
 **Quesito 43**
-![[injso2009-Q_p9_f1.png]]
+![[_attachments/injso2009-q/injso2009-q_p9_f1.png]]
 <!--fig:end-->
 
 Indicare quale sapore si è sentito più forte quando la punta della lingua è stata raffreddata:
@@ -2307,7 +2307,7 @@ When the number of two species of aquatic organisms was monitored over time, the
 
 <!--fig:start-->
 **Quesito 59**
-![[injso2009-Q_p12_f1.png]]
+![[_attachments/injso2009-q/injso2009-q_p12_f1.png]]
 <!--fig:end-->
 
 - (a) One organism is the food of the other.
@@ -2328,7 +2328,7 @@ Quando il numero di due specie di organismi acquatici è stato monitorato nel te
 
 <!--fig:start-->
 **Quesito 59**
-![[injso2009-Q_p12_f1.png]]
+![[_attachments/injso2009-q/injso2009-q_p12_f1.png]]
 <!--fig:end-->
 
 - a) Un organismo è il cibo dell'altro.
@@ -2354,7 +2354,7 @@ A plant cell suspended in a test solution shows the following change in morpholo
 
 <!--fig:start-->
 **Quesito 60**
-![[injso2009-Q_p12_f2.png]]
+![[_attachments/injso2009-q/injso2009-q_p12_f2.png]]
 <!--fig:end-->
 
 - (a) Hypertonic containing sodium chloride.
@@ -2375,7 +2375,7 @@ Una cellula vegetale sospesa in una soluzione di prova mostra il seguente cambia
 
 <!--fig:start-->
 **Quesito 60**
-![[injso2009-Q_p12_f2.png]]
+![[_attachments/injso2009-q/injso2009-q_p12_f2.png]]
 <!--fig:end-->
 
 - a) ipertonico contenente cloruro di sodio.
@@ -2438,7 +2438,7 @@ A second harder ball of identical mass to the first also bounces of the wall wit
 
 <!--fig:start-->
 **Quesito 62**
-![[injso2009-Q_p13_f1.png]]
+![[_attachments/injso2009-q/injso2009-q_p13_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]]
@@ -2456,7 +2456,7 @@ Una seconda palla più dura di massa identica alla prima rimbalza anche sulla pa
 
 <!--fig:start-->
 **Quesito 62**
-![[injso2009-Q_p13_f1.png]]
+![[_attachments/injso2009-q/injso2009-q_p13_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]]
@@ -2477,7 +2477,7 @@ A $100.0$ g sample of $\mathrm{NaCl}$(s) has an initial temperature of $0\,°\ma
 
 <!--fig:start-->
 **Quesito 63**
-![[injso2009-Q_p13_f2.png]]
+![[_attachments/injso2009-q/injso2009-q_p13_f2.png]]
 <!--fig:end-->
 
 **Part I.** Determine the temperature range over which the entire sample is a liquid. ($1$ mark)
@@ -2514,7 +2514,7 @@ Un campione $100.0$ g di $\mathrm{NaCl}$s) ha una temperatura iniziale di $0\,°
 
 <!--fig:start-->
 **Quesito 63**
-![[injso2009-Q_p13_f2.png]]
+![[_attachments/injso2009-q/injso2009-q_p13_f2.png]]
 <!--fig:end-->
 
 **Parte I.** Determina la gamma di temperature sopra la quale l'intero campione è un liquido. (Marchio $1$)
@@ -2621,7 +2621,7 @@ b) Anaerobic respiration which operates faster than aerobic respiration and prov
 
 <!--fig:start-->
 **Quesito 65**
-![[injso2009-Q_p15_f1.png]]
+![[_attachments/injso2009-q/injso2009-q_p15_f1.png]]
 <!--fig:end-->
 
 **Table 1**
@@ -2677,7 +2677,7 @@ b) respirazione anaerobica che opera più velocemente della respirazione aerobic
 
 <!--fig:start-->
 **Quesito 65**
-![[injso2009-Q_p15_f1.png]]
+![[_attachments/injso2009-q/injso2009-q_p15_f1.png]]
 <!--fig:end-->
 
 **Tabella 1**
@@ -2732,7 +2732,7 @@ f) Quale reazione della tabella 1 descrive l'approvvigionamento di energia media
 
 <!--fig:start-->
 **Quesito 66**
-![[injso2009-Q_p16_f1.png]]
+![[_attachments/injso2009-q/injso2009-q_p16_f1.png]]
 <!--fig:end-->
 
 $3$ dots, $1$ triangle; $4$ dots, $3$ triangles; $5$ dots, $6$ triangles. Complete the table below for $n^{\text{th}}$ diagram. ($3$ marks)
@@ -2762,7 +2762,7 @@ $3$ dots, $1$ triangle; $4$ dots, $3$ triangles; $5$ dots, $6$ triangles. Comple
 
 <!--fig:start-->
 **Quesito 66**
-![[injso2009-Q_p16_f1.png]]
+![[_attachments/injso2009-q/injso2009-q_p16_f1.png]]
 <!--fig:end-->
 
 I punti $3$, il triangolo $1$; i punti $4$, i triangoli $3$; i punti $5$, i triangoli $6$. Completa la tabella seguente per il diagramma $n^{\text{th}}$. (Marchi $3$)
@@ -2884,7 +2884,7 @@ For the circuit given below find the effective resistance between point A and B.
 
 <!--fig:start-->
 **Quesito 68**
-![[injso2009-Q_p17_f1.png]]
+![[_attachments/injso2009-q/injso2009-q_p17_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -2900,7 +2900,7 @@ Per il circuito indicato di seguito, si deve trovare la resistenza effettiva tra
 
 <!--fig:start-->
 **Quesito 68**
-![[injso2009-Q_p17_f1.png]]
+![[_attachments/injso2009-q/injso2009-q_p17_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]

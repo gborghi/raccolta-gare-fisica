@@ -868,7 +868,7 @@ esté dentro del rango de tra
 **Topic:** [[Geometric Optics]], [[Thermodynamics]], [[Oscillations & Waves]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Physical Modeling (metodo)|Physical Modeling]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Wave Equation (metodo)|Wave Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Mirror (object)|Mirror]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Mirror (object)|Mirror]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1p-xWzpzIYnFkdhpJy-rLC_Gwua7F-Ai4/view)
 
 
@@ -1085,7 +1085,7 @@ B- Posizione della perla P in modo da leggere sul multimetro un valore di $R$ ch
 **Topic:** [[Geometric Optics]], [[Thermodynamics]], [[Oscillations & Waves]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Physical Modeling (metodo)|Physical Modeling]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Wave Equation (metodo)|Wave Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Mirror (object)|Mirror]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Mirror (object)|Mirror]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1p-xWzpzIYnFkdhpJy-rLC_Gwua7F-Ai4/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1301,5 +1301,5 @@ is within the tra range
 **Topic:** [[Geometric Optics]], [[Thermodynamics]], [[Oscillations & Waves]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Physical Modeling (metodo)|Physical Modeling]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Wave Equation (metodo)|Wave Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Mirror (object)|Mirror]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Mirror (object)|Mirror]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1p-xWzpzIYnFkdhpJy-rLC_Gwua7F-Ai4/view)

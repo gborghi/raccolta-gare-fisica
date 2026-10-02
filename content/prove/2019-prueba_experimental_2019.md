@@ -91,7 +91,7 @@ g) Mediante un tratamiento estadístico, calcula el valor más fiable de la tran
 **Topic:** [[Geometric Optics]], [[Circuits]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Statistical Averaging (metodo)|Statistical Averaging]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/19HeIsyvGYADA4dv3ehZ9-7UzOHwlpfsr/view)
 
 
@@ -169,7 +169,7 @@ g) Calcola con un trattamento statistico il valore più affidabile della trasmis
 **Topic:** [[Geometric Optics]], [[Circuits]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Statistical Averaging (metodo)|Statistical Averaging]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/19HeIsyvGYADA4dv3ehZ9-7UzOHwlpfsr/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -246,5 +246,5 @@ $$T = \frac{V_{n+1}}{V_n} \quad (4)$$
 **Topic:** [[Geometric Optics]], [[Circuits]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Statistical Averaging (metodo)|Statistical Averaging]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/19HeIsyvGYADA4dv3ehZ9-7UzOHwlpfsr/view)

@@ -186,7 +186,7 @@ Calculate rate of fall of temperature of the tank:
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Heat Engine (object)|Heat Engine]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Heat Engine (object)|Heat Engine]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1DRBN3DWT_abaO94ynnGwI_xsP-Boaawm/view)
 
 
@@ -266,7 +266,7 @@ Calcolare il tasso di calo della temperatura del serbatoio:
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Heat Engine (object)|Heat Engine]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Heat Engine (object)|Heat Engine]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1DRBN3DWT_abaO94ynnGwI_xsP-Boaawm/view)
 
 

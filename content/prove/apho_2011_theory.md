@@ -35,7 +35,7 @@ Consider a circular current loop of radius $r$ carrying a current $I_1$, and a s
 
 **c. (0.5 pts.)** The EMF you found in part (b) is due to the tangential component of an induced electric field. Obtain an expression for the tangential electric field $E$ at radius $R$ as a function of the rate of change $\dot{I}_1$ of the current.
 
-![[APhO_2011_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2011_theory/apho_2011_theory_q1_p1_f1.png]]
 *Figure 1: A circular current loop and a point charge $Q$.*
 
 We now remove the larger current loop, and instead put a massive point charge $Q$ at radius $R$, as shown in Figure 1. It may be assumed that the charge moves very little during the relevant time periods.
@@ -50,7 +50,7 @@ We will now understand the origin of the recoil of the loop, using a loop of dif
 
 **f. (3.3 pts.)** Consider a square current loop with side $l$. At a distance $R \gg l$ from the loop, there is a point charge $Q$; see Figure 2. The loop carries current $I$. We will model the current loop as a neutral tube, as in part (e). The charge carriers can move freely along the loop, colliding elastically with the walls and making elastic right turns at the corners. Neglect all interactions among the charge carriers. Assume also that all the charge carriers at a given section along the tube always move with the same velocity. Assume that the loop is heavy and that its motion can be neglected. Calculate the total linear momentum $p_{hid}$ of the charge carriers in the loop. It is called "hidden momentum".
 
-![[APhO_2011_theory_Q1_p2_f2.png]]
+![[prove/_attachments/apho_2011_theory/apho_2011_theory_q1_p2_f2.png]]
 *Figure 2: A square current loop and a point charge $Q$.*
 
 When the current stops, this linear momentum is transferred to the loop, and it gets an impulse equal to minus the impulse received by the point charge $Q$. This is the missing recoil that we were looking for (note that in the initial state there is also momentum in the electromagnetic field; this is important for conservation of the total momentum of the entire system).
@@ -99,7 +99,7 @@ Considerate un ciclo di corrente circolare di raggio $r$ con corrente $I_1$ e un
 
 **c. (0,5 pts.) ** La FEM che hai trovato nella parte (b) è dovuta alla componente tangenziale di un campo elettrico indotto. Ottenere un'espressione per il campo elettrico tangenziale $E$ al raggio $R$ come funzione del tasso di variazione $\dot{I}_1$ della corrente.
 
-![[APhO_2011_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2011_theory/apho_2011_theory_q1_p1_f1.png]]
 *Figura 1: Un circuito di corrente circolare e una carica di punto $Q$.*
 
 Ora rimuoviamo il circuito corrente più grande, e invece mettiamo una carica di punto massiccia $Q$ al raggio $R$, come mostrato nella Figura 1. Si può presumere che l'imposta si muova molto poco durante i periodi di tempo pertinenti.
@@ -114,7 +114,7 @@ Ora capiremo l'origine del retrocesso del ciclo, utilizzando un ciclo di geometr
 
 **f. (3.3 punti) ** Considera un ciclo di corrente quadrato con lato $l$. A una distanza $R \gg l$ dal ciclo, vi è una carica di punto $Q$; vedere figura 2. Il circuito porta corrente $I$. Modelleremo il circuito corrente come tubo neutro, come nella parte (e). I portatori di carica possono muoversi liberamente lungo il ciclo, collidendo elasticamente con le pareti e facendo elasticamente le curve a destra negli angoli. Ignorare tutte le interazioni tra i portatori di carica. Supponiamo anche che tutti i portatori di carica in una determinata sezione lungo il tubo si muovano sempre con la stessa velocità. Supponiamo che il circuito sia pesante e che il suo movimento possa essere trascurato. Calcolare il momento lineare totale $p_{hid}$ dei portatori di carica nel circuito. Si chiama "momento nascosto".
 
-![[APhO_2011_theory_Q1_p2_f2.png]]
+![[prove/_attachments/apho_2011_theory/apho_2011_theory_q1_p2_f2.png]]
 *Figura 2: Un ciclo di corrente quadrato e una carica di punto $Q$.*
 
 Quando la corrente si ferma, questo momento lineare viene trasferito nel loop, e ottiene un impulso uguale a meno l'impulso ricevuto dalla carica di punto $Q$. Questo è il ritiro mancante che stavamo cercando (nota che nello stato iniziale c'è anche slancio nel campo elettromagnetico; questo è importante per la conservazione del slancio totale dell'intero sistema).
@@ -177,7 +177,7 @@ We would like to understand why this setup supports two different forms of motio
 
 **c. (0.5 pts.)** For the initial conditions of part (b), find the time-averaged value $\bar{x}$ of the spring's elongation after a sufficiently long time has passed.
 
-![[APhO_2011_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2011_theory/apho_2011_theory_q2_p1_f1.png]]
 *Figure 1: A general model for creaking*
 
 **d. (2.4 pts.)** For the conditions of part (b), find the period $T$ of the oscillations $x(t)$.
@@ -190,10 +190,10 @@ Generically, stick-slip motion stops at high driving velocities $u$. We will now
 
 A door hinge is a hollow, open-ended metal cylinder with radius $r$, height $h$ and thickness $\Delta r$. The lower end of the cylinder lies on a metal base attached to the wall (the area of contact is a ring of radius $r$); see Figure 2. The static and the kinetic friction coefficients between the cylinder and its base are $\mu_s$ and $\mu_k$ respectively, with $\mu_k < \mu_s$. The upper end of the cylinder is attached to the door, which can be regarded as perfectly rigid. A typical door hangs on two or three such hinges, but its weight is concentrated on only one of them — this is the hinge that will creak. The cylinder of that hinge presses down on its metal base with the weight of the entire door, whose mass is $M$.
 
-![[APhO_2011_theory_Q2_p2_f2.png]]
+![[prove/_attachments/apho_2011_theory/apho_2011_theory_q2_p2_f2.png]]
 *Figure 2: Schematic drawing of a door*
 
-![[APhO_2011_theory_Q2_p2_f3.png]]
+![[prove/_attachments/apho_2011_theory/apho_2011_theory_q2_p2_f3.png]]
 *Figure 3: The twisted hinge cylinder*
 
 The cylinder is not a perfectly rigid body — it can twist tangentially without changing its overall form, so that vertical line segments become tilted with a small angle $\alpha$; see Figure 3. The elastic force on a small area element $dS$ of the base due to this deformation is given by:
@@ -243,7 +243,7 @@ Il valore di un'impresa è pari a quello di un'impresa. (0,4 punti) ** Segnare u
 
 **c. (0,5 pts.)** Per le condizioni iniziali di cui alla parte (b), si trova il valore medio temporale $\bar{x}$ dell'allungamento della molla dopo un tempo sufficientemente lungo.
 
-![[APhO_2011_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2011_theory/apho_2011_theory_q2_p1_f1.png]]
 *Figura 1: Modello generale per la crepa*
 
 **d. (2,4 punti) ** Per le condizioni della parte (b), trovare il periodo $T$ delle oscillazioni $x(t)$.
@@ -256,10 +256,10 @@ Generalmente, il movimento di stick-slip si ferma ad alte velocità di guida $u$
 
 Una cerniera di porta è un cilindro di metallo a bordo aperto vuoto con raggio $r$, altezza $h$ e spessore $\Delta r$. L'estremità inferiore del cilindro si trova su una base metallica attaccata alla parete (la zona di contatto è un anello di raggio $r$); vedere figura 2. I coefficienti di attrito statico e cinetico tra il cilindro e la sua base sono $\mu_s$ e $\mu_k$ rispettivamente, con $\mu_k < \mu_s$. L'estremità superiore del cilindro è attaccata alla porta, che può essere considerata perfettamente rigida. Una tipicamente porta appesa a due o tre cerniere, ma il suo peso è concentrato su una sola di esse. Il cilindro di quella cerniera si premesse sulla sua base metallica con il peso di tutta la porta, la cui massa è $M$.
 
-![[APhO_2011_theory_Q2_p2_f2.png]]
+![[prove/_attachments/apho_2011_theory/apho_2011_theory_q2_p2_f2.png]]
 *Figura 2: Disegno schematico di una porta*
 
-![[APhO_2011_theory_Q2_p2_f3.png]]
+![[prove/_attachments/apho_2011_theory/apho_2011_theory_q2_p2_f3.png]]
 *Figura 3: Il cilindro di cerniera torso*
 
 Il cilindro non è un corpo perfettamente rigido  può torcersi tangenzalmente senza cambiare la sua forma complessiva, in modo che i segmenti della linea verticale si inclinino con un angolo piccolo $\alpha$; vedere figura 3. La forza elastica su un elemento di superficie piccola $dS$ della base a causa di questa deformazione è data da:
@@ -291,7 +291,7 @@ in cui $G$ è una proprietà materiale nota come modulo di taglio. Utilizzare i 
 
 The picture shows a long rubber balloon, the kind that is popular at birthday parties. A partially inflated balloon usually splits into two domains of different radii. In this question, we consider a simplified model to help us understand this phenomenon. Consider a balloon with the shape of a long homogeneous cylinder (except for the ends), with a mouthpiece through which the balloon can be inflated. All processes will be considered isothermal at room temperature. At all times, the pressure $P$ inside the balloon exceeds the atmospheric pressure $P_0$ by a small fraction, so the air may be treated as an incompressible fluid. Gravity and the balloon's weight may also be neglected. The inflation is slow and quasistatic. In parts (a)-(d), the balloon is inflated uniformly throughout its length. We denote by $r_0$ and $L_0$ the radius and length of the balloon before it was inflated.
 
-![[APhO_2011_theory_Q3_p1_f1.png]]
+![[prove/_attachments/apho_2011_theory/apho_2011_theory_q3_p1_f1.png]]
 *Figure 1: A partially inflated birthday balloon.*
 
 **a. (1.8 pts.)** The balloon is held by the mouthpiece, while its other parts hang freely. Find the ratio $\sigma_L/\sigma_t$ between the longitudinal surface tension $\sigma_L$ (in the direction parallel to the balloon's axis) and the transverse surface tension $\sigma_t$ (in the direction tangent to the balloon's circular cross-section).
@@ -314,12 +314,12 @@ In reality, because the inflation ratio $r/r_0$ is large (in Figure 1, typical v
 
 This behavior is depicted in Figure 2.
 
-![[APhO_2011_theory_Q3_p2_f2.png]]
+![[prove/_attachments/apho_2011_theory/apho_2011_theory_q3_p2_f2.png]]
 *Figure 2: $\sigma_t(r)$ for a realistic party balloon.*
 
 **c. (1.3 pts.)** Sketch a qualitative plot of the pressure difference $P - P_0$ as a function of $V$ for a uniformly inflated balloon that behaves according to Figure 2. Indicate any local extremum points on your plot. Indicate also the points corresponding to $r = 1\,\text{cm}$ and $r = 2.5\,\text{cm}$. Find the values of $P - P_0$ at these two points with 10% accuracy.
 
-![[APhO_2011_theory_Q3_p2_f3.png]]
+![[prove/_attachments/apho_2011_theory/apho_2011_theory_q3_p2_f3.png]]
 *Figure 3: A plot of equation (2).*
 
 To explore the consequences of the behavior you found in part (c), we approximate $P(V)$ for a uniformly inflated balloon with a cubic function:
@@ -356,7 +356,7 @@ Balone per il compleanno
 
 La foto mostra un lungo pallone di gomma, il tipo che è popolare alle feste di compleanno. Un palloncino parzialmente gonfiato di solito si divide in due domini di diversi raggi. In questa domanda consideriamo un modello semplificato per aiutarci a comprendere questo fenomeno. Considerate un palloncino con forma di un lungo cilindro omogeneo (escluse le estremità), con una boccetta attraverso la quale il palloncino può essere gonfiato. Tutti i processi saranno considerati isotermici a temperatura ambiente. In ogni momento, la pressione $P$ all'interno del palloncino supera di una piccola frazione la pressione atmosferica $P_0$, quindi l'aria può essere trattata come un fluido incompressibile. Anche la gravità e il peso del palloncino possono essere trascurati. L'inflazione è lenta e quasi costante. Le parti a) - d) indicano che il palloncino è gonfiato uniformemente per tutta la sua lunghezza. Indichiamo con $r_0$ e $L_0$ il raggio e la lunghezza del palloncino prima di essere gonfiato.
 
-![[APhO_2011_theory_Q3_p1_f1.png]]
+![[prove/_attachments/apho_2011_theory/apho_2011_theory_q3_p1_f1.png]]
 *Figura 1: Balone di compleanno parzialmente gonfiato.*
 
 **a. Il palloncino è tenuto dalla bocca, mentre le altre parti sono appese liberamente. Trova il rapporto $\sigma_L/\sigma_t$ tra la tensione superficiale longitudinale $\sigma_L$ (in direzione parallela all'asse del palloncino) e la tensione superficiale trasversale $\sigma_t$ (in direzione tangente alla sezione trasversale circolare del palloncino).
@@ -379,12 +379,12 @@ In realtà, poiché il rapporto di inflazione $r/r_0$ è grande (la figura 1 pu�
 
 Questo comportamento è raffigurato nella Figura 2.
 
-![[APhO_2011_theory_Q3_p2_f2.png]]
+![[prove/_attachments/apho_2011_theory/apho_2011_theory_q3_p2_f2.png]]
 *Figura 2: $\sigma_t(r)$ per un pallone da festa realistico.*
 
 **c. (1,3 punti) ** Segnare un diagramma qualitativo della differenza di pressione $P - P_0$ come funzione di $V$ per un palloncino gonfiato uniformemente che si comporta secondo la figura 2. Indicate tutti i punti di estremazione locali sul vostro complotto. Indicare anche i punti corrispondenti a $r = 1\,\text{cm}$ e $r = 2.5\,\text{cm}$. Trova i valori di $P - P_0$ in questi due punti con una precisione del 10%.
 
-![[APhO_2011_theory_Q3_p2_f3.png]]
+![[prove/_attachments/apho_2011_theory/apho_2011_theory_q3_p2_f3.png]]
 *Figura 3: Un grafico dell'equazione (2). *
 
 Per esplorare le conseguenze del comportamento trovato nella parte (c), approssimare $P(V)$ per un palloncino gonfiato uniformemente con una funzione cubica:

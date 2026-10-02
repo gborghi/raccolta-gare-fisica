@@ -101,7 +101,7 @@ Un razzo giocattolo viene lanciato verso l'alto dal riposo con un'accelerazione 
 
 A car (mass $200\ \mathrm{kg}$) is travelling clockwisely around a flat roundabout (diameter $10\ \mathrm{m}$) at a constant speed $5\ \mathrm{m/s}$, as shown in the figure. What is the acceleration of the car?
 
-![[HKPhO_2014_p5_f1.png]]
+![[_attachments/hkpho_2014/hkpho_2014_p5_f1.png]]
 
 - **(A)** Zero
 - **(B)** $5\ \mathrm{m/s^2}$ East
@@ -121,7 +121,7 @@ A car (mass $200\ \mathrm{kg}$) is travelling clockwisely around a flat roundabo
 
 Un'auto (massa $200\ \mathrm{kg}$) si sposta con saggezza intorno a un rotonde piatto (diametro $10\ \mathrm{m}$) a velocità costante $5\ \mathrm{m/s}$, come mostrato nella figura. Qual è l'accelerazione dell'auto?
 
-![[HKPhO_2014_p5_f1.png]]
+![[_attachments/hkpho_2014/hkpho_2014_p5_f1.png]]
 
 - **(A) ** Zero
 - **(B) ** $5\ \mathrm{m/s^2}$ Est
@@ -228,7 +228,7 @@ Le maree sono principalmente il risultato della differenza nel campo gravitazion
 
 As shown in the following figure, a mass ($0.5\ \mathrm{kg}$) is tied to two wires ($1\ \mathrm{m}$) and revolves in a horizontal circle at a constant speed of $10\ \mathrm{m/s}$. Calculate the tension of the upper wire.
 
-![[HKPhO_2014_p5_f2.png]]
+![[_attachments/hkpho_2014/hkpho_2014_p5_f2.png]]
 
 - **(A)** $28\ \mathrm{N}$
 - **(B)** $38\ \mathrm{N}$
@@ -241,14 +241,14 @@ As shown in the following figure, a mass ($0.5\ \mathrm{kg}$) is tied to two wir
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Ball (object)|Ball]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Ball (object)|Ball]]
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 Come mostrato nella figura seguente, una massa ($0.5\ \mathrm{kg}$) è legata a due fili ($1\ \mathrm{m}$) e ruota in un cerchio orizzontale a una velocità costante di $10\ \mathrm{m/s}$. Calcolare la tensione del filo superiore.
 
-![[HKPhO_2014_p5_f2.png]]
+![[_attachments/hkpho_2014/hkpho_2014_p5_f2.png]]
 
 - **(A)** $28\ \mathrm{N}$
 - **(B)** $38\ \mathrm{N}$
@@ -261,7 +261,7 @@ Come mostrato nella figura seguente, una massa ($0.5\ \mathrm{kg}$) è legata a 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Ball (object)|Ball]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Ball (object)|Ball]]
 
 
 
@@ -355,7 +355,7 @@ Una massa $m_1$ ad una estremità di una molla stabilisce un semplice movimento 
 
 As shown in the following figure, two pendulums are constructed with identical massless springs and mass objects (mass $m$). The initial distance between the masses is the equilibrium length of the spring (spring constant $K$). What is the frequency of the system if the two balls are oscillating out of phase?
 
-![[HKPhO_2014_p6_f1.png]]
+![[_attachments/hkpho_2014/hkpho_2014_p6_f1.png]]
 
 - **(A)** $\sqrt{\dfrac{g}{l}}$
 - **(B)** $\sqrt{\dfrac{K}{2m}}$
@@ -375,7 +375,7 @@ As shown in the following figure, two pendulums are constructed with identical m
 
 Come mostrato nella figura seguente, due penduli sono costruiti con sorgenti senza massa identiche e oggetti di massa (massa $m$). La distanza iniziale tra le masse è la lunghezza di equilibrio della molla (constante della molla $K$). Qual è la frequenza del sistema se le due palle oscilano fuori fase?
 
-![[HKPhO_2014_p6_f1.png]]
+![[_attachments/hkpho_2014/hkpho_2014_p6_f1.png]]
 
 - **(A)** $\sqrt{\dfrac{g}{l}}$
 - **(B)** $\sqrt{\dfrac{K}{2m}}$
@@ -605,7 +605,7 @@ Tre blocchi identici di massa $m$ sono impilati verticalmente. Il blocco 1 è in
 
 The following figure is a spherical styrofoam of radius $R$. A cavity of radius $R/2$ is made in the sphere. If the cavity is filled with a solid material of density 5 times of styrofoam and with the same thickness, where is the new center of mass?
 
-![[HKPhO_2014_p8_f1.png]]
+![[_attachments/hkpho_2014/hkpho_2014_p8_f1.png]]
 
 - **(A)** $R/2$ upward from the center of the styrofoam sphere.
 - **(B)** $R/3$ upward from the center of the styrofoam sphere.
@@ -625,7 +625,7 @@ The following figure is a spherical styrofoam of radius $R$. A cavity of radius 
 
 La figura seguente è una schiuma di stiro sferica di raggio $R$. Nella sfera viene realizzata una cavità di raggio $R/2$. Se la cavità è riempita di un materiale solido di 5 volte la densità dello stirofoam e dello stesso spessore, dove si trova il nuovo centro di massa?
 
-![[HKPhO_2014_p8_f1.png]]
+![[_attachments/hkpho_2014/hkpho_2014_p8_f1.png]]
 
 - **(A) ** $R/2$ verso l'alto dal centro della sfera di scopa di stiro.
 - **(B) ** $R/3$ verso l'alto dal centro della sfera di stifola.
@@ -814,7 +814,7 @@ Nel confronto di un pendolo con oscillazioni ad angolo ampio (periodo $T_L$ e ma
 
 The following figure is most probably a plot of
 
-![[HKPhO_2014_p10_f1.png]]
+![[_attachments/hkpho_2014/hkpho_2014_p10_f1.png]]
 
 - **(A)** square of the orbital period of a planet against the cube of the semi-major axis of its orbit.
 - **(B)** cube of the orbital period of a planet against the square of the semi-major axis of its orbit.
@@ -838,7 +838,7 @@ The following figure is most probably a plot of
 
 La figura seguente è probabilmente un'intesa di
 
-![[HKPhO_2014_p10_f1.png]]
+![[_attachments/hkpho_2014/hkpho_2014_p10_f1.png]]
 
 - **(A) ** quadrato del periodo orbitale di un pianeta contro il cubo dell'asse semimejor della sua orbita.
 - **(B) ** cubo del periodo orbitale di un pianeta contro il quadrato dell'asse semimejor della sua orbita.
@@ -877,7 +877,7 @@ Venus transit is an astronomical phenomenon when the planet Venus passes directl
 
 (d) Calculate the time difference between the exit of Venus transit as observed in Hong Kong and Bangkok. Give your answer in minutes. (Hint: calculate the velocity of Earth relative to Sun, then the velocity of Sun and Venus relative to Earth, then the velocity of the shadow of Venus projected on Sun's surface, then the velocity of the shadow of Venus sweeping on Sun's surface.)
 
-![[HKPhO_2014_p11_f1.png]]
+![[_attachments/hkpho_2014/hkpho_2014_p11_f1.png]]
 
 *Fig. 1 – Venus Transit. This illustration is not to scale.*
 
@@ -903,7 +903,7 @@ b) In una giornata di transito di Venere, sono state effettuate due osservazioni
 
 d) Calcolare la differenza di tempo tra l'uscita del transito di Venere osservata a Hong Kong e Bangkok. Rispondi tra pochi minuti. (Signore: calcolare la velocità della Terra rispetto al Sole, poi la velocità del Sole e Venere rispetto alla Terra, poi la velocità dell'ombra di Venere proiettata sulla superficie del Sole, poi la velocità dell'ombra di Venere che spazza sulla superficie del Sole.)
 
-![[HKPhO_2014_p11_f1.png]]
+![[_attachments/hkpho_2014/hkpho_2014_p11_f1.png]]
 
 *Fig. 1  Transito di Venere. Questa illustrazione non è a scala.*
 
@@ -979,7 +979,7 @@ Hint: $\displaystyle\int \sin^2\left(\dfrac{2\pi x}{\lambda}\right) dx = \dfrac{
 
 (c) Given that the wave velocity $v_g = \dfrac{\lambda}{2T}$ and the relationship $\lambda = \dfrac{gT^2}{2\pi}$, derive the power of a wave period per unit width in terms of $\rho$, $g$, $A$, $T$ (period of a wave), and $H$ (wave height).
 
-![[HKPhO_2014_p13_f1.png]]
+![[_attachments/hkpho_2014/hkpho_2014_p13_f1.png]]
 
 *Fig. 2 – Surface Wave.*
 
@@ -1005,7 +1005,7 @@ b) Supponiamo l'equapartizione di energia, cioè che l'energia potenziale media 
 
 c) Considerato che la velocità d'onda $v_g = \dfrac{\lambda}{2T}$ e la relazione $\lambda = \dfrac{gT^2}{2\pi}$ derivano la potenza di un periodo d'onda per unità di larghezza in termini di $\rho$, $g$, $A$, $T$ (periodo d'onda) e $H$ (altezza d'onda).
 
-![[HKPhO_2014_p13_f1.png]]
+![[_attachments/hkpho_2014/hkpho_2014_p13_f1.png]]
 
 *Fig. 2  Ondata di superficie.*
 
@@ -1032,7 +1032,7 @@ A solid cube (length $L$ each) of mass $m$ starts to slide up a stationary slope
 
 (b) The cube then slides down the slope platform. What is the final kinetic energy of the cube and the slope platform when the cube reaches the lower end of the slope platform?
 
-![[HKPhO_2014_p14_f1.png]]
+![[_attachments/hkpho_2014/hkpho_2014_p14_f1.png]]
 
 *Fig. 3 – Sliding Block up a Slope Platform.*
 
@@ -1054,7 +1054,7 @@ a) Calcolare la velocità iniziale $v_0$ del blocco scivolante in termini di $h$
 
 b) Il cubo poi scivola giù sulla piattaforma di pendenza. Qual è l'energia cinetica finale del cubo e della piattaforma di pendenza quando il cubo raggiunge l'estremità inferiore della piattaforma di pendenza?
 
-![[HKPhO_2014_p14_f1.png]]
+![[_attachments/hkpho_2014/hkpho_2014_p14_f1.png]]
 
 *Fig. 3  Blocco scivolante su una piattaforma di inclinazione.*
 
@@ -1083,7 +1083,7 @@ Two identical uniform thin rods (mass $m$, and length $L$) are connected at righ
 
 (c) At $t = 0$, the meeting point of the two rods is displaced by $x_0$. What is the time when the displacement becomes $x_0/2$ the first time?
 
-![[HKPhO_2014_p15_f1.png]]
+![[_attachments/hkpho_2014/hkpho_2014_p15_f1.png]]
 
 *Fig. 4 – Physical Pendulum Motion. Axis of oscillation: perpendicular to paper.*
 
@@ -1107,7 +1107,7 @@ b) Calcolare il periodo del sistema se $\theta$ è piccolo. (Signore: $\sqrt{1-\
 
 c) Al $t = 0$, il punto di incontro delle due barre è sostituito da $x_0$. Qual è l'ora in cui il spostamento diventa $x_0/2$ per la prima volta?
 
-![[HKPhO_2014_p15_f1.png]]
+![[_attachments/hkpho_2014/hkpho_2014_p15_f1.png]]
 
 *Fig. 4  Movimento fisico del pendolo. Asso di oscillazione: perpendicolare alla carta.*
 

@@ -506,7 +506,7 @@ The Commission has also adopted a number of measures to ensure that the Commissi
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 **Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
@@ -518,7 +518,7 @@ The Commission has also adopted a number of measures to ensure that the Commissi
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 **Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
@@ -974,7 +974,7 @@ The Commission has also adopted a proposal for a regulation on the protection of
 **Topic:** [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 **Risposta:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
@@ -990,7 +990,7 @@ The Commission has also adopted a proposal for a regulation on the protection of
 **Topic:** [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 The Commission has also adopted a number of measures to ensure that the Commission's proposals are implemented in accordance with the common position.
 
@@ -1226,7 +1226,7 @@ The Commission has also adopted a proposal for a regulation on the protection of
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Conducting Sphere (object)|Conducting Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Conducting Sphere (object)|Conducting Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 **Risposta:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
@@ -1243,7 +1243,7 @@ In one experiment the force $F$ between two loaded spheres, suspended by insulat
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Conducting Sphere (object)|Conducting Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Conducting Sphere (object)|Conducting Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
 

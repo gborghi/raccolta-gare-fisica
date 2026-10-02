@@ -172,7 +172,7 @@ rendimento de cada turbina dessa central hidrelétrica.
 **Topic:** [[Conservation of Energy]], [[Fluid Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Continuity Equation (metodo)|Continuity Equation]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1r20kP0mMyEHWinj96iPgffAXNePIxcsg/view)
 
 
@@ -195,7 +195,7 @@ il rendimento di ogni turbina di questa centrale idraulica.
 **Topic:** [[Conservation of Energy]], [[Fluid Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Continuity Equation (metodo)|Continuity Equation]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1r20kP0mMyEHWinj96iPgffAXNePIxcsg/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -217,7 +217,7 @@ the yield of each turbine of this hydroelectric power plant.
 **Topic:** [[Conservation of Energy]], [[Fluid Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Continuity Equation (metodo)|Continuity Equation]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1r20kP0mMyEHWinj96iPgffAXNePIxcsg/view)
 
 

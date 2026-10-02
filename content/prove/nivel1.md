@@ -237,7 +237,7 @@ resistência é ligada e aquele em que h atinge o nível inferior.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/13t7TlWgul-LR1-phQRZKfArroqUJDVcL/view)
 
 
@@ -254,7 +254,7 @@ la resistenza è collegata e quella in cui h raggiunge il livello inferiore.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/13t7TlWgul-LR1-phQRZKfArroqUJDVcL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -270,7 +270,7 @@ The resistance is connected and the one where h reaches the lower level.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/13t7TlWgul-LR1-phQRZKfArroqUJDVcL/view)
 
 
@@ -295,7 +295,7 @@ ponto B, quais devem ser os ajustes de v e $\theta$ para que o jogador marque um
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Projectile (object)|Projectile]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Projectile (object)|Projectile]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/13t7TlWgul-LR1-phQRZKfArroqUJDVcL/view)
 
 
@@ -315,7 +315,7 @@ punto B, quali sono i cambiamenti di v e $\theta$ per il giocatore a segnare un 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Projectile (object)|Projectile]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Projectile (object)|Projectile]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/13t7TlWgul-LR1-phQRZKfArroqUJDVcL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -334,7 +334,7 @@ point B, what are the v and $\theta$ adjustments to make a player score a point?
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Projectile (object)|Projectile]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Projectile (object)|Projectile]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/13t7TlWgul-LR1-phQRZKfArroqUJDVcL/view)
 
 
@@ -365,7 +365,7 @@ trocada nesse último processo.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/13t7TlWgul-LR1-phQRZKfArroqUJDVcL/view)
 
 
@@ -391,7 +391,7 @@ che è stata scambiata in quest'ultimo processo.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/13t7TlWgul-LR1-phQRZKfArroqUJDVcL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -416,7 +416,7 @@ The Commission has already taken a number of measures to ensure that the Communi
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/13t7TlWgul-LR1-phQRZKfArroqUJDVcL/view)
 
 

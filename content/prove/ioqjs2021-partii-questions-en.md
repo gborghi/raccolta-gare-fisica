@@ -72,7 +72,7 @@ When a person starts exercising, many body parameters change from the original s
 
 <!--fig:start-->
 **Quesito 2**
-![[IOQJS2021-PartII-Questions-en_p3_f1.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p3_f1.png]]
 <!--fig:end-->
 
 **P** and **Q** most likely represent:
@@ -96,7 +96,7 @@ Quando una persona inizia a fare esercizio fisico, molti parametri del corpo cam
 
 <!--fig:start-->
 **Quesito 2**
-![[IOQJS2021-PartII-Questions-en_p3_f1.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p3_f1.png]]
 <!--fig:end-->
 
 Le **P** e **Q** rappresentano probabilmente:
@@ -217,7 +217,7 @@ A girl (G) walks into a room along the path shown by the dashed line (see figure
 
 <!--fig:start-->
 **Quesito 5**
-![[IOQJS2021-PartII-Questions-en_p4_f1.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p4_f1.png]]
 <!--fig:end-->
 
 The order in which she will see images of the toys is:
@@ -241,7 +241,7 @@ Una ragazza (G) entra in una stanza lungo il sentiero indicato dalla linea a tra
 
 <!--fig:start-->
 **Quesito 5**
-![[IOQJS2021-PartII-Questions-en_p4_f1.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p4_f1.png]]
 <!--fig:end-->
 
 L' ordine in cui vedrà le immagini dei giocattoli è:
@@ -360,7 +360,7 @@ Consider the paths of (1) Halley's Comet near the sun, and (2) an alpha particle
 
 <!--fig:start-->
 **Quesito 8**
-![[IOQJS2021-PartII-Questions-en_p4_f2.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p4_f2.png]]
 <!--fig:end-->
 
 The correct statement about the trajectories is:
@@ -384,7 +384,7 @@ Considerate i percorsi di (1) la cometa di Halley vicino al sole e (2) di una pa
 
 <!--fig:start-->
 **Quesito 8**
-![[IOQJS2021-PartII-Questions-en_p4_f2.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p4_f2.png]]
 <!--fig:end-->
 
 La dichiarazione corretta sulle traiettorie è:
@@ -530,7 +530,7 @@ Consider a setup in which two graphite rods are immersed in a 2 M NaCl (aq.) sol
 
 <!--fig:start-->
 **Quesito 12**
-![[IOQJS2021-PartII-Questions-en_p5_f1.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p5_f1.png]]
 <!--fig:end-->
 
 - (A) The bulb will glow.
@@ -552,7 +552,7 @@ Si consideri un'impostazione in cui due barre di grafite sono immerse in una sol
 
 <!--fig:start-->
 **Quesito 12**
-![[IOQJS2021-PartII-Questions-en_p5_f1.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p5_f1.png]]
 <!--fig:end-->
 
 - (A) La lampadina accenderà.
@@ -701,7 +701,7 @@ Identifica le composizioni dei strati superiori e inferiori del flacone di Sumit
 
 <!--fig:start-->
 **Quesito 15**
-![[IOQJS2021-PartII-Questions-en_p7_f1.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p7_f1.png]]
 <!--fig:end-->
 
 **15.1.** Among points **1 - 6**, identify
@@ -739,7 +739,7 @@ La fiamma è un fiume caldo e luminoso di gas ardenti. Le fiamme hanno strutture
 
 <!--fig:start-->
 **Quesito 15**
-![[IOQJS2021-PartII-Questions-en_p7_f1.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p7_f1.png]]
 <!--fig:end-->
 
 **15.1.** Tra i punti **1 - 6**, identificare
@@ -782,7 +782,7 @@ Per quale dei due composti la fiamma emetterebbe più luce gialla? Scrivi la rag
 
 <!--fig:start-->
 **Quesito 16**
-![[IOQJS2021-PartII-Questions-en_p7_f2.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p7_f2.png]]
 <!--fig:end-->
 
 The rats were divided into 3 groups, which were treated as follows on reaching the end of the maze.
@@ -801,7 +801,7 @@ The average number of errors (any deviation from the shortest correct path to re
 
 <!--fig:start-->
 **Quesito 16**
-![[IOQJS2021-PartII-Questions-en_p8_f1.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p8_f1.png]]
 <!--fig:end-->
 
 **16.1.** A few statements are listed below. Based on the results of the experiment, identify each of the statements as True or False.
@@ -833,7 +833,7 @@ The average number of errors (any deviation from the shortest correct path to re
 
 <!--fig:start-->
 **Quesito 16**
-![[IOQJS2021-PartII-Questions-en_p7_f2.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p7_f2.png]]
 <!--fig:end-->
 
 I ratti sono stati divisi in 3 gruppi, che sono stati trattati come segue al raggiungimento della fine del labirinto.
@@ -852,7 +852,7 @@ Il numero medio di errori (qualsiasi deviazione dal percorso corretto più corto
 
 <!--fig:start-->
 **Quesito 16**
-![[IOQJS2021-PartII-Questions-en_p8_f1.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p8_f1.png]]
 <!--fig:end-->
 
 **16.1.** Al di sotto sono elencate alcune affermazioni. Sulla base dei risultati dell'esperimento, identificare ciascuna delle affermazioni come Vera o Falsa.
@@ -893,7 +893,7 @@ The different steps of treatment and the results recorded are shown in the flow 
 
 <!--fig:start-->
 **Quesito 17**
-![[IOQJS2021-PartII-Questions-en_p9_f1.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p9_f1.png]]
 <!--fig:end-->
 
 **17.1.** Blue colour indicates: (identify the correct option)
@@ -930,7 +930,7 @@ Le diverse fasi del trattamento e i risultati registrati sono riportati nella ta
 
 <!--fig:start-->
 **Quesito 17**
-![[IOQJS2021-PartII-Questions-en_p9_f1.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p9_f1.png]]
 <!--fig:end-->
 
 **17.1.** Il colore blu indica: (indicare l'opzione corretta)
@@ -968,7 +968,7 @@ Qual è il preparato (**A** a **I**) che indica la presenza della " sostanza att
 
 <!--fig:start-->
 **Quesito 18**
-![[IOQJS2021-PartII-Questions-en_p10_f1.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p10_f1.png]]
 <!--fig:end-->
 
 **18.1.** The organs most likely belong to: (choose from the options) cockroach, prawn, tadpole, and rabbit?
@@ -1011,7 +1011,7 @@ Where: *Q* = rate at which a gas such as O₂ diffuses between two locations
 
 <!--fig:start-->
 **Quesito 18**
-![[IOQJS2021-PartII-Questions-en_p10_f1.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p10_f1.png]]
 <!--fig:end-->
 
 Gli organi più probabili appartengono a: (scelta tra le opzioni) scarafaggio, gamberetto, ciambellone e coniglio?
@@ -1059,7 +1059,7 @@ Le caratteristiche di due organismi del tipo **W** sono elencate nella colonna I
 
 <!--fig:start-->
 **Quesito 19**
-![[IOQJS2021-PartII-Questions-en_p11_f1.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p11_f1.png]]
 <!--fig:end-->
 
 If $W_a = 1\,kg$, then obtain $W_b, W_c$, and $W_d$. Show the main steps of your calculations. For calculation purpose, ignore the part of stand and the thread submerged in water.
@@ -1067,7 +1067,7 @@ If $W_a = 1\,kg$, then obtain $W_b, W_c$, and $W_d$. Show the main steps of your
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1SvRoQp5fbHiIudscqoaVKfjZAP3tihU_/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1w6SatE4gxumwoazJWSo5D5hL_8xMqeV_/view)
 
@@ -1078,7 +1078,7 @@ If $W_a = 1\,kg$, then obtain $W_b, W_c$, and $W_d$. Show the main steps of your
 
 <!--fig:start-->
 **Quesito 19**
-![[IOQJS2021-PartII-Questions-en_p11_f1.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p11_f1.png]]
 <!--fig:end-->
 
 Se $W_a = 1\,kg$, si ottengono $W_b, W_c$ e $W_d$. Mostra i principali passi dei tuoi calcoli. Per calcolo, ignorare la parte del supporto e il filo immerso in acqua.
@@ -1086,7 +1086,7 @@ Se $W_a = 1\,kg$, si ottengono $W_b, W_c$ e $W_d$. Mostra i principali passi dei
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1SvRoQp5fbHiIudscqoaVKfjZAP3tihU_/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1w6SatE4gxumwoazJWSo5D5hL_8xMqeV_/view)
 
@@ -1102,7 +1102,7 @@ Se $W_a = 1\,kg$, si ottengono $W_b, W_c$ e $W_d$. Mostra i principali passi dei
 
 <!--fig:start-->
 **Quesito 20**
-![[IOQJS2021-PartII-Questions-en_p11_f2.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p11_f2.png]]
 <!--fig:end-->
 
 Two students Fatima (F) and Bharat (B) conduct a simple experiment using smartphones. In an open field, both place their smartphones at a distance *d* from each other as shown in the figure. They stand next to their smartphones, and clap one after another. The audio signals from the claps are digitally recorded by WaveEditor™ and the output produced on their smartphone screens are shown next to their sketches. Note that the figure is not to scale. The time mentioned above the screen image is the time of the peak amplitude for each clap's audio signal received in their phones, respectively. They determine the speed of sound from this experiment to be 363 m/s.
@@ -1123,7 +1123,7 @@ Calculate the distance *d* (in m). Show the main steps of your calculation.
 
 <!--fig:start-->
 **Quesito 20**
-![[IOQJS2021-PartII-Questions-en_p11_f2.png]]
+![[_attachments/ioqjs2021-partii-questions-en/ioqjs2021-partii-questions-en_p11_f2.png]]
 <!--fig:end-->
 
 Due studenti Fatima (F) e Bharat (B) condurono un semplice esperimento utilizzando smartphone. In un campo aperto, entrambi posizionano i loro smartphone a distanza *d* l'uno dall'altro come mostrato nella figura. Stanno accanto ai loro smartphone e si applaudiscono uno dopo l'altro. I segnali audio provenienti dalle applaudite sono registrati digitalmente da WaveEditorTM e le output prodotte sugli schermi dei loro smartphone sono mostrate accanto ai loro schizzi. Si noti che la cifra non è a scala. Il tempo menzionato sopra nell'immagine dello schermo è il tempo dell'ampiezza di picco per il segnale audio di ciascuna appaggia ricevuta nei loro telefoni, rispettivamente. Hanno determinato che la velocità del suono da questo esperimento è di 363 m/s.

@@ -160,7 +160,7 @@ Fig. 2
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1rMszrxJOhlS3L_ptbphtf5gYv1jot69K/view)
 
 
@@ -182,7 +182,7 @@ Fig. 2
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1rMszrxJOhlS3L_ptbphtf5gYv1jot69K/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -203,7 +203,7 @@ Fig. 2
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1rMszrxJOhlS3L_ptbphtf5gYv1jot69K/view)
 
 
@@ -856,7 +856,7 @@ Fig. 5
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Cart (object)|Cart]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[Block (object)|Block]], [[Cart (object)|Cart]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1rMszrxJOhlS3L_ptbphtf5gYv1jot69K/view)
 
 
@@ -880,7 +880,7 @@ Fig. 5
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Cart (object)|Cart]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[Block (object)|Block]], [[Cart (object)|Cart]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1rMszrxJOhlS3L_ptbphtf5gYv1jot69K/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -903,7 +903,7 @@ Fig. 5
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Cart (object)|Cart]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[Block (object)|Block]], [[Cart (object)|Cart]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1rMszrxJOhlS3L_ptbphtf5gYv1jot69K/view)
 
 

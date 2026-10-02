@@ -163,7 +163,7 @@ Um caminhão se desloca em MRU (Movimento Retilíneo Uniforme) sobre uma estrada
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1xDaG1US7R_BRbiUxQagmqyXVvjGwkzd9/view)
 
 
@@ -179,7 +179,7 @@ Un camion si muove in MRU (Movimento Retilineo Uniforme) su una strada piana e o
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1xDaG1US7R_BRbiUxQagmqyXVvjGwkzd9/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -194,7 +194,7 @@ A truck moves in a MRU (Uniform Retinal Movement) on a flat, horizontal road. A 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1xDaG1US7R_BRbiUxQagmqyXVvjGwkzd9/view)
 
 

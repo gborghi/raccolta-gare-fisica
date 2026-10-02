@@ -217,7 +217,7 @@ Per i calcoli si usino i seguenti valori numerici: $\ell = 20.0\ \text{cm}$; $R 
 **Topic:** [[Electromagnetic Induction]], [[Circuits]], [[Magnetism]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wheel (object)|Wheel]], [[Battery (object)|Battery]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Wheel (object)|Wheel]], [[Battery (object)|Battery]], [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1G6OLpgpbf4_RXz9QVLNclMa6G1Y5AXw_/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
 
@@ -248,6 +248,6 @@ The following numerical values shall be used for the calculations: $\ell = 20.0\
 **Topic:** [[Electromagnetic Induction]], [[Circuits]], [[Magnetism]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wheel (object)|Wheel]], [[Battery (object)|Battery]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Wheel (object)|Wheel]], [[Battery (object)|Battery]], [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1G6OLpgpbf4_RXz9QVLNclMa6G1Y5AXw_/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)

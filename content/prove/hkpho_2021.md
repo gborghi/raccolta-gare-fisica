@@ -359,7 +359,7 @@ An ice is floating on water in a cup. At the beginning, part of the ice submerge
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -377,7 +377,7 @@ Un ghiaccio galleggia sull'acqua in una tazza. All'inizio, una parte del ghiacci
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 
 
 
@@ -537,7 +537,7 @@ Consider a pulse with an upward displacement of a half-cosine shape is travellin
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -557,7 +557,7 @@ Considera che un impulso con uno spostamento verso l'alto di forma di mezzo cosi
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 
 
 
@@ -672,7 +672,7 @@ A massless rope passes over a frictionless pulley. Particles of mass $m$ and $m 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -692,7 +692,7 @@ Una corda senza massa passa sopra una polla senza attrito. Le particelle di mass
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 
 
 
@@ -1032,7 +1032,7 @@ Two ropes suspended from the roof at points M and N are joint at point P with a 
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -1052,7 +1052,7 @@ Due corde sospese dal tetto ai punti M e N sono unite al punto P con un angolo r
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 
 
 

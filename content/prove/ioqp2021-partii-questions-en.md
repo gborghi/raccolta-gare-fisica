@@ -23,7 +23,7 @@ We consider a two commonly used circuit configurations (1) and (2) indicated by 
 
 <!--fig:start-->
 **Quesito 1**
-![[IOQP2021-PartII-Questions-en_p2_f1.png]]
+![[_attachments/ioqp2021-partii-questions-en/ioqp2021-partii-questions-en_p2_f1.png]]
 <!--fig:end-->
 
 (a) **[2 marks]** Obtain the relative errors in the measurements ($\Delta_1$ and $\Delta_2$) for each of the above configurations.
@@ -48,7 +48,7 @@ Consideramo due configurazioni di circuito comunemente utilizzate (1) e (2) indi
 
 <!--fig:start-->
 **Quesito 1**
-![[IOQP2021-PartII-Questions-en_p2_f1.png]]
+![[_attachments/ioqp2021-partii-questions-en/ioqp2021-partii-questions-en_p2_f1.png]]
 <!--fig:end-->
 
 (a) **[2 segni]** Ottenere gli errori relativi delle misurazioni ($\Delta_1$ e $\Delta_2$) per ciascuna delle configurazioni sopra indicate.
@@ -231,7 +231,7 @@ When Amina is at the position A (as shown in the figure), she throws a ball with
 
 <!--fig:start-->
 **Quesito 5**
-![[IOQP2021-PartII-Questions-en_p3_f1.png]]
+![[_attachments/ioqp2021-partii-questions-en/ioqp2021-partii-questions-en_p3_f1.png]]
 <!--fig:end-->
 
 (a) **[6 marks]** Determine $u$, $\theta$ and $\phi$, in terms of $R$, $\omega$, $\alpha$, and other relevant quantities.
@@ -260,7 +260,7 @@ Quando Amina è in posizione A (come mostrato nella figura), lancia una palla co
 
 <!--fig:start-->
 **Quesito 5**
-![[IOQP2021-PartII-Questions-en_p3_f1.png]]
+![[_attachments/ioqp2021-partii-questions-en/ioqp2021-partii-questions-en_p3_f1.png]]
 <!--fig:end-->
 
 a) **[6 marchi]** Determina $u$, $\theta$ e $\phi$, in termini di $R$, $\omega$, $\alpha$ e di altri quantitativi pertinenti.

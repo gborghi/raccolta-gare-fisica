@@ -55,7 +55,7 @@ Domanda compulsoria, con brevi quesiti indipendenti:
 **Topic:** [[Newtonian Mechanics]], [[Circuits]], [[Oscillations & Waves]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Superposition Principle (metodo)|Superposition Principle]], [[Ray Tracing (metodo)|Ray Tracing]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Conservation Laws (metodo)|Conservation Laws]], [[Mass-Energy Equivalence (metodo)|Mass-Energy Equivalence]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Block (object)|Block]], [[Battery (object)|Battery]], [[Resistor (object)|Resistor]], [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Battery (object)|Battery]], [[Resistor (object)|Resistor]], [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1eJRVEYiIEYmYmLL-bah9C0ueQoxXqdK_/view)
 
 
@@ -97,7 +97,7 @@ Domanda obbligatoria, con brevi quesiti indipendenti:
 **Topic:** [[Newtonian Mechanics]], [[Circuits]], [[Oscillations & Waves]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Superposition Principle (metodo)|Superposition Principle]], [[Ray Tracing (metodo)|Ray Tracing]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Conservation Laws (metodo)|Conservation Laws]], [[Mass-Energy Equivalence (metodo)|Mass-Energy Equivalence]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Block (object)|Block]], [[Battery (object)|Battery]], [[Resistor (object)|Resistor]], [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Battery (object)|Battery]], [[Resistor (object)|Resistor]], [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1eJRVEYiIEYmYmLL-bah9C0ueQoxXqdK_/view)
 
 

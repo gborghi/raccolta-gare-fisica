@@ -513,7 +513,7 @@ $\ln y$
 **Topic:** [[Elasticity & Materials]], [[Wave Optics]], [[Oscillations & Waves]]
 **Metodi:** [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Mirror (object)|Mirror]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/12ovL6DVRsA9uKDwa1Eapy7hyKpz05Zj6/view)
 
 
@@ -1017,5 +1017,5 @@ $\ln y$
 **Topic:** [[Elasticity & Materials]], [[Wave Optics]], [[Oscillations & Waves]]
 **Metodi:** [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Mirror (object)|Mirror]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/12ovL6DVRsA9uKDwa1Eapy7hyKpz05Zj6/view)

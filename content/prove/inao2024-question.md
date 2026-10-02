@@ -29,7 +29,7 @@ Name one object, which is not a comet, that fits these observations made by Fati
 
 <!--fig:start-->
 **Quesito 1**
-![[INAO2024-Question_p2_f1.png]]
+![[_attachments/inao2024-question/inao2024-question_p2_f1.png]]
 <!--fig:end-->
 
 (c) **[2]** Three observers A, B and C are stationed on Moon, Venus and Mars respectively. Which of these observer(s) can see almost all the phases of Earth [new (no earth), crescent, half, gibbous, etc.].
@@ -56,7 +56,7 @@ Note: Altitude is the angular distance of a star from the horizon measured along
 
 <!--fig:start-->
 **Quesito 1**
-![[INAO2024-Question_p3_f2.png]]
+![[_attachments/inao2024-question/inao2024-question_p3_f2.png]]
 <!--fig:end-->
 
 A complete table of emission peaks (in same arbitrary length unit as in the above figure) of various hypothetical elements is given below. It is assumed that the strength of all the peaks indicated in the table is sufficiently high to be observed in the spectrum shown above if the corresponding element is present in the source. Identify the elements present on the surface of $Soma314\text{-}b\text{-}1$.
@@ -96,7 +96,7 @@ Chiamate un oggetto, che non è una cometa, che si adatta a queste osservazioni 
 
 <!--fig:start-->
 **Quesito 1**
-![[INAO2024-Question_p2_f1.png]]
+![[_attachments/inao2024-question/inao2024-question_p2_f1.png]]
 <!--fig:end-->
 
 (c) **[2]** Tre osservatori A, B e C sono stati posizionati sulla Luna, Venere e Marte rispettivamente. Quale di questi osservatori può vedere quasi tutte le fasi della Terra [nuova (nessuna terra), mezzaluna, metà, gibbo, ecc].
@@ -123,7 +123,7 @@ g) **[5]** La presenza di elementi diversi in un oggetto astronomico distante è
 
 <!--fig:start-->
 **Quesito 1**
-![[INAO2024-Question_p3_f2.png]]
+![[_attachments/inao2024-question/inao2024-question_p3_f2.png]]
 <!--fig:end-->
 
 La tabella completa dei picchi di emissione (in unità di lunghezza arbitraria come nella figura precedente) di vari elementi ipotetici è riportata di seguito. Si presume che la forza di tutti i picchi indicati nella tabella sia sufficientemente elevata da osservare nello spettro indicato sopra, se l'elemento corrispondente è presente nella fonte. Identificare gli elementi presenti sulla superficie di $Soma314\text{-}b\text{-}1$.
@@ -158,21 +158,21 @@ Consider a system of two planets P1 and P2, as shown below, both revolving in th
 
 <!--fig:start-->
 **Quesito 2**
-![[INAO2024-Question_p4_f1.png]]
+![[_attachments/inao2024-question/inao2024-question_p4_f1.png]]
 <!--fig:end-->
 
 He obtained the following curve for the variation of the $\omega$ (in degrees/day, 1 day being 24 hours) versus $v_\text{radial}$ (in km/s).
 
 <!--fig:start-->
 **Quesito 2**
-![[INAO2024-Question_p4_f2.png]]
+![[_attachments/inao2024-question/inao2024-question_p4_f2.png]]
 <!--fig:end-->
 
 (a) **[3]** For the given position of P2 as marked in the following figure; show the positions of P1 corresponding to the points A and B on the graph above by marking appropriately on the orbit of P1 (dashed circle in the figure in your answersheet).
 
 <!--fig:start-->
 **Quesito 2**
-![[INAO2024-Question_p5_f3.png]]
+![[_attachments/inao2024-question/inao2024-question_p5_f3.png]]
 <!--fig:end-->
 
 (b) **[7]** Find the ratio $r_1/r_2$.
@@ -183,7 +183,7 @@ Hint: You may find it useful to use the sine rule here.
 
 <!--fig:start-->
 **Quesito 2**
-![[INAO2024-Question_p5_f4.png]]
+![[_attachments/inao2024-question/inao2024-question_p5_f4.png]]
 <!--fig:end-->
 
 (d) **[8]** Determine $M$, $r_1$ and $r_2$.
@@ -202,21 +202,21 @@ Considera un sistema di due pianeti P1 e P2, come mostrato di seguito, entrambi 
 
 <!--fig:start-->
 **Quesito 2**
-![[INAO2024-Question_p4_f1.png]]
+![[_attachments/inao2024-question/inao2024-question_p4_f1.png]]
 <!--fig:end-->
 
 Ha ottenuto la seguente curva per la variazione del $\omega$ (in gradi/giorno, 1 giorno è 24 ore) contro $v_\text{radial}$ (in km/s).
 
 <!--fig:start-->
 **Quesito 2**
-![[INAO2024-Question_p4_f2.png]]
+![[_attachments/inao2024-question/inao2024-question_p4_f2.png]]
 <!--fig:end-->
 
 (a) **[3]** Per la posizione data di P2 segnata nella figura seguente; indicare le posizioni di P1 corrispondenti ai punti A e B del grafico di cui sopra segnando in modo appropriato l'orbita di P1 (circolo a marcia nella figura della scheda delle risposte).
 
 <!--fig:start-->
 **Quesito 2**
-![[INAO2024-Question_p5_f3.png]]
+![[_attachments/inao2024-question/inao2024-question_p5_f3.png]]
 <!--fig:end-->
 
 b) **[7]** Trova il rapporto $r_1/r_2$.
@@ -227,7 +227,7 @@ Suggerimento: Potresti trovare utile usare la regola del seno qui.
 
 <!--fig:start-->
 **Quesito 2**
-![[INAO2024-Question_p5_f4.png]]
+![[_attachments/inao2024-question/inao2024-question_p5_f4.png]]
 <!--fig:end-->
 
 (d) **[8]** Determina $M$, $r_1$ e $r_2$.
@@ -273,7 +273,7 @@ and simplify the recursion relation between $f_{n+1}$ and $f_n$ to express $C^A_
 **Topic:** [[Mathematics]]
 **Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/19PF1z6GHwO6vE8HMwiffAIqZ0q07wKJR/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AEuWNR-319ApIB9E28NqbpHGKNqvK5bc/view)
 
@@ -306,7 +306,7 @@ e semplificare la relazione di ricorrenza tra $f_{n+1}$ e $f_n$ per esprimere $C
 **Topic:** [[Mathematics]]
 **Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/19PF1z6GHwO6vE8HMwiffAIqZ0q07wKJR/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AEuWNR-319ApIB9E28NqbpHGKNqvK5bc/view)
 
@@ -328,7 +328,7 @@ Consider a Newtonian reflecting telescope ((a) side, (b) top and (c) bottom view
 
 <!--fig:start-->
 **Quesito 4**
-![[INAO2024-Question_p7_f1.png]]
+![[_attachments/inao2024-question/inao2024-question_p7_f1.png]]
 <!--fig:end-->
 
 (b) **[3]** Calculate the percentage reduction in flux at the primary mirror due to the supporting structure of the secondary mirror.
@@ -365,7 +365,7 @@ Considera un telescopio riflettente newtoniano ((a) lato, (b) vista superiore e 
 
 <!--fig:start-->
 **Quesito 4**
-![[INAO2024-Question_p7_f1.png]]
+![[_attachments/inao2024-question/inao2024-question_p7_f1.png]]
 <!--fig:end-->
 
 b) **[3]** Calcolare la riduzione percentuale del flusso allo specchio primario a causa della struttura di supporto dello specchio secondario.
@@ -401,7 +401,7 @@ The image below shows a portion of the sky near the western horizon as observed 
 
 <!--fig:start-->
 **Quesito 5**
-![[INAO2024-Question_p8_f1.png]]
+![[_attachments/inao2024-question/inao2024-question_p8_f1.png]]
 <!--fig:end-->
 
 (a) **[2]** Identify and mark the Celestial Equator on the image provided in the answersheet.
@@ -437,7 +437,7 @@ L'immagine di seguito mostra una parte del cielo vicino all'orizzonte occidental
 
 <!--fig:start-->
 **Quesito 5**
-![[INAO2024-Question_p8_f1.png]]
+![[_attachments/inao2024-question/inao2024-question_p8_f1.png]]
 <!--fig:end-->
 
 (a) **[2]** Identificare e contrassegnare l'Equatore Celeste sull'immagine fornita nella scheda delle risposte.

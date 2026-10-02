@@ -22,7 +22,7 @@ tags:
 In this problem, we explore a simplified model of Solid Rocket Boosters (SRBs). SRBs are supplements to liquid rockets and provide enormous thrust at liftoff at the expense of lower specific impulse. They have a pretty simple design — a tube containing solid propellant with a central cavity that acts as a combustion chamber. As the solid fuel burns (deflagrates), gasses are forced out of the combustion chamber through a nozzle, producing thrust. It is desirable to choose a combustion chamber design which produces constant thrust (to reduce structural load on the spacecraft) and also have constant internal pressure and temperature (to reduce stress on the SRB). Below a diagram, along with a typical shape of the combustion chamber.
 
 > [!figure] Figure 1
-> ![[OPhO_2023_Invitational_Theory_p4_f1.png]]
+> ![[prove/_attachments/opho_2023_invitational_theory/opho_2023_invitational_theory_p4_f1.png]]
 > The structure of an SRB (left) and the shape of a typical chamber (right)
 
 **Data:**
@@ -37,7 +37,7 @@ In this problem, we explore a simplified model of Solid Rocket Boosters (SRBs). 
 (a) Find the burn rate of fuel (in terms of $\frac{\text{kg}}{\text{s}}$) as a function of time for the following designs for the combustion chamber. Assume that the combustion chamber never reaches the walls of the SRB.
 
 > [!figure] Designs (i) and (ii)
-> ![[OPhO_2023_Invitational_Theory_p4_f2.png]]
+> ![[prove/_attachments/opho_2023_invitational_theory/opho_2023_invitational_theory_p4_f2.png]]
 > (i) An annular (hollow cylindrical) channel of inner radius $r_0$. (ii) A cross-shaped (plus-shaped) channel of half-extent $r_0$.
 
 Answer the following for design i.
@@ -52,7 +52,7 @@ Answer the following for design i.
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -62,7 +62,7 @@ Answer the following for design i.
 In questo problema, esploriamo un modello semplificato dei Solid Rocket Booster (SRB). Gli SRB sono integratori dei razzi liquidi e forniscono un enorme impulso al decollo a scapito di un impulso specifico inferiore. Hanno un design piuttosto semplice: un tubo contenente propellente solido con una cavità centrale che funge da camera di combustione. Mentre il combustibile solido brucia (deflagrata), i gas vengono forzati fuori dalla camera di combustione attraverso un fumo, producendo spinta. È opportuno scegliere una progettazione di camera di combustione che produca una spinta costante (per ridurre il carico strutturale della sonda) e che abbia anche una pressione e una temperatura interne costanti (per ridurre la tensione sul SRB). Sotto un diagramma, insieme a una forma tipica della camera di combustione.
 
 > [figura] Figura 1
-> ![[OPhO_2023_Invitational_Theory_p4_f1.png]]
+> ![[prove/_attachments/opho_2023_invitational_theory/opho_2023_invitational_theory_p4_f1.png]]
 > La struttura di un SRB (a sinistra) e la forma di una camera tipica (a destra)
 
 **Dati: **
@@ -77,7 +77,7 @@ In questo problema, esploriamo un modello semplificato dei Solid Rocket Booster 
 a) Indicare il tasso di combustione del carburante (in termini di $\frac{\text{kg}}{\text{s}}$) in funzione del tempo per le seguenti progettazioni della camera di combustione. Supponiamo che la camera di combustione non raggiunga mai le pareti del SRB.
 
 > [figura] Disegni (i) e (ii)
-> ![[OPhO_2023_Invitational_Theory_p4_f2.png]]
+> ![[prove/_attachments/opho_2023_invitational_theory/opho_2023_invitational_theory_p4_f2.png]]
 > (i) Canale anulare (colline cilindrica vuota) di raggio interno $r_0$. - un canale di forma incrociata (più forma) di mezzo estensione $r_0$.
 
 Rispondi al seguente per il progetto i.
@@ -92,7 +92,7 @@ c) È valida l'ipotesi di condizioni interne costanti per questo progetto?
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]]
 
 
 
@@ -159,7 +159,7 @@ where $\psi$ is an appropriate real-valued function that satisfies the condition
 (m) Verify that your results for questions (k) and (l) are consistent.
 
 > [!figure] Curve $C$ and its image $f(C)$
-> ![[OPhO_2023_Invitational_Theory_p6_f1.png]]
+> ![[prove/_attachments/opho_2023_invitational_theory/opho_2023_invitational_theory_p6_f1.png]]
 > A curve $C$ with line element $\mathrm{d}l$ (components $\mathrm{d}x$, $\mathrm{d}y$) and outward normal $\boldsymbol{n}$, mapped by $f(z) = u(x, y) + iv(x, y)$ to the curve $f(C)$ with line element $\mathrm{d}l'$ and normal $\boldsymbol{n}'$.
 
 ### On the Electrostatic Interaction between a Line Charge and a Conducting Wedge
@@ -167,7 +167,7 @@ where $\psi$ is an appropriate real-valued function that satisfies the condition
 We can apply the knowledge we have gained here to solve a familiar physical puzzle. This puzzle has been widely known and popular in specific cases (e.g. easily solvable using the image method), but it lacks generality. Consider a grounded, infinitely large, conducting wedge with an opening angle $\theta$. Inside the wedge, there is a thin, infinitely long, straight line with a uniform charge density of $Q$ per unit length, positioned parallel to the edge of the wedge. The distance between the line and the edge is $L$, the plane that pass through both the line and the edge make an angle $\alpha$ with a face of the wedge.
 
 > [!figure] Line charge inside a conducting wedge
-> ![[OPhO_2023_Invitational_Theory_p7_f1.png]]
+> ![[prove/_attachments/opho_2023_invitational_theory/opho_2023_invitational_theory_p7_f1.png]]
 > A grounded conducting wedge of opening angle $\theta$; a line charge $Q$ at distance $L$ from the edge, with the plane through the line and the edge making angle $\alpha$ with a face.
 
 (n) Find the direction and the magnitude of the electrical force acting on the line per unit length. Solve for the general case of $2\pi > \theta > \alpha$, then evaluate your answer in the unit of $kQ^2/L$, for $\theta = 120^\circ$ and $\alpha = 30^\circ$.
@@ -238,7 +238,7 @@ L) Prendere $C$ per rappresentare una superficie conduttiva. Se $\phi$ è una so
 m) Verificare che i risultati delle domande k) e l) siano coerenti.
 
 > [fig.] Curva $C$ e la sua immagine $f(C)$
-> ![[OPhO_2023_Invitational_Theory_p6_f1.png]]
+> ![[prove/_attachments/opho_2023_invitational_theory/opho_2023_invitational_theory_p6_f1.png]]
 > Una curva $C$ con elemento di linea $\mathrm{d}l$ (componenti $\mathrm{d}x$, $\mathrm{d}y$) e normale $\boldsymbol{n}$, mappata da $f(z) = u(x, y) + iv(x, y)$ alla curva $f(C)$ con elemento di linea $\mathrm{d}l'$ e normale $\boldsymbol{n}'$.
 
 ### sull'interazione elettrostatica tra una carica di linea e una cucina di condotta
@@ -246,7 +246,7 @@ m) Verificare che i risultati delle domande k) e l) siano coerenti.
 Possiamo applicare le conoscenze che abbiamo acquisito qui per risolvere un puzzle fisico familiare. Questo puzzle è stato ampiamente conosciuto e popolare in casi specifici (ad esempio: La struttura di un'immagine è molto più semplice da risolvere usando il metodo di immagine), ma manca di generalità. Considerate una cucina conduttiva a terra, infinitamente grande, con un angolo di apertura $\theta$. All'interno della cucina, c'è una linea retta sottile, infinitamente lunga, con una densità di carica uniforme di $Q$ per unità di lunghezza, posizionata parallela al bordo della cucina. La distanza tra la linea e il bordo è $L$, il piano che attraversa sia la linea che il bordo fa un angolo $\alpha$ con una faccia della cuccia.
 
 > [!figura] carica di linea all'interno di una ciglia conduttrice
-> ![[OPhO_2023_Invitational_Theory_p7_f1.png]]
+> ![[prove/_attachments/opho_2023_invitational_theory/opho_2023_invitational_theory_p7_f1.png]]
 > Un'angolazione di apertura $\theta$ con un'angolazione di conduttore a terra; una carica di linea $Q$ a distanza $L$ dal bordo, con il piano attraverso la linea e l'angolo di apertura $\alpha$ con una faccia.
 
 n) Indicare la direzione e la magnitudine della forza elettrica che agisce sulla linea per unità di lunghezza. Risolvi il caso generale di $2\pi > \theta > \alpha$, poi valuta la tua risposta nell'unità di $kQ^2/L$, per $\theta = 120^\circ$ e $\alpha = 30^\circ$.
@@ -319,7 +319,7 @@ $$\Gamma^r_{\phi\phi} = -Br\sin^2\theta$$
 In 2019, the first image of a black hole was taken in 2019 by the Event Horizon Telescope (EHT) at the center of the galaxy M87. The historic image of the black hole showcased a glowing ring of light surrounding the dark abyss known as the "photon ring." In this region, light rays follow closed circular paths due to the strong gravitational pull of the black hole. When a photon follows a closed circular path on the photon ring, it can effectively orbit the black hole multiple times before either escaping to infinity or being captured by the event horizon. This phenomenon is known as the "photon sphere."
 
 > [!figure] Figure 2
-> ![[OPhO_2023_Invitational_Theory_p9_f1.png]]
+> ![[prove/_attachments/opho_2023_invitational_theory/opho_2023_invitational_theory_p9_f1.png]]
 > Event Horizon Telescope Collaboration
 
 In this problem, we will be analyzing the optical effects for an observer next to a black hole. Assume for an idealized case that the black hole has a mass $M = 15 M_\odot$ and is uncharged and not rotating.
@@ -397,7 +397,7 @@ La sfera fotonica
 Nel 2019, la prima immagine di un buco nero è stata scattata nel 2019 dal Event Horizon Telescope (EHT) al centro della galassia M87. L'immagine storica del buco nero mostrava un anello luminoso di luce che circondava l'abisso oscuro noto come "anello dei fotoni". In questa regione, i raggi di luce seguono percorsi circolari chiusi a causa della forte forza gravitazionale del buco nero. Quando un fotone segue un percorso circolare chiuso sull'anello fotonico, può effettivamente orbitare il buco nero più volte prima di sfuggire all'infinito o di essere catturato dall'orizzonte degli eventi. Questo fenomeno è conosciuto come "sfera fotonica".
 
 > [figura] Figura 2
-> ![[OPhO_2023_Invitational_Theory_p9_f1.png]]
+> ![[prove/_attachments/opho_2023_invitational_theory/opho_2023_invitational_theory_p9_f1.png]]
 > Collaborazione con il Telescopio Event Horizon
 
 In questo problema analizzeremo gli effetti ottici per un osservatore vicino a un buco nero. Supponiamo per un caso idealizzato che il buco nero abbia una massa $M = 15 M_\odot$ e non sia carico e non ruota.

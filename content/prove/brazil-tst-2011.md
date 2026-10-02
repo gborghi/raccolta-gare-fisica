@@ -55,7 +55,7 @@ the result in terms of m, g, v_0, a and $\alpha$. (3.5 marks)
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Conservation of Momentum]]
 **Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Sphere (object)|Sphere]], [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Vt6q_4oK7nF9dDvTlnGE_3B5_ie5u-Za/view)
 
 
@@ -97,7 +97,7 @@ Sfera che colpisce barra appesa, angolo
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Conservation of Momentum]]
 **Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Sphere (object)|Sphere]], [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Vt6q_4oK7nF9dDvTlnGE_3B5_ie5u-Za/view)
 
 

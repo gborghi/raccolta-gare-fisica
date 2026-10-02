@@ -42,7 +42,7 @@ Annotare nelle tabelle la sensibilità e la portata degli strumenti di misura ut
 **Topic:** [[Fluid Mechanics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1vwx9WnaS3IBmmvcYd6-olyJfEnVj1nTM/view)
 
 
@@ -71,7 +71,7 @@ The sensitivity and range of the measuring instruments used (graduated cylinder,
 **Topic:** [[Fluid Mechanics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1vwx9WnaS3IBmmvcYd6-olyJfEnVj1nTM/view)
 
 
@@ -107,7 +107,7 @@ Rispondete alle domande seguenti nel modo più esaustivo possibile:
 **Topic:** [[Fluid Mechanics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1vwx9WnaS3IBmmvcYd6-olyJfEnVj1nTM/view)
 
 
@@ -138,5 +138,5 @@ Please answer the following questions as fully as possible:
 **Topic:** [[Fluid Mechanics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1vwx9WnaS3IBmmvcYd6-olyJfEnVj1nTM/view)

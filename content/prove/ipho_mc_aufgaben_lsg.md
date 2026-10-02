@@ -91,7 +91,7 @@ How does the cork move relative to the bucket immediately after the rope and the
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 
@@ -111,7 +111,7 @@ Come si muove il canne rispetto al secchio immediatamente dopo che la corda e il
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -130,7 +130,7 @@ How does the cork move relative to the bucket immediately after the rope and the
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 
@@ -157,7 +157,7 @@ To bring the balance back into equilibrium, one must …
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 
@@ -179,7 +179,7 @@ Per riportare l'equilibrio, bisogna
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -200,7 +200,7 @@ To bring the balance back into balance, one must
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 
@@ -225,7 +225,7 @@ What can be said about the water levels in the glasses immediately after the ice
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Bubble (object)|Bubble]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Bubble (object)|Bubble]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 
@@ -245,7 +245,7 @@ Cosa si può dire dei livelli d'acqua nei bicchieri immediatamente dopo che i cu
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Bubble (object)|Bubble]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Bubble (object)|Bubble]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -264,7 +264,7 @@ What can be said about the water levels in the glasses immediately after the ice
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Bubble (object)|Bubble]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Bubble (object)|Bubble]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 
@@ -483,7 +483,7 @@ Which of the graphs correctly represents the distance $x$ of the impact point as
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 
@@ -505,7 +505,7 @@ Qual è il grafico che rappresenta correttamente la distanza $x$ del punto di im
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -526,7 +526,7 @@ Which of the graphs correctly represents the distance $x$ of the impact point as
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 
@@ -551,7 +551,7 @@ How does the orbital speed of the puck behave during the motion?
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]], [[Rod (object)|Rod]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 
@@ -571,7 +571,7 @@ Come si comporta la velocità orbitale del puck durante il movimento?
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]], [[Rod (object)|Rod]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -590,7 +590,7 @@ How does the orbital speed of the puck behave during motion?
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]], [[Rod (object)|Rod]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 
@@ -766,7 +766,7 @@ How must the length $\ell'$ of the string pendulum in the left cabin be chosen s
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Pendulum (object)|Pendulum]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Pendulum (object)|Pendulum]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 
@@ -788,7 +788,7 @@ How must the length $\ell'$ of the string pendulum in the left cabin be chosen s
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Pendulum (object)|Pendulum]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Pendulum (object)|Pendulum]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -809,7 +809,7 @@ How must the length $\ell'$ of the string pendulum in the left cabin be chosen s
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Pendulum (object)|Pendulum]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Pendulum (object)|Pendulum]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 
@@ -1455,7 +1455,7 @@ What value for the electrical conductivity $\sigma_\text{Messing}$ is obtained a
 **Topic:** [[Electromagnetic Induction]], [[Circuits]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Magnet (object)|Magnet]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Magnet (object)|Magnet]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.30](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 
@@ -1490,7 +1490,7 @@ What value for the electrical conductivity $\sigma_\text{Messing}$ is obtained a
 **Topic:** [[Electromagnetic Induction]], [[Circuits]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Magnet (object)|Magnet]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Magnet (object)|Magnet]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.30](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1524,7 +1524,7 @@ What value for the electrical conductivity $\sigma_\text{Messing}$ is obtained a
 **Topic:** [[Electromagnetic Induction]], [[Circuits]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Magnet (object)|Magnet]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Magnet (object)|Magnet]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.30](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 
@@ -2209,7 +2209,7 @@ Which of the following statements is then correct for the melting of the ice in 
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.46](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 
@@ -2231,7 +2231,7 @@ Quale delle seguenti affermazioni è corretta per il melting of the ice in the t
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.46](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -2252,7 +2252,7 @@ With the voltage used, it is not possible to melt all of the ice.
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.46](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 

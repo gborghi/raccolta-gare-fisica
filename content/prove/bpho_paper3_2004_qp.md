@@ -206,7 +206,7 @@ Total 40
 **Topic:** [[Fluid Mechanics]], [[Magnetism]], [[Kinetic Theory]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Point Charge (object)|Point Charge]], [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Point Charge (object)|Point Charge]], [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qhh7PVXxTDJ9zzDPBL1IbisfHPdpVdFr/view)
 
 
@@ -399,7 +399,7 @@ Complessivamente 40
 **Topic:** [[Fluid Mechanics]], [[Magnetism]], [[Kinetic Theory]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Point Charge (object)|Point Charge]], [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Point Charge (object)|Point Charge]], [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qhh7PVXxTDJ9zzDPBL1IbisfHPdpVdFr/view)
 
 

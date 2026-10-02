@@ -68,7 +68,7 @@ $$t = \frac{7\pi a}{2v} + \frac{6\pi a}{2v} + \cdots + \frac{2\pi a}{2v} + \frac
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/16kZUrakGy96pas3Pl_crCIKzE6c371Is/view)
 
 
@@ -84,7 +84,7 @@ $$t = \frac{7\pi a}{2v} + \frac{6\pi a}{2v} + \cdots + \frac{2\pi a}{2v} + \frac
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/16kZUrakGy96pas3Pl_crCIKzE6c371Is/view)
 
 
@@ -105,7 +105,7 @@ Since $h \propto v^2$, $h' = N^2 h \implies \boxed{D}$
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/16kZUrakGy96pas3Pl_crCIKzE6c371Is/view)
 
 
@@ -121,7 +121,7 @@ Dal momento che $h \propto v^2$, $h' = N^2 h \implies \boxed{D}$
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/16kZUrakGy96pas3Pl_crCIKzE6c371Is/view)
 
 
@@ -143,7 +143,7 @@ $\boxed{E}$.
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/16kZUrakGy96pas3Pl_crCIKzE6c371Is/view)
 
 
@@ -160,7 +160,7 @@ $\boxed{E}$.
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/16kZUrakGy96pas3Pl_crCIKzE6c371Is/view)
 
 
@@ -349,7 +349,7 @@ $$F = \frac{dp}{dt} = \frac{dm}{dt} v = \rho A v^2 = 2\rho g h A = 12\ \text{N} 
 **Topic:** [[Fluid Mechanics]], [[Conservation of Momentum]]
 **Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/16kZUrakGy96pas3Pl_crCIKzE6c371Is/view)
 
 
@@ -365,7 +365,7 @@ $$F = \frac{dp}{dt} = \frac{dm}{dt} v = \rho A v^2 = 2\rho g h A = 12\ \text{N} 
 **Topic:** [[Fluid Mechanics]], [[Conservation of Momentum]]
 **Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/16kZUrakGy96pas3Pl_crCIKzE6c371Is/view)
 
 
@@ -517,7 +517,7 @@ $$F = PA = \frac{1}{2}\rho g H^2 L \implies \boxed{C}$$
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/16kZUrakGy96pas3Pl_crCIKzE6c371Is/view)
 
 
@@ -531,7 +531,7 @@ $$F = PA = \frac{1}{2}\rho g H^2 L \implies \boxed{C}$$
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/16kZUrakGy96pas3Pl_crCIKzE6c371Is/view)
 
 
@@ -1046,7 +1046,7 @@ $$T = \frac{1}{2}m\frac{18J^2}{m^2a^2}\frac{\sqrt{2}a}{6} = \frac{3\sqrt{2}J^2}{
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/16kZUrakGy96pas3Pl_crCIKzE6c371Is/view)
 
 
@@ -1071,5 +1071,5 @@ $$T = \frac{1}{2}m\frac{18J^2}{m^2a^2}\frac{\sqrt{2}a}{6} = \frac{3\sqrt{2}J^2}{
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/16kZUrakGy96pas3Pl_crCIKzE6c371Is/view)

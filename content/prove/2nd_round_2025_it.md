@@ -468,7 +468,7 @@ Alice usa un cubetto di ghiaccio per raffreddare il suo bicchiere d'acqua. Subit
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
@@ -484,7 +484,7 @@ Alice usa un cubetto di ghiaccio per lotteria per il suo bicchiere d'acqua. Subi
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
@@ -546,7 +546,7 @@ Una candela accesa si trova in una bacinella riempita d'acqua fino a metà dell'
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
@@ -562,7 +562,7 @@ Una candela accede si trova in una bacinella riempita d'acqua fino a metà dell'
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
@@ -822,7 +822,7 @@ L'immagine mostra un'onda stazionaria su una corda tra due pareti al tempo $t=0\
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
@@ -843,7 +843,7 @@ L'immagine mostra un'onda stazionaria su una corda tras su due pareti al tempo $
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
@@ -899,7 +899,7 @@ iii. (1.5 pt) Calcolare la potenza media necessaria durante la fase di acceleraz
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
@@ -950,7 +950,7 @@ iii. (1.5 p) Calcolare la potenza media necessaria durante la fase di accelerazi
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 

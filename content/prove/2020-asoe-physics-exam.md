@@ -947,7 +947,7 @@ Tension, which measures how tightly the string is pulled.
 **Topic:** [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Radioactive Decay Law (metodo)|Radioactive Decay Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/1TcKp3zaiJaFbHYFlHzaYZoUYtybs3e1M/view)
 
 
@@ -998,7 +998,7 @@ Tensione, che misura quanto strettamente si tira la corda.
 **Topic:** [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Radioactive Decay Law (metodo)|Radioactive Decay Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/1TcKp3zaiJaFbHYFlHzaYZoUYtybs3e1M/view)
 
 
@@ -1026,7 +1026,7 @@ speed was the best you could do.
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1TcKp3zaiJaFbHYFlHzaYZoUYtybs3e1M/view)
 
 
@@ -1049,7 +1049,7 @@ La velocità era il meglio che potevi fare.
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1TcKp3zaiJaFbHYFlHzaYZoUYtybs3e1M/view)
 
 
@@ -1093,7 +1093,7 @@ END OF EXAM
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.18](https://drive.google.com/file/d/1TcKp3zaiJaFbHYFlHzaYZoUYtybs3e1M/view)
 
 
@@ -1132,5 +1132,5 @@ Fino alla fine dell'esame
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.18](https://drive.google.com/file/d/1TcKp3zaiJaFbHYFlHzaYZoUYtybs3e1M/view)

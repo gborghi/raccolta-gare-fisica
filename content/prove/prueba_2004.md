@@ -354,7 +354,7 @@ $g = 9{,}8\ \text{m/s}^2$
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Piston (object)|Piston]], [[Gas (object)|Gas]], [[Rod (object)|Rod]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Piston (object)|Piston]], [[Gas (object)|Gas]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1zlO1Uwcel7I2gHEhNZZpBGVoXkfOHO_Z/view)
 
 
@@ -400,7 +400,7 @@ $g = 9{,}8\ \text{m/s}^2$
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Piston (object)|Piston]], [[Gas (object)|Gas]], [[Rod (object)|Rod]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Piston (object)|Piston]], [[Gas (object)|Gas]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1zlO1Uwcel7I2gHEhNZZpBGVoXkfOHO_Z/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -445,7 +445,7 @@ $g = 9{,}8\ \text{m/s}^2$
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Piston (object)|Piston]], [[Gas (object)|Gas]], [[Rod (object)|Rod]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Piston (object)|Piston]], [[Gas (object)|Gas]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1zlO1Uwcel7I2gHEhNZZpBGVoXkfOHO_Z/view)
 
 
@@ -641,7 +641,7 @@ magnético terrestr
 **Topic:** [[Circuits]], [[Magnetism]], [[Oscillations & Waves]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Battery (object)|Battery]], [[Magnet (object)|Magnet]], [[Coil (object)|Coil]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Battery (object)|Battery]], [[Magnet (object)|Magnet]], [[Coil (object)|Coil]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1zlO1Uwcel7I2gHEhNZZpBGVoXkfOHO_Z/view)
 
 
@@ -832,7 +832,7 @@ Magnetico terrestre
 **Topic:** [[Circuits]], [[Magnetism]], [[Oscillations & Waves]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Battery (object)|Battery]], [[Magnet (object)|Magnet]], [[Coil (object)|Coil]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Battery (object)|Battery]], [[Magnet (object)|Magnet]], [[Coil (object)|Coil]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1zlO1Uwcel7I2gHEhNZZpBGVoXkfOHO_Z/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1022,5 +1022,5 @@ Earth magnetic field
 **Topic:** [[Circuits]], [[Magnetism]], [[Oscillations & Waves]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Battery (object)|Battery]], [[Magnet (object)|Magnet]], [[Coil (object)|Coil]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Battery (object)|Battery]], [[Magnet (object)|Magnet]], [[Coil (object)|Coil]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1zlO1Uwcel7I2gHEhNZZpBGVoXkfOHO_Z/view)

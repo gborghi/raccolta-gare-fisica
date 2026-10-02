@@ -26,7 +26,7 @@ tags:
 **Grafico 1: Resistività del tungsteno.**
 
 <!--fig:start-->
-![[_attachments/graph1/graph1_p1_f1.png]]
+![[prove/_attachments/graph1/graph1_p1_f1.png]]
 *Grafico 1 — Resistività del tungsteno (in $\mathrm{\mu\Omega\,cm}$) in funzione della temperatura (in K).*
 <!--fig:end-->
 
@@ -46,7 +46,7 @@ tags:
 **Grafico 1: Resistività del tungsteno.**
 
 <!--fig:start-->
-![[_attachments/graph1/graph1_p1_f1.png]]
+![[prove/_attachments/graph1/graph1_p1_f1.png]]
 *Grafico 1  Resistività del tungsteno (in $\mathrm{\mu\Omega\,cm}$) in funzione della temperatura (in K). *
 <!--fig:end-->
 

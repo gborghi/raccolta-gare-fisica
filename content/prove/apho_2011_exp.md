@@ -50,19 +50,19 @@ On your desk, you have the following items (Figure 1):
 The earth's gravity field in Tel Aviv is $g = 9.80 \pm 0.01\ \text{N/kg}$.
 
 > [!figure] Figure 1 — Summary of the equipment
-> ![[APhO_2011_exp_Q1_p2_f1.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q1_p2_f1.png]]
 > (1) 50 Hz power supply; (1a) 24 V terminals; (1b) 0.7 V terminals; (1c) Power button. (2) Solenoid on a vertical screw. (3) Broad closed ring. (4) Broad open ring. (5) Thin open ring. (6) Voltmeter. (7) Ammeter. (8) Scale. (9) Polystyrene block. (10) Wires.
 
 > [!figure] Figure 2 — The digital scale
-> ![[APhO_2011_exp_Q1_p2_f2.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q1_p2_f2.png]]
 > (1) On/Off button. (2) "Tare" button — sets the current weight as 0.
 
 > [!figure] Figure 3 — The voltmeter
-> ![[APhO_2011_exp_Q1_p3_f3.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q1_p3_f3.png]]
 > (1) On/Off button. (2) The dial is set to 200 mV AC. (3) Connect your wires to the "COM" and "V/Ω" terminals.
 
 > [!figure] Figure 4 — The ammeter
-> ![[APhO_2011_exp_Q1_p4_f4.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q1_p4_f4.png]]
 > (1) On/Off button. (2) The dial is set to 20 mA / 20 A AC. (3) Connect your wires to the "COM" and "A" terminals.
 
 ### Theory (1.3 points)
@@ -96,7 +96,7 @@ $$\cos(\alpha + \beta) = \cos\alpha\cos\beta - \sin\alpha\sin\beta$$
 $$\langle(\sin(\omega t))^2\rangle = \langle(\cos(\omega t))^2\rangle = \frac{1}{2}$$
 
 > [!figure] Figure 5 — The metal ring in the solenoid's magnetic field
-> ![[APhO_2011_exp_Q1_p4_f5.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q1_p4_f5.png]]
 
 ### Measurements (5.1 points)
 
@@ -172,19 +172,19 @@ La carta è costituita da:
 Il campo gravitazionale terrestre a Tel Aviv è $g = 9.80 \pm 0.01\ \text{N/kg}$.
 
 > [figura] Figura 1  Sommario dell'attrezzatura
-> ![[APhO_2011_exp_Q1_p2_f1.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q1_p2_f1.png]]
 > (1) alimentazione a 50 Hz; (1a) terminali 24 V; (1b) terminali 0,7 V; (1c) pulsante di alimentazione. (2) Solenoide su una vite verticale. (3) Anello chiuso largo. (4) Anello largo e aperto. (5) Anello aperto sottile. (6) Voltmeter. (7) Ammetro. (8) Scala. (9) Blocco di polistirolo. (10) Fibri.
 
 > [fig.] Figura 2  La scala digitale
-> ![[APhO_2011_exp_Q1_p2_f2.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q1_p2_f2.png]]
 > (1) pulsante accensione/spegnazione. (2) Il pulsante "Tare"  imposta il peso corrente come 0.
 
 > [figura] Figura 3  Il voltometro
-> ![[APhO_2011_exp_Q1_p3_f3.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q1_p3_f3.png]]
 > (1) pulsante accensione/spegnazione. (2) Il quadrante è impostato a 200 mV di corrente corrente. (3) Connettere i fili ai terminali "COM" e "V/Ω".
 
 > [figura] Figura 4  L'ampilometro
-> ![[APhO_2011_exp_Q1_p4_f4.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q1_p4_f4.png]]
 > (1) pulsante accensione/spegnazione. (2) Il quadrante è impostato a 20 mA / 20 A AC. (3) Connettere i fili ai terminali "COM" e "A".
 
 Teoria (1.3 punti)
@@ -218,7 +218,7 @@ $$\cos(\alpha + \beta) = \cos\alpha\cos\beta - \sin\alpha\sin\beta$$
 $$\langle(\sin(\omega t))^2\rangle = \langle(\cos(\omega t))^2\rangle = \frac{1}{2}$$
 
 > [fig. 5] Figura 5  L'anello metallico nel campo magnetico del solenoide
-> ![[APhO_2011_exp_Q1_p4_f5.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q1_p4_f5.png]]
 
 Misure (5,1 punti)
 
@@ -305,11 +305,11 @@ On your desk, you have the following items (see Figure 1):
 > Call a supervisor if you require assistance.
 
 > [!figure] Figure 1 — Summary of the equipment
-> ![[APhO_2011_exp_Q2_p2_f1.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q2_p2_f1.png]]
 > (1) The plastic sample. (2) Sample holder and stand. (3) White LED flashlight. (4) Red laser. (5) Stand for light source. (6) Screen covered with millimeter graph paper. (7) Wooden stake on bench. (8) Tape measure.
 
 > [!figure] Figure 2 — Close-up of the two light sources
-> ![[APhO_2011_exp_Q2_p2_f2.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q2_p2_f2.png]]
 > (3) White flashlight. (4) Red laser.
 
 ### Part I — Theory (0.4 points)
@@ -317,7 +317,7 @@ On your desk, you have the following items (see Figure 1):
 **a. (0.4 pts.)** A light ray is reflected from two mirrors which meet at an angle $\varphi$ (Figure 3). Find the angle $\gamma$ between the incoming and outgoing rays. Assume that all light rays lie in the plane perpendicular to the mirrors' intersection line.
 
 > [!figure] Figure 3 — A light ray reflected from two mirrors
-> ![[APhO_2011_exp_Q2_p3_f3.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q2_p3_f3.png]]
 
 ### Part II — Measurements with white light (6.1 points)
 
@@ -326,13 +326,13 @@ Using the white flashlight as your light source, you may observe both the transm
 **CAUTION:** For viewing transmitted light, you will have to look directly into the flashlight beam through the sample. Don't do this with the laser! Also, avoid looking directly into the flashlight itself for long periods of time.
 
 > [!figure] Figure 4 — Suggested observation setups for white light
-> ![[APhO_2011_exp_Q2_p3_f4.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q2_p3_f4.png]]
 > Transmission: Eye — Sample — White flashlight. Reflection: White flashlight — Sample — Screen.
 
 **b. (0.5 pts.)** Figure 5 illustrates schematically four possibilities for the sample's microscopic structure. $n$ stands for the refractive index of the plastic. Choose the structure that best fits your observations. *Note:* the 5 periods shown in the figure are for illustration only. In reality, $d$ is small, and the sample contains many periods.
 
 > [!figure] Figure 5 — Different possibilities for the sample's structure
-> ![[APhO_2011_exp_Q2_p4_f5.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q2_p4_f5.png]]
 > (A) Symmetric triangular grooves (period $d$, angle $\varphi$). (B) Symmetric grooves with flat tops (groove width $d/2$, period $d$, angle $\varphi$). (C) Asymmetric sawtooth with flat tops (width $d/2$, period $d$, angle $\varphi$). (D) Asymmetric sawtooth (blazed) profile (period $d$, angle $\varphi$).
 
 **c. (0.8 pts.)** Find the angle $\varphi$ for the sample and estimate its error.
@@ -340,13 +340,13 @@ Using the white flashlight as your light source, you may observe both the transm
 **d. (0.5 pts.)** When a perpendicular white light beam is incident on the sample from one of its sides, the following faint pattern can be observed in the transmitted light, slightly to the right from the source (Figure 6). "R", "G" and "B" stand for red, green and blue respectively. *Note:* this pattern may be difficult to observe, and measurements on it are not required.
 
 > [!figure] Figure 6 — Faint pattern near the light source
-> ![[APhO_2011_exp_Q2_p4_f6.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q2_p4_f6.png]]
 > Repeated "BGR" colored groups to the right of the source.
 
 Further to the right you may observe a much brighter pattern (Figure 7):
 
 > [!figure] Figure 7 — Bright pattern farther to the right from the light source
-> ![[APhO_2011_exp_Q2_p5_f7.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q2_p5_f7.png]]
 > A single bright "R G B" sequence.
 
 Choose the correct option:
@@ -359,7 +359,7 @@ Choose the correct option:
 **e. (1.4 pts.)** With the white light set up as in part (d), measure the deflection angle $\delta_0$ of violet light (at the far blue end of the spectrum) for the dominant peak depicted in Figure 7. The deflection angle is defined in Figure 8. Record all intermediate measurements. Provide error estimates.
 
 > [!figure] Figure 8 — The deflection angle $\delta_0$
-> ![[APhO_2011_exp_Q2_p5_f8.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q2_p5_f8.png]]
 > Light incident perpendicularly on the sample is transmitted and deflected by an angle $\delta_0$ from the original direction.
 
 **f. (1.4 pts.)** Illumination of the sample at different angles of incidence results in different deflection angles for the dominant transmitted peaks. Measure the minimal deflection angle $\delta_{min}$ of the dominant peak for transmitted violet light (there is only one such minimal angle). Record all intermediate measurements. Provide error estimates.
@@ -375,7 +375,7 @@ Remove the flashlight from the light-source stand, and replace it with the laser
 **WARNING:** Do not look directly into the laser beam or its reflections! Do not look at the laser light through the sample — use the provided screen.
 
 > [!figure] Figure 9 — Suggested observation setups for laser light
-> ![[APhO_2011_exp_Q2_p6_f9.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q2_p6_f9.png]]
 > Transmission: Laser — Sample — Screen. Reflection: Laser/Sample — Screen.
 
 Observe the alternating pattern of bright and dim fringes on the screen as you slightly rotate the sample. The dimming of some of the fringes is due to destructive interference between different regions of each "tooth" on the sample.
@@ -434,11 +434,11 @@ La carta è costituita da:
 > Chiamate un supervisore se avete bisogno di assistenza.
 
 > [figura] Figura 1  Sommario dell'attrezzatura
-> ![[APhO_2011_exp_Q2_p2_f1.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q2_p2_f1.png]]
 > (1) Il campione di plastica. (2) Tinta e supporto del campione. (3) Lanterna a LED bianca. (4) Laser rosso. (5) Fate riferimento alla fonte di luce. (6) schermo ricoperto di carta grafica millimetrica. (7) Pilo di legno su una panchina. (8) misura del nastro.
 
 > [figura] Figura 2  Rappresentazione rapida delle due fonti luminose
-> ![[APhO_2011_exp_Q2_p2_f2.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q2_p2_f2.png]]
 > (3) Lanterna bianca. (4) Laser rosso.
 
 ### Parte I  Teoria (0,4 punti)
@@ -446,7 +446,7 @@ La carta è costituita da:
 **a. (0,4 pts.) ** Un raggio luminoso è riflesso da due specchi che si incontrano ad un angolo $\varphi$ (Figura 3). Trova l'angolo $\gamma$ tra i raggi entranti e usciti. Supponiamo che tutti i raggi luminosi si trovino nel piano perpendicolare alla linea di intersezione degli specchi.
 
 > [figura] Figura 3  Un raggio di luce riflesso da due specchi
-> ![[APhO_2011_exp_Q2_p3_f3.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q2_p3_f3.png]]
 
 ### Parte II  Misure con luce bianca (6,1 punti)
 
@@ -455,13 +455,13 @@ Usando la lampada da fuoco bianca come fonte di luce, si possono osservare sia l
 **Caution: ** Per visualizzare la luce trasmessa, dovrai guardare direttamente nel raggio della lampada da fuoco attraverso il campione. Non farlo con il laser! Inoltre, non guardare direttamente la lampada da fuoco per lunghi periodi di tempo.
 
 > [figura] Figura 4  Configurazioni di osservazione suggerite per la luce bianca
-> ![[APhO_2011_exp_Q2_p3_f4.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q2_p3_f4.png]]
 > Trasmissione: occhio  campione  lampada da fuoco bianca. Riflessione: lampada bianca  campione  schermo.
 
 **b. (0,5 pts.)** La figura 5 illustra schematicamente quattro possibilità per la struttura microscopica del campione. $n$ indica l'indice di rifrazione della plastica. Scegli la struttura che meglio si adatta alle tue osservazioni. *Nota: * i 5 periodi indicati nella figura sono solo per esempio. In realtà, $d$ è piccolo e il campione contiene molti periodi.
 
 > [figura] Figura 5  Diverse possibilità per la struttura del campione
-> ![[APhO_2011_exp_Q2_p4_f5.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q2_p4_f5.png]]
 > (A) Stiglie triangolari simmetriche (periodo $d$, angolo $\varphi$). (B) Sceneggiature simmetriche con punte piatte (larghezza del sceneggiamento $d/2$, periodo $d$, angolo $\varphi$). (C) Denti di seggia asimmetrici con coppie piatte (larghezza $d/2$, periodo $d$, angolo $\varphi$). D) Profil di dente di seggia (a gonfiore) asimmetrico (periodo $d$, angolo $\varphi$).
 
 **c. (0,8 punti di punto) ** Trova l'angolo $\varphi$ del campione e stima il suo errore.
@@ -469,13 +469,13 @@ Usando la lampada da fuoco bianca come fonte di luce, si possono osservare sia l
 **d. (0,5 pts.)** Quando un fascio di luce bianca perpendicolare incide sul campione da uno dei suoi lati, nel luminoso trasmesso si può osservare il seguente modello debole, leggermente a destra dalla sorgente (Figura 6). "R", "G" e "B" sono rispettivamente rosso, verde e blu. *Nota:* questo modello può essere difficile da osservare e non sono necessarie misure su di esso.
 
 > [figura] Figura 6  Modello debole vicino alla fonte luminosa
-> ![[APhO_2011_exp_Q2_p4_f6.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q2_p4_f6.png]]
 > Gruppi colorati "BGR" ripetuti a destra della fonte.
 
 Più avanti a destra si può osservare un modello molto più luminoso (Figura 7):
 
 > [figura] Figura 7  Disegno luminoso più a destra dalla fonte luminosa
-> ![[APhO_2011_exp_Q2_p5_f7.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q2_p5_f7.png]]
 > Una singola sequenza brillante "R G B".
 
 Scegliere l' opzione corretta:
@@ -488,7 +488,7 @@ Scegliere l' opzione corretta:
 **e. (1,4 punti) ** Con la luce bianca impostata come nella parte (d), misurare l'angolo di deflessione $\delta_0$ della luce viola (all'estremo fine blu dello spettro) per il picco dominante raffigurato nella figura 7. L'angolo di deflezione è definito nella figura 8. Registrare tutte le misure intermedi. Fornire stime di errore.
 
 > [figura] Figura 8  L'angolo di deflessione $\delta_0$
-> ![[APhO_2011_exp_Q2_p5_f8.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q2_p5_f8.png]]
 > L'incidente luminoso perpendicolare sul campione viene trasmesso e deviato da un angolo $\delta_0$ dalla direzione originale.
 
 **f. L'illuminazione del campione a diverse angolazioni di incidenza comporta angoli di deviazione diversi per i picchi trasmessi dominanti. Misurare l'angolo di deviazione minimo $\delta_{min}$ del picco dominante per la luce viola trasmessa (esiste un solo angolo minimo). Registrare tutte le misure intermedi. Fornire stime di errore.
@@ -504,7 +504,7 @@ Rimuovi la lanterna dal supporto della fonte luminosa e sostituiscilo con il las
 ** AVVERTORE: ** Non guardare direttamente il fascio laser o i suoi riflessi! Non guardare la luce laser attraverso il campione  utilizzare lo schermo fornito.
 
 > [figura] Figura 9  Impostazioni di osservazione suggerite per la luce laser
-> ![[APhO_2011_exp_Q2_p6_f9.png]]
+> ![[_attachments/apho_2011_exp/apho_2011_exp_q2_p6_f9.png]]
 > Trasmissione: Laser  campione  schermo. Riflessione: Laser/Sampolo  schermo.
 
 Osservate il modello alternativo di margini luminosi e deboli sullo schermo mentre ruotate leggermente il campione. L'oscurazione di alcuni margini è dovuta ad interferenze distruttive tra le diverse regioni di ciascun "dente" del campione.

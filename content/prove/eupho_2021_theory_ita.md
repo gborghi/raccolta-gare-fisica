@@ -75,7 +75,7 @@ dove $\operatorname{arcsinh}x \equiv \ln\!\left(x + \sqrt{1+x^2}\right)$.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1OLha_oW7YUyuMg1lEVJ2BhzC4rtGUoMO/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1xsJ3vr5tw2RF4V4fBa7QcLigYdYEAbv2/view)
 
@@ -97,7 +97,7 @@ where $\operatorname{arcsinh}x \equiv \ln\!\left(x + \sqrt{1+x^2}\right)$.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1OLha_oW7YUyuMg1lEVJ2BhzC4rtGUoMO/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1xsJ3vr5tw2RF4V4fBa7QcLigYdYEAbv2/view)
 

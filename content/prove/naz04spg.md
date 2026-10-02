@@ -50,7 +50,7 @@ La griglia prosegue nelle pagine successive con i criteri di valutazione delle p
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1qyOZOPpB2EFf9rYS8kKMlmJ-5u6Tm4b-/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-PNapXFvCdsjnGpj70KYp5Zvv8lFzXni/view)
 
@@ -92,6 +92,6 @@ The grid continues on the following pages with the evaluation criteria for the r
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1qyOZOPpB2EFf9rYS8kKMlmJ-5u6Tm4b-/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-PNapXFvCdsjnGpj70KYp5Zvv8lFzXni/view)

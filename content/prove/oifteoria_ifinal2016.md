@@ -35,7 +35,7 @@ comprimento esticado devido a aplicação de força $\DeltaF$.
 **Topic:** [[Elasticity & Materials]], [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1zFWdSz9Vzot2YOMIEKlXCI8WWphy9yzU/view)
 
 
@@ -57,7 +57,7 @@ lunghezza allungata a causa dell'applicazione di forza $\DeltaF$.
 **Topic:** [[Elasticity & Materials]], [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1zFWdSz9Vzot2YOMIEKlXCI8WWphy9yzU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -78,7 +78,7 @@ length stretched due to force application $\DeltaF$.
 **Topic:** [[Elasticity & Materials]], [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1zFWdSz9Vzot2YOMIEKlXCI8WWphy9yzU/view)
 
 

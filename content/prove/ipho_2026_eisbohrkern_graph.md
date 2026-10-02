@@ -61,7 +61,7 @@ Examination of the samples allows conclusions to be drawn about climate changes.
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Modern-Quantum Physics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/15J75OX3rUvJlwIePv0MmwUzVW-i6DsqE/view)
 
 
@@ -109,7 +109,7 @@ L'esame dei campioni consente di trarre conclusioni sui cambiamenti climatici. U
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Modern-Quantum Physics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/15J75OX3rUvJlwIePv0MmwUzVW-i6DsqE/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -156,5 +156,5 @@ Examination of the samples allows conclusions to be drawn about climate change. 
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Modern-Quantum Physics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/15J75OX3rUvJlwIePv0MmwUzVW-i6DsqE/view)

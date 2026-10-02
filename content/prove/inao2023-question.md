@@ -130,7 +130,7 @@ The radius of the objective lens is $r = 5\ \text{cm}$. The limiting resolution 
 
 <!--fig:start-->
 **Quesito 2**
-![[INAO2023-Question_p3_f1.png]]
+![[_attachments/inao2023-question/inao2023-question_p3_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]], [[Astrophysics]]
@@ -151,7 +151,7 @@ Il raggio di raggi dell'obiettivo è $r = 5\ \text{cm}$. La risoluzione di limit
 
 <!--fig:start-->
 **Quesito 2**
-![[INAO2023-Question_p3_f1.png]]
+![[_attachments/inao2023-question/inao2023-question_p3_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]], [[Astrophysics]]
@@ -281,7 +281,7 @@ For the dates given in the table mark the projected positions of Mars on the ste
 
 <!--fig:start-->
 **Quesito 5**
-![[INAO2023-Question_p5_f1.png]]
+![[_attachments/inao2023-question/inao2023-question_p5_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Gravitation]], [[Astrophysics]]
@@ -306,7 +306,7 @@ Per le date indicate nella tabella, le posizioni progettate di Marte sullo sfond
 
 <!--fig:start-->
 **Quesito 5**
-![[INAO2023-Question_p5_f1.png]]
+![[_attachments/inao2023-question/inao2023-question_p5_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Gravitation]], [[Astrophysics]]

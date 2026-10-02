@@ -512,7 +512,7 @@ A 2-kg rock is suspended by a massless string from one end of a uniform 1-meter 
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1s28niqv2Ww_w8YAql8aTwuZncujT-Bfg/view)
 
 
@@ -534,7 +534,7 @@ Una roccia di 2 kg è sospesa da una corda senza massa da una estremità di un b
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1s28niqv2Ww_w8YAql8aTwuZncujT-Bfg/view)
 
 
@@ -647,7 +647,7 @@ A uniform disk ($I = \frac{1}{2}MR^2$) of mass 8.0 kg can rotate without frictio
 **Topic:** [[Rotational Dynamics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1s28niqv2Ww_w8YAql8aTwuZncujT-Bfg/view)
 
 
@@ -669,7 +669,7 @@ Un disco uniforme ($I = \frac{1}{2}MR^2$) di massa 8,0 kg può ruotare senza att
 **Topic:** [[Rotational Dynamics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1s28niqv2Ww_w8YAql8aTwuZncujT-Bfg/view)
 
 
@@ -1470,7 +1470,7 @@ What is the angular momentum of the object with respect to the axis of the cylin
 **Topic:** [[Rotational Dynamics]], [[Conservation of Momentum]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1s28niqv2Ww_w8YAql8aTwuZncujT-Bfg/view)
 
 
@@ -1494,7 +1494,7 @@ Qual è il momento angolare dell'oggetto rispetto all'asse del cilindro nel mome
 **Topic:** [[Rotational Dynamics]], [[Conservation of Momentum]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1s28niqv2Ww_w8YAql8aTwuZncujT-Bfg/view)
 
 
@@ -1516,7 +1516,7 @@ What is the kinetic energy of the object at the instant that the rope breaks? (4
 **Topic:** [[Rotational Dynamics]], [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1s28niqv2Ww_w8YAql8aTwuZncujT-Bfg/view)
 
 
@@ -1533,7 +1533,7 @@ Qual è l'energia cinetica dell'oggetto nel momento in cui la corda si rompe? (4
 **Topic:** [[Rotational Dynamics]], [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1s28niqv2Ww_w8YAql8aTwuZncujT-Bfg/view)
 
 
@@ -1555,7 +1555,7 @@ What is the length (not yet wound) of the rope at the instant it breaks? (6 pts)
 **Topic:** [[Rotational Dynamics]], [[Conservation of Momentum]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1s28niqv2Ww_w8YAql8aTwuZncujT-Bfg/view)
 
 
@@ -1572,7 +1572,7 @@ Qual è la lunghezza della corda quando si rompe? 6 punti)
 **Topic:** [[Rotational Dynamics]], [[Conservation of Momentum]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1s28niqv2Ww_w8YAql8aTwuZncujT-Bfg/view)
 
 

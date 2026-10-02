@@ -35,7 +35,7 @@ Un pendolo è costituito da una sfera di massa $m$ collegata a un'estremità di 
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[Sphere (object)|Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1a08T5jjPHSI2HFEwfS-v_XmbL3vPvQk2/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1__gTlHRuydOP1Lp4r5jmplYJ-sRVdSPK/view)
 
@@ -62,7 +62,7 @@ A pendulum consists of a sphere of mass $m$ connected to one end of a length of 
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[Sphere (object)|Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1a08T5jjPHSI2HFEwfS-v_XmbL3vPvQk2/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1__gTlHRuydOP1Lp4r5jmplYJ-sRVdSPK/view)
 
@@ -145,7 +145,7 @@ In assenza di attriti, i corpi si dispongono in una situazione di equilibrio in 
 **Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Symmetry Argument (metodo)|Symmetry Argument]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1a08T5jjPHSI2HFEwfS-v_XmbL3vPvQk2/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1__gTlHRuydOP1Lp4r5jmplYJ-sRVdSPK/view)
 
@@ -174,7 +174,7 @@ In the absence of friction, the bodies are placed in a balanced position where t
 **Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Symmetry Argument (metodo)|Symmetry Argument]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1a08T5jjPHSI2HFEwfS-v_XmbL3vPvQk2/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1__gTlHRuydOP1Lp4r5jmplYJ-sRVdSPK/view)
 

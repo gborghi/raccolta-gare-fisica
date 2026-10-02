@@ -172,7 +172,7 @@ Supongamos que a una temperatura de $300\ \text{K}$ se desea desalinizar $1\ \te
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Membrane (object)|Membrane]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Membrane (object)|Membrane]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1T8Tcqf-HO3ICoHCdywsBremJS06uvCmg/view)
 
 
@@ -213,7 +213,7 @@ Supponiamo che a una temperatura di $300\ \text{K}$ si desidera desalinizzare $1
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Membrane (object)|Membrane]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Membrane (object)|Membrane]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1T8Tcqf-HO3ICoHCdywsBremJS06uvCmg/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -253,7 +253,7 @@ Suppose at a temperature of $300\ \text{K}$ $1\ \text{m}^3$ of seawater is desal
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Membrane (object)|Membrane]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Membrane (object)|Membrane]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1T8Tcqf-HO3ICoHCdywsBremJS06uvCmg/view)
 
 

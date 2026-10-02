@@ -256,7 +256,7 @@ acceleration $5\ \text{m/s}^2$.
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1pqa2jgVPMpHNqMqb_mU5ClbifRVEhXwi/view)
 
 
@@ -276,7 +276,7 @@ accelerazione $5\ \text{m/s}^2$.
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1pqa2jgVPMpHNqMqb_mU5ClbifRVEhXwi/view)
 
 
@@ -601,7 +601,7 @@ incline until it stops momentarily? Assume the rope remains taut throughout the 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1pqa2jgVPMpHNqMqb_mU5ClbifRVEhXwi/view)
 
 
@@ -620,7 +620,7 @@ inclinarsi fino a che non si ferma per un momento? Supponiamo che la corda riman
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1pqa2jgVPMpHNqMqb_mU5ClbifRVEhXwi/view)
 
 
@@ -782,7 +782,7 @@ stands still on ground.
 **Topic:** [[Elasticity & Materials]], [[Newtonian Mechanics]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Disk (object)|Disk]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Disk (object)|Disk]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1pqa2jgVPMpHNqMqb_mU5ClbifRVEhXwi/view)
 
 
@@ -804,7 +804,7 @@ Un buco di raggio $R/2$ è tagliato da un disco solido uniforme di raggio $R$ e 
 **Topic:** [[Elasticity & Materials]], [[Newtonian Mechanics]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Disk (object)|Disk]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Disk (object)|Disk]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1pqa2jgVPMpHNqMqb_mU5ClbifRVEhXwi/view)
 
 

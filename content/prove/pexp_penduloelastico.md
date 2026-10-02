@@ -68,7 +68,7 @@ longitud, $l_0$, comprendida entre los dos extremos del muelle (figura 4b).
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Spring (object)|Spring]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1NlRO_Jpx4pJ8u-pNuRjKF7j4iejwH8Qt/view)
 
 
@@ -84,7 +84,7 @@ lunghezza $l_0$, compresa tra le due estremità del molo (Figura 4b).
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Spring (object)|Spring]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1NlRO_Jpx4pJ8u-pNuRjKF7j4iejwH8Qt/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -99,7 +99,7 @@ length, $l_0$, between the two ends of the dock (Figure 4b).
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Spring (object)|Spring]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1NlRO_Jpx4pJ8u-pNuRjKF7j4iejwH8Qt/view)
 
 

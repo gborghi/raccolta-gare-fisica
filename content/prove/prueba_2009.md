@@ -707,7 +707,7 @@ $$P_\text{perd} = 421.08\ \text{W}$$
 **Topic:** [[Thermodynamics]], [[Electromagnetism]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/126QgIjCAz2XtSpFUOgsPOUksVygs0W3r/view)
 
 
@@ -884,7 +884,7 @@ $$P_\text{perd} = 421.08\ \text{W}$$
 **Topic:** [[Thermodynamics]], [[Electromagnetism]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/126QgIjCAz2XtSpFUOgsPOUksVygs0W3r/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1060,7 +1060,7 @@ $$P_\text{perd} = 421.08\ \text{W}$$
 **Topic:** [[Thermodynamics]], [[Electromagnetism]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/126QgIjCAz2XtSpFUOgsPOUksVygs0W3r/view)
 
 

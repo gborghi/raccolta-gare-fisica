@@ -212,7 +212,7 @@ modulus of steel is constant in temperature.
 **Topic:** [[Oscillations & Waves]], [[Thermodynamics]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1cNA1EGNA-mfv0r6eZ1pPqzhsDPNaI-RG/view)
 
 
@@ -263,7 +263,7 @@ il modulo dell'acciaio è costante a temperatura.
 **Topic:** [[Oscillations & Waves]], [[Thermodynamics]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1cNA1EGNA-mfv0r6eZ1pPqzhsDPNaI-RG/view)
 
 

@@ -246,7 +246,7 @@ Dopo la conclusione della simulazione è possibile iniziarne un'altra.
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Spring (object)|Spring]], [[Block (object)|Block]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Spring (object)|Spring]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1TA013Qzdvm8X5oG3yUWo2qwojp5QU6xI/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1i2EQfs_tWpOxycssXq4GtRs5-G6niWF5/view)
 
@@ -321,6 +321,6 @@ After the simulation is completed, another simulation can be started.
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Spring (object)|Spring]], [[Block (object)|Block]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Spring (object)|Spring]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1TA013Qzdvm8X5oG3yUWo2qwojp5QU6xI/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1i2EQfs_tWpOxycssXq4GtRs5-G6niWF5/view)

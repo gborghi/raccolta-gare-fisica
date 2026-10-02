@@ -33,7 +33,7 @@ The fractional quantum Hall effect (FQHE) was discovered by D. C. Tsui and H. St
 
 **(c)** **(2 points)** We know that electrons move in circular orbits in the magnetic field. In the quantum mechanical picture, the impinging magnetic field $B$ could be viewed as creating tiny whirlpools, so-called vortices, in the sea of electrons — one whirlpool for each flux quantum $h/e$ of the magnetic field. For the case of $R_H = 3h/e^2$, which was discovered by Tsui and Stormer, derive the ratio of the number of the electrons $N$ to the number of the flux quanta $N_\phi$, known as the filling factor $\nu$.
 
-![[APhO_2015_theory/APhO_2015_theory_Q1_p2_f1.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q1_p2_f1.png]]
 
 *Figure 1: (a) Sketch of the experimental setup for the observation of the FQHE. As indicated, a current $I$ is passing through a two-dimensional electron system in the longitudinal direction with an effective length $L$. The Hall voltage $V_H$ is measured in the transverse direction with an effective width $W$. In addition, a uniform magnetic field $B$ is applied perpendicular to the plane. The direction of the current is given for illustrative purpose only, which may not be correct. (b) Hall resistance $R_H$ versus $B$ at four different temperatures (curves shifted for clarity) in the original publication on the FQHE. The features at $R_H = 3h/e^2$ are due to the FQHE.*
 
@@ -95,7 +95,7 @@ In un modello classico, gli elettroni bidimensionali si comportano come palline 
 
 **(c) ** **(2 punti) ** Sappiamo che gli elettroni si muovono in orbite circolari nel campo magnetico. Nell'immagine meccanica quantistica, il campo magnetico impingente $B$ potrebbe essere visto come la creazione di piccoli turbolini, i cosiddetti vortici, nel mare di elettroni  un turbolino per ogni flusso quantistico $h/e$ del campo magnetico. Per il caso di $R_H = 3h/e^2$, scoperto da Tsui e Stormer, derivare il rapporto tra il numero di elettroni $N$ e il numero dei quanti di flusso $N_\phi$, noto come fattore di riempimento $\nu$.
 
-![[APhO_2015_theory/APhO_2015_theory_Q1_p2_f1.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q1_p2_f1.png]]
 
 *Figura 1: a) Sketto dell'impianto sperimentale per l'osservazione della FQHE. Come indicato, una corrente $I$ passa attraverso un sistema di elettroni bidimensionali nella direzione longitudinale con una lunghezza effettiva $L$. La tensione di Hall $V_H$ è misurata in direzione trasversale con una larghezza effettiva $W$. Inoltre, viene applicato un campo magnetico uniforme $B$ perpendicolare al piano. La direzione della corrente è data solo per scopi illustrativi, che potrebbero non essere corretti. b) Resistenza di sala $R_H$ rispetto a $B$ a quattro temperature diverse (corve spostate per la chiarezza) nella pubblicazione originale sul FQHE. Le caratteristiche di $R_H = 3h/e^2$ sono dovute alla FQHE.*
 
@@ -148,7 +148,7 @@ Nella nostra analisi abbiamo trascurato diversi fattori, le cui scale energetich
 
 **How are aurora ignited by the solar wind?**
 
-![[APhO_2015_theory/APhO_2015_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q2_p1_f1.png]]
 
 *Figure 1*
 
@@ -158,21 +158,21 @@ The following questions are designed to guide you to find the answer one step by
 
 It is well known that the Earth has a substantial magnetic field. The field lines defining the structure of the Earth's magnetic field is similar to that of a simple bar magnet, as shown in Figure 2. The Earth's magnetic field is disturbed by the solar wind, whichis a high-speed stream of hot plasma. (The plasma is the quasi-neutralionized gas.)The plasma blows outward from the Sun and varies in intensity with the amount of surface activity on the Sun. The solar wind compresses the Earth's magnetic field. On the other hand, the Earth's magnetic field shields the Earth from much of the solar wind. When the solar wind encounters the Earth's magnetic field, it is deflected like water around the bow of a ship, as illustrated in Figure 3.
 
-![[APhO_2015_theory/APhO_2015_theory_Q2_p1_f2.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q2_p1_f2.png]]
 
 *Figure 2*
 
 The curved surface at which the solar wind is first deflected is called the *bow shock*. The corresponding region behind the bow shock andfront of the Earth's magnetic field is called the *magnetosheath*. The region surroundedby the solar wind is called the *magnetosphere*.The Earth's magnetic field largely prevents the solar wind from enteringthe magnetosphere. The contact region between the solar wind and the Earth's magnetic field is named the *magnetopause*. The location of the magnetopause is mainly determined by the intensity and the magnetic field direction of the solar wind. When the magnetic field in the solar wind is antiparallel to the Earth's magnetic field, magnetic reconnection as shown in Figure 4 takes place at the dayside magnetopause, which allows charged particles enter into the magnetosphere. The 'point A' marked in the magnetopause, which means charged particles offthe solar wind enter into the magnetosphere, is the region "A" to move into the region "P". The energetic particles in the solar wind couldcause high-transfer of magnitude of the kinetic energy. (This amount would also be the additional energy penalty if we put two electrons in the same whirlpool, instead of in two separate whirlpools due to Pauli exclusion principle?)
 
-![[APhO_2015_theory/APhO_2015_theory_Q2_p2_f3.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q2_p2_f3.png]]
 
 *Figure 3*
 
-![[APhO_2015_theory/APhO_2015_theory_Q2_p2_f4.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q2_p2_f4.png]]
 
 we first considerthe motion of an electron in a uniform magnetic field $\vec{B}$. When the initial electron velocity $\vec{v}$ is perpendicular to the uniform magnetic field as shown in Figure 6, please calculate the electron trajectory.The electron is initially located at $(x,y,z)=(0,0,0)$.
 
-![[APhO_2015_theory/APhO_2015_theory_Q2_p3_f5.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q2_p3_f5.png]]
 
 *Figure 5*
 
@@ -212,7 +212,7 @@ where $r = \sqrt{x^2 + y^2 + z^2}$, $B_0 = 3.1 \times 10^{-5}$ T, and $\hat{x}, 
 
   (i) **(1 Point)** Before we study the motion of a charged particle in the Earth's dipole magnetic field, we first considerthe motion of an electron in a uniform magnetic field $\vec{B}$. When the initial electron velocity $\vec{v}$ is perpendicular to the uniform magnetic field as shown in Figure 6, please calculate the electron trajectory.The electron is initially located at $(x,y,z)=(0,0,0)$.
 
-![[APhO_2015_theory/APhO_2015_theory_Q2_p4_f6.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q2_p4_f6.png]]
 
 *Figure 6*
 
@@ -242,7 +242,7 @@ The magnetic field around this position is also assumed to be uniform. Be aware 
 
 **(d)** **(4 Points)** From Figures 2, 3, and 5, it can be clearly seen that the Earth's magnetic fieldstrength along a magnetic field line is the largest at the poles and the smallest in the equatorial plane.Since the Earth's dipole magnetic field is axially symmetric and slowly varying along a magnetic field line, it can for simplicitybe treated as a magnetic-mirror field as shown in Figure 7.The magnetic field strength along a magnetic field line is the smallest ($B_0$) at the point "$P_2$" and the largest ($B_m$) at the points "$P_1$" and "$P_3$". An electron with an initial velocity $\vec{v}$ is located at the point "$P_2$" and drifts towards the point "$P_1$". The angle between the initial velocity $\vec{v}$ and the magnetic field at the point "$P_2$" is $0° < \theta < 90°$. For the magnetic-mirror field $\vec{B} = B_r\hat{r} + B_z\hat{z}$ (with $B_r << B_z$), we can assume $\dfrac{dB}{dz} \approx \dfrac{dB}{ds}$, where $\dfrac{dB}{ds}$ is the spatial derivative of $B$ along a magnetic field line. Since there is no evidence of the existence of magnetic monopoles, we have $\langle B_r \rangle = -\dfrac{1}{2}\dfrac{dB}{dz}r_c << B_z$, where $\langle B_r \rangle$ is the gyro-average of $B_r$ and $r_c$ is the electron gyroradius.
 
-![[APhO_2015_theory/APhO_2015_theory_Q2_p6_f7.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q2_p6_f7.png]]
 
 *Figure 7*
 
@@ -252,11 +252,11 @@ The magnetic field around this position is also assumed to be uniform. Be aware 
 
 **(e)** **(1 Point)** Each magnetic field lines (blue lines) are shown in Figure 8. The spiral trajectory of a charged particle (red curve) is assumed to be confined in the $(x-y)$ plane since the gradient and the curvature of the magnetic field can be ignored. If a charged particle with the mass $m$, charge $q$, and velocity $\vec{v}$ is initially located at the equatorial point [$x=4R_E$, $y=0$, $z=0$] plane and drifts towards the positive $y$-axis where the magnetic field is $\theta$. Initially, please determine what the condition should be satisfied for $\theta$ if the charged particle arrives below 200km of its altitude at the latitude 60°.
 
-![[APhO_2015_theory/APhO_2015_theory_Q2_p6_f8.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q2_p6_f8.png]]
 
 **(f)** **(5 Points)** As shown in Figure 5, when magnetic reconnection takes place at the dayside magnetopause, reconnected magnetic field lines drift towards the nightside region because the solar wind flows tailward. Thus, some solar wind electrons in the region "A" also move towards the magnetotail in the region "P". After the electrons arrive in the region "P", some electrons can be accelerated to around 1keV. If energetic electrons drift down to the thermosphere (The altitude of the thermosphere is about 85km-800km.), energetic electrons can collide with the neutral atoms, which could cause the neutral atoms to jump into excited states. A photon is emitted when the higher excited state of aneutral atom returns to lower excited state or ground state. Splendid aurora (Figure 1) is generated in the aurora oval due to photons with different wavelengths. It is found that the aurorais mainly resulted fromphotonsemittedby oxygen atoms.The energy levels in the first and second excited states relative to the ground stateare 1.96eV and 4.17eV, respectively. The lifetimes of the two excited states of an oxygen atomare 110s and 0.8s as shown in Figure 9.
 
-![[APhO_2015_theory/APhO_2015_theory_Q2_p7_f9.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q2_p7_f9.png]]
 
 *Figure 9*
 
@@ -278,7 +278,7 @@ The magnetic field around this position is also assumed to be uniform. Be aware 
 
 **How are aurora ignited by the solar wind?**
 
-![[APhO_2015_theory/APhO_2015_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q2_p1_f1.png]]
 
 *Figura 1*
 
@@ -288,21 +288,21 @@ Le seguenti domande sono progettate per aiutarti a trovare la risposta passo dop
 
 È noto che la Terra ha un campo magnetico sostanziale. Le linee di campo che definiscono la struttura del campo magnetico terrestre sono simili a quelle di un semplice magnete a barre, come mostrato nella Figura 2. Il campo magnetico terrestre è disturbato dal vento solare, che è un flusso ad alta velocità di plasma caldo. (Il plasma è il gas quasi neutralizzato.)Il plasma soffia verso l'esterno dal Sole e varia in intensità con la quantità di attività superficiale sul Sole. Il vento solare compresse il campo magnetico terrestre. D'altra parte, il campo magnetico terrestre protegge la Terra da gran parte del vento solare. Quando il vento solare incontra il campo magnetico terrestre, si devia come l'acqua intorno all'arco di una nave, come illustrato nella Figura 3.
 
-![[APhO_2015_theory/APhO_2015_theory_Q2_p1_f2.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q2_p1_f2.png]]
 
 *Figura 2*
 
 La superficie curva in cui il vento solare viene deviato per la prima volta si chiama scossa dell'arco **. The corresponding region behind the bow shock andfront of the Earth's magnetic field is called the *magnetosheath*. The region surroundedby the solar wind is called the *magnetosphere*.The Earth's magnetic field largely prevents the solar wind from enteringthe magnetosphere. La regione di contatto tra il vento solare e il campo magnetico terrestre è chiamata *magnetopause*. La posizione della magnetopausa è determinata principalmente dall'intensità e dalla direzione del campo magnetico del vento solare. Quando il campo magnetico del vento solare è antiparallelle al campo magnetico terrestre, la riconnessione magnetica come mostrato nella figura 4 si verifica alla magnetopausa di giorno, che consente alle particelle cariche di entrare nella magnetosfera. Il "punto A" segnato nella magnetopausa, che significa particelle cariche del vento solare che entrano nella magnetosfera, è la regione "A" per spostarsi nella regione "P". Le particelle energetiche del vento solare potrebbero causare un trasferimento di grandezza dell'energia cinetica. (Questa quantità sarebbe anche la penalità di energia aggiuntiva se mettiamo due elettroni nello stesso turbolino, invece di due turbolini separati a causa del principio di esclusione di Pauli?)
 
-![[APhO_2015_theory/APhO_2015_theory_Q2_p2_f3.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q2_p2_f3.png]]
 
 *Figura 3*
 
-![[APhO_2015_theory/APhO_2015_theory_Q2_p2_f4.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q2_p2_f4.png]]
 
 In primo luogo, consideriamo il movimento di un elettrone in un campo magnetico uniforme $\vec{B}$. When the initial electron velocity $\vec{v}$ is perpendicular to the uniform magnetic field as shown in Figure 6, please calculate the electron trajectory.The electron is initially located at $(x,y,z)=(0,0,0)$.
 
-![[APhO_2015_theory/APhO_2015_theory_Q2_p3_f5.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q2_p3_f5.png]]
 
 *Figura 5*
 
@@ -342,7 +342,7 @@ dove $r = \sqrt{x^2 + y^2 + z^2}$, $B_0 = 3.1 \times 10^{-5}$ T e $\hat{x}, \hat
 
   (i) **(1 Point)** Before we study the motion of a charged particle in the Earth's dipole magnetic field, we first considerthe motion of an electron in a uniform magnetic field $\vec{B}$. When the initial electron velocity $\vec{v}$ is perpendicular to the uniform magnetic field as shown in Figure 6, please calculate the electron trajectory.The electron is initially located at $(x,y,z)=(0,0,0)$.
 
-![[APhO_2015_theory/APhO_2015_theory_Q2_p4_f6.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q2_p4_f6.png]]
 
 *Figura 6*
 
@@ -372,7 +372,7 @@ Si presume anche che il campo magnetico attorno a questa posizione sia uniforme.
 
 **(d)** **(4 Points)** From Figures 2, 3, and 5, it can be clearly seen that the Earth's magnetic fieldstrength along a magnetic field line is the largest at the poles and the smallest in the equatorial plane.Since the Earth's dipole magnetic field is axially symmetric and slowly varying along a magnetic field line, it can for simplicitybe treated as a magnetic-mirror field as shown in Figure 7.The magnetic field strength along a magnetic field line is the smallest ($B_0$) at the point "$P_2$" and the largest ($B_m$) at the points "$P_1$" and "$P_3$". Un elettrone con una velocità iniziale $\vec{v}$ si trova al punto "$P_2$" e deriva verso il punto "$P_1$". L'angolo tra la velocità iniziale $\vec{v}$ e il campo magnetico al punto "$P_2$" è $0° < \theta < 90°$. Per il campo di specchio magnetico $\vec{B} = B_r\hat{r} + B_z\hat{z}$ (con $B_r << B_z$), possiamo assumere $\dfrac{dB}{dz} \approx \dfrac{dB}{ds}$, dove $\dfrac{dB}{ds}$ è la derivata spaziale di $B$ lungo una linea di campo magnetico. Poiché non ci sono prove dell'esistenza di monopoli magnetici, abbiamo $\langle B_r \rangle = -\dfrac{1}{2}\dfrac{dB}{dz}r_c << B_z$, dove $\langle B_r \rangle$ è la girometria di $B_r$ e $r_c$ è il giroradio elettronico.
 
-![[APhO_2015_theory/APhO_2015_theory_Q2_p6_f7.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q2_p6_f7.png]]
 
 *Figura 7*
 
@@ -382,11 +382,11 @@ Si presume anche che il campo magnetico attorno a questa posizione sia uniforme.
 
 **(e) ** **(1 punto) ** Ogni linea di campo magnetico (linea blu) è mostrata nella figura 8. Si presume che la traiettoria a spirale di una particella carica (curva rossa) sia confinata nel piano $(x-y)$ poiché il gradiente e la curvatura del campo magnetico possono essere ignorati. Se una particella carica con massa $m$, carica $q$ e velocità $\vec{v}$ si trova inizialmente al punto equatoriale [$x=4R_E$, $y=0$, $z=0$] e si sposta verso l'asse positivo $y$, dove il campo magnetico è $\theta$. Innanzitutto, si prega di determinare quale condizione deve essere soddisfatta per $\theta$ se la particella carica arriva a 200 km di altitudine alla latitudine 60°.
 
-![[APhO_2015_theory/APhO_2015_theory_Q2_p6_f8.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q2_p6_f8.png]]
 
 **(f) ** **(5 Punti) ** Come mostrato nella figura 5, quando si verifica la riconnessione magnetica alla magnetopausa di giorno, le linee di campo magnetico riconnesse si allontanano verso la regione di notte perché il vento solare scorre verso la coda. Pertanto, alcuni elettroni del vento solare nella regione "A" si spostano anche verso la magnetotesta nella regione "P". Dopo che gli elettroni arrivano nella regione "P", alcuni elettroni possono essere accelerati fino a circa 1keV. Se gli elettroni energetici si allontanano verso la termosfera (l'altitudine della termosfera è di circa 85km-800km), gli elettroni energetici possono collidere con gli atomi neutri, che potrebbero causare gli atomi neutri a saltare in stati eccitati. Un fotone viene emesso quando lo stato eccitato più alto di un atomo anetrale ritorna allo stato eccitato più basso o allo stato di base. L'aurora splendida (Figura 1) viene generata nell'ovalo dell'aurora a causa di fotoni con lunghezze d'onda diverse. Si constata che l'aurora è principalmente derivata da fotoni emessi dagli atomi di ossigeno. I livelli di energia nei primi e secondi stati eccitati rispetto allo stato di terra sono rispettivamente di 1,96 eV e 4,17 eV. Le vite dei due stati eccitati di un atomo di ossigeno sono di 110 e 0,8 secondi come mostrato nella Figura 9.
 
-![[APhO_2015_theory/APhO_2015_theory_Q2_p7_f9.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q2_p7_f9.png]]
 
 *Figura 9*
 
@@ -419,7 +419,7 @@ $$F = \frac{4R}{(1-R)^2},$$
 
 $R$ is the reflectivity of the inner surfaces, $\delta = \dfrac{4\pi nt\cos\theta}{\lambda}$ is the phase shift of two neighboring rays, $n$ is the refractive index of the gas, $t$ is the spacing of inner surfaces, $\theta$ is the incident angle, and $\lambda$ is the light wavelength.
 
-![[APhO_2015_theory/APhO_2015_theory_Q3_p1_f1.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q3_p1_f1.png]]
 
 *Figure 1*
 
@@ -435,7 +435,7 @@ Some physical constants: $h = 6.626 \times 10^{-34}$ J·s, $e = 1.6 \times 10^{-
 
   (ii) the resolution $\lambda/\Delta\lambda$ of the etalon.
 
-![[APhO_2015_theory/APhO_2015_theory_Q3_p2_f2.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q3_p2_f2.png]]
 
 *Figure 2*
 
@@ -443,13 +443,13 @@ Some physical constants: $h = 6.626 \times 10^{-34}$ J·s, $e = 1.6 \times 10^{-
 
 **(d)** **(2 points)** Energy levels splitting of Sodium atoms occurs when they are placed in a magnetic field. This is called as the Zeeman effect. The energy shift given by $\Delta E = m_j g_L \mu_B B$, where the quantum number $m_j$ can be J, J-1, …, -J+1, -J. J is the total angular quantum number. $g_L$ is the Landé factor, $\mu_B = \dfrac{he}{4\pi m_e}$ is Bohr magneton, h is the Planck constant, e is the electron charge, $m_e$ is the electron mass, B is the magnetic field. As shown in Fig. 3, the D1 spectral line is emitted when Sodium atoms jump from the energy level $^2P_{1/2}$ down to $^2S_{1/2}$. We have $J = \dfrac{1}{2}$ for both $^2P_{1/2}$ and $^2S_{1/2}$. Therefore, in the magnetic field, each energy level will be split into two levels. We define the energy gap of two splitting levels as $\Delta E_1$ for $^2P_{1/2}$ and $\Delta E_2$ for $^2S_{1/2}$ respectively ($\Delta E_1 < \Delta E_2$). As a result, the D1 line is split into 4 spectral lines (a, b, c, and d), as showed in Fig. 3. Please write down the expression of the frequency ($\nu$) of four lines a, b, c, and d.
 
-![[APhO_2015_theory/APhO_2015_theory_Q3_p3_f3.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q3_p3_f3.png]]
 
 *Figure 3*
 
 **(e)** **(3 points)** As shown in Fig. 4, when the magnetic field is turned on, each fringe of the D1 line will split into four sub-fringes (1, 2, 3, and 4). The diameter of the four sub-fringes near the center is measured as $D_1$, $D_2$, $D_3$, and $D_4$. Please give the expression of the splitting energy gap $\Delta E_1$ of $^2P_{1/2}$ and $\Delta E_2$ of $^2S_{1/2}$.
 
-![[APhO_2015_theory/APhO_2015_theory_Q3_p3_f4.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q3_p3_f4.png]]
 
 *Figure 4*
 
@@ -477,7 +477,7 @@ $$F = \frac{4R}{(1-R)^2},$$
 
 $R$ è la riflettività delle superfici interne, $\delta = \dfrac{4\pi nt\cos\theta}{\lambda}$ è il spostamento di fase di due raggi vicini, $n$ è l'indice di rifrazione del gas, $t$ è l'intervallo delle superfici interne, $\theta$ è l'angolo di incidenza e $\lambda$ è la lunghezza d'onda di luce.
 
-![[APhO_2015_theory/APhO_2015_theory_Q3_p1_f1.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q3_p1_f1.png]]
 
 *Figura 1*
 
@@ -493,7 +493,7 @@ Alcune costanti fisiche: $h = 6.626 \times 10^{-34}$ J·s, $e = 1.6 \times 10^{-
 
 - la risoluzione $\lambda/\Delta\lambda$ dell'eccellente.
 
-![[APhO_2015_theory/APhO_2015_theory_Q3_p2_f2.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q3_p2_f2.png]]
 
 *Figura 2*
 
@@ -501,13 +501,13 @@ Alcune costanti fisiche: $h = 6.626 \times 10^{-34}$ J·s, $e = 1.6 \times 10^{-
 
 **(d) ** **(2 punti) ** Livelli energetici La divisione degli atomi di sodio si verifica quando vengono posizionati in un campo magnetico. Questo è chiamato effetto Zeeman. Il cambiamento di energia dato da $\Delta E = m_j g_L \mu_B B$, dove il numero quantistico $m_j$ può essere J, J-1, …, -J+1, -J. J è il numero quantistico angolare totale. $g_L$ è il fattore Landé, $\mu_B = \dfrac{he}{4\pi m_e}$ è il magnetone di Bohr, h è la costante di Planck, e è la carica di elettroni, $m_e$ è la massa di elettroni, B è il campo magnetico. Come mostrato nella figura. 3, la linea spettrale D1 viene emessa quando gli atomi di sodio saltano dal livello di energia $^2P_{1/2}$ a $^2S_{1/2}$. Abbiamo $J = \dfrac{1}{2}$ per entrambi $^2P_{1/2}$ e $^2S_{1/2}$. Pertanto, nel campo magnetico, ogni livello di energia sarà diviso in due livelli. Definitiamo il divario energetico di due livelli di divisione come $\Delta E_1$ per $^2P_{1/2}$ e $\Delta E_2$ per $^2S_{1/2}$ rispettivamente ($\Delta E_1 < \Delta E_2$). Di conseguenza, la linea D1 è divisa in 4 linee spettrali (a, b, c e d), come mostrato in Figura. 3. Si prega di annotare l'espressione della frequenza ($\nu$) di quattro linee a, b, c e d.
 
-![[APhO_2015_theory/APhO_2015_theory_Q3_p3_f3.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q3_p3_f3.png]]
 
 *Figura 3*
 
 **(e) ** **(3 punti) ** Come mostrato alla figura. 4, quando il campo magnetico è acceso, ogni margine della linea D1 si dividerà in quattro sottorini (1, 2, 3 e 4). Il diametro dei quattro sottoperiferi vicini al centro è misurato come $D_1$, $D_2$, $D_3$ e $D_4$. Indicare l'espressione del diviso energetico $\Delta E_1$ di $^2P_{1/2}$ e $\Delta E_2$ di $^2S_{1/2}$.
 
-![[APhO_2015_theory/APhO_2015_theory_Q3_p3_f4.png]]
+![[prove/_attachments/apho_2015_theory/apho_2015_theory_q3_p3_f4.png]]
 
 *Figura 4*
 

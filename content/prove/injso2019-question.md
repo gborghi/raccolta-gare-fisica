@@ -21,7 +21,7 @@ Liver is an organ that maintains constant levels of different substances in the 
 
 <!--fig:start-->
 **Quesito 1**
-![[INJSO2019-Question_p3_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p3_f1.png]]
 <!--fig:end-->
 
 The substance and three activities I – III respectively must be:
@@ -49,7 +49,7 @@ Il fegato è un organo che mantiene livelli costanti di diverse sostanze nel san
 
 <!--fig:start-->
 **Quesito 1**
-![[INJSO2019-Question_p3_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p3_f1.png]]
 <!--fig:end-->
 
 La sostanza e le tre attività I  III devono essere rispettivamente:
@@ -80,7 +80,7 @@ Maintaining a proper internal fluid environment is essential for any organism. M
 
 <!--fig:start-->
 **Quesito 2**
-![[INJSO2019-Question_p4_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p4_f1.png]]
 <!--fig:end-->
 
 Choose the correct statement.
@@ -104,7 +104,7 @@ Il mantenimento di un ambiente fluido interno adeguato è essenziale per qualsia
 
 <!--fig:start-->
 **Quesito 2**
-![[INJSO2019-Question_p4_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p4_f1.png]]
 <!--fig:end-->
 
 Scegli la frase corretta.
@@ -172,7 +172,7 @@ During extensive activity, there is accumulation of lactic acid in muscles. This
 
 <!--fig:start-->
 **Quesito 4**
-![[INJSO2019-Question_p5_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p5_f1.png]]
 <!--fig:end-->
 
 - (A) I
@@ -194,7 +194,7 @@ Durante un'attività estesa si accumula acido lattico nei muscoli. Questo potreb
 
 <!--fig:start-->
 **Quesito 4**
-![[INJSO2019-Question_p5_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p5_f1.png]]
 <!--fig:end-->
 
 - (A) I
@@ -333,7 +333,7 @@ It was 3.30 in the afternoon when Ajay reached the cinema hall after 20 minutes 
 
 <!--fig:start-->
 **Quesito 7**
-![[INJSO2019-Question_p6_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p6_f1.png]]
 <!--fig:end-->
 
 - (A) Circular muscles relax, radial muscles relax and pupil contracts.
@@ -355,7 +355,7 @@ Erano le 3.30 del pomeriggio quando Ajay arrivò al cinema dopo 20 minuti a pied
 
 <!--fig:start-->
 **Quesito 7**
-![[INJSO2019-Question_p6_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p6_f1.png]]
 <!--fig:end-->
 
 - (A) I muscoli circolari si rilassano, i muscoli radiali si rilassano e le pupille si contraggono.
@@ -468,7 +468,7 @@ The thyroid gland secretes thyroxine (T4) and triiodothyronine (T3), together kn
 
 <!--fig:start-->
 **Quesito 10**
-![[INJSO2019-Question_p7_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p7_f1.png]]
 <!--fig:end-->
 
 One of the actions of thyroid hormone is to increase the basal metabolic rate (BMR) of a person. A person who has suddenly gained weight and has a swollen neck goes to a doctor. The person also feels tired and mentally dull. Clinical analysis shows that the person has low levels of T4. The doctor feels that either the pituitary or the thyroid is non-functional. In order to identify the impaired organ the person is given TSH stimulation. Which one of the following observations and the conclusions made is correct?
@@ -492,7 +492,7 @@ La ghiandola tiroidea secre la tiroxina (T4) e la triiodotironina (T3), insieme 
 
 <!--fig:start-->
 **Quesito 10**
-![[INJSO2019-Question_p7_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p7_f1.png]]
 <!--fig:end-->
 
 Una delle azioni dell'ormone tiroideo è quella di aumentare il tasso di metabolismo basale (BMR) di una persona. Una persona che improvvisamente ha ingrossato e ha un collo gonfio va dal medico. La persona si sente anche stanca e mentalmente stanca. L'analisi clinica mostra che la persona ha bassi livelli di T4. Il medico ritiene che l'ipofusce o la tiroide non funzionino. Per identificare l' organo alterato, la persona riceve una stimolazione TSH. Quali delle seguenti osservazioni e conclusioni sono corrette?
@@ -605,7 +605,7 @@ An LPG gas cylinder regularly used in the household contains a mixture of butane
 **Topic:** [[Organic Chemistry]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1avNymlEldgyquhSFaIkKELQc0ZrnDURm/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1J10JLwJtHGmEgbaIwBEsQukG5CGDv6rJ/view)
 
@@ -622,7 +622,7 @@ Un cilindro di gas a gas naturale a LPG regolarmente utilizzato nella casa conti
 **Topic:** [[Organic Chemistry]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1avNymlEldgyquhSFaIkKELQc0ZrnDURm/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1J10JLwJtHGmEgbaIwBEsQukG5CGDv6rJ/view)
 
@@ -958,7 +958,7 @@ A river is flowing at 4 km/hr from west to east. Two swimmers P and Q can both s
 
 <!--fig:start-->
 **Quesito 22**
-![[INJSO2019-Question_p11_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p11_f1.png]]
 <!--fig:end-->
 
 Choose the correct statement.
@@ -982,7 +982,7 @@ Un fiume scorre a 4 km/h da ovest a est. Due nuotatori P e Q possono entrambi nu
 
 <!--fig:start-->
 **Quesito 22**
-![[INJSO2019-Question_p11_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p11_f1.png]]
 <!--fig:end-->
 
 Scegli la frase corretta.
@@ -1050,7 +1050,7 @@ A wire of length $L$ and resistance $R$ has uniform cross section. A potential d
 
 <!--fig:start-->
 **Quesito 24**
-![[INJSO2019-Question_p12_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p12_f1.png]]
 <!--fig:end-->
 
 - (A) $E$ only
@@ -1072,7 +1072,7 @@ Un filo di lunghezza $L$ e resistenza $R$ ha una sezione trasversale uniforme. S
 
 <!--fig:start-->
 **Quesito 24**
-![[INJSO2019-Question_p12_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p12_f1.png]]
 <!--fig:end-->
 
 - (A) Solo $E$
@@ -1221,7 +1221,7 @@ A 420.0 W heater is used to raise the temperature of water flowing through a tub
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1avNymlEldgyquhSFaIkKELQc0ZrnDURm/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1J10JLwJtHGmEgbaIwBEsQukG5CGDv6rJ/view)
 
@@ -1238,7 +1238,7 @@ Un riscaldatore da 420,0 W viene utilizzato per aumentare di 5.0 °C la temperat
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1avNymlEldgyquhSFaIkKELQc0ZrnDURm/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1J10JLwJtHGmEgbaIwBEsQukG5CGDv6rJ/view)
 
@@ -1332,7 +1332,7 @@ In Rutherford's experiment the correct plot for the number ($N$) of alpha partic
 
 <!--fig:start-->
 **Quesito 30**
-![[INJSO2019-Question_p14_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p14_f1.png]]
 <!--fig:end-->
 
 - (A) Graph A
@@ -1354,7 +1354,7 @@ Nell'esperimento di Rutherford, la grafica corretta per il numero ($N$) di parti
 
 <!--fig:start-->
 **Quesito 30**
-![[INJSO2019-Question_p14_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p14_f1.png]]
 <!--fig:end-->
 
 - (A) Grafico A
@@ -1537,7 +1537,7 @@ Rajesh's blood sample showed a reading 0.75. A standard graph of OD values again
 
 <!--fig:start-->
 **Quesito 32**
-![[INJSO2019-Question_p18_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p18_f1.png]]
 <!--fig:end-->
 
 (A) What is the molar concentration of glucose in Rajesh's blood? Show extrapolation in the graph and calculations in the box. [3 MARKS]
@@ -1584,7 +1584,7 @@ Il campione di sangue di Rajesh ha mostrato una lettura di 0,75. Si presenta un 
 
 <!--fig:start-->
 **Quesito 32**
-![[INJSO2019-Question_p18_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p18_f1.png]]
 <!--fig:end-->
 
 (A) Qual è la concentrazione molare di glucosio nel sangue di Rajesh? Mostra l'estrapolazione nel grafico e i calcoli nella casella. - Non è vero.
@@ -1899,7 +1899,7 @@ Draw the image of the foot rule on the grid in the answer sheet using the same s
 
 <!--fig:start-->
 **Quesito 37**
-![[INJSO2019-Question_p22_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p22_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]
@@ -1920,7 +1920,7 @@ Disegnare l'immagine della regola del piede sulla griglia nella scheda di rispos
 
 <!--fig:start-->
 **Quesito 37**
-![[INJSO2019-Question_p22_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p22_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]
@@ -1950,7 +1950,7 @@ where $e$ is the end correction given by $e = 0.3d$ ($d$ = inner diameter of the
 
 <!--fig:start-->
 **Quesito 38**
-![[INJSO2019-Question_p23_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p23_f1.png]]
 <!--fig:end-->
 
 A given setup of this experiment uses a tube of inner diameter 5.0 cm. Values of $L$ recorded for different frequencies are as given below.
@@ -1979,7 +1979,7 @@ Speed of sound in air: _________________
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.23](https://drive.google.com/file/d/1avNymlEldgyquhSFaIkKELQc0ZrnDURm/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1J10JLwJtHGmEgbaIwBEsQukG5CGDv6rJ/view)
 
@@ -1998,7 +1998,7 @@ dove $e$ è la correzione finale data da $e = 0.3d$ ($d$ = diametro interno del 
 
 <!--fig:start-->
 **Quesito 38**
-![[INJSO2019-Question_p23_f1.png]]
+![[_attachments/injso2019-question/injso2019-question_p23_f1.png]]
 <!--fig:end-->
 
 Una data configurazione di questo esperimento utilizza un tubo di diametro interno di 5,0 cm. I valori di $L$ registrati per le diverse frequenze sono riportati di seguito.
@@ -2027,6 +2027,6 @@ Velocità del suono nell'aria: _________________
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.23](https://drive.google.com/file/d/1avNymlEldgyquhSFaIkKELQc0ZrnDURm/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1J10JLwJtHGmEgbaIwBEsQukG5CGDv6rJ/view)

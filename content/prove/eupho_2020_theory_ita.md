@@ -96,7 +96,7 @@ Il filo è inestensibile e flessibile. Si supponga che le spire dell'avvolgiment
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1W9RrZaqw92z9IneR3BXY4CmcJtJsYfmF/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1LUfIZMn0kIxO1uqU1DkRdsp4uzhLO0kn/view)
 
@@ -117,7 +117,7 @@ The wire is extensible and flexible. Suppose the spires of the winding are wrapp
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1W9RrZaqw92z9IneR3BXY4CmcJtJsYfmF/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1LUfIZMn0kIxO1uqU1DkRdsp4uzhLO0kn/view)
 

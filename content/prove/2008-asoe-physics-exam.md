@@ -397,7 +397,7 @@ Which graph shows the concentration $[Z]$ as a function of time? *(Five graphs A
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1l-Z2B6vCFV_5e861jMVDe5P7MgZ5fTwV/view)
 
 
@@ -410,7 +410,7 @@ Quale grafico mostra la concentrazione $[Z]$ in funzione del tempo? *(Quattro gr
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1l-Z2B6vCFV_5e861jMVDe5P7MgZ5fTwV/view)
 
 
@@ -489,7 +489,7 @@ e. Find the rate of change of the radius of the balloon as a function of its rad
 **Topic:** [[Thermodynamics]], [[Circuits]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Bubble (object)|Bubble]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Bubble (object)|Bubble]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1l-Z2B6vCFV_5e861jMVDe5P7MgZ5fTwV/view)
 
 
@@ -520,7 +520,7 @@ e. Trova il tasso di variazione del raggio del palloncino in funzione del suo ra
 **Topic:** [[Thermodynamics]], [[Circuits]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Bubble (object)|Bubble]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Bubble (object)|Bubble]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1l-Z2B6vCFV_5e861jMVDe5P7MgZ5fTwV/view)
 
 

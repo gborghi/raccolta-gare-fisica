@@ -65,7 +65,7 @@ E. Le costruzioni grafiche riportate sui dischi di carta possono fornire element
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1uY5MJiFb96dVoFpowyxY1gcDlqCiblTg/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/12fdtXznwZWU4mE7kNppsk8d3QNhcuEmi/view)
 
@@ -122,6 +122,6 @@ E. The graphic constructions on paper discs can provide useful elements to evalu
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1uY5MJiFb96dVoFpowyxY1gcDlqCiblTg/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/12fdtXznwZWU4mE7kNppsk8d3QNhcuEmi/view)

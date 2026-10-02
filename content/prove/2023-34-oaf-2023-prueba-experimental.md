@@ -75,7 +75,7 @@ f) Determina el valor de la frecuencia umbral, $f_o$, y de la función trabajo, 
 **Topic:** [[Modern-Quantum Physics]], [[Electrostatics]]
 **Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Photon (object)|Photon]], [[Electron (object)|Electron]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Photon (object)|Photon]], [[Electron (object)|Electron]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/19TI2bj4vGfqUByefo5FODGICK_ZEOy7m/view)
 
 
@@ -137,7 +137,7 @@ f) Determina il valore della frequenza soglia, $f_o$, e della funzione di lavoro
 **Topic:** [[Modern-Quantum Physics]], [[Electrostatics]]
 **Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Photon (object)|Photon]], [[Electron (object)|Electron]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Photon (object)|Photon]], [[Electron (object)|Electron]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/19TI2bj4vGfqUByefo5FODGICK_ZEOy7m/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -198,5 +198,5 @@ You know, I'm just going to be a little bit more excited.
 **Topic:** [[Modern-Quantum Physics]], [[Electrostatics]]
 **Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Photon (object)|Photon]], [[Electron (object)|Electron]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Photon (object)|Photon]], [[Electron (object)|Electron]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/19TI2bj4vGfqUByefo5FODGICK_ZEOy7m/view)

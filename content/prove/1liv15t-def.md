@@ -1371,7 +1371,7 @@ Quale massa dovrà avere il pesetto che si aggiunge ora alla provetta per fare i
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1yjprt4eGFHl_wuSyHwi8PUnTXg7k9r4g/view)
 **Risposta:** **B** · [[1liv15S def|Soluzioni]]
 
@@ -1390,7 +1390,7 @@ What mass will the peset have to have now to be added to the test to make it go 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1yjprt4eGFHl_wuSyHwi8PUnTXg7k9r4g/view)
 **Risposta:** **B** · [[1liv15S def|Soluzioni]]
 
@@ -1551,7 +1551,7 @@ Quanta ammoniaca deve evaporare per sottrarre dal sistema una quantità di calor
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1yjprt4eGFHl_wuSyHwi8PUnTXg7k9r4g/view)
 **Risposta:** **C** · [[1liv15S def|Soluzioni]]
 
@@ -1570,7 +1570,7 @@ How much ammonia must be evaporated to remove $6850\,\text{kJ}$ heat from the sy
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1yjprt4eGFHl_wuSyHwi8PUnTXg7k9r4g/view)
 **Risposta:** **C** · [[1liv15S def|Soluzioni]]
 

@@ -69,7 +69,7 @@ Tom is riding a hot air balloon by himself. There is a rope ladder hanging from 
 **Topic:** [[Conservation of Momentum]], [[Newtonian Mechanics]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1JA1NP33qXJlrYjnt12Wf99yRejvd1hTQ/view)
 
 
@@ -86,7 +86,7 @@ Tom sta guidando da solo un pallone ad aria calda. C'è una scala a corda appesa
 **Topic:** [[Conservation of Momentum]], [[Newtonian Mechanics]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1JA1NP33qXJlrYjnt12Wf99yRejvd1hTQ/view)
 
 
@@ -438,7 +438,7 @@ A level (a device for establishing a horizontal plane, which consists of a small
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Bubble (object)|Bubble]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Bubble (object)|Bubble]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1JA1NP33qXJlrYjnt12Wf99yRejvd1hTQ/view)
 
 
@@ -455,7 +455,7 @@ Un livello (un dispositivo per stabilire un piano orizzontale, costituito da un 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Bubble (object)|Bubble]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Bubble (object)|Bubble]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1JA1NP33qXJlrYjnt12Wf99yRejvd1hTQ/view)
 
 

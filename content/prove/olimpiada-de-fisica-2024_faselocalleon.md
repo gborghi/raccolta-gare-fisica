@@ -43,7 +43,7 @@ ratón.
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1btoVE_OifV94Myh_kaCdVD97q3w7-Ppn/view)
 
 
@@ -73,7 +73,7 @@ Il topo.
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1btoVE_OifV94Myh_kaCdVD97q3w7-Ppn/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -102,7 +102,7 @@ The mouse.
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1btoVE_OifV94Myh_kaCdVD97q3w7-Ppn/view)
 
 

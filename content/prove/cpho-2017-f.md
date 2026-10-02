@@ -502,7 +502,7 @@ We may assume that the angle $\theta$ between the upper interface and the glass 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/14GbCflK58F-wA8Et31_eQSdhZNhCCX6X/view)
 
 
@@ -524,7 +524,7 @@ Possiamo supporre che l'angolo $\theta$ tra l'interfaccia superiore e la parete 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/14GbCflK58F-wA8Et31_eQSdhZNhCCX6X/view)
 
 
@@ -701,7 +701,7 @@ the laser such that the wafer rotates through a given angle $\alpha$.
 **Topic:** [[Wave Optics]], [[Electromagnetism]], [[Rotational Dynamics]]
 **Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/14GbCflK58F-wA8Et31_eQSdhZNhCCX6X/view)
 
 
@@ -768,5 +768,5 @@ il laser in modo tale che la valigia ruota attraverso un angolo determinato $\al
 **Topic:** [[Wave Optics]], [[Electromagnetism]], [[Rotational Dynamics]]
 **Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/14GbCflK58F-wA8Et31_eQSdhZNhCCX6X/view)

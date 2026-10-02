@@ -23,7 +23,7 @@ Consider $n = 2$ moles of ideal Helium gas at a pressure $P_0$, volume $V_0$ and
 
 **a.** Calculate the frequency $f$ of small oscillation of the piston, when it is slightly displaced from equilibrium position. (2 points)
 
-![[_attachments/APhO_2005_theory/APhO_2005_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2005_theory/apho_2005_theory_q1_p1_f1.png]]
 *Figure 1.1*
 
 **b.** Then the piston is pushed down until the gas volume is halved, and released with zero velocity. Calculate the value(s) of the gas volume when the piston speed is
@@ -40,7 +40,7 @@ A child builds up the motion of a swing by standing and squatting. The trajector
 
 To keep the analysis simple it is assumed that the swing be mass-less, the swing amplitude is sufficiently small and that the mass of the child resides at its center of mass. It is also assumed that the transitions from squatting to standing (the A to B and the E to F transitions) are fast compared to the swing cycle and can be taken to be instantaneous. It is similarly assumed that the squatting transitions (the C to D and the G to H transitions) can also be regarded as occurring instantaneously.
 
-![[_attachments/APhO_2005_theory/APhO_2005_theory_Q1_p2_f2.png]]
+![[prove/_attachments/apho_2005_theory/apho_2005_theory_q1_p2_f2.png]]
 *Figure 1.2*
 
 How many cycles of this maneuver does it take for the child to build up the amplitude (or the maximum angular velocity) of the swing by a factor of two?
@@ -61,7 +61,7 @@ Considera le molli $n = 2$ di gas di elio ideale a pressione $P_0$, volume $V_0$
 
 **a.** Calcolare la frequenza $f$ di piccola oscillazione del pistone, quando è leggermente spostato dalla posizione di equilibrio. (2 punti)
 
-![[_attachments/APhO_2005_theory/APhO_2005_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2005_theory/apho_2005_theory_q1_p1_f1.png]]
 *Figura 1.1*
 
 **b.** Poi il pistone viene spinto verso il basso fino a quando il volume del gas è dimezzato e rilasciato a velocità zero. Calcolare il valore (s) del volume del gas quando la velocità del pistone è
@@ -78,7 +78,7 @@ Un bambino accresce il movimento di uno swing in piedi e in squat. La traiettori
 
 Per mantenere l'analisi semplice si presume che lo swing sia meno di massa, che l'ampiezza dello swing sia sufficientemente piccola e che la massa del bambino risieda al suo centro di massa. Si presume inoltre che i passaggi da squatting a stand (i passaggi da A a B e da E a F) siano rapidi rispetto al ciclo di swing e possono essere considerati istantanei. Si presume altresì che le transizioni di squatting (le transizioni da C a D e da G a H) possano essere considerate immediate.
 
-![[_attachments/APhO_2005_theory/APhO_2005_theory_Q1_p2_f2.png]]
+![[prove/_attachments/apho_2005_theory/apho_2005_theory_q1_p2_f2.png]]
 *Figura 1.2*
 
 Quanti cicli di questa manovra ci vogliono per aumentare l'ampiezza (o la velocità angolare massima) dello swing di un fattore due?
@@ -119,7 +119,7 @@ Figure 2.1 shows an electron gun situated inside (near the middle) a long soleno
 
 **b.** Find the current in the solenoid if the latter has 500 turns per meter. (1 point)
 
-![[_attachments/APhO_2005_theory/APhO_2005_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2005_theory/apho_2005_theory_q2_p1_f1.png]]
 *Figure 2.1*
 
 ### 2B. Magnetic focusing (fringing field) (6 points)
@@ -129,20 +129,20 @@ Two pole magnets positioned on horizontal planes are separated by a certain dist
 - when the particle enters the fringe field $B_x = +B z / b$,
 - when the particle enters the fringe field after traveling through the magnet, $B_x = -B z / b$
 
-![[_attachments/APhO_2005_theory/APhO_2005_theory_Q2_p2_f2.png]]
+![[prove/_attachments/apho_2005_theory/apho_2005_theory_q2_p2_f2.png]]
 *Fig. 2.2: Overall view (note that $\theta$ is very small).*
 
-![[_attachments/APhO_2005_theory/APhO_2005_theory_Q2_p3_f3.png]]
+![[prove/_attachments/apho_2005_theory/apho_2005_theory_q2_p3_f3.png]]
 *Figure 2.3. Fringe field*
 
 A parallel narrow beam of particles, each of mass $m$ and positive charge $q$ enters the magnet (near the center) with a high velocity $v$ parallel to the horizontal plane. The vertical size of the beam is comparable to the distance between the magnet poles. A certain beam enters the magnet at an angle $\theta$ from the center line of the magnet and leaves the magnet at an angle $-\theta$ (see Figure 2.4. Assume $\theta$ is very small). Assume that the angle $\theta$ with which the particle enters the fringe field is the same as the angle $\theta$ when it enters the uniform field.
 
-![[_attachments/APhO_2005_theory/APhO_2005_theory_Q2_p3_f4.png]]
+![[prove/_attachments/apho_2005_theory/apho_2005_theory_q2_p3_f4.png]]
 *Figure 2.4. Top view*
 
 The beam will be focused due to the fringe field. Calculate the approximate focal length if we define the focal length as illustrated in Figure 2.5 (assume $b \ll l$ and assume that the $z$-component of the deflection in the uniform magnetic field $B$ is very small).
 
-![[_attachments/APhO_2005_theory/APhO_2005_theory_Q2_p4_f5.png]]
+![[prove/_attachments/apho_2005_theory/apho_2005_theory_q2_p4_f5.png]]
 *Figure 2.5. Side view*
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/15nYYopajv3L1qCEt5r2TCPxUDkhe7mKI/view)
@@ -176,7 +176,7 @@ La figura 2.1 mostra un cannone elettronico situato all'interno (vicino al centr
 
 **b.** Trova la corrente nel solenoide se quest'ultimo ha 500 giri per metro. 1 punto)
 
-![[_attachments/APhO_2005_theory/APhO_2005_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2005_theory/apho_2005_theory_q2_p1_f1.png]]
 *Figura 2.1*
 
 ### 2B. Concentramento magnetico (campo di fringing) (6 punti)
@@ -186,20 +186,20 @@ Due magneti a poli posizionati su piani orizzontali sono separati da una certa d
 - quando la particella entra nel campo marginale $B_x = +B z / b$,
 - quando la particella entra nel campo di margine dopo aver attraversato il magnete, $B_x = -B z / b$
 
-![[_attachments/APhO_2005_theory/APhO_2005_theory_Q2_p2_f2.png]]
+![[prove/_attachments/apho_2005_theory/apho_2005_theory_q2_p2_f2.png]]
 *Fig. 2.2: Vista complessiva (nota che $\theta$ è molto piccolo).*
 
-![[_attachments/APhO_2005_theory/APhO_2005_theory_Q2_p3_f3.png]]
+![[prove/_attachments/apho_2005_theory/apho_2005_theory_q2_p3_f3.png]]
 *Figura 2.3. Campo di margine*
 
 Un raggio parallelo stretto di particelle, ciascuna di massa $m$ e carica positiva $q$, entra nel magnete (vicino al centro) con una velocità elevata $v$ parallela al piano orizzontale. La dimensione verticale del fascio è paragonabile alla distanza tra i poli magnetici. Un certo raggio entra nel magnete ad un angolo $\theta$ dalla linea centrale del magnete e lascia il magnete ad un angolo $-\theta$ (vedere figura 2.4.). Supponiamo che $\theta$ sia molto piccolo). Supponiamo che l'angolo $\theta$ con cui la particella entra nel campo di margine sia lo stesso dell'angolo $\theta$ quando entra nel campo uniforme.
 
-![[_attachments/APhO_2005_theory/APhO_2005_theory_Q2_p3_f4.png]]
+![[prove/_attachments/apho_2005_theory/apho_2005_theory_q2_p3_f4.png]]
 *Figura 2.4. Vista di cima*
 
 Il raggio sarà focalizzato a causa del campo di margine. Calcolare la distanza focale approssimativa se definiamo la distanza focale come illustrato nella figura 2.5 (assumere $b \ll l$ e supporre che la componente $z$ della deflessione nel campo magnetico uniforme $B$ sia molto piccola).
 
-![[_attachments/APhO_2005_theory/APhO_2005_theory_Q2_p4_f5.png]]
+![[prove/_attachments/apho_2005_theory/apho_2005_theory_q2_p4_f5.png]]
 *Figura 2.5. Vista laterale*
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/15nYYopajv3L1qCEt5r2TCPxUDkhe7mKI/view)
@@ -225,7 +225,7 @@ $$
 \sin\alpha - \sin\beta = \frac{v}{c}\sin\phi\,\sin(\alpha + \beta) \tag{1}
 $$
 
-![[_attachments/APhO_2005_theory/APhO_2005_theory_Q3_p1_f1.png]]
+![[prove/_attachments/apho_2005_theory/apho_2005_theory_q3_p1_f1.png]]
 *Figure 3.1. Reflection of light by a relativistically moving mirror*
 
 ### 3A. Einstein's Mirror (2.5 points)
@@ -238,7 +238,7 @@ $$
 
 Derive this formula using Equation (1) without Lorentz transformation!
 
-![[_attachments/APhO_2005_theory/APhO_2005_theory_Q3_p2_f2.png]]
+![[prove/_attachments/apho_2005_theory/apho_2005_theory_q3_p2_f2.png]]
 *Figure 3.2. Einstein mirror moving to the left with a velocity $v$.*
 
 ### 3B. Frequency Shift (2 points)
@@ -247,7 +247,7 @@ In the same situation as in 3A, if the incident light is a monochromatic beam hi
 
 ### 3C. Moving Mirror Equation (5.5 Points)
 
-![[_attachments/APhO_2005_theory/APhO_2005_theory_Q3_p3_f3.png]]
+![[prove/_attachments/apho_2005_theory/apho_2005_theory_q3_p3_f3.png]]
 *Figure 3.3.*
 
 Figure 3.3 shows the positions of the mirror at time $t_0$ and $t$. Since the observer is moving to the left, the mirror moves relatively to the right. Light beam 1 falls on point $a$ at $t_0$ and is reflected as beam $1'$. Light beam 2 falls on point $d$ at $t$ and is reflected as beam $2'$. Therefore, $\overline{ab}$ is the wave front of the incoming light at time $t_0$. The atoms at point are disturbed by the incident wave front $\overline{ab}$ and begin to radiate a wavelet. The disturbance due to the wave front $\overline{ab}$ stops at time $t$ when the wavefront strikes point $d$. The semicircle in the figure represents wave-front of the wavelet at time $t$.
@@ -272,7 +272,7 @@ $$
 \sin\alpha - \sin\beta = \frac{v}{c}\sin\phi\,\sin(\alpha + \beta) \tag{1}
 $$
 
-![[_attachments/APhO_2005_theory/APhO_2005_theory_Q3_p1_f1.png]]
+![[prove/_attachments/apho_2005_theory/apho_2005_theory_q3_p1_f1.png]]
 *Figura 3.1. Riflessione della luce da uno specchio in movimento relativistico*
 
 ### 3A. Lo specchio di Einstein (2,5 punti)
@@ -285,7 +285,7 @@ $$
 
 Derivare questa formula utilizzando l'Equazione (1) senza trasformazione di Lorentz!
 
-![[_attachments/APhO_2005_theory/APhO_2005_theory_Q3_p2_f2.png]]
+![[prove/_attachments/apho_2005_theory/apho_2005_theory_q3_p2_f2.png]]
 *Figura 3.2. Lo specchio di Einstein si muove a sinistra con una velocità $v$.*
 
 ### 3B. Scenario di frequenza (2 punti)
@@ -294,7 +294,7 @@ Nella stessa situazione di 3A, se la luce incidente è un fascio monocromatico c
 
 ### 3C. Equazione dello specchio in movimento (5,5 punti)
 
-![[_attachments/APhO_2005_theory/APhO_2005_theory_Q3_p3_f3.png]]
+![[prove/_attachments/apho_2005_theory/apho_2005_theory_q3_p3_f3.png]]
 *Figura 3.3.*
 
 La figura 3.3 mostra le posizioni dello specchio nel tempo $t_0$ e $t$. Poiché l'osservatore si muove a sinistra, lo specchio si muove relativamente a destra. Il fascio luminoso 1 cade sul punto $a$ a $t_0$ e si riflette come fascio $1'$. Il fascio di luce 2 cade sul punto $d$ a $t$ e si riflette come fascio $2'$. Pertanto, $\overline{ab}$ è il fronte d'onda della luce in arrivo al tempo $t_0$. Gli atomi al punto sono disturbati dal fronte d'onda incidente $\overline{ab}$ e iniziano a irradiare un'onda. La perturbazione dovuta al fronte d'onda $\overline{ab}$ si ferma al momento $t$ quando il fronte d'onda colpisce il punto $d$. Il semicircolo nella figura rappresenta il fronte d'onda della valletta in tempo $t$.

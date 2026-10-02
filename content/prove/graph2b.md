@@ -26,7 +26,7 @@ tags:
 **Graph: Curve di Planck (Planck Curves) per 2750 K, 3000 K, 3250 K.**
 
 <!--fig:start-->
-![[_attachments/graph2b/graph2b_p1_f1.png]]
+![[prove/_attachments/graph2b/graph2b_p1_f1.png]]
 *Graph 2(b) — Curve di Planck per 2750 K, 3000 K, 3250 K: intensità per unità di lunghezza d'onda in funzione della lunghezza d'onda (m).*
 <!--fig:end-->
 
@@ -46,7 +46,7 @@ Questo PDF è un *foglio dati/figura* di supporto al problema teorico dell'IPhO 
 Grafico: Curva di Planck per 2750 K, 3000 K, 3250 K
 
 <!--fig:start-->
-![[_attachments/graph2b/graph2b_p1_f1.png]]
+![[prove/_attachments/graph2b/graph2b_p1_f1.png]]
 Grafico 2 (b)  Curva di Planck per 2750 K, 3000 K, 3250 K: intensità per unità di lunghezza d'onda in funzione della lunghezza d'onda (m).
 <!--fig:end-->
 

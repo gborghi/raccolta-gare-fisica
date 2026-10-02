@@ -150,7 +150,7 @@ Apellidos: Nombre:
 **Topic:** [[Newtonian Mechanics]], [[Gravitation]], [[Electromagnetic Induction]], [[Oscillations & Waves]], [[Electrostatics]], [[Magnetism]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Hooke's Law (metodo)|Hooke's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]], [[Projectile (object)|Projectile]], [[Coil (object)|Coil]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]], [[Projectile (object)|Projectile]], [[Coil (object)|Coil]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1JU2lK1MbiyjQej7ErMsTc-k9pwfXrbK-/view)
 
 
@@ -287,7 +287,7 @@ Nome:
 **Topic:** [[Newtonian Mechanics]], [[Gravitation]], [[Electromagnetic Induction]], [[Oscillations & Waves]], [[Electrostatics]], [[Magnetism]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Hooke's Law (metodo)|Hooke's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]], [[Projectile (object)|Projectile]], [[Coil (object)|Coil]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]], [[Projectile (object)|Projectile]], [[Coil (object)|Coil]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1JU2lK1MbiyjQej7ErMsTc-k9pwfXrbK-/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -423,5 +423,5 @@ Family name:
 **Topic:** [[Newtonian Mechanics]], [[Gravitation]], [[Electromagnetic Induction]], [[Oscillations & Waves]], [[Electrostatics]], [[Magnetism]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Hooke's Law (metodo)|Hooke's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]], [[Projectile (object)|Projectile]], [[Coil (object)|Coil]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]], [[Projectile (object)|Projectile]], [[Coil (object)|Coil]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1JU2lK1MbiyjQej7ErMsTc-k9pwfXrbK-/view)

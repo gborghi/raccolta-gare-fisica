@@ -94,7 +94,7 @@ b) Quanti chilogrammi al secondo di aria attraversa il sistema? (0.5 punti)
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Conservation of Energy]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Continuity Equation (metodo)|Continuity Equation]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Gas (object)|Gas]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1zq835MElj0WNjtwjA71fa1vgVajsVLgS/view)
 
 
@@ -179,5 +179,5 @@ Radiazione solare $G$
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Conservation of Energy]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Continuity Equation (metodo)|Continuity Equation]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Gas (object)|Gas]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1zq835MElj0WNjtwjA71fa1vgVajsVLgS/view)

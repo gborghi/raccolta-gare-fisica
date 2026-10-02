@@ -91,7 +91,7 @@ In questa parte devi eseguire esperimenti di piccole oscillazioni usando lo MBB 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Ball (object)|Ball]], [[Spring (object)|Spring]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[Ball (object)|Ball]], [[Spring (object)|Spring]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1R8KiYNwh6PMNjUUWMhtiCbFfY49CWE9z/view)
 
 
@@ -173,5 +173,5 @@ In this part you have to run small oscillation experiments using the MBB as a ri
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Ball (object)|Ball]], [[Spring (object)|Spring]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[Ball (object)|Ball]], [[Spring (object)|Spring]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1R8KiYNwh6PMNjUUWMhtiCbFfY49CWE9z/view)

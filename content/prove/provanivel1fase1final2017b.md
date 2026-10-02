@@ -608,7 +608,7 @@ mostrados na figur
 **Topic:** [[Thermodynamics]], [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation Laws (metodo)|Conservation Laws]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1IZSob_EB3vMIkuhjUeiSuPH_yZhsU9Zk/view)
 
 
@@ -753,7 +753,7 @@ mostrati in figura
 **Topic:** [[Thermodynamics]], [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation Laws (metodo)|Conservation Laws]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1IZSob_EB3vMIkuhjUeiSuPH_yZhsU9Zk/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -897,5 +897,5 @@ shown in figure
 **Topic:** [[Thermodynamics]], [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation Laws (metodo)|Conservation Laws]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1IZSob_EB3vMIkuhjUeiSuPH_yZhsU9Zk/view)

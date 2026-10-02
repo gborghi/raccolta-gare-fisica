@@ -26,7 +26,7 @@ tags:
 **Graph: Curve di Planck (Planck Curves) per 2000 K, 2250 K, 2500 K.**
 
 <!--fig:start-->
-![[_attachments/graph2a/graph2a_p1_f1.png]]
+![[prove/_attachments/graph2a/graph2a_p1_f1.png]]
 *Graph 2(a) — Curve di Planck per 2000 K, 2250 K, 2500 K: intensità per unità di lunghezza d'onda in funzione della lunghezza d'onda (m).*
 <!--fig:end-->
 
@@ -46,7 +46,7 @@ Questo PDF è un *foglio dati/figura* di supporto al problema teorico dell'IPhO 
 Grafico: Curva di Planck per 2000 K, 2250 K, 2500 K
 
 <!--fig:start-->
-![[_attachments/graph2a/graph2a_p1_f1.png]]
+![[prove/_attachments/graph2a/graph2a_p1_f1.png]]
 Grafico 2a)  Curva di Planck per 2000 K, 2250 K, 2500 K: intensità per unità di lunghezza d'onda in funzione della lunghezza d'onda (m).
 <!--fig:end-->
 

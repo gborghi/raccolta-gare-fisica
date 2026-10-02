@@ -3226,7 +3226,7 @@ una cuantización de los posibles ángulos de propagación de la luz respecto al
 **Topic:** [[Geometric Optics]], [[Oscillations & Waves]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1YHxsQLC0x15NRB82OW60QvWvOYRAuOqV/view)
 
 
@@ -3806,7 +3806,7 @@ una quantificazione dei possibili angoli di diffusione della luce rispetto all'a
 **Topic:** [[Geometric Optics]], [[Oscillations & Waves]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1YHxsQLC0x15NRB82OW60QvWvOYRAuOqV/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -4385,5 +4385,5 @@ a quantification of the possible angles of propagation of the light with respect
 **Topic:** [[Geometric Optics]], [[Oscillations & Waves]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1YHxsQLC0x15NRB82OW60QvWvOYRAuOqV/view)

@@ -264,7 +264,7 @@ massa compatta di ghiaccio a $0\ ^\circ\text{C}$ fino a un certo livello. Dopo u
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1-BBSCFd9iT4X1HzKrHQp1t3vkoJwA-Fj/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1na4-ZfY22DZFXcDsqh0HOZI4fiGnQToq/view)
 
@@ -280,7 +280,7 @@ It has been transformed into water at $0\ ^\circ\text{C}$ and the level has drop
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1-BBSCFd9iT4X1HzKrHQp1t3vkoJwA-Fj/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1na4-ZfY22DZFXcDsqh0HOZI4fiGnQToq/view)
 
@@ -510,7 +510,7 @@ dell’altezza h e della velocità $v_0$ alla base della corda.
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1-BBSCFd9iT4X1HzKrHQp1t3vkoJwA-Fj/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1na4-ZfY22DZFXcDsqh0HOZI4fiGnQToq/view)
 
@@ -539,7 +539,7 @@ the h height and the speed $v_0$ at the base of the rope.
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1-BBSCFd9iT4X1HzKrHQp1t3vkoJwA-Fj/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1na4-ZfY22DZFXcDsqh0HOZI4fiGnQToq/view)
 
@@ -595,7 +595,7 @@ $m = 5$ g.
 **Topic:** [[Electrostatics]], [[Conservation of Energy]], [[Rotational Dynamics]]
 **Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Capacitor (object)|Capacitor]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1-BBSCFd9iT4X1HzKrHQp1t3vkoJwA-Fj/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1na4-ZfY22DZFXcDsqh0HOZI4fiGnQToq/view)
 
@@ -646,6 +646,6 @@ $m = 5$ g.
 **Topic:** [[Electrostatics]], [[Conservation of Energy]], [[Rotational Dynamics]]
 **Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Capacitor (object)|Capacitor]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1-BBSCFd9iT4X1HzKrHQp1t3vkoJwA-Fj/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1na4-ZfY22DZFXcDsqh0HOZI4fiGnQToq/view)

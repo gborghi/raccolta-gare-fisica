@@ -441,7 +441,7 @@ p
 **Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Symmetry Argument (metodo)|Symmetry Argument]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 
@@ -874,7 +874,7 @@ p
 **Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Symmetry Argument (metodo)|Symmetry Argument]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 

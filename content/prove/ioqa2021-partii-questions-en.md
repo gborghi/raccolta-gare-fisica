@@ -116,7 +116,7 @@ We assume that the star starts brightening again when the average density inside
 
 <!--fig:start-->
 **Quesito 3**
-![[IOQA2021-PartII-Questions-en_p3_f1.png]]
+![[_attachments/ioqa2021-partii-questions-en/ioqa2021-partii-questions-en_p3_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Astrophysics]]
@@ -152,7 +152,7 @@ Supponiamo che la stella ricomincia a brilare quando la densità media all'inter
 
 <!--fig:start-->
 **Quesito 3**
-![[IOQA2021-PartII-Questions-en_p3_f1.png]]
+![[_attachments/ioqa2021-partii-questions-en/ioqa2021-partii-questions-en_p3_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Astrophysics]]

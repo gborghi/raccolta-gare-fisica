@@ -170,7 +170,7 @@ f(2) $\approx1.75$ . Di conseguenza, il tempo impiegato dal magnete per cadere a
 **Topic:** [[Thermodynamics]], [[Electromagnetic Induction]], [[Circuits]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Magnet (object)|Magnet]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Magnet (object)|Magnet]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/16yhRuI2jX6QMR5wSbR1kgZ8_Evq1G8Tt/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Jzwu5_-Nj1XrRSKoY-XNJV2RWk5ry0Rs/view)
 
@@ -332,6 +332,6 @@ The following information is provided by the Commission:
 **Topic:** [[Thermodynamics]], [[Electromagnetic Induction]], [[Circuits]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Magnet (object)|Magnet]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Magnet (object)|Magnet]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/16yhRuI2jX6QMR5wSbR1kgZ8_Evq1G8Tt/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Jzwu5_-Nj1XrRSKoY-XNJV2RWk5ry0Rs/view)

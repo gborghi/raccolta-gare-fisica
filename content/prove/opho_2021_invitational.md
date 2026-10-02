@@ -29,10 +29,10 @@ $$I(\rho, z) = I_0 \left(\frac{W_0}{W(z)}\right)^2 \exp\left(\frac{-2\rho^2}{W(z
 
 where $\rho$ is the distance from the center of the beam and $W_0$ is known as the waist size, or the measure of the beam size at the point of its focus. Here the waist length, in general, follows $W(z) = W_0\sqrt{1 + z^2/z_R^2}$ where $z_R = \pi W_0^2/\lambda$ denotes the Rayleigh length.
 
-![[OPhO_2021_Invitational_p4_f1.png]]
+![[_attachments/opho_2021_invitational/opho_2021_invitational_p4_f1.png]]
 *Figure 1: A nanosphere placed off-center in a Gaussian beam.*
 
-![[OPhO_2021_Invitational_p4_f2.png]]
+![[_attachments/opho_2021_invitational/opho_2021_invitational_p4_f2.png]]
 *Figure 2: A graphic of the intensity distribution in a Gaussian beam.*
 
 The OT traps particles via three different forces: **scattering forces** created by the change in momentum of light scattered or absorbed by a particle; **gradient forces** due to the polarization of the particle created by the strong electric fields of the laser beam; and, **radiation forces** produced by an accelerating charge. The total power radiated by an oscillating electric dipole with dipole moment $p_0$ at frequency $\omega$ will be $P_R = \dfrac{\mu_0 p_0^2 \omega^4}{12\pi c}$, where $c$ is the speed of light.
@@ -65,14 +65,14 @@ In sound waves, the density perturbations are very small, so it can be assumed t
 
 **6. (2 pts.)** Consider a small cylindrical object of radius $R < \sqrt{S}$ and width $h \ll R$ in the pipe where variations of pressure on the cylinder's surface are negligible. Determine the force $F$ acting on the cylinder when the sound wave passes through it. If the pipe is placed on a vertical plane where gravity is present, qualitatively describe what location(s) the cylinder would levitate.
 
-![[OPhO_2021_Invitational_p5_f3.png]]
+![[_attachments/opho_2021_invitational/opho_2021_invitational_p5_f3.png]]
 *Figure 3: A visualization of how acoustic waves within the pipe are created via the oscillation of the piston.*
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1vwaHW04dv8bo2hUUEJuXjUgvw6pE-BiS/view)
 **Topic:** [[Oscillations & Waves]], [[Electromagnetism]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Wave Equation (metodo)|Wave Equation]], [[Differential Equations (metodo)|Differential Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]], [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Sphere (object)|Sphere]], [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -89,10 +89,10 @@ $$I(\rho, z) = I_0 \left(\frac{W_0}{W(z)}\right)^2 \exp\left(\frac{-2\rho^2}{W(z
 
 dove $\rho$ è la distanza dal centro del fascio e $W_0$ è nota come la cintura, o la misura della dimensione del fascio al punto di focalizzazione. Qui la lunghezza della vita, in generale, segue $W(z) = W_0\sqrt{1 + z^2/z_R^2}$ dove $z_R = \pi W_0^2/\lambda$ indica la lunghezza di Rayleigh.
 
-![[OPhO_2021_Invitational_p4_f1.png]]
+![[_attachments/opho_2021_invitational/opho_2021_invitational_p4_f1.png]]
 *Figura 1: Una nanosfera posizionata fuori dal centro di un raggio di Gaussian.*
 
-![[OPhO_2021_Invitational_p4_f2.png]]
+![[_attachments/opho_2021_invitational/opho_2021_invitational_p4_f2.png]]
 *Figura 2: Grafica della distribuzione dell'intensità in fascio di Gaussian.*
 
 L'OT cattura le particelle tramite tre forze diverse: **forze di dispersione** create dal cambiamento di impulso della luce dispersa o assorbita da una particella; **forze gradienti** dovute alla polarizzazione della particella creata dai forti campi elettrici del raggio laser; e, **forze di radiazione** prodotte da una carica accelerante. La potenza totale irradiata da un dipolo elettrico oscillante con momento di dipolo $p_0$ alla frequenza $\omega$ sarà $P_R = \dfrac{\mu_0 p_0^2 \omega^4}{12\pi c}$, dove $c$ è la velocità della luce.
@@ -125,14 +125,14 @@ Nelle onde sonore, le perturbazioni di densità sono molto piccole, quindi si pu
 
 **6. (2 pts.)** Considerare un piccolo oggetto cilindrico di raggio $R < \sqrt{S}$ e larghezza $h \ll R$ nel tubo in cui le variazioni di pressione sulla superficie del cilindro sono trascurabili. Determinare la forza $F$ che agisce sul cilindro quando l'onda sonora lo attraversa. Se il tubo è posizionato su un piano verticale in cui è presente la gravità, descrivere qualitativamente quale posizione (s) il cilindro leviterebbe.
 
-![[OPhO_2021_Invitational_p5_f3.png]]
+![[_attachments/opho_2021_invitational/opho_2021_invitational_p5_f3.png]]
 *Figura 3: Una visualizzazione di come le onde acustiche all'interno del tubo vengono create tramite l'oscillazione del pistone.*
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1vwaHW04dv8bo2hUUEJuXjUgvw6pE-BiS/view)
 **Topic:** [[Oscillations & Waves]], [[Electromagnetism]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Wave Equation (metodo)|Wave Equation]], [[Differential Equations (metodo)|Differential Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]], [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Sphere (object)|Sphere]], [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 
 
 
@@ -265,7 +265,7 @@ Suppose we have three cylinders, two small cylinders and a large cylinder, of ra
 
 **2. (5 pts.)** The mass of the small and large cylinders are $m$ and $M$, respectively. The mass of the board is $m'$. If at a moment in time the board is pushed with speed $v$ and acceleration $a$, find the power $P$ required to push the board. Assume the cylinders have uniform mass distribution.
 
-![[OPhO_2021_Invitational_p8_f4.png]]
+![[_attachments/opho_2021_invitational/opho_2021_invitational_p8_f4.png]]
 *Figure 4: A visual of the three cylinder setup.*
 
 **Windsurfing**
@@ -299,7 +299,7 @@ Supponiamo di avere tre cilindri, due cilindri piccoli e un cilindro grande, di 
 
 **2. (5 pts.) ** La massa dei cilindri piccoli e grandi è rispettivamente $m$ e $M$. La massa della lavagna è $m'$. Se in un momento il pannello viene spinto con velocità $v$ e accelerazione $a$, trovare la potenza $P$ necessaria per spingere il pannello. Supponiamo che i cilindri abbiano una distribuzione di massa uniforme.
 
-![[OPhO_2021_Invitational_p8_f4.png]]
+![[_attachments/opho_2021_invitational/opho_2021_invitational_p8_f4.png]]
 *Figura 4: Una visualizzazione della configurazione dei tre cilindri.*
 
 **Windsurfing**
@@ -332,7 +332,46 @@ Nel windsurf è possibile navigare più velocemente del vento senza usare energi
 
 **1. (3 pts.)** Consider a simple circuit with two parallel-plate capacitors of capacitance $C_1$ and $C_2$ connected to each other using purely conducting wires and a switch. One of the capacitors is initially charged to a voltage $V_0$, while the other one is completely uncharged. The circuit is kept in a square shaped figure of side length $\ell$ throughout the problem, while the diameter of the conducting wires is $D$. Find the initial total energy of the circuit when the switch is open, given by $E_0$, and a sufficiently long time after the switch is closed, given by $E_\infty$. Calculate the remaining energy $E_\Delta = E_0 - E_\infty$. What is $E_\Delta$ for the case $C_2 \to \infty$?
 
-![[OPhO_2021_Invitational_p10_f5.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='190.848976pt' height='100.211063pt' viewBox='-64.19668 -68.01665 190.848976 100.211063'>
+<defs>
+<path id='g0-67' d='M7.571606-6.924035C7.571606-6.953923 7.551681-7.023661 7.462017-7.023661C7.43213-7.023661 7.422167-7.013699 7.312578-6.90411L6.615193-6.136986C6.525529-6.276463 6.067248-7.023661 4.961395-7.023661C2.739726-7.023661 .498132-4.821918 .498132-2.510585C.498132-.86675 1.673724 .219178 3.198007 .219178C4.064757 .219178 4.821918-.179328 5.349938-.637609C6.276463-1.454545 6.445828-2.361146 6.445828-2.391034C6.445828-2.49066 6.346202-2.49066 6.326276-2.49066C6.266501-2.49066 6.216687-2.470735 6.196762-2.391034C6.107098-2.102117 5.877958-1.39477 5.190535-.816936C4.503113-.259029 3.875467-.089664 3.35741-.089664C2.460772-.089664 1.404732-.607721 1.404732-2.161893C1.404732-2.729763 1.613948-4.343711 2.610212-5.50934C3.217933-6.216687 4.154421-6.714819 5.041096-6.714819C6.057285-6.714819 6.645081-5.947696 6.645081-4.79203C6.645081-4.393524 6.615193-4.383562 6.615193-4.283935S6.724782-4.184309 6.764633-4.184309C6.894147-4.184309 6.894147-4.204234 6.94396-4.383562L7.571606-6.924035Z'/>
+<path id='g1-49' d='M2.336239-4.435367C2.336239-4.623661 2.322291-4.630635 2.127024-4.630635C1.680697-4.191283 1.046077-4.184309 .760149-4.184309V-3.93325C.927522-3.93325 1.387796-3.93325 1.771357-4.128518V-.571856C1.771357-.341719 1.771357-.251059 1.073973-.251059H.808966V0C.934496-.006974 1.792279-.027895 2.050311-.027895C2.266501-.027895 3.145205-.006974 3.29863 0V-.251059H3.033624C2.336239-.251059 2.336239-.341719 2.336239-.571856V-4.435367Z'/>
+<path id='g1-50' d='M3.521793-1.26924H3.284682C3.263761-1.115816 3.194022-.704359 3.103362-.63462C3.047572-.592777 2.510585-.592777 2.412951-.592777H1.129763C1.862017-1.241345 2.106102-1.436613 2.524533-1.764384C3.040598-2.175841 3.521793-2.608219 3.521793-3.270735C3.521793-4.11457 2.782565-4.630635 1.889913-4.630635C1.025156-4.630635 .439352-4.02391 .439352-3.382316C.439352-3.02665 .739228-2.991781 .808966-2.991781C.976339-2.991781 1.17858-3.110336 1.17858-3.361395C1.17858-3.486924 1.129763-3.731009 .767123-3.731009C.983313-4.226152 1.457534-4.379577 1.785305-4.379577C2.48269-4.379577 2.84533-3.835616 2.84533-3.270735C2.84533-2.66401 2.412951-2.182814 2.189788-1.931756L.509091-.27198C.439352-.209215 .439352-.195268 .439352 0H3.312578L3.521793-1.26924Z'/>
+</defs>
+<g id='page1'>
+<path d='M-36.578126 31.746093V-53.293' stroke='#000' fill='none' stroke-width='.89664'/>
+<path d='M-36.578126-53.293H8.7734' stroke='#000' fill='none' stroke-width='.89664'/>
+<path d='M10.7695-53.293C10.7695-54.3945 9.875-55.2891 8.7734-55.2891C7.6758-55.2891 6.7812-54.3945 6.7812-53.293C6.7812-52.1953 7.6758-51.3008 8.7734-51.3008C9.875-51.3008 10.7695-52.1953 10.7695-53.293Z' stroke='#000' fill='none' stroke-width='.89664'/>
+<path d='M13.0273-55.5625L45.625-67.4687' stroke='#000' fill='none' stroke-width='1.0959'/>
+<path d='M51.8711-53.293C51.8711-54.3945 50.9766-55.2891 49.8789-55.2891C48.7773-55.2891 47.8867-54.3945 47.8867-53.293C47.8867-52.1953 48.7773-51.3008 49.8789-51.3008C50.9766-51.3008 51.8711-52.1953 51.8711-53.293Z' stroke='#000' fill='none' stroke-width='.89664' stroke-miterlimit='10'/>
+<path d='M54.1289-53.293H99.4841' stroke='#000' fill='none' stroke-width='.89664' stroke-miterlimit='10'/>
+<path d='M99.4841-53.293V31.746093' stroke='#000' fill='none' stroke-width='.89664' stroke-miterlimit='10'/>
+<path d='M-36.578126 31.746093H99.4841' stroke='#000' fill='none' stroke-width='.89664' stroke-miterlimit='10'/>
+<path d='M-46.5-17.8633H-26.66016' stroke='#000' fill='none' stroke-width='1.59404' stroke-miterlimit='10'/>
+<path d='M-46.5-9.3555H-26.66016' stroke='#000' fill='none' stroke-width='1.59404' stroke-miterlimit='10'/>
+<path d='M-36.578126-17.8633V-53.293' stroke='#000' fill='none' stroke-width='.89664' stroke-miterlimit='10'/>
+<path d='M-36.578126 31.746093V-17.8633' stroke='#000' fill='none' stroke-width='.89664' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 -28.1149 -42.6983)'>
+<use x='-36.579912' y='31.745548' xlink:href='#g0-67'/>
+<use x='-29.459397' y='33.239929' xlink:href='#g1-49'/>
+</g>
+<path d='M89.5621-17.8633H109.4061' stroke='#000' fill='none' stroke-width='1.59404' stroke-miterlimit='10'/>
+<path d='M89.5621-9.3555H109.4061' stroke='#000' fill='none' stroke-width='1.59404' stroke-miterlimit='10'/>
+<path d='M99.4841-17.8633V-53.293' stroke='#000' fill='none' stroke-width='.89664' stroke-miterlimit='10'/>
+<path d='M99.4841 31.746093V-17.8633' stroke='#000' fill='none' stroke-width='.89664' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 152.5899 -42.6983)'>
+<use x='-36.579912' y='31.745548' xlink:href='#g0-67'/>
+<use x='-29.459397' y='33.239929' xlink:href='#g1-50'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 *Figure 5: The two parallel plate capacitor-switch circuit.*
 
 It seems odd for there to be a difference in energy as the circuit is a closed system. Three young scientists Fermi, Jackson, and Feynman have created different theories to find and verify the correct source of this missing energy.
@@ -394,7 +433,46 @@ Instead of charging one capacitor using the other, we take an ideal parallel-pla
 
 **1. (3 pts.)** Considera un circuito semplice con due condensatori a piastra parallela di capacità $C_1$ e $C_2$ collegati tra loro utilizzando fili puramente conduttori e un interruttore. Uno dei condensatori è inizialmente caricato a una tensione $V_0$, mentre l'altro è completamente scaricato. Il circuito è tenuto in forma quadrata di lunghezza laterale $\ell$ durante tutto il problema, mentre il diametro dei fili conduttori è $D$. Trova l'energia totale iniziale del circuito quando il interruttore è aperto, data da $E_0$, e un tempo sufficientemente lungo dopo che il interruttore è chiuso, data da $E_\infty$. Calcolare l'energia rimanente $E_\Delta = E_0 - E_\infty$. Qual è il valore $E_\Delta$ per il caso $C_2 \to \infty$?
 
-![[OPhO_2021_Invitational_p10_f5.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='190.848976pt' height='100.211063pt' viewBox='-64.19668 -68.01665 190.848976 100.211063'>
+<defs>
+<path id='g0-67' d='M7.571606-6.924035C7.571606-6.953923 7.551681-7.023661 7.462017-7.023661C7.43213-7.023661 7.422167-7.013699 7.312578-6.90411L6.615193-6.136986C6.525529-6.276463 6.067248-7.023661 4.961395-7.023661C2.739726-7.023661 .498132-4.821918 .498132-2.510585C.498132-.86675 1.673724 .219178 3.198007 .219178C4.064757 .219178 4.821918-.179328 5.349938-.637609C6.276463-1.454545 6.445828-2.361146 6.445828-2.391034C6.445828-2.49066 6.346202-2.49066 6.326276-2.49066C6.266501-2.49066 6.216687-2.470735 6.196762-2.391034C6.107098-2.102117 5.877958-1.39477 5.190535-.816936C4.503113-.259029 3.875467-.089664 3.35741-.089664C2.460772-.089664 1.404732-.607721 1.404732-2.161893C1.404732-2.729763 1.613948-4.343711 2.610212-5.50934C3.217933-6.216687 4.154421-6.714819 5.041096-6.714819C6.057285-6.714819 6.645081-5.947696 6.645081-4.79203C6.645081-4.393524 6.615193-4.383562 6.615193-4.283935S6.724782-4.184309 6.764633-4.184309C6.894147-4.184309 6.894147-4.204234 6.94396-4.383562L7.571606-6.924035Z'/>
+<path id='g1-49' d='M2.336239-4.435367C2.336239-4.623661 2.322291-4.630635 2.127024-4.630635C1.680697-4.191283 1.046077-4.184309 .760149-4.184309V-3.93325C.927522-3.93325 1.387796-3.93325 1.771357-4.128518V-.571856C1.771357-.341719 1.771357-.251059 1.073973-.251059H.808966V0C.934496-.006974 1.792279-.027895 2.050311-.027895C2.266501-.027895 3.145205-.006974 3.29863 0V-.251059H3.033624C2.336239-.251059 2.336239-.341719 2.336239-.571856V-4.435367Z'/>
+<path id='g1-50' d='M3.521793-1.26924H3.284682C3.263761-1.115816 3.194022-.704359 3.103362-.63462C3.047572-.592777 2.510585-.592777 2.412951-.592777H1.129763C1.862017-1.241345 2.106102-1.436613 2.524533-1.764384C3.040598-2.175841 3.521793-2.608219 3.521793-3.270735C3.521793-4.11457 2.782565-4.630635 1.889913-4.630635C1.025156-4.630635 .439352-4.02391 .439352-3.382316C.439352-3.02665 .739228-2.991781 .808966-2.991781C.976339-2.991781 1.17858-3.110336 1.17858-3.361395C1.17858-3.486924 1.129763-3.731009 .767123-3.731009C.983313-4.226152 1.457534-4.379577 1.785305-4.379577C2.48269-4.379577 2.84533-3.835616 2.84533-3.270735C2.84533-2.66401 2.412951-2.182814 2.189788-1.931756L.509091-.27198C.439352-.209215 .439352-.195268 .439352 0H3.312578L3.521793-1.26924Z'/>
+</defs>
+<g id='page1'>
+<path d='M-36.578126 31.746093V-53.293' stroke='#000' fill='none' stroke-width='.89664'/>
+<path d='M-36.578126-53.293H8.7734' stroke='#000' fill='none' stroke-width='.89664'/>
+<path d='M10.7695-53.293C10.7695-54.3945 9.875-55.2891 8.7734-55.2891C7.6758-55.2891 6.7812-54.3945 6.7812-53.293C6.7812-52.1953 7.6758-51.3008 8.7734-51.3008C9.875-51.3008 10.7695-52.1953 10.7695-53.293Z' stroke='#000' fill='none' stroke-width='.89664'/>
+<path d='M13.0273-55.5625L45.625-67.4687' stroke='#000' fill='none' stroke-width='1.0959'/>
+<path d='M51.8711-53.293C51.8711-54.3945 50.9766-55.2891 49.8789-55.2891C48.7773-55.2891 47.8867-54.3945 47.8867-53.293C47.8867-52.1953 48.7773-51.3008 49.8789-51.3008C50.9766-51.3008 51.8711-52.1953 51.8711-53.293Z' stroke='#000' fill='none' stroke-width='.89664' stroke-miterlimit='10'/>
+<path d='M54.1289-53.293H99.4841' stroke='#000' fill='none' stroke-width='.89664' stroke-miterlimit='10'/>
+<path d='M99.4841-53.293V31.746093' stroke='#000' fill='none' stroke-width='.89664' stroke-miterlimit='10'/>
+<path d='M-36.578126 31.746093H99.4841' stroke='#000' fill='none' stroke-width='.89664' stroke-miterlimit='10'/>
+<path d='M-46.5-17.8633H-26.66016' stroke='#000' fill='none' stroke-width='1.59404' stroke-miterlimit='10'/>
+<path d='M-46.5-9.3555H-26.66016' stroke='#000' fill='none' stroke-width='1.59404' stroke-miterlimit='10'/>
+<path d='M-36.578126-17.8633V-53.293' stroke='#000' fill='none' stroke-width='.89664' stroke-miterlimit='10'/>
+<path d='M-36.578126 31.746093V-17.8633' stroke='#000' fill='none' stroke-width='.89664' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 -28.1149 -42.6983)'>
+<use x='-36.579912' y='31.745548' xlink:href='#g0-67'/>
+<use x='-29.459397' y='33.239929' xlink:href='#g1-49'/>
+</g>
+<path d='M89.5621-17.8633H109.4061' stroke='#000' fill='none' stroke-width='1.59404' stroke-miterlimit='10'/>
+<path d='M89.5621-9.3555H109.4061' stroke='#000' fill='none' stroke-width='1.59404' stroke-miterlimit='10'/>
+<path d='M99.4841-17.8633V-53.293' stroke='#000' fill='none' stroke-width='.89664' stroke-miterlimit='10'/>
+<path d='M99.4841 31.746093V-17.8633' stroke='#000' fill='none' stroke-width='.89664' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 152.5899 -42.6983)'>
+<use x='-36.579912' y='31.745548' xlink:href='#g0-67'/>
+<use x='-29.459397' y='33.239929' xlink:href='#g1-50'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 *Figura 5: Il circuito di commutazione dei condensatori delle piastre parallele.*
 
 Sembra strano che ci sia una differenza di energia, visto che il circuito è un sistema chiuso. Tre giovani scienziati, Fermi, Jackson e Feynman, hanno creato teorie diverse per trovare e verificare la fonte corretta di questa energia mancante.

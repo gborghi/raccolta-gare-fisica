@@ -172,7 +172,7 @@ Relativamente alla distribuzione delle cariche indotte, sarà sufficiente studia
 **Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Symmetry Argument (metodo)|Symmetry Argument]], [[Gauss's Law (metodo)|Gauss's Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Point Charge (object)|Point Charge]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1len4cFtDw9PBRvEAxzR-SjUqpR_TZ3af/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/18Cy4mmNLddGLALeu-RcWUBqaEOWUkEY2/view)
 
@@ -209,7 +209,7 @@ The total amount of induced charge on the conductive plane shall be calculated.
 **Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Symmetry Argument (metodo)|Symmetry Argument]], [[Gauss's Law (metodo)|Gauss's Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Point Charge (object)|Point Charge]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1len4cFtDw9PBRvEAxzR-SjUqpR_TZ3af/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/18Cy4mmNLddGLALeu-RcWUBqaEOWUkEY2/view)
 

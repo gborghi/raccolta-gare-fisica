@@ -178,7 +178,7 @@ Figura (B)
 **Topic:** [[Fluid Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Spring (object)|Spring]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Spring (object)|Spring]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1SmxMbJPRRGco46MzjwezZaRXJXt6DvEf/view)
 
 
@@ -216,7 +216,7 @@ Figura (B)
 **Topic:** [[Fluid Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Spring (object)|Spring]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Spring (object)|Spring]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1SmxMbJPRRGco46MzjwezZaRXJXt6DvEf/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -253,7 +253,7 @@ The following table shows the following:
 **Topic:** [[Fluid Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Spring (object)|Spring]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Spring (object)|Spring]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1SmxMbJPRRGco46MzjwezZaRXJXt6DvEf/view)
 
 
@@ -430,7 +430,7 @@ menor no instante que o fio completa duas voltas no disco maior?
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1SmxMbJPRRGco46MzjwezZaRXJXt6DvEf/view)
 
 
@@ -449,7 +449,7 @@ minore nel momento in cui il filo completa due giri sul disco più grande?
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1SmxMbJPRRGco46MzjwezZaRXJXt6DvEf/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -467,7 +467,7 @@ less in the instant the wire completes two turns on the main disc?
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1SmxMbJPRRGco46MzjwezZaRXJXt6DvEf/view)
 
 

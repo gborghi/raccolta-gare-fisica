@@ -185,7 +185,7 @@ DATOS: La densidad del agua se puede suponer constante con la temperatura e igua
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ZAZ-FUXe7gvK3rj_HSmfwn2IrPmwQB79/view)
 
 
@@ -224,7 +224,7 @@ DATI: La densità dell'acqua può essere presunta costante con la temperatura ed
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ZAZ-FUXe7gvK3rj_HSmfwn2IrPmwQB79/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -262,7 +262,7 @@ DATES: The density of water can be assumed to be constant with temperature and e
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ZAZ-FUXe7gvK3rj_HSmfwn2IrPmwQB79/view)
 
 
@@ -461,7 +461,7 @@ elástica $k$ esta expresado por la relación: $T^2 = 4\pi^2 ( m / k )$.
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Spring (object)|Spring]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Spring (object)|Spring]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1ZAZ-FUXe7gvK3rj_HSmfwn2IrPmwQB79/view)
 
 
@@ -510,7 +510,7 @@ il rapporto $k$ è espresso dal rapporto: $T^2 = 4\pi^2 ( m / k )$.
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Spring (object)|Spring]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Spring (object)|Spring]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1ZAZ-FUXe7gvK3rj_HSmfwn2IrPmwQB79/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -558,5 +558,5 @@ The elastic $k$ is expressed as the ratio: $T^2 = 4\pi^2 ( m / k )$.
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Spring (object)|Spring]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Spring (object)|Spring]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1ZAZ-FUXe7gvK3rj_HSmfwn2IrPmwQB79/view)

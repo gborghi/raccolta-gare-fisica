@@ -233,7 +233,7 @@ de água misturado ao oxigênio à temperatura de $127{,}0\ ^\circ\text{C}$. Cal
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1j_QQ2X3k1iWS51ViAPfjjb7TPhU9WFVu/view)
 
 
@@ -249,7 +249,7 @@ di acqua miscelato all'ossigeno a temperatura $127{,}0\ ^\circ\text{C}$. Calcola
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1j_QQ2X3k1iWS51ViAPfjjb7TPhU9WFVu/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -264,7 +264,7 @@ of water mixed with oxygen at $127{,}0\ ^\circ\text{C}$. Calculate:
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1j_QQ2X3k1iWS51ViAPfjjb7TPhU9WFVu/view)
 
 
@@ -690,7 +690,7 @@ quadrada).
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Pipe/Tube (object)|Pipe/Tube]], [[Spring (object)|Spring]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1j_QQ2X3k1iWS51ViAPfjjb7TPhU9WFVu/view)
 
 
@@ -713,7 +713,7 @@ quadrato).
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Pipe/Tube (object)|Pipe/Tube]], [[Spring (object)|Spring]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1j_QQ2X3k1iWS51ViAPfjjb7TPhU9WFVu/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -735,7 +735,7 @@ square).
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Pipe/Tube (object)|Pipe/Tube]], [[Spring (object)|Spring]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1j_QQ2X3k1iWS51ViAPfjjb7TPhU9WFVu/view)
 
 
@@ -1064,7 +1064,7 @@ B?
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1j_QQ2X3k1iWS51ViAPfjjb7TPhU9WFVu/view)
 
 
@@ -1095,7 +1095,7 @@ B?
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1j_QQ2X3k1iWS51ViAPfjjb7TPhU9WFVu/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1125,7 +1125,7 @@ B?
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1j_QQ2X3k1iWS51ViAPfjjb7TPhU9WFVu/view)
 
 
@@ -1326,7 +1326,7 @@ b) a relação $P_1/P_2$.
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1j_QQ2X3k1iWS51ViAPfjjb7TPhU9WFVu/view)
 
 
@@ -1342,7 +1342,7 @@ b) il rapporto $P_1/P_2$.
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1j_QQ2X3k1iWS51ViAPfjjb7TPhU9WFVu/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1357,5 +1357,5 @@ by point (c);
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1j_QQ2X3k1iWS51ViAPfjjb7TPhU9WFVu/view)

@@ -26,7 +26,7 @@ As shown in Fig. 1, a boy is riding on a bus. The bus moves with a uniform speed
 - **(E)** $0\ \mathrm{km/h}$
 
 > [!figure] Figure 1
-> ![[HKPhO_2012_JL_p4_f1.png]]
+> ![[_attachments/hkpho_2012_jl/hkpho_2012_jl_p4_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1gQkQt9K58A-5_1FoF22Q1NwPP7ePVK45/view)
 
@@ -47,7 +47,7 @@ Come mostrato nella figura. Uno, un ragazzo è in autobus. L'autobus si muove co
 - **(E)** $0\ \mathrm{km/h}$
 
 > [figura] Figura 1
-> ![[HKPhO_2012_JL_p4_f1.png]]
+> ![[_attachments/hkpho_2012_jl/hkpho_2012_jl_p4_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1gQkQt9K58A-5_1FoF22Q1NwPP7ePVK45/view)
 
@@ -237,7 +237,7 @@ As shown in Fig. 3, the block-spring system is in equilibrium provided that the 
 - **(E)** $\dfrac12(2kx_1-\mu_s mg)$
 
 > [!figure] Figure 3
-> ![[HKPhO_2012_JL_p5_f3.png]]
+> ![[_attachments/hkpho_2012_jl/hkpho_2012_jl_p5_f3.png]]
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1gQkQt9K58A-5_1FoF22Q1NwPP7ePVK45/view)
 
@@ -258,7 +258,7 @@ Come mostrato nella figura. 3, il sistema di molla di blocco è in equilibrio a 
 - **(E)** $\dfrac12(2kx_1-\mu_s mg)$
 
 > [figura] Figura 3
-> ![[HKPhO_2012_JL_p5_f3.png]]
+> ![[_attachments/hkpho_2012_jl/hkpho_2012_jl_p5_f3.png]]
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1gQkQt9K58A-5_1FoF22Q1NwPP7ePVK45/view)
 
@@ -284,7 +284,7 @@ Come mostrato nella figura. 3, il sistema di molla di blocco è in equilibrio a 
 - **(E)** $5.32\ \mathrm{s}$
 
 > [!figure] Figure 4
-> ![[HKPhO_2012_JL_p6_f4.png]]
+> ![[_attachments/hkpho_2012_jl/hkpho_2012_jl_p6_f4.png]]
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1gQkQt9K58A-5_1FoF22Q1NwPP7ePVK45/view)
 
@@ -305,7 +305,7 @@ Come mostrato nella figura. 3, il sistema di molla di blocco è in equilibrio a 
 - **(E)** $5.32\ \mathrm{s}$
 
 > [figura] Figura 4
-> ![[HKPhO_2012_JL_p6_f4.png]]
+> ![[_attachments/hkpho_2012_jl/hkpho_2012_jl_p6_f4.png]]
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1gQkQt9K58A-5_1FoF22Q1NwPP7ePVK45/view)
 
@@ -331,7 +331,7 @@ Come mostrato nella figura. 3, il sistema di molla di blocco è in equilibrio a 
 - **(E)** $16.2\ \mathrm{m/s}$
 
 > [!figure] Figure 5
-> ![[HKPhO_2012_JL_p6_f5.png]]
+> ![[_attachments/hkpho_2012_jl/hkpho_2012_jl_p6_f5.png]]
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1gQkQt9K58A-5_1FoF22Q1NwPP7ePVK45/view)
 
@@ -352,7 +352,7 @@ Come mostrato nella figura. 3, il sistema di molla di blocco è in equilibrio a 
 - **(E)** $16.2\ \mathrm{m/s}$
 
 > [figura] Figura 5
-> ![[HKPhO_2012_JL_p6_f5.png]]
+> ![[_attachments/hkpho_2012_jl/hkpho_2012_jl_p6_f5.png]]
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1gQkQt9K58A-5_1FoF22Q1NwPP7ePVK45/view)
 
@@ -462,7 +462,7 @@ Esistono alcuni sistemi stellari tripli nell'universo. Sono più lontane dalle a
 (b) If the power is doubled, calculate the acceleration of the helicopter.
 
 > [!figure] Figure 6
-> ![[HKPhO_2012_JL_p7_f6.png]]
+> ![[_attachments/hkpho_2012_jl/hkpho_2012_jl_p7_f6.png]]
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1gQkQt9K58A-5_1FoF22Q1NwPP7ePVK45/view)
 
@@ -481,7 +481,7 @@ a) Determinare la potenza $P$ richiesta del motore.
 b) Se la potenza è raddoppiata, calcolare l'accelerazione dell'elicottero.
 
 > [figura] Figura 6
-> ![[HKPhO_2012_JL_p7_f6.png]]
+> ![[_attachments/hkpho_2012_jl/hkpho_2012_jl_p7_f6.png]]
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1gQkQt9K58A-5_1FoF22Q1NwPP7ePVK45/view)
 
@@ -544,7 +544,7 @@ b) Trova la distanza massima $OA$.
 (c) Calculate the length $L$ and the radius $R$.
 
 > [!figure] Figure 8
-> ![[HKPhO_2012_JL_p8_f8.png]]
+> ![[_attachments/hkpho_2012_jl/hkpho_2012_jl_p8_f8.png]]
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1gQkQt9K58A-5_1FoF22Q1NwPP7ePVK45/view)
 
@@ -565,7 +565,7 @@ b) Il piccolo oggetto continua a muoversi sulla superficie a forma di arco $BC$.
 c) Calcolare la lunghezza $L$ e il raggio $R$.
 
 > [figura] Figura 8
-> ![[HKPhO_2012_JL_p8_f8.png]]
+> ![[_attachments/hkpho_2012_jl/hkpho_2012_jl_p8_f8.png]]
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1gQkQt9K58A-5_1FoF22Q1NwPP7ePVK45/view)
 
@@ -591,7 +591,7 @@ When the satellite moves to the rear part of the earth (Fig. 9b), the light sour
 (b) Determine the duration in each day that the satellite cannot receive sunlight. Express your answer in minutes.
 
 > [!figure] Figure 9b
-> ![[HKPhO_2012_JL_p8_f9b.png]]
+> ![[_attachments/hkpho_2012_jl/hkpho_2012_jl_p8_f9b.png]]
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1gQkQt9K58A-5_1FoF22Q1NwPP7ePVK45/view)
 
@@ -612,7 +612,7 @@ a) Determinare l'altezza $h$. Esprimere la risposta in unità di $R_E$.
 b) Determinare la durata di ogni giorno in cui il satellite non può ricevere la luce solare. Esprimi la tua risposta in pochi minuti.
 
 > [figura] Figura 9b
-> ![[HKPhO_2012_JL_p8_f9b.png]]
+> ![[_attachments/hkpho_2012_jl/hkpho_2012_jl_p8_f9b.png]]
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1gQkQt9K58A-5_1FoF22Q1NwPP7ePVK45/view)
 
@@ -644,7 +644,7 @@ b) Determinare la durata di ogni giorno in cui il satellite non può ricevere la
 (d) Calculate the fractional reduction of the kinetic energy of the space probe at point $V$.
 
 > [!figure] Figure 10
-> ![[HKPhO_2012_JL_p9_f10.png]]
+> ![[_attachments/hkpho_2012_jl/hkpho_2012_jl_p9_f10.png]]
 
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1gQkQt9K58A-5_1FoF22Q1NwPP7ePVK45/view)
 
@@ -671,7 +671,7 @@ c) Calcolare la velocità (in km/s) della sonda spaziale nell'orbita di trasferi
 d) Calcolare la riduzione frazionaria dell'energia cinetica della sonda spaziale al punto $V$.
 
 > [figura] Figura 10
-> ![[HKPhO_2012_JL_p9_f10.png]]
+> ![[_attachments/hkpho_2012_jl/hkpho_2012_jl_p9_f10.png]]
 
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1gQkQt9K58A-5_1FoF22Q1NwPP7ePVK45/view)
 
@@ -697,7 +697,7 @@ d) Calcolare la riduzione frazionaria dell'energia cinetica della sonda spaziale
 (c) When $c$ is above $c^*$, the pendulum oscillates about a non-zero angle $\phi$. Calculate the period of the pendulum for small oscillations when the liquid level has risen to one that corresponds to $\phi = 30^\circ$.
 
 > [!figure] Figure 11
-> ![[HKPhO_2012_JL_p10_f11.png]]
+> ![[_attachments/hkpho_2012_jl/hkpho_2012_jl_p10_f11.png]]
 
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1gQkQt9K58A-5_1FoF22Q1NwPP7ePVK45/view)
 
@@ -718,7 +718,7 @@ b) Quando viene aggiunto il liquido, il livello del liquido aumenta e il valore 
 c) Quando $c$ è superiore a $c^*$, il pendolo oscilla intorno ad un angolo non zero $\phi$. Calcolare il periodo del pendolo per piccole oscillazioni quando il livello del liquido è salito a quello corrispondente a $\phi = 30^\circ$.
 
 > [figura] Figura 11
-> ![[HKPhO_2012_JL_p10_f11.png]]
+> ![[_attachments/hkpho_2012_jl/hkpho_2012_jl_p10_f11.png]]
 
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1gQkQt9K58A-5_1FoF22Q1NwPP7ePVK45/view)
 

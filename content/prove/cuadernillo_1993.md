@@ -157,7 +157,7 @@ Datos: $\alpha_c = 30^\circ$; $m = 0,2 kg$; $R = 1 m$; $d = 0,5 m$; $g = 9,8 m/s
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p03_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p03_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
@@ -183,7 +183,7 @@ I dati: $\alpha_c = 30^\circ$; $m = 0,2 kg$; $R = 1 m$; $d = 0,5 m$; $g = 9,8 m/
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p03_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p03_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
@@ -208,7 +208,7 @@ Datos: $\alpha_c = 30^\circ$; $m = 0,2 kg$; $R = 1 m$; $d = 0,5 m$; $g = 9,8 m/s
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p03_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p03_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
@@ -239,7 +239,7 @@ Para las preguntas siguientes, suponga la resistencia de cada lampara igual a su
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p03_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p03_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -265,7 +265,7 @@ Per le domande seguenti, supponga che la resistenza di ciascuna lampada sia pari
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p03_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p03_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -290,7 +290,7 @@ For the following questions, assume that the resistance of each lamp is equal to
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p03_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p03_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -499,13 +499,13 @@ b) $\xi$Cual sera su valor cuando aquel forme un angulo de $45^\circ$ con la hor
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p05_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p05_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Inclined Plane (object)|Inclined Plane]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Cart (object)|Cart]], [[Inclined Plane (object)|Inclined Plane]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -521,13 +521,13 @@ b) $\xi$Qual è il suo valore quando esso forma un angolo di $45^\circ$ con la o
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p05_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p05_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Inclined Plane (object)|Inclined Plane]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Cart (object)|Cart]], [[Inclined Plane (object)|Inclined Plane]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -542,13 +542,13 @@ A 1 Tn wagon is on an inclined plane $18^\circ$ and balanced by the action of a 
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p05_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p05_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Inclined Plane (object)|Inclined Plane]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Cart (object)|Cart]], [[Inclined Plane (object)|Inclined Plane]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -622,7 +622,7 @@ El orificio de entrada de la caja se encuentra en el centro de la cara mientras 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Projectile (object)|Projectile]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -636,7 +636,7 @@ Il foro di ingresso della scatola si trova al centro del viso mentre quello di u
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Projectile (object)|Projectile]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -649,7 +649,7 @@ The box entry hole is in the center of the face while the exit hole moves 2 cm. 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Projectile (object)|Projectile]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -672,7 +672,7 @@ Datos: $\delta_{alum} = 2,7 g/cm^3$; $\delta_{agua} = 1 g/cm^3$
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p06_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p06_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
@@ -696,7 +696,7 @@ Data: $\delta_{alum} = 2,7 g/cm^3$; $\delta_{agua} = 1 g/cm^3$
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p06_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p06_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
@@ -719,7 +719,7 @@ Datos: $\delta_{alum} = 2,7 g/cm^3$; $\delta_{agua} = 1 g/cm^3$
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p06_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p06_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
@@ -746,7 +746,7 @@ b) Calcular donde cae cada pedazo.
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p06_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p06_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Conservation of Momentum]], [[Newtonian Mechanics]]
@@ -768,7 +768,7 @@ b) Calcolare dove cade ogni pezzo.
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p06_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p06_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Conservation of Momentum]], [[Newtonian Mechanics]]
@@ -789,7 +789,7 @@ A mass grenade $M = 6Kg$ with an initial speed $V_0 = 200 \frac{m}{seg}$ is thro
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p06_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p06_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Conservation of Momentum]], [[Newtonian Mechanics]]
@@ -816,13 +816,13 @@ Datos: El momento de inercia de la polea es: $I = \frac{m_2 r^2}{2}$
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p07_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p07_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Pulley (object)|Pulley]], [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -838,13 +838,13 @@ Dati: Il momento di inerzia del polo è: $I = \frac{m_2 r^2}{2}$
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p07_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p07_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Pulley (object)|Pulley]], [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -859,13 +859,13 @@ Data: The moment of inertia of the pulley is: $I = \frac{m_2 r^2}{2}$
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p07_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p07_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Pulley (object)|Pulley]], [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -888,7 +888,7 @@ b) Desde que altura respecto del punto mas bajo, debera dejarse caer para que la
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p07_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p07_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
@@ -912,7 +912,7 @@ b) Da che altezza rispetto al punto più basso, deve essere abbassato per far s�
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p07_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p07_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
@@ -935,7 +935,7 @@ Determine:
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p07_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p07_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
@@ -1005,13 +1005,13 @@ Datos: $m_1 = 150 Kg$; $m_2 = 200 Kg$; $m_3 = 800 Kg$; $m_4 = 100 Kg$
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p08_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p08_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -1027,13 +1027,13 @@ I dati: $m_1 = 150 Kg$; $m_2 = 200 Kg$; $m_3 = 800 Kg$; $m_4 = 100 Kg$
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p08_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p08_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1048,13 +1048,13 @@ Datos: $m_1 = 150 Kg$; $m_2 = 200 Kg$; $m_3 = 800 Kg$; $m_4 = 100 Kg$
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p08_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p08_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -1128,13 +1128,13 @@ c3) $\xi$Cual es la presion absoluta en la cara inferior del bloque en Pa?
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p08_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p08_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -1154,13 +1154,13 @@ c3) $\xi$Qual è la pressione assoluta sul lato inferiore del blocco in Pa?
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p08_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p08_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1179,13 +1179,13 @@ c3) $\xi$What is the absolute pressure on the lower side of the block in Pa?
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p08_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p08_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -1268,7 +1268,7 @@ Determinara entre que valores puede variar P para que el bloque de 80 kg no se d
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -1285,7 +1285,7 @@ Determinare tra quali valori P può variare in modo che il blocco di 80 kg non s
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1301,7 +1301,7 @@ Determine between which values P can vary so that the 80 kg block does not slide
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -1378,7 +1378,7 @@ En los vertices del cuadrado se colocan sucesivamente masa de 1 - 3 - 5 y 7 Kg d
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p10_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p10_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Rigid Body Statics]]
@@ -1398,7 +1398,7 @@ Le cime del quadrato sono successivamente messe in massa da 1 - 3 - 5 kg e 7 kg 
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p10_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p10_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Rigid Body Statics]]
@@ -1417,7 +1417,7 @@ The summits of the square are successively placed with a mass of 1 - 3 - 5 kg an
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p10_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p10_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Rigid Body Statics]]
@@ -1531,7 +1531,7 @@ En un planeta donde la aceleracion de la gravedad es de $10^m/s^2$, se tiene un 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[Spring (object)|Spring]], [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -1546,7 +1546,7 @@ Su un pianeta dove l'accelerazione della gravità è $10^m/s^2$, si ha un sistem
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[Spring (object)|Spring]], [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1560,7 +1560,7 @@ On a planet where the acceleration of gravity is $10^m/s^2$, you have a system l
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[Spring (object)|Spring]], [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -1907,7 +1907,7 @@ Un cubo de madera de 10 cm de lado se encuentra dentro de un recipiente que cont
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Block (object)|Block]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -1922,7 +1922,7 @@ Un cubo di legno di 10 cm laterale è all'interno di un recipiente contenente ac
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Block (object)|Block]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1936,7 +1936,7 @@ A 10 cm side wooden cube is contained within a container containing water ($\del
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Block (object)|Block]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -1955,7 +1955,7 @@ Un autito (despreciar el rozamiento y la masa de las ruedas) se suelta desde un 
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p15_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p15_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
@@ -1975,7 +1975,7 @@ Un autito (sottopreparando il ruggine e la massa delle ruote) si solleva da un'a
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p15_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p15_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
@@ -1994,7 +1994,7 @@ Un autito (despreciar el rozamiento y la masa de las ruedas) se suelta desde un 
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p15_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p15_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
@@ -2020,7 +2020,7 @@ Calcular la tension del cable y las fuerzas vertical y horizontal que actuan sob
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Beam (object)|Beam]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Beam (object)|Beam]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -2035,7 +2035,7 @@ Calcolare la tensione del cavo e le forze verticali e orizzontali che agiscono s
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Beam (object)|Beam]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Beam (object)|Beam]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -2049,7 +2049,7 @@ Calculate the tension of the cable and the vertical and horizontal forces acting
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Beam (object)|Beam]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Beam (object)|Beam]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -2121,7 +2121,7 @@ b) El tiempo que tarda en llegar a esa profundidad y volver a la superficie.
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p14_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p14_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
@@ -2142,7 +2142,7 @@ b) Il tempo necessario per raggiungere tale profondità e tornare in superficie.
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p14_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p14_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
@@ -2162,7 +2162,7 @@ Considering that only the water push is opposed to its movement, calculate:
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p14_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p14_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
@@ -2195,7 +2195,7 @@ f) Cuanto debe valer el coeficiente de roce para que los cuerpos se muevan con v
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -2217,7 +2217,7 @@ f) Quanto deve valere il coefficiente di rottura per muovere i corpi a velocità
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -2238,7 +2238,7 @@ c) What is the tension on the rope?
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -2350,7 +2350,7 @@ Un recipiente cilindrico de 20 cm de diametro flota en el agua emergiendo 10 cm 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]], [[Block (object)|Block]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -2365,7 +2365,7 @@ Un recipiente cilindrico di 20 cm di diametro galleggia nell'acqua emergendo 10 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]], [[Block (object)|Block]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -2379,7 +2379,7 @@ A cylindrical vessel of 20 cm in diameter floats in water emerging 10 cm from th
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]], [[Block (object)|Block]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -2447,7 +2447,7 @@ Suponga que el proyectil y el misil se mueven en un mismo plano.
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p15_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p15_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]]
@@ -2473,7 +2473,7 @@ Supponiamo che il proiettile e il missile si muovano nello stesso piano.
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p15_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p15_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]]
@@ -2498,7 +2498,7 @@ Suppose the projectile and the missile move in the same plane.
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p15_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p15_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]]
@@ -2593,13 +2593,13 @@ Para el caso de la figura, calcular que es lo que indicaria el dinamometro en es
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p16_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p16_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -2613,13 +2613,13 @@ Per il caso della figura, calcolare ciò che il dinamometro indicherebbe in quel
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p16_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p16_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -2632,13 +2632,13 @@ For the case of the figure, calculate what the dynamometer would indicate in tha
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p16_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p16_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -2705,7 +2705,7 @@ b) Cuanto vale la fuerza normal que el riel ejerce sobre el carro cuando pasa po
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p16_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p16_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
@@ -2727,7 +2727,7 @@ b) Qual è la forza normale che il binario esercita sul carro quando passa attra
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p16_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p16_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
@@ -2748,7 +2748,7 @@ A car, m = 100 kg, moves through the Russian mountains without a scratch.
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p16_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p16_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
@@ -2776,7 +2776,7 @@ Una palangana llena de agua esta apoyada en equilibrio sobre un soporte. Si colo
 **Topic:** [[Fluid Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Block (object)|Block]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -2793,7 +2793,7 @@ Una vasca piena di acqua è appoggiata in equilibrio su un supporto. Se mettiamo
 **Topic:** [[Fluid Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Block (object)|Block]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -2809,7 +2809,7 @@ A water-filled plunge is rested in balance on a support. If we put a block of wo
 **Topic:** [[Fluid Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Block (object)|Block]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -2831,7 +2831,7 @@ El bote de la figura pesa 50 Kgf, y por razones de seguridad no es conveniente q
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -2848,7 +2848,7 @@ Il pesante della barca è di 50 Kgf e per motivi di sicurezza non è opportuno c
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -2864,7 +2864,7 @@ The figure boat weighs 50 Kgf, and for safety reasons it is not appropriate for 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -2950,7 +2950,7 @@ Se considera el mismo sistema, pero ahora con el cuerpo $m_3$ completamente sume
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -2967,7 +2967,7 @@ Si considera lo stesso sistema, ma ora con il corpo $m_3$ completamente immerso 
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -2983,7 +2983,7 @@ It is considered the same system, but now with the $m_3$ body completely submerg
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -3050,7 +3050,7 @@ r = 0,01 ohm
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p18_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p18_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -3075,7 +3075,7 @@ R = 0,01 ohm
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p18_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p18_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -3099,7 +3099,7 @@ The following is the list of the following:
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p18_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p18_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -3206,7 +3206,7 @@ b) Se desea encender solo 4 lamparas.
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p20_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p20_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -3229,7 +3229,7 @@ b) Si desiderano accendere solo 4 lampade.
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p20_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p20_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -3251,7 +3251,7 @@ For each of the following questions, indicate which switches must be closed and 
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p20_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p20_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -3279,7 +3279,7 @@ En el circuito de la figura, determinar:
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p21_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p21_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -3302,7 +3302,7 @@ Nel circuito della figura, determinare:
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p21_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p21_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -3324,7 +3324,7 @@ In the figure circuit, determine:
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p21_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p21_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -3419,7 +3419,7 @@ c) Sola las $L_1$ y $L_2$ estan cerradas.
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p20_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p20_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -3442,7 +3442,7 @@ c) Solo le $L_1$ e $L_2$ sono chiuse.
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p20_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p20_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -3464,7 +3464,7 @@ The figure shows a typical domestic lighting circuit. The focuses involved are m
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p20_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p20_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -3498,7 +3498,7 @@ c) Si ahora agregamos un capacitor C, de 10 uF, en paralelo con la resistencia R
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p22_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p22_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -3527,7 +3527,7 @@ c) Se aggiungiamo ora un capacitore C, di 10 uF, in parallelo alla resistenza R3
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p22_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p22_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -3555,7 +3555,7 @@ c) If we now add a capacitor C, of 10 uF, in parallel with the resistance R3, de
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p22_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p22_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -3582,7 +3582,7 @@ Datos (de la figura): $\varepsilon_1 = 6V$, $\sigma_1 = 2\Omega$; $\varepsilon_2
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p22_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p22_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -3604,7 +3604,7 @@ Dati (della figura): $\varepsilon_1 = 6V$, $\sigma_1 = 2\Omega$; $\varepsilon_2 
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p22_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p22_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -3625,7 +3625,7 @@ Datos (de la figura): $\varepsilon_1 = 6V$, $\sigma_1 = 2\Omega$; $\varepsilon_2
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p22_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p22_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -4000,7 +4000,7 @@ $C_{l fus hielo} = 80 cal/g$
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p25_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p25_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Thermodynamics]]
@@ -4021,7 +4021,7 @@ $C_{l fus hielo} = 80 cal/g$
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p25_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p25_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Thermodynamics]]
@@ -4041,7 +4041,7 @@ $C_{l fus hielo} = 80 cal/g$
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p25_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p25_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Thermodynamics]]
@@ -4140,7 +4140,7 @@ d) La variacion de energia interna en el 3er. proceso.
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Piston (object)|Piston]], [[Cylinder (object)|Cylinder]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Piston (object)|Piston]], [[Cylinder (object)|Cylinder]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -4167,7 +4167,7 @@ d) La variazione dell'energia interna nel 3. processo.
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Piston (object)|Piston]], [[Cylinder (object)|Cylinder]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Piston (object)|Piston]], [[Cylinder (object)|Cylinder]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -4193,7 +4193,7 @@ Calculation of the
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Piston (object)|Piston]], [[Cylinder (object)|Cylinder]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Piston (object)|Piston]], [[Cylinder (object)|Cylinder]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -4355,7 +4355,7 @@ La luz incide normalmente sobre la cara menor de un prisma cuyos angulos son $30
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p25_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p25_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]
@@ -4375,7 +4375,7 @@ La luce incide normalmente sul lato minore di un prisma i cui angoli sono $30^\c
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p25_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p25_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]
@@ -4394,7 +4394,7 @@ The light normally hits the lower face of a prism whose angles are $30^\circ$, $
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p25_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p25_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]
@@ -4419,7 +4419,7 @@ Hallar el minimo indice de refraccion que debe tener el prisma triangular para q
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p26_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p26_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]
@@ -4439,7 +4439,7 @@ Trovare il minimo indice di refraczione che il prisma triangolare deve avere per
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p26_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p26_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]
@@ -4458,7 +4458,7 @@ Find the minimum refractive index that the triangular prism must have for the li
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p26_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p26_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]
@@ -4490,7 +4490,7 @@ La figura no esta realizada a escala.
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p26_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p26_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]
@@ -4517,7 +4517,7 @@ La figura non è realizzata su scala.
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p26_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p26_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]
@@ -4543,7 +4543,7 @@ The figure is not made on a scale.
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p26_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p26_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]
@@ -4573,7 +4573,7 @@ Resuelve analiticamente y verifica graficamente.
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p27_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p27_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]
@@ -4598,7 +4598,7 @@ Risolve analiticamente e verifica graficamente.
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p27_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p27_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]
@@ -4622,7 +4622,7 @@ It solves analytically and verifies graphically.
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p27_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p27_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]
@@ -4703,7 +4703,7 @@ Se admite para el ajuste del cero del puente un error de 40 mV.
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p28_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p28_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -4736,7 +4736,7 @@ Per il regolamento del zero del ponte è ammesso un errore di 40 mV.
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p28_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p28_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -4768,7 +4768,7 @@ A 40 mV error is allowed for the zero adjustment of the bridge.
 
 
 <!--fig:start-->
-![[Cuadernillo_1993_p28_f1.png]]
+![[_attachments/cuadernillo_1993/cuadernillo_1993_p28_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -5187,7 +5187,7 @@ Presenta un informe incluyendo tabla de valores, graficos, errores estimados, re
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]]
+**Objects:** [[Cart (object)|Cart]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -5220,7 +5220,7 @@ Presenta un rapporto che includa tabella di valori, grafici, errori stimati, ris
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]]
+**Objects:** [[Cart (object)|Cart]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -5252,7 +5252,7 @@ Present a report including a table of values, charts, estimated errors, experime
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]]
+**Objects:** [[Cart (object)|Cart]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -5342,7 +5342,7 @@ agua
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -5360,7 +5360,7 @@ acqua
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -5377,7 +5377,7 @@ water
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -5396,7 +5396,7 @@ La $\delta$ del agua destilada es de 1 $gr/cm^3$.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
@@ -5410,7 +5410,7 @@ Il $\delta$ dell'acqua distillata è di 1 $gr/cm^3$.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -5423,5 +5423,5 @@ The $\delta$ of distilled water is 1 $gr/cm^3$.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)

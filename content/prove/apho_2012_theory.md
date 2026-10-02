@@ -29,7 +29,7 @@ $$
 
 Here $g$ is the acceleration due to gravity. Note that the damping parameter $k$ is due to the generation of eddy currents in the tube.
 
-![[APhO_2012_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2012_theory/apho_2012_theory_q1_p1_f1.png]]
 *Figure 1*
 
 **I.1** Obtain the terminal velocity ($v_T$) of the magnet. **[0.5 point]**
@@ -46,7 +46,7 @@ $$B_\rho = \frac{\mu_0}{4\pi}\,\frac{3pz\rho}{(\rho^2 + z^2)^{5/2}}$$
 
 where $\mu_0$ is the permeability of free space.
 
-![[APhO_2012_theory_Q1_p1_f2.png]]
+![[prove/_attachments/apho_2012_theory/apho_2012_theory_q1_p1_f2.png]]
 *Figure 2*
 
 **I.3** Let the instantaneous speed of the magnet be $v$. Obtain the magnitude of the induced emf ($e_i$) in the ring. **[1.5 points]**
@@ -65,7 +65,7 @@ Next we will estimate the damping parameter $k$ due to the pipe (see Eq. (1)). T
 
 **I.9** Obtain the resistance of an individual ring. **[0.5 point]**
 
-![[APhO_2012_theory_Q1_p2_f3.png]]
+![[prove/_attachments/apho_2012_theory/apho_2012_theory_q1_p2_f3.png]]
 *Figure 3*
 
 **I.10** Obtain the damping parameter $k$ due to the entire pipe in terms of $p$, $\sigma$ and geometrical parameters of the ring. Since each ring is very thin, you may take magnetic field to be constant over the thickness of the ring and equal to $B_\rho(\rho = a)$. Assume that at an instant $t$, the magnet has a coordinate $z(t)$ with an instantaneous speed $\dot{z}$. You should leave your answer in terms of a dimensionless integral $I$, involving a dimensionless variable $u = (z - z')/a$. **[2.0 points]**
@@ -85,7 +85,7 @@ $$\int \frac{u\,du}{(u^2 + a^2)^n} = \frac{1}{2}\,\frac{(a^2 + u^2)^{1-n}}{1 - n
 **Topic:** [[Electromagnetic Induction]], [[Electromagnetism]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lenz's Law (metodo)|Lenz's Law]], [[Differential Equations (metodo)|Differential Equations]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Magnetic Dipole (object)|Magnetic Dipole]], [[Pipe/Tube (object)|Pipe/Tube]], [[Magnet (object)|Magnet]]
+**Objects:** [[Magnetic Dipole (object)|Magnetic Dipole]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Magnet (object)|Magnet]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -102,7 +102,7 @@ $$
 
 Qui $g$ è l'accelerazione dovuta alla gravità. Si noti che il parametro di ammortizzazione $k$ è dovuto alla generazione di correnti di scarico nel tubo.
 
-![[APhO_2012_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2012_theory/apho_2012_theory_q1_p1_f1.png]]
 *Figura 1*
 
 **I.1** Ottieni la velocità terminale ($v_T$) del magnete. **[0,5 punto]**
@@ -119,7 +119,7 @@ $$B_\rho = \frac{\mu_0}{4\pi}\,\frac{3pz\rho}{(\rho^2 + z^2)^{5/2}}$$
 
 in cui $\mu_0$ è la permeabilità dello spazio libero.
 
-![[APhO_2012_theory_Q1_p1_f2.png]]
+![[prove/_attachments/apho_2012_theory/apho_2012_theory_q1_p1_f2.png]]
 *Figura 2*
 
 **I.3 ** La velocità istantanea del magnete deve essere $v$. Ottenere la magnitudine dell'emf indotto ($e_i$) nell'anello. **[1,5 punti]**
@@ -138,7 +138,7 @@ In seguito stimeremo il parametro di ammortizzazione $k$ dovuto al tubo (vedere 
 
 **I.9 ** Ottenere la resistenza di un singolo anello. **[0,5 punto]**
 
-![[APhO_2012_theory_Q1_p2_f3.png]]
+![[prove/_attachments/apho_2012_theory/apho_2012_theory_q1_p2_f3.png]]
 *Figura 3*
 
 **I.10** Ottieni il parametro di ammortizzazione $k$ dovuto a tutto il tubo in termini di $p$, $\sigma$ e parametri geometrici dell'anello. Poiché ogni anello è molto sottile, si può prendere un campo magnetico per essere costante sullo spessore dell'anello ed è uguale a $B_\rho(\rho = a)$. Supponiamo che ad un istante $t$, il magnete abbia una coordinata $z(t)$ con una velocità istantanea $\dot{z}$. La risposta deve essere presentata in termini di integrale senza dimensioni $I$, che coinvolge una variabile senza dimensioni $u = (z - z')/a$. **[2,0 punti]**
@@ -158,7 +158,7 @@ $$\int \frac{u\,du}{(u^2 + a^2)^n} = \frac{1}{2}\,\frac{(a^2 + u^2)^{1-n}}{1 - n
 **Topic:** [[Electromagnetic Induction]], [[Electromagnetism]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lenz's Law (metodo)|Lenz's Law]], [[Differential Equations (metodo)|Differential Equations]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Magnetic Dipole (object)|Magnetic Dipole]], [[Pipe/Tube (object)|Pipe/Tube]], [[Magnet (object)|Magnet]]
+**Objects:** [[Magnetic Dipole (object)|Magnetic Dipole]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Magnet (object)|Magnet]]
 
 
 
@@ -275,7 +275,7 @@ This problem deals with the two beam phenomena associated with light, its interf
 
 Consider the experimental set up as shown in Fig. (1). Two coherent monochromatic light beams (marked as beam 1 and 2), travelling in the $z$ direction, are incident on two narrow slits and separated by a distance $d$ ($S_1 S_2 = d$). After passing through the slits the two beams interfere and the pattern is observed on the screen $S$. The distance between the slits and the screen is $D$ and $D \gg d$. Assume that the width of each slit $S_1$ and $S_2$ is much smaller than the wavelength of light.
 
-![[APhO_2012_theory_Q3_p1_f1.png]]
+![[prove/_attachments/apho_2012_theory/apho_2012_theory_q3_p1_f1.png]]
 *Figure 1*
 
 **III.1** Let the beams 1 and 2 be linearly polarized at $z = 0$. The corresponding electric field vectors are given by
@@ -324,7 +324,7 @@ and,
 
 Thus the beam 1 is back to its original state of polarization. Assume that the polarizers do not introduce any path difference and are perfectly transparent.
 
-![[APhO_2012_theory_Q3_p2_f2.png]]
+![[prove/_attachments/apho_2012_theory/apho_2012_theory_q3_p2_f2.png]]
 *Figure 2*
 
 **III.4.a** Write down the expression for the electric field of beam 1 after the first polarizer at $z = b$ $[\vec{E}_1(z = b)]$.
@@ -347,12 +347,12 @@ $$\tan e = \frac{\text{Semi-minor axis of the ellipse}}{\text{Semi-major axis of
 
 Linear polarization (Eqs. (1)) and circular polarization (Eq. (2)) are special cases of elliptical polarization (Eq. (3)). The two parameters $\gamma\ (\in [0, \pi])$ and $e\ (\in [-\pi/4, \pi/4])$ completely describe the state of polarization.
 
-![[APhO_2012_theory_Q3_p3_f3.png]]
+![[prove/_attachments/apho_2012_theory/apho_2012_theory_q3_p3_f3.png]]
 *Figure 3*
 
 The polarization state can also be represented by a point on a sphere of unit radius called the Poincare sphere. The polarization of the beam described in Eq. (3) is represented by a point $P$ on the Poincare sphere (see Fig. 4), then latitude $\angle PCD = 2e$ and longitude $\angle ACD = 2\gamma$. Here $C$ is the center.
 
-![[APhO_2012_theory_Q3_p4_f4.png]]
+![[prove/_attachments/apho_2012_theory/apho_2012_theory_q3_p4_f4.png]]
 *Figure 4*
 
 **III.5** Consider a point on the equator of the Poincare sphere.
@@ -387,7 +387,7 @@ Questo problema riguarda i due fenomeni del fascio associati alla luce, alla sua
 
 Considerate la struttura sperimentale mostrata nella figura. (1). Due fasci di luce monocromatiche coerenti (indicati come fasci 1 e 2), che viaggiano nella direzione $z$, si incidono su due fessure strette e sono separate da una distanza $d$ ($S_1 S_2 = d$). Dopo aver attraversato le fessure i due travi si interferiscono e il modello viene osservato sullo schermo $S$. La distanza tra le fessure e lo schermo è $D$ e $D \gg d$. Supponiamo che la larghezza di ciascuna fessura $S_1$ e $S_2$ sia molto inferiore alla lunghezza d'onda della luce.
 
-![[APhO_2012_theory_Q3_p1_f1.png]]
+![[prove/_attachments/apho_2012_theory/apho_2012_theory_q3_p1_f1.png]]
 *Figura 1*
 
 **III.1 ** Lasciate che i fasci 1 e 2 siano polarizzati linearmente a $z = 0$. I vector di campo elettrico corrispondenti sono dati da
@@ -436,7 +436,7 @@ e
 
 Così il raggio 1 è tornato allo stato di polarizzazione originale. Supponiamo che i polarizzatori non introducano alcuna differenza di percorso e siano perfettamente trasparenti.
 
-![[APhO_2012_theory_Q3_p2_f2.png]]
+![[prove/_attachments/apho_2012_theory/apho_2012_theory_q3_p2_f2.png]]
 *Figura 2*
 
 **III.4.a** Scrivere l'espressione per il campo elettrico del fascio 1 dopo il primo polarizzatore a $z = b$ $[\vec{E}_1(z = b)]$.
@@ -459,12 +459,12 @@ $$\tan e = \frac{\text{Semi-minor axis of the ellipse}}{\text{Semi-major axis of
 
 Polarizzazione lineare (Eq. 1) e polarizzazione circolare (Eq. 2) sono casi speciali di polarizzazione ellittica (Eq. (3)). I due parametri $\gamma\ (\in [0, \pi])$ e $e\ (\in [-\pi/4, \pi/4])$ descrivono completamente lo stato di polarizzazione.
 
-![[APhO_2012_theory_Q3_p3_f3.png]]
+![[prove/_attachments/apho_2012_theory/apho_2012_theory_q3_p3_f3.png]]
 *Figura 3*
 
 Lo stato di polarizzazione può anche essere rappresentato da un punto su una sfera di raggio unitario chiamato sfera Poincare. La polarizzazione del raggio descritta in Eq. (3) è rappresentato da un punto $P$ sulla sfera Poincare (cfr. figura 4), poi la latitudine $\angle PCD = 2e$ e la longitudine $\angle ACD = 2\gamma$. Qui $C$ è il centro.
 
-![[APhO_2012_theory_Q3_p4_f4.png]]
+![[prove/_attachments/apho_2012_theory/apho_2012_theory_q3_p4_f4.png]]
 *Figura 4*
 
 **III.5 ** Considera un punto sull'equatore della sfera Poincare.

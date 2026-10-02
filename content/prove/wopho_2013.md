@@ -21,12 +21,12 @@ tags:
 
 Induction (or asynchronous) motors are the simplest and most reliable electric motors. They are powered by alternating current, and they do not contain commutators, slip rings or brushes. They consist of a stator and a rotor (see fig. 1). The stator is a fixed set of coils, which produces a rotating magnetic field in the plane perpendicular to the axis of the motor. The rotor is just a cage, i.e., a set of closed metallic loops attached to the axis of the motor. The rotating magnetic field produced by the stator induces electric current in the loops of the cage, which behave as magnetic dipoles, and interact with the external field of the stator. As a result, a torque is exerted on the rotor, and it starts rotating.
 
-![[WoPhO_2013_Q1_p1_f1.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q1_p1_f1.png]]
 **Figure 1:** The structure of an induction motor.
 
 In a simplified model (see fig. 2) we assume that the magnetic induction vector $\mathbf{B}$ produced by the stator is rotating in the $x$–$y$ plane at a constant angular velocity $\Omega$, and it has a constant magnitude $B$. The axis of the rotor is in the $z$ direction. The rotor is assumed to be a flat coil of area $A$, winding number $N$, Ohmic resistance $R$ and self inductance $L$. The vector $\mathbf{n}$ perpendicular to this coil is rotating also in the $x$–$y$ plane.
 
-![[WoPhO_2013_Q1_p1_f2.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q1_p1_f2.png]]
 **Figure 2:** The simplified model, seen from the $z$ axis.
 
 **Stationary operation**
@@ -72,12 +72,12 @@ which is a dimensionless number between 0 and 1.
 
 I motori ad induzione (o asincroni) sono i motori elettrici più semplici e affidabili. Sono alimentate da corrente alternata e non contengono commutatori, anelli di scivolamento o spazzole. Sono costituiti da statore e rotore (cfr. figura 1. 1). Lo statore è un insieme fisso di bobine che produce un campo magnetico rotante nel piano perpendicolare all'asse del motore. Il rotore è solo una gabbia, cioè un insieme di circuiti metallici chiusi attaccati all'asse del motore. Il campo magnetico rotante prodotto dallo statore induce corrente elettrica nei circuiti della gabbia, che si comportano come dipoli magnetici e interagiscono con il campo esterno dello statore. Di conseguenza, viene esercitato un coppia sul rotore e comincia a girare.
 
-![[WoPhO_2013_Q1_p1_f1.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q1_p1_f1.png]]
 **Figura 1: ** La struttura di un motore ad induzione.
 
 In un modello semplificato (cfr. figura 2) supponiamo che il vettore di induzione magnetica $\mathbf{B}$ prodotto dallo statore ruota nel piano $x$–$y$ a una velocità angolare costante $\Omega$, e abbia una magnitudine costante $B$. L'asse del rotore è nella direzione $z$. Si presume che il rotore sia una bobina piatta di superficie $A$, numero di avvolgimento $N$, resistenza ohmica $R$ e auto-induzione $L$. Il vettore $\mathbf{n}$ perpendicolare a questa bobina ruota anche nel piano $x$–$y$.
 
-![[WoPhO_2013_Q1_p1_f2.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q1_p1_f2.png]]
 **Figura 2: ** Il modello semplificato, visto dall'asse $z$.
 
 **operazione stazionaria**
@@ -128,7 +128,7 @@ che è un numero senza dimensioni tra 0 e 1.
 
 Two uniform balls 1 and 2 of radii $R_1 = 2.00$ cm and $R_2 = 4.00$ cm respectively are made of the same material of the mass density $\rho = 1.50 \times 10^3\ \text{kg/m}^3$. They are firmly glued together to form a rigid body as shown in Figure 1. In this problem you will have to investigate various kinds of motions of that rigid body called the two-ball body.
 
-![[WoPhO_2013_Q2_p1_f1.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q2_p1_f1.png]]
 **Figure 1:** Two-ball body lying at rest on the flat horizontal surface.
 
 **Part A**
@@ -145,7 +145,7 @@ Two uniform balls 1 and 2 of radii $R_1 = 2.00$ cm and $R_2 = 4.00$ cm respectiv
 
 Let the two-ball body be placed on the flat horizontal surface as shown in Figure 2. The smaller ball is right under the larger one such that the line connecting the centers of the two balls is strictly perpendicular to the surface. It is obvious that such an equilibrium position is unstable and an insignificant random deflection will set the two-ball body into a motion due to gravity whose acceleration is $g = 9.80\ \text{m/s}^2$.
 
-![[WoPhO_2013_Q2_p2_f2.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q2_p2_f2.png]]
 **Figure 2:** Initial position of the two-ball body for Part B.
 
 **B1** Assume that the friction between the lower ball and the surface is so strong that there is no slipping at all times. Find the velocities of balls' centers at the time moment right before the larger ball hits the ground. Draw a sketch with the depicted velocities of balls' centers. *(1.5 points)*
@@ -156,7 +156,7 @@ Let the two-ball body be placed on the flat horizontal surface as shown in Figur
 
 Let the two-ball body be placed on an inclined plane set at an angle $\alpha = 30^\circ$ against the horizontal. At the initial time moment the line connecting balls touching points with the surface is exactly parallel to the lower edge of the inclined plane as shown in Figure 3. In this Part assume that the friction between the balls and the surface is so strong that there is no slipping at all times. The two-ball body is released.
 
-![[WoPhO_2013_Q2_p3_f3.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q2_p3_f3.png]]
 **Figure 3:** Initial position of the two-ball body for Parts C1-C2.
 
 **C1** Find the maximal velocities of balls' centers. *(2.0 points)*
@@ -165,7 +165,7 @@ Let the two-ball body be placed on an inclined plane set at an angle $\alpha = 3
 
 Now assume that the two-ball body is at rest on the inclined plane such that the line connecting balls' touching points with the surface is exactly perpendicular to the lower edge of the inclined plane as shown in Figure 4.
 
-![[WoPhO_2013_Q2_p3_f4.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q2_p3_f4.png]]
 **Figure 4:** Initial equilibrium position of the two-ball body for Part C3.
 
 **C3** Find the angular frequency of small oscillations of the two-ball body around the equilibrium position shown in Figure 4. *(0.8 points)*
@@ -183,7 +183,7 @@ Now assume that the two-ball body is at rest on the inclined plane such that the
 
 Due sfere uniformi 1 e 2 di radii $R_1 = 2.00$ cm e $R_2 = 4.00$ cm sono realizzate rispettivamente dallo stesso materiale della densità di massa $\rho = 1.50 \times 10^3\ \text{kg/m}^3$. Sono strettamente incollati insieme per formare un corpo rigido come mostrato alla figura 1. In questo problema dovrete studiare vari tipi di movimenti di quel corpo rigido chiamato corpo a due palle.
 
-![[WoPhO_2013_Q2_p1_f1.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q2_p1_f1.png]]
 **Figura 1: ** Corpo a due palle riposato sulla superficie piatta orizzontale.
 
 **parte A**
@@ -200,7 +200,7 @@ Due sfere uniformi 1 e 2 di radii $R_1 = 2.00$ cm e $R_2 = 4.00$ cm sono realizz
 
 Il corpo a due palle deve essere posizionato sulla superficie orizzontale piatta come mostrato alla figura 2. La palla più piccola è proprio sotto quella più grande in modo tale che la linea che collega i centri delle due palle è rigorosamente perpendicolare alla superficie. È ovvio che una tale posizione di equilibrio è instabile e una svolta casuale insignificante metterà il corpo a due palle in movimento a causa della gravità la cui accelerazione è $g = 9.80\ \text{m/s}^2$.
 
-![[WoPhO_2013_Q2_p2_f2.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q2_p2_f2.png]]
 **Figura 2: ** Pozizione iniziale del corpo a due palle per la parte B.
 
 **B1** Supponiamo che l'attrito tra la palla inferiore e la superficie sia così forte che non ci sia sempre scivolamento. Trova le velocità dei centri delle palle nel momento giusto prima che la palla più grande colpisca il terreno. Disegna uno schema con le velocità raffigurate dei centri delle palle. *(1,5 punti) *
@@ -211,7 +211,7 @@ Il corpo a due palle deve essere posizionato sulla superficie orizzontale piatta
 
 Il corpo a due palle deve essere posizionato su un piano inclinato fissato ad un angolo $\alpha = 30^\circ$ contro l'orizzontale. Al momento iniziale, la linea che collega le palle che toccano i punti della superficie è esattamente parallela al bordo inferiore del piano inclinato come mostrato alla figura 3. In questa parte si presume che l'attrito tra le palle e la superficie sia così forte che non ci sia scivolamento in ogni momento. Il corpo a due palle viene rilasciato.
 
-![[WoPhO_2013_Q2_p3_f3.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q2_p3_f3.png]]
 **Figura 3: ** Pozizione iniziale del corpo a due palle per le parti C1-C2.
 
 **C1** Trova le velocità massime dei centri delle palle. *(2,0 punti) *
@@ -220,7 +220,7 @@ Il corpo a due palle deve essere posizionato su un piano inclinato fissato ad un
 
 Ora supponiamo che il corpo a due palle sia a riposo sul piano inclinato in modo tale che la linea che collega i punti di tocco delle palle con la superficie sia esattamente perpendicolare al bordo inferiore del piano inclinato come mostrato nella Figura 4.
 
-![[WoPhO_2013_Q2_p3_f4.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q2_p3_f4.png]]
 **Figura 4: ** Pozizione di equilibrio iniziale del corpo a due palle per la parte C3.
 
 **C3** Trova la frequenza angolare delle piccole oscillazioni del corpo a due palle attorno alla posizione di equilibrio mostrata nella figura 4. *(0,8 punti) *
@@ -243,14 +243,14 @@ Ora supponiamo che il corpo a due palle sia a riposo sul piano inclinato in modo
 
 Earth is a very interesting magnetic system. Earth is frequently approximated as a huge magnetic dipole and therefore its magnetic field is not uniform. Due to this non-uniformity there are some zones in the magnetosphere in which charged particles get trapped. These zones are known as Van Allen belts and particles inside them have three main movements: gyration around each magnetic field line (Gyro motion), movement along the field line (Bounce motion), and rotation of lines around the magnetic axis of the Earth (ignored in this question).
 
-![[WoPhO_2013_Q3_p1_f1.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q3_p1_f1.png]]
 
 Due to the first two movements, particles travel along a helical path around the field lines. A key parameter to define such movement is the pitch angle $\alpha$, which is the ratio of the perpendicular and the parallel velocity components to the field line:
 $$
 \tan \alpha = \frac{v_\perp}{v_\parallel} \tag{1}
 $$
 
-![[WoPhO_2013_Q3_p1_f2.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q3_p1_f2.png]]
 
 ### 1. Path around field lines
 
@@ -295,14 +295,14 @@ If the mirror point lies not far from the surface of the Earth the proton collid
 
 La Terra è un sistema magnetico molto interessante. La Terra è spesso approssimata come un enorme dipolo magnetico e quindi il suo campo magnetico non è uniforme. A causa di questa non uniformità ci sono alcune zone nella magnetosfera in cui le particelle cariche vengono intrappolate. Queste zone sono conosciute come cinture di Van Allen e le particelle all'interno di esse hanno tre movimenti principali: rotazione intorno a ogni linea di campo magnetico (mozione di giro), movimento lungo la linea di campo (mozione di rimbalzo) e rotazione delle linee intorno all'asse magnetico della Terra (ignorato in questa domanda).
 
-![[WoPhO_2013_Q3_p1_f1.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q3_p1_f1.png]]
 
 A causa dei primi due movimenti, le particelle viaggiano lungo un percorso elicottero intorno alle linee di campo. Un parametro chiave per definire tale movimento è l'angolo di ritiro $\alpha$, che è il rapporto tra la linea di campo perpendicolare e la velocità parallela:
 $$
 \tan \alpha = \frac{v_\perp}{v_\parallel} \tag{1}
 $$
 
-![[WoPhO_2013_Q3_p1_f2.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q3_p1_f2.png]]
 
 ### 1. Corso intorno alle linee di campo
 
@@ -358,7 +358,7 @@ f(v)\,d^3v = \left(\frac{m}{2\pi kT}\right)^{\frac{3}{2}} \exp\left(-\frac{mv^2}
 $$
 where $d^3v$ is the velocity differential. In spherical coordinates it is expressed as $d^3v = v^2 \sin(\theta)\, dv\,d\theta\,d\varphi$.
 
-![[WoPhO_2013_Q4_p1_f1.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q4_p1_f1.png]]
 **Figure 1:** Schematic illustration of the spherical coordinate.
 
 Thus at any temperature there can always be some molecules whose velocity is greater than the escape velocity. A molecule located in the lower part of the atmosphere would not, in general, be able to escape to outer space even though its velocity is greater than the limit velocity because it would soon collide with other molecules, losing a big part of its energy. In order to escape, these molecules need to be at a certain height such that density is so low that their probability of colliding is negligible. The region in the atmosphere where this condition is satisfied is called exosphere and its lower boundary, which separates the dense zone from the exosphere, is called exobase. The temperature at the exobase is roughly 1000 K.
@@ -387,7 +387,7 @@ Particles in the exobase with enough outwards velocity will escape gravitational
 
 **(b)** Determine the hydrogen atoms flux (number of particle per unit area and per unit time) $\Phi$ that will escape the atmosphere, knowing that the concentration of hydrogen atoms in the exobase is $n_H = 10^{11}\ \text{m}^{-3}$. Be careful with the dimensions. *(2.0 points)*
 
-![[WoPhO_2013_Q4_p3_f2.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q4_p3_f2.png]]
 **Figure 2:** Diagram showing different zones of the atmosphere. In exosphere, particles with high enough velocities may leave the atmosphere.
 
 ### 3. Evaporation of the atmosphere
@@ -421,7 +421,7 @@ f(v)\,d^3v = \left(\frac{m}{2\pi kT}\right)^{\frac{3}{2}} \exp\left(-\frac{mv^2}
 $$
 dove $d^3v$ è il differenziale di velocità. In coordinate sferiche è espressa come $d^3v = v^2 \sin(\theta)\, dv\,d\theta\,d\varphi$.
 
-![[WoPhO_2013_Q4_p1_f1.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q4_p1_f1.png]]
 **Figura 1: ** Illustrazione schematica della coordinata sferica.
 
 Pertanto, a qualsiasi temperatura ci possono essere sempre alcune molecole la cui velocità è maggiore della velocità di fuga. Una molecola situata nella parte inferiore dell'atmosfera non sarebbe, in generale, in grado di fuggire nello spazio esterno anche se la sua velocità è maggiore della velocità limite perché presto colliderebbe con altre molecole, perdendo una grande parte della sua energia. Per poter fuggire, queste molecole devono essere ad una certa altezza tale che la densità sia così bassa che la loro probabilità di collisione sia trascurabile. La regione dell'atmosfera in cui si soddisfa questa condizione si chiama esosfera e il suo confine inferiore, che separa la zona densa dall'esosfera, si chiama esobasi. La temperatura all'esobasi è di circa 1000 K.
@@ -450,7 +450,7 @@ Le particelle nell'esobasi con velocità sufficiente verso l'esterno sfuggiranno
 
 **(b) ** Determinare il flusso di atomi di idrogeno (numero di particelle per unità di area e per unità di tempo) $\Phi$ che sfuggiranno all'atmosfera, sapendo che la concentrazione di atomi di idrogeno nell'esobasi è $n_H = 10^{11}\ \text{m}^{-3}$. Fai attenzione alle dimensioni. *(2,0 punti) *
 
-![[WoPhO_2013_Q4_p3_f2.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q4_p3_f2.png]]
 **Figura 2: ** Diagramma che mostra le diverse zone dell'atmosfera. Nell'esosfera, le particelle con velocità sufficientemente elevate possono lasciare l'atmosfera.
 
 ### 3. Evaporazione dell'atmosfera
@@ -487,7 +487,7 @@ The characterization of point object motion, when both radial and tangential for
 
 Start with a case, where a point small charged object with a charge $+Q$ is fastened to the table. The center of the dipole is fixed at the distance $L$ from the charged object (see Figure 1). The dipole consists of two identical small balls fastened to the tiny, rigid rod with a length $d$, $d \ll L$, so that the moment of inertia can be ignored. Each of the balls has a mass $m$ and have charge $+q$ and $-q$. The dipole can rotate around its center in a plane parallel to the surface of the smooth table.
 
-![[WoPhO_2013_Q5_p1_f1.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q5_p1_f1.png]]
 **Figure 1:** Schematic representation of the system used in section 1.1.
 
 **1.** Calculate the period of the small oscillations $T$ of the dipole around its stable equilibrium axis in the electrostatic field of the charged object.
@@ -502,7 +502,7 @@ In order for the dipole to get closer to the charged object, its initial velocit
 
 **4.** Sketch the trajectory of the center mass of the dipole for the case when the dipole is launched with the critical initial velocity $v_{cr}$, considering a very long time (radiation effects take place).
 
-![[WoPhO_2013_Q5_p2_f2.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q5_p2_f2.png]]
 **Figure 2:** Top view of the case, when the dipole is moving around the fastened charged body. (Not to scale)
 
 Suppose that the condition $u < v_{cr}$ is applied and radiation effects are very small.
@@ -513,7 +513,7 @@ Suppose that the condition $u < v_{cr}$ is applied and radiation effects are ver
 
 In this part, analyze a situation when an angular momentum is not conserved. The system is the same as in the previous part with the only difference that the dipole is fixed and the charged small object with a mass $2m$ is moving around the dipole. The electrostatic field of the dipole is easier to describe in the polar system of coordinates, which is defined with the distance $r$ from the center of the dipole, and angle $\theta$ counted counterclockwise, as shown in Figure 3.
 
-![[WoPhO_2013_Q5_p2_f3.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q5_p2_f3.png]]
 **Figure 3:** The system analyzed in Part 2. (Direction of the vector $E_n$ and $E_t$ could be wrong)
 
 **1.** Determine the electrostatic potential $\phi$ at a distance $r \gg d$ from the dipole, as a function of $\theta$.
@@ -561,7 +561,7 @@ La caratterizzazione del movimento di oggetti punti, quando vengono applicate si
 
 Iniziare con un caso, in cui un piccolo oggetto carico a punto con una carica $+Q$ è fissato alla tabella. Il centro del dipolo è fissato alla distanza $L$ dall'oggetto carico (vedere figura 1). Il dipolo è costituito da due piccole palle identiche attaccate alla piccola e rigida canna con una lunghezza $d$, $d \ll L$, in modo da poter ignorare il momento di inerzia. Ciascuna delle palle ha una massa $m$ e ha carica $+q$ e $-q$. Il dipolo può ruotare intorno al suo centro in un piano parallelo alla superficie della tavola liscia.
 
-![[WoPhO_2013_Q5_p1_f1.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q5_p1_f1.png]]
 **Figura 1: ** Rappresentazione schematica del sistema utilizzato nella sezione 1.1.
 
 **1.** Calcolare il periodo delle piccole oscillazioni $T$ del dipolo intorno al suo asse di equilibrio stabile nel campo elettrostatico dell'oggetto carico.
@@ -576,7 +576,7 @@ Per avvicinare il dipolo all'oggetto carico, la sua velocità iniziale deve esse
 
 **4.** Descrivere la traiettoria della massa centrale del dipolo nel caso in cui il dipolo venga lanciato con la velocità iniziale critica $v_{cr}$, tenendo conto di un tempo molto lungo (si verificano effetti di radiazione).
 
-![[WoPhO_2013_Q5_p2_f2.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q5_p2_f2.png]]
 **Figura 2: ** Vista superiore della cassa, quando il dipolo si muove intorno al corpo carico fissato. (Non a scala)
 
 Supponiamo che si applichi la condizione $u < v_{cr}$ e che gli effetti delle radiazioni siano molto piccoli.
@@ -587,7 +587,7 @@ Supponiamo che si applichi la condizione $u < v_{cr}$ e che gli effetti delle ra
 
 In questa parte, analizzare una situazione in cui non si conserva un impulso angolare. Il sistema è lo stesso della parte precedente, con l'unica differenza che il dipolo è fisso e il piccolo oggetto carico con una massa $2m$ si sta muovendo intorno al dipolo. Il campo elettrostatico del dipolo è più facile da descrivere nel sistema polare di coordinate, che è definito con la distanza $r$ dal centro del dipolo e l'angolo $\theta$ contato in senso contro orologio, come mostrato nella figura 3.
 
-![[WoPhO_2013_Q5_p2_f3.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q5_p2_f3.png]]
 **Figura 3: ** Il sistema analizzato nella parte 2. (La direzione del vettore $E_n$ e $E_t$ potrebbe essere sbagliata)
 
 **1.** Determina il potenziale elettrostatico $\phi$ a una distanza $r \gg d$ dal dipolo, come funzione di $\theta$.
@@ -634,7 +634,7 @@ Con quale velocità iniziale $u_c$ dovrebbe essere lanciato l'oggetto carico, in
 
 Edges of a dodecahedron are made of wire of negligible electrical resistance; each wire includes a capacitor of capacitance $C$, see figure. Let us mark a vertex $A$ and its three neighbours $B$, $D$ and $E$. The wire segments $AB$ and $AD$ are removed. What is the capacitance between the vertices $B$ and $E$?
 
-![[WoPhO_2013_Q6_p1_f1.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q6_p1_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1h97EAh2z6cUQhqQDlQ8J6uQy6-kp65wo/view)
 **Topic:** [[Circuits]], [[Electrostatics]]
@@ -647,7 +647,7 @@ Edges of a dodecahedron are made of wire of negligible electrical resistance; ea
 
 I bordi di un dodecaedro sono costituiti da fili di resistenza elettrica trascurabile; ogni filo comprende un condensatore di capacità $C$, vedi figura. Segniamo un vertice $A$ e i suoi tre vicini $B$, $D$ e $E$. I segmenti di filo $AB$ e $AD$ vengono rimossi. Qual è la capacità tra i vertici $B$ e $E$?
 
-![[WoPhO_2013_Q6_p1_f1.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q6_p1_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1h97EAh2z6cUQhqQDlQ8J6uQy6-kp65wo/view)
 **Topic:** [[Circuits]], [[Electrostatics]]
@@ -665,7 +665,7 @@ I bordi di un dodecaedro sono costituiti da fili di resistenza elettrica trascur
 
 A homogeneous ring lays horizontally on two identical parallel rails. The first rail moves parallel to itself, with a constant speed $v$; the second rail is at rest. The angular distance between the ring-rail contact points, as seen from the centre of the ring, is $2\alpha$ for the first rail, and $2\beta$ for the second rail, see figure. Assuming that $\alpha \ll 1$ and $\beta = \pi/3$, find the speed of the centre of the ring.
 
-![[WoPhO_2013_Q7_p1_f1.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q7_p1_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/11i7VaxVFcD6OBl3Bw2zjsx8x7ygof_Io/view)
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
@@ -678,7 +678,7 @@ A homogeneous ring lays horizontally on two identical parallel rails. The first 
 
 Un anello omogeneo si trova orizzontalmente su due binari paralleli identici. La prima rotaia si muove parallela a se stessa, con una velocità costante $v$; la seconda rotaia è in riposo. La distanza angolare tra i punti di contatto tra anello e rail, vista dal centro dell'anello, è $2\alpha$ per la prima rail e $2\beta$ per la seconda rail, vedi figura. Supponendo che $\alpha \ll 1$ e $\beta = \pi/3$, si trova la velocità del centro dell'anello.
 
-![[WoPhO_2013_Q7_p1_f1.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q7_p1_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/11i7VaxVFcD6OBl3Bw2zjsx8x7ygof_Io/view)
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
@@ -700,11 +700,11 @@ Un anello omogeneo si trova orizzontalmente su due binari paralleli identici. La
 
 A photographer prepared a setup consisting of a rectangular water tank with glass walls, a laser beam entering the water tank perpendicularly to one of its faces, and a camera looking directly towards a neighbouring face of the water tank. A gas bubbled entered the laser beam and the photographer managed to take five photos of the bubble while continuously defocusing the camera. The lens had internal focusing design, so that defocusing meant changing the focal length while keeping the position of the lens intact, see figure. The line of sight from the camera to the bubble was perpendicular to the laser beam, and the bubble was entirely inside the beam.
 
-![[WoPhO_2013_Q8_p1_f1.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q8_p1_f1.png]]
 
 In the figure below, the taken photos are placed side by side and indicated by numbers $1-5$.
 
-![[WoPhO_2013_Q8_p1_f2.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q8_p1_f2.png]]
 
 **Task:** calculate the diameter of the gas bubble.
 
@@ -714,7 +714,7 @@ In the figure below, the taken photos are placed side by side and indicated by n
 **Topic:** [[Wave Optics]], [[Geometric Optics]]
 **Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Bubble (object)|Bubble]], [[Tank/Container (object)|Tank/Container]], [[Lens (object)|Lens]]
+**Objects:** [[Bubble (object)|Bubble]], [[objects/tank-container-(object)|Tank/Container]], [[Lens (object)|Lens]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -725,11 +725,11 @@ In the figure below, the taken photos are placed side by side and indicated by n
 
 Un fotografo ha preparato un'impostazione composta da un serbatoio d'acqua rettangolare con pareti di vetro, un raggio laser che entra nel serbatoio perpendicolare ad una delle sue facce e una fotocamera che guarda direttamente verso una faccia vicina del serbatoio d'acqua. Una bolla di gas è entrata nel raggio laser e il fotografo è riuscito a scattare cinque foto della bolla mentre continuava a disfocalizzare la fotocamera. L'obiettivo aveva un design di messa a fuoco interno, in modo che la defocusing significava cambiare la distanza focale mantenendo intatta la posizione dell'obiettivo, vedi figura. La linea di visione dalla fotocamera alla bolla era perpendicolare al raggio laser, e la bolla era interamente all'interno del raggio.
 
-![[WoPhO_2013_Q8_p1_f1.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q8_p1_f1.png]]
 
 Nella figura seguente, le foto sono posizionate fianco a fianco e indicate con i numeri $1-5$.
 
-![[WoPhO_2013_Q8_p1_f2.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q8_p1_f2.png]]
 
 **Tasco: ** calcolare il diametro della bolla di gas.
 
@@ -739,7 +739,7 @@ Nella figura seguente, le foto sono posizionate fianco a fianco e indicate con i
 **Topic:** [[Wave Optics]], [[Geometric Optics]]
 **Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Bubble (object)|Bubble]], [[Tank/Container (object)|Tank/Container]], [[Lens (object)|Lens]]
+**Objects:** [[Bubble (object)|Bubble]], [[objects/tank-container-(object)|Tank/Container]], [[Lens (object)|Lens]]
 
 
 
@@ -814,7 +814,7 @@ In recenti esperimenti [^1] è stato riportato che sono stati costruiti LED con 
 
 A rectangular superconducting plate of mass $m$ has four identical circular holes, one near each corner, see figure. Each hole carries a certain magnetic flux (all the four fluxes are equal and of the same polarity). The plate is put on a horizontal surface which is also in a superconducting state. The magnetic push between the plate and the surface compensates the weight of the plate when the width of the air gap beneath the plate is $d$, which is much smaller than the distance between the plate's and holes' edges (denoted by $\Delta$ in figure); $d$ is also much smaller than the radii of the holes.
 
-![[WoPhO_2013_Q10_p1_f1.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q10_p1_f1.png]]
 
 When the plate levitates in such a way above the support, the frequency of its small vertical oscillations is $\nu_0$. Next, a load of mass $M$ is put on the plate, so that the load lays on the plate, and the plate levitates above the support. What is the new frequency $\nu$ of small vertical oscillations (when the load and plate together oscillate up and down)?
 
@@ -831,7 +831,7 @@ When the plate levitates in such a way above the support, the frequency of its s
 
 Una piastra superconduttrice rettangolare di massa $m$ ha quattro fori circolari identici, uno vicino ad ogni angolo, vedi figura. Ogni buco porta un certo flusso magnetico (tutti i quattro flussi sono uguali e della stessa polarità). La piastra è posta su una superficie orizzontale che è anche in stato di superconduttore. La spinta magnetica tra la piastra e la superficie compensa il peso della piastra quando la larghezza del divario d'aria sotto la piastra è $d$, che è molto inferiore alla distanza tra i bordi della piastra e i buchi (indicato da $\Delta$ nella figura); $d$ è anche molto inferiore ai raggi dei buchi.
 
-![[WoPhO_2013_Q10_p1_f1.png]]
+![[prove/_attachments/wopho_2013/wopho_2013_q10_p1_f1.png]]
 
 Quando la piastra leviterà in modo tale sopra il supporto, la frequenza delle sue piccole oscillazioni verticali è $\nu_0$. Successivamente, viene posto su una piastra un carico di massa $M$, in modo che il carico si posa sulla piastra e la piastra leviterà sopra il supporto. Qual è la nuova frequenza $\nu$ di piccole oscillazioni verticali (quando il carico e la piastra oscillano insieme su e giù)?
 

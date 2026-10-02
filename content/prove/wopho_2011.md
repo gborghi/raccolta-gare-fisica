@@ -40,7 +40,7 @@ Now back in the right spring, when the wave front of $g_r(c_r t + x)$ arrives at
 4. Write down the wave function $y(x, t)$ in the region I, II, III, IV, V, VI and VII in terms of $y_0$, $f_r$, $f_l$, $g_r$, $h_r$ and $h_l$.
 
 <!--fig:start-->
-![[WoPhO_2011_Q1_p2_f1.png]]
+![[_attachments/wopho_2011/wopho_2011_q1_p2_f1.png]]
 *Figure 1: Space-time diagram*
 <!--fig:end-->
 
@@ -94,7 +94,7 @@ Ora, nella primavera destra, quando il fronte d'onda di $g_r(c_r t + x)$ arriva 
 4. Scrivere la funzione d'onda $y(x, t)$ nelle regioni I, II, III, IV, V, VI e VII in termini di $y_0$, $f_r$, $f_l$, $g_r$, $h_r$ e $h_l$.
 
 <!--fig:start-->
-![[WoPhO_2011_Q1_p2_f1.png]]
+![[_attachments/wopho_2011/wopho_2011_q1_p2_f1.png]]
 *Figura 1: diagramma spazio-tempo*
 <!--fig:end-->
 
@@ -135,7 +135,7 @@ Ora consideriamo un caso in cui entrambe le sorgenti sono identiche tranne che n
 1. A mass $M$ moves toward a semi infinite spring with initial velocity $v_0$, as shown in Fig. 1. The spring has mass per unit length $\mu$ and spring constant times the spring length $K \equiv kL$. The mass and the spring collide at $x = 0$ and $t = 0$. Write down the velocity of the mass $M$ after the collision as a function of time, and also write down the velocity of the mass $M$ as a function of position.
 
 <!--fig:start-->
-![[WoPhO_2011_Q2_p1_f1.png]]
+![[_attachments/wopho_2011/wopho_2011_q2_p1_f1.png]]
 *Figure 1:*
 <!--fig:end-->
 
@@ -155,7 +155,7 @@ Ora consideriamo un caso in cui entrambe le sorgenti sono identiche tranne che n
 1. Una massa $M$ si muove verso una molla seminfinita con velocità iniziale $v_0$, come mostrato nella figura. 1. La molla ha massa per lunghezza unitaria $\mu$ e costante molla per la lunghezza molla $K \equiv kL$. La massa e la molla si scontrano a $x = 0$ e $t = 0$. Scrivere la velocità della massa $M$ dopo la collisione come funzione del tempo e anche scrivere la velocità della massa $M$ come funzione della posizione.
 
 <!--fig:start-->
-![[WoPhO_2011_Q2_p1_f1.png]]
+![[_attachments/wopho_2011/wopho_2011_q2_p1_f1.png]]
 *Figura 1: *
 <!--fig:end-->
 
@@ -180,7 +180,7 @@ Ora consideriamo un caso in cui entrambe le sorgenti sono identiche tranne che n
 A rectangular block of width $2b$, length $2a$, and mass $M$ rests on a rough surface which has a coefficient of kinetic friction $\mu$. At some time, the block is given a sharp kick, such that it suddenly attains a horizontal velocity $v_0$. Under certain circumstances the rear end of the
 
 <!--fig:start-->
-![[WoPhO_2011_Q3_p1_f1.png]]
+![[_attachments/wopho_2011/wopho_2011_q3_p1_f1.png]]
 *Figure 1: The block, after given its initial velocity.*
 <!--fig:end-->
 
@@ -195,7 +195,7 @@ The next question assume this condition is fulfilled, and concerns the subsequen
 3. Consider a final state in which the block is at rest in the position shown in Fig. 2, where its center of mass has undergone a total horizontal displacement $x$. Is such a
 
 <!--fig:start-->
-![[WoPhO_2011_Q3_p1_f2.png]]
+![[_attachments/wopho_2011/wopho_2011_q3_p1_f2.png]]
 *Figure 2: A presumed final position of the sliding block.*
 <!--fig:end-->
 
@@ -215,7 +215,7 @@ position possible? If yes, calculate the initial velocity required to achieve it
 Un blocco rettangolare di larghezza $2b$, lunghezza $2a$ e massa $M$ si basa su una superficie rugosa con un coefficiente di attrito cinetico $\mu$. A un certo punto, il blocco riceve un colpo forte, in modo che raggiunga improvvisamente una velocità orizzontale $v_0$. In determinate circostanze l'estremità posteriore della
 
 <!--fig:start-->
-![[WoPhO_2011_Q3_p1_f1.png]]
+![[_attachments/wopho_2011/wopho_2011_q3_p1_f1.png]]
 *Figura 1: Il blocco, dopo aver dato la sua velocità iniziale.*
 <!--fig:end-->
 
@@ -230,7 +230,7 @@ La domanda successiva, che presuppone che tale condizione sia soddisfatta, rigua
 3. Considerate uno stato finale in cui il blocco è a riposo nella posizione mostrata nella figura. 2, se il suo centro di massa ha subito un spostamento orizzontale totale $x$. E ' un tale
 
 <!--fig:start-->
-![[WoPhO_2011_Q3_p1_f2.png]]
+![[_attachments/wopho_2011/wopho_2011_q3_p1_f2.png]]
 *Figura 2: Presunta posizione finale del blocco scorrevole.*
 <!--fig:end-->
 
@@ -257,7 +257,7 @@ La domanda successiva, che presuppone che tale condizione sia soddisfatta, rigua
 The electric field of a polarized monochromatic plane wave can be generally represented as $\mathbf{E}(\mathbf{r}, t) = \mathbf{E} \exp i(\mathbf{k} \cdot \mathbf{r} - \omega t)$, where $\mathbf{E}$ is the amplitude of the wave, $k$ the wavenumber, and $\omega$ the frequency. Suppose that a monochromatic plane wave with frequency $\omega$ travels in the medium of refractive index $n_1$, and is incident on the boundary of another medium of refractive index $n_2$. The incoming wave forms an angle $\theta_i$ with respect to the normal of the boundary. Throughout this problem, we only consider transverse electric (TE) polarized wave where the electric field is perpendicular to the plane of incidence and all media are non-magnetic.
 
 <!--fig:start-->
-![[WoPhO_2011_Q4_p1_f1.png]]
+![[_attachments/wopho_2011/wopho_2011_q4_p1_f1.png]]
 *Figure: TE wave incident, reflected and transmitted at the boundary between media $n_1$ and $n_2$.*
 <!--fig:end-->
 
@@ -270,7 +270,7 @@ The electric field of a polarized monochromatic plane wave can be generally repr
 The most simple dielectric waveguide is a planar slab with thickness $d$ and refractive index $n_1$ located in a homogeneous background medium with refractive index $n_2$ ($n_2 < n_1$). In the case of TIR, the slab can be used to guide waves without loss, with the additional condition that the waves interfere constructively. In other words, the wavefronts should be preserved as the waves travel inside the waveguide. The wavenumbers for the vacuum, medium $n_1$, and medium $n_2$ are taken to be $k_0$, $k_1$, and $k_2$, respectively.
 
 <!--fig:start-->
-![[WoPhO_2011_Q4_p1_f2.png]]
+![[_attachments/wopho_2011/wopho_2011_q4_p1_f2.png]]
 *Figure: Ray path inside the slab waveguide of thickness $d$ (index $n_1$) bounded by medium $n_2$.*
 <!--fig:end-->
 
@@ -297,7 +297,7 @@ $$
 $$
 
 <!--fig:start-->
-![[WoPhO_2011_Q4_p2_f1.png]]
+![[_attachments/wopho_2011/wopho_2011_q4_p2_f1.png]]
 *Figure: Slab waveguide oriented with the wave travelling in the $xz$-plane.*
 <!--fig:end-->
 
@@ -358,7 +358,7 @@ $$
 Il campo elettrico di un'onda piana monocromatica polarizzata può essere rappresentato in generale come $\mathbf{E}(\mathbf{r}, t) = \mathbf{E} \exp i(\mathbf{k} \cdot \mathbf{r} - \omega t)$, dove $\mathbf{E}$ è l'ampiezza dell'onda, $k$ il numero d'onda e $\omega$ la frequenza. Supponi che un'onda piana monocromatica di frequenza $\omega$ viaggi nel mezzo di indice di rifrazione $n_1$, e incida sul confine di un altro mezzo di indice di rifrazione $n_2$. L'onda incidente forma un angolo $\theta_i$ rispetto alla normale al confine. In tutto questo problema consideriamo solo onde con polarizzazione trasversale elettrica (TE), in cui il campo elettrico è perpendicolare al piano di incidenza e tutti i mezzi sono non magnetici.
 
 <!--fig:start-->
-![[WoPhO_2011_Q4_p1_f1.png]]
+![[_attachments/wopho_2011/wopho_2011_q4_p1_f1.png]]
 *Figura: onda TE incidente, riflessa e trasmessa al confine tra i mezzi $n_1$ e $n_2$.*
 <!--fig:end-->
 
@@ -371,7 +371,7 @@ Il campo elettrico di un'onda piana monocromatica polarizzata può essere rappre
 La guida d'onda dielettrica più semplice è una lastra planare di spessore $d$ e indice di rifrazione $n_1$ posta in un mezzo di fondo omogeneo con indice di rifrazione $n_2$ ($n_2 < n_1$). Nel caso di TIR, la lastra può essere usata per guidare le onde senza perdite, con la condizione aggiuntiva che le onde interferiscano costruttivamente. In altre parole, i fronti d'onda devono essere preservati mentre le onde viaggiano all'interno della guida d'onda. I numeri d'onda per il vuoto, il mezzo $n_1$ e il mezzo $n_2$ sono assunti pari a $k_0$, $k_1$ e $k_2$, rispettivamente.
 
 <!--fig:start-->
-![[WoPhO_2011_Q4_p1_f2.png]]
+![[_attachments/wopho_2011/wopho_2011_q4_p1_f2.png]]
 *Figura: percorso del raggio all'interno della guida d'onda a lastra di spessore $d$ (indice $n_1$) delimitata dal mezzo $n_2$.*
 <!--fig:end-->
 
@@ -398,7 +398,7 @@ $$
 $$
 
 <!--fig:start-->
-![[WoPhO_2011_Q4_p2_f1.png]]
+![[_attachments/wopho_2011/wopho_2011_q4_p2_f1.png]]
 *Figura: guida d'onda a lastra orientata con l'onda che viaggia nel piano $xz$.*
 <!--fig:end-->
 
@@ -481,7 +481,7 @@ You can use the following data:
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[objects/tank-container-(object)|Tank/Container]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -510,7 +510,7 @@ Trova la pressione e il volume nei punti distinti di queste curve isotermiche.
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[objects/tank-container-(object)|Tank/Container]]
 
 
 
@@ -525,7 +525,7 @@ Trova la pressione e il volume nei punti distinti di queste curve isotermiche.
 In a system that rotates with the Earth around the Sun, there are five equilibrium points (where the sum of the forces is zero). These 5 points are known as Lagrange Points (named after Joseph Lagrange, the first person to study this three-body system). Exact analysis of this system is very complicated and chaotic. In the following problem, the mass of the two bodies ($M_1$ and $M_2$) are taken to be much larger than that of the third body ($m$). The distance between $M_1$ and $M_2$ is taken to be $R$.
 
 <!--fig:start-->
-![[WoPhO_2011_Q6_p1_f1.png]]
+![[_attachments/wopho_2011/wopho_2011_q6_p1_f1.png]]
 *Figure: Geometry of the three-body system showing $M_1$, $M_2$, $m$, the vectors $\mathbf{r}_1$, $\mathbf{r}_2$, $r_{m1}$, $r_{m2}$, $\mathbf{r}$, and the separation $R$.*
 <!--fig:end-->
 
@@ -644,7 +644,7 @@ The fifth Lagrange point has the same behavior as the fourth Lagrange point, hen
 In un sistema che ruota con la Terra attorno al Sole, ci sono cinque punti di equilibrio (dove la somma delle forze è nulla). Questi 5 punti sono noti come punti di Lagrange (dal nome di Joseph Lagrange, la prima persona a studiare questo sistema a tre corpi). L'analisi esatta di questo sistema è molto complicata e caotica. Nel problema seguente, la massa dei due corpi ($M_1$ e $M_2$) è assunta molto maggiore di quella del terzo corpo ($m$). La distanza tra $M_1$ e $M_2$ è assunta pari a $R$.
 
 <!--fig:start-->
-![[WoPhO_2011_Q6_p1_f1.png]]
+![[_attachments/wopho_2011/wopho_2011_q6_p1_f1.png]]
 *Figura: geometria del sistema a tre corpi che mostra $M_1$, $M_2$, $m$, i vettori $\mathbf{r}_1$, $\mathbf{r}_2$, $r_{m1}$, $r_{m2}$, $\mathbf{r}$, e la separazione $R$.*
 <!--fig:end-->
 
@@ -768,7 +768,7 @@ Il quinto punto di Lagrange ha lo stesso comportamento del quarto punto di Lagra
 A device is built by placing two metal strips, each of mass $m$, on a large, frictionless cylinder. Two identical massless elastic ropes each with spring constant $k$ and obeying Hooke's Law are used to connect the metal strips such that the two ropes are initially at their natural length $x_0$ and parallel to each other. The contact points of each rope on the same strip are diametrically opposite to each other, and the whole device can be seen on Figure 1. Strip A is bolted to the cylinder, while strip B is free to move along and rotate about the cylinder's axis.
 
 <!--fig:start-->
-![[WoPhO_2011_Q7_p1_f1.png]]
+![[_attachments/wopho_2011/wopho_2011_q7_p1_f1.png]]
 *Figure 1: The device in its initial configuration. The screw can be used to prevent rotation of strip B.*
 <!--fig:end-->
 
@@ -800,7 +800,7 @@ ii. kept constant.
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Hooke's Law (metodo)|Hooke's Law]], [[Differential Equations (metodo)|Differential Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Spring (object)|Spring]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[Spring (object)|Spring]], [[objects/rope-string-(object)|Rope/String]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -810,7 +810,7 @@ ii. kept constant.
 Un dispositivo è costruito posizionando due strisce di metallo, ciascuna di massa $m$, su un cilindro grande e senza attrito. Per collegare le strisce di metallo vengono utilizzate due identiche corde elastiche senza massa, ciascuna con costante di molla $k$ e obbedendo alla legge di Hooke, in modo che le due corde siano inizialmente a loro lunghezza naturale $x_0$ e parallele l'una all'altra. I punti di contatto di ciascuna corda sulla stessa striscia sono diametralmente opposti l'uno all'altro, e l'intero dispositivo può essere visto nella Figura 1. La striscia A è legata al cilindro, mentre la striscia B è libera di muoversi e ruotare attorno all'asse del cilindro.
 
 <!--fig:start-->
-![[WoPhO_2011_Q7_p1_f1.png]]
+![[_attachments/wopho_2011/wopho_2011_q7_p1_f1.png]]
 *Figura 1: Il dispositivo nella sua configurazione iniziale. La vite può essere utilizzata per impedire la rotazione della striscia B.*
 <!--fig:end-->
 
@@ -842,7 +842,7 @@ c) Trova la velocità massima e la velocità angolare massima, nonché il tempo 
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Hooke's Law (metodo)|Hooke's Law]], [[Differential Equations (metodo)|Differential Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Spring (object)|Spring]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[Spring (object)|Spring]], [[objects/rope-string-(object)|Rope/String]]
 
 
 
@@ -882,7 +882,7 @@ $$
 Using the initial conditions, determine the values of $\theta_1$, $\alpha_1$, $\theta_2$, and $\phi_2$.
 
 <!--fig:start-->
-![[WoPhO_2011_Q8_p1_f1.png]]
+![[_attachments/wopho_2011/wopho_2011_q8_p1_f1.png]]
 *Figure 1:*
 <!--fig:end-->
 
@@ -890,7 +890,7 @@ Using the initial conditions, determine the values of $\theta_1$, $\alpha_1$, $\
 **Topic:** [[Magnetism]], [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Differential Equations (metodo)|Differential Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Magnetic Dipole (object)|Magnetic Dipole]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Magnetic Dipole (object)|Magnetic Dipole]], [[objects/rope-string-(object)|Rope/String]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -925,7 +925,7 @@ $$
 Usando le condizioni iniziali, determina i valori di $\theta_1$, $\alpha_1$, $\theta_2$ e $\phi_2$.
 
 <!--fig:start-->
-![[WoPhO_2011_Q8_p1_f1.png]]
+![[_attachments/wopho_2011/wopho_2011_q8_p1_f1.png]]
 *Figura 1:*
 <!--fig:end-->
 
@@ -933,7 +933,7 @@ Usando le condizioni iniziali, determina i valori di $\theta_1$, $\alpha_1$, $\t
 **Topic:** [[Magnetism]], [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Differential Equations (metodo)|Differential Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Magnetic Dipole (object)|Magnetic Dipole]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Magnetic Dipole (object)|Magnetic Dipole]], [[objects/rope-string-(object)|Rope/String]]
 
 
 
@@ -948,7 +948,7 @@ Usando le condizioni iniziali, determina i valori di $\theta_1$, $\alpha_1$, $\t
 A hollow cylinder with mass $M$ and radius $R$ is at rest on a horizontal plane. In the interior of this cylinder, there is a solid disk with mass $m$ and radius $r$. Initially, the center of the disk is at a distance $l$ from the center of the cylinder and moves with velocity $v\,\hat{y}$ as shown in Fig. 1. Unless otherwise specified, all collisions are elastic and frictions can be ignored.
 
 <!--fig:start-->
-![[WoPhO_2011_Q9_p1_f1.png]]
+![[_attachments/wopho_2011/wopho_2011_q9_p1_f1.png]]
 *Figure 1:*
 <!--fig:end-->
 
@@ -976,7 +976,7 @@ A hollow cylinder with mass $M$ and radius $R$ is at rest on a horizontal plane.
 Un cilindro vuoto di massa $M$ e di raggio $R$ è a riposo su un piano orizzontale. All'interno di questo cilindro, si trova un disco solido con massa $m$ e raggio $r$. Inizialmente, il centro del disco è a una distanza $l$ dal centro del cilindro e si muove con velocità $v\,\hat{y}$ come mostrato nella figura. 1. Salvo indicazione contraria, tutte le collisioni sono elastiche e le frizioni possono essere ignorate.
 
 <!--fig:start-->
-![[WoPhO_2011_Q9_p1_f1.png]]
+![[_attachments/wopho_2011/wopho_2011_q9_p1_f1.png]]
 *Figura 1: *
 <!--fig:end-->
 
@@ -1017,7 +1017,7 @@ After this, the two original discs are each charged $+q$. A third metal disc of 
 3. Find the radius $R^*$ of the third disc such that the net electrostatic force acting on each charged disc is zero. (The fringing effect is neglected in this problem.)
 
 <!--fig:start-->
-![[WoPhO_2011_Q10_p1_f1.png]]
+![[_attachments/wopho_2011/wopho_2011_q10_p1_f1.png]]
 *Figure 1: Charged discs set-up (a) the two original discs $A$, $B$; (c) the third disc $C$ inserted between them.*
 <!--fig:end-->
 
@@ -1043,7 +1043,7 @@ Dopo questo, i due dischi originali sono caricati $+q$ ciascuno. Un terzo disco 
 3. Trova il raggio $R^*$ del terzo disco in modo tale che la forza elettrostatica netta che agisce su ciascun disco carico sia zero. (L'effetto di franging è trascurato in questo problema.)
 
 <!--fig:start-->
-![[WoPhO_2011_Q10_p1_f1.png]]
+![[_attachments/wopho_2011/wopho_2011_q10_p1_f1.png]]
 *Figura 1: Dischi carichi di installazione (a) i due dischi originali $A$, $B$; (c) il terzo disco $C$ inserito tra loro.*
 <!--fig:end-->
 

@@ -38,7 +38,7 @@ Si consideri ora una situazione in cui la carrucola è sostituita da una ruota d
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Block (object)|Block]], [[Ball (object)|Ball]], [[Gear (object)|Gear]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Block (object)|Block]], [[Ball (object)|Ball]], [[Gear (object)|Gear]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/17x6b0O5ciOYVHuybh260vvRs4-dVEtJ2/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1xwYBM9D1JxIqUwMxLnH9ouojs2QlYTSm/view)
 
@@ -68,7 +68,7 @@ The following table shows the number of units of the vehicle:
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Block (object)|Block]], [[Ball (object)|Ball]], [[Gear (object)|Gear]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Block (object)|Block]], [[Ball (object)|Ball]], [[Gear (object)|Gear]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/17x6b0O5ciOYVHuybh260vvRs4-dVEtJ2/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1xwYBM9D1JxIqUwMxLnH9ouojs2QlYTSm/view)
 
@@ -179,7 +179,7 @@ Per rendere reversibile il processo di termalizzazione, con delle opportune modi
 **Topic:** [[Thermodynamics]], [[Circuits]], [[Kinetic Theory]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/17x6b0O5ciOYVHuybh260vvRs4-dVEtJ2/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1xwYBM9D1JxIqUwMxLnH9ouojs2QlYTSm/view)
 
@@ -212,6 +212,6 @@ To make the thermalisation process reversible, with appropriate modifications an
 **Topic:** [[Thermodynamics]], [[Circuits]], [[Kinetic Theory]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/17x6b0O5ciOYVHuybh260vvRs4-dVEtJ2/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1xwYBM9D1JxIqUwMxLnH9ouojs2QlYTSm/view)

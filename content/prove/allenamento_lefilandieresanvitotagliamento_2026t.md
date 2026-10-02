@@ -241,7 +241,7 @@ In un grande recipiente aperto superiormente e pieno di acqua fino all'altezza d
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1ygj8zXGqhL6vj6hq_nlIQvL8-rwoH3oH/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Shwz7b_nAS3nAc-F0oj22g2gIVazAbg9/view)
 
@@ -265,7 +265,7 @@ In a large container open above and filled with water up to $20\ \mathrm{cm}$ fr
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1ygj8zXGqhL6vj6hq_nlIQvL8-rwoH3oH/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Shwz7b_nAS3nAc-F0oj22g2gIVazAbg9/view)
 
@@ -372,7 +372,7 @@ The following is the list of the measurement units: The following information is
 **Topic:** [[Oscillations & Waves]], [[Thermodynamics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1ygj8zXGqhL6vj6hq_nlIQvL8-rwoH3oH/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Shwz7b_nAS3nAc-F0oj22g2gIVazAbg9/view)
 
@@ -388,7 +388,7 @@ You can build a thermometer using a harmonic sound generator and taking advantag
 **Topic:** [[Oscillations & Waves]], [[Thermodynamics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1ygj8zXGqhL6vj6hq_nlIQvL8-rwoH3oH/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Shwz7b_nAS3nAc-F0oj22g2gIVazAbg9/view)
 
@@ -411,7 +411,7 @@ Un passero si appoggia sul bordo del piatto, in un punto che si discosta dal pun
 **Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Symmetry Argument (metodo)|Symmetry Argument]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1ygj8zXGqhL6vj6hq_nlIQvL8-rwoH3oH/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Shwz7b_nAS3nAc-F0oj22g2gIVazAbg9/view)
 
@@ -429,7 +429,7 @@ The following shall be added to the list of the following: The following informa
 **Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Symmetry Argument (metodo)|Symmetry Argument]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1ygj8zXGqhL6vj6hq_nlIQvL8-rwoH3oH/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Shwz7b_nAS3nAc-F0oj22g2gIVazAbg9/view)
 

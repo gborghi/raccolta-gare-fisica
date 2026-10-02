@@ -187,7 +187,7 @@ Qual è la velocità di propagazione delle vibrazioni meccaniche longitudinali n
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1uOtDtc7y-KZuQzkpwY-th090vgqL81mM/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1iAQKewu81dAv6KiHAsUDwmV8u_dY_J4F/view)
 
@@ -201,7 +201,7 @@ What is the rate of propagation of longitudinal mechanical vibrations in alumini
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1uOtDtc7y-KZuQzkpwY-th090vgqL81mM/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1iAQKewu81dAv6KiHAsUDwmV8u_dY_J4F/view)
 
@@ -225,7 +225,7 @@ Quanti litri d'acqua è necessario mettere nel recipiente?
 **Topic:** [[Rigid Body Statics]], [[Fluid Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rod (object)|Rod]], [[Beam (object)|Beam]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Rod (object)|Rod]], [[Beam (object)|Beam]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1uOtDtc7y-KZuQzkpwY-th090vgqL81mM/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1iAQKewu81dAv6KiHAsUDwmV8u_dY_J4F/view)
 
@@ -244,7 +244,7 @@ How many liters of water do you need to put in the container?
 **Topic:** [[Rigid Body Statics]], [[Fluid Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rod (object)|Rod]], [[Beam (object)|Beam]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Rod (object)|Rod]], [[Beam (object)|Beam]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1uOtDtc7y-KZuQzkpwY-th090vgqL81mM/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1iAQKewu81dAv6KiHAsUDwmV8u_dY_J4F/view)
 

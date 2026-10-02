@@ -191,7 +191,7 @@ velocità è data da $\langle u\rangle = \sqrt{\dfrac{2RT}{\pi m}}$ .
 **Topic:** [[Thermodynamics]], [[Oscillations & Waves]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1GLVMilUOgLA6bxk3UGW--ZxlUZ3H_iEC/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1d1doLMv1XMSdXoy514xsm5UxXDrt_IL2/view)
 
@@ -251,7 +251,7 @@ speed is given by $\langle u\rangle = \sqrt{\dfrac{2RT}{\pi m}}$ .
 **Topic:** [[Thermodynamics]], [[Oscillations & Waves]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1GLVMilUOgLA6bxk3UGW--ZxlUZ3H_iEC/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1d1doLMv1XMSdXoy514xsm5UxXDrt_IL2/view)
 

@@ -131,7 +131,7 @@ ne
 **Topic:** [[Wave Optics]], [[Kinetic Theory]], [[Fluid Mechanics]]
 **Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Membrane (object)|Membrane]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Membrane (object)|Membrane]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1YkVoFinzGgV2UGdbv9g2kohFXBjJ4nOR/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1t4O-mjQ7oGPRFv8dVpwLsZl9IIZTiJBm/view)
 
@@ -254,6 +254,6 @@ ne
 **Topic:** [[Wave Optics]], [[Kinetic Theory]], [[Fluid Mechanics]]
 **Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Membrane (object)|Membrane]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Membrane (object)|Membrane]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1YkVoFinzGgV2UGdbv9g2kohFXBjJ4nOR/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1t4O-mjQ7oGPRFv8dVpwLsZl9IIZTiJBm/view)

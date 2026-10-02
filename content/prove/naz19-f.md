@@ -45,7 +45,7 @@ $K =$
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gear (object)|Gear]], [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[Gear (object)|Gear]], [[objects/rope-string-(object)|Rope/String]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1_sDGHNo2v2T-K7vjodk5n6hUxV1gouXp/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/16NR7JezlH-_z8SJ3G_KFzoWKm2cjRzbl/view)
 
@@ -82,7 +82,7 @@ $K =$
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gear (object)|Gear]], [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[Gear (object)|Gear]], [[objects/rope-string-(object)|Rope/String]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1_sDGHNo2v2T-K7vjodk5n6hUxV1gouXp/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/16NR7JezlH-_z8SJ3G_KFzoWKm2cjRzbl/view)
 
@@ -460,7 +460,7 @@ $2200 \leq 2950 \leq 3700$
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gear (object)|Gear]], [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[Gear (object)|Gear]], [[objects/rope-string-(object)|Rope/String]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1_sDGHNo2v2T-K7vjodk5n6hUxV1gouXp/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/16NR7JezlH-_z8SJ3G_KFzoWKm2cjRzbl/view)
 
@@ -516,7 +516,7 @@ $2200 \leq 2950 \leq 3700$
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gear (object)|Gear]], [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[Gear (object)|Gear]], [[objects/rope-string-(object)|Rope/String]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1_sDGHNo2v2T-K7vjodk5n6hUxV1gouXp/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/16NR7JezlH-_z8SJ3G_KFzoWKm2cjRzbl/view)
 

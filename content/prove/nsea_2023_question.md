@@ -448,7 +448,7 @@ A square loop of side 10 cm and resistance $0.5\,\Omega$ is placed vertically in
 
 <!--fig:start-->
 **Quesito 12**
-![[NSEA_2023_Question_p4_f1.png]]
+![[_attachments/nsea_2023_question/nsea_2023_question_p4_f1.png]]
 <!--fig:end-->
 
 - (a) emf vs $t$, crossing zero at $1.5$ s
@@ -470,7 +470,7 @@ Un ciclo quadrato di lato di 10 cm e resistenza $0.5\,\Omega$ è posizionato ver
 
 <!--fig:start-->
 **Quesito 12**
-![[NSEA_2023_Question_p4_f1.png]]
+![[_attachments/nsea_2023_question/nsea_2023_question_p4_f1.png]]
 <!--fig:end-->
 
 - a) emf vs $t$, incrocio di zero a $1.5$ s
@@ -624,7 +624,7 @@ As measured from a star orbiting at a distance $r = 8$ kilo parsec from the cent
 
 <!--fig:start-->
 **Quesito 16**
-![[NSEA_2023_Question_p5_f1.png]]
+![[_attachments/nsea_2023_question/nsea_2023_question_p5_f1.png]]
 <!--fig:end-->
 
 - (a) diagram (a)
@@ -648,7 +648,7 @@ Come misurato da una stella che orbita a una distanza $r = 8$ chiloparsec dal ce
 
 <!--fig:start-->
 **Quesito 16**
-![[NSEA_2023_Question_p5_f1.png]]
+![[_attachments/nsea_2023_question/nsea_2023_question_p5_f1.png]]
 <!--fig:end-->
 
 - a) diagramma a)
@@ -1233,7 +1233,7 @@ When a line segment/square/cube of side length $L$ is measured using a line segm
 
 <!--fig:start-->
 **Quesito 31**
-![[NSEA_2023_Question_p7_f2.png]]
+![[_attachments/nsea_2023_question/nsea_2023_question_p7_f2.png]]
 <!--fig:end-->
 
 - (a) $\dfrac{\log 4}{\log 3}$
@@ -1255,7 +1255,7 @@ Quando un segmento/quadrato/cubo di longitudine laterale $L$ è misurato utilizz
 
 <!--fig:start-->
 **Quesito 31**
-![[NSEA_2023_Question_p7_f2.png]]
+![[_attachments/nsea_2023_question/nsea_2023_question_p7_f2.png]]
 <!--fig:end-->
 
 - (a) $\dfrac{\log 4}{\log 3}$
@@ -1633,7 +1633,7 @@ Two stones of equal mass are thrown vertically up simultaneously from the edge o
 
 <!--fig:start-->
 **Quesito 41**
-![[NSEA_2023_Question_p8_f3.png]]
+![[_attachments/nsea_2023_question/nsea_2023_question_p8_f3.png]]
 <!--fig:end-->
 
 - (a) graph (a)
@@ -1655,7 +1655,7 @@ Due pietre di massa uguale vengono gettate in verticale contemporaneamente dal b
 
 <!--fig:start-->
 **Quesito 41**
-![[NSEA_2023_Question_p8_f3.png]]
+![[_attachments/nsea_2023_question/nsea_2023_question_p8_f3.png]]
 <!--fig:end-->
 
 - a) grafico a)
@@ -1727,7 +1727,7 @@ Standing waves have been produced in a 51 cm long, open end organ pipe with just
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1bqkl5C-O8l9S9EP5M0LN2S3VZXETLmyo/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/144ipbW9ybFugC2Rzy7KQntJCuECgF7pC/view)
 
@@ -1744,7 +1744,7 @@ Le onde in piedi sono state prodotte in un tubo di organo di 51 cm di lunghezza,
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1bqkl5C-O8l9S9EP5M0LN2S3VZXETLmyo/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/144ipbW9ybFugC2Rzy7KQntJCuECgF7pC/view)
 

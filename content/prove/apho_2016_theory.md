@@ -29,15 +29,15 @@ The coordinate system is shown in Figure 2. The zero level of the potential ener
 
 The motion of the whole system is confined in the $x$-$y$ plane. The moment of inertia of a uniform equilateral triangular plate about its center of mass is $I = Ml^2/12$. The free fall acceleration is $g$. Please use $E_k$ and $E_p$ to denote kinetic energy and potential energy respectively.
 
-![[APhO_2016_theory_Q1_p1_f1.png]]
+![[_attachments/apho_2016_theory/apho_2016_theory_q1_p1_f1.png]]
 *Figure 1*
 
-![[APhO_2016_theory_Q1_p2_f1.png]]
+![[_attachments/apho_2016_theory/apho_2016_theory_q1_p2_f1.png]]
 *Figure 2*
 
 **Section A:** When $N=2$ (as shown in figure 3):
 
-![[APhO_2016_theory_Q1_p2_f2.png]]
+![[_attachments/apho_2016_theory/apho_2016_theory_q1_p2_f2.png]]
 *Figure 3*
 
 **A1** What is the potential energy $E_p$ of the system for a general angle $\alpha$ when $N = 2$? *(2 points)*
@@ -54,7 +54,7 @@ The motion of the whole system is confined in the $x$-$y$ plane. The moment of i
 
 **Section C:** A force is exerted on one of the $3N^2$ triangle vertices so that the system maintains at $\alpha_m = 60^\circ$.
 
-![[APhO_2016_theory_Q1_p3_f1.png]]
+![[_attachments/apho_2016_theory/apho_2016_theory_q1_p3_f1.png]]
 *Figure 4*
 
 **C1** Which vertex should we choose to minimize the magnitude of this force? *(1 point)*
@@ -83,15 +83,15 @@ Il sistema di coordinate è mostrato nella figura 2. Il livello zero dell'energi
 
 Il movimento di tutto il sistema è confinato nel piano $x$-$y$. Il momento di inerzia di una piastra triangolare equilaterale uniforme intorno al suo centro di massa è $I = Ml^2/12$. L'accelerazione della caduta libera è $g$. Per indicare rispettivamente l'energia cinetica e l'energia potenziale si utilizza $E_k$ e $E_p$.
 
-![[APhO_2016_theory_Q1_p1_f1.png]]
+![[_attachments/apho_2016_theory/apho_2016_theory_q1_p1_f1.png]]
 *Figura 1*
 
-![[APhO_2016_theory_Q1_p2_f1.png]]
+![[_attachments/apho_2016_theory/apho_2016_theory_q1_p2_f1.png]]
 *Figura 2*
 
 **Sezione A: ** Quando $N=2$ (come mostrato alla figura 3):
 
-![[APhO_2016_theory_Q1_p2_f2.png]]
+![[_attachments/apho_2016_theory/apho_2016_theory_q1_p2_f2.png]]
 *Figura 3*
 
 Qual è l'energia potenziale $E_p$ del sistema per un angolo generale $\alpha$ quando $N = 2$? *(2 punti) *
@@ -108,7 +108,7 @@ Qual è l'energia potenziale $E_p$ del sistema per un angolo generale $\alpha$ q
 
 **Sezione C:** Si esercita una forza su uno dei vertici del triangolo $3N^2$ in modo che il sistema si mantenga a $\alpha_m = 60^\circ$.
 
-![[APhO_2016_theory_Q1_p3_f1.png]]
+![[_attachments/apho_2016_theory/apho_2016_theory_q1_p3_f1.png]]
 *Figura 4*
 
 Quale vertice dovremmo scegliere per ridurre al minimo l'entità di questa forza? *(1 punto) *
@@ -134,7 +134,7 @@ Quale vertice dovremmo scegliere per ridurre al minimo l'entità di questa forza
 
 The most outstanding fact in cosmology is that our universe is expanding. Space is continuously created as time lapses. The expansion of space indicates that, when the universe expands, the distance between objects in our universe also expands. It is convenient to use "comoving" coordinate system $\vec{r} = (x, y, z)$ to label points in our expanding universe, in which the coordinate distance $\Delta r = |\vec{r}_2 - \vec{r}_1| = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}$ between objects 1 and 2 does not change. (Here we assume no peculiar motion, i.e. no additional motion of those objects other than the motion following the expansion of the universe.) The situation is illustrated in the figure below (the figure has two space dimensions, but our universe actually has three space dimensions).
 
-![[APhO_2016_theory_Q2_p1_f1.png]]
+![[_attachments/apho_2016_theory/apho_2016_theory_q2_p1_f1.png]]
 
 The modern theory of cosmology is built upon Einstein's general relativity. However, under proper assumptions, a simplified understanding under the framework of Newton's theory of gravity is also possible. In the following questions, we shall work in the framework of Newton's gravity.
 
@@ -172,7 +172,7 @@ If there were no gravity, the expansion speed of the universe should be a consta
 
 Let us now consider how Newton's gravity affects the scale factor $a(t)$, in a universe filled with non-relativistic matter in a homogeneous and isotropic way.
 
-![[APhO_2016_theory_Q2_p3_f1.png]]
+![[_attachments/apho_2016_theory/apho_2016_theory_q2_p3_f1.png]]
 
 As illustrated in the above figure, let us assume C is the center of our universe (this assumption can be removed in Einstein's general relativity, which is beyond the scope of this question). We slice matter into shells around C. Let us focus on one thin shell (the sphere in the above figure) whose comoving distance from the center is $r$ (recall that this comoving distance is a constant in time).
 
@@ -196,7 +196,7 @@ For your information, in 1998, a new type of energy component of our universe is
 
 Il fatto più notevole della cosmologia è che il nostro universo si sta espandendo. Lo spazio si crea continuamente con il passare del tempo. L'espansione dello spazio indica che, quando l'universo si espande, la distanza tra gli oggetti nel nostro universo si espande anche. È conveniente utilizzare il sistema di coordinate $\vec{r} = (x, y, z)$ "comoving" per etichettare i punti nel nostro universo in espansione, in cui la distanza di coordinate $\Delta r = |\vec{r}_2 - \vec{r}_1| = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}$ tra gli oggetti 1 e 2 non cambia. (Qui non presumiamo alcun movimento particolare, cioè: La situazione è illustrata nella figura seguente (la figura ha due dimensioni spaziali, ma il nostro universo ha in realtà tre dimensioni spaziali).
 
-![[APhO_2016_theory_Q2_p1_f1.png]]
+![[_attachments/apho_2016_theory/apho_2016_theory_q2_p1_f1.png]]
 
 La moderna teoria della cosmologia si basa sulla relatività generale di Einstein. Tuttavia, se si propone una corretta ipotesi, è possibile anche una comprensione semplificata nel quadro della teoria della gravità di Newton. Le seguenti domande riguardano la gravità di Newton.
 
@@ -234,7 +234,7 @@ Se non ci fosse la gravità, la velocità di espansione dell'universo dovrebbe e
 
 Consideriamo ora come la gravità di Newton influisce sul fattore di scala $a(t)$, in un universo pieno di materia non relativistica in modo omogeneo e isotropo.
 
-![[APhO_2016_theory_Q2_p3_f1.png]]
+![[_attachments/apho_2016_theory/apho_2016_theory_q2_p3_f1.png]]
 
 Come illustrato nella figura precedente, supponiamo che C sia il centro del nostro universo (questa ipotesi può essere rimossa nella relatività generale di Einstein, che è al di là del campo di applicazione di questa domanda). Tagliamo la materia in conchiglie intorno a C. Concentriamoci su una scia sottile (la sfera nella figura precedente) la cui distanza di commutazione dal centro è $r$ (ricordate che questa distanza di commutazione è una costante nel tempo).
 
@@ -275,7 +275,7 @@ Recently, a type of superconductor called Ising superconductors was discovered. 
 
 Let us consider a ring with radius $r$, charge $-e$ and mass $m$. The mass and the charge density around the ring are uniform (as shown in Figure 1).
 
-![[APhO_2016_theory_Q3_p2_f1.png]]
+![[_attachments/apho_2016_theory/apho_2016_theory_q3_p2_f1.png]]
 *Figure 1*
 
 **A1** What is the angular momentum $\vec{L}$ (magnitude and direction) of this ring if the ring is rotating with angular velocity $\dot{\phi}$? *(2 points)*
@@ -284,7 +284,7 @@ Let us consider a ring with radius $r$, charge $-e$ and mass $m$. The mass and t
 
 Suppose the normal direction of the ring is $\vec{n}$ and it makes an angle $\theta$ with the applied magnetic field as shown in Figure 2.
 
-![[APhO_2016_theory_Q3_p2_f2.png]]
+![[_attachments/apho_2016_theory/apho_2016_theory_q3_p2_f2.png]]
 *Figure 2*
 
 **A3** For the ring described in Part (A1), what is the potential energy $U$ of this ring if the ring is placed in a uniform magnetic field $B_z$ pointing to the $z$-direction? You should assume the potential energy to be zero when $\theta = \pi/2$. *(2 points)*
@@ -301,7 +301,7 @@ In the question below, we consider the paramagnetic effect of an external magnet
 
 Theoretical studies show that in superconductors, two electrons with opposite spins can form Cooper pairs so that the whole system saves energy. The energy of the Cooper pair can be expressed as $\dfrac{p_1^2}{2m_e} + \dfrac{p_2^2}{2m_e} - 2\Delta$, where the first two terms denote the kinetic energy of the Cooper pair and the last term is the energy saved for the electrons to form a Cooper pair. Here, $\Delta$ is a positive constant.
 
-![[APhO_2016_theory_Q3_p3_f1.png]]
+![[_attachments/apho_2016_theory/apho_2016_theory_q3_p3_f1.png]]
 *Figure 3*
 
 **B1** Assuming that the effect of the external magnetic field is only on the spins of the electrons, not on the orbital motions of the electrons. What is the energy $E_b$ of the Cooper pair under a uniform magnetic field $\vec{B} = (B_x, 0, 0)$? Recall that the electrons which form a Cooper pair must have opposite spins. *(1 point)*
@@ -336,7 +336,7 @@ Here $a$ is a constant.
 
 In materials with spin-orbit coupling (spin-spin couplings can be ignored), an electron with momentum $\vec{p}$ experiences an internal magnetic field $\vec{B}_{1\perp} = (0, 0, -B_z)$. On the other hand, an electron with momentum $-\vec{p}$ experiences an opposite magnetic field $\vec{B}_{2\perp} = (0, 0, B_z)$. These internal magnetic fields act on the spins of the electrons only as shown in Figure 4. Superconductors with this kind of internal magnetic fields are called Ising superconductors.
 
-![[APhO_2016_theory_Q3_p5_f1.png]]
+![[_attachments/apho_2016_theory/apho_2016_theory_q3_p5_f1.png]]
 
 *Figure 4: Two electrons form a Cooper pair. Electron 1 with momentum $\vec{p}$ experiences internal magnetic field $\vec{B}_{1\perp} = (0, 0, -B_z)$ but electron 2 with momentum $-\vec{p}$ experiences an opposite magnetic field $\vec{B}_{2\perp} = (0, 0, B_z)$. The internal magnetic fields are denoted by dashed arrows.*
 
@@ -372,7 +372,7 @@ Recentemente, è stato scoperto un tipo di superconduttore chiamato supercondutt
 
 Consideriamo un anello con raggio $r$, carica $-e$ e massa $m$. La massa e la densità di carica intorno all'anello sono uniformi (come mostrato alla figura 1).
 
-![[APhO_2016_theory_Q3_p2_f1.png]]
+![[_attachments/apho_2016_theory/apho_2016_theory_q3_p2_f1.png]]
 *Figura 1*
 
 **A1** Qual è il momento angolare $\vec{L}$ (magnitude e direzione) di questo anello se l'anello ruota con velocità angolare $\dot{\phi}$? *(2 punti) *
@@ -381,7 +381,7 @@ Consideriamo un anello con raggio $r$, carica $-e$ e massa $m$. La massa e la de
 
 Supponiamo che la direzione normale dell'anello sia $\vec{n}$ e che esso faccia un angolo $\theta$ con il campo magnetico applicato come mostrato alla figura 2.
 
-![[APhO_2016_theory_Q3_p2_f2.png]]
+![[_attachments/apho_2016_theory/apho_2016_theory_q3_p2_f2.png]]
 *Figura 2*
 
 **A3** Per l'anello descritto nella parte (A1), qual è l'energia potenziale $U$ di questo anello se l'anello è posizionato in un campo magnetico uniforme $B_z$ che punta nella direzione $z$? Dovresti assumere che l'energia potenziale sia zero quando $\theta = \pi/2$. *(2 punti) *
@@ -398,7 +398,7 @@ Nella domanda seguente, consideriamo l'effetto paramagnetico di un campo magneti
 
 Gli studi teorici dimostrano che nei superconduttori due elettroni con spin opposti possono formare coppie Cooper in modo che l'intero sistema risparmi energia. L'energia della coppia Cooper può essere espressa come $\dfrac{p_1^2}{2m_e} + \dfrac{p_2^2}{2m_e} - 2\Delta$, dove i primi due termini indicano l'energia cinetica della coppia Cooper e l'ultimo termine è l'energia risparmiata per gli elettroni per formare una coppia Cooper. Qui, $\Delta$ è una costante positiva.
 
-![[APhO_2016_theory_Q3_p3_f1.png]]
+![[_attachments/apho_2016_theory/apho_2016_theory_q3_p3_f1.png]]
 *Figura 3*
 
 **B1** Supponendo che l'effetto del campo magnetico esterno sia solo sulle spin degli elettroni, non sui movimenti orbiti degli elettroni. Qual è l'energia $E_b$ della coppia Cooper sotto un campo magnetico uniforme $\vec{B} = (B_x, 0, 0)$? Ricordate che gli elettroni che formano una coppia di Cooper devono avere spin opposti. *(1 punto) *
@@ -433,7 +433,7 @@ Qui $a$ è una costante.
 
 Nei materiali con accoppiamento spin-orbita (gli accoppiamenti spin-spin possono essere ignorati), un elettrone con impulso $\vec{p}$ sperimenta un campo magnetico interno $\vec{B}_{1\perp} = (0, 0, -B_z)$. D'altra parte, un elettrone con impulso $-\vec{p}$ sperimenta un campo magnetico opposto $\vec{B}_{2\perp} = (0, 0, B_z)$. Questi campi magnetici interni agiscono solo sulle spin degli elettroni come mostrato nella Figura 4. I superconduttori con questo tipo di campi magnetici interni sono chiamati superconduttori Ising.
 
-![[APhO_2016_theory_Q3_p5_f1.png]]
+![[_attachments/apho_2016_theory/apho_2016_theory_q3_p5_f1.png]]
 
 Figura 4: due elettroni formano una coppia di Cooper. L'elettrone 1 con impulso $\vec{p}$ sperimenta un campo magnetico interno $\vec{B}_{1\perp} = (0, 0, -B_z)$ ma l'elettrone 2 con impulso $-\vec{p}$ sperimenta un campo magnetico opposto $\vec{B}_{2\perp} = (0, 0, B_z)$. I campi magnetici interni sono indicati da frecce a punti.*
 

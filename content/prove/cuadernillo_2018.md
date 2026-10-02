@@ -4049,7 +4049,7 @@ Densidad del agua = 1 g/ cm3
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -4098,7 +4098,7 @@ Densità dell'acqua = 1 g/cm3
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -4146,7 +4146,7 @@ Density of water = 1 g/cm3
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -4206,7 +4206,7 @@ polea.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -4261,7 +4261,7 @@ la potenza calcolata in punto e.? Scommette il frattura tra la corda e la corda.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -4315,7 +4315,7 @@ I'm going to poke.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -4517,7 +4517,7 @@ Despreciar la velocidad en la superficie del tanque grande. Tomar g= 10 m/seg2
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -4548,7 +4548,7 @@ Sminuire la velocità sulla superficie del grande serbatoio. Prendere g= 10 m/se
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -4578,7 +4578,7 @@ Discount the speed on the surface of the large tank. Take g= 10 m/s2
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -4612,7 +4612,7 @@ d) El valor de la tensión en la cuerda ahora.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -4641,7 +4641,7 @@ d) Il valore della tensione nella corda ora.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -4669,7 +4669,7 @@ d) The value of the voltage on the rope now.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -7781,7 +7781,7 @@ OAF 2018 - 45
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -7807,7 +7807,7 @@ OAF 2018 - 45
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -7832,7 +7832,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of the F
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -7985,7 +7985,7 @@ c) La velocidad en cada uno de los capilares.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -8015,7 +8015,7 @@ c) La velocità in ciascun capillario.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -8044,7 +8044,7 @@ in the cgs system:
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -8991,7 +8991,7 @@ Patmosferica = 101325 Pa.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -9045,7 +9045,7 @@ Patmosfera = 101325 Pa.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -9098,7 +9098,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of th
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -9464,7 +9464,7 @@ g = 9,81 ms-2
 **Topic:** [[Fluid Mechanics]], [[Elasticity & Materials]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -9545,7 +9545,7 @@ g = 9,81 ms-2
 **Topic:** [[Fluid Mechanics]], [[Elasticity & Materials]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -9625,7 +9625,7 @@ The amount of water is 1000 kg m-3
 **Topic:** [[Fluid Mechanics]], [[Elasticity & Materials]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -11564,7 +11564,7 @@ densidad del cuerpo, densidad del líquido y g.
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -11594,7 +11594,7 @@ densità del corpo, densità del liquido e g.
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -11623,7 +11623,7 @@ body density, fluid density and g.
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -11742,7 +11742,7 @@ recipiente para recobre el valor que tenía en las condiciones iniciales?
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -11768,7 +11768,7 @@ Contenitore per recuperare il valore che aveva nelle condizioni iniziali?
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -11793,7 +11793,7 @@ container to recover the value it had in the initial condition?
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -13125,7 +13125,7 @@ Aceleración de la gravedad g= 9,8m/s2
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -13150,7 +13150,7 @@ Accelerazione della gravità g= 9,8m/s2
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -13174,7 +13174,7 @@ The acceleration of gravity g = 9,8m/s2
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -13421,7 +13421,7 @@ suspendida?
 **Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -13450,7 +13450,7 @@ angolo che con la verticale formerà il filo di cui è
 **Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -13478,7 +13478,7 @@ suspended?
 **Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -13539,7 +13539,7 @@ Datos
 **Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]], [[Sphere (object)|Sphere]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]], [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -13595,7 +13595,7 @@ Datos
 **Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]], [[Sphere (object)|Sphere]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]], [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -13650,7 +13650,7 @@ Data from the report
 **Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]], [[Sphere (object)|Sphere]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]], [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -14426,7 +14426,7 @@ c) Calcule el valor del campo eléctrico en un punto situado a
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -14451,7 +14451,7 @@ b) Trova il valore e il segno delle cariche.
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -14475,7 +14475,7 @@ The length of each string is 0.15 m and the angle between them is
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -14588,7 +14588,7 @@ bola por separado.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -14614,7 +14614,7 @@ palla separata.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -14639,7 +14639,7 @@ ball separately.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -15624,7 +15624,7 @@ Nota: Considerar que la aceleración de la gravedad es 10 m/s2.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -15658,7 +15658,7 @@ Nota: Considera che l'accelerazione della gravità è di 10 m/s2.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -15691,7 +15691,7 @@ Note: Consider that the acceleration of gravity is 10 m/s2.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -16091,7 +16091,7 @@ d) Realiza un diagrama de cuerpo libre da cada bloque.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -16119,7 +16119,7 @@ d) Realizza un diagramma di corpo libero da ogni blocco.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -16146,7 +16146,7 @@ The following is the list of the countries of the European Union:
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -16344,7 +16344,50 @@ OAF 2018 - 81
 
 
 <!--fig:start-->
-![[cuadernillo_2018_p83_f1.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='136.399692pt' height='137.586734pt' viewBox='-64.196562 -64.696074 136.399692 137.586734'>
+<defs>
+<path id='g1-84' d='M4.254047-6.047323C4.323786-6.326276 4.363636-6.386052 4.483188-6.41594C4.572852-6.435866 4.901619-6.435866 5.110834-6.435866C6.117061-6.435866 6.56538-6.396015 6.56538-5.618929C6.56538-5.469489 6.525529-5.080946 6.485679-4.821918C6.475716-4.782067 6.455791-4.662516 6.455791-4.632628C6.455791-4.572852 6.485679-4.503113 6.575342-4.503113C6.684932-4.503113 6.704857-4.582814 6.724782-4.732254L6.993773-6.465753C7.003736-6.505604 7.013699-6.60523 7.013699-6.635118C7.013699-6.744707 6.914072-6.744707 6.744707-6.744707H1.215442C.976339-6.744707 .966376-6.734745 .896638-6.545455L.298879-4.79203C.288917-4.772105 .239103-4.632628 .239103-4.612702C.239103-4.552927 .288917-4.503113 .358655-4.503113C.458281-4.503113 .468244-4.552927 .52802-4.712329C1.066002-6.256538 1.325031-6.435866 2.799502-6.435866H3.188045C3.466999-6.435866 3.466999-6.396015 3.466999-6.316314C3.466999-6.256538 3.437111-6.136986 3.427148-6.107098L2.092154-.787049C2.002491-.418431 1.972603-.308842 .9066-.308842C.547945-.308842 .488169-.308842 .488169-.119552C.488169 0 .597758 0 .657534 0C.926526 0 1.205479-.019925 1.474471-.019925C1.753425-.019925 2.042341-.029888 2.321295-.029888S2.879203-.019925 3.148194-.019925C3.437111-.019925 3.73599 0 4.014944 0C4.11457 0 4.234122 0 4.234122-.199253C4.234122-.308842 4.154421-.308842 3.895392-.308842C3.646326-.308842 3.516812-.308842 3.257783-.328767C2.968867-.358655 2.889166-.388543 2.889166-.547945C2.889166-.557908 2.889166-.607721 2.929016-.757161L4.254047-6.047323Z'/>
+<path id='g1-88' d='M4.83188-4.094645L3.995019-6.07721C3.965131-6.156912 3.945205-6.196762 3.945205-6.206725C3.945205-6.266501 4.11457-6.455791 4.533001-6.495641C4.632628-6.505604 4.732254-6.515567 4.732254-6.684932C4.732254-6.804483 4.612702-6.804483 4.582814-6.804483C4.174346-6.804483 3.745953-6.774595 3.327522-6.774595C3.078456-6.774595 2.460772-6.804483 2.211706-6.804483C2.15193-6.804483 2.032379-6.804483 2.032379-6.60523C2.032379-6.495641 2.132005-6.495641 2.261519-6.495641C2.859278-6.495641 2.919054-6.396015 3.008717-6.176837L4.184309-3.39726L2.082192-1.135741L1.952677-1.026152C1.464508-.498132 .996264-.33873 .488169-.308842C.358655-.298879 .268991-.298879 .268991-.109589C.268991-.099626 .268991 0 .398506 0C.697385 0 1.026152-.029888 1.334994-.029888C1.703611-.029888 2.092154 0 2.450809 0C2.510585 0 2.630137 0 2.630137-.199253C2.630137-.298879 2.530511-.308842 2.510585-.308842C2.420922-.318804 2.11208-.33873 2.11208-.617684C2.11208-.777086 2.261519-.936488 2.381071-1.066002L3.39726-2.141968L4.293898-3.118306L5.300125-.737235C5.339975-.627646 5.349938-.617684 5.349938-.597758C5.349938-.518057 5.160648-.348692 4.772105-.308842C4.662516-.298879 4.572852-.288917 4.572852-.119552C4.572852 0 4.682441 0 4.722291 0C5.001245 0 5.69863-.029888 5.977584-.029888C6.22665-.029888 6.834371 0 7.083437 0C7.153176 0 7.272727 0 7.272727-.18929C7.272727-.308842 7.173101-.308842 7.0934-.308842C6.425903-.318804 6.405978-.348692 6.236613-.747198C5.84807-1.673724 5.180573-3.227895 4.951432-3.825654C5.628892-4.523039 6.674969-5.708593 6.993773-5.987547C7.28269-6.22665 7.66127-6.465753 8.259029-6.495641C8.388543-6.505604 8.478207-6.505604 8.478207-6.694894C8.478207-6.704857 8.478207-6.804483 8.348692-6.804483C8.049813-6.804483 7.721046-6.774595 7.412204-6.774595C7.043587-6.774595 6.665006-6.804483 6.306351-6.804483C6.246575-6.804483 6.117061-6.804483 6.117061-6.60523C6.117061-6.535492 6.166874-6.505604 6.236613-6.495641C6.326276-6.485679 6.635118-6.465753 6.635118-6.1868C6.635118-6.047323 6.525529-5.917808 6.445828-5.828144L4.83188-4.094645Z'/>
+<path id='g2-40' d='M3.297634 2.391034C3.297634 2.361146 3.297634 2.34122 3.128269 2.171856C1.882939 .916563 1.564134-.966376 1.564134-2.49066C1.564134-4.224159 1.942715-5.957659 3.16812-7.202989C3.297634-7.32254 3.297634-7.342466 3.297634-7.372354C3.297634-7.442092 3.257783-7.47198 3.198007-7.47198C3.098381-7.47198 2.201743-6.794521 1.613948-5.529265C1.105853-4.433375 .986301-3.327522 .986301-2.49066C.986301-1.713574 1.09589-.508095 1.643836 .617684C2.241594 1.843088 3.098381 2.49066 3.198007 2.49066C3.257783 2.49066 3.297634 2.460772 3.297634 2.391034Z'/>
+<path id='g2-41' d='M2.879203-2.49066C2.879203-3.267746 2.769614-4.473225 2.221669-5.599004C1.62391-6.824408 .767123-7.47198 .667497-7.47198C.607721-7.47198 .56787-7.43213 .56787-7.372354C.56787-7.342466 .56787-7.32254 .757161-7.143213C1.733499-6.156912 2.30137-4.572852 2.30137-2.49066C2.30137-.787049 1.932752 .966376 .697385 2.221669C.56787 2.34122 .56787 2.361146 .56787 2.391034C.56787 2.450809 .607721 2.49066 .667497 2.49066C.767123 2.49066 1.663761 1.8132 2.251557 .547945C2.759651-.547945 2.879203-1.653798 2.879203-2.49066Z'/>
+<path id='g2-48' d='M4.582814-3.188045C4.582814-3.985056 4.533001-4.782067 4.184309-5.519303C3.726027-6.475716 2.909091-6.635118 2.49066-6.635118C1.892902-6.635118 1.165629-6.37609 .757161-5.449564C.438356-4.762142 .388543-3.985056 .388543-3.188045C.388543-2.440847 .428394-1.544209 .836862-.787049C1.265255 .019925 1.992528 .219178 2.480697 .219178C3.01868 .219178 3.775841 .009963 4.214197-.936488C4.533001-1.62391 4.582814-2.400996 4.582814-3.188045ZM2.480697 0C2.092154 0 1.504359-.249066 1.325031-1.205479C1.215442-1.803238 1.215442-2.719801 1.215442-3.307597C1.215442-3.945205 1.215442-4.60274 1.295143-5.140722C1.484433-6.326276 2.231631-6.41594 2.480697-6.41594C2.809465-6.41594 3.466999-6.236613 3.656289-5.250311C3.755915-4.692403 3.755915-3.935243 3.755915-3.307597C3.755915-2.560399 3.755915-1.882939 3.646326-1.24533C3.496887-.298879 2.929016 0 2.480697 0Z'/>
+<path id='g2-50' d='M1.265255-.767123L2.321295-1.793275C3.875467-3.16812 4.473225-3.706102 4.473225-4.702366C4.473225-5.838107 3.576588-6.635118 2.361146-6.635118C1.235367-6.635118 .498132-5.718555 .498132-4.83188C.498132-4.273973 .996264-4.273973 1.026152-4.273973C1.195517-4.273973 1.544209-4.393524 1.544209-4.801993C1.544209-5.061021 1.364882-5.32005 1.016189-5.32005C.936488-5.32005 .916563-5.32005 .886675-5.310087C1.115816-5.957659 1.653798-6.326276 2.231631-6.326276C3.138232-6.326276 3.566625-5.519303 3.566625-4.702366C3.566625-3.905355 3.068493-3.118306 2.520548-2.500623L.607721-.368618C.498132-.259029 .498132-.239103 .498132 0H4.194271L4.473225-1.733499H4.224159C4.174346-1.43462 4.104608-.996264 4.004981-.846824C3.935243-.767123 3.277709-.767123 3.058531-.767123H1.265255Z'/>
+<path id='g2-67' d='M.557908-3.407223C.557908-1.344956 2.171856 .219178 4.024907 .219178C5.648817 .219178 6.625156-1.165629 6.625156-2.321295C6.625156-2.420922 6.625156-2.49066 6.495641-2.49066C6.386052-2.49066 6.386052-2.430884 6.37609-2.331258C6.296389-.9066 5.230386-.089664 4.144458-.089664C3.536737-.089664 1.58406-.428394 1.58406-3.39726C1.58406-6.37609 3.526775-6.714819 4.134496-6.714819C5.220423-6.714819 6.107098-5.808219 6.306351-4.353674C6.326276-4.214197 6.326276-4.184309 6.465753-4.184309C6.625156-4.184309 6.625156-4.214197 6.625156-4.423412V-6.784558C6.625156-6.953923 6.625156-7.023661 6.515567-7.023661C6.475716-7.023661 6.435866-7.023661 6.356164-6.90411L5.858032-6.166874C5.489415-6.525529 4.98132-7.023661 4.024907-7.023661C2.161893-7.023661 .557908-5.439601 .557908-3.407223Z'/>
+<path id='g0-14' d='M3.535741-1.743462C3.535741-2.587298 2.859278-3.242839 2.036364-3.242839C1.199502-3.242839 .536986-2.566376 .536986-1.750436C.536986-.9066 1.21345-.251059 2.036364-.251059C2.873225-.251059 3.535741-.927522 3.535741-1.743462ZM2.036364-.592777C1.380822-.592777 .878705-1.12279 .878705-1.743462C.878705-2.39203 1.39477-2.901121 2.036364-2.901121C2.691905-2.901121 3.194022-2.371108 3.194022-1.750436C3.194022-1.101868 2.677958-.592777 2.036364-.592777Z'/>
+</defs>
+<g id='page1'>
+<path d='M-42.828126 71.246095V-46.6285' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M-42.828126-50.3906C-42.941407-49.92966-43.582032-47.89841-44.27344-46.628877H-41.38281C-42.078126-47.89841-42.714844-49.92966-42.828126-50.3906Z'/>
+<path d='M-42.828126-50.3906C-42.941407-49.92966-43.582032-47.89841-44.27344-46.628877H-41.38281C-42.078126-47.89841-42.714844-49.92966-42.828126-50.3906Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 3.5198 -128.4686)'>
+<use x='-42.828894' y='71.244506' xlink:href='#g1-84'/>
+<use x='-33.962851' y='71.244506' xlink:href='#g2-40'/>
+<use x='-30.088477' y='67.629142' xlink:href='#g0-14'/>
+<use x='-25.508424' y='71.244506' xlink:href='#g2-67'/>
+<use x='-18.313163' y='71.244506' xlink:href='#g2-41'/>
+</g>
+<path d='M-42.828126 71.246095H68.2421' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M72.00388 71.246095C71.54295 71.132813 69.5117 70.492188 68.242166 69.79688V72.69141C69.5117 71.996095 71.54295 71.35547 72.00388 71.246095Z'/>
+<path d='M72.00388 71.246095C71.54295 71.132813 69.5117 70.492188 68.242166 69.79688V72.69141C69.5117 71.996095 71.54295 71.35547 72.00388 71.246095Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-46.23047-30.8045H-39.42578' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 -21.8658 -98.838)'>
+<use x='-42.828894' y='71.244506' xlink:href='#g2-50'/>
+<use x='-37.847555' y='71.244506' xlink:href='#g2-48'/>
+<use x='-32.866215' y='71.244506' xlink:href='#g2-48'/>
+</g>
+<path d='M-32.625-32.5035L55.8164 59.3398' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 55.0103 -64.62822)'>
+<use x='-42.828894' y='71.244506' xlink:href='#g1-88'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 <!--fig:end-->
 
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
@@ -16382,7 +16425,50 @@ OAF 2018 - 81
 
 
 <!--fig:start-->
-![[cuadernillo_2018_p83_f1.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='136.399692pt' height='137.586734pt' viewBox='-64.196562 -64.696074 136.399692 137.586734'>
+<defs>
+<path id='g1-84' d='M4.254047-6.047323C4.323786-6.326276 4.363636-6.386052 4.483188-6.41594C4.572852-6.435866 4.901619-6.435866 5.110834-6.435866C6.117061-6.435866 6.56538-6.396015 6.56538-5.618929C6.56538-5.469489 6.525529-5.080946 6.485679-4.821918C6.475716-4.782067 6.455791-4.662516 6.455791-4.632628C6.455791-4.572852 6.485679-4.503113 6.575342-4.503113C6.684932-4.503113 6.704857-4.582814 6.724782-4.732254L6.993773-6.465753C7.003736-6.505604 7.013699-6.60523 7.013699-6.635118C7.013699-6.744707 6.914072-6.744707 6.744707-6.744707H1.215442C.976339-6.744707 .966376-6.734745 .896638-6.545455L.298879-4.79203C.288917-4.772105 .239103-4.632628 .239103-4.612702C.239103-4.552927 .288917-4.503113 .358655-4.503113C.458281-4.503113 .468244-4.552927 .52802-4.712329C1.066002-6.256538 1.325031-6.435866 2.799502-6.435866H3.188045C3.466999-6.435866 3.466999-6.396015 3.466999-6.316314C3.466999-6.256538 3.437111-6.136986 3.427148-6.107098L2.092154-.787049C2.002491-.418431 1.972603-.308842 .9066-.308842C.547945-.308842 .488169-.308842 .488169-.119552C.488169 0 .597758 0 .657534 0C.926526 0 1.205479-.019925 1.474471-.019925C1.753425-.019925 2.042341-.029888 2.321295-.029888S2.879203-.019925 3.148194-.019925C3.437111-.019925 3.73599 0 4.014944 0C4.11457 0 4.234122 0 4.234122-.199253C4.234122-.308842 4.154421-.308842 3.895392-.308842C3.646326-.308842 3.516812-.308842 3.257783-.328767C2.968867-.358655 2.889166-.388543 2.889166-.547945C2.889166-.557908 2.889166-.607721 2.929016-.757161L4.254047-6.047323Z'/>
+<path id='g1-88' d='M4.83188-4.094645L3.995019-6.07721C3.965131-6.156912 3.945205-6.196762 3.945205-6.206725C3.945205-6.266501 4.11457-6.455791 4.533001-6.495641C4.632628-6.505604 4.732254-6.515567 4.732254-6.684932C4.732254-6.804483 4.612702-6.804483 4.582814-6.804483C4.174346-6.804483 3.745953-6.774595 3.327522-6.774595C3.078456-6.774595 2.460772-6.804483 2.211706-6.804483C2.15193-6.804483 2.032379-6.804483 2.032379-6.60523C2.032379-6.495641 2.132005-6.495641 2.261519-6.495641C2.859278-6.495641 2.919054-6.396015 3.008717-6.176837L4.184309-3.39726L2.082192-1.135741L1.952677-1.026152C1.464508-.498132 .996264-.33873 .488169-.308842C.358655-.298879 .268991-.298879 .268991-.109589C.268991-.099626 .268991 0 .398506 0C.697385 0 1.026152-.029888 1.334994-.029888C1.703611-.029888 2.092154 0 2.450809 0C2.510585 0 2.630137 0 2.630137-.199253C2.630137-.298879 2.530511-.308842 2.510585-.308842C2.420922-.318804 2.11208-.33873 2.11208-.617684C2.11208-.777086 2.261519-.936488 2.381071-1.066002L3.39726-2.141968L4.293898-3.118306L5.300125-.737235C5.339975-.627646 5.349938-.617684 5.349938-.597758C5.349938-.518057 5.160648-.348692 4.772105-.308842C4.662516-.298879 4.572852-.288917 4.572852-.119552C4.572852 0 4.682441 0 4.722291 0C5.001245 0 5.69863-.029888 5.977584-.029888C6.22665-.029888 6.834371 0 7.083437 0C7.153176 0 7.272727 0 7.272727-.18929C7.272727-.308842 7.173101-.308842 7.0934-.308842C6.425903-.318804 6.405978-.348692 6.236613-.747198C5.84807-1.673724 5.180573-3.227895 4.951432-3.825654C5.628892-4.523039 6.674969-5.708593 6.993773-5.987547C7.28269-6.22665 7.66127-6.465753 8.259029-6.495641C8.388543-6.505604 8.478207-6.505604 8.478207-6.694894C8.478207-6.704857 8.478207-6.804483 8.348692-6.804483C8.049813-6.804483 7.721046-6.774595 7.412204-6.774595C7.043587-6.774595 6.665006-6.804483 6.306351-6.804483C6.246575-6.804483 6.117061-6.804483 6.117061-6.60523C6.117061-6.535492 6.166874-6.505604 6.236613-6.495641C6.326276-6.485679 6.635118-6.465753 6.635118-6.1868C6.635118-6.047323 6.525529-5.917808 6.445828-5.828144L4.83188-4.094645Z'/>
+<path id='g2-40' d='M3.297634 2.391034C3.297634 2.361146 3.297634 2.34122 3.128269 2.171856C1.882939 .916563 1.564134-.966376 1.564134-2.49066C1.564134-4.224159 1.942715-5.957659 3.16812-7.202989C3.297634-7.32254 3.297634-7.342466 3.297634-7.372354C3.297634-7.442092 3.257783-7.47198 3.198007-7.47198C3.098381-7.47198 2.201743-6.794521 1.613948-5.529265C1.105853-4.433375 .986301-3.327522 .986301-2.49066C.986301-1.713574 1.09589-.508095 1.643836 .617684C2.241594 1.843088 3.098381 2.49066 3.198007 2.49066C3.257783 2.49066 3.297634 2.460772 3.297634 2.391034Z'/>
+<path id='g2-41' d='M2.879203-2.49066C2.879203-3.267746 2.769614-4.473225 2.221669-5.599004C1.62391-6.824408 .767123-7.47198 .667497-7.47198C.607721-7.47198 .56787-7.43213 .56787-7.372354C.56787-7.342466 .56787-7.32254 .757161-7.143213C1.733499-6.156912 2.30137-4.572852 2.30137-2.49066C2.30137-.787049 1.932752 .966376 .697385 2.221669C.56787 2.34122 .56787 2.361146 .56787 2.391034C.56787 2.450809 .607721 2.49066 .667497 2.49066C.767123 2.49066 1.663761 1.8132 2.251557 .547945C2.759651-.547945 2.879203-1.653798 2.879203-2.49066Z'/>
+<path id='g2-48' d='M4.582814-3.188045C4.582814-3.985056 4.533001-4.782067 4.184309-5.519303C3.726027-6.475716 2.909091-6.635118 2.49066-6.635118C1.892902-6.635118 1.165629-6.37609 .757161-5.449564C.438356-4.762142 .388543-3.985056 .388543-3.188045C.388543-2.440847 .428394-1.544209 .836862-.787049C1.265255 .019925 1.992528 .219178 2.480697 .219178C3.01868 .219178 3.775841 .009963 4.214197-.936488C4.533001-1.62391 4.582814-2.400996 4.582814-3.188045ZM2.480697 0C2.092154 0 1.504359-.249066 1.325031-1.205479C1.215442-1.803238 1.215442-2.719801 1.215442-3.307597C1.215442-3.945205 1.215442-4.60274 1.295143-5.140722C1.484433-6.326276 2.231631-6.41594 2.480697-6.41594C2.809465-6.41594 3.466999-6.236613 3.656289-5.250311C3.755915-4.692403 3.755915-3.935243 3.755915-3.307597C3.755915-2.560399 3.755915-1.882939 3.646326-1.24533C3.496887-.298879 2.929016 0 2.480697 0Z'/>
+<path id='g2-50' d='M1.265255-.767123L2.321295-1.793275C3.875467-3.16812 4.473225-3.706102 4.473225-4.702366C4.473225-5.838107 3.576588-6.635118 2.361146-6.635118C1.235367-6.635118 .498132-5.718555 .498132-4.83188C.498132-4.273973 .996264-4.273973 1.026152-4.273973C1.195517-4.273973 1.544209-4.393524 1.544209-4.801993C1.544209-5.061021 1.364882-5.32005 1.016189-5.32005C.936488-5.32005 .916563-5.32005 .886675-5.310087C1.115816-5.957659 1.653798-6.326276 2.231631-6.326276C3.138232-6.326276 3.566625-5.519303 3.566625-4.702366C3.566625-3.905355 3.068493-3.118306 2.520548-2.500623L.607721-.368618C.498132-.259029 .498132-.239103 .498132 0H4.194271L4.473225-1.733499H4.224159C4.174346-1.43462 4.104608-.996264 4.004981-.846824C3.935243-.767123 3.277709-.767123 3.058531-.767123H1.265255Z'/>
+<path id='g2-67' d='M.557908-3.407223C.557908-1.344956 2.171856 .219178 4.024907 .219178C5.648817 .219178 6.625156-1.165629 6.625156-2.321295C6.625156-2.420922 6.625156-2.49066 6.495641-2.49066C6.386052-2.49066 6.386052-2.430884 6.37609-2.331258C6.296389-.9066 5.230386-.089664 4.144458-.089664C3.536737-.089664 1.58406-.428394 1.58406-3.39726C1.58406-6.37609 3.526775-6.714819 4.134496-6.714819C5.220423-6.714819 6.107098-5.808219 6.306351-4.353674C6.326276-4.214197 6.326276-4.184309 6.465753-4.184309C6.625156-4.184309 6.625156-4.214197 6.625156-4.423412V-6.784558C6.625156-6.953923 6.625156-7.023661 6.515567-7.023661C6.475716-7.023661 6.435866-7.023661 6.356164-6.90411L5.858032-6.166874C5.489415-6.525529 4.98132-7.023661 4.024907-7.023661C2.161893-7.023661 .557908-5.439601 .557908-3.407223Z'/>
+<path id='g0-14' d='M3.535741-1.743462C3.535741-2.587298 2.859278-3.242839 2.036364-3.242839C1.199502-3.242839 .536986-2.566376 .536986-1.750436C.536986-.9066 1.21345-.251059 2.036364-.251059C2.873225-.251059 3.535741-.927522 3.535741-1.743462ZM2.036364-.592777C1.380822-.592777 .878705-1.12279 .878705-1.743462C.878705-2.39203 1.39477-2.901121 2.036364-2.901121C2.691905-2.901121 3.194022-2.371108 3.194022-1.750436C3.194022-1.101868 2.677958-.592777 2.036364-.592777Z'/>
+</defs>
+<g id='page1'>
+<path d='M-42.828126 71.246095V-46.6285' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M-42.828126-50.3906C-42.941407-49.92966-43.582032-47.89841-44.27344-46.628877H-41.38281C-42.078126-47.89841-42.714844-49.92966-42.828126-50.3906Z'/>
+<path d='M-42.828126-50.3906C-42.941407-49.92966-43.582032-47.89841-44.27344-46.628877H-41.38281C-42.078126-47.89841-42.714844-49.92966-42.828126-50.3906Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 3.5198 -128.4686)'>
+<use x='-42.828894' y='71.244506' xlink:href='#g1-84'/>
+<use x='-33.962851' y='71.244506' xlink:href='#g2-40'/>
+<use x='-30.088477' y='67.629142' xlink:href='#g0-14'/>
+<use x='-25.508424' y='71.244506' xlink:href='#g2-67'/>
+<use x='-18.313163' y='71.244506' xlink:href='#g2-41'/>
+</g>
+<path d='M-42.828126 71.246095H68.2421' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M72.00388 71.246095C71.54295 71.132813 69.5117 70.492188 68.242166 69.79688V72.69141C69.5117 71.996095 71.54295 71.35547 72.00388 71.246095Z'/>
+<path d='M72.00388 71.246095C71.54295 71.132813 69.5117 70.492188 68.242166 69.79688V72.69141C69.5117 71.996095 71.54295 71.35547 72.00388 71.246095Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-46.23047-30.8045H-39.42578' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 -21.8658 -98.838)'>
+<use x='-42.828894' y='71.244506' xlink:href='#g2-50'/>
+<use x='-37.847555' y='71.244506' xlink:href='#g2-48'/>
+<use x='-32.866215' y='71.244506' xlink:href='#g2-48'/>
+</g>
+<path d='M-32.625-32.5035L55.8164 59.3398' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 55.0103 -64.62822)'>
+<use x='-42.828894' y='71.244506' xlink:href='#g1-88'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 <!--fig:end-->
 
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
@@ -16419,7 +16505,50 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 
 <!--fig:start-->
-![[cuadernillo_2018_p83_f1.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='136.399692pt' height='137.586734pt' viewBox='-64.196562 -64.696074 136.399692 137.586734'>
+<defs>
+<path id='g1-84' d='M4.254047-6.047323C4.323786-6.326276 4.363636-6.386052 4.483188-6.41594C4.572852-6.435866 4.901619-6.435866 5.110834-6.435866C6.117061-6.435866 6.56538-6.396015 6.56538-5.618929C6.56538-5.469489 6.525529-5.080946 6.485679-4.821918C6.475716-4.782067 6.455791-4.662516 6.455791-4.632628C6.455791-4.572852 6.485679-4.503113 6.575342-4.503113C6.684932-4.503113 6.704857-4.582814 6.724782-4.732254L6.993773-6.465753C7.003736-6.505604 7.013699-6.60523 7.013699-6.635118C7.013699-6.744707 6.914072-6.744707 6.744707-6.744707H1.215442C.976339-6.744707 .966376-6.734745 .896638-6.545455L.298879-4.79203C.288917-4.772105 .239103-4.632628 .239103-4.612702C.239103-4.552927 .288917-4.503113 .358655-4.503113C.458281-4.503113 .468244-4.552927 .52802-4.712329C1.066002-6.256538 1.325031-6.435866 2.799502-6.435866H3.188045C3.466999-6.435866 3.466999-6.396015 3.466999-6.316314C3.466999-6.256538 3.437111-6.136986 3.427148-6.107098L2.092154-.787049C2.002491-.418431 1.972603-.308842 .9066-.308842C.547945-.308842 .488169-.308842 .488169-.119552C.488169 0 .597758 0 .657534 0C.926526 0 1.205479-.019925 1.474471-.019925C1.753425-.019925 2.042341-.029888 2.321295-.029888S2.879203-.019925 3.148194-.019925C3.437111-.019925 3.73599 0 4.014944 0C4.11457 0 4.234122 0 4.234122-.199253C4.234122-.308842 4.154421-.308842 3.895392-.308842C3.646326-.308842 3.516812-.308842 3.257783-.328767C2.968867-.358655 2.889166-.388543 2.889166-.547945C2.889166-.557908 2.889166-.607721 2.929016-.757161L4.254047-6.047323Z'/>
+<path id='g1-88' d='M4.83188-4.094645L3.995019-6.07721C3.965131-6.156912 3.945205-6.196762 3.945205-6.206725C3.945205-6.266501 4.11457-6.455791 4.533001-6.495641C4.632628-6.505604 4.732254-6.515567 4.732254-6.684932C4.732254-6.804483 4.612702-6.804483 4.582814-6.804483C4.174346-6.804483 3.745953-6.774595 3.327522-6.774595C3.078456-6.774595 2.460772-6.804483 2.211706-6.804483C2.15193-6.804483 2.032379-6.804483 2.032379-6.60523C2.032379-6.495641 2.132005-6.495641 2.261519-6.495641C2.859278-6.495641 2.919054-6.396015 3.008717-6.176837L4.184309-3.39726L2.082192-1.135741L1.952677-1.026152C1.464508-.498132 .996264-.33873 .488169-.308842C.358655-.298879 .268991-.298879 .268991-.109589C.268991-.099626 .268991 0 .398506 0C.697385 0 1.026152-.029888 1.334994-.029888C1.703611-.029888 2.092154 0 2.450809 0C2.510585 0 2.630137 0 2.630137-.199253C2.630137-.298879 2.530511-.308842 2.510585-.308842C2.420922-.318804 2.11208-.33873 2.11208-.617684C2.11208-.777086 2.261519-.936488 2.381071-1.066002L3.39726-2.141968L4.293898-3.118306L5.300125-.737235C5.339975-.627646 5.349938-.617684 5.349938-.597758C5.349938-.518057 5.160648-.348692 4.772105-.308842C4.662516-.298879 4.572852-.288917 4.572852-.119552C4.572852 0 4.682441 0 4.722291 0C5.001245 0 5.69863-.029888 5.977584-.029888C6.22665-.029888 6.834371 0 7.083437 0C7.153176 0 7.272727 0 7.272727-.18929C7.272727-.308842 7.173101-.308842 7.0934-.308842C6.425903-.318804 6.405978-.348692 6.236613-.747198C5.84807-1.673724 5.180573-3.227895 4.951432-3.825654C5.628892-4.523039 6.674969-5.708593 6.993773-5.987547C7.28269-6.22665 7.66127-6.465753 8.259029-6.495641C8.388543-6.505604 8.478207-6.505604 8.478207-6.694894C8.478207-6.704857 8.478207-6.804483 8.348692-6.804483C8.049813-6.804483 7.721046-6.774595 7.412204-6.774595C7.043587-6.774595 6.665006-6.804483 6.306351-6.804483C6.246575-6.804483 6.117061-6.804483 6.117061-6.60523C6.117061-6.535492 6.166874-6.505604 6.236613-6.495641C6.326276-6.485679 6.635118-6.465753 6.635118-6.1868C6.635118-6.047323 6.525529-5.917808 6.445828-5.828144L4.83188-4.094645Z'/>
+<path id='g2-40' d='M3.297634 2.391034C3.297634 2.361146 3.297634 2.34122 3.128269 2.171856C1.882939 .916563 1.564134-.966376 1.564134-2.49066C1.564134-4.224159 1.942715-5.957659 3.16812-7.202989C3.297634-7.32254 3.297634-7.342466 3.297634-7.372354C3.297634-7.442092 3.257783-7.47198 3.198007-7.47198C3.098381-7.47198 2.201743-6.794521 1.613948-5.529265C1.105853-4.433375 .986301-3.327522 .986301-2.49066C.986301-1.713574 1.09589-.508095 1.643836 .617684C2.241594 1.843088 3.098381 2.49066 3.198007 2.49066C3.257783 2.49066 3.297634 2.460772 3.297634 2.391034Z'/>
+<path id='g2-41' d='M2.879203-2.49066C2.879203-3.267746 2.769614-4.473225 2.221669-5.599004C1.62391-6.824408 .767123-7.47198 .667497-7.47198C.607721-7.47198 .56787-7.43213 .56787-7.372354C.56787-7.342466 .56787-7.32254 .757161-7.143213C1.733499-6.156912 2.30137-4.572852 2.30137-2.49066C2.30137-.787049 1.932752 .966376 .697385 2.221669C.56787 2.34122 .56787 2.361146 .56787 2.391034C.56787 2.450809 .607721 2.49066 .667497 2.49066C.767123 2.49066 1.663761 1.8132 2.251557 .547945C2.759651-.547945 2.879203-1.653798 2.879203-2.49066Z'/>
+<path id='g2-48' d='M4.582814-3.188045C4.582814-3.985056 4.533001-4.782067 4.184309-5.519303C3.726027-6.475716 2.909091-6.635118 2.49066-6.635118C1.892902-6.635118 1.165629-6.37609 .757161-5.449564C.438356-4.762142 .388543-3.985056 .388543-3.188045C.388543-2.440847 .428394-1.544209 .836862-.787049C1.265255 .019925 1.992528 .219178 2.480697 .219178C3.01868 .219178 3.775841 .009963 4.214197-.936488C4.533001-1.62391 4.582814-2.400996 4.582814-3.188045ZM2.480697 0C2.092154 0 1.504359-.249066 1.325031-1.205479C1.215442-1.803238 1.215442-2.719801 1.215442-3.307597C1.215442-3.945205 1.215442-4.60274 1.295143-5.140722C1.484433-6.326276 2.231631-6.41594 2.480697-6.41594C2.809465-6.41594 3.466999-6.236613 3.656289-5.250311C3.755915-4.692403 3.755915-3.935243 3.755915-3.307597C3.755915-2.560399 3.755915-1.882939 3.646326-1.24533C3.496887-.298879 2.929016 0 2.480697 0Z'/>
+<path id='g2-50' d='M1.265255-.767123L2.321295-1.793275C3.875467-3.16812 4.473225-3.706102 4.473225-4.702366C4.473225-5.838107 3.576588-6.635118 2.361146-6.635118C1.235367-6.635118 .498132-5.718555 .498132-4.83188C.498132-4.273973 .996264-4.273973 1.026152-4.273973C1.195517-4.273973 1.544209-4.393524 1.544209-4.801993C1.544209-5.061021 1.364882-5.32005 1.016189-5.32005C.936488-5.32005 .916563-5.32005 .886675-5.310087C1.115816-5.957659 1.653798-6.326276 2.231631-6.326276C3.138232-6.326276 3.566625-5.519303 3.566625-4.702366C3.566625-3.905355 3.068493-3.118306 2.520548-2.500623L.607721-.368618C.498132-.259029 .498132-.239103 .498132 0H4.194271L4.473225-1.733499H4.224159C4.174346-1.43462 4.104608-.996264 4.004981-.846824C3.935243-.767123 3.277709-.767123 3.058531-.767123H1.265255Z'/>
+<path id='g2-67' d='M.557908-3.407223C.557908-1.344956 2.171856 .219178 4.024907 .219178C5.648817 .219178 6.625156-1.165629 6.625156-2.321295C6.625156-2.420922 6.625156-2.49066 6.495641-2.49066C6.386052-2.49066 6.386052-2.430884 6.37609-2.331258C6.296389-.9066 5.230386-.089664 4.144458-.089664C3.536737-.089664 1.58406-.428394 1.58406-3.39726C1.58406-6.37609 3.526775-6.714819 4.134496-6.714819C5.220423-6.714819 6.107098-5.808219 6.306351-4.353674C6.326276-4.214197 6.326276-4.184309 6.465753-4.184309C6.625156-4.184309 6.625156-4.214197 6.625156-4.423412V-6.784558C6.625156-6.953923 6.625156-7.023661 6.515567-7.023661C6.475716-7.023661 6.435866-7.023661 6.356164-6.90411L5.858032-6.166874C5.489415-6.525529 4.98132-7.023661 4.024907-7.023661C2.161893-7.023661 .557908-5.439601 .557908-3.407223Z'/>
+<path id='g0-14' d='M3.535741-1.743462C3.535741-2.587298 2.859278-3.242839 2.036364-3.242839C1.199502-3.242839 .536986-2.566376 .536986-1.750436C.536986-.9066 1.21345-.251059 2.036364-.251059C2.873225-.251059 3.535741-.927522 3.535741-1.743462ZM2.036364-.592777C1.380822-.592777 .878705-1.12279 .878705-1.743462C.878705-2.39203 1.39477-2.901121 2.036364-2.901121C2.691905-2.901121 3.194022-2.371108 3.194022-1.750436C3.194022-1.101868 2.677958-.592777 2.036364-.592777Z'/>
+</defs>
+<g id='page1'>
+<path d='M-42.828126 71.246095V-46.6285' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M-42.828126-50.3906C-42.941407-49.92966-43.582032-47.89841-44.27344-46.628877H-41.38281C-42.078126-47.89841-42.714844-49.92966-42.828126-50.3906Z'/>
+<path d='M-42.828126-50.3906C-42.941407-49.92966-43.582032-47.89841-44.27344-46.628877H-41.38281C-42.078126-47.89841-42.714844-49.92966-42.828126-50.3906Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 3.5198 -128.4686)'>
+<use x='-42.828894' y='71.244506' xlink:href='#g1-84'/>
+<use x='-33.962851' y='71.244506' xlink:href='#g2-40'/>
+<use x='-30.088477' y='67.629142' xlink:href='#g0-14'/>
+<use x='-25.508424' y='71.244506' xlink:href='#g2-67'/>
+<use x='-18.313163' y='71.244506' xlink:href='#g2-41'/>
+</g>
+<path d='M-42.828126 71.246095H68.2421' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M72.00388 71.246095C71.54295 71.132813 69.5117 70.492188 68.242166 69.79688V72.69141C69.5117 71.996095 71.54295 71.35547 72.00388 71.246095Z'/>
+<path d='M72.00388 71.246095C71.54295 71.132813 69.5117 70.492188 68.242166 69.79688V72.69141C69.5117 71.996095 71.54295 71.35547 72.00388 71.246095Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-46.23047-30.8045H-39.42578' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 -21.8658 -98.838)'>
+<use x='-42.828894' y='71.244506' xlink:href='#g2-50'/>
+<use x='-37.847555' y='71.244506' xlink:href='#g2-48'/>
+<use x='-32.866215' y='71.244506' xlink:href='#g2-48'/>
+</g>
+<path d='M-32.625-32.5035L55.8164 59.3398' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 55.0103 -64.62822)'>
+<use x='-42.828894' y='71.244506' xlink:href='#g1-88'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 <!--fig:end-->
 
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
@@ -17366,7 +17495,7 @@ Coeficiente de dilatación térmica en volumen del alcohol a 20°C: 1,09 × 10�
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]], [[Piston (object)|Piston]]
+**Objects:** [[Gas (object)|Gas]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Piston (object)|Piston]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -17445,7 +17574,7 @@ Coefficiente di dilatazione termico al volume di alcool a 20°C: 1,09 × 10−3 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]], [[Piston (object)|Piston]]
+**Objects:** [[Gas (object)|Gas]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Piston (object)|Piston]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -17523,7 +17652,7 @@ The thermal dilation coefficient of the alcohol by volume to 20°C: 1,09 × 10�
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]], [[Piston (object)|Piston]]
+**Objects:** [[Gas (object)|Gas]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Piston (object)|Piston]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -18820,7 +18949,7 @@ OAF 2018 - 93
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -18904,7 +19033,7 @@ OAF 2018 - 93
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -18987,7 +19116,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -19720,7 +19849,7 @@ uniforme)
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Projectile (object)|Projectile]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -19792,7 +19921,7 @@ Uniforme)
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Projectile (object)|Projectile]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -19863,7 +19992,7 @@ The following is the list of the countries of the European Union:
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Projectile (object)|Projectile]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -19947,7 +20076,7 @@ OAF 2018 - 99
 **Topic:** [[Geometric Optics]], [[Thermodynamics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]], [[Mirror (object)|Mirror]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Lens (object)|Lens]], [[Mirror (object)|Mirror]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -20026,7 +20155,7 @@ OAF 2018 - 99
 **Topic:** [[Geometric Optics]], [[Thermodynamics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]], [[Mirror (object)|Mirror]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Lens (object)|Lens]], [[Mirror (object)|Mirror]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -20104,7 +20233,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 **Topic:** [[Geometric Optics]], [[Thermodynamics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]], [[Mirror (object)|Mirror]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Lens (object)|Lens]], [[Mirror (object)|Mirror]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -21151,7 +21280,7 @@ Figura 2
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -21198,7 +21327,7 @@ Figura 2
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -21244,7 +21373,7 @@ Figure 2
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -22446,7 +22575,7 @@ d) ¿Cuántas caídas de tipo f = 2 podrá soportar la cuerda sin romperse?
 **Topic:** [[Elasticity & Materials]], [[Conservation of Energy]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -22544,7 +22673,7 @@ d) Quante cascate di tipo f = 2 può sopportare la corda senza rompersi?
 **Topic:** [[Elasticity & Materials]], [[Conservation of Energy]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -22641,7 +22770,7 @@ f=2?
 **Topic:** [[Elasticity & Materials]], [[Conservation of Energy]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -23772,7 +23901,7 @@ transversal con frecuencia de 2 Hz, ¿qué longitud de onda tendrá la onda?
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Wave Equation (metodo)|Wave Equation]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -23844,7 +23973,7 @@ Se la frequenza di 2 Hz è trasversale, che lunghezza d'onda avrà l'onda?
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Wave Equation (metodo)|Wave Equation]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -23915,7 +24044,7 @@ cross-sectional frequency of 2 Hz, what wavelength will the wave have?
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Wave Equation (metodo)|Wave Equation]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -24774,7 +24903,7 @@ e) La tensión de la cuerda.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -24804,7 +24933,7 @@ e) La tensione della corda.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -24833,7 +24962,7 @@ Calculation:
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -24934,7 +25063,7 @@ c) Calcular la tensión de la cuerda.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]], [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Sphere (object)|Sphere]], [[Cylinder (object)|Cylinder]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -24960,7 +25089,7 @@ c) Calcolare la tensione della corda.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]], [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Sphere (object)|Sphere]], [[Cylinder (object)|Cylinder]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -24985,7 +25114,7 @@ The volume of the sphere is V1 = 0.5 [m3] and its density is
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]], [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Sphere (object)|Sphere]], [[Cylinder (object)|Cylinder]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -25392,7 +25521,7 @@ e) Calcular el estiramiento del resorte bajo estas condiciones.
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -25423,7 +25552,7 @@ e) Calcolare l'estensione della sorgente in queste condizioni.
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -25453,7 +25582,7 @@ by a mobile platform with a constant vertical acceleration of 15 m/s2
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -25964,7 +26093,7 @@ Densidad del aceite de lino = 0,9 g/cm3
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Manometer (object)|Manometer]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Manometer (object)|Manometer]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -26027,7 +26156,7 @@ Densità dell'olio di lino = 0,9 g/cm3
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Manometer (object)|Manometer]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Manometer (object)|Manometer]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -26089,7 +26218,7 @@ Density of flaxseed oil = 0,9 g/cm3
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Manometer (object)|Manometer]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Manometer (object)|Manometer]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -26955,7 +27084,7 @@ Problemas Experimentales
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -27012,7 +27141,7 @@ Problemi sperimentali
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -27068,7 +27197,7 @@ Experimental problems
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -27631,7 +27760,7 @@ realización de la experiencia.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Curve Fitting (metodo)|Curve Fitting]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -27729,7 +27858,7 @@ realizzazione dell'esperienza.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Curve Fitting (metodo)|Curve Fitting]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -27826,7 +27955,7 @@ The following is the list of the countries of the European Union:
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Curve Fitting (metodo)|Curve Fitting]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -28010,7 +28139,7 @@ realización de  la experiencia.
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Snell's Law (metodo)|Snell's Law]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -28189,7 +28318,7 @@ realizzazione dell'esperienza.
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Snell's Law (metodo)|Snell's Law]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -28367,7 +28496,7 @@ The Commission will take the necessary steps to ensure that the results of the e
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Snell's Law (metodo)|Snell's Law]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -28591,7 +28720,7 @@ OAF 2018 - 137
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -28810,7 +28939,7 @@ OAF 2018 - 137
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -29028,7 +29157,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -29148,7 +29277,45 @@ Ti2
 
 
 <!--fig:start-->
-![[cuadernillo_2018_p137_fx1.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='125.32436pt' height='130.99626pt' viewBox='-68.01766 -68.01768 125.32436 130.99626'>
+<defs>
+<path id='g0-18' d='M4.533001-4.98132C4.533001-5.638854 4.353674-7.023661 3.337484-7.023661C1.952677-7.023661 .418431-4.214197 .418431-1.932752C.418431-.996264 .707347 .109589 1.613948 .109589C3.01868 .109589 4.533001-2.749689 4.533001-4.98132ZM1.474471-3.616438C1.643836-4.254047 1.843088-5.051059 2.241594-5.758406C2.510585-6.246575 2.879203-6.804483 3.327522-6.804483C3.815691-6.804483 3.875467-6.166874 3.875467-5.599004C3.875467-5.110834 3.795766-4.60274 3.556663-3.616438H1.474471ZM3.466999-3.297634C3.35741-2.839352 3.148194-1.992528 2.769614-1.275218C2.420922-.597758 2.042341-.109589 1.613948-.109589C1.285181-.109589 1.075965-.398506 1.075965-1.325031C1.075965-1.743462 1.135741-2.321295 1.39477-3.297634H3.466999Z'/>
+<path id='g0-76' d='M3.726027-6.027397C3.815691-6.386052 3.845579-6.495641 4.782067-6.495641C5.080946-6.495641 5.160648-6.495641 5.160648-6.684932C5.160648-6.804483 5.051059-6.804483 5.001245-6.804483C4.672478-6.804483 3.855542-6.774595 3.526775-6.774595C3.227895-6.774595 2.500623-6.804483 2.201743-6.804483C2.132005-6.804483 2.012453-6.804483 2.012453-6.60523C2.012453-6.495641 2.102117-6.495641 2.291407-6.495641C2.311333-6.495641 2.500623-6.495641 2.669988-6.475716C2.849315-6.455791 2.938979-6.445828 2.938979-6.316314C2.938979-6.276463 2.929016-6.246575 2.899128-6.127024L1.564134-.777086C1.464508-.388543 1.444583-.308842 .657534-.308842C.488169-.308842 .388543-.308842 .388543-.109589C.388543 0 .478207 0 .657534 0H5.270237C5.50934 0 5.519303 0 5.579078-.169365L6.366127-2.321295C6.405978-2.430884 6.405978-2.450809 6.405978-2.460772C6.405978-2.500623 6.37609-2.570361 6.286426-2.570361S6.1868-2.520548 6.117061-2.361146C5.778331-1.444583 5.339975-.308842 3.616438-.308842H2.67995C2.540473-.308842 2.520548-.308842 2.460772-.318804C2.361146-.328767 2.331258-.33873 2.331258-.418431C2.331258-.448319 2.331258-.468244 2.381071-.647572L3.726027-6.027397Z'/>
+<path id='g1-50' d='M1.265255-.767123L2.321295-1.793275C3.875467-3.16812 4.473225-3.706102 4.473225-4.702366C4.473225-5.838107 3.576588-6.635118 2.361146-6.635118C1.235367-6.635118 .498132-5.718555 .498132-4.83188C.498132-4.273973 .996264-4.273973 1.026152-4.273973C1.195517-4.273973 1.544209-4.393524 1.544209-4.801993C1.544209-5.061021 1.364882-5.32005 1.016189-5.32005C.936488-5.32005 .916563-5.32005 .886675-5.310087C1.115816-5.957659 1.653798-6.326276 2.231631-6.326276C3.138232-6.326276 3.566625-5.519303 3.566625-4.702366C3.566625-3.905355 3.068493-3.118306 2.520548-2.500623L.607721-.368618C.498132-.259029 .498132-.239103 .498132 0H4.194271L4.473225-1.733499H4.224159C4.174346-1.43462 4.104608-.996264 4.004981-.846824C3.935243-.767123 3.277709-.767123 3.058531-.767123H1.265255Z'/>
+</defs>
+<g id='page1'>
+<path d='M57.00782 17.324219C57.00782 9.49609 29.08982 3.1484-5.355469 3.1484C-39.79688 3.1484-67.71878 9.49609-67.71878 17.324219C-67.71878 25.15234-39.79688 31.4961-5.355469 31.4961C29.08982 31.4961 57.00782 25.15234 57.00782 17.324219Z' stroke='#000' fill='none' stroke-width='.59776'/>
+<path d='M-6.76953 17.324219V-67.7188' stroke='#000' fill='none' stroke-width='.59776'/>
+<path d='M-3.9375 17.324219V-67.7188' stroke='#000' fill='none' stroke-width='.59776'/>
+<path d='M-16.69138-62.0469V6.2734' stroke='#000' fill='none' stroke-width='.59776'/>
+<path d='M-16.691377 10.42188C-16.566377 9.91406-15.855439 7.67188-15.082 6.273438H-18.30075C-17.527314 7.67188-16.816377 9.91406-16.691377 10.42188Z'/>
+<path d='M-16.691377 10.42188C-16.566377 9.91406-15.855439 7.67188-15.082 6.273438H-18.30075C-17.527314 7.67188-16.816377 9.91406-16.691377 10.42188Z' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 -23.23282 -44.7855)'>
+<use x='-5.353977' y='17.323267' xlink:href='#g0-76'/>
+</g>
+<path d='M-5.355469 62.6797V25.53906' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10'/>
+<path d='M-5.355469 21.39065C-5.480469 21.89847-6.191406 24.14065-6.96484 25.539092H-3.74609C-4.519531 24.14065-5.230469 21.89847-5.355469 21.39065Z'/>
+<path d='M-5.355469 21.39065C-5.480469 21.89847-6.191406 24.14065-6.96484 25.539092H-3.74609C-4.519531 24.14065-5.230469 21.89847-5.355469 21.39065Z' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10'/>
+<path d='M-5.355469 62.6797L-64.88278 5.9844' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10' stroke-dasharray='2.98883 2.98883'/>
+<path d='M-5.355469 62.6797L54.17582 5.9844' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10' stroke-dasharray='2.98883 2.98883'/>
+<path d='M-28.32028 42.8359H17.61332' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10'/>
+<path d='M-32.46878 42.83591C-31.96097 42.96091-29.71878 43.671847-28.320343 44.44528V41.22653C-29.71878 41.999972-31.96097 42.71091-32.46878 42.83591Z'/>
+<path d='M-32.46878 42.83591C-31.96097 42.96091-29.71878 43.671847-28.320343 44.44528V41.22653C-29.71878 41.999972-31.96097 42.71091-32.46878 42.83591Z' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10'/>
+<path d='M21.76171 42.83591C21.24999 42.71091 19.01171 41.999972 17.61327 41.22653V44.44528C19.01171 43.671847 21.24999 42.96091 21.76171 42.83591Z'/>
+<path d='M21.76171 42.83591C21.24999 42.71091 19.01171 41.999972 17.61327 41.22653V44.44528C19.01171 43.671847 21.24999 42.96091 21.76171 42.83591Z' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 -4.96752 37.4754)'>
+<use x='-5.353977' y='17.323267' xlink:href='#g1-50'/>
+<use x='-.372637' y='17.323267' xlink:href='#g0-18'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 <!--fig:end-->
 
 **Topic:** [[Elasticity & Materials]], [[Oscillations & Waves]]
@@ -29269,7 +29436,45 @@ Ti2
 
 
 <!--fig:start-->
-![[cuadernillo_2018_p137_fx1.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='125.32436pt' height='130.99626pt' viewBox='-68.01766 -68.01768 125.32436 130.99626'>
+<defs>
+<path id='g0-18' d='M4.533001-4.98132C4.533001-5.638854 4.353674-7.023661 3.337484-7.023661C1.952677-7.023661 .418431-4.214197 .418431-1.932752C.418431-.996264 .707347 .109589 1.613948 .109589C3.01868 .109589 4.533001-2.749689 4.533001-4.98132ZM1.474471-3.616438C1.643836-4.254047 1.843088-5.051059 2.241594-5.758406C2.510585-6.246575 2.879203-6.804483 3.327522-6.804483C3.815691-6.804483 3.875467-6.166874 3.875467-5.599004C3.875467-5.110834 3.795766-4.60274 3.556663-3.616438H1.474471ZM3.466999-3.297634C3.35741-2.839352 3.148194-1.992528 2.769614-1.275218C2.420922-.597758 2.042341-.109589 1.613948-.109589C1.285181-.109589 1.075965-.398506 1.075965-1.325031C1.075965-1.743462 1.135741-2.321295 1.39477-3.297634H3.466999Z'/>
+<path id='g0-76' d='M3.726027-6.027397C3.815691-6.386052 3.845579-6.495641 4.782067-6.495641C5.080946-6.495641 5.160648-6.495641 5.160648-6.684932C5.160648-6.804483 5.051059-6.804483 5.001245-6.804483C4.672478-6.804483 3.855542-6.774595 3.526775-6.774595C3.227895-6.774595 2.500623-6.804483 2.201743-6.804483C2.132005-6.804483 2.012453-6.804483 2.012453-6.60523C2.012453-6.495641 2.102117-6.495641 2.291407-6.495641C2.311333-6.495641 2.500623-6.495641 2.669988-6.475716C2.849315-6.455791 2.938979-6.445828 2.938979-6.316314C2.938979-6.276463 2.929016-6.246575 2.899128-6.127024L1.564134-.777086C1.464508-.388543 1.444583-.308842 .657534-.308842C.488169-.308842 .388543-.308842 .388543-.109589C.388543 0 .478207 0 .657534 0H5.270237C5.50934 0 5.519303 0 5.579078-.169365L6.366127-2.321295C6.405978-2.430884 6.405978-2.450809 6.405978-2.460772C6.405978-2.500623 6.37609-2.570361 6.286426-2.570361S6.1868-2.520548 6.117061-2.361146C5.778331-1.444583 5.339975-.308842 3.616438-.308842H2.67995C2.540473-.308842 2.520548-.308842 2.460772-.318804C2.361146-.328767 2.331258-.33873 2.331258-.418431C2.331258-.448319 2.331258-.468244 2.381071-.647572L3.726027-6.027397Z'/>
+<path id='g1-50' d='M1.265255-.767123L2.321295-1.793275C3.875467-3.16812 4.473225-3.706102 4.473225-4.702366C4.473225-5.838107 3.576588-6.635118 2.361146-6.635118C1.235367-6.635118 .498132-5.718555 .498132-4.83188C.498132-4.273973 .996264-4.273973 1.026152-4.273973C1.195517-4.273973 1.544209-4.393524 1.544209-4.801993C1.544209-5.061021 1.364882-5.32005 1.016189-5.32005C.936488-5.32005 .916563-5.32005 .886675-5.310087C1.115816-5.957659 1.653798-6.326276 2.231631-6.326276C3.138232-6.326276 3.566625-5.519303 3.566625-4.702366C3.566625-3.905355 3.068493-3.118306 2.520548-2.500623L.607721-.368618C.498132-.259029 .498132-.239103 .498132 0H4.194271L4.473225-1.733499H4.224159C4.174346-1.43462 4.104608-.996264 4.004981-.846824C3.935243-.767123 3.277709-.767123 3.058531-.767123H1.265255Z'/>
+</defs>
+<g id='page1'>
+<path d='M57.00782 17.324219C57.00782 9.49609 29.08982 3.1484-5.355469 3.1484C-39.79688 3.1484-67.71878 9.49609-67.71878 17.324219C-67.71878 25.15234-39.79688 31.4961-5.355469 31.4961C29.08982 31.4961 57.00782 25.15234 57.00782 17.324219Z' stroke='#000' fill='none' stroke-width='.59776'/>
+<path d='M-6.76953 17.324219V-67.7188' stroke='#000' fill='none' stroke-width='.59776'/>
+<path d='M-3.9375 17.324219V-67.7188' stroke='#000' fill='none' stroke-width='.59776'/>
+<path d='M-16.69138-62.0469V6.2734' stroke='#000' fill='none' stroke-width='.59776'/>
+<path d='M-16.691377 10.42188C-16.566377 9.91406-15.855439 7.67188-15.082 6.273438H-18.30075C-17.527314 7.67188-16.816377 9.91406-16.691377 10.42188Z'/>
+<path d='M-16.691377 10.42188C-16.566377 9.91406-15.855439 7.67188-15.082 6.273438H-18.30075C-17.527314 7.67188-16.816377 9.91406-16.691377 10.42188Z' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 -23.23282 -44.7855)'>
+<use x='-5.353977' y='17.323267' xlink:href='#g0-76'/>
+</g>
+<path d='M-5.355469 62.6797V25.53906' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10'/>
+<path d='M-5.355469 21.39065C-5.480469 21.89847-6.191406 24.14065-6.96484 25.539092H-3.74609C-4.519531 24.14065-5.230469 21.89847-5.355469 21.39065Z'/>
+<path d='M-5.355469 21.39065C-5.480469 21.89847-6.191406 24.14065-6.96484 25.539092H-3.74609C-4.519531 24.14065-5.230469 21.89847-5.355469 21.39065Z' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10'/>
+<path d='M-5.355469 62.6797L-64.88278 5.9844' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10' stroke-dasharray='2.98883 2.98883'/>
+<path d='M-5.355469 62.6797L54.17582 5.9844' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10' stroke-dasharray='2.98883 2.98883'/>
+<path d='M-28.32028 42.8359H17.61332' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10'/>
+<path d='M-32.46878 42.83591C-31.96097 42.96091-29.71878 43.671847-28.320343 44.44528V41.22653C-29.71878 41.999972-31.96097 42.71091-32.46878 42.83591Z'/>
+<path d='M-32.46878 42.83591C-31.96097 42.96091-29.71878 43.671847-28.320343 44.44528V41.22653C-29.71878 41.999972-31.96097 42.71091-32.46878 42.83591Z' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10'/>
+<path d='M21.76171 42.83591C21.24999 42.71091 19.01171 41.999972 17.61327 41.22653V44.44528C19.01171 43.671847 21.24999 42.96091 21.76171 42.83591Z'/>
+<path d='M21.76171 42.83591C21.24999 42.71091 19.01171 41.999972 17.61327 41.22653V44.44528C19.01171 43.671847 21.24999 42.96091 21.76171 42.83591Z' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 -4.96752 37.4754)'>
+<use x='-5.353977' y='17.323267' xlink:href='#g1-50'/>
+<use x='-.372637' y='17.323267' xlink:href='#g0-18'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 <!--fig:end-->
 
 **Topic:** [[Elasticity & Materials]], [[Oscillations & Waves]]
@@ -29389,7 +29594,45 @@ Ti2
 
 
 <!--fig:start-->
-![[cuadernillo_2018_p137_fx1.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='125.32436pt' height='130.99626pt' viewBox='-68.01766 -68.01768 125.32436 130.99626'>
+<defs>
+<path id='g0-18' d='M4.533001-4.98132C4.533001-5.638854 4.353674-7.023661 3.337484-7.023661C1.952677-7.023661 .418431-4.214197 .418431-1.932752C.418431-.996264 .707347 .109589 1.613948 .109589C3.01868 .109589 4.533001-2.749689 4.533001-4.98132ZM1.474471-3.616438C1.643836-4.254047 1.843088-5.051059 2.241594-5.758406C2.510585-6.246575 2.879203-6.804483 3.327522-6.804483C3.815691-6.804483 3.875467-6.166874 3.875467-5.599004C3.875467-5.110834 3.795766-4.60274 3.556663-3.616438H1.474471ZM3.466999-3.297634C3.35741-2.839352 3.148194-1.992528 2.769614-1.275218C2.420922-.597758 2.042341-.109589 1.613948-.109589C1.285181-.109589 1.075965-.398506 1.075965-1.325031C1.075965-1.743462 1.135741-2.321295 1.39477-3.297634H3.466999Z'/>
+<path id='g0-76' d='M3.726027-6.027397C3.815691-6.386052 3.845579-6.495641 4.782067-6.495641C5.080946-6.495641 5.160648-6.495641 5.160648-6.684932C5.160648-6.804483 5.051059-6.804483 5.001245-6.804483C4.672478-6.804483 3.855542-6.774595 3.526775-6.774595C3.227895-6.774595 2.500623-6.804483 2.201743-6.804483C2.132005-6.804483 2.012453-6.804483 2.012453-6.60523C2.012453-6.495641 2.102117-6.495641 2.291407-6.495641C2.311333-6.495641 2.500623-6.495641 2.669988-6.475716C2.849315-6.455791 2.938979-6.445828 2.938979-6.316314C2.938979-6.276463 2.929016-6.246575 2.899128-6.127024L1.564134-.777086C1.464508-.388543 1.444583-.308842 .657534-.308842C.488169-.308842 .388543-.308842 .388543-.109589C.388543 0 .478207 0 .657534 0H5.270237C5.50934 0 5.519303 0 5.579078-.169365L6.366127-2.321295C6.405978-2.430884 6.405978-2.450809 6.405978-2.460772C6.405978-2.500623 6.37609-2.570361 6.286426-2.570361S6.1868-2.520548 6.117061-2.361146C5.778331-1.444583 5.339975-.308842 3.616438-.308842H2.67995C2.540473-.308842 2.520548-.308842 2.460772-.318804C2.361146-.328767 2.331258-.33873 2.331258-.418431C2.331258-.448319 2.331258-.468244 2.381071-.647572L3.726027-6.027397Z'/>
+<path id='g1-50' d='M1.265255-.767123L2.321295-1.793275C3.875467-3.16812 4.473225-3.706102 4.473225-4.702366C4.473225-5.838107 3.576588-6.635118 2.361146-6.635118C1.235367-6.635118 .498132-5.718555 .498132-4.83188C.498132-4.273973 .996264-4.273973 1.026152-4.273973C1.195517-4.273973 1.544209-4.393524 1.544209-4.801993C1.544209-5.061021 1.364882-5.32005 1.016189-5.32005C.936488-5.32005 .916563-5.32005 .886675-5.310087C1.115816-5.957659 1.653798-6.326276 2.231631-6.326276C3.138232-6.326276 3.566625-5.519303 3.566625-4.702366C3.566625-3.905355 3.068493-3.118306 2.520548-2.500623L.607721-.368618C.498132-.259029 .498132-.239103 .498132 0H4.194271L4.473225-1.733499H4.224159C4.174346-1.43462 4.104608-.996264 4.004981-.846824C3.935243-.767123 3.277709-.767123 3.058531-.767123H1.265255Z'/>
+</defs>
+<g id='page1'>
+<path d='M57.00782 17.324219C57.00782 9.49609 29.08982 3.1484-5.355469 3.1484C-39.79688 3.1484-67.71878 9.49609-67.71878 17.324219C-67.71878 25.15234-39.79688 31.4961-5.355469 31.4961C29.08982 31.4961 57.00782 25.15234 57.00782 17.324219Z' stroke='#000' fill='none' stroke-width='.59776'/>
+<path d='M-6.76953 17.324219V-67.7188' stroke='#000' fill='none' stroke-width='.59776'/>
+<path d='M-3.9375 17.324219V-67.7188' stroke='#000' fill='none' stroke-width='.59776'/>
+<path d='M-16.69138-62.0469V6.2734' stroke='#000' fill='none' stroke-width='.59776'/>
+<path d='M-16.691377 10.42188C-16.566377 9.91406-15.855439 7.67188-15.082 6.273438H-18.30075C-17.527314 7.67188-16.816377 9.91406-16.691377 10.42188Z'/>
+<path d='M-16.691377 10.42188C-16.566377 9.91406-15.855439 7.67188-15.082 6.273438H-18.30075C-17.527314 7.67188-16.816377 9.91406-16.691377 10.42188Z' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 -23.23282 -44.7855)'>
+<use x='-5.353977' y='17.323267' xlink:href='#g0-76'/>
+</g>
+<path d='M-5.355469 62.6797V25.53906' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10'/>
+<path d='M-5.355469 21.39065C-5.480469 21.89847-6.191406 24.14065-6.96484 25.539092H-3.74609C-4.519531 24.14065-5.230469 21.89847-5.355469 21.39065Z'/>
+<path d='M-5.355469 21.39065C-5.480469 21.89847-6.191406 24.14065-6.96484 25.539092H-3.74609C-4.519531 24.14065-5.230469 21.89847-5.355469 21.39065Z' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10'/>
+<path d='M-5.355469 62.6797L-64.88278 5.9844' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10' stroke-dasharray='2.98883 2.98883'/>
+<path d='M-5.355469 62.6797L54.17582 5.9844' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10' stroke-dasharray='2.98883 2.98883'/>
+<path d='M-28.32028 42.8359H17.61332' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10'/>
+<path d='M-32.46878 42.83591C-31.96097 42.96091-29.71878 43.671847-28.320343 44.44528V41.22653C-29.71878 41.999972-31.96097 42.71091-32.46878 42.83591Z'/>
+<path d='M-32.46878 42.83591C-31.96097 42.96091-29.71878 43.671847-28.320343 44.44528V41.22653C-29.71878 41.999972-31.96097 42.71091-32.46878 42.83591Z' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10'/>
+<path d='M21.76171 42.83591C21.24999 42.71091 19.01171 41.999972 17.61327 41.22653V44.44528C19.01171 43.671847 21.24999 42.96091 21.76171 42.83591Z'/>
+<path d='M21.76171 42.83591C21.24999 42.71091 19.01171 41.999972 17.61327 41.22653V44.44528C19.01171 43.671847 21.24999 42.96091 21.76171 42.83591Z' stroke='#000' fill='none' stroke-width='.59776' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 -4.96752 37.4754)'>
+<use x='-5.353977' y='17.323267' xlink:href='#g1-50'/>
+<use x='-.372637' y='17.323267' xlink:href='#g0-18'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 <!--fig:end-->
 
 **Topic:** [[Elasticity & Materials]], [[Oscillations & Waves]]
@@ -31365,7 +31608,7 @@ realizado en el laboratorio así como el análisis de los datos obtenidos.
 **Topic:** [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -31566,7 +31809,7 @@ la valutazione dei risultati ottenuti e l'analisi dei dati ottenuti.
 **Topic:** [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -31766,7 +32009,7 @@ the laboratory and the analysis of the data obtained.
 **Topic:** [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -32232,7 +32475,7 @@ obtenidos en el ajuste, determine la densidad del líquido expresada en g/cm3.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -32286,7 +32529,7 @@ La densità del liquido espressa in g/cm3 è determinata dal sistema di regolazi
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -32339,7 +32582,7 @@ obtained in the adjustment, determine the density of the liquid expressed in g/c
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -33273,7 +33516,7 @@ f = 4 . f1
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Wave Equation (metodo)|Wave Equation]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -33552,7 +33795,7 @@ f = 4 . f1
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Wave Equation (metodo)|Wave Equation]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -33830,7 +34073,7 @@ f = 4 . f1
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Wave Equation (metodo)|Wave Equation]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -33978,7 +34221,7 @@ conclusiones.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Calorimeter (object)|Calorimeter]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Calorimeter (object)|Calorimeter]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -34121,7 +34364,7 @@ Conclusioni.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Calorimeter (object)|Calorimeter]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Calorimeter (object)|Calorimeter]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -34263,7 +34506,7 @@ The Commission has already taken a number of decisions.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Calorimeter (object)|Calorimeter]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Calorimeter (object)|Calorimeter]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -39588,7 +39831,7 @@ correspondiente.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Curve Fitting (metodo)|Curve Fitting]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -39671,7 +39914,7 @@ corrispondente.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Curve Fitting (metodo)|Curve Fitting]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -39753,7 +39996,7 @@ the corresponding.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Curve Fitting (metodo)|Curve Fitting]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -40063,7 +40306,7 @@ Datos
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -40112,7 +40355,7 @@ Datos
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -40160,7 +40403,7 @@ Data from the report
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -41305,7 +41548,7 @@ valores, gráficos, todo lo que se haya hecho.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Manometer (object)|Manometer]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Manometer (object)|Manometer]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -41399,7 +41642,7 @@ Che le quattro forze fondamentali ti accompagnino!
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Manometer (object)|Manometer]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Manometer (object)|Manometer]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -41492,7 +41735,7 @@ May the four fundamental forces accompany you!
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Manometer (object)|Manometer]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Manometer (object)|Manometer]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -41871,7 +42114,7 @@ consignando el resultado en unidades del sistema MKS.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Sphere (object)|Sphere]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -41958,7 +42201,7 @@ registrando il risultato in unità del sistema MKS.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Sphere (object)|Sphere]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -42044,7 +42287,7 @@ recording the result in units of the MKS system.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Sphere (object)|Sphere]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -42129,7 +42372,7 @@ f) Determine el valor de 𝑔 con su respectiva incertidumbre
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -42209,7 +42452,7 @@ f) Determina il valore di g con la sua relativa incertezza
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -42288,7 +42531,7 @@ The trend
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -43526,7 +43769,7 @@ OAF 2018 - 203
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -43638,7 +43881,7 @@ OAF 2018 - 203
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -43749,7 +43992,7 @@ The following is the list of the Member States' financial statements:
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -43800,7 +44043,7 @@ siguiendo.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Curve Fitting (metodo)|Curve Fitting]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -43846,7 +44089,7 @@ Continuando.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Curve Fitting (metodo)|Curve Fitting]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -43891,7 +44134,7 @@ Keep going.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Curve Fitting (metodo)|Curve Fitting]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -44228,7 +44471,7 @@ resultados.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -44277,7 +44520,7 @@ risultati.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -44325,7 +44568,7 @@ The results.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -45112,7 +45355,7 @@ de tu investigación, ¿corroboran esta ecuación? Explica.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Curve Fitting (metodo)|Curve Fitting]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -45266,7 +45509,7 @@ della tua ricerca, corroborano questa equazione? Spiega.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Curve Fitting (metodo)|Curve Fitting]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -45419,7 +45662,7 @@ Of your research, do they support this equation? - Explain that.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Curve Fitting (metodo)|Curve Fitting]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -45912,7 +46155,7 @@ $$h_s = \frac{1}{\delta_{liq}\,A}(M + n\,m) \qquad (3)$$
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Curve Fitting (metodo)|Curve Fitting]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -45989,7 +46232,7 @@ $$h_s = \frac{1}{\delta_{liq}\,A}(M + n\,m) \qquad (3)$$
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Curve Fitting (metodo)|Curve Fitting]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -46065,7 +46308,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of th
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Curve Fitting (metodo)|Curve Fitting]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -46158,7 +46401,7 @@ $$T = 2\pi \sqrt{\frac{M_t}{\delta_{liq}\,A\,g}} = 2\pi \sqrt{\frac{M_t}{K}} \qq
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Curve Fitting (metodo)|Curve Fitting]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.18](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -46247,7 +46490,7 @@ $$T = 2\pi \sqrt{\frac{M_t}{\delta_{liq}\,A\,g}} = 2\pi \sqrt{\frac{M_t}{K}} \qq
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Curve Fitting (metodo)|Curve Fitting]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.18](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -46335,7 +46578,7 @@ $$T = 2\pi \sqrt{\frac{M_t}{\delta_{liq}\,A\,g}} = 2\pi \sqrt{\frac{M_t}{K}} \qq
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Curve Fitting (metodo)|Curve Fitting]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.18](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -46553,7 +46796,7 @@ Considere g = 10 m/s$^2$
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Spring (object)|Spring]], [[Rope/String (object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Spring (object)|Spring]], [[objects/rope-string-(object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.22](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 
@@ -46581,7 +46824,7 @@ Considera g = 10 m/s$^2$
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Spring (object)|Spring]], [[Rope/String (object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Spring (object)|Spring]], [[objects/rope-string-(object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.22](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -46608,7 +46851,7 @@ Consider g = 10 m/s$^2$
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Spring (object)|Spring]], [[Rope/String (object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Spring (object)|Spring]], [[objects/rope-string-(object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.22](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 

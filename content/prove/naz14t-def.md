@@ -136,7 +136,7 @@ Il riscaldatore viene spento, e il servomeccanismo arrestato, quando il volume d
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1iYCQ6B0X4UGTmWVFXGkoz0ouo-Y7KH63/view)
 **Soluzione:** [[Naz14S def|Soluzioni]]
 
@@ -173,7 +173,7 @@ The heater is turned off, and the service mechanism is shut down when the volume
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1iYCQ6B0X4UGTmWVFXGkoz0ouo-Y7KH63/view)
 **Soluzione:** [[Naz14S def|Soluzioni]]
 

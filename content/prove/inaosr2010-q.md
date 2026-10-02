@@ -405,7 +405,7 @@ If we throw a ball in a shallow water tank, propagation velocity of ripples on t
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Ball (object)|Ball]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1YbZaaO78WFSHIDm7KdY4L6Bb7Z59Fray/view)
 
 
@@ -423,7 +423,7 @@ Se lanciamo una palla in un serbatoio di acqua poco profonda, la velocità di pr
 **Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Ball (object)|Ball]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1YbZaaO78WFSHIDm7KdY4L6Bb7Z59Fray/view)
 
 
@@ -649,7 +649,7 @@ Study the following image of the night sky (a bigger version is printed in your 
 
 <!--fig:start-->
 **Quesito 17**
-![[inaoSr2010-Q_p6_f1.png]]
+![[_attachments/inaosr2010-q/inaosr2010-q_p6_f1.png]]
 <!--fig:end-->
 
 (a) [2] Mark all the four directions on the map.
@@ -677,7 +677,7 @@ Studiate la seguente immagine del cielo notturno (una versione più grande è st
 
 <!--fig:start-->
 **Quesito 17**
-![[inaoSr2010-Q_p6_f1.png]]
+![[_attachments/inaosr2010-q/inaosr2010-q_p6_f1.png]]
 <!--fig:end-->
 
 (a) [2] Segna tutte e quattro le direzioni della mappa.
@@ -753,7 +753,7 @@ Sketch the graph of the reading on the spring balance as a function of $h$.
 
 <!--fig:start-->
 **Quesito 19**
-![[inaoSr2010-Q_p7_f1.png]]
+![[_attachments/inaosr2010-q/inaosr2010-q_p7_f1.png]]
 <!--fig:end-->
 
 (b) [3] For the situation above, sketch the graph of the reading on the electronic scale as a function of $h$.
@@ -767,7 +767,7 @@ In all cases, mark the significant points on the graph and give their coordinate
 **Topic:** [[Fluid Mechanics]], [[Geometric Optics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Block (object)|Block]], [[Spring (object)|Spring]], [[Mirror (object)|Mirror]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Block (object)|Block]], [[Spring (object)|Spring]], [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1YbZaaO78WFSHIDm7KdY4L6Bb7Z59Fray/view)
 
 
@@ -781,7 +781,7 @@ Segnare il grafico della lettura sul bilanciamento di molla in funzione di $h$.
 
 <!--fig:start-->
 **Quesito 19**
-![[inaoSr2010-Q_p7_f1.png]]
+![[_attachments/inaosr2010-q/inaosr2010-q_p7_f1.png]]
 <!--fig:end-->
 
 b) [3] Per la situazione sopra indicata, disegnare il grafico della lettura su scala elettronica come funzione di $h$.
@@ -795,5 +795,5 @@ In tutti i casi, segna i punti significativi del grafico e indica le loro coordi
 **Topic:** [[Fluid Mechanics]], [[Geometric Optics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Block (object)|Block]], [[Spring (object)|Spring]], [[Mirror (object)|Mirror]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Block (object)|Block]], [[Spring (object)|Spring]], [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1YbZaaO78WFSHIDm7KdY4L6Bb7Z59Fray/view)

@@ -45,7 +45,7 @@ La disposizione è illustrata nella figura precedente con i versori $\hat{i}$, $
 **Topic:** [[Electromagnetism]], [[Fluid Mechanics]], [[Wave Optics]]
 **Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1FWwz4qJRF01e7QD9VjSmPLeoRCmlfgoE/view)
 
 
@@ -81,5 +81,5 @@ Now the magnetic field is removed and the mercury replaced with water flowing at
 **Topic:** [[Electromagnetism]], [[Fluid Mechanics]], [[Wave Optics]]
 **Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1FWwz4qJRF01e7QD9VjSmPLeoRCmlfgoE/view)

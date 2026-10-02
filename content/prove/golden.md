@@ -494,7 +494,7 @@ Substituting in the expression for $E(x)$, we can maximize the momentum when: $\
 **Topic:** [[Special Relativity]], [[Conservation of Momentum]]
 **Metodi:** [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Differential Equations (metodo)|Differential Equations]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1IF7PfLE9j_mBh0b02i3AtpLjGKEgUiH_/view)
 
 
@@ -517,7 +517,7 @@ Substituendo l'espressione $E(x)$, possiamo massimizzare l'impulso quando: $\ln(
 **Topic:** [[Special Relativity]], [[Conservation of Momentum]]
 **Metodi:** [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Differential Equations (metodo)|Differential Equations]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1IF7PfLE9j_mBh0b02i3AtpLjGKEgUiH_/view)
 
 

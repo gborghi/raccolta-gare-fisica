@@ -321,7 +321,7 @@ ii) (3 points) Find $\omega_2$, the angular frequency of anti-phase oscillations
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF)](https://drive.google.com/file/d/1wCtA3cOnR-omVwDz1TkLJpSFHj5o9E5g/view)
 
 
@@ -340,7 +340,7 @@ ii) (3 punti) Trova $\omega_2$, la frequenza angolare delle oscillazioni antifas
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF)](https://drive.google.com/file/d/1wCtA3cOnR-omVwDz1TkLJpSFHj5o9E5g/view)
 
 
@@ -407,7 +407,7 @@ iv) (2 points) Now, at $t = 0$, the string forms a very small angle $\varphi$ wi
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Point Charge (object)|Point Charge]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF)](https://drive.google.com/file/d/1wCtA3cOnR-omVwDz1TkLJpSFHj5o9E5g/view)
 
 
@@ -426,7 +426,7 @@ iv) (2 punti) Ora, a $t = 0$, la stringa forma un angolo molto piccolo $\varphi$
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Point Charge (object)|Point Charge]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF)](https://drive.google.com/file/d/1wCtA3cOnR-omVwDz1TkLJpSFHj5o9E5g/view)
 
 

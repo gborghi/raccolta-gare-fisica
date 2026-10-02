@@ -31,7 +31,7 @@ $$
 
 where $s_0 \ll 1$ is a parameter, which depends on the properties of atoms and laser intensity.
 
-![Energy level diagram of the two-level atom](_attachments/APhO_2006_theory/APhO_2006_theory_Q1_p1_f1.png)
+![[prove/_attachments/apho_2006_theory/apho_2006_theory_q1_p1_f1.png|Energy level diagram of the two-level atom]]
 
 Fig. 1. *Note that shown parameters are not in scale.*
 
@@ -98,7 +98,7 @@ $$
 
 dove $s_0 \ll 1$ è un parametro che dipende dalle proprietà degli atomi e dall'intensità del laser.
 
-![Diagramma dei livelli energetici dell'atomo a due livelli](_attachments/APhO_2006_theory/APhO_2006_theory_Q1_p1_f1.png)
+![[prove/_attachments/apho_2006_theory/apho_2006_theory_q1_p1_f1.png|Diagramma dei livelli energetici dell'atomo a due livelli]]
 
 Fig. 1. *Nota che i parametri mostrati non sono in scala.*
 
@@ -166,7 +166,7 @@ When the mechanical system evolves, the corresponding imaging point follows a tr
 
 As an example we present a phase trajectory of a free particle moving along $x$ axis in positive direction (Fig.1).
 
-![Phase trajectory of a free particle](_attachments/APhO_2006_theory/APhO_2006_theory_Q2_p1_f1.png)
+![[prove/_attachments/apho_2006_theory/apho_2006_theory_q2_p1_f1.png|Phase trajectory of a free particle]]
 
 Fig. 1. Phase trajectory of a free particle.
 
@@ -224,7 +224,7 @@ Quando il sistema meccanico si evolve, il corrispondente punto di imaging segue 
 
 Come esempio, si presenta una traiettoria di fase di una particella libera che si muove lungo l'asse $x$ in direzione positiva (Fig.1).
 
-![Trajectoria di fase di una particella libera](_attaccamenti/APhO_2006_theory/APhO_2006_theory_Q2_p1_f1.png)
+![[prove/_attachments/apho_2006_theory/apho_2006_theory_q2_p1_f1.png|Trajectoria di fase di una particella libera]]
 
 Fig. - Cosa? 1. Traettoria di fase di una particella libera.
 
@@ -309,7 +309,7 @@ C2) What are the charges of the plates $Q_\beta$ and $Q_\gamma$ after the collis
 
 C3) What is the velocity $\upsilon$ of the plate $\gamma$ after the collision at the distance $d$ from the plate $\beta$?
 
-![Three parallel plates α, β, γ with charges −Q, +q, +Q and separation d](_attachments/APhO_2006_theory/APhO_2006_theory_Q3_p2_f1.png)
+![[prove/_attachments/apho_2006_theory/apho_2006_theory_q3_p2_f1.png|Three parallel plates α, β, γ with charges −Q, +q, +Q and separation d]]
 
 Fig. 1
 
@@ -361,7 +361,7 @@ C2) Quali sono le cariche delle piastre $Q_\beta$ e $Q_\gamma$ dopo l'urto?
 
 C3) Qual è la velocità $\upsilon$ della piastra $\gamma$ dopo l'urto, alla distanza $d$ dalla piastra $\beta$?
 
-![Tre piastre parallele α, β, γ con cariche −Q, +q, +Q e separazione d](_attachments/APhO_2006_theory/APhO_2006_theory_Q3_p2_f1.png)
+![[prove/_attachments/apho_2006_theory/apho_2006_theory_q3_p2_f1.png|Tre piastre parallele α, β, γ con cariche −Q, +q, +Q e separazione d]]
 
 Fig. 1
 

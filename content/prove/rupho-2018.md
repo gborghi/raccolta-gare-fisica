@@ -36,7 +36,7 @@ the shortest possible time?
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Pipe/Tube (object)|Pipe/Tube]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Pk3yd4gzIvhPuFjirtOkxRmWbH7GAAlx/view)
 
 
@@ -59,7 +59,7 @@ il più breve tempo possibile?
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Pipe/Tube (object)|Pipe/Tube]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Pk3yd4gzIvhPuFjirtOkxRmWbH7GAAlx/view)
 
 

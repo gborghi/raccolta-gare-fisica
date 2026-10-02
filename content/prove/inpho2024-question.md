@@ -28,7 +28,7 @@ Professor Coulomb was investigating how the magnitude of the force ($|\vec{F}|$)
 
 <!--fig:start-->
 **Quesito 1**
-![[INPHO2024-Question_p2_f1.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p2_f1.png]]
 <!--fig:end-->
 
 Figure out which measurement (A, B, C, D) belongs to which experiment (1, 2, 3, 4). Explain your answers in the detailed answersheet. You may draw diagrams, if necessary.
@@ -56,7 +56,7 @@ Il professor Coulomb stava studiando come la grandezza della forza ($|\vec{F}|$)
 
 <!--fig:start-->
 **Quesito 1**
-![[INPHO2024-Question_p2_f1.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p2_f1.png]]
 <!--fig:end-->
 
 Scoprire quale misura (A, B, C, D) appartiene a quale esperimento (1, 2, 3, 4). Spiega le tue risposte nella scheda dettagliata. Se necessario, potete disegnare diagrammi.
@@ -87,21 +87,21 @@ In his letter, Professor Joseph began to sketch a figure to illustrate the metho
 
 <!--fig:start-->
 **Quesito 2**
-![[INPHO2024-Question_p2_f2.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p2_f2.png]]
 <!--fig:end-->
 
 (b) **[1.5 marks]** Consider a right-angled isosceles prism as depicted below. The prism is placed on a table ($x$-$y$ plane). The triangular faces are non-refracting surfaces. The refractive index of the prism is 1.50. The sides AB = AC = AD = 1 unit. The prism is positioned such that point D is at the origin, with the axes defined in the figure. An arrow-shaped object is pasted on the face BCFE of the prism as shown. Draw the image of the object as seen by an observer in front of the face BCFE.
 
 <!--fig:start-->
 **Quesito 2**
-![[INPHO2024-Question_p3_f1.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p3_f1.png]]
 <!--fig:end-->
 
 (c) **[1.5 marks]** Now an object, shaped like the letter "P" as illustrated in the left figure below, is held in front of the face ABED of the prism, placed on a table ($x$-$y$ plane). The corresponding top view of this configuration is also presented in the right figure below.
 
 <!--fig:start-->
 **Quesito 2**
-![[INPHO2024-Question_p3_f2.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p3_f2.png]]
 <!--fig:end-->
 
 Draw the image of the "P" as seen by an observer in front the face ACFD. Additionally, draw a qualitative ray diagram illustrating the image formation.
@@ -110,14 +110,14 @@ Draw the image of the "P" as seen by an observer in front the face ACFD. Additio
 
 <!--fig:start-->
 **Quesito 2**
-![[INPHO2024-Question_p3_f3.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p3_f3.png]]
 <!--fig:end-->
 
 A specific experiment requires placing the prism A'B'C'D'E'F' in combination with the existing setup so that the following image (as shown below) of the object "P" can be obtained.
 
 <!--fig:start-->
 **Quesito 2**
-![[INPHO2024-Question_p3_f4.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p3_f4.png]]
 <!--fig:end-->
 
 Without disturbing the prism ABCDEF, where and how would you hold the prism A'B'C'D'E'F' to achieve this resultant image?
@@ -130,7 +130,7 @@ Provide your answer in terms of the coordinates of the vertices of the prism A'B
 
 <!--fig:start-->
 **Quesito 2**
-![[INPHO2024-Question_p4_f1.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p4_f1.png]]
 <!--fig:end-->
 
 Find the angle ($\beta$) between the bases of the two prisms if each prism is individually adjusted for minimum deviation for the respective incident rays. Obtain the total deviation $\delta$ of the beam of light in this configuration. Express your answers in terms of $\mu_1, \mu_2, A$. Calculate $\beta$ and $\delta$ in degrees.
@@ -156,21 +156,21 @@ Nella sua lettera, il professor Joseph cominciò a disegnare una figura per illu
 
 <!--fig:start-->
 **Quesito 2**
-![[INPHO2024-Question_p2_f2.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p2_f2.png]]
 <!--fig:end-->
 
 b) **[1,5 punti]** Considerate un prisma a angolo retto con isosceles come illustrato di seguito. Il prisma è posizionato su un tavolo (piano $x$-$y$). Le facce triangolari sono superfici non refratte. L'indice di rifrazione del prisma è di 1,50. I lati AB = AC = AD = 1 unità. Il prisma è posizionato in modo tale che il punto D sia all'origine, con gli assi definiti nella figura. Un oggetto a forma di freccia è incollato sulla facciata BCFE del prisma come mostrato. Disegnare l'immagine dell'oggetto vista da un osservatore davanti alla faccia BCFE.
 
 <!--fig:start-->
 **Quesito 2**
-![[INPHO2024-Question_p3_f1.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p3_f1.png]]
 <!--fig:end-->
 
 (c) **[1,5 segni]** Ora un oggetto, a forma della lettera "P" come illustrato nella figura a sinistra qui sotto, è tenuto davanti alla faccia ABED del prisma, posizionato su un tavolo ($x$-$y$ piano). La corrispondente vista superiore di questa configurazione è presentata anche nella figura a destra qui sotto.
 
 <!--fig:start-->
 **Quesito 2**
-![[INPHO2024-Question_p3_f2.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p3_f2.png]]
 <!--fig:end-->
 
 Disegnare l'immagine della "P" vista da un osservatore davanti al viso ACFD. Inoltre, disegna un diagramma di raggi qualitativo che illustra la formazione dell'immagine.
@@ -179,14 +179,14 @@ Disegnare l'immagine della "P" vista da un osservatore davanti al viso ACFD. Ino
 
 <!--fig:start-->
 **Quesito 2**
-![[INPHO2024-Question_p3_f3.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p3_f3.png]]
 <!--fig:end-->
 
 Un esperimento specifico richiede di posizionare il prisma A'B'C'D'E'F' in combinazione con l'impostazione esistente in modo da ottenere la seguente immagine (come mostrato di seguito) dell'oggetto "P".
 
 <!--fig:start-->
 **Quesito 2**
-![[INPHO2024-Question_p3_f4.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p3_f4.png]]
 <!--fig:end-->
 
 Senza disturbare il prisma ABCDEF, dove e come si potrebbe tenere il prisma A'B'C'D'E'F' per ottenere questa immagine risultante?
@@ -199,7 +199,7 @@ Fornisci la tua risposta in termini di coordinate delle vertici del prisma A'B'C
 
 <!--fig:start-->
 **Quesito 2**
-![[INPHO2024-Question_p4_f1.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p4_f1.png]]
 <!--fig:end-->
 
 Trova l'angolo ($\beta$) tra le basi dei due prismi se ciascun prisma è individualmente regolato per la deviazione minima dei rispettivi raggi incidenti. Ottenere la deviazione totale $\delta$ del fascio luminoso in questa configurazione. Esprimere le risposte in termini di $\mu_1, \mu_2, A$. Calcolare $\beta$ e $\delta$ in gradi.
@@ -225,7 +225,7 @@ On July 14, 2023, India's lunar mission satellite, Chandrayaan-3, was successful
 
 <!--fig:start-->
 **Quesito 3**
-![[INPHO2024-Question_p4_f2.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p4_f2.png]]
 <!--fig:end-->
 
 In this problem, we will explore the physics governing some part of its journey, employing a simplified model. For all parts of this problem except part (f), we consider Chandrayaan-3 to be moving only under the influence of Earth's gravity (a central force).
@@ -234,7 +234,7 @@ In this problem, we will explore the physics governing some part of its journey,
 
 <!--fig:start-->
 **Quesito 3**
-![[INPHO2024-Question_p5_f1.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p5_f1.png]]
 <!--fig:end-->
 
 The equation of the ellipse can be written in polar coordinates as
@@ -273,7 +273,7 @@ Il 14 luglio 2023, il satellite lunare dell'India, Chandrayaan-3, è stato lanci
 
 <!--fig:start-->
 **Quesito 3**
-![[INPHO2024-Question_p4_f2.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p4_f2.png]]
 <!--fig:end-->
 
 In questo problema, esploreremo la fisica che governa una parte del suo viaggio, utilizzando un modello semplificato. Per tutte le parti di questo problema tranne la parte (f), consideriamo che Chandrayaan-3 si muova solo sotto l'influenza della gravità terrestre (una forza centrale).
@@ -282,7 +282,7 @@ In questo problema, esploreremo la fisica che governa una parte del suo viaggio,
 
 <!--fig:start-->
 **Quesito 3**
-![[INPHO2024-Question_p5_f1.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p5_f1.png]]
 <!--fig:end-->
 
 L'equazione dell'ellisse può essere scritta in coordinate polari come
@@ -328,7 +328,7 @@ $$\vec{B} = \begin{cases} B\hat{z} & \text{for } x \le 0 \\ 0 & \text{for } x \g
 
 <!--fig:start-->
 **Quesito 4**
-![[INPHO2024-Question_p6_f1.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p6_f1.png]]
 <!--fig:end-->
 
 (a) **[5 marks]** Obtain $x(t)$, the position of the bottom edge of the loop at time $t$, in terms of relevant variables.
@@ -353,7 +353,7 @@ $$\vec{B} = \begin{cases} B\hat{z} & \text{for } x \le 0 \\ 0 & \text{for } x \g
 
 <!--fig:start-->
 **Quesito 4**
-![[INPHO2024-Question_p6_f1.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p6_f1.png]]
 <!--fig:end-->
 
 a) **[5 punti]** Ottenere $x(t)$, la posizione del bordo inferiore del ciclo in tempo $t$, in termini di variabili pertinenti.
@@ -381,7 +381,7 @@ Consider a horizontal insulated cylindrical tube of very large length. Two ident
 
 <!--fig:start-->
 **Quesito 5**
-![[INPHO2024-Question_p7_f1.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p7_f1.png]]
 <!--fig:end-->
 
 Initially, the pistons are held in place by an external mechanism. At time $t = 0$, the mechanism is released and the pistons move without friction and the process is quasistatic initially. Assume that the gas behaves ideally throughout. Let $C_p$ and $C_v$ be the specific heats of the gas at constant pressure and volume respectively. Also, $\gamma = C_p/C_v = 5/3$.
@@ -414,7 +414,7 @@ Considerate un tubo cilindrico isolato orizzontale di lunghezza molto grande. Du
 
 <!--fig:start-->
 **Quesito 5**
-![[INPHO2024-Question_p7_f1.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p7_f1.png]]
 <!--fig:end-->
 
 Inizialmente, i pistoni sono tenuti in posizione da un meccanismo esterno. Al tempo $t = 0$, il meccanismo viene rilasciato e i pistoni si muovono senza attrito e il processo è inizialmente quasi-istatico. Supponiamo che il gas si comporti in modo ideale in tutto il suo tempo. La temperatura specifica del gas a pressione e volume costanti è $C_p$ e $C_v$. Inoltre, $\gamma = C_p/C_v = 5/3$.
@@ -454,7 +454,7 @@ Dheera positions her smartphone near the open end of the tube to measure the fre
 
 <!--fig:start-->
 **Quesito 6**
-![[INPHO2024-Question_p7_f2.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p7_f2.png]]
 <!--fig:end-->
 
 | Time $t$ (s) | Frequency $f$ (Hz) | Time $t$ (s) | Frequency $f$ (Hz) |
@@ -478,7 +478,7 @@ Help her to analyse the experiment.
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/19BIdVESzJ5kLWXkRKmx9J2Qy0gVAsBZQ/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kCHJ-5CleGcc2ZIYdhj9grOn3tt8UOzp/view)
 
@@ -493,7 +493,7 @@ Dheera posiziona il suo smartphone vicino all'estremità aperta del tubo per mis
 
 <!--fig:start-->
 **Quesito 6**
-![[INPHO2024-Question_p7_f2.png]]
+![[_attachments/inpho2024-question/inpho2024-question_p7_f2.png]]
 <!--fig:end-->
 
 | Time $t$ (s) | Frequency $f$ (Hz) | Time $t$ (s) | Frequency $f$ (Hz) |
@@ -517,6 +517,6 @@ b) **[8 punti]** Scegliere una coppia di variabili adatte e disegnare un grafico
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/19BIdVESzJ5kLWXkRKmx9J2Qy0gVAsBZQ/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kCHJ-5CleGcc2ZIYdhj9grOn3tt8UOzp/view)

@@ -198,7 +198,7 @@ What quantitative and qualitative information can you obtain from the display?
 **Topic:** [[Electromagnetic Induction]], [[Newtonian Mechanics]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lenz's Law (metodo)|Lenz's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Magnet (object)|Magnet]], [[Coil (object)|Coil]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Magnet (object)|Magnet]], [[Coil (object)|Coil]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1dgL9Y_9PEw86jLXEVQJSdASKymZcb3J1/view)
 
 
@@ -220,7 +220,7 @@ Quali informazioni quantitative e qualitative potete ottenere dall'esposizione?
 **Topic:** [[Electromagnetic Induction]], [[Newtonian Mechanics]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lenz's Law (metodo)|Lenz's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Magnet (object)|Magnet]], [[Coil (object)|Coil]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Magnet (object)|Magnet]], [[Coil (object)|Coil]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1dgL9Y_9PEw86jLXEVQJSdASKymZcb3J1/view)
 
 

@@ -310,7 +310,7 @@ A ray of light passes through a thick glass sheet with some angle of incidence $
 
 <!--fig:start-->
 **Quesito 8**
-![[INJSO2018-Question_p4_f1.png]]
+![[_attachments/injso2018-question/injso2018-question_p4_f1.png]]
 <!--fig:end-->
 
 - (a) Exactly d/DC.
@@ -332,7 +332,7 @@ Un raggio di luce passa attraverso un vetro spessore con un'angolazione di incid
 
 <!--fig:start-->
 **Quesito 8**
-![[INJSO2018-Question_p4_f1.png]]
+![[_attachments/injso2018-question/injso2018-question_p4_f1.png]]
 <!--fig:end-->
 
 - (a) Esattamente d/DC.
@@ -443,7 +443,7 @@ A beaker of mass 50 g, with 262 g of water in it, is kept on a weighing machine.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Ball (object)|Ball]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Ball (object)|Ball]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1SB3wIdMXQzGUKTe6k9BqWEN9i7Kpbm1g/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HtYsRIZkygCweQIe9Gg3A8pMiYHHYZah/view)
 
@@ -460,7 +460,7 @@ Un calice di massa 50 g, con 262 g di acqua, è tenuto su una pesatrice. Una pal
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Ball (object)|Ball]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Ball (object)|Ball]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1SB3wIdMXQzGUKTe6k9BqWEN9i7Kpbm1g/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HtYsRIZkygCweQIe9Gg3A8pMiYHHYZah/view)
 
@@ -677,28 +677,28 @@ a) Translational vibration perpendicular to X-axis.
 
 <!--fig:start-->
 **Quesito 17**
-![[INJSO2018-Question_p6_f1.png]]
+![[_attachments/injso2018-question/injso2018-question_p6_f1.png]]
 <!--fig:end-->
 
 b) The bar magnet axis is turned to make an acute angle with the X-axis and the magnet is rotated about X-axis with the south pole fixed on X-axis.
 
 <!--fig:start-->
 **Quesito 17**
-![[INJSO2018-Question_p6_f2.png]]
+![[_attachments/injso2018-question/injso2018-question_p6_f2.png]]
 <!--fig:end-->
 
 c) The bar magnet axis is swinging back and forth about the X-axis with the south pole fixed on the X-axis.
 
 <!--fig:start-->
 **Quesito 17**
-![[INJSO2018-Question_p6_f3.png]]
+![[_attachments/injso2018-question/injso2018-question_p6_f3.png]]
 <!--fig:end-->
 
 d) The bar magnet spins about a perpendicular bisector to its axis of rotation, with its center on the X-axis.
 
 <!--fig:start-->
 **Quesito 17**
-![[INJSO2018-Question_p6_f4.png]]
+![[_attachments/injso2018-question/injso2018-question_p6_f4.png]]
 <!--fig:end-->
 
 **Topic:** [[Electromagnetic Induction]]
@@ -717,28 +717,28 @@ a) Vibrazione traslazionale perpendicolare all'asse X.
 
 <!--fig:start-->
 **Quesito 17**
-![[INJSO2018-Question_p6_f1.png]]
+![[_attachments/injso2018-question/injso2018-question_p6_f1.png]]
 <!--fig:end-->
 
 b) L'asse del magnete della barra è girato per formare un angolo acuto con l'asse X e il magnete è girato attorno all'asse X con il polo sud fissato sull'asse X.
 
 <!--fig:start-->
 **Quesito 17**
-![[INJSO2018-Question_p6_f2.png]]
+![[_attachments/injso2018-question/injso2018-question_p6_f2.png]]
 <!--fig:end-->
 
 c) L'asse del magnete della barra oscilla avanti e indietro intorno all'asse X con il polo sud fissato sull'asse X.
 
 <!--fig:start-->
 **Quesito 17**
-![[INJSO2018-Question_p6_f3.png]]
+![[_attachments/injso2018-question/injso2018-question_p6_f3.png]]
 <!--fig:end-->
 
 d) Il magnete di barra ruota intorno a un bisettore perpendicolare al suo asse di rotazione, con il suo centro sull'asse X.
 
 <!--fig:start-->
 **Quesito 17**
-![[INJSO2018-Question_p6_f4.png]]
+![[_attachments/injso2018-question/injso2018-question_p6_f4.png]]
 <!--fig:end-->
 
 **Topic:** [[Electromagnetic Induction]]
@@ -838,7 +838,7 @@ Observe the following diagram carefully. Concentration of solution in each test 
 
 <!--fig:start-->
 **Quesito 20**
-![[INJSO2018-Question_p7_f1.png]]
+![[_attachments/injso2018-question/injso2018-question_p7_f1.png]]
 <!--fig:end-->
 
 - (a) P & R
@@ -849,7 +849,7 @@ Observe the following diagram carefully. Concentration of solution in each test 
 **Topic:** [[Chemistry]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1SB3wIdMXQzGUKTe6k9BqWEN9i7Kpbm1g/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HtYsRIZkygCweQIe9Gg3A8pMiYHHYZah/view)
 
@@ -860,7 +860,7 @@ Osservate attentamente il seguente diagramma. La concentrazione di soluzione in 
 
 <!--fig:start-->
 **Quesito 20**
-![[INJSO2018-Question_p7_f1.png]]
+![[_attachments/injso2018-question/injso2018-question_p7_f1.png]]
 <!--fig:end-->
 
 - (a) P & R
@@ -871,7 +871,7 @@ Osservate attentamente il seguente diagramma. La concentrazione di soluzione in 
 **Topic:** [[Chemistry]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1SB3wIdMXQzGUKTe6k9BqWEN9i7Kpbm1g/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HtYsRIZkygCweQIe9Gg3A8pMiYHHYZah/view)
 
@@ -887,7 +887,7 @@ When two equimolar salt solutions are separated by a selectively permeable membr
 
 <!--fig:start-->
 **Quesito 21**
-![[INJSO2018-Question_p7_f2.png]]
+![[_attachments/injso2018-question/injso2018-question_p7_f2.png]]
 <!--fig:end-->
 
 Hint: MW of NaCl: 58.4g/mol   MW of Urea: 60 g/mol.
@@ -913,7 +913,7 @@ Quando due soluzioni di sale equimolari sono separate da una membrana selettivam
 
 <!--fig:start-->
 **Quesito 21**
-![[INJSO2018-Question_p7_f2.png]]
+![[_attachments/injso2018-question/injso2018-question_p7_f2.png]]
 <!--fig:end-->
 
 Suggerimento: MW di NaCl: 58,4 g/mol MW di Urea: 60 g/mol.
@@ -950,7 +950,7 @@ When 0.7 L of Hydrogen at 0.8 bar and 1.5 L of Oxygen at 0.6 bar are introduced 
 **Topic:** [[Chemistry]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1SB3wIdMXQzGUKTe6k9BqWEN9i7Kpbm1g/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HtYsRIZkygCweQIe9Gg3A8pMiYHHYZah/view)
 
@@ -967,7 +967,7 @@ Quando 0,7 L di idrogeno a 0,8 bar e 1,5 L di ossigeno a 0,6 bar vengono introdo
 **Topic:** [[Chemistry]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1SB3wIdMXQzGUKTe6k9BqWEN9i7Kpbm1g/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HtYsRIZkygCweQIe9Gg3A8pMiYHHYZah/view)
 
@@ -983,7 +983,7 @@ Cone cells in human eye are responsible for color vision. The cone cells are of 
 
 <!--fig:start-->
 **Quesito 23**
-![[INJSO2018-Question_p8_f1.png]]
+![[_attachments/injso2018-question/injso2018-question_p8_f1.png]]
 <!--fig:end-->
 
 Which of the cone cell(s) will respond to wavelengths in the orange region?
@@ -1007,7 +1007,7 @@ Le cellule conicolari dell'occhio umano sono responsabili della visione dei colo
 
 <!--fig:start-->
 **Quesito 23**
-![[INJSO2018-Question_p8_f1.png]]
+![[_attachments/injso2018-question/injso2018-question_p8_f1.png]]
 <!--fig:end-->
 
 Quale delle celle conico (s) reagirà alle lunghezze d'onda nella regione arancione?
@@ -1261,7 +1261,7 @@ Two identical circular rings are placed in a plane such a way that they pass thr
 
 <!--fig:start-->
 **Quesito 29**
-![[INJSO2018-Question_p10_f1.png]]
+![[_attachments/injso2018-question/injso2018-question_p10_f1.png]]
 <!--fig:end-->
 
 - (a) 1/18 W
@@ -1283,7 +1283,7 @@ Due anelli circolari identici sono collocati in un piano in modo tale che passin
 
 <!--fig:start-->
 **Quesito 29**
-![[INJSO2018-Question_p10_f1.png]]
+![[_attachments/injso2018-question/injso2018-question_p10_f1.png]]
 <!--fig:end-->
 
 - (a) 1/18 W
@@ -1310,7 +1310,7 @@ In the circuit shown below, the internal resistance of the battery is 1.5 Ω and
 
 <!--fig:start-->
 **Quesito 30**
-![[INJSO2018-Question_p10_f2.png]]
+![[_attachments/injso2018-question/injso2018-question_p10_f2.png]]
 <!--fig:end-->
 
 - (a) − 2.5 V
@@ -1332,7 +1332,7 @@ Nel circuito riportato di seguito, la resistenza interna della batteria è di 1,
 
 <!--fig:start-->
 **Quesito 30**
-![[INJSO2018-Question_p10_f2.png]]
+![[_attachments/injso2018-question/injso2018-question_p10_f2.png]]
 <!--fig:end-->
 
 - (a) − 2.5 V
@@ -1446,7 +1446,7 @@ iii. The site of oxidation of pyruvic acid for generation of end products such a
 
 <!--fig:start-->
 **Quesito 33**
-![[INJSO2018-Question_p12_f1.png]]
+![[_attachments/injso2018-question/injso2018-question_p12_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Biology]], [[Chemistry]]
@@ -1476,7 +1476,7 @@ iii. Il sito di ossidazione dell'acido piruvico per la produzione di prodotti fi
 
 <!--fig:start-->
 **Quesito 33**
-![[INJSO2018-Question_p12_f1.png]]
+![[_attachments/injso2018-question/injso2018-question_p12_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Biology]], [[Chemistry]]
@@ -1600,7 +1600,7 @@ Inheritance of traits in humans is studied by analyzing the presence or absence 
 
 <!--fig:start-->
 **Quesito 36**
-![[INJSO2018-Question_p14_f1.png]]
+![[_attachments/injso2018-question/injso2018-question_p14_f1.png]]
 <!--fig:end-->
 
 The pedigree suggests that the genetic disorder could be either autosomal recessive or X-linked recessive.
@@ -1638,7 +1638,7 @@ L'eredità dei tratti negli esseri umani viene studiata analizzando la presenza 
 
 <!--fig:start-->
 **Quesito 36**
-![[INJSO2018-Question_p14_f1.png]]
+![[_attachments/injso2018-question/injso2018-question_p14_f1.png]]
 <!--fig:end-->
 
 Il pedigree suggerisce che il disturbo genetico potrebbe essere recessivo autosomico o recessivo legato a X.
@@ -1695,7 +1695,7 @@ During accelerated motion of the water tank an air bubble trapped inside will mo
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Bubble (object)|Bubble]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Bubble (object)|Bubble]]
 **Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1SB3wIdMXQzGUKTe6k9BqWEN9i7Kpbm1g/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HtYsRIZkygCweQIe9Gg3A8pMiYHHYZah/view)
 
@@ -1720,7 +1720,7 @@ Durante il movimento accelerato del serbatoio d'acqua una bolla d'aria intrappol
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Bubble (object)|Bubble]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Bubble (object)|Bubble]]
 **Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1SB3wIdMXQzGUKTe6k9BqWEN9i7Kpbm1g/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HtYsRIZkygCweQIe9Gg3A8pMiYHHYZah/view)
 
@@ -1888,7 +1888,7 @@ A) The electrostatic potential difference $V_B - V_A$ between two points A & B, 
 
 <!--fig:start-->
 **Quesito 40**
-![[INJSO2018-Question_p17_f1.png]]
+![[_attachments/injso2018-question/injso2018-question_p17_f1.png]]
 <!--fig:end-->
 
 B) Two helicopters X and Y are hovering at a distance of 80 m from each other and 10 m above the surface of sea (near the Antarctic). The two helicopters have sound detectors. Helicopter X is stationary, vertically above a 50 m thick block of ice. (For the purpose of calculation, the vertical section of the block can be considered as rectangle). A Blue whale (W) is stationary vertically below X and 50 m below the water surface in such a way that there is no line of sight between Whale W and helicopter Y. This line of sight intersects water surface at point M. [Total=3 marks]
@@ -1912,7 +1912,7 @@ A) La differenza di potenziale elettrostatico $V_B - V_A$ tra due punti A e B, c
 
 <!--fig:start-->
 **Quesito 40**
-![[INJSO2018-Question_p17_f1.png]]
+![[_attachments/injso2018-question/injso2018-question_p17_f1.png]]
 <!--fig:end-->
 
 B) Due elicotteri X e Y sono in galleggiamento a una distanza di 80 m l'uno dall'altro e di 10 m sopra la superficie del mare (vicino all'Antartide). I due elicotteri hanno rilevatori sonori. L'elicottero X è fermo, verticalmente sopra un blocco di ghiaccio speso di 50 m. (A fini di calcolo, la sezione verticale del blocco può essere considerata rettangolare). Una balena blu (W) è stazionata verticalmente sotto X e 50 m sotto la superficie dell'acqua in modo tale che non vi sia linea di vista tra Balena W e elicottero Y. Questa linea di visione interseca la superficie dell'acqua al punto M. [Total=3 punti]
@@ -1978,7 +1978,7 @@ A) An analysis of food chains and the energy flow within an ecosystem provides i
 
 <!--fig:start-->
 **Quesito 42**
-![[INJSO2018-Question_p19_f1.png]]
+![[_attachments/injso2018-question/injso2018-question_p19_f1.png]]
 <!--fig:end-->
 
 The grass in the above ecosystem transducer 120,000 J of sunlight and fixes it into 12,000 J of energy. It is established that 90% of the energy of one trophic level is not passed to the next trophic level. Further assume that the energy transferred from one trophic level to the next is equally shared among the different organisms at that trophic level. [Total=5 marks]
@@ -2022,7 +2022,7 @@ A) Un'analisi delle catene alimentari e del flusso energetico all'interno di un 
 
 <!--fig:start-->
 **Quesito 42**
-![[INJSO2018-Question_p19_f1.png]]
+![[_attachments/injso2018-question/injso2018-question_p19_f1.png]]
 <!--fig:end-->
 
 L'erba del sistema ecologico di cui sopra trasdue 120.000 J di luce solare e la fissa in 12.000 J di energia. Si constata che il 90% dell'energia di un livello trofico non viene trasmesso al livello trofico successivo. Supponiamo inoltre che l'energia trasferita da un livello trofico all'altro sia ugualmente condivisa tra i diversi organismi a quel livello trofico. [Total=5 punti]

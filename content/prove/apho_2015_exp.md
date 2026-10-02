@@ -24,7 +24,7 @@ tags:
 The piezoelectric effect refers to the process whereby electric charge accumulates in solid materials in response to applied mechanical stress (see Figure 1(a)). It is reversible, which means that materials exhibiting the piezoelectric effect also exhibit the **converse piezoelectric effect**, i.e. the internal generation of a mechanical strain resulting from an applied electric field (see Figure 1(b)).
 
 <!--fig:start-->
-![[APhO_2015_exp_p3_f1.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p3_f1.png]]
 *Figure 1. (a) The piezoelectric effect. Left: a yellow piezoelectric cube under no mechanical stress. Right: the electric charge accumulates on opposite surfaces of the cube in response to applied mechanical stress. (b) The converse piezoelectric effect. Left: without applying an electric field, the cube is un-stressed and remains in its natural shape. Right: the cube is stressed and deformed resulting from an applied electric field.*
 <!--fig:end-->
 
@@ -76,7 +76,7 @@ In this APhO 2015 experiment, we explore the properties of PZT and its applicati
 - Press the "MODE" button to toggle units between "g", "gn", "oz", "ozt", "dwt", "ct" and "tl". It is recommended that you use the unit "g" (gram).
 
 <!--fig:start-->
-![[APhO_2015_exp_p7_f2.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p7_f2.png]]
 *Figure 2. An electronic weighing scale.*
 <!--fig:end-->
 
@@ -90,12 +90,12 @@ In this APhO 2015 experiment, we explore the properties of PZT and its applicati
 - If you press a button by mistake and do not know how to return to the original configuration, restart the machine to restore the default configuration.
 
 <!--fig:start-->
-![[APhO_2015_exp_p8_f3.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p8_f3.png]]
 *Figure 3. A signal generator.*
 <!--fig:end-->
 
 <!--fig:start-->
-![[APhO_2015_exp_p8_f4.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p8_f4.png]]
 *Figure 4. Two symptoms of signal clipping. (a) Signal clipping when the DC offset is nonzero. (b) Signal clipping when the output amplitude is too large.*
 <!--fig:end-->
 
@@ -109,7 +109,7 @@ In this APhO 2015 experiment, we explore the properties of PZT and its applicati
 - **Attention:** although it is usable for the experiment with frequencies up to $40\ \mathrm{kHz}$, the DMM is not designed for accurately measuring the amplitude values of AC signals above $1\ \mathrm{kHz}$. To calibrate the output voltage of the signal generator using the DMM, you should set the signal frequency to $1\ \mathrm{kHz}$ or below.
 
 <!--fig:start-->
-![[APhO_2015_exp_p9_f5.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p9_f5.png]]
 *Figure 5. A digital multimeter.*
 <!--fig:end-->
 
@@ -124,7 +124,7 @@ In this APhO 2015 experiment, we explore the properties of PZT and its applicati
 - It is recommended that you ramp up the temperature gradually from low to high during the experiment.
 
 <!--fig:start-->
-![[APhO_2015_exp_p10_f6.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p10_f6.png]]
 *Figure 6. A thermostat water bath.*
 <!--fig:end-->
 
@@ -152,7 +152,7 @@ Now calculate the density $\rho$ and the relative permittivity $\varepsilon_r$ o
 ### Experiment B — The resonant method to measure the piezoelectric coefficient [4.5 pts]
 
 <!--fig:start-->
-![[APhO_2015_exp_p12_f7.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p12_f7.png]]
 *Figure 7. The PZT plate.*
 <!--fig:end-->
 
@@ -179,7 +179,7 @@ The PZT plate performs like a pure capacitor (with a capacitance $C$ from A.1) w
 The first resonant frequency $f_r$ of the plate is associated with its fundamental vibration mode along the length direction ($x$-axis). Near $f_r$, the PZT plate can be approximated by a simple circuit, with two capacitors ($C_0$ and $C_1$) and an inductor ($L_1$) being arranged as shown in Figure 8.
 
 <!--fig:start-->
-![[APhO_2015_exp_p13_f8.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p13_f8.png]]
 *Figure 8. The equivalent circuit model (in response to an external signal drive) of the PZT plate near its first resonant frequency. The PZT plate vibrates in its fundamental mode. Under the free boundary condition, the middle point along the length direction is the node.*
 <!--fig:end-->
 
@@ -193,7 +193,7 @@ $$d = \sqrt{\dfrac{\varepsilon_0\,\varepsilon_r}{128\,f_r^4\,l^2\,\rho\left[\dfr
 Now we perform the experiment to locate $f_r$ and $f_a$. See the circuit schematics in Figure 9. We keep the output amplitude (the voltage $V$) of the signal generator constant, such that the impedance of the PZT plate correlates with the AC current in the circuit.
 
 <!--fig:start-->
-![[APhO_2015_exp_p14_f9.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p14_f9.png]]
 *Figure 9. Circuit schematics for measuring the resonant and antiresonant frequencies.*
 <!--fig:end-->
 
@@ -222,7 +222,7 @@ A phase transition occurs at the transition temperature $T_c$. Above $T_c$, the 
 $$\varepsilon_r = 1 + \frac{B}{2(T_c - T)}, \qquad \text{where } T < T_c.$$
 
 <!--fig:start-->
-![[APhO_2015_exp_p15_f0.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p15_f0.png]]
 *Pierre Curie.*
 <!--fig:end-->
 
@@ -255,7 +255,7 @@ Analyze the data, draw a proper plot and calculate the Curie temperature accordi
 In solids, sound can be transmitted as both longitudinal waves and transverse waves. The medium movements responsible for the two types of waves are illustrated below.
 
 <!--fig:start-->
-![[APhO_2015_exp_p17_f10.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p17_f10.png]]
 *Figure 10. Longitudinal and transverse waves in solids.*
 <!--fig:end-->
 
@@ -273,7 +273,7 @@ Now, we use a PZT plate as a transducer to produce sound waves in the aluminum r
 First we measure the transverse wave velocity. As discussed in Experiment B, the vibration along the length direction is dominant. We position the transducer and the sensor at one end of the rod, as illustrated in Figure 11. The vibration of the transducer will propagate into the rod via friction, forming transverse waves.
 
 <!--fig:start-->
-![[APhO_2015_exp_p18_f11.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p18_f11.png]]
 *Figure 11. Illustration of the setup for measuring the transverse wave velocity (top view).*
 <!--fig:end-->
 
@@ -292,7 +292,7 @@ Instructions:
 7. It is recommended that you sweep the frequency in the range between $0$ and $40\ \mathrm{kHz}$.
 
 <!--fig:start-->
-![[APhO_2015_exp_p19_f12.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p19_f12.png]]
 *Figure 12. Exemplary spectrum showing all resonant peaks.*
 <!--fig:end-->
 
@@ -304,7 +304,7 @@ Identify the resonant peaks likely resulting from the transverse waves. Calculat
 By changing the contact style between the PZT plates and the rod, we can also measure the longitudinal wave velocity in the rod. Attach the transducer and the sensor to the rod as illustrated in Figure 13. Vibration along the length direction of the transducer will propagate into the rod via compression, forming longitudinal waves.
 
 <!--fig:start-->
-![[APhO_2015_exp_p20_f13.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p20_f13.png]]
 *Figure 13. Illustration of the setup for measuring the longitudinal wave velocity.*
 <!--fig:end-->
 
@@ -331,7 +331,7 @@ Compare with the result in D.2, identify the resonant peaks caused by the transv
 ### Experiment E — Application: locating a defect in an aluminum rod [2.0 pts]
 
 <!--fig:start-->
-![[APhO_2015_exp_p22_f14.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p22_f14.png]]
 *Figure 14. Illustration of the setup for locating a defect in an aluminum rod.*
 <!--fig:end-->
 
@@ -361,7 +361,7 @@ In the measured spectrum, identify the resonant peaks corresponding to the exist
 L'effetto piezoelettrico si riferisce al processo per cui, nei materiali solidi, si accumula carica elettrica in risposta a uno sforzo meccanico applicato (vedi Figura 1(a)). È reversibile, il che significa che i materiali che presentano l'effetto piezoelettrico presentano anche l'**effetto piezoelettrico inverso**, cioè la generazione interna di una deformazione meccanica risultante da un campo elettrico applicato (vedi Figura 1(b)).
 
 <!--fig:start-->
-![[APhO_2015_exp_p3_f1.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p3_f1.png]]
 *Figura 1. (a) L'effetto piezoelettrico. A sinistra: un cubo piezoelettrico giallo in assenza di sforzo meccanico. A destra: la carica elettrica si accumula sulle superfici opposte del cubo in risposta a uno sforzo meccanico applicato. (b) L'effetto piezoelettrico inverso. A sinistra: senza applicare un campo elettrico, il cubo è privo di sforzo e mantiene la sua forma naturale. A destra: il cubo è sottoposto a sforzo e deformato in seguito all'applicazione di un campo elettrico.*
 <!--fig:end-->
 
@@ -413,7 +413,7 @@ In questo esperimento delle APhO 2015 esploriamo le proprietà del PZT e le sue 
 - Premere il pulsante "MODE" per commutare le unità tra "g", "gn", "oz", "ozt", "dwt", "ct" e "tl". Si raccomanda di usare l'unità "g" (grammo).
 
 <!--fig:start-->
-![[APhO_2015_exp_p7_f2.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p7_f2.png]]
 *Figura 2. Una bilancia elettronica.*
 <!--fig:end-->
 
@@ -427,12 +427,12 @@ In questo esperimento delle APhO 2015 esploriamo le proprietà del PZT e le sue 
 - Se si preme un pulsante per errore e non si sa come tornare alla configurazione originale, riavviare lo strumento per ripristinare la configurazione predefinita.
 
 <!--fig:start-->
-![[APhO_2015_exp_p8_f3.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p8_f3.png]]
 *Figura 3. Un generatore di segnali.*
 <!--fig:end-->
 
 <!--fig:start-->
-![[APhO_2015_exp_p8_f4.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p8_f4.png]]
 *Figura 4. Due sintomi del clipping del segnale. (a) Clipping del segnale quando l'offset in continua è diverso da zero. (b) Clipping del segnale quando l'ampiezza di uscita è troppo grande.*
 <!--fig:end-->
 
@@ -446,7 +446,7 @@ In questo esperimento delle APhO 2015 esploriamo le proprietà del PZT e le sue 
 - **Attenzione:** sebbene sia utilizzabile per l'esperimento con frequenze fino a $40\ \mathrm{kHz}$, il DMM non è progettato per misurare accuratamente i valori di ampiezza di segnali AC superiori a $1\ \mathrm{kHz}$. Per calibrare la tensione di uscita del generatore di segnali usando il DMM, si dovrebbe impostare la frequenza del segnale a $1\ \mathrm{kHz}$ o inferiore.
 
 <!--fig:start-->
-![[APhO_2015_exp_p9_f5.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p9_f5.png]]
 *Figura 5. Un multimetro digitale.*
 <!--fig:end-->
 
@@ -461,7 +461,7 @@ In questo esperimento delle APhO 2015 esploriamo le proprietà del PZT e le sue 
 - Si raccomanda di aumentare la temperatura gradualmente dal basso verso l'alto durante l'esperimento.
 
 <!--fig:start-->
-![[APhO_2015_exp_p10_f6.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p10_f6.png]]
 *Figura 6. Un bagno termostatico ad acqua.*
 <!--fig:end-->
 
@@ -489,7 +489,7 @@ Ora calcolare la densità $\rho$ e la permettività relativa $\varepsilon_r$ del
 ### Esperimento B — Il metodo risonante per misurare il coefficiente piezoelettrico [4.5 pts]
 
 <!--fig:start-->
-![[APhO_2015_exp_p12_f7.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p12_f7.png]]
 *Figura 7. La piastrina di PZT.*
 <!--fig:end-->
 
@@ -516,7 +516,7 @@ La piastrina di PZT si comporta come un condensatore puro (con capacità $C$ da 
 La prima frequenza di risonanza $f_r$ della piastrina è associata al suo modo di vibrazione fondamentale lungo la direzione della lunghezza (asse $x$). In prossimità di $f_r$, la piastrina di PZT può essere approssimata da un semplice circuito, con due condensatori ($C_0$ e $C_1$) e un induttore ($L_1$) disposti come mostrato nella Figura 8.
 
 <!--fig:start-->
-![[APhO_2015_exp_p13_f8.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p13_f8.png]]
 *Figura 8. Il modello circuitale equivalente (in risposta a un pilotaggio con segnale esterno) della piastrina di PZT in prossimità della sua prima frequenza di risonanza. La piastrina di PZT vibra nel suo modo fondamentale. Nella condizione di bordo libero, il punto medio lungo la direzione della lunghezza è il nodo.*
 <!--fig:end-->
 
@@ -530,7 +530,7 @@ $$d = \sqrt{\dfrac{\varepsilon_0\,\varepsilon_r}{128\,f_r^4\,l^2\,\rho\left[\dfr
 Ora eseguiamo l'esperimento per localizzare $f_r$ e $f_a$. Vedi gli schemi circuitali nella Figura 9. Manteniamo costante l'ampiezza di uscita (la tensione $V$) del generatore di segnali, in modo che l'impedenza della piastrina di PZT sia correlata alla corrente alternata nel circuito.
 
 <!--fig:start-->
-![[APhO_2015_exp_p14_f9.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p14_f9.png]]
 *Figura 9. Schemi circuitali per misurare le frequenze di risonanza e antirisonanza.*
 <!--fig:end-->
 
@@ -559,7 +559,7 @@ Una transizione di fase avviene alla temperatura di transizione $T_c$. Al di sop
 $$\varepsilon_r = 1 + \frac{B}{2(T_c - T)}, \qquad \text{where } T < T_c.$$
 
 <!--fig:start-->
-![[APhO_2015_exp_p15_f0.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p15_f0.png]]
 *Pierre Curie.*
 <!--fig:end-->
 
@@ -592,7 +592,7 @@ Analizzare i dati, disegnare un grafico opportuno e calcolare di conseguenza la 
 Nei solidi, il suono può essere trasmesso sia come onde longitudinali sia come onde trasversali. I movimenti del mezzo responsabili dei due tipi di onde sono illustrati di seguito.
 
 <!--fig:start-->
-![[APhO_2015_exp_p17_f10.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p17_f10.png]]
 *Figura 10. Onde longitudinali e trasversali nei solidi.*
 <!--fig:end-->
 
@@ -610,7 +610,7 @@ Ora, usiamo una piastrina di PZT come trasduttore per produrre onde sonore nella
 Prima misuriamo la velocità dell'onda trasversale. Come discusso nell'Esperimento B, la vibrazione lungo la direzione della lunghezza è dominante. Posizioniamo il trasduttore e il sensore a un'estremità della barra, come illustrato nella Figura 11. La vibrazione del trasduttore si propagherà nella barra tramite attrito, formando onde trasversali.
 
 <!--fig:start-->
-![[APhO_2015_exp_p18_f11.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p18_f11.png]]
 *Figura 11. Illustrazione del setup per misurare la velocità dell'onda trasversale (vista dall'alto).*
 <!--fig:end-->
 
@@ -629,7 +629,7 @@ Istruzioni:
 7. Si raccomanda di spazzare la frequenza nell'intervallo tra $0$ e $40\ \mathrm{kHz}$.
 
 <!--fig:start-->
-![[APhO_2015_exp_p19_f12.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p19_f12.png]]
 *Figura 12. Spettro esemplificativo che mostra tutti i picchi di risonanza.*
 <!--fig:end-->
 
@@ -641,7 +641,7 @@ Identificare i picchi di risonanza che verosimilmente derivano dalle onde trasve
 Cambiando il tipo di contatto tra le piastrine di PZT e la barra, possiamo anche misurare la velocità dell'onda longitudinale nella barra. Fissare il trasduttore e il sensore alla barra come illustrato nella Figura 13. La vibrazione lungo la direzione della lunghezza del trasduttore si propagherà nella barra tramite compressione, formando onde longitudinali.
 
 <!--fig:start-->
-![[APhO_2015_exp_p20_f13.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p20_f13.png]]
 *Figura 13. Illustrazione del setup per misurare la velocità dell'onda longitudinale.*
 <!--fig:end-->
 
@@ -668,7 +668,7 @@ Confrontando con il risultato di D.2, identificare i picchi di risonanza causati
 ### Esperimento E — Applicazione: localizzazione di un difetto in una barra di alluminio [2.0 pts]
 
 <!--fig:start-->
-![[APhO_2015_exp_p22_f14.png]]
+![[prove/_attachments/apho_2015_exp/apho_2015_exp_p22_f14.png]]
 *Figura 14. Illustrazione del setup per localizzare un difetto in una barra di alluminio.*
 <!--fig:end-->
 

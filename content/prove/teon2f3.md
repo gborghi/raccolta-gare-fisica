@@ -30,7 +30,7 @@ alta. Descreva e justifique o fenômeno observado.
 **Topic:** [[Fluid Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Sphere (object)|Sphere]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ORfV_McefDmHhOPz43B-CFbqtO67bMAP/view)
 
 
@@ -47,7 +47,7 @@ alto. Descrivere e giustificare il fenomeno osservato.
 **Topic:** [[Fluid Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Sphere (object)|Sphere]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ORfV_McefDmHhOPz43B-CFbqtO67bMAP/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -63,7 +63,7 @@ High. Describe and justify the observed phenomenon.
 **Topic:** [[Fluid Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Sphere (object)|Sphere]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ORfV_McefDmHhOPz43B-CFbqtO67bMAP/view)
 
 
@@ -106,7 +106,7 @@ Ensino Médio
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ORfV_McefDmHhOPz43B-CFbqtO67bMAP/view)
 
 
@@ -144,7 +144,7 @@ Istruzione secondaria
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ORfV_McefDmHhOPz43B-CFbqtO67bMAP/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -181,7 +181,7 @@ Secondary education
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ORfV_McefDmHhOPz43B-CFbqtO67bMAP/view)
 
 
@@ -704,7 +704,7 @@ gravidade e $\rho$ para a densidade da água.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1ORfV_McefDmHhOPz43B-CFbqtO67bMAP/view)
 
 
@@ -721,7 +721,7 @@ gravità e $\rho$ per la densità dell'acqua.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1ORfV_McefDmHhOPz43B-CFbqtO67bMAP/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -737,5 +737,5 @@ gravity and $\rho$ for water density.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1ORfV_McefDmHhOPz43B-CFbqtO67bMAP/view)

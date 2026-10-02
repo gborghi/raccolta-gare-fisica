@@ -759,7 +759,7 @@ Page 9 of 12
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1o-aFOnbaD-yra_sSQOqMY6mkByjRXFNK/view)
 
 
@@ -846,7 +846,7 @@ Scalatore con caduta (pannelli a, b)
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1o-aFOnbaD-yra_sSQOqMY6mkByjRXFNK/view)
 
 

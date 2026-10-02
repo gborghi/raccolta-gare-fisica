@@ -151,7 +151,7 @@ when the molecules are moving in random directions with speed $v$.
 **Topic:** [[Newtonian Mechanics]], [[Kinetic Theory]], [[Conservation of Momentum]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Ball (object)|Ball]], [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1DJNjN9z6P_kyaQPe4qfXmjHd_gsNr15J/view)
 
 
@@ -182,7 +182,7 @@ La figura 2.3 mostra un diagramma semplificato dell'esperimento in cui la palla 
 **Topic:** [[Newtonian Mechanics]], [[Kinetic Theory]], [[Conservation of Momentum]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Ball (object)|Ball]], [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1DJNjN9z6P_kyaQPe4qfXmjHd_gsNr15J/view)
 
 

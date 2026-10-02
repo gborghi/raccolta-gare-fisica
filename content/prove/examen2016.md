@@ -145,7 +145,7 @@ respectivamente. Determine razonadamente el período y la amplitud del movimient
 **Topic:** [[Newtonian Mechanics]], [[Electrostatics]], [[Oscillations & Waves]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]], [[Electron (object)|Electron]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]], [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1bpRK8vRJQo4Z_OG4H7EXMqWn7Wzktkm9/view)
 
 
@@ -277,7 +277,7 @@ rispettivamente. Determina ragionevolmente il periodo e l'ampiezza del movimento
 **Topic:** [[Newtonian Mechanics]], [[Electrostatics]], [[Oscillations & Waves]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]], [[Electron (object)|Electron]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]], [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1bpRK8vRJQo4Z_OG4H7EXMqWn7Wzktkm9/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -408,5 +408,5 @@ the Commission. Determine the period and extent of movement reasonably.
 **Topic:** [[Newtonian Mechanics]], [[Electrostatics]], [[Oscillations & Waves]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]], [[Electron (object)|Electron]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]], [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1bpRK8vRJQo4Z_OG4H7EXMqWn7Wzktkm9/view)

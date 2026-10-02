@@ -1006,7 +1006,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 **Topic:** [[Thermodynamics]]
 **Metodi:** —
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
 **Risposta:** **E**
 
@@ -1023,7 +1023,7 @@ The section of the coating of a hot water tank is shown: metal wall thickness $3
 **Topic:** [[Thermodynamics]]
 **Metodi:** —
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
 The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
 
@@ -1150,7 +1150,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Superposition Principle (metodo)|Superposition Principle]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
 **Risposta:** **B**
 
@@ -1167,7 +1167,7 @@ The following is the list of the main components of the power supply system:
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Superposition Principle (metodo)|Superposition Principle]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
 The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2001.
 

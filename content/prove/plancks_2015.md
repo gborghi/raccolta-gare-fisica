@@ -126,12 +126,12 @@ DNA is a rather stiff polymer. Its mechanical properties can be well approximate
 
 The shapes of such rods under various boundary conditions have been worked out by Leonhard Euler in 1744, see Figure 1. These shapes, the so-called Euler elasticas, are described by elliptic functions that are difficult to deal with. A useful approximation that typically deviates only about 10% from the exact result is the circle-line approximation. One replaces the exact shape by a set of straight lines and sections of circles that are connected smoothly. As an example, consider one half of the lying figure 8 that Euler happened to call Fig. 8 (see Figure 1). One obtains this shape when one bends a beam such that its two ends touch, a relevant minimization problem that asks how to distribute the curvature along the rod into a tensionless figure (see Figure 1).
 
-> ![[PLANCKS_2015_p2_f1.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p2_f1.png]]
 > *Figure 1: Euler's 1744 drawings of the elasticas.*
 
 **(2.1)** *[3 points]* Estimate this angle using a circle-line approximation. You can approximate the teardrop loop by two lines that touch at one end and are connected via a circular section at the other end. Assume that the total length of the teardrop is constant. This relevant minimization problem can be solved analytically (with respect to the angle). What is the optimal angle?
 
-> ![[PLANCKS_2015_p2_f2.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p2_f2.png]]
 > *Figure 2: Configuration of a wormlike chain.*
 
 We consider next a free DNA molecule, i.e. a molecule without any constraints, but account for thermal fluctuations. One can show that for a wormlike chain (see Figure 2) the orientations $\hat t(s)$ and $\hat t(s+l_P)$ of the tangents along the molecule, separated by a contour length $l_P$ (the persistence length, $l_P \approx 50$ nm for DNA), are uncorrelated. More precisely, the tangent-tangent correlation function decays exponentially with the contour length of the chain:
@@ -142,7 +142,7 @@ $$
 
 We consider now the above case to the case of a perfectly flexible polymer that have no constraints whatsoever — the so-called freely jointed chain. As shown in Figure 3, this chain is characterized by the set of bond vectors $\{\vec r_1, \vec r_2, \dots, \vec r_N\}$ (see figure 3).
 
-> ![[PLANCKS_2015_p2_f3.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p2_f3.png]]
 > *Figure 3: The freely jointed chain.*
 
 **(2.2)** *[1 point]* Calculate the value $a$ of the r.h.s. are solutions to the Legendre equation, the end-to-end distance vector $\vec R$ of the polymer chain in terms of the bond vectors.
@@ -166,12 +166,12 @@ Il DNA è un polimero piuttosto rigido. Le sue proprietà meccaniche possono ess
 
 Le forme di tali bastone in varie condizioni di confine sono state elaborate da Leonhard Euler nel 1744, vedi Figura 1. Queste forme, le cosiddette Euler elasticas, sono descritte da funzioni ellitte difficili da gestire. Un approssimazione utile che in genere si devia solo del 10% dal risultato esatto è l'approssimazione circolo-linea. Uno sostituisce la forma esatta con un insieme di linee rette e sezioni di cerchi che sono collegati senza problemi. Per esempio, consideriamo la metà della figura 8 che Euler chiama Fig. 8 (vedi figura 1). Si ottiene questa forma quando si piega un fascio in modo tale che le sue due estremità si toccino, un problema di minimizzazione rilevante che chiede come distribuire la curvatura lungo la canna in una figura senza tensione (vedi Figura 1).
 
-> ![[PLANCKS_2015_p2_f1.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p2_f1.png]]
 > *Figura 1: disegni di Euler 1744 delle elastica.*
 
 **(2.1) ** *[3 punti] * Estimare questo angolo utilizzando un approccio a una linea circolare. Si può approssimare il ciclo di lacrime con due linee che si toccano ad una estremità e sono collegate attraverso una sezione circolare all'altra estremità. Supponiamo che la lunghezza totale della goccia sia costante. Questo problema di minimizzazione rilevante può essere risolto analiticamente (in relazione all'angolo). Qual è l'angolo ottimale?
 
-> ![[PLANCKS_2015_p2_f2.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p2_f2.png]]
 > *Figura 2: Configurazione di una catena vermiforme.*
 
 Consideramo quindi una molecola di DNA libera, cioè una molecola senza vincoli, ma che si basa su fluttuazioni termiche. Si può dimostrare che per una catena vermiforme (vedi Figura 2) gli orientamenti $\hat t(s)$ e $\hat t(s+l_P)$ delle tangenti lungo la molecola, separati da una lunghezza di contorno $l_P$ (la lunghezza di persistenza, $l_P \approx 50$ nm per il DNA), non sono correlati. Più precisamente, la funzione di correlazione tangente-tangente decade esponenzialmente con la lunghezza del contorno della catena:
@@ -182,7 +182,7 @@ $$
 
 Considerando ora il caso di cui sopra, il caso di un polimero perfettamente flessibile che non ha alcuna limitazione  la cosiddetta catena di freeware joint. Come mostrato alla figura 3, questa catena è caratterizzata dall'insieme di vettori di legame $\{\vec r_1, \vec r_2, \dots, \vec r_N\}$ (vedere figura 3).
 
-> ![[PLANCKS_2015_p2_f3.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p2_f3.png]]
 > *Figura 3: La catena di freature connessioni.*
 
 **(2.2) ** *[1 punto] * Calcolare il valore $a$ delle r.h.s. sono soluzioni dell'equazione di Legendre, il vettore di distanza da estremità a estremità $\vec R$ della catena polimerica in termini di vettori di legame.
@@ -209,7 +209,7 @@ Considerando ora il caso di cui sopra, il caso di un polimero perfettamente fles
 
 Consider a slinky (i.e. a flexible open spring) suspended from its top and at rest. When you release the top end the time evolution of the slinky is fascinating, as shown in the series of pictures below. To describe this phenomenon, we consider an ideal uniform slinky of mass $m$, and negligible rest length, for which each segment obeys Hooke's law (force $\propto$ extension): $F = kL$. We will consider both its static shape and its dynamic evolution in free fall.
 
-> ![[PLANCKS_2015_p3_f1.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p3_f1.png]]
 > *Figure 1.*
 
 **(3.1)** *[1 point]* Describe the (vertical) shape of the slinky at rest (left frame). Hint: denote points on the slinky by a dimensionless variable $x$, ranging from $x = 0$ at the bottom to $x = l$ at the top and describe its shape by specifying the height $L(x)$ of each segment above the bottom of the slinky.
@@ -233,7 +233,7 @@ Consider a slinky (i.e. a flexible open spring) suspended from its top and at re
 
 Considerate un slinky (cioè: una sorgente aperta flessibile) sospesa dalla sua parte superiore e in riposo. Quando si libera la parte superiore, l'evoluzione temporale della griglia è affascinante, come mostrato nella serie di immagini qui sotto. Per descrivere questo fenomeno, consideriamo un idealista slinky uniforme di massa $m$, e lunghezza di riposo trascurabile, per il quale ogni segmento obbedisce alla legge di Hooke (forza $\propto$ estensione): $F = kL$. Considereremo sia la sua forma statica che la sua evoluzione dinamica nella caduta libera.
 
-> ![[PLANCKS_2015_p3_f1.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p3_f1.png]]
 > *Figura 1.*
 
 **(3.1) ** *[1 punto] * Descrivere la forma (verticale) del pendolo in riposo (quadro sinistro). Suggerimento: indicare i punti sul slinky con una variabile senza dimensioni $x$, che va da $x = 0$ in basso a $x = l$ in alto e descrivere la sua forma specificando l'altezza $L(x)$ di ogni segmento sopra il fondo del slinky.
@@ -268,7 +268,7 @@ $$
 
 where $m_0$ is the rest mass of the free electron, and $\hbar = \frac{h}{2\pi}$ with $h$ the Planck constant. By correcting for lens errors (aberrations), the LEEM in Leiden has a lateral resolution (i.e. in the plane) of $1.4$ nm at $5$ eV.
 
-> ![[PLANCKS_2015_p4_f1.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p4_f1.png]]
 > *Figure 1.*
 
 **(4.1)** *[1 point]* Express the resolution in terms of the wave length lambda at $5$ eV. Is there, in principle, room for improvement?
@@ -283,7 +283,7 @@ $$
 
 where $|\Psi_n\rangle$ denotes the $n$th interlayer state.
 
-> ![[PLANCKS_2015_p4_f2.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p4_f2.png]]
 > *Figure 2.*
 
 **(4.3)** *[2 points]* Calculate the dispersion relation $\varepsilon(k_z)$ by calculating $\langle k_z | H | k_z \rangle$. We assume that only the nearest neighbor interlayer states couple, again with hopping integral $-t$. Interlayer states that are further away from each other have zero coupling.
@@ -317,7 +317,7 @@ $$
 
 dove $m_0$ è la massa a riposo dell'elettrone libero, e $\hbar = \frac{h}{2\pi}$ con $h$ la costante di Planck. Correggendo gli errori delle lenti (aberrazioni), il LEEM a Leiden ha una risoluzione laterale (cioè nel piano) di $1.4$ nm a $5$ eV.
 
-> ![[PLANCKS_2015_p4_f1.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p4_f1.png]]
 > *Figure 1.*
 
 **(4.1)** *[1 punto]* Esprimi la risoluzione in termini della lunghezza d'onda lambda a $5$ eV. C'è, in linea di principio, margine di miglioramento?
@@ -332,7 +332,7 @@ $$
 
 dove $|\Psi_n\rangle$ indica l'$n$-esimo stato interstrato.
 
-> ![[PLANCKS_2015_p4_f2.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p4_f2.png]]
 > *Figure 2.*
 
 **(4.3)** *[2 punti]* Calcola la relazione di dispersione $\varepsilon(k_z)$ calcolando $\langle k_z | H | k_z \rangle$. Assumiamo che si accoppino solo gli stati interstrato primi vicini, ancora con integrale di hopping $-t$. Gli stati interstrato più lontani tra loro hanno accoppiamento nullo.
@@ -367,7 +367,7 @@ It is a common misunderstanding that oil is located in the form of an undergroun
 
 *In this problem we neglect capillary and gravity effects on the fluid flow.*
 
-> ![[PLANCKS_2015_p5_f1.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p5_f1.png]]
 > *Figure 1: (a) Scheme of the oil production process. (b) Representation of the porous medium (grains in white and void space in blue). (c) Cubic stacking of identical spherical grains.*
 
 **Basic Concepts.** One of the most important characteristics of the reservoir is *porosity*, which is the fraction of the void space in the rock to the total volume:
@@ -384,7 +384,7 @@ To understand the meaning of this concept, imagine identical balls (grains of sa
 
 A fluid flow between the grains of sand is controlled by the *viscosity* and the *permeability*. Consider a flow of the viscous fluid through a tube with length $L_0$ and radius $r_0$ (see Figure 2). Fluid molecules move along free paths and collide with each other. However, this process is not uniform. Close to the solid boundary the molecules are stuck, while in other regions the velocity varies with a profile similar to the sketch shown in Figure 2. Going analogous with the heat transfer could significantly help you in solving this problem, because the approach is very similar.
 
-> ![[PLANCKS_2015_p5_f2.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p5_f2.png]]
 > *Figure 2: Schematics of the viscous fluid flow in the tube. (Not to scale.)*
 
 The reason for this effect is the internal friction of the fluid, or viscosity. If two adjacent layers of fluid flow with slightly different speeds, the random motion of faster molecules into the slower lane induces a faster layer (the 'newer' well-known equation:
@@ -407,14 +407,14 @@ $$
 
 where $\frac{dV}{dt}$ is the amount of fluid transferred through the tube in some period of time. $A$ and $L$ are the cross-sectional area and length of the porous plug and $k$ is the *permeability*, which is a function of time.
 
-> ![[PLANCKS_2015_p5_f3.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p5_f3.png]]
 > *Figure 3: Diagram showing definitions of Darcy's law.*
 
 **(5.4)** *[1 point]* Estimate the permeability of the system described in 5.1 in terms of $\phi$, $r_0$, $P_1$, $P_2$. Assume that a mean free path within the tube is small compared to $r_0$ and the porosity $\phi$ of this system is equal to $1 \cdot 10^{-9} m^2$.
 
 Usually, rock properties are not uniform throughout the reservoir. Two adjacent samples can have different permeability $k$ but the same length $L$. The fluid easily moves through the high-permeable part, while it is more difficult through the low-permeable part. Consider the case of two pieces differing in their wavelength, called red and blue for simplicity. Hint: in this case, the creation operators should be indexed with the property of the photon.
 
-> ![[PLANCKS_2015_p5_f4.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p5_f4.png]]
 > *Figure 4: Composite rock sample.*
 
 **(5.5)** *[2 points]* Determine for the system described as a system of twisted tubes (Figure 3), with permeability $k = k_0 \phi^2$, where $k_0$ is the coefficient of the system are connected in series with $k = 1 \cdot 10^{-9} m^2$, and that different bonds are characterized by the set of fixed length, $\langle r_i^2 \rangle = b^2$, and that different bonds are correlated to the 'new' homogeneous sample. To compute this 'new', look for the double permeability $k_{eff}$.
@@ -423,7 +423,7 @@ Usually, rock properties are not uniform throughout the reservoir. Two adjacent 
 
 **Vertical Well.** Often the reservoir can be modeled as a cylinder (see Figure 5). For this problem all properties were averaged out as in the previous part, so we can model the reservoir as a single cylinder with permeability $k$. The reservoir disk has dimensions $h$, an outer radius $R$ and an inner well radius $r_w$ (see Figure 5). The pressure at the outer boundary is $P_b$, and the well pressure (in the inner radius) is $P_w$. In the vacuum, the electron dispersion. Notice that the well length is much larger than the radius ($h \ll R$), one can conclude that fluid flows only in the radial direction.
 
-> ![[PLANCKS_2015_p5_f5.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p5_f5.png]]
 > *Figure 5: Cylindrical reservoir with a vertical well drilled in the center.*
 
 **(5.7)** *[2 points]* Find the velocity of the oil $v_w$ inside the well with a radius $r_w = 0.1$ m and a flow rate of $1\cdot10^{-3}$ m$^3$/s.
@@ -440,7 +440,7 @@ $$
 
 where $V$ is the initial volume of the examined sample and $dV$ is the isothermal volume change, when an additional pressure $dP$ is applied.
 
-> ![[PLANCKS_2015_p5_f6.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p5_f6.png]]
 > *Figure 6: System used for modeling reservoir depletion.*
 
 **(5.10)** *[2 points]* Show that the bottom of the well $P_w$ is constant (hydrostatic column of oil). However, the pressure at the boundary $P_b(t)$ is constant. So well as the oil production rate $q(t)$.
@@ -451,7 +451,7 @@ where $V$ is the initial volume of the examined sample and $dV$ is the isotherma
 **Topic:** [[Fluid Mechanics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Sphere (object)|Sphere]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Sphere (object)|Sphere]], [[Cylinder (object)|Cylinder]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -462,7 +462,7 @@ where $V$ is the initial volume of the examined sample and $dV$ is the isotherma
 
 *In questo problema trascuriamo gli effetti capillari e gravitazionali sul flusso del fluido.*
 
-> ![[PLANCKS_2015_p5_f1.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p5_f1.png]]
 > *Figura 1: (a) Schema del processo di produzione del petrolio. (b) Rappresentazione del mezzo poroso (grani in bianco e spazio vuoto in blu). (c) Impilamento cubico di grani sferici identici.*
 
 **Concetti di base.** Una delle caratteristiche più importanti del giacimento è la *porosità*, ovvero la frazione dello spazio vuoto nella roccia rispetto al volume totale:
@@ -479,7 +479,7 @@ Per comprendere il significato di questo concetto, si immaginino delle palline i
 
 Un flusso di fluido tra i grani di sabbia è controllato dalla *viscosità* e dalla *permeabilità*. Si consideri un flusso di fluido viscoso attraverso un tubo di lunghezza $L_0$ e raggio $r_0$ (vedi Figura 2). Le molecole del fluido si muovono lungo cammini liberi e collidono tra loro. Tuttavia, questo processo non è uniforme. In prossimità del contorno solido le molecole restano bloccate, mentre in altre regioni la velocità varia con un profilo simile allo schizzo mostrato nella Figura 2. Procedere per analogia con il trasporto del calore potrebbe aiutare notevolmente a risolvere questo problema, poiché l'approccio è molto simile.
 
-> ![[PLANCKS_2015_p5_f2.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p5_f2.png]]
 > *Figura 2: Schema del flusso di fluido viscoso nel tubo. (Non in scala.)*
 
 La ragione di questo effetto è l'attrito interno del fluido, ovvero la viscosità. Se due strati adiacenti di fluido scorrono con velocità leggermente diverse, il moto casuale delle molecole più veloci nella corsia più lenta induce uno strato più veloce (la 'più recente' equazione ben nota:
@@ -502,14 +502,14 @@ $$
 
 dove $\frac{dV}{dt}$ è la quantità di fluido trasferita attraverso il tubo in un certo intervallo di tempo. $A$ e $L$ sono l'area della sezione trasversale e la lunghezza del tappo poroso e $k$ è la *permeabilità*, che è funzione del tempo.
 
-> ![[PLANCKS_2015_p5_f3.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p5_f3.png]]
 > *Figura 3: Diagramma che mostra le definizioni della legge di Darcy.*
 
 **(5.4)** *[1 punto]* Stimare la permeabilità del sistema descritto in 5.1 in funzione di $\phi$, $r_0$, $P_1$, $P_2$. Assumere che il cammino libero medio all'interno del tubo sia piccolo rispetto a $r_0$ e che la porosità $\phi$ di questo sistema sia uguale a $1 \cdot 10^{-9} m^2$.
 
 Di solito, le proprietà della roccia non sono uniformi in tutto il giacimento. Due campioni adiacenti possono avere permeabilità $k$ diversa ma la stessa lunghezza $L$. Il fluido si muove facilmente attraverso la parte ad alta permeabilità, mentre è più difficile attraverso la parte a bassa permeabilità. Si consideri il caso di due pezzi che differiscono nella loro lunghezza d'onda, chiamati rosso e blu per semplicità. Suggerimento: in questo caso, gli operatori di creazione dovrebbero essere indicizzati con la proprietà del fotone.
 
-> ![[PLANCKS_2015_p5_f4.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p5_f4.png]]
 > *Figura 4: Campione di roccia composito.*
 
 **(5.5)** *[2 punti]* Determinare per il sistema descritto come un sistema di tubi contorti (Figura 3), con permeabilità $k = k_0 \phi^2$, dove $k_0$ è il coefficiente del sistema che sono connessi in serie con $k = 1 \cdot 10^{-9} m^2$, e che i diversi legami sono caratterizzati dall'insieme di lunghezza fissa, $\langle r_i^2 \rangle = b^2$, e che i diversi legami sono correlati al 'nuovo' campione omogeneo. Per calcolare questo 'nuovo', cercare la doppia permeabilità $k_{eff}$.
@@ -518,7 +518,7 @@ Di solito, le proprietà della roccia non sono uniformi in tutto il giacimento. 
 
 **Pozzo verticale.** Spesso il giacimento può essere modellato come un cilindro (vedi Figura 5). Per questo problema tutte le proprietà sono state mediate come nella parte precedente, quindi possiamo modellare il giacimento come un singolo cilindro con permeabilità $k$. Il disco del giacimento ha dimensioni $h$, un raggio esterno $R$ e un raggio interno del pozzo $r_w$ (vedi Figura 5). La pressione al contorno esterno è $P_b$, e la pressione del pozzo (nel raggio interno) è $P_w$. Nel vuoto, la dispersione dell'elettrone. Si noti che la lunghezza del pozzo è molto maggiore del raggio ($h \ll R$), si può concludere che il fluido scorre solo in direzione radiale.
 
-> ![[PLANCKS_2015_p5_f5.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p5_f5.png]]
 > *Figura 5: Giacimento cilindrico con un pozzo verticale perforato al centro.*
 
 **(5.7)** *[2 punti]* Trovare la velocità del petrolio $v_w$ all'interno del pozzo con raggio $r_w = 0.1$ m e una portata di $1\cdot10^{-3}$ m$^3$/s.
@@ -535,7 +535,7 @@ $$
 
 dove $V$ è il volume iniziale del campione esaminato e $dV$ è la variazione isoterma di volume, quando viene applicata una pressione aggiuntiva $dP$.
 
-> ![[PLANCKS_2015_p5_f6.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p5_f6.png]]
 > *Figura 6: Sistema usato per modellare l'esaurimento del giacimento.*
 
 **(5.10)** *[2 punti]* Mostrare che il fondo del pozzo $P_w$ è costante (colonna idrostatica di petrolio). Tuttavia, la pressione al contorno $P_b(t)$ è costante. Così come la portata di produzione del petrolio $q(t)$.
@@ -546,7 +546,7 @@ dove $V$ è il volume iniziale del campione esaminato e $dV$ è la variazione is
 **Topic:** [[Fluid Mechanics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Sphere (object)|Sphere]], [[Cylinder (object)|Cylinder]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Sphere (object)|Sphere]], [[Cylinder (object)|Cylinder]]
 
 
 
@@ -806,7 +806,7 @@ $$
 
 A wild idea in space technology considers the possibility to propel a space craft by the photon pressure exerted by sunlight. Consider a square sail with dimensions of $800$ m $\times$ $800$ m and weight $m = 3$ kg that completely reflects the incoming sunlight. We will study the propulsion of this sail and note in this exercise to remain near the Earth. The space craft is connected with an underground source of water. At a distance of $10$ meters from the Earth our sail is in $100\%$ reflective. Call the distance from the sun and the mass ($\sim$ solar constant) at the position of the sail $r(t)$, using classical mechanics to describe its motion (so neglecting all relativistic effects). The mass of the sun and the distance between the sun and the earth (Earth orbit) are $1 \cdot 10^{30}$ kg and $r(0) = 1 \cdot 10^{11}$ m, and the solar constant at this distance is $1.36$ kW/m$^2$.
 
-> ![[PLANCKS_2015_p8_f1.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p8_f1.png]]
 > *Figure.*
 
 **(8.1)** *[2 points]* Calculate the initial acceleration $a_0$ of the solar sail when the normal of the sail points towards the sun and compare this with the centrifugal force at all points towards the sun for the case in which the sun always points towards the sun. Only in the final question we consider different orientations.
@@ -834,7 +834,7 @@ A wild idea in space technology considers the possibility to propel a space craf
 
 Un'idea selvaggia nella tecnologia spaziale considera la possibilità di spingere una nave spaziale dalla pressione dei fotoni esercitata dalla luce solare. Si consideri una vela quadrata con dimensioni $800$ m $\times$ $800$ m e peso $m = 3$ kg che riflette completamente la luce solare in arrivo. Studieremo la propulsione di questa vela e la nota in questo esercizio per rimanere vicino alla Terra. La nave spaziale è collegata a una fonte sotterranea di acqua. A una distanza di $10$ metri dalla Terra la nostra vela è in $100\%$ riflettente. Indicare la distanza dal sole e la massa (constante solare $\sim$) nella posizione della vela $r(t)$, utilizzando la meccanica classica per descrivere il suo movimento (negliendosi così tutti gli effetti relativistici). La massa del sole e la distanza tra il sole e la terra (orbita terrestre) sono $1 \cdot 10^{30}$ kg e $r(0) = 1 \cdot 10^{11}$ m, e la costante solare a questa distanza è $1.36$ kW/m$^2$.
 
-> ![[PLANCKS_2015_p8_f1.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p8_f1.png]]
 > *Figura.*
 
 **(8.1) ** *[2 punti] * Calcolare l'accelerazione iniziale $a_0$ della vela solare quando la normalità delle vele punta verso il sole e confrontarla con la forza centrifugante in tutti i punti verso il sole nel caso in cui il sole punta sempre verso il sole. Solo nell'ultima domanda consideriamo diversi orientamenti.
@@ -869,7 +869,7 @@ The quantum state of light is described by quantizing the harmonic oscillation o
 
 In this exercise, we will be considering the effect of a beam splitter (e.g. a piece of partially reflecting glass) on such a state of light. We consider the simplest case where there are two input facets, and two output facets. A picture of such a beam splitter is shown below.
 
-> ![[PLANCKS_2015_p9_f1.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p9_f1.png]]
 > *Figure 1.*
 
 We denote the state at the input of the beam splitter $\Psi = |n_1, n_2\rangle$, where the indices refer to the two input facets of the beam splitter. The action of the beam splitter is described by a transformation on the operators
@@ -914,7 +914,7 @@ Lo stato quantistico della luce si descrive quantizzando l'oscillazione armonica
 
 In questo esercizio, considereremo l'effetto di un divisore di fascio (ad esempio un pezzo di vetro parzialmente riflettente) su un tale stato di luce. Consideriamo il caso più semplice in cui vi sono due facce di ingresso e due facce di uscita. Un'immagine di un tale divisore di fascio è mostrata di seguito.
 
-> ![[PLANCKS_2015_p9_f1.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p9_f1.png]]
 > *Figura 1.*
 
 Indichiamo lo stato all'ingresso del divisore di fascio con $\Psi = |n_1, n_2\rangle$, dove gli indici si riferiscono alle due facce di ingresso del divisore di fascio. L'azione del divisore di fascio è descritta da una trasformazione sugli operatori
@@ -1006,7 +1006,7 @@ The vertical unit vector is denoted as $\hat z$. Under this balance the horizont
 
 **(10.2)** *[3 points]* What can you say about the vertical variation of $\vec v$ based on this force balance?
 
-> ![[PLANCKS_2015_p10_f1.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p10_f1.png]]
 > *Figure 1: Sketch: wind stress on the ocean surface.*
 
 The boundary layer described in this problem leads to a so-called Ekman boundary layer. This is the upper part of the ocean, where the wind stress drives the flow. We assume the equation of motion which neglects the time derivative and the convective term $(\vec v \cdot \vec\nabla)\vec v$ to describe the boundary-layer flow near the wall.
@@ -1082,7 +1082,7 @@ Il versore verticale è indicato con $\hat z$. Sotto questo bilancio le componen
 
 **(10.2)** *[3 punti]* Cosa si può dire sulla variazione verticale di $\vec v$ in base a questo bilancio di forze?
 
-> ![[PLANCKS_2015_p10_f1.png]]
+> ![[_attachments/plancks_2015/plancks_2015_p10_f1.png]]
 > *Figura 1: Schizzo: sforzo del vento sulla superficie dell'oceano.*
 
 Lo strato limite descritto in questo problema conduce a un cosiddetto strato limite di Ekman. Questa è la parte superiore dell'oceano, dove lo sforzo del vento guida il flusso. Assumiamo l'equazione del moto che trascura la derivata temporale e il termine convettivo $(\vec v \cdot \vec\nabla)\vec v$ per descrivere il flusso nello strato limite in prossimità della parete.

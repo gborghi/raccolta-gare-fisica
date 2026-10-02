@@ -208,7 +208,7 @@ $45^\circ$
 **Topic:** [[Newtonian Mechanics]], [[Gravitation]], [[Electrostatics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Point Charge (object)|Point Charge]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/19MzWvD7374NnOg4aMjQA0jxO2jgEgtHX/view)
 
 
@@ -403,7 +403,7 @@ $45^\circ$
 **Topic:** [[Newtonian Mechanics]], [[Gravitation]], [[Electrostatics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Point Charge (object)|Point Charge]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/19MzWvD7374NnOg4aMjQA0jxO2jgEgtHX/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -597,5 +597,5 @@ $45^\circ$
 **Topic:** [[Newtonian Mechanics]], [[Gravitation]], [[Electrostatics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Point Charge (object)|Point Charge]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/19MzWvD7374NnOg4aMjQA0jxO2jgEgtHX/view)

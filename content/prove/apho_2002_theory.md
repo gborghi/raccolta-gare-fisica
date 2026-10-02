@@ -21,7 +21,7 @@ tags:
 
 A very large number $N$ of movable identical point particles ($N \gg 1$), each with mass $m$, are set in a straight chain with $N + 1$ identical massless springs, each with stiffness (spring constant) $S$, linking them to each other and the ends attached to two additional immovable particles. See figure. This chain will serve as a model of the vibration modes of a one-dimensional crystal. When the chain is set in motion, the longitudinal vibrations of the chain can be looked upon as a superposition of simple oscillations (called modes) each with its own characteristic mode frequency.
 
-![[APhO_2002_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2002_theory/apho_2002_theory_q1_p1_f1.png]]
 
 **(a)** Write down the equation of motion of the $n^{\text{th}}$ particle. **[0.7 marks]**
 
@@ -73,7 +73,7 @@ $$\int_0^{1} \frac{dx}{\sqrt{1 - x^2}} = \frac{\pi}{2}.$$
 
 Un numero molto elevato di particelle mobili identiche a punto $N$ ($N \gg 1$), ciascuna con massa $m$, è montata in catena retta con sorgenti senza massa identiche $N + 1$, ciascuna con rigidità (constante sorgente) $S$, che le collegano tra loro e le estremità sono attaccate a due particelle immobili supplementari. Vedi la figura. Questa catena servirà come modello delle modalità di vibrazione di un cristallo unidimensionato. Quando la catena viene messa in movimento, le vibrazioni longitudinali della catena possono essere considerate come una sovrapposizione di semplici oscillazioni (chiamate modalità) ciascuna con la propria frequenza caratteristica di modalità.
 
-![[APhO_2002_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2002_theory/apho_2002_theory_q1_p1_f1.png]]
 
 **(a) ** Scrivi l'equazione di movimento della particella $n^{\text{th}}$. **[0,7 punti]**
 
@@ -132,7 +132,7 @@ A young man at P and a young lady at Q were deeply in love. These two places are
 
 A skilled engineer, moved by all these efforts, designed a system that can produce a $B = 10.0$ T magnetic field that can be directed perpendicular to the plane of the rails. The mass of the young man is $70$ kg. The mass of the conducting bar is $10$ kg and its resistance is $R = 1.0\ \Omega$.
 
-![[APhO_2002_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2002_theory/apho_2002_theory_q2_p1_f1.png]]
 
 Just after he had completed the construction and checked that it worked perfectly, he received a call from the young lady, sobbing and telling him that her father was going to marry her off to a rich man unless he can arrive at Q within $11$ seconds after the call, and having said that she hang up.
 
@@ -140,7 +140,7 @@ The young man immediately got into action and launched himself across the strait
 
 Show, using the steps listed below, whether it is possible for him to make it in time, and if so, what is the range of $\theta$ he must set the ramp?
 
-![[APhO_2002_theory_Q2_p2_f1.png]]
+![[prove/_attachments/apho_2002_theory/apho_2002_theory_q2_p2_f1.png]]
 
 **(a)** Derive an expression for the acceleration of the young man parallel to the rail. **[3 marks]**
 
@@ -187,7 +187,7 @@ Un giovane a P e una giovane donna a Q erano profondamente innamorati. Questi du
 
 Un ingegnere qualificato, spinto da tutti questi sforzi, progettò un sistema che potesse produrre un campo magnetico T $B = 10.0$ che potesse essere diretto perpendicolare al piano delle rotaie. La massa del giovane è $70$ kg. La massa della barra conduttrice è $10$ kg e la sua resistenza è $R = 1.0\ \Omega$.
 
-![[APhO_2002_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2002_theory/apho_2002_theory_q2_p1_f1.png]]
 
 Poco dopo aver completato la costruzione e verificato che funzionava perfettamente, ricevette una chiamata dalla giovane signora, che la solenneva e gli diceva che suo padre la avrebbe sposata con un uomo ricco a meno che non riuscisse a raggiungere Q entro $11$ secondi dalla chiamata, e che aveva detto che lei avrebbe raccontato.
 
@@ -195,7 +195,7 @@ Il giovane si è subito messo in azione e si è lanciato attraverso lo stretto p
 
 Indicare, utilizzando i passaggi elencati di seguito, se è possibile farlo in tempo e, se sì, quale è il range di $\theta$ deve impostare la rampa?
 
-![[APhO_2002_theory_Q2_p2_f1.png]]
+![[prove/_attachments/apho_2002_theory/apho_2002_theory_q2_p2_f1.png]]
 
 **(a)** Derive an expression for the acceleration of the young man parallel to the rail. **[3 punti] **
 
@@ -271,7 +271,7 @@ where $m$ is the mass of the molecule and $T$ is the temperature of the gas. **[
 
 **(d)** In reality, not all molecules of oxygen react with the silicon. This can be modeled by the concept of activation energy where the reacting molecules should have total energy greater than the activation energy before it can react. Physically this activation energy describes the fact that chemical bonds between the silicon atoms have to be broken before a new bond between silicon and oxygen atoms is formed. Assuming an activation energy for the reaction to be $1$ eV, estimate again how long it would take to deposit one atomic layer of oxygen at the above temperature. You may assume that the area under the Maxwell distribution in part (a) is unity. **[2.8 marks]**
 
-![[APhO_2002_theory_Q3_p2_f1.png]]
+![[prove/_attachments/apho_2002_theory/apho_2002_theory_q3_p2_f1.png]]
 
 **(e)** For lithography processes, the clean silicon wafer is coated evenly with a layer of transparent polymer (photo-resist) of refractive index $\mu = 1.40$. To measure the thickness of this photo-resist, the wafer is illuminated with collimated monochromatic beam of light of wavelength $\lambda = 589$ nm. For a certain minimum thickness of photo-resist, $d$, there is a destructive interference of reflected light, assuming normal incidence on the coating. Derive an expression for relation between $d$, $\mu$ and $\lambda$. Calculate $d$ using the given data. In this point you may assume that silicon behaves as a medium with a refractive index greater than $1.40$ and you may ignore multiple reflections. **[2.5 marks]**
 
@@ -325,7 +325,7 @@ Se la pressione residuale dell'ossigeno in un sistema a vuoto è $133$ Pa, e mod
 
 In realtà non tutte le molecole di ossigeno reagiscono con il silicio. Questo può essere modellato dal concetto di energia di attivazione in cui le molecole che reagiscono devono avere un'energia totale superiore all'energia di attivazione prima di poter reagire. Fisicamente questa energia di attivazione descrive il fatto che i legami chimici tra gli atomi di silicio devono essere spezzati prima che si formi un nuovo legame tra gli atomi di silicio e ossigeno. Supponendo che l'energia di attivazione della reazione sia $1$ eV, calcolare di nuovo quanto tempo ci vorrebbe per depositare uno strato atomico di ossigeno alla temperatura sopra indicata. Potresti supporre che l'area sotto la distribuzione di Maxwell nella parte (a) sia unità. **[2,8 punti] **
 
-![[APhO_2002_theory_Q3_p2_f1.png]]
+![[prove/_attachments/apho_2002_theory/apho_2002_theory_q3_p2_f1.png]]
 
 **(e) ** Per i processi di litografia, la tavola di silicio pulita è rivestita uniformemente con uno strato di polimero trasparente (foto-resistente) di indice di rifrazione $\mu = 1.40$. Per misurare lo spessore di questa foto-resistenza, la vaffa è illuminata con fascio monocromatico collimato di luce di lunghezza d'onda $\lambda = 589$ nm. Per un certo spessore minimo di foto-resistenza, $d$, si verifica un'interferenza distruttiva della luce riflessa, assumendo un'incidenza normale sul rivestimento. Derivare un'espressione per la relazione tra $d$, $\mu$ e $\lambda$. Calcolare $d$ utilizzando i dati forniti. In questo punto si può presumere che il silicio si comporti come un mezzo con un indice di rifrazione superiore a $1.40$ e si possono ignorare molteplici riflessi. ** [2,5 punti] **
 

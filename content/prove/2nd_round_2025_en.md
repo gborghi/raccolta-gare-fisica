@@ -600,7 +600,7 @@ A lit candle stands in a basin filled with water up to half the height of the ca
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1RiVQtRXIYxZq_F0-0vbSjMOtpHd62pvz/view)
 
 
@@ -618,7 +618,7 @@ Una candela accesa si trova in un pozzo pieno di acqua fino alla metà dell'alte
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1RiVQtRXIYxZq_F0-0vbSjMOtpHd62pvz/view)
 
 
@@ -817,7 +817,7 @@ Chef Clara wants to heat her food as quickly as possible. She decides to use her
 **Topic:** [[Electromagnetic Induction]], [[Circuits]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1RiVQtRXIYxZq_F0-0vbSjMOtpHd62pvz/view)
 
 
@@ -835,7 +835,7 @@ La chef Clara vuole riscaldare il suo cibo il prima possibile. Decide di usare l
 **Topic:** [[Electromagnetic Induction]], [[Circuits]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1RiVQtRXIYxZq_F0-0vbSjMOtpHd62pvz/view)
 
 
@@ -858,7 +858,7 @@ It is known that it is possible to break a wine glass with the right sound. What
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1RiVQtRXIYxZq_F0-0vbSjMOtpHd62pvz/view)
 
 
@@ -876,7 +876,7 @@ It is known that it is possible to break a wine glass with the right sound. What
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1RiVQtRXIYxZq_F0-0vbSjMOtpHd62pvz/view)
 
 
@@ -904,7 +904,7 @@ The picture shows a stationary wave on a string between two walls at time $t = 0
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1RiVQtRXIYxZq_F0-0vbSjMOtpHd62pvz/view)
 
 
@@ -927,7 +927,7 @@ L'immagine mostra un'onda stazionaria su una corda tra due muri al tempo $t = 0\
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1RiVQtRXIYxZq_F0-0vbSjMOtpHd62pvz/view)
 
 
@@ -986,7 +986,7 @@ iii. (1.5 pts) Calculate the average power needed during the acceleration phase.
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1RiVQtRXIYxZq_F0-0vbSjMOtpHd62pvz/view)
 
 
@@ -1040,7 +1040,7 @@ iii. (1,5 punti) Calcolare la potenza media necessaria durante la fase di accele
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1RiVQtRXIYxZq_F0-0vbSjMOtpHd62pvz/view)
 
 

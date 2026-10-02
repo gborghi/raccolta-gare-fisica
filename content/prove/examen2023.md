@@ -171,7 +171,7 @@ $2{,}9\cdot10^{-2}\ \text{kg mol}^{-1}$
 **Topic:** [[Oscillations & Waves]], [[Thermodynamics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Piston (object)|Piston]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[Piston (object)|Piston]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1DCeC5rBJvzvwKvlsyhaWb9ZWb67gWNSO/view)
 
 
@@ -217,7 +217,7 @@ $2{,}9\cdot10^{-2}\ \text{kg mol}^{-1}$
 **Topic:** [[Oscillations & Waves]], [[Thermodynamics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Piston (object)|Piston]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[Piston (object)|Piston]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1DCeC5rBJvzvwKvlsyhaWb9ZWb67gWNSO/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -262,7 +262,7 @@ $2{,}9\cdot10^{-2}\ \text{kg mol}^{-1}$
 **Topic:** [[Oscillations & Waves]], [[Thermodynamics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Piston (object)|Piston]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[Piston (object)|Piston]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1DCeC5rBJvzvwKvlsyhaWb9ZWb67gWNSO/view)
 
 

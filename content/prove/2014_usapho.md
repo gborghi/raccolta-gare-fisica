@@ -317,7 +317,7 @@ c. An infinitely long wire on the $z$ axis is composed of positive charges with 
   iii. Now consider an observer moving with speed $v$ parallel to the $z$ axis so that the negative charges appear to be at rest. There is a symmetry between the electric and magnetic fields such that a variation to your answer to part b can be applied to the magnetic field in this part. You will need to change the multiplicative constant to something dimensionally correct and reverse the sign. Use this fact to find and describe the electric field measured by the moving observer, and comment on your result. (Some familiarity with special relativity can help you verify the direction of your result, but is not necessary to obtain the correct answer.)
 
 **Topic:** [[Electromagnetism]] [[Special Relativity]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]] [[Ampere's Law (metodo)|Ampere's Law]] [[Lorentz Transformation (metodo)|Lorentz Transformation]] [[Superposition Principle (metodo)|Superposition Principle]]
+**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]] [[methods/ampère's-law-(metodo)|Ampere's Law]] [[Lorentz Transformation (metodo)|Lorentz Transformation]] [[Superposition Principle (metodo)|Superposition Principle]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]] [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) - p.7](https://drive.google.com/file/d/11HjwugtFZYe6-XAKdzVRCWnuVVNPmLq5/view)
@@ -354,7 +354,7 @@ c. Un filo infinitamente lungo sull'asse $z$ è composto da cariche positive con
 iii. Ora, consideriamo un osservatore che si muove a velocità $v$ parallela all'asse $z$ in modo che le cariche negative sembrino essere a riposo. C'è una simmetria tra i campi elettrici e magnetici tale che una variazione della tua risposta alla parte b può essere applicata al campo magnetico in questa parte. Dovrai cambiare la costante moltiplicativa in qualcosa di dimensionalmente corretto e invertire il segno. Utilizzate questo fatto per trovare e descrivere il campo elettrico misurato dall'osservatore in movimento e commentate il risultato. (Qualche familiarità con la relatività speciale può aiutarti a verificare la direzione del tuo risultato, ma non è necessario per ottenere la risposta corretta.)
 
 **Topic:** [[Electromagnetism]] [[Special Relativity]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]] [[Ampere's Law (metodo)|Ampere's Law]] [[Lorentz Transformation (metodo)|Lorentz Transformation]] [[Superposition Principle (metodo)|Superposition Principle]]
+**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]] [[methods/ampère's-law-(metodo)|Ampere's Law]] [[Lorentz Transformation (metodo)|Lorentz Transformation]] [[Superposition Principle (metodo)|Superposition Principle]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]] [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) - p.7](https://drive.google.com/file/d/11HjwugtFZYe6-XAKdzVRCWnuVVNPmLq5/view)

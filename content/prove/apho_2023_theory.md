@@ -22,7 +22,7 @@ tags:
 ### Introduction
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q1_p1_f1.png]]
 *Figure 1: The International Space Station orbiting above the Earth.*
 <!--fig:end-->
 
@@ -41,19 +41,19 @@ The ISS orbital decay is caused by one or more mechanisms which absorb energy fr
 "... In May 2008, the altitude was 350 kilometers, the ISS lost $4.5\,km$ and was re-boosted by the Progess-60 supply ship by $5.5\,km$. Again, the ISS continued to lose altitude by $5.5\,km$ ..." [https://mod.jsc.nasa.gov]
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q1_p2_f1.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q1_p2_f1.png]]
 *Figure 2: The altitude of ISS ($km$) over the years.*
 <!--fig:end-->
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q1_p2_f2.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q1_p2_f2.png]]
 *Figure 3: The ISS mean height ($km$) in 2022-2023.*
 <!--fig:end-->
 
 "... The ISS loses up to $330\,ft$ ($100\,m$) of altitude each day ..." [NASA Control Data (2021)]. In 2023 the ISS flies at altitudes of 410 km, with an orbital decay about $70\,m$ every day ($\sim 2\,km$ per month), and during magnetic storms the daily descent reaches $300\,m$. The ISS accomplishes the de-orbit maneuvers by using the propulsion capabilities of the ISS and its visiting vehicles [International Space Station Transition Report (2022)].
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q1_p3_f1.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q1_p3_f1.png]]
 *Figure 4: ISS model with the cross sections from different aspect angles ($dm^2$). The CROC provides $2481\,m^2$ cross section.*
 <!--fig:end-->
 
@@ -89,7 +89,7 @@ We may assume that all pressure is hydrostatic and isotropic (i.e., it acts with
 *Remark 1.* The temperature of Earth's thermosphere at altitude $300-600\,km$ does not change considerably and reaches averagely about $800-900\,K$ on the solar side [NASA data]. Therefore, one may put $T_h = T = const$ by investigating the ISS orbital flight. Particularly, since the spacecraft spends almost half of its flight time in the shadow side of the Earth, where the temperature drops sharply, we may take the value of $T = 425\,K$ as the average temperature at these altitudes. This temperature is also in agreement with the air density value $\rho_h \sim 10^{-12}\,kg/\mathrm{m^3}$ [MSISE-90 Model of Earth's Upper Atmosphere] at $h = 400\,km$.
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q1_p4_f1.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q1_p4_f1.png]]
 *Figure 5: The Earth's thermosphere.*
 <!--fig:end-->
 
@@ -166,7 +166,7 @@ When a satellite moves at high speed in a magnetic field, an inducted electric c
 ### Introduzione
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q1_p1_f1.png]]
 *Figura 1: La Stazione Spaziale Internazionale in orbita sopra la Terra.*
 <!--fig:end-->
 
@@ -185,19 +185,19 @@ Il decadimento orbitale dell'ISS è causato da uno o più meccanismi che assorbo
 "... Nel maggio 2008, l'altitudine era di 350 chilometri, la ISS ha perso $4.5\,km$ ed è stata rinforzata dalla nave di approvvigionamento Progess-60 da $5.5\,km$. Ancora una volta, l'ISS ha continuato a perdere altitudine da $5.5\,km$ ... "
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q1_p2_f1.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q1_p2_f1.png]]
 *Figura 2: L'altitudine della ISS ($km$) nel corso degli anni.*
 <!--fig:end-->
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q1_p2_f2.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q1_p2_f2.png]]
 *Figura 3: Altezza media della ISS ($km$) nel 2022-2023.*
 <!--fig:end-->
 
 "... L'ISS perde fino a $330\,ft$ ($100\,m$) di altitudine ogni giorno ... " [Dati di controllo della NASA (2021)]. Nel 2023 l'ISS vola ad altitudini di 410 km, con un declino orbitale di circa $70\,m$ ogni giorno ($\sim 2\,km$ al mese), e durante le tempeste magnetiche la discesa giornaliera raggiunge $300\,m$. L'ISS realizza le manovre di sosta in orbita utilizzando le capacità di propulsione dell'ISS e dei suoi veicoli in visita [Rapporto sulla transizione della Stazione Spaziale Internazionale (2022) ].
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q1_p3_f1.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q1_p3_f1.png]]
 *Figura 4: modello ISS con le sezioni incrociate da angoli di aspetto diversi ($dm^2$). Il CROC fornisce $2481\,m^2$ sezione trasversale.*
 <!--fig:end-->
 
@@ -233,7 +233,7 @@ Possiamo presumere che tutta la pressione sia idrostatica e isotròpica (cioè a
 *Rimarca 1. * La temperatura della termosfera terrestre ad altitudine $300-600\,km$ non cambia considerevolmente e raggiunge in media $800-900\,K$ sul lato solare [dati della NASA]. Pertanto, si può mettere $T_h = T = const$ indagando il volo orbitale della ISS. In particolare, poiché la sonda trascorre quasi la metà del suo tempo di volo nel lato ombra della Terra, dove la temperatura scende notevolmente, possiamo prendere il valore di $T = 425\,K$ come la temperatura media a queste altitudini. Questa temperatura è anche in accordo con il valore di densità dell'aria $\rho_h \sim 10^{-12}\,kg/\mathrm{m^3}$ [Modelio MSISE-90 dell'atmosfera superiore della Terra] a $h = 400\,km$.
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q1_p4_f1.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q1_p4_f1.png]]
 *Figura 5: Termosfera terrestre.*
 <!--fig:end-->
 
@@ -335,7 +335,7 @@ and, often, saves time combining three equations for vector components into a si
 ### The statement
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q2_p1_f1.png]]
 *Figure 1. Ball rolling on the turntable without slipping*
 <!--fig:end-->
 
@@ -385,7 +385,7 @@ In this part, the turntable can rotate freely without any friction around $z$-ax
 In this part, we consider a density profile so that $I = mr^2/10$. This can be realized, for example, if the ball is filled up to half of its radius with uniform density and the remaining part has a negligible mass. In addition, on its outer surface, the ball has a uniform charge density $Q/(4\pi r^2)$, where $Q$ is the total surface charge. The whole setup is in a uniform magnetic field $\vec{B}$ that is in $\hat{z}$ direction. The turntable rotates with constant $\Omega$ like in Part A.
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q2_p3_f1.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q2_p3_f1.png]]
 *Figure 2. Ball rolling on the turntable in a constant magnetic field $\vec{B}$*
 <!--fig:end-->
 
@@ -444,7 +444,7 @@ e, spesso, risparmia tempo combinando tre equazioni per componenti vettoriali in
 ### La dichiarazione
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q2_p1_f1.png]]
 *Figura 1. Ball rolling sul giradischi senza scivolare*
 <!--fig:end-->
 
@@ -494,7 +494,7 @@ In questa parte, il giradischi può ruotare liberamente senza attrito intorno al
 In questa parte, consideriamo un profilo di densità in modo che $I = mr^2/10$. Questo può essere realizzato, ad esempio, se la palla è riempita fino alla metà del suo raggio con una densità uniforme e la parte rimanente ha una massa trascurabile. Inoltre, sulla sua superficie esterna, la palla ha una densità di carica uniforme $Q/(4\pi r^2)$, dove $Q$ è la carica totale della superficie. L'intera configurazione è in un campo magnetico uniforme $\vec{B}$ che è in direzione $\hat{z}$. Il rotor girato si ruota con costante $\Omega$ come nella parte A.
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q2_p3_f1.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q2_p3_f1.png]]
 *Figura 2. Ball rolling sul giradischi in un campo magnetico costante $\vec{B}$ *
 <!--fig:end-->
 
@@ -540,7 +540,7 @@ Da queste condizioni, trovare $\beta$ e $\gamma$. Con queste informazioni si tro
 Cavitation is the phenomenon of vapour bubbles or "cavities" occurring in a liquid medium due to drop in pressure. This is in contrast to boiling, where vapour bubbles are created due to rise in temperature. Since the vapour bubbles collapse and generate shock waves as well as supersonic jets when the dropped pressure is restored, cavitation is a constant source of damage and even of catastrophe in hydraulic machines, ships, and more generally in any device involving liquid flow. On the other hand, it has found many positive applications, for example in chemical industry, cleaning, and in treatment of kidney stones.
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q3_p1_f1.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q3_p1_f1.png]]
 *Figure 1. (a) Cavitating propeller (b) Cavitation damage (Source: Wikimedia Commons)*
 <!--fig:end-->
 
@@ -551,7 +551,7 @@ In this problem, we will be concerned with various idealized scenarios related t
 One of the first things we want to know is the so called critical (or threshold) pressure, that is the minimum value of the water pressure so that the nuclei remain microscopic without growing into macroscopic bubbles. The critical pressure is roughly equal to the vapour pressure at the given temperature, but the exact value is slightly lower due to surface tension and the air content of the nucleus.
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q3_p2_f1.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q3_p2_f1.png]]
 *Figure 2. (a) Cavitation (down arrow) and boiling (right arrow) on a phase diagram (b) Typical bubble (see Table 1 for notations)*
 <!--fig:end-->
 
@@ -568,7 +568,7 @@ Finally, there is a sort of paradox regarding the existence of nuclei in the fir
 Let us say we have a closed jar containing water and air. If the air is too dry, then its humidity will increase due to evaporation of water. If the air is too wet, then its humidity will decrease due to condensation. It turns out that in equilibrium, the partial pressure $p_v = p_v(T)$ of vapour in air is a function of temperature.
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q3_p3_f1.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q3_p3_f1.png]]
 *Figure 3. (a) Closed jar containing air and water in equilibrium (b) Diffusion flux through the surface S is proportional to the concentration gradient across S*
 <!--fig:end-->
 
@@ -676,7 +676,7 @@ In this final section, complementary to Part B, we focus on the effect of diffus
 **C.2** *(0.5pt)* Consider a conical crevice in the wall of a water container, with an aperture angle $\alpha$, see the following Figure. A small amount of air and vapour reside within the cone. Write down the condition of mechanical and diffusive equilibrium. Determine when the pocket of air stays in the crevice without disappearing. The contact angle of water on the surface is $\theta$.
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q3_p7_f1.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q3_p7_f1.png]]
 *Conical Crevice*
 <!--fig:end-->
 
@@ -697,7 +697,7 @@ In this final section, complementary to Part B, we focus on the effect of diffus
 La cavitazione è il fenomeno di bolle di vapore o "cavità" che si verificano in un mezzo liquido a causa di una diminuzione della pressione. Questo contrasta con l'ebollizione, in cui si creano bolle di vapore a causa dell'aumento della temperatura. Poiché le bolle di vapore crollano e generano onde d'urto e getti supersonici quando la pressione diminuita viene ripristinata, la cavitazione è una fonte costante di danni e persino di catastrofi nelle macchine idrauliche, nelle navi e più in generale in qualsiasi dispositivo che coinvolga il flusso di liquidi. D'altra parte, ha trovato molte applicazioni positive, ad esempio nell'industria chimica, nella pulizia e nel trattamento delle pietre renali.
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q3_p1_f1.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q3_p1_f1.png]]
 *Figura 1. (a) Epilina cavitatrice (b) Danni cavitativi (Fonte: Wikimedia Commons)*
 <!--fig:end-->
 
@@ -708,7 +708,7 @@ In questo problema, ci occuperemo di vari scenari idealizzati relativi alla cavi
 Una delle prime cose che vogliamo sapere è la cosiddetta pressione critica (o soglia), cioè il valore minimo della pressione dell'acqua in modo che i nuclei rimangano microscopici senza crescere in bolle macroscopiche. La pressione critica è approssimativamente uguale alla pressione del vapore alla temperatura data, ma il valore esatto è leggermente inferiore a causa della tensione superficiale e del contenuto di aria del nucleo.
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q3_p2_f1.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q3_p2_f1.png]]
 *Figura 2. (a) Cavitazione (filota verso il basso) e bollio (filota verso il destro) su un diagramma di fase (b) Bolla tipica (vedi tabella 1 per le notazioni)*
 <!--fig:end-->
 
@@ -725,7 +725,7 @@ Infine, c'è una sorta di paradosso riguardo all'esistenza dei nuclei. La teoria
 Diciamo che abbiamo un vaso chiuso contenente acqua e aria. Se l'aria è troppo secca, allora la sua umidità aumenterà a causa dell'evaporazione dell'acqua. Se l'aria è troppo umida, la sua umidità diminuirà a causa della condensazione. Si scopre che in equilibrio la pressione parziale $p_v = p_v(T)$ del vapore nell'aria è una funzione della temperatura.
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q3_p3_f1.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q3_p3_f1.png]]
 *Figura 3. (a) Un vaso chiuso contenente aria e acqua in equilibrio (b) Il flusso di diffusione attraverso la superficie S è proporzionale al gradiente di concentrazione su S*
 <!--fig:end-->
 
@@ -833,7 +833,7 @@ In questa sezione finale, complementare alla parte B, ci concentriamo sull'effet
 **C.2 ** *(0,5pt) * Considera una crepa conica nella parete di un contenitore d'acqua, con un angolo di apertura $\alpha$, vedi figura seguente. Una piccola quantità di aria e vapore risiede all'interno del cono. Scrivi la condizione di equilibrio meccanico e diffuso. Determinare quando la tasca di aria rimane nella spaccatura senza scomparire. L'angolo di contatto dell'acqua sulla superficie è $\theta$.
 
 <!--fig:start-->
-![[_attachments/APhO_2023_theory/APhO_2023_theory_Q3_p7_f1.png]]
+![[prove/_attachments/apho_2023_theory/apho_2023_theory_q3_p7_f1.png]]
 *Crivia conica*
 <!--fig:end-->
 

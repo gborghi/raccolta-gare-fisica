@@ -462,7 +462,7 @@ de um observador que percebe este movimento, é correto afirmar que:
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]], [[Conservation of Energy]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]], [[Pendulum (object)|Pendulum]], [[Block (object)|Block]]
+**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]], [[Pendulum (object)|Pendulum]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1eegYPxZelWJqjIMQEYu4kExuE0T9ExFM/view)
 
 
@@ -550,7 +550,7 @@ di un osservatore che percepe questo movimento, è corretto affermare che:
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]], [[Conservation of Energy]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]], [[Pendulum (object)|Pendulum]], [[Block (object)|Block]]
+**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]], [[Pendulum (object)|Pendulum]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1eegYPxZelWJqjIMQEYu4kExuE0T9ExFM/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -637,7 +637,7 @@ of an observer who perceives this movement, it is correct to state that:
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]], [[Conservation of Energy]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]], [[Pendulum (object)|Pendulum]], [[Block (object)|Block]]
+**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]], [[Pendulum (object)|Pendulum]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1eegYPxZelWJqjIMQEYu4kExuE0T9ExFM/view)
 
 
@@ -1349,7 +1349,7 @@ radiação solar;
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1eegYPxZelWJqjIMQEYu4kExuE0T9ExFM/view)
 
 
@@ -1374,7 +1374,7 @@ radiare da sole;
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1eegYPxZelWJqjIMQEYu4kExuE0T9ExFM/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1398,7 +1398,7 @@ the radiation from the sun;
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1eegYPxZelWJqjIMQEYu4kExuE0T9ExFM/view)
 
 
@@ -1710,7 +1710,7 @@ uma menor velocidade de escoamento.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1eegYPxZelWJqjIMQEYu4kExuE0T9ExFM/view)
 
 
@@ -1734,7 +1734,7 @@ una velocità di scarico inferiore.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1eegYPxZelWJqjIMQEYu4kExuE0T9ExFM/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1757,7 +1757,7 @@ a lower flow rate.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1eegYPxZelWJqjIMQEYu4kExuE0T9ExFM/view)
 
 

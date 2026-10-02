@@ -179,7 +179,7 @@ Which of the following graphs qualitatively depicts the variation in resistivity
 
 <!--fig:start-->
 **Quesito 5**
-![[NSEA_2025_Question_p4_f1.png]]
+![[_attachments/nsea_2025_question/nsea_2025_question_p4_f1.png]]
 <!--fig:end-->
 
 The four graphs (resistivity $\rho$ on the vertical axis, temperature $T$ on the horizontal axis) are:
@@ -202,7 +202,7 @@ Quale dei seguenti grafici raffigura qualitativamente correttamente la variazion
 
 <!--fig:start-->
 **Quesito 5**
-![[NSEA_2025_Question_p4_f1.png]]
+![[_attachments/nsea_2025_question/nsea_2025_question_p4_f1.png]]
 <!--fig:end-->
 
 I quattro grafici (resistenza $\rho$ sull'asse verticale, temperatura $T$ sull'asse orizzontale) sono:
@@ -230,7 +230,7 @@ Three identical bulbs, B, C and D are connected in a circuit as shown below. By 
 
 <!--fig:start-->
 **Quesito 6**
-![[NSEA_2025_Question_p4_f2.png]]
+![[_attachments/nsea_2025_question/nsea_2025_question_p4_f2.png]]
 <!--fig:end-->
 
 - (a) in series with bulb B, the intensity of bulb B will decrease but that of bulb C and D will increase.
@@ -252,7 +252,7 @@ Tre lampadine identiche, B, C e D, sono collegate in un circuito come mostrato d
 
 <!--fig:start-->
 **Quesito 6**
-![[NSEA_2025_Question_p4_f2.png]]
+![[_attachments/nsea_2025_question/nsea_2025_question_p4_f2.png]]
 <!--fig:end-->
 
 - (a) in serie con lampadina B, l'intensità del lampadino B diminuirà ma quella dei lampadini C e D aumenterà.
@@ -279,7 +279,7 @@ Two cannons are placed on 1000 m high towers at a horizontal distance of 400 m b
 
 <!--fig:start-->
 **Quesito 7**
-![[NSEA_2025_Question_p4_f3.png]]
+![[_attachments/nsea_2025_question/nsea_2025_question_p4_f3.png]]
 <!--fig:end-->
 
 - (a) $x = 200$ m, $y = -45$ m
@@ -301,7 +301,7 @@ Due cannoni sono posizionati su torri alte 1000 m a una distanza orizzontale di 
 
 <!--fig:start-->
 **Quesito 7**
-![[NSEA_2025_Question_p4_f3.png]]
+![[_attachments/nsea_2025_question/nsea_2025_question_p4_f3.png]]
 <!--fig:end-->
 
 - (a) $x = 200$ m, $y = -45$ m
@@ -328,7 +328,7 @@ Sixty moles of Helium gas are initially at 28°C (at A). It undergoes an isother
 
 <!--fig:start-->
 **Quesito 8**
-![[NSEA_2025_Question_p4_f4.png]]
+![[_attachments/nsea_2025_question/nsea_2025_question_p4_f4.png]]
 <!--fig:end-->
 
 - (a) 206 kJ
@@ -350,7 +350,7 @@ Sixty moles of Helium gas are initially at 28°C (at A). It undergoes an isother
 
 <!--fig:start-->
 **Quesito 8**
-![[NSEA_2025_Question_p4_f4.png]]
+![[_attachments/nsea_2025_question/nsea_2025_question_p4_f4.png]]
 <!--fig:end-->
 
 - (a) 206 kJ
@@ -416,7 +416,7 @@ Select the statement describing correctly the functioning of the circuit shown b
 
 <!--fig:start-->
 **Quesito 10**
-![[NSEA_2025_Question_p5_f1.png]]
+![[_attachments/nsea_2025_question/nsea_2025_question_p5_f1.png]]
 <!--fig:end-->
 
 - (a) From the time the switch S is closed, the bulb will start glowing with intensity increasing uniformly to a maximum value and will turn off after some time.
@@ -438,7 +438,7 @@ Selezionare la dichiarazione che descrive correttamente il funzionamento del cir
 
 <!--fig:start-->
 **Quesito 10**
-![[NSEA_2025_Question_p5_f1.png]]
+![[_attachments/nsea_2025_question/nsea_2025_question_p5_f1.png]]
 <!--fig:end-->
 
 - a) Dal momento in cui l'interruttore S è chiuso, l'ampolla inizierà a risplendere con un'intensità che aumenta uniformemente fino a raggiungere il valore massimo e si spegnerà dopo un certo tempo.
@@ -1134,7 +1134,7 @@ A water tank has the shape of an inverted right circular cone, whose semi-vertic
 **Topic:** [[Mathematics]]
 **Metodi:** [[Calculus-Integration (metodo)|Calculus-Integration]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/10Wf_W59ZtbUGInFDB_4tIaLvo1zXUx29/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Cg8dQKQOMZeyp9k0XNUpxGZds5Flnf55/view)
 
@@ -1151,7 +1151,7 @@ Un serbatoio d'acqua ha la forma di un cono circolare a destra invertito, il cui
 **Topic:** [[Mathematics]]
 **Metodi:** [[Calculus-Integration (metodo)|Calculus-Integration]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/10Wf_W59ZtbUGInFDB_4tIaLvo1zXUx29/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Cg8dQKQOMZeyp9k0XNUpxGZds5Flnf55/view)
 
@@ -2041,7 +2041,7 @@ Two current carrying wires A and B are held fixed, parallel to each other, at a 
 
 <!--fig:start-->
 **Quesito 51**
-![[NSEA_2025_Question_p10_f1.png]]
+![[_attachments/nsea_2025_question/nsea_2025_question_p10_f1.png]]
 <!--fig:end-->
 
 Which of the following statement(s) is/are true with reference to the given situation?
@@ -2065,7 +2065,7 @@ Due fili di carico A e B sono fissati, paralleli l'uno all'altro, a una distanza
 
 <!--fig:start-->
 **Quesito 51**
-![[NSEA_2025_Question_p10_f1.png]]
+![[_attachments/nsea_2025_question/nsea_2025_question_p10_f1.png]]
 <!--fig:end-->
 
 Quali delle seguenti affermazioni sono/sono vere per la situazione data?

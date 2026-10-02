@@ -32,7 +32,7 @@ trajetória indicada pela linha tracejada. Qual é a velocidade da bola:
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Oscillations & Waves]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]], [[Pendulum (object)|Pendulum]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]], [[Pendulum (object)|Pendulum]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1upsdMax_ZLmwZ2a3q7_K2Gmvw_Pp4Z-_/view)
 
 
@@ -51,7 +51,7 @@ la tragittoria indicata dalla linea tracciata. Qual è la velocità della palla:
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Oscillations & Waves]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]], [[Pendulum (object)|Pendulum]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]], [[Pendulum (object)|Pendulum]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1upsdMax_ZLmwZ2a3q7_K2Gmvw_Pp4Z-_/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -69,7 +69,7 @@ trajectory indicated by the traced line. What is the speed of the ball:
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Oscillations & Waves]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]], [[Pendulum (object)|Pendulum]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]], [[Pendulum (object)|Pendulum]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1upsdMax_ZLmwZ2a3q7_K2Gmvw_Pp4Z-_/view)
 
 

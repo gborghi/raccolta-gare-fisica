@@ -180,7 +180,7 @@ Assumendo che la velocità sia di 1 quadretto/s, quanto vale lo spostamento del 
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Superposition Principle (metodo)|Superposition Principle]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
 **Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
@@ -203,7 +203,7 @@ Assuming the speed is 1 square/s, what's the value of moving the point X after 3
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Superposition Principle (metodo)|Superposition Principle]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
 The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
 
@@ -1673,7 +1673,7 @@ Quale tra i seguenti grafici rappresenta l'andamento della portata in massa in f
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
 **Risposta:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
@@ -1696,7 +1696,7 @@ Which of the following graphs shows the trend of the mass flow in relation to th
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
 The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
 
@@ -1724,7 +1724,7 @@ Quante di queste frequenze daranno origine a risonanza?
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
 **Risposta:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
@@ -1747,7 +1747,7 @@ How many of these frequencies will give rise to an resonance?
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
 The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
 
@@ -1818,7 +1818,7 @@ Se il filo è tale da resistere fino ad una sollecitazione massima di 15 N, oltr
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
 **Risposta:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
@@ -1841,7 +1841,7 @@ If the wire is such that it can withstand a maximum stress of 15 N, beyond which
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QapUQal6f52r2kFMtAsaHU16NI6-dimX/view)
 The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
 

@@ -419,7 +419,7 @@ Qual a perda de energia mecânica, após a colisão?
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]], [[Conservation of Energy]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Projectile (object)|Projectile]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[Projectile (object)|Projectile]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1nI3_a7t-FXgLk43JOcId-87exdD07Ik0/view)
 
 
@@ -438,7 +438,7 @@ Qual è la perdita di energia meccanica dopo l'incidente?
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]], [[Conservation of Energy]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Projectile (object)|Projectile]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[Projectile (object)|Projectile]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1nI3_a7t-FXgLk43JOcId-87exdD07Ik0/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -456,7 +456,7 @@ What's the loss of mechanical energy after the collision?
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]], [[Conservation of Energy]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Projectile (object)|Projectile]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[Projectile (object)|Projectile]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1nI3_a7t-FXgLk43JOcId-87exdD07Ik0/view)
 
 
@@ -480,7 +480,7 @@ Qual a máxima altura que o conjunto (projétil + Bloco) atinge?
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]], [[Conservation of Energy]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Projectile (object)|Projectile]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[Projectile (object)|Projectile]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1nI3_a7t-FXgLk43JOcId-87exdD07Ik0/view)
 
 
@@ -499,7 +499,7 @@ Qual è la massima altezza raggiunta dal blocco?
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]], [[Conservation of Energy]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Projectile (object)|Projectile]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[Projectile (object)|Projectile]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1nI3_a7t-FXgLk43JOcId-87exdD07Ik0/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -517,7 +517,7 @@ What is the maximum height the set (project + block) reaches?
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]], [[Conservation of Energy]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Projectile (object)|Projectile]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[Projectile (object)|Projectile]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1nI3_a7t-FXgLk43JOcId-87exdD07Ik0/view)
 
 
@@ -541,7 +541,7 @@ Caso o bloco $M$ seja abandonado do repouso, qual a tração no fio?
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1nI3_a7t-FXgLk43JOcId-87exdD07Ik0/view)
 
 
@@ -560,7 +560,7 @@ Se il blocco $M$ viene abbandonato dal riposo, quale sarà la trazione del filo?
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1nI3_a7t-FXgLk43JOcId-87exdD07Ik0/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -578,7 +578,7 @@ If the $M$ block is abandoned at rest, what is the traction on the wire?
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1nI3_a7t-FXgLk43JOcId-87exdD07Ik0/view)
 
 
@@ -600,7 +600,7 @@ Considere um disco de massa $M = 2{,}0$ kg sobre uma mesa plana e horizontal pre
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1nI3_a7t-FXgLk43JOcId-87exdD07Ik0/view)
 
 
@@ -617,7 +617,7 @@ Considerare un disco di massa $M = 2{,}0$ kg su una tavola piana e orizzontale a
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1nI3_a7t-FXgLk43JOcId-87exdD07Ik0/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -633,7 +633,7 @@ Consider a disc of $M = 2{,}0$ kg mass on a flat horizontal table attached by a 
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1nI3_a7t-FXgLk43JOcId-87exdD07Ik0/view)
 
 
@@ -710,7 +710,7 @@ Em um espetáculo no teatro Santa Rosa, um número de mágica utiliza um contrap
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1nI3_a7t-FXgLk43JOcId-87exdD07Ik0/view)
 
 
@@ -727,7 +727,7 @@ In uno spettacolo al teatro Santa Rosa, un numero di magia usa un contrappeso di
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1nI3_a7t-FXgLk43JOcId-87exdD07Ik0/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -743,7 +743,7 @@ In a performance at the Santa Rosa Theatre, a magic number uses a 400-pound coun
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1nI3_a7t-FXgLk43JOcId-87exdD07Ik0/view)
 
 
@@ -769,7 +769,7 @@ Considere o tubo de um manômetro parcialmente preenchido com água de densidade
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Manometer (object)|Manometer]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Manometer (object)|Manometer]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1nI3_a7t-FXgLk43JOcId-87exdD07Ik0/view)
 
 
@@ -790,7 +790,7 @@ Considera il tubo di un manometro partialmente riempito di acqua di densità $\r
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Manometer (object)|Manometer]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Manometer (object)|Manometer]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1nI3_a7t-FXgLk43JOcId-87exdD07Ik0/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -810,7 +810,7 @@ Consider the tube of a partly filled pressure gauge with water density $\rho_{\t
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Manometer (object)|Manometer]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Manometer (object)|Manometer]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1nI3_a7t-FXgLk43JOcId-87exdD07Ik0/view)
 
 

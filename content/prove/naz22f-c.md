@@ -61,7 +61,7 @@ COMMISSIONE
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Ball (object)|Ball]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ZFGvpJjjn7ms6u1LUihIzepG8cMTCBsV/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pjsdTmBxTl2x9HRm9l-yMsU37aKPlmjV/view)
 
@@ -114,7 +114,7 @@ The Commission
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Ball (object)|Ball]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ZFGvpJjjn7ms6u1LUihIzepG8cMTCBsV/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pjsdTmBxTl2x9HRm9l-yMsU37aKPlmjV/view)
 

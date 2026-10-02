@@ -50,7 +50,7 @@ Considerando ancora trascurabili sia la capacità termica del recipiente che la 
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Differential Equations (metodo)|Differential Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1yHtmbLqiurt4uQmBPCiZGLuuWSUN9nDU/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1O_110z4xV0xp1_XRb_gJwYkSdk3VO7Nx/view)
 
@@ -92,6 +92,6 @@ Considering that both the heat capacity of the container and the amount of water
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Differential Equations (metodo)|Differential Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1yHtmbLqiurt4uQmBPCiZGLuuWSUN9nDU/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1O_110z4xV0xp1_XRb_gJwYkSdk3VO7Nx/view)

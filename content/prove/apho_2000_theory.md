@@ -24,7 +24,7 @@ A long time ago, before scientists could measure the speed of light accurately, 
 A long series of observations of the eclipses permitted an accurate evaluation of the period of $M$. The observed period $T$ depends on the relative position of the earth with respect to the frame of reference $SJ$ as one of the coordinate axes. The average time of revolution is $T_0 = 42\text{h}\ 28\text{m}\ 16\text{s}$ and the maximum observed period is $(T_0 + 15)\,\text{s}$.
 
 <!--fig:start-->
-![[APhO_2000_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2000_theory/apho_2000_theory_q1_p1_f1.png]]
 *Figure 1: The orbits of the earth $E$ around the sun and a satellite $M$ around Jupiter $J$. The average distance of the earth $E$ to the Sun is $R_E = 149.6 \times 10^6\ \text{km}$. The maximum distance is $R_{E,\max} = 1.015\,R_E$. The period of revolution of the earth is 365 days and of Jupiter is 11.9 years. The distance of the satellite $M$ to the planet Jupiter is $R_M = 422 \times 10^3\ \text{km}$.*
 <!--fig:end-->
 
@@ -57,7 +57,7 @@ Molto tempo fa, prima che gli scienziati potessero misurare con precisione la ve
 Una lunga serie di osservazioni delle eclissi ha permesso di valutare con precisione il periodo di $M$. Il periodo osservato $T$ dipende dalla posizione relativa della terra rispetto al quadro di riferimento $SJ$ come uno degli assi di coordinate. Il tempo medio di rivoluzione è $T_0 = 42\text{h}\ 28\text{m}\ 16\text{s}$ e il periodo massimo osservato è $(T_0 + 15)\,\text{s}$.
 
 <!--fig:start-->
-![[APhO_2000_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2000_theory/apho_2000_theory_q1_p1_f1.png]]
 *Figura 1: Le orbite della terra $E$ attorno al sole e di un satellite $M$ attorno a Giove $J$. La distanza media della terra $E$ dal Sole è $R_E = 149.6 \times 10^6\ \text{km}$. La distanza massima è $R_{E,\max} = 1.015\,R_E$. Il periodo di rivoluzione della Terra è di 365 giorni e di Giove di 11,9 anni. La distanza del satellite $M$ dal pianeta Giove è $R_M = 422 \times 10^3\ \text{km}$.*
 <!--fig:end-->
 
@@ -101,7 +101,7 @@ where $R_\alpha$ is measured in cm and $E$ in MeV.
 For monitoring $\alpha$ radiation, one can use an ionization chamber, which is a gas-filled detector that operates on the principle of separation of positive and negative charges created during the ionization of gas atoms by the $\alpha$ particle. The collection of charges yields a pulse that can be detected, amplified and then recorded. The voltage difference between anode and cathode is kept sufficiently high so that there is a negligible amount of recombination of charges during their passage to the anodes.
 
 <!--fig:start-->
-![[APhO_2000_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2000_theory/apho_2000_theory_q2_p1_f1.png]]
 *Figure 1: Schematic diagram of ionization chamber circuit.*
 <!--fig:end-->
 
@@ -138,7 +138,7 @@ dove $R_\alpha$ è misurato in cm e $E$ in MeV.
 Per il monitoraggio delle radiazioni $\alpha$ si può utilizzare una camera di ionizzazione, che è un rilevatore pieno di gas che opera sul principio di separazione delle cariche positive e negative create durante l'ionizzazione degli atomi di gas dalla particella $\alpha$. La raccolta di cariche produce un impulso che può essere rilevato, amplificato e quindi registrato. La differenza di tensione tra anodo e catodo è mantenuta sufficientemente elevata per consentire una ricombinazione trascurabile di cariche durante il loro passaggio agli anodi.
 
 <!--fig:start-->
-![[APhO_2000_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2000_theory/apho_2000_theory_q2_p1_f1.png]]
 *Figura 1: Schema schematica del circuito della camera di ionizzazione.*
 <!--fig:end-->
 

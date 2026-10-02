@@ -32,7 +32,7 @@ e) El volumen de la mezcla.
 **Topic:** [[Thermodynamics]], [[Circuits]], [[Magnetism]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1iCxyaxBX2RyrEJi1A-Cn4O582d0zzKXU/view)
 
 
@@ -55,7 +55,7 @@ e) Il volume della miscela.
 **Topic:** [[Thermodynamics]], [[Circuits]], [[Magnetism]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1iCxyaxBX2RyrEJi1A-Cn4O582d0zzKXU/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -77,7 +77,7 @@ If you mix the two liquids, find:
 **Topic:** [[Thermodynamics]], [[Circuits]], [[Magnetism]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1iCxyaxBX2RyrEJi1A-Cn4O582d0zzKXU/view)
 
 

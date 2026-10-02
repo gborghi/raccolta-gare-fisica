@@ -36,7 +36,7 @@ Constante de gravitación universal $G = 6{,}67\cdot10^{-11}\ \text{N m}^2\text{
 **Topic:** [[Gravitation]], [[Newtonian Mechanics]]
 **Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Black Hole (object)|Black Hole]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Black Hole (object)|Black Hole]], [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1nbqRJJxoSQvUyUmSKoB5R-unfFHin13j/view)
 
 
@@ -59,7 +59,7 @@ Costante di gravità universale $G = 6{,}67\cdot10^{-11}\ \text{N m}^2\text{ kg}
 **Topic:** [[Gravitation]], [[Newtonian Mechanics]]
 **Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Black Hole (object)|Black Hole]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Black Hole (object)|Black Hole]], [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1nbqRJJxoSQvUyUmSKoB5R-unfFHin13j/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -81,7 +81,7 @@ Constante de gravitación universal $G = 6{,}67\cdot10^{-11}\ \text{N m}^2\text{
 **Topic:** [[Gravitation]], [[Newtonian Mechanics]]
 **Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Black Hole (object)|Black Hole]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Black Hole (object)|Black Hole]], [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1nbqRJJxoSQvUyUmSKoB5R-unfFHin13j/view)
 
 
@@ -107,7 +107,7 @@ Aceleración de la gravedad $g = 9{,}8\ \text{m s}^{-2}$
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1nbqRJJxoSQvUyUmSKoB5R-unfFHin13j/view)
 
 
@@ -128,7 +128,7 @@ Accelerazione gravitatoria $g = 9{,}8\ \text{m s}^{-2}$
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1nbqRJJxoSQvUyUmSKoB5R-unfFHin13j/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -148,7 +148,7 @@ Aceleración de la gravedad $g = 9{,}8\ \text{m s}^{-2}$
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1nbqRJJxoSQvUyUmSKoB5R-unfFHin13j/view)
 
 
@@ -172,7 +172,7 @@ fuente de luz. Determine:
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Screen (object)|Screen]], [[Block (object)|Block]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Screen (object)|Screen]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1nbqRJJxoSQvUyUmSKoB5R-unfFHin13j/view)
 
 
@@ -191,7 +191,7 @@ fonte di luce. Determina:
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Screen (object)|Screen]], [[Block (object)|Block]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Screen (object)|Screen]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1nbqRJJxoSQvUyUmSKoB5R-unfFHin13j/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -209,7 +209,7 @@ the source of light. Determine:
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Screen (object)|Screen]], [[Block (object)|Block]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Screen (object)|Screen]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1nbqRJJxoSQvUyUmSKoB5R-unfFHin13j/view)
 
 

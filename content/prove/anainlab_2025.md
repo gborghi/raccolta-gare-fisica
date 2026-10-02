@@ -183,7 +183,7 @@ Consider the configurations in the graph that correspond to the same angle of fa
 
 Lo scafo delle tradizionali barche a vela ha una forma particolare: la parte immersa ha una prominenza chiamata chiglia che si estende molto in basso ed è fatta di materiali pesanti come ferro, piombo o acciaio. Ci sono delle somiglianze tra questa scelta e l'esperimento che avete appena condotto? Descrivete le e provate a darne una giustificazione.
 
-![chiglia](figura-chiglia)
+*chiglia*
 
 <!--fig:start-->
 ![[_attachments/ANAinLAB_2025/ANAinLAB_2025_p22_f1.png]]

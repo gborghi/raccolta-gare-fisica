@@ -39,7 +39,7 @@ Determina il valore dei coefficienti $c_i$ che caratterizzano le oscillazioni de
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1GrEtzKubhXwgReswPNItlrHNPMdI5U2N/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1D1M3LBmZsHDCGjjY1GjH7MHeQwllyXxi/view)
 
@@ -70,7 +70,7 @@ Determine the value of the coefficients $c_i$ that characterize the oscillations
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1GrEtzKubhXwgReswPNItlrHNPMdI5U2N/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1D1M3LBmZsHDCGjjY1GjH7MHeQwllyXxi/view)
 
@@ -95,7 +95,7 @@ Effettua le misure di periodo necessarie per trovare la funzione $c_2 = f_1(d)$.
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1GrEtzKubhXwgReswPNItlrHNPMdI5U2N/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1D1M3LBmZsHDCGjjY1GjH7MHeQwllyXxi/view)
 
@@ -115,7 +115,7 @@ Performs the period measurements necessary to find the $c_2 = f_1(d)$ function. 
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1GrEtzKubhXwgReswPNItlrHNPMdI5U2N/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1D1M3LBmZsHDCGjjY1GjH7MHeQwllyXxi/view)
 

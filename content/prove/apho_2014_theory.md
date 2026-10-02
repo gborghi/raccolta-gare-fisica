@@ -20,7 +20,7 @@ tags:
 The schematic below shows the Hadley circulation in the Earth's tropical atmosphere around the spring equinox. Air rises from the equator and moves poleward in both hemispheres before descending in the subtropics at latitudes $\pm\varphi_d$ (where positive and negative latitudes refer to the northern and southern hemisphere respectively). The angular momentum about the Earth's spin axis is conserved for the upper branches of the circulation (enclosed by the dashed oval). Note that the schematic is not drawn to scale.
 
 <!--fig:start-->
-![[APhO_2014_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2014_theory/apho_2014_theory_q1_p1_f1.png]]
 *Schematic of the Hadley circulation. The sun is overhead at the equator; X marks the rising branch at the equator, Y the descending branches at latitudes $\pm\varphi_d$. The dashed oval encloses the upper branches where angular momentum is conserved. "northward" points toward $+\varphi_d$; the surface is shaded at the bottom (Equator at centre).*
 <!--fig:end-->
 
@@ -37,7 +37,7 @@ Tick the correct answer(s). There can be more than one correct answer.
 Around the northern winter solstice, the rising branch of the Hadley circulation is located at the latitude $\varphi_r$ and the descending branches are located at $\varphi_n$ and $\varphi_s$ as shown in the schematic below. Refer to this diagram for parts (c), (d) and (e).
 
 <!--fig:start-->
-![[APhO_2014_theory_Q1_p2_f1.png]]
+![[prove/_attachments/apho_2014_theory/apho_2014_theory_q1_p2_f1.png]]
 *Schematic of the Hadley circulation around the northern winter solstice. The rising branch is at latitude $\varphi_r$ (point Z); the descending branches are at $\varphi_n$ (point P, northern hemisphere) and $\varphi_s$ (point R, southern hemisphere). Points P, Q, Z, R are marked along the circulation. The dashed oval encloses the upper branches; "northward" points toward $\varphi_n$.*
 <!--fig:end-->
 
@@ -53,7 +53,7 @@ Hence, which hemisphere below has a stronger atmospheric jet stream?
 - **B.** south of the equator.
 
 <!--fig:start-->
-![[APhO_2014_theory_Q1_p3_f1.png]]
+![[prove/_attachments/apho_2014_theory/apho_2014_theory_q1_p3_f1.png]]
 *Diagram for part (d): a horizontal line marks the Equator (with N pointing up at the left), and a thick downward arrow labelled "near-surface branch of Hadley" crosses the equator from north to south.*
 <!--fig:end-->
 
@@ -63,7 +63,7 @@ Hence, which hemisphere below has a stronger atmospheric jet stream?
 Suppose the Hadley circulation can be simplified as a heat engine shown in the schematic below. Focusing on the Hadley circulation reaching into the winter hemisphere as shown below, the physical transformation of the air mass from A to B and from D to E are adiabatic, while that from B to C, C to D and from E to A are isothermal. Air gains heat by contact with the Earth's surface and by condensation of water from the atmosphere, while air loses heat by radiation into space.
 
 <!--fig:start-->
-![[APhO_2014_theory_Q1_p3_f2.png]]
+![[prove/_attachments/apho_2014_theory/apho_2014_theory_q1_p3_f2.png]]
 *Heat-engine schematic of the Hadley circulation. Going around the loop A → B → C → D → E → A: A to B (rising, through a cloud) and D to E are adiabatic; B to C, C to D and E to A are isothermal. At the top, the air loses heat by "blackbody radiation" (wavy arrows pointing outward near C–D); near the surface (E–A) the air gains heat by "surface heat transfer" (wavy arrows from the shaded ground). "northward" points to the left.*
 <!--fig:end-->
 
@@ -102,7 +102,7 @@ Note that the ratio of molar gas constant ($R$) to molar heat capacity at consta
 Lo schema di seguito mostra la circolazione di Hadley nell'atmosfera tropicale terrestre intorno all'equinozio di primavera. L'aria sale dall'equatore e si muove verso i poli in entrambi gli emisferi prima di scendere nei subtropici alle latitudini $\pm\varphi_d$ (dove le latitudini positive e negative si riferiscono rispettivamente all'emisfero nord e meridionale). Il momento angolare intorno all'asse di rotazione della Terra è conservato per i rami superiori della circolazione (inclosso dall'ovale a strisce). Si noti che lo schema non è tracciato su scala.
 
 <!--fig:start-->
-![[APhO_2014_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2014_theory/apho_2014_theory_q1_p1_f1.png]]
 *Schematic of the Hadley circulation. Il sole è sopra l'equatore; X segna il ramo in salita all'equatore, Y i rami discendenti alle latitudini $\pm\varphi_d$. L'ovalo a punti circonda i rami superiori dove viene conservato il momento angolare. "Nord" indica $+\varphi_d$; la superficie è ombrata in fondo (l'Equatore al centro).*
 <!--fig:end-->
 
@@ -119,7 +119,7 @@ Indicare la risposta corretta. Ci possono essere più di una risposta corretta.
 Intorno al solstizio d'inverno settentrionale, il ramo ascendente della circolazione di Hadley si trova alla latitudine $\varphi_r$ e i rami discendenti si trovano a $\varphi_n$ e $\varphi_s$ come mostrato nello schema di seguito. Per le parti c), d) e e), si può consultare questo diagramma.
 
 <!--fig:start-->
-![[APhO_2014_theory_Q1_p2_f1.png]]
+![[prove/_attachments/apho_2014_theory/apho_2014_theory_q1_p2_f1.png]]
 *Schematic of the Hadley circulation around the northern winter solstice. Il ramo in salita è a latitudine $\varphi_r$ (punto Z); i rami in discesa sono a $\varphi_n$ (punto P, emisfero settentrionale) e $\varphi_s$ (punto R, emisfero meridionale). I punti P, Q, Z e R sono contrassegnati lungo la circolazione. L'ovalo tracciato circonda i rami superiori; "a nord" indica verso $\varphi_n$.*
 <!--fig:end-->
 
@@ -135,7 +135,7 @@ Quindi, quale emisfero sotto ha un flusso di getti atmosferici più forte?
 - **B.** a sud dell'equatore.
 
 <!--fig:start-->
-![[APhO_2014_theory_Q1_p3_f1.png]]
+![[prove/_attachments/apho_2014_theory/apho_2014_theory_q1_p3_f1.png]]
 *Diagramma per la parte (d): una linea orizzontale segna l'equatore (con N che punta verso l'alto a sinistra) e una spessa freccia verso il basso etichettata "filiale di Hadley vicino alla superficie" attraversa l'equatore da nord a sud.*
 <!--fig:end-->
 
@@ -145,7 +145,7 @@ Quindi, quale emisfero sotto ha un flusso di getti atmosferici più forte?
 Supponiamo che la circolazione di Hadley possa essere semplificata come un motore termico mostrato nello schema di seguito. Concentrandosi sulla circolazione di Hadley che raggiunge l'emisfero invernale come mostrato di seguito, la trasformazione fisica della massa dell'aria da A a B e da D a E sono adiabatiche, mentre quelle da B a C, C a D e da E a A sono isotermico. L'aria guadagna calore dal contatto con la superficie terrestre e dalla condensazione dell'acqua dall'atmosfera, mentre l'aria perde calore dalla radiazione nello spazio.
 
 <!--fig:start-->
-![[APhO_2014_theory_Q1_p3_f2.png]]
+![[prove/_attachments/apho_2014_theory/apho_2014_theory_q1_p3_f2.png]]
 *Heat-engine schematic of the Hadley circulation. Ritornare il ciclo A → B → C → D → E → A: A a B (risalendo attraverso una nuvola) e D a E sono adiabatici; B a C, C a D ed E a A sono isotermici. In cima, l'aria perde calore per "radiamento di corpo nero" (arbole ondulate che puntano verso l'esterno vicino a CD); vicino alla superficie (EA) l'aria guadagna calore per "trasferimento di calore di superficie" (arbole ondulate dal terreno ombroso). "Nord" indica a sinistra.*
 <!--fig:end-->
 
@@ -189,7 +189,7 @@ k) **(2 punti) ** Dimostra che l'efficienza termodinamica effettiva $\varepsilon
 The two-slit electron interference experiment was first performed by Möllenstedt *et al.*, Merli-Missiroli and Pozzi in 1974 and Tonomura *et al.* in 1989. In the two-slit electron interference experiment, a monochromatic electron point source emits particles at $S$ that first passes through an electron "biprism" before impinging on an observational plane; $S_1$ and $S_2$ are virtual sources at distance $d$. In the diagram, the filament is pointing into the page. Note that it is a very thin filament (not drawn to scale in the diagram).
 
 <!--fig:start-->
-![[APhO_2014_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2014_theory/apho_2014_theory_q2_p1_f1.png]]
 *Setup of the two-slit electron biprism experiment. A point source $S$ (with virtual sources $S_1$, $S_2$ separated by $d$) sits at the top; the grounded fine filament $F$ is at distance $\ell$ below the source (shown as an orange dot inside a dashed circle on the $x$ axis). The screen is at distance $L$ below the filament. The virtual sources are separated by $d$ at the source plane; the rays converge to a separation $b$ near the $z$ axis (with a small spacing $a$ marked at the bottom). The $x$ axis runs horizontally, the $z$ axis points downward.*
 <!--fig:end-->
 
@@ -228,7 +228,7 @@ electron charge, $e = 1.6 \times 10^{-19}\ \text{C}$, mass of electron, $m_0 = 9
 L'esperimento di interferenza elettronica a due fessure è stato eseguito per la prima volta da Möllenstedt *et al.*, Merli-Missiroli e Pozzi nel 1974 e Tonomura *et al.* nel 1989. Nell'esperimento di interferenza elettronica a due fessure, una fonte monocromatica di punto elettronica emette particelle a $S$ che prima attraversano un "biprismo" elettronico prima di colpire un piano di osservazione; $S_1$ e $S_2$ sono fonti virtuali a distanza $d$. Nel diagramma, il filamento punta verso la pagina. Si noti che si tratta di un filamento molto sottile (non disegnato a scala nel diagramma).
 
 <!--fig:start-->
-![[APhO_2014_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2014_theory/apho_2014_theory_q2_p1_f1.png]]
 *Inserimento dell'esperimento di biprismo elettronico a due fessure. La fonte di punto $S$ (con fonti virtuali $S_1$, $S_2$ separate da $d$) si trova in alto; il filamento fine terrazzato $F$ è a distanza $\ell$ sotto la fonte (visto come punto arancione all'interno di un cerchio a tracciato sull'asse $x$). Lo schermo è a distanza $L$ sotto il filamento. Le fonti virtuali sono separate da $d$ nel piano sorgente; i raggi convergono a una separazione $b$ vicino all'asse $z$ (con un piccolo spaziamento $a$ segnato in basso). L'asse $x$ corre orizzontalmente, l'asse $z$ punta verso il basso.*
 <!--fig:end-->
 

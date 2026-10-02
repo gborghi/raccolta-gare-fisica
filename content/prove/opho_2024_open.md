@@ -63,7 +63,7 @@ If the length of the solution container is $L = 0.15 \text{ m}$, by which angle 
 **Topic:** [[Wave Optics]]
 **Metodi:** [[Superposition Principle (metodo)|Superposition Principle]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -77,7 +77,7 @@ Se la lunghezza del contenitore di soluzione è $L = 0.15 \text{ m}$, a quale an
 **Topic:** [[Wave Optics]]
 **Metodi:** [[Superposition Principle (metodo)|Superposition Principle]], [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 
 
 
@@ -292,7 +292,7 @@ $$m_p = 938.27 \text{ MeV}/c^2, \qquad m_n = 939.57 \text{ MeV}/c^2, \qquad m_\a
 **Topic:** [[Wave Optics]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -304,7 +304,7 @@ $$m_p = 938.27 \text{ MeV}/c^2, \qquad m_n = 939.57 \text{ MeV}/c^2, \qquad m_\a
 **Topic:** [[Wave Optics]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 
 
 
@@ -320,7 +320,7 @@ $$\tau(\theta) = \frac{1 + \cos\theta}{2}\,\tau_0 \quad \text{for } 0 \le \theta
 
 The pendulum initially is given a small angular velocity counterclockwise and is at $\theta = 0$. The mass is extremely sensitive and cannot tolerate high speeds. Therefore, assume the motor always supplies just enough torque for the mass to move at a negligibly small constant speed. What is the minimum value of $\tau_0$ needed so that the pendulum eventually reaches $\theta = 90^\circ$?
 
-![[OPhO_2024_Open_p6_f1.png]]
+![[_attachments/opho_2024_open/opho_2024_open_p6_f1.png]]
 *Figure 1: Motorized pendulum*
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KrrudlWdKwNcn8EOK2Ad9hmpYkG9ViCH/view)
@@ -339,7 +339,7 @@ $$\tau(\theta) = \frac{1 + \cos\theta}{2}\,\tau_0 \quad \text{for } 0 \le \theta
 
 All'inizio il pendolo ha una velocità angolare di piccola velocità contro il senso orario e si trova a $\theta = 0$. La massa è estremamente sensibile e non tollerano alte velocità. Pertanto, supponiamo che il motore fornisca sempre la coppia sufficiente per la massa a muoversi a una velocità costante trascurabilmente piccola. Qual è il valore minimo di $\tau_0$ necessario affinché il pendolo raggiunga infine $\theta = 90^\circ$?
 
-![[OPhO_2024_Open_p6_f1.png]]
+![[_attachments/opho_2024_open/opho_2024_open_p6_f1.png]]
 *Figura 1: Pendolo motorizzato*
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KrrudlWdKwNcn8EOK2Ad9hmpYkG9ViCH/view)
@@ -525,7 +525,7 @@ Supponiamo di modellare un pianeta come un disco di densità uniforme. Il proble
 **Topic:** [[Geometric Optics]], [[Fluid Mechanics]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Mirror (object)|Mirror]], [[Photon (object)|Photon]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Mirror (object)|Mirror]], [[Photon (object)|Photon]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -537,7 +537,7 @@ Un grande pozzo cilindrico, con un raggio di $1 \text{ m}$ e una profondità mol
 **Topic:** [[Geometric Optics]], [[Fluid Mechanics]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Mirror (object)|Mirror]], [[Photon (object)|Photon]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Mirror (object)|Mirror]], [[Photon (object)|Photon]]
 
 
 
@@ -549,28 +549,28 @@ Un grande pozzo cilindrico, con un raggio di $1 \text{ m}$ e una profondità mol
 
 **Electric Slide.** Consider a gas of small particles, each with charge $q$, inside an origin-centered spherical chamber of radius $R$. A uniform electric field $E\hat{x}$ is applied inside the chamber. The field is adjusted until point $(R, 0, 0)$ has pressure $P_0$ and point $(-R, 0, 0)$ has pressure $P_0/2$ (at equilibrium). The electric field is quickly decreased to zero, and the gas comes to equilibrium again. If the final pressure in the chamber is $P_1$, find $P_1/P_0$. Neglect interactions between particles and assume that the temperature of the gas remains nearly constant.
 
-![[OPhO_2024_Open_p7_f1.png]]
+![[_attachments/opho_2024_open/opho_2024_open_p7_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1KrrudlWdKwNcn8EOK2Ad9hmpYkG9ViCH/view)
 
 **Topic:** [[Kinetic Theory]], [[Electrostatics]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Statistical Averaging (metodo)|Statistical Averaging]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 **Slide elettrico.** Considera un gas di piccole particelle, ciascuna con carica $q$, all'interno di una camera sferica centrata sull'origine di raggio $R$. All'interno della camera viene applicato un campo elettrico uniforme $E\hat{x}$. Il campo viene regolato fino a che il punto $(R, 0, 0)$ abbia una pressione $P_0$ e il punto $(-R, 0, 0)$ una pressione $P_0/2$ (in equilibrio). Il campo elettrico viene rapidamente ridotto a zero e il gas torna a equilibrio. Se la pressione finale nella camera è $P_1$, trova $P_1/P_0$. Trascurare le interazioni tra le particelle e assumere che la temperatura del gas rimanga quasi costante.
 
-![[OPhO_2024_Open_p7_f1.png]]
+![[_attachments/opho_2024_open/opho_2024_open_p7_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1KrrudlWdKwNcn8EOK2Ad9hmpYkG9ViCH/view)
 
 **Topic:** [[Kinetic Theory]], [[Electrostatics]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Statistical Averaging (metodo)|Statistical Averaging]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 
 
 
@@ -640,7 +640,7 @@ Un servizio legale nel ping-pong richiede che la palla rimbalzi su un lato del t
 
 The vertical coordinate of the highest point of the curve observed is $-1.5 \text{ m}$, while the gradients of the lines asymptotically tangent to the curve are $\pm 4/3$. On the right is shown an example setup of this phenomenon. Find the horizontal distance $D$ of the wall to the light source.
 
-![[OPhO_2024_Open_p8_f1.png]]
+![[_attachments/opho_2024_open/opho_2024_open_p8_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1KrrudlWdKwNcn8EOK2Ad9hmpYkG9ViCH/view)
 **Topic:** [[Geometric Optics]], [[Mathematics]]
@@ -655,7 +655,7 @@ The vertical coordinate of the highest point of the curve observed is $-1.5 \tex
 
 La coordinata verticale del punto più alto della curva osservata è $-1.5 \text{ m}$, mentre i gradienti delle linee asintoticamente tangenti alla curva sono $\pm 4/3$. A destra è mostrato un esempio di configurazione di questo fenomeno. Trova la distanza orizzontale $D$ della parete alla fonte luminosa.
 
-![[OPhO_2024_Open_p8_f1.png]]
+![[_attachments/opho_2024_open/opho_2024_open_p8_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1KrrudlWdKwNcn8EOK2Ad9hmpYkG9ViCH/view)
 **Topic:** [[Geometric Optics]], [[Mathematics]]
@@ -685,7 +685,7 @@ $$\int \frac{1}{\sqrt{x^2 - 1}}\,dx = \cosh^{-1}(x) + C$$
 **Topic:** [[Geometric Optics]], [[Mathematics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -704,7 +704,7 @@ $$\int \frac{1}{\sqrt{x^2 - 1}}\,dx = \cosh^{-1}(x) + C$$
 **Topic:** [[Geometric Optics]], [[Mathematics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 
 
 
@@ -832,7 +832,7 @@ where $p$ is the pressure of the gas, $m$ is the mass of the gas molecules, $k_B
 **Topic:** [[Kinetic Theory]], [[Thermodynamics]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Differential Equations (metodo)|Differential Equations]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -847,7 +847,7 @@ dove $p$ è la pressione del gas, $m$ è la massa delle molecole del gas, $k_B$ 
 **Topic:** [[Kinetic Theory]], [[Thermodynamics]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Differential Equations (metodo)|Differential Equations]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 
 
 
@@ -913,7 +913,7 @@ dove $p$ è la pressione del gas, $m$ è la massa delle molecole del gas, $k_B$ 
 
 **Relativistic Scattering.** A small spherical particle traveling at a speed $v = 0.5c$ at an angle $\alpha = 45^\circ$ from the horizontal is struck by an electromagnetic plane wave of angular frequency $\omega = 7.08 \times 10^{15} \text{ Hz}$ propagating directly to the right. In its own reference frame, the particle scatters light in all directions with the same frequency as the frequency of incident light it perceives. Due to the relativistic Doppler effect, however, the frequency of the scattered light measured in the lab frame is generally not the same as the incident light frequency. What is the angular frequency $\omega'$ of light scattered into a scattering angle of $\theta = 89^\circ$? Assume the radius of the particle $R$ is small enough that $R\omega \ll c$.
 
-![[OPhO_2024_Open_p10_f1.png]]
+![[_attachments/opho_2024_open/opho_2024_open_p10_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1KrrudlWdKwNcn8EOK2Ad9hmpYkG9ViCH/view)
 **Topic:** [[Special Relativity]], [[Electromagnetism]]
@@ -926,7 +926,7 @@ dove $p$ è la pressione del gas, $m$ è la massa delle molecole del gas, $k_B$ 
 
 **Scattering relativistico.** Una piccola particella sferica che viaggia ad una velocità $v = 0.5c$ ad un angolo $\alpha = 45^\circ$ dall'orizzontale è colpita da un'onda elettromagnetica a piano di frequenza angolare $\omega = 7.08 \times 10^{15} \text{ Hz}$ che si propaga direttamente a destra. Nella sua cornice di riferimento, la particella disperde la luce in tutte le direzioni con la stessa frequenza della luce incidente che percepisce. A causa dell'effetto relativistico di Doppler, tuttavia, la frequenza della luce dispersa misurata nel quadro di laboratorio non è generalmente la stessa della frequenza della luce incidente. Qual è la frequenza angolare $\omega'$ della luce sparsi in un angolo di sparsione $\theta = 89^\circ$? Supponiamo che il raggio della particella $R$ sia abbastanza piccolo da $R\omega \ll c$.
 
-![[OPhO_2024_Open_p10_f1.png]]
+![[_attachments/opho_2024_open/opho_2024_open_p10_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1KrrudlWdKwNcn8EOK2Ad9hmpYkG9ViCH/view)
 **Topic:** [[Special Relativity]], [[Electromagnetism]]
@@ -944,26 +944,26 @@ dove $p$ è la pressione del gas, $m$ è la massa delle molecole del gas, $k_B$ 
 
 **Reluctant Roller.** A hoop of mass $m$ and radius $r$ rests on a surface with coefficient of friction $\mu$. At time $t = 0$, a string is attached to the hoop's highest point and a constant horizontal tension $T$ is applied. By time $t$, the hoop has rotated by angle $\theta(t)$. What is the minimum value of $\dfrac{T}{\mu m g}$ such that $\theta(t)$ has a local maximum (i.e., is not strictly increasing)? You may need to graph an implicit function.
 
-![[OPhO_2024_Open_p10_f2.png]]
+![[_attachments/opho_2024_open/opho_2024_open_p10_f2.png]]
 
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1KrrudlWdKwNcn8EOK2Ad9hmpYkG9ViCH/view)
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wheel (object)|Wheel]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Wheel (object)|Wheel]], [[objects/rope-string-(object)|Rope/String]]
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 **Relutante Rolo.** Un cerchio di massa $m$ e di raggio $r$ si posa su una superficie con coefficiente di attrito $\mu$. Al tempo $t = 0$, viene attaccata una corda al punto più alto del cerchio e viene applicata una tensione orizzontale costante $T$. Nel tempo $t$, l'orlo è rotato per angolo $\theta(t)$. Qual è il valore minimo di $\dfrac{T}{\mu m g}$ tale che $\theta(t)$ abbia un massimo locale (cioè non aumenta strettamente)? Potrebbe essere necessario graficare una funzione implicita.
 
-![[OPhO_2024_Open_p10_f2.png]]
+![[_attachments/opho_2024_open/opho_2024_open_p10_f2.png]]
 
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1KrrudlWdKwNcn8EOK2Ad9hmpYkG9ViCH/view)
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wheel (object)|Wheel]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Wheel (object)|Wheel]], [[objects/rope-string-(object)|Rope/String]]
 
 
 
@@ -1006,7 +1006,7 @@ Un solenoide funziona anche come una sorgente di costante sorgente $k = 50 \text
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -1017,7 +1017,7 @@ Un solenoide funziona anche come una sorgente di costante sorgente $k = 50 \text
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 
 
 
@@ -1083,7 +1083,7 @@ Un solenoide funziona anche come una sorgente di costante sorgente $k = 50 \text
 
 **A Tired Flappy Bird.** A flappy bird can jump multiple times in the air. Each time it jumps mid-air, it can suddenly change its speed and direction. For every jump, the bird can decide when to jump and in which direction. Between jumps, the bird falls freely under gravity, which pulls it down at the acceleration $g$. Say, our tired flappy bird starts off the cliff of height $H$ with the jumping velocity $V[1] = V_0$. Subsequent jumps in mid-air have decreasing velocities, i.e. the $n$-th jump has speed $V[n] = V_0/n$ ($n > 1$). This majestic Vietnamese animal wants to travel as far as possible horizontally before it lands on the ground. Find the maximum horizontal distance the bird can travel (denoted as $L$ in the figure below) in meters, given that $H = 100 \text{ m}$ and $V_0 = 10 \text{ m/s}$. Note that each jumping velocity is the total speed of the bird after the jump (rather than e.g. adding to its speed before the jump).
 
-![[OPhO_2024_Open_p11_f2.png]]
+![[_attachments/opho_2024_open/opho_2024_open_p11_f2.png]]
 
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1KrrudlWdKwNcn8EOK2Ad9hmpYkG9ViCH/view)
 **Topic:** [[Newtonian Mechanics]], [[Mathematics]]
@@ -1096,7 +1096,7 @@ Un solenoide funziona anche come una sorgente di costante sorgente $k = 50 \text
 
 **A Tired Flappy Bird.** A flappy bird can jump multiple times in the air. Ogni volta che salta in aria, può cambiare improvvisamente velocità e direzione. Per ogni salto, l'uccello può decidere quando saltare e in quale direzione. Tra i salti, l'uccello cade liberamente sotto la gravità, che lo tira giù all'accelerazione $g$. Say, our tired flappy bird starts off the cliff of height $H$ with the jumping velocity $V[1] = V_0$. I successivi salti in aria hanno velocità diminuenti, cioè il salto $n$-th ha velocità $V[n] = V_0/n$ ($n > 1$). Questo maestoso animale vietnamita vuole viaggiare il più lontano possibile orizzontalmente prima di atterrare a terra. Trova la distanza orizzontale massima che l'uccello può percorrere (indicata come $L$ nella figura seguente) in metri, dato che $H = 100 \text{ m}$ e $V_0 = 10 \text{ m/s}$. Si noti che ogni velocità di salto è la velocità totale dell'uccello dopo il salto (piuttosto che ad esempio aggiungendo la sua velocità prima del salto).
 
-![[OPhO_2024_Open_p11_f2.png]]
+![[_attachments/opho_2024_open/opho_2024_open_p11_f2.png]]
 
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1KrrudlWdKwNcn8EOK2Ad9hmpYkG9ViCH/view)
 **Topic:** [[Newtonian Mechanics]], [[Mathematics]]

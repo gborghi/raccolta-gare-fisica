@@ -209,7 +209,7 @@ Fig. I-C-1. Magnet $M_A$ is located beneath the intersection of the two lines ma
 
 Nota: "#" è il numero di serie del componente. Questo numero è per l'uso dell'esaminatore.
 
-![Componenti comuni di Set-C](../_attaccamenti/APhO_2010_exp/APhO_2010_exp_Q1_p1_f1.png)
+![[_attachments/apho_2010_exp/apho_2010_exp_q1_p1_f1.png|Componenti comuni di Set-C]]
 
 **Sett-I per l'esperimento-I: **
 
@@ -222,7 +222,7 @@ Nota: "#" è il numero di serie del componente. Questo numero è per l'uso dell'
 
 \*The brass reed with a fixed end inside a box is attached to a piezo driven by an AC voltage.
 
-![Componenti del set-I](../_attaccamenti/APhO_2010_exp/APhO_2010_exp_Q1_p2_f1.png)
+![[_attachments/apho_2010_exp/apho_2010_exp_q1_p2_f1.png|Componenti del set-I]]
 
 **Instruzioni per il generatore di onde sinologiche: **
 
@@ -234,7 +234,7 @@ Nota: "#" è il numero di serie del componente. Questo numero è per l'uso dell'
 - L'ampiezza della tensione sinusale può essere regolata girando il pulsante "AMPL ADJ".
 - Il pulsante " RISET " può essere premuto per resettare la frequenza a 0,00 Hz.
 
-![Panel di generatore di onde](../_attaccamenti/APhO_2010_exp/APhO_2010_exp_Q1_p3_f1.png)
+![[_attachments/apho_2010_exp/apho_2010_exp_q1_p3_f1.png|Panel di generatore di onde]]
 
 **Sett II per l'esperimento-II: **
 

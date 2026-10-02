@@ -249,7 +249,7 @@ Consider the circuit below:
 
 <!--fig:start-->
 **Quesito 7**
-![[injso2010-Q_p2_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p2_f1.png]]
 <!--fig:end-->
 
 - (a) If the bulb A burns out, then bulb C stays lighted, bulb B burns brightly
@@ -270,7 +270,7 @@ Considerate il circuito di seguito:
 
 <!--fig:start-->
 **Quesito 7**
-![[injso2010-Q_p2_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p2_f1.png]]
 <!--fig:end-->
 
 - (a) Se l'ampolla A si spende, l'ampolla C rimane accesa, l'ampolla B si spende brillantemente
@@ -333,7 +333,7 @@ A pendulum moves back and forth under the influence of gravity from $x = -A$ to 
 
 <!--fig:start-->
 **Quesito 9**
-![[injso2010-Q_p2_f2.png]]
+![[_attachments/injso2010-q/injso2010-q_p2_f2.png]]
 <!--fig:end-->
 
 - (a) it is at $x = 0$ and travelling towards $x = +A$
@@ -354,7 +354,7 @@ Un pendolo si muove avanti e indietro sotto l'influenza della gravità da $x = -
 
 <!--fig:start-->
 **Quesito 9**
-![[injso2010-Q_p2_f2.png]]
+![[_attachments/injso2010-q/injso2010-q_p2_f2.png]]
 <!--fig:end-->
 
 - a) si trova a $x = 0$ e si dirige verso $x = +A$
@@ -454,14 +454,14 @@ Let there be a rigid wheel rolling without sliding on a horizontal surface.
 
 <!--fig:start-->
 **Quesito 12**
-![[injso2010-Q_p3_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p3_f1.png]]
 <!--fig:end-->
 
 The path of point 'A' as seen by an observer on the ground, when the wheel is moving along x axis is:
 
 <!--fig:start-->
 **Quesito 12**
-![[injso2010-Q_p3_f2.png]]
+![[_attachments/injso2010-q/injso2010-q_p3_f2.png]]
 <!--fig:end-->
 
 **Topic:** [[Rotational Dynamics]]
@@ -477,14 +477,14 @@ Lasciate che una ruota rigida ruoli senza scivolare su una superficie orizzontal
 
 <!--fig:start-->
 **Quesito 12**
-![[injso2010-Q_p3_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p3_f1.png]]
 <!--fig:end-->
 
 Il percorso del punto "A" visto da un osservatore a terra, quando la ruota si muove lungo l'asse x è:
 
 <!--fig:start-->
 **Quesito 12**
-![[injso2010-Q_p3_f2.png]]
+![[_attachments/injso2010-q/injso2010-q_p3_f2.png]]
 <!--fig:end-->
 
 **Topic:** [[Rotational Dynamics]]
@@ -505,7 +505,7 @@ Two identical balls (1 and 2) collide on a frictionless surface. Collision may o
 
 <!--fig:start-->
 **Quesito 13**
-![[injso2010-Q_p4_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p4_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Conservation of Momentum]]
@@ -521,7 +521,7 @@ Due palle identiche (1 e 2) si schiantano su una superficie senza attrito. La co
 
 <!--fig:start-->
 **Quesito 13**
-![[injso2010-Q_p4_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p4_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Conservation of Momentum]]
@@ -704,7 +704,7 @@ Four masses are located as shown in the figure. Acceleration due to gravity is s
 
 <!--fig:start-->
 **Quesito 18**
-![[injso2010-Q_p5_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p5_f1.png]]
 <!--fig:end-->
 
 - (a) 2m
@@ -725,7 +725,7 @@ Quattro masse sono localizzate come mostrato nella figura. L'accelerazione dovut
 
 <!--fig:start-->
 **Quesito 18**
-![[injso2010-Q_p5_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p5_f1.png]]
 <!--fig:end-->
 
 - (a) 2m
@@ -825,13 +825,13 @@ A large water tank is filled at a constant rate of 10litres/min. It has an outle
 
 <!--fig:start-->
 **Quesito 21**
-![[injso2010-Q_p6_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p6_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Mathematics]]
 **Metodi:** [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1FT5PU2aUzQPTewMijjj1DMDpQhd3YXrr/view)
 
 
@@ -841,13 +841,13 @@ Un grande serbatoio d'acqua è riempito a velocità costante di 10 litri/min. Ha
 
 <!--fig:start-->
 **Quesito 21**
-![[injso2010-Q_p6_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p6_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Mathematics]]
 **Metodi:** [[Differential Equations (metodo)|Differential Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1FT5PU2aUzQPTewMijjj1DMDpQhd3YXrr/view)
 
 
@@ -1014,7 +1014,7 @@ When a ray of white light enters a prism, it begins to spread out into rainbow c
 
 <!--fig:start-->
 **Quesito 26**
-![[injso2010-Q_p7_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p7_f1.png]]
 <!--fig:end-->
 
 An inverted prism is brought close to this prism as shown in the Fig.2, Both the prisms are made of same material. If a ray of white light is incident on surface A and "d" is made zero then output from surface "B" will be:
@@ -1037,7 +1037,7 @@ Quando un raggio di luce bianca entra in un prisma, inizia a diffondersi in colo
 
 <!--fig:start-->
 **Quesito 26**
-![[injso2010-Q_p7_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p7_f1.png]]
 <!--fig:end-->
 
 Un prisma invertito viene avvicinato a questo prisma come mostrato nella figura 2. Se un raggio di luce bianca incide sulla superficie A e "d" diventa zero, la produzione dalla superficie "B" sarà:
@@ -1139,7 +1139,7 @@ There are two tracks A and B as shown in the figure. The direction of gravity is
 
 <!--fig:start-->
 **Quesito 29**
-![[injso2010-Q_p8_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p8_f1.png]]
 <!--fig:end-->
 
 If two similar balls begin to move at same uniform velocity at the same time which of the two balls will reach the end of the track faster?
@@ -1162,7 +1162,7 @@ Ci sono due tracce A e B come mostrato nella figura. La direzione della gravità
 
 <!--fig:start-->
 **Quesito 29**
-![[injso2010-Q_p8_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p8_f1.png]]
 <!--fig:end-->
 
 Se due palle simili iniziano a muoversi alla stessa velocità uniforme allo stesso tempo, quale delle due palle raggiungerà la fine della pista più velocemente?
@@ -1426,7 +1426,7 @@ Which of the following is correct? (Figures not to be scaled). The focal point o
 
 <!--fig:start-->
 **Quesito 36**
-![[injso2010-Q_p10_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p10_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]
@@ -1442,7 +1442,7 @@ Quale di queste parole è corretta? (Figure da non scalare). Il punto focale del
 
 <!--fig:start-->
 **Quesito 36**
-![[injso2010-Q_p10_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p10_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]
@@ -1796,7 +1796,7 @@ A trolley moves from point P to Q along a track, as shown in the figure. At poin
 
 <!--fig:start-->
 **Quesito 46**
-![[injso2010-Q_p12_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p12_f1.png]]
 <!--fig:end-->
 
 - (a) 35 kJ
@@ -1817,7 +1817,7 @@ Un carrello si sposta dal punto P a Q lungo una pista, come mostra la figura. Al
 
 <!--fig:start-->
 **Quesito 46**
-![[injso2010-Q_p12_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p12_f1.png]]
 <!--fig:end-->
 
 - (a) 35 kJ
@@ -2432,7 +2432,7 @@ and answer the following:
 
 <!--fig:start-->
 **Quesito 62**
-![[injso2010-Q_p16_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p16_f1.png]]
 <!--fig:end-->
 
 a) Calculate the energy of activation for the forward and backward reactions. [1]
@@ -2466,7 +2466,7 @@ e rispondono:
 
 <!--fig:start-->
 **Quesito 62**
-![[injso2010-Q_p16_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p16_f1.png]]
 <!--fig:end-->
 
 a) Calcolare l'energia di attivazione delle reazioni in avanti e in ritardo. [1]
@@ -2802,7 +2802,7 @@ $$x^2 + 615 = 2^n$$
 
 <!--fig:start-->
 **Quesito 68**
-![[injso2010-Q_p20_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p20_f1.png]]
 <!--fig:end-->
 
 Find the match sticks required to make the a) 5th diagram, b) the nth diagram [2]
@@ -2828,7 +2828,7 @@ $$x^2 + 615 = 2^n$$
 
 <!--fig:start-->
 **Quesito 68**
-![[injso2010-Q_p20_f1.png]]
+![[_attachments/injso2010-q/injso2010-q_p20_f1.png]]
 <!--fig:end-->
 
 Trova le punte di corrispondenza necessarie per realizzare il a) quinto diagramma, b) il n° diagramma [2]

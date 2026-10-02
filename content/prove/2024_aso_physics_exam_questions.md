@@ -49,7 +49,7 @@ When the dirt is in the ground, its density is given by $\rho_1$. As you dig out
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1qqYO1ikGQGoKS-mSGVYdISlN7DZKx8cg/view)
 
 
@@ -85,7 +85,7 @@ Quando la terra è nel terreno, la sua densità è $\rho_1$. Man mano che scavi 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1qqYO1ikGQGoKS-mSGVYdISlN7DZKx8cg/view)
 
 
@@ -127,7 +127,7 @@ After doing some research, Student B finds that the kinetic friction coefficient
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1qqYO1ikGQGoKS-mSGVYdISlN7DZKx8cg/view)
 
 
@@ -164,7 +164,7 @@ Dopo aver fatto alcune ricerche, lo studente B scopre che il coefficiente di att
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1qqYO1ikGQGoKS-mSGVYdISlN7DZKx8cg/view)
 
 
@@ -219,7 +219,7 @@ Our violinist wants to create a new musical system called the **'decimal scale'*
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]], [[Wave Optics]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1qqYO1ikGQGoKS-mSGVYdISlN7DZKx8cg/view)
 
 
@@ -269,7 +269,7 @@ Grafico velocità arco su corda violino vs tempo
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]], [[Wave Optics]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1qqYO1ikGQGoKS-mSGVYdISlN7DZKx8cg/view)
 
 

@@ -141,7 +141,7 @@ dove $m$ è l'ordine di diffrazione e $d$ è la distanza tra le fenditure del re
 **Topic:** [[Fluid Mechanics]], [[Geometric Optics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ray Tracing (metodo)|Ray Tracing]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Cylinder (object)|Cylinder]], [[Screen (object)|Screen]], [[Diffraction Grating (object)|Diffraction Grating]], [[Mirror (object)|Mirror]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Cylinder (object)|Cylinder]], [[Screen (object)|Screen]], [[Diffraction Grating (object)|Diffraction Grating]], [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1VGN1yAdRsD-t4AGiU8bbD2VtY1lrmtAt/view)
 
 
@@ -273,5 +273,5 @@ where $m$ is the order of diffraction and $d$ is the distance between the cracks
 **Topic:** [[Fluid Mechanics]], [[Geometric Optics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ray Tracing (metodo)|Ray Tracing]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Cylinder (object)|Cylinder]], [[Screen (object)|Screen]], [[Diffraction Grating (object)|Diffraction Grating]], [[Mirror (object)|Mirror]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Cylinder (object)|Cylinder]], [[Screen (object)|Screen]], [[Diffraction Grating (object)|Diffraction Grating]], [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1VGN1yAdRsD-t4AGiU8bbD2VtY1lrmtAt/view)

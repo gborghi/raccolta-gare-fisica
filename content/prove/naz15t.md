@@ -224,7 +224,7 @@ grande deviazione angolare, se ne calcolino i coefficienti. Si calcoli in quale 
 **Topic:** [[Geometric Optics]], [[Wave Optics]], [[Oscillations & Waves]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1giT0VQd1iqJnf2kIQi6LxSmck3_bFXlw/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1SAia3L9MOqLCZaPu73Fs-jNqYQiQkPyi/view)
 
@@ -440,6 +440,6 @@ The resulting coefficients are calculated. Calculate the point at which the beam
 **Topic:** [[Geometric Optics]], [[Wave Optics]], [[Oscillations & Waves]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1giT0VQd1iqJnf2kIQi6LxSmck3_bFXlw/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1SAia3L9MOqLCZaPu73Fs-jNqYQiQkPyi/view)

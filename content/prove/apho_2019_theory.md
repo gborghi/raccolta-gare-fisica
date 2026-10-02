@@ -32,7 +32,7 @@ Part A and Part B discuss radio wave transmission through cables and transmissio
 When modelling DC or low frequency signals, one often assumes that a voltage pulse travels instantaneously throughout the circuit. This assumption is valid when the wavelength of such signals is much longer than the size of the circuit, however when working with radio frequency signals, the dynamics are more complex, and we need to account for the intrinsic capacitance and inductance of our cables in our model. We model a co-axial transmission line which acts as a waveguide as described below, ignoring the small resistance of the copper and the small conductance through the dielectric. Throughout the problem, we consider the large-wavelength limit of electromagnetic waves in the co-axial cable such that electric and magnetic fields are perpendicular to the axis of the cable everywhere (the so-called transverse electromagnetic mode).
 
 <!--fig:start-->
-![[APhO_2019_theory_Q1_p1_f1.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q1_p1_f1.png]]
 *Diagram of a coaxial cable showing C — the centre core, I — the dielectric insulator, S — the metallic shield and J — the plastic jacket.*
 <!--fig:end-->
 
@@ -49,7 +49,7 @@ Consider a co-axial cable consisting of a copper inner core of negligible resist
 A lumped element model of the cable is constructed by considering the inductance and capacitance of short sections of the cable. The inductance is assumed to be a property of the inner core, and the capacitance links the core with the shielding. A diagram of the lumped element model is shown below.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q1_p2_f1.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q1_p2_f1.png]]
 *Circuit diagram of lumped element model of coaxial cable.*
 <!--fig:end-->
 
@@ -63,7 +63,7 @@ ii. Find $b/a$ if the cable has impedance $Z_0 = 50\ \Omega$ and is made using a
 An alternative hypothetical transmission line is shown in the diagram below. The input signal is sent through a very thin conductor of radius $a$, which is a distance $d \gg a$ from a highly conductive grounded plane. The material surrounding the conductor has dimensionless relative permittivity $\varepsilon_r$ and dimensionless relative permeability $\mu_r$. The return current flows along the grounded plane.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q1_p2_f2.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q1_p2_f2.png]]
 *Diagram of a hypothetical transmission line showing C — the conductor of radius $a$, at a distance $d \gg a$ from P — the grounded conducting plane. The conductor is embedded in a material with dimensionless relative permittivity $\varepsilon_r$ and dimensionless relative permeability $\mu_r$.*
 <!--fig:end-->
 
@@ -76,7 +76,7 @@ An electromagnetic wave can propagate in a transmission line in two opposite dir
 Consider an interface between two transmission lines, with characteristic impedances $Z_0$ and $Z_1$. A schematic diagram of the circuit is shown below.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q1_p3_f1.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q1_p3_f1.png]]
 *Circuit diagram of a transmission line of impedance $Z_0$ connected to a transmission line of impedance $Z_1$. The physical size of the interface is much smaller than the wavelength.*
 <!--fig:end-->
 
@@ -91,7 +91,7 @@ When a signal $V_i$ sent into the transmission line with impedance $Z_0$ reaches
 A single electron transistor (SET) consists of a quantum dot, which is a small isolated conductor where electrons can be localised, and of several electrodes in its vicinity. The gate electrode couples capacitatively to the quantum dot, while the two other electrodes — the source and the drain — are connected via tunnel junctions, through which electrons can tunnel due to quantum mechanics. A simplified circuit diagram for an SET is shown in the figure.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q1_p3_f2.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q1_p3_f2.png]]
 *Circuit diagram representation of an SET. QD is the quantum dot, S is the source, D is the drain and G is the gate.*
 <!--fig:end-->
 
@@ -132,7 +132,7 @@ $$
 where $\Gamma_{\text{ON}}$ and $\Gamma_{\text{OFF}}$ are the reflectances in two different states.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q1_p5_f1.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q1_p5_f1.png]]
 *Circuit diagram of transmission cable of impedance $Z_0$ connected to an SET.*
 <!--fig:end-->
 
@@ -141,7 +141,7 @@ where $\Gamma_{\text{ON}}$ and $\Gamma_{\text{OFF}}$ are the reflectances in two
 In order to increase the change in reflectance, and hence the sensitivity of the RF reflectometry, the circuit is modified by inclusion of an inductor. The intrinsic capacitance due to the device geometry $C_0 \approx 0.4\ \text{pF}$ is also taken into account. The RF reflectometry is conducted using a signal of angular frequency $\omega_{\text{rf}}$.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q1_p5_f2.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q1_p5_f2.png]]
 *Modified SET circuit.*
 <!--fig:end-->
 
@@ -154,7 +154,7 @@ For a scalable quantum computing architecture, the number of wires reaching each
 Like an SET, a SLQD has an OFF in which the SLQD behaves as a total insulator. In contrast to an SET, the ON state of the SLQD is capacitive, with capacitance $C_q$. In order to maximize the difference in reflectance $\Delta\Gamma$ of the SLQD, the following circuit is constructed. The parasitic capacitance $C_0 \approx 0.4\ \text{pF}$ is fixed by circuit geometry, but the value of $L_0$ and the operating frequency can be changed to optimize the performance. The characteristic impedance of the transmission line is $Z_0 = 50\ \Omega$.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q1_p6_f1.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q1_p6_f1.png]]
 *Circuit diagram of the SLQD readout circuit connected to the transmission line.*
 <!--fig:end-->
 
@@ -189,7 +189,7 @@ La parte A e la parte B discutono la trasmissione delle onde radio attraverso ca
 Quando si modella i segnali a corrente continua o a bassa frequenza, si assume spesso che un impulso di tensione viaggia istantaneamente attraverso il circuito. Questa ipotesi è valida quando la lunghezza d'onda di tali segnali è molto più lunga della dimensione del circuito, tuttavia quando si lavora con segnali di radio frequenza, la dinamica è più complessa e dobbiamo tenere conto della capacità intrinseca e dell'induttanza dei nostri cavi nel nostro modello. Modelliamo una linea di trasmissione coassiale che agisce come una guida d'onda come descritto di seguito, ignorando la piccola resistenza del rame e la piccola conduttività attraverso il dielettrico. Nel corso del problema, consideriamo il limite di lunghezza d'onda delle onde elettromagnetiche nel cavo coassiale in modo tale che i campi elettrici e magnetici siano perpendicolari all'asse del cavo ovunque (la cosiddetta modalità elettromagnetica trasversale).
 
 <!--fig:start-->
-![[APhO_2019_theory_Q1_p1_f1.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q1_p1_f1.png]]
 *Diagramma di un cavo coassiale che mostra C  il nucleo centrale, I  l'isolatore dielettrico, S  lo scudo metallico e J  la giacca di plastica.*
 <!--fig:end-->
 
@@ -206,7 +206,7 @@ Se c'è una carica $\Delta q$ su una lunghezza $\Delta x$ del nucleo interno del
 Un modello di elemento montato del cavo viene costruito tenendo conto dell'induttanza e della capacità di sezioni brevi del cavo. Si presume che l'induttanza sia una proprietà del nucleo interno e che la capacitanza collega il nucleo al schermo. Un diagramma del modello di elementi agglomerati è mostrato di seguito.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q1_p2_f1.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q1_p2_f1.png]]
 *Diagramma di circuito del modello di elemento a forma di un'insieme di cavo coassiale.*
 <!--fig:end-->
 
@@ -220,7 +220,7 @@ ii. Trova $b/a$ se il cavo ha impedanza $Z_0 = 50\ \Omega$ e è realizzato utili
 Una linea di trasmissione ipotetica alternativa è mostrata nel diagramma di seguito. Il segnale di ingresso viene inviato attraverso un conduttore molto sottile di raggio $a$, che è una distanza $d \gg a$ da un piano terraficato altamente conduttivo. Il materiale che circonda il conduttore ha una permissività relativa senza dimensioni $\varepsilon_r$ e una permeabilità relativa senza dimensioni $\mu_r$. La corrente di ritorno scorre lungo il piano a terra.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q1_p2_f2.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q1_p2_f2.png]]
 *Diagramma di una linea di trasmissione ipotetica che mostra C  il conduttore del raggio $a$, a distanza $d \gg a$ da P  il piano conduttore a terra. Il conduttore è incorporato in un materiale con permitabilità relativa senza dimensioni $\varepsilon_r$ e permeabilità relativa senza dimensioni $\mu_r$.*
 <!--fig:end-->
 
@@ -233,7 +233,7 @@ Un'onda elettromagnetica può propagarsi in una linea di trasmissione in due dir
 Si consideri un'interfaccia tra due linee di trasmissione, con impedanze caratteristiche $Z_0$ e $Z_1$. Un diagramma schematico del circuito è mostrato di seguito.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q1_p3_f1.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q1_p3_f1.png]]
 *Diagramma di circuito di una linea di trasmissione di impedanza $Z_0$ collegata a una linea di trasmissione di impedanza $Z_1$. La dimensione fisica dell'interfaccia è molto più piccola della lunghezza d'onda.*
 <!--fig:end-->
 
@@ -248,7 +248,7 @@ Quando un segnale $V_i$ inviato nella linea di trasmissione con impedanza $Z_0$ 
 Un singolo transistor elettronico (SET) è costituito da un punto quantistico, che è un piccolo conduttore isolato dove gli elettroni possono essere localizzati, e da diversi elettrodi nelle sue vicinanze. L'elettrodo di cancello si accoppia capacitativamente al punto quantistico, mentre gli altri due elettrodi  la fonte e il drenaggio  sono collegati attraverso le giunzioni di tunnel, attraverso i quali gli elettroni possono tunnelare a causa della meccanica quantistica. Il diagramma di circuito semplificato per un SET è mostrato nella figura.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q1_p3_f2.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q1_p3_f2.png]]
 *Rippresentazione del diagramma di circuito di un SET. QD è il punto quantistico, S è la fonte, D è la scarico e G è la porta.*
 <!--fig:end-->
 
@@ -289,7 +289,7 @@ $$
 dove $\Gamma_{\text{ON}}$ e $\Gamma_{\text{OFF}}$ sono le riflessioni in due stati diversi.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q1_p5_f1.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q1_p5_f1.png]]
 *Diagramma di circuito di cavo di trasmissione di impedanza $Z_0$ collegato a un SET.*
 <!--fig:end-->
 
@@ -298,7 +298,7 @@ dove $\Gamma_{\text{ON}}$ e $\Gamma_{\text{OFF}}$ sono le riflessioni in due sta
 Per aumentare il cambiamento di riflettività e quindi la sensibilità della rifletometria RF, il circuito viene modificato con l'inclusione di un induttore. Si tiene conto anche della capacità intrinseca derivante dalla geometria del dispositivo $C_0 \approx 0.4\ \text{pF}$. La rifletometria RF è effettuata utilizzando un segnale di frequenza angolare $\omega_{\text{rf}}$.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q1_p5_f2.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q1_p5_f2.png]]
 *Circuito SET modificato.*
 <!--fig:end-->
 
@@ -311,7 +311,7 @@ Per un'architettura di calcolo quantistico scalabile, il numero di fili che ragg
 Come un SET, un SLQD ha un OFF in cui il SLQD si comporta come isolante totale. In contrasto con un SET, lo stato ON del SLQD è capacitivo, con capacità $C_q$. Per massimizzare la differenza di riflettività $\Delta\Gamma$ del SLQD, viene costruito il seguente circuito. La capacità parassitaria $C_0 \approx 0.4\ \text{pF}$ è fissata dalla geometria del circuito, ma il valore di $L_0$ e la frequenza di funzionamento possono essere modificati per ottimizzare le prestazioni. L'impedenza caratteristica della linea di trasmissione è $Z_0 = 50\ \Omega$.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q1_p6_f1.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q1_p6_f1.png]]
 *Diagramma di circuito del circuito di lettura SLQD collegato alla linea di trasmissione.*
 <!--fig:end-->
 
@@ -343,7 +343,7 @@ I valori ottimali di $L_0$ sono relativamente grandi e non sempre tecnicamente f
 Active galactic nuclei (AGN) are supermassive black holes which form the centres of galaxies, and emit large amounts of energy in radiation and particle flows. One feature of many AGN are jetted outflows, which can be observed through radio emission, and sometimes also in other parts of the electromagnetic spectrum, including x-rays. These jets are large flows of plasma at relativistic speeds, over lengths of order $10^{20}\ \text{m}$, which is tens of thousands of light years. The x-ray emission from jets is usually dominated by synchrotron emission from relativistic electrons gyrating in the magnetic field of the jet.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q2_p1_f1.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q2_p1_f1.png]]
 *Figure 1: X-ray image of the jet from the Centaurus A AGN. Darker regions represent regions of higher intensity x-rays. Brighter regions within the fainter jet are called knots. (Snios et al., 2019)*
 <!--fig:end-->
 
@@ -358,7 +358,7 @@ As the stars, which the jet flows past, move through their life cycles they can 
 This model can be applied to the Centaurus A jet. Centaurus A is one of the nearest AGN, so it is possible to observe its jet at relatively high spatial resolution. The total power carried by the jet is estimated to be $P_j = 1 \times 10^{36}\ \text{J}\cdot\text{s}^{-1}$. See below for a diagram of a simple geometrical description of the Centaurus A jet, including measurements of some jet parameters. $s_1$ is the coordinate of the start of the jet, and $s_2$ the coordinate of the end of the jet. In Centaurus A the average mass per particle is $\mu_{pp} = 0.59\,m_p$ and $h = \tfrac{13}{4}\,P/n$. The pressure in the plasma surrounding the jet is $P(s) = 5.7 \times 10^{-12} \left(\dfrac{s}{s_0}\right)^{-1.5}\ \text{Pa}$, where $s_0 = 1\ \text{kpc}$.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q2_p2_f1.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q2_p2_f1.png]]
 *Figure 2: The Centaurus A jet, showing the geometry compared to the active galactic nucleus (AGN). Labelled values: $s_1 = 252\ \text{pc}$, $r_1 = 30\ \text{pc}$, $v_1 = 0.667c$, $s_2 = 5.94\ \text{kpc}$, $r_2 = 500\ \text{pc}$, $v_2 = 0.52c$.*
 <!--fig:end-->
 
@@ -418,7 +418,7 @@ In the jets from AGN, we have populations of highly energetic electrons in regio
 As the electron is accelerated due to the magnetic field it emits electromagnetic radiation. In a frame at which the electron is momentarily at rest, there is no preferred direction for the emission of the radiation. Half is emitted in the forward direction, and half in the backward direction. However, in the frame of the observer, for an electron moving at an ultra relativistic speed, with $\gamma \gg 1$, the radiation is concentrated in a forward cone with $\theta \lesssim 1/\gamma$ (so the total angle of cone is $2/\gamma$). As the electron is gyrating around the magnetic field, any observer will only see pulses of radiation as the forward cone sweeps through the line of sight.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q2_p4_f1.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q2_p4_f1.png]]
 *Figure 3: The diagram on the left shows the distribution of power in radiation from an electron accelerating up the page in the frame at which the electron in momentarily at rest. The diagram on the right shows the distribution of power in radiation for the same electron in the observer's frame, where most radiation is emitted in the forward cone. In the observers frame, the direction of the electron's acceleration is shown by a vector labelled a and the direction of its velocity is shown by a vector labelled v.*
 <!--fig:end-->
 
@@ -484,7 +484,7 @@ The table below summarises some observations of knots (brighter regions) in jets
 I nuclei galattivi attivi (AGN) sono buchi neri supermasivi che formano i centri delle galassie e emettono grandi quantità di energia nei flussi di radiazioni e particelle. Una caratteristica di molti AGN sono gli usciti di getto, che possono essere osservati attraverso l'emissione radio, e a volte anche in altre parti dello spettro elettromagnetico, compresi i raggi X. Questi getti sono grandi flussi di plasma a velocità relativistiche, su lunghezze di ordine $10^{20}\ \text{m}$, che è di decine di migliaia di anni luce. L'emissione di raggi X dei getti è generalmente dominata dall'emissione di sincrotroni da elettroni relativistici che girano nel campo magnetico del jet.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q2_p1_f1.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q2_p1_f1.png]]
 *Figura 1: immagine a raggi X del getto dal Centaurus A AGN. Le regioni più scure rappresentano regioni di raggi X di maggiore intensità. Le regioni più luminose all'interno del jet più debole sono chiamate nodi. (Snios et al., 2019)*
 <!--fig:end-->
 
@@ -499,7 +499,7 @@ Mentre le stelle, che il jet passa, si muovono attraverso i loro cicli di vita p
 Questo modello può essere applicato al jet Centaurus A. Centaurus A è uno dei più vicini AGN, quindi è possibile osservare il suo getto a una risoluzione spaziale relativamente elevata. La potenza totale trasportata dal getto è stimata a $P_j = 1 \times 10^{36}\ \text{J}\cdot\text{s}^{-1}$. Si veda di seguito un diagramma di una semplice descrizione geometrica del jet Centaurus A, comprese le misurazioni di alcuni parametri del jet. $s_1$ è la coordinata della partenza del getto e $s_2$ la coordinata della fine del getto. Nel Centauro A la massa media per particella è $\mu_{pp} = 0.59\,m_p$ e $h = \tfrac{13}{4}\,P/n$. La pressione plasmatica che circonda il getto è $P(s) = 5.7 \times 10^{-12} \left(\dfrac{s}{s_0}\right)^{-1.5}\ \text{Pa}$, dove $s_0 = 1\ \text{kpc}$.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q2_p2_f1.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q2_p2_f1.png]]
 *Figura 2: Il getto Centaurus A, che mostra la geometria rispetto al nucleo galattico attivo (AGN). Valori etichettati: $s_1 = 252\ \text{pc}$, $r_1 = 30\ \text{pc}$, $v_1 = 0.667c$, $s_2 = 5.94\ \text{kpc}$, $r_2 = 500\ \text{pc}$, $v_2 = 0.52c$.*
 <!--fig:end-->
 
@@ -559,7 +559,7 @@ Nei getti di AGN, abbiamo popolazioni di elettroni altamente energetici in regio
 Quando l'elettrone viene accelerato a causa del campo magnetico emette radiazioni elettromagnetiche. In un quadro in cui l'elettrone è momentaneamente a riposo, non esiste una direzione preferita per l'emissione della radiazione. La metà viene emessa in direzione anteriore e la metà in direzione anteriore. Tuttavia, nel quadro dell'osservatore, per un elettrone che si muove a velocità ultra relativistica, con $\gamma \gg 1$, la radiazione è concentrata in un cono anteriore con $\theta \lesssim 1/\gamma$ (così l'angolo totale del cono è $2/\gamma$). Mentre l'elettrone gira intorno al campo magnetico, qualsiasi osservatore vedrà solo impulsi di radiazioni mentre il cono anteriore spazza attraverso la linea di visione.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q2_p4_f1.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q2_p4_f1.png]]
 *Figure 3: The diagram on the left shows the distribution of power in radiation from an electron accelerating up the page in the frame at which the electron in momentarily at rest. Il diagramma a destra mostra la distribuzione della potenza di radiazione per lo stesso elettrone nel quadro dell'osservatore, dove la maggior parte delle radiazioni viene emessa nel cono anteriore. Nel quadro degli osservatori, la direzione dell'accelerazione dell'elettrone è indicata da un vettore etichettato a e la direzione della sua velocità è indicata da un vettore etichettato v.*
 <!--fig:end-->
 
@@ -630,7 +630,7 @@ La tabella seguente riassume alcune osservazioni di nodi (regioni più luminose)
 A Tippe top is a special kind of top that can spontaneously invert once it has been set spinning. One can model a Tippe top as a sphere of radius $R$ that is truncated, with a stem added. It has rotational symmetry about an axis through the stem, which is at angle $\theta$ from the vertical. As shown in Figure 1(a), its centre of mass $C$ is offset from its geometric centre $O$ by $\alpha R$ along its symmetry axis. The Tippe top makes contact with the surface it rests on at point $A$; we assume this surface is planar, and refer to it as the floor. Given certain geometrical constraints and if spun fast enough initially, the Tippe top will tip so that the stem points increasingly downwards, until it starts to spin on in its stem, and eventually comes to a stop.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q3_p1_f1.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q3_p1_f1.png]]
 *Figure 1. Views of the Tippe top (a) from the side and (b) from above.*
 <!--fig:end-->
 
@@ -644,14 +644,14 @@ Figure 2 shows the top's motion at several phases after it is started spinning:
 - **E.** phase V: in its final state, at rest on its stem $\theta = \pi$.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q3_p2_f1.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q3_p2_f1.png]]
 *Figure 2. Phases I to V of the Tippe top's motion, shown in the $xz$-plane.*
 <!--fig:end-->
 
 Let $XYZ$ be the inertial frame, where the surface the top is on is wholly in the $XY$-plane. The frame $xyz$ is defined as above, and reached from $XYZ$ via rotation around the $Z$ axis by $\phi$. The transformation from the $XYZ$ frame to frame $xyz$ is shown in Figure 3(a). In particular, $\hat{z} = \hat{Z}$.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q3_p2_f2.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q3_p2_f2.png]]
 *Figure 3. Transformations between reference frames: (a) to $xyz$ from $XYZ$, and (b) to 123 from $xyz$.*
 <!--fig:end-->
 
@@ -727,7 +727,7 @@ Use your understanding of the Tippe top and results found so far, to give an exp
 Una tippe top è un tipo speciale di top che può invertirsi spontaneamente una volta che è stato impostato a girare. Si può modellare un tippe top come una sfera di raggio $R$ che è troncata, con un stem aggiunto. Ha una simmetria di rotazione intorno ad un asse attraverso il tronco, che è all'angolo $\theta$ dalla verticale. Come mostrato alla figura 1 ((a), il suo centro di massa $C$ è compensato dal suo centro geometrico $O$ da $\alpha R$ lungo l'asse di simmetria. La punta superiore fa contatto con la superficie su cui si poggia al punto $A$; supponiamo che questa superficie sia piana e la chiamiamo pavimento. Data una certa restrizione geometrica e se girata abbastanza velocemente all'inizio, la punta superiore tipperà in modo che il tronco punta sempre più verso il basso, fino a quando non inizia a girare nel suo tronco, e alla fine si ferma.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q3_p1_f1.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q3_p1_f1.png]]
 *Figura 1. Vede il top di Tippe (a) dal lato e (b) dall'alto.*
 <!--fig:end-->
 
@@ -741,14 +741,14 @@ La figura 2 mostra il movimento della parte superiore in diverse fasi dopo aver 
 - **E.** fase V: in stato finale, a riposo sul suo tronco $\theta = \pi$.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q3_p2_f1.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q3_p2_f1.png]]
 *Figura 2. Fase I-V del movimento della punta superiore, mostrate nel piano $xz$.*
 <!--fig:end-->
 
 Il $XYZ$ è il quadro inerziale, dove la superficie sulla quale si trova la parte superiore è interamente nel piano $XY$. Il telaio $xyz$ è definito come sopra e raggiunto da $XYZ$ attraverso la rotazione intorno all'asse $Z$ da $\phi$. La trasformazione da $XYZ$ a $xyz$ è mostrata nella figura 3(a). In particolare, $\hat{z} = \hat{Z}$.
 
 <!--fig:start-->
-![[APhO_2019_theory_Q3_p2_f2.png]]
+![[_attachments/apho_2019_theory/apho_2019_theory_q3_p2_f2.png]]
 *Figura 3. Trasformazioni tra quadri di riferimento: a) a $xyz$ da $XYZ$ e b) a 123 da $xyz$.*
 <!--fig:end-->
 

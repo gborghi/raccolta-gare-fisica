@@ -200,7 +200,7 @@ Hint: First try a simplified problem then try to generalize your result.
 **Topic:** [[Kinetic Theory]], [[Thermodynamics]]
 **Metodi:** [[Statistical Averaging (metodo)|Statistical Averaging]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1FtoyvpwS8oCQJa2aWxiNL2hRYY5XyMke/view)
 
 
@@ -215,7 +215,7 @@ Suggerimento: prima prova un problema semplificato e poi prova a generalizzare i
 **Topic:** [[Kinetic Theory]], [[Thermodynamics]]
 **Metodi:** [[Statistical Averaging (metodo)|Statistical Averaging]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1FtoyvpwS8oCQJa2aWxiNL2hRYY5XyMke/view)
 
 
@@ -271,7 +271,7 @@ Assume that none of the atoms flow back.
 **Topic:** [[Kinetic Theory]], [[Thermodynamics]]
 **Metodi:** [[Statistical Averaging (metodo)|Statistical Averaging]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1FtoyvpwS8oCQJa2aWxiNL2hRYY5XyMke/view)
 
 
@@ -291,7 +291,7 @@ Supponiamo che nessuno degli atomi torni indietro.
 **Topic:** [[Kinetic Theory]], [[Thermodynamics]]
 **Metodi:** [[Statistical Averaging (metodo)|Statistical Averaging]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1FtoyvpwS8oCQJa2aWxiNL2hRYY5XyMke/view)
 
 
@@ -510,7 +510,7 @@ For the solution of OPhO problem 7 check this Aops forum
 **Topic:** [[Kinetic Theory]], [[Thermodynamics]], [[Conservation of Energy]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Conservation Laws (metodo)|Conservation Laws]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Particle Beam (object)|Particle Beam]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[Particle Beam (object)|Particle Beam]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1FtoyvpwS8oCQJa2aWxiNL2hRYY5XyMke/view)
 
 
@@ -723,5 +723,5 @@ Per la soluzione del problema 7 di OPhO consulta questo forum Aops
 **Topic:** [[Kinetic Theory]], [[Thermodynamics]], [[Conservation of Energy]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Conservation Laws (metodo)|Conservation Laws]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Particle Beam (object)|Particle Beam]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[Particle Beam (object)|Particle Beam]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1FtoyvpwS8oCQJa2aWxiNL2hRYY5XyMke/view)

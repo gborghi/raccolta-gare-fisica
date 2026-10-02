@@ -69,15 +69,15 @@ There are three cells to run experiments:
 
 Below is an image of what the initial simulation should look like for the first cell:
 
-![[OPhO_2024_Invitational_Experimental_p2_f1.png]]
+![[prove/_attachments/opho_2024_invitational_experimental/opho_2024_invitational_experimental_p2_f1.png]]
 
 For the second cell:
 
-![[OPhO_2024_Invitational_Experimental_p2_f2.png]]
+![[prove/_attachments/opho_2024_invitational_experimental/opho_2024_invitational_experimental_p2_f2.png]]
 
 For the third cell:
 
-![[OPhO_2024_Invitational_Experimental_p3_f1.png]]
+![[prove/_attachments/opho_2024_invitational_experimental/opho_2024_invitational_experimental_p3_f1.png]]
 
 ### Phase Transition
 
@@ -159,15 +159,15 @@ Ci sono tre cellule per eseguire esperimenti:
 
 Di seguito è riportata un'immagine di come dovrebbe essere la simulazione iniziale per la prima cella:
 
-![[OPhO_2024_Invitational_Experimental_p2_f1.png]]
+![[prove/_attachments/opho_2024_invitational_experimental/opho_2024_invitational_experimental_p2_f1.png]]
 
 Per la seconda cella:
 
-![[OPhO_2024_Invitational_Experimental_p2_f2.png]]
+![[prove/_attachments/opho_2024_invitational_experimental/opho_2024_invitational_experimental_p2_f2.png]]
 
 Per la terza cella:
 
-![[OPhO_2024_Invitational_Experimental_p3_f1.png]]
+![[prove/_attachments/opho_2024_invitational_experimental/opho_2024_invitational_experimental_p3_f1.png]]
 
 ### Transizione di fase
 

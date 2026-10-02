@@ -52,7 +52,7 @@ Una mole di un gas perfetto biatomico subisce una trasformazione ciclica reversi
 **Topic:** [[Geometric Optics]], [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Snell's Law (metodo)|Snell's Law]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1PnmN0MH3saZAcjkI33wnqlbktwGhsmkT/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1bWGXbi1YVJI-6wZp7AV27x5YPhFLS4pG/view)
 
@@ -96,7 +96,7 @@ A mole of a perfect biatomic gas undergoes a reversible cyclic transformation de
 **Topic:** [[Geometric Optics]], [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Snell's Law (metodo)|Snell's Law]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1PnmN0MH3saZAcjkI33wnqlbktwGhsmkT/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1bWGXbi1YVJI-6wZp7AV27x5YPhFLS4pG/view)
 
@@ -208,7 +208,7 @@ Dati: $a = 4.00\,\mathrm{cm}$, $\ell = 5.00\,\mathrm{cm}$, $p_\text{atm} = 101.3
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1PnmN0MH3saZAcjkI33wnqlbktwGhsmkT/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1bWGXbi1YVJI-6wZp7AV27x5YPhFLS4pG/view)
 
@@ -242,7 +242,7 @@ Dati: $a = 4.00\,\mathrm{cm}$, $\ell = 5.00\,\mathrm{cm}$, $p_\text{atm} = 101.3
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1PnmN0MH3saZAcjkI33wnqlbktwGhsmkT/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1bWGXbi1YVJI-6wZp7AV27x5YPhFLS4pG/view)
 

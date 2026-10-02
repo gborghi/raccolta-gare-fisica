@@ -1035,7 +1035,7 @@ ambiente no qual as fotos foram tiradas?
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1bWPE-Ur8S8ze3papg58zJ2w20eifIA2r/view)
 
 
@@ -1059,7 +1059,7 @@ ambiente in cui le foto sono state scattate?
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1bWPE-Ur8S8ze3papg58zJ2w20eifIA2r/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1082,7 +1082,7 @@ the environment in which the photos were taken?
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1bWPE-Ur8S8ze3papg58zJ2w20eifIA2r/view)
 
 
@@ -1115,7 +1115,7 @@ www.water-right.com/homeownerresources/how-does-a-well-work
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]], [[Lever (object)|Lever]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/rope-string-(object)|Rope/String]], [[Lever (object)|Lever]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1bWPE-Ur8S8ze3papg58zJ2w20eifIA2r/view)
 
 
@@ -1143,7 +1143,7 @@ www.water-right.com/homeownerresources/how-does-a-well-work
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]], [[Lever (object)|Lever]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/rope-string-(object)|Rope/String]], [[Lever (object)|Lever]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1bWPE-Ur8S8ze3papg58zJ2w20eifIA2r/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1170,7 +1170,7 @@ The Commission has also adopted a number of measures to ensure that the Commissi
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]], [[Lever (object)|Lever]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/rope-string-(object)|Rope/String]], [[Lever (object)|Lever]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1bWPE-Ur8S8ze3papg58zJ2w20eifIA2r/view)
 
 

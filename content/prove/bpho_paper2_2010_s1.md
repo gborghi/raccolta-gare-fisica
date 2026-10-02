@@ -67,7 +67,7 @@ One end of a rope is fixed to a vertical wall, making an angle of 30° with the 
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1BCPArNma90FHI4NxHm-d5dGkTT-bnp9x/view)
 
 
@@ -78,7 +78,7 @@ Un'estremità di una corda è fissata a una parete verticale, facendo un angolo 
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1BCPArNma90FHI4NxHm-d5dGkTT-bnp9x/view)
 
 
@@ -388,7 +388,7 @@ A small positively charged ball B, mass $m$, is suspended by an insulating threa
 **Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BCPArNma90FHI4NxHm-d5dGkTT-bnp9x/view)
 
 
@@ -403,7 +403,7 @@ Una piccola palla B carica positivamente, di massa $m$, è sospesa da un filo is
 **Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BCPArNma90FHI4NxHm-d5dGkTT-bnp9x/view)
 
 
@@ -466,7 +466,7 @@ A student rotates a whistle, of frequency 256 Hz, at the end of a 1.2 m length o
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1BCPArNma90FHI4NxHm-d5dGkTT-bnp9x/view)
 
 
@@ -477,7 +477,7 @@ Uno studente ruota un fischio, di frequenza 256 Hz, alla fine di una corda lunga
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1BCPArNma90FHI4NxHm-d5dGkTT-bnp9x/view)
 
 

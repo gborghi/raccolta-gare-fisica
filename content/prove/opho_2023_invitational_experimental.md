@@ -72,7 +72,7 @@ As $\mathbf{r} \in \mathbb{R}^3$ for the Lorenz system, there will be 3 Lyapunov
 
 Below, we show a plot for an unrelated system and its behavior for the corresponding MLE.
 
-![[OPhO_2023_Invitational_Experimental_p5_f1.png]]
+![[prove/_attachments/opho_2023_invitational_experimental/opho_2023_invitational_experimental_p5_f1.png]]
 *Behavior of an unrelated system for the corresponding MLE: steady state, periodic state, and chaotic state.*
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/154QI_Ik4jXKUvpMMiGNBGIVs_arPyxIl/view)
@@ -111,7 +111,7 @@ Poiché $\mathbf{r} \in \mathbb{R}^3$ per il sistema di Lorenz, vi saranno 3 esp
 
 Di seguito mostriamo un grafico per un sistema non correlato e il suo comportamento per il corrispondente MLE.
 
-![[OPhO_2023_Invitational_Experimental_p5_f1.png]]
+![[prove/_attachments/opho_2023_invitational_experimental/opho_2023_invitational_experimental_p5_f1.png]]
 *Behavior of an unrelated system for the corresponding MLE: steady state, periodic state, and chaotic state.*
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/154QI_Ik4jXKUvpMMiGNBGIVs_arPyxIl/view)

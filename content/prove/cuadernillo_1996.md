@@ -150,7 +150,7 @@ tensión de la cuerda.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -181,7 +181,7 @@ tensione della corda.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -211,7 +211,7 @@ the tension of the rope.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -326,7 +326,7 @@ que  a = 1
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -351,7 +351,7 @@ che a = 1
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -375,7 +375,7 @@ where a = 1
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -658,7 +658,7 @@ W = 200 kgρ
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -696,7 +696,7 @@ W = 200 kgρ
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -733,7 +733,7 @@ W = 200 kgρ
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -1173,7 +1173,7 @@ b) El ángulo b.
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -1203,7 +1203,7 @@ b) L'angolo b.
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1232,7 +1232,7 @@ The system of the figure is in equilibrium, when the center wire is exactly hori
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -1354,7 +1354,7 @@ m1= 5Kg.          m2 =½ m1          m3 = 2 m1
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -1380,7 +1380,7 @@ m1= 5Kg. m2 =½ m1          m3 = 2 m1
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1405,7 +1405,7 @@ m1= 5Kg. m2 =½ m1          m3 = 2 m1
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -1954,7 +1954,7 @@ volumen del trozo de cobre.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -1981,7 +1981,7 @@ volume del pezzo di rame.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -2007,7 +2007,7 @@ volume of the copper fragment.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -2219,7 +2219,7 @@ mB:15Kg
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -2243,7 +2243,7 @@ mB:15Kg
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -2266,7 +2266,7 @@ mB:15Kg
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -2292,7 +2292,7 @@ b) Idem anterior cuando el ascensor baja con aceleración de 3 m/s2.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -2313,7 +2313,7 @@ b) L'immagine precedente quando l'ascensore scende ad un'accelerazione di 3 m/s2
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -2333,7 +2333,7 @@ It's constant.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -3092,7 +3092,7 @@ Justifica dinámicamente.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -3112,7 +3112,7 @@ Giustifica dinamicamente.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -3131,7 +3131,7 @@ You can justify it dynamically.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -4899,7 +4899,7 @@ deberán remar hacia la costa los arqueólogos para no caer en el abismo?
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -4930,7 +4930,7 @@ Gli archeologi dovranno barcare verso la costa per non cadere nell'abisso?
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -4960,7 +4960,7 @@ Archaeologists must row to shore to avoid falling into the abyss?
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -5296,7 +5296,7 @@ h) La potencia máxima del motor que sube el ascensor.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -5319,7 +5319,7 @@ h) La massima potenza del motore che sale dall'ascensore.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -5341,7 +5341,7 @@ The speed of the vehicle shall be: I 'm not going to lie .
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -5362,7 +5362,7 @@ cuando llega a la base del plano.
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -5378,7 +5378,7 @@ quando arriva alla base dello schema.
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -5393,7 +5393,7 @@ When you get to the bottom of the plane.
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -5478,7 +5478,7 @@ D)¿Qué espacio recorrió a los 2 minutos?
 **Topic:** [[Fluid Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -5497,7 +5497,7 @@ D) Quale spazio ha percorso in 2 minuti?
 **Topic:** [[Fluid Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -5515,7 +5515,7 @@ D) What space did you travel through in 2 minutes?
 **Topic:** [[Fluid Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -5622,7 +5622,7 @@ D)¿Cuál es el módulo de la velocidad con que la bomba llega al barco?.
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]], [[Beam (object)|Beam]]
+**Objects:** [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]], [[Beam (object)|Beam]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -5648,7 +5648,7 @@ D) Qual è il modulo di velocità con cui la bomba arriva alla nave?
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]], [[Beam (object)|Beam]]
+**Objects:** [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]], [[Beam (object)|Beam]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -5673,7 +5673,7 @@ Calculation:
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]], [[Beam (object)|Beam]]
+**Objects:** [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]], [[Beam (object)|Beam]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -5889,7 +5889,7 @@ Calcular la h.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -5912,7 +5912,7 @@ Calcolare l'h.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -5934,7 +5934,7 @@ Calculate the h.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -6237,7 +6237,7 @@ Densidad del agua: 1.040 kg/ m3
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -6273,7 +6273,7 @@ Densità dell'acqua: 1.040 kg/m3
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -6308,7 +6308,7 @@ The water density is 1.040 kg/m3
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -6502,7 +6502,7 @@ c- ¿Cuál de los dos queda abatido?.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -6521,7 +6521,7 @@ c- Quale dei due è stato abbattuto?
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -6539,7 +6539,7 @@ c- Which of the two is killed?
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -6910,7 +6910,7 @@ dAc= 0,82 gr./ ml
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -6933,7 +6933,7 @@ dAc= 0,82 g/ml
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -6955,7 +6955,7 @@ dAc = 0,82 g/ml
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -7007,7 +7007,7 @@ ESFERA
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[Block (object)|Block]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -7054,7 +7054,7 @@ Sfera
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[Block (object)|Block]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -7100,7 +7100,7 @@ The Sphere
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[Block (object)|Block]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -7122,7 +7122,7 @@ pesa de 500 gf. en un extermo, se encuentre en equilibrio?
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Piston (object)|Piston]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Piston (object)|Piston]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -7139,7 +7139,7 @@ pesa 500 gf. In un esterno, è in equilibrio?
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Piston (object)|Piston]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Piston (object)|Piston]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -7155,7 +7155,7 @@ Weighs 500 gf. In an outer, is it in balance?
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Piston (object)|Piston]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Piston (object)|Piston]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -8611,7 +8611,7 @@ en el punto A del esquema.
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Point Charge (object)|Point Charge]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -8639,7 +8639,7 @@ al punto A dello schema.
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Point Charge (object)|Point Charge]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -8666,7 +8666,7 @@ at point A of the diagram.
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Point Charge (object)|Point Charge]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -8781,7 +8781,7 @@ d) Calcular el campo eléctrico(módulo, dirección y sentido) que será necesar
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Superposition Principle (metodo)|Superposition Principle]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Point Charge (object)|Point Charge]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -8809,7 +8809,7 @@ d) Calcolare il campo elettrico (modulo, direzione e senso) che sarà necessario
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Superposition Principle (metodo)|Superposition Principle]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Point Charge (object)|Point Charge]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -8836,7 +8836,7 @@ in point (a)
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Superposition Principle (metodo)|Superposition Principle]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Point Charge (object)|Point Charge]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -9252,7 +9252,7 @@ kgρ fuerza.
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Conducting Sphere (object)|Conducting Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Conducting Sphere (object)|Conducting Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -9269,7 +9269,7 @@ dal punto di sospensione al centro della sfera è di 10 cm. e i pesi sono di 5 .
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Conducting Sphere (object)|Conducting Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Conducting Sphere (object)|Conducting Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -9285,7 +9285,7 @@ We're not going to stop.
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Conducting Sphere (object)|Conducting Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Conducting Sphere (object)|Conducting Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -9685,7 +9685,7 @@ Si la presión inicial del aire era de 1014 Hpa. y la temperatura interior de 20
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -9719,7 +9719,7 @@ Quali saranno i valori della temperatura di equilibrio interno e della pressione
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -9752,7 +9752,7 @@ What will be the values of the internal equilibrium temperature and air pressure
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -10060,7 +10060,7 @@ Suponiendo que no varía la resistencia con la temperatura,cuánto vale la R. ?
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Resistor (object)|Resistor]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -10083,7 +10083,7 @@ Supponendo che la resistenza non varia con la temperatura, quanto vale la R. ?
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Resistor (object)|Resistor]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -10105,7 +10105,7 @@ Assuming the resistance doesn't vary with temperature, what's the R worth? ?
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Resistor (object)|Resistor]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -10144,7 +10144,7 @@ PeACERO = 7,8 gf/cm3
 **Topic:** [[Rigid Body Statics]], [[Thermodynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Calorimeter (object)|Calorimeter]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Calorimeter (object)|Calorimeter]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -10178,7 +10178,7 @@ PECO = 7,8 gf/cm3
 **Topic:** [[Rigid Body Statics]], [[Thermodynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Calorimeter (object)|Calorimeter]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Calorimeter (object)|Calorimeter]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -10211,7 +10211,7 @@ The following table shows the results of the calculation:
 **Topic:** [[Rigid Body Statics]], [[Thermodynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Calorimeter (object)|Calorimeter]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Calorimeter (object)|Calorimeter]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -10762,7 +10762,7 @@ hasta que vuelva a salir al aire. ¿A qué distancia del borde derecho lo hace?
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Mirror (object)|Mirror]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -10779,7 +10779,7 @@ finché non ritorna in onda. A che distanza dal bordo destro lo fa?
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Mirror (object)|Mirror]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -10795,7 +10795,7 @@ Until it's back on the air. How far from the right edge does it go?
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Mirror (object)|Mirror]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -11298,7 +11298,7 @@ b) Calcular los ángulos de su trayectoria hasta que abandone el agua.
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Mirror (object)|Mirror]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -11325,7 +11325,7 @@ b) Calcolare gli angoli del suo percorso fino al momento in cui esso esce dall'a
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Mirror (object)|Mirror]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -11351,7 +11351,7 @@ bouncing against the mirror hits the opposite wall.
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Mirror (object)|Mirror]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -12192,7 +12192,7 @@ Considerar despreciable la resistencia de los cables conductores.
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Resistor (object)|Resistor]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -12237,7 +12237,7 @@ Considerare dispregiata la resistenza dei cavi conduttori.
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Resistor (object)|Resistor]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -12281,7 +12281,7 @@ Consider the resistance of conductive cables despicable.
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Resistor (object)|Resistor]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -12318,7 +12318,7 @@ Cc.agua = 1cal/g ºC
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Resistor (object)|Resistor]], [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -12350,7 +12350,7 @@ Cc.acqua = 1 cal/g oC
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Resistor (object)|Resistor]], [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -12381,7 +12381,7 @@ Cc.water = 1 cal/g oC
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Resistor (object)|Resistor]], [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -13518,7 +13518,7 @@ densidad del material y el volumen del mismo.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -13554,7 +13554,7 @@ densità del materiale e volume del materiale.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -13589,7 +13589,7 @@ density of the material and volume of the material.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -13635,7 +13635,7 @@ El resultado obtenido
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -13676,7 +13676,7 @@ Risultato ottenuto
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -13716,7 +13716,7 @@ The result obtained
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -14012,7 +14012,7 @@ Peso específico ( Pe ) = Peso ( P ) / Volumen ( V )
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -14303,7 +14303,7 @@ Peso specifico (Pe ) = Peso (P ) / Volume (V)
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -14593,7 +14593,7 @@ Specific weight (Pe) = Weight (P) / Volume (V)
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -15517,7 +15517,7 @@ Describe de manera clara el procedimiento elegido. Justifica en forma teórica y
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -15539,7 +15539,7 @@ Descrive chiaramente la procedura scelta. Riprova in modo teorico e pratico.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -15560,7 +15560,7 @@ It clearly describes the procedure chosen. It justifies it both theoretically an
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -15842,7 +15842,7 @@ Elementos proveistos:
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -15908,7 +15908,7 @@ Un bicchiere di precipitazione.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -15973,7 +15973,7 @@ The following is the list of the parameters of the measurement:
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -16120,7 +16120,7 @@ Al finalizar el trabajo deberás entregar un informe completo de lo que realizas
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -16156,7 +16156,7 @@ Al termine del lavoro dovrai fornire un rapporto completo di ciò che hai fatto,
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -16191,7 +16191,7 @@ At the end of the work, you must provide a full report of your work, which inclu
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -16220,7 +16220,7 @@ Presente los resultados en un informe que contenga:
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -16244,7 +16244,7 @@ Presenta i risultati in un rapporto contenente:
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -16267,7 +16267,7 @@ Present the results in a report containing:
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -16347,7 +16347,7 @@ P / Vf
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -16422,7 +16422,7 @@ P / Vf
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -16496,7 +16496,7 @@ P / Vf
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -16555,7 +16555,7 @@ Arquímedes.
 **Topic:** [[Elasticity & Materials]], [[Oscillations & Waves]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Spring (object)|Spring]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Spring (object)|Spring]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -16609,7 +16609,7 @@ Archimede.
 **Topic:** [[Elasticity & Materials]], [[Oscillations & Waves]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Spring (object)|Spring]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Spring (object)|Spring]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -16662,7 +16662,7 @@ Archimedes is here.
 **Topic:** [[Elasticity & Materials]], [[Oscillations & Waves]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Spring (object)|Spring]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Spring (object)|Spring]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -16692,7 +16692,7 @@ los valores obtenidos, fuentes de errores y resultado de la experiencia.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -16717,7 +16717,7 @@ I risultati ottenuti, le fonti di errore e il risultato dell'esperienza.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -16741,7 +16741,7 @@ The results of the tests shall be the results of the tests.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -16761,7 +16761,7 @@ entregados: recipiente con agua, recipiente con líquido desconocido, cuerpo, di
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -16776,7 +16776,7 @@ Consegna: contenitore con acqua, contenitore con liquido sconosciuto, corpo, din
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -16790,7 +16790,7 @@ Delivered: container with water, container with unknown liquid, body, dynamomete
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -16967,7 +16967,7 @@ Desarrollar la forma o procedimientos que utiliza .
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Block (object)|Block]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -17026,7 +17026,7 @@ Sviluppare il modo o le procedure che utilizza .
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Block (object)|Block]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -17084,7 +17084,7 @@ Develop the form or procedures he uses .
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Block (object)|Block]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -17213,7 +17213,7 @@ los cubos.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Block (object)|Block]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -17337,7 +17337,7 @@ i cubetti.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Block (object)|Block]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -17460,7 +17460,7 @@ the cubes.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Block (object)|Block]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -17570,7 +17570,7 @@ II) Describir y justificar el método para determinar nx
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 
@@ -17608,7 +17608,7 @@ II) Descrivere e giustificare il metodo per determinare la
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -17645,5 +17645,5 @@ I) What should be its index with respect to the core?
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)

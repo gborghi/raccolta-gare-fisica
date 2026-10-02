@@ -95,7 +95,7 @@ $\delta^{18}$O in ‰
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Conservation of Energy]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1KQ2FJj8BUAgU5zRVudm9X6N3uj9fBjr9/view)
 
 
@@ -177,7 +177,7 @@ $\delta^{18}$O in ‰
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Conservation of Energy]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1KQ2FJj8BUAgU5zRVudm9X6N3uj9fBjr9/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -258,7 +258,7 @@ $\delta^{18}$O in ‰
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Conservation of Energy]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1KQ2FJj8BUAgU5zRVudm9X6N3uj9fBjr9/view)
 
 

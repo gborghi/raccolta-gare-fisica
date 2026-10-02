@@ -23,7 +23,7 @@ What is the work done if the handle is raised by 50 cm?
 
 <!--fig:start-->
 **Quesito 1**
-![[injso2012-Q_p1_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p1_f1.png]]
 <!--fig:end-->
 
 - (a) 35.0 J
@@ -48,7 +48,7 @@ Che lavoro si fa se la maniglia è sollevata di 50 cm?
 
 <!--fig:start-->
 **Quesito 1**
-![[injso2012-Q_p1_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p1_f1.png]]
 <!--fig:end-->
 
 - (a) 35.0 J
@@ -232,7 +232,7 @@ Twenty five micrograms ($25\ \mu\text{g}$) of DNA amounting five micromole ($5\ 
 
 <!--fig:start-->
 **Quesito 6**
-![[injso2012-Q_p2_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p2_f1.png]]
 <!--fig:end-->
 
 | | 200 bp band ($\mu\text{mole}$) | 200 bp band ($\mu\text{g}$) | 800 bp band ($\mu\text{mole}$) | 800 bp band ($\mu\text{g}$) |
@@ -255,7 +255,7 @@ Venticinque microgrammi ($25\ \mu\text{g}$) di DNA pari a cinque micromoli ($5\ 
 
 <!--fig:start-->
 **Quesito 6**
-![[injso2012-Q_p2_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p2_f1.png]]
 <!--fig:end-->
 
 | | 200 bp band ($\mu\text{mole}$) | 200 bp band ($\mu\text{g}$) | 800 bp band ($\mu\text{mole}$) | 800 bp band ($\mu\text{g}$) |
@@ -288,7 +288,7 @@ While the distance of the flame (object) is kept same, what difference you see i
 
 <!--fig:start-->
 **Quesito 7**
-![[injso2012-Q_p3_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p3_f1.png]]
 <!--fig:end-->
 
 - (a) Method A produces no image and B produces an image
@@ -314,7 +314,7 @@ Mentre la distanza della fiamma (oggetto) è mantenuta la stessa, quale differen
 
 <!--fig:start-->
 **Quesito 7**
-![[injso2012-Q_p3_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p3_f1.png]]
 <!--fig:end-->
 
 - (a) Il metodo A non produce immagini e il metodo B produce immagini
@@ -516,7 +516,7 @@ Using this information, which of the following will be affected by colchicine?
 
 <!--fig:start-->
 **Quesito 12**
-![[injso2012-Q_p4_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p4_f1.png]]
 <!--fig:end-->
 
 - (a) Centromere
@@ -539,7 +539,7 @@ Usando queste informazioni, quale dei seguenti sarà influenzato dalla colchicin
 
 <!--fig:start-->
 **Quesito 12**
-![[injso2012-Q_p4_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p4_f1.png]]
 <!--fig:end-->
 
 - a) Centromere
@@ -565,7 +565,7 @@ A student connects two lamps in the circuit shown. The emf of the two batteries 
 
 <!--fig:start-->
 **Quesito 13**
-![[injso2012-Q_p5_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p5_f1.png]]
 <!--fig:end-->
 
 Which of the following statements are correct?
@@ -593,7 +593,7 @@ Uno studente collega due lampade nel circuito mostrato. L'emf delle due batterie
 
 <!--fig:start-->
 **Quesito 13**
-![[injso2012-Q_p5_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p5_f1.png]]
 <!--fig:end-->
 
 Quali delle seguenti affermazioni sono corrette?
@@ -700,13 +700,13 @@ A is a tank filled to its 75% with water, B is a weighing balance and C is a sto
 
 <!--fig:start-->
 **Quesito 16**
-![[injso2012-Q_p6_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p6_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Wz_KFB37Wwq0GwNoSZVZ3mtrtvAVVhl6/view)
 
 
@@ -716,13 +716,13 @@ A è un serbatoio pieno al 75% di acqua, B è un bilanciatore e C è una pietra 
 
 <!--fig:start-->
 **Quesito 16**
-![[injso2012-Q_p6_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p6_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Wz_KFB37Wwq0GwNoSZVZ3mtrtvAVVhl6/view)
 
 
@@ -848,7 +848,7 @@ Daily changes in the concentration of which hormone are represented by the graph
 
 <!--fig:start-->
 **Quesito 20**
-![[injso2012-Q_p7_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p7_f1.png]]
 <!--fig:end-->
 
 - (a) Thyroxine
@@ -869,7 +869,7 @@ Cambiamenti giornalieri nella concentrazione di cui sono rappresentati gli ormon
 
 <!--fig:start-->
 **Quesito 20**
-![[injso2012-Q_p7_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p7_f1.png]]
 <!--fig:end-->
 
 - a) Tiroxina
@@ -932,7 +932,7 @@ A vibrator is generating a wave on the surface of water. An object x is floating
 
 <!--fig:start-->
 **Quesito 22**
-![[injso2012-Q_p8_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p8_f1.png]]
 <!--fig:end-->
 
 - (a) i, ii and iv
@@ -953,7 +953,7 @@ Un vibratore sta generando un'onda sulla superficie dell'acqua. Un oggetto x gal
 
 <!--fig:start-->
 **Quesito 22**
-![[injso2012-Q_p8_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p8_f1.png]]
 <!--fig:end-->
 
 - a) i, ii e iv
@@ -1172,7 +1172,7 @@ In the following circuit, each resistor has a resistance of 15 $\Omega$, and the
 
 <!--fig:start-->
 **Quesito 28**
-![[injso2012-Q_p9_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p9_f1.png]]
 <!--fig:end-->
 
 When a resistor of resistance $R$ is connected between D & F, no current flows through the galvanometer (not shown in the figure) connected between C & F. Calculate the value of $R$.
@@ -1195,7 +1195,7 @@ Nel circuito seguente, ogni resistore ha una resistenza di 15 $\Omega$ e la batt
 
 <!--fig:start-->
 **Quesito 28**
-![[injso2012-Q_p9_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p9_f1.png]]
 <!--fig:end-->
 
 Quando una resistenza $R$ è collegata tra D & F, nessun flusso di corrente attraversa il galvanometro (non mostrato nella figura) collegato tra C & F. Calcolare il valore di $R$.
@@ -1268,7 +1268,7 @@ Nisha was found to be affected with a genetic disease. The genetic counselor Dr.
 
 <!--fig:start-->
 **Quesito 30**
-![[injso2012-Q_p10_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p10_f1.png]]
 <!--fig:end-->
 
 - (a) Autosomal dominant
@@ -1289,7 +1289,7 @@ Si è scoperto che Nisha era affetta da una malattia genetica. Il consulente gen
 
 <!--fig:start-->
 **Quesito 30**
-![[injso2012-Q_p10_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p10_f1.png]]
 <!--fig:end-->
 
 - a) Autosomal dominant
@@ -1583,7 +1583,7 @@ The circuit given below is for the operation of an industrial fan. The resistanc
 
 <!--fig:start-->
 **Quesito 37**
-![[injso2012-Q_p12_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p12_f1.png]]
 <!--fig:end-->
 
 Under what value of the variable resistances given below, power transferred to the fan will be maximum? The power source of the fan is a dc source with internal resistance of 6 ohms.
@@ -1606,7 +1606,7 @@ Il circuito di seguito indicato è destinato al funzionamento di un ventilatore 
 
 <!--fig:start-->
 **Quesito 37**
-![[injso2012-Q_p12_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p12_f1.png]]
 <!--fig:end-->
 
 In base a quale valore delle resistenze variabili indicate di seguito, la potenza trasferita al ventilatore sarà massima? La fonte di alimentazione del ventilatore è una fonte di corrente continua con resistenza interna di 6 ohms.
@@ -1745,7 +1745,7 @@ A submarine is floating on water, half submerged (position A). It is then lowere
 
 <!--fig:start-->
 **Quesito 41**
-![[injso2012-Q_p13_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p13_f1.png]]
 <!--fig:end-->
 
 Which of the following is correct for buoyancy force at the 4 places?
@@ -1768,7 +1768,7 @@ Un sottomarino galleggia sull'acqua, mezzo sommerso (posizione A). Si abbassa po
 
 <!--fig:start-->
 **Quesito 41**
-![[injso2012-Q_p13_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p13_f1.png]]
 <!--fig:end-->
 
 Qual è la corretta forza di galleggiamento nei 4 punti?
@@ -1907,7 +1907,7 @@ The diagram shows a lift system in which the elevator (mass $m_1$) is partly cou
 
 <!--fig:start-->
 **Quesito 45**
-![[injso2012-Q_p14_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p14_f1.png]]
 <!--fig:end-->
 
 At what rate does the motor provide energy to the system when the elevator is rising at a steady speed $v$ ? ($g$ = acceleration of free fall) (consider the pulley as frictionless at the pivot)
@@ -1930,7 +1930,7 @@ Il diagramma mostra un sistema di sollevamento in cui l'ascensore (massa $m_1$) 
 
 <!--fig:start-->
 **Quesito 45**
-![[injso2012-Q_p14_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p14_f1.png]]
 <!--fig:end-->
 
 A che velocità il motore fornisce energia al sistema quando l'ascensore sale a velocità costante $v$? ($g$ = accelerazione della caduta libera) (considera la polla senza attrito al pivot)
@@ -2077,7 +2077,7 @@ When all the resistances in the circuit are 1$\Omega$ each, then the equivalent 
 
 <!--fig:start-->
 **Quesito 49**
-![[injso2012-Q_p15_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p15_f1.png]]
 <!--fig:end-->
 
 - (a) $5/6\,\Omega$
@@ -2098,7 +2098,7 @@ Quando tutte le resistenze del circuito sono 1$\Omega$ ciascuno, allora la resis
 
 <!--fig:start-->
 **Quesito 49**
-![[injso2012-Q_p15_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p15_f1.png]]
 <!--fig:end-->
 
 - (a) $5/6\,\Omega$
@@ -2171,7 +2171,7 @@ Value of $k$ is found to be 64. The amount of I$_2$ present at equilibrium is
 **Topic:** [[Chemistry]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1Wz_KFB37Wwq0GwNoSZVZ3mtrtvAVVhl6/view)
 
 
@@ -2191,7 +2191,7 @@ Il valore di $k$ è stato rilevato come 64. La quantità di I$_2$ presente in eq
 **Topic:** [[Chemistry]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1Wz_KFB37Wwq0GwNoSZVZ3mtrtvAVVhl6/view)
 
 
@@ -2243,7 +2243,7 @@ A cathode ray oscilloscope (CRO) is a device which converts electrical signals i
 
 <!--fig:start-->
 **Quesito 53**
-![[injso2012-Q_p16_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p16_f1.png]]
 <!--fig:end-->
 
 What is the frequency of the sound wave?
@@ -2266,7 +2266,7 @@ Un osciloscopio a raggi catodici (CRO) è un dispositivo che converte i segnali 
 
 <!--fig:start-->
 **Quesito 53**
-![[injso2012-Q_p16_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p16_f1.png]]
 <!--fig:end-->
 
 Qual è la frequenza dell'onda sonora?
@@ -2368,7 +2368,7 @@ A ball is released from rest above a horizontal surface. The graph shows the var
 
 <!--fig:start-->
 **Quesito 56**
-![[injso2012-Q_p17_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p17_f1.png]]
 <!--fig:end-->
 
 - (a) A = B & B = C
@@ -2389,7 +2389,7 @@ Una palla viene rilasciata dal riposo sopra una superficie orizzontale. Il grafi
 
 <!--fig:start-->
 **Quesito 56**
-![[injso2012-Q_p17_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p17_f1.png]]
 <!--fig:end-->
 
 - (a) A = B & B = C
@@ -2578,7 +2578,7 @@ Poche cellule sessuali e la maggior parte dei gametofiti femminili nucleati di u
 **Topic:** [[Chemistry]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.18](https://drive.google.com/file/d/1Wz_KFB37Wwq0GwNoSZVZ3mtrtvAVVhl6/view)
 
 
@@ -2603,7 +2603,7 @@ b) Esha prende tre bottiglie ($A$, $B$, $C$) con contenuti incolori. Quando Esha
 **Topic:** [[Chemistry]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.18](https://drive.google.com/file/d/1Wz_KFB37Wwq0GwNoSZVZ3mtrtvAVVhl6/view)
 
 
@@ -2629,7 +2629,7 @@ Neglecting the thermal capacity of vessels, change in density of water due to ch
 **Topic:** [[Thermodynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Ball (object)|Ball]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.18](https://drive.google.com/file/d/1Wz_KFB37Wwq0GwNoSZVZ3mtrtvAVVhl6/view)
 
 
@@ -2650,7 +2650,7 @@ b) Una palla di massa di 10 kg che si muove a 50 ms $^{-1}$ in direzione N-E è 
 **Topic:** [[Thermodynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Ball (object)|Ball]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.18](https://drive.google.com/file/d/1Wz_KFB37Wwq0GwNoSZVZ3mtrtvAVVhl6/view)
 
 
@@ -2696,7 +2696,7 @@ DNA is the genetic material in prokaryotic and eukaryotic organisms. The flow of
 
 <!--fig:start-->
 **Quesito 64**
-![[injso2012-Q_p19_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p19_f1.png]]
 <!--fig:end-->
 
 DNA forms daughter DNA molecules by replication. It also directs synthesis of proteins via RNA. The distance between two successive nucleotides in a DNA molecule is 3.4 nm. The average mass of one nucleotide is 330 Da and the average mass of one amino acid is 110 Da.
@@ -2725,7 +2725,7 @@ Il DNA è il materiale genetico negli organismi prokariotici ed eucariotici. Il 
 
 <!--fig:start-->
 **Quesito 64**
-![[injso2012-Q_p19_f1.png]]
+![[_attachments/injso2012-q/injso2012-q_p19_f1.png]]
 <!--fig:end-->
 
 Il DNA forma le molecole di DNA figlia attraverso la replicazione. Dirige anche la sintesi delle proteine attraverso l'RNA. La distanza tra due nucleotidi successivi in una molecola di DNA è di 3,4 nm. La massa media di un nucleotide è di 330 Da e la massa media di un aminoacido è di 110 Da.

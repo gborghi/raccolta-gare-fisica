@@ -105,7 +105,7 @@ Una mole di gas ideale è contenuta in un tubo disposto verticalmente, la cui fo
 **Topic:** [[Thermodynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]], [[Piston (object)|Piston]]
+**Objects:** [[Gas (object)|Gas]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Piston (object)|Piston]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1vNs6vkepIxstvXt4taMBfTBlYAPhN-f3/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1J4tcCpghJK3HB7maeU7ICvbCpdkT7O0d/view)
 
@@ -128,7 +128,7 @@ The following is the list of the measurement units: The following information is
 **Topic:** [[Thermodynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]], [[Piston (object)|Piston]]
+**Objects:** [[Gas (object)|Gas]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Piston (object)|Piston]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1vNs6vkepIxstvXt4taMBfTBlYAPhN-f3/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1J4tcCpghJK3HB7maeU7ICvbCpdkT7O0d/view)
 
@@ -221,7 +221,7 @@ Sul fondo di un lago profondo $60\ \text{m}$, la cui superficie è sottoposta al
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]], [[Piston (object)|Piston]]
+**Objects:** [[Gas (object)|Gas]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Piston (object)|Piston]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1vNs6vkepIxstvXt4taMBfTBlYAPhN-f3/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1J4tcCpghJK3HB7maeU7ICvbCpdkT7O0d/view)
 
@@ -239,7 +239,7 @@ The following is the list of the measurement units: The following information is
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]], [[Piston (object)|Piston]]
+**Objects:** [[Gas (object)|Gas]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Piston (object)|Piston]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1vNs6vkepIxstvXt4taMBfTBlYAPhN-f3/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1J4tcCpghJK3HB7maeU7ICvbCpdkT7O0d/view)
 

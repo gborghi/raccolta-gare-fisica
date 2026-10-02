@@ -52,7 +52,7 @@ $$P = \frac{q^2 a^2}{6\pi\varepsilon_0 c^3}.$$
 
 The oscillations of the ion induce image charges in the electrode, which can be interpreted as a current $I$. See the following circuit:
 
-![[OPhO_2024_Invitational_Theory_p5_f1.png]]
+![[prove/_attachments/opho_2024_invitational_theory/opho_2024_invitational_theory_p5_f1.png]]
 
 You may ignore the quadrupole potential in this part.
 
@@ -111,7 +111,7 @@ $$P = \frac{q^2 a^2}{6\pi\varepsilon_0 c^3}.$$
 
 Le oscillazioni dell'ion inducono cariche di immagine nell'elettrodo, che possono essere interpretate come corrente $I$. Vedi il seguente circuito:
 
-![[OPhO_2024_Invitational_Theory_p5_f1.png]]
+![[prove/_attachments/opho_2024_invitational_theory/opho_2024_invitational_theory_p5_f1.png]]
 
 Potresti ignorare il potenziale quadrupolo in questa parte.
 

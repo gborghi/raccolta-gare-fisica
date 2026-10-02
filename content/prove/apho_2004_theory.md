@@ -72,7 +72,7 @@ Nota: la massa della sorgente è trascurabile e l'astronauta galleggia.
 
 **Optical fiber**
 
-![[APhO_2004_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2004_theory/apho_2004_theory_q2_p1_f1.png]]
 
 An optical fiber consists of a cylindrical core of radius $a$, made of a transparent material with refraction index varying gradually from the value $n = n_1$ on the axis to $n = n_2$ (with $1 < n_2 < n_1$) at a distance $a$ from the axis, according to the formula
 
@@ -137,14 +137,14 @@ $$ds = dz \sqrt{1 + \left(\frac{dx}{dz}\right)^2}$$
 **Topic:** [[Geometric Optics]], [[Mathematics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Differential Equations (metodo)|Differential Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 **Fibra ottica**
 
-![[APhO_2004_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2004_theory/apho_2004_theory_q2_p1_f1.png]]
 
 Una fibra ottica è costituita da un nucleo cilindrico di raggio $a$, costituito da un materiale trasparente con un indice di rifrazione che varia gradualmente dal valore $n = n_1$ sull'asse a $n = n_2$ (con $1 < n_2 < n_1$) a una distanza $a$ dall'asse, secondo la formula
 
@@ -209,7 +209,7 @@ $$ds = dz \sqrt{1 + \left(\frac{dx}{dz}\right)^2}$$
 **Topic:** [[Geometric Optics]], [[Mathematics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Differential Equations (metodo)|Differential Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 
 
 
@@ -225,7 +225,7 @@ A cylinder is divided in two compartments with a mobile partition NM. The compar
 
 At first, the volumes and temperatures of the gases in two compartments are equal. The partition NM is well heat conductive. His heat capacity is very small and can be neglected.
 
-![[APhO_2004_theory_Q3_p1_f1.png]]
+![[prove/_attachments/apho_2004_theory/apho_2004_theory_q3_p1_f1.png]]
 
 The specific volume of liquid water is negligible in comparison with the specific volume of water vapor at the same temperature.
 
@@ -305,7 +305,7 @@ Un cilindro è diviso in due comparti con una partizione mobile NM. Il compartim
 
 All'inizio, i volumi e le temperature dei gas in due compartimenti sono uguali. La partizione NM è ben calore conduttivo. La sua capacità termico è molto piccola e può essere trascurata.
 
-![[APhO_2004_theory_Q3_p1_f1.png]]
+![[prove/_attachments/apho_2004_theory/apho_2004_theory_q3_p1_f1.png]]
 
 Il volume specifico di acqua liquida è trascurabile rispetto al volume specifico di vapore idrico alla stessa temperatura.
 

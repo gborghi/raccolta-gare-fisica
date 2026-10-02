@@ -93,7 +93,7 @@ Consider an infinite ladder of resistors. The input current $I_0$ is indicated i
 
 <!--fig:start-->
 **Quesito 3**
-![[INPhO2018-Question_p2_f1.png]]
+![[_attachments/inpho2018-question/inpho2018-question_p2_f1.png]]
 <!--fig:end-->
 
 (a) Find the equivalent resistance of the ladder. **[2]**
@@ -118,7 +118,7 @@ Considerate un'infinita scala di resistenti. La corrente di ingresso $I_0$ è in
 
 <!--fig:start-->
 **Quesito 3**
-![[INPhO2018-Question_p2_f1.png]]
+![[_attachments/inpho2018-question/inpho2018-question_p2_f1.png]]
 <!--fig:end-->
 
 a) Trova la resistenza equivalente della scala. **[2]**
@@ -148,7 +148,7 @@ An hour glass is placed on a weighing scale. Initially all the sand of mass $m_0
 
 <!--fig:start-->
 **Quesito 4**
-![[INPhO2018-Question_p3_f2.png]]
+![[_attachments/inpho2018-question/inpho2018-question_p3_f2.png]]
 <!--fig:end-->
 
 **Topic:** [[Conservation of Momentum]]
@@ -165,7 +165,7 @@ Un bicchiere di un'ora viene posto su una bilancia. Inizialmente tutta la sabbia
 
 <!--fig:start-->
 **Quesito 4**
-![[INPhO2018-Question_p3_f2.png]]
+![[_attachments/inpho2018-question/inpho2018-question_p3_f2.png]]
 <!--fig:end-->
 
 **Topic:** [[Conservation of Momentum]]
@@ -260,7 +260,7 @@ The Van der Waals gas exhibits phase transition. A typical isotherm at low tempe
 
 <!--fig:start-->
 **Quesito 6**
-![[INPhO2018-Question_p5_f3.png]]
+![[_attachments/inpho2018-question/inpho2018-question_p5_f3.png]]
 <!--fig:end-->
 
 i. Obtain the critical constants $P_c$, $V_c$ and $T_c$ in terms of $a$, $b$ and $R$. **[4]**
@@ -319,7 +319,7 @@ Il gas Van der Waals presenta una transizione di fase. La figura mostra un isote
 
 <!--fig:start-->
 **Quesito 6**
-![[INPhO2018-Question_p5_f3.png]]
+![[_attachments/inpho2018-question/inpho2018-question_p5_f3.png]]
 <!--fig:end-->
 
 i. Ottenere le costanti critiche $P_c$, $V_c$ e $T_c$ in termini di $a$, $b$ e $R$. **[4]**
@@ -367,7 +367,7 @@ A small circular hole of diameter $d$ is punched on the side and the near the bo
 
 <!--fig:start-->
 **Quesito 7**
-![[INPhO2018-Question_p7_f4.png]]
+![[_attachments/inpho2018-question/inpho2018-question_p7_f4.png]]
 <!--fig:end-->
 
 (a) Obtain the dependence of the instantaneous speed $v_w$ of the water level in the cylinder on $h$. **[3]**
@@ -409,7 +409,7 @@ Un piccolo buco circolare di diametro $d$ viene perforato sul lato e sulla parte
 
 <!--fig:start-->
 **Quesito 7**
-![[INPhO2018-Question_p7_f4.png]]
+![[_attachments/inpho2018-question/inpho2018-question_p7_f4.png]]
 <!--fig:end-->
 
 (a) Ottenere la dipendenza della velocità istantanea $v_w$ del livello dell'acqua nel cilindro da $h$. **[3]**

@@ -21,7 +21,7 @@ tags:
 
 <!--fig:start-->
 **Quesito 1**
-![[inpho2010-Q_p3_f1.png]]
+![[_attachments/inpho2010-q/inpho2010-q_p3_f1.png]]
 <!--fig:end-->
 
 (a) State initial momenta of skaters (just before $t = 0$ s).
@@ -52,7 +52,7 @@ Number of tosses by $A = $ ; Number of tosses by $B = $
 
 <!--fig:start-->
 **Quesito 1**
-![[inpho2010-Q_p3_f1.png]]
+![[_attachments/inpho2010-q/inpho2010-q_p3_f1.png]]
 <!--fig:end-->
 
 (a) Indicare i momenti iniziali dei pattinatori (quasi prima di $t = 0$ s).
@@ -90,7 +90,7 @@ Now heat is slowly supplied to the gas in part $A_1$ till the temperature in par
 
 <!--fig:start-->
 **Quesito 2**
-![[inpho2010-Q_p5_f1.png]]
+![[_attachments/inpho2010-q/inpho2010-q_p5_f1.png]]
 <!--fig:end-->
 
 (a) Let the final thermodynamic coordinates of the partitions $A_1$, $A_2$ and $A_3$ be $\{P_1, V_1, T_1\}$, $\{P_2, V_2, T_2\}$ and $\{P_3, V_3, T_3\}$ respectively. Fill the table below expressing the pressure in terms of $P_0$, volume in terms of $V_0$ and temperature in terms of $T_0$.
@@ -128,7 +128,7 @@ Ora il calore viene lentamente fornito al gas nella parte $A_1$ fino a quando la
 
 <!--fig:start-->
 **Quesito 2**
-![[inpho2010-Q_p5_f1.png]]
+![[_attachments/inpho2010-q/inpho2010-q_p5_f1.png]]
 <!--fig:end-->
 
 a) Le coordinate termodinamiche finali delle partizioni $A_1$, $A_2$ e $A_3$ siano rispettivamente $\{P_1, V_1, T_1\}$, $\{P_2, V_2, T_2\}$ e $\{P_3, V_3, T_3\}$. Compila la tabella seguente esprimendo la pressione in termini di $P_0$, il volume in termini di $V_0$ e la temperatura in termini di $T_0$.
@@ -230,7 +230,7 @@ $\Delta_D =$
 
 <!--fig:start-->
 **Quesito 4**
-![[inpho2010-Q_p8_f1.png]]
+![[_attachments/inpho2010-q/inpho2010-q_p8_f1.png]]
 <!--fig:end-->
 
 (a) State the magnitude of angular acceleration $\alpha$ in terms of $\{m, g, R, \text{ and } I\}$.
@@ -267,7 +267,7 @@ $K' - K =$
 **Topic:** [[Electromagnetic Induction]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/12-cR-4egcx7FVNPcmNDaVlteDA2QAWiJ/view)
 
 
@@ -279,7 +279,7 @@ $K' - K =$
 
 <!--fig:start-->
 **Quesito 4**
-![[inpho2010-Q_p8_f1.png]]
+![[_attachments/inpho2010-q/inpho2010-q_p8_f1.png]]
 <!--fig:end-->
 
 a) Indicare la magnitudine dell'accelerazione angolare $\alpha$ in termini di $\{m, g, R, \text{ and } I\}$.
@@ -316,7 +316,7 @@ $K' - K =$
 **Topic:** [[Electromagnetic Induction]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/12-cR-4egcx7FVNPcmNDaVlteDA2QAWiJ/view)
 
 

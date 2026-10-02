@@ -97,7 +97,7 @@ The median longitudinal section of human brain given here under is marked with i
 
 <!--fig:start-->
 **Quesito 3**
-![[NSEJS_2024_Question_p3_f1.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p3_f1.png]]
 <!--fig:end-->
 
 Following are the functions/disorders related to these parts:
@@ -128,7 +128,7 @@ La sezione longitudinale mediana del cervello umano qui sotto è contrassegnata 
 
 <!--fig:start-->
 **Quesito 3**
-![[NSEJS_2024_Question_p3_f1.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p3_f1.png]]
 <!--fig:end-->
 
 Le funzioni/disordini connessi a queste parti sono le seguenti:
@@ -373,7 +373,7 @@ In the flow chart given below, accumulation of various products (marked 1 to 4) 
 
 <!--fig:start-->
 **Quesito 9**
-![[NSEJS_2024_Question_p4_f2.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p4_f2.png]]
 <!--fig:end-->
 
 Give the correct sequence of diseases caused by accumulation of products marked as 1 to 4:
@@ -397,7 +397,7 @@ Nel grafico di flusso riportato di seguito, l'accumulo di vari prodotti (marcati
 
 <!--fig:start-->
 **Quesito 9**
-![[NSEJS_2024_Question_p4_f2.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p4_f2.png]]
 <!--fig:end-->
 
 Indicare la corretta sequenza di malattie causate dall'accumulo di prodotti contrassegnati da 1 a 4:
@@ -483,7 +483,7 @@ Under the electron microscope 'Chromatin' appears to have a string of bead like 
 
 <!--fig:start-->
 **Quesito 11**
-![[NSEJS_2024_Question_p5_f3.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p5_f3.png]]
 <!--fig:end-->
 
 - (a) H1, H2a, H2b, H3 and H4
@@ -505,7 +505,7 @@ Sotto il microscopio elettronico la "cromatina" sembra avere una serie di strutt
 
 <!--fig:start-->
 **Quesito 11**
-![[NSEJS_2024_Question_p5_f3.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p5_f3.png]]
 <!--fig:end-->
 
 - a) H1, H2a, H2b, H3 e H4
@@ -579,7 +579,7 @@ In the diagram given below, what are the maximum kinds of ploidy levels of the v
 
 <!--fig:start-->
 **Quesito 13**
-![[NSEJS_2024_Question_p5_f4.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p5_f4.png]]
 <!--fig:end-->
 
 - (a) Only Haploid
@@ -601,7 +601,7 @@ Nel diagramma di seguito, quali sono i tipi massimi di livelli di ploidy delle v
 
 <!--fig:start-->
 **Quesito 13**
-![[NSEJS_2024_Question_p5_f4.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p5_f4.png]]
 <!--fig:end-->
 
 - (a) Solo Haploide
@@ -1157,7 +1157,7 @@ The expected values of the normal boiling point of the two compounds A and B giv
 
 <!--fig:start-->
 **Quesito 27**
-![[NSEJS_2024_Question_p7_f5.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p7_f5.png]]
 <!--fig:end-->
 
 Compound A: $\text{Cl}_2\text{C}=\text{CCl}_2$ (tetrachloroethylene)
@@ -1182,7 +1182,7 @@ I valori attesi del punto di ebollizione normale dei due composti A e B riportat
 
 <!--fig:start-->
 **Quesito 27**
-![[NSEJS_2024_Question_p7_f5.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p7_f5.png]]
 <!--fig:end-->
 
 Composto A: $\text{Cl}_2\text{C}=\text{CCl}_2$ (tetrachloroetilene)
@@ -1454,7 +1454,7 @@ A sound wave is propagating in a medium in the $+x$ direction at a speed of 360 
 
 <!--fig:start-->
 **Quesito 34**
-![[NSEJS_2024_Question_p8_f6.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p8_f6.png]]
 <!--fig:end-->
 
 - (a) the amplitude of wave is 5 mm
@@ -1476,7 +1476,7 @@ Un'onda sonora si propaga in un mezzo nella direzione $+x$ a una velocità di 36
 
 <!--fig:start-->
 **Quesito 34**
-![[NSEJS_2024_Question_p8_f6.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p8_f6.png]]
 <!--fig:end-->
 
 - a) l'ampiezza dell'onda è di 5 mm
@@ -1503,7 +1503,7 @@ When placed inside a liquid of density $d_1$, a sphere sinks, as shown in figure
 
 <!--fig:start-->
 **Quesito 35**
-![[NSEJS_2024_Question_p8_f7.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p8_f7.png]]
 <!--fig:end-->
 
 If $F_1$ and $F_2$ are buoyant forces acting on the sphere in the two situations (i) and (ii) respectively due to the two liquids, then the ratio $\dfrac{F_1}{F_2}$ equals
@@ -1527,7 +1527,7 @@ Quando viene inserito all'interno di un liquido di densità $d_1$, una sfera aff
 
 <!--fig:start-->
 **Quesito 35**
-![[NSEJS_2024_Question_p8_f7.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p8_f7.png]]
 <!--fig:end-->
 
 Se $F_1$ e $F_2$ sono forze galleggianti che agiscono sulla sfera nelle due situazioni (i) e (ii) rispettivamente a causa dei due liquidi, allora il rapporto $\dfrac{F_1}{F_2}$ è uguale
@@ -1648,7 +1648,7 @@ The same liquid is filled in vessels of three different shapes up to the same he
 
 <!--fig:start-->
 **Quesito 38**
-![[NSEJS_2024_Question_p9_f8.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p9_f8.png]]
 <!--fig:end-->
 
 Let $P_a$, $P_b$ and $P_c$ are the values of liquid pressure on the base of vessels in figure (a), (b) and (c) respectively. $W_a$, $W_b$ and $W_c$ are the weights of liquid contained in vessels in figure (a), (b) and (c) respectively. Choose the correct option:
@@ -1661,7 +1661,7 @@ Let $P_a$, $P_b$ and $P_c$ are the values of liquid pressure on the base of vess
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1Cqldjckpw6rnYZhvT74Hu_1n3xPvbmid/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1p-krqWJv717ciNXmuPH2yGRaElNMefiv/view)
 
@@ -1672,7 +1672,7 @@ Lo stesso liquido viene riempito in recipienti di tre forme diverse fino alla st
 
 <!--fig:start-->
 **Quesito 38**
-![[NSEJS_2024_Question_p9_f8.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p9_f8.png]]
 <!--fig:end-->
 
 $P_a$, $P_b$ e $P_c$ sono i valori della pressione liquida sulla base dei recipienti riportati rispettivamente nelle figure a), b) e c). $W_a$, $W_b$ e $W_c$ sono i pesi del liquido contenuto nei recipienti di cui rispettivamente alla figura a), b) e c). Scegliere l' opzione corretta:
@@ -1685,7 +1685,7 @@ $P_a$, $P_b$ e $P_c$ sono i valori della pressione liquida sulla base dei recipi
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1Cqldjckpw6rnYZhvT74Hu_1n3xPvbmid/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1p-krqWJv717ciNXmuPH2yGRaElNMefiv/view)
 
@@ -1832,7 +1832,7 @@ Each resistance in the electrical network shown as a tetrahedron in the adjacent
 
 <!--fig:start-->
 **Quesito 42**
-![[NSEJS_2024_Question_p10_f9.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p10_f9.png]]
 <!--fig:end-->
 
 - (a) $2\,\Omega$
@@ -1854,7 +1854,7 @@ Ogni resistenza della rete elettrica mostrata come tetraedro nella figura adiace
 
 <!--fig:start-->
 **Quesito 42**
-![[NSEJS_2024_Question_p10_f9.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p10_f9.png]]
 <!--fig:end-->
 
 - (a) $2\,\Omega$
@@ -1920,7 +1920,7 @@ In the following figures, all the conducting coils are in the $Y$-$Z$ plane. The
 
 <!--fig:start-->
 **Quesito 44**
-![[NSEJS_2024_Question_p10_f10.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p10_f10.png]]
 <!--fig:end-->
 
 - (a) only (i), (ii) and (iii)
@@ -1942,7 +1942,7 @@ Le bobine di conduttore sono tutte situate nel piano $Y$-$Z$ nelle figure seguen
 
 <!--fig:start-->
 **Quesito 44**
-![[NSEJS_2024_Question_p10_f10.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p10_f10.png]]
 <!--fig:end-->
 
 - a) solo i), ii) e iii)
@@ -1975,7 +1975,7 @@ The heater filament of an electric kettle is made up of a conducting wire of len
 **Topic:** [[Circuits]], [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wire (object)|Wire]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Wire (object)|Wire]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1Cqldjckpw6rnYZhvT74Hu_1n3xPvbmid/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1p-krqWJv717ciNXmuPH2yGRaElNMefiv/view)
 
@@ -1992,7 +1992,7 @@ Il filamento di riscaldamento di una caldaia elettrica è costituito da un filo 
 **Topic:** [[Circuits]], [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wire (object)|Wire]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Wire (object)|Wire]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1Cqldjckpw6rnYZhvT74Hu_1n3xPvbmid/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1p-krqWJv717ciNXmuPH2yGRaElNMefiv/view)
 
@@ -2437,7 +2437,7 @@ The screen S is placed at a distance of 75 cm in front of an illuminated object 
 
 <!--fig:start-->
 **Quesito 57**
-![[NSEJS_2024_Question_p12_f11.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p12_f11.png]]
 <!--fig:end-->
 
 - (a) Distance between lens and object may be 15 cm
@@ -2459,7 +2459,7 @@ Lo schermo S è posizionato a una distanza di 75 cm di fronte ad un oggetto illu
 
 <!--fig:start-->
 **Quesito 57**
-![[NSEJS_2024_Question_p12_f11.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p12_f11.png]]
 <!--fig:end-->
 
 - a) La distanza tra l'obiettivo e l'oggetto può essere di 15 cm
@@ -2486,7 +2486,7 @@ In the circuit shown in adjacent figure, a voltmeter of resistance 6000 $\Omega$
 
 <!--fig:start-->
 **Quesito 58**
-![[NSEJS_2024_Question_p13_f12.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p13_f12.png]]
 <!--fig:end-->
 
 Choose the correct option(s):
@@ -2510,7 +2510,7 @@ Nel circuito illustrato nella figura adiacente, è stato collegato un voltmeter 
 
 <!--fig:start-->
 **Quesito 58**
-![[NSEJS_2024_Question_p13_f12.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p13_f12.png]]
 <!--fig:end-->
 
 Scegliere l'opzione corretta:
@@ -2578,7 +2578,7 @@ Velocity-time graphs of three athletes Ramesh, Naresh and Dinesh for a given dur
 
 <!--fig:start-->
 **Quesito 60**
-![[NSEJS_2024_Question_p13_f13.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p13_f13.png]]
 <!--fig:end-->
 
 Graph OAB is $v$-$t$ graph for athlete Ramesh, graph DE is $v$-$t$ graph for athlete Naresh and graph OC is $v$-$t$ graph for athlete Dinesh. The graphs are linear. Which of the following option(s) is/are correct during given interval of time?
@@ -2602,7 +2602,7 @@ Qui di seguito sono riportati i grafici di velocità-tempo di tre atleti Ramesh,
 
 <!--fig:start-->
 **Quesito 60**
-![[NSEJS_2024_Question_p13_f13.png]]
+![[_attachments/nsejs_2024_question/nsejs_2024_question_p13_f13.png]]
 <!--fig:end-->
 
 Il grafico OAB è $v$-$t$ grafico per l'atleta Ramesh, il grafico DE è $v$-$t$ grafico per l'atleta Naresh e il grafico OC è $v$-$t$ grafico per l'atleta Dinesh. I grafici sono lineari. Qual è/sono corretta durante un determinato intervallo di tempo?

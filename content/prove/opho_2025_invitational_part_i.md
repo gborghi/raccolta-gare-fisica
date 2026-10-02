@@ -29,7 +29,7 @@ Iron is a *soft ferromagnetic* material, meaning that it has relative permeabili
 
 An iron hemisphere of radius $R$ sits face down on a very large iron plane. Assume that there is a small air gap between the plane and the bottom of the hemisphere (with relative permeability 1). A thin conducting loop of radius $\alpha R$ is centered a distance $\beta R$ above the hemisphere and has current $I$ flowing through it.
 
-![[OPhO_2025_Invitational_Part_I_p4_f1.png]]
+![[prove/_attachments/opho_2025_invitational_part_i/opho_2025_invitational_part_i_p4_f1.png]]
 
 **(A.2)** Find the net magnetic force on the hemisphere. [3 pts] *Give your answer in terms of the integral*
 
@@ -80,7 +80,7 @@ Il ferro è un materiale * morbido ferromagnetico*, il che significa che ha una 
 
 Un emisfero di ferro di raggio $R$ si trova faccia a faccia su un piano di ferro molto grande. Supponiamo che ci sia un piccolo spazio aereo tra il piano e il fondo dell'emisfero (con relativa permeabilità 1). Un sottile ciclo di conduttore di raggio $\alpha R$ è centrato a una distanza $\beta R$ sopra l'emisfero e ha una corrente $I$ che fluisce attraverso di esso.
 
-![[OPhO_2025_Invitational_Part_I_p4_f1.png]]
+![[prove/_attachments/opho_2025_invitational_part_i/opho_2025_invitational_part_i_p4_f1.png]]
 
 **(A.2) ** Trova la forza magnetica netta sull'emisfero. [3 punti] *Dare la risposta in termini di integrale*
 

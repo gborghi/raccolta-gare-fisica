@@ -30,7 +30,7 @@ em horas, o tempo gasto entre as duas cidades.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Unit Conversion (competenza)|Unit Conversion]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1qnsOnB1K9vKklFNaMjATB26asLx-Stxb/view)
 
 
@@ -47,7 +47,7 @@ in ore, il tempo trascorso tra le due città.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Unit Conversion (competenza)|Unit Conversion]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1qnsOnB1K9vKklFNaMjATB26asLx-Stxb/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -63,7 +63,7 @@ In hours, the time spent between the two cities.
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Unit Conversion (competenza)|Unit Conversion]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1qnsOnB1K9vKklFNaMjATB26asLx-Stxb/view)
 
 

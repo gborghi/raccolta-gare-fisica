@@ -748,7 +748,7 @@ YOUR EYES!
 **Topic:** [[Elasticity & Materials]], [[Wave Optics]]
 **Metodi:** [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Hooke's Law (metodo)|Hooke's Law]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Screen (object)|Screen]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1aBmExrEbP5NtEplxvuJBPkQ2tHJOMd-s/view)
 
 
@@ -792,5 +792,5 @@ I tuoi occhi!
 **Topic:** [[Elasticity & Materials]], [[Wave Optics]]
 **Metodi:** [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Hooke's Law (metodo)|Hooke's Law]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Screen (object)|Screen]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1aBmExrEbP5NtEplxvuJBPkQ2tHJOMd-s/view)

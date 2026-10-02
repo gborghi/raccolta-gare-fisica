@@ -48,7 +48,7 @@ $\pi = 3$; $\sqrt{2} = 1{,}4$; $\sqrt{3} = 1{,}7$; $\text{sen}\,30^\circ = 0{,}5
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Rod (object)|Rod]], [[Block (object)|Block]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Rod (object)|Rod]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1qikrN9vUoBXEcfdEn1QkK4FQeu0ZksPy/view)
 
 
@@ -83,7 +83,7 @@ $\pi = 3$; $\sqrt{2} = 1{,}4$; $\sqrt{3} = 1{,}7$; $\text{sen}\,30^\circ = 0{,}5
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Rod (object)|Rod]], [[Block (object)|Block]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Rod (object)|Rod]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1qikrN9vUoBXEcfdEn1QkK4FQeu0ZksPy/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -117,7 +117,7 @@ $\pi = 3$; $\sqrt{2} = 1{,}4$; $\sqrt{3} = 1{,}7$; $\text{sen}\,30^\circ = 0{,}5
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Rod (object)|Rod]], [[Block (object)|Block]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]], [[Rod (object)|Rod]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1qikrN9vUoBXEcfdEn1QkK4FQeu0ZksPy/view)
 
 
@@ -343,7 +343,7 @@ prisma de base hexagonal e quadrada. Assuma que a espessura das paredes é a mes
 **Topic:** [[Modern-Quantum Physics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1qikrN9vUoBXEcfdEn1QkK4FQeu0ZksPy/view)
 
 
@@ -360,7 +360,7 @@ prisma di base esagonale e quadrata. Supponi che il spessore dei muri sia lo ste
 **Topic:** [[Modern-Quantum Physics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1qikrN9vUoBXEcfdEn1QkK4FQeu0ZksPy/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -376,7 +376,7 @@ hexagonal and square base prism. Assume the thickness of the walls is the same i
 **Topic:** [[Modern-Quantum Physics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1qikrN9vUoBXEcfdEn1QkK4FQeu0ZksPy/view)
 
 
@@ -408,7 +408,7 @@ partículas em cada câmara é igual ao valor médio?
 **Topic:** [[Kinetic Theory]]
 **Metodi:** [[Statistical Averaging (metodo)|Statistical Averaging]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1qikrN9vUoBXEcfdEn1QkK4FQeu0ZksPy/view)
 
 
@@ -435,7 +435,7 @@ Le particelle in ogni camera sono uguali alla media?
 **Topic:** [[Kinetic Theory]]
 **Metodi:** [[Statistical Averaging (metodo)|Statistical Averaging]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1qikrN9vUoBXEcfdEn1QkK4FQeu0ZksPy/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -461,7 +461,7 @@ Particles in each chamber equal the mean?
 **Topic:** [[Kinetic Theory]]
 **Metodi:** [[Statistical Averaging (metodo)|Statistical Averaging]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1qikrN9vUoBXEcfdEn1QkK4FQeu0ZksPy/view)
 
 

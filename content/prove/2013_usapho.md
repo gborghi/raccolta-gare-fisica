@@ -38,7 +38,7 @@ Find $\Delta T_f$ in terms of the other given parameters.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) - p.3](https://drive.google.com/file/d/1Lf2Ev0WsHOoQnrjoSLCZTTZJ8XIBhlJk/view)
 
 
@@ -65,7 +65,7 @@ Trova $\Delta T_f$ in termini di altri parametri dati.
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) - p.3](https://drive.google.com/file/d/1Lf2Ev0WsHOoQnrjoSLCZTTZJ8XIBhlJk/view)
 
 
@@ -213,7 +213,7 @@ Water has a density of $1.00\ \mathrm{g/mL}$; the density of air is negligible, 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) - p.5](https://drive.google.com/file/d/1Lf2Ev0WsHOoQnrjoSLCZTTZJ8XIBhlJk/view)
 
 
@@ -232,7 +232,7 @@ L'acqua ha una densità di $1.00\ \mathrm{g/mL}$; la densità dell'aria è trasc
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) - p.5](https://drive.google.com/file/d/1Lf2Ev0WsHOoQnrjoSLCZTTZJ8XIBhlJk/view)
 
 
@@ -346,7 +346,7 @@ c. A long solenoid of radius $R$ has $N$ turns of wire per unit length. The sole
 - iii. Compute the Poynting vector, draw its direction on a diagram, and verify that it agrees with the rate of energy transfer.
 
 **Topic:** [[Electromagnetism]]
-**Metodi:** [[Ampere's Law (metodo)|Ampere's Law]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Gauss's Law (metodo)|Gauss's Law]]
+**Metodi:** [[methods/ampère's-law-(metodo)|Ampere's Law]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Gauss's Law (metodo)|Gauss's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Capacitor (object)|Capacitor]], [[Solenoid (object)|Solenoid]], [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) - p.7](https://drive.google.com/file/d/1Lf2Ev0WsHOoQnrjoSLCZTTZJ8XIBhlJk/view)
@@ -380,7 +380,7 @@ c. Un solenoide lungo di raggio $R$ ha $N$ giri di filo per unità di lunghezza.
 - III. Calcolare il vettore di Poynting, disegnare la sua direzione su un diagramma e verificare che sia conforme al tasso di trasferimento di energia.
 
 **Topic:** [[Electromagnetism]]
-**Metodi:** [[Ampere's Law (metodo)|Ampere's Law]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Gauss's Law (metodo)|Gauss's Law]]
+**Metodi:** [[methods/ampère's-law-(metodo)|Ampere's Law]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Gauss's Law (metodo)|Gauss's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Capacitor (object)|Capacitor]], [[Solenoid (object)|Solenoid]], [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) - p.7](https://drive.google.com/file/d/1Lf2Ev0WsHOoQnrjoSLCZTTZJ8XIBhlJk/view)

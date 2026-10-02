@@ -774,10 +774,10 @@ $$\text{Ni}(s)\,|\,\text{Ni}^{2+}(aq)\,||\,\text{Ag}^+(aq)\,|\,\text{Ag}(s)$$
 
 $E^\circ_{\text{Ni}^{2+}/\text{Ni}} = -0.236\,\text{V}$, $E^\circ_{\text{Ag}^+/\text{Ag}} = 0.799\,\text{V}$. The initial concentration of $\text{Ag}^+(aq)$ in the $\text{Ag}^+(aq)/\text{Ag}(s)$ half-cell is 0.005 M and the corresponding cell voltage is $+0.95\,\text{V}$ at 298 K. Identify the correct option from the following
 
-(A) Initial $[\text{Ni}^{2+}](aq) = 0.019\,\text{M}$; it will increase with time
-(B) Initial $[\text{Ni}^{2+}](aq) = 0.120\,\text{M}$; it will increase with time
-(C) Initial $[\text{Ni}^{2+}](aq) = 0.019\,\text{M}$; it will decrease with time
-(D) Initial $[\text{Ni}^{2+}](aq) = 0.120\,\text{M}$; it will decrease with time
+(A) Initial $[\text{Ni}^{2+}]\(aq) = 0.019\,\text{M}$; it will increase with time
+(B) Initial $[\text{Ni}^{2+}]\(aq) = 0.120\,\text{M}$; it will increase with time
+(C) Initial $[\text{Ni}^{2+}]\(aq) = 0.019\,\text{M}$; it will decrease with time
+(D) Initial $[\text{Ni}^{2+}]\(aq) = 0.120\,\text{M}$; it will decrease with time
 
 **Topic:** [[Circuits]], [[Electrostatics]]
 **Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Physical Modeling (metodo)|Physical Modeling]]

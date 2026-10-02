@@ -36,7 +36,7 @@ e) Determine la tensión que soporta el hilo en términos del estiramiento del r
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]], [[Oscillations & Waves]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hooke's Law (metodo)|Hooke's Law]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Vj-ZrHUDL0aw3h997GVmrk7dkFwJG9u2/view)
 
 
@@ -63,7 +63,7 @@ e) Determina la tensione che il filo supporta in termini di estensione della sor
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]], [[Oscillations & Waves]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hooke's Law (metodo)|Hooke's Law]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Vj-ZrHUDL0aw3h997GVmrk7dkFwJG9u2/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -89,7 +89,7 @@ Suppose the mass $m_2$ is raised to a height $h$ (vertically).
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]], [[Oscillations & Waves]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hooke's Law (metodo)|Hooke's Law]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]]
+**Objects:** [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Vj-ZrHUDL0aw3h997GVmrk7dkFwJG9u2/view)
 
 
@@ -180,7 +180,7 @@ Suponga que $m_1 > m_2$.
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]], [[Oscillations & Waves]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1Vj-ZrHUDL0aw3h997GVmrk7dkFwJG9u2/view)
 
 
@@ -199,7 +199,7 @@ Supponiamo che $m_1 > m_2$.
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]], [[Oscillations & Waves]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1Vj-ZrHUDL0aw3h997GVmrk7dkFwJG9u2/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -217,7 +217,7 @@ Suppose $m_1 > m_2$.
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]], [[Oscillations & Waves]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1Vj-ZrHUDL0aw3h997GVmrk7dkFwJG9u2/view)
 
 

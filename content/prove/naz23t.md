@@ -57,7 +57,7 @@ a risalire sulla semisfera; disegnare queste due situazioni.
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1wwDDkJxD89mfdsRBURMYjAkddC7XWNk6/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1mRasVjTYxObNd-qYFug_voSp5UxkJLbg/view)
 
@@ -106,7 +106,7 @@ The following table shows the number of samples taken:
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1wwDDkJxD89mfdsRBURMYjAkddC7XWNk6/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1mRasVjTYxObNd-qYFug_voSp5UxkJLbg/view)
 

@@ -240,7 +240,7 @@ sul supporto superiore situato nel piedistallo (Figura 4).
 **Topic:** [[Elasticity & Materials]], [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Differential Equations (metodo)|Differential Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]], [[Mirror (object)|Mirror]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]], [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1dPAVaRN1NXptPeJXDT1klqOPXB5qmNdl/view)
 
 
@@ -471,5 +471,5 @@ The following conditions shall apply:
 **Topic:** [[Elasticity & Materials]], [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Differential Equations (metodo)|Differential Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]], [[Mirror (object)|Mirror]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]], [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1dPAVaRN1NXptPeJXDT1klqOPXB5qmNdl/view)

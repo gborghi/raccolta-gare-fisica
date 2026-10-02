@@ -98,7 +98,7 @@ Due palline di ugual raggio e di masse $m_1 = 5{,}0\text{ g}$ e $m_2 = 20\text{ 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1dwyXxNr8PIWnz9BVSex7UshTxyflJnep/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1dwyXxNr8PIWnz9BVSex7UshTxyflJnep/view)
 
@@ -119,7 +119,7 @@ Two balls of equal radius and mass $m_1 = 5{,}0\text{ g}$ and $m_2 = 20\text{ g}
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1dwyXxNr8PIWnz9BVSex7UshTxyflJnep/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1dwyXxNr8PIWnz9BVSex7UshTxyflJnep/view)
 

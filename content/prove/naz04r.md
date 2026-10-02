@@ -169,7 +169,7 @@ Dopo un po' di tempo l'altezza della colonna di mercurio risulta $h' = 64\ \text
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]], [[Bubble (object)|Bubble]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]], [[Bubble (object)|Bubble]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1G0Kl6J7nbKi94XoFECwGMeIxGqUZduKe/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/10Sbgc2sfqgkOM3OGpE7tDcfuDVNzihAH/view)
 
@@ -202,7 +202,7 @@ After some time the height of the mercury column is $h' = 64\ \text{cm}$, even i
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]], [[Bubble (object)|Bubble]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]], [[Bubble (object)|Bubble]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1G0Kl6J7nbKi94XoFECwGMeIxGqUZduKe/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/10Sbgc2sfqgkOM3OGpE7tDcfuDVNzihAH/view)
 

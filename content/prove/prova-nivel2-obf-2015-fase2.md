@@ -535,7 +535,7 @@ atrito) sobre o plano enquanto o fio vai se enrolando no disco maior.
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Superposition Principle (metodo)|Superposition Principle]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Disk (object)|Disk]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Disk (object)|Disk]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1CNSXpEQPuPYS7mBM8ZNwon0c_d00nU1G/view)
 
 
@@ -558,7 +558,7 @@ Ritrazione) sul piano mentre il filo si snoda sul disco più grande.
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Superposition Principle (metodo)|Superposition Principle]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Disk (object)|Disk]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Disk (object)|Disk]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1CNSXpEQPuPYS7mBM8ZNwon0c_d00nU1G/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -580,7 +580,7 @@ friction) over the plane as the wire rolls over the larger disk.
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Superposition Principle (metodo)|Superposition Principle]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Disk (object)|Disk]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Disk (object)|Disk]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1CNSXpEQPuPYS7mBM8ZNwon0c_d00nU1G/view)
 
 
@@ -597,7 +597,7 @@ qual é a posição do disco menor no instante que o fio completa duas voltas no
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1CNSXpEQPuPYS7mBM8ZNwon0c_d00nU1G/view)
 
 
@@ -609,7 +609,7 @@ Qual è la posizione del disco minore quando il filo completa due giri sul disco
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1CNSXpEQPuPYS7mBM8ZNwon0c_d00nU1G/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -620,7 +620,7 @@ What is the position of the minor disc the moment the wire completes two turns o
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1CNSXpEQPuPYS7mBM8ZNwon0c_d00nU1G/view)
 
 
@@ -637,7 +637,7 @@ disco menor no instante em que o fio completa duas voltas no disco maior.
 **Topic:** [[Rotational Dynamics]], [[Conservation of Momentum]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1CNSXpEQPuPYS7mBM8ZNwon0c_d00nU1G/view)
 
 
@@ -649,7 +649,7 @@ disco minore nel momento in cui il filo completa due giri sul disco maggiore.
 **Topic:** [[Rotational Dynamics]], [[Conservation of Momentum]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1CNSXpEQPuPYS7mBM8ZNwon0c_d00nU1G/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -660,7 +660,7 @@ minor disc the moment the wire completes two turns on the major disc.
 **Topic:** [[Rotational Dynamics]], [[Conservation of Momentum]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1CNSXpEQPuPYS7mBM8ZNwon0c_d00nU1G/view)
 
 
@@ -742,7 +742,7 @@ relação ao nível da água? (Considere que a temperatura da água não varie c
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Block (object)|Block]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1CNSXpEQPuPYS7mBM8ZNwon0c_d00nU1G/view)
 
 
@@ -761,7 +761,7 @@ Relazione al livello dell'acqua? (Considera che la temperatura dell'acqua non va
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Block (object)|Block]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1CNSXpEQPuPYS7mBM8ZNwon0c_d00nU1G/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -779,5 +779,5 @@ water level? (Consider that the water temperature does not vary with depth.)
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Block (object)|Block]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1CNSXpEQPuPYS7mBM8ZNwon0c_d00nU1G/view)

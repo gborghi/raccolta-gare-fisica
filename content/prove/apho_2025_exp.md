@@ -21,7 +21,7 @@ tags:
 
 #### A. Introduction
 
-![[_attachments/APhO_2025_exp/APhO_2025_exp_p1_f1.png]]
+![[prove/_attachments/apho_2025_exp/apho_2025_exp_p1_f1.png]]
 *Figure 1. An induction cooker.*
 
 This problem presents a very interesting kitchen physics: an induction cooker. Such a device consists mainly of a coil, which is driven by an alternating current that heats up a metal pan above it. It is a modern alternative for cooking that provides several benefits such as a safer cooking environment (no fire or flammable gas involved), cleaner utensils (no soot), faster cooking and is more environmentally friendly (can be powered by renewable electricity). In this experiment, we will explore the basic fascinating physics of an induction cooker.
@@ -30,7 +30,7 @@ There are three parts in the experiment. Firstly, we will measure the coil's ind
 
 #### B. Experimental Components
 
-![[_attachments/APhO_2025_exp/APhO_2025_exp_p2_f1.png]]
+![[prove/_attachments/apho_2025_exp/apho_2025_exp_p2_f1.png]]
 *Figure 2. Experimental setup. The components are described in the list below.*
 
 1. Function generator (FG) (operating frequency: $20\ \text{Hz}$ to $100\ \text{kHz}$).
@@ -51,7 +51,7 @@ There are three parts in the experiment. Firstly, we will measure the coil's ind
 16. Stainless steel "SS410" plates, size $= 2.7\ \text{cm} \times 4.6\ \text{cm}$, thickness $= 0.76\ \text{mm}$, relative magnetic permeability $\mu_r = 700$ (4 pcs). Surface appearance: mirror-like / mirror-like.
 17. Charger and USB-C cable for the digital handheld oscilloscope (1 pc).
 
-![[_attachments/APhO_2025_exp/APhO_2025_exp_p3_f1.png]]
+![[prove/_attachments/apho_2025_exp/apho_2025_exp_p3_f1.png]]
 *Figure 3. The induction cooker setup, (1): coil pin terminals, (2): clamps, (3): coil#1, (4): coil#2.*
 
 ##### Parameters and Constants
@@ -111,7 +111,7 @@ In this experiment #2 we will use the two coils as shown in Fig. 4, but without 
 
 ###### B. Skin depth experiment
 
-![[_attachments/APhO_2025_exp/APhO_2025_exp_p5_f1.png]]
+![[prove/_attachments/apho_2025_exp/apho_2025_exp_p5_f1.png]]
 *Figure 4. Skin depth experiment, (1): coil pin terminals, (2): coil#1, (3): metal plates, (4): coil#2.*
 
 The "skin-depth" concept plays an important role in the induction cooker. The "skin-depth" characterizes the penetration depth of the alternating current (AC) induced electromagnetic field into metal. In this experiment we will investigate the skin depth of various metals that can be used as cooking pans. We will investigate its frequency-dependence and measure the electrical conductivity ($\sigma$) of the metals.
@@ -151,7 +151,7 @@ We will perform experiments on four metals: (1) Aluminium, (2) Copper, (3) Stain
 > 2. **WARNING:** Please limit the maximum current to the coil to approximately $2\ \text{A-peak}$ to prevent overheating.
 > 3. To operate the "induction cooker" please use frequency approximately $f = 40\ \text{kHz}$.
 
-![[_attachments/APhO_2025_exp/APhO_2025_exp_p7_f1.png]]
+![[prove/_attachments/apho_2025_exp/apho_2025_exp_p7_f1.png]]
 *Figure 5. The induction cooking experiment setup, (1): coil#1, (2): metal plates, (3): coil#2, (4): NTC.*
 
 In this experiment we will use the Aluminium and the SS410 metal as the "cooking pan". First you will mount the Aluminium "pan" (item #11), clamp it on the top platform and then you flip it upside down as shown in Fig. 5. You will use coil#2, which is well separated from the "pan", so that there is no heat transfer between them by conduction.
@@ -180,7 +180,7 @@ where $R_0 = 10\ \text{k}\Omega$ is the nominal resistance at reference temperat
 
 **3.4** *(1.5 pt)* — Repeat Q3.3 for the SS410 "pan".
 
-![[_attachments/APhO_2025_exp/APhO_2025_exp_p8_f1.png]]
+![[prove/_attachments/apho_2025_exp/apho_2025_exp_p8_f1.png]]
 *Figure 6. Equivalent model for an induction cooker.*
 
 Finally, we can model the heating of the metal "pan" as if it introduces a "load resistance" $R_{\text{LOAD}}$ to the circuit as shown in Fig. 6. In other words, the coil and metal pan system can be modeled as coil inductance $L$, coil resistance $R_L$ and the "load resistance" $R_{\text{LOAD}}$.
@@ -199,7 +199,7 @@ Finally, we can model the heating of the metal "pan" as if it introduces a "load
 
 ##### D.1. Function Generator Box
 
-![[_attachments/APhO_2025_exp/APhO_2025_exp_p9_f1.png]]
+![[prove/_attachments/apho_2025_exp/apho_2025_exp_p9_f1.png]]
 *Figure 7. The function generator box.*
 
 Components:
@@ -217,7 +217,7 @@ Components:
 
 ##### D.2. Digital Oscilloscope
 
-![[_attachments/APhO_2025_exp/APhO_2025_exp_p10_f1.png]]
+![[prove/_attachments/apho_2025_exp/apho_2025_exp_p10_f1.png]]
 *Figure 8. Digital oscilloscope.*
 
 **1. PANEL KEY FUNCTIONS.** These keys allow you to navigate through settings, select functions, and adjust measurements.
@@ -287,7 +287,7 @@ Components:
 
 #### A. Introduzione
 
-![[_attachments/APhO_2025_exp/APhO_2025_exp_p1_f1.png]]
+![[prove/_attachments/apho_2025_exp/apho_2025_exp_p1_f1.png]]
 *Figura 1. Una cucina ad induzione.*
 
 Questo problema presenta una fisica della cucina molto interessante: una cucina a induzione. Tale dispositivo consiste principalmente in una bobina, che viene guidata da una corrente alternata che riscalda una padella di metallo sopra. Si tratta di un'alternativa moderna alla cucina che offre diversi vantaggi quali un ambiente di cottura più sicuro (senza incendio o gas infiammabile), utensili più puliti (senza fuliggine), una cottura più veloce ed è più rispettoso dell'ambiente (può essere alimentato da energia elettrica rinnovabile). In questo esperimento esploreremo le fondamentali e affascinanti fisiche di una cucina ad induzione.
@@ -296,7 +296,7 @@ L'esperimento ha tre parti. In primo luogo, misureremo l'induttanza della bobina
 
 #### B. Componenti sperimentali
 
-![[_attachments/APhO_2025_exp/APhO_2025_exp_p2_f1.png]]
+![[prove/_attachments/apho_2025_exp/apho_2025_exp_p2_f1.png]]
 *Figura 2. - Si', si'. I componenti sono descritti nell'elenco di seguito.*
 
 1. Generatore di funzione (FG) (frequenza di funzionamento: $20\ \text{Hz}$ a $100\ \text{kHz}$).
@@ -317,7 +317,7 @@ L'esperimento ha tre parti. In primo luogo, misureremo l'induttanza della bobina
 16. Piastre in acciaio inossidabile "SS410", di dimensioni $= 2.7\ \text{cm} \times 4.6\ \text{cm}$, spessore $= 0.76\ \text{mm}$, permeabilità magnetica relativa $\mu_r = 700$ (4 pcs). Apparizione superficiale: specchio / specchio.
 17. Carreggiatore e cavo USB-C per l'oscilloscopio digitale portatile (1 pc).
 
-![[_attachments/APhO_2025_exp/APhO_2025_exp_p3_f1.png]]
+![[prove/_attachments/apho_2025_exp/apho_2025_exp_p3_f1.png]]
 *Figura 3. La configurazione della cucina ad induzione, (1): terminali di pin della bobina, (2): fissature, (3): bobina n. 1, (4): bobina n. 2.*
 
 ##### Parametri e costanti
@@ -377,7 +377,7 @@ In questo esperimento numero 2 useremo le due bobine come mostrato nella figura.
 
 ###### B. Esperimento di profondità della pelle
 
-![[_attachments/APhO_2025_exp/APhO_2025_exp_p5_f1.png]]
+![[prove/_attachments/apho_2025_exp/apho_2025_exp_p5_f1.png]]
 *Figura 4. Esperimento di profondità della pelle, (1): terminali di pin di bobina, (2): bobina 1, (3): piastre metalliche, (4): bobina 2.*
 
 Il concetto di "profondità della pelle" svolge un ruolo importante nella cucina a induzione. La "profondità della pelle" caratterizza la profondità di penetrazione del campo elettromagnetico indotto dal corrente alternata (AC) nel metallo. In questo esperimento esamineremo la profondità della pelle di vari metalli che possono essere utilizzati come padelle da cucina. La sua frequenza-dipendenza sarà esaminata e la conduttività elettrica dei metalli ($\sigma$) misurata.
@@ -417,7 +417,7 @@ Esperienti effettuati su quattro metalli: (1) alluminio, (2) rame, (3) acciaio i
 > 2. ** AVVERTENZA: ** Per evitare il surriscaldamento, si prega di limitare la corrente massima della bobina a circa $2\ \text{A-peak}$.
 > 3. Per operare la " cucina ad induzione " si prega di utilizzare una frequenza di $f = 40\ \text{kHz}$.
 
-![[_attachments/APhO_2025_exp/APhO_2025_exp_p7_f1.png]]
+![[prove/_attachments/apho_2025_exp/apho_2025_exp_p7_f1.png]]
 *Figura 5. L'impostazione dell'esperimento di cottura ad induzione, (1): bobina n°1, (2): piastre di metallo, (3): bobina n°2, (4): NTC.*
 
 In questo esperimento useremo l'alluminio e il metallo SS410 come "pani di cucina". Prima di tutto montare la "pan" in alluminio (articolo 11), appiccare la piattaforma superiore e poi girarla a testa in giù come mostrato nella figura. 5. Utilizzerete la bobina n. 2, che è ben separata dalla "pan", in modo che non vi sia alcun trasferimento di calore tra di loro mediante conduttività.
@@ -446,7 +446,7 @@ se $R_0 = 10\ \text{k}\Omega$ è la resistenza nominale alla temperatura di rife
 
 **3.4** *(1,5 pt) *  Ripetere Q3.3 per la "pan" SS410.
 
-![[_attachments/APhO_2025_exp/APhO_2025_exp_p8_f1.png]]
+![[prove/_attachments/apho_2025_exp/apho_2025_exp_p8_f1.png]]
 *Figura 6. Modello equivalente per una cucina a induzione.*
 
 Infine, possiamo modellare il riscaldamento del "pan" metallico come se introdusse una "resistenza al carico" $R_{\text{LOAD}}$ al circuito come mostrato nella figura. 6. In altre parole, il sistema di bobine e pannelli metallici può essere modellato come induttanza della bobina $L$, resistenza della bobina $R_L$ e "resistenza al carico" $R_{\text{LOAD}}$.
@@ -465,7 +465,7 @@ Infine, possiamo modellare il riscaldamento del "pan" metallico come se introdus
 
 ##### D.1. Cassa Generatore di Funzioni
 
-![[_attachments/APhO_2025_exp/APhO_2025_exp_p9_f1.png]]
+![[prove/_attachments/apho_2025_exp/apho_2025_exp_p9_f1.png]]
 *Figura 7. La casella del generatore di funzioni.*
 
 Componenti:
@@ -483,7 +483,7 @@ Componenti:
 
 ##### D.2. Osciloscopio digitale
 
-![[_attachments/APhO_2025_exp/APhO_2025_exp_p10_f1.png]]
+![[prove/_attachments/apho_2025_exp/apho_2025_exp_p10_f1.png]]
 *Figura 8. Osciloscopo digitale.*
 
 **1. FUNZIONI CLAVE DEL PANEL.** Queste chiavi consentono di navigare attraverso le impostazioni, selezionare le funzioni e regolare le misure.

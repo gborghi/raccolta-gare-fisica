@@ -99,7 +99,7 @@ D The cork sinks to the bottom of the bucket.
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
@@ -122,7 +122,7 @@ D Il canne si scende al fondo del secchio.
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -144,7 +144,7 @@ D The cork sinks to the bottom of the bucket.
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
@@ -174,7 +174,7 @@ D … place a weight of mass $0{,}9\ \mathrm{kg}$ on the left-hand side of the b
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
@@ -199,7 +199,7 @@ D … place a weight of mass $0{,}9\ \mathrm{kg}$ on the left hand side of the b
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -223,7 +223,7 @@ D … place a weight of mass $0{,}9\ \mathrm{kg}$ on the left hand side of the b
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
@@ -251,7 +251,7 @@ D The water levels in all glasses are unchanged.
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Bubble (object)|Bubble]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Bubble (object)|Bubble]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
@@ -274,7 +274,7 @@ D I livelli di acqua in tutti i bicchieri sono invariati.
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Bubble (object)|Bubble]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Bubble (object)|Bubble]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -296,7 +296,7 @@ D The water levels in all glasses are unchanged.
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Bubble (object)|Bubble]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Bubble (object)|Bubble]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
@@ -513,7 +513,7 @@ Which of the graphs correctly represents the distance $x$ of the impact point as
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
@@ -530,7 +530,7 @@ Qual è il grafico che rappresenta correttamente la distanza $x$ del punto di im
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -546,7 +546,7 @@ Which of the graphs correctly represents the distance $x$ of the impact point as
 **Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
@@ -574,7 +574,7 @@ D This cannot be answered as stated.
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Rod (object)|Rod]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
@@ -597,7 +597,7 @@ D Questo non può essere risposto come indicato.
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Rod (object)|Rod]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -619,7 +619,7 @@ D This cannot be answered as stated.
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Rod (object)|Rod]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
@@ -923,7 +923,7 @@ $$A\quad \ell' = \frac{m_A}{m_B}\,\ell \qquad B\quad \ell' = \frac{2\,m_A}{m_A +
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
@@ -942,7 +942,7 @@ $$A\quad \ell' = \frac{m_A}{m_B}\,\ell \qquad B\quad \ell' = \frac{2\,m_A}{m_A +
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -960,7 +960,7 @@ $$A\quad \ell' = \frac{m_A}{m_B}\,\ell \qquad B\quad \ell' = \frac{2\,m_A}{m_A +
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
@@ -1509,7 +1509,7 @@ D $6{,}6 \times 10^7\ \mathrm{A\,V^{-1}\,m^{-1}}$
 **Topic:** [[Electromagnetic Induction]], [[Electromagnetism]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Magnet (object)|Magnet]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Magnet (object)|Magnet]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
@@ -1542,7 +1542,7 @@ D $6{,}6 \times 10^7\ \mathrm{A\,V^{-1}\,m^{-1}}$
 **Topic:** [[Electromagnetic Induction]], [[Electromagnetism]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Magnet (object)|Magnet]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Magnet (object)|Magnet]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1574,7 +1574,7 @@ D $6{,}6 \times 10^7\ \mathrm{A\,V^{-1}\,m^{-1}}$
 **Topic:** [[Electromagnetic Induction]], [[Electromagnetism]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Magnet (object)|Magnet]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Magnet (object)|Magnet]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
@@ -2189,7 +2189,7 @@ D $145\ \mathrm{g}$
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.24](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
@@ -2214,7 +2214,7 @@ D $145\ \mathrm{g}$
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.24](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -2238,7 +2238,7 @@ D $145\ \mathrm{g}$
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.24](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
@@ -2268,7 +2268,7 @@ D With the voltage used, it is not possible to melt all the ice.
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.25](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
@@ -2293,7 +2293,7 @@ D Con la tensione utilizzata, non è possibile fondere tutto il ghiaccio.
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.25](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -2317,7 +2317,7 @@ D With the voltage used, it's not possible to melt all the ice.
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.25](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 

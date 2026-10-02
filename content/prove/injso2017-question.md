@@ -62,7 +62,7 @@ The focal length of a biconvex lens made of a soft material can be changed by ch
 
 <!--fig:start-->
 **Quesito 2**
-![[INJSO2017-Question_p3_f1.png]]
+![[_attachments/injso2017-question/injso2017-question_p3_f1.png]]
 <!--fig:end-->
 
 - (a) See figure, option (a)
@@ -84,7 +84,7 @@ La lunghezza focale di una lente biconvexa fatta di materiale morbido può esser
 
 <!--fig:start-->
 **Quesito 2**
-![[INJSO2017-Question_p3_f1.png]]
+![[_attachments/injso2017-question/injso2017-question_p3_f1.png]]
 <!--fig:end-->
 
 - a) V. figura, opzione a)
@@ -228,7 +228,7 @@ In a laboratory, a plane mirror and a student move with velocities as shown in t
 
 <!--fig:start-->
 **Quesito 6**
-![[INJSO2017-Question_p4_f2.png]]
+![[_attachments/injso2017-question/injso2017-question_p4_f2.png]]
 <!--fig:end-->
 
 - (a) $-2.5(2+\sqrt{3})$, Zero
@@ -250,7 +250,7 @@ In un laboratorio, uno specchio aereo e uno studente si muovono con velocità co
 
 <!--fig:start-->
 **Quesito 6**
-![[INJSO2017-Question_p4_f2.png]]
+![[_attachments/injso2017-question/injso2017-question_p4_f2.png]]
 <!--fig:end-->
 
 - a) $-2.5(2+\sqrt{3})$, Zero
@@ -472,7 +472,7 @@ A point source of light B is placed at a distance $d$ in front of the centre of 
 
 <!--fig:start-->
 **Quesito 12**
-![[INJSO2017-Question_p5_f3.png]]
+![[_attachments/injso2017-question/injso2017-question_p5_f3.png]]
 <!--fig:end-->
 
 - (a) $L/2$
@@ -494,7 +494,7 @@ Una fonte di luce a punto B è posta a una distanza $d$ davanti al centro di uno
 
 <!--fig:start-->
 **Quesito 12**
-![[INJSO2017-Question_p5_f3.png]]
+![[_attachments/injso2017-question/injso2017-question_p5_f3.png]]
 <!--fig:end-->
 
 - (a) $L/2$
@@ -521,7 +521,7 @@ A group of biology students on excursion to Goa beaches collected the following 
 
 <!--fig:start-->
 **Quesito 13**
-![[INJSO2017-Question_p5_f4.png]]
+![[_attachments/injso2017-question/injso2017-question_p5_f4.png]]
 <!--fig:end-->
 
 While they were putting the animals in the jar with sea water, they noticed that one of the animal's 1/3$^\text{rd}$ body part was missing. The injured animal (with only 2/3$^\text{rd}$ of its body) was brought to the lab and was allowed to grow in the laboratory in appropriate condition. To their surprise the lost body part of the animal had regenerated. Which of the above animal would have been collected?
@@ -545,7 +545,7 @@ Un gruppo di studenti di biologia in escursione sulle spiagge di Goa ha raccolto
 
 <!--fig:start-->
 **Quesito 13**
-![[INJSO2017-Question_p5_f4.png]]
+![[_attachments/injso2017-question/injso2017-question_p5_f4.png]]
 <!--fig:end-->
 
 While they were putting the animals in the jar with sea water, they noticed that one of the animal's 1/3$^\text{rd}$ body part was missing. L' animale ferito (con solo 2/3 $^\text{rd}$ del suo corpo) è stato portato in laboratorio e è stato permesso di crescere in laboratorio in condizioni adeguate. Per loro sorpresa la parte del corpo del animale che era stata persa si era rigenerata. Quale animale sarebbe stato raccolto?
@@ -619,7 +619,7 @@ A compound exists in the gaseous state both as monomer (A) and dimer (A$_2$). Th
 **Topic:** [[Kinetic Theory]], [[Chemistry]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1a_9o2uVc4uPDyPykREh76S3gFoQ-0b-Z/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1nY_zcQefvj1aw1jYxNsocuqsA7ATu8g2/view)
 
@@ -636,7 +636,7 @@ Un composto esiste nello stato gassoso sia come monomero (A) che come dimero (A$
 **Topic:** [[Kinetic Theory]], [[Chemistry]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1a_9o2uVc4uPDyPykREh76S3gFoQ-0b-Z/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1nY_zcQefvj1aw1jYxNsocuqsA7ATu8g2/view)
 
@@ -652,7 +652,7 @@ A sound wave of fixed frequency is going through a medium in the X direction. Ig
 
 <!--fig:start-->
 **Quesito 16**
-![[INJSO2017-Question_p6_f5.png]]
+![[_attachments/injso2017-question/injso2017-question_p6_f5.png]]
 <!--fig:end-->
 
 I) The sound wave is travelling along the negative X direction.
@@ -679,7 +679,7 @@ Un'onda sonora di frequenza fissa sta attraversando un mezzo nella direzione X. 
 
 <!--fig:start-->
 **Quesito 16**
-![[INJSO2017-Question_p6_f5.png]]
+![[_attachments/injso2017-question/injso2017-question_p6_f5.png]]
 <!--fig:end-->
 
 I) L'onda sonora si muove in direzione X negativa.
@@ -711,7 +711,7 @@ Seven $1\,\Omega$ resistances are connected as shown in the figure. Resistance o
 
 <!--fig:start-->
 **Quesito 17**
-![[INJSO2017-Question_p6_f6.png]]
+![[_attachments/injso2017-question/injso2017-question_p6_f6.png]]
 <!--fig:end-->
 
 - (a) $(3/5)\,\Omega$
@@ -733,7 +733,7 @@ Sette resistenze $1\,\Omega$ sono collegate come mostrato nella figura. La resis
 
 <!--fig:start-->
 **Quesito 17**
-![[INJSO2017-Question_p6_f6.png]]
+![[_attachments/injso2017-question/injso2017-question_p6_f6.png]]
 <!--fig:end-->
 
 - (a) $(3/5)\,\Omega$
@@ -911,7 +911,7 @@ Fishes such as Salmon are called as anadromous fish. They are born in fresh wate
 
 <!--fig:start-->
 **Quesito 21**
-![[INJSO2017-Question_p7_f7.png]]
+![[_attachments/injso2017-question/injso2017-question_p7_f7.png]]
 <!--fig:end-->
 
 Which one of the following strategies will Salmon adopt in order to manage the problem of osmoregulation when it is in the sea?
@@ -935,7 +935,7 @@ Pesci come il salmone sono chiamati pesci anadromici. Sono nati in acqua dolce. 
 
 <!--fig:start-->
 **Quesito 21**
-![[INJSO2017-Question_p7_f7.png]]
+![[_attachments/injso2017-question/injso2017-question_p7_f7.png]]
 <!--fig:end-->
 
 Quale delle seguenti strategie sarà adottata dal Salmone per gestire il problema dell'osmoregulazione quando si trova in mare?
@@ -1137,7 +1137,7 @@ Bones, ligaments and muscles are structures that are considered to be lever syst
 
 <!--fig:start-->
 **Quesito 25**
-![[INJSO2017-Question_p9_f8.png]]
+![[_attachments/injso2017-question/injso2017-question_p9_f8.png]]
 <!--fig:end-->
 
 - (a) P-I, Q-II, R-III
@@ -1159,7 +1159,7 @@ Ossa, legamenti e muscoli sono strutture che sono considerate come leva del corp
 
 <!--fig:start-->
 **Quesito 25**
-![[INJSO2017-Question_p9_f8.png]]
+![[_attachments/injso2017-question/injso2017-question_p9_f8.png]]
 <!--fig:end-->
 
 - a) P-I, Q-II, R-III
@@ -1186,7 +1186,7 @@ The chart represents the relationships between some plants. In the scheme (P) to
 
 <!--fig:start-->
 **Quesito 26**
-![[INJSO2017-Question_p9_f9.png]]
+![[_attachments/injso2017-question/injso2017-question_p9_f9.png]]
 <!--fig:end-->
 
 (i) to (v) below represent some characters related to (P) – (S), but not necessarily in that order:
@@ -1218,7 +1218,7 @@ Il grafico rappresenta le relazioni tra alcune piante. Nel regime (P) a (S) sono
 
 <!--fig:start-->
 **Quesito 26**
-![[INJSO2017-Question_p9_f9.png]]
+![[_attachments/injso2017-question/injso2017-question_p9_f9.png]]
 <!--fig:end-->
 
 I) a v) di seguito rappresentano alcuni caratteri correlati a (P)  (S), ma non necessariamente in tale ordine:
@@ -1261,7 +1261,7 @@ If 22 g of nitrogen gas, 44 g of oxygen gas and 38 g of carbon dioxide gas are k
 **Topic:** [[Kinetic Theory]], [[Chemistry]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1a_9o2uVc4uPDyPykREh76S3gFoQ-0b-Z/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1nY_zcQefvj1aw1jYxNsocuqsA7ATu8g2/view)
 
@@ -1278,7 +1278,7 @@ Se 22 g di gas azoto, 44 g di gas ossigeno e 38 g di gas anidride carbonica veng
 **Topic:** [[Kinetic Theory]], [[Chemistry]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1a_9o2uVc4uPDyPykREh76S3gFoQ-0b-Z/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1nY_zcQefvj1aw1jYxNsocuqsA7ATu8g2/view)
 
@@ -1294,7 +1294,7 @@ In the figure given, PQ is a long uniform coil of metal wire, V is a constant vo
 
 <!--fig:start-->
 **Quesito 28**
-![[INJSO2017-Question_p10_f10.png]]
+![[_attachments/injso2017-question/injso2017-question_p10_f10.png]]
 <!--fig:end-->
 
 I) The (equivalent) pole at the end P if slider S of rheostat is moved from A to B is North.
@@ -1321,7 +1321,7 @@ Nella figura data, PQ è una lunga bobina uniforme di filo metallico, V è una f
 
 <!--fig:start-->
 **Quesito 28**
-![[INJSO2017-Question_p10_f10.png]]
+![[_attachments/injso2017-question/injso2017-question_p10_f10.png]]
 <!--fig:end-->
 
 I) Il polo (equivalente) alla fine P se il slider S del reostato viene spostato da A a B è nord.
@@ -1447,7 +1447,7 @@ The figure above represents the composition of human blood for an Indian individ
 
 <!--fig:start-->
 **Quesito 31**
-![[INJSO2017-Question_p11_f11.png]]
+![[_attachments/injso2017-question/injso2017-question_p11_f11.png]]
 <!--fig:end-->
 
 [Data: WBC: 7000/mm$^3$; RBC: 5.2 million/mm$^3$; Platelets: 3,75,000/mm$^3$ of blood]
@@ -1462,7 +1462,7 @@ The figure above represents the composition of human blood for an Indian individ
 
 <!--fig:start-->
 **Quesito 31**
-![[INJSO2017-Question_p12_f12.png]]
+![[_attachments/injso2017-question/injso2017-question_p12_f12.png]]
 <!--fig:end-->
 
 Fill the table below by selecting the correct option regarding composition of blood and direction of blood flow in regions labeled 1, 3 and 4.
@@ -1492,7 +1492,7 @@ La figura di cui sopra rappresenta la composizione del sangue umano per un india
 
 <!--fig:start-->
 **Quesito 31**
-![[INJSO2017-Question_p11_f11.png]]
+![[_attachments/injso2017-question/injso2017-question_p11_f11.png]]
 <!--fig:end-->
 
 [Dati: WBC: 7000/mm$^3$; RBC: 5,2 milioni/mm$^3$; Tricette: 3,75,000/mm$^3$ di sangue]
@@ -1507,7 +1507,7 @@ La figura di cui sopra rappresenta la composizione del sangue umano per un india
 
 <!--fig:start-->
 **Quesito 31**
-![[INJSO2017-Question_p12_f12.png]]
+![[_attachments/injso2017-question/injso2017-question_p12_f12.png]]
 <!--fig:end-->
 
 Compila la tabella di seguito selezionando l' opzione corretta per la composizione del sangue e la direzione del flusso sanguigno nelle regioni etichettate 1, 3 e 4.
@@ -1638,7 +1638,7 @@ A Light Emitting Diode (LED) of a particular brand glows with significant bright
 
 <!--fig:start-->
 **Quesito 34**
-![[INJSO2017-Question_p14_f13.png]]
+![[_attachments/injso2017-question/injso2017-question_p14_f13.png]]
 <!--fig:end-->
 
 [Total = 5 marks]
@@ -1646,7 +1646,7 @@ A Light Emitting Diode (LED) of a particular brand glows with significant bright
 **Topic:** [[Thermodynamics]], [[Modern-Quantum Physics]]
 **Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Photon (object)|Photon]], [[Electron (object)|Electron]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Photon (object)|Photon]], [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1a_9o2uVc4uPDyPykREh76S3gFoQ-0b-Z/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1nY_zcQefvj1aw1jYxNsocuqsA7ATu8g2/view)
 
@@ -1661,7 +1661,7 @@ Un diodo di emissione luminosa (LED) di un particolare marchio risplende con una
 
 <!--fig:start-->
 **Quesito 34**
-![[INJSO2017-Question_p14_f13.png]]
+![[_attachments/injso2017-question/injso2017-question_p14_f13.png]]
 <!--fig:end-->
 
 [Total = 5 marchi]
@@ -1669,7 +1669,7 @@ Un diodo di emissione luminosa (LED) di un particolare marchio risplende con una
 **Topic:** [[Thermodynamics]], [[Modern-Quantum Physics]]
 **Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Photon (object)|Photon]], [[Electron (object)|Electron]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Photon (object)|Photon]], [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1a_9o2uVc4uPDyPykREh76S3gFoQ-0b-Z/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1nY_zcQefvj1aw1jYxNsocuqsA7ATu8g2/view)
 
@@ -1691,7 +1691,7 @@ The allele that controls the Bar-eyed phenotype (B) is dominant over that which 
 
 <!--fig:start-->
 **Quesito 35**
-![[INJSO2017-Question_p14_f14.png]]
+![[_attachments/injso2017-question/injso2017-question_p14_f14.png]]
 <!--fig:end-->
 
 **35.I)** A geneticist wanted to study the inheritance of eye shape in *Drosophila*. Which one of the following is the necessary pre-requisite to study inheritance of any character? **[1.0]**
@@ -1743,7 +1743,7 @@ L'alelo che controlla il fenotipo a occhi di Bar (B) è dominante su quello che 
 
 <!--fig:start-->
 **Quesito 35**
-![[INJSO2017-Question_p14_f14.png]]
+![[_attachments/injso2017-question/injso2017-question_p14_f14.png]]
 <!--fig:end-->
 
 Un genetista ha voluto studiare l' eredità della forma degli occhi in *Drosophila*. Quale delle seguenti condizioni è necessaria per studiare l'eredità di un qualsiasi carattere? **[1.0]**
@@ -1794,14 +1794,54 @@ b) Quando la progenie F$_1$ è stata incrociata è stata ottenuta la seguente pr
 
 <!--fig:start-->
 **Quesito 36**
-![[INJSO2017-Question_p15_f15.png]]
+![[_attachments/injso2017-question/injso2017-question_p15_f15.png]]
 <!--fig:end-->
 
 **36.B.** A battery of mobile phone of rating 3.6 V, 3600 mAh (practically) loses its complete charge in 24 hrs when connected to a mesh on the largest diagonal points (between A & C or between D & B) shown below. What is the value of resistance $R$ of individual arm? (All arms have same resistance.) How long will the battery last if it is connected across one of the outer arms, say DC (or CB or AB or BC)? Assume that the battery voltage remains constant throughout its discharge. **[3.0]**
 
 <!--fig:start-->
 **Quesito 36**
-![[INJSO2017-Question_p16_f16.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='134.313863pt' height='124.130627pt' viewBox='-64.345909 -64.911848 134.313863 124.130627'>
+<defs>
+<path id='g0-82' d='M3.73599-6.117061C3.795766-6.356164 3.825654-6.455791 4.014944-6.485679C4.104608-6.495641 4.423412-6.495641 4.622665-6.495641C5.330012-6.495641 6.435866-6.495641 6.435866-5.50934C6.435866-5.17061 6.276463-4.483188 5.88792-4.094645C5.628892-3.835616 5.100872-3.516812 4.204234-3.516812H3.088418L3.73599-6.117061ZM5.17061-3.387298C6.176837-3.606476 7.362391-4.303861 7.362391-5.310087C7.362391-6.166874 6.465753-6.804483 5.160648-6.804483H2.321295C2.122042-6.804483 2.032379-6.804483 2.032379-6.60523C2.032379-6.495641 2.122042-6.495641 2.311333-6.495641C2.331258-6.495641 2.520548-6.495641 2.689913-6.475716C2.86924-6.455791 2.958904-6.445828 2.958904-6.316314C2.958904-6.276463 2.948941-6.246575 2.919054-6.127024L1.58406-.777086C1.484433-.388543 1.464508-.308842 .67746-.308842C.498132-.308842 .408468-.308842 .408468-.109589C.408468 0 .52802 0 .547945 0C.826899 0 1.524284-.029888 1.803238-.029888S2.789539 0 3.068493 0C3.148194 0 3.267746 0 3.267746-.199253C3.267746-.308842 3.178082-.308842 2.988792-.308842C2.620174-.308842 2.34122-.308842 2.34122-.488169C2.34122-.547945 2.361146-.597758 2.371108-.657534L3.028643-3.297634H4.214197C5.120797-3.297634 5.300125-2.739726 5.300125-2.391034C5.300125-2.241594 5.220423-1.932752 5.160648-1.703611C5.090909-1.424658 5.001245-1.05604 5.001245-.856787C5.001245 .219178 6.196762 .219178 6.326276 .219178C7.173101 .219178 7.521793-.787049 7.521793-.926526C7.521793-1.046077 7.412204-1.046077 7.402242-1.046077C7.312578-1.046077 7.292653-.976339 7.272727-.9066C7.023661-.169365 6.595268 0 6.366127 0C6.03736 0 5.967621-.219178 5.967621-.607721C5.967621-.916563 6.027397-1.424658 6.067248-1.743462C6.087173-1.882939 6.107098-2.072229 6.107098-2.211706C6.107098-2.978829 5.439601-3.287671 5.17061-3.387298Z'/>
+<path id='g1-67' d='M.557908-3.407223C.557908-1.344956 2.171856 .219178 4.024907 .219178C5.648817 .219178 6.625156-1.165629 6.625156-2.321295C6.625156-2.420922 6.625156-2.49066 6.495641-2.49066C6.386052-2.49066 6.386052-2.430884 6.37609-2.331258C6.296389-.9066 5.230386-.089664 4.144458-.089664C3.536737-.089664 1.58406-.428394 1.58406-3.39726C1.58406-6.37609 3.526775-6.714819 4.134496-6.714819C5.220423-6.714819 6.107098-5.808219 6.306351-4.353674C6.326276-4.214197 6.326276-4.184309 6.465753-4.184309C6.625156-4.184309 6.625156-4.214197 6.625156-4.423412V-6.784558C6.625156-6.953923 6.625156-7.023661 6.515567-7.023661C6.475716-7.023661 6.435866-7.023661 6.356164-6.90411L5.858032-6.166874C5.489415-6.525529 4.98132-7.023661 4.024907-7.023661C2.161893-7.023661 .557908-5.439601 .557908-3.407223Z'/>
+<path id='g1-68' d='M.348692-6.804483V-6.495641H.587796C1.354919-6.495641 1.374844-6.386052 1.374844-6.027397V-.777086C1.374844-.418431 1.354919-.308842 .587796-.308842H.348692V0H3.995019C5.668742 0 7.043587-1.474471 7.043587-3.347447C7.043587-5.240349 5.69863-6.804483 3.995019-6.804483H.348692ZM2.719801-.308842C2.251557-.308842 2.231631-.37858 2.231631-.707347V-6.097136C2.231631-6.425903 2.251557-6.495641 2.719801-6.495641H3.716065C4.333748-6.495641 5.021171-6.276463 5.529265-5.569116C5.957659-4.98132 6.047323-4.124533 6.047323-3.347447C6.047323-2.241594 5.858032-1.643836 5.499377-1.155666C5.300125-.886675 4.732254-.308842 3.726027-.308842H2.719801Z'/>
+</defs>
+<g id='page1'>
+<path d='M-53.562499 59.019529V-54.3671H59.8247V59.019529Z' stroke='#000' fill='none' stroke-width='.3985'/>
+<g transform='matrix(1 0 0 1 -11.1303 -116.9071)'>
+<use x='-53.564301' y='59.018913' xlink:href='#g1-68'/>
+</g>
+<g transform='matrix(1 0 0 1 116.9071 -116.9071)'>
+<use x='-53.564301' y='59.018913' xlink:href='#g1-67'/>
+</g>
+<path d='M-53.562499 2.3242H59.8247' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M3.1289 59.019529V-54.3671' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M3.1289-2.2578V-49.7851' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M3.128908 1.5039C3.242189 1.04297 3.878908-.98828 4.57422-2.257816H1.6836C2.378908-.98828 3.015627 1.04297 3.128908 1.5039Z'/>
+<path d='M3.128908 1.5039C3.242189 1.04297 3.878908-.98828 4.57422-2.257816H1.6836C2.378908-.98828 3.015627 1.04297 3.128908 1.5039Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M3.128908-53.54689C3.015627-53.08596 2.378908-51.05471 1.6836-49.785176H4.57422C3.878908-51.05471 3.242189-53.08596 3.128908-53.54689Z'/>
+<path d='M3.128908-53.54689C3.015627-53.08596 2.378908-51.05471 1.6836-49.785176H4.57422C3.878908-51.05471 3.242189-53.08596 3.128908-53.54689Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 45.53221 -81.6365)'>
+<use x='-53.564301' y='59.018913' xlink:href='#g0-82'/>
+</g>
+<path d='M7.7109 2.3242H55.2387' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M3.94922 2.324216C4.41406 2.437497 6.44141 3.078122 7.710939 3.77343V.8789C6.44141 1.574216 4.41406 2.210934 3.94922 2.324216Z'/>
+<path d='M3.94922 2.324216C4.41406 2.437497 6.44141 3.078122 7.710939 3.77343V.8789C6.44141 1.574216 4.41406 2.210934 3.94922 2.324216Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M59.00002 2.324216C58.53908 2.210934 56.50783 1.574216 55.238299 .8789V3.77343C56.50783 3.078122 58.53908 2.437497 59.00002 2.324216Z'/>
+<path d='M59.00002 2.324216C58.53908 2.210934 56.50783 1.574216 55.238299 .8789V3.77343C56.50783 3.078122 58.53908 2.437497 59.00002 2.324216Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 81.2196 -46.3659)'>
+<use x='-53.564301' y='59.018913' xlink:href='#g0-82'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 <!--fig:end-->
 
 [Total = 5 marks]
@@ -1820,14 +1860,54 @@ b) Quando la progenie F$_1$ è stata incrociata è stata ottenuta la seguente pr
 
 <!--fig:start-->
 **Quesito 36**
-![[INJSO2017-Question_p15_f15.png]]
+![[_attachments/injso2017-question/injso2017-question_p15_f15.png]]
 <!--fig:end-->
 
 **36.B.** Una batteria di telefono cellulare di 3,6 V, 3600 mAh (praticamente) perde la sua carica completa in 24 ore quando è collegata a una rete nei punti diagonali più grandi (tra A e C o tra D e B) riportati di seguito. Qual è il valore di resistenza $R$ di singolo braccio? Quanto durerà la batteria se è collegata attraverso uno dei bracci esterni, diciamo DC (o CB o AB o BC)? Supponiamo che la tensione della batteria rimanga costante durante il suo scarico. **[3.0]**
 
 <!--fig:start-->
 **Quesito 36**
-![[INJSO2017-Question_p16_f16.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='134.313863pt' height='124.130627pt' viewBox='-64.345909 -64.911848 134.313863 124.130627'>
+<defs>
+<path id='g0-82' d='M3.73599-6.117061C3.795766-6.356164 3.825654-6.455791 4.014944-6.485679C4.104608-6.495641 4.423412-6.495641 4.622665-6.495641C5.330012-6.495641 6.435866-6.495641 6.435866-5.50934C6.435866-5.17061 6.276463-4.483188 5.88792-4.094645C5.628892-3.835616 5.100872-3.516812 4.204234-3.516812H3.088418L3.73599-6.117061ZM5.17061-3.387298C6.176837-3.606476 7.362391-4.303861 7.362391-5.310087C7.362391-6.166874 6.465753-6.804483 5.160648-6.804483H2.321295C2.122042-6.804483 2.032379-6.804483 2.032379-6.60523C2.032379-6.495641 2.122042-6.495641 2.311333-6.495641C2.331258-6.495641 2.520548-6.495641 2.689913-6.475716C2.86924-6.455791 2.958904-6.445828 2.958904-6.316314C2.958904-6.276463 2.948941-6.246575 2.919054-6.127024L1.58406-.777086C1.484433-.388543 1.464508-.308842 .67746-.308842C.498132-.308842 .408468-.308842 .408468-.109589C.408468 0 .52802 0 .547945 0C.826899 0 1.524284-.029888 1.803238-.029888S2.789539 0 3.068493 0C3.148194 0 3.267746 0 3.267746-.199253C3.267746-.308842 3.178082-.308842 2.988792-.308842C2.620174-.308842 2.34122-.308842 2.34122-.488169C2.34122-.547945 2.361146-.597758 2.371108-.657534L3.028643-3.297634H4.214197C5.120797-3.297634 5.300125-2.739726 5.300125-2.391034C5.300125-2.241594 5.220423-1.932752 5.160648-1.703611C5.090909-1.424658 5.001245-1.05604 5.001245-.856787C5.001245 .219178 6.196762 .219178 6.326276 .219178C7.173101 .219178 7.521793-.787049 7.521793-.926526C7.521793-1.046077 7.412204-1.046077 7.402242-1.046077C7.312578-1.046077 7.292653-.976339 7.272727-.9066C7.023661-.169365 6.595268 0 6.366127 0C6.03736 0 5.967621-.219178 5.967621-.607721C5.967621-.916563 6.027397-1.424658 6.067248-1.743462C6.087173-1.882939 6.107098-2.072229 6.107098-2.211706C6.107098-2.978829 5.439601-3.287671 5.17061-3.387298Z'/>
+<path id='g1-67' d='M.557908-3.407223C.557908-1.344956 2.171856 .219178 4.024907 .219178C5.648817 .219178 6.625156-1.165629 6.625156-2.321295C6.625156-2.420922 6.625156-2.49066 6.495641-2.49066C6.386052-2.49066 6.386052-2.430884 6.37609-2.331258C6.296389-.9066 5.230386-.089664 4.144458-.089664C3.536737-.089664 1.58406-.428394 1.58406-3.39726C1.58406-6.37609 3.526775-6.714819 4.134496-6.714819C5.220423-6.714819 6.107098-5.808219 6.306351-4.353674C6.326276-4.214197 6.326276-4.184309 6.465753-4.184309C6.625156-4.184309 6.625156-4.214197 6.625156-4.423412V-6.784558C6.625156-6.953923 6.625156-7.023661 6.515567-7.023661C6.475716-7.023661 6.435866-7.023661 6.356164-6.90411L5.858032-6.166874C5.489415-6.525529 4.98132-7.023661 4.024907-7.023661C2.161893-7.023661 .557908-5.439601 .557908-3.407223Z'/>
+<path id='g1-68' d='M.348692-6.804483V-6.495641H.587796C1.354919-6.495641 1.374844-6.386052 1.374844-6.027397V-.777086C1.374844-.418431 1.354919-.308842 .587796-.308842H.348692V0H3.995019C5.668742 0 7.043587-1.474471 7.043587-3.347447C7.043587-5.240349 5.69863-6.804483 3.995019-6.804483H.348692ZM2.719801-.308842C2.251557-.308842 2.231631-.37858 2.231631-.707347V-6.097136C2.231631-6.425903 2.251557-6.495641 2.719801-6.495641H3.716065C4.333748-6.495641 5.021171-6.276463 5.529265-5.569116C5.957659-4.98132 6.047323-4.124533 6.047323-3.347447C6.047323-2.241594 5.858032-1.643836 5.499377-1.155666C5.300125-.886675 4.732254-.308842 3.726027-.308842H2.719801Z'/>
+</defs>
+<g id='page1'>
+<path d='M-53.562499 59.019529V-54.3671H59.8247V59.019529Z' stroke='#000' fill='none' stroke-width='.3985'/>
+<g transform='matrix(1 0 0 1 -11.1303 -116.9071)'>
+<use x='-53.564301' y='59.018913' xlink:href='#g1-68'/>
+</g>
+<g transform='matrix(1 0 0 1 116.9071 -116.9071)'>
+<use x='-53.564301' y='59.018913' xlink:href='#g1-67'/>
+</g>
+<path d='M-53.562499 2.3242H59.8247' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M3.1289 59.019529V-54.3671' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M3.1289-2.2578V-49.7851' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M3.128908 1.5039C3.242189 1.04297 3.878908-.98828 4.57422-2.257816H1.6836C2.378908-.98828 3.015627 1.04297 3.128908 1.5039Z'/>
+<path d='M3.128908 1.5039C3.242189 1.04297 3.878908-.98828 4.57422-2.257816H1.6836C2.378908-.98828 3.015627 1.04297 3.128908 1.5039Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M3.128908-53.54689C3.015627-53.08596 2.378908-51.05471 1.6836-49.785176H4.57422C3.878908-51.05471 3.242189-53.08596 3.128908-53.54689Z'/>
+<path d='M3.128908-53.54689C3.015627-53.08596 2.378908-51.05471 1.6836-49.785176H4.57422C3.878908-51.05471 3.242189-53.08596 3.128908-53.54689Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 45.53221 -81.6365)'>
+<use x='-53.564301' y='59.018913' xlink:href='#g0-82'/>
+</g>
+<path d='M7.7109 2.3242H55.2387' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M3.94922 2.324216C4.41406 2.437497 6.44141 3.078122 7.710939 3.77343V.8789C6.44141 1.574216 4.41406 2.210934 3.94922 2.324216Z'/>
+<path d='M3.94922 2.324216C4.41406 2.437497 6.44141 3.078122 7.710939 3.77343V.8789C6.44141 1.574216 4.41406 2.210934 3.94922 2.324216Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M59.00002 2.324216C58.53908 2.210934 56.50783 1.574216 55.238299 .8789V3.77343C56.50783 3.078122 58.53908 2.437497 59.00002 2.324216Z'/>
+<path d='M59.00002 2.324216C58.53908 2.210934 56.50783 1.574216 55.238299 .8789V3.77343C56.50783 3.078122 58.53908 2.437497 59.00002 2.324216Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 81.2196 -46.3659)'>
+<use x='-53.564301' y='59.018913' xlink:href='#g0-82'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 <!--fig:end-->
 
 [Total = 5 marchi]
@@ -1853,7 +1933,7 @@ b) Quando la progenie F$_1$ è stata incrociata è stata ottenuta la seguente pr
 
 <!--fig:start-->
 **Quesito 37**
-![[INJSO2017-Question_p16_f17.png]]
+![[_attachments/injso2017-question/injso2017-question_p16_f17.png]]
 <!--fig:end-->
 
 Answer the following questions related to gamete formation.
@@ -1914,7 +1994,7 @@ Answer the following questions related to gamete formation.
 
 <!--fig:start-->
 **Quesito 37**
-![[INJSO2017-Question_p16_f17.png]]
+![[_attachments/injso2017-question/injso2017-question_p16_f17.png]]
 <!--fig:end-->
 
 Rispondi alle seguenti domande relative alla formazione dei gameti.
@@ -1980,7 +2060,7 @@ If your answer is YES, give the range of corresponding angles of emergence. If y
 
 <!--fig:start-->
 **Quesito 38**
-![[INJSO2017-Question_p18_f18.png]]
+![[_attachments/injso2017-question/injso2017-question_p18_f18.png]]
 <!--fig:end-->
 
 **38.B.** A 7 m long uniform rope of mass 140 g is hanging freely from a ceiling. A transverse pulse is generated at the free end, which travels up to the top. Speed of wave (or pulse) along a string is given by $v = \sqrt{T/\mu}$, where $T$ is tension along the string and $\mu$ is the linear density. Using $g = 10$ m/s$^2$, calculate the speed of the pulse at 5 different distances at every 1 m from free end. Plot variation in the speed against the distance from the bottom. Using your graph determine the speed of the pulse at the midpoint of the string. **[2.0]** [Total = 5 marks]
@@ -1988,7 +2068,7 @@ If your answer is YES, give the range of corresponding angles of emergence. If y
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.18](https://drive.google.com/file/d/1a_9o2uVc4uPDyPykREh76S3gFoQ-0b-Z/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1nY_zcQefvj1aw1jYxNsocuqsA7ATu8g2/view)
 
@@ -2001,7 +2081,7 @@ Se la risposta è SI, indicare la gamma di angoli di emergenza corrispondenti. S
 
 <!--fig:start-->
 **Quesito 38**
-![[INJSO2017-Question_p18_f18.png]]
+![[_attachments/injso2017-question/injso2017-question_p18_f18.png]]
 <!--fig:end-->
 
 **38.B.** Una corda uniforme di 7 m di massa di 140 g è appesa liberamente dal soffitto. Un impulso trasversale viene generato all'estremità libera, che viaggia fino in cima. La velocità di onda (o di impulso) lungo una corda è data da $v = \sqrt{T/\mu}$, dove $T$ è la tensione lungo la corda e $\mu$ è la densità lineare. Usando $g = 10$ m/s$^2$, calcolare la velocità del polso a 5 distanze diverse ad ogni 1 m dall'estremità libera. Variazione della velocità rispetto alla distanza dal basso. Utilizzando il grafico, determina la velocità del polso al centro della corda. **[2.0]** [Total = 5 punti]
@@ -2009,7 +2089,7 @@ Se la risposta è SI, indicare la gamma di angoli di emergenza corrispondenti. S
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.18](https://drive.google.com/file/d/1a_9o2uVc4uPDyPykREh76S3gFoQ-0b-Z/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1nY_zcQefvj1aw1jYxNsocuqsA7ATu8g2/view)
 
@@ -2058,7 +2138,7 @@ Se la risposta è SI, indicare la gamma di angoli di emergenza corrispondenti. S
 
 <!--fig:start-->
 **Quesito 40**
-![[INJSO2017-Question_p19_f19.png]]
+![[_attachments/injso2017-question/injso2017-question_p19_f19.png]]
 <!--fig:end-->
 
 **40.I)** Which of the following statements is TRUE or FALSE for state 1 and state 2? **[0.75]**
@@ -2112,7 +2192,7 @@ The labeled region designated as 'A' in the figure above is/are the epidermal ce
 
 <!--fig:start-->
 **Quesito 40**
-![[INJSO2017-Question_p19_f19.png]]
+![[_attachments/injso2017-question/injso2017-question_p19_f19.png]]
 <!--fig:end-->
 
 **40.I) ** Quali delle seguenti affermazioni sono TRUE o FALSE per lo stato 1 e lo stato 2? **[0.75]**

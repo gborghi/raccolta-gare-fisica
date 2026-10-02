@@ -19,7 +19,7 @@ tags:
 
 A massive rope of mass $m$ and length $L$, as shown in the figure, rests on a horizontal table. If the coefficient of static friction between the table and the rope is $\mu_s$, what fraction of the rope can hang over the edge of the table without the rope sliding?
 
-![[HKPhO_2013_p3_f1.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p3_f1.png]]
 
 - **(A)** $\dfrac{\mu_s}{1+\mu_s}$
 - **(B)** $\dfrac{\mu_s}{1+2\mu_s}$
@@ -31,14 +31,14 @@ A massive rope of mass $m$ and length $L$, as shown in the figure, rests on a ho
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 Una corda massiccia di massa $m$ e lunghezza $L$, come mostrato nella figura, si posa su una tabella orizzontale. Se il coefficiente di attrito statico tra la tavola e la corda è $\mu_s$, quale frazione della corda può appendere sul bordo della tavola senza che la corda scivoli?
 
-![[HKPhO_2013_p3_f1.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p3_f1.png]]
 
 - **(A)** $\dfrac{\mu_s}{1+\mu_s}$
 - **(B)** $\dfrac{\mu_s}{1+2\mu_s}$
@@ -50,7 +50,7 @@ Una corda massiccia di massa $m$ e lunghezza $L$, come mostrato nella figura, si
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 
 
 
@@ -62,7 +62,7 @@ Una corda massiccia di massa $m$ e lunghezza $L$, come mostrato nella figura, si
 
 As shown in the figure, a rigid sphere of mass $m$ and radius $R$ is held at rest by a horizontal string on an inclined plane with an inclination $\theta$. If the sphere does not move, what is the minimum coefficient of static friction $\mu_s$ between the sphere and the incline?
 
-![[HKPhO_2013_p3_f2.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p3_f2.png]]
 
 - **(A)** $\tan\theta$
 - **(B)** $\dfrac{1-\cos\theta}{1+\cos\theta}$
@@ -74,14 +74,14 @@ As shown in the figure, a rigid sphere of mass $m$ and radius $R$ is held at res
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Inclined Plane (object)|Inclined Plane]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Sphere (object)|Sphere]], [[Inclined Plane (object)|Inclined Plane]], [[objects/rope-string-(object)|Rope/String]]
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 Come mostrato nella figura, una sfera rigida di massa $m$ e di raggio $R$ è tenuta in riposo da una corda orizzontale su un piano inclinato con inclination $\theta$. Se la sfera non si muove, qual è il coefficiente minimo di attrito statico $\mu_s$ tra la sfera e l'inclinazione?
 
-![[HKPhO_2013_p3_f2.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p3_f2.png]]
 
 - **(A)** $\tan\theta$
 - **(B)** $\dfrac{1-\cos\theta}{1+\cos\theta}$
@@ -93,7 +93,7 @@ Come mostrato nella figura, una sfera rigida di massa $m$ e di raggio $R$ è ten
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Inclined Plane (object)|Inclined Plane]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Sphere (object)|Sphere]], [[Inclined Plane (object)|Inclined Plane]], [[objects/rope-string-(object)|Rope/String]]
 
 
 
@@ -154,7 +154,7 @@ A stone of mass $M$ is tied to a string. It is whirled in a vertical circle of r
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -171,7 +171,7 @@ Una pietra di massa $M$ è legata a una corda. È rotolante in un cerchio vertic
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 
 
 
@@ -183,7 +183,34 @@ Una pietra di massa $M$ è legata a una corda. È rotolante in un cerchio vertic
 
 A ring with mass $m$ is hung vertically at the lower end of a uniform chain of total mass $m$ and length $L$. Its upper end $A$ is fixed, as shown in figure (a). The lower end $B$ is raised until it is at the same position as $A$, and the ring slides to the midpoint of the string, as shown in figure (b). What is the minimum work required in this process?
 
-![[HKPhO_2013_p4_f5.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='97.600364pt' height='102.925537pt' viewBox='-64.34574 -65.021149 97.600364 102.925537'>
+<defs>
+<path id='g0-65' d='M1.783313-1.145704C1.384807-.478207 .996264-.33873 .557908-.308842C.438356-.298879 .348692-.298879 .348692-.109589C.348692-.049813 .398506 0 .478207 0C.747198 0 1.05604-.029888 1.334994-.029888C1.663761-.029888 2.012453 0 2.331258 0C2.391034 0 2.520548 0 2.520548-.18929C2.520548-.298879 2.430884-.308842 2.361146-.308842C2.132005-.328767 1.892902-.408468 1.892902-.657534C1.892902-.777086 1.952677-.886675 2.032379-1.026152L2.789539-2.30137H5.290162C5.310087-2.092154 5.449564-.737235 5.449564-.637609C5.449564-.33873 4.931507-.308842 4.732254-.308842C4.592777-.308842 4.493151-.308842 4.493151-.109589C4.493151 0 4.612702 0 4.632628 0C5.041096 0 5.469489-.029888 5.877958-.029888C6.127024-.029888 6.75467 0 7.003736 0C7.063512 0 7.183064 0 7.183064-.199253C7.183064-.308842 7.083437-.308842 6.953923-.308842C6.336239-.308842 6.336239-.37858 6.306351-.667497L5.69863-6.894147C5.678705-7.0934 5.678705-7.13325 5.50934-7.13325C5.349938-7.13325 5.310087-7.063512 5.250311-6.963885L1.783313-1.145704ZM2.978829-2.610212L4.941469-5.897883L5.260274-2.610212H2.978829Z'/>
+<path id='g0-66' d='M1.594022-.777086C1.494396-.388543 1.474471-.308842 .687422-.308842C.518057-.308842 .418431-.308842 .418431-.109589C.418431 0 .508095 0 .687422 0H4.244085C5.818182 0 6.993773-1.175592 6.993773-2.15193C6.993773-2.86924 6.41594-3.447073 5.449564-3.556663C6.485679-3.745953 7.531756-4.483188 7.531756-5.429639C7.531756-6.166874 6.874222-6.804483 5.678705-6.804483H2.331258C2.141968-6.804483 2.042341-6.804483 2.042341-6.60523C2.042341-6.495641 2.132005-6.495641 2.321295-6.495641C2.34122-6.495641 2.530511-6.495641 2.699875-6.475716C2.879203-6.455791 2.968867-6.445828 2.968867-6.316314C2.968867-6.276463 2.958904-6.246575 2.929016-6.127024L1.594022-.777086ZM3.098381-3.646326L3.716065-6.117061C3.805729-6.465753 3.825654-6.495641 4.254047-6.495641H5.539228C6.41594-6.495641 6.625156-5.907846 6.625156-5.469489C6.625156-4.592777 5.768369-3.646326 4.552927-3.646326H3.098381ZM2.650062-.308842C2.510585-.308842 2.49066-.308842 2.430884-.318804C2.331258-.328767 2.30137-.33873 2.30137-.418431C2.30137-.448319 2.30137-.468244 2.351183-.647572L3.038605-3.427148H4.921544C5.877958-3.427148 6.067248-2.689913 6.067248-2.261519C6.067248-1.275218 5.180573-.308842 4.004981-.308842H2.650062Z'/>
+</defs>
+<g id='page1'>
+<path d='M-60.957031 36.839842V-48.1992' stroke='#000' fill='none' stroke-width='1.39478'/>
+<g transform='matrix(1 0 0 1 -3.736 -94.7277)'>
+<use x='-60.958433' y='36.839802' xlink:href='#g0-65'/>
+</g>
+<path d='M19.832-48.1992L24.082 31.17187' stroke='#000' fill='none' stroke-width='1.39478' stroke-miterlimit='10'/>
+<path d='M28.332-48.1992L24.082 31.17187' stroke='#000' fill='none' stroke-width='1.39478' stroke-miterlimit='10'/>
+<path d='M27.4844 34.0039C27.4844 32.125 25.9609 30.60156 24.082 30.60156S20.6797 32.125 20.6797 34.0039C20.6797 35.882811 22.2031 37.406248 24.082 37.406248S27.4844 35.882811 27.4844 34.0039Z' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 75.6351 -94.7277)'>
+<use x='-60.958433' y='36.839802' xlink:href='#g0-65'/>
+</g>
+<g transform='matrix(1 0 0 1 86.6813 -94.7277)'>
+<use x='-60.958433' y='36.839802' xlink:href='#g0-66'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 
 - **(A)** $mgL$
 - **(B)** $\dfrac{3}{4}mgL$
@@ -195,14 +222,41 @@ A ring with mass $m$ is hung vertically at the lower end of a uniform chain of t
 **Topic:** [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 Un anello di massa $m$ è appeso verticalmente alla fine inferiore di una catena uniforme di massa totale $m$ e lunghezza $L$. La sua estremità superiore $A$ è fissa, come mostrato alla figura a). La parte inferiore $B$ viene sollevata fino a raggiungere la stessa posizione di $A$ e l'anello si sposta verso il punto medio della corda, come mostrato alla figura b). Qual è il minimo di lavoro richiesto in questo processo?
 
-![[HKPhO_2013_p4_f5.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='97.600364pt' height='102.925537pt' viewBox='-64.34574 -65.021149 97.600364 102.925537'>
+<defs>
+<path id='g0-65' d='M1.783313-1.145704C1.384807-.478207 .996264-.33873 .557908-.308842C.438356-.298879 .348692-.298879 .348692-.109589C.348692-.049813 .398506 0 .478207 0C.747198 0 1.05604-.029888 1.334994-.029888C1.663761-.029888 2.012453 0 2.331258 0C2.391034 0 2.520548 0 2.520548-.18929C2.520548-.298879 2.430884-.308842 2.361146-.308842C2.132005-.328767 1.892902-.408468 1.892902-.657534C1.892902-.777086 1.952677-.886675 2.032379-1.026152L2.789539-2.30137H5.290162C5.310087-2.092154 5.449564-.737235 5.449564-.637609C5.449564-.33873 4.931507-.308842 4.732254-.308842C4.592777-.308842 4.493151-.308842 4.493151-.109589C4.493151 0 4.612702 0 4.632628 0C5.041096 0 5.469489-.029888 5.877958-.029888C6.127024-.029888 6.75467 0 7.003736 0C7.063512 0 7.183064 0 7.183064-.199253C7.183064-.308842 7.083437-.308842 6.953923-.308842C6.336239-.308842 6.336239-.37858 6.306351-.667497L5.69863-6.894147C5.678705-7.0934 5.678705-7.13325 5.50934-7.13325C5.349938-7.13325 5.310087-7.063512 5.250311-6.963885L1.783313-1.145704ZM2.978829-2.610212L4.941469-5.897883L5.260274-2.610212H2.978829Z'/>
+<path id='g0-66' d='M1.594022-.777086C1.494396-.388543 1.474471-.308842 .687422-.308842C.518057-.308842 .418431-.308842 .418431-.109589C.418431 0 .508095 0 .687422 0H4.244085C5.818182 0 6.993773-1.175592 6.993773-2.15193C6.993773-2.86924 6.41594-3.447073 5.449564-3.556663C6.485679-3.745953 7.531756-4.483188 7.531756-5.429639C7.531756-6.166874 6.874222-6.804483 5.678705-6.804483H2.331258C2.141968-6.804483 2.042341-6.804483 2.042341-6.60523C2.042341-6.495641 2.132005-6.495641 2.321295-6.495641C2.34122-6.495641 2.530511-6.495641 2.699875-6.475716C2.879203-6.455791 2.968867-6.445828 2.968867-6.316314C2.968867-6.276463 2.958904-6.246575 2.929016-6.127024L1.594022-.777086ZM3.098381-3.646326L3.716065-6.117061C3.805729-6.465753 3.825654-6.495641 4.254047-6.495641H5.539228C6.41594-6.495641 6.625156-5.907846 6.625156-5.469489C6.625156-4.592777 5.768369-3.646326 4.552927-3.646326H3.098381ZM2.650062-.308842C2.510585-.308842 2.49066-.308842 2.430884-.318804C2.331258-.328767 2.30137-.33873 2.30137-.418431C2.30137-.448319 2.30137-.468244 2.351183-.647572L3.038605-3.427148H4.921544C5.877958-3.427148 6.067248-2.689913 6.067248-2.261519C6.067248-1.275218 5.180573-.308842 4.004981-.308842H2.650062Z'/>
+</defs>
+<g id='page1'>
+<path d='M-60.957031 36.839842V-48.1992' stroke='#000' fill='none' stroke-width='1.39478'/>
+<g transform='matrix(1 0 0 1 -3.736 -94.7277)'>
+<use x='-60.958433' y='36.839802' xlink:href='#g0-65'/>
+</g>
+<path d='M19.832-48.1992L24.082 31.17187' stroke='#000' fill='none' stroke-width='1.39478' stroke-miterlimit='10'/>
+<path d='M28.332-48.1992L24.082 31.17187' stroke='#000' fill='none' stroke-width='1.39478' stroke-miterlimit='10'/>
+<path d='M27.4844 34.0039C27.4844 32.125 25.9609 30.60156 24.082 30.60156S20.6797 32.125 20.6797 34.0039C20.6797 35.882811 22.2031 37.406248 24.082 37.406248S27.4844 35.882811 27.4844 34.0039Z' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 75.6351 -94.7277)'>
+<use x='-60.958433' y='36.839802' xlink:href='#g0-65'/>
+</g>
+<g transform='matrix(1 0 0 1 86.6813 -94.7277)'>
+<use x='-60.958433' y='36.839802' xlink:href='#g0-66'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 
 - **(A)** $mgL$
 - **(B)** $\dfrac{3}{4}mgL$
@@ -214,7 +268,7 @@ Un anello di massa $m$ è appeso verticalmente alla fine inferiore di una catena
 **Topic:** [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 
 
 
@@ -265,7 +319,7 @@ In una sonda spaziale che orbita intorno alla Terra, un astronauta ha una sensaz
 
 In the figure, a mass $m$ is hung by a light spring and a light string at the ceiling. Both the spring and the string make an angle $\theta$ with the horizontal at equilibrium. If the string is suddenly cut, what is the instantaneous acceleration of the mass $m$?
 
-![[HKPhO_2013_p4_f7.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p4_f7.png]]
 
 - **(A)** $2g\sin\theta$
 - **(B)** $g\sin\theta$
@@ -277,14 +331,14 @@ In the figure, a mass $m$ is hung by a light spring and a light string at the ce
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hooke's Law (metodo)|Hooke's Law]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Spring (object)|Spring]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 Nella figura, una massa $m$ è appesa da una sorgente leggera e da una corda leggera al soffitto. Sia la molla che la corda fanno un angolo $\theta$ con l'orizzontale in equilibrio. Se la corda viene tagliata improvvisamente, qual è l'accelerazione istantanea della massa $m$?
 
-![[HKPhO_2013_p4_f7.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p4_f7.png]]
 
 - **(A)** $2g\sin\theta$
 - **(B)** $g\sin\theta$
@@ -296,7 +350,7 @@ Nella figura, una massa $m$ è appesa da una sorgente leggera e da una corda leg
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hooke's Law (metodo)|Hooke's Law]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Spring (object)|Spring]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 
 
 
@@ -308,7 +362,43 @@ Nella figura, una massa $m$ è appesa da una sorgente leggera e da una corda leg
 
 A particle is projected horizontally from the edge of a smooth table with initial speed $v$. The particle hits the ground at a horizontal distance $D$ from the table. Different values of $v$ are used and the corresponding values of $D$ are recorded. Which of the following pair of quantities will give a straight-line curve?
 
-![[HKPhO_2013_p5_f8.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='147.80041pt' height='102.608687pt' viewBox='-68.01566 -64.809464 147.80041 102.608687'>
+<defs>
+<path id='g0-68' d='M1.58406-.777086C1.484433-.388543 1.464508-.308842 .67746-.308842C.508095-.308842 .398506-.308842 .398506-.119552C.398506 0 .488169 0 .67746 0H3.975093C6.047323 0 8.009963-2.102117 8.009963-4.283935C8.009963-5.688667 7.163138-6.804483 5.668742-6.804483H2.321295C2.132005-6.804483 2.022416-6.804483 2.022416-6.615193C2.022416-6.495641 2.11208-6.495641 2.311333-6.495641C2.440847-6.495641 2.620174-6.485679 2.739726-6.475716C2.899128-6.455791 2.958904-6.425903 2.958904-6.316314C2.958904-6.276463 2.948941-6.246575 2.919054-6.127024L1.58406-.777086ZM3.73599-6.117061C3.825654-6.465753 3.845579-6.495641 4.273973-6.495641H5.339975C6.316314-6.495641 7.143213-5.967621 7.143213-4.652553C7.143213-4.164384 6.94396-2.530511 6.097136-1.43462C5.808219-1.066002 5.021171-.308842 3.795766-.308842H2.669988C2.530511-.308842 2.510585-.308842 2.450809-.318804C2.351183-.328767 2.321295-.33873 2.321295-.418431C2.321295-.448319 2.321295-.468244 2.371108-.647572L3.73599-6.117061Z'/>
+<path id='g0-118' d='M4.662516-3.706102C4.662516-4.244085 4.403487-4.403487 4.224159-4.403487C3.975093-4.403487 3.73599-4.144458 3.73599-3.92528C3.73599-3.795766 3.785803-3.73599 3.895392-3.626401C4.104608-3.427148 4.234122-3.16812 4.234122-2.809465C4.234122-2.391034 3.626401-.109589 2.460772-.109589C1.952677-.109589 1.723537-.458281 1.723537-.976339C1.723537-1.534247 1.992528-2.261519 2.30137-3.088418C2.371108-3.257783 2.420922-3.39726 2.420922-3.58655C2.420922-4.034869 2.102117-4.403487 1.603985-4.403487C.667497-4.403487 .288917-2.958904 .288917-2.86924C.288917-2.769614 .388543-2.769614 .408468-2.769614C.508095-2.769614 .518057-2.789539 .56787-2.948941C.856787-3.955168 1.285181-4.184309 1.574097-4.184309C1.653798-4.184309 1.823163-4.184309 1.823163-3.865504C1.823163-3.616438 1.723537-3.347447 1.653798-3.16812C1.215442-2.012453 1.085928-1.554172 1.085928-1.125778C1.085928-.049813 1.96264 .109589 2.420922 .109589C4.094645 .109589 4.662516-3.188045 4.662516-3.706102Z'/>
+</defs>
+<g id='page1'>
+<path d='M-67.81641-39.875H8.7187V16.820312' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M-62.148438 16.820312H8.7187' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M-62.148438 16.820312V-39.875' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M8.7187 16.820312H79.5855' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M-.3516-43.5586C-.3516-45.5938-2-47.2422-4.0352-47.2422C-6.0703-47.2422-7.7188-45.5938-7.7188-43.5586S-6.0703-39.875-4.0352-39.875C-2-39.875-.3516-41.5234-.3516-43.5586Z' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M-33.8008-54.0469H-10.9219' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M-3.44139-54.046878C-4.35935-54.269535-8.39842-55.52344-10.921854-56.89063V-51.20313C-8.39842-52.57032-4.35935-53.824222-3.44139-54.046878Z'/>
+<path d='M-3.44139-54.046878C-4.35935-54.269535-8.39842-55.52344-10.921854-56.89063V-51.20313C-8.39842-52.57032-4.35935-53.824222-3.44139-54.046878Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 41.3443 -77.2264)'>
+<use x='-62.146498' y='16.820423' xlink:href='#g0-118'/>
+</g>
+<path d='M8.7187-39.875C40.1285-37.2539 59.4575-17.7188 66.6955 8.69141' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883 2.98883'/>
+<path d='M68.062538 14.601564C68.070351 13.835938 68.320353 10.41797 68.937544 8.171875L64.437545 9.21875C65.984412 10.960941 67.718793 13.917968 68.062538 14.601564Z'/>
+<path d='M68.062538 14.601564C68.070351 13.835938 68.320353 10.41797 68.937544 8.171875L64.437545 9.21875C65.984412 10.960941 67.718793 13.917968 68.062538 14.601564Z' stroke='#000' fill='none' stroke-width='.398486' stroke-miterlimit='10'/>
+<path d='M15.6094 25.32422H61.3635' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M9.54301 25.324199C10.28519 25.503886 13.56254 26.52342 15.609411 27.6367V23.0156C13.56254 24.12498 10.28519 25.144511 9.54301 25.324199Z'/>
+<path d='M9.54301 25.324199C10.28519 25.503886 13.56254 26.52342 15.609411 27.6367V23.0156C13.56254 24.12498 10.28519 25.144511 9.54301 25.324199Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M67.42574 25.324199C66.68355 25.144511 63.40621 24.12498 61.363239 23.0156V27.6367C63.40621 26.52342 66.68355 25.503886 67.42574 25.324199Z'/>
+<path d='M67.42574 25.324199C66.68355 25.144511 63.40621 24.12498 61.363239 23.0156V27.6367C63.40621 26.52342 66.68355 25.503886 67.42574 25.324199Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 96.3687 20.9788)'>
+<use x='-62.146498' y='16.820423' xlink:href='#g0-68'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 
 - **(A)** $v$ and $D$
 - **(B)** $v^2$ and $D$
@@ -327,7 +417,43 @@ A particle is projected horizontally from the edge of a smooth table with initia
 
 Una particella viene proiettata orizzontalmente dal bordo di una tavola liscia con velocità iniziale $v$. La particella colpisce il terreno a distanza orizzontale $D$ dalla tabella. Si utilizzano valori diversi di $v$ e si registrano i valori corrispondenti di $D$. Quale delle seguenti coppie di quantità darà una curva a linea retta?
 
-![[HKPhO_2013_p5_f8.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='147.80041pt' height='102.608687pt' viewBox='-68.01566 -64.809464 147.80041 102.608687'>
+<defs>
+<path id='g0-68' d='M1.58406-.777086C1.484433-.388543 1.464508-.308842 .67746-.308842C.508095-.308842 .398506-.308842 .398506-.119552C.398506 0 .488169 0 .67746 0H3.975093C6.047323 0 8.009963-2.102117 8.009963-4.283935C8.009963-5.688667 7.163138-6.804483 5.668742-6.804483H2.321295C2.132005-6.804483 2.022416-6.804483 2.022416-6.615193C2.022416-6.495641 2.11208-6.495641 2.311333-6.495641C2.440847-6.495641 2.620174-6.485679 2.739726-6.475716C2.899128-6.455791 2.958904-6.425903 2.958904-6.316314C2.958904-6.276463 2.948941-6.246575 2.919054-6.127024L1.58406-.777086ZM3.73599-6.117061C3.825654-6.465753 3.845579-6.495641 4.273973-6.495641H5.339975C6.316314-6.495641 7.143213-5.967621 7.143213-4.652553C7.143213-4.164384 6.94396-2.530511 6.097136-1.43462C5.808219-1.066002 5.021171-.308842 3.795766-.308842H2.669988C2.530511-.308842 2.510585-.308842 2.450809-.318804C2.351183-.328767 2.321295-.33873 2.321295-.418431C2.321295-.448319 2.321295-.468244 2.371108-.647572L3.73599-6.117061Z'/>
+<path id='g0-118' d='M4.662516-3.706102C4.662516-4.244085 4.403487-4.403487 4.224159-4.403487C3.975093-4.403487 3.73599-4.144458 3.73599-3.92528C3.73599-3.795766 3.785803-3.73599 3.895392-3.626401C4.104608-3.427148 4.234122-3.16812 4.234122-2.809465C4.234122-2.391034 3.626401-.109589 2.460772-.109589C1.952677-.109589 1.723537-.458281 1.723537-.976339C1.723537-1.534247 1.992528-2.261519 2.30137-3.088418C2.371108-3.257783 2.420922-3.39726 2.420922-3.58655C2.420922-4.034869 2.102117-4.403487 1.603985-4.403487C.667497-4.403487 .288917-2.958904 .288917-2.86924C.288917-2.769614 .388543-2.769614 .408468-2.769614C.508095-2.769614 .518057-2.789539 .56787-2.948941C.856787-3.955168 1.285181-4.184309 1.574097-4.184309C1.653798-4.184309 1.823163-4.184309 1.823163-3.865504C1.823163-3.616438 1.723537-3.347447 1.653798-3.16812C1.215442-2.012453 1.085928-1.554172 1.085928-1.125778C1.085928-.049813 1.96264 .109589 2.420922 .109589C4.094645 .109589 4.662516-3.188045 4.662516-3.706102Z'/>
+</defs>
+<g id='page1'>
+<path d='M-67.81641-39.875H8.7187V16.820312' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M-62.148438 16.820312H8.7187' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M-62.148438 16.820312V-39.875' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M8.7187 16.820312H79.5855' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M-.3516-43.5586C-.3516-45.5938-2-47.2422-4.0352-47.2422C-6.0703-47.2422-7.7188-45.5938-7.7188-43.5586S-6.0703-39.875-4.0352-39.875C-2-39.875-.3516-41.5234-.3516-43.5586Z' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M-33.8008-54.0469H-10.9219' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M-3.44139-54.046878C-4.35935-54.269535-8.39842-55.52344-10.921854-56.89063V-51.20313C-8.39842-52.57032-4.35935-53.824222-3.44139-54.046878Z'/>
+<path d='M-3.44139-54.046878C-4.35935-54.269535-8.39842-55.52344-10.921854-56.89063V-51.20313C-8.39842-52.57032-4.35935-53.824222-3.44139-54.046878Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 41.3443 -77.2264)'>
+<use x='-62.146498' y='16.820423' xlink:href='#g0-118'/>
+</g>
+<path d='M8.7187-39.875C40.1285-37.2539 59.4575-17.7188 66.6955 8.69141' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883 2.98883'/>
+<path d='M68.062538 14.601564C68.070351 13.835938 68.320353 10.41797 68.937544 8.171875L64.437545 9.21875C65.984412 10.960941 67.718793 13.917968 68.062538 14.601564Z'/>
+<path d='M68.062538 14.601564C68.070351 13.835938 68.320353 10.41797 68.937544 8.171875L64.437545 9.21875C65.984412 10.960941 67.718793 13.917968 68.062538 14.601564Z' stroke='#000' fill='none' stroke-width='.398486' stroke-miterlimit='10'/>
+<path d='M15.6094 25.32422H61.3635' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M9.54301 25.324199C10.28519 25.503886 13.56254 26.52342 15.609411 27.6367V23.0156C13.56254 24.12498 10.28519 25.144511 9.54301 25.324199Z'/>
+<path d='M9.54301 25.324199C10.28519 25.503886 13.56254 26.52342 15.609411 27.6367V23.0156C13.56254 24.12498 10.28519 25.144511 9.54301 25.324199Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M67.42574 25.324199C66.68355 25.144511 63.40621 24.12498 61.363239 23.0156V27.6367C63.40621 26.52342 66.68355 25.503886 67.42574 25.324199Z'/>
+<path d='M67.42574 25.324199C66.68355 25.144511 63.40621 24.12498 61.363239 23.0156V27.6367C63.40621 26.52342 66.68355 25.503886 67.42574 25.324199Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 96.3687 20.9788)'>
+<use x='-62.146498' y='16.820423' xlink:href='#g0-68'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 
 - **(A) ** $v$ e $D$
 - **(B) ** $v^2$ e $D$
@@ -398,7 +524,7 @@ Quali dei seguenti fatti sono/sono prove dirette a sostegno della prima legge di
 
 Two masses, $m_A$ and $m_B$ ($m_B > m_A$) are put on a smooth horizontal table as shown. The maximum static friction between the two masses is $f$. A gradually increasing horizontal force acts on $m_A$ and the two masses accelerate together. The masses start to slip over each other when the force attains $F_1$ (figure (a)). If initially the force acts on $m_B$ instead, the masses start to slip over each other when the force attains $F_2$ (figure (b)). Compare $F_1$ and $F_2$.
 
-![[HKPhO_2013_p5_f10.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p5_f10.png]]
 
 - **(A)** $F_1 > 2F_2$
 - **(B)** $F_1 > F_2$
@@ -417,7 +543,7 @@ Two masses, $m_A$ and $m_B$ ($m_B > m_A$) are put on a smooth horizontal table a
 
 Due masse, $m_A$ e $m_B$ ($m_B > m_A$) sono messe su una tavola orizzontale liscia come mostrato. La massima attrito statico tra le due masse è $f$. Una forza orizzontale che aumenta gradualmente agisce su $m_A$ e le due masse accelerano insieme. Le masse iniziano a scivolare l'una sull'altra quando la forza raggiunge $F_1$ (figura (a)). Se inizialmente la forza agisce invece su $m_B$, le masse iniziano a scivolare l'una sull'altra quando la forza raggiunge $F_2$ (figura (b)). Confronta $F_1$ e $F_2$.
 
-![[HKPhO_2013_p5_f10.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p5_f10.png]]
 
 - **(A)** $F_1 > 2F_2$
 - **(B)** $F_1 > F_2$
@@ -480,9 +606,9 @@ Il pianeta P si muove in un'orbita circolare attorno a una stella X, mentre in u
 
 A bus is turning around a corner on a horizontal road. The diagram shows the rear view of the bus, which is turning to its right. Which of the following diagrams best shows the force diagram of the bus?
 
-![[HKPhO_2013_p6_f12a.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p6_f12a.png]]
 
-![[HKPhO_2013_p6_f12b.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p6_f12b.png]]
 
 - **(A)** Reaction forces upward at both wheels, weight downward, friction pointing right (toward the centre of the turn).
 - **(B)** Reaction forces upward at both wheels, weight downward, friction pointing right (toward the centre of the turn).
@@ -503,9 +629,9 @@ A bus is turning around a corner on a horizontal road. The diagram shows the rea
 
 Un autobus gira intorno a un angolo su una strada orizzontale. Il diagramma mostra la vista posteriore dell'autobus, che gira a destra. Quale dei seguenti diagrammi mostra meglio il diagramma di forza dell'autobus?
 
-![[HKPhO_2013_p6_f12a.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p6_f12a.png]]
 
-![[HKPhO_2013_p6_f12b.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p6_f12b.png]]
 
 - **(A) ** Le forze di reazione su entrambe le ruote, il peso verso il basso, l'attrito che punta a destra (in direzione del centro della curva).
 - **(B) ** Le forze di reazione su entrambe le ruote, il peso verso il basso, la frizione puntando a destra (verso il centro della curva).
@@ -531,7 +657,7 @@ Un autobus gira intorno a un angolo su una strada orizzontale. Il diagramma most
 
 A cylindrical trough is placed on a horizontal plane. The two edges of the trough are connected with smooth inclined planes $AA'$ and $BB'$ at locations $A$ and $B$ respectively. The trough edges and the inclined planes are tangential at the connections, and $A$, $B$ are located at the same horizontal level, as shown in the figure. A small mass slides freely down the slope $A'A$ from a height of $2h$ above the horizontal level $AB$. It enters the trough at position $A$, reaches $B$ and then slides upward along slope $BB'$ until it reaches a height of $h$ above the horizontal level $AB$. It then slides downwards along slope $B'B$ and enters the trough again. Neglecting air resistance, the small mass
 
-![[HKPhO_2013_p6_f13.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p6_f13.png]]
 
 - **(A)** reaches a height lower than $A$
 - **(B)** just reaches the location $A$
@@ -550,7 +676,7 @@ A cylindrical trough is placed on a horizontal plane. The two edges of the troug
 
 Un fondo cilindrico è posizionato su un piano orizzontale. I due bordi della parte inferiore sono collegati con piani di inclinamento liscio $AA'$ e $BB'$ rispettivamente alle posizioni $A$ e $B$. I bordi inferiori e i piani inclinati sono tangenziali alle connessioni e $A$, $B$ sono situati allo stesso livello orizzontale, come mostrato nella figura. Una piccola massa scorre liberamente lungo la pendenza $A'A$ da un'altezza di $2h$ sopra il livello orizzontale $AB$. Entrerà nella parte inferiore della posizione $A$, raggiungerà $B$ e poi scivolerà verso l'alto lungo la pendenza $BB'$ fino a raggiungere un'altezza di $h$ sopra il livello orizzontale $AB$. Poi scivola verso il basso lungo la pendenza $B'B$ e entra nuovamente nel fondo. Negli esseri umani, la resistenza all'aria, la piccola massa
 
-![[HKPhO_2013_p6_f13.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p6_f13.png]]
 
 - **(A) ** raggiunge un'altezza inferiore a $A$
 - **(B) ** arriva solo alla posizione $A$
@@ -613,7 +739,7 @@ Considerate un satellite di massa $m$ che orbita attorno alla Terra in un'orbita
 
 The velocity vectors of an object performing projectile motion are drawn from time instants $a$ to $e$ at fixed time intervals. Which of the following gives a possible drawing?
 
-![[HKPhO_2013_p7_f15.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p7_f15.png]]
 
 (Options A–E shown in the figure.)
 
@@ -628,7 +754,7 @@ The velocity vectors of an object performing projectile motion are drawn from ti
 
 I vettori di velocità di un oggetto che esegue un movimento proiettile sono tracciati dagli istanti temporali $a$ a $e$ a intervalli di tempo fissi. Quale di queste indica un possibile disegno?
 
-![[HKPhO_2013_p7_f15.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p7_f15.png]]
 
 (Opzioni AE mostrate nella figura).
 
@@ -687,7 +813,7 @@ Si sa che l'accelerazione gravitazionale è $g = GM_E/R_E^2$ ed è diretta verti
 
 A uniform rod floats in water. A ball with weight $W$ is attached to one end of the rod, and the volume of the ball is negligible. This structure causes the rod to float at an inclined position, with the other end remaining above the water surface, as shown in the figure. If the part of the rod above the water surface is $1/n$ of the total length, calculate the weight of the rod.
 
-![[HKPhO_2013_p7_f17.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p7_f17.png]]
 
 - **(A)** $W(n+1)$
 - **(B)** $Wn$
@@ -706,7 +832,7 @@ A uniform rod floats in water. A ball with weight $W$ is attached to one end of 
 
 Una canna uniforme galleggia nell'acqua. Una palla di peso $W$ è attaccata ad una estremità della canna e il volume della palla è trascurabile. Questa struttura fa galleggiare la canna in posizione inclinata, con l'altra estremità che rimane sopra la superficie dell'acqua, come mostrato nella figura. Se la parte della canna sopra la superficie dell'acqua è $1/n$ della lunghezza totale, calcolare il peso della canna.
 
-![[HKPhO_2013_p7_f17.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p7_f17.png]]
 
 - **(A)** $W(n+1)$
 - **(B)** $Wn$
@@ -730,7 +856,7 @@ Una canna uniforme galleggia nell'acqua. Una palla di peso $W$ è attaccata ad u
 
 A block has an initial kinetic energy of $128\ \text{J}$. It slides up from point $A$ at the bottom of the inclined plane with uniform deceleration. When it passes point $B$, its kinetic energy is reduced by $80\ \text{J}$, and its mechanical energy is reduced by $35\ \text{J}$. Calculate the work done against friction when the block moves from $A$ to the highest point $C$ on the inclined plane.
 
-![[HKPhO_2013_p8_f18.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p8_f18.png]]
 
 - **(A)** $42\ \text{J}$
 - **(B)** $48\ \text{J}$
@@ -749,7 +875,7 @@ A block has an initial kinetic energy of $128\ \text{J}$. It slides up from poin
 
 Un blocco ha un'energia cinetica iniziale di $128\ \text{J}$. Scorre verso l'alto dal punto $A$ in fondo al piano inclinato con decelerazione uniforme. Quando passa il punto $B$, la sua energia cinetica è ridotta di $80\ \text{J}$ e la sua energia meccanica di $35\ \text{J}$. Calcolare il lavoro effettuato contro l'attrito quando il blocco si sposta da $A$ al punto più alto $C$ sul piano inclinato.
 
-![[HKPhO_2013_p8_f18.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p8_f18.png]]
 
 - **(A)** $42\ \text{J}$
 - **(B)** $48\ \text{J}$
@@ -812,7 +938,7 @@ Un blocco di massa $m$ è posizionato su una superficie orizzontale liscia e è 
 
 As shown in the figure, a block of mass $m$ is hung from the ceiling by the system of springs consisting of two layers. The upper layer consists of 3 springs in parallel, and the lower layer consists of 2 springs in parallel. The force constants of all springs are $k$. Calculate the frequency of the vertical oscillations of the block.
 
-![[HKPhO_2013_p8_f20.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p8_f20.png]]
 
 - **(A)** $\dfrac{1}{2\pi}\sqrt{\dfrac{k}{5m}}$
 - **(B)** $\dfrac{1}{2\pi}\sqrt{\dfrac{4k}{5m}}$
@@ -831,7 +957,7 @@ As shown in the figure, a block of mass $m$ is hung from the ceiling by the syst
 
 Come illustrato nella figura, un blocco di massa $m$ è appeso al soffitto con il sistema di molla costituito da due strati. Lo strato superiore è composto da 3 sorgenti in parallelo e lo strato inferiore è composto da 2 sorgenti in parallelo. Le costanti di forza di tutte le sorgenti sono $k$. Calcolare la frequenza delle oscillazioni verticali del blocco.
 
-![[HKPhO_2013_p8_f20.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p8_f20.png]]
 
 - **(A)** $\dfrac{1}{2\pi}\sqrt{\dfrac{k}{5m}}$
 - **(B)** $\dfrac{1}{2\pi}\sqrt{\dfrac{4k}{5m}}$
@@ -857,7 +983,7 @@ Come illustrato nella figura, un blocco di massa $m$ è appeso al soffitto con i
 
 In the James Bond movie "The Spy Who Loved Me", James skied down a snowy slope in an attempt to escape from the killer. Unfortunately, the killer had a higher skiing speed than James's; they are $45\ \text{m/s}$ and $40\ \text{m/s}$ respectively. Now consider an alternative version of the movie. James noted that he and the killer carried the same kind of rifle and estimated that their masses $M$ (including body mass, skis, weapon, backpack, etc.) were about the same. Recalling high school physics knowledge, James realised that each time he fired his weapon back at the killer, his momentum would change; whereas when the killer fired, the killer's momentum would also change. Every time James fired a bullet, the killer would fire back accordingly.
 
-![[HKPhO_2013_p9_f1.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p9_f1.png]]
 
 **(a)** How many bullets did James have to fire in order to assure that the killer couldn't catch up with him? Assume that all bullets missed their targets (otherwise this exercise would terminate). Given $M = 100\ \text{kg}$, the mass and the muzzle velocity of a bullet are $m = 0.02\ \text{kg}$ and $v = 500\ \text{m/s}$ respectively.
 
@@ -876,7 +1002,7 @@ James Bond Ski Perseguiato da un assassino
 
 Nel film di James Bond "The Spy Who Loved Me", James sciò su una pendicia nevicata nel tentativo di sfuggire all'assassino. Purtroppo, l'assassino aveva una velocità di sci più alta di quella di James; sono rispettivamente $45\ \text{m/s}$ e $40\ \text{m/s}$. Ora consideriamo una versione alternativa del film. James ha notato che lui e l'assassino portavano lo stesso tipo di fucile e ha stimato che le loro masse $M$ (compresi massa corporea, sci, arma, zaino, ecc.) erano circa le stesse. Ricordando le sue conoscenze di fisica al liceo, James si rese conto che ogni volta che risparmiava l'arma contro l'assassino, il suo impulso cambiava; mentre quando l'assassino sparava, il suo impulso cambiava anche. Ogni volta che James tirava un proiettile, l'assassino rispondeva di conseguenza.
 
-![[HKPhO_2013_p9_f1.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p9_f1.png]]
 
 Quante pallottole James ha dovuto sparare per assicurarsi che l'assassino non potesse raggiungerlo? Supponiamo che tutti i proiettili abbiano perso il bersaglio (in caso contrario questo esercizio sarebbe terminato). Se si dà $M = 100\ \text{kg}$, la massa e la velocità di muffa di un proiettile sono rispettivamente $m = 0.02\ \text{kg}$ e $v = 500\ \text{m/s}$.
 
@@ -904,7 +1030,7 @@ To achieve this, he measured that during the up-slope drive, one of his feet ped
 
 It is given that the air drags during the up-slope and down-slope drives have the same magnitude, and there are no slippings between the wheels and the slope during both the up-slope and down-slope drives. The energy loss due to the relative motion of the bicycle components is negligible.
 
-![[HKPhO_2013_p10_f2.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p10_f2.png]]
 
 **(a)** Derive an expression for the force needed to drive the bicycle up-slope at uniform velocity.
 
@@ -927,7 +1053,7 @@ Per raggiungere questo obiettivo, ha misurato che durante la guida verso l'alto,
 
 Si ritiene che le tracce d'aria durante le tracce di pendenza in su e in giù abbiano la stessa magnitudine e che non ci siano scorci tra le ruote e la pendenza sia durante le tracce di pendenza in su e in giù. La perdita di energia dovuta al movimento relativo dei componenti della bicicletta è trascurabile.
 
-![[HKPhO_2013_p10_f2.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p10_f2.png]]
 
 **(a) ** Derivare un'espressione per la forza necessaria per guidare la bicicletta verso l'alto a velocità uniforme.
 
@@ -951,7 +1077,7 @@ Si ritiene che le tracce d'aria durante le tracce di pendenza in su e in giù ab
 
 Consider two ships on the sea as shown in the figure. Ship A moves with velocity $u$ directed to East. Ship B moves with velocity $2u$ directed to North. At time $t = 0$, ship B crosses the path of ship A at a distance $a$ in front of ship A.
 
-![[HKPhO_2013_p11_f3.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p11_f3.png]]
 
 **(a)** Find the shortest distance between the ships, and the time they reach this position.
 
@@ -970,7 +1096,7 @@ Consider two ships on the sea as shown in the figure. Ship A moves with velocity
 
 Considerate due navi sul mare come mostrato nella figura. La nave A si muove con velocità $u$ diretto verso est. La nave B si muove con velocità $2u$ diretta verso nord. Al momento $t = 0$, la nave B attraversa il percorso della nave A a una distanza $a$ davanti alla nave A.
 
-![[HKPhO_2013_p11_f3.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p11_f3.png]]
 
 **(a) ** Trova la distanza più breve tra le navi e il tempo in cui raggiungono questa posizione.
 
@@ -996,7 +1122,7 @@ According to Newton's second law of motion, $F = m_I a$, where $m_I$ is the iner
 
 In the proposed experiment, several test bodies are enclosed in a vacuum box in a satellite that orbits around the Earth. The box protects the test bodies from outside disturbances and all forces from the satellite acting on the test bodies have been carefully eliminated, so that each test body can be considered as a mini-satellite orbiting around the Earth.
 
-![[HKPhO_2013_p12_f4.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p12_f4.png]]
 
 **(a)** The proposed satellite has a circular orbit with a period of $24$ hours. Calculate its orbital radius $R$. Express your answer in multiples of $R_E$, the radius of Earth.
 
@@ -1019,7 +1145,7 @@ Secondo la seconda legge di Newton, $F = m_I a$, dove $m_I$ è la massa inerzial
 
 Nell'esperimento proposto, diversi corpi di prova sono chiusi in una scatola a vuoto in un satellite che orbita intorno alla Terra. La scatola protegge i corpi di prova da disturbi esterni e tutte le forze del satellite che agiscono sui corpi di prova sono state accuratamente eliminate, in modo che ogni corpo di prova possa essere considerato un mini-satellite in orbita attorno alla Terra.
 
-![[HKPhO_2013_p12_f4.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p12_f4.png]]
 
 Il satellite proposto ha un'orbita circolare con un periodo di $24$ ore. Calcolare il suo raggio orbitale $R$. Esprimete la vostra risposta in moltiplicati di $R_E$, il raggio della Terra.
 
@@ -1045,7 +1171,7 @@ Il satellite proposto ha un'orbita circolare con un periodo di $24$ ore. Calcola
 
 As shown in the left figure, a cylindrical piece of ice floats in water. Its cross-sectional area is $A$ and its height is $h$. The densities of ice and water are $\rho_I$ and $\rho_W$ respectively.
 
-![[HKPhO_2013_p12_f5.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p12_f5.png]]
 
 **(a)** Find $d$, the depth of ice immersed in water.
 
@@ -1057,7 +1183,7 @@ As shown in the left figure, a cylindrical piece of ice floats in water. Its cro
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -1066,7 +1192,7 @@ As shown in the left figure, a cylindrical piece of ice floats in water. Its cro
 
 Come mostra la figura a sinistra, un pezzo di ghiaccio cilindrico galleggia nell'acqua. La sua superficie trasversale è $A$ e la sua altezza è $h$. Le densità di ghiaccio e acqua sono rispettivamente $\rho_I$ e $\rho_W$.
 
-![[HKPhO_2013_p12_f5.png]]
+![[_attachments/hkpho_2013/hkpho_2013_p12_f5.png]]
 
 **(a) ** Trova $d$, la profondità del ghiaccio immerso nell'acqua.
 
@@ -1078,4 +1204,4 @@ Come mostra la figura a sinistra, un pezzo di ghiaccio cilindrico galleggia nell
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]]

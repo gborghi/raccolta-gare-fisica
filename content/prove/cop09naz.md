@@ -81,7 +81,7 @@ con $r$ = raggio della sezione e $a$ = lunghezza del cilindro.
 **Topic:** [[Magnetism]], [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Magnet (object)|Magnet]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Magnet (object)|Magnet]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1btDpMJcBYrR_j10hqAfKrA9W9skJQFue/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1nyb4DQ5K4zhhFL7z9vF4HuePUoKkc8oA/view)
 
@@ -113,7 +113,7 @@ with $r$ = section radius and $a$ = cylinder length.
 **Topic:** [[Magnetism]], [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Magnet (object)|Magnet]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Magnet (object)|Magnet]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1btDpMJcBYrR_j10hqAfKrA9W9skJQFue/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1nyb4DQ5K4zhhFL7z9vF4HuePUoKkc8oA/view)
 

@@ -292,7 +292,7 @@ b. A fuse is composed of a cylindrical wire with length $L$ and radius $r \ll L$
 c. A fuse will break when it reaches its melting point. We know from modern physics that a hot object will radiate energy (approximately) according to the black body law $P = \sigma A T^4$, where $T$ is the temperature in Kelvin, $A$ the surface area, and $\sigma$ is the Stefan-Boltzmann constant. If $T_f = 500$ K is the melting point of the metal for the fuse wire, with resistivity $\rho_f = 120\ \text{n}\Omega \cdot \text{m}$, and $I_f = 5$ A is the desired breaking current, what should be the radius of the wire $r$?
 
 **Topic:** [[Electromagnetic Induction]], [[Electromagnetism]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Ampere's Law (metodo)|Ampere's Law]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
+**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[methods/ampère's-law-(metodo)|Ampere's Law]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Rod (object)|Rod]], [[Wire (object)|Wire]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) - p.7](https://drive.google.com/file/d/1thWNEskxbTg6abQ1G5TfUdawyCCintBp/view)
@@ -320,7 +320,7 @@ b. Un fusibile è composto da un filo cilindrico di lunghezza $L$ e di raggio $r
 c. Un fusibile si romperà quando raggiungerà il punto di fusione. Sappiamo dalla fisica moderna che un oggetto caldo irradia energia (circa) secondo la legge del corpo nero $P = \sigma A T^4$, dove $T$ è la temperatura in Kelvin, $A$ l'area superficiale, e $\sigma$ è la costante di Stefan-Boltzmann. Se $T_f = 500$ K è il punto di fusione del metallo per il filo di fusione, con resistività $\rho_f = 120\ \text{n}\Omega \cdot \text{m}$, e $I_f = 5$ A è la corrente di rottura desiderata, quale dovrebbe essere il raggio del filo $r$?
 
 **Topic:** [[Electromagnetic Induction]], [[Electromagnetism]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Ampere's Law (metodo)|Ampere's Law]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
+**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[methods/ampère's-law-(metodo)|Ampere's Law]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Rod (object)|Rod]], [[Wire (object)|Wire]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) - p.7](https://drive.google.com/file/d/1thWNEskxbTg6abQ1G5TfUdawyCCintBp/view)

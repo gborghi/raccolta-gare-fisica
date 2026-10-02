@@ -122,7 +122,7 @@ Consideriamo una bottiglietta rigida alla temperatura di $300\ \text{K}$, il cui
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1R77cF9qrSKliTk4sHoW7OD5zPAH9H9ix/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1UVtLo-tuBRb0CbEDf1ZlsnHMmQ7wY2hV/view)
 
@@ -138,7 +138,7 @@ Consider a bottle rigid at $300\ \text{K}$, the volume of which is occupied for 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1R77cF9qrSKliTk4sHoW7OD5zPAH9H9ix/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1UVtLo-tuBRb0CbEDf1ZlsnHMmQ7wY2hV/view)
 
@@ -159,7 +159,7 @@ Un secchio cilindrico, con area di base pari ad $A$, è riempito di acqua fino a
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Differential Equations (metodo)|Differential Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1R77cF9qrSKliTk4sHoW7OD5zPAH9H9ix/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1UVtLo-tuBRb0CbEDf1ZlsnHMmQ7wY2hV/view)
 
@@ -175,7 +175,7 @@ A cylindrical bucket with a base area of $A$ shall be filled with water up to an
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Differential Equations (metodo)|Differential Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1R77cF9qrSKliTk4sHoW7OD5zPAH9H9ix/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1UVtLo-tuBRb0CbEDf1ZlsnHMmQ7wY2hV/view)
 

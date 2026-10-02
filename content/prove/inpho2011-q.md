@@ -21,7 +21,7 @@ A long wire of radius '$a$' is carrying a direct current $I$. From its surface a
 
 <!--fig:start-->
 **Quesito 1**
-![[inpho2011-Q_p3_f1.png]]
+![[_attachments/inpho2011-q/inpho2011-q_p3_f1.png]]
 <!--fig:end-->
 
 (a) At $x$ and $y$ the components of the velocity are $v_x$ and $v_y$ respectively. Obtain the components of force $F_x$ and $F_y$ on the electron at any arbitrary point $\{x, y\}$.
@@ -52,7 +52,7 @@ Un filo lungo di raggio $a$ porta una corrente continua $I$. Dalla sua superfici
 
 <!--fig:start-->
 **Quesito 1**
-![[inpho2011-Q_p3_f1.png]]
+![[_attachments/inpho2011-q/inpho2011-q_p3_f1.png]]
 <!--fig:end-->
 
 a) A $x$ e $y$ le componenti della velocità sono rispettivamente $v_x$ e $v_y$. Ottenere le componenti di forza $F_x$ e $F_y$ sull'elettrone in qualsiasi punto arbitrario $\{x, y\}$.
@@ -88,7 +88,7 @@ In a modified Young's double slit experiment the region between screen and slits
 
 <!--fig:start-->
 **Quesito 2**
-![[inpho2011-Q_p6_f1.png]]
+![[_attachments/inpho2011-q/inpho2011-q_p6_f1.png]]
 <!--fig:end-->
 
 (a) Consider the point $P$ on the screen at distance $y$ from $O$ ($S_1O = S_2O$; $OP = y$). Obtain the expression for the optical path difference $\Delta x$ in terms of the refractive indices and the lengths mentioned in the problem.
@@ -126,7 +126,7 @@ In un esperimento modificato di Young, la regione tra schermo e fessura è immer
 
 <!--fig:start-->
 **Quesito 2**
-![[inpho2011-Q_p6_f1.png]]
+![[_attachments/inpho2011-q/inpho2011-q_p6_f1.png]]
 <!--fig:end-->
 
 a) Considerare il punto $P$ sullo schermo a distanza $y$ da $O$ ($S_1O = S_2O$; $OP = y$). Ottenere l'espressione per la differenza di percorso ottico $\Delta x$ in termini di indici di rifrazione e lunghezze menzionate nel problema.
@@ -169,7 +169,7 @@ A Carnot engine cycle is shown in the Fig. (2). The cycle runs between temperatu
 
 <!--fig:start-->
 **Quesito 3**
-![[inpho2011-Q_p9_f1.png]]
+![[_attachments/inpho2011-q/inpho2011-q_p9_f1.png]]
 <!--fig:end-->
 
 (a) List $\{P, V, T\}$ of all the four states.
@@ -207,7 +207,7 @@ Un ciclo del motore Carnot è mostrato nella figura. (2). Il ciclo si svolge tra
 
 <!--fig:start-->
 **Quesito 3**
-![[inpho2011-Q_p9_f1.png]]
+![[_attachments/inpho2011-q/inpho2011-q_p9_f1.png]]
 <!--fig:end-->
 
 a) Elenco $\{P, V, T\}$ di tutti e quattro gli Stati.

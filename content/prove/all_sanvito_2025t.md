@@ -296,7 +296,7 @@ In figura è illustrata una schematizzazione della *fontana di Erone*, dispositi
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1P-zj6ceZswp7OlBy5G70UjjWvjNOZSGu/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AOnhGEpkg8t6PC2D_FsvqkcXd9Q40xHg/view)
 
@@ -318,7 +318,7 @@ The figure illustrates a diagram of the *Fountain of Erone*, a device devised by
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1P-zj6ceZswp7OlBy5G70UjjWvjNOZSGu/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AOnhGEpkg8t6PC2D_FsvqkcXd9Q40xHg/view)
 
@@ -570,7 +570,7 @@ From the nozzle of an artesian well, with a circular aperture of $7.5\ \text{mm}
 Un asteroide di massa $8.2 \times 10^{10}\ \text{kg}$ si avvicina a un pianeta su un'orbita iperbolica con parametro di impatto $b = 2.7 \times 10^7\ \text{m}$, come mostrato in figura. La velocità dell'asteroide nel punto dell'orbita più vicino al pianeta è $22\ \text{km/s}$. Sapendo che la velocità dello stesso a grandissime distanze dal pianeta è $17\ \text{km/s}$, quanto vale la massa del pianeta?
 
 <!--fig:start-->
-![[_attachments/all_sanvito_2025t/all_sanvito_2025t_p6_f1.png]]
+![[prove/_attachments/all_sanvito_2025t/all_sanvito_2025t_p6_f1.png]]
 *Traiettoria iperbolica dell'asteroide attorno al pianeta, con il parametro di impatto $b$ indicato.*
 <!--fig:end-->
 
@@ -591,7 +591,7 @@ The following is the list of the asteroids in orbit:
 An asteroid of mass $8.2 \times 10^{10}\ \text{kg}$ approaches a planet in a hyperbolic orbit with an impact parameter $b = 2.7 \times 10^7\ \text{m}$, as shown in Figure 1. The speed of the asteroid at the point of orbit nearest the planet is $22\ \text{km/s}$. Knowing that the velocity of the same at very large distances from the planet is $17\ \text{km/s}$, what is the mass of the planet worth?
 
 <!--fig:start-->
-![[_attachments/all_sanvito_2025t/all_sanvito_2025t_p6_f1.png]]
+![[prove/_attachments/all_sanvito_2025t/all_sanvito_2025t_p6_f1.png]]
 *Hyperbolic trajectory of the asteroid around the planet, with the impact parameter $b$ indicated.*
 <!--fig:end-->
 

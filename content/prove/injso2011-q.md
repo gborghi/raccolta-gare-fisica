@@ -21,7 +21,7 @@ A potential difference vs distance graph is given. Choose the correct option for
 
 <!--fig:start-->
 **Quesito 1**
-![[injso2011-Q_p1_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p1_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Electrostatics]]
@@ -39,7 +39,7 @@ Si dà una differenza potenziale vs grafico di distanza. Scegli l'opzione corret
 
 <!--fig:start-->
 **Quesito 1**
-![[injso2011-Q_p1_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p1_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Electrostatics]]
@@ -97,7 +97,7 @@ The figure below gives the level of ovarian and gonadotropic hormone in a blood 
 
 <!--fig:start-->
 **Quesito 3**
-![[injso2011-Q_p2_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p2_f1.png]]
 <!--fig:end-->
 
 - (a) Menstrual phase
@@ -118,7 +118,7 @@ La figura seguente indica il livello di ormoni ovarici e gonadotropici in un cam
 
 <!--fig:start-->
 **Quesito 3**
-![[injso2011-Q_p2_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p2_f1.png]]
 <!--fig:end-->
 
 - a) Fase mestruale
@@ -218,7 +218,7 @@ A ball is dropped from a height $h$ on a floor and suffers multiple perfectly el
 
 <!--fig:start-->
 **Quesito 6**
-![[injso2011-Q_p3_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p3_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
@@ -234,7 +234,7 @@ Una palla viene abbassata da un'altezza $h$ su un pavimento e subisce più rimba
 
 <!--fig:start-->
 **Quesito 6**
-![[injso2011-Q_p3_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p3_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
@@ -372,7 +372,7 @@ In a housing society, a water pump of efficiency 80% is used to lift water upto 
 **Topic:** [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1_g_vgFbBhK_uZPWQax-GZdu3Qyooef75/view)
 
 
@@ -388,7 +388,7 @@ In una società abitativa, una pompa d'acqua di efficienza dell'80% viene utiliz
 **Topic:** [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1_g_vgFbBhK_uZPWQax-GZdu3Qyooef75/view)
 
 
@@ -674,7 +674,7 @@ A vehicle is moving on a road. Ink drops are falling, one at a time, on the road
 
 <!--fig:start-->
 **Quesito 18**
-![[injso2011-Q_p6_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p6_f1.png]]
 <!--fig:end-->
 
 - (a) from left to right with increasing speed
@@ -695,7 +695,7 @@ Un veicolo si muove su una strada. Le gocce di inchiostro cadono, una alla volta
 
 <!--fig:start-->
 **Quesito 18**
-![[injso2011-Q_p6_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p6_f1.png]]
 <!--fig:end-->
 
 - a) da sinistra a destra con velocità crescente
@@ -906,7 +906,7 @@ In the following cross, the character indicated by males (darkened squares) and 
 
 <!--fig:start-->
 **Quesito 24**
-![[injso2011-Q_p7_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p7_f1.png]]
 <!--fig:end-->
 
 - (a) X-linked dominant
@@ -927,7 +927,7 @@ Nella croce seguente, il carattere indicato dai maschi (quadrati scuri) e dalle 
 
 <!--fig:start-->
 **Quesito 24**
-![[injso2011-Q_p7_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p7_f1.png]]
 <!--fig:end-->
 
 - a) L'esistenza di un'esistenza dominante con collegamento X
@@ -1101,7 +1101,7 @@ Calculate equivalent resistance between points A and B in the following circuit.
 
 <!--fig:start-->
 **Quesito 29**
-![[injso2011-Q_p8_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p8_f1.png]]
 <!--fig:end-->
 
 - (a) $6\,\Omega$
@@ -1122,7 +1122,7 @@ Calcolare la resistenza equivalente tra i punti A e B nel circuito seguente. [1]
 
 <!--fig:start-->
 **Quesito 29**
-![[injso2011-Q_p8_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p8_f1.png]]
 <!--fig:end-->
 
 - (a) $6\,\Omega$
@@ -1185,7 +1185,7 @@ Each of the following four visuals represent food chains. The lowermost dot in e
 
 <!--fig:start-->
 **Quesito 31**
-![[injso2011-Q_p8_f2.png]]
+![[_attachments/injso2011-q/injso2011-q_p8_f2.png]]
 <!--fig:end-->
 
 - (a) A
@@ -1206,7 +1206,7 @@ Ciascuno dei seguenti quattro immagini rappresenta le catene alimentari. Il punt
 
 <!--fig:start-->
 **Quesito 31**
-![[injso2011-Q_p8_f2.png]]
+![[_attachments/injso2011-q/injso2011-q_p8_f2.png]]
 <!--fig:end-->
 
 - (a) A
@@ -1306,7 +1306,7 @@ Velocity time graph of four athletes for a given interval of time are as given b
 
 <!--fig:start-->
 **Quesito 34**
-![[injso2011-Q_p9_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p9_f1.png]]
 <!--fig:end-->
 
 - (a) A
@@ -1327,7 +1327,7 @@ Il grafico temporale di velocità di quattro atleti per un determinato intervall
 
 <!--fig:start-->
 **Quesito 34**
-![[injso2011-Q_p9_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p9_f1.png]]
 <!--fig:end-->
 
 - (a) A
@@ -1390,7 +1390,7 @@ The diagram below represents the 'Central Dogma' of molecular biology. Choose th
 
 <!--fig:start-->
 **Quesito 36**
-![[injso2011-Q_p10_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p10_f1.png]]
 <!--fig:end-->
 
 - (a) A = Protein, B = RNA, C = DNA, D = Translation, E = Transcription
@@ -1411,7 +1411,7 @@ Il diagramma di seguito rappresenta il "Dogma centrale" della biologia molecolar
 
 <!--fig:start-->
 **Quesito 36**
-![[injso2011-Q_p10_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p10_f1.png]]
 <!--fig:end-->
 
 - (a) A = proteine, B = RNA, C = DNA, D = traduzione, E = trascrizione
@@ -1681,7 +1681,7 @@ You are given two identical steel pieces A and B and only one of those is magnet
 
 <!--fig:start-->
 **Quesito 43**
-![[injso2011-Q_p11_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p11_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Magnetism]]
@@ -1697,7 +1697,7 @@ Vi vengono dati due pezzi di acciaio identici A e B e solo uno di questi è magn
 
 <!--fig:start-->
 **Quesito 43**
-![[injso2011-Q_p11_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p11_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Magnetism]]
@@ -1970,7 +1970,7 @@ i) $h_2 - h_3$  ii) $h_1 - h_2$  iii) $A_2/A_1$
 
 <!--fig:start-->
 **Quesito 50**
-![[injso2011-Q_p13_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p13_f1.png]]
 <!--fig:end-->
 
 Which of the above options are correct? [1]
@@ -1983,7 +1983,7 @@ Which of the above options are correct? [1]
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1_g_vgFbBhK_uZPWQax-GZdu3Qyooef75/view)
 
 
@@ -1995,7 +1995,7 @@ i) $h_2 - h_3$ ii) $h_1 - h_2$ iii) $A_2/A_1$
 
 <!--fig:start-->
 **Quesito 50**
-![[injso2011-Q_p13_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p13_f1.png]]
 <!--fig:end-->
 
 Quali delle opzioni sopra indicate sono corrette? [1]
@@ -2008,7 +2008,7 @@ Quali delle opzioni sopra indicate sono corrette? [1]
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1_g_vgFbBhK_uZPWQax-GZdu3Qyooef75/view)
 
 
@@ -2261,7 +2261,7 @@ A reel rests on a friction less surface. Two forces each of magnitude F are appl
 
 <!--fig:start-->
 **Quesito 57**
-![[injso2011-Q_p15_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p15_f1.png]]
 <!--fig:end-->
 
 - (a) i, ii, iii, v, vii
@@ -2284,7 +2284,7 @@ Un rulli si basa su una superficie meno attritiva. Due forze di magnitudo F sono
 
 <!--fig:start-->
 **Quesito 57**
-![[injso2011-Q_p15_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p15_f1.png]]
 <!--fig:end-->
 
 - a) i, ii, iii, v, vii
@@ -2347,7 +2347,7 @@ In the figure given below what is the value of R between points A and B? [1]
 
 <!--fig:start-->
 **Quesito 59**
-![[injso2011-Q_p16_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p16_f1.png]]
 <!--fig:end-->
 
 - (a) $\dfrac{2R}{3}$
@@ -2368,7 +2368,7 @@ Nella figura seguente quale è il valore di R tra i punti A e B? [1]
 
 <!--fig:start-->
 **Quesito 59**
-![[injso2011-Q_p16_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p16_f1.png]]
 <!--fig:end-->
 
 - (a) $\dfrac{2R}{3}$
@@ -2450,7 +2450,7 @@ Using the above description, answer the following questions.
 
 <!--fig:start-->
 **Quesito 61**
-![[injso2011-Q_p17_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p17_f1.png]]
 <!--fig:end-->
 
 A) Which cell has the higher water potential? (1 Mark)
@@ -2492,7 +2492,7 @@ d) Tutte le soluzioni hanno potenziali idrici inferiori a quelli dell'acqua pura
 
 <!--fig:start-->
 **Quesito 61**
-![[injso2011-Q_p17_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p17_f1.png]]
 <!--fig:end-->
 
 A) Quale cellula ha il potenziale idrico più elevato? (1 Marco)
@@ -2683,7 +2683,7 @@ a) A titration was carried out to determine the concentration of $25.0 \text{ cm
 
 <!--fig:start-->
 **Quesito 67**
-![[injso2011-Q_p19_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p19_f1.png]]
 <!--fig:end-->
 
 (i) Use the graph to determine the volume of 0.100 mol $\text{dm}^{-3}$ aqueous sodium hydroxide needed to exactly neutralize the nitric acid.
@@ -2705,7 +2705,7 @@ a) È stata effettuata una titolazione per determinare la concentrazione di $25.
 
 <!--fig:start-->
 **Quesito 67**
-![[injso2011-Q_p19_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p19_f1.png]]
 <!--fig:end-->
 
 (i) Utilizzare il grafico per determinare il volume di idrossido di sodio acquoso di 0,100 mol $\text{dm}^{-3}$ necessario per neutralizzare esattamente l'acido nitrico.
@@ -2732,7 +2732,7 @@ The graph shows the activity of three enzymes A,B and C at different pH values. 
 
 <!--fig:start-->
 **Quesito 68**
-![[injso2011-Q_p20_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p20_f1.png]]
 <!--fig:end-->
 
 1. What is the optimum pH for the activity of enzyme B?
@@ -2772,7 +2772,7 @@ Il grafico mostra l'attività di tre enzimi A, B e C a valori di pH diversi. Stu
 
 <!--fig:start-->
 **Quesito 68**
-![[injso2011-Q_p20_f1.png]]
+![[_attachments/injso2011-q/injso2011-q_p20_f1.png]]
 <!--fig:end-->
 
 1. Qual è il pH ottimale per l' attività dell' enzima B?

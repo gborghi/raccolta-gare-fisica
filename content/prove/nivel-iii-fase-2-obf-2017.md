@@ -90,7 +90,7 @@ repouso e a massa $m_2$ atinja o outro extremo do tubo.
 **Topic:** [[Conservation of Energy]], [[Conservation of Momentum]], [[Newtonian Mechanics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1x6B8LO7mg8iCzmzMGfwvnTumRippAV4D/view)
 
 
@@ -109,7 +109,7 @@ il resto e la massa $m_2$ raggiunge l'altra estremità del tubo.
 **Topic:** [[Conservation of Energy]], [[Conservation of Momentum]], [[Newtonian Mechanics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1x6B8LO7mg8iCzmzMGfwvnTumRippAV4D/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -127,7 +127,7 @@ rest and mass $m_2$ reaches the other end of the tube.
 **Topic:** [[Conservation of Energy]], [[Conservation of Momentum]], [[Newtonian Mechanics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1x6B8LO7mg8iCzmzMGfwvnTumRippAV4D/view)
 
 

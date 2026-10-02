@@ -493,7 +493,7 @@ experimento.
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Wheel (object)|Wheel]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Wheel (object)|Wheel]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/12-kt96hFZFVffo2PCl63oIz0w-0TUClo/view)
 
 
@@ -635,7 +635,7 @@ l'esperimento.
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Wheel (object)|Wheel]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Wheel (object)|Wheel]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/12-kt96hFZFVffo2PCl63oIz0w-0TUClo/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -776,5 +776,5 @@ I'm going to try it.
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Wheel (object)|Wheel]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Wheel (object)|Wheel]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/12-kt96hFZFVffo2PCl63oIz0w-0TUClo/view)

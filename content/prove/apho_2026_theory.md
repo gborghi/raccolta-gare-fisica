@@ -25,7 +25,7 @@ We assume that small friction at the pivots allows the balance to eventually com
 
 ### A. Sensitivity of the Beam Balance (2.5 pts)
 
-![[APhO_2026_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2026_theory/apho_2026_theory_q1_p1_f1.png]]
 *Fig.1*
 
 A beam balance consists of a beam (lever arm) that rotates about a fixed axis (pivot or fulcrum) and two pans of equal mass suspended from each side of the beam. If the masses placed on the pans differ, the beam tilts toward the heavier side to reach equilibrium.
@@ -45,7 +45,7 @@ The beam is assumed to be a flat sheet with negligible thickness. Let $O$ be the
 
 When $m_1 > m_2$, the beam tilts counter-clockwise by an angle $\theta_0$ to reach equilibrium.
 
-![[APhO_2026_theory_Q1_p2_f1.png]]
+![[prove/_attachments/apho_2026_theory/apho_2026_theory_q1_p2_f1.png]]
 *Fig. 2.*
 
 **A.1** *(0.3 pt)* When the beam is tilted by an angle $\theta$ counter-clockwise from the horizontal, find the magnitude of the torque about $O$ exerted by the left pan and its load, taking the counter-clockwise direction as positive.
@@ -63,7 +63,7 @@ When $m_1 > m_2$, the beam tilts counter-clockwise by an angle $\theta_0$ to rea
 
 The beam of a commercially available beam balance is often made so that the rotation axis (pivot point $O$) is higher than the center of mass (CM) of the beam. However, making the beam this way reduces the sensitivity of the beam balance. To solve this problem and design a more sensitive scale, we intend to change the structure of the beam. As a candidate, the beam is designed by modifying it so that the pivot point ($O$) of the beam is below the center of mass (CM) of the beam as shown in Fig.3. Let the pivot point of the beam positioned at a distance $d$ underneath the center of mass. The beam is assumed to be a flat sheet with negligible thickness. The meanings of $M$, $L$, $R$, $b$, $l$, $m_1$, $m_2$, $g$ for the scale are the same as in the previous problem.
 
-![[APhO_2026_theory_Q1_p3_f1.png]]
+![[prove/_attachments/apho_2026_theory/apho_2026_theory_q1_p3_f1.png]]
 *Fig.3*
 
 **A.5** *(0.8 pt)* When the beam tilts by an angle $\theta_1 (< \pi/2)$ from the horizontal to reach equilibrium, express the tilt angle $\theta_1$ in terms of the given variables and parameters.
@@ -72,7 +72,7 @@ The beam of a commercially available beam balance is often made so that the rota
 
 ### B. Basic Model of Roberval Balance (3.6 pts)
 
-![[APhO_2026_theory_Q1_p3_f2.png]]
+![[prove/_attachments/apho_2026_theory/apho_2026_theory_q1_p3_f2.png]]
 *Fig.4*
 
 The Roberval balance uses a parallel-linkage structure, where the pans are connected to two horizontal beams (upper and lower). These two beams are joined to the pans by pivots, which act like hinges. This special connection allows each pan of two pivots to stay perfectly vertical even when the beams tilt (Fig.4). As the beams rotate, the pans move together in a synchronized way. A unique feature of this design is that the balance depends only on the total mass on each side; it does not matter where you place the weights on the pans. The physical parameters, variables and notations that may be related to the beam balance is as follows (Fig.5).
@@ -88,7 +88,7 @@ The Roberval balance uses a parallel-linkage structure, where the pans are conne
 
 Assume that the center of mass (CM) of each beam coincides with its pivot and that pivots of pans and pivot of the beam lays on one line.
 
-![[APhO_2026_theory_Q1_p4_f1.png]]
+![[prove/_attachments/apho_2026_theory/apho_2026_theory_q1_p4_f1.png]]
 *Fig.5*
 
 **B.1** *(0.3 pt)* Calculate the total potential energy of the system $U(\theta)$, when the beam is tilted counter-clockwise by an angle $\theta$ from the horizontal ($m_L \ge m_R$). Define the potential energy $U$ to be zero at the initial horizontal position.
@@ -149,7 +149,7 @@ Supponiamo che un piccolo attrito nei perni permetta alla bilancia di fermarsi, 
 
 ### A. Sensibilità della bilancia a bracci uguali (2,5 pt)
 
-![[APhO_2026_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2026_theory/apho_2026_theory_q1_p1_f1.png]]
 *Fig.1*
 
 Una bilancia a bracci uguali è formata da un giogo (braccio di leva) che ruota attorno a un asse fisso (perno o fulcro) e da due piatti di uguale massa appesi ai due lati del giogo. Se le masse poste sui piatti sono diverse, il giogo si inclina verso il lato più pesante fino a raggiungere l'equilibrio.
@@ -169,7 +169,7 @@ Il giogo è considerato una lamina piana di spessore trascurabile. Sia $O$ il pu
 
 Quando $m_1 > m_2$, il giogo ruota in senso antiorario di un angolo $\theta_0$ fino a raggiungere l'equilibrio.
 
-![[APhO_2026_theory_Q1_p2_f1.png]]
+![[prove/_attachments/apho_2026_theory/apho_2026_theory_q1_p2_f1.png]]
 *Fig. 2.*
 
 **A.1** *(0,3 pt)* Quando il giogo è inclinato di un angolo $\theta$ in senso antiorario rispetto all'orizzontale, trova il modulo del momento rispetto a $O$ esercitato dal piatto sinistro con il suo carico, prendendo come positivo il verso antiorario.
@@ -187,7 +187,7 @@ Quando $m_1 > m_2$, il giogo ruota in senso antiorario di un angolo $\theta_0$ f
 
 Nelle bilance in commercio il giogo è spesso costruito in modo che l'asse di rotazione (perno $O$) stia più in alto del centro di massa (CM) del giogo. Questa scelta però riduce la sensibilità della bilancia. Per risolvere il problema e progettare una bilancia più sensibile, vogliamo cambiare la struttura del giogo. Come possibile soluzione, il giogo viene modificato in modo che il perno ($O$) stia sotto il centro di massa (CM) del giogo, come in Fig.3. Il perno si trova a una distanza $d$ sotto il centro di massa. Il giogo è considerato una lamina piana di spessore trascurabile. I simboli $M$, $L$, $R$, $b$, $l$, $m_1$, $m_2$, $g$ hanno lo stesso significato di prima.
 
-![[APhO_2026_theory_Q1_p3_f1.png]]
+![[prove/_attachments/apho_2026_theory/apho_2026_theory_q1_p3_f1.png]]
 *Fig.3*
 
 **A.5** *(0,8 pt)* Quando il giogo raggiunge l'equilibrio inclinato di un angolo $\theta_1 (< \pi/2)$ rispetto all'orizzontale, esprimi l'angolo $\theta_1$ in funzione delle variabili e dei parametri dati.
@@ -196,7 +196,7 @@ Nelle bilance in commercio il giogo è spesso costruito in modo che l'asse di ro
 
 ### B. Modello elementare della bilancia di Roberval (3,6 pt)
 
-![[APhO_2026_theory_Q1_p3_f2.png]]
+![[prove/_attachments/apho_2026_theory/apho_2026_theory_q1_p3_f2.png]]
 *Fig.4*
 
 La bilancia di Roberval usa un quadrilatero articolato (parallelogramma): i piatti sono collegati a due gioghi orizzontali (superiore e inferiore). I due gioghi sono collegati ai piatti tramite perni, che funzionano come cerniere. Questo collegamento fa sì che ciascun piatto, con i suoi due perni, resti perfettamente verticale anche quando i gioghi si inclinano (Fig.4). Mentre i gioghi ruotano, i piatti si muovono insieme in modo sincronizzato. Una caratteristica tipica di questo dispositivo è che l'equilibrio dipende solo dalla massa totale su ciascun lato: non importa in quale punto dei piatti si mettano i pesi. I parametri, le variabili e le notazioni utili sono i seguenti (Fig.5).
@@ -212,7 +212,7 @@ La bilancia di Roberval usa un quadrilatero articolato (parallelogramma): i piat
 
 Supponiamo che il centro di massa (CM) di ogni giogo coincida con il suo perno e che i perni dei piatti e il perno del giogo stiano su una stessa retta.
 
-![[APhO_2026_theory_Q1_p4_f1.png]]
+![[prove/_attachments/apho_2026_theory/apho_2026_theory_q1_p4_f1.png]]
 *Fig.5*
 
 **B.1** *(0,3 pt)* Calcola l'energia potenziale totale del sistema $U(\theta)$ quando il giogo è inclinato in senso antiorario di un angolo $\theta$ rispetto all'orizzontale ($m_L \ge m_R$). Poni $U = 0$ nella posizione orizzontale iniziale.
@@ -559,7 +559,7 @@ $$\vec{\tau} = \frac{d\vec{S}}{dt} = \gamma \vec{S} \times \vec{B}$$
 
 According to this equation, when $\vec{B}$ is constant the angular momentum $\vec{S}$ precesses around the direction of the magnetic field $\vec{B}$. This phenomenon is known as Larmor precession, and the frequency of the precession is given by $\gamma|\vec{B}|$ and in particular it is independent of the angle between $\vec{S}$ and $\vec{B}$.
 
-![[APhO_2026_theory_Q3_p2_f1.png]]
+![[prove/_attachments/apho_2026_theory/apho_2026_theory_q3_p2_f1.png]]
 
 **Irradiation of circularly polarized light**
 
@@ -658,7 +658,7 @@ $$\vec{\tau} = \frac{d\vec{S}}{dt} = \gamma \vec{S} \times \vec{B}$$
 
 Secondo questa equazione, quando $\vec{B}$ è costante, il momento angolare $\vec{S}$ compie un moto di precessione attorno alla direzione del campo magnetico $\vec{B}$. Questo fenomeno è conosciuto come la precessione di Larmor, e la frequenza della precessione è data da $\gamma|\vec{B}|$ e in particolare è indipendente dall'angolo tra $\vec{S}$ e $\vec{B}$.
 
-![[APhO_2026_theory_Q3_p2_f1.png]]
+![[prove/_attachments/apho_2026_theory/apho_2026_theory_q3_p2_f1.png]]
 
 **Irraggiamento con luce polarizzata circolarmente**
 

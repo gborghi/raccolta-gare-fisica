@@ -19,7 +19,7 @@ tags:
 
 **Fastest Path.** A small toy car rolls down three ramps with the same height and horizontal length, but different shapes, starting from rest. The car stays in contact with the ramp at all times and no energy is lost. Order the ramps from the fastest to slowest time it takes for the toy car to drop the full $1\,\text{m}$. For example, if ramp 1 is the fastest and ramp 3 is the slowest, then enter `123` as your answer choice.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p4_f1.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p4_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
@@ -32,7 +32,7 @@ tags:
 
 Un piccolo autovettore da giocattoli scende su tre rampe con la stessa altezza e lunghezza orizzontali, ma con forme diverse, partendo dal riposo. L'auto rimane in contatto con la rampa in ogni momento e non si perde energia. Ordina le rampe dal più veloce al più lento tempo necessario per far cadere il pieno $1\,\text{m}$. Ad esempio, se la rampa 1 è la più veloce e la rampa 3 la più lenta, inserisci `123` come scelta della risposta.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p4_f1.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p4_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
@@ -77,7 +77,7 @@ Un piccolo autovettore da giocattoli scende su tre rampe con la stessa altezza e
 
 **Derby Race.** In a typical derby race, cars start at the top of a ramp, accelerate downwards, and race on a flat track, and are always set-up in the configuration shown below.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p4_f3.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p4_f3.png]]
 
 A common technique is to change the location of the center of mass of the car to gain an advantage. Alice ensures the center of mass of her car is at the rear and Bob puts the center of mass of his car at the very front. Otherwise, their cars are exactly the same. Each car's time is defined as the time from when the car is placed on the top of the ramp to when the front of the car reaches the end of the flat track. At the competition, Alice's car beat Bob's. What is the ratio of Bob's car's time and Alice's car's time?
 
@@ -94,7 +94,7 @@ Assume that the wheels are small and light compared to the car body, neglect air
 
 In una gara tipica, le auto partono in cima alla rampa, accelerano verso il basso e corrono su una pista piatta, e sono sempre montate nella configurazione mostrata di seguito.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p4_f3.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p4_f3.png]]
 
 Una tecnica comune è quella di cambiare la posizione del centro di massa dell'auto per ottenere un vantaggio. Alice si assicura che il centro di massa della sua auto sia nella parte posteriore e Bob mette il centro di massa della sua auto proprio nella parte anteriore. Altrimenti, le loro auto sono esattamente le stesse. Il tempo di ciascuna auto è definito come il tempo che passa dal momento in cui la vettura è posta sulla cima della rampa fino al momento in cui la parte anteriore della vettura raggiunge la fine della pista piatta. Alla gara, la macchina di Alice ha battuto quella di Bob. Qual è il rapporto tra il tempo della macchina di Bob e quello di Alice?
 
@@ -116,7 +116,7 @@ Supponiamo che le ruote siano piccole e leggere rispetto al corpo della macchina
 
 **Crane.** A simple crane is shown in the below diagram, consisting of light rods with length $1\,\text{m}$ and $\sqrt{2}\,\text{m}$. The end of the crane is supporting a $5\,\text{kN}$ object. Point $B$ is known as a "pin." It is attached to the main body and can exert both a vertical and horizontal force. Point $A$ is known as a "roller" and can only exert vertical forces. Rods can only be in pure compression or pure tension.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p5_f4.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p5_f4.png]]
 
 In kN, what is the force experienced by the rod $CD$? Express a positive number if the member is in tension and a negative number if it is in compression.
 
@@ -131,7 +131,7 @@ In kN, what is the force experienced by the rod $CD$? Express a positive number 
 
 **Gran.** Nel diagramma di seguito è mostrata una semplice gru, costituita da barre di luce con lunghezza $1\,\text{m}$ e $\sqrt{2}\,\text{m}$. L'estremità della gru supporta un oggetto $5\,\text{kN}$. Il punto $B$ è noto come "pin". È attaccato al corpo principale e può esercitare sia una forza verticale che orizzontale. Il punto $A$ è noto come "roller" e può esercitare solo forze verticali. I bastoni possono essere solo in pura compressione o pura tensione.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p5_f4.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p5_f4.png]]
 
 In kN, qual è la forza sperimentata dalla canna $CD$? Esprimere un numero positivo se il membro è in tensione e un numero negativo se è in compressione.
 
@@ -178,7 +178,7 @@ In kN, qual è la forza sperimentata dalla canna $CD$? Esprimere un numero posit
 
 **Magnetic Block.** A small block of mass $m$ and charge $Q$ is placed at rest on an inclined plane with a slope $\alpha = 40^\circ$. The coefficient of friction between them is $\mu = 0.3$. A homogeneous magnetic field of magnitude $B_0$ is applied perpendicular to the slope. The speed of the block after a very long time is given by $v = \beta\,\dfrac{mg}{QB_0}$. Determine $\beta$. Do not neglect the effects of gravity.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p6_f6.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p6_f6.png]]
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Electromagnetism]], [[Newtonian Mechanics]]
@@ -191,7 +191,7 @@ In kN, qual è la forza sperimentata dalla canna $CD$? Esprimere un numero posit
 
 **Blocco magnetico.** Un piccolo blocco di massa $m$ e carica $Q$ è posto a riposo su un piano inclinato con pendenza $\alpha = 40^\circ$. Il coefficiente di attrito tra loro è $\mu = 0.3$. Si applica un campo magnetico omogeneo di magnitudo $B_0$ perpendicolare alla pendenza. La velocità del blocco dopo un lungo periodo di tempo è data da $v = \beta\,\dfrac{mg}{QB_0}$. Determina $\beta$. Non trascurare gli effetti della gravità.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p6_f6.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p6_f6.png]]
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Electromagnetism]], [[Newtonian Mechanics]]
@@ -246,7 +246,7 @@ Calcolare $T(20) + T(500) + T(2021)$ in gradi Celsius.
 
 Now suppose there is a constant wind blowing in a direction parallel to the ground such that the force acting on each water molecule is proportional to their weight. The wetted region forms the shape below where the fountain is placed at $(0,0)$. Determine the exit speed of water $v$ in meters per second. Round to two significant digits. All dimensions are in meters.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p8_f8.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p8_f8.png]]
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Newtonian Mechanics]]
@@ -261,7 +261,7 @@ Una fontana sprinkler ha la forma di una semisfera che spezza acqua da tutti gli
 
 Supponiamo che ci sia un vento costante che soffia in direzione parallela al suolo in modo tale che la forza che agisce su ogni molecola d'acqua sia proporzionale al loro peso. La regione umida forma la forma di sotto, dove la fontana è collocata a $(0,0)$. Determinare la velocità di uscita dell'acqua $v$ in metri al secondo. Rondo a due cifre significative. Tutte le dimensioni sono in metri.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p8_f8.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p8_f8.png]]
 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Newtonian Mechanics]]
@@ -287,7 +287,7 @@ where $\alpha$, $\beta$, $\gamma$, and $\delta$ are all dimensionless constants.
 **Topic:** [[Kinetic Theory]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Statistical Averaging (metodo)|Statistical Averaging]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -302,7 +302,7 @@ dove $\alpha$, $\beta$, $\gamma$ e $\delta$ sono tutte costanti senza dimensioni
 **Topic:** [[Kinetic Theory]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Statistical Averaging (metodo)|Statistical Averaging]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 
 
 
@@ -314,7 +314,7 @@ dove $\alpha$, $\beta$, $\gamma$ e $\delta$ sono tutte costanti senza dimensioni
 
 **Pico-Pico 1.** Poncho is a very good player of the legendary carnival game known as Pico-Pico. Its setup consists of a steel ball, represented by a point mass, of negligible radius and a frictionless vertical track. The goal of Pico-Pico is to flick the ball from the beginning of the track (point $A$) such that it is able to traverse through the track while never leaving the track, successfully reaching the end (point $B$). The most famous track design is one of parabolic shape; specifically, the giant track is of the shape $h(x) = 5 - 2x^2$ in meters. The starting and ending points of the tracks are the two points where the track intersects $y = 0$. If $(v_a, v_b]$ is the range of the ball's initial velocity $v_0$ that satisfies the winning condition of Pico-Pico, help Poncho find $v_b - v_a$. This part is depicted below:
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p10_f10.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p10_f10.png]]
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
@@ -327,7 +327,7 @@ dove $\alpha$, $\beta$, $\gamma$ e $\delta$ sono tutte costanti senza dimensioni
 
 Pico-Pico 1.** Poncho è un giocatore molto bravo del leggendario gioco di carnevale noto come Pico-Pico. La sua configurazione consiste in una sfera di acciaio, rappresentata da una massa puntaria, di raggio trascurabile e di una pista verticale senza attrito. L'obiettivo di Pico-Pico è quello di spostare la palla dall'inizio della pista (punto $A$) in modo che possa attraversare la pista senza mai uscire dalla pista, raggiungendo con successo la fine (punto $B$). Il design più famoso della pista è quello di forma parabola; in particolare, la pista gigante è di forma $h(x) = 5 - 2x^2$ in metri. I punti di partenza e di fine delle binarie sono i due punti di intersezione della binaria $y = 0$. Se $(v_a, v_b]$ è l'intervallo della velocità iniziale della palla $v_0$ che soddisfa la condizione di vincita di Pico-Pico, aiuta Poncho a trovare $v_b - v_a$. Questa parte è raffigurata di seguito:
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p10_f10.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p10_f10.png]]
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
@@ -374,7 +374,7 @@ Ora, Poncho ha incontrato un altro gioco Pico-Pico che utilizza la stessa pista 
 
 Given that the surface tension of water is $\gamma = 0.072\,\text{N}\,\text{m}^{-1}$ and that the contact angle between gold and water is $\theta = 10^\circ$, what is the maximum distance between the two hemispheres so that the bottom half doesn't fall? Answer in millimeters.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p7_f12.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p7_f12.png]]
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Fluid Mechanics]]
@@ -389,7 +389,7 @@ Chiunque abbia mangiato una mela sa che i pezzi di una mela si attaccano: quando
 
 Dato che la tensione superficiale dell'acqua è $\gamma = 0.072\,\text{N}\,\text{m}^{-1}$ e che l'angolo di contatto tra oro e acqua è $\theta = 10^\circ$, qual è la distanza massima tra i due emisferi in modo che la metà inferiore non cade? Rispondi in millimetri.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p7_f12.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p7_f12.png]]
 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Fluid Mechanics]]
@@ -407,7 +407,7 @@ Dato che la tensione superficiale dell'acqua è $\gamma = 0.072\,\text{N}\,\text
 
 > **The following information applies to Problems 13 and 14.** In the following two problems we will look at shooting a basketball. Model the basketball as an elastic hollow sphere with radius $0.1$ meters. Model the net and basket as shown below, dimensions marked. Neglect friction between the backboard and basketball, and assume all collisions are perfectly elastic.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p8_f13.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p8_f13.png]]
 
 **Free Throw.** For this problem, you launch the basketball from the point that is $2$ meters above the ground and $4$ meters from the backboard as shown. You attempt to make a shot by hitting the basketball off the backboard as depicted above. What is the minimum initial speed required for the ball to make this shot?
 
@@ -424,7 +424,7 @@ Note: For this problem, you may assume that the size of the ball is negligible.
 
 > **Le seguenti informazioni si applicano ai problemi 13 e 14. ** Nei due seguenti problemi esamineremo il tiro a basket. Modellare la pallacanestro come una sfera vuota elastica con raggio $0.1$ metri. Modellare la rete e il cestino come mostrato di seguito, dimensioni segnate. Non si deve pensare all'attrito tra la schiena e il basket, e assumere che tutte le collisioni siano perfettamente elasticate.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p8_f13.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p8_f13.png]]
 
 Per questo problema, si lancia il basket dal punto che è $2$ metri sopra il terreno e $4$ metri dal tavolo posteriore come mostrato. Si tenta di fare un colpo colpendo la palla da dietro come raffigurato sopra. Qual è la velocità iniziale minima necessaria per fare questo colpo?
 
@@ -504,7 +504,7 @@ Suggerimento: Non è più possibile trascurare la dimensione della palla.
 
 **Toilet Paper Roll.** Consider a toilet paper roll with some length of it hanging off as shown. The toilet paper roll rests on a cylindrical pole of radius $r = 1\,\text{cm}$ and the coefficient of static friction between the roll and the pole is $\mu = 0.3$.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p16_f16.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p16_f16.png]]
 
 The length of the paper hanging off has length $\ell = 30\,\text{cm}$ and the inner radius of the roll is $R_i = 2\,\text{cm}$. The toilet paper has thickness $s = 0.1\,\text{mm}$ and mass per unit length $\lambda = 5\,\text{g/m}$. What is the minimum outer radius $R_o$ such that the toilet paper roll remains static? Answer in centimeters.
 
@@ -519,7 +519,7 @@ The length of the paper hanging off has length $\ell = 30\,\text{cm}$ and the in
 
 **Rollino di carta igienica.** Considerate un rollino di carta igienica con una certa lunghezza appesa come mostrato. Il rollo di carta igienica si fonda su un polo cilindrico di raggio $r = 1\,\text{cm}$ e il coefficiente di attrito statico tra il rollo e il polo è $\mu = 0.3$.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p16_f16.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p16_f16.png]]
 
 La lunghezza della carta appesa è $\ell = 30\,\text{cm}$ e il raggio interno del rotolio è $R_i = 2\,\text{cm}$. La carta igienica ha spessore $s = 0.1\,\text{mm}$ e massa per unità di lunghezza $\lambda = 5\,\text{g/m}$. Qual è il raggio esterno minimo $R_o$ tale da mantenere la rola di carta igienica in stato statico? Rispondi in centimetri.
 
@@ -539,7 +539,7 @@ La lunghezza della carta appesa è $\ell = 30\,\text{cm}$ e il raggio interno de
 
 **Maximum Voltage.** In the circuit shown below, a capacitor $C = 4\,\text{F}$, inductor $L = 5\,\text{H}$, and resistors $R_1 = 3\,\Omega$ and $R_2 = 2\,\Omega$ are placed in a diamond shape and are then fed an alternating current with peak voltage $V_0 = 1\,\text{V}$ of unknown frequency. Determine the magnitude of the maximum instantaneous output voltage shown in the diagram.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p17_f17.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p17_f17.png]]
 
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Circuits]]
@@ -552,7 +552,7 @@ La lunghezza della carta appesa è $\ell = 30\,\text{cm}$ e il raggio interno de
 
 **Voltaggio massimo.** Nel circuito riportato di seguito, un condensatore $C = 4\,\text{F}$, un induttore $L = 5\,\text{H}$ e le resistenze $R_1 = 3\,\Omega$ e $R_2 = 2\,\Omega$ sono posizionati in forma di diamante e vengono quindi alimentati con una corrente alternata con una tensione di picco $V_0 = 1\,\text{V}$ di frequenza sconosciuta. Determinare la magnitudine della tensione di uscita massima istantanea mostrata nel diagramma.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p17_f17.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p17_f17.png]]
 
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Circuits]]
@@ -570,26 +570,26 @@ La lunghezza della carta appesa è $\ell = 30\,\text{cm}$ e il raggio interno de
 
 **Suspended Rod - 1.** A uniform bar of length $l$ and mass $m$ is connected to a very long thread of negligible mass suspended from a ceiling. It is then rotated such that it is vertically upside down and then released. Initially, the rod is in unstable equilibrium. As it falls down, the minimum tension acting on the thread over the rod's entire motion is given by $\alpha mg$. Determine $\alpha$.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p18_f18.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p18_f18.png]]
 
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Rotational Dynamics]], [[Conservation of Energy]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]]
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 **Rota sospesa - 1.** Un'artigliatura uniforme di lunghezza $l$ e massa $m$ è collegata a un filo molto lungo di massa trascurabile sospeso da un soffitto. Si ruota in modo che sia verticalmente al contrario e poi rilasciato. Inizialmente, la canna è in equilibrio instabile. Quando cade, la tensione minima che agisce sul filo su tutto il movimento della canna è data da $\alpha mg$. Determina $\alpha$.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p18_f18.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p18_f18.png]]
 
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Rotational Dynamics]], [[Conservation of Energy]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]]
 
 
 
@@ -601,26 +601,26 @@ La lunghezza della carta appesa è $\ell = 30\,\text{cm}$ e il raggio interno de
 
 **Suspended Rod - 2.** A uniform bar of length $l$ and mass $m$ is connected to a thread of length $2l$ of negligible mass and is suspended from the ceiling at equilibrium. The rod is then slightly nudged at a point on its body. The largest stable frequency of oscillations of the system is given by $\beta\sqrt{\dfrac{g}{l}}$. Determine $\beta$.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p19_f19.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p19_f19.png]]
 
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Oscillations & Waves]], [[Rotational Dynamics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]]
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 **Suspended Rod - 2.** Un'artigliatura uniforme di lunghezza $l$ e massa $m$ è collegata a un filo di lunghezza $2l$ di massa trascurabile e è sospesa dal soffitto in equilibrio. La canna viene poi leggermente spinta in un punto del corpo. La frequenza stabile più elevata di oscillazioni del sistema è data da $\beta\sqrt{\dfrac{g}{l}}$. Determina $\beta$.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p19_f19.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p19_f19.png]]
 
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Oscillations & Waves]], [[Rotational Dynamics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Rod (object)|Rod]], [[objects/rope-string-(object)|Rope/String]]
 
 
 
@@ -686,7 +686,7 @@ Due scale dritte $AB$ e $CD$, ciascuna di lunghezza $1\,\text{m}$, sono posizion
 
 **Colliding Conducting Slab.** A thin conducting square slab with side length $s = 5\,\text{cm}$, initial charge $q = 0.1\,\mu\text{C}$, and mass $m = 100\,\text{g}$ is given a kick and sent bouncing between two infinite conducting plates separated by a distance $d = 0.5\,\text{cm} \ll s$ and with surface charge density $\pm\sigma = \pm 50\,\mu\text{C/m}^2$. After a long time it is observed exactly in the middle of the two plates to be traveling with velocity of magnitude $v = 3\,\text{m/s}$ and direction $\theta = 30^\circ$ with respect to the horizontal line parallel to the plates. How many collisions occur after it has traveled a distance $L = 15\,\text{m}$ horizontally from when it was last observed? Assume that all collisions are elastic, and neglect induced charges. Note that the setup is horizontal so gravity does not need to be accounted for.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p22_f22.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p22_f22.png]]
 
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
@@ -699,7 +699,7 @@ Due scale dritte $AB$ e $CD$, ciascuna di lunghezza $1\,\text{m}$, sono posizion
 
 **L'artigliatura di conduttore di collisione.** Una sottile lastra di conduttore quadrata con lunghezza laterale $s = 5\,\text{cm}$, carica iniziale $q = 0.1\,\mu\text{C}$ e massa $m = 100\,\text{g}$ riceve un calcio e viene inviata un rimbalzo tra due lastre di conduttore infinite separate da una distanza $d = 0.5\,\text{cm} \ll s$ e con densità di carica superficiale $\pm\sigma = \pm 50\,\mu\text{C/m}^2$. Dopo un lungo periodo si osserva che esattamente nel mezzo delle due lastre si muove con velocità di magnitudo $v = 3\,\text{m/s}$ e direzione $\theta = 30^\circ$ rispetto alla linea orizzontale parallela alle lastre. Quante collisioni si verificano dopo aver percorso una distanza $L = 15\,\text{m}$ orizzontale rispetto all'ultima volta osservata? Supponiamo che tutte le collisioni siano elastiche, e trascuri le cariche indotte. Si noti che la configurazione è orizzontale, quindi non è necessario tenere conto della gravità.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p22_f22.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p22_f22.png]]
 
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
@@ -744,7 +744,7 @@ Due scale dritte $AB$ e $CD$, ciascuna di lunghezza $1\,\text{m}$, sono posizion
 
 **Spinning Cylinder.** Adithya has a solid cylinder of mass $M = 10\,\text{kg}$, radius $R = 0.08\,\text{m}$, and height $H = 0.20\,\text{m}$. He is running a test in a chamber on Earth over a distance of $d = 200\,\text{m}$ as shown below. Assume that the physical length of the chamber is much greater than $d$ (i.e. the chamber extends far to the left and right of the testing area). The chamber is filled with an ideal fluid with uniform density $\rho = 700\,\text{kg/m}^3$. Adithya's cylinder is launched with linear velocity $v = 10\,\text{m/s}$ and spins counterclockwise with angular velocity $\omega$. Adithya notices that the cylinder continues on a horizontal path until the end of the chamber. Find the angular velocity $\omega$. Do not neglect forces due to fluid pressure differences. Note that the diagram presents a side view of the chamber (i.e. gravity is oriented downwards with respect to the diagram).
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p24_f24.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p24_f24.png]]
 
 Assume the following about the setup and the ideal fluid:
 - fluid flow is steady in the frame of the center of mass of the cylinder
@@ -770,7 +770,7 @@ $$\mathbf{v} = \nabla\Phi = \frac{\partial\Phi}{\partial r}\,\hat{r} + \frac{1}{
 
 **Cilindro a rotazione.** Adithya ha un cilindro solido di massa $M = 10\,\text{kg}$, raggio $R = 0.08\,\text{m}$ e altezza $H = 0.20\,\text{m}$. Sta eseguendo un test in una camera sulla Terra su una distanza di $d = 200\,\text{m}$ come mostrato di seguito. Supponiamo che la lunghezza fisica della camera sia molto maggiore di $d$ (cioè: la camera si estende a destra e sinistra della zona di prova). La camera è riempita di un fluido ideale con densità uniforme $\rho = 700\,\text{kg/m}^3$. Il cilindro di Adithya viene lanciato con velocità lineare $v = 10\,\text{m/s}$ e ruota contro il senso dell'orologio con velocità angolare $\omega$. Adithya nota che il cilindro continua su un percorso orizzontale fino alla fine della camera. Trova la velocità angolare $\omega$. Non trascurare le forze dovute alle differenze di pressione dei fluidi. Si noti che il diagramma presenta una vista laterale della camera (cioè: La gravità è orientata verso il basso rispetto al diagramma).
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p24_f24.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p24_f24.png]]
 
 Supponiamo quanto segue sulla configurazione e sul fluido ideale:
 - il flusso di fluido è costante nel quadro del centro di massa del cilindro
@@ -832,7 +832,7 @@ $$\mathbf{v} = \nabla\Phi = \frac{\partial\Phi}{\partial r}\,\hat{r} + \frac{1}{
 **Topic:** [[Kinetic Theory]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Statistical Averaging (metodo)|Statistical Averaging]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -843,7 +843,7 @@ $$\mathbf{v} = \nabla\Phi = \frac{\partial\Phi}{\partial r}\,\hat{r} + \frac{1}{
 **Topic:** [[Kinetic Theory]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Statistical Averaging (metodo)|Statistical Averaging]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 
 
 
@@ -857,7 +857,7 @@ $$\mathbf{v} = \nabla\Phi = \frac{\partial\Phi}{\partial r}\,\hat{r} + \frac{1}{
 
 Hint: You may neglect the magnetic field produced by the vertical segments in the rectangular loop.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p27_f27.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p27_f27.png]]
 
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Electromagnetism]], [[Magnetism]]
@@ -872,7 +872,7 @@ Hint: You may neglect the magnetic field produced by the vertical segments in th
 
 Suggerimento: Potresti trascurare il campo magnetico prodotto dai segmenti verticali del ciclo rettangolare.
 
-![[_attachments/OPhO_2021_Open/OPhO_2021_Open_p27_f27.png]]
+![[prove/_attachments/opho_2021_open/opho_2021_open_p27_f27.png]]
 
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1mxpnrOsp79YrqyfBw9SxAv4byETqvNPn/view)
 **Topic:** [[Electromagnetism]], [[Magnetism]]

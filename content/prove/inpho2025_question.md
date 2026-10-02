@@ -21,7 +21,7 @@ In the following experiment we are interested in determining the moment of inert
 
 <!--fig:start-->
 **Quesito 1**
-![[INPhO2025_Question_p2_f1.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p2_f1.png]]
 <!--fig:end-->
 
 From the instant when the mass touches the floor (taken as $t = 0$), the flywheel continues to rotate, adding another $N$ number of rotations before coming to rest in time $t = T$. The figure is not to scale.
@@ -41,7 +41,7 @@ Calculate the value of $I$ for $n = 16$, and $h = 139\ \text{cm}$.
 **Topic:** [[Rotational Dynamics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Wheel (object)|Wheel]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Wheel (object)|Wheel]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Qh7RFpF8h0BxAz3RAZaPMV9uPn04Kylt/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1b6wJ5WZiZBtvm_87H5VWJAi8uKKwo42U/view)
 
@@ -54,7 +54,7 @@ Nel seguente esperimento siamo interessati a determinare il momento di inerzia d
 
 <!--fig:start-->
 **Quesito 1**
-![[INPhO2025_Question_p2_f1.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p2_f1.png]]
 <!--fig:end-->
 
 Dal momento in cui la massa tocca il pavimento (preso $t = 0$), il volante continua a ruotare, aggiungendo un altro numero di rotazioni $N$ prima di riposare nel tempo $t = T$. La cifra non è scalabile.
@@ -74,7 +74,7 @@ Calcolare il valore di $I$ per $n = 16$ e $h = 139\ \text{cm}$.
 **Topic:** [[Rotational Dynamics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Wheel (object)|Wheel]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Wheel (object)|Wheel]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Qh7RFpF8h0BxAz3RAZaPMV9uPn04Kylt/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1b6wJ5WZiZBtvm_87H5VWJAi8uKKwo42U/view)
 
@@ -92,7 +92,7 @@ We consider a "thought experiment" involving a DC motor and a DC generator coupl
 
 <!--fig:start-->
 **Quesito 2**
-![[INPhO2025_Question_p3_f1.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p3_f1.png]]
 <!--fig:end-->
 
 Both the motor and the generator have $N$ loops of area $A$ and rotate in a uniform magnetic field of strength $B$. As usual, both the motor and the generator use commutators (indicated by the blue blocks) to reverse the direction of current in each arm every half cycle, to ensure unidirectional output. The generator is connected to an external resistance $R$, and the motor is driven by a constant voltage $V_M$ with an internal resistance $r$. The gearbox is idealized, with no energy loss due to friction or otherwise, and no slipping between the teeth of the gears. For a pair of meshing gears, as shown above, the angular speed ratio, also known as the gear ratio $X$, is defined as:
@@ -123,7 +123,7 @@ Si considera un "esperimento di pensiero" che coinvolge un motore a corrente con
 
 <!--fig:start-->
 **Quesito 2**
-![[INPhO2025_Question_p3_f1.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p3_f1.png]]
 <!--fig:end-->
 
 Sia il motore che il generatore hanno un'area $N$ di buchi $A$ e ruotano in un campo magnetico uniforme di resistenza $B$. Come al solito, sia il motore che il generatore utilizzano commutatori (indicati dai blocchi blu) per invertire la direzione della corrente in ciascun braccio ogni mezzo ciclo, per garantire un'uscita unidirezionale. Il generatore è collegato a una resistenza esterna $R$ e il motore è alimentato da una tensione costante $V_M$ con una resistenza interna $r$. La casella di ingranaggi è idealizzata, senza perdita di energia a causa di attrito o altro, e senza scivolamento tra i denti delle engranaggi. Per un paio di ingranaggi di maglia, come indicato sopra, il rapporto di velocità angolare, noto anche come rapporto di ingranaggio $X$, è definito come:
@@ -163,7 +163,7 @@ $$X \equiv (24\,\text{L}, 224\,\text{K})$$
 
 <!--fig:start-->
 **Quesito 3**
-![[INPhO2025_Question_p4_f1.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p4_f1.png]]
 <!--fig:end-->
 
 (a) [13 marks] Draw both the $V$ and $T$ axes to scale in the same diagram given in the Summary Answersheet. Indicate the origin by "O". Justify your answer in the detailed answersheet. You are given one extra answer box in the answersheet, in case of any mistake in the first.
@@ -190,7 +190,7 @@ $$X \equiv (24\,\text{L}, 224\,\text{K})$$
 
 <!--fig:start-->
 **Quesito 3**
-![[INPhO2025_Question_p4_f1.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p4_f1.png]]
 <!--fig:end-->
 
 (a) [13 punti] Disegnare gli assi $V$ e $T$ per scalare nello stesso diagramma riportato nella scheda di risposte di sintesi. Indicare l'origine con "O". giustifica la tua risposta nella scheda dettagliata. Vi viene data una casella di risposta in più nella scheda di risposta, in caso di errore nella prima.
@@ -218,7 +218,7 @@ A magnetometer is a Hall-effect-based sensor that measures the magnetic field at
 
 <!--fig:start-->
 **Quesito 4**
-![[INPhO2025_Question_p5_f1.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p5_f1.png]]
 <!--fig:end-->
 
 The components $B_x$, $B_y$ and $B_z$ of the magnetic field measured by the magnetometer depend on the strength and the orientation of the magnetic dipole moment, of a magnet positioned nearby and the distance $R$ between the center of the magnet and the magnetometer. The effect of the Earth's magnetic field is neglected throughout this problem.
@@ -229,21 +229,21 @@ She places the MBB on a wooden table. Then she records the magnetic field values
 
 <!--fig:start-->
 **Quesito 4**
-![[INPhO2025_Question_p5_f2.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p5_f2.png]]
 <!--fig:end-->
 
 For each scan, Vanya also tries different orientations of the magnet by aligning the dipole moment vector $\vec{P}$ either parallel or anti-parallel to the $y$-axis or $x$-axis. The different orientations (I to IV) are shown in Fig. (3). During the experiment, assume that the magnetometer location and the magnet's center are at the same height (i.e., their $z$-coordinates are always the same).
 
 <!--fig:start-->
 **Quesito 4**
-![[INPhO2025_Question_p6_f1.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p6_f1.png]]
 <!--fig:end-->
 
 The graphs in Fig. (4) display the variation of the magnetic field $B_x$ for four of the vertical and horizontal scans (denoted by A, B, C, D) with certain combinations of the orientations.
 
 <!--fig:start-->
 **Quesito 4**
-![[INPhO2025_Question_p6_f2.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p6_f2.png]]
 <!--fig:end-->
 
 (a) [7 marks] Based on the above plots, identify which orientations (I-IV) these curves belong to. To indicate your answer, fill in the table in the answersheet. Determine the coordinates $(x_0, y_0)$ of the magnetometer's position. You must justify your answers.
@@ -252,14 +252,14 @@ The graphs in Fig. (4) display the variation of the magnetic field $B_x$ for fou
 
 <!--fig:start-->
 **Quesito 4**
-![[INPhO2025_Question_p7_f1.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p7_f1.png]]
 <!--fig:end-->
 
 Vanya aligns the central axis (XX' in Fig. (5)) of one magnetic set M1 or M2 such that the central axis passes through the magnetometer and is parallel to the $x$-axis. A representation of the setup is shown in Fig. 6. By keeping the $y$-coordinate fixed at $y_0$, Vanya moves the magnetic set parallel to the $x$-axis. The distance from the magnetometer to the midpoint of the magnetic set is $R$. For each position, she measures the distance $d_x$ (the distance from the face of the MBB to the nearest edge of the magnetic set) and the corresponding magnetic field component, $B_x$.
 
 <!--fig:start-->
 **Quesito 4**
-![[INPhO2025_Question_p7_f2.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p7_f2.png]]
 <!--fig:end-->
 
 i. [5 marks] For the case of $R \gg w$, obtain expressions for the net magnetic field $B$ at the magnetometer due to M1 and M2 in terms of $R$, $w$, $P'$, and other constants. You may assume that each individual magnet can be modelled as a pair of magnetic monopoles separated by a distance $w$.
@@ -292,7 +292,7 @@ Un magnetometro è un sensore basato sull'effetto Hall che misura il campo magne
 
 <!--fig:start-->
 **Quesito 4**
-![[INPhO2025_Question_p5_f1.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p5_f1.png]]
 <!--fig:end-->
 
 I componenti $B_x$, $B_y$ e $B_z$ del campo magnetico misurato dal magnetometro dipendono dalla forza e dall'orientamento del momento di dipolo magnetico, da un magnete posizionato nelle vicinanze e dalla distanza $R$ tra il centro del magnete e il magnetometro. L'effetto del campo magnetico terrestre è trascurato in tutto questo problema.
@@ -303,21 +303,21 @@ Mette l'MBB su un tavolo di legno. Poi registra i valori del campo magnetico vis
 
 <!--fig:start-->
 **Quesito 4**
-![[INPhO2025_Question_p5_f2.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p5_f2.png]]
 <!--fig:end-->
 
 Per ogni scansione, Vanya prova anche diversi orientamenti del magnete allineando il vettore del momento di dipole $\vec{P}$ sia parallelo che antiparallelo all'asse $y$ o all'asse $x$. Le differenti orientamenti (I a IV) sono illustrate nella figura. (3). Durante l'esperimento, supponiamo che la posizione del magnetometro e il centro del magnete siano alla stessa altezza (cioè le loro coordinate $z$ sono sempre le stesse).
 
 <!--fig:start-->
 **Quesito 4**
-![[INPhO2025_Question_p6_f1.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p6_f1.png]]
 <!--fig:end-->
 
 I grafici in Fig. (4) mostrare la variazione del campo magnetico $B_x$ per quattro delle scansioni verticali e orizzontali (indicate da A, B, C, D) con determinate combinazioni di orientamenti.
 
 <!--fig:start-->
 **Quesito 4**
-![[INPhO2025_Question_p6_f2.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p6_f2.png]]
 <!--fig:end-->
 
 (a) [7 punti] Sulla base dei diagrammi di cui sopra, identificare a quali orientamenti (I-IV) appartengono queste curve. Per indicare la risposta, compila la tabella della scheda. Determinare le coordinate $(x_0, y_0)$ della posizione del magnetometro. Devi giustificare le tue risposte.
@@ -326,14 +326,14 @@ b) Vanya riceve due set magnetici cuboidi M1 e M2, ciascun costruito utilizzando
 
 <!--fig:start-->
 **Quesito 4**
-![[INPhO2025_Question_p7_f1.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p7_f1.png]]
 <!--fig:end-->
 
 Vanya allinea l'asse centrale (XX' nella figura. (5)) di un insieme magnetico M1 o M2 in modo tale che l'asse centrale attraversare il magnetometro ed essere parallelo all'asse $x$. Una rappresentazione della configurazione è mostrata nella figura. 6. Tenendo la coordinata $y$ fissa a $y_0$, Vanya muove l'insieme magnetico parallelo all'asse $x$. La distanza dal magnetometro al punto medio dell'insieme magnetico è $R$. Per ciascuna posizione, misura la distanza $d_x$ (la distanza dalla superficie del MBB al bordo più vicino dell'insieme magnetico) e la corrispondente componente del campo magnetico, $B_x$.
 
 <!--fig:start-->
 **Quesito 4**
-![[INPhO2025_Question_p7_f2.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p7_f2.png]]
 <!--fig:end-->
 
 i. [5 punti] Per $R \gg w$, ottenere espressioni per il campo magnetico netto $B$ al magnetometro dovuto a M1 e M2 in termini di $R$, $w$, $P'$ e altre costanti. Si può supporre che ogni singolo magnete possa essere modellato come una coppia di monopoli magnetici separati da una distanza $w$.
@@ -375,7 +375,7 @@ Similarly, the rays falling at $Q'$, at a distance $r'$, will be refracted by an
 
 <!--fig:start-->
 **Quesito 5**
-![[INPhO2025_Question_p8_f1.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p8_f1.png]]
 <!--fig:end-->
 
 (a) [8 marks] Find $f(r)$ in terms of $\phi(r)$ and $k_o$, the wave number of the incoming wave in a vacuum. To determine $f(r)$, assume two rays in $x$-$z$ plane incident at an angle $\theta_1$ at two infinitesimally close points, $r$ and $r + \Delta r$, are refracted by the same angle $\theta_2$. You don't need to derive the exact functional form of $\phi(r)$ for this part.
@@ -384,14 +384,14 @@ Similarly, the rays falling at $Q'$, at a distance $r'$, will be refracted by an
 
 <!--fig:start-->
 **Quesito 5**
-![[INPhO2025_Question_p9_f1.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p9_f1.png]]
 <!--fig:end-->
 
 (c) [3 marks] Consider a metalens whose phase profile is obtained in part (b). For the paraxial approximation, derive an expression for the lens equation, having object distance $u$ and image distance being $v$, with focal length $f$ (see figure below).
 
 <!--fig:start-->
 **Quesito 5**
-![[INPhO2025_Question_p9_f2.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p9_f2.png]]
 <!--fig:end-->
 
 **Topic:** [[Wave Optics]], [[Geometric Optics]]
@@ -414,7 +414,7 @@ Allo stesso modo, i raggi che cadono a $Q'$, a una distanza $r'$, saranno rifrac
 
 <!--fig:start-->
 **Quesito 5**
-![[INPhO2025_Question_p8_f1.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p8_f1.png]]
 <!--fig:end-->
 
 a) [8 punti] Trova $f(r)$ in termini di $\phi(r)$ e $k_o$, il numero d'onda dell'onda in entrata in vuoto. Per determinare $f(r)$, supponiamo che due raggi nel piano $x$-$z$ incidenti ad un angolo $\theta_1$ a due punti infinitesimalmente vicini, $r$ e $r + \Delta r$, siano refratti dallo stesso angolo $\theta_2$. Non è necessario derivare la forma funzionale esatta di $\phi(r)$ per questa parte.
@@ -423,14 +423,14 @@ b) [4 punti] Derivare un'espressione per il profilo di fase $\phi(r)$, per conve
 
 <!--fig:start-->
 **Quesito 5**
-![[INPhO2025_Question_p9_f1.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p9_f1.png]]
 <!--fig:end-->
 
 (c) [3 marchi] Considerare un metalene il cui profilo di fase è ottenuto nella parte (b). Per l'approssimazione paraxiale, derivare un'espressione per l'equazione dell'obiettivo, con distanza dell'oggetto $u$ e distanza dell'immagine $v$, con distanza focale $f$ (vedere figura seguente).
 
 <!--fig:start-->
 **Quesito 5**
-![[INPhO2025_Question_p9_f2.png]]
+![[_attachments/inpho2025_question/inpho2025_question_p9_f2.png]]
 <!--fig:end-->
 
 **Topic:** [[Wave Optics]], [[Geometric Optics]]

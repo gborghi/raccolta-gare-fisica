@@ -130,7 +130,7 @@ tubi.
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]], [[Magnetism]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Gauss's Law (metodo)|Gauss's Law]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Ball (object)|Ball]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Ball (object)|Ball]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1TOYcviSWlo0yFV12gysg863P3VyGL4uC/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pTfAFk5kF4jt_NMCJkwU9JYyecFUsdyu/view)
 
@@ -252,7 +252,7 @@ The pipes.
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]], [[Magnetism]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Gauss's Law (metodo)|Gauss's Law]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Ball (object)|Ball]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[Ball (object)|Ball]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1TOYcviSWlo0yFV12gysg863P3VyGL4uC/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pTfAFk5kF4jt_NMCJkwU9JYyecFUsdyu/view)
 
@@ -338,7 +338,7 @@ limite superiore $U_\text{max}$; trova $U_\text{max}$.
 **Topic:** [[Electrostatics]], [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Differential Equations (metodo)|Differential Equations]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Droplet (object)|Droplet]], [[Capacitor (object)|Capacitor]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Droplet (object)|Droplet]], [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1TOYcviSWlo0yFV12gysg863P3VyGL4uC/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pTfAFk5kF4jt_NMCJkwU9JYyecFUsdyu/view)
 
@@ -419,7 +419,7 @@ limite superiore $U_\text{max}$; trova $U_\text{max}$.
 **Topic:** [[Electrostatics]], [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Differential Equations (metodo)|Differential Equations]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Droplet (object)|Droplet]], [[Capacitor (object)|Capacitor]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Droplet (object)|Droplet]], [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1TOYcviSWlo0yFV12gysg863P3VyGL4uC/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pTfAFk5kF4jt_NMCJkwU9JYyecFUsdyu/view)
 

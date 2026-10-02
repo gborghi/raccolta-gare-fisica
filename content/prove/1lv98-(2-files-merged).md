@@ -20,7 +20,7 @@ tags:
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
 **Risposta:** **D**
 
@@ -32,7 +32,7 @@ tags:
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
 The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
 
@@ -282,7 +282,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
 **Risposta:** **A**
 
@@ -294,7 +294,7 @@ A bucket tied to a rope is placed in uniform rotation on a horizontal plane; an 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
 The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
 
@@ -456,7 +456,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
 **Risposta:** **C**
 
@@ -468,7 +468,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
 The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
 
@@ -543,7 +543,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
 **Risposta:** **D**
 
@@ -555,7 +555,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
 The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
 
@@ -746,7 +746,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
 **Risposta:** **B**
 
@@ -758,7 +758,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
 The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2003.
 
@@ -933,7 +933,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Superposition Principle (metodo)|Superposition Principle]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
 **Risposta:** **D**
 
@@ -958,7 +958,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Superposition Principle (metodo)|Superposition Principle]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
 The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
 
@@ -1340,7 +1340,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
 **Risposta:** **C**
 
@@ -1365,6 +1365,6 @@ The following table shows the energy of the energy of the energy of the energy o
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
 The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.

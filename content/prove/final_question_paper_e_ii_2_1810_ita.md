@@ -135,7 +135,7 @@ Misura la lunghezza $l_1$ tra l'apertura del sensore di luce e il bordo esterno 
 **Topic:** [[Wave Optics]], [[Oscillations & Waves]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Ub_cydQpGmL2Nd7dMI0tfOl_LSlNmzlp/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
 
@@ -170,7 +170,7 @@ The amount of the loan shall be calculated on the basis of the following:
 **Topic:** [[Wave Optics]], [[Oscillations & Waves]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Ub_cydQpGmL2Nd7dMI0tfOl_LSlNmzlp/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
 
@@ -199,7 +199,7 @@ $$f = q \sqrt{\frac{\sigma}{\rho}} \frac{k^{3/2}}{2\pi} \quad (2)$$
 **Topic:** [[Wave Optics]], [[Oscillations & Waves]]
 **Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Ub_cydQpGmL2Nd7dMI0tfOl_LSlNmzlp/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
 
@@ -223,7 +223,7 @@ The following table shows the results of the calculation of the total cost of th
 **Topic:** [[Wave Optics]], [[Oscillations & Waves]]
 **Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Ub_cydQpGmL2Nd7dMI0tfOl_LSlNmzlp/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
 

@@ -135,7 +135,7 @@ your answer.
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cart (object)|Cart]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1ekBVA50Imeu4pU7QJLvljG_uM9-zz5Bz/view)
 
 
@@ -155,7 +155,7 @@ La tua risposta.
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Cart (object)|Cart]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1ekBVA50Imeu4pU7QJLvljG_uM9-zz5Bz/view)
 
 
@@ -272,7 +272,7 @@ see if the fundamental oscillation frequency is kept constant?
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Graph Linearization (metodo)|Graph Linearization]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1ekBVA50Imeu4pU7QJLvljG_uM9-zz5Bz/view)
 
 
@@ -294,7 +294,7 @@ vedere se la frequenza di oscillazione fondamentale è mantenuta costante?
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Graph Linearization (metodo)|Graph Linearization]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1ekBVA50Imeu4pU7QJLvljG_uM9-zz5Bz/view)
 
 
@@ -482,7 +482,7 @@ any question – everyone is different.
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1ekBVA50Imeu4pU7QJLvljG_uM9-zz5Bz/view)
 
 
@@ -514,7 +514,7 @@ Qualsiasi domanda... tutti sono diversi.
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1ekBVA50Imeu4pU7QJLvljG_uM9-zz5Bz/view)
 
 
@@ -581,7 +581,7 @@ c⃝Australian Science Innovations 2017 ABN 81731558309
 **Topic:** [[Fluid Mechanics]], [[Conservation of Momentum]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1ekBVA50Imeu4pU7QJLvljG_uM9-zz5Bz/view)
 
 
@@ -643,7 +643,7 @@ Serbatoio con latte al cioccolato e latte normale
 **Topic:** [[Fluid Mechanics]], [[Conservation of Momentum]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1ekBVA50Imeu4pU7QJLvljG_uM9-zz5Bz/view)
 
 

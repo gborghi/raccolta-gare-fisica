@@ -30,7 +30,7 @@ alta. Descreva e justifique o fenômeno observado.
 **Topic:** [[Fluid Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Sphere (object)|Sphere]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1n06TVogn3A609pkFCpDzd4v5CU8UIvTi/view)
 
 
@@ -47,7 +47,7 @@ alto. Descrivere e giustificare il fenomeno osservato.
 **Topic:** [[Fluid Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Sphere (object)|Sphere]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1n06TVogn3A609pkFCpDzd4v5CU8UIvTi/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -63,7 +63,7 @@ High. Describe and justify the observed phenomenon.
 **Topic:** [[Fluid Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Sphere (object)|Sphere]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1n06TVogn3A609pkFCpDzd4v5CU8UIvTi/view)
 
 
@@ -307,7 +307,7 @@ gravidade e $\rho$ para a densidade da água.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1n06TVogn3A609pkFCpDzd4v5CU8UIvTi/view)
 
 
@@ -324,7 +324,7 @@ gravità e $\rho$ per la densità dell'acqua.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1n06TVogn3A609pkFCpDzd4v5CU8UIvTi/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -340,7 +340,7 @@ gravity and $\rho$ for water density.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1n06TVogn3A609pkFCpDzd4v5CU8UIvTi/view)
 
 

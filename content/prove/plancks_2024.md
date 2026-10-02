@@ -23,7 +23,7 @@ This question concerns the moment of inertia, $I_G$, of a uniform lamina of mass
 
 Figure 1 shows $ABC$, an isosceles triangle with two sides of length $r$ and third side $2a$.
 
-![[PLANCKS_2024_p1_f1.png]]
+![[prove/_attachments/plancks_2024/plancks_2024_p1_f1.png]]
 *Figure 1: Isosceles triangle with semivertical angle $\theta$ and moment of inertia $I_G$.*
 
 **(a)** [6 marks] Show that the formula for the moment of inertia about the centre of mass is
@@ -51,7 +51,7 @@ La questione riguarda il momento di inerzia, $I_G$, di una lamina uniforme di ma
 
 La figura 1 mostra $ABC$, un triangolo a uguali stelle con due lati di lunghezza $r$ e un terzo lato $2a$.
 
-![[PLANCKS_2024_p1_f1.png]]
+![[prove/_attachments/plancks_2024/plancks_2024_p1_f1.png]]
 *Figura 1: triangolo a parice con angolo semivertico $\theta$ e momento di inerzia $I_G$.*
 
 **(a) ** [6 punti] Mostra che la formula per il momento di inerzia intorno al centro di massa è
@@ -282,7 +282,7 @@ Indicate le ipotesi che avete formulato per arrivare alle vostre risposte.
 
 After a night of frivolity, Patrick decides to climb on to the top of his roof. His house has an interesting shape — the upper half of a sphere of radius 10 m. It being an icy night, Patrick unsurprisingly starts to slip down.
 
-![[PLANCKS_2024_p4_f1.png]]
+![[prove/_attachments/plancks_2024/plancks_2024_p4_f1.png]]
 *Figure 3: Sketch of Patrick's house and garden.*
 
 **(a)** [6 marks] Making the standard undergraduate physics approximations (no friction, point mass, etc.), calculate how far from the edge of the house Patrick lands, to see if he makes it into the pond, slams into the concrete path, or ends up in the thorny rose bush.
@@ -302,7 +302,7 @@ After a night of frivolity, Patrick decides to climb on to the top of his roof. 
 
 Dopo una notte di frivolità, Patrick decide di salire sulla cima del suo tetto. La sua casa ha una forma interessante. La metà superiore di una sfera di raggio di 10 m. Essendo una notte ghiacciata, Patrick, non sorprende, inizia a scivolare.
 
-![[PLANCKS_2024_p4_f1.png]]
+![[prove/_attachments/plancks_2024/plancks_2024_p4_f1.png]]
 Figura 3: Sketch di casa e giardino di Patrick.
 
 Facendo gli approssimativi standard di fisica di laurea (senza attrito, massa di punto, ecc.), calcolare quanto lontano dal bordo della casa Patrick atterra, per vedere se si trova nel lago, si sbatte nel percorso di cemento, o finisce nel bosco di rose spinosa.
@@ -327,7 +327,7 @@ Senza calcoli dettagliati (ma con argomenti di fisica solida), stimare quanto la
 
 A thin superconducting ring is held above a vertical, cylindrical magnetic rod. The axis of symmetry of the ring is the same as that of the rod. The cylindrically symmetrical magnetic field around the ring can be described approximately in terms of the vertical and radial components of the magnetic field vector as $B_z = B_0 (1 - \alpha z)$ and $B_r = B_0 \beta r$, where $B_0$, $\alpha$ and $\beta$ are constants, and $z$ and $r$ are the vertical and radial position coordinates, respectively. A sketch of this can be seen in Figure 4.
 
-![[PLANCKS_2024_p5_f1.png]]
+![[prove/_attachments/plancks_2024/plancks_2024_p5_f1.png]]
 *Figure 4: A thin superconducting ring above a cylindrical metal rod.*
 
 Initially, the ring has no current flowing in it. The coordinates of the centre of the ring are $(z, r) = (0, 0)$. When released, it starts to move downwards with its axis still vertical.
@@ -358,7 +358,7 @@ Useful data:
 
 Un sottile anello superconduttore è tenuto sopra una barra magnetica verticale e cilindrica. L'asse di simmetria dell'anello è lo stesso di quello della canna. Il campo magnetico cilindricamente simmetrico intorno all'anello può essere descritto approssimativamente in termini di componenti verticali e radiali del vettore del campo magnetico come $B_z = B_0 (1 - \alpha z)$ e $B_r = B_0 \beta r$, dove $B_0$, $\alpha$ e $\beta$ sono costanti e $z$ e $r$ sono rispettivamente le coordinate di posizione verticale e radiale. Un bozzetto di questo può essere visto nella Figura 4.
 
-![[PLANCKS_2024_p5_f1.png]]
+![[prove/_attachments/plancks_2024/plancks_2024_p5_f1.png]]
 *Figura 4: Un sottile anello superconduttore sopra una barra metallica cilindrica.*
 
 Inizialmente, l'anello non ha corrente che fluisca in esso. Le coordinate del centro dell'anello sono $(z, r) = (0, 0)$. Una volta rilasciato, inizia a muoversi verso il basso con l'asse ancora verticale.
@@ -398,7 +398,7 @@ The signal from the radioactivity measured from a detector placed outside an obj
 
 Consider an object with a distribution of attenuation coefficients $\mu(x, y)$ and radioactivity distribution $A(x, y)$ as shown in Figure 5.
 
-![[PLANCKS_2024_p6_f1.png]]
+![[prove/_attachments/plancks_2024/plancks_2024_p6_f1.png]]
 *Figure 5: Object with arbitrary activity distribution $A(x, y)$ and attenuation coefficient distribution $\mu(x, y)$.*
 
 Assume that the detector has 100% efficiency (i.e., all photons hitting it are detected) and that it is collimated (i.e., it will only detect photons emitted along a thin line). The photons emitted, from a point source, in a specific direction are proportional, by a factor $k < 1$, to the total number of photons emitted.
@@ -415,14 +415,14 @@ How would this be modified when attenuation is taken into account? Assume that t
 
 Consider now the top of the Stag's skull, approximated by an ellipse with semi-axes $a$ and $b$, arbitrary radioactivity distribution $A(R, \vartheta)$ in polar coordinates and a constant attenuation coefficient $\mu$ (see Figure 6).
 
-![[PLANCKS_2024_p6_f2.png]]
+![[prove/_attachments/plancks_2024/plancks_2024_p6_f2.png]]
 *Figure 6: Ellipse with arbitrary activity distribution and constant attenuation coefficient.*
 
 **(b)** [3 marks] Write an expression, in polar coordinates, for the signal measured from a line going through the origin of the axes at an angle $\vartheta$ to the $x$-axis.
 
 So far we have assumed a point-like detector with infinite angular resolution (i.e., it will only detect photons emitted along a very thin line). The detector now has a circular aperture of radius $R$, as shown in Figure 7.
 
-![[PLANCKS_2024_p6_f3.png]]
+![[prove/_attachments/plancks_2024/plancks_2024_p6_f3.png]]
 *Figure 7: Activity distribution in a plane, with a circular detector aperture.*
 
 We can assume that the radioactivity is still distributed in a plane, but that photons are emitted isotropically in a sphere.
@@ -431,7 +431,7 @@ We can assume that the radioactivity is still distributed in a plane, but that p
 
 The diagram in Figure 8 shows the Stag's scan, with a diffuse "background" uptake of radionuclide and two "points" representing the antler buds.
 
-![[PLANCKS_2024_p6_f4.png]]
+![[prove/_attachments/plancks_2024/plancks_2024_p6_f4.png]]
 *Figure 8: Diagram of the Stag's scan.*
 
 - The detector counts measured along the two parallel lines are $I_1 = 1.23 \ \mathrm{s^{-1}}$ and $I_2 = 1.15 \ \mathrm{s^{-1}}$.
@@ -460,7 +460,7 @@ Il segnale della radioattività misurato da un rilevatore posto al di fuori di u
 
 Considera un oggetto con una distribuzione dei coefficienti di attenuazione $\mu(x, y)$ e la distribuzione della radioattività $A(x, y)$ come mostrato alla figura 5.
 
-![[PLANCKS_2024_p6_f1.png]]
+![[prove/_attachments/plancks_2024/plancks_2024_p6_f1.png]]
 *Figura 5: oggetti con distribuzione arbitraria dell'attività $A(x, y)$ e distribuzione del coefficiente di attenuazione $\mu(x, y)$.*
 
 Supponiamo che il rilevatore abbia un'efficienza del 100% (cioè che tutti i fotoni che lo colpiscono sono rilevati) e che sia collimato (cioè che rilevera solo i fotoni emessi lungo una linea sottile). I fotoni emessi da una fonte puntaria in una direzione specifica sono proporzionali, per un fattore $k < 1$, al numero totale di fotoni emessi.
@@ -477,14 +477,14 @@ Come si potrebbe modificare questo quando si tiene conto dell'attuazione? Suppon
 
 Considera ora la parte superiore del cranio dello Stag, approssimata da un'ellisse con semi-asse $a$ e $b$, distribuzione arbitraria della radioattività $A(R, \vartheta)$ nelle coordinate polari e un costante coefficiente di attenuazione $\mu$ (vedi figura 6).
 
-![[PLANCKS_2024_p6_f2.png]]
+![[prove/_attachments/plancks_2024/plancks_2024_p6_f2.png]]
 *Figura 6: Ellisse con distribuzione arbitraria dell'attività e costante coefficiente di attenuazione.*
 
 **(b) ** [3 segni] Scrivere un'espressione, in coordinate polari, per il segnale misurato da una linea che attraversa l'origine degli assi ad un angolo $\vartheta$ all'asse $x$.
 
 Finora abbiamo assunto un rilevatore a puntine con risoluzione angolare infinita (cioè, rileva solo i fotoni emessi lungo una linea molto sottile). Il rilevatore ha ora un'apertura circolare di raggio $R$, come mostrato alla figura 7.
 
-![[PLANCKS_2024_p6_f3.png]]
+![[prove/_attachments/plancks_2024/plancks_2024_p6_f3.png]]
 *Figura 7: Distribuzione dell'attività in un piano, con apertura circolare del rilevatore.*
 
 Possiamo supporre che la radioattività sia ancora distribuita in un piano, ma che i fotoni siano emessi isotropicamente in una sfera.
@@ -493,7 +493,7 @@ Possiamo supporre che la radioattività sia ancora distribuita in un piano, ma c
 
 Il diagramma della figura 8 mostra la scansione dello Stag, con un diffuso assorbimento "di fondo" di radionuclide e due "punti" che rappresentano i ciocchini di corna.
 
-![[PLANCKS_2024_p6_f4.png]]
+![[prove/_attachments/plancks_2024/plancks_2024_p6_f4.png]]
 *Figura 8: Diagramma della scansione dello Stag.*
 
 - I numeri del rilevatore misurati lungo le due linee parallele sono $I_1 = 1.23 \ \mathrm{s^{-1}}$ e $I_2 = 1.15 \ \mathrm{s^{-1}}$.
@@ -600,7 +600,7 @@ Indicate le ipotesi che avete formulato per arrivare alle vostre risposte.
 
 An icosahedron consists of 20 equilateral triangles. It has 12 vertices and 30 edges, with 5 edges meeting at each vertex. Figure 9 shows an icosahedron and its net.
 
-![[PLANCKS_2024_p8_f1.png]]
+![[prove/_attachments/plancks_2024/plancks_2024_p8_f1.png]]
 *Figure 9: Icosahedron (left) and its 2D net (right).*
 
 Now imagine that this icosahedron was a component in a circuit, where each edge of the icosahedron is a $1 \ \Omega$ resistor.
@@ -622,7 +622,7 @@ You may use the model icosahedron kit provided to you.
 
 Un icosaedro è composto da 20 triangoli equilaterali. Ha 12 vertici e 30 bordi, con 5 bordi che si incontrano a ciascun vertice. La figura 9 mostra un icosaedro e la sua rete.
 
-![[PLANCKS_2024_p8_f1.png]]
+![[prove/_attachments/plancks_2024/plancks_2024_p8_f1.png]]
 *Figura 9: Icosahedron (a sinistra) e la sua rete 2D (a destra).*
 
 Ora immaginate che questo icosaedro fosse un componente in un circuito, dove ogni bordo dell'icosaedro è una resistenza $1 \ \Omega$.

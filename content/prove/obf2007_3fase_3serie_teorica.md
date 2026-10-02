@@ -671,7 +671,7 @@ função da energia dada em elétron-volts.
 **Topic:** [[Thermodynamics]], [[Geometric Optics]], [[Modern-Quantum Physics]]
 **Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Snell's Law (metodo)|Snell's Law]], [[Photon Energy Relation (metodo)|Photon Energy Relation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Heat Engine (object)|Heat Engine]], [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Photon (object)|Photon]]
+**Objects:** [[Heat Engine (object)|Heat Engine]], [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[Photon (object)|Photon]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1coZnryMgPr4Ql7cxrUaRz6sdbuhw3uVP/view)
 
 
@@ -751,7 +751,7 @@ funzione dell'energia data in elettronvolti.
 **Topic:** [[Thermodynamics]], [[Geometric Optics]], [[Modern-Quantum Physics]]
 **Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Snell's Law (metodo)|Snell's Law]], [[Photon Energy Relation (metodo)|Photon Energy Relation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Heat Engine (object)|Heat Engine]], [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Photon (object)|Photon]]
+**Objects:** [[Heat Engine (object)|Heat Engine]], [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[Photon (object)|Photon]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1coZnryMgPr4Ql7cxrUaRz6sdbuhw3uVP/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -830,5 +830,5 @@ the function of the energy given in electron volts.
 **Topic:** [[Thermodynamics]], [[Geometric Optics]], [[Modern-Quantum Physics]]
 **Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Snell's Law (metodo)|Snell's Law]], [[Photon Energy Relation (metodo)|Photon Energy Relation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Heat Engine (object)|Heat Engine]], [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Photon (object)|Photon]]
+**Objects:** [[Heat Engine (object)|Heat Engine]], [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]], [[Photon (object)|Photon]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1coZnryMgPr4Ql7cxrUaRz6sdbuhw3uVP/view)

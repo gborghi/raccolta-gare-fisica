@@ -227,7 +227,7 @@ Si considerino trascurabili i diametri dei due pioli e della pallina, la massa d
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1Mj8v2HU_Ium-PFkoCMoslh_-8okO1yUi/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hgMQEnebo93hKnwdy7EygwnFxzPNhdDn/view)
 
@@ -260,7 +260,7 @@ The diameters of the two poles and the ball, the mass of the wire, any internal 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1Mj8v2HU_Ium-PFkoCMoslh_-8okO1yUi/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hgMQEnebo93hKnwdy7EygwnFxzPNhdDn/view)
 

@@ -24,7 +24,7 @@ The Stern-Gerlach experiment was performed in 1922 and it eventually led to the 
 > *H. S. Mani (former Director, HRI, Prayagraj) and Gautam Datta (DAIICT, Gandhinagar) were the principal authors of this problem. The contributions of the Academic Committee, Academic Development Group, and the International Board are gratefully acknowledged.*
 
 <!--fig:start-->
-![[APhO_2022_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2022_theory/apho_2022_theory_q1_p1_f1.png]]
 *Figure 1: Schematic diagram of the Stern-Gerlach setup.*
 <!--fig:end-->
 
@@ -37,7 +37,7 @@ The Stern-Gerlach experiment was performed in 1922 and it eventually led to the 
 This part is concerned with the setup to create the inhomogeneous magnetic field ($dB/dx \neq 0$). It consists of a number of sub-parts. Two very long wires parallel to the $z$-axis carry currents of magnitude $I_0$ and are located at $A_1\,(0, -a, z)$ and $A_2\,(0, a, z)$ (see figure below). The direction of the current passing through $y = -a$ is $-\hat{k}$ and for the one passing through $y = a$ is $\hat{k}$. The entire system is inside a medium of high relative magnetic permeability $\mu_r$. We take $\mu = \mu_0 \mu_r$. The wires are insulated and no current leaks into the medium.
 
 <!--fig:start-->
-![[APhO_2022_theory_Q1_p2_f2.png]]
+![[prove/_attachments/apho_2022_theory/apho_2022_theory_q1_p2_f2.png]]
 *Figure 2: The arrangement for the inhomogeneous magnetic field.*
 <!--fig:end-->
 
@@ -78,7 +78,7 @@ L'esperimento di Stern-Gerlach fu eseguito nel 1922 e alla fine portò alla dete
 > *H. S. Mani (ex direttore dell'HRI, Prayagraj) e Gautam Datta (DAIICT, Gandhinagar) sono stati i principali autori di questo problema. I contributi del Comitato accademico, del gruppo di sviluppo accademico e del Consiglio internazionale sono riconosciuti con gratitudine.*
 
 <!--fig:start-->
-![[APhO_2022_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2022_theory/apho_2022_theory_q1_p1_f1.png]]
 *Figura 1: Schema di schema dell'impostazione Stern-Gerlach.*
 <!--fig:end-->
 
@@ -91,7 +91,7 @@ L'esperimento di Stern-Gerlach fu eseguito nel 1922 e alla fine portò alla dete
 Questa parte riguarda la configurazione per creare il campo magnetico inomogeneo ($dB/dx \neq 0$). Esso è costituito da un certo numero di sottoparti. Due fili molto lunghi paralleli all'asse $z$ trasportano correnti di magnitudo $I_0$ e si trovano a $A_1\,(0, -a, z)$ e $A_2\,(0, a, z)$ (vedere figura seguente). La direzione della corrente che passa attraverso $y = -a$ è $-\hat{k}$ e per quella che passa attraverso $y = a$ è $\hat{k}$. L'intero sistema è all'interno di un mezzo ad alta permeabilità magnetica relativa $\mu_r$. Prendiamo $\mu = \mu_0 \mu_r$. I fili sono isolati e non c'è alcuna fuga di corrente nel mezzo.
 
 <!--fig:start-->
-![[APhO_2022_theory_Q1_p2_f2.png]]
+![[prove/_attachments/apho_2022_theory/apho_2022_theory_q1_p2_f2.png]]
 *Figura 2: Disposizioni per il campo magnetico inomogeneo.*
 <!--fig:end-->
 
@@ -155,14 +155,14 @@ $$(1 + x)^n = 1 + nx + \frac{n(n-1)x^2}{2} + \frac{n(n-1)(n-2)x^3}{6} + \ldots$$
 > *Sitikantha Das (IIT Kharagpur) and Pramendra Ranjan Singh (Principal, Narayan College, J.P. University) were the principal authors of this problem. The contributions of the Academic Committee, Academic Development Group, and the International Board are gratefully acknowledged.*
 
 <!--fig:start-->
-![[APhO_2022_theory_Q2_p2_f1.png]]
+![[prove/_attachments/apho_2022_theory/apho_2022_theory_q2_p2_f1.png]]
 *Fig. 1: The bead on a rotating ring.*
 <!--fig:end-->
 
 In what follows we shall understand the dynamics of the bead in the frame of the rotating ring and for angles in the range $-\pi/2 < \theta < \pi/2$. The free body diagram of the bead is shown in Fig. 2. Neglect all forces other than the ones shown in the free body diagram.
 
 <!--fig:start-->
-![[APhO_2022_theory_Q2_p2_f2.png]]
+![[prove/_attachments/apho_2022_theory/apho_2022_theory_q2_p2_f2.png]]
 *Fig. 2: The free body diagram.*
 <!--fig:end-->
 
@@ -246,14 +246,14 @@ $$(1 + x)^n = 1 + nx + \frac{n(n-1)x^2}{2} + \frac{n(n-1)(n-2)x^3}{6} + \ldots$$
 • Sitikantha Das (IIT Kharagpur) e Pramendra Ranjan Singh (Principal, Narayan College, J.P. L'Università di Lisbona (Università di Lisbona) è stata la principale autrice di questo problema. I contributi del Comitato accademico, del gruppo di sviluppo accademico e del Consiglio internazionale sono riconosciuti con gratitudine.*
 
 <!--fig:start-->
-![[APhO_2022_theory_Q2_p2_f1.png]]
+![[prove/_attachments/apho_2022_theory/apho_2022_theory_q2_p2_f1.png]]
 *Fig. 1: la perla su un anello rotante.*
 <!--fig:end-->
 
 In quanto segue, comprenderemo la dinamica della perla nel quadro dell'anello rotante e per gli angoli nell'intervallo $-\pi/2 < \theta < \pi/2$. Il diagramma del corpo libero della perla è mostrato nella figura. 2. Ignorare tutte le forze diverse da quelle mostrate nel diagramma del corpo libero.
 
 <!--fig:start-->
-![[APhO_2022_theory_Q2_p2_f2.png]]
+![[prove/_attachments/apho_2022_theory/apho_2022_theory_q2_p2_f2.png]]
 *Fig. 2: Il diagramma del corpo libero.*
 <!--fig:end-->
 
@@ -388,7 +388,7 @@ Obtain the numerical value of $L$ in kilometers.
 **D.1** (2pt) **Height $H'$ of the Mountains as seen by an observer:** In the figure the point $P$ denotes Darjeeling, a hill station in the eastern Himalayas at height $h = 2042$ m above the sea level. The line $BS$ denotes Mt Everest which is $d = 170$ km away from Darjeeling and is of height $H = 8848$ m. Another peak Mount Kanchenjunga (not shown in the figure) is 75 km away from Darjeeling and is of height 8586 m. Obtain an expression and the numerical values of the vertical height $H'$ of these mountains as seen by an observer from Darjeeling in terms of the above-mentioned quantities. Assume that the observer is unable to see below the local horizon. Draw an appropriate figure. Take the radius $R$ of the Earth to be 6378 km.
 
 <!--fig:start-->
-![[APhO_2022_theory_Q3_p3_f1.png]]
+![[prove/_attachments/apho_2022_theory/apho_2022_theory_q3_p3_f1.png]]
 *Figure 1. Great circle on which lie the mountain $BS$ at height $H$ and the observer $P$ at height $h$. Note that the figure is not to scale.*
 <!--fig:end-->
 
@@ -479,7 +479,7 @@ Ricava il valore numerico di $L$ in chilometri.
 **D.1** (2pt) **Altezza $H'$ delle montagne vista da un osservatore:** Nella figura il punto $P$ indica Darjeeling, una stazione collinare nell'Himalaya orientale a un'altezza $h = 2042$ m sul livello del mare. La linea $BS$ indica il Monte Everest, che dista $d = 170$ km da Darjeeling e ha altezza $H = 8848$ m. Un'altra vetta, il Monte Kanchenjunga (non mostrata nella figura), dista 75 km da Darjeeling e ha altezza 8586 m. Ricava un'espressione e i valori numerici dell'altezza verticale $H'$ di queste montagne viste da un osservatore da Darjeeling in termini delle grandezze sopra menzionate. Si assuma che l'osservatore non sia in grado di vedere al di sotto dell'orizzonte locale. Disegna una figura appropriata. Si assuma che il raggio $R$ della Terra sia 6378 km.
 
 <!--fig:start-->
-![[APhO_2022_theory_Q3_p3_f1.png]]
+![[prove/_attachments/apho_2022_theory/apho_2022_theory_q3_p3_f1.png]]
 *Figura 1. Cerchio massimo su cui giacciono la montagna $BS$ ad altezza $H$ e l'osservatore $P$ ad altezza $h$. Si noti che la figura non è in scala.*
 <!--fig:end-->
 

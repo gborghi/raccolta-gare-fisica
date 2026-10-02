@@ -144,7 +144,7 @@ Usando questa figura, determina la velocità d'uscita $v$ dell'acqua se l'accele
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1R3AZ7KipvUr8N2VaBtDZ_VbqDsWKKDqT/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AME_jcq5jvUUiornE3WMcwCrRCjoB0va/view)
 
@@ -160,6 +160,6 @@ Using this figure, determine the water output speed $v$ if the gravitational acc
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1R3AZ7KipvUr8N2VaBtDZ_VbqDsWKKDqT/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AME_jcq5jvUUiornE3WMcwCrRCjoB0va/view)

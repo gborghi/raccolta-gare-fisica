@@ -37,13 +37,13 @@ In such a multilayer, two adjacent ferromagnetic layers have spontaneous magneti
 
 If a sufficiently strong magnetic field is applied parallel to the plane of the layers, then all ferromagnetic layers are magnetized in the same direction of the magnetic field. As a consequence, the electrons with spin parallel to the magnetization direction pass through the structure almost without scattering on magnetic moments. On the contrary, the electrons with spin antiparallel to the magnetization are scattered strongly within the ferromagnetic layers. Since conduction occurs in parallel for the two spin channels, the total resistance of the multilayer is determined mainly by the highly-conductive parallel-spin electrons and appears to be low (see Fig. 1b). In Figure 1, $R$ denotes the high resistance of the layer with strong scattering, and $r$ the low resistance of the layer with weak scattering. $R_0$ is the resistance of the structure in a zero magnetic field, and $R_B$ is that in a sufficiently strong magnetic field which makes the two adjacent ferromagnetic layers magnetized in the same direction. The equivalent electrical model (so-called "two resistor" model) of the GMR effect is shown at the bottom of Figure 1. The circuit of the model represents one GMR element.
 
-![Figure 1](_attachments/APhO_2018_exp/APhO_2018_exp_p2_f1.png)
+![[prove/_attachments/apho_2018_exp/apho_2018_exp_p2_f1.png|Figure 1]]
 
 **Figure 1:** GMR effect model. (1) magnetization; (2) electron path; (3) electron spin
 
 One of the applications of GMR is the magnetic sensor, also called magnetometer, which can be used to measure the strength of an applied magnetic field. A widely used GMR magnetic sensor consists of four GMR elements connected in a Wheatstone bridge as shown in Fig. 2b. Each GMR element consists of a multilayer structure as described in the above model. Two of these elements are shielded to prevent the applied magnetic field from reaching them, hence they are not sensitive to the external magnetic field. The magnetic sensor is packaged in an 8-pin device as shown in Fig. 2a. The supply voltage is connected to pins 4 and 8. The signal output is taken from pins 1 and 5. This is the normal way of operation. However, during solving the problem, you can connect the power supply to any other pair of pins without destroying the sensor. The axis of sensitivity of the sensor is indicated by the arrow on Fig. 2a. The magnetic sensor is not sensitive to an applied magnetic field which is perpendicular to this axis.
 
-![Figure 2](_attachments/APhO_2018_exp/APhO_2018_exp_p2_f2.png)
+![[prove/_attachments/apho_2018_exp/apho_2018_exp_p2_f2.png|Figure 2]]
 
 **Figure 2**
 
@@ -61,7 +61,7 @@ The aims of the experiment are:
 
 ### II. Apparatus
 
-![Figure 3](_attachments/APhO_2018_exp/APhO_2018_exp_p4_f1.png)
+![[prove/_attachments/apho_2018_exp/apho_2018_exp_p4_f1.png|Figure 3]]
 
 **Figure 3**
 
@@ -199,7 +199,7 @@ The integrated flux concentrator inside the magnetic sensor consists of two thin
 
 In order to study the effect of a flux concentrator on a magnetic sensor, we use an external flux concentrator made of two ferromagnetic sheets (as shown in Fig. 4) placed near the two ends of the sensor, with length $L_2$, and mutual distance $L_1$.
 
-![Figure 4](_attachments/APhO_2018_exp/APhO_2018_exp_p9_f1.png)
+![[prove/_attachments/apho_2018_exp/apho_2018_exp_p9_f1.png|Figure 4]]
 
 **Figure 4.** Diagram of the flux concentrator
 
@@ -286,7 +286,7 @@ You may carry out this experiment in the following way. Set the round plate [15]
 
 **1. Instructions for the multimeter**
 
-![Figure A1](_attachments/APhO_2018_exp/APhO_2018_exp_p12_f1.png)
+![[prove/_attachments/apho_2018_exp/apho_2018_exp_p12_f1.png|Figure A1]]
 
 **Figure A1**
 
@@ -311,7 +311,7 @@ To avoid automatic switching off, press the SELECT Key while rotating the Functi
 
 The circuit of the battery is given in Fig. A2. The battery is switched on when the button is pressed, and is switched off when the button is released.
 
-![Figure A2](_attachments/APhO_2018_exp/APhO_2018_exp_p13_f2.png)
+![[prove/_attachments/apho_2018_exp/apho_2018_exp_p13_f2.png|Figure A2]]
 
 **Figure A2**
 
@@ -597,7 +597,7 @@ Potete eseguire questo esperimento nel modo seguente. Impostare la piastra roton
 
 **1. Instruzioni per il multimetro**
 
-![Figura A1](_attaccamenti/APhO_2018_exp/APhO_2018_exp_p12_f1.png)
+![[prove/_attachments/apho_2018_exp/apho_2018_exp_p12_f1.png|Figura A1]]
 
 **Figura A1**
 
@@ -622,7 +622,7 @@ Per evitare l' spegnimento automatico, premere il tasto SELECT mentre ruota il s
 
 Il circuito della batteria è indicato in figura 2. A2. La batteria si accende quando si premono i pulsanti e si spegne quando viene rilasciato il pulsante.
 
-![Figura A2](_attaccamenti/APhO_2018_exp/APhO_2018_exp_p13_f2.png)
+![[prove/_attachments/apho_2018_exp/apho_2018_exp_p13_f2.png|Figura A2]]
 
 **Figura A2**
 

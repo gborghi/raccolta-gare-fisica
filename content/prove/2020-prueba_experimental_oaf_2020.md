@@ -97,7 +97,7 @@ En la siguiente tabla se recogen los valores de longitud libre del tubo, $L_n$, 
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Piston (object)|Piston]], [[Gas (object)|Gas]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Piston (object)|Piston]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/13-lINr5CTTpE3ykkP816hVvIeN4frUL3/view)
 
 
@@ -181,7 +181,7 @@ La tabella seguente rileva i valori di lunghezza libera del tubo, $L_n$, misurat
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Piston (object)|Piston]], [[Gas (object)|Gas]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Piston (object)|Piston]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/13-lINr5CTTpE3ykkP816hVvIeN4frUL3/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -264,5 +264,5 @@ The following table summarizes the tube free length values, $L_n$, measured for 
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Piston (object)|Piston]], [[Gas (object)|Gas]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Piston (object)|Piston]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/13-lINr5CTTpE3ykkP816hVvIeN4frUL3/view)

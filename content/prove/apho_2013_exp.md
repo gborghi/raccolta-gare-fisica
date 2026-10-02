@@ -21,7 +21,7 @@ tags:
 
 ### I. Apparatus
 
-![[APhO_2013_exp_p1_f1.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p1_f1.png]]
 *Figure 1. Overall setup.*
 
 1. Wind tunnel with nichrom (nickel-chromium) wire
@@ -74,7 +74,7 @@ This experiment is divided into five sections:
 
 We will explore basic theoretical aspects of wind power and power conversion efficiency of a wind turbine.
 
-![[APhO_2013_exp_p3_f1.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p3_f1.png]]
 *Figure 3. (a) A tubular packet of wind. (b) A wind turbine intercepting the wind flow.*
 
 **[A.1]** Consider a packet of air with mass density $\rho_A$ flowing through a tube with a cross section area $A_0$ as shown in Figure 3(a). Show that the power contained in the wind is:
@@ -120,7 +120,7 @@ Measuring the rotation speed of the motor or wind turbine is important in wind p
 - **D.** **WARNING:** If you need to read the voltage from the power supply, you can use a DMM (digital multimeter) to get more significant figures.
 - **E.** **WARNING:** If you are using the DMM as an ampere-meter beware of the range limit. If you blow the DMM fuse only one replacement is provided.
 
-![[APhO_2013_exp_p4_f1.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p4_f1.png]]
 *Figure 4. Opto-sensor output connection to the DMM #1 that works as voltmeter or frequency meter.*
 
 **[B.1]** With no power to the motor, switch DMM #1 to voltmeter mode (labeled V on the DMM) and rotate the fan manually and slowly and you will see the voltage is changing. Roughly plot the opto-sensor's signal as a function of blade rotation (or time). Indicate the period of the signal.
@@ -132,7 +132,7 @@ $$
 v = 0.0873\ \text{meter} \times f_M \tag{4}
 $$
 
-![[APhO_2013_exp_p5_f1.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p5_f1.png]]
 *Figure 5. Wind velocity (at the center of the tunnel) vs. the motor fan rotation frequency.*
 
 **[B.2]** The motor fan has fairly fixed mechanical efficiency (ratio of the wind power $P_W$ generated over the input electrical power to the motor fan $P_M$) for the rated voltage: $3\ \text{V} < V_M < 12\ \text{V}$. This mechanical efficiency is given by $\eta_M = P_W/P_M$. Perform an experiment to determine the mechanical efficiency $\eta_M$ and the power factor $n$ for the wind power $P_W$ in Eq. 1. Sketch your connection diagram.
@@ -142,7 +142,7 @@ $$
 
 Measuring wind speed is a primary metrology activity in wind power engineering. We will investigate a very simple method to measure wind speed using a ping pong ball pendulum as shown in Figure 6.
 
-![[APhO_2013_exp_p5_f2.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p5_f2.png]]
 *Figure 6. Ping pong ball anemometer experiment.*
 
 The principle of operation is very simple, the wind will impose a drag force and deflect the ping pong pendulum by an angle $\theta$. This drag force is given by:
@@ -170,7 +170,7 @@ where $C_D$ is the drag coefficient of the object, $\rho_A$ is the density of th
 
 The ping pong ball anemometer we studied just now is not really suitable for practical applications that usually require electrical read-out. Thus, we will investigate another method of measuring wind speed: hot-wire anemometer (HWA). HWA utilizes a filament that becomes hot as electrical current is passed through it. As the wind blows, it introduces forced convection that takes away heat from the filament so the temperature (and thus the resistance) of the filament will drop as shown in Figure 7 (unless compensated by increasing the electrical power). This phenomenon can be exploited to measure the wind speed. In this experiment we will study the characteristics of the hot wire with respect to varying wind velocity.
 
-![[APhO_2013_exp_p6_f1.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p6_f1.png]]
 *Figure 7. Hot wire anemometer with wind blowing into the plane.*
 
 We use a metal (tungsten) filament from an ordinary light bulb where the bulb is intentionally broken to expose the filament. For a small change of temperature, the filament resistance follows a linear relationship:
@@ -205,15 +205,15 @@ Now we will perform experiments to determine the value of $b/a$ and $c$ with two
 
 Mount the hotwire filament to a steel rod as shown in Figure 8(a) and put it inside the wind tunnel through the hole (you can rotate the wind tunnel). When you insert the hotwire into the wind tunnel, make sure you have the correct orientation: the largest cross section of the hotwire filament is perpendicular to the wind flow, see Figure 8(b). **WARNING:** Please don't touch the filament.
 
-![[APhO_2013_exp_p8_f1.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p8_f1.png]]
 *Figure 8. (a) Hotwire filament. (b) Hotwire filament in the wind tunnel.*
 
 The two experiments require some electronic circuit to perform which we provide in an electronic box, see Figure 9 below. To perform each of the experiments, you will only need one side of the circuit. There is a small switch on the top of the box to toggle between the two, labeled as CTA (Constant Temperature Anemometer) and CCA (Constant Current Anemometer).
 
-![[APhO_2013_exp_p8_f2.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p8_f2.png]]
 *Figure 9. (a) Hotwire electronic box. (b) Constant Temperature Anemometer (CTA) circuit. (c) Constant Current Anemometer (CCA) circuit.*
 
-![[APhO_2013_exp_p9_f1.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p9_f1.png]]
 *Figure 10. (a) Constant temperature anemometer (CTA) setup on the left. (b) Constant current anemometer (CCA) setup on the right.*
 
 ##### [D.1] Constant Temperature Method [3.2 pts]
@@ -322,7 +322,7 @@ $$
 
 #### [E] Wind Turbine [5.6 pt]
 
-![[APhO_2013_exp_p12_f1.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p12_f1.png]]
 *Figure 11. The wind turbine experiment setup.*
 
 We will explore the physics of the wind turbine and investigate its power conversion efficiency. In this experiment we use a simple DC motor to serve as a wind turbine that converts the mechanical power from the rotor into electrical power.
@@ -339,7 +339,7 @@ where $\Omega$ is the angular speed of the blade, $R$ is the radius of the blade
 
 The motor turbine has an equivalent internal circuit as shown below. A rotating coil provides electromotive force (emf) voltage when the motor rotates. There is an effective series resistance $R_M$, which is the sum of the resistance of the rotor coil inside the motor. $R_M$ is small but not negligible (< 2 $\Omega$). Thus the real motor can be modeled as an ideal motor (whose coil has no resistance) plus a series resistance $R_M$ as shown below.
 
-![[APhO_2013_exp_p13_f1.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p13_f1.png]]
 *Figure 12. The equivalent circuit of the motor (wind turbine).*
 
 **[E.1]** Determine the internal series resistance of the motor turbine $R_M$. Note that the moving contact between the rotor and stator brush of the DC motor (see Figure 12) may add extra resistance that varies with the position of the turbine blade.
@@ -356,7 +356,7 @@ If you need a constant current source you can use the hotwire electronic box in 
 - **B.** You will need to measure two frequencies in this experiment: the wind generator frequency (to obtain the wind speed) and the wind turbine frequency. You can do this by combining the connection as shown in Figure 13(a). You can use the black crocodile clip to switch between reading wind generator or wind turbine.
 - **C.** Connect the nichrom wire as load to the motor turbine using crocodile clips. You can measure the voltage across the wire section separately by simply connecting the voltmeter at both ends of the nichrom wire as shown in Figure 13(b).
 
-![[APhO_2013_exp_p14_f1.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p14_f1.png]]
 *Figure 13. (a) Connection to read two frequencies. (b) Connection to the nichrom wire as a load. Note that the voltmeter is connected at both ends of the nichrom wire.*
 
 **[E.3]** Perform an experiment to determine the optimum load $R_L$ for maximum power transfer. Plot the power delivered to $R_L$ vs. $R_L$ or nichrom length $l$. What do you expect theoretically for $R_L$?
@@ -380,7 +380,7 @@ The wind turbine efficiency $\eta_{WT}$ is defined as the ratio of power deliver
 
 ### I. Apparecchi
 
-![[APhO_2013_exp_p1_f1.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p1_f1.png]]
 *Figura 1. Impostazione complessiva.*
 
 1. Telle di vento con filo di nichromo (niccholo-cromo)
@@ -433,7 +433,7 @@ Questo esperimento è diviso in cinque sezioni:
 
 Esploreremo gli aspetti teorici di base dell'energia eolica e dell'efficienza di conversione di energia di una turbina eolica.
 
-![[APhO_2013_exp_p3_f1.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p3_f1.png]]
 *Figura 3. (a) Un pacchetto tubulare di vento. (b) A wind turbine intercepting the wind flow.*
 
 **[A.1]** Si consideri un pacchetto di aria con densità di massa $\rho_A$ che scorre attraverso un tubo con un'area di sezione trasversale $A_0$ come mostrato alla figura 3(a). Mostra che la potenza contenuta nel vento è:
@@ -479,7 +479,7 @@ La misurazione della velocità di rotazione del motore o della turbina eolica è
 - **D.** ** AVVERTORE:** Se è necessario leggere la tensione dell'alimentazione, è possibile utilizzare un DMM (multimetro digitale) per ottenere cifre più significative.
 - **E.** ** AVVERTORE: ** Se si utilizza il DMM come ampere-metro, si faccia attenzione al limite di autonomia. Se si fa saltare il fusibile DMM, viene fornito solo un sostituto.
 
-![[APhO_2013_exp_p4_f1.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p4_f1.png]]
 *Figura 4. Connessione di uscita del sensore ottico al DMM # 1 che funziona come voltmeter o frequenza.*
 
 **[B.1]** Senza energia al motore, passare il DMM #1 alla modalità voltmeter (etichettata V sul DMM) e girare il ventilatore manualmente e lentamente e vedrai che la tensione cambia. Il segnale dell'ottrosensore è descritto in modo diretto come funzione della rotazione della lama (o del tempo). Indicare il periodo del segnale.
@@ -491,7 +491,7 @@ $$
 v = 0.0873\ \text{meter} \times f_M \tag{4}
 $$
 
-![[APhO_2013_exp_p5_f1.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p5_f1.png]]
 *Figura 5. Velocità del vento (al centro del tunnel) vs. la frequenza di rotazione del ventilatore del motore.*
 
 **[B.2]** The motor fan has fairly fixed mechanical efficiency (ratio of the wind power $P_W$ generated over the input electrical power to the motor fan $P_M$) for the rated voltage: $3\ \text{V} < V_M < 12\ \text{V}$. Questa efficienza meccanica è data da $\eta_M = P_W/P_M$. eseguire un esperimento per determinare l'efficienza meccanica $\eta_M$ e il fattore di potenza $n$ per la potenza eolica $P_W$ in Eq. 1. Segna il tuo diagramma di connessione.
@@ -501,7 +501,7 @@ $$
 
 La misurazione della velocità del vento è un'attività primaria di metrologia nell'ingegneria dell'energia eolica. Esamineremo un metodo molto semplice per misurare la velocità del vento utilizzando un pendolo a palla di ping pong come mostrato nella Figura 6.
 
-![[APhO_2013_exp_p5_f2.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p5_f2.png]]
 *Figura 6. Ping pong ball anemometer experiment.*
 
 Il principio di funzionamento è molto semplice, il vento impone una forza di trazione e devia il pendolo del ping pong da un angolo $\theta$. Questa forza di trazione è data da:
@@ -529,7 +529,7 @@ se $C_D$ è il coefficiente di resistenza dell'oggetto, $\rho_A$ è la densità 
 
 L'anemometro di palline di ping-pong che abbiamo appena studiato non è proprio adatto per applicazioni pratiche che di solito richiedono una lettura elettrica. Quindi, esamineremo un altro metodo per misurare la velocità del vento: l'anemometro a filo caldo (HWA). L'HWA utilizza un filamento che diventa caldo quando la corrente elettrica passa attraverso di esso. Quando il vento soffia, essa introduce una convezione forzata che toglie il calore dal filamento in modo che la temperatura (e quindi la resistenza) del filamento scenda come mostrato nella figura 7 (a meno che non venga compensata aumentando la potenza elettrica). Questo fenomeno può essere sfruttato per misurare la velocità del vento. In questo esperimento studieremo le caratteristiche del filo caldo rispetto alla varia velocità del vento.
 
-![[APhO_2013_exp_p6_f1.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p6_f1.png]]
 *Figura 7. Anemometro a filo caldo con vento che soffia nell'aereo.*
 
 Utilizziamo un filamento di metallo (tungsten) da una lampadina ordinaria dove la lampadina viene intenzionalmente rotta per esporre il filamento. Per un piccolo cambiamento di temperatura, la resistenza del filamento segue una relazione lineare:
@@ -564,15 +564,15 @@ Ora faremo esperimenti per determinare il valore di $b/a$ e $c$ con due metodi d
 
 Montaggiare il filamento di filo a caldo su una canna di acciaio come mostrato nella figura 8(a) e inserirlo all'interno del tunnel del vento attraverso il foro (potete ruotare il tunnel del vento). Quando inserire il cavo caldo nel tunnel del vento, assicurarsi di avere l'orientamento corretto: la sezione trasversale più grande del filamento del cavo caldo è perpendicolare al flusso del vento, vedi figura 8(b). ** AVVERTORE: ** Non toccare il filamento.
 
-![[APhO_2013_exp_p8_f1.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p8_f1.png]]
 *Figura 8. (a) Filamento a filo a caldo. (b) Hotwire filament in the wind tunnel.*
 
 I due esperimenti richiedono un circuito elettronico per eseguire che forniamo in una scatola elettronica, vedi figura 9 di seguito. Per eseguire ciascuno degli esperimenti, avrai bisogno solo di un lato del circuito. In cima alla scatola c'è un piccolo interruttore per passare tra i due, etichettato come CTA (Continent Temperature Anemometer) e CCA (Continent Current Anemometer).
 
-![[APhO_2013_exp_p8_f2.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p8_f2.png]]
 *Figura 9. a) Cassa elettronica a fili caldi. b) Circuito di Anemometro di Temperatura Costante (CTA). (c) Circuito di anemometro a corrente continua (CCA).*
 
-![[APhO_2013_exp_p9_f1.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p9_f1.png]]
 *Figura 10. a) Impostazione dell'anemometro di temperatura costante (CTA) a sinistra. b) Impostazione dell'anemometro di corrente costante (CCA) sulla destra.*
 
 ##### [D.1] Metodo di temperatura costante [3,2 pts]
@@ -681,7 +681,7 @@ f) Registrare i dati sulla scheda delle risposte e tracciare il grafico per dete
 
 #### [E] Turbina eolica [5,6 pt]
 
-![[APhO_2013_exp_p12_f1.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p12_f1.png]]
 *Figura 11. The wind turbine experiment setup.*
 
 Esploreremo la fisica della turbina e la sua efficienza di conversione di energia. In questo esperimento usiamo un semplice motore a corrente continua per servire come turbina eolica che converte la potenza meccanica del rotore in potenza elettrica.
@@ -698,7 +698,7 @@ dove $\Omega$ è la velocità angolare della lama, $R$ è il raggio della superf
 
 La turbina motore ha un circuito interno equivalente come mostrato di seguito. Una bobina rotante fornisce una tensione di forza elettromottiva (emf) quando il motore ruota. C'è una resistenza di serie efficace $R_M$, che è la somma della resistenza della bobina del rotore all'interno del motore. $R_M$ è piccolo ma non trascurabile (< 2 $\Omega$). Il motore reale può quindi essere modellato come motore ideale (la cui bobina non ha resistenza) più una resistenza di serie $R_M$ come mostrato di seguito.
 
-![[APhO_2013_exp_p13_f1.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p13_f1.png]]
 *Figura 12. Il circuito equivalente del motore (turbina a vento).*
 
 **[E.1]** Determinare la resistenza interna della serie della turbina motrice $R_M$. Si noti che il contatto in movimento tra il rotore e la spazzola statore del motore DC (vedere figura 12) può aggiungere una resistenza aggiuntiva che varia con la posizione della lama della turbina.
@@ -715,7 +715,7 @@ Se avete bisogno di una fonte di corrente costante, potete usare la casella elet
 - **B.** In questo esperimento dovrete misurare due frequenze: la frequenza del generatore eolico (per ottenere la velocità del vento) e la frequenza delle turbine eoliche. Questo è possibile combinando la connessione come mostrato nella figura 13 ((a). Puoi usare il clip di coccodrillo nero per passare tra il generatore eolico di lettura o la turbina eolica.
 - **C.** Collegare il filo nichrom come carico alla turbina motoria utilizzando clip di coccodrillo. Si può misurare la tensione attraverso la sezione del filo separatamente semplicemente collegando il voltmeter alle entrambe estremità del filo nichrom come mostrato nella figura 13 ((b).
 
-![[APhO_2013_exp_p14_f1.png]]
+![[prove/_attachments/apho_2013_exp/apho_2013_exp_p14_f1.png]]
 *Figura 13. a) Connessione per la lettura di due frequenze. b) Connessione al filo nichromato come carico. Note that the voltmeter is connected at both ends of the nichrom wire.*
 
 **[E.3]** Eseguire un esperimento per determinare il carico ottimale $R_L$ per il trasferimento massimo di potenza. In grafico la potenza consegnata a $R_L$ vs. $R_L$ o lunghezza di nichrom $l$. Cosa ci aspetti teoricamente per $R_L$?

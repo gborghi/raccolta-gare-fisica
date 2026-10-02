@@ -43,7 +43,7 @@ Le due pareti di rame sono cortocircuitate esternamente e un campo magnetico uni
 **Topic:** [[Electromagnetism]], [[Fluid Mechanics]], [[Special Relativity]]
 **Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Wave Equation (metodo)|Wave Equation]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1FWwz4qJRF01e7QD9VjSmPLeoRCmlfgoE/view)
 
 
@@ -77,5 +77,5 @@ Now the magnetic field is removed and mercury is replaced with water flowing at 
 **Topic:** [[Electromagnetism]], [[Fluid Mechanics]], [[Special Relativity]]
 **Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Wave Equation (metodo)|Wave Equation]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1FWwz4qJRF01e7QD9VjSmPLeoRCmlfgoE/view)

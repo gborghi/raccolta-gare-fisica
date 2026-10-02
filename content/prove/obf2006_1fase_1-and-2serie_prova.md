@@ -1137,7 +1137,7 @@ Está(ão) correta(s):
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1U9HKAmWN1QLD7U2Wcur7FdUj69Xh2Q1u/view)
 
 
@@ -1161,7 +1161,7 @@ IV - aumentare la lunghezza del tubo che va dal vassoio all'acqua fino al doccia
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1U9HKAmWN1QLD7U2Wcur7FdUj69Xh2Q1u/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1184,7 +1184,7 @@ It is not correct:
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1U9HKAmWN1QLD7U2Wcur7FdUj69Xh2Q1u/view)
 
 
@@ -1267,7 +1267,7 @@ Um tanque em forma de paralelepípedo reto mede 4 m por 5 m por 3 m e está tota
 **Topic:** [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1U9HKAmWN1QLD7U2Wcur7FdUj69Xh2Q1u/view)
 
 
@@ -1284,7 +1284,7 @@ Un serbatoio a forma di parallelepiedo retto misura 4 metri per 5 metri per 3 me
 **Topic:** [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1U9HKAmWN1QLD7U2Wcur7FdUj69Xh2Q1u/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1300,7 +1300,7 @@ A straight parallel-piped tank measures 4 m by 5 m by 3 m and is completely fill
 **Topic:** [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1U9HKAmWN1QLD7U2Wcur7FdUj69Xh2Q1u/view)
 
 
@@ -1656,7 +1656,7 @@ No sistema representado ao lado, a massa da polia e da corda são desprezíveis,
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1U9HKAmWN1QLD7U2Wcur7FdUj69Xh2Q1u/view)
 
 
@@ -1678,7 +1678,7 @@ Nel sistema raffigurato accanto, la massa della poli e della corda è dispregiat
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1U9HKAmWN1QLD7U2Wcur7FdUj69Xh2Q1u/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1699,7 +1699,7 @@ In the system depicted next to it, the mass of the polish and rope is negligible
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1U9HKAmWN1QLD7U2Wcur7FdUj69Xh2Q1u/view)
 
 

@@ -60,7 +60,7 @@ Each of the figures below depict a constellation. Find the odd one out. [3]
 
 <!--fig:start-->
 **Quesito 2**
-![[inaoSr2009-Q_p3_f1.png]]
+![[_attachments/inaosr2009-q/inaosr2009-q_p3_f1.png]]
 <!--fig:end-->
 
 - (a)
@@ -81,7 +81,7 @@ Ciascuna delle figure di seguito raffigura una costellazione. Trova la strana. [
 
 <!--fig:start-->
 **Quesito 2**
-![[inaoSr2009-Q_p3_f1.png]]
+![[_attachments/inaosr2009-q/inaosr2009-q_p3_f1.png]]
 <!--fig:end-->
 
 - (a)
@@ -292,7 +292,7 @@ In the following figure, A, B, C are three light source positions with respect t
 
 <!--fig:start-->
 **Quesito 8**
-![[inaoSr2009-Q_p4_f1.png]]
+![[_attachments/inaosr2009-q/inaosr2009-q_p4_f1.png]]
 <!--fig:end-->
 
 - (a) A
@@ -313,7 +313,7 @@ Nella figura seguente, A, B e C sono tre posizioni della fonte luminosa rispetto
 
 <!--fig:start-->
 **Quesito 8**
-![[inaoSr2009-Q_p4_f1.png]]
+![[_attachments/inaosr2009-q/inaosr2009-q_p4_f1.png]]
 <!--fig:end-->
 
 - (a) A
@@ -339,7 +339,7 @@ The following figure shows skeleton chart of the Orion constellation. Approximat
 
 <!--fig:start-->
 **Quesito 9**
-![[inaoSr2009-Q_p4_f2.png]]
+![[_attachments/inaosr2009-q/inaosr2009-q_p4_f2.png]]
 <!--fig:end-->
 
 - (a) A
@@ -360,7 +360,7 @@ La figura seguente mostra la grafica scheletrica della costellazione di Orione. 
 
 <!--fig:start-->
 **Quesito 9**
-![[inaoSr2009-Q_p4_f2.png]]
+![[_attachments/inaosr2009-q/inaosr2009-q_p4_f2.png]]
 <!--fig:end-->
 
 - (a) A
@@ -386,7 +386,7 @@ Find the resultant focal length for following system where the radius of curvatu
 
 <!--fig:start-->
 **Quesito 10**
-![[inaoSr2009-Q_p4_f3.png]]
+![[_attachments/inaosr2009-q/inaosr2009-q_p4_f3.png]]
 <!--fig:end-->
 
 - (a) 40 cm
@@ -407,7 +407,7 @@ Trova la distanza focale risultante per il sistema di seguimento in cui il raggi
 
 <!--fig:start-->
 **Quesito 10**
-![[inaoSr2009-Q_p4_f3.png]]
+![[_attachments/inaosr2009-q/inaosr2009-q_p4_f3.png]]
 <!--fig:end-->
 
 - (a) 40 cm
@@ -678,13 +678,13 @@ dove $a$, $b$, $c$, $d$ sono integri positivi. Trova $a$, $b$, $c$, $d$. [8]
 
 <!--fig:start-->
 **Quesito 18**
-![[inaoSr2009-Q_p6_f1.png]]
+![[_attachments/inaosr2009-q/inaosr2009-q_p6_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Mathematics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Sphere (object)|Sphere]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Apuq2cIK4BBIXimvVUnM3VzmbwlIw9yr/view)
 
 
@@ -694,13 +694,13 @@ Kedar ha inviato un contenitore di marmi da Mumbai a Parag a Pune. Il contenitor
 
 <!--fig:start-->
 **Quesito 18**
-![[inaoSr2009-Q_p6_f1.png]]
+![[_attachments/inaosr2009-q/inaosr2009-q_p6_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Mathematics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Sphere (object)|Sphere]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Apuq2cIK4BBIXimvVUnM3VzmbwlIw9yr/view)
 
 

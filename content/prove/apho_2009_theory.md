@@ -21,7 +21,7 @@ tags:
 
 A thin-walled cylinder of mass $M$ and rough inner surface of radius $R$ can rotate about its fixed central horizontal axis OZ. The Z-axis is perpendicular to and out of the page. Another smaller uniform solid cylinder of mass $m$ and radius $r$ rolls without slipping (except for question 1.8) on the inner surface of $M$ about its own central axis which is parallel to OZ.
 
-![[APhO_2009_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2009_theory/apho_2009_theory_q1_p1_f1.png]]
 
 **1.1)** The rotation of $M$ is to be started from rest at the instant $t = 0$ when $m$ is resting at the lowest point. At a later time $t$ the angular position of the centre of mass of $m$ is $\theta$ and by then $M$ has turned through an angle $\varphi$ radians. How many radians (designated $\psi$) would have mass $m$ turned through about its central axis relative to a fixed line (for example, the negative Y-axis)? Give your answer in terms of $\theta$, $\varphi$, $R$ and $r$. *(0.8 point)*
 
@@ -53,7 +53,7 @@ A thin-walled cylinder of mass $M$ and rough inner surface of radius $R$ can rot
 
 Un cilindro a pareti sottili di massa $M$ e superficie interna ruvida di raggio $R$ può ruotare intorno al suo asse centrale orizzontale fisso OZ. L'asse Z è perpendicolare verso e fuori la pagina. Un altro cilindro solido più piccolo, uniforme, di massa $m$ e di raggio $r$ ruota senza scivolare (ad eccezione della domanda 1.8) sulla superficie interna di $M$ intorno al suo asse centrale, parallelo all'OZ.
 
-![[APhO_2009_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2009_theory/apho_2009_theory_q1_p1_f1.png]]
 
 **1.1) ** La rotazione di $M$ deve essere avviata dal riposo all'istante $t = 0$ quando $m$ si riposa al punto più basso. In un secondo momento $t$ la posizione angolare del centro di massa di $m$ è $\theta$ e a quel punto $M$ ha attraversato un angolo $\varphi$ radiani. Quanti radiani (denominati $\psi$) avrebbero massa $m$ girata intorno al suo asse centrale rispetto a una linea fissa (ad esempio, l'asse Y negativo)? Rispondi in termini di $\theta$, $\varphi$, $R$ e $r$. *(0,8 punti) *
 
@@ -90,7 +90,7 @@ Un cilindro a pareti sottili di massa $M$ e superficie interna ruvida di raggio 
 
 A metallic disc of radius $a$ mounted on a slender axle is rotating with a constant angular velocity $\omega$ inside a long solenoid of inductance $L$ whose two ends are connected to the rotating disc by two brush contacts as shown. The total resistance of the whole circuit is $R$. A small magnetic disturbance can initiate the growth of an induced electromotive force across the terminals P, Q.
 
-![[APhO_2009_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2009_theory/apho_2009_theory_q2_p1_f1.png]]
 
 **2.1)** Write down the differential equation for $i(t)$, the current through the circuit. Express your answer in terms of $L$, $R$ and the induced e.m.f. $(E)$ across the terminals P and Q. *(1.0 point)*
 
@@ -118,7 +118,7 @@ A metallic disc of radius $a$ mounted on a slender axle is rotating with a const
 
 Un disco metallico di raggio $a$ montato su un asse sottile ruota a velocità angolare costante $\omega$ all'interno di un lungo solenoide di inductanza $L$ le cui estremità sono collegate al disco rotante da due contatti di spazzola come mostrato. La resistenza totale di tutto il circuito è $R$. Un piccolo disturbo magnetico può avviare la crescita di una forza elettromotrice indotta attraverso i terminali P, Q.
 
-![[APhO_2009_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2009_theory/apho_2009_theory_q2_p1_f1.png]]
 
 **2.1) ** Scrivi l'equazione differenziale per $i(t)$, la corrente attraverso il circuito. Esprimere la risposta in termini di $L$, $R$ e l'e.m.f. indotta. $(E)$ attraverso i terminali P e Q. *(1,0 punto) *
 
@@ -151,11 +151,11 @@ Un disco metallico di raggio $a$ montato su un asse sottile ruota a velocità an
 
 The purpose is to estimate the lifetime of a (hemispherical) drop of a liquid sitting on top of a very thin layer of vapour which is thermally insulating the drop from the very hot plate below.
 
-![[APhO_2009_theory_Q3_p1_f1.png]]
+![[prove/_attachments/apho_2009_theory/apho_2009_theory_q3_p1_f1.png]]
 
 It will be assumed here that the flow of vapour underneath the drop is streamline and behaves as a Newtonian fluid of viscosity coefficient $\eta$ and of thermal conductivity $K$. The specific latent heat of vaporization of the liquid is $\ell$. And for a Newtonian fluid we have the shear stress $\dfrac{F}{A} = \eta \times$ the rate of shear $\dfrac{dv}{dz}$ where $v$ is the flow velocity and $z$ is the perpendicular distance to the direction of flow, and the direction of $F$ is tangential to the surface area $A$.
 
-![[APhO_2009_theory_Q3_p1_f2.png]]
+![[prove/_attachments/apho_2009_theory/apho_2009_theory_q3_p1_f2.png]]
 
 $v$ is the velocity of vapour in the radial direction at the height $z$ above the mid-plane. The pressure $P$ inside the vapour must be higher towards the centre O. This will result in the out-flowing of vapour and in force that holds the drop against the pull of gravity. The thickness of vapour layer under thermal and mechanical equilibria is $b$.
 
@@ -195,11 +195,11 @@ Il fenomeno del gelo di Leiden
 
 Lo scopo è di stimare la durata di una goccia (emisferica) di liquido che si trova sopra uno strato di vapore molto sottile che isola termicamente la goccia dalla piastra molto calda sotto.
 
-![[APhO_2009_theory_Q3_p1_f1.png]]
+![[prove/_attachments/apho_2009_theory/apho_2009_theory_q3_p1_f1.png]]
 
 Si presume che il flusso di vapore sotto la goccia sia razionalizzato e si comporti come un fluido newtoniano con un coefficiente di viscosità $\eta$ e di conduttività termica $K$. Il calore latente specifico della vaporizzazione del liquido è $\ell$. E per un fluido newtoniano abbiamo la tensione di taglio $\dfrac{F}{A} = \eta \times$ il tasso di taglio $\dfrac{dv}{dz}$ dove $v$ è la velocità di flusso e $z$ è la distanza perpendicolare alla direzione del flusso, e la direzione di $F$ è tangenziale alla superficie $A$.
 
-![[APhO_2009_theory_Q3_p1_f2.png]]
+![[prove/_attachments/apho_2009_theory/apho_2009_theory_q3_p1_f2.png]]
 
 $v$ è la velocità del vapore nella direzione radial all'altezza $z$ sopra il piano medio. La pressione $P$ all'interno del vapore deve essere superiore verso il centro O. Ciò causerà l'uscita di vapore e la forza che sostiene la caduta contro la forza di gravità. Lo spessore dello strato di vapore sotto equilibrio termico e meccanico è $b$.
 

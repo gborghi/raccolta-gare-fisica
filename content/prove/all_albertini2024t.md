@@ -615,7 +615,7 @@ Unità di misura: m. Precisione richiesta: 0.5%.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1KzKrPRfAznVXeniZ35S9ouOyfDddg3y3/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1ZWmHDFCOaXFlo-6BnQ1F_p4XoTr2Og7K/view)
 
@@ -636,6 +636,6 @@ Unit of measurement: m. Precision required: 0.5%.
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1KzKrPRfAznVXeniZ35S9ouOyfDddg3y3/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1ZWmHDFCOaXFlo-6BnQ1F_p4XoTr2Og7K/view)

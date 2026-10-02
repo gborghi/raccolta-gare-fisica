@@ -85,7 +85,7 @@ a) (3 punti) Calcolare la lunghezza massima dei capelli che può crescere in tut
 
 <!--fig:start-->
 **Quesito 3**
-![[INAO2020-Questions-en_p2_f1.png]]
+![[_attachments/inao2020-questions-en/inao2020-questions-en_p2_f1.png]]
 <!--fig:end-->
 
 1. He makes a circumscribing square of the circle.
@@ -110,7 +110,7 @@ Hint: Eliminate white squares one by one, starting from corners, to arrive at th
 
 <!--fig:start-->
 **Quesito 3**
-![[INAO2020-Questions-en_p2_f1.png]]
+![[_attachments/inao2020-questions-en/inao2020-questions-en_p2_f1.png]]
 <!--fig:end-->
 
 1. Fa un quadrato circonscrizione del cerchio.
@@ -323,7 +323,7 @@ The picture below was taken on 24th December 2019, from some place in India, sho
 
 <!--fig:start-->
 **Quesito 7**
-![[INAO2020-Questions-en_p4_f1.png]]
+![[_attachments/inao2020-questions-en/inao2020-questions-en_p4_f1.png]]
 <!--fig:end-->
 
 Figure 1: Negative image of certain patch of the sky on 24th December 2019
@@ -358,7 +358,7 @@ La foto di seguito è stata scattata il 24 dicembre 2019 da un luogo in India, m
 
 <!--fig:start-->
 **Quesito 7**
-![[INAO2020-Questions-en_p4_f1.png]]
+![[_attachments/inao2020-questions-en/inao2020-questions-en_p4_f1.png]]
 <!--fig:end-->
 
 Figura 1: Immagine negativa di un certo pezzo del cielo il 24 dicembre 2019

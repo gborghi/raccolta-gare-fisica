@@ -438,7 +438,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 **Topic:** [[Kinetic Theory]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1__3SeXR-uj8cQOv9WVOP5iKL1w1CDpyG/view)
 **Risposta:** **A**
 
@@ -450,7 +450,7 @@ A container contains a mixture of different gases. What size is directly proport
 **Topic:** [[Kinetic Theory]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Gas (object)|Gas]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1__3SeXR-uj8cQOv9WVOP5iKL1w1CDpyG/view)
 The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
 
@@ -671,7 +671,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1__3SeXR-uj8cQOv9WVOP5iKL1w1CDpyG/view)
 **Risposta:** **C**
 
@@ -683,7 +683,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1__3SeXR-uj8cQOv9WVOP5iKL1w1CDpyG/view)
 The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
 
@@ -1074,7 +1074,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Beam (object)|Beam]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Beam (object)|Beam]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1__3SeXR-uj8cQOv9WVOP5iKL1w1CDpyG/view)
 **Risposta:** **C**
 
@@ -1091,7 +1091,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 **Topic:** [[Rigid Body Statics]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Beam (object)|Beam]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Beam (object)|Beam]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1__3SeXR-uj8cQOv9WVOP5iKL1w1CDpyG/view)
 The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
 

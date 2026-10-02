@@ -27,10 +27,10 @@ Adsorption of molecules from the gas phase and onto a solid surface represents a
 
 First we consider adsorption to form a monolayer on the surface. That is, the formation of multilayers is not allowed. Here $N_0$ is the number of empty surface sites and $N_1$ is the number of occupied sites. The partial pressure of the adsorbate in the gas phase is $p$. The rate constant for adsorption is $k_a$ and the rate constant for desorption is $k_d$. The equilibrium constant is $K = k_a/k_d$.
 
-![[PLANCKS_2019_p1_f1.png]]
+![[_attachments/plancks_2019/plancks_2019_p1_f1.png]]
 *Monolayer adsorption (Langmuir isotherm).*
 
-![[PLANCKS_2019_p1_f2.png]]
+![[_attachments/plancks_2019/plancks_2019_p1_f2.png]]
 *Multilayer adsorption (BET isotherm).*
 
 The rate of adsorption is: $r_a = k_a p N_0$
@@ -86,10 +86,10 @@ L'assorbimento di molecole dalla fase gasosa e su una superficie solida rapprese
 
 Prima consideriamo l'adsorzione per formare un mono strato sulla superficie. Cioè, la formazione di strati multi-layer non è consentita. Qui $N_0$ è il numero di siti superficiali vuoti e $N_1$ è il numero di siti occupati. La pressione parziale dell'adsorbato nella fase a gas è $p$. La costante di velocità per l'adsorzione è $k_a$ e la costante di velocità per la desorzione è $k_d$. La costante di equilibrio è $K = k_a/k_d$.
 
-![[PLANCKS_2019_p1_f1.png]]
+![[_attachments/plancks_2019/plancks_2019_p1_f1.png]]
 *Adsorzione monolivello (isoterma di Langmuir).*
 
-![[PLANCKS_2019_p1_f2.png]]
+![[_attachments/plancks_2019/plancks_2019_p1_f2.png]]
 *Adsorzione multicolore (isoterma BET). *
 
 Il tasso di adsorzione è: $r_a = k_a p N_0$
@@ -154,7 +154,7 @@ $$
 
 where $E_i$ are the (complex) amplitudes of the input and output light fields, $R$ is the reflection coefficient, and $T$ the transmission coefficient.
 
-![[PLANCKS_2019_p2_f1.png]]
+![[_attachments/plancks_2019/plancks_2019_p2_f1.png]]
 
 Energy conservation requires that $|E_1|^2 + |E_3|^2 = |E_2|^2 + |E_4|^2$. Note, that here we consider the intensities, while the reflection and transmission coefficients are defined relative to the field amplitudes.
 
@@ -196,7 +196,7 @@ $$
 
 The factors of $i = \sqrt{-1}$ originate from the phase shift induced on reflected photons which you proved in the last exercise.
 
-![[PLANCKS_2019_p2_f2.png]]
+![[_attachments/plancks_2019/plancks_2019_p2_f2.png]]
 
 a) *(2 points)* For the following input states, calculate the output state and the probabilities of specific detection events:
 - (a) A single photon in mode A: $|\psi^{(1)}\rangle = |a\rangle$. What is the probability of detecting the photon on counter C? And on counter D?
@@ -213,7 +213,7 @@ Calculate the output state for each input state and determine the probabilities 
 
 The experiment you discussed in the previous exercise was first performed by Hong, Ou and Mandel in 1987. As shown in the figure, they let two photons, one in each input mode, on the beamsplitter.
 
-![[PLANCKS_2019_p2_f3.png]]
+![[_attachments/plancks_2019/plancks_2019_p2_f3.png]]
 *Figure 1: Left: Schematic of the Hong-Ou-Mandel experiment. Right: Plot of the first observation of the Hong-Ou-Mandel dip (C. K. Hong, Z. Y. Ou, and L. Mandel, Phys. Rev. Lett. 59, 2044, 1987).*
 
 The experiment had an additional parameter, namely the distance between source A and the beamsplitter. This allowed to change the relative arrival time of the two photons on the beamsplitter. In their data original plot, shown in the figure, this corresponds to what is shown on the x-axis. A beamsplitter position of slightly more than 300 $\mu m$ meant that the photons arrived exactly at the same time, while a change of this position would shift the arrival time. A relative earlier or later than the one from source B. With this setup, they could measure the probability to detect a coincidence between the photons as a function of the delay length (equivalent to delay time). Coincidence means that one photon each is detected on each detector simultaneously.
@@ -249,7 +249,7 @@ $$
 
 se $E_i$ sono le amplitudini (complese) dei campi di luce di ingresso e di uscita, $R$ è il coefficiente di riflessione e $T$ il coefficiente di trasmissione.
 
-![[PLANCKS_2019_p2_f1.png]]
+![[_attachments/plancks_2019/plancks_2019_p2_f1.png]]
 
 La conservazione dell'energia richiede che $|E_1|^2 + |E_3|^2 = |E_2|^2 + |E_4|^2$. Si noti che qui consideriamo le intensità, mentre i coefficienti di riflessione e trasmissione sono definiti rispetto alle amplitudini del campo.
 
@@ -291,7 +291,7 @@ $$
 
 I fattori di $i = \sqrt{-1}$ provengono dal cambiamento di fase indotto sui fotoni riflessi che avete dimostrato nell'ultimo esercizio.
 
-![[PLANCKS_2019_p2_f2.png]]
+![[_attachments/plancks_2019/plancks_2019_p2_f2.png]]
 
 a) *(2 punti) * Per gli stati di input seguenti calcolare lo stato di uscita e le probabilità di eventi specifici di rilevamento:
 - a) Un singolo fotone in modalità A: $|\psi^{(1)}\rangle = |a\rangle$. Qual è la probabilità di rilevare il fotone sul contatore C? E sul bancone D?
@@ -308,7 +308,7 @@ Esercizio 3: esperimento Hong-Ou-Mandel
 
 L'esperimento che avete discusso nell'esercizio precedente è stato eseguito per la prima volta da Hong, Ou e Mandel nel 1987. Come mostrato nella figura, lasciano due fotoni, uno in ogni modalità di ingresso, sul fascio.
 
-![[PLANCKS_2019_p2_f3.png]]
+![[_attachments/plancks_2019/plancks_2019_p2_f3.png]]
 *Figure 1: Left: Schematic of the Hong-Ou-Mandel experiment. Destra: Piatto della prima osservazione del dip di Hong-Ou-Mandel (C. K. Hong, Z. Y. Ou, e L. Mandel, fisico. Il reverendo. Lett. 59, 2044, 1987).*
 
 L'esperimento aveva un parametro aggiuntivo, vale a dire la distanza tra la fonte A e il fascio. Ciò permise di cambiare il tempo relativo di arrivo dei due fotoni sul fascio. Nel grafico originale dei dati, mostrato nella figura, questo corrisponde a quello che è mostrato sull'asse x. Una posizione del fascio di scissione di poco più di 300 $\mu m$ significava che i fotoni arrivarono esattamente nello stesso momento, mentre un cambiamento di questa posizione avrebbe spostato l'orario di arrivo. Un parente prima o dopo di quello della fonte B. Con questa configurazione, potrebbero misurare la probabilità di rilevare una coincidenza tra i fotoni in funzione della lunghezza del ritardo (equivalente al tempo di ritardo). La coincidenza significa che un fotone è rilevato su ogni rilevatore contemporaneamente.
@@ -414,7 +414,7 @@ where $\alpha = 1$ corresponds to the classical result.
 
 - *(3 points)* Given that the mean radius of the orbit of Mercury is $58 \times 10^6\,\text{km}$ and that its orbital period is 88 days, calculate the shift in the angular coordinate of the perihelion (orbit point nearest to the sun) over a century.
 
-![[PLANCKS_2019_p4_f1.png]]
+![[_attachments/plancks_2019/plancks_2019_p4_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1xKKsuEJdOfO3yw8ACv5XdQhhEeZe6OMX/view)
 **Topic:** [[Special Relativity]], [[Gravitation]]
@@ -441,7 +441,7 @@ in cui $\alpha = 1$ corrisponde al risultato classico.
 
 - *(3 punti) * Dato che il raggio medio dell'orbita di Mercurio è $58 \times 10^6\,\text{km}$ e che il suo periodo orbitale è di 88 giorni, calcolare il spostamento della coordinata angolare del perielione (punto orbitale più vicino al Sole) nel corso di un secolo.
 
-![[PLANCKS_2019_p4_f1.png]]
+![[_attachments/plancks_2019/plancks_2019_p4_f1.png]]
 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1xKKsuEJdOfO3yw8ACv5XdQhhEeZe6OMX/view)
 **Topic:** [[Special Relativity]], [[Gravitation]]
@@ -630,7 +630,7 @@ is a solution of Eq.(3) in $\mathbb{R}^2/0$ which satisfy Eq.(5).
 
 The resulting textures of $\vec{S}$ is shown in Figure 2 for $\theta_0 = 0$ and $q = -1, 1, 2$.
 
-![[PLANCKS_2019_p6_f1.png]]
+![[_attachments/plancks_2019/plancks_2019_p6_f1.png]]
 *Figure 2: Examples of textures for defects with strength: $q = -1, 1, 2$ respectively.*
 
 **Problem 4:** *1 point* In Figure 3 is shown the texture associated with two point defects. What is the strength of the two defects?
@@ -643,14 +643,14 @@ $$
 
 where $R$ represents the system size, i.e. $\pi R^2 = A$.
 
-![[PLANCKS_2019_p6_f2.png]]
+![[_attachments/plancks_2019/plancks_2019_p6_f2.png]]
 *Figure 3: Textures for 2 more defects.*
 
 **Problem 5:** *1 point* Evaluate the self-energy of a defect of strength $q$. (i.e. show that eq. 7 holds) and explain why so $|q| = 1$ defects are dominating the system.
 
 The above considerations for a single point-defect can easily be generalized to a multi-defect system, where the defect solutions can be added and so can their strengths. An example is shown in Figure 4.
 
-![[PLANCKS_2019_p6_f3.png]]
+![[_attachments/plancks_2019/plancks_2019_p6_f3.png]]
 *Figure 4: $(\cos(\phi(x_1, x_2)), \sin(\phi(x_1, x_2)))$ field for $\phi(x_1, x_2) = \frac{\pi}{2} + \tan^{-1}((x_2 + 12)/(x_1 + 10)) - 3\tan^{-1}((x_2 + 5)/(x_1 - 13)) + 2\tan^{-1}((x_2 - 1)/(x_1 - 10))$.*
 
 Nothing is confining the defects to a particular place on the lattice, so they are free to move.
@@ -716,7 +716,7 @@ $$
 
 Le texture risultanti di $\vec{S}$ sono indicate nella figura 2 per $\theta_0 = 0$ e $q = -1, 1, 2$.
 
-![[PLANCKS_2019_p6_f1.png]]
+![[_attachments/plancks_2019/plancks_2019_p6_f1.png]]
 *Figura 2: Esempi di tessuti per difetti con resistenza: $q = -1, 1, 2$ rispettivamente.*
 
 **Problema 4: ** *1 punto* Nella figura 3 è mostrata la texture associata a due difetti punti. Qual è la forza dei due difetti?
@@ -729,14 +729,14 @@ $$
 
 in cui $R$ rappresenta la dimensione del sistema, ovvero $\pi R^2 = A$.
 
-![[PLANCKS_2019_p6_f2.png]]
+![[_attachments/plancks_2019/plancks_2019_p6_f2.png]]
 *Figura 3: Tessuti per altri due difetti.*
 
 **Problema 5: ** *1 punto * Valutare l' autoenergia di un difetto di forza $q$. (i.e. Mostrami l'equ. 7 contiene) e spiegare perché i difetti $|q| = 1$ dominano il sistema.
 
 Le considerazioni di cui sopra per un singolo punto di difetto possono essere facilmente generalizzate a un sistema multi-defetti, dove le soluzioni di difetto possono essere aggiunte e così possono essere i loro punti di forza. Un esempio è riportato nella figura 4.
 
-![[PLANCKS_2019_p6_f3.png]]
+![[_attachments/plancks_2019/plancks_2019_p6_f3.png]]
 Figura 4: campo $(\cos(\phi(x_1, x_2)), \sin(\phi(x_1, x_2)))$ per $\phi(x_1, x_2) = \frac{\pi}{2} + \tan^{-1}((x_2 + 12)/(x_1 + 10)) - 3\tan^{-1}((x_2 + 5)/(x_1 - 13)) + 2\tan^{-1}((x_2 - 1)/(x_1 - 10))$.*
 
 Niente limita i difetti ad un posto particolare della griglia, quindi sono liberi di muoversi.
@@ -956,7 +956,7 @@ In this problem, we will explore the recently unveiled image of the black hole M
 
 4. *(2 points)* Observing the shadow of a black hole provides an unprecedented way of testing Einstein's theory of General Relativity (GR), because observing the shadow and comparing to predictions from GR tests gravity in the so-called "strong-field regime". Think about a way of quantifying this and compare to how "strong" gravity is in the solar system, where many observational tests of General Relativity already exist. (For a rough comparison, it might be useful to use the radius of the sun, $r_\odot \approx 7 \cdot 10^8\,m$.)
 
-![[PLANCKS_2019_p8_f1.png]]
+![[_attachments/plancks_2019/plancks_2019_p8_f1.png]]
 *Figure 5: Image of M87\*, Event Horizon Telescope Collaboration (The Astrophysical Journal Letters,875,L1(17pp), 2019 April 10).*
 
 **Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/1xKKsuEJdOfO3yw8ACv5XdQhhEeZe6OMX/view)
@@ -984,7 +984,7 @@ Spiegare l'esistenza di un anello di luce (la regione luminosa intorno all'ombra
 
 4. *(2 punti) * L'osservazione dell'ombra di un buco nero fornisce un modo senza precedenti di testare la teoria della relatività generale (GR) di Einstein, perché osservare l'ombra e confrontarla con le previsioni di GR mette alla prova la gravità nel cosiddetto "regime di campo forte". Pensate a un modo per quantificare questo e confrontate con quanto è "forte" la gravità nel sistema solare, dove esistono già molti test di osservazione della Relatività Generale. (Per un confronto più approssimativo, potrebbe essere utile usare il raggio del sole, $r_\odot \approx 7 \cdot 10^8\,m$.)
 
-![[PLANCKS_2019_p8_f1.png]]
+![[_attachments/plancks_2019/plancks_2019_p8_f1.png]]
 *Figura 5: Immagine di M87\*, Event Horizon Telescope Collaboration (The Astrophysical Journal Letters,875,L1(17pp), 2019 aprile 10).*
 
 **Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/1xKKsuEJdOfO3yw8ACv5XdQhhEeZe6OMX/view)

@@ -40,7 +40,7 @@ Si assuma ora $m_2 = m_1$, $M_1 = 9 m_1$, $M_2 = 3 m_1$ e $R_1 = 2 R_2$.
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pulley (object)|Pulley]], [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1SfDPqfj8k3KqIFSZfoZT6S0wSu-Qb9Oq/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1_z1tIEy__Jm8JeXmjB5SSGINTq_kPUEo/view)
 
@@ -72,7 +72,7 @@ Si assuma ora $m_2 = m_1$, $M_1 = 9 m_1$, $M_2 = 3 m_1$ e $R_1 = 2 R_2$.
 **Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pulley (object)|Pulley]], [[Disk (object)|Disk]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1SfDPqfj8k3KqIFSZfoZT6S0wSu-Qb9Oq/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1_z1tIEy__Jm8JeXmjB5SSGINTq_kPUEo/view)
 

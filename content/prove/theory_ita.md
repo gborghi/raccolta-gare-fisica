@@ -74,7 +74,7 @@ molto più grande di entrambi $a$ e $b$.
 **Topic:** [[Oscillations & Waves]], [[Kinetic Theory]], [[Electromagnetic Induction]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Disk (object)|Disk]], [[Gas (object)|Gas]], [[Magnetic Dipole (object)|Magnetic Dipole]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Disk (object)|Disk]], [[Gas (object)|Gas]], [[Magnetic Dipole (object)|Magnetic Dipole]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1uZhemHuXHwNx6rwLBq2dRcMw7zVLWZ05/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1MNeSiw4IIG3TJEnK36uVS4CCAZHpCdty/view)
 
@@ -140,6 +140,6 @@ molto più grande di entrambi $a$ e $b$.
 **Topic:** [[Oscillations & Waves]], [[Kinetic Theory]], [[Electromagnetic Induction]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Disk (object)|Disk]], [[Gas (object)|Gas]], [[Magnetic Dipole (object)|Magnetic Dipole]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Disk (object)|Disk]], [[Gas (object)|Gas]], [[Magnetic Dipole (object)|Magnetic Dipole]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1uZhemHuXHwNx6rwLBq2dRcMw7zVLWZ05/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1MNeSiw4IIG3TJEnK36uVS4CCAZHpCdty/view)

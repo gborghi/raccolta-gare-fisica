@@ -501,7 +501,7 @@ $$V_0 = \frac{M g R}{2 B \ell} = 0.167\ \text{V}$$
 **Topic:** [[Magnetism]], [[Rotational Dynamics]], [[Circuits]]
 **Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wheel (object)|Wheel]], [[Battery (object)|Battery]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Wheel (object)|Wheel]], [[Battery (object)|Battery]], [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
 
@@ -527,7 +527,7 @@ $$V_0 = \frac{M g R}{2 B \ell} = 0.167\ \text{V}$$
 **Topic:** [[Magnetism]], [[Rotational Dynamics]], [[Circuits]]
 **Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wheel (object)|Wheel]], [[Battery (object)|Battery]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Wheel (object)|Wheel]], [[Battery (object)|Battery]], [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
 
@@ -598,7 +598,7 @@ Si nota che la corrente, in condizioni stazionarie, torna al valore $i_0$.
 **Topic:** [[Magnetism]], [[Rotational Dynamics]], [[Electromagnetic Induction]]
 **Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wheel (object)|Wheel]], [[Battery (object)|Battery]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Wheel (object)|Wheel]], [[Battery (object)|Battery]], [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
 
@@ -623,7 +623,7 @@ It is noted that the current, under stationary conditions, returns to $i_0$.
 **Topic:** [[Magnetism]], [[Rotational Dynamics]], [[Electromagnetic Induction]]
 **Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wheel (object)|Wheel]], [[Battery (object)|Battery]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Wheel (object)|Wheel]], [[Battery (object)|Battery]], [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
 
@@ -677,7 +677,7 @@ $$v' = \frac{2 V_0}{B \ell} = \frac{M g R}{B^2 \ell^2} = 6.67\ \text{m}\,\text{s
 **Topic:** [[Magnetism]], [[Rotational Dynamics]], [[Electromagnetic Induction]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Wheel (object)|Wheel]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Wheel (object)|Wheel]], [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
 
@@ -691,7 +691,7 @@ $$v' = \frac{2 V_0}{B \ell} = \frac{M g R}{B^2 \ell^2} = 6.67\ \text{m}\,\text{s
 **Topic:** [[Magnetism]], [[Rotational Dynamics]], [[Electromagnetic Induction]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Wheel (object)|Wheel]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Wheel (object)|Wheel]], [[Block (object)|Block]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
 

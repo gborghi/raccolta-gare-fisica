@@ -182,7 +182,7 @@ um recipiente contendo água pura. Quantos cubos irão afundar?
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Block (object)|Block]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1ZeSfaBFHgTX6cyGMxAl7TAfHEW8tlMYh/view)
 
 
@@ -195,7 +195,7 @@ un contenitore contenente acqua pura. Quanti cubetti affonderanno?
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Block (object)|Block]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1ZeSfaBFHgTX6cyGMxAl7TAfHEW8tlMYh/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -207,7 +207,7 @@ a container containing pure water. How many cubes are going down?
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Block (object)|Block]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1ZeSfaBFHgTX6cyGMxAl7TAfHEW8tlMYh/view)
 
 

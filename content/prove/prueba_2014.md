@@ -728,7 +728,7 @@ Elementos disponibles
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Sphere (object)|Sphere]], [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1Y4as6whtZDnXJzbDvTCxZ8Yiln9dl22X/view)
 
 
@@ -934,7 +934,7 @@ Elementi disponibili
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Sphere (object)|Sphere]], [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1Y4as6whtZDnXJzbDvTCxZ8Yiln9dl22X/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1139,7 +1139,7 @@ Available items
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Sphere (object)|Sphere]], [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1Y4as6whtZDnXJzbDvTCxZ8Yiln9dl22X/view)
 
 
@@ -2264,7 +2264,7 @@ el Cuello
 **Topic:** [[Thermodynamics]], [[Rotational Dynamics]], [[Fluid Mechanics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.23](https://drive.google.com/file/d/1Y4as6whtZDnXJzbDvTCxZ8Yiln9dl22X/view)
 
 
@@ -2515,7 +2515,7 @@ Il Collo
 **Topic:** [[Thermodynamics]], [[Rotational Dynamics]], [[Fluid Mechanics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.23](https://drive.google.com/file/d/1Y4as6whtZDnXJzbDvTCxZ8Yiln9dl22X/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -2765,5 +2765,5 @@ The Neck
 **Topic:** [[Thermodynamics]], [[Rotational Dynamics]], [[Fluid Mechanics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]]
+**Objects:** [[Sphere (object)|Sphere]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.23](https://drive.google.com/file/d/1Y4as6whtZDnXJzbDvTCxZ8Yiln9dl22X/view)

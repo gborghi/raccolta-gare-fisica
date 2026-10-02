@@ -117,7 +117,7 @@ A mass $m$ hangs from the end of a light string of length $l$, which is attached
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1oBVQwX0Y_MtQGexECB8aaaKO8XKCafZi/view)
 
 
@@ -132,7 +132,7 @@ Una massa $m$ è appesa alla fine di una stringa di luce di lunghezza $l$, che �
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1oBVQwX0Y_MtQGexECB8aaaKO8XKCafZi/view)
 
 
@@ -298,7 +298,7 @@ The speed of a wave in air is given by $v = \sqrt{\dfrac{\gamma P}{\rho}}$ where
 **Topic:** [[Oscillations & Waves]], [[Thermodynamics]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1oBVQwX0Y_MtQGexECB8aaaKO8XKCafZi/view)
 
 
@@ -313,7 +313,7 @@ La velocità di un'onda nell'aria è data da $v = \sqrt{\dfrac{\gamma P}{\rho}}$
 **Topic:** [[Oscillations & Waves]], [[Thermodynamics]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1oBVQwX0Y_MtQGexECB8aaaKO8XKCafZi/view)
 
 
@@ -333,7 +333,7 @@ $c_\text{water} = 4180$ J kg$^{-1}$ °C$^{-1}$
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1oBVQwX0Y_MtQGexECB8aaaKO8XKCafZi/view)
 
 
@@ -348,7 +348,7 @@ $c_\text{water} = 4180$ J kg$^{-1}$ °C$^{-1}$
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Conservation of Energy (metodo)|Conservation of Energy]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1oBVQwX0Y_MtQGexECB8aaaKO8XKCafZi/view)
 
 
@@ -629,7 +629,7 @@ In a closed tube of length $L$ and cross-section area $A$ there is a volume of h
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]], [[Membrane (object)|Membrane]]
+**Objects:** [[Gas (object)|Gas]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Membrane (object)|Membrane]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1oBVQwX0Y_MtQGexECB8aaaKO8XKCafZi/view)
 
 
@@ -640,5 +640,5 @@ In un tubo chiuso di lunghezza $L$ e di superficie di sezione trasversale $A$ si
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]], [[Membrane (object)|Membrane]]
+**Objects:** [[Gas (object)|Gas]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Membrane (object)|Membrane]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1oBVQwX0Y_MtQGexECB8aaaKO8XKCafZi/view)

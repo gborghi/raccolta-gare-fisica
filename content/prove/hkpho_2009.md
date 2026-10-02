@@ -61,7 +61,7 @@ La nave spaziale-A si muove a velocità $40(\vec{x}_0 + \vec{y}_0)$ km/s rispett
 A light glass tube with a sealed lower end and cross section area $S = 2.5\ \mathrm{cm^2}$ contains a column of mercury of mass $m = 2\ \mathrm{kg}$. Between the mercury and the lower end is some trapped gas. The glass tube is sliding down a slope with an inclining angle $\alpha = 30^\circ$. The dynamic friction coefficient between the tube and the slope is $\mu = \sqrt{3}/6$. Find the pressure of the trapped gas in terms of the standard atmosphere pressure $p_0$.
 
 <!--fig:start-->
-![[HKPhO_2009_p2_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p2_f1.png]]
 *The sealed glass tube containing the mercury column (black) on top of the trapped gas, sliding down a slope of inclination $\alpha$.*
 <!--fig:end-->
 
@@ -76,7 +76,7 @@ A light glass tube with a sealed lower end and cross section area $S = 2.5\ \mat
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]], [[Inclined Plane (object)|Inclined Plane]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -84,7 +84,7 @@ A light glass tube with a sealed lower end and cross section area $S = 2.5\ \mat
 Un tubo di vetro leggero con un'estensione inferiore sigillata e una superficie trasversale $S = 2.5\ \mathrm{cm^2}$ contiene una colonna di mercurio di massa $m = 2\ \mathrm{kg}$. Tra il mercurio e la parte inferiore c'è un gas intrappolato. Il tubo di vetro scorre verso il basso con un angolo di inclinazione $\alpha = 30^\circ$. Il coefficiente di attrito dinamico tra il tubo e la pendenza è $\mu = \sqrt{3}/6$. Indicare la pressione del gas intrappolato in termini di pressione atmosferica standard $p_0$.
 
 <!--fig:start-->
-![[HKPhO_2009_p2_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p2_f1.png]]
 *Il tubo di vetro sigillato contenente la colonna di mercurio (nera) sopra il gas intrappolato, scorrendo verso il basso di una pendizione $\alpha$.*
 <!--fig:end-->
 
@@ -99,7 +99,7 @@ Un tubo di vetro leggero con un'estensione inferiore sigillata e una superficie 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]], [[Inclined Plane (object)|Inclined Plane]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]], [[Inclined Plane (object)|Inclined Plane]]
 
 
 
@@ -235,7 +235,7 @@ Dopo MC4, se il diametro della lente della fotocamera è raddoppiato, quale sar�
 A uniform chain of mass $m$ and length $L$ is originally placed mid-way on the top of a fixed smooth double-sided wedge (Figure-A). The length of each side of the wedge is $L$. It is then given a slight push. Find the kinetic energy of the chain when the whole chain has just slid to the left side of the wedge (Figure-B).
 
 <!--fig:start-->
-![[HKPhO_2009_p6_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p6_f1.png]]
 *The uniform chain of length $L$ on the symmetric wedge of base angle $\theta$: (A) initial position, mid-way over the apex with $L/2$ on each smooth incline; (B) after sliding entirely onto the left incline.*
 <!--fig:end-->
 
@@ -250,7 +250,7 @@ A uniform chain of mass $m$ and length $L$ is originally placed mid-way on the t
 **Topic:** [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wedge (object)|Wedge]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Wedge (object)|Wedge]], [[objects/rope-string-(object)|Rope/String]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -258,7 +258,7 @@ A uniform chain of mass $m$ and length $L$ is originally placed mid-way on the t
 Una catena uniforme di massa $m$ e lunghezza $L$ è originariamente collocata a metà strada sulla parte superiore di una cucina a doppia parte liscia fissa (Figura-A). La lunghezza di ciascun lato della ciglia è $L$. Si dà poi una leggera spinta. Trova l'energia cinetica della catena quando l'intera catena è appena scivolata verso il lato sinistro della cuvia (Figura-B).
 
 <!--fig:start-->
-![[HKPhO_2009_p6_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p6_f1.png]]
 *La catena uniforme di lunghezza $L$ sulla cuccia simmetrica dell'angolo di base $\theta$: (A) posizione iniziale, a metà strada sopra l'apice con $L/2$ su ogni inclinazione liscia; (B) dopo essere scivolato interamente verso la inclinazione sinistra.*
 <!--fig:end-->
 
@@ -273,7 +273,7 @@ Una catena uniforme di massa $m$ e lunghezza $L$ è originariamente collocata a 
 **Topic:** [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wedge (object)|Wedge]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Wedge (object)|Wedge]], [[objects/rope-string-(object)|Rope/String]]
 
 
 
@@ -286,7 +286,7 @@ Una catena uniforme di massa $m$ e lunghezza $L$ è originariamente collocata a 
 A uniform "L"-shaped rigid body $AOB$ of mass $m$, where $AO = OB = l$ and $\angle AOB$ is a right angle, is hinged to a smooth joint at Point $A$ of the body and can swing freely in a vertical plane. Initially, the body is released from rest with $AB$ horizontal. Find the maximum kinetic energy of the body.
 
 <!--fig:start-->
-![[HKPhO_2009_p7_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p7_f1.png]]
 *The "L"-shaped rigid body $AOB$ with $AO = OB = l$ and the right angle at $O$, hinged at the smooth joint $A$ and free to swing in a vertical plane.*
 <!--fig:end-->
 
@@ -309,7 +309,7 @@ A uniform "L"-shaped rigid body $AOB$ of mass $m$, where $AO = OB = l$ and $\ang
 Un corpo rigido uniforme "L" di massa $AOB$ $m$, dove $AO = OB = l$ e $\angle AOB$ sono angolati a destra, è inclinato su un'articolazione liscia al punto $A$ del corpo e può oscillare liberamente in piano verticale. Inizialmente, il corpo viene rilasciato dal riposo con $AB$ orizzontale. Trova la massima energia cinetica del corpo.
 
 <!--fig:start-->
-![[HKPhO_2009_p7_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p7_f1.png]]
 *Il corpo rigido a forma di "L" $AOB$ con $AO = OB = l$ e l'angolo retto a $O$, inclinato alla giunta liscia $A$ e libero di oscillare in piano verticale.*
 <!--fig:end-->
 
@@ -378,7 +378,7 @@ Un condensatore $20\,\mu\mathrm{F}$ carico a $2.0\ \mathrm{kV}$ e un condensator
 A particle of mass $M$ and carrying charge $Q$ is launched with initial speed $v$ and at an angle of $\theta$ relative to the horizontal direction. When it reaches the maximum height it enters a region of uniform magnetic field. In the region it moves at constant velocity in the horizontal direction. Determine the direction and strength of the magnetic field.
 
 <!--fig:start-->
-![[HKPhO_2009_p9_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p9_f1.png]]
 *The charged particle is launched with speed $v$ at angle $\theta$ to the horizontal; at the top of its trajectory it enters the uniform magnetic field region.*
 <!--fig:end-->
 
@@ -401,7 +401,7 @@ A particle of mass $M$ and carrying charge $Q$ is launched with initial speed $v
 Una particella di massa $M$ e carica di carico $Q$ viene lanciata con velocità iniziale $v$ e ad un angolo di $\theta$ rispetto alla direzione orizzontale. Quando raggiunge l'altezza massima entra in una regione di campo magnetico uniforme. Nella regione si muove a velocità costante nella direzione orizzontale. Determinare la direzione e la forza del campo magnetico.
 
 <!--fig:start-->
-![[HKPhO_2009_p9_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p9_f1.png]]
 *La particella carica viene lanciata con velocità $v$ all'angolo $\theta$ verso l'orizzontale; in cima alla sua traiettoria entra nella regione di campo magnetico uniforme.*
 <!--fig:end-->
 
@@ -429,7 +429,7 @@ Una particella di massa $M$ e carica di carico $Q$ viene lanciata con velocità 
 As shown, one end of a light thread is fixed on the ceiling and the other end tied to a small sphere. The angle between the thread and the vertical direction is $\beta$. When $\beta = \alpha$ and $\alpha$ is a small angle, the sphere is in simple harmonic motion like a pendulum with period $T$. When $\beta = \alpha_1$ or $\alpha_2$ ($\alpha < \alpha_1 < \alpha_2$), the sphere is in a uniform circular motion in a horizontal plane with period $T_1$ or $T_2$, respectively. Then the correct relation is ________.
 
 <!--fig:start-->
-![[HKPhO_2009_p10_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p10_f1.png]]
 *A small sphere on a light thread fixed to the ceiling; the thread makes angle $\beta$ with the vertical as the sphere moves in a horizontal circle.*
 <!--fig:end-->
 
@@ -444,7 +444,7 @@ As shown, one end of a light thread is fixed on the ceiling and the other end ti
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -452,7 +452,7 @@ As shown, one end of a light thread is fixed on the ceiling and the other end ti
 Come illustrato, una estremità di un filo leggero è fissata al soffitto e l'altra è legata a una piccola sfera. L'angolo tra il filo e la direzione verticale è $\beta$. Quando $\beta = \alpha$ e $\alpha$ sono angoli piccoli, la sfera è in semplice movimento armonico come un pendolo con periodo $T$. Quando $\beta = \alpha_1$ o $\alpha_2$ ($\alpha < \alpha_1 < \alpha_2$), la sfera è in un movimento circolare uniforme in un piano orizzontale con periodo $T_1$ o $T_2$, rispettivamente. Allora la corretta relazione è ________.
 
 <!--fig:start-->
-![[HKPhO_2009_p10_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p10_f1.png]]
 *Una piccola sfera su un filo leggero fissato al soffitto; il filo fa un angolo $\beta$ con la verticale mentre la sfera si muove in un cerchio orizzontale.*
 <!--fig:end-->
 
@@ -467,7 +467,7 @@ Come illustrato, una estremità di un filo leggero è fissata al soffitto e l'al
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Pendulum (object)|Pendulum]], [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]]
 
 
 
@@ -480,7 +480,7 @@ Come illustrato, una estremità di un filo leggero è fissata al soffitto e l'al
 A cone of height $H$ with a mass attached is floating upside down in water, as shown. The water reaches $H/2$ when in equilibrium. Ignore friction. Find the vibration frequency after the cone is slightly pushed downwards.
 
 <!--fig:start-->
-![[HKPhO_2009_p11_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p11_f1.png]]
 *The inverted cone of height $H$ floats apex-down with a mass attached below it; in equilibrium the waterline reaches $H/2$.*
 <!--fig:end-->
 
@@ -503,7 +503,7 @@ A cone of height $H$ with a mass attached is floating upside down in water, as s
 Un cono di altezza $H$ con una massa attaccata galleggia in acqua a testa in giù, come mostrato. L'acqua raggiunge $H/2$ quando è in equilibrio. Ignora gli attriti. Trova la frequenza di vibrazione dopo che il cono è leggermente spinto verso il basso.
 
 <!--fig:start-->
-![[HKPhO_2009_p11_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p11_f1.png]]
 *Il cono invertito di altezza $H$ galleggia verso l'alto con una massa fissata al di sotto; in equilibrio la linea d'acqua raggiunge $H/2$.*
 <!--fig:end-->
 
@@ -531,7 +531,7 @@ Un cono di altezza $H$ con una massa attaccata galleggia in acqua a testa in gi�
 In the circuit, when the voltage between $a$ and $c$ is 20 V, the voltage between $b$ and $d$ is 10 V. When the voltage between $b$ and $d$ is 20 V, what is the voltage between $a$ and $c$?
 
 <!--fig:start-->
-![[HKPhO_2009_p12_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p12_f1.png]]
 *Bridge-type network: top branch $a$–$b$ is $1\,\Omega$ then $4\,\Omega$; bottom branch $c$–$d$ is $1\,\Omega$ then $4\,\Omega$; resistor $R$ bridges the two midpoints.*
 <!--fig:end-->
 
@@ -554,7 +554,7 @@ In the circuit, when the voltage between $a$ and $c$ is 20 V, the voltage betwee
 Nel circuito, quando la tensione tra $a$ e $c$ è di 20 V, la tensione tra $b$ e $d$ è di 10 V. Quando la tensione tra $b$ e $d$ è di 20 V, quale è la tensione tra $a$ e $c$?
 
 <!--fig:start-->
-![[HKPhO_2009_p12_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p12_f1.png]]
 *Rete di tipo ponte: il ramo superiore $a$$b$ è $1\,\Omega$ e poi $4\,\Omega$; il ramo inferiore $c$$d$ è $1\,\Omega$ e poi $4\,\Omega$; la resistenza $R$ collega i due punti di mezzo.*
 <!--fig:end-->
 
@@ -582,7 +582,7 @@ Nel circuito, quando la tensione tra $a$ e $c$ è di 20 V, la tensione tra $b$ e
 In the circuit, the electric current through the battery is _____ Ampere(s).
 
 <!--fig:start-->
-![[HKPhO_2009_p13_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p13_f1.png]]
 *Network driven by a 4 V battery containing resistors of $2\,\Omega$, $8\,\Omega$, $4\,\Omega$ and $4\,\Omega$ arranged as shown.*
 <!--fig:end-->
 
@@ -605,7 +605,7 @@ In the circuit, the electric current through the battery is _____ Ampere(s).
 Nel circuito, la corrente elettrica attraverso la batteria è di _____ Ampere (s).
 
 <!--fig:start-->
-![[HKPhO_2009_p13_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p13_f1.png]]
 *Rete alimentata da una batteria da 4 V contenente resistori di $2\,\Omega$, $8\,\Omega$, $4\,\Omega$ e $4\,\Omega$ disposti come indicato.*
 <!--fig:end-->
 
@@ -715,7 +715,7 @@ Un oggetto di massa $m$ è posizionato su un pavimento orizzontale. Il coefficie
 In the circuit $L_1$, $L_2$, $L_3$, and $L_4$ are four light bulbs. $L_1$ and $L_2$ are labeled "220V, 25W". $L_3$ and $L_4$ are labeled "220V, 60W". When voltage $U$ is applied, the sequence of the brightness of the four bulbs is, from the brightest to the dimmest, ________.
 
 <!--fig:start-->
-![[HKPhO_2009_p16_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p16_f1.png]]
 *Network of four bulbs $L_1$, $L_2$, $L_3$, $L_4$ connected across the supply $U$ as shown.*
 <!--fig:end-->
 
@@ -738,7 +738,7 @@ In the circuit $L_1$, $L_2$, $L_3$, and $L_4$ are four light bulbs. $L_1$ and $L
 Nel circuito $L_1$, $L_2$, $L_3$ e $L_4$ sono quattro lampadine. $L_1$ e $L_2$ sono etichettati "220V, 25W". $L_3$ e $L_4$ sono etichettati "220V, 60W". Quando viene applicata la tensione $U$, la sequenza di luminosità delle quattro lampadine è, dal più luminoso al più sottile, ________.
 
 <!--fig:start-->
-![[HKPhO_2009_p16_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p16_f1.png]]
 *Rete di quattro lampadine $L_1$, $L_2$, $L_3$, $L_4$ collegate attraverso la fornitura $U$ come mostrato.*
 <!--fig:end-->
 
@@ -848,7 +848,7 @@ Un oggetto di massa $m$ è attaccato a una molla. La forza di ripristino della m
 A small air bubble is inside a drop of water residing in a space station on an orbit around Earth. The direction to Earth is downwards and the space station is moving to the left relative to Earth, as shown. The air bubble will __________ relative to the water drop.
 
 <!--fig:start-->
-![[HKPhO_2009_p19_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p19_f1.png]]
 *A water drop containing a small air bubble inside a space station moving with velocity $\vec{v}$ to the left; the Earth direction is downward.*
 <!--fig:end-->
 
@@ -871,7 +871,7 @@ A small air bubble is inside a drop of water residing in a space station on an o
 Una piccola bolla d'aria è all'interno di una goccia d'acqua che risiede in una stazione spaziale in orbita attorno alla Terra. La direzione verso la Terra è verso il basso e la stazione spaziale si sta muovendo a sinistra rispetto alla Terra, come mostrato. La bolla d'aria __________ rispetto alla goccia d'acqua.
 
 <!--fig:start-->
-![[HKPhO_2009_p19_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p19_f1.png]]
 *Una goccia d'acqua contenente una piccola bolla d'aria all'interno di una stazione spaziale che si muove a sinistra con velocità $\vec{v}$; la direzione terrestre è verso il basso.*
 <!--fig:end-->
 
@@ -940,7 +940,7 @@ Un satellite di massa $m$ è a distanza $a$ da una stella di massa $M$. La veloc
 **(8 points)** Consider the figure of an infinite ladder of resistors as shown in the figure. Calculate the equivalent resistance between point $a$ and point $b$.
 
 <!--fig:start-->
-![[HKPhO_2009_p21_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p21_f1.png]]
 *An infinite ladder network: each horizontal series element is $1\,\Omega$ and each shunt (vertical) element is $1\,\Omega$, repeating indefinitely to the right from terminals $a$ (top) and $b$ (bottom).*
 <!--fig:end-->
 
@@ -957,7 +957,7 @@ Un satellite di massa $m$ è a distanza $a$ da una stella di massa $M$. La veloc
 **(8 punti) ** Considerate la figura di una scala infinita di resistori come mostrato nella figura. Calcolare la resistenza equivalente tra il punto $a$ e il punto $b$.
 
 <!--fig:start-->
-![[HKPhO_2009_p21_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p21_f1.png]]
 *Rete di scala infinita: ogni elemento della serie orizzontale è $1\,\Omega$ e ogni elemento di shunt (verticale) è $1\,\Omega$, ripetendosi indefinitamente a destra dai terminali $a$ (alto) e $b$ (infine).*
 <!--fig:end-->
 
@@ -1026,7 +1026,7 @@ c) Trova l'energia cinetica massima che il primo frammento può avere in termini
 (Hint: for $x \ll 1$, $(1 + x)^n \approx 1 + nx$, where $n$ can be a fraction number or an integer.)
 
 <!--fig:start-->
-![[HKPhO_2009_p23_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p23_f1.png]]
 *The stepped vertical cylinder with an upper piston of area $A_1$ and a lower piston of area $A_2$ joined by a rigid light rod, gas trapped between them; $L$ marks the relevant distance.*
 <!--fig:end-->
 
@@ -1049,7 +1049,7 @@ b) Trova la frequenza di vibrazione dei pistoni vicino alla posizione di equilib
 (Signore: per $x \ll 1$, $(1 + x)^n \approx 1 + nx$, dove $n$ può essere un numero di frazione o un numero intero.)
 
 <!--fig:start-->
-![[HKPhO_2009_p23_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p23_f1.png]]
 *Il cilindro verticale a gradini con un pistone superiore di superficie $A_1$ e un pistone inferiore di superficie $A_2$ unito da una barra leggera rigida, tra cui il gas è intrappolato; $L$ segna la distanza pertinente.*
 <!--fig:end-->
 
@@ -1128,7 +1128,7 @@ $$x = \left(\frac{\sqrt{1 + 8\left(1 + 1/A\right)} - 1}{2B}\right)^{1/3}.$$
 **(10 points)** According to quantum mechanics, a particle of momentum $p$ can be regarded as a plane matter wave with wavelength $\lambda = h/p$, where $h$ is the Planck Constant. As shown in the figure, $ABCD$ is a flat square of side length $L$ at an inclined angle $\theta$ to the horizontal plane. A neutron beam of initial kinetic energy $E_0$ is divided into two beams at point-$A$. One beam moves along the path $ACD$ and the other beam along the path $ABD$. When the two beams meet at point-D they interfere. The mass of a neutron is $m$. How many times can one get maximum neutron number readings at point-D when $\theta$ changes from $0^\circ$ to $90^\circ$?
 
 <!--fig:start-->
-![[HKPhO_2009_p25_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p25_f1.png]]
 *The flat square $ABCD$ of side $L$ inclined at angle $\theta$ to the horizontal; the neutron beam splits at $A$, travels along $ACD$ and $ABD$, and recombines at $D$.*
 <!--fig:end-->
 
@@ -1145,7 +1145,7 @@ $$x = \left(\frac{\sqrt{1 + 8\left(1 + 1/A\right)} - 1}{2B}\right)^{1/3}.$$
 Secondo la meccanica quantistica, una particella di impulso $p$ può essere considerata un'onda di materia piana con lunghezza d'onda $\lambda = h/p$, dove $h$ è la costante di Planck. Come mostrato nella figura, $ABCD$ è un quadrato piatto di lunghezza laterale $L$ in un angolo inclinato $\theta$ verso il piano orizzontale. Un fascio di neutroni di energia cinetica iniziale $E_0$ è diviso in due fasci al punto-$A$. Un fascio si muove lungo il percorso $ACD$ e l'altro il percorso $ABD$. Quando i due raggi si incontrano al punto D interferiscono. La massa di un neutrone è $m$. Quante volte si possono ottenere le letture massime del numero di neutroni al punto-D quando $\theta$ passa da $0^\circ$ a $90^\circ$?
 
 <!--fig:start-->
-![[HKPhO_2009_p25_f1.png]]
+![[_attachments/hkpho_2009/hkpho_2009_p25_f1.png]]
 *Il quadrato piatto $ABCD$ del lato $L$ inclinato all'angolo $\theta$ verso l'orizzontale; il fascio di neutroni si sparticola a $A$, si sposta lungo $ACD$ e $ABD$ e si ricombina a $D$.*
 <!--fig:end-->
 

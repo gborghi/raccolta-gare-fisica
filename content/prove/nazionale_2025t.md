@@ -24,7 +24,7 @@ Fabio sta cercando di accordare una corda della sua chitarra. Per farlo, si aiut
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Superposition Principle (metodo)|Superposition Principle]], [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tuning Fork (object)|Tuning Fork]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Tuning Fork (object)|Tuning Fork]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BYQ8b3CJbc-ZLhJ-FDMdNgW1YHNz95D_/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1ZbmcrfsbPXTgbM47oMFg98SBf2dKxQxa/view)
 
@@ -40,7 +40,7 @@ The unit of measurement: * Hz. The following information is provided:
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Superposition Principle (metodo)|Superposition Principle]], [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tuning Fork (object)|Tuning Fork]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Tuning Fork (object)|Tuning Fork]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BYQ8b3CJbc-ZLhJ-FDMdNgW1YHNz95D_/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1ZbmcrfsbPXTgbM47oMFg98SBf2dKxQxa/view)
 
@@ -109,7 +109,7 @@ Un contenitore sigillato, a forma di "J" con angoli squadrati come in figura (si
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Bubble (object)|Bubble]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Bubble (object)|Bubble]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BYQ8b3CJbc-ZLhJ-FDMdNgW1YHNz95D_/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1ZbmcrfsbPXTgbM47oMFg98SBf2dKxQxa/view)
 
@@ -132,7 +132,7 @@ The unit of measurement: * Pa. The following information is provided:
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Bubble (object)|Bubble]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Bubble (object)|Bubble]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BYQ8b3CJbc-ZLhJ-FDMdNgW1YHNz95D_/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1ZbmcrfsbPXTgbM47oMFg98SBf2dKxQxa/view)
 

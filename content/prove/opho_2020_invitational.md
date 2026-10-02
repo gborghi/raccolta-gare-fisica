@@ -30,7 +30,7 @@ It is a well known party trick that by pulling the tablecloth very quickly and s
 **(d) (8 pts)** We run the experiment one last time with the glass, with same mass as a plate, placed on top of each plate on the tablecloth, which in turn, is on a frictionless table. The static and kinetic coefficient between the glass and the plate are $\mu_s' = 0.30$ and $\mu_k' = 0.15$ respectively. How fast must the tablecloth be pulled so that the glasses stay completely on the plate and the plates stay completely on the table? Do not assume that the either plate or glass is dimensionless this time. A diagram is provided below:
 
 <!--fig:start-->
-![[OPhO_2020_Invitational_p4_f1.png]]
+![[_attachments/opho_2020_invitational/opho_2020_invitational_p4_f1.png]]
 *Two plates (each with a glass on top) on the tablecloth: glass width 10 cm, plate-to-table height 15 cm, plates 30 cm apart centre-to-centre, 50 cm of cloth to the table edge, then the tablecloth being pulled off the edge.*
 <!--fig:end-->
 
@@ -56,7 +56,7 @@ Un ragazzino mette la sua auto giocattolo al centro sul tavolo della parte b. Cr
 **(d) (8 pts) ** Esperienza eseguita per l'ultima volta con il vetro, con la stessa massa di una piastra, posizionato sopra ogni piastra sul tavolo, che a sua volta è su una tavola senza attrito. Il coefficiente statico e cinetico tra vetro e piastra sono $\mu_s' = 0.30$ e $\mu_k' = 0.15$ rispettivamente. Quanto velocemente deve essere tirato il tappietto per far rimanere completamente i bicchieri sul piatto e le piatti sul tavolo? Non supponi che la piastra o il vetro siano senza dimensioni questa volta. Un diagramma è riportato di seguito:
 
 <!--fig:start-->
-![[OPhO_2020_Invitational_p4_f1.png]]
+![[_attachments/opho_2020_invitational/opho_2020_invitational_p4_f1.png]]
 *Due piastre (ogni una con un vetro sopra) sul tavolo: larghezza di vetro 10 cm, altezza da tavolo a tavolo 15 cm, piastre a 30 cm di distanza dal centro al centro, 50 cm di tessuto al bordo del tavolo, poi il tavolo viene tolto dal bordo.*
 <!--fig:end-->
 
@@ -185,7 +185,7 @@ Disegna un grafico qualitativo del percorso fisico che l'elettrone percorre, ins
 A hollow cylinder of mass $M$ and radius $R$ rests on a rough horizontal surface. A projectile of mass $m < M$ having a velocity $u$ directed horizontally exactly towards the middle of the cylinder as shown in the figure. The shell gets stuck in the cylinder wall, after which the shell starts to move, slipping on the surface. The coefficient of static and kinetic friction between the cylinder and the horizontal surface are the same, and are equal to $\mu < 2$.
 
 <!--fig:start-->
-![[OPhO_2020_Invitational_p6_f1.png]]
+![[_attachments/opho_2020_invitational/opho_2020_invitational_p6_f1.png]]
 *A projectile of mass $m$ with horizontal velocity $\vec{u}$ aimed at the centre of a hollow cylinder of mass $M$ and radius $R$ resting on a horizontal surface with friction coefficient $\mu$.*
 <!--fig:end-->
 
@@ -209,7 +209,7 @@ A hollow cylinder of mass $M$ and radius $R$ rests on a rough horizontal surface
 Un cilindro vuoto di massa $M$ e di raggio $R$ si posa su una superficie orizzontale ruvida. Un proiettile di massa $m < M$ con velocità $u$ diretto orizzontalmente esattamente verso il centro del cilindro come mostrato nella figura. Il guscio si blocca nella parete del cilindro, dopo di che il guscio inizia a muoversi, scivolando sulla superficie. Il coefficiente di attrito statico e cinetico tra il cilindro e la superficie orizzontale è lo stesso ed è uguale a $\mu < 2$.
 
 <!--fig:start-->
-![[OPhO_2020_Invitational_p6_f1.png]]
+![[_attachments/opho_2020_invitational/opho_2020_invitational_p6_f1.png]]
 *Un proiettile di massa $m$ con velocità orizzontale $\vec{u}$ mirato al centro di un cilindro vuoto di massa $M$ e di raggio $R$ che si posa su una superficie orizzontale con coefficiente di attrito $\mu$.*
 <!--fig:end-->
 

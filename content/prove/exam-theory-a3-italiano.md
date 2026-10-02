@@ -77,7 +77,7 @@ B.7 (0.6 pt)
 **Topic:** [[Oscillations & Waves]], [[Thermodynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Heat Engine (object)|Heat Engine]], [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]]
+**Objects:** [[Heat Engine (object)|Heat Engine]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1gtuQw-V6S0EZXp5Owbybc4ex4htgbpKo/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1dKh1kzsw0C0EbR8VidZZ4H2CultoxbkV/view)
 
@@ -146,6 +146,6 @@ B.7 (0.6 pt)
 **Topic:** [[Oscillations & Waves]], [[Thermodynamics]], [[Newtonian Mechanics]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Heat Engine (object)|Heat Engine]], [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]]
+**Objects:** [[Heat Engine (object)|Heat Engine]], [[objects/pipe-tube-(object)|Pipe/Tube]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1gtuQw-V6S0EZXp5Owbybc4ex4htgbpKo/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1dKh1kzsw0C0EbR8VidZZ4H2CultoxbkV/view)

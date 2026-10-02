@@ -246,7 +246,7 @@ VIBRACIONES Y ONDAS
 **Topic:** [[Conservation of Momentum]], [[Electrostatics]], [[Oscillations & Waves]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]]
+**Objects:** [[Point Charge (object)|Point Charge]], [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1T7rNKkVvq9fJ26_d_26pzGeW0dKvsHAD/view)
 
 
@@ -376,7 +376,7 @@ Vibrazioni e onde
 **Topic:** [[Conservation of Momentum]], [[Electrostatics]], [[Oscillations & Waves]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]]
+**Objects:** [[Point Charge (object)|Point Charge]], [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1T7rNKkVvq9fJ26_d_26pzGeW0dKvsHAD/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -505,5 +505,5 @@ Vibrations and Waves
 **Topic:** [[Conservation of Momentum]], [[Electrostatics]], [[Oscillations & Waves]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]]
+**Objects:** [[Point Charge (object)|Point Charge]], [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1T7rNKkVvq9fJ26_d_26pzGeW0dKvsHAD/view)

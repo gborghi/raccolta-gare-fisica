@@ -41,7 +41,7 @@ and zero if the path can be contracted to a single point without crossing the vo
 
 [^1]: Circulation quantization is a macroscopic quantum effect and corresponds to the angular momentum quantization in Bohr model. The circulation quantum can be expressed as $\kappa = \hbar/m_{\text{He}}$, where $m_{\text{He}}$ is the mass of helium atom.
 
-![[APhO_2017_theory_Q1_p2_f1.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p2_f1.png]]
 *Fig. 1: Vortex filament (red) in superfluid (light blue). Velocity circulations along paths $L_1$, $L_2$, $L_5$, and $L_6$ are all zero, but those for $L_3$ and $L_4$ are equal to $\pm 2\pi\kappa$. Note that circulations along $L_3$ and $L_4$ have opposite signs.*
 
 #### Part A. Steady filament (0.75 points)
@@ -52,7 +52,7 @@ Consider a cylindrical beaker (radius $R_0 \gg a$) of superfluid helium and a st
 
 **A.2** *(0.5pt)* Work out the free surface shape (height as a function of coordinate $z(\vec{r})$) around the vortex. Free fall acceleration is $g$. Surface tension can be neglected.
 
-![[APhO_2017_theory_Q1_p2_f2.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p2_f2.png]]
 *Fig. 2: Straight vortex along the axis of a beaker.*
 
 #### Part B. Vortex motion (1.4 points)
@@ -63,17 +63,17 @@ Free vortices move about in space with the flow[^2]. In other words each element
 
 As an example, consider a pair of counter-rotating straight vortices placed initially at distance $r_0$ from each other, see Fig. 3. Each vortex produces velocity $v_0 = \kappa/r_0$ at the axis of another. As a result, the vortex pair moves rectilinearly with constant speed $v_0 = \kappa/r_0$ so that the distance between them remains unchanged.
 
-![[APhO_2017_theory_Q1_p3_f3.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p3_f3.png]]
 *Fig. 3: Parallel vortex filaments with opposite circulations.*
 
 **B.1** *(0.25pt)* Consider two identical straight vortices initially placed at distance $r_0$ from each other as shown in Fig. 4. Find initial velocities of the vortices and draw their trajectories.
 
-![[APhO_2017_theory_Q1_p3_f4.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p3_f4.png]]
 *Fig. 4: Parallel vortex filaments with equal circulations.*
 
 A beaker of helium (see Part A) is filled with triangular lattice ($u \ll R_0$) of identical vertical vortices, see Fig. 5.
 
-![[APhO_2017_theory_Q1_p3_f5.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p3_f5.png]]
 *Fig. 5: Triangular lattice of vortices in a beaker. The view from above.*
 
 **B.2** *(0.15pt)* Draw the trajectories of vortices A, B, and C (located in the center).
@@ -112,10 +112,10 @@ $$
 
 [^3]: This expression is also valid only if $\log R/a \gg 1$.
 
-![[APhO_2017_theory_Q1_p5_f6.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p5_f6.png]]
 *Fig. 6: Velocity field of a circular vortex loop and integration paths (green) for $q(x, y)$ calculation.*
 
-![[APhO_2017_theory_Q1_p5_f7.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p5_f7.png]]
 *Fig. 7: A nearly rectangular vortex loop, $b \ll d$.*
 
 **C.1** *(0.3pt)* Consider a nearly rectangular vortex loop $b \times d$, $b \ll d$, Fig. 7. Indicate the direction of its momentum $\vec{P}$. Find out the momentum magnitude.
@@ -124,21 +124,21 @@ $$
 
 **C.3** *(0.75pt)* Suppose we shift a long straight vortex filament by a distance $b$ in $x$ direction, see Fig. 8. How much does the fluid momentum change? Indicate the momentum change direction. The filament length (constrained by the vessel walls) is $d$.
 
-![[APhO_2017_theory_Q1_p6_f8.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p6_f8.png]]
 *Fig. 8: Momentum changes whenever the vortex shifts with respect to the fluid.*
 
 #### Part D. Trapped charges (2.85 points)
 
 Electrons, if injected in helium, get trapped in the vortex filaments. Here and below polarizability of helium can be neglected ($\epsilon = 1$).
 
-![[APhO_2017_theory_Q1_p6_f9.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p6_f9.png]]
 *Fig. 9: Straight vortex in a uniform electric field.*
 
 **D.1** *(0.5pt)* Consider a straight vortex charged with uniform linear density $\lambda < 0$ in a uniform electric field $\vec{E}$. Draw the vortex trajectory. Find its velocity as a function of time.
 
 A circular vortex loop of radius $R_0$ initially charged with uniform linear density $\lambda < 0$ is placed in a uniform electric field $\vec{E}$ perpendicular to its plane, opposite to its momentum $\vec{P}_0$.
 
-![[APhO_2017_theory_Q1_p6_f10.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p6_f10.png]]
 *Figure 10: (left) Vortex ring in a uniform electric field. (right) Cross section of the ring.*
 
 **D.2** *(0.6pt)* Draw the trajectory of the loop center $C$. Find the radius of the loop as a function of time.
@@ -151,14 +151,45 @@ A circular vortex loop of radius $R_0$ initially charged with uniform linear den
 
 Solid walls alter the velocity field created by a vortex filament, because the fluid cannot flow through them. Mathematically this means that the wall-normal velocity component vanishes at the wall surface.
 
-![[APhO_2017_theory_Q1_p7_f11.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='131.191796pt' height='90.649956pt' viewBox='-68.015691 -67.966366 131.191796 90.649956'>
+<defs>
+<path id='g0-104' d='M2.859278-6.804483C2.859278-6.814446 2.859278-6.914072 2.729763-6.914072C2.500623-6.914072 1.77335-6.834371 1.514321-6.814446C1.43462-6.804483 1.325031-6.794521 1.325031-6.615193C1.325031-6.495641 1.414695-6.495641 1.564134-6.495641C2.042341-6.495641 2.062267-6.425903 2.062267-6.326276L2.032379-6.127024L.587796-.388543C.547945-.249066 .547945-.229141 .547945-.169365C.547945 .059776 .747198 .109589 .836862 .109589C.996264 .109589 1.155666-.009963 1.205479-.14944L1.39477-.9066L1.613948-1.803238C1.673724-2.022416 1.733499-2.241594 1.783313-2.470735C1.803238-2.530511 1.882939-2.859278 1.892902-2.919054C1.92279-3.008717 2.231631-3.566625 2.570361-3.835616C2.789539-3.995019 3.098381-4.184309 3.526775-4.184309S4.064757-3.845579 4.064757-3.486924C4.064757-2.948941 3.686177-1.863014 3.447073-1.255293C3.367372-1.026152 3.317559-.9066 3.317559-.707347C3.317559-.239103 3.666252 .109589 4.134496 .109589C5.070984 .109589 5.439601-1.344956 5.439601-1.424658C5.439601-1.524284 5.349938-1.524284 5.32005-1.524284C5.220423-1.524284 5.220423-1.494396 5.17061-1.344956C5.021171-.816936 4.702366-.109589 4.154421-.109589C3.985056-.109589 3.915318-.209215 3.915318-.438356C3.915318-.687422 4.004981-.926526 4.094645-1.145704C4.254047-1.574097 4.702366-2.759651 4.702366-3.337484C4.702366-3.985056 4.303861-4.403487 3.556663-4.403487C2.929016-4.403487 2.450809-4.094645 2.082192-3.636364L2.859278-6.804483Z'/>
+<path id='g1-48' d='M3.598506-2.224658C3.598506-2.991781 3.507846-3.542715 3.187049-4.030884C2.970859-4.351681 2.538481-4.630635 1.980573-4.630635C.36264-4.630635 .36264-2.726775 .36264-2.224658S.36264 .139477 1.980573 .139477S3.598506-1.72254 3.598506-2.224658ZM1.980573-.055791C1.659776-.055791 1.234371-.244085 1.094894-.81594C.99726-1.227397 .99726-1.799253 .99726-2.315318C.99726-2.824408 .99726-3.354421 1.101868-3.737983C1.248319-4.288917 1.694645-4.435367 1.980573-4.435367C2.357161-4.435367 2.719801-4.20523 2.84533-3.800747C2.956912-3.424159 2.963885-2.922042 2.963885-2.315318C2.963885-1.799253 2.963885-1.283188 2.873225-.843836C2.733748-.209215 2.259527-.055791 1.980573-.055791Z'/>
+</defs>
+<g id='page1'>
+<path d='M-67.617186 22.68359V12.761718H62.7776V22.68359Z' fill='#c6c6c6'/>
+<path d='M-67.617186 12.761718H62.7776' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
+<path d='M-29.3477-49.6016H18.8398' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883 2.98883'/>
+<path d='M-.1523-49.6016C-.1523-52.418-2.4375-54.7031-5.2539-54.7031S-10.3555-52.418-10.3555-49.6016C-10.3555-46.7812-8.0703-44.5-5.2539-44.5S-.1523-46.7812-.1523-49.6016Z' fill='#f00'/>
+<path d='M-.1523-49.6016C-.1523-52.418-2.4375-54.7031-5.2539-54.7031S-10.3555-52.418-10.3555-49.6016C-10.3555-46.7812-8.0703-44.5-5.2539-44.5S-.1523-46.7812-.1523-49.6016Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-18.0078-65.1914C-15.0664-57.1016-6.1172-52.9297 1.9727-55.875C5-56.9766 7.5547-58.9609 9.3594-61.5039' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M11.671873-67.062477C11.214841-66.44529 8.996092-63.832013 7.171876-62.38279L11.425775-60.5742C11.207028-62.890605 11.546876-66.30467 11.671873-67.062477Z'/>
+<path d='M11.671873-67.062477C11.214841-66.44529 8.996092-63.832013 7.171876-62.38279L11.425775-60.5742C11.207028-62.890605 11.546876-66.30467 11.671873-67.062477Z' stroke='#000' fill='none' stroke-width='.398488' stroke-miterlimit='10'/>
+<path d='M-5.2539 4.45703V-36.1953' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-5.253905 11.94141C-5.031249 11.02344-3.77734 6.98047-2.41016 4.457031H-8.09375C-6.73047 6.98047-5.476562 11.02344-5.253905 11.94141Z'/>
+<path d='M-5.253905 11.94141C-5.031249 11.02344-3.77734 6.98047-2.41016 4.457031H-8.09375C-6.73047 6.98047-5.476562 11.02344-5.253905 11.94141Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-5.253905-43.67579C-5.476562-42.75782-6.73047-38.71876-8.09375-36.195321H-2.41016C-3.77734-38.71876-5.031249-42.75782-5.253905-43.67579Z'/>
+<path d='M-5.253905-43.67579C-5.476562-42.75782-6.73047-38.71876-8.09375-36.195321H-2.41016C-3.77734-38.71876-5.031249-42.75782-5.253905-43.67579Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 68.597075 -27.0521)'>
+<use x='-67.616449' y='12.762185' xlink:href='#g0-104'/>
+<use x='-61.876379' y='14.256566' xlink:href='#g1-48'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 *Fig. 11: Straight vortex filament near a flat wall.*
 
 **E.1** *(0.5pt)* Draw the trajectory of a straight vortex, initially placed at a distance $h_0$ from a flat wall. Find its velocity as a function of time.
 
 Consider a straight vortex placed in a corner at a distance $h_0$ from both walls.
 
-![[APhO_2017_theory_Q1_p7_f12.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p7_f12.png]]
 *Fig. 12: Straight vortex filament in a corner.*
 
 **E.2** *(0.75pt)* What is the initial velocity $v_0$ of the vortex?
@@ -172,7 +203,7 @@ Consider a straight vortex placed in a corner at a distance $h_0$ from both wall
 **Topic:** [[Fluid Mechanics]], [[Modern-Quantum Physics]]
 **Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Symmetry Argument (metodo)|Symmetry Argument]], [[Superposition Principle (metodo)|Superposition Principle]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Electron (object)|Electron]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Electron (object)|Electron]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -201,7 +232,7 @@ e zero se il percorso può essere contratto a un singolo punto senza attraversar
 
 [^1]: La quantizzazione della circolazione è un effetto quantistico macroscopico e corrisponde alla quantizzazione del momento angolare nel modello di Bohr. Il quantum di circolazione può essere espresso come $\kappa = \hbar/m_{\text{He}}$, dove $m_{\text{He}}$ è la massa dell'atomo di elio.
 
-![[APhO_2017_theory_Q1_p2_f1.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p2_f1.png]]
 *Fig. 1: Filamento vortice (rosso) in superfluido (blu chiaro). Le velocità di circolazione lungo i percorsi $L_1$, $L_2$, $L_5$ e $L_6$ sono tutte zero, ma quelle per $L_3$ e $L_4$ sono uguali a $\pm 2\pi\kappa$. Si noti che le circolazioni lungo $L_3$ e $L_4$ presentano segni opposti.*
 
 #### Parte A. Filamento stabile (0,75 punti)
@@ -212,7 +243,7 @@ Si consideri un bicchiere cilindrico (radio $R_0 \gg a$) di elio superfluido e u
 
 **A.2** *(0,5pt) * Calcolare la forma della superficie libera (altezza in funzione delle coordinate $z(\vec{r})$) attorno al vortice. Accelerazione di caduta libera è $g$. La tensione superficiale può essere trascurata.
 
-![[APhO_2017_theory_Q1_p2_f2.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p2_f2.png]]
 *Fig. 2: Vortice diretto lungo l'asse di un bicchiere.*
 
 #### Parte B. Movimento del vortice (1,4 punti)
@@ -223,17 +254,17 @@ I vortici liberi si muovono nello spazio con il flusso [^2]. In altre parole, og
 
 Ad esempio, si consideri un paio di vortici retti che ruotano contro di loro e sono posizionati inizialmente a distanza $r_0$ l'uno dall'altro, vedere figura. 3. Ogni vortice produce velocità $v_0 = \kappa/r_0$ all'asse di un altro. Di conseguenza, la coppia di vortici si muove rettolineare con velocità costante $v_0 = \kappa/r_0$ in modo che la distanza tra di loro rimanga invariata.
 
-![[APhO_2017_theory_Q1_p3_f3.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p3_f3.png]]
 *Fig. 3: Filamenti di vortice paralleli con circolazioni opposte.*
 
 **B.1** *(0.25pt) * Considerate due vortici retti identici inizialmente posizionati a distanza $r_0$ tra loro come mostrato nella figura. 4. Trova le velocità iniziali dei vortici e disegna le loro traiettorie.
 
-![[APhO_2017_theory_Q1_p3_f4.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p3_f4.png]]
 *Fig. 4: Filamenti di vortice paralleli con circulazioni uguali.*
 
 Un calice di elio (vedere parte A) è riempito di reticola triangolare ($u \ll R_0$) di vortici verticali identici, vedere figura. 5.
 
-![[APhO_2017_theory_Q1_p3_f5.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p3_f5.png]]
 *Fig. 5: Rete triangolare di vortici in una tazza. La vista dall'alto.*
 
 **B.2 ** *(0.15pt) * Disegna le traiettorie dei vortici A, B e C (situati al centro).
@@ -272,10 +303,10 @@ $$
 
 [^3]: Questa espressione è valida anche solo se $\log R/a \gg 1$.
 
-![[APhO_2017_theory_Q1_p5_f6.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p5_f6.png]]
 *Fig. 6: Campo di velocità di un ciclo di vortice circolare e percorsi di integrazione (verde) per il calcolo $q(x, y)$.*
 
-![[APhO_2017_theory_Q1_p5_f7.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p5_f7.png]]
 *Fig. 7: Un ciclo di vortice quasi rettangolare, $b \ll d$.*
 
 **C.1 ** *(0.3pt) * Considera un ciclo di vortice quasi rettangolare $b \times d$, $b \ll d$, Figura. 7. Indicare la direzione della sua dinamica $\vec{P}$. Scopri la grandezza dell'impulso.
@@ -284,21 +315,21 @@ $$
 
 **C.3 ** *(0.75pt) * Supponiamo di spostare un lungo filamento di vortice retto di una distanza $b$ nella direzione $x$, vedi Figura. 8. Quanto cambia il momento del fluido? Indicare la direzione di cambiamento di impulso. La lunghezza del filamento (constretta dalle pareti del recipiente) è $d$.
 
-![[APhO_2017_theory_Q1_p6_f8.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p6_f8.png]]
 *Fig. 8: Il momento cambia ogni volta che il vortice si sposta rispetto al fluido.*
 
 Parte D. Cargos intrappolati (2,85 punti)
 
 Gli elettroni, se iniettati in elio, rimangono intrappolati nei filamenti del vortice. Qui e sotto la polarizzazione dell'elio può essere trascurata ($\epsilon = 1$).
 
-![[APhO_2017_theory_Q1_p6_f9.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p6_f9.png]]
 *Fig. 9: Vortice diretto in un campo elettrico uniforme.*
 
 **D.1 ** *(0,5pt) * Considera un vortice retto caricato con densità lineare uniforme $\lambda < 0$ in un campo elettrico uniforme $\vec{E}$. Disegna la traiettoria del vortice. Trova la sua velocità come funzione del tempo.
 
 Un ciclo di vortice circolare di raggio $R_0$ inizialmente carico di densità lineare uniforme $\lambda < 0$ è collocato in un campo elettrico uniforme $\vec{E}$ perpendicolare al suo piano, opposto al suo impulso $\vec{P}_0$.
 
-![[APhO_2017_theory_Q1_p6_f10.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p6_f10.png]]
 Figura 10: (a sinistra) Anello di vortice in un campo elettrico uniforme. (a destra) Sezione incrociata dell'anello.*
 
 **D.2** *(0.6pt) * Tracciare la traiettoria del centro del ciclo $C$. Trova il raggio del ciclo come funzione del tempo.
@@ -311,14 +342,45 @@ Figura 10: (a sinistra) Anello di vortice in un campo elettrico uniforme. (a des
 
 Le pareti solide alterano il campo di velocità creato da un filamento vortice, perché il fluido non può fluire attraverso di esse. Matematicamente questo significa che la componente della velocità normale della parete scompare alla superficie della parete.
 
-![[APhO_2017_theory_Q1_p7_f11.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='131.191796pt' height='90.649956pt' viewBox='-68.015691 -67.966366 131.191796 90.649956'>
+<defs>
+<path id='g0-104' d='M2.859278-6.804483C2.859278-6.814446 2.859278-6.914072 2.729763-6.914072C2.500623-6.914072 1.77335-6.834371 1.514321-6.814446C1.43462-6.804483 1.325031-6.794521 1.325031-6.615193C1.325031-6.495641 1.414695-6.495641 1.564134-6.495641C2.042341-6.495641 2.062267-6.425903 2.062267-6.326276L2.032379-6.127024L.587796-.388543C.547945-.249066 .547945-.229141 .547945-.169365C.547945 .059776 .747198 .109589 .836862 .109589C.996264 .109589 1.155666-.009963 1.205479-.14944L1.39477-.9066L1.613948-1.803238C1.673724-2.022416 1.733499-2.241594 1.783313-2.470735C1.803238-2.530511 1.882939-2.859278 1.892902-2.919054C1.92279-3.008717 2.231631-3.566625 2.570361-3.835616C2.789539-3.995019 3.098381-4.184309 3.526775-4.184309S4.064757-3.845579 4.064757-3.486924C4.064757-2.948941 3.686177-1.863014 3.447073-1.255293C3.367372-1.026152 3.317559-.9066 3.317559-.707347C3.317559-.239103 3.666252 .109589 4.134496 .109589C5.070984 .109589 5.439601-1.344956 5.439601-1.424658C5.439601-1.524284 5.349938-1.524284 5.32005-1.524284C5.220423-1.524284 5.220423-1.494396 5.17061-1.344956C5.021171-.816936 4.702366-.109589 4.154421-.109589C3.985056-.109589 3.915318-.209215 3.915318-.438356C3.915318-.687422 4.004981-.926526 4.094645-1.145704C4.254047-1.574097 4.702366-2.759651 4.702366-3.337484C4.702366-3.985056 4.303861-4.403487 3.556663-4.403487C2.929016-4.403487 2.450809-4.094645 2.082192-3.636364L2.859278-6.804483Z'/>
+<path id='g1-48' d='M3.598506-2.224658C3.598506-2.991781 3.507846-3.542715 3.187049-4.030884C2.970859-4.351681 2.538481-4.630635 1.980573-4.630635C.36264-4.630635 .36264-2.726775 .36264-2.224658S.36264 .139477 1.980573 .139477S3.598506-1.72254 3.598506-2.224658ZM1.980573-.055791C1.659776-.055791 1.234371-.244085 1.094894-.81594C.99726-1.227397 .99726-1.799253 .99726-2.315318C.99726-2.824408 .99726-3.354421 1.101868-3.737983C1.248319-4.288917 1.694645-4.435367 1.980573-4.435367C2.357161-4.435367 2.719801-4.20523 2.84533-3.800747C2.956912-3.424159 2.963885-2.922042 2.963885-2.315318C2.963885-1.799253 2.963885-1.283188 2.873225-.843836C2.733748-.209215 2.259527-.055791 1.980573-.055791Z'/>
+</defs>
+<g id='page1'>
+<path d='M-67.617186 22.68359V12.761718H62.7776V22.68359Z' fill='#c6c6c6'/>
+<path d='M-67.617186 12.761718H62.7776' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
+<path d='M-29.3477-49.6016H18.8398' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883 2.98883'/>
+<path d='M-.1523-49.6016C-.1523-52.418-2.4375-54.7031-5.2539-54.7031S-10.3555-52.418-10.3555-49.6016C-10.3555-46.7812-8.0703-44.5-5.2539-44.5S-.1523-46.7812-.1523-49.6016Z' fill='#f00'/>
+<path d='M-.1523-49.6016C-.1523-52.418-2.4375-54.7031-5.2539-54.7031S-10.3555-52.418-10.3555-49.6016C-10.3555-46.7812-8.0703-44.5-5.2539-44.5S-.1523-46.7812-.1523-49.6016Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-18.0078-65.1914C-15.0664-57.1016-6.1172-52.9297 1.9727-55.875C5-56.9766 7.5547-58.9609 9.3594-61.5039' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M11.671873-67.062477C11.214841-66.44529 8.996092-63.832013 7.171876-62.38279L11.425775-60.5742C11.207028-62.890605 11.546876-66.30467 11.671873-67.062477Z'/>
+<path d='M11.671873-67.062477C11.214841-66.44529 8.996092-63.832013 7.171876-62.38279L11.425775-60.5742C11.207028-62.890605 11.546876-66.30467 11.671873-67.062477Z' stroke='#000' fill='none' stroke-width='.398488' stroke-miterlimit='10'/>
+<path d='M-5.2539 4.45703V-36.1953' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-5.253905 11.94141C-5.031249 11.02344-3.77734 6.98047-2.41016 4.457031H-8.09375C-6.73047 6.98047-5.476562 11.02344-5.253905 11.94141Z'/>
+<path d='M-5.253905 11.94141C-5.031249 11.02344-3.77734 6.98047-2.41016 4.457031H-8.09375C-6.73047 6.98047-5.476562 11.02344-5.253905 11.94141Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-5.253905-43.67579C-5.476562-42.75782-6.73047-38.71876-8.09375-36.195321H-2.41016C-3.77734-38.71876-5.031249-42.75782-5.253905-43.67579Z'/>
+<path d='M-5.253905-43.67579C-5.476562-42.75782-6.73047-38.71876-8.09375-36.195321H-2.41016C-3.77734-38.71876-5.031249-42.75782-5.253905-43.67579Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 68.597075 -27.0521)'>
+<use x='-67.616449' y='12.762185' xlink:href='#g0-104'/>
+<use x='-61.876379' y='14.256566' xlink:href='#g1-48'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 *Fig. 11: Filamento di vortice diretto vicino a una parete piatta.*
 
 **E.1 ** *(0.5pt) * Disegnare la traiettoria di un vortice retto, inizialmente posizionato a una distanza $h_0$ da una parete piatta. Trova la sua velocità come funzione del tempo.
 
 Considerate un vortice retto posizionato in un angolo a una distanza $h_0$ da entrambe le pareti.
 
-![[APhO_2017_theory_Q1_p7_f12.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q1_p7_f12.png]]
 *Fig. 12: Filamento di vortice diretto in un angolo.*
 
 **E.2 ** *(0.75pt) * Qual è la velocità iniziale $v_0$ del vortice?
@@ -332,7 +394,7 @@ Considerate un vortice retto posizionato in un angolo a una distanza $h_0$ da en
 **Topic:** [[Fluid Mechanics]], [[Modern-Quantum Physics]]
 **Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Symmetry Argument (metodo)|Symmetry Argument]], [[Superposition Principle (metodo)|Superposition Principle]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Electron (object)|Electron]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Electron (object)|Electron]]
 
 
 
@@ -382,7 +444,7 @@ $$
 
 The angular deflection of the star $\alpha = k b_1/b$, where $k$ is some coefficient. Find the value of $k$. If you cannot find $k$, assume $k = 1$ hereafter.
 
-![[APhO_2017_theory_Q2_p2_f1.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q2_p2_f1.png]]
 *Fig. 1: The deflection of a star by the SBH with mass $M$. The impact parameter is $b$, the minimal distance between the star and the SBH is $r_m$.*
 
 **A.2** *(0.25pt)* Let $Ox$ axis be directed along the SBH's velocity. Find the momentum component $\Delta p_x$ transferred from the star to the SBH.
@@ -453,7 +515,7 @@ After a certain time, two SBH will approach the center of the galaxy. Let two SB
 
 **D.3** *(0.3pt)* Estimate the critical radius $a_1$ at which gravitational interaction between two SBHs is no longer negligible and calculate it. We will say that at this moment two SBHs form a binary system (fig. 2).
 
-![[APhO_2017_theory_Q2_p5_f2.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q2_p5_f2.png]]
 *Fig. 2: The evolution of SBHs before and after the formation of the binary system*
 
 **D.4** *(0.75pt)* Let us assume that after the merging of galaxies two SBHs were at distances $a_0 = 2 \text{ kpc} = 2 \times 10^3$ pc from the galaxy center. Calculate the time $T_1$ it takes for two SBH to form a binary due to dynamical friction.
@@ -520,7 +582,7 @@ $$
 
 La deflessione angolare della stella è $\alpha = k b_1/b$, dove $k$ è un certo coefficiente. Trovare il valore di $k$. Se non si riesce a trovare $k$, assumere $k = 1$ d'ora in avanti.
 
-![[APhO_2017_theory_Q2_p2_f1.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q2_p2_f1.png]]
 *Fig. 1: La deflessione di una stella da parte del SBH con massa $M$. Il parametro d'impatto è $b$, la distanza minima tra la stella e il SBH è $r_m$.*
 
 **A.2** *(0.25pt)* Sia l'asse $Ox$ diretto lungo la velocità del SBH. Trovare la componente della quantità di moto $\Delta p_x$ trasferita dalla stella al SBH.
@@ -591,7 +653,7 @@ Dopo un certo tempo, i due SBH si avvicineranno al centro della galassia. Siano 
 
 **D.3** *(0.3pt)* Stimare il raggio critico $a_1$ al quale l'interazione gravitazionale tra i due SBH non è più trascurabile e calcolarlo. Diremo che in questo momento i due SBH formano un sistema binario (fig. 2).
 
-![[APhO_2017_theory_Q2_p5_f2.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q2_p5_f2.png]]
 *Fig. 2: L'evoluzione dei SBH prima e dopo la formazione del sistema binario*
 
 **D.4** *(0.75pt)* Assumiamo che dopo la fusione delle galassie i due SBH fossero a distanze $a_0 = 2 \text{ kpc} = 2 \times 10^3$ pc dal centro della galassia. Calcolare il tempo $T_1$ necessario affinché i due SBH formino un binario a causa dell'attrito dinamico.
@@ -639,7 +701,7 @@ We suggest you to take part in planning of such a mission and find out how the r
 
 The debris object to be considered is a "Kerbodyne 42" rocket upper stage, whose schematic is shown in Fig. 1. The circle line in Fig. 1 marks the outline of a spherical fuel tank.
 
-![[APhO_2017_theory_Q3_p1_f1.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q3_p1_f1.png]]
 *Fig. 1: "Kerbodyne 42" upper stage*
 
 We introduce a body-fixed reference frame $Cxy$ with the origin in the center of mass $C$, $x$ being the symmetry axis of the stage, and $y$ perpendicular to $x$. The inertia moments with respect to $x$ and $y$ axes are $J_x$ and $J_y$ ($J_x < J_y$).
@@ -648,7 +710,7 @@ We introduce a body-fixed reference frame $Cxy$ with the origin in the center of
 
 Consider an arbitrary initial rotation of the stage with angular momentum $L$ (Fig. 2), where $\theta$ is the angle between the symmetry axis and the direction of angular momentum. Fuel tank at this point is assumed to be empty. No forces or torques act upon the stage.
 
-![[APhO_2017_theory_Q3_p2_f2.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q3_p2_f2.png]]
 *Fig. 2: Rocket stage rotation*
 
 **A.1** *(0.2pt)* Find the projections of angular velocity $\vec{\omega}$ on $x$ and $y$, given that $\vec{L} = J_x \omega_x \vec{e}_x + J_y \omega_y \vec{e}_y$ for material symmetry axes $x$ and $y$ with unit vectors $\vec{e}_x$ and $\vec{e}_y$. Provide the answer in terms of $L = |\vec{L}|$, angle $\theta$, and inertia moments $J_x$, $J_y$.
@@ -661,7 +723,7 @@ In the following questions of Section A consider the stage's free rotation with 
 
 *Note: Since there are no external torques acting upon the stage, the angular momentum vector remains constant.*
 
-![[APhO_2017_theory_Q3_p2_f3.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q3_p2_f3.png]]
 *Fig. 3: Precession*
 
 Let us now introduce the reference frame $Cx_1y_1z_1$ with $y_1$ along the constant angular momentum vector $\vec{L}$ (Fig. 3). This reference frame rotates about $y_1$ in such a way, that the stage's symmetry axis always belongs to the $Cx_1y_1$ plane.
@@ -688,7 +750,7 @@ Another important factor in rotational dynamics of a debris rocket stage, which 
 
 Let us place a thin-walled nonmagnetic spherical shell with wall thickness $D$ and radius $R$ in a uniform magnetic field $\vec{B}$, which slowly changes so that its derivative $\dot{\vec{B}}$ is a constant vector making angle $\alpha$ with the direction of $\vec{B}$ (Fig. 4). Electrical resistivity of the shell's material is $\rho$.
 
-![[APhO_2017_theory_Q3_p4_f4.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q3_p4_f4.png]]
 *Fig. 4: Spherical shell in magnetic field*
 
 **C.1** *(1.0pt)* Find the induced magnetic moment $\vec{\mu}$ of the shell, neglecting its self-inductance. Provide the answer for $\vec{\mu}$ in the form of projections on $xyz$ (see Fig. 4).
@@ -699,7 +761,7 @@ Let us place a thin-walled nonmagnetic spherical shell with wall thickness $D$ a
 
 Let us find out how the rotation changes for a rocket stage, which moves in a circular polar orbit with orbital period $T = 100 \, min$ (Fig. 5). It transpires that the characteristic times of dynamics due to interaction with the geomagnetic field are much greater than the duration of the transient process. We will now study what happens to the rocket stage after the transient process has completed. To start our analysis consider the stage rotating with angular velocity $\omega_2$ about the axis perpendicular to the orbital plane.
 
-![[APhO_2017_theory_Q3_p5_f5.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q3_p5_f5.png]]
 *Fig. 5: The orbit*
 
 **C.3** *(0.4pt)* The Earth's magnetic field $\vec{B}_E$ can be modeled as the magnetic field of a point dipole in the Earth's center. Its dipole moment $\vec{\mu}_E$ is directed opposite to $Y$ axis. The absolute value of the Earth's magnetic field $B$ at the point where the orbit crosses the equatorial plane $XZ$ is $B_0 = 20 \, \mu T$. Find $\vec{B}_E(u)$ at a current position of the stage in the orbit defined by the angle $u$ as shown in Fig. 5. The positive direction of $u$ is along with the orbital motion. Provide the answer in the form of the projections of $\vec{B}_E(u)$ on $XYZ$.
@@ -746,7 +808,7 @@ Ti suggeriamo di partecipare alla pianificazione di una missione del genere e sc
 
 L'oggetto di detriti da considerare è un razzo "Kerbodyne 42" di livello superiore, il cui schema è mostrato nella figura. 1. La linea del cerchio in Fig. 1 segna la struttura di un serbatoio di combustibile sferico.
 
-![[APhO_2017_theory_Q3_p1_f1.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q3_p1_f1.png]]
 *Fig. 1: "Kerbodyne 42" fase superiore*
 
 Introduciamo un quadro di riferimento fisso a corpo $Cxy$ con l'origine nel centro di massa $C$, $x$ essendo l'asse di simmetria dello stadio, e $y$ perpendicolare a $x$. I momenti di inerzia rispetto agli assi $x$ e $y$ sono $J_x$ e $J_y$ ($J_x < J_y$).
@@ -755,7 +817,7 @@ Introduciamo un quadro di riferimento fisso a corpo $Cxy$ con l'origine nel cent
 
 Considerare una rotazione iniziale arbitraria della fase con impulso angolare $L$ (Fig. 2), dove $\theta$ è l'angolo tra l'asse di simmetria e la direzione del momento angolare. Si presume che il serbatoio di carburante sia vuoto. Nessuna forza o coppia agiscono sul palco.
 
-![[APhO_2017_theory_Q3_p2_f2.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q3_p2_f2.png]]
 *Fig. 2: rotazione di fase del razzo*
 
 **A.1** *(0.2pt) * Trova le proiezioni della velocità angolare $\vec{\omega}$ su $x$ e $y$, dato che $\vec{L} = J_x \omega_x \vec{e}_x + J_y \omega_y \vec{e}_y$ per gli assi di simmetria materiale $x$ e $y$ con vettori unitari $\vec{e}_x$ e $\vec{e}_y$. Fornire la risposta in termini di $L = |\vec{L}|$, angolo $\theta$ e momenti di inerzia $J_x$, $J_y$.
@@ -768,7 +830,7 @@ Le domande di cui alla sezione A riportate in appresso presentano la rotazione l
 
 *Nota: poiché non ci sono coppie esterne che agiscono sul palco, il vettore di momentum angolare rimane costante.*
 
-![[APhO_2017_theory_Q3_p2_f3.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q3_p2_f3.png]]
 *Fig. 3: Precessione*
 
 Introducendo ora il quadro di riferimento $Cx_1y_1z_1$ con $y_1$ lungo il vettore di momentum angolare costante $\vec{L}$ (Fig. 3). Questo quadro di riferimento ruota intorno a $y_1$ in modo tale che l'asse di simmetria della scena appartiene sempre al piano $Cx_1y_1$.
@@ -795,7 +857,7 @@ Un altro fattore importante nella dinamica di rotazione di uno stadio di razzo d
 
 Mettiamo una conchiglia sferica non magnetica a pareti sottili con spessore $D$ e raggio $R$ in un campo magnetico uniforme $\vec{B}$, che cambia lentamente in modo che la sua derivata $\dot{\vec{B}}$ sia un angolo di formazione vettoriale costante $\alpha$ con la direzione $\vec{B}$ (Fig. 4). La resistenza elettrica del materiale della conchiglia è $\rho$.
 
-![[APhO_2017_theory_Q3_p4_f4.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q3_p4_f4.png]]
 *Fig. 4: conchiglia sferica in campo magnetico*
 
 **C.1** *(1.0pt) * Trova il momento magnetico indotto $\vec{\mu}$ della conchiglia, trascurando la sua auto-induzione. Fornire la risposta per $\vec{\mu}$ sotto forma di proiezioni su $xyz$ (vedi figura 1. 4).
@@ -806,7 +868,7 @@ Mettiamo una conchiglia sferica non magnetica a pareti sottili con spessore $D$ 
 
 Scopriamo come cambia la rotazione di una fase di razzo, che si muove in un'orbita polare circolare con periodo orbitale $T = 100 \, min$ (Fig. 5). Si scopre che i tempi caratteristici della dinamica dovuti all'interazione con il campo geomagnetico sono molto più grandi della durata del processo transitorio. Ora studieremo cosa accade alla fase del razzo dopo che il processo transitorio è completato. Per iniziare la nostra analisi, consideriamo la fase che ruota con velocità angolare $\omega_2$ intorno all'asse perpendicolare al piano orbitale.
 
-![[APhO_2017_theory_Q3_p5_f5.png]]
+![[_attachments/apho_2017_theory/apho_2017_theory_q3_p5_f5.png]]
 *Fig. 5: L'orbita*
 
 **C.3** *(0.4pt)* The Earth's magnetic field $\vec{B}_E$ can be modeled as the magnetic field of a point dipole in the Earth's center. Il suo momento di dipole $\vec{\mu}_E$ è orientato opposto all'asse $Y$. Il valore assoluto del campo magnetico terrestre $B$ al punto in cui l'orbita attraversa il piano equatoriale $XZ$ è $B_0 = 20 \, \mu T$. Trova $\vec{B}_E(u)$ in una posizione corrente dello stadio nell'orbita definita dall'angolo $u$ come mostrato nella figura. 5. La direzione positiva di $u$ è corrispondente al movimento orbitale. Fornire la risposta sotto forma di proiezioni di $\vec{B}_E(u)$ su $XYZ$.

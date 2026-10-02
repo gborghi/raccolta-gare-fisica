@@ -744,7 +744,7 @@ cortada tem 10 cm de diâmetro.
 **Topic:** [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/10i9bLtqDXjgDAYiu7K_kyvwJ8SuHw5Za/view)
 
 
@@ -798,7 +798,7 @@ La taglia ha un diametro di 10 centimetri.
 **Topic:** [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/10i9bLtqDXjgDAYiu7K_kyvwJ8SuHw5Za/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -851,7 +851,7 @@ Cut has a diameter of 10 cm.
 **Topic:** [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/10i9bLtqDXjgDAYiu7K_kyvwJ8SuHw5Za/view)
 
 
@@ -1499,7 +1499,7 @@ arrebenta. Qual das trajetórias fará o objeto?
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Ball (object)|Ball]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/10i9bLtqDXjgDAYiu7K_kyvwJ8SuHw5Za/view)
 
 
@@ -1514,7 +1514,7 @@ circolare uniformemente e a un certo punto la corda
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Ball (object)|Ball]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/10i9bLtqDXjgDAYiu7K_kyvwJ8SuHw5Za/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1528,7 +1528,7 @@ It's a big deal. Which trajectory will make the object?
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Ball (object)|Ball]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/10i9bLtqDXjgDAYiu7K_kyvwJ8SuHw5Za/view)
 
 

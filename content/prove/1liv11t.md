@@ -536,7 +536,7 @@ La valvola entrerebbe in funzione se la bombola raggiungesse una temperatura di 
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
 **Risposta:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
@@ -555,7 +555,7 @@ The valve would be operational if the pump reached a temperature of ...
 **Topic:** [[Thermodynamics]], [[Kinetic Theory]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
 The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
 
@@ -959,7 +959,7 @@ Quale coppia di punti si muove in fase?
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Superposition Principle (metodo)|Superposition Principle]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
 **Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
@@ -982,7 +982,7 @@ What pair of points moves in phase?
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Superposition Principle (metodo)|Superposition Principle]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
 The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
 
@@ -1053,7 +1053,7 @@ Sapendo che la tensione del filo è di 70 N, determinare la massa dell'uccello.
 **Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
 **Risposta:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
@@ -1076,7 +1076,7 @@ The following is the list of the countries of the European Union:
 **Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
 The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the prevention of trafficking in human beings'.
 
@@ -1198,7 +1198,7 @@ Quali, tra le seguenti relazioni di velocità e pressione, nei due punti indicat
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
 **Risposta:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
@@ -1221,7 +1221,7 @@ The following table shows the results of the tests:
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
 The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
 
@@ -1488,7 +1488,7 @@ La densità del liquido è
 **Topic:** [[Fluid Mechanics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
 **Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
@@ -1511,7 +1511,7 @@ The density of the liquid is
 **Topic:** [[Fluid Mechanics]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
 The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
 
@@ -1582,7 +1582,7 @@ Quale vettore indica la direzione e il verso in cui si sta muovendo il punto P i
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
 **Risposta:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
@@ -1605,7 +1605,7 @@ Transverse pulse on string with point P
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
 The Commission has also adopted a number of proposals for the implementation of the 'Settlement of the European Union's financial instruments.
 
@@ -1813,7 +1813,51 @@ Che cosa rappresenta la pendenza di questo grafico?
 - **D.** L'intensità del campo elettrico
 - **E.** La differenza di potenziale
 <!--fig:start-->
-![[_attachments/1liv11T/1liv11T_p10_f20.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='156.507541pt' height='131.558255pt' viewBox='-68.015691 -68.01525 156.507541 131.558255'>
+<defs>
+<path id='g0-21' d='M3.556663-2.909091C3.965131-1.863014 4.443337-.33873 4.60274-.109589C4.762142 .109589 4.861768 .109589 5.13076 .109589H5.349938C5.449564 .099626 5.459527 .039851 5.459527 .009963S5.439601-.039851 5.409714-.079701C5.310087-.18929 5.250311-.33873 5.180573-.537983L3.148194-6.206725C2.938979-6.784558 2.400996-6.914072 1.932752-6.914072C1.882939-6.914072 1.753425-6.914072 1.753425-6.804483C1.753425-6.724782 1.833126-6.704857 1.843088-6.704857C2.171856-6.645081 2.241594-6.585305 2.49066-5.907846L3.457036-3.198007L.707347-.468244C.587796-.348692 .52802-.288917 .52802-.159402C.52802 .009963 .667497 .129514 .826899 .129514S1.075965 .019925 1.155666-.079701L3.556663-2.909091Z'/>
+<path id='g1-65' d='M3.965131-6.933998C3.915318-7.063512 3.895392-7.13325 3.73599-7.13325S3.5467-7.073474 3.496887-6.933998L1.43462-.976339C1.255293-.468244 .856787-.318804 .318804-.308842V0C.547945-.009963 .976339-.029888 1.334994-.029888C1.643836-.029888 2.161893-.009963 2.480697 0V-.308842C1.982565-.308842 1.733499-.557908 1.733499-.816936C1.733499-.846824 1.743462-.946451 1.753425-.966376L2.211706-2.271482H4.672478L5.200498-.747198C5.210461-.707347 5.230386-.647572 5.230386-.607721C5.230386-.308842 4.672478-.308842 4.403487-.308842V0C4.762142-.029888 5.459527-.029888 5.838107-.029888C6.266501-.029888 6.724782-.019925 7.143213 0V-.308842H6.963885C6.366127-.308842 6.22665-.37858 6.117061-.707347L3.965131-6.933998ZM3.437111-5.818182L4.562889-2.580324H2.321295L3.437111-5.818182Z'/>
+<path id='g1-66' d='M2.211706-3.646326V-6.097136C2.211706-6.425903 2.231631-6.495641 2.699875-6.495641H3.935243C4.901619-6.495641 5.250311-5.648817 5.250311-5.120797C5.250311-4.483188 4.762142-3.646326 3.656289-3.646326H2.211706ZM4.562889-3.556663C5.529265-3.745953 6.216687-4.383562 6.216687-5.120797C6.216687-5.987547 5.300125-6.804483 4.004981-6.804483H.358655V-6.495641H.597758C1.364882-6.495641 1.384807-6.386052 1.384807-6.027397V-.777086C1.384807-.418431 1.364882-.308842 .597758-.308842H.358655V0H4.26401C5.589041 0 6.485679-.886675 6.485679-1.823163C6.485679-2.689913 5.668742-3.437111 4.562889-3.556663ZM3.945205-.308842H2.699875C2.231631-.308842 2.211706-.37858 2.211706-.707347V-3.427148H4.084682C5.070984-3.427148 5.489415-2.500623 5.489415-1.833126C5.489415-1.125778 4.971357-.308842 3.945205-.308842Z'/>
+</defs>
+<g id='page1'>
+<path d='M-67.617186-36.637V-67.816H88.2926V-36.637Z' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M-2.1367-36.637V-67.816' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M50.8746-36.637V-67.816' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M66.4646-36.637V-67.816' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M71.1406-36.637V-67.816' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M-44.2305-27.281H-67.218748' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M-65.3438-24.89063C-65.7227-26.324226-66.566454-27.003914-67.418016-27.281257C-66.566454-27.562507-65.7227-28.238289-65.3438-29.67188' stroke='#000' fill='none' stroke-width='.3985' stroke-linecap='round' stroke-linejoin='round'/>
+<g transform='matrix(1 0 0 1 8.7873 -136.1153)'>
+<use x='-67.616449' y='119.271847' xlink:href='#g0-21'/>
+</g>
+<path d='M-67.617186 25.7266V-5.453H88.2926V25.7266Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-67.617186 .781V-14.809H-52.0273V.781Z' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 4.0594 -122.88186)'>
+<use x='-67.616449' y='119.271847' xlink:href='#g1-65'/>
+</g>
+<path d='M-2.1367 25.7266V-5.453' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M50.8746 25.7266V-5.453' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M66.4646 25.7266V-5.453' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M71.1406 25.7266V-5.453' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-44.2305 35.082H-67.218748' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-65.3438 37.47262C-65.7227 36.039028-66.566454 35.35934-67.418016 35.081997C-66.566454 34.800747-65.7227 34.124965-65.3438 32.69137' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/>
+<g transform='matrix(1 0 0 1 8.7873 -73.752)'>
+<use x='-67.616449' y='119.271847' xlink:href='#g0-21'/>
+</g>
+<path d='M-67.617186 56.9102H88.2926' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-67.617186 63.1445V47.5547H-52.0273V63.1445Z' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 4.2669 -60.5185)'>
+<use x='-67.616449' y='119.271847' xlink:href='#g1-66'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 *Work vs charge in electrostatic field*
 <!--fig:end-->
 **Topic:** [[Electrostatics]]
@@ -1836,7 +1880,51 @@ What does the slope of this graph represent?
 - **D.** The intensity of the electric field
 - **E.** The difference in potential
 <!--fig:start-->
-![[_attachments/1liv11T/1liv11T_p10_f20.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='156.507541pt' height='131.558255pt' viewBox='-68.015691 -68.01525 156.507541 131.558255'>
+<defs>
+<path id='g0-21' d='M3.556663-2.909091C3.965131-1.863014 4.443337-.33873 4.60274-.109589C4.762142 .109589 4.861768 .109589 5.13076 .109589H5.349938C5.449564 .099626 5.459527 .039851 5.459527 .009963S5.439601-.039851 5.409714-.079701C5.310087-.18929 5.250311-.33873 5.180573-.537983L3.148194-6.206725C2.938979-6.784558 2.400996-6.914072 1.932752-6.914072C1.882939-6.914072 1.753425-6.914072 1.753425-6.804483C1.753425-6.724782 1.833126-6.704857 1.843088-6.704857C2.171856-6.645081 2.241594-6.585305 2.49066-5.907846L3.457036-3.198007L.707347-.468244C.587796-.348692 .52802-.288917 .52802-.159402C.52802 .009963 .667497 .129514 .826899 .129514S1.075965 .019925 1.155666-.079701L3.556663-2.909091Z'/>
+<path id='g1-65' d='M3.965131-6.933998C3.915318-7.063512 3.895392-7.13325 3.73599-7.13325S3.5467-7.073474 3.496887-6.933998L1.43462-.976339C1.255293-.468244 .856787-.318804 .318804-.308842V0C.547945-.009963 .976339-.029888 1.334994-.029888C1.643836-.029888 2.161893-.009963 2.480697 0V-.308842C1.982565-.308842 1.733499-.557908 1.733499-.816936C1.733499-.846824 1.743462-.946451 1.753425-.966376L2.211706-2.271482H4.672478L5.200498-.747198C5.210461-.707347 5.230386-.647572 5.230386-.607721C5.230386-.308842 4.672478-.308842 4.403487-.308842V0C4.762142-.029888 5.459527-.029888 5.838107-.029888C6.266501-.029888 6.724782-.019925 7.143213 0V-.308842H6.963885C6.366127-.308842 6.22665-.37858 6.117061-.707347L3.965131-6.933998ZM3.437111-5.818182L4.562889-2.580324H2.321295L3.437111-5.818182Z'/>
+<path id='g1-66' d='M2.211706-3.646326V-6.097136C2.211706-6.425903 2.231631-6.495641 2.699875-6.495641H3.935243C4.901619-6.495641 5.250311-5.648817 5.250311-5.120797C5.250311-4.483188 4.762142-3.646326 3.656289-3.646326H2.211706ZM4.562889-3.556663C5.529265-3.745953 6.216687-4.383562 6.216687-5.120797C6.216687-5.987547 5.300125-6.804483 4.004981-6.804483H.358655V-6.495641H.597758C1.364882-6.495641 1.384807-6.386052 1.384807-6.027397V-.777086C1.384807-.418431 1.364882-.308842 .597758-.308842H.358655V0H4.26401C5.589041 0 6.485679-.886675 6.485679-1.823163C6.485679-2.689913 5.668742-3.437111 4.562889-3.556663ZM3.945205-.308842H2.699875C2.231631-.308842 2.211706-.37858 2.211706-.707347V-3.427148H4.084682C5.070984-3.427148 5.489415-2.500623 5.489415-1.833126C5.489415-1.125778 4.971357-.308842 3.945205-.308842Z'/>
+</defs>
+<g id='page1'>
+<path d='M-67.617186-36.637V-67.816H88.2926V-36.637Z' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M-2.1367-36.637V-67.816' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M50.8746-36.637V-67.816' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M66.4646-36.637V-67.816' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M71.1406-36.637V-67.816' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M-44.2305-27.281H-67.218748' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M-65.3438-24.89063C-65.7227-26.324226-66.566454-27.003914-67.418016-27.281257C-66.566454-27.562507-65.7227-28.238289-65.3438-29.67188' stroke='#000' fill='none' stroke-width='.3985' stroke-linecap='round' stroke-linejoin='round'/>
+<g transform='matrix(1 0 0 1 8.7873 -136.1153)'>
+<use x='-67.616449' y='119.271847' xlink:href='#g0-21'/>
+</g>
+<path d='M-67.617186 25.7266V-5.453H88.2926V25.7266Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-67.617186 .781V-14.809H-52.0273V.781Z' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 4.0594 -122.88186)'>
+<use x='-67.616449' y='119.271847' xlink:href='#g1-65'/>
+</g>
+<path d='M-2.1367 25.7266V-5.453' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M50.8746 25.7266V-5.453' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M66.4646 25.7266V-5.453' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M71.1406 25.7266V-5.453' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-44.2305 35.082H-67.218748' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-65.3438 37.47262C-65.7227 36.039028-66.566454 35.35934-67.418016 35.081997C-66.566454 34.800747-65.7227 34.124965-65.3438 32.69137' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/>
+<g transform='matrix(1 0 0 1 8.7873 -73.752)'>
+<use x='-67.616449' y='119.271847' xlink:href='#g0-21'/>
+</g>
+<path d='M-67.617186 56.9102H88.2926' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-67.617186 63.1445V47.5547H-52.0273V63.1445Z' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 4.2669 -60.5185)'>
+<use x='-67.616449' y='119.271847' xlink:href='#g1-66'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 The following information is provided for in Article 2 (1) of Regulation (EU) No 1303/2013.
 <!--fig:end-->
 **Topic:** [[Electrostatics]]

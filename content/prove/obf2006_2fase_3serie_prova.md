@@ -88,7 +88,7 @@ Nestas condições, determine:
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1h3Y64o79usgMxYHyzWYPxVwBcqAc9AUJ/view)
 
 
@@ -105,7 +105,7 @@ In tali condizioni, determina:
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1h3Y64o79usgMxYHyzWYPxVwBcqAc9AUJ/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -121,7 +121,7 @@ In these conditions, determine:
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Kinematic Equations (metodo)|Kinematic Equations]]
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1h3Y64o79usgMxYHyzWYPxVwBcqAc9AUJ/view)
 
 
@@ -355,7 +355,7 @@ Considerando o calor específico do chumbo como $0{,}03\ \text{cal} \cdot \text{
 **Topic:** [[Conservation of Energy]], [[Thermodynamics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Ball (object)|Ball]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1h3Y64o79usgMxYHyzWYPxVwBcqAc9AUJ/view)
 
 
@@ -392,7 +392,7 @@ Considerando che il calore specifico del piombo come $0{,}03\ \text{cal} \cdot \
 **Topic:** [[Conservation of Energy]], [[Thermodynamics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Ball (object)|Ball]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1h3Y64o79usgMxYHyzWYPxVwBcqAc9AUJ/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -428,7 +428,7 @@ Considering the specific heat of lead as $0{,}03\ \text{cal} \cdot \text{g}^{-1}
 **Topic:** [[Conservation of Energy]], [[Thermodynamics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Ball (object)|Ball]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1h3Y64o79usgMxYHyzWYPxVwBcqAc9AUJ/view)
 
 

@@ -412,7 +412,7 @@ The addresses of the state representatives, who coordinate the conduct of the fi
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Wire (object)|Wire]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1ytusmXXSEtLOYUvBLRUYRMVwogT7_xuK/view)
 
 
@@ -514,7 +514,7 @@ Gli indirizzi dei rappresentanti statali che coordinano la condotta dei primi du
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Wire (object)|Wire]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1ytusmXXSEtLOYUvBLRUYRMVwogT7_xuK/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -615,5 +615,5 @@ The addresses of the state representatives, who coordinate the conduct of the fi
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Wire (object)|Wire]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1ytusmXXSEtLOYUvBLRUYRMVwogT7_xuK/view)

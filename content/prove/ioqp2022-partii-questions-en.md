@@ -132,7 +132,7 @@ The first explosion of an atomic bomb was the Trinity test in New Mexico in 1945
 
 <!--fig:start-->
 **Quesito 2**
-![[IOQP2022-PartII-Questions-en_p2_f1.png]]
+![[_attachments/ioqp2022-partii-questions-en/ioqp2022-partii-questions-en_p2_f1.png]]
 <!--fig:end-->
 
 A scientist, Prof. Geoffrey Taylor, could make an estimate of the energy released by the bomb from an analysis of such photographs. Here we try to follow in his footsteps, with some suitable simplifications.
@@ -141,7 +141,7 @@ We are also given a graph of the data obtained by Prof. Taylor, as shown below. 
 
 <!--fig:start-->
 **Quesito 2**
-![[IOQP2022-PartII-Questions-en_p3_f1.png]]
+![[_attachments/ioqp2022-partii-questions-en/ioqp2022-partii-questions-en_p3_f1.png]]
 <!--fig:end-->
 
 Given data:
@@ -168,7 +168,7 @@ La prima esplosione di una bomba atomica fu la prova della Trinità nel Nuovo Me
 
 <!--fig:start-->
 **Quesito 2**
-![[IOQP2022-PartII-Questions-en_p2_f1.png]]
+![[_attachments/ioqp2022-partii-questions-en/ioqp2022-partii-questions-en_p2_f1.png]]
 <!--fig:end-->
 
 Uno scienziato, il Prof. Geoffrey Taylor, potrebbe fare una stima dell'energia rilasciata dalla bomba da un'analisi di tali fotografie. Qui cerchiamo di seguire le sue orme, con alcune semplificazioni appropriate.
@@ -177,7 +177,7 @@ Ci viene inoltre dato un grafico dei dati ottenuti dal Prof. Taylor, come mostra
 
 <!--fig:start-->
 **Quesito 2**
-![[IOQP2022-PartII-Questions-en_p3_f1.png]]
+![[_attachments/ioqp2022-partii-questions-en/ioqp2022-partii-questions-en_p3_f1.png]]
 <!--fig:end-->
 
 Dati dati:
@@ -259,7 +259,7 @@ Next, she plotted a graph between $T^2$ and $l$ from the same data, and obtained
 
 <!--fig:start-->
 **Quesito 4**
-![[IOQP2022-PartII-Questions-en_p4_f1.png]]
+![[_attachments/ioqp2022-partii-questions-en/ioqp2022-partii-questions-en_p4_f1.png]]
 <!--fig:end-->
 
 (a) [3 marks] What do you think might be the main cause for the consistently low values of $g$ that she obtained from each of her measurements?
@@ -293,7 +293,7 @@ Successivamente, ha tracciato un grafico tra $T^2$ e $l$ dai medesimi dati, otte
 
 <!--fig:start-->
 **Quesito 4**
-![[IOQP2022-PartII-Questions-en_p4_f1.png]]
+![[_attachments/ioqp2022-partii-questions-en/ioqp2022-partii-questions-en_p4_f1.png]]
 <!--fig:end-->
 
 (a) [3 punti] Qual è la causa principale per cui le sue misure hanno ottenuto valori costantemente bassi di $g$?
@@ -321,7 +321,7 @@ Supponiamo che gli strumenti di misurazione del tempo e della lunghezza siano st
 
 <!--fig:start-->
 **Quesito 5**
-![[IOQP2022-PartII-Questions-en_p4_f2.png]]
+![[_attachments/ioqp2022-partii-questions-en/ioqp2022-partii-questions-en_p4_f2.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]
@@ -338,7 +338,7 @@ Un circuito è composto da una fonte di emf e da cinque resistenti con resistenz
 
 <!--fig:start-->
 **Quesito 5**
-![[IOQP2022-PartII-Questions-en_p4_f2.png]]
+![[_attachments/ioqp2022-partii-questions-en/ioqp2022-partii-questions-en_p4_f2.png]]
 <!--fig:end-->
 
 **Topic:** [[Circuits]]

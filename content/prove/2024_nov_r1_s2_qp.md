@@ -185,7 +185,7 @@ The hea
 **Topic:** [[Thermodynamics]], [[Circuits]], [[Astrophysics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Differential Equations (metodo)|Differential Equations]], [[Mass-Energy Equivalence (metodo)|Mass-Energy Equivalence]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Capacitor (object)|Capacitor]], [[Resistor (object)|Resistor]], [[Bubble (object)|Bubble]], [[Star (object)|Star]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Capacitor (object)|Capacitor]], [[Resistor (object)|Resistor]], [[Bubble (object)|Bubble]], [[Star (object)|Star]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1EG2o4bQRfvCLBRuZPHqhfIihIEdQSCJ-/view)
 
 
@@ -357,5 +357,5 @@ Il che
 **Topic:** [[Thermodynamics]], [[Circuits]], [[Astrophysics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Differential Equations (metodo)|Differential Equations]], [[Mass-Energy Equivalence (metodo)|Mass-Energy Equivalence]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Capacitor (object)|Capacitor]], [[Resistor (object)|Resistor]], [[Bubble (object)|Bubble]], [[Star (object)|Star]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Capacitor (object)|Capacitor]], [[Resistor (object)|Resistor]], [[Bubble (object)|Bubble]], [[Star (object)|Star]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1EG2o4bQRfvCLBRuZPHqhfIihIEdQSCJ-/view)

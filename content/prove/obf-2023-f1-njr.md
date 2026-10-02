@@ -664,7 +664,7 @@ Um recipiente aberto ao ar, em um local ao nível do mar, contém 1 kg de água 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1B83AUBKZMDkRwJLm6i9T2xRFLLeyktBf/view)
 
 
@@ -681,7 +681,7 @@ Un contenitore aperto all'aria, situato a livello del mare, contiene 1 kg di acq
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1B83AUBKZMDkRwJLm6i9T2xRFLLeyktBf/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -697,7 +697,7 @@ An open-air container at a location at sea level contains 1 kg of water at 10 °
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1B83AUBKZMDkRwJLm6i9T2xRFLLeyktBf/view)
 
 

@@ -88,7 +88,7 @@ prova.
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Disk (object)|Disk]], [[Sphere (object)|Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/126TjQkVftbX1zZc2xS476q9bibYXfqcM/view)
 
 
@@ -117,7 +117,7 @@ Prova.
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Disk (object)|Disk]], [[Sphere (object)|Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/126TjQkVftbX1zZc2xS476q9bibYXfqcM/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -145,7 +145,7 @@ I'll try that.
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Disk (object)|Disk]], [[Sphere (object)|Sphere]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/126TjQkVftbX1zZc2xS476q9bibYXfqcM/view)
 
 
@@ -230,7 +230,7 @@ $y$,
 **Topic:** [[Oscillations & Waves]], [[Thermodynamics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Gas (object)|Gas]], [[Piston (object)|Piston]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Gas (object)|Gas]], [[Piston (object)|Piston]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/126TjQkVftbX1zZc2xS476q9bibYXfqcM/view)
 
 
@@ -270,7 +270,7 @@ $y$,
 **Topic:** [[Oscillations & Waves]], [[Thermodynamics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Gas (object)|Gas]], [[Piston (object)|Piston]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Gas (object)|Gas]], [[Piston (object)|Piston]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/126TjQkVftbX1zZc2xS476q9bibYXfqcM/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -309,7 +309,7 @@ $y$,
 **Topic:** [[Oscillations & Waves]], [[Thermodynamics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Gas (object)|Gas]], [[Piston (object)|Piston]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Gas (object)|Gas]], [[Piston (object)|Piston]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/126TjQkVftbX1zZc2xS476q9bibYXfqcM/view)
 
 

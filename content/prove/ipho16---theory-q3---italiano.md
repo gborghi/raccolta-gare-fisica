@@ -214,7 +214,7 @@ Al CERN, i protoni a riposo sono accelerati da un acceleratore lineare di lunghe
 
 Determina il tempo $T$ che i protoni impiegano a passare attraverso questo campo.
 
-![Figura 1: Rappresentazione dell'acceleratore lineare.](fig1)
+*Figura 1: Rappresentazione dell'acceleratore lineare.*
 
 <!--fig:start-->
 ![[_attachments/IPhO16 - Theory Q3 - Italiano/IPhO16 - Theory Q3 - Italiano_p3_f1.png]]

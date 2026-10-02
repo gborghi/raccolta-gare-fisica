@@ -1075,7 +1075,7 @@ Il peso dell'uomo.
 **Topic:** [[Conservation of Energy]], [[Oscillations & Waves]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Spring (object)|Spring]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Spring (object)|Spring]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/16_xSffKVn7HMLxswvXNx8maPLREKPwF9/view)
 
 
@@ -1091,7 +1091,7 @@ Il peso dell'uomo.
 **Topic:** [[Conservation of Energy]], [[Oscillations & Waves]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Spring (object)|Spring]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Spring (object)|Spring]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/16_xSffKVn7HMLxswvXNx8maPLREKPwF9/view)
 
 
@@ -1112,7 +1112,7 @@ Il peso dell'uomo.
 **Topic:** [[Conservation of Energy]], [[Oscillations & Waves]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Spring (object)|Spring]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/16_xSffKVn7HMLxswvXNx8maPLREKPwF9/view)
 
 
@@ -1128,7 +1128,7 @@ Il peso dell'uomo.
 **Topic:** [[Conservation of Energy]], [[Oscillations & Waves]]
 **Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Conservation Laws (metodo)|Conservation Laws]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Spring (object)|Spring]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/16_xSffKVn7HMLxswvXNx8maPLREKPwF9/view)
 
 

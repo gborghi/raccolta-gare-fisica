@@ -167,7 +167,7 @@ Apellidos: Nombre:
 **Topic:** [[Newtonian Mechanics]], [[Gravitation]], [[Magnetism]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Star (object)|Star]], [[Wire (object)|Wire]], [[Coil (object)|Coil]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Star (object)|Star]], [[Wire (object)|Wire]], [[Coil (object)|Coil]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1kjWum0h8DM9GLVWK28qCEOQWc3CtRXDp/view)
 
 
@@ -321,7 +321,7 @@ Nome:
 **Topic:** [[Newtonian Mechanics]], [[Gravitation]], [[Magnetism]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Star (object)|Star]], [[Wire (object)|Wire]], [[Coil (object)|Coil]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Star (object)|Star]], [[Wire (object)|Wire]], [[Coil (object)|Coil]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1kjWum0h8DM9GLVWK28qCEOQWc3CtRXDp/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -474,5 +474,5 @@ Family name:
 **Topic:** [[Newtonian Mechanics]], [[Gravitation]], [[Magnetism]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Star (object)|Star]], [[Wire (object)|Wire]], [[Coil (object)|Coil]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Star (object)|Star]], [[Wire (object)|Wire]], [[Coil (object)|Coil]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1kjWum0h8DM9GLVWK28qCEOQWc3CtRXDp/view)

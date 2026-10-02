@@ -21,7 +21,7 @@ tags:
 
 This is to determine the horizontal component of the Earth's magnetic field $B_H$ using small-amplitude oscillation of a cylindrical bar magnet. The magnet is to oscillate in the combined static fields of the Earth and that due to a square coil.
 
-![[APhO_2009_exp_p1_f1.png]]
+![[prove/_attachments/apho_2009_exp/apho_2009_exp_p1_f1.png]]
 *Figure 1*
 
 The experiment is to be done in three sections. Section I is a derivation of formulae to be used in Section III.
@@ -57,7 +57,7 @@ $$B_P = \frac{\mu_0 i}{2\pi\ell}\,\frac{(a/2)}{\sqrt{\ell^2 + \left(\dfrac{a}{2}
 
 where $\mu_0 = 4\pi \times 10^{-7}$ henry per metre, the permeability of free space.
 
-![[APhO_2009_exp_p3_f1.png]]
+![[prove/_attachments/apho_2009_exp/apho_2009_exp_p3_f1.png]]
 *Figure 3*
 
 Use this expression to show that the expression for the magnitude of the magnetic flux density from the square coil at point P in Figure 1 is given by
@@ -113,7 +113,7 @@ By reversing the connection at the power supply, find the equilibrium position $
 
 Questo è per determinare la componente orizzontale del campo magnetico terrestre $B_H$ utilizzando l'oscillazione a piccola amplitudine di un magnete a barre cilindriche. Il magnete oscilla nei campi statici combinati della Terra e questo a causa di una bobina quadrata.
 
-![[APhO_2009_exp_p1_f1.png]]
+![[prove/_attachments/apho_2009_exp/apho_2009_exp_p1_f1.png]]
 *Figura 1*
 
 L'esperimento sarà condotto in tre sezioni. La sezione I è una derivazione delle formule da utilizzare nella sezione III.
@@ -149,7 +149,7 @@ $$B_P = \frac{\mu_0 i}{2\pi\ell}\,\frac{(a/2)}{\sqrt{\ell^2 + \left(\dfrac{a}{2}
 
 dove $\mu_0 = 4\pi \times 10^{-7}$ per metro, la permeabilità dello spazio libero.
 
-![[APhO_2009_exp_p3_f1.png]]
+![[prove/_attachments/apho_2009_exp/apho_2009_exp_p3_f1.png]]
 *Figura 3*
 
 Usare questa espressione per mostrare che l'espressione per la grandezza della densità del flusso magnetico dalla bobina quadrata al punto P nella figura 1 è data da
@@ -210,7 +210,7 @@ Invertendo la connessione all'alimentazione, trovare la posizione di equilibrio 
 
 The student is required to perform non-destructive measurements in order to determine the thickness $t$ of an aluminium vessel whose cavity is completely filled with water. The aluminium vessel is composed of a cylinder and two end plates. The cylinder is of length $L$ and outer radius $R$. The total length of the vessel is $h$. The thickness of both end plates is $0.60\ \text{cm}$ (see Figure 1). You can neglect the error of this thickness. In this problem, please use gramme and centimetre as units for mass and length, respectively.
 
-![[APhO_2009_exp_p5_f1.png]]
+![[prove/_attachments/apho_2009_exp/apho_2009_exp_p5_f1.png]]
 *Figure 1 (left) and Figure 2 (right)*
 
 Figure 2 shows the so-called bifilar suspension of mass $M$. The two strings are each of equal length $\ell$. The period $T$ of a small-amplitude oscillation of $M$ is
@@ -250,12 +250,12 @@ Then perform measurements of $R, h, L$. By substituting the values, **derive exp
 
 **Hint:**
 
-![[APhO_2009_exp_p7_f1.png]]
+![[prove/_attachments/apho_2009_exp/apho_2009_exp_p7_f1.png]]
 *Figure 3 — Thin rod of length $L$: $\displaystyle I = m\frac{L^2}{12}$. Thin cylinder of inner radius $R_1$ and outer radius $R_2$: $\displaystyle I_y = \frac{1}{2}m\left(R_2^2 + R_1^2\right),\quad I_x = \frac{1}{4}m\left(R_2^2 + R_1^2\right)$.*
 
 ### Section II
 
-![[APhO_2009_exp_p8_f1.png]]
+![[prove/_attachments/apho_2009_exp/apho_2009_exp_p8_f1.png]]
 *Figure 4 (left) and Figure 5 (right)*
 
 **a) Angular oscillation about the axis of symmetry** *[4.0 points]*
@@ -286,7 +286,7 @@ $$I_x^{\text{Theo}} = m_1\left[\frac{L^2}{12} + \frac{R^2 + (R-t)^2}{4}\right] +
 **Topic:** [[Rotational Dynamics]], [[Oscillations & Waves]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -295,7 +295,7 @@ $$I_x^{\text{Theo}} = m_1\left[\frac{L^2}{12} + \frac{R^2 + (R-t)^2}{4}\right] +
 
 Lo studente è tenuto a eseguire misure non distruttive per determinare lo spessore $t$ di un recipiente in alluminio la cui cavità è completamente riempita di acqua. Il recipiente in alluminio è composto da un cilindro e da due lastre finali. Il cilindro è di lunghezza $L$ e di raggio esterno $R$. La lunghezza totale della nave è $h$. Lo spessore di entrambe le lastre estremiste è $0.60\ \text{cm}$ (vedere figura 1). Puoi trascurare l'errore di questo spessore. In questo problema, si prega di utilizzare il grammo e il centimetro come unità di massa e lunghezza, rispettivamente.
 
-![[APhO_2009_exp_p5_f1.png]]
+![[prove/_attachments/apho_2009_exp/apho_2009_exp_p5_f1.png]]
 *Figura 1 (sinistra) e 2 (destra) *
 
 La figura 2 mostra la cosiddetta sospensione bifilare di massa $M$. Le due stringhe sono di uguale lunghezza $\ell$. Il periodo $T$ di un'oscillazione a piccola amplitudine di $M$ è
@@ -335,12 +335,12 @@ Poi eseguire le misurazioni di $R, h, L$. Substituendo i valori, ** espressioni 
 
 **Signore: **
 
-![[APhO_2009_exp_p7_f1.png]]
+![[prove/_attachments/apho_2009_exp/apho_2009_exp_p7_f1.png]]
 *Figura 3  Sottile canna di lunghezza $L$: $\displaystyle I = m\frac{L^2}{12}$. cilindro sottile di raggio interno $R_1$ e raggio esterno $R_2$: $\displaystyle I_y = \frac{1}{2}m\left(R_2^2 + R_1^2\right),\quad I_x = \frac{1}{4}m\left(R_2^2 + R_1^2\right)$.*
 
 ### Sezione II
 
-![[APhO_2009_exp_p8_f1.png]]
+![[prove/_attachments/apho_2009_exp/apho_2009_exp_p8_f1.png]]
 *Figura 4 (sinistra) e 5 (destra) *
 
 **a) Oscillazione angolare intorno all'asse di simmetria** *[4,0 punti]*
@@ -371,4 +371,4 @@ $$I_x^{\text{Theo}} = m_1\left[\frac{L^2}{12} + \frac{R^2 + (R-t)^2}{4}\right] +
 **Topic:** [[Rotational Dynamics]], [[Oscillations & Waves]]
 **Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Cylinder (object)|Cylinder]], [[objects/tank-container-(object)|Tank/Container]], [[objects/rope-string-(object)|Rope/String]]

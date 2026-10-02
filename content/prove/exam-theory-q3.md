@@ -186,7 +186,7 @@ Give the numerical value $T_f$ of the CO2 gas at the end of the expansion, af
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Oscillations & Waves]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Differential Equations (metodo)|Differential Equations]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Bubble (object)|Bubble]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Bubble (object)|Bubble]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1hG6fb-vBIyfJsv1_MKEsQcARXufWaq6G/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HENXB2FVaGcLTN46WfrSwZAnBwO-sMEJ/view)
 
@@ -364,7 +364,7 @@ Give the numerical value $T_f$ of the CO2 gas at the end of the expansion,
 **Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Oscillations & Waves]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Differential Equations (metodo)|Differential Equations]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Continuity Equation (metodo)|Continuity Equation]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Bubble (object)|Bubble]], [[Tank/Container (object)|Tank/Container]]
+**Objects:** [[Bubble (object)|Bubble]], [[objects/tank-container-(object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1hG6fb-vBIyfJsv1_MKEsQcARXufWaq6G/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HENXB2FVaGcLTN46WfrSwZAnBwO-sMEJ/view)
 
@@ -459,7 +459,7 @@ Give the numerical value of $H_c$ if the external temperature is $T_0 = 6\ ^\cir
 **Topic:** [[Newtonian Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Projectile (object)|Projectile]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1hG6fb-vBIyfJsv1_MKEsQcARXufWaq6G/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HENXB2FVaGcLTN46WfrSwZAnBwO-sMEJ/view)
 
@@ -491,6 +491,6 @@ The following table shows the results of the analysis: The Commission shall adop
 **Topic:** [[Newtonian Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Projectile (object)|Projectile]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1hG6fb-vBIyfJsv1_MKEsQcARXufWaq6G/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HENXB2FVaGcLTN46WfrSwZAnBwO-sMEJ/view)

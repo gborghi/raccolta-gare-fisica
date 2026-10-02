@@ -58,7 +58,7 @@ dove il vertice è in $V(0, y_0)$ e il fuoco è in $F(0, y_0+C)$.
 **Topic:** [[Fluid Mechanics]], [[Gravitation]], [[Geometric Optics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Cylinder (object)|Cylinder]], [[Screen (object)|Screen]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Cylinder (object)|Cylinder]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1VGN1yAdRsD-t4AGiU8bbD2VtY1lrmtAt/view)
 
 
@@ -107,7 +107,7 @@ The following information is provided by the Commission:
 **Topic:** [[Fluid Mechanics]], [[Gravitation]], [[Geometric Optics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Cylinder (object)|Cylinder]], [[Screen (object)|Screen]]
+**Objects:** [[objects/tank-container-(object)|Tank/Container]], [[Cylinder (object)|Cylinder]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1VGN1yAdRsD-t4AGiU8bbD2VtY1lrmtAt/view)
 
 
@@ -141,7 +141,7 @@ Poiché la curvatura della superficie liquida varia con la velocità angolare $\
 **Topic:** [[Geometric Optics]], [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Mirror (object)|Mirror]], [[Tank/Container (object)|Tank/Container]], [[Screen (object)|Screen]]
+**Objects:** [[Mirror (object)|Mirror]], [[objects/tank-container-(object)|Tank/Container]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1VGN1yAdRsD-t4AGiU8bbD2VtY1lrmtAt/view)
 
 
@@ -170,7 +170,7 @@ The following information is provided by the Commission:
 **Topic:** [[Geometric Optics]], [[Fluid Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Mirror (object)|Mirror]], [[Tank/Container (object)|Tank/Container]], [[Screen (object)|Screen]]
+**Objects:** [[Mirror (object)|Mirror]], [[objects/tank-container-(object)|Tank/Container]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1VGN1yAdRsD-t4AGiU8bbD2VtY1lrmtAt/view)
 
 
@@ -198,7 +198,7 @@ In questa parte dell'esperimento, verranno analizzate le proprietà dell'"immagi
 **Topic:** [[Geometric Optics]], [[Fluid Mechanics]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Mirror (object)|Mirror]], [[Tank/Container (object)|Tank/Container]], [[Screen (object)|Screen]]
+**Objects:** [[Mirror (object)|Mirror]], [[objects/tank-container-(object)|Tank/Container]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1VGN1yAdRsD-t4AGiU8bbD2VtY1lrmtAt/view)
 
 
@@ -221,7 +221,7 @@ Adjust the position of the laser so that the beam, almost vertical, is directed 
 **Topic:** [[Geometric Optics]], [[Fluid Mechanics]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Physical Modeling (metodo)|Physical Modeling]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Mirror (object)|Mirror]], [[Tank/Container (object)|Tank/Container]], [[Screen (object)|Screen]]
+**Objects:** [[Mirror (object)|Mirror]], [[objects/tank-container-(object)|Tank/Container]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1VGN1yAdRsD-t4AGiU8bbD2VtY1lrmtAt/view)
 
 
@@ -256,7 +256,7 @@ dove $m$ è l'ordine di diffrazione e $d$ è la distanza tra le fenditure del re
 **Topic:** [[Wave Optics]], [[Geometric Optics]]
 **Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Snell's Law (metodo)|Snell's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Diffraction Grating (object)|Diffraction Grating]], [[Tank/Container (object)|Tank/Container]], [[Screen (object)|Screen]]
+**Objects:** [[Diffraction Grating (object)|Diffraction Grating]], [[objects/tank-container-(object)|Tank/Container]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1VGN1yAdRsD-t4AGiU8bbD2VtY1lrmtAt/view)
 
 
@@ -286,5 +286,5 @@ where $m$ is the order of diffraction and $d$ is the distance between the cracks
 **Topic:** [[Wave Optics]], [[Geometric Optics]]
 **Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Snell's Law (metodo)|Snell's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Diffraction Grating (object)|Diffraction Grating]], [[Tank/Container (object)|Tank/Container]], [[Screen (object)|Screen]]
+**Objects:** [[Diffraction Grating (object)|Diffraction Grating]], [[objects/tank-container-(object)|Tank/Container]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1VGN1yAdRsD-t4AGiU8bbD2VtY1lrmtAt/view)

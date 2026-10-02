@@ -224,7 +224,7 @@ $$\frac{\delta Q_{N-1}}{Q_{N-1}} \simeq -\frac{2}{N}\frac{K_N v - (1 - v)P_\text
 **Topic:** [[Fluid Mechanics]], [[Circuits]], [[Thermodynamics]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Differential Equations (metodo)|Differential Equations]], [[Conservation Laws (metodo)|Conservation Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Resistor (object)|Resistor]], [[Inductor (object)|Inductor]], [[Capacitor (object)|Capacitor]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Resistor (object)|Resistor]], [[Inductor (object)|Inductor]], [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Sg2LWAzXsB3HgGZ0izQ3nZmw2ezeIek2/view)
 
 
@@ -439,5 +439,5 @@ $$\frac{\delta Q_{N-1}}{Q_{N-1}} \simeq -\frac{2}{N}\frac{K_N v - (1 - v)P_\text
 **Topic:** [[Fluid Mechanics]], [[Circuits]], [[Thermodynamics]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Differential Equations (metodo)|Differential Equations]], [[Conservation Laws (metodo)|Conservation Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Calculus-Integration (metodo)|Calculus-Integration]]
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Resistor (object)|Resistor]], [[Inductor (object)|Inductor]], [[Capacitor (object)|Capacitor]]
+**Objects:** [[objects/pipe-tube-(object)|Pipe/Tube]], [[Resistor (object)|Resistor]], [[Inductor (object)|Inductor]], [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Sg2LWAzXsB3HgGZ0izQ3nZmw2ezeIek2/view)

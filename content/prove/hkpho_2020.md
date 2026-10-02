@@ -58,7 +58,7 @@ Un blocco $1.0$-kg e un blocco $2.0$-kg sono premuti insieme su una superficie o
 
 A heavy ball is hung with a string from the ceiling. Another string is attached to the bottom of the ball. A downward pulling force is exerted on the lower string as shown in the figure below. Which of the following statements is true?
 
-![[HKPhO_2020_p3_f2.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p3_f2.png]]
 
 - **(A)** If the lower string is pulled suddenly by a large force, the upper string will break first.
 - **(B)** If the lower string is pulled suddenly by a large force, the lower string will break first.
@@ -70,14 +70,14 @@ A heavy ball is hung with a string from the ceiling. Another string is attached 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]]
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 Una pesante palla è appesa con una corda dal soffitto. Un'altra corda è attaccata alla parte inferiore della palla. Una forza di trazione verso il basso viene esercitata sulla corda inferiore come mostrato nella figura seguente. Quale delle seguenti affermazioni è vera?
 
-![[HKPhO_2020_p3_f2.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p3_f2.png]]
 
 - **(A) ** Se la corda inferiore viene tirata improvvisamente da una grande forza, la corda superiore si rompe prima.
 - **(B) ** Se la corda inferiore viene tirata improvvisamente da una forza grande, la corda inferiore si rompe prima.
@@ -89,7 +89,7 @@ Una pesante palla è appesa con una corda dal soffitto. Un'altra corda è attacc
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Ball (object)|Ball]], [[objects/rope-string-(object)|Rope/String]]
 
 
 
@@ -185,7 +185,7 @@ A cylinder half-filled with water is hung from the ceiling by a long cable and s
 - **(D)** tipped outward
 - **(E)** tipped outward when the pendulum is swinging outward, and tipped inward when the pendulum is swinging inward
 
-![[HKPhO_2020_p5_f5.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p5_f5.png]]
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1e0khHMKTjW0A0s4eHu8ME7x7MXRhTJA2/view)
 **Topic:** [[Newtonian Mechanics]]
@@ -204,7 +204,7 @@ Un cilindro mezzo riempito di acqua è appeso al soffitto da un lungo cavo e osc
 - **(D) ** inclinato verso l'esterno
 - **(E) ** inclinato verso l'esterno quando il pendolo si sta svolgendo verso l'esterno e inclinato verso l'interno quando il pendolo si sta svolgendo verso l'interno
 
-![[HKPhO_2020_p5_f5.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p5_f5.png]]
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1e0khHMKTjW0A0s4eHu8ME7x7MXRhTJA2/view)
 **Topic:** [[Newtonian Mechanics]]
@@ -222,7 +222,7 @@ Un cilindro mezzo riempito di acqua è appeso al soffitto da un lungo cavo e osc
 
 Consider the one-dimensional collision of two objects $A$ and $B$ with masses $m_A = 2~\text{kg}$ and $m_B = 3~\text{kg}$. The objects are made of unknown materials. $A$ and $B$ are initially moving with constant velocities of $5~\text{m/s}$ to the right and $3~\text{m/s}$ to the left, respectively, with $A$ on the left side of $B$. Which of the following are possible final velocities of the objects after the collision?
 
-![[HKPhO_2020_p6_f6.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p6_f6.png]]
 
 - I — $A$: $3~\text{m/s}$ to the left, $B$: $2~\text{m/s}$ to the right
 - II — $A$: $2.5~\text{m/s}$ to the left, $B$: $2~\text{m/s}$ to the right
@@ -246,7 +246,7 @@ Consider the one-dimensional collision of two objects $A$ and $B$ with masses $m
 
 Considerate la collisione unidimensional di due oggetti $A$ e $B$ con masse $m_A = 2~\text{kg}$ e $m_B = 3~\text{kg}$. Gli oggetti sono fatti di materiali sconosciuti. $A$ e $B$ si muovono inizialmente con velocità costanti di $5~\text{m/s}$ a destra e $3~\text{m/s}$ a sinistra, rispettivamente, con $A$ sul lato sinistro di $B$. Quali delle seguenti sono le possibili velocità finali degli oggetti dopo la collisione?
 
-![[HKPhO_2020_p6_f6.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p6_f6.png]]
 
 - I  $A$: $3~\text{m/s}$ a sinistra, $B$: $2~\text{m/s}$ a destra
 - II  $A$: $2.5~\text{m/s}$ a sinistra, $B$: $2~\text{m/s}$ a destra
@@ -275,7 +275,7 @@ Considerate la collisione unidimensional di due oggetti $A$ e $B$ con masse $m_A
 
 A right-angled plate with equal length on both sides is placed horizontally on a fixed cylinder. The plate has uniform density and the length of each side is $2R$, where $R$ is the radius of the cylinder. What is the minimum coefficient of static friction $\mu$ between the cylinder and the plate to prevent the plate from slipping off?
 
-![[HKPhO_2020_p6_f7.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p6_f7.png]]
 
 - **(A)** 0.414
 - **(B)** 0.207
@@ -294,7 +294,7 @@ A right-angled plate with equal length on both sides is placed horizontally on a
 
 Una piastra rettangolare di uguale lunghezza su entrambi i lati è posizionata orizzontalmente su un cilindro fisso. La piastra ha una densità uniforme e la lunghezza di ciascun lato è $2R$, dove $R$ è il raggio del cilindro. Qual è il coefficiente minimo di attrito statico $\mu$ tra il cilindro e la piastra per evitare che la piastra scivoli?
 
-![[HKPhO_2020_p6_f7.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p6_f7.png]]
 
 - **(A)** 0.414
 - **(B)** 0.207
@@ -318,7 +318,7 @@ Una piastra rettangolare di uguale lunghezza su entrambi i lati è posizionata o
 
 A trolley with mass $m$ moves along the horizontal track at speed $v$. The track continues to extend downward and smoothly connects to a new horizontal track at height $H$ below. There is a stationary carriage with mass $M$ here ($M > m$). The trolley moves towards the carriage, causing a completely elastic collision. What is the minimum initial speed $v$ of the trolley such that it can return to the upper horizontal section? The friction can be neglected.
 
-![[HKPhO_2020_p7_f8.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p7_f8.png]]
 
 - **(A)** $\dfrac{2\sqrt{2mgH}}{M-m}$
 - **(B)** $\dfrac{\sqrt{2Mmg H}}{M-m}$
@@ -337,7 +337,7 @@ A trolley with mass $m$ moves along the horizontal track at speed $v$. The track
 
 Un carrello di massa $m$ si muove lungo la pista orizzontale a velocità $v$. La pista continua a estendersi verso il basso e si collega senza problemi a una nuova pista orizzontale ad altitudine $H$ inferiore. Qui è presente un carro stationario di massa $M$ ($M > m$). Il carrello si muove verso il carro, causando una collisione completamente elastica. Qual è la velocità iniziale minima $v$ del carrello in modo da poter tornare nella sezione orizzontale superiore? La friczione può essere trascurata.
 
-![[HKPhO_2020_p7_f8.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p7_f8.png]]
 
 - **(A)** $\dfrac{2\sqrt{2mgH}}{M-m}$
 - **(B)** $\dfrac{\sqrt{2Mmg H}}{M-m}$
@@ -361,7 +361,7 @@ Un carrello di massa $m$ si muove lungo la pista orizzontale a velocità $v$. La
 
 Two highways intersect at right angles as shown in the figure. At the instant shown, car A is located at $d = 5~\text{km}$ from the intersection and is traveling at speed $v_A = 80~\text{km/h}$. Car B is located at the intersection and is traveling at speed $v_B = 60~\text{km/h}$. When the two cars are closest to each other, car B has travelled a distance of
 
-![[HKPhO_2020_p7_f9.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p7_f9.png]]
 
 - **(A)** 1.8 km
 - **(B)** 2.4 km
@@ -380,7 +380,7 @@ Two highways intersect at right angles as shown in the figure. At the instant sh
 
 Due autostrade si incrociano a angolo retto come mostrato nella figura. All'istante indicato, la vettura A si trova a $d = 5~\text{km}$ dall'intersezione e si sta muovendo a velocità $v_A = 80~\text{km/h}$. La vettura B si trova all'intersezione e si sta muovendo a velocità $v_B = 60~\text{km/h}$. Quando le due auto sono più vicine l'una all'altra, la macchina B ha percorso una distanza di
 
-![[HKPhO_2020_p7_f9.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p7_f9.png]]
 
 - **(A)** 1.8 km
 - **(B)** 2.4 km
@@ -404,7 +404,40 @@ Due autostrade si incrociano a angolo retto come mostrato nella figura. All'ista
 
 As shown in the figure, a block of mass $m_1$ is at rest on a long frictionless table that is touching a wall. Block 2 of mass $m_2$ is placed between block 1 and the wall and is moving to the left at speed $u$. After block 2 has collided once with block 1 and once with the wall, both blocks move with the same velocity. Assume all collisions are elastic. The value of $m_2$ is
 
-![[HKPhO_2020_p8_f10.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='199.92362pt' height='59.728563pt' viewBox='-68.01671 -64.770416 199.92362 59.728563'>
+<defs>
+<path id='g0-109' d='M4.293898-1.09589C4.234122-.846824 4.124533-.428394 4.124533-.358655C4.124533-.14944 4.283935 .079701 4.592777 .079701C4.762142 .079701 5.070984-.009963 5.220423-.348692C5.300125-.557908 5.748443-2.440847 5.84807-2.849315C5.877958-2.998755 5.897883-3.048568 6.107098-3.327522C6.366127-3.666252 6.834371-4.144458 7.531756-4.144458C7.790785-4.144458 8.029888-4.044832 8.029888-3.556663C8.029888-2.988792 7.591532-1.823163 7.402242-1.325031C7.292653-1.05604 7.262765-.986301 7.262765-.816936C7.262765-.239103 7.840598 .079701 8.388543 .079701C9.444583 .079701 9.942715-1.275218 9.942715-1.474471C9.942715-1.613948 9.793275-1.613948 9.703611-1.613948C9.58406-1.613948 9.514321-1.613948 9.474471-1.484433C9.145704-.37858 8.607721-.278954 8.448319-.278954C8.37858-.278954 8.278954-.278954 8.278954-.488169C8.278954-.71731 8.37858-.966376 8.478207-1.215442C8.637609-1.62391 9.09589-2.789539 9.09589-3.347447C9.09589-4.26401 8.328767-4.503113 7.611457-4.503113C7.382316-4.503113 6.625156-4.503113 5.877958-3.646326C5.84807-3.775841 5.778331-4.084682 5.399751-4.293898C5.041096-4.503113 4.542964-4.503113 4.433375-4.503113C4.224159-4.503113 3.496887-4.503113 2.789539-3.745953C2.650062-4.244085 2.102117-4.503113 1.564134-4.503113C1.195517-4.503113 .916563-4.293898 .697385-3.935243C.448319-3.536737 .318804-2.998755 .318804-2.948941C.318804-2.809465 .468244-2.809465 .557908-2.809465C.667497-2.809465 .707347-2.809465 .757161-2.859278C.777086-2.879203 .777086-2.899128 .836862-3.148194C1.036115-3.92528 1.255293-4.144458 1.514321-4.144458C1.663761-4.144458 1.743462-4.044832 1.743462-3.775841C1.743462-3.606476 1.703611-3.447073 1.603985-3.048568C1.534247-2.769614 1.43462-2.371108 1.384807-2.15193L1.026152-.757161C.996264-.617684 .946451-.428394 .946451-.358655C.946451-.14944 1.105853 .079701 1.414695 .079701C1.932752 .079701 2.052304-.37858 2.122042-.67746C2.221669-1.046077 2.30137-1.364882 2.400996-1.793275C2.440847-1.92279 2.689913-2.948941 2.709838-2.978829C2.719801-3.038605 2.998755-3.486924 3.327522-3.755915C3.606476-3.975093 3.935243-4.144458 4.353674-4.144458C4.612702-4.144458 4.851806-4.044832 4.851806-3.556663C4.851806-3.327522 4.782067-3.038605 4.742217-2.889166L4.293898-1.09589Z'/>
+<path id='g0-117' d='M5.608966-3.158157C5.678705-3.437111 5.798257-3.915318 5.798257-3.985056C5.798257-4.194271 5.638854-4.423412 5.330012-4.423412C5.17061-4.423412 4.801993-4.333748 4.672478-3.895392C4.632628-3.755915 4.184309-1.952677 4.104608-1.62391C4.044832-1.39477 3.975093-1.105853 3.955168-.926526C3.775841-.687422 3.387298-.278954 2.879203-.278954C2.291407-.278954 2.281445-.777086 2.281445-1.006227C2.281445-1.613948 2.590286-2.391034 2.86924-3.108344C2.968867-3.367372 2.998755-3.437111 2.998755-3.606476C2.998755-4.184309 2.420922-4.503113 1.872976-4.503113C.816936-4.503113 .318804-3.148194 .318804-2.948941C.318804-2.809465 .468244-2.809465 .557908-2.809465C.67746-2.809465 .747198-2.809465 .787049-2.938979C1.115816-4.044832 1.653798-4.144458 1.8132-4.144458C1.882939-4.144458 1.982565-4.144458 1.982565-3.935243C1.982565-3.706102 1.863014-3.427148 1.823163-3.307597C1.404732-2.261519 1.215442-1.703611 1.215442-1.215442C1.215442-.079701 2.211706 .079701 2.799502 .079701C3.088418 .079701 3.526775 .039851 4.064757-.468244C4.383562 .019925 4.961395 .079701 5.200498 .079701C5.569116 .079701 5.858032-.129514 6.067248-.488169C6.316314-.886675 6.445828-1.424658 6.445828-1.474471C6.445828-1.613948 6.296389-1.613948 6.206725-1.613948C6.097136-1.613948 6.057285-1.613948 6.007472-1.564134C5.987547-1.544209 5.987547-1.524284 5.927771-1.275218C5.728518-.498132 5.50934-.278954 5.250311-.278954C5.100872-.278954 5.021171-.37858 5.021171-.647572C5.021171-.816936 5.061021-.976339 5.160648-1.374844C5.230386-1.653798 5.330012-2.052304 5.379826-2.271482L5.608966-3.158157Z'/>
+<path id='g1-49' d='M2.782565-4.33076C2.782565-4.574844 2.733748-4.574844 2.440847-4.574844C2.008468-4.226152 1.436613-4.128518 .878705-4.128518H.711333V-3.737983H.878705C1.157659-3.737983 1.583064-3.7868 1.875965-3.884433V-.390535H.774097V0C1.115816-.027895 1.952677-.027895 2.329265-.027895C2.580324-.027895 2.831382-.020922 3.082441-.020922C3.291656-.020922 3.654296-.013948 3.856538 0V-.390535H2.782565V-4.33076Z'/>
+<path id='g1-50' d='M4.030884-1.590037H3.591532C3.577584-1.506351 3.514819-1.011208 3.38929-.983313C3.242839-.955417 2.824408-.955417 2.66401-.955417H1.708593C2.092154-1.241345 2.48269-1.527273 2.887173-1.785305C3.452055-2.147945 4.030884-2.517559 4.030884-3.214944C4.030884-4.051806 3.242839-4.574844 2.133998-4.574844C1.185554-4.574844 .474222-4.20523 .474222-3.542715C.474222-3.138232 .801993-2.991781 1.011208-2.991781C1.262267-2.991781 1.555168-3.166127 1.555168-3.535741C1.555168-3.870486 1.297136-4.009963 1.276214-4.016936C1.527273-4.177335 1.84807-4.184309 1.931756-4.184309C2.524533-4.184309 2.991781-3.807721 2.991781-3.20797C2.991781-2.670984 2.629141-2.224658 2.224658-1.868991L.564882-.397509C.481196-.313823 .474222-.306849 .474222-.167372V0H3.793773L4.030884-1.590037Z'/>
+</defs>
+<g id='page1'>
+<path d='M-67.2695-5.789062H131.1597' stroke='#000' fill='none' stroke-width='1.49442'/>
+<path d='M-38.921876-5.789062V-36.96872H-2.0703V-5.789062Z' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 10.7765 -14.12408)'>
+<use x='-38.921306' y='-5.787623' xlink:href='#g0-109'/>
+<use x='-28.635837' y='-4.293242' xlink:href='#g1-49'/>
+</g>
+<path d='M65.9607-5.789062V-36.96872H102.8127V-5.789062Z' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 115.6601 -14.12408)'>
+<use x='-38.921306' y='-5.787623' xlink:href='#g0-109'/>
+<use x='-28.635837' y='-4.293242' xlink:href='#g1-50'/>
+</g>
+<path d='M114.1527-51.14452H76.9607' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M73.05078-51.14455L78.52734-49.07424L76.71094-51.14455L78.52734-53.21096Z'/>
+<path d='M73.05078-51.14455L78.52734-49.07424L76.71094-51.14455L78.52734-53.21096Z' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 128.4201 -54.47968)'>
+<use x='-38.921306' y='-5.787623' xlink:href='#g0-117'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 
 - **(A)** $m_1/3$
 - **(B)** $m_1/2$
@@ -423,7 +456,40 @@ As shown in the figure, a block of mass $m_1$ is at rest on a long frictionless 
 
 Come mostrato nella figura, un blocco di massa $m_1$ è in riposo su un lungo tavolo senza attrito che sta toccando un muro. Il blocco 2 di massa $m_2$ è collocato tra il blocco 1 e la parete e si muove a sinistra alla velocità $u$. Dopo che il blocco 2 ha colpito una volta con il blocco 1 e una volta con il muro, entrambi i blocchi si muovono con la stessa velocità. Supponiamo che tutte le collisioni siano elastiche. Il valore di $m_2$ è
 
-![[HKPhO_2020_p8_f10.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='199.92362pt' height='59.728563pt' viewBox='-68.01671 -64.770416 199.92362 59.728563'>
+<defs>
+<path id='g0-109' d='M4.293898-1.09589C4.234122-.846824 4.124533-.428394 4.124533-.358655C4.124533-.14944 4.283935 .079701 4.592777 .079701C4.762142 .079701 5.070984-.009963 5.220423-.348692C5.300125-.557908 5.748443-2.440847 5.84807-2.849315C5.877958-2.998755 5.897883-3.048568 6.107098-3.327522C6.366127-3.666252 6.834371-4.144458 7.531756-4.144458C7.790785-4.144458 8.029888-4.044832 8.029888-3.556663C8.029888-2.988792 7.591532-1.823163 7.402242-1.325031C7.292653-1.05604 7.262765-.986301 7.262765-.816936C7.262765-.239103 7.840598 .079701 8.388543 .079701C9.444583 .079701 9.942715-1.275218 9.942715-1.474471C9.942715-1.613948 9.793275-1.613948 9.703611-1.613948C9.58406-1.613948 9.514321-1.613948 9.474471-1.484433C9.145704-.37858 8.607721-.278954 8.448319-.278954C8.37858-.278954 8.278954-.278954 8.278954-.488169C8.278954-.71731 8.37858-.966376 8.478207-1.215442C8.637609-1.62391 9.09589-2.789539 9.09589-3.347447C9.09589-4.26401 8.328767-4.503113 7.611457-4.503113C7.382316-4.503113 6.625156-4.503113 5.877958-3.646326C5.84807-3.775841 5.778331-4.084682 5.399751-4.293898C5.041096-4.503113 4.542964-4.503113 4.433375-4.503113C4.224159-4.503113 3.496887-4.503113 2.789539-3.745953C2.650062-4.244085 2.102117-4.503113 1.564134-4.503113C1.195517-4.503113 .916563-4.293898 .697385-3.935243C.448319-3.536737 .318804-2.998755 .318804-2.948941C.318804-2.809465 .468244-2.809465 .557908-2.809465C.667497-2.809465 .707347-2.809465 .757161-2.859278C.777086-2.879203 .777086-2.899128 .836862-3.148194C1.036115-3.92528 1.255293-4.144458 1.514321-4.144458C1.663761-4.144458 1.743462-4.044832 1.743462-3.775841C1.743462-3.606476 1.703611-3.447073 1.603985-3.048568C1.534247-2.769614 1.43462-2.371108 1.384807-2.15193L1.026152-.757161C.996264-.617684 .946451-.428394 .946451-.358655C.946451-.14944 1.105853 .079701 1.414695 .079701C1.932752 .079701 2.052304-.37858 2.122042-.67746C2.221669-1.046077 2.30137-1.364882 2.400996-1.793275C2.440847-1.92279 2.689913-2.948941 2.709838-2.978829C2.719801-3.038605 2.998755-3.486924 3.327522-3.755915C3.606476-3.975093 3.935243-4.144458 4.353674-4.144458C4.612702-4.144458 4.851806-4.044832 4.851806-3.556663C4.851806-3.327522 4.782067-3.038605 4.742217-2.889166L4.293898-1.09589Z'/>
+<path id='g0-117' d='M5.608966-3.158157C5.678705-3.437111 5.798257-3.915318 5.798257-3.985056C5.798257-4.194271 5.638854-4.423412 5.330012-4.423412C5.17061-4.423412 4.801993-4.333748 4.672478-3.895392C4.632628-3.755915 4.184309-1.952677 4.104608-1.62391C4.044832-1.39477 3.975093-1.105853 3.955168-.926526C3.775841-.687422 3.387298-.278954 2.879203-.278954C2.291407-.278954 2.281445-.777086 2.281445-1.006227C2.281445-1.613948 2.590286-2.391034 2.86924-3.108344C2.968867-3.367372 2.998755-3.437111 2.998755-3.606476C2.998755-4.184309 2.420922-4.503113 1.872976-4.503113C.816936-4.503113 .318804-3.148194 .318804-2.948941C.318804-2.809465 .468244-2.809465 .557908-2.809465C.67746-2.809465 .747198-2.809465 .787049-2.938979C1.115816-4.044832 1.653798-4.144458 1.8132-4.144458C1.882939-4.144458 1.982565-4.144458 1.982565-3.935243C1.982565-3.706102 1.863014-3.427148 1.823163-3.307597C1.404732-2.261519 1.215442-1.703611 1.215442-1.215442C1.215442-.079701 2.211706 .079701 2.799502 .079701C3.088418 .079701 3.526775 .039851 4.064757-.468244C4.383562 .019925 4.961395 .079701 5.200498 .079701C5.569116 .079701 5.858032-.129514 6.067248-.488169C6.316314-.886675 6.445828-1.424658 6.445828-1.474471C6.445828-1.613948 6.296389-1.613948 6.206725-1.613948C6.097136-1.613948 6.057285-1.613948 6.007472-1.564134C5.987547-1.544209 5.987547-1.524284 5.927771-1.275218C5.728518-.498132 5.50934-.278954 5.250311-.278954C5.100872-.278954 5.021171-.37858 5.021171-.647572C5.021171-.816936 5.061021-.976339 5.160648-1.374844C5.230386-1.653798 5.330012-2.052304 5.379826-2.271482L5.608966-3.158157Z'/>
+<path id='g1-49' d='M2.782565-4.33076C2.782565-4.574844 2.733748-4.574844 2.440847-4.574844C2.008468-4.226152 1.436613-4.128518 .878705-4.128518H.711333V-3.737983H.878705C1.157659-3.737983 1.583064-3.7868 1.875965-3.884433V-.390535H.774097V0C1.115816-.027895 1.952677-.027895 2.329265-.027895C2.580324-.027895 2.831382-.020922 3.082441-.020922C3.291656-.020922 3.654296-.013948 3.856538 0V-.390535H2.782565V-4.33076Z'/>
+<path id='g1-50' d='M4.030884-1.590037H3.591532C3.577584-1.506351 3.514819-1.011208 3.38929-.983313C3.242839-.955417 2.824408-.955417 2.66401-.955417H1.708593C2.092154-1.241345 2.48269-1.527273 2.887173-1.785305C3.452055-2.147945 4.030884-2.517559 4.030884-3.214944C4.030884-4.051806 3.242839-4.574844 2.133998-4.574844C1.185554-4.574844 .474222-4.20523 .474222-3.542715C.474222-3.138232 .801993-2.991781 1.011208-2.991781C1.262267-2.991781 1.555168-3.166127 1.555168-3.535741C1.555168-3.870486 1.297136-4.009963 1.276214-4.016936C1.527273-4.177335 1.84807-4.184309 1.931756-4.184309C2.524533-4.184309 2.991781-3.807721 2.991781-3.20797C2.991781-2.670984 2.629141-2.224658 2.224658-1.868991L.564882-.397509C.481196-.313823 .474222-.306849 .474222-.167372V0H3.793773L4.030884-1.590037Z'/>
+</defs>
+<g id='page1'>
+<path d='M-67.2695-5.789062H131.1597' stroke='#000' fill='none' stroke-width='1.49442'/>
+<path d='M-38.921876-5.789062V-36.96872H-2.0703V-5.789062Z' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 10.7765 -14.12408)'>
+<use x='-38.921306' y='-5.787623' xlink:href='#g0-109'/>
+<use x='-28.635837' y='-4.293242' xlink:href='#g1-49'/>
+</g>
+<path d='M65.9607-5.789062V-36.96872H102.8127V-5.789062Z' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 115.6601 -14.12408)'>
+<use x='-38.921306' y='-5.787623' xlink:href='#g0-109'/>
+<use x='-28.635837' y='-4.293242' xlink:href='#g1-50'/>
+</g>
+<path d='M114.1527-51.14452H76.9607' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M73.05078-51.14455L78.52734-49.07424L76.71094-51.14455L78.52734-53.21096Z'/>
+<path d='M73.05078-51.14455L78.52734-49.07424L76.71094-51.14455L78.52734-53.21096Z' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 128.4201 -54.47968)'>
+<use x='-38.921306' y='-5.787623' xlink:href='#g0-117'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 
 - **(A)** $m_1/3$
 - **(B)** $m_1/2$
@@ -447,7 +513,7 @@ Come mostrato nella figura, un blocco di massa $m_1$ è in riposo su un lungo ta
 
 The trajectory of a toy cannon is shown in the figure below. Assuming that the air resistance during the flight can be neglected, what is the launching angle $\theta$ of the projectile?
 
-![[HKPhO_2020_p8_f11.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p8_f11.png]]
 
 - **(A)** $15°$
 - **(B)** $30°$
@@ -466,7 +532,7 @@ The trajectory of a toy cannon is shown in the figure below. Assuming that the a
 
 La traiettoria di un cannone giocattolo è mostrata nella figura seguente. Supponendo che la resistenza all'aria durante il volo possa essere trascurata, quale è l'angolo di lancio $\theta$ del proiettile?
 
-![[HKPhO_2020_p8_f11.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p8_f11.png]]
 
 - **(A)** $15°$
 - **(B)** $30°$
@@ -529,7 +595,7 @@ In seguito alla domanda precedente, qual è la velocità iniziale del cannone?
 
 $2020$ point particles are equally spaced on a circle with radius $1~\text{m}$. The particles are identical with mass $1~\text{kg}$ except two, both with mass $1011~\text{kg}$. The angle between the radii joining these two particles to the center is $90°$. What is the distance (in m) of the center of mass of the system from the center of the circle?
 
-![[HKPhO_2020_p9_f13.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p9_f13.png]]
 
 - **(A)** $\dfrac{1}{4}$
 - **(B)** $\dfrac{1}{2\sqrt{2}}$
@@ -548,7 +614,7 @@ $2020$ point particles are equally spaced on a circle with radius $1~\text{m}$. 
 
 Le particelle puntate $2020$ sono spaziate in modo uguale su un cerchio con raggio $1~\text{m}$. Le particelle sono identiche con massa $1~\text{kg}$ tranne due, entrambe con massa $1011~\text{kg}$. L'angolo tra i raggi che uniscono queste due particelle al centro è $90°$. Qual è la distanza (in m) del centro di massa del sistema dal centro del cerchio?
 
-![[HKPhO_2020_p9_f13.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p9_f13.png]]
 
 - **(A)** $\dfrac{1}{4}$
 - **(B)** $\dfrac{1}{2\sqrt{2}}$
@@ -740,7 +806,7 @@ La massa di una luna è $7.35 \times 10^{22}~\text{kg}$. La massa del pianeta ma
 
 An object of mass $5.00~\text{kg}$ is initially at a height of $h$ above a $10.0~\text{kg}$ flat plate. The plate is supported by a long spring below with spring constant $1000~\text{N m}^{-1}$, and is initially at equilibrium under gravity and the spring force. The object is then released from rest to hit the plate in a perfectly inelastic collision, but the object is not glued to the plate after collision. Find the maximum height $h$ below which the object will always remain in contact with the plate in the subsequent oscillations.
 
-![[HKPhO_2020_p11_f18.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p11_f18.png]]
 
 - **(A)** 20 cm
 - **(B)** 22 cm
@@ -759,7 +825,7 @@ An object of mass $5.00~\text{kg}$ is initially at a height of $h$ above a $10.0
 
 Un oggetto di massa $5.00~\text{kg}$ è inizialmente a un'altezza di $h$ sopra una piastra piatta $10.0~\text{kg}$. La piastra è sostenuta da una lunga molla sotto con costante molla $1000~\text{N m}^{-1}$, ed è inizialmente in equilibrio sotto la gravità e la forza della molla. L'oggetto viene quindi rilasciato dal riposo per colpire la piastra in una collisione perfettamente inelastica, ma l'oggetto non viene incollato alla piastra dopo la collisione. Trova l'altezza massima $h$ al di sotto della quale l'oggetto rimarrà sempre in contatto con la targa nelle successive oscillazioni.
 
-![[HKPhO_2020_p11_f18.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p11_f18.png]]
 
 - **(A)** 20 cm
 - **(B)** 22 cm
@@ -783,7 +849,28 @@ Un oggetto di massa $5.00~\text{kg}$ è inizialmente a un'altezza di $h$ sopra u
 
 A $2.0$-m long ladder leans against a smooth wall, making an angle of $\theta$ with the rough floor. The mass of the ladder is $10~\text{kg}$ and the linear mass density along its length is constant. The coefficient of static friction between the ladder and the floor is $0.20$. When the angle $\theta$ is smaller than a certain critical value, the ladder cannot be in equilibrium. What is this critical angle?
 
-![[HKPhO_2020_p11_f19.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='125.52312pt' height='86.03537pt' viewBox='-68.0156 -68.01565 125.52312 86.03537'>
+<defs>
+<path id='g0-18' d='M4.533001-4.98132C4.533001-5.638854 4.353674-7.023661 3.337484-7.023661C1.952677-7.023661 .418431-4.214197 .418431-1.932752C.418431-.996264 .707347 .109589 1.613948 .109589C3.01868 .109589 4.533001-2.749689 4.533001-4.98132ZM1.474471-3.616438C1.643836-4.254047 1.843088-5.051059 2.241594-5.758406C2.510585-6.246575 2.879203-6.804483 3.327522-6.804483C3.815691-6.804483 3.875467-6.166874 3.875467-5.599004C3.875467-5.110834 3.795766-4.60274 3.556663-3.616438H1.474471ZM3.466999-3.297634C3.35741-2.839352 3.148194-1.992528 2.769614-1.275218C2.420922-.597758 2.042341-.109589 1.613948-.109589C1.285181-.109589 1.075965-.398506 1.075965-1.325031C1.075965-1.743462 1.135741-2.321295 1.39477-3.297634H3.466999Z'/>
+</defs>
+<g id='page1'>
+<path d='M-68.0156 17.2227V-67.8164H-56.675783V17.2227Z' fill='#dfdfdf'/>
+<path d='M-56.675783 17.2227V-67.8164' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-56.675783-56.476564L56.7105 17.2227' stroke='#000' fill='none' stroke-width='1.59404' stroke-miterlimit='10'/>
+<path d='M56.7105 17.2227H11.3555' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M11.3555 17.2227C11.3555 8.457 13.8984-.125 18.6719-7.4766' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 75.4769 67.2396)'>
+<use x='-56.676547' y='-56.477297' xlink:href='#g0-18'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 
 - **(A)** 11°
 - **(B)** 22°
@@ -802,7 +889,28 @@ A $2.0$-m long ladder leans against a smooth wall, making an angle of $\theta$ w
 
 Una scala lunga $2.0$-m si appoggia a una parete liscia, formando un angolo di $\theta$ con il pavimento accidentato. La massa della scala è $10~\text{kg}$ e la densità di massa lineare lungo la sua lunghezza è costante. Il coefficiente di attrito statico tra scala e pavimento è $0.20$. Quando l'angolo $\theta$ è inferiore a un certo valore critico, la scala non può essere in equilibrio. Qual è l'angolo critico?
 
-![[HKPhO_2020_p11_f19.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='125.52312pt' height='86.03537pt' viewBox='-68.0156 -68.01565 125.52312 86.03537'>
+<defs>
+<path id='g0-18' d='M4.533001-4.98132C4.533001-5.638854 4.353674-7.023661 3.337484-7.023661C1.952677-7.023661 .418431-4.214197 .418431-1.932752C.418431-.996264 .707347 .109589 1.613948 .109589C3.01868 .109589 4.533001-2.749689 4.533001-4.98132ZM1.474471-3.616438C1.643836-4.254047 1.843088-5.051059 2.241594-5.758406C2.510585-6.246575 2.879203-6.804483 3.327522-6.804483C3.815691-6.804483 3.875467-6.166874 3.875467-5.599004C3.875467-5.110834 3.795766-4.60274 3.556663-3.616438H1.474471ZM3.466999-3.297634C3.35741-2.839352 3.148194-1.992528 2.769614-1.275218C2.420922-.597758 2.042341-.109589 1.613948-.109589C1.285181-.109589 1.075965-.398506 1.075965-1.325031C1.075965-1.743462 1.135741-2.321295 1.39477-3.297634H3.466999Z'/>
+</defs>
+<g id='page1'>
+<path d='M-68.0156 17.2227V-67.8164H-56.675783V17.2227Z' fill='#dfdfdf'/>
+<path d='M-56.675783 17.2227V-67.8164' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-56.675783-56.476564L56.7105 17.2227' stroke='#000' fill='none' stroke-width='1.59404' stroke-miterlimit='10'/>
+<path d='M56.7105 17.2227H11.3555' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M11.3555 17.2227C11.3555 8.457 13.8984-.125 18.6719-7.4766' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 75.4769 67.2396)'>
+<use x='-56.676547' y='-56.477297' xlink:href='#g0-18'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 
 - **(A)** 11°
 - **(B)** 22°
@@ -826,7 +934,7 @@ Una scala lunga $2.0$-m si appoggia a una parete liscia, formando un angolo di $
 
 The tip of an iceberg has a volume of $1.5 \times 10^6~\text{m}^3$ above the sea level. Given the density for the iceberg is $920~\text{kg m}^{-3}$ and the density for sea water is $1030~\text{kg m}^{-3}$. What is the volume of the iceberg submerged in water?
 
-![[HKPhO_2020_p12_f20.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p12_f20.png]]
 
 - **(A)** $14.05 \times 10^6~\text{m}^3$
 - **(B)** $12.55 \times 10^6~\text{m}^3$
@@ -845,7 +953,7 @@ The tip of an iceberg has a volume of $1.5 \times 10^6~\text{m}^3$ above the sea
 
 La punta di un iceberg ha un volume di $1.5 \times 10^6~\text{m}^3$ sopra il livello del mare. Dato che la densità dell'iceberg è $920~\text{kg m}^{-3}$ e la densità dell'acqua di mare è $1030~\text{kg m}^{-3}$. Qual è il volume dell'iceberg sommerso dall'acqua?
 
-![[HKPhO_2020_p12_f20.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p12_f20.png]]
 
 - **(A)** $14.05 \times 10^6~\text{m}^3$
 - **(B)** $12.55 \times 10^6~\text{m}^3$
@@ -908,7 +1016,7 @@ Una palla da basket viene abbassata verticalmente ad un'altezza di $1.5~\text{m}
 
 A mass $m$ is connected to 3 identical springs with spring constant $k$, as shown in the figure. The whole set is then mounted to a fixed ceiling and floor and is allowed to settle to equilibrium. Now, we apply a force $F$ in the upward direction to displace the mass. What will be the displacement from its equilibrium position?
 
-![[HKPhO_2020_p13_f22.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p13_f22.png]]
 
 - **(A)** $2F/(3k)$
 - **(B)** $F/k$
@@ -927,7 +1035,7 @@ A mass $m$ is connected to 3 identical springs with spring constant $k$, as show
 
 Una massa $m$ è collegata a 3 sorgenti identiche con costante sorgente $k$, come mostrato nella figura. L'intero set viene quindi montato su un soffitto e un pavimento fissi e si permette di stabilizzarsi in equilibrio. Ora, applichiamo una forza $F$ nella direzione ascendente per spostare la massa. Qual sarà il spostamento dalla sua posizione di equilibrio?
 
-![[HKPhO_2020_p13_f22.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p13_f22.png]]
 
 - **(A)** $2F/(3k)$
 - **(B)** $F/k$
@@ -951,7 +1059,7 @@ Una massa $m$ è collegata a 3 sorgenti identiche con costante sorgente $k$, com
 
 A block of mass $m$ is hung from the system of massless springs with force constants shown in the figure. The downward extension of the spring system caused by the block is
 
-![[HKPhO_2020_p13_f23.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p13_f23.png]]
 
 - **(A)** $\dfrac{7}{10}\dfrac{mg}{k}$
 - **(B)** $\dfrac{22}{31}\dfrac{mg}{k}$
@@ -970,7 +1078,7 @@ A block of mass $m$ is hung from the system of massless springs with force const
 
 Un blocco di massa $m$ è appeso al sistema di sorgenti senza massa con costanti di forza mostrate nella figura. L'estensione verso il basso del sistema di molla causata dal blocco è
 
-![[HKPhO_2020_p13_f23.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p13_f23.png]]
 
 - **(A)** $\dfrac{7}{10}\dfrac{mg}{k}$
 - **(B)** $\dfrac{22}{31}\dfrac{mg}{k}$
@@ -994,11 +1102,11 @@ Un blocco di massa $m$ è appeso al sistema di sorgenti senza massa con costanti
 
 As shown in Fig. 1, a massive block is driven by a motor to exercise vertical motion. The acceleration due to the periodic motion is much higher than the gravitational acceleration. The displacement of the block versus time for two cycles is shown in Fig. 2. (The units of the vertical axis are arbitrary.)
 
-![[HKPhO_2020_p14_f24a.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p14_f24a.png]]
 
 Which of the following plots correspond to the power of the motor?
 
-![[HKPhO_2020_p14_f24b.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p14_f24b.png]]
 
 - **(A)** Plot A
 - **(B)** Plot B
@@ -1017,11 +1125,11 @@ Which of the following plots correspond to the power of the motor?
 
 Come mostrato nella figura. 1, un blocco massiccio è guidato da un motore per esercitare un movimento verticale. L'accelerazione dovuta al movimento periodico è molto superiore all'accelerazione gravitazionale. Il spostamento del blocco rispetto al tempo per due cicli è mostrato nella figura. 2. (Le unità dell'asse verticale sono arbitrarie.)
 
-![[HKPhO_2020_p14_f24a.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p14_f24a.png]]
 
 Quale delle seguenti parti corrisponde alla potenza del motore?
 
-![[HKPhO_2020_p14_f24b.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p14_f24b.png]]
 
 - **(A) ** Plot A
 - **(B) ** Plot B
@@ -1045,7 +1153,7 @@ Quale delle seguenti parti corrisponde alla potenza del motore?
 
 A uniform rectangular slab of width $5~\text{cm}$, height $10~\text{cm}$ and negligible thickness is hung from the ceiling by two rods at the upper edges. When the slab is tilted by $20°$, the ratio of the tensions $T_1/T_2$ is equal to
 
-![[HKPhO_2020_p15_f25.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p15_f25.png]]
 
 - **(A)** -2.14
 - **(B)** 2.14
@@ -1064,7 +1172,7 @@ A uniform rectangular slab of width $5~\text{cm}$, height $10~\text{cm}$ and neg
 
 Un lastro rettangolare uniforme di larghezza $5~\text{cm}$, altezza $10~\text{cm}$ e spessore trascurabile è appeso al soffitto da due bastone ai bordi superiori. Quando la lastra è inclinata di $20°$, il rapporto delle tensioni $T_1/T_2$ è pari a
 
-![[HKPhO_2020_p15_f25.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p15_f25.png]]
 
 - **(A)** -2.14
 - **(B)** 2.14
@@ -1096,7 +1204,7 @@ Un lastro rettangolare uniforme di larghezza $5~\text{cm}$, altezza $10~\text{cm
 
 (15 points) As shown in the figure below, a uniform rectangular block of mass $M$ is resting on a smooth horizontal surface. A small cube with mass $m$ and negligible length and width is on the top of the rectangular block. At time $t = 0$, the cube moves from the left end of the block to the right with an initial velocity $v$. It finally sits at half the length of the rectangular block. It is known that the coefficient of kinetic friction between the small cube and the rectangular block is $\mu$, and the gravitational acceleration is $g$.
 
-![[HKPhO_2020_p19_f26.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p19_f26.png]]
 
 **(a)** (4 points) What is the time $\tau$ for the small cube to stop on the rectangular block?
 
@@ -1125,7 +1233,7 @@ Un lastro rettangolare uniforme di larghezza $5~\text{cm}$, altezza $10~\text{cm
 
 (15 punti) Come mostrato nella figura seguente, un blocco rettangolare uniforme di massa $M$ si trova su una superficie orizzontale liscia. Un piccolo cubo di massa $m$ e lunghezza e larghezza trascurabili è situato sulla parte superiore del blocco rettangolare. Al tempo $t = 0$, il cubo si muove dall'estremità sinistra del blocco a destra con una velocità iniziale $v$. Finalmente si trova a metà della lunghezza del blocco rettangolare. È noto che il coefficiente di attrito cinetico tra il piccolo cubo e il blocco rettangolare è $\mu$ e l'accelerazione gravitazionale è $g$.
 
-![[HKPhO_2020_p19_f26.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p19_f26.png]]
 
 **(a) ** (4 punti) Qual è il tempo $\tau$ per il piccolo cubo di fermarsi sul blocco rettangolare?
 
@@ -1151,7 +1259,7 @@ Un lastro rettangolare uniforme di larghezza $5~\text{cm}$, altezza $10~\text{cm
 
 (15 points) A wooden cart is driven by shooting marbles from identical compressed spring launchers mounted on the cart. The cart, including the marbles, has a mass of $M$ and each marble has a mass of $m$. For simplicity, we assume that the resistance experienced by the cart can be effectively represented by a kinetic friction coefficient $\mu$ between the ground and the cart and all other resistance such as air drag can be neglected. The initial velocity of the cart is $u$ before launching any marbles. When a marble is fired by one of the spring launchers, we assume the impact time is very short and is negligible. We also assume that all the stored elastic energy goes to the kinetic energy of different parts without generating heat. We are interested on how far the cart can go by firing these marbles.
 
-![[HKPhO_2020_p20_f27.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p20_f27.png]]
 
 **(a)** (7 points) Suppose each spring is compressed by an amount of $\Delta x$ in length with spring constant $k$. Find the velocity $v$ for the cart immediately after one marble is launched. What is the distance the cart can elapse before it stops if the initial velocity of the cart is $u = 0~\text{m s}^{-1}$?
 
@@ -1168,7 +1276,7 @@ Un lastro rettangolare uniforme di larghezza $5~\text{cm}$, altezza $10~\text{cm
 
 (15 punti) Un carrello di legno viene guidato sparando marmi da identici lanciatori di molla compressa montati sul carrello. Il carrello, comprese le marmiere, ha una massa di $M$ e ogni marmo ha una massa di $m$. Per semplicità, presumiamo che la resistenza vissuta dal carrello possa essere rappresentata in modo efficace da un coefficiente di attrito cinetico $\mu$ tra il terreno e il carrello e che tutte le altre resistenze come la resistenza all'aria possono essere trascurate. La velocità iniziale del carrello è $u$ prima di lanciare qualsiasi marmo. Quando un marmo viene lanciato da uno dei lanciatori di primavera, presumiamo che il tempo di impatto sia molto breve e trascurabile. Supponiamo anche che tutta l'energia elastica immagazzinata vada all'energia cinetica di parti diverse senza generare calore. Ci interessa sapere fino a che punto il carro può arrivare sparando questi marmi.
 
-![[HKPhO_2020_p20_f27.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p20_f27.png]]
 
 **(a) ** (7 punti) Supponiamo che ogni molla sia compressa da una quantità di $\Delta x$ di lunghezza con costante molla $k$. Trova la velocità $v$ per il carrello immediatamente dopo il lancio di un marmo. Qual è la distanza che il carrello può percorrere prima di fermarsi se la velocità iniziale del carrello è $u = 0~\text{m s}^{-1}$?
 
@@ -1192,7 +1300,7 @@ Un lastro rettangolare uniforme di larghezza $5~\text{cm}$, altezza $10~\text{cm
 
 Consider a free-throw shot in a basketball game. He projects the basketball with an initial velocity $u$. Assume that air resistance is negligible in this problem.
 
-![[HKPhO_2020_p21_f28.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p21_f28.png]]
 
 **(a)** (4 points) Derive an explicit expression of the angle of inclination $\theta$ such that the basketball can hit the center of the basket rim, which is at a horizontal distance $x$ and a vertical distance $y$.
 
@@ -1217,7 +1325,7 @@ Consider a free-throw shot in a basketball game. He projects the basketball with
 
 Considerate un tiro a tiro libero in una partita di basket. Proietta il basket con una velocità iniziale $u$. Supponiamo che la resistenza all'aria sia trascurabile in questo problema.
 
-![[HKPhO_2020_p21_f28.png]]
+![[_attachments/hkpho_2020/hkpho_2020_p21_f28.png]]
 
 **(a) ** (4 punti) Derivare un'espressione esplicita dell'angolo di inclinazione $\theta$ in modo tale che la palla da basket possa colpire il centro del bordo del paniere, che si trova a una distanza orizzontale $x$ e a una distanza verticale $y$.
 

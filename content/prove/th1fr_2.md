@@ -60,7 +60,7 @@ E
 **Topic:** [[Newtonian Mechanics]], [[Thermodynamics]], [[Nuclear & Particle Physics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Radioactive Decay Law (metodo)|Radioactive Decay Law]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Gauss's Law (metodo)|Gauss's Law]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Heat Engine (object)|Heat Engine]], [[Nucleus (object)|Nucleus]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Heat Engine (object)|Heat Engine]], [[Nucleus (object)|Nucleus]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1E4diUuZH6Lw1CBxF4bi_odcNL0eTiboN/view)
 
 
@@ -111,5 +111,5 @@ The Commission shall adopt implementing acts in accordance with Article 21 of th
 **Topic:** [[Newtonian Mechanics]], [[Thermodynamics]], [[Nuclear & Particle Physics]]
 **Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Radioactive Decay Law (metodo)|Radioactive Decay Law]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Gauss's Law (metodo)|Gauss's Law]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Heat Engine (object)|Heat Engine]], [[Nucleus (object)|Nucleus]]
+**Objects:** [[objects/rope-string-(object)|Rope/String]], [[Heat Engine (object)|Heat Engine]], [[Nucleus (object)|Nucleus]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1E4diUuZH6Lw1CBxF4bi_odcNL0eTiboN/view)

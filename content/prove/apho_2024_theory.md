@@ -24,7 +24,7 @@ tags:
 Water sprayers are found at various places such as agriculture farms, green parks or urban areas for functional purposes or for aesthetic art installation. Consider a hemispherical shaped fountain sprayer of radius $r$ at the height $h$ from the ground as shown in a cross-sectional diagram in **Fig. 1**. Let the radius of the hemisphere to be small compared to the range $R$, hence can be treated as a point source. However there are $\rho(\theta)$ number of holes per unit area at angle $\theta$. The water spurts in all directions at the same initial velocity $v_o$.
 
 <!--fig:start-->
-![[_attachments/APhO_2024_theory/APhO_2024_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2024_theory/apho_2024_theory_q1_p1_f1.png]]
 *Fig. 1: Schematic cross section of a hemispherical shaped fountain sprayer.*
 <!--fig:end-->
 
@@ -69,7 +69,7 @@ Now, consider the area of holes per unit area $\rho(\theta)$ to be non-uniformly
 I spruzzatori d'acqua si trovano in vari luoghi come allevamenti agricoli, parchi verdi o aree urbane per scopi funzionali o per installazioni di arte estetica. Si consideri un spruzzatore di fontana a forma emisfera di raggio $r$ all'altezza $h$ dal terreno come mostrato in un diagramma trasversale nella figura **. 1**. Il raggio di radio dell'emisfero deve essere piccolo rispetto al range $R$, quindi può essere considerato come fonte di punti. Tuttavia, ci sono $\rho(\theta)$ numero di fori per unità di superficie all'angolo $\theta$. L'acqua si spunta in tutte le direzioni alla stessa velocità iniziale $v_o$.
 
 <!--fig:start-->
-![[_attachments/APhO_2024_theory/APhO_2024_theory_Q1_p1_f1.png]]
+![[prove/_attachments/apho_2024_theory/apho_2024_theory_q1_p1_f1.png]]
 *Fig. 1: Sezione trasversale schematica di un spruzzatore a fontana a forma emisfera.*
 <!--fig:end-->
 
@@ -125,7 +125,7 @@ $$
 where $n_1$ and $n_2$ are the refractive indices of the lower and upper parts of the boundary, $\phi_1$ and $\phi_2$ are the angles that the light ray makes with the normal of the boundary.
 
 <!--fig:start-->
-![[_attachments/APhO_2024_theory/APhO_2024_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2024_theory/apho_2024_theory_q2_p1_f1.png]]
 *Fig. 1: Refraction of light from a dielectric medium with refractive index $n_1$, to a second dielectric medium with refractive index $n_2$.*
 <!--fig:end-->
 
@@ -134,7 +134,7 @@ where $n_1$ and $n_2$ are the refractive indices of the lower and upper parts of
 **Fig. 2** illustrates how light that consists of two rays with different colour, $a$ and $b$, is incident along the radius of a semi-sphere with refractive index $n_x$, in air, before being refracted at the bottom at an angle of $\theta_a$ and $\theta_b$, respectively.
 
 <!--fig:start-->
-![[_attachments/APhO_2024_theory/APhO_2024_theory_Q2_p2_f1.png]]
+![[prove/_attachments/apho_2024_theory/apho_2024_theory_q2_p2_f1.png]]
 *Fig. 2: Light propagation through a semi-sphere.*
 <!--fig:end-->
 
@@ -147,7 +147,7 @@ where $n_1$ and $n_2$ are the refractive indices of the lower and upper parts of
 A cylindrical rod has a refractive index of $n_1 = 1.50$. The rod is placed in air, with one end coated with a polymer with refractive index $n_2 = 1.40$, as shown in **Fig. 3** below. Light is incident from the polymer into the rod at an angle, $\theta$. When $\theta$ is changed, there is an instance when light is totally reflected back to the polymer.
 
 <!--fig:start-->
-![[_attachments/APhO_2024_theory/APhO_2024_theory_Q2_p3_f1.png]]
+![[prove/_attachments/apho_2024_theory/apho_2024_theory_q2_p3_f1.png]]
 *Fig. 3: A cylindrical rod with one end coated with a polymer with refractive index $n_2$, where $n_2 < n_1$.*
 <!--fig:end-->
 
@@ -164,7 +164,7 @@ A cylindrical rod has a refractive index of $n_1 = 1.50$. The rod is placed in a
 Optical fibre is formed by surrounding the medium with refractive index, $n_1$ with a lower refractive index medium, $n_2$, as shown in **Fig. 4** below. The medium with refractive index, $n_1$ is known as the fibre cladding. The refractive index, $n_3$, is typically the refractive index of air ($n_3 = 1$).
 
 <!--fig:start-->
-![[_attachments/APhO_2024_theory/APhO_2024_theory_Q2_p4_f1.png]]
+![[prove/_attachments/apho_2024_theory/apho_2024_theory_q2_p4_f1.png]]
 *Fig. 4: A schematic of an optical fibre and its cross section.*
 <!--fig:end-->
 
@@ -197,7 +197,7 @@ $$
 se $n_1$ e $n_2$ sono gli indici di rifrazione delle parti inferiori e superiori del confine, $\phi_1$ e $\phi_2$ sono gli angoli che il raggio luminoso fa con la normalità del confine.
 
 <!--fig:start-->
-![[_attachments/APhO_2024_theory/APhO_2024_theory_Q2_p1_f1.png]]
+![[prove/_attachments/apho_2024_theory/apho_2024_theory_q2_p1_f1.png]]
 *Fig. 1: Rifrazione della luce da un mezzo dielettrico con indice di rifrazione $n_1$ a un secondo mezzo dielettrico con indice di rifrazione $n_2$.*
 <!--fig:end-->
 
@@ -206,7 +206,7 @@ se $n_1$ e $n_2$ sono gli indici di rifrazione delle parti inferiori e superiori
 **Fig. 2** illustra come la luce costituita da due raggi di colore diverso, $a$ e $b$, si incontra nell'aria lungo il raggio di una semisfera con indice di rifrazione $n_x$, prima di essere rifracciata in fondo ad un angolo di $\theta_a$ e $\theta_b$, rispettivamente.
 
 <!--fig:start-->
-![[_attachments/APhO_2024_theory/APhO_2024_theory_Q2_p2_f1.png]]
+![[prove/_attachments/apho_2024_theory/apho_2024_theory_q2_p2_f1.png]]
 *Fig. 2: Propagazione della luce attraverso una semisfera.*
 <!--fig:end-->
 
@@ -219,7 +219,7 @@ Quando l'angolo di incidenza, $\theta_i$, è lentamente aumentato a $45^\circ$, 
 Una canna cilindrica ha un indice di rifrazione $n_1 = 1.50$. La canna è collocata in aria, con un'estremità rivestita di un polimero con indice di rifrazione $n_2 = 1.40$, come mostrato nella figura **. 3** di seguito. La luce si incide dal polimero nella canna ad un angolo $\theta$. Quando $\theta$ viene modificato, si verifica un caso in cui la luce si riflette completamente sul polimero.
 
 <!--fig:start-->
-![[_attachments/APhO_2024_theory/APhO_2024_theory_Q2_p3_f1.png]]
+![[prove/_attachments/apho_2024_theory/apho_2024_theory_q2_p3_f1.png]]
 *Fig. 3: Una barra cilindrica con un'estremità rivestita di un polimero con indice di rifrazione $n_2$, dove $n_2 < n_1$.*
 <!--fig:end-->
 
@@ -236,7 +236,7 @@ Una canna cilindrica ha un indice di rifrazione $n_1 = 1.50$. La canna è colloc
 La fibra ottica si forma circondando il mezzo con un indice di rifrazione $n_1$ con un indice di rifrazione inferiore $n_2$, come mostrato nella figura **. 4** di seguito. Il mezzo con indice di rifrazione $n_1$ è noto come rivestimento a fibra. L'indice di rifrazione, $n_3$, è tipicamente l'indice di rifrazione dell'aria ($n_3 = 1$).
 
 <!--fig:start-->
-![[_attachments/APhO_2024_theory/APhO_2024_theory_Q2_p4_f1.png]]
+![[prove/_attachments/apho_2024_theory/apho_2024_theory_q2_p4_f1.png]]
 *Fig. 4: Schema di una fibra ottica e della sua sezione trasversale.*
 <!--fig:end-->
 
@@ -278,7 +278,7 @@ In the late 1950s and early 1960s, radio position measurements with this precisi
 The 1962 August 5 occultation was undertaken at 410 and 136 MHz. Both disappearance and reappearance were observed and the disappearance record revealed the presence of two components, A and B, in the source. The disappearance on the right and the reappearance records on the left, at 410 MHz are plotted in **Fig. 1**.
 
 <!--fig:start-->
-![[_attachments/APhO_2024_theory/APhO_2024_theory_Q3_p2_f1.png]]
+![[prove/_attachments/apho_2024_theory/apho_2024_theory_q3_p2_f1.png]]
 *Fig. 1: The 1962 August 5 disappearance and reappearance records at 410 MHz, taken from Hazard et al. (1963). Note that time increases from right to left, and that the Moon is also moving from right to left. The bottom panel shows the positions of source components A and B relative to the limb of the Moon at disappearance and reappearance.*
 <!--fig:end-->
 
@@ -303,7 +303,7 @@ The 1962 August 5 occultation was undertaken at 410 and 136 MHz. Both disappeara
 In 1962, the year of these observations, Maarten Schmidt was working on the programme of optical identification and spectroscopy of the optical objects identified with radio sources. Whiteoak mentions as an afterthought that the 'current Caltech thinking' is that the potential 3C 273 identification is with a star and a strange jet. Given that no other bright star had been proposed as a radio source identification, he assumed that the bright magnitude 13 'star' (magnitude accounts as a way to measure how bright a star is; the brighter the star, the smaller the number) was merely a confusing foreground very bright star. To obtain a spectrum of the faint jet, which he saw as by far the most likely identification, it was inevitable that the bright confusing star some arcseconds away would spill over into any spectrum of the jet he would obtain. To offset this, Maarten Schmidt had decided to first obtain a spectrum of this bright star. On the night of December 29, he managed to obtain a spectrum of the bright 'star' which showed some faint emission lines (**Fig. 2**), but with no obvious explanation in terms of any expected stellar lines. Only when Schmidt decided to compare the strange spectrum with the Balmer lines of hydrogen, things became clear:
 
 <!--fig:start-->
-![[_attachments/APhO_2024_theory/APhO_2024_theory_Q3_p4_f1.png]]
+![[prove/_attachments/apho_2024_theory/apho_2024_theory_q3_p4_f1.png]]
 *Fig. 2: Optical spectrum of 3C 273 (top) together with a comparison laboratory spectrum (bottom).*
 <!--fig:end-->
 
@@ -336,7 +336,7 @@ We have seen that the brightness of 3C 273 is too large for a single star, even 
 Modern images from various telescopes (see e.g., **Fig. 3**) have found that the two components A and B that were measured with the lunar occultation actually refer to a compact core, which hosts the black hole, and a jet that extends the distance that you calculated before. This jet is thought to be produced via acceleration of the accreted particles via the strong black hole magnetic field, in a similar way particles from the Solar wind hit the magnetic field of Earth to produce the auroras near the poles, but at much larger scale.
 
 <!--fig:start-->
-![[_attachments/APhO_2024_theory/APhO_2024_theory_Q3_p8_f1.png]]
+![[prove/_attachments/apho_2024_theory/apho_2024_theory_q3_p8_f1.png]]
 *Fig. 3: Radio image of 3C 273 taken with the MERLIN telescope.*
 <!--fig:end-->
 
@@ -373,7 +373,7 @@ Alla fine degli anni '50 e all'inizio degli anni '60, non erano disponibili misu
 L'occultamento del 5 agosto 1962 è stato effettuato a 410 e 136 MHz. Sono state osservate sia la scomparsa che la riaparizione e il registro delle scomparse ha rivelato la presenza di due componenti, A e B, nella fonte. La scomparsa a destra e i registri di ripresa a sinistra, a 410 MHz, sono tracciati in **Fig. 1**.
 
 <!--fig:start-->
-![[_attachments/APhO_2024_theory/APhO_2024_theory_Q3_p2_f1.png]]
+![[prove/_attachments/apho_2024_theory/apho_2024_theory_q3_p2_f1.png]]
 *Fig. 1: I registri di scomparsa e riapparimenti del 5 agosto 1962 a 410 MHz, prelevati da Hazard et al. (1963). Si noti che il tempo aumenta da destra a sinistra e che la Luna si muove anche da destra a sinistra. Il pannello inferiore mostra le posizioni dei componenti sorgenti A e B rispetto all'arto della Luna alla scomparsa e alla riapparenza.*
 <!--fig:end-->
 
@@ -398,7 +398,7 @@ Basato sulla risposta di **A.1** a **A.4** e sui dati riportati nella figura **.
 Nel 1962, anno delle osservazioni, Maarten Schmidt lavorava al programma di identificazione ottica e spettroscopia degli oggetti ottici identificati con fonti radio. Whiteoak menziona come un pensiero posteriore che il "attuale pensiero di Caltech" è che la potenziale identificazione 3C 273 è con una stella e un strano getto. Dato che nessuna altra stella brillante era stata proposta come fonte di identificazione radio, ha supposto che la stella brillante di magnitudo 13 (la magnitudo conta come un modo per misurare quanto brillante è una stella; più brillante è la stella, minore è il numero) fosse semplicemente una stella di primo piano confusa molto brillante. Per ottenere uno spettro del debole jet, che vedeva come l'identificazione più probabile, era inevitabile che la stella brillante confusa a pochi secondi d'arco si riversasse in qualsiasi spettro del jet che avrebbe ottenuto. Per compensare questo, Maarten Schmidt aveva deciso di ottenere prima uno spettro di questa stella brillante. Nella notte del 29 dicembre è riuscito a ottenere uno spettro della brillante "stella" che mostrava alcune sfavorevoli linee di emissioni (**Fig. 2**), ma senza spiegazioni ovvie in termini di linee stellari attese. Solo quando Schmidt decise di confrontare lo strano spettro con le linee di idrogeno di Balmer, le cose divennero chiare:
 
 <!--fig:start-->
-![[_attachments/APhO_2024_theory/APhO_2024_theory_Q3_p4_f1.png]]
+![[prove/_attachments/apho_2024_theory/apho_2024_theory_q3_p4_f1.png]]
 *Fig. 2: Spettro ottico di 3C 273 (alto) insieme a uno spettro di confronto di laboratorio (infine).*
 <!--fig:end-->
 
@@ -431,7 +431,7 @@ Qualcosa che è stato immediatamente proposto è stato l'accrescimento di materi
 Immagini moderne da vari telescopi (vedi ad esempio **Fig. 3**) hanno scoperto che le due componenti A e B misurate con l'occultamento lunare si riferiscono in realtà a un nucleo compatto, che ospita il buco nero, e a un getto che estende la distanza che hai calcolato prima. Si pensa che questo getto sia prodotto attraverso l'accelerazione delle particelle accretate attraverso il forte campo magnetico del buco nero, in modo simile le particelle del vento solare colpiscono il campo magnetico della Terra per produrre le aurore vicino ai poli, ma su scala molto più grande.
 
 <!--fig:start-->
-![[_attachments/APhO_2024_theory/APhO_2024_theory_Q3_p8_f1.png]]
+![[prove/_attachments/apho_2024_theory/apho_2024_theory_q3_p8_f1.png]]
 *Fig. 3: Immagine radio di 3C 273 presa con il telescopio MERLIN.*
 <!--fig:end-->
 

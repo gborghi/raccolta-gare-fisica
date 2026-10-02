@@ -49,7 +49,7 @@ h) Calcule el estiramiento del resorte cuando el sistema está en equilibrio.
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]], [[Conservation of Momentum]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]], [[Block (object)|Block]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yV6TXIudBtWP0W_7-E6vpaol1UjxRV1T/view)
 
 
@@ -89,7 +89,7 @@ h) Calcolare il tratto della molla quando il sistema è in equilibrio.
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]], [[Conservation of Momentum]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]], [[Block (object)|Block]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yV6TXIudBtWP0W_7-E6vpaol1UjxRV1T/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -128,7 +128,7 @@ In the previous situation (mass pulleys $M = 2\ \text{kg}$), the rope holding th
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]], [[Conservation of Momentum]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Hooke's Law (metodo)|Hooke's Law]]
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]], [[Block (object)|Block]]
+**Objects:** [[Pulley (object)|Pulley]], [[objects/rope-string-(object)|Rope/String]], [[Spring (object)|Spring]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yV6TXIudBtWP0W_7-E6vpaol1UjxRV1T/view)
 
 
@@ -335,7 +335,7 @@ f) Compare los valores del módulo de Young encontrados ($E_1$, $E_2$, $E_3$) y 
 **Topic:** [[Elasticity & Materials]]
 **Metodi:** [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Beam (object)|Beam]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Beam (object)|Beam]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1yV6TXIudBtWP0W_7-E6vpaol1UjxRV1T/view)
 
 
@@ -385,7 +385,7 @@ f) Confronta i valori del modulo di Young trovati ($E_1$, $E_2$, $E_3$) e dice s
 **Topic:** [[Elasticity & Materials]]
 **Metodi:** [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Beam (object)|Beam]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Beam (object)|Beam]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1yV6TXIudBtWP0W_7-E6vpaol1UjxRV1T/view)
 
 <div class="qlang-split" data-lang="en"></div>
@@ -434,5 +434,5 @@ f) Compare the values of the Young module found ($E_1$, $E_2$, $E_3$) and say wh
 **Topic:** [[Elasticity & Materials]]
 **Metodi:** [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Beam (object)|Beam]], [[Rope/String (object)|Rope/String]]
+**Objects:** [[Beam (object)|Beam]], [[objects/rope-string-(object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1yV6TXIudBtWP0W_7-E6vpaol1UjxRV1T/view)

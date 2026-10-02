@@ -96,73 +96,74 @@ Il programma al termine si predispone per consentire l'inserimento di una nuova 
 
 <div class="qlang-split" data-lang="en"></div>
 
-## Problem 1  An unknown charge
+## Problem 1 — Hidden Charge
 
 ### 1.1 Introduction
 
-A point-form charge of unknown value $Q$ is held fixed in a region of space. Electrons are launched parallel to the $z$ axis from a distance from the charge and are diffused due to the electrostatic force produced by the fixed charge and then hit a detection screen. The details of the unknown charge can be known by varying the initial kinetic energy and initial coordinates $x_i$ and $y_i$ of the electron beam and measuring the final coordinates $x_f$ and $y_f$ of the point where the electron hits the finite-sized detection flat screen perpendicular to the $z$ axis and located at $z = 0$.
+An unknown point charge $Q$ is fixed in a region of space. Electrons launched parallel to the $z$ axis far from the charge will scatter electrostatically off of the fixed charge and strike a detecting screen. It is possible learn about the details of the hidden charge by varying the initial kinetic energy as well as the initial $x_i$ and $y_i$ coordinates of the electron beam and measuring the final coordinates $x_f$ and $y_f$ of where an electron strikes a finite flat screen perpendicular to the $z$ axis and located at $z = 0$.
 
-It's helpful to know the formula for the Rutherford distribution,
+It is useful to know the Rutherford scattering formula,
 
 $$b = \frac{kqQ}{2E} \frac{1}{\tan(\theta/2)}$$
 
-where $b$ is the impact parameter, $E$ is the electron energy, $q = -1.602 \times 10^{-19}\,\text{C}$ is the electron charge, $k = 8.99 \times 10^9\,\text{N}\,\text{m}^2/\text{C}^2$, and $\theta$ is the diffusion angle. The impact parameter is defined as the minimum distance of the electron from the target, assuming that the electron is not affected by the target and therefore moves in a straight line; the angle of diffusion is the angle between the initial velocity vector of the electron when it is far from the target and the final velocity vector of the electron far from the target after diffusion.
+where $b$ is the impact parameter, $E$ is the energy of the electron, $q = -1.602 \times 10^{-19}\,\text{C}$ is the charge of the electron, $k = 8.99 \times 10^9\,\text{N}\,\text{m}^2/\text{C}^2$, and $\theta$ is the scattering angle. The impact parameter is defined as the closest approach of the electron to the target, assuming that the electron were unaffected by the target and hence would move in a straight line; the scattering angle is angle between the original velocity vector of the electron far from the target and the final velocity vector of the electron far from the target after scattering.
 
-### 1.2 Purpose
+<!--fig:start-->
+![[_attachments/EuPhO20_experiment_ITA/EuPhO20_experiment_ITA_p1_f1.png]]
+*Electron trajectory: impact parameter b and scattering angle θ*
+<!--fig:end-->
 
-The purpose is to determine the position $(x_Q, y_Q, z_Q)$ and also the intensity and sign of the fixed charge $Q$ as accurately as possible. Approximate estimates and orders of magnitude of these results should be provided. There is a Gaussian error associated with the initial position of the beam of order $0.5\,\text{mm}$.
+### 1.2 Task
 
-As with all experiments, you need to provide clearly labeled data tables, clearly labeled graphs, and derivations of enough formulas to explain what you've measured and how you're getting the results.
+The task is to determine the position $(x_Q, y_Q, z_Q)$ and also the magnitude and sign of the fixed charge $Q$, as precisely as possible. You should provide rough, order of magnitude error estimates on these results. There is Gaussian error associated with initial beam location that is on the order of $0.5\,\text{mm}$.
 
-1.3 Program interface
+As with all experiments, you must provide clearly labelled tables of data, clearly labelled graphs, and sufficient formulae derivations to make it clear what you have measured, and how you are deriving your results.
 
-The program shall require that the acceleration voltage value be provided by the keyboard.
+### 1.3 Program Interface
+
+The program asks for an accelerating voltage with the prompt
 
 ```
 Beam accelerating voltage in V:
 ```
 
-Enter a number between 1 and 10000 on the keyboard and press return. The programme then requires the initial starting coordinates, starting with $x_i$:
+Enter a number between 1 and 10000, and press return. The program then asks for the initial launch coordinates, starting with $x_i$, with the prompt
 
 ```
 x-coordinate of the electron beam in cm:
 ```
 
-Enter a number between -20 and 20 on the keyboard and press return. Finally, the program requires the input of $y_i$:
+Enter a number between -20 and 20 and then press return. Finally, the program asks for $y_i$, with the prompt
 
 ```
 y-coordinate of the electron beam in cm:
 ```
 
-Enter a number between -20 and 20 on the keyboard and press return. If an invalid number is entered in one of the three preceding cases, the program will reply `Invalid entry.` and ask for the value again, recalling the limits allowed.
+Enter a number between -20 and 20 and then press return. If you enter an invalid number for any of these three, the program will prompt you with `Invalid entry.` and will then prompt you for the value again, reminding you of the allowed limits.
 
-After entering the three numbers, the program will provide:
+After the three numbers have been entered, the program will output
 
 ```
 Electron beam fired with parameters (x, y, V) =
 ```
 
-and reaffirm the values entered, so:
+and it will restate your entered values, and then
 
 ```
 Electron detected at (x, y) =
 ```
 
-and it will indicate the position on the measured electron screen. However, if the electron does not hit the finite-sized screen, it will say:
+and give the screen location of the detected electron. However, if the electron misses the finite size screen, you will be told
 
 ```
 Electron not detected...
 ```
 
-The final programme is prepared to allow for the insertion of a new set of initial coordinates.
+The program then repeats, allowing you to enter in a new set of initial coordinates.
 
 <!--fig:start-->
-![[_attachments/EuPhO20_experiment_ITA/EuPhO20_experiment_ITA_p1_f1.png]]
-*Rutherford diffusion scheme with parameter b and angle θ*
-<!--fig:end-->
-<!--fig:start-->
 ![[_attachments/EuPhO20_experiment_ITA/EuPhO20_experiment_ITA_p1_f2.png]]
-*Black box scheme with masses and springs*
+*Black box with masses and springs*
 <!--fig:end-->
 
 **Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
@@ -255,70 +256,68 @@ Dopo la conclusione della simulazione è possibile iniziarne un'altra.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 2 A black box
+## Problem 2 — Black box
 
-### 2.1 Introduction to the book
+### 2.1 Introduction
 
-Hai una scatola nera meccanica rigida composta da un recipiente di massa $m_1$. Inside the container is an object of $m_2$ mass suspended from a spring of negligible mass and constant elasticity $k_1$ which is fixed to the ceiling of the box. Another mass $m_3$ is hung from the mass $m_2$ by another massless spring with an elastic constant $k_2$. There is a small viscous resistance that depends on the speed of the objects. The Earth's gravitational acceleration is $g = 9.81\,\text{m/s}^2$ and is parallel to the sides of the box.
+You have a rigid mechanical black box consisting of a container of mass $m_1$. Inside the container there is a load of mass $m_2$ that hangs on an effectively massless spring of stiffness $k_1$ from the ceiling of the box. Another mass $m_3$ is hanged to the mass $m_2$ via another massless spring of stiffness $k_2$. There is a small viscous drag which depends on the velocity of the objects. The gravity of Earth is $g = 9.81\,\text{m/s}^2$ and is parallel to the sides of the box.
 
-The box can be moved up or down with constant acceleration at stretches. The acceleration trend can be programmed by input providing the duration (in seconds) and acceleration (in $\text{m/s}^2$) of each step. The simulation shows in "real time" the force $F$ applied to the box necessary to maintain the acceleration given at that instant, together with the time reading. The simulation will also record readings in a text file in the same program folder. All simulations will always start with the same initial configuration for the masses.
+The box can be moved up or down with a piece-wise constant acceleration. The acceleration pattern can be programmed through input by giving the duration (in seconds) and acceleration (in $\text{m/s}^2$) for each step. The simulation shows in "real time" the force $F$ exerted to the box that is needed to maintain the given acceleration at the current moment of time, together with the reading of time. The simulation will also output the readings to a text file in the same folder as the program. All simulations will always start with the same initial configuration for the masses.
 
-**Note:** Each force measurement $F$ has a small random error. The springs are linear for reasonably small deformations but not linear for larger deformations. The values $k_1$ and $k_2$ are defined as the elastic constant of each spring for small deformations close to equilibrium when the box is at rest. The force $F$ and acceleration shall be considered positive if directed upwards. The length of the side of the box is $0.6\,\text{m}$ and the box is initially located in the centre of a room of height $3\,\text{m}$. A simulation ends automatically if the box hits the ceiling or floor or if one of the masses collides with the box or the other mass.
+**Note:** Every measurement of force $F$ has a small random error. The springs are linear for reasonably small deformations, but nonlinear for larger deformations. The values $k_1$ and $k_2$ are defined to be the stiffness of each spring for small deformations near equilibrium when the box is at rest. Force $F$ and acceleration are considered to be positive if they are directed upwards. The side length of the box is $0.6\,\text{m}$ and the box is initially in the middle of a room with height $3\,\text{m}$. An experiment ends automatically if the box hits the ceiling or the floor, or if any of the masses collide with the box or with the other mass. The figure is not drawn to scale.
 
-The figure is not drawn in scale.
+### 2.2 Task
 
-### 2.2 Purpose
+The task is to determine all the parameters: $m_1$, $m_2$, $m_3$, $k_1$, $k_2$. You do not need to provide an error analysis for these results.
 
-The purpose is to determine all parameters: $m_1$, $m_2$, $m_3$, $k_1$, $k_2$. It is not necessary to provide an error analysis for these results.
+As with all experiments, you must provide clearly labelled tables of data, clearly labelled graphs, and sufficient formulae derivations to make it clear what you have measured, and how you are deriving your results.
 
-As with all experiments, you need to provide clearly labeled data tables, clearly labeled charts, and derivations of enough formulas to make clear what you've measured and how you're getting the results.
+### 2.3 Program Interface
 
-2.3 Program interface
+Initially, the program asks for a sequence of input actions. You have the following possibilities.
 
-Initially, the program requires a sequence of keyboard inputs. You have the following options.
+- Enter two numbers and press return to add a step to the acceleration pattern, for example: `1.5 -0.4`. The first number should be the duration of the step in seconds (must be a multiple of $0.01\,\text{s}$) and the second number should be the acceleration in $\text{m/s}^2$ (must be between $-30$ and $30$).
+- Enter `repeat` and an integer and press return to repeat actions, for example: `repeat 10`. The integer should be the number of times you want to repeat actions. Every repeat action should end with an `endrepeat` action (see below).
+- Enter `endrepeat` to end repeating actions. If you start the experiment, all actions between `repeat` and `endrepeat` will be repeated a given number of times. You cannot repeat actions inside another repeat.
+- Enter `sample` and a number and press return to change the sampling time, for example: `sample 0.4`. The number should be the new sampling time which is the time after which every new reading is output to the text file. The sampling time must be a multiple of $0.01\,\text{s}$, which is also the default sampling time.
+- Enter `begin` to finish the sequence and start the experiment.
 
-- Enter two numbers and press return to add a step to the acceleration, for example: `1.5 -0.4`. The first number represents the duration of the step in seconds (must be a multiple of $0.01\,\text{s}$) and the second number represents the acceleration in $\text{m/s}^2$ (must be between $-30$ and $30$).
-- Enter `repeat` and an integer and press return to repeat the actions, for example: `repeat 10`. The integer represents the number of times you want to repeat the actions. Each repeated action ends with `endrepeat`.
-- Insert `endrepeat` to finish the repetition of the actions.
-- Enter `sample` and a number and press return to change the sampling time, for example: `sample 0.4`. The number represents the new sampling time which is the time after which each new reading is recorded in a text file. The sampling time shall be a multiple of $0.01\,\text{s}$, which is also the default sampling time.
-- Enter `begin` to finish the sequence and start the simulation.
-
-You can also write multiple actions on the same line and then press return. For example, you can insert:
+You can also write multiple actions on the same line and then press return. For example, you can enter
 
 ```
 sample 0.4 repeat 10 1.5 0.4 1.5 -0.4 endrepeat begin
 ```
 
-to start a simulation where the sampling time has changed to $0.4\,\text{s}$ and to accelerate the box by $a = 0.4\,\text{m/s}^2$ and $a = -0.4\,\text{m/s}^2$ 10 times respectively.
+to start an experiment where you change the sampling time to $0.4\,\text{s}$ and accelerate the box respectively with $a = 0.4\,\text{m/s}^2$ and $a = -0.4\,\text{m/s}^2$ ten times.
 
-If you enter an invalid input, you will get one of the following error messages:
+If you enter an invalid input, you will get one of the following error messages and you can try to enter an action again.
 
-- If the acceleration is outside the range: `Acceleration is outside the range.
-- If the duration of acceleration is outside the allowed range: `Duration is out of range.
-- If the sampling time is outside the range: `Sampling time is outside range.`
-- If the number of repetitions is outside the allowed range: `Number of repeat times is outside the allowed range.`
-- If you try to repeat actions within another repeat action: `Cannot repeat actions inside another repeat.`
-- If you try to finish the repetition without an end repetition action: `Cannot end repeat outside repeat.`
-- In all other cases: `Invalid entry.
+- If acceleration is out of range: `Acceleration is out of range.`
+- If duration of acceleration is out of range: `Duration is out of range.`
+- If sampling time is out of range: `Sampling time is out of range.`
+- If the number of repeat times is out of range: `Number of repeat times is out of range.`
+- If you try to repeat actions inside another repeat action: `Cannot repeat actions inside another repeat.`
+- If you try to end repeat without a repeat action to end: `Cannot end repeat outside repeat.`
+- In all other cases: `Invalid entry.`
 
-After entering `begin`, the program will ask to enter a name for the data return file from the keyboard:
+After you enter `begin`, the program will ask you for a name for the output file with the prompt
 
 ```
 Enter name for output file (e.g. "results"). You should use Latin letters and numbers because some special characters are not allowed.
 ```
 
-Enter a name and press return. The readings will be saved in a file `.txt` with the name given in the same folder as the program.
+Enter a name and press return. You are advised to use only Latin letters and numbers for the name. Other characters may or may not be allowed in the filename and in case of an invalid filename the readings will not be saved. The readings will be saved in a .txt file with the given name in the same folder as the program.
 
-The program will then display `Begin experiment.` and start the experiment. The program will then display the current time from the start of the experiment (`Time (s) `), the measured value of the force $F$ (`Force (N) `) and the acceleration of the box (`Accel (m/s^2) `).
+After this, the program will display `Begin experiment.` and start the experiment. The program will then display the current time since the beginning of the experiment (`Time (s)`), measured value of force $F$ (`Force (N)`) and acceleration of the box (`Accel (m/s^2)`). The readings will be similarly displayed in the text file.
 
-The program will then display one of the following messages:
+The program will then display one of the following messages.
 
-- If the simulation has been successfully completed: `Experiment ended successfully.
-- If the box hits the ceiling, the box hits the ceiling. Experiment ended.
-If the box hits the floor, the box hits the floor. Experiment ended.
-- If the masses inside the box collide with each other or hit the walls of the box: `Masses and/or the box collided. Experiment ended.
+- If the experiment ended successfully: `Experiment ended successfully.`
+- If the box hit the ceiling: `The box hit the ceiling. Experiment ended.`
+- If the box hit the floor: `The box hit the floor. Experiment ended.`
+- If the masses inside the box collided or one of the masses inside the box collided with the box: `Masses and/or the box collided. Experiment ended.`
 
-After the simulation is completed, another simulation can be started.
+After the experiment ends, you can start another experiment.
 
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hooke's Law (metodo)|Hooke's Law]]

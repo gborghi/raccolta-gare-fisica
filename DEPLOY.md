@@ -152,3 +152,8 @@ Se in futuro una figura superasse i limiti, deve restare un `<img>` identico, in
    (non `uc?export=view`); aggiungere il dominio a `img-src`.
 3. Cloudflare R2 solo come ultima scelta.
 Annotare qui ogni figura che usa uno di questi meccanismi.
+
+
+**Regola concordata (Kepler/Plato, 2026-10-02):** finché Kepler non conferma che le PR di contenuto (#6, #8 della
+fisica) e le traduzioni sono nel vault Dropbox con diff zero, **nessuna build o deploy può eseguire `preprocess.mjs`**:
+si costruisce solo dal `content/` committato (i workflow CI non lo chiamano).

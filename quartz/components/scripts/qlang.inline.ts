@@ -22,7 +22,17 @@ const LABEL: Record<string, string> = {
 const STORE_KEY = "rgf-qlang"
 
 function setupQlang() {
-  const sw = document.querySelector(".qlang-switch") as HTMLElement | null
+  try { setupQlangUnsafe() } catch (e) { console.warn("[qlang]", e) } // never break the page
+}
+
+// FAIL-SAFE (mate bug 2026-10-02): on prova reading pages wire only the switch inside the
+// mounted reader pane (atomRouter fires "atomrender"); never hide reader containers;
+// a saved language missing on this quesito falls back to data-default.
+const PROTECTED = ".atom-reader, .ar-shell, .ar-pane"
+function setupQlangUnsafe() {
+  const sw = (document.querySelector(".atom-reader")
+    ? document.querySelector(".ar-pane .qlang-switch")
+    : document.querySelector(".qlang-switch")) as HTMLElement | null
   if (!sw || sw.dataset.qlangReady) return
   const container = sw.parentElement
   if (!container) return
@@ -34,6 +44,7 @@ function setupQlang() {
 
   for (const node of Array.from(container.children) as HTMLElement[]) {
     if (node === sw) continue
+    if (node.matches?.(PROTECTED) || node.querySelector?.(PROTECTED)) continue
     const split = node.classList?.contains("qlang-split")
       ? node
       : (node.querySelector?.(".qlang-split") as HTMLElement | null)
@@ -47,8 +58,9 @@ function setupQlang() {
   }
   if (langs.length < 2) return
 
-  const stored = localStorage.getItem(STORE_KEY)
-  let active = stored && langs.includes(stored) ? stored : defaultLang
+  let stored: string | null = null
+  try { stored = localStorage.getItem(STORE_KEY) } catch {}
+  let active = stored && langs.includes(stored) && groups[stored]?.length ? stored : defaultLang
 
   function apply(lang: string) {
     for (const l of langs) for (const n of groups[l]) n.style.display = l === lang ? "" : "none"
@@ -78,7 +90,7 @@ function setupQlang() {
     code.className = "qlang-code"
     code.textContent = l.toUpperCase()
     btn.appendChild(code)
-    btn.addEventListener("click", () => { localStorage.setItem(STORE_KEY, l); apply(l) })
+    btn.addEventListener("click", () => { try { localStorage.setItem(STORE_KEY, l) } catch {} apply(l) })
     sw.appendChild(btn)
   }
   sw.dataset.qlangReady = "1"

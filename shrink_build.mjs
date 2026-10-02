@@ -31,6 +31,13 @@ async function stubFolderPage(rel, redirectTo, label) {
 }
 
 // from /Prove/index.html, "../cerca" is the faceted search page (best browse entry)
-await stubFolderPage("prove/index.html", "../cerca", "Cerca prove")
+// Since the per-prova SPA merge the Quartz folder listing is ~1 MB (one row per gara),
+// so it is kept as the "Prove" list; stub it only if it grows back past 3 MB.
+{
+  let sz = 0
+  try { sz = (await fs.stat(`${PUB}/prove/index.html`)).size } catch {}
+  if (sz > 3e6) await stubFolderPage("prove/index.html", "../cerca", "Cerca prove")
+  else console.log(`prove/index.html: ${(sz / 1e6).toFixed(1)}MB, kept as Prove list`)
+}
 await import("./scripts/make-search-meta.mjs") // static/searchMeta.json (boolean search: metadata / campo:valore)
 console.log("shrink_build done")

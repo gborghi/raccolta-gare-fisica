@@ -13,6 +13,7 @@
 //  5. "Prove collegate" list items pointing at PDFs that were never converted to a
 //     page -> link to the PDF on Google Drive (scripts/pdf-drive-map.json, the same
 //     "Apri PDF" mechanism used by the soluzioni pages) or plain text if unmapped.
+//  6. concept wikilinks ((object)/(metodo)/(competenza)) with no page at all -> plain text.
 // Prints a report; with RGF_FIX_REPORT=<file> writes the JSON list of changes.
 import { readdirSync, readFileSync, writeFileSync, statSync, existsSync } from "node:fs"
 import path from "node:path"
@@ -114,6 +115,13 @@ for (const rel of mdFiles) {
       const p = [...cands][0]
       const rep = `[[${p}${frag}${alias || "|" + t}]]`
       log("wikilink-concept", full, rep); return rep
+    }
+    // 6. concept page that does not exist at all (e.g. [[Transducer (object)]], no
+    //    objects/transducer-(object).md) -> plain text instead of a 404 link
+    const cm = t.match(/^(.*?)\s*\((object|metodo|competenza)\)$/)
+    if (cm && cands.size === 0) {
+      const rep = alias ? alias.slice(1) : cm[1]
+      log("wikilink-missing-concept", full, rep); return rep
     }
     return full
   })

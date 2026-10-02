@@ -77,55 +77,50 @@ dove "$\times$" e "$\cdot$" rappresentano rispettivamente il prodotto vettoriale
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Theoretical problems. Language: Italian
+**T1: Floating cylinder (10 pts)**
 
-T1: Floating cylinder (10 pts)
+A solid, uniform cylinder of height $h = 10\ \text{cm}$ and base area $s = 100\ \text{cm}^2$ floats in a cylindrical beaker of height $H = 20\ \text{cm}$ and inner bottom area $S = 102\ \text{cm}^2$ filled with a liquid. The ratio between the density of the cylinder and that of the liquid is $\gamma = 0.70$. The bottom of the cylinder is above the bottom of the beaker by a few centimeters. The cylinder is oscillating vertically, so that its axis always coincides with that of the beaker. The amplitude of the liquid level oscillations is $A = 1\ \text{mm}$.
 
-A solid, uniform cylinder of height $h = 10\ \text{cm}$ and base area $s = 100\ \text{cm}^2$ floats in a cylindrical glass of height $H = 20\ \text{cm}$ and internal area $S = 102\ \text{cm}^2$ filled with a liquid. The ratio of the density of the cylinder to that of the liquid is $\gamma = 0.70$. The bottom of the cylinder is a few centimeters above the bottom of the glass. The cylinder is made to swing vertically, so that its axis always coincides with that of the glass.
+Find the period of the motion $T$. Neglect the viscosity of the liquid.
 
-The fluid level oscillation amplitude is $A = 1\ \text{mm}$.
+**T2: Thermal oscillations (10 pts)**
 
-Find the oscillation period $T$. It's a trace of the viscosity of the liquid.
+A resistor is made of a material which undergoes a phase transition so that its resistance takes one of the two values, $R_1$ if its temperature is smaller than $T_c$, and $R_2 > R_1$ if the temperature is larger than $T_c$.
 
-T2: Thermal oscillations (10 pts)
+This resistor is connected to a voltage source through an inductor of inductance $L$. It appears that if the applied voltage $V$ is between two critical values, $V_1 < V < V_2$, the temperature of the resistor starts oscillating. Assume that (i) the heat flux $P$ from the resistor to the ambient medium is given by $P = \alpha(T - T_0)$, where $\alpha$ is a constant, $T$ denotes the temperature of the resistor, and $T_0$ is the ambient temperature; (ii) the geometrical size of the resistor is so small that it will reach a thermal equilibrium much faster than the characteristic time $L/R_2$.
 
-A resistor consists of a material undergoing a phase transition such that its resistance assumes one of the following two values, $R_1$ if its temperature is less than $T_c$, and $R_2 > R_1$ if the temperature is greater than $T_c$.
+(a) (2 pts) Express $V_1$ and $V_2$ in terms of the other parameters defined above.
 
-The resistor is connected to a voltage source via an inductance inductor $L$. If the applied voltage $V$ is between two critical values, $V_1 < V < V_2$, the resistance temperature begins to oscillate. Assume that (i) the heat flow $P$ from the resistor to the ambient medium is given by $P = \alpha(T - T_0)$, where $\alpha$ is a constant, $T$ indicates the resistor temperature, and $T_0$ is the ambient temperature; (ii) the geometrical size of the resistor is so small that it reaches the thermal equilibrium much faster than the characteristic time $L/R_2$.
+(b) (6 pts) Assuming that $V_1 < V < V_2$, sketch qualitatively how the temperature of the resistor $T$ depends on time $t$, and find the ratio $(T_\text{max} - T_0)/(T_\text{min} - T_0)$, where $T_\text{max}$ and $T_\text{min}$ denote the maximal and minimal values of $T$, respectively.
 
-(a) (2 points) Expressions $V_1$ and $V_2$ according to the parameters defined above.
+(c) (2 pts) Find the period of oscillations if $V = \sqrt{V_1 V_2}$ and $R_2 = 16 R_1$.
 
-(b) (6 points) Assuming $V_1 < V < V_2$, it qualitatively represents the temperature trend of the resistance $T$ in terms of time $t$, and finds the ratio $(T_\text{max} - T_0)/(T_\text{min} - T_0)$, where $T_\text{max}$ and $T_\text{min}$ are the maximum and minimum values of $T$, respectively.
+**T3: Dipole in a magnetic field (10 pts)**
 
-(c) (2 points) In the case of $V = \sqrt{V_1 V_2}$ and $R_2 = 16 R_1$, find the period of oscillations.
+Two small balls of mass $m$ each with charges $+q$ and $-q$ respectively, connected by a rigid massless rod of length $d$, form a dipole. The dipole is parallel to plane $XY$ and is placed in a uniform magnetic field $\vec{B}$ perpendicular to $XY$.
 
-T3: Dipolo in magnetic field (10 pts)
+<!--fig:start-->
+![[_attachments/EuPhO_2022_theory_Italiano/EuPhO_2022_theory_Italiano_p1_f1.png]]
+*Dipole in the XY plane with initial velocity and field B*
+<!--fig:end-->
 
-Two balls of $m$ mass and $+q$ and $-q$ load, connected by a rigid axle without a length $d$ mass, form a dipole. The dipole is parallel to the $XY$ plane and is placed in a uniform magnetic field $\vec{B}$ perpendicular to $XY$.
+Initially, the dipole is aligned with the direction $X$ and has initial angular velocity $\omega_0$ in plane $XY$, as shown. Its center of mass is initially located at origin and given initial velocity $\vec{v}_0$ parallel to $XY$, as well.
 
-Initially the dipole is aligned with the direction $X$ and rotates in the plane $XY$ with initial angular velocity $\omega_0$, as shown. Its centre of mass is initially located at the origin of the reference system and the initial speed $\vec{v}_0$ is parallel to $XY$.
+Consider three distinct scenarios (a, b, c-d):
 
-Consider three distinct situations (a, b, c-d):
+(a) (2 pts) Find $\omega_0$ and the direction of $\vec{v}_0$, so that the center of mass will move with the constant velocity $\vec{v} = \vec{v}_0$.
 
-(a) (2 points) Determine $\omega_0$ and the direction and direction of $\vec{v}_0$ so that the centre of mass moves at a constant speed $\vec{v} = \vec{v}_0$.
+(b) (3 pts) Given $\omega_0$, find such $\vec{v}_0$ (direction and magnitude), so that the center of mass will travel in a circle. Find the circle radius $R_c$ and the coordinates $x_c, y_c$ of its center. You don't need to prove the uniqueness of the solution.
 
-(b) (3 points) The data $\omega_0$, finds $\vec{v}_0$ (direction, direction and intensity), so that the centre of mass describes a circular trajectory. Find the radius of circumference $R_c$ and the coordinates $x_c, y_c$ of its center. It is not necessary to demonstrate the uniqueness of the solution.
+(c) (4 pts) Given $\vec{v}_0 = 0$, find the minimal $\omega_0 = \omega_\text{min}$ necessary for the dipole to reverse its orientation during the motion.
 
-(c) (4 points) The $\vec{v}_0 = 0$ data finds the minimum value $\omega_0 = \omega_\text{min}$ required for the dipole to turn inwards during movement.
-
-(d) (1 point) If the dipole starts its motion with $\vec{v}_0 = 0$ and $\omega_0 = \omega_\text{min}$ found in part (c), the trajectory of its center of mass has an asymptote. Find the distance $D$ from the source to the asynchronous.
+(d) (1 pt) If the dipole starts with $\vec{v}_0 = 0$ and $\omega_0 = \omega_\text{min}$ found in part (c), the trajectory of its center of mass has an asymptote. Find the distance $D$ from the origin to the asymptote.
 
 Useful vector identity:
 
 $$\vec{a} \times (\vec{b} \times \vec{c}) = \vec{b}\,(\vec{a} \cdot \vec{c}) - \vec{c}\,(\vec{a} \cdot \vec{b}),$$
 
-where '$\times$' and '$\cdot$' represent the vector product and the scalar product respectively.
-
-<!--fig:start-->
-**p.1**  XY axis dipole, speed and field B
-![[_attachments/EuPhO_2022_theory_Italiano/EuPhO_2022_theory_Italiano_p1_f1.png]]
-<!--fig:end-->
+where "$\times$" and "$\cdot$" denote vector product and scalar product respectively.
 
 **Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]], [[Magnetism]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]

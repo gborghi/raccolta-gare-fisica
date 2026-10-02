@@ -15,7 +15,7 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2012 — Quesito 1" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Ottica,object/lens"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -50,27 +50,11 @@ Problema 1 (13 punti)
 **Objects:** [[Lens (object)|Lens]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1gU1nScJ_TtxuxIOj6RuSX_CxIdd-zhbM/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 1 (13 points)
-
-
-<!--fig:start-->
-![[_attachments/43_IPhO_2012_1Rd_Handzettel_web/43_IPhO_2012_1Rd_Handzettel_web_p2_f1.png]]
-The Commission shall adopt implementing acts in accordance with Article 21 of the Treaty establishing the European Community.
-<!--fig:end-->
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1gU1nScJ_TtxuxIOj6RuSX_CxIdd-zhbM/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2012 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Ottica"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -165,57 +149,11 @@ migliori possibilità di sopravvivenza in caso di incidente.
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1gU1nScJ_TtxuxIOj6RuSX_CxIdd-zhbM/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 2 (9 points)
-The side length of one grid square corresponds to 5.0 mm.
-2012
-Contact
-Secretariat
-Lulu Hoffmeister
-Telephone number: 04 31 / 8 80-53 87
-Fax: 04 31 / 8 80-31 48
-The Commission has also adopted a number of measures to improve the quality of life of the European Union.
-Competition management
-Dr. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Telephone number: 04 31 / 8 80-51 20
-The Commission has also adopted a number of recommendations.
-The Commission has also adopted a number of proposals for the implementation of the programme. The Commission has also adopted a number of proposals for the proposal.
-Of Mice and Men
-When a mouse falls from a tall building, in most cases
-It will get away with no more than a fear, whereas the
-The same thing would be fatal for a human. Responsible for this
-Difference is the behaviour of physical laws under
-The scaling.
-Mice and humans are, at least to a rough
-Approximation, built the same way. Assume that in a
-Human all lengths are enlarged by a scaling factor k.
-Consider the fall of a mouse and of a human from a
-Great height and determine, using simple approximations, how the forces arising on impact
-For the mouse and the human compare with each other.
-The braking forces that can be exerted at most by the muscles and bones are
-proportional to their cross-sectional area. Therefore the maximum braking force of the human is greater by a factor k2
-than that of the mouse.
-Explain why, despite this, the mouse nevertheless has the
-Better chances of survival in the event.
-
-
-<!--fig:start-->
-![[_attachments/43_IPhO_2012_1Rd_Handzettel_web/43_IPhO_2012_1Rd_Handzettel_web_p2_f2.png]]
-The following table shows the results of the study:
-<!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1gU1nScJ_TtxuxIOj6RuSX_CxIdd-zhbM/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2012 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Ottica,object/ball,object/resistor,object/wire"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -292,48 +230,11 @@ a material with a resistivity of 0.11 $\Omega$ mm.
 **Objects:** [[Ball (object)|Ball]], [[Resistor (object)|Resistor]], [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1gU1nScJ_TtxuxIOj6RuSX_CxIdd-zhbM/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 3 (13 points)
-The perfect throw
-A basketball player, throwing from a standing position, throws a ball
-At a basketball hoop whose center is a horizontal distance of 5.0 m
-from the release point. The upper rim of the
-hoop is mounted at a height of 3.05 m and
-has a diameter of 45 cm. The circumference of the
-Ball is 76 cm and it is released from a height of
-2.10 m. The ball is thrown so that it
-Falls through the center of the hoop's rim, without touching the
-Rim or the backboard behind the hoop.
-State in which release directions and with which
-release speeds the basketball player may
-Throw the ball for such a shot.
-For the analysis, neglect air resistance
-And assume that the ball doesn't rotate. While the
-Ball falls through the hoop, its speed may
-be assumed to be approximately constant.
-Lead break mishap
-The lead of a mechanical pencil has broken into two pieces. If
-the two pieces of lead are connected in series in an electrical circuit,
-the total resistance is 56.0 $\Omega$, whereas
-The total resistance for a parallel connection of the two pieces
-is only 12.7 $\Omega$.
-From these data, determine both the total length of the lead and the
-The lengths of the individual pieces of lead.
-The lead has a diameter of 0.5 mm and is made of
-a material with a resistivity of 0,11 $\Omega$ mm.
-
-**Topic:** [[Newtonian Mechanics]], [[Circuits]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Resistor (object)|Resistor]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1gU1nScJ_TtxuxIOj6RuSX_CxIdd-zhbM/view)
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2012 — Quesito 4" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Ottica"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -810,239 +711,3 @@ Informazioni sui quattro round di selezione per il 43° IPhO 2012
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1gU1nScJ_TtxuxIOj6RuSX_CxIdd-zhbM/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 4 (15 points)
-The first is the 'Junior Problem' (10 points).
-New!
-Register now at
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-For the competition!
-Round 1
-When? From April 2011 onwards. Submission deadlines can be found on the IPhO website.
-Who? Anyone interested who in the
-2011/2012 school year attends a general education
-German school and what
-born after 30.06.1992.
-Where? The problems are solved as
-I'm going to do my homework. You hand in your work
-to your subject teacher for
-correction.
-How did you do that? Four problems to be solved
-From all areas of physics. The
-solutions may be written by hand or
-on a computer
-and should be comprehensible but not unnecessarily long.
-Textbooks may be used provided the sources are cited. Forms found in the standard
-textbooks need not be
-derived. Only
-Individual work is permitted. Anyone who in the
-The 2011/12 school year has not yet reached the
-second-to-last grade level
-can earn a points bonus with the junior problem.
-What can you win?
-All of them
-Participants
-receive
-a
-certificate of participation or an award certificate.
-Round two
-When? September to October 2011.
-Who? The problems are sent to
-All prize winners of the first round.
-Where? You solve the problems again at
-Home and send your work
-for correction, uncorrected, by 31 October
-2011 to your state coordinator. It 's later .
-reviewed again at the IPN.
-How did you do that? Theoretical and experimental physics problems are to be worked on. These are
-More demanding than in the first
-Round. Otherwise, the same rules apply as for the first round.
-What can you win?
-All participants receive an award certificate with an assessment sheet. The
-roughly 50 best are invited to the third
-Round.
-The state coordinators coordinate the running of the first two rounds in the individual federal states.
-They're your contact persons up to the third round.
-Round three
-When? 28 January to 03 February 2012.
-Who? The roughly 50 best of the second round.
-Where? The third round takes place as
-A one-week seminar at DLR Göttingen.
-How did you do that? The task now is to work on two theoretical
-and two
-experimental
-Exams without reference material. In the afternoons there are
-Problem seminars
-and
-Excursions.
-What can you win?
-In addition to a
-book voucher and a
-Subscription, all participants receive an award certificate with an assessment sheet. Young talents
-are offered the opportunity to
-take part in the European
-The European Union has also adopted a number of measures to combat the spread of the virus.
-science
-Team competition.
-Round four
-When? The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Who? The 15 best of the third round.
-Where? For the fourth round, the
-Participants are invited for a week to a
-The research centre.
-How did you do that? Here again theoretical and experimental exams are on the programme. To
-prepare for the IPhO,
-Problem seminars
-Are you a hero?
-These are specifically geared to typical IPhO problems.
-What can you win?
-The five most successful not only
-make up the Olympic team, but with this round they also go through the selection process
-The German National Academic Foundation (German National Academic Foundation) is a German research and development organisation.
-People). For the others there are, besides a cash prize of 500 euros,
-Language study trips and internships. In addition, the German Physical Society awards its student prize to the team members.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Student research centre
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-I'm not sure. 18
-88348 Bad Saulgau
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-Bavaria
-The Commission shall adopt the following measures:
-The school is located in the town of Werdenfels.
-The following is the list of the following:
-82467 Garmisch parish churches
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The European Union
-I 'm going to be a doctor . Ingo Wilken
-Secondary school
-The following is the list of the buildings and their contents: 184
-12351 Berlin
-The Commission has decided to extend the period of validity of the application.
-The Commission shall adopt implementing acts.
-The Commission has also adopted a proposal for a regulation on the
-Carl Friedrich-Gauß High School
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation. 52
-15234 Frankfurt/Oder
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The Commission shall adopt implementing acts.
-The Commission has also adopted a proposal for a Regulation (EC) No 1299/2008.
-Lloyd High School
-Grazer Street . 61
-27568 Bremerhaven
-The Commission has decided to take the necessary measures to ensure that the measures are implemented in accordance with Article 107 (1) TFEU.
-The Commission
-Detlef Kaack
-Institute for teacher training
-and school development
-The following is the list of the official languages of the Union:
-20357 Hamburg
-The Commission has decided to extend the period of validity of the aid.
-Hesse
-The Commission shall adopt the following measures:
-The Swiss School of Albert
-The student research centre in North Hesse
-Cologne Street 89
-34119 Kassel
-The Commission has decided to extend the period of validity of the application.
-Mecklenburg and the former Pomerania
-The Commission is not responsible for the implementation of this Regulation. Dr. Heidi, wood
-Institute of physics
-The University of Rostock
-University campus 3
-18051 Rostock
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The Netherlands
-The Commission has also adopted a proposal for a directive on the protection of workers' rights.
-Crossroads 39
-30171 Hanover
-and Prof. Dr. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The following is a list of the institutions of the European Union:
-Whaling gardens 1
-30167 Hanover
-The Commission has decided to extend the period of validity of the aid.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-LRSD Hans Beinghaus
-The district government of Arnsberg
-Seedlings
-The following is the list of the main routes:
-59821 Arnsberg
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-NRW Detmold
-The Commission has already adopted a proposal for a directive on the
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Local government Detmold
-Specialist advice physics
-Leopold Street 13 to 15
-32756 Detmold
-The Commission has also adopted a proposal for a regulation on the implementation of the common fisheries policy.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-Municipality of Düsseldorf
-At the Bonneshof 35
-40474 Dusseldorf
-The Commission has also adopted a proposal for a regulation on the management of the financial sector.
-Cologne, N.R.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The study seminar
-for teachers in schools in Bonn
-The first of these is the "Godsberger Allee"
-53175 Bonn
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The following is the list of the countries of the European Union:
-The Commission has also adopted a proposal for a directive on the protection of workers' rights.
-Reinhard Beer
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation. 9
-Harvested 48
-48147 samples
-The Commission has also adopted a number of proposals for the implementation of the programme.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Sickingen secondary school
-The following is the list of the buildings and their contents:
-66849 Land chair
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-Saarland
-Dr. I 'm not sure .
-Theodor Heuss High School
-The road to the sea
-66280 Sulzbach
-The Commission has also adopted a proposal for a regulation on the implementation of the common fisheries policy.
-The Commission
-The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
-The first is the German language.
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation. 15
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1224/2009.
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission has also adopted a proposal for a regulation on the
-Georg Cantor High School
-The road to the gate
-06110 Hall
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission has also adopted a proposal for a Regulation (EC) No 1299/2006.
-Werner Heisenberg High School
-The road to Rosetta 41
-25746 Heathen
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The following is the list of the Member States:
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-State study seminar for teacher training Outside Jena
-The philosophical path 26
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission has decided to extend the period of validity of the information provided.
-Addresses of the State Coordinators
-New!
-Starting this year, students
-and supervising teachers can
-Register online for the competition at www.ipho.info.
-Information on the four selection rounds for the 43rd IPhO 2012
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Snell's Law (metodo)|Snell's Law]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1gU1nScJ_TtxuxIOj6RuSX_CxIdd-zhbM/view)

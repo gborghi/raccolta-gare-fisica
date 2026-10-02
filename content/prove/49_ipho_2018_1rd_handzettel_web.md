@@ -15,7 +15,7 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2018 — Quesito 1" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -190,97 +190,11 @@ Intensità del segnale riflesso
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1wSo7yiIMbVg1Pm5bey5w4xocThRVXK1L/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following points are added:
-Ultrasound diagnostics
-In medicine, ultrasound waves are used for imaging by sending them into the body and analyzing the reflections that occur at the boundaries between different tissues. When a sound wave strikes such a boundary perpendicularly, a fraction of the sound intensity is reflected. The quantities $Z_1$ and $Z_2$ denote the acoustic impedances of the two types of tissue. To a good approximation, the acoustic impedance of a tissue can be calculated as the product of the speed of sound in it and its density.
-Information about the travel time of the reflected signal and its intensity thus allows conclusions to be drawn about the body region under examination. The table below lists the densities and speeds of sound of several media and typical body tissues.
-(a) Calculate the fraction of the incident sound intensity that is reflected at the transition from fatty tissue to muscle tissue, and explain why a water-based gel is usually applied to the skin before an ultrasound examination.
-Ultrasound waves are attenuated exponentially in body tissue, where to a good approximation the attenuation is proportional to the frequency of the ultrasound wave. In the right-hand column of the table you will find some typical attenuation constants. On the other hand, a higher frequency leads to better spatial resolution. Therefore, the maximum ultrasound frequency at which the detected signal is still not too weak for evaluation is usually chosen for the examination.
-(b) Consider a 10 cm thick layer of muscle tissue. Determine the maximum frequency an ultrasound wave may have if its intensity, after passing through the layer, is to be at least one thousandth of the initial value. Estimate the resolving power achievable with this, assuming that the resolution corresponds roughly to the wavelength of the ultrasound wave.
-Now you can try your first simple "ultrasound examination". The adjacent figure shows a body in water that is to be examined using ultrasound waves. To do this, the ultrasound probe is positioned at one of the points A to D and emits sound waves of frequency $3{,}5\ \text{MHz}$ in short pulses along the direction of the arrow.
-The graph shows the intensity profile of the reflected ultrasound pulse measured by the ultrasound probe.
-(c) Determine from which of the points A to D the examination was carried out, and justify whether the body is more likely made of fatty tissue or muscle tissue.
-Medium
-Tissue
-Density
-in $\text{g/cm}^3$
-Speed of sound
-in $\text{m/s}$
-Attenuation constant
-in $\text{m}^{-1}\,\text{MHz}^{-1}$
-Air
-0.0012
-340
-38
-Fat
-0.92
-1450
-11
-Water
-1.00
- 1480
-0.05
-Muscle
-1.07
-1580
-25
-Bone
-1.6
-4080
-200
-Register now at
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-for the
-Competition!
-0
-2
-4
-6
-8
-10 12 14 16
-mm
-A
-B
-C
-D
-Water
-Baby's foot as an ultrasound image.
-2
-4
-6
-8
-10
-12
-14
-16
-18
-20
-Time / $\mu\text{s}$
-Intensity of the reflected signal
-
-
-<!--fig:start-->
-![[_attachments/49_IPhO_2018_1Rd_Handzettel_web/49_IPhO_2018_1Rd_Handzettel_web_p2_f1.png]]
-*Body in water, points A B C D *
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/49_IPhO_2018_1Rd_Handzettel_web/49_IPhO_2018_1Rd_Handzettel_web_p2_f2.png]]
-The measurement of the intensity of the ultrasound is based on the measurement of the intensity of the ultrasound.
-<!--fig:end-->
-
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1wSo7yiIMbVg1Pm5bey5w4xocThRVXK1L/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2018 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/nucleus,object/atom"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -311,25 +225,11 @@ Supponiamo che solo $\alpha$ e $\beta$ decadi si verificino nella catena di deca
 **Objects:** [[Nucleus (object)|Nucleus]], [[Atom (object)|Atom]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1wSo7yiIMbVg1Pm5bey5w4xocThRVXK1L/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 2 (10 points)
-Decay chain
-A $^{238}_{92}\text{U}$ nucleus decays radioactively. The resulting nucleus is also radioactive and decays further.
-This decay chain continues until, at the end, a stable $^{206}_{82}\text{Pb}$ atom is produced.
-Assume that only $\alpha$ and $\beta$ decays occur in the decay chain, and determine by calculation how many $\alpha$ and how many $\beta$ decays must occur at a minimum in the decay chain.
-
-**Topic:** [[Nuclear & Particle Physics]]
-**Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Radioactive Decay Law (metodo)|Radioactive Decay Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Nucleus (object)|Nucleus]], [[Atom (object)|Atom]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1wSo7yiIMbVg1Pm5bey5w4xocThRVXK1L/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2018 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/block"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -370,30 +270,11 @@ Determine quando e a quale punto sul binario si è verificato il collasso delle 
 **Objects:** [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1wSo7yiIMbVg1Pm5bey5w4xocThRVXK1L/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 3 (10 points)
-Hidden collision
-Two boxes that can slide without friction on a horizontal rail collision. The adjacent superimposed photograph shows the positions of the two boxes at the times $0{,}1$ s, $0{,}3$ s, $0{,}5$ s and $0{,}7$ s. The boxes remain within the image area the whole time.
-Determine when and at what point on the rail the collision of the two boxes took place. Show that the solution is unique.
-
-
-<!--fig:start-->
-![[_attachments/49_IPhO_2018_1Rd_Handzettel_web/49_IPhO_2018_1Rd_Handzettel_web_p3_f3.png]]
-*Positions of boxes A and B on the rail*
-<!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1wSo7yiIMbVg1Pm5bey5w4xocThRVXK1L/view)
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2018 — Quesito 4" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/tank-container"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -540,74 +421,3 @@ Foto di stalla in vetro con scala
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1wSo7yiIMbVg1Pm5bey5w4xocThRVXK1L/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the problems:
-Shifted straw
-A straw is dipped into the middle of a glass partially filled with a transparent liquid. When you observe the glass from the side and move the straw perpendicular to the line of sight and along the diameter, the straw inside the liquid appears to be displaced relative to the straw above the liquid.
-The photo, fitted with a scale, shows the situation in which the part of the straw in the liquid appears to be just separating from the part above.
-The diameter of the thin-walled glass used here is $14{,}4$ cm. Assume that the glass is viewed from a distance that is large compared to the diameter of the glass.
-Determine approximately the refractive index of the liquid.
-The following is the list of the problems:
-Ice diet
-"What the hell are you doing?" Hanna asks her neighbor, who comes home with a whole carton of ice cream. "Starting today, I'm going on an ice cream diet", he replies. "I beg your pardon?"
-"Quite simple", Tom explains, and shows her the packaging. "The ice cream has an energy value of about 350 kJ per 100 g. But to warm up and melt the ice cream while eating it, my body has to expend much more energy. That way I can eat as much ice cream as I like and even lose weight in the process!"
-Can this really work? Hanna remains skeptical.
-Using suitable estimates, judge whether Tom's diet plan can succeed. Look up any additional numerical values you need in a book or on the internet.
-0
-10
-20
-30
-40
-50
-60
-70
-80 x/cm
-Box A
-Box B
-0
-1
-2
-3
-4
-5
-cm
-The European Commission has decided to extend the period of validity of the decision.
-Show your talent!
-Who is the IPhO aimed at?
-The following is a list of the activities:
-If you are a student, the IPhO and the PhysicsOlympic in Germany offer you many opportunities to engage intensively with physics problems, to experience physics as an exciting scientific discipline, to test your own limits and, not least, to meet interesting people.
-To prepare for the 3rd and 4th rounds, a problem-solving training is held in which you receive detailed tips on your work and can thus improve your problem-solving skills once again.
-Even if you don't make it that far, simply passing the first round is already a special achievement and a genuine distinction.
-So, be good!
-Teachers
-As a teacher, you can use the problems of the selection competition to offer a challenge to students who are especially capable or interested in physics, and encourage them towards a deeper engagement with physics topics. In this way the IPhO can serve as an instrument of individual support. The problems of the 1st round in particular are not only suitable for the best in an Abitur class. Rather, it turns out that early engagement with the competition problems is an important building block for later successful participation, and can also be a lot of fun along the way.
-So feel free to encourage your students to submit solutions to individual problems as well; for only those who do not participate can truly lose.
-Schools
-By encouraging participation in competitions, schools can sharpen their profile and use these, in the sense of enrichment, as a complement to school offerings. Competitions thus provide varied, differentiated learning environments for participating pupils. In the area of STEM subjects, the Olympiadsat least in the later roundsrepresent a competition aimed at especially motivated and high-performing young people. Nevertheless, participation in the entry rounds is not only worthwhile but can also contribute to a lasting motivation for STEM topics.
-In many federal states, participation can be recognized as a special learning achievement or as a subject/seminar paper for your pupils' graduation.
-Interested in more than physics?
-The IPhO is one of the six national science competitions for pupils organised by the IPNthe ScienceOlympics. In addition to the selection competitions for the international Olympiads in Biology (IBO), Chemistry (IChO) and Physics (IPhO), these include the International Junior Science Olympiad (IJSO), the European Science Olympiad (EUSO) as well as the Federal Environment Competition (BUW). Together they address pupils from the beginning of secondary school to after the end of their school years, and, through close networking, offer the possibility of lasting support for scientific abilities and interests.
-Further information about the ScienceOlympics can be found at www.scienceolympiaden.de.
-Dear pupils, dear parents, dear teachers,
-Those who enjoy solving mathematical problems, who have fun with physics, biology and chemistry, who are fascinated by technology, they are in exactly the right place at the ScienceOlympics of the Leibniz Institute. While solving exciting and challenging problems, young talents gain insights into scientific research. In the framework of the Federal Environment Competition, they also develop their own ideas and projects on environmental or sustainability topics.
-For many years, the Federal Ministry of Education and Research has been committed to helping children and young people discover the world of natural sciences and their possibilities. For science is not a fortress of facts, but a dynamic process, fed by curiosity and the joy of discovery. People with scientific knowledge can ask more precise questions, for example about climate change or genetic engineering. That's why we want to consciously awaken the fascination that emanates from science and research, and we support various youth competitions on STEM topics: math, computer science, natural sciences and technology. We want to encourage students to demonstrate their abilities beyond the subject lessons.
-
-My thanks go to the teachers and parents who inspire young people to learn the natural sciences and support them in projects and competitions. Germany needs young scientific talents who drive progress forward and help shape our future. I hope that many pupils will be seized by the desire to take part in the competitions, and I wish them all great success.
-The Commission is not responsible for the implementation of this Regulation. Dr. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Federal Minister for Education and Research
-Dear pupils, dear teachers, dear parents,
-The ScienceOlympics are a great opportunity to try out, foster and demonstrate scientific interest and talent even more intensively and independently than is often possible in lessons. Competitions like the ScienceOlympics support our pupils in unfolding and further developing their individual talents. They motivate them to extraordinary achievements. But they also convey that participation is worthwhile in itself, regardless of one's personal outcome. The Standing Conference of the Ministers of Education and Cultural Affairs therefore gladly recommends participation in the various competitions of the ScienceOlympics. Thousands of pupils already take part year after year.
-We need them, these young scientific talents. Young people should learn to deal responsibly with nature, the environment and technology. They should recognize the scientific dimension of our existence, and they should help solve humanity's problems like climate change, energy scarcity and the threat to natural living conditions. For this they need sound scientific knowledge and competencies. The ScienceOlympics make an important contribution to this
-
-
-<!--fig:start-->
-![[_attachments/49_IPhO_2018_1Rd_Handzettel_web/49_IPhO_2018_1Rd_Handzettel_web_p3_f4.png]]
-Photo of straw in glass with scale
-<!--fig:end-->
-
-**Topic:** [[Geometric Optics]], [[Thermodynamics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1wSo7yiIMbVg1Pm5bey5w4xocThRVXK1L/view)

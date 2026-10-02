@@ -15,7 +15,7 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2013 — Quesito 1" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/resistor,object/inductor,object/capacitor"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -108,56 +108,11 @@ Le varie branche in combinazione parallela possono essere considerate equivalent
 **Objects:** [[Resistor (object)|Resistor]], [[Inductor (object)|Inductor]], [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1oMNWrXTt1c_ABRz_XMJ7-ngVw5AYCNz9/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 1 is
-Black boxes
-The Commission's proposal for a directive on the protection of workers' rights
-You are to investigate the contents of three electrical black boxes (A,
-B and C), each with two terminals,
-circuits are all built from identical components,
-namely resistors with resistance $R$, inductors with inductance $L$ and capacitors with capacitance $C$. In boxes
-A and B exactly one of each component is installed,
-whereas in box C a total of four arbitrary elements are connected together.
-When the impedance is measured as a function of the
-angular frequency, the boxes show the following behavior:
-Box A - For an applied DC voltage and at very high angular frequencies the resistance is about $R_0$. At an angular frequency $\omega_0$, however, it rises without bound.
-Box B - Both at DC voltage and at very high angular frequencies this box has an
-arbitrarily high resistance1. At the angular frequency $\omega_0$, however, its resistance is $R_0$.
-Box C - The resistance value measured for box C is $R_0$, independent of the angular frequency of the
-the applied voltage.
-(a) Using the given information, state all possible, distinct circuit diagrams2
-For the three black boxes A, B and C. Justify the choice of your circuits. The Commission has not yet adopted a proposal.
-For some of the possible realizations of the three black boxes the given information is sufficient to determine the characteristic values of the components.
-(b) For these cases, express the quantities $R$, $L$ and $C$ in terms of $R_0$ and $\omega_0$. Determine whether the
-$R_0 = 100\ \Omega$ and $\omega_0 = 40{,}0\ \text{kHz}$, the respective values of $R$, $L$ and $C$. (iii) the number of employees
-If the boxes A and B used in part b) are connected in series, there are angular frequencies
-at which the resistance of this series combination is exactly $2 R_0$.
-(c) Determine these angular frequencies. (4.5 points)
-You may assume the components to be ideal and that the elements in all boxes are integrated into the
-the circuit, i.e. are neither short-circuited nor have open terminals.
-1Thus the impedance rises without bound in these cases.
-2Circuits that differ only by swapping the order of the elements in a series combination or the
-The arrangement of the individual branches in a parallel combination may be considered equivalent.
-44th IPhO 2013 - Problems of the 2nd Round
-
-
-<!--fig:start-->
-![[_attachments/44_IPhO_2013_2Rd_Aufgaben/44_IPhO_2013_2Rd_Aufgaben_p2_f1.png]]
-*circuit diagrams for the three black boxes*
-<!--fig:end-->
-
-**Topic:** [[Circuits]], [[Oscillations & Waves]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Inductor (object)|Inductor]], [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1oMNWrXTt1c_ABRz_XMJ7-ngVw5AYCNz9/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2013 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/tank-container,object/cylinder"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -280,71 +235,11 @@ a). (1,5 punti)
 **Objects:** [[Tank/Container (object)|Tank/Container]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1oMNWrXTt1c_ABRz_XMJ7-ngVw5AYCNz9/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 2
-Rotating liquids
-(Page 231)
-A thin-walled, cylindrical glass of height $H = 50\ \text{cm}$ and
-radius $R = 0{,}40\,H$ is, as sketched in the adjacent
-figure, filled up to a height $y_i = 0{,}40\,H$ with an
-The following is the list of the substances used in the preparation: If the glass is slowly rotated about its cylinder axis, the liquid also begins
-to rotate due to friction, and the liquid surface
-Deformed.
-Now the angular velocity $\omega$ of the rotation is to be slowly
-increased.
-(a) Derive an expression for the height $y$ of the liquid surface as a function of the distance $x$ from the rotation axis.
-Determine also at which angular velocity $\omega_\text{max}$ the glass begins to overflow. The Commission has not yet adopted a proposal.
-In the calculations you may assume a value of $g = 9{,}81\ \text{m s}^{-2}$ Fig. Sketch of the rotating glass.
-For the gravitational acceleration of the Earth and neglect effects due to surface tension.
-It becomes more interesting if one fills two liquids of different densities $\rho_1$ and $\rho_2 < \rho_1$ into the glass3
-And then sets it into rotation. Since the viscosities of the liquids can be quite different,
-The liquids take up the rotational motion of the glass at different rates
-and may have different rotation speeds. At www.ipho.info you will find,
-in the "tasks" (problems) section, a link to a video in which, for water and a type of oil,
-You can watch how the shapes of the surfaces change during the onset of rotation and
-during the slowdown.
-For the study of the surface shapes, assume for simplicity that each of the two liquids rotates with a fixed angular velocity $\omega_1$ and $\omega_2$ respectively, that the liquids are not subject to friction,
-and that the initial fill heights from the bottom of the glass are $y_{1i}$ and $y_{2i} > y_{1i}$ respectively.
-(b) Determine the shape of the two liquid surfaces, i.e. give $y_1(x)$ and $y_2(x)$
-as functions of the occurring parameters. Restrict yourself to the case in which the
-interface of the two liquids does not touch the surface of the upper liquid and neither
-of the liquid surfaces is in contact with the bottom. Furthermore, the glass should not overflow.
-(80 points)
-(c) Use the values $\rho_2 = 0{,}80\,\rho_1$, $y_{1i} = 0{,}40\,H$ as well as $y_{2i} = 0{,}70\,H$ to investigate the following cases:
-i. At the onset of rotation the upper liquid is already rotating with an angular velocity $\omega_2$, while the lower liquid, due to its lower viscosity, is still at
-The rest.
-Determine the maximum angular velocity $\tilde{\omega}_2$ with which the upper liquid
-can rotate before one of the restrictions set out in Part (b) is violated.
-Sketch the shapes of the liquid surfaces for this case. (b) the number of participants
-ii. After some time the lower liquid also rotates with the same angular velocity $\tilde{\omega}_2$.
-Determine the maximum vertical distance of the liquid surfaces for this case
-and likewise sketch the shapes of the liquid surfaces. (two points)
-3You may assume that the liquids are incompressible and do not mix.
-44th IPhO 2013 - Problems of the 2nd Round
-(iii) the following: During the slowing down, the upper liquid now first comes to rest, while the lower one
-keeps rotating for a while at approximately the angular velocity $\tilde{\omega}_2$ before it too is
-slowed down.
-Determine the maximum rise height of the lower liquid occurring during this process and compare the shape of the lower liquid surface with that from part
-a). (including the following)
-
-
-<!--fig:start-->
-![[_attachments/44_IPhO_2013_2Rd_Aufgaben/44_IPhO_2013_2Rd_Aufgaben_p3_f2.png]]
-*cylindrical glass with rotating liquid*
-<!--fig:end-->
-
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1oMNWrXTt1c_ABRz_XMJ7-ngVw5AYCNz9/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2013 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/droplet,object/sphere"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -515,95 +410,11 @@ state the sources used.
 **Objects:** [[Droplet (object)|Droplet]], [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1oMNWrXTt1c_ABRz_XMJ7-ngVw5AYCNz9/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 3
-Shot tower
-(c) the number of persons
-The production of lead pellets for shotgun ammunition was a very laborious process, until at the beginning of the 19th century the use of so-called shot towers for production prevailed,
-With which a large quantity of balls could be produced in a short time. The operating principle
-Of a shot tower is relatively simple. In the upper part of the tower lead is heated until it melts.
-The liquid lead is poured through a seven. While falling into the tower, spherical lead droplets form due to surface
-These cool down and solidify during the fall. At the lower
-The lead pellets are caught in a water basin. In this problem
-You are to estimate the fall height of a tower necessary to produce a certain type of lead shot.
-The cooling of the pellets during the fall can occur via convection, heat conduction or radiation.
-The heat flow $P_{K+W}$ of the pellets produced by convection and heat conduction can
-be modeled by the relation
-$$P_{K+W} = \alpha\,A\,(T - T_0) \,,$$
-where $A$ denotes the surface area of the pellets, $T$ gives the temperature of the pellets and $T_0$ is the
-the ambient temperature. The factor $\alpha$ is the so-called (mean) heat transfer coefficient,
-which, in contrast to the thermal conductivity $\lambda$, is not a material constant but depends on the prevailing
-conditions for the heat exchange. To characterize the heat transfer coefficient one can use the dimensionless kernel number $Nu$, which gives the ratio of the above
-heat flow to the mean heat-conduction power over a length $L$ for the same surface area and
-temperature difference. Thus
-$$Nu = \frac{P_{K+W}}{P_W} = \frac{\alpha\,A\,(T - T_0)}{\dfrac{\lambda\,A\,(T - T_0)}{L}} = \frac{\alpha\,L}{\lambda} \,.$$
-The length $L$ is a characteristic length of the given configuration. For the case of lead pellets in air this corresponds to the diameter $D$ of the pellets. The Nusselt number thus allows the
-comparison of heat transfer between mutually similar configurations. For many situations empirical formulas exist for calculating the Nusselt number. For the sphere with air flowing around it
-you may use the following experimentally determined relation:
-$$Nu = 0{,}37 \left( \frac{\rho_\text{Luft}\,v\,D}{\eta_\text{Luft}} \right)^{\tfrac{3}{5}} \,.$$
-Here $v$ denotes the velocity of the sphere relative to the air. $\rho_\text{Luft}$ and $\eta_\text{Luft}$ give the density
-and the dynamic viscosity of the air.
-For working on the problems use the following data: In the shot tower to be investigated,
-lead pellets with a diameter of $D = 4{,}0\ \text{mm}$ are to be produced. The
-Lead is initially heated to just above the melting temperature. You may assume that the
-Lead droplets immediately take on a spherical shape. The pellets falling into the water basin at the lower end of the drop tower should have a temperature just below the boiling temperature of water
-to avoid excessive vapor formation. The ambient temperature is constant and
-equal to $T_0 = 20\ ^\circ\text{C}$. Furthermore, there is no air flow present in the tower.
-44th IPhO 2013 - Problems of the 2nd Round
-(a) Show that the heat transport from the lead pellets to the surrounding area occurs mainly in the
-through convection. (seventh and sixth points)
-The fall of the pellets is slowed by air friction, so that after some time the velocity of the
-pellets approaches a constant terminal velocity $v_f$. Figure 2 gives
-the ratio, occurring for the pellets used, of the instantaneous fall velocity $v$
-with respect to the surrounding air to the terminal velocity, as a function of time.
-Fig. 2: Graph of the ratio of the instantaneous fall velocity $v$ of a lead pellet to the terminal velocity $v_f$ as a function of time.
-b) Estimate the minimum necessary fall height for the described shot tower and state
-After what approximate fall distance the pellets solidify. This isn 't about an
-The first is that the results are not exactly calculations but approximations of the results are sensible and as good as possible. State of the Union
-the approximations you've made. (A) the number of points
-To reduce the height of the drop tower, one can blow air into the tower from below.
-(c) Estimate what wind speed would have to be present in the drop tower to reduce the
-minimum necessary case distance by half. For this, assume that all the
-Air in the tower moves upward at a constant velocity. (seventh and final points)
-For the problem you may use the following data:
-Gravitational acceleration on Earth
-$g = 9{,}81\ \text{m s}^{-2}$
-Density of lead
-$\rho_\text{Pb} = 11\,340\ \text{kg m}^{-3}$
-Melting temperature of lead
-$T_\text{Pb} = 601\ \text{K}$
-Specific heat capacity of lead
-$c_\text{Pb} = 131\ \text{J kg}^{-1}\,\text{K}^{-1}$
-Specific heat of fusion of lead
-$\kappa_\text{Pb} = 23{,}4\ \text{kJ kg}^{-1}$
-Density of air
-$\rho_\text{Luft} = 1{,}29\ \text{kg m}^{-3}$
-Thermal conductivity of air
-$\lambda_\text{Luft} = 2{,}6 \cdot 10^{-2}\ \text{W m}^{-1}\,\text{K}^{-1}$
-Dynamic viscosity of air
-$\eta_\text{Luft} = 1{,}7 \cdot 10^{-5}\ \text{Pa s}$
-The values may be assumed to be constant. Should you need further data, please
-state the sources used.
-44th IPhO 2013 - Problems of the 2nd Round
-
-
-<!--fig:start-->
-![[_attachments/44_IPhO_2013_2Rd_Aufgaben/44_IPhO_2013_2Rd_Aufgaben_p5_f3.png]]
-*graph of v/vf as a function of time*
-<!--fig:end-->
-
-**Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Droplet (object)|Droplet]], [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1oMNWrXTt1c_ABRz_XMJ7-ngVw5AYCNz9/view)
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2013 — Quesito 4" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/cylinder"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -718,58 +529,3 @@ Descrivere le vostre considerazioni teoriche, le configurazioni sperimentali, la
 **Objects:** [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1oMNWrXTt1c_ABRz_XMJ7-ngVw5AYCNz9/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The problem is 4
-Experimental problem - Physics with jelly
-(A) the number of employees
-In the experimental problem you are to determine the density and the torsion modulus of jelly, which is also called gelatin dessert or "Wackelpeter".
-First obtain ready-made
-Jelly4. Alternatively, you can also prepare jelly powder or,
-as a substitute, gelatin according to the corresponding instructions on the packaging. The color of the jelly may be chosen freely.
-For the experiments you may furthermore use only the following materials:
-• Ruler (s)
-• Knives, scissors or similar (for cutting the jelly)
-• Container with water
-• Drinking straws
-• Toothpicks/matches
-• Modelling clay
-• Stopwatch
-• Writing materials
-It is not permitted to weigh masses directly with a scale.
-Fig. Three: A block of delicious jelly.
-(a) Using a suitable experimental setup, determine the density of the jelly or
-I'm not going to. You may assume that the density of water is $1000\ \text{kg m}^{-3}$. State of the Union
-the error of your result. (Article 17 of the Treaty)
-To twist a solid, elastic cylinder whose base is fixed,
-as sketched in the adjacent figure, by a small angle $\alpha$, a
-torque must act on the top of the cylinder, which can be expressed using the torsion modulus $G$ of the cylinder material and the notation in the figure
-as
-$$M = \frac{\pi\,G\,R^4\,\alpha}{2 L} \,. \quad (4.1)$$
-- **B.** Derive the expression (4.1). (four points)
-- **C.** Determine the torsion modulus of jelly experimentally. State the error of your result and name
-The main factors on which the result depends.
-If in part a) you did not obtain a result for the density
-of the jelly, you may, if necessary,
-use a density of $1000\ \text{kg m}^{-3}$ for the jelly as a substitute. (fourteen points)
-Fig. 4: Sketch of the twisted
-The cylinder.
-Describe your theoretical considerations, the experimental setups, the experimental procedure and the evaluation in such a way that they are easy to follow.
-- Good luck with that . -
-4You should pour any vanilla sauce that may be included only after the experiment.
-
-
-<!--fig:start-->
-![[_attachments/44_IPhO_2013_2Rd_Aufgaben/44_IPhO_2013_2Rd_Aufgaben_p6_f4.png]]
-*block of jelly (Gelatin) *
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/44_IPhO_2013_2Rd_Aufgaben/44_IPhO_2013_2Rd_Aufgaben_p6_f5.png]]
-*elastic cylinder twisted by angle alpha*
-<!--fig:end-->
-
-**Topic:** [[Elasticity & Materials]], [[Fluid Mechanics]]
-**Metodi:** [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1oMNWrXTt1c_ABRz_XMJ7-ngVw5AYCNz9/view)

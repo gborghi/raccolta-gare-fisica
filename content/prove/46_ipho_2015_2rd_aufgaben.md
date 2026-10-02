@@ -15,7 +15,7 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2015 — Quesito 1" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/cylinder,object/rod"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -128,66 +128,11 @@ E scopri cosa succede effettivamente dopo il rilascio al punto A. (5* pts.)
 **Objects:** [[Cylinder (object)|Cylinder]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1f1l9Og9w9vNzQsgcRFzp6ugbCWdalLnn/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 1 Up the Hill
-(25 + 5* pts.)
-Two homogeneous cones glued together at their bases,
-with base-circle radius R and opening angle $\alpha$, lie, as seen in the
-adjacent figure, on two thin rails
-that have an opening angle $\beta$. The plane spanned by the rails makes an angle $\gamma$ with the horizontal.
-A denotes the lowest point of the rails. The mass
-of the double cone is m.
-The center of mass of the double cone is initially located, with respect to the plane spanned by the two rails,
-vertically above point A. After being released, the double cone rolls by itself along the rails - that is, uphill. In doing so,
-The base of the cones is always centered between
-The rails. You may assume that the plane spanned by the connecting lines between the cone's center of mass and the contact points of the double cone with the rails
-is always perpendicular to the plane of the rails.
-A
-double cone
-$\beta$
-$\alpha$
-d
-2R
-railway
-Fig. 1: Double cone on rails
-(top view of the rail plane).
-1. (a) Explain physically how it is possible that, after being released at point A, the double cone
-Apparently rolls up. State which condition(s) the angles $\alpha$, $\beta$ and $\gamma$ must satisfy
-for this and justify your answer. (Page 86)
-1.b) Show that the moment of inertia I of the double cone for rotation about the axis through the
-Two cone tips is
-$$I = \frac{3}{10}\,m\,R^2$$
-(five points)
-1.c) Determine an expression for the velocity of the center of mass of the double cone as a
-function of the distance d rolled in the rail plane. (five points)
-1. (d) Calculate, for the values $\alpha = 50^\circ$, $\beta = 40^\circ$, $\gamma = 5{,}0^\circ$, $R = 10\ \text{cm}$ and $m = 100\ \text{g}$, the distance
-That the double cone rolls upward in total, as well as the maximum velocity reached in doing so.
-(Page 77)
-You can assume that the double cone rolls without slipping.
-Bonus problem: With the following part you can earn 5 bonus points.
-*1.e) The assumption that the plane spanned by the connecting lines between the cone's center of mass and the contact points of the double cone with the rails is always perpendicular to the
-plane of the rails is, strictly speaking, not correct. Investigate at which points
-The rails actually touch the double cone in the case described in the previous part
-and find out what actually happens upon release at point A. (5* pts.)
-
-
-<!--fig:start-->
-![[_attachments/46_IPhO_2015_2Rd_Aufgaben/46_IPhO_2015_2Rd_Aufgaben_p2_f1.png]]
-*double cone on rails, top view*
-<!--fig:end-->
-
-**Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1f1l9Og9w9vNzQsgcRFzp6ugbCWdalLnn/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2015 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/lens,object/tank-container"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -232,32 +177,11 @@ Come, all'interno del muro dell'acquario. (6 punti)
 **Objects:** [[Lens (object)|Lens]], [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1f1l9Og9w9vNzQsgcRFzp6ugbCWdalLnn/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 2 Lens at the Aquarium
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-In a large, water-filled, cuboidal aquarium there is a small luminous object. The flat side of a plano-convex lens with focal length f is glued from the outside onto a side wall
-of the aquarium such that the object is on the optical axis of the lens.
-The refractive index of water is 1.33, that of the lens material 1.50. Both the wall of the
-The lens and the aquarium can be considered very thin. You may furthermore
-Restrict yourself to considering rays close to the optical axis.
-2.a) Determine the location of possible images of the object on the optical axis as a function of the location of the object itself. In each case state whether it is a real
-or virtual, an upright or inverted, and an enlarged or reduced image. (Page 11)
-2.b) Calculate what values the image distance and the magnification take when the object distance equals 2.5 times the focal length f. (Page 3 of this report)
-2.c) Carry out the consideration from part 2.b) for the case that the lens is glued, in an analogue
-way, to the inside of the aquarium wall. (Page 66)
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Lens (object)|Lens]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1f1l9Og9w9vNzQsgcRFzp6ugbCWdalLnn/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2015 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/heat-engine,object/tank-container"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -330,46 +254,11 @@ $-18{,}0\ ^\circ\text{C}$. (cfr.
 **Objects:** [[Heat Engine (object)|Heat Engine]], [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1f1l9Og9w9vNzQsgcRFzp6ugbCWdalLnn/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 3 Heating with a chest freezer
-(c) the number of persons
-Peter, Paul and Petra are on vacation in a small log cabin. On their arrival at the cabin
-It's quite cold. Fortunately, they can quickly heat the interior to a comfortable
-temperature with the stove. They wonder what they would have done if the stove hadn't been there.
-Then they notice the chest freezer in the cabin . . .
-Take the thought of the three vacationers further and imagine the following situation:
-A solitary, well-insulated log cabin is located in a region where the sun does not shine
-and the outside temperature is constant at $5{,}0\ ^\circ\text{C}$. The cabin is empty except for a full chest freezer
-whose interior is kept at a constant temperature of $-18{,}0\ ^\circ\text{C}$. By means of the chest freezer
-the cabin is "heated" to a temperature of $6{,}5\ ^\circ\text{C}$. Assume that the chest freezer works like
-It's an ideal heat pump.
-When the freezer is taken outside and switched off, its contents slowly warm up. A
-quarter of an hour after switching off, the temperature of the contents is still $-12{,}4\ ^\circ\text{C}$, half an
-hour after switching off $-8{,}1\ ^\circ\text{C}$. Assume for simplicity that the temperature of the
-The content is the same everywhere and that the heat capacity of the full freezer is about $80\ \text{kJ K}^{-1}$.
-3. (a) Determine what temperature would approximately be established in the cabin after a longer time
-if a second, identical chest freezer were operated in the cabin simultaneously with the first.
-The internal temperatures of the chest freezers should remain constant at $-18{,}0\ ^\circ\text{C}$.
-(Page 13)
-3. (b) Calculate approximately, for both cases, the electrical power
-taken up by the chest freezer or freezers. (Page 77)
-3.c) Estimate what maximum cabin temperature can be established after a longer time
-If a larger chest freezer is used that works the same way as those considered so far,
-that is similarly well insulated and that likewise has a constant internal temperature of
-$-18{,}0\ ^\circ\text{C}$. (five points)
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Heat Engine (object)|Heat Engine]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1f1l9Og9w9vNzQsgcRFzp6ugbCWdalLnn/view)
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2015 — Quesito 4" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/bubble,object/pipe-tube,object/rope-string,object/wire"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -482,57 +371,3 @@ sono facili da seguire.
 **Objects:** [[Bubble (object)|Bubble]], [[Pipe/Tube (object)|Pipe/Tube]], [[Rope/String (object)|Rope/String]], [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1f1l9Og9w9vNzQsgcRFzp6ugbCWdalLnn/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following problems are identified:
-(Page 30 of the report)
-(Ideas: Axel Boeltzig)
-In this problem you are to determine the surface tension of a soap bubble solution in three different
-The way. The surface tension $\sigma$ is defined via the work $\Delta W$ that must be applied
-to increase a surface of the liquid by $\Delta A$. Thus $\sigma = \dfrac{\Delta W}{\Delta A}$.
-A simple soap bubble solution can be made from water, dishwashing liquid and sugar in the mass ratio 8:1:1.
-You may also use another soap bubble solution. In any case,
-state the recipe you used.
-In addition to the soap-bubble solution, you may use the following materials for experimenting:
-a kitchen scale, a stopwatch, a chain, a ruler, a rod, thread, wire, drinking straws and
-Other typical household items.
-Soap bubbles
-With a drinking straw previously dipped into the soap bubble solution, soap bubbles can easily be produced. On a moist surface, hemispherical soap bubbles form.
-If one pierces such a bubble with a straw, the air flows out. The outflow of air is
-described to a good approximation by the law of Hagen-Poiseuille, according to which the volume flow $\dot{V}$,
-i.e. The gas volume flowing out per unit time is given by
-$$\dot{V} = \frac{\pi \cdot r^4}{8 \cdot \eta} \cdot \frac{\Delta p}{\ell}.$$
-Here r and $\ell$ denote the radius and the length of the straw respectively, $\Delta p$ the pressure difference between the straw and the straw.
-its ends and $\eta$ the viscosity of air, which at $20\ ^\circ\text{C}$ has a value of $\eta = 18{,}2 \cdot 10^{-6}\ \text{Pa s}$.
-You can assume an uncertainty of 1% for the value of the viscosity. The viscosity increases with
-temperature by about 0.27% per $^\circ\text{C}$.
-4. (a) Show that the time for completely releasing the air from a soap bubble is proportional to the
-Fourth power of its initial radius. In this way, we can determine experimentally
-The surface tension of the soap bubble solution. (Page 11)
-Catenary
-If the ends of a chain are held fixed, a catenary forms as a
-The result of gravity. If the
-chain encloses a soap surface, this shape changes
-due to the influence of surface tension.
-Under certain conditions the chain forms a triangular shape, as sketched in the adjacent figure.
-4.b) Using this configuration, experimentally determine the surface tension of the soap bubble solution. (Page 86)
-Note: If the chain you use is too light
-to determine its mass accurately with the kitchen scale,
-you may also determine it with a laboratory balance, e.g. at
-school.
-Fig. 2: Sketch of a hanging chain without (solid) and with enclosed soap film (dashed).
-Force measurement
-Following its definition, the surface tension can also be determined by investigating a force.
-4.c) Determine the surface tension of the soap bubble solution as directly as possible with a suitable experimental setup. (Page 9 of the report)
-Comparison and discussion
-4.d) Compare the results and uncertainties obtained in the three experiments for the
-surface tension of the soap bubble solution. (c) the number of persons who are not members of the
-General notes
-In all parts, describe your theoretical preliminary considerations and applied approximations, the experimental setups used, the experimental procedure and the evaluation in such a way that
-They're easy to follow.
-
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Bubble (object)|Bubble]], [[Pipe/Tube (object)|Pipe/Tube]], [[Rope/String (object)|Rope/String]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1f1l9Og9w9vNzQsgcRFzp6ugbCWdalLnn/view)

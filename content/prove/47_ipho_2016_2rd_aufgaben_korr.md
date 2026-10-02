@@ -15,7 +15,7 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2016 — Quesito 1" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/magnet,object/electron"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -216,110 +216,11 @@ separatamente gli uni dagli altri. (11 pag.)
 **Objects:** [[Magnet (object)|Magnet]], [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Gn8ncSEVyFGCg5XLird4SOMgfC6UWhsg/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 1 Accelerated particles
-(including the following:
-Particle accelerators are used in physics, but also in other fields, for a wide variety of purposes. In addition
-They also find application, for example, in medicine. In this problem,
-Two types of particle accelerators are to be studied.
-1.1 Cyclotron
-The idea of the cyclotron originated with the American physicist Ernest O. Lawrence, who was awarded the
-Nobel Prize in Physics for it in 1939. Until the 1950s, this type of particle accelerator was "the most
-"the most powerful atomic smasher in the world".
-A cyclotron consists of two hollow,
-semicircular electrodes in a homogeneous magnetic field of flux density $B$, oriented perpendicular to the electrodes. Between the electrodes there is a very narrow gap across which
-a high-frequency voltage of the form
-$U(t) = U_0 \sin(\omega t)$
-is applied. Here $U_0$ denotes the following:
-The
-amplitude and $\omega$ the angular frequency of the
-- What? Time is denoted by $t$.
-Charged particles are introduced into the centre of the
-The arrangement. The frequency of the
-The voltage is set so that the particles are
-Accelerated every time they crossed the gap.
-As a result they move
-approximately along a spiral path
-Outwards, until after many revolutions
-They reach the edge of the arrangement, where
-They leave the cyclotron (cf. Fig. 1).
-Magnetic
-Magnetic
-$\vec{B}$
-U
-Figure 1: Not-to-scale sketch of a cyclotron. The vacuum chamber enclosing the electrodes
-is not shown.
-In the following, consider a cyclotron such as the one developed by E.O. Lawrence in Berkeley at the end
-of the 1930s. The cyclotron's electrodes had a radius of $R = 0{,}76\ \text{m}$ and the magnetic flux density, which can be assumed constant over the entire cyclotron cross-section, which is $B = 0{,}71\ \text{T}$. In the cyclotron, protons with a charge $e = 1{,}602\cdot10^{-19}\ \text{As}$
-and a mass $m = 1{,}673\cdot10^{-27}\ \text{kg}$ were accelerated. The amplitude of the high-frequency voltage what
-$U_0 = 87\ \text{kV}$. Neglect relativistic effects in your treatment.
-1.a) Derive an expression for the angular frequency $\omega$ needed to accelerate the protons
-And give the value of the angular frequency. (Page 3 of this report)
-1. (b) Determine the kinetic energy as well as the speed of the protons as they leave the
-The Commission has also taken a number of measures to ensure that the Commission is able to take account of the impact of the new measures on the environment.
-(Page 3 of this report)
-1.c) Calculate the minimum number of revolutions a proton makes in the cyclotron before
-It exits, and also the time it spends inside the cyclotron. (Page 3 of this report)
-If, instead of protons, electrons with a mass of $m_e = 9{,}109\cdot10^{-31}\ \text{kg}$ are accelerated,
-One reaches regimes in which relativistic effects play a role much more quickly.
-1. (d) Consider electrons that have been accelerated to the kinetic energy determined in problem 1. (b)
-And show that their speed is very close to the speed of light.
-(Page 3 of this report)
-At these very high speeds the relativistic mass increase of the electrons must be taken into account, which leads to the speed of the electrons in the cyclotron no longer
-increasing by the required amount on each revolution to be
-Accelerated again on the next revolution. One way to circumvent this is to let the magnetic field grow stronger
-towards the outside at a fixed high-voltage frequency.
-1. (e) Derive an expression for the dependence of the magnetic flux density needed for this
-on the distance $r$ from the centre of the cyclotron. (c) the number of persons who are not members of the
-1.2 Betatron
-The betatron is in a sense a further development of the cyclotron, in which the acceleration
-The particles are not subject to applied high voltage but to the temporal variation of the magnetic field. The motion in such a field is to be studied in the following.
-Consider an electron moving in a cylindrically symmetrical magnetic field. The magnitude $B = |\vec{B}|$ of the
-magnetic flux density therefore depends only on the time $t$, the
-$z$ coordinate and the distance $r$ from the $z$ axis, but not
-on the angle $\theta$ (cf. Fig. 2). In the plane with $z = 0$, let
-The magnetic field is oriented in the $z$ direction. In this plane electrons therefore move on a circular orbit. The radius of the
-circular orbit for the electron under consideration is denoted by $R$
-In the sketch.
-To accelerate the electron on this circular orbit, the
-The magnetic flux density is varied. Let $\Delta\vec{B}$ denotes the change of the magnetic flux density over a small time interval
-$\Delta t$. Through the temporal change of the magnetic field the
-electron can be accelerated on this circular orbit to very large energies.
-To simplify the calculations you may
-So work non-relativistically here.
-z
-R
-$\theta$
-$\vec{B}$
-Figure 2: Sketch of the course
-of the magnetic field lines in the betatron with
-the electron circular orbit at $z = 0$.
-1.f) Derive a relation between the change $\Delta B$ of the magnitude of the magnetic flux density $B$ on the circular orbit, i.e. at $z = 0$ and $r = R$, and the change $\Delta\Phi$ of the magnetic
-The flow through the area enclosed by the circular orbit, which is necessary so that the
-electron stays on the circular orbit while being accelerated. (five points)
-Assume that the $z$ component of the magnetic field near the circular orbit can be written in the
-form
-$$B_z(\vec{r}) = B_0 \left(\frac{R}{r}\right)^n$$
-with a constant $n \in \mathbb{R}$. Here $B_0$ denotes the magnetic flux density on the
-The orbit is circular. The $z$ component of the flux density in this case therefore depends only on the distance from the
-$z$-axis.
-1. (g) Determine for which values of $n$ the circular orbit is stable under both small radial and small radial
-The following is a list of the types of electrical equipment used in the manufacture of electrical equipment: Assume that the speed of the
-The electron does not change under the orbit perturbation and that the perturbations can be studied
-separately from each other. (Page 11)
-
-**Topic:** [[Magnetism]], [[Electromagnetism]], [[Special Relativity]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Magnet (object)|Magnet]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Gn8ncSEVyFGCg5XLird4SOMgfC6UWhsg/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2016 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/disk,object/cylinder"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -432,66 +333,11 @@ Il problema è che la Commissione ha deciso di non dare il massimo di informazio
 **Objects:** [[Disk (object)|Disk]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1Gn8ncSEVyFGCg5XLird4SOMgfC6UWhsg/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 2 Floating disc
-(Page 30 of the report)
-(Ideas: Fabian Bühler)
-Most people have probably seen at some point an ornamental fountain in which a stone sphere rests on a thin
-The film of water. Thanks to the water cushion, the
-Usually a tonne-heavy sphere in such a fountain
-Can even be turned by hand.
-In this problem you are to use a somewhat simpler
-arrangement to investigate how it comes about that a stone body slides on a film of water. To this end, consider, as
-sketched in Figure 4, a cylindrical granite disc
-with a radius $R$ and a thickness $D$ above a stone
-Base. From below, water flows at a rate $Q$ into
-the gap between the disc and the base, so that
-The disc rests on a film of water. Restrict
-You're not going to be able to get yourself to consider a non-rotating disc.
-Figure 3: Sphere fountain in Breisach.
-The base covers the lateral surface in the angular range $-\vartheta_\text{max} \leq \vartheta \leq \vartheta_\text{max}$ and is shaped so that
-The gap has the same width everywhere. In the gap the water flows with varying flow velocity $u$. Along a cross-section running in the radial direction, the flow velocity depends on the distance $x$ from the lateral surface of the disc (cf. the right part of Fig. 4). Directly
-At the disc ($x = 0$) and at the base ($x = h$) the flow velocity is in each case equal to
-- It's zero. The gap is very narrow, so the gap width $h$ is much smaller than $R$.
-R
-$\vartheta_\text{max}$
-D
-Q
-h
-x
-u(x)
-Figure 4: Sketch of the water-borne disc on the base (left) and an enlarged detail
-of the water-filled gap (right). The gap width is exaggerated for clarity.
-For the following considerations, assume that the water in the gap moves only tangentially to the lateral surface, i.e. as indicated in Figure 4, neither in the radial direction nor along the
-cylinder axis. The water pressure $p$ in the gap depends on the angle $\vartheta$. You may assume, however, that
-The water pressure in the gap is constant in the radial direction, i.e. at a fixed angle $\vartheta$, and that the
-The hydrostatic pressure of the water can be neglected.
-2. (a) Determine an expression for the velocity profile $u(x)$ in the gap as a function of
-the gap width $h$, the rate $Q$ at which water flows into the gap, and the thickness $D$ of the disc.
-Sketch the shape of the velocity profile. (Page 14)
-2.b) Derive an expression for the water pressure $p(\vartheta)$ in the gap as a function of the given
-The water pressure of the water and the water pressure of the water are measured in terms of quantities, the dynamic viscosity $\eta$ of the water and the ambient pressure $p_0$. The Commission has also adopted a proposal for a directive on the protection of workers' rights.
-Now consider in the following a granite disc with a radius $R = 50\ \text{cm}$ and a thickness
-$D = 30\ \text{cm}$, which is covered by the water gap up to an angle $\vartheta_\text{max} = 35^\circ$. The density of
-granite is $\rho_\text{Granit} = 2{,}75\cdot10^3\ \text{kg}\ \text{m}^{-3}$ and for the viscosity of water you may take the value $\eta = 1{,}0\cdot10^{-3}\ \text{Pa s}$. The rate at which water flows into the gap is $Q = 3{,}0\cdot10^{-4}\ \text{m}^3\ \text{s}^{-1}$.
-2.c) Using the given values, calculate the gap width $h$ as well as the overpressure $p(0) - p_0$ at the
-water inlet point. (Page 77)
-2. (d) Using your results, justify that the pressure difference in the radial direction and the pressure difference in the radial direction
-The gravitational pressure of the water are indeed very small compared to the overpressure at the
-The Commission has already made a number of proposals to the Council. (five points)
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1Gn8ncSEVyFGCg5XLird4SOMgfC6UWhsg/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2016 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/slit,object/screen"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -580,45 +426,3 @@ Nota generale sul problema sperimentale
 **Objects:** [[Slit (object)|Slit]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Gn8ncSEVyFGCg5XLird4SOMgfC6UWhsg/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 3 Experimental problem - interference experiments
-(c) the number of persons who are not members of the
-In this problem everything revolves around the interference of light waves. You are first to determine the wavelength
-of the light emitted by a laser pointer and subsequently the thickness of hairs.
-In addition to the IPhO ruler sent out with these problems, you may use the following materials for
-experimenting: a laser pointer, ruler(s), a tape measure and other typical household
-the items. If you don't own a laser pointer, you can surely borrow one at school.
-- What? Under no circumstances look into the laser beam
-And don't point it at other people either!
-3.1 Determining the wavelength of the laser pointer
-Let the light of the laser pointer fall at a shallow angle onto the millimetre scale of the IPhO
-I'm not going to be a ruler. If you set up the arrangement skillfully, you can observe on a wall onto which the light
-The following is a list of the types of interference patterns with alternating bright and dark regions.
-3. (a) Explain how this interference pattern comes about and derive an expression that
-relates the wavelength $\lambda$ of the light emitted by the laser to the diffraction orders observable in the interference pattern
-as well as to other measurable or known quantities. (Page 77)
-3.b) Using the ruler and the derived relation, experimentally determine the
-wavelength of the laser light used. Compare the determined wavelength either
-with the wavelength specified by the manufacturer or with the value to be
-expected from the color of the light. (Page 14)
-You may assume that the spacing of the mm markings on the ruler is $1{,}00\ \text{mm}$.
-3.2 Determining the thickness of hairs
-Persuade friends and acquaintances to provide you with a few of their head hairs for the following experiment1. Let the light of the laser pointer fall on a slightly taut hair. On
-A screen or wall standing some distance away you can now again observe an interference pattern. This time, however, it looks a little different. Since you now know the wavelength
-of the laser light, you can deduce the thickness of the hair used from the interference pattern.
-3.c) Explain how the interference pattern comes about in this case and now derive an
-expression that relates the wavelength $\lambda$ of the light emitted by the laser to the diffraction orders
-The measurement of the interference pattern, the thickness of the hair, as well as other measurable quantities. (five points)
-3.d) Using the derived relation, experimentally determine the thickness of at least three different human hairs. (Page 14)
-General notes on the experimental problem
-• Describe and document your procedure in sufficient detail that every step is easy to follow. In particular, sketch your experimental setups.
-• Perform all your experiments so that the results are as accurate as possible.
-• In addition, estimate the errors of all results sensibly.
-1It may help if you point out that it is for a scientific purpose.
-
-**Topic:** [[Wave Optics]], [[Oscillations & Waves]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Slit (object)|Slit]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Gn8ncSEVyFGCg5XLird4SOMgfC6UWhsg/view)

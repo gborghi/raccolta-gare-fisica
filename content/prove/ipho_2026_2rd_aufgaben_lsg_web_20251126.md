@@ -15,7 +15,7 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2026 — Quesito 1" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Fisica Moderna"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -170,87 +170,11 @@ Stating the correct solution
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 1 Coastal mapping (multiple choice problem)
-(5.0 p.p.)
-(Problem group of the PhysicsOlympic - Stefan Petersen)
-Using lasers mounted on aircraft, coastal waters can be
-mapped. To do this, short laser pulses are emitted into
-The water is reflected diffusely partly at the water surface and partly at the seabed. As a result, part of the emitted light returns to the aircraft, where it is detected and evaluated.
-Consider an aircraft flying at constant altitude along
-A coastal strip. The following graph shows the signal strength of the reflected signal of a laser pulse as a function
-of time. The time origin is chosen so that the
-entire reflected signal is shown. Assume that the laser pulse strikes the water surface at an angle of incidence (measured from the normal) of $40^\circ$
-And that the refractive index of the water is 1.33.
-Fig. 1. Illustration of
-mapping with a laser
-(image source GEUS)
-Time in ns
-Signal strength in arbitrary units
-Fig. 2. Signal strength as a function of time (the point $t = 0$ is arbitrary).
-How deep is the water at the location investigated?
-A
-2.7 m
-B
-3.1 m
-C
-4.1 m
-D
-6.1 m
-The solution
-Calculations and explanations
-The time difference $\Delta t \approx 60$ ns $- 29$ ns = 31 ns between the
-Two maxima in the signal strength curve corresponds to the time
-The light ray needs to travel in the water from the water surface to the seabed and back.
-The angle $\beta$ of the light ray in the water (measured from the normal) is, according to
-Snell's law of refraction, given by (cf. Fig. 3)
-$$\beta = \arcsin\left(\frac{1}{n}\sin\alpha\right) = 28{,}9^\circ,$$
-(1.1)
-where $\alpha = 40{,}0^\circ$ is the angle of incidence of the light ray.
-$d$
-$\alpha$
-$\beta$
-Water
-Bottom
-Fig. 3. Sketch of the ray path.
-The distance travelled by the light in the water during the time $\Delta t$ is $\frac{c\,\Delta t}{n}$, where $n = 1{,}33$ denotes the
-refractive index of water. From this, the water depth $d$ follows by projection
-$$d = \frac{c\,\Delta t}{2 n \cos\beta} = \frac{c\,\Delta t}{2 n \cos\left(\arcsin\left(\frac{1}{n}\sin\alpha\right)\right)} \approx 3{,}1 \text{ m} .$$
-(1.2)
-Correct answer: B
-Note: Answer option A results if the refraction at the water surface is not
-taken into account, answer option C without the lengthening of the optical path in the water,
-and answer option D if the factor 2 for the outward and return path of the light ray is not
-considered.
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009.
-Points
-Recognizing that the time difference of the maxima is decisive and reading off the
-value from the graph
-1.0
-Using the law of refraction and determining the refraction angle (1.1)
-1.0
-Taking into account the lengthening of the optical path
-0.5
-Taking into account the factor 2 for the light path
-0.5
-Setting up an expression for the water depth with projection (1.2)
-1.0
-Stating the correct solution
-1.0
-5.0
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2026 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Fisica Moderna,object/rope-string,object/pulley"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -425,97 +349,11 @@ Stating the correct solution
 **Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the following problems:
-(5.0 p.p.)
-(Problem group of the PhysicsOlympic - Titus Bornträger)
-Professor Atwood has just returned from a conference and is already
-tinkering with his next experiment: he lays a string over a pulley
-and attaches to each end of the string a body of mass $m$.
-Assume that the string and the pulley are massless and that the pulley
-can rotate freely around its central axis. He now holds the pulley's axis
-fixed and measures the force $F$ with which he must pull it upward in order
-To hold the pulley with the bodies in its position.
-Now, as shown in the figure, he hangs an additional body of mass $4m$
-on the right mass piece. He 's holding the axis again .
-I'm not going to lie.
-What is the force $F'$ with which, in the situation shown, he must pull on the
-Axis in order to hold it in its position?
-A
-$\frac{5}{3} F$
-B
-$2 F$
-C
-$\frac{5}{2} F$
-D
-$3 F$
-String
-Pulley
-$F'$
-$m$
-$m$
-$4m$
-The solution
-Calculations and explanations
-In the first case the weights of the bodies on both sides of the pulley are identical. The weight of the body on one side is transmitted by the string tension to the body on
-The other side of the pulley, so that no resultant force acts on either body
-And they're not accelerated.
-The force $F$ is therefore given as the sum of the weights of the two bodies, that is by
-$$F = 2 m g .$$
-(2.1)
-In the second experiment sketched, a resultant force acts on the bodies, since the total mass on the two sides of the pulley is different. The total accelerating force
-on the bodies corresponds to the difference of the weights of the bodies on the two sides, that is $4 m g$.
-All bodies are accelerated, however, so that the accelerated mass corresponds to the sum of the masses of all
-bodies, that is $6 m$. Thus the magnitude of the acceleration is given by
-$$a = \frac{4 m g}{6 m} = \frac{2}{3} g .$$
-(2.2)
-The force $F'$ with which the pulley must be held at the axis can be determined by
-finding the tension in the string on the left or right side of the pulley and taking it
-times two$^a$. Thus
-$$F' = 2 \cdot m (g + a) = \frac{10}{3} m g = \frac{5}{3} F$$
-or
-$$F' = 2 \cdot 5 m (g - a) = \frac{10}{3} m g = \frac{5}{3} F .$$
-(2.3)
-Correct answer: A
-Note: The solution can also be obtained by other means. For example, one can consider the
-time rate of change $\dot{p}$ of the total momentum of the three bodies, which is produced by the sum
-of the weights and the force $F'$ on the pulley's axis. One must pay attention here
-The first is the orientation of forces and accelerations. It holds that
-$$F' - (2 + 4) m g = \dot{p} = m a - (1 + 4) m a .$$
-(2.4)
-With the acceleration (2.2) this also yields
-$$F' = m (6 g - 4 a) = \left(6 - \frac{8}{3}\right) m g = \frac{10}{3} m g = \frac{5}{3} F .$$
-(2.5)
-$^a$The factor 2 arises because the tension in the string must be identical on both sides of the pulley; otherwise
-The string would tear apart or no longer be taut.
-Grading - Atwood machine (multiple choice problem)
-Points
-Determining the force $F$ in the first experiment (2.1)
-0.5
-Recognizing that the accelerating mass and the accelerated mass are different
-1.0
-Determining the acceleration (2.2)
-1.0
-Determining the tension in the string ((2.3) without the factor 2)
-1.0
-Taking into account the factor 2
-0.5
-Stating the correct solution
-1.0
-5.0
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2026 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Fisica Moderna,object/tank-container,object/gas"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -644,74 +482,11 @@ Corretta risposta
 **Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 3 Diving cup (multiple choice problem)
-(5.0 p.p.)
-(Problem group of the PhysicsOlympiad - Eugen Dizer & Arne Wolf)
-A cup of mass $m = 200$ g with a filling volume $V_0 = 250$ mL and a height $H$ is
-turned upside down and submerged in a large water tank at constant water temperature. As a result,
-A layer of air is trapped and pushes the cup upward. The density of water is
-$\rho = 1{,}0 \cdot 10^3 \text{ kg/m}^3$. Assume that the cup has a cylindrical cross section and that the thickness
-of the wall and of the cup bottom can be neglected. Furthermore, assume that
-The cup always stays upside down and doesn't tip to the side.
-At what depths can the cup float in equilibrium?
-Here "depth" means the difference in the heights of the water levels in the cup and in the tank.
-A
-$\frac{1}{5} H$ and 2.6 m
-B
-$\frac{1}{5} H$ and 12.9 m
-C
-$\frac{4}{5} H$ and 2.6 m
-D
-$\frac{4}{5} H$ and 12.9 m
-The solution
-Calculations and explanations
-The cup floats in equilibrium when the mass of the displaced water equals the mass of the cup.
-The first equilibrium case occurs upon immersion. The cup floats when it is immersed exactly far
-enough that it displaces $200$ g $= \rho \cdot 200$ mL $= \frac{4}{5} \rho V_0$ of water, that is at the depth
-$$h = \frac{4}{5} H .$$
-(3.1)
-Here it is assumed that the water does not enter the cup for small immersion depths.
-To push the cup deeper into the water, work must be done against the buoyant force.
-The layer of air in the cup is thus compressed by the water pressure. The second equilibrium case
-occurs at greater depth, when exactly 200 ml of air remain in the cup. Using
-The hydrostatic pressure $p = \rho g h$ at depth $h$ and the ideal gas law $p V = n R T$, it follows that
-$$p_0 V_0 = (p_0 + \rho g h) V = \frac{4}{5} (p_0 + \rho g h) V_0 .$$
-(3.2)
-Here $p_0 \approx 1{,}01 \cdot 10^5 \text{ N/m}^2$ denotes the atmospheric pressure. Rearranging gives
-$$h = \frac{p_0}{4 \rho g} \approx 2{,}6 \text{ m}$$
-(3.3)
-Correct answer: C
-Note: If one uses $\rho g h$ instead of $\rho g h + p_0$ for the pressure, one obtains instead
-$h \approx 12{,}9$ m.
-Grading - Diving cup (multiple choice problem)
-Points
-Considering the booyant force
-1.0
-Deriving the first equilibrium case
-1.0
-Using the hydrostatic pressure $p = \rho g h$
-0.5
-Using the gas equation $p V = $ const.
-0.5
-Deriving the second equilibrium case
-1.0
-Correct answer
-1.0
-5.0
-
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2026 — Quesito 4" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Fisica Moderna,object/capacitor,object/battery"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -840,74 +615,11 @@ Stating the correct solution
 **Objects:** [[Capacitor (object)|Capacitor]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The problem is that the power supply is not a single unit.
-(5.0 p.p.)
-(Problem group of the PhysicsOlympiad - Fabian Bühler)
-Two capacitors with capacitances $C_1 = 2{,}0$ nF and $C_2 = 8{,}0$ nF are, as shown in the following
-Figure, connected in series to a voltage source with voltage $U_0 = 10{,}0$ V:
-$U_0$
-$C_2$
-$C_1$
-The capacitors are then disconnected from the voltage source, and one of the capacitors is rotated by $180^\circ$. Now the capacitors are short-circuited:
-$C_2$
-$C_1$
-$C_2$
-$C_1$
-What voltage results across the flipped capacitor?
-A
-0 V
-B
-1.6 V
-C
-3.2 V
-D
-5.0 V
-The solution
-Calculations and explanations
-The total capacitance of the capacitors connected in series is
-$$C_\text{Reihe} = \frac{1}{\frac{1}{C_1} + \frac{1}{C_2}} = 1{,}6 \text{ nF} .$$
-(4.1)
-For the charge of the capacitors it holds that
-$$Q_1 = Q_2 = C_\text{Reihe} \cdot U_0 = 16 \text{ nC} .$$
-(4.2)
-The short-circuited capacitors are equivalent to a parallel connection of the two capacitors with capacitance
-$$C_\text{Parallel} = C_1 + C_2 = 10 \text{ nF} .$$
-(4.3)
-Because one of the capacitors was rotated by $180^\circ$, the total charge of the capacitors
-equals the sum of the individual charges
-$$Q_\text{Parallel} = Q_1 + Q_2 = 32 \text{ nC} .$$
-(4.4)
-The voltage across both capacitors is the same, namely
-$$U = \frac{Q_\text{Parallel}}{C_\text{Parallel}} = \frac{2 C_\text{Reihe} U_0}{C_\text{Parallel}} = 2 U_0 \frac{C_1 C_2}{(C_1 + C_2)^2} = \frac{32}{10} \text{ V} = 3{,}2 \text{ V} .$$
-(4.5)
-Correct answer: C
-Grading - Flipped capacitor (multiple choice problem)
-Points
-Calculating the total capacitance of the capacitors in series
-1.0
-Calculating the original charge of the capacitors
-1.0
-Recognizing that the flipping is equivalent to a parallel connection
-1.0
-Calculating the total capacitance of the capacitors in parallel
-1.0
-Stating the correct solution
-1.0
-5.0
-
-**Topic:** [[Electrostatics]], [[Circuits]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2026 — Quesito 5" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Fisica Moderna,object/pendulum,object/rope-string"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -1046,79 +758,11 @@ Stating the correct solution
 **Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the problems to be solved:
-(5.0 p.p.)
-(Problem group of the PhysicsOlympiad by Johannes Rothe)
-A string pendulum is, as sketched alongside, suspended from two
-Strings that converge in a V shape. The height
-of the V is equal to the length $l$ of the string pendulum below it. The size of the pendulum bob and the masses of the strings
-The Commission's proposal is not yet available.
-The pendulum bob is now slightly displaced from its rest position and released. If one records the motion of the
-pendulum bob in the horizontal plane,
-The result is beautiful patterns.
-Which of the following patterns could have been produced with the pendulum above?
-$l$
-$l$
-Fig. 4. Sketch of the pendulum setup.
-A
-B
-C
-D
-Fig. 5. Candidates for traces of the pendulum bob in the horizontal plane.
-The solution
-Calculations and explanations
-The V is rigid in the plane of the drawing but can be deflected perpendicular to it. Therefore, in these two planes
-pendulums of different pendulum lengths result - $l$ in the plane of the drawing and $2l$
-perpendicular to it.
-The harmonic oscillations resulting at small deflections therefore have different periods. For a string pendulum at small deflections, $T$ is proportional to the
-square root of the length of the string, and thus the periods of the pendulum are in the ratio
-$1 : \sqrt{2}$.
-Since this ratio is irrational, the trajectories seen in the patterns are never closed. The answer options A and D are thus ruled out, since they are
-Show closed trajectories.
-From the turning points in the patterns it can also be concluded that the patterns shown are oriented
-So that's the plane of the drawing in the sketch in Fig. 4 runs either vertically (in B and D) or horizontally
-(in A and C).
-To distinguish the remaining options B and C, one can count half oscillation periods.
-For this one chooses a starting point with maximum deflection in one of the two directions, that is with a horizontal or vertical tangent in the respective figure.
-If one now counts three of the faster half-oscillations, that is in the figure vertical oscillations in B or horizontal ones in C, then in case B one sees slightly more than two half-oscillations in
-The other direction, but in case C slightly less.
-Denote by $T_1$ the period of the pendulum motion in the plane of the drawing of the sketch and by
-$T_2 > T_1$ that of the pendulum motion perpendicular to it. Then, with the observation above, it holds for the
-ratio of the respective periods
-$$\left.\frac{T_2}{T_1}\right|_B < \frac{3}{2} < \left.\frac{T_2}{T_1}\right|_C .$$
-(5.1)
-Since $\frac{T_2}{T_1} = \sqrt{2} \approx 1{,}41 < 1{,}5$, only option B remains as a possible answer.
-Correct answer: B
-Note: Answer option A results for the ratio $T_1 : T_2 = 1 : 2$, answer option C
-for the ratio $T_1 : T_2 = 1 : \sqrt{3}$, and answer option D for the ratio $T_1 : T_2 = 2 : 3$.
-The orientation of the figure in the horizontal plane is not identical across the patterns.
-Grading - Lissajous pendulum (multiple choice problem)
-Points
-Recognising harmonic oscillations of different frequencies
-1.0
-Using $T \sim \sqrt{L}$ and stating the correct period ratio $1 : \sqrt{2}$
-1.0
-Ruling out the closed trajectories in A and D
-1.0
-Counting oscillations to distinguish B and C
-1.0
-Stating the correct solution
-1.0
-5.0
-
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="IPhO 2026 — Quesito 6" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Fisica Moderna,object/heat-engine,object/tank-container"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -1255,78 +899,11 @@ Corretta risposta
 **Objects:** [[Heat Engine (object)|Heat Engine]], [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the types of water freezing (multiple choice problem)
-(5.0 p.p.)
-(Problem group of the PhysicsOlympic - Stefan Petersen)
-With a heat pump of electrical power 50 W, 2.0 kg of water at a temperature
-of $0\ ^\circ\text{C}$ is to be frozen in a thermally perfectly insulated vessel. The outside temperature is
-$25\ ^\circ\text{C}$. The enthalpy of fusion of water is $334 \text{ kJ/kg}$.
-What minimum time is needed for the freezing in any case?
-A
-about 6 min
-B
-about 11 min
-C
-about 15 minutes
-D
-about 20 minutes
-The solution
-Calculations and explanations
-In the freezing of the water, the heat
-$$Q = 334 \text{ kJ/kg} \cdot 2{,}0 \text{ kg} = 6{,}7 \cdot 10^5 \text{ J}$$
-(6.1)
-is released. This heat must be removed by the heat pump. The heat pump
-operates between two reservoirs at the temperatures $T_k = 0\ ^\circ\text{C} = 273$ K and $T_w = 25\ ^\circ\text{C} = 298$ K. The efficiency $\varepsilon$ of a refrigerator operating between these two reservoirs is
-The thermodynamically limited. Denote by $W$ the work done by the heat pump, which at
-The constant power equals the product of the electrical power $P$ and the time $t$ for which the
-pump runs. Then for the efficiency it holds that
-$$\varepsilon = \frac{Q}{W} = \frac{Q}{Q_\text{ab} - Q} ,$$
-(6.2)
-where $Q_\text{ab}$ denotes the heat given off to the surroundings at temperature $T_w$. If the
-refrigerator operates reversibly, that is theoretically optimally, the entropy is conserved and it holds
-for the heat absorbed and released that
-$$\frac{Q}{T_k} = \frac{Q_\text{ab}}{T_w} .$$
-(6.3)
-Substituted into (6.2), this gives the maximum possible efficiency$^a$ as
-$$\varepsilon_\text{max} = \frac{Q}{Q \left(\frac{T_w}{T_k} - 1\right)} = \frac{T_k}{T_w - T_k} .$$
-(6.4)
-From this the minimum time $t_\text{min}$ for the freezing can be estimated as
-$$t_\text{min} = \frac{Q}{P} \frac{1}{\varepsilon_\text{max}} = \frac{Q}{P} \frac{T_w - T_k}{T_k} \approx \frac{6{,}7 \cdot 10^5 \text{ J}}{50 \text{ W}} \frac{25}{273} \approx 1{,}2 \cdot 10^3 \text{ s} \approx 20 \text{ min} .$$
-(6.5)
-Correct answer: D
-$^a$This can also be expressed through the Carnot efficiency $\eta_C = 1 - T_k/T_w$ at the two temperatures as
-$\varepsilon_\text{max} = 1/\eta_C - 1$.
-Grading - freezing water (multiple choice problem)
-Points
-Determining the heat (6.1)
-1.0
-Recognizing that efficiency is limited
-0.5
-Using the conservation of entropy or the Carnot efficiency
-0.5
-Stating the maximum efficiency (6.4)
-1.0
-Using that work is the product of power and time
-0.5
-Deriving a formula for the time (6.5)
-0.5
-Correct answer
-1.0
-5.0
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Heat Engine (object)|Heat Engine]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="IPhO 2026 — Quesito 7" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Fisica Moderna"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -1453,73 +1030,11 @@ Quindi è facile da seguire, ma non è troppo lungo. Quindi se usi, per esempio,
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The problem is that the number of cells in the cell is less than the number of cells in the cell.
-(five points)
-(Problem group of the PhysicsOlympic - Thomas Hellerl)
-A kaon moving with velocity $0{,}80\,c$, that is 80 percent of the speed of light, in the laboratory frame decays into two pions, which afterwards move along and against, respectively, the kaon's original direction of motion. No further particles are produced in the decay. For the
-rest energies $E_{0,K}$ and $E_{0,\pi}$ of the kaon and the pion, respectively, the relation
-$$\kappa = \frac{E_{0,K}}{E_{0,\pi}} = 3{,}68 .$$
-Hold on a second.
-At what speeds do the two pions move after the decay in the laboratory frame?
-A $-0{,}039\,c$ and $0{,}99\,c$
-B $-0{,}12\,c$ and $0{,}98\,c$
-C $-0{,}19\,c$ and $0{,}92\,c$
-D $-0{,}21\,c$ and $0{,}89\,c$
-The solution
-Calculations and explanations
-In the rest frame of the kaon the momentum is zero. After the decay the pions must therefore, due to
-The conservation of momentum, have opposite but equal magnitude moments. Hence
-Their energies are also identical, so in this frame the kaon's initial rest energy $E_{0,K}$
-is divided symmetrically between the two pions. It therefore holds that
-$$E_{0,K} = 2 E_\pi = 2 \gamma E_{0,\pi} = \frac{2}{\sqrt{1 - \frac{u^2}{c^2}}} E_{0,\pi} ,$$
-(7.1)
-where $\gamma = \left(1 - \frac{u^2}{c^2}\right)^{-1/2}$ denotes the Lorentz factor and $u$ the velocity of the pions in that frame.
-With the given value of $E_{0,K}/E_{0,\pi} = \kappa$, the velocity $u$ can be determined from this.
-It is
-$$\kappa = \frac{2}{\sqrt{1 - \frac{u^2}{c^2}}} \qquad \text{and thus} \qquad u = \sqrt{1 - \frac{4}{\kappa^2}}\, c \approx 0{,}839\,c ,$$
-(7.2)
-The velocities $v_{1,2}$ of the two pions in the laboratory frame are obtained by relativistic
-The velocity addition. Let $w = 0{,}80\,c$ be the velocity of the kaon in the laboratory frame. Then
-$$v_{1,2} = \frac{w \pm u}{1 \pm \frac{w u}{c^2}} .$$
-(7.3)
-The forward-moving pion thus has the velocity:
-$$v_1 = \frac{0{,}80 + 0{,}839}{1 + 0{,}80 \cdot 0{,}839}\, c \approx 0{,}98\,c .$$
-(7.4)
-The pion moving in the opposite direction has the velocity
-$$v_2 = \frac{0{,}80 - 0{,}839}{1 - 0{,}80 \cdot 0{,}839}\, c \approx -0{,}12\,c .$$
-(7.5)
-Correct answer: B
-Grading - Kaon decay (multiple choice problem)
-Points
-Working in a suitable inertial frame (e.g. the rest frame of the kaon)
-1.0
-Using conservation of momentum and energy (7.1)
-1.0
-Determining the pion velocities in that frame (7.2)
-1.0
-Using relativistic velocity addition (7.3)
-1.0
-Stating the correct solution
-1.0
-5.0
-Long problems
-Work the following two problems equally in the boxes provided for them. Unlike the
-Multiple-choice problems, no answer options are given. Describe your solution
-So that it's easy to follow but not unnecessarily long. So if you use, for example, the law of conservation of energy, write this down briefly.
-
-**Topic:** [[Special Relativity]], [[Nuclear & Particle Physics]]
-**Metodi:** [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="IPhO 2026 — Quesito 8" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Fisica Moderna,object/rod,object/battery,object/switch,object/wire"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -1800,150 +1315,11 @@ Carrying out a units check (8.13)
 **Objects:** [[Rod (object)|Rod]], [[Battery (object)|Battery]], [[Switch (object)|Switch]], [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 8 Pencil lead
-The Commission has also adopted a proposal for a directive on the protection of workers' rights.
-(Problem group of the PhysicsOlympiad - Joachim Brucherseifer and Pascal Reeck)
-A pencil lead slides without friction in a vertical homogeneous magnetic field of magnetic flux density
-$B$ down two parallel, ideally conducting metal rails inclined at an angle $\alpha = 30^\circ$ to the horizontal. The spacing of the rails is $L = 10$ cm and the overhang
-Of the lead beyond the metal rails can be neglected. The ideal
-voltage source of voltage $U_0 = 10$ mV with a switch is connected to the rails. Lead, rails,
-switch and voltage source together form an electrical circuit. The setup is sketched in Figure 6.
-Fig. 6. Sketch of the sliding pencil lead
-When the switch is closed, the pencil lead stays at rest. When the switch is opened, the
-Lead slides on. Use for the resistivity of the lead the value $\rho_\text{el} = 5{,}0 \cdot 10^{-6} \ \Omega\text{m}$ and for the density $\rho = 2{,}3 \cdot 10^3 \text{ kg/m}^3$.
-8. (a) State whether the front rail or the rear rail in the figure is connected to the positive terminal of the DC voltage source, and justify this physically. (b) the number of persons who are not members of the
-8.b) Determine the magnitude $B$ of the magnetic flux density and check the correctness of the
-units of your result with a unit check. (8.0 pts.)
-8.c) Determine the velocity $v_H$ that becomes established, with which the pencil lead slides
-down the slope, when the flux density of the magnetic field is halved. Carry out a units check for
-The result. (7.0 pts)
-The solution
-8.a)
-Calculations and explanations
-When the lead comes to rest with the switch closed, only the external voltage source acts; its current produces a Lorentz force that is equal in magnitude and opposite to the down-slope component of the weight. According to the right-hand rule, this is only possible if the
-The positive terminal is connected to the front rail.
-Fig. 7. Sketch explaining the current direction and the polarity of the voltage source.
-8.b)
-Calculations and explanations
-On the lead at rest on the rails act the vertical weight $\vec{F}_G$ and the
-horizontal Lorentz force $\vec{F}_L$. The sum of these forces must be perpendicular to the rails,
-So that lead doesn't slide along the rails.
-The figure alongside illustrates the
-Addition of the forces. For the magnitudes of the forces it accordingly holds that:
-$$\frac{F_L}{F_G} = \tan 30^\circ = \frac{1}{\sqrt{3}} .$$
-(8.1)
-The Lorentz force is given by
-$$\vec{F}_L = L \cdot \vec{I} \times \vec{B} .$$
-(8.2)
-Since current and flux density are perpendicular to each other
-Other, the scalar form also holds
-$$F_L = L I B .$$
-(8.3)
-Fig. 8. Sketch of the force decomposition.
-With the lead at rest, the current is determined exclusively by the voltage source and the resistance of the lead. The current $I$ follows from Ohm's law and the resistance
-$R$ from the resistance law as
-$$I = \frac{U_0}{R} = \frac{U_0}{\rho_\text{el} \frac{L}{A}} ,$$
-(8.4)
-where $A$ denotes the cross-sectional area of the pencil lead. Substituting into equation (8.3)
-For the Lorentz force gives
-$$F_L = \frac{L U_0}{R} B = \frac{U_0 A}{\rho_\text{el}} B .$$
-(8.5)
-For the weight, the cylindrical geometry of the lead gives
-$$F_G = \rho L A g .$$
-(8.6)
-Substituting (8.5) and (8.6) into the force ratio (8.1) gives
-$$\frac{\frac{U_0 A}{\rho_\text{el}} B}{\rho L A g} = \frac{1}{\sqrt{3}}$$
-and thus
-$$B = \frac{\rho L g \rho_\text{el}}{\sqrt{3}\, U_0} .$$
-(8.7)
-The flux density sought is thus independent of the conductor cross section and has the value
-$$B = \frac{2{,}3 \cdot 10^3 \text{ kg/m}^3 \cdot 0{,}10 \text{ m} \cdot 9{,}81 \text{ m/s}^2 \cdot 5{,}0 \cdot 10^{-6}\ \Omega\text{m}}{\sqrt{3} \cdot 0{,}01 \text{ V}} \approx 0{,}65 \text{ T} .$$
-(8.8)
-The following check shows that the units are correct:
-$$[B] = \frac{\text{kg/m}^3 \cdot \text{m} \cdot \text{m/s}^2 \cdot \text{V/A}\ \text{m}}{\text{V}} .$$
-(8.9)
-8.c)
-Calculations and explanations
-At half the flux density the Lorentz force is no longer sufficient to compensate the down-slope component of the weight.
-Now a conductor moves across the magnetic field, where a
-voltage is induced in it that, according to Lenz's rule, opposes the cause of the induction, that is the
-The motion. Accordingly, a current must be induced that reinforces the current produced by the
-The voltage source. The lead reaches a limiting velocity at which the forces are once again in equilibrium.
-The following figure sketches the motion of the electrons in the downward sliding
-Lead, seen from above
-Fig. 9. Sketch of the induction in the lead, illustrating the direction by the left-hand rule.
-The charge separation thus caused yields of induced voltage $U_i$ on the rails,
-which is connected in series with the external voltage $U_0$. The total voltage across the
-Lead is thus
-$$U = U_0 + L \cos(\alpha) v_H \frac{B}{2} .$$
-(8.10)
-The resulting induced current reinforces the existing field current. For the
-Lorentz force, in this situation, it now holds with (8.5)
-$$F'_L = \frac{U A}{\rho_\text{el}} \frac{B}{2} = \left(U_0 + L \cos(\alpha) v_H \frac{B}{2}\right) \frac{A B}{2 \rho_\text{el}} .$$
-(8.11)
-The contribution of the first term corresponds, because of $B/2$ instead of $B$, exactly to half of the
-force necessary to hold the lead according to (8.5). In the case where the lead no longer experiences any acceleration along the rails, the contribution of the second term
-The second part of the force needed for force balance and
-So be exactly as large.
-From $U_0 = L \cos(\alpha) v_H \frac{B}{2}$ it follows for the slope velocity of the lead that becomes established
-$$v_H = \frac{2 U_0}{L \cos(\alpha) B} = \frac{2 \cdot 0{,}01 \text{ V}}{0{,}10 \text{ m} \cos(30^\circ)\, 0{,}65 \text{ T}} \approx 0{,}36 \text{ m/s} .$$
-(8.12)
-The following check shows that the units are correct:
-$$[v_H] = \frac{\text{V}}{\text{m kg A}^{-1} \text{s}^{-2}} = \frac{\text{V A s}^2}{\text{kg m}} = \frac{\text{kg m}^2\, \text{s}^{-1}}{\text{kg m}} = \text{m s}^{-1} .$$
-(8.13)
-Here it was used that $1 \text{ V A s} = 1 \text{ J} = 1 \text{ kg m}^2\, \text{s}^{-2}$.
-Grading - Pencil lead
-Points
-8.a)
-Stating the correct polarity
-1.0
-Justifying the polarity with the direction of the Lorentz force
-1.0
-8.b)
-Stating the relevant forces with direction (also implicitly)
-1.0
-Recognising the force equilibrium and stating the force ratio (8.1)
-1.0
-Expressing the Lorentz force through given quantities and $B$ (8.5)
-2.0
-Expressing the weight through given quantities (8.6)
-1.0
-Deriving an expression for the flux density $B$ (8.7)
-1.0
-Calculating the value of the flux density (8.8)
-1.0
-Carrying out a unit check (8.9)
-1.0
-8.c)
-Recognizing that a voltage is induced that opposes the cause
-1.0
-Recognizing that a terminal velocity becomes established
-1.0
-Stating an expression for the induced voltage as in (8.10)
-1.0
-Recognising that the induced voltage must equal $U_0$
-1.0
-Deriving an expression for the velocity $v_H$ (8.12)
-1.0
-Calculating the value of the velocity in (8.12)
-1.0
-Carrying out a unit check (8.13)
-1.0
-17.0
-
-**Topic:** [[Electromagnetic Induction]], [[Magnetism]], [[Newtonian Mechanics]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]], [[Battery (object)|Battery]], [[Switch (object)|Switch]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="IPhO 2026 — Quesito 9" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Fisica Moderna,object/satellite,object/planet,object/star"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -2230,144 +1606,3 @@ $$a_G(r) = -\frac{G M_S}{(50 \text{ AE})^2}$$
 **Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]], [[Star (object)|Star]]
 **Fonte:** [Testo (PDF) — p.18](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 9 Swing-by maneuver and the Pioneer anomaly
-The Commission has also adopted a proposal for a directive on the protection of workers' rights.
-(Idea: Bastian Hacker)
-The space probe Pioneer 10 was launched in 1972 to explore the outer solar system and the Earth.
-What was to be one of the first spacecraft to leave the solar system for good. By now it 's located
-about 140 astronomical units from the Sun.
-After launch, Pioneer 10 left Earth's gravitational field with a velocity of $v_0 = 9{,}4 \text{ km/s}$ relative to the Earth and tangential to its orbit. From there the probe flew
-Towards Jupiter to carry out a swing-by maneuver that was to
-Make leaving the solar system possible.
-In the following, consider all processes within the ecliptic and assume that the planets orbit the
-Sun on circular orbits in the same sense of rotation. In addition, the following values may be
-used for the work:
-Radius of the Earth's orbit (astronomical unit)
-$1 \text{ AE} = 149{,}6 \cdot 10^6 \text{ km}$
-Radius of Jupiter's orbit
-$r_J = 5{,}2 \text{ AE}$
-Solar mass
-$M_S = 1{,}99 \cdot 10^{30} \text{ kg}$
-Solar constant (power of solar radiation at Earth's orbit)
-$E_0 = 1367 \text{ W/m}^2$
-9. (a) Determine the orbital velocity $v_2$ with which the probe arrived at the orbit of the planet
-Jupiter is here. Assume here that only the gravitational force of the
-Sun acts on the probe. Determine the velocity components $v_{2,\phi}$ tangential and $v_{2,r}$ perpendicular to
-Jupiter's orbit is in motion. (6.0 pts)
-With the help of a flight maneuver through Jupiter's gravitational field, the space probe was able to increase its velocity relative to the Sun considerably. Assume that this swing-by maneuver was
-The probe can leave the solar system with the highest possible velocity. You may further assume that the time during which Pioneer 10 interacts gravitationally with Jupiter
-The average time of the manoeuvre is small compared to the orbital period and that during the manoeuvre the
-The gravitational force between probe and Jupiter is dominant.
-9.b) Determine the radial velocity $v_r(r)$ and in particular the limiting velocity $v_r(\infty)$
-of the probe after the swing-by manoeuvre as a function of the distance $r$ from the Sun. (6.0 pts)
-After the probe had, in 1980 at 20 AE, moved far enough away from the Sun to
-predicts the influence of various forces accurately enough, to inexplicable,
-tiny component discovered in its acceleration. This so-called pioneer anomaly has
-The Commission has already taken a number of steps to improve the quality of life of the people of the Member States.
-The strongest force on the probe, whose mass may be taken to be 241 kg, is, after
-gravity, caused by the radiation pressure of the solar radiation. The parabolic antenna,
-which has a diameter of $d = 2{,}77 \text{ m}$ and at larger distances points approximately towards
-The Sun, absorbs 20 percent of the sunlight and reflects the rest back toward the Sun.
-9.c) Determine approximately the acceleration resulting from the radiation pressure of the Sun
-for the probe at a distance $r \gg 1$ AE from the Sun. State how large the contribution
-The Commission's proposal for a regulation on the use of the energy efficiency of the Community's energy sector in 1990 for $r = 50$ AE, and compare it with the acceleration due to
-gravity in the gravitational field of the Sun. (6.0 pts)
-The observed, unexplained acceleration was indeed of a similar order of magnitude, but pointed
-towards the sun. Therefore further effects were also investigated, such as the solar wind, the influence of other
-Celestial bodies, the recoil from the radio module, and above all non-isotropic thermal
-The Commission has also proposed that the Commission should be able to take into account the
-explanation for the pioneer anomaly.
-The solution
-9.a)
-Calculations and explanations
-The gravitational potential in the Sun's gravitational field at a distance $r$ from the Sun
-is
-$$\phi(r) = -G \frac{M_S}{r} ,$$
-(9.1)
-where $G$ denotes the gravitational constant and $M_S$ the solar mass. For circular
-planetary orbits, the gravitational force is equal to the centripetal force, i.e. It holds that
-$$F_G = m \frac{G M_S}{r^2} = m \frac{v^2}{r} = F_Z ,$$
-or
-$$v^2 = \frac{G M_S}{r} = -\phi(r) .$$
-(9.2)
-This corresponds to the virial theorem, according to which for this case $E_\text{kin} = -\frac{1}{2} E_\text{pot}$ holds. For the orbital velocity $v_E$ of the Earth it therefore holds, with $r = r_E = 1$ AE:
-$$v_E^2 = -\phi(r_E) = \frac{G M_S}{1 \text{ AE}} \approx \left(29{,}8 \text{ km/s}\right)^2 .$$
-(9.3)
-The velocity $v_0$ given in the problem statement denotes the velocity that
-The probe has relative to the Earth when it is still geometrically close to the Earth, but the influence
-The gravity of the Earth is already negligible. The probe therefore leaves Earth's orbit with
-the velocity$^a$
-$$v_1 = v_0 + v_E \approx 9{,}4 \text{ km/s} + 29{,}8 \text{ km/s} = 39{,}2 \text{ km/s}$$
-(9.4)
-and arrives at the Jupiter orbit (orbital radius $r_J = 5{,}2\, r_E$) with the velocity $v_2$. For
-This is followed by conservation of energy
-$$E_\text{kin} + E_\text{pot} = \frac{1}{2} m v^2(r) + m \phi(r) = \text{const.}$$
-or
-$$\frac{1}{2} v_1^2 - \frac{G M_S}{r_E} = \frac{1}{2} v_2^2 - \frac{G M_S}{r_J} .$$
-(9.5)
-Thus
-$$v_2 = \sqrt{v_1^2 + 2 \phi(r_E) \cdot (1 - 1/5{,}2)} \approx 10{,}1 \text{ km/s} .$$
-(9.6)
-For the investigation of the swing-by manoeuvre, the radial component $v_{2,r}$ and the tangential
-components $v_{2,\phi}$ of this velocity relative to the Sun are needed. The conservation of angular momentum $v_\phi r = \text{const.}$ gives
-$$v_{2,\phi} = v_1/5{,}2 \approx 7{,}5 \text{ km/s}$$
-and hence
-$$v_{2,r} = \sqrt{v_2^2 - v_{2,\phi}^2} \approx 6{,}7 \text{ km/s} .$$
-(9.7)
-$^a$If the probe had been launched against the orbital velocity of the Earth, the difference would have to be
-considered here. But since the probe would not have reached Jupiter then, this case is not relevant.
-9.b)
-Calculations and explanations
-Jupiter itself moves with an orbital velocity $v_J$ in the tangential direction, for which,
-with equation (9.2), it holds that:
-$$v_J^2 = -\phi(r_J) \approx (13{,}1 \text{ km/s})^2 .$$
-(9.8)
-Consider the swing-by maneuver in the rest frame of Jupiter. There the potential is static,
-So the magnitude of the probe's velocity is identical before and after
-The manoeuvre due to energy conservation. It therefore holds that
-$$\sqrt{v_{2,r}^2 + (v_{2,\phi} - v_J)^2} = \sqrt{v_{3,r}^2 + (v_{3,\phi} - v_J)^2} ,$$
-(9.9)
-where $v_3$ denotes the velocity in the Sun-fixed frame after the swing-by maneuver, and it was used that Jupiter has the same sense of orbital motion around the Sun as the Earth.
-The left hand side is already known and the magnitude of $v_3$ is to be maximized. But the
-magnitude of a sum of two vectors of given length is maximal exactly
-When the vectors are aligned parallel. Therefore the exit velocity $v_3$ is, in the
-The ideal case, again tangential to the orbit and $v_{3,r} = 0$. Equation (9.9) then gives:
-$$v_3 = v_{3,\phi} = v_J + \sqrt{v_{2,r}^2 + (v_{2,\phi} - v_J)^2} \approx 21{,}8 \text{ km/s} .$$
-(9.10)
-The subsequent orbital velocity follows once again from conservation of energy:
-$$v(r) = \sqrt{v_3^2 + 2(\phi(r_J) - \phi(r))} = \sqrt{v_3^2 + 2\phi(r_J)(1 - r_J/r)} .$$
-(9.11)
-The radial velocity can again be derived from conservation of angular momentum and is
-$$v_r(r) = \sqrt{v_3^2 + 2 \phi(r_J)(1 - r_J/r)}\, \sqrt{1 - (r_J/r)^2} \approx \sqrt{(21{,}8 \text{ km/s})^2 - 2 (13{,}1 \text{ km/s})^2 (1 - 5{,}2 \text{ AE}/r)}\, \sqrt{1 - (5{,}2 \text{ AE}/r)^2} .$$
-(9.12)
-In particular, the limiting velocity of the probe follows from equation (9.12) as
-$$v_r(\infty) = \sqrt{v_3^2 + 2 \phi(r_J)} \approx \sqrt{(21{,}8 \text{ km/s})^2 - 2 (13{,}1 \text{ km/s})^2} \approx 11{,}5 \text{ km/s} .$$
-(9.13)
-With this velocity, Pioneer 10 leaves the solar system.
-9.c)
-Calculations and explanations
-For the photons of the sunlight, the relativistic energy-momentum relation holds
-$$E = c p .$$
-(9.14)
-At a distance $r$ from the Sun, the probe receives a radiation power per area of
-$$\frac{P}{A} = E_0 \left(\frac{1 \text{ AE}}{r}\right)^2 ,$$
-(9.15)
-where $A = \pi d^2/4$ gives the cross-sectional area of the probe. This results in a force
-on the probe of $F = \dot{p} = P/c$. Here the reflected part of the radiation transfers
-So for the acceleration
-$$a_\text{Strahlung}(r) = \frac{F}{m} = \frac{(2 \cdot 0{,}8 + 0{,}2) P}{m c} = \frac{1{,}8\, \pi d^2 E_0}{4 m c} \left(\frac{1 \text{ AE}}{r}\right)^2$$
-(9.16)
-The results. Thus the acceleration, expressed through the acceleration at $r = 50$ AE, is
-$$a_\text{Strahlung}(r) = 8{,}2 \cdot 10^{-11} \text{ m/s}^2 \cdot \left(\frac{50 \text{ AE}}{r}\right)^2 .$$
-(9.17)
-The gravitational acceleration due to the Sun, on the other hand, expressed through the
-acceleration at $r = 50$ AE, is
-$$a_G(r) = -\frac{G M_S}{(50 \text{ AE})^2}$$
-
-**Topic:** [[Gravitation]], [[Astrophysics]], [[Modern-Quantum Physics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.18](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)

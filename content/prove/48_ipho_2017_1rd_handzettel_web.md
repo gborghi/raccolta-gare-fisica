@@ -15,7 +15,7 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2017 — Quesito 1" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/disk,object/block,object/inclined-plane,object/conducting-sphere,object/planet"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -108,56 +108,11 @@ Quale delle cifre potrebbe rappresentare correttamente le posizioni dei due pian
 **Objects:** [[Disk (object)|Disk]], [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Conducting Sphere (object)|Conducting Sphere]], [[Planet (object)|Planet]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1XF4Cvis4z4s_hmwG8ltvXu3WCed8iMC0/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following points are added:
-Short questions, quick answers
-Fit for the IPhO? For each of the following five questions, find the correct answer letter and justify your choice on physical grounds.
-(a) A metal disc with a hole in its center is heated.
-What happens during heating?
-
-A hole gets bigger. C. The hole stays the same size.
-
-B The hole gets smaller. D This question cannot be answered without further information.
-(b) Two boxes slide frictionlessly down an inclined plane, each from the same height. The two inclined planes have different slopes, but both boxes cover the same total drop in height. One box is twice as heavy as the other.
-Which of the following statements is true?
-
-A and B boxes initially have the same potential energy.
-
-B The boxes need the same time to slide down the inclined planes.
-
-C At the bottom of the inclined planes both boxes have the same kinetic energy.
-
-D At the bottom of the inclined planes both boxes have the same speed.
-(c) Two equally large charged metal spheres are at a very great distance from each other. The charge of one sphere is three times as large as that of the other. The force the spheres exert on each other is F. Now the spheres are brought into contact and then positioned at a distance twice as large as the original one.
-What's approximately the force between them now?
-
-A 0.25 F
-C 0.50 F
-
-B 0.33 F
-D The force stays the same.
-(d) The same amount of heat energy is supplied to four samples of different substances. The temperature of 3 g of substance A rises by 8 K, the temperature of 4 g of substance B by 5 K, the temperature of 6 g of substance C by 9 K, and the temperature of 7 g of substance D by 4 K.
-Which substance has the highest specific heat capacity?
-
-A
-B
-C
-D
-e) The following figures are each meant to show five orbital positions of two planets relative to their central star. The ratios of the orbital radii are to scale, but the planets are shown to be greatly enlarged.
-Which of the figures could correctly represent the positions of the two planets?
-
-**Topic:** [[Thermodynamics]], [[Conservation of Energy]], [[Electrostatics]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Kepler's Laws (metodo)|Kepler's Laws]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Disk (object)|Disk]], [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Conducting Sphere (object)|Conducting Sphere]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1XF4Cvis4z4s_hmwG8ltvXu3WCed8iMC0/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2017 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/block,object/wire,object/battery,object/lens"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -212,37 +167,11 @@ Determina la lunghezza focale della lente. Usare il ruler tracciato come scala. 
 **Objects:** [[Block (object)|Block]], [[Wire (object)|Wire]], [[Battery (object)|Battery]], [[Lens (object)|Lens]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1XF4Cvis4z4s_hmwG8ltvXu3WCed8iMC0/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 2 (10 points)
-Sliding or rolling?
-A small wooden object lies on a horizontal table. After the object is given a push, it falls off the edge of the table after 2.0 seconds, having initially been 1.0 meters away from it.
-Use this information to find out if the object has wheels. Justify your answer with the help of appropriate calculations.
-Sign up now at
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-for the
-Competition!
-The following is the list of the problems:
-Hot wire
-A long straight wire is connected to an ideal battery. At a room temperature held constant at $20\ ^\circ\text{C}$, the wire heats up and finally reaches a temperature of $24\ ^\circ\text{C}$.
-Then one third of the wire is cut off and the remaining part of the wire is connected to the battery again.
-Determine the temperature to which the wire now heats up.
-The following is the list of the problems:
-Shifted image
-A thin lens forms an image of an object, as shown in the figure.
-Determine the focal length of the lens. Use the ruler drawn in as a scale. In addition, draw the resulting image when a second, identical lens is placed directly behind the first.
-
-**Topic:** [[Newtonian Mechanics]], [[Circuits]], [[Geometric Optics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Wire (object)|Wire]], [[Battery (object)|Battery]], [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1XF4Cvis4z4s_hmwG8ltvXu3WCed8iMC0/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2017 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -617,188 +546,3 @@ Prof. Dr. Giovanni
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1XF4Cvis4z4s_hmwG8ltvXu3WCed8iMC0/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 3 (10 points)
-Sea level
-Climate research assumes that global warming, accompanied by the melting of ice masses and an increase in sea level, will lead to a radical change in the living conditions on Earth. Even though complex models are needed for a precise study of sea level rise, you can carry out some rough estimates with simple considerations.
-(a) Estimate by how much the sea level rises per year due to the thermal expansion of seawater alone, if the mean temperature of the sea increases by 1.5 mK per year.
-The thermal expansion of seawater currently has, alongside the melting of glaciers, the greatest influence on the overall rise in sea level. A melting of the polar ice masses, however, would have far more dramatic effects.
-(b) Justify that melting of the sea ice in the Arctic does not lead to a significant rise in sea level. Give one reason why this melting nevertheless contributes to a faster rise in sea temperature.
-(c) Estimate by how much the sea level rises per year if the ice masses in Antarctica and in Greenland melt uniformly and completely over the next 10,000 years. State whether the rise actually resulting from the melting is rather higher or rather lower than your estimate, and justify your statement.
-For the considerations you may use the following numerical values:
-Density of fresh water
-$\rho_\text{Wasser} = 1{,}00 \cdot 10^3\ \text{kg m}^{-3}$
-Density of ice
-$\rho_\text{Eis} = 0{,}92 \cdot 10^3\ \text{kg m}^{-3}$
-Mean density of seawater
-$\rho_\text{Meer} = 1{,}03 \cdot 10^3\ \text{kg m}^{-3}$
-Mean volume expansion coefficient of seawater $\gamma_\text{Wasser} = 2 \cdot 10^{-4}\ \text{K}^{-1}$
-Surface area of all the world's oceans
-$A_\text{Meer} = 362 \cdot 10^6\ \text{km}^2$
-Mean ocean depth
-$d_\text{Meer} = 3{,}8\ \text{km}$
-Area of the Antarctic ice sheet
-$A_\text{Antarktis} = 14 \cdot 10^6\ \text{km}^2$
-Mean thickness of the Antarctic ice sheet
-$d_\text{Antarktis} = 2{,}1\ \text{km}$
-Area of the Greenland ice sheet
-$A_\text{Grönland} = 1{,}7 \cdot 10^6\ \text{km}^2$
-Mean thickness of the Greenland ice sheet
-$d_\text{Grönland} = 1{,}7\ \text{km}$
-Composite satellite image of Antarctica.
-Addresses of the regional coordinators
-The regional coordinators coordinate the running of the first two rounds in the individual federal states.
-They're your contact points up to the third round.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Störck secondary school
-Liebfrauenstraße 1 is a street in the city of Liebfrauenstraße
-88348 Bad Saulgau
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-Bavaria
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The school is located in Luisenburg.
-The Commission has not yet taken any further action. 9
-95632 Residential areas
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The European Union
-The Commission is not prepared to accept the request. Rainer Sunday
-Secondary school
-The following is the list of the buildings and their contents: 184
-12351 Berlin
-The Commission has decided to extend the period of validity of the application.
-The Commission shall adopt implementing acts.
-StR pure beans
-Carl Friedrich-Gauß High School
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation. 52
-15234 Frankfurt am Main (Oder)
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The Commission shall adopt implementing acts.
-The Commission is not prepared to accept the request. Manfred freshwood
-Lloyd High School Bremerhaven
-Grazer Street . 61
-27568 Bremerhaven
-The Commission has decided to extend the period of validity of the proposal.
-Offerings connected with the Physics Olympiad
-Besides the selection rounds, there is a series of exciting offers in the environment of the Physics Olympiad, in which you can deepen your knowledge and which you can use for the competition.
-Regional Olympiads, middle school competitions, youth research
-For the second round of the Physics Olympiad you can also qualify via the regional physics Olympiads offered in some federal states, the nationwide MNU Physics competition, or a success in the Physics category at Youth Research at the regional level. The regional coordinators or the competition management will help you with questions about this.
-The Orpheus association
-A good point of contact for questions about the competition is also the Orpheus Association, founded by former participants. If you feel like deepening your physics knowledge and preparing, together with like-minded people, for the selection competition for the International Physics Olympiad, then the Orpheus seminar is definitely something for you. From 6-9 October 2016, former participants of the Physics Olympiad in Jena organize this year's Orpheus seminar. Further details can be found at www.orpheus-verein.de.
-The Commission
-The Commission has also adopted a proposal for a directive on the protection of workers' rights.
-Margaretha-Rothe High School
-Long distance 5
-22307 Hamburg
-The Commission has decided to extend the period of validity of the aid.
-Hesse
-The Commission shall adopt the following measures:
-The school is located in the centre of the town of Schweitzer.
-The student research centre in North Hesse
-The Cologne Street 89
-34119 Kassel
-The Commission has decided to extend the period of validity of the application.
-Mecklenburg and the former Pomerania
-PD Dr. Heidi, wood
-The University of Rostock
-Institute of physics
-18051 Rostock
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The Netherlands
-The Commission has also adopted a proposal for a directive on the protection of workers' rights.
-Crossroads 39
-30171 Hanover
-and Prof. Dr. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The following is a list of the institutions of the European Union:
-Whaling gardens 1
-30167 Hanover
-The Commission has decided to extend the period of validity of the aid.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission shall adopt the following measures:
-The district government of Arnsberg
-The following is the list of the main routes:
-59821 Arnsberg
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1295/2001.
-NRW Detmold
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Local government Detmold
-Leopold Street 13 to 15
-32756 Detmold
-The Commission has also adopted a number of measures to ensure that the Commission is able to take appropriate measures to address the situation in the Union.
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-Municipality of Düsseldorf
-At the Bonneshof 35
-40474 Dusseldorf
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-Cologne, N.R.
-The Commission shall adopt the following measures:
-The Centre for Teacher Training in Schools Bonn
-The first is the "Godeesberger Allee"
-53175 Bonn
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The following is the list of the countries of the European Union:
-LRSD Ursula Klee and
-Reinhard Beer
-Municipality of Munster
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation. 9
-48147 samples
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission has also adopted a number of proposals for the
-The main building of the IGS Mainz-Hechtsheim
-Ring road. 41 B
-55129 Mainz
-The Commission has also adopted a number of proposals for the establishment of a European Parliament and Council meeting on the subject.
-Saarland
-The Commission shall adopt the following measures: I 'm not sure .
-State study seminar
-for secondary levels I and II
-In the case of secondary schools and
-Community schools
-I'm going to the Beethoven. 26
-66125 Saarbrücken and the other
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The Commission
-The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
-The following is a list of the main schools in the Netherlands:
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation. 15
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1224/2009.
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Werner von Siemens High School
-Stendal Street . 10
-39106 Magdeburg
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission has also adopted a proposal for a Regulation (EC) No 1299/2006.
-Werner Heisenberg High School
-The road to Rosetta 41
-25746 Heathen
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The following is the list of the Member States:
-The Commission shall adopt the following measures:
-Carl Zeiss High School
-Special school with
-The first is the study of the nature of the matter. Direction
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation. 7
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission has decided to extend the period of validity of the information provided.
-Dear students, dear parents,
-Dear teachers,
-The findings of the natural sciences shape our everyday lives to a great extent; they are omnipresent. Whoever knows more about biology, chemistry, physics, and the environment can also better participate in discussions about how we want to shape our future. It is therefore important to awaken in many young people, early on, the curiosity and fascination that emanate from science and research.
-The Federal Ministry of Education and Research has been committed for many years to awakening young people's interest in the natural sciences. To this end, we support various youth competitions on topics from mathematics, the natural sciences, and technology. We want to encourage students to demonstrate their abilities beyond regular subject lessons and to discover their own talents.
-
-The science competitions organised by the Leibniz Institute for Science and Mathematics Education (IPN), the ScienceOlympiads and the Federal Environmental Competition, offer many opportunities for this. Every year, about 10,000 students from the 5th grade upward register nationwide. Exciting and challenging problems from biology, chemistry, and physics stimulate reflection and motivate students to deepen their own knowledge. Within the framework of projects on environmental or sustainability topics, participants are also given the chance to be creative and to develop ideas. Beyond that, many opportunities arise to meet like-minded people and to form new friendships.
-
-It's worth taking part in the competitions. I therefore warmly invite all students to discover the ScienceOlympics and the Federal Environmental Competition for themselves and to follow the competition's motto:
-"Show your talent!"
-The Commission is not responsible for the implementation of this Regulation. Dr. John
-
-**Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1XF4Cvis4z4s_hmwG8ltvXu3WCed8iMC0/view)

@@ -15,7 +15,7 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2016 — Quesito 1" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/lens"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -58,31 +58,11 @@ Foto di un ruler con bokeh
 **Objects:** [[Lens (object)|Lens]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1dXrp-C8rpnVeK3mjK4qMAA9yYUkVvDVI/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following points are added:
-A blurry image
-A ruler is photographed. Far behind the ruler there is a string of fairy lights whose small bulbs appear blurred in the photo.
-As a simplification, you may assume that the image is formed by a single thin lens.
-Using the photo, determine the diameter of the camera lens.
-
-
-<!--fig:start-->
-![[_attachments/47_IPhO_2016_1Rd_Handzettel_web/47_IPhO_2016_1Rd_Handzettel_web_p2_f1.png]]
-Blurred photo of a ruler with bokeh
-<!--fig:end-->
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Physical Modeling (metodo)|Physical Modeling]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1dXrp-C8rpnVeK3mjK4qMAA9yYUkVvDVI/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2016 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/electron"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -297,117 +277,11 @@ b) Calcolare il tempo che l'elettrone deve viaggiare lungo questo percorso. (3 p
 **Objects:** [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1dXrp-C8rpnVeK3mjK4qMAA9yYUkVvDVI/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 2 (10 points)
-Quite a tricky one
-A crossword puzzle entirely without Greek gods and Swiss cantons? It can be done!
-Solve the following crossword puzzle and find the solution word.
-Across the street:
-1 model for microscopic objects with opposing halves 4 the human acoustic "organ" 5 wave phenomenon perceivable with the eyes 6 numerical value
-7 capacity to store charge 8 continuously elapses at every $\to$ 40 10 state of a body with a time-varying position
-11 unit of electric potential differences
-12 irrotational 15 half of a magnet (conventionally marked red) 18 descriptive model of reality
-22 helped in the detection of time dilation 23 longitudinal pressure wave
-24 abbreviation for mean sea level 25 negatively charged elementary particle 27 sensible simplification
-30 fourth state of matter 32 calculation rule 33 much-discussed picture of a function 34 totality of the objects under consideration 35 particle property that is conserved overall 38 unlimited in time
-39 rotational motion 40 points in space 44 indicator of specific particles
-46 physical quantity that varies periodically in time and space
-47 family of the smallest bird species with the highest wingbeat frequency
-50 material that partially expels external magnetic fields 51 at constant pressure
-52 Earth's gravity 53 postulated uncertainty 55 control element of a transistor 56 elongation caused by an applied force 57 measure of spread,
-e.g. for measured values 58 way of verifying $\to$ 18
-Down:
-1 diagonally opposite 2 conserved in every collision 3 measuring instrument for determining temperature 5 straight, not curved 9 displacement of charge carriers by an external electric field 11 spatial volume 13 not indivisible 14 unit of
-amount of substance 16 branch of mechanics that studies $\to$ 10 as the cause of forces
-17 obsolete unit of force 19 cannot be created or destroyed, only converted 20 SI unit named after a British physicist 26 component that conducts only when activated 28 combined method of NMR and
-ESR spectroscopy, also the name of the forest moon near the second Death Star
-29 momentum transferred by a gas per unit time and area onto the walls of its container
-31 immovable, unchanging 35 orthogonal connection, i.e. a device 36 pole of a voltage source 37 unit for the data volume of storage media
-39 mechanical effect by which kinetic energy decreases
-41 microscope that "illuminates" thin samples with electrons 42 unit of measure found on beakers 43 joining by means of glue and adhesion
-45 cosmic means of transport 46 specially calibrated force meter 48 model for conduction in solids, also a group of musicians 54 non-SI unit for large areas, also the chemical symbol for a noble gas
-Solution word
-The solution word has something to do with the hosts of IPhO 2016 and is formed from the cells marked with circles (row by row, from left to right).
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53
-54
-55
-56
-57
-58
-Sign up now at
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-for the
-Competition!
-Problem 4 (10 points)
-Deflected
-An electron, previously accelerated through a voltage of 100 V, enters a homogeneous electric field at point A. The path of the electron is shown in the following figure. The spacing of the dashed lines in the figure corresponds to 4.0 mm, and the motion of the electron takes place in the plane of the drawing.
-(a) Determine the magnitude and direction of the electric field that causes the deflection of the electron. (Page 77)
-(b) Calculate the time the electron needs to travel along this path. (Page 3 of this report)
-
-**Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1dXrp-C8rpnVeK3mjK4qMAA9yYUkVvDVI/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2016 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/block,object/inclined-plane,object/beam,object/lever"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -628,111 +502,3 @@ Quesito 4  trajectory of electron on a grid, point A
 ![[_attachments/47_IPhO_2016_1Rd_Handzettel_web/47_IPhO_2016_1Rd_Handzettel_web_p3_f3.png]]
 <!--fig:end-->
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 3 (10 points)
-Sliding and tipping
-Peter claims that, using only a ruler, a full pack of salt, and a table, he can determine the coefficient of static friction between the table and the pack of salt. To prove it, he tilts the table until the pack of salt starts to slide. This happens at an inclination angle of $17^{\circ}$. With this information he determines the coefficient of static friction.
-"I can do better", replies Sofie, and pushes against the side of the pack, as indicated in the figure next to it. As a result, it starts to slide. If, however, she pushes a little higher up against the pack, it begins to tip instead of slide.
-From the inclination angle measured by Peter, calculate the coefficient of static friction between the pack of salt and the table.
-Explain, in addition, how Sofie can determine the coefficient of static friction by her approach, and determine at what height she can push against the pack of salt so that the pack of salt just barely slides.
-The first is the 'Junior Problem' (10 points).
-Balanced
-A broom is repurposed for a physics experiment and is balanced on a narrow supporting edge with the help of a weight of 1.0 kg. When the distance between the supporting edge and the right end of the broom is 70 cm, the weight must be hung 25 cm from that end to balance the broom. If the supporting edge is now shifted 10 cm to the left, the weight must be moved 19 cm so that the broom is again in balance.
-Determine the mass of the broom and the distance of its center of gravity from the right end.
-Find out how you can determine the center of gravity of a broom with a simple experiment without any aids, and explain your idea.
-2016
-What do you need to be able to do?
-Enjoyment of physics puzzles, solid mathematical knowledge, skill in experimentation, and above all the right intuition for the problems are important ingredients for a successful result. Thematically, the competition is oriented towards what is taught in school, but it can also go beyond the school curriculum. Important topic areas can be found on the IPhO website www.ipho.info. A good point of contact for questions about the competition is also the association of former participants at www.orpheus-verein.de.
-Good luck with that!
-
-$\dots$ around the wide world
-The International Physics Olympiad  IPhO for short  is a competition for young people passionate about physics from all over the world, who once a year measure their abilities and compete for medals. States from all over the world take part - by now almost 90. The competition itself consists of two five-hour exams, one theoretical and one experimental. Alongside there is an extensive supporting program - and of course many opportunities for contacts with people from all over the world.
-The 47th IPhO takes place in July 2016 in Zurich, Switzerland.
-$\dots$ and in Germany
-Each participating country sends up to five Olympians to the IPhO, who compete individually. The German team is made up of the best from the selection competition supported by the Federal Ministry of Education and Research and the Standing Conference of the Ministers of Education. This competition consists of four rounds, about which further information can be found on the back of the problem leaflet.
-In addition to participation in the international competition, many attractive prizes are awarded. The problems printed on this leaflet for the first round are solved as homework. Only individual work is permitted.
-The submission deadline for the worked solutions of the 1st round to the subject teachers is 07.09.2015. In individual cases, other dates may also be agreed between participants and their teachers. However, by 22.09. the work must in any case be corrected and forwarded to the regional coordinators. For qualification to the second round, 30 of 40 possible points are required.
-Participants who in the 2015/2016 school year have not yet reached the second-to-last grade level can earn a bonus point with the junior problem.
-
-To register $\downarrow$
-Contact
-Secretariat
-Lulu Hoffmeister
-Telephone number: 04 31 / 8 80-53 87
-Fax: 04 31 / 8 80-31 48
-The Commission has also adopted a number of measures to improve the quality of life of the European Union.
-Competition management
-Dr. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Telephone number: 04 31 / 8 80-51 20
-The Commission has also adopted a number of proposals for the implementation of the programme.
-The Commission has also adopted a number of proposals for the implementation of the programme. The Commission has also adopted a number of proposals.
-The International Physics Olympiad is held in
-2016
-The European Commission has decided to extend the period of validity of the decision.
-Show your talent!
-Who is the IPhO for?
-Student
-If you are a student, the IPhO and the German IPhO selection competition offer you many opportunities to engage intensively with physics questions, to test your own limits, and not least to get to know interesting people.
-In preparation for the 3rd and 4th rounds, a problem-solving training is carried out, in which you receive detailed tips on your solutions and can thus improve your problem-solving skills once again.
-Even if you don't make it that far, simply passing the first round is already a special achievement and a real distinction.
-So, take heart!
-Teacher
-As a teacher, you can offer a challenge to students who are particularly capable or interested in physics, using the problems of the selection competition, and encourage them to engage more deeply with physics topics. In this way the IPhO can serve as an instrument of individual support. In particular, the problems of the 1st round are suitable not only for the best in an Abitur class. Rather, it turns out that early engagement with the competition problems is an important building block for later successful participation, and can also be a lot of fun along the way.
-So feel free to encourage your students to submit solutions to individual problems as well; for only those who do not take part can lose.
-School
-By encouraging participation in competitions, schools can sharpen their profile and use them, in the sense of enrichment, as a complement to school offerings. Competitions thus offer diverse, differentiated learning environments for participating students. In the area of STEM subjects, the Olympiads represent, at least in the later rounds, a competition aimed at especially motivated and high-performing young people. Nevertheless, participation in the entry rounds is not only worthwhile but can also contribute to a lasting motivation for STEM topics.
-In many federal states, by the way, participation in the competition can be recognized as a special learning achievement of your students for the Abitur.
-Interested in more than physics?
-The IPhO is one of the six national science competitions organised by the IPN  the ScienceOlympics.
-Alongside the selection competitions for the international Olympiads in Biology (IBO), Chemistry (IChO), and Physics (IPhO), these include the International Junior Science Olympiad (IJSO), the European Science Olympiad (EUSO), as well as the Federal Environmental Competition (BUW). Together they address students from the beginning of secondary education through the end of school years and, with their close networking, offer the possibility of lasting support for scientific skills and interests.
-Further information about the Science Olympiads can be found at www.scienceolympiaden.de.
-1st round
-When? Registration from April 2015. Submission of the solution to the subject teacher by 07.09. Receipt of the assessment and the work by the responsible regional coordinators by 22.09.
-Who?
-All who in the 2015/2016 school year attend a general education German school and were born after 30.06.1996
-
-
-<!--fig:start-->
-![[_attachments/47_IPhO_2016_1Rd_Handzettel_web/47_IPhO_2016_1Rd_Handzettel_web_p3_f2.png]]
-*SALT box on a surface with arrow*
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/47_IPhO_2016_1Rd_Handzettel_web/47_IPhO_2016_1Rd_Handzettel_web_p3_f4.png]]
-*beam on a fulcrum with a mass of 1 kg *
-<!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Beam (object)|Beam]], [[Lever (object)|Lever]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1dXrp-C8rpnVeK3mjK4qMAA9yYUkVvDVI/view)
-
-# # Figure
-
-# # Figure
-
-# # Figure
-
-# # Figure
-
-# # Figure
-
-# # Figure
-
-# # Figure
-
-# # Figure
-
-# # Figure
-
-# # Figure
-
-# # Figure
-
-# # Figure
-
-<!--fig:start-->
-The following is the list of the most commonly used methods for calculating the value of the electron:
-![[_attachments/47_IPhO_2016_1Rd_Handzettel_web/47_IPhO_2016_1Rd_Handzettel_web_p3_f3.png]]
-<!--fig:end-->

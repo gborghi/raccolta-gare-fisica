@@ -15,7 +15,7 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2011 — Quesito 1" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -38,21 +38,11 @@ Problema 1 (8 punti)
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1nRI9-48z3AqR2qOM-FrzK0E1IPfnFGxe/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 1 (8 points)
-
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1nRI9-48z3AqR2qOM-FrzK0E1IPfnFGxe/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2011 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/disk,object/wire"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -175,71 +165,11 @@ la temperatura T (per T > 1000 K).
 **Objects:** [[Disk (object)|Disk]], [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1nRI9-48z3AqR2qOM-FrzK0E1IPfnFGxe/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 2 (15 points)
-Contact
-Secretariat
-Lulu Hoffmeister
-The Commission has decided to extend the period of validity of the agreement.
-Fax: 0431 / 880-31 48
-The Commission has also adopted a number of recommendations.
-Competition management
-Dr. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Telephone number: 0431 / 880-51 20
-The Commission has also adopted a number of proposals for the implementation of the programme.
-The Commission has also adopted a number of proposals for the implementation of the programme. The Commission has also adopted a number of proposals for the proposal.
-Further information about the competition at
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-Rotating disk
-A disk of radius R rotates
-freely in the horizontal plane
-about its center. Attached to it is
-a point mass m, which oscillates
-periodically with frequency f and
-amplitude R about the center of the disk. The axis of oscillation rotates
-together with the disk.
-Because of the oscillation of the point mass,
-the angular velocity $\omega$ of the disk
-The Commission has already adopted a proposal.
-The following graph*
-shows $\omega$ in arbitrary
-units as a function of time.
-Determine the oscillation frequency f of the point
-mass and the ratio of its mass m to the mass
-of the disk.
-The disk has a homogeneous mass distribution.
-Available at higher resolution on the competition website.
-Hot wire
-The following graph* shows the measured current
-voltage characteristic of a wire that has a
-length of 10 cm and a diameter of 0.20 mm.
-At each measurement one waits some time
-Until the values have stabilized.
-State which form of heat transport at high
-The temperature is mainly responsible for carrying away the
-It's hot. Consider this form of
-heat transport in order to produce a graph for the specific resistance of the wire as a function of
-its temperature T (for T > 1000 K).
-Available at higher resolution on the competition website.
-
-
-<!--fig:start-->
-![[_attachments/42_IPhO_2011_1Rd_Handzettel_web/42_IPhO_2011_1Rd_Handzettel_web_p2_f1.png]]
-*cylindrical aquarium with people to scale*
-<!--fig:end-->
-
-**Topic:** [[Rotational Dynamics]], [[Oscillations & Waves]], [[Thermodynamics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Conservation Laws (metodo)|Conservation Laws]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Disk (object)|Disk]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1nRI9-48z3AqR2qOM-FrzK0E1IPfnFGxe/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2011 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/disk"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -282,31 +212,11 @@ Problema 3 (14 punti)
 **Objects:** [[Disk (object)|Disk]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1nRI9-48z3AqR2qOM-FrzK0E1IPfnFGxe/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 3 (14 points)
-
-
-<!--fig:start-->
-![[_attachments/42_IPhO_2011_1Rd_Handzettel_web/42_IPhO_2011_1Rd_Handzettel_web_p3_f2.png]]
-*rotating disk with point mass m and R*
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/42_IPhO_2011_1Rd_Handzettel_web/42_IPhO_2011_1Rd_Handzettel_web_p3_f3.png]]
-The following table shows the results of the calculations:
-<!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Disk (object)|Disk]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1nRI9-48z3AqR2qOM-FrzK0E1IPfnFGxe/view)
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2011 — Quesito 4" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -789,242 +699,3 @@ Leibniz Institute for the Pedagogy of Natural Sciences and Mathematics (Istituto
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1nRI9-48z3AqR2qOM-FrzK0E1IPfnFGxe/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 4 (13 points)
-
-IPN $\cdot$ Leibniz-Institut für die Pädagogik
-The second is the study of the natural sciences and mathematics.
-at the University of Kiel
-Round 1
-When? From April 2010. Submission deadlines can be found on the IPhO
-The website.
-Who? Anyone interested who, in the
-2010/2011 school year, attends a general education
-German school and what was born after
-30.06.1991.
-Where? The problems are solved as homework. You hand
-Your work to a subject teacher for correction.
-How did you do that? Four problems are to be solved,
-From all areas of physics. The
-solutions may be written by hand or
-on a computer and should be comprehensible but
-Not unnecessarily long. The following is a list of the textbooks:
-may be used provided the sources are cited. Forms that appear in
-the common textbooks
-need not be derived. Only
-Individual work is permitted.
-Anyone who, in the 2010/2011 school year, has not
-Yet reached the second-to-last grade level
-receives a points bonus.
-What can you win?
-All participants receive a certificate of participation or an award certificate.
-Round two
-When?
-September
-to
-October
-2010.
-Who? The problems are sent to all
-prize winners of the first round.
-Where? You again solve the problems at
-home and send your work,
-uncorrected, for correction by 29 October
-2010 to your regional coordinator. It will be later
-reviewed once more at the IPN.
-How did you do that? Theoretical
-and
-experimental physical
-problems are to be worked on. These are more demanding than in the first round. Otherwise the same rules apply as for
-The first round.
-What can you win?
-All participants receive an award certificate with an evaluation sheet. The
-50 best are invited to the third round.
-The regional coordinators coordinate the running of the first two rounds in the individual federal states.
-They're your contact persons up to the third round.
-Round three
-When? 29 January  04 February
-2011.
-Who? The roughly 50 best of the second round.
-Where? The third round takes place as a one-week seminar at DLR Göttingen.
-How did you do that? Now two theoretical
-and two experimental written exams without
-reference literature are to be worked on. In the afternoons there are problem seminars and
-Excursions.
-What can you win?
-All of them
-Participants
-receive,
-in addition to
-a book voucher and a
-Subscription, an award certificate with an evaluation sheet. Young talents
-are offered the opportunity to take part in the European Science
-The European Union's first international competition is the Olympiad (EUSO), a science team competition.
-Round four
-When? The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2001.
-Who? The 15 best of the third round.
-Where? For the fourth round the
-Participants are invited for a week to
-I'm going to Hamburg.
-How did you do that? Here theoretical and experimental written exams are
-Again on the program. To prepare for the IPhO, problem seminars are held that are
-specifically aimed at typical types of question.
-What can you win?
-The five most successful not
-only
-Make up
-The
-Olympic team,
-But with this round too
-Go through
-The selection process for the German People's Research Foundation. For
-The other, besides a
-Cash prize of 500 euros, there are language trips
-and internships to be won. In addition, the
-German Physical Society
-awards its student prize to the team members.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Student research centre in the south of Württemberg
-I'm going to go to Gutenberg. 18
-88348 Bad Saulgau
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-Bavaria
-The Commission shall adopt the following measures:
-The school is located in the town of Werdenfels.
-The following is the list of the following:
-82467 Garmisch parish churches
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The European Union
-Dr. Ingo Wilken
-Secondary school
-The following is the list of the buildings and their contents: 184
-12351 Berlin
-The Commission has decided to extend the period of validity of the application.
-The Commission shall adopt implementing acts.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Carl Friedrich-Gauß secondary school
-The Commission shall adopt the following implementing acts: 52
-15234 Frankfurt/Oder
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The Commission shall adopt the following measures:
-The Commission has also adopted a proposal for a Regulation (EC) No 1299/2008.
-Lloyd High School
-Grazer Street . 61
-27568 Bremerhaven
-The Commission has decided to extend the period of validity of the proposal.
-The Commission
-Detlef Kaack
-Institute for teacher training
-and school development
-The following is the list of the official languages of the European Union:
-20357 Hamburg
-The Commission has decided to extend the period of validity of the aid.
-Hesse
-The Commission shall adopt the following measures:
-The Swiss School of Albert
-The student research centre in North Hesse
-Cologne Street 89
-34119 Kassel
-The Commission has decided to extend the period of validity of the application.
-Mecklenburg and the former Pomerania
-The Commission is not responsible for the implementation of this Regulation. Dr. Heidi wood
-Institute of physics
-The University of Rostock
-University Square 3
-18051 Rostock
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The Netherlands
-Dr. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Felix-Little High School
-The following is the list of the buildings and their contents:
-The Commission has also adopted a proposal for a regulation on the
-The Commission has decided to extend the period of validity of the aid.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-OStD Hans Beinghaus
-The district government of Arnsberg
-Seedlings
-The following is the list of the main routes:
-59821 Arnsberg
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-NRW Detmold
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission shall adopt the following measures:
-Local government Detmold
-Specialist advice physics
-Leopold Street 13 to 15
-32756 Detmold
-The Commission has also adopted a proposal for a regulation on the implementation of the common fisheries policy.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-Municipality of Düsseldorf
-At the Bonneshof 35
-40474 Dusseldorf
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-Cologne, N.R.
-The Commission shall adopt the following measures:
-Study seminar
-for teachers in schools in Bonn
-The road. 1
-53115 Bonn
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The following is the list of the countries of the European Union:
-Reinhard Beer
-Municipality of Munster
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation. 9
-Harvested 48
-48147 samples
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Sickingen secondary school
-The following is the list of the buildings and their contents:
-66849 Land chair
-The Commission has also adopted a number of proposals for the establishment of a European Parliament and Council meeting on the subject.
-Saarland
-Dr. I 'm not sure .
-Theodor-Heuss secondary school
-The road to the sea
-66280 Sulzbach
-The Commission has also adopted a proposal for a regulation on the implementation of the common fisheries policy.
-The Commission
-The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
-The following is a list of the main schools in the Netherlands:
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation. 15
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1224/2009.
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission has also adopted a proposal for a regulation on the
-Georg Cantor High School
-The road to the gate
-06110 Hall
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission has also adopted a proposal for a regulation on the
-Werner Heisenberg High School
-The road to Rosetta 41
-25746 Heathen
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The following is the list of the Member States:
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The study seminar in Jena
-The philosophical path 26
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission has decided to extend the period of validity of the information provided.
-Addresses of the regional coordinators
-The picture on the front shows a plasma lamp, whose operating principle is explained, for example, at
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1907/2006.'
-Information on the four selection rounds for the 42nd IPhO 2011
-Leibniz Institute for the Education of Natural Sciences and Mathematics
-
-
-<!--fig:start-->
-![[_attachments/42_IPhO_2011_1Rd_Handzettel_web/42_IPhO_2011_1Rd_Handzettel_web_p3_f4.png]]
-*I-V curve of hot wire, current vs voltage*
-<!--fig:end-->
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Snell's Law (metodo)|Snell's Law]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1nRI9-48z3AqR2qOM-FrzK0E1IPfnFGxe/view)

@@ -33,17 +33,17 @@ Consideremos primero dos órbitas ecuatoriales circulares diferentes de un saté
 
 A continuación, estudiaremos la maniobra de Hohmann que permite al satélite pasar desde la órbita circular inicial LEO$_1$ a la circular final GEO$_3$ viajando por la llamada **órbita de transferencia**.
 
-La maniobra orbital de Hohmann consigue mover un satélite desde la órbita circular $\circled{1}$ de altura $z_1$ sobre la superficie de la Tierra a otra circular $\circled{3}$ de altura $z_3$ mediante dos empujones bruscos aplicados en los puntos $P$ y $A$. La trayectoria elíptica intermedia $\circled{2}$, por la que ha de viajar el satélite, tendrá su perigeo $P$ a una distancia $r_1$ y su apogeo $A$ a una distancia $r_3$ del centro de la Tierra.
+La maniobra orbital de Hohmann consigue mover un satélite desde la órbita circular $\textcircled{1}$ de altura $z_1$ sobre la superficie de la Tierra a otra circular $\textcircled{3}$ de altura $z_3$ mediante dos empujones bruscos aplicados en los puntos $P$ y $A$. La trayectoria elíptica intermedia $\textcircled{2}$, por la que ha de viajar el satélite, tendrá su perigeo $P$ a una distancia $r_1$ y su apogeo $A$ a una distancia $r_3$ del centro de la Tierra.
 
-Resumiendo, la maniobra requiere que $r_P = r_1$ y $r_A = r_3$, siendo $r_P$ y $r_A$ los radios de perigeo y apogeo de la órbita elíptica de transferencia $\circled{2}$, cuyo foco estará en el centro de la Tierra.
+Resumiendo, la maniobra requiere que $r_P = r_1$ y $r_A = r_3$, siendo $r_P$ y $r_A$ los radios de perigeo y apogeo de la órbita elíptica de transferencia $\textcircled{2}$, cuyo foco estará en el centro de la Tierra.
 
 Recuerde que en cada trayectoria del satélite no sólo se conserva la energía total. Al moverse debido a una fuerza central también se conserva su momento angular.
 
-**c)** Determine la energía total $E$ y el momento angular $L$ del satélite, así como sus velocidades $v_P$ y $v_A$ en los puntos $P$ y $A$ en la órbita elíptica de transferencia $\circled{2}$. Escriba sus resultados en términos de $G$, $M_\oplus$, $m$, $r_P$ y $r_A$ únicamente.
+**c)** Determine la energía total $E$ y el momento angular $L$ del satélite, así como sus velocidades $v_P$ y $v_A$ en los puntos $P$ y $A$ en la órbita elíptica de transferencia $\textcircled{2}$. Escriba sus resultados en términos de $G$, $M_\oplus$, $m$, $r_P$ y $r_A$ únicamente.
 
-El brusco empujón tangencial $\Delta v_{1P}$ a la velocidad $v_1$ del satélite (que está en la órbita LEO$_1$), le dará la velocidad $v_P$, transfiriéndole a la órbita elíptica de transferencia $\circled{2}$ (cuyo apogeo $A$ estará en algún punto de la órbita circular GEO$_3$).
+El brusco empujón tangencial $\Delta v_{1P}$ a la velocidad $v_1$ del satélite (que está en la órbita LEO$_1$), le dará la velocidad $v_P$, transfiriéndole a la órbita elíptica de transferencia $\textcircled{2}$ (cuyo apogeo $A$ estará en algún punto de la órbita circular GEO$_3$).
 
-La maniobra aún no ha concluido; una vez llegado al apogeo $A$ de la órbita de transferencia $\circled{2}$ hay que aplicar otro empujón brusco adicional $\Delta v_{A3}$ para pasar de dicha órbita elíptica a la órbita geoestacionaria final GEO$_3$.
+La maniobra aún no ha concluido; una vez llegado al apogeo $A$ de la órbita de transferencia $\textcircled{2}$ hay que aplicar otro empujón brusco adicional $\Delta v_{A3}$ para pasar de dicha órbita elíptica a la órbita geoestacionaria final GEO$_3$.
 
 **d)** Determine los impulsos $\Delta v_{1P} = v_P - v_1$ y $\Delta v_{A3} = v_3 - v_A$ necesarios para poner al satélite en la órbita geoestacionaria GEO$_3$ desde la órbita inicial LEO$_1$, y calcule sus valores en metros por segundo.
 
@@ -97,17 +97,17 @@ Prendiamo in considerazione prima due orbite ecuatoriali circolari diverse da un
 
 In seguito, si studierà la manovra di Hohmann che consente al satellite di passare dall'orbita circolare iniziale LEO$_1$ alla circolazione finale GEO$_3$ viaggiando attraverso la cosiddetta **orbita di trasferimento**.
 
-La manovra orbitale di Hohmann permette di spostare un satellite dall'orbita circolare $\circled{1}$ di altezza $z_1$ sulla superficie terrestre ad un'altra circolare $\circled{3}$ di altezza $z_3$ mediante due bruschi spinti applicati ai punti $P$ e $A$. La via elliptica intermedia $\circled{2}$, per la quale il satellite deve viaggiare, avrà il suo perigeo $P$ a una distanza $r_1$ e il suo apio $A$ a una distanza $r_3$ dal centro della Terra.
+La manovra orbitale di Hohmann permette di spostare un satellite dall'orbita circolare $\textcircled{1}$ di altezza $z_1$ sulla superficie terrestre ad un'altra circolare $\textcircled{3}$ di altezza $z_3$ mediante due bruschi spinti applicati ai punti $P$ e $A$. La via elliptica intermedia $\textcircled{2}$, per la quale il satellite deve viaggiare, avrà il suo perigeo $P$ a una distanza $r_1$ e il suo apio $A$ a una distanza $r_3$ dal centro della Terra.
 
-In sintesi, la manovra richiede che $r_P = r_1$ e $r_A = r_3$, essendo $r_P$ e $r_A$ i raggi di perigeo e apoggio dell'orbita elliptica di trasferimento $\circled{2}$, il cui foco sarà al centro della Terra.
+In sintesi, la manovra richiede che $r_P = r_1$ e $r_A = r_3$, essendo $r_P$ e $r_A$ i raggi di perigeo e apoggio dell'orbita elliptica di trasferimento $\textcircled{2}$, il cui foco sarà al centro della Terra.
 
 Ricordate che in ogni tracciato del satellite non si conserva solo l'energia totale. Quando si muove a causa di una forza centrale si conserva anche il suo momento angolare.
 
-**c) ** Determina l'energia totale $E$ e il momento angolare $L$ del satellite, nonché le sue velocità $v_P$ e $v_A$ nei punti $P$ e $A$ nell'orbita elliptica di trasferimento $\circled{2}$. Scrivi i tuoi risultati in termini di $G$, $M_\oplus$, $m$, $r_P$ e $r_A$ solo.
+**c) ** Determina l'energia totale $E$ e il momento angolare $L$ del satellite, nonché le sue velocità $v_P$ e $v_A$ nei punti $P$ e $A$ nell'orbita elliptica di trasferimento $\textcircled{2}$. Scrivi i tuoi risultati in termini di $G$, $M_\oplus$, $m$, $r_P$ e $r_A$ solo.
 
-L'improvvisa spinta tangenziale $\Delta v_{1P}$ alla velocità $v_1$ del satellite (che è in orbita LEO$_1$), darà la velocità $v_P$, trasferendolo all'orbita elliptica di trasferimento $\circled{2}$ (il cui apio $A$ sarà a un punto dell'orbita circolare GEO$_3$).
+L'improvvisa spinta tangenziale $\Delta v_{1P}$ alla velocità $v_1$ del satellite (che è in orbita LEO$_1$), darà la velocità $v_P$, trasferendolo all'orbita elliptica di trasferimento $\textcircled{2}$ (il cui apio $A$ sarà a un punto dell'orbita circolare GEO$_3$).
 
-La manovra non è ancora conclusa; una volta raggiunto il punto di culmine $A$ dell'orbita di trasferimento $\circled{2}$, deve essere applicata un'altra spinta brusca aggiuntiva $\Delta v_{A3}$ per passare da tale orbita elliptica all'orbita geoestazionaria finale GEO$_3$.
+La manovra non è ancora conclusa; una volta raggiunto il punto di culmine $A$ dell'orbita di trasferimento $\textcircled{2}$, deve essere applicata un'altra spinta brusca aggiuntiva $\Delta v_{A3}$ per passare da tale orbita elliptica all'orbita geoestazionaria finale GEO$_3$.
 
 **d) ** Determina i pulsi $\Delta v_{1P} = v_P - v_1$ e $\Delta v_{A3} = v_3 - v_A$ necessari per mettere il satellite in orbita geoestazionaria GEO$_3$ dall'orbita iniziale LEO$_1$, e calcola i suoi valori in metri per secondo.
 
@@ -160,17 +160,17 @@ Let's first consider two different circular equatorial orbits of a satellite, th
 
 Next, we will study the Hohmann maneuver that allows the satellite to pass from the initial circular orbit LEO$_1$ to the final circular GEO$_3$ by traveling through the so-called **transfer orbit**.
 
-Hohmann's orbital maneuver makes it possible to move one satellite from the circular $\circled{1}$ orbit of height $z_1$ above the Earth's surface to another circular $\circled{3}$ orbit of height $z_3$ by two sharp pushes applied at the points $P$ and $A$. The intermediate elliptical path $\circled{2}$, through which the satellite is to travel, will have its perigee $P$ at a distance $r_1$ and its apex $A$ at a distance $r_3$ from the Earth's centre.
+Hohmann's orbital maneuver makes it possible to move one satellite from the circular $\textcircled{1}$ orbit of height $z_1$ above the Earth's surface to another circular $\textcircled{3}$ orbit of height $z_3$ by two sharp pushes applied at the points $P$ and $A$. The intermediate elliptical path $\textcircled{2}$, through which the satellite is to travel, will have its perigee $P$ at a distance $r_1$ and its apex $A$ at a distance $r_3$ from the Earth's centre.
 
-In summary, the maneuver requires that $r_P = r_1$ and $r_A = r_3$, being $r_P$ and $r_A$ the radii of perigee and apex of the elliptical transfer orbit $\circled{2}$, whose focus will be at the center of the Earth.
+In summary, the maneuver requires that $r_P = r_1$ and $r_A = r_3$, being $r_P$ and $r_A$ the radii of perigee and apex of the elliptical transfer orbit $\textcircled{2}$, whose focus will be at the center of the Earth.
 
 Remember, every satellite's path is not just about total energy. When moving due to a central force, its angular momentum is also preserved.
 
-**c) ** Determine the total energy $E$ and angular moment $L$ of the satellite, as well as its speeds $v_P$ and $v_A$ at the points $P$ and $A$ in the elliptical transfer orbit $\circled{2}$. Write your results in terms of $G$, $M_\oplus$, $m$, $r_P$ and $r_A$ only.
+**c) ** Determine the total energy $E$ and angular moment $L$ of the satellite, as well as its speeds $v_P$ and $v_A$ at the points $P$ and $A$ in the elliptical transfer orbit $\textcircled{2}$. Write your results in terms of $G$, $M_\oplus$, $m$, $r_P$ and $r_A$ only.
 
-The sudden tangential push $\Delta v_{1P}$ at the satellite's $v_1$ speed (which is in LEO$_1$ orbit), will give it the speed $v_P$, transferring it to the elliptical transfer orbit $\circled{2}$ (whose apogee $A$ will be at some point in the GEO$_3$ circular orbit).
+The sudden tangential push $\Delta v_{1P}$ at the satellite's $v_1$ speed (which is in LEO$_1$ orbit), will give it the speed $v_P$, transferring it to the elliptical transfer orbit $\textcircled{2}$ (whose apogee $A$ will be at some point in the GEO$_3$ circular orbit).
 
-The manoeuvre is not yet complete; once the $A$ of the transfer orbit has reached its peak $\circled{2}$ another additional sudden push $\Delta v_{A3}$ must be applied to move from that elliptical orbit to the final geo-stationary orbit GEO$_3$.
+The manoeuvre is not yet complete; once the $A$ of the transfer orbit has reached its peak $\textcircled{2}$ another additional sudden push $\Delta v_{A3}$ must be applied to move from that elliptical orbit to the final geo-stationary orbit GEO$_3$.
 
 **d) ** Determine the $\Delta v_{1P} = v_P - v_1$ and $\Delta v_{A3} = v_3 - v_A$ pulses needed to put the satellite into geostationary orbit GEO$_3$ from initial orbit LEO$_1$, and calculate their values in meters per second.
 

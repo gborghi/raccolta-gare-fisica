@@ -80,7 +80,7 @@ dove M= mNAe R= R0A1/3 con R0 $\simeq1.1 \times 10-15$ m = 1.1 fm sono
 rispettivamente la massa e il raggio del nucleo.
 Per Bgrav = agravA5/3, determinare agrav nell’unità MeV con una cifra significativa. Dopo, ignorando il termine di superficie, stimare Accon una cifra significativa. Nei calcoli, utilizzare mNc2 $\simeq939$ MeV e G= ħc/M2
 Pcome MPc2 $\simeq$
-1.22 $\times$ 1022 MeV e $ħc\simeq197$ MeV $\cdotfm$.
+1.22 $\times$ 1022 MeV e $ħc\simeq197$ MeV $\cdot fm$.
 1.5pt
 Parte C. Stella di neutroni in un sistema binario (6.0 punti)
 Alcune stelle di neutroni sono pulsar che emettono regolarmente onde elettromagnetiche di periodo
@@ -95,7 +95,7 @@ Theory
 Q2-3
 Italiano (Italy)
 C.1
-Come mostrato nella figura seguente, sotto l’accelerazione gravitazionale costante gfissiamo i due livelli I e II con differenza di altezza $\Deltah(>$ 0). Orologi identici sono posti in I, in II e in F(sistema in caduta libera) e indicati rispettivamente
+Come mostrato nella figura seguente, sotto l’accelerazione gravitazionale costante gfissiamo i due livelli I e II con differenza di altezza $\Delta h(>$ 0). Orologi identici sono posti in I, in II e in F(sistema in caduta libera) e indicati rispettivamente
 con orologio-I, orologio-II e orologio-F.
 Impostazione dell’esperimento mentale.
 Assumiamo che un osservatore solidale all’orologio-F sia inizialmente a riposo alla stessa altezza dell’orologio-I e regoliamo l’orologio-F in modo che la sua
@@ -105,7 +105,7 @@ cadere liberamente l’orologio-F (considerare inerziale il riferimento in cui e
 all’orologio-F verso l’alto con velocità v, cosi ché la dilatazione temporale può
 essere determinata usando le trasformazioni di Lorentz. $Sia\DeltaτI$ l’unità di tempo
 $\DeltaτII$ dell’orologio-II misurata dal riferimento di F.
-Determinare $\DeltaτII$ in termini di $\DeltaτI$ al primo ordine in funzione di $\Deltaφ/c2$, dove $\Deltaφ= g\Deltahè$ la differenza di potenziale gravitazionale, cioè la differenza di
+Determinare $\DeltaτII$ in termini di $\DeltaτI$ al primo ordine in funzione di $\Deltaφ/c2$, dove $\Deltaφ= g\Delta hè$ la differenza di potenziale gravitazionale, cioè la differenza di
 energia potenziale gravitazionale per unità di massa.
 1.0pt
 C.2
@@ -121,7 +121,7 @@ Come mostrato in Fig. 1, prendiamo l’asse xlungo il percorso della luce dalla
 stella di neutroni N alla Terra E e poniamo x= 0 nel punto in cui la Nana Bianca
 W è alla minima distanza dal percorso della luce. Sia xN(< 0) la coordinata xdi
 N, xE(> 0) quella di E e dla distanza tra W e il percorso luminoso.
-Stimare la variazione del tempo di arrivo $\Deltatdi$ un impulso luminoso da N a E
+Stimare la variazione del tempo di arrivo $\Delta tdi$ un impulso luminoso da N a E
 causata dalla presenza della Nana Bianca di massa MWD ed esprimere la risposta in forma semplificata, cioè trascurando termini di ordine superiore nelle seguenti piccole quantità: d/|xN| $\ll1$, $d/xE\ll1$, e GMWD/(c2d) $\ll1$. Se necessario
 utilizzare la seguente formula.
 $\int$
@@ -149,18 +149,18 @@ massa della Nana Bianca. Nel seguito, assumiamo $ε\ll1$.
 Sistema stellare binario.
 Da un punto di osservazione lontano da N, si osservino gli impulsi luminosi che
 da N raggiungono E. Il percorso della luce verso E varia nel tempo a seconda
-della posizione reciproca di N e W. Il ritardo del tempo impiegato da ogni impulso per arrivare in E assume il valore massimo $\Deltatmax$ per $xN\simeq-Le$ il valore
-minimo $\Deltatmin$ per $xN\simeqL$. Calcolare $\Deltatmax -\Deltatmin$ in forma semplificata, cioè
+della posizione reciproca di N e W. Il ritardo del tempo impiegato da ogni impulso per arrivare in E assume il valore massimo $\Delta tmax$ per $xN\simeq-Le$ il valore
+minimo $\Delta tmin$ per $xN\simeq L$. Calcolare $\Delta tmax -\Delta tmin$ in forma semplificata, cioè
 trascurando termini di ordine superiore nelle seguenti piccole quantità, come
 fatto in C.2. Si assuma che gli effetti dovuti alla gravità di oggetti stellari diversi
-da W si compensino in $\Deltatmax -\Deltatmin$.
+da W si compensino in $\Delta tmax -\Delta tmin$.
 1.8pt
 C.4
 La figura seguente mostra i ritardi dei tempi di arrivo osservati in funzione della fase orbitale φper il sistema stellare binario con $L\approx6 \times$ 106 km e cos $ε\approx$
 0.99989. Stimare MWD in unità di massa solare M⊙e determinare il rapporto
 MWD/M⊙con una cifra significativa. In questo caso si può utilizzare la relazione
 approssimata GM⊙/c3 $\approx5$ μs.
-Ritardo del tempo di arrivo $\Deltatosservato$ in funzione della fase orbitale
+Ritardo del tempo di arrivo $\Delta tosservato$ in funzione della fase orbitale
 φ
 (vedi figura in C.3) per localizzare N e W sulle orbite.
 0.8pt
@@ -277,7 +277,7 @@ where M=mNAe R=R0A1/3 with R0 $\simeq1.1 \times 10-15$ m = 1.1 fm are
 the mass and radius of the nucleus respectively.
 For Bgrav = agravA5/3, determine agrav in the MeV unit with a significant figure. Then, ignoring the surface term, estimate Accon a significant figure. In the calculations, use mNc2 $\simeq939$ MeV and G= ħc/M2
 Pcome MPc2 $\simeq$
-1.22 $\times$ 1022 MeV e $ħc\simeq197$ MeV $\cdotfm$.
+1.22 $\times$ 1022 MeV e $ħc\simeq197$ MeV $\cdot fm$.
 1.5pt
 Part C. Neutron star in a binary system (6.0 points)
 Some neutron stars are pulsars that regularly emit periodic electromagnetic waves
@@ -292,7 +292,7 @@ Theory
 Q2-3
 Italian (Italy)
 C.1
-As shown in the following figure, under constant gravitational acceleration we are going to find the two levels I and II with a difference in height $\Deltah(>$ 0. Identical clocks are placed in I, II and F (free fall system) and shown respectively
+As shown in the following figure, under constant gravitational acceleration we are going to find the two levels I and II with a difference in height $\Delta h(>$ 0. Identical clocks are placed in I, II and F (free fall system) and shown respectively
 with clock-I, clock-II and clock-F.
 The setting of the mental experiment.
 Assume that an observer in solidarity with the F-watch is initially resting at the same height as the I-watch and adjust the F-watch so that its
@@ -302,7 +302,7 @@ It is at rest) passing near the clock-II at a speed of v. The time unit of the F
 The time-flow is upwards at v speed, so that the time dilation can be
 It's not going to be determined using Lorentz transformations. $Sia\DeltaτI$ the unit of time
 $\DeltaτII$ of the clock-II measured from the reference F.
-Determine $\DeltaτII$ in terms of $\DeltaτI$ in the first order function of $\Deltaφ/c2$, where $\Deltaφ= g\Deltahè$ is the difference in gravitational potential, i.e. the difference in
+Determine $\DeltaτII$ in terms of $\DeltaτI$ in the first order function of $\Deltaφ/c2$, where $\Deltaφ= g\Delta hè$ is the difference in gravitational potential, i.e. the difference in
 gravitational potential energy per unit of mass.
 1.0pt
 C.2
@@ -318,7 +318,7 @@ As shown in Fig. 1, we take the axis along the path of light from
 And we put x is equal to 0 at the point where the White dwarf
 W is the minimum distance from the path of the light. Whether xN(< 0) the xdi coordinate
 N, xE(> 0) that of E and the distance between W and the light path.
-Estimate the change in arrival time $\Deltatdi$ of a light pulse from N to E
+Estimate the change in arrival time $\Delta tdi$ of a light pulse from N to E
 causata dalla presenza della Nana Bianca di massa MWD ed esprimere la risposta in forma semplificata, cioè trascurando termini di ordine superiore nelle seguenti piccole quantità: d/|xN| $\ll1$, $d/xE\ll1$, e GMWD/(c2d) $\ll1$. If necessary
 use the following formula.
 $\int$
@@ -346,18 +346,18 @@ The white dwarf mass. In the following, we assume $ε\ll1$.
 The binary star system.
 From a distance of N, the light pulses are observed.
 From N to E. The path of light to E varies over time depending on the
-of the reciprocal position of N and W. The delay of time taken by each pulse to reach E assumes the maximum value $\Deltatmax$ for $xN\simeq-Le$ the value
-The minimum $\Deltatmin$ for $xN\simeqL$. Calculate $\Deltatmax -\Deltatmin$ in simplified form, i.e.
+of the reciprocal position of N and W. The delay of time taken by each pulse to reach E assumes the maximum value $\Delta tmax$ for $xN\simeq-Le$ the value
+The minimum $\Delta tmin$ for $xN\simeq L$. Calculate $\Delta tmax -\Delta tmin$ in simplified form, i.e.
 By disregarding higher order terms in the following small quantities, as
 made in C.2. It is assumed that the effects due to the gravity of different stellar objects
-from W to $\Deltatmax -\Deltatmin$.
+from W to $\Delta tmax -\Delta tmin$.
 1.8pt
 C.4
 The following figure shows the arrival time delays observed in relation to the orbital phase φ for the binary star system with $L\approx6 \times$ 106 km and cos $ε\approx$
 0.99989. Estimate MWD in solar mass units M and determine the ratio
 MWD/M with a significant figure. In this case, the report may be used
 approssimata GM⊙/c3 $\approx5$ μs.
-Arrival time delay $\Deltatosservato$ depending on the orbital phase
+Arrival time delay $\Delta tosservato$ depending on the orbital phase
 φ
 (see figure C.3) to locate N and W in orbits.
 0.8pt

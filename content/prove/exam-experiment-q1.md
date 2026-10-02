@@ -56,7 +56,7 @@ off, and must be switched back on by returning it to the “OFF” position. Do 
 supplied in the multimeter case.
 • (h) Electric wires [3].
 • (i) 40cm ruler.
-• (j) 9V batteries [3]. Their capacity is of the order of $300mA\cdoth$.
+• (j) 9V batteries [3]. Their capacity is of the order of $300mA\cdot h$.
 • (k) Chronometer.
 • (l) Adhesive paste. Can be used for the entire problem.
 Fig. 2. Use of sensors inside the anti-Helmholtz coils.
@@ -144,7 +144,7 @@ Bz(z) =
 μ0mm
 $2π(z-za)3$ ,
 (3)
-where za is not necessarily the geometric center of the magnet, and where μ0 = $4π10-7 H\cdotm-1$.
+where za is not necessarily the geometric center of the magnet, and where μ0 = $4π10-7 H\cdot m-1$.
 A.5
 Measure the magnetic field Bzalong the revolution axis of the free magnet, as
 a function of distance z. Draw a curve to verify the model given Eq. (3), showing
@@ -235,7 +235,7 @@ off, and must be switched back on by returning it to the OFF position. Don't use
 Supplied in the multimeter cases.
 • (h) Electrical wires [3].
 • (i) 40 cm ruler.
-• (j) 9V batteries [3]. Their capacity is of the order of $300mA\cdoth$.
+• (j) 9V batteries [3]. Their capacity is of the order of $300mA\cdot h$.
 (k) Chronometer.
 • (l) Adhesive paste. Can be used for the whole problem.
 - What? 2. Use of sensors inside the anti-Helmholtz coils.
@@ -323,7 +323,7 @@ Bz(z) =
 μ0mm
 $2π(z-za)3$ ,
 (3)
-where za is not necessarily the geometric center of the magnet, and where μ0 = $4π10-7 H\cdotm-1$.
+where za is not necessarily the geometric center of the magnet, and where μ0 = $4π10-7 H\cdot m-1$.
 A.5
 Measure the magnetic field Bzalong the revolution axis of the free magnet, as
 a function of distance z. Draw a curve to verify the model given Eq. (3) showing

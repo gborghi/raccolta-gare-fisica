@@ -1019,7 +1019,7 @@ The $X$ point of the circuit is connected to one of the $A,B,C,D,E$ points, but 
 
 <!--fig:start-->
 ![[_attachments/1liv24T/1liv24T_p7_f2.png]]
-*Resistance point with galvanometer $G$; point $X$ to be connected to $A$$E$.*
+*Resistance point with galvanometer $G$; point $X$ to be connected to $A$–$E$.*
 <!--fig:end-->
 
 <!--fig:start-->
@@ -1634,7 +1634,7 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q37.** A positive charge is evenly distributed over a thin ring of $R$ radius in the $y$$z$ plane. What graph represents the $x$ component of the electrostatic field on the $x$ axis points with $x>0$?
+**Q37.** A positive charge is evenly distributed over a thin ring of $R$ radius in the $y$–$z$ plane. What graph represents the $x$ component of the electrostatic field on the $x$ axis points with $x>0$?
 
 <!--fig:start-->
 ![[_attachments/1liv24T/1liv24T_p10_f1.png]]

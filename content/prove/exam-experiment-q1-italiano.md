@@ -130,8 +130,8 @@ Eseguire una serie di misurazioni comprese nell’intervallo di angoli $15∘\le
 Nota: per misurare δ, va meglio misurare δ/2 direttamente sul disco.
 1.0pt
 A.2
-Usando le misurazioni svolte nel punto precedente, tracciare un grafico opportuno da cui ricavare l’indice di rifrazione ne l’errore sperimentale $\Deltan$. Può servire calcolare quantità intermedie, e adoperare le colonne vuote della Tabella 1
-per queste quantità. Trovare l’indice di rifrazione ne l’errore di misura $\Deltan$.
+Usando le misurazioni svolte nel punto precedente, tracciare un grafico opportuno da cui ricavare l’indice di rifrazione ne l’errore sperimentale $\Delta n$. Può servire calcolare quantità intermedie, e adoperare le colonne vuote della Tabella 1
+per queste quantità. Trovare l’indice di rifrazione ne l’errore di misura $\Delta n$.
 1.0pt
 A.3
 Con i dati rilevati in A1, disegnare il grafico di δin funzione di α. Indicare per ogni
@@ -302,8 +302,8 @@ Perform a series of measurements within the angle range $15∘\leqα\leq$
 Note: to measure δ, it is best to measure δ/2 directly on the disk.
 1.0pt
 A.2
-Using the measurements made in the previous point, draw an appropriate graph to obtain the refractive index in the experimental error $\Deltan$. It may be necessary to calculate intermediate quantities and to use the empty columns of Table 1
-for these quantities. Find the refractive index in the measuring error $\Deltan$.
+Using the measurements made in the previous point, draw an appropriate graph to obtain the refractive index in the experimental error $\Delta n$. It may be necessary to calculate intermediate quantities and to use the empty columns of Table 1
+for these quantities. Find the refractive index in the measuring error $\Delta n$.
 1.0pt
 A.3
 Using the data from A1, draw the graph of δin function of α. Indicate for each

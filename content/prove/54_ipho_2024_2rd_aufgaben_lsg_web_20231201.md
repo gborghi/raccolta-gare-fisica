@@ -1198,14 +1198,14 @@ To determine the still-unknown mass mW of the water, the behavior of the heating
 54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 10 / 27
 at small temperatures can be examined. At the start of the heating, only little heat is given off to the
-surroundings, so that the heating power PHeiz is used almost exclusively to heat the water. In a small time $\deltat$ the water warms by a temperature $\delta\vartheta$, for which:
-PHeiz $\deltat$ = c mW $\delta\vartheta$ .
+surroundings, so that the heating power PHeiz is used almost exclusively to heat the water. In a small time $\delta t$ the water warms by a temperature $\delta\vartheta$, for which:
+PHeiz $\delta t$ = c mW $\delta\vartheta$ .
 (5.2)
 Using the given values and the slope $\delta\vartheta/\delta t \approx 0{,}50\ \text{K s}^{-1}$ read off from the graph,
 the water mass is determined from this to be
 mW = PHeiz
 c $\delta\vartheta$
-$\deltat$
+$\delta t$
 $\approx0,43$ kg .
 (5.3)
 From this, finally, for the mass of the ice cube it follows that
@@ -1331,14 +1331,14 @@ Per determinare la massa ancora sconosciuta di mW dell'acqua, il comportamento d
 54° IPhO 2024 - 2° Round Exam - Soluzione - 01.12.2023
 10 / 27
 a temperature ridotte possono essere esaminate. All'inizio del riscaldamento, solo poco calore viene dato fuori al
-La temperatura del sistema di calore è di circa 40 °C. In a small time $\deltat$ the water warms by a temperature $\delta\vartheta$, for which:
-PHeat $\deltat$ = c mW $\delta\vartheta$ .
+La temperatura del sistema di calore è di circa 40 °C. In a small time $\delta t$ the water warms by a temperature $\delta\vartheta$, for which:
+PHeat $\delta t$ = c mW $\delta\vartheta$ .
 (5.2)
 Usando i valori dati e la slope $\delta\vartheta/\delta t \approx 0{,}50\ \text{K s}^{-1}$ read off from the graph,
 il massa dell'acqua è determinato da questo
 mW = PHeat
 c $\delta\vartheta$
-$\deltat$
+$\delta t$
 $\approx0,43$ kg .
 (5.3)
 Da questo, finalmente, per la massa del cubo di ghiaccio si segue che
@@ -1463,14 +1463,14 @@ To determine the still-unknown mass mW of the water, the behavior of the heating
 The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011 of the European Parliament and of the Council [3].
 10 / 27
 at small temperatures can be examined. At the start of the heating, only little heat is given off to the
-The heating power PHeiz is used almost exclusively to heat the water. In a small time $\deltat$ the water warms by a temperature $\delta\vartheta$, for which:
-PHeiz $\deltat$ = c mW $\delta\vartheta$ .
+The heating power PHeiz is used almost exclusively to heat the water. In a small time $\delta t$ the water warms by a temperature $\delta\vartheta$, for which:
+PHeiz $\delta t$ = c mW $\delta\vartheta$ .
 (5.2)
 Using the given values and the slope $\delta\vartheta/\delta t \approx 0{,}50\ \text{K s}^{-1}$ read off from the graph,
 The water mass is determined from this to be
 mW = Pheat
 c $\delta\vartheta$
-$\deltat$
+$\delta t$
 $\approx0,43$ kg .
 (5.3)
 From this, finally, for the mass of the ice cube it follows that
@@ -1932,7 +1932,7 @@ Consider, as sketched in Figure 6, two incident, parallel light rays that strike
 and thus an intensity maximum, the optical
 path-length difference between the ray reflected directly at the
 water surface and the light ray reflected at the glass surface after
-passing through the water layer must correspond to an integer multiple of the wavelength $\lambda$ of the light. Thus, for an m $\inN$, it must hold that
+passing through the water layer must correspond to an integer multiple of the wavelength $\lambda$ of the light. Thus, for an m $\in N$, it must hold that
 m $\lambda$ = 2
 d
 cos $\beta$ n $-2$ d tan $\beta$ sin $\alpha$ .
@@ -1969,8 +1969,8 @@ n2
 .
 (7.2)
 For two consecutive intensity maxima, the associated decrease
-$\Deltad$ of the water-layer thickness must therefore satisfy
-$\Deltad$ =
+$\Delta d$ of the water-layer thickness must therefore satisfy
+$\Delta d$ =
 $\lambda$
 2 n
 q
@@ -1980,11 +1980,11 @@ n2
 For the rate of change of the water-layer thickness per unit time, this yields, with the given value
 54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 15 / 27
-$\Deltat$ = 15 minutes, finally
-$\Deltad$
-$\Deltat$ =
+$\Delta t$ = 15 minutes, finally
+$\Delta d$
+$\Delta t$ =
 $\lambda$
-2 $\Deltat$ n
+2 $\Delta t$ n
 q
 1 $-sin2 \alpha$
 n2
@@ -2059,7 +2059,7 @@ Considerate, come illustrato nella figura 6, due incidenti, raggi di luce parall
 e quindi a intensità massima, l'ottica
 La differenza tra il raggio riflessa direttamente al
 la superficie dell'acqua e il raggio di luce riflessa alla superficie vetrata dopo
-passando attraverso il strato di acqua deve corrispondere a un numero intero multiple della lunghezza d'onda $\lambda$ della luce. Quindi, per m $\inN$, deve tenere che
+passando attraverso il strato di acqua deve corrispondere a un numero intero multiple della lunghezza d'onda $\lambda$ della luce. Quindi, per m $\in N$, deve tenere che
 m $\lambda$ = 2
 d
 cos $\beta$ n $-2$ d tan $\beta$ sin $\alpha$ .
@@ -2096,8 +2096,8 @@ n2
 .
 (7.2)
 Per due intensità massime consecutive, il decrease associato
-$\Deltad$ of the water-layer thickness must therefore satisfy
-$\Deltad$ =
+$\Delta d$ of the water-layer thickness must therefore satisfy
+$\Delta d$ =
 $\lambda$
 2 n
 q
@@ -2107,11 +2107,11 @@ n2
 Per il tasso di cambiamento dello spessore del strato idrico per unità di tempo, questo rends, with the given value
 54° IPhO 2024 - 2° Round Exam - Soluzione - 01.12.2023
 15 / 27
-$\Deltat$ = 15 minuti, finally
-$\Deltad$
-$\Deltat$ =
+$\Delta t$ = 15 minuti, finally
+$\Delta d$
+$\Delta t$ =
 $\lambda$
-2 $\Deltat$ n
+2 $\Delta t$ n
 q
 1 $-sin2 \alpha$
 n2
@@ -2185,7 +2185,7 @@ Consider, as sketched in Figure 6, two incident, parallel light rays that strike
 and thus an intensity maximum, the optical
 path-length difference between the ray reflected directly at the
 water surface and the light ray reflected at the glass surface after
-passing through the water layer must correspond to an integer multiple of the wavelength $\lambda$ of the light. Thus, for an m $\inN$, it must hold that
+passing through the water layer must correspond to an integer multiple of the wavelength $\lambda$ of the light. Thus, for an m $\in N$, it must hold that
 m $\lambda$ = 2
 d
 cos $\beta$ n $-2$ d tan $\beta$ sin $\alpha$ .
@@ -2222,8 +2222,8 @@ n2
 .
 (7.2)
 For two consecutive intensity maxima, the associated decrease
-$\Deltad$ of the water-layer thickness must therefore satisfy
-$\Deltad$ =
+$\Delta d$ of the water-layer thickness must therefore satisfy
+$\Delta d$ =
 $\lambda$
 2 n
 q
@@ -2233,11 +2233,11 @@ n2
 For the rate of change of the water-layer thickness per unit time, this yields, with the given value
 The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011 of the European Parliament and of the Council [3].
 15 / 27
-$\Deltat$ = 15 minutes, finally
-$\Deltad$
-$\Deltat$ =
+$\Delta t$ = 15 minutes, finally
+$\Delta d$
+$\Delta t$ =
 $\lambda$
-2 $\Deltat$ n
+2 $\Delta t$ n
 q
 1 $-sin2 \alpha$
 n2
@@ -2393,7 +2393,7 @@ For the pulling force required just before the upper cylinder emerges from the w
 and the pulling force directly after the last cylinder is lifted above the water surface
 (F3), the following hold, with the total volume V of the initially submerged body, according to
 Archimedes' principle:
-F1 = $(\rho -\rhoW$) V g
+F1 = $(\rho -\rho W$) V g
 as well as
 F3 = $\rho$ V g .
 (8.2)
@@ -2408,20 +2408,20 @@ $\approx 1{,}2\cdot\rho_W = 1{,}2\cdot10^3\ \text{kg m}^{-3}$ .
 19 / 27
 Radius r of the cylinders
 When a part of a cylinder protrudes from the water, the water level changes,
-upon raising the cylinder by $\Deltah$, by
-$\DeltahW$ = $-$
+upon raising the cylinder by $\Delta h$, by
+$\Delta hW$ = $-$
 r 2
-R2 $-r$ 2 $\Deltah$ ,
+R2 $-r$ 2 $\Delta h$ ,
 (8.4)
 where R denotes the inner radius of the tube.
-To hold the body at the new height, an additional pulling force $\DeltaF$ must be applied
+To hold the body at the new height, an additional pulling force $\Delta F$ must be applied
 on account of the reduced buoyant force, for which
-$\DeltaF$ = $(\Deltah -\DeltahW$) $\pi$ r 2 $\rhoW$ g = $\pi \rhoW$ r 2 R2 g
+$\Delta F$ = $(\Delta h -\Delta hW$) $\pi$ r 2 $\rho W$ g = $\pi \rho W$ r 2 R2 g
 R2 $-r$ 2
-$\Deltah$ .
+$\Delta h$ .
 (8.5)
-From the graph, the change in pulling force $\DeltaF$ required per change in height
-$\Deltah$ can be read off as the slope on the linearly rising segments. We have
+From the graph, the change in pulling force $\Delta F$ required per change in height
+$\Delta h$ can be read off as the slope on the linearly rising segments. We have
 Segment 1
 $b_1 := \dfrac{F_2 - F_1}{h_2 - h_1}$
 $\approx 0{,}26\ \text{N cm}^{-1} = 26\ \text{N m}^{-1}$ ,
@@ -2436,7 +2436,7 @@ From this, using (8.5), one obtains for the cylinder radius
 r =
 s
 b R2
-b + $\pi \rhoW$ R2 g $\approx2,0$ cm .
+b + $\pi \rho W$ R2 g $\approx2,0$ cm .
 (8.8)
 Length l of the cylinders
 The force differences F2 $-F1$ and F3 $-F2$ correspond exactly to the buoyant force on one of
@@ -2444,8 +2444,8 @@ the cylinders that vanishes when it is lifted out of the water. Since the radius
 known, the length of the cylinders can be determined directly from these force differences.
 We have
 l= F2 $-F1$
-$\pi \rhoW$ r 2 g = F3 $-F2$
-$\pi \rhoW$ r 2 g $\approx17$ cm .
+$\pi \rho W$ r 2 g = F3 $-F2$
+$\pi \rho W$ r 2 g $\approx17$ cm .
 (8.9)
 54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 20 / 27
@@ -2625,7 +2625,7 @@ Per la forza di pulling necessaria appena prima che il cilindro superiore emerga
 e la forza di pulling direttamente dopo che l'ultimo cilindro è sollevato sopra la superficie dell'acqua
 (F3), the following hold, with the total volume V of the initially submerged body, according to
 Principio di Archimede:
-F1 = $(\rho -\rhoW$) V g
+F1 = $(\rho -\rho W$) V g
 e
 F3 = $\rho$ V g .
 (8.2)
@@ -2640,20 +2640,20 @@ $\approx 1{,}2\cdot\rho_W = 1{,}2\cdot10^3\ \text{kg m}^{-3}$ .
 19 / 27
 Radius r of the cylinders
 Quando una parte di un cilindro si protrude dall'acqua, il livello dell'acqua cambia,
-su risalto del cilindro by $\Deltah$, by
-$\DeltahW$ = $-$
+su risalto del cilindro by $\Delta h$, by
+$\Delta hW$ = $-$
 r 2
-R2 $-r$ 2 $\Deltah$ ,
+R2 $-r$ 2 $\Delta h$ ,
 (8.4)
 dove R indica il raggio interno del tubo.
-Per tenere il corpo alla nuova altezza, deve essere applicata un'ulteriore forza di pulling $\DeltaF$
+Per tenere il corpo alla nuova altezza, deve essere applicata un'ulteriore forza di pulling $\Delta F$
 a causa della forza buoyante ridotta, per la quale
-$\DeltaF$ = $(\Deltah -\DeltahW$) $\pi$ r 2 $\rhoW$ g = $\pi \rhoW$ r 2 R2 g
+$\Delta F$ = $(\Delta h -\Delta hW$) $\pi$ r 2 $\rho W$ g = $\pi \rho W$ r 2 R2 g
 R2 $-r$ 2
-$\Deltah$ .
+$\Delta h$ .
 (8.5)
-Dal grafico, il cambiamento di forza di pull $\DeltaF$ richiesto per cambiamento di altezza
-$\Deltah$ può essere letto come la slope on the linearly rising segments. Abbiamo
+Dal grafico, il cambiamento di forza di pull $\Delta F$ richiesto per cambiamento di altezza
+$\Delta h$ può essere letto come la slope on the linearly rising segments. Abbiamo
 Segmento 1
 $b_1 := \dfrac{F_2 - F_1}{h_2 - h_1}$
 $\approx 0{,}26\ \text{N cm}^{-1} = 26\ \text{N m}^{-1}$ ,
@@ -2668,7 +2668,7 @@ From this, using (8.5), one obtains for the cylinder radius
 r =
 s
 b R2
-b + $\pi \rhoW$ R2 g $\approx2,0$ cm .
+b + $\pi \rho W$ R2 g $\approx2,0$ cm .
 (8.8)
 Lunghezza l dei cilindri
 The force differences F2 $-F1$ and F3 $-F2$ correspond exactly to the buoyant force on one of
@@ -2676,8 +2676,8 @@ I cilindri che scompaiono quando vengono sollevati dall'acqua. Dal momento che i
 Con queste differenze di forza, la lunghezza dei cilindri può essere determinata direttamente.
 Abbiamo
 l= F2 $-F1$
-$\pi \rhoW$ r 2 g = F3 $-F2$
-$\pi \rhoW$ r 2 g $\approx17$ cm .
+$\pi \rho W$ r 2 g = F3 $-F2$
+$\pi \rho W$ r 2 g $\approx17$ cm .
 (8.9)
 54° IPhO 2024 - 2° Round Exam - Soluzione - 01.12.2023
 20 / 27
@@ -2856,7 +2856,7 @@ For the pulling force required just before the upper cylinder emerges from the w
 and the pulling force directly after the last cylinder is lifted above the water surface
 (F3), the following hold, with the total volume V of the initially submerged body, according to
 Archimedes' principle:
-F1 = $(\rho -\rhoW$) V g
+F1 = $(\rho -\rho W$) V g
 as well as
 F3 = $\rho$ V g .
 (8.2)
@@ -2871,20 +2871,20 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 19 / 27
 Radius r of the cylinders
 When a part of a cylinder protrudes from the water, the water level changes,
-upon raising the cylinder by $\Deltah$, by
-$\DeltahW$ = $-$
+upon raising the cylinder by $\Delta h$, by
+$\Delta hW$ = $-$
 r 2
-R2 $-r$ 2 $\Deltah$ ,
+R2 $-r$ 2 $\Delta h$ ,
 (8.4)
 where R denotes the inner radius of the tube.
-To hold the body at the new height, an additional pulling force $\DeltaF$ must be applied
+To hold the body at the new height, an additional pulling force $\Delta F$ must be applied
 on account of the reduced buoyant force, for which
-$\DeltaF$ = $(\Deltah -\DeltahW$) $\pi$ r 2 $\rhoW$ g = $\pi \rhoW$ r 2 R2 g
+$\Delta F$ = $(\Delta h -\Delta hW$) $\pi$ r 2 $\rho W$ g = $\pi \rho W$ r 2 R2 g
 R2 $-r$ 2
-$\Deltah$ .
+$\Delta h$ .
 (8.5)
-From the graph, the change in pulling force $\DeltaF$ required per change in height
-$\Deltah$ can be read off as the slope on the linearly rising segments. We have
+From the graph, the change in pulling force $\Delta F$ required per change in height
+$\Delta h$ can be read off as the slope on the linearly rising segments. We have
 The following is the list of the following:
 $b_1 := \dfrac{F_2 - F_1}{h_2 - h_1}$
 $\approx 0{,}26\ \text{N cm}^{-1} = 26\ \text{N m}^{-1}$ ,
@@ -2899,7 +2899,7 @@ From this, using (8.5), one obtains for the cylinder radius
 r =
 s
 b R2
-b + $\pi \rhoW$ R2 g $\approx2,0$ cm .
+b + $\pi \rho W$ R2 g $\approx2,0$ cm .
 (8.8)
 Length l of the cylinders
 The force differences F2 $-F1$ and F3 $-F2$ correspond exactly to the buoyant force on one of
@@ -2907,8 +2907,8 @@ The cylinders that vanish when it's lifted out of the water. Since the radius of
 The length of the cylinders can be determined directly from these force differences.
 We have
 l= F2 $-F1$
-$\pi \rhoW$ r 2 g = F3 $-F2$
-$\pi \rhoW$ r 2 g $\approx17$ cm .
+$\pi \rho W$ r 2 g = F3 $-F2$
+$\pi \rho W$ r 2 g $\approx17$ cm .
 (8.9)
 The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011 of the European Parliament and of the Council [3].
 20 / 27
@@ -3045,7 +3045,7 @@ of the ambient air.
 The air inside the balloon is heated to a temperature $T_B = 100\ ^\circ\text{C} \approx 373\ \text{K}$.
 Because of the opening at the bottom of the balloon, however, the pressure inside is equal to the
 atmospheric pressure p0. Therefore, for the mass mB of the air in the balloon, using (9.2), we have
-mB = $\rhoB$ VB = $\rho0$
+mB = $\rho B$ VB = $\rho0$
 T0
 TB
 $\approx 3{,}5\cdot10^3\ \text{kg}$ .
@@ -3056,7 +3056,7 @@ The upward-directed total force F on the balloon is now obtained as the differen
 the buoyancy force and the downward-directed weight of the air-filled balloon.
 The buoyancy force here equals the weight of the displaced ambient air at
 temperature T0 and density $\rho0$. This gives
-F = $(\rho0 -\rhoB$) VB g $-mLast$ g =
+F = $(\rho0 -\rho B$) VB g $-mLast$ g =
 
 $\rho0$ VB
 
@@ -3124,25 +3124,25 @@ aUsing a linear dependence of the air pressure on the height is in this case als
 acceptable approximation, which leads to a height of about 460 m.
 9.c)
 Calculations and explanations
-Per second, without reheating, the balloon loses $\DeltaF$ = 10 N of buoyancy force due to the
-cooling of the air in the balloon. This corresponds to a temperature change $\DeltaT$ of the air in the
+Per second, without reheating, the balloon loses $\Delta F$ = 10 N of buoyancy force due to the
+cooling of the air in the balloon. This corresponds to a temperature change $\Delta T$ of the air in the
 balloon, which is obtained by considering the difference of the buoyancy forces:
-$\DeltaF$ = $\rho0$ p VB T0 g
+$\Delta F$ = $\rho0$ p VB T0 g
 p0
 
 1
-TB $-\DeltaT -1$
+TB $-\Delta T -1$
 TB
 
 .
 (9.8)
 From this, by rearranging, the temperature change per second is obtained as
-$\DeltaT$ = TB
+$\Delta T$ = TB
 
 1 $-$
 1
 1 +
-$\DeltaF$ p0 TB
+$\Delta F$ p0 TB
 $\rho0$ p VB T0 g
 !
 $\approx 3{,}1\cdot10^{-4}\cdot T_B \approx 0{,}11\ \text{K}$ .
@@ -3153,15 +3153,15 @@ combustion is used to heat the air in the balloon, the
 time t for which the fuel supply of mass mPropan is sufficient for heating can be estimated using the following
 energy balance:
 mB cLuft
-$\DeltaT$
-$\Deltat$ t = mPropan HPropan .
+$\Delta T$
+$\Delta t$ t = mPropan HPropan .
 (9.10)
 Here $\Delta t = 1\ \text{s}$ and $H_\text{Propan} = 50\ \text{MJ kg}^{-1}$ denotes the calorific value of the propane gas.
 From equation (9.10) one finally obtains for the time t for which the balloon can maintain
 the height
 t = mPropan HPropan
-mB cLuft $\DeltaT$
-$\Deltat$
+mB cLuft $\Delta T$
+$\Delta t$
 $\approx 9{,}9\cdot10^3\ \text{s} \approx 2{,}7\ \text{h}$ .
 (9.11)
 This value is certainly estimated too optimistically, since not all of the energy from
@@ -3269,7 +3269,7 @@ dell'aria ambientale.
 L'aria all'interno del pallone è riscaldata a una temperatura $T_B = 100\ ^\circ\text{C} \approx 373\ \text{K}$.
 A causa dell'apertura al fondo del palloncino, tuttavia, la pressione all'interno è pari al
 la pressione atmosferica p0. Pertanto, per la massa mB dell'aria nel pallone, usando (9.2), abbiamo
-mB = $\rhoB$ VB = $\rho0$
+mB = $\rho B$ VB = $\rho0$
 T0
 TB
 $\approx 3{,}5\cdot10^3\ \text{kg}$ .
@@ -3280,7 +3280,7 @@ La forza totale F sul pallone è ora ottenuta come la differenza tra
 la forza di buoyance e il peso diretto verso il basso del pallone aereo.
 La forza di buoyance qui equivale al peso dell'aria ambientale dislocata
 temperatura T0 e densità $\rho0$. This gives
-F = $(\rho0 -\rhoB$) VB g $-mLast$ g =
+F = $(\rho0 -\rho B$) VB g $-mLast$ g =
 
 $\rho0$ VB
 
@@ -3348,25 +3348,25 @@ AUsing a linear dependence of the air pressure on the height è in questo caso a
 approssimazione accettabile, che porta ad un'altezza di circa 460 m.
 9.c)
 Calcoli e spiegazioni
-Per secondo, senza ri-reating, il pallone perde $\DeltaF$ = 10 N di forza di buoyance a causa della
-raffreddamento dell'aria nel pallone. Questo corrisponde a un cambiamento di temperatura $\DeltaT$ dell'aria nel
+Per secondo, senza ri-reating, il pallone perde $\Delta F$ = 10 N di forza di buoyance a causa della
+raffreddamento dell'aria nel pallone. Questo corrisponde a un cambiamento di temperatura $\Delta T$ dell'aria nel
 balloon, which is obtained by considering the difference of the buoyancy forces:
-$\DeltaF$ = $\rho0$ p VB T0 g
+$\Delta F$ = $\rho0$ p VB T0 g
 p0
 
 1
-TB $-\DeltaT -1$
+TB $-\Delta T -1$
 TB
 
 .
 (9.8)
 Da questo, mediante il rearranging, il cambiamento di temperatura al secondo è ottenuto come
-$\DeltaT$ = TB
+$\Delta T$ = TB
 
 1 $-$
 1
 1 +
-$\DeltaF$ p0 TB
+$\Delta F$ p0 TB
 $\rho0$ p VB T0 g
 !
 $\approx 3{,}1\cdot10^{-4}\cdot T_B \approx 0{,}11\ \text{K}$ .
@@ -3377,15 +3377,15 @@ la combustione è usata per riscaldare l'aria nel pallone,
 time t for which the fuel supply of mass mPropan is sufficient for heating can be estimated using the following
 energia:
 C. C. Air
-$\DeltaT$
-$\Deltat$ t = mPropan HPropan .
+$\Delta T$
+$\Delta t$ t = mPropan HPropan .
 (9.10)
 Qui $\Delta t = 1\ \text{s}$ e $H_\text{Propan} = 50\ \text{MJ kg}^{-1}$ denotano il valore calorico del gas propano.
 Dal punto di vista della formula (9.10) uno finalmente ottiene per il tempo t per il quale il pallone può mantenere
 il livello
 t = mPropan HPropan
-M.c.a. $\DeltaT$
-$\Deltat$
+M.c.a. $\Delta T$
+$\Delta t$
 $\approx 9{,}9\cdot10^3\ \text{s} \approx 2{,}7\ \text{h}$ .
 (9.11)
 Questo valore è certamente stimato troppo ottimista, poiché non tutte le energie da
@@ -3492,7 +3492,7 @@ of the ambient air.
 The air inside the balloon is heated to a temperature $T_B = 100\ ^\circ\text{C} \approx 373\ \text{K}$.
 Because of the opening at the bottom of the balloon, however, the pressure inside is equal to the
 atmospheric pressure p0. Therefore, for the mass mB of the air in the balloon, using (9.2), we have
-mB = $\rhoB$ VB = $\rho0$
+mB = $\rho B$ VB = $\rho0$
 T0
 TB
 $\approx 3{,}5\cdot10^3\ \text{kg}$ .
@@ -3503,7 +3503,7 @@ The upward-directed total force F on the balloon is now obtained as the differen
 The buoyancy force and the downward-directed weight of the air-filled balloon.
 The buoyancy force here equals the weight of the displaced ambient air at
 temperature T0 and density $\rho0$. This gives
-F = $(\rho0 -\rhoB$) VB g $-mLast$ g =
+F = $(\rho0 -\rho B$) VB g $-mLast$ g =
 
 $\rho0$ VB
 
@@ -3571,25 +3571,25 @@ Using a linear dependence of the air pressure on the height is also in this case
 acceptable approximation, which leads to a height of about 460 m.
 9.c)
 Calculations and explanations
-Per second, without reheating, the balloon loses $\DeltaF$ = 10 N of buoyancy force due to the
-cooling of the air in the balloon. This corresponds to a temperature change $\DeltaT$ of the air in the
+Per second, without reheating, the balloon loses $\Delta F$ = 10 N of buoyancy force due to the
+cooling of the air in the balloon. This corresponds to a temperature change $\Delta T$ of the air in the
 balloon, which is obtained by considering the difference of the buoyancy forces:
-$\DeltaF$ = $\rho0$ p VB T0 g
+$\Delta F$ = $\rho0$ p VB T0 g
 p0
 
 1
-TB $-\DeltaT -1$
+TB $-\Delta T -1$
 TB
 
 .
 (9.8)
 From this, by rearranging, the temperature change per second is obtained as
-$\DeltaT$ = TB
+$\Delta T$ = TB
 
 1 $-$
 1
 1 +
-$\DeltaF$ p0 TB
+$\Delta F$ p0 TB
 $\rho0$ p VB T0 g
 !
 $\approx 3{,}1\cdot10^{-4}\cdot T_B \approx 0{,}11\ \text{K}$ .
@@ -3600,15 +3600,15 @@ combustion is used to heat the air in the balloon, the
 time t for which the fuel supply of mass mPropan is sufficient for heating can be estimated using the following
 energy balance:
 The air
-$\DeltaT$
-$\Deltat$ t = mPropan HPropan .
+$\Delta T$
+$\Delta t$ t = mPropan HPropan .
 (9.10)
 Here $\Delta t = 1\ \text{s}$ and $H_\text{Propan} = 50\ \text{MJ kg}^{-1}$ denotes the calorific value of the propane gas.
 From equation (9.10) one finally obtains for the time t for which the balloon can maintain
 the height
 The following table shows the results of the calculation of the risk of the product:
-mB cLuft $\DeltaT$
-$\Deltat$
+mB cLuft $\Delta T$
+$\Delta t$
 $\approx 9{,}9\cdot10^3\ \text{s} \approx 2{,}7\ \text{h}$ .
 (9.11)
 This value is certainly estimated too optimistically, since not all of the energy from the
@@ -3796,7 +3796,7 @@ rmax =
   ̃r 2/r0
 if r0 <  ̃r;
 r0
-if r0 $\geq ̃r$.
+if r0 $\tilde{\geq}r$.
 .
 (10.8)
 Marking scheme - Approach or Repel?
@@ -3974,7 +3974,7 @@ rmax =
   ̃r 2/r0
 if r0 <  ̃r;
 r0
-if r0 $\geq ̃r$.
+if r0 $\tilde{\geq}r$.
 .
 (10.8)
 Schema di marcatura - approccio o respiro?
@@ -4151,7 +4151,7 @@ Rmax =
   ̃r 2/r0
 if r0 <  ̃r;
 r0
-if r0 $\geq ̃r$.
+if r0 $\tilde{\geq}r$.
 .
 (10.8)
 Marking scheme - approach or repel?

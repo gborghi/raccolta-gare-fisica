@@ -1183,13 +1183,13 @@ The gap is filled correctly with the value contained in the option:
 
 
 
-Um ferro elétrico de potência igual a $1\ \text{kW}$, quando ligado por uma hora, consome energia elétrica cujo custo equivale a $\text{R}\$\ 0{,}40$. Um chuveiro elétrico cuja potência é de $6500\ \text{W}$, fica ligado durante $15\ \text{min}$ para o banho de cada um dos quatro moradores de uma casa, todos os dias, durante um mês de trinta dias. O gasto de energia elétrica dessa casa, apenas com o funcionamento do chuveiro, é igual a:
+Um ferro elétrico de potência igual a $1\ \text{kW}$, quando ligado por uma hora, consome energia elétrica cujo custo equivale a $\text{R\textdollar}\ 0{,}40$. Um chuveiro elétrico cuja potência é de $6500\ \text{W}$, fica ligado durante $15\ \text{min}$ para o banho de cada um dos quatro moradores de uma casa, todos os dias, durante um mês de trinta dias. O gasto de energia elétrica dessa casa, apenas com o funcionamento do chuveiro, é igual a:
 
-- **A.** $\text{R}\$\ 19{,}50$
-- **B.** $\text{R}\$\ 39{,}00$
-- **C.** $\text{R}\$\ 78{,}00$
-- **D.** $\text{R}\$\ 58{,}50$
-- **E.** $\text{R}\$\ 97{,}50$
+- **A.** $\text{R\textdollar}\ 19{,}50$
+- **B.** $\text{R\textdollar}\ 39{,}00$
+- **C.** $\text{R\textdollar}\ 78{,}00$
+- **D.** $\text{R\textdollar}\ 58{,}50$
+- **E.** $\text{R\textdollar}\ 97{,}50$
 
 **Topic:** [[Conservation of Energy]], [[Electromagnetism]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
@@ -1200,13 +1200,13 @@ Um ferro elétrico de potência igual a $1\ \text{kW}$, quando ligado por uma ho
 
 <div class="qlang-split" data-lang="it"></div>
 
-Un ferro da stiro elettrico di potenza pari a $1\ \text{kW}$, quando è acceso per un'ora, consuma energia elettrica il cui costo equivale a $\text{R}\$\ 0{,}40$. Una doccia elettrica la cui potenza è di $6500\ \text{W}$ rimane accesa per $15\ \text{min}$ per il bagno di ciascuno dei quattro abitanti di una casa, tutti i giorni, per un mese di trenta giorni. La spesa di energia elettrica di questa casa, solo per il funzionamento della doccia, è uguale a:
+Un ferro da stiro elettrico di potenza pari a $1\ \text{kW}$, quando è acceso per un'ora, consuma energia elettrica il cui costo equivale a $\text{R\textdollar}\ 0{,}40$. Una doccia elettrica la cui potenza è di $6500\ \text{W}$ rimane accesa per $15\ \text{min}$ per il bagno di ciascuno dei quattro abitanti di una casa, tutti i giorni, per un mese di trenta giorni. La spesa di energia elettrica di questa casa, solo per il funzionamento della doccia, è uguale a:
 
-- **A.** $\text{R}\$\ 19{,}50$
-- **B.** $\text{R}\$\ 39{,}00$
-- **C.** $\text{R}\$\ 78{,}00$
-- **D.** $\text{R}\$\ 58{,}50$
-- **E.** $\text{R}\$\ 97{,}50$
+- **A.** $\text{R\textdollar}\ 19{,}50$
+- **B.** $\text{R\textdollar}\ 39{,}00$
+- **C.** $\text{R\textdollar}\ 78{,}00$
+- **D.** $\text{R\textdollar}\ 58{,}50$
+- **E.** $\text{R\textdollar}\ 97{,}50$
 
 **Topic:** [[Conservation of Energy]], [[Electromagnetism]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
@@ -1216,13 +1216,13 @@ Un ferro da stiro elettrico di potenza pari a $1\ \text{kW}$, quando è acceso p
 
 <div class="qlang-split" data-lang="en"></div>
 
-An electric iron with power equal to $1\ \text{kW}$, when turned on for one hour, consumes electrical energy whose cost equals $\text{R}\$\ 0{,}40$. An electric shower whose power is $6500\ \text{W}$ stays on for $15\ \text{min}$ for the bath of each of the four residents of a house, every day, for a month of thirty days. The electrical energy expenditure of this house, for the operation of the shower alone, is equal to:
+An electric iron with power equal to $1\ \text{kW}$, when turned on for one hour, consumes electrical energy whose cost equals $\text{R\textdollar}\ 0{,}40$. An electric shower whose power is $6500\ \text{W}$ stays on for $15\ \text{min}$ for the bath of each of the four residents of a house, every day, for a month of thirty days. The electrical energy expenditure of this house, for the operation of the shower alone, is equal to:
 
-- **A.** $\text{R}\$\ 19{,}50$
-- **B.** $\text{R}\$\ 39{,}00$
-- **C.** $\text{R}\$\ 78{,}00$
-- **D.** $\text{R}\$\ 58{,}50$
-- **E.** $\text{R}\$\ 97{,}50$
+- **A.** $\text{R\textdollar}\ 19{,}50$
+- **B.** $\text{R\textdollar}\ 39{,}00$
+- **C.** $\text{R\textdollar}\ 78{,}00$
+- **D.** $\text{R\textdollar}\ 58{,}50$
+- **E.** $\text{R\textdollar}\ 97{,}50$
 
 **Topic:** [[Conservation of Energy]], [[Electromagnetism]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]

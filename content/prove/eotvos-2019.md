@@ -22,7 +22,7 @@ tags:
 1. An easily moving piston initially divides a thermally insulated horizontal axis cylinder into two parts of equal volume,
 V0. In both parts of the cylinder, there exists an ideal gas with pressure p0. The cylinder’s initial temperature is 2T0
 in left-hand section of the piston and T0 in the right-hand section of the piston. The piston is moderately conductive
-and it’s heat parameter is characterized by $\alpha$, i.e in the case of a temperature difference $\DeltaT$, a heat flux $\alpha\DeltaT$ is
+and it’s heat parameter is characterized by $\alpha$, i.e in the case of a temperature difference $\Delta T$, a heat flux $\alpha\Delta T$ is
 flowing through the cylinder per unit time.
 - **A.** What will be the volume, temperature, and pressure in each section after a long period of time?
 - **B.** Give as a function of time, the volume of the gases V1(t) and V2(t) in each section!
@@ -39,7 +39,7 @@ flowing through the cylinder per unit time.
 1. Un pistone facilmente mobile divide inizialmente un cilindro orizzontale a asse termicamente isolato in due parti di volume uguale,
 V0. In entrambe le parti del cilindro esiste un gas ideale a pressione p0. La temperatura iniziale del cilindro è di 2T0
 nella sezione sinistra del pistone e T0 nella sezione destra del pistone. Il pistone è moderatamente conduttivo
-e il suo parametro di calore è caratterizzato da $\alpha$, cioè nel caso di una differenza di temperatura $\DeltaT$, un flusso di calore $\alpha\DeltaT$ è
+e il suo parametro di calore è caratterizzato da $\alpha$, cioè nel caso di una differenza di temperatura $\Delta T$, un flusso di calore $\alpha\Delta T$ è
 fluire attraverso il cilindro per unità di tempo.
 - **A.** Qual sarà il volume, la temperatura e la pressione in ciascuna sezione dopo un lungo periodo di tempo?
 - **B.** Indicare come funzione del tempo il volume dei gas V1(t) e V2(t) in ciascuna sezione!
@@ -96,14 +96,14 @@ x-axis and one end is at the origin.
 (a) If the end of the rope at the origin is moved towards the positive y-direction perpendicular to the x-axis with
 a harmonic oscillation of amplitude A and frequency f, transverse waves are generated in the rope which
 propogate at a speed c (depending on the mass per unit length and tension in the rope). The amplitude of
-the waves are small, that is, A $\llc/f$. Give the deflection y(x, t) of the point of the rope with coordinate x at
+the waves are small, that is, A $\ll c/f$. Give the deflection y(x, t) of the point of the rope with coordinate x at
 time t!
 - **B.** What is the average power required to move the end of the rope?
 - **C.** Now the end of the rope at the origin can move freely in the y direction. It’s movement is inhibited by the force
-$-\gammav(t$) which is proportional to the speed v(t) of the end of the rope. On the rope, a sine wave of amplitude
+$-\gamma v(t$) which is proportional to the speed v(t) of the end of the rope. On the rope, a sine wave of amplitude
 A reaches the origin. We find that the wave is partially or possibly completely reflected as a result of which a
 sine wave of amplitude B moving away from the origin is also formed.
-What is the amplitude of the reflected wave? Enter the B/A ratio! Consider the cases $\gamma \to\inftyand \gamma \to0$ (very
+What is the amplitude of the reflected wave? Enter the B/A ratio! Consider the cases $\gamma \to\infty and \gamma \to0$ (very
 strong and very weak attenuation). Is there a damping factor $\gamma$ at which no wave is reflected from the end of
 the rope at all?
 1
@@ -122,14 +122,14 @@ L'asse x e una estremità è all'origine.
 (a) Se la fine della corda all'origine è spostata verso la direzione positiva y perpendicolare all'asse x con
 un'oscillazione armonica di amplitudine A e frequenza f, onde trasversali sono generate nella corda che
 Propogare a velocità c (a seconda della massa per unità di lunghezza e tensione della corda). L'ampiezza di
-le onde sono piccole, cioè A $\llc/f$. Indicare la deviazione y(x, t) del punto della corda con la coordinata x a
+le onde sono piccole, cioè A $\ll c/f$. Indicare la deviazione y(x, t) del punto della corda con la coordinata x a
 È ora di andare!
 - **B.** Qual è la potenza media necessaria per spostare l'estremità della corda?
 - **C.** Ora la fine della corda all'origine può muoversi liberamente nella direzione y. Il suo movimento è inibito dalla forza
-$-\gammav(t$) proporzionale alla velocità v(t) della fine della corda. Sulla corda, un'onda sinusa di amplitudine
+$-\gamma v(t$) proporzionale alla velocità v(t) della fine della corda. Sulla corda, un'onda sinusa di amplitudine
 A raggiunge l'origine. Scopriamo che l'onda è parzialmente o forse completamente riflessa, il che ha causato un
 Si forma anche un'onda sinusa di amplitudine B che si allontana dall'origine.
-Qual è l'ampiezza dell'onda riflessa? Inserisci il rapporto B/A! Considerate i casi $\gamma \to\inftyand \gamma \to0$ (molto
+Qual è l'ampiezza dell'onda riflessa? Inserisci il rapporto B/A! Considerate i casi $\gamma \to\infty and \gamma \to0$ (molto
 - una forte e molto debole attenuazione). Esiste un fattore di ammortizzazione $\gamma$ al quale non si riflette un'onda dall'inizio del ciclo di
 - La corda?
 1

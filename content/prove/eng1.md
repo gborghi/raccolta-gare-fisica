@@ -257,7 +257,7 @@ It can be assumed that the interaction force is central, i.e. it is directed
 along the line connecting the centers of the two beads. The magnitude of that
 force depends on the distance between the centers of the beads according to the
 law
-$\gammar$
+$\gamma r$
 C
 F =
  .
@@ -354,7 +354,7 @@ Si può presumere che la forza di interazione sia centrale, cioè è diretto
 lungo la linea che collega i centri delle due perle. L'entità di questo
 La forza dipende dalla distanza tra i centri delle perle secondo il
 Legge
-$\gammar$
+$\gamma r$
 C
 F =
  .

@@ -239,7 +239,7 @@ A2-11
 Italiano (Italy)
 C.1 (0.5 pt)
 
-In ognuno dei casi sotto, utilizzare uno dei simboli per identificare la variazione: $\uparrowaumenta$; $\downarrow$
+In ognuno dei casi sotto, utilizzare uno dei simboli per identificare la variazione: $\uparrow aumenta$; $\downarrow$
 diminuisce; ⟷non varia
 
 Quando RCaumenta, F:
@@ -511,7 +511,7 @@ A2-11
 Italian (Italy)
 C.1 (0.5 pt)
 
-In each of the following cases, use one of the symbols to identify the variation: $\uparrowaumenta$; $\downarrow$
+In each of the following cases, use one of the symbols to identify the variation: $\uparrow aumenta$; $\downarrow$
 decreases;  does not change
 
 When R sums up, F:

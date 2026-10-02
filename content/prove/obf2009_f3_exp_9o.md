@@ -79,8 +79,8 @@ $$\frac{C}{D} = \pi$$
 
 ### Materiale sperimentale disponibile
 
-- 2 righe di carta di $0$$25\ \text{cm}$;
-- 2 righe di carta di $25$$50\ \text{cm}$;
+- 2 righe di carta di $0$–$25\ \text{cm}$;
+- 2 righe di carta di $25$–$50\ \text{cm}$;
 - una foglia di carta con le circonferenze da togliere dal percorso sperimentale;
 - Fita crepe disponibile nella sala di esperimenti.
 
@@ -90,7 +90,7 @@ $$\frac{C}{D} = \pi$$
 
 Messa la foglia sul tavolo con la cinta crepe in modo da facilitare la procedura sperimentale successiva.
 
-**3.** Prendi una delle righe di carta di $0$$25\ \text{cm}$ e incolla le dita per ottenere una curvatura nella righe di carta, facilitando la misurazione.
+**3.** Prendi una delle righe di carta di $0$–$25\ \text{cm}$ e incolla le dita per ottenere una curvatura nella righe di carta, facilitando la misurazione.
 
 **4.** Misura con la regola la lunghezza $C$ della circonferenza minore (circonferenza 01). Per le misure, fai le circonferenze con la regola, adattandole gradualmente alla dimensione della circonferenza sul carta. Alla fine della misurazione, segna sul regolare il valore verificato. eseguire 3 misurazioni e annotare il risultato di ciascuna delle stesse nel Registro dei dati sperimentali I**:
 
@@ -134,8 +134,8 @@ $$\frac{C}{D} = \pi$$
 
 Experimental material available
 
-- 2 reams of $0$$25\ \text{cm}$ paper;
-- 2 reams of $25$$50\ \text{cm}$ paper;
+- 2 reams of $0$–$25\ \text{cm}$ paper;
+- 2 reams of $25$–$50\ \text{cm}$ paper;
 - a sheet of paper with circles to be removed from the experimental roadmap;
 - Crack pie is available in the experiment room.
 
@@ -145,7 +145,7 @@ Experimental material available
 
 **2.** Fasten the sheet over the table with the crepe tape in a way that facilitates the experimental procedure to follow.
 
-**3.** Take one of the paper straws of $0$$25\ \text{cm}$ and wrap it around your fingers to curve the paper straw, making it easy to measure.
+**3.** Take one of the paper straws of $0$–$25\ \text{cm}$ and wrap it around your fingers to curve the paper straw, making it easy to measure.
 
 **4.** Measure with the rule the length $C$ of the smallest circumference (circumference 01). For measurements, make circles with the rule, adjusting them gradually to the size of the circle on paper. At the end of the measurement, mark the verified value on the rule. Make 3 measurements and note the result of each in the **Experimental Data Registry I**:
 

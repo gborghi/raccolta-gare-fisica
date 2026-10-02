@@ -7,6 +7,16 @@
 //  - windowed page numbers
 // Concept pages ship tiny HTML and load fast.
 
+import {
+  makeRowMatcher,
+  loadSynonyms,
+  loadSearchMeta,
+  getSearchMeta,
+  queryNeedsMeta,
+  type RowMatcher,
+  type RowFields,
+} from "./searchBoolean"
+
 interface Item { h: string; l: string; s: string; f?: string; c?: string; lv?: string; y?: string }
 interface Row extends Item { gara: string; probTxt: string; probNum: number }
 
@@ -78,6 +88,26 @@ async function renderOne(el: HTMLElement, prefix: string) {
   let perPage = getPerPage()
   let page = 0
   let query = ""
+  // boolean / campo:valore / synonyms (searchBoolean.ts): plain queries keep the
+  // original substring test, plus synonym-only matches
+  let matcher: RowMatcher | null = null
+  let needsMeta = false
+  const refreshMatcher = () => {
+    matcher = makeRowMatcher(search.value)
+    needsMeta = queryNeedsMeta(search.value)
+    if (needsMeta && !getSearchMeta()) {
+      void loadSearchMeta(prefix).then((m) => {
+        if (m) {
+          matcher = makeRowMatcher(search.value)
+          render()
+        }
+      })
+    }
+  }
+  const fieldsOf = (r: Row): RowFields | undefined => {
+    if (!needsMeta) return undefined
+    return { ...(getSearchMeta()?.fieldsOf(r.h) || {}), country: r.c, level: r.lv, year: r.y, competition: r.gara }
+  }
   let sortCol: SortCol = ""
   let sortDir: 1 | -1 = 1
   let mode: "table" | "content" = "table"
@@ -87,6 +117,13 @@ async function renderOne(el: HTMLElement, prefix: string) {
   search.type = "search"
   search.className = "paged-search"
   search.setAttribute("aria-label", "Cerca in questo elenco")
+  search.title = 'Operatori: AND, OR, NOT, -parola, "frase", ( ), campo:valore (es. nazione:Japan, anno:2019). Sinonimi in più lingue inclusi.'
+  void loadSynonyms(prefix).then((ok) => {
+    if (ok && search.value.trim()) {
+      refreshMatcher()
+      render()
+    }
+  })
   const setPlaceholder = () => {
     search.placeholder =
       mode === "content"
@@ -158,6 +195,7 @@ async function renderOne(el: HTMLElement, prefix: string) {
     clearTimeout(debounce)
     debounce = setTimeout(() => {
       query = search.value.trim().toLowerCase()
+      refreshMatcher()
       page = 0
       render()
     }, 120)
@@ -165,16 +203,18 @@ async function renderOne(el: HTMLElement, prefix: string) {
 
   function filtered(): Row[] {
     if (!query) return rows
+    const m = matcher
+    if (!m) return rows
     if (mode === "content") {
       return rows.filter((r) => {
         // SPA: kwIndex is now keyed by the full fragment href (prove/<stem>#<atomId>)
         // for atom targets -- do NOT strip the anchor, or the lookup misses.
         const kw = kwCache?.[r.h]
-        return kw ? kw.includes(query) : false
+        return kw ? m(kw, fieldsOf(r)) : needsMeta ? m("", fieldsOf(r)) : false
       })
     }
     return rows.filter((r) =>
-      (r.gara + " " + r.probTxt + " " + (r.s || "") + " " + (r.c || "") + " " + (r.lv || "") + " " + (r.y || "")).toLowerCase().includes(query),
+      m(r.gara + " " + r.probTxt + " " + (r.s || "") + " " + (r.c || "") + " " + (r.lv || "") + " " + (r.y || ""), fieldsOf(r)),
     )
   }
 
@@ -284,7 +324,11 @@ async function init() {
   )
   if (!els.length) return
   const slug = document.body.dataset.slug || ""
-  const prefix = "../".repeat((slug.match(/\//g) || []).length)
+  // absolute site root from the runtime base path (renderPage BASEPATH_RUNTIME, kept across
+  // SPA navigations): a slug-depth "../" prefix breaks when the SPA fires "nav" with the
+  // previous page's slug/URL depth (e.g. home -> /prove/ fetched /prove/static/...)
+  const bp = document.body.dataset.basepath
+  const prefix = bp !== undefined ? bp + "/" : "../".repeat((slug.match(/\//g) || []).length)
   for (const el of els) {
     el.dataset.rendered = "1"
     await renderOne(el, prefix)

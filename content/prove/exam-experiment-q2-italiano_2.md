@@ -33,7 +33,7 @@ che di solito non sono noti. Di conseguenza in questo esperimento studieremo la 
 TJ:
 ULED = function(ILED, TJ).
 La resistenza termica tra il semiconduttore del LED e il PCB è calcolata in questo modo (per valori differenti della corrente (ILED)):
-$\DeltaT$
+$\Delta T$
 P
 = (TJ $-TPCB$)
 P
@@ -41,7 +41,7 @@ P
 Attenzione: il LED può essere alimentato in corrente continua o mediante brevi impulsi di corrente. In
 quest’ultimo caso si assume che la durata dell’impulso sia abbastanza breve da evitare il surriscaldamento del LED (per esempio un impulso di durata di 1 ms con misure intervallate di almeno 100 ms), e
 si assume che in questa modalità di alimentazione TJ = TPCB . Operando in modalità continua TJ > TPCB e
-la resistenza termica $\DeltaT$
+la resistenza termica $\Delta T$
 Ppuò essere calcolata.
 Part A. Caratteristica Volt-Ampere a differenti temperature (5.0 punti)
 La relazione approssimata tra la differenza di potenziale e la temperatura è la seguente: T(U) =
@@ -65,14 +65,14 @@ mA di corrente erogata ILED_pulsato a temperatura ambiente, 40, 60, e 80 $^{\cir
 1.0pt
 A.3
 Riporta in grafico i punti principali di ULED_pulsato(ILED_pulsato, T) (quelli indicati nella domanda A.2) e calcola (approssima graficamente) la dipendenza lineare del
-coefficiente di temperatura $(\DeltaU(I)/\DeltaT$) a 3, 10, 20, e 40 mA.
+coefficiente di temperatura $(\Delta U(I)/\Delta T$) a 3, 10, 20, e 40 mA.
 1.5pt
 Parte B. Misura della caratteristica Volt-Ampere del LED per corrente di alimentazione
 continua 3.5 punti)
 B.1
 Misura e riporta in grafico la relazione ILED_continuo(ULED_continuo) nell’intervallo da
 3 mA a 50 mA con il riscaldatore spento nel regime di alimentazione continuo.
-Scrivi inoltre nel foglio risposte i valori di ULED_continuo, temperatura del PCB (termostato ) TPCB, e la differenza $\DeltaU=$ ULED_pulsato $-ULED_continuo$ a 3, 10, 20, e 40
+Scrivi inoltre nel foglio risposte i valori di ULED_continuo, temperatura del PCB (termostato ) TPCB, e la differenza $\Delta U=$ ULED_pulsato $-ULED_continuo$ a 3, 10, 20, e 40
 mA.
 1.5pt
 B.2
@@ -88,8 +88,8 @@ dI
 dUin questi punti del grafico.
 0.5pt
 B.3
-Calcola e riporta in grafico la differenza $\DeltaT(P$) tra la temperatura del semiconduttore del LED in modalità continua (TJ) e la temperatura del PCB (TPCB) come
-funzione della potenza elettrica (a 3, 10, 20, e 40 mA). Calcola (approssimando graficamente) la resistenza termica lineare del LED $\DeltaT$
+Calcola e riporta in grafico la differenza $\Delta T(P$) tra la temperatura del semiconduttore del LED in modalità continua (TJ) e la temperatura del PCB (TPCB) come
+funzione della potenza elettrica (a 3, 10, 20, e 40 mA). Calcola (approssimando graficamente) la resistenza termica lineare del LED $\Delta T$
 P, e scrivi il valore nel
 foglio risposte.
 Nota: Assumi che tutta l’energia elelttrica consumata dal LED sia convertita in
@@ -144,7 +144,7 @@ They're usually unknown. So in this experiment, we're going to study the two-dim
 TJ:
 The value of the input data is the sum of the values of the input data.
 The thermal resistance between the semiconductor of the LED and the PCB is calculated as follows (for different current values (ILED):
-$\DeltaT$
+$\Delta T$
 P
 = (TJ $-TPCB$)
 P
@@ -152,7 +152,7 @@ P
 Note: the LED can be powered by direct current or short current pulses. In
 In the latter case, the pulse duration is assumed to be short enough to avoid overheating the LED (e.g. a pulse of 1 ms with interval measurements of at least 100 ms), and
 It is assumed that in this mode of supply TJ = TPCB . Operating in continuous mode TJ > TPCB and
-The heat resistance $\DeltaT$
+The heat resistance $\Delta T$
 It can be calculated.
 Part A. The following is the list of the main characteristics of the engine:
 The approximate ratio of the potential difference to the temperature is as follows:
@@ -176,14 +176,14 @@ mA di corrente erogata ILED_pulsato a temperatura ambiente, 40, 60, e 80 $^{\cir
 1.0pt
 A.3
 It shows the main points of ULED_pulsate, T (the ones shown in question A.2) and calculates (approximately graphically) the linear dependence of the
-The temperature coefficient $(\DeltaU(I)/\DeltaT$) at 3, 10, 20, and 40 mA.
+The temperature coefficient $(\Delta U(I)/\Delta T$) at 3, 10, 20, and 40 mA.
 1.5pt
 Part B. Measurement of the Volt-Ampere characteristic of the LED per power current
 (continues 3.5 points)
 B.1
 Measures and records the ILED_continuous (ULED_continuous) ratio in the interval from
 3 mA to 50 mA with the heater off in the continuous supply mode.
-Also write in the answer sheet the values of ULED_continuous, TPCB (thermostat) PCB temperature, and the difference $\DeltaU=$ ULED_push $-ULED_continuo$ at 3, 10, 20, and 40
+Also write in the answer sheet the values of ULED_continuous, TPCB (thermostat) PCB temperature, and the difference $\Delta U=$ ULED_push $-ULED_continuo$ at 3, 10, 20, and 40
 mA.
 1.5pt
 B.2
@@ -199,8 +199,8 @@ dI
 I'm going to do this in these points on the chart.
 0.5pt
 B.3
-Calculates and records the difference $\DeltaT(P$ between the temperature of the continuous mode LED semiconductor (TJ) and the temperature of the PCB (TPCB) as
-The electrical power function (at 3, 10, 20, and 40 mA). Calculate (by approximating graphically) the linear thermal resistance of the LED $\DeltaT$
+Calculates and records the difference $\Delta T(P$ between the temperature of the continuous mode LED semiconductor (TJ) and the temperature of the PCB (TPCB) as
+The electrical power function (at 3, 10, 20, and 40 mA). Calculate (by approximating graphically) the linear thermal resistance of the LED $\Delta T$
 P, and write the value in
 The answer sheet.
 Note: Assume that all electrical energy consumed by the LED is converted to

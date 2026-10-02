@@ -73,7 +73,7 @@ They are assessed:
 **1.b  Lighting and measurements with spikes (85 pt) **
 
 They are assessed:
-- observational phase approaches: distribution of the appropriate observation angles according to the radius of the container; incidence angles in the range $19^\circ$$35^\circ$;
+- observational phase approaches: distribution of the appropriate observation angles according to the radius of the container; incidence angles in the range $19^\circ$–$35^\circ$;
 - measures to reduce alignment errors: number of spikes $> 2$ per radius, or verified alignment; well-defined optical path;
 - a drawing of the reflected beams: ordered and legible; the direction of the beam coordinate clearly defined;
 - valori corretti degli angoli di incidenza $i$ e di rifrazione $r$.

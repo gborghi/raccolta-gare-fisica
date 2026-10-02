@@ -34,12 +34,12 @@ page 2 of 5
 r
 Rg
 v(r)
-r $\geqRg$
+r $\geq Rg$
 v(r)
 v(r)
 r
 Rg
-r $\geqRg$
+r $\geq Rg$
 
 Theory
 Italy
@@ -58,7 +58,7 @@ $m'$ Rg
 r
 Rg
 $\rho(r$)
-r $\geqRg$
+r $\geq Rg$
 $\rho(r$)
 
 dP
@@ -67,7 +67,7 @@ dr
 $m'$
 
 (r)
-$\rhodm$
+$\rho dm$
 
 Theory
 Italy
@@ -103,12 +103,12 @@ Page 2 of 5
 r
 Rg
 v(r)
-r $\geqRg$
+r $\geq Rg$
 v(r)
 v(r)
 r
 Rg
-r $\geqRg$
+r $\geq Rg$
 
 Theory
 Italy
@@ -127,7 +127,7 @@ $m'$ Rg
 r
 Rg
 $\rho(r$)
-r $\geqRg$
+r $\geq Rg$
 $\rho(r$)
 
 dP
@@ -136,7 +136,7 @@ dr
 $m'$
 
 (r)
-$\rhodm$
+$\rho dm$
 
 Theory
 Italy

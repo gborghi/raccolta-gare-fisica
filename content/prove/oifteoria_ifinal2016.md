@@ -29,8 +29,8 @@ Lei de Young:
 ΔF
 A= Y (
 ΔL
-L) onde L é o comprimento da corda natural e $\DeltaL$ o
-comprimento esticado devido a aplicação de força $\DeltaF$.
+L) onde L é o comprimento da corda natural e $\Delta L$ o
+comprimento esticado devido a aplicação de força $\Delta F$.
 
 **Topic:** [[Elasticity & Materials]], [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Hooke's Law (metodo)|Hooke's Law]]
@@ -51,8 +51,8 @@ Legge di Young:
 ΔF
 A= Y (
 ΔL
-L) dove L è la lunghezza della corda naturale e $\DeltaL$ l'
-lunghezza allungata a causa dell'applicazione di forza $\DeltaF$.
+L) dove L è la lunghezza della corda naturale e $\Delta L$ l'
+lunghezza allungata a causa dell'applicazione di forza $\Delta F$.
 
 **Topic:** [[Elasticity & Materials]], [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Hooke's Law (metodo)|Hooke's Law]]
@@ -72,8 +72,8 @@ Young 's law:
 ΔF
 A= Y (
 ΔL
-L) where L is the natural rope length and $\DeltaL$ the
-length stretched due to force application $\DeltaF$.
+L) where L is the natural rope length and $\Delta L$ the
+length stretched due to force application $\Delta F$.
 
 **Topic:** [[Elasticity & Materials]], [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Hooke's Law (metodo)|Hooke's Law]]
@@ -99,9 +99,9 @@ extremidade do cilindro. Uma expansão isotérmica é levada a efeito, até que 
 esteja a uma distância x da extremidade do cilindro, vide a figura abaixo.
 
 Determine:
-- **A.** As variações de $\DeltaQ$, $\DeltaU$ e $\DeltaW$ no gás dentro do cilindro. (6 pontos)
-- **B.** As variações de $\DeltaQ’$, $\DeltaU’$ e $\DeltaW’$ do meio. (6 pontos)
-- **C.** A variação na entropia $\DeltaS$ do gás ideal e $\DeltaS’$ do meio. (6 pontos)
+- **A.** As variações de $\Delta Q$, $\Delta U$ e $\Delta W$ no gás dentro do cilindro. (6 pontos)
+- **B.** As variações de $\Delta Q’$, $\Delta U’$ e $\Delta W’$ do meio. (6 pontos)
+- **C.** A variação na entropia $\Delta S$ do gás ideal e $\Delta S’$ do meio. (6 pontos)
 - **D.** Desenhe um diagrama P x V deste processo. (7 pontos)
 3
 
@@ -128,9 +128,9 @@ la punta del cilindro. Un'espansione isotermico viene effettuata fino a che il p
 se si trova a una distanza x dalla punta del cilindro, vedere la figura qui sotto.
 
 Determina:
-- **A.** Le variazioni di $\DeltaQ$, $\DeltaU$ e $\DeltaW$ nel gas all'interno del cilindro. (6 punti)
-- **B.** Le variazioni di $\DeltaQ’$, $\DeltaU’$ e $\DeltaW’$ del mezzo. (6 punti)
-- **C.** La variazione di entropia $\DeltaS$ del gas ottimale e $\DeltaS’$ del mezzo. (6 punti)
+- **A.** Le variazioni di $\Delta Q$, $\Delta U$ e $\Delta W$ nel gas all'interno del cilindro. (6 punti)
+- **B.** Le variazioni di $\Delta Q’$, $\Delta U’$ e $\Delta W’$ del mezzo. (6 punti)
+- **C.** La variazione di entropia $\Delta S$ del gas ottimale e $\Delta S’$ del mezzo. (6 punti)
 - **D** Disegna un diagramma P x V di questo processo. (7, punti)
 3
 
@@ -156,9 +156,9 @@ end of the cylinder. An isothermal expansion is carried out until the piston is
 If you're at a distance of x from the end of the cylinder, see the figure below.
 
 Determine:
-- **A.** The variations of $\DeltaQ$, $\DeltaU$ and $\DeltaW$ in the gas inside the cylinder. (Figure 1)
-- **B.** The variations of $\DeltaQ’$, $\DeltaU’$ and $\DeltaW’$ in the medium. (Figure 1)
-- **C.** The variation in entropy $\DeltaS$ of the ideal gas and $\DeltaS’$ of the medium. (Figure 1)
+- **A.** The variations of $\Delta Q$, $\Delta U$ and $\Delta W$ in the gas inside the cylinder. (Figure 1)
+- **B.** The variations of $\Delta Q’$, $\Delta U’$ and $\Delta W’$ in the medium. (Figure 1)
+- **C.** The variation in entropy $\Delta S$ of the ideal gas and $\Delta S’$ of the medium. (Figure 1)
 - **D** Draw a diagram P x V of this process. (Seven points)
 3
 

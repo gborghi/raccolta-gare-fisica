@@ -27,7 +27,7 @@ Parte A. Particella quantistica in una scatola (1.4 punti)
 Consideriamo una particella di massa mche si muove in una buca di potenziale unidimensionale, dove
 la sua energia potenziale V(x) è data da
 V(x) = {0,
-0 $\leqx\leqL$;
+0 $\leq x\leq L$;
 $\infty$,
 x< 0 o x> L.
 (1)
@@ -93,7 +93,7 @@ N
 dN
 dt) dipende
 dalla lunghezza d’onda λdel fotone emesso, dal momento di dipolo elettrico della transizione d(che è
-dell’ordine di $d\simeqel$, dove eè la carica elementare) come pure dalla costante dielettrica ε0 e dalla costante
+dell’ordine di $d\simeq el$, dove eè la carica elementare) come pure dalla costante dielettrica ε0 e dalla costante
 di Planck h.
 
 Theory
@@ -171,7 +171,7 @@ Part A. Quantum particle in a box (1.4 points)
 Consider a mass particle m that moves into a one-dimensional potential hole, where
 Its potential energy V(x) is given by
 V(x) = {0,
-0 $\leqx\leqL$;
+0 $\leq x\leq L$;
 $\infty$,
 x< 0 o x> L.
 (1)
@@ -237,7 +237,7 @@ N
 dN
 (d) depends on the
 The electron is the electron emitted by the electron by the transition period.
-of the order $d\simeqel$, where the elementary charge is) as well as the dielectric constant ε0 and the constant
+of the order $d\simeq el$, where the elementary charge is) as well as the dielectric constant ε0 and the constant
 The Commission has not yet adopted a proposal for a regulation.
 
 Theory

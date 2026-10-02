@@ -435,14 +435,14 @@ type of hybridization involved that explains the observed magnetic behaviour.
 
 (2 marks)
 2.7
-The crystal field splitting parameter, $\DeltaO$, for some of the chromium complexes is
-given below. Match the $\DeltaO$ values from column B with the corresponding chromium
+The crystal field splitting parameter, $\Delta O$, for some of the chromium complexes is
+given below. Match the $\Delta O$ values from column B with the corresponding chromium
 complex from column A.
 
 A
 Complex ion
 B
-$\Deltao$ (cm-1)
+$\Delta o$ (cm-1)
 i) [CrF6]3-
 a) 26,600
 ii) [Cr(H2O)6]3+
@@ -877,7 +877,7 @@ HBCSE, 30th January 2010
 4.9
 Alkali metals readily react with halogens to form metal halides, MX (X = F, Cl, Br, I),
 
-The enthalpy, $\DeltaHo$
+The enthalpy, $\Delta Ho$
 f(MX) will depend upon
 
 a) ionization energy of alkali metal
@@ -1269,9 +1269,9 @@ Greenhouse gas CO2 can be converted to CO(g) by the following reaction
 
 CO2(g) + H2(g) $\to$ CO(g) + H2O(g), termed as water gas reaction.
 6.1
-Calculate $\DeltaG$ for the reaction at 1000 K $(\DeltaH1000$ K = 35040 J $mol-1$
+Calculate $\Delta G$ for the reaction at 1000 K $(\Delta H1000$ K = 35040 J $mol-1$
 
-$\DeltaS1000$ K = 32.11 J $mol-1 K-1$).
+$\Delta S1000$ K = 32.11 J $mol-1 K-1$).
 
 (0.5 mark)
 6.2
@@ -1304,11 +1304,11 @@ HBCSE, 30th January 2010
 32
 
 6.4
-Calculate $\DeltaH$ at 1400 K, using the given data for 1000 K, assuming the Cop values
+Calculate $\Delta H$ at 1400 K, using the given data for 1000 K, assuming the Cop values
 
 remain constant in the given temperature range.
 
-$\DeltaH$ = 35040 $Jmol-1$; Cop(CO2) = (42.31 + 10.09 $\times10-3$ T )J $mol-1 K-1$
+$\Delta H$ = 35040 $Jmol-1$; Cop(CO2) = (42.31 + 10.09 $\times10-3$ T )J $mol-1 K-1$
 
 Cop(H2) = (27.40 + 3.20 $\times10-3$ T) J $mol-1 K-1$
 
@@ -1385,7 +1385,7 @@ Relevant data needed for one burn cycle is given below:
 
 (2.5 marks)
 Compound
-$\DeltaHf$
+$\Delta Hf$
 (kJ $mol-$ 1)
 Cp
 (J $mol-$ 1 $K-$ 1)

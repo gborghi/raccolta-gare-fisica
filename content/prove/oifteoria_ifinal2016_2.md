@@ -41,8 +41,8 @@ Lei de Young:
 ΔF
 A= Y (
 ΔL
-L) onde L é o comprimento da corda natural e $\DeltaL$ o
-comprimento esticado devido a aplicação de força $\DeltaF$.
+L) onde L é o comprimento da corda natural e $\Delta L$ o
+comprimento esticado devido a aplicação de força $\Delta F$.
 
 **Topic:** [[Elasticity & Materials]], [[Conservation of Energy]], [[Newtonian Mechanics]]
 **Metodi:** [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Hooke's Law (metodo)|Hooke's Law]]
@@ -68,9 +68,9 @@ extremidade do cilindro. Uma expansão isotérmica é levada a efeito, até que 
 esteja a uma distância x da extremidade do cilindro, vide a figura abaixo.
 
 Determine:
-a) As variações de $\DeltaQ$, $\DeltaU$ e $\DeltaW$ no gás dentro do cilindro. (6 pontos)
-b) As variações de $\DeltaQ’$, $\DeltaU’$ e $\DeltaW’$ do meio. (6 pontos)
-c) A variação na entropia $\DeltaS$ do gás ideal e $\DeltaS’$ do meio. (6 pontos)
+a) As variações de $\Delta Q$, $\Delta U$ e $\Delta W$ no gás dentro do cilindro. (6 pontos)
+b) As variações de $\Delta Q’$, $\Delta U’$ e $\Delta W’$ do meio. (6 pontos)
+c) A variação na entropia $\Delta S$ do gás ideal e $\Delta S’$ do meio. (6 pontos)
 d) Desenhe um diagrama P x V deste processo. (7 pontos)
 3
 

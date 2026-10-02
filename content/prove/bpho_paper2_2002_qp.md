@@ -763,11 +763,11 @@ Figure 5.2
 
 (i) Show that, due to the rate at which the magnetic flux is cut,
 
-I = $2\pirBv$ /R.
+I = $2\pi rBv$ /R.
 
 (ii) Deduce that
 
-ma = mg – $(2\pirB)2v/R$.
+ma = mg – $(2\pi rB)2v/R$.
 
 (iii) Derive the initial variation of v with t.
  Deduce the terminal velocity of the ring.
@@ -821,11 +821,11 @@ Figura 5.2
 
 - dimostrare che, a causa della velocità con cui il flusso magnetico viene tagliato,
 
-I = $2\pirBv$ /R.
+I = $2\pi rBv$ /R.
 
 - Riduzione del
 
-ma = mg – $(2\pirB)2v/R$.
+ma = mg – $(2\pi rB)2v/R$.
 
 (iii) Derivare la variazione iniziale di v con t.
 Riduci la velocità terminale dell'anello.
@@ -897,7 +897,7 @@ ammeter?
  [7]
 
 b)
-The expression F (t) = (4/ $\pi$) [cos (2 $\pift$) - cos (6 $\pift$) +  cos (10
+The expression F (t) = (4/ $\pi$) [cos (2 $\pi ft$) - cos (6 $\pi ft$) +  cos (10
 ft)]
 $\pi$
 is an approximation to a unit square-wave of frequency f at time t, Figure 6.2.
@@ -995,7 +995,7 @@ Ammeter?
  [7]
 
 b)
-L'espressione F (t) = (4/ $\pi$) [cos (2 $\pift$) - cos (6 $\pift$) + cos (10
+L'espressione F (t) = (4/ $\pi$) [cos (2 $\pi ft$) - cos (6 $\pi ft$) + cos (10
 ft)]
 $\pi$
 è un'approssimazione ad un'unità di onde quadrate di frequenza f al tempo t, figura 6.2.

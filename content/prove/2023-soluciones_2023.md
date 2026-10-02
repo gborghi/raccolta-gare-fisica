@@ -35,7 +35,7 @@ Problema 1: Caída de una bola en un estanque
 
 1. En primer lugar, determinamos la velocidad de la esfera al llegar a la superficie del
 estanque:
-$E௉ൌE஼\Rightarrowmghൌ1$
+$E௉ൌE஼\Rightarrow mghൌ1$
 2 mvଶ
 $vൌ\sqrt{}2 \cdot9.8 \cdot10$ ൌ14 m/s
 
@@ -46,19 +46,19 @@ $pെEൌma\Rightarrow\rho௦gV௦െ\rho௟gV௦ൌ\rho௦V௦a$
 aൌ
 $ሺ\rho௦െ\rho௟ሻg$
 $\rho௦$
-$\Rightarrowaൌ$
+$\Rightarrow aൌ$
 ሺ7500 $െ1000ሻ\cdot9.8$
 7500
 ൌ8.49 m/sଶ
 
 Con estos datos ya podemos calcular el tiempo que tarda la bola en llegar al fondo
 del estanque desde su superficie:
-$eൌv௜\cdott൅a$
-2 $\cdottଶ$
-5 ൌ14 $\cdott൅8.49$
+$eൌv௜\cdot t൅a$
+2 $\cdot tଶ$
+5 ൌ14 $\cdot t൅8.49$
 2
-$\cdottଶ$
-0 ൌെ5 ൅14 $\cdott൅4.245 \cdottଶ$
+$\cdot tଶ$
+0 ൌെ5 ൅14 $\cdot t൅4.245 \cdot tଶ$
 
 tൌ0.325 s
 
@@ -76,7 +76,7 @@ m
 
 Para calcular la energía cinética en el fondo del estanque necesitamos la velocidad
 de la bola al llegar al fondo:
-$v௙ൌv௜൅a\cdottൌ14$ ൅8.49 $\cdot0.33$ ൌ16.76 m/s
+$v௙ൌv௜൅a\cdot tൌ14$ ൅8.49 $\cdot0.33$ ൌ16.76 m/s
 
 Ahora ya podemos calcular energía cinética y potencial por unida de masa en el fondo
 del estanque:
@@ -114,21 +114,21 @@ de la esfera dentro del agua:
 aൌ
 $ሺ\rho௦െ\rho௟ሻg$
 $\rho௦$
-$\Rightarrowaൌ$
+$\Rightarrow aൌ$
 ሺ300 $െ1000ሻ\cdot9.8$
 300
 ൌെ22.87 m/sଶ
 
 Con este dato usando la expresión del movimiento MRUA calculamos el tiempo que
 tarda la esfera en detenerse:
-$v௙ൌv௜൅a\cdott\Rightarrowtൌv௙െv௜$
+$v௙ൌv௜൅a\cdot t\Rightarrow tൌv௙െv௜$
 a
 
 tൌ0 െ14
-െ22.87 $\Rightarrowtൌ0.61$ s
+െ22.87 $\Rightarrow tൌ0.61$ s
 La profundidad que alcanza la esfera en el estanque:
-$eൌv௜\cdott൅a$
-2 $\cdottଶ\Rightarroweൌ14 \cdot0.61$ ൅െ22.87
+$eൌv௜\cdot t൅a$
+2 $\cdot tଶ\Rightarrow eൌ14 \cdot0.61$ ൅െ22.87
 2
 $\cdot0.61ଶ$
 eൌ 4.29 m
@@ -137,20 +137,20 @@ eൌ 4.29 m
 gravedad nueva:
 g௉
 g்
-$ൌG\cdotM௣/R௣ଶ$
-$G\cdotM்/R்$
+$ൌG\cdot M௣/R௣ଶ$
+$G\cdot M்/R்$
 ଶൌM்/ሺR்/2ሻଶ
 M்/R்
 ଶ
 ൌ4
-g௉ൌ4 $\cdotg்ൌ4 \cdot9.8$ ൌ39.2 $\cdotm/sଶ$
+g௉ൌ4 $\cdot g்ൌ4 \cdot9.8$ ൌ39.2 $\cdot m/sଶ$
 
 Una vez tenemos este dato es inmediato calcular el tiempo que tarda en llegar al
 suelo desde una altura de 10 m:
 eൌg
-2 $\cdottଶ\Rightarrow10$ ൌ39.2
+2 $\cdot tଶ\Rightarrow10$ ൌ39.2
 2
-$\cdottଶ\Rightarrowtൎ0.7$ s
+$\cdot tଶ\Rightarrow tൎ0.7$ s
 
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]], [[Gravitation]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
@@ -257,7 +257,7 @@ pendiente ൌ26,0 െ6,0
 λ
 2 ൌ5,4 cm $\toλൌ10,8$ cm ൌ0,108 m
 
-4. Usando la ecuación (1) v =  $\cdotf$, la velocidad de propagación del sonido
+4. Usando la ecuación (1) v =  $\cdot f$, la velocidad de propagación del sonido
 v = 0,108 m   3,13   103 s‐1 = 338 $m\cdots‐1$
 El gas que contiene el tubo es aire y el experimento se ha realizado a 19 oC, A esta
 temperatura la velocidad del sonido en el aire es 343 $m\cdots‐1$.

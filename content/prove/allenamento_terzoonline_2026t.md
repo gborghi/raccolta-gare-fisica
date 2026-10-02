@@ -438,7 +438,7 @@ The measuring unit: ** W. The following information is provided:
 
 **Protoni all'Autodromo di Monza**
 
-John costruisce un acceleratore di particelle per protoni avente un percorso simile a una replica 1:1 di quello dell'Autodromo di Monza. Questo acceleratore è costituito da un percorso piano di lunghezza di $5793\ \mathrm{m}$. Un protone viene iniettato nell'acceleratore con una velocità iniziale di $5\times10^4\ \mathrm{m/s}$. Per fare in modo che segua il percorso stabilito, John può attivare in modo istantaneo un campo magnetico temporaneo che permea uniformemente l'intero acceleratore di particelle. Tale campo magnetico è regolabile di volta in volta in intensità e verso, ma è vincolato ad avere sempre direzione perpendicolare al piano del circuito. Il costo di tale campo magnetico per unità di tempo e di intensità è pari a $5000\ \$/\mathrm{T}/\mathrm{s}$.
+John costruisce un acceleratore di particelle per protoni avente un percorso simile a una replica 1:1 di quello dell'Autodromo di Monza. Questo acceleratore è costituito da un percorso piano di lunghezza di $5793\ \mathrm{m}$. Un protone viene iniettato nell'acceleratore con una velocità iniziale di $5\times10^4\ \mathrm{m/s}$. Per fare in modo che segua il percorso stabilito, John può attivare in modo istantaneo un campo magnetico temporaneo che permea uniformemente l'intero acceleratore di particelle. Tale campo magnetico è regolabile di volta in volta in intensità e verso, ma è vincolato ad avere sempre direzione perpendicolare al piano del circuito. Il costo di tale campo magnetico per unità di tempo e di intensità è pari a $5000\ \text{\textdollar}/\mathrm{T}/\mathrm{s}$.
 
 Trascurando tutte le perdite di energia del fascio ed eventuali dispersioni, quanto spenderebbe John per far compiere al protone un milione di giri nell'acceleratore di particelle?
 
@@ -470,7 +470,7 @@ L'acceleratore di particelle è costituito da un percorso con tratti rettilinei 
 
 Protons at the Monza Motor Speedway
 
-John builds a proton particle accelerator with a path similar to a 1:1 replica of that of the Monza Autodrome. This accelerator consists of a plane path of $5793\ \mathrm{m}$ length. A proton is injected into the accelerator at an initial speed of $5\times10^4\ \mathrm{m/s}$. To ensure that it follows the path set, John can instantly activate a temporary magnetic field that uniformly permeates the entire particle accelerator. Such a magnetic field is adjustable from time to time in intensity and direction, but is bound to always have a direction perpendicular to the plane of the circuit. The cost of such a magnetic field per unit of time and intensity is $5000\ \$/\mathrm{T}/\mathrm{s}$.
+John builds a proton particle accelerator with a path similar to a 1:1 replica of that of the Monza Autodrome. This accelerator consists of a plane path of $5793\ \mathrm{m}$ length. A proton is injected into the accelerator at an initial speed of $5\times10^4\ \mathrm{m/s}$. To ensure that it follows the path set, John can instantly activate a temporary magnetic field that uniformly permeates the entire particle accelerator. Such a magnetic field is adjustable from time to time in intensity and direction, but is bound to always have a direction perpendicular to the plane of the circuit. The cost of such a magnetic field per unit of time and intensity is $5000\ \text{\textdollar}/\mathrm{T}/\mathrm{s}$.
 
 Ignoring all the energy losses from the beam and any dispersion, how much would John spend to get the proton to do a million rounds in the particle accelerator?
 

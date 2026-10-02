@@ -555,7 +555,7 @@ Nel circuito, quando la tensione tra $a$ e $c$ è di 20 V, la tensione tra $b$ e
 
 <!--fig:start-->
 ![[HKPhO_2009_p12_f1.png]]
-*Rete di tipo ponte: il ramo superiore $a$$b$ è $1\,\Omega$ e poi $4\,\Omega$; il ramo inferiore $c$$d$ è $1\,\Omega$ e poi $4\,\Omega$; la resistenza $R$ collega i due punti di mezzo.*
+*Rete di tipo ponte: il ramo superiore $a$–$b$ è $1\,\Omega$ e poi $4\,\Omega$; il ramo inferiore $c$–$d$ è $1\,\Omega$ e poi $4\,\Omega$; la resistenza $R$ collega i due punti di mezzo.*
 <!--fig:end-->
 
 - **(a)** $4\mathrm{V}$

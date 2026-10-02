@@ -25,8 +25,8 @@ Fc =
 [Valore numerico]
 2
 Compressione delle molle, abbassamento del cuneo
-$\Deltax$ =
-$\Deltax$ =
+$\Delta x$ =
+$\Delta x$ =
 yc =
 yc =
 [Espressione]
@@ -74,8 +74,8 @@ Fc =
 [Number value]
 2
 Compression of the springs, lowering of the conifer
-$\Deltax$ =
-$\Deltax$ =
+$\Delta x$ =
+$\Delta x$ =
 yc =
 yc =
 [Expression]
@@ -134,7 +134,7 @@ Smin
 in
 Smax
 in
-$\DeltaS$ =
+$\Delta S$ =
 OLIMPIADI DI FISICA – Gara Nazionale Teorica: 13.04.2018
 Codice Studente: TEO
 
@@ -164,7 +164,7 @@ Smin
 in
 Smax
 in
-$\DeltaS$ =
+$\Delta S$ =
 Theoretical national competition: 13.04.2018
 The following is the list of the countries of the European Union:
 
@@ -195,8 +195,8 @@ Distribuzione di vx uniforme (mod. semplificato)
 hu =
 3
 Ampiezza dell’intervallo in vx (mod. semplificato)
-$\Deltavx$ =
-$\Deltavx$ =
+$\Delta vx$ =
+$\Delta vx$ =
 [Espressione]
 [Valore numerico]
 4
@@ -239,8 +239,8 @@ The distribution of vx uniformly (mod. (simplified)
 hu =
 3
 The width of the range in vx (mod. (simplified)
-$\Deltavx$ =
-$\Deltavx$ =
+$\Delta vx$ =
+$\Delta vx$ =
 [Expression]
 [Number value]
 4

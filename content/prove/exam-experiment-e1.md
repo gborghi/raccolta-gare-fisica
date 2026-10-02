@@ -274,7 +274,7 @@ R9
 $\Omega$
 $\pm$
 |reg| = 1
-$\Deltab$ = $b\sqrt{}$
+$\Delta b$ = $b\sqrt{}$
 1
 $(n-2$) (
 1
@@ -306,7 +306,7 @@ R9
 $\Omega$
 $\pm$
 The value of the product is 1
-$\Deltab$ = $b\sqrt{}$
+$\Delta b$ = $b\sqrt{}$
 1
 $(n-2$) (
 1
@@ -471,10 +471,10 @@ kB = 8. 61733 $\times 10-5$ eV /K
 T
 Eg
 T = $(\theta$ + 273. 15) K
-$\thetab$
+$\theta b$
 R9
 R9
-$\thetab -R9$
+$\theta b -R9$
 Points: 20
 Time: 5.0 Hours
 IPhO 2024
@@ -527,10 +527,10 @@ kB = 8. 61733 $\times 10-5$ eV /K
 T
 Eg
 T = $(\theta$ + 273. 15) K
-$\thetab$
+$\theta b$
 R9
 R9
-$\thetab -R9$
+$\theta b -R9$
 Score: 20
 Time: 5.0 hours
 The following information shall be provided:
@@ -695,7 +695,7 @@ CS
 R
 120 $\Omega$
 R
-R $-Renv$ = $Ae-\gammat$
+R $-Renv$ = $Ae-\gamma t$
 A
 $\gamma$
 R $-Renv$
@@ -710,8 +710,8 @@ Eg
 $\theta1$
 $\theta7$
 x = 0
-$\thetab$
-$\thetax$
+$\theta b$
+$\theta x$
 Points: 20
 Time: 5.0 Hours
 IPhO 2024
@@ -785,9 +785,9 @@ we’ll nd that the nal answer is close to
 B-7
 By balancing the input and output powers of the copper rod, nd   and  .
 0.9 pt
-x $(\thetax -\thetab$)
-$\thetax$ = $\thetab$ + $Ae-\lambdax$ + $Be\lambdax$
-$\thetab$
+x $(\theta x -\theta b$)
+$\theta x$ = $\theta b$ + $Ae-\lambda x$ + $Be\lambda x$
+$\theta b$
 A
 B
 $\lambda$ = $\sqrt{}2h$
@@ -814,8 +814,8 @@ d
 d = 44. 0  cm
 B(1)
 B
-$\thetax$
-$'$ = $\thetax -B(1)e\lambda(0)x$
+$\theta x$
+$'$ = $\theta x -B(1)e\lambda(0)x$
 $\theta1$
 $'$
 $\theta7$
@@ -859,7 +859,7 @@ mathematical formulas you have used to arrive at your results.
 $\theta1$
 $\theta7$
 x
-$\thetax -\thetab$ = $A' cosh(\lambda(x -x0$))
+$\theta x -\theta b$ = $A' cosh(\lambda(x -x0$))
 $A'$
 cos h(u)
 cos h(u) = $eu+e-u$
@@ -1037,7 +1037,7 @@ CS
 R
 120 $\Omega$
 R
-R $-Renv$ = $Ae-\gammat$
+R $-Renv$ = $Ae-\gamma t$
 A
 $\gamma$
 R $-Renv$
@@ -1052,8 +1052,8 @@ Eg
 $\theta1$
 $\theta7$
 x = 0
-$\thetab$
-$\thetax$
+$\theta b$
+$\theta x$
 Score: 20
 Time: 5.0 hours
 The following information shall be provided:
@@ -1127,9 +1127,9 @@ and
 B-7
 By balancing the input and output powers of the copper rod, nd and .
 0.9 pt
-x $(\thetax -\thetab$)
-$\thetax$ = $\thetab$ + $Ae-\lambdax$ + $Be\lambdax$
-$\thetab$
+x $(\theta x -\theta b$)
+$\theta x$ = $\theta b$ + $Ae-\lambda x$ + $Be\lambda x$
+$\theta b$
 A
 B
 $\lambda$ = $\sqrt{}2h$
@@ -1156,8 +1156,8 @@ d
 d = 44. 0  cm
 B(1)
 B
-$\thetax$
-$'$ = $\thetax -B(1)e\lambda(0)x$
+$\theta x$
+$'$ = $\theta x -B(1)e\lambda(0)x$
 $\theta1$
 $'$
 $\theta7$
@@ -1201,7 +1201,7 @@ mathematical formulas you have used to arrive at your results.
 $\theta1$
 $\theta7$
 x
-$\thetax -\thetab$ = $A' cosh(\lambda(x -x0$))
+$\theta x -\theta b$ = $A' cosh(\lambda(x -x0$))
 $A'$
 (i) the following information is provided:
 cos h(u) = $eu+e-u$

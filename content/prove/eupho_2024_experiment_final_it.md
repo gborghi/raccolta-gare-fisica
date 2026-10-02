@@ -1,15 +1,17 @@
 ---
-title: OII 2024 Sperimentale
+title: EuPhO 2024 — Sperimentale
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/EuPhO
 ---
 <div class="atom-reader" data-prova="eupho_2024_experiment_final_it"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2024 Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/conservation-of-energy,topic/newtonian-mechanics,topic/elasticity-e-materials,argomento/meccanica,object/ball"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2024 — Sperimentale — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/conservation-of-energy,topic/newtonian-mechanics,topic/elasticity-e-materials,argomento/meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -31,11 +33,11 @@ Per la palla di gomma più elastica, determinare la frazione di energia cinetica
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the test:
+**Task E.1 — Elasticity of the ball (2.0 pts)**
 
-Of the two rubber balls available, one is more elastic than the other.
+Of the two rubber balls you are provided with, one is more elastic than the other.
 
-For the most elastic rubber ball, determine the fraction of kinetic energy that is lost during collision with a solid surface. Determine this fraction for three different values of the initial kinetic energy.
+For the more elastic rubber ball, determine the fraction of kinetic energy which is lost during a collision with a solid surface. Determine this fraction for three different values of the initial kinetic energy.
 
 **Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]], [[Elasticity & Materials]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]]
@@ -46,7 +48,7 @@ For the most elastic rubber ball, determine the fraction of kinetic energy that 
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2024 Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electrostatics,topic/electromagnetic-induction,topic/elasticity-e-materials,argomento/meccanica,object/capacitor"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2024 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electrostatics,topic/electromagnetic-induction,topic/elasticity-e-materials,argomento/meccanica,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -77,15 +79,15 @@ For the most elastic rubber ball, determine the fraction of kinetic energy that 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Task E.2 — Proprietà piezoelettriche (10.0 punti)**
+**Task E.2 — Piezoelectric properties (10.0 pts)**
 
-**a)** Misura la capacità $C$ del condensatore (Fig. 3b). *(2.0 punti)*
+**a)** Measure the capacitance $C$ of the capacitor (Fig. 3b). *(2.0 pts)*
 
-**b)** Le piastre metalliche ai lati dell'elemento piezoelettrico funzionano anche da condensatore. Find the $C_p$ capacity of the piezoelectric element. *(2.5 punti)*
+**b)** The metallic plates on the sides of the piezo element also act as a capacitor. Find the capacitance $C_p$ of the piezo element. *(2.5 pts)*
 
-**c) ** Measure and chart how the voltage between the piezoelectric element plates depends on the total perpendicular force, which is evenly distributed over the surface of the piezoelectric device through its wooden cover plate. For small forces, the dependence is linear; find the slope $\beta$ in this regime. *(4.0 punti)*
+**c)** Measure and plot how the voltage between the plates of the piezo element depends on the total perpendicular force, which is evenly distributed over the surface of the piezo via its wooden cover plate. For low forces, the dependence is linear; find the slope $\beta$ in this regime. *(4.0 pts)*
 
-**d)** Le molecole dei cristalli possono avere solo polarizzazioni inferiori a un certo valore critico. Find the maximum (saturation) voltage of the piezoelectric device, the saturation pressure $p_{\text{sat}}$ and the maximum surface density $\sigma_{\max}$ of the charge on the surface of the piezoelectric element. *(1.5 punti)*
+**d)** The molecules of the crystals can only have polarizations lower than a certain critical value. Find the maximal (saturation) voltage of the piezo, the pressure $p_{\text{sat}}$ at saturation and the maximal surface density $\sigma_{\max}$ of the charge on the surface of the piezo element. *(1.5 pts)*
 
 <!--fig:start-->
 ![[_attachments/EuPhO_2024_experiment_final_IT/EuPhO_2024_experiment_final_IT_p3_f1.png]]
@@ -101,7 +103,7 @@ For the most elastic rubber ball, determine the fraction of kinetic energy that 
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2024 Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electrostatics,topic/elasticity-e-materials,argomento/meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="EuPhO 2024 — Sperimentale — Quesito 3" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electrostatics,topic/elasticity-e-materials,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -123,11 +125,11 @@ Di quanto cambia la risposta elettrica quando la forza viene applicata a una pic
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is a list of the main tasks of the European Parliament and of the Council:
+**Task E.3 — Small area behaviour (1.0 pts)**
 
-When a force is applied to a small region of the piezoelectric crystal, due to electromechanical coupling, the crystal will try to bend. However, the wood plates prevent it and, as a result, mechanical stresses also manifest themselves in other parts of the crystal.
+When a force is applied to a small region of the piezo crystal, due to electro-mechanical coupling, the crystal will try to curve. However, the wooden plates will prevent this, and as a result, mechanical stress will appear in other parts of the crystal, too.
 
-How much does the electrical response change when the force is applied to a small area of the crystal? Just consider the linear range of the response.
+How much will the electrical response change when the force is applied to a small area of the crystal? Consider only the linear range of the response.
 
 **Topic:** [[Electrostatics]], [[Elasticity & Materials]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Symmetry Argument (metodo)|Symmetry Argument]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -138,7 +140,7 @@ How much does the electrical response change when the force is applied to a smal
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII 2024 Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/elasticity-e-materials,topic/newtonian-mechanics,argomento/meccanica,object/ball,object/sphere"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="EuPhO 2024 — Sperimentale — Quesito 4" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/elasticity-e-materials,topic/newtonian-mechanics,argomento/meccanica,object/ball,object/sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -162,13 +164,13 @@ Trovare l'esponente $\alpha$ e la costante del materiale $k$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the test:
+**Task E.4 — Deformation of the ball (4.5 pts)**
 
-In this part, you'll drop the most elastic rubber ball on the piezoelectric element. During the collision between the sphere and the piezoelectric element, the sphere undergoes deformation. It can be assumed that the force $F$ acting on the sphere depends on its elastic deformation $x$ as a power law:
+In this part you will be dropping the more elastic rubber ball on the piezo element. During the collision between the ball and the piezo, the ball experiences deformations. You can assume that the force $F$ acting on the ball depends on the ball's elastic deformation $x$ as a power law:
 
 $$F = k x^{\alpha} \quad (1)$$
 
-Find the exponent $\alpha$ and the constant of the material $k$.
+Find the exponent $\alpha$ and the material constant $k$.
 
 **Topic:** [[Elasticity & Materials]], [[Newtonian Mechanics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Curve Fitting (metodo)|Curve Fitting]]
@@ -179,7 +181,7 @@ Find the exponent $\alpha$ and the constant of the material $k$.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII 2024 Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/elasticity-e-materials,topic/conservation-of-momentum,argomento/meccanica,object/ball"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="EuPhO 2024 — Sperimentale — Quesito 5" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/elasticity-e-materials,topic/conservation-of-momentum,argomento/meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -203,13 +205,15 @@ Stimare e tracciare il grafico di come il tempo di interazione $\tau$ scala con 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the tasks:
+**Task E.5 — Interaction time (2.5 pts)**
 
-The result of the previous task would be to determine the $\tau$ time of interaction of the most elastic sphere with the wood surface. However, for the less elastic ball there is no simple description like the Eq. 1. Alternatively, we can make the following hypothesis. If, for a certain collision velocity $v_0$, the force experienced by the sphere in relation to time can be described as $F_0(t) = f(t)$, then for any other velocity $v_1$, the time dependence takes a similar form and we can express the force as:
+With the result from the previous task, it would be possible to determine the interaction time $\tau$ of the more elastic ball with the wooden surface. However, for the less elastic ball, there is no simple description such as Eq. 1. Alternatively, we can make the following assumption.
+
+If, for a certain collision speed $v_0$, the force experienced by the ball as a function of time can be described as $F_0(t) = f(t)$, then for any other speed $v_1$, the time dependence takes a similar shape and we can express the force as:
 
 $$F_1(t) = a_1 f(b_1 t) \quad (2)$$
 
-Estimate and chart how the interaction time $\tau$ scales with the collision speed $v$ for collisions of less elastic rubber ball with a solid surface.
+Estimate and plot how the interaction time $\tau$ scales with the collision speed $v$ for collisions of the less elastic rubber ball with a solid surface.
 
 **Topic:** [[Newtonian Mechanics]], [[Elasticity & Materials]], [[Conservation of Momentum]]
 **Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Graph Linearization (metodo)|Graph Linearization]]

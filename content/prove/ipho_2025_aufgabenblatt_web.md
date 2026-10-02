@@ -323,7 +323,7 @@ Problem 4 (10 points)
 Falling baking cups
 In the atmosphere, free fall is slowed by air friction. The friction force F is thereby
 proportional to the square of the falling speed v and can be expressed by
-Here A denotes the cross-sectional area of the falling body, $\rhoLuft$ the air density, and cW the
+Here A denotes the cross-sectional area of the falling body, $\rho Luft$ the air density, and cW the
 so-called drag coefficient, which depends on the shape of the body. With paper baking cups, like the muffin cases seen in the photo, the slowed
 fall can be investigated experimentally. Besides several identical baking cups, you need for this a
 device for measuring time, such as a stopwatch, a tape measure or a folding rule, as well as an
@@ -334,7 +334,7 @@ of the fall time as a function of the fall distance. Use it to determine approxi
 that this fall distance can amount to several metres.
 4.c) Now vary the number of baking cups nested inside one another and measure the terminal speed that establishes itself in each case. Using
 a suitable graph, determine the drag coefficient of your baking cups.
-In the evaluation, use for the density of air $\rhoLuft$ = 1.2 kg $m-3$ and for the gravitational acceleration g = 9.81 m $s-2$.
+In the evaluation, use for the density of air $\rho Luft$ = 1.2 kg $m-3$ and for the gravitational acceleration g = 9.81 m $s-2$.
 Junior problem (10 points)
 Lens construction
 A large but thin, symmetric lens is used to produce an image of the two points A and B in the
@@ -367,9 +367,9 @@ www.ipho.info
 www.ipho.info
 for the
 competition!
-$\DeltaR$ = RA $-$ RB
+$\Delta R$ = RA $-$ RB
 RA RA
-F = 1 A cW $\rhoLuft$ v 2
+F = 1 A cW $\rho Luft$ v 2
 
 2
 scienceolympiaden.de
@@ -488,7 +488,7 @@ Problema 4 (10 punti)
 Coppe per il cottura
 Nell'atmosfera, la caduta libera è rallentata dalla friczione dell'aria. La forza di attrito F è quindi
 proporzionale al quadrato della velocità di caduta v e può essere espresso da
-Here A denota l'area cross-sectional del corpo che sta cadendo, $\rhoLuft$ l'aria densità, e cW il
+Here A denota l'area cross-sectional del corpo che sta cadendo, $\rho Luft$ l'aria densità, e cW il
 il cosiddetto coefficiente di drag, che dipende dalla forma del corpo. Con coppe di carta, come i muffin case visti nella foto, il lento
 Il caso può essere investigato sperimentalmente. Oltre a diversi identici tazze di cucina, ti serve questo a
 dispositivo per misurare il tempo, come un stopwatch, una misura a nastro o una regola di ripiegamento, nonché un
@@ -499,7 +499,7 @@ di tempo di caduta a funzione della distanza di caduta. Usalo per determinare ci
 che in questo caso la distanza può arrivare a diversi metri.
 4.c) Ora variare il numero di coppe di cottura piantate all'interno di un'altra e misurare la velocità terminale che si stabilisce in ogni caso. Usando
 un grafico appropriato, determinare il coefficiente di attrito delle vostre tazze da pasticcio.
-In questa valutazione, usate per la densità di aria $\rhoLuft$ = 1,2 kg $m-3$ e per l'accelerazione gravitazionale g = 9,81 m $s-2$.
+In questa valutazione, usate per la densità di aria $\rho Luft$ = 1,2 kg $m-3$ e per l'accelerazione gravitazionale g = 9,81 m $s-2$.
 Problema minore (10 punti)
 L'impianto di lenti
 Un grande ma sottile, lente simmetrica è usato per produrre un'immagine dei due punti A e B nel
@@ -532,9 +532,9 @@ www.ipho.info
 www.ipho.info
 per il
 La concorrenza!
-$\DeltaR$ = RA $-$ RB
+$\Delta R$ = RA $-$ RB
 RA RA
-F = 1 A cW $\rhoLuft$ v 2
+F = 1 A cW $\rho Luft$ v 2
 
 2
 sciencesolymppiaden.de
@@ -652,7 +652,7 @@ Problem 4 (10 points)
 Falling baking cups
 In the atmosphere, free fall is slowed by air friction. The friction force F is therefore
 proportional to the square of the falling speed v and can be expressed by
-Here A denotes the cross-sectional area of the falling body, $\rhoLuft$ the air density, and cW the
+Here A denotes the cross-sectional area of the falling body, $\rho Luft$ the air density, and cW the
 So-called drag coefficient, which depends on the shape of the body. With paper baking cups, like the muffin cases seen in the photo, the slowed
 The case can be investigated experimentally. Besides several identical baking cups, you need for this a
 device for measuring time, such as a stopwatch, a tape measure or a folding rule, as well as an
@@ -663,7 +663,7 @@ of the fall time as a function of the fall distance. Use it to determine approxi
 That this case distance can amount to several meters.
 4.c) Now vary the number of baking cups nestled inside each other and measure the terminal speed that establishes itself in each case. Using
 a suitable graph, determine the drag coefficient of your baking cups.
-In the evaluation, use for the density of air $\rhoLuft$ = 1.2 kg $m-3$ and for the gravitational acceleration g = 9.81 m $s-2$.
+In the evaluation, use for the density of air $\rho Luft$ = 1.2 kg $m-3$ and for the gravitational acceleration g = 9.81 m $s-2$.
 The first is the 'Junior Problem' (10 points).
 Lens construction
 A large but thin, symmetric lens is used to produce an image of the two points A and B in the
@@ -696,9 +696,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 The Commission has also adopted a proposal for a regulation on the protection of the environment.
 for the
 Competition!
-$\DeltaR$ = RA $-$ RB
+$\Delta R$ = RA $-$ RB
 RA RA
-F = 1 A cW $\rhoLuft$ v 2
+F = 1 A cW $\rho Luft$ v 2
 
 2
 The European Commission has also adopted a proposal for a directive on the protection of the environment.

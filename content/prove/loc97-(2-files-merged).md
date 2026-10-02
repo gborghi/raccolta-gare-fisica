@@ -906,7 +906,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q27.** An object moves with variable acceleration over time as in the five graphs $a$$t$ (from $0$ to $3\ \text{s}$). If $t=0$ moves at $v_0$ speed at time, in which case is its speed minimum at $t=3\ \text{s}$ time? *[Graphs AE: A constant $+5$, B to V, C parabola, D descending line, and E ascending line.]*
+**Q27.** An object moves with variable acceleration over time as in the five graphs $a$–$t$ (from $0$ to $3\ \text{s}$). If $t=0$ moves at $v_0$ speed at time, in which case is its speed minimum at $t=3\ \text{s}$ time? *[Graphs AE: A constant $+5$, B to V, C parabola, D descending line, and E ascending line.]*
 
 <!--fig:start-->
 The following is the list of the following:
@@ -1081,7 +1081,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q32.** See the graph $v$$t$ in the figure. In what time interval does the acceleration take the maximum negative value? The following conditions shall apply: (a) between $0$ and $1\ \text{s}$; (b) between $1$ and $3\ \text{s}$; (c) between $3$ and $5\ \text{s}$; (d) between $5$ and $7\ \text{s}$; (e) between $7$ and $9\ \text{s}$.
+**Q32.** See the graph $v$–$t$ in the figure. In what time interval does the acceleration take the maximum negative value? The following conditions shall apply: (a) between $0$ and $1\ \text{s}$; (b) between $1$ and $3\ \text{s}$; (c) between $3$ and $5\ \text{s}$; (d) between $5$ and $7\ \text{s}$; (e) between $7$ and $9\ \text{s}$.
 
 <!--fig:start-->
 The following table shows the results of the calculation of the total number of samples.

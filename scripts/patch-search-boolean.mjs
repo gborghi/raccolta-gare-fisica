@@ -13,6 +13,10 @@
 //      evaluated over full per-term result sets; malformed ones fall back to a plain
 //      search on the query stripped of operator syntax; a collapsible Italian syntax
 //      hint is mounted under the search input.
+//      v2: `campo:valore` + bare-term metadata matches (static/searchMeta.json, built by
+//      scripts/make-search-meta.mjs) and cross-language synonym expansion
+//      (static/sinonimi.json); plain queries append synonym-only hits AFTER the
+//      original results.
 //   3. if this repo has NO scripts/rebuild-forks.mjs (which recompiles patched forks),
 //      recompiles the search fork itself (`npm run build` -> dist/), because
 //      `npx quartz build` imports the fork's pre-compiled dist/, not src/.
@@ -31,7 +35,8 @@ const FORK = path.join(REPO, ".quartz/plugins/search")
 const TARGET = path.join(FORK, "src/components/scripts/search.inline.ts")
 const MODULE_SRC = path.join(REPO, "quartz/components/scripts/searchBoolean.ts")
 const MODULE_DST = path.join(FORK, "src/components/scripts/rgfBoolean.ts")
-const SENTINEL = "/* rgf-boolean-patch */"
+const SENTINEL = "/* rgf-boolean-patch v3 */"
+const OLD_SENTINELS = ["/* rgf-boolean-patch */", "/* rgf-boolean-patch v2 */"]
 
 const EDITS = [
   {
@@ -44,6 +49,11 @@ import {
   displayTerm as rgfDisplayTerm,
   mountSearchHelp as rgfMountHelp,
   stripBooleanSyntax as rgfStrip,
+  synonymAlternatives as rgfSynAlts,
+  plainSynonymIds as rgfPlainSynIds,
+  loadSynonyms as rgfLoadSynonyms,
+  loadSearchMeta as rgfLoadMeta,
+  sitePrefix as rgfSitePrefix,
 } from "./rgfBoolean";
 ${SENTINEL}`,
   },
@@ -51,7 +61,8 @@ ${SENTINEL}`,
     name: "help hint mount",
     anchor: `searchSpace.insertBefore(ghostText, searchBar.nextSibling);`,
     replacement: `searchSpace.insertBefore(ghostText, searchBar.nextSibling);
-    rgfMountHelp(searchSpace, searchBar);`,
+    rgfMountHelp(searchSpace, searchBar);
+    void rgfLoadSynonyms(rgfSitePrefix());`,
   },
   {
     name: "query plan",
@@ -75,7 +86,18 @@ ${SENTINEL}`,
     replacement: `const allIds: Set<number> =
         rgfPlan.mode === "boolean"
           ? new Set(await rgfBooleanIds(rgfPlan, fieldPriority))
-          : new Set(fieldPriority.flatMap((field) => getByField(field)));`,
+          : new Set(fieldPriority.flatMap((field) => getByField(field)));
+      // plain query: original results first, then synonym-only hits (whole word)
+      if (rgfPlan.mode !== "boolean" && parsed.query && parsed.tags.length === 0) {
+        try {
+          for (const id of await rgfPlainSynIds(
+            parsed.query,
+            (t: string) => rgfSearchIds(t, fieldPriority, 50),
+            rgfTextOf,
+          ))
+            allIds.add(id);
+        } catch {}
+      }`,
   },
   {
     name: "display term (onType)",
@@ -90,14 +112,29 @@ ${SENTINEL}`,
     all: true,
   },
   {
+    name: "preview highlight: whole-word / prefix matches only",
+    anchor: "const regex = new RegExp(combined, \"gi\");",
+    replacement: "const regex = new RegExp(\"(?<![\\\\p{L}\\\\p{N}])(?:\" + combined + \")\", \"giu\");",
+  },
+  {
+    name: "snippet highlight: whole-word / prefix matches only (test)",
+    anchor: "if (tok.toLowerCase().includes(searchTok.toLowerCase())) {",
+    replacement: "if (new RegExp(\"(?<![\\\\p{L}\\\\p{N}])\" + searchTok.replace(/[.*+?^${}()|[\\]\\\\]/g, \"\\\\$&\"), \"iu\").test(tok)) {",
+  },
+  {
+    name: "snippet highlight: whole-word / prefix matches only (replace)",
+    anchor: "const regex = new RegExp(searchTok.replace(/[.*+?^${}()|[\\]\\\\]/g, \"\\\\$&\"), \"gi\");",
+    replacement: "const regex = new RegExp(\"(?<![\\\\p{L}\\\\p{N}])\" + searchTok.replace(/[.*+?^${}()|[\\]\\\\]/g, \"\\\\$&\"), \"giu\");",
+  },
+  {
     name: "evaluator context (module scope)",
     anchor: `function tokenizeTerm(term: string): string[] {`,
     replacement: `// Boolean evaluation over FULL per-term result sets (the plain path stops at 8).
-async function rgfSearchIds(text: string, fieldPriority: string[]): Promise<number[]> {
+async function rgfSearchIds(text: string, fieldPriority: string[], limit?: number): Promise<number[]> {
   const total = Math.max(idDataMap.length, 1);
   const res: any[] = await index.searchAsync({
     query: text,
-    limit: total,
+    limit: limit ?? total,
     index: ["title", "content"],
   });
   const byField = (field: string): number[] => {
@@ -107,15 +144,38 @@ async function rgfSearchIds(text: string, fieldPriority: string[]): Promise<numb
   return [...new Set(fieldPriority.flatMap((field) => byField(field)))];
 }
 
+function rgfTextOf(id: number): string {
+  const slug = idDataMap[id];
+  const data: any = slug && contentData ? contentData[slug] : undefined;
+  return data ? (data.title || "") + " " + (data.content || "") : "";
+}
+
+// metadata ids (index slugs, "page#frag") -> engine ids
+let rgfSlugIds: Map<string, number> | null = null;
+function rgfToIds(slugs: string[] | null): number[] | null {
+  if (slugs === null) return null;
+  if (!rgfSlugIds || rgfSlugIds.size !== idDataMap.length) {
+    rgfSlugIds = new Map(idDataMap.map((s, i) => [s as string, i]));
+  }
+  const out: number[] = [];
+  for (const s of slugs) {
+    const i = rgfSlugIds.get(s);
+    if (i !== undefined) out.push(i);
+  }
+  return out;
+}
+
 async function rgfBooleanIds(plan: any, fieldPriority: string[]): Promise<number[]> {
   try {
+    const prefix = rgfSitePrefix();
+    await rgfLoadSynonyms(prefix);
+    const meta = await rgfLoadMeta(prefix);
     return await rgfEvaluateBoolean(plan.ast, {
       searchTerms: (text: string) => rgfSearchIds(text, fieldPriority),
-      textOf: (id: number) => {
-        const slug = idDataMap[id];
-        const data = slug && contentData ? contentData[slug] : undefined;
-        return data ? (data.title || "") + " " + (data.content || "") : "";
-      },
+      textOf: rgfTextOf,
+      expand: rgfSynAlts,
+      metaSearch: meta ? (t: string, a: string[]) => rgfToIds(meta.matchAny(t, a)) || [] : undefined,
+      fieldSearch: (f: string, v: string, a: string[]) => (meta ? rgfToIds(meta.matchField(f, v, a)) : null),
       allIds: () => idDataMap.map((_, i) => i),
       isKeywordEntry: (id: number) => {
         const slug = idDataMap[id];
@@ -144,7 +204,7 @@ function fail(msg) {
 
 function distHasPatch() {
   const dist = path.join(FORK, "dist/index.js")
-  return fs.existsSync(dist) && fs.readFileSync(dist, "utf8").includes("rgf-search-help")
+  return fs.existsSync(dist) && fs.readFileSync(dist, "utf8").includes("rgf-boolean-v3")
 }
 
 function rebuildIfNeeded() {
@@ -169,6 +229,8 @@ function main() {
   const hadCRLF = raw.includes("\r\n")
   let src = hadCRLF ? raw.replace(/\r\n/g, "\n") : raw
 
+  if (!src.includes(SENTINEL) && OLD_SENTINELS.some((o) => src.includes(o)))
+    fail("search fork carries an older patch: run \"npx quartz plugin restore\" (fresh fork) and re-run")
   if (src.includes(SENTINEL)) {
     console.log("[patch-search-boolean] already patched")
     // re-runs are no-ops; recompile only if dist/ somehow lacks the patch
@@ -183,10 +245,12 @@ function main() {
     }
   }
   for (const e of EDITS) {
-    src = e.all ? src.split(e.anchor).join(e.replacement) : src.replace(e.anchor, e.replacement)
+    src = e.all ? src.split(e.anchor).join(e.replacement) : src.replace(e.anchor, () => e.replacement) // fn: no "$&" expansion
   }
   fs.writeFileSync(TARGET, hadCRLF ? src.replace(/\n/g, "\r\n") : src)
-  console.log('[patch-search-boolean] applied: AND/OR/NOT, -word, "phrase", ( ) + help hint')
+  console.log(
+    '[patch-search-boolean] applied: AND/OR/NOT, -word, "phrase", ( ), campo:valore, metadata, synonyms + help hint',
+  )
   rebuildIfNeeded()
 }
 

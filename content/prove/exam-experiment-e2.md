@@ -92,7 +92,7 @@ clearly is:
 where  is the thickness of the slide,  is the wavelength of the laser beam,
  is the refractive
 index of the environment, and  is the refractive index of the transparent slide.
-$\phi0$ = $2\pih$
+$\phi0$ = $2\pi h$
 $\lambda$ (n $-N$)
 h
 $\lambda$
@@ -116,7 +116,7 @@ di erence reaches
 , the pattern reverts to its initial shape. We call this full cycle one fringe
 shift. Figure 7 displays the various stages of one fringe shift.
 $\theta$
-$\phi$ = $2\pih$
+$\phi$ = $2\pi h$
 $\lambda (\sqrt{}n2 -N$ 2 sin2 $\theta -N$ cos $\theta$)
 $\theta$
 $2\pi$
@@ -144,11 +144,11 @@ to be calculated and reported whenever the
 the curves.
 $\theta$ = 0
 m
-$\theta$ = $\thetam$
-$\phi$ = $2\pih$
-$\lambda (\sqrt{}n2 -N$ 2 sin2 $\thetam -N$ cos $\thetam$) = $2\pim$ + $\phi0$
+$\theta$ = $\theta m$
+$\phi$ = $2\pi h$
+$\lambda (\sqrt{}n2 -N$ 2 sin2 $\theta m -N$ cos $\theta m$) = $2\pi m$ + $\phi0$
 m = h
-$\lambda (\sqrt{}n2 -N$ 2 sin2 $\thetam -N$ cos $\thetam$) $-\phi0$
+$\lambda (\sqrt{}n2 -N$ 2 sin2 $\theta m -N$ cos $\theta m$) $-\phi0$
 $2\pi$
 $\pm$
 Points: 20
@@ -178,11 +178,11 @@ it shines on the bottom edge of the microscope slide. Then adjust the height of 
 can observe the di raction pattern on the screen (this height should almost be equal to the height
 of the laser beam). Note that the fringes in the di raction pattern are horizontal. gure 8 shows
 the experimental setup for part A. Now slowly turn the protractor and observe the fringe shift.
-$\DeltaB$ = $B\sqrt{}$
+$\Delta B$ = $B\sqrt{}$
 1
 $(n-2$) ( 1
 r2 $-1$)
-$\DeltaA$ = $\DeltaB\sqrt{}x2$
+$\Delta A$ = $\Delta B\sqrt{}x2$
 n
 x2
 1. 51
@@ -211,7 +211,7 @@ Find the slope (B) and the vertical axis intercept (A).
 A-4
 Using the slope, nd the thickness of the thin slide.
 0.8 pt
-$\thetam$
+$\theta m$
 m
 Points: 20
 Time: 5.0 Hours
@@ -316,7 +316,7 @@ clearly is:
 where is the thickness of the slide, is the wavelength of the laser beam,
 is the refractive
 index of the environment, and is the refractive index of the transparent slide.
-$\phi0$ = $2\pih$
+$\phi0$ = $2\pi h$
 $\lambda$ (n $-N$)
 h
 $\lambda$
@@ -340,7 +340,7 @@ of erence reaches
 , the pattern reverts to its initial shape. We call this full cycle one fringe
 shift. Figure 7 displays the various stages of one fringe shift.
 $\theta$
-$\phi$ = $2\pih$
+$\phi$ = $2\pi h$
 $\lambda (\sqrt{}n2 -N$ 2 sin2 $\theta -N$ cos $\theta$)
 $\theta$
 $2\pi$
@@ -368,11 +368,11 @@ sign is present in the answer sheet).
 The curves.
 $\theta$ = 0
 m
-$\theta$ = $\thetam$
-$\phi$ = $2\pih$
-$\lambda (\sqrt{}n2 -N$ 2 sin2 $\thetam -N$ cos $\thetam$) = $2\pim$ + $\phi0$
+$\theta$ = $\theta m$
+$\phi$ = $2\pi h$
+$\lambda (\sqrt{}n2 -N$ 2 sin2 $\theta m -N$ cos $\theta m$) = $2\pi m$ + $\phi0$
 m = h
-$\lambda (\sqrt{}n2 -N$ 2 sin2 $\thetam -N$ cos $\thetam$) $-\phi0$
+$\lambda (\sqrt{}n2 -N$ 2 sin2 $\theta m -N$ cos $\theta m$) $-\phi0$
 $2\pi$
 $\pm$
 Score: 20
@@ -402,11 +402,11 @@ It shines on the bottom edge of the microscope slide. Then adjust the height of 
 can observe the diction pattern on the screen (this height should almost be equal to the height
 of the laser beam). Note that the fringes in the di-raction pattern are horizontal. Our 8 shows
 The experimental setup for part A. Now slowly turn the protractor and observe the fringe shift.
-$\DeltaB$ = $B\sqrt{}$
+$\Delta B$ = $B\sqrt{}$
 1
 $(n-2$) ( 1
 r2 $-1$)
-$\DeltaA$ = $\DeltaB\sqrt{}x2$
+$\Delta A$ = $\Delta B\sqrt{}x2$
 n
 x2
 1. 51
@@ -435,7 +435,7 @@ Find the slope (B) and the vertical axis intercept (A).
 A-4
 Using the slope, nd the thickness of the thin slide.
 0.8 pt
-$\thetam$
+$\theta m$
 m
 Score: 20
 Time: 5.0 hours

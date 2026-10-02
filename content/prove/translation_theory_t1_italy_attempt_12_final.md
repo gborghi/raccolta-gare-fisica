@@ -49,10 +49,10 @@ i = 1, $\dots$ , N
 f0
 vrms
 m
-$\langleK\ranglet$
-$-\gamma\langleU\ranglet$
-$\langleK\ranglet$
-$\langleU\ranglet$
+$\langle K\rangle t$
+$-\gamma\langle U\rangle t$
+$\langle K\rangle t$
+$\langle U\rangle t$
 $\gamma$
 $\Gamma$ =
 $\cdot$
@@ -61,8 +61,8 @@ i
 $pi\to$
 $ri\to$
 $d\Gamma/dt$
-$\langled\Gamma$
-dt $\ranglet$
+$\langle d\Gamma$
+dt $\rangle t$
 $\gamma$
 $\Gamma$
 N mg R
@@ -81,12 +81,12 @@ n
 v(r)
 v(r)
 r < Rg
-r $\geqRg$
+r $\geq Rg$
 v(r)
 v(r)
 r < Rg
 v0
-r $\geqRg$
+r $\geq Rg$
 mR
 Rg
 v0
@@ -100,7 +100,7 @@ page 4 of 5
 r Rg v0 n
 mS
 r < Rg
-r $\geqRg$
+r $\geq Rg$
 mp
 n(r)
 T(r)
@@ -175,10 +175,10 @@ i = 1, $\dots$ , N
 f0
 Other
 m
-$\langleK\ranglet$
-$-\gamma\langleU\ranglet$
-$\langleK\ranglet$
-$\langleU\ranglet$
+$\langle K\rangle t$
+$-\gamma\langle U\rangle t$
+$\langle K\rangle t$
+$\langle U\rangle t$
 $\gamma$
 $\Gamma$ =
 $\cdot$
@@ -187,8 +187,8 @@ i
 $pi\to$
 $ri\to$
 $d\Gamma/dt$
-$\langled\Gamma$
-dt $\ranglet$
+$\langle d\Gamma$
+dt $\rangle t$
 $\gamma$
 $\Gamma$
 N mg R
@@ -207,12 +207,12 @@ n
 v(r)
 v(r)
 r < Rg
-r $\geqRg$
+r $\geq Rg$
 v(r)
 v(r)
 r < Rg
 v0
-r $\geqRg$
+r $\geq Rg$
 mR
 Rg
 v0
@@ -226,7 +226,7 @@ Page 4 of 5
 r Rg v0 n
 mS
 r < Rg
-r $\geqRg$
+r $\geq Rg$
 mp
 n(r)
 T(r)

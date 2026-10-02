@@ -1352,7 +1352,7 @@ Il ciclo Otto è caratterizzato dalle seguenti quattro fasi:
 3. Un'espansione adiabatica del caldo a gas.
 4. Una fase isocora in cui il gas viene raffreddato.
 
-i. Designa uno schizzo qualitativo completo di un ciclo Otto tramite un grafico $p$$V$.
+i. Designa uno schizzo qualitativo completo di un ciclo Otto tramite un grafico $p$–$V$.
 
 ii. (3 p) Determina il rendimento $\eta_O$ del ciclo Otto in funzione delle temperature.
 
@@ -1366,7 +1366,7 @@ Le quattro fasi del ciclo Diesel sono:
 3. Una espansione adiabatica del riscaldato del gas.
 4. Una fase isocora in cui il gas è raffreddato.
 
-i. Disegna uno schizzo qualitativo completo di un ciclo Tramite diesel un grafico $p$$V$.
+i. Disegna uno schizzo qualitativo completo di un ciclo Tramite diesel un grafico $p$–$V$.
 
 ii. (3 pt) Determina il rendimento $\eta_D$ del ciclo Diesel in funzione delle quantità conosciute. Consiglio: $R = C_p - C_V$.
 

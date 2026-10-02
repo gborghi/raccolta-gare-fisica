@@ -84,14 +84,14 @@ A continuous flow of water with initial speed $v_0$ descends from a circular sec
 - Find the $r = r(h, v_0)$ relationship between the $r$ radius of the water flow, the $h$ distance from the tap edge and the initial speed $v_0$.
 
 ### C. The Commission has also examined the possible effects of the measures on the environment.
-A mole of a perfect biatomic gas undergoes a reversible cyclic transformation described in the $T$$V^2$ plane in the line shown in Figure 1 and starting at point 1.
+A mole of a perfect biatomic gas undergoes a reversible cyclic transformation described in the $T$–$V^2$ plane in the line shown in Figure 1 and starting at point 1.
 
 <!--fig:start-->
 ![[_attachments/naz00th/naz00th_p3_f3.png]]
 *Ciclo termodinamico nel piano $T$–$V^2$*
 <!--fig:end-->
 
-- After the same transformation in the plan $V$$p$ has been represented, calculate the work done by the gas in a cycle and the performance of the cycle itself.
+- After the same transformation in the plan $V$–$p$ has been represented, calculate the work done by the gas in a cycle and the performance of the cycle itself.
 
 **Topic:** [[Geometric Optics]], [[Fluid Mechanics]], [[Thermodynamics]]
 **Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Snell's Law (metodo)|Snell's Law]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Calculus-Integration (metodo)|Calculus-Integration]]

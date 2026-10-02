@@ -164,7 +164,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-A player hits the ball that bounces twice before stopping on the third bounce. Which graph best represents the direction of the vertical component of the ball's speed with respect to time? *[Five graphs $v$$t$ AE; corrected: segments with negative slope (constant deceleration $-g$) with discontinuity at bounce.]*
+A player hits the ball that bounces twice before stopping on the third bounce. Which graph best represents the direction of the vertical component of the ball's speed with respect to time? *[Five graphs $v$–$t$ AE; corrected: segments with negative slope (constant deceleration $-g$) with discontinuity at bounce.]*
 
 <!--fig:start-->
  Footballer and bouncing ball
@@ -471,7 +471,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q12.** A graph $v$$t$ (triangular: $0\to10\ \text{m s}^{-1}$ in $2\ \text{s}$, then $\to-5\ \text{m s}^{-1}$ in $6\ \text{s}$) describes a straight linear motion from a stationary. What statements are correct? 1  The object reverses the motorcycle direction to $4\ \text{s}$; 2  the acceleration-time chart is the one shown below; 3  the distance from the starting point is maximum at $6\ \text{s}$. (a) Only 1; (b) only 2; (c) only 1 and 2; (d) only 1 and 3;
+**Q12.** A graph $v$–$t$ (triangular: $0\to10\ \text{m s}^{-1}$ in $2\ \text{s}$, then $\to-5\ \text{m s}^{-1}$ in $6\ \text{s}$) describes a straight linear motion from a stationary. What statements are correct? 1  The object reverses the motorcycle direction to $4\ \text{s}$; 2  the acceleration-time chart is the one shown below; 3  the distance from the starting point is maximum at $6\ \text{s}$. (a) Only 1; (b) only 2; (c) only 1 and 2; (d) only 1 and 3;
 
 <!--fig:start-->
 **p.15**  Graphs of speed and acceleration over time
@@ -1346,7 +1346,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q38.** An object moves in a straight line under the action of a force parallel to the motion; the graph $F$$t$ is a trapezoid (salted at $4\ \text{N}$ between $0$ and $1\ \text{ms}$, constant $4\ \text{N}$ up to $4\ \text{ms}$, descends to $2\ \text{N}$ to $5\ \text{ms}$). The pulse transmitted between $0$ and $5\ \text{s}$ (axle in $\text{ms}$)? A) $8\times10^{-3}$; B) $10\times10^{-3}$; C) $15\times10^{-3}$; D) $18\times10^{-3}$; E) $20\times10^{-3}\ \text{N s}$.
+**Q38.** An object moves in a straight line under the action of a force parallel to the motion; the graph $F$–$t$ is a trapezoid (salted at $4\ \text{N}$ between $0$ and $1\ \text{ms}$, constant $4\ \text{N}$ up to $4\ \text{ms}$, descends to $2\ \text{N}$ to $5\ \text{ms}$). The pulse transmitted between $0$ and $5\ \text{s}$ (axle in $\text{ms}$)? A) $8\times10^{-3}$; B) $10\times10^{-3}$; C) $15\times10^{-3}$; D) $18\times10^{-3}$; E) $20\times10^{-3}\ \text{N s}$.
 
 <!--fig:start-->
 The following table shows the results of the tests:

@@ -783,11 +783,13 @@ $$\Delta S = \int dS = \int_{T_i}^{T_e} \frac{dQ}{T} = \int_{T_i}^{T_e} \frac{cm
 
 So $\Delta S_\text{univ} = \Delta S_{\text{univ},1} + \Delta S_{\text{univ},2} + \Delta S_{\text{univ},3}$ where 1, 2, 3 denote the three processes. Hence, we calculate:
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 \Delta S_\text{univ} &= \Delta S_{\text{sys},1} + \Delta S_{\text{surr},1} + \Delta S_{\text{sys},2} + \Delta S_{\text{surr},2} + \Delta S_{\text{sys},3} + \Delta S_{\text{surr},3} \\
 &= c_i m \ln\left(\frac{T_0}{T_i}\right) + \frac{-c_i m(T_0 - T_i)}{T_a} + \frac{Lm}{T_0} + \frac{-Lm}{T_a} + c_w m \ln\left(\frac{T_e}{T_0}\right) + \frac{-c_w m(T_e - T_0)}{T_a} \\
 &= m\left[c_i\left(\ln\left(\frac{T_0}{T_i}\right) - \frac{T_0 - T_i}{T_a}\right) + L\left(\frac{1}{T_0} - \frac{1}{T_a}\right) + c_w\left(\ln\left(\frac{T_e}{T_0}\right) - \frac{T_e - T_0}{T_a}\right)\right].
-\end{aligned}$$
+\end{aligned}
+$$
 
 where $T_0$ is the melting temperature of ice in Kelvin.
 Numerically, we get
@@ -934,11 +936,13 @@ $$\Delta S = \int dS = \int_{T_i}^{T_e} \frac{dQ}{T} = \int_{T_i}^{T_e} \frac{cm
 
 Quindi $\Delta S_\text{univ} = \Delta S_{\text{univ},1} + \Delta S_{\text{univ},2} + \Delta S_{\text{univ},3}$ dove 1, 2, 3 indicano i tre processi. Perciò, calcoliamo:
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 \Delta S_\text{univ} &= \Delta S_{\text{sys},1} + \Delta S_{\text{surr},1} + \Delta S_{\text{sys},2} + \Delta S_{\text{surr},2} + \Delta S_{\text{sys},3} + \Delta S_{\text{surr},3} \\
 &= c_i m \ln\left(\frac{T_0}{T_i}\right) + \frac{-c_i m(T_0 - T_i)}{T_a} + \frac{Lm}{T_0} + \frac{-Lm}{T_a} + c_w m \ln\left(\frac{T_e}{T_0}\right) + \frac{-c_w m(T_e - T_0)}{T_a} \\
 &= m\left[c_i\left(\ln\left(\frac{T_0}{T_i}\right) - \frac{T_0 - T_i}{T_a}\right) + L\left(\frac{1}{T_0} - \frac{1}{T_a}\right) + c_w\left(\ln\left(\frac{T_e}{T_0}\right) - \frac{T_e - T_0}{T_a}\right)\right].
-\end{aligned}$$
+\end{aligned}
+$$
 
 dove $T_0$ è la temperatura di fusione del ghiaccio in Kelvin.
 Numericamente, otteniamo

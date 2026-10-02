@@ -45,16 +45,16 @@ A2-3
 Italiano (Italy)
 A.3 (1.5 pt)
 Riporta in grafico i punti principali di ULED_pulsato(ILED_pulsato, T) (A.2) su carta millimetrata . Usa una
-approssimazione lineare grafica per determinare $\DeltaU(I$)
-$\DeltaT$:
+approssimazione lineare grafica per determinare $\Delta U(I$)
+$\Delta T$:
 Approssimazione lineare grafica:
 ILED
 3 mA
 10 mA
 20 mA
 40 mA
-$\DeltaU(I$)
-$\DeltaT$
+$\Delta U(I$)
+$\Delta T$
 
 Experiment
 A2-4
@@ -71,7 +71,7 @@ ILED
 20 mA
 40 mA
 ULED
-$\DeltaU$
+$\Delta U$
 TJ
 TPCB
 
@@ -87,15 +87,15 @@ ILED
 dI
 dU
 B.3 (1.5 pt)
-Riporta in grafico $\DeltaT(P$) su carta millimetrata:
+Riporta in grafico $\Delta T(P$) su carta millimetrata:
 Compila la tabella con i valori corrispondenti:
 ILED
 3 mA
 10 mA
 20 mA
 40 mA
-$\DeltaT$
-Resistenza termica lineare del LED $\DeltaT$
+$\Delta T$
+Resistenza termica lineare del LED $\Delta T$
 P:
 
 Experiment
@@ -147,16 +147,16 @@ A2-3
 Italian (Italy)
 A.3 (1.5 pt)
 It shows the main points of ULED_pulsate, T) (A.2) on millimeter paper. Use one .
-Linear graph approximation to determine $\DeltaU(I$)
-$\DeltaT$:
+Linear graph approximation to determine $\Delta U(I$)
+$\Delta T$:
 Linear graph approximation:
 The following information shall be provided:
 3 mA
 10 mA
 20 mA
 40 mA
-$\DeltaU(I$)
-$\DeltaT$
+$\Delta U(I$)
+$\Delta T$
 
 Experiments
 A2-4
@@ -173,7 +173,7 @@ The following information shall be provided:
 20 mA
 40 mA
 The following information shall be provided:
-$\DeltaU$
+$\Delta U$
 TJ
 The following information shall be provided:
 
@@ -189,15 +189,15 @@ The following information shall be provided:
 dI
 dU
 B.3 (1.5 pt)
-Reported in graph $\DeltaT(P$) on millimeter paper:
+Reported in graph $\Delta T(P$) on millimeter paper:
 Complete the table with the corresponding values:
 The following information shall be provided:
 3 mA
 10 mA
 20 mA
 40 mA
-$\DeltaT$
-Resistenza termica lineare del LED $\DeltaT$
+$\Delta T$
+Resistenza termica lineare del LED $\Delta T$
 P:
 
 Experiments

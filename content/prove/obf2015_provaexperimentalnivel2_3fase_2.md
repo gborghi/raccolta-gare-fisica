@@ -162,11 +162,11 @@ Quando obtemos qualquer medida experimental, sempre teremos o envolvimento do er
 da medida. Ao realizarmos cálculo com essas medidas terá uma propagação destes erros e o
 resultado também deve ser representado com um erro.
 
-Se tivermos duas medidas do tipo, x $\pm \Deltax$, e y $\pm \Deltay$, e realizarmos uma operação
-matemática qualquer, o resultante f(x,y) também terá um erro $\Deltaf(x,y$). O valor do erro $\Deltaf(x,y$)
+Se tivermos duas medidas do tipo, x $\pm \Delta x$, e y $\pm \Delta y$, e realizarmos uma operação
+matemática qualquer, o resultante f(x,y) também terá um erro $\Delta f(x,y$). O valor do erro $\Delta f(x,y$)
 pode ser obtido pela equação:
 
-$\Deltaf(x,y$) = [ $(\deltaf$ / $\deltax)2 (\Deltax)2$ + $(\deltaf$ / $\deltay)2 (\Deltay)2$ ]1/2
+$\Delta f(x,y$) = [ $(\delta f$ / $\delta x)2 (\Delta x)2$ + $(\delta f$ / $\delta y)2 (\Delta y)2$ ]1/2
 Para um cálculo rápido e simplificado, apresentamos a seguir uma lista de fórmulas para
 operações mais comuns:
 

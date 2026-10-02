@@ -22,6 +22,14 @@ NODE_OPTIONS=--max-old-space-size=12288 node preprocess.mjs
 # 2. Fork prep (patched plugin forks; forks live in gitignored .quartz/, patches must be recompiled into dist/):
 npm run install-plugins            # only if .quartz/ forks are missing
 node scripts/patch-search-fork.mjs        # also runs scripts/patch-search-boolean.mjs (ricerca booleana: AND/OR/NOT, -parola, "frase", parentesi)
+# Ricerca v2 (metadati + sinonimi), nessun passo CI extra:
+#  - campo:valore (nazione:Japan, anno:2019, gara:..., argomento:...) e parole nude che
+#    cercano anche nei metadati: static/searchMeta.json, generato da
+#    scripts/make-search-meta.mjs (chiamato da shrink_build.mjs) da static/quesiti.json.
+#  - sinonimi multilingua: quartz/static/sinonimi.json (committato). Per aggiornarlo dal
+#    dizionario di lavoro: node scripts/sync-sinonimi.mjs   (poi commit)
+#  - vale anche per le caselle di ricerca nelle pagine (elenchi di concetti/aree/argomenti,
+#    /cerca): quartz/components/scripts/searchBoolean.ts (test: searchBoolean.test.ts)
 node scripts/patch-graph-fork.mjs
 node scripts/patch-tag-links-fork.mjs
 node scripts/rebuild-forks.mjs     # CRITICAL: forks main=dist/index.js -> recompile patched src -> dist

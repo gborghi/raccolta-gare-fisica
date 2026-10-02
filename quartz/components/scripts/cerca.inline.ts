@@ -3,6 +3,8 @@
 // livello, difficoltà, area, argomento, metodo, abilità) with an AND/OR
 // (TUTTI/QUALSIASI) toggle, rendering matches into a sortable table.
 
+import { makeRowMatcher, loadSynonyms, type RowMatcher, type RowFields } from "./searchBoolean"
+
 interface Q {
   href: string
   flag: string
@@ -151,6 +153,8 @@ async function init() {
   selectedBar.className = "cerca-selected"
 
   let textQuery = ""
+  // AND/OR/NOT, "frase", campo:valore (any quesiti.json field), synonyms
+  let textMatcher: RowMatcher | null = null
   let resPerPage = getResPerPage()
   let resPage = 0
 
@@ -163,6 +167,13 @@ async function init() {
   textSearch.className = "paged-search"
   textSearch.placeholder = "Cerca tra i risultati…"
   textSearch.setAttribute("aria-label", "Cerca tra i risultati")
+  textSearch.title = 'Operatori: AND, OR, NOT, -parola, "frase", ( ), campo:valore (es. nazione:Japan, anno:2019). Sinonimi in più lingue inclusi.'
+  void loadSynonyms(prefix).then((ok) => {
+    if (ok && textSearch.value.trim()) {
+      textMatcher = makeRowMatcher(textSearch.value)
+      render()
+    }
+  })
   const ctrlRow = document.createElement("div")
   ctrlRow.className = "paged-controls"
   const countEl = document.createElement("span")
@@ -192,6 +203,7 @@ async function init() {
     clearTimeout(debounce)
     debounce = setTimeout(() => {
       textQuery = textSearch.value.trim().toLowerCase()
+      textMatcher = makeRowMatcher(textSearch.value)
       resPage = 0
       render()
     }, 120)
@@ -250,9 +262,10 @@ async function init() {
 
   function matchedRows(): Q[] {
     let rows = data.filter(matches)
-    if (textQuery) {
+    const tm = textMatcher
+    if (textQuery && tm) {
       rows = rows.filter((r) =>
-        (String(r.summary || "") + " " + String(r.competition || "") + " " + String(r.comp_code || "") + " " + String(r.quesito || "")).toLowerCase().includes(textQuery),
+        tm(String(r.summary || "") + " " + String(r.competition || "") + " " + String(r.comp_code || "") + " " + String(r.quesito || ""), r as unknown as RowFields),
       )
     }
     rows.sort((a, b) => {

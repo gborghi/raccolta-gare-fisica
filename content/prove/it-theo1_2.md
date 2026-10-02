@@ -1,15 +1,17 @@
 ---
-title: OII na ''
+title: IPhO 2001 — Teorica — Problema 1
 tipo: prova
 tags:
   - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="it-theo1_2"></div>
 
 
 
 
-<span class="atom-split" id="q1a" data-atom="q1a" data-title="OII na '' — Problema 1A" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/electrostatics,object/particle-beam,object/electron,object/capacitor"></span>
+<span class="atom-split" id="q1a" data-atom="q1a" data-title="IPhO 2001 — Teorica — Problema 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/electrostatics,object/particle-beam,object/electron,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -82,7 +84,7 @@ Calculate, with four significant digits:
 
 
 
-<span class="atom-split" id="q1b" data-atom="q1b" data-title="OII na '' — Problema 1B" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/kinetic-theory,topic/thermodynamics,object/gas"></span>
+<span class="atom-split" id="q1b" data-atom="q1b" data-title="IPhO 2001 — Teorica — Problema 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/kinetic-theory,topic/thermodynamics,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -129,7 +131,7 @@ Using the following data, calculate the $d_V / d_L$ ratio and report your result
 
 
 
-<span class="atom-split" id="q1c" data-atom="q1c" data-title="OII na '' — Problema 1C" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/circuits,topic/oscillations-e-waves,object/capacitor,object/resistor,object/battery,object/switch"></span>
+<span class="atom-split" id="q1c" data-atom="q1c" data-title="IPhO 2001 — Teorica — Problema 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/circuits,topic/oscillations-e-waves,object/capacitor,object/resistor,object/battery,object/switch"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -204,7 +206,7 @@ The following table shows the results of the calculation of the weighted average
 
 
 
-<span class="atom-split" id="q1d" data-atom="q1d" data-title="OII na '' — Problema 1D" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/kinetic-theory,topic/newtonian-mechanics,object/particle-beam,object/atom"></span>
+<span class="atom-split" id="q1d" data-atom="q1d" data-title="IPhO 2001 — Teorica — Problema 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/kinetic-theory,topic/newtonian-mechanics,object/particle-beam,object/atom"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2014 — Teorica — Problema 3
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="th3_ita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electrostatics,topic/circuits,topic/electromagnetism,argomento/meccanica,object/gas,object/capacitor,object/electron"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2014 — Teorica — Problema 3 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electrostatics,topic/circuits,topic/electromagnetism,argomento/meccanica,object/gas,object/capacitor,object/electron"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

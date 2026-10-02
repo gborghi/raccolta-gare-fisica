@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2005 — Teorica — Problema 3
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="problema3_i"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/gravitation,argomento/meccanica,object/mirror"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2005 — Teorica — Problema 3 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/gravitation,argomento/meccanica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -50,7 +52,7 @@ The Commission has already taken a number of measures.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/gravitation,argomento/meccanica,object/mirror"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2005 — Teorica — Problema 3 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/gravitation,argomento/meccanica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -85,7 +87,7 @@ crescente con $H$.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/gravitation,argomento/meccanica,object/mirror"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2005 — Teorica — Problema 3 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/gravitation,argomento/meccanica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -160,7 +162,7 @@ neutrons with these values of $S$ can pass through the cavity.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Teorica — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/modern-quantum-physics,topic/gravitation,argomento/meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2005 — Teorica — Problema 3 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/modern-quantum-physics,topic/gravitation,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -205,7 +207,7 @@ energy levels.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII na Teorica — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/modern-quantum-physics,topic/gravitation,argomento/meccanica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2005 — Teorica — Problema 3 — Quesito 5" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/modern-quantum-physics,topic/gravitation,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

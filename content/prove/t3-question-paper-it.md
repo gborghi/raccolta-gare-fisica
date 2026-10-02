@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2015 — Teorica — T3
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="t3-question-paper-it"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/nuclear-e-particle-physics,topic/thermodynamics,argomento/meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2015 — Teorica — T3 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/nuclear-e-particle-physics,topic/thermodynamics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -48,7 +50,7 @@ The test chemical is a chemical compound with a molecular formula of 0.3 μm.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/nuclear-e-particle-physics,topic/thermodynamics,argomento/meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2015 — Teorica — T3 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/nuclear-e-particle-physics,topic/thermodynamics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -77,7 +79,7 @@ The test chemical is a chemical compound with a molecular formula of 0.3 μm.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/nuclear-e-particle-physics,argomento/meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2015 — Teorica — T3 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/nuclear-e-particle-physics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -106,7 +108,7 @@ The test chemical is a chemical compound with a molecular formula of 0.3 μm.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Teorica — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/nuclear-e-particle-physics,topic/thermodynamics,topic/conservation-of-momentum,argomento/meccanica,object/nucleus,object/atom"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2015 — Teorica — T3 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/nuclear-e-particle-physics,topic/thermodynamics,topic/conservation-of-momentum,argomento/meccanica,object/nucleus,object/atom"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

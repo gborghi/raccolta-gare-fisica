@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale — Experimental question -All Parts Finally final_ITA.pdf
+title: IPhO 2006 — Sperimentale
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="experimental-question--all-parts-finally-final_ita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — Experimental question -All Parts Finally final_ITA.pdf — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/oscillations-e-waves,topic/geometric-optics,argomento/elettromagnetismo,object/lens,object/prism,object/mirror"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2006 — Sperimentale — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/oscillations-e-waves,topic/geometric-optics,argomento/elettromagnetismo,object/lens,object/prism,object/mirror"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

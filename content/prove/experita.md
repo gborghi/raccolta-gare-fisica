@@ -1,15 +1,17 @@
 ---
-title: OII na ''
+title: IPhO 2000 — Sperimentale
 tipo: prova
 tags:
   - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="experita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na '' — Problema 1" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/thermodynamics,object/diffraction-grating,object/resistor"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2000 — Sperimentale — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/thermodynamics,object/diffraction-grating,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -176,7 +178,7 @@ Assume that the conductivity of the photoresistor at each wavelength is directly
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na '' — Problema 2" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electromagnetic-induction,topic/newtonian-mechanics,object/magnet,object/inclined-plane,object/capacitor,object/battery"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2000 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electromagnetic-induction,topic/newtonian-mechanics,object/magnet,object/inclined-plane,object/capacitor,object/battery"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

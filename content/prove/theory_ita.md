@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: EuPhO 2017 — Teorica
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/EuPhO
 ---
 <div class="atom-reader" data-prova="theory_ita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/oscillations-e-waves,topic/kinetic-theory,topic/electromagnetic-induction,argomento/meccanica,object/rope-string,object/disk,object/gas,object/magnetic-dipole"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2017 — Teorica — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/oscillations-e-waves,topic/kinetic-theory,topic/electromagnetic-induction,argomento/meccanica,object/rope-string,object/disk,object/gas,object/magnetic-dipole"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

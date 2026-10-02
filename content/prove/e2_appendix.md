@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale
+title: IPhO 2019 — Sperimentale — E2 appendice
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="e2_appendix"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/electromagnetic-induction,argomento/meccanica,object/rod"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2019 — Sperimentale — E2 appendice — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/electromagnetic-induction,argomento/meccanica,object/rod"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -116,7 +118,7 @@ The following table shows the temperature and time to steady state:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/meccanica,object/rod"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2019 — Sperimentale — E2 appendice — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/meccanica,object/rod"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

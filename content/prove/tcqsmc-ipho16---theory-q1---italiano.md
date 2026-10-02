@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica — TCQsmc-IPhO16 - Theory Q1
+title: IPhO 2016 — Teorica — Q1
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="tcqsmc-ipho16---theory-q1---italiano"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — TCQsmc-IPhO16 - Theory Q1 — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/rotational-dynamics,topic/oscillations-e-waves,argomento/meccanica,object/disk,object/inclined-plane,object/spring"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2016 — Teorica — Q1 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/rotational-dynamics,topic/oscillations-e-waves,argomento/meccanica,object/disk,object/inclined-plane,object/spring"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

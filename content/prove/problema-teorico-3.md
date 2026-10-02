@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica — problema teorico 3.pdf
+title: IPhO 2009 — Teorica — Problema 3
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="problema-teorico-3"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — problema teorico 3.pdf — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/electrostatics,topic/kinetic-theory,argomento/termodinamica,object/star,object/nucleus"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2009 — Teorica — Problema 3 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/electrostatics,topic/kinetic-theory,argomento/termodinamica,object/star,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -104,7 +106,7 @@ What is the temperature of the gas, $T_c$, so that the maximum distance of appro
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Teorica — problema teorico 3.pdf — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/gravitation,topic/thermodynamics,topic/newtonian-mechanics,argomento/termodinamica,object/star"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2009 — Teorica — Problema 3 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/gravitation,topic/thermodynamics,topic/newtonian-mechanics,argomento/termodinamica,object/star"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -235,7 +237,7 @@ The following table shows the results of the calculation of the total number of 
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Teorica — problema teorico 3.pdf — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/thermodynamics,topic/astrophysics,argomento/termodinamica,object/star,object/nucleus"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2009 — Teorica — Problema 3 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/thermodynamics,topic/astrophysics,argomento/termodinamica,object/star,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -296,7 +298,7 @@ Indeed, stars in the so-called *main sequence* (which melt hydrogen and are call
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Teorica — problema teorico 3.pdf — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/astrophysics,topic/thermodynamics,argomento/termodinamica,object/star"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2009 — Teorica — Problema 3 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/astrophysics,topic/thermodynamics,argomento/termodinamica,object/star"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -337,7 +339,7 @@ It uses the previous result to show that for any hydrogen-melting star, the mass
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII na Teorica — problema teorico 3.pdf — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/astrophysics,topic/thermodynamics,argomento/termodinamica,object/star,object/electron"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2009 — Teorica — Problema 3 — Quesito 5" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/astrophysics,topic/thermodynamics,argomento/termodinamica,object/star,object/electron"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -410,7 +412,7 @@ Find the numerical value of the mass of the smallest possible normal star, both 
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII na Teorica — problema teorico 3.pdf — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/thermodynamics,topic/electrostatics,argomento/termodinamica,object/star,object/nucleus"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="IPhO 2009 — Teorica — Problema 3 — Quesito 6" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/thermodynamics,topic/electrostatics,argomento/termodinamica,object/star,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

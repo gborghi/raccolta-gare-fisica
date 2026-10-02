@@ -1,15 +1,17 @@
 ---
-title: OII 2009 Sperimentale
+title: IPhO 2009 — Sperimentale
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="introduzionesperimentale2009"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2009 Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/meccanica,object/lens,object/mirror,object/screen"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2009 — Sperimentale — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/meccanica,object/lens,object/mirror,object/screen"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -116,7 +118,7 @@ where $\lambda$ is the laser beam wavelength and $\Delta_\mathrm{I}$, $\Delta_\m
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2009 Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/electromagnetism,argomento/meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2009 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/electromagnetism,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

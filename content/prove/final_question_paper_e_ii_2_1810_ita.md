@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale
+title: IPhO 2015 — Sperimentale — E2
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="final_question_paper_e_ii_2_1810_ita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/oscillations-e-waves,argomento/meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2015 — Sperimentale — E2 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/oscillations-e-waves,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -60,7 +62,7 @@ The following is the list of the measurements of the surface area of the laser:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/oscillations-e-waves,argomento/meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2015 — Sperimentale — E2 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/oscillations-e-waves,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -101,7 +103,7 @@ The amount of the aid shall be calculated on the basis of the following data:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/oscillations-e-waves,argomento/meccanica,object/tank-container"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2015 — Sperimentale — E2 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/oscillations-e-waves,argomento/meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -176,7 +178,7 @@ The amount of the loan shall be calculated on the basis of the following:
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/oscillations-e-waves,argomento/meccanica,object/tank-container"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2015 — Sperimentale — E2 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/oscillations-e-waves,argomento/meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -229,7 +231,7 @@ The following table shows the results of the calculation of the total cost of th
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII na Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/oscillations-e-waves,argomento/meccanica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2015 — Sperimentale — E2 — Quesito 5" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/oscillations-e-waves,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -278,7 +280,7 @@ The amount of the aid shall be calculated on the basis of the following data:
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII na Sperimentale — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/oscillations-e-waves,argomento/meccanica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="IPhO 2015 — Sperimentale — E2 — Quesito 6" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/oscillations-e-waves,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -327,7 +329,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OII na Sperimentale — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/fluid-mechanics,argomento/meccanica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="IPhO 2015 — Sperimentale — E2 — Quesito 7" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/fluid-mechanics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -400,7 +402,7 @@ The following table shows the total number of points:
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OII na Sperimentale — Problema 8" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/fluid-mechanics,argomento/meccanica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="IPhO 2015 — Sperimentale — E2 — Quesito 8" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/fluid-mechanics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -449,7 +451,7 @@ The following table shows the total number of points:
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OII na Sperimentale — Problema 9" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/fluid-mechanics,argomento/meccanica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="IPhO 2015 — Sperimentale — E2 — Quesito 9" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/fluid-mechanics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

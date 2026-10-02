@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale
+title: IPhO 2001 — Sperimentale
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="it-exp"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/fluid-mechanics,topic/gravitation,topic/geometric-optics,argomento/meccanica,object/tank-container,object/cylinder,object/screen"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2001 — Sperimentale — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/fluid-mechanics,topic/gravitation,topic/geometric-optics,argomento/meccanica,object/tank-container,object/cylinder,object/screen"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -112,7 +114,7 @@ The following information is provided by the Commission:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/geometric-optics,topic/fluid-mechanics,topic/oscillations-e-waves,argomento/meccanica,object/mirror,object/tank-container,object/screen"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2001 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/geometric-optics,topic/fluid-mechanics,topic/oscillations-e-waves,argomento/meccanica,object/mirror,object/tank-container,object/screen"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -175,7 +177,7 @@ The following information is provided by the Commission:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/geometric-optics,topic/fluid-mechanics,argomento/meccanica,object/mirror,object/tank-container,object/screen"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2001 — Sperimentale — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/geometric-optics,topic/fluid-mechanics,argomento/meccanica,object/mirror,object/tank-container,object/screen"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -226,7 +228,7 @@ Adjust the position of the laser so that the beam, almost vertical, is directed 
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/meccanica,object/diffraction-grating,object/tank-container,object/screen"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2001 — Sperimentale — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/meccanica,object/diffraction-grating,object/tank-container,object/screen"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

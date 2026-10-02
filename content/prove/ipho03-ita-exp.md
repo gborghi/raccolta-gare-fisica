@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale — IPhO03 ITA EXP.pdf
+title: IPhO 2003 — Sperimentale
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="ipho03-ita-exp"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — IPhO03 ITA EXP.pdf — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/circuits,topic/geometric-optics,argomento/elettromagnetismo,object/battery,object/resistor"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2003 — Sperimentale — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/circuits,topic/geometric-optics,argomento/elettromagnetismo,object/battery,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -164,7 +166,7 @@ The Commission has already adopted a proposal for a directive on the protection 
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Sperimentale — IPhO03 ITA EXP.pdf — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2003 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -269,7 +271,7 @@ The Commission has already adopted a proposal for a directive on the protection 
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Sperimentale — IPhO03 ITA EXP.pdf — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2003 — Sperimentale — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -298,7 +300,7 @@ The Commission has already adopted a proposal for a directive on the protection 
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Sperimentale — IPhO03 ITA EXP.pdf — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/circuits,topic/oscillations-e-waves,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2003 — Sperimentale — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/circuits,topic/oscillations-e-waves,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -435,7 +437,7 @@ The following table shows the results of the calculation of the total value of t
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII na Sperimentale — IPhO03 ITA EXP.pdf — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/circuits,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2003 — Sperimentale — Quesito 5" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/circuits,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -596,7 +598,7 @@ The following information is provided for in the Annex to Regulation (EU) No 130
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII na Sperimentale — IPhO03 ITA EXP.pdf — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/circuits,topic/geometric-optics,argomento/elettromagnetismo,object/resistor,object/battery"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="IPhO 2003 — Sperimentale — Quesito 6" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/circuits,topic/geometric-optics,argomento/elettromagnetismo,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -683,7 +685,7 @@ The Commission has already adopted a proposal for a directive on the protection 
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OII na Sperimentale — IPhO03 ITA EXP.pdf — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/circuits,argomento/elettromagnetismo,object/resistor"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="IPhO 2003 — Sperimentale — Quesito 7" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/circuits,argomento/elettromagnetismo,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -774,7 +776,7 @@ The Commission has already adopted a proposal for a directive on the protection 
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OII na Sperimentale — IPhO03 ITA EXP.pdf — Problema 8" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/electrostatics,topic/geometric-optics,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="IPhO 2003 — Sperimentale — Quesito 8" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/electrostatics,topic/geometric-optics,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -865,7 +867,7 @@ The following table shows the results of the evaluation: 3 Polarising laser-dete
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OII na Sperimentale — IPhO03 ITA EXP.pdf — Problema 9" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="IPhO 2003 — Sperimentale — Quesito 9" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -908,7 +910,7 @@ The Commission has already adopted a proposal for a directive on the protection 
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="OII na Sperimentale — IPhO03 ITA EXP.pdf — Problema 10" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/electrostatics,topic/geometric-optics,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="IPhO 2003 — Sperimentale — Quesito 10" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/electrostatics,topic/geometric-optics,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1031,7 +1033,7 @@ The Commission has already adopted a proposal for a directive on the protection 
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="OII na Sperimentale — IPhO03 ITA EXP.pdf — Problema 11" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/electrostatics,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="IPhO 2003 — Sperimentale — Quesito 11" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/electrostatics,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1090,7 +1092,7 @@ The following table shows the results of the evaluation: 6 Mode NB cell TN
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="OII na Sperimentale — IPhO03 ITA EXP.pdf — Problema 12" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="IPhO 2003 — Sperimentale — Quesito 12" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1169,7 +1171,7 @@ The Commission has already adopted a proposal for a directive on the protection 
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="OII na Sperimentale — IPhO03 ITA EXP.pdf — Problema 13" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="IPhO 2003 — Sperimentale — Quesito 13" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1242,7 +1244,7 @@ The Commission has already adopted a proposal for a directive on the protection 
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="OII na Sperimentale — IPhO03 ITA EXP.pdf — Problema 14" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="IPhO 2003 — Sperimentale — Quesito 14" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1349,7 +1351,7 @@ The Commission has already adopted a proposal for a directive on the protection 
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="OII na Sperimentale — IPhO03 ITA EXP.pdf — Problema 15" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="IPhO 2003 — Sperimentale — Quesito 15" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

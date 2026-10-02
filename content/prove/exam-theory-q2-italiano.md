@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2019 — Teorica — Q2
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="exam-theory-q2-italiano"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electromagnetism,topic/magnetism,argomento/meccanica,object/electron"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2019 — Teorica — Q2 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electromagnetism,topic/magnetism,argomento/meccanica,object/electron"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -38,7 +40,7 @@ tags:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electromagnetism,topic/oscillations-e-waves,topic/electrostatics,argomento/meccanica,object/electron"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2019 — Teorica — Q2 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electromagnetism,topic/oscillations-e-waves,topic/electrostatics,argomento/meccanica,object/electron"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -417,7 +419,7 @@ The temperature changes.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/electromagnetism,argomento/meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2019 — Teorica — Q2 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/electromagnetism,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

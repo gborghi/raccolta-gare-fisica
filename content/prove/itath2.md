@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2008 — Teorica — Problema 2
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="itath2"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/special-relativity,argomento/meccanica,object/particle-beam"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2008 — Teorica — Problema 2 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/special-relativity,argomento/meccanica,object/particle-beam"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -46,7 +48,7 @@ At any point C between A and B, the particle emits a spherical light wave, which
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/geometric-optics,topic/oscillations-e-waves,argomento/meccanica,object/particle-beam,object/mirror"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2008 — Teorica — Problema 2 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/geometric-optics,topic/oscillations-e-waves,argomento/meccanica,object/particle-beam,object/mirror"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -79,7 +81,7 @@ Note: in all questions in this issue the terms of second order or higher in $\al
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/special-relativity,topic/nuclear-e-particle-physics,topic/geometric-optics,argomento/meccanica,object/particle-beam"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2008 — Teorica — Problema 2 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/special-relativity,topic/nuclear-e-particle-physics,topic/geometric-optics,argomento/meccanica,object/particle-beam"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -122,7 +124,7 @@ Is it possible to observe the proton ring image at this pressure?
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Teorica — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/special-relativity,topic/nuclear-e-particle-physics,topic/geometric-optics,argomento/meccanica,object/particle-beam"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2008 — Teorica — Problema 2 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/special-relativity,topic/nuclear-e-particle-physics,topic/geometric-optics,argomento/meccanica,object/particle-beam"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -157,7 +159,7 @@ The radiator pressure shall be $P_{1/2}$ as determined in paragraph 3.2. above.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII na Teorica — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/special-relativity,topic/nuclear-e-particle-physics,argomento/meccanica,object/electron,object/nucleus"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2008 — Teorica — Problema 2 — Quesito 5" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/special-relativity,topic/nuclear-e-particle-physics,argomento/meccanica,object/electron,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -196,7 +198,7 @@ Knowing that the kinetic energy of particles emitted from radioactive sources ne
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII na Teorica — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/oscillations-e-waves,topic/geometric-optics,topic/special-relativity,argomento/meccanica,object/particle-beam"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="IPhO 2008 — Teorica — Problema 2 — Quesito 6" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/oscillations-e-waves,topic/geometric-optics,topic/special-relativity,argomento/meccanica,object/particle-beam"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

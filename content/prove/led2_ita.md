@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale
+title: EuPhO 2017 — Sperimentale
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/EuPhO
 ---
 <div class="atom-reader" data-prova="led2_ita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/circuits,topic/modern-quantum-physics,topic/thermodynamics,argomento/termodinamica,object/resistor"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2017 — Sperimentale — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/circuits,topic/modern-quantum-physics,topic/thermodynamics,argomento/termodinamica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -52,7 +54,7 @@ At larger currents, the serial resistance $R_s$ becomes significant. Measure thi
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/conservation-of-energy,topic/circuits,topic/modern-quantum-physics,argomento/termodinamica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2017 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/conservation-of-energy,topic/circuits,topic/modern-quantum-physics,argomento/termodinamica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -87,7 +89,7 @@ LEDs without using the temperature sensor.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/geometric-optics,topic/circuits,topic/modern-quantum-physics,argomento/termodinamica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="EuPhO 2017 — Sperimentale — Quesito 3" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/geometric-optics,topic/circuits,topic/modern-quantum-physics,argomento/termodinamica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

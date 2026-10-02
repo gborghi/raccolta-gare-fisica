@@ -1,15 +1,17 @@
 ---
-title: OII na ''
+title: IPhO 2010 — Sperimentale — Problema 2
 tipo: prova
 tags:
   - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="experimentalproblem2ita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na '' — Problema 1" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/newtonian-mechanics,object/magnet,object/magnetic-dipole,object/cylinder"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2010 — Sperimentale — Problema 2 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/newtonian-mechanics,object/magnet,object/magnetic-dipole,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

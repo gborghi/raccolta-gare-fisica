@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2006 — Teorica — Problema 3
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="ipho-37.th3_final_ita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/order-of-magnitude-estimation,argomento/meccanica,object/lens"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2006 — Teorica — Problema 3 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/order-of-magnitude-estimation,argomento/meccanica,object/lens"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -44,7 +46,7 @@ Consider a digital camera with a side-square $l = 35$ mm CCD chip that has $N_p 
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/order-of-magnitude-estimation,argomento/meccanica,object/lens"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2006 — Teorica — Problema 3 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/order-of-magnitude-estimation,argomento/meccanica,object/lens"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -79,7 +81,7 @@ Find the required Mpix number $N$ that the CCD chip should have to ensure the op
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/order-of-magnitude-estimation,argomento/meccanica,object/lens"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2006 — Teorica — Problema 3 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/order-of-magnitude-estimation,argomento/meccanica,object/lens"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -114,7 +116,7 @@ Sometimes photographers try to use the camera with the least possible aperture. 
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Teorica — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/order-of-magnitude-estimation,argomento/meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2006 — Teorica — Problema 3 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/order-of-magnitude-estimation,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -153,7 +155,7 @@ Knowing that the human eye has an angular resolution of about $\alpha = 2$ arcse
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII na Teorica — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/order-of-magnitude-estimation,argomento/meccanica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2006 — Teorica — Problema 3 — Quesito 5" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/order-of-magnitude-estimation,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -202,7 +204,7 @@ The following information is provided for in the Annex to Implementing Regulatio
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII na Teorica — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/order-of-magnitude-estimation,argomento/meccanica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="IPhO 2006 — Teorica — Problema 3 — Quesito 6" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/order-of-magnitude-estimation,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -237,7 +239,7 @@ An egg (radius $R = 2.5$ cm, thermal conductivity $\kappa = 0.64$ W K$^{-1}$ m$^
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OII na Teorica — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/order-of-magnitude-estimation,argomento/meccanica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="IPhO 2006 — Teorica — Problema 3 — Quesito 7" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/order-of-magnitude-estimation,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -272,7 +274,7 @@ An egg (radius $R = 2.5$ cm) is immersed in water at $T_w = 100\,°\text{C}$.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OII na Teorica — Problema 8" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/order-of-magnitude-estimation,argomento/meccanica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="IPhO 2006 — Teorica — Problema 3 — Quesito 8" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/order-of-magnitude-estimation,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -307,7 +309,7 @@ How long does it take to cook the egg to make it solid?
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OII na Teorica — Problema 9" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electrostatics,topic/order-of-magnitude-estimation,argomento/meccanica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="IPhO 2006 — Teorica — Problema 3 — Quesito 9" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electrostatics,topic/order-of-magnitude-estimation,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -368,7 +370,7 @@ The following is the list of the current and the current values of the electrica
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="OII na Teorica — Problema 10" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electrostatics,topic/order-of-magnitude-estimation,argomento/meccanica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="IPhO 2006 — Teorica — Problema 3 — Quesito 10" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electrostatics,topic/order-of-magnitude-estimation,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -403,7 +405,7 @@ The same conditions as in problem 3.9 (lightning between clouds at $h = 1$ km an
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="OII na Teorica — Problema 11" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electrostatics,topic/order-of-magnitude-estimation,argomento/meccanica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="IPhO 2006 — Teorica — Problema 3 — Quesito 11" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electrostatics,topic/order-of-magnitude-estimation,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -438,7 +440,7 @@ The same conditions and data as in problem 3.9.
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="OII na Teorica — Problema 12" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/order-of-magnitude-estimation,argomento/meccanica,object/pipe-tube"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="IPhO 2006 — Teorica — Problema 3 — Quesito 12" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/order-of-magnitude-estimation,argomento/meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -485,7 +487,7 @@ How many capillaries are there in the human body?
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="OII na Teorica — Problema 13" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/order-of-magnitude-estimation,argomento/meccanica,object/pipe-tube"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="IPhO 2006 — Teorica — Problema 3 — Quesito 13" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/order-of-magnitude-estimation,argomento/meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -520,7 +522,7 @@ The same conditions as in problem 3.12 (parallel capillaries, $r = 4\,\mu$m, $L 
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="OII na Teorica — Problema 14" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/order-of-magnitude-estimation,argomento/meccanica,object/gas"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="IPhO 2006 — Teorica — Problema 3 — Quesito 14" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/order-of-magnitude-estimation,argomento/meccanica,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -565,7 +567,7 @@ The following information is provided for in the Annex to Implementing Regulatio
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="OII na Teorica — Problema 15" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/fluid-mechanics,topic/order-of-magnitude-estimation,argomento/meccanica,object/gas"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="IPhO 2006 — Teorica — Problema 3 — Quesito 15" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/fluid-mechanics,topic/order-of-magnitude-estimation,argomento/meccanica,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -600,7 +602,7 @@ The same conditions as in problem 3.14 (air layer expanding adiabatically, nitro
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="OII na Teorica — Problema 16" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/order-of-magnitude-estimation,argomento/meccanica,object/gas"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="IPhO 2006 — Teorica — Problema 3 — Quesito 16" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/order-of-magnitude-estimation,argomento/meccanica,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

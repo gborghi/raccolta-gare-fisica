@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale — problema sperimentale 1.pdf
+title: IPhO 2009 — Sperimentale — Problema 1
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="problema-sperimentale-1"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — problema sperimentale 1.pdf — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/geometric-optics,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/lens,object/mirror,object/screen"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2009 — Sperimentale — Problema 1 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/geometric-optics,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/lens,object/mirror,object/screen"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

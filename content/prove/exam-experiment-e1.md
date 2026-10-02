@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale
+title: IPhO 2024 — Sperimentale — E1
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="exam-experiment-e1"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/rod"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2024 — Sperimentale — E1 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/rod"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -92,7 +94,7 @@ The following table shows the results of the experiment:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,argomento/termodinamica,object/rod,cluster/Termodinamica,topic/thermodynamics"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2024 — Sperimentale — E1 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,argomento/termodinamica,object/rod,cluster/Termodinamica,topic/thermodynamics"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -137,7 +139,7 @@ to disconnect any wires.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,argomento/termodinamica,cluster/Termodinamica,topic/thermodynamics"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2024 — Sperimentale — E1 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,argomento/termodinamica,cluster/Termodinamica,topic/thermodynamics"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -166,7 +168,7 @@ to disconnect any wires.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2024 — Sperimentale — E1 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -195,7 +197,7 @@ to disconnect any wires.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII na Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2024 — Sperimentale — E1 — Quesito 5" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -226,7 +228,7 @@ reach its steady state, make sure that you do not turn on a heater unnecessarily
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII na Sperimentale — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,argomento/termodinamica,cluster/Termodinamica,topic/thermodynamics"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="IPhO 2024 — Sperimentale — E1 — Quesito 6" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,argomento/termodinamica,cluster/Termodinamica,topic/thermodynamics"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -257,7 +259,7 @@ sign is present in the answer sheet.
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OII na Sperimentale — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,argomento/termodinamica,cluster/Termodinamica,topic/thermodynamics"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="IPhO 2024 — Sperimentale — E1 — Quesito 7" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,argomento/termodinamica,cluster/Termodinamica,topic/thermodynamics"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -326,7 +328,7 @@ Page 3 of 21
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OII na Sperimentale — Problema 8" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/circuits,argomento/termodinamica,object/resistor"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="IPhO 2024 — Sperimentale — E1 — Quesito 8" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/circuits,argomento/termodinamica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -381,7 +383,7 @@ the resistor used in this problem is
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OII na Sperimentale — Problema 9" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/kinetic-theory,argomento/termodinamica,object/resistor"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="IPhO 2024 — Sperimentale — E1 — Quesito 9" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/kinetic-theory,argomento/termodinamica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -430,7 +432,7 @@ Remember that
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="OII na Sperimentale — Problema 10" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/resistor"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="IPhO 2024 — Sperimentale — E1 — Quesito 10" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -547,7 +549,7 @@ Figure 5: Start/Stop and Lap buttons. (Further details of keys' functions as poi
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="OII na Sperimentale — Problema 11" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/elasticity-e-materials,argomento/termodinamica,object/rod"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="IPhO 2024 — Sperimentale — E1 — Quesito 11" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/elasticity-e-materials,argomento/termodinamica,object/rod"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

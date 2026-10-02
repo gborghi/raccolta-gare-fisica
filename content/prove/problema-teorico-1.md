@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica — problema teorico 1.pdf
+title: IPhO 2009 — Teorica — Problema 1
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="problema-teorico-1"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — problema teorico 1.pdf — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/rotational-dynamics,topic/gravitation,topic/newtonian-mechanics,argomento/meccanica,object/planet,object/satellite"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2009 — Teorica — Problema 1 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/rotational-dynamics,topic/gravitation,topic/newtonian-mechanics,argomento/meccanica,object/planet,object/satellite"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -148,7 +150,7 @@ The time of the angle is preserved.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Teorica — problema teorico 1.pdf — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/rotational-dynamics,topic/gravitation,topic/newtonian-mechanics,argomento/meccanica,object/planet,object/satellite"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2009 — Teorica — Problema 1 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/rotational-dynamics,topic/gravitation,topic/newtonian-mechanics,argomento/meccanica,object/planet,object/satellite"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -319,7 +321,7 @@ Earth and the Moon.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Teorica — problema teorico 1.pdf — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/rotational-dynamics,topic/gravitation,topic/newtonian-mechanics,argomento/meccanica,object/planet,object/satellite"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2009 — Teorica — Problema 1 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/rotational-dynamics,topic/gravitation,topic/newtonian-mechanics,argomento/meccanica,object/planet,object/satellite"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -468,7 +470,7 @@ The following table shows the results of the calculation of the total number of 
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Teorica — problema teorico 1.pdf — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/conservation-of-energy,topic/rotational-dynamics,topic/gravitation,argomento/meccanica,object/planet,object/satellite"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2009 — Teorica — Problema 1 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/conservation-of-energy,topic/rotational-dynamics,topic/gravitation,argomento/meccanica,object/planet,object/satellite"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

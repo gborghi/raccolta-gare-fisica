@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica — cnn4lG-IPhO16 - Theory Q3
+title: IPhO 2016 — Teorica — Q3
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="cnn4lg-ipho16---theory-q3---italiano"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — cnn4lG-IPhO16 - Theory Q3 — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/special-relativity,topic/electromagnetism,topic/nuclear-e-particle-physics,argomento/meccanica,object/particle-beam,object/electron"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2016 — Teorica — Q3 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/special-relativity,topic/electromagnetism,topic/nuclear-e-particle-physics,argomento/meccanica,object/particle-beam,object/electron"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

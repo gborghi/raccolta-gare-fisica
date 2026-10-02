@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale
+title: IPhO 2000 — Sperimentale — Problema 2
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="sp2"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/magnetism,topic/circuits,argomento/meccanica,object/block,object/inclined-plane,object/magnet,object/capacitor,object/battery"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2000 — Sperimentale — Problema 2 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/magnetism,topic/circuits,argomento/meccanica,object/block,object/inclined-plane,object/magnet,object/capacitor,object/battery"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

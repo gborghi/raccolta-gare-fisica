@@ -107,64 +107,40 @@ its temperature T (for T > 1000 K).
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 2 (15 punti)
+**Problema 2 (15 punti)**
 Contatto
-Segretariato
+Segreteria
 Lulu Hoffmeister
 Tel.: 0431 / 880-53 87
 Fax: 0431 / 880-31 48
 E-mail: info@ipho.info
-Gestione della concorrenza
-Dr. Stefan Petersen
-Telefono: 0431 / 880-51 20
-E-mail: petersen@ipho.info
-IPN • Olshausenstr. 62 • D-24098 Kiel
-Ulteriori informazioni sulla concorrenza
-www.ipho.info
-Disco rotativo
-A disco di radius R rotates
-liberamente in piano orizzontale
-circa il suo centro. Attached to it è
-a point mass m, which oscillates
-periodically with frequency f e
-amplitude R circa il centro del disco. L'asse di oscillazione rotata
-insieme al disco.
-A causa dell'oscillazione della massa del punto,
-la velocità angolare $\omega$ del disco
-- le modifiche.
-Il seguente grafico*
-shows $\omega$ in arbitrary
-unità come funzione del tempo.
-Determine l'oscillazione frequenza f del punto
-massa e il rapporto di massa m alla massa
-del disco.
-Il disco ha una distribuzione di massa omogenea.
-*Available at higher resolution on the competition website.
-Hot wire
-Il seguente grafico* mostra il corrente misurata
-voltage characteristic of a wire that has a
-di 10 cm e di 0,20 mm di diametro.
-A ogni misurazione, ci si aspetta un po '
-Finché i valori non si stabilizzeranno.
-State which form of heat transport at high
-Le temperature sono principalmente responsabili del trasporto
-- Caldo. Considerare questa forma di
-Il trasporto di calore per produrre un grafico della resistenza specifica del filo come funzione di
-la temperatura T (per T > 1000 K).
-*Available at higher resolution on the competition website.
 
+Gestione della competizione
+Dr. Stefan Petersen
+Tel.: 0431 / 880-51 20
+E-mail: petersen@ipho.info
+
+IPN • Olshausenstr. 62 • D-24098 Kiel
+Ulteriori informazioni sulla competizione su www.ipho.info
+
+Disco rotante
+Un disco di raggio R ruota liberamente nel piano orizzontale intorno al suo centro. Al disco è collegata una massa puntiforme m, che oscilla periodicamente con frequenza f e ampiezza R rispetto al centro del disco. L'asse dell'oscillazione ruota insieme al disco.
+A causa dell'oscillazione della massa puntiforme, la velocità angolare $\omega$ del disco varia.
+Il seguente grafico* mostra $\omega$ in unità arbitrarie in funzione del tempo.
+Determinare la frequenza di oscillazione f della massa puntiforme e il rapporto tra la sua massa m e la massa del disco.
+Il disco ha una distribuzione omogenea della massa.
+*Disponibile in risoluzione maggiore sul sito web della competizione.
+
+Filo caldo
+Il seguente grafico* mostra la caratteristica corrente-tensione misurata di un filo lungo 10 cm e con diametro 0,20 mm.
+In ogni misurazione si attende un certo tempo fino a quando i valori si stabilizzano.
+Indicare quale forma di trasporto del calore alle alte temperature è principalmente responsabile del trasferimento del calore. Considerare tale forma di trasporto del calore per produrre un grafico della resistività specifica del filo in funzione della sua temperatura T (per T > 1000 K).
+*Disponibile in risoluzione maggiore sul sito web della competizione.
 
 <!--fig:start-->
 ![[_attachments/42_IPhO_2011_1Rd_Handzettel_web/42_IPhO_2011_1Rd_Handzettel_web_p2_f1.png]]
-*acquario cilindrico con persone a scala*
+*cylindrical aquarium with people to scale*
 <!--fig:end-->
-
-**Topic:** [[Rotational Dynamics]], [[Oscillations & Waves]], [[Thermodynamics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Conservation Laws (metodo)|Conservation Laws]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Disk (object)|Disk]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1nRI9-48z3AqR2qOM-FrzK0E1IPfnFGxe/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2011 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/disk"></span>

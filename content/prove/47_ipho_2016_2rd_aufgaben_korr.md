@@ -119,103 +119,54 @@ separately from one another. (11 pts.)
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 1 Particelle accelerate
-14 + 16 punti)
-Gli acceleratori di particelle sono utilizzati in fisica, ma anche in altri campi, per una vasta gamma di scopi. Inoltre
-indagando sulla struttura della materia, trovano anche applicazione, per esempio, in medicina. In questo problema,
-Due tipi di acceleratori di particelle sono da studiare.
+**Problema 1 Particelle accelerate (14+16 punti)**
+Gli acceleratori di particelle vengono utilizzati in fisica, ma anche in altri campi, per una vasta gamma di scopi. Oltre a indagare la struttura della materia, trovano applicazione, ad esempio, in medicina. In questo problema verranno studiati due tipi di acceleratori di particelle.
+
 1.1 Ciclotrone
-L'idea del ciclotrone è originata dal fisico americano Ernest O. Lawrence, che ha premiato il
-Premio Nobel di Fisica per questo nel 1939. Fino agli anni '50, questo tipo di acceleratore di particelle era "il più grande
-"potenti spaccatori di atomi nel mondo".
-Un ciclotrone è composto da due buchi,
-elettrodi semicircolari in un campo magnetico omogeneo di densità di flusso $B$, orientati perpendicolare agli elettrodi. Tra gli elettrodi c'è un gap molto stretto attraverso il quale
-a high-frequency voltage of the form
-$U(t) = U_0 \sin(\omega t)$
-è applicato. Qui $U_0$ denotes
-La
-amplitude and $\omega$ the angular frequency of the
-voltage. Time is denoted by $t$.
-Le particelle cariche vengono introdotte nel centro del
-- La situazione è diversa. La frequenza del
-voltage è impostato in modo che le particelle sono
-Accelerato ogni volta che attraversano il gap.
-Come risultato si muovono
-Approximately along a spiral path
-verso l'esterno, fino a dopo molte rivoluzioni
-che raggiungono l'orlo dell'accordo, dove
-- il ciclotrone (cfr. Fig. 1).
-Magnete
-Magnete
+L'idea del ciclotrone risale al fisico americano Ernest O. Lawrence, che ne ricevette il premio Nobel per la Fisica nel 1939. Fino agli anni Cinquanta, questo tipo di acceleratore di particelle era "il più potente macchina per schiacciare atomi al mondo".
+
+Un ciclotrone è costituito da due elettrodi cavi semicircolari in un campo magnetico omogeneo di densità del flusso $B$, orientato perpendicolarmente agli elettrodi. Tra gli elettrodi è presente un sottile spazio attraverso il quale viene applicata una tensione ad alta frequenza della forma
+$U(t) = U_0 \sin(\omega t)$. Qui $U_0$ indica l'ampiezza e $\omega$ la frequenza angolare della tensione. Il tempo è indicato con $t$.
+
+Le particelle cariche vengono introdotte nel centro dell'impalcatura. La frequenza della tensione viene regolata in modo che le particelle siano accelerate ogni volta che attraversano lo spazio.
+Di conseguenza, esse si muovono approssimativamente lungo un percorso a spirale verso l'esterno, fino a quando dopo numerose rivoluzioni raggiungono il bordo dell'impalcatura, dove escono dal ciclotrone (cfr. Figura 1).
+
+Magnet
+Magnet
 $\vec{B}$
 U
-Figura 1: Sketch non a scala di un ciclotrone. La camera a vuoto che chiude gli elettrodi
-non è dimostrato.
-In seguito, considerate un ciclotron come quello sviluppato da E.O. Lawrence a Berkeley alla fine
-degli anni '30. Gli elettrodi del ciclotrone avevano un raggio di $R = 0{,}76\ \text{m}$ e la densità del flusso magnetico, che può essere assumita costante su tutta la sezione di cross-section del ciclotrone, che è $B = 0{,}71\ \text{T}$. In questo ciclo, i protoni con una carica $e = 1{,}602\cdot10^{-19}\ \text{As}$
-e una massa $m = 1{,}673\cdot10^{-27}\ \text{kg}$ sono state accelerate. L'ampiezza della tensione ad alta frequenza
-$U_0 = 87\ \text{kV}$. Negli effetti relativistici nel trattamento.
-1.a) Derivare un'espressione per la frequenza angolare $\omega$ necessaria per accelerare i protoni
-e dare il valore della frequenza angolare. (3 punti)
-1.b) Determinare l'energia cinetica e la velocità dei protoni quando lasciano il
-La Commissione ha inoltre adottato una decisione che prevede di limitare il numero di persone che possono essere soggette a un'accettazione di tali effetti.
-(3 punti)
-1.c) Calcolare il numero minimo di rivoluzioni che un protone fa nel ciclotrone prima di
-E' il tempo che passa all'interno del ciclotrone. (3 punti)
-Se, invece di protoni, gli elettroni con una massa di $m_e = 9{,}109\cdot10^{-31}\ \text{kg}$ sono accelerati,
-Uno raggiunge regimi in cui gli effetti relativistici svolgono un ruolo molto più rapidamente.
-1.d) Considerare gli elettroni che sono stati accelerati all'energia cinetica determinata nel problema 1.b)
-e mostrano che la loro velocità è molto vicina alla velocità della luce.
-(3 punti)
-A queste velocità molto elevate l'aumento di massa relativistica degli elettroni deve essere preso in considerazione, che porta alla velocità degli elettroni nel cyclotron non più
-aumentando per la quantità necessaria su ogni rivoluzione da essere
-Accelerato di nuovo sulla prossima rivoluzione. Un modo per aggirare questo è lasciare che il campo magnetico cresca più forte
-verso l'esterno ad una frequenza di alta tensione fissa.
-1.e) Derivare un'espressione per la dipendenza della densità del flusso magnetico necessaria per questo
-sulla distanza $r$ dal centro del ciclotrone. - 2 punti
-1.2 Betatron
-Il betatron è in un senso un ulteriore sviluppo del cyclotron, in cui l'accelerazione è
-di particelle non si verifica a causa di un'elevata tensione applicata, ma attraverso la variazione temporale del campo magnetico. La mozione in un campo simile è da studiare nel seguente.
-Considerate un elettrone che si muove in un campo magnetico cilindricamente simmetrico. La magnitudo $B = |\vec{B}|$ del
-magnetic flux density therefore depends only on the time $t$, the
-$z$ coordinate and the distance $r$ from the $z$ axis, but not
-in the angle $\theta$ (cfr. Fig. 2). In the plane with $z = 0$, let
-Il campo magnetico è orientato nella direzione $z$. In questo piano gli elettroni si muovono quindi in orbita circolare. Il raggio di
-Circular orbit for the electron under consideration is denoted by $R$
-- In un sketch.
-Per accelerare l'elettrone in questa orbita circolare, il
-La densità del flusso magnetico è variabile. Let $\Delta\vec{B}$ denota il cambiamento della densità del flusso magnetico over a small time interval
-$\Delta t$. Attraverso il cambiamento temporale del campo magnetico
-L'elettrone può essere accelerato in questa orbita circolare a energie molto grandi.
-Per semplificare i calcoli
-Quindi, non lavorate in modo relativistico qui.
+Figura 1: Schizzo non in scala di un ciclotrone. La camera a vuoto che racchiude gli elettrodi non è rappresentata.
+Nel seguito, si consideri un ciclotrone come quello sviluppato da E.O. Lawrence a Berkeley alla fine degli anni trenta. Gli elettrodi del ciclotrone avevano un raggio di $R = 0{,}76\ \text{m}$ e la densità del flusso magnetico, che può essere assunta costante su tutta la sezione trasversale del ciclotrone, era di $B = 0{,}71\ \text{T}$. Nel ciclotrone venivano accelerati protoni con una carica di $e = 1{,}602\cdot10^{-19}\ \text{As}$ e una massa di $m = 1{,}673\cdot10^{-27}\ \text{kg}$. L'ampiezza della tensione ad alta frequenza era di $U_0 = 87\ \text{kV}$. Trascurare gli effetti relativistici nel trattamento.
+
+1.a) Derivare un'espressione per la frequenza angolare $\omega$ necessaria per accelerare i protoni e fornire il valore della frequenza angolare. (3 punti)
+1.b) Determinare l'energia cinetica e la velocità dei protoni quando lasciano il ciclotrone, e valutare in che misura è lecito trascurare gli effetti relativistici. (3 punti)
+1.c) Calcolare il numero minimo di rivoluzioni compiute da un protone nel ciclotrone prima dell'uscita, e anche il tempo trascorso all'interno del ciclotrone. (3 punti)
+Se invece dei protoni si accelerano elettroni con una massa di $m_e = 9{,}109\cdot10^{-31}\ \text{kg}$, si raggiungono regimi in cui gli effetti relativistici giocano un ruolo molto più rapidamente.
+
+1.d) Considerare elettroni che sono stati accelerati fino all'energia cinetica determinata nel problema 1.b) e dimostrare che la loro velocità è molto vicina a quella della luce. (3 punti)
+A queste velocità estremamente elevate, deve essere considerato l'aumento della massa relativistica degli elettroni, il che porta al fatto che la velocità degli elettroni nel ciclotrone non aumenta di nuovo dell'entità richiesta in ogni rivoluzione per essere nuovamente accelerati nella successiva. Una possibile soluzione a questo problema consiste nel far crescere il campo magnetico in modo più intenso verso l'esterno, mantenendo una frequenza fissa della tensione ad alta intensità.
+1.e) Derivare un'espressione per la dipendenza della densità di flusso magnetico necessaria da questa distanza $r$ dal centro del ciclotrone. (2 punti)
+
+1.2 Betatrone
+Il betatrone è in un certo senso una evoluzione del ciclotrone, nel quale l'accelerazione delle particelle avviene non tramite una tensione elevata applicata, ma attraverso la variazione temporale del campo magnetico. Nella seguente parte si studia il moto in un tale campo.
+
+Si consideri un elettrone in movimento in un campo magnetico con simmetria cilindrica. L'intensità $B = |\vec{B}|$ della densità di flusso magnetico dipende quindi soltanto dal tempo $t$, dalla coordinata $z$ e dalla distanza $r$ dall'asse $z$, ma non dall'angolo $\theta$ (cfr. Figura 2). Nel piano con $z = 0$, il campo magnetico è orientato nella direzione $z$. In questo piano gli elettroni si muovono quindi su un'orbita circolare. Il raggio dell'orbita circolare per l'elettrone in esame è indicato con $R$ nel disegno.
+
+Per accelerare l'elettrone su tale orbita circolare, si varia la densità di flusso magnetico. Sia $\Delta\vec{B}$ la variazione della densità di flusso magnetico in un breve intervallo temporale $\Delta t$. Grazie alla variazione temporale del campo, l'elettrone può essere accelerato sull'orbita circolare fino a energie molto elevate.
+
+Per semplificare i calcoli si può anche procedere in modo non relativistico qui.
+
 z
 R
 $\theta$
 $\vec{B}$
-Figura 2: Sketch of the course
-di linee di campo magnetico nel betatron con
-l'orbita circolare dell'elettrone a $z = 0$.
-1.f) Derivare una relazione tra il cambiamento $\Delta B$ della magnitudine del flusso magnetico densità $B$ sull'orbita circolare, cioè a $z = 0$ e $r = R$, e il cambiamento $\Delta\Phi$ del magnetico
-Il flusso attraverso l'area chiusa dall'orbita circolare, che è necessario affinché il
-L'elettrone rimane in orbita circolare mentre viene accelerato. (cfr.
-Supponiamo che il $z$ componente del campo magnetico vicino all'orbita circolare possa essere scritto nel
-forma
-$$B_z(\vec{r}) = B_0 \left(\frac{R}{r}\right)^n$$
-con una costante $n \in \mathbb{R}$. Qui $B_0$ denota la densità del flusso magnetico sul
-Orbita circolare. Il componente $z$ della densità di flusso in questo caso dipende quindi solo dalla distanza dal flusso.
-L'asse di $z$.
-1.g) Determine for which values of $n$ the circular orbit is stable under both small radial and
-- Le perturbazioni verticali. Supponiamo che la velocità del
-L'elettrone non cambia sotto l'orbita di perturbazione e che le perturbazioni possono essere studiate
-separatamente gli uni dagli altri. (11 pag.)
+Figura 2: Schizzo del tracciato delle linee di campo nel betatrone con l'orbita circolare dell'elettrone in $z = 0$.
+1.f) Derivare una relazione tra la variazione $\Delta B$ dell'intensità del campo magnetico $B$ sull'orbita circolare, ovvero nei punti $z = 0$ e $r = R$, e la variazione $\Delta\Phi$ del flusso magnetico attraverso l'area racchiusa dall'orbita circolare, necessaria affinché l'elettrone rimanga sull'orbita circolare durante l'accelerazione. (5 punti)
 
-**Topic:** [[Magnetism]], [[Electromagnetism]], [[Special Relativity]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Magnet (object)|Magnet]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Gn8ncSEVyFGCg5XLird4SOMgfC6UWhsg/view)
+Si assuma che la componente $z$ del campo magnetico nelle vicinanze dell'orbita circolare possa essere espressa nella forma
+$$B_z(\vec{r}) = B_0 \left(\frac{R}{r}\right)^n$$ con una costante $n \in \mathbb{R}$. Qui $B_0$ indica l'intensità del campo magnetico sull'orbita circolare. La componente $z$ dell'intensità del campo magnetico in questo caso dipende quindi soltanto dalla distanza dall'asse $z$.
 
+1.g) Determinare per quali valori di $n$ l'orbita circolare è stabile sia a piccole perturbazioni radiali che a piccole perturbazioni verticali. Si assuma che la velocità dell'elettrone non cambi sotto le perturbazioni orbitali e che le perturbazioni possano essere studiate separatamente l'una dall'altra. (11 punti)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2016 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/disk,object/cylinder"></span>

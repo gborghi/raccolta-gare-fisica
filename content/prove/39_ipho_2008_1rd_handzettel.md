@@ -330,237 +330,177 @@ Pweinhold@t-online.de
 
 <div class="qlang-split" data-lang="it"></div>
 
-Round 3
+**Torno 3**
 Quando? Primavera 2008
-Quando? Prima 2008
-Quando? Dal maggio 2007. Il precisione
-deadline di presentazione può essere ottenuto dai vostri insegnanti
-o found on the IPhO
-sito web.
-Quando? Settembre alla fine di
-Ottobre 2007.
-Quando? I problemi sono inviati a
-Tutti i vincitori del primo round.
-Come? Ancora una volta, teorico e sperimentale
-Gli esami sono sul programma.
-In preparazione all'IPhO,
-I seminari di problema sono anche organizzati per rispondere a domande tipiche in stile olimpica.
-Come? Ora devi lavorare su due teorici
-e due sperimentali
-- Esami. In pomeriggio ci sono seminari di problemi
-Per la formazione e le escursioni.
-- Chi? Il 15 migliore del terzo
-- Rondo.
-- Chi? I 50 migliori del secondo
-- Rondo.
-- Chi? Tutti coloro che sono interessati e chi, durante il
-2007/2008 school year, attends a general-education school
-e che è nato dopo il 30 giugno 1988.
-- Dove? Per il quarto round
-I partecipanti sono invitati per una settimana
-- l'IPN di Kiel.
-- Dove? Il terzo round prende il
-forma di una settimana
-seminario. Il luogo non ha ancora
-Sono finalmente deciso.
-- Dove? I problemi sono risolti
-come compito. Tu consegni il tuo lavoro a un insegnante di soggetti per il marchio.
-Come? Le attività da svolgere sono:
-I problemi di fisica teorica e sperimentale.
-Questi sono considerabilmente più duri
-che nel primo round. Il
-le stesse regole si applicano come
-per il primo round.
-- Dove? Tu lavori di nuovo sui problemi
-- A casa. Il tuo lavoro deve raggiungere il tuo responsabile
-state coordinator for marking by 01 novembre 2007
-e sarà rivisto ancora una volta
-- l'IPN.
-Come? Quattro problemi in tutti i settori della fisica
-- Non posso.
-Le soluzioni dovrebbero essere logicamente
-completo e non troppo lungo.
-Per risolvere i problemi che è
-Permesso di utilizzare libri di testo o formula
-Le informazioni disponibili sono disponibili su:
-sono citati.
-Formulari in comune
-Documenti di testo
-Non è derivato. Solo individuale
-Il lavoro è permesso.
-In particolare, no help
-o write-ups da altri possono essere
-- Non è vero.
-I bambini di età inferiore al secondo grado ricevono un
-- Un bonus di punti.
-Cosa puoi vincere?
-I cinque più riusciti non solo
-Ma con questo round, anche passare attraverso il processo di selezione
-La Commissione ha adottato una proposta di regolamento (UE) n.
-- Popoli. Per l'altro
-gli olimpiani, in aggiunta a
-Il premio in contanti di 500 euro, language trips and stays at
-Istituti di ricerca intorno
-Il mondo aspetta. Il German Physical
-Società (German Physical Society)
-Società) quindi conferisce il suo premio al student
-ai membri del team.
-Cosa puoi vincere?
-Tutti i partecipanti ricevono un
-certificato con una scheda di valutazione.
-Specialmente per i giovani talenti, un buon risultato
-offre l'opportunità di partecipare
-La scienza dell'Unione europea
-L'Olympia (EUSO), una competizione di team all-science in cui la Germania
-ha partecipato solo dal 2003.
-Cosa puoi vincere?
-Tutti i partecipanti ricevono un
-certificato con una scheda di valutazione.
-I 50 migliori ricevere un
-book voucher and a one-year subscription to a physics
-- La rivista.
-Cosa puoi vincere?
-Tutti i partecipanti ricevono un certificato di partecipazione e il
-Premi i vincitori del primo round riceveranno un
-Certificati.
-L'immagine sul fronte mostra, con il permesso del tipo dell'Istituto per gli Estranei
-La ricerca è stata condotta dalla Commissione europea e dal suo gruppo di esperti.
-Università di Kiel alla missione STEREO della NASA. Le sonde gemelle sono destinate a studiare le ejezioni di massa coronale e ad avvertire delle tempeste solari. Quindi mostrato è una prominence solare catturato l'11 aprile 2003 in estremo
-- ultravioletto (304 angstrom). Si estende
-L'idea per il design del poster viene da Michael Fruhnert, un partecipante al terzo round del 2007.
-Alti di 30 diametri della Terra sopra la superficie solare.
-Addresses of the state coordinators
-I coordinatori statali coordinano il corso dei primi due round negli singoli stati federali. Sono le vostre persone di contatto fino al
-Terzo round.
+Quando? Inizio 2008
+Quando? A partire da maggio 2007. La data esatta di scadenza per la consegna può essere ottenuta dai vostri insegnanti o trovata sul sito web dell'IPhO.
+Quando? Da settembre alla fine di ottobre 2007.
+Quando? I problemi vengono inviati a tutti i vincitori del primo turno.
+Come? Ancora una volta, sono previsti esami teorici ed esperimentali.
+In preparazione all'IPhO, vengono organizzati seminari sui problemi, specificamente rivolti a domande tipiche dei concorsi olimpici.
+Come? Ora dovete affrontare due esami teorici e due esperimentali. Nel pomeriggio ci sono seminari sui problemi per la preparazione, oltre a escursioni.
+Chi? I 15 migliori del terzo turno.
+Chi? I 50 migliori del secondo turno.
+Chi? Tutti coloro che sono interessati e che, nell'anno scolastico 2007/2008, frequentano una scuola di istruzione generale e sono nati dopo il 30.06.1988.
+Dove? Per il quarto turno i partecipanti sono invitati per una settimana all'IPN di Kiel.
+Dove? Il terzo turno si svolge come un seminario di una settimana. La località non è ancora stata definitivamente stabilita.
+Dove? I problemi vengono risolti come compito a casa. Consegnate il lavoro al vostro insegnante di materia per la correzione.
+Come? Le attività da svolgere sono problemi di fisica teorica ed esperimentale.
+Sono notevolmente più difficili rispetto al primo turno. Si applicano le stesse regole del primo turno.
+Dove? Di nuovo risolvete i problemi a casa. Il vostro lavoro deve raggiungere il coordinatore statale responsabile per la correzione entro il 01 novembre 2007 e verrà nuovamente valutato all'IPN.
+Come? Devono essere risolti quattro problemi provenienti da tutti i settori della fisica.
+Le soluzioni devono essere logicamente complete e non eccessivamente lunghe.
+È consentito utilizzare libri di testo o raccolte di formule, a patto che le fonti siano citate.
+Le formule presenti nei libri di testo comuni non devono essere dimostrate. È consentito soltanto lavoro individuale.
+In particolare, non è permesso utilizzare aiuti o appunti redatti da altri.
+Gli studenti della scuola secondaria di primo grado ricevono un bonus di punti.
+
+Cosa si può vincere?
+I cinque partecipanti più brillanti non solo formano la squadra olimpica, ma anche in questa fase superano il processo di selezione per la Fondazione Nazionale Tedesca per lo Studio (Studienstiftung des deutschen Volkes). Per gli altri partecipanti, oltre al premio in denaro di 500 euro, sono previsti viaggi linguistici e soggiorni in istituti di ricerca in tutto il mondo. La Società Tedesca di Fisica (Deutsche physikalische Gesellschaft) assegna inoltre il suo premio per studenti ai membri della squadra.
+
+Cosa si può vincere?
+Tutti i partecipanti ricevono un attestato con una scheda di valutazione.
+
+In particolare per i giovani talenti, un buon risultato offre l'opportunità di partecipare all'Olimpiade Europea della Scienza (EUSO), una gara a squadre in tutte le scienze, alla quale la Germania partecipa soltanto dal 2003.
+
+Cosa si può vincere?
+Tutti i partecipanti ricevono un attestato con una scheda di valutazione.
+
+I cinquanta migliori ricevono un buono per libri e una sottoscrizione annuale a una rivista di fisica.
+
+Cosa si può vincere?
+Tutti i partecipanti ricevono un attestato di partecipazione e i vincitori della prima fase ricevono un ulteriore attestato.
+
+L’immagine in copertina mostra, con il gentile permesso dell'Istituto per la Fisica Spaziale dell'Università di Kiel, il Solar Electron and Proton Telescope (SEPT), un contributo dell'Università di Kiel alla missione NASA STEREO. Le sonde gemelle hanno lo scopo di studiare le eiezioni coronali di massa e di avvisare in anticipo dei tempeste solari. Viene mostrata anche una prominente solare catturata il 11 aprile 2003 nell'estremo ultravioletto (304 Angström). Si estende
+L'idea per il disegno del manifesto proviene da Michael Fruhnert, partecipante alla terza fase del 2007.
+A più di 30 diametri terrestri sopra la superficie solare.
+Indirizzi dei coordinatori statali
+I coordinatori statali si occupano della gestione delle prime due fasi nelle singole regioni federali. Sono il vostro riferimento fino alla terza fase.
+
 Baden-Württemberg:
 Werner Frey
-Istituto nazionale di sviluppo scolastico
-- Il mio padre è morto. 22 - Frey
-Rodebohlstraße 131
-70197 Stuttgart
-Werner.frey@ls.kv.bwl.de
-Amburgo:
+Landesinstitut für Schulentwicklung
+Ref. 22 - Frey
+Rotebühlstraße 131
+70197 Stoccarda werner.frey@ls.kv.bwl.de
+
+Hamburg:
 Detlef Kaack
-Istituto di formazione continua degli insegnanti
-e sviluppo scolastico
+Institut für Lehrerfortbildung und Schulentwicklung
 Felix-Dahn-Straße 3
-20357 Amburgo
-Detlef.kaack@li-hamburg.de
+20357 Amburgo detlef.kaack@li-hamburg.de
+
 NRW Detmold:
-Peter Goldschule
-Regione Detmold
-Consulenza fisica
-Via Leopold 13-15
-32756 Detmold
-- il numero di persone che hanno ricevuto il diploma di Stato
+Peter Goldkuhle
+Bezirksregierung Detmold
+Fachberatung Physik
+Leopoldstraße 13-15
+32756 Detmold peter.goldkuhle@brdt.nrw.de
+
 Saarland:
 Dr. Doris Simon
-La scuola di Teodor-Heuss
-Via di chieri 4
-66280 Sulzbach
-Doris.simon@web.de
-- La Sassonia:
-Gioias, il capo della polizia
-La scuola superiore di Wilhelm-Ostwald
-Strada Willi-Bredel. 15
-04279 Leipzig
-- "Signore del lavoro"
-Il Regno Unito:
+Theodor-Heuss-Gymnasium
+Quierschieder Weg 4
+66280 Sulzbach doris.simon@web.de
+
+Sachsen:
+Joachim Brucherseifer
+Wilhelm-Ostwald-Gymnasium
+Willi-Bredel-Str. 15
+04279 Lipsia joachimbrucherseifer@web.de
+
+Sachsen-Anhalt:
 Wolfgang Pannicke
-Georg Cantor-Gymnasium
-- Muldestr. 3
-06122 Sala
-- l'articolo 6 del regolamento (UE) n.
+Georg-Cantor-Gymnasium
+Muldestr. 3
+06122 Halle wpannicke@gmx.de
+
 Schleswig-Holstein:
-Il dottor D. Harri Heise
-Dammino settentrionale 20
-25746 Pagano
-il numero di persone che hanno ricevuto la notifica è stato indicato nella tabella di cui al punto 1.
+OStD Dr. Harri Heise
+Norderdamm 20
+25746 Heide harri.heise@t-online.de
+
 Thüringen:
 StR Harald Ensslen
-Carl Zeiss High School
-Strada Erich-Kuithan. 7
-07743 Jena
-h.ensslen@arcor.de
-Cologne, Repubblica federale di Germania:
+Carl-Zeiss-Gymnasium
+Erich-Kuithan-Str. 7
+07743 Jena h.ensslen@arcor.de
+
+NRW Köln:
 StD Dieter Stauder
-Scuola di scuola superiore di Nicolaus Cusanus
-- Gotenstr. 50
+Nikolaus-Cusanus-Gymnasium
+Gotenstr. 50
 53175 Bonn
 DStauder@t-online.de
-Monster della Repubblica federale di Germania:
+
+NRW Münster:
 LRSD Klaus Dingemann
-Municipalità di Munster
-Albrecht-Thaer Str. 9
-48147 campioni
-Klaus.Dingemann@bezreg-muenster. - (FR) Il Parlamento europeo ha adottato una decisione che non può essere adottata.
-I servizi di assistenza tecnica
-Rinasco-Pfalz:
+Bezirksregierung Münster
+Albrecht-Thaer-Str. 9
+48147 Münster
+Klaus.Dingemann@bezreg-muenster.nrw.de
+
+Rheinland-Pfalz:
 StD Beate Schuster
-La scuola superiore Ramstein-Miesenbach
-Alla cerimonia 14
+Gymnasium Ramstein-Miesenbach
+Zum Kirchbühl 14
 66877 Ramstein-Miesenbach
 Beate_Schuster@gmx.de
+
 NRW Düsseldorf:
 LRSD Norbert Stirba
-Regione di Düsseldorf
-Strada dei pescatori. 10
+Bezirksregierung Düsseldorf
+Fischerstr. 10
 40477 Düsseldorf
-Norbert.stirba@bezreg-duesseldorf.
-I servizi di assistenza tecnica
+Norbert.stirba@bezreg-duesseldorf.nrw.de
 Mecklenburg-Vorpommern:
 PD Dr. Michael Beyer
-Istituzione di fisica
+Istituto di Fisica
 Università di Rostock
-Piazza universitaria 3
-18051 Rostock
-michael.beyer@uni-rostock.de
+Universitätsplatz 3
+18051 Rostock michael.beyer@uni-rostock.de
+
 Hessen:
 OStR Erwin Nungeßer
-Via Hans-Sachs 23
-64291 Città di Darmstadt
-e.nungesser@medianet-world.de
-La Germania:
+Hans-Sachs-Weg 23
+64291 Darmstadt e.nungesser@medianet-world.de
+
+Niedersachsen:
 Dr. Klaus Juraschek
-- La scuola superiore Felix-Little
-Strada Böttinger 17
-37037 Göttingen
-Fkg@goettingen.de
+Felix-Klein-Gymnasium
+Böttinger Straße 17
+37037 Göttingen fkg@goettingen.de
+
 NRW Arnsberg:
-LRSD Reinhold Klüter (coordinatore)
-Regione di Arnsberg
-Discriminazione 43
+LRSD Reinhold Klüter (Coordinatore)
+Regione di distretto Arnsberg
+Dipartimento 43
 Laurentiusstraße 1
-59821 Arnsberg
-reinhold.klueter@bra.nrw.de
+59821 Arnsberg reinhold.klueter@bra.nrw.de
+
 Baviera:
 StD Richard Reindl
-La scuola superiore di Werdenfels
-Strada meteorologica 30
-82467 Chiese di Garmisch
-rgmrei@t-online.de
+Werdenfels-Gymnasium
+Wettersteinstraße 30
+82467 Garmisch-Patenkirchen rgmrei@t-online.de
+
 Berlino:
 Dr. Ingo Wilken
-Scuola di scuola superiore
+Lise-Meitner-Schule
 Rudower Str. 184
-12351 Berlino
-Ingo.wilken@web.de
-Brandenburg:
+12351 Berlino ingo.wilken@web.de
+
+Brandeburgo:
 Christian Kaspar
-Carl Friedrich-Gauß-Gymnasium
-Str. Friedrich-Ebert 52
-15234 Francoforte/Oder
-Chkaspar@web.de
-Bremeno:
+Carl-Friedrich-Gauß-Gymnasium
+Friedrich-Ebert-Str. 52
+15234 Frankfurt/Oder chkaspar@web.de
+
+Brema:
 OStR Peter Weinhold
-Lloyd's High School
-Strada Grazer . 61
+Lloyd Gymnasium
+Grazer Str. 61
 27568 Bremerhaven
 Pweinhold@t-online.de
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Snell's Law (metodo)|Snell's Law]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1z_4wTG6iLB_4-pXMcPlATBKxy2m_Cef5/view)
 

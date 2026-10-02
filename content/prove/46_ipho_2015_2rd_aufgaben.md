@@ -75,59 +75,33 @@ and find out what actually happens upon release at point A. (5* pts.)
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 1 Up the Hill
-(Ponti di cui al punto 25 + 5*)
-Due coni omogenei incollati alle loro basi,
-con radius base-circle R and opening angle $\alpha$, lie, as seen in the
-adiacente figure, su due thin rails
-che hanno un angolo di apertura $\beta$. The plane spanned by the rails makes an angle $\gamma$ with the horizontal.
-Un denota il punto più basso dei binari. La massa
-di cui il doppio cono è m.
-Il centro di massa del doppio cono è inizialmente situato, rispetto al piano spanned by the two rails,
-verticalmente sopra il punto A. Dopo essere stato rilasciato, il doppio cono ruota da solo lungo i binari - cioè, in salita. In questo modo,
-La base dei coni è sempre centrata tra
-- Le ferrovie. Si può supporre che l'aereo spanned da linee di connessione tra il centro di massa del cono e i punti di contatto del cono doppio con i binari
-è sempre perpendicolare al piano dei binari.
-A
-conione doppia
-$\beta$
-$\alpha$
-d
-2R
-tratti
-Fig. 1: Conone doppio su binari
-(top view del piano ferroviario).
-1.a) Spiegare fisicamente come sia possibile che, dopo essere stato rilasciato al punto A, il doppio cono
-Apparentemente, si sta facendo a rotoli. State which condition(s) the angles $\alpha$, $\beta$ and $\gamma$ must satisfy
-per questo e giustificare la tua risposta. (8 p.)
-1.b) Mostra che il momento di inerzia I del doppio cono per rotazione circa l'asse attraverso il
-due punti di cono è
-$$I = \frac{3}{10}\,m\,R^2$$
-(cfr.
-1.c) Determina un'espressione per la velocità del centro di massa del doppio cono come a
-funzione della distanza d rotolato nel piano ferroviario. (cfr.
-1.d) Calcolare, per i valori $\alpha = 50^\circ$, $\beta = 40^\circ$, $\gamma = 5{,}0^\circ$, $R = 10\ \text{cm}$ e $m = 100\ \text{g}$, la distanza
-che il doppio cono ruota verso l'alto in totale, così come la velocità massima raggiunta nel farlo.
-(7 punti)
-Potete presumere che il doppio cono ruoli senza scivolare.
-Problema bonus: con la parte seguente puoi guadagnare 5 punti bonus.
-*1.e) L'ipotesi che il piano spanned by the connecting lines between the cone's center of mass and the contact points of the double cone with the rails is always perpendicular to the
-Plan of the Rails non è corretto. Investigate at which points
-i binari effettivamente toccano il doppio cono nel caso descritto nella parte precedente
-E scopri cosa succede effettivamente dopo il rilascio al punto A. (5* pts.)
+**Problema 1 Su per la collina (25 + 5* punti)**
+Due coni omogenei incollati tra loro alle basi, con raggio del cerchio di base R e angolo di apertura $\alpha$, giacciono, come mostrato nella figura accanto, su due binari sottili che formano un angolo di apertura $\beta$. Il piano individuato dai binari forma un angolo $\gamma$ con il piano orizzontale.
+A indica il punto più basso dei binari. La massa del doppio cono è m.
+Il centro di massa del doppio cono si trova inizialmente, rispetto al piano formato dai due binari, verticalmente sopra il punto A. Dopo essere stato rilasciato nel punto A, il doppio cono rotola da solo lungo i binari – ossia in salita. Durante il moto, la base dei coni rimane sempre centrata tra i binari. Si può assumere che il piano formato dai segmenti congiungenti il centro di massa del cono e i punti di contatto tra il doppio cono e i binari sia sempre perpendicolare al piano dei binari.
 
+Un doppio cono
+$\beta$
+$\alpha$ d
+2R binari
+Fig. 1: Doppio cono sui binari (veduta dall’alto del piano dei binari).
+
+1.a) Spiegare fisicamente come sia possibile che, dopo essere stato rilasciato nel punto A, il doppio cono apparentemente rotoli in salita. Indicare quali condizioni devono soddisfare gli angoli $\alpha$, $\beta$ e $\gamma$ affinché ciò avvenga e giustificare la risposta. (8 punti)
+1.b) Dimostrare che il momento d’inerzia I del doppio cono rispetto all’asse passante per i due vertici dei coni vale
+$$I = \frac{3}{10}\,m\,R^2$$ (5 punti)
+1.c) Determinare un’espressione per la velocità del centro di massa del doppio cono in funzione della distanza d percorsa nel piano dei binari. (5 punti)
+1.d) Calcolare, per i valori $\alpha = 50^\circ$, $\beta = 40^\circ$, $\gamma = 5{,}0^\circ$, $R = 10\ \text{cm}$ e $m = 100\ \text{g}$, la distanza totale percorsa in salita dal doppio cono, nonché la velocità massima raggiunta durante il moto.
+(7 punti)
+
+Si può assumere che il doppio cono rotoli senza strisciare.
+Problema bonus: Con la seguente parte puoi guadagnare 5 punti bonus.
+
+*1.e) L'ipotesi che il piano formato dai segmenti congiungenti il centro di massa del cono al punto di contatto tra il doppio cono e i binari sia sempre perpendicolare al piano dei binari non è, strettamente parlando, corretta. Indaga in quali punti i binari toccano effettivamente il doppio cono nel caso descritto nella parte precedente e stabilisci cosa accade effettivamente al rilascio nel punto A. (5* punti)
 
 <!--fig:start-->
 ![[_attachments/46_IPhO_2015_2Rd_Aufgaben/46_IPhO_2015_2Rd_Aufgaben_p2_f1.png]]
 *double cone on rails, top view*
 <!--fig:end-->
-
-**Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1f1l9Og9w9vNzQsgcRFzp6ugbCWdalLnn/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2015 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/lens,object/tank-container"></span>

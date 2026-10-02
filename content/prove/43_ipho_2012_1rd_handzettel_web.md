@@ -195,41 +195,21 @@ a material with a resistivity of 0.11 $\Omega$ mm.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 3 (13 punti)
+**Problema 3 (13 punti)**
 Il lancio perfetto
-Un giocatore di basket, che lancia da una posizione in piedi, lancia una palla
-At a basketball hoop, il cui centro è a a horizontal distance of 5.0 m
-dal punto di rilascio. Il bordo superiore del
-hoop is mounted at a height of 3.05 m and
-ha un diametro di 45 cm. La circonferenza del
-La palla è di 76 cm ed è rilasciata da un'altezza di
-2.10 m. La palla è lanciata in modo che
-Cade attraverso il centro del bordo del cerchio, senza toccare il
-rim o il backboard dietro l'hoop.
-State in which release directions and with which
-release speeds il giocatore di basket può
-E' un'occasione per lanciare la palla.
-Per l'analisi, negligenza della resistenza all'aria
-E supponi che la palla non ruota. Mentre il
-Ball Falls Through the hoop, la sua velocità può
-si presume che sia approssimativamente costante.
-Lead break mishap
-Il lead di una matita meccanica si è spezzato in due pezzi. If
-i due pezzi di piombo sono collegati in serie in un circuito elettrico,
-la resistenza totale è di 56,0 $\Omega$, mentre
-la resistenza totale per una connessione parallela dei due pezzi
-è solo 12,7 $\Omega$.
-Da questi dati, determinare sia la durata totale del lead che
-Le lunghezze dei singoli pezzi di piombo.
-Il lead ha un diametro di 0,5 mm ed è fatto di
-a material with a resistivity of 0.11 $\Omega$ mm.
 
-**Topic:** [[Newtonian Mechanics]], [[Circuits]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Resistor (object)|Resistor]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1gU1nScJ_TtxuxIOj6RuSX_CxIdd-zhbM/view)
+Un giocatore di pallacanestro, da posizione ferma, lancia una palla verso un canestro il cui centro si trova a una distanza orizzontale di 5,0 m dal punto di rilascio. Il bordo superiore del canestro è fissato a un'altezza di 3,05 m e ha un diametro di 45 cm. La circonferenza della palla è di 76 cm e viene rilasciata da un'altezza di 2,10 m. Il lancio viene effettuato in modo che la palla passi per il centro del bordo del canestro, senza toccare né il bordo né la schiuma posteriore dietro al canestro.
 
+Indicare in quali direzioni e con quali velocità iniziali il giocatore di pallacanestro può lanciare la palla per realizzare tale tiro.
+
+Per l'analisi, trascurare la resistenza dell’aria e assumere che la palla non ruoti. Durante il passaggio attraverso il canestro, si può assumere che la velocità della palla sia approssimativamente costante.
+
+Incidente con matita a piombo
+Il piombo di una matita meccanica si è spezzato in due pezzi. Se i due pezzi di piombo sono collegati in serie in un circuito elettrico, la resistenza totale è di 56,0 $\Omega$; mentre per un collegamento in parallelo la resistenza totale è soltanto di 12,7 $\Omega$.
+
+Da questi dati, determinare sia la lunghezza totale del piombo che le lunghezze dei singoli pezzi di piombo.
+
+Il piombo ha un diametro di 0,5 mm ed è realizzato con un materiale avente una resistività di 0,11 $\Omega$ mm.
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2012 — Quesito 4" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Ottica"></span>
@@ -476,238 +456,161 @@ Information on the four selection rounds for the 43rd IPhO 2012
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 4 (15 punti)
-Problema minore (10 punti)
+**Problema 4 (15 punti)**
+Problema per giovani partecipanti (10 punti)
 Nuovo!
-Registrare ora a
-www.ipho.info
-Per la competizione!
-Rondo 1
-Quando? Dall'aprile 2011 in poi. Le date di presentazione sono disponibili sul sito Internet dell'IPhO.
-- Chi? Qualsiasi persona interessata
-2011/2012 school year attends a general-education
-scuola tedesca e cosa
-nato dopo il 30 giugno 1992.
-- Dove? I problemi sono risolti come
-- I compiti. Tu ti impegni nel tuo lavoro
-a your subject teacher per
-- La correzione.
-Come? Quattro problemi devono essere risolti
-da tutti gli ambiti della fisica. Il
-soluzioni possono essere scritte a mano o
-su un computer
-e dovrebbe essere comprensibile ma non troppo lungo.
-I libri di testo possono essere utilizzati, purché le fonti siano citate. Formulari found in the standard
-I libri di testo non devono essere
-derivati. Solo
-Il lavoro individuale è consentito. Qualsiasi persona che sia nel
-L'anno scolastico 2011/12 non ha ancora raggiunto il
-livello di grado second-to-last
-Can earn a points bonus with the junior problem.
-Cosa puoi vincere?
-Tutti
-partecipanti
-ricevere
-a
-Certificato di partecipazione o certificato di riconoscimento.
-Rondo 2
-Quando? Settembre a ottobre 2011.
-- Chi? I problemi sono inviati a
-Tutti i vincitori del primo round.
-- Dove? Tu risolvi i problemi di nuovo a
-Home and send your work (a casa e mandare il lavoro)
-per correzione, non corretto, entro il 31 ottobre
-2011 al coordinatore statale. È più tardi
-Reviewed again at the IPN.
-Come? I problemi di fisica teorica e sperimentale devono essere risolti. Questi sono
-più esigente di quanto non sia stato il primo
-- Rondo. Altrimenti le stesse regole si applicano al primo round.
-Cosa puoi vincere?
-Tutti i partecipanti ricevono un certificato di riconoscimento con una scheda di valutazione. Il
-circa 50 Best sono invitati al terzo
-- Rondo.
-I coordinatori statali coordinano il corso dei primi due round negli singoli stati federali.
-Sono le vostre persone di contatto fino al terzo round.
-Round 3
-Quando? 28 gennaio - 3 febbraio 2012.
-- Chi? Il 50° migliore del secondo round.
-- Dove? Il terzo round si svolge come
-un seminario di una settimana presso la DLR Göttingen.
-Come? Il compito ora è di lavorare su due teorici
-e due
-sperimentale
-Examinamenti senza materiale di riferimento. # Nei pomeriggi # # Ci sono
-seminari di problemi
-e
-- Escursioni.
-Cosa puoi vincere?
-In aggiunta a
-book voucher e un
-all'appuntamento, tutti i partecipanti ricevono un certificato di riconoscimento con una scheda di valutazione. Giovani talenti
-sono offerti l'opportunità di
-prendere parte al
-Il programma di ricerca scientifica (EUSO)
-scienza
-competizione di squadra.
-Round 4
+Iscrizioni online su www.ipho.info per la competizione!
+
+Tappa 1
+Quando? A partire da aprile 2011. Le scadenze per la consegna sono disponibili sul sito web dell'IPhO.
+Chi? Chiunque sia interessato e, nell’anno scolastico 2011/2012, frequenti una scuola secondaria tedesca generale e sia nato dopo il 30.06.1992.
+Dove? I problemi vanno risolti come compito a casa. Consegna del lavoro al proprio insegnante di materia per la correzione.
+Come? Devono essere risolti quattro problemi, uno da ciascun settore della fisica. Le soluzioni possono essere scritte a mano o al computer e devono essere comprensibili ma non eccessivamente lunghe.
+Possono essere utilizzati testi scolastici, purché le fonti siano citate. Le formule presenti nei libri di testo standard non devono essere derivate. È consentito soltanto lavoro individuale. Chi, nell’anno scolastico 2011/2012, non ha ancora raggiunto il penultimo anno di scuola superiore può ottenere un bonus di punti con il problema per giovani partecipanti.
+Cosa si può vincere?
+Tutti i partecipanti ricevono un attestato di partecipazione o un certificato di riconoscimento.
+
+Tappa 2
+Quando? Settembre ottobre 2011.
+Chi? I problemi vengono inviati a tutti i vincitori della prima tappa.
+Dove? I problemi vanno nuovamente risolti a casa e inviati, non corretti, al coordinatore statale entro il 31 ottobre 2011. Successivamente, vengono nuovamente valutati all’IPN.
+Come? Devono essere affrontati problemi teorici ed esperimenali. Sono più impegnativi rispetto alla prima tappa. Altrimenti valgono le stesse regole della prima tappa.
+Cosa si può vincere?
+Tutti i partecipanti ricevono un certificato di riconoscimento con una scheda di valutazione. I circa 50 migliori sono invitati alla terza tappa.
+I coordinatori statali si occupano della gestione delle prime due tappe nei singoli stati federali.
+Sono il vostro riferimento fino alla terza tappa.
+
+Tappa 3
+Quando? 28 gennaio - 03 febbraio 2012.
+Chi? I circa 50 migliori classificati della seconda prova.
+Dove? La terza prova si svolge come seminario di una settimana al DLR Göttingen.
+Come? Ora il compito consiste nello svolgere due prove teoriche e due prove sperimentali senza materiale di riferimento. Nel pomeriggio si tengono seminari sui problemi e visite guidate.
+Cosa si può vincere?
+Oltre a un buono libri e una sottoscrizione, tutti i partecipanti ricevono un attestato di partecipazione con una scheda valutativa. Ai giovani talenti viene offerta l'opportunità di partecipare alla European Science Olympiad (EUSO), una gara a squadre di scienze.
+
+Tappa 4
 Quando? Aprile 2012.
-- Chi? Il 15° migliore del terzo round.
-- Dove? Per il quarto round, il
-I partecipanti sono invitati a una settimana
-Centro di ricerca.
-Come? Qui di nuovo gli esami teorici ed sperimentali sono sul programma. To
-preparare l'IPhO,
-seminari di problemi
-sono erodi
-che sono specificamente orientati a problemi tipici di IPhO.
-Cosa puoi vincere?
-I cinque più riusciti non solo
-Ma con questo round, passano anche attraverso il processo di selezione.
-La Commissione ha adottato una proposta di regolamento (UE) n.
-- Popoli. Per gli altri ci sono, oltre a un premio in contanti di 500 euro,
-• le attività di formazione professionale e di formazione professionale. Inoltre, la German Physical Society (German Physical Society) assegna il suo premio al suo studente ai membri del team.
+Chi? I 15 migliori della terza prova.
+Dove? Per la quarta tappa, i partecipanti sono invitati per una settimana a un centro di ricerca.
+Come? Anche qui sono previste prove teoriche e sperimentali. Per prepararsi alla IPhO, si tengono seminari sui problemi appositamente rivolti a tipici problemi della IPhO.
+Cosa si può vincere?
+I cinque più bravi non solo formano la squadra olimpica, ma in questa tappa completano anche il processo di selezione per la Fondazione Nazionale Accademica Tedesca (Studienstiftung des deutschen Volkes). Per gli altri ci sono, oltre a un premio in denaro di 500 euro, viaggi per lo studio della lingua e tirocini. Inoltre, i membri della squadra ricevono il premio studentesco della Società Tedesca di Fisica (Deutsche Physikalische Gesellschaft).
+
 Baden-Württemberg
 OStR Fabian Bühler
-Centro di ricerca per studenti
-Sud-Württemberg
-- Gutenbergstr. 18
-88348 Bad Saulgau
-baden-wuerttemberg@ipho.info
+Centro per la Ricerca degli Studenti
+Südwürttemberg
+Gutenbergstr. 18
+88348 Bad Saulgau baden-wuerttemberg@ipho.info
+
 Baviera
 StD Richard Reindl
-La scuola superiore di Werdenfels
-Strada meteorologica 30
-82467 Chiese di Partenza di Garmisch
-bayern@ipho.info
+Werdenfels-Gymnasium
+Wettersteinstraße 30
+82467 Garmisch-Partenkirchen bayern@ipho.info
+
 Berlino
-- Dott. Ingo Wilken
-Scuola di scuola superiore
+StD Dr. Ingo Wilken
+Lise-Meitner-Schule
 Rudower Str. 184
-12351 Berlino
-berlin@ipho.info
-Brandenburg
+12351 Berlino berlin@ipho.info
+
+Brandeburgo
 StR Christian Kaspar
-Carl-Friedrich-Gauß-Gymnasium
-Str. Friedrich-Ebert 52
-15234 Francoforte/Oder
-Brandenburg@ipho.info
-Bremeno
+Liceo Carl-Friedrich-Gauß
+Friedrich-Ebert-Str. 52
+15234 Francoforte sull'Oder brandenburg@ipho.info
+Bremen
 OStR Peter Weinhold
-Lloyd's High School
-Strada Grazer . 61
-27568 Bremerhaven
-Bremen@ipho.info
-L'Agenzia europea
+Lloyd Gymnasium
+Grazer Str. 61
+27568 Bremerhaven bremen@ipho.info
+Hamburg
 Detlef Kaack
-Istituto di formazione continua degli insegnanti
-e sviluppo scolastico
+Istituto per la formazione degli insegnanti e lo sviluppo della scuola
 Felix-Dahn-Straße 3
-20357 Amburgo
-hamburg@ipho.info
-Hesse
+20357 Amburgo hamburg@ipho.info
+Assia
 StR Jörg Steiper
-Scuola svizzera di Alberto
-Centro di ricerca per studenti di Nordhessen
-Str. Cologne 89
-34119 Casella
-hessen@ipho.info
-Mecklenburg-Vorpommern
-Prof. Dr. Heidi legno di legno
-Istituzione di fisica
+Scuola Albert-Schweizer
+Centro di ricerca degli studenti per l’Assia nordorientale
+Kölnische Str. 89
+34119 Kassel hessen@ipho.info
+Meclemburgo-Pomerania Anteriore
+Prof. Dr. Heidi Reinholz
+Istituto di Fisica
 Università di Rostock
-Piazza universitaria 3
-18051 Rostock
-Mecklenburg-vorpommern@ipho.info
-La Germania
+Universitätsplatz 3
+18051 Rostock mecklenburg-vorpommern@ipho.info
+Bassa Sassonia
 OStR Dirk Brockmann-Behnsen
-Cammino di croce
-30171 Hannover
-e il Prof. Dr. Gunnari Friege
+Krausenstraße 39
+30171 Hannover e prof. Dr. Gunnar Friege
 IDMP Università di Hannover
-Giardini balenici 1
-30167 Hannover
-niedersachsen@ipho.info
-R.A. Arnsberg
+Welfengarten 1
+30167 Hannover niedersachsen@ipho.info
+NRW Arnsberg
 LRSD Hans Beinghaus
-Regione di Arnsberg
-Discriminazione 43
+Regione amministrativa di Arnsberg
+Dipartimento 43
 Laurentiusstraße 1
-59821 Arnsberg
-nrw-arnsberg@ipho.info
+59821 Arnsberg nrw-arnsberg@ipho.info
 NRW Detmold
-StD Peter Goldschule e
+StD Peter Goldkuhle e
 StD Stefan Blumenthal
-Comune di Detmold
-Consulenza fisica
-Via Leopold 13-15
-32756 Detmold
-nrw-detmold@ipho.info
+Regione amministrativa di Detmold
+Consulenza specialistica in Fisica
+Leopoldstraße 13-15
+32756 Detmold nrw-detmold@ipho.info
 NRW Düsseldorf
 LRSD Norbert Stirba
-Regione di Düsseldorf
-Al Bonneshof 35
-40474 Düsseldorf
-nrw-duesseldorf@ipho.info
-Cologne, Repubblica federale di Germania
+Regione amministrativa di Düsseldorf
+Am Bonneshof 35
+40474 Düsseldorf nrw-duesseldorf@ipho.info
+NRW Colonia
 StD Dieter Stauder
-Seminario di studio
-per gli insegnanti delle scuole di Bonn
-Allievo di Godesberger 136
-53175 Bonn
-nrw-koeln@ipho.info
-Rinascimento
+Istituto per la formazione degli insegnanti per le scuole di Colonia
+Godesberger Allee 136
+53175 Bonn nrw-koeln@ipho.info
+NRW Münster
 LRSD Klaus Dingemann e
 Reinhard Beer
-Albrecht-Thaer Str. 9
-Discriminazione 48
-48147 campioni
-nrw-muenster@ipho.info
-Rinasco-Palce
+Albrecht-Thaer-Str. 9
+Dipartimento 48
+48147 Münster nrw-muenster@ipho.info
+Reno-Palatinato
 StD' Beate Schuster
-Sickingen-Gymnasium Landstuhl
-Rue Philipp-Fauth 3
-66849 poltrone
-Rheinland-pfalz@ipho.info
+Ginnasio Sickingen Landstuhl
+Philipp-Fauth-Straße 3
+66849 Landstuhl rheinland-pfalz@ipho.info
 Saarland
-Dr. Doris Simon
-La scuola di Teodor-Heuss
-Via di chieri 4
-66280 Sulzbach
-- il sito web di Internet
+Dott. Doris Simon
+Ginnasio Theodor-Heuss
+Quierschieder Weg 4
+66280 Sulzbach saarland@ipho.info
 Sassonia
-Gioias, il capo della Commissione
-La scuola superiore di Wilhelm-Ostwald
-Strada Willi-Bredel. 15
-04279 Leipzig
-Sachsen@ipho.info
-Sassonia-Annault
+Joachim Brucherseifer
+Ginnasio Wilhelm-Ostwald
+Willi-Bredel-Str. 15
+04279 Lipsia sachsen@ipho.info
+Sassonia-Anhalt
 Wolfgang Pannicke
-Georg Cantor-Gymnasium
-Torstrasse 13
-06110 Sala
-Sachsen-anhalt@ipho.info
+Georg-Cantor-Gymnasium
+Torstraße 13
+06110 Halle sachsen-anhalt@ipho.info
 Schleswig-Holstein
 OStR Stefan Burzin
-La scuola superiore di Werner-Heisenberg
-Via Rosa 41
-25746 Pagano
-Schleswig-holstein@ipho.info
-Turin
-S.r. Harald Ensslen
-Seminario di studio di Stato per la formazione degli insegnanti
-Via filosofica 26
-07743 Jena
-thueringen@ipho.info
-Addresses of the state coordinators
-Nuovo!
-A partire da quest'anno, gli studenti
-e supervising teachers possono
-Registrarsi online per la competizione su www.ipho.info.
-Informazioni sui quattro round di selezione per il 43° IPhO 2012
+Werner-Heisenberg-Gymnasium
+Rosenstraße 41
+25746 Heide schleswig-holstein@ipho.info
+Thüringen
+SR Harald Ensslen
+Staatliches Studienseminar für Lehrerausbildung Außenstelle Jena
+Philosophenweg 26
+07743 Jena thueringen@ipho.info
+Indirizzi dei coordinatori regionali
+NUOVO!
+Da quest’anno gli studenti e i docenti responsabili possono iscriversi online alla gara su www.ipho.info.
+Informazioni sulle quattro fasi di selezione per la 43ª Olimpiade Internazionale di Fisica (IPhO) 2012
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Snell's Law (metodo)|Snell's Law]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1gU1nScJ_TtxuxIOj6RuSX_CxIdd-zhbM/view)
 

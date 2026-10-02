@@ -173,36 +173,81 @@ b) Calculate the time the electron needs to travel along this path. (3 pts.)
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 2 (10 punti)
-Un'altra cosa difficile
-Un puzzle di parole incrociate completamente senza dei greci e cantoni svizzeri? - Si può fare!
-Risolvi il seguente puzzle e trova la parola soluzione.
-Across:
-1 model for microscopic objects with opposing halves 4 the human acoustic "organ" 5 wave phenomenon perceivable with the eyes 6 numerical value
-7 capacity to store charge 8 continuamente elapses at every $\to$ 40 10 state of a body with a time-varying position
-11 unità di differenze di potenziale elettrico
-12 irrotation 15 half of a magnet (conventionally marked red) 18 descriptivo model of reality
-21 liquid or gas in motion 22 helped in the detection of time dilation 23 longitudinal pressure wave
-24 abbreviation for mean sea level 25 negatively charged elementary particle 27
-30 fourth state of matter 32 calculation rule 33 much-discussed picture of a function 34 totality of the objects under consideration 35 particle property that is conserved overall 38 unlimited in time
-39 movimento rotativo 40 punti in spazio 44 indicatore di particelle specifiche
-46 quantità fisica che varia periodicamente in tempo e spazio
-47 famiglia delle specie di uccelli più piccole con la più alta frequenza di wingbeat
-49 microscopio che "scansa" una superficie con elettroni 50 materiale che espelle parzialmente campi magnetici esterni 51 a pressione costante
-52 Gravità della Terra 53 postulato incertezza 55 control element of a transistor 56 elongation caused by an applied force 57 measure of spread,
-e.g. per measured values 58 way of verifying $\to$ 18
-- A terra:
-1 diagonalmente opposto 2 conservato in every collision 3 measuring instrument for determining temperature 5 straight, not curved 9 displacement of charge carriers by an external electric field 11 spatial volume 13 not indivisible 14 unit of
-Quantità di sostanza 16 Branch of mechanics that studies $\to$ 10 as the cause of forces
-19 non può essere creato o distrutto, solo convertito 20 SI unit named after a British physicist 26 component that conducts only when activated 28 combined method of NMR and
-ESR spectroscopy, il nome della luna forestale vicino alla seconda stella della morte
-29 di momentum trasferito da un gas per unità di tempo e area sulle pareti del suo contenitore
-31 immovabile, immutabile 35 collegamento ortogonale, cioè un dispositivo 36 pole of a voltage source 37 unit for the data volume of storage media
-39 meccanico effect by which kinetic energy decreases
-41 microscopio che "illuminate" thin samples with electrons 42 unit of measure found on beakers 43 joining by means of glue and adhesion
-45 cosmic means of transport 46 specially calibrated force meter 48 model for conduction in solids, also a group of musicians 54 non-SI unit for large areas, also the chemical symbol for a noble gas
-Soluzione
-The solution word ha qualcosa a che fare con gli ospiti di IPhO 2016 ed è formato dalle cellule segnate con cerchi (row by row, da sinistra a destra).
+**Problema 2 (10 punti)**
+Abbastanza ingarbugliato
+Un cruciverba completamente privo di dèi greci e cantoni svizzeri? Si può fare!
+Risolvete il seguente cruciverba e trovate la parola soluzione.
+
+Orizzontali:
+1 modello per oggetti microscopici con metà opposte
+4 l'organo acustico umano
+5 fenomeno ondulatorio percepibile con gli occhi
+6 valore numerico
+7 capacità di immagazzinare carica
+8 scorrere ininterrottamente a ogni $\to$ 40
+10 stato di un corpo con posizione variabile nel tempo
+11 unità di differenza di potenziale elettrico
+12 irrotazionale
+15 metà di un magnete (contrassegnata convenzionalmente in rosso)
+18 modello descrittivo della realtà
+21 liquido o gas in movimento
+22 ha contribuito alla rilevazione della dilatazione temporale
+23 onda di pressione longitudinale
+24 abbreviazione per livello medio del mare
+25 particella elementare negativamente carica
+27 semplificazione ragionevole
+30 quarto stato della materia
+32 regola di calcolo
+33 immagine molto discussa di una funzione
+34 totalità degli oggetti in esame
+35 proprietà delle particelle che si conserva complessivamente
+38 illimitato nel tempo
+39 moto rotatorio
+40 punto nello spazio
+44 indicatore di particelle specifiche
+46 grandezza fisica che varia periodicamente nello spazio e nel tempo
+47 famiglia della specie di uccelli più piccola con la frequenza di battito alare più alta
+49 microscopio che "scansiona" una superficie con elettroni
+50 materiale che espelle parzialmente campi magnetici esterni
+51 a pressione costante
+52 gravità terrestre
+53 incertezza postulata
+55 elemento di controllo di un transistor
+56 allungamento provocato da una forza applicata
+57 misura della dispersione, ad esempio per valori misurati
+58 modo di verificare $\to$ 18
+
+Verticali:
+1 diagonale opposta
+2 conservata in ogni urto
+3 strumento di misura della temperatura
+5 rettilineo, non curvo
+9 spostamento dei portatori di carica da un campo elettrico esterno
+11 volume spaziale
+13 non indivisibile
+14 unità di quantità di sostanza
+16 branca della meccanica che studia $\to$
+10 come causa delle forze
+17 unità di misura della forza ormai obsoleta
+19 non può essere creata né distrutta, solo trasformata
+20 unità del SI intitolata a un fisico britannico
+26 componente che conduce solo quando attivato
+28 metodo combinato di spettroscopia NMR ed ESR, anche nome della luna boscosa vicino al secondo Death Star
+29 quantità di moto trasferita da un gas nell'unità di tempo e superficie sulle pareti del suo contenitore
+31 immutabile, invariabile
+35 collegamento ortogonale, anche un dispositivo
+36 polo di una sorgente di tensione
+37 unità per il volume dei dati nei supporti di memorizzazione
+39 effetto meccanico che riduce l'energia cinetica
+41 microscopio che "illumina" campioni sottili con elettroni
+42 unità di misura presente sui becher
+43 unione mediante colla e adesione
+45 mezzo di trasporto cosmico
+46 dinamometro particolarmente calibrato
+48 modello per la conduzione nei solidi, anche nome di un gruppo musicale
+54 unità non del SI per aree grandi, anche simbolo chimico di un gas nobile
+Parola soluzione
+La parola soluzione ha a che fare con gli ospiti dell'IPhO 2016 ed è formata dalle celle contrassegnate con cerchi (riga per riga, da sinistra a destra).
 1
 2
 3
@@ -261,22 +306,13 @@ The solution word ha qualcosa a che fare con gli ospiti di IPhO 2016 ed è forma
 56
 57
 58
-Iscriviti ora a
-www.ipho.info
-per il
-La concorrenza!
+Iscriviti subito su www.ipho.info per la gara!
 Problema 4 (10 punti)
-Deflected
-Un elettrone, precedentemente accelerato attraverso una voltage di 100 V, entra in un campo elettrico omogeneo al punto A. Il percorso dell'elettrone è mostrato nella figura seguente. Lo spaziamento delle linee dashed nella figura corrisponde a 4.0 mm, e il movimento dell'elettrone si svolge nel piano del disegno.
-a) Determina la magnitudo e la direzione del campo elettrico che causa la deflessione dell'elettrone. (7 punti)
-b) Calcolare il tempo che l'elettrone deve viaggiare lungo questo percorso. (3 punti)
+Deflesso
+Un elettrone, precedentemente accelerato attraverso una differenza di potenziale di 100 V, entra in un campo elettrico omogeneo nel punto A. Il percorso dell'elettrone è mostrato nella figura seguente. La distanza tra le linee tratteggiate nella figura corrisponde a 4,0 mm, e il moto dell'elettrone avviene nel piano del disegno.
 
-**Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1dXrp-C8rpnVeK3mjK4qMAA9yYUkVvDVI/view)
-
+a) Determinare il modulo e la direzione del campo elettrico che causa la deviazione dell'elettrone. (7 punti)
+b) Calcolare il tempo necessario all'elettrone per percorrere questo tratto. (3 punti)
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2016 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/block,object/inclined-plane,object/beam,object/lever"></span>

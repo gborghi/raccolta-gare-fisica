@@ -43,27 +43,20 @@ Friction effects and the size of the toy car should be neglected.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 1 (13 punti)
+**Problema 1 (13 punti)**
 
-Loop di follia
+Cerchio pazze
 
-An Ambitious Tinkerer costruisce i più vari tracciati per le auto da gioco. One of his favorite tracks contains a loop of radius $R = 40\ \text{cm}$ that, as sketched in the adjacent figure, is interrupted. A very small car starts from a height $h = 3R$, rolls down the slope, and then reaches the gap in the loop. La macchina salta, vola, Atterrà delicatamente all'inizio dell'altra parte del loop e continuerà il suo viaggio.
+Un appassionato costruttore di modellini realizza tracciati molto vari per auto da gioco. Uno dei suoi tracciati preferiti contiene un anello di raggio $R = 40\ \text{cm}$ che, come mostrato nella figura accanto, è interrotto. Un'auto molto piccola parte da un'altezza $h = 3R$, scende lungo la pendenza e raggiunge quindi il tratto mancante nell'anello. L'auto salta, vola... atterra dolcemente all'inizio dell'altra parte dell'anello e prosegue il suo viaggio.
 
-Calcolare la lunghezza della sezione mancante del loop.
+Calcolare la lunghezza della sezione mancante dell'anello.
 
-Gli effetti di frattura e la dimensione della macchina da gioco dovrebbero essere trascurati.
+Si trascurino gli effetti dell’attrito e le dimensioni dell’auto da gioco.
 
 <!--fig:start-->
 ![[_attachments/46_IPhO_2015_1Rd_Handzettel_web/46_IPhO_2015_1Rd_Handzettel_web_p2_f1.png]]
 *loop track with height $3R$ and angle $\alpha$*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]], [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1KIJp1fefY0u29isN5rdkMNs-TtLpA4QV/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2015 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/resistor,object/battery,object/star,object/planet,object/ball,object/capacitor"></span>

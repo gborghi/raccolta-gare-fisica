@@ -65,49 +65,34 @@ arrangement of the individual branches in a parallel combination may be regarded
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 1
-Cassa nera
-(17 pag.)
-You are to investigate the contents of three electrical black boxes (A,
-B e C), each with two terminals,
-I circuiti sono tutti costruiti da componenti identici,
-a. resistori con resistenza $R$, inductors con inductance $L$ e capacitors with capacitance $C$. In scatole
-A e B, esattamente uno di ogni componente è installato,
-mentre in casella C, un totale di quattro elementi arbitrari sono collegati insieme.
-Quando l'impedenza è misurata come funzione del
-angular frequency, the boxes show the following behavior:
-Box A - Per un voltage applicato DC e ad frequenze angolari molto elevate la resistenza è circa $R_0$. At an angular frequency $\omega_0$, however, it rises without bound.
-Box B - Both at DC voltage and at very high angular frequencies this box has an
-- di resistenza arbitraramente elevata1. A frequenza angolare $\omega_0$, tuttavia, la sua resistenza è $R_0$.
-Box C - Il valore di resistenza misurato per box C è $R_0$, indipendente dalla frequenza angolare del
-voltage applicata.
-a) Utilizzo delle informazioni fornite, state all possible, distinct circuit diagrams2
-per le tre scatole nere A, B e C. Giustificare la scelta dei circuiti. (9 punti)
-Per alcune delle possibili realizzazioni delle tre caselle nere le informazioni fornite sono sufficienti per determinare i valori caratteristici dei componenti.
-b) Per questi casi, esprimere le quantità $R$, $L$ e $C$ in termini di $R_0$ e $\omega_0$. Determine, per
-$R_0 = 100\ \Omega$ e $\omega_0 = 40{,}0\ \text{kHz}$, i rispettivi valori di $R$, $L$ e $C$. (3,5 punti)
-Se le scatole A e B utilizzate in parte b) sono collegate in serie, ci sono frequenze angolari
-at which the resistance of this series combination is exactly $2 R_0$.
-c) Determina le frequenze angolari. (4,5 punti)
-Si può assumere che i componenti siano ideali e che gli elementi in tutte le scatole siano integrati in
-il circuito, cioè non sono né short-circuited né hanno terminali aperti.
-1Thus l'impedenza rises without bound in these cases.
-2Circuiti che differiscono solo scambiando l'ordine degli elementi in una combinazione di serie o il
-Le varie branche in combinazione parallela possono essere considerate equivalenti.
-44° IPhO 2013 - Problemi del secondo round
+**Problema 1**
+Scatole nere (17 punti)
 
+Si deve indagare il contenuto di tre scatole nere elettriche (A, B e C), ciascuna con due morsetti, i cui circuiti sono tutti costruiti da componenti identici: resistori con resistenza $R$, induttori con induttanza $L$ e condensatori con capacità $C$. Nelle scatole A e B è installato esattamente un componente di ciascun tipo, mentre nella scatola C sono collegati insieme quattro elementi arbitrari.
+
+Quando viene misurata l'impedenza in funzione della frequenza angolare, le scatole mostrano il seguente comportamento:
+Scatola A – Per una tensione continua applicata e a frequenze angolari molto elevate, la resistenza è circa $R_0$. A una frequenza angolare $\omega_0$, tuttavia, cresce senza limite.
+Scatola B – A tensione continua e a frequenze angolari molto elevate, questa scatola presenta una resistenza arbitrariamente alta¹. A una frequenza angolare $\omega_0$, tuttavia, la sua resistenza è $R_0$.
+Scatola C – Il valore di resistenza misurato per la scatola C è $R_0$, indipendentemente dalla frequenza angolare della tensione applicata.
+
+a) Utilizzando le informazioni fornite, indicare tutti i possibili schemi circuitali distinti² per le tre scatole nere A, B e C. Giustificare la scelta dei circuiti. (9 punti)
+
+Per alcune delle possibili realizzazioni delle tre scatole nere, le informazioni date sono sufficienti a determinare i valori caratteristici dei componenti.
+
+b) In questi casi, esprimere le grandezze $R$, $L$ e $C$ in termini di $R_0$ e $\omega_0$. Determinare, per $R_0 = 100\ \Omega$ e $\omega_0 = 40{,}0\ \text{kHz}$, i rispettivi valori di $R$, $L$ e $C$. (3,5 punti)
+
+Se le scatole A e B utilizzate nel punto b) sono collegate in serie, esistono frequenze angolari per le quali la resistenza di questo collegamento in serie è esattamente $2 R_0$.
+
+c) Determinare tali frequenze angolari. (4,5 punti)
+Si può assumere che i componenti siano ideali e che gli elementi in tutte le scatole siano integrati nel circuito, cioè non siano né cortocircuitati né con terminali aperti.
+1 Pertanto, nell'uno e nell'altro caso l’impedenza cresce senza limite.
+2 Circuiti che differiscono soltanto scambiando l’ordine degli elementi in una combinazione in serie o la disposizione dei singoli rami in una combinazione in parallelo possono essere considerati equivalenti.
+44ª Olimpiade Fisica Internazionale 2013 - Problemi del secondo turno
 
 <!--fig:start-->
 ![[_attachments/44_IPhO_2013_2Rd_Aufgaben/44_IPhO_2013_2Rd_Aufgaben_p2_f1.png]]
 *circuit diagrams for the three black boxes*
 <!--fig:end-->
-
-**Topic:** [[Circuits]], [[Oscillations & Waves]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Inductor (object)|Inductor]], [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1oMNWrXTt1c_ABRz_XMJ7-ngVw5AYCNz9/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2013 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/tank-container,object/cylinder"></span>
@@ -177,64 +162,43 @@ a). (1.5 points)
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 2
-Fabbricazioni di plastica
-(cfr.
-Un cristallo di altezza $H = 50\ \text{cm}$ di una superficie di >= 10 mm
-radius $R = 0{,}40\,H$ is, as sketched in the adjacent
-figure, filled up to a height $y_i = 0{,}40\,H$ with an
-liquido incompressibile. Se il vetro è lentamente rotato intorno al suo asse cilindrico, il liquido inizia anche
-a rotare a causa di frattura, e la superficie liquida
-- Deformato.
-Now the angular velocity $\omega$ of the rotation is to be slowly
-aumento.
-a) Derivare un'espressione per l'altezza $y$ della superficie liquida come funzione della distanza $x$ dall'asse di rotazione.
-Determine also at which angular velocity $\omega_\text{max}$ the glass begins to overflow. (9 punti)
-In calcoli, si può assumere un valore di $g = 9{,}81\ \text{m s}^{-2}$ Fig. Sketch del vetro rotante.
-Per l'accelerazione gravitazionale della Terra e gli effetti di trascuramento dovuti alla tensione superficiale.
-It becomes more interesting if one fills two liquids of different densities $\rho_1$ and $\rho_2 < \rho_1$ into the glass3
-e poi lo mette in rotazione. Poiché le viscosità dei liquidi possono essere molto diverse,
-I liquidi assumono il movimento rotazionale del vetro a tassi diversi
-e possono avere velocità di rotazione diverse. Al sito www.ipho.info troverai
-nella sezione "Testi" (problemi), un link a un video in cui, per l'acqua e un tipo di olio,
-potete vedere come le forme delle superfici cambiano durante l'inizio della rotazione e
-durante il rallentamento.
-Per lo studio delle forme di superficie, supponiamo per semplicità che ciascuno dei due liquidi ruota con una velocità angolare fissa $\omega_1$ e $\omega_2$ rispettivamente, che i liquidi non siano soggetti a frattura,
-e che le altezze iniziali di riempimento dal fondo del vetro sono $y_{1i}$ e $y_{2i} > y_{1i}$ rispettivamente.
-b) Determina la forma delle due superfici liquide, cioè give $y_1(x)$ and $y_2(x)$
-Le funzioni di parametri che si verificano. Restrict yourself to the case in which the
-Interface of the two liquids non tocca la superficie del liquido superiore e né
-di tutte le superfici liquide è in contatto con il fondo. Inoltre, il vetro non dovrebbe sovrafflow.
-(8 punti)
-c) Usare i valori $\rho_2 = 0{,}80\,\rho_1$, $y_{1i} = 0{,}40\,H$ e $y_{2i} = 0{,}70\,H$ per indagare i seguenti casi:
-i. Al momento dell'inizio della rotazione il liquido superiore è già in rotazione con una velocità angolare $\omega_2$, mentre il liquido inferiore, a causa della sua viscosità inferiore, è ancora a
-- Il resto.
-Determine the maximum angular velocity $\tilde{\omega}_2$ with which the upper liquid
-può rotare prima che una delle restrizioni di cui alla parte b) sia violata.
-Sketch le forme delle superfici liquide per questo caso. (2.5 punti)
-ii. After some time the lower liquid also rotates with the same angular velocity $\tilde{\omega}_2$.
-Determine la massima distanza verticale delle superfici liquide per questo caso
-e di conseguenza, schizziare le forme delle superfici liquide. (2 punti)
-3Si può presumere che i liquidi siano incompressibili e non si mescolino.
-44° IPhO 2013 - Problemi del secondo round
-iii. Durante il rallentamento, il liquido superiore ora prima viene a riposare, mentre il liquido inferiore
-rimane a rotazione per un po' a approximately the angular velocity $\tilde{\omega}_2$ before it too is
-- Si è rallentato.
-Determina la massima altezza di ascesa del liquido inferiore che si verifica durante questo processo e confronta la forma della superficie del liquido inferiore con quella di parte
-a). (1,5 punti)
+**Problema 2**
+Liquidi in rotazione (23 punti)
 
+Un bicchiere cilindrico a pareti sottili di altezza $H = 50\ \text{cm}$ e raggio $R = 0{,}40\,H$ è, come mostrato nella figura accanto, riempito fino a un'altezza $y_i = 0{,}40\,H$ con un liquido incomprimibile. Se il bicchiere viene lentamente fatto ruotare attorno al suo asse cilindrico, il liquido inizia anch'esso a ruotare per attrito e la superficie del liquido si deforma.
+
+Ora l'accelerazione angolare $\omega$ della rotazione deve essere aumentata lentamente.
+
+a) Derivare un'espressione per l'altezza $y$ della superficie del liquido in funzione della distanza $x$ dall'asse di rotazione.
+Determinare inoltre a quale velocità angolare $\omega_\text{max}$ il bicchiere comincia a traboccare. (9 punti)
+
+Nei calcoli si può assumere un valore di $g = 9{,}81\ \text{m s}^{-2}$ per l'accelerazione gravitazionale terrestre e trascurare gli effetti della tensione superficiale.
+
+Diventa più interessante se si versano due liquidi di densità diverse $\rho_1$ e $\rho_2 < \rho_1$ nel bicchiere3 e poi si mette in rotazione. Poiché le viscosità dei liquidi possono essere molto diverse, i due liquidi assumono il moto rotatorio del bicchiere a velocità diverse e possono raggiungere velocità angolari differenti. Sul sito www.ipho.info, nella sezione "aufgaben" (problemi), è presente un collegamento a un video in cui, per acqua e un tipo di olio, si può osservare come cambiano le forme delle superfici durante l'inizio della rotazione e durante il rallentamento.
+
+Per lo studio delle forme delle superfici, si assuma per semplicità che ciascuno dei due liquidi ruoti con una velocità angolare fissa $\omega_1$ e $\omega_2$ rispettivamente, che i liquidi non siano soggetti a attrito e che le altezze iniziali di riempimento dal fondo del bicchiere siano rispettivamente $y_{1i}$ e $y_{2i} > y_{1i}$.
+b) Determinare la forma delle due superfici liquide, ossia fornire $y_1(x)$ e $y_2(x)$ come funzioni dei parametri che compaiono. Limitarsi al caso in cui l'interfaccia dei due liquidi non tocca la superficie del liquido superiore e nessuna delle superfici dei liquidi è in contatto con il fondo. Inoltre, il bicchiere non deve traboccare.
+(8 punti)
+
+c) Utilizzare i valori $\rho_2 = 0{,}80\,\rho_1$, $y_{1i} = 0{,}40\,H$ e $y_{2i} = 0{,}70\,H$ per analizzare i seguenti casi:
+
+i. All'inizio della rotazione il liquido superiore ruota già con una velocità angolare $\omega_2$, mentre il liquido inferiore, a causa della sua viscosità minore, è ancora fermo.
+Determinare la massima velocità angolare $\tilde{\omega}_2$ con cui il liquido superiore può ruotare prima che venga violata una delle restrizioni indicate al punto b).
+Rappresentare graficamente le forme delle superfici dei liquidi in questo caso. (2,5 punti)
+
+ii. Dopo un certo tempo anche il liquido inferiore ruota con la stessa velocità angolare $\tilde{\omega}_2$.
+Determinare la massima distanza verticale tra le superfici dei liquidi in questo caso e rappresentare graficamente, analogamente, le forme delle superfici dei liquidi. (2 punti)
+
+3 Si può assumere che i liquidi siano incomprimibili e non si mescolino.
+44ª Olimpiade Fisica Internazionale 2013 - Problemi della seconda fase
+
+iii. Durante la decelerazione, il liquido superiore si ferma per primo, mentre quello inferiore continua a ruotare per un certo tempo con una velocità angolare approssimativamente pari a $\tilde{\omega}_2$ prima di rallentare anch'esso.
+Determinare l'altezza massima raggiunta dal liquido inferiore durante questo processo e confrontare la forma della sua superficie con quella del caso a). (1,5 punti)
 
 <!--fig:start-->
 ![[_attachments/44_IPhO_2013_2Rd_Aufgaben/44_IPhO_2013_2Rd_Aufgaben_p3_f2.png]]
 *cylindrical glass with rotating liquid*
 <!--fig:end-->
-
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1oMNWrXTt1c_ABRz_XMJ7-ngVw5AYCNz9/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2013 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/droplet,object/sphere"></span>
@@ -475,57 +439,47 @@ Describe your theoretical considerations, the experimental setups, the experimen
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 4
-Problema sperimentale - Physics with Jelly
-(punto 35)
-Nel problema sperimentale si deve determinare la densità e il modulo di torsione della gelatina, che è anche chiamato gelatin dessert o "Wackelpeter".
-Prima ottenere pronto-made
-Jelly4. In alternativa, puoi anche preparare gelatina in polvere o,
-come sostituto, gelatinato secondo le istruzioni corrispondenti sull'imballaggio. Il colore della gelatina può essere scelto liberamente.
-Per gli esperimenti potete inoltre utilizzare solo i seguenti materiali:
-• Ruler
-• coltelli, scissori o simili (per tagliare la gelé)
-• Container with water
-• Strossie da bere
-• Toothpicks/matches
-• Modellazione di argilla
-• Stopwatch
-• materiali scritti
-Non è permesso pesare masse direttamente con una scala.
-Fig. Tre: un blocco di gelatina deliziosa.
-a) Usando un appropriato setup sperimentale, determinare la densità della gelé o
-- Non è così. Si può supporre che la densità di acqua sia $1000\ \text{kg m}^{-3}$. Stato
-l'errore del tuo risultato. (17 punti)
-Per girare un cilindro solido elastico la cui base è fissa,
-as sketched in the adjacent figure, by a small angle $\alpha$, a
-Torque must act on the top of the cylinder, which can be expressed using the torsion modulus $G$ of the cylinder material and the notation in the figure
-as
-$$M = \frac{\pi\,G\,R^4\,\alpha}{2 L} \,. \quad (4.1)$$
-- **B.** Derive the expression (4.1). (4 punti)
-- **C.** Determine the torsion modulus of jelly experimentally. State the error of your result and name
-I fattori principali di cui dipende il risultato.
-Se in parte a) non si ottiene un risultato per la densità
-della gelatina, se necessario,
-use a density of $1000\ \text{kg m}^{-3}$ for the jelly as a substitute. (14 punti)
-Fig. 4: Sketch of the twisted
-- Cacciaio.
-Descrivere le vostre considerazioni teoriche, le configurazioni sperimentali, la procedura sperimentale e l'evaluamento in modo che siano facili da seguire.
-- Buona fortuna ! -
-4You should pour any vanilla sauce that may be included only after the experiment.
+**Problema 4**
+Problema sperimentale – Fisica con la gelatina (35 punti)
 
+Nel problema sperimentale devi determinare la densità e il modulo di torsione della gelatina, nota anche come dessert alla gelatina o "Wackelpeter".
+
+Innanzitutto, ottieni della gelatina già pronta. In alternativa, puoi preparare la polvere per gelatina o, come sostituto, della gelatina secondo le istruzioni riportate sulla confezione. Il colore della gelatina può essere scelto liberamente.
+
+Per le esperienze puoi utilizzare soltanto i seguenti materiali:
+• Righello/i
+• Coltello, forbici o simili (per tagliare la gelatina)
+• Contenitore con acqua
+• Cannuccie per bere
+• Stuzzicadenti o fiammiferi
+• Argilla da modellare
+• Cronometro
+• Materiali per scrivere
+
+Non è consentito pesare direttamente le masse con una bilancia.
+
+Fig. 3: Un blocco di deliziosa gelatina.
+
+a) Utilizzando un opportuno montaggio sperimentale, determina la densità della gelatina o della gelatina. Puoi assumere che la densità dell’acqua sia $1000\ \text{kg m}^{-3}$. Indica l'errore del tuo risultato. (17 punti)
+
+Per torcere un cilindro solido elastico con la base fissata, come mostrato nella figura accanto, di un piccolo angolo $\alpha$, è necessario applicare un momento torcente all’estremità superiore del cilindro, che può essere espresso mediante il modulo di torsione $G$ del materiale del cilindro e con le notazioni indicate nella figura come
+
+$$M = \frac{\pi\,G\,R^4\,\alpha}{2 L} \,. \quad (4.1)$$
+- **B.** Deriva l’espressione (4.1). (4 punti)
+- **C.** Determina sperimentalmente il modulo di torsione della gelatina. Indica l’errore del tuo risultato e indica i principali fattori sui quali il risultato dipende.
+Se nel punto a) non hai ottenuto un valore per la densità della gelatina, puoi utilizzare come sostituto una densità di $1000\ \text{kg m}^{-3}$. (14 punti)
+
+Descrivi in modo chiaro e comprensibile le tue considerazioni teoriche, i montaggi sperimentali, la procedura sperimentale e l’analisi dei risultati.
+- Buona fortuna ! -
+4Dovresti versare qualsiasi salsa alla vaniglia inclusa solo dopo l'esperimento.
 
 <!--fig:start-->
 ![[_attachments/44_IPhO_2013_2Rd_Aufgaben/44_IPhO_2013_2Rd_Aufgaben_p6_f4.png]]
-*block of jelly (latina) *
+*block of jelly (gelatin)*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/44_IPhO_2013_2Rd_Aufgaben/44_IPhO_2013_2Rd_Aufgaben_p6_f5.png]]
 *elastic cylinder twisted by angle alpha*
 <!--fig:end-->
 
-**Topic:** [[Elasticity & Materials]], [[Fluid Mechanics]]
-**Metodi:** [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1oMNWrXTt1c_ABRz_XMJ7-ngVw5AYCNz9/view)
 

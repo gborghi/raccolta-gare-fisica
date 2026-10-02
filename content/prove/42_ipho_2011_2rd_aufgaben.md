@@ -191,88 +191,58 @@ coin is replaced by a sphere of the same radius and the same, homogeneously dist
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 2
-Sphere and coin in a funnel (21+9 punti)
-Un dispositivo di raccolta di fondi occasionally to be admired at fundraising events è costituito da un
-grande funnel, in cui le monete possono essere rotolate dal bordo superiore. Le monete poi rotolare
-verso il basso e vengono raccolti in un contenitore posto sotto il funile.
+**Problema 2**
+Sfera e moneta in un imbuto (21+9 punti)
+
+Un dispositivo di raccolta occasionalmente ammirato durante eventi di raccolta fondi è costituito da un grande imbuto, nel quale si possono far scivolare monete dal bordo superiore. Le monete poi scendono lungo l'imbuto e vengono raccolte in un contenitore posto al di sotto.
+
 z
 R(z)
-Figura 1: Sketch of a coin-collecting funnel
-In questo problema si sono di indagare le proprietà di tali funnels utilizzando modelli semplificati, e poi brevemente considerare un rolling
-coin in a funnel. Il radius del funile simmetrico rotativo è descritto da una funzione $R(z)$,
-che, come visto nello schema, dà il radius come un
-funzione della distanza verticale verso il basso
-- Rim. Il funnel è aperto entrambi al vertice
-e in fondo.
-Supponiamo che i corpi si muovano sempre lungo il muro del funile. L'accelerazione gravitazionale della Terra è $g = 9{,}81\ \text{m s}^{-2}$ e agisce nella direzione della
-- l'asse z.
-Leibniz Institute for the Pedagogy of Natural Sciences and Mathematics, Olshausenstr. 62, D - 24098 Kiel
-42° IPhO 2011 - Problemi del secondo round
-2.1
-Punto di massa nel funnel
-In questi problemi considerate un punto di massa $m$ che si muove senza attrito in
-- Le funzioni di controllo
-a) Il punto di massa è inserito in un funnel ad un'altezza $z$ con una velocità $v$ diretta orizzontalmente e tangentialmente alla superficie del funnel. Sorprendentemente, il
-la massa, indipendentemente dalla coordinata z scelta, rimane sempre la stessa
-alti durante il movimento, cioè La sua coordinata z è costante.
-Determine quale forma il funnel deve avere per questo, cioè give the function
-$R(z)$ come una funzione dei parametri che appaiono. Quindi, determinate come
-Tall il funnel deve quindi essere se la massa si muove con una velocità di
-$v = 1{,}0\ \text{m s}^{-1}$ and the upper and lower radius of the funnel are $50\ \text{cm}$ and $5{,}0\ \text{cm}$
-rispettivamente. (4 punti)
-b) La massa è ora collocata all'alto bordo di un altro funnel con una velocità $v$ diretta orizzontalmente e tangentialmente alla superficie del funnel. Il raggio del funnel è descritto dalla funzione $R(z) = R_\text{oben}/\sqrt{\frac{2g}{v^2}(h - z) + 1}$, dove $R_\text{oben}$ denota il funnel.
-funnel radius at the upper rim and $h$ gives the height of the funnel.
-Mostra che per ogni valore di $v$ la massa rimane sempre al bordo superiore del funile,
-i.e. non cambia le sue coordinate z.
-In aggiunta alla velocità $v$, la massa ora inizia a avere una componente di velocità $u$ perpendicolare alla velocità orizzontale e lungo la superficie del funile.
-Stat qualitativamente how the motion of the mass proceeds and, for the values
-$R_\text{oben} = h = 50\ \text{cm}$, nonché $v = 40\ \text{cm s}^{-1}$ e $u = 10\ \text{cm s}^{-1}$, estimate the time until the mass leaves the
-- Funnel. 7 punti)
-c) Ora è dato un terzo funnel, il cui raggio è descritto dalla funzione $R(z) = R_\text{unten} + c z$
-con una costante positiva $c$. Il punto di massa è di nuovo portato nel funile con solo un
-velocità orizzontale $v$.
-Mostra che per ogni sufficientemente grande valore di $v$ esiste un'altezza $z$ a cui il
-la massa rimane sempre, cioè non cambia le sue coordinate z. - Dammi questa altezza.
-Quindi, state quanto grande la velocità deve essere almeno per tali
-un'altezza di esistenza. (3 punti)
-d) Considerare un funnel as in part c) for a funnel height of $30\ \text{cm}$ as well as
-a radius superiore e inferiore del funnel di $50\ \text{cm}$ e $45\ \text{cm}$ rispettivamente. The mass is placed at the upper rim with
-la velocità orizzontale necessaria per
-E' un'idea che non si può fare a questo livello. Ora la massa è di nuovo data a velocità aggiuntiva $u$
-perpendicolare alla velocità orizzontale e lungo la superficie del funile.
-Descrivere qualitativamente il movimento che il punto di massa ora esegue, e determinare
-la gamma della velocità aggiuntiva $u$ in cui il punto di massa non lascia il recipiente
-- Al bordo inferiore. 7 punti)
-2.2
-Coin in the funnel
-Ora considerate il caso di una moneta in un funnel. La moneta ha un distribuito omogeneo
-Mass $m$ and a radius $r$ that can always be assumed to be very small compared with the funnel radius.
-Lo spessore della moneta è molto piccolo e la moneta è supposto di rotolare nel funnel senza
-- Slipperare. La frizione a rotoli è trascurabile.
-Leibniz Institute for the Pedagogy of Natural Sciences and Mathematics, Olshausenstr. 62, D - 24098 Kiel
-42° IPhO 2011 - Problemi del secondo round
-e) Come in parte a), per una velocità puramente orizzontale $v$ the coin moves
-lungo la stessa altezza per una particolare forma di funile.
-Determine per questo caso anche che forma il funnel deve avere, cioè dare
-la funzione $R(z)$ come funzione dei parametri che appaiono. Nota
-che $r/R \ll 1$ dovrebbe tenere. (6 punti)
-f) Descrivere qualitativamente cosa succede se, in the funnel considered in e), il
-coin è sostituito da una sfera dello stesso raggio e della stessa massa distribuita in modo omogeneo.
-(3 punti)
+Figura 1: Schizzo di un imbuto per la raccolta delle monete
 
+In questo problema si devono studiare alcune proprietà di tali imbuto utilizzando modelli semplificati, e successivamente si considera brevemente una moneta che rotola in un imbuto. Il raggio dell'imbuto, simmetrico rispetto all'asse di rotazione, è descritto da una funzione $R(z)$, che come mostrato nello schizzo fornisce il raggio in funzione della distanza verticale dal bordo inferiore. L'imbuto è aperto sia in alto che in basso.
+
+Si assuma che i corpi si muovano sempre lungo la parete dell'imbuto. L'accelerazione gravitazionale terrestre è $g = 9{,}81\ \text{m s}^{-2}$ e agisce nella direzione dell'asse z negativo.
+
+Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik, Olshausenstr. 62, D - 24098 Kiel
+42ª Olimpiade Fisica Internazionale (IPhO) 2011 - Problemi della seconda prova
+
+2.1
+Punto materiale nell'imbuto
+
+Nei seguenti problemi si considera un punto materiale di massa $m$ che si muove senza attrito in diversi imbuto.
+
+a) Il punto materiale viene posto in un imbuto a un'altezza $z$ con una velocità $v$ diretta orizzontalmente e tangenzialmente alla superficie dell'imbuto. Sorprendentemente, la massa rimane sempre alla stessa altezza durante il moto, indipendentemente dal valore scelto della coordinata z, ovvero la sua coordinata z è costante.
+
+Determinare quale forma deve avere l'imbuto affinché ciò avvenga, ovvero fornire la funzione
+$R(z)$ in funzione dei parametri che compaiono. Inoltre determinare quanto deve essere alto l'imbuto se la massa si muove con una velocità di
+$v = 1{,}0\ \text{m s}^{-1}$ e i raggi superiore ed inferiore dell'imbuto sono rispettivamente $50\ \text{cm}$ e $5{,}0\ \text{cm}$. (4 punti)
+b) La massa viene ora collocata sul bordo superiore di un altro cono, con una velocità $v$ diretta orizzontalmente e tangenzialmente alla superficie del cono. Il raggio del cono è descritto dalla funzione $R(z) = R_\text{oben}/\sqrt{\frac{2g}{v^2}(h - z) + 1}$, dove $R_\text{oben}$ indica il raggio del cono al bordo superiore e $h$ fornisce l'altezza del cono.
+Dimostrare che per ogni valore di $v$ la massa rimane sempre al bordo superiore del cono, ovvero non cambia il suo coordinata z.
+In aggiunta alla velocità $v$, la massa possiede ora inizialmente un componente di velocità $u$ perpendicolare alla velocità orizzontale e lungo la superficie del cono.
+Descrivere qualitativamente come evolve il moto della massa e, per i valori $R_\text{oben} = h = 50\ \text{cm}$, nonché $v = 40\ \text{cm s}^{-1}$ e $u = 10\ \text{cm s}^{-1}$, stimare il tempo necessario affinché la massa abbandoni il cono. (7 punti)
+
+c) Ora viene fornito un terzo cono, il cui raggio è descritto dalla funzione $R(z) = R_\text{unten} + c z$ con una costante positiva $c$. La massa puntiforme viene nuovamente introdotta nel cono con una sola velocità orizzontale $v$.
+Dimostrare che per ogni valore sufficientemente grande di $v$ esiste un'altezza $z$ alla quale la massa rimane sempre, ovvero non cambia il suo coordinata z. Determinare tale altezza.
+Inoltre, indicare quanto deve essere almeno grande la velocità affinché tale altezza esista. (3 punti)
+
+d) Considerare un cono come in parte c), per un'altezza del cono $30\ \text{cm}$, e raggi superiore e inferiore del cono rispettivamente di $50\ \text{cm}$ e $45\ \text{cm}$. La massa viene collocata al bordo superiore con la velocità orizzontale necessaria perché rimanga a tale altezza. A questo punto, la massa riceve nuovamente un'ulteriore velocità $u$ perpendicolare alla velocità orizzontale e lungo la superficie del cono.
+Descrivere qualitativamente il moto che ora compie la massa puntiforme e determinare l'intervallo della velocità aggiuntiva $u$ in cui la massa puntiforme non abbandona il recipiente al bordo inferiore. (7 punti)
+2.2
+Moneta nel cono
+Ora consideriamo il caso di una moneta in un cono. La moneta ha una massa distribuita omogeneamente $m$ e un raggio $r$ che può essere sempre considerato molto piccolo rispetto al raggio del cono.
+Lo spessore della moneta è molto piccolo e si suppone che la moneta rotoli nel cono senza scivolare. L'attrito radente è trascurabile.
+Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik, Olshausenstr. 62, D - 24098 Kiel
+42ª Olimpiade Internazionale di Fisica 2011 - Problemi della seconda prova
+e) Come nel punto a), per una velocità puramente orizzontale $v$, la moneta si muove a un'altezza costante per una particolare forma del cono.
+Determinare anche in questo caso quale deve essere la forma del cono, ossia fornire la funzione $R(z)$ in funzione dei parametri che compaiono. Si osservi che $r/R \ll 1$ deve valere. (6 punti)
+f) Descrivere qualitativamente cosa accade se, nel cono considerato al punto e), la moneta viene sostituita da una sfera dello stesso raggio e della stessa massa distribuita omogeneamente.
+(3 punti)
 
 <!--fig:start-->
 ![[_attachments/42_IPhO_2011_2Rd_Aufgaben/42_IPhO_2011_2Rd_Aufgaben_p2_f1.png]]
-*Funnel with z-axis and radius R(z) *
+*Funnel with z-axis and radius R(z)*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yo8oALUhwBPb7eNAbTA1ak-fwgtDu5Dh/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2011 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/particle-beam,object/point-charge,object/electron"></span>

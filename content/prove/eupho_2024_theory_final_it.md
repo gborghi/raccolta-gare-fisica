@@ -40,13 +40,13 @@ b) (2 punti) Disegnare il grafico $v_e(\mu)$. Indicare le caratteristiche import
 
 <div class="qlang-split" data-lang="en"></div>
 
-**T1: A disc that flows (10 points) **
+**T1: Sliding puck (10 pts)**
 
-A disc of $r$ radius and uniform density moves on a horizontal plane at $v_0$ speed without rotation. The disc meets a fixed semicircular wall with a radius $R \gg r$ and begins to move along the wall. The friction coefficient with the wall is $\mu$, and the friction with the horizontal plane is negligible.
+A puck (a small disc) with radius $r$ and uniform density is moving on a horizontal plane with the velocity $v_0$ without rotation. The puck meets a fixed half-circular wall with a radius $R \gg r$ and starts to move along the wall. The coefficient of friction with the wall is $\mu$, and friction with the horizontal plane is negligible.
 
-(a) (8 points) Find the disk speed $v_e$ when it leaves the wall.
+a) (8 pts) Find the velocity of the puck $v_e$ when it leaves the wall.
 
-(b) (2 points) Draw the graph $v_e(\mu)$. Indicate the important characteristics of the chart. You are asked to draw the graph even if you have not found the exact formula for $v_e$.
+b) (2 pts) Sketch the graph $v_e(\mu)$. Indicate important features of the graph. You are encouraged to sketch the graph even if you haven't found the exact formula for $v_e$.
 
 <!--fig:start-->
 **p.1**  Disk with initial speed against a semicircular wall
@@ -92,19 +92,19 @@ b) (5 punti) In ogni momento, Alice può vedere un numero di regali che si allon
 
 <div class="qlang-split" data-lang="en"></div>
 
-**T2: Astronavi (10 punti)**
+**T2: Spaceships (10 pts)**
 
-Alice and Bob are twins and work as two astronauts on a long space mission. After many years, they're finally getting closer to getting back together. Alice's spacecraft moves towards Bob's spacecraft at a speed of $u = \dfrac{3}{5}c$, where $c$ is the speed of light in the vacuum.
+Alice and Bob are twin astronauts on a long space mission. After many years, they are finally approaching each other to reunite. Alice's spaceship is moving towards Bob's spaceship at a speed of $u = \dfrac{3}{5}c$, where $c$ is the speed of light.
 
-During their approach, Alice and Bob send each other presents. Alice sends gifts to Bob at regular intervals of time $\Delta t_0$ in her reference system, with each gift traveling at a speed $v = \dfrac{4}{5}c$ (always in her reference system). Allo stesso modo, Bob invia regali ad Alice agli stessi intervalli di tempo regolari $\Delta t_0$ nel proprio sistema di riferimento, con ogni regalo che viaggia anch'esso a una velocità $v = \dfrac{4}{5}c$ nel suo sistema di riferimento. Supponiamo che la distanza $L$ tra Alice e Bob sia abbastanza grande da avere molti regali in transito in ogni momento.
+During their approach, both Alice and Bob send gifts to each other. Alice sends gifts to Bob at regular time intervals $\Delta t_0$ in her own frame of reference, with each gift travelling at a velocity $v = \dfrac{4}{5}c$ (again, in her frame of reference). Similarly, Bob sends gifts to Alice at the same regular time intervals $\Delta t_0$ in his own frame of reference, with each gift also travelling at a velocity $v = \dfrac{4}{5}c$ in his frame of reference. Assume that the distance $L$ between Alice and Bob is so large that there are many gifts in transit at any given moment.
 
-(a) (5 points) In the Bob reference system, the following is calculated:
+a) (5 pts) In Bob's reference frame, find
 
-(i) the distance between two consecutive gifts sent by Alice; and
+(i) the distance between two successive gifts sent by Alice, and
 
-(ii) the time distance $\Delta t_1$ at which these Alice gifts arrive at Bob's spaceship.
+(ii) the time interval $\Delta t_1$ at which these gifts from Alice arrive at Bob's spaceship.
 
-b) (5 points) At any given moment, Alice can see a number of gifts moving away from her and a number of gifts moving towards her. What's the relationship between these two numbers?
+b) (5 pts) At a given instant, Alice can see a number of gifts moving away from her and a number of gifts moving towards her. What is the ratio between these two numbers?
 
 **Topic:** [[Special Relativity]]
 **Metodi:** [[Lorentz Transformation (metodo)|Lorentz Transformation]], [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]]
@@ -150,19 +150,17 @@ d) (1 punto) Si stimi la durata temporale dell'impulso di luce che ritorna verso
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculations:
+**T3: Fabry–Pérot interferometer (10 pts)**
 
-A Fabry-Pérot interferometer consists of two identical parallel flat mirrors separated by a distance $L$. The space between mirrors and the outside of mirrors is filled with air. The mirrors are partially reflective; when light is directed towards one of these mirrors in the normal direction, the reflected beam has an intensity $R < 1$ times the intensity of the incident beam.
+A Fabry–Pérot interferometer consists of two identical parallel planar mirrors separated by a distance $L$. The space between and outside the mirrors is filled with air. The mirrors are partially reflective; when light is aimed towards one of these mirrors along the normal direction, the reflected beam has intensity $R < 1$ times the intensity of the incident beam. Assume that the mirrors are symmetric, meaning they interact the same way with light incident from either side, and lossless. Assume also that they are highly reflective, meaning $1 - R \ll 1$. A monochromatic laser beam of power $P$ is aimed towards the interferometer perpendicular to the mirrors. The distance $L$ is chosen so that the back-reflected beam vanishes, i.e. all the optical power is transmitted through the interferometer.
 
-Suppose mirrors are symmetrical, that is, they interact with incident light on both sides in the same way, and they are lossless. It is also assumed that they are highly reflective, i.e. $1 - R \ll 1$. A monochrome laser beam $P$ shall be directed to the interferometer perpendicular to the mirrors. The $L$ distance is chosen so that the reflected beam backwards disappears, i.e. all optical power is transmitted through the interferometer.
+a) (3 pts) Show that the laser beam must acquire a nonzero phase shift $\phi$ when it passes through either of the mirrors.
 
-(a) (3 points) It is shown that the laser beam must acquire a phase difference $\varphi$ not anything when passing through one of the mirrors.
+b) (2 pts) Find the magnitude of $\phi$.
 
-(b) (2 points) The value of $\varphi$ is found.
+c) (4 pts) At a certain moment, the incident laser beam is switched off rapidly. Find the total energy of the light that travels back from the interferometer towards the laser after the laser is switched off.
 
-(c) (4 points) At some point, the incident laser beam is quickly turned off. It's the total energy of light that, after the laser is turned off, goes back from the interferometer to the laser itself.
-
-(d) (1 point) Estimate the time duration of the pulse of light returning to the laser.
+d) (1 pt) Estimate the duration of the light pulse that travels back towards the laser.
 
 <!--fig:start-->
  Fabry-Perot interferometer with two mirrors

@@ -120,13 +120,17 @@ We set coil#1 as the primary coil and coil#2 as the secondary coil. Since the to
 
 Following Maxwell's equations, when an oscillating electric or magnetic field penetrates a conductor, the field inside the conductor decreases exponentially with the penetration distance $z$:
 
-$$B(z) = B_0\, e^{-z/\delta} \cos\!\left(\omega t - z/\delta + \phi\right) \tag{1}$$
+$$
+B(z) = B_0\, e^{-z/\delta} \cos\!\left(\omega t - z/\delta + \phi\right) \tag{1}
+$$
 
 where $B_0$ is the magnetic field amplitude before it enters the conductor, $\delta$ is the "skin depth" and $\phi$ is the phase. Note: we ignore the phase factor $(-z/\delta + \phi)$ in this experiment.
 
 The skin depth in a conductor is given as:
 
-$$\delta = \sqrt{\frac{\sigma^m f^n}{\pi \mu}} \tag{2}$$
+$$
+\delta = \sqrt{\frac{\sigma^m f^n}{\pi \mu}} \tag{2}
+$$
 
 where $\sigma$ is the electrical conductivity, $f$ is frequency, $\mu = \mu_r \times \mu_0$ is the magnetic permeability, and $m$ and $n$ are power factors which are integers and to be determined in this experiment.
 
@@ -154,13 +158,17 @@ In this experiment we will use the Aluminium and the SS410 metal as the "cooking
 
 Place the setup inside the black box (item #8) so the convection loss is negligible. Since the metal "pan" sits on a plastic platform (a thermal insulator), we also assume no heat loss due to conduction. Thus the only heat loss is due to radiation to the surroundings. The radiation power of a body with temperature $T$ is given as:
 
-$$P_{RAD} = e A \sigma_S T^4 \tag{3}$$
+$$
+P_{RAD} = e A \sigma_S T^4 \tag{3}
+$$
 
 where $e$ is the emissivity, $\sigma_S$ is the Stefan–Boltzmann constant and $A$ is the radiating surface area.
 
 We can measure the temperature of the metal "pan" by measuring the resistance of the NTC thermistor (attached), which is given as:
 
-$$R_{NTC} = R_0\, \exp\!\left[B\left(\frac{1}{T} - \frac{1}{T_0}\right)\right] \tag{4}$$
+$$
+R_{NTC} = R_0\, \exp\!\left[B\left(\frac{1}{T} - \frac{1}{T_0}\right)\right] \tag{4}
+$$
 
 where $R_0 = 10\ \text{k}\Omega$ is the nominal resistance at reference temperature $T_0 = 298\ \text{K}$, $B = 3950\ \text{K}$ is a constant, and $T$ is the thermistor temperature (in K).
 
@@ -378,13 +386,17 @@ Abbiamo impostato la bobina # 1 come bobina primaria e la bobina # 2 come bobina
 
 In base alle equazioni di Maxwell, quando un campo elettrico o magnetico oscillante penetra un conduttore, il campo all'interno del conduttore diminuisce esponenzialmente con la distanza di penetrazione $z$:
 
-$$B(z) = B_0\, e^{-z/\delta} \cos\!\left(\omega t - z/\delta + \phi\right) \tag{1}$$
+$$
+B(z) = B_0\, e^{-z/\delta} \cos\!\left(\omega t - z/\delta + \phi\right) \tag{1}
+$$
 
 se $B_0$ è l'ampiezza del campo magnetico prima di entrare nel conduttore, $\delta$ è la "profondità della pelle" e $\phi$ è la fase. Nota: ignoriamo il fattore di fase $(-z/\delta + \phi)$ in questo esperimento.
 
 La profondità della pelle in un conduttore è data come segue:
 
-$$\delta = \sqrt{\frac{\sigma^m f^n}{\pi \mu}} \tag{2}$$
+$$
+\delta = \sqrt{\frac{\sigma^m f^n}{\pi \mu}} \tag{2}
+$$
 
 se $\sigma$ è la conducibilità elettrica, $f$ è la frequenza, $\mu = \mu_r \times \mu_0$ è la permeabilità magnetica, e $m$ e $n$ sono fattori di potenza che sono enti e che devono essere determinati in questo esperimento.
 
@@ -412,13 +424,17 @@ In questo esperimento useremo l'alluminio e il metallo SS410 come "pani di cucin
 
 Metti la configurazione all'interno della scatola nera (articolo #8) in modo che la perdita di convezione sia trascurabile. Poiché la "pan" metallica si trova su una piattaforma di plastica (un isolante termico), presumiamo anche che non si perda calore a causa della conduzione. Pertanto l'unica perdita di calore è dovuta alle radiazioni che si diffondono nell'ambiente circostante. La potenza di radiazione di un corpo a temperatura $T$ è data come segue:
 
-$$P_{RAD} = e A \sigma_S T^4 \tag{3}$$
+$$
+P_{RAD} = e A \sigma_S T^4 \tag{3}
+$$
 
 dove $e$ è l'emissività, $\sigma_S$ è la costante di StefanBoltzmann e $A$ è la superficie irradiante.
 
 Possiamo misurare la temperatura del "pan" metallico misurando la resistenza del termistor NTC (attaccato), che viene data come:
 
-$$R_{NTC} = R_0\, \exp\!\left[B\left(\frac{1}{T} - \frac{1}{T_0}\right)\right] \tag{4}$$
+$$
+R_{NTC} = R_0\, \exp\!\left[B\left(\frac{1}{T} - \frac{1}{T_0}\right)\right] \tag{4}
+$$
 
 se $R_0 = 10\ \text{k}\Omega$ è la resistenza nominale alla temperatura di riferimento $T_0 = 298\ \text{K}$, $B = 3950\ \text{K}$ è una costante e $T$ è la temperatura del termistor (in K).
 

@@ -410,7 +410,7 @@ esclusi i casi in cui $|x|, |y|, |z| < 2$ e le particelle possono esistere solo 
 
 - Le due particelle sono fermioni identici (i fermioni seguono il principio di esclusione di Pauli).
 
-Per ciascuna delle parti, supponiamo che non ci siano altre interazioni (ad esempio: La Commissione ha adottato una proposta di regolamento (CEE) n.
+Per ciascuna delle parti, supponete che non ci siano altre interazioni (ad esempio elettromagnetiche) e basatevi soprattutto su un argomento statistico.
 
 **(d) (4 punti) ** Indicare le probabilità nella parte (c) dal massimo al minimo quando la temperatura è
 

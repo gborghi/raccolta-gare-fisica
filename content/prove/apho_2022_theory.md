@@ -323,11 +323,15 @@ Lord Rayleigh visited Darjeeling, India in 1897. On viewing Mount Everest at a d
 
 **Oscillation of the electron cloud:** We model a typical neutral air molecule by a stationary positive charge $q$ surrounded by a spherical uniform charge cloud of mass $m$, radius $r$ and charge $-q$. The natural angular frequency of vibration of the molecule is $\omega_0$. Light is incident on it and the negative cloud oscillates maintaining its spherical shape with angular frequency $\omega$ as,
 
-$$y = y_0 \cos(\omega t), \tag{1}$$
+$$
+y = y_0 \cos(\omega t), \tag{1}
+$$
 
 under the influence of the electric field
 
-$$\vec{E}(t) = E_0 \cos(\omega t)\,\hat{y}, \tag{2}$$
+$$
+\vec{E}(t) = E_0 \cos(\omega t)\,\hat{y}, \tag{2}
+$$
 
 of the light wave. Here $y$ represents the separation between the stationary positive charge and the centre of the negative charge cloud of the molecule.
 
@@ -351,11 +355,15 @@ of the light wave. Here $y$ represents the separation between the stationary pos
 
 **Attenuation of the Intensity $I(x)$:** Recall that the intensity of EM waves is
 
-$$\frac{1}{2} c \epsilon_0 E_0^2. \tag{3}$$
+$$
+\frac{1}{2} c \epsilon_0 E_0^2. \tag{3}
+$$
 
 The intensity decreases along the path of light because the power
 
-$$S = n_0 s \tag{4}$$
+$$
+S = n_0 s \tag{4}
+$$
 
 is lost per unit volume. Here $n_0$ is the number of molecules per unit volume.
 
@@ -365,9 +373,15 @@ is lost per unit volume. Here $n_0$ is the number of molecules per unit volume.
 
 **C.3** (0.3pt) Take $m$ to be the mass of the electron (typically only one electron constitutes the charge cloud) and take
 
-$$n_0 = 2.54 \times 10^{25} \text{ m}^{-3}, \tag{5}$$
-$$\omega_0 = 1.25 \times 10^{16} \text{ rad·s}^{-1}, \tag{6}$$
-$$\omega = 3.25 \times 10^{15} \text{ rad·s}^{-1}. \tag{7}$$
+$$
+n_0 = 2.54 \times 10^{25} \text{ m}^{-3}, \tag{5}
+$$
+$$
+\omega_0 = 1.25 \times 10^{16} \text{ rad·s}^{-1}, \tag{6}
+$$
+$$
+\omega = 3.25 \times 10^{15} \text{ rad·s}^{-1}. \tag{7}
+$$
 
 Obtain the numerical value of $L$ in kilometers.
 
@@ -400,11 +414,15 @@ Lord Rayleigh visitò Darjeeling, in India, nel 1897. Osservando il Monte Everes
 
 **Oscillazione della nube elettronica:** Modellizziamo una tipica molecola d'aria neutra come una carica positiva fissa $q$ circondata da una nube di carica sferica e uniforme di massa $m$, raggio $r$ e carica $-q$. La frequenza angolare naturale di vibrazione della molecola è $\omega_0$. La luce incide su di essa e la nube negativa oscilla mantenendo la sua forma sferica con frequenza angolare $\omega$ secondo,
 
-$$y = y_0 \cos(\omega t), \tag{1}$$
+$$
+y = y_0 \cos(\omega t), \tag{1}
+$$
 
 sotto l'influenza del campo elettrico
 
-$$\vec{E}(t) = E_0 \cos(\omega t)\,\hat{y}, \tag{2}$$
+$$
+\vec{E}(t) = E_0 \cos(\omega t)\,\hat{y}, \tag{2}
+$$
 
 dell'onda luminosa. Qui $y$ rappresenta la separazione tra la carica positiva fissa e il centro della nube di carica negativa della molecola.
 
@@ -428,11 +446,15 @@ dell'onda luminosa. Qui $y$ rappresenta la separazione tra la carica positiva fi
 
 **Attenuazione dell'intensità $I(x)$:** Si ricordi che l'intensità delle onde EM è
 
-$$\frac{1}{2} c \epsilon_0 E_0^2. \tag{3}$$
+$$
+\frac{1}{2} c \epsilon_0 E_0^2. \tag{3}
+$$
 
 L'intensità diminuisce lungo il cammino della luce perché la potenza
 
-$$S = n_0 s \tag{4}$$
+$$
+S = n_0 s \tag{4}
+$$
 
 viene persa per unità di volume. Qui $n_0$ è il numero di molecole per unità di volume.
 
@@ -442,9 +464,15 @@ viene persa per unità di volume. Qui $n_0$ è il numero di molecole per unità 
 
 **C.3** (0.3pt) Si assuma che $m$ sia la massa dell'elettrone (tipicamente un solo elettrone costituisce la nube di carica) e si prenda
 
-$$n_0 = 2.54 \times 10^{25} \text{ m}^{-3}, \tag{5}$$
-$$\omega_0 = 1.25 \times 10^{16} \text{ rad·s}^{-1}, \tag{6}$$
-$$\omega = 3.25 \times 10^{15} \text{ rad·s}^{-1}. \tag{7}$$
+$$
+n_0 = 2.54 \times 10^{25} \text{ m}^{-3}, \tag{5}
+$$
+$$
+\omega_0 = 1.25 \times 10^{16} \text{ rad·s}^{-1}, \tag{6}
+$$
+$$
+\omega = 3.25 \times 10^{15} \text{ rad·s}^{-1}. \tag{7}
+$$
 
 Ricava il valore numerico di $L$ in chilometri.
 

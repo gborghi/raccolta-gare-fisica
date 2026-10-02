@@ -134,11 +134,15 @@ $$|n_x=0, n_y=0, n_z=2\rangle = -\frac{2}{\sqrt{3}}|k=2, l=0, m=0\rangle + \sqrt
 
 The problem of the spectrum of an electron gas in a magnetic field is addressed by the minimal coupling prescription
 
-$$\frac{\nabla_i}{i} \to \frac{\nabla_i}{i} - \frac{q}{\hbar}\mathbf{A}(\mathbf{r}) \tag{1}$$
+$$
+\frac{\nabla_i}{i} \to \frac{\nabla_i}{i} - \frac{q}{\hbar}\mathbf{A}(\mathbf{r}) \tag{1}
+$$
 
 where $\mathbf{A}$ is the vector potential and the magnetic field is $\mathbf{B} = \nabla \times \mathbf{A}$. It is not difficult to show that in two dimensions, for uniform $\mathbf{B}$ normal to the electron gas, one has a discrete spectrum of Landau Levels,
 
-$$\epsilon_n = \left(n + \frac{1}{2}\right)\hbar\omega_c, \qquad \omega_c = \frac{eB}{m} \tag{2}$$
+$$
+\epsilon_n = \left(n + \frac{1}{2}\right)\hbar\omega_c, \qquad \omega_c = \frac{eB}{m} \tag{2}
+$$
 
 where $\omega_c$ is the classical angular frequency of electron orbits. Furthermore, each level has a degeneracy (not counting spin) equal to the number of flux quanta in the sample, i.e. equal to $BA/\phi_0$ where $A$ is the area and $\phi_0 = h/e$ the flux quantum.
 
@@ -151,13 +155,17 @@ A tight binding (TB) model assumes a local basis, with one or more states $|\phi
 
 The general state is defined by its amplitudes in this basis
 
-$$|\psi\rangle = \sum_i c_i\,|\phi_i\rangle \tag{3}$$
+$$
+|\psi\rangle = \sum_i c_i\,|\phi_i\rangle \tag{3}
+$$
 
 and for a crystalline lattice, Bloch's theorem can be used to solve for the Hamiltonian eigenstates.
 
 The magnetic field is introduced by adding complex phases to the hopping amplitudes (Peierls substitution)
 
-$$t_{ij} \to e^{i\phi_{ij}}\,t_{ij} \tag{4}$$
+$$
+t_{ij} \to e^{i\phi_{ij}}\,t_{ij} \tag{4}
+$$
 
 with the only requirement that the sum of phases along a loop is proportional to the magnetic flux in the area enclosed by the loop. The choice in Fig. 1 corresponds to a flux in the square of $Ba^2 = \phi$.
 
@@ -175,7 +183,9 @@ Assume a square lattice with sites $\mathbf{R}_{m,n} := a(m\,\hat{\mathbf{e}}_x 
 
 - **1.3. [15 points]** Look for a solution close to the minimum of the potential. Reduce the problem to that of an harmonic oscillator and try to prove the following:
   - The low energy spectrum takes the form
-    $$\epsilon_r = -4t + \left(r + \frac{1}{2}\right)\hbar\omega, \qquad r = 0, 1, 2, \dots \tag{5}$$
+    $$
+    \epsilon_r = -4t + \left(r + \frac{1}{2}\right)\hbar\omega, \qquad r = 0, 1, 2, \dots \tag{5}
+    $$
   - if the potential period $Ma$ is larger than the width $N_W a$ of the sample, each level has a degeneracy
     $$p = N_W N_L / M;$$
   - The form of the spectrum of Eq. 5 only holds for $r \ll M$.
@@ -219,11 +229,15 @@ where $\mathbf{R}_{m,n} = m\mathbf{a}_1 + n\mathbf{a}_2$ is a Bravais lattice si
 
 Il problema dello spettro di un gas elettronico in un campo magnetico è risolto con la prescrizione minima di accoppiamento
 
-$$\frac{\nabla_i}{i} \to \frac{\nabla_i}{i} - \frac{q}{\hbar}\mathbf{A}(\mathbf{r}) \tag{1}$$
+$$
+\frac{\nabla_i}{i} \to \frac{\nabla_i}{i} - \frac{q}{\hbar}\mathbf{A}(\mathbf{r}) \tag{1}
+$$
 
 dove $\mathbf{A}$ è il potenziale vettoriale e il campo magnetico è $\mathbf{B} = \nabla \times \mathbf{A}$. Non è difficile dimostrare che in due dimensioni, per un $\mathbf{B}$ uniforme normale al gas elettronico, si dispone di uno spettro discreto di livelli di Landau,
 
-$$\epsilon_n = \left(n + \frac{1}{2}\right)\hbar\omega_c, \qquad \omega_c = \frac{eB}{m} \tag{2}$$
+$$
+\epsilon_n = \left(n + \frac{1}{2}\right)\hbar\omega_c, \qquad \omega_c = \frac{eB}{m} \tag{2}
+$$
 
 dove $\omega_c$ è la frequenza angolare classica delle orbite di elettroni. Inoltre, ogni livello ha una degenerazione (senza contazione dello spin) pari al numero di quantitati di flusso nel campione, ovvero: pari a $BA/\phi_0$, dove $A$ è l'area e $\phi_0 = h/e$ il quantum di flusso.
 
@@ -236,13 +250,17 @@ Un modello di legame stretto (TB) assume una base locale, con uno o più stati $
 
 Lo stato generale è definito dalle sue amplitudini in questa base
 
-$$|\psi\rangle = \sum_i c_i\,|\phi_i\rangle \tag{3}$$
+$$
+|\psi\rangle = \sum_i c_i\,|\phi_i\rangle \tag{3}
+$$
 
 e per una griglia cristallina, il teorema di Bloch può essere usato per risolvere gli stati propri di Hamilton.
 
 Il campo magnetico viene introdotto aggiungendo fasi complesse alle amplitudini di salto (sostituzione di Beierls)
 
-$$t_{ij} \to e^{i\phi_{ij}}\,t_{ij} \tag{4}$$
+$$
+t_{ij} \to e^{i\phi_{ij}}\,t_{ij} \tag{4}
+$$
 
 con l'unico requisito che la somma delle fasi lungo un ciclo sia proporzionale al flusso magnetico nell'area chiusa dal ciclo. La scelta in Fig. 1 corrisponde a un flusso nel quadrato di $Ba^2 = \phi$.
 
@@ -260,7 +278,9 @@ Supponiamo una rete quadrata con siti $\mathbf{R}_{m,n} := a(m\,\hat{\mathbf{e}}
 
 - **1.3. [15 punti]** Cercare una soluzione vicina al minimo potenziale. Riduci il problema a quello di un oscillatore armonico e prova a dimostrare quanto segue:
 - Lo spettro di bassa energia assume la forma
-    $$\epsilon_r = -4t + \left(r + \frac{1}{2}\right)\hbar\omega, \qquad r = 0, 1, 2, \dots \tag{5}$$
+    $$
+    \epsilon_r = -4t + \left(r + \frac{1}{2}\right)\hbar\omega, \qquad r = 0, 1, 2, \dots \tag{5}
+    $$
 - se il periodo potenziale $Ma$ è maggiore della larghezza $N_W a$ del campione, ogni livello presenta una degenerazione
     $$p = N_W N_L / M;$$
 - La forma dello spettro di Eq. 5 si applica solo a $r \ll M$.
@@ -319,13 +339,17 @@ Assume for simplicity that the disk is optically thick and vertically isothermal
 
 The evolution of a flat and geometrically thin disk follows from the equations of mass and angular momentum conservation. Consider a thin disk characterized by a surface density $\Sigma(r, t)$ (the mass per unit surface area of the disk, $\Sigma(r, t) \approx \rho(r, t) \times H(r)$), radial velocity $V_r(r, t)$ and angular velocity $\Omega(r)$. The angular momentum conservation is given by the equation
 
-$$r\frac{\partial}{\partial t}(r^2\Omega\Sigma) + \frac{\partial}{\partial r}(r^2\Omega \cdot r\Sigma V_r) = \frac{1}{2\pi}\frac{\partial G}{\partial r} \tag{1}$$
+$$
+r\frac{\partial}{\partial t}(r^2\Omega\Sigma) + \frac{\partial}{\partial r}(r^2\Omega \cdot r\Sigma V_r) = \frac{1}{2\pi}\frac{\partial G}{\partial r} \tag{1}
+$$
 
 $\nu$ is the kinematic viscosity, $G$ is the viscous torque exerted by the outer ring on the inner ring and has the form $G = 2\pi r \cdot \nu\Sigma r\,\dfrac{d\Omega}{dr}\cdot r$.
 
 Get the mass conservation equation in cylindrical co-ordinates and together with equation 1 obtain the equation that represents the disk evolution (assume the angular velocity is keplerian),
 
-$$\frac{\partial\Sigma}{\partial t} = \frac{3}{r}\frac{\partial}{\partial r}\left[r^{1/2}\frac{\partial}{\partial r}\left(\nu\Sigma r^{1/2}\right)\right] \tag{2}$$
+$$
+\frac{\partial\Sigma}{\partial t} = \frac{3}{r}\frac{\partial}{\partial r}\left[r^{1/2}\frac{\partial}{\partial r}\left(\nu\Sigma r^{1/2}\right)\right] \tag{2}
+$$
 
 **Question 3 [30 points]**
 
@@ -372,13 +396,17 @@ Per semplicità, supponiamo che il disco sia otticamente spessore e verticalment
 
 L'evoluzione di un disco piatto e geometricamente sottile deriva dalle equazioni di conservazione della massa e del momento angolare. Considera un disco sottile caratterizzato da una densità superficiale $\Sigma(r, t)$ (la massa per unità di superficie del disco, $\Sigma(r, t) \approx \rho(r, t) \times H(r)$), velocità radiale $V_r(r, t)$ e velocità angolare $\Omega(r)$. La conservazione del momento angolare è data dall'equazione
 
-$$r\frac{\partial}{\partial t}(r^2\Omega\Sigma) + \frac{\partial}{\partial r}(r^2\Omega \cdot r\Sigma V_r) = \frac{1}{2\pi}\frac{\partial G}{\partial r} \tag{1}$$
+$$
+r\frac{\partial}{\partial t}(r^2\Omega\Sigma) + \frac{\partial}{\partial r}(r^2\Omega \cdot r\Sigma V_r) = \frac{1}{2\pi}\frac{\partial G}{\partial r} \tag{1}
+$$
 
 $\nu$ è la viscosità cinematica, $G$ è la coppia viscosa esercitata dall'anello esterno sull'anello interno e ha la forma $G = 2\pi r \cdot \nu\Sigma r\,\dfrac{d\Omega}{dr}\cdot r$.
 
 Ottieni l'equazione di conservazione della massa in coordinate cilindriche e insieme all'equazione 1 ottieni l'equazione che rappresenta l'evoluzione del disco (assumiamo che la velocità angolare sia kepleriana),
 
-$$\frac{\partial\Sigma}{\partial t} = \frac{3}{r}\frac{\partial}{\partial r}\left[r^{1/2}\frac{\partial}{\partial r}\left(\nu\Sigma r^{1/2}\right)\right] \tag{2}$$
+$$
+\frac{\partial\Sigma}{\partial t} = \frac{3}{r}\frac{\partial}{\partial r}\left[r^{1/2}\frac{\partial}{\partial r}\left(\nu\Sigma r^{1/2}\right)\right] \tag{2}
+$$
 
 **Domanda 3 [30 punti] **
 
@@ -425,18 +453,24 @@ A spherical hole of radius $R_0$ (see Fig. 1) suddenly forms in a perfect incomp
 *Figure 1 — Spherical hole forming in a perfect incompressible fluid.*
 
 - **1.1. [32.5 points]** Prove that the time it takes for the fluid to completely fill the hole is
-  $$T = \sqrt{\frac{3\rho}{2p_0}}\int_0^{R_0}\frac{dr}{\sqrt{(R_0/r)^3 - 1}} \tag{1}$$
+  $$
+  T = \sqrt{\frac{3\rho}{2p_0}}\int_0^{R_0}\frac{dr}{\sqrt{(R_0/r)^3 - 1}} \tag{1}
+  $$
   with $p_0$ corresponding to the pressure at "infinity".
 
 - **1.2. [17.5 points]** In order to calculate this time, we need to evaluate the integral:
-  $$\int_0^{R_0}\frac{dr}{\sqrt{(R_0/r)^3 - 1}} \tag{2}$$
+  $$
+  \int_0^{R_0}\frac{dr}{\sqrt{(R_0/r)^3 - 1}} \tag{2}
+  $$
   Your task is to find the value of this integral in terms of beta or gamma functions. After that, choose your favorite numerical integration method and find the numerical value for this same integral and compare both. Hint: use the normalization $x = r/R_0$. You can do the numerical iterations by hand or you can put your computer to do them for you, using a programming language like Python or a similar one.
 
 ### 2. Polarization field
 
 Polarization is the vector field that expresses the density ($C/m^2$) of permanent or induced electric dipole moments in a dielectric material. When we apply an external electric field, the molecules of the material will acquire an additional electric dipole moment which is taken to be polarized. Consider that this polarization follows the differential equation that relates the polarization of a material to the applied electric field can be written, in the time domain:
 
-$$\frac{d^2 P}{dt^2} + \gamma\frac{dP}{dt} + \omega_0^2 P - \nu\omega_p^2 P = \epsilon_0\omega_p^2 E(t) \tag{3}$$
+$$
+\frac{d^2 P}{dt^2} + \gamma\frac{dP}{dt} + \omega_0^2 P - \nu\omega_p^2 P = \epsilon_0\omega_p^2 E(t) \tag{3}
+$$
 
 where $\omega_0^2 = \dfrac{e^2}{4\pi\epsilon_0 m R_0^3}$, $\gamma = \dfrac{1}{\tau}$, $\omega_p^2 = \dfrac{Ne^2}{\epsilon_0 m}$ and $N$ the number of charges per unit volume. In metals $\nu = 0$ and for an isotropic non-polar dielectric $\nu$ is theoretically $1/3$.
 
@@ -472,18 +506,24 @@ Un buco sferico di raggio $R_0$ (vedi figura. 1) si forma improvvisamente in un 
 *Figura 1  Buco sferico che si forma in un fluido perfettamente incompressibile.*
 
 - **1.1. [32,5 punti]** Prove che il tempo necessario per riempire completamente il buco è
-  $$T = \sqrt{\frac{3\rho}{2p_0}}\int_0^{R_0}\frac{dr}{\sqrt{(R_0/r)^3 - 1}} \tag{1}$$
+  $$
+  T = \sqrt{\frac{3\rho}{2p_0}}\int_0^{R_0}\frac{dr}{\sqrt{(R_0/r)^3 - 1}} \tag{1}
+  $$
 con $p_0$ corrispondente alla pressione a "infinity".
 
 - **1.2. [17.5 punti]** Per calcolare questo tempo, è necessario valutare l'integrale:
-  $$\int_0^{R_0}\frac{dr}{\sqrt{(R_0/r)^3 - 1}} \tag{2}$$
+  $$
+  \int_0^{R_0}\frac{dr}{\sqrt{(R_0/r)^3 - 1}} \tag{2}
+  $$
 Il tuo compito è trovare il valore di questa integrale in termini di funzioni beta o gamma. Dopo di che, scegliere il tuo metodo di integrazione numerica preferito e trovare il valore numerica per questa stessa integrale e confrontare entrambi. Suggerimento: utilizzare la normalizzazione $x = r/R_0$. Puoi fare le iterazioni numeriche a mano o puoi mettere il tuo computer a farlo per te, usando un linguaggio di programmazione come Python o uno simile.
 
 ### 2. Campo di polarizzazione
 
 La polarizzazione è il campo vettoriale che esprime la densità ($C/m^2$) dei momenti di dipole elettrici permanenti o indotti in un materiale dielettrico. Quando si applica un campo elettrico esterno, le molecole del materiale acquisiscono un ulteriore momento di dipolo elettrico che viene preso per essere polarizzato. Considera che questa polarizzazione segue l'equazione differenziale che relaziona la polarizzazione di un materiale al campo elettrico applicato può essere scritto, nel dominio temporale:
 
-$$\frac{d^2 P}{dt^2} + \gamma\frac{dP}{dt} + \omega_0^2 P - \nu\omega_p^2 P = \epsilon_0\omega_p^2 E(t) \tag{3}$$
+$$
+\frac{d^2 P}{dt^2} + \gamma\frac{dP}{dt} + \omega_0^2 P - \nu\omega_p^2 P = \epsilon_0\omega_p^2 E(t) \tag{3}
+$$
 
 dove $\omega_0^2 = \dfrac{e^2}{4\pi\epsilon_0 m R_0^3}$, $\gamma = \dfrac{1}{\tau}$, $\omega_p^2 = \dfrac{Ne^2}{\epsilon_0 m}$ e $N$ il numero di cariche per unità di volume. In metalli $\nu = 0$ e per un dielettrico non polare isotropo $\nu$ è teoricamente $1/3$.
 
@@ -822,11 +862,15 @@ I sensori quantistici sono un'altra tecnologia che sta diventando estremamente r
 
 Since the 2012 discovery of a Higgs-like particle at the LHC, we know that fundamental scalar fields are among Nature's building blocks. We will explore some cosmological consequences of such scalar fields. We will assume homogeneous and isotropic universes, for which the Friedmann equation is
 
-$$H^2 + \frac{k}{a^2} = \frac{8\pi G}{3}\rho, \tag{1}$$
+$$
+H^2 + \frac{k}{a^2} = \frac{8\pi G}{3}\rho, \tag{1}
+$$
 
 where $a$ is the scale factor, $H = \dot{a}/a$ is the Hubble parameter (the dot denotes a time derivative), $k$ is the curvature parameter, and $\rho$ is the total density (a sum of those of the constituents of the universe). We will work in units where $c = 1$. It is also useful to know the continuity equation
 
-$$\dot{\rho} = -3H(\rho + p) = -3H(1 + w)\rho, \tag{2}$$
+$$
+\dot{\rho} = -3H(\rho + p) = -3H(1 + w)\rho, \tag{2}
+$$
 
 where $p$ is the total pressure and for convenience we also introduced $w = p/\rho$, the equation of state parameter.
 
@@ -834,11 +878,15 @@ where $p$ is the total pressure and for convenience we also introduced $w = p/\r
 
 Consider a scalar field with
 
-$$\rho_1 = \frac{1}{2}\dot{\phi}^2 + V_1(\phi), \quad p_1 = \frac{1}{2}\dot{\phi}^2 - V_1(\phi), \tag{3}$$
+$$
+\rho_1 = \frac{1}{2}\dot{\phi}^2 + V_1(\phi), \quad p_1 = \frac{1}{2}\dot{\phi}^2 - V_1(\phi), \tag{3}
+$$
 
 where $V_1$ is a generic potential. Calculate the cosmological evolution equation for this scalar field. Then repeat the calculation for a scalar field with
 
-$$\rho_2 = \frac{V_2(\phi)}{\sqrt{1 - \dot{\phi}^2}}, \quad p_2 = -V_2(\phi)\sqrt{1 - \dot{\phi}^2}, \tag{4}$$
+$$
+\rho_2 = \frac{V_2(\phi)}{\sqrt{1 - \dot{\phi}^2}}, \quad p_2 = -V_2(\phi)\sqrt{1 - \dot{\phi}^2}, \tag{4}
+$$
 
 where again $V_2$ is a generic potential.
 
@@ -848,19 +896,25 @@ Under what conditions can each field dominate the universe and cause its recent 
 
 Consider the first of the scalar fields in Question 1. Show that if the field speed is small one can write, to first order,
 
-$$w(z) = -1 + (1 + w_0)\frac{H_0^2}{H^2(z)}, \tag{5}$$
+$$
+w(z) = -1 + (1 + w_0)\frac{H_0^2}{H^2(z)}, \tag{5}
+$$
 
 where $w_0$ and $H_0$ denote present-day values.
 
 Further assuming a flat universe containing only matter and the scalar field (with present-day fractional contributions to the energy density $\Omega_m$ and $\Omega_\phi$), show that the Friedmann equation has the form
 
-$$\frac{H^2(z)}{H_0^2} = \Omega_m(1 + z)^3 + \Omega_\phi\left[\frac{(1 + z)^3}{\Omega_m(1 + z)^3 + \Omega_\phi}\right]^{\frac{1+w_0}{\Omega_\phi}}. \tag{6}$$
+$$
+\frac{H^2(z)}{H_0^2} = \Omega_m(1 + z)^3 + \Omega_\phi\left[\frac{(1 + z)^3}{\Omega_m(1 + z)^3 + \Omega_\phi}\right]^{\frac{1+w_0}{\Omega_\phi}}. \tag{6}
+$$
 
 **Question 3 [30 points]**
 
 Consider a flat universe containing matter and a cosmological constant, but also a scalar field which obeys the cosmological evolution equation
 
-$$\ddot{\phi} + 3H\dot{\phi} = -3H_0^2\left[\eta_m\Omega_m\left(\frac{a_0}{a}\right)^3 + \eta_\Lambda\Omega_\Lambda\right], \tag{7}$$
+$$
+\ddot{\phi} + 3H\dot{\phi} = -3H_0^2\left[\eta_m\Omega_m\left(\frac{a_0}{a}\right)^3 + \eta_\Lambda\Omega_\Lambda\right], \tag{7}
+$$
 
 where $\eta_m$ and $\eta_\Lambda$ are constant coupling parameters describing how the scalar field couples to the matter and cosmological constant sectors and $a_0$ is the present-day value of the scale factor (you may assume $\phi_0 = 0$).
 
@@ -870,17 +924,23 @@ Assuming that you can neglect the scalar field's contribution to the Friedmann e
 
 In some models the scalar field is responsible for a variation of the fine-structure constant $\alpha$ (a measure of the strength of the electromagnetic interaction), and the variation of $\alpha$ has the redshift dependence
 
-$$\frac{\Delta\alpha}{\alpha}(z) \equiv \frac{\alpha(z) - \alpha_0}{\alpha_0} = \zeta\int_0^z\sqrt{3 f_\phi(y)[1 + w_\phi(y)]}\,\frac{dy}{1 + y}, \tag{8}$$
+$$
+\frac{\Delta\alpha}{\alpha}(z) \equiv \frac{\alpha(z) - \alpha_0}{\alpha_0} = \zeta\int_0^z\sqrt{3 f_\phi(y)[1 + w_\phi(y)]}\,\frac{dy}{1 + y}, \tag{8}
+$$
 
 where $w_\phi$ is the scalar field equation of state parameter,
 
-$$f_\phi = \frac{\rho_\phi}{\rho_m + \rho_\phi} \tag{9}$$
+$$
+f_\phi = \frac{\rho_\phi}{\rho_m + \rho_\phi} \tag{9}
+$$
 
 is the fractional contribution of the scalar field to the energy density, and $\zeta$ is another constant coupling parameter.
 
 Calculate the generic explicit form (and redshift dependence) of the variation of $\alpha$, showing that for a slowly varying field
 
-$$\frac{\Delta\alpha}{\alpha}(z) \propto \ln(1 + z). \tag{10}$$
+$$
+\frac{\Delta\alpha}{\alpha}(z) \propto \ln(1 + z). \tag{10}
+$$
 
 You may again assume a flat universe.
 
@@ -899,11 +959,15 @@ You may again assume a flat universe.
 
 Dal 2012 alla scoperta di una particella simile a Higgs al LHC, sappiamo che i campi scalari fondamentali sono tra i blocchi di costruzione della Natura. Esploreremo alcune conseguenze cosmologiche di tali campi scalari. Supponiamo universi omogenei e isotropi, per i quali l'equazione di Friedmann è
 
-$$H^2 + \frac{k}{a^2} = \frac{8\pi G}{3}\rho, \tag{1}$$
+$$
+H^2 + \frac{k}{a^2} = \frac{8\pi G}{3}\rho, \tag{1}
+$$
 
 dove $a$ è il fattore di scala, $H = \dot{a}/a$ è il parametro Hubble (il punto indica una derivata temporale), $k$ è il parametro di curvatura e $\rho$ è la densità totale (una somma di quelle dei componenti dell'universo). Lavoreremo in unità dove $c = 1$. È utile anche conoscere l'equazione di continuità
 
-$$\dot{\rho} = -3H(\rho + p) = -3H(1 + w)\rho, \tag{2}$$
+$$
+\dot{\rho} = -3H(\rho + p) = -3H(1 + w)\rho, \tag{2}
+$$
 
 dove $p$ è la pressione totale e per comodità abbiamo anche introdotto $w = p/\rho$, l'equazione di parametro di stato.
 
@@ -911,11 +975,15 @@ dove $p$ è la pressione totale e per comodità abbiamo anche introdotto $w = p/
 
 Considerate un campo scalare con
 
-$$\rho_1 = \frac{1}{2}\dot{\phi}^2 + V_1(\phi), \quad p_1 = \frac{1}{2}\dot{\phi}^2 - V_1(\phi), \tag{3}$$
+$$
+\rho_1 = \frac{1}{2}\dot{\phi}^2 + V_1(\phi), \quad p_1 = \frac{1}{2}\dot{\phi}^2 - V_1(\phi), \tag{3}
+$$
 
 in cui $V_1$ è un potenziale generico. Calcolare l'equazione di evoluzione cosmologica per questo campo scalare. Quindi ripeti il calcolo per un campo scalare con
 
-$$\rho_2 = \frac{V_2(\phi)}{\sqrt{1 - \dot{\phi}^2}}, \quad p_2 = -V_2(\phi)\sqrt{1 - \dot{\phi}^2}, \tag{4}$$
+$$
+\rho_2 = \frac{V_2(\phi)}{\sqrt{1 - \dot{\phi}^2}}, \quad p_2 = -V_2(\phi)\sqrt{1 - \dot{\phi}^2}, \tag{4}
+$$
 
 in cui $V_2$ è un potenziale generico.
 
@@ -925,19 +993,25 @@ In quali condizioni ogni campo può dominare l'universo e causare la sua recente
 
 Considerate il primo dei campi scalari della domanda 1. Mostrare che se la velocità del campo è piccola si può scrivere, al primo ordine,
 
-$$w(z) = -1 + (1 + w_0)\frac{H_0^2}{H^2(z)}, \tag{5}$$
+$$
+w(z) = -1 + (1 + w_0)\frac{H_0^2}{H^2(z)}, \tag{5}
+$$
 
 dove $w_0$ e $H_0$ indicano valori attuali.
 
 Supponendo inoltre un universo piatto contenente solo materia e il campo scalare (con contributi frazionari attuali alla densità energetica $\Omega_m$ e $\Omega_\phi$), dimostri che l'equazione di Friedmann ha la forma
 
-$$\frac{H^2(z)}{H_0^2} = \Omega_m(1 + z)^3 + \Omega_\phi\left[\frac{(1 + z)^3}{\Omega_m(1 + z)^3 + \Omega_\phi}\right]^{\frac{1+w_0}{\Omega_\phi}}. \tag{6}$$
+$$
+\frac{H^2(z)}{H_0^2} = \Omega_m(1 + z)^3 + \Omega_\phi\left[\frac{(1 + z)^3}{\Omega_m(1 + z)^3 + \Omega_\phi}\right]^{\frac{1+w_0}{\Omega_\phi}}. \tag{6}
+$$
 
 **Domanda 3 [30 punti] **
 
 Considera un universo piatto contenente materia e una costante cosmologica, ma anche un campo scalare che obbedisce all'equazione di evoluzione cosmologica
 
-$$\ddot{\phi} + 3H\dot{\phi} = -3H_0^2\left[\eta_m\Omega_m\left(\frac{a_0}{a}\right)^3 + \eta_\Lambda\Omega_\Lambda\right], \tag{7}$$
+$$
+\ddot{\phi} + 3H\dot{\phi} = -3H_0^2\left[\eta_m\Omega_m\left(\frac{a_0}{a}\right)^3 + \eta_\Lambda\Omega_\Lambda\right], \tag{7}
+$$
 
 dove $\eta_m$ e $\eta_\Lambda$ sono parametri di accoppiamento costanti che descrivono come il campo scalare si accoppia con i settori della materia e della costante cosmologica e $a_0$ è il valore attuale del fattore di scala (si può supporre $\phi_0 = 0$).
 
@@ -947,17 +1021,23 @@ Supponendo che si possa trascurare il contributo del campo scalare all'equazione
 
 In alcuni modelli il campo scalare è responsabile di una variazione della costante di struttura fine $\alpha$ (una misura della forza dell'interazione elettromagnetica), e la variazione di $\alpha$ ha la dipendenza dal spostamento rosso
 
-$$\frac{\Delta\alpha}{\alpha}(z) \equiv \frac{\alpha(z) - \alpha_0}{\alpha_0} = \zeta\int_0^z\sqrt{3 f_\phi(y)[1 + w_\phi(y)]}\,\frac{dy}{1 + y}, \tag{8}$$
+$$
+\frac{\Delta\alpha}{\alpha}(z) \equiv \frac{\alpha(z) - \alpha_0}{\alpha_0} = \zeta\int_0^z\sqrt{3 f_\phi(y)[1 + w_\phi(y)]}\,\frac{dy}{1 + y}, \tag{8}
+$$
 
 dove $w_\phi$ è l'equazione di campo scalare del parametro di stato,
 
-$$f_\phi = \frac{\rho_\phi}{\rho_m + \rho_\phi} \tag{9}$$
+$$
+f_\phi = \frac{\rho_\phi}{\rho_m + \rho_\phi} \tag{9}
+$$
 
 è il contributo frazionario del campo scalare alla densità energetica e $\zeta$ è un altro parametro di accoppiamento costante.
 
 Calcolare la forma esplicita generica (e la dipendenza dal spostamento rosso) della variazione di $\alpha$, mostrando che per un campo che varia lentamente
 
-$$\frac{\Delta\alpha}{\alpha}(z) \propto \ln(1 + z). \tag{10}$$
+$$
+\frac{\Delta\alpha}{\alpha}(z) \propto \ln(1 + z). \tag{10}
+$$
 
 Potresti assumere di nuovo un universo piatto.
 

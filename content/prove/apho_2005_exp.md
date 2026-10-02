@@ -162,7 +162,9 @@ The magnetic braking force depends on:
 
 In this experiment we will investigate the magnetic braking force dependencies on the velocity ($v$) and the conductor-magnet distance ($d$). This force can be written empirically as:
 
-$$F_{\text{mb}} = -k_0\, d^{\,p} v^{\,n} \tag{1}$$
+$$
+F_{\text{mb}} = -k_0\, d^{\,p} v^{\,n} \tag{1}
+$$
 
 where
 
@@ -269,7 +271,9 @@ La forza di frenata magnetica dipende da:
 
 In questo esperimento esamineremo le dipendenze della forza di frenata magnetica dalla velocità ($v$) e dalla distanza conduttore-magnete ($d$). Questa forza può essere scritta empiricamente come:
 
-$$F_{\text{mb}} = -k_0\, d^{\,p} v^{\,n} \tag{1}$$
+$$
+F_{\text{mb}} = -k_0\, d^{\,p} v^{\,n} \tag{1}
+$$
 
 dove
 

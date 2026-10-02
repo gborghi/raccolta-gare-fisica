@@ -200,7 +200,9 @@ Earth's radius: $R_E = 6.4 \times 10^6$ m.
 
 The Earth's dipole magnetic field can be expressed as
 
-$$\vec{B}_d = \frac{B_0 R_0^3}{r^5}\left[3xz\hat{x} - 3yz\hat{y} + (x^2 + y^2 - 2z^2)\hat{z}\right],\quad (r \ge R_0)\tag{1}$$
+$$
+\vec{B}_d = \frac{B_0 R_0^3}{r^5}\left[3xz\hat{x} - 3yz\hat{y} + (x^2 + y^2 - 2z^2)\hat{z}\right],\quad (r \ge R_0)\tag{1}
+$$
 
 where $r = \sqrt{x^2 + y^2 + z^2}$, $B_0 = 3.1 \times 10^{-5}$ T, and $\hat{x}, \hat{y}, \hat{z}$ are the unit vectors in the $x, y, z$ directions, respectively.
 
@@ -328,7 +330,9 @@ Radius della Terra: $R_E = 6.4 \times 10^6$ m.
 
 Il campo magnetico di dipole della Terra può essere espresso come
 
-$$\vec{B}_d = \frac{B_0 R_0^3}{r^5}\left[3xz\hat{x} - 3yz\hat{y} + (x^2 + y^2 - 2z^2)\hat{z}\right],\quad (r \ge R_0)\tag{1}$$
+$$
+\vec{B}_d = \frac{B_0 R_0^3}{r^5}\left[3xz\hat{x} - 3yz\hat{y} + (x^2 + y^2 - 2z^2)\hat{z}\right],\quad (r \ge R_0)\tag{1}
+$$
 
 dove $r = \sqrt{x^2 + y^2 + z^2}$, $B_0 = 3.1 \times 10^{-5}$ T e $\hat{x}, \hat{y}, \hat{z}$ sono i vettori unitari nelle direzioni $x, y, z$, rispettivamente.
 

@@ -54,7 +54,9 @@ Assume that the applied magnetic field is uniform and the magnetic induction vec
 
 The potential difference measured between the electrodes M and N is given by
 
-$$U_{MN} = U_H + V_{MN} \tag{1}$$
+$$
+U_{MN} = U_H + V_{MN} \tag{1}
+$$
 
 where $U_H$ is the Hall voltage, $V_{MN}$ is the potential difference in the absence of a magnetic field due to some undesired effects (the electrodes M and N being not exactly opposite to each other, etc.).
 
@@ -62,7 +64,9 @@ Normally, the Hall voltage $U_H$ is proportional to $I\,B\,\sin\theta$, and the 
 
 The Hall effect is used to fabricate a device for measuring the magnetic field. This device is called the **Hall sensor**. For a Hall sensor, the expression of $U_H$ is given by:
 
-$$U_H = \alpha\,I\,B\,\sin\theta \tag{2}$$
+$$
+U_H = \alpha\,I\,B\,\sin\theta \tag{2}
+$$
 
 where $\alpha$ is, by definition, the sensitivity of the Hall sensor.
 
@@ -83,7 +87,9 @@ Set the current through the sensor $I \sim 1\ \text{mA}$. Keep the distance betw
 
 For a magnet having the shape of a disk of radius $r$, thickness $t$, the magnetic field at a point situated on its axis at a distance $y$ from the center of the disk surface with $y \gg t$ is given by the expression
 
-$$B(y) = \frac{1}{2}B_0\left[\frac{y+t}{\sqrt{(y+t)^2 + r^2}} - \frac{y}{\sqrt{y^2 + r^2}}\right] \tag{1}$$
+$$
+B(y) = \frac{1}{2}B_0\left[\frac{y+t}{\sqrt{(y+t)^2 + r^2}} - \frac{y}{\sqrt{y^2 + r^2}}\right] \tag{1}
+$$
 
 where $B_0$ is the magnetic induction at the surface of the magnet. The value of $B_0$ is given on the surface of the magnet.
 
@@ -174,7 +180,9 @@ Supponiamo che il campo magnetico applicato sia uniforme e che il vettore di ind
 
 La differenza di potenziale misurata tra gli elettrodi M e N è data da
 
-$$U_{MN} = U_H + V_{MN} \tag{1}$$
+$$
+U_{MN} = U_H + V_{MN} \tag{1}
+$$
 
 se $U_H$ è la tensione Hall, $V_{MN}$ è la differenza potenziale in assenza di campo magnetico a causa di alcuni effetti indesiderati (l'elettrodo M e N non sono esattamente opposti tra loro, ecc.).
 
@@ -182,7 +190,9 @@ Normalmente, la tensione di Hall $U_H$ è proporzionale a $I\,B\,\sin\theta$, e 
 
 L'effetto Hall viene utilizzato per fabbricare un dispositivo per misurare il campo magnetico. Questo dispositivo è chiamato sensore **Hall**. Per un sensore Hall, l'espressione $U_H$ è data da:
 
-$$U_H = \alpha\,I\,B\,\sin\theta \tag{2}$$
+$$
+U_H = \alpha\,I\,B\,\sin\theta \tag{2}
+$$
 
 dove $\alpha$ è, per definizione, la sensibilità del sensore Hall.
 
@@ -203,7 +213,9 @@ Impostare la corrente attraverso il sensore $I \sim 1\ \text{mA}$. Tenere la dis
 
 Per un magnete con forma di disco di raggio $r$, spessore $t$, il campo magnetico in un punto situato sul suo asse a distanza $y$ dal centro della superficie del disco con $y \gg t$ è indicato con l'espressione
 
-$$B(y) = \frac{1}{2}B_0\left[\frac{y+t}{\sqrt{(y+t)^2 + r^2}} - \frac{y}{\sqrt{y^2 + r^2}}\right] \tag{1}$$
+$$
+B(y) = \frac{1}{2}B_0\left[\frac{y+t}{\sqrt{(y+t)^2 + r^2}} - \frac{y}{\sqrt{y^2 + r^2}}\right] \tag{1}
+$$
 
 dove $B_0$ è l'induzione magnetica alla superficie del magnete. Il valore di $B_0$ è indicato sulla superficie del magnete.
 

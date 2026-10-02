@@ -268,7 +268,7 @@ b) Experimentally determine the surface tension of liquid I, given that the surf
 **Task E6: Explosion (4.0 pts)**
 
 When the acoustic pressure is too high, the levitating droplet will explode. A theoretical formula for the maximum voltage that can be applied to the droplet before it explodes is
-$$U_{\max} = \frac{\sqrt{\alpha}}{D} + \beta,$$
+$$U_{\max} = \sqrt{\frac{\alpha}{D} + \beta},$$
 where $\alpha$ and $\beta$ are some constants.
 
 Consider only liquid II for this task.
@@ -290,7 +290,7 @@ b) Estimate the maximum diameter of a droplet that can be levitated. (2.0 pts)
 **Task E6: Explosion (4.0 pts)**
 
 When the acoustic pressure is too high, the levitating droplet will explode. A theoretical formula for the maximum voltage that can be applied to the droplet before it explodes is
-$$U_{\max} = \frac{\sqrt{\alpha}}{D} + \beta,$$
+$$U_{\max} = \sqrt{\frac{\alpha}{D} + \beta},$$
 where $\alpha$ and $\beta$ are some constants.
 
 Consider only liquid II for this task.

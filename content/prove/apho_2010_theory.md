@@ -89,11 +89,15 @@ Plot the shape of the string at $t = T/8$. In the plot, specify lengths and angl
 
 Photons in the universe play an important role in delivering information across the cosmos. However, the fact that the universe is expanding must be taken into account when one tries to extract information from these photons. To this end, we normally express length and distance using a universal scale factor $a(t)$ which depends on time $t$. Thus the distance $L(t)$ between two stars stationary in their respective local frames is proportional to $a(t)$:
 
-$$L(t) = ka(t), \tag{1}$$
+$$
+L(t) = ka(t), \tag{1}
+$$
 
 where $k$ is a constant and $a(t)$ accounts for the expansion of the universe. We use a dot above a symbol of a variable to denote its time derivative, i.e. $\dot{a}(t) = da(t)/dt$, and let $v(t) \equiv \dot{L}(t)$. Taking time derivatives of both sides of Eq. (1), one obtains the Hubble law:
 
-$$v(t) = H(t)L(t), \tag{2}$$
+$$
+v(t) = H(t)L(t), \tag{2}
+$$
 
 where $H(t) = \dot{a}(t)/a(t)$ is the Hubble parameter at time $t$. At the current time $t_0$, we have
 
@@ -203,11 +207,15 @@ Tracciare la forma della stringa a $t = T/8$. Nella trama, specificare lunghezze
 
 I fotoni nell'universo svolgono un ruolo importante nel trasmettere informazioni attraverso il cosmo. Tuttavia, il fatto che l'universo si stia espandendo deve essere preso in considerazione quando si tenta di estrarre informazioni da questi fotoni. A tal fine, normalmente si esprimono lunghezza e distanza utilizzando un fattore di scala universale $a(t)$ che dipende dal tempo $t$. La distanza $L(t)$ tra due stelle stazionarie nei rispettivi quadri locali è quindi proporzionale a $a(t)$:
 
-$$L(t) = ka(t), \tag{1}$$
+$$
+L(t) = ka(t), \tag{1}
+$$
 
 dove $k$ è una costante e $a(t)$ rappresenta l'espansione dell'universo. Usiamo un punto sopra un simbolo di una variabile per indicare la sua derivata temporale, cioè $\dot{a}(t) = da(t)/dt$, e lasciate $v(t) \equiv \dot{L}(t)$. Prendendo derivati temporali di entrambe le parti di Eq. (1), si ottiene la legge di Hubble:
 
-$$v(t) = H(t)L(t), \tag{2}$$
+$$
+v(t) = H(t)L(t), \tag{2}
+$$
 
 dove $H(t) = \dot{a}(t)/a(t)$ è il parametro Hubble al tempo $t$. Al momento attuale $t_0$, abbiamo
 
@@ -323,13 +331,19 @@ Calculate the values of $L$ and $R$. Use data given in Table 1. *[0.4 point]*
 
 **(h)** At time $t = 0$, the switch $K$ is thrown to position 1 and the current starts flowing. For $t \geq 0$, the charge $Q(t)$ on the positive plate of the capacitor and the current $I(t)$ entering the positive plate are given by
 
-$$Q(t) = \frac{CV_0}{\sin \theta_0} e^{-\alpha t} \sin(\omega t + \theta_0), \tag{1}$$
+$$
+Q(t) = \frac{CV_0}{\sin \theta_0} e^{-\alpha t} \sin(\omega t + \theta_0), \tag{1}
+$$
 
-$$I(t) = \frac{dQ}{dt} = \left(\frac{-\alpha}{\cos \theta_0}\right) \frac{CV_0}{\sin \theta_0} e^{-\alpha t} \sin \omega t, \tag{2}$$
+$$
+I(t) = \frac{dQ}{dt} = \left(\frac{-\alpha}{\cos \theta_0}\right) \frac{CV_0}{\sin \theta_0} e^{-\alpha t} \sin \omega t, \tag{2}
+$$
 
 in which $\alpha$ and $\omega$ are positive constants and $\theta_0$ is given by
 
-$$\tan \theta_0 = \frac{\omega}{\alpha}, \qquad 0 < \theta_0 < \frac{\pi}{2}. \tag{3}$$
+$$
+\tan \theta_0 = \frac{\omega}{\alpha}, \qquad 0 < \theta_0 < \frac{\pi}{2}. \tag{3}
+$$
 
 Note that, if $Q(t)$ is expressed as a function of a new variable $t' \equiv (t + \theta_0/\omega)$, then $Q(t')$ and its time derivative $I(t)$ are identical in form except for an overall constant factor. The time derivative of $I(t)$ may therefore be obtained similarly without further differentiations.
 
@@ -438,13 +452,19 @@ Calcolare i valori di $L$ e $R$. Utilizzare i dati riportati nella tabella 1. *[
 
 **(h) ** Al momento $t = 0$, il interruttore $K$ viene gettato alla posizione 1 e la corrente inizia a fluire. Per $t \geq 0$, la carica $Q(t)$ sulla piastra positiva del condensatore e la corrente $I(t)$ che entra nella piastra positiva sono indicate da:
 
-$$Q(t) = \frac{CV_0}{\sin \theta_0} e^{-\alpha t} \sin(\omega t + \theta_0), \tag{1}$$
+$$
+Q(t) = \frac{CV_0}{\sin \theta_0} e^{-\alpha t} \sin(\omega t + \theta_0), \tag{1}
+$$
 
-$$I(t) = \frac{dQ}{dt} = \left(\frac{-\alpha}{\cos \theta_0}\right) \frac{CV_0}{\sin \theta_0} e^{-\alpha t} \sin \omega t, \tag{2}$$
+$$
+I(t) = \frac{dQ}{dt} = \left(\frac{-\alpha}{\cos \theta_0}\right) \frac{CV_0}{\sin \theta_0} e^{-\alpha t} \sin \omega t, \tag{2}
+$$
 
 in cui $\alpha$ e $\omega$ sono costanti positive e $\theta_0$ è dato da
 
-$$\tan \theta_0 = \frac{\omega}{\alpha}, \qquad 0 < \theta_0 < \frac{\pi}{2}. \tag{3}$$
+$$
+\tan \theta_0 = \frac{\omega}{\alpha}, \qquad 0 < \theta_0 < \frac{\pi}{2}. \tag{3}
+$$
 
 Si noti che, se $Q(t)$ è espressa come funzione di una nuova variabile $t' \equiv (t + \theta_0/\omega)$, allora $Q(t')$ e la sua derivata temporale $I(t)$ sono identici nella forma, tranne per un fattore costante complessivo. La derivata temporale di $I(t)$ può quindi essere ottenuta in modo simile senza ulteriori differenziazioni.
 
@@ -528,11 +548,15 @@ We assume that, at all times, the bubble considered is spherical and its center 
 
 As the bubble's radius $R = R(t)$ changes with time $t$, the bubble-liquid interface will move with radial velocity $\dot{R} \equiv dR/dt$. It follows from the equation of continuity of incompressible fluids that the liquid's radial velocity $\dot{r} \equiv dr/dt$ at distance $r$ from the center of the bubble is related to the rate of change of the bubble's volume $V$ by
 
-$$\frac{dV}{dt} = 4\pi R^2 \dot{R} = 4\pi r^2 \dot{r}. \tag{1}$$
+$$
+\frac{dV}{dt} = 4\pi R^2 \dot{R} = 4\pi r^2 \dot{r}. \tag{1}
+$$
 
 This implies that the total kinetic energy $E_k$ of the liquid with mass density $\rho_0$ is
 
-$$E_k = \frac{1}{2} \int_R^{r_0} \rho_0 (4\pi r^2 dr)\dot{r}^2 = 2\pi \rho_0 R^4 \dot{R}^2 \int_R^{r_0} \frac{1}{r^2} dr = 2\pi \rho_0 R^4 \dot{R}^2 \left(\frac{1}{R} - \frac{1}{r_0}\right) \tag{2}$$
+$$
+E_k = \frac{1}{2} \int_R^{r_0} \rho_0 (4\pi r^2 dr)\dot{r}^2 = 2\pi \rho_0 R^4 \dot{R}^2 \int_R^{r_0} \frac{1}{r^2} dr = 2\pi \rho_0 R^4 \dot{R}^2 \left(\frac{1}{R} - \frac{1}{r_0}\right) \tag{2}
+$$
 
 where $r_0$ is the radius of the outer surface of the liquid.
 
@@ -546,7 +570,9 @@ Find the amount of work $dW$ done on the liquid when the radius of the bubble ch
 
 The work $dW$ must be equal to the corresponding change in the total kinetic energy of the liquid. In the limit $r_0 \to \infty$, it follows that we have Bernoulli's equation in the form
 
-$$\frac{1}{2} \rho_0 \, d\!\left(R^m \dot{R}^2\right) = (P - P_0)R^n dR. \tag{3}$$
+$$
+\frac{1}{2} \rho_0 \, d\!\left(R^m \dot{R}^2\right) = (P - P_0)R^n dR. \tag{3}
+$$
 
 Find the exponents $m$ and $n$ in Eq. (3). Use dimensional arguments if necessary. *[0.4 point]*
 
@@ -562,11 +588,15 @@ Now, this bubble begins its collapsing stage at time $t = 0$ with $R(0) = R_i = 
 
 **(h)** Let $\beta \equiv R/R_i$ and $\dot{\beta} = d\beta/dt$. Eq. (3) implies a conservation law which takes the following form
 
-$$\frac{1}{2} \rho_0 \dot{\beta}^2 + U(\beta) = 0. \tag{4}$$
+$$
+\frac{1}{2} \rho_0 \dot{\beta}^2 + U(\beta) = 0. \tag{4}
+$$
 
 Let $P_i \equiv P(R_i)$ be the gas pressure of the bubble when $R = R_i$. If we introduce the ratio $Q \equiv P_i/[(\gamma - 1)P_0]$, the function $U(\beta)$ may be expressed as
 
-$$U(\beta) = \mu \beta^{-5}\left[Q(1 - \beta^2) - \beta^2(1 - \beta^3)\right]. \tag{5}$$
+$$
+U(\beta) = \mu \beta^{-5}\left[Q(1 - \beta^2) - \beta^2(1 - \beta^3)\right]. \tag{5}
+$$
 
 Find the coefficient $\mu$ in terms of $R_i$ and $P_0$. *[0.6 point]*
 
@@ -657,11 +687,15 @@ Assumiamo che, in ogni istante, la bolla considerata sia sferica e che il suo ce
 
 Poiché il raggio della bolla $R = R(t)$ varia nel tempo $t$, l'interfaccia bolla-liquido si muoverà con velocità radiale $\dot{R} \equiv dR/dt$. Dall'equazione di continuità dei fluidi incomprimibili segue che la velocità radiale del liquido $\dot{r} \equiv dr/dt$ a distanza $r$ dal centro della bolla è legata al tasso di variazione del volume della bolla $V$ da
 
-$$\frac{dV}{dt} = 4\pi R^2 \dot{R} = 4\pi r^2 \dot{r}. \tag{1}$$
+$$
+\frac{dV}{dt} = 4\pi R^2 \dot{R} = 4\pi r^2 \dot{r}. \tag{1}
+$$
 
 Ciò implica che l'energia cinetica totale $E_k$ del liquido di densità di massa $\rho_0$ è
 
-$$E_k = \frac{1}{2} \int_R^{r_0} \rho_0 (4\pi r^2 dr)\dot{r}^2 = 2\pi \rho_0 R^4 \dot{R}^2 \int_R^{r_0} \frac{1}{r^2} dr = 2\pi \rho_0 R^4 \dot{R}^2 \left(\frac{1}{R} - \frac{1}{r_0}\right) \tag{2}$$
+$$
+E_k = \frac{1}{2} \int_R^{r_0} \rho_0 (4\pi r^2 dr)\dot{r}^2 = 2\pi \rho_0 R^4 \dot{R}^2 \int_R^{r_0} \frac{1}{r^2} dr = 2\pi \rho_0 R^4 \dot{R}^2 \left(\frac{1}{R} - \frac{1}{r_0}\right) \tag{2}
+$$
 
 dove $r_0$ è il raggio della superficie esterna del liquido.
 
@@ -675,7 +709,9 @@ Trova la quantità di lavoro $dW$ compiuto sul liquido quando il raggio della bo
 
 Il lavoro $dW$ deve essere uguale alla corrispondente variazione dell'energia cinetica totale del liquido. Nel limite $r_0 \to \infty$, segue che si ha l'equazione di Bernoulli nella forma
 
-$$\frac{1}{2} \rho_0 \, d\!\left(R^m \dot{R}^2\right) = (P - P_0)R^n dR. \tag{3}$$
+$$
+\frac{1}{2} \rho_0 \, d\!\left(R^m \dot{R}^2\right) = (P - P_0)R^n dR. \tag{3}
+$$
 
 Trova gli esponenti $m$ e $n$ nell'Eq. (3). Usa argomenti dimensionali se necessario. *[0.4 punti]*
 
@@ -691,11 +727,15 @@ Ora, questa bolla inizia il suo stadio di collasso al tempo $t = 0$ con $R(0) = 
 
 **(h)** Sia $\beta \equiv R/R_i$ e $\dot{\beta} = d\beta/dt$. L'Eq. (3) implica una legge di conservazione che assume la forma seguente
 
-$$\frac{1}{2} \rho_0 \dot{\beta}^2 + U(\beta) = 0. \tag{4}$$
+$$
+\frac{1}{2} \rho_0 \dot{\beta}^2 + U(\beta) = 0. \tag{4}
+$$
 
 Sia $P_i \equiv P(R_i)$ la pressione del gas della bolla quando $R = R_i$. Se introduciamo il rapporto $Q \equiv P_i/[(\gamma - 1)P_0]$, la funzione $U(\beta)$ può essere espressa come
 
-$$U(\beta) = \mu \beta^{-5}\left[Q(1 - \beta^2) - \beta^2(1 - \beta^3)\right]. \tag{5}$$
+$$
+U(\beta) = \mu \beta^{-5}\left[Q(1 - \beta^2) - \beta^2(1 - \beta^3)\right]. \tag{5}
+$$
 
 Trova il coefficiente $\mu$ in termini di $R_i$ e $P_0$. *[0.6 punti]*
 

@@ -23,7 +23,9 @@ A clear and detailed discussion on eddy currents was first provided by the Briti
 
 A small size magnet with dipole moment of magnitude $p$ and mass $m$ is dropped through a very long vertically held non-magnetic metallic tube as shown in Fig. (1) (figure is not to scale). In general the fall is governed by
 
-$$m\ddot{z} = mg - k\dot{z} \tag{1}$$
+$$
+m\ddot{z} = mg - k\dot{z} \tag{1}
+$$
 
 Here $g$ is the acceleration due to gravity. Note that the damping parameter $k$ is due to the generation of eddy currents in the tube.
 
@@ -94,7 +96,9 @@ Una discussione chiara e dettagliata sulle correnti eddy fu fornita per la prima
 
 Un magnete di piccola dimensione con momento di dipole di magnitudo $p$ e massa $m$ viene trasmesso attraverso un tubo metallico non magnetico tenuto verticalmente molto lungo come mostrato nella figura. (1) (la figura non è in scala). In generale, l'autunno è regolato da
 
-$$m\ddot{z} = mg - k\dot{z} \tag{1}$$
+$$
+m\ddot{z} = mg - k\dot{z} \tag{1}
+$$
 
 Qui $g$ è l'accelerazione dovuta alla gravità. Si noti che il parametro di ammortizzazione $k$ è dovuto alla generazione di correnti di scarico nel tubo.
 
@@ -276,9 +280,13 @@ Consider the experimental set up as shown in Fig. (1). Two coherent monochromati
 
 **III.1** Let the beams 1 and 2 be linearly polarized at $z = 0$. The corresponding electric field vectors are given by
 
-$$\vec{E}_1 = \hat{i}\,E_0 \cos(\omega t) \tag{1a}$$
+$$
+\vec{E}_1 = \hat{i}\,E_0 \cos(\omega t) \tag{1a}
+$$
 
-$$\vec{E}_2 = \hat{i}\,E_0 \cos(\omega t) \tag{1b}$$
+$$
+\vec{E}_2 = \hat{i}\,E_0 \cos(\omega t) \tag{1b}
+$$
 
 where $\hat{i}$ is the unit vector along the $x$-axis, $\omega$ is angular frequency of light and $E_0$ is the amplitude. Find the expression for the intensity of the light $I(\theta)$, that will be observed on the screen where $\theta$ is the angle shown in Fig. (1). Express your answer in terms of $\theta$, $d$, $E_0$, $c$ and $\omega$ where $c$ is the speed of light. Also, note that the intensity is proportional to the time average of the square of the electric field. Here you make take the proportionality constant to be $\beta$. You may ignore the attenuation in the magnitude of the electric fields with distance from the slits to any point on the screen. **[1.0 point]**
 
@@ -290,7 +298,9 @@ $$\vec{E}_1 = \hat{i}\,E_0 \cos(\omega t)$$
 
 to a circular polarization state which is given by
 
-$$\vec{E}_1 = \frac{1}{\sqrt{2}}\left[\hat{i}\,E_0 \cos(\omega t) + \hat{j}\,E_0 \sin(\omega t)\right] \tag{2}$$
+$$
+\vec{E}_1 = \frac{1}{\sqrt{2}}\left[\hat{i}\,E_0 \cos(\omega t) + \hat{j}\,E_0 \sin(\omega t)\right] \tag{2}
+$$
 
 where $\hat{j}$ is the unit vector along the $y$-axis.
 
@@ -325,7 +335,9 @@ Thus the beam 1 is back to its original state of polarization. Assume that the p
 
 The most general type of polarization is elliptical polarization. A convenient way of expressing elliptical polarization is to consider it as a superposition of two orthogonal linearly polarized components i.e.
 
-$$\vec{E} = \hat{i}\,'\,E_0 \cos e \cos(\omega t) + \hat{j}\,'\,E_0 \sin e \sin(\omega t) \tag{3}$$
+$$
+\vec{E} = \hat{i}\,'\,E_0 \cos e \cos(\omega t) + \hat{j}\,'\,E_0 \sin e \sin(\omega t) \tag{3}
+$$
 
 where $\hat{i}\,'$ and $\hat{j}\,'$ and this state of polarization are depicted in Fig. 3.
 
@@ -380,9 +392,13 @@ Considerate la struttura sperimentale mostrata nella figura. (1). Due fasci di l
 
 **III.1 ** Lasciate che i fasci 1 e 2 siano polarizzati linearmente a $z = 0$. I vector di campo elettrico corrispondenti sono dati da
 
-$$\vec{E}_1 = \hat{i}\,E_0 \cos(\omega t) \tag{1a}$$
+$$
+\vec{E}_1 = \hat{i}\,E_0 \cos(\omega t) \tag{1a}
+$$
 
-$$\vec{E}_2 = \hat{i}\,E_0 \cos(\omega t) \tag{1b}$$
+$$
+\vec{E}_2 = \hat{i}\,E_0 \cos(\omega t) \tag{1b}
+$$
 
 se $\hat{i}$ è il vettore unitario lungo l'asse $x$, $\omega$ è la frequenza angolare della luce e $E_0$ è l'ampiezza. Trova l'espressione per l'intensità della luce $I(\theta)$, che verrà osservata sullo schermo dove $\theta$ è l'angolo indicato nella figura. (1). Esprimere la risposta in termini di $\theta$, $d$, $E_0$, $c$ e $\omega$, dove $c$ è la velocità della luce. Si noti inoltre che l'intensità è proporzionale alla media temporale del quadrato del campo elettrico. Qui si fa prendere la costante di proporzionalità a $\beta$. Si può ignorare l' attenuazione della magnitudine dei campi elettrici con la distanza dalle fessure a qualsiasi punto dello schermo. **[1,0 punto]**
 
@@ -394,7 +410,9 @@ $$\vec{E}_1 = \hat{i}\,E_0 \cos(\omega t)$$
 
 a uno stato di polarizzazione circolare che è dato da
 
-$$\vec{E}_1 = \frac{1}{\sqrt{2}}\left[\hat{i}\,E_0 \cos(\omega t) + \hat{j}\,E_0 \sin(\omega t)\right] \tag{2}$$
+$$
+\vec{E}_1 = \frac{1}{\sqrt{2}}\left[\hat{i}\,E_0 \cos(\omega t) + \hat{j}\,E_0 \sin(\omega t)\right] \tag{2}
+$$
 
 dove $\hat{j}$ è il vettore unitario lungo l'asse $y$.
 
@@ -429,7 +447,9 @@ Così il raggio 1 è tornato allo stato di polarizzazione originale. Supponiamo 
 
 Il tipo più generale di polarizzazione è la polarizzazione ellittica. Un modo conveniente per esprimere la polarizzazione ellittica è considerarla come una sovrapposizione di due componenti linearmente polarizzati ortogonali, ovvero:
 
-$$\vec{E} = \hat{i}\,'\,E_0 \cos e \cos(\omega t) + \hat{j}\,'\,E_0 \sin e \sin(\omega t) \tag{3}$$
+$$
+\vec{E} = \hat{i}\,'\,E_0 \cos e \cos(\omega t) + \hat{j}\,'\,E_0 \sin e \sin(\omega t) \tag{3}
+$$
 
 dove $\hat{i}\,'$ e $\hat{j}\,'$ e questo stato di polarizzazione sono riportati nella figura. 3.
 

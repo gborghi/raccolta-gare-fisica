@@ -223,7 +223,9 @@ Dimostrare l'esistenza dello stato di elettroni con l'energia $e = 0$ (all'inter
 
 Consider a $(1+1)$ dimensional flat spacetime with coordinates $(t,x)$ and metric (we will use the term metric for the metric tensor, not the actual metric):
 
-$$g_{ab} = -(\mathrm{d}t)_a(\mathrm{d}t)_b + (\mathrm{d}x)_a(\mathrm{d}x)_b. \tag{1}$$
+$$
+g_{ab} = -(\mathrm{d}t)_a(\mathrm{d}t)_b + (\mathrm{d}x)_a(\mathrm{d}x)_b. \tag{1}
+$$
 
 Here (and in what follows) we use the abstract index notation to denote the tensor types and $(\mathrm{d}t)_a$ and $(\mathrm{d}x)_a$ are coordinate basis one-forms in cotangent space (an orthonormal manifold and the product of 1-forms is understood to be a tensor product). We are also using natural unit system ($c = G = \hbar = k_B = \epsilon_0 = 1$). Next, consider an observer moving with constant proper acceleration $a^a$ in this spacetime and let $(\tau,\xi)$ be the coordinates measured by this observer. Furthermore, let $a = \sqrt{|a^a a_a|}$.
 
@@ -231,9 +233,13 @@ The purpose of this problem is to determine how this accelerated observer sees c
 
 1. Find the transition functions between the laboratory frame and the frame of the accelerated observer. Express the metric in the $(\tau,\xi)$ coordinates. Assume the following initial conditions for the accelerated observer:
 
-   $$x^a(\tau = 0) = \left(0, \frac{1}{a}\right), \tag{2}$$
+   $$
+   x^a(\tau = 0) = \left(0, \frac{1}{a}\right), \tag{2}
+   $$
 
-   $$\left.\frac{\mathrm{d}x^a}{\mathrm{d}\tau}\right|_{\tau = 0} = (1, 0). \tag{3}$$
+   $$
+   \left.\frac{\mathrm{d}x^a}{\mathrm{d}\tau}\right|_{\tau = 0} = (1, 0). \tag{3}
+   $$
 
    **(1 point)**
 
@@ -241,35 +247,51 @@ The purpose of this problem is to determine how this accelerated observer sees c
 
 3. Consider a massless, real scalar field $\phi$ described by the action:
 
-   $$S[\phi] = -\frac{1}{2}\int \mathrm{d}^2x \sqrt{-g}\,g^{ab}\nabla_a\phi(x)\nabla_b\phi(x), \tag{4}$$
+   $$
+   S[\phi] = -\frac{1}{2}\int \mathrm{d}^2x \sqrt{-g}\,g^{ab}\nabla_a\phi(x)\nabla_b\phi(x), \tag{4}
+   $$
 
    where $g$ denotes the determinant of the metric. Show that $\phi$ can be expressed in following form:
 
-   $$\phi(t,x) = \frac{1}{2\sqrt{\pi}}\int_{-\infty}^{\infty}\frac{\mathrm{d}k}{\sqrt{|k|}}\left(a_k^- e^{\mathrm{i}k x - \mathrm{i}|k|t} + a_k^+ e^{-\mathrm{i}k x + \mathrm{i}|k|t}\right), \tag{5}$$
+   $$
+   \phi(t,x) = \frac{1}{2\sqrt{\pi}}\int_{-\infty}^{\infty}\frac{\mathrm{d}k}{\sqrt{|k|}}\left(a_k^- e^{\mathrm{i}k x - \mathrm{i}|k|t} + a_k^+ e^{-\mathrm{i}k x + \mathrm{i}|k|t}\right), \tag{5}
+   $$
 
-   $$\phi(\tau,\xi) = \frac{1}{2\sqrt{\pi}}\int_{-\infty}^{\infty}\frac{\mathrm{d}k}{\sqrt{|k|}}\left(b_k^- e^{\mathrm{i}k\xi - \mathrm{i}|k|\tau} + b_k^+ e^{-\mathrm{i}k\xi + \mathrm{i}|k|\tau}\right), \tag{6}$$
+   $$
+   \phi(\tau,\xi) = \frac{1}{2\sqrt{\pi}}\int_{-\infty}^{\infty}\frac{\mathrm{d}k}{\sqrt{|k|}}\left(b_k^- e^{\mathrm{i}k\xi - \mathrm{i}|k|\tau} + b_k^+ e^{-\mathrm{i}k\xi + \mathrm{i}|k|\tau}\right), \tag{6}
+   $$
 
    where $a_k^-, a_k^+, b_k^-, b_k^+ \in \mathbb{C}$. Are $a_k^-$ and $a_k^+$ independent? If so, explain why, and if not, determine the relation between them. **(2 points)**
 
 4. Let us preform a quantization of this field by making $\phi, a_k^\pm, b_k^\pm$ operators. Assume canonical commutation relations:
 
-   $$[\phi(t,x),\phi(t,y)] = [\dot{\phi}(t,x),\dot{\phi}(t,y)] = 0, \tag{7}$$
+   $$
+   [\phi(t,x),\phi(t,y)] = [\dot{\phi}(t,x),\dot{\phi}(t,y)] = 0, \tag{7}
+   $$
 
-   $$[\phi(t,x),\dot{\phi}(t,y)] = \mathrm{i}\delta(x-y), \tag{8}$$
+   $$
+   [\phi(t,x),\dot{\phi}(t,y)] = \mathrm{i}\delta(x-y), \tag{8}
+   $$
 
    where dot denotes derivation with respect to $t$. How do commutation relations look like in $(\tau,\xi)$ coordinates? What are commutation relations for $a_k^\pm$ and $b_k^\pm$? Which of these can be identified as creation operators, and which as annihilation operators? **(1 point)**
 
 5. Express the field $\phi$ as a function of lightcone coordinates:
 
-   $$u = t - x, \ v = t + x, \tag{9}$$
+   $$
+   u = t - x, \ v = t + x, \tag{9}
+   $$
 
-   $$\bar{u} = \tau - \bar{\xi}, \ \bar{v} = \tau + \bar{\xi}. \tag{10}$$
+   $$
+   \bar{u} = \tau - \bar{\xi}, \ \bar{v} = \tau + \bar{\xi}. \tag{10}
+   $$
 
    **(1 point)**
 
 6. Show that the operator $b_\Omega^-$ can be expressed as:
 
-   $$b_\Omega^- = \int_0^\infty \mathrm{d}\omega \sqrt{\frac{\Omega}{\omega}}\left(a_\omega^- F(\omega,\Omega) + a_\omega^+ F(-\omega,\Omega)\right), \tag{11}$$
+   $$
+   b_\Omega^- = \int_0^\infty \mathrm{d}\omega \sqrt{\frac{\Omega}{\omega}}\left(a_\omega^- F(\omega,\Omega) + a_\omega^+ F(-\omega,\Omega)\right), \tag{11}
+   $$
 
    where $F$ is some complex function of two variables. Determine the function $F$. **(1 point)**
 
@@ -290,7 +312,9 @@ The purpose of this problem is to determine how this accelerated observer sees c
 
 Si consideri uno spaziotempo piatto di dimensione $(1+1)$ con coordinate $(t,x)$ e metrica (useremo il termine metrica per il tensore metrico, non per la metrica vera e propria):
 
-$$g_{ab} = -(\mathrm{d}t)_a(\mathrm{d}t)_b + (\mathrm{d}x)_a(\mathrm{d}x)_b. \tag{1}$$
+$$
+g_{ab} = -(\mathrm{d}t)_a(\mathrm{d}t)_b + (\mathrm{d}x)_a(\mathrm{d}x)_b. \tag{1}
+$$
 
 Qui (e in quel che segue) usiamo la notazione a indici astratti per denotare i tipi tensoriali e $(\mathrm{d}t)_a$ e $(\mathrm{d}x)_a$ sono uno-forme di base coordinata nello spazio cotangente (una varietà ortonormale e il prodotto di 1-forme si intende come prodotto tensoriale). Utilizziamo inoltre il sistema di unità naturali ($c = G = \hbar = k_B = \epsilon_0 = 1$). Consideriamo poi un osservatore che si muove con accelerazione propria costante $a^a$ in questo spaziotempo e siano $(\tau,\xi)$ le coordinate misurate da questo osservatore. Inoltre, sia $a = \sqrt{|a^a a_a|}$.
 
@@ -298,9 +322,13 @@ Lo scopo di questo problema è determinare come questo osservatore accelerato ve
 
 1. Trovare le funzioni di transizione tra il riferimento di laboratorio e il riferimento dell'osservatore accelerato. Esprimere la metrica nelle coordinate $(\tau,\xi)$. Assumere le seguenti condizioni iniziali per l'osservatore accelerato:
 
-   $$x^a(\tau = 0) = \left(0, \frac{1}{a}\right), \tag{2}$$
+   $$
+   x^a(\tau = 0) = \left(0, \frac{1}{a}\right), \tag{2}
+   $$
 
-   $$\left.\frac{\mathrm{d}x^a}{\mathrm{d}\tau}\right|_{\tau = 0} = (1, 0). \tag{3}$$
+   $$
+   \left.\frac{\mathrm{d}x^a}{\mathrm{d}\tau}\right|_{\tau = 0} = (1, 0). \tag{3}
+   $$
 
    **(1 point)**
 
@@ -308,35 +336,51 @@ Lo scopo di questo problema è determinare come questo osservatore accelerato ve
 
 3. Si consideri un campo scalare reale privo di massa $\phi$ descritto dall'azione:
 
-   $$S[\phi] = -\frac{1}{2}\int \mathrm{d}^2x \sqrt{-g}\,g^{ab}\nabla_a\phi(x)\nabla_b\phi(x), \tag{4}$$
+   $$
+   S[\phi] = -\frac{1}{2}\int \mathrm{d}^2x \sqrt{-g}\,g^{ab}\nabla_a\phi(x)\nabla_b\phi(x), \tag{4}
+   $$
 
    dove $g$ denota il determinante della metrica. Mostrare che $\phi$ può essere espresso nella forma seguente:
 
-   $$\phi(t,x) = \frac{1}{2\sqrt{\pi}}\int_{-\infty}^{\infty}\frac{\mathrm{d}k}{\sqrt{|k|}}\left(a_k^- e^{\mathrm{i}k x - \mathrm{i}|k|t} + a_k^+ e^{-\mathrm{i}k x + \mathrm{i}|k|t}\right), \tag{5}$$
+   $$
+   \phi(t,x) = \frac{1}{2\sqrt{\pi}}\int_{-\infty}^{\infty}\frac{\mathrm{d}k}{\sqrt{|k|}}\left(a_k^- e^{\mathrm{i}k x - \mathrm{i}|k|t} + a_k^+ e^{-\mathrm{i}k x + \mathrm{i}|k|t}\right), \tag{5}
+   $$
 
-   $$\phi(\tau,\xi) = \frac{1}{2\sqrt{\pi}}\int_{-\infty}^{\infty}\frac{\mathrm{d}k}{\sqrt{|k|}}\left(b_k^- e^{\mathrm{i}k\xi - \mathrm{i}|k|\tau} + b_k^+ e^{-\mathrm{i}k\xi + \mathrm{i}|k|\tau}\right), \tag{6}$$
+   $$
+   \phi(\tau,\xi) = \frac{1}{2\sqrt{\pi}}\int_{-\infty}^{\infty}\frac{\mathrm{d}k}{\sqrt{|k|}}\left(b_k^- e^{\mathrm{i}k\xi - \mathrm{i}|k|\tau} + b_k^+ e^{-\mathrm{i}k\xi + \mathrm{i}|k|\tau}\right), \tag{6}
+   $$
 
    dove $a_k^-, a_k^+, b_k^-, b_k^+ \in \mathbb{C}$. Sono $a_k^-$ e $a_k^+$ indipendenti? In caso affermativo, spiegare perché; in caso negativo, determinare la relazione tra loro. **(2 points)**
 
 4. Eseguiamo una quantizzazione di questo campo rendendo $\phi, a_k^\pm, b_k^\pm$ operatori. Assumere le relazioni di commutazione canoniche:
 
-   $$[\phi(t,x),\phi(t,y)] = [\dot{\phi}(t,x),\dot{\phi}(t,y)] = 0, \tag{7}$$
+   $$
+   [\phi(t,x),\phi(t,y)] = [\dot{\phi}(t,x),\dot{\phi}(t,y)] = 0, \tag{7}
+   $$
 
-   $$[\phi(t,x),\dot{\phi}(t,y)] = \mathrm{i}\delta(x-y), \tag{8}$$
+   $$
+   [\phi(t,x),\dot{\phi}(t,y)] = \mathrm{i}\delta(x-y), \tag{8}
+   $$
 
    dove il punto denota la derivazione rispetto a $t$. Come appaiono le relazioni di commutazione nelle coordinate $(\tau,\xi)$? Quali sono le relazioni di commutazione per $a_k^\pm$ e $b_k^\pm$? Quali di questi si possono identificare come operatori di creazione e quali come operatori di distruzione? **(1 point)**
 
 5. Esprimere il campo $\phi$ come funzione delle coordinate del cono luce:
 
-   $$u = t - x, \ v = t + x, \tag{9}$$
+   $$
+   u = t - x, \ v = t + x, \tag{9}
+   $$
 
-   $$\bar{u} = \tau - \bar{\xi}, \ \bar{v} = \tau + \bar{\xi}. \tag{10}$$
+   $$
+   \bar{u} = \tau - \bar{\xi}, \ \bar{v} = \tau + \bar{\xi}. \tag{10}
+   $$
 
    **(1 point)**
 
 6. Mostrare che l'operatore $b_\Omega^-$ può essere espresso come:
 
-   $$b_\Omega^- = \int_0^\infty \mathrm{d}\omega \sqrt{\frac{\Omega}{\omega}}\left(a_\omega^- F(\omega,\Omega) + a_\omega^+ F(-\omega,\Omega)\right), \tag{11}$$
+   $$
+   b_\Omega^- = \int_0^\infty \mathrm{d}\omega \sqrt{\frac{\Omega}{\omega}}\left(a_\omega^- F(\omega,\Omega) + a_\omega^+ F(-\omega,\Omega)\right), \tag{11}
+   $$
 
    dove $F$ è una certa funzione complessa di due variabili. Determinare la funzione $F$. **(1 point)**
 
@@ -767,11 +811,15 @@ In this problem, we are going to calculate the time evolution of a complex netwo
 
 Graphs can be viewed as generalized and irregular crystal lattices. Their geometrical structure is captured by the **adjacency matrix** defined as:
 
-$$A_{ij} = \begin{cases} 1 & \text{, if vertices } (i) \text{ and } (j) \text{ are connected by an edge} \\ 0 & \text{, otherwise} \end{cases} \tag{12}$$
+$$
+A_{ij} = \begin{cases} 1 & \text{, if vertices } (i) \text{ and } (j) \text{ are connected by an edge} \\ 0 & \text{, otherwise} \end{cases} \tag{12}
+$$
 
 Additionally, we assign a quantity called the **degree** $k_i$ to each vertex $(i)$:
 
-$$k_i = \sum_j A_{ij} \tag{13}$$
+$$
+k_i = \sum_j A_{ij} \tag{13}
+$$
 
 Simply put, $k_i$ is the number of edges attached to the vertex $(i)$.
 
@@ -803,13 +851,17 @@ Answer the following questions with the above described network representation o
 
 2. Using that result, write down the expected number of sick people $N_S$ at time $t + \Delta t$ using $N_S$ at the previous timestep $t$. At each timestep, use
 
-   $$\varphi_m(x) = \langle\varphi_m^{(k)}(x)\rangle_k = \sum_k p_k\,\varphi_m^{(k)}(x) \tag{14}$$
+   $$
+   \varphi_m(x) = \langle\varphi_m^{(k)}(x)\rangle_k = \sum_k p_k\,\varphi_m^{(k)}(x) \tag{14}
+   $$
 
    as the probability a random vertex will have at less or equal to $m$ healthy neighbors. **(2 points)**
 
 3. Once you have arrived at the discrete-time representation of the equation, show that by taking the limit $\Delta t \to 0$ one obtains the following dynamical equation for $x$:
 
-   $$\frac{\mathrm{d}x}{\mathrm{d}t} = r(1-x)\varphi_m(x) + p(1-x) - qx \tag{15}$$
+   $$
+   \frac{\mathrm{d}x}{\mathrm{d}t} = r(1-x)\varphi_m(x) + p(1-x) - qx \tag{15}
+   $$
 
    **(1 point)**
 
@@ -821,9 +873,13 @@ Answer the following questions with the above described network representation o
 
 5. Finally, in the case of $m = k_0 - 1$, define the critical exponents $\beta$ and $\delta$ by approximating $x_s(r,p)$ near the critical point ($r = r_c$ and $p = 0$, respectively):
 
-   $$x_s(r, p = 0)\propto|r - r_c|^\beta \tag{16}$$
+   $$
+   x_s(r, p = 0)\propto|r - r_c|^\beta \tag{16}
+   $$
 
-   $$x_s(r = r_c, p)\propto p^{1/\delta} \tag{17}$$
+   $$
+   x_s(r = r_c, p)\propto p^{1/\delta} \tag{17}
+   $$
 
    *Hint:* It is worth noticing that the value of $x_s$ is small near the critical point $r = r_c$.
 
@@ -847,11 +903,15 @@ In questo problema, calcoleremo l'evoluzione temporale di una rete complessa des
 
 I grafici possono essere considerati come reti cristalline generalizzate e irregolari. La loro struttura geometrica è catturata dalla matrice di adiacenza **** definita come:
 
-$$A_{ij} = \begin{cases} 1 & \text{, if vertices } (i) \text{ and } (j) \text{ are connected by an edge} \\ 0 & \text{, otherwise} \end{cases} \tag{12}$$
+$$
+A_{ij} = \begin{cases} 1 & \text{, if vertices } (i) \text{ and } (j) \text{ are connected by an edge} \\ 0 & \text{, otherwise} \end{cases} \tag{12}
+$$
 
 Inoltre, assegnamo una quantità chiamata **grado** $k_i$ a ciascun vertice $(i)$:
 
-$$k_i = \sum_j A_{ij} \tag{13}$$
+$$
+k_i = \sum_j A_{ij} \tag{13}
+$$
 
 In poche parole, $k_i$ è il numero di bordi attaccati alla verticale $(i)$.
 
@@ -883,13 +943,17 @@ Supponendo che le persone malate e sane siano ben mescolate nella rete, annotare
 
 2. Con tale risultato, annotare il numero previsto di malati $N_S$ al tempo $t + \Delta t$ utilizzando $N_S$ al passo temporale precedente $t$. In ogni fase, utilizzare
 
-   $$\varphi_m(x) = \langle\varphi_m^{(k)}(x)\rangle_k = \sum_k p_k\,\varphi_m^{(k)}(x) \tag{14}$$
+   $$
+   \varphi_m(x) = \langle\varphi_m^{(k)}(x)\rangle_k = \sum_k p_k\,\varphi_m^{(k)}(x) \tag{14}
+   $$
 
 come la probabilità che un vertice casuale abbia un soggetto sano di $m$ inferiore o uguale. **(2 punti) **
 
 3. Una volta raggiunto il tempo di rappresentazione discreta dell'equazione, mostrare che prendendo il limite $\Delta t \to 0$ si ottiene la seguente equazione dinamica per $x$:
 
-   $$\frac{\mathrm{d}x}{\mathrm{d}t} = r(1-x)\varphi_m(x) + p(1-x) - qx \tag{15}$$
+   $$
+   \frac{\mathrm{d}x}{\mathrm{d}t} = r(1-x)\varphi_m(x) + p(1-x) - qx \tag{15}
+   $$
 
 **(1 punto) **
 
@@ -901,9 +965,13 @@ come la probabilità che un vertice casuale abbia un soggetto sano di $m$ inferi
 
 5. Infine, nel caso di $m = k_0 - 1$, definire gli esponenti critici $\beta$ e $\delta$ approssimando $x_s(r,p)$ vicino al punto critico ($r = r_c$ e $p = 0$, rispettivamente):
 
-   $$x_s(r, p = 0)\propto|r - r_c|^\beta \tag{16}$$
+   $$
+   x_s(r, p = 0)\propto|r - r_c|^\beta \tag{16}
+   $$
 
-   $$x_s(r = r_c, p)\propto p^{1/\delta} \tag{17}$$
+   $$
+   x_s(r = r_c, p)\propto p^{1/\delta} \tag{17}
+   $$
 
 *Signore:* Vale la pena notare che il valore di $x_s$ è piccolo vicino al punto critico $r = r_c$.
 

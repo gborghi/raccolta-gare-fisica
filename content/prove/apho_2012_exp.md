@@ -208,15 +208,21 @@ A sinusoidal alternating current with angular frequency $\omega$ flowing through
 
 If we represent current by $i = I_0 \sin \omega t$, the voltage drop across the resistance is equal to $I_0 R \sin \omega t$ and across the inductance it is $I_0 \omega L \cos \omega t$. We can combine these to get the voltage across the $R$-$L$ combination. The quantity $\omega L$ is called inductive reactance and is represented by symbol $X$. One can readily show that the voltage across the coil is equal to $I_0 Z \sin(\omega t + \theta)$, where
 
-$$Z = \sqrt{R^2 + X^2} \tag{1}$$
+$$
+Z = \sqrt{R^2 + X^2} \tag{1}
+$$
 
 and
 
-$$\theta = \tan^{-1}\!\left(\frac{X}{R}\right) \tag{2}$$
+$$
+\theta = \tan^{-1}\!\left(\frac{X}{R}\right) \tag{2}
+$$
 
 Alternating voltage as well as current vary continuously in both magnitude and polarity during the course of time but the rms values of these quantities calculated over a cycle are independent of time and the relation $V = IZ$ where both $V$ and $I$ represent the rms values, is analogous to Ohm's law. From this we see that
 
-$$V^2 = (IR)^2 + (IX)^2 \tag{3}$$
+$$
+V^2 = (IR)^2 + (IX)^2 \tag{3}
+$$
 
 *(Note:- The concept of resistance is basically related to dissipation of electrical energy and the value of resistance of a coil in ac circuit can be different from its value determined by applying Ohm's law with dc currents.)*
 
@@ -226,11 +232,15 @@ When there are additional resistances and/or inductances in series with the coil
 
 For measuring alternating current and voltage, generally the rms values are noted. From Equations (2) & (3) we get
 
-$$V \cos \theta = IR \tag{4}$$
+$$
+V \cos \theta = IR \tag{4}
+$$
 
 and
 
-$$V \sin \theta = IX \tag{5}$$
+$$
+V \sin \theta = IX \tag{5}
+$$
 
 To obtain the values of $R$ and $L$ of the coil we can use the above equations. Voltage $V$ and current $I$ can be measured. But there being three unknown quantities $\theta$, $R$ and $X$ we need one more equation.
 
@@ -240,7 +250,9 @@ To obtain the values of $R$ and $L$ of the coil we can use the above equations. 
 
 If the applied voltage across the series combination consisting of a known resistor $R'$ with the coil is $V_A$, then an expression relating applied voltage $V_A$ to the voltage drops $V_{R'}$ across $R'$, $V$ across the coil and the angle $\theta$ is
 
-$$V_A^2 = V_{R'}^2 + V^2 + 2V_{R'}V \cos \theta \tag{6}$$
+$$
+V_A^2 = V_{R'}^2 + V^2 + 2V_{R'}V \cos \theta \tag{6}
+$$
 
 All quantities except $\theta$ in Equation (6) are measurable.
 
@@ -248,11 +260,15 @@ Hence measuring the three voltages $V_A$, $V_{R'}$ and $V$, and using Equations 
 
 Alternatively, from Equations (4) and (6) we can express the value of $R$ in terms of the three measured voltages as
 
-$$R = \left[\frac{R'}{2}\right]\left[\frac{V_A^2 - V^2}{V_{R'}^2} - 1\right] \tag{7}$$
+$$
+R = \left[\frac{R'}{2}\right]\left[\frac{V_A^2 - V^2}{V_{R'}^2} - 1\right] \tag{7}
+$$
 
 The impedance $Z$ of the coil can be calculated using the formula $Z = \dfrac{V}{V_{R'}}R'$ and the value of $X$ could be obtained from
 
-$$X = \sqrt{Z^2 - R^2} \tag{1A}$$
+$$
+X = \sqrt{Z^2 - R^2} \tag{1A}
+$$
 
 #### Coupled Circuits
 
@@ -262,15 +278,21 @@ When a current flows in the secondary the emf induced due to it in the primary b
 
 The effective values of resistance $R_{\mathrm{PE}}$ and inductance $L_{\mathrm{PE}}$ of primary can be related to a 'reflected' resistance $R_R$ and a 'reflected' inductance $L_R$ from the secondary side. The (average) power dissipated in the reflected resistance $R_R$ in the primary has to be equal to that in resistance $R_S$ in the secondary circuit. This gives
 
-$$I_P^2 R_R = I_S^2 (R_S + R_L) \tag{8}$$
+$$
+I_P^2 R_R = I_S^2 (R_S + R_L) \tag{8}
+$$
 
 Similarly, we can relate the reflected inductance $L_R$ to the secondary inductance $L_S$ from
 
-$$\frac{1}{2}L_R I_P^2 = \frac{1}{2}L_S I_S^2 \tag{9}$$
+$$
+\frac{1}{2}L_R I_P^2 = \frac{1}{2}L_S I_S^2 \tag{9}
+$$
 
 Considering the fact that the induced emf in the secondary due to an alternating primary current $I_P$ has magnitude equal to $\omega M I_P$ we can write the equation corresponding to Kirchhoff's loop rule for the secondary in terms of rms values of primary and secondary currents as
 
-$$\omega M I_P = I_S Z_S \tag{10}$$
+$$
+\omega M I_P = I_S Z_S \tag{10}
+$$
 
 where $Z_S$ is the impedance of the secondary circuit. When the secondary impedance is infinite the mutually induced emf appears as the voltage across the open ends of the secondary.
 
@@ -383,15 +405,21 @@ Una corrente sinusoidale in alternazione con frequenza angolare $\omega$ che sco
 
 Se rappresentiamo la corrente con $i = I_0 \sin \omega t$, la caduta di tensione attraverso la resistenza è uguale a $I_0 R \sin \omega t$ e attraverso l'inductanza è $I_0 \omega L \cos \omega t$. Possiamo combinarli per ottenere la tensione attraverso la combinazione $R$-$L$. La quantità $\omega L$ è chiamata reattanza induttiva e è rappresentata dal simbolo $X$. Si può facilmente dimostrare che la tensione attraverso la bobina è uguale a $I_0 Z \sin(\omega t + \theta)$, dove
 
-$$Z = \sqrt{R^2 + X^2} \tag{1}$$
+$$
+Z = \sqrt{R^2 + X^2} \tag{1}
+$$
 
 e
 
-$$\theta = \tan^{-1}\!\left(\frac{X}{R}\right) \tag{2}$$
+$$
+\theta = \tan^{-1}\!\left(\frac{X}{R}\right) \tag{2}
+$$
 
 La tensione alternata e la corrente variano continuamente sia nella magnitudine che nella polarità nel corso del tempo, ma i valori rms di queste quantità calcolate nel corso di un ciclo sono indipendenti dal tempo e la relazione $V = IZ$, dove entrambi $V$ e $I$ rappresentano i valori rms, è analoga alla legge di Ohm. Da questo vediamo che
 
-$$V^2 = (IR)^2 + (IX)^2 \tag{3}$$
+$$
+V^2 = (IR)^2 + (IX)^2 \tag{3}
+$$
 
 *(Nota:- Il concetto di resistenza è fondamentalmente correlato alla dissipazione di energia elettrica e il valore di resistenza di una bobina nel circuito ac può essere diverso dal suo valore determinato applicando la legge di Ohm con correnti dc.) *
 
@@ -401,11 +429,15 @@ Misura dell'induttura e della resistenza di una bobina
 
 Per la misurazione della corrente e della tensione alternate, generalmente vengono segnalati i valori rms. Dalle equazioni (2) e (3) otteniamo
 
-$$V \cos \theta = IR \tag{4}$$
+$$
+V \cos \theta = IR \tag{4}
+$$
 
 e
 
-$$V \sin \theta = IX \tag{5}$$
+$$
+V \sin \theta = IX \tag{5}
+$$
 
 Per ottenere i valori $R$ e $L$ della bobina possiamo utilizzare le equazioni di cui sopra. Si possono misurare la tensione $V$ e la corrente $I$. Ma essendo ci sono tre quantità sconosciute $\theta$, $R$ e $X$ abbiamo bisogno di un'altra equazione.
 
@@ -415,7 +447,9 @@ Per ottenere i valori $R$ e $L$ della bobina possiamo utilizzare le equazioni di
 
 Se la tensione applicata attraverso la combinazione di serie costituita da una resistenza nota $R'$ con la bobina è $V_A$, allora un'espressione relativa alla tensione applicata $V_A$ alla caduta di tensione $V_{R'}$ attraverso $R'$, $V$ attraverso la bobina e l'angolo $\theta$ è
 
-$$V_A^2 = V_{R'}^2 + V^2 + 2V_{R'}V \cos \theta \tag{6}$$
+$$
+V_A^2 = V_{R'}^2 + V^2 + 2V_{R'}V \cos \theta \tag{6}
+$$
 
 Tutte le quantità, tranne $\theta$ nell'equazione (6), sono misurabili.
 
@@ -423,11 +457,15 @@ Si possono quindi determinare le tre tensioni $V_A$, $V_{R'}$ e $V$, utilizzando
 
 In alternativa, dalle equazioni (4) e (6) possiamo esprimere il valore di $R$ in termini di tre tensioni misurate come
 
-$$R = \left[\frac{R'}{2}\right]\left[\frac{V_A^2 - V^2}{V_{R'}^2} - 1\right] \tag{7}$$
+$$
+R = \left[\frac{R'}{2}\right]\left[\frac{V_A^2 - V^2}{V_{R'}^2} - 1\right] \tag{7}
+$$
 
 L'impedenza $Z$ della bobina può essere calcolata con la formula $Z = \dfrac{V}{V_{R'}}R'$ e il valore di $X$ può essere ottenuto da
 
-$$X = \sqrt{Z^2 - R^2} \tag{1A}$$
+$$
+X = \sqrt{Z^2 - R^2} \tag{1A}
+$$
 
 Circuiti accoppiati
 
@@ -437,15 +475,21 @@ Quando una corrente scorre nel secondario l'emf indotto a causa di essa nel prim
 
 I valori effettivi di resistenza $R_{\mathrm{PE}}$ e di inductanza $L_{\mathrm{PE}}$ della resistenza primaria possono essere correlati a una resistenza $R_R$ "riflessa" e ad una inductanza $L_R$ "riflessa" dal lato secondario. La potenza (media) dissipata nella resistenza riflessa $R_R$ nel primo deve essere uguale a quella della resistenza $R_S$ nel circuito secondario. Questo dà
 
-$$I_P^2 R_R = I_S^2 (R_S + R_L) \tag{8}$$
+$$
+I_P^2 R_R = I_S^2 (R_S + R_L) \tag{8}
+$$
 
 Allo stesso modo, possiamo collegare l'induttanza riflessa $L_R$ all'induttanza secondaria $L_S$ da
 
-$$\frac{1}{2}L_R I_P^2 = \frac{1}{2}L_S I_S^2 \tag{9}$$
+$$
+\frac{1}{2}L_R I_P^2 = \frac{1}{2}L_S I_S^2 \tag{9}
+$$
 
 Considerando il fatto che l'emf indotto nel secondario a causa di una corrente primaria alternata $I_P$ ha magnitudine uguale a $\omega M I_P$ possiamo scrivere l'equazione corrispondente alla regola di loop di Kirchhoff per il secondario in termini di valori rms di correnti primarie e secondarie come
 
-$$\omega M I_P = I_S Z_S \tag{10}$$
+$$
+\omega M I_P = I_S Z_S \tag{10}
+$$
 
 dove $Z_S$ è l'impedenza del circuito secondario. Quando l'impedenza secondaria è infinita, l'emf indotto reciprocamente appare come la tensione attraverso le estremità aperte del secondario.
 

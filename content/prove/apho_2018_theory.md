@@ -521,7 +521,9 @@ The **Joule effect** is a consequence of the interaction between electrical carr
 
 The **Seebeck effect** can be observed in a thermocouple consisting of two dissimilar conducting bars A and B connecting by direct junction (Fig. 1a) or junction via an intermediate material C (Fig. 1b). The material C is good electrical conductor with very small specific heat. When the two junctions of the thermocouple are maintained at different temperatures $T_1$ and $T_2$ (Fig. 1a,b) the Seebeck electromotive force (emf) is produced
 
-$$\epsilon = \alpha(T_1 - T_2) \tag{1}$$
+$$
+\epsilon = \alpha(T_1 - T_2) \tag{1}
+$$
 
 where $\alpha$ is the Seebeck coefficient of the thermocouple. $\alpha$ is considered temperature independent. The Seebeck effect is applied in thermoelectric generator to convert heat energy into electrical one.
 
@@ -533,7 +535,9 @@ where $\alpha$ is the Seebeck coefficient of the thermocouple. $\alpha$ is consi
 
 Whenever current passes through a thermocouple circuit consisted of two dissimilar conductors A and B with direct junctions (Fig. 2a) or junctioned via intermediate conductor C (Fig. 2b), depending on the current direction, heat is either absorbed or released at the junctions of the two conductors. This is the Peltier effect. The Peltier heat power $q$ appeared at a junction is
 
-$$q = \pi I \tag{2}$$
+$$
+q = \pi I \tag{2}
+$$
 
 $\pi$ is the Peltier coefficient of this junction. The Seebeck and Peltier effects are reversible effects in contrast to the irreversible Joule effect. Although the Seebeck and Peltier effects need junctions between the thermoelements, they are essentially bulk effects. A closed electrical cycle in a thermocouple with the Peltier effect (Fig. 2b) can be used as a refrigerator when heat is removed from one isolated junction and rejected at the other.
 
@@ -570,7 +574,9 @@ An electric current $I$ (Figure 3) flows along a homogeneous conducting bar with
 
 The heat current $q(x)$ (the amount of heat transferred via perpendicular cross-section per unit time) flowing in the bar is described by the Fourier law
 
-$$q(x) = -kS\frac{dT(x)}{dx} \tag{3}$$
+$$
+q(x) = -kS\frac{dT(x)}{dx} \tag{3}
+$$
 
 here $k$ is thermal conductivity, and $S$ is the cross-sectional area of the bar.
 
@@ -695,7 +701,9 @@ L'effetto Joule **** è una conseguenza dell'interazione tra i portanti elettric
 
 The **Seebeck effect** can be observed in a thermocouple consisting of two dissimilar conducting bars A and B connecting by direct junction (Fig. 1a) o un'incombinazione attraverso un materiale intermedio C (Fig. 1b). Il materiale C è un buon conduttore elettrico con un calore specifico molto piccolo. Quando le due unioni del termoparte sono mantenute a temperature diverse $T_1$ e $T_2$ (Fig. 1a, b) si produce la forza elettromotrice Seebeck (emf)
 
-$$\epsilon = \alpha(T_1 - T_2) \tag{1}$$
+$$
+\epsilon = \alpha(T_1 - T_2) \tag{1}
+$$
 
 dove $\alpha$ è il coefficiente Seebeck del termopare. $\alpha$ è considerato indipendente dalla temperatura. L'effetto Seebeck viene applicato nel generatore termoelettrico per convertire l'energia termica in energia elettrica.
 
@@ -707,7 +715,9 @@ dove $\alpha$ è il coefficiente Seebeck del termopare. $\alpha$ è considerato 
 
 Ogni volta che il corrente passa attraverso un circuito termopare consisteva in due conduttori diversi A e B con giunzioni dirette (Fig. 2a) o collegati attraverso un conduttore intermedio C (Fig. 2b), a seconda della direzione corrente, il calore viene assorbito o rilasciato nelle unioni dei due conduttori. Questo è l'effetto Peltier. La potenza termico di Peltier $q$ apparsa in una giunzione è
 
-$$q = \pi I \tag{2}$$
+$$
+q = \pi I \tag{2}
+$$
 
 $\pi$ è il coefficiente di Peltier di questa giunzione. Gli effetti Seebeck e Peltier sono effetti reversibili, in contrasto con l'effetto Joule irreversibile. Sebbene gli effetti Seebeck e Peltier richiedano un collegamento tra gli elementi termoelementi, sono essenzialmente effetti a granellamento. Un ciclo elettrico chiuso in un termopare con effetto Peltier (Fig. 2b) può essere utilizzato come frigorifero quando il calore viene rimosso da una giunzione isolata e respinto dall'altra.
 
@@ -744,7 +754,9 @@ Un corrente elettrica $I$ (Figura 3) scorre lungo una barra di conduttore omogen
 
 La corrente termico $q(x)$ (la quantità di calore trasferita per sezione perpendicolare per unità di tempo) che scorre nella barra è descritta dalla legge di Fourier
 
-$$q(x) = -kS\frac{dT(x)}{dx} \tag{3}$$
+$$
+q(x) = -kS\frac{dT(x)}{dx} \tag{3}
+$$
 
 Qui $k$ è la conducibilità termica e $S$ è l'area trasversale della barra.
 

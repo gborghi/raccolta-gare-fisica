@@ -16,6 +16,7 @@ import {
   plainSynonymIds,
   resolveField,
   foldText,
+  highlightTerms,
 } from "./searchBoolean"
 
 // Tiny fake engine with the same semantics as the plain FlexSearch query used by the
@@ -343,5 +344,35 @@ describe("v2 row matcher (in-page lists)", () => {
   })
   test("malformed -> plain on stripped query", () => {
     assert.strictEqual(makeRowMatcher("(cerchio")!("area di un cerchio"), true)
+  })
+})
+
+describe("v3: multi-word operands, stopwords, highlight", () => {
+  test("highlight drops stopwords and 1-letter tokens", () => {
+    const plan = planQuery("(energia OR quantità di moto) AND urto") as any
+    assert.strictEqual(plan.highlight, "energia quantità moto urto")
+    assert.deepStrictEqual(highlightTerms(parseBooleanQuery("the spring AND a") as any), ["spring"])
+    assert.strictEqual((planQuery('"di" OR il') as any).highlight, "di il") // only stopwords: kept
+  })
+  test("multi-word operand: literal word order first, 'di' never searched alone", async () => {
+    const D = ["moto di quantità studiare", "quantità di moto conservata", "dimostri la quantità del moto"]
+    const asked: string[] = []
+    const c: EvalContext = {
+      async searchTerms(text) {
+        asked.push(text)
+        const ws = text.toLowerCase().split(/\s+/)
+        return D.map((d, id) => ({ id, toks: d.split(" ") }))
+          .filter(({ toks }) => ws.every((w) => toks.some((t) => t.startsWith(w))))
+          .map(({ id }) => id)
+      },
+      textOf: (id) => D[id]!,
+      allIds: () => D.map((_, i) => i),
+    }
+    const plan = planQuery("quantità di moto AND NOT xyz") as any
+    const ids = await evaluateBoolean(plan.ast, c)
+    assert.strictEqual(ids[0], 1)
+    assert.deepStrictEqual([...ids].sort(), [0, 1, 2])
+    assert.ok(asked.includes("quantità moto"))
+    assert.ok(!asked.some((a) => a.split(" ").includes("di")))
   })
 })

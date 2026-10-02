@@ -258,6 +258,42 @@ export function positiveTerms(node: BoolNode, negated = false): string[] {
   }
 }
 
+/**
+ * Short function words (IT/EN/FR/ES/PT/DE). Inside a multi-word operand they are not
+ * searched on their own (the engine matches prefixes: "di" would hit "dimostri") and
+ * they are never highlighted.
+ */
+const STOPWORDS = new Set(
+  (
+    "a ad al allo ai agli all alla alle col coi con da dal dallo dai dagli dall dalla dalle de " +
+    "dei degli del dell della delle dello di e ed gli i il in l la le lo nei negli nel nell " +
+    "nella nelle nello o per su sul sullo sui sugli sull sulla sulle tra fra un una uno " +
+    "che non si se " +
+    "an and as at by for from in into is of on or the to with " +
+    "au aux des du en et les un une " +
+    "el los las y del " +
+    "da do dos das em no na nos nas os um uma " +
+    "der die das und den dem ein eine"
+  ).split(" "),
+)
+
+export function isStopword(w: string): boolean {
+  return STOPWORDS.has(foldText(w))
+}
+
+/** Words of a bare-word group that are searched (stopwords dropped unless only stopwords). */
+export function contentWords(text: string): string[] {
+  const words = text.split(/\s+/).filter(Boolean)
+  const kept = words.filter((w) => !isStopword(w) && w.length > 1)
+  return kept.length > 0 ? kept : words
+}
+
+/** Terms to highlight for a boolean query: positive words, no stopwords / 1-letter tokens. */
+export function highlightTerms(node: BoolNode): string[] {
+  const words = positiveTerms(node).filter((w) => w.length > 1 && !isStopword(w))
+  return [...new Set(words)]
+}
+
 /** Decide how a (tag-stripped) query must be searched. Never throws. */
 export function planQuery(query: string): QueryPlan {
   try {
@@ -267,8 +303,9 @@ export function planQuery(query: string): QueryPlan {
       const stripped = stripBooleanSyntax(query)
       return { mode: "fallback", query: stripped || query, reason: "malformed" }
     }
-    const words = [...new Set(positiveTerms(ast))]
-    return { mode: "boolean", query, ast, highlight: words.join(" ") }
+    const words = highlightTerms(ast)
+    const fallback = [...new Set(positiveTerms(ast))]
+    return { mode: "boolean", query, ast, highlight: (words.length ? words : fallback).join(" ") }
   } catch {
     return { mode: "plain", query }
   }
@@ -594,7 +631,11 @@ export interface EvalContext {
 
 type Scored = Map<number, number> // id -> rank score (lower = better)
 
-/** Rank offsets: original-term hits < synonym-only hits < metadata-only hits. */
+/**
+ * Rank offsets: literal-phrase hits of a multi-word operand < its other all-words hits <
+ * synonym-only hits < metadata-only hits.
+ */
+const OFF_LOOSE = 5e5
 const OFF_SYN = 1e6
 const OFF_META = 2e6
 
@@ -610,7 +651,21 @@ async function evalNode(node: BoolNode, ctx: EvalContext): Promise<Scored> {
   switch (node.type) {
     case "terms": {
       const m: Scored = new Map()
-      addRanked(m, await ctx.searchTerms(node.text), 0)
+      const words = node.text.split(/\s+/).filter(Boolean)
+      if (words.length < 2) {
+        addRanked(m, await ctx.searchTerms(node.text), 0)
+      } else {
+        // multi-word operand ("quantità di moto"): the words in this order rank first
+        // (like a phrase); then the other documents with all the content words
+        // (stopwords are not searched alone: "di" would prefix-match "dimostri")
+        const ids = await ctx.searchTerms(contentWords(node.text).join(" "))
+        const needle = normalizeText(node.text)
+        const literal: number[] = []
+        const loose: number[] = []
+        for (const id of ids) (normalizeText(ctx.textOf(id)).includes(needle) ? literal : loose).push(id)
+        addRanked(m, literal, 0)
+        addRanked(m, loose, OFF_LOOSE)
+      }
       const alts = ctx.expand ? ctx.expand(node.text) : []
       // synonyms: whole-word only (the engine matches prefixes -> post-filter), ranked
       // after every hit of the typed term
@@ -795,7 +850,7 @@ export function makeRowMatcher(query: string): RowMatcher | null {
       return metaHay
     }
     const allWords = (hay: string, s: string) => {
-      const ws = foldText(s).split(" ").filter(Boolean)
+      const ws = contentWords(foldText(s))
       return ws.length > 0 && ws.every((w) => hay.includes(w))
     }
     let hayP: string | null = null
@@ -833,7 +888,7 @@ export function makeRowMatcher(query: string): RowMatcher | null {
   }
 }
 
-const HELP_CSS = `
+const HELP_CSS = `/*rgf-boolean-v3*/
 .search > .search-container > .search-space:has(> details.rgf-search-help) > input.search-bar{margin-bottom:.4rem}
 .search-space > details.rgf-search-help{width:100%;box-sizing:border-box;margin:0 0 1.2rem;padding:.3rem .8rem;border:1px solid var(--lightgray);border-radius:7px;background:var(--light);box-shadow:none;font-size:.82rem;line-height:1.45;color:var(--darkgray)}
 .search-space > details.rgf-search-help > summary{cursor:pointer;list-style:none;display:flex;align-items:center;gap:.4rem;min-height:28px;color:var(--gray);user-select:none}

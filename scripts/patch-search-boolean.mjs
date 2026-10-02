@@ -35,8 +35,8 @@ const FORK = path.join(REPO, ".quartz/plugins/search")
 const TARGET = path.join(FORK, "src/components/scripts/search.inline.ts")
 const MODULE_SRC = path.join(REPO, "quartz/components/scripts/searchBoolean.ts")
 const MODULE_DST = path.join(FORK, "src/components/scripts/rgfBoolean.ts")
-const SENTINEL = "/* rgf-boolean-patch v2 */"
-const OLD_SENTINEL = "/* rgf-boolean-patch */"
+const SENTINEL = "/* rgf-boolean-patch v3 */"
+const OLD_SENTINELS = ["/* rgf-boolean-patch */", "/* rgf-boolean-patch v2 */"]
 
 const EDITS = [
   {
@@ -110,6 +110,21 @@ ${SENTINEL}`,
     anchor: `parsed.query || (parsed.tags.length > 0 ? parsed.tags.join(" ") : currentSearchTerm)`,
     replacement: `rgfDisplayTerm(parsed.query) || (parsed.tags.length > 0 ? parsed.tags.join(" ") : currentSearchTerm)`,
     all: true,
+  },
+  {
+    name: "preview highlight: whole-word / prefix matches only",
+    anchor: "const regex = new RegExp(combined, \"gi\");",
+    replacement: "const regex = new RegExp(\"(?<![\\\\p{L}\\\\p{N}])(?:\" + combined + \")\", \"giu\");",
+  },
+  {
+    name: "snippet highlight: whole-word / prefix matches only (test)",
+    anchor: "if (tok.toLowerCase().includes(searchTok.toLowerCase())) {",
+    replacement: "if (new RegExp(\"(?<![\\\\p{L}\\\\p{N}])\" + searchTok.replace(/[.*+?^${}()|[\\]\\\\]/g, \"\\\\$&\"), \"iu\").test(tok)) {",
+  },
+  {
+    name: "snippet highlight: whole-word / prefix matches only (replace)",
+    anchor: "const regex = new RegExp(searchTok.replace(/[.*+?^${}()|[\\]\\\\]/g, \"\\\\$&\"), \"gi\");",
+    replacement: "const regex = new RegExp(\"(?<![\\\\p{L}\\\\p{N}])\" + searchTok.replace(/[.*+?^${}()|[\\]\\\\]/g, \"\\\\$&\"), \"giu\");",
   },
   {
     name: "evaluator context (module scope)",
@@ -189,7 +204,7 @@ function fail(msg) {
 
 function distHasPatch() {
   const dist = path.join(FORK, "dist/index.js")
-  return fs.existsSync(dist) && fs.readFileSync(dist, "utf8").includes("campo:valore")
+  return fs.existsSync(dist) && fs.readFileSync(dist, "utf8").includes("rgf-boolean-v3")
 }
 
 function rebuildIfNeeded() {
@@ -214,8 +229,8 @@ function main() {
   const hadCRLF = raw.includes("\r\n")
   let src = hadCRLF ? raw.replace(/\r\n/g, "\n") : raw
 
-  if (!src.includes(SENTINEL) && src.includes(OLD_SENTINEL))
-    fail("search fork carries the v1 patch: run \"npx quartz plugin restore\" (fresh fork) and re-run")
+  if (!src.includes(SENTINEL) && OLD_SENTINELS.some((o) => src.includes(o)))
+    fail("search fork carries an older patch: run \"npx quartz plugin restore\" (fresh fork) and re-run")
   if (src.includes(SENTINEL)) {
     console.log("[patch-search-boolean] already patched")
     // re-runs are no-ops; recompile only if dist/ somehow lacks the patch
@@ -230,7 +245,7 @@ function main() {
     }
   }
   for (const e of EDITS) {
-    src = e.all ? src.split(e.anchor).join(e.replacement) : src.replace(e.anchor, e.replacement)
+    src = e.all ? src.split(e.anchor).join(e.replacement) : src.replace(e.anchor, () => e.replacement) // fn: no "$&" expansion
   }
   fs.writeFileSync(TARGET, hadCRLF ? src.replace(/\n/g, "\r\n") : src)
   console.log(

@@ -86,3 +86,38 @@ git worktree remove --force "$GHP" ; git worktree prune
 4. Navbar, logo and `body[data-basepath]` are relative to the page (`Navbar.tsx`, `renderPage.tsx`,
    `spa.inline.ts`), so the same bytes work under `/` and `/raccolta-gare-fisica/`.
 5. Verify with `check.py` (gare-mirror).
+
+## Lingue dei quesiti
+
+Convenzione (già in uso; modello: `content/prove/cuadernillo_2019.md`, atomo `q02` nella raccolta di fisica).
+Obiettivo: ogni quesito in **lingua originale + italiano + inglese**, tutto **nello stesso file**, dentro lo stesso
+atomo (niente file separati per lingua, niente campi nel frontmatter):
+
+```markdown
+<span class="atom-split" id="q02" data-atom="q02" ...></span>
+<div class="qlang-switch" data-default="es"></div>      <!-- data-default = codice della lingua ORIGINALE -->
+
+**Titolo originale**
+Testo originale ...
+
+**Topic:** [[...]]
+**Metodi:** ... / **Competenze:** ... / **Objects:** ...
+**Fonte:** [Testo (PDF) — p.116](https://drive.google.com/file/d/.../view)
+
+<div class="qlang-split" data-lang="it"></div>          <!-- div vuoto, poi la versione italiana -->
+
+**Titolo in italiano**
+Testo in italiano ...
+
+<div class="qlang-split" data-lang="en"></div>          <!-- div vuoto, poi la versione inglese -->
+
+**Title in English**
+Text in English ...
+```
+
+- Se l'originale è già italiano o inglese, quel blocco `qlang-split` si omette (l'originale fa da versione in quella lingua).
+- Figure, Topic/Fonte e link restano nel blocco originale; nelle traduzioni si ripetono solo le figure citate nel testo.
+- Le traduzioni arrivano come PR di contenuto (branch `kepler/traduzioni-gare-N`) e passano dalla stessa build unica:
+  tutti i blocchi `qlang` stanno nella stessa pagina, quindi la ricerca full-text di Quartz (inclusa quella booleana)
+  e l'indice per quesito li indicizzano tutti; lo switch lingua è solo lato client e non cambia i file pubblicati,
+  quindi GitHub Pages e il mirror Cloudflare restano identici byte per byte.

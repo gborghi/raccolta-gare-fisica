@@ -23,4 +23,5 @@ function walk(dir) {
 }
 walk(PUB)
 fs.rmSync(path.join(PUB, "_attachments"), { recursive: true, force: true })
+fs.rmSync(path.join(PUB, "prove", "_attachments"), { recursive: true, force: true }) // synced to olifis-assets too
 console.log(`[rewrite-asset-urls] rewrote _attachments -> ${BASE}, stripped ${PUB}/_attachments`)

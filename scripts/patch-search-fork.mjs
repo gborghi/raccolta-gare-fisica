@@ -27,6 +27,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { execFileSync } from "node:child_process";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const TARGET = path.join(
@@ -135,6 +136,19 @@ const FORMAT_REPLACEMENT = `function formatForDisplay(term: string, id: number):
 const HREF_ANCHOR = `itemTile.href = resolveBasePath(item.slug);`;
 const HREF_REPLACEMENT = `itemTile.href = resolveBasePath(item.slug) + (item.frag ? "#" + item.frag : "");`;
 
+// Boolean-query patch (AND/OR/NOT, -word, "phrase", parentheses + help hint) lives in
+// its own idempotent script; chain it here so every existing pipeline (CI + DEPLOY.md)
+// that runs this script also applies it.
+function applyBooleanPatch() {
+  try {
+    execFileSync(process.execPath, [path.join(__dirname, "patch-search-boolean.mjs")], {
+      stdio: "inherit",
+    });
+  } catch {
+    fail("patch-search-boolean.mjs failed (see above)");
+  }
+}
+
 function fail(msg) {
   console.error(`[patch-search-fork] ${msg}`);
   process.exit(1);
@@ -156,6 +170,7 @@ function main() {
 
   if (src.includes(SENTINEL)) {
     console.log("[patch-search-fork] already patched");
+    applyBooleanPatch();
     process.exit(0);
     return;
   }
@@ -186,6 +201,7 @@ function main() {
   console.log(
     "[patch-search-fork] applied: tiered mobile/desktop fetch + atom-fragment result links",
   );
+  applyBooleanPatch();
 }
 
 main();

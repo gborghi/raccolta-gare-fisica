@@ -42,6 +42,9 @@ fi
 RGF_ASSET_BASE="https://gborghi.github.io/olifis-assets" node scripts/rewrite-asset-urls.mjs
 CF_MIRROR=0 node scripts/emit-cf-files.mjs   # _headers + robots.txt
 HOST=github node scripts/host-urls.mjs       # sitemap/robots/RSS -> GitHub base URL (mirror flips them back)
+# Quartz emits public/CNAME from baseUrl (pages.dev): never publish it, or GitHub Pages
+# redirects gborghi.github.io/raccolta-gare-fisica/ to pages.dev (published URLs never change).
+rm -f public/CNAME
 test "$(find public -type f | wc -l)" -lt 20000
 test -z "$(find public -type f -size +25M)"
 
@@ -49,7 +52,7 @@ if [ "${PUBLISH:-0}" = 1 ]; then
   G="$(mktemp -d)/gh-pages"
   git fetch origin gh-pages
   git worktree add "$G" origin/gh-pages --detach
-  git -C "$G" rm -rq --cached . ; find "$G" -mindepth 1 -maxdepth 1 ! -name .git ! -name CNAME -exec rm -rf {} +
+  git -C "$G" rm -rq --cached . ; find "$G" -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
   cp -a public/. "$G"/
   git -C "$G" add -A
   git -C "$G" commit -qm "Deploy $(git rev-parse --short HEAD) (single build: GitHub Pages + Cloudflare mirror)"

@@ -27,6 +27,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { execFileSync } from "node:child_process";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const TARGET = path.join(
@@ -135,6 +136,19 @@ const FORMAT_REPLACEMENT = `function formatForDisplay(term: string, id: number):
 const HREF_ANCHOR = `itemTile.href = resolveBasePath(item.slug);`;
 const HREF_REPLACEMENT = `itemTile.href = resolveBasePath(item.slug) + (item.frag ? "#" + item.frag : "");`;
 
+// Boolean-query patch (AND/OR/NOT, -word, "phrase", parentheses + help hint) lives in
+// its own idempotent script; chain it here so every existing pipeline (CI + DEPLOY.md)
+// that runs this script also applies it -- no workflow change needed.
+function applyBooleanPatch() {
+  try {
+    execFileSync(process.execPath, [path.join(__dirname, "patch-search-boolean.mjs")], {
+      stdio: "inherit",
+    });
+  } catch {
+    fail("patch-search-boolean.mjs failed (see above)");
+  }
+}
+
 function fail(msg) {
   console.error(`[patch-search-fork] ${msg}`);
   process.exit(1);
@@ -147,6 +161,11 @@ function main() {
     );
     return;
   }
+
+  // Boolean patch FIRST: in repos without scripts/rebuild-forks.mjs it recompiles
+  // dist/ itself, so it must run before this script's own src edits to keep their
+  // (pre-existing) build behaviour unchanged there. Anchors are independent.
+  applyBooleanPatch();
 
   const raw = fs.readFileSync(TARGET, "utf8");
   // The restored fork ships with CRLF line endings; normalize to LF for anchor

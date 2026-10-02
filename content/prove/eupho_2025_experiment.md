@@ -15,6 +15,14 @@ tags:
 
 
 
+**E1 – Deep Learning (10 pts)**
+
+Modern ANNs (artificial neural networks) are made of billions of neurons. Each neuron transforms its input(s) $x_1, x_2, \dots, x_n$ to an output $y$. First,
+$$z = w_1 x_1 + w_2 x_2 + \dots + w_n x_n + b$$
+is calculated, with real numbered weights $w_i$ and real numbered bias $b$. Then an activation function is applied to $z$ to produce the final output $y(x_1, x_2, \dots)$. In the present problem you will investigate a physical model of a neuron with the electric voltages $x_1$ and $x_2$ as inputs, with the activation function being $A\sigma(z)$, where $\sigma(z) = 1/(1+\exp(-z))$ is called sigmoid function.
+
+The box contains a voltage source, an electronic circuit that models the neuron ($z(x) = w_1x_1 + w_2x_2 + b$, output $A\sigma(z)$ through a series output resistor $R_{\mathrm{out}}$ at terminal Y), and two potentiometers (A and B, terminals A1–A3 and B1–B3). GND is the common negative terminal for $+V$, $x_1$, $x_2$ and $y$; X1 and X2 are the positive terminals of the input voltages $x_1$ and $x_2$ (the output behaves unpredictably if either of these terminals has no input voltage); Y behaves like a real voltage source (ideal source $y$ in series with $R_{\mathrm{out}}$). Terminal T is not to be used.
+
 Task 1 (0.5 pts)
 Terminals A1, A2, and A3 are connected to the Apotentiometer RP and an additional load resistor RL.
 Which of the schemes below corresponds to the circuit in the box? Determine the resistances RL and
@@ -65,10 +73,20 @@ tolerances.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information shall be provided:
+
+
+**E1 – Deep Learning (10 pts)**
+
+Modern ANNs (artificial neural networks) are made of billions of neurons. Each neuron transforms its input(s) $x_1, x_2, \dots, x_n$ to an output $y$. First,
+$$z = w_1 x_1 + w_2 x_2 + \dots + w_n x_n + b$$
+is calculated, with real numbered weights $w_i$ and real numbered bias $b$. Then an activation function is applied to $z$ to produce the final output $y(x_1, x_2, \dots)$. In the present problem you will investigate a physical model of a neuron with the electric voltages $x_1$ and $x_2$ as inputs, with the activation function being $A\sigma(z)$, where $\sigma(z) = 1/(1+\exp(-z))$ is called sigmoid function.
+
+The box contains a voltage source, an electronic circuit that models the neuron ($z(x) = w_1x_1 + w_2x_2 + b$, output $A\sigma(z)$ through a series output resistor $R_{\mathrm{out}}$ at terminal Y), and two potentiometers (A and B, terminals A1–A3 and B1–B3). GND is the common negative terminal for $+V$, $x_1$, $x_2$ and $y$; X1 and X2 are the positive terminals of the input voltages $x_1$ and $x_2$ (the output behaves unpredictably if either of these terminals has no input voltage); Y behaves like a real voltage source (ideal source $y$ in series with $R_{\mathrm{out}}$). Terminal T is not to be used.
+
+Task 1 (0.5 pts)
 Terminals A1, A2, and A3 are connected to the Apotentiometer RP and an additional load resistor RL.
-Which of the schemes below corresponds to the circuit in the box? Determine the RL and
-RP; document the measurements made.
+Which of the schemes below corresponds to the circuit in the box? Determine the resistances RL and
+RP ; document the measurements made.
 A1
 A2
 RP RL
@@ -85,10 +103,10 @@ A2
 RL RP
 3
 A3
-Notes
+Note
 The B-potentiometer is connected to terminals B1, B2, B3 in exactly the same way with the
-same resistance RL and RP , within manufacturing
-The Commission has already adopted a proposal.
+same resistances RL and RP , within manufacturing
+tolerances.
 
 <!--fig:start-->
 **p.2 **  Sinusoid scheme with width and period
@@ -135,9 +153,11 @@ widest possible range.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission:
+
+
+Task 2 - (0.5 pts)
 Sketch how the terminals have to be connected so
-That the neuron input voltages can be varied with the
+that the neuron input voltages can be varied with the
 widest possible range.
 
 **Topic:** [[Circuits]]
@@ -172,11 +192,13 @@ and document your measurements.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
+
+
+Task 3 - (1.5 pts)
 Devise (and document) a strategy allowing you to
-Find the combination of input voltages x1 and x2 that
+find the combination of input voltages x1 and x2 that
 maximizes the output voltage y with the least possible number of measurements, irrespectively of with
-Which set of input voltages you start the search. Determine this maximum voltage ymax that will be henceforth used as an approximation for the amplitude A,
+which set of input voltages you start the search. Determine this maximal voltage ymax that will be henceforth used as an approximation for the amplitude A,
 and document your measurements.
 
 **Topic:** [[Circuits]]
@@ -216,17 +238,19 @@ you define are clearly marked in your circuits.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1299/2001.
+
+
+Task 4 - (3.5 pts)
 Determine the weights w1, w2 and the bias b. Describe
-your measurements and document your data in a table. Estimate w1, w2, and b using a graphical approach.
+your measurements and document your data in a table. Estimate w1, w2, and b by using a graphical approach.
 Training involves optimizing the network weights to
-achieve the desired functionality. This allows ANNs to
-The following shall be added to the list of the following:
+achieve desired functionality. This allows ANNs to
+approximate arbitrary functions.
 For each of the
-following tasks you have to approximate to different
+following tasks you have to approximate a different
 function of a single input voltage using the given
 equipment. Make sure that the input and output that
-You define are clearly marked in your circuits.
+you define are clearly marked in your circuits.
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -251,9 +275,7 @@ to
 approximate
 the
 function
-y5(x)
-=
-$A\sigma$ (w2x/2 + b5), where x is the voltage applied to your
+$y_5(x) = A\,\sigma(w_2 x/2 + b_5)$, where x is the voltage applied to your
 newly defined input terminal. Determine b5 theoretically. Implement the circuit, take measurements and
 verify that your setup works as expected. Validate
 the value of b5 from your data.
@@ -268,20 +290,20 @@ the value of b5 from your data.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+
+
+Task 5 - (1.5 pts)
 Connect the terminal X1 directly to +V. Design
 a
-Circuits
+circuit
 to
-Approximate
-The
+approximate
+the
 function
-y5(x)
-=
-$A\sigma$ (w2x/2 + b5), where x is the voltage applied to your
+$y_5(x) = A\,\sigma(w_2 x/2 + b_5)$, where x is the voltage applied to your
 newly defined input terminal. Determine b5 theoretically. Implement the circuit, take measurements and
-verify that your setup works as expected. Valid
-the value of b5 from your date.
+verify that your setup works as expected. Validate
+the value of b5 from your data.
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -302,7 +324,7 @@ Task 6 - (2.5 pts)
 a Determine the internal series output resistance
 Rout of the Y terminal. (0.5 pts)
 b Design and implement a circuit to approximate
-the function y6(x) = A6 $\cdot \sigma(w2x$ + b) + B6, where
+the function $y_6(x) = A_6\,\sigma(w_2 x + b) + B_6$, where
 B6 = 1.48 V.
 Determine A6 theoretically.
 Implement the circuit and verify experimentally that
@@ -405,26 +427,28 @@ tabular form;
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+
+
+Task 6 - (2.5 pts)
 a Determine the internal series output resistance
-Rout of the Y terminal. The following information is provided:
+Rout of the Y terminal. (0.5 pts)
 b Design and implement a circuit to approximate
-the function y6(x) = A6 $\cdot \sigma(w2x$ + b) + B6, where
+the function $y_6(x) = A_6\,\sigma(w_2 x + b) + B_6$, where
 B6 = 1.48 V.
 Determine A6 theoretically.
 Implement the circuit and verify experimentally that
-Your setup works as expected. Confirm the values of A6 and B6 from your date. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+your setup works as expected. Confirm the values of A6 and B6 from your data. (2.0 pts)
 Experimental Problems Language: English
-The following is the list of the categories of products used in the manufacture of the product:
+E2 – Hidden pattern (10 pts)
 You are given a flat semi-transparent foil with a
-Micro-pattern printed on its surface that is invisible
+micro-pattern printed on its surface that is invisible
 to the naked eye.
 The pattern consists of a large
 number of identical sinusoids with amplitude A, running horizontally with spatial period $\Lambda$, and vertically shifted by distance d relative to each other, as
-The data shall be shown in Fig. 1. Under a microscope,
-One can see that the printed pattern is composed of
-Strictly horizontal line segments, each vertically displaced from its neighbors by a constant pitch s, as
-shown in Figure 1. 2.
+schematically shown in Fig. 1. Under a microscope,
+one can see that the printed pattern is composed of
+strictly horizontal line segments, each vertically displaced from its neighbours by a constant pitch s, as
+shown in Fig. 2.
 2A
 d
 $\Lambda$
@@ -433,28 +457,28 @@ d
 s
 Figure 2: Pattern as seen under microscope
 Equipment (see also Fig. 3)
-Semi-transparent
-Other, not further worked than hot-rolled
+A Semi-transparent
+foil
 with
 a
-Micro-patterns
+micro-pattern
 printed on its surface.
 B Laser diode with wavelength $\lambda$ = (654 $\pm$ 5) nm. The
-Laser diode can be focused to the desired distance
+laser diode can be focused to the desired distance
 by rotating the end cap with a lens inside.
 Warning:
-Don 't completely unscrew the end .
-- What? Inside, there's an oriented lens and a spring.
+Do not completely unscrew the end
+cap! Inside, there is an oriented lens and a spring.
 No replacement laser will be given if damaged or
 disassembled.
 C Two 90-degree L-shaped steel planks serving as
 stands for the foil and the laser diode. The foil can
-be fixed to one of the boards using the provided
-The small clips.
+be fixed to one of the planks using the provided
+small clips.
 The laser diode can be mounted to
 the other plank with a larger colored clip or with
 the provided rubber band.
-D A sheet of paper with a printed goniometer  a polar coordinate frame with 1-mm radial steps and
+D A sheet of paper with a printed goniometer – a polar coordinate frame with 1-mm radial steps and
 A
 C
 C
@@ -470,36 +494,36 @@ B
 H
 H
 Figure 3: Components A, B, C, H, and J arranged for
-The experiment.
+the experiment.
 angular divisions in degrees.
-And A screen: the large surface of the box containing
-The experimental materials. Empty the box and
-Place it on the desk with its large vertical surface.
+E A screen: the large surface of the box containing
+the experimental materials. Empty the box and
+place it on the desk with its large surface vertical.
 F Ruler.
 G Measuring tape.
 H Adhesive tape attached to the ruler. Use pieces
 of the tape to fix the printed goniometer to the
 screen or to secure components to the table. You
-I can ask for more tapes if needed.
-The millimeter graph paper.
+can ask for more tape if needed.
+I Millimeter graph paper.
 J An 80 mm paper measuring scale with diagonal
 reference lines that allow you to measure fractions of the main scale divisions, accurate to
 $\pm0.1$ mm.
-In all your measurements you are free to
+Hint: In all of your measurements you are free to
 draw or put marks on the screen.
 Important: Assume that the surface of the experimental desk is flat, and the screen is strictly perpendicular to the desk.
-The following information is provided:
+Tasks (10.0 pts)
 Determine as precisely as possible:
-The synusoid period $\Lambda$. The following is the list of the countries of the European Union:
+a The sinusoid period $\Lambda$. (2 pts)
 b The vertical offset d of the neighbouring sinusoids
-The following is the list of the countries of the European Union:
+(2 pts)
 c The sinusoid amplitude A (3 pts)
-The step height s (3 pts)
+d The step height s (3 pts)
 In all of the tasks you are expected to:
 1. sketch a setup and/or rationalize a method for
 measuring the corresponding quantities;
 2. report your measurements and calculations in a
-Table form;
+tabular form;
 3. estimate the desired quantities and their uncertainties graphically, whenever reasonable.
 
 **Topic:** [[Circuits]], [[Wave Optics]], [[Oscillations & Waves]]

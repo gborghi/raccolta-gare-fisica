@@ -90,63 +90,65 @@ b) Studia la dipendenza del periodo del pendolo dalla sua ampiezza quando è reg
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculations:
+**E1 - Magnetic Pendulum (10 pts)**
 
-The frequency of oscillation of a pendulum may be altered by magnetic forces between the pendulum and its support. In this experiment, you'll study the motion of the pendulum in a potential given the sum of gravitational and magnetic field terms, using the setting shown in Fig. 3.
+The oscillation frequency of a pendulum can be modified by magnetic forces between the pendulum and its support. In this experiment you will study pendulum motion in a combined potential from gravitational and magnetic interaction terms, using the setup shown in Fig. 3.
 
 **Equipment** (see also Fig. 3)
-- A: Pendulum body with pointed supports and mirror for measuring the angle
-- B: Pendulum support with rigid plastic plates to support the pendulum and a laser profile for measuring the angle
-- C: Guides for supporting external magnets
-- D: 2 small magnetic dipoles to be attached to the body of the pendulum
-- E: 2 other identical external magnetic dipoles (black)
-- F: 2 unknown external magnets F1, F2 (blue, F2 is marked with a white dot at one end)
-- G: Screen to display the laser spot for angle measurement
-- H: Timer
-- I: adhesive tape
-- J: Pencil and pencil
+- A: Pendulum body with point-like supports and mirror for angle measurement
+- B: Pendulum tower with hard points to support the pendulum, and laser module for angle measurement
+- C: Rails to support external magnets
+- D: 2 small dipole magnets to be attached to pendulum body (may be green, red, white or yellow)
+- E: 2 identical external dipole magnets (black)
+- F: 2 unknown external magnets F1, F2 (blue, F2 is marked with white dots at its ends)
+- G: Screen for laser spot for angle measurement
+- H: Stopwatch
+- I: Masking tape, e.g. to fasten pendulum tower to table
+- J: Pencil and ruler
 
-The following table shows the number of samples taken:
+*The magnets are quite strong. Be careful not to hurt yourself or damage the magnets. Do not look directly into the laser beam, and turn the laser off when not needed. When experimenting with the pendulum, make sure the supporting screws are resting in the grooves on the pendulum tower. Feel free to mark the pendulum with your pencil if needed.*
 
-The total mass of the pendulum body with attached small magnetic dipoles is $M_{\text{pen}} + M_{\text{mag}} = (52.3 \pm 0.2)\,\text{g}$.
-Measure both $M_{\text{pen}}$ and $M_{\text{mag}}$ as accurately as possible.
+**Task E1.1 - Masses (1.0 pts)**
 
-The following is the list of the parameters of the test:
+The total mass of the pendulum body with attached small dipole magnets is $M_{\text{pen}} + M_{\text{mag}} = (52.3 \pm 0.2)\,\text{g}$. Determine both $M_{\text{pen}}$ and $M_{\text{mag}}$ as accurately as possible.
 
-When the external magnets are placed near the magnetic pendulum, it moves in a potential given by the sum of the gravitational field and the magnetic field. The resulting pendulum frequency, $\omega$, may be written as a function of the natural frequency $\omega_1$ and the "magnetic frequency shift" $\omega_{\text{mag}}$:
+**Task E1.2 - Magnetic dipole moments (4.0 pts)**
+
+With external magnets nearby, the magnetic pendulum moves in a combined potential formed by gravity and magnetic interaction. The resulting pendulum frequency $\omega$ can be written as a function of natural frequency $\omega_1$ and "magnetic frequency shift" $\omega_{\text{mag}}$:
 
 $$\omega^2 = \omega_1^2 \pm \omega_{\text{mag}}^2 \quad (1)$$
 
-In the case of black external magnetic dipoles positioned symmetrically at $d$ near the pendulum equilibrium position (see Fig. 1) and the range of oscillations is small, the 'magnetic frequency shift' is:
+For the case of two black external dipole magnets, symmetrically placed at a distance $d$ around the pendulum equilibrium position (see Fig. 1), and small amplitude oscillations the magnetic frequency shift is:
 
-$$\omega_{\text{mag}}^2 = \frac{6\mu_0}{I\pi} \cdot \frac{j_1 \cdot j_2 \cdot l^2}{d^5} \quad (2)$$
+$$\omega_{\text{mag}}^2 = \frac{6\mu_0}{I\pi} \cdot j_1 \cdot j_2 \cdot \frac{\ell^2}{d^5} \quad (2)$$
 
-where $\mu_0 = 4\pi \times 10^{-7}\,\text{N/A}^2$ is the magnetic permeability of the vacuum, $I$ is the moment of magnetic pendulum inertia with respect to the axis of rotation, $j_1$ is the combined magnetic moment of the pendulum magnets, $j_2$ is the magnetic moment of each external dipole, and $l$ is the distance of the magnets on the pendulum from the axis of rotation. The relative strength of the dipole moments can be assumed to be $j_2 = 2.4 \cdot j_1$. The local gravity is $g = 9.81\,\text{m/s}^2$.
+where $\mu_0 = 4\pi \cdot 10^{-7}\,\text{N/A}^2$ is the permeability of vacuum, $I$ is the moment of inertia of the magnetic pendulum around the axis of rotation, $j_1$ is the combined magnetic moment of the pendulum magnets, $j_2$ is the magnetic moment of each external dipole, and $\ell$ is the distance of the pendulum magnet to the rotation axis. For the relative strength of the dipole moments you may assume $j_2 = 2.4 \cdot j_1$. Local gravity is $g = 9.81\,\text{m/s}^2$.
 
-(a) Measure the pendulum frequencies for different distances $d$ of magnets, using very small oscillation amplitudes. Make sure you cover the entire range of frequencies that you can access.
+a) Measure the pendulum frequencies for different magnet distances $d$, using very small amplitudes. Make sure to cover the whole accessible frequency range.
 
-(b) Determine the 'average magnetization' (magnetic moment per unit mass) of the material of which the pendulum magnets and external magnetic dipoles are made. Draw a well-made graph of the data to support the analysis.
+b) Determine the "average magnetization" (magnetic moment per unit mass) of the material of pendulum magnets and external dipole magnets. Create a relevant graph for your analysis. Auxiliary measurements may be necessary to determine all unknowns. You may neglect the mass and thickness of the non-magnetic coating of the magnets.
 
-The following information is provided by the manufacturer:
+*Precise alignment of the rails is important. Make sure that, with the pendulum in its equilibrium position, the centers of all magnets are on a single line. Make sure to use symmetric configurations to cancel the force on the pendulum magnets along the direction of the rails.*
 
-Each of the two outer blue unconscious magnets comprises several magnetic dipoles. The dipole of F1 is inverted from that of F2. The magnetic frequency shift in a configuration analogous to Fig. 1 also follows a power law of the type:
+**Task E1.3 - Unknown external magnets (3.0 pts)**
+
+The two blue unknown external magnets (F1, F2) each contain several magnetic dipoles. The dipoles inside F1 are reversed with respect to those inside F2. The magnetic frequency shift in a setup analogous to Fig. 1 also follows a power law:
 
 $$\omega_{\text{mag},F}^2 \propto d^{\alpha} \quad (3)$$
 
-(a) Measure the pendulum frequencies at different distances $d$ using very small oscillation amplitudes. Choose the settings that allow you to find the magnetic frequency shift as accurately as possible.
+a) Measure the pendulum frequencies for different distances $d$, using very small amplitudes. Choose settings that allow finding the magnetic frequency shift as accurately as possible.
 
-(b) Determine the power law exponent $\alpha$.
+b) Determine the power law exponent $\alpha$.
 
-(c) Draw a diagram of the possible internal configuration of magnetic dipoles F1 and F2 and explain your choice.
+c) Sketch a possible configuration of magnetic dipoles inside F1 and F2 and justify your choice.
 
-The following is the list of the types of vehicles that are used in the manufacture of the product:
+**Task E1.4 - Nonlinear pendulum (2.0 pts)**
 
-Returns the assembly to the configuration used in Question E1.2, with the external black magnetic dipoles arranged as in Figure 1. 1. Using the equation. 1, the frequency of small pendulum oscillations can be completely zeroed, $\omega \to 0$.
+Return the setup to the configuration used in Task E1.2, with black external dipole magnets arranged as in Fig. 1. Following Eqn. 1, the small-amplitude pendulum frequency can be fully cancelled, $\omega \to 0$.
 
-(a) Determine with the greatest possible accuracy the magnet $d$ separation required for this complete zeroing.
+a) Determine as accurately as possible the magnet separation $d$ required for this full cancellation.
 
-(b) It studies the dependence of the period of the pendulum on its width when adjusted to the best freezing that has been achieved. Suggest a functional dependency and compare it to your data. Discuss the origin of the possible discrepancies.
-
+b) Investigate the dependence of pendulum period on its amplitude when tuned to the best cancellation you were able to obtain. Suggest a functional dependence and validate it with your data. Discuss the origin of any possible mismatch.
 
 <!--fig:start-->
 ![[_attachments/EuPhO_2023_experiment_translation_ITA_EXP/EuPhO_2023_experiment_translation_ITA_EXP_p3_f1.png]]
@@ -230,56 +232,73 @@ Determina per ogni slot il tipo di elemento presente. Giustifica le tue scelte.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the tests:
+**E2 - Optical black-box (10 pts)**
 
-Your task is to determine the contents of an optical black box without opening it. The black box is equipped with four optical doors (A, B, C and D) for light and two optical axes (Fig. 2). The optical axes are perpendicular to each other. There is at most one optical element behind each door and another at the center of the box. To rotate the laser on its axis, the laser and the wheel of the laser support (on which you can mark with a pencil) can be used.
+**WARNING!** Do not open the black-box. Do not shake the black-box. Do not touch the windows of the optical ports. If you break the black-box or the windows or attempt to open the black box, you will be disqualified.
 
-The following table shows the results of the study: 4)
-- A: Black box
-- B: Laser module on wheel support
+Your task is to determine the contents of an optical black box without opening it. The black-box has four optical ports (A, B, C and D) for light, and two optical axes (Fig. 2). The optical axes are perpendicular to each other. There is up to one optical element behind each of the ports as well as another one in the center of the box. You can use a laser and a laser mount with a wheel (that you can put marks on it with a pencil) in order to rotate the laser.
+
+**Equipment** (see also Fig. 4)
+- A: Black-box
+- B: Laser module in mount with wheel (the same laser module is used for both experiments, to be placed on the table surface)
 - C: Transparent block
-- D: adhesive tape, pencil, ruler, paper with diagonal scale
+- D: Masking tape, pencil, ruler, paper with diagonal scale
 
-The following table shows the results of the evaluation:
+*Do not look directly into the laser beam, and make sure no other people are hit by it. Do not look into the optical ports of the box if the laser is on, and turn the laser off when not needed.*
 
-The two optical axes intersect at the center of the black box. At the intersection you may find: no element, a fully reflective mirror (on both sides), a semitravelling mirror or a prism in the shape of a regular triangle.
+**Task E2.1 - Central element (~0.3 pts)**
 
-Determine which element is placed in the centre of the black box. Describe its orientation towards the optical doors (A, B, C, D), for example using a sketch. Justify your choices.
+The two optical axes cross in the center of the black box. At the crossing could sit: no element, a fully reflective mirror (both sides), a semi-transparent mirror, or a regular-triangle-shaped prism.
 
-The following table shows the number of items in the remaining slots (~2.2 points)
+Determine which element is placed centrally in the black box. Describe its orientation towards the optical ports (A, B, C, D) - for example by using a sketch. Justify your choices.
 
-There is an element listed in Table 1 in each of the four slots behind the optical doors A, B, C, D respectively.
+**Task E2.2 - Elements in remaining slots (~2.2 pts)**
+
+There is one element from Table 1 in each of the four slots behind the optical ports A, B, C, D, respectively.
 
 Determine for each slot the type of element present. Justify your choices.
 
-Table 1: Elements that are possible in black box slots
+**Task E2.3 - Properties (~7.5 pts)**
 
-What is the size of the screen?
+In Table 1, you can find a second column containing characteristic properties of the possible elements.
+
+Determine these characteristic properties for the optical elements used inside the box at slots A, B, C and D as precisely as possible.
+
+*Table 1: Possible elements in the slots of the black-box*
+
+| Element | Characteristic properties |
 |---|---|
-There's nothing. There's just air in the crack.
-♪ Mirror ♪ The angle between the mirror axis and one of the optical axes ♪
- Prism  angle between one of its sides and one of the optical axes of the black box 
-♬ Lens convex or convex ♬ distance from the center of the box, value and focal length mark. Note: the lens axes are always along the optical axes. |
-♬ Polarizer ♬ angle of orientation to the vertical axis of the black box ♬
-♪ And the only one that's ever been broken ♪
+| no element | there is just air in the slot |
+| mirror | angle between the mirror axis and one of the optical axes |
+| prism | angle between one of its sides and one of the optical axes of the black box, shaped like regular triangle |
+| concave or convex lens | distance to the center of the box, magnitude and sign of the focal length. Note: Axes of lenses are always along optical axes. |
+| polarizer | angle of orientation relative to the vertical axis of the black-box |
+| single, thin slit | distance to the center of the box, width of the slit |
+| diffraction grating | distance to the center of the box, direction of stripes, distance between the stripes |
+| pin hole | distance to the center of the box, hole diameter |
+
+**Important hints:**
+- The wavelength of the laser is $(650 \pm 5)\ \text{nm}$.
+- The refractive index of transparent elements can be assumed to be 1.5.
 
 <!--fig:start-->
 ![[_attachments/EuPhO_2023_experiment_translation_ITA_EXP/EuPhO_2023_experiment_translation_ITA_EXP_p4_f4.png]]
-The following table shows the results of the evaluation: The following information is provided for in Part A of Annex II:
+*Figure 4: Setup and equipment for experimental problem E2*
 <!--fig:end-->
 
 <!--fig:start-->
 ![[_attachments/EuPhO_2023_experiment_translation_ITA_EXP/EuPhO_2023_experiment_translation_ITA_EXP_p3_f1.png]]
-The following table shows the results of the evaluation: 1: external magnetic dipoles seen from above*
+*Figure 1: Frequency shifting using external dipole magnets (top view)*
 <!--fig:end-->
+
 <!--fig:start-->
 ![[_attachments/EuPhO_2023_experiment_translation_ITA_EXP/EuPhO_2023_experiment_translation_ITA_EXP_p3_f2.png]]
-The following table shows the results of the evaluation: The following is the list of the components used in the manufacture of the product:
+*Figure 3: Setup and equipment for experimental problem E1*
 <!--fig:end-->
 
 <!--fig:start-->
 ![[_attachments/EuPhO_2023_experiment_translation_ITA_EXP/EuPhO_2023_experiment_translation_ITA_EXP_p4_f3.png]]
-The following table shows the results of the evaluation: 2: black box layout and slot*
+*Figure 2: Layout of the black box and the slots of the unknown elements*
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]], [[Wave Optics]], [[Electromagnetism]]

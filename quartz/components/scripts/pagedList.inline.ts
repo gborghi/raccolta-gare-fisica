@@ -324,7 +324,11 @@ async function init() {
   )
   if (!els.length) return
   const slug = document.body.dataset.slug || ""
-  const prefix = "../".repeat((slug.match(/\//g) || []).length)
+  // absolute site root from the runtime base path (renderPage BASEPATH_RUNTIME, kept across
+  // SPA navigations): a slug-depth "../" prefix breaks when the SPA fires "nav" with the
+  // previous page's slug/URL depth (e.g. home -> /prove/ fetched /prove/static/...)
+  const bp = document.body.dataset.basepath
+  const prefix = bp !== undefined ? bp + "/" : "../".repeat((slug.match(/\//g) || []).length)
   for (const el of els) {
     el.dataset.rendered = "1"
     await renderOne(el, prefix)

@@ -37,7 +37,8 @@ if [ "${PUBLISH:-0}" = 1 ]; then
   git -C "$W" diff --cached --quiet || { git -C "$W" commit -qm "sync figures from raccolta-gare-fisica build"; git -C "$W" push origin HEAD:main; }
 fi
 RGF_ASSET_BASE="https://gborghi.github.io/olifis-assets" node scripts/rewrite-asset-urls.mjs
-CF_MIRROR=0 node scripts/emit-cf-files.mjs   # _headers + robots.txt (identical on both hosts)
+CF_MIRROR=0 node scripts/emit-cf-files.mjs   # _headers + robots.txt
+HOST=github node scripts/host-urls.mjs       # sitemap/robots/RSS -> GitHub base URL (mirror flips them back)
 test "$(find public -type f | wc -l)" -lt 20000
 test -z "$(find public -type f -size +25M)"
 

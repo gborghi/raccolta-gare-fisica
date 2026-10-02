@@ -15,6 +15,8 @@ if (mirror) {
     stdio: "inherit",
     env: { ...process.env, MIRROR_SOURCE: process.env.MIRROR_SOURCE || "git:https://github.com/gborghi/raccolta-gare-fisica.git#gh-pages" },
   })
+  // sitemap/robots/RSS advertise the Cloudflare base URL on Cloudflare (all else byte-identical)
+  execFileSync(process.execPath, ["scripts/host-urls.mjs"], { stdio: "inherit", env: { ...process.env, HOST: "cloudflare", QUARTZ_OUT: PUB } })
 }
 const EXTS = ["js", "css", "woff2", "svg", "png", "jpg", "jpeg", "webp", "avif"]
 const headers = [

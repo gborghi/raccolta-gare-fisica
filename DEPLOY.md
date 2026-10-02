@@ -77,9 +77,12 @@ git worktree remove --force "$GHP" ; git worktree prune
 
 ## Single build + mirror flow (GitHub = reference, Cloudflare = mirror) -- since 2026-10-02
 
-1. `preprocess.mjs` (in `site-fisica/`, from the vault) writes `content/` + `staticgen/`; commit and push
-   them to `gborghi/raccolta-gare-fisica` `main` (page dates = git dates of these commits, so the build
-   must run in a checkout of THIS repo).
+1. **`content/` of THIS repo is the source of truth** (since 2026-10-02: content PRs #6, #7, #8 fixed
+   KaTeX, texts, figures and Fonte links directly here). Build ONLY from the committed `content/`.
+   **Do NOT rerun `preprocess.mjs`** from the Dropbox vault: it would regenerate `content/` and wipe those
+   fixes (and strip `.pdf` Fonte links). OPEN ITEM for Giovanni: back-sync the vault from `content/`
+   before preprocess is ever used again. New content arrives as PRs to `main` of this repo
+   (page dates = git dates of these commits, so the build must run in a checkout of THIS repo).
 2. In the checkout: `QUARTZ_CONCURRENCY=1 PUBLISH=1 scripts/build-pages.sh` (concurrency 1 on <16 GB RAM).
    It runs `inline-tikz.mjs` (TikZ sidecars -> inline SVG, same rule as preprocess),
    `fix-content-links.mjs` (figure paths incl. `content/prove/_attachments`, concept links,

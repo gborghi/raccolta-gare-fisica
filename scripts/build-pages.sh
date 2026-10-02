@@ -33,6 +33,9 @@ if [ "${PUBLISH:-0}" = 1 ]; then
   [ -d "$W/.git" ] || git clone --depth 1 https://github.com/gborghi/olifis-assets.git "$W"
   git -C "$W" pull --ff-only
   mkdir -p "$W/_attachments" && cp -a public/_attachments/. "$W/_attachments/"
+  # prove figures co-located in content/prove/_attachments: same olifis URL after rewrite-asset-urls;
+  # never overwrite a content/_attachments file of the same name (cp -n)
+  [ -d public/prove/_attachments ] && cp -an public/prove/_attachments/. "$W/_attachments/"
   git -C "$W" add -A _attachments
   git -C "$W" diff --cached --quiet || { git -C "$W" commit -qm "sync figures from raccolta-gare-fisica build"; git -C "$W" push origin HEAD:main; }
 fi

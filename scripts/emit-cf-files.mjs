@@ -23,7 +23,7 @@ const headers = [
   "/*",
   "  X-Content-Type-Options: nosniff",
   "  Referrer-Policy: strict-origin-when-cross-origin",
-  "  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.jsdelivr.net https://gc.zgo.at; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdn.jsdelivr.net; font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net data:; img-src 'self' data: blob: https://gborghi.github.io https://flagcdn.com; connect-src 'self' https://cdn.jsdelivr.net https://gc.zgo.at; frame-src https://drive.google.com https://docs.google.com; object-src 'none'; base-uri 'self'",
+  "  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.jsdelivr.net https://gc.zgo.at; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdn.jsdelivr.net; font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net data:; img-src 'self' data: blob: https://gborghi.github.io https://flagcdn.com; connect-src 'self' https://cdn.jsdelivr.net https://gc.zgo.at https://*.goatcounter.com; frame-src https://drive.google.com https://docs.google.com; object-src 'none'; base-uri 'self'",
   ...EXTS.map((e) => `/*.${e}\n  Cache-Control: public, max-age=604800, immutable`),
 ].join("\n")
 fs.writeFileSync(path.join(PUB, "_headers"), headers + "\n")

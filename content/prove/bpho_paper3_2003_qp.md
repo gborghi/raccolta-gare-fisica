@@ -725,12 +725,12 @@ w
 Figure 4.1 shows a diagram of a model aeroplane. The wing may be regarded as a thin rigid
 sheet; lift is obtained by the air hitting the angled wing. When the aeroplane is flying
 horizontally the wing is angled at 10o to the horizontal. The mass of the aeroplane is m and
-the density of air is $\rhoair$.
+the density of air is $\rho air$.
 (i)
 Find an expression for v the speed of the aircraft, relative to the air, if it is to
 maintain horizontal flight.
 (ii)
-Find the minimum power needed to maintain this speed if m = 1 kg, $\rhoair$ = 1.2
+Find the minimum power needed to maintain this speed if m = 1 kg, $\rho air$ = 1.2
 kg m-2, d = 2 m and w = 0.2 m.
 (iii)
 Solar panels produce about 60 W m-2. Comment on the wing area if the plane
@@ -821,12 +821,12 @@ w
 La figura 4.1 mostra un diagramma di un modello di aereo. L'ala può essere considerata un sottile rigido
 foglio; il sollevamento è ottenuto colpendo l'aria con l'ala angolata. Quando l' aereo vola
 orizzontale, l'ala è angolata a 10° verso orizzontale. La massa dell'aeromobile è di m e
-la densità dell'aria è $\rhoair$.
+la densità dell'aria è $\rho air$.
 (i)
 Trova un'espressione per v la velocità dell'aeromobile, relativa all'aria, se è
 mantenere il volo orizzontale.
 (ii)
-Trova la potenza minima necessaria per mantenere questa velocità se m = 1 kg, $\rhoair$ = 1,2
+Trova la potenza minima necessaria per mantenere questa velocità se m = 1 kg, $\rho air$ = 1,2
 kg m-2, d = 2 m e w = 0,2 m.
 (iii)
 I pannelli solari producono circa 60 W m-2. Commento sull'area delle ali se l'aereo

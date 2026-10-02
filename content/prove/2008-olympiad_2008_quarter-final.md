@@ -63,7 +63,7 @@ inizia con l'energia cinetica K0 di cui alla lettera a)?
 
 
 2. A uniform pool ball of radius r and mass m begins at rest on a pool table. The ball is given a
-horizontal impulse J of fixed magnitude at a distance $\betar$ above its center, where $-1 \leq\beta \leq1$.
+horizontal impulse J of fixed magnitude at a distance $\beta r$ above its center, where $-1 \leq\beta \leq1$.
 The coefficient of kinetic friction between the ball and the pool table is $\mu$. You may assume
 the ball and the table are perfectly rigid. Ignore effects due to deformation. (The moment of
 inertia about the center of mass of a solid sphere of mass m and radius r is Icm = 2
@@ -88,7 +88,7 @@ Copyright c⃝2008 American Association of Physics Teachers
 <div class="qlang-split" data-lang="it"></div>
 
 2. Una palla da biliardo uniforme di raggio r e massa m inizia a riposo su un tavolo da biliardo. La palla è data un
-impulso orizzontale J di magnitudo fissa a una distanza $\betar$ sopra il suo centro, dove $-1 \leq\beta \leq1$.
+impulso orizzontale J di magnitudo fissa a una distanza $\beta r$ sopra il suo centro, dove $-1 \leq\beta \leq1$.
 Il coefficiente di attrito cinetico tra la palla e il tavolo da biliardo è $\mu$. Potresti presumere
 La palla e la tavola sono perfettamente rigide. Ignorare gli effetti dovuti alla deformazione. (Il momento di
 inerzia sul centro di massa di una sfera solida di massa m e raggio r è Icm = 2

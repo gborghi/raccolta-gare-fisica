@@ -40,7 +40,7 @@ $I\infty=$ GRC
 dove G= G(RC/RE) non è una costante ma è invece una funzione del rapporto adimensionale RC/RE.
 Quando LEè confrontabile con RCè necessario introdurre una correzione alla espressione precedente
 e la corrente massima che attraversa il diodo è data dall’espressione
-IL= $I\inftyF(RC$, RE, LE, V)
+IL= $I\infty F(RC$, RE, LE, V)
 (2)
 dove Fè una funzione adimensionale di alcune o tutte le quantità RC, RE, LE, e V. L’equazione (1) è un
 caso speciale della Equazione (2) quando F=1
@@ -118,14 +118,14 @@ Nell’elenco delle variabili nel foglio risposte riporta la direzione dell’ef
 esempio Faumenta, diminuisce o rimane costante se RCviene aumentato?
 0.5pt
 C.2
-Si osserva che quando $LE\approxRCla$ funzione Fpuò essere approssimata come
+Si osserva che quando $LE\approx RCla$ funzione Fpuò essere approssimata come
 lineare in una singola variabile x, dove xè una funzione di solo due tra RC,
 RE, LE, e V. Il foglio risposte riporta diverse forme funzionali possibili per x; si
 scelga quella che riproduce il comportamento più significativo.
 0.5pt
 C.3
 Si assuma una dipendenza lineare della forma F(x) = A+ Bxper i valori di
-$LE\approxRC$, e si determini sperimentalmente il parametro B. Ci si limiti all’intervallo RC/2 $\leqLE\leq2RC$. Si disegni un grafico appropriato per Fin termini
+$LE\approx RC$, e si determini sperimentalmente il parametro B. Ci si limiti all’intervallo RC/2 $\leq LE\leq2RC$. Si disegni un grafico appropriato per Fin termini
 della singola scelta per la quantità appropriata xper approssimare Fcome una
 funzione lineare. L’analisi degli errori non è richiesta.
 1.5pt
@@ -170,7 +170,7 @@ Other
 where G= G(RC/RE) is not a constant but is instead a function of the dimensionless RC/RE ratio.
 When LE is comparable to RC, a correction to the previous expression must be made.
 and the maximum current through the diode is given by the expression
-IL= $I\inftyF(RC$, RE, LE, V)
+IL= $I\infty F(RC$, RE, LE, V)
 (2)
 where Fè is an additive function of some or all of the quantities RC, RE, LE, and V. Equation (1) is a
 special case of Equation (2) when F=1
@@ -248,14 +248,14 @@ The list of variables in the reply sheet shall indicate the direction of the eff
 For example, does it increase, decrease or remain constant if RC increases?
 0.5pt
 C.2
-It is noted that when $LE\approxRCla$ function F can be approximated as
+It is noted that when $LE\approx RCla$ function F can be approximated as
 linear in a single variable x, where it's a function of only two between RC,
 RE, LE, e V. The answer sheet contains several possible functional forms for x;
 Choose the one that reproduces the most significant behavior.
 0.5pt
 C.3
 Assume a linear dependence of the form F(x) = A+ Bxper the values of
-$LE\approxRC$, e si determini sperimentalmente il parametro B. The range is limited to the RC/2 $\leqLE\leq2RC$ range. Draw an appropriate chart for the end-term
+$LE\approx RC$, e si determini sperimentalmente il parametro B. The range is limited to the RC/2 $\leq LE\leq2RC$ range. Draw an appropriate chart for the end-term
 of the single selection for the appropriate quantity xper approximate F as a
 linear function. Analysis of errors is not required.
 1.5pt

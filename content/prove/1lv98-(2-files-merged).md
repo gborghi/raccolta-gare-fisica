@@ -128,7 +128,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q4.** A mass oscillator $m$ and elastic constant $k$ moves on a plane without friction; the extreme positions of oscillation are $x_1$ and $x_2$. Which graph best represents the total energy $T$ of the oscillator in relation to the position $x$? *[Five graphs $T$$x$ AE; the correct one is a horizontal straight line (constant energy).]*
+**Q4.** A mass oscillator $m$ and elastic constant $k$ moves on a plane without friction; the extreme positions of oscillation are $x_1$ and $x_2$. Which graph best represents the total energy $T$ of the oscillator in relation to the position $x$? *[Five graphs $T$–$x$ AE; the correct one is a horizontal straight line (constant energy).]*
 
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
@@ -492,7 +492,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Three thin metal plates $L$, $M$, $N$ parallel; $M$ (central) is grounded, on $L$ and $N$ equal positive loads are distributed. What graph represents the $x$ component of the electric field $\vec E$ along the $x$ axis? *[Five graphs $E$$x$ AE with $L$, $M$, $N$ in the axis; corrected: uniform field towards $M$ on both sides, marked opposite on both sides (antysymmetric step graph) ⇒ E.]*
+Three thin metal plates $L$, $M$, $N$ parallel; $M$ (central) is grounded, on $L$ and $N$ equal positive loads are distributed. What graph represents the $x$ component of the electric field $\vec E$ along the $x$ axis? *[Five graphs $E$–$x$ AE with $L$, $M$, $N$ in the axis; corrected: uniform field towards $M$ on both sides, marked opposite on both sides (antysymmetric step graph) ⇒ E.]*
 
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Superposition Principle (metodo)|Superposition Principle]]
@@ -753,7 +753,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q26.** An impulse propagates over a rope in the positive direction of the $x$ axis; the displacement of points at a given moment is a triangular shape with $P$ rope point (on the descent front, in front of the peak). What graph represents the time shift of the point $P$? *[Five graphs $s$$t$ AE; the correct one shows a steep climb followed by a smoother descent.]*
+**Q26.** An impulse propagates over a rope in the positive direction of the $x$ axis; the displacement of points at a given moment is a triangular shape with $P$ rope point (on the descent front, in front of the peak). What graph represents the time shift of the point $P$? *[Five graphs $s$–$t$ AE; the correct one shows a steep climb followed by a smoother descent.]*
 
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Wave Equation (metodo)|Wave Equation]]

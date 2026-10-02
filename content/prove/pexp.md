@@ -101,7 +101,7 @@ You can get it by finding the mean of the OA and OB distances. Present the data 
 **δmax para el color rojo. (3 p.)**
 
 3. Determine la pendiente p de la recta que mejor se ajusta a los puntos de esta gráfica y deduzca el valor de
-$\deltamax$ para el color rojo. (3 p.)
+$\delta max$ para el color rojo. (3 p.)
 
 **Topic:** [[Geometric Optics]], [[Wave Optics]]
 **Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Curve Fitting (metodo)|Curve Fitting]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -115,7 +115,7 @@ $\deltamax$ para el color rojo. (3 p.)
 **δmax per il colore rosso. (3 p.)**
 
 3. Determina la pendenza p della retta che meglio si adatta ai punti di questo grafico e deduci il valore di
-$\deltamax$ per il colore rosso. (3 p.)
+$\delta max$ per il colore rosso. (3 p.)
 
 **Topic:** [[Geometric Optics]], [[Wave Optics]]
 **Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Curve Fitting (metodo)|Curve Fitting]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -128,7 +128,7 @@ $\deltamax$ per il colore rosso. (3 p.)
 **δmax for the red colour. (3 p.)**
 
 3. Determine the slope p of the straight line that best fits the points on this graph and deduce the value of
-$\deltamax$ for the red colour. (3 p.)
+$\delta max$ for the red colour. (3 p.)
 
 **Topic:** [[Geometric Optics]], [[Wave Optics]]
 **Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Curve Fitting (metodo)|Curve Fitting]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -144,7 +144,7 @@ $\deltamax$ for the red colour. (3 p.)
 
 
 
-4. Haga una estimación de la incertidumbre de $\deltamax$. (3 p.)
+4. Haga una estimación de la incertidumbre de $\delta max$. (3 p.)
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -155,7 +155,7 @@ $\deltamax$ for the red colour. (3 p.)
 
 <div class="qlang-split" data-lang="it"></div>
 
-4. Calcolare l'incertezza di $\deltamax$. (3 p.)
+4. Calcolare l'incertezza di $\delta max$. (3 p.)
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -165,7 +165,7 @@ $\deltamax$ for the red colour. (3 p.)
 
 <div class="qlang-split" data-lang="en"></div>
 
-4. Estimate the uncertainty of $\deltamax$. (3 p.)
+4. Estimate the uncertainty of $\delta max$. (3 p.)
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -181,9 +181,9 @@ $\deltamax$ for the red colour. (3 p.)
 
 
 
-5. La expresión (1) permite relacionar n con $\deltamax$, pero no es posible despejar n. Construya una tabla en la que
-se recojan, en grados, los ángulos $\deltamax$ para n comprendidos entre 1,45 y 1,55, a intervalos de 0,01. Traslade
-a una gráfica, con $\deltamax$ en ordenadas y n en abscisas, los valores anteriores y trace la línea que pasa
+5. La expresión (1) permite relacionar n con $\delta max$, pero no es posible despejar n. Construya una tabla en la que
+se recojan, en grados, los ángulos $\delta max$ para n comprendidos entre 1,45 y 1,55, a intervalos de 0,01. Traslade
+a una gráfica, con $\delta max$ en ordenadas y n en abscisas, los valores anteriores y trace la línea que pasa
 suavemente por estos puntos. (2 p.)
 
 **Topic:** [[Geometric Optics]], [[Wave Optics]]
@@ -195,9 +195,9 @@ suavemente por estos puntos. (2 p.)
 
 <div class="qlang-split" data-lang="it"></div>
 
-5. L'espressione (1) consente di correlare n con $\deltamax$, ma non è possibile chiarire n. Costruisci una tabella in cui
-i gradi $\deltamax$ per n compresi tra 1,45 e 1,55 sono raccolti a intervalli di 0,01. Trasferimento
-a un grafico, con $\deltamax$ in ordinati e n in abscissi, i valori precedenti e tracciare la linea che passa
+5. L'espressione (1) consente di correlare n con $\delta max$, ma non è possibile chiarire n. Costruisci una tabella in cui
+i gradi $\delta max$ per n compresi tra 1,45 e 1,55 sono raccolti a intervalli di 0,01. Trasferimento
+a un grafico, con $\delta max$ in ordinati e n in abscissi, i valori precedenti e tracciare la linea che passa
 - Le cose sono molto delicate. (2 p.)
 
 **Topic:** [[Geometric Optics]], [[Wave Optics]]
@@ -208,9 +208,9 @@ a un grafico, con $\deltamax$ in ordinati e n in abscissi, i valori precedenti e
 
 <div class="qlang-split" data-lang="en"></div>
 
-5. The expression (1) allows to relate n to $\deltamax$, but it is not possible to clear n. Build a table where
-The angles $\deltamax$ for n between 1,45 and 1,55 shall be collected in degrees at intervals of 0,01. Move it
-to a graph, with $\deltamax$ in order and n in abscises, the values above and draw the line that passes
+5. The expression (1) allows to relate n to $\delta max$, but it is not possible to clear n. Build a table where
+The angles $\delta max$ for n between 1,45 and 1,55 shall be collected in degrees at intervals of 0,01. Move it
+to a graph, with $\delta max$ in order and n in abscises, the values above and draw the line that passes
 gently through these points. (2 p.)
 
 **Topic:** [[Geometric Optics]], [[Wave Optics]]
@@ -285,7 +285,7 @@ x
 y
 A
 B
-$\deltamax$
+$\delta max$
 y
 O
 a
@@ -539,7 +539,7 @@ $\pm$
 1,53
 1,54
 1,55
-$\deltamax$ (o)
+$\delta max$ (o)
 n
 
 **Topic:** [[Geometric Optics]]
@@ -569,7 +569,7 @@ x
 y
 A
 B
-$\deltamax$
+$\delta max$
 y
 O
 a
@@ -823,7 +823,7 @@ $\pm$
 1,53
 1,54
 1,55
-$\deltamax$ (o)
+$\delta max$ (o)
 n
 
 **Topic:** [[Geometric Optics]]
@@ -852,7 +852,7 @@ x
 y
 A
 B
-$\deltamax$
+$\delta max$
 y
 O
 a
@@ -1106,7 +1106,7 @@ $\pm$
 1,53
 1,54
 1,55
-$\deltamax$ (o)
+$\delta max$ (o)
 n
 
 **Topic:** [[Geometric Optics]]

@@ -126,8 +126,8 @@ Figure 2.1
 A
 Pump
 B
-$\DeltaQcold$
-$\DeltaQhot$
+$\Delta Qcold$
+$\Delta Qhot$
 
 Tcold
 Thot
@@ -137,7 +137,7 @@ P
 Power in (electrical)
 
 Figure 2.1 is a block diagram of the heat pump/refrigerator. A is the hot body at temperature
-Thot . B is the cold body at temperature Tcold . $\DeltaQhot$ and $\DeltaQcold$ are the quantities of heat per
+Thot . B is the cold body at temperature Tcold . $\Delta Qhot$ and $\Delta Qcold$ are the quantities of heat per
 second absorbed by A, and extracted from B. The pump delivers power P to achieve this.
 
 a) Write down an equation relating
@@ -206,8 +206,8 @@ Figura 2.1
 A
 Pompa
 B
-$\DeltaQcold$
-$\DeltaQhot$
+$\Delta Qcold$
+$\Delta Qhot$
 
 Tcold
 - Non lo so.
@@ -217,7 +217,7 @@ P
 Potenza in (elettrica)
 
 La figura 2.1 è un diagramma di blocco della pompa di calore/frigorante. A è il corpo caldo a temperatura
-- Non è vero . B è il corpo freddo a temperatura Tcold . $\DeltaQhot$ e $\DeltaQcold$ sono le quantità di calore per
+- Non è vero . B è il corpo freddo a temperatura Tcold . $\Delta Qhot$ e $\Delta Qcold$ sono le quantità di calore per
 Il secondo è stato assorbito da A e estratto da B. La pompa fornisce potenza P per raggiungere questo obiettivo.
 
 a) Scrivere un'equazione relativa
@@ -459,7 +459,7 @@ Write down an expression for Vx in terms of the current I and the resistance Rb 
 in Figure 4.2a. Figure 4.2b shows the Vx – I characteristics of XI. In the case that Rb = 6 .0 kΩ
 plot this expression on the graph in Figure 4.2b and deduce the value of I.
 
-c) Use Figure 4.2b to obtain four values of $\deltaI/\deltaRb$ in the range I = 0.5 mA to I = 1.1 mA.
+c) Use Figure 4.2b to obtain four values of $\delta I/\delta Rb$ in the range I = 0.5 mA to I = 1.1 mA.
 
 Figure 4.3
 
@@ -543,7 +543,7 @@ Scrivi un'espressione per Vx in termini di corrente I e di resistenza Rb per il 
 nella figura 4.2a. La figura 4.2b mostra le caratteristiche Vx  I di XI. In caso in cui Rb = 6,0 kΩ
 tracciare questa espressione sul grafico della figura 4.2b e dedurre il valore di I.
 
-c) Per ottenere quattro valori $\deltaI/\deltaRb$ nell'intervallo I = 0,5 mA a I = 1,1 mA, utilizzare la figura 4.2b.
+c) Per ottenere quattro valori $\delta I/\delta Rb$ nell'intervallo I = 0,5 mA a I = 1,1 mA, utilizzare la figura 4.2b.
 
 Figura 4.3
 
@@ -635,9 +635,9 @@ neutron star is $\Delta\phi$ (see Figure 5.1).
 temperature is T and the radiated energy incident on a unit area on Earth's surface
 per unit time is E.
 
-(iv) A calcium line in this radiation differs from its normal wavelength $\lambdao$ by an amount
+(iv) A calcium line in this radiation differs from its normal wavelength $\lambda o$ by an amount
 $\delta\lambda$, due only to the gravitational field of the ordinary star. For this calculation the
-photon can be considered to have an effective mass of $h/\lambdac$.
+photon can be considered to have an effective mass of $h/\lambda c$.
 Find an expression for the distance xe from Earth to this system in terms of the observed
 quantities and the universal constants.
 
@@ -668,9 +668,9 @@ stella di neutroni è $\Delta\phi$ (vedere figura 5.1).
 la temperatura è T e l'incidente di energia irradiata su un'area unitaria sulla superficie terrestre
 per unità di tempo è E.
 
-(iv) Una linea di calcio in questa radiazione differisce dalla sua lunghezza d'onda normale $\lambdao$ di una quantità
+(iv) Una linea di calcio in questa radiazione differisce dalla sua lunghezza d'onda normale $\lambda o$ di una quantità
 $\delta\lambda$, dovuto solo al campo gravitazionale della stella ordinaria. Per questo calcolo, la
-si può considerare che il fotone abbia una massa effettiva di $h/\lambdac$.
+si può considerare che il fotone abbia una massa effettiva di $h/\lambda c$.
 Trova un'espressione per la distanza xe dalla Terra a questo sistema in termini di
 le quantità e le costanti universali.
 

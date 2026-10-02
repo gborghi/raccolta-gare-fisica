@@ -178,7 +178,7 @@ I parametric fisici del bilanciere sono:
 N/m. Qualsiasi
 effetto di polarizzazione sia nella punta del bilanciere sia sulla superficie del campione
 va trascurato. Notare che
- $N\cdotm2/C2$ e
+ $N\cdot m2/C2$ e
  C.
 
 <!--fig:start-->
@@ -358,7 +358,7 @@ The physical parameters of the balance sheet are:
 N/m. Any of the following:
 Polarization effect both on the tip of the scaffold and on the surface of the sample
 It's not worth it. Note that
- $N\cdotm2/C2$ e
+ $N\cdot m2/C2$ e
  C.
 
 <!--fig:start-->

@@ -47,9 +47,9 @@ parameters that appear, when the ring initially rotates about the axis with an a
 c) Compute how long it takes until the angular frequency of the ring has fallen to half its original value. (6 points)
 You may use the following values:
 Specific conductivity of copper
-$\sigmaCu$ = 58,0 $\cdot$ 106 $Ω-1 m-1$
+$\sigma Cu$ = 58,0 $\cdot$ 106 $Ω-1 m-1$
 Density of copper
-$\rhoCu$ = 8920 kg $m-3$
+$\rho Cu$ = 8920 kg $m-3$
 43. IPhO 2012 - Aufgaben der 2. Runde
 3 / 8
 
@@ -100,9 +100,9 @@ parametri che appaiono quando l'anello inizia a rotare intorno all'asse con una 
 c) Calcolare quanto tempo ci vorrà fino a quando la frequenza angolare del ring ha diminuito a metà del suo valore originale. (6 punti)
 Si possono utilizzare i seguenti valori:
 Specific conductivity of copper
-$\sigmaCu$ = 58,0 $\cdot$ 106 $Ω-1 m-1$
+$\sigma Cu$ = 58,0 $\cdot$ 106 $Ω-1 m-1$
 Densità di rame
-$\rhoCu$ = 8920 kg $m-3$
+$\rho Cu$ = 8920 kg $m-3$
 43. IMP 2012 - Tasche del 2. Rondo
 3 / 8
 
@@ -152,9 +152,9 @@ parameters that appear when the ring initially rotates about the axis with an an
 (c) Calculate how long it takes until the angular frequency of the ring has fallen to half its original value. (seventh and sixth points)
 You may use the following values:
 Specific conductivity of copper
-$\sigmaCu$ = 58,0 $\cdot$ 106 $Ω-1 m-1$
+$\sigma Cu$ = 58,0 $\cdot$ 106 $Ω-1 m-1$
 Density of copper
-$\rhoCu$ = 8920 kg $m-3$
+$\rho Cu$ = 8920 kg $m-3$
 43. The Commission will also be able to take into account the specificities of the new rules. Round
 3 / 8
 
@@ -210,7 +210,7 @@ profile y(x) with y(0) =: y0, where the consideration here is restricted to the 
 Let the plane side of the lens be parallel to the x-axis.
 Determine how the lens must be shaped, i.e. how the function y(x) must look,
 in order to focus light that falls parallel to the y-axis from negative infinity onto the plane side
-at the point (0, d) with d $\geqy0$ behind the lens.
+at the point (0, d) with d $\geq y0$ behind the lens.
 Finally consider the case d = y0 and state what physical meaning
 the slope of the function y(x) has in this case. (7 points)
 1The exact formulation states that the light path is a stationary point of the time functional.
@@ -254,7 +254,7 @@ Profile y(x) with y(0) =: y0, where the consideration here is restricted to the 
 Lasciate che il lato piano della lente sia parallelo all'asse x.
 Determina come la lente deve essere modellata, cioè come la funzione y(x) deve guardare,
 per concentrare la luce che cade parallela all'asse y dall'infinito negativo sul lato piano
-a the point (0, d) with d $\geqy0$ behind the lens.
+a the point (0, d) with d $\geq y0$ behind the lens.
 Finalmente considerate il caso d = y0 e state what physical meaning
 la slope della funzione y(x) ha in questo caso. 7 punti)
 1La formulazione esatta afferma che il percorso della luce è un punto stazionario del tempo funzionale.
@@ -297,7 +297,7 @@ profile y(x) with y(0) =: y0, where the consideration here is restricted to the 
 Let the plane side of the lens be parallel to the x-axis.
 Determine how the lens must be shaped, i.e. how the function y(x) must look,
 In order to focus light that falls parallel to the y-axis from negative infinity onto the plane side
-at the point (0, d) with d $\geqy0$ behind the lens.
+at the point (0, d) with d $\geq y0$ behind the lens.
 Finally consider the case d = y0 and state what physical meaning
 the slope of the function y(x) has in this case. (seventh and final points)
 1The exact formulation states that the light path is a stationary point of the time functional.
@@ -366,12 +366,12 @@ To measure the actual probe position, the travel time of a radio signal between
 Earth and probe was used. The high-precision velocity determination was carried out via the
 Doppler shift of the phase-accurately returned radio signals. The carrier frequency of the
 signal2 was 2,292 GHz.
-Determine the expected frequency shift $\Deltaf$ of the carrier frequency at a
+Determine the expected frequency shift $\Delta f$ of the carrier frequency at a
 probe distance of r = 50 AU, neglecting the accelerations determined in parts b)-d) and with the simplifying assumption of an Earth at rest relative to the Sun.
 If you have not solved part a), you may use the substitute value vr $\approx11$ km $s-1$ for
 the radial velocity of the probe.
 Even after including all known effects that lead to an acceleration of the probe,
-a constant additional drift of the frequency shift of d $|\Deltaf|$ /d t =
+a constant additional drift of the frequency shift of d $|\Delta f|$ /d t =
 $-1,34 \cdot 10-8$ Hz $s-1$ remained.
 Determine how large the additional acceleration of the probe must be in order to cause this effect. (4 points)
 f) As a possible cause of this acceleration, the thermal radiation of the onboard power supply was considered. The effect of an anisotropic radiation had namely
@@ -470,12 +470,12 @@ Per misurare la posizione attuale della sonda, il tempo di viaggio di un segnale
 Terra e prova cosa usato. La determinazione di velocità ad alta precisione che è stata effettuata attraverso il
 Doppler shift della fase-accuratamente restituito segnali radio. La frequenza di trasporto del
 Signal2 che è 2.292 GHz.
-Determine il cambiamento di frequenza atteso $\Deltaf$ della frequenza del vettore a
+Determine il cambiamento di frequenza atteso $\Delta f$ della frequenza del vettore a
 la distanza di prova di r = 50 AU, trascurando le accelerazioni determinate nelle parti b) -d) e con l'assunzione semplificante di un'Earth at rest relative al Sole.
 Se non hai risolto parte a), puoi usare il valore sostitutivo vr $\approx11$ km $s-1$ per
 la velocità radiale della prova.
 Anche dopo aver incluso tutti gli effetti noti che portano ad un'accelerazione della sonda,
-a constant additional drift of the frequency shift of d $|\Deltaf|$ /d t =
+a constant additional drift of the frequency shift of d $|\Delta f|$ /d t =
 $-1,34 \cdot 10-8$ Hz $s-1$ remained.
 Determina quanto maggiore deve essere l'accelerazione aggiuntiva della sonda per causare questo effetto. (4 punti)
 f) Come causa possibile di questa accelerazione, la radiazione termica della alimentazione onboard è stata considerata. L'effetto di una radiazione anisotrope ha avuto
@@ -573,12 +573,12 @@ To measure the actual probe position, the travel time of a radio signal between
 Earth and probe what used. The high-precision velocity determination was carried out via the
 Doppler shift of the phase-accurately returned radio signals. The carrier frequency of the
 signal2 is 2,292 GHz.
-Determine the expected frequency shift $\Deltaf$ of the carrier frequency at a
+Determine the expected frequency shift $\Delta f$ of the carrier frequency at a
 probe distance of r = 50 AU, neglecting the accelerations determined in parts b) to d) and with the simplifying assumption of an Earth at rest relative to the Sun.
 If you have not solved part a), you may use the substitute value vr $\approx11$ km $s-1$ for
 the radial velocity of the probe.
 Even after including all known effects that lead to an acceleration of the probe,
-a constant additional drift of the frequency shift of d $|\Deltaf|$ /d t =
+a constant additional drift of the frequency shift of d $|\Delta f|$ /d t =
 The frequency of the measurement is set at $-1,34 \cdot 10-8$ Hz $s-1$ remained.
 Determine how large the additional acceleration of the probe must be in order to cause this effect. (four points)
 (f) As a possible cause of this acceleration, the thermal radiation of the onboard power supply was considered. The effect of an anisotropic radiation had namely
@@ -647,11 +647,11 @@ Describe your theoretical considerations, the experimental setups, the experimen
 comparatively inaccurate and should each contain an error estimate.
 4.1
 Surface tension of water
-The surface tension $\sigma$ of a liquid is defined as the ratio of the energy $\DeltaE$ that
-is required to enlarge the surface by $\DeltaA$, to the surface enlargement, i.e.
-$\sigma$ = $\DeltaE$
-$\DeltaA$ .
-Likewise, for every interface between a liquid and another material (solid, liquid or gas) there exists an interfacial tension $\sigmaG$ that is defined in the same way
+The surface tension $\sigma$ of a liquid is defined as the ratio of the energy $\Delta E$ that
+is required to enlarge the surface by $\Delta A$, to the surface enlargement, i.e.
+$\sigma$ = $\Delta E$
+$\Delta A$ .
+Likewise, for every interface between a liquid and another material (solid, liquid or gas) there exists an interfacial tension $\sigma G$ that is defined in the same way
 and depends on the adjoining materials; it can be either positive or negative. The surface tension is then the interfacial tension to vacuum (or to a
 thin gas).
 43rd IPhO 2012 - Problems of the 2nd Round
@@ -667,7 +667,7 @@ thus to occupy only a limited area; it forms
 a puddle. In addition, the ratio of the
 two tensions3 determines the size of the angle $\theta$ that
 liquid and substrate enclose with each other:
-cos $\theta$ = $\sigmaG$
+cos $\theta$ = $\sigma G$
 $\sigma$ .
 Solid
 Liquid
@@ -722,9 +722,9 @@ Show that for the thickness of the trickle (or of the cuboid), as a function of 
 b and the small inclination angle $\alpha$ of the plane, the following holds:
 h =
 2 $\sigma$
-$\rhoWasser$ g b cos $\alpha$
+$\rho Wasser$ g b cos $\alpha$
  r
-(1 $-cos \theta$) cos $\alpha$ b2 $\rhoWasser$ g
+(1 $-cos \theta$) cos $\alpha$ b2 $\rho Wasser$ g
 2 $\sigma$
 + 1 $-1$
 !
@@ -734,9 +734,9 @@ d) Now determine the velocity profile v(x) of the trickle that is established at
 Note that the velocity at the substrate must be equal to zero
 (v(0) = 0) and use the fact that the velocity profile at the top of the
 liquid satisfies the condition dv/dx(h) = 0. (3 points)
-e) Show with this that for the liquid volume $\DeltaV$ flowing through a fixed cross-section per time $\Deltat$, the following holds
-$\DeltaV$
-$\Deltat$ = sin $\alpha \rhoWasser$ g b h3
+e) Show with this that for the liquid volume $\Delta V$ flowing through a fixed cross-section per time $\Delta t$, the following holds
+$\Delta V$
+$\Delta t$ = sin $\alpha \rho Wasser$ g b h3
 3 $\eta$
 .
 (2 points)
@@ -755,7 +755,7 @@ For the experimental problem use the following values:
 Gravitational acceleration on the Earth
 g = 9,81 m $s-2$
 Density of water
-$\rhoWasser$ = 1000 kg $m-3$
+$\rho Wasser$ = 1000 kg $m-3$
 Good luck!
 
 
@@ -790,11 +790,11 @@ Descrivere le vostre considerazioni teoriche, le configurazioni sperimentali, la
 comparatively inaccurate and should each contain an error estimate.
 4.1
 Tensione di superficie dell'acqua
-La tensione di superficie $\sigma$ di un liquido è definita come il rapporto di energia $\DeltaE$ che
-è richiesto di allargare la superficie da $\DeltaA$, cioè
-$\sigma$ = $\DeltaE$
-$\DeltaA$ .
-Allo stesso modo, per ogni interfaccia tra un liquido e un altro materiale (solido, liquido o gas) esiste una tensione interfaciale $\sigmaG$ che è definita nello stesso modo.
+La tensione di superficie $\sigma$ di un liquido è definita come il rapporto di energia $\Delta E$ che
+è richiesto di allargare la superficie da $\Delta A$, cioè
+$\sigma$ = $\Delta E$
+$\Delta A$ .
+Allo stesso modo, per ogni interfaccia tra un liquido e un altro materiale (solido, liquido o gas) esiste una tensione interfaciale $\sigma G$ che è definita nello stesso modo.
 e dipende dai materiali adiacenti; può essere positivo o negativo. La tensione di superficie è quindi la tensione interfaciale a vuoto (o a
 gas).
 43° IPhO 2012 - Problemi del 2° round
@@ -810,7 +810,7 @@ In questo modo occuparsi solo di un'area limitata; esso forma
 - Un po' di acqua. Inoltre, il rapporto di
 due tensions3 determinano la dimensione dell'angolo $\theta$ che
 liquido e substrato si inseriscono tra loro:
-cos $\theta$ = $\sigmaG$
+cos $\theta$ = $\sigma G$
 $\sigma$ .
 Solidità
 Liquidità
@@ -865,9 +865,9 @@ Mostra che per lo spessore del cuboide, come funzione della larghezza
 b e il piccolo angolo di inclinamento $\alpha$ del piano, il seguente:
 h =
 2 $\sigma$
-$\rhoWasser$ g b cos $\alpha$
+$\rho Wasser$ g b cos $\alpha$
  r
-(1 $-cos \theta$) cos $\alpha$ b2 $\rhoWasser$ g
+(1 $-cos \theta$) cos $\alpha$ b2 $\rho Wasser$ g
 2 $\sigma$
 + 1 $-1$
 !
@@ -877,9 +877,9 @@ d) Now determine the velocity profile v(x) of the trickle that is established at
 Nota che la velocità al substrato deve essere uguale a zero
 (v(0) = 0) e utilizzare il fatto che il profilo di velocità al vertice del
 liquid satisfies the condition dv/dx(h) = 0. (3 punti)
-e) Show with this that for the liquid volume $\DeltaV$ flowing through a fixed cross-section per time $\Deltat$, the following holds
-$\DeltaV$
-$\Deltat$ = sin $\alpha \rhoWasser$ g b h3
+e) Show with this that for the liquid volume $\Delta V$ flowing through a fixed cross-section per time $\Delta t$, the following holds
+$\Delta V$
+$\Delta t$ = sin $\alpha \rho Wasser$ g b h3
 3 $\eta$
 .
 (2 punti)
@@ -898,7 +898,7 @@ Per il problema sperimentale utilizzare i seguenti valori:
 Accelerazione gravitazionale sulla Terra
 g = 9,81 m $s-2$
 Densità di acqua
-$\rhoWasser$ = 1000 kg $m-3$
+$\rho Wasser$ = 1000 kg $m-3$
 - Buona fortuna!
 
 
@@ -932,11 +932,11 @@ Describe your theoretical considerations, the experimental setups, the experimen
 The data should be comparatively inaccurate and should each contain an error estimate.
 4.1
 Surface tension of water
-The surface tension $\sigma$ of a liquid is defined as the ratio of the energy $\DeltaE$ that
-is required to enlarge the surface by $\DeltaA$, to the surface enlargement, i.e.
-$\sigma$ = $\DeltaE$
-$\DeltaA$ .
-Similarly, for every interface between a liquid and another material (solid, liquid or gas) there exists an interfacial tension $\sigmaG$ that is defined in the same way
+The surface tension $\sigma$ of a liquid is defined as the ratio of the energy $\Delta E$ that
+is required to enlarge the surface by $\Delta A$, to the surface enlargement, i.e.
+$\sigma$ = $\Delta E$
+$\Delta A$ .
+Similarly, for every interface between a liquid and another material (solid, liquid or gas) there exists an interfacial tension $\sigma G$ that is defined in the same way
 and depends on the adjoining materials; it can be either positive or negative. The surface tension is then the interfacial tension to vacuum (or to a
 The following table shows the following:
 43rd IPhO 2012 - Problems of the 2nd Round
@@ -952,7 +952,7 @@ Thus to occupy only a limited area; it forms
 A puddle. In addition, the ratio of the
 two tensions3 determines the size of the angle $\theta$ that
 liquid and substrate enclose with each other:
-cos $\theta$ = $\sigmaG$
+cos $\theta$ = $\sigma G$
 $\sigma$ .
 Solid
 Liquid
@@ -1007,9 +1007,9 @@ Show that for the thickness of the trickle (or of the cuboid), as a function of 
 b and the small inclination angle $\alpha$ of the plane, holds the following:
 h =
 2 $\sigma$
-$\rhoWasser$ g b cos $\alpha$
+$\rho Wasser$ g b cos $\alpha$
  r
-(1 $-cos \theta$) cos $\alpha$ b2 $\rhoWasser$ g
+(1 $-cos \theta$) cos $\alpha$ b2 $\rho Wasser$ g
 2 $\sigma$
 + 1 $-1$
 !
@@ -1019,9 +1019,9 @@ d) Now determine the velocity profile v(x) of the trickle that is established at
 Note that the velocity at the substrate must be equal to zero
 (v(0) = 0) and use the fact that the velocity profile at the top of the
 liquid satisfies the condition dv/dx(h) = 0. (three points)
-(e) Show with this that for the liquid volume $\DeltaV$ flowing through a fixed cross-section per time $\Deltat$, the following holds
-$\DeltaV$
-$\Deltat$ = sin $\alpha \rhoWasser$ g b h3
+(e) Show with this that for the liquid volume $\Delta V$ flowing through a fixed cross-section per time $\Delta t$, the following holds
+$\Delta V$
+$\Delta t$ = sin $\alpha \rho Wasser$ g b h3
 3 $\eta$
 .
 (two points)
@@ -1040,7 +1040,7 @@ For the experimental problem use the following values:
 Gravitational acceleration on the Earth
 g = 9,81 m $s-2$
 Density of water
-$\rhoWasser$ = 1000 kg $m-3$
+$\rho Wasser$ = 1000 kg $m-3$
 Good luck with that!
 
 

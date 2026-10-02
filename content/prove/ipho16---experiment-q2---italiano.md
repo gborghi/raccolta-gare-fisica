@@ -148,7 +148,7 @@ l’interruttore e regolare l’ampiezza ruotando il corretto potenziometro etic
 (4) usando il cacciavite fornito. Osservare lo smistamento delle perline provando diverse ampiezze.
 Il primo compito è quello di determinare l’eccitazione di ampiezza critica di questa transizione. Per fare
 questo, è necessario determinare il numero di perline N1 e N2 nei due scomparti (scegliendo i nomi dei
-due vani in modo che N1 $\leqN2$) in funzione dell’ampiezza ADvisualizzata, che è la tensione misurata nella
+due vani in modo che N1 $\leq N2$) in funzione dell’ampiezza ADvisualizzata, che è la tensione misurata nella
 presa ampiezza dell’altoparlante (6). Questa tensione è proporzionale all’ampiezza della forma d’onda a
 dente di sega che pilota l’altoparlante. Fare almeno 5 misurazioni per ogni valore della tensione.
 Suggerimento:
@@ -250,7 +250,7 @@ The switch and the amplitude adjustment by rotating the correct power meter
 (4) using the provided crusher. Observe the arrangement of the beads by testing different amplitudes.
 The first task is to determine the critical scale of excitement of this transition. To do
 This is the case for the number of N1 and N2 beads in the two compartments (selecting the names of the
-two valves so that N1 $\leqN2$) depending on the ADV displayed, which is the voltage measured in the
+two valves so that N1 $\leq N2$) depending on the ADV displayed, which is the voltage measured in the
 The length of the speaker is not less than 6 minutes. This voltage is proportional to the waveform width of the wave
 The tooth of a saw that drives the speaker. At least 5 measurements per voltage value shall be made.
 I suggest you:

@@ -22,10 +22,10 @@ Molle a lunghezza zero e molle slinky - Foglio risposte
 Parte A: Statica (3.0 punti)
 A.1 (0.5 pt)
 
-$\Deltay=$
+$\Delta y=$
 A.2 (0.5 pt)
 
-$\DeltaW=$
+$\Delta W=$
 A.3 (2.0 pt)
 
 H=
@@ -65,10 +65,10 @@ Zero-length springs and slinky springs - Answered sheet
 Part A: Static (3.0 points)
 A.1 (0.5 pt)
 
-$\Deltay=$
+$\Delta y=$
 A.2 (0.5 pt)
 
-$\DeltaW=$
+$\Delta W=$
 A.3 (2.0 pt)
 
 H=

@@ -302,7 +302,7 @@ Certain type of magnetic toys are made up of ferromagnetic spheres and permanent
 
 Alcuni tipi di giocattoli magnetici sono costituiti da sfere ferromagnetiche e magneti permanenti di forma cilindrica. Questi blocchi possono essere utilizzati per costruire, ad esempio, un tetraedro (la lettera "N" segna l'estremità settentrionale di un magnete). Supponiamo che tutti questi magneti permanenti siano identici e ognuno di essi da solo possa creare un flusso magnetico $\Phi$ (supponendo che entrambe le estremità del magnete siano in contatto con un grande pezzo di materiale ferromagnetico a forma di U, in modo da formare un contorno ferromagnetico chiuso). Supponiamo inoltre che, a causa dell'elevata permeabilità magnetica del materiale dei blocchi di costruzione, tutte le linee di campo magnetico siano limitate all'interno di essi (cioè nel mezzo circostante, l'inductanza magnetica $B = 0$).
 
-1) Indichiamo i flussi di ogni magnete permanente (magnete AF nella figura) con $\Phi_A$$\Phi_F$. Scrivere un'equazione relativa a $\Phi_A$, $\Phi_B$ e $\Phi_C$ (e possibilmente a $\Phi$) (1 pt).
+1) Indichiamo i flussi di ogni magnete permanente (magnete AF nella figura) con $\Phi_A$–$\Phi_F$. Scrivere un'equazione relativa a $\Phi_A$, $\Phi_B$ e $\Phi_C$ (e possibilmente a $\Phi$) (1 pt).
 
 2) Write down an equation relating $\Phi_A$, $\Phi_B$, and $\Phi_F$ to each other (and possibly to $\Phi$) (1 pt).
 

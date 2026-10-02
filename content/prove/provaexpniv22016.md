@@ -551,12 +551,12 @@ Quando obtemos qualquer medida experimental, sempre teremos o envolvimento do
 erro da medida. Ao realizarmos cálculo com essas medidas teremos uma propagação destes
 erros e o resultado também deve ser representado com um erro.
 
-Se tivermos duas medidas do tipo, x $\pm \Deltax$, e y $\pm \Deltay$, e realizarmos uma operação
-matemática qualquer, o resultante f(x,y) também terá um erro $\Deltaf(x,y$). O valor do erro $\Deltaf(x,y$)
+Se tivermos duas medidas do tipo, x $\pm \Delta x$, e y $\pm \Delta y$, e realizarmos uma operação
+matemática qualquer, o resultante f(x,y) também terá um erro $\Delta f(x,y$). O valor do erro $\Delta f(x,y$)
 pode ser obtido pela equação:
 7
 
-$\Deltaf(x,y$) = [(
+$\Delta f(x,y$) = [(
 df
 dx)2(Δx)2 + (
 df
@@ -613,12 +613,12 @@ Quando si ottiene una misura sperimentale, si avrà sempre l'impegno del
 errore di misura. Quando si calcola con queste misure si ottiene una propagazione di queste misure.
 errori e il risultato deve essere rappresentato con un errore.
 
-Se abbiamo due misure del tipo, x $\pm \Deltax$, e y $\pm \Deltay$, e facciamo un'operazione
-Qualsiasi matematica, il risultante f(x,y) avrà anche un errore $\Deltaf(x,y$). Il valore di errore $\Deltaf(x,y$)
+Se abbiamo due misure del tipo, x $\pm \Delta x$, e y $\pm \Delta y$, e facciamo un'operazione
+Qualsiasi matematica, il risultante f(x,y) avrà anche un errore $\Delta f(x,y$). Il valore di errore $\Delta f(x,y$)
 può essere ottenuto dall'equazione:
 7
 
-$\Deltaf(x,y$) = [(
+$\Delta f(x,y$) = [(
 df
 dx)2(Δx)2 + (
 df
@@ -674,12 +674,12 @@ When we get any experimental measurement, we will always have the involvement of
 error of measurement. The Commission has already taken a number of measures to ensure that the
 errors and the result must also be represented by an error.
 
-If we have two measurements of the type, x $\pm \Deltax$, and y $\pm \Deltay$, and we do an operation
-In any mathematics, the resulting f(x,y) will also have an error $\Deltaf(x,y$). The error value $\Deltaf(x,y$)
+If we have two measurements of the type, x $\pm \Delta x$, and y $\pm \Delta y$, and we do an operation
+In any mathematics, the resulting f(x,y) will also have an error $\Delta f(x,y$). The error value $\Delta f(x,y$)
 can be obtained by equation:
 7
 
-$\Deltaf(x,y$) = [(
+$\Delta f(x,y$) = [(
 df
 dx)2(Δx)2 + (
 df

@@ -27,7 +27,7 @@ $-1$
 Costante di gravitazione universale
 $G=6.67\cdot10$
 $-11m$
-$3\cdotkg$
+$3\cdot kg$
 $-1\cdots$
 $-2$
 Accelerazione di gravità
@@ -38,12 +38,12 @@ N $A=6.02\cdot10$
 23mol
 $-1$
 Costante universale dei gas
-R=8.31J $\cdotK$
-$-1\cdotmol$
+R=8.31J $\cdot K$
+$-1\cdot mol$
 $-1$
 Costante di Boltzmann
 $k=1.38\cdot10$
-$-23J \cdotK$
+$-23J \cdot K$
 $-1$
 Carica elementare
 $e=1.60\cdot10$
@@ -59,28 +59,28 @@ $ћ¿1.05\cdot10$
 $-34$ J $\cdots$
 Costante dielettrica del vuoto
 $\epsilon 0=8.85\cdot10$
-$-12 F\cdotm$
+$-12 F\cdot m$
 $-1$
 Permeabilità magnetica del vuoto
 $\mu0=1.26\cdot10$
-$-6$ H $\cdotm$
+$-6$ H $\cdot m$
 $-1$
 Formule matematiche utili
 (1+x )
-$\alpha\approx1+\alphax+$ 1
+$\alpha\approx1+\alpha x+$ 1
 2 $\alpha(\alpha-1$) x
 2, dove ¿ $x∨\ll1$ e $\alpha$ è una costante arbitraria
-sin $x\approxx-x$
+sin $x\approx x-x$
 3
 3 , dove ¿ $x∨\ll1$
 cos x $\approx1-1$
 2 x
 2, dove ¿ $x∨\ll1$
-$\intx$
+$\int x$
 ndx= x
 n+1
 n+1+C, $n\neq-1$, con C costante arbitraria
-$\intdx$
+$\int dx$
 $x-a =log|x-a|+C$, con C costante arbitraria
 cosh x=e
 x+e
@@ -141,7 +141,7 @@ $-1$
 The universal gravitational constant is the
 $G=6.67\cdot10$
 $-11m$
-$3\cdotkg$
+$3\cdot kg$
 $-1\cdots$
 $-2$
 Acceleration by gravity
@@ -152,12 +152,12 @@ N $A=6.02\cdot10$
 23 mol
 $-1$
 Universal gas constant
-R=8.31J $\cdotK$
-$-1\cdotmol$
+R=8.31J $\cdot K$
+$-1\cdot mol$
 $-1$
 The Boltzmann constant is the constant
 $k=1.38\cdot10$
-$-23J \cdotK$
+$-23J \cdot K$
 $-1$
 Basic load
 $e=1.60\cdot10$
@@ -173,28 +173,28 @@ $ћ¿1.05\cdot10$
 $-34$ J $\cdots$
 The value of the product shall be determined by the following formula:
 $\epsilon 0=8.85\cdot10$
-$-12 F\cdotm$
+$-12 F\cdot m$
 $-1$
 The magnetic permeability of the vacuum
 $\mu0=1.26\cdot10$
-$-6$ H $\cdotm$
+$-6$ H $\cdot m$
 $-1$
 Useful mathematical formulas
 (1+x )
-$\alpha\approx1+\alphax+$ 1
+$\alpha\approx1+\alpha x+$ 1
 2 $\alpha(\alpha-1$) x
 2, where ¿ $x∨\ll1$ and $\alpha$ is an arbitrary constant
-sin $x\approxx-x$
+sin $x\approx x-x$
 3
 3 , dove ¿ $x∨\ll1$
 where x $\approx1-1$
 2 x
 2, where  $x∨\ll1$
-$\intx$
+$\int x$
 where x is equal to x
 n+1
 n+1+C, $n\neq-1$, with C as an arbitrary constant
-$\intdx$
+$\int dx$
 $x-a =log|x-a|+C$, with C arbitrary constant
 cosh x is equal to e
 x+e

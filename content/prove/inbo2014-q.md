@@ -220,13 +220,13 @@ b. Only 1, 2 and 3
 c. Only 2 and 3
 d. Only 2, 3 and 4
 
-12. (1 point) What would be the water potential $(\Psiw$), solute potential $(\Psis$) and
-pressure potential $(\Psip$) at equilibrium when a cell with $\Psis=$ – 0.7 MPa and
-$\Psip=$ 0.7 MPa is placed in a solution with $\Psis=$ – 0.5 MPa?
-a. $\Psiw=$ – 0.2 MPa, $\Psis=$ – 0.5 MPa, $\Psip=$ – 0.5 MPa
-b. $\Psiw=$ – 0.5 MPa, $\Psis=$ – 0.7 MPa, $\Psip=$ 0.2 MPa
-c. $\Psiw=$ – 0.5 MPa, $\Psis=$ – 0.5 MPa, $\Psip=$ 0 MPa
-d. $\Psiw=$ – 0.3 MPa, $\Psis=$ – 0.3 MPa, $\Psip=$ 0 MPa
+12. (1 point) What would be the water potential $(\Psi w$), solute potential $(\Psi s$) and
+pressure potential $(\Psi p$) at equilibrium when a cell with $\Psi s=$ – 0.7 MPa and
+$\Psi p=$ 0.7 MPa is placed in a solution with $\Psi s=$ – 0.5 MPa?
+a. $\Psi w=$ – 0.2 MPa, $\Psi s=$ – 0.5 MPa, $\Psi p=$ – 0.5 MPa
+b. $\Psi w=$ – 0.5 MPa, $\Psi s=$ – 0.7 MPa, $\Psi p=$ 0.2 MPa
+c. $\Psi w=$ – 0.5 MPa, $\Psi s=$ – 0.5 MPa, $\Psi p=$ 0 MPa
+d. $\Psi w=$ – 0.3 MPa, $\Psi s=$ – 0.3 MPa, $\Psi p=$ 0 MPa
 
 6
 13. (1 point) Heterospory is evolutionarily advanced feature over homosporous

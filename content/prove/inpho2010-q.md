@@ -64,9 +64,9 @@ $\vec{P}_A = $ ; $\vec{P}_B = $
 c) Indicare il numero minimo di lanci da parte di ciascun pattinatore richiesto per evitare collisioni.
 Numero di lanci di $A = $; Numero di lanci di $B = $
 
-d) Indicare il movimento di ciascun pattinatore sul seguente plot $x$$t$ da $t = 0$ s fino a poco dopo un giro di fila (da $A$ a $B$ e di ritorno a $A$). [Nota: per questa e la parte successiva è necessario selezionare adeguatamente la scala sull'asse temporale. Potete usare una matita per disegnare.]
+d) Indicare il movimento di ciascun pattinatore sul seguente plot $x$–$t$ da $t = 0$ s fino a poco dopo un giro di fila (da $A$ a $B$ e di ritorno a $A$). [Nota: per questa e la parte successiva è necessario selezionare adeguatamente la scala sull'asse temporale. Potete usare una matita per disegnare.]
 
-e) Indicare il movimento di ciascun pattinatore sul seguente plot $x$$t$ da $t = 0$ s fino a poco dopo un giro di fila (da $A$ a $B$ e di ritorno a $A$).
+e) Indicare il movimento di ciascun pattinatore sul seguente plot $x$–$t$ da $t = 0$ s fino a poco dopo un giro di fila (da $A$ a $B$ e di ritorno a $A$).
 
 **Topic:** [[Conservation of Momentum]]
 **Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]

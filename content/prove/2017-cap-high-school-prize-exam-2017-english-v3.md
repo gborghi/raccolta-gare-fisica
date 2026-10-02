@@ -1162,7 +1162,7 @@ a) An astronaut pours some water in the air on a space station (no gravity envir
 
 b) The astronaut notices that if she connects two water-balls with radii of $r_1 = 2\ \text{cm}$ and $r_2 = 5\ \text{cm}$ with a thin straw of diameter $D = 1\ \text{mm}$ and length $L = 5\ \text{cm}$, water will flow from one ball to the other ball. Find the direction and the magnitude of the average speed $V_{av}$ of the water between balls in terms of $r_1$, $r_2$ at the instant in which they are connected by the straw. Assume that the balls remain almost spherical.
 
-**HINT:** The pressure drop in a pipe is given by $\delta p = 32\mu L V_{av}/D^2$, where $\mu_\text{water} = 0.001002\ \text{N\cdot s/m}^2$ is the dynamic viscosity of water.
+**HINT:** The pressure drop in a pipe is given by $\delta p = 32\mu L V_{av}/D^2$, where $\mu_\text{water} = 0.001002\ \text{N}\cdot\text{s/m}^2$ is the dynamic viscosity of water.
 
 c) Estimate how long it would take for one ball to completely absorb the other.
 
@@ -1181,7 +1181,7 @@ a) Un astronauta verserà un po' di acqua nell'aria su una stazione spaziale (se
 
 b) L'astronauta nota che se collega due sfere d'acqua con radii $r_1 = 2\ \text{cm}$ e $r_2 = 5\ \text{cm}$ con una magra paglia di diametro $D = 1\ \text{mm}$ e lunghezza $L = 5\ \text{cm}$, l'acqua scorrera' da una sfera all'altra. Trova la direzione e la grandezza della velocità media $V_{av}$ dell'acqua tra le palle in termini di $r_1$, $r_2$ nel momento in cui sono collegate dalla paglia. Supponiamo che le palle rimangano quasi sferiche.
 
-**INT:** La caduta di pressione in un tubo è data da $\delta p = 32\mu L V_{av}/D^2$, dove $\mu_\text{water} = 0.001002\ \text{N\cdot s/m}^2$ è la viscosità dinamica dell'acqua.
+**INT:** La caduta di pressione in un tubo è data da $\delta p = 32\mu L V_{av}/D^2$, dove $\mu_\text{water} = 0.001002\ \text{N}\cdot\text{s/m}^2$ è la viscosità dinamica dell'acqua.
 
 c) Calcolare quanto tempo ci vorrebbe per una palla per assorbire completamente l'altra.
 

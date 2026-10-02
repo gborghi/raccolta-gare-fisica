@@ -28,7 +28,7 @@ title: Spagna 2021 — 2021 soluciones_2021.pdf
 Problema 1: La Física de la bicicleta
 1. La cadena es el elemento que une de forma solidaria plato y piñón. Se tiene entonces
 que por cada giro o vuelta completa del plato el piñón realiza N1/N2 vuelta. Teniendo
-en cuenta que el perímetro de la rueda es de $2\piR$, se tiene que la velocidad es:
+en cuenta que el perímetro de la rueda es de $2\pi R$, se tiene que la velocidad es:
 $vൌ\Omega2πR$ Nଵ
 Nଶ
 
@@ -39,7 +39,7 @@ vൌ90
 1000 ൌ35.63 km/h
 3. La expresión es simplemente:
 F௚ൌmgsinθ
-4. Tenemos que $PൌF௚\cdotvൌmgsinθ\cdotv$ de forma que podemos despejar la velocidadi:
+4. Tenemos que $PൌF௚\cdot vൌmgsinθ\cdot v$ de forma que podemos despejar la velocidadi:
 (a)
 vൌ
 ௉
@@ -53,11 +53,11 @@ el tiempo empleado será tൌ
 ହ଴଴଴
 ହ.ଽ଻ൌ837 s
 (c)
-y el trabajo es $WൌP\cdottൌ250 \cdot837$ ൌ209 kJ
+y el trabajo es $WൌP\cdot tൌ250 \cdot837$ ൌ209 kJ
 (d) Si la pendiente se duplica vൌ
 ଶହ଴
 $଼଴\cdotଵ଴\cdot௦௜௡ሺ଺^{\circ}ሻൌ10.8$ km/h
-5. La energía cinética de una masa $\rhoV$ del aire desplazado, donde $\rho$ es la densidad y V
+5. La energía cinética de una masa $\rho V$ del aire desplazado, donde $\rho$ es la densidad y V
 su volumen, será:
 (a) E௖ൌ
 ଵ
@@ -66,7 +66,7 @@ su volumen, será:
 ଶρAvଷt
 En dónde el volumen V es igual a Avt con A la sección frontal.
 (b) Realizando el balance de potencia
-$PൌF௔\cdotvൌdE௖$
+$PൌF௔\cdot vൌdE௖$
 dtൌd
 dt൬1
 2 ρAvଷt൰ൌ1
@@ -84,7 +84,7 @@ F௔ൌ1
 2 ρCௗAvଶ
 6. La expresión es: F௥ൌμmg
 7. Sustituyendo los datos del enunciado la fuerza total que ha de ejercer el ciclista es
-F்ൌ3.2 ൅0.24 $\cdotv௥௘௟$
+F்ൌ3.2 ൅0.24 $\cdot v௥௘௟$
 ଶ
 dónde v௥௘௟ es la velocidad relativa respecto del viento. Como P = F $\cdot$ v, podemos escribir
 teniendo en cuenta que v=10 m/s:
@@ -131,7 +131,7 @@ v௟௜௠
 ൌ
 $଼଴\cdotଵ଴ \cdot଴.ଵହ଺$
 ଴.ଶସ
-$\tov௟௜௠ൌ22.8$ m/s ൌ82.2 km/h
+$\to v௟௜௠ൌ22.8$ m/s ൌ82.2 km/h
 
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Fluid Mechanics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Calculus-Integration (metodo)|Calculus-Integration]]

@@ -372,13 +372,13 @@ Supponiamo che ci sia una fila di domino su un altro pianeta. Questi dominosi ha
 
 Beloit College has a "homemade" 500 kV Van De Graff proton accelerator, designed and constructed by the students and faculty.
 
-The accelerator dome, an aluminum sphere of radius $a = 0.50$ meters, is charged by a rubber belt with width $w = 10\text{ cm}$ that moves with speed $v_b = 20\text{ m/s}$. The accelerating column consists of 20 metal rings separated by glass rings; the rings are connected in series with $500\text{ M}\Omega$ resistors. The proton beam has a current of $25\text{ \mu A}$ and is accelerated through $500\text{ kV}$ and then passes through a tuning electromagnet. The electromagnet consists of wound copper pipe as a conductor. The electromagnet effectively creates a uniform field $B$ inside a circular region of radius $b = 10\text{ cm}$ and zero outside that region.
+The accelerator dome, an aluminum sphere of radius $a = 0.50$ meters, is charged by a rubber belt with width $w = 10\text{ cm}$ that moves with speed $v_b = 20\text{ m/s}$. The accelerating column consists of 20 metal rings separated by glass rings; the rings are connected in series with $500\text{ M}\Omega$ resistors. The proton beam has a current of $25\ \mu\text{A}$ and is accelerated through $500\text{ kV}$ and then passes through a tuning electromagnet. The electromagnet consists of wound copper pipe as a conductor. The electromagnet effectively creates a uniform field $B$ inside a circular region of radius $b = 10\text{ cm}$ and zero outside that region.
 
 a. Assuming the dome is charged to $500\text{ kV}$, determine the strength of the electric field at the surface of the dome.
 
 b. Assuming the proton beam is off, determine the time constant for the accelerating dome (the time it takes for the charge on the dome to decrease to $1/e \approx 1/3$ of the initial value).
 
-c. Assuming the $25\text{ \mu A}$ proton beam is on, determine the surface charge density that must be sprayed onto the charging belt in order to maintain a steady charge of $500\text{ kV}$ on the dome.
+c. Assuming the $25\ \mu\text{A}$ proton beam is on, determine the surface charge density that must be sprayed onto the charging belt in order to maintain a steady charge of $500\text{ kV}$ on the dome.
 
 d. The proton beam enters the electromagnet and is deflected by an angle $\theta = 10°$. Determine the magnetic field strength.
 
@@ -416,13 +416,13 @@ La domanda B2
 
 Beloit College ha un acceleratore di protoni Van De Graff "fatto in casa" di 500 kV, progettato e costruito dagli studenti e dal personale docente.
 
-La cupola dell'acceleratore, una sfera di alluminio di raggio $a = 0.50$ metri, è caricata da una cintura di gomma di larghezza $w = 10\text{ cm}$ che si muove a velocità $v_b = 20\text{ m/s}$. La colonna di accelerazione è composta da 20 anelli metallici separati da anelli di vetro; gli anelli sono collegati in serie con resistori $500\text{ M}\Omega$. Il fascio di protoni ha una corrente di $25\text{ \mu A}$ e viene accelerato attraverso $500\text{ kV}$ e poi passa attraverso un elettromagneto di sintonia. L'elettromagnetico è costituito da tubi di rame feriti come conduttore. L'elettromagnetico crea efficacemente un campo uniforme $B$ all'interno di una regione circolare di raggio $b = 10\text{ cm}$ e zero al di fuori di tale regione.
+La cupola dell'acceleratore, una sfera di alluminio di raggio $a = 0.50$ metri, è caricata da una cintura di gomma di larghezza $w = 10\text{ cm}$ che si muove a velocità $v_b = 20\text{ m/s}$. La colonna di accelerazione è composta da 20 anelli metallici separati da anelli di vetro; gli anelli sono collegati in serie con resistori $500\text{ M}\Omega$. Il fascio di protoni ha una corrente di $25\ \mu\text{A}$ e viene accelerato attraverso $500\text{ kV}$ e poi passa attraverso un elettromagneto di sintonia. L'elettromagnetico è costituito da tubi di rame feriti come conduttore. L'elettromagnetico crea efficacemente un campo uniforme $B$ all'interno di una regione circolare di raggio $b = 10\text{ cm}$ e zero al di fuori di tale regione.
 
 a. Supponendo che la cupola sia carica a $500\text{ kV}$, determinare la forza del campo elettrico alla superficie della cupola.
 
 b. Supponendo che il fascio di protoni sia spento, determinare la costante temporale della cupola accelerante (il tempo necessario per ridurre la carica sulla cupola a $1/e \approx 1/3$ del valore iniziale).
 
-c. Supponendo che il fascio di protoni $25\text{ \mu A}$ sia acceso, si determina la densità di carica superficiale che deve essere spruzzata sulla cintura di carica per mantenere una carica costante di $500\text{ kV}$ sulla cupola.
+c. Supponendo che il fascio di protoni $25\ \mu\text{A}$ sia acceso, si determina la densità di carica superficiale che deve essere spruzzata sulla cintura di carica per mantenere una carica costante di $500\text{ kV}$ sulla cupola.
 
 d. Il fascio di protoni entra nell'elettromagneto ed è deviato da un angolo $\theta = 10°$. Determina la forza del campo magnetico.
 

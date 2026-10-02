@@ -42,7 +42,7 @@ XXXVI Olimpiada Espa ̃nola de F ́ısica
 Fase Local, Universidad de Salamanca
 21 de febrero de 2025
 Parte uno
-Para un observador O sobre la superficie terrestre (es decir, un observador que gira con velocidad angular $\Omega$ alrededor del Sol), un cuerpo situado en cualquier punto de Lagrange se encontrar ́a en reposo. Por ello, a partir de ahora trabajaremos desde este punto de vista. Para este observador, una part ́ıcula de masa $m$ en reposo no solo se ve sometida a la fuerza gravitatoria, sino que por el hecho de estar girando aparece la denominada fuerza centr ́ıfuga. Esta fuerza apunta en la direcci ́on del vector que une al eje de giro con la part ́ıcula y tiene m ́odulo $F = mR\Omega^2$, donde $R$ es la distancia entre de la part ́ıcula al Sol.
+Para un observador O sobre la superficie terrestre (es decir, un observador que gira con velocidad angular $\Omega$ alrededor del Sol), un cuerpo situado en cualquier punto de Lagrange se encontrar ́a en reposo. Por ello, a partir de ahora trabajaremos desde este punto de vista. Para este observador, una part ́ıcula de masa $m$ en reposo no solo se ve sometida a la fuerza gravitatoria, sino que por el hecho de estar girando aparece la denominada fuerza centrífuga. Esta fuerza apunta en la direcci ́on del vector que une al eje de giro con la part ́ıcula y tiene m ́odulo $F = mR\Omega^2$, donde $R$ es la distancia entre de la part ́ıcula al Sol.
 
 **Topic:** [[Gravitation]], [[Astrophysics]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -92,7 +92,7 @@ $d_S$
 $d_T$
 Figura 2: Posici ́on del centro de masas (CM) para dos part ́ıculas de masas $M_S$ y $M_T$ separadas una distancia $l$.
 Ejercicio 7. (1 punto) Determina num ́ericamente la posici ́on del centro de masas del sistema Sol-Tierra. ¿A cu ́anta distancia de cada uno de los astros se encuentra? Dado que el radio del Sol es de unos $7\cdot10^5\ \text{km}$, ¿c ́omo de realista es asumir que la Tierra orbita alrededor del Sol?
-En este segundo acercamiento m ́as realista el m ́odulo de la fuerza centr ́ıfuga sigue siendo $F = mR\Omega^2$, pero $R$ y $\Omega$ cambian respecto a la Parte 1. Ahora, $R$ es la distancia de la part ́ıcula al centro de masas y $\Omega^2 = G(M_S + M_T)/l^3$.
+En este segundo acercamiento m ́as realista el m ́odulo de la fuerza centrífuga sigue siendo $F = mR\Omega^2$, pero $R$ y $\Omega$ cambian respecto a la Parte 1. Ahora, $R$ es la distancia de la part ́ıcula al centro de masas y $\Omega^2 = G(M_S + M_T)/l^3$.
 Ejercicio 8. (2 puntos) Demuestra que los puntos $L_4$ y $L_5$ se encuentran formando sendos tri ́angulos equil ́ateros con lado com ́un la recta que une al Sol con la Tierra.
 Ejercicio extra. Imagina que eres cient ́ıfica o cient ́ıfico de la Agencia Espacial Europea (ESA) y te encargan poner en  ́orbita las siguientes misiones. ¿En qu ́e puntos de Lagrange situar ́ıas los siguientes sat ́elites y por qu ́e?
 1. Telescopio espacial James Webb, sustituto del telescopio Hubble, cuya misi ́on es observar los objetos m ́as distantes del cosmos.
@@ -113,7 +113,7 @@ Soluciones
 
 Ejercicio 1 (1 punto)
 Igualando la fuerza gravitatoria entre la Tierra y el Sol con la aceleraci ́on centr ́ıpeta,
-$$\frac{GM_S M_T}{l^2} = M_T l\,\Omega^2 \implies \Omega = \sqrt{\frac{GM_S}{l^3}} \simeq 2\cdot10^{-7}\ \text{rad/s}\quad(365\ \text{d ́ıas}).$$
+$$\frac{GM_S M_T}{l^2} = M_T l\,\Omega^2 \implies \Omega = \sqrt{\frac{GM_S}{l^3}} \simeq 2\cdot10^{-7}\ \text{rad/s}\quad(365\ \text{días}).$$
 Se puede obtener el mismo resultado directamente a partir de la tercera ley de Kepler.
 
 **Topic:** [[Gravitation]]
@@ -124,7 +124,7 @@ Se puede obtener el mismo resultado directamente a partir de la tercera ley de K
 ## Problema 7
 
 Ejercicio 2 (1.5 puntos)
-Una hipot ́etica part ́ıcula en reposo respecto de la Tierra tiene que seguir una  ́orbita circular con el mismo eje de giro y frecuencia angular que la de la Tierra. Si dicha part ́ıcula se encontrase fuera del plano orbital de la Tierra, experimentar ́ıa una fuerza centr ́ıfuga paralela a su plano orbital y una fuerza gravitatoria neta que apunta hacia el plano orbital de la Tierra. Por tanto, dicha part ́ıcula no podr ́ıa estar en equilibrio, puesto que se ver ́a atra ́ıda hacia el plano orbital.
+Una hipot ́etica part ́ıcula en reposo respecto de la Tierra tiene que seguir una  ́orbita circular con el mismo eje de giro y frecuencia angular que la de la Tierra. Si dicha part ́ıcula se encontrase fuera del plano orbital de la Tierra, experimentar ́ıa una fuerza centrífuga paralela a su plano orbital y una fuerza gravitatoria neta que apunta hacia el plano orbital de la Tierra. Por tanto, dicha part ́ıcula no podr ́ıa estar en equilibrio, puesto que se ver ́a atra ́ıda hacia el plano orbital.
 
 **Topic:** [[Gravitation]], [[Rotational Dynamics]], [[Astrophysics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
@@ -135,7 +135,7 @@ Una hipot ́etica part ́ıcula en reposo respecto de la Tierra tiene que seguir
 
 Ejercicio 3 (1 punto)
 Al escribir la segunda ley de Newton, resulta
-$$F_{\text{Sol}} + F_{\text{centr ́ıfuga}} = -\frac{GM_S M_T}{l^2} + M_T l\,\Omega^2.$$
+$$F_{\text{Sol}} + F_{\text{centrífuga}} = -\frac{GM_S M_T}{l^2} + M_T l\,\Omega^2.$$
 Al sustituir la $\Omega$ calculada en el ejercicio anterior, resulta inmediato ver que la suma de fuerzas efectivamente se anula.
 
 **Topic:** [[Newtonian Mechanics]], [[Gravitation]]
@@ -146,14 +146,14 @@ Al sustituir la $\Omega$ calculada en el ejercicio anterior, resulta inmediato v
 ## Problema 9
 
 Ejercicio 4 (2 puntos)
-La clave es entender que hay tres fuerzas en juego: la atracci ́on gravitatoria terrestre, la solar y la fuerza centr ́ıfuga. Esto da lugar a tres combinaciones posibles que resultan en tres puntos de equilibrio situados sobre la l ́ınea que une al Sol con la Tierra. El punto $L_1$ es aquel en el cual la atracci ́on gravitatoria solar compensa a la terrestre y a la fuerza centr ́ıfuga, luego ha de estar situado entre el Sol y la Tierra (y mucho m ́as cerca de la Tierra que del Sol ya que $M_S \gg M_T$). En los puntos $L_2$ y $L_3$, situados m ́as all ́a de la  ́orbita terrestre, las fuerzas de atracci ́on gravitatorias solar y de la Tierra compensan a la fuerza centr ́ıfuga.
+La clave es entender que hay tres fuerzas en juego: la atracci ́on gravitatoria terrestre, la solar y la fuerza centrífuga. Esto da lugar a tres combinaciones posibles que resultan en tres puntos de equilibrio situados sobre la l ́ınea que une al Sol con la Tierra. El punto $L_1$ es aquel en el cual la atracci ́on gravitatoria solar compensa a la terrestre y a la fuerza centrífuga, luego ha de estar situado entre el Sol y la Tierra (y mucho m ́as cerca de la Tierra que del Sol ya que $M_S \gg M_T$). En los puntos $L_2$ y $L_3$, situados m ́as all ́a de la  ́orbita terrestre, las fuerzas de atracci ́on gravitatorias solar y de la Tierra compensan a la fuerza centrífuga.
 
 XXXVI Olimpiada Espa ̃nola de F ́ısica
 Fase Local, Universidad de Salamanca
 21 de febrero de 2025
 Los tres puntos de Lagrange son inestables en la direcci ́on del eje Tierra-Sol.
-En $L_1$ al acercarse al (alejarse del) Sol la fuerza gravitatoria del Sol aumenta (disminuye), mientras que las fuerzas centr ́ıfuga y gravitatorias terrestre disminuyen (aumentan). Por tanto, la fuerza neta apuntar ́a hacia el (en direcci ́on contraria al) Sol, y la part ́ıcula se alejar ́a a ́un m ́as del punto de Lagrange.
-En $L_2$ y $L_3$ al acercarse al (alejarse del) Sol las fuerza gravitatorias del Sol y la Tierra aumentan (disminuyen), mientras que la fuerza centr ́ıfuga disminuye (aumenta). Al igual que antes, la fuerza neta apuntar ́a hacia el (en direcci ́on contraria al) Sol.
+En $L_1$ al acercarse al (alejarse del) Sol la fuerza gravitatoria del Sol aumenta (disminuye), mientras que las fuerzas centrífuga y gravitatorias terrestre disminuyen (aumentan). Por tanto, la fuerza neta apuntar ́a hacia el (en direcci ́on contraria al) Sol, y la part ́ıcula se alejar ́a a ́un m ́as del punto de Lagrange.
+En $L_2$ y $L_3$ al acercarse al (alejarse del) Sol las fuerza gravitatorias del Sol y la Tierra aumentan (disminuyen), mientras que la fuerza centrífuga disminuye (aumenta). Al igual que antes, la fuerza neta apuntar ́a hacia el (en direcci ́on contraria al) Sol.
 
 **Topic:** [[Gravitation]], [[Astrophysics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -163,10 +163,10 @@ En $L_2$ y $L_3$ al acercarse al (alejarse del) Sol las fuerza gravitatorias del
 ## Problema 10
 
 Ejercicio 5 (1.5 + 1.0 puntos)
-Por la segunda ley de Newton, para determinar la posici ́on de $L_1$ debemos igualar la fuerza gravitatoria que ejerce el Sol a las fuerzas gravitatoria de la Tierra y centr ́ıfuga, teniendo en cuenta que la frecuencia de traslaci ́on del punto de Lagrange coincide con la de la Tierra. Por lo visto en el ejercicio 2, esta frecuencia viene dada por
+Por la segunda ley de Newton, para determinar la posici ́on de $L_1$ debemos igualar la fuerza gravitatoria que ejerce el Sol a las fuerzas gravitatoria de la Tierra y centrífuga, teniendo en cuenta que la frecuencia de traslaci ́on del punto de Lagrange coincide con la de la Tierra. Por lo visto en el ejercicio 2, esta frecuencia viene dada por
 $$\Omega^2 = \frac{GM_S}{l^3}.$$
 Por tanto,
-$$F_{\text{Sol}} = F_{\text{Tierra}} + F_{\text{centr ́ıfuga}} \implies \frac{GM_S}{l_1^2} = \frac{GM_T}{(l-l_1)^2} + l_1\,\Omega^2.$$
+$$F_{\text{Sol}} = F_{\text{Tierra}} + F_{\text{centrífuga}} \implies \frac{GM_S}{l_1^2} = \frac{GM_T}{(l-l_1)^2} + l_1\,\Omega^2.$$
 Sustituyendo el valor de $\Omega$ y dividiendo la expresi ́on entre $GM_S$ obtenemos
 $$-\frac{M_{\text{Sol}}}{l_1^2} + \frac{M_{\text{Tierra}}}{(l-l_1)^2} + \frac{M_{\text{Sol}}\,l_1}{l^3} = 0.$$
 Para determinar los puntos $L_2$ y $L_3$ el procedimiento es an ́alogo. Las ecuaciones que resultan son
@@ -216,7 +216,7 @@ Es suficiente con probar que, al situar la Tierra, el Sol y $L_4$ ($L_5$) en los
 Mediante trigonometr ́ıa, es directo descomponer las fuerzas gravitatorias del Sol y la Tierra en componentes paralela y perpendicular
 $$\vec{F}_{\text{Sol}} = -\frac{GmM_S}{l}\,(\cos 60^\circ,\ \sin 60^\circ) = -\frac{GmM_S}{l}\left(\frac{1}{2},\ \frac{\sqrt{3}}{2}\right),$$
 $$\vec{F}_{\text{Tierra}} = -\frac{GmM_T}{l}\,(-\cos 60^\circ,\ \sin 60^\circ) = -\frac{GmM_T}{l}\left(-\frac{1}{2},\ \frac{\sqrt{3}}{2}\right).$$
-Para la fuerza centr ́ıfuga, es necesario descomponer el vector que une el CM con $L_4$ en componentes.
+Para la fuerza centrífuga, es necesario descomponer el vector que une el CM con $L_4$ en componentes.
 
 XXXVI Olimpiada Espa ̃nola de F ́ısica
 Fase Local, Universidad de Salamanca
@@ -231,7 +231,7 @@ $l/2$
 $l$
 Figura 3: Disposici ́on espacial del CM, la Tierra, el Sol y $L_4$.
 De esta manera,
-$$\vec{F}_{\text{centr ́ıfuga}} = m\Omega^2\left(\frac{l}{2} - \frac{M_T}{M_T + M_S}\,l,\ \sqrt{l^2 - \frac{l^2}{4}}\right) = \frac{Gm(M_S + M_T)}{l}\left(\frac{1}{2}\,\frac{M_S - M_T}{M_T + M_S},\ \frac{\sqrt{3}}{2}\right).$$
+$$\vec{F}_{\text{centrífuga}} = m\Omega^2\left(\frac{l}{2} - \frac{M_T}{M_T + M_S}\,l,\ \sqrt{l^2 - \frac{l^2}{4}}\right) = \frac{Gm(M_S + M_T)}{l}\left(\frac{1}{2}\,\frac{M_S - M_T}{M_T + M_S},\ \frac{\sqrt{3}}{2}\right).$$
 De forma que efectivamente la suma de componentes cancela
 $$-\frac{GmM_S}{2l} + \frac{GmM_T}{2l} + \frac{Gm(M_S - M_T)}{2l} = 0,$$
 $$-\frac{GmM_S}{l}\,\frac{\sqrt{3}}{2} - \frac{GmM_T}{l}\,\frac{\sqrt{3}}{2} + \frac{Gm(M_S + M_T)}{l}\,\frac{\sqrt{3}}{2} = 0.$$

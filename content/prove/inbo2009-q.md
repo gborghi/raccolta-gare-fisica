@@ -240,7 +240,7 @@ CO2
 6
 11. (1 point) On a warm summer's day, the transpiration pull is the main force
 that drives water from root parenchyma into the root xylem. The table shows
-values of $\psip$ (pressure potential) and $\psis$ (solute potential) in root xylem and
+values of $\psi p$ (pressure potential) and $\psi s$ (solute potential) in root xylem and
 root parenchyma, in kPa. In which of the alternatives a – d would transpiration
 pull cause water to move from root parenchyma into the root xylem?
 
@@ -248,10 +248,10 @@ Root
 parenchyma
 Root xylem
 
-$\psip$
-$\psis$
-$\psip$
-$\psis$
+$\psi p$
+$\psi s$
+$\psi p$
+$\psi s$
 a
 200
 –190

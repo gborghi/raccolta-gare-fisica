@@ -134,7 +134,7 @@ dσk
 dt,
 k= 1, 2, ⋯, N
 (8)
-dove ηt= $\sumkηk$, e τk= ηk/Ek.
+dove ηt= $\sum kηk$, e τk= ηk/Ek.
 
 Experiment
 Q2-4
@@ -146,7 +146,7 @@ $Eke-t/τk$) ,
 k= 1, 2, ⋯, N
 (9)
 dove si è assunto che per t= 0 solo i componenti elastici contribuiscano allo sforzo totale e dunque
-σ0 = ε(E0 + $\sumkEk$). La risposta viscoelastica che ne risulta è evidentemente non lineare.
+σ0 = ε(E0 + $\sum kEk$). La risposta viscoelastica che ne risulta è evidentemente non lineare.
 
 Experiment
 Q2-5
@@ -365,7 +365,7 @@ Other
 dt,
 k= 1, 2, ⋯, N
 (8)
-where ηt = $\sumkηk$, and τk = ηk/Ek.
+where ηt = $\sum kηk$, and τk = ηk/Ek.
 
 Experiments
 Q2-4
@@ -377,7 +377,7 @@ $Eke-t/τk$) ,
 k= 1, 2, ⋯, N
 (9)
 where it is assumed that for t=0 only the elastic components contribute to the total stress and therefore
-σ0 = ε(E0 + $\sumkEk$). The resulting viscoelastic response is obviously nonlinear.
+σ0 = ε(E0 + $\sum kEk$). The resulting viscoelastic response is obviously nonlinear.
 
 Experiments
 Q2-5

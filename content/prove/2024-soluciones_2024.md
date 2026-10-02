@@ -199,10 +199,10 @@ $$\Delta\nu = \frac{0{,}44}{43 \times 10^{-18}\ (\text{s})} = 1{,}023 \times 10^
 
 Ejercicio 4 Para la longitud de onda de 6.5 nm:
 $$T = \frac{\lambda}{c} = \frac{6{,}5 \times 10^{-9}\ (\text{m})}{3 \times 10^8\ (\text{m/s})} = 2{,}17 \times 10^{-17}\ (\text{s}) \quad (6)$$
-$$\text{n\textsuperscript{o} de oscilaciones} = \frac{\Delta t}{T} = \frac{43 \times 10^{-18}\ (\text{s})}{2{,}17 \times 10^{-17}\ (\text{s})} = 2{,}03 \quad (7)$$
+$$\text{nº de oscilaciones} = \frac{\Delta t}{T} = \frac{43 \times 10^{-18}\ (\text{s})}{2{,}17 \times 10^{-17}\ (\text{s})} = 2{,}03 \quad (7)$$
 Para la longitud de onda de 120 nm:
 $$T = \frac{\lambda}{c} = \frac{120 \times 10^{-9}\ (\text{m})}{3 \times 10^8\ (\text{m/s})} = 4 \times 10^{-16}\ (\text{s}) \quad (8)$$
-$$\text{n\textsuperscript{o} de oscilaciones} = \frac{\Delta t}{T} = \frac{43 \times 10^{-18}\ (\text{s})}{4 \times 10^{-16}\ (\text{s})} = 0{,}11 \quad (9)$$
+$$\text{nº de oscilaciones} = \frac{\Delta t}{T} = \frac{43 \times 10^{-18}\ (\text{s})}{4 \times 10^{-16}\ (\text{s})} = 0{,}11 \quad (9)$$
 Conclusi ́on: como un pulso de luz tiene que estar formado por al menos una oscilaci ́on del campo
 el ́ectrico, solo podr ́ıa elegir el l ́aser de 6.5 nm de longitud de onda.
 

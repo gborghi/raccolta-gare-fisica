@@ -2671,9 +2671,9 @@ La figura 1 mostra un grafico dell' assorbimento $\mathrm{O_2}$ durante e immedi
 
 Dopo l'esercizio il corpo continua a respirare e a usare ossigeno in più. La quantità di questa riserva di ossigeno nel sangue, nei fluidi dei tessuti, nei polmoni, nell'emoglobina e nella mioglobina. Nei primi minuti di esercizio, le fibre muscolari utilizzano altre due fonti di produzione di ATP (diversi dalla respirazione aerobica). Sono:
 
-a) Sistema di fosfato di creatina. Le cellule muscolari hanno $2$$4$ volte più fosfato di creatina di ATP. Questa è la principale fonte di energia durante brevi periodi di attività.
+a) Sistema di fosfato di creatina. Le cellule muscolari hanno $2$–$4$ volte più fosfato di creatina di ATP. Questa è la principale fonte di energia durante brevi periodi di attività.
 
-b) respirazione anaerobica che opera più velocemente della respirazione aerobica e fornisce energia per circa $40$$90$ s.
+b) respirazione anaerobica che opera più velocemente della respirazione aerobica e fornisce energia per circa $40$–$90$ s.
 
 <!--fig:start-->
 **Quesito 65**

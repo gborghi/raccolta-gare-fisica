@@ -557,11 +557,11 @@ c) Considering that the total mass of the star is M and the mass of the electron
 larger than that of protons (and neutrons), determine the number of electrons N contained in
 the star.
 
-d) Determine the smallest difference $\Deltak_i$ between the possible values of k_i (i=x, y, z).
+d) Determine the smallest difference $\Delta k_i$ between the possible values of k_i (i=x, y, z).
 
-It is possible to assign to each electron a cube of edge $\Deltak_i$, calculated in the previous
+It is possible to assign to each electron a cube of edge $\Delta k_i$, calculated in the previous
 question, in the wave number space. This means that an electron with wave number
- occupies a cube of sides $\Deltak_i$ in the position
+ occupies a cube of sides $\Delta k_i$ in the position
 , as
 shown in the figure below (the figure shows the particular case of 2 dimensions (2D))
 
@@ -601,7 +601,7 @@ case where the radius R is small and in the case where it is big.
 k) Find the stable equilibrium radius of the star, r_0.
 
 Now, suppose that, somehow, it is possible to slightly compress all the mass of the star and
-shrink its radius to $r_0-\Deltar$, with $\Deltar/r_0$ <<1, keeping the density uniform.
+shrink its radius to $r_0-\Delta r$, with $\Delta r/r_0$ <<1, keeping the density uniform.
 
 l) What will happen with the star? Will it collapse (i.e. the radius R will continuously shrink)?
 Will the radius vibrate harmonically? With what frequency? Discuss.
@@ -688,11 +688,11 @@ c) Considerando che la massa totale della stella è M e la massa degli elettroni
 più grande di quello dei protoni (e dei neutroni), determina il numero di elettroni N contenuti in
 la stella.
 
-d) Determinare la più piccola differenza $\Deltak_i$ tra i valori possibili di k_i (i=x, y, z).
+d) Determinare la più piccola differenza $\Delta k_i$ tra i valori possibili di k_i (i=x, y, z).
 
-È possibile assegnare ad ogni elettrone un cubo di borda $\Deltak_i$, calcolato nel precedente
+È possibile assegnare ad ogni elettrone un cubo di borda $\Delta k_i$, calcolato nel precedente
 La domanda, nello spazio numero d'onda. Ciò significa che un elettrone con numero d'onda
-occupa un cubo di lati $\Deltak_i$ in posizione
+occupa un cubo di lati $\Delta k_i$ in posizione
 , as
 mostrato nella figura seguente (la figura mostra il caso particolare di dimensioni 2 (2D))
 
@@ -732,7 +732,7 @@ nel caso in cui il raggio R è piccolo e nel caso in cui è grande.
 k) Trova il raggio di equilibrio stabile della stella, r_0.
 
 Ora, supponiamo che, in qualche modo, sia possibile comprimere leggermente tutta la massa della stella e
-ridurre il suo raggio di radio a $r_0-\Deltar$, con $\Deltar/r_0$ <<1, mantenendo la densità uniforme.
+ridurre il suo raggio di radio a $r_0-\Delta r$, con $\Delta r/r_0$ <<1, mantenendo la densità uniforme.
 
 L) Cosa succederà alla stella? Collasserà (cioè il raggio R diminuirà continuamente)?
 Il raggio vibrante' armonicamente? Con che frequenza? - Discutete.

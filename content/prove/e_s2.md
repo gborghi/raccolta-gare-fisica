@@ -310,7 +310,7 @@ Magnete (setti punti)
 
 Alcuni tipi di giocattoli magnetici sono costituiti da sfere ferromagnetiche e magneti permanenti di forma cilindrica. Questi blocchi possono essere utilizzati per costruire, ad esempio, un tetraedro, vedi figura (la lettera "N" segna l'estremità settentrionale di un magnete). Supponiamo che tutti questi magneti permanenti siano identici e ognuno di essi da solo possa creare un flusso magnetico $\Phi$ (supponendo che entrambe le estremità del magnete siano in contatto con un grande pezzo di materiale ferromagnetico a forma di U, in modo che si formi un contorno ferromagnetico chiuso). Supponiamo inoltre che, a causa dell'elevata permeabilità magnetica del materiale dei blocchi di costruzione, tutte le linee di campo magnetico siano limitate all'interno di essi (cioè nel mezzo circostante, l'inductanza magnetica $B = 0$).
 
-**1) ** Indichiamo i flussi in ogni magnete permanente (magnete $A$$F$ nella figura) con $\Phi_A$$\Phi_F$. Scrivere un'equazione relativa a $\Phi_A$, $\Phi_B$ e $\Phi_C$ (e possibilmente a $\Phi$) (1 pt).
+**1) ** Indichiamo i flussi in ogni magnete permanente (magnete $A$–$F$ nella figura) con $\Phi_A$–$\Phi_F$. Scrivere un'equazione relativa a $\Phi_A$, $\Phi_B$ e $\Phi_C$ (e possibilmente a $\Phi$) (1 pt).
 
 **2) ** Scrivi l'equazione relativa a $\Phi_A$, $\Phi_B$ e $\Phi_F$ tra loro (e eventualmente a $\Phi$) (1 pt).
 
@@ -478,7 +478,7 @@ Experimental equipment: batteries, wires, multimeter, stopwatch, graphic paper.
 
 **Esperimento (15 pts) **
 
-La scatola nera contiene un elemento non lineare (resistenza attiva) e un condensatore, collegati sequenzialmente. Trova la capacità $C$ del condensatore (5 pts) e la caratteristica $V$$I$ dell'elemento non lineare (6 pts). Si noti che (a) il condensatore elettrolitico accetta solo una sola polarità di carica (indicata dai colori dei fili di uscita della scatola nera); (b) non si può aspettare che la caratteristica $V$$I$ sia simmetrica rispetto a $I = 0$. Tuttavia, è richiesto di studiare l'intervallo $I > 0$ corrispondente alla scarica del condensatore. Tabellare i dati di misura e disegnare i grafici appropriati (4 punti).
+La scatola nera contiene un elemento non lineare (resistenza attiva) e un condensatore, collegati sequenzialmente. Trova la capacità $C$ del condensatore (5 pts) e la caratteristica $V$–$I$ dell'elemento non lineare (6 pts). Si noti che (a) il condensatore elettrolitico accetta solo una sola polarità di carica (indicata dai colori dei fili di uscita della scatola nera); (b) non si può aspettare che la caratteristica $V$–$I$ sia simmetrica rispetto a $I = 0$. Tuttavia, è richiesto di studiare l'intervallo $I > 0$ corrispondente alla scarica del condensatore. Tabellare i dati di misura e disegnare i grafici appropriati (4 punti).
 
 Attrezzature sperimentali: batterie, fili, multimetro, orologio fermo, carta grafica.
 

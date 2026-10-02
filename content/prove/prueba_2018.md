@@ -205,7 +205,7 @@ k = 7,9 kg s-2
 C= 40
 
 pF= 40 10-12F
- 0 = 8,85 10-12 C2 $N-1\cdotm-2$.
+ 0 = 8,85 10-12 C2 $N-1\cdot m-2$.
 OAF 2018 - 7
 En la posición de equilibrio el carrito tiene su extremo izquierdo justo por debajo del borde
 abierto de la caja.
@@ -311,7 +311,7 @@ k = 7,9 kg s-2
 C= 40
 
 pF= 40 10-12F
- 0 = 8,85 10-12 C2 $N-1\cdotm-2$.
+ 0 = 8,85 10-12 C2 $N-1\cdot m-2$.
 OAF 2018 - 7
 Nella posizione di equilibrio il carrello ha la sua estremità sinistra appena sotto il bordo
 aperto dalla scatola.
@@ -416,7 +416,7 @@ k = 7,9 kg s-2
 C= 40
 
 pF= 40 10-12F
- 0 = 8,85 10-12 C2 $N-1\cdotm-2$.
+ 0 = 8,85 10-12 C2 $N-1\cdot m-2$.
 The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
 In the equilibrium position the cart has its left end just below the edge
 open from the box.
@@ -557,7 +557,7 @@ masa total de la estrella M, el radio de la estrella R y la masa del protón mp.
 
 Nota:
 - Tenga en cuenta que la masa me de los electrones es mucho menor que la masa
-mp de los protones $(me\llmp$).
+mp de los protones $(me\ll mp$).
 
 B2. Encuentre la relación entre el número de átomos por unidad de volumen, n, y
 el número de electrones por unidad de volumen, ne.
@@ -570,7 +570,7 @@ estrella, en términos de n, Eat y R.
 Para electrones ultra relativistas (con velocidades próximas a c) la energía promedio de
 los átomos se puede aproximar de la siguiente manera
 
-$Eat\approxpec$ (1)
+$Eat\approx pec$ (1)
 
 donde pe es el impulso lineal promedio de los electrones.
 
@@ -745,7 +745,7 @@ la massa totale della stella M, il raggio della stella R e la massa del protone 
 
 Nota:
 - Si noti che la massa dei me elettroni è molto inferiore alla massa
-di protoni $(me\llmp$).
+di protoni $(me\ll mp$).
 
 B2. Trova il rapporto tra il numero di atomi per unità di volume, n, e
 il numero di elettroni per unità di volume, ne.
@@ -758,7 +758,7 @@ stella, in termini di n, Eat e R.
 Per gli elettroni ultra relativisti (a velocità vicine a c) l'energia media di
 Gli atomi possono essere avvicinati come segue
 
-$Eat\approxpec$ (1)
+$Eat\approx pec$ (1)
 
 dove pe è la media dell'impulso lineare degli elettroni.
 
@@ -932,7 +932,7 @@ The total mass of the star M, the radius of the star R and the mass of the proto
 
 Note:
 - Please note that the mass of the electrons is much smaller than the mass
-mp de los protones $(me\llmp$).
+mp de los protones $(me\ll mp$).
 
 B2. Find the ratio of the number of atoms per unit volume, n, and
 The number of electrons per unit volume, ne.
@@ -945,7 +945,7 @@ star, in terms of n, Eat and R.
 For ultra-relativistic electrons (at speeds close to c) the average energy of
 The atoms can be approximated as follows
 
-$Eat\approxpec$ (1)
+$Eat\approx pec$ (1)
 
 where p is the average linear pulse of the electrons.
 
@@ -1279,7 +1279,7 @@ k = 7,9 kg s-2
 C= 40
 
 pF= 40 10-12F
- 0 = 8,85 10-12 C2 $N-1\cdotm-2$.
+ 0 = 8,85 10-12 C2 $N-1\cdot m-2$.
 
 En la posición de equilibrio el carrito tiene su extremo izquierdo justo por debajo del borde
 abierto de la caja.
@@ -1406,7 +1406,7 @@ k = 7,9 kg s-2
 C= 40
 
 pF= 40 10-12F
- 0 = 8,85 10-12 C2 $N-1\cdotm-2$.
+ 0 = 8,85 10-12 C2 $N-1\cdot m-2$.
 
 Nella posizione di equilibrio il carrello ha la sua estremità sinistra appena sotto il bordo
 aperto dalla scatola.
@@ -1532,7 +1532,7 @@ k = 7,9 kg s-2
 C= 40
 
 pF= 40 10-12F
- 0 = 8,85 10-12 C2 $N-1\cdotm-2$.
+ 0 = 8,85 10-12 C2 $N-1\cdot m-2$.
 
 In the equilibrium position the cart has its left end just below the edge
 open from the box.
@@ -1692,7 +1692,7 @@ masa total de la estrella M, el radio de la estrella R y la masa del protón mp.
 
 Nota:
 - Tenga en cuenta que la masa me de los electrones es mucho menor que la masa
-mp de los protones $(me\llmp$).
+mp de los protones $(me\ll mp$).
 
 B2. Encuentre la relación entre el número de átomos por unidad de volumen, n, y
 el número de electrones por unidad de volumen, ne.
@@ -1705,7 +1705,7 @@ estrella, en términos de n, Eat y R.
 Para electrones ultra relativistas (con velocidades próximas a c) la energía promedio de
 los átomos se puede aproximar de la siguiente manera
 
-$Eat\approxpec$ (1)
+$Eat\approx pec$ (1)
 
 donde pe es el impulso lineal promedio de los electrones.
 
@@ -1905,7 +1905,7 @@ la massa totale della stella M, il raggio della stella R e la massa del protone 
 
 Nota:
 - Si noti che la massa dei me elettroni è molto inferiore alla massa
-di protoni $(me\llmp$).
+di protoni $(me\ll mp$).
 
 B2. Trova il rapporto tra il numero di atomi per unità di volume, n, e
 il numero di elettroni per unità di volume, ne.
@@ -1918,7 +1918,7 @@ stella, in termini di n, Eat e R.
 Per gli elettroni ultra relativisti (a velocità vicine a c) l'energia media di
 Gli atomi possono essere avvicinati come segue
 
-$Eat\approxpec$ (1)
+$Eat\approx pec$ (1)
 
 dove pe è la media dell'impulso lineare degli elettroni.
 
@@ -2117,7 +2117,7 @@ The total mass of the star M, the radius of the star R and the mass of the proto
 
 Note:
 - Please note that the mass of the electrons is much smaller than the mass
-mp de los protones $(me\llmp$).
+mp de los protones $(me\ll mp$).
 
 B2. Find the ratio of the number of atoms per unit volume, n, and
 The number of electrons per unit volume, ne.
@@ -2130,7 +2130,7 @@ star, in terms of n, Eat and R.
 For ultra-relativistic electrons (at speeds close to c) the average energy of
 The atoms can be approximated as follows
 
-$Eat\approxpec$ (1)
+$Eat\approx pec$ (1)
 
 where p is the average linear pulse of the electrons.
 

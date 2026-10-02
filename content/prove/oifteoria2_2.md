@@ -86,7 +86,7 @@ Questão 3 (25 pontos).
 Um anel fino e supercondutor (resistência nula) é posicionado acima de uma barra cilíndrica
 magnetizada como visto na figura abaixo. O eixo de simetria do anel é o mesmo da barra
 cilíndrica. O campo magnético na região do anel pode ser descrito aproximadamente em termos
-de um campo magnético vertical BZ = B0 (1- $\alpha$ z), e radial Br = $B0\cdot\beta\cdotr$, onde B0, $\alpha$, e $\beta$, são
+de um campo magnético vertical BZ = B0 (1- $\alpha$ z), e radial Br = $B0\cdot\beta\cdot r$, onde B0, $\alpha$, e $\beta$, são
 constantes e valem 0,01 T, 2 m-1 , e 32 m-1 , respectivamente. Inicialmente não há nenhuma
 corrente fluindo no anel, e quando o mesmo é solto inicia se um movimento de queda devido à
 gravidade, sem perder o eixo de simetria. Considerando que o anel tem massa de 50 mg, raio de

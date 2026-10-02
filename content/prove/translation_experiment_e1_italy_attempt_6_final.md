@@ -64,7 +64,7 @@ $\delta$
 dn/dY
 =
 Yi
-$\xiiZ0$
+$\xi iZ0$
 +d+Z
 Z0
 Z0 Z
@@ -77,7 +77,7 @@ d
 dn
 dY
 i
-$\deltai$
+$\delta i$
 Zd
 
 Experiment
@@ -98,11 +98,11 @@ E1
 page 7 of 8
 
 t
-Z d Z 0 $\xii$
-$\deltai$
+Z d Z 0 $\xi i$
+$\delta i$
 i
 t
-Z d Z0 $\xii \deltai$
+Z d Z0 $\xi i \delta i$
 Z d
 Z0
 Yi
@@ -160,7 +160,7 @@ dC
 dY
 i
 Co
-2 $\piDt$
+2 $\pi Dt$
 $\sqrt{}$
 $e-$
 $(h-Yi$ )2
@@ -247,7 +247,7 @@ $\delta$
 dn/dY
 =
 Yi
-$\xiiZ0$
+$\xi iZ0$
 +d+Z
 Z0
 Z0 Z
@@ -260,7 +260,7 @@ d
 dn
 dY
 i
-$\deltai$
+$\delta i$
 Zd
 
 Experiments
@@ -281,11 +281,11 @@ E1
 page 7 of 8
 
 t
-Z d Z 0 $\xii$
-$\deltai$
+Z d Z 0 $\xi i$
+$\delta i$
 i
 t
-Z d Z0 $\xii \deltai$
+Z d Z0 $\xi i \delta i$
 Z d
 Z0
 Yi
@@ -343,7 +343,7 @@ dC
 dY
 i
 Co
-2 $\piDt$
+2 $\pi Dt$
 $\sqrt{}$
 $e-$
 $(h-Yi$ )2

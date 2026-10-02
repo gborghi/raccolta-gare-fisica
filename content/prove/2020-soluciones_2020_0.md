@@ -31,7 +31,7 @@ tiene atmósfera y, por tanto, el movimiento de caída es uniformemente acelerad
 la aceleración de la gravedad g. Esta aceleración la puede calcular a partir del tiempo
 de caída:
 h= 1
-2gt2 $\Rightarrowg=$ 2h
+2gt2 $\Rightarrow g=$ 2h
 t2= $2\cdot1$, 40
 5, 292= 0, 100 ms2
 ⁄
@@ -41,7 +41,7 @@ El radio del planeta es R= 2502π
 = 39, 8 km. La masa del planeta puede obtenerse
 teniendo en cuenta que
 g= GM
-R2 $\RightarrowM=$ gR2
+R2 $\Rightarrow M=$ gR2
 G
 = 0, $10\cdot(39$, $8\times$ 103)2
 6, $67\times$ 10ି11
@@ -117,7 +117,7 @@ tiempo?
 Sea x la distancia a recorrer. Para Alba, que recorre x/2 a V1 y x/2 a V2 podemos escribir
 que:
 x
-2 = $Vଵ\cdottଵ= Vଶ\cdottଶ=$ x
+2 = $Vଵ\cdot tଵ= Vଶ\cdot tଶ=$ x
 2
 Entonces tardará un tiempo:
 t஺= tଵ+ tଶ= x
@@ -130,8 +130,8 @@ En el caso de Blanca, llamamos tB al tiempo que necesita para completar la compe
 Como ella ha elegido usar la estrategia de la mitad de tiempo a crawl (V1) y la otra mitad
 a braza (V2) tenemos que:
 x= xଵ+ xଶ= t஻
-2 $\cdotVଵ+$ t஻
-2 $\cdotVଶ$
+2 $\cdot Vଵ+$ t஻
+2 $\cdot Vଶ$
 De donde podemos despejar el tiempo de Blanca como:1
 t஻= $2x\cdot൬$
 1
@@ -142,9 +142,9 @@ t஺
 t஻
 = 1
 4 $\cdot(Vଵ+$ Vଶ)ଶ
-$Vଵ\cdotVଶ$
+$Vଵ\cdot Vଶ$
 
-En dónde si escribimos que Vଵ= $α\cdotVଶ$ tendremos una expresión final:2
+En dónde si escribimos que Vଵ= $α\cdot Vଶ$ tendremos una expresión final:2
 tA
 tB
 = 1

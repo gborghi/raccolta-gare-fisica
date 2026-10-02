@@ -149,7 +149,7 @@ inducida sobre la espira.
 
 
 5. La energía, dE, o calor, dQ, que es necesario darle a un sistema para que sufra una variación de
-temperatura $\DeltaT$ viene dada por la expresión:
+temperatura $\Delta T$ viene dada por la expresión:
 
 $\cdot \cdot$
 dQ

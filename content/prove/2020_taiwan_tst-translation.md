@@ -380,7 +380,7 @@ along z-axis in the region
 , a
   B
 
-  r $\leqa$
+  r $\leq a$
 
 neutral metal disk of radius
 is spinning along
@@ -553,7 +553,7 @@ $\omega$
 =
 0 >
 M
-$2\piR$     (0)
+$2\pi R$     (0)
 i
 = 0
 
@@ -563,7 +563,7 @@ and the current
 , what is
 in that
 
-  $\omegae$
+  $\omega e$
 
   ie
   (0)
@@ -572,7 +572,7 @@ i
 = 0
 
  , i
-$\omegae$ e
+$\omega e$ e
 
 case?
 
@@ -632,7 +632,7 @@ lungo l'asse z nella regione
 , a
   B
 
-  r $\leqa$
+  r $\leq a$
 
 disco metallico neutro di raggio
 si sta girando
@@ -805,7 +805,7 @@ $\omega$
 =
 0 >
 M
-$2\piR$     (0)
+$2\pi R$     (0)
 i
 = 0
 
@@ -815,7 +815,7 @@ e il corrente
 , cosa è
 in quel
 
-  $\omegae$
+  $\omega e$
 
   ie
   (0)
@@ -824,7 +824,7 @@ i
 = 0
 
  , i
-$\omegae$ e
+$\omega e$ e
 
 - Il caso?
 
@@ -915,13 +915,13 @@ O
 .
 ,
 , $\phi$
-$\theta \theta ̇$  ̇
+$\theta \dot{\theta}$  ̇
 
 (C) If the minimum value of
 in the motion is
 , find
 $\theta$
-$\thetamin$
+$\theta min$
 v0.
 
 (D) Prove that the form of
@@ -954,7 +954,7 @@ A
 <
 $\theta0$ <
 1
-  $\thetamin$ = 2
+  $\theta min$ = 2
 $\theta0$
 
 $\phi$
@@ -962,7 +962,7 @@ $\Delta$
 
 from
 to
-$\thetamin$
+$\theta min$
 $\theta0$.
 
 (F) If
@@ -972,7 +972,7 @@ is no longer a small quantity, but
 $\theta0$
 $\alpha$
 < 1
-$\theta0 -\thetamin$ =
+$\theta0 -\theta min$ =
 <
 
 $\phi$
@@ -1052,13 +1052,13 @@ O
 .
 ,
 , $\phi$
-$\theta \theta ̇$  ̇
+$\theta \dot{\theta}$  ̇
 
 C) Se il valore minimo di
 La mozione è
 , trovare
 $\theta$
-$\thetamin$
+$\theta min$
 v0.
 
 D) dimostrare che la forma di
@@ -1091,7 +1091,7 @@ A
 <
 $\theta0$ <
 1
-  $\thetamin$ = 2
+  $\theta min$ = 2
 $\theta0$
 
 $\phi$
@@ -1099,7 +1099,7 @@ $\Delta$
 
 di
 to
-$\thetamin$
+$\theta min$
 $\theta0$.
 
 (F) If
@@ -1109,7 +1109,7 @@ non è più una piccola quantità, ma
 $\theta0$
 $\alpha$
 < 1
-$\theta0 -\thetamin$ =
+$\theta0 -\theta min$ =
 <
 
 $\phi$
@@ -1216,7 +1216,7 @@ gravity,
 j
 j(j
 )
-uj = $\etaj$ = a1 + a2
+uj = $\eta j$ = a1 + a2
 + 1
 , a
 a1 2
@@ -1256,7 +1256,7 @@ s = j 0
 (s)
 s
 s
-$\etaj \to\eta$
+$\eta j \to\eta$
 = b1 + b2
 2
 , b .
@@ -1411,7 +1411,7 @@ gravità,
 j
 j(j
 )
-uj = $\etaj$ = a1 + a2
+uj = $\eta j$ = a1 + a2
 + 1
 , a
 a1 2
@@ -1451,7 +1451,7 @@ s = j 0
 (s)
 s
 s
-$\etaj \to\eta$
+$\eta j \to\eta$
 = b1 + b2
 2
 , b .
@@ -1663,12 +1663,12 @@ applicable to S in (i) therefore, time dilation must come with the same factor o
 contraction. If the wavelength we found at A, B is
 , respectively, then
 
-l , $\Deltal$
+l , $\Delta l$
 $\Delta$ A
 B
 
-$\Deltal$ / $\Deltal$ )
-$\Deltat$ / $\Deltat$ )
+$\Delta l$ / $\Delta l$ )
+$\Delta t$ / $\Delta t$ )
 .
 (
 A
@@ -1678,7 +1678,7 @@ B = 1
  let
 , and the speed of light at A, B is
 respectively, what is
-t / $\Deltat$
+t / $\Delta t$
 $\Delta$ B
 A = $\gamma$
 , c
@@ -1774,7 +1774,7 @@ gravitational lensing effect (i.e. the deflection of light), when the light move
 
 planet (
 ) and go toward infinity on the right, its direction will deflect for an angle
-  r $\approxR$
+  r $\approx R$
 
 .
 $\phi$
@@ -1940,12 +1940,12 @@ applicabile a S nella lettera i), pertanto, la dilatazione temporale deve avere 
 - La contrazione. Se la lunghezza d'onda che abbiamo trovato a A, B è
 , rispettivamente,
 
-l , $\Deltal$
+l , $\Delta l$
 $\Delta$ A
 B
 
-$\Deltal$ / $\Deltal$ )
-$\Deltat$ / $\Deltat$ )
+$\Delta l$ / $\Delta l$ )
+$\Delta t$ / $\Delta t$ )
 .
 (
 A
@@ -1955,7 +1955,7 @@ B = 1
 lasciate
 , e la velocità della luce a A, B è
 rispettivamente, che cosa è
-t / $\Deltat$
+t / $\Delta t$
 $\Delta$ B
 A = $\gamma$
 , c
@@ -2051,7 +2051,7 @@ effetto di lente gravitazionale (ad esempio: la deflezione della luce), quando l
 
 pianeta (
 ) e andare verso l'infinito a destra , la sua direzione si devia per un angolo
-  r $\approxR$
+  r $\approx R$
 
 .
 $\phi$
@@ -2158,7 +2158,7 @@ u
 
 =
 c3
-$8\pih\nu3$
+$8\pi h\nu3$
 1
 e
 $-1$
@@ -2247,7 +2247,7 @@ is the period of the magnetic field in space), the field can accelerate
 $\pi/\lambda$
 ku = 2
 u
-  $\lambdau$
+  $\lambda u$
 
 incoming electrons to radiate light, then interact with electromagnetic wave to amplify it by
 
@@ -2340,7 +2340,7 @@ u
 
 =
 c3
-$8\pih\nu3$
+$8\pi h\nu3$
 1
 e
 $-1$
@@ -2429,7 +2429,7 @@ u
 $\pi/\lambda$
 ku = 2
 u
-  $\lambdau$
+  $\lambda u$
 
 L'energia elettrica è stata generata da un'onda elettromagnetica.
 
@@ -2542,7 +2542,7 @@ effects. Answer the following:
 , as a function of z,
 c
  and $\beta$
-$\betax$
+$\beta x$
 y
 and thus find the average of
 ,
@@ -2550,7 +2550,7 @@ and thus find the average of
 , express it with
 , where
 
-$\betaz \betazˉ$
+$\beta z \beta zˉ$
 
 $(\gamma$
 )
@@ -2599,16 +2599,16 @@ can be approximated to be
 , and ignoring random
 
   $\theta$
-  $\betaz$
+  $\beta z$
 
- $\betazˉ$
+ $\beta zˉ$
 
 initial phase of the wave, find the resonant wavelength
 , precise to
 ,when
 .
 
-  $\lambdar$
+  $\lambda r$
 
 $(\gamma$
 )
@@ -2689,11 +2689,11 @@ can be approximated to be
 in
 ’s expression can be
 
-  $\betaz$
+  $\beta z$
 
- $\betazˉ$
+ $\beta zˉ$
 
-  $\betazˉ$
+  $\beta zˉ$
 
  ,
 
@@ -2712,7 +2712,7 @@ O
 0
 $-2$
 
-  $\lambdam$
+  $\lambda m$
 
   dt
 $d\gamma$
@@ -3013,7 +3013,7 @@ effetti. Rispondi alle seguenti domande:
 , come funzione di z,
 c
 e $\beta$
-$\betax$
+$\beta x$
 y
 e quindi trovare la media di
 ,
@@ -3021,7 +3021,7 @@ e quindi trovare la media di
 , lo esprime con
 , dove
 
-$\betaz \betazˉ$
+$\beta z \beta zˉ$
 
 $(\gamma$
 )
@@ -3070,16 +3070,16 @@ può essere approssimato a
 , e ignorare il casuale
 
   $\theta$
-  $\betaz$
+  $\beta z$
 
- $\betazˉ$
+ $\beta zˉ$
 
 fase iniziale dell'onda, trovare la lunghezza d'onda risonante
 , precise per
 Quando
 .
 
-  $\lambdar$
+  $\lambda r$
 
 $(\gamma$
 )
@@ -3160,11 +3160,11 @@ può essere approssimato a
 in
 s espressione può essere
 
-  $\betaz$
+  $\beta z$
 
- $\betazˉ$
+ $\beta zˉ$
 
-  $\betazˉ$
+  $\beta zˉ$
 
  ,
 
@@ -3183,7 +3183,7 @@ O
 0
 $-2$
 
-  $\lambdam$
+  $\lambda m$
 
   dt
 $d\gamma$
@@ -3489,7 +3489,7 @@ L
 V
 
 (z, )
-$sin(kz)sin(\omegat$
+$sin(kz)sin(\omega t$
 )
 Ex
 t = E0
@@ -3539,13 +3539,13 @@ q
 p(t)
 
 (t)
-$in(\omegat$)
+$in(\omega t$)
 q
-$\proptos$
+$\propto s$
 (t)
-$os(\omegat$)
+$os(\omega t$)
 p
-$\proptoc$
+$\propto c$
 
 can be rewritten as
 . Find
@@ -3599,7 +3599,7 @@ and
 satisfies Heisenberg’s uncertainty principle, meaning that
 p
 
- $\Deltaq\Deltap$
+ $\Delta q\Delta p$
 /2
 
 $\geqˉh$
@@ -3610,7 +3610,7 @@ and
 ,
 .
 (z, )
-E $sin(kz){cos\phi$ X (t)
+E $\sin(kz)\cos\phi$ X (t)
 $in\phi$ X (t) }
 Ex
 t $=\sqrt{}\epsilon$ V
@@ -3687,7 +3687,7 @@ case, find the electric field fluctuation in vacuum Evac.
 
 (viii) In the phasor diagram, the quantum state of the photon satisfies
 . Find
-X $\DeltaX$
+X $\Delta X$
 $\Delta$
 1
 2 $\geq\gamma$
@@ -3738,7 +3738,7 @@ L
 V
 
 (z, )
-$sin(kz)sin(\omegat$
+$sin(kz)sin(\omega t$
 )
 Ex
 t = E0
@@ -3788,13 +3788,13 @@ q
 p(t)
 
 (t)
-$in(\omegat$)
+$in(\omega t$)
 q
-$\proptos$
+$\propto s$
 (t)
-$os(\omegat$)
+$os(\omega t$)
 p
-$\proptoc$
+$\propto c$
 
 può essere riscritta come
 . Trova
@@ -3848,7 +3848,7 @@ e
 Il principio di incertezza di Heisenberg è soddisfatto, in
 p
 
- $\Deltaq\Deltap$
+ $\Delta q\Delta p$
 /2
 
 $\geqˉh$
@@ -3859,7 +3859,7 @@ e
 ,
 .
 (z, )
-E $sin(kz){cos\phi$ X (t)
+E $\sin(kz)\cos\phi$ X (t)
 $in\phi$ X (t) }
 Ex
 t $=\sqrt{}\epsilon$ V
@@ -3936,7 +3936,7 @@ caso, trovare la fluttuazione del campo elettrico in vacuo evac.
 
 (viii) Nel diagramma di fase, lo stato quantistico del fotone soddisfa
 . Trova
-X $\DeltaX$
+X $\Delta X$
 $\Delta$
 1
 2 $\geq\gamma$
@@ -4039,29 +4039,29 @@ $\to$
 E
 E
 E
- jx = $\sigmaxx$
-x + $\sigmaxy$
-y + $\sigmaxz$
+ jx = $\sigma xx$
+x + $\sigma xy$
+y + $\sigma xz$
 z
 E
 E
 E
- jy = $\sigmayx$
-x + $\sigmayy$
-y + $\sigmayz$
+ jy = $\sigma yx$
+x + $\sigma yy$
+y + $\sigma yz$
 z
 E
 E
 E
- jz = $\sigmazx$
-x + $\sigmazy$
-y + $\sigmazz$
+ jz = $\sigma zx$
+x + $\sigma zy$
+y + $\sigma zz$
 z
 Find all the
 terms where
 . and express your answer with
 ,
-$\sigmaij$
+$\sigma ij$
 ,
 , ,
 i j = x y z
@@ -4070,7 +4070,7 @@ $\sigma0$ = n 2
 
 and
 B/m
-$\omegac$ = e
+$\omega c$ = e
 $.\tau$
 (B) Rewrite it as
 . Find all the
@@ -4079,7 +4079,7 @@ j
 E
 $\to= \rho$
 $\to$
-$\rhoij$
+$\rho ij$
 ,
 , , .
 i j = x y z
@@ -4179,29 +4179,29 @@ $\to$
 E
 E
 E
- jx = $\sigmaxx$
-x + $\sigmaxy$
-y + $\sigmaxz$
+ jx = $\sigma xx$
+x + $\sigma xy$
+y + $\sigma xz$
 z
 E
 E
 E
- jy = $\sigmayx$
-x + $\sigmayy$
-y + $\sigmayz$
+ jy = $\sigma yx$
+x + $\sigma yy$
+y + $\sigma yz$
 z
 E
 E
 E
- jz = $\sigmazx$
-x + $\sigmazy$
-y + $\sigmazz$
+ jz = $\sigma zx$
+x + $\sigma zy$
+y + $\sigma zz$
 z
 Trova tutte le
 termini in cui
 . e esprime la tua risposta con
 ,
-$\sigmaij$
+$\sigma ij$
 ,
 , ,
 i j = x y z
@@ -4210,7 +4210,7 @@ $\sigma0$ = n 2
 
 e
 B/m
-$\omegac$ = e
+$\omega c$ = e
 $.\tau$
 (B) Riscritta come
 . Trova tutte le
@@ -4219,7 +4219,7 @@ j
 E
 $\to= \rho$
 $\to$
-$\rhoij$
+$\rho ij$
 ,
 , , .
 i j = x y z
@@ -4424,7 +4424,7 @@ on
 , if we detect the
 $\pm$
 x = a
-$cos\omegat$
+$cos\omega t$
 E0
 
 motion of the mass on the y-axis, we can know if the platform is rotating or not.
@@ -4434,7 +4434,7 @@ $\omega0$ > $\Omega$
 damping force
  is exerted on the mass(
 ),the damping coefficient
-$-m\betav$
+$-m\beta v$
 f
 $\to=$ 2
 $\to$
@@ -4450,7 +4450,7 @@ $\beta$
 
 find the resonance frequency
 of the system, and explain how this can be
-$\omegaR$
+$\omega R$
 
 used to detect rotation.
 (iii) Whether we can detect the angular speed of the rotation depend on the
@@ -4463,7 +4463,7 @@ $\Delta$
 
 . Estimate the quality factor of each resonant frequency. For
 $/\Delta\omega$
-Q = $\omegaR$
+Q = $\omega R$
 
 , find when it is possible to get the rotating angular speed from the
 
@@ -4651,7 +4651,7 @@ on
 , se rilevamo il
 $\pm$
 x = a
-$cos\omegat$
+$cos\omega t$
 E0
 
 il movimento della massa sull'asse y, possiamo sapere se la piattaforma sta girando o no.
@@ -4661,7 +4661,7 @@ $\omega0$ > $\Omega$
 forza di attenuazione
 viene esercitato sulla massa(
 ),il coefficiente di ammortizzazione
-$-m\betav$
+$-m\beta v$
 f
 $\to=$ 2
 $\to$
@@ -4677,7 +4677,7 @@ $\beta$
 
 trovare la frequenza di risonanza
 di questo sistema, e spiegare come questo può essere
-$\omegaR$
+$\omega R$
 
 utilizzato per rilevare la rotazione.
 (iii) Se possiamo rilevare la velocità angolare della rotazione dipende dalla
@@ -4690,7 +4690,7 @@ $\Delta$
 
 . Estimare il fattore di qualità di ciascuna frequenza di risonanza. Per
 $/\Delta\omega$
-Q = $\omegaR$
+Q = $\omega R$
 
 , trovare quando è possibile ottenere la velocità angolare rotante dal
 
@@ -5209,7 +5209,7 @@ spherical, then the diffracted wave is
 |}
 (R ){e
 /|r|}
-$\psiinc$
+$\psi inc$
 m
 $\to$
 $ik|r-R$ |
@@ -5218,7 +5218,7 @@ m
 $\to$
 $\to-Rm$
 $\to$
-$\approx\psiinc$
+$\approx\psi inc$
 m
 $\to$
 $ik|r-R$ |
@@ -5232,25 +5232,25 @@ is satisfied. L​et
 , find the total diffracted wave
 r|
 |
-$\to\ggRm$
+$\to\gg Rm$
 $\to$
 (r)
 e
-$\psiinc$
-$\to=$ i $k\cdotr$
+$\psi inc$
+$\to=$ i $k\cdot r$
 $\to\to$
 a z
 Rm
 $\to=$ m ˆ
 
-$\psiD$
+$\psi D$
 from
  lattice point.
 
 N
 (C) ​Find the condition of constructive interference from
 .
-$\psiD$
+$\psi D$
 Consider the diffraction from one-dimensional left/right-handed symmetric lattice:
 The figure on the right shows an one dimensional
 lattice with right handed symmetry, the small balls
@@ -5289,9 +5289,9 @@ different beta represents different chirality.
 is not yet determined.
 a z
 Rm
-$\to= \rhom$
+$\to= \rho m$
 $\to+$ m ˆ
-$\rhom$
+$\rho m$
 $\to$
 $\beta$
 
@@ -5316,11 +5316,11 @@ $k'$
 $\to=$ (
 $\theta' \phi'$
 
-$\psiD$
+$\psi D$
 
 the condition of constructive interference from
 .
-$\psiD$
+$\psi D$
 (F) ​Consider the special case of
 , and the condition for constructive
 /2, a
@@ -5415,7 +5415,7 @@ quando
 |}
 (R ){e
 /|r|}
-$\psiinc$
+$\psi inc$
 m
 $\to$
 $ik|r-R$ |
@@ -5424,7 +5424,7 @@ m
 $\to$
 $\to-Rm$
 $\to$
-$\approx\psiinc$
+$\approx\psi inc$
 m
 $\to$
 $ik|r-R$ |
@@ -5438,25 +5438,25 @@ $\to$
 , trovare l' onda diffratta totale
 r|
 |
-$\to\ggRm$
+$\to\gg Rm$
 $\to$
 (r)
 e
-$\psiinc$
-$\to=$ i $k\cdotr$
+$\psi inc$
+$\to=$ i $k\cdot r$
 $\to\to$
 a z
 Rm
 $\to=$ m ˆ
 
-$\psiD$
+$\psi D$
 di
 punto della rete.
 
 N
 C) Indicare la condizione di interferenza costruttiva da
 .
-$\psiD$
+$\psi D$
 Si consideri la diffrazione da una rete simmetrica a sinistra/destra unidimensional:
 La figura a destra mostra un'unica dimensione
 Rettura con simmetria a destra, le piccole palle
@@ -5495,9 +5495,9 @@ D) la posizione dell'atomo è
 non è ancora determinato.
 a z
 Rm
-$\to= \rhom$
+$\to= \rho m$
 $\to+$ m ˆ
-$\rhom$
+$\rho m$
 $\to$
 $\beta$
 
@@ -5522,11 +5522,11 @@ $k'$
 $\to=$ (
 $\theta' \phi'$
 
-$\psiD$
+$\psi D$
 
 la condizione di interferenza costruttiva da
 .
-$\psiD$
+$\psi D$
 F) Considerare il caso speciale di
 , e la condizione per la costruzione
 /2, a

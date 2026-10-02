@@ -20,10 +20,10 @@ Country Student No. Question No. PageNo Total No.
  Of pages
 FOGLIO DI RISPOSTA: PROBLEMA N.3
 Parte A
-a) m $=\dots\dots\dots\dots\dots\dots\dotss-1$.
+a) m $=\dots\dots\dots\dots\dots\dots\dots s-1$.
 [0.1]
 b)
-w $=\dots\dots\dots\dots\dots\dots\dotsrad.s-1$.
+w $=\dots\dots\dots\dots\dots\dots\dots rad.s-1$.
 [0.1]
 c)
 dl $=\dots\dots\dots\dots\dots\dots\dotsm$.
@@ -41,7 +41,7 @@ b)
 a = $\dots\dots\dots\dots$
 [2.0]
 c)
-Angolo di deflessione = $\dots\dots\dots\dots\dots\dots\dots\dotsrad$.
+Angolo di deflessione = $\dots\dots\dots\dots\dots\dots\dots\dots rad$.
 [3.5]
 
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]], [[Rotational Dynamics]]
@@ -58,10 +58,10 @@ Country student No. Question No. PageNo Total No.
 Of pages
 The Commission has already decided to take a decision on the proposal.
 Part A
-a) m $=\dots\dots\dots\dots\dots\dots\dotss-1$.
+a) m $=\dots\dots\dots\dots\dots\dots\dots s-1$.
 [0.1]
 b)
-w $=\dots\dots\dots\dots\dots\dots\dotsrad.s-1$.
+w $=\dots\dots\dots\dots\dots\dots\dots rad.s-1$.
 [0.1]
 c)
 dl $=\dots\dots\dots\dots\dots\dots\dotsm$.
@@ -79,7 +79,7 @@ b)
 a = $\dots\dots\dots\dots$
 [2.0]
 c)
-Angolo di deflessione = $\dots\dots\dots\dots\dots\dots\dots\dotsrad$.
+Angolo di deflessione = $\dots\dots\dots\dots\dots\dots\dots\dots rad$.
 [3.5]
 
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]], [[Rotational Dynamics]]

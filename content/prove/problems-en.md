@@ -39,7 +39,7 @@ represented in the form of the Cartesian coordinate system, and the stars are re
 it. At this moment Zhomart interested in the question: how many different right triangles whose legs are
 parallel to the axes, you can create with the help of stars in the sky.
 Input
-In the first line of the input line you are given N –– the number of stars on the sky (3 $\leqN \leq300000$).
+In the first line of the input line you are given N –– the number of stars on the sky (3 $\leq N \leq300000$).
 Each of the next N lines contains integer X and Y (|X, Y | $\leq109$) –– coordinates of the appropriate star.
 Output
 Print one number – the answer to the question.
@@ -76,9 +76,9 @@ Detailed Feedback:
 none
 There is a 4-dimensional array X, each index of which is in interval from 1 to N. Your task is to construct
 new 4-dimensional array Y , elements of which can be calculated using the next formula: Y [i1, i2, i3, i4] =
-min(X[j1, j2, j3, j4]), where 1 $\leqik \leqN -M$ + 1, ik $\leqjk \leqik$ + M $-1$, and M is given.
+min(X[j1, j2, j3, j4]), where 1 $\leq ik \leq N -M$ + 1, ik $\leq jk \leq ik$ + M $-1$, and M is given.
 Input
-First line of the input file contains N and M (1 $\leqM \leqN$). Next lines of the input file contain elements
+First line of the input file contains N and M (1 $\leq M \leq N$). Next lines of the input file contain elements
 of array X. The number of elements will be not more than 1500000 and elements will be integers not
 exceeding 109 by absolute value. They are given in such order, that the array can be read using following
 pseudocode:
@@ -125,9 +125,9 @@ will get to one of these traps, it will turn up. The turtle has strength to stan
 Calculate, how many different ways the turtle can reach the cell (N, M). Since this number can be very
 large, output the remainder of his division by Z.
 Input
-The first line contains 5 integers N, M, K, T and Z (1 $\leqN$, M $\leq300000$, 0 $\leqK$, T $\leq20$, 1 $\leqZ \leq$
-1000000000). Each of the following K lines contains coordinates of a cell with a trap: X, Y (0 $\leqX \leqN$,
-0 $\leqY \leqM$). It’s guaranteed that all traps situated in different cells and there is no trap in cells (0, 0)
+The first line contains 5 integers N, M, K, T and Z (1 $\leq N$, M $\leq300000$, 0 $\leq K$, T $\leq20$, 1 $\leq Z \leq$
+1000000000). Each of the following K lines contains coordinates of a cell with a trap: X, Y (0 $\leq X \leq N$,
+0 $\leq Y \leq M$). It’s guaranteed that all traps situated in different cells and there is no trap in cells (0, 0)
 and (N, M).
 Output
 Print one number – the answer.
@@ -163,8 +163,8 @@ order he is going to put those stones on the scale and on which side each stone 
 You have to determine the state of scale after each stone is added. Jack doesn’t tell the exact weights of
 those stones.
 Input
-The first line contains integer number N (1 $\leqN \leq100000$).
-Each of the next N lines contains two integer numbers: R (1 $\leqR \leqN$) and S (1 $\leqS \leq2$). R is the
+The first line contains integer number N (1 $\leq N \leq100000$).
+Each of the next N lines contains two integer numbers: R (1 $\leq R \leq N$) and S (1 $\leq S \leq2$). R is the
 rank of the next stone which is put on side S. All R’s will be distinct.
 Output
 Output N lines — one for each added stone. If after adding the corresponding stone side 1 is heavier,
@@ -202,7 +202,7 @@ You are given an increasing sequence of positive integers 1, 2, 4, 5, 7, 9, 10, 
 taking one odd integer, then two even integers, then three odd integers and so on. Output N-th element
 of this sequence.
 Input
-One positive integer N (1 $\leqN \leq10100$).
+One positive integer N (1 $\leq N \leq10100$).
 Output
 Output one integer N-th element of the sequence.
 Examples
@@ -237,8 +237,8 @@ or not. The third one can build one floor in each of three consecutive skyscrape
 You can build the floors in any order you want. Calculate the minimal possible total amount of money
 needed to finish the construction.
 Input
-The first line contains integer number N (1 $\leqN \leq300$). The second line contains space separated N
-integer numbers, h[1], h[2], ..., h[N], 1 $\leqh[i] \leq200$.
+The first line contains integer number N (1 $\leq N \leq300$). The second line contains space separated N
+integer numbers, h[1], h[2], ..., h[N], 1 $\leq h[i] \leq200$.
 Output
 Output one integer number: the amount of money, in Millions.
 Examples
@@ -273,7 +273,7 @@ particles to the right of that place are increased by 1. After a number of expos
 know, which particle is on place k. Write program, which will help them.
 Input
 The first line of the input file contains two integer numeber: n — number of particles and m — total
-number of exposures and queries (1 $\leqn \leq1000000$, 1 $\leqm \leq15000$).
+number of exposures and queries (1 $\leq n \leq1000000$, 1 $\leq m \leq15000$).
 In the second line there is a sequence of characters x, y and z of length n. Each of the next m lines
 contains exposure or query description. Line, containing an exposure, starts with character a and space
 and contains two integer number from interval [1; n]. First number is start position of the particle during
@@ -311,7 +311,7 @@ Le stelle sono rappresentate da punti su
 it. In questo momento Zhomart si è interessato alla domanda: quanti diversi triangoli rettangolari le cui gambe sono
 parallelo agli assi, si può creare con l'aiuto delle stelle nel cielo.
 Input
-Nella prima riga della linea di input viene dato N  il numero di stelle nel cielo (3 $\leqN \leq300000$).
+Nella prima riga della linea di input viene dato N  il numero di stelle nel cielo (3 $\leq N \leq300000$).
 Each of the next N lines contains integer X and Y (|X, Y | $\leq109$) –– coordinates of the appropriate star.
 Prodotto
 Stampa un numero  la risposta alla domanda.
@@ -348,9 +348,9 @@ Informazioni dettagliate:
 - nessuna
 C'è una matrice 4 dimensionali X, ogni indice del quale è in intervallo da 1 a N. Il tuo compito è costruire
 nuova matrice a 4 dimensioni Y , i cui elementi possono essere calcolati utilizzando la seguente formula: Y [i1, i2, i3, i4] =
-min(X[j1, j2, j3, j4]), dove viene data 1 $\leqik \leqN -M$ + 1, ik $\leqjk \leqik$ + M $-1$, e M.
+min(X[j1, j2, j3, j4]), dove viene data 1 $\leq ik \leq N -M$ + 1, ik $\leq jk \leq ik$ + M $-1$, e M.
 Input
-La prima riga del file di input contiene N e M (1 $\leqM \leqN$). Le seguenti righe del file di input contengono elementi
+La prima riga del file di input contiene N e M (1 $\leq M \leq N$). Le seguenti righe del file di input contengono elementi
 di array X. Il numero di elementi non sarà superiore a 1500000 e gli elementi saranno numeri interi non
 superiore a 109 per valore assoluto. Sono dati in un ordine tale che l'array possa essere letta utilizzando il seguente
 pseudocodi:
@@ -397,9 +397,9 @@ Se arrivi a una di queste trappole, si mostrerà. La tartaruga ha la forza di st
 Calcola quanti modi diversi la tartaruga può raggiungere la cellula (N, M). Poiché questo numero può essere molto
 grande, esulse il resto della sua divisione per Z.
 Input
-La prima riga contiene 5 integri N, M, K, T e Z (1 $\leqN$, M $\leq300000$, 0 $\leqK$, T $\leq20$, 1 $\leqZ \leq$
-1000000000). Ogni linea K seguente contiene le coordinate di una cella con una trappola: X, Y (0 $\leqX \leqN$,
-0 $\leqY \leqM$). È garantito che tutte le trappole si trovino in cellule diverse e che non vi sia alcuna trappola nelle cellule (0, 0)
+La prima riga contiene 5 integri N, M, K, T e Z (1 $\leq N$, M $\leq300000$, 0 $\leq K$, T $\leq20$, 1 $\leq Z \leq$
+1000000000). Ogni linea K seguente contiene le coordinate di una cella con una trappola: X, Y (0 $\leq X \leq N$,
+0 $\leq Y \leq M$). È garantito che tutte le trappole si trovino in cellule diverse e che non vi sia alcuna trappola nelle cellule (0, 0)
 e (N, M).
 Prodotto
 Stampa un numero  la risposta.
@@ -435,8 +435,8 @@ Ordina che metterà quelle pietre sulla bilancia e su quale lato si trova ogni p
 Devi determinare lo stato di scala dopo che ogni pietra viene aggiunta. Jack non dice i pesi esatti di
 quelle pietre.
 Input
-La prima riga contiene il numero intero N (1 $\leqN \leq100000$).
-Ciascuna delle seguenti linee N contiene due numeri interi: R (1 $\leqR \leqN$) e S (1 $\leqS \leq2$). R è il
+La prima riga contiene il numero intero N (1 $\leq N \leq100000$).
+Ciascuna delle seguenti linee N contiene due numeri interi: R (1 $\leq R \leq N$) e S (1 $\leq S \leq2$). R è il
 il grado della pietra successiva che viene posta sul lato S. Tutte le R saranno distinte.
 Prodotto
 Sotto forma di N linee  una per ogni pietra aggiunta. Se dopo l'aggiunta del lato 1 della pietra corrispondente è più pesante,
@@ -474,7 +474,7 @@ Vi viene data una sequenza crescente di numeri interi positivi 1, 2, 4, 5, 7, 9,
 Prendendo un intero parziale, poi due numeri interi pari, poi tre numeri interi parziali e così via. Elemento N-esito
 di questa sequenza.
 Input
-Un intero positivo N (1 $\leqN \leq10100$).
+Un intero positivo N (1 $\leq N \leq10100$).
 Prodotto
 Esporta un numero intero N-esimo elemento della sequenza.
 Esempi
@@ -509,8 +509,8 @@ I grattacieli per 3 milioni di euro. L'altro propone di costruire un piano in ci
 Puoi costruire i pavimenti in qualsiasi ordine. Calcolare la somma totale minima possibile di denaro
 doveva finire la costruzione.
 Input
-La prima riga contiene il numero intero N (1 $\leqN \leq300$). La seconda linea contiene spazio separato N
-numeri interi, h[1], h[2], ..., h[N], 1 $\leqh[i] \leq200$.
+La prima riga contiene il numero intero N (1 $\leq N \leq300$). La seconda linea contiene spazio separato N
+numeri interi, h[1], h[2], ..., h[N], 1 $\leq h[i] \leq200$.
 Prodotto
 Esci un numero intero: la somma di denaro, in milioni.
 Esempi
@@ -545,7 +545,7 @@ le particelle a destra di quel luogo sono aumentate di 1. Dopo un certo numero d
 Sapete, quale particella è sul posto K. Scrivi un programma che li aiuterà.
 Input
 La prima riga del file di input contiene due numeri interi: n  numero di particelle e m  totale
-numero di esposizioni e domande (1 $\leqn \leq1000000$, 1 $\leqm \leq15000$).
+numero di esposizioni e domande (1 $\leq n \leq1000000$, 1 $\leq m \leq15000$).
 Nella seconda riga c'è una sequenza di caratteri x, y e z di lunghezza n. Ciascuna delle seguenti linee m
 contiene una descrizione dell'esposizione o della richiesta. Linea, contenente un'esposizione, inizia con il carattere a e lo spazio
 e contiene due numeri interi dall'intervallo [1; n]. Il primo numero è la posizione di partenza della particella durante il

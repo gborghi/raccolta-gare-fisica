@@ -250,10 +250,10 @@ c. respiration, net photosynthesis and gross photosynthesis.
 d. net photosynthesis, gross photosynthesis and carnivory.
 
 12. (1 point) A cell is fully turgid when:
-(i) $\Psiw$ = 0
-(ii) $\Psip$ = 0
-(iii) $\Psip$ = $\Psis$
-(iv) $\Psiw$ = $\Psis$
+(i) $\Psi w$ = 0
+(ii) $\Psi p$ = 0
+(iii) $\Psi p$ = $\Psi s$
+(iv) $\Psi w$ = $\Psi s$
 a. Only (i) is correct
 b. Only (ii) is correct
 c. Both (i) and (iii) are correct
@@ -309,7 +309,7 @@ enzymes $\to$ digestion of substrate by enzymes
 3. Synthesis of hydrolytic enzymes $\to$ absorption of substrate molecules into
 cell $\to$ digestion of substrate by enzymes.
 4. Synthesis of hydrolytic enzymes $\to$ absorption of substrate molecules into
-cell in small vesicles $\tomovement$ of enzymes into vesicles $\to$ digestion of
+cell in small vesicles $\to movement$ of enzymes into vesicles $\to$ digestion of
 substrate by enzymes
 a. 1
 b. 2

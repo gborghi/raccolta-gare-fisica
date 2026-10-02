@@ -154,7 +154,7 @@ Questão 3 (25 pontos).
 Um anel fino e supercondutor (resistência nula) é posicionado acima de uma barra cilíndrica
 magnetizada como visto na figura abaixo. O eixo de simetria do anel é o mesmo da barra
 cilíndrica. O campo magnético na região do anel pode ser descrito aproximadamente em termos
-de um campo magnético vertical BZ = B0 (1- $\alpha$ z), e radial Br = $B0\cdot\beta\cdotr$, onde B0, $\alpha$, e $\beta$, são
+de um campo magnético vertical BZ = B0 (1- $\alpha$ z), e radial Br = $B0\cdot\beta\cdot r$, onde B0, $\alpha$, e $\beta$, são
 constantes e valem 0,01 T, 2 m-1 , e 32 m-1 , respectivamente. Inicialmente não há nenhuma
 corrente fluindo no anel, e quando o mesmo é solto inicia se um movimento de queda devido à
 gravidade, sem perder o eixo de simetria. Considerando que o anel tem massa de 50 mg, raio de
@@ -190,7 +190,7 @@ Domanda 3 (25 punti).
 Un anello superconduttore e sottile (zero resistenza) è posizionato sopra una barra cilindrica
 magnetizzato come si vede nella figura seguente. L'asse di simmetria dell'anello è lo stesso della barra
 cilindrica. Il campo magnetico nella regione dell'anello può essere descritto in termini
-di un campo magnetico verticale BZ = B0 (1- $\alpha$ z), e radiale Br = $B0\cdot\beta\cdotr$, dove B0, $\alpha$, e $\beta$, sono
+di un campo magnetico verticale BZ = B0 (1- $\alpha$ z), e radiale Br = $B0\cdot\beta\cdot r$, dove B0, $\alpha$, e $\beta$, sono
 le variazioni di valore di 0,01 T, 2 m-1 e 32 m-1, rispettivamente. Inizialmente non c'è nessuna
 corrente che scorre nell'anello, e quando lo stesso è rilasciato inizia un movimento di caduta a causa di
 gravità, senza perdere l'asse di simmetria. Considerando che l'anello ha una massa di 50 mg,
@@ -225,7 +225,7 @@ Question 3 (25 points).
 A thin, superconducting ring (zero resistance) is positioned above a cylindrical bar
 magnetized as shown in Figure 1. The symmetry axis of the ring is the same as the bar
 The cylinder. The magnetic field in the ring region can be described approximately in terms of
-of a vertical magnetic field BZ = B0 (1- $\alpha$ z), and radial Br = $B0\cdot\beta\cdotr$, where B0, $\alpha$, and $\beta$ are
+of a vertical magnetic field BZ = B0 (1- $\alpha$ z), and radial Br = $B0\cdot\beta\cdot r$, where B0, $\alpha$, and $\beta$ are
 The values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the first of the first are are are are, respectively, are: At first there is none
 current flowing in the ring, and when the same is released it starts if a falling motion due to
 gravity, without losing the symmetry axis. Considering that the ring has a mass of 50 mg,

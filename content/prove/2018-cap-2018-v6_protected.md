@@ -591,7 +591,7 @@ La pompa mostrata di seguito è utilizzata per gonfiare una palla ed è costitui
 
 Nota: la valvola a senso unico garantisce che $P_{\text{inflow}} \leq P_{\text{outflow}}$.
 
-Qual è la figura seguente che rappresenta meglio il diagramma $P$$V$ dell'aria nella pompa mentre la palla viene gonfiata?
+Qual è la figura seguente che rappresenta meglio il diagramma $P$–$V$ dell'aria nella pompa mentre la palla viene gonfiata?
 
 (A) (B) (C) (D)
 

@@ -364,7 +364,7 @@ on the order axis.
 
 
 
-7) Sabiendo que r = 9,50 0,05 cm, N = 185 espiras y 0 = 4 10-7 $N\cdotA-2$, halle el valor de la componente
+7) Sabiendo que r = 9,50 0,05 cm, N = 185 espiras y 0 = 4 10-7 $N\cdot A-2$, halle el valor de la componente
 horizontal del campo magnético, BH , en el lugar donde se han tomado las medidas.
 
 **Topic:** [[Magnetism]]
@@ -376,7 +376,7 @@ horizontal del campo magnético, BH , en el lugar donde se han tomado las medida
 
 <div class="qlang-split" data-lang="it"></div>
 
-7) Sapendo che r = 9,50 0,05 cm, N = 185 spirale e 0 = 4 10-7 $N\cdotA-2$, trova il valore del componente
+7) Sapendo che r = 9,50 0,05 cm, N = 185 spirale e 0 = 4 10-7 $N\cdot A-2$, trova il valore del componente
 L'aumento del campo magnetico, BH, è stato osservato sul punto di misurazione.
 
 **Topic:** [[Magnetism]]
@@ -387,7 +387,7 @@ L'aumento del campo magnetico, BH, è stato osservato sul punto di misurazione.
 
 <div class="qlang-split" data-lang="en"></div>
 
-7) Knowing that r = 9.50 0.05 cm, N = 185 spirals and 0 = 4 10-7 $N\cdotA-2$, find the value of the component
+7) Knowing that r = 9.50 0.05 cm, N = 185 spirals and 0 = 4 10-7 $N\cdot A-2$, find the value of the component
 horizontal magnetic field, BH, at the location where the measurements have been taken.
 
 **Topic:** [[Magnetism]]

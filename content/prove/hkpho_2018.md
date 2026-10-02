@@ -205,7 +205,7 @@ Una barra uniforme di lunghezza di 1 m è sostenuta a due punti ciascuno da un p
 
 <!--fig:start-->
 ![[HKPhO_2018_p4_f2.png]]
-*Opzioni di risposta (A)(E): traiettorie candidate nel piano $x$$y$.*
+*Opzioni di risposta (A)(E): traiettorie candidate nel piano $x$–$y$.*
 <!--fig:end-->
 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1fyzUg6M6suSjdVS1Qke7IfNCiISP7aBb/view)

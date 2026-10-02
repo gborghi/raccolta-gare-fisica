@@ -57,7 +57,7 @@ materiale gli elettroni di valenza. Se essi si trovano nel semiconduttore nello 
 minima che possono occupare, allora sono legati fortemente agli atomi e non si possono spostare
 facilmente nel materiale. A tale scopo, si devono prima trasferire ad un livello più alto per mezzo di
 un assorbimento di energia. Questo livello è la "banda di conduzione", comune a tutti gli atomi del
-semiconduttore. La differenza di energia $\DeltaE$ fra banda di valenza e banda di conduzione nei
+semiconduttore. La differenza di energia $\Delta E$ fra banda di valenza e banda di conduzione nei
 semiconduttori si chiama banda proibita 1.
 Un elettrone ha varie possibilità di assorbire l'energia necessaria per "saltare" la banda proibita.
 Tali sono, per esempio, l'assorbimento di un quanto di luce (effetto fotoelettrico) oppure – come
@@ -100,7 +100,7 @@ Misura di una resistenza NTC in funzione della temperatura.
 
 Rappresentazione grafica di tale relazione.
 
-Stima della banda proibita $\DeltaE$ dalla rappresentazione grafica e della resistenza R a
+Stima della banda proibita $\Delta E$ dalla rappresentazione grafica e della resistenza R a
 temperature molto alte.
 1 In relazione alle resistenze NTC, viene anche chiamata energia di attivazione.
 
@@ -213,7 +213,7 @@ Esperimento 1&2
 Nome:
 Pagina 5 di 8
 Compito 3:
-a) [2.5 P] Stimate la banda proibita $\DeltaE$ della resistenza NTC dal grafico ottenuto nel compito2.
+a) [2.5 P] Stimate la banda proibita $\Delta E$ della resistenza NTC dal grafico ottenuto nel compito2.
 Documentate la procedura. Esprimete l' energia in J ed in eV.
 a) [2.5 P] Stimate il valore della resistenza NTC per
 
@@ -357,7 +357,7 @@ Materiali per gli elettroni di Valenza. Se si trovano nel semiconduttore nello s
 Minime che possono occupare, quindi sono legati fortemente agli atomi e non possono spostarsi
 - E' facile e materiale. Un tale scopo, se devono prima trasferire ad un livello più alto per mezzo di
 Un assorbimento di energia. Questo livello è la "banda di conduzione", comune a tutti gli atomi del
-- Il semiconduttore. La differenza di energia $\DeltaE$ tra banda di valenza e banda di conduzione nei
+- Il semiconduttore. La differenza di energia $\Delta E$ tra banda di valenza e banda di conduzione nei
 Semiconduttori si chiama banda proibita 1.
 Un elettrone ha varie possibilità di assorbire l'energia necessaria per "saltare" la banda proibita.
 Tali sono, ad esempio, l'assorbimento di un quanto di luce (effetto fotoelettrico) oppure
@@ -400,7 +400,7 @@ Misura di una resistenza NTC in funzione della temperatura.
 
 Rappresentazione grafica di tale relazione.
 
-Stima della banda proibita $\DeltaE$ dalla rappresentazione grafica e della resistenza R a
+Stima della banda proibita $\Delta E$ dalla rappresentazione grafica e della resistenza R a
 Temperatura molto alta.
 1 In relazione alle resistenze NTC, viene anche chiamata energia di attivazione.
 
@@ -513,7 +513,7 @@ Esperimento 1&2
 Nome:
 Pagina 5 di 8
 Compito 3:
-a) [2.5 P] Stimare la banda proibita $\DeltaE$ della resistenza NTC dal grafico ottenuto nel compito2.
+a) [2.5 P] Stimare la banda proibita $\Delta E$ della resistenza NTC dal grafico ottenuto nel compito2.
 Documentazione della procedura. Esprimere l' energia in J ed in eV.
 a) [2,5 P] Stimare il valore della resistenza NTC per
 

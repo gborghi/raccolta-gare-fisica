@@ -60,13 +60,13 @@ elettrico nello spazio compreso tra le due piastre. Si assuma che la densità de
 di carica elettrica rimanga pressoché costante lungo tutto il tubo.
 Si assuma che, a causa del campo elettrico E, sia gli elettroni (indicati dal pedice e) sia gli ioni
 (indicati dal pedice i) acquisiscano una velocità v dello stesso ordine di grandezza, pari a
-$v=\betaE$
+$v=\beta E$
 dove $\beta$ è una costante chiamata mobilità della carica elettrica.
 A3
 Esprimere la corrente elettrica Iche scorre nel tubo in funzione di U ,b, L, S,Zext ,r ed e dove
 quest'ultima è la carica elementare. (1.7 punti)
 A4
-Trovare la resistività $\rhogas$ del gas per valori sufficientemente piccoli della tensione elettrica applicata
+Trovare la resistività $\rho gas$ del gas per valori sufficientemente piccoli della tensione elettrica applicata
 
 Theoretical competition. Tuesday, 15 July 2014 2/3
 ed esprimerla in funzione di b, L,Zext ,r ed e. (0.7 punti)
@@ -180,13 +180,13 @@ electrical in the space between the two plates. It is assumed that the density o
 The electrical load remains almost constant throughout the tube.
 It is assumed that, due to the electric field E, both electrons (indicated by the e-pole) and ions
 (indicated by footnote i) gain a speed v of the same order of magnitude, equal to
-$v=\betaE$
+$v=\beta E$
 where $\beta$ is a constant called the electrical charge mobility.
 A3
 Express the electric current flowing through the tube as a function of U,b,L,S,Zext,r and where
 The latter is the elementary charge. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
 A4
-Find the resistivity $\rhogas$ of the gas for sufficiently small values of the applied electrical voltage
+Find the resistivity $\rho gas$ of the gas for sufficiently small values of the applied electrical voltage
 
 Theoretical competition. The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
 And then we can express it as a function of b, L, Zext, r and e. (0.7 points)

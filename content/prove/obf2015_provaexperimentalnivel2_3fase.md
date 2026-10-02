@@ -311,11 +311,11 @@ Quando obtemos qualquer medida experimental, sempre teremos o envolvimento do er
 da medida. Ao realizarmos cálculo com essas medidas terá uma propagação destes erros e o
 resultado também deve ser representado com um erro.
 
-Se tivermos duas medidas do tipo, x $\pm \Deltax$, e y $\pm \Deltay$, e realizarmos uma operação
-matemática qualquer, o resultante f(x,y) também terá um erro $\Deltaf(x,y$). O valor do erro $\Deltaf(x,y$)
+Se tivermos duas medidas do tipo, x $\pm \Delta x$, e y $\pm \Delta y$, e realizarmos uma operação
+matemática qualquer, o resultante f(x,y) também terá um erro $\Delta f(x,y$). O valor do erro $\Delta f(x,y$)
 pode ser obtido pela equação:
 
-$\Deltaf(x,y$) = [ $(\deltaf$ / $\deltax)2 (\Deltax)2$ + $(\deltaf$ / $\deltay)2 (\Deltay)2$ ]1/2
+$\Delta f(x,y$) = [ $(\delta f$ / $\delta x)2 (\Delta x)2$ + $(\delta f$ / $\delta y)2 (\Delta y)2$ ]1/2
 Para um cálculo rápido e simplificado, apresentamos a seguir uma lista de fórmulas para
 operações mais comuns:
 
@@ -337,11 +337,11 @@ Quando si ottiene una misura sperimentale, si avrà sempre l'impegno di errore.
 della misura. Quando si calcola con queste misure si avrà una diffusione di questi errori e la
 Il risultato deve essere rappresentato con un errore.
 
-Se abbiamo due misure del tipo, x $\pm \Deltax$, e y $\pm \Deltay$, e facciamo un'operazione
-Qualsiasi matematica, il risultante f(x,y) avrà anche un errore $\Deltaf(x,y$). Il valore di errore $\Deltaf(x,y$)
+Se abbiamo due misure del tipo, x $\pm \Delta x$, e y $\pm \Delta y$, e facciamo un'operazione
+Qualsiasi matematica, il risultante f(x,y) avrà anche un errore $\Delta f(x,y$). Il valore di errore $\Delta f(x,y$)
 può essere ottenuto dall'equazione:
 
-$\Deltaf(x,y$) = [ $(\deltaf$ / $\deltax)2 (\Deltax)2$ + $(\deltaf$ / $\deltay)2 (\Deltay)2$ ]1/2
+$\Delta f(x,y$) = [ $(\delta f$ / $\delta x)2 (\Delta x)2$ + $(\delta f$ / $\delta y)2 (\Delta y)2$ ]1/2
 Per un calcolo rapido e semplice, vi presentiamo una lista di formule per
 operazioni più comuni:
 
@@ -362,11 +362,11 @@ When we get any experimental measurement, we'll always have the error involved.
 of the measure. The Commission has already taken a number of measures to ensure that the
 The result must also be represented by an error.
 
-If we have two measurements of the type, x $\pm \Deltax$, and y $\pm \Deltay$, and we do an operation
-In any mathematics, the resulting f(x,y) will also have an error $\Deltaf(x,y$). The error value $\Deltaf(x,y$)
+If we have two measurements of the type, x $\pm \Delta x$, and y $\pm \Delta y$, and we do an operation
+In any mathematics, the resulting f(x,y) will also have an error $\Delta f(x,y$). The error value $\Delta f(x,y$)
 can be obtained by equation:
 
-$\Deltaf(x,y$) = [ $(\deltaf$ / $\deltax)2 (\Deltax)2$ + $(\deltaf$ / $\deltay)2 (\Deltay)2$ ]1/2
+$\Delta f(x,y$) = [ $(\delta f$ / $\delta x)2 (\Delta x)2$ + $(\delta f$ / $\delta y)2 (\Delta y)2$ ]1/2
 For a quick and simple calculation, we present below a list of formulae for
 most common operations:
 

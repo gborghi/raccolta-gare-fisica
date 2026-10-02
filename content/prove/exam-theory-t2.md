@@ -94,14 +94,14 @@ x/R
 y/R
 z/R
 Q
-$\lambda$ = $\lambda0$ + u cos $\Omegat$
+$\lambda$ = $\lambda0$ + u cos $\Omega t$
 $\lambda0$ u
 $\Omega$
- ̈z = (+k2 + $a\Omega2$ cos $\Omegat)z$
+ ̈z = (+k2 + $a\Omega2$ cos $\Omega t)z$
 a
 k
-a $\ll1 \Omega \ggk$
-$a\Omega2 \ggk2$
+a $\ll1 \Omega \gg k$
+$a\Omega2 \gg k2$
 z(t) = p(t) + q(t)
 p(t)
 q(t)
@@ -203,27 +203,27 @@ equal to the frequency of the incident photon, but it is emitted with equal prob
 positive or negative -direction. In fact, up to the order considered here the two frequencies are
 identical. Note that we are considering the whole process in the atom’s reference frame.
 m
-E0 = $\hbar\omegaA$
+E0 = $\hbar\omega A$
 $\tau$
-$[\omegaA -\Gamma$, $\omegaA$ + $\Gamma]$
+$[\omega A -\Gamma$, $\omega A$ + $\Gamma]$
 $\Gamma$
-$\omegaL$
-$[\omegaA -\Gamma$, $\omegaA$ + $\Gamma]$
-$\omegaL$
-$\omegaA$
+$\omega L$
+$[\omega A -\Gamma$, $\omega A$ + $\Gamma]$
+$\omega L$
+$\omega A$
 x
 v
 v/c
-m $\ggħ\omegaA/c2$
-$\omegaA -\omegaL$
+m $\ggħ\omega A/c2$
+$\omega A -\omega L$
 s
-$s(\omega$) = sL + $\alpha(\omega -\omegaL$)
+$s(\omega$) = sL + $\alpha(\omega -\omega L$)
 s
 sL
 s
-$\omega$ = $\omegaL$
+$\omega$ = $\omega L$
 $\alpha$
-$\omegaL$
+$\omega L$
 x
 Points: 30
 Time: 5.0 Hours
@@ -262,17 +262,17 @@ B-3
 Considering the momentum of the atom after such a process for the two
 possible outcomes, calculate the average power absorbed by the atom.
 1.0 pt
-$\omegaA$
-$\omegaL$
+$\omega A$
+$\omega L$
 v = vx
 s+
 $s-$
 $\pi+$
 $\pi-$
-v kL = $\omegaL/c$
+v kL = $\omega L/c$
 ħ
 $\alpha$
-sL $\ll\alpha\omegaL$
+sL $\ll\alpha\omega L$
 $\tau$
 Points: 30
 Time: 5.0 Hours
@@ -386,14 +386,14 @@ x/R
 y/R
 z/R
 Q
-$\lambda$ = $\lambda0$ + u cos $\Omegat$
+$\lambda$ = $\lambda0$ + u cos $\Omega t$
 $\lambda0$ u
 $\Omega$
- ̈z = (+k2 + $a\Omega2$ cos $\Omegat)z$
+ ̈z = (+k2 + $a\Omega2$ cos $\Omega t)z$
 a
 k
-a $\ll1 \Omega \ggk$
-$a\Omega2 \ggk2$
+a $\ll1 \Omega \gg k$
+$a\Omega2 \gg k2$
 z(t) = p(t) + q(t)
 p(t)
 q(t)
@@ -495,27 +495,27 @@ equal to the frequency of the incident photon, but it is emitted with equal prob
 Positive or negative direction. In fact, up to the order considered here the two frequencies are
 It's identical. Note that we are considering the whole process in the atoms reference frame.
 m
-E0 = $\hbar\omegaA$
+E0 = $\hbar\omega A$
 $\tau$
-$[\omegaA -\Gamma$, $\omegaA$ + $\Gamma]$
+$[\omega A -\Gamma$, $\omega A$ + $\Gamma]$
 $\Gamma$
-$\omegaL$
-$[\omegaA -\Gamma$, $\omegaA$ + $\Gamma]$
-$\omegaL$
-$\omegaA$
+$\omega L$
+$[\omega A -\Gamma$, $\omega A$ + $\Gamma]$
+$\omega L$
+$\omega A$
 x
 v
 v/c
-m $\ggħ\omegaA/c2$
-$\omegaA -\omegaL$
+m $\ggħ\omega A/c2$
+$\omega A -\omega L$
 s
-$s(\omega$) = sL + $\alpha(\omega -\omegaL$)
+$s(\omega$) = sL + $\alpha(\omega -\omega L$)
 s
 sL
 s
-$\omega$ = $\omegaL$
+$\omega$ = $\omega L$
 $\alpha$
-$\omegaL$
+$\omega L$
 x
 The score: 30
 Time: 5.0 hours
@@ -554,17 +554,17 @@ B-3
 Considering the momentum of the atom after such a process for the two
 The average power absorbed by the atom.
 1.0 pt
-$\omegaA$
-$\omegaL$
+$\omega A$
+$\omega L$
 v = vx
 s+
 $s-$
 $\pi+$
 $\pi-$
-v kL = $\omegaL/c$
+v kL = $\omega L/c$
 ħ
 $\alpha$
-sL $\ll\alpha\omegaL$
+sL $\ll\alpha\omega L$
 $\tau$
 The score: 30
 Time: 5.0 hours

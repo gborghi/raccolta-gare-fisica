@@ -622,7 +622,7 @@ This work will change gravitational potential energy of A by Egrav, and kinetic 
 following equation.
 Fexta= Egrav+ Ekin
 Since Fext is just more than the static frictional force, we take the limiting case of Ekin = 0, when Fext= μMg.
-4.6 Determine (i) increase in height $\Deltaz$ of atom P as it moves from x= 0 to x= a; and
+4.6 Determine (i) increase in height $\Delta z$ of atom P as it moves from x= 0 to x= a; and
  (ii) μ in terms of rAB and a showing all steps clearly.
 
 ii) Morse Model- We include Morse interactions (potential energy) between atom P and B atoms such that
@@ -660,9 +660,9 @@ Indian National Chemistry Olympiad 2024
 The difference in equilibrium position δr= $r-re$ due to the gravitational force is much smaller compared to
 re. Thus, we can take
 $e-α(r-re$) $\approx1 -α(r-re$),
-i.e. VMorse(r) $\approxDα2(r-re)2$, and
+i.e. VMorse(r) $\approx Dα2(r-re)2$, and
 z(0)
-r(0) $\approxzeq$
+r(0) $\approx zeq$
 re
 
 where zeq is the value of z without gravitational effects.

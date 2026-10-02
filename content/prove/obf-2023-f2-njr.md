@@ -421,7 +421,7 @@ que é usada para elevar uma carga muito mais
 pesada (com peso maior que FA) que é colocada
 na plataforma B.
 Sabendo que os cilindros acoplados aos pistões A e B têm, respectivamente, raios rA = 10,0 cm
-e rB = 60,0 cm, determine a variação de altura $\Deltah$ da plataforma B, em cm, quando o cilindro
+e rB = 60,0 cm, determine a variação de altura $\Delta h$ da plataforma B, em cm, quando o cilindro
 A baixa de 45,0 cm.
 (O óleo pode ser considerado uma substância incompressível, isto é, tem densidade constante.)
 4
@@ -452,7 +452,7 @@ che viene usata per sollevare un carico molto più alto
 pesante (più di FA) che viene inserita
 sulla piattaforma B.
 Sapendo che i cilindri con pistoni A e B hanno rispettivamente raggi rA = 10,0 cm
-e rB = 60,0 cm, determina la variazione di altezza $\Deltah$ della piattaforma B, in cm, quando il cilindro
+e rB = 60,0 cm, determina la variazione di altezza $\Delta h$ della piattaforma B, in cm, quando il cilindro
 Il basso di 45 centimetri.
 (L'olio può essere considerato una sostanza incompressibile, cioè ha una densità costante.)
 4
@@ -482,7 +482,7 @@ It's used to lift a lot more weight.
 heavy (greater than FA) that is placed
 on platform B.
 Whereas the cylinders connected to the pistons A and B have radii rA = 10,0 cm respectively
-and rB = 60,0 cm, determine the height change $\Deltah$ of platform B in cm when the cylinder is
+and rB = 60,0 cm, determine the height change $\Delta h$ of platform B in cm when the cylinder is
 The low of 15.5 centimeters.
 (Oil can be considered an incompressible substance, that is, it has a constant density.)
 4

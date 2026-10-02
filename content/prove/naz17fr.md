@@ -120,14 +120,14 @@ Espressione di K
 K =
 3
 Valore teorico della riga 3 $\to2$ e variazione percentuale.
-Espressione: $\lambdath$ =
-Valore num.: $\lambdath$ =
+Espressione: $\lambda th$ =
+Valore num.: $\lambda th$ =
 Espressione: $|\eta|$ =
 Valore num.: $|\eta|$ =
 4
 Valore teorico e variazione percentuale con massa ridotta
-Espressione: $\lambdaH$ =
-Valore num.: $\lambdaH$ =
+Espressione: $\lambda H$ =
+Valore num.: $\lambda H$ =
 Espressione: $|\eta'|$ =
 Valore num.: $|\eta'|$ =
 5
@@ -168,14 +168,14 @@ Expression of K
 K =
 3
 Theoretical value of line 3 $\to2$ and percentage change.
-Espressione: $\lambdath$ =
-Valore num.: $\lambdath$ =
+Espressione: $\lambda th$ =
+Valore num.: $\lambda th$ =
 Espressione: $|\eta|$ =
 Valore num.: $|\eta|$ =
 4
 Theoretical value and percentage change with reduced mass
-Espressione: $\lambdaH$ =
-Valore num.: $\lambdaH$ =
+Espressione: $\lambda H$ =
+Valore num.: $\lambda H$ =
 Espressione: $|\eta'|$ =
 Valore num.: $|\eta'|$ =
 5
@@ -223,7 +223,7 @@ Espressione della massa M
 M =
 4
 Raggio angolare massimo dell’anello
-$\thetamax$ =
+$\theta max$ =
 5
 Minima distanza della galassia-lente
 dA >
@@ -259,7 +259,7 @@ Expression of mass M
 M =
 4
 Maximum angular radius of the ring
-$\thetamax$ =
+$\theta max$ =
 5
 Minimum distance of the galaxy-lens
 dA >

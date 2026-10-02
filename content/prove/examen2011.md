@@ -33,7 +33,7 @@ satélite;
 
 $G=6’67\cdot10$
 Datos:
--11 $N\cdotm2/Kg2$
+-11 $N\cdot m2/Kg2$
 $M=5’98\cdot10$
 
 24
@@ -63,7 +63,7 @@ c) velocità lineare del satellite in orbita.
 
 $G=6’67\cdot10$
 Dati:
--11 $N\cdotm2/Kg2$
+-11 $N\cdot m2/Kg2$
 $M=5’98\cdot10$
 
 24
@@ -92,7 +92,7 @@ the satellite;
 
 $G=6’67\cdot10$
 The data:
--11 $N\cdotm2/Kg2$
+-11 $N\cdot m2/Kg2$
 $M=5’98\cdot10$
 
 24
@@ -161,7 +161,7 @@ se mueve a $2\cdot105$ m/s en dirección paralela al hilo y en el mismo sentido 
 corriente. ¿Qué ocurriría si la velocidad fuera perpendicular al hilo y estuviera
 dirigida hacia él?
 
-Datos: Permeabilidad magnética del vacío: $\mu0$ = $4\pi\cdot10-7 N\cdotA-2$
+Datos: Permeabilidad magnética del vacío: $\mu0$ = $4\pi\cdot10-7 N\cdot A-2$
 
 EJERCICIO DE CUESTIONES
 Cuestiones :
@@ -281,7 +281,7 @@ si muove a $2\cdot105$ m/s in direzione parallela al filo e nella stessa direzio
 corrente. Che cosa accadrebbe se la velocità fosse perpendicolare al filo e fosse
 diretto verso di lui?
 
-Dati: Permeabilità magnetica del vuoto: $\mu0$ = $4\pi\cdot10-7 N\cdotA-2$
+Dati: Permeabilità magnetica del vuoto: $\mu0$ = $4\pi\cdot10-7 N\cdot A-2$
 
 L'esercizio delle domande
 Questioni:
@@ -400,7 +400,7 @@ moves at $2\cdot105$ m/s in a direction parallel to the thread and in the same d
 current. What would happen if the velocity was perpendicular to the thread and it was
 directed at him?
 
-Datos: Permeabilidad magnética del vacío: $\mu0$ = $4\pi\cdot10-7 N\cdotA-2$
+Datos: Permeabilidad magnética del vacío: $\mu0$ = $4\pi\cdot10-7 N\cdot A-2$
 
 The Court of Justice
 Questions:

@@ -70,29 +70,29 @@ $u(\lambda$, $T)d\lambda$
 T
 $\lambda$
 $\lambda$ + $d\lambda$
-$u(\lambda$, T) = $2\pihc2$
+$u(\lambda$, T) = $2\pi hc2$
 $\lambda5$
 1
 exp(
 hc
-$\lambdakBT$ ) $-1$
-hc = 1. 24 $\times$ 103 eV $\cdotnm$
+$\lambda kBT$ ) $-1$
+hc = 1. 24 $\times$ 103 eV $\cdot nm$
 kB = 8. 62 $\times 10-5$  eV /K
 $u(\lambda$, T)
-$\lambdamaxT$ = b
+$\lambda maxT$ = b
 b =
 hc
 xmkB
 xm
 f(x) = 0
 f(x)
-U(T) = $\sigmaT$ 4
+U(T) = $\sigma T$ 4
 $\sigma$ = 5. 67 $\times 10-8$ W/m2K4
 TS = 5. 77 $\times$ 103 K
 RS = 6. 96 $\times$ 108 m
 d = 1. 50 $\times$ 1011 m
-$ ̃uS(\lambda$)
-S0 = $\int ̃uS(\lambda)d\lambda$
+$\tilde{u}_S(\lambda)$
+S0 = $\tilde{\int}uS(\lambda)d\lambda$
 Points: 30
 Time: 5.0 Hours
 IPhO 2024
@@ -137,12 +137,12 @@ f(x)
 xm
 xm
 b
-$\lambdamax$
-$\gamma ̃uS(\lambda$)
+$\lambda max$
+$\tilde{\gamma}uS(\lambda$)
 $u(\lambda$, TE)
 $\lambda$
 $\gamma$
-$ ̃uS(\lambda$)
+$\tilde{u}_S(\lambda)$
 $\gamma$
 Points: 30
 Time: 5.0 Hours
@@ -170,9 +170,9 @@ Earth’s surface, on the other hand, re ects a fraction
 of the visible-ultraviolet radiation and
 absorbs the rest of this radiation and all the infrared radiation.
 $u(\lambda$, TE)
-$\gamma ̃uS(\lambda$)
+$\tilde{\gamma}uS(\lambda$)
 $\lambda$
-$\lambdamax$
+$\lambda max$
 rA = 0. 255
 $\epsilon$
 rE
@@ -355,29 +355,29 @@ $u(\lambda$, $T)d\lambda$
 T
 $\lambda$
 $\lambda$ + $d\lambda$
-$u(\lambda$, T) = $2\pihc2$
+$u(\lambda$, T) = $2\pi hc2$
 $\lambda5$
 1
 Ex:
 hc
-$\lambdakBT$ ) $-1$
-hc = 1. 24 $\times$ 103 eV $\cdotnm$
+$\lambda kBT$ ) $-1$
+hc = 1. 24 $\times$ 103 eV $\cdot nm$
 kB = 8. 62 $\times 10-5$  eV /K
 $u(\lambda$, T)
-$\lambdamaxT$ = b
+$\lambda maxT$ = b
 b =
 hc
 The following is the list of the countries of the European Union:
 xm
 f(x) = 0
 f(x)
-U(T) = $\sigmaT$ 4
+U(T) = $\sigma T$ 4
 $\sigma$ = 5. 67 $\times 10-8$ W/m2K4
 TS = 5. 77 $\times$ 103 K
 RS = 6. 96 $\times$ 108 m
 d = 1. 50 $\times$ 1011 m
-$ ̃uS(\lambda$)
-S0 = $\int ̃uS(\lambda)d\lambda$
+$\tilde{u}_S(\lambda)$
+S0 = $\tilde{\int}uS(\lambda)d\lambda$
 The score: 30
 Time: 5.0 hours
 The following information shall be provided:
@@ -422,12 +422,12 @@ f(x)
 xm
 xm
 b
-$\lambdamax$
-$\gamma ̃uS(\lambda$)
+$\lambda max$
+$\tilde{\gamma}uS(\lambda$)
 $u(\lambda$, TE)
 $\lambda$
 $\gamma$
-$ ̃uS(\lambda$)
+$\tilde{u}_S(\lambda)$
 $\gamma$
 The score: 30
 Time: 5.0 hours
@@ -455,9 +455,9 @@ Earths surface, on the other hand, re ects a fraction
 of the visible-ultraviolet radiation and
 absorbs the rest of this radiation and all the infrared radiation.
 $u(\lambda$, TE)
-$\gamma ̃uS(\lambda$)
+$\tilde{\gamma}uS(\lambda$)
 $\lambda$
-$\lambdamax$
+$\lambda max$
 rA = 0. 255
 $\epsilon$
 rE

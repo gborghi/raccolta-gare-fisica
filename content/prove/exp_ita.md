@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale
+title: IPhO 2014 — Sperimentale
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="exp_ita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica,object/screen"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2014 — Sperimentale — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica,object/screen"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -52,7 +54,7 @@ Find the direction of polarization (i.e. which of the two diagonals) of polarize
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica,object/screen"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2014 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica,object/screen"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -89,7 +91,7 @@ Find the possible directions for the optical axis of the plastic rack. Show thes
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2014 — Sperimentale — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -122,7 +124,7 @@ Determine approximately at what distance, first along the rectangle 1 and then a
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2014 — Sperimentale — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -155,7 +157,7 @@ Find the possible directions for the optical axis of the flexible plastic strip.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII na Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/elasticity-e-materials,argomento/meccanica,object/screen"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2014 — Sperimentale — Quesito 5" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/elasticity-e-materials,argomento/meccanica,object/screen"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -192,7 +194,7 @@ Measure the coordinates of the middle point of the two dark bands visible on the
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII na Sperimentale — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/electromagnetism,argomento/meccanica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="IPhO 2014 — Sperimentale — Quesito 6" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/electromagnetism,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -239,7 +241,7 @@ Find the possible directions for the optical axis of the LCC cell when the appli
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OII na Sperimentale — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/electromagnetism,argomento/meccanica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="IPhO 2014 — Sperimentale — Quesito 7" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/electromagnetism,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -272,7 +274,7 @@ Measure the $U_{cr}$ voltage at the cell head, for which a sudden $90°$ reorien
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OII na Sperimentale — Problema 8" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/meccanica,object/resistor,object/switch"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="IPhO 2014 — Sperimentale — Quesito 8" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/meccanica,object/resistor,object/switch"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -319,7 +321,7 @@ The following table shows the results of the calculation of the total number of 
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OII na Sperimentale — Problema 9" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/meccanica,object/resistor"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="IPhO 2014 — Sperimentale — Quesito 9" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -352,7 +354,7 @@ Measure the voltage to the resistor heads according to its resistance for two in
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="OII na Sperimentale — Problema 10" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/meccanica,object/resistor"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="IPhO 2014 — Sperimentale — Quesito 10" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -385,7 +387,7 @@ Measure the $U$ voltage at the resistor heads according to the number of filters
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="OII na Sperimentale — Problema 11" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="IPhO 2014 — Sperimentale — Quesito 11" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -418,7 +420,7 @@ Using the data obtained, calculate the transmission coefficient of the filter $\
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="OII na Sperimentale — Problema 12" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica,object/screen,object/slit"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="IPhO 2014 — Sperimentale — Quesito 12" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica,object/screen,object/slit"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -459,7 +461,7 @@ The light intensity in relative units shall be equal to the voltage to the resis
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="OII na Sperimentale — Problema 13" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="IPhO 2014 — Sperimentale — Quesito 13" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -502,7 +504,7 @@ Note that the formula (1) does not allow for a single determination of the phase
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="OII na Sperimentale — Problema 14" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="IPhO 2014 — Sperimentale — Quesito 14" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -539,7 +541,7 @@ calculate, for reels 1 and 2, the numerical values of the coefficients indicated
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="OII na Sperimentale — Problema 15" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="IPhO 2014 — Sperimentale — Quesito 15" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -572,7 +574,7 @@ Using the data obtained in parts 2.2.12.2.3, calculate the theoretical values of
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="OII na Sperimentale — Problema 16" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/electromagnetism,argomento/meccanica"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="IPhO 2014 — Sperimentale — Quesito 16" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/electromagnetism,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -609,7 +611,7 @@ Measure the intensity of the light transmitted by the electrical voltage to the 
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="OII na Sperimentale — Problema 17" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="IPhO 2014 — Sperimentale — Quesito 17" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -648,7 +650,7 @@ $$I_2 = k I_0 \sin^2\!\frac{\Delta\varphi}{2}$$
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="OII na Sperimentale — Problema 18" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/electromagnetism,argomento/meccanica"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="IPhO 2014 — Sperimentale — Quesito 18" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/electromagnetism,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -685,7 +687,7 @@ Using the data obtained, draw the graph to determine the range of applicability 
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="OII na Sperimentale — Problema 19" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/elasticity-e-materials,argomento/meccanica"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="IPhO 2014 — Sperimentale — Quesito 19" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/elasticity-e-materials,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -722,7 +724,7 @@ Measure the intensity of the light transmitted through the optical system, accor
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="OII na Sperimentale — Problema 20" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/elasticity-e-materials,argomento/meccanica"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="IPhO 2014 — Sperimentale — Quesito 20" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/elasticity-e-materials,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -755,7 +757,7 @@ Calculate the phase difference between the ordinary and the extraordinary light 
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="OII na Sperimentale — Problema 21" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/elasticity-e-materials,argomento/meccanica"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="IPhO 2014 — Sperimentale — Quesito 21" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/elasticity-e-materials,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

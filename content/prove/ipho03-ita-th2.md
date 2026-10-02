@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica — IPhO03 ITA TH2.pdf
+title: IPhO 2003 — Teorica — Problema 2
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="ipho03-ita-th2"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — IPhO03 ITA TH2.pdf — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/oscillations-e-waves,topic/elasticity-e-materials,topic/newtonian-mechanics,argomento/meccanica,object/rod,object/piston"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2003 — Teorica — Problema 2 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/oscillations-e-waves,topic/elasticity-e-materials,topic/newtonian-mechanics,argomento/meccanica,object/rod,object/piston"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -90,7 +92,7 @@ The test chemical shall be tested in accordance with the following conditions:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Teorica — IPhO03 ITA TH2.pdf — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/elasticity-e-materials,argomento/meccanica,object/rod"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2003 — Teorica — Problema 2 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/elasticity-e-materials,argomento/meccanica,object/rod"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -139,7 +141,7 @@ The following is the list of the types of transport services:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Teorica — IPhO03 ITA TH2.pdf — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/elasticity-e-materials,argomento/meccanica,object/switch"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2003 — Teorica — Problema 2 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/elasticity-e-materials,argomento/meccanica,object/switch"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -220,7 +222,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Teorica — IPhO03 ITA TH2.pdf — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/elasticity-e-materials,argomento/meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2003 — Teorica — Problema 2 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/elasticity-e-materials,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -251,7 +253,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII na Teorica — IPhO03 ITA TH2.pdf — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/electromagnetism,argomento/meccanica,object/switch"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2003 — Teorica — Problema 2 — Quesito 5" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/electromagnetism,argomento/meccanica,object/switch"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -314,7 +316,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of th
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII na Teorica — IPhO03 ITA TH2.pdf — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/oscillations-e-waves,topic/electromagnetism,topic/electrostatics,argomento/meccanica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="IPhO 2003 — Teorica — Problema 2 — Quesito 6" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/oscillations-e-waves,topic/electromagnetism,topic/electrostatics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

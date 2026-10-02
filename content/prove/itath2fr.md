@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2004 — Teorica — Problema 2 (fr)
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="itath2fr"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/thermodynamics,object/gas"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2004 — Teorica — Problema 2 (fr) — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/thermodynamics,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -56,7 +58,7 @@ Both the air pressure around the ball $P$ and its temperature $T$. The pressure 
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/fluid-mechanics"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2004 — Teorica — Problema 2 (fr) — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/fluid-mechanics"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -95,7 +97,7 @@ Express $\alpha$ as a function of $\mu_{air}$, $g$, $R$, $H$ and find the numeri
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/elasticity-e-materials,object/bubble,object/gas"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2004 — Teorica — Problema 2 (fr) — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/elasticity-e-materials,object/bubble,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -134,7 +136,7 @@ where $\lambda = r/r_0 > 1$ is the degree of bulge of the ball and $\kappa$ is a
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Teorica — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/elasticity-e-materials,object/bubble,object/gas"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2004 — Teorica — Problema 2 (fr) — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/elasticity-e-materials,object/bubble,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -165,7 +167,7 @@ Express the parameter $\kappa$, as defined in formula (2.2), in terms of $n$, $n
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII na Teorica — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/thermodynamics,object/bubble,object/gas"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2004 — Teorica — Problema 2 (fr) — Quesito 5" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/thermodynamics,object/bubble,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

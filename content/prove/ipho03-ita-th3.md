@@ -1,15 +1,17 @@
 ---
-title: OII na '' — IPhO03 ITA TH3.pdf
+title: IPhO 2003 — Teorica — Problema 3
 tipo: prova
 tags:
   - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="ipho03-ita-th3"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na '' — IPhO03 ITA TH3.pdf — Problema 1" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/special-relativity,topic/nuclear-e-particle-physics,topic/geometric-optics,object/electron"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2003 — Teorica — Problema 3 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/special-relativity,topic/nuclear-e-particle-physics,topic/geometric-optics,object/electron"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

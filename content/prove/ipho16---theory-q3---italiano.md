@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica — IPhO16 - Theory Q3
+title: IPhO 2016 — Teorica — Q3
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="ipho16---theory-q3---italiano"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — IPhO16 - Theory Q3 — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/special-relativity,topic/nuclear-e-particle-physics,argomento/fisica-moderna,object/particle-beam"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2016 — Teorica — Q3 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/special-relativity,topic/nuclear-e-particle-physics,argomento/fisica-moderna,object/particle-beam"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -46,7 +48,7 @@ Find the exact expression for the ultimate speed $v$ of protons in terms of the 
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Teorica — IPhO16 - Theory Q3 — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/special-relativity,topic/nuclear-e-particle-physics,argomento/fisica-moderna,object/electron"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2016 — Teorica — Q3 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/special-relativity,topic/nuclear-e-particle-physics,argomento/fisica-moderna,object/electron"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -79,7 +81,7 @@ For particles with high energy and small mass the relative deviation $\Delta = (
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Teorica — IPhO16 - Theory Q3 — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/special-relativity,topic/electromagnetism,argomento/fisica-moderna,object/particle-beam"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2016 — Teorica — Q3 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/special-relativity,topic/electromagnetism,argomento/fisica-moderna,object/particle-beam"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -124,7 +126,7 @@ Dati: Circonferenza dell'anello $L = 26659\,\text{m}$, energia dei protoni $E = 
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Teorica — IPhO16 - Theory Q3 — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electromagnetism,topic/special-relativity,argomento/fisica-moderna"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2016 — Teorica — Q3 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electromagnetism,topic/special-relativity,argomento/fisica-moderna"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -161,7 +163,7 @@ Using dimensional analysis, find an expression for the irradiated power $P_\text
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII na Teorica — IPhO16 - Theory Q3 — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electromagnetism,topic/special-relativity,argomento/fisica-moderna,object/particle-beam"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2016 — Teorica — Q3 — Quesito 5" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electromagnetism,topic/special-relativity,argomento/fisica-moderna,object/particle-beam"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -202,7 +204,7 @@ Data from Table 1: number of clusters per beam $= 2808$, number of protons per c
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII na Teorica — IPhO16 - Theory Q3 — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/special-relativity,topic/nuclear-e-particle-physics,argomento/fisica-moderna,object/particle-beam,object/capacitor"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="IPhO 2016 — Teorica — Q3 — Quesito 6" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/special-relativity,topic/nuclear-e-particle-physics,argomento/fisica-moderna,object/particle-beam,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -253,7 +255,7 @@ Linear accelerator with armor and voltage V *
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OII na Teorica — IPhO16 - Theory Q3 — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/special-relativity,topic/nuclear-e-particle-physics,argomento/fisica-moderna"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="IPhO 2016 — Teorica — Q3 — Quesito 7" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/special-relativity,topic/nuclear-e-particle-physics,argomento/fisica-moderna"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -306,7 +308,7 @@ Express the mass $m$ in terms of the engine quantity $p$, the flight length $l$ 
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OII na Teorica — IPhO16 - Theory Q3 — Problema 8" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/special-relativity,topic/nuclear-e-particle-physics,argomento/fisica-moderna"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="IPhO 2016 — Teorica — Q3 — Quesito 8" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/special-relativity,topic/nuclear-e-particle-physics,argomento/fisica-moderna"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -339,7 +341,7 @@ Calculate the minimum length $l$ of a ToF detector that allows a loaded borehole
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OII na Teorica — IPhO16 - Theory Q3 — Problema 9" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/special-relativity,topic/magnetism,topic/nuclear-e-particle-physics,argomento/fisica-moderna"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="IPhO 2016 — Teorica — Q3 — Quesito 9" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/special-relativity,topic/magnetism,topic/nuclear-e-particle-physics,argomento/fisica-moderna"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -376,7 +378,7 @@ Express the particle mass in terms of the magnetic field $B$, the radius $R$ of 
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="OII na Teorica — IPhO16 - Theory Q3 — Problema 10" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/special-relativity,topic/nuclear-e-particle-physics,argomento/fisica-moderna"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="IPhO 2016 — Teorica — Q3 — Quesito 10" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/special-relativity,topic/nuclear-e-particle-physics,argomento/fisica-moderna"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

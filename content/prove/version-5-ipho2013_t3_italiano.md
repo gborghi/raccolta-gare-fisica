@@ -1,15 +1,17 @@
 ---
-title: OII 2013 '' — Version 5 IPhO2013_T3_italiano.pdf
+title: IPhO 2013 — Teorica — T3
 tipo: prova
 tags:
   - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="version-5-ipho2013_t3_italiano"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2013 '' — Version 5 IPhO2013_T3_italiano.pdf — Problema 1" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/newtonian-mechanics"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2013 — Teorica — T3 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/newtonian-mechanics"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -56,7 +58,7 @@ The following is the list of the countries of the European Union:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2013 '' — Version 5 IPhO2013_T3_italiano.pdf — Problema 2" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/newtonian-mechanics"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2013 — Teorica — T3 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/newtonian-mechanics"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -93,7 +95,7 @@ The following is the list of the countries of the European Union:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2013 '' — Version 5 IPhO2013_T3_italiano.pdf — Problema 3" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/thermodynamics"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2013 — Teorica — T3 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/thermodynamics"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -138,7 +140,7 @@ $$\frac{\partial v_x}{\partial x} + \frac{\partial v_z}{\partial z} = 0$$
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII 2013 '' — Version 5 IPhO2013_T3_italiano.pdf — Problema 4" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/newtonian-mechanics"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2013 — Teorica — T3 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/newtonian-mechanics"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -187,7 +189,7 @@ and from hypothesis 5 (that $v_x$ is independent of $z$), it derives $v_z$ as a 
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII 2013 '' — Version 5 IPhO2013_T3_italiano.pdf — Problema 5" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/fluid-mechanics,topic/gravitation,topic/thermodynamics,object/planet"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2013 — Teorica — T3 — Quesito 5" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/fluid-mechanics,topic/gravitation,topic/thermodynamics,object/planet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

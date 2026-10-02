@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2012 — Teorica
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="ipho12t_problems_ita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/fluid-mechanics,topic/magnetism,argomento/meccanica,object/ball,object/pipe-tube"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2012 — Teorica — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/fluid-mechanics,topic/magnetism,argomento/meccanica,object/ball,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -258,7 +260,7 @@ The pipes.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electrostatics,topic/fluid-mechanics,topic/thermodynamics,argomento/meccanica,object/pipe-tube,object/droplet,object/capacitor"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2012 — Teorica — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electrostatics,topic/fluid-mechanics,topic/thermodynamics,argomento/meccanica,object/pipe-tube,object/droplet,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -425,7 +427,7 @@ limite superiore $U_\text{max}$; trova $U_\text{max}$.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/astrophysics,topic/gravitation,topic/thermodynamics,argomento/meccanica,object/gas,object/star"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2012 — Teorica — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/astrophysics,topic/gravitation,topic/thermodynamics,argomento/meccanica,object/gas,object/star"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

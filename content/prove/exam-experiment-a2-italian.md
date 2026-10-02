@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale
+title: IPhO 2018 — Sperimentale — A2
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="exam-experiment-a2-italian"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/elasticity-e-materials,topic/thermodynamics,topic/order-of-magnitude-estimation,object/wire"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2018 — Sperimentale — A2 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/elasticity-e-materials,topic/thermodynamics,topic/order-of-magnitude-estimation,object/wire"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2005 — Teorica — Problema 2
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="problema2_i"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electromagnetic-induction,topic/magnetism,topic/rotational-dynamics,argomento/elettromagnetismo,object/coil,object/magnet"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2005 — Teorica — Problema 2 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electromagnetic-induction,topic/magnetism,topic/rotational-dynamics,argomento/elettromagnetismo,object/coil,object/magnet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -56,7 +58,7 @@ It is unable to follow the rapid rotation of the coil.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electromagnetic-induction,topic/magnetism,topic/circuits,argomento/elettromagnetismo,object/coil,object/disk,object/galvanometer"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2005 — Teorica — Problema 2 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electromagnetic-induction,topic/magnetism,topic/circuits,argomento/elettromagnetismo,object/coil,object/disk,object/galvanometer"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -171,7 +173,7 @@ B
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electromagnetic-induction,topic/magnetism,topic/circuits,argomento/elettromagnetismo,object/coil,object/disk,object/galvanometer"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2005 — Teorica — Problema 2 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electromagnetic-induction,topic/magnetism,topic/circuits,argomento/elettromagnetismo,object/coil,object/disk,object/galvanometer"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -204,7 +206,7 @@ It flows in the 1-2-3-4 circuit.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Teorica — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electromagnetic-induction,topic/circuits,topic/magnetism,argomento/elettromagnetismo,object/coil"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2005 — Teorica — Problema 2 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electromagnetic-induction,topic/circuits,topic/magnetism,argomento/elettromagnetismo,object/coil"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -249,7 +251,7 @@ The balance sheet balance sheet is set at the same time as the balance sheet bal
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII na Teorica — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/magnetism,topic/newtonian-mechanics,argomento/elettromagnetismo,object/coil,object/wire"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2005 — Teorica — Problema 2 — Quesito 5" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/magnetism,topic/newtonian-mechanics,argomento/elettromagnetismo,object/coil,object/wire"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -290,7 +292,7 @@ parallel to the other.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII na Teorica — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/magnetism,topic/rigid-body-statics,topic/circuits,argomento/elettromagnetismo,object/coil"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="IPhO 2005 — Teorica — Problema 2 — Quesito 6" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/magnetism,topic/rigid-body-statics,topic/circuits,argomento/elettromagnetismo,object/coil"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -325,7 +327,7 @@ The mass center and the distance
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OII na Teorica — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/rotational-dynamics,topic/magnetism,topic/newtonian-mechanics,argomento/elettromagnetismo,object/coil"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="IPhO 2005 — Teorica — Problema 2 — Quesito 7" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/rotational-dynamics,topic/magnetism,topic/newtonian-mechanics,argomento/elettromagnetismo,object/coil"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

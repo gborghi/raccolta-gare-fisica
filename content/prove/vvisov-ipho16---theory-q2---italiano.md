@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica — vvisoV-IPhO16 - Theory Q2
+title: IPhO 2016 — Teorica — Q2
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="vvisov-ipho16---theory-q2---italiano"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — vvisoV-IPhO16 - Theory Q2 — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/circuits,topic/oscillations-e-waves,topic/electromagnetic-induction,argomento/meccanica,object/resistor,object/inductor,object/capacitor,object/battery,object/wire"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2016 — Teorica — Q2 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/circuits,topic/oscillations-e-waves,topic/electromagnetic-induction,argomento/meccanica,object/resistor,object/inductor,object/capacitor,object/battery,object/wire"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

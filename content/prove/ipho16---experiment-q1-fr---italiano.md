@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale — IPhO16 - Experiment Q1 FR
+title: IPhO 2016 — Sperimentale — Q1 FR
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="ipho16---experiment-q1-fr---italiano"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — IPhO16 - Experiment Q1 FR — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/circuits,topic/electrostatics,topic/electromagnetism,argomento/onde-e-oscillazioni"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2016 — Sperimentale — Q1 FR — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/circuits,topic/electrostatics,topic/electromagnetism,argomento/onde-e-oscillazioni"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

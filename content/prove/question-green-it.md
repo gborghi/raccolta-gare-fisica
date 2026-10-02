@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale
+title: IPhO 2007 — Sperimentale — Green
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="question-green-it"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/wave-optics,topic/geometric-optics,argomento/meccanica,object/diffraction-grating,object/screen,object/photon,object/electron,object/lens"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2007 — Sperimentale — Green — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/wave-optics,topic/geometric-optics,argomento/meccanica,object/diffraction-grating,object/screen,object/photon,object/electron,object/lens"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

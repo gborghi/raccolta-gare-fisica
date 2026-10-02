@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale
+title: IPhO 2008 — Sperimentale
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="problema_sperimentale"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/circuits,topic/electrostatics,argomento/elettromagnetismo,object/resistor,object/battery,object/magnet"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2008 — Sperimentale — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/circuits,topic/electrostatics,argomento/elettromagnetismo,object/resistor,object/battery,object/magnet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -208,7 +210,7 @@ The following table shows the number of samples of the samples taken:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/circuits,topic/electromagnetism,argomento/elettromagnetismo,object/resistor,object/battery"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2008 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/circuits,topic/electromagnetism,argomento/elettromagnetismo,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

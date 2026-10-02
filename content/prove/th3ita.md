@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2010 — Teorica — Problema 3
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="th3ita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/nuclear-e-particle-physics,argomento/meccanica,object/nucleus"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2010 — Teorica — Problema 3 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/nuclear-e-particle-physics,argomento/meccanica,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -74,7 +76,7 @@ The following is the list of the samples taken:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/nuclear-e-particle-physics,argomento/meccanica,object/nucleus"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2010 — Teorica — Problema 3 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/nuclear-e-particle-physics,argomento/meccanica,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -109,7 +111,7 @@ M(54Fe)
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/nuclear-e-particle-physics,argomento/meccanica,object/nucleus"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2010 — Teorica — Problema 3 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/nuclear-e-particle-physics,argomento/meccanica,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -144,7 +146,7 @@ M(12C)
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Teorica — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/nuclear-e-particle-physics,topic/special-relativity,topic/modern-quantum-physics,argomento/meccanica,object/nucleus,object/photon"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2010 — Teorica — Problema 3 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/nuclear-e-particle-physics,topic/special-relativity,topic/modern-quantum-physics,argomento/meccanica,object/nucleus,object/photon"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

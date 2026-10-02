@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale — IPhO16 - Experiment Q2
+title: IPhO 2016 — Sperimentale — Q2
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="ipho16---experiment-q2---italiano"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — IPhO16 - Experiment Q2 — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/oscillations-e-waves,argomento/meccanica,object/membrane,object/cylinder"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2016 — Sperimentale — Q2 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/oscillations-e-waves,argomento/meccanica,object/membrane,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -58,7 +60,7 @@ The test results shall be presented in accordance with the following formula:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Sperimentale — IPhO16 - Experiment Q2 — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/oscillations-e-waves,argomento/meccanica,object/tank-container"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2016 — Sperimentale — Q2 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/oscillations-e-waves,argomento/meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -87,7 +89,7 @@ The test results shall be presented in accordance with the following formula:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Sperimentale — IPhO16 - Experiment Q2 — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/oscillations-e-waves,argomento/meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2016 — Sperimentale — Q2 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/oscillations-e-waves,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -116,7 +118,7 @@ The test results shall be presented in accordance with the following formula:
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Sperimentale — IPhO16 - Experiment Q2 — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/oscillations-e-waves,topic/newtonian-mechanics,topic/thermodynamics,argomento/meccanica,object/membrane,object/cylinder"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2016 — Sperimentale — Q2 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/oscillations-e-waves,topic/newtonian-mechanics,topic/thermodynamics,argomento/meccanica,object/membrane,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

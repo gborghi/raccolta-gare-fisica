@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale — PROBLEMA SPERIMENTALE.pdf
+title: IPhO 2005 — Sperimentale
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="problema-sperimentale"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — PROBLEMA SPERIMENTALE.pdf — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/meccanica,object/resistor,object/battery"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2005 — Sperimentale — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/meccanica,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -60,7 +62,7 @@ The complete electrical pattern is shown in Fig. F-4.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Sperimentale — PROBLEMA SPERIMENTALE.pdf — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/modern-quantum-physics,topic/circuits,argomento/meccanica,object/resistor,object/battery,object/wire"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2005 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/modern-quantum-physics,topic/circuits,argomento/meccanica,object/resistor,object/battery,object/wire"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -141,7 +143,7 @@ To measure $T$ it is necessary to determine $a$, which is obtained by measuring 
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Sperimentale — PROBLEMA SPERIMENTALE.pdf — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/modern-quantum-physics,argomento/meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2005 — Sperimentale — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/modern-quantum-physics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -200,7 +202,7 @@ The following is the list of the parameters of the test:
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Sperimentale — PROBLEMA SPERIMENTALE.pdf — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/thermodynamics,topic/circuits,argomento/meccanica,object/resistor,object/battery"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2005 — Sperimentale — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/thermodynamics,topic/circuits,argomento/meccanica,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

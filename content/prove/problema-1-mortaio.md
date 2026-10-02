@@ -1,15 +1,17 @@
 ---
-title: OII 2008 Teorica — Problema 1 mortaio.pdf
+title: IPhO 2008 — Teorica — Problema 1
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="problema-1-mortaio"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2008 Teorica — Problema 1 mortaio.pdf — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/rotational-dynamics,topic/rigid-body-statics,argomento/meccanica,object/lever,object/tank-container"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2008 — Teorica — Problema 1 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/rotational-dynamics,topic/rigid-body-statics,argomento/meccanica,object/lever,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -64,7 +66,7 @@ The following table shows the manufacturer's specifications for the product:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2008 Teorica — Problema 1 mortaio.pdf — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/rotational-dynamics,topic/conservation-of-energy,topic/newtonian-mechanics,argomento/meccanica,object/lever,object/tank-container"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2008 — Teorica — Problema 1 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/rotational-dynamics,topic/conservation-of-energy,topic/newtonian-mechanics,argomento/meccanica,object/lever,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -453,7 +455,7 @@ The following table shows the results of the study:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2008 Teorica — Problema 1 mortaio.pdf — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/oscillations-e-waves,topic/rotational-dynamics,topic/fluid-mechanics,argomento/meccanica,object/lever,object/tank-container"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2008 — Teorica — Problema 1 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/oscillations-e-waves,topic/rotational-dynamics,topic/fluid-mechanics,argomento/meccanica,object/lever,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

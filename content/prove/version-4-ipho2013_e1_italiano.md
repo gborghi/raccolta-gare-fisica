@@ -1,15 +1,17 @@
 ---
-title: OII 2013 Sperimentale — Version 4 IPhO2013_E1_italiano.pdf
+title: IPhO 2013 — Sperimentale — E1
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="version-4-ipho2013_e1_italiano"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2013 Sperimentale — Version 4 IPhO2013_E1_italiano.pdf — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/geometric-optics,topic/wave-optics,topic/oscillations-e-waves,argomento/onde-e-oscillazioni"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2013 — Sperimentale — E1 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/geometric-optics,topic/wave-optics,topic/oscillations-e-waves,argomento/onde-e-oscillazioni"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

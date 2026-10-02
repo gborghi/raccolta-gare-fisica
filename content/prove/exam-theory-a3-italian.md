@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2018 — Teorica — A3
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="exam-theory-a3-italian"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/fluid-mechanics,topic/thermodynamics,topic/newtonian-mechanics,argomento/termodinamica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2018 — Teorica — A3 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/fluid-mechanics,topic/thermodynamics,topic/newtonian-mechanics,argomento/termodinamica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

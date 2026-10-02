@@ -1,15 +1,17 @@
 ---
-title: OII 2021 Teorica
+title: EuPhO 2021 — Teorica
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/EuPhO
 ---
 <div class="atom-reader" data-prova="eupho_2021_theory_ita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2021 Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/newtonian-mechanics,argomento/meccanica,object/cylinder,object/piston,object/gas"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2021 — Teorica — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/newtonian-mechanics,argomento/meccanica,object/cylinder,object/piston,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -54,7 +56,7 @@ c. Find the temperature $T_2$ in the lower chamber immediately before the piston
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2021 Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/rope-string,object/cylinder"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2021 — Teorica — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/rope-string,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -103,7 +105,7 @@ where $\operatorname{arcsinh}x \equiv \ln\!\left(x + \sqrt{1+x^2}\right)$.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2021 Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/geometric-optics,topic/wave-optics,argomento/meccanica,object/sphere,object/wire"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="EuPhO 2021 — Teorica — Quesito 3" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/geometric-optics,topic/wave-optics,argomento/meccanica,object/sphere,object/wire"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

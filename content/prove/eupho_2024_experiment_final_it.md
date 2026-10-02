@@ -1,15 +1,17 @@
 ---
-title: OII 2024 Sperimentale
+title: EuPhO 2024 — Sperimentale
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/EuPhO
 ---
 <div class="atom-reader" data-prova="eupho_2024_experiment_final_it"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2024 Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/conservation-of-energy,topic/newtonian-mechanics,topic/elasticity-e-materials,argomento/meccanica,object/ball"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2024 — Sperimentale — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/conservation-of-energy,topic/newtonian-mechanics,topic/elasticity-e-materials,argomento/meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -46,7 +48,7 @@ For the most elastic rubber ball, determine the fraction of kinetic energy that 
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2024 Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electrostatics,topic/electromagnetic-induction,topic/elasticity-e-materials,argomento/meccanica,object/capacitor"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2024 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electrostatics,topic/electromagnetic-induction,topic/elasticity-e-materials,argomento/meccanica,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -101,7 +103,7 @@ For the most elastic rubber ball, determine the fraction of kinetic energy that 
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2024 Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electrostatics,topic/elasticity-e-materials,argomento/meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="EuPhO 2024 — Sperimentale — Quesito 3" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electrostatics,topic/elasticity-e-materials,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -138,7 +140,7 @@ How much does the electrical response change when the force is applied to a smal
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII 2024 Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/elasticity-e-materials,topic/newtonian-mechanics,argomento/meccanica,object/ball,object/sphere"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="EuPhO 2024 — Sperimentale — Quesito 4" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/elasticity-e-materials,topic/newtonian-mechanics,argomento/meccanica,object/ball,object/sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -179,7 +181,7 @@ Find the exponent $\alpha$ and the constant of the material $k$.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII 2024 Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/elasticity-e-materials,topic/conservation-of-momentum,argomento/meccanica,object/ball"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="EuPhO 2024 — Sperimentale — Quesito 5" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/elasticity-e-materials,topic/conservation-of-momentum,argomento/meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

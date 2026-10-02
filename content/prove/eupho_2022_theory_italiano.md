@@ -1,15 +1,17 @@
 ---
-title: OII 2022 Teorica
+title: EuPhO 2022 — Teorica
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/EuPhO
 ---
 <div class="atom-reader" data-prova="eupho_2022_theory_italiano"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2022 Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/oscillations-e-waves,topic/fluid-mechanics,topic/magnetism,argomento/onde-e-oscillazioni,object/cylinder,object/tank-container,object/resistor,object/inductor,object/magnetic-dipole"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2022 — Teorica — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/oscillations-e-waves,topic/fluid-mechanics,topic/magnetism,argomento/onde-e-oscillazioni,object/cylinder,object/tank-container,object/resistor,object/inductor,object/magnetic-dipole"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: EuPhO 2018 — Teorica
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/EuPhO
 ---
 <div class="atom-reader" data-prova="eupho18-th-ita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/magnetism,topic/thermodynamics,argomento/meccanica,object/ball,object/rod,object/solenoid,object/pipe-tube"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2018 — Teorica — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/magnetism,topic/thermodynamics,argomento/meccanica,object/ball,object/rod,object/solenoid,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

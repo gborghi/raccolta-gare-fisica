@@ -1,15 +1,17 @@
 ---
-title: OII 2020 Teorica
+title: EuPhO 2020 — Teorica
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/EuPhO
 ---
 <div class="atom-reader" data-prova="eupho_2020_theory_ita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2020 Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electromagnetic-induction,topic/electromagnetism,argomento/elettromagnetismo,object/solenoid,object/wire,object/battery"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2020 — Teorica — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electromagnetic-induction,topic/electromagnetism,argomento/elettromagnetismo,object/solenoid,object/wire,object/battery"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -76,7 +78,7 @@ The following table shows the number of pixels in the log10 intensity vs pixel c
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2020 Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/rotational-dynamics,argomento/elettromagnetismo,object/rope-string,object/cylinder"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2020 — Teorica — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/rotational-dynamics,argomento/elettromagnetismo,object/rope-string,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -123,7 +125,7 @@ The wire is extensible and flexible. Suppose the spires of the winding are wrapp
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2020 Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/geometric-optics,topic/wave-optics,argomento/elettromagnetismo,object/lens"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="EuPhO 2020 — Teorica — Quesito 3" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/geometric-optics,topic/wave-optics,argomento/elettromagnetismo,object/lens"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

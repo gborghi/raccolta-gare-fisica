@@ -1,15 +1,17 @@
 ---
-title: OII 2023 Sperimentale
+title: EuPhO 2023 — Sperimentale
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/EuPhO
 ---
 <div class="atom-reader" data-prova="eupho_2023_experiment_translation_ita_exp"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2023 Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/oscillations-e-waves,topic/magnetism,topic/newtonian-mechanics,argomento/meccanica,object/pendulum,object/magnetic-dipole,object/magnet"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2023 — Sperimentale — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/oscillations-e-waves,topic/magnetism,topic/newtonian-mechanics,argomento/meccanica,object/pendulum,object/magnetic-dipole,object/magnet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -160,7 +162,7 @@ Returns the assembly to the configuration used in Question E1.2, with the extern
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2023 Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/geometric-optics,topic/wave-optics,topic/electromagnetism,argomento/meccanica,object/mirror,object/prism,object/lens,object/slit"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2023 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/geometric-optics,topic/wave-optics,topic/electromagnetism,argomento/meccanica,object/mirror,object/prism,object/lens,object/slit"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

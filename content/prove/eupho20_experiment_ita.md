@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale
+title: EuPhO 2020 — Sperimentale
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/EuPhO
 ---
 <div class="atom-reader" data-prova="eupho20_experiment_ita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electrostatics,topic/newtonian-mechanics,argomento/meccanica,object/point-charge,object/electron,object/screen"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2020 — Sperimentale — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electrostatics,topic/newtonian-mechanics,argomento/meccanica,object/point-charge,object/electron,object/screen"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -172,7 +174,7 @@ The final programme is prepared to allow for the insertion of a new set of initi
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/tank-container,object/spring,object/block"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2020 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/tank-container,object/spring,object/block"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

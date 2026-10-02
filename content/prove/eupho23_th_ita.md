@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: EuPhO 2023 — Teorica
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/EuPhO
 ---
 <div class="atom-reader" data-prova="eupho23_th_ita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/geometric-optics,topic/newtonian-mechanics,topic/electromagnetic-induction,argomento/meccanica,object/disk,object/lens,object/block,object/magnet"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2023 — Teorica — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/geometric-optics,topic/newtonian-mechanics,topic/electromagnetic-induction,argomento/meccanica,object/disk,object/lens,object/block,object/magnet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

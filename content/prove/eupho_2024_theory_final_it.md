@@ -1,15 +1,17 @@
 ---
-title: OII 2024 Teorica
+title: EuPhO 2024 — Teorica
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/EuPhO
 ---
 <div class="atom-reader" data-prova="eupho_2024_theory_final_it"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2024 Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/rotational-dynamics,topic/newtonian-mechanics,argomento/meccanica,object/disk"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2024 — Teorica — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/rotational-dynamics,topic/newtonian-mechanics,argomento/meccanica,object/disk"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -60,7 +62,7 @@ A disc of $r$ radius and uniform density moves on a horizontal plane at $v_0$ sp
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2024 Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/special-relativity,argomento/meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2024 — Teorica — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/special-relativity,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -113,7 +115,7 @@ b) (5 points) At any given moment, Alice can see a number of gifts moving away f
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2024 Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica,object/mirror"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="EuPhO 2024 — Teorica — Quesito 3" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/wave-optics,argomento/meccanica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

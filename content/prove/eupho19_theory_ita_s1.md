@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: EuPhO 2019 — Teorica
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/EuPhO
 ---
 <div class="atom-reader" data-prova="eupho19_theory_ita_s1"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/fluid-mechanics,argomento/meccanica,object/droplet"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2019 — Teorica — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/fluid-mechanics,argomento/meccanica,object/droplet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -84,7 +86,7 @@ The following conditions are met:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electromagnetism,topic/rotational-dynamics,topic/newtonian-mechanics,argomento/meccanica,object/sphere"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2019 — Teorica — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electromagnetism,topic/rotational-dynamics,topic/newtonian-mechanics,argomento/meccanica,object/sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -129,7 +131,7 @@ valida per qualunque vettore $\vec{a}$, $\vec{b}$ e $\vec{c}$.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/fluid-mechanics,argomento/meccanica,object/pipe-tube"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="EuPhO 2019 — Teorica — Quesito 3" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/fluid-mechanics,argomento/meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

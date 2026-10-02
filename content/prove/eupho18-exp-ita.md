@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale
+title: EuPhO 2018 — Sperimentale
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/EuPhO
 ---
 <div class="atom-reader" data-prova="eupho18-exp-ita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/kinetic-theory,topic/fluid-mechanics,argomento/meccanica,object/membrane,object/tank-container"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2018 — Sperimentale — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/kinetic-theory,topic/fluid-mechanics,argomento/meccanica,object/membrane,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

@@ -1,15 +1,17 @@
 ---
-title: OII 2021 Sperimentale
+title: EuPhO 2021 — Sperimentale
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/EuPhO
 ---
 <div class="atom-reader" data-prova="eupho_2021_exp_ita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2021 Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/rod"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2021 — Sperimentale — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/rod"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -50,7 +52,7 @@ Enter P (W), between 0 and 300:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2021 Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2021 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -87,7 +89,7 @@ Enter heating duration (s), between 0 and
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2021 Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/rod"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="EuPhO 2021 — Sperimentale — Quesito 3" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/rod"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -136,7 +138,7 @@ In space. Must be between 0 and 3600s:
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII 2021 Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="EuPhO 2021 — Sperimentale — Quesito 4" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -171,7 +173,7 @@ multiple of 5s:
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII 2021 Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/rod"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="EuPhO 2021 — Sperimentale — Quesito 5" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/rod"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -212,7 +214,7 @@ Note that not entering any number simply means not taking any measurements.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII 2021 Sperimentale — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="EuPhO 2021 — Sperimentale — Quesito 6" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

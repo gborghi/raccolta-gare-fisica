@@ -8,6 +8,7 @@ import { readdirSync, readFileSync, existsSync } from "node:fs"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
 import matter from "gray-matter"
+import { stripLocalPdfLinks } from "./scripts/pdf-links.mjs"
 
 const NUL = String.fromCharCode(0)
 
@@ -362,9 +363,9 @@ function injectFigSvg(content) {
 }
 
 function transform(content) {
-  // strip PDF links (kept as plain text label)
-  content = content.replace(/\[([^\]]*)\]\(<[^>]*\.pdf[^>]*>\)/gi, "$1")
-  content = content.replace(/\[([^\]]*)\]\([^)\s]*\.pdf[^)]*\)/gi, "$1")
+  // strip local-vault PDF links (kept as plain text label); external http(s) PDF links
+  // survive -- see scripts/pdf-links.mjs (negative lookahead (?!<?https?:) in both regexes)
+  content = stripLocalPdfLinks(content)
   // turn **Fonte/Risposta/Soluzione** PDF wikilinks into plain text (no public PDFs)
   content = content.replace(/\[\[[^\]]*\.pdf(?:#[^\]|]*)?(?:\|([^\]]*))?\]\]/gi, (full, alias) => alias || "")
   content = content.replace(/ ·\s*$/gm, "")

@@ -32,4 +32,5 @@ async function stubFolderPage(rel, redirectTo, label) {
 
 // from /Prove/index.html, "../cerca" is the faceted search page (best browse entry)
 await stubFolderPage("prove/index.html", "../cerca", "Cerca prove")
+await import("./scripts/make-search-meta.mjs") // static/searchMeta.json (boolean search: metadata / campo:valore)
 console.log("shrink_build done")

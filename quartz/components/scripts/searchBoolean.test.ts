@@ -9,6 +9,13 @@ import {
   evaluateBoolean,
   positiveTerms,
   type EvalContext,
+  setSynonyms,
+  synonymAlternatives,
+  MetaIndex,
+  makeRowMatcher,
+  plainSynonymIds,
+  resolveField,
+  foldText,
 } from "./searchBoolean"
 
 // Tiny fake engine with the same semantics as the plain FlexSearch query used by the
@@ -194,5 +201,147 @@ describe("evaluator", () => {
     const ids = await evaluateBoolean(plan.ast, ctx)
     assert.strictEqual(ids.length, 4)
     assert.strictEqual(ids[0], 0) // rank 0 in both lists
+  })
+})
+
+// ---------------------------------------------------------------------------
+// v2: campo:valore, metadata, synonyms, in-page row filters
+// ---------------------------------------------------------------------------
+
+const SYN = [
+  { tipo: "fisica", termini: ["molla", "spring", "ressort", "mola"] },
+  { tipo: "nazione", termini: ["giappone", "japan", "japon", "japão"] },
+  { tipo: "nazione", termini: ["brasile", "brasil", "brazil"] },
+  { tipo: "fisica", termini: ["quantità di moto", "momentum", "impulso"] },
+  { tipo: "mate", termini: ["induzione", "induction"] },
+  { tipo: "fisica", termini: ["induzione elettromagnetica", "electromagnetic induction"] },
+  { tipo: "gara", termini: ["oii", "olimpiadi italiane di fisica"] },
+]
+
+describe("v2 parser: campo:valore", () => {
+  test("field syntax is boolean", () => {
+    assert.strictEqual(hasBooleanSyntax("nazione:Japan"), true)
+    assert.strictEqual(hasBooleanSyntax("ore 3:00"), false)
+    assert.strictEqual(hasBooleanSyntax("x:"), false)
+  })
+  test("field node + quoted value", () => {
+    assert.deepStrictEqual(parseBooleanQuery("nazione:Japan"), {
+      type: "field", field: "nazione", value: "Japan", raw: "nazione:Japan",
+    })
+    const ast = parseBooleanQuery('gara:"Giochi di Archimede" AND anno:2019') as any
+    assert.strictEqual(ast.type, "and")
+    assert.strictEqual(ast.children[0].value, "Giochi di Archimede")
+    assert.strictEqual(ast.children[1].field, "anno")
+  })
+  test("fallback strips field prefix", () => {
+    assert.strictEqual(stripBooleanSyntax('nazione:"Japan'), "Japan")
+  })
+  test("aliases", () => {
+    assert.deepStrictEqual(resolveField("nazione", ["country", "year"]), ["country"])
+    assert.deepStrictEqual(resolveField("Difficoltà", ["difficolta"]), ["difficolta"])
+    assert.deepStrictEqual(resolveField("comp_code", ["comp_code"]), ["comp_code"])
+    assert.deepStrictEqual(resolveField("boh", ["country"]), [])
+  })
+})
+
+describe("v2 synonyms", () => {
+  test("folding", () => assert.strictEqual(foldText("  Japão  QUANTITÀ "), "japao quantita"))
+  test("whole term and per-word expansion", () => {
+    setSynonyms(SYN)
+    assert.deepStrictEqual(synonymAlternatives("Giappone").sort(), ["japan", "japao", "japon"].sort())
+    assert.ok(synonymAlternatives("quantità di moto").includes("momentum"))
+    assert.ok(synonymAlternatives("molla energia").includes("spring energia"))
+    assert.deepStrictEqual(synonymAlternatives("energia"), [])
+  })
+  test("group boundaries: math induction != electromagnetic induction", () => {
+    setSynonyms(SYN)
+    assert.deepStrictEqual(synonymAlternatives("induction"), ["induzione"])
+    assert.deepStrictEqual(synonymAlternatives("electromagnetic induction"), ["induzione elettromagnetica"])
+  })
+})
+
+describe("v2 evaluator: metadata + synonyms", () => {
+  const D = [
+    { t: "Una molla compressa accumula energia", m: { country: "Italia", topics: "Energia|Molle" } }, // 0
+    { t: "A spring stores elastic energia", m: { country: "Japan", topics: "Energy" } }, // 1
+    { t: "Area of a triangle", m: { country: "Japan", topics: "topic_geometria_piana" } }, // 2
+    { t: "Area di un cerchio", m: { country: "Brasile", topics: "topic_geometria_piana" } }, // 3
+    { t: "Springfield is a town energia", m: { country: "USA", topics: "" } }, // 4 (prefix only)
+  ]
+  const slugs = D.map((_, i) => `p#q${i}`)
+  const meta = new MetaIndex({
+    f: ["country", "topics"],
+    r: Object.fromEntries(D.map((d, i) => [slugs[i], [d.m.country, d.m.topics]])),
+  })
+  const toIds = (ss: string[] | null) => (ss === null ? null : ss.map((s) => slugs.indexOf(s)))
+  const c: EvalContext = {
+    async searchTerms(text) {
+      const ws = foldText(text).split(" ")
+      return D.map((d, id) => ({ id, toks: foldText(d.t).split(" ") }))
+        .filter(({ toks }) => ws.every((w) => toks.some((t) => t.startsWith(w))))
+        .map(({ id }) => id)
+    },
+    textOf: (id) => D[id]!.t,
+    allIds: () => D.map((_, i) => i),
+    expand: (t) => synonymAlternatives(t),
+    metaSearch: (t, a) => toIds(meta.matchAny(t, a))!,
+    fieldSearch: (f, v, a) => toIds(meta.matchField(f, v, a)),
+  }
+  const run = async (q: string) => {
+    setSynonyms(SYN)
+    const plan = planQuery(q) as any
+    assert.strictEqual(plan.mode, "boolean")
+    return evaluateBoolean(plan.ast, c)
+  }
+  test("spring AND energia: typed term (prefix, as before) first, synonym hit (molla) after", async () => {
+    assert.deepStrictEqual(await run("spring AND energia"), [1, 4, 0])
+  })
+  test("molla AND energia: synonym 'spring' is whole-word only (no Springfield)", async () => {
+    assert.deepStrictEqual(await run("molla AND energia"), [0, 1])
+  })
+  test("nazione:Japan (and synonyms: nazione:Giappone)", async () => {
+    assert.deepStrictEqual(await run("nazione:Japan"), [1, 2])
+    assert.deepStrictEqual(await run("nazione:Giappone"), [1, 2])
+  })
+  test("Giappone AND area: bare term matches metadata", async () => {
+    assert.deepStrictEqual(await run("Giappone AND area"), [2])
+  })
+  test("Brasil AND geometria: both via metadata", async () => {
+    assert.deepStrictEqual(await run("Brasil AND geometria"), [3])
+  })
+  test("unknown field searched as text", async () => {
+    assert.deepStrictEqual(await run("boh:triangle"), [])
+    assert.deepStrictEqual(await run("area:triangle"), [])
+  })
+  test("plain: synonym-only ids appended, whole word only", async () => {
+    setSynonyms(SYN)
+    const extra = await plainSynonymIds("molla", c.searchTerms, c.textOf)
+    assert.deepStrictEqual(extra, [1]) // "spring" (not Springfield); original 0 comes from the plain path
+  })
+})
+
+describe("v2 row matcher (in-page lists)", () => {
+  test("empty query", () => assert.strictEqual(makeRowMatcher("  "), null))
+  test("plain: identical substring test, plus synonyms (whole word)", () => {
+    setSynonyms(SYN)
+    const m = makeRowMatcher("Mol")!
+    assert.strictEqual(m("Una MOLLA"), true)
+    assert.strictEqual(m("spring"), false)
+    const m2 = makeRowMatcher("molla")!
+    assert.strictEqual(m2("a spring"), true)
+    assert.strictEqual(m2("springfield"), false)
+  })
+  test("boolean + fields", () => {
+    setSynonyms(SYN)
+    const row = { country: "Brasile", topics: ["topic_geometria_piana"], year: 2019 }
+    assert.strictEqual(makeRowMatcher("Brasil AND geometria")!("Area di un cerchio", row), true)
+    assert.strictEqual(makeRowMatcher("nazione:Japan")!("x", row), false)
+    assert.strictEqual(makeRowMatcher("nazione:Brazil")!("x", row), true)
+    assert.strictEqual(makeRowMatcher("anno:2019 AND cerchio")!("Area di un cerchio", row), true)
+    assert.strictEqual(makeRowMatcher("cerchio -geometria")!("Area di un cerchio", row), false)
+    assert.strictEqual(makeRowMatcher('"di un cerchio"')!("Area di un cerchio", row), true)
+  })
+  test("malformed -> plain on stripped query", () => {
+    assert.strictEqual(makeRowMatcher("(cerchio")!("area di un cerchio"), true)
   })
 })

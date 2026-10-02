@@ -1,7 +1,7 @@
 # Deploy runbook -- raccolta-gare-fisica
 
-Primary host: **Cloudflare Pages** -> https://raccolta-gare-fisica.pages.dev/ (project `raccolta-gare-fisica`, wrangler direct-upload, NOT git-integrated).
-Mirror: **GitHub Pages** -> `gborghi.github.io/raccolta-gare-fisica` (branch `gh-pages`).
+Reference host: **GitHub Pages** -> https://gborghi.github.io/raccolta-gare-fisica/ (branch `gh-pages`, produced by `scripts/build-pages.sh` in a checkout of THIS repo).
+Mirror: **Cloudflare Pages** -> https://raccolta-gare-fisica.pages.dev/ (project `raccolta-gare-fisica`, wrangler direct-upload from `gborghi/site-fisica` CI), a byte-exact copy of `gh-pages`: see "Single build + mirror flow" at the end.
 Images: **`gborghi/olifis-assets`** (GitHub Pages) -> `gborghi.github.io/olifis-assets/_attachments/...` (offloaded so the main deploys stay ~2,600 files, under the CF 20k cap).
 
 `baseUrl` in `quartz.config.yaml` = `raccolta-gare-fisica.pages.dev`. Auth: `npx wrangler login` (once, gio.borghi@gmail.com) + `gh auth`/git creds for the repos.
@@ -66,3 +66,23 @@ git worktree remove --force "$GHP" ; git worktree prune
 - **Local dev** (`npx quartz build --serve`): do NOT set `RGF_ASSET_BASE` -> figures stay at relative `_attachments/` (the build copies them into `public/` locally).
 - **New figures**: re-run step 5 (incremental push to olifis-assets) as part of any deploy that added figures.
 - `wrangler pages project create raccolta-gare-fisica --production-branch main` is only needed once (already done).
+
+## Single build + mirror flow (GitHub = reference, Cloudflare = mirror) -- since 2026-10-02
+
+1. `preprocess.mjs` (in `site-fisica/`, from the vault) writes `content/` + `staticgen/`; commit and push
+   them to `gborghi/raccolta-gare-fisica` `main` (page dates = git dates of these commits, so the build
+   must run in a checkout of THIS repo).
+2. In the checkout: `QUARTZ_CONCURRENCY=1 PUBLISH=1 scripts/build-pages.sh` (concurrency 1 on <16 GB RAM).
+   It runs `inline-tikz.mjs` (TikZ sidecars -> inline SVG, same rule as preprocess),
+   `fix-content-links.mjs` (figure paths incl. `content/prove/_attachments`, concept links,
+   unconverted PDFs -> Google Drive via `scripts/pdf-drive-map.json`), the fork patches, `quartz build`,
+   search index, `shrink_build`, `fix-404.mjs`; then (PUBLISH=1) syncs figures ADD-only to
+   `olifis-assets`, rewrites figure URLs to `gborghi.github.io/olifis-assets`, writes `_headers`/`robots.txt`
+   and pushes `public/` to `gh-pages` as a new fast-forward commit (CNAME kept, never `--force`).
+   Content edits made by the two scripts are build-time only: do NOT commit them.
+3. Cloudflare: run (or push to) `site-fisica` -> workflow `Deploy`. Its last step
+   `node scripts/emit-cf-files.mjs` runs in mirror mode in CI: `scripts/mirror-from-github.mjs` clones
+   `gh-pages` and REPLACES `public/` with it (CNAME dropped, `_headers` added). `CF_MIRROR=0` = old behaviour.
+4. Navbar, logo and `body[data-basepath]` are relative to the page (`Navbar.tsx`, `renderPage.tsx`,
+   `spa.inline.ts`), so the same bytes work under `/` and `/raccolta-gare-fisica/`.
+5. Verify with `check.py` (gare-mirror).

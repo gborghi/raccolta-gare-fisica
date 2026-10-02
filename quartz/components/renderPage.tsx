@@ -227,6 +227,8 @@ function renderTranscludes(
   })
 }
 
+const BASEPATH_RUNTIME = String.raw`(function(){try{var b=document.body,s=(b.dataset.slug||"").replace(/(^|\/)index$/,"$1").replace(/\/$/,""),p=decodeURI(location.pathname).replace(/\.html$/,"").replace(/\/index$/,"/"),r="";if(s==="404"){r=window.__basepath||""}else if(s){var i=p.toLowerCase().lastIndexOf("/"+s.toLowerCase());r=i>0?p.slice(0,i):""}else{r=p.replace(/\/+$/,"")}b.dataset.basepath=r;window.__basepath=r}catch(e){}})()`
+
 export function renderPage(
   cfg: GlobalConfiguration,
   slug: FullSlug,
@@ -275,6 +277,9 @@ export function renderPage(
     <html lang={lang} dir={direction}>
       <Head {...componentData} />
       <body data-slug={slug} data-basepath={basePath}>
+        {/* BASEPATH_RUNTIME: the same file is served at /<repo>/ (GitHub Pages) and at /
+            (Cloudflare mirror): derive the real base path from location + slug. */}
+        <script dangerouslySetInnerHTML={{ __html: BASEPATH_RUNTIME }} />
         <Navbar {...componentData} />
         {frame.css && <style dangerouslySetInnerHTML={{ __html: frame.css }} />}
         <div id="quartz-root" class="page" data-frame={frame.name}>

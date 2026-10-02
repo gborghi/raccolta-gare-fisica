@@ -1,5 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
+import { pathToRoot } from "../util/path"
 
 // Top navbar matching the "Redesign Raccolta Gare" mockup: phi tile brand, inline
 // section links, and a right cluster with a search box, a "Ricerca per tag" CTA and
@@ -129,8 +130,10 @@ const NAV_SCRIPT = `
 })();
 `
 
-const Navbar: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) => {
-  const bp = basePathOf(cfg?.baseUrl)
+const Navbar: QuartzComponent = ({ cfg, displayClass, fileData }: QuartzComponentProps) => {
+  // RELATIVE to the page (pathToRoot): the same HTML is served by GitHub Pages under
+  // /<repo>/ and by the Cloudflare mirror at /, so no absolute base path can be baked in.
+  const bp = fileData?.slug ? pathToRoot(fileData.slug) : "."
   return (
     <>
       <nav class={classNames(displayClass, "navbar")}>

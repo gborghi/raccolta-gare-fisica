@@ -9,6 +9,7 @@ import path from "node:path"
 import { fileURLToPath } from "node:url"
 import matter from "gray-matter"
 import { stripLocalPdfLinks } from "./scripts/pdf-links.mjs"
+import { addSibling, mergeSiblings, newSiblingStats } from "./scripts/siblings.mjs"
 
 const NUL = String.fromCharCode(0)
 
@@ -388,26 +389,8 @@ function transform(content) {
   return content
 }
 
-// Bilingual: merge hidden translation siblings into a body. Emits one
-// <div class="qlang-switch" data-default="<native>"> then the native body,
-// and per sibling a <div class="qlang-split" data-lang="<l>"> + its body. The
-// client qlang.inline.ts partitions these blocks and toggles by flag. Title/H1
-// stays native (frontmatter), so each sibling's translated H1 + trailing mutual
-// backlink is stripped. Shared by the classic per-file loop and the SPA
-// container-emission pass (atoms keep their qlang blocks inside the reader).
-function mergeSiblings(base, body, nativeLang, siblings, transform) {
-  if (!siblings.has(base)) return body
-  const ORDER = { it: 0, en: 1, es: 2, pt: 3, de: 4, fr: 5 }
-  const sibs = [...siblings.get(base)].sort((a, b) => (ORDER[a.lang] ?? 9) - (ORDER[b.lang] ?? 9))
-  let merged = `<div class="qlang-switch" data-default="${nativeLang}"></div>\n\n` + body
-  for (const s of sibs) {
-    const b = transform(s.body)
-      .replace(/^\s*#\s+.+?(?:\r?\n|$)/m, "")        // drop translated H1 (title comes from frontmatter)
-      .replace(/\n?\[\[[^\]]*\]\]\s*$/, "")           // drop trailing mutual backlink to default
-    merged += `\n\n<div class="qlang-split" data-lang="${s.lang}"></div>\n\n` + b.trim()
-  }
-  return merged
-}
+// Bilingual: mergeSiblings() / addSibling() live in scripts/siblings.mjs (skip rules:
+// no lang, duplicate lang -> newest mtime, lang === native lang; each with a WARN).
 
 async function walk(dir, base = dir, out = []) {
   for (const ent of await fs.readdir(dir, { withFileTypes: true })) {
@@ -538,10 +521,11 @@ async function main() {
   const stemCountry = {}   // stem -> English country name (tooltip on the flag column)
   const stemLevel = {}     // stem -> competition level (from `livello/<x>` tag, fallback frontmatter level)
   const stemYear = {}      // stem -> competition year (frontmatter `year`)
-  // Bilingual: default-stem -> [{lang, body}] hidden `secondary` translation siblings
+  // Bilingual: default-stem -> Map(lang -> {lang, body, mtime, rel}) hidden `secondary` translation siblings
   // (emitted by graphify-out/emit_siblings.py). Merged into their default quesito
   // page below; never emitted as their own page / indexed / graphed.
   const siblings = new Map()
+  const sibStats = newSiblingStats()
   // Foreign provas often lack a livello tag AND an explicit `level`. Deduce the
   // competition level/round from the source pdf path + filename (folders encode
   // the round: UK/round1, Argentina/pruebas-nacionales, Russia/izho.kz, etc.) so
@@ -587,10 +571,10 @@ async function main() {
     if (tipoM && tipoM[1].trim() === "quesito-translation") {
       const of = (fm[1].match(/^translation_of:\s*(.+)$/m) || [, ""])[1].trim()
       const lang = (fm[1].match(/^lang:\s*(.+)$/m) || [, ""])[1].trim()
-      if (of && lang) {
+      if (of) {
         const body = raw.slice(fm[0].length).replace(/^\r?\n/, "")
-        if (!siblings.has(of)) siblings.set(of, [])
-        siblings.get(of).push({ lang, body })
+        const { mtimeMs: mtime } = await fs.stat(path.join(VAULT, rel))
+        addSibling(siblings, of, { lang, body, mtime, rel }, sibStats)
       }
       continue
     }
@@ -703,7 +687,7 @@ async function main() {
     // Bilingual: merge hidden translation siblings into this default quesito page
     // (see mergeSiblings() above -- shared with the SPA container-emission pass).
     if (data.tipo === "quesito") {
-      outContent = mergeSiblings(path.basename(rel, ".md"), outContent, data.lang || "it", siblings, transform)
+      outContent = mergeSiblings(path.basename(rel, ".md"), outContent, data.lang || "it", siblings, transform, sibStats)
     }
     // SPA: prove atoms + prove parents-with-atoms are emitted by the container
     // pass below (one reader page per stem) -- skip their classic per-file page.
@@ -955,6 +939,6 @@ Seleziona uno o più tag per filtrare i ${quesiti.length} quesiti classificati. 
 `
   await fs.writeFile(path.join(CONTENT, "cerca.md"), cerca)
 
-  console.log(`md written ${mdWritten}, assets copied ${assetsCopied}, indexed ${quesiti.length} quesiti, paginated ${pagedLists} concept lists`)
+  console.log(`md written ${mdWritten}, assets copied ${assetsCopied}, indexed ${quesiti.length} quesiti, paginated ${pagedLists} concept lists, merged ${sibStats.merged} translation siblings (skipped: ${sibStats.sameLang} same-lang, ${sibStats.dupes} duplicate-lang, ${sibStats.noLang} no-lang)`)
 }
 main()

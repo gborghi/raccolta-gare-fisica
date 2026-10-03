@@ -8,6 +8,9 @@ import { readdirSync, readFileSync, existsSync } from "node:fs"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
 import matter from "gray-matter"
+import { stripLocalPdfLinks } from "./scripts/pdf-links.mjs"
+import { addSibling, mergeSiblings, newSiblingStats } from "./scripts/siblings.mjs"
+import { nationInfo } from "./scripts/nation.mjs"
 
 const NUL = String.fromCharCode(0)
 
@@ -133,36 +136,7 @@ function flagFor(country, comp, pdf) {
   return FLAGS[country] || "🌍"
 }
 
-// country (Italian/variant name as stored) -> { ISO-3166-1 alpha-2 (lowercase, for
-// flagcdn), English name (tooltip) }. Windows can't render flag EMOJI (🇮🇹 shows as
-// "IT"), so the tables use flagcdn images instead. International/multi-country comps
-// have no single flag -> iso "" -> globe.
-const COUNTRY = {
-  Italia: ["it", "Italy"], Brasile: ["br", "Brazil"], Brasil: ["br", "Brazil"],
-  India: ["in", "India"], Singapore: ["sg", "Singapore"], Canada: ["ca", "Canada"],
-  USA: ["us", "United States"], Russia: ["ru", "Russia"], Spagna: ["es", "Spain"],
-  Spain: ["es", "Spain"], UK: ["gb", "United Kingdom"], Germania: ["de", "Germany"],
-  Germany: ["de", "Germany"], Deutschland: ["de", "Germany"], Argentina: ["ar", "Argentina"],
-  Svizzera: ["ch", "Switzerland"], Australia: ["au", "Australia"], Colombia: ["co", "Colombia"],
-  Giappone: ["jp", "Japan"], Kazakhstan: ["kz", "Kazakhstan"], Indonesia: ["id", "Indonesia"],
-  Portogallo: ["pt", "Portugal"], "Hong Kong": ["hk", "Hong Kong"],
-  Brazil: ["br", "Brazil"], Estonia: ["ee", "Estonia"], China: ["cn", "China"],
-  Taiwan: ["tw", "Taiwan"], Romania: ["ro", "Romania"], Hungary: ["hu", "Hungary"],
-  Azerbaijan: ["az", "Azerbaijan"], Portugal: ["pt", "Portugal"],
-}
-// -> { iso, name }. iso "" means render the globe (international / multi-country / unmapped).
-function nationInfo(country, comp, pdf) {
-  const p = (pdf || "").toLowerCase()
-  const e = COUNTRY[country]
-  // comp_code IPhO is also the German selection (paese/Germania). A mapped country
-  // keeps its flag; only a real international paper (path, or no single country) is a globe.
-  const pathIntl = /\/ipho\/|\/eupho\//.test(p)
-  const nameIntl = /^intern/i.test(country || "")
-  const compIntl = (comp === "IPhO" || comp === "EuPhO") && !e
-  const intl = pathIntl || nameIntl || compIntl
-  if (e && !intl) return { iso: e[0], name: e[1] }
-  return { iso: "", name: intl ? "International" : (country || "International") }
-}
+// country -> { iso, name } for the flag column: see scripts/nation.mjs (nationInfo).
 
 // Wikilinks are rewritten to prove/<stem> before the list is extracted, but the
 // flag maps are keyed by the file basename. Look up both, or every row is a globe.
@@ -362,9 +336,9 @@ function injectFigSvg(content) {
 }
 
 function transform(content) {
-  // strip PDF links (kept as plain text label)
-  content = content.replace(/\[([^\]]*)\]\(<[^>]*\.pdf[^>]*>\)/gi, "$1")
-  content = content.replace(/\[([^\]]*)\]\([^)\s]*\.pdf[^)]*\)/gi, "$1")
+  // strip local-vault PDF links (kept as plain text label); external http(s) PDF links
+  // survive -- see scripts/pdf-links.mjs (negative lookahead (?!<?https?:) in both regexes)
+  content = stripLocalPdfLinks(content)
   // turn **Fonte/Risposta/Soluzione** PDF wikilinks into plain text (no public PDFs)
   content = content.replace(/\[\[[^\]]*\.pdf(?:#[^\]|]*)?(?:\|([^\]]*))?\]\]/gi, (full, alias) => alias || "")
   content = content.replace(/ ·\s*$/gm, "")
@@ -387,26 +361,8 @@ function transform(content) {
   return content
 }
 
-// Bilingual: merge hidden translation siblings into a body. Emits one
-// <div class="qlang-switch" data-default="<native>"> then the native body,
-// and per sibling a <div class="qlang-split" data-lang="<l>"> + its body. The
-// client qlang.inline.ts partitions these blocks and toggles by flag. Title/H1
-// stays native (frontmatter), so each sibling's translated H1 + trailing mutual
-// backlink is stripped. Shared by the classic per-file loop and the SPA
-// container-emission pass (atoms keep their qlang blocks inside the reader).
-function mergeSiblings(base, body, nativeLang, siblings, transform) {
-  if (!siblings.has(base)) return body
-  const ORDER = { it: 0, en: 1, es: 2, pt: 3, de: 4, fr: 5 }
-  const sibs = [...siblings.get(base)].sort((a, b) => (ORDER[a.lang] ?? 9) - (ORDER[b.lang] ?? 9))
-  let merged = `<div class="qlang-switch" data-default="${nativeLang}"></div>\n\n` + body
-  for (const s of sibs) {
-    const b = transform(s.body)
-      .replace(/^\s*#\s+.+?(?:\r?\n|$)/m, "")        // drop translated H1 (title comes from frontmatter)
-      .replace(/\n?\[\[[^\]]*\]\]\s*$/, "")           // drop trailing mutual backlink to default
-    merged += `\n\n<div class="qlang-split" data-lang="${s.lang}"></div>\n\n` + b.trim()
-  }
-  return merged
-}
+// Bilingual: mergeSiblings() / addSibling() live in scripts/siblings.mjs (skip rules:
+// no lang, duplicate lang -> newest mtime, lang === native lang; each with a WARN).
 
 async function walk(dir, base = dir, out = []) {
   for (const ent of await fs.readdir(dir, { withFileTypes: true })) {
@@ -537,10 +493,11 @@ async function main() {
   const stemCountry = {}   // stem -> English country name (tooltip on the flag column)
   const stemLevel = {}     // stem -> competition level (from `livello/<x>` tag, fallback frontmatter level)
   const stemYear = {}      // stem -> competition year (frontmatter `year`)
-  // Bilingual: default-stem -> [{lang, body}] hidden `secondary` translation siblings
+  // Bilingual: default-stem -> Map(lang -> {lang, body, mtime, rel}) hidden `secondary` translation siblings
   // (emitted by graphify-out/emit_siblings.py). Merged into their default quesito
   // page below; never emitted as their own page / indexed / graphed.
   const siblings = new Map()
+  const sibStats = newSiblingStats()
   // Foreign provas often lack a livello tag AND an explicit `level`. Deduce the
   // competition level/round from the source pdf path + filename (folders encode
   // the round: UK/round1, Argentina/pruebas-nacionales, Russia/izho.kz, etc.) so
@@ -586,10 +543,10 @@ async function main() {
     if (tipoM && tipoM[1].trim() === "quesito-translation") {
       const of = (fm[1].match(/^translation_of:\s*(.+)$/m) || [, ""])[1].trim()
       const lang = (fm[1].match(/^lang:\s*(.+)$/m) || [, ""])[1].trim()
-      if (of && lang) {
+      if (of) {
         const body = raw.slice(fm[0].length).replace(/^\r?\n/, "")
-        if (!siblings.has(of)) siblings.set(of, [])
-        siblings.get(of).push({ lang, body })
+        const { mtimeMs: mtime } = await fs.stat(path.join(VAULT, rel))
+        addSibling(siblings, of, { lang, body, mtime, rel }, sibStats)
       }
       continue
     }
@@ -702,7 +659,7 @@ async function main() {
     // Bilingual: merge hidden translation siblings into this default quesito page
     // (see mergeSiblings() above -- shared with the SPA container-emission pass).
     if (data.tipo === "quesito") {
-      outContent = mergeSiblings(path.basename(rel, ".md"), outContent, data.lang || "it", siblings, transform)
+      outContent = mergeSiblings(path.basename(rel, ".md"), outContent, data.lang || "it", siblings, transform, sibStats)
     }
     // SPA: prove atoms + prove parents-with-atoms are emitted by the container
     // pass below (one reader page per stem) -- skip their classic per-file page.
@@ -954,6 +911,6 @@ Seleziona uno o più tag per filtrare i ${quesiti.length} quesiti classificati. 
 `
   await fs.writeFile(path.join(CONTENT, "cerca.md"), cerca)
 
-  console.log(`md written ${mdWritten}, assets copied ${assetsCopied}, indexed ${quesiti.length} quesiti, paginated ${pagedLists} concept lists`)
+  console.log(`md written ${mdWritten}, assets copied ${assetsCopied}, indexed ${quesiti.length} quesiti, paginated ${pagedLists} concept lists, merged ${sibStats.merged} translation siblings (skipped: ${sibStats.sameLang} same-lang, ${sibStats.dupes} duplicate-lang, ${sibStats.noLang} no-lang)`)
 }
 main()

@@ -1,15 +1,17 @@
 ---
-title: OII na ''
+title: IPhO 2007 — Teorica — Pink
 tipo: prova
 tags:
   - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="pink_it"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na '' — Problema 1" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/astrophysics,topic/gravitation,topic/wave-optics,object/star"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2007 — Teorica — Pink — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/astrophysics,topic/gravitation,topic/wave-optics,object/star"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -84,7 +86,7 @@ With a good approximation, the radiation you receive from a star is a uniform bl
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na '' — Problema 2" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/astrophysics,topic/oscillations-e-waves,object/star,object/atom"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2007 — Teorica — Pink — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/astrophysics,topic/oscillations-e-waves,object/star,object/atom"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -177,7 +179,7 @@ In Table 1 we have the wavelengths measured for this line in the light from the 
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na '' — Problema 3" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/astrophysics,topic/gravitation,object/star"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2007 — Teorica — Pink — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/astrophysics,topic/gravitation,object/star"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -214,7 +216,7 @@ The only force acting between the two stars is gravitational.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na '' — Problema 4" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/astrophysics,topic/geometric-optics,object/star"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2007 — Teorica — Pink — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/astrophysics,topic/geometric-optics,object/star"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2007 — Teorica — Orange
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="orange_it"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electrostatics,topic/oscillations-e-waves,argomento/meccanica,object/capacitor,object/spring"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2007 — Teorica — Orange — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electrostatics,topic/oscillations-e-waves,argomento/meccanica,object/capacitor,object/spring"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -76,7 +78,7 @@ Consider a flat capacitor with parallel armor, as in Figure 1. The area of each 
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electrostatics,topic/circuits,topic/newtonian-mechanics,argomento/meccanica,object/capacitor,object/spring"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2007 — Teorica — Orange — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electrostatics,topic/circuits,topic/newtonian-mechanics,argomento/meccanica,object/capacitor,object/spring"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -143,7 +145,7 @@ Now you make the approximation $d \gg x$ and then you ignore the terms of the or
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electrostatics,topic/circuits,argomento/meccanica,object/capacitor"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2007 — Teorica — Orange — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electrostatics,topic/circuits,argomento/meccanica,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -180,7 +182,7 @@ Find, by $x$, the difference in potential $V_S$ to capacitor heads $C_S$. [1.5]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Teorica — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/circuits,topic/electrostatics,argomento/meccanica,object/capacitor,object/spring"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2007 — Teorica — Orange — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/circuits,topic/electrostatics,argomento/meccanica,object/capacitor,object/spring"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

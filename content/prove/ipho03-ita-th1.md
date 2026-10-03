@@ -1,15 +1,17 @@
 ---
-title: OII na '' — IPhO03 ITA TH1.pdf
+title: IPhO 2003 — Teorica — Problema 1
 tipo: prova
 tags:
   - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="ipho03-ita-th1"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na '' — IPhO03 ITA TH1.pdf — Problema 1" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/conservation-of-energy,topic/oscillations-e-waves,object/rod,object/pendulum,object/rope-string"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2003 — Teorica — Problema 1 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/conservation-of-energy,topic/oscillations-e-waves,object/rod,object/pendulum,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

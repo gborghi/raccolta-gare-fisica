@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale — IPhO16 - Experiment Q1
+title: IPhO 2016 — Sperimentale — Q1
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="ipho16---experiment-q1---italiano"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — IPhO16 - Experiment Q1 — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/circuits,topic/electrostatics,topic/elasticity-e-materials,argomento/meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2016 — Sperimentale — Q1 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/circuits,topic/electrostatics,topic/elasticity-e-materials,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -98,7 +100,7 @@ The sample shall be measured in accordance with the following formula:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Sperimentale — IPhO16 - Experiment Q1 — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/circuits,topic/electrostatics,topic/elasticity-e-materials,argomento/meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2016 — Sperimentale — Q1 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/circuits,topic/electrostatics,topic/elasticity-e-materials,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -137,7 +139,7 @@ The test shall be carried out on the basis of the following information:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Sperimentale — IPhO16 - Experiment Q1 — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/circuits,topic/electrostatics,argomento/meccanica,object/disk,object/spring"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2016 — Sperimentale — Q1 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/circuits,topic/electrostatics,argomento/meccanica,object/disk,object/spring"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -176,7 +178,7 @@ The test shall be carried out on the basis of the following information:
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Sperimentale — IPhO16 - Experiment Q1 — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/circuits,topic/electrostatics,argomento/meccanica,object/resistor"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2016 — Sperimentale — Q1 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/circuits,topic/electrostatics,argomento/meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -205,7 +207,7 @@ The test shall be carried out on the basis of the following information:
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII na Sperimentale — IPhO16 - Experiment Q1 — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/circuits,topic/electrostatics,argomento/meccanica,object/battery,object/resistor"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2016 — Sperimentale — Q1 — Quesito 5" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/circuits,topic/electrostatics,argomento/meccanica,object/battery,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

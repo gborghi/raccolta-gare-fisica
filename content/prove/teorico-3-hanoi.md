@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica — Teorico 3 Hanoi.pdf
+title: IPhO 2008 — Teorica — Problema 3
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="teorico-3-hanoi"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Teorico 3 Hanoi.pdf — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/thermodynamics,argomento/termodinamica,object/gas"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2008 — Teorica — Problema 3 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/thermodynamics,argomento/termodinamica,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -62,7 +64,7 @@ I'm going to trial?
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Teorica — Teorico 3 Hanoi.pdf — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/fluid-mechanics,argomento/termodinamica,object/gas"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2008 — Teorica — Problema 3 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/fluid-mechanics,argomento/termodinamica,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -138,7 +140,7 @@ $|\Lambda z| \ll T(0)$ and $T(0) \approx T_\text{parcel}(0)$.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Teorica — Teorico 3 Hanoi.pdf — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/fluid-mechanics,topic/thermodynamics,topic/newtonian-mechanics,argomento/termodinamica,object/gas"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2008 — Teorica — Problema 3 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/fluid-mechanics,topic/thermodynamics,topic/newtonian-mechanics,argomento/termodinamica,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -201,7 +203,7 @@ stable in terms of $\Lambda$ and $\Gamma$.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Teorica — Teorico 3 Hanoi.pdf — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/fluid-mechanics,argomento/termodinamica,object/gas"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2008 — Teorica — Problema 3 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/fluid-mechanics,argomento/termodinamica,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -294,7 +296,7 @@ Data recorded from a balloon at 7:00 a.m. on a November day in Hanoi.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII na Teorica — Teorico 3 Hanoi.pdf — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/thermodynamics,argomento/termodinamica,object/gas"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2008 — Teorica — Problema 3 — Quesito 5" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/thermodynamics,argomento/termodinamica,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

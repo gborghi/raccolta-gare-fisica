@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale
+title: IPhO 2023 — Sperimentale — Q2
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="exam-experiment-q2-italiano_4"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/meccanica,object/slit,object/lens,object/diffraction-grating,object/screen"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2023 — Sperimentale — Q2 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/meccanica,object/slit,object/lens,object/diffraction-grating,object/screen"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -316,7 +318,7 @@ corrected so that $\lambda_\text{Peak}$ falls within the appropriate range. Reco
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/geometric-optics,topic/oscillations-e-waves,argomento/meccanica,object/diffraction-grating"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2023 — Sperimentale — Q2 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/geometric-optics,topic/oscillations-e-waves,argomento/meccanica,object/diffraction-grating"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

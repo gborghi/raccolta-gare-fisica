@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 1999 — Teorica
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="teostu_i"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/modern-quantum-physics,topic/newtonian-mechanics,argomento/meccanica,object/gas,object/cylinder,object/piston,object/photon"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 1999 — Teorica — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/modern-quantum-physics,topic/newtonian-mechanics,argomento/meccanica,object/gas,object/cylinder,object/piston,object/photon"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -208,7 +210,7 @@ If so, what is its new value? $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dot
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/magnetism,topic/oscillations-e-waves,topic/electromagnetism,argomento/meccanica,object/wire,object/magnet"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 1999 — Teorica — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/magnetism,topic/oscillations-e-waves,topic/electromagnetism,argomento/meccanica,object/wire,object/magnet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -401,7 +403,7 @@ $\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/gravitation,topic/newtonian-mechanics,topic/conservation-of-energy,argomento/meccanica,object/satellite,object/planet,object/star"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 1999 — Teorica — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/gravitation,topic/newtonian-mechanics,topic/conservation-of-energy,argomento/meccanica,object/satellite,object/planet,object/star"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

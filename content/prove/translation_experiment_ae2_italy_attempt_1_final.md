@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale
+title: IPhO 2017 — Sperimentale — AE2
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="translation_experiment_ae2_italy_attempt_1_final"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/magnetism,topic/oscillations-e-waves,topic/fluid-mechanics,argomento/elettromagnetismo,object/magnet,object/rod"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2017 — Sperimentale — AE2 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/magnetism,topic/oscillations-e-waves,topic/fluid-mechanics,argomento/elettromagnetismo,object/magnet,object/rod"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -40,7 +42,7 @@ tags:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/magnetism,topic/oscillations-e-waves,topic/fluid-mechanics,argomento/elettromagnetismo,object/magnet,object/rod"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2017 — Sperimentale — AE2 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/magnetism,topic/oscillations-e-waves,topic/fluid-mechanics,argomento/elettromagnetismo,object/magnet,object/rod"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

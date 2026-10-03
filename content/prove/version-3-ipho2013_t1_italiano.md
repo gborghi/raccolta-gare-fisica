@@ -1,15 +1,17 @@
 ---
-title: OII 2013 '' — Version 3 IPhO2013_T1_Italiano.pdf
+title: IPhO 2013 — Teorica — T1
 tipo: prova
 tags:
   - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="version-3-ipho2013_t1_italiano"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2013 '' — Version 3 IPhO2013_T1_Italiano.pdf — Problema 1" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/thermodynamics,topic/nuclear-e-particle-physics,object/projectile,object/planet,object/nucleus"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2013 — Teorica — T1 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/thermodynamics,topic/nuclear-e-particle-physics,object/projectile,object/planet,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

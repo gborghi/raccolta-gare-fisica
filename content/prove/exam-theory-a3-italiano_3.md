@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2022 — Teorica — A3
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="exam-theory-a3-italiano_3"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/order-of-magnitude-estimation,topic/gravitation,topic/elasticity-e-materials,argomento/onde-e-oscillazioni,object/rod"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2022 — Teorica — A3 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/order-of-magnitude-estimation,topic/gravitation,topic/elasticity-e-materials,argomento/onde-e-oscillazioni,object/rod"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

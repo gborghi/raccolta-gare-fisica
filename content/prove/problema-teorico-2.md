@@ -1,15 +1,17 @@
 ---
-title: OII na '' — problema teorico 2.pdf
+title: IPhO 2009 — Teorica — Problema 2
 tipo: prova
 tags:
   - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="problema-teorico-2"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na '' — problema teorico 2.pdf — Problema 1" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/conservation-of-momentum,topic/conservation-of-energy,object/atom,object/photon"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2009 — Teorica — Problema 2 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/conservation-of-momentum,topic/conservation-of-energy,object/atom,object/photon"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -110,7 +112,7 @@ Write down the resonance condition for which the photon is absorbed.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na '' — problema teorico 2.pdf — Problema 2" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/conservation-of-momentum,topic/conservation-of-energy,object/atom,object/photon"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2009 — Teorica — Problema 2 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/conservation-of-momentum,topic/conservation-of-energy,object/atom,object/photon"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -159,7 +161,7 @@ Some time after absorbing the photon the atom can emit a photon in the direction
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na '' — problema teorico 2.pdf — Problema 3" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/conservation-of-momentum,topic/conservation-of-energy,object/atom,object/photon"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2009 — Teorica — Problema 2 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/conservation-of-momentum,topic/conservation-of-energy,object/atom,object/photon"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -208,7 +210,7 @@ Write in the laboratory reference system the total energy of the atom, $E_{2+}$,
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na '' — problema teorico 2.pdf — Problema 4" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/conservation-of-momentum,topic/conservation-of-energy,object/atom,object/photon"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2009 — Teorica — Problema 2 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/conservation-of-momentum,topic/conservation-of-energy,object/atom,object/photon"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -257,7 +259,7 @@ The spontaneous emission of a photon in the direction $-x$ or $+x$ occurs with t
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII na '' — problema teorico 2.pdf — Problema 5" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/conservation-of-momentum,topic/conservation-of-energy,object/atom,object/photon"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2009 — Teorica — Problema 2 — Quesito 5" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/conservation-of-momentum,topic/conservation-of-energy,object/atom,object/photon"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -298,7 +300,7 @@ Write down the mean change in energy of the atom, $\langle\Delta E\rangle$, afte
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII na '' — problema teorico 2.pdf — Problema 6" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/special-relativity,topic/conservation-of-momentum,object/atom,object/photon,object/gas"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="IPhO 2009 — Teorica — Problema 2 — Quesito 6" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/special-relativity,topic/conservation-of-momentum,object/atom,object/photon,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -381,7 +383,7 @@ The following information is provided for in the Annex to this Regulation: Two l
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OII na '' — problema teorico 2.pdf — Problema 7" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/modern-quantum-physics,topic/conservation-of-momentum,object/atom,object/photon,object/particle-beam"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="IPhO 2009 — Teorica — Problema 2 — Quesito 7" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/modern-quantum-physics,topic/conservation-of-momentum,object/atom,object/photon,object/particle-beam"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -414,7 +416,7 @@ The following information is provided for in the Annex to this Regulation: Two l
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OII na '' — problema teorico 2.pdf — Problema 8" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/modern-quantum-physics,object/atom,object/photon"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="IPhO 2009 — Teorica — Problema 2 — Quesito 8" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/modern-quantum-physics,object/atom,object/photon"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -467,7 +469,7 @@ Based on this latest result, you can find the conditions to accelerate atoms, sl
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OII na '' — problema teorico 2.pdf — Problema 9" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/thermodynamics,topic/kinetic-theory,object/atom,object/gas"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="IPhO 2009 — Teorica — Problema 2 — Quesito 9" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/thermodynamics,topic/kinetic-theory,object/atom,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

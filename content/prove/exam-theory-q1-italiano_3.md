@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2022 — Teorica — Q1
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="exam-theory-q1-italiano_3"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/magnetism,topic/electromagnetism,topic/electrostatics,argomento/meccanica,object/magnet,object/cylinder,object/sphere,object/magnetic-dipole"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2022 — Teorica — Q1 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/magnetism,topic/electromagnetism,topic/electrostatics,argomento/meccanica,object/magnet,object/cylinder,object/sphere,object/magnetic-dipole"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

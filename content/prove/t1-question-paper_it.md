@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2015 — Teorica — T1
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="t1-question-paper_it"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/astrophysics,topic/modern-quantum-physics,topic/nuclear-e-particle-physics,argomento/meccanica,object/photon,object/star,object/electron"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2015 — Teorica — T1 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/astrophysics,topic/modern-quantum-physics,topic/nuclear-e-particle-physics,argomento/meccanica,object/photon,object/star,object/electron"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

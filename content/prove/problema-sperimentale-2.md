@@ -1,15 +1,17 @@
 ---
-title: OII na '' — problema sperimentale 2.pdf
+title: IPhO 2009 — Sperimentale — Problema 2
 tipo: prova
 tags:
   - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="problema-sperimentale-2"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na '' — problema sperimentale 2.pdf — Problema 1" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/oscillations-e-waves,topic/electromagnetism,object/mirror"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2009 — Sperimentale — Problema 2 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/oscillations-e-waves,topic/electromagnetism,object/mirror"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

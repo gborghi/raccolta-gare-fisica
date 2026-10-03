@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale
+title: IPhO 2019 — Sperimentale — Q2
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="exam-experiment-q2-italiano"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/electromagnetic-induction,topic/circuits,argomento/meccanica,object/pipe-tube,object/magnet,object/tank-container"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2019 — Sperimentale — Q2 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/electromagnetic-induction,topic/circuits,argomento/meccanica,object/pipe-tube,object/magnet,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

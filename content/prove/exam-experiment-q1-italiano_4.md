@@ -1,15 +1,17 @@
 ---
-title: '[IPhO2022 2022 Experimental Q1]'
+title: IPhO 2022 — Sperimentale — Q1
 tipo: prova
 tags:
   - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="exam-experiment-q1-italiano_4"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="[IPhO2022 2022 Experimental Q1] — Problema 1" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/fluid-mechanics,topic/thermodynamics,object/planet,object/sphere"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2022 — Sperimentale — Q1 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/fluid-mechanics,topic/thermodynamics,object/planet,object/sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

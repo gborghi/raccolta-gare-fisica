@@ -1,15 +1,17 @@
 ---
-title: OII na ''
+title: IPhO 2001 — Teorica — Problema 3
 tipo: prova
 tags:
   - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="it-theo3"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na '' — Problema 1" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electromagnetism,topic/fluid-mechanics,topic/special-relativity,object/pipe-tube"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2001 — Teorica — Problema 3 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electromagnetism,topic/fluid-mechanics,topic/special-relativity,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

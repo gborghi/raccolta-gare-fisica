@@ -1,15 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2011 — Teorica — Q1
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="q1_theory_question_translated"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/gravitation,topic/newtonian-mechanics,argomento/meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2011 — Teorica — Q1 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/gravitation,topic/newtonian-mechanics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -56,7 +58,7 @@ The following table shows the results of the calculations:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/gravitation,topic/newtonian-mechanics,argomento/meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2011 — Teorica — Q1 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/gravitation,topic/newtonian-mechanics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -97,7 +99,7 @@ The following table shows the results of the calculation of the total cost of th
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/gravitation,topic/oscillations-e-waves,argomento/meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2011 — Teorica — Q1 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/gravitation,topic/oscillations-e-waves,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -138,7 +140,7 @@ The following information shall be provided:
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Teorica — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/gravitation,topic/astrophysics,argomento/meccanica,object/satellite"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2011 — Teorica — Q1 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/gravitation,topic/astrophysics,argomento/meccanica,object/satellite"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

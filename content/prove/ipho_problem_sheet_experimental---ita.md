@@ -1,15 +1,17 @@
 ---
-title: OII na Sperimentale — IPhO_Problem_Sheet_Experimental
+title: IPhO 2012 — Sperimentale
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="ipho_problem_sheet_experimental---ita"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — IPhO_Problem_Sheet_Experimental — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/magnetism,topic/geometric-optics,topic/circuits,argomento/elettromagnetismo,object/magnet,object/capacitor,object/inductor,object/resistor"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2012 — Sperimentale — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/magnetism,topic/geometric-optics,topic/circuits,argomento/elettromagnetismo,object/magnet,object/capacitor,object/inductor,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -338,7 +340,7 @@ The appliances
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Sperimentale — IPhO_Problem_Sheet_Experimental — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2012 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -367,7 +369,7 @@ The appliances
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Sperimentale — IPhO_Problem_Sheet_Experimental — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2012 — Sperimentale — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -396,7 +398,7 @@ The appliances
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Sperimentale — IPhO_Problem_Sheet_Experimental — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2012 — Sperimentale — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -425,7 +427,7 @@ The appliances
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII na Sperimentale — IPhO_Problem_Sheet_Experimental — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2012 — Sperimentale — Quesito 5" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -458,7 +460,7 @@ the device indicates +nan/s;
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII na Sperimentale — IPhO_Problem_Sheet_Experimental — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="IPhO 2012 — Sperimentale — Quesito 6" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -487,7 +489,7 @@ the device indicates +nan/s;
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OII na Sperimentale — IPhO_Problem_Sheet_Experimental — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="IPhO 2012 — Sperimentale — Quesito 7" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -518,7 +520,7 @@ the device indicates +nan/s;
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OII na Sperimentale — IPhO_Problem_Sheet_Experimental — Problema 8" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="IPhO 2012 — Sperimentale — Quesito 8" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -547,7 +549,7 @@ the device indicates +nan/s;
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OII na Sperimentale — IPhO_Problem_Sheet_Experimental — Problema 9" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="IPhO 2012 — Sperimentale — Quesito 9" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

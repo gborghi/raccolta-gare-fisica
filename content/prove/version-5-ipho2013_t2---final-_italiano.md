@@ -1,15 +1,17 @@
 ---
-title: OII 2013 '' — Version 5 IPhO2013_T2 - FINAL _italiano.pdf
+title: IPhO 2013 — Teorica — T2
 tipo: prova
 tags:
   - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="version-5-ipho2013_t2---final-_italiano"></div>
 
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2013 '' — Version 5 IPhO2013_T2 - FINAL _italiano.pdf — Problema 2" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electrostatics,topic/oscillations-e-waves,topic/thermodynamics,object/sphere,object/electron,object/bubble,object/capacitor,object/inductor"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2013 — Teorica — T2 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electrostatics,topic/oscillations-e-waves,topic/thermodynamics,object/sphere,object/electron,object/bubble,object/capacitor,object/inductor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

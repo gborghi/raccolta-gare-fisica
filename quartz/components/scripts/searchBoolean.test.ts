@@ -23,6 +23,7 @@ import {
   isolateAtom,
   showResultCount,
   type AtomEl,
+  markResultCount,
 } from "./searchBoolean"
 
 // Tiny fake engine with the same semantics as the plain FlexSearch query used by the
@@ -576,5 +577,86 @@ describe("v4: preview of a per-quesito hit shows that quesito", () => {
       assert.ok(shown.includes("triangolo isoscele"), `${key}: preview must contain the phrase`)
       if (target.frag) assert.ok(!shown.includes("numeri con 4 divisori"), `${key}: no other quesito`)
     }
+  })
+})
+
+describe("v5: -word == NOT word, one operand; /cerca count hooks", () => {
+  const D = [
+    "triangolo rettangolo isoscele", // 0
+    "triangolo equilatero", // 1
+    "cerchio inscritto in un triangolo", // 2
+    "rettangolo aureo", // 3
+    "cerchio e quadrato", // 4
+  ]
+  const c: EvalContext = {
+    async searchTerms(text) {
+      const ws = text.toLowerCase().split(/\s+/).filter(Boolean)
+      return D.map((d, id) => ({ id, toks: d.split(" ") }))
+        .filter(({ toks }) => ws.every((w) => toks.some((t) => t.startsWith(w))))
+        .map(({ id }) => id)
+    },
+    textOf: (id) => D[id]!,
+    allIds: () => D.map((_, i) => i),
+  }
+  const ids = async (q: string) => {
+    const plan = planQuery(q) as any
+    assert.strictEqual(plan.mode, "boolean", q)
+    return [...(await evaluateBoolean(plan.ast, c))].sort()
+  }
+  test("leading / infix minus and NOT give the same set (and count)", async () => {
+    const want = [1, 2]
+    for (const q of [
+      "triangolo -rettangolo",
+      "-rettangolo triangolo",
+      "triangolo NOT rettangolo",
+      "NOT rettangolo triangolo",
+    ])
+      assert.deepStrictEqual(await ids(q), want, q)
+  })
+  test("-b alone == NOT b alone (universe minus b)", async () => {
+    assert.deepStrictEqual(await ids("-rettangolo"), [1, 2, 4])
+    assert.deepStrictEqual(await ids("NOT rettangolo"), [1, 2, 4])
+  })
+  test("a -b c: minus negates only the next word", async () => {
+    assert.deepStrictEqual(await ids("cerchio -quadrato triangolo"), [2])
+    assert.deepStrictEqual(await ids("-quadrato cerchio triangolo"), [2])
+    assert.deepStrictEqual(await ids("cerchio triangolo NOT quadrato"), [2])
+    assert.deepStrictEqual(await ids("cerchio NOT quadrato triangolo"), [2])
+  })
+  test("NOT still negates a whole phrase / group / field", async () => {
+    assert.deepStrictEqual(await ids('triangolo -"triangolo equilatero"'), [0, 2])
+    assert.deepStrictEqual(await ids("triangolo NOT (rettangolo OR equilatero)"), [2])
+  })
+  test("in-page row filter (/cerca, lists): same equivalence", () => {
+    for (const [a, b] of [
+      ["-rettangolo triangolo", "triangolo NOT rettangolo"],
+      ["cerchio -quadrato triangolo", "cerchio triangolo NOT quadrato"],
+      ["-rettangolo", "NOT rettangolo"],
+    ]) {
+      const ma = makeRowMatcher(a)!
+      const mb = makeRowMatcher(b)!
+      assert.deepStrictEqual(D.map((d) => ma(d)), D.map((d) => mb(d)), `${a} vs ${b}`)
+    }
+    const m = makeRowMatcher("-rettangolo triangolo")!
+    assert.deepStrictEqual(D.map((d) => m(d)), [false, true, true, false, false])
+  })
+  test("/cerca count: .rgf-search-count[data-search-count] + query, removed when nothing listed", () => {
+    const cls = new Set<string>()
+    const attrs: Record<string, string> = {}
+    const el = {
+      classList: { add: (x: string) => void cls.add(x) },
+      setAttribute: (k: string, v: string) => void (attrs[k] = v),
+      removeAttribute: (k: string) => void delete attrs[k],
+    }
+    markResultCount(el, 42, "-rettangolo triangolo")
+    assert.ok(cls.has("rgf-search-count"))
+    assert.strictEqual(attrs["data-search-count"], "42")
+    assert.strictEqual(attrs["data-search-query"], "-rettangolo triangolo")
+    assert.strictEqual(attrs["data-search-state"], "done")
+    markResultCount(el, 0, "")
+    assert.strictEqual(attrs["data-search-count"], "0")
+    markResultCount(el, null, "")
+    assert.strictEqual(attrs["data-search-count"], undefined)
+    assert.strictEqual(attrs["data-search-state"], undefined)
   })
 })

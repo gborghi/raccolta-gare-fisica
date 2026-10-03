@@ -9,7 +9,8 @@
 // Syntax (documented to users in the help hint, Italian):
 //   AND, OR, NOT     operators, UPPERCASE ONLY (lowercase "and/or/not" and the
 //                    Italian "e"/"o"/"non" stay ordinary search words)
-//   -parola          NOT shorthand (only at the start of a word: "x-ray" is a word)
+//   -parola          NOT shorthand (only at the start of a word: "x-ray" is a word);
+//                    NOT and -x negate ONE operand (next word / phrase / field / group)
 //   "frase esatta"   exact phrase (case-insensitive, whitespace-collapsed); literal
 //                    matches rank first. Per-quesito keyword entries (no running
 //                    text in the index) match a phrase by all of its words.
@@ -190,6 +191,12 @@ function parseTokens(toks: Tok[]): BoolNode {
     if (!t) throw new Malformed("missing operand")
     if (t.t === "not") {
       p++
+      // NOT / -word negates ONE operand: the next word, phrase, field or (group).
+      // "-rettangolo triangolo" == "triangolo -rettangolo" == triangolo AND NOT rettangolo
+      // (before: NOT swallowed the whole bare-word run -> NOT (rettangolo AND triangolo)).
+      if (peek()?.t === "word") {
+        return { type: "not", child: { type: "terms", text: (toks[p++] as { v: string }).v } }
+      }
       return { type: "not", child: parseUnary() }
     }
     if (t.t === "lp") {
@@ -1109,4 +1116,32 @@ export function isolateAtom(root: AtomEl, frag: string): boolean {
     if (i < at || i >= end) k.remove()
   })
   return true
+}
+
+/**
+ * /cerca (in-page tag search, quesiti.json rows): expose its own visible count ("N quesiti")
+ * with the same hooks as the overlay count: `.rgf-search-count[data-search-count]`,
+ * `data-search-query` (text filter, may be ""), `data-search-state="done"`. n = null
+ * (no tag selected, nothing listed) removes the number.
+ */
+export function markResultCount(
+  el: { classList: { add(c: string): void }; setAttribute(k: string, v: string): void; removeAttribute(k: string): void } | null,
+  n: number | null,
+  query: string,
+): void {
+  if (!el) return
+  try {
+    el.classList.add("rgf-search-count")
+    if (n === null) {
+      el.removeAttribute("data-search-count")
+      el.removeAttribute("data-search-query")
+      el.removeAttribute("data-search-state")
+      return
+    }
+    el.setAttribute("data-search-count", String(Math.max(0, Math.floor(n))))
+    el.setAttribute("data-search-query", query)
+    el.setAttribute("data-search-state", "done")
+  } catch {
+    // purely informative
+  }
 }

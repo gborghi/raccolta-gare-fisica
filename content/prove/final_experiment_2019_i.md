@@ -1,5 +1,5 @@
 ---
-title: Svizze 2019
+title: Svizzera 2019
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2019 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Ottica,object/pipe-tube,object/tank-container"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Svizzera 2019 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Ottica,object/pipe-tube,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: Argent 2018
+title: Argentina 2018
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2018 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2018 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -143,7 +143,7 @@ The following table shows the results of the tests:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2018 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/spring,object/block"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2018 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/spring,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -261,7 +261,7 @@ I'll just take your piano and block it with friction.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2018 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/block,object/rope-string,object/pulley,object/spring,object/cylinder"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2018 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/block,object/rope-string,object/pulley,object/spring,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

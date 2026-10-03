@@ -1,5 +1,5 @@
 ---
-title: Argent 1999
+title: Argentina 1999
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 1999 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/pendulum,object/rod"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 1999 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/pendulum,object/rod"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -247,7 +247,7 @@ $\alpha_1$ and $\alpha_2$ so that the period $T$ does not depend on $\Delta t$ i
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 1999 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/beam,object/rope-string,object/pulley"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 1999 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/beam,object/rope-string,object/pulley"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -418,7 +418,7 @@ time [s]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 1999 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/star,object/planet"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 1999 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/star,object/planet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: Svizze 2026
+title: Svizzera 2026
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2026 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Svizzera 2026 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -54,7 +54,7 @@ Calcola quanti litri di acqua cadono ogni anno nelle cascate del Reno.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2026 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Svizzera 2026 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -101,7 +101,7 @@ Tre oggetti celesti approssimati come masse puntine con le masse $m_1$, $m_2$ e 
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2026 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Svizzera 2026 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -142,7 +142,7 @@ Due specchi semitransparenti, che riflettono ciascuno il 75% della luce incident
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2026 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Svizzera 2026 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -191,7 +191,7 @@ Una particella si muove in modo casuale tra le tre posizioni A, B e C. Da un pas
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2026 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/wheel"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Svizzera 2026 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/wheel"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -232,7 +232,7 @@ Una lavatrice ruota a 1500 rotazioni al minuto. Non appena viene spento, frenare
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2026 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pendulum"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Svizzera 2026 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -271,7 +271,7 @@ Un pendolo è sospeso al soffitto di un ascensore. Quando l'ascensore inizia ad 
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2026 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Svizzera 2026 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -336,7 +336,7 @@ Quali informazioni utilizza il powermeter per calcolare la potenza di Remco?
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2026 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/beam,object/lever"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Svizzera 2026 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/beam,object/lever"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -385,7 +385,7 @@ Guarda la scala di raggi qui sotto. Cosa mostra la scala quando il peso sul lato
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2026 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Svizzera 2026 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -436,7 +436,7 @@ Alice goes up and down the Mont Blanc, rising $h = 4806\,\text{m}$ above sea lev
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Svizze 2026 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/atom,object/electron,object/photon"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Svizzera 2026 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/atom,object/electron,object/photon"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -483,7 +483,7 @@ Quando un elettrone in un atomo eccitato fa una transizione da un livello di ene
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Svizze 2026 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Svizzera 2026 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -542,7 +542,7 @@ D) Perché lo strato di ozono favorisce la trasmissione della luce blu.
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Svizze 2026 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Svizzera 2026 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -581,7 +581,7 @@ Un ghiacciaio si muove a una velocità costante sopra un sottosuolo. Considerate
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Svizze 2026 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Svizzera 2026 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -636,7 +636,7 @@ Ti ricordi i miei resti del primo round? Non importa se non lo fai. Li ho riscal
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Svizze 2026 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Svizzera 2026 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -687,7 +687,7 @@ $$U(T) = 3N\hbar\omega_E\left(\frac{1}{2} + \frac{1}{\exp\!\left(\dfrac{\hbar\om
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Svizze 2026 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/wire"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Svizzera 2026 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -728,7 +728,7 @@ Qual è la corrente che fluirà attraverso una linea elettrica aerea se viene ap
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Svizze 2026 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Svizzera 2026 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -789,7 +789,7 @@ La configurazione ha $Q$ al centro e cinque cariche $q$ disposte simmetricamente
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Svizze 2026 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor,object/point-charge"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Svizzera 2026 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -832,7 +832,7 @@ Una particella con massa $m = 3 \times 10^{-15}\,\text{kg}$ e carica $q = e$ ent
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Svizze 2026 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Svizzera 2026 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -891,7 +891,7 @@ F) II e III.
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Svizze 2026 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Svizzera 2026 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -942,7 +942,7 @@ Una particella carica con massa $m$ e carica $q$ si trova su un percorso circola
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Svizze 2026 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string,object/pulley"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Svizzera 2026 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string,object/pulley"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -997,7 +997,7 @@ Nel parco delle corde, Emmy corre da un albero all'altro su una zipline. Il cont
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Svizze 2026 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pipe-tube"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Svizzera 2026 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1044,7 +1044,7 @@ D) Una estremità chiusa, poiché le frequenze aumentano linealmente, cosa che n
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Svizze 2026 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pendulum,object/rod"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Svizzera 2026 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pendulum,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1099,7 +1099,7 @@ F) Troppe informazioni fornite  la soluzione dipende dalla lunghezza effettiva $
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Svizze 2026 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk,object/droplet"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Svizzera 2026 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk,object/droplet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1212,7 +1212,7 @@ i. (1.5 punti) Calcolare la distanza tra la spilla dell'acqua e il centro del pa
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Svizze 2026 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Svizzera 2026 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1341,7 +1341,7 @@ iv. 1, 5 punti) Segnare la temperatura $T(y)$ in funzione dell'altezza $y$.
 
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="Svizze 2026 — Quesito 25" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/magnetic-dipole"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Svizzera 2026 — Quesito 25" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/magnetic-dipole"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

@@ -14,7 +14,7 @@ tags:
   - anno/2018
   - paese/Argentina
   - comp/Argent
-title: Argent 2018 — juegos_2018_final_2_resuelta.pdf
+title: Argentina 2018 — juegos_2018_final_2_resuelta.pdf
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: Argent 2013 ''
+title: Argentina 2013
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2013 '' — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,object/block,object/rope-string,object/spring"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2013 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,object/block,object/rope-string,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -94,7 +94,7 @@ Suppose the mass $m_2$ is raised to a height $h$ (vertically).
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2013 '' — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,object/beam,object/block,object/spring"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2013 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,object/beam,object/block,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -161,7 +161,7 @@ In case a), if the beam supports consist of spring elastic constants $k_1$ and $
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2013 '' — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,object/inclined-plane,object/pendulum,object/rope-string"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2013 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,object/inclined-plane,object/pendulum,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -222,7 +222,7 @@ Suppose $m_1 > m_2$.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2013 '' — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina 2013 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

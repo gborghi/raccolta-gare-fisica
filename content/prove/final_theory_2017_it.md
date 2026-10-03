@@ -1,5 +1,5 @@
 ---
-title: Svizze 2017
+title: Svizzera 2017
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2017 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet,object/satellite"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Svizzera 2017 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet,object/satellite"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -244,7 +244,7 @@ $\Delta t_1$ required for the light to travel the distance in question in the fr
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2017 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas,object/photon"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Svizzera 2017 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas,object/photon"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -360,7 +360,7 @@ Problems
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2017 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/electron"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Svizzera 2017 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/electron"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -659,7 +659,7 @@ Short questions
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2017 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Svizzera 2017 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -704,7 +704,7 @@ iii. (0.5 Pts) How high can he jump under these conditions? (Also assume that wh
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2017 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Svizzera 2017 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -751,7 +751,7 @@ ii. (1.5 Points) Indicate a maximum limit for the height that the tennis ball co
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2017 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet,object/star"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Svizzera 2017 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet,object/star"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -802,7 +802,7 @@ Figure 1: Source: xkcd.com
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2017 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor,object/inductor,object/resistor"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Svizzera 2017 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor,object/inductor,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -852,7 +852,7 @@ ii. (2 Points) Transform the initial circuit into a strictly parallel oscillator
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2017 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Svizzera 2017 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -898,7 +898,7 @@ Short Questions
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2017 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/nucleus"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Svizzera 2017 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

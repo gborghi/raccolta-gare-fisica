@@ -1,5 +1,5 @@
 ---
-title: Argent 2018 Locale Quiz
+title: Argentina 2018 Locale Quiz
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2018 Locale Quiz — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/pendulum,object/rope-string,object/block,object/cart"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2018 Locale Quiz — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/pendulum,object/rope-string,object/block,object/cart"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -80,7 +80,7 @@ tags:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2018 Locale Quiz — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/gas,object/piston,object/projectile,object/block,object/pipe-tube"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2018 Locale Quiz — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/gas,object/piston,object/projectile,object/block,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -171,7 +171,7 @@ All'estrem di un tubo flessibile se si mette un dispositivo che modifica la supe
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2018 Locale Quiz — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/mirror,object/lens"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2018 Locale Quiz — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/mirror,object/lens"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -226,7 +226,7 @@ All'estrem di un tubo flessibile se si mette un dispositivo che modifica la supe
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2018 Locale Quiz — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/resistor,object/battery,object/capacitor,object/sphere,object/disk"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina 2018 Locale Quiz — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/resistor,object/battery,object/capacitor,object/sphere,object/disk"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

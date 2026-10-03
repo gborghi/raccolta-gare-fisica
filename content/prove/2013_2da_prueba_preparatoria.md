@@ -1,5 +1,5 @@
 ---
-title: Argent 2013 ''
+title: Argentina 2013
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2013 '' — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,object/tank-container"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2013 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -82,7 +82,7 @@ If you mix the two liquids, find:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2013 '' — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,object/resistor,object/battery"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2013 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -155,7 +155,7 @@ The electrical circuit diagram is the one in Figure 1.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2013 '' — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,object/electron,object/point-charge"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2013 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,object/electron,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

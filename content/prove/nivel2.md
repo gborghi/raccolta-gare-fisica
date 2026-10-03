@@ -1,5 +1,5 @@
 ---
-title: Brasil 2006
+title: Brasile 2006
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/planet,object/star"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/planet,object/star"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -80,7 +80,7 @@ $7{,}0\times10^8$ — $6{,}4\times10^6$ — $1{,}8\times10^6$ — $1{,}5\times10
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/projectile,object/tank-container"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/projectile,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -159,7 +159,7 @@ the v and $\theta$ adjustments so that the player scores a point?
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/tank-container"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -225,7 +225,7 @@ Problem 3 (exclusive for first-year students). An interesting experiment that ca
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/heat-engine"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/heat-engine"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -280,7 +280,7 @@ $T_c = 1{,}00$ K em uma região em que o custo do kwh é R\$
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Brasil 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Brasile 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -383,7 +383,7 @@ previous item?
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Brasil 2006 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/cylinder,object/rod"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Brasile 2006 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/cylinder,object/rod"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -436,7 +436,7 @@ Problem 6. A physics student is investigating conditions for static equilibrium 
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Brasil 2006 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Brasile 2006 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -527,7 +527,7 @@ $\text{W/(m}\cdot\text{K)}$.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Brasil 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/disk"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Brasile 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/disk"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -588,7 +588,7 @@ by a uniform disk of the same size. (Data: moment of inertia of the ring $I_a = 
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Brasil 2006 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/mirror,object/screen"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Brasile 2006 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/mirror,object/screen"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -643,7 +643,7 @@ a $R/2$.
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Brasil 2006 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/gas,object/tank-container"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Brasile 2006 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/gas,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -696,7 +696,7 @@ Consider a container divided into two chambers by a small opening between them, 
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Brasil 2006 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/pipe-tube"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Brasile 2006 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -763,7 +763,7 @@ and $\rho$ is the density of the liquid.
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Brasil 2006 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/rod,object/sphere,object/spring"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Brasile 2006 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/rod,object/sphere,object/spring"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

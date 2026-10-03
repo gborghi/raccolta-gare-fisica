@@ -1,5 +1,5 @@
 ---
-title: Brasil 2017
+title: Brasile 2017
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2017 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2017 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -80,7 +80,7 @@ e) 0,445 m/s
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2017 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2017 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -162,7 +162,7 @@ It contains 25 questions.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2017 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2017 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -208,7 +208,7 @@ It contains 25 questions.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2017 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2017 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -245,7 +245,7 @@ It contains 25 questions.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Brasil 2017 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Brasile 2017 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -282,7 +282,7 @@ It contains 25 questions.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Brasil 2017 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Brasile 2017 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -321,7 +321,7 @@ caderno.
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Brasil 2017 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Brasile 2017 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -367,7 +367,7 @@ At least 90 minutes.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Brasil 2017 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/inclined-plane,object/ball,object/rope-string,object/pendulum,object/block"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Brasile 2017 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/inclined-plane,object/ball,object/rope-string,object/pendulum,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -577,7 +577,7 @@ e) Balls (06 and 01) move away.
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Brasil 2017 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/block"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Brasile 2017 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -647,7 +647,7 @@ apply a force $F_2$ which is approximately:
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Brasil 2017 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/cart"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Brasile 2017 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/cart"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -714,7 +714,7 @@ So our intuition tells us that the applied force is a function of (do):
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Brasil 2017 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/block"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Brasile 2017 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -784,7 +784,7 @@ necessarily halfway across the horizontal.
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Brasil 2017 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/sphere,object/ball"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Brasile 2017 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/sphere,object/ball"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -857,7 +857,7 @@ the amount of kinetic energy;
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Brasil 2017 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Brasile 2017 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -930,7 +930,7 @@ because its mass is very small compared to the truck;
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Brasil 2017 — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/ball,object/projectile"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Brasile 2017 — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/ball,object/projectile"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -988,7 +988,7 @@ desired point, module approximating this speed:
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Brasil 2017 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/rod,object/lever"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Brasile 2017 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/rod,object/lever"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1064,7 +1064,7 @@ e) 1237,5
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Brasil 2017 — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/block"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Brasile 2017 — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1137,7 +1137,7 @@ e) 0,02
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Brasil 2017 — Quesito 17" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Brasile 2017 — Quesito 17" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1192,7 +1192,7 @@ If we see the lightning before we hear the thunder it produces, it can be explai
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Brasil 2017 — Quesito 18" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/wheel"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Brasile 2017 — Quesito 18" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/wheel"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1259,7 +1259,7 @@ e) $405{,}0\ ^\circ\text{C}$
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Brasil 2017 — Quesito 19" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/tank-container"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Brasile 2017 — Quesito 19" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1328,7 +1328,7 @@ III. There was more water in the smaller container, because the smaller the surf
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Brasil 2017 — Quesito 20" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Brasile 2017 — Quesito 20" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1392,7 +1392,7 @@ Taking the thermometer she again claimed the temperature of the ice, finding tha
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Brasil 2017 — Quesito 21" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Brasile 2017 — Quesito 21" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1468,7 +1468,7 @@ e) 2,0
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Brasil 2017 — Quesito 22" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/spring,object/ball"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Brasile 2017 — Quesito 22" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/spring,object/ball"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1532,7 +1532,7 @@ e) The ball's acceleration after leaving P is minimum.
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Brasil 2017 — Quesito 23" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Brasile 2017 — Quesito 23" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1596,7 +1596,7 @@ the speed shall be the same at base;
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Brasil 2017 — Quesito 24" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/pipe-tube"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Brasile 2017 — Quesito 24" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1672,7 +1672,7 @@ a lower flow rate.
 
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="Brasil 2017 — Quesito 25" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Brasile 2017 — Quesito 25" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: Brasil 2016
+title: Brasile 2016
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2016 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/battery"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2016 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/battery"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -50,7 +50,7 @@ tags:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2016 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2016 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -96,7 +96,7 @@ The multi-meter. (two points)
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2016 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor,object/battery"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2016 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -136,7 +136,7 @@ designating as Rvar1 the nearest to the battery and Rvar2 the farthest. (two poi
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2016 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor,object/battery"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2016 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -182,7 +182,7 @@ In a figure. (four points)
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Brasil 2016 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor,object/battery,object/wire"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Brasile 2016 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor,object/battery,object/wire"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -249,7 +249,7 @@ P-1 e P-3. All circuits from now on shall be started from point P-3.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Brasil 2016 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor,object/battery"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Brasile 2016 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -301,7 +301,7 @@ DDP of 2,50 V as outputs A and B. (Fifteen points)
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Brasil 2016 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Brasile 2016 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -359,7 +359,7 @@ A certain internal resistance Ri, put a variable resistor connected to the AB ou
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Brasil 2016 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Brasile 2016 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -405,7 +405,7 @@ current applied to the resistor. Get a table with voltage change
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Brasil 2016 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor,object/wire"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Brasile 2016 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor,object/wire"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -460,7 +460,7 @@ Stage 4: (25 points)
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Brasil 2016 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor,object/battery"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Brasile 2016 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -506,7 +506,7 @@ maximum power that can be achieved. (Fifteen points)
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Brasil 2016 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor,object/wire"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Brasile 2016 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor,object/wire"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

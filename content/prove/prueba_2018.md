@@ -1,5 +1,5 @@
 ---
-title: Argent 2018
+title: Argentina 2018
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2018 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2018 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -149,7 +149,7 @@ Note: Assuming g = 10 m $s-2$ and 1 atm = 101325 Pa
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2018 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/cart,object/spring,object/capacitor"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2018 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/cart,object/spring,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -471,7 +471,7 @@ atmospheric.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2018 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/black-hole,object/star,object/atom,object/electron"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2018 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/black-hole,object/star,object/atom,object/electron"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1039,7 +1039,7 @@ Inserted into the aluminium tube to float
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2018 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina 2018 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1223,7 +1223,7 @@ Note: Assuming g = 10 m $s-2$ and 1 atm = 101325 Pa
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Argent 2018 — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/cart,object/spring,object/capacitor,object/resistor"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Argentina 2018 — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/cart,object/spring,object/capacitor,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1608,7 +1608,7 @@ The resistance and the capacitor are connected in parallel:
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Argent 2018 — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/black-hole,object/star,object/atom,object/electron"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Argentina 2018 — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/black-hole,object/star,object/atom,object/electron"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: Russia 2019 ''
+title: Russia 2019
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia 2019 '' — Quesito 1" data-tags="kg/prova,paese/Germany,comp/Germany,object/tank-container,object/rope-string"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Russia 2019 — Quesito 1" data-tags="kg/prova,paese/Germany,comp/Germany,object/tank-container,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="de"></div>
 
@@ -109,7 +109,7 @@ How does the cork move relative to the bucket immediately after the rope and thr
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia 2019 '' — Quesito 2" data-tags="kg/prova,paese/Germany,comp/Germany"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Russia 2019 — Quesito 2" data-tags="kg/prova,paese/Germany,comp/Germany"></span>
 
 <div class="qlang-switch" data-default="de"></div>
 
@@ -178,7 +178,7 @@ Which of the following graphs correctly represents the speed $v$ of the body as 
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia 2019 '' — Quesito 3" data-tags="kg/prova,paese/Germany,comp/Germany"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Russia 2019 — Quesito 3" data-tags="kg/prova,paese/Germany,comp/Germany"></span>
 
 <div class="qlang-switch" data-default="de"></div>
 
@@ -308,7 +308,7 @@ $$\text{(D)}\quad P = \frac{32}{5}\,\frac{G^4 m^5}{c^5 r^5}$$
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Russia 2019 '' — Quesito 5" data-tags="kg/prova,paese/Germany,comp/Germany,object/battery,object/resistor,object/galvanometer"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Russia 2019 — Quesito 5" data-tags="kg/prova,paese/Germany,comp/Germany,object/battery,object/resistor,object/galvanometer"></span>
 
 <div class="qlang-switch" data-default="de"></div>
 
@@ -414,7 +414,7 @@ The diagram of the five resistance areas with the values of the resistance is an
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Russia 2019 '' — Quesito 7" data-tags="kg/prova,paese/Germany,comp/Germany,object/resistor,object/capacitor,object/inductor"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Russia 2019 — Quesito 7" data-tags="kg/prova,paese/Germany,comp/Germany,object/resistor,object/capacitor,object/inductor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -475,7 +475,7 @@ Il grafico $I(f)$ e il quattro schemi di circuiti sono figure embedded nel PDF; 
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Russia 2019 '' — Quesito 9" data-tags="kg/prova,paese/Germany,comp/Germany,object/gas"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Russia 2019 — Quesito 9" data-tags="kg/prova,paese/Germany,comp/Germany,object/gas"></span>
 
 <div class="qlang-switch" data-default="de"></div>
 
@@ -593,7 +593,7 @@ The following table shows the results of the study:
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Russia 2019 '' — Quesito 10" data-tags="kg/prova,paese/Germany,comp/Germany,object/resistor,object/tank-container"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Russia 2019 — Quesito 10" data-tags="kg/prova,paese/Germany,comp/Germany,object/resistor,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="de"></div>
 
@@ -696,7 +696,7 @@ The heating elements are designed in such a way that they heat the entire mass o
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Russia 2019 '' — Quesito 11" data-tags="kg/prova,paese/Germany,comp/Germany,object/capacitor,object/resistor"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Russia 2019 — Quesito 11" data-tags="kg/prova,paese/Germany,comp/Germany,object/capacitor,object/resistor"></span>
 
 <div class="qlang-switch" data-default="de"></div>
 
@@ -796,7 +796,7 @@ Note: It is not known to which voltages the capacitor was charged in the two exp
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Russia 2019 '' — Quesito 12" data-tags="kg/prova,paese/Germany,comp/Germany,object/photon,object/star"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Russia 2019 — Quesito 12" data-tags="kg/prova,paese/Germany,comp/Germany,object/photon,object/star"></span>
 
 <div class="qlang-switch" data-default="de"></div>
 
@@ -883,7 +883,7 @@ $$E = 9.38\ \text{TeV} = 9.38 \times 10^{12}\ \text{eV}.$$
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Russia 2019 '' — Quesito 13" data-tags="kg/prova,paese/Germany,comp/Germany"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Russia 2019 — Quesito 13" data-tags="kg/prova,paese/Germany,comp/Germany"></span>
 
 <div class="qlang-switch" data-default="de"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: Brasil 2006
+title: Brasile 2006
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/rod,object/sphere,object/spring"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/rod,object/sphere,object/spring"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -68,7 +68,7 @@ The angular position $\theta$ is slightly shifted from $\theta_0$.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/cylinder,object/rod"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/cylinder,object/rod"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -129,7 +129,7 @@ in the case where $\theta = 30^\circ$.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/mirror,object/screen"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/mirror,object/screen"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -181,7 +181,7 @@ of $y_\text{max}$ knowing that it is close to $R/2$.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/gas,object/resistor,object/battery"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/gas,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -245,7 +245,7 @@ r which must be used to $P = P_0$.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Brasil 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/disk"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Brasile 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/disk"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -303,7 +303,7 @@ $I_a = mr^2$ and the disc $I_d = mr^2/2$.)
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Brasil 2006 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/electron"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Brasile 2006 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/electron"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -361,7 +361,7 @@ change in the speed of the electron?
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Brasil 2006 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/gas,object/tank-container"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Brasile 2006 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/gas,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -416,7 +416,7 @@ the pressure of chamber 1 is $P_1$, what is the pressure value in chamber 2 in t
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Brasil 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/pipe-tube"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Brasile 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

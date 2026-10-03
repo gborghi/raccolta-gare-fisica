@@ -1,5 +1,5 @@
 ---
-title: Argent 2002
+title: Argentina 2002
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2002 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/sphere,object/tank-container"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2002 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/sphere,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -125,7 +125,7 @@ In this case also assume that the density of the distilled water is constant ove
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2002 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/tank-container"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2002 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -312,7 +312,7 @@ kg.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2002 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/manometer,object/pipe-tube"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2002 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/manometer,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

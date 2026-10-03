@@ -1,5 +1,5 @@
 ---
-title: Argent 2016
+title: Argentina 2016
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2016 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/cart"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2016 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/cart"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -110,7 +110,7 @@ NOTE: consider the acceleration of gravity: $g = 10\ \text{m/s}^2$
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2016 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/droplet,object/gas"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2016 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/droplet,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -326,7 +326,7 @@ Figure 1: Saturation pressure of water vapor as a function of temperature.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2016 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/resistor,object/battery"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2016 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -604,7 +604,7 @@ Theoretical Exam - Level 2
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2016 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/cart"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina 2016 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/cart"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -737,7 +737,7 @@ NOTE: consider the acceleration of gravity: $g = 10\ \text{m/s}^2$
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Argent 2016 — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/droplet,object/gas"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Argentina 2016 — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/droplet,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1023,7 +1023,7 @@ Figure 1: Saturation vapor pressure of water as a function of temperature.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Argent 2016 — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/resistor,object/battery"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Argentina 2016 — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

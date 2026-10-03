@@ -1,5 +1,5 @@
 ---
-title: Argent 2009
+title: Argentina 2009
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2009 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/battery"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2009 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -530,7 +530,7 @@ the total sphere ($S = 4\pi L^2$), then the distance will be $L \leq 6633.5$ m.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2009 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/pipe-tube"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2009 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1065,7 +1065,7 @@ $$P_\text{perd} = 421.08\ \text{W}$$
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2009 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/prism,object/satellite,object/planet"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2009 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/prism,object/satellite,object/planet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

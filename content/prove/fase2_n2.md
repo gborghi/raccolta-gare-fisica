@@ -1,5 +1,5 @@
 ---
-title: Brasil 2024
+title: Brasile 2024
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2024 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2024 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -89,7 +89,7 @@ The wall?
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2024 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2024 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -144,7 +144,7 @@ the water?
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2024 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/rope-string"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2024 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -208,7 +208,7 @@ unit of length of rope. Consider a steel guitar string of length
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2024 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2024 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -275,7 +275,7 @@ Alberto crosses Bruno's car.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Brasil 2024 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/disk"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Brasile 2024 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/disk"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -357,7 +357,7 @@ immediately before and after the collision with that edge.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Brasil 2024 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/cylinder,object/tank-container"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Brasile 2024 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/cylinder,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -415,7 +415,7 @@ the water level, as shown in the figure next to it.
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Brasil 2024 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Brasile 2024 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -479,7 +479,7 @@ which the cars make the curves without slipping in the case of:
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Brasil 2024 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/wire,object/pulley,object/block"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Brasile 2024 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/wire,object/pulley,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -549,7 +549,7 @@ The wire can present.
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Brasil 2024 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/disk,object/wheel"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Brasile 2024 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/disk,object/wheel"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -606,7 +606,7 @@ Question 9. While riding his bicycle down a ramp, a cyclist descends at a consta
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Brasil 2024 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Brasile 2024 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -658,7 +658,7 @@ Just consider the movement of the fish's center of mass and disregard the air re
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Brasil 2024 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/pipe-tube"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Brasile 2024 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -716,7 +716,7 @@ of a capacity of not more than 300 g/m2
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Brasil 2024 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Brasile 2024 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

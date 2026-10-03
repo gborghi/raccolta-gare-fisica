@@ -1,5 +1,5 @@
 ---
-title: OBF 2008 ''
+title: OBF 2008
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2008 '' — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,object/planet,object/star"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2008 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,object/planet,object/star"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -64,7 +64,7 @@ In its translational motion, the Earth moves around the Sun at an average speed 
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2008 '' — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2008 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -119,7 +119,7 @@ A body falls near the Earth's surface at an acceleration approximately equal to 
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2008 '' — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2008 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -186,7 +186,7 @@ Only what is stated in:
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2008 '' — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,object/planet"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2008 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,object/planet"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -229,7 +229,7 @@ On Earth, an astronaut has a weight of $900\ \text{N}$. On Mars, his weight woul
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2008 '' — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2008 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -299,7 +299,7 @@ Only the following observations are correct:
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2008 '' — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2008 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -354,7 +354,7 @@ Convection is a form of heat transfer that can only occur:
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2008 '' — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,object/star"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2008 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,object/star"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -409,7 +409,7 @@ The energy received from the sun and converted here into heat reaches the Earth 
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2008 '' — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,object/battery"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2008 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,object/battery"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -494,7 +494,7 @@ The correct numerical sequence of the second column is:
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2008 '' — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2008 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -549,7 +549,7 @@ When measuring the weight of an object with a dynamometer at a location where th
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="OBF 2008 '' — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="OBF 2008 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -604,7 +604,7 @@ Taking as a reference the physical quantities that relate through Newton's secon
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2008 '' — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2008 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -671,7 +671,7 @@ What is correct in what is stated in:
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="OBF 2008 '' — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/OBF,object/tank-container"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="OBF 2008 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/OBF,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -726,7 +726,7 @@ A container with $1\ \text{dm}^{3}$ capacity may contain one litre of liquid. Un
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="OBF 2008 '' — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/OBF,object/planet,object/star"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="OBF 2008 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/OBF,object/planet,object/star"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -781,7 +781,7 @@ The Earth's axis of rotation is perpendicular to the imaginary line connecting t
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="OBF 2008 '' — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="OBF 2008 — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -848,7 +848,7 @@ in units of the International System. It can be concluded that the values of the
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="OBF 2008 '' — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="OBF 2008 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -903,7 +903,7 @@ Traveling between two cities, a vehicle usually spends $2$ hours going from one 
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="OBF 2008 '' — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/OBF,object/satellite,object/planet"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="OBF 2008 — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/OBF,object/satellite,object/planet"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -958,7 +958,7 @@ The gravitational force over the station is zero because it's in the vacuum.
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="OBF 2008 '' — Quesito 17" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="OBF 2008 — Quesito 17" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1013,7 +1013,7 @@ One spoon contains $50$ rice grains which occupy a volume equal to $8000\ \text{
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="OBF 2008 '' — Quesito 18" data-tags="kg/prova,paese/Brasile,comp/OBF,object/planet"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="OBF 2008 — Quesito 18" data-tags="kg/prova,paese/Brasile,comp/OBF,object/planet"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1080,7 +1080,7 @@ What is stated is correct:
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="OBF 2008 '' — Quesito 19" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="OBF 2008 — Quesito 19" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1141,7 +1141,7 @@ The gap is filled correctly with the value contained in the option:
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="OBF 2008 '' — Quesito 20" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="OBF 2008 — Quesito 20" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

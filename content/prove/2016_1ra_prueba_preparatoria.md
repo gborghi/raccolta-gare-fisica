@@ -1,5 +1,5 @@
 ---
-title: Argent 2016
+title: Argentina 2016
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2016 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/ball,object/inclined-plane"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2016 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/ball,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -167,7 +167,7 @@ compared to normal on the floor).
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2016 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2016 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -306,7 +306,7 @@ forms an angle of $10^{\circ}$ with the shore (the shore on which city C is situ
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2016 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/wheel"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2016 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/wheel"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: Brasil 2016 — Prova 2fase_Nivel2a_2016.pdf
+title: Brasile 2016 — Prova 2fase_Nivel2a_2016.pdf
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/cylinder,object/block"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/cylinder,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -134,7 +134,7 @@ High School
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -183,7 +183,7 @@ Problem 2 (exclusive for first-year students) – Metrology evolved slowly, with
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -235,7 +235,7 @@ $20\ ^\circ\text{C}$ and the external temperature is $10\ ^\circ\text{C}$?
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/cylinder,object/piston,object/gas"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/cylinder,object/piston,object/gas"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -302,7 +302,7 @@ Compression
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Brasil 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/lens"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Brasile 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/lens"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -366,7 +366,7 @@ lenses such as thin (negligible thickness) and straight.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Brasil 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Brasile 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -427,7 +427,7 @@ Part II  Questions for an open answer
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Brasil 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/sphere,object/inclined-plane"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Brasile 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/sphere,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -494,7 +494,7 @@ The speed of the sphere the moment it loses contact with the ramp.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Brasil 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Brasile 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -533,7 +533,7 @@ Problem 8 (exclusive for first-year students) - Two vehicles travel in opposite 
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Brasil 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/cylinder,object/beam"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Brasile 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/cylinder,object/beam"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -603,7 +603,7 @@ R
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Brasil 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/satellite"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Brasile 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/satellite"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -682,7 +682,7 @@ The satellites and antennas are 30,000 miles away.
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Brasil 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/tank-container"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Brasile 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -749,7 +749,7 @@ Consider the specific heat of water equal to $c = 4\ \text{kJ/kg}\ ^\circ\text{C
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Brasil 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Brasile 2016 — Prova 2fase_Nivel2a_2016.pdf — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

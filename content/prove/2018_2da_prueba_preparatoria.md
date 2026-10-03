@@ -1,5 +1,5 @@
 ---
-title: Argent 2018
+title: Argentina 2018
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2018 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,object/sphere,object/calorimeter"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2018 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,object/sphere,object/calorimeter"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -98,7 +98,7 @@ The specific heat of the water: $c_\text{agua} = 4180$ J/(kg K)
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2018 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,object/resistor,object/battery"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2018 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -144,7 +144,7 @@ Consider the circuit of the figure and find:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2018 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,object/gas,object/piston,object/spring,object/cylinder"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2018 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,object/gas,object/piston,object/spring,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

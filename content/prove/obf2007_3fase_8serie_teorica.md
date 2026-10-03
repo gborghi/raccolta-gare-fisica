@@ -1,5 +1,5 @@
 ---
-title: OBF 2007 ''
+title: OBF 2007
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2007 '' — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2007 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -64,7 +64,7 @@ In the position $x = 3\,\text{m}$, the kinetic energy of this particle is $2\,\t
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2007 '' — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2007 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -119,7 +119,7 @@ Figure 2 represents the speed of a mobile in terms of time.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2007 '' — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,object/block"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2007 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -168,7 +168,7 @@ The block in Figure 3 has a mass $m = 20\,\text{kg}$ and is resting on the horiz
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2007 '' — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2007 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -217,7 +217,7 @@ The graph in Figure 4 represents the variation in the intensity of the resulting
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2007 '' — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,object/inclined-plane"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2007 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -278,7 +278,7 @@ where $s_0$ and $v_0$ represent the position and speed at the start, determine:
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2007 '' — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2007 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -339,7 +339,7 @@ The ratio between the scales is $T_F = \dfrac{9}{5}\,T_C + 32$.
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2007 '' — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2007 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -382,7 +382,7 @@ Imagine that a sound signal was emitted from a ship perpendicular to the seabed 
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2007 '' — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2007 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: Svizze 2019
+title: Svizzera 2019
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2019 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Svizzera 2019 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -66,7 +66,7 @@ Il seguente grafico mostra l'evoluzione della posizione dei due oggetti. Quale a
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2019 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Svizzera 2019 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -121,7 +121,7 @@ F) Nessuna delle risposte precedenti.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2019 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/block,object/rope-string,object/pulley"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Svizzera 2019 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/block,object/rope-string,object/pulley"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -234,7 +234,7 @@ Due masse $m_1 = 3\,\text{kg}$ e $m_2 = 7\,\text{kg}$ sono collegate tra loro tr
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2019 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/block"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Svizzera 2019 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/block"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -275,7 +275,7 @@ Due mass $m_1$ e $m_2$, con $m_1 > m_2$, sono in caduta libera da un'altezza $h$
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2019 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Svizzera 2019 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -320,7 +320,7 @@ Due biglie con massa $M$ e $m$ ($M \gg m$) sono soggette a una collisione elasti
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2019 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet,object/star"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Svizzera 2019 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -365,7 +365,7 @@ La distanza tra la Terra e il Sole è solitamente espressa come 1 UA per 1 unit�
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2019 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Svizzera 2019 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -408,7 +408,7 @@ Quanti capelli ha Donald Trump sulla sua testa? (se non conosci la persona, cons
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2019 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Svizzera 2019 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -453,7 +453,7 @@ Considerate una distanza $d$, un tempo $t$ e una forza $F$. In tal caso possiamo
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2019 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas,object/tank-container"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Svizzera 2019 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -498,7 +498,7 @@ Una scatola è chiusa e isolata. In seno sono due compartimenti, inizialmente se
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Svizze 2019 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Svizzera 2019 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -551,7 +551,7 @@ Temperatura vs tempo con plateau
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Svizze 2019 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Svizzera 2019 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -698,7 +698,7 @@ f) 2 e 3 sono corrette
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Svizze 2019 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pipe-tube"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Svizzera 2019 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -825,7 +825,7 @@ F) Nessuna delle risposte precedenti.
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Svizze 2019 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor,object/battery"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Svizzera 2019 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -968,7 +968,7 @@ Circuito con resistenza R
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Svizze 2019 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor,object/battery"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Svizzera 2019 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor,object/battery"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1013,7 +1013,7 @@ Un condensatore con capacità $4.0\,\mu\text{F}$ è collegato in parallelo con u
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Svizze 2019 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/conducting-sphere"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Svizzera 2019 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/conducting-sphere"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1054,7 +1054,7 @@ Consideriamo una sfera vuota (ovvero una superficie sferica) di raggio $R$ che �
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Svizze 2019 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/lens"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Svizzera 2019 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/lens"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1095,7 +1095,7 @@ Nella seguente immagine consideriamo un oggetto e una lente convergenza con un p
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Svizze 2019 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/prism"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Svizzera 2019 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/prism"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1140,7 +1140,7 @@ In che modo è aumentato l'angolo critico per la riflessione totale tra un prism
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Svizze 2019 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Svizzera 2019 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1287,7 +1287,7 @@ Quali tra i seguenti fattori indicano la direzione e il senso in cui il punto $P
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Svizze 2019 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/spring,object/block"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Svizzera 2019 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/spring,object/block"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1332,7 +1332,7 @@ F) Nessuna delle risposte precedenti.
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Svizze 2019 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/nucleus"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Svizzera 2019 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1377,7 +1377,7 @@ Un elemento radioattivo ha un'attività iniziale $A_0$. Dopo 200 s la sua attivi
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Svizze 2019 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Svizzera 2019 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1432,7 +1432,7 @@ Facciamo un esperimento per determinare l'evoluzione della quantità $y$ con il 
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Svizze 2019 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Svizzera 2019 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1477,7 +1477,7 @@ f) la massa dell'elettrone $m_e$
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Svizze 2019 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/inclined-plane,object/spring,object/block"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Svizzera 2019 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/inclined-plane,object/spring,object/block"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1570,7 +1570,7 @@ v. (1.5 pt) Determina e calcola la posizione $x_5$ in cui il blocco smette di mu
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Svizze 2019 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor,object/battery,object/wire"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Svizzera 2019 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor,object/battery,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1675,7 +1675,7 @@ iv. (2,5 p) Determina la differenza di potenza $P_{\text{el}} - P_{\text{me}}$. 
 
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="Svizze 2019 — Quesito 25" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas,object/cylinder,object/heat-engine,object/piston"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Svizzera 2019 — Quesito 25" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas,object/cylinder,object/heat-engine,object/piston"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: Svizze 2018
+title: Svizzera 2018
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2018 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Svizzera 2018 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -54,7 +54,7 @@ We throw a ball vertically upward. Which graph best represents the evolution of 
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2018 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pendulum,object/rope-string,object/ball"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Svizzera 2018 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pendulum,object/rope-string,object/ball"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -91,7 +91,7 @@ What is the relationship between the tension force in the pendulum string at pos
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2018 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/block,object/inclined-plane"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Svizzera 2018 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/block,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -126,7 +126,7 @@ A block of mass $m = 10\,\mathrm{kg}$ is placed on an inclined plane at an angle
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2018 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Svizzera 2018 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -160,7 +160,7 @@ Consider a velocity $v$, a mass $M$, and a length $L$. The units $v^\alpha M^\be
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2018 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Svizzera 2018 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -193,7 +193,7 @@ Two marbles of masses $m$ and $2m$ undergo an elastic collision. Before the coll
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2018 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Svizzera 2018 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -227,7 +227,7 @@ Every first Wednesday of February in Switzerland, a nationwide emergency test is
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2018 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/block"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Svizzera 2018 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/block"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -262,7 +262,7 @@ We have three blocks, each with a mass of 100 g: one block of iron (specific hea
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2018 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/heat-engine,object/gas"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Svizzera 2018 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/heat-engine,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -305,7 +305,7 @@ Two heat engines, A and B, have cycles $p$-$V$ as shown in the diagrams below. B
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2018 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Svizzera 2018 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -341,7 +341,7 @@ $$\frac{\partial p}{\partial V} \cdot \frac{\partial V}{\partial T} \cdot \frac{
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Svizze 2018 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/star"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Svizzera 2018 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/star"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -374,7 +374,7 @@ Consider two stars, A and B. The radius of star A is twice that of star B. Moreo
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Svizze 2018 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Svizzera 2018 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -408,7 +408,7 @@ In 1883 the eruption of the Krakatoa volcano (Indonesia) was so powerful that it
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Svizze 2018 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Svizzera 2018 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -443,7 +443,7 @@ Two identical piano strings, each of length $L$, are tuned to 440 Hz. We slightl
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Svizze 2018 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Svizzera 2018 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -486,7 +486,7 @@ The refractive index of medium 1 is $n_1 = 1.0$. What is the refractive index $n
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Svizze 2018 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/lens"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Svizzera 2018 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/lens"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -519,7 +519,7 @@ A parallel beam of light reaches a convex lens with a focal length of 15 cm. At 
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Svizze 2018 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/nucleus"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Svizzera 2018 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -554,7 +554,7 @@ After 168 s, the activity of a radioactive element is only $1/8$ of its initial 
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Svizze 2018 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor,object/battery"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Svizzera 2018 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -683,7 +683,7 @@ Consider the following circuit. The total current in the circuit is 3 A. The int
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Svizze 2018 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor,object/battery"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Svizzera 2018 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -714,7 +714,7 @@ On two lamps A and B are indicated 6 V/0.3 A, respectively 60 W/230 V. We connec
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Svizze 2018 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Svizzera 2018 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -747,7 +747,7 @@ A capacitor of $3.0\,\mu\mathrm{F}$ is connected in series with another of $6.0\
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Svizze 2018 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/electron"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Svizzera 2018 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/electron"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -781,7 +781,7 @@ An electron initially at rest is accelerated over a distance $d$ by an electric 
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Svizze 2018 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Svizzera 2018 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -815,7 +815,7 @@ A point mass $m$ with charge $q$ moves in a magnetic field $\vec{B}_1$, having m
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Svizze 2018 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Svizzera 2018 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -856,7 +856,7 @@ Consider a point P located at the edge of a road. At time $t = 0$, point P is at
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Svizze 2018 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Svizzera 2018 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -907,7 +907,7 @@ which are always correct?
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Svizze 2018 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pipe-tube,object/tank-container,object/gas,object/manometer"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Svizzera 2018 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pipe-tube,object/tank-container,object/gas,object/manometer"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1100,7 +1100,7 @@ iv. (6 pt) Algebraically determine the variations $\Delta l_1$ and $\Delta l_2$ 
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Svizze 2018 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/cylinder,object/block,object/inclined-plane"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Svizzera 2018 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/cylinder,object/block,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1175,7 +1175,7 @@ vi. (2 points) Draw a graph showing the time evolution of the plate's velocity u
 
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="Svizze 2018 — Quesito 25" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor,object/conducting-sphere,object/pendulum,object/rope-string"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Svizzera 2018 — Quesito 25" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor,object/conducting-sphere,object/pendulum,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

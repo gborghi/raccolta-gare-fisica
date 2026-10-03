@@ -101,7 +101,7 @@ Let $\delta$ denote the density of the water, $\rho$ its resistivity, and c its 
 Consider a thin section of water of width $\Delta x$. As a function of the given parameters, calculate:
 2. Its electrical resistance.
 
-**Solution:**
+**Solution:** [[2liv15S Def|Soluzioni]]
 
 
 
@@ -175,7 +175,7 @@ verso l’alto.
 Valeria is a little girl jumping on the trampoline at the playground. She initially does a few simple vertical bounces, increasing the maximum height reached with each bounce.
 To study her motion, let us consider her center of mass (CoM) C. Let us fix a reference frame with the origin at the point where C is located at the instant of detachment from the trampoline and the y-axis vertical and oriented upward.
 
-**Solution:**
+**Solution:** [[2liv15S Def|Soluzioni]]
 
 
 
@@ -400,7 +400,7 @@ obviously, $I_s$ is a function of the wavelength.
 In general, the spectral intensity of the thermal radiation emitted by a body depends on the properties of the body, as well as on its temperature; however, in certain cases it has a trend close to that of a universal function, which is calculated theoretically on the basis of the body's temperature alone and is indeed independent of its properties: this function is called the black-body spectrum.
 ATTENTION: On a separate sheet, the graphs of the black-body spectral intensity at two different temperatures $T_1 = 2000\ \text{K}$ and $T_2 = 1300\ \text{K}$ are provided.
 
-**Solution:**
+**Solution:** [[2liv15S Def|Soluzioni]]
 
 
 

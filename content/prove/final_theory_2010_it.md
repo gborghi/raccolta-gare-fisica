@@ -1,5 +1,5 @@
 ---
-title: Svizze 2010
+title: Svizzera 2010
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2010 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/sphere,object/lever,object/planet,object/electron,object/droplet"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Svizzera 2010 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/sphere,object/lever,object/planet,object/electron,object/droplet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

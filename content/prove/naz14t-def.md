@@ -251,4 +251,4 @@ Assume that in the chemical reaction that takes place in the battery each molecu
 *Electrostatic pendulum with spheres A, B, P*
 <!--fig:end-->
 
-**Solution:**
+**Solution:** [[Naz14S def|Soluzioni]]

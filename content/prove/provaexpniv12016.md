@@ -1,5 +1,5 @@
 ---
-title: Brasil 2016
+title: Brasile 2016
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2016 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/battery"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2016 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/battery"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -50,7 +50,7 @@ Measure and record the voltage of the source with the batteries using a multimet
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2016 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2016 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -87,7 +87,7 @@ Write the value of the fixed resistance using color code in error. The resistor 
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2016 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2016 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -124,7 +124,7 @@ Measure and write the resistance value by direct measurement with a multimeter. 
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2016 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor,object/battery"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2016 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -161,7 +161,7 @@ Set up a circuit with a fixed resistance in series with the source. The followin
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Brasil 2016 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor,object/battery"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Brasile 2016 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -198,7 +198,7 @@ Determine the voltage and current value of the fixed resistor connected in serie
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Brasil 2016 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Brasile 2016 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -235,7 +235,7 @@ Determine the resistance value by the measurements made in the previous item (re
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Brasil 2016 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Brasile 2016 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -272,7 +272,7 @@ Comparing the three resistance values obtained (color code, direct measurement a
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Brasil 2016 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Brasile 2016 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -309,7 +309,7 @@ Determine and write the range of variation of the variable resistors supplied, d
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Brasil 2016 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Brasile 2016 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -340,7 +340,7 @@ Set the resistance value of $300\,\Omega$ into $R_{var}$ and assemble a circuit 
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Brasil 2016 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Brasile 2016 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -377,7 +377,7 @@ Determine the equivalent total resistance of the circuit with $R_{var} = 300\,\O
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Brasil 2016 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor,object/battery"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Brasile 2016 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -414,7 +414,7 @@ Power the two resistors in series (in paragraph 9) with the source and determine
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Brasil 2016 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Brasile 2016 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -445,7 +445,7 @@ Set the resistance value of $300\,\Omega$ into $R_{var}$ (record the obtained va
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Brasil 2016 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Brasile 2016 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -482,7 +482,7 @@ Determine the equivalent total resistance of the circuit with $R_{var}$ in paral
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Brasil 2016 — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor,object/battery"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Brasile 2016 — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -519,7 +519,7 @@ Power the two resistors in parallel (in paragraph 12) with the source and determ
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Brasil 2016 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Brasile 2016 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -568,7 +568,7 @@ Describe a circuit that, while maintaining the $R_p$ resistor, adds another (((s
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Brasil 2016 — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Brasile 2016 — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

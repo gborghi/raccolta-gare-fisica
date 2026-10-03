@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Fisica Moderna
-title: Brasil 2025 — fase2_n1.pdf
+title: Brasile 2025 — fase2_n1.pdf
 ---
 
 

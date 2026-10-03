@@ -1,5 +1,5 @@
 ---
-title: Argent 1993
+title: Argentina 1993
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 1993 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 1993 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -191,7 +191,7 @@ $g = 9{,}8\ \text{m/s}^2$
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 1993 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 1993 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -309,7 +309,7 @@ $g = 9{,}8\ \text{m/s}^2$
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 1993 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/battery,object/resistor,object/switch,object/wire,object/coil"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 1993 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/battery,object/resistor,object/switch,object/wire,object/coil"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

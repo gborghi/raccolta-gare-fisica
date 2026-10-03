@@ -1,5 +1,5 @@
 ---
-title: Argent 2001
+title: Argentina 2001
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2001 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,object/droplet"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2001 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,object/droplet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -212,7 +212,7 @@ n
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2001 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,object/cylinder,object/rope-string,object/pulley"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2001 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,object/cylinder,object/rope-string,object/pulley"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -360,7 +360,7 @@ e) Calculate the work done by the motor that winds the cable, to bring $A_3$ fro
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2001 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,object/cylinder,object/resistor"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2001 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,object/cylinder,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

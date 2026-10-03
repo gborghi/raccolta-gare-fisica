@@ -1,5 +1,5 @@
 ---
-title: Russia 2011 ''
+title: Russia 2011
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia 2011 '' — Quesito 1" data-tags="kg/prova,paese/Russia,comp/Russia,object/planet"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Russia 2011 — Quesito 1" data-tags="kg/prova,paese/Russia,comp/Russia,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -36,7 +36,7 @@ Le montagne più alte della Terra ($\oplus$) e Marte ($\text{♂}$) sono rispett
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia 2011 '' — Quesito 2" data-tags="kg/prova,paese/Russia,comp/Russia,object/projectile"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Russia 2011 — Quesito 2" data-tags="kg/prova,paese/Russia,comp/Russia,object/projectile"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -67,7 +67,7 @@ Questa forza di trazione è uguale alla forza gravitazionale $mg$ quando la velo
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia 2011 '' — Quesito 3" data-tags="kg/prova,paese/Russia,comp/Russia,object/spring,object/pendulum"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Russia 2011 — Quesito 3" data-tags="kg/prova,paese/Russia,comp/Russia,object/spring,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -94,7 +94,7 @@ Un sistema di massa di molla e un pendolo fisico oscilano con i periodi $T_1$ e 
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Russia 2011 '' — Quesito 4" data-tags="kg/prova,paese/Russia,comp/Russia,object/planet,object/satellite,object/star"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Russia 2011 — Quesito 4" data-tags="kg/prova,paese/Russia,comp/Russia,object/planet,object/satellite,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -121,7 +121,7 @@ Saturno (che orbita intorno al Sole ogni $T_\mathrm{Sat} = 29.5\ \mathrm{years}$
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Russia 2011 '' — Quesito 5" data-tags="kg/prova,paese/Russia,comp/Russia,object/satellite,object/star"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Russia 2011 — Quesito 5" data-tags="kg/prova,paese/Russia,comp/Russia,object/satellite,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -148,7 +148,7 @@ Una sonda spaziale decolla dalla Terra e inizia a muoversi verso una stella $d =
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Russia 2011 '' — Quesito 6" data-tags="kg/prova,paese/Russia,comp/Russia,object/bubble"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Russia 2011 — Quesito 6" data-tags="kg/prova,paese/Russia,comp/Russia,object/bubble"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: OBF 2007 ''
+title: OBF 2007
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2007 '' — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,object/pendulum"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2007 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -109,7 +109,7 @@ Repeat the procedure using the 60 cm and 90 cm length pendulum and note the resu
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2007 '' — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,object/pendulum"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2007 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

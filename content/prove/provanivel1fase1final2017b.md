@@ -1,5 +1,5 @@
 ---
-title: Brasil 2017
+title: Brasile 2017
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2017 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2017 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -71,7 +71,7 @@ a) $1{,}0\times10^{6}$
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2017 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2017 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -147,7 +147,7 @@ e) 2,0
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2017 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2017 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -220,7 +220,7 @@ Please read the instructions below carefully:
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2017 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2017 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -259,7 +259,7 @@ vinte questões.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Brasil 2017 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Brasile 2017 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -296,7 +296,7 @@ vinte questões.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Brasil 2017 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Brasile 2017 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -333,7 +333,7 @@ vinte questões.
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Brasil 2017 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Brasile 2017 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -373,7 +373,7 @@ shall be delivered at the end of the test.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Brasil 2017 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Brasile 2017 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -419,7 +419,7 @@ At least 90 minutes.
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Brasil 2017 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Brasile 2017 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -456,7 +456,7 @@ At least 90 minutes.
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Brasil 2017 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/ball,object/rope-string,object/block,object/tank-container"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Brasile 2017 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/ball,object/rope-string,object/block,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

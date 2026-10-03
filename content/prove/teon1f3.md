@@ -1,5 +1,5 @@
 ---
-title: Brasil 2006
+title: Brasile 2006
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/rope-string,object/pulley,object/rod,object/block"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/rope-string,object/pulley,object/rod,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -122,7 +122,7 @@ $\pi = 3$; $\sqrt{2} = 1{,}4$; $\sqrt{3} = 1{,}7$; $\text{sen}\,30^\circ = 0{,}5
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -195,7 +195,7 @@ immediately above $100\ \text{Hz}$. (a) How deep is the well? (b) What is the va
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/disk,object/spring"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/disk,object/spring"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -274,7 +274,7 @@ The time intervals given determine the highest average speed.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/rod"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/rod"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -326,7 +326,7 @@ where the tracks cross.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Brasil 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/pipe-tube"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Brasile 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -381,7 +381,7 @@ hexagonal and square base prism. Assume the thickness of the walls is the same i
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Brasil 2006 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/tank-container"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Brasile 2006 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -466,7 +466,7 @@ Particles in each chamber equal the mean?
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Brasil 2006 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/ball"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Brasile 2006 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/ball"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -518,7 +518,7 @@ First time?
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Brasil 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Brasile 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

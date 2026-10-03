@@ -1,5 +1,5 @@
 ---
-title: Argent 2016
+title: Argentina 2016
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2016 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas,object/heat-engine"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2016 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas,object/heat-engine"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -152,7 +152,7 @@ The following table shows the methodology used for calculating the energy effici
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2016 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/pipe-tube"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2016 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -261,7 +261,7 @@ d) Calculate the density of the solid.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2016 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/electron"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2016 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/electron"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1478,7 +1478,7 @@ Where $P_o$
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2016 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas,object/heat-engine"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina 2016 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas,object/heat-engine"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1701,7 +1701,7 @@ The following table shows the results of the analysis of the results of the stud
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Argent 2016 — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/pipe-tube"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Argentina 2016 — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1804,7 +1804,7 @@ $g = 9.8\ \text{m/s}^2$, $\quad d = 0.4\ \text{m}$, $\quad L = 2\ \text{cal/g} \
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Argent 2016 — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/electron"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Argentina 2016 — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/electron"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

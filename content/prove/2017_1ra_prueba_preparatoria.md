@@ -1,5 +1,5 @@
 ---
-title: Argent 2017
+title: Argentina 2017
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2017 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fisica Moderna,object/droplet"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2017 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fisica Moderna,object/droplet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -92,7 +92,7 @@ In the previous point?
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2017 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fisica Moderna"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2017 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fisica Moderna"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -222,7 +222,7 @@ The following table shows the total energy consumption of the product:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2017 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fisica Moderna,object/block,object/pulley,object/rope-string"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2017 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fisica Moderna,object/block,object/pulley,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

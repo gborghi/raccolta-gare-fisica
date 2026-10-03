@@ -1,5 +1,5 @@
 ---
-title: Argent 1994
+title: Argentina 1994
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 1994 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas,object/tank-container,object/droplet"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 1994 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas,object/tank-container,object/droplet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -98,7 +98,7 @@ Data: The vapor pressure of saturated water at $10\ ^\circ\text{C}$ is equal to 
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 1994 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/battery,object/resistor"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 1994 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/battery,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -189,7 +189,7 @@ nominal resistance of lamps is assumed to be constant.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 1994 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/spring,object/planet"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 1994 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/spring,object/planet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: Argent 2017
+title: Argentina 2017
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2017 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas,object/pipe-tube"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2017 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -257,7 +257,7 @@ calculate the velocity (in cm/s) of the air flow in the duct.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2017 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/droplet,object/capacitor,object/electron,object/coil"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2017 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/droplet,object/capacitor,object/electron,object/coil"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -534,7 +534,7 @@ It's moving through Helmholtz's coils.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2017 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/planet,object/star,object/slit,object/screen,object/lens"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2017 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/planet,object/star,object/slit,object/screen,object/lens"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1003,7 +1003,7 @@ Available elements
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2017 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas,object/pipe-tube"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina 2017 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1331,7 +1331,7 @@ Electrical, at a voltage (r.m.s.) of 220 V.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Argent 2017 — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/droplet,object/capacitor,object/electron,object/coil"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Argentina 2017 — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/droplet,object/capacitor,object/electron,object/coil"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1668,7 +1668,7 @@ the value of the electron charge from these measured values.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Argent 2017 — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/planet,object/star,object/mirror,object/slit"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Argentina 2017 — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/planet,object/star,object/mirror,object/slit"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: Svizze 2017 ''
+title: Svizzera 2017
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2017 '' — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/rope-string,object/rod,object/tank-container"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Svizzera 2017 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/rope-string,object/rod,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -74,7 +74,7 @@ It is necessary to determine the forces between the rope and the rod under maxim
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2017 '' — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/rope-string,object/rod"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Svizzera 2017 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/rope-string,object/rod"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -115,7 +115,7 @@ Now use a new rope. We will again employ a constant winding angle $\varphi = \pi
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2017 '' — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/rope-string,object/rod"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Svizzera 2017 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/rope-string,object/rod"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

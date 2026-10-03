@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Meccanica
-title: Brasil 2006 — 2_lugar.pdf
+title: Brasile 2006 — 2_lugar.pdf
 ---
 
 

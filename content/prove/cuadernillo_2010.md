@@ -1,5 +1,5 @@
 ---
-title: Argent 2010
+title: Argentina 2010
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2010 Locale — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi,object/tank-container,object/resistor,object/mirror,object/piston"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2010 Locale — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi,object/tank-container,object/resistor,object/mirror,object/piston"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -293,7 +293,7 @@ OAF 2010 - 5
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2010 Locale — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/particle-beam,object/capacitor"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2010 Locale — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/particle-beam,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -921,7 +921,7 @@ OAF 2010 - 8
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2010 Locale — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/4,multidisciplina/mono,object/disk"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2010 Locale — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/4,multidisciplina/mono,object/disk"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1667,7 +1667,7 @@ OAF 2010 - 13
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2010 Locale — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina 2010 Locale — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1731,7 +1731,7 @@ higher than A and B. Find the final velocity of the three bodies A, B and C.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Argent 2010 Locale — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor,object/galvanometer"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Argentina 2010 Locale — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor,object/galvanometer"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1789,7 +1789,7 @@ What's one of the possible flaws?
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Argent 2010 Locale — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas,object/piston,object/cylinder"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Argentina 2010 Locale — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas,object/piston,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1859,7 +1859,7 @@ Piston? What is it?
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Argent 2010 Locale — Quesito 7" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/bubble"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Argentina 2010 Locale — Quesito 7" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/bubble"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1995,7 +1995,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Argent 2010 Locale — Quesito 8" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Argentina 2010 Locale — Quesito 8" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2080,7 +2080,7 @@ The following information is provided for the purpose of this Regulation:
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Argent 2010 Locale — Quesito 9" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/resistor,object/battery,object/switch"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Argentina 2010 Locale — Quesito 9" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/resistor,object/battery,object/switch"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2216,7 +2216,7 @@ The temperature of the product shall be measured at the following temperature:
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Argent 2010 Locale — Quesito 10" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor,object/galvanometer,object/battery"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Argentina 2010 Locale — Quesito 10" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor,object/galvanometer,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2283,7 +2283,7 @@ c) Calculate the power developed in the source and in each resistor.
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Argent 2010 Locale — Quesito 11" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/block,object/tank-container"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Argentina 2010 Locale — Quesito 11" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/block,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2392,7 +2392,7 @@ The liquids are non-miscible.
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Argent 2010 Locale — Quesito 12" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/inclined-plane,object/projectile"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Argentina 2010 Locale — Quesito 12" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/inclined-plane,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2475,7 +2475,7 @@ h1= 30 m , h2= 2 m
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Argent 2010 Locale — Quesito 13" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Argentina 2010 Locale — Quesito 13" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2594,7 +2594,7 @@ Score:
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Argent 2010 Locale — Quesito 14" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/mono,object/pipe-tube,object/sphere"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Argentina 2010 Locale — Quesito 14" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/mono,object/pipe-tube,object/sphere"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2724,7 +2724,7 @@ c)  2,5
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Argent 2010 Locale — Quesito 15" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/multi,object/resistor,object/tank-container"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Argentina 2010 Locale — Quesito 15" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/multi,object/resistor,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2833,7 +2833,7 @@ a) 2,5 b) 1,5
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Argent 2010 Locale — Quesito 16" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Argentina 2010 Locale — Quesito 16" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2933,7 +2933,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Argent 2010 Locale — Quesito 17" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/inclined-plane,object/pulley"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Argentina 2010 Locale — Quesito 17" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/inclined-plane,object/pulley"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3057,7 +3057,7 @@ displacement, if mass A has a value of 60 kg.
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Argent 2010 Locale — Quesito 18" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/lens,object/screen"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Argentina 2010 Locale — Quesito 18" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/lens,object/screen"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3184,7 +3184,7 @@ The radii of the lens and what is the power of the lens?
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Argent 2010 Locale — Quesito 19" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/wheel"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Argentina 2010 Locale — Quesito 19" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/wheel"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3311,7 +3311,7 @@ the tyre to meet the conditions set out.
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Argent 2010 Locale — Quesito 20" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/inclined-plane"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Argentina 2010 Locale — Quesito 20" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3453,7 +3453,7 @@ iv- The kinetic friction coefficient between the block and the plane.
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Argent 2010 Locale — Quesito 21" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/prism"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Argentina 2010 Locale — Quesito 21" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/prism"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3589,7 +3589,7 @@ are empty, respectively,  red = 656.3 nm and  blue = 486.1 nm?
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Argent 2010 Locale — Quesito 22" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/piston"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Argentina 2010 Locale — Quesito 22" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/piston"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3683,7 +3683,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Argent 2010 Locale — Quesito 23" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/multi,object/spring,object/beam"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Argentina 2010 Locale — Quesito 23" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/multi,object/spring,object/beam"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3813,7 +3813,7 @@ e. How many calories will the system produce until it stops completely?
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Argent 2010 Locale — Quesito 24" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/inclined-plane,object/projectile"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Argentina 2010 Locale — Quesito 24" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/inclined-plane,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3883,7 +3883,7 @@ receives the body as it descends over the sloping surface?
 
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="Argent 2010 Locale — Quesito 25" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Argentina 2010 Locale — Quesito 25" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3932,7 +3932,7 @@ The end is 30 degrees? (date: specific heat of aluminium = 0,212)
 
 
 
-<span class="atom-split" id="q26" data-atom="q26" data-title="Argent 2010 Locale — Quesito 26" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/piston,object/pipe-tube"></span>
+<span class="atom-split" id="q26" data-atom="q26" data-title="Argentina 2010 Locale — Quesito 26" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/piston,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4032,7 +4032,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q27" data-atom="q27" data-title="Argent 2010 Locale — Quesito 27" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block,object/pulley,object/inclined-plane"></span>
+<span class="atom-split" id="q27" data-atom="q27" data-title="Argentina 2010 Locale — Quesito 27" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block,object/pulley,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4093,7 +4093,7 @@ The data shall be reported in the following table:
 
 
 
-<span class="atom-split" id="q28" data-atom="q28" data-title="Argent 2010 Locale — Quesito 28" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/spring,object/inclined-plane"></span>
+<span class="atom-split" id="q28" data-atom="q28" data-title="Argentina 2010 Locale — Quesito 28" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/spring,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4184,7 +4184,7 @@ I'm hoping this one stops him.
 
 
 
-<span class="atom-split" id="q29" data-atom="q29" data-title="Argent 2010 Locale — Quesito 29" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
+<span class="atom-split" id="q29" data-atom="q29" data-title="Argentina 2010 Locale — Quesito 29" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4269,7 +4269,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q30" data-atom="q30" data-title="Argent 2010 Locale — Quesito 30" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/mirror"></span>
+<span class="atom-split" id="q30" data-atom="q30" data-title="Argentina 2010 Locale — Quesito 30" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/mirror"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4321,7 +4321,7 @@ Is it possible to get a virtual image larger than the object? - Explain that.
 
 
 
-<span class="atom-split" id="q31" data-atom="q31" data-title="Argent 2010 Locale — Quesito 31" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block"></span>
+<span class="atom-split" id="q31" data-atom="q31" data-title="Argentina 2010 Locale — Quesito 31" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4388,7 +4388,7 @@ The digital file for the figure was not provided by the school.
 
 
 
-<span class="atom-split" id="q32" data-atom="q32" data-title="Argent 2010 Locale — Quesito 32" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono"></span>
+<span class="atom-split" id="q32" data-atom="q32" data-title="Argentina 2010 Locale — Quesito 32" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4455,7 +4455,7 @@ The digital file for the figure was not provided by the school.
 
 
 
-<span class="atom-split" id="q33" data-atom="q33" data-title="Argent 2010 Locale — Quesito 33" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/mono,object/tank-container,object/piston,object/spring"></span>
+<span class="atom-split" id="q33" data-atom="q33" data-title="Argentina 2010 Locale — Quesito 33" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/mono,object/tank-container,object/piston,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4525,7 +4525,7 @@ water 1000 Kg/m3.
 
 
 
-<span class="atom-split" id="q34" data-atom="q34" data-title="Argent 2010 Locale — Quesito 34" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/rod"></span>
+<span class="atom-split" id="q34" data-atom="q34" data-title="Argentina 2010 Locale — Quesito 34" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/rod"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4607,7 +4607,7 @@ The equation:
 
 
 
-<span class="atom-split" id="q35" data-atom="q35" data-title="Argent 2010 Locale — Quesito 35" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q35" data-atom="q35" data-title="Argentina 2010 Locale — Quesito 35" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4707,7 +4707,7 @@ c) Is the car still at any time?
 
 
 
-<span class="atom-split" id="q36" data-atom="q36" data-title="Argent 2010 Locale — Quesito 36" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
+<span class="atom-split" id="q36" data-atom="q36" data-title="Argentina 2010 Locale — Quesito 36" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4816,7 +4816,7 @@ Seconds.
 
 
 
-<span class="atom-split" id="q37" data-atom="q37" data-title="Argent 2010 Locale — Quesito 37" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
+<span class="atom-split" id="q37" data-atom="q37" data-title="Argentina 2010 Locale — Quesito 37" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5030,7 +5030,7 @@ How fast would you do it?
 
 
 
-<span class="atom-split" id="q38" data-atom="q38" data-title="Argent 2010 Locale — Quesito 38" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/mono"></span>
+<span class="atom-split" id="q38" data-atom="q38" data-title="Argentina 2010 Locale — Quesito 38" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5223,7 +5223,7 @@ Dried wood: 18 MJ/kg
 
 
 
-<span class="atom-split" id="q39" data-atom="q39" data-title="Argent 2010 Locale — Quesito 39" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/bubble"></span>
+<span class="atom-split" id="q39" data-atom="q39" data-title="Argentina 2010 Locale — Quesito 39" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/bubble"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5363,7 +5363,7 @@ Drinking is harmful to health.
 
 
 
-<span class="atom-split" id="q40" data-atom="q40" data-title="Argent 2010 Locale — Quesito 40" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/4,multidisciplina/multi,object/pendulum"></span>
+<span class="atom-split" id="q40" data-atom="q40" data-title="Argentina 2010 Locale — Quesito 40" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/4,multidisciplina/multi,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5529,7 +5529,7 @@ I'm not.
 
 
 
-<span class="atom-split" id="q41" data-atom="q41" data-title="Argent 2010 Locale — Quesito 41" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/multi,object/sphere,object/beam"></span>
+<span class="atom-split" id="q41" data-atom="q41" data-title="Argentina 2010 Locale — Quesito 41" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/multi,object/sphere,object/beam"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5857,7 +5857,7 @@ What's the balance?
 
 
 
-<span class="atom-split" id="q42" data-atom="q42" data-title="Argent 2010 Locale — Quesito 42" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/4,multidisciplina/mono,object/lens"></span>
+<span class="atom-split" id="q42" data-atom="q42" data-title="Argentina 2010 Locale — Quesito 42" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/4,multidisciplina/mono,object/lens"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6044,7 +6044,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q43" data-atom="q43" data-title="Argent 2010 Locale — Quesito 43" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
+<span class="atom-split" id="q43" data-atom="q43" data-title="Argentina 2010 Locale — Quesito 43" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6158,7 +6158,7 @@ Based on the results obtained, will the driver have had to pay a fine for speedi
 
 
 
-<span class="atom-split" id="q44" data-atom="q44" data-title="Argent 2010 Locale — Quesito 44" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/battery"></span>
+<span class="atom-split" id="q44" data-atom="q44" data-title="Argentina 2010 Locale — Quesito 44" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6240,7 +6240,7 @@ Ri = 0.8 ohm) Do the conclusions change?
 
 
 
-<span class="atom-split" id="q45" data-atom="q45" data-title="Argent 2010 Locale — Quesito 45" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/mono,object/tank-container,object/sphere"></span>
+<span class="atom-split" id="q45" data-atom="q45" data-title="Argentina 2010 Locale — Quesito 45" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/mono,object/tank-container,object/sphere"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6457,7 +6457,7 @@ NOTE: The volume of the sphere = 4/3 . r3
 
 
 
-<span class="atom-split" id="q46" data-atom="q46" data-title="Argent 2010 Locale — Quesito 46" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/mono,object/rod,object/sphere"></span>
+<span class="atom-split" id="q46" data-atom="q46" data-title="Argentina 2010 Locale — Quesito 46" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/mono,object/rod,object/sphere"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6593,7 +6593,7 @@ The force can be radial inward or outward.
 
 
 
-<span class="atom-split" id="q47" data-atom="q47" data-title="Argent 2010 Locale — Quesito 47" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/heat-engine"></span>
+<span class="atom-split" id="q47" data-atom="q47" data-title="Argentina 2010 Locale — Quesito 47" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/heat-engine"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6663,7 +6663,7 @@ machine, with its respective signs.
 
 
 
-<span class="atom-split" id="q48" data-atom="q48" data-title="Argent 2010 Locale — Quesito 48" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/mirror"></span>
+<span class="atom-split" id="q48" data-atom="q48" data-title="Argentina 2010 Locale — Quesito 48" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/mirror"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6757,7 +6757,7 @@ a height h?
 
 
 
-<span class="atom-split" id="q49" data-atom="q49" data-title="Argent 2010 Locale — Quesito 49" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q49" data-atom="q49" data-title="Argentina 2010 Locale — Quesito 49" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6848,7 +6848,7 @@ Score: a) 1.50 b) 1.50 c) 1.50 d) 1.50 e) 2.50 f) 1.50
 
 
 
-<span class="atom-split" id="q50" data-atom="q50" data-title="Argent 2010 Locale — Quesito 50" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/multi,object/block"></span>
+<span class="atom-split" id="q50" data-atom="q50" data-title="Argentina 2010 Locale — Quesito 50" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/multi,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6930,7 +6930,7 @@ Score: a) 1 b) 2,50 c) 1,50 d) 2,00 e) 1,50 f) 1,50
 
 
 
-<span class="atom-split" id="q51" data-atom="q51" data-title="Argent 2010 Locale — Quesito 51" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
+<span class="atom-split" id="q51" data-atom="q51" data-title="Argentina 2010 Locale — Quesito 51" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7000,7 +7000,7 @@ Score: a) 3 b) 1 c) 2 d) 2 e) 2
 
 
 
-<span class="atom-split" id="q52" data-atom="q52" data-title="Argent 2010 Locale — Quesito 52" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q52" data-atom="q52" data-title="Argentina 2010 Locale — Quesito 52" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7094,7 +7094,7 @@ He estimates that each floor is 3 meters high and the ground floor 4 meters high
 
 
 
-<span class="atom-split" id="q53" data-atom="q53" data-title="Argent 2010 Locale — Quesito 53" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block"></span>
+<span class="atom-split" id="q53" data-atom="q53" data-title="Argentina 2010 Locale — Quesito 53" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7152,7 +7152,7 @@ You're not going to fight?
 
 
 
-<span class="atom-split" id="q54" data-atom="q54" data-title="Argent 2010 Locale — Quesito 54" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q54" data-atom="q54" data-title="Argentina 2010 Locale — Quesito 54" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7206,7 +7206,7 @@ e) Draw the free-body diagram corresponding to each situation posed.
 
 
 
-<span class="atom-split" id="q55" data-atom="q55" data-title="Argent 2010 Locale — Quesito 55" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q55" data-atom="q55" data-title="Argentina 2010 Locale — Quesito 55" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7288,7 +7288,7 @@ distance of 2 m.
 
 
 
-<span class="atom-split" id="q56" data-atom="q56" data-title="Argent 2010 Locale — Quesito 56" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/pulley"></span>
+<span class="atom-split" id="q56" data-atom="q56" data-title="Argentina 2010 Locale — Quesito 56" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/pulley"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7373,7 +7373,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q57" data-atom="q57" data-title="Argent 2010 Locale — Quesito 57" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/inductor"></span>
+<span class="atom-split" id="q57" data-atom="q57" data-title="Argentina 2010 Locale — Quesito 57" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/inductor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7446,7 +7446,7 @@ Find out:
 
 
 
-<span class="atom-split" id="q58" data-atom="q58" data-title="Argent 2010 Locale — Quesito 58" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block"></span>
+<span class="atom-split" id="q58" data-atom="q58" data-title="Argentina 2010 Locale — Quesito 58" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7567,7 +7567,7 @@ e- How far does the 8 kg block travel at that time?
 
 
 
-<span class="atom-split" id="q59" data-atom="q59" data-title="Argent 2010 Locale — Quesito 59" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi"></span>
+<span class="atom-split" id="q59" data-atom="q59" data-title="Argentina 2010 Locale — Quesito 59" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7661,7 +7661,7 @@ c- What happens if the tape cools?
 
 
 
-<span class="atom-split" id="q60" data-atom="q60" data-title="Argent 2010 Locale — Quesito 60" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/4,multidisciplina/multi,object/tank-container"></span>
+<span class="atom-split" id="q60" data-atom="q60" data-title="Argentina 2010 Locale — Quesito 60" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/4,multidisciplina/multi,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7805,7 +7805,7 @@ OAF 2010 - 37
 
 
 
-<span class="atom-split" id="q61" data-atom="q61" data-title="Argent 2010 Locale — Quesito 61" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/projectile,object/rope-string"></span>
+<span class="atom-split" id="q61" data-atom="q61" data-title="Argentina 2010 Locale — Quesito 61" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/projectile,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7896,7 +7896,7 @@ Data: m=8g M=2kg h=20cm g=10m/second
 
 
 
-<span class="atom-split" id="q62" data-atom="q62" data-title="Argent 2010 Locale — Quesito 62" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/electron,object/capacitor"></span>
+<span class="atom-split" id="q62" data-atom="q62" data-title="Argentina 2010 Locale — Quesito 62" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/electron,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7990,7 +7990,7 @@ Data: me- = 9.1.10-16 kg which- = 1.6.10-19 C
 
 
 
-<span class="atom-split" id="q63" data-atom="q63" data-title="Argent 2010 Locale — Quesito 63" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor"></span>
+<span class="atom-split" id="q63" data-atom="q63" data-title="Argentina 2010 Locale — Quesito 63" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -8093,7 +8093,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q64" data-atom="q64" data-title="Argent 2010 Locale — Quesito 64" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/multi,object/block,object/inclined-plane"></span>
+<span class="atom-split" id="q64" data-atom="q64" data-title="Argentina 2010 Locale — Quesito 64" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/multi,object/block,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -8184,7 +8184,7 @@ The following table shows the results of the calculations:
 
 
 
-<span class="atom-split" id="q65" data-atom="q65" data-title="Argent 2010 Locale — Quesito 65" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q65" data-atom="q65" data-title="Argentina 2010 Locale — Quesito 65" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -8266,7 +8266,7 @@ Would you make it to the second gas station?
 
 
 
-<span class="atom-split" id="q66" data-atom="q66" data-title="Argent 2010 Locale — Quesito 66" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/inclined-plane,object/pulley"></span>
+<span class="atom-split" id="q66" data-atom="q66" data-title="Argentina 2010 Locale — Quesito 66" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/inclined-plane,object/pulley"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -8381,7 +8381,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q67" data-atom="q67" data-title="Argent 2010 Locale — Quesito 67" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Scienze della Terra,topic/earth-and-environmental-science,argomento/scienze-della-terra,difficolta/5,multidisciplina/multi"></span>
+<span class="atom-split" id="q67" data-atom="q67" data-title="Argentina 2010 Locale — Quesito 67" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Scienze della Terra,topic/earth-and-environmental-science,argomento/scienze-della-terra,difficolta/5,multidisciplina/multi"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -8617,7 +8617,7 @@ Note: albedo is the fraction of incident radiation that is reflected by the surf
 
 
 
-<span class="atom-split" id="q68" data-atom="q68" data-title="Argent 2010 Locale — Quesito 68" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,topic/gravitation,argomento/gravitazione-e-astrofisica,difficolta/5,multidisciplina/multi,object/satellite,object/planet"></span>
+<span class="atom-split" id="q68" data-atom="q68" data-title="Argentina 2010 Locale — Quesito 68" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,topic/gravitation,argomento/gravitazione-e-astrofisica,difficolta/5,multidisciplina/multi,object/satellite,object/planet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -9006,7 +9006,7 @@ E= −GMm d
 
 
 
-<span class="atom-split" id="q69" data-atom="q69" data-title="Argent 2010 Locale — Quesito 69" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fisica Moderna,topic/modern-quantum-physics,argomento/fisica-moderna,difficolta/5,multidisciplina/mono,object/electron"></span>
+<span class="atom-split" id="q69" data-atom="q69" data-title="Argentina 2010 Locale — Quesito 69" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fisica Moderna,topic/modern-quantum-physics,argomento/fisica-moderna,difficolta/5,multidisciplina/mono,object/electron"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -9386,7 +9386,7 @@ g) From figure 5, graph the x-component of the electric field vector E within th
 
 
 
-<span class="atom-split" id="q70" data-atom="q70" data-title="Argent 2010 Locale — Quesito 70" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
+<span class="atom-split" id="q70" data-atom="q70" data-title="Argentina 2010 Locale — Quesito 70" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -9548,7 +9548,7 @@ Note: neglect all types of friction and consider: g = 10 m / s2
 
 
 
-<span class="atom-split" id="q71" data-atom="q71" data-title="Argent 2010 Locale — Quesito 71" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono"></span>
+<span class="atom-split" id="q71" data-atom="q71" data-title="Argentina 2010 Locale — Quesito 71" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -9654,7 +9654,7 @@ Water is equal to 1 cal/goC
 
 
 
-<span class="atom-split" id="q72" data-atom="q72" data-title="Argent 2010 Locale — Quesito 72" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/electron,object/capacitor"></span>
+<span class="atom-split" id="q72" data-atom="q72" data-title="Argentina 2010 Locale — Quesito 72" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/electron,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -9817,7 +9817,7 @@ e (electron charge) = 1.6. 10-19 C
 
 
 
-<span class="atom-split" id="q73" data-atom="q73" data-title="Argent 2010 Locale — Quesito 73" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/cylinder"></span>
+<span class="atom-split" id="q73" data-atom="q73" data-title="Argentina 2010 Locale — Quesito 73" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -9944,7 +9944,7 @@ height h.
 
 
 
-<span class="atom-split" id="q74" data-atom="q74" data-title="Argent 2010 Locale — Quesito 74" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/battery,object/switch"></span>
+<span class="atom-split" id="q74" data-atom="q74" data-title="Argentina 2010 Locale — Quesito 74" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/battery,object/switch"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -10035,7 +10035,7 @@ For the following questions, assume the resistance of each lamp equal to its nom
 
 
 
-<span class="atom-split" id="q75" data-atom="q75" data-title="Argent 2010 Locale — Quesito 75" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/mono,object/gas,object/piston"></span>
+<span class="atom-split" id="q75" data-atom="q75" data-title="Argentina 2010 Locale — Quesito 75" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/mono,object/gas,object/piston"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -10165,7 +10165,7 @@ The following conditions shall apply:
 
 
 
-<span class="atom-split" id="q76" data-atom="q76" data-title="Argent 2010 Locale — Quesito 76" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block"></span>
+<span class="atom-split" id="q76" data-atom="q76" data-title="Argentina 2010 Locale — Quesito 76" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -10220,7 +10220,7 @@ constant, knowing that the power developed is 300 watts.
 
 
 
-<span class="atom-split" id="q77" data-atom="q77" data-title="Argent 2010 Locale — Quesito 77" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>
+<span class="atom-split" id="q77" data-atom="q77" data-title="Argentina 2010 Locale — Quesito 77" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -10335,7 +10335,7 @@ to which material it belongs
 
 
 
-<span class="atom-split" id="q78" data-atom="q78" data-title="Argent 2010 Locale — Quesito 78" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor"></span>
+<span class="atom-split" id="q78" data-atom="q78" data-title="Argentina 2010 Locale — Quesito 78" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -10414,7 +10414,7 @@ Once the circuit is set up, how would it proceed to achieve the goal?
 
 
 
-<span class="atom-split" id="q79" data-atom="q79" data-title="Argent 2010 Locale — Quesito 79" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/lens"></span>
+<span class="atom-split" id="q79" data-atom="q79" data-title="Argentina 2010 Locale — Quesito 79" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/lens"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -10475,7 +10475,7 @@ analytically the position and size of the image
 
 
 
-<span class="atom-split" id="q80" data-atom="q80" data-title="Argent 2010 Locale — Quesito 80" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q80" data-atom="q80" data-title="Argentina 2010 Locale — Quesito 80" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -10542,7 +10542,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q81" data-atom="q81" data-title="Argent 2010 Locale — Quesito 81" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q81" data-atom="q81" data-title="Argentina 2010 Locale — Quesito 81" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -10609,7 +10609,7 @@ with the positive direction of the x-axis, of the following forces:
 
 
 
-<span class="atom-split" id="q82" data-atom="q82" data-title="Argent 2010 Locale — Quesito 82" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q82" data-atom="q82" data-title="Argentina 2010 Locale — Quesito 82" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -10669,7 +10669,7 @@ F2=6N
 
 
 
-<span class="atom-split" id="q83" data-atom="q83" data-title="Argent 2010 Locale — Quesito 83" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q83" data-atom="q83" data-title="Argentina 2010 Locale — Quesito 83" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -10790,7 +10790,7 @@ time.
 
 
 
-<span class="atom-split" id="q84" data-atom="q84" data-title="Argent 2010 Locale — Quesito 84" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/mirror,object/screen"></span>
+<span class="atom-split" id="q84" data-atom="q84" data-title="Argentina 2010 Locale — Quesito 84" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/mirror,object/screen"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -10860,7 +10860,7 @@ Determine:
 
 
 
-<span class="atom-split" id="q85" data-atom="q85" data-title="Argent 2010 Locale — Quesito 85" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q85" data-atom="q85" data-title="Argentina 2010 Locale — Quesito 85" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -10936,7 +10936,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q86" data-atom="q86" data-title="Argent 2010 Locale — Quesito 86" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/mono"></span>
+<span class="atom-split" id="q86" data-atom="q86" data-title="Argentina 2010 Locale — Quesito 86" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -11051,7 +11051,7 @@ It was hit by the edge of the cliff.
 
 
 
-<span class="atom-split" id="q87" data-atom="q87" data-title="Argent 2010 Locale — Quesito 87" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,topic/gravitation,argomento/gravitazione-e-astrofisica,difficolta/4,multidisciplina/multi,object/planet,object/satellite"></span>
+<span class="atom-split" id="q87" data-atom="q87" data-title="Argentina 2010 Locale — Quesito 87" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,topic/gravitation,argomento/gravitazione-e-astrofisica,difficolta/4,multidisciplina/multi,object/planet,object/satellite"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -11202,7 +11202,7 @@ The digital file for the figure was not provided by the school.
 
 
 
-<span class="atom-split" id="q88" data-atom="q88" data-title="Argent 2010 Locale — Quesito 88" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Scienze della Terra,topic/earth-and-environmental-science,argomento/scienze-della-terra,difficolta/4,multidisciplina/multi,object/planet"></span>
+<span class="atom-split" id="q88" data-atom="q88" data-title="Argentina 2010 Locale — Quesito 88" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Scienze della Terra,topic/earth-and-environmental-science,argomento/scienze-della-terra,difficolta/4,multidisciplina/multi,object/planet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -11424,7 +11424,7 @@ In conclusion, the increase in temperature on Earth depends on solar radiation, 
 
 
 
-<span class="atom-split" id="q89" data-atom="q89" data-title="Argent 2010 Locale — Quesito 89" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/mono,object/inclined-plane,object/projectile"></span>
+<span class="atom-split" id="q89" data-atom="q89" data-title="Argentina 2010 Locale — Quesito 89" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/mono,object/inclined-plane,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -11571,7 +11571,7 @@ The digital file of the figure was not provided by the school.
 
 
 
-<span class="atom-split" id="q90" data-atom="q90" data-title="Argent 2010 Locale — Quesito 90" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,topic/gravitation,argomento/gravitazione-e-astrofisica,difficolta/4,multidisciplina/multi,object/planet,object/satellite"></span>
+<span class="atom-split" id="q90" data-atom="q90" data-title="Argentina 2010 Locale — Quesito 90" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,topic/gravitation,argomento/gravitazione-e-astrofisica,difficolta/4,multidisciplina/multi,object/planet,object/satellite"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -11734,7 +11734,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q91" data-atom="q91" data-title="Argent 2010 Locale — Quesito 91" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/multi"></span>
+<span class="atom-split" id="q91" data-atom="q91" data-title="Argentina 2010 Locale — Quesito 91" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/multi"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -12011,7 +12011,7 @@ The same considering that the cells are circular with a diameter of
 
 
 
-<span class="atom-split" id="q92" data-atom="q92" data-title="Argent 2010 Locale — Quesito 92" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
+<span class="atom-split" id="q92" data-atom="q92" data-title="Argentina 2010 Locale — Quesito 92" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -12135,7 +12135,7 @@ Retreats when firing a 45-round shot or with a 5-pounder bullet. 1,5 p
 
 
 
-<span class="atom-split" id="q93" data-atom="q93" data-title="Argent 2010 Locale — Quesito 93" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/multi,object/resistor"></span>
+<span class="atom-split" id="q93" data-atom="q93" data-title="Argentina 2010 Locale — Quesito 93" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/multi,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -12323,7 +12323,7 @@ OAF 2010 - 57
 
 
 
-<span class="atom-split" id="q94" data-atom="q94" data-title="Argent 2010 Locale — Quesito 94" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi,object/gas,object/piston,object/lever"></span>
+<span class="atom-split" id="q94" data-atom="q94" data-title="Argentina 2010 Locale — Quesito 94" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi,object/gas,object/piston,object/lever"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -12483,7 +12483,7 @@ It's the highest.
 
 
 
-<span class="atom-split" id="q95" data-atom="q95" data-title="Argent 2010 Locale — Quesito 95" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
+<span class="atom-split" id="q95" data-atom="q95" data-title="Argentina 2010 Locale — Quesito 95" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -12585,7 +12585,7 @@ e) What is the conclusion of your analysis? Is the guard right?
 
 
 
-<span class="atom-split" id="q96" data-atom="q96" data-title="Argent 2010 Locale — Quesito 96" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/4,multidisciplina/mono,object/droplet"></span>
+<span class="atom-split" id="q96" data-atom="q96" data-title="Argentina 2010 Locale — Quesito 96" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/4,multidisciplina/mono,object/droplet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -12721,7 +12721,7 @@ Optical path of light within the water sphere (nagua=1.33 and naire=1)
 
 
 
-<span class="atom-split" id="q97" data-atom="q97" data-title="Argent 2010 Locale — Quesito 97" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/cart"></span>
+<span class="atom-split" id="q97" data-atom="q97" data-title="Argentina 2010 Locale — Quesito 97" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/cart"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -12831,7 +12831,7 @@ e) How would the analysis change if the car were lighter and why?
 
 
 
-<span class="atom-split" id="q98" data-atom="q98" data-title="Argent 2010 Locale — Quesito 98" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/ball"></span>
+<span class="atom-split" id="q98" data-atom="q98" data-title="Argentina 2010 Locale — Quesito 98" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/ball"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -12934,7 +12934,7 @@ The second experience
 
 
 
-<span class="atom-split" id="q99" data-atom="q99" data-title="Argent 2010 Locale — Quesito 99" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>
+<span class="atom-split" id="q99" data-atom="q99" data-title="Argentina 2010 Locale — Quesito 99" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -13016,7 +13016,7 @@ What's the balance?
 
 
 
-<span class="atom-split" id="q100" data-atom="q100" data-title="Argent 2010 Locale — Quesito 100" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor"></span>
+<span class="atom-split" id="q100" data-atom="q100" data-title="Argentina 2010 Locale — Quesito 100" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -13101,7 +13101,7 @@ If the R of 20 ohms was twice what it would have to be R
 
 
 
-<span class="atom-split" id="q101" data-atom="q101" data-title="Argent 2010 Locale — Quesito 101" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/multi,object/ball,object/rope-string,object/projectile"></span>
+<span class="atom-split" id="q101" data-atom="q101" data-title="Argentina 2010 Locale — Quesito 101" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/multi,object/ball,object/rope-string,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -13189,7 +13189,7 @@ Strength in the thread (the pressure the thread bears)
 
 
 
-<span class="atom-split" id="q102" data-atom="q102" data-title="Argent 2010 Locale — Quesito 102" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electromagnetic-induction,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/wire,object/electron"></span>
+<span class="atom-split" id="q102" data-atom="q102" data-title="Argentina 2010 Locale — Quesito 102" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electromagnetic-induction,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/wire,object/electron"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -13332,7 +13332,7 @@ e) A circuit is set up, using this potential difference, to connect the induced 
 
 
 
-<span class="atom-split" id="q103" data-atom="q103" data-title="Argent 2010 Locale — Quesito 103" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/sphere"></span>
+<span class="atom-split" id="q103" data-atom="q103" data-title="Argentina 2010 Locale — Quesito 103" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/sphere"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -13465,7 +13465,7 @@ b) In the case that the hemispheres are separated by horses, and assuming a coef
 
 
 
-<span class="atom-split" id="q104" data-atom="q104" data-title="Argent 2010 Locale — Quesito 104" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/5,multidisciplina/multi,object/gas,object/piston,object/resistor"></span>
+<span class="atom-split" id="q104" data-atom="q104" data-title="Argentina 2010 Locale — Quesito 104" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/5,multidisciplina/multi,object/gas,object/piston,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -13604,7 +13604,7 @@ the connections indicated below? All resistance is the same.
 
 
 
-<span class="atom-split" id="q105" data-atom="q105" data-title="Argent 2010 Locale — Quesito 105" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/ball,object/rope-string"></span>
+<span class="atom-split" id="q105" data-atom="q105" data-title="Argentina 2010 Locale — Quesito 105" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/ball,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -13704,7 +13704,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q106" data-atom="q106" data-title="Argent 2010 Locale — Quesito 106" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/multi,object/cylinder,object/block"></span>
+<span class="atom-split" id="q106" data-atom="q106" data-title="Argentina 2010 Locale — Quesito 106" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/multi,object/cylinder,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -13825,7 +13825,7 @@ height of cylinder = 60 cm
 
 
 
-<span class="atom-split" id="q107" data-atom="q107" data-title="Argent 2010 Locale — Quesito 107" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/cart,object/pendulum"></span>
+<span class="atom-split" id="q107" data-atom="q107" data-title="Argentina 2010 Locale — Quesito 107" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/cart,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -13928,7 +13928,7 @@ the initial speed of the car.
 
 
 
-<span class="atom-split" id="q108" data-atom="q108" data-title="Argent 2010 Locale — Quesito 108" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/inclined-plane"></span>
+<span class="atom-split" id="q108" data-atom="q108" data-title="Argentina 2010 Locale — Quesito 108" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -14064,7 +14064,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q109" data-atom="q109" data-title="Argent 2010 Locale — Quesito 109" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/point-charge"></span>
+<span class="atom-split" id="q109" data-atom="q109" data-title="Argentina 2010 Locale — Quesito 109" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -14170,7 +14170,7 @@ q2
 
 
 
-<span class="atom-split" id="q110" data-atom="q110" data-title="Argent 2010 Locale — Quesito 110" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/5,multidisciplina/mono,object/gas,object/piston"></span>
+<span class="atom-split" id="q110" data-atom="q110" data-title="Argentina 2010 Locale — Quesito 110" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/5,multidisciplina/mono,object/gas,object/piston"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -14413,7 +14413,7 @@ OAF 2010 - 66
 
 
 
-<span class="atom-split" id="q111" data-atom="q111" data-title="Argent 2010 Locale — Quesito 111" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/electron,object/coil,object/screen"></span>
+<span class="atom-split" id="q111" data-atom="q111" data-title="Argentina 2010 Locale — Quesito 111" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/electron,object/coil,object/screen"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -14724,7 +14724,7 @@ C
 
 
 
-<span class="atom-split" id="q112" data-atom="q112" data-title="Argent 2010 Locale — Quesito 112" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/5,multidisciplina/multi,object/beam,object/rope-string,object/cart"></span>
+<span class="atom-split" id="q112" data-atom="q112" data-title="Argentina 2010 Locale — Quesito 112" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/5,multidisciplina/multi,object/beam,object/rope-string,object/cart"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -15172,7 +15172,7 @@ It's 1 m below ground level.
 
 
 
-<span class="atom-split" id="q113" data-atom="q113" data-title="Argent 2010 Locale — Quesito 113" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
+<span class="atom-split" id="q113" data-atom="q113" data-title="Argentina 2010 Locale — Quesito 113" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -15233,7 +15233,7 @@ Rectangular, 20 cm x 20 cm base and containing 10 l of water?
 
 
 
-<span class="atom-split" id="q114" data-atom="q114" data-title="Argent 2010 Locale — Quesito 114" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono,object/projectile"></span>
+<span class="atom-split" id="q114" data-atom="q114" data-title="Argentina 2010 Locale — Quesito 114" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -15288,7 +15288,7 @@ b- What's the value of this height? (consider g = 10 m/s2)?
 
 
 
-<span class="atom-split" id="q115" data-atom="q115" data-title="Argent 2010 Locale — Quesito 115" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q115" data-atom="q115" data-title="Argentina 2010 Locale — Quesito 115" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -15355,7 +15355,7 @@ By the van.
 
 
 
-<span class="atom-split" id="q116" data-atom="q116" data-title="Argent 2010 Locale — Quesito 116" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container"></span>
+<span class="atom-split" id="q116" data-atom="q116" data-title="Argentina 2010 Locale — Quesito 116" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -15518,7 +15518,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q117" data-atom="q117" data-title="Argent 2010 Locale — Quesito 117" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
+<span class="atom-split" id="q117" data-atom="q117" data-title="Argentina 2010 Locale — Quesito 117" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -15696,7 +15696,7 @@ ii. The mean power delivered to the bullet.
 
 
 
-<span class="atom-split" id="q118" data-atom="q118" data-title="Argent 2010 Locale — Quesito 118" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas,object/piston"></span>
+<span class="atom-split" id="q118" data-atom="q118" data-title="Argentina 2010 Locale — Quesito 118" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas,object/piston"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -15916,7 +15916,7 @@ ii. Indicate the correct number of significant figures of Tc and their error.
 
 
 
-<span class="atom-split" id="q119" data-atom="q119" data-title="Argent 2010 Locale — Quesito 119" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q119" data-atom="q119" data-title="Argentina 2010 Locale — Quesito 119" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -16094,7 +16094,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q120" data-atom="q120" data-title="Argent 2010 Locale — Quesito 120" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/block,object/sphere,object/tank-container"></span>
+<span class="atom-split" id="q120" data-atom="q120" data-title="Argentina 2010 Locale — Quesito 120" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/block,object/sphere,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -16152,7 +16152,7 @@ The specific weight of the ice is 0.917 Kgf/dm3.)
 
 
 
-<span class="atom-split" id="q121" data-atom="q121" data-title="Argent 2010 Locale — Quesito 121" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/mirror"></span>
+<span class="atom-split" id="q121" data-atom="q121" data-title="Argentina 2010 Locale — Quesito 121" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/mirror"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -16198,7 +16198,7 @@ The precise distance and distance to be placed.
 
 
 
-<span class="atom-split" id="q122" data-atom="q122" data-title="Argent 2010 Locale — Quesito 122" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
+<span class="atom-split" id="q122" data-atom="q122" data-title="Argentina 2010 Locale — Quesito 122" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -16295,7 +16295,7 @@ Little bridge is 2 meters high?
 
 
 
-<span class="atom-split" id="q123" data-atom="q123" data-title="Argent 2010 Locale — Quesito 123" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container,object/pipe-tube"></span>
+<span class="atom-split" id="q123" data-atom="q123" data-title="Argentina 2010 Locale — Quesito 123" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -16374,7 +16374,7 @@ es de 300 cm2 y en el 4 de 100 cm2.
 
 
 
-<span class="atom-split" id="q124" data-atom="q124" data-title="Argent 2010 Locale — Quesito 124" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/multi,object/resistor,object/battery"></span>
+<span class="atom-split" id="q124" data-atom="q124" data-title="Argentina 2010 Locale — Quesito 124" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/multi,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -16447,7 +16447,7 @@ Calculate:
 
 
 
-<span class="atom-split" id="q125" data-atom="q125" data-title="Argent 2010 Locale — Quesito 125" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/mirror"></span>
+<span class="atom-split" id="q125" data-atom="q125" data-title="Argentina 2010 Locale — Quesito 125" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/mirror"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -16532,7 +16532,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q126" data-atom="q126" data-title="Argent 2010 Locale — Quesito 126" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/2,multidisciplina/mono,object/spring"></span>
+<span class="atom-split" id="q126" data-atom="q126" data-title="Argentina 2010 Locale — Quesito 126" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/2,multidisciplina/mono,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -16608,7 +16608,7 @@ What is the frequency?
 
 
 
-<span class="atom-split" id="q127" data-atom="q127" data-title="Argent 2010 Locale — Quesito 127" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q127" data-atom="q127" data-title="Argentina 2010 Locale — Quesito 127" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -16690,7 +16690,7 @@ communication the boat drivers.
 
 
 
-<span class="atom-split" id="q128" data-atom="q128" data-title="Argent 2010 Locale — Quesito 128" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/mono"></span>
+<span class="atom-split" id="q128" data-atom="q128" data-title="Argentina 2010 Locale — Quesito 128" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -17339,7 +17339,7 @@ centrifugal force.
 
 
 
-<span class="atom-split" id="q129" data-atom="q129" data-title="Argent 2010 Locale — Quesito 129" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/5,multidisciplina/multi"></span>
+<span class="atom-split" id="q129" data-atom="q129" data-title="Argentina 2010 Locale — Quesito 129" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/5,multidisciplina/multi"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -17623,7 +17623,7 @@ Data:
 
 
 
-<span class="atom-split" id="q130" data-atom="q130" data-title="Argent 2010 Locale — Quesito 130" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/kinetic-theory,argomento/termodinamica,difficolta/5,multidisciplina/mono,object/gas"></span>
+<span class="atom-split" id="q130" data-atom="q130" data-title="Argentina 2010 Locale — Quesito 130" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/kinetic-theory,argomento/termodinamica,difficolta/5,multidisciplina/mono,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -17730,7 +17730,7 @@ Data:
 
 
 
-<span class="atom-split" id="q131" data-atom="q131" data-title="Argent 2010 Locale — Quesito 131" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/resistor,object/battery,object/galvanometer"></span>
+<span class="atom-split" id="q131" data-atom="q131" data-title="Argentina 2010 Locale — Quesito 131" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/resistor,object/battery,object/galvanometer"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -17839,7 +17839,7 @@ The temperature.
 
 
 
-<span class="atom-split" id="q132" data-atom="q132" data-title="Argent 2010 Locale — Quesito 132" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/4,multidisciplina/mono,object/satellite"></span>
+<span class="atom-split" id="q132" data-atom="q132" data-title="Argentina 2010 Locale — Quesito 132" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/4,multidisciplina/mono,object/satellite"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -17965,7 +17965,7 @@ The mass of the slider is considered constant (1000Kg), even though there is a d
 
 
 
-<span class="atom-split" id="q133" data-atom="q133" data-title="Argent 2010 Locale — Quesito 133" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/mono"></span>
+<span class="atom-split" id="q133" data-atom="q133" data-title="Argentina 2010 Locale — Quesito 133" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -18261,7 +18261,7 @@ J c g K
 
 
 
-<span class="atom-split" id="q134" data-atom="q134" data-title="Argent 2010 Locale — Quesito 134" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/multi,object/calorimeter,object/resistor"></span>
+<span class="atom-split" id="q134" data-atom="q134" data-title="Argentina 2010 Locale — Quesito 134" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/multi,object/calorimeter,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -18343,7 +18343,7 @@ Latent heat of ice melting: 80 cal/g
 
 
 
-<span class="atom-split" id="q135" data-atom="q135" data-title="Argent 2010 Locale — Quesito 135" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/projectile"></span>
+<span class="atom-split" id="q135" data-atom="q135" data-title="Argentina 2010 Locale — Quesito 135" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -18404,7 +18404,7 @@ a pillow placed at a height of 6 m in a horizontal direction, above the floor.
 
 
 
-<span class="atom-split" id="q136" data-atom="q136" data-title="Argent 2010 Locale — Quesito 136" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/block,object/rope-string"></span>
+<span class="atom-split" id="q136" data-atom="q136" data-title="Argentina 2010 Locale — Quesito 136" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/block,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -18474,7 +18474,7 @@ a maximum voltage of 10 N.
 
 
 
-<span class="atom-split" id="q137" data-atom="q137" data-title="Argent 2010 Locale — Quesito 137" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/5,multidisciplina/multi,object/resistor,object/battery,object/rod"></span>
+<span class="atom-split" id="q137" data-atom="q137" data-title="Argentina 2010 Locale — Quesito 137" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/5,multidisciplina/multi,object/resistor,object/battery,object/rod"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -18694,7 +18694,7 @@ blocks.
 
 
 
-<span class="atom-split" id="q138" data-atom="q138" data-title="Argent 2010 Locale — Quesito 138" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/5,multidisciplina/mono,object/projectile"></span>
+<span class="atom-split" id="q138" data-atom="q138" data-title="Argentina 2010 Locale — Quesito 138" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/5,multidisciplina/mono,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -18911,7 +18911,7 @@ the value of r.
 
 
 
-<span class="atom-split" id="q139" data-atom="q139" data-title="Argent 2010 Locale — Quesito 139" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/5,multidisciplina/multi"></span>
+<span class="atom-split" id="q139" data-atom="q139" data-title="Argentina 2010 Locale — Quesito 139" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/5,multidisciplina/multi"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -19273,7 +19273,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q140" data-atom="q140" data-title="Argent 2010 Locale — Quesito 140" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/3,multidisciplina/mono,object/cart"></span>
+<span class="atom-split" id="q140" data-atom="q140" data-title="Argentina 2010 Locale — Quesito 140" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/3,multidisciplina/mono,object/cart"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -19370,7 +19370,7 @@ c) Is this an elastic shock? Justify your answer.
 
 
 
-<span class="atom-split" id="q141" data-atom="q141" data-title="Argent 2010 Locale — Quesito 141" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/mono,object/block,object/spring"></span>
+<span class="atom-split" id="q141" data-atom="q141" data-title="Argentina 2010 Locale — Quesito 141" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/mono,object/block,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -19495,7 +19495,7 @@ Justify your answer.
 
 
 
-<span class="atom-split" id="q142" data-atom="q142" data-title="Argent 2010 Locale — Quesito 142" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/4,multidisciplina/mono,object/prism"></span>
+<span class="atom-split" id="q142" data-atom="q142" data-title="Argentina 2010 Locale — Quesito 142" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/4,multidisciplina/mono,object/prism"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -19577,7 +19577,7 @@ wave of red light on the tape.
 
 
 
-<span class="atom-split" id="q143" data-atom="q143" data-title="Argent 2010 Locale — Quesito 143" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono,object/projectile"></span>
+<span class="atom-split" id="q143" data-atom="q143" data-title="Argentina 2010 Locale — Quesito 143" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -19638,7 +19638,7 @@ the particle height, between 0 and the maximum height it reaches.
 
 
 
-<span class="atom-split" id="q144" data-atom="q144" data-title="Argent 2010 Locale — Quesito 144" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q144" data-atom="q144" data-title="Argentina 2010 Locale — Quesito 144" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -19703,7 +19703,7 @@ e) The gravitational force on the object is 9.8 N.
 
 
 
-<span class="atom-split" id="q145" data-atom="q145" data-title="Argent 2010 Locale — Quesito 145" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/block,object/tank-container"></span>
+<span class="atom-split" id="q145" data-atom="q145" data-title="Argentina 2010 Locale — Quesito 145" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/block,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -19782,7 +19782,7 @@ surface?
 
 
 
-<span class="atom-split" id="q146" data-atom="q146" data-title="Argent 2010 Locale — Quesito 146" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/4,multidisciplina/multi,object/ball"></span>
+<span class="atom-split" id="q146" data-atom="q146" data-title="Argentina 2010 Locale — Quesito 146" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/4,multidisciplina/multi,object/ball"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -19996,7 +19996,7 @@ g=9.8m/s2;  c=3.108m/s;
 
 
 
-<span class="atom-split" id="q147" data-atom="q147" data-title="Argent 2010 Locale — Quesito 147" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/magnetism,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/particle-beam,object/electron"></span>
+<span class="atom-split" id="q147" data-atom="q147" data-title="Argentina 2010 Locale — Quesito 147" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/magnetism,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/particle-beam,object/electron"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -20186,7 +20186,7 @@ c=3.108m/s;
 
 
 
-<span class="atom-split" id="q148" data-atom="q148" data-title="Argent 2010 Locale — Quesito 148" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/5,multidisciplina/multi,object/pipe-tube,object/piston"></span>
+<span class="atom-split" id="q148" data-atom="q148" data-title="Argentina 2010 Locale — Quesito 148" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/5,multidisciplina/multi,object/pipe-tube,object/piston"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -20442,7 +20442,7 @@ OAF 2010 - 94
 
 
 
-<span class="atom-split" id="q149" data-atom="q149" data-title="Argent 2010 Locale — Quesito 149" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q149" data-atom="q149" data-title="Argentina 2010 Locale — Quesito 149" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -20491,7 +20491,7 @@ water refraction.
 
 
 
-<span class="atom-split" id="q150" data-atom="q150" data-title="Argent 2010 Locale — Quesito 150" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container"></span>
+<span class="atom-split" id="q150" data-atom="q150" data-title="Argentina 2010 Locale — Quesito 150" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -20699,7 +20699,7 @@ I'm not sure.
 
 
 
-<span class="atom-split" id="q151" data-atom="q151" data-title="Argent 2010 Locale — Quesito 151" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/prism"></span>
+<span class="atom-split" id="q151" data-atom="q151" data-title="Argentina 2010 Locale — Quesito 151" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/prism"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -20808,7 +20808,7 @@ Expresses the result of the resulting refractive index
 
 
 
-<span class="atom-split" id="q152" data-atom="q152" data-title="Argent 2010 Locale — Quesito 152" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi,object/resistor"></span>
+<span class="atom-split" id="q152" data-atom="q152" data-title="Argentina 2010 Locale — Quesito 152" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -21524,7 +21524,7 @@ Provided by the school.
 
 
 
-<span class="atom-split" id="q153" data-atom="q153" data-title="Argent 2010 Locale — Quesito 153" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/cylinder"></span>
+<span class="atom-split" id="q153" data-atom="q153" data-title="Argentina 2010 Locale — Quesito 153" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -21839,7 +21839,7 @@ Comments you wish to make regarding difficulties related to carrying out the exp
 
 
 
-<span class="atom-split" id="q154" data-atom="q154" data-title="Argent 2010 Locale — Quesito 154" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/inclined-plane,object/cart"></span>
+<span class="atom-split" id="q154" data-atom="q154" data-title="Argentina 2010 Locale — Quesito 154" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/inclined-plane,object/cart"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -22293,7 +22293,7 @@ Comments you wish to make regarding difficulties related to carrying out the exp
 
 
 
-<span class="atom-split" id="q155" data-atom="q155" data-title="Argent 2010 Locale — Quesito 155" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor"></span>
+<span class="atom-split" id="q155" data-atom="q155" data-title="Argentina 2010 Locale — Quesito 155" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -22624,7 +22624,7 @@ Requirements:
 
 
 
-<span class="atom-split" id="q156" data-atom="q156" data-title="Argent 2010 Locale — Quesito 156" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/sphere"></span>
+<span class="atom-split" id="q156" data-atom="q156" data-title="Argentina 2010 Locale — Quesito 156" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/sphere"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -22757,7 +22757,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q157" data-atom="q157" data-title="Argent 2010 Locale — Quesito 157" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block,object/inclined-plane"></span>
+<span class="atom-split" id="q157" data-atom="q157" data-title="Argentina 2010 Locale — Quesito 157" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -22913,7 +22913,7 @@ Measuring tape
 
 
 
-<span class="atom-split" id="q158" data-atom="q158" data-title="Argent 2010 Locale — Quesito 158" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/2,multidisciplina/mono,object/pendulum"></span>
+<span class="atom-split" id="q158" data-atom="q158" data-title="Argentina 2010 Locale — Quesito 158" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/2,multidisciplina/mono,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -23136,7 +23136,7 @@ I'm sorry, but I'm not sure I'm right.
 
 
 
-<span class="atom-split" id="q159" data-atom="q159" data-title="Argent 2010 Locale — Quesito 159" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/multi,object/spring"></span>
+<span class="atom-split" id="q159" data-atom="q159" data-title="Argentina 2010 Locale — Quesito 159" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/multi,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -23571,7 +23571,7 @@ OAF 2010 - 105
 
 
 
-<span class="atom-split" id="q160" data-atom="q160" data-title="Argent 2010 Locale — Quesito 160" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container"></span>
+<span class="atom-split" id="q160" data-atom="q160" data-title="Argentina 2010 Locale — Quesito 160" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -23770,7 +23770,7 @@ and estimate the experimental error of that value.
 
 
 
-<span class="atom-split" id="q161" data-atom="q161" data-title="Argent 2010 Locale — Quesito 161" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>
+<span class="atom-split" id="q161" data-atom="q161" data-title="Argentina 2010 Locale — Quesito 161" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -24022,7 +24022,7 @@ OAF 2010 - 107
 
 
 
-<span class="atom-split" id="q162" data-atom="q162" data-title="Argent 2010 Locale — Quesito 162" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/elasticity-and-materials,argomento/meccanica,difficolta/4,multidisciplina/mono,object/rope-string,object/beam"></span>
+<span class="atom-split" id="q162" data-atom="q162" data-title="Argentina 2010 Locale — Quesito 162" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/elasticity-and-materials,argomento/meccanica,difficolta/4,multidisciplina/mono,object/rope-string,object/beam"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -24368,7 +24368,7 @@ the respective report (brief but clear) should indicate the difficulties encount
 
 
 
-<span class="atom-split" id="q163" data-atom="q163" data-title="Argent 2010 Locale — Quesito 163" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
+<span class="atom-split" id="q163" data-atom="q163" data-title="Argentina 2010 Locale — Quesito 163" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -24579,7 +24579,7 @@ Determine the salt solution density and its corresponding error.
 
 
 
-<span class="atom-split" id="q164" data-atom="q164" data-title="Argent 2010 Locale — Quesito 164" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/wave-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/diffraction-grating,object/screen"></span>
+<span class="atom-split" id="q164" data-atom="q164" data-title="Argentina 2010 Locale — Quesito 164" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/wave-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/diffraction-grating,object/screen"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -24904,7 +24904,7 @@ calculate the network constant and its absolute error.
 
 
 
-<span class="atom-split" id="q165" data-atom="q165" data-title="Argent 2010 Locale — Quesito 165" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
+<span class="atom-split" id="q165" data-atom="q165" data-title="Argentina 2010 Locale — Quesito 165" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -25061,7 +25061,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q166" data-atom="q166" data-title="Argent 2010 Locale — Quesito 166" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q166" data-atom="q166" data-title="Argentina 2010 Locale — Quesito 166" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -25557,7 +25557,7 @@ Found for the angles.
 
 
 
-<span class="atom-split" id="q167" data-atom="q167" data-title="Argent 2010 Locale — Quesito 167" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/battery"></span>
+<span class="atom-split" id="q167" data-atom="q167" data-title="Argentina 2010 Locale — Quesito 167" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -25807,7 +25807,7 @@ The graphics.
 
 
 
-<span class="atom-split" id="q168" data-atom="q168" data-title="Argent 2010 Locale — Quesito 168" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/spring,object/cylinder"></span>
+<span class="atom-split" id="q168" data-atom="q168" data-title="Argentina 2010 Locale — Quesito 168" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/spring,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -25955,7 +25955,7 @@ You can do to minimize those sources of error.
 
 
 
-<span class="atom-split" id="q169" data-atom="q169" data-title="Argent 2010 Locale — Quesito 169" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/mono,object/ball"></span>
+<span class="atom-split" id="q169" data-atom="q169" data-title="Argentina 2010 Locale — Quesito 169" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/mono,object/ball"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -26058,7 +26058,7 @@ the sources of errors and perform an analysis of the method used and possible im
 
 
 
-<span class="atom-split" id="q170" data-atom="q170" data-title="Argent 2010 Locale — Quesito 170" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
+<span class="atom-split" id="q170" data-atom="q170" data-title="Argentina 2010 Locale — Quesito 170" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -26318,7 +26318,7 @@ Write a final conclusion justifying the values obtained.
 
 
 
-<span class="atom-split" id="q171" data-atom="q171" data-title="Argent 2010 Locale — Quesito 171" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/sphere,object/projectile"></span>
+<span class="atom-split" id="q171" data-atom="q171" data-title="Argentina 2010 Locale — Quesito 171" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/sphere,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -26448,7 +26448,7 @@ The procedures and the considerations taken into account for the development of 
 
 
 
-<span class="atom-split" id="q172" data-atom="q172" data-title="Argent 2010 Locale — Quesito 172" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi,object/bubble,object/manometer"></span>
+<span class="atom-split" id="q172" data-atom="q172" data-title="Argentina 2010 Locale — Quesito 172" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi,object/bubble,object/manometer"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -26734,7 +26734,7 @@ conclusions on the sheets to be delivered.
 
 
 
-<span class="atom-split" id="q173" data-atom="q173" data-title="Argent 2010 Locale — Quesito 173" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q173" data-atom="q173" data-title="Argentina 2010 Locale — Quesito 173" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -26840,7 +26840,7 @@ You used it? Justify your answer.
 
 
 
-<span class="atom-split" id="q174" data-atom="q174" data-title="Argent 2010 Locale — Quesito 174" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/wire"></span>
+<span class="atom-split" id="q174" data-atom="q174" data-title="Argentina 2010 Locale — Quesito 174" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/wire"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -27078,7 +27078,7 @@ I'm not sure.
 
 
 
-<span class="atom-split" id="q175" data-atom="q175" data-title="Argent 2010 Locale — Quesito 175" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono,object/cart"></span>
+<span class="atom-split" id="q175" data-atom="q175" data-title="Argentina 2010 Locale — Quesito 175" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono,object/cart"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -27184,7 +27184,7 @@ Results and conclusions:
 
 
 
-<span class="atom-split" id="q176" data-atom="q176" data-title="Argent 2010 Locale — Quesito 176" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/lens"></span>
+<span class="atom-split" id="q176" data-atom="q176" data-title="Argentina 2010 Locale — Quesito 176" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/lens"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -27275,7 +27275,7 @@ Results and conclusions:
 
 
 
-<span class="atom-split" id="q177" data-atom="q177" data-title="Argent 2010 Locale — Quesito 177" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/lens"></span>
+<span class="atom-split" id="q177" data-atom="q177" data-title="Argentina 2010 Locale — Quesito 177" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/lens"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -27369,7 +27369,7 @@ Scheme
 
 
 
-<span class="atom-split" id="q178" data-atom="q178" data-title="Argent 2010 Locale — Quesito 178" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q178" data-atom="q178" data-title="Argentina 2010 Locale — Quesito 178" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -27481,7 +27481,7 @@ Results and conclusions:
 
 
 
-<span class="atom-split" id="q179" data-atom="q179" data-title="Argent 2010 Locale — Quesito 179" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/cylinder"></span>
+<span class="atom-split" id="q179" data-atom="q179" data-title="Argentina 2010 Locale — Quesito 179" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -27564,7 +27564,7 @@ Observations and conclusions
 
 
 
-<span class="atom-split" id="q180" data-atom="q180" data-title="Argent 2010 Locale — Quesito 180" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container"></span>
+<span class="atom-split" id="q180" data-atom="q180" data-title="Argentina 2010 Locale — Quesito 180" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -27799,7 +27799,7 @@ and so look for the expected value you see = (v1 + v2) /2
 
 
 
-<span class="atom-split" id="q181" data-atom="q181" data-title="Argent 2010 Locale — Quesito 181" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/spring"></span>
+<span class="atom-split" id="q181" data-atom="q181" data-title="Argentina 2010 Locale — Quesito 181" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -28073,7 +28073,7 @@ in the thrust.
 
 
 
-<span class="atom-split" id="q182" data-atom="q182" data-title="Argent 2010 Locale — Quesito 182" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/multi,object/gas,object/bubble"></span>
+<span class="atom-split" id="q182" data-atom="q182" data-title="Argentina 2010 Locale — Quesito 182" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/multi,object/gas,object/bubble"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -28452,7 +28452,7 @@ OAF 2010 - 125
 
 
 
-<span class="atom-split" id="q183" data-atom="q183" data-title="Argent 2010 Locale — Quesito 183" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/multi,object/spring"></span>
+<span class="atom-split" id="q183" data-atom="q183" data-title="Argentina 2010 Locale — Quesito 183" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/multi,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -28632,7 +28632,7 @@ OAF 2010 - 126
 
 
 
-<span class="atom-split" id="q184" data-atom="q184" data-title="Argent 2010 Locale — Quesito 184" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q184" data-atom="q184" data-title="Argentina 2010 Locale — Quesito 184" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -28723,7 +28723,7 @@ Development of experience:
 
 
 
-<span class="atom-split" id="q185" data-atom="q185" data-title="Argent 2010 Locale — Quesito 185" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/inclined-plane,object/ball"></span>
+<span class="atom-split" id="q185" data-atom="q185" data-title="Argentina 2010 Locale — Quesito 185" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/inclined-plane,object/ball"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -28838,7 +28838,7 @@ Other instruments
 
 
 
-<span class="atom-split" id="q186" data-atom="q186" data-title="Argent 2010 Locale — Quesito 186" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas"></span>
+<span class="atom-split" id="q186" data-atom="q186" data-title="Argentina 2010 Locale — Quesito 186" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -29146,7 +29146,7 @@ Important: The uncertainties, in all cases, must have a criterion that justifies
 
 
 
-<span class="atom-split" id="q187" data-atom="q187" data-title="Argent 2010 Locale — Quesito 187" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/prism"></span>
+<span class="atom-split" id="q187" data-atom="q187" data-title="Argentina 2010 Locale — Quesito 187" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/prism"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -29260,7 +29260,7 @@ VI. Everything that you consider relevant for your report.
 
 
 
-<span class="atom-split" id="q188" data-atom="q188" data-title="Argent 2010 Locale — Quesito 188" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/2,multidisciplina/mono,object/pendulum"></span>
+<span class="atom-split" id="q188" data-atom="q188" data-title="Argentina 2010 Locale — Quesito 188" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/2,multidisciplina/mono,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -29402,7 +29402,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q189" data-atom="q189" data-title="Argent 2010 Locale — Quesito 189" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/capacitor,object/resistor,object/battery"></span>
+<span class="atom-split" id="q189" data-atom="q189" data-title="Argentina 2010 Locale — Quesito 189" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/capacitor,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -29779,7 +29779,7 @@ And any other information you consider relevant.
 
 
 
-<span class="atom-split" id="q190" data-atom="q190" data-title="Argent 2010 Locale — Quesito 190" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>
+<span class="atom-split" id="q190" data-atom="q190" data-title="Argentina 2010 Locale — Quesito 190" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -29903,7 +29903,7 @@ iron
 
 
 
-<span class="atom-split" id="q191" data-atom="q191" data-title="Argent 2010 Locale — Quesito 191" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/4,multidisciplina/multi,object/lever,object/tank-container"></span>
+<span class="atom-split" id="q191" data-atom="q191" data-title="Argentina 2010 Locale — Quesito 191" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/4,multidisciplina/multi,object/lever,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -30084,7 +30084,7 @@ The graph is given by:
 
 
 
-<span class="atom-split" id="q192" data-atom="q192" data-title="Argent 2010 Locale — Quesito 192" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/pendulum,object/manometer"></span>
+<span class="atom-split" id="q192" data-atom="q192" data-title="Argentina 2010 Locale — Quesito 192" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/pendulum,object/manometer"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -30160,7 +30160,7 @@ The following is the list of the products used: (provided by the chair).
 
 
 
-<span class="atom-split" id="q193" data-atom="q193" data-title="Argent 2010 Locale — Quesito 193" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/2,multidisciplina/mono,object/pendulum"></span>
+<span class="atom-split" id="q193" data-atom="q193" data-title="Argentina 2010 Locale — Quesito 193" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/2,multidisciplina/mono,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -30394,7 +30394,7 @@ We can express g as a function of T and l:
 
 
 
-<span class="atom-split" id="q194" data-atom="q194" data-title="Argent 2010 Locale — Quesito 194" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/multi,object/spring"></span>
+<span class="atom-split" id="q194" data-atom="q194" data-title="Argentina 2010 Locale — Quesito 194" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/multi,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -30638,7 +30638,7 @@ Graph T2 according to m
 
 
 
-<span class="atom-split" id="q195" data-atom="q195" data-title="Argent 2010 Locale — Quesito 195" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
+<span class="atom-split" id="q195" data-atom="q195" data-title="Argentina 2010 Locale — Quesito 195" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -30756,7 +30756,7 @@ Finally answer, how close are physics and chemistry?
 
 
 
-<span class="atom-split" id="q196" data-atom="q196" data-title="Argent 2010 Locale — Quesito 196" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/lens,object/screen"></span>
+<span class="atom-split" id="q196" data-atom="q196" data-title="Argentina 2010 Locale — Quesito 196" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/lens,object/screen"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -31454,7 +31454,7 @@ Prepare a report on the development of the practical work identifying the main s
 
 
 
-<span class="atom-split" id="q197" data-atom="q197" data-title="Argent 2010 Locale — Quesito 197" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/elasticity-and-materials,argomento/meccanica,difficolta/2,multidisciplina/mono,object/spring"></span>
+<span class="atom-split" id="q197" data-atom="q197" data-title="Argentina 2010 Locale — Quesito 197" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/elasticity-and-materials,argomento/meccanica,difficolta/2,multidisciplina/mono,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -31602,7 +31602,7 @@ Minor mistake next time? You justify it.
 
 
 
-<span class="atom-split" id="q198" data-atom="q198" data-title="Argent 2010 Locale — Quesito 198" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/rod"></span>
+<span class="atom-split" id="q198" data-atom="q198" data-title="Argentina 2010 Locale — Quesito 198" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/rod"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -31825,7 +31825,7 @@ The following points shall be added:
 
 
 
-<span class="atom-split" id="q199" data-atom="q199" data-title="Argent 2010 Locale — Quesito 199" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/mono,object/pipe-tube,object/tank-container"></span>
+<span class="atom-split" id="q199" data-atom="q199" data-title="Argentina 2010 Locale — Quesito 199" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/mono,object/pipe-tube,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -32023,7 +32023,7 @@ OAF 2010 - 142
 
 
 
-<span class="atom-split" id="q200" data-atom="q200" data-title="Argent 2010 Locale — Quesito 200" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono,object/ball"></span>
+<span class="atom-split" id="q200" data-atom="q200" data-title="Argentina 2010 Locale — Quesito 200" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono,object/ball"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -32258,7 +32258,7 @@ Could g increase or decrease with an increase in altitude? Why?
 
 
 
-<span class="atom-split" id="q201" data-atom="q201" data-title="Argent 2010 Locale — Quesito 201" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block"></span>
+<span class="atom-split" id="q201" data-atom="q201" data-title="Argentina 2010 Locale — Quesito 201" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -32373,7 +32373,7 @@ They could have committed in the experience.
 
 
 
-<span class="atom-split" id="q202" data-atom="q202" data-title="Argent 2010 Locale — Quesito 202" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/wave-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/screen,object/slit"></span>
+<span class="atom-split" id="q202" data-atom="q202" data-title="Argentina 2010 Locale — Quesito 202" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/wave-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/screen,object/slit"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

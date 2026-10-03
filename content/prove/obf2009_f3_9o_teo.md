@@ -1,5 +1,5 @@
 ---
-title: OBF 2009 ''
+title: OBF 2009
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2009 '' — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,object/projectile"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2009 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,object/projectile"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -46,7 +46,7 @@ You're watching a bow and arrow tournament and you start to wonder what speed a 
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2009 '' — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2009 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -83,7 +83,7 @@ A vehicle starts at rest at $s = 0$ and accelerates evenly along a straight road
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2009 '' — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,object/block"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2009 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -150,7 +150,7 @@ The force $F$ is applied to the block as soon as its position is $x = 0{,}0\ \te
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2009 '' — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,object/planet"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2009 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,object/planet"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -187,7 +187,7 @@ Saturn has a mass 95 times that of Earth and an equatorial radius of $60\,000\ \
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2009 '' — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2009 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -242,7 +242,7 @@ Consider the following argument between two individuals who are comparing two bo
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2009 '' — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,object/ball"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2009 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,object/ball"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -303,7 +303,7 @@ Figure 2 shows the history of the position versus reading of the clock of two A 
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2009 '' — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2009 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -352,7 +352,7 @@ Suppose you are located in the northern hemisphere, looking south, and you are s
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2009 '' — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2009 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

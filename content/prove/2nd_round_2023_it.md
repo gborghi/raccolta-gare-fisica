@@ -1,5 +1,5 @@
 ---
-title: Svizze 2023
+title: Svizzera 2023
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2023 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/slit"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Svizzera 2023 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/slit"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -53,7 +53,7 @@ tags:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2023 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/slit"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Svizzera 2023 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/slit"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -81,7 +81,7 @@ fenditure.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2023 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror,object/star,object/photon,object/cylinder,object/ball"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Svizzera 2023 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror,object/star,object/photon,object/cylinder,object/ball"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

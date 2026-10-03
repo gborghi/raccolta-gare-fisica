@@ -563,7 +563,7 @@ The following table shows the number of lamps and the number of lamps and lamps.
 
 <!--fig:end-->
 
-**Solution:**
+**Solution:** [[2liv14S-Def|Soluzioni]]
 
 
 

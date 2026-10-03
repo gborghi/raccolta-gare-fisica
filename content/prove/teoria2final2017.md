@@ -1,5 +1,5 @@
 ---
-title: Brasil 2017
+title: Brasile 2017
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2017 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/wheel,object/cylinder"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2017 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/wheel,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -59,7 +59,7 @@ of a cylinder of radius R. Determine the period of swing of the ring by consider
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2017 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2017 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -117,7 +117,7 @@ $L = 70\ \text{m}$; $R = 10\ \text{m}$; $v_0 = 72\ \text{Km/h}$; densidade do ar
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2017 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/solenoid"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2017 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/solenoid"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -184,7 +184,7 @@ where the solenoid reaches twice the initial value? (A) the number of points
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2017 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/lens"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2017 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/lens"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

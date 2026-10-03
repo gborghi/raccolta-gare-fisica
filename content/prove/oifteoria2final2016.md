@@ -1,5 +1,5 @@
 ---
-title: Brasil 2016
+title: Brasile 2016
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2016 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/cylinder"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2016 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -65,7 +65,7 @@ Dados: sen30 = 1⁄2 ; sen60 = $\sqrt{}3$ /2 ; cos30 = $\sqrt{}3$ /2 ; cos60 = 1
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2016 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/capacitor,object/resistor"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2016 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/capacitor,object/resistor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -117,7 +117,7 @@ where C is the capacitance of the capacitor in the middle.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2016 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/cylinder,object/electron"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2016 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/cylinder,object/electron"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -172,7 +172,7 @@ field H?
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2016 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/star"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2016 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/star"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

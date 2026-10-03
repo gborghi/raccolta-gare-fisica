@@ -1,5 +1,5 @@
 ---
-title: Spagna 2018 ''
+title: Spagna 2018
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna 2018 '' — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/pipe-tube"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna 2018 — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -124,7 +124,7 @@ After releasing the system, the mercury oscillates inside the tube, alternately 
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna 2018 '' — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/ball,object/rope-string"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna 2018 — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/ball,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -251,7 +251,7 @@ Assuming that the ball is at a certain instant at the point $P$ of the spiral pa
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna 2018 '' — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/droplet,object/capacitor"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna 2018 — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/droplet,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

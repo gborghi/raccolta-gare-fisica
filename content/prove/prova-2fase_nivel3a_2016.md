@@ -1,5 +1,5 @@
 ---
-title: Brasil 2016 — Prova 2fase_Nivel3a_2016.pdf
+title: Brasile 2016 — Prova 2fase_Nivel3a_2016.pdf
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2016 — Prova 2fase_Nivel3a_2016.pdf — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/cylinder,object/block"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2016 — Prova 2fase_Nivel3a_2016.pdf — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/cylinder,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -134,7 +134,7 @@ Densidade da água líquida $= 1{,}00\ \text{g/cm}^3$
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2016 — Prova 2fase_Nivel3a_2016.pdf — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/pipe-tube"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2016 — Prova 2fase_Nivel3a_2016.pdf — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -189,7 +189,7 @@ the yield of each turbine of this hydroelectric power plant.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2016 — Prova 2fase_Nivel3a_2016.pdf — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/satellite"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2016 — Prova 2fase_Nivel3a_2016.pdf — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/satellite"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -277,7 +277,7 @@ if the distance between the satellites and the antennas is 39 000 km.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2016 — Prova 2fase_Nivel3a_2016.pdf — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/battery"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2016 — Prova 2fase_Nivel3a_2016.pdf — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/battery"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -338,7 +338,7 @@ Part II  Questions for an open answer
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Brasil 2016 — Prova 2fase_Nivel3a_2016.pdf — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/sphere,object/inclined-plane"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Brasile 2016 — Prova 2fase_Nivel3a_2016.pdf — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/sphere,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -408,7 +408,7 @@ m/s, the speed module of the sphere at the moment it loses contact with the
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Brasil 2016 — Prova 2fase_Nivel3a_2016.pdf — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/photon"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Brasile 2016 — Prova 2fase_Nivel3a_2016.pdf — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/photon"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -475,7 +475,7 @@ Consider: $h = 6{,}6\times10^{-34}$ Js, $c = 3\times10^8$ m/s and $\pi \approx 3
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Brasil 2016 — Prova 2fase_Nivel3a_2016.pdf — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Brasile 2016 — Prova 2fase_Nivel3a_2016.pdf — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -516,7 +516,7 @@ Using $n_\text{frio} = 1{,}010$ for the refractive index of cold air, calculate 
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Brasil 2016 — Prova 2fase_Nivel3a_2016.pdf — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/photon,object/electron"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Brasile 2016 — Prova 2fase_Nivel3a_2016.pdf — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/photon,object/electron"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

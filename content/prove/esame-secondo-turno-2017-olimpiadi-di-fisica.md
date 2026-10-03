@@ -1,5 +1,5 @@
 ---
-title: Svizze 2017
+title: Svizzera 2017
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2017 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Svizzera 2017 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -50,7 +50,7 @@ Our current universe is
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2017 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Svizzera 2017 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -85,7 +85,7 @@ A bird is sitting on a boat on a lake. At a certain instant, the bird takes flig
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2017 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Svizzera 2017 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -120,7 +120,7 @@ Assuming that a sheet of paper could be folded more than 7 or 8 times, how many 
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2017 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Svizzera 2017 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -155,7 +155,7 @@ A small village located behind a hill wants to listen to the radio. In the regio
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2017 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pulley,object/rope-string"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Svizzera 2017 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pulley,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -200,7 +200,7 @@ A bunch of bananas of mass $m$ is hung 20 m from a pulley (see figure below). On
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2017 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Svizzera 2017 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -247,7 +247,7 @@ Which rotation axes of the rectangular prism shown in the figure below are stabl
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2017 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Svizzera 2017 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -282,7 +282,7 @@ A person looks into a mirror and observes that the top of their head exactly coi
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2017 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Svizzera 2017 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -319,7 +319,7 @@ You are driving around for a race. You want to complete two laps of the track. Y
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2017 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/cylinder"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Svizzera 2017 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -354,7 +354,7 @@ You help your mother clear the attic. You are tasked with rolling a carpet aroun
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Svizze 2017 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Svizzera 2017 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -391,7 +391,7 @@ A company asks you to evaluate the maximum number of people who can fit in its e
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Svizze 2017 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rod,object/star"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Svizzera 2017 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rod,object/star"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -426,7 +426,7 @@ On March 21st we are at the equator. On this equinox day, the Sun rises at 6 a.m
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Svizze 2017 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Svizzera 2017 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -463,7 +463,7 @@ Two lamps rated at 75 W (at 220 V) are connected in series. The entire circuit i
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Svizze 2017 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Svizzera 2017 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -618,7 +618,7 @@ You are at $x = 0$ and hear a sound generated with frequency $f_0$. The graph be
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Svizze 2017 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Svizzera 2017 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -653,7 +653,7 @@ Estimating the surface area of your shoulders to be $50 \text{ cm} \times 10 \te
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Svizze 2017 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Svizzera 2017 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -702,7 +702,7 @@ Constants:
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Svizze 2017 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Svizzera 2017 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -737,7 +737,7 @@ The Solar Impulse SI2 aircraft is an electric vehicle equipped with 17,248 photo
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Svizze 2017 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Svizzera 2017 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -774,7 +774,7 @@ Which of these physical dimensions does not correspond to a unit of energy?
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Svizze 2017 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/satellite"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Svizzera 2017 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/satellite"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -811,7 +811,7 @@ A geostationary satellite has:
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Svizze 2017 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor,object/capacitor"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Svizzera 2017 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -856,7 +856,7 @@ The following circuit has been connected for a long time. What is the voltage $V
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Svizze 2017 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/electron"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Svizzera 2017 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/electron"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -893,7 +893,7 @@ Which of the following statements is correct?
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Svizze 2017 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/block"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Svizzera 2017 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/block"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1066,7 +1066,7 @@ For Christmas, you received an infinite number of wooden logs with rectangular c
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Svizze 2017 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Svizzera 2017 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1103,7 +1103,7 @@ What is the average distance between two molecules of a gas at temperature $T = 
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Svizze 2017 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Svizzera 2017 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1188,7 +1188,7 @@ iii. (3 pt) Recalculate the velocity $v_m$ at Earth's center. This time, use you
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Svizze 2017 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror,object/satellite,object/star"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Svizzera 2017 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror,object/satellite,object/star"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1285,7 +1285,7 @@ iv. (2 pt) Use your answers to parts A.iii and B.ii to calculate the required la
 
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="Svizze 2017 — Quesito 25" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas,object/cylinder,object/piston"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Svizzera 2017 — Quesito 25" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas,object/cylinder,object/piston"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: Svizze 2018 ''
+title: Svizzera 2018
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2018 '' — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/wire,object/slit"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Svizzera 2018 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/wire,object/slit"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -38,7 +38,7 @@ Determine as accurately as possible the diameter $d$ of the tungsten wire using 
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2018 '' — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/wire,object/resistor"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Svizzera 2018 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/wire,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -67,7 +67,7 @@ Determine as accurately as possible the resistance of the filament in lamp $R$ a
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2018 '' — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/wire,object/resistor"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Svizzera 2018 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/wire,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -96,7 +96,7 @@ Perform measurements aiming to draw the characteristic curve of the current-volt
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2018 '' — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/wire"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Svizzera 2018 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/wire"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

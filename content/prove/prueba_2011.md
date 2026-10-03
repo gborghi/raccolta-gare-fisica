@@ -1,5 +1,5 @@
 ---
-title: Argent 2011
+title: Argentina 2011
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2011 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/cylinder"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2011 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -312,7 +312,7 @@ $h = 5\ \text{m}$
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2011 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/point-charge,object/gas"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2011 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/point-charge,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -603,7 +603,7 @@ Express all your results in units corresponding to the International System.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2011 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/pendulum,object/sphere,object/ball"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2011 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/pendulum,object/sphere,object/ball"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

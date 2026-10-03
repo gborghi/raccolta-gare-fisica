@@ -1,5 +1,5 @@
 ---
-title: Colomb 2005
+title: Colombia 2005
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Colomb 2005 — Quesito 1" data-tags="kg/prova,paese/Colombia,comp/Colomb,cluster/Gravitazione e Astrofisica,object/inclined-plane,object/block,object/ball,object/bubble,object/droplet"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Colombia 2005 — Quesito 1" data-tags="kg/prova,paese/Colombia,comp/Colomb,cluster/Gravitazione e Astrofisica,object/inclined-plane,object/block,object/ball,object/bubble,object/droplet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

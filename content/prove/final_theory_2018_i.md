@@ -1,5 +1,5 @@
 ---
-title: Svizze 2018
+title: Svizzera 2018
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2018 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/nucleus,object/sphere"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Svizzera 2018 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/nucleus,object/sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -166,7 +166,7 @@ Adapted from the Italian Physics Olympiad
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2018 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror,object/diffraction-grating,object/slit,object/screen,object/planet"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Svizzera 2018 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror,object/diffraction-grating,object/slit,object/screen,object/planet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -344,7 +344,7 @@ Source: O. Gingerich, Sky & Telescope 28, 278, 1964.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2018 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/magnetic-dipole,object/magnet,object/cylinder,object/coil"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Svizzera 2018 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/magnetic-dipole,object/magnet,object/cylinder,object/coil"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -538,7 +538,7 @@ Fundamental Constants
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2018 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/wire,object/spring"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Svizzera 2018 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/wire,object/spring"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -582,7 +582,7 @@ iii. (0.5 pt) What could this device be used for?
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2018 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/lever,object/sphere,object/tank-container"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Svizzera 2018 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/lever,object/sphere,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -616,7 +616,7 @@ ii. (1.5 points) What density should the liquid in the container toward which th
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2018 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Svizzera 2018 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -650,7 +650,7 @@ ii. (2 points) Assuming they roll without slipping?
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2018 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Svizzera 2018 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -683,7 +683,7 @@ Express your answer in terms of the given quantities.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2018 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container,object/sphere"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Svizzera 2018 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container,object/sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -718,7 +718,7 @@ $$\int x^\alpha\, dx = \frac{x^{\alpha+1}}{\alpha + 1} + K, \quad \alpha \neq -1
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2018 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/star,object/planet"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Svizzera 2018 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/star,object/planet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

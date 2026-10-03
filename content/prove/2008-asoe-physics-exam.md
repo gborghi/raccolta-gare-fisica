@@ -1,5 +1,5 @@
 ---
-title: ASOE 2008 ''
+title: ASOE 2008
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="ASOE 2008 '' — Quesito 1" data-tags="kg/prova,paese/Australia,comp/ASOE"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="ASOE 2008 — Quesito 1" data-tags="kg/prova,paese/Australia,comp/ASOE"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -48,7 +48,7 @@ Una pietra caduta dal tetto di un edificio a un solo piano sulla superficie dell
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="ASOE 2008 '' — Quesito 2" data-tags="kg/prova,paese/Australia,comp/ASOE"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="ASOE 2008 — Quesito 2" data-tags="kg/prova,paese/Australia,comp/ASOE"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -91,7 +91,7 @@ Durante la collisione:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="ASOE 2008 '' — Quesito 3" data-tags="kg/prova,paese/Australia,comp/ASOE,object/block"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="ASOE 2008 — Quesito 3" data-tags="kg/prova,paese/Australia,comp/ASOE,object/block"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -130,7 +130,7 @@ David esercita una forza orizzontale costante su una grande scatola di file che 
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="ASOE 2008 '' — Quesito 4" data-tags="kg/prova,paese/Australia,comp/ASOE,object/block"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="ASOE 2008 — Quesito 4" data-tags="kg/prova,paese/Australia,comp/ASOE,object/block"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -169,7 +169,7 @@ Se David, nella domanda precedente, raddoppia la forza orizzontale costante che 
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="ASOE 2008 '' — Quesito 5" data-tags="kg/prova,paese/Australia,comp/ASOE,object/star"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="ASOE 2008 — Quesito 5" data-tags="kg/prova,paese/Australia,comp/ASOE,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -212,7 +212,7 @@ Qual è la migliore dichiarazione del difetto nell'argomento sopra indicato?
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="ASOE 2008 '' — Quesito 6" data-tags="kg/prova,paese/Australia,comp/ASOE"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="ASOE 2008 — Quesito 6" data-tags="kg/prova,paese/Australia,comp/ASOE"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -259,7 +259,7 @@ Rachel e Jordan hanno mai la stessa velocità?
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="ASOE 2008 '' — Quesito 7" data-tags="kg/prova,paese/Australia,comp/ASOE"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="ASOE 2008 — Quesito 7" data-tags="kg/prova,paese/Australia,comp/ASOE"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -306,7 +306,7 @@ L'accelerazione di Rachel è uguale all'accelerazione di Giordania. Entrambe le 
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="ASOE 2008 '' — Quesito 8" data-tags="kg/prova,paese/Australia,comp/ASOE"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="ASOE 2008 — Quesito 8" data-tags="kg/prova,paese/Australia,comp/ASOE"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -345,7 +345,7 @@ Lara tiene il suo bambino pesato in un centro per la prima infanzia ogni quattro
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="ASOE 2008 '' — Quesito 9" data-tags="kg/prova,paese/Australia,comp/ASOE"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="ASOE 2008 — Quesito 9" data-tags="kg/prova,paese/Australia,comp/ASOE"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -384,7 +384,7 @@ Lara tiene il suo bambino pesato in un centro per la prima infanzia ogni quattro
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="ASOE 2008 '' — Quesito 10" data-tags="kg/prova,paese/Australia,comp/ASOE,object/tank-container"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="ASOE 2008 — Quesito 10" data-tags="kg/prova,paese/Australia,comp/ASOE,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -415,7 +415,7 @@ Quale grafico mostra la concentrazione $[Z]$ in funzione del tempo? *(Quattro gr
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="ASOE 2008 '' — Quesito 11" data-tags="kg/prova,paese/Australia,comp/ASOE"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="ASOE 2008 — Quesito 11" data-tags="kg/prova,paese/Australia,comp/ASOE"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -458,7 +458,7 @@ d. Segna un diagramma della forza della rete che agisce sull'elefante in funzion
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="ASOE 2008 '' — Quesito 12" data-tags="kg/prova,paese/Australia,comp/ASOE,object/gas,object/tank-container,object/resistor,object/battery,object/bubble"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="ASOE 2008 — Quesito 12" data-tags="kg/prova,paese/Australia,comp/ASOE,object/gas,object/tank-container,object/resistor,object/battery,object/bubble"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -525,7 +525,7 @@ e. Trova il tasso di variazione del raggio del palloncino in funzione del suo ra
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="ASOE 2008 '' — Quesito 13" data-tags="kg/prova,paese/Australia,comp/ASOE,object/resistor,object/calorimeter"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="ASOE 2008 — Quesito 13" data-tags="kg/prova,paese/Australia,comp/ASOE,object/resistor,object/calorimeter"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -580,7 +580,7 @@ Informazioni utili: * $0\ ^\circ\text{C} = 273\ \text{K}$; densità di acqua: $1
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="ASOE 2008 '' — Quesito 14" data-tags="kg/prova,paese/Australia,comp/ASOE,object/capacitor,object/resistor"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="ASOE 2008 — Quesito 14" data-tags="kg/prova,paese/Australia,comp/ASOE,object/capacitor,object/resistor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -647,7 +647,7 @@ f. Data la situazione fisica, la corrente sarà davvero costante? Perché o perc
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="ASOE 2008 '' — Quesito 15" data-tags="kg/prova,paese/Australia,comp/ASOE,object/mirror"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="ASOE 2008 — Quesito 15" data-tags="kg/prova,paese/Australia,comp/ASOE,object/mirror"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -712,7 +712,7 @@ c. Tracciate un grafico appropriato sulla carta grafica fornita e trovate la vel
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="ASOE 2008 '' — Quesito 16" data-tags="kg/prova,paese/Australia,comp/ASOE,object/inclined-plane"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="ASOE 2008 — Quesito 16" data-tags="kg/prova,paese/Australia,comp/ASOE,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

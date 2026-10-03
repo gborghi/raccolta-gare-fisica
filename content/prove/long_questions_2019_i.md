@@ -1,5 +1,5 @@
 ---
-title: Svizze 2019
+title: Svizzera 2019
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2019 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/photon,object/nucleus,object/projectile"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Svizzera 2019 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/photon,object/nucleus,object/projectile"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -126,7 +126,7 @@ vi. (2.5 pts) What `e la distanza coperta dai $\pi^0$ tra la loro formazione e i
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2019 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/prism,object/droplet"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Svizzera 2019 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/prism,object/droplet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -293,7 +293,7 @@ Magnetic field on the Earth's surface: $\vec{B}$ =
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2019 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas,object/cylinder,object/piston,object/resistor"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Svizzera 2019 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas,object/cylinder,object/piston,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

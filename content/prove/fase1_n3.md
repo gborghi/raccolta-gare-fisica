@@ -1,5 +1,5 @@
 ---
-title: Brasil 2024
+title: Brasile 2024
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2024 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/rope-string"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2024 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -80,7 +80,7 @@ the sound wave produced. It is correct to state that:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2024 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2024 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -150,7 +150,7 @@ When the pencil is in static equilibrium it is:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2024 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2024 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -211,7 +211,7 @@ After you hit the sides. The speed of the wave in m/s is approximately:
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2024 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2024 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -281,7 +281,7 @@ The number of the figure best representing the beam transmitted by the set of po
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Brasil 2024 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/gas"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Brasile 2024 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/gas"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -342,7 +342,7 @@ When performing an almost static adiabatic expansion, it is correct to state tha
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Brasil 2024 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Brasile 2024 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -397,7 +397,7 @@ Is that right?
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Brasil 2024 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/resistor,object/switch"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Brasile 2024 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/resistor,object/switch"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -458,7 +458,7 @@ the key S, it is correct to state that:
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Brasil 2024 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Brasile 2024 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -519,7 +519,7 @@ The acceleration $a$ of the particle is:
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Brasil 2024 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/spring,object/coil"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Brasile 2024 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/spring,object/coil"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -577,7 +577,7 @@ The combined predominant of these interactions between the spindles produces:
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Brasil 2024 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Brasile 2024 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -635,7 +635,7 @@ Docking room?
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Brasil 2024 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/cylinder,object/point-charge"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Brasile 2024 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/cylinder,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -723,7 +723,7 @@ região periférica de carga negativa $-|q_i|$.
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Brasil 2024 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/ball"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Brasile 2024 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/ball"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -805,7 +805,7 @@ The ball that hits the head?
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Brasil 2024 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/tank-container"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Brasile 2024 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -881,7 +881,7 @@ the environment in which the photos were taken?
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Brasil 2024 — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/rope-string"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Brasile 2024 — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -966,7 +966,7 @@ Red in the first figure of each alternative shows the initial disturbance.)
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Brasil 2024 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/heat-engine,object/resistor"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Brasile 2024 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/heat-engine,object/resistor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1036,7 +1036,7 @@ Whereas the devices operate ideally, it is correct to state that:
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Brasil 2024 — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Brasile 2024 — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1106,7 +1106,7 @@ on the variation of distances $d_1$ and $d_2$:
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Brasil 2024 — Quesito 17" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Brasile 2024 — Quesito 17" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1170,7 +1170,7 @@ In relation to the moment of braking it is correct to state approximately that:
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Brasil 2024 — Quesito 18" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/projectile,object/block"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Brasile 2024 — Quesito 18" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/projectile,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1246,7 +1246,7 @@ assembly immediately after collision is:
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Brasil 2024 — Quesito 19" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Brasile 2024 — Quesito 19" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1322,7 +1322,7 @@ to state that
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Brasil 2024 — Quesito 20" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Brasile 2024 — Quesito 20" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

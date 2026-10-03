@@ -1,5 +1,5 @@
 ---
-title: Argent 2010
+title: Argentina 2010
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2010 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/cylinder,object/mirror,object/resistor,object/screen"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2010 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/cylinder,object/mirror,object/resistor,object/screen"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -143,7 +143,7 @@ Acceleration of gravity $g = 9{.}8\ \text{m/s}^2$
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2010 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/capacitor,object/point-charge,object/nucleus"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2010 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/capacitor,object/point-charge,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -420,7 +420,7 @@ this point)
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2010 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/disk"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2010 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/disk"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

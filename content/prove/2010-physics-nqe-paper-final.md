@@ -1,5 +1,5 @@
 ---
-title: Austra 2010
+title: Australia 2010
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Austra 2010 — Quesito 1" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Australia 2010 — Quesito 1" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,7 +56,7 @@ Un pollo pesante e un piccolo codardo leggero, entrambi volanti in mezzo all'ari
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Austra 2010 — Quesito 2" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Australia 2010 — Quesito 2" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -101,7 +101,7 @@ brevemente diventano un oggetto di uccello. Qual è la seguente affermazione ver
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Austra 2010 — Quesito 3" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica,object/ball"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Australia 2010 — Quesito 3" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -148,7 +148,7 @@ la misura della distanza è di 1 cm e l'incertezza nel timer è di 0,01 s. Qual 
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Austra 2010 — Quesito 4" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Australia 2010 — Quesito 4" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -187,7 +187,7 @@ L'incertezza di questo valore di g è
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Austra 2010 — Quesito 5" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Australia 2010 — Quesito 5" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -238,7 +238,7 @@ Quale delle seguenti cose aumenterà l'aspettativa di vita di un gallo nel chioc
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Austra 2010 — Quesito 6" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Australia 2010 — Quesito 6" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -301,7 +301,7 @@ E' stato spinto avanti semplicemente perché si trovava in mezzo alla piccola ma
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Austra 2010 — Quesito 7" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Australia 2010 — Quesito 7" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -364,7 +364,7 @@ E' stato spinto avanti semplicemente perché si trovava in mezzo alla piccola ma
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Austra 2010 — Quesito 8" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Australia 2010 — Quesito 8" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -497,7 +497,7 @@ superficie curva?
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Austra 2010 — Quesito 9" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica,object/resistor,object/battery"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Australia 2010 — Quesito 9" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -550,7 +550,7 @@ le seguenti affermazioni sono vere?
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Austra 2010 — Quesito 10" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Australia 2010 — Quesito 10" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -627,7 +627,7 @@ Quali dei pannelli rappresentano le possibili forme dell'onda viaggiante?
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Austra 2010 — Quesito 11" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Australia 2010 — Quesito 11" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -694,7 +694,7 @@ e) Qual è la condizione di Q per una collisione inelastica?
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Austra 2010 — Quesito 12" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Australia 2010 — Quesito 12" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -861,7 +861,7 @@ D) In breve suggeriscono cose che Charlotte e Ben avrebbero potuto fare con l'at
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Austra 2010 — Quesito 13" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica,object/planet,object/star"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Australia 2010 — Quesito 13" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica,object/planet,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -970,7 +970,7 @@ L'emisfero nord e meridionale.
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Austra 2010 — Quesito 14" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica,object/sphere"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Australia 2010 — Quesito 14" data-tags="kg/prova,paese/Australia,comp/Austra,cluster/Meccanica,object/sphere"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

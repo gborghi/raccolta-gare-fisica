@@ -1,5 +1,5 @@
 ---
-title: Argent 2019
+title: Argentina 2019
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2019 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/tank-container,object/gas,object/block"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2019 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/tank-container,object/gas,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -136,7 +136,7 @@ $R = 8{,}31\ \text{J mol}^{-1}\,\text{K}^{-1}$
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2019 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/atom"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2019 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/atom"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -293,7 +293,7 @@ The acceleration of gravity is despised.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2019 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/point-charge,object/electron"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2019 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/point-charge,object/electron"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

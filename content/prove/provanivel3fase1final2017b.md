@@ -1,5 +1,5 @@
 ---
-title: Brasil 2017
+title: Brasile 2017
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2017 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/block"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2017 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -83,7 +83,7 @@ The technical education. It contains twenty questions.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2017 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2017 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -120,7 +120,7 @@ The technical education. It contains twenty questions.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2017 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2017 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -157,7 +157,7 @@ The technical education. It contains twenty questions.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2017 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2017 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -197,7 +197,7 @@ the notebook and must be delivered at the end of the test.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Brasil 2017 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Brasile 2017 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -237,7 +237,7 @@ for at least 90 minutes.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Brasil 2017 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/calorimeter,object/resistor,object/battery"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Brasile 2017 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/calorimeter,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -454,7 +454,7 @@ the value of each resistance associated with the circuit.
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Brasil 2017 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/electron,object/capacitor"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Brasile 2017 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/electron,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -515,7 +515,7 @@ So the electron falls on the end of the blade. He's disregarding the action of t
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Brasil 2017 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/point-charge"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Brasile 2017 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -573,7 +573,7 @@ In the center of the square, so that the whole system of charges is in balance?
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Brasil 2017 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/ball,object/spring"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Brasile 2017 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/ball,object/spring"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -618,7 +618,7 @@ afirmar corretamente que:
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Brasil 2017 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/rope-string,object/pulley,object/block,object/inclined-plane"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Brasile 2017 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/rope-string,object/pulley,object/block,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -679,7 +679,7 @@ friction between block A and the slope.
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Brasil 2017 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/pendulum"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Brasile 2017 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -741,7 +741,7 @@ a) The period of the tested pendulums is inversely proportional to the square ro
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Brasil 2017 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/beam"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Brasile 2017 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/beam"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -817,7 +817,7 @@ e) 1237,5
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Brasil 2017 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/block"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Brasile 2017 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -890,7 +890,7 @@ e) 0,30
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Brasil 2017 — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/pipe-tube"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Brasile 2017 — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -954,7 +954,7 @@ pressure.
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Brasil 2017 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/ball,object/photon"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Brasile 2017 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/ball,object/photon"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1012,7 +1012,7 @@ If a beam of ultraviolet light is applied to the metal ball of the electroscope,
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Brasil 2017 — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/ball,object/rope-string"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Brasile 2017 — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/ball,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1071,7 +1071,7 @@ Applicato su di essa, oltre a disprezzare qualsiasi tipo di rotazione in essa.
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Brasil 2017 — Quesito 17" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/wire,object/electron"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Brasile 2017 — Quesito 17" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/wire,object/electron"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1135,7 +1135,7 @@ Undoubtedly, various conceptual interpretations of the magnetic field generated 
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Brasil 2017 — Quesito 18" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/wire"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Brasile 2017 — Quesito 18" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/wire"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1216,7 +1216,7 @@ e) I and III are correct.
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Brasil 2017 — Quesito 19" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/solenoid,object/wire,object/magnet,object/coil"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Brasile 2017 — Quesito 19" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/solenoid,object/wire,object/magnet,object/coil"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1280,7 +1280,7 @@ geographic area of the Earth.
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Brasil 2017 — Quesito 20" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/wheel"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Brasile 2017 — Quesito 20" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/wheel"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

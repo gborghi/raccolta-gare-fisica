@@ -1,5 +1,5 @@
 ---
-title: Argent 2012
+title: Argentina 2012
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2012 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/block,object/spring"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2012 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/block,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -458,7 +458,7 @@ q)
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2012 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/resistor,object/switch,object/battery,object/coil,object/magnet"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2012 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/resistor,object/switch,object/battery,object/coil,object/magnet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -993,7 +993,7 @@ Part 4.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2012 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/cylinder,object/capacitor,object/coil"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2012 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/cylinder,object/capacitor,object/coil"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

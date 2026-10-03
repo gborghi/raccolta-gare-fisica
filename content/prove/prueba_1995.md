@@ -1,5 +1,5 @@
 ---
-title: Argent 1995
+title: Argentina 1995
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 1995 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/inclined-plane,object/projectile"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 1995 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/inclined-plane,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -146,7 +146,7 @@ The specific heat is 1 cal/g. The mechanical equivalent of a calorie is equal to
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 1995 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/tank-container,object/resistor"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 1995 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/tank-container,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -246,7 +246,7 @@ DATES: The density of water can be assumed to be constant with temperature and e
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 1995 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 1995 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -391,7 +391,7 @@ This is an experimental test.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argent 1995 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/spring,object/tank-container"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina 1995 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/spring,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

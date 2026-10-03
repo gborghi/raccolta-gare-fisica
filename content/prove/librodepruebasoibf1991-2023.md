@@ -1,5 +1,5 @@
 ---
-title: iberoa 1991
+title: Iberoamericana 1991
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="iberoa 1991 — Quesito 1" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/tank-container"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Iberoamericana 1991 — Quesito 1" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -62,7 +62,7 @@ Design and describe an experimental method for measuring alcohol density. Measur
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="iberoa 1991 — Quesito 2" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/spring,object/block,object/inclined-plane"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Iberoamericana 1991 — Quesito 2" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/spring,object/block,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -111,7 +111,7 @@ Determine the number of oscillations based on the kinematic friction coefficient
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="iberoa 1991 — Quesito 3" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/wheel,object/gas,object/piston,object/spring"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Iberoamericana 1991 — Quesito 3" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/wheel,object/gas,object/piston,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -169,7 +169,7 @@ A hollow wheel of square cross section on the side $r$ and inner radius $R$ has 
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="iberoa 1991 — Quesito 4" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/lens,object/screen"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Iberoamericana 1991 — Quesito 4" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/lens,object/screen"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -227,7 +227,7 @@ A radius $R = 5$ cm and refractive index $n = 1{,}52$ semispheric lens receives 
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="iberoa 1991 — Quesito 5" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/lens"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Iberoamericana 1991 — Quesito 5" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/lens"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -282,7 +282,7 @@ Build a projector of opaque bodies with amplification greater than one.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="iberoa 1991 — Quesito 6" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/bubble"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Iberoamericana 1991 — Quesito 6" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/bubble"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -334,7 +334,7 @@ A radio soap bubble $R_0$ and internal pressure $P_0 = P_{atm} + \Delta P$ is in
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="iberoa 1991 — Quesito 7" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/point-charge"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Iberoamericana 1991 — Quesito 7" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -389,7 +389,7 @@ A charged particle $q$ and mass $m$ moves at a speed $v_0$ parallel to the $x$ a
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="iberoa 1991 — Quesito 8" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/mirror"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Iberoamericana 1991 — Quesito 8" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -444,7 +444,7 @@ An optical system consisting of two opposite concave mirrors of equal radius of 
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="iberoa 1991 — Quesito 9" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/tank-container"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Iberoamericana 1991 — Quesito 9" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -499,7 +499,7 @@ Using the materials provided (water container, regulator, conveyor, laser pointe
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="iberoa 1991 — Quesito 10" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pipe-tube,object/piston,object/gas"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Iberoamericana 1991 — Quesito 10" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pipe-tube,object/piston,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -551,7 +551,7 @@ A horizontal tube of length $L$ closed at both ends and sealed in the centre wit
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="iberoa 1991 — Quesito 11" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/rope-string"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Iberoamericana 1991 — Quesito 11" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -606,7 +606,7 @@ A homogeneous string of mass $M$ and length $L$ hangs vertically with its lower 
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="iberoa 1991 — Quesito 12" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/resistor,object/capacitor,object/battery"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Iberoamericana 1991 — Quesito 12" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/resistor,object/capacitor,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -661,7 +661,7 @@ A serial RC circuit is connected to a voltage source that varies synusoidally $V
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="iberoa 1991 — Quesito 13" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/spring,object/block"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Iberoamericana 1991 — Quesito 13" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/spring,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -716,7 +716,7 @@ Using the available materials (resort, mass, rule, support), determine the elast
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="iberoa 1991 — Quesito 14" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pendulum,object/inclined-plane"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Iberoamericana 1991 — Quesito 14" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pendulum,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -765,7 +765,7 @@ A simple pendulum of length $l$ and mass $m$ is suspended from a fixed point on 
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="iberoa 1991 — Quesito 15" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/capacitor"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Iberoamericana 1991 — Quesito 15" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -820,7 +820,7 @@ A spherical capacitor of internal radii $a$ and external radii $b$ has half the 
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="iberoa 1991 — Quesito 16" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/gas"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Iberoamericana 1991 — Quesito 16" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -875,7 +875,7 @@ A spherical balloon of mass $M$ (without indoor air) and radius $R$ is filled wi
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="iberoa 1991 — Quesito 17" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/sphere"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Iberoamericana 1991 — Quesito 17" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/sphere"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -930,7 +930,7 @@ Using a metal sphere falling into a viscous liquid, determine the dynamic viscos
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="iberoa 1991 — Quesito 18" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/projectile"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Iberoamericana 1991 — Quesito 18" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -985,7 +985,7 @@ A rocket of initial mass $M_0$ (including mass $m_w$ water) discharges water at 
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="iberoa 1991 — Quesito 19" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/resistor,object/battery"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Iberoamericana 1991 — Quesito 19" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1040,7 +1040,7 @@ A circuit contains an alternating current source $V(t) = V_0 \sin(\omega t)$, a 
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="iberoa 1991 — Quesito 20" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/photon"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Iberoamericana 1991 — Quesito 20" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/photon"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1095,7 +1095,7 @@ In an expanding universe with a scale factor $a(t)$, the wavelength of light str
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="iberoa 1991 — Quesito 21" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/electron"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Iberoamericana 1991 — Quesito 21" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/electron"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1150,7 +1150,7 @@ Using a cathode ray tube with crossed electric and magnetic fields, determine th
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="iberoa 1991 — Quesito 22" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/spring,object/block,object/pipe-tube"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Iberoamericana 1991 — Quesito 22" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/spring,object/block,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1205,7 +1205,7 @@ Two masses $m$ are joined by a constant spring $k$ and natural length $l_0$ with
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="iberoa 1991 — Quesito 23" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/point-charge"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Iberoamericana 1991 — Quesito 23" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1260,7 +1260,7 @@ A side conducting cube $a$ has a point charge $q$ at its geometric center. The c
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="iberoa 1991 — Quesito 24" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/photon,object/electron"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Iberoamericana 1991 — Quesito 24" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/photon,object/electron"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1315,7 +1315,7 @@ Sunlight hits a metal surface. The solar spectrum and the $\phi$ metal work func
 
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="iberoa 1991 — Quesito 25" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/rod"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Iberoamericana 1991 — Quesito 25" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/rod"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1370,7 +1370,7 @@ Using a metal bar heated by electrical resistance and a length comparator, deter
 
 
 
-<span class="atom-split" id="q26" data-atom="q26" data-title="iberoa 1991 — Quesito 26" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/projectile"></span>
+<span class="atom-split" id="q26" data-atom="q26" data-title="Iberoamericana 1991 — Quesito 26" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1425,7 +1425,7 @@ A mass projectile $m$ is launched at speed $v_0$ and angle $\theta$ in the prese
 
 
 
-<span class="atom-split" id="q27" data-atom="q27" data-title="iberoa 1991 — Quesito 27" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/coil"></span>
+<span class="atom-split" id="q27" data-atom="q27" data-title="Iberoamericana 1991 — Quesito 27" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/coil"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1480,7 +1480,7 @@ An ideal transformator with $n = N_1/N_2$ transformation ratio has a complex imp
 
 
 
-<span class="atom-split" id="q28" data-atom="q28" data-title="iberoa 1991 — Quesito 28" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/star"></span>
+<span class="atom-split" id="q28" data-atom="q28" data-title="Iberoamericana 1991 — Quesito 28" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/star"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1535,7 +1535,7 @@ A neutron star with mass $M = 1{,}4 M_{\odot}$ and radius $R = 10$ km broken wit
 
 
 
-<span class="atom-split" id="q29" data-atom="q29" data-title="iberoa 1991 — Quesito 29" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pendulum,object/rod"></span>
+<span class="atom-split" id="q29" data-atom="q29" data-title="Iberoamericana 1991 — Quesito 29" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pendulum,object/rod"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1590,7 +1590,7 @@ Using a perforated metal bar that can rotate in different holes, determine the a
 
 
 
-<span class="atom-split" id="q30" data-atom="q30" data-title="iberoa 1991 — Quesito 30" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/ball"></span>
+<span class="atom-split" id="q30" data-atom="q30" data-title="Iberoamericana 1991 — Quesito 30" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1645,7 +1645,7 @@ Two identical billiard balls of $m$ mass and radius $R$ collide. One is at rest;
 
 
 
-<span class="atom-split" id="q31" data-atom="q31" data-title="iberoa 1991 — Quesito 31" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/capacitor"></span>
+<span class="atom-split" id="q31" data-atom="q31" data-title="Iberoamericana 1991 — Quesito 31" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1700,7 +1700,7 @@ A parallel plate capacitor of area $A$ and separation $d$ contains a dielectric 
 
 
 
-<span class="atom-split" id="q32" data-atom="q32" data-title="iberoa 1991 — Quesito 32" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/photon"></span>
+<span class="atom-split" id="q32" data-atom="q32" data-title="Iberoamericana 1991 — Quesito 32" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/photon"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1755,7 +1755,7 @@ X-rays of $\lambda$ wavelength affect a crystal with a mesh size $d$.
 
 
 
-<span class="atom-split" id="q33" data-atom="q33" data-title="iberoa 1991 — Quesito 33" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/droplet,object/pipe-tube"></span>
+<span class="atom-split" id="q33" data-atom="q33" data-title="Iberoamericana 1991 — Quesito 33" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/droplet,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1810,7 +1810,7 @@ Using the sloping drop or capillary method, measure the surface tension coeffici
 
 
 
-<span class="atom-split" id="q34" data-atom="q34" data-title="iberoa 1991 — Quesito 34" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pendulum"></span>
+<span class="atom-split" id="q34" data-atom="q34" data-title="Iberoamericana 1991 — Quesito 34" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1865,7 +1865,7 @@ A simple pendulum of $L$ length with a mass moving at relativistic speeds ($v \s
 
 
 
-<span class="atom-split" id="q35" data-atom="q35" data-title="iberoa 1991 — Quesito 35" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/wire"></span>
+<span class="atom-split" id="q35" data-atom="q35" data-title="Iberoamericana 1991 — Quesito 35" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/wire"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1920,7 +1920,7 @@ A straight conductive wire of length $L$ and strength $R$ moves at speed $v$ per
 
 
 
-<span class="atom-split" id="q36" data-atom="q36" data-title="iberoa 1991 — Quesito 36" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/nucleus"></span>
+<span class="atom-split" id="q36" data-atom="q36" data-title="Iberoamericana 1991 — Quesito 36" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1975,7 +1975,7 @@ A core of ${}^{238}$U decays by emitting a particle $\alpha$.
 
 
 
-<span class="atom-split" id="q37" data-atom="q37" data-title="iberoa 1991 — Quesito 37" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/diffraction-grating"></span>
+<span class="atom-split" id="q37" data-atom="q37" data-title="Iberoamericana 1991 — Quesito 37" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/diffraction-grating"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2024,7 +2024,7 @@ Using a diffraction grating and a laser of known wavelength, calibrate the spect
 
 
 
-<span class="atom-split" id="q38" data-atom="q38" data-title="iberoa 1991 — Quesito 38" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pendulum,object/spring"></span>
+<span class="atom-split" id="q38" data-atom="q38" data-title="Iberoamericana 1991 — Quesito 38" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pendulum,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2079,7 +2079,7 @@ A string of pendulums of $l$ length separated by distance $a$ and coupled by con
 
 
 
-<span class="atom-split" id="q39" data-atom="q39" data-title="iberoa 1991 — Quesito 39" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/gas,object/heat-engine"></span>
+<span class="atom-split" id="q39" data-atom="q39" data-title="Iberoamericana 1991 — Quesito 39" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/gas,object/heat-engine"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2134,7 +2134,7 @@ Un motor opera en ciclo de Carnot usando un gas de van der Waals $\left(P + \fra
 
 
 
-<span class="atom-split" id="q40" data-atom="q40" data-title="iberoa 1991 — Quesito 40" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/electron"></span>
+<span class="atom-split" id="q40" data-atom="q40" data-title="Iberoamericana 1991 — Quesito 40" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/electron"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2189,7 +2189,7 @@ Two-dimensional electrons in an intense magnetic field form Landau levels with e
 
 
 
-<span class="atom-split" id="q41" data-atom="q41" data-title="iberoa 1991 — Quesito 41" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
+<span class="atom-split" id="q41" data-atom="q41" data-title="Iberoamericana 1991 — Quesito 41" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2244,7 +2244,7 @@ Using different color LEDs and a threshold voltage measurement circuit, determin
 
 
 
-<span class="atom-split" id="q42" data-atom="q42" data-title="iberoa 1991 — Quesito 42" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/rope-string"></span>
+<span class="atom-split" id="q42" data-atom="q42" data-title="Iberoamericana 1991 — Quesito 42" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2299,7 +2299,7 @@ A linear density string $\mu$ and a tension $T$ length $L$ has a point mass $M$ 
 
 
 
-<span class="atom-split" id="q43" data-atom="q43" data-title="iberoa 1991 — Quesito 43" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/electron"></span>
+<span class="atom-split" id="q43" data-atom="q43" data-title="Iberoamericana 1991 — Quesito 43" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/electron"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2354,7 +2354,7 @@ A neutral plasma of positive electrons and ions has a density $n_0$ in equilibri
 
 
 
-<span class="atom-split" id="q44" data-atom="q44" data-title="iberoa 1991 — Quesito 44" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/nucleus"></span>
+<span class="atom-split" id="q44" data-atom="q44" data-title="Iberoamericana 1991 — Quesito 44" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2409,7 +2409,7 @@ A high-energy proton collides with a resting proton: $p + p \to p + p + p + \bar
 
 
 
-<span class="atom-split" id="q45" data-atom="q45" data-title="iberoa 1991 — Quesito 45" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/resistor,object/inductor,object/capacitor"></span>
+<span class="atom-split" id="q45" data-atom="q45" data-title="Iberoamericana 1991 — Quesito 45" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/resistor,object/inductor,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2464,7 +2464,7 @@ Using a serial RLC circuit and a function generator, determine the resonance fre
 
 
 
-<span class="atom-split" id="q46" data-atom="q46" data-title="iberoa 1991 — Quesito 46" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/magnet"></span>
+<span class="atom-split" id="q46" data-atom="q46" data-title="Iberoamericana 1991 — Quesito 46" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/magnet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2519,7 +2519,7 @@ A rectangular conductive sheet of $m$ mass, length $L$ and width $a$ and resista
 
 
 
-<span class="atom-split" id="q47" data-atom="q47" data-title="iberoa 1991 — Quesito 47" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
+<span class="atom-split" id="q47" data-atom="q47" data-title="Iberoamericana 1991 — Quesito 47" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2574,7 +2574,7 @@ Consider an atmosphere in hydrostatic equilibrium.
 
 
 
-<span class="atom-split" id="q48" data-atom="q48" data-title="iberoa 1991 — Quesito 48" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/atom"></span>
+<span class="atom-split" id="q48" data-atom="q48" data-title="Iberoamericana 1991 — Quesito 48" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/atom"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2629,7 +2629,7 @@ A hydrogen atom in the base state is subjected to an external electric field $\m
 
 
 
-<span class="atom-split" id="q49" data-atom="q49" data-title="iberoa 1991 — Quesito 49" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/beam"></span>
+<span class="atom-split" id="q49" data-atom="q49" data-title="Iberoamericana 1991 — Quesito 49" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/beam"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2684,7 +2684,7 @@ Using a metallic rule as a beam in a bolt (pushed at one end, loaded at the othe
 
 
 
-<span class="atom-split" id="q50" data-atom="q50" data-title="iberoa 1991 — Quesito 50" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/planet"></span>
+<span class="atom-split" id="q50" data-atom="q50" data-title="Iberoamericana 1991 — Quesito 50" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/planet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2739,7 +2739,7 @@ A rocket of initial mass $M_0$ ejects mass at a rate of $\dot{m}$ with ejection 
 
 
 
-<span class="atom-split" id="q51" data-atom="q51" data-title="iberoa 1991 — Quesito 51" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/mirror"></span>
+<span class="atom-split" id="q51" data-atom="q51" data-title="Iberoamericana 1991 — Quesito 51" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2794,7 +2794,7 @@ A Michelson interferometer has arms of length $L_1$ and $L_2$. Wavelength light 
 
 
 
-<span class="atom-split" id="q52" data-atom="q52" data-title="iberoa 1991 — Quesito 52" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/star"></span>
+<span class="atom-split" id="q52" data-atom="q52" data-title="Iberoamericana 1991 — Quesito 52" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/star"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2849,7 +2849,7 @@ The pp cycle in the Sun converts hydrogen to helium: $4p \to {}^4\text{He} + 2e^
 
 
 
-<span class="atom-split" id="q53" data-atom="q53" data-title="iberoa 1991 — Quesito 53" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
+<span class="atom-split" id="q53" data-atom="q53" data-title="Iberoamericana 1991 — Quesito 53" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2904,7 +2904,7 @@ Using a silicon diode and available instruments, measure the full I-V characteri
 
 
 
-<span class="atom-split" id="q54" data-atom="q54" data-title="iberoa 1991 — Quesito 54" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/cylinder"></span>
+<span class="atom-split" id="q54" data-atom="q54" data-title="Iberoamericana 1991 — Quesito 54" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2959,7 +2959,7 @@ A solid cylinder of mass $m$ and radius $R$ is thrown over a horizontal surface 
 
 
 
-<span class="atom-split" id="q55" data-atom="q55" data-title="iberoa 1991 — Quesito 55" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/capacitor"></span>
+<span class="atom-split" id="q55" data-atom="q55" data-title="Iberoamericana 1991 — Quesito 55" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3014,7 +3014,7 @@ A spherical $a$ and $b$ radiocapacitor ($b > a$) has the internal conductor at p
 
 
 
-<span class="atom-split" id="q56" data-atom="q56" data-title="iberoa 1991 — Quesito 56" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
+<span class="atom-split" id="q56" data-atom="q56" data-title="Iberoamericana 1991 — Quesito 56" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3069,7 +3069,7 @@ Landau's model for a first order phase transition has free energy $F = F_0 + a(T
 
 
 
-<span class="atom-split" id="q57" data-atom="q57" data-title="iberoa 1991 — Quesito 57" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pipe-tube"></span>
+<span class="atom-split" id="q57" data-atom="q57" data-title="Iberoamericana 1991 — Quesito 57" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3124,7 +3124,7 @@ Using an air-column tube and a speaker, determine the speed of sound in the air 
 
 
 
-<span class="atom-split" id="q58" data-atom="q58" data-title="iberoa 1991 — Quesito 58" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
+<span class="atom-split" id="q58" data-atom="q58" data-title="Iberoamericana 1991 — Quesito 58" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3179,7 +3179,7 @@ A particle subjected to a constant force $F$ has the position $x(t) = \frac{1}{2
 
 
 
-<span class="atom-split" id="q59" data-atom="q59" data-title="iberoa 1991 — Quesito 59" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
+<span class="atom-split" id="q59" data-atom="q59" data-title="Iberoamericana 1991 — Quesito 59" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3234,7 +3234,7 @@ A ferrofluid (liquid with suspended magnetic particles) of susceptibility $\chi$
 
 
 
-<span class="atom-split" id="q60" data-atom="q60" data-title="iberoa 1991 — Quesito 60" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/atom,object/electron"></span>
+<span class="atom-split" id="q60" data-atom="q60" data-title="Iberoamericana 1991 — Quesito 60" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/atom,object/electron"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3289,7 +3289,7 @@ The helium atom has two electrons with Hamiltonian $H = p_1^2/2m + p_2^2/2m - 2e
 
 
 
-<span class="atom-split" id="q61" data-atom="q61" data-title="iberoa 1991 — Quesito 61" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/battery"></span>
+<span class="atom-split" id="q61" data-atom="q61" data-title="Iberoamericana 1991 — Quesito 61" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3344,7 +3344,7 @@ Using Zn and Cu electrodes in solution of $\text{ZnSO}_4$ and $\text{CuSO}_4$, m
 
 
 
-<span class="atom-split" id="q62" data-atom="q62" data-title="iberoa 1991 — Quesito 62" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
+<span class="atom-split" id="q62" data-atom="q62" data-title="Iberoamericana 1991 — Quesito 62" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3399,7 +3399,7 @@ Two equal masses $M$ orbit their centre of mass in radial circles $R$ with perio
 
 
 
-<span class="atom-split" id="q63" data-atom="q63" data-title="iberoa 1991 — Quesito 63" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
+<span class="atom-split" id="q63" data-atom="q63" data-title="Iberoamericana 1991 — Quesito 63" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3454,7 +3454,7 @@ A length $L$ ferromagnetic nanowire has a width domain wall $\delta$ separating 
 
 
 
-<span class="atom-split" id="q64" data-atom="q64" data-title="iberoa 1991 — Quesito 64" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
+<span class="atom-split" id="q64" data-atom="q64" data-title="Iberoamericana 1991 — Quesito 64" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3509,7 +3509,7 @@ The anharmonic quantum oscillator has a Hamiltonian $H = p^2/2m + m\omega^2 x^2/
 
 
 
-<span class="atom-split" id="q65" data-atom="q65" data-title="iberoa 1991 — Quesito 65" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/capacitor,object/resistor"></span>
+<span class="atom-split" id="q65" data-atom="q65" data-title="Iberoamericana 1991 — Quesito 65" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/capacitor,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3564,7 +3564,7 @@ Using an RC circuit, measure the time constant $\tau = RC$ during the load and d
 
 
 
-<span class="atom-split" id="q66" data-atom="q66" data-title="iberoa 1991 — Quesito 66" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/satellite,object/planet,object/star"></span>
+<span class="atom-split" id="q66" data-atom="q66" data-title="Iberoamericana 1991 — Quesito 66" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/satellite,object/planet,object/star"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3619,7 +3619,7 @@ A mass $m$ satellite with a solar candle of area $A$ and perfect reflectivity or
 
 
 
-<span class="atom-split" id="q67" data-atom="q67" data-title="iberoa 1991 — Quesito 67" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
+<span class="atom-split" id="q67" data-atom="q67" data-title="Iberoamericana 1991 — Quesito 67" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3674,7 +3674,7 @@ A semi-infinite solid ($x > 0$) has an initial temperature of $T_0$. In $x = 0$ 
 
 
 
-<span class="atom-split" id="q68" data-atom="q68" data-title="iberoa 1991 — Quesito 68" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/electron"></span>
+<span class="atom-split" id="q68" data-atom="q68" data-title="Iberoamericana 1991 — Quesito 68" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/electron"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3729,7 +3729,7 @@ A relativistic electron of energy $E = \gamma m_e c^2$ rotates in a magnetic fie
 
 
 
-<span class="atom-split" id="q69" data-atom="q69" data-title="iberoa 1991 — Quesito 69" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pipe-tube"></span>
+<span class="atom-split" id="q69" data-atom="q69" data-title="Iberoamericana 1991 — Quesito 69" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3784,7 +3784,7 @@ Using the method of capillary rise in tubes of different diameter, measure the s
 
 
 
-<span class="atom-split" id="q70" data-atom="q70" data-title="iberoa 1991 — Quesito 70" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/resistor"></span>
+<span class="atom-split" id="q70" data-atom="q70" data-title="Iberoamericana 1991 — Quesito 70" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3839,7 +3839,7 @@ Using a solar cell and variable resistance, measure the cell's I-V curve under l
 
 
 
-<span class="atom-split" id="q71" data-atom="q71" data-title="iberoa 1991 — Quesito 71" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/block,object/spring"></span>
+<span class="atom-split" id="q71" data-atom="q71" data-title="Iberoamericana 1991 — Quesito 71" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/block,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3894,7 +3894,7 @@ A block of mass $m$ falls from height $h$ over a vertical spring of constant $k$
 
 
 
-<span class="atom-split" id="q72" data-atom="q72" data-title="iberoa 1991 — Quesito 72" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/coil,object/wire"></span>
+<span class="atom-split" id="q72" data-atom="q72" data-title="Iberoamericana 1991 — Quesito 72" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/coil,object/wire"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3949,7 +3949,7 @@ A torus of $N$ spirals, greater $R$ radius and lesser $r$ radius conducts a curr
 
 
 
-<span class="atom-split" id="q73" data-atom="q73" data-title="iberoa 1991 — Quesito 73" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
+<span class="atom-split" id="q73" data-atom="q73" data-title="Iberoamericana 1991 — Quesito 73" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4004,7 +4004,7 @@ Two identical trains of own length $L_0$ are moving at speeds $+v$ and $-v$ rela
 
 
 
-<span class="atom-split" id="q74" data-atom="q74" data-title="iberoa 1991 — Quesito 74" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/gas"></span>
+<span class="atom-split" id="q74" data-atom="q74" data-title="Iberoamericana 1991 — Quesito 74" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4059,7 +4059,7 @@ Using the virial theorem, determine the condition of Jeans for collapse.
 
 
 
-<span class="atom-split" id="q75" data-atom="q75" data-title="iberoa 1991 — Quesito 75" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/beam"></span>
+<span class="atom-split" id="q75" data-atom="q75" data-title="Iberoamericana 1991 — Quesito 75" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/beam"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4114,7 +4114,7 @@ Using a thin metal rod embedded at one end and a series of masses, measure the Y
 
 
 
-<span class="atom-split" id="q76" data-atom="q76" data-title="iberoa 1991 — Quesito 76" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pendulum,object/point-charge"></span>
+<span class="atom-split" id="q76" data-atom="q76" data-title="Iberoamericana 1991 — Quesito 76" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pendulum,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4163,7 +4163,7 @@ Two identical pendulums of length $L$ and mass $m$, carrying charges $+q$ and $-
 
 
 
-<span class="atom-split" id="q77" data-atom="q77" data-title="iberoa 1991 — Quesito 77" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/star,object/planet"></span>
+<span class="atom-split" id="q77" data-atom="q77" data-title="Iberoamericana 1991 — Quesito 77" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/star,object/planet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4218,7 +4218,7 @@ The solar luminosity is $L_{\odot} = 3.8 \times 10^{26}$ W. Paraguay is at latit
 
 
 
-<span class="atom-split" id="q78" data-atom="q78" data-title="iberoa 1991 — Quesito 78" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/nucleus"></span>
+<span class="atom-split" id="q78" data-atom="q78" data-title="Iberoamericana 1991 — Quesito 78" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4273,7 +4273,7 @@ A cyclotron accelerates $\alpha$ particles using a source of ${}^{240}$Cm.
 
 
 
-<span class="atom-split" id="q79" data-atom="q79" data-title="iberoa 1991 — Quesito 79" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/photon"></span>
+<span class="atom-split" id="q79" data-atom="q79" data-title="Iberoamericana 1991 — Quesito 79" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/photon"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4322,7 +4322,7 @@ Using a UV source and a photodetector, study the attenuation of UV radiation in 
 
 
 
-<span class="atom-split" id="q80" data-atom="q80" data-title="iberoa 1991 — Quesito 80" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/spring"></span>
+<span class="atom-split" id="q80" data-atom="q80" data-title="Iberoamericana 1991 — Quesito 80" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4377,7 +4377,7 @@ A mass-resort oscillator $m$ and constant $k$ is close to a large mass $M$ at a 
 
 
 
-<span class="atom-split" id="q81" data-atom="q81" data-title="iberoa 1991 — Quesito 81" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
+<span class="atom-split" id="q81" data-atom="q81" data-title="Iberoamericana 1991 — Quesito 81" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4432,7 +4432,7 @@ In 1947, Powell discovered the $\pi^+$ pawn in photographic emulsions in the lab
 
 
 
-<span class="atom-split" id="q82" data-atom="q82" data-title="iberoa 1991 — Quesito 82" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/spring"></span>
+<span class="atom-split" id="q82" data-atom="q82" data-title="Iberoamericana 1991 — Quesito 82" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4487,7 +4487,7 @@ Two equal masses $m$ separated by distance $d$ are connected by a spring of cons
 
 
 
-<span class="atom-split" id="q83" data-atom="q83" data-title="iberoa 1991 — Quesito 83" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
+<span class="atom-split" id="q83" data-atom="q83" data-title="Iberoamericana 1991 — Quesito 83" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4542,7 +4542,7 @@ Two glass plates forming an angle wedge $\alpha$ show a pattern of water interfe
 
 
 
-<span class="atom-split" id="q84" data-atom="q84" data-title="iberoa 1991 — Quesito 84" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/resistor,object/capacitor"></span>
+<span class="atom-split" id="q84" data-atom="q84" data-title="Iberoamericana 1991 — Quesito 84" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/resistor,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4597,7 +4597,7 @@ A black box contains unknown RC components (series or parallel). Using a multime
 
 
 
-<span class="atom-split" id="q85" data-atom="q85" data-title="iberoa 1991 — Quesito 85" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/black-hole,object/mirror"></span>
+<span class="atom-split" id="q85" data-atom="q85" data-title="Iberoamericana 1991 — Quesito 85" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/black-hole,object/mirror"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4649,7 +4649,7 @@ On September 14, 2015, LIGO detected gravitational waves from the merger of two 
 
 
 
-<span class="atom-split" id="q86" data-atom="q86" data-title="iberoa 1991 — Quesito 86" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/spring,object/capacitor,object/pendulum"></span>
+<span class="atom-split" id="q86" data-atom="q86" data-title="Iberoamericana 1991 — Quesito 86" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/spring,object/capacitor,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4704,7 +4704,7 @@ The capacitive accelerometers on smartphones detect the acceleration. A simple a
 
 
 
-<span class="atom-split" id="q87" data-atom="q87" data-title="iberoa 1991 — Quesito 87" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
+<span class="atom-split" id="q87" data-atom="q87" data-title="Iberoamericana 1991 — Quesito 87" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4759,7 +4759,7 @@ A toy boat is propelled by an MHD propeller: a current $I$ passes through seawat
 
 
 
-<span class="atom-split" id="q88" data-atom="q88" data-title="iberoa 1991 — Quesito 88" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/tank-container"></span>
+<span class="atom-split" id="q88" data-atom="q88" data-title="Iberoamericana 1991 — Quesito 88" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4814,7 +4814,7 @@ Using a double-wall glass with hot water and measuring the cooling temperature b
 
 
 
-<span class="atom-split" id="q89" data-atom="q89" data-title="iberoa 1991 — Quesito 89" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/wire,object/resistor"></span>
+<span class="atom-split" id="q89" data-atom="q89" data-title="Iberoamericana 1991 — Quesito 89" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/wire,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4869,7 +4869,7 @@ Using a tungsten bulb and measuring its resistance based on the applied voltage,
 
 
 
-<span class="atom-split" id="q90" data-atom="q90" data-title="iberoa 1991 — Quesito 90" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/block,object/spring"></span>
+<span class="atom-split" id="q90" data-atom="q90" data-title="Iberoamericana 1991 — Quesito 90" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/block,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4924,7 +4924,7 @@ A mass block $m$ is attached to a spring of constant $k$ on a horizontal surface
 
 
 
-<span class="atom-split" id="q91" data-atom="q91" data-title="iberoa 1991 — Quesito 91" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/capacitor"></span>
+<span class="atom-split" id="q91" data-atom="q91" data-title="Iberoamericana 1991 — Quesito 91" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4979,7 +4979,7 @@ Two thin conductive sheets with $+CV_0$ and $-CV_0$ loads are inserted into a ca
 
 
 
-<span class="atom-split" id="q92" data-atom="q92" data-title="iberoa 1991 — Quesito 92" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/gas,object/heat-engine"></span>
+<span class="atom-split" id="q92" data-atom="q92" data-title="Iberoamericana 1991 — Quesito 92" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/gas,object/heat-engine"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5034,7 +5034,7 @@ A two-dimensional ideal gas (2D) obeys the state equation $PA = NT$ where $A$ is
 
 
 
-<span class="atom-split" id="q93" data-atom="q93" data-title="iberoa 1991 — Quesito 93" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/tank-container,object/block"></span>
+<span class="atom-split" id="q93" data-atom="q93" data-title="Iberoamericana 1991 — Quesito 93" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/tank-container,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5089,7 +5089,7 @@ A container has two immiscible liquids: the lower density $\rho_1$ and height $h
 
 
 
-<span class="atom-split" id="q94" data-atom="q94" data-title="iberoa 1991 — Quesito 94" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/spring,object/pipe-tube"></span>
+<span class="atom-split" id="q94" data-atom="q94" data-title="Iberoamericana 1991 — Quesito 94" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/spring,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5141,7 +5141,7 @@ A hollow metallic tube of mass $M$, length $L$, and radius $r$ is suspended from
 
 
 
-<span class="atom-split" id="q95" data-atom="q95" data-title="iberoa 1991 — Quesito 95" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/ball,object/inclined-plane"></span>
+<span class="atom-split" id="q95" data-atom="q95" data-title="Iberoamericana 1991 — Quesito 95" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/ball,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5196,7 +5196,7 @@ A solid billiards ball of $m$ mass and radius $R$ is released from rest in an in
 
 
 
-<span class="atom-split" id="q96" data-atom="q96" data-title="iberoa 1991 — Quesito 96" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/resistor,object/tank-container"></span>
+<span class="atom-split" id="q96" data-atom="q96" data-title="Iberoamericana 1991 — Quesito 96" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/resistor,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5251,7 +5251,7 @@ An electrical resistance of $P$ heats water in a convection-cooled pot. The temp
 
 
 
-<span class="atom-split" id="q97" data-atom="q97" data-title="iberoa 1991 — Quesito 97" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/capacitor"></span>
+<span class="atom-split" id="q97" data-atom="q97" data-title="Iberoamericana 1991 — Quesito 97" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5306,7 +5306,7 @@ A network of capacitors has a structure with particular symmetry that simplifies
 
 
 
-<span class="atom-split" id="q98" data-atom="q98" data-title="iberoa 1991 — Quesito 98" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/electron"></span>
+<span class="atom-split" id="q98" data-atom="q98" data-title="Iberoamericana 1991 — Quesito 98" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/electron"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5361,7 +5361,7 @@ Two electrons move in perpendicular directions at $v_1$ and $v_2$ speeds, and th
 
 
 
-<span class="atom-split" id="q99" data-atom="q99" data-title="iberoa 1991 — Quesito 99" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pipe-tube"></span>
+<span class="atom-split" id="q99" data-atom="q99" data-title="Iberoamericana 1991 — Quesito 99" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5416,7 +5416,7 @@ Using the capillary tube method, measure the surface tension $\gamma$ of soap so
 
 
 
-<span class="atom-split" id="q100" data-atom="q100" data-title="iberoa 1991 — Quesito 100" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/resistor"></span>
+<span class="atom-split" id="q100" data-atom="q100" data-title="Iberoamericana 1991 — Quesito 100" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5471,7 +5471,7 @@ Using an LED and a photoresistance (LDR), measure the I-V characteristic of the 
 
 
 
-<span class="atom-split" id="q101" data-atom="q101" data-title="iberoa 1991 — Quesito 101" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/gas"></span>
+<span class="atom-split" id="q101" data-atom="q101" data-title="Iberoamericana 1991 — Quesito 101" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5526,7 +5526,7 @@ Using kinetic theory, derive the thermal conductivity of an ideal gas.
 
 
 
-<span class="atom-split" id="q102" data-atom="q102" data-title="iberoa 1991 — Quesito 102" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/electron,object/atom"></span>
+<span class="atom-split" id="q102" data-atom="q102" data-title="Iberoamericana 1991 — Quesito 102" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/electron,object/atom"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5581,7 +5581,7 @@ An electron at centripede acceleration emits radiation. The Larmor formula gives
 
 
 
-<span class="atom-split" id="q103" data-atom="q103" data-title="iberoa 1991 — Quesito 103" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/spring,object/gas,object/tank-container"></span>
+<span class="atom-split" id="q103" data-atom="q103" data-title="Iberoamericana 1991 — Quesito 103" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/spring,object/gas,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5636,7 +5636,7 @@ Two communication vessels: one fixed and one suspended from a spring of constant
 
 
 
-<span class="atom-split" id="q104" data-atom="q104" data-title="iberoa 1991 — Quesito 104" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/lever,object/spring,object/projectile"></span>
+<span class="atom-split" id="q104" data-atom="q104" data-title="Iberoamericana 1991 — Quesito 104" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/lever,object/spring,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5691,7 +5691,7 @@ A catapult consists of a lever of total length $2L$ that pivots at its centre. A
 
 
 
-<span class="atom-split" id="q105" data-atom="q105" data-title="iberoa 1991 — Quesito 105" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/droplet,object/conducting-sphere"></span>
+<span class="atom-split" id="q105" data-atom="q105" data-title="Iberoamericana 1991 — Quesito 105" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/droplet,object/conducting-sphere"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5746,7 +5746,7 @@ Rain droplets loaded with a load $q$ each fall within an insulated metal sphere 
 
 
 
-<span class="atom-split" id="q106" data-atom="q106" data-title="iberoa 1991 — Quesito 106" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/star,object/photon,object/electron"></span>
+<span class="atom-split" id="q106" data-atom="q106" data-title="Iberoamericana 1991 — Quesito 106" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/star,object/photon,object/electron"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5804,7 +5804,7 @@ Using Stefan-Boltzmann's law and Wien's law, calculate the relative temperatures
 
 
 
-<span class="atom-split" id="q107" data-atom="q107" data-title="iberoa 1991 — Quesito 107" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/membrane"></span>
+<span class="atom-split" id="q107" data-atom="q107" data-title="Iberoamericana 1991 — Quesito 107" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/membrane"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5859,7 +5859,7 @@ Microtubules are biological polymers that stack together and disassemble stochas
 
 
 
-<span class="atom-split" id="q108" data-atom="q108" data-title="iberoa 1991 — Quesito 108" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/tank-container,object/pipe-tube"></span>
+<span class="atom-split" id="q108" data-atom="q108" data-title="Iberoamericana 1991 — Quesito 108" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/tank-container,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5914,7 +5914,7 @@ A bottle with a capillary hole at the base is emptied by viscous flow (Poiseuill
 
 
 
-<span class="atom-split" id="q109" data-atom="q109" data-title="iberoa 1991 — Quesito 109" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
+<span class="atom-split" id="q109" data-atom="q109" data-title="Iberoamericana 1991 — Quesito 109" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5969,7 +5969,7 @@ Using a computational simulation of the Ising 2D model on a square grid, study t
 
 
 
-<span class="atom-split" id="q110" data-atom="q110" data-title="iberoa 1991 — Quesito 110" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
+<span class="atom-split" id="q110" data-atom="q110" data-title="Iberoamericana 1991 — Quesito 110" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6024,7 +6024,7 @@ A flat stone of $m$ mass that hits water at an angle $\alpha$ experiences a hydr
 
 
 
-<span class="atom-split" id="q111" data-atom="q111" data-title="iberoa 1991 — Quesito 111" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/capacitor,object/inductor"></span>
+<span class="atom-split" id="q111" data-atom="q111" data-title="Iberoamericana 1991 — Quesito 111" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/capacitor,object/inductor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6079,7 +6079,7 @@ Two identical LC oscillators share an ideal and a real diode (with threshold vol
 
 
 
-<span class="atom-split" id="q112" data-atom="q112" data-title="iberoa 1991 — Quesito 112" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/nucleus"></span>
+<span class="atom-split" id="q112" data-atom="q112" data-title="Iberoamericana 1991 — Quesito 112" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6134,7 +6134,7 @@ The muons are created at $h \approx 15$ km altitude in the atmosphere by cosmic 
 
 
 
-<span class="atom-split" id="q113" data-atom="q113" data-title="iberoa 1991 — Quesito 113" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/nucleus,object/particle-beam"></span>
+<span class="atom-split" id="q113" data-atom="q113" data-title="Iberoamericana 1991 — Quesito 113" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/nucleus,object/particle-beam"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6189,7 +6189,7 @@ Using a simulation of the particle dispersion $\alpha$ by a gold core, check Rut
 
 
 
-<span class="atom-split" id="q114" data-atom="q114" data-title="iberoa 1991 — Quesito 114" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/ball,object/spring"></span>
+<span class="atom-split" id="q114" data-atom="q114" data-title="Iberoamericana 1991 — Quesito 114" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/ball,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6244,7 +6244,7 @@ Two balls of equal mass $m$ approach each other at opposite speeds $\pm v_0$. Am
 
 
 
-<span class="atom-split" id="q115" data-atom="q115" data-title="iberoa 1991 — Quesito 115" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/gas"></span>
+<span class="atom-split" id="q115" data-atom="q115" data-title="Iberoamericana 1991 — Quesito 115" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6299,7 +6299,7 @@ A parcel of air descends adiabatically in the Hadley cell from altitude $z_0$ to
 
 
 
-<span class="atom-split" id="q116" data-atom="q116" data-title="iberoa 1991 — Quesito 116" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
+<span class="atom-split" id="q116" data-atom="q116" data-title="Iberoamericana 1991 — Quesito 116" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6351,7 +6351,7 @@ A tabular iceberg of height $H$, length $L$, and width $W$ floats in the ocean. 
 
 
 
-<span class="atom-split" id="q117" data-atom="q117" data-title="iberoa 1991 — Quesito 117" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/electron"></span>
+<span class="atom-split" id="q117" data-atom="q117" data-title="Iberoamericana 1991 — Quesito 117" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/electron"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6406,7 +6406,7 @@ A thermo-on valve has a heated cathode that emits electrons by thermo-on effect 
 
 
 
-<span class="atom-split" id="q118" data-atom="q118" data-title="iberoa 1991 — Quesito 118" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pendulum"></span>
+<span class="atom-split" id="q118" data-atom="q118" data-title="Iberoamericana 1991 — Quesito 118" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6455,7 +6455,7 @@ A Foucault pendulum of length $L$ oscillates at latitude $\lambda$. Earth's rota
 
 
 
-<span class="atom-split" id="q119" data-atom="q119" data-title="iberoa 1991 — Quesito 119" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
+<span class="atom-split" id="q119" data-atom="q119" data-title="Iberoamericana 1991 — Quesito 119" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6510,7 +6510,7 @@ In a type II superconductor, over the $H_{c1}$ field quantized flow vortices $\P
 
 
 
-<span class="atom-split" id="q120" data-atom="q120" data-title="iberoa 1991 — Quesito 120" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/atom"></span>
+<span class="atom-split" id="q120" data-atom="q120" data-title="Iberoamericana 1991 — Quesito 120" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/atom"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

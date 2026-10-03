@@ -1,5 +1,5 @@
 ---
-title: Argent 2015
+title: Argentina 2015
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2015 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/gas"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2015 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -177,7 +177,7 @@ $g = 10\ \text{m/s}^2$
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2015 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/gear,object/wheel,object/battery,object/resistor,object/switch"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2015 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/gear,object/wheel,object/battery,object/resistor,object/switch"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -406,7 +406,7 @@ He's circulating.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2015 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/coil,object/resistor,object/capacitor,object/nucleus,object/magnetic-dipole"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2015 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/coil,object/resistor,object/capacitor,object/nucleus,object/magnetic-dipole"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -983,7 +983,7 @@ You're giving up.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2015 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/gas"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina 2015 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1187,7 +1187,7 @@ $\gamma = c_p/c_v = 7/5$
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Argent 2015 — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/gear,object/wheel,object/battery,object/resistor,object/switch"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Argentina 2015 — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/gear,object/wheel,object/battery,object/resistor,object/switch"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1434,7 +1434,7 @@ He's circulating.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Argent 2015 — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/coil,object/resistor,object/capacitor,object/nucleus,object/magnetic-dipole"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Argentina 2015 — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/coil,object/resistor,object/capacitor,object/nucleus,object/magnetic-dipole"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

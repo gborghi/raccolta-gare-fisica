@@ -1,5 +1,5 @@
 ---
-title: OBF 2007 ''
+title: OBF 2007
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2007 '' — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,object/rod"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2007 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,object/rod"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -46,7 +46,7 @@ In the following photos you will observe part of the experimental procedure. Pla
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2007 '' — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2007 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -83,7 +83,7 @@ Turn the side of the coated wood, placing the rough side upwards, and repeat the
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2007 '' — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2007 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -120,7 +120,7 @@ Repeat the procedure by replacing the coated wood base with one of the sheets of
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2007 '' — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,object/rod"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2007 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,object/rod"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -157,7 +157,7 @@ The "staircase" on the wall with a wooden board as "floor".
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2007 '' — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2007 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -194,7 +194,7 @@ The "staircase" on the wall with a wooden board as "floor".
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2007 '' — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2007 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -237,7 +237,7 @@ The data shall be stored in the data set.
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2007 '' — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2007 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -295,7 +295,7 @@ The data shall be stored in the data set.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2007 '' — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2007 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -356,7 +356,7 @@ The data shall be stored in the data set.
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2007 '' — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2007 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

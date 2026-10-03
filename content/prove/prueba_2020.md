@@ -1,5 +1,5 @@
 ---
-title: Argent 2020
+title: Argentina 2020
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2020 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/planet,object/satellite,object/projectile"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2020 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/planet,object/satellite,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -679,7 +679,7 @@ $$\Delta A \approx \frac{1}{2}\, r_p\, \Delta r$$
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2020 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/particle-beam,object/nucleus"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2020 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/particle-beam,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1172,7 +1172,7 @@ Electrical charge of the part
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2020 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/black-hole,object/star"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2020 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/black-hole,object/star"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1710,7 +1710,7 @@ Schrödinger of the center a black hole and $\alpha$ is a constant
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2020 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina 2020 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1810,7 +1810,7 @@ g-
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Argent 2020 — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Argentina 2020 — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1925,7 +1925,7 @@ i-
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Argent 2020 — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Argentina 2020 — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

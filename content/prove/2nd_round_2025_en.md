@@ -1,5 +1,5 @@
 ---
-title: Svizze 2025
+title: Svizzera 2025
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2025 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Svizzera 2025 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -58,7 +58,7 @@ F) CHF 30000 -
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2025 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Svizzera 2025 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -99,7 +99,7 @@ Fogg e Passepartout hanno accettato la sfida di girare il globo. Hanno scelto di
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2025 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/spring"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Svizzera 2025 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/spring"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -150,7 +150,7 @@ Qual è la configurazione di cui sopra con la rigidità equivalente $k_{eq}$ pi�
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2025 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/spring"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Svizzera 2025 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/spring"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -191,7 +191,7 @@ Le scale mostrano circa un sesto del peso terrestre.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2025 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Svizzera 2025 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -236,7 +236,7 @@ Sei in una spedizione su un sottomarino sulla luna di Saturno Titano che ha lagh
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2025 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Svizzera 2025 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -277,7 +277,7 @@ Una noce di cocco con velocità costante esplode e si divide in 3 pezzi che vola
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2025 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/wheel"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Svizzera 2025 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/wheel"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -322,7 +322,7 @@ F) La moto cambia la velocità di traslazione orizzontale a causa della conserva
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2025 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Svizzera 2025 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -363,7 +363,7 @@ Come abbiamo imparato nel primo round, una persona di altezza $h$ ha bisogno sol
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2025 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/lens"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Svizzera 2025 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/lens"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -414,7 +414,7 @@ La figura mostra una lente convexa sottile. 1. La distanza dell'oggetto dalla le
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Svizze 2025 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/slit"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Svizzera 2025 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/slit"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -455,7 +455,7 @@ Data una fessura unidimensionale di larghezza $l = 3\,\text{mm}$, qual è la sep
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Svizze 2025 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/heat-engine"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Svizzera 2025 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/heat-engine"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -496,7 +496,7 @@ La domanda 1.11 (MC)
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Svizze 2025 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Svizzera 2025 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -537,7 +537,7 @@ Alice usa un cubo di ghiaccio per raffreddare il suo bicchiere d'acqua. Appena d
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Svizze 2025 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Svizzera 2025 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -582,7 +582,7 @@ Le gomme svolgono un ruolo essenziale nella Formula 1. La pressione dei pneumati
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Svizze 2025 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container,object/gas"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Svizzera 2025 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -623,7 +623,7 @@ Una candela accesa si trova in un pozzo pieno di acqua fino alla metà dell'alte
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Svizze 2025 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Svizzera 2025 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -674,7 +674,7 @@ Guarda il circuito in Fig. 1. Tra quali resistenti scorre la corrente più picco
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Svizze 2025 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Svizzera 2025 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -715,7 +715,7 @@ In quale situazione è il rischio più elevato di essere colpito e ferito da ful
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Svizze 2025 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Svizzera 2025 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -756,7 +756,7 @@ La velocità di fuga della Terra per una particella di massa $m = 1\,\text{kg}$ 
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Svizze 2025 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/sphere,object/conducting-sphere"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Svizzera 2025 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/sphere,object/conducting-sphere"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -799,7 +799,7 @@ Considerate due sfere, ciascuna con la stessa carica totale $q$. Una sfera è un
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Svizze 2025 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Svizzera 2025 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -840,7 +840,7 @@ La chef Clara vuole riscaldare il suo cibo il prima possibile. Decide di usare l
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Svizze 2025 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Svizzera 2025 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -881,7 +881,7 @@ It is known that it is possible to break a wine glass with the right sound. What
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Svizze 2025 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Svizzera 2025 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -932,7 +932,7 @@ L'immagine mostra un'onda stazionaria su una corda tra due muri al tempo $t = 0\
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Svizze 2025 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container,object/rope-string,object/pulley"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Svizzera 2025 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container,object/rope-string,object/pulley"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1045,7 +1045,7 @@ iii. (1,5 punti) Calcolare la potenza media necessaria durante la fase di accele
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Svizze 2025 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor,object/mirror"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Svizzera 2025 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor,object/mirror"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1160,7 +1160,7 @@ ii. (1 pt) Qual è il valore della frazione $\dfrac{V_1}{V_2}$?
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Svizze 2025 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor,object/galvanometer,object/capacitor"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Svizzera 2025 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor,object/galvanometer,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

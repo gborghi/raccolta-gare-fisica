@@ -1,5 +1,5 @@
 ---
-title: Brasil 2017
+title: Brasile 2017
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2017 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/disk"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2017 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/disk"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -98,7 +98,7 @@ angle $\theta$ depends only on the ratio of the masses of the disc to the dog.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2017 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/satellite,object/star,object/sphere"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2017 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/satellite,object/star,object/sphere"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -147,7 +147,7 @@ Satellite, determine the T equilibrium temperature of the satellite.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2017 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/capacitor"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2017 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -209,7 +209,7 @@ March 22, 2017
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2017 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2017 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

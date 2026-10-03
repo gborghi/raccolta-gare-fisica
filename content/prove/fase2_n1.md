@@ -1,5 +1,5 @@
 ---
-title: Brasil 2024
+title: Brasile 2024
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2024 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/tank-container,object/cylinder"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2024 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/tank-container,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -71,7 +71,7 @@ the water level, as shown in the figure next to it.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2024 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2024 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -126,7 +126,7 @@ the water?
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2024 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2024 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -164,7 +164,7 @@ Considering that the elevator's motion is uniformly accelerated during the first
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2024 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2024 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -240,7 +240,7 @@ The wall?
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Brasil 2024 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/rope-string"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Brasile 2024 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -304,7 +304,7 @@ $\text{kg/m}^3$, determine:
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Brasil 2024 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/disk,object/wheel"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Brasile 2024 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/disk,object/wheel"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -374,7 +374,7 @@ What is the difference in the temperature of the discs in $^\circ\text{C}$?
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Brasil 2024 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Brasile 2024 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -435,7 +435,7 @@ Alberto crosses Bruno's car.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Brasil 2024 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/disk"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Brasile 2024 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni,object/disk"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

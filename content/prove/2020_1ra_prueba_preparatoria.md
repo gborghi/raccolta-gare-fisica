@@ -1,5 +1,5 @@
 ---
-title: Argent 2020
+title: Argentina 2020
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2020 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,object/projectile"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2020 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -101,7 +101,7 @@ Hit the wall.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2020 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,object/spring"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2020 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -184,7 +184,7 @@ d) Determine whether the man gets wet by making all necessary calculations.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2020 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,object/pendulum,object/spring,object/block,object/ball"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2020 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,object/pendulum,object/spring,object/block,object/ball"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -639,7 +639,7 @@ $v_x = \dfrac{5000\ \text{m}}{t_{f2}} - v_0 \cos(\alpha) = 76{,}795\ \text{m/s}$
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2020 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,object/projectile"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina 2020 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -895,7 +895,7 @@ Yes, it gets wet
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Argent 2020 — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,object/spring"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Argentina 2020 — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1104,7 +1104,7 @@ It cannot be calculated
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Argent 2020 — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,object/pendulum,object/spring,object/block,object/ball"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Argentina 2020 — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Gravitazione e Astrofisica,object/pendulum,object/spring,object/block,object/ball"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

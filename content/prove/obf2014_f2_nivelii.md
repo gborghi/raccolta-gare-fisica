@@ -1,5 +1,5 @@
 ---
-title: OBF 2014 ''
+title: OBF 2014
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2014 '' — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,object/atom"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2014 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,object/atom"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -64,7 +64,7 @@ Consider a simple cubic crystal with a $a$ network parameter, in which each unit
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2014 '' — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,object/atom"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2014 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,object/atom"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -119,7 +119,7 @@ Considering that only the cell with the numbered atoms, for atom 1, atoms 2, 4 a
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2014 '' — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,object/atom"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2014 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,object/atom"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -156,7 +156,7 @@ How many unit cells does a crystal of $1\,\text{cm}^3$ have for a value of $a = 
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2014 '' — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,object/sphere,object/disk"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2014 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,object/sphere,object/disk"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -208,7 +208,7 @@ In each of the cases shown, determine the **packing density** — the fraction o
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2014 '' — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,object/photon,object/electron,object/atom"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2014 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,object/photon,object/electron,object/atom"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -269,7 +269,7 @@ Determine the value of the segment $\overline{ABC}$ as a function of the paramet
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2014 '' — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2014 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -318,7 +318,7 @@ b) What is the distance between the two fans (in a straight line)?
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2014 '' — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,object/droplet"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2014 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,object/droplet"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -379,7 +379,7 @@ A vehicle, traveling in a straight line from point A to point B, has an engine p
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2014 '' — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,object/ball"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2014 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,object/ball"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -431,7 +431,7 @@ What fraction of the initial energy is lost in the collision?
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2014 '' — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF,object/ball,object/projectile"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2014 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF,object/ball,object/projectile"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -486,7 +486,7 @@ With this data, determine the **start speed ** and the **angle ** at which the b
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="OBF 2014 '' — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/OBF,object/gas,object/ball"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="OBF 2014 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/OBF,object/gas,object/ball"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -529,7 +529,7 @@ Suppose the interior of the ball contains an ideal gas and that the temperature 
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2014 '' — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF,object/satellite"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2014 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF,object/satellite"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -587,7 +587,7 @@ What's the delay in each residence from the time of the event?
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="OBF 2014 '' — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="OBF 2014 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

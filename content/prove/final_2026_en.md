@@ -1,5 +1,5 @@
 ---
-title: Svizze 2026
+title: Svizzera 2026
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2026 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Svizzera 2026 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -42,7 +42,7 @@ Nanosecondi a 100 secondi.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2026 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Svizzera 2026 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -79,7 +79,7 @@ spiegato al punto 5 del presente elenco.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2026 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Svizzera 2026 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -118,7 +118,7 @@ ogni canale può essere utilizzato con terminazione interna $50\ \Omega$ o con a
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2026 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Svizzera 2026 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -151,7 +151,7 @@ con la presa EXT TRIG.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2026 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Svizzera 2026 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -190,7 +190,7 @@ selezionare l'accoppiamento (AC = corrente alternata, qualsiasi compensazione è
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2026 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Svizzera 2026 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -369,7 +369,7 @@ Proponi un montaggio sperimentale per determinare l’impedenza $Z_0$
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2026 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Svizzera 2026 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -398,7 +398,7 @@ $$F > Mg - \mu_2 F \implies F > \frac{Mg}{1 + \mu_2} = \frac{4}{5}Mg.$$
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2026 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string,object/spring,object/cylinder"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Svizzera 2026 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string,object/spring,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -605,7 +605,7 @@ Dividiamo il nostro processo in 3 fasi.
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2026 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Svizzera 2026 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -632,7 +632,7 @@ Dividiamo il nostro processo in 3 fasi.
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Svizze 2026 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Svizzera 2026 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -659,7 +659,7 @@ Dividiamo il nostro processo in 3 fasi.
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Svizze 2026 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/slit"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Svizzera 2026 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/slit"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

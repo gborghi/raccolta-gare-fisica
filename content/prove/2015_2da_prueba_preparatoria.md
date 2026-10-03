@@ -1,5 +1,5 @@
 ---
-title: Argent 2015
+title: Argentina 2015
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2015 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,object/resistor,object/battery,object/galvanometer"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2015 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,object/resistor,object/battery,object/galvanometer"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -119,7 +119,7 @@ The following is the list of the main components of the engine:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2015 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,object/tank-container"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2015 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -201,7 +201,7 @@ The data:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2015 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,object/wire"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2015 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,object/wire"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -283,7 +283,7 @@ Date: magnetic permeability of the vacuum $\mu_0 = 4\pi \times 10^{-7}\,\text{N}
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2015 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,object/calorimeter"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina 2015 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,object/calorimeter"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

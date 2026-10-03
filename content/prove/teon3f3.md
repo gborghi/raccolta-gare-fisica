@@ -1,5 +1,5 @@
 ---
-title: Brasil 2006
+title: Brasile 2006
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/pipe-tube,object/sphere"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/pipe-tube,object/sphere"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -68,7 +68,7 @@ High. Describe and justify the observed phenomenon.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/prism"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/prism"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -159,7 +159,7 @@ gelo $= 33$ J/g; $\pi = 3$; $\sqrt{2} = 1{,}4$; $\sqrt{3} = 1{,}7$; $\text{sen}\
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/gas,object/cylinder,object/piston"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/gas,object/cylinder,object/piston"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -217,7 +217,7 @@ the state of balance. What mass of ice does this process melt?
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/atom,object/magnetic-dipole"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/atom,object/magnetic-dipole"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -290,7 +290,7 @@ $p=3/4$. What is the probability that a group of 6 atoms will have the magnetiza
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Brasil 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/tank-container"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Brasile 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -345,7 +345,7 @@ gravity and $\rho$ for water density.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Brasil 2006 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/capacitor,object/resistor,object/inductor,object/switch"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Brasile 2006 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/capacitor,object/resistor,object/inductor,object/switch"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -389,7 +389,7 @@ Initially, only switches S1 and S3 are closed, and a sufficiently long time is w
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Brasil 2006 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/nucleus"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Brasile 2006 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -441,7 +441,7 @@ between the kinetic energies of the neutron and the alpha particle produced afte
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Brasil 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor,object/switch"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Brasile 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Elettromagnetismo,object/resistor,object/switch"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

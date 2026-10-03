@@ -1,5 +1,5 @@
 ---
-title: Argent 2013
+title: Argentina 2013
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2013 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/projectile,object/sphere,object/resistor,object/battery"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2013 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/projectile,object/sphere,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -281,7 +281,7 @@ OAF 2013 - 5
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2013 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/wheel,object/gas"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2013 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/wheel,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -537,7 +537,7 @@ OAF 2013 - 8
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2013 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/mirror,object/pipe-tube"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2013 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/mirror,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

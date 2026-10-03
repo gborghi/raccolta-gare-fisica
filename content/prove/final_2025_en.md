@@ -1,5 +1,5 @@
 ---
-title: Svizze 2025
+title: Svizzera 2025
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2025 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk,object/resistor,object/wire,object/photon"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Svizzera 2025 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk,object/resistor,object/wire,object/photon"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

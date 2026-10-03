@@ -1,5 +1,5 @@
 ---
-title: Argent 2003
+title: Argentina 2003
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2003 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,object/lens"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2003 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,object/lens"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -236,7 +236,7 @@ Lens 2
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2003 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,object/cylinder,object/piston,object/gas"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2003 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,object/cylinder,object/piston,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -420,7 +420,7 @@ A
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2003 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,object/sphere,object/inclined-plane"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2003 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,object/sphere,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

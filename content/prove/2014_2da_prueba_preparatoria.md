@@ -1,5 +1,5 @@
 ---
-title: Argent 2014 ''
+title: Argentina 2014
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2014 '' — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,object/tank-container,object/pipe-tube"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2014 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,object/tank-container,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -73,7 +73,7 @@ Suppose that the water is heated in such a way that the temperature of the water
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2014 '' — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas,object/piston,object/tank-container"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2014 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas,object/piston,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -158,7 +158,7 @@ Imagine an experiment in which the following occurs: The piston is slowly pushed
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2014 '' — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,object/sphere"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2014 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,object/sphere"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -225,7 +225,7 @@ If the coefficient of linear dilation of copper is $\alpha_\text{cu} = 1{,}65 \t
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2014 '' — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,object/bubble"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina 2014 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,object/bubble"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -337,7 +337,7 @@ d) Evaluate the goodness of the method.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Argent 2014 '' — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,object/tank-container,object/gas"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Argentina 2014 — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,object/tank-container,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

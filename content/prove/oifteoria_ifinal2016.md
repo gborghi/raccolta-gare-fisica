@@ -1,5 +1,5 @@
 ---
-title: Brasil 2016
+title: Brasile 2016
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2016 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/rope-string,object/block"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2016 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/rope-string,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -83,7 +83,7 @@ length stretched due to force application $\Delta F$.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2016 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/cylinder,object/piston,object/gas"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2016 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/cylinder,object/piston,object/gas"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -174,7 +174,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of th
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2016 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/screen"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2016 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/screen"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -247,7 +247,7 @@ determine the intensity resulting from the sum of two waves of the same frequenc
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2016 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/nucleus"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2016 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

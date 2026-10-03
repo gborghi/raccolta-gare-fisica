@@ -1,5 +1,5 @@
 ---
-title: Argent 1992 Locale Quiz
+title: Argentina 1992 Locale Quiz
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 1992 Locale — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/4,multidisciplina/mono"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 1992 Locale — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/4,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -104,7 +104,7 @@ Datos: $n_1 = 1.6$; $n_2 = 1.4$; $e = 3$ cm; $\alpha = 30^\circ$.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 1992 Locale — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/battery,object/wire,object/resistor"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 1992 Locale — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/battery,object/wire,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -156,7 +156,7 @@ What or what are the defective parts?
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 1992 Locale — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi,object/piston,object/gas,object/droplet"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 1992 Locale — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi,object/piston,object/gas,object/droplet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -235,7 +235,7 @@ Datos numericos: aceleracion de la gravedad $g = 9.80\ m/s^2$; 1 atmosfera = 760
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argent 1992 Locale — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container,object/manometer"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina 1992 Locale — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container,object/manometer"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -347,7 +347,7 @@ You can only use the items offered, paper, pen and calculator. At the end of the
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Argent 1992 Locale — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/1,multidisciplina/mono,object/tank-container"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Argentina 1992 Locale — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/1,multidisciplina/mono,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -396,7 +396,7 @@ Determine the volume of an irregular body. It has a graduated container, a scale
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Argent 1992 Locale — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/beam,object/rope-string"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Argentina 1992 Locale — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/beam,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -454,7 +454,7 @@ Calculate the intensity and direction of the forces acting on the wall at points
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Argent 1992 Locale — Quesito 7" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/spring,object/tank-container"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Argentina 1992 Locale — Quesito 7" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/spring,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -530,7 +530,7 @@ The specific weight of a detergent is to be determined. The following elements a
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Argent 1992 Locale — Quesito 8" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/multi,object/sphere,object/cylinder"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Argentina 1992 Locale — Quesito 8" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/multi,object/sphere,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -645,7 +645,7 @@ n) CV; HP; Kwh e watt impiegati. (Figura)
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Argent 1992 Locale — Quesito 9" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Argentina 1992 Locale — Quesito 9" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -703,7 +703,7 @@ The specific weight of a piece of cork (wood) is required to be calculated. It s
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Argent 1992 Locale — Quesito 10" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Argentina 1992 Locale — Quesito 10" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -749,7 +749,7 @@ Describe clearly the chosen procedure (theoretical and experimental part) and ev
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Argent 1992 Locale — Quesito 11" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Metodi-Trasversali,topic/order-of-magnitude-estimation,argomento/metodi-trasversali,difficolta/2,multidisciplina/mono,object/wire"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Argentina 1992 Locale — Quesito 11" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Metodi-Trasversali,topic/order-of-magnitude-estimation,argomento/metodi-trasversali,difficolta/2,multidisciplina/mono,object/wire"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -804,7 +804,7 @@ Determine the weight of the wire, also indicating the estimated error.
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Argent 1992 Locale — Quesito 12" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/spring,object/tank-container"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Argentina 1992 Locale — Quesito 12" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/spring,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -874,7 +874,7 @@ Materials to be used:
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Argent 1992 Locale — Quesito 13" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Argentina 1992 Locale — Quesito 13" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -917,7 +917,7 @@ Given an irregular flat cardboard figure, on which a reference system with a cen
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Argent 1992 Locale — Quesito 14" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/rope-string,object/inclined-plane"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Argentina 1992 Locale — Quesito 14" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/rope-string,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -987,7 +987,7 @@ $m1 = 60$ kg; $m2 = 40$ kg; $m3 = 20$ kg. (Figure)
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Argent 1992 Locale — Quesito 15" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/cart"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Argentina 1992 Locale — Quesito 15" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/cart"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1090,7 +1090,7 @@ The motion begins with "a" and from that point the spaces are considered to be t
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Argent 1992 Locale — Quesito 16" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Argentina 1992 Locale — Quesito 16" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1151,7 +1151,7 @@ The time function of a movement is $x = 6 - 3 \cdot t + t^2$, expressed in its c
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Argent 1992 Locale — Quesito 17" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Argentina 1992 Locale — Quesito 17" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1200,7 +1200,7 @@ a) M is equidistant from M' and M''; b) M' is equidistant from M and M''; c) M''
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Argent 1992 Locale — Quesito 18" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Argentina 1992 Locale — Quesito 18" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1249,7 +1249,7 @@ Two moves move with uniformly accelerated motion. One of them has an initial spe
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Argent 1992 Locale — Quesito 19" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/wire"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Argentina 1992 Locale — Quesito 19" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/wire"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1316,7 +1316,7 @@ The figure shows a mobile slipping through a wire. (Figure) (a) of what magnitud
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Argent 1992 Locale — Quesito 20" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Argentina 1992 Locale — Quesito 20" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1383,7 +1383,7 @@ Prepare a report containing the following items:
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Argent 1992 Locale — Quesito 21" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/multi,object/pendulum,object/block,object/spring"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Argentina 1992 Locale — Quesito 21" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/multi,object/pendulum,object/block,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1432,7 +1432,7 @@ A sphere of 5 N. hanging from a 0.80 m rope. length, forming an angle of $45^\ci
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Argent 1992 Locale — Quesito 22" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/projectile"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Argentina 1992 Locale — Quesito 22" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1505,7 +1505,7 @@ Determine:
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Argent 1992 Locale — Quesito 23" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Argentina 1992 Locale — Quesito 23" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1554,7 +1554,7 @@ Determine the relationship between position, speed and acceleration over time in
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Argent 1992 Locale — Quesito 24" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Argentina 1992 Locale — Quesito 24" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1612,7 +1612,7 @@ You may use the approximation $g = 10\ m/s^2$ to simplify the calculations.
 
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="Argent 1992 Locale — Quesito 25" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Argentina 1992 Locale — Quesito 25" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1661,7 +1661,7 @@ b) How long does the trip last?
 
 
 
-<span class="atom-split" id="q26" data-atom="q26" data-title="Argent 1992 Locale — Quesito 26" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q26" data-atom="q26" data-title="Argentina 1992 Locale — Quesito 26" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1755,7 +1755,7 @@ The scale: 1 cm = 5 seconds; 1 cm = 20 m/sec
 
 
 
-<span class="atom-split" id="q27" data-atom="q27" data-title="Argent 1992 Locale — Quesito 27" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
+<span class="atom-split" id="q27" data-atom="q27" data-title="Argentina 1992 Locale — Quesito 27" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1804,7 +1804,7 @@ A trench mortar fires a projectile with an angle of $53^\circ$ above the horizon
 
 
 
-<span class="atom-split" id="q28" data-atom="q28" data-title="Argent 1992 Locale — Quesito 28" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/rope-string"></span>
+<span class="atom-split" id="q28" data-atom="q28" data-title="Argentina 1992 Locale — Quesito 28" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1859,7 +1859,7 @@ If you tie five pieces of metal along a rope, keep the entire chain suspended ve
 
 
 
-<span class="atom-split" id="q29" data-atom="q29" data-title="Argent 1992 Locale — Quesito 29" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/inclined-plane"></span>
+<span class="atom-split" id="q29" data-atom="q29" data-title="Argentina 1992 Locale — Quesito 29" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1914,7 +1914,7 @@ A 600 kg box must be lowered from a truck 1.20 m high, causing it to slide at a 
 
 
 
-<span class="atom-split" id="q30" data-atom="q30" data-title="Argent 1992 Locale — Quesito 30" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/inclined-plane"></span>
+<span class="atom-split" id="q30" data-atom="q30" data-title="Argentina 1992 Locale — Quesito 30" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1963,7 +1963,7 @@ A block of $50\ \vec{kg}$ is pushed a distance of 6 m. for the surface of a slop
 
 
 
-<span class="atom-split" id="q31" data-atom="q31" data-title="Argent 1992 Locale — Quesito 31" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q31" data-atom="q31" data-title="Argentina 1992 Locale — Quesito 31" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2027,7 +2027,7 @@ Write down about one page answering these questions.
 
 
 
-<span class="atom-split" id="q32" data-atom="q32" data-title="Argent 1992 Locale — Quesito 32" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block"></span>
+<span class="atom-split" id="q32" data-atom="q32" data-title="Argentina 1992 Locale — Quesito 32" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2088,7 +2088,7 @@ A block of mass of 3,0 kg., moves along a polished horizontal surface at a Vo sp
 
 
 
-<span class="atom-split" id="q33" data-atom="q33" data-title="Argent 1992 Locale — Quesito 33" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/wheel"></span>
+<span class="atom-split" id="q33" data-atom="q33" data-title="Argentina 1992 Locale — Quesito 33" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/wheel"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2137,7 +2137,7 @@ A car moves at a constant speed of 30 m/s. If the diameter of the wheels is 120 
 
 
 
-<span class="atom-split" id="q34" data-atom="q34" data-title="Argent 1992 Locale — Quesito 34" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/rope-string"></span>
+<span class="atom-split" id="q34" data-atom="q34" data-title="Argentina 1992 Locale — Quesito 34" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2204,7 +2204,7 @@ A child pulls a 3 Kg sled through a rope that forms an angle of $30^\circ$ with 
 
 
 
-<span class="atom-split" id="q35" data-atom="q35" data-title="Argent 1992 Locale — Quesito 35" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/spring,object/inclined-plane,object/block"></span>
+<span class="atom-split" id="q35" data-atom="q35" data-title="Argentina 1992 Locale — Quesito 35" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/spring,object/inclined-plane,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2253,7 +2253,7 @@ At the base of a plane tilted to 60 degrees there is a spring of $K = 4000$(N/m)
 
 
 
-<span class="atom-split" id="q36" data-atom="q36" data-title="Argent 1992 Locale — Quesito 36" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/3,multidisciplina/multi,object/pulley,object/block,object/cylinder"></span>
+<span class="atom-split" id="q36" data-atom="q36" data-title="Argentina 1992 Locale — Quesito 36" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/3,multidisciplina/multi,object/pulley,object/block,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2325,7 +2325,7 @@ C) Dynamometer suspended from the ceiling, holding in water an aluminum cylinder
 
 
 
-<span class="atom-split" id="q37" data-atom="q37" data-title="Argent 1992 Locale — Quesito 37" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q37" data-atom="q37" data-title="Argentina 1992 Locale — Quesito 37" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2392,7 +2392,7 @@ Datos: $v = 1$ (m/s); $h = (1.8$ m); $H = (3.8$ M).
 
 
 
-<span class="atom-split" id="q38" data-atom="q38" data-title="Argent 1992 Locale — Quesito 38" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/disk"></span>
+<span class="atom-split" id="q38" data-atom="q38" data-title="Argentina 1992 Locale — Quesito 38" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/disk"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2441,7 +2441,7 @@ b) At what maximum speed can it rotate without slipping
 
 
 
-<span class="atom-split" id="q39" data-atom="q39" data-title="Argent 1992 Locale — Quesito 39" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/multi,object/block,object/inclined-plane"></span>
+<span class="atom-split" id="q39" data-atom="q39" data-title="Argentina 1992 Locale — Quesito 39" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/multi,object/block,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2499,7 +2499,7 @@ How much should "X" be if you want the particles to stop at the "D" point? (Just
 
 
 
-<span class="atom-split" id="q40" data-atom="q40" data-title="Argent 1992 Locale — Quesito 40" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q40" data-atom="q40" data-title="Argentina 1992 Locale — Quesito 40" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2548,7 +2548,7 @@ A 90% engine is installed on a 40% crane. Knowing that the power supplied is 5 K
 
 
 
-<span class="atom-split" id="q41" data-atom="q41" data-title="Argent 1992 Locale — Quesito 41" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
+<span class="atom-split" id="q41" data-atom="q41" data-title="Argentina 1992 Locale — Quesito 41" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2615,7 +2615,7 @@ The figure shows an aircraft flying at 490 m. With a speed of 370 km/h, over a r
 
 
 
-<span class="atom-split" id="q42" data-atom="q42" data-title="Argent 1992 Locale — Quesito 42" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
+<span class="atom-split" id="q42" data-atom="q42" data-title="Argentina 1992 Locale — Quesito 42" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2667,7 +2667,7 @@ c) At what speed did the passenger walk?
 
 
 
-<span class="atom-split" id="q43" data-atom="q43" data-title="Argent 1992 Locale — Quesito 43" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/rod"></span>
+<span class="atom-split" id="q43" data-atom="q43" data-title="Argentina 1992 Locale — Quesito 43" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/rod"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2731,7 +2731,7 @@ A rod of mass M and length L can spin freely over one of its ends (Fig.). Under 
 
 
 
-<span class="atom-split" id="q44" data-atom="q44" data-title="Argent 1992 Locale — Quesito 44" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block"></span>
+<span class="atom-split" id="q44" data-atom="q44" data-title="Argentina 1992 Locale — Quesito 44" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2804,7 +2804,7 @@ Find the height from which the body C (Fig.) should be dropped in the following 
 
 
 
-<span class="atom-split" id="q45" data-atom="q45" data-title="Argent 1992 Locale — Quesito 45" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/rope-string,object/block"></span>
+<span class="atom-split" id="q45" data-atom="q45" data-title="Argentina 1992 Locale — Quesito 45" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/rope-string,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2868,7 +2868,7 @@ The particle of the mass figure = 10 g is attached to the end of a thread and fo
 
 
 
-<span class="atom-split" id="q46" data-atom="q46" data-title="Argent 1992 Locale — Quesito 46" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q46" data-atom="q46" data-title="Argentina 1992 Locale — Quesito 46" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2917,7 +2917,7 @@ What time after 4 o'clock does the position of the clock and the minute needle m
 
 
 
-<span class="atom-split" id="q47" data-atom="q47" data-title="Argent 1992 Locale — Quesito 47" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/disk"></span>
+<span class="atom-split" id="q47" data-atom="q47" data-title="Argentina 1992 Locale — Quesito 47" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/disk"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2981,7 +2981,7 @@ A mass cockroach $m = 2$ g runs counterclockwise around the edge of a disk that 
 
 
 
-<span class="atom-split" id="q48" data-atom="q48" data-title="Argent 1992 Locale — Quesito 48" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/multi,object/pendulum,object/block"></span>
+<span class="atom-split" id="q48" data-atom="q48" data-title="Argentina 1992 Locale — Quesito 48" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/multi,object/pendulum,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3036,7 +3036,7 @@ b. What motion does the pendulum describe and what angle does it form with the v
 
 
 
-<span class="atom-split" id="q49" data-atom="q49" data-title="Argent 1992 Locale — Quesito 49" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile,object/cart"></span>
+<span class="atom-split" id="q49" data-atom="q49" data-title="Argentina 1992 Locale — Quesito 49" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile,object/cart"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3088,7 +3088,7 @@ The impact occurs in such a way that the projectile is embedded in the platform.
 
 
 
-<span class="atom-split" id="q50" data-atom="q50" data-title="Argent 1992 Locale — Quesito 50" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/disk,object/spring"></span>
+<span class="atom-split" id="q50" data-atom="q50" data-title="Argentina 1992 Locale — Quesito 50" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/3,multidisciplina/mono,object/disk,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3137,7 +3137,7 @@ A disk of mass $m = 1$ kgr is on a horizontal table; in the center of the table 
 
 
 
-<span class="atom-split" id="q51" data-atom="q51" data-title="Argent 1992 Locale — Quesito 51" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/2,multidisciplina/multi,object/planet"></span>
+<span class="atom-split" id="q51" data-atom="q51" data-title="Argentina 1992 Locale — Quesito 51" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/2,multidisciplina/multi,object/planet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3189,7 +3189,7 @@ Determine the centrifugal force, angular velocity and tangential velocity of a m
 
 
 
-<span class="atom-split" id="q52" data-atom="q52" data-title="Argent 1992 Locale — Quesito 52" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q52" data-atom="q52" data-title="Argentina 1992 Locale — Quesito 52" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3253,7 +3253,7 @@ By looking at the speed and position graphs in time function, indicate what type
 
 
 
-<span class="atom-split" id="q53" data-atom="q53" data-title="Argent 1992 Locale — Quesito 53" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/pulley,object/rope-string"></span>
+<span class="atom-split" id="q53" data-atom="q53" data-title="Argentina 1992 Locale — Quesito 53" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/pulley,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3317,7 +3317,7 @@ A block of 200 g rests on another block of 800 g. The assembly is dragged at a c
 
 
 
-<span class="atom-split" id="q54" data-atom="q54" data-title="Argent 1992 Locale — Quesito 54" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/ball"></span>
+<span class="atom-split" id="q54" data-atom="q54" data-title="Argentina 1992 Locale — Quesito 54" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/ball"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3381,7 +3381,7 @@ A billiard ball receives a kick with a bat as shown in Figure 2. The action line
 
 
 
-<span class="atom-split" id="q55" data-atom="q55" data-title="Argent 1992 Locale — Quesito 55" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/cylinder,object/projectile"></span>
+<span class="atom-split" id="q55" data-atom="q55" data-title="Argentina 1992 Locale — Quesito 55" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/cylinder,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3430,7 +3430,7 @@ A 3 m high hollow cylinder rotates around its axis with uniform motion, at a rat
 
 
 
-<span class="atom-split" id="q56" data-atom="q56" data-title="Argent 1992 Locale — Quesito 56" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/multi,object/cart,object/inclined-plane,object/pulley"></span>
+<span class="atom-split" id="q56" data-atom="q56" data-title="Argentina 1992 Locale — Quesito 56" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/4,multidisciplina/multi,object/cart,object/inclined-plane,object/pulley"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3506,7 +3506,7 @@ Find out:
 
 
 
-<span class="atom-split" id="q57" data-atom="q57" data-title="Argent 1992 Locale — Quesito 57" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/2,multidisciplina/mono,object/spring"></span>
+<span class="atom-split" id="q57" data-atom="q57" data-title="Argentina 1992 Locale — Quesito 57" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/2,multidisciplina/mono,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3555,7 +3555,7 @@ A force of 1 Newton is applied to displace 10 cm. of the equilibrium position a 
 
 
 
-<span class="atom-split" id="q58" data-atom="q58" data-title="Argent 1992 Locale — Quesito 58" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/mono,object/spring,object/block"></span>
+<span class="atom-split" id="q58" data-atom="q58" data-title="Argentina 1992 Locale — Quesito 58" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/mono,object/spring,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3619,7 +3619,7 @@ e. Period of movement
 
 
 
-<span class="atom-split" id="q59" data-atom="q59" data-title="Argent 1992 Locale — Quesito 59" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/bubble,object/tank-container"></span>
+<span class="atom-split" id="q59" data-atom="q59" data-title="Argentina 1992 Locale — Quesito 59" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/bubble,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3686,7 +3686,7 @@ Inside a sealed container with water, small air bubbles can be released. Describ
 
 
 
-<span class="atom-split" id="q60" data-atom="q60" data-title="Argent 1992 Locale — Quesito 60" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container"></span>
+<span class="atom-split" id="q60" data-atom="q60" data-title="Argentina 1992 Locale — Quesito 60" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3756,7 +3756,7 @@ A tank is filled with water to a height of "H". It has a hole in one of its wall
 
 
 
-<span class="atom-split" id="q61" data-atom="q61" data-title="Argent 1992 Locale — Quesito 61" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/spring,object/tank-container"></span>
+<span class="atom-split" id="q61" data-atom="q61" data-title="Argentina 1992 Locale — Quesito 61" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/multi,object/spring,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3829,7 +3829,7 @@ mercurio.......$136\ N/dm^3$.
 
 
 
-<span class="atom-split" id="q62" data-atom="q62" data-title="Argent 1992 Locale — Quesito 62" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/block"></span>
+<span class="atom-split" id="q62" data-atom="q62" data-title="Argentina 1992 Locale — Quesito 62" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3878,7 +3878,7 @@ A block of wood floats in water with 66% of its volume submerged and in oil with
 
 
 
-<span class="atom-split" id="q63" data-atom="q63" data-title="Argent 1992 Locale — Quesito 63" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
+<span class="atom-split" id="q63" data-atom="q63" data-title="Argentina 1992 Locale — Quesito 63" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3930,7 +3930,7 @@ How high should the tank be with respect to the alley?
 
 
 
-<span class="atom-split" id="q64" data-atom="q64" data-title="Argent 1992 Locale — Quesito 64" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/block"></span>
+<span class="atom-split" id="q64" data-atom="q64" data-title="Argentina 1992 Locale — Quesito 64" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -3982,7 +3982,7 @@ The answer above, depends on the shape of the cube? Basically his answer.
 
 
 
-<span class="atom-split" id="q65" data-atom="q65" data-title="Argent 1992 Locale — Quesito 65" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/multi,object/block,object/pulley,object/inclined-plane"></span>
+<span class="atom-split" id="q65" data-atom="q65" data-title="Argentina 1992 Locale — Quesito 65" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/multi,object/block,object/pulley,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4073,7 +4073,7 @@ Find out:
 
 
 
-<span class="atom-split" id="q66" data-atom="q66" data-title="Argent 1992 Locale — Quesito 66" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/pipe-tube,object/manometer"></span>
+<span class="atom-split" id="q66" data-atom="q66" data-title="Argentina 1992 Locale — Quesito 66" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/pipe-tube,object/manometer"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4137,7 +4137,7 @@ For the fig gauge. The ratio between the areas $S_1$ and $S_2$ is 10 and the hei
 
 
 
-<span class="atom-split" id="q67" data-atom="q67" data-title="Argent 1992 Locale — Quesito 67" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas"></span>
+<span class="atom-split" id="q67" data-atom="q67" data-title="Argentina 1992 Locale — Quesito 67" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4186,7 +4186,7 @@ The temperature of 5 kg of $N_2$ gaseous material is raised from $10^\circ$C to 
 
 
 
-<span class="atom-split" id="q68" data-atom="q68" data-title="Argent 1992 Locale — Quesito 68" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/gas"></span>
+<span class="atom-split" id="q68" data-atom="q68" data-title="Argentina 1992 Locale — Quesito 68" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4244,7 +4244,7 @@ Find the absolute equivalent.
 
 
 
-<span class="atom-split" id="q69" data-atom="q69" data-title="Argent 1992 Locale — Quesito 69" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/1,multidisciplina/mono,object/gas"></span>
+<span class="atom-split" id="q69" data-atom="q69" data-title="Argentina 1992 Locale — Quesito 69" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/1,multidisciplina/mono,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4287,7 +4287,7 @@ What volume do 96 grams of oxygen occupy at $30^\circ$C, at a pressure of 1 atmo
 
 
 
-<span class="atom-split" id="q70" data-atom="q70" data-title="Argent 1992 Locale — Quesito 70" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/mono,object/gas"></span>
+<span class="atom-split" id="q70" data-atom="q70" data-title="Argentina 1992 Locale — Quesito 70" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/mono,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4354,7 +4354,7 @@ Consider zero the specific heat of the gas and the perfectly insulated outer con
 
 
 
-<span class="atom-split" id="q71" data-atom="q71" data-title="Argent 1992 Locale — Quesito 71" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas"></span>
+<span class="atom-split" id="q71" data-atom="q71" data-title="Argentina 1992 Locale — Quesito 71" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4415,7 +4415,7 @@ In an isothermal transformation, 10 moles of a gas occupy a volume of 40 litres 
 
 
 
-<span class="atom-split" id="q72" data-atom="q72" data-title="Argent 1992 Locale — Quesito 72" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas"></span>
+<span class="atom-split" id="q72" data-atom="q72" data-title="Argentina 1992 Locale — Quesito 72" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4461,7 +4461,7 @@ Assuming that the internal energy went from 4 kcal/kg to 32 kcal/kg, calculate t
 
 
 
-<span class="atom-split" id="q73" data-atom="q73" data-title="Argent 1992 Locale — Quesito 73" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/calorimeter"></span>
+<span class="atom-split" id="q73" data-atom="q73" data-title="Argentina 1992 Locale — Quesito 73" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/calorimeter"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4510,7 +4510,7 @@ A 35.6 g deposit made of certain metal contains 133.5 g of water at $15.5^\circ$
 
 
 
-<span class="atom-split" id="q74" data-atom="q74" data-title="Argent 1992 Locale — Quesito 74" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/calorimeter"></span>
+<span class="atom-split" id="q74" data-atom="q74" data-title="Argentina 1992 Locale — Quesito 74" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/calorimeter"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4562,7 +4562,7 @@ How many grams of mass should the body have for the final temperature to be $23^
 
 
 
-<span class="atom-split" id="q75" data-atom="q75" data-title="Argent 1992 Locale — Quesito 75" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/5,multidisciplina/multi,object/spring,object/capacitor,object/inductor"></span>
+<span class="atom-split" id="q75" data-atom="q75" data-title="Argentina 1992 Locale — Quesito 75" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/5,multidisciplina/multi,object/spring,object/capacitor,object/inductor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4635,7 +4635,7 @@ The mechanical kinetic energy of the electrical system is: $E = \frac{1}{2}MI^2 
 
 
 
-<span class="atom-split" id="q76" data-atom="q76" data-title="Argent 1992 Locale — Quesito 76" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/multi,object/resistor"></span>
+<span class="atom-split" id="q76" data-atom="q76" data-title="Argentina 1992 Locale — Quesito 76" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/multi,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4684,7 +4684,7 @@ An electrical resistance of mass = 20 grams heats 10 kg of water to boiling poin
 
 
 
-<span class="atom-split" id="q77" data-atom="q77" data-title="Argent 1992 Locale — Quesito 77" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/calorimeter"></span>
+<span class="atom-split" id="q77" data-atom="q77" data-title="Argentina 1992 Locale — Quesito 77" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/calorimeter"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4733,7 +4733,7 @@ A calorimeter contains 500 grams of water and 300 grams of ice, all at $0^\circ$
 
 
 
-<span class="atom-split" id="q78" data-atom="q78" data-title="Argent 1992 Locale — Quesito 78" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/calorimeter"></span>
+<span class="atom-split" id="q78" data-atom="q78" data-title="Argentina 1992 Locale — Quesito 78" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/calorimeter"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4820,7 +4820,7 @@ Thermometer
 
 
 
-<span class="atom-split" id="q79" data-atom="q79" data-title="Argent 1992 Locale — Quesito 79" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/calorimeter,object/cylinder"></span>
+<span class="atom-split" id="q79" data-atom="q79" data-title="Argentina 1992 Locale — Quesito 79" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/calorimeter,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4872,7 +4872,7 @@ Describe the procedure clearly (theoretical and practical) and assess the error 
 
 
 
-<span class="atom-split" id="q80" data-atom="q80" data-title="Argent 1992 Locale — Quesito 80" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/mono,object/calorimeter"></span>
+<span class="atom-split" id="q80" data-atom="q80" data-title="Argentina 1992 Locale — Quesito 80" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/mono,object/calorimeter"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4927,7 +4927,7 @@ The density of the Fe = $7.86(g/cm^3)$
 
 
 
-<span class="atom-split" id="q81" data-atom="q81" data-title="Argent 1992 Locale — Quesito 81" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/mono,object/calorimeter"></span>
+<span class="atom-split" id="q81" data-atom="q81" data-title="Argentina 1992 Locale — Quesito 81" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/mono,object/calorimeter"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5003,7 +5003,7 @@ Lf Latent fusion heat = 80 cal/g
 
 
 
-<span class="atom-split" id="q82" data-atom="q82" data-title="Argent 1992 Locale — Quesito 82" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/heat-engine"></span>
+<span class="atom-split" id="q82" data-atom="q82" data-title="Argentina 1992 Locale — Quesito 82" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/heat-engine"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5052,7 +5052,7 @@ A heat engine with a 50% efficiency should be replaced by a heat engine operatin
 
 
 
-<span class="atom-split" id="q83" data-atom="q83" data-title="Argent 1992 Locale — Quesito 83" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/switch,object/galvanometer"></span>
+<span class="atom-split" id="q83" data-atom="q83" data-title="Argentina 1992 Locale — Quesito 83" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/switch,object/galvanometer"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5122,7 +5122,7 @@ What will be the indication of $V_1$ and $A_1$ when: (Figure, A = 2 A with close
 
 
 
-<span class="atom-split" id="q84" data-atom="q84" data-title="Argent 1992 Locale — Quesito 84" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/point-charge"></span>
+<span class="atom-split" id="q84" data-atom="q84" data-title="Argentina 1992 Locale — Quesito 84" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5171,7 +5171,7 @@ The vertices of an equilateral triangle of 60 cm on the side are equal electric 
 
 
 
-<span class="atom-split" id="q85" data-atom="q85" data-title="Argent 1992 Locale — Quesito 85" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/battery"></span>
+<span class="atom-split" id="q85" data-atom="q85" data-title="Argentina 1992 Locale — Quesito 85" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5235,7 +5235,7 @@ In the diagram of the figure set values of the currents circulating for each res
 
 
 
-<span class="atom-split" id="q86" data-atom="q86" data-title="Argent 1992 Locale — Quesito 86" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/point-charge"></span>
+<span class="atom-split" id="q86" data-atom="q86" data-title="Argentina 1992 Locale — Quesito 86" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5284,7 +5284,7 @@ If $Q_3$ is positive, the net force acting on it is zero. What sign should $Q_1$
 
 
 
-<span class="atom-split" id="q87" data-atom="q87" data-title="Argent 1992 Locale — Quesito 87" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/battery,object/galvanometer"></span>
+<span class="atom-split" id="q87" data-atom="q87" data-title="Argentina 1992 Locale — Quesito 87" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/battery,object/galvanometer"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5354,7 +5354,7 @@ A) - The power developed over the resistance of $8\ \Omega$.
 
 
 
-<span class="atom-split" id="q88" data-atom="q88" data-title="Argent 1992 Locale — Quesito 88" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/point-charge"></span>
+<span class="atom-split" id="q88" data-atom="q88" data-title="Argentina 1992 Locale — Quesito 88" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5412,7 +5412,7 @@ $Q_1 = +4.5 \cdot 10^{-5}$ Coul; $Q_3 = -2.4 \cdot 10^{-5}$ Coul; $Q_2 = +3.6 \c
 
 
 
-<span class="atom-split" id="q89" data-atom="q89" data-title="Argent 1992 Locale — Quesito 89" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/point-charge"></span>
+<span class="atom-split" id="q89" data-atom="q89" data-title="Argentina 1992 Locale — Quesito 89" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5470,7 +5470,7 @@ $q_1 = 100$ nC; $q_2 = -5\ \mu$C; $q_3 = ?$ (figura, $q_1$ a 3 cm de $q_2$, $q_3
 
 
 
-<span class="atom-split" id="q90" data-atom="q90" data-title="Argent 1992 Locale — Quesito 90" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/point-charge"></span>
+<span class="atom-split" id="q90" data-atom="q90" data-title="Argentina 1992 Locale — Quesito 90" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5519,7 +5519,7 @@ The potential difference between two points in an electric field separated by 75
 
 
 
-<span class="atom-split" id="q91" data-atom="q91" data-title="Argent 1992 Locale — Quesito 91" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/point-charge"></span>
+<span class="atom-split" id="q91" data-atom="q91" data-title="Argentina 1992 Locale — Quesito 91" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5574,7 +5574,7 @@ Find the time and trajectory equations for a particle of mass m and charge q tha
 
 
 
-<span class="atom-split" id="q92" data-atom="q92" data-title="Argent 1992 Locale — Quesito 92" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/wire,object/battery"></span>
+<span class="atom-split" id="q92" data-atom="q92" data-title="Argentina 1992 Locale — Quesito 92" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/wire,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5623,7 +5623,7 @@ Suppose a circuit is made up of a battery with an electromotive force (EMF) of 3
 
 
 
-<span class="atom-split" id="q93" data-atom="q93" data-title="Argent 1992 Locale — Quesito 93" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/point-charge"></span>
+<span class="atom-split" id="q93" data-atom="q93" data-title="Argentina 1992 Locale — Quesito 93" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5672,7 +5672,7 @@ Two point electric charges $Q_1$ and $Q_2$ are in the vacuum at a distance d and
 
 
 
-<span class="atom-split" id="q94" data-atom="q94" data-title="Argent 1992 Locale — Quesito 94" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/magnetism,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/coil,object/magnet,object/battery"></span>
+<span class="atom-split" id="q94" data-atom="q94" data-title="Argentina 1992 Locale — Quesito 94" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/magnetism,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/coil,object/magnet,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5727,7 +5727,7 @@ The manufacturer shall provide the manufacturer with the following information: 
 
 
 
-<span class="atom-split" id="q95" data-atom="q95" data-title="Argent 1992 Locale — Quesito 95" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor"></span>
+<span class="atom-split" id="q95" data-atom="q95" data-title="Argentina 1992 Locale — Quesito 95" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5776,7 +5776,7 @@ A variable resistance R is connected through a potential difference V that remai
 
 
 
-<span class="atom-split" id="q96" data-atom="q96" data-title="Argent 1992 Locale — Quesito 96" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/4,multidisciplina/multi,object/point-charge"></span>
+<span class="atom-split" id="q96" data-atom="q96" data-title="Argentina 1992 Locale — Quesito 96" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/4,multidisciplina/multi,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5843,7 +5843,7 @@ $Q_1 = 2 \cdot 10^{-4}$ c; $Q_2 = -2 \cdot 10^{-4}$ c; $\Delta V = 12000$ v; $MQ
 
 
 
-<span class="atom-split" id="q97" data-atom="q97" data-title="Argent 1992 Locale — Quesito 97" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor"></span>
+<span class="atom-split" id="q97" data-atom="q97" data-title="Argentina 1992 Locale — Quesito 97" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5907,7 +5907,7 @@ Calculate the resistance equivalent to the following associations, if $R_1 = 12$
 
 
 
-<span class="atom-split" id="q98" data-atom="q98" data-title="Argent 1992 Locale — Quesito 98" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/battery"></span>
+<span class="atom-split" id="q98" data-atom="q98" data-title="Argentina 1992 Locale — Quesito 98" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5986,7 +5986,7 @@ $\varepsilon = 12$ V; $r = 0.1\ \Omega$; $R_1 = 5\ \Omega$; $R_2 = 15\ \Omega$; 
 
 
 
-<span class="atom-split" id="q99" data-atom="q99" data-title="Argent 1992 Locale — Quesito 99" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/wire"></span>
+<span class="atom-split" id="q99" data-atom="q99" data-title="Argentina 1992 Locale — Quesito 99" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/wire"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6041,7 +6041,7 @@ If the resistance changes with $r_o = r_{o0}(1 + alfa \Delta T)$ being $r_{o0} =
 
 
 
-<span class="atom-split" id="q100" data-atom="q100" data-title="Argent 1992 Locale — Quesito 100" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/battery"></span>
+<span class="atom-split" id="q100" data-atom="q100" data-title="Argentina 1992 Locale — Quesito 100" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6116,7 +6116,7 @@ e) Number the possible causes of error in the previous measurements.
 
 
 
-<span class="atom-split" id="q101" data-atom="q101" data-title="Argent 1992 Locale — Quesito 101" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/battery"></span>
+<span class="atom-split" id="q101" data-atom="q101" data-title="Argentina 1992 Locale — Quesito 101" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6186,7 +6186,7 @@ Once the circuit is set up, how would it proceed to achieve the proposed goal?
 
 
 
-<span class="atom-split" id="q102" data-atom="q102" data-title="Argent 1992 Locale — Quesito 102" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/capacitor,object/battery"></span>
+<span class="atom-split" id="q102" data-atom="q102" data-title="Argentina 1992 Locale — Quesito 102" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/capacitor,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6253,7 +6253,7 @@ Describe what happens with the load, capacity, and potential difference of each 
 
 
 
-<span class="atom-split" id="q103" data-atom="q103" data-title="Argent 1992 Locale — Quesito 103" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/conducting-sphere"></span>
+<span class="atom-split" id="q103" data-atom="q103" data-title="Argentina 1992 Locale — Quesito 103" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/conducting-sphere"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6296,7 +6296,7 @@ Two small identical conducting spheres having respectively charges $q_1$ and $q_
 
 
 
-<span class="atom-split" id="q104" data-atom="q104" data-title="Argent 1992 Locale — Quesito 104" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/battery"></span>
+<span class="atom-split" id="q104" data-atom="q104" data-title="Argentina 1992 Locale — Quesito 104" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6360,7 +6360,7 @@ In the fig circuit. son $R_1 = 24$ ohm, $R_2 = 30$ ohm, $R_3 = 20$ ohm, $R_4 = 2
 
 
 
-<span class="atom-split" id="q105" data-atom="q105" data-title="Argent 1992 Locale — Quesito 105" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/capacitor,object/inductor,object/resistor"></span>
+<span class="atom-split" id="q105" data-atom="q105" data-title="Argentina 1992 Locale — Quesito 105" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/capacitor,object/inductor,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6424,7 +6424,7 @@ A series circuit consisting of a capacitance $40\ \Omega$ capacitor, resistance 
 
 
 
-<span class="atom-split" id="q106" data-atom="q106" data-title="Argent 1992 Locale — Quesito 106" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor,object/battery"></span>
+<span class="atom-split" id="q106" data-atom="q106" data-title="Argentina 1992 Locale — Quesito 106" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6488,7 +6488,7 @@ In the circuit, calculate the intensity circulating for each resistance, the vol
 
 
 
-<span class="atom-split" id="q107" data-atom="q107" data-title="Argent 1992 Locale — Quesito 107" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/point-charge"></span>
+<span class="atom-split" id="q107" data-atom="q107" data-title="Argentina 1992 Locale — Quesito 107" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6537,7 +6537,7 @@ What is the intensity of the electric field at a point in a field, knowing that 
 
 
 
-<span class="atom-split" id="q108" data-atom="q108" data-title="Argent 1992 Locale — Quesito 108" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor"></span>
+<span class="atom-split" id="q108" data-atom="q108" data-title="Argentina 1992 Locale — Quesito 108" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6610,7 +6610,7 @@ c) Calcolare l'energia consumata nella resistenza $6\ \Omega$ per un'ora nelle c
 
 
 
-<span class="atom-split" id="q109" data-atom="q109" data-title="Argent 1992 Locale — Quesito 109" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor,object/switch"></span>
+<span class="atom-split" id="q109" data-atom="q109" data-title="Argentina 1992 Locale — Quesito 109" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor,object/switch"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6679,7 +6679,7 @@ c. Both switches are closed.
 
 
 
-<span class="atom-split" id="q110" data-atom="q110" data-title="Argent 1992 Locale — Quesito 110" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor"></span>
+<span class="atom-split" id="q110" data-atom="q110" data-title="Argentina 1992 Locale — Quesito 110" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6728,7 +6728,7 @@ One Wednesday night three students stay to work to present a circuit the next da
 
 
 
-<span class="atom-split" id="q111" data-atom="q111" data-title="Argent 1992 Locale — Quesito 111" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/inductor,object/capacitor"></span>
+<span class="atom-split" id="q111" data-atom="q111" data-title="Argentina 1992 Locale — Quesito 111" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/inductor,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6771,7 +6771,7 @@ In an R.L.C. circuit $R = 10\ \Omega$ $L = 5$ mHy and $C = 12.5\ \mu$F. Calculat
 
 
 
-<span class="atom-split" id="q112" data-atom="q112" data-title="Argent 1992 Locale — Quesito 112" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor,object/galvanometer"></span>
+<span class="atom-split" id="q112" data-atom="q112" data-title="Argentina 1992 Locale — Quesito 112" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor,object/galvanometer"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6823,7 +6823,7 @@ b) Applicare le formule precedenti al problema seguente: un galvanometro di resi
 
 
 
-<span class="atom-split" id="q113" data-atom="q113" data-title="Argent 1992 Locale — Quesito 113" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/magnetism,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/magnet,object/pendulum"></span>
+<span class="atom-split" id="q113" data-atom="q113" data-title="Argentina 1992 Locale — Quesito 113" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/magnetism,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/magnet,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6878,7 +6878,7 @@ You have two pendulums whose ends are two equal magnetic masses whose individual
 
 
 
-<span class="atom-split" id="q114" data-atom="q114" data-title="Argent 1992 Locale — Quesito 114" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono"></span>
+<span class="atom-split" id="q114" data-atom="q114" data-title="Argentina 1992 Locale — Quesito 114" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6930,7 +6930,7 @@ Indicate, justifying step by step, the trajectory of the light rays that allow y
 
 
 
-<span class="atom-split" id="q115" data-atom="q115" data-title="Argent 1992 Locale — Quesito 115" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/lens,object/screen"></span>
+<span class="atom-split" id="q115" data-atom="q115" data-title="Argentina 1992 Locale — Quesito 115" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/lens,object/screen"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -6979,7 +6979,7 @@ At the end of the work the contestant must hand in a brief report on what was do
 
 
 
-<span class="atom-split" id="q116" data-atom="q116" data-title="Argent 1992 Locale — Quesito 116" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/mirror"></span>
+<span class="atom-split" id="q116" data-atom="q116" data-title="Argentina 1992 Locale — Quesito 116" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/mirror"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7028,7 +7028,7 @@ A person of height h stands in front of a flat mirror placed vertically. What is
 
 
 
-<span class="atom-split" id="q117" data-atom="q117" data-title="Argent 1992 Locale — Quesito 117" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/lens,object/screen"></span>
+<span class="atom-split" id="q117" data-atom="q117" data-title="Argentina 1992 Locale — Quesito 117" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/lens,object/screen"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7089,7 +7089,7 @@ Tape measure
 
 
 
-<span class="atom-split" id="q118" data-atom="q118" data-title="Argent 1992 Locale — Quesito 118" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/4,multidisciplina/mono"></span>
+<span class="atom-split" id="q118" data-atom="q118" data-title="Argentina 1992 Locale — Quesito 118" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/4,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7138,7 +7138,7 @@ Given a glass set with a refractive index of 1.5 and water with a refractive ind
 
 
 
-<span class="atom-split" id="q119" data-atom="q119" data-title="Argent 1992 Locale — Quesito 119" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/mirror"></span>
+<span class="atom-split" id="q119" data-atom="q119" data-title="Argentina 1992 Locale — Quesito 119" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/mirror"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7196,7 +7196,7 @@ A concave spherical mirror has a radius $r = 30$ cm. The image of a 5 cm long pi
 
 
 
-<span class="atom-split" id="q120" data-atom="q120" data-title="Argent 1992 Locale — Quesito 120" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/prism"></span>
+<span class="atom-split" id="q120" data-atom="q120" data-title="Argentina 1992 Locale — Quesito 120" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/prism"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7260,7 +7260,7 @@ A beam of light normally hits the ab face of a lens lens lens with a refractive 
 
 
 
-<span class="atom-split" id="q121" data-atom="q121" data-title="Argent 1992 Locale — Quesito 121" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q121" data-atom="q121" data-title="Argentina 1992 Locale — Quesito 121" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7309,7 +7309,7 @@ With the supplied elements: parallel-faced sheet, telgopor sheet, sheet of paper
 
 
 
-<span class="atom-split" id="q122" data-atom="q122" data-title="Argent 1992 Locale — Quesito 122" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/mirror"></span>
+<span class="atom-split" id="q122" data-atom="q122" data-title="Argentina 1992 Locale — Quesito 122" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/mirror"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7367,7 +7367,7 @@ When the device is armed, an accidentally 0.4 cm fly is placed on the mirror axi
 
 
 
-<span class="atom-split" id="q123" data-atom="q123" data-title="Argent 1992 Locale — Quesito 123" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/4,multidisciplina/mono,object/lens,object/mirror,object/prism"></span>
+<span class="atom-split" id="q123" data-atom="q123" data-title="Argentina 1992 Locale — Quesito 123" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/4,multidisciplina/mono,object/lens,object/mirror,object/prism"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7437,7 +7437,7 @@ A parallel monochrome beam of light enters each of the boxes shown by the figure
 
 
 
-<span class="atom-split" id="q124" data-atom="q124" data-title="Argent 1992 Locale — Quesito 124" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/mirror"></span>
+<span class="atom-split" id="q124" data-atom="q124" data-title="Argentina 1992 Locale — Quesito 124" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/mirror"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7486,7 +7486,7 @@ What length must a flat mirror in vertical position have at least for a six-foot
 
 
 
-<span class="atom-split" id="q125" data-atom="q125" data-title="Argent 1992 Locale — Quesito 125" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/mirror,object/screen"></span>
+<span class="atom-split" id="q125" data-atom="q125" data-title="Argentina 1992 Locale — Quesito 125" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/mirror,object/screen"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7535,7 +7535,7 @@ A straight-line, vertical illuminated object is intended to have a real image 16
 
 
 
-<span class="atom-split" id="q126" data-atom="q126" data-title="Argent 1992 Locale — Quesito 126" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q126" data-atom="q126" data-title="Argentina 1992 Locale — Quesito 126" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7599,7 +7599,7 @@ Taking into account the figure draw the trajectory of the laser beam and calcula
 
 
 
-<span class="atom-split" id="q127" data-atom="q127" data-title="Argent 1992 Locale — Quesito 127" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/1,multidisciplina/mono,object/mirror"></span>
+<span class="atom-split" id="q127" data-atom="q127" data-title="Argentina 1992 Locale — Quesito 127" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/1,multidisciplina/mono,object/mirror"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7648,7 +7648,7 @@ Experimentally test the law of speculative reflection: "The angle of incidence i
 
 
 
-<span class="atom-split" id="q128" data-atom="q128" data-title="Argent 1992 Locale — Quesito 128" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/lens,object/screen"></span>
+<span class="atom-split" id="q128" data-atom="q128" data-title="Argentina 1992 Locale — Quesito 128" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/lens,object/screen"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7697,7 +7697,7 @@ Given two lenses, an unknown focal length convergent and a known focal length di
 
 
 
-<span class="atom-split" id="q129" data-atom="q129" data-title="Argent 1992 Locale — Quesito 129" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/prism"></span>
+<span class="atom-split" id="q129" data-atom="q129" data-title="Argentina 1992 Locale — Quesito 129" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/prism"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -7764,7 +7764,7 @@ Materials to be used:
 
 
 
-<span class="atom-split" id="q130" data-atom="q130" data-title="Argent 1992 Locale — Quesito 130" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/mono"></span>
+<span class="atom-split" id="q130" data-atom="q130" data-title="Argentina 1992 Locale — Quesito 130" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

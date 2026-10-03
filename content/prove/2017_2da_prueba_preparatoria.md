@@ -1,5 +1,5 @@
 ---
-title: Argent 2017
+title: Argentina 2017
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2017 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/tank-container"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2017 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -125,7 +125,7 @@ The mechanical equivalent of heat is: 4,186 J = 1 cal.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2017 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/resistor,object/switch"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2017 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/resistor,object/switch"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -228,7 +228,7 @@ The engine spins at one third of its maximum speed.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2017 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas,object/cylinder,object/tank-container"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2017 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas,object/cylinder,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

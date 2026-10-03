@@ -1,5 +1,5 @@
 ---
-title: Svizze 2011
+title: Svizzera 2011
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2011 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk,object/rod,object/rope-string"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Svizzera 2011 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk,object/rod,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -64,7 +64,7 @@ Regarding precision, you may decide whether to estimate the error, calculate it,
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2011 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Svizzera 2011 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -97,7 +97,7 @@ Confirm or refute this assertion experimentally.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2011 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Svizzera 2011 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

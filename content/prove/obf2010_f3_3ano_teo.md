@@ -1,5 +1,5 @@
 ---
-title: OBF 2010 ''
+title: OBF 2010
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2010 '' — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,object/planet"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2010 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,object/planet"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -61,7 +61,7 @@ Determine the value of the escape velocity to a body on the Earth's surface.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2010 '' — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,object/pendulum"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2010 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -125,7 +125,7 @@ When released, the mass $M$ starts the movement and collides with the mass $m$ (
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2010 '' — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,object/lens"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2010 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,object/lens"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -183,7 +183,7 @@ A traveling tourist bought a focal length $35\ \mathrm{mm}$ camera, which uses a
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2010 '' — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,object/heat-engine"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2010 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,object/heat-engine"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -247,7 +247,7 @@ A manufacturer of freezers indicates that a given model has an annual consumptio
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2010 '' — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,object/wire,object/block"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2010 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,object/wire,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -299,7 +299,7 @@ Knowing that the coefficient of linear copper dilation is $\alpha = 1{,}7\times1
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2010 '' — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,object/cart,object/spring"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2010 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,object/cart,object/spring"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -357,7 +357,7 @@ A mass cart $m$ with speed $v$ moves over a horizontal surface and collides with
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2010 '' — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,object/particle-beam,object/screen"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2010 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,object/particle-beam,object/screen"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -421,7 +421,7 @@ A beam of electrons (charge $e$, mass $m$) is generated from the heating of the 
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2010 '' — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,object/atom"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2010 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,object/atom"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

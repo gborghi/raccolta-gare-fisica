@@ -1,5 +1,5 @@
 ---
-title: Brasil 2006
+title: Brasile 2006
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/disk,object/rod"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/disk,object/rod"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -80,7 +80,7 @@ The first. (10)
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor,object/battery"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -136,7 +136,7 @@ April 16, 2015
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/coil,object/magnet"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/coil,object/magnet"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -248,7 +248,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of th
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/electron,object/nucleus,object/atom"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/electron,object/nucleus,object/atom"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

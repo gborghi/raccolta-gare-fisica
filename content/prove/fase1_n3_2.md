@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Gravitazione e Astrofisica
-title: Brasil 2025 — fase1_n3.pdf
+title: Brasile 2025 — fase1_n3.pdf
 ---
 
 

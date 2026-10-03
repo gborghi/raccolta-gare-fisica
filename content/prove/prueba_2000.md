@@ -1,5 +1,5 @@
 ---
-title: Argent 2000
+title: Argentina 2000
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2000 Nazionale — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/4,multidisciplina/multi,object/pendulum,object/rope-string"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2000 Nazionale — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/4,multidisciplina/multi,object/pendulum,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -109,7 +109,7 @@ NOTE: The tension on a string is the magnitude of the force FT applied at both e
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2000 Nazionale — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/multi,object/wire"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2000 Nazionale — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/multi,object/wire"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -210,7 +210,7 @@ Where ρ is the resistivity of the material.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2000 Nazionale — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2000 Nazionale — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -766,7 +766,7 @@ EXPERIMENTAL TEST
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2000 Nazionale — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/multi,object/pipe-tube,object/piston,object/tank-container"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina 2000 Nazionale — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/multi,object/pipe-tube,object/piston,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

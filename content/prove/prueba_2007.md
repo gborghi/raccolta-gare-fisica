@@ -1,5 +1,5 @@
 ---
-title: Argent 2007
+title: Argentina 2007
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2007 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/lens,object/sphere"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2007 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/lens,object/sphere"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -290,7 +290,7 @@ What fraction of the beam is lost, from the point of view of propagation inside 
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2007 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/galvanometer,object/resistor,object/battery,object/switch"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2007 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/galvanometer,object/resistor,object/battery,object/switch"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -525,7 +525,7 @@ We can consider the measurements of $R_X$ indistinguishable.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2007 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/atom,object/photon"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2007 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/atom,object/photon"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: Argent 2019
+title: Argentina 2019
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2019 Nazionale — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas,object/cylinder,object/piston,object/manometer"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2019 Nazionale — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas,object/cylinder,object/piston,object/manometer"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -248,7 +248,7 @@ Figure 3 is shown. Air density as a function of temperature for a pressure of 10
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2019 Nazionale — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas,object/cylinder,object/piston,object/manometer"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2019 Nazionale — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas,object/cylinder,object/piston,object/manometer"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -759,7 +759,7 @@ The sensor is connected to an Arduino board with its corresponding screen, which
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2019 Nazionale — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas,object/cylinder,object/piston,object/manometer"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2019 Nazionale — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas,object/cylinder,object/piston,object/manometer"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1051,7 +1051,7 @@ Figure 3 is shown. Air density as a function of temperature for a pressure of 10
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2019 Nazionale — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas,object/cylinder,object/piston,object/manometer"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina 2019 Nazionale — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas,object/cylinder,object/piston,object/manometer"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4056,7 +4056,7 @@ at a temperature of 26.7 º𝐶. One takes
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Argent 2019 Nazionale — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/pulley,object/rope-string"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Argentina 2019 Nazionale — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/pulley,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -4699,7 +4699,7 @@ Ftor = 2F
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Argent 2019 Nazionale — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi,object/calorimeter,object/cylinder"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Argentina 2019 Nazionale — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi,object/calorimeter,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -5309,7 +5309,7 @@ i) The wind speed (𝑉) is:
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Argent 2019 Nazionale — Quesito 7" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/battery,object/wire"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Argentina 2019 Nazionale — Quesito 7" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/battery,object/wire"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

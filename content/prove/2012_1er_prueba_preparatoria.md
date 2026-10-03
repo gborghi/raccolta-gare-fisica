@@ -1,5 +1,5 @@
 ---
-title: Argent 2012 ''
+title: Argentina 2012
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2012 '' — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2012 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -82,7 +82,7 @@ Resolve subparagraphs (b) and (c) graphically and analytically.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2012 '' — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2012 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -176,7 +176,7 @@ Figure 1 shows the motion function $x(t)$ of a mobile phone, which is in $x = 0\
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2012 '' — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,object/block,object/spring"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2012 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,object/block,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -300,7 +300,7 @@ A mass body $M$, initially resting at a height $H$, descends along the curved su
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2012 '' — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina 2012 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: Argent 1997
+title: Argentina 1997
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 1997 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/wheel"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 1997 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/wheel"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -149,7 +149,7 @@ the ant and the centre of the wheel, at each of the stages indicated above.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 1997 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/cylinder,object/piston,object/wheel,object/gas"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 1997 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/cylinder,object/piston,object/wheel,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -255,7 +255,7 @@ The water vaporization latent depending on temperature (Figures 3 and 4).
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 1997 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/lens,object/wire"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 1997 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/lens,object/wire"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

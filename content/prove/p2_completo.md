@@ -1,5 +1,5 @@
 ---
-title: Spagna na ''
+title: Spagna na
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna na '' — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/wire,object/battery,object/projectile"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna na — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/wire,object/battery,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

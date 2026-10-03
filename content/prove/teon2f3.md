@@ -1,5 +1,5 @@
 ---
-title: Brasil 2006
+title: Brasile 2006
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/pipe-tube,object/sphere"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/pipe-tube,object/sphere"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -68,7 +68,7 @@ High. Describe and justify the observed phenomenon.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/pulley,object/rope-string"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/pulley,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -153,7 +153,7 @@ High School
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/wedge"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/wedge"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -205,7 +205,7 @@ through nails. (If appropriate, use: $\tan(15^\circ)=0{,}27$; $\text{sen}(15^\ci
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -257,7 +257,7 @@ relative to its reference temperature?
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Brasil 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/prism"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Brasile 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/prism"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -306,7 +306,7 @@ parallel to the x-axis?
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Brasil 2006 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/projectile"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Brasile 2006 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/projectile"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -364,7 +364,7 @@ The mean time of the particle's trajectory is $t=t_s/2$ where $t_s$ is the momen
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Brasil 2006 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Brasile 2006 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -431,7 +431,7 @@ the expression at the limit where $l$ is much higher than $h$?
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Brasil 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/gas,object/cylinder,object/piston"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Brasile 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/gas,object/cylinder,object/piston"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -489,7 +489,7 @@ the state of balance. What mass of ice does this process melt?
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Brasil 2006 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/block"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Brasile 2006 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -535,7 +535,7 @@ the circular part of the track.
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Brasil 2006 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/wheel,object/rod"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Brasile 2006 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/wheel,object/rod"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -581,7 +581,7 @@ With a speed of $200\ \text{mm/s}$ to the right, what is the speed of the C-coll
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Brasil 2006 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/atom,object/magnetic-dipole"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Brasile 2006 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/atom,object/magnetic-dipole"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -636,7 +636,7 @@ Problem 11 – The paramagnetism of materials can be explained by the behavior o
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Brasil 2006 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/tank-container"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Brasile 2006 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

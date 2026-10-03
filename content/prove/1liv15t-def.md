@@ -94,7 +94,7 @@ Which of the following graphs best describes the relationship between the mass $
 *Five graphs of mass m vs distance r*
 <!--fig:end-->
 
-**Answer:** **A** ·
+**Answer:** **A** · [[1liv15S def|Soluzioni]]
 
 
 
@@ -1621,7 +1621,7 @@ Which of the following statements are true?
 ![[_attachments/1liv15T def/1liv15T def_p9_f11.png]]
 *Potential energy vs intermolecular distance r*
 <!--fig:end-->
-**Answer:** **D** ·
+**Answer:** **D** · [[1liv15S def|Soluzioni]]
 
 
 

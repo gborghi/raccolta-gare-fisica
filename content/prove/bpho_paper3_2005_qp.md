@@ -1,5 +1,5 @@
 ---
-title: BPhO 2005 ''
+title: BPhO 2005
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="BPhO 2005 '' — Quesito 1" data-tags="kg/prova,paese/UK,comp/BPhO,object/pendulum,object/gas"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="BPhO 2005 — Quesito 1" data-tags="kg/prova,paese/UK,comp/BPhO,object/pendulum,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -120,7 +120,7 @@ Un pallone di elio a pressione atmosferica può salire rapidamente ad una altezz
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="BPhO 2005 '' — Quesito 2" data-tags="kg/prova,paese/UK,comp/BPhO,object/ball,object/gas,object/piston,object/pipe-tube"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="BPhO 2005 — Quesito 2" data-tags="kg/prova,paese/UK,comp/BPhO,object/ball,object/gas,object/piston,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -187,7 +187,7 @@ La figura 2.3 mostra un diagramma semplificato dell'esperimento in cui la palla 
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2005 '' — Quesito 3" data-tags="kg/prova,paese/UK,comp/BPhO,object/spring,object/atom,object/particle-beam"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2005 — Quesito 3" data-tags="kg/prova,paese/UK,comp/BPhO,object/spring,object/atom,object/particle-beam"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -260,7 +260,7 @@ Supponiamo $v < c$, la velocità della luce nello spazio libero.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="BPhO 2005 '' — Quesito 4" data-tags="kg/prova,paese/UK,comp/BPhO,object/gas,object/star"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="BPhO 2005 — Quesito 4" data-tags="kg/prova,paese/UK,comp/BPhO,object/gas,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

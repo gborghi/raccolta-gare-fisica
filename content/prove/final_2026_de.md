@@ -1,5 +1,5 @@
 ---
-title: Svizze 2026
+title: Svizzera 2026
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2026 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Svizzera 2026 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -39,7 +39,7 @@ Sekunden anzeigen.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2026 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Svizzera 2026 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -76,7 +76,7 @@ Il punto 5 della lista è erläutert.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2026 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Svizzera 2026 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -105,7 +105,7 @@ Attiva i relativi canali facendo clic sul pulsante F o G nella Figura Ax1.2. Dov
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2026 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Svizzera 2026 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -134,7 +134,7 @@ an die Buchse EXT TRIG an.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2026 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Svizzera 2026 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -162,7 +162,7 @@ DC = Gleichstrom, auch Offset eingeschlossen).
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2026 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Svizzera 2026 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -219,7 +219,7 @@ La cornice di un canale di navigazione è un'area di navigazione che si sviluppa
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2026 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Svizzera 2026 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -240,7 +240,7 @@ La cornice di un canale di navigazione è un'area di navigazione che si sviluppa
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2026 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/wire,object/resistor"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Svizzera 2026 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/wire,object/resistor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -423,7 +423,7 @@ La riflessione scompare se la resistenza corrisponde all’impedenza del cavo
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2026 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Svizzera 2026 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -454,7 +454,7 @@ $$F > Mg - \mu_2 F \implies F > \frac{Mg}{1 + \mu_2} = \frac{4}{5}Mg.$$
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Svizze 2026 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string,object/spring,object/cylinder"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Svizzera 2026 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string,object/spring,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -625,7 +625,7 @@ Dividiamo il nostro processo in 3 fasi.
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Svizze 2026 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Svizzera 2026 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -652,7 +652,7 @@ Dividiamo il nostro processo in 3 fasi.
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Svizze 2026 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Svizzera 2026 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -679,7 +679,7 @@ Dividiamo il nostro processo in 3 fasi.
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Svizze 2026 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/slit"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Svizzera 2026 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/slit"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

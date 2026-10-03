@@ -1,5 +1,5 @@
 ---
-title: Brasil 2006
+title: Brasile 2006
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/sphere,object/pipe-tube"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/sphere,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

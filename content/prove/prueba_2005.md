@@ -1,5 +1,5 @@
 ---
-title: Argent 2005
+title: Argentina 2005
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2005 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/resistor,object/battery"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2005 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -168,7 +168,7 @@ in the circuits is \$0,20 per kW-hour.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2005 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/cylinder,object/gas"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2005 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/cylinder,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -319,7 +319,7 @@ can be assumed as $g = 10.0\ \text{m/s}^2$; the height of the bell is $D = 4.0$ 
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2005 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/wheel,object/pipe-tube"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2005 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/wheel,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

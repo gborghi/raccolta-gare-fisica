@@ -1,5 +1,5 @@
 ---
-title: Svizze 2024
+title: Svizzera 2024
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2024 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge,object/conducting-sphere"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Svizzera 2024 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge,object/conducting-sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -364,7 +364,7 @@ The egg is not very asymmetric, so $t = \frac{1}{2}$ is a good starting point, a
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2024 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge,object/manometer,object/gas"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Svizzera 2024 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge,object/manometer,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

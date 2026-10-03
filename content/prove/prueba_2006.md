@@ -1,5 +1,5 @@
 ---
-title: Argent 2006
+title: Argentina 2006
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2006 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,object/wedge,object/block"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2006 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,object/wedge,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -173,7 +173,7 @@ g) Calculate, in the coordinate system of item (b), the value of the kinetic ene
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2006 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,object/nucleus"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2006 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -312,7 +312,7 @@ Figure 2: Schematic of the position of the Co pump with respect to the area to b
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2006 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,object/resistor,object/battery,object/droplet"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2006 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,object/resistor,object/battery,object/droplet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: Brasil 2006
+title: Brasile 2006
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -62,7 +62,7 @@ a) $3{,}0\times10^5$ b) $2{,}4\times10^5$ c) $4{,}8\times10^5$ d) $2{,}0\times10
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -114,7 +114,7 @@ a) 60,0 b) 80,0 c) 48,0 d) 40,0 e) 50,0
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -166,7 +166,7 @@ a) 5,0 b) 10,0 c) 20,0 d) 1,0 e) 3,0
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -209,7 +209,7 @@ Please read the instructions below carefully:
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Brasil 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Brasile 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -248,7 +248,7 @@ Il programma di ricerca è stato sviluppato in modo da migliorare la qualità de
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Brasil 2006 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Brasile 2006 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -285,7 +285,7 @@ Il programma di ricerca è stato sviluppato in modo da migliorare la qualità de
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Brasil 2006 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Brasile 2006 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -331,7 +331,7 @@ Il programma di ricerca è stato sviluppato in modo da migliorare la qualità de
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Brasil 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Brasile 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -368,7 +368,7 @@ Il programma di ricerca è stato sviluppato in modo da migliorare la qualità de
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Brasil 2006 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Brasile 2006 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -405,7 +405,7 @@ Il programma di ricerca è stato sviluppato in modo da migliorare la qualità de
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Brasil 2006 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Brasile 2006 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -444,7 +444,7 @@ caderno.
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Brasil 2006 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Brasile 2006 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -490,7 +490,7 @@ At least 90 minutes.
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Brasil 2006 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/ball,object/pipe-tube,object/projectile,object/rope-string"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Brasile 2006 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/ball,object/pipe-tube,object/projectile,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -656,7 +656,7 @@ a) $2{,}5\ \text{m/s}^2$ b) $0{,}5\ \text{m/s}^2$ c) $1{,}0\ \text{m/s}^2$ d) $2
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Brasil 2006 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Brasile 2006 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -732,7 +732,7 @@ The minor.
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Brasil 2006 — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Brasile 2006 — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -789,7 +789,7 @@ e) The change in momentum of the driver is equal to the change in momentum of th
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Brasil 2006 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/rope-string"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Brasile 2006 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -853,7 +853,7 @@ When the motion is initiated, the kinetic energy of A is always equal to the kin
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Brasil 2006 — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/inclined-plane,object/block,object/spring,object/lens,object/prism"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Brasile 2006 — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/inclined-plane,object/block,object/spring,object/lens,object/prism"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

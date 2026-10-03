@@ -1,5 +1,5 @@
 ---
-title: Argent 2012 ''
+title: Argentina 2012
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2012 '' — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,object/battery,object/resistor"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2012 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,object/battery,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -61,7 +61,7 @@ Find the currents in the three branches of the circuit.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2012 '' — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,object/wire"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2012 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,object/wire"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -110,7 +110,7 @@ b) At what height above the lower wire would the second wire have to be extended
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2012 '' — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,object/electron,object/nucleus"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2012 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,object/electron,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -159,7 +159,7 @@ b) What is the equivalent magnetic dipole moment?
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2012 '' — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,object/coil,object/magnet,object/magnetic-dipole"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina 2012 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,object/coil,object/magnet,object/magnetic-dipole"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

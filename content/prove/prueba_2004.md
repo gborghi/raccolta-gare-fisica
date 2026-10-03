@@ -1,5 +1,5 @@
 ---
-title: Argent 2004
+title: Argentina 2004
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2004 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,object/sphere,object/disk,object/satellite"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2004 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,object/sphere,object/disk,object/satellite"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -224,7 +224,7 @@ The universal gravitational constant is $G = 6{,}67\times10^{-11}\ \text{m}^3/(\
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2004 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,object/pipe-tube,object/piston,object/gas,object/rod"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2004 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,object/pipe-tube,object/piston,object/gas,object/rod"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -366,7 +366,7 @@ $g = 9{,}8\ \text{m/s}^2$
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2004 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,object/battery,object/magnet,object/coil,object/tank-container"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2004 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,object/battery,object/magnet,object/coil,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

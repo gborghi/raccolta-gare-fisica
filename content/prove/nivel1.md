@@ -1,5 +1,5 @@
 ---
-title: Brasil 2006
+title: Brasile 2006
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -47,7 +47,7 @@ Problem 1. Students are working on a project involving a mobile robot whose posi
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/planet,object/star"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/planet,object/star"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -111,7 +111,7 @@ $d_{ST}$ distância média Sol-Terra e $d_{TL}$ distância média Terra-Lua.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -190,7 +190,7 @@ is it travelled in a shorter time interval than those found in the previous item
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/tank-container,object/resistor"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/tank-container,object/resistor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -245,7 +245,7 @@ The resistance is connected and the one where h reaches the lower level.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Brasil 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/projectile,object/tank-container"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Brasile 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/projectile,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -309,7 +309,7 @@ point B, what are the v and $\theta$ adjustments to make a player score a point?
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Brasil 2006 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/tank-container"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Brasile 2006 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -374,7 +374,7 @@ What are the amounts of heat exchanged between the freezer and (a) the water in 
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Brasil 2006 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Brasile 2006 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -420,7 +420,7 @@ swimming pool if tap and well water are used simultaneously?
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Brasil 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/inclined-plane"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Brasile 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

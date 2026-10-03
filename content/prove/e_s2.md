@@ -1,5 +1,5 @@
 ---
-title: Nordic na
+title: Nordic-Baltic na
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Nordic na — Quesito 1" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/spring"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Nordic-Baltic na — Quesito 1" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/spring"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -68,7 +68,7 @@ Le fibre in gomma elastica possono essere estese fino a lunghezze $l$, molto pi�
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Nordic na — Quesito 2" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/planet,object/star"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Nordic-Baltic na — Quesito 2" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/planet,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -121,7 +121,7 @@ Qual è il rapporto tra i raggi dei pianeti $k$ (2 punti)?
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Nordic na — Quesito 3" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/lens"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Nordic-Baltic na — Quesito 3" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/lens"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -178,7 +178,7 @@ Il fotografo vuole scattare una foto di un campo di fiori. Per ottenere un'immag
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Nordic na — Quesito 4" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Nordic-Baltic na — Quesito 4" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -219,7 +219,7 @@ Una piastra di vetro spessa è rivestita da un sottile film trasparente. Lo spet
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Nordic na — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/cylinder"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Nordic-Baltic na — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -272,7 +272,7 @@ Quali posizioni di equilibrio sono stabili e quali non? Motiva la tua risposta (
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Nordic na — Quesito 6" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/magnet,object/sphere"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Nordic-Baltic na — Quesito 6" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/magnet,object/sphere"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -333,7 +333,7 @@ Qual è il magnete più difficile da togliere? Motiva la tua risposta (1 Pt).
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Nordic na — Quesito 7" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/pipe-tube,object/gas"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Nordic-Baltic na — Quesito 7" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/pipe-tube,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -394,7 +394,7 @@ Considerate un sistema di raffreddamento passivo raffigurato nella figura. L'ari
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Nordic na — Quesito 8" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/wire"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Nordic-Baltic na — Quesito 8" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -557,7 +557,7 @@ Si consideri un circuito rettangolare di filo con dimensioni $a = 0.03$ m e $b =
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Nordic na — Quesito 9" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/capacitor,object/resistor,object/battery,object/wire"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Nordic-Baltic na — Quesito 9" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/capacitor,object/resistor,object/battery,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

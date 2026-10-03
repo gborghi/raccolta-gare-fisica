@@ -1,5 +1,5 @@
 ---
-title: OBF 2011 ''
+title: OBF 2011
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2011 '' — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2011 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -46,7 +46,7 @@ tags:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2011 '' — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,object/spring"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2011 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,object/spring"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -98,7 +98,7 @@ tags:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2011 '' — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,object/spring"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2011 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,object/spring"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -135,7 +135,7 @@ What is the frequency of oscillation of the system? The result shall be expresse
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2011 '' — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,object/spring"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2011 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,object/spring"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -187,7 +187,7 @@ Context of Questions 5 and 6: Two runners are competing in an athletics event on
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2011 '' — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2011 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -224,7 +224,7 @@ Corridor 1 is in a uniformly accelerated retrograde motion. Determine its accele
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2011 '' — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2011 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -261,7 +261,7 @@ What is the speed of corridor 2 when corridor 1 passes it?
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2011 '' — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,object/planet"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2011 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,object/planet"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -298,7 +298,7 @@ What is the relative variation in the acceleration of gravity between the Earth'
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2011 '' — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,object/sphere"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2011 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,object/sphere"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -350,7 +350,7 @@ Two dielectric spheres of radius $R$, one positively charged with charge $+Q$ an
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2011 '' — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF,object/tank-container"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2011 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -399,7 +399,7 @@ b) La potenza media che Ana emette durante il salto totale della barca.
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="OBF 2011 '' — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/OBF,object/gas"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="OBF 2011 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/OBF,object/gas"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -442,7 +442,7 @@ b) La potenza media che Ana emette durante il salto totale della barca.
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2011 '' — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF,object/mirror"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2011 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF,object/mirror"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -479,7 +479,7 @@ An object is placed at a distance $p = 25\,\text{cm}$ from a concave mirror of f
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="OBF 2011 '' — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/OBF,object/bubble,object/gas"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="OBF 2011 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/OBF,object/bubble,object/gas"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -516,7 +516,7 @@ A gas bubble initially with internal pressure $P_0$ and volume $V_0$ is kept in 
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="OBF 2011 '' — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/OBF,object/point-charge"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="OBF 2011 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/OBF,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -571,7 +571,7 @@ Disregard the radiative effects due to the acceleration of loads $+q$.
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="OBF 2011 '' — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/OBF,object/planet"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="OBF 2011 — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/OBF,object/planet"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -614,7 +614,7 @@ $$\left(\sin 60^\circ = \cos 30^\circ = \frac{\sqrt{3}}{2}\right)$$
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="OBF 2011 '' — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/OBF,object/projectile"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="OBF 2011 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/OBF,object/projectile"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -651,7 +651,7 @@ A particle is launched at a speed $v_0$ from the top of a mountain of height $H$
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="OBF 2011 '' — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/OBF,object/resistor,object/capacitor,object/battery"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="OBF 2011 — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/OBF,object/resistor,object/capacitor,object/battery"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

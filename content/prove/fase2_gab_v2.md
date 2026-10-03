@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Meccanica
-title: Brasil 2023 — fase2_gab_v2.pdf
+title: Brasile 2023 — fase2_gab_v2.pdf
 ---
 
 

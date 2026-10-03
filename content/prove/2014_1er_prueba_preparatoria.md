@@ -1,5 +1,5 @@
 ---
-title: Argent 2014 ''
+title: Argentina 2014
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2014 '' — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,object/pulley,object/rope-string,object/spring,object/block"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2014 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,object/pulley,object/rope-string,object/spring,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -133,7 +133,7 @@ In the previous situation (mass pulleys $M = 2\ \text{kg}$), the rope holding th
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2014 '' — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,object/rod,object/lever"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2014 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,object/rod,object/lever"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -209,7 +209,7 @@ $$F_x = \frac{1}{x}\left[(m_c + m_b)\,g\,L_1 - \frac{1}{2}\,m_b\,g\,L\right]$$
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2014 '' — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,object/inclined-plane,object/projectile"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2014 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,object/inclined-plane,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -285,7 +285,7 @@ A point particle of mass $m_1$ falls down a ramp from a height $h$ and impacts a
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2014 '' — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,object/beam,object/rope-string"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina 2014 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,object/beam,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: OBF 2006 ''
+title: OBF 2006
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2006 '' — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,object/lever"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,object/lever"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

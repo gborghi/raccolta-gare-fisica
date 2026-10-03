@@ -1,5 +1,5 @@
 ---
-title: Svizze 2026
+title: Svizzera 2026
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2026 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Svizzera 2026 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -48,7 +48,7 @@ Estimate how many liters of water fall annually from the Rhine Falls.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2026 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Svizzera 2026 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -83,7 +83,7 @@ Three celestial objects approximated as point masses with masses $m_1$, $m_2$, a
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2026 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Svizzera 2026 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -118,7 +118,7 @@ Two semi-transparent mirrors, each reflecting 75% of the incident light, are pla
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2026 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Svizzera 2026 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -161,7 +161,7 @@ A particle moves randomly among three positions A, B, and C. From one time step 
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2026 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Svizzera 2026 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -196,7 +196,7 @@ A washing machine spins at 1500 revolutions per minute. Immediately after being 
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2026 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pendulum"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Svizzera 2026 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -229,7 +229,7 @@ A pendulum is suspended from the ceiling of an elevator. When the elevator begin
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2026 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Svizzera 2026 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -280,7 +280,7 @@ Which of these data does the power meter use to calculate Remco's power?
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2026 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/beam,object/lever"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Svizzera 2026 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/beam,object/lever"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -323,7 +323,7 @@ Look at the beam balance shown below. What does the balance indicate when the we
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2026 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Svizzera 2026 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -360,7 +360,7 @@ Alice climbs up and descends from Mont Blanc, ascending $h = 4806$ m above sea l
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Svizze 2026 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/atom,object/electron"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Svizzera 2026 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/atom,object/electron"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -395,7 +395,7 @@ When an electron in an excited atom transitions from a higher energy level to a 
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Svizze 2026 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Svizzera 2026 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -436,7 +436,7 @@ Why does the sky appear blue during the day?
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Svizze 2026 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Svizzera 2026 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -469,7 +469,7 @@ An ice glacier moves at constant velocity along its base. Consider a rectangular
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Svizze 2026 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Svizzera 2026 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -514,7 +514,7 @@ Do you remember my leftovers from the first round? It doesn't matter if you don�
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Svizze 2026 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Svizzera 2026 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -553,7 +553,7 @@ $$U(T) = 3N\hbar\omega_E \left(\frac{1}{2} + \frac{1}{\exp\!\left(\dfrac{\hbar\o
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Svizze 2026 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/wire"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Svizzera 2026 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/wire"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -588,7 +588,7 @@ What current will flow through an overhead power line if a voltage of 100 kV is 
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Svizze 2026 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Svizzera 2026 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -633,7 +633,7 @@ Which force acts on charge $Q$ when one of the charges $q$ is removed from the f
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Svizze 2026 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge,object/capacitor"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Svizzera 2026 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -670,7 +670,7 @@ A particle with mass $m = 3 \times 10^{-15}\,\text{kg}$ and charge $q = e$ enter
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Svizze 2026 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Svizzera 2026 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -719,7 +719,7 @@ III: A higher electric potential means a stronger electric field.
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Svizze 2026 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Svizzera 2026 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -756,7 +756,7 @@ A charged particle with mass $m$ and charge $q$ moves along a circular path of r
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Svizze 2026 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pulley,object/rope-string"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Svizzera 2026 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pulley,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -794,7 +794,7 @@ In the adventure park, Emmy runs from one tree to another on a zip line. The con
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Svizze 2026 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pipe-tube"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Svizzera 2026 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -829,7 +829,7 @@ Three consecutive resonant frequencies of a pipe are 1310 Hz, 1834 Hz, and 2358 
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Svizze 2026 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pendulum,object/rod"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Svizzera 2026 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pendulum,object/rod"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -868,7 +868,7 @@ Given an ideal string pendulum and a uniform rod hinged to rotate at one end. Bo
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Svizze 2026 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk,object/droplet"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Svizzera 2026 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk,object/droplet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -973,7 +973,7 @@ i. (1.5 pt) Calculate how far from the umbrella the water splashes when it rotat
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Svizze 2026 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Svizzera 2026 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1080,7 +1080,7 @@ iv. (1.5 pt) Qualitatively sketch the temperature $T(y)$ as a function of height
 
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="Svizze 2026 — Quesito 25" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/magnetic-dipole"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Svizzera 2026 — Quesito 25" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/magnetic-dipole"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

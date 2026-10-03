@@ -1,5 +1,5 @@
 ---
-title: Argent 1991
+title: Argentina 1991
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 1991 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/projectile"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 1991 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -110,7 +110,7 @@ Basically his answer.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 1991 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/pendulum,object/sphere"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 1991 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/pendulum,object/sphere"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -186,7 +186,7 @@ Explain each of your hypotheses.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 1991 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas,object/cylinder,object/piston,object/prism"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 1991 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas,object/cylinder,object/piston,object/prism"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

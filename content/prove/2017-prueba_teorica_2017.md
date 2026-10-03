@@ -1,5 +1,5 @@
 ---
-title: Spagna 2017 ''
+title: Spagna 2017
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna 2017 '' — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/planet,object/star,object/satellite"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna 2017 — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/planet,object/star,object/satellite"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -190,7 +190,7 @@ And to finish, we'll add a little bit of fantasy and imagination. An NBA player 
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna 2017 '' — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/planet"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna 2017 — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/planet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -320,7 +320,7 @@ $$\vec{g}(\vec{r}) = \begin{cases} -G\,\dfrac{m_c}{r^2}\,\hat{r} & \text{si } r 
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna 2017 '' — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/capacitor,object/lever,object/switch"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna 2017 — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/capacitor,object/lever,object/switch"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

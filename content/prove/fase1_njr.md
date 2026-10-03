@@ -1,5 +1,5 @@
 ---
-title: Brasil 2025
+title: Brasile 2025
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Brasil 2025 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brasile 2025 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -83,7 +83,7 @@ the shortest possible journey time, in minutes.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Brasil 2025 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brasile 2025 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -156,7 +156,7 @@ Which of these explanations are physically correct?
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2025 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/block,object/inclined-plane"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brasile 2025 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/block,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -211,7 +211,7 @@ the forces applied on the block shall be:
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2025 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/lever"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brasile 2025 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/lever"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -293,7 +293,7 @@ and the force exerted by the rod on the centre of the axle are respectively:
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Brasil 2025 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Brasile 2025 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -366,7 +366,7 @@ respectively:
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Brasil 2025 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/satellite,object/planet"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Brasile 2025 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/satellite,object/planet"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -438,7 +438,7 @@ The true statements are:
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Brasil 2025 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/droplet"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Brasile 2025 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/droplet"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -511,7 +511,7 @@ ice cream that was ingested.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Brasil 2025 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Brasile 2025 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -592,7 +592,7 @@ Which of the following statements are correct?
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Brasil 2025 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/planet,object/star"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Brasile 2025 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/planet,object/star"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -653,7 +653,7 @@ consecutive would be approximately:
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Brasil 2025 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Brasile 2025 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -717,7 +717,7 @@ less:
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Brasil 2025 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/cart"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Brasile 2025 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/cart"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -790,7 +790,7 @@ The average speed (average scale speed) of the cart between the moments ti = 0 a
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Brasil 2025 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/droplet"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Brasile 2025 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/droplet"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -872,7 +872,7 @@ Only the following statements are true:
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Brasil 2025 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Brasile 2025 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -951,7 +951,7 @@ Which of the following statements are true?
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Brasil 2025 — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Brasile 2025 — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1029,7 +1029,7 @@ The changes that can be perceived by the student through the inclination of the 
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Brasil 2025 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Brasile 2025 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1126,7 +1126,7 @@ used to unbalance the domino in the front, and so on.
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Brasil 2025 — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Brasile 2025 — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1196,7 +1196,7 @@ the replacement of fuel burning.
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Brasil 2025 — Quesito 17" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/pendulum"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Brasile 2025 — Quesito 17" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1275,7 +1275,7 @@ Which of these statements are physically correct?
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Brasil 2025 — Quesito 18" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/rope-string,object/pulley"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Brasile 2025 — Quesito 18" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/rope-string,object/pulley"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1352,7 +1352,7 @@ The physically correct explanations are:
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Brasil 2025 — Quesito 19" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/droplet"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Brasile 2025 — Quesito 19" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica,object/droplet"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1413,7 +1413,7 @@ in the air, which, like the clouds in the sky, are visible to the naked eye.
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Brasil 2025 — Quesito 20" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Brasile 2025 — Quesito 20" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Meccanica
-title: Brasil 2025 — fase1_n2.pdf
+title: Brasile 2025 — fase1_n2.pdf
 ---
 
 

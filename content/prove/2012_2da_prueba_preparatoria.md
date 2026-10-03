@@ -1,5 +1,5 @@
 ---
-title: Argent 2012 ''
+title: Argentina 2012
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2012 '' — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,object/droplet"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2012 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,object/droplet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -64,7 +64,7 @@ One of the first estimates of Avogadro's number was made by Lord Rayleigh in 189
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2012 '' — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2012 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -152,7 +152,7 @@ where ${}^\circ\text{C}$ represents the scale of degrees Celsius, ${}^\circ\text
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2012 '' — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,object/calorimeter,object/tank-container"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2012 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,object/calorimeter,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -207,7 +207,7 @@ The heat of the ice melting $\lambda_\text{hielo} = 80\ \text{cal/g}$; specific 
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2012 '' — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas,object/tank-container,object/pipe-tube"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina 2012 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas,object/tank-container,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: Argent 1996
+title: Argentina 1996
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 1996 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/inclined-plane"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 1996 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -92,7 +92,7 @@ Note: Take the acceleration due to gravity, $g$, to be equal to $9{,}8\ \text{m/
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 1996 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas,object/cylinder,object/piston"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 1996 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas,object/cylinder,object/piston"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -354,7 +354,7 @@ $P_a = 1{,}033\ \vec{\text{kg}}/\text{cm}^2 = 1033$ Hpa
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 1996 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/solenoid,object/resistor,object/wire,object/sphere"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 1996 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/solenoid,object/resistor,object/wire,object/sphere"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: Argent 2015
+title: Argentina 2015
 tipo: prova
 tags:
   - kg/prova
@@ -12,7 +12,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argent 2015 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,object/projectile"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina 2015 — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -262,7 +262,7 @@ $$[0;\, 6128.571]\ \text{m}$$
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2015 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,object/block,object/rope-string,object/pulley,object/inclined-plane"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina 2015 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,object/block,object/rope-string,object/pulley,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -478,7 +478,7 @@ $$\mu_d= \frac{F_R}{N}= \frac{T-m_2(a+ g\sin 30)}{m_2g\cos 30}= \frac{1}{\sqrt{3
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2015 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,object/block,object/spring"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina 2015 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,object/block,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

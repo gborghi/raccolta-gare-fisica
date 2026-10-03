@@ -12,7 +12,7 @@ tags:
   - kg/prova
 fuori_corpus: 'true'
 fuori_corpus_motivo: non-fisica (biologia)
-title: India 2024 '' — INBO2024-Question-en.pdf
+title: India 2024 — INBO2024-Question-en.pdf
 ---
 
 

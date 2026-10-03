@@ -1,5 +1,5 @@
 ---
-title: Nordic 2014
+title: Nordic-Baltic 2014
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Nordic 2014 — Quesito 1" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/battery,object/inductor,object/capacitor,object/resistor,object/switch"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Nordic-Baltic 2014 — Quesito 1" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/battery,object/inductor,object/capacitor,object/resistor,object/switch"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -114,7 +114,7 @@ variazioni della resistenza.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Nordic 2014 — Quesito 2" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/satellite,object/star,object/planet"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Nordic-Baltic 2014 — Quesito 2" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/satellite,object/star,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -213,7 +213,7 @@ che il raggio della Terra?
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Nordic 2014 — Quesito 3" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/magnet,object/pendulum"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Nordic-Baltic 2014 — Quesito 3" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/magnet,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -260,7 +260,7 @@ trovare il valore dell'esponente n.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Nordic 2014 — Quesito 4" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/ball"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Nordic-Baltic 2014 — Quesito 4" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -325,7 +325,7 @@ $a_{k+1} = a_k\alpha+\beta$ ha un termine generale $a_n = \alpha^n + \beta\dfrac
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Nordic 2014 — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/resistor,object/battery"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Nordic-Baltic 2014 — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -400,7 +400,7 @@ Olimpiada estone-finlandese 2014
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Nordic 2014 — Quesito 6" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Nordic-Baltic 2014 — Quesito 6" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -451,7 +451,7 @@ La velocità è anche $v = 5\ \text{m/s}$?
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Nordic 2014 — Quesito 7" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/magnetic-dipole"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Nordic-Baltic 2014 — Quesito 7" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/magnetic-dipole"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -510,7 +510,7 @@ C del sistema di spin.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Nordic 2014 — Quesito 8" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/mirror,object/screen"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Nordic-Baltic 2014 — Quesito 8" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/mirror,object/screen"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -581,7 +581,7 @@ intorno alla fonte di punto. Quanti massimi di interferenza possono essere osser
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Nordic 2014 — Quesito 9" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/gas"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Nordic-Baltic 2014 — Quesito 9" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -704,7 +704,7 @@ l'atmosfera che circonda il cubo.
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Nordic 2014 — Quesito 10" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/rope-string,object/screen"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Nordic-Baltic 2014 — Quesito 10" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/rope-string,object/screen"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

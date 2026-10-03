@@ -17,6 +17,12 @@ import {
   resolveField,
   foldText,
   highlightTerms,
+  formatResultCount,
+  interfaceLang,
+  previewTargetOf,
+  isolateAtom,
+  showResultCount,
+  type AtomEl,
 } from "./searchBoolean"
 
 // Tiny fake engine with the same semantics as the plain FlexSearch query used by the
@@ -374,5 +380,201 @@ describe("v3: multi-word operands, stopwords, highlight", () => {
     assert.deepStrictEqual([...ids].sort(), [0, 1, 2])
     assert.ok(asked.includes("quantità moto"))
     assert.ok(!asked.some((a) => a.split(" ").includes("di")))
+  })
+})
+
+// ---------------------------------------------------------------------------
+// v4: result count + atom-scoped preview
+// ---------------------------------------------------------------------------
+
+// Minimal DOM stand-in (tests run in plain Node): enough for isolateAtom().
+class FakeEl implements AtomEl {
+  parentElement: FakeEl | null = null
+  kids: FakeEl[] = []
+  attrs: Record<string, string> = {}
+  constructor(
+    public tag: string,
+    attrs: Record<string, string> = {},
+    public text = "",
+    kids: FakeEl[] = [],
+  ) {
+    Object.assign(this.attrs, attrs)
+    for (const k of kids) this.append(k)
+  }
+  append(k: FakeEl) {
+    k.parentElement = this
+    this.kids.push(k)
+    return this
+  }
+  get children() {
+    return this.kids
+  }
+  get classList() {
+    const cls = (this.attrs["class"] || "").split(/\s+/)
+    return { contains: (c: string) => cls.includes(c) }
+  }
+  getAttribute(n: string) {
+    return n in this.attrs ? this.attrs[n]! : null
+  }
+  querySelectorAll(sel: string): FakeEl[] {
+    assert.strictEqual(sel, ".atom-split") // the only selector isolateAtom uses
+    const out: FakeEl[] = []
+    const walk = (e: FakeEl) => {
+      for (const k of e.kids) {
+        if (k.classList.contains("atom-split")) out.push(k)
+        walk(k)
+      }
+    }
+    walk(this)
+    return out
+  }
+  remove() {
+    if (!this.parentElement) return
+    const sib = this.parentElement.kids
+    sib.splice(sib.indexOf(this), 1)
+    this.parentElement = null
+  }
+  get textContent(): string {
+    return this.text + this.kids.map((k) => k.textContent).join(" ")
+  }
+}
+
+const marker = (id: string) =>
+  new FakeEl("p", {}, "", [new FakeEl("span", { class: "atom-split", id, "data-atom": id })])
+const para = (t: string) => new FakeEl("p", {}, t)
+
+/** A reader page (popover-hint) like Quesiti/src_archimede_2019_2livello: atoms back to back. */
+function readerPage(): FakeEl {
+  return new FakeEl("div", { class: "popover-hint" }, "", [
+    new FakeEl("div", { class: "markdown-preview-view" }, "", [
+      new FakeEl("div", { class: "atom-reader" }),
+      marker("q01"),
+      para("Triangolo isoscele, bisettrice e cerchio per punto medio"),
+      para("Luigi ha disegnato sul proprio quaderno un triangolo isoscele ABC"),
+      marker("q02"),
+      para("Numeri con 4 divisori e somma divisori 42"),
+      para("Alessandra scrive sul quaderno tutti i numeri naturali n"),
+      marker("q03"),
+      para("Calzini nel cassetto"),
+    ]),
+  ])
+}
+
+describe("v4: visible result count", () => {
+  test("Italian / English labels, singular, thousands", () => {
+    assert.strictEqual(formatResultCount(0), "0 risultati")
+    assert.strictEqual(formatResultCount(1), "1 risultato")
+    assert.strictEqual(formatResultCount(248), "248 risultati")
+    assert.strictEqual(formatResultCount(1, { lang: "en" }), "1 result")
+    assert.strictEqual(formatResultCount(17800, { lang: "en" }), "17,800 results")
+    assert.strictEqual(formatResultCount(17800), "17.800 risultati")
+  })
+  test("truncated (mobile) index: 'almeno N' / 'at least N', never 'almeno 0'", () => {
+    assert.strictEqual(formatResultCount(293, { capped: true }), "almeno 293 risultati")
+    assert.strictEqual(formatResultCount(293, { lang: "en", capped: true }), "at least 293 results")
+    assert.strictEqual(formatResultCount(0, { capped: true }), "0 risultati")
+  })
+  test("interface language comes from <html lang>", () => {
+    assert.strictEqual(interfaceLang("en"), "en")
+    assert.strictEqual(interfaceLang("en-GB"), "en")
+    assert.strictEqual(interfaceLang("it"), "it")
+    assert.strictEqual(interfaceLang(""), "it")
+    assert.strictEqual(interfaceLang(), "it") // no document in Node -> Italian default
+  })
+  test("count element: data-search-count holds the number, only once known", () => {
+    const attrs: Record<string, string> = {}
+    const el = {
+      textContent: "",
+      hidden: true,
+      setAttribute: (k: string, v: string) => void (attrs[k] = v),
+      removeAttribute: (k: string) => void delete attrs[k],
+    } as unknown as HTMLElement
+    showResultCount(el, null, '"triangolo isoscele"', { loading: true })
+    assert.strictEqual(attrs["data-search-count"], undefined)
+    assert.strictEqual(attrs["data-search-state"], "loading")
+    assert.strictEqual(el.hidden, false)
+    showResultCount(el, 248, '"triangolo isoscele"')
+    assert.strictEqual(attrs["data-search-count"], "248")
+    assert.strictEqual(attrs["data-search-query"], '"triangolo isoscele"')
+    assert.strictEqual(attrs["data-search-capped"], undefined)
+    assert.strictEqual(el.textContent, "248 risultati")
+    showResultCount(el, 293, "urto", { capped: true })
+    assert.strictEqual(attrs["data-search-count"], "293")
+    assert.strictEqual(attrs["data-search-capped"], "1")
+    assert.strictEqual(el.textContent, "almeno 293 risultati")
+    showResultCount(el, null, "")
+    assert.strictEqual(attrs["data-search-count"], undefined)
+    assert.strictEqual(el.hidden, true)
+  })
+})
+
+describe("v4: preview of a per-quesito hit shows that quesito", () => {
+  test("preview target: index key (mate) or clean slug + href fragment (fisica)", () => {
+    assert.deepStrictEqual(previewTargetOf("Quesiti/src_x#q12", "/raccolta-gare-mate/Quesiti/src_x#q12"), {
+      page: "Quesiti/src_x",
+      frag: "q12",
+    })
+    assert.deepStrictEqual(previewTargetOf("prove/itath2", "/raccolta-gare-fisica/prove/itath2#q06"), {
+      page: "prove/itath2",
+      frag: "q06",
+    })
+    assert.deepStrictEqual(previewTargetOf("Quesiti/src_x", "/raccolta-gare-mate/Quesiti/src_x"), {
+      page: "Quesiti/src_x",
+      frag: "",
+    })
+  })
+  test("isolateAtom keeps only the atom's blocks (marker .. next marker)", () => {
+    const page = readerPage()
+    assert.ok(isolateAtom(page, "q02"))
+    const t = page.textContent
+    assert.ok(t.includes("Numeri con 4 divisori"))
+    assert.ok(!t.includes("triangolo isoscele"))
+    assert.ok(!t.includes("Calzini"))
+    const last = readerPage()
+    assert.ok(isolateAtom(last, "q03"))
+    assert.ok(last.textContent.includes("Calzini") && !last.textContent.includes("divisori"))
+  })
+  test("unknown atom / block without markers: left untouched", () => {
+    const page = readerPage()
+    const before = page.textContent
+    assert.strictEqual(isolateAtom(page, "q99"), false)
+    assert.strictEqual(isolateAtom(page, ""), false)
+    assert.strictEqual(page.textContent, before)
+    const header = new FakeEl("div", { class: "popover-hint" }, "", [para("Archimede 2019")])
+    assert.strictEqual(isolateAtom(header, "q01"), false)
+    assert.strictEqual(header.textContent.trim(), "Archimede 2019")
+  })
+  test('"triangolo isoscele": every hit previews text containing the phrase (not «Numeri con 4 divisori»)', async () => {
+    // index entries like the site's: one gara page + one entry per quesito ("page#qNN")
+    const ENTRIES: { key: string; text: string; frag?: boolean }[] = [
+      { key: "Quesiti/gara2019", text: "Archimede 2019 Triangolo isoscele, bisettrice e cerchio Numeri con 4 divisori" },
+      { key: "Quesiti/gara2019#q02", text: "Numeri con 4 divisori e somma divisori 42 triangolo", frag: true },
+      { key: "Quesiti/gara2019#q01", text: "Triangolo isoscele, bisettrice e cerchio per punto medio", frag: true },
+    ]
+    const c: EvalContext = {
+      async searchTerms(text) {
+        const ws = text.toLowerCase().split(/\s+/).filter(Boolean)
+        return ENTRIES.map((e, id) => ({ id, toks: e.text.toLowerCase().split(/[\s,]+/) }))
+          .filter(({ toks }) => ws.every((w) => toks.some((t) => t.startsWith(w))))
+          .map(({ id }) => id)
+      },
+      textOf: (id) => ENTRIES[id]!.text,
+      allIds: () => ENTRIES.map((_, i) => i),
+      isKeywordEntry: (id) => !!ENTRIES[id]!.frag,
+    }
+    const plan = planQuery('"triangolo isoscele"') as any
+    assert.strictEqual(plan.mode, "boolean")
+    const ids = await evaluateBoolean(plan.ast, c)
+    assert.ok(!ids.includes(1), "q02 (no isoscele) is not a phrase hit")
+    assert.deepStrictEqual(new Set(ids), new Set([0, 2]))
+    for (const id of ids) {
+      const key = ENTRIES[id]!.key
+      const target = previewTargetOf(key, "/raccolta-gare-mate/" + key)
+      const page = readerPage()
+      if (target.frag) assert.ok(isolateAtom(page, target.frag))
+      const shown = page.textContent.toLowerCase()
+      assert.ok(shown.includes("triangolo isoscele"), `${key}: preview must contain the phrase`)
+      if (target.frag) assert.ok(!shown.includes("numeri con 4 divisori"), `${key}: no other quesito`)
+    }
   })
 })

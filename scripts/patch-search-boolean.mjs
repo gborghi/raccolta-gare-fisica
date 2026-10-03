@@ -17,6 +17,13 @@
 //      scripts/make-search-meta.mjs) and cross-language synonym expansion
 //      (static/sinonimi.json); plain queries append synonym-only hits AFTER the
 //      original results.
+//      v4: visible result count (".rgf-search-count[data-search-count]", the full total,
+//      not just the 8 shown; "almeno N" on the truncated mobile index); the side preview
+//      of a per-quesito hit shows THAT quesito (atom), not the whole gara page scrolled to
+//      the first match; stale async results can no longer overwrite newer ones; the
+//      search UI is wired before the index loads (typing waits for it) and
+//      <html data-search-ready="1"> is set once the index is ready; the index is filled
+//      with chunked synchronous adds (faster than one addAsync per document).
 //   3. if this repo has NO scripts/rebuild-forks.mjs (which recompiles patched forks),
 //      recompiles the search fork itself (`npm run build` -> dist/), because
 //      `npx quartz build` imports the fork's pre-compiled dist/, not src/.
@@ -35,8 +42,8 @@ const FORK = path.join(REPO, ".quartz/plugins/search")
 const TARGET = path.join(FORK, "src/components/scripts/search.inline.ts")
 const MODULE_SRC = path.join(REPO, "quartz/components/scripts/searchBoolean.ts")
 const MODULE_DST = path.join(FORK, "src/components/scripts/rgfBoolean.ts")
-const SENTINEL = "/* rgf-boolean-patch v3 */"
-const OLD_SENTINELS = ["/* rgf-boolean-patch */", "/* rgf-boolean-patch v2 */"]
+const SENTINEL = "/* rgf-boolean-patch v4 */"
+const OLD_SENTINELS = ["/* rgf-boolean-patch */", "/* rgf-boolean-patch v2 */", "/* rgf-boolean-patch v3 */"]
 
 const EDITS = [
   {
@@ -54,6 +61,10 @@ import {
   loadSynonyms as rgfLoadSynonyms,
   loadSearchMeta as rgfLoadMeta,
   sitePrefix as rgfSitePrefix,
+  mountResultCount as rgfMountCount,
+  showResultCount as rgfShowCount,
+  previewTargetOf as rgfPreviewTarget,
+  isolateAtom as rgfIsolateAtom,
 } from "./rgfBoolean";
 ${SENTINEL}`,
   },
@@ -62,7 +73,207 @@ ${SENTINEL}`,
     anchor: `searchSpace.insertBefore(ghostText, searchBar.nextSibling);`,
     replacement: `searchSpace.insertBefore(ghostText, searchBar.nextSibling);
     rgfMountHelp(searchSpace, searchBar);
+    const rgfCountEl = rgfMountCount(searchSpace, searchBar);
     void rgfLoadSynonyms(rgfSitePrefix());`,
+  },
+  {
+    name: "onType: sequence number (stale async results are dropped)",
+    anchor: `    const onType = async (e: Event) => {
+      const inputValue = (e.target as HTMLInputElement).value;
+      currentSearchTerm = inputValue;
+`,
+    replacement: `    const onType = async (e: Event) => {
+      const inputValue = (e.target as HTMLInputElement).value;
+      currentSearchTerm = inputValue;
+      const rgfSeq = ++rgfTypeSeq;
+`,
+  },
+  {
+    name: "onType: empty query clears the count; wait for the index (UI is live before it)",
+    anchor: `      if (!hasContent) {
+        removeAllChildren(results);
+        if (preview) removeAllChildren(preview);
+        currentHover = null;
+        return;
+      }
+`,
+    replacement: `      if (!hasContent) {
+        removeAllChildren(results);
+        if (preview) removeAllChildren(preview);
+        currentHover = null;
+        rgfShowCount(rgfCountEl, null, "");
+        return;
+      }
+      if (!indexInitialized) {
+        rgfShowCount(rgfCountEl, null, inputValue, { loading: true });
+        try {
+          await initIndex();
+        } catch {}
+        if (rgfSeq !== rgfTypeSeq) return;
+        if (!indexInitialized) {
+          rgfShowCount(rgfCountEl, null, "");
+          return;
+        }
+      }
+`,
+  },
+  {
+    name: "onType: total count + drop stale results",
+    anchor: `      await displayResults(finalResults.slice(0, numSearchResults));
+`,
+    replacement: `      // visible total: boolean / tag queries already hold the full id set; a plain query
+      // only fetched the first results -> count the full engine set (+ synonym-only hits)
+      let rgfTotal = filteredIds.length;
+      if (rgfPlan.mode !== "boolean" && parsed.query && parsed.tags.length === 0) {
+        try {
+          const rgfAll = new Set<number>(filteredIds);
+          for (const id of await rgfSearchIds(parsed.query, fieldPriority)) rgfAll.add(id);
+          for (const id of await rgfPlainSynIds(
+            parsed.query,
+            (t: string) => rgfSearchIds(t, fieldPriority),
+            rgfTextOf,
+          ))
+            rgfAll.add(id);
+          rgfTotal = rgfAll.size;
+        } catch {}
+      }
+      if (rgfSeq !== rgfTypeSeq) return; // a newer keystroke already owns the panel
+      rgfShowCount(rgfCountEl, rgfTotal, inputValue, { capped: rgfIndexTier === "mobile" });
+      await displayResults(finalResults.slice(0, numSearchResults));
+`,
+  },
+  {
+    name: "hideSearch clears the count",
+    anchor: `      searchBar.value = "";
+      removeAllChildren(results!);
+`,
+    replacement: `      searchBar.value = "";
+      rgfTypeSeq++;
+      rgfShowCount(rgfCountEl, null, "");
+      removeAllChildren(results!);
+`,
+  },
+  {
+    name: "preview: the focused card's own quesito (atom), stable data-preview-slug",
+    anchor: `      const slug = el.id;
+      const token = ++previewToken;
+      const contents = await fetchContent(slug);
+      if (token !== previewToken) return;
+      const term = highlightTerm();
+      const previewInner = document.createElement("div");
+      previewInner.className = "preview-inner";
+      for (const contentEl of contents) {
+        const cloned = contentEl.cloneNode(true) as HTMLElement;
+        if (term.trim() !== "") {
+          cloned.innerHTML = highlightHTML(term, cloned);
+        }
+        previewInner.appendChild(cloned);
+      }
+      preview.appendChild(previewInner);
+`,
+    replacement: `      // card id = index key ("page#q12") or clean slug + "#atom" in the href
+      const rgfTarget = rgfPreviewTarget(el.id, el.getAttribute("href"));
+      const rgfKey = rgfTarget.page + (rgfTarget.frag ? "#" + rgfTarget.frag : "");
+      const slug = rgfTarget.page;
+      const token = ++previewToken;
+      const contents = await fetchContent(slug);
+      if (token !== previewToken) return;
+      const term = highlightTerm();
+      const previewInner = document.createElement("div");
+      previewInner.className = "preview-inner";
+      previewInner.setAttribute("data-preview-slug", rgfKey);
+      for (const contentEl of contents) {
+        const cloned = contentEl.cloneNode(true) as HTMLElement;
+        // per-quesito hit: show only that atom (the reader shows one atom at a time),
+        // so the preview and its highlight scroll can't land on another quesito
+        if (rgfTarget.frag) rgfIsolateAtom(cloned as any, rgfTarget.frag);
+        if (term.trim() !== "") {
+          cloned.innerHTML = highlightHTML(term, cloned);
+        }
+        previewInner.appendChild(cloned);
+      }
+      preview.appendChild(previewInner);
+      preview.setAttribute("data-preview-slug", rgfKey);
+`,
+  },
+  {
+    name: "fillDocument: chunked synchronous adds",
+    anchor: `    promises.push(
+      index.addAsync(id, {
+        id: id,
+        slug: slug,
+        title: fileData.title || "",
+        content: fileData.content || "",
+        tags: fileData.tags || [],
+      }),
+    );
+    id++;
+`,
+    replacement: `    // v4: synchronous adds, yielding every 250 documents (same index, same order;
+    // ~30% faster than one addAsync per document, and the page stays responsive)
+    index.add(id, {
+      id: id,
+      slug: slug,
+      title: fileData.title || "",
+      content: fileData.content || "",
+      tags: fileData.tags || [],
+    });
+    id++;
+    if (id % 250 === 0) await rgfYield();
+`,
+  },
+  {
+    name: "initIndex: one shared load, ready signal",
+    anchor: `async function initIndex() {
+  if (indexInitialized) return;
+  contentData = await fetchContentIndex();
+  await fillDocument();
+  indexInitialized = true;
+}
+`,
+    replacement: `let rgfIndexPromise: Promise<void> | null = null;
+function initIndex(): Promise<void> {
+  if (indexInitialized) return Promise.resolve();
+  if (!rgfIndexPromise) {
+    rgfSetReady("0");
+    rgfIndexPromise = (async () => {
+      contentData = await fetchContentIndex();
+      // tier chosen by the (optional) device-tiered fetch: "mobile" = truncated index
+      rgfIndexTier = document.documentElement.dataset.searchIndex === "mobile" ? "mobile" : "full";
+      await fillDocument();
+      indexInitialized = true;
+    })();
+    rgfIndexPromise.catch(() => {
+      rgfIndexPromise = null;
+      rgfSetReady("error");
+    });
+  }
+  return rgfIndexPromise;
+}
+`,
+  },
+  {
+    name: "handleNavOrRender: UI first, index in the background, then ready signal",
+    anchor: `async function handleNavOrRender() {
+  runCleanups();
+  await initIndex();
+  await setupSearch();
+  scrollToSearchTerm();
+}
+`,
+    replacement: `async function handleNavOrRender() {
+  runCleanups();
+  const rgfReady = initIndex(); // fetch + fill in the background
+  await setupSearch(); // search button / Ctrl+K / typing work right away
+  scrollToSearchTerm();
+  try {
+    await rgfReady;
+  } catch {
+    return;
+  }
+  rgfSetReady("1");
+}
+`,
   },
   {
     name: "query plan",
@@ -129,7 +340,33 @@ ${SENTINEL}`,
   {
     name: "evaluator context (module scope)",
     anchor: `function tokenizeTerm(term: string): string[] {`,
-    replacement: `// Boolean evaluation over FULL per-term result sets (the plain path stops at 8).
+    replacement: `// v4 state: keystroke sequence, index tier, readiness signal for testers/automation.
+let rgfTypeSeq = 0;
+let rgfIndexTier: "full" | "mobile" = "full";
+function rgfSetReady(state: string) {
+  try {
+    const de = document.documentElement;
+    de.dataset.searchReady = state;
+    if (state === "1") {
+      de.dataset.searchIndex = rgfIndexTier;
+      document.dispatchEvent(new CustomEvent("rgf-search-ready", { detail: { tier: rgfIndexTier } }));
+    }
+  } catch {}
+}
+function rgfYield(): Promise<void> {
+  // MessageChannel: not throttled in background tabs like nested setTimeout
+  return new Promise((resolve) => {
+    try {
+      const ch = new MessageChannel();
+      ch.port1.onmessage = () => resolve();
+      ch.port2.postMessage(0);
+    } catch {
+      setTimeout(resolve, 0);
+    }
+  });
+}
+
+// Boolean evaluation over FULL per-term result sets (the plain path stops at 8).
 async function rgfSearchIds(text: string, fieldPriority: string[], limit?: number): Promise<number[]> {
   const total = Math.max(idDataMap.length, 1);
   const res: any[] = await index.searchAsync({
@@ -204,7 +441,7 @@ function fail(msg) {
 
 function distHasPatch() {
   const dist = path.join(FORK, "dist/index.js")
-  return fs.existsSync(dist) && fs.readFileSync(dist, "utf8").includes("rgf-boolean-v3")
+  return fs.existsSync(dist) && fs.readFileSync(dist, "utf8").includes("rgf-boolean-v4")
 }
 
 function rebuildIfNeeded() {
@@ -249,7 +486,7 @@ function main() {
   }
   fs.writeFileSync(TARGET, hadCRLF ? src.replace(/\n/g, "\r\n") : src)
   console.log(
-    '[patch-search-boolean] applied: AND/OR/NOT, -word, "phrase", ( ), campo:valore, metadata, synonyms + help hint',
+    '[patch-search-boolean] applied: AND/OR/NOT, -word, "phrase", ( ), campo:valore, metadata, synonyms + help hint, count, atom preview, ready signal',
   )
   rebuildIfNeeded()
 }

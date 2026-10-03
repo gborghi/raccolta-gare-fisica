@@ -3,7 +3,8 @@
 // Single source of truth for the parser/evaluator. scripts/patch-search-boolean.mjs
 // copies this file into the gitignored search fork
 // (.quartz/plugins/search/src/components/scripts/rgfBoolean.ts) and wires it into
-// search.inline.ts. Pure module: no DOM access except mountSearchHelp().
+// search.inline.ts. Pure module: no DOM access except mountSearchHelp(), mountResultCount(),
+// showResultCount() and isolateAtom() (v4: result count, atom-scoped preview).
 //
 // Syntax (documented to users in the help hint, Italian):
 //   AND, OR, NOT     operators, UPPERCASE ONLY (lowercase "and/or/not" and the
@@ -888,7 +889,7 @@ export function makeRowMatcher(query: string): RowMatcher | null {
   }
 }
 
-const HELP_CSS = `/*rgf-boolean-v3*/
+const HELP_CSS = `/*rgf-boolean-v4*/
 .search > .search-container > .search-space:has(> details.rgf-search-help) > input.search-bar{margin-bottom:.4rem}
 .search-space > details.rgf-search-help{width:100%;box-sizing:border-box;margin:0 0 1.2rem;padding:.3rem .8rem;border:1px solid var(--lightgray);border-radius:7px;background:var(--light);box-shadow:none;font-size:.82rem;line-height:1.45;color:var(--darkgray)}
 .search-space > details.rgf-search-help > summary{cursor:pointer;list-style:none;display:flex;align-items:center;gap:.4rem;min-height:28px;color:var(--gray);user-select:none}
@@ -899,6 +900,8 @@ const HELP_CSS = `/*rgf-boolean-v3*/
 .search-space > details.rgf-search-help code{font-size:.8rem;padding:0 .2rem;border-radius:3px;background:var(--lightgray);color:var(--dark);white-space:nowrap}
 .search-space > details.rgf-search-help .rgf-nw{white-space:nowrap}
 @media (max-width:800px){.search-space > details.rgf-search-help{font-size:.8rem;padding:.25rem .6rem}.search-space > details.rgf-search-help code{white-space:normal}}
+.search-space > .rgf-search-count{margin:-.9rem 0 .6rem;padding:0 .2rem;font-size:.8rem;line-height:1.3;color:var(--gray);font-variant-numeric:tabular-nums}
+.search-space > .rgf-search-count[hidden]{display:none}
 `
 
 const HELP_HTML =
@@ -931,4 +934,179 @@ export function mountSearchHelp(searchSpace: HTMLElement, searchBar: HTMLElement
   } catch {
     // purely cosmetic
   }
+}
+
+// ---------------------------------------------------------------------------
+// v4: visible result count, atom-scoped preview
+// ---------------------------------------------------------------------------
+
+/** Interface language of the page (<html lang>): "en" for English pages, else "it". */
+export function interfaceLang(lang?: string | null): "it" | "en" {
+  let l = lang
+  if (l == null) {
+    try {
+      l = document.documentElement.lang
+    } catch {
+      l = ""
+    }
+  }
+  return /^en\b/i.test(String(l || "").trim()) ? "en" : "it"
+}
+
+/**
+ * Label of the visible result count. `capped` = the index loaded on this device is a
+ * truncated one (mobile tier), so the total is a lower bound: "almeno N risultati".
+ */
+export function formatResultCount(
+  n: number,
+  opts: { lang?: "it" | "en"; capped?: boolean } = {},
+): string {
+  const lang = opts.lang ?? "it"
+  const num = Math.max(0, Math.floor(Number(n) || 0))
+  const shown = num.toLocaleString(lang === "en" ? "en-US" : "it-IT")
+  const atLeast = opts.capped && num > 0
+  if (lang === "en") return (atLeast ? "at least " : "") + shown + (num === 1 ? " result" : " results")
+  return (atLeast ? "almeno " : "") + shown + (num === 1 ? " risultato" : " risultati")
+}
+
+const COUNT_LOADING = { it: "Caricamento dell’indice di ricerca…", en: "Loading the search index…" }
+
+/**
+ * Mount (once) the result-count line between the syntax hint and the results.
+ * Stable hooks for testers: `.rgf-search-count`, `[data-search-count]` (the number, set
+ * only once known), `data-search-query` (the query it counts), `data-search-capped`.
+ */
+export function mountResultCount(searchSpace: HTMLElement, searchBar: HTMLElement): HTMLElement | null {
+  try {
+    const existing = searchSpace.querySelector(".rgf-search-count") as HTMLElement | null
+    if (existing) return existing
+    const el = document.createElement("div")
+    el.className = "rgf-search-count"
+    el.setAttribute("role", "status")
+    el.setAttribute("aria-live", "polite")
+    el.hidden = true
+    const layout = searchSpace.querySelector(".search-layout")
+    searchSpace.insertBefore(el, layout ?? searchBar.nextSibling)
+    return el
+  } catch {
+    return null
+  }
+}
+
+/**
+ * Update the count line. n = null clears it; state "loading" shows the index-loading
+ * message (no number yet, so no data-search-count attribute).
+ */
+export function showResultCount(
+  el: HTMLElement | null,
+  n: number | null,
+  query: string,
+  opts: { capped?: boolean; loading?: boolean } = {},
+): void {
+  if (!el) return
+  try {
+    const lang = interfaceLang()
+    el.removeAttribute("data-search-count")
+    el.removeAttribute("data-search-capped")
+    if (opts.loading) {
+      el.textContent = COUNT_LOADING[lang]
+      el.setAttribute("data-search-query", query)
+      el.setAttribute("data-search-state", "loading")
+      el.hidden = false
+      return
+    }
+    if (n === null) {
+      el.textContent = ""
+      el.removeAttribute("data-search-query")
+      el.removeAttribute("data-search-state")
+      el.hidden = true
+      return
+    }
+    el.textContent = formatResultCount(n, { lang, capped: opts.capped })
+    el.setAttribute("data-search-count", String(Math.max(0, Math.floor(n))))
+    if (opts.capped) el.setAttribute("data-search-capped", "1")
+    el.setAttribute("data-search-query", query)
+    el.setAttribute("data-search-state", "done")
+    el.hidden = false
+  } catch {
+    // purely informative
+  }
+}
+
+/**
+ * What a result card previews: the page to fetch and the atom (quesito) inside it.
+ * Card ids are index keys ("Quesiti/x#q12", mate) or clean slugs with the atom in
+ * the href fragment ("prove/x" + href "…/prove/x#a3", fisica): both are handled.
+ */
+export function previewTargetOf(id: string, href?: string | null): { page: string; frag: string } {
+  const raw = String(id || "")
+  const h = raw.indexOf("#")
+  const page = h >= 0 ? raw.slice(0, h) : raw
+  let frag = h >= 0 ? raw.slice(h + 1) : ""
+  if (!frag && href) {
+    const k = href.indexOf("#")
+    if (k >= 0) {
+      try {
+        frag = decodeURIComponent(href.slice(k + 1))
+      } catch {
+        frag = href.slice(k + 1)
+      }
+    }
+  }
+  return { page, frag }
+}
+
+/** Minimal element surface used by isolateAtom (real DOM in the browser, fakes in tests). */
+export interface AtomEl {
+  parentElement: AtomEl | null
+  children: ArrayLike<AtomEl>
+  classList?: { contains(c: string): boolean }
+  getAttribute(name: string): string | null
+  querySelectorAll(sel: string): ArrayLike<AtomEl>
+  remove(): void
+}
+
+function isAtomMarker(el: AtomEl): boolean {
+  return !!el.classList && el.classList.contains("atom-split")
+}
+
+function markersIn(el: AtomEl): AtomEl[] {
+  const out = Array.from(el.querySelectorAll(".atom-split"))
+  return isAtomMarker(el) ? [el, ...out] : out
+}
+
+/**
+ * Keep only one atom (quesito) of a reader page fragment: the block that starts at the
+ * `.atom-split` marker whose data-atom / id is `frag` and ends before the next marker
+ * (same partition as atomRouter.inline.ts). Returns false (and leaves `root` untouched)
+ * when the marker is not in `root` (e.g. the page-header block).
+ */
+export function isolateAtom(root: AtomEl, frag: string): boolean {
+  if (!frag) return false
+  const all = markersIn(root)
+  const marker = all.find((m) => m.getAttribute("data-atom") === frag || m.getAttribute("id") === frag)
+  if (!marker) return false
+  // climb to the top-level block holding the marker (usually a <p> wrapping it)
+  let start: AtomEl = marker
+  while (start.parentElement && start.parentElement !== root) {
+    const parent: AtomEl = start.parentElement
+    if (markersIn(parent).length > 1) break
+    start = parent
+  }
+  const container = start.parentElement
+  if (!container) return false
+  const kids = Array.from(container.children)
+  const at = kids.indexOf(start)
+  if (at < 0) return false
+  let end = kids.length
+  for (let i = at + 1; i < kids.length; i++) {
+    if (markersIn(kids[i]!).length > 0) {
+      end = i
+      break
+    }
+  }
+  kids.forEach((k, i) => {
+    if (i < at || i >= end) k.remove()
+  })
+  return true
 }

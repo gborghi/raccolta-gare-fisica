@@ -3,7 +3,7 @@
 // livello, difficoltà, area, argomento, metodo, abilità) with an AND/OR
 // (TUTTI/QUALSIASI) toggle, rendering matches into a sortable table.
 
-import { makeRowMatcher, loadSynonyms, type RowMatcher, type RowFields } from "./searchBoolean"
+import { makeRowMatcher, loadSynonyms, markResultCount, type RowMatcher, type RowFields } from "./searchBoolean"
 
 interface Q {
   href: string
@@ -157,6 +157,7 @@ async function init() {
   selectedBar.className = "cerca-selected"
 
   let textQuery = ""
+  let textRaw = "" // query the current results were filtered with (data-search-query)
   // AND/OR/NOT, "frase", campo:valore (any quesiti.json field), synonyms
   let textMatcher: RowMatcher | null = null
   let resPerPage = getResPerPage()
@@ -207,6 +208,7 @@ async function init() {
     clearTimeout(debounce)
     debounce = setTimeout(() => {
       textQuery = textSearch.value.trim().toLowerCase()
+      textRaw = textSearch.value.trim()
       textMatcher = makeRowMatcher(textSearch.value)
       resPage = 0
       render()
@@ -288,6 +290,7 @@ async function init() {
       searchBar.style.display = "none"
       pager.innerHTML = ""
       resultsBox.innerHTML = `<p class="cerca-hint">Seleziona dei tag qui sopra per vedere i quesiti.</p>`
+      markResultCount(countEl, null, "")
       return
     }
     searchBar.style.display = ""
@@ -301,6 +304,7 @@ async function init() {
       total === 0 ? "0 quesiti"
         : pc > 1 ? `${total} quesiti — ${start + 1}–${start + shown.length} (pag. ${resPage + 1}/${pc})`
         : `${total} quesiti`
+    markResultCount(countEl, total, textRaw)
     if (total === 0) {
       resultsBox.innerHTML = `<p class="paged-empty">Nessun risultato.</p>`
       pager.innerHTML = ""

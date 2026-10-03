@@ -128,58 +128,51 @@ Metti i due magneti uno su ciascun lato dell'estremità libera del bastone (Figu
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Experimental test  Oscillation of a rod**
-*(XXX Spanish Olympiad of Physics, University of Salamanca, 2528 April 2019)*
+**Experimental Test — Oscillation of a Rod**
+*(XXX Spanish Physics Olympiad, University of Salamanca, April 25–28, 2019)*
 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**OBJECTIVE**
 
-Determine the Young module and the density of an aluminum rod.
+Determine the Young's modulus and density of an aluminum rod.
 
-The following table shows the methodology used for the calculation of the total cost of the product:
+**MATERIALS**
 
-Paper meter, sergeant, plinth, aluminum rod, magnets, timepiece.
+Paper meter, clamp, support stand, aluminum rod, magnets, stopwatch.
 
-The following information is provided by the Commission:
+**DATA**
 
 - Mass of the two magnets: $m = (5{,}53 \pm 0{,}02)$ g
-- Width of rod: $b = (10{,}00 \pm 0{,}05)$ mm
-- The thickness of the rod: $a = (1{,}90 \pm 0{,}05)$ mm
+- Width of the rod: $b = (10{,}00 \pm 0{,}05)$ mm
+- Thickness of the rod: $a = (1{,}90 \pm 0{,}05)$ mm
 
-The following is the list of the countries of the European Union:
+**THEORETICAL BACKGROUND**
 
-In this experimental test, the oscillation of a rectangular aluminium rod, held by one end and free by the other, is studied (Figure 1). We'll call $M$ and $L$ the mass and length of the free-stick portion. In addition, a mass $m$ (two small magnets) is fixed over the rod at a distance $d$ from the fixed end. It is shown that the period of small oscillations of this system in a vertical plane is given by
+In this experimental test, the oscillation of an aluminum rod with rectangular cross-section will be studied. The rod is clamped at one end and free at the other (Figure 1). We denote $M$ and $L$ as the mass and length of the free portion of the rod. Additionally, a mass $m$ (two small magnets) is fixed to the rod at a distance $d$ from the clamped end. It can be shown that the period of small oscillations of this system in a vertical plane is given by
 
 $$T = 4\sqrt{\frac{L^3}{Yba^3}\left(\frac{m\,d^3}{L^3} + 0{,}243\,M\right)} \quad (1)$$
 
-where $Y$ is the so-called Young module of the material, which characterizes its elasticity against traction or compression stresses, $b$ is the width of the rod and $a$ its thickness.
+where $Y$ is the so-called Young's modulus of the material, which characterizes its elasticity under tensile or compressive stress, $b$ is the width of the rod, and $a$ its thickness.
 
-Furthermore, the density of aluminium, $\rho$, is related to the mass and dimensions of the rod in the form of
+On the other hand, the density of aluminum, $\rho$, is related to the mass and dimensions of the rod as
 
 $$\rho = \frac{M}{Lab} \quad (2)$$
 
-The following information is provided for in the Annex to this Regulation:
+**SETUP OF THE SYSTEM**
 
-Draw a cross-sectional line with pen or pencil at 80.0 cm from the unlabeled end of the rod. With the sergeant, hold the rod between the plate and the edge of the table, leaving the previously marked length of rod $L = 80{,}0$ cm free (Figure 2). The edge of the plate, the mark on the rod and the edge of the table shall be parallel and in the same vertical plane. The rod shall be perpendicular to the edges of the table and the tablecloth. Once you've reached this position, hold the system tightly by squeezing the sergeant.
+Draw a transverse line on the rod with a pen or pencil at 80.0 cm from the end without a label. Using the clamp, secure the rod between the jaw and the edge of the table, leaving a free length of $L = 80{,}0$ cm previously marked (Figure 2). The edge of the jaw, the mark on the rod, and the edge of the table must be parallel and lie in the same vertical plane. The rod must remain perpendicular to the edges of the table and the jaw. Once this position is achieved, firmly secure the system by tightening the clamp.
 
-The following information is provided by the Commission on the basis of the information provided by the Member States:
+**EXPERIMENTAL PROCEDURE — Section 1**
 
-Place the two magnets one on each side of the free end of the rod (Figure 3). Measure by the meter the distance from the edge of the plethora to the centre of the magnets, $d$. Make the system swing vertically, with small amplitude. Using the chronometer, determine the oscillation period, $T$. Describe in detail the procedure used.
+Place the two magnets on opposite sides of the free end of the rod (Figure 3). Using the meter stick, measure the distance from the edge of the jaw to the center of the magnets, $d$. Vertically oscillate the system with small amplitude. Using the stopwatch, determine the period of oscillation, $T$. Describe in detail the procedure used.
 
 <!--fig:start-->
 ![[_attachments/P-Experimental/P-Experimental_p1_f1.png]]
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. 1: rod held with magnets*
+*Fig. 1: rod held with magnets*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/P-Experimental/P-Experimental_p2_f2.png]]
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. 2: assembly sergeant full table*
+*Fig. 2: clamp-jaw-table setup*
 <!--fig:end-->
-
-**Topic:** [[Elasticity & Materials]], [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]], [[Magnet (object)|Magnet]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1U6h-r1PN8dq7vWV_vY-OBE9BZnmpxbTK/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Spagna na — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/rod,object/magnet"></span>
@@ -223,21 +216,14 @@ Con la stessa procedura, determinare $T$ per diverse posizioni dei magneti fino 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following paragraphs shall be added:
+**Part 2**
 
-Using the same procedure, determine $T$ for different positions of magnets, up to $d \approx 40$ cm. Collect your results in a table, leaving room for other columns, which you'll need later.
+Using the same procedure, determine $T$ for different positions of the magnets, up to $d \approx 40$ cm. Record your results in a table, leaving space for additional columns that you will need later.
 
 <!--fig:start-->
 ![[_attachments/P-Experimental/P-Experimental_p2_f3.png]]
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. 3: free end rod magnets*
+*Fig. 3: magnets at the free end of the rod*
 <!--fig:end-->
-
-**Topic:** [[Elasticity & Materials]], [[Oscillations & Waves]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Rod (object)|Rod]], [[Magnet (object)|Magnet]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1U6h-r1PN8dq7vWV_vY-OBE9BZnmpxbTK/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Spagna na — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
@@ -547,12 +533,8 @@ Qual è la principale fonte di incertezza per ottenere $Y$ con questa procedura 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Apartado 9**
+**Section 9**
 
-¿Cuál cree que es la principal fuente de incertidumbre en la obtención de $Y$ con este procedimiento experimental? Taking into account this source only, make an estimate of $\Delta Y$.
+What do you think is the main source of uncertainty in obtaining $Y$ using this experimental procedure? Considering only this source, make an estimate of $\Delta Y$.
 
-**Topic:** [[Elasticity & Materials]], [[Oscillations & Waves]]
-**Metodi:** [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Error Propagation (competenza)|Error Propagation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1U6h-r1PN8dq7vWV_vY-OBE9BZnmpxbTK/view)
+

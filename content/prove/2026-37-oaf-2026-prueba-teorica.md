@@ -543,61 +543,37 @@ futuro los participantes en esta Olimpiada.
 <div class="qlang-split" data-lang="it"></div>
 
 P2. Storia dello studio dei buchi neri.
-I buchi neri sono corpi celesti il cui atteggiamento gravitazionale è così forte che non c'è nemmeno la luce
-può sfuggire dall'interno. Anche se non fu fino al 1971 che fu identificato il primo di loro, Cygnus X-1, già
-Si era speculato sulla sua esistenza per duecento anni.
-Nel 1783 l'astronomo e clero inglese John Michell pubblicò un articolo sull'esistenza possibile di
-stele oscure, così massicce che la velocità di fuga dalla loro superficie supera quella della luce.
-Supponendo che la luce sia una particella di massa che rispetti le classiche leggi di Newton, e che la sua massa sia
-la velocità iniziale emessa sulla superficie della stella è la velocità della luce nel vuoto, $c$,
-a)
-determina il raggio di sfera in cui la massa del Sole dovrebbe essere compressa per far sì che la nuova
-velocità di uscita esterna $c$.
-b)
-Ottieni l'espressione della distanza $r_\text{max}$ dal centro di una stella di massa $M$ e del raggio $R$ dalla
-che non avrebbe più raggiunto la sua luce.
-c)
-Qual è il minimo raggio di $R_\text{min}$ che deve avere quella stella di massa $M$ per che la luce che emette possa
-raggiungere qualsiasi osservatore, per quanto lontano sia?
-L'idea dei buchi neri è stata dimenticata nel XIX secolo con lo sviluppo di teorie
-ondulatori della luce. Se la luce fosse un'onda senza massa, non sembrava senso pensare che la luce influenzasse la luce.
-gravità newtonica. Quindi, dovevamo aspettare che la teoria della relatività generale
-le stelle oscure si trasformano in quelle dei buchi neri attuali.
-Nel 2009 è stato avviato il progetto del Telescopio dell'Horizonte degli Eventi (EHT) con l'obiettivo di prendere
-la prima fotografia di un buco nero, in particolare del disco di acrezione che gira intorno a esso. E ' stato scelto
-il buco nero supermassiccio M87*, situato a milioni di anni luce dalla Terra, e la cui massa è di migliaia di
-milioni di volte la massa del Sole.
-Secondo la relatività generale, la dimensione dell'orizzonte di eventi di un
-un buco nero stazionario, un confine dal quale nemmeno la luce può
-"Scappa", viene trasmesso dalla radio di Schwarzschild,
+
+I buchi neri sono corpi celesti la cui attrazione gravitazionale è così intensa che neanche la luce può sfuggire dal suo interno. Anche se solo nel 1971 è stato identificato il primo di essi, Cygnus X-1, già da duecento anni si era ipotizzata la loro esistenza.
+
+Nel 1783 l'astronomo e sacerdote inglese John Michell pubblicò un articolo sulla possibile esistenza di
+«stelle oscure», così massicce che la velocità di fuga dalla loro superficie superasse quella della luce.
+Supponendo che la luce sia una particella con massa che obbedisce alle leggi classiche newtoniane, e che la sua velocità iniziale all'emissione sulla superficie della stella sia la velocità della luce nel vuoto, $c$,
+a) determina il raggio della sfera in cui dovrebbe essere compressa la massa del Sole perché la nuova velocità di fuga sia $c$.
+b) Ottieni l'espressione della distanza $r_\text{max}$ dal centro di una stella di massa $M$ e raggio $R$ a partire dalla quale la luce non raggiungerebbe più.
+c) Qual è il raggio minimo $R_\text{min}$ che deve avere quella stella di massa $M$ perché la luce emessa possa raggiungere qualsiasi osservatore, per quanto distante?
+L'idea dei buchi neri cadde nell'oblio durante il XIX secolo con lo sviluppo delle teorie ondulatorie della luce. Se la luce era un'onda senza massa, non sembrava avere senso chiedersi se fosse influenzata dalla gravità newtoniana. Fu quindi necessario attendere la teoria della relatività generale perché l'idea delle stelle oscure si trasformasse in quella dei buchi neri attuali.
+Nel 2009 è iniziato il progetto del Telescopio dell'Orizzonte degli Eventi (EHT) con l'obiettivo di scattare la prima fotografia di un buco nero, in particolare del disco di accrescimento che lo circonda. È stato scelto il buco nero supermassiccio M87*, situato a milioni di anni luce dalla Terra, la cui massa è migliaia di volte quella del Sole.
+Secondo la relatività generale, le dimensioni dell'orizzonte degli eventi di un buco nero stazionario, confine oltre il quale neppure la luce può sfuggire, sono date dal raggio di Schwarzschild,
 
 $$r_S = \frac{2GM}{c^2} \, .$$
 
-Inoltre, la massa del buco nero curva il percorso della luce che passa
-vicino a lui, un effetto chiamato lente gravitazionale, che fa vedere M87* più
-grande di quanto sia. Il disco del buco nero M87*
-(Figura 1) sembra un radio $r_\text{aparente} = 2{,}6\,r_S$.
-d) Determina il diametro angolare del disco (angolo sottostato dal disco) visto dalla Terra.
-e)
-Calcola il diametro di un oggetto circolare che comprende lo stesso diametro angolare visto dalla Terra,
-ma che sia situato sulla superficie della Luna.
-Il Telescopio dell'Horizonte degli Eventi (EHT) non è un solo telescopio, ma una rete globale di telescopi di
-Telecoscopi radio che utilizzano interferometria di base molto lunga (VLBI) osservando la banda di lunghezza di
-L'onda $\lambda = 1{,}3$ mm. In base a tale tecnica, la risoluzione angolare (diametro angolare minimo distinguibile) che
-se si ottiene con due telescopi separati una distanza $D$ è determinata da $\lambda/D$.
+Inoltre, la massa del buco nero curva il percorso della luce che passa vicino a esso, un effetto chiamato lente gravitazionale, che fa apparire M87* più grande di quanto non sia in realtà. Per questo motivo, il disco del buco nero M87* (Figura 1) sembra avere un raggio $r_\text{aparente} = 2{,}6\,r_S$.
 
-Figura 1: Immagine di M87*
-ottenuto dall'EHT e
-pubblicato nel 2019.
+d) Determina il diametro angolare del disco (angolo sotteso dal disco) osservato dalla Terra.
 
-f)
-Calcola la distanza minima che deve essere tra due telescopi per poter risolvere il disco di
-acrezione di M87*.
+e) Calcola il diametro di un oggetto circolare che copra lo stesso diametro angolare osservato dalla Terra, ma situato sulla superficie della Luna.
+
+Il Telescopio dell'Orizzonte degli Eventi (EHT) non è un singolo telescopio, ma una rete globale di radiotelescopi che utilizza l'interferometria a base molto lunga (VLBI) osservando la banda di lunghezza d'onda $\lambda = 1{,}3$ mm. Utilizzando tale tecnica, la risoluzione angolare (diametro angolare minimo distinguibile) ottenuta con due telescopi separati da una distanza $D$ è determinata da $\lambda/D$.
+
+Figura 1: Immagine di M87* ottenuta dall'EHT e pubblicata nel 2019.
+
+f) Calcola la distanza minima che deve esserci tra due telescopi per poter risolvere il disco di accrescimento di M87*.
 
 Dati:
 Velocità della luce nel vuoto
 $c = 3{,}00\times10^8\ \text{m/s}$
-Radio del Sole
+Raggio del Sole
 $R_\odot = 6{,}95\times10^8\ \text{m}$
 Velocità di fuga dalla superficie del Sole
 $v_\odot = 618\ \text{km/s}$
@@ -608,282 +584,79 @@ $G = 6{,}67\times10^{-11}\ \text{N}\,\text{m}^2\,\text{kg}^{-2}$
 Massa del buco nero M87*
 $M_\text{M87*} = 10^{40}\ \text{kg}$
 Distanza Terra-M87*
-$d_{T-\text{M87*}} = 53{,}5\times10^6$ anni luce
-(1)
-(1) Un anno-luce è la distanza percorsa dalla luce in 1 anno.
+$d_{T-\text{M87*}} = 53{,}5\times10^6$ anni-luce (1)
+(1) Un anno luce è la distanza percorsa dalla luce in un anno.
 
 P2. Soluzione
-a) La velocità di scarico della superficie del Sole può essere ottenuta dalla conservazione di
-energia, considerando un corpo di massa $m$ che parte dalla superficie del Sole a velocità $v_\odot$; e
-arriva all'infinito senza velocità,
+a) La velocità di fuga dalla superficie del Sole si può ottenere tramite la conservazione dell'energia, considerando un corpo di massa $m$ che parte dalla superficie del Sole con velocità $v_\odot$ e raggiunge l'infinito senza velocità,
 
 $$\frac{1}{2} m v_\odot^2 - G\frac{M_\odot m}{R_\odot} = 0$$
 
-di cui si deduce
+da cui si deduce
 
 $$v_\odot = \sqrt{\frac{2GM_\odot}{R_\odot}} \, ,$$
 
-espressione che non dipende dalla massa $m$ del corpo. Per cui una sfera radio $R_N$ e la stessa
-la massa del Sole ha una velocità di scarico uguale a quella della luce, $c$, deve essere soddisfatta
+espressione che non dipende dalla massa $m$ del corpo. Affinché una sfera di raggio $R_N$ e stessa massa del Sole abbia una velocità di fuga pari a quella della luce, $c$, deve valere
 
 $$c = \sqrt{\frac{2GM_\odot}{R_N}}$$
 
-Sollevando entrambe le espressioni al quadrato e dividendo si ottiene
+Elevando entrambi i membri al quadrato e dividendo si ottiene
 
 $$\frac{v_\odot^2}{c^2} = \frac{R_N}{R_\odot} \quad\Rightarrow\quad R_N = R_\odot \frac{v_\odot^2}{c^2} = 6{,}95\times10^8 \frac{(6{,}18\times10^5)^2}{(3{,}0\times10^8)^2} \quad\Rightarrow\quad R_N = 2{,}95\times10^3\ \text{m} = 2{,}95\ \text{km}$$
 
-b) Considerando che la particella emessa dalla superficie della stella a velocità $c$ è
-si ferma a una distanza $r_\text{max}$, si pone di nuovo la conservazione dell'energia,
+b) Tenendo conto che la particella emessa dalla superficie della stella con velocità $c$ si ferma a una distanza $r_\text{max}$, si riscrive nuovamente la conservazione dell'energia,
 
 $$\frac{1}{2} m c^2 - G\frac{Mm}{R} = -G\frac{Mm}{r_\text{max}}$$
 
-di cui $r_\text{max}$ può essere eliminato,
+da cui si può ricavare $r_\text{max}$,
 
 $$r_\text{max} = \frac{R}{1 - \dfrac{c^2 R}{2GM}}$$
 
-(c) Per consentire alla luce emessa dalla stella di raggiungere qualsiasi osservatore, la velocità limite deve essere:
-essere inferiore a quella della luce, quindi il raggio minimo sarà determinato da
+c) Affinché la luce emessa dalla stella possa raggiungere qualsiasi osservatore, la velocità limite deve essere minore di quella della luce, quindi il raggio minimo è determinato da
 
 $$c = \sqrt{\frac{2GM}{R_\text{min}}} \quad\Rightarrow\quad R_\text{min} = \frac{2GM}{c^2}$$
 
-Questo valore può anche essere dedotto dall'espressione $r_\text{max}$ dedotta nel precedente paragrafo,
-dove si osserva che la distanza massima aumenta quando si aumenta $R$, e diventa infinita
-quando il denominatore viene annullato, il corrispondente per lo stesso valore di $R_\text{min}$. La dipendenza
-di $r_\text{max}$ con $R$ è rappresentato in figura 2.
+Questo valore può anche essere dedotto dall'espressione di $r_\text{max}$ ricavata nel punto precedente, dove si osserva che la distanza massima aumenta quando si incrementa $R$, e diventa infinita quando il denominatore si annulla, corrispondente allo stesso valore di $R_\text{min}$. La dipendenza di $r_\text{max}$ da $R$ è rappresentata nella figura 2.
 
-d) Il raggio apparente del disco M87* è
+d) Il raggio apparente del disco di M87* è
 
 $$r_\text{aparente} = 2{,}6\,\frac{2GM_\text{M87*}}{c^2} = 2{,}6\,\frac{2\times6{,}67\times10^{-11}\times10^{40}}{(3{,}00\times10^8)^2} = 3{,}85\times10^{13}\ \text{m}$$
 
-Dobbiamo anche esprimere la distanza tra la Terra e M87 in metri,
+Dobbiamo anche esprimere la distanza tra la Terra e M87* in metri,
 
 $$d_{T-\text{M87*}} = 53{,}5\times10^6 \times 3{,}00\times10^8 \times 365 \times 24 \times 3600 = 5{,}06\times10^{23}\ \text{m}$$
 
-Il diametro angolare $\delta$ è ottenuto dal raggio apparente $r_\text{aparente}$ e dalla distanza dalla Terra a
-M87*, $d_{T-\text{M87*}}$, utilizzando la costruzione mostrata in figura 3.
+Il diametro angolare $\delta$ si ottiene dal raggio apparente $r_\text{aparente}$ e dalla distanza tra la Terra e M87*, $d_{T-\text{M87*}}$, utilizzando la costruzione mostrata nella figura 3.
 
 Così,
 
 $$\tan\frac{\delta}{2} = \frac{r_\text{aparente}}{d_{T-\text{M87*}}}$$
 
-Quando la distanza è molto grande, il diametro angolare è molto piccolo, quindi, se esprimete
-$\delta$ in radiani, possiamo avvicinare $\tan(\delta/2) \approx \delta/2$, così che
+Quando la distanza è molto grande, il diametro angolare è molto piccolo; pertanto, se esprimiamo $\delta$ in radianti, possiamo approssimare $\tan(\delta/2) \approx \delta/2$, così che
 
 $$\delta = \frac{2 r_\text{aparente}}{d_{T-\text{M87*}}} = \frac{2\times3{,}85\times10^{13}}{5{,}06\times10^{23}} \quad\Rightarrow\quad \delta = 1{,}52\times10^{-10}\ \text{rad} = 31{,}4\ \text{microsegundos de arco}$$
 
-Figura 2: Grafica di $r_\text{max}$
-rispetto a $R$ in unità di $GM/c^2$
+Figura 2: Grafico di $r_\text{max}$ in funzione di $R$, in unità di $GM/c^2$
 
 Figura 3: Diametro angolare $\delta$.
 
-e) Il raggio $r'$ di un oggetto sulla superficie lunare che sarebbe stato osservato dalla Terra con il
-lo stesso diametro angolare viene dato da
+e) Il raggio $r'$ di un oggetto sulla superficie della Luna che verrebbe osservato dalla Terra con lo stesso diametro angolare è dato da
 
 $$r' = \frac{\delta \cdot d_{T-L}}{2} = \frac{1{,}52\times10^{-10} \times 3{,}80\times10^8}{2} = 0{,}0289\ \text{m}$$
 
-Quindi il diametro dell'oggetto, $d'$, sarebbe
+Pertanto, il diametro dell'oggetto, $d'$, sarebbe
 
 $$d' = 2r' = 0{,}0578\ \text{m} = 5{,}78\ \text{cm}$$
 
-Il diametro angolare del buco nero visto dalla Terra è circa quello di una palla di
-Tenis sulla superficie della Luna.
-f) A partire dalla risoluzione angolare del sistema telescopico, $\delta = \lambda/D$, possiamo chiarire la distanza
-minimo tra telescopi per risolvere il diametro del disco di M87*,
+Il diametro angolare del buco nero osservato dalla Terra è approssimativamente pari a quello di una palla da tennis sulla superficie della Luna.
+
+f) A partire dalla risoluzione angolare del sistema di telescopi, $\delta = \lambda/D$, possiamo ricavare la distanza minima tra i telescopi necessaria per risolvere il diametro del disco di M87*,
 
 $$D = \frac{\lambda}{\delta} = \frac{1{,}3\times10^{-3}}{1{,}52\times10^{-10}} \quad\Rightarrow\quad D = 8{,}55\times10^6\ \text{m} = 8550\ \text{km}$$
 
-Il Telescopio dell'Horizonte degli Eventi (EHT) è composto da una rete globale di otto
-radioosservatori distribuiti in tutto il pianeta, tra cui l'Antartide, il Cile, l'Hawaii, l'Europa,
-Messico e Stati Uniti. Questa rete funziona come un telescopio virtuale la cui distanza massima è
-tra gli osservatori è paragonabile al diametro della Terra, di circa 12.000 km.
-Per aumentare la risoluzione dell'EHT, sono in corso prove con lunghezze di
-l'onda di 0,87 mm, anche se fino ad ora non sono state ottenute immagini. Recentemente, si è
-Proposto di installare telescopi sulla Luna, in sincronia con quelli della Terra, che
-La Commissione ha deciso di adottare un regolamento che, se si tratta di un'azione di carattere
-I partecipanti a questa Olimpiada.
+Il Telescopio del Horizonte di Eventi (EHT) è composto da una rete globale di otto radiotelescopi distribuiti in tutto il pianeta, tra cui l'Antartide, Cile, Hawaii, Europa, Messico e Stati Uniti. Questa rete funziona come un telescopio virtuale la cui distanza massima tra i telescopi è paragonabile al diametro della Terra, circa 12.000 km.
 
-
-<!--fig:start-->
-![[_attachments/2026 37 OAF 2026 PRUEBA TEORICA/2026 37 OAF 2026 PRUEBA TEORICA_p5_f1.png]]
-*Immagine M87* dal telescopio EHT*
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/2026 37 OAF 2026 PRUEBA TEORICA/2026 37 OAF 2026 PRUEBA TEORICA_p8_f2.png]]
-*Grafico r_max vs R in unità GM/c2*
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/2026 37 OAF 2026 PRUEBA TEORICA/2026 37 OAF 2026 PRUEBA TEORICA_p8_f3.png]]
-*Diagramma di diametro angolare δ*
-<!--fig:end-->
-
-**Topic:** [[Gravitation]], [[Astrophysics]], [[Wave Optics]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Black Hole (object)|Black Hole]], [[Star (object)|Star]], [[Photon (object)|Photon]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1BTnlgeWDC3DbE1PIRHxJvW5Ln1gLnTA8/view)
-
-<div class="qlang-split" data-lang="en"></div>
-
-P2. History of the study of black holes.
-Black holes are celestial bodies whose gravitational pull is so strong that not even light can pull them off.
-You can escape from within. Although it wasn't until 1971 that the first of these, Cygnus X-1, was identified.
-It had been speculated about its existence for two hundred years.
-In 1783 the English astronomer and clergyman John Michell published an article on the possible existence of
-Dark stars, so massive that the escape velocity from their surface exceeds that of light.
-Supposing that light is a mass particle that meets the classical Newtonian laws, and that its
-The initial velocity when emitted on the star's surface is the speed of light in vacuum, $c$,
-a)
-It determines the radius of the sphere in which the mass of the Sun would have to be compressed so that the new
-The exhaust velocity outside $c$.
-b)
-Get the expression of the distance $r_\text{max}$ from the center of a mass star $M$ and the radius $R$ from the
-which would never see the light of day.
-c)
-¿Cuál es el radio mínimo $R_\text{min}$ que debe tener esa estrella de masa $M$ para que la luz que emite pueda
-reaching any observer as far as he is?
-The idea of black holes fell into oblivion during the 19th century with the development of theories
-wavelengths of light. If light was a massless wave, it didn't seem to make sense to think that it would affect the
-It's called Newtonian gravity. So we had to wait for the general theory of relativity to get the idea of the
-Dark stars would transform into those of today's black holes.
-In 2009 the project of the Event Horizon Telescope (EHT) began with the aim of taking
-The first photograph of a black hole, specifically the accretion disk that rotates around it. He was chosen.
-el agujero negro supermasivo M87*, situado a millones de años luz de la Tierra, y cuya masa es miles de
-million times the mass of the Sun.
-According to general relativity, the size of the event horizon of a
-stationary black hole, border from which not even light can
-escape, is given by Schwarzschild's radio,
-
-$$r_S = \frac{2GM}{c^2} \, .$$
-
-Also, the mass of the black hole curves the path of light passing through it.
-Near it, an effect called gravitational lensing, which makes M87* look more
-Bigger than it really is. Therefore, the black hole disc M87*
-(Figure 1) appears to be a $r_\text{aparente} = 2{,}6\,r_S$ radius.
-(d) Determine the angular diameter of the disc (angle underneath the disc) as seen from Earth.
-e)
-Calculate the diameter of a circular object that covers the same angular diameter as seen from Earth,
-But it's located on the surface of the moon.
-The Event Horizon Telescope (EHT) is not a single telescope, but a global network of
-radio telescopes using very long base interferometry (VLBI) by observing the band length of the
-The wavelength $\lambda = 1{,}3$ mm. Using this technique, the angular resolution (minimum distinguishable angular diameter) which
-The distance $D$ is determined by $\lambda/D$.
-
-Figure 1: M87 image*
-obtained by the EHT and
-published in 2019.
-
-f)
-Calculate the minimum distance between two telescopes to solve the disk of
-acreción de M87*.
-
-The data:
-Speed of light in vacuum
-$c = 3{,}00\times10^8\ \text{m/s}$
-Radio of the Sun
-$R_\odot = 6{,}95\times10^8\ \text{m}$
-The speed of escape from the surface of the Sun
-$v_\odot = 618\ \text{km/s}$
-Earth-Moon Distance
-$d_{T-L} = 3{,}80\times10^5\ \text{km}$
-The following is the list of the elements used:
-$G = 6{,}67\times10^{-11}\ \text{N}\,\text{m}^2\,\text{kg}^{-2}$
-The mass of the black hole M87*
-$M_\text{M87*} = 10^{40}\ \text{kg}$
-Distancia Tierra-M87*
-$d_{T-\text{M87*}} = 53{,}5\times10^6$ light-years
-(1)
-(1) One light-year is the distance travelled by light in 1 year.
-
-P2. Solution
-(a) The escape velocity of the sun's surface can be obtained from the conservation of
-energy, considering a mass body $m$ departing from the surface of the Sun at $v_\odot$ speed; and
-It reaches infinity without speed,
-
-$$\frac{1}{2} m v_\odot^2 - G\frac{M_\odot m}{R_\odot} = 0$$
-
-where it is deduced
-
-$$v_\odot = \sqrt{\frac{2GM_\odot}{R_\odot}} \, ,$$
-
-Expression that does not depend on body mass $m$. So that a radius sphere $R_N$ and the same
-The mass of the Sun has an escape velocity equal to that of light, $c$, shall be met
-
-$$c = \sqrt{\frac{2GM_\odot}{R_N}}$$
-
-Raising both expressions to square and dividing it gets
-
-$$\frac{v_\odot^2}{c^2} = \frac{R_N}{R_\odot} \quad\Rightarrow\quad R_N = R_\odot \frac{v_\odot^2}{c^2} = 6{,}95\times10^8 \frac{(6{,}18\times10^5)^2}{(3{,}0\times10^8)^2} \quad\Rightarrow\quad R_N = 2{,}95\times10^3\ \text{m} = 2{,}95\ \text{km}$$
-
-(b) Whereas the particle emitted from the star's surface at $c$ is
-stops at a distance $r_\text{max}$, the energy conservation is again considered,
-
-$$\frac{1}{2} m c^2 - G\frac{Mm}{R} = -G\frac{Mm}{r_\text{max}}$$
-
-where $r_\text{max}$ can be cleared,
-
-$$r_\text{max} = \frac{R}{1 - \dfrac{c^2 R}{2GM}}$$
-
-(c) In order for the light emitted by the star to reach any observer, the limit speed must be
-The radius of the light is less than that of the light, so the minimum radius will be determined by
-
-$$c = \sqrt{\frac{2GM}{R_\text{min}}} \quad\Rightarrow\quad R_\text{min} = \frac{2GM}{c^2}$$
-
-This value can also be deduced from the expression $r_\text{max}$ deduced in the previous paragraph,
-where the maximum distance increases when $R$ is increased, and becomes infinite
-when the denominator is void, the corresponding value for the same value as $R_\text{min}$. Dependence
-The value of $r_\text{max}$ with $R$ is shown in Figure 2.
-
-(d) The apparent radius of the M87* disc is
-
-$$r_\text{aparente} = 2{,}6\,\frac{2GM_\text{M87*}}{c^2} = 2{,}6\,\frac{2\times6{,}67\times10^{-11}\times10^{40}}{(3{,}00\times10^8)^2} = 3{,}85\times10^{13}\ \text{m}$$
-
-We also have to express the distance between Earth and M87* in meters,
-
-$$d_{T-\text{M87*}} = 53{,}5\times10^6 \times 3{,}00\times10^8 \times 365 \times 24 \times 3600 = 5{,}06\times10^{23}\ \text{m}$$
-
-The angular diameter $\delta$ is obtained from the apparent radius $r_\text{aparente}$ and the distance from Earth to
-M87*, $d_{T-\text{M87*}}$, using the construction shown in Figure 3.
-
-So, this is it.
-
-$$\tan\frac{\delta}{2} = \frac{r_\text{aparente}}{d_{T-\text{M87*}}}$$
-
-When the distance is very large, the angular diameter is very small, so if we express
-$\delta$ in radians, we can approximate $\tan(\delta/2) \approx \delta/2$, so that
-
-$$\delta = \frac{2 r_\text{aparente}}{d_{T-\text{M87*}}} = \frac{2\times3{,}85\times10^{13}}{5{,}06\times10^{23}} \quad\Rightarrow\quad \delta = 1{,}52\times10^{-10}\ \text{rad} = 31{,}4\ \text{microsegundos de arco}$$
-
-Figure 2: Graph of $r_\text{max}$
-compared to $R$ in units of $GM/c^2$
-
-Figure 3: Angular diameter $\delta$.
-
-(e) The radius $r'$ of an object on the surface of the Moon that would be observed from Earth with the
-same angular diameter will be given by
-
-$$r' = \frac{\delta \cdot d_{T-L}}{2} = \frac{1{,}52\times10^{-10} \times 3{,}80\times10^8}{2} = 0{,}0289\ \text{m}$$
-
-So the diameter of the object, $d'$, would be
-
-$$d' = 2r' = 0{,}0578\ \text{m} = 5{,}78\ \text{cm}$$
-
-The angular diameter of the black hole seen from Earth is approximately that of a ball of
-tennis on the surface of the moon.
-(f) From the angular resolution of the telescope system, $\delta = \lambda/D$, we can clear the distance
-minimum between telescopes to resolve the diameter of the M87* disc,
-
-$$D = \frac{\lambda}{\delta} = \frac{1{,}3\times10^{-3}}{1{,}52\times10^{-10}} \quad\Rightarrow\quad D = 8{,}55\times10^6\ \text{m} = 8550\ \text{km}$$
-
-The Event Horizon Telescope (EHT) is composed of a global network of eight
-radio observatories spread across the planet, including Antarctica, Chile, Hawaii, Europe,
-Mexico and the United States. This network works like a virtual telescope whose maximum distance
-between observatories is comparable to the diameter of the Earth, about 12,000 km.
-In order to increase the resolution of the EHT, tests with lengths of
-The wave of 0.87 mm, although no images have been obtained so far. Recently, there has been a
-The proposal for the installation of telescopes on the moon, synchronized with those on Earth, which
-The Commission's proposal for a directive on the protection of workers from the risks of the environment is therefore not a sufficient one.
-The future of the participants in this Olympics.
-
+Con l'obiettivo di aumentare la risoluzione dell'EHT, si stanno effettuando prove con lunghezze d'onda di 0,87 mm, anche se finora non sono state ottenute immagini. Di recente è stata proposta l'installazione di telescopi sulla Luna, sincronizzati con quelli terrestri, il che rappresenterebbe una sfida scientifica e tecnologica di grande portata, alla quale forse parteciperanno in futuro i partecipanti a questa Olimpiade.
 
 <!--fig:start-->
 ![[_attachments/2026 37 OAF 2026 PRUEBA TEORICA/2026 37 OAF 2026 PRUEBA TEORICA_p5_f1.png]]
@@ -898,12 +671,138 @@ The future of the participants in this Olympics.
 *Diagramma diametro angolare δ*
 <!--fig:end-->
 
-**Topic:** [[Gravitation]], [[Astrophysics]], [[Wave Optics]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Black Hole (object)|Black Hole]], [[Star (object)|Star]], [[Photon (object)|Photon]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1BTnlgeWDC3DbE1PIRHxJvW5Ln1gLnTA8/view)
 
+<div class="qlang-split" data-lang="en"></div>
+
+P2. History of the study of black holes.
+Black holes are celestial bodies whose gravitational attraction is so strong that not even light can escape from within them. Although the first such object, Cygnus X-1, was only identified in 1971, speculation about their existence had already lasted for two hundred years.
+
+In 1783, the English astronomer and clergyman John Michell published an article on the possible existence of
+«dark stars», so massive that the escape velocity from their surface would exceed that of light.
+Assuming that light consists of particles with mass, obeying classical Newtonian laws, and that their initial velocity upon emission from the star's surface is the speed of light in vacuum, $c$,
+a) determine the radius of the sphere into which the mass of the Sun would have to be compressed so that the new escape velocity becomes $c$.
+b) derive the expression for the distance $r_\text{max}$ from the center of a star of mass $M$ and radius $R$ beyond which its light would no longer reach an observer.
+c) what is the minimum radius $R_\text{min}$ that such a star of mass $M$ must have in order for the light it emits to reach any observer, no matter how far away?
+The idea of black holes fell into oblivion during the 19th century with the development of wave theories of light. Since light was considered a massless wave, it seemed meaningless to consider whether Newtonian gravity could affect it. Thus, one had to wait for the theory of general relativity before the concept of dark stars evolved into today's black holes.
+
+In 2009, the Event Horizon Telescope (EHT) project began with the goal of taking the first photograph of a black hole, specifically of the accretion disk orbiting around it. The supermassive black hole M87* was selected, located millions of light-years from Earth and with a mass thousands of times greater than that of the Sun.
+
+According to general relativity, the size of the event horizon of a stationary black hole—the boundary beyond which even light cannot escape—is given by the Schwarzschild radius,
+
+$$r_S = \frac{2GM}{c^2} \, .$$
+
+Additionally, the mass of the black hole bends the path of light passing near it, an effect known as gravitational lensing, which makes M87* appear larger than its actual size. Therefore, the black hole's disk (Figure 1) appears to have a radius $r_\text{aparente} = 2{,}6\,r_S$.
+
+d) Determine the angular diameter of the disk (the angle subtended by the disk) as seen from Earth.
+
+e) Calculate the diameter of a circular object that subtends the same angular diameter as seen from Earth, but which is located on the surface of the Moon.
+
+The Event Horizon Telescope (EHT) is not a single telescope, but a global network of radio telescopes that uses very long baseline interferometry (VLBI) to observe at a wavelength of $\lambda = 1{,}3$ mm. Using this technique, the angular resolution (minimum distinguishable angular diameter) achieved by two telescopes separated by a distance $D$ is determined by $\lambda/D$.
+
+Figure 1: Image of M87* obtained by the EHT and published in 2019.
+
+f) Calculate the minimum distance required between two telescopes to resolve the accretion disk of M87*.
+
+Data:
+Speed of light in vacuum
+$c = 3{,}00\times10^8\ \text{m/s}$
+Solar radius
+$R_\odot = 6{,}95\times10^8\ \text{m}$
+Escape velocity from the surface of the Sun
+$v_\odot = 618\ \text{km/s}$
+Earth-Moon distance
+$d_{T-L} = 3{,}80\times10^5\ \text{km}$
+Universal gravitational constant
+$G = 6{,}67\times10^{-11}\ \text{N}\,\text{m}^2\,\text{kg}^{-2}$
+Mass of the black hole M87*
+$M_\text{M87*} = 10^{40}\ \text{kg}$
+Earth-M87* distance
+$d_{T-\text{M87*}} = 53{,}5\times10^6$ light-years (1)
+(1) One light-year is the distance traveled by light in one year.
+
+P2. Solution
+a) The escape velocity from the surface of the Sun can be obtained using energy conservation, considering a body of mass $m$ starting from the Sun's surface with velocity $v_\odot$ and reaching infinity with zero velocity,
+
+$$\frac{1}{2} m v_\odot^2 - G\frac{M_\odot m}{R_\odot} = 0$$
+
+from which it follows that
+
+$$v_\odot = \sqrt{\frac{2GM_\odot}{R_\odot}} \, ,$$
+
+This expression is independent of the mass $m$ of the body. For a sphere of radius $R_N$ and the same mass as the Sun to have an escape velocity equal to that of light, $c$, it must hold that
+
+$$c = \sqrt{\frac{2GM_\odot}{R_N}}$$
+
+Squaring both sides and dividing yields
+
+$$\frac{v_\odot^2}{c^2} = \frac{R_N}{R_\odot} \quad\Rightarrow\quad R_N = R_\odot \frac{v_\odot^2}{c^2} = 6{,}95\times10^8 \frac{(6{,}18\times10^5)^2}{(3{,}0\times10^8)^2} \quad\Rightarrow\quad R_N = 2{,}95\times10^3\ \text{m} = 2{,}95\ \text{km}$$
+
+b) Taking into account that a particle emitted from the star's surface with velocity $c$ comes to rest at a distance $r_\text{max}$, energy conservation is again applied,
+
+$$\frac{1}{2} m c^2 - G\frac{Mm}{R} = -G\frac{Mm}{r_\text{max}}$$
+
+from which $r_\text{max}$ can be solved:
+
+$$r_\text{max} = \frac{R}{1 - \dfrac{c^2 R}{2GM}}$$
+
+c) For light emitted by the star to reach any observer, the limiting velocity must be less than that of light; thus, the minimum radius is determined by
+
+$$c = \sqrt{\frac{2GM}{R_\text{min}}} \quad\Rightarrow\quad R_\text{min} = \frac{2GM}{c^2}$$
+
+This value can also be deduced from the expression for $r_\text{max}$ derived in part (b), where it is observed that the maximum distance increases as $R$ increases, and becomes infinite when the denominator vanishes, which occurs for the same value of $R_\text{min}$. The dependence of $r_\text{max}$ on $R$ is shown in Figure 2.
+
+d) The apparent radius of the M87* disk is
+
+$$r_\text{aparente} = 2{,}6\,\frac{2GM_\text{M87*}}{c^2} = 2{,}6\,\frac{2\times6{,}67\times10^{-11}\times10^{40}}{(3{,}00\times10^8)^2} = 3{,}85\times10^{13}\ \text{m}$$
+
+We must also express the distance between Earth and M87* in meters,
+
+$$d_{T-\text{M87*}} = 53{,}5\times10^6 \times 3{,}00\times10^8 \times 365 \times 24 \times 3600 = 5{,}06\times10^{23}\ \text{m}$$
+
+The angular diameter $\delta$ is obtained from the apparent radius $r_\text{aparente}$ and the distance from Earth to M87*, $d_{T-\text{M87*}}$, using the construction shown in Figure 3.
+
+Thus,
+
+$$\tan\frac{\delta}{2} = \frac{r_\text{aparente}}{d_{T-\text{M87*}}}$$
+
+When the distance is very large, the angular diameter is very small; therefore, if we express $\delta$ in radians, we can approximate $\tan(\delta/2) \approx \delta/2$, so that
+
+$$\delta = \frac{2 r_\text{aparente}}{d_{T-\text{M87*}}} = \frac{2\times3{,}85\times10^{13}}{5{,}06\times10^{23}} \quad\Rightarrow\quad \delta = 1{,}52\times10^{-10}\ \text{rad} = 31{,}4\ \text{microsegundos de arco}$$
+
+Figure 2: Graph of $r_\text{max}$ versus $R$ in units of $GM/c^2$
+
+Figure 3: Angular diameter $\delta$.
+
+e) The radius $r'$ of an object on the surface of the Moon that would appear from Earth with the same angular diameter is given by
+
+$$r' = \frac{\delta \cdot d_{T-L}}{2} = \frac{1{,}52\times10^{-10} \times 3{,}80\times10^8}{2} = 0{,}0289\ \text{m}$$
+
+Therefore, the diameter of the object, $d'$, would be
+
+$$d' = 2r' = 0{,}0578\ \text{m} = 5{,}78\ \text{cm}$$
+
+The angular diameter of the black hole as seen from Earth is approximately that of a tennis ball on the surface of the Moon.
+
+f) From the angular resolution of the telescope system, $\delta = \lambda/D$, we can solve for the minimum distance between telescopes required to resolve the diameter of the M87* disk,
+
+$$D = \frac{\lambda}{\delta} = \frac{1{,}3\times10^{-3}}{1{,}52\times10^{-10}} \quad\Rightarrow\quad D = 8{,}55\times10^6\ \text{m} = 8550\ \text{km}$$
+
+The Event Horizon Telescope (EHT) consists of a global network of eight radio observatories distributed across the planet, including Antarctica, Chile, Hawaii, Europe, Mexico, and the United States. This network functions as a virtual telescope whose maximum distance between observatories is comparable to Earth's diameter, approximately 12,000 km.
+
+To increase the EHT’s resolution, tests are being conducted using wavelengths of 0.87 mm; however, images have not yet been obtained. Recently, the installation of telescopes on the Moon has been proposed, synchronized with those on Earth—representing a major scientific and technological challenge, possibly involving future participants in this Olympiad.
+
+<!--fig:start-->
+![[_attachments/2026 37 OAF 2026 PRUEBA TEORICA/2026 37 OAF 2026 PRUEBA TEORICA_p5_f1.png]]
+*Image M87 from the EHT telescope*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2026 37 OAF 2026 PRUEBA TEORICA/2026 37 OAF 2026 PRUEBA TEORICA_p8_f2.png]]
+*Graph r_max vs R in units of GM/c²*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2026 37 OAF 2026 PRUEBA TEORICA/2026 37 OAF 2026 PRUEBA TEORICA_p8_f3.png]]
+*Angular diameter diagram δ*
+<!--fig:end-->
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Spagna 2026 — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/sphere,object/capacitor"></span>
@@ -1313,47 +1212,28 @@ Come indicato dall'aiuto, si ottiene una condizione di stabilità indipendente d
 
 <div class="qlang-split" data-lang="en"></div>
 
-P3. They're nanoparticles.
-The use of nanoparticles in medicine is becoming increasingly popular. Because of their small size, they are
-They can be inserted into cells, so they can be used for a wide range of applications. By
-For example, effective treatment of cancer is one of the most important problems in modern medicine.
-where conventional therapies, like chemotherapy, have a lot of effects.
-Secondary school. The use of nanoparticles opens up the possibility of less invasive and more specific treatments.
-In this context, the properties of nanoparticles are essential for achieving effective therapy,
-The Commission has also proposed a number of measures to improve the quality of the information available to the public.
-Let's say a company has made a mass-spherical particle.
-$M = 5$ fg ($1\,\text{fg} = 10^{-15}$ g) and ask us to characterize it. The company wants to know its
-electrical charge and its radio. To do this, we attach the particles to a vertical plate.
-In a water environment, we apply a potential difference of $V = 6{,}25$ mV between
-the same plate and an adjacent plate, one distance from the first
-$L = 10$ cm (figura 1). The nanoparticles are accelerated (with a friction)
-The Commission has already decided to extend the scope of the proposal to the Member States. It 's detected .
-que alcanzan la otra placa en un tiempo $t = 1\,\text{s}$. The electric field between the
-The plates are uniform.
-a)
-What acceleration have you been experiencing?
-(b) What is their burden? Indicate it in units of elementary charge of the electron.
-After doing the experiment, we find that the means of transporting the
-Nanoparticles are saline media, containing both positive and negative free ions. The Commission therefore
-nanoparticles tend to surround themselves with a layer of opposite sign ions (Figure 2) that eventually screens up
-its true load (its apparent load is less than the real load). It is therefore necessary to reproduce these conditions
-In our experiment. This is done by repeating the experiment in a saline medium and this time a
-tiempo $t' = 1{,}118\,\text{s}$.
-c)
-What percentage of the load is shifted?
-In their journey from one plate to another the nanoparticles will drag that
-The ion layer with itself, and therefore its moving radius (radio
-The hydrodynamic) will be larger than the real one. Another group of researchers,
-Using a high-precision microscope, he measured the actual radius of the
-The resulting particle is $R = 95\ \text{nm}$.
-The average load concentration created around each
-The nanoparticle in the saline medium is $\rho = 33500\ e^-/\mu\text{m}^3$.
-(d) What is the load thickness $\delta$ surrounding the nanoparticle? What is the hydrodynamic radius that has the
-nanoparticle in the saline medium?
-A crucial aspect in nanoparticle manufacturing is determining its solution stability, i.e.
-determining whether the nanoparticles will join together to form aggregates (unstable) or remain separate
-among themselves. If only electrostatic repulsion is taken into account, all charged particles would be
-stable as they would repel each other. However, there are a number of attractive interactions that are weak,
+P3. Nanoparticles.
+
+The use of nanoparticles in medicine is becoming increasingly popular. Due to their small size, they are capable of entering cells, thus enabling a wide range of applications. For example, effective cancer treatment is one of the most important challenges in modern medicine, where conventional therapies such as chemotherapy involve a large number of side effects. The use of nanoparticles opens the possibility for less invasive and more specific treatments.
+
+In this context, the properties of nanoparticles are essential to achieving effective therapy; therefore, their characterization is of great interest.
+
+Imagine that a company has manufactured a spherical particle of mass
+$M = 5$ fg ($1\,\text{fg} = 10^{-15}$ g) and has asked us to characterize it. The company wishes to determine its electric charge and its radius. To this end, we attach the particles to a vertical plate in an aqueous medium and apply a potential difference $V = 6{,}25$ mV between this plate and another adjacent plate, separated from the first by a distance
+$L = 10$ cm (Figure 1). The nanoparticles are accelerated (with negligible friction) from the plate at lower potential to the one at higher potential. It is detected that they reach the other plate in a time $t = 1\,\text{s}$. The electric field between the plates is uniform.
+
+a) What acceleration have they undergone?
+b) What is their charge? Express it in units of the elementary electron charge.
+After performing the experiment, we realize that the media through which nanoparticles are transported are saline solutions containing freely moving positive and negative ions. Therefore, nanoparticles tend to be surrounded by a layer of oppositely charged ions (Figure 2), which eventually screens their true charge (their apparent charge is smaller than the actual one). It is therefore necessary to reproduce these conditions in our experiment. To this end, the experiment is repeated in a saline medium, and this time a time $t' = 1{,}118\,\text{s}$ is recorded.
+
+c) What percentage of the charge is screened?
+
+During their motion from one plate to another, nanoparticles will carry along this ionic layer with them, and thus their hydrodynamic radius (radius in motion) will be larger than the actual one. Another group of researchers, using a high-precision microscope, has measured the actual radius of the particle, obtaining $R = 95\ \text{nm}$.
+
+The average charge concentration created around each nanoparticle in the saline medium is $\rho = 33500\ e^-/\mu\text{m}^3$.
+
+d) What is the charge thickness $\delta$ surrounding the nanoparticle? What is the hydrodynamic radius of the nanoparticle in the saline medium?
+A crucial aspect in nanoparticle fabrication is determining their stability in solution, that is, whether nanoparticles will aggregate (becoming unstable) or remain separated (remaining stable). If only electrostatic repulsion[^1] is considered, all charged particles would be stable because they would repel each other. However, a series of weak attractive interactions,
 
 [^1]: The Coulomb force between two charges $q$ and $q'$ in water is 80 times smaller than in vacuum.
 
@@ -1361,84 +1241,73 @@ Figure 1
 
 Figure 2
 
-The first is the Van der Waals interactions (VdW) which occur between all types of particles and
-molecules, regardless of their electrical charge. Assuming the particles are pointed, the force
-de VdW es $F_\text{VdW} = B/r^7$, siendo $B = 10^{-14}\ \text{N}\cdot\text{nm}^7$ y $r$ la distancia entre ellas.
-It considers two nanoparticles with a scratched load, separated by a distance $r = 10R$.
-e)
-Can they be considered stable?
-f)
-What is the distance to which they can be approached to ensure their stability?
-After we have done the calculations, we get exquisite and we consider that the real
-Nanoparticles do not behave in a punctual manner. Considering the finite size of the nanoparticle,
-They can approximate the interactions that regulate their stability using the following expressions:
+known as van der Waals (VdW) interactions, occur between all types of particles and molecules regardless of their electrical charge. Assuming the particles are point-like, the VdW force is $F_\text{VdW} = B/r^7$, where $B = 10^{-14}\ \text{N}\cdot\text{nm}^7$ and $r$ represent the distance between them.
+
+Consider two nanoparticles with screened charge, separated by a distance $r = 10R$.
+
+e) Can they be considered stable?
+f) What is the limiting distance at which they can approach each other to ensure their stability?
+
+After performing the calculations, we become meticulous and consider that nanoparticles do not actually behave as point-like objects. Taking into account the finite size of the nanoparticle, their stability-regulating interactions can be approximated using the following expressions:
 
 $$F_\text{atracción}(r) = \frac{A\cdot R}{12 r^2}$$
 
 $$F_\text{repulsión}(r) = \frac{R\cdot Z}{2 l_D} e^{-\frac{r}{l_D}}$$
 
-Where each magnitude corresponds to:
+where each quantity corresponds to:
 
-$R$: Radio de la partícula.
+$R$: Particle radius.
 
-$r$: Distance between the surfaces of the particles interacting.
+$r$: Distance between the surfaces of the interacting particles.
 
-$A$: A constant that regulates the intensity of VdW forces.
+$A$: Constant that regulates the strength of van der Waals forces.
 
-$Z$: A constant that regulates the intensity of the electrostatic repulsion forces.
+$Z$: Constant that regulates the strength of electrostatic repulsion forces.
 
-$l_D$: Feature length of Debye, which depends on the conditions of the medium.
+$l_D$: Debye screening length, which depends on the medium conditions.
 g)
-Obtain a condition which allows the stability of nanoparticles to be determined by the
-constantes que regulan las interacciones ($A$, $Z$ y $l_D$)
-The following is the list of the countries:
-1. It describes the condition of stability through inequality.
-2. Determines the maximum value of the function $r^2 e^{-\frac{r}{l_D}}$ based on
-$r$ (in Figure 3 you can see that there is only a maximum). This is you
-This will allow you to obtain the stability condition considering the worst
-If possible, and finally remove the distance variable $r$.
-Date: Electron charge $e = -1{,}6\times10^{-19}\ \text{C}$.
+Derive a condition that allows determining the stability of nanoparticles, in terms of the constants regulating the interactions ($A$, $Z$ and $l_D$).
+Hint:
+1. Express the stability condition as an inequality.
+2. Determine the maximum value of the function $r^2 e^{-\frac{r}{l_D}}$ in terms of $r$ (in Figure 3 you can see that there is only one maximum). This will allow you to obtain the stability condition by considering the worst-case scenario, and finally eliminate the distance variable $r$.
+Given: Electron charge $e = -1{,}6\times10^{-19}\ \text{C}$.
 
 Figure 3
 
 P3. Solution
-(a) Since the field between the plates is uniform, the force to which the plates are subjected is the force applied to the plates.
-nanoparticles in their path between plates is constant, so they describe a movement
-uniformly accelerated. So, what?
+a) Since the electric field between the plates is uniform, the force acting on the nanoparticles during their motion between the plates is constant; therefore, they undergo uniformly accelerated motion. Thus,
 
 $$L = \frac{1}{2} a t^2 \quad\Rightarrow\quad a = \frac{2L}{t^2} = \frac{2\times0{,}1}{1^2} \quad\Rightarrow\quad a = 0{,}2\ \text{m/s}^2$$
 
-(b) The electric field inside the plates shall be
+b) The electric field inside the plates is given by
 
 $$E = \frac{V}{L}$$
 
-The force experienced by the nanoparticle is $F = Q\cdot E$. Applying Newton's second law,
+The force experienced by the nanoparticle is $F = Q\cdot E$. Applying Newton’s second law,
 
 $$M \cdot a = Q\cdot E = \frac{QV}{L} \quad\Rightarrow\quad Q = \frac{M\cdot a\cdot L}{V} = \frac{5\times10^{-18}\times0{,}2\times0{,}1}{6{,}25\times10^{-3}} = 1{,}6\times10^{-17}\ \text{C}$$
 
-As the nanoparticles move toward the highest potential plate, the charge must be negative sign,
-So that
+Since the nanoparticles move toward the plate with higher potential, their charge must be negative; thus,
 
 $$Q = -1{,}6\times10^{-17}\ \text{C} = 100\,e^-$$
 
-(c) Operating in the same manner as in paragraphs (a) and (b), the saline half-acceleration shall be
-given by
+c) Proceeding in the same way as in parts a) and b), the acceleration in the saline medium is given by
 
 $$a' = \frac{2L}{t'^2} = \frac{2\times0{,}1}{1{,}118^2} = 0{,}16\ \text{m/s}^2$$
 
-And the total load will be
+and the total charge will be
 
 $$Q' = -\frac{M\cdot a'\cdot L}{V} = -\frac{5\times10^{-15}\times0{,}16\times0{,}1}{6{,}26\times10^{-3}} = -1{,}28\times10^{-17}\ \text{C} = 80\,e^-$$
 
-The percentage of the load load shall be
+The percentage of shielded charge will be
 
 $$\%Q = \frac{Q - Q'}{Q}\times100 = \frac{100\,e^- - 80\,e^-}{100\,e^-}\times100 \quad\Rightarrow\quad \%Q = 20\ \%$$
 
-(d) The volume of the screening layer shall be given by:
+d) The volume of the shielding layer will be given by
 
 $$\Delta V = \frac{4}{3}\pi \left[(R+\delta)^3 - R^3\right]$$
 
-Since the load on the screening layer is $\Delta Q = Q - Q' = 20\,e^-$, it has
+Given that the charge of the shielding layer is $\Delta Q = Q - Q' = 20\,e^-$, one obtains
 
 $$\Delta Q = \rho\,\Delta V \quad\Rightarrow\quad 20\,e^- = \rho\,\frac{4}{3}\pi \left[(R+\delta)^3 - R^3\right] \quad\Rightarrow$$
 
@@ -1446,67 +1315,61 @@ $$\delta = \sqrt[3]{R^3 + \frac{3}{4\pi\rho}\,20\,e^-} - R = \sqrt[3]{(9{,}5\tim
 
 $$\delta = 5\times10^{-9}\ \text{m} = 5\ \text{nm}$$
 
-The hydrodynamic radio will be
+The hydrodynamic radius will be
 
 $$R + \delta = 100\ \text{nm}$$
 
-(e) For $r = 10R$, in units of S.I.,
+e) For $r = 10R$, one has in SI units,
 
 $$F_\text{VdW} = \frac{B}{r^7} = \frac{10^{-77}}{(10\times9{,}5\times10^{-8})^7} = 1{,}43\times10^{-35}\ \text{N}$$
 
 $$F_C = \frac{k}{80}\frac{Q'^2}{r^2} = \frac{9\times10^9}{80}\frac{(1{,}28\times10^{-17})^2}{(10\times9{,}5\times10^{-8})^2} = 2{,}04\times10^{-14}\ \text{N}$$
 
-Como $F_\text{VdW} \ll F_C$, la fuerza atractiva es mucho menor que la repulsiva, por lo que
-The nanoparticles are stable.
-(f) To obtain the distance limit to which they can be approached, the force of VdW and the force of the
-electrical and electronic equipment,
+Since $F_\text{VdW} \ll F_C$, the attractive force is much smaller than the repulsive one, so the nanoparticles are stable.
+
+f) To find the limiting distance at which they can approach each other, equate the van der Waals force and the electrostatic one,
 
 $$\frac{B}{r_\text{min}^7} = \frac{k}{80}\frac{Q'^2}{r_\text{min}^2} \quad\Rightarrow$$
 
 $$r_\text{min} = \sqrt[5]{\frac{80B}{k\,Q'^2}} = \sqrt[5]{\frac{80\times10^{-77}}{9\times10^9 \times(1{,}28\times10^{-17})^2}} = 5{,}58\times10^{-11}\ \text{m} = 0{,}0558\ \text{nm} \, .$$
 
-As $r_\text{min} < R$, nanoparticles will be stable at any distance.
-(g) For stability, repulsive forces must be equal to or greater than those of attraction.
-As shown in aid 1, there is an inequality,
+Since $r_\text{min} < R$, the nanoparticles will be stable at any distance.
+
+g) For stability, repulsive forces must be equal to or greater than attractive ones.
+As indicated in hint 1, one has an inequality,
 
 $$\frac{A\cdot R}{12 r^2} \le \frac{R\cdot Z}{2 l_D} e^{-\frac{r}{l_D}}$$
 
-The expression is rearranged so that the aid can be used 2,
+The expression is rearranged to make use of hint 2,
 
 $$\frac{A\cdot l_D}{12 Z} \le r^2 e^{-\frac{r}{l_D}}$$
 
-The maximum of the function on the right side is sought. The derivative of the
-the function,
+One seeks the maximum of the function on the right-hand side. To do so, one needs to compute the derivative of the function,
 
 $$\frac{d}{dr}\left(r^2 e^{-\frac{r}{l_D}}\right) = 2r e^{-\frac{r}{l_D}} - \frac{r^2}{l_D} e^{-\frac{r}{l_D}} = \left(2 - \frac{r}{l_D}\right) r e^{-\frac{r}{l_D}}$$
 
-The value of $r$ maximizing the equation, $r_\text{max}$, corresponds to the value where the derivative is zeroed.
-As you can see in the graph in Figure 2, there's only a maximum,
+The value of $r$ that maximizes the equation, $r_\text{max}$, corresponds to where the derivative becomes zero.
+As seen in the graph of Figure 2, there is only one maximum,
 
 $$\left(2 - \frac{r_\text{max}}{l_D}\right) r_\text{max}\, e^{-\frac{r_\text{max}}{l_D}} = 0 \quad\Rightarrow\quad 2 - \frac{r_\text{max}}{l_D} = 0 \quad\Rightarrow\quad r_\text{max} = 2 l_D$$
 
-Finally, it is replaced by inequality to obtain the condition of stability,
+Finally, substitute into the inequality to obtain the stability condition,
 
 $$\frac{A e^2}{24 l_D Z} \le 1$$
 
-As the aid indicated, a stability condition independent of the distance $r$ is obtained.
-
+As indicated in the hint, one obtains a stability condition independent of distance $r$.
 
 <!--fig:start-->
 ![[_attachments/2026 37 OAF 2026 PRUEBA TEORICA/2026 37 OAF 2026 PRUEBA TEORICA_p10_f4.png]]
-*Apparato placche parallele verticali*
+*Parallel plate apparatus, vertical plates*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2026 37 OAF 2026 PRUEBA TEORICA/2026 37 OAF 2026 PRUEBA TEORICA_p10_f5.png]]
-*Nanoparticella con strato ionico*
+*Nanoparticle with ionic layer*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2026 37 OAF 2026 PRUEBA TEORICA/2026 37 OAF 2026 PRUEBA TEORICA_p11_f6.png]]
-*Grafico funzione r²e^{-r/lD}*
+*Graph of function r²e^{-r/lD}*
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1BTnlgeWDC3DbE1PIRHxJvW5Ln1gLnTA8/view)
+

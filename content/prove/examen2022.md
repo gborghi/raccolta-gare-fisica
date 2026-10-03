@@ -154,268 +154,194 @@ Discútalo.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Prova di: elettromagnetismo
-Fase locale della XXXII Olimpiada spagnola di fisica
-Cordoba, 21 febbraio 2022
+Prova di: ELETTROMAGNETISMO
+Fase Locale della XXXII Olimpiade Spagnola di Fisica
+Córdoba, 21 febbraio 2022
 
-Il problema è:
+PROBLEMA:
 
 (Questo problema riguarda il campo elettrico)
 
-Due carichi q e -2q sono posizionati sul piano XY, lungo l'asse X, a 1 m da
-Distanza. Calcolo:
-a) Modulo, direzione e direzione del vettore di campo elettrico in un punto dell'asse X
-situato tra le cariche e a destra e a sinistra di ciascuna di esse.
-- **B.** I punti dell'asse X in cui il campo è zero.
-- **C.** L'equazione che descrive i punti del piano che si trovano a potenziale
-- Zero.
+Due cariche q e -2q sono collocate nel piano XY, lungo l'asse X, a 1 m di distanza. Calcolare:
+a) Il modulo, la direzione e il verso del vettore campo elettrico in un punto dell'asse X situato tra le cariche, sia a destra che a sinistra di ciascuna di esse.
+- **B.** I punti dell'asse X in cui il campo è nullo.
+- **C.** L’equazione che descrive i punti del piano aventi potenziale nullo.
+
 Dati:
+Nota: Per maggiore semplicità si può collocare q nell'origine del sistema di coordinate.
 
-Nota: per maggiore semplicità, q può essere situato all'origine del sistema di coordinate.
-
-Domande:
+QUESTIONI:
 
 1. (Questa domanda riguarda il campo magnetico)
-La bilancia di Cotton è usata per misurare
-sperimentare campi magnetici. Se
-Si tratta di una bilancia di due piatti, in uno di
-che possono essere messe in massa, mentre
-che dall'altro si pendono un conducente per il quale
-circola un flusso. Questo conducente si stazionando
-all'interno di un campo magnetico e si
-il bilanciatore (vedi figura 1).
-Quando si passa corrente attraverso il
-Il conducente, la bilancia si sbilanci, quindi
-che bisogna aggiungere nuovi pesi per tornare a
-- E' un'ottima cosa.
+La bilancia di Cotton viene utilizzata per misurare sperimentalmente campi magnetici. Si tratta di una bilancia a due piatti, in cui su un piatto si possono collocare masse, mentre sull'altro è appeso un conduttore percorso da corrente. Questo conduttore viene posto all'interno di un campo magnetico e si bilancia la bilancia (vedi figura 1).
+Quando viene fatta passare corrente nel conduttore, la bilancia si sbilancia, quindi è necessario aggiungere nuove pesi per ripristinare l’equilibrio.
 Figura 1
-Sapendo che la lunghezza del conduttore è di 20 cm, il corrente che circola attraverso il
-il conducente è 3A e un peso di 10 g è stato aggiunto per bilanciare la bilancia,
-risponde alle seguenti domande:
+Sapendo che la lunghezza del conduttore è di 20 cm, la corrente che lo attraversa è di 3 A e che è stata aggiunta una massa di 10 g per ripristinare l’equilibrio, rispondere alle seguenti domande:
 
-Nome:
+Cognome: Nome:
 
-a) Qual è il valore della forza che agisce sul filo orizzontale? E il suo indirizzo?
-e senso?
+a) Qual è il valore della forza che agisce sul filo orizzontale? E quale la sua direzione e verso?
+
 - **B.** Qual è il valore del campo magnetico che agisce sul filo orizzontale?
-- **C.** Che succede se si inverte il senso dell'intensità di corrente che attraversa il
-- Un filo?
 
-2. (Questa domanda è sull'induzione elettromagnetica)
-Una spira circolare di radio 5 cm è situata all'interno di un campo
-magnetico uniforme di 0,5 T orientato nella direzione positiva dell'asse di
-- Abcissi. Calcolare il flusso che attraversa la spira nei seguenti casi:
+- **C.** Cosa accade se si inverte il verso della corrente che attraversa il filo?
+
+2. (Questa domanda riguarda l’induzione elettromagnetica)
+
+Un anello circolare di raggio 5 cm si trova all’interno di un campo magnetico uniforme di 0,5 T orientato nella direzione positiva dell’asse delle ascisse. Calcolare il flusso che attraversa l’anello nei seguenti casi:
 
 Figura 1
 
-Qual sarebbe ora il flusso magnetico, se il vento del dispositivo (a) fosse girato
-con velocità angolare $\pi$ di radiani al secondo, intorno a:
-f) un diametro parallelo all'asse Y?
-g) un diametro parallelo all'asse Z?
-h) l'asse di simmetria, parallelo all'asse X?
+Qual sarebbe ora il flusso magnetico, se l’anello del punto (a) viene fatto ruotare con una velocità angolare di $\pi$ radianti al secondo, intorno a:
 
-L'Onda  sperimentazione scientifica
-Fase locale della XXXIII Olimpiada di Fisica spagnola
-Cordoba, 21 febbraio 2022
+f) un diametro parallelo all’asse Y?
 
-MOVEMENTO OSCILATORIO E OPTICA GEMEMETRICA
+g) un diametro parallelo all’asse Z?
 
-PROBLEMA: Un'imbarcazione si sbalza su e giù in modo che il suo spostamento
-Verticale viene dato dall'equazione
+h) l’asse di simmetria, parallelo all’asse X?
+
+ONDE – ESPERIMENTAZIONE SCIENTIFICA
+Fase Locale della XXXIII Olimpiada Spagnola di Física
+Córdoba, 21 febbraio 2022
+
+MOTO OSCILLATORIO E OTTICA GEOMETRICA
+
+PROBLEMA: Un battello si muove su e giù in modo tale che il suo spostamento verticale è descritto dall’equazione
 
 ( )
 (
-) (in unità di S. I.)
+) (in unità del S.I.)
 
-a) Determinare l'ampiezza, la frequenza angolare, la costante di fase, la frequenza e il periodo del
-movimento.
+a) Determinare l’ampiezza, la pulsazione, la fase iniziale, la frequenza e il periodo del moto.
 
-b) In che posizione si trova il bote in istante = 1 s?
+b) In quale posizione si trova il battello all’istante = 1 s?
 
-c) Determinare la velocità e l'accelerazione per qualsiasi istante di tempo.
+c) Determinare la velocità e l’accelerazione in funzione del tempo.
 
-d) Calcolare i valori iniziali della posizione, della velocità e dell'accelerazione del bote.
+d) Calcolare i valori iniziali della posizione, della velocità e dell’accelerazione del battello.
 
-Domanda: L'immagine che segue rappresenta il quadro di Venera dello specchio di Velázquez.
-Spiega e ragiona cosa vede Venere guardandosi allo specchio. Come farebbe a vedere la
-La stanza che è sulla sua destra?
+DOMANDA: L'immagine seguente rappresenta il quadro "Venere allo specchio" di Velázquez.
+Spiega e motiva cosa vede Venere guardando nello specchio. Come faresti per vedere la stanza che si trova alla sua destra?
 
-L'esercizio di questo tipo di attività è stato
+ESPERIMENTAZIONE SCIENTIFICA
 
-Il pendolo semplice è stato utilizzato nelle prime
-Determinazioni precise dell'accelerazione della gravità
-(g) Questo è possibile poiché sia il periodo di
-oscillazione (T) come la lunghezza del filo (l) possono
-La Commissione ha adottato una decisione che non può essere adottata. Per oscillazioni
+Il pendolo semplice è stato utilizzato nelle prime determinazioni precise dell'accelerazione di gravità terrestre (g). Ciò è possibile perché sia il periodo di oscillazione (T) che la lunghezza del filo (l) possono essere determinati con relativa facilità. Per piccole oscillazioni, si può esprimere g in funzione di T e l nella seguente forma:
 
-Nome:
+(1)
 
-(
-), g può essere espresso in funzione di T e di l come segue:
-
- (1)
-
-La procedura utilizzata consiste nel misurare il periodo di oscillazione per vari tipi di
-lunghezze del filo. I dati ottenuti sono raccolti nella tabella seguente:
+Il procedimento impiegato consiste nel misurare il periodo di oscillazione per diverse lunghezze del filo. I dati raccolti sono riportati nella seguente tabella:
 
 l (m)
 T (s)
-0.20
-0.84
-0.40
-1.33
-0.60
-1.50
-0.80
-1.82
-1.00
-1.97
+0,20
+0,84
+0,40
+1,33
+0,60
+1,50
+0,80
+1,82
+1,00
+1,97
 
-a) Rendizione grafica (lineare) adeguata, su carta millimetrica, delle
-I dati della tabella precedente, secondo la legge fisica dell'esperimento (Eq. (1)).
-- **B.** Tracciare in grafico una linea retta il più possibile ai dati sperimentali.
-- **C.** Scegli due punti nella retta per effettuare una stima della pendenza.
-- **D.** Dal punto c, stima anche l'incertezza.
-- **E.** Calcola ragionevolmente il valore di gravità terrestre.
-f) Valutare il valore dell'ordine di origine. Ha senso il valore ottenuto?
-Parlate di questo.
+a) Effettua la rappresentazione grafica opportuna (lineare), su carta millimetrata, dei dati della tabella precedente, secondo la legge fisica dell'esperimento (Eq. (1)).
+- **B.** Traccia sulla grafico una retta il più aderente possibile ai dati sperimentali.
+- **C.** Scegli due punti sulla retta per effettuare una stima della pendenza.
+- **D.** Dalla retta del punto c, stima anche l'incertezza.
+- **E.** Calcola ragionevolmente il valore dell'accelerazione di gravità terrestre.
+f) Stima il valore dell'ordinata all'origine. Ha senso il valore ottenuto? Discutilo.
 
-**Topic:** [[Electrostatics]], [[Magnetism]], [[Oscillations & Waves]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Wire (object)|Wire]], [[Coil (object)|Coil]], [[Mirror (object)|Mirror]], [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ETpja6VLXPiZ5DHTbTJr-6UhirIope4c/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Test of: electromagnetism
-Local phase of the XXXII Spanish Olympics in Physics
-Cordoba, 21 February 2022
+Test of: ELECTROMAGNETISM
+Local Phase of the XXXII Spanish Physics Olympiad
+Córdoba, February 21, 2022
 
-The problem is:
+PROBLEM:
 
 (This problem is about electric field)
 
-Two charges q and -2q are placed on the XY plane, along the X axis, 1 m from the
-distance. Calculation of the
-(a) The module, direction and direction of the electric field vector at a point on the X axis
-situated between the loads and to the right and left of each of them.
-- **B.** The points on the X-axis where the field is zero.
-- **C.** The equation describing the points of the plane that are at potential
-- What?
-The data:
+Two charges q and -2q are placed on the XY plane, along the X-axis, 1 m apart. Calculate:
+a) The magnitude, direction, and sense of the electric field vector at a point on the X-axis located between the charges, to the right and left of each charge.
+- **B.** The points on the X-axis where the electric field is zero.
+- **C.** The equation describing the points in the plane that are at zero potential.
 
-Note: For simplicity, q can be located at the origin of the coordinate system.
+Data:
 
-Question: What is the purpose of this report?
+Note: For greater simplicity, you may place q at the origin of the coordinate system.
+
+QUESTIONS:
 
 1. (This question is about magnetic field)
-The Cotton scale is used to measure
-magnetic fields experimentally. Se
-It is a two-plate scale, in one of the
-which can be placed in masses, while
-The other one is a driver who hangs from the other.
-There's a current flowing. This driver is in position
-inside a magnetic field and is
-The balance sheet is balanced (see Figure 1).
-When current is passed through the
-The driver, the scale is unbalanced, so the
-That we have to add new weights to get back to
-Balance the scales.
+The Cotton balance is used to experimentally measure magnetic fields. It consists of a two-pan balance, where masses can be placed on one pan, while a current-carrying conductor hangs from the other. This conductor is positioned inside a magnetic field, and the balance is initially equilibrated (see Figure 1).
+When current passes through the conductor, the balance becomes unbalanced, so additional weights must be added to restore equilibrium.
 Figure 1
-The current circulating through the conductor is 20 cm.
-the driver is 3A and a weight of 10 g has been added to balance the scale,
-answer the following questions:
+Given that the length of the conductor is 20 cm, the current flowing through it is 3 A, and a mass of 10 g was added to restore balance, answer the following questions:
 
-Family name:
+Last names: First name:
 
-(a) What is the value of the force acting on the horizontal thread? And his address?
-And meaning?
-- **B.** What is the value of the magnetic field acting on the horizontal thread?
-- **C.** What happens if the direction of the current intensity travelling through the
-The thread?
+a) What is the value of the force acting on the horizontal wire? And its direction and sense?
 
-2. (This question is about electromagnetic induction)
-A circular spire with a radius of 5 cm is located inside a field
-a uniform magnetic 0,5 T oriented in the positive direction of the
-The abscesses. Calculate the flow through the spire in the following cases:
+- **B.** What is the value of the magnetic field acting on the horizontal wire?
+
+- **C.** What happens if the direction of the current flowing through the wire is reversed?
+
+2. (This question concerns electromagnetic induction.)
+
+A circular loop of radius 5 cm is placed inside a uniform magnetic field of 0.5 T oriented in the positive direction of the x-axis. Calculate the magnetic flux passing through the loop in the following cases:
 
 Figure 1
 
-What would the magnetic flux be now, if the spindle of the apparatus (a) were to be rotated
-a radial velocity of $\pi$ radians per second, of:
-(f) a diameter parallel to the Y axis?
-(g) a diameter parallel to the Z axis?
-(h) the axis of symmetry parallel to the X axis?
+What would now be the magnetic flux, if the loop from part (a) is rotated with an angular velocity of $\pi$ radians per second around:
+f) a diameter parallel to the y-axis?
+g) a diameter parallel to the z-axis?
+h) the axis of symmetry, parallel to the x-axis?
 
-Whereas  Scientific experimentation
-Local phase of the XXXIII Spanish Olympics in Physics
-Cordoba, 21 February 2022
+WAVES – SCIENTIFIC EXPERIMENTATION
+Local Phase of the XXXIII Spanish Physics Olympiad
+Córdoba, February 21, 2022
 
-The following is a list of the types of geometrical optics and oscillatory motion:
+OSCILLATORY MOTION AND GEOMETRICAL OPTICS
 
-PROBLEM: A boat slides up and down so that its movement
-Vertical is given by the equation
+PROBLEM: A boat bobs up and down such that its vertical displacement is given by the equation
 
 ( )
 (
-) (in units of S. I.)
+) (in SI units)
 
-(a) Determine the width, angular frequency, phase constant, frequency and period of the
-The movement.
+a) Determine the amplitude, angular frequency, phase constant, frequency, and period of the motion.
 
-(b) What position is the boat in the instant = 1 s?
+b) At what position is the boat at time = 1 s?
 
-(c) Determine speed and acceleration for any moment of time.
+c) Determine the velocity and acceleration as functions of any instant in time.
 
-(d) Calculate the initial values of the boat's position, speed and acceleration.
+d) Calculate the initial values of position, velocity, and acceleration of the boat.
 
-QUESTION: The following image represents the picture of Venus in the mirror by Velázquez.
-Explain and reason what Venus is seeing by looking in the mirror. How would you see the
-room that's left to your right?
+QUESTION: The following image represents the painting "Venus of the Mirror" by Velázquez.
+Explain and reason what Venus is seeing when looking into the mirror. How would you arrange yourself to see the room located to her right?
 
-The Commission has also adopted a proposal for a regulation on the
+SCIENTIFIC EXPERIMENTATION
 
-The simple pendulum was used in the first
-accurate determinations of the acceleration of gravity
-(g) the land. This is possible since both the period of
-oscillation (T) as the length of the wire (l) can be
-The Commission has already adopted a number of proposals. For oscillations
+The simple pendulum was used in the first precise measurements of Earth's gravitational acceleration (g). This is possible because both the oscillation period (T) and the length of the string (l) can be measured relatively easily. For small oscillations, g can be expressed as a function of T and l according to the following formula:
 
-Family name:
+(1)
 
-small (
-), g can be expressed as a function of T and l as follows:
+The procedure consisted in measuring the oscillation period for several string lengths. The obtained data are recorded in the following table:
 
- (1)
+l (m) | T (s)
+---|---
+0.20 | 0.84
+0.40 | 1.33
+0.60 | 1.50
+0.80 | 1.82
+1.00 | 1.97
 
-The procedure used is to measure the oscillation period for various
-lengths of the thread. The data obtained are summarised in the following table:
+a) Perform the appropriate linear graphical representation (on millimeter paper) of the data from the table, according to the physical law of the experiment (Eq. (1)).
+- **B.** Draw on the graph a straight line as closely fitted as possible to the experimental data points.
+- **C.** Select two points on the line to estimate its slope.
+- **D.** From the straight line in part c, also estimate the uncertainty of the slope.
+- **E.** Reasonably calculate the value of Earth's gravitational acceleration.
+f) Estimate the value of the y-intercept (ordinate at origin). Does this value make sense? Discuss it.
 
-l (m)
-T (s)
-0.20
-0.84
-0.40
-1.33
-0.60
-1.50
-0.80
-1.82
-1.00
-1.97
 
-(a) Perform the appropriate (linear) graphic representation on millimeter paper of the
-The data in the table above, according to the experimental law (Eq. (1)).
-- **B.** Draw a graph as straight as possible to the experimental data.
-- **C.** Choose two points in the straight line to make a slope estimate.
-- **D.** From the recitals in paragraph (c), also estimate the uncertainty.
-- **E.** Rationally calculate the value of the earth's gravity.
-(f) Estimate the value of the order at origin. Do you have any sense of the value?
-You can discuss it.
-
-**Topic:** [[Electrostatics]], [[Magnetism]], [[Oscillations & Waves]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Wire (object)|Wire]], [[Coil (object)|Coil]], [[Mirror (object)|Mirror]], [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ETpja6VLXPiZ5DHTbTJr-6UhirIope4c/view)

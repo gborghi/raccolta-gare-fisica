@@ -338,159 +338,110 @@ Nome:
 
 <div class="qlang-split" data-lang="en"></div>
 
-The test is based on the following:
-Local phase of the XXXI Spanish Olympics in Physics
-Cordoba, 24 February 2020
+Test: DYNAMICS-GRAVITY
+Local Phase of the XXXI Spanish Physics Olympiad
+Córdoba, February 24, 2020
 
-The problem is:
+PROBLEM:
 
-1.- A support of 0.5 kg is placed on a mass dock
-The Commission has not yet taken any further action.
-compresses 2 mm. Then from a height of 75 cm
-measurement of the balance position of the support,
-He dropped a weight of one kilogram on it. Assuming that the mass and
-The support moves like a single body after impact,
-reasonably answer the following questions ($g = 9.8\ \text{m/s}^2$):
-(a) Determine the frequency of oscillations of the
-a joint formed by the support and mass?
-(b) Determine the maximum compression of the pier
-measured relative to its initial length?
+1. A support of mass 0.5 kg is placed on a massless spring such that, upon placement, the spring compresses by 2 mm. Subsequently, a mass of 1 kg is dropped from a height of 75 cm measured relative to the equilibrium position of the support, onto the spring. Assuming that after impact the mass and the support move as a single body, answer the following questions reasonably ($g = 9.8\ \text{m/s}^2$):
 
-2.- A black hole is a region of spacetime in which the gravitational field is
-It's so intense, even the light can't escape. For its formation, a star of
-mass $M$ shrinks to a size smaller than the gravitational radius or, also called radius
-It's from Schwarzschild. This radius would tell us the size of a symmetry black hole.
-spherical and static. The area bounded by this radius is called the horizon of
-The events of the black hole. At that surface the escape velocity required to
-moving away from it is the speed of light.
-In a supernova explosion, the mass of the core of a supergiant star
-is ten times the mass of the sun ($M_\odot$). This explosion occurs because the core of the
-Star has already run out of fuel and there's nothing stopping the star
-collapses on itself. In this process, the star's core shrinks due to the
-gravitational pressure turning into a black hole. Determine reasonably:
+a) Determine the frequency of oscillations of the system formed by the support and the mass.
+b) Determine the maximum compression of the spring measured relative to its initial length.
 
-(a) The Schwarzschild radius ($R_s$) and the mean density of the black hole.
+2.- A black hole is a region of spacetime in which the gravitational field is so intense that even light cannot escape. For its formation, a celestial body of mass $M$ collapses to a size smaller than the gravitational radius, also known as the Schwarzschild radius. This radius would indicate the size of a static, spherically symmetric black hole. The surface defined by this radius is called the event horizon of the black hole. On this surface, the escape velocity required to move away from the black hole equals the speed of light.
 
-If you have a 1000 kg artificial satellite in circular radio orbit ($6R_s$) and you want to
-To take the position as close as possible to the event horizon ($R_s$), calculate:
+In a supernova explosion, the mass of the core of a supergiant star is ten times the solar mass ($M_\odot$). This explosion occurs because the core of the star has already exhausted all its fuel, and nothing remains to prevent the star from collapsing in on itself. In this process, the core of the star contracts under gravitational pressure and becomes a black hole. Reasonably determine:
 
-- **B.** The potential energy of the satellite in both orbits.
-- **C.** The work carried out. Interpret the result.
+a) The Schwarzschild radius ($R_s$) and the average density of the black hole.
 
-Data: $G = 6{,}67\times10^{-11}\ \text{N}\cdot\text{m}^2/\text{kg}^2$, speed of light in vacuum $c = 3{,}0\times10^8\ \text{m/s}$, mass of the
-sol $M_\odot = 2{,}0\times10^{30}\ \text{kg}$. Consider nonrelativistic conditions.
-Family name:
+If a satellite of 1000 kg is in a circular orbit with radius ($6R_s$), and it is desired to move it as close as possible to the event horizon ($R_s$), calculate:
 
-Question: What is the purpose of this report?
+- **B.** The gravitational potential energy of the satellite in both orbits.
+- **C.** The work done. Interpret the result.
 
-1.- A mass body $m$ slides under the action of gravity $g$, through an inclined plane
-que forma un ángulo $\alpha$ con la horizontal. Knowing the body leaves instantly
-Initial speed $v_0$ downward from a height $h$, determine
-reasonably the minimum value that the coefficient of friction with the
-surface of the plane tilted so that the body does not reach the base of the plane. Express the
-The result is based on the data in the statement ($m$, $g$, $\alpha$, $h$ and $v_0$).
+Data: $G = 6{,}67\times10^{-11}\ \text{N}\cdot\text{m}^2/\text{kg}^2$, speed of light in vacuum $c = 3{,}0\times10^8\ \text{m/s}$, mass of the Sun $M_\odot = 2{,}0\times10^{30}\ \text{kg}$. Consider non-relativistic conditions.
 
-2.- Obtain the expression of the gravitational potential energy of a mass $m$ as a function
-of height $h$ with respect to the surface of a planet of radius $R$ and mass $M$, taking
-As a potential energy source the surface of the planet. Express the result in
-The function of the statement data ($m$, $h$, $G$, $R$ and $M$) is the gravity constant of the $G$
-The Commission is not responsible for the implementation of this Directive.
-Note: the final energy expression must be zero when $h=0$.
+Last names: First name:
 
-Test of: WOND  Scientific experiment
-Local phase of the XXXI Spanish Olympics in Physics
-Cordoba, 24 February 2020
+QUESTIONS:
 
-The following table shows the results of the calculation:
+1.- A body of mass $m$ slides under the action of gravity $g$ down an inclined plane that forms an angle $\alpha$ with the horizontal. Knowing that the body starts at the initial instant with a velocity $v_0$ in the downward direction from a height $h$, determine rationally the minimum value that the coefficient of friction with the surface of the inclined plane must have so that the body does not reach the base of the plane. Express the result in terms of the quantities given in the statement ($m$, $g$, $\alpha$, $h$ and $v_0$).
 
-PROBLEM: The wave equation that propagates crosswise through a string
-expressed in units of the SI es:
+2.- Obtain the expression for the gravitational potential energy of a mass $m$ as a function of height $h$ above the surface of a planet of radius $R$ and mass $M$, taking the surface of the planet as the origin for potential energy. Express the result in terms of the quantities given in the statement ($m$, $h$, $G$, $R$ and $M$), where $G$ is the universal gravitational constant.
+Observation: The final expression for energy must be zero when $h=0$.
+
+Test of: WAVES – SCIENTIFIC EXPERIMENTATION
+Local Phase of the XXXI Spanish Physics Olympiad
+Córdoba, February 24, 2020
+
+WAVE MOTION
+
+PROBLEM: The transverse wave equation propagating along a string, expressed in SI units, is:
 $$y(x, t) = 0{,}06 \cos(2\pi(4t-2x))$$
 - **A.** Determine the period and wavelength.
-- **B.** Calculate the phase difference between the vibration states of a particle
-any of the strings in the instants $t = 0$ s, $t = 0{,}5$ s and $t = 0{,}625$ s.
-(c) It shows the corresponding vibrational movements in a single graph
-at the times of paragraph (b) along the X axis.
-d) Find the phase difference between the vibration states in an instant
-any for particles located at positions $x = 0$ m, $x = 1$ m and $x = 1{,}25$ m.
+- **B.** Calculate the phase difference between the vibrational states of any particle on the string at times $t = 0$ s, $t = 0{,}5$ s, and $t = 0{,}625$ s.
+c) Represent on the same graph the vibratory motions corresponding to the times in part b) along the X-axis.
+d) Find the phase difference between vibrational states at any given instant for particles located at positions $x = 0$ m, $x = 1$ m, and $x = 1{,}25$ m.
 
-Question: What is the problem ?
+QUESTION:
 The wave equation on a string is given by
 $$y(x, t) = 0{,}4 \operatorname{sen}(12\pi x) \cos(40\pi t) \quad (\text{S. I.}).$$
-- **A.** Indicate the characteristics of the wave and how it would occur.
-- **B.** Determine the distance between two consecutive points with zero width.
+- **A.** Indicate the characteristics of the wave and how it would be generated.
+- **B.** Determine the distance between two consecutive points with zero amplitude.
 
-The Commission has also adopted a proposal for a regulation on the
+SCIENTIFIC EXPERIMENTATION
 
-To measure the acceleration of the Earth's gravity, a system has been used that can
-be approximated to a simple pendulum and for which the physical law is as follows:
-$$T^2 = 4\pi^2 \frac{L}{g}$$
-where T is the period of oscillation, L is the length of the pendulum and g is the gravity. El
-The method used is to measure the oscillation period for various
-lengths of the pendulum. The data obtained are collected in the following table.
+To measure Earth's gravitational acceleration, a system approximated as a simple pendulum was used, for which the physical law is:
+$$T^2 = 4\pi^2 \frac{L}{g}$$ where T is the oscillation period, L is the pendulum length, and g is gravity. The procedure involved measuring the oscillation period for several pendulum lengths. The obtained data are recorded in the following table.
 
 | $T$ (s) | $L$ (m) |
 |---------|---------|
-| 1,88 | 0,85 |
-| 2,14 | 1,20 |
-| 2,39 | 1,46 |
-| 2,70 | 1,78 |
+| 1.88 | 0.85 |
+| 2.14 | 1.20 |
+| 2.39 | 1.46 |
+| 2.70 | 1.78 |
 
-(a) Make an appropriate representation on millimeter paper of data from the
-The above table, according to the physical law of the experiment.
-Family name:
+a) Make an appropriate representation on millimeter paper of the data from the previous table, according to the physical law underlying the experiment.
+Last names: Name:
 
-- **B.** Draw a graph as straight as possible to the experimental data.
-- **C.** Choose two points in the straight line to make a slope estimate.
-- **D.** Rationally calculate the value of the earth's gravity.
-- **E.** Estimate the value of the ordered item. Do you have any sense of the value?
+- **B.** Draw on the graph a straight line as closely fitted as possible to the experimental data.
+- **C.** Select two points on the line to estimate its slope.
+- **D.** Reasonably calculate the value of gravitational acceleration.
+- **E.** Estimate the value of the y-intercept. Does the obtained value make sense?
 
-Test of: electromagnetism
-Local phase of the XXXI Spanish Olympics in Physics
-Cordoba, 24 February 2020
+Test: ELECTROMAGNETISM
+Local Phase of the XXXI Spanish Physics Olympiad
+Córdoba, February 24, 2020
 
-The problem is:
+PROBLEM:
 
-Three point loads of $q_1 = 10\ \text{nC}$, $q_2 = -5\ \text{nC}$ and $q_3 = 20\ \text{nC}$ are located in
-a Cartesian coordinate system at points (8,0)m, (2,0)m and (0,0)m),
-the Commission. Calculate:
+Three point charges of values $q_1 = 10\ \text{nC}$, $q_2 = -5\ \text{nC}$, and $q_3 = 20\ \text{nC}$ are located in a Cartesian coordinate system at the points (8,0) m, (2,0) m, and (0,0) m, respectively. Calculate:
 
-(a) The modulus, direction and direction of the force acting on each point load.
-Draw a force diagram showing all the forces you encounter
-Submitted each load on time.
-- **B.** The electric field vector at point B of Cartesian coordinates (0,4) m.
-- **C.** The electrical potential at points A (4,0)m, B (0,4)m and C (-4,0)m.
-- **D.** If a proton is placed at point A and moves along a circular path
-So, what would the work be done? What if the continuous displacement
-By the load would have been a straight line? You're right about your answer.
-(e) If a proton is placed at rest at point B and released, what would its
-speed when passing through the point D of Cartesian coordinates (0.6) m? It describes the
-The path taken by the proton.
+a) The magnitude, direction, and sense of the force acting on each point charge.
+Draw a free-body diagram showing all forces acting on each point charge.
 
-Datos: $1\ \text{nC} = 10^{-9}\ \text{C}$; $K = 9\cdot10^9\ \text{N m}^2/\text{C}^2$; $m_p = 1{,}67\cdot10^{-27}\ \text{kg}$ (masa del protón);
-$q_p = 1{,}6\cdot10^{-19}\ \text{C}$ (carga del protón).
+- **B.** The electric field vector at point B with Cartesian coordinates (0,4) m.
+- **C.** The electric potential at points A (4,0) m, B (0,4) m, and C (-4,0) m.
+- **D.** If a proton is placed at point A and moves along a circular path to point C, what would be the work done? And if the charge had moved along a straight line instead? Justify your answer.
+e) If a proton is placed at rest at point B and released, what would be its speed when passing through point D with Cartesian coordinates (0,6) m? Describe the trajectory followed by the proton.
 
-Question: What is the purpose of this report?
+Data: $1\ \text{nC} = 10^{-9}\ \text{C}$; $K = 9\cdot10^9\ \text{N m}^2/\text{C}^2$; $m_p = 1{,}67\cdot10^{-27}\ \text{kg}$ (proton mass);
+$q_p = 1{,}6\cdot10^{-19}\ \text{C}$ (proton charge).
 
-1.- A circular spindle is connected to a galvanometer (instrument used for
-The electrical current is detected and measured by forming an electrical circuit. In the
-In the vicinity of the circuit a magnet is placed as shown in the figure.
+QUESTIONS:
 
-Please explain reasonably what will happen if:
-- **A.** alejamos el imán de la espira.
-- **B.** acercamos el imán a la espira.
-- **C.** we move the magnet and the spire together.
-- **D.** we increase the magnet's speed in the first two paragraphs.
+1.- A circular loop is connected to a galvanometer (an instrument used to detect and measure electric current), forming an electrical circuit. A magnet is placed near the circuit as shown in the figure.
 
-2.- An electron moves in a circular orbit of 50 cm radius, subjected to action
-a magnetic field of uniform strength perpendicular to the velocity vector and $10^{-3}\ \text{T}$
-The intensity. Calculate the period of your movement.
+Explain, with reasoning, what will happen if:
+- **A.** We move the magnet away from the loop.
+- **B.** We bring the magnet closer to the loop.
+- **C.** We move both the magnet and the loop together.
+- **D.** We increase the speed at which the magnet moves in parts A and B.
 
-Datos: $m_e = 9{,}1\cdot10^{-31}\ \text{kg}$ (masa del electrón); $e = 1{,}6\cdot10^{-19}\ \text{C}$ (carga del electrón).
-Family name:
+2.- An electron moves in a circular orbit of 50 cm radius, subject to the action of a uniform magnetic field perpendicular to the velocity vector and with magnitude $10^{-3}\ \text{T}$. Calculate the period of its motion.
 
-**Topic:** [[Oscillations & Waves]], [[Electrostatics]], [[Gravitation]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Wave Equation (metodo)|Wave Equation]], [[Coulomb's Law (metodo)|Coulomb's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Spring (object)|Spring]], [[Black Hole (object)|Black Hole]], [[Satellite (object)|Satellite]], [[Point Charge (object)|Point Charge]], [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18CAteawlNyFow_KNaY5-bb8K3gHj6xZw/view)
+Data: $m_e = 9{,}1\cdot10^{-31}\ \text{kg}$ (electron mass); $e = 1{,}6\cdot10^{-19}\ \text{C}$ (electron charge).
+Last names: First name:
+
+

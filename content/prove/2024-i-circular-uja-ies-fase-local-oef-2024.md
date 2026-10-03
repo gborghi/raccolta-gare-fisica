@@ -176,306 +176,208 @@ Campus Las Lagunillas, s/n. Edificio A3 – Teléfono 953 21 27 82 – 23071- JA
 
 **LOPEZ**
 
-Università di Jane
+UNIVERSITÀ DI JAÉN
 Dipartimento di Fisica
 José Juan López García
-Dipartimento di fisica Scuola
-Altre informazioni:
-Università di Jane
-23071 JANE
-Fax: +34 953 21 28 38
-jjgarcia@ujaen.es
-A/A Capo del Dipartimento di Fisica e Chimica
-Gia' il 30 gennaio 2024
-Caro amico e compagno:
-Ti scrivo in queste date, come negli anni precedenti, per richiedere di nuovo il tuo sforzo e la tua collaborazione
-per partecipare con i tuoi studenti alle Olimpiadi di Fisica. Ti faccio arrivare anche la circolare I dell'RSEF con
-informazioni sui tempi e sulle diverse fasi. Il numero di studenti assegnati al nostro distretto per passare
-La fase nazionale è di due studenti.
-La data della fase locale sarà il prossimo 23 febbraio,
-venerdì, dalle 17 alle 20. Il test si svolgerà nella sala 1 del edificio B4 del Campus delle
-Lagunilla dell'Università di Jaén.
-Il tema per la prova sarà quello corrispondente ai blocchi di Gravità, Vibrazioni e Ondate e
-L'elettromagnetismo. È importante inoltre rivedere i contenuti del primo baccalaureato
-La Commissione ha adottato una proposta di regolamento che prevede che le misure di cui all'articolo 1 del regolamento (CEE) n.
-- A problemi. La campagna di formazione è stata organizzata in base alle informazioni disponibili.
-La ricerca di dati, di risultati e di errori, deve essere ottenuta, cercando di affrontare in qualche modo la prova.
-La fase nazionale (in questo caso non si farà l'esperimento; si
-fornire i dati). L'annessione è allegata come ANNEXO all'esercizio di una precedente convocazione.
-È la mia intenzione avere i risultati e la medaglia di classificazione elaborata nei giorni successivi alla
-svolgimento del test per avere il tempo di esaminare con gli studenti
-I risultati della ricerca sono stati selezionati - in data che vi parleremo di più - e alcuni aspetti della prova sperimentale sono stati
-che possono aiutare a far fronte alla parte pratica della fase nazionale.
-Come ci indica la circolare inviata dalla RSEF, la Fase Nazionale si terrà a Granada, tenendo come
-Ospita l'Università di Granada. Il termine previsto è dal 4 al 7 aprile 2024. Ti prego, in questo senso,
-che si parla con i vostri studenti che parteciperanno al loro impegno, per quanto possibile, per raggiungere
-fino alla fine del processo, almeno fino alla fase nazionale. Tutte le informazioni relative alle Olimpiadi
-(resoluzioni ufficiali, circolari, norme statuitarie, temi, ecc.)
-La Commissione ha adottato una decisione che prevede che il regime di pesca sia stato adottato in base a un'azione di cui all'articolo 1, paragrafo 1, del regolamento (UE) n. Le informazioni relative alla fase locale di Jaén sono state
-si trova in:
-https://www.ujaen.es/studios/accesso-e-matricula/de-interesse-per-centri-di-istruzione-secundaria/olimpiade
-Il programma di formazione professionale è stato sviluppato in Italia.
-Ricordo che gli studenti partecipanti devono assistere con DNI, nonché l'originale della
-- Il modulo di iscrizione. Come supporto potranno utilizzare solo calcolatori non programmabili, se:
-all'esame è vietato l'uso di qualsiasi dispositivo elettronico.
-Le
-iscrizioni
-se
-effettueranno
-riempendo
-el
-modulo
-con
-link
-https://forms.gle/GGMNZA76dhyRDrCfA e il fascicolo allegato e inviando e t t a l'utente per posta
-indirizzo elettronico a jjgarcia@ujaen.es, indicando nella voce PARTICIPACIÓN OLIMPIADA DE FISICA. Il termine per la
-l'iscrizione è dal 1o febbraio al 15 febbraio.
-In attesa della tua partecipazione, ti saluta attentamente
+Dipartimento di Fisica Scuola
+Politecnica Superiore (A3‐036)
+UNIVERSITÀ DI JAÉN
+23071 JAÉN
+Fax: +34 953 21 28 38 jjgarcia@ujaen.es
+A/A Direttore del Dipartimento di Fisica e Chimica
+Jaén 30 gennaio 2024
 
-Fdo: José Juan López García
-Dipartimento di fisica dell'Università di Jaén
+Caro amico e collega:
 
-Campus Las Lagunillas, s/n. Edificio A3  Telefono 953 21 27 82 23071- JAEN
-LOPEZ
-GARCIA JOSE
-- Io ...
-26011533M
-Firmato digitalmente da LOPEZ
-GARCIA JOSE JUAN - 26011533M
+Ti scrivo in queste date, come negli anni precedenti, per chiederti nuovamente il tuo impegno e collaborazione affinché i tuoi studenti partecipino alla Olimpiade di Fisica. Ti invio anche la I circolare della RSEF con informazioni sui termini e sulle diverse Fasi. Il numero di studenti assegnati al nostro distretto per passare alla Fase nazionale è di due studenti.
+
+La data della celebrazione della fase locale sarà presso la nostra Università il prossimo 23 febbraio, venerdì, nell'orario dalle 17.00 alle 20.00. La prova si svolgerà nell'aula 1 del palazzo B4 del Campus delle Lagunillas dell'Università di Jaén.
+
+Il programma per la prova sarà quello relativo ai blocchi di Gravitazione, Vibrazioni e Onde e
+Elettromagnetismo. È inoltre importante rivedere i contenuti del primo anno del liceo relativi alla Cinematica, Dinamica e Lavoro ed Energia, sia dal punto di vista teorico che applicativo in problemi. Nella convocazione sarà inoltre incluso un esercizio in cui, a partire dalla rappresentazione grafica di dati, dovranno essere ricavati alcuni risultati e errori, cercando in qualche modo di affrontare l'aspetto sperimentale presente nella Fase Nazionale (in questo caso non verrà effettuato alcun esperimento; saranno forniti solo i dati). Si allega come ALLEGATO l'esercizio di una convocazione precedente.
+
+È mia intenzione avere i risultati e la classifica con medaglie elaborate nei giorni successivi allo svolgimento della prova, al fine di disporre del tempo necessario per rivedere con gli studenti selezionati – in date che concorderemo con voi – alcuni aspetti dell'esercizio sperimentale che possano essere d'aiuto per affrontare la parte pratica della Fase Nazionale.
+Come ci viene indicato nella circolare inviata dalla RSEF, la Fase Nazionale si svolgerà a Granada, con l'Università di Granada come ospite. La data prevista è dal 4 al 7 aprile 2024. Ti preghiamo, in tal senso, di comunicare ai tuoi studenti che parteciperanno il loro impegno, nella misura del possibile, per raggiungere almeno la fine del processo, ossia la Fase Nazionale. Tutte le informazioni relative all'Olimpiade (risoluzioni ufficiali, circolari, norme statutarie, programmi, ecc.) sono disponibili sul sito web della RSEF (https://rsef.es/olimpiada-espanola-de-fisica). L'informazione relativa alla Fase Locale di Jaén si trova in: https://www.ujaen.es/estudios/acceso-y-matricula/de-interes-para-centros-de-educacionsecundaria/olimpiadas https://www.ujaen.es/departamentos/fisica/ponencia-de-fisica).
+
+Ti ricordo che gli studenti partecipanti dovranno presentarsi muniti di documento d’identità e del modulo originale di iscrizione. A supporto della prova potranno utilizzare soltanto una calcolatrice non programmabile, essendo proibito durante l’esame l’uso di qualsiasi dispositivo elettronico.
+
+Le iscrizioni dovranno essere effettuate compilando il modulo con link https://forms.gle/GGMNZA76dhyRDrCfA e la scheda allegata, inviando infine questa ultima tramite posta elettronica a jjgarcia@ujaen.es, indicando nell’oggetto "PARTICIPAZIONE OLIMPIADE DI FISICA". Il termine per le iscrizioni sarà dal 1° febbraio al 15 febbraio.
+
+Nella speranza di contare sulla tua partecipazione, ti saluta cordialmente
+
+Firma: José Juan López García
+Dipartimento di Fisica dell'Università di Jaén
+
+ Campus Las Lagunillas, s/n. Edificio A3 – Telefono 953 21 27 82 – 23071- JAÉN
+LOPEZ GARCIA JOSE JUAN - 26011533M
+Firmato digitalmente da LOPEZ GARCIA JOSE JUAN - 26011533M
 Data: 2024.01.30 11:34:19 +01'00'
 
-XXXIV Olimpiada Nazionale di Fisica, FASE LOCALE JAEN
+XXXIV OLIMPIADA NAZIONALE DI FISICA, FASE LOCALE JAÉN
 
-(Rimandare questa copia a: jjgarcia@ujaen.es, e conservare l'originale firmato durante la prova)
+(Invia questa copia a: jjgarcia@ujaen.es, e conserva l'originale firmato durante la prova)
 
-Dati personali
+DATI PERSONALI
 
-Nome 1o
+Cognome 1o
 
-Nome 2o
+Cognome 2o
 
 Nome
 
-N.I.F.
+Codice Fiscale (N.I.F.)
 
 Luogo di nascita
 
-Data di registrazione
+Data
 
-DOMICILIO Calle / Piazza
-No
+DOMICILIO Via / Piazza
+Numero
 
-Popolazione
+Comune
 
-Codice postale
+CAP
 
 Telefoni
 
 e-mail
 
-Dati del responsabile (madre e/o padre o tutore legale)
+DATI DEL RAPPRESENTANTE LEGALE (MADRE E/O PADRE O TUTORE)
 
-Nome e cognome
+Cognome e nome
 
-Calle / Piazza
+Via / Piazza
 
-No
+Numero
 
-Popolazione
+Comune
 
-Codice postale
-
-Telefoni
-
-Firma del responsabile autorizzando
-partecipare
-
-DATOS ACADEMICOS: Centro di formazione professionale o di laurea
-
-Nome del Centro
-Calle / Piazza
-Popolazione
-Codice postale
+CAP
 
 Telefoni
-e-mail
 
-Direttore del Centro (nome e cognome)
+Firma del rappresentante autorizzandolo a partecipare
 
-Professore di fisica dello studente
+DATI SCOLASTICI: ISTITUTO IN CUI L'ALUNNO FREQUENTA IL BACCHERELATO O LA FORMAZIONE PROFESSIONALE
 
-Nome e cognome
+Nome dell'Istituto
+Via / Piazza
+Comune
+CAP
 
-Cargo o funzione svolto nel Centro
+Telefoni e-mail
 
-Telefono di contatto __________________________________ e-mail
+Direttore dell'Istituto (cognome e nome)
 
-Jaen,
-de
-de 2023
+PROFESSORE DI FISICA DELL'ALUNNO
 
-Firma dello studente:
+Cognome e nome
 
-Sigillo del Centro
+Carica o funzione svolta nell'Istituto
 
-Campus Las Lagunillas, s/n. Edificio A3  Telefono 953 21 27 82  23071- JAEN
+Telefono di contatto_________________________________ e-mail
 
-**Topic:** [[Oscillations & Waves]], [[Magnetism]], [[Gravitation]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Wave Equation (metodo)|Wave Equation]], [[Superposition Principle (metodo)|Superposition Principle]], [[Ampère's Law (metodo)|Ampère's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1yXS7FHgEA0DNIaP0H9XUAjD7ufogXOLj/view)
+Jaén, il ___ del 2023
+
+Firma dell'alunno/a:.
+
+Timbro dell'Istituto
+
+Campus Las Lagunillas, s/n. Edificio A3 – Telefono 953 21 27 82 – 23071- JAÉN
+
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the following:
+**LOPEZ**
 
-The University of Jane
+UNIVERSITY OF JAÉN
 Department of Physics
-José Juan López García is the first
-Department of Physics School
-Higher technical education (A3-036)
-The University of Jane
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Fax: +34 953 21 28 38
-The Commission has decided to extend the period of validity of the proposal.
-A/A Head of the Department of Physics and Chemistry
-30 January 2024
+José Juan López García
+Department of Physics, School
+Superior Polytechnic (A3‐036)
+UNIVERSITY OF JAÉN
+23071 JAÉN
+Fax: +34 953 21 28 38 jjgarcia@ujaen.es
+
+To: Head of the Department of Physics and Chemistry
+Jaén, January 30, 2024
+
 Dear friend and colleague:
-I am writing you on this day, as I have done in previous years, to ask you again to work hard and collaborate.
-To participate with your students in the Physics Olympiad. I'll also get you the RSEF circular with
-information on time limits and the different phases. The number of students assigned to our district to pass
-The national phase is two students.
-The date of the local phase will be held at our University on February 23,
-Friday, from 5pm to 8pm. The test will take place in classroom 1 of building B4 of the University of
-Laguna from the University of Jaén.
-The test material shall be the one corresponding to the Gravity, Vibration and Wave blocks and
-It's electromagnetism. It is also important to review the contents of the first bachelor's degree
-The main objectives of the programme are to promote the development of the European Union's research and technological development programmes.
-to trouble. The call will also include an exercise in which, starting from the graphic representation, the
-The results and errors must be obtained, trying to somehow deal with the test.
-The first is that the experimental is put into the National Phase (in our case the experiment will not be done; only the
-they shall provide the data). The year of a previous call is annexed as an ANNEX.
-I intend to have the results and the classification medal drawn up in the days following the
-the test is taken to give students time to review it
-The Commission has already decided to take a decision on the
-The Commission is also working on a proposal for a directive on the protection of workers' rights.
-As the circular sent by the RSEF indicates, the National Stage will be held in Granada, with the following objectives:
-She hosts the University of Granada. The date is scheduled for 4 to 7 April 2024. I would beg you, in this regard,
-You should talk to your students about their commitment to reaching out to you as much as possible.
-until the end of the process, at least, until the National Phase. All the information about the Olympics
-(official resolutions, circulars, statutory rules, themes, etc.) can be obtained on the website of the
-The Commission has also adopted a number of proposals for the establishment of a European Parliament and Council meeting on the subject of the European Parliament's proposal for a Council Directive on the approximation of the laws of the Member States relating to the approximation of the laws of the Member States relating to the approximation of the laws of the Member States relating to the approximation of the laws of the Member States relating to the approximation of the laws of the Member States. The information on the Jaén Local Phase is
-is found in:
-The European Commission has also launched a programme to support the development of the European Union's research and development policy.
-The Commission has also adopted a number of measures to ensure that the Commission is able to take account of the situation of the Member States.
-I remind you that the participating pupils must attend with DNI as well as the original of the
-the registration form. Only non-programmable calculators may be used as supporting material, if:
-the use of any electronic device shall be prohibited during the examination.
-The Commission
-The following is a list of the official languages of the European Union:
-se
-They shall
-Filling
-el
-Form
-with
-link
-The Commission shall, by means of implementing acts, adopt implementing acts in accordance with the procedure referred to in Article 1 of Regulation (EC) No 1272/2003.
-The following information is provided by the European Commission to the European Parliament and the Council: The deadline for the
-The registration period is from 1 to 15 February.
-Looking forward to your participation, he greets you attentively
 
-Fdo: Jose Juan López García
-Department of Physics at the University of Jaén
+I am writing to you at this time, as in previous years, to kindly request your continued effort and collaboration in involving your students in the Physics Olympiad. I am also sending you the first circular from RSEF with information regarding deadlines and the different phases. The number of students assigned to our district for advancement to the National Phase is two students.
 
-Campus Las Lagunillas, s/n. Building A3  Telephone 953 21 27 82 23071- JAEN
-- What ?
-GARCIA JOSE
-- John -
-26011533M
-Signed digitally by LOPEZ
-The Commission has decided to take the necessary measures to ensure that the measures taken are implemented in accordance with Article 107 (1) TFEU.
-The date is: 2024.01.30 11:34:19 +01'00'
+The local phase will be held at our University on Friday, February 23, from 5:00 p.m. to 8:00 p.m. The examination will take place in classroom 1 of building B4 on the Lagunillas Campus of the University of Jaén.
 
-XXXIV NATIONAL OLYMPICS of Physics, local phase
+The syllabus for the exam will correspond to the topics in Gravitation, Vibrations and Waves and
+Electromagnetism. It is also important to review the first-year Bachillerato topics on Kinematics, Dynamics, and Work and Energy, both from a theoretical standpoint and in terms of problem-solving applications. The examination will also include an exercise in which students must derive certain results and errors from a graphical representation of data, attempting to simulate the experimental component featured in the National Phase (in our case, no actual experiment will be performed; only data will be provided). An exercise from a previous examination is attached as an ANEXO.
 
-(Send this copy to: jjgarcia@ujaen.es, and keep the original signed during the test)
+It is my intention to have the results and medal ranking compiled in the days following the exam, so as to allow sufficient time for reviewing with the selected students—on dates we will confirm with you—certain aspects of the experimental test that may help them prepare for the practical portion of the National Phase.
+As indicated in the circular sent by RSEF, the National Phase will be held in Granada, hosted by the University of Granada. The scheduled dates are April 4 to 7, 2024. I kindly ask you to discuss with your students who will participate the importance of committing, as much as possible, to go through the entire process, at least up to the National Phase. All information regarding the Olympiad (official resolutions, circulars, statutes, syllabi, etc.) can be found on the RSEF website (https://rsef.es/olimpiada-espanola-de-fisica).). Information regarding the Jaén Local Phase is available at: https://www.ujaen.es/estudios/acceso-y-matricula/de-interes-para-centros-de-educacionsecundaria/olimpiadas https://www.ujaen.es/departamentos/fisica/ponencia-de-fisica
 
-The following information is provided:
+I remind you that participating students must attend with their D.N.I. and the original copy of the registration form. As supporting materials, only non-programmable calculators will be allowed; the use of any electronic device during the exam is strictly prohibited.
 
-First name
+Registrations must be completed by filling out the form with link https://forms.gle/GGMNZA76dhyRDrCfA and the attached registration sheet, then sending this final document by email to jjgarcia@ujaen.es, with the subject line: PARTICIPACIÓN OLIMPIADA DE FÍSICA. The registration period will run from February 1 to February 15.
 
-First name
+Looking forward to your participation, I remain sincerely yours,
 
-Name of the person
+Fdo: José Juan López García
+Department of Physics, University of Jaén
 
-N.I.F.
+ Campus Las Lagunillas, s/n. Building A3 – Phone: +34 953 21 27 82 – 23071- JAÉN
+LOPEZ GARCIA JOSE JUAN - 26011533M
+Digitally signed by LOPEZ GARCIA JOSE JUAN - 26011533M
+Date: 2024.01.30 11:34:19 +01'00'
 
-Place of birth
+XXXIV NATIONAL PHYSICS OLYMPIAD, LOCAL PHASE JAÉN
 
-Date of the order
+(Return this copy to: jjgarcia@ujaen.es, and keep the original signed document during the exam)
 
-DOMICILIO Street / Square
-No
+PERSONAL INFORMATION
 
-Population
+First Surname
+Second Surname
+Name
+N.I.F. (National Identity Number)
+Place of Birth
+Date
 
-Postal code
-
-Telephones
-
+HOME ADDRESS
+Street / Square
+Number
+Town
+Postal Code
+Phone Numbers
 e-mail
 
-Data of the person responsible (mother and/or father or legal guardian)
+PARENT OR LEGAL GUARDIAN INFORMATION (MOTHER AND/OR FATHER OR TUTOR)
 
-First and last names
-
+Last Names and First Name
 Street / Square
+Number
+Town
+Postal Code
+Phone Numbers
+Signature of guardian authorizing participation
 
-No
+ACADEMIC INFORMATION: HIGH SCHOOL OR PROFESSIONAL TRAINING INSTITUTION ENROLLED
 
-Population
-
-Postal code
-
-Telephones
-
-Signature of the person responsible authorising him to
-Participate
-
-Academic data: Centre for the study of Bachelor's or Vocational Training
-
-Name of the Centre
+Institution Name
 Street / Square
-Population
-Postal code
+Town
+Postal Code
+Phone Numbers and e-mail
 
-Telephones
-e-mail
+Head of Institution (last names and first name)
 
-Director of the Centre (first name and surname)
+STUDENT'S PHYSICS TEACHER
 
-Student physics teacher
+Last Names and First Name
+Position or Role at Institution
+Contact Phone ______________________________________ e-mail
 
-First and last names
+Jaén, ___ of 2023
 
-Job or function at the Centre
+Student's Signature:
+Institution Seal
 
-The following information is provided by the Commission:
 
-Jaen,
-de
-de 2023
-
-Signature of the student:
-
-Seal of the Centre
-
-Campus Las Lagunillas, s/n. Building A3  Telephone 953 21 27 82  23071- JAEN
-
-**Topic:** [[Oscillations & Waves]], [[Magnetism]], [[Gravitation]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Wave Equation (metodo)|Wave Equation]], [[Superposition Principle (metodo)|Superposition Principle]], [[Ampère's Law (metodo)|Ampère's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1yXS7FHgEA0DNIaP0H9XUAjD7ufogXOLj/view)

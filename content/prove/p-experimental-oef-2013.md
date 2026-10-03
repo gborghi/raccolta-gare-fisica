@@ -146,38 +146,38 @@ in cui $I_0$ è il corrente iniziale, quando il circuito è chiuso in $t = 0$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The test is carried out in a laboratory. Determination of the capacity of a capacitor**
+**Experimental Test. Determination of a Capacitor's Capacity**
 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-The process of loading a capacitor through a resistor is to be experimentally studied, and the capacitance of the capacitor is to be deduced.
+**Objective.**
+An experimental study will be carried out on the charging process of a capacitor through a resistor, and the capacitance of the capacitor will be deduced.
 
-The following table shows the manufacturer's specifications for the product:
+**Materials.**
 - Electrolytic capacitor
-- A pile of stakes.
-- Electrical resistance.
-- Polymer with two probes and two connecting pins (crocodiles).
-- Two wire with tweezers.
-- It's a timekeeper.
+- Dry cell battery (petaca battery)
+- Electrical resistor
+- Multimeter with two probes and two alligator clip connectors
+- Two cables equipped with clips
+- Stopwatch
 
-Theoretical model of the system
-A capacitor is a device used to store electrical charge. The main characteristic of a capacitor is its capacity, $C$, the ratio between the load it stores and the potential difference between its terminals.
+**Theoretical Model.**
+A capacitor is a device used to store electric charge. Its main characteristic is its capacitance, $C$, defined as the ratio between the charge it stores and the potential difference across its terminals.
 
-In this experiment, a capacitor initially discharged through a resistor, $R$, is charged, feeding the circuit with an electric battery, as outlined in Figure 1. After the circuit is closed, the current circulating begins to charge the capacitor, increasing the potential difference between its terminals. Therefore, the potential drop in resistance and the current flowing through it are decreasing. In particular, it can be shown that the current decreases exponentially over time, $t$, in the form of
+In this experiment, a capacitor initially uncharged will be charged through a resistor, $R$, powered by an electric battery, as schematically shown in Figure 1. After closing the circuit, current begins to flow and charge the capacitor, causing the potential difference across its terminals to increase. Consequently, the voltage drop across the resistor and the current flowing through it gradually decrease. Specifically, it can be demonstrated that the current decreases exponentially with time, $t$, according to the expression
 
 $$I = I_0\, e^{-t/(RC)} \quad (1)$$
 
-where $I_0$ is the starting current, when the circuit is closed at $t = 0$.
+where $I_0$ is the initial current, measured at the moment the circuit is closed, $t = 0$.
 
-The following information is provided by the Commission:
+**Experimental Procedure**
 
-1) Measure with the polymer the resistance value $R$.
+1) Use the multimeter to measure the value of the resistor $R$.
 
-2) With the electrical components at your disposal, build the electrical circuit, initially leaving one of the stack connections open. Please note that:
-- The electrolytic capacitor has a defined electrical polarity (see Figures). If this polarity is not respected, the capacitor will break when the circuit is closed and the measurements will not be correct.
-- The polymer is used as a millimeter, on the 2 mA scale. Before closing the circuit, make sure that the connections to this instrument are correct.
-- The capacitor must be initially discharged. To do this, you just need to short-circuit your two terminals with one of the wires. (Fig. 69) 2)
+2) Using the electrical components available, assemble the electric circuit, initially leaving one of the connections to the battery open. Note that:
+- The electrolytic capacitor has a defined electrical polarity (see figures). If this polarity is not respected, the capacitor will be damaged when closing the circuit and the measurements will not be correct.
+- The multimeter is used as a milliammeter, on the 2 mA scale. Before closing the circuit, ensure that the connections of this instrument are correct.
+- The capacitor must initially be uncharged. To achieve this, simply short-circuit its two terminals using one of the cables. (Fig. 2)
 
-3) Close the circuit and start the chronometer at the same time. Note the value of the current $I$ circulating at regular intervals of 10 seconds, up to a maximum value of 120 s. The reading of the polymer is not instantaneous, so the measurement at the initial instant, $I(t=0)$, should not be taken into account for subsequent calculations. Present the measurements of $I$ in the second column of a table as follows.
+3) Close the circuit and, simultaneously, start the stopwatch. Record the value of the current $I$ flowing at regular intervals of 10 seconds, up to a maximum time of 120 s. The multimeter reading is not instantaneous, so do not consider the measurement taken at the initial instant, $I(t=0)$, for subsequent calculations. Present the measurements of $I$ in the second column of a table as follows.
 
 | $t$ (s) | $I$ ( ) |
 |---------|--------|
@@ -186,23 +186,19 @@ The following information is provided by the Commission:
 | $\ldots$ | |
 | 120 | |
 
-4) Transform equation (1) to obtain a linear dependence between some function of $I$ and time $t$. Note in the third column of the table above the values of this $I$ function.
+4) Transform equation (1) to obtain a linear dependence between some function of $I$ and time $t$. Record in the third column of the above table the values of this function of $I$.
 
-5) Graphically represent the points corresponding to this linear dependence on the millimeter paper.
+5) Plot graphically on millimeter paper the points corresponding to this linear dependence.
 
-6) Determine the slope, $p$, and the ordered at the origin, $c$, of the straight line that best fits these points.
+6) Determine the slope, $p$, and the y-intercept, $c$, of the line that best fits these points.
 
-7) From the values of $p$ and $c$ obtained in 6) and the value of $R$ measured in 1), determine the values of the initial current, $I_0$, and the capacitor capacity, $C$.
+7) Using the values of $p$ and $c$ obtained in 6) and the value of $R$ measured in 1), determine the values of the initial current, $I_0$, and of the capacitor's capacitance, $C$.
 
-8) Suppose the main source of error in this experiment is the current measurement $I$, and that the uncertainty of each measurement is $\pm$ a unit in the last digit presented on the polymer screen. Estimate the uncertainties of $I_0$ and $C$.
+8) Assume that the main source of error in this experiment is the measurement of the current $I$, and that the uncertainty of each measurement is $\pm$ one unit in the last digit displayed on the multimeter's screen. Estimate the uncertainties of $I_0$ and of $C$.
 
 <!--fig:start-->
 ![[_attachments/P-EXPERIMENTAL-OEF-2013/P-EXPERIMENTAL-OEF-2013_p1_f1.png]]
 *RC circuit with battery and ammeter*
 <!--fig:end-->
 
-**Topic:** [[Circuits]], [[Electrostatics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Switch (object)|Switch]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1rPpeUrFn9n1hNKUa77cbX0V6IitCbBA2/view)
+

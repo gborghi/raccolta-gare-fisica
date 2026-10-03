@@ -214,388 +214,273 @@ $45^\circ$
 
 <div class="qlang-split" data-lang="it"></div>
 
-Successivamente troverete le prove che compongono questa
-Fase locale delle Olimpiadi di Fisica 2018.
-Sono separati in tre blocchi:
--
-Uno
-Relativo
-a
-dinamica
-y
-campo
-gravità
-(obbligo);
--
-y
-Altri
-due
-Relativi
-a
-Electromagnetismo
-y
-Movimento ondulativo tra cui devi scegliere uno.
-Non dimenticare di indicare il tuo nome e cognome su ogni blocco e
-- Le consegnate separatamente.
-Anima, prova il tuo spirito olimpico e dimostra il tuo
-Buona formazione FISIca
+Di seguito troverai i testi che compongono questa
+Fase Locale delle Olimpiadi di Fisica 2018.
+Sono suddivisi in tre blocchi:
+- uno relativo alla dinamica e al campo gravitatorio (obbligatorio);
+- e altri due relativi a “Elettromagnetismo” e “Movimento ondulatorio”, tra i quali devi sceglierne uno.
+
+Non dimenticare di indicare il tuo nome e cognome in ogni blocco e consegnarli separatamente.
+Buona fortuna! Metti alla prova il tuo spirito olimpico e dimostra la tua buona preparazione FISICA
 2018
 
-Prova di: PECCI - DINAMICA
-Fase locale della XXIX Olimpiada spagnola di fisica
-Cordoba, 6 febbraio 2018
+Prova di: GRAVITÀ - DINAMICA
+Fase Locale della XXIX Olimpiade Spagnola di Fisica
+Córdoba, 6 febbraio 2018
 Università di Córdoba
 
-Il problema è:
+PROBLEMA:
 
-1.-) Un motociclista di 80 kg guida una motociclista di 120 kg in direzione di un looping
-come quello della figura, il cui punto più alto si trova a 10 metri dal suolo. Quando arrivo
-al punto B, in cui la velocità della moto è di 80 km/h, il motore della moto
-la moto si ferma per aver rotto, non potendo continuare a accelerare.
-Rispondere ragionevolmente alle seguenti domande, presumendo che il
-- Raggiudicazione. Determina:
+1.-) Un motociclista di 80 kg guida una moto da 120 kg in direzione a un loop come quello della figura, il cui punto più alto si trova a 10 m dal suolo. All’arrivo nel punto B, dove la velocità della moto è di 80 km/h, il motore si ferma a causa di un guasto, rendendo impossibile proseguire ad accelerare.
+Rispondi ragionevolmente alle seguenti domande, supponendo trascurabile l’attrito. Determina:
 
-- **A.** La velocità con cui il motore raggiungerà il punto A.
-- **B.** La normale reazione della superficie al punto A.
+- **A.** La velocità con cui il motociclista raggiungerà il punto A.
+- **B.** La reazione normale della superficie nel punto A.
 
-2.-) Due masse puntate $M_1=5\ \text{kg}$ e $M_2=10\ \text{kg}$ sono situate nei punti (0,0) e (1,0) m
-di un sistema di riferimento cartesiano, rispettivamente. Determina:
+2.-) Due masse puntiformi $M_1=5\ \text{kg}$ e $M_2=10\ \text{kg}$ sono collocate nei punti (0,0) e (1,0) m di un sistema di riferimento cartesiano, rispettivamente. Determina:
 
-a) Il punto tra le due masse dove il campo gravitazionale creato dalle due masse
-- E' zero.
+a) Il punto tra le due masse dove il campo gravitazionale creato dalle due masse è nullo.
 - **B.** Il potenziale gravitazionale nei punti A (-2,0) m e B (3,0) m.
-- **C.** Il lavoro svolto nel trasferire da B a A una massa di 1,5 kg. Come dice il
-significato del segno del lavoro.
+- **C.** Il lavoro compiuto per spostare da B ad A una massa di 1,5 kg. Commentate il significato del segno del lavoro.
 
 Dati: $G = 6{,}67\times10^{-11}\ \text{N}\cdot\text{m}^2/\text{kg}^2$
-Nota: Le due masse si trovano situate in una regione in assenza di campo
-gravità terrestre.
+Nota: Le due masse si trovano in una regione priva del campo gravitazionale terrestre.
 
-Nome:
+Cognome: Nome:
 B (3, 0)
 X
-X
- (0, 0)
- (1, 0)
-Axe X
-Massa puntuali
-Axe E
+X (0, 0)
+(1, 0)
+Asse X
+Massa puntiforme
+Asse Y
 A (-2, 0)
 $M_1$
 $M_2$
 
-Domande:
+QUESTIONI:
 
-1.-) Un corpo descrive un movimento circolare di radio $R$, caratterizzato da un movimento di
-l'accelerazione angolare $\alpha$ è costante e diversa da zero, partendo dal riposo. Discussioni
-ragionevolmente la veridicità delle seguenti affermazioni:
+1.-) Un corpo descrive un moto circolare di raggio $R$, caratterizzato da un'accelerazione angolare $\alpha$ costante e diversa da zero, partendo dall'arresto. Discutete con ragionamento la veridicità delle seguenti affermazioni:
 
-a) L'accelerazione tangenziale del movimento descritto deve essere costante e diversa da quella descritta nel punto di vista del movimento.
-- Zero.
-b) L'accelerazione normale del movimento è direttamente proporzionale al tempo
-La Commissione ha adottato una decisione che non è stata adottata.
+a) L'accelerazione tangenziale del moto descritto deve essere costante e diversa da zero.
+b) L'accelerazione normale del moto è direttamente proporzionale al tempo trascorso dall'inizio.
 
-2.-) Rispondi ragionevolmente alle seguenti domande:
+2.-) Rispondete con ragionamento alle seguenti domande:
 
-c) Spiega la velocità orbitale e deduce la sua espressione per un satellite che
-descrive un'orbita circolare intorno alla Terra.
+c) Spiegate cos'è la velocità orbitale e ricavate la sua espressione per un satellite che descrive un'orbita circolare intorno alla Terra.
 
-d) Due satelliti A e B di diverse masse ($m_A > m_B$) descrivono orbite circolari di
-identico raggio intorno alla Terra. Raziona il rapporto che tengono i tuoi
-le rispettive velocità e le loro energie potenziali.
+d) Due satelliti A e B di masse diverse ($m_A > m_B$) descrivono orbite circolari dello stesso raggio intorno alla Terra. Razionate la relazione tra le rispettive velocità e le loro energie potenziali.
 
-Prova di: MOVEMENTO ONDULATORE
-Fase locale della XXIX Olimpiada spagnola di fisica
-Cordoba, 6 febbraio 2018
+Prova di: MOTI ONDULATORI
+Fase Locale della XXIX Olimpiada Spagnola di Fisica
+Córdoba, 6 febbraio 2018
 Università di Córdoba
 
-Il problema è:
+PROBLEMA:
 
-Un'onda trasversale di 0,2 s, diffusa con una corda, nel senso
-positivo dell'asse X, con velocità di 40 cm/s. È noto che la velocità massima di
-I punti della corda sono $0{,}5\,\pi$ m/s e che, all'istante iniziale, l'allungamento in
-origine (x = 0) è massima (A). Determina:
+Un'onda trasversale di periodo 0,2 s si propaga lungo una corda, nel verso positivo dell'asse X, con velocità di 40 cm/s. Si sa che la velocità massima dei punti della corda è di $0{,}5\,\pi$ m/s e che, nell'istante iniziale, l'elongazione nell'origine (x = 0) è massima (A). Determinare:
 
-- **A.** L'altezza d'onda ($\lambda$).
-- **B.** L'equazione dell'allungamento della corda in funzione della posizione x e del tempo t.
-- **C.** Qual è la velocità di un punto situato a 10 cm dall'origine quando si hanno
-Sono passati 15 secondi da quando la onda è stata generata?
-d) L'equazione dell'allungamento della corda in funzione della posizione x e del tempo t
-se il periodo di vibrazione fosse raddoppiato.
-(e) se l'onda calcolata in (b) interferisse con un'altra onda identica,
-ma viaggiando in senso contrario. Che tipo di onda sarebbe generata?
-Scrivi l'equazione risultante da tale interferenza.
+- **A.** La lunghezza d'onda ($\lambda$).
+- **B.** L'equazione dell'elongazione della corda in funzione della posizione x e del tempo t.
+- **C.** Quanto vale la velocità di un punto situato a 10 cm dall'origine quando sono trascorsi 15 s dal momento in cui è stata generata l'onda?
+- d) L'equazione dell'elongazione della corda in funzione della posizione x e del tempo t se il periodo delle vibrazioni fosse raddoppiato.
+- e) Se l'onda calcolata al punto b) interferisse con un'altra onda identica, ma in propagazione nel verso opposto. Quale tipo di onda si genererebbe?
+Scrivere l'equazione risultante da tale interferenza.
 
-Domande:
+CUESTIONI:
 
-1.- Un'onda di 500 Hz si diffonde a una velocità di 350 m/s. Che distanza
-minima è tra due punti che, in un dato istante, hanno una differenza di fase di
-$60^\circ$?
+1.- Un'onda di 500 Hz si propaga con una velocità di 350 m/s. Qual è la distanza minima tra due punti che, in un dato istante, presentano una differenza di fase di $60^\circ$?
 
-2.- La corda di un violino ha una lunghezza di 32 cm. Senza premere la corda, è
-In modo fondamentale, la nota Mi suona con una frequenza di 659,26 Hz.
-In che posizione (a direzione di una delle due estremità) si deve premere la
-la corda per produrre la nota Fa, di frequenza 698,46 Hz?
+2.- La corda di un violino ha una lunghezza di 32 cm. Senza premere la corda, cioè nel modo fondamentale, emette il suono "Mi" con una frequenza di 659,26 Hz. In quale posizione (riferendola a uno qualsiasi dei due estremi) si deve premere la corda per produrre il suono "Fa", di frequenza 698,46 Hz?
 
-Nome:
-Axe X
-Axe E
+Cognome: Nome:
+Asse X
+Asse Y
 $\lambda$
 A
 O
 
-Prova di: elettromagnetismo
-Fase locale della XXIX Olimpiada spagnola di fisica
-Cordoba, 6 febbraio 2018
+Prova di: ELETTROMAGNETISMO
+Fase Locale della XXIX Olimpiade Spagnola di Fisica
+Córdoba, 6 febbraio 2018
 Università di Córdoba
 
-Il problema è:
+PROBLEMA:
 
-Un carico positivo di $2\times10^{-6}$ C è situato alla fonte delle coordinate. Un
-Il protone che si muove sulla bisectrice del primo quadrante si dirige verso l'origine di
-coordinate (vedi figura). Quando il protone si trova al punto A, a una distanza
-di origine di 10 m, ha una velocità di $10^6$ m/s. Determina:
+Una carica positiva di $2\times10^{-6}$ C si trova nell'origine degli assi cartesiani. Un protone in moto lungo la bisettrice del primo quadrante si dirige verso l'origine degli assi (vedi figura). Quando il protone si trova nel punto A, a una distanza dall'origine di 10 m, ha una velocità di $10^6$ m/s. Si determini:
 
-a) I componenti cartesiani della forza che agisce sul protone quando si
-si trova al punto A.
-- **B.** Potenzio e energia potenziale del protone al punto A.
-- **C.** La distanza rispetto alla fonte in cui si ferma il protone.
-- **D.** L'energia cinetica del protone passando per la seconda volta attraverso il punto A, una volta
-respinto.
-e) Il cambiamento di momento lineare (quantità di movimento) sperimentato dal protone
-dal momento che parte di A e, per effetto della repulsione, torna allo stesso punto A.
+a) Le componenti cartesiane della forza che agisce sul protone quando si trova nel punto A.
+**B.** Il potenziale e l'energia potenziale del protone nel punto A.
+**C.** La distanza dall'origine in cui il protone si ferma.
+**D.** L'energia cinetica del protone al passare per la seconda volta dal punto A, dopo essere stato respinto.
+e) La variazione della quantità di moto (quantità di moto) subita dal protone dall'istante in cui parte da A e, a causa della repulsione, ritorna al medesimo punto A.
 
-Nota: Supponi sconsiderati gli effetti della gravità.
+Nota: Si assumano trascurabili gli effetti della gravità.
 
-Domande:
+QUESTIONI:
 
-1.- Indicare se le seguenti affermazioni sono vere o false, giustificando le seguenti affermazioni:
-Risposte:
+1.- Indichi se le seguenti affermazioni sono vere o false, giustificando le risposte:
 
-a) Una particella carica che si muove in un campo magnetico uniforme aumenta il suo
-velocità quando si muove nella stessa direzione delle linee del campo.
-b) Una particella carica può muoversi in una regione in cui esiste un campo
-magnetico e un campo elettrico senza sperimentare alcuna forza.
+a) Una particella carica che si muove in un campo magnetico uniforme aumenta la sua velocità quando si sposta nella stessa direzione delle linee del campo.
+b) Una particella carica può muoversi in una regione in cui esiste un campo magnetico e un campo elettrico senza subire alcuna forza.
 
-2.- Una spira è posizionata perpendicularmente a un campo magnetico uniforme. In che cosa
-se la forza elettromotrice indotta nel guido è maggiore:
+2.- Un anello viene posto perpendicolarmente a un campo magnetico uniforme. In quale dei seguenti casi la forza elettromotrice indotta nell'anello sarà maggiore:
 
-- **A.** se B diminuisce linealmente da 0,3 T a 0 in 1 ms, o
-- **B.** se B aumenta linealmente da 1 T a 1,2 T in 1 ms.
+- **A.** se B diminuisce linearmente da 0,3 T a 0 in 1 ms, oppure
+- **B.** se B aumenta linearmente da 1 T a 1,2 T in 1 ms.
+
 Dati:
 
-Costante della
-Legge di Coulomb
+Costante della legge di Coulomb
 $K_0 = 9\times10^9\ \text{N}\cdot\text{m}^2/\text{C}^2$
 Massa del protone
 $m_p = 1{,}67\times10^{-27}$ kg
-Carga del protone
+Carica del protone
 $q_p = 1{,}60\times10^{-19}$ C
-Nome:
+Cognome: Nome:
 $Q = 2\ \mu\text{C}$
-H+
+H⁺
 Punto A
 10 m
-Axe X
-Axe E
+Asse X
+Asse Y
 $45^\circ$
 
-**Topic:** [[Newtonian Mechanics]], [[Gravitation]], [[Electrostatics]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/19MzWvD7374NnOg4aMjQA0jxO2jgEgtHX/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Next you will find the evidence that makes up this
-Local phase of the 2018 Olympics in Physics.
-They 're separated into three blocks:
--
-One of them.
-relative
-a
-The dynamics
-y
-field
-Other
-(compulsory);
--
-y
-Other
-two
-relative
-a
-Electromagnetism
-y
-Wave movement between which you must choose one.
-Don't forget to indicate your name and surname on each block and
-hand them over separately.
-Come on, put your Olympic spirit to the test and prove your
-Good physical training
+Below you will find the tests that make up this Local Phase of the 2018 Physics Olympiad.
+They are divided into three sections:
+- One concerning dynamics and gravitational field (mandatory);
+- And two others on "Electromagnetism" and "Wave Motion", from which you must choose one.
+
+Do not forget to write your name and surname on each section, and submit them separately.
+
+Good luck! Test your Olympic spirit and demonstrate your strong physics background.
+
 2018
 
-The test shall be carried out in accordance with the following conditions:
-Local phase of the XXIX Spanish Physics Olympiad
-Cordoba, 6 February 2018
-The University of Cordoba
+Test on: GRAVITY – DYNAMICS
+Local Phase of the XXIX Spanish Physics Olympiad
+Córdoba, February 6, 2018
+University of Córdoba
 
-The problem is:
+PROBLEM:
 
-1.-) An 80 kg rider drives a 120 kg motorcycle in a looping direction
-Like the one in the figure, the highest point of which is 10 meters above the ground. When I get there
-At point B, where the speed of the motorcycle is 80 km/h, the engine of the motorcycle shall be
-The motorcycle stops due to a breakdown, making it impossible to keep accelerating.
-The following questions are answered reasonably, assuming that the
-The roasting. Determine:
+1.) A motorcyclist with a mass of 80 kg rides a motorcycle of mass 120 kg toward a loop-the-loop like the one shown in the figure, where the highest point is 10 m above ground level. Upon reaching point B, where the motorcycle's speed is 80 km/h, the engine fails due to a malfunction and acceleration becomes impossible.
 
-- **A.** The speed at which the driver will reach point A.
-- **B.** The normal surface reaction at point A.
+Answer the following questions rationally, assuming negligible friction. Determine:
 
-2.-) Two point masses $M_1=5\ \text{kg}$ and $M_2=10\ \text{kg}$ are located at points (0,0) and (1,0) m
-of a Cartesian reference system, respectively. Determine:
+- **A.** The speed with which the motorcyclist reaches point A.
+- **B.** The normal reaction force of the surface at point A.
 
-(a) The point between the two masses where the gravitational field created by the two masses
-It's zero.
-- **B.** The gravitational potential at points A (-2,0) m and B (3,0) m.
-- **C.** The work done by moving a mass of 1,5 kg from B to A. Commented on
-the meaning of the sign of the work.
+2.) Two point masses $M_1=5\ \text{kg}$ and $M_2=10\ \text{kg}$ are located at points (0,0) and (1,0) m in a Cartesian coordinate system, respectively. Determine:
 
-Datos: $G = 6{,}67\times10^{-11}\ \text{N}\cdot\text{m}^2/\text{kg}^2$
-Note: The two masses are located in a region in the absence of a field
-Earth's gravity is not the same.
+a) The point between the two masses where the gravitational field created by both masses is zero.
+- **B.** The gravitational potential at points A (-2, 0) m and B (3, 0) m.
+- **C.** The work done in transferring a mass of 1.5 kg from point B to point A. Comment on the meaning of the sign of the work.
 
-Family name:
+Data: $G = 6{,}67\times10^{-11}\ \text{N}\cdot\text{m}^2/\text{kg}^2$
+Note: The two masses are located in a region free of Earth's gravitational field.
+
+Last names: First name:
 B (3, 0)
 X
-X
- (0, 0)
- (1, 0)
+X (0, 0)
+(1, 0)
 X-axis
-The mass of the sample
-Axis and
+Point masses
+Y-axis
 A (-2, 0)
 $M_1$
 $M_2$
 
-Question: What is the purpose of this report?
+QUESTIONS:
 
-1.-) A body describes a circular motion of radio $R$, characterized by a
-The angular acceleration $\alpha$ is constant and different from zero, starting from the rest. Discuss
-the reasonably accurate nature of the following claims:
+1.) A body undergoes circular motion of radius $R$, characterized by a constant non-zero angular acceleration $\alpha$, starting from rest. Reasonably discuss the truth of the following statements:
 
-(a) The tangential acceleration of the described motion must be constant and different from the
-- What?
-(b) The normal acceleration of motion is directly proportional to the time
-The Commission has not yet adopted a proposal for a regulation.
+a) The tangential acceleration of the described motion must be constant and non-zero.
+b) The normal (centripetal) acceleration of the motion is directly proportional to the time elapsed since its start.
 
-2.-) Answer the following questions reasonably:
+2.) Answer the following questions reasonably:
 
-(c) Explain what the orbital velocity is and deduce its expression for a satellite that
-It describes a circular orbit around the Earth.
+c) Explain what orbital velocity is and derive its expression for a satellite describing a circular orbit around Earth.
 
-(d) Two satellites A and B of different masses ($m_A > m_B$) describe circular orbits of
-The same radius around the Earth. Reason for the relationship
-the speed and potential energies of each.
+d) Two satellites A and B of different masses ($m_A > m_B$) describe circular orbits of identical radius around Earth. Reason about the relationship between their respective speeds and potential energies.
 
-Test of: Wave movement
-Local phase of the XXIX Spanish Physics Olympiad
-Cordoba, 6 February 2018
-The University of Cordoba
+Test on: WAVE MOTION
+Local Phase of the XXIX Spanish Physics Olympiad
+Córdoba, February 6, 2018
+University of Córdoba
 
-The problem is:
+PROBLEM:
 
-A cross-sectional wave of 0.2 s period is propagated by a string, in the direction of
-positive of the X-axis, at a speed of 40 cm/s. It is known that the maximum speed of
-The length of the rope is $0{,}5\,\pi$ m/s and that, at the initial instant, the elongation at the
-The origin (x = 0) is maximum (A). Determine:
+A transverse wave with a period of 0.2 s propagates along a string in the positive X-axis direction at a speed of 40 cm/s. It is known that the maximum velocity of points on the string is $0{,}5\,\pi$ m/s, and at the initial instant, the displacement at the origin (x = 0) is maximum (A). Determine:
 
 - **A.** The wavelength ($\lambda$).
-- **B.** The equation of the elongation of the string by the position x and time t.
-- **C.** What is the speed of a point 10 cm from the source when they have
-15 seconds since the wave was generated?
-d) The equation of the length of the string by the position x and time t
-if the period of vibration is doubled.
-(e) If the wave calculated in paragraph (b) interferes with another wave identical to the same wave,
-But traveling in the opposite direction. What kind of wave would it generate?
-Write the resulting equation of such interference.
+- **B.** The equation for the displacement of the string as a function of position x and time t.
+- **C.** What is the velocity of a point located 10 cm from the origin when 15 s have passed since the wave was generated?
+- d) The equation for the displacement of the string as a function of position x and time t if the vibration period were doubled.
+- e) If the wave determined in part b) interferes with another identical wave traveling in the opposite direction, what type of wave would be generated? Write down the resulting interference equation.
 
-Question: What is the purpose of this report?
+QUESTIONS:
 
-1.- A 500 Hz wave propagates at a speed of 350 m/s. What distance
-The minimum is between two points which, at a given moment, have a phase difference of
-$60^\circ$?
+1.- A 500 Hz wave propagates at a speed of 350 m/s. What is the minimum distance between two points that, at a given instant, have a phase difference of $60^\circ$?
 
-2.- The string of a violin is 32 cm long. Without pressing the rope, it's
-That is, in the fundamental mode, the note Mi sounds at a frequency of 659.26 Hz.
-In which position (referring to either end) should the pressure be applied to the
-string to produce the Fa, 698.46 Hz frequency note?
+2.- The string of a violin has a length of 32 cm. Without pressing the string, i.e., in its fundamental mode, it produces the note "Mi" with a frequency of 659.26 Hz.
+At what position (refer to either end) should the string be pressed to produce the note "Fa", with a frequency of 698.46 Hz?
 
-Family name:
+Last names: First name:
 X-axis
-Axis and
+Y-axis
 $\lambda$
 A
 O
 
-Test of: electromagnetism
-Local phase of the XXIX Spanish Physics Olympiad
-Cordoba, 6 February 2018
-The University of Cordoba
+Test: ELECTROMAGNETISM
+Local Phase of the XXIX Spanish Physics Olympiad
+Córdoba, February 6, 2018
+University of Córdoba
 
-The problem is:
+PROBLEM:
 
-A positive charge of $2\times10^{-6}$ C is located at the origin of the coordinates. Un
-The proton moving along the bisector of the first quadrant is heading towards the origin of the
-coordinates (see figure). When the proton is at point A, at a distance
-The speed of the vehicle shall be $10^6$ m/s. Determine:
+A positive charge of $2\times10^{-6}$ C is located at the origin of coordinates. A proton moving along the bisector of the first quadrant is heading toward the origin (see figure). When the proton reaches point A, at a distance of 10 m from the origin, it has a velocity of $10^6$ m/s. Determine:
 
-(a) The Cartesian components of the force acting on the proton when
-is found at point A.
-- **B.** The potential and potential energy of the proton at point A.
-- **C.** The distance from the origin at which the proton stops.
-- **D.** The kinetic energy of the proton when passing second time through point A, once
-He was expelled.
-(e) The change in linear momentum (motion quantity) experienced by the proton
-since part of A and, by effect of repulsion, returns to the same point A.
+a) The Cartesian components of the force acting on the proton when it is at point A.
+**B.** The electric potential and the potential energy of the proton at point A.
+**C.** The distance from the origin at which the proton comes to rest.
+**D.** The kinetic energy of the proton when it passes through point A for the second time, after being repelled.
+e) The change in linear momentum (momentum) experienced by the proton from the moment it leaves point A until, due to repulsion, it returns again to point A.
 
-Note: Assume the effects of gravity are negligible.
+Note: Assume gravitational effects are negligible.
 
-Question: What is the purpose of this report?
+QUESTIONS:
 
-1.- Indicate whether the following statements are true or false, and justify the following:
-Answer:
+1.- Indicate whether the following statements are true or false, justifying your answers:
 
-(a) A charged particle moving in a uniform magnetic field increases its
-speed when moving in the same direction as the field lines.
-(b) A charged particle can move in a region where a field exists
-magnetic and an electric field without experiencing any force.
+a) A charged particle moving in a uniform magnetic field increases its speed when it moves parallel to the field lines.
+b) A charged particle can move in a region where both a magnetic field and an electric field are present without experiencing any force.
 
-2.- A spire is placed perpendicular to a uniform magnetic field. What ?
-the electromotive force induced in the spindle shall be greater if:
+2.- A loop is placed perpendicular to a uniform magnetic field. In which case will the induced electromotive force in the loop be greater:
 
-- **A.** if B decreases linearly from 0,3 T to 0 in 1 ms, or
+- **A.** if B decreases linearly from 0.3 T to 0 in 1 ms, or
 - **B.** if B increases linearly from 1 T to 1.2 T in 1 ms.
-The data:
 
-The constant of the
-The Coulomb Act
+Data:
+
+Coulomb's Law constant
 $K_0 = 9\times10^9\ \text{N}\cdot\text{m}^2/\text{C}^2$
-Mass of the proton
+Proton mass
 $m_p = 1{,}67\times10^{-27}$ kg
-Charge of the proton
+Proton charge
 $q_p = 1{,}60\times10^{-19}$ C
-Family name:
+Last names: First name:
 $Q = 2\ \mu\text{C}$
-H+
+H⁺
 Point A
 10 m
 X-axis
-Axis and
+Y-axis
 $45^\circ$
 
-**Topic:** [[Newtonian Mechanics]], [[Gravitation]], [[Electrostatics]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/19MzWvD7374NnOg4aMjQA0jxO2jgEgtHX/view)
+

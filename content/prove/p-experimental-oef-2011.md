@@ -130,59 +130,31 @@ forti curvature e nodi che possono causare la rottura, con conseguente perdita d
 
 <div class="qlang-split" data-lang="en"></div>
 
-1) Construction of Helmholtz coils (Figure 3).
-Remove the protective paper from the double-sided adhesive tape that
-There is a sticker on the outer surface of each cylinder of
-The methacrylate. This adhesive surface will make it easier to roll
-of the spirals.
-Leaving about 30 cm of copper thread free with its banana,
-Start rolling 10 rounds of thread over the tape
-It's a cylinder. To prevent the starting point of the
-coiled, use a piece of normal adhesive tape. Look for it.
-Let the successive spirals be well circular and well
-They're tightly packed. Tip: after each spin,
-Push laterally with your nails to squeeze it against the nails.
-previously.
-The end point of the springs shall be secured by adhesive tape. Check that you have counted the number of
-you're breathing,
+1) Construction of the Helmholtz coils (Figure 3).
+* Remove the protective paper from the double-sided adhesive tape attached to the outer surface of each acrylic cylinder. This adhesive surface will facilitate winding the wire turns.
+* Leaving about 30 cm of copper wire, including its banana connector, begin winding 10 turns of wire onto the adhesive tape on one cylinder. To prevent the starting point of the winding from coming loose, use a piece of regular adhesive tape. Ensure that successive turns are well circular and tightly packed against each other. Tip: After completing each turn, press laterally with your fingernails to tighten it against the previous turns.
+* Secure the end point of the turns with adhesive tape. Verify that you have correctly counted the number of turns,
 10
 2
 /
 =
 N
 .
-Leave some 20 cm of thread free between the two coils and repeat the 10 spindle coiling process on the
-The second methacrylate cylinder.
-If the previous process has been carried out correctly, about 30 cm of yarn should be released at the end.
-copper, with its banana connection.
-Draw a longitudinal line on the carton and two lines perpendicular to the previous one separated from each other
-a distance equal to the radius of the spirals. These lines will be useful as a visual reference for locating a
-The coils are still in Helmholtz's mount.
-Attach a piece of mesh to each cylinder, at the beginning and end of the coil, and attach the
-cylinders on the cross-sectional lines of the cardboard, with their axes of symmetry on the longitudinal line
+* Leave about 20 cm of wire free between the two coils and repeat the winding process of 10 turns on the second acrylic cylinder.
+* If you have correctly performed the previous steps, about 30 cm of copper wire with its banana connector should remain free at the end.
+* Draw a longitudinal line on the cardboard and two lines perpendicular to this one, separated by a distance equal to the radius of the turns. These lines will serve as visual references for positioning the coils in the Helmholtz configuration.
+* Place a small piece of modeling clay on each cylinder, at the starting and ending sections of the winding, and attach the cylinders to the transversal lines on the cardboard, with their symmetry axes aligned along the longitudinal line.
 
-1 The moment of torsion of the thread from which the compass hangs is supposed to be despicable.
-2 The copper wire is enamelled with an insulating material so that there is no electrical contact between the attached spiracles.
+1 Assuming negligible the torsional moment of the thread from which the compass hangs.
+2 The copper wire is enamel-coated with an insulating material, so that there is no electrical contact between adjacent turns.
 
-Fig. 3
-The following table shows the number of samples taken from the sample: The two coils must be
-be coaxial, be on separate vertical planes at a distance equal to the radius of the spirals (between
-The two coils have a central plane and the current must flow in the same direction.
-Since the mesh is plastic, it is easy to make small adjustments to orientation or distance between the
-coils pressing in the right direction.
-Finally, fold and stick all the copper threads together to the adhesive tape so that
-be approximately parallel to the system axis. The Commission has already adopted a number of proposals for a directive on the
-The magnetic field that produces the current that flows through them and that could affect the measurements.
-Attention: handle the copper thread carefully because it is quite fragile. In particular, avoid the
-Strong curvatures and knots, which may cause it to break, resulting in a loss of time
-For having to start over. Also, be careful not to cut yourself with the thread.
+Figure 3 drawn, with the copper wires placed on the cardboard as shown in Figure 3. The two coils must be coaxial, located in vertical planes separated by a distance equal to the radius of the loops (between the central planes of the two windings), and the current must flow in the same direction through both.
 
-**Topic:** [[Magnetism]], [[Electromagnetism]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Biot-Savart Law (metodo)|Biot-Savart Law]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Coil (object)|Coil]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1X2x9EfLbZp0tBpAkRSzAj_vHIW09UVlD/view)
+* Since the putty is plastic, small adjustments to orientation or distance between the coils can easily be made by pressing in the appropriate direction.
 
+* Finally, fold and secure all copper wires together with adhesive tape to the cardboard so that they are approximately parallel to the axis of the system. As is easily understood, this arrangement cancels out the magnetic field produced by the current flowing through them, which could otherwise affect the measurements.
+
+* Caution: handle the copper wire carefully because it is quite fragile. In particular, avoid sharp bends and knots, which may cause the wire to break, resulting in wasted time due to having to start over. Moreover, take care not to cut yourself with the wire.
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Spagna 2011 — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Gravitazione e Astrofisica,object/magnet"></span>

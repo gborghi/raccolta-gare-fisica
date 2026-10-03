@@ -381,129 +381,85 @@ Vibrazioni e onde
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem two:
+Problem 2:
 
-A skater weighing 735 N is resting with skates on the ice.
-Then throw a mass stone $m = 2\ \text{kg}$ in a horizontal direction with
-The speed $v = 10\ \text{m/s}$. If the skater retreats 15 cm before stopping again:
-What is the friction coefficient between the skates and the floor?
-How long did it take the skater to stop?
+A skater weighing 735 N is initially at rest on ice with skates on the surface.
+Subsequently, he throws a stone of mass $m = 2\ \text{kg}$ horizontally with velocity $v = 10\ \text{m/s}$.
+If the skater recoils 15 cm before coming to a complete stop again:
+What will be the coefficient of friction between the skates and the ground?
+How long did it take for the skater to stop?
 
-What work did the razor forces do?
+What work was done by the friction forces?
 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Court of Justice
+DYNAMICS-GRAVITY
+QUESTION EXERCISE
 
 Questions:
 
-1.- If, according to the principle of action and reaction, two interacting bodies are
-They exert two equal but opposite forces. Why when a marble is thrown?
-If a billiards ball is hit, the second ball barely changes its position and the first ball is hit.
-even backs down?
+1.- According to the principle of action and reaction, two interacting bodies exert equal but opposite forces on each other. Why then, when a marble is thrown against a billiard ball, does the second barely change its position while the first even rebounds?
 
-2.- Say whether the following statement is correct and justify your
-Answer: The value of the gravitational field at a point
-Any space around a planet depends on the
-The value of the body mass that is
-Put it at that point.
+2.- State whether the following statement is correct and justify your answer: The value of the gravitational field at any point in space surrounding a planet depends on the mass of the body placed at that point.
 
-3.- If the sun shrinks in size while maintaining its mass,
-We'd celebrate Christmas more or less often.
-What is it now?
+3.- If the Sun were to shrink in size while keeping its mass constant, would we celebrate Christmas more or less frequently than today?
 
-4.- Can the trajectory of a mobile be curved if no force is acting on it?
-You're right about the answer.
+4.- Can the trajectory of a moving object be curved if no force acts on it?
+Justify your answer.
+
 ● P
-L = 20 cm
-g
+L = 20 cm g
 
-L
-m m m
+L m m m
 +q +q +q
-XXI Olympiad of Spanish Physics
-Local phase. Cordoba, 22 February 2010
+XXI SPANISH PHYSICS OLYMPIAD
+Local Phase. Córdoba, February 22, 2010
 
-Family name:
+Last names: First name:
 
-The Commission has already adopted a proposal for a regulation on the
+PROBLEM EXERCISE
 
-The problem is:
+Problem:
 
-The figure shows three charges
-The results of the study were based on the results of the study.
-mass $m = 3\cdot10^{-20}\ \text{Kg}$ and electric charge q which
-They hang from three unextended threads and without
-mass suspended from the same
-the following points are added: In this situation the charges are
-They're in balance. Knowing that the
-The length of the end threads is $L = 20\ \text{cm}$ and the angle shown in the figure is
-de $45^\circ$:
+In the figure, three identical positive point charges are shown, each with mass $m = 3\cdot10^{-20}\ \text{Kg}$ and electric charge q, hanging from three inextensible, massless strings suspended from the same point P. In this configuration, the charges are in equilibrium. Given that the length of the outer strings is $L = 20\ \text{cm}$ and the angle shown in the figure is $45^\circ$:
 
-(a) Draw a force diagram showing all the forces acting
-on each point charge q and Calculate the value of that electric charge q.
-- **B.** Calculate the electric field at the point P from which the charges are suspended.
-- **C.** If a proton is placed at rest at point P and released, what would it be?
-Your speed 50 ns after being released? It describes the trajectory taken
-by the proton.
-Datos: $1\ \text{ns} = 10^{-9}\ \text{s}$; $g = 9{,}8\ \text{m/s}^2$; $K_e = 9\cdot10^9\ \text{N}\cdot\text{m}^2/\text{C}^2$; $m_p = 1{,}67\cdot10^{-27}\ \text{Kg}$
-(proton mass); $q_p = 1{,}6\cdot10^{-19}\ \text{C}$ (proton charge)
+a) Draw a free-body diagram showing all forces acting on each point charge q, and calculate the value of this electric charge q.
+- **B.** Calculate the electric field at point P, from which the charges are suspended.
+- **C.** If a proton is placed at rest at point P and released, what would be its speed after 50 ns? Describe the trajectory followed by the proton.
+Data: $1\ \text{ns} = 10^{-9}\ \text{s}$; $g = 9{,}8\ \text{m/s}^2$; $K_e = 9\cdot10^9\ \text{N}\cdot\text{m}^2/\text{C}^2$; $m_p = 1{,}67\cdot10^{-27}\ \text{Kg}$ (proton mass); $q_p = 1{,}6\cdot10^{-19}\ \text{C}$ (proton charge).
 
-The Court of Justice
-Questions:
-
-1.- Indicates whether the following statements are true or false and briefly justifies
-Your answer:
-(a) Equipotential surfaces cannot be cut into a
-I'm not going to lie.
-(b) If a charged particle could move freely,
-It would march along an electric field line.
-
-2.- Two spirals of 3 and 5 cm radius respectively rotate at a speed
-angular
-$\omega$ within a uniform magnetic field whose direction is
-perpendicular to the axis of rotation of the spires. In which of these is the induced current
-- What? You're right about your answer.
-
-Electricity and magnetism
-XXI Olympiad of Spanish Physics
-Local phase. Cordoba, 22 February 2010
-
-Family name:
-
-The Commission has already adopted a proposal for a regulation on the
-
-The problem is:
-
-A particle that does an M.A.S. It shall cover a total distance of 20 cm at each
-Full vibration with a period of 4 s. Knowing that at the initial moment the
-Particle is in elongation position
-Maximum.
-Determine the position of the particle in relation to the
-of time.
-What are the speed and the
-acceleration 5 s after the particle passes
-By the end of the trajectory?
-If the particle has a mass of 10 g, what is the
-What is the kinetic energy and elastic potential value of the previous instant? Explain
-That would happen with mechanical energy.
-
-The Court of Justice has held that the Court of Justice has not
+EXERCISE ON QUESTIONS
 
 Questions:
 
-1.- What is meant by longitudinal wave and wave
-cross-sectional? Are the sound waves longitudinal or
-cross-sectional?
+1.- Indicate whether the following statements are true or false, and briefly justify your answer:
+a) Equipotential surfaces cannot intersect at a point.
+b) If a charged particle could move freely, it would travel along an electric field line.
 
-2.- Two objects of the same mass are attached to a
-The same dock trails. They stretch at the same time, the first 10
-cm and the second 5 cm, and they're released. Which one of them
-Two objects will reach the equilibrium position first?
+2.- Two loops of radii 3 and 5 cm, respectively, rotate with angular velocity $\omega$ in a uniform magnetic field whose direction is perpendicular to the axis of rotation of the loops. In which loop is the induced current greater? Justify your answer.
 
-Vibrations and Waves
+ELECTRICITY AND MAGNETISM
+XXI SPANISH PHYSICS OLYMPIAD
+Local Phase. Córdoba, February 22, 2010
 
-**Topic:** [[Conservation of Momentum]], [[Electrostatics]], [[Oscillations & Waves]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1T7rNKkVvq9fJ26_d_26pzGeW0dKvsHAD/view)
+Last names: First name:
+
+PROBLEM EXERCISE
+
+Problem:
+
+A particle undergoing simple harmonic motion (SHM) travels a total distance of 20 cm in each complete oscillation, with a period of 4 s. It is known that at the initial instant, the particle is located at maximum elongation.
+
+Determine the position of the particle as a function of time.
+What are the values of velocity and acceleration 5 s after the particle passes through the end of its trajectory?
+If the mass of the particle is 10 g, what are the values of kinetic energy and elastic potential energy at the previous instant? Explain what would happen to the mechanical energy.
+
+QUESTION EXERCISE
+
+Questions:
+
+1.- What is meant by longitudinal wave and transverse wave? Are sound waves longitudinal or transversal?
+
+2.- Two objects of equal mass are attached to identical springs. Both are stretched simultaneously: the first by 10 cm and the second by 5 cm, then released. Which of the two objects will reach equilibrium first?
+
+VIBRATIONS AND WAVES
+
+

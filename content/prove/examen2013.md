@@ -325,113 +325,77 @@ L'elettricità e il magnetismo
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem two:
+Problem 2:
 
-A body is thrown over a horizontal surface with an initial speed $v_o$ and is
-stops after 20 m. Then the same body is thrown with the same
-initial speed $v_o$ along an inclined plane $60^\circ$ with the
-horizontal and stops after 6 m.
-Calculate the initial $v_o$ speed at which the body is launched and the
-The coefficient of friction between the body and the plane (the same as the
-on both surfaces)
+A body is launched along a horizontal surface with an initial velocity $v_o$ and comes to rest after traveling 20 m. Subsequently, the same body is launched with the same initial velocity $v_o$ along an inclined plane at an angle $60^\circ$ to the horizontal and comes to rest after traveling 6 m.
+Calculate the initial velocity $v_o$ with which the body is launched and the coefficient of friction between the body and the plane (the same in both surfaces).
 
-Date: Gravity $10\ \text{m/s}^2$
+Given: Gravity $10\ \text{m/s}^2$
 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-XXIII Spanish Olympics in Physics
-Local phase. Cordoba, 18 February 2013
+DYNAMICS-GRAVITY
+XXIII SPANISH PHYSICS OLYMPIAD
+Local Phase. Córdoba, February 18, 2013
 
-Family name:
+Last names: First name:
 
-The Court of Justice
+EXERCISE OF QUESTIONS
 
 Questions
 
-1. Reason whether the following statements are true or false:
-(a) An object of mass $m_1$ needs a velocity of escape from the Earth twice that of the Earth's
-It needs another mass object $m_2 = m_1/2$.
-(b) More work is needed to place a mass satellite in the same orbit
-$m_1$ than another mass satellite $m_2 = m_1/2$, launched from the Earth's surface.
+1. Determine whether the following statements are true or false:
+a) An object of mass $m_1$ requires a escape velocity from Earth that is twice as large as the escape velocity required by another object of mass $m_2 = m_1/2$.
+b) More work is needed to place a satellite of mass $m_1$ into the same orbit compared to another satellite of mass $m_2 = m_1/2$, both launched from Earth's surface.
 
-2. Knowing that the acceleration of gravity in a free-fall motion in the
-The surface of the Moon is one sixth of the acceleration of gravity on the surface of the Moon.
-Earth and that the radius of the Moon is approximately $0{,}27\ R_T$ (being $R_T$ the radius of the Moon)
-The average density of the Earth and the Moon is $\left(\dfrac{\rho_\text{Luna}}{\rho_\text{Tierra}}\right)$.
+2. Knowing that the acceleration due to gravity in free fall on the Moon’s surface is one-sixth of the acceleration due to gravity on Earth's surface, and that the Moon’s radius is approximately $0{,}27\ R_T$ (where $R_T$ is Earth's radius), calculate the ratio between the average densities of Earth and Moon $\left(\dfrac{\rho_\text{Luna}}{\rho_\text{Tierra}}\right)$.
 
-3. Explain clearly and concise, based on your reasoning on the law of
-Newton, why do all bodies fall freely with the same acceleration at the
-proximity to the earth's surface, regardless of its mass, when the
-The weight force that causes this fall is dependent on the mass.
+3. Explain in a clear and concise manner, based on Newton's laws, why all bodies fall freely with the same acceleration near Earth’s surface regardless of their mass, even though the gravitational force causing this fall does depend on mass.
 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-XXIII Spanish Olympics in Physics
-Local phase. Cordoba, 18 February 2013
+DYNAMICS-GRAVITY
+XXIII SPANISH PHYSICS OLYMPIAD
+Local Phase. Córdoba, February 18, 2013
 
-Family name:
+Last names: First name:
 
-The problem is:
+Problem:
 
-The points of a string, held by its ends, vibrate according to the equation
-$\varphi(m) = 5\,\text{sen}(3\pi x)\cos(4\pi t)$, where x comes from
-given in centimeters and t in seconds.
-(a) Is this some kind of wave? In that case,
-indicate the type of wave and how it is generated. Calculate
-The equation of waves whose overlap gives
-place to that wave.
-(b) Calculate the distance between two nodes
-consecutive, and between a node and a belly
-consecutive.
-(c) Determine the speed of a string particle at the position $x = 1{,}5$ cm
-where $t = 9/8$ s.
+The points along a string fixed at both ends vibrate according to the equation
+$\varphi(m) = 5\,\text{sen}(3\pi x)\cos(4\pi t)$, where x is given in centimeters and t in seconds.
+a) Is this a type of wave? If so, indicate the type of wave and how it is generated. Determine the equations of the two waves whose superposition produces this wave.
+b) Calculate the distance between two consecutive nodes, and between a node and the next antinode.
+c) Determine the velocity of a particle on the string at position $x = 1{,}5$ cm when $t = 9/8$ s.
 
 Questions:
 
-1. You have a sound wave that spreads in the air. If you cut it in half
-(a) the period; (b) the rate of spread; (c) the
-(d) the amplitude.
+1. A sound wave propagates through air. If its frequency is halved, explain what happens to: a) the period; b) the propagation speed; c) the wavelength; d) the amplitude.
 
-2. Explain the difference between longitudinal and transverse waves. Expose one
-example of each of them.
+2. Explain the difference between longitudinal and transverse waves. Provide one example of each.
 
-Vibrations and Waves
-XXIII Spanish Olympics in Physics
-Local phase. Cordoba, 18 February 2013
+VIBRATIONS AND WAVES
+XXIII SPANISH PHYSICS OLYMPIAD
+Local Phase. Córdoba, February 18, 2013
 
-Family name:
+Last names: First name:
 
-The problem is:
+Problem:
 
-Two very long, parallel, straight conducting wires (A and B) with $I_A = 5$ A currents
-e $I_B = 3$ Both in the same direction are separated by a distance of $0{,}2$ m:
+Two very long, straight, parallel conducting wires (A and B) carry currents of $I_A = 5$ A and $I_B = 3$ A, respectively, both in the same direction, and are separated by a distance of $0{,}2$ m:
 
-(a) Calculate the magnetic field at the midpoint between the two conductors (D). Stop
-The vector character of the field can be expressed by a diagram.
+a) Calculate the magnetic field at the midpoint between the two conductors (D). To express the vector nature of this field, you may use a sketch.
 
-(b) Calculate the force exerted on a third C conductor parallel to the preceding one, and
-passes through point D, $0{,}5$ m in length and through which a
-current, $I_C = 2$ A, in a direction different from that of the previous drivers.
+b) Calculate the force exerted on a third conductor C, parallel to the previous ones and passing through point D, of length $0{,}5$ m, carrying a current of $I_C = 2$ A in the opposite direction to that of the previous conductors.
 
-Dato: $\mu_0 = 4\pi\cdot10^{-7}\ \text{N}\cdot\text{A}^{-2}$
+Given: $\mu_0 = 4\pi\cdot10^{-7}\ \text{N}\cdot\text{A}^{-2}$
 
 Questions:
 
-1. Explain what the concept of electrostatic potential at a point consists of. It's a big deal.
-a representation of the potential created by a positive point load (axis of
-(a) the distance to the load (axis of abscises), assuming that load
-the origin of coordinates.
+1. Explain what the concept of electrostatic potential at a point means. Draw a representation of the potential created by a positive point charge (on the y-axis) versus distance from this charge (on the x-axis), assuming the charge is located at the origin of coordinates.
 
 2. Reason whether the following statements are true or false:
 
-(a) The electromotive force induced in a spindle is proportional to the magnetic flux
-It's going through her.
-(b) The magnetic flux through a spindle placed in a region in which it exists
-a magnetic field can be zero.
-(c) An electrical transformer cannot be used with direct current.
+a) The induced electromotive force in a loop is proportional to the magnetic flux passing through it.
+b) The magnetic flux through a loop placed in a region with a magnetic field can be zero.
+c) An electric transformer cannot be used with direct current.
 
-Electricity and magnetism
+ELECTRICITY AND MAGNETISM
 
-**Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]], [[Magnetism]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1kK7rp0ZvkhsuZ3XmWyDFZDZVnSOqdcmP/view)
+

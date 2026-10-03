@@ -144,108 +144,108 @@ Emplee como brújula la pareja de imanes B colgada del soporte, como la pareja A
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Prova sperimentale. Campo magnetico di un magnete e campo magnetico terrestre.**
+**Prova Sperimentale. Campo magnetico di un magnete e campo magnetico terrestre.**
 
 **Obiettivi**
 
-Come ben sapete, il campo gravitazionale creato da una particella diminuisce col quadrato della distanza. Ma sai con quale potenza di distanza diminuisce il campo magnetico creato da un magnete? La prima parte di questa prova determina sperimentalmente come è questa dipendenza. La seconda parte si riferisce all'intensità del campo magnetico terrestre e al momento magnetico del magnete impiegato.
+Come ben sa, il campo gravitazionale creato da una particella diminuisce con il quadrato della distanza. Ma sa con quale potenza della distanza diminuisce il campo magnetico creato da un magnete? Nella prima parte di questa prova si determinerà sperimentalmente come è dipendente tale grandezza. Nella seconda parte si otterrà l'intensità del campo magnetico terrestre e il momento magnetico del magnete utilizzato.
 
 **Materiali**
 
 - Quattro magneti uguali.
-- Papero con trasportatore angolare stampato.
-- Regola.
-- Un palo di legno.
-- Cintura adesiva.
-- Sceglie.
-- Il filo.
-- Cisterna di PVC.
-- Bar di PVC.
+- Carta con trasportatore di angoli stampato.
+- Righello.
+- Bastoncino di legno.
+- Nastro adesivo.
+- Forbici.
+- Filo.
+- Cilindro di PVC.
+- Barra di PVC.
 - Gomma da cancellare.
-- Un cronometro.
+- Cronometro.
 
 **Montaggio**
 
-a) Prima di tutto, montare una compassa che indichi la direzione del campo magnetico. Per questo si utilizzano due magneti cilindrici, uniti longitudinalmente e appesi mediante un filo di supporto costruito con un tubo e una barra di PVC, come indicato nella figura 1. Da ora in poi, chiameremo "A" questa coppia di magneti.
+a) Innanzitutto si deve costruire una bussola, che indicherà la direzione del campo magnetico. A tale scopo si utilizzeranno due magneti cilindrici, collegati longitudinalmente e appesi mediante un filo a un supporto realizzato con un tubo e una barra di PVC, come indicato nella Figura 1. In seguito chiameremo "A" questa coppia di magneti.
 
-Collacciate il filo alla barra con un pezzo di nastro adesivo e appoggiate i magneti A all'altra estremità, strisciando il filo tra i due. L'altezza della compassa sul tavolo può essere regolata girando la barra di PVC per arrotondare o scaricare il filo.
+Fissare il filo alla barra con un pezzo di nastro adesivo e appenderne la coppia A all’altro estremo, pizzicando il filo tra i due. L'altezza della bussola rispetto al tavolo può essere regolata ruotando la barra di PVC per avvolgere o svolgere il filo.
 
-Per poter misurare nella convogliatrice la direzione della compassa, sotto i magni A si deve appoggiare un lungo bastone, tagliato alla lunghezza appropriata e ben allineato all'asse di simmetria dei magni.
+Per poter misurare con il goniometro la direzione della bussola, fissi sotto i magneti A un bastoncino lungo, tagliato alla lunghezza opportuna e ben allineato con l'asse di simmetria dei magneti.
 
-b) Mettete sul tavolo la carta con il trasportatore stampato e la compassa con il suo supporto in modo che:
-- La compassa deve essere il più lontano possibile dalla struttura di ferro del tavolo. Distanza anche l'altra coppia di magneti, così non influenzano l'orientamento della compassa.
-- L'asse di rotazione della compassa (il filo) è esattamente sopra il centro del trasportatore.
-- L'indirizzo N-S indicato dalla compassa (indirizzo del bastone) corrisponde alla linea 0°-180° del trasportatore.
-- Il bastone si è messo vicino al trasportatore, senza riuscire a spazzarlo.
-- Una volta che il sistema è ben allineato, è opportuno attaccare i suoi elementi al tavolo con nastro adesivo per evitare che si muovano accidentalmente.
+b) Posizionare sul tavolo il foglio con il goniometro stampato e la bussola con il suo supporto in modo che:
+- La bussola sia il più lontana possibile dalla struttura di ferro del tavolo. Allontanare anche l'altra coppia di magneti in modo che non influiscano sull'orientazione della bussola.
+- L'asse di rotazione della bussola (il filo) sia esattamente sopra il centro del goniometro.
+- La direzione N-S indicata dalla bussola (direzione del bastoncino) coincida con la linea 0°-180° del goniometro.
+- Il bastoncino rimanga vicino al goniometro, senza toccarlo.
+- Una volta ben allineato il sistema, è consigliabile fissare i suoi elementi al tavolo con nastro adesivo per evitare spostamenti accidentali.
 
-c) Infine, un longitudinalmente gli altri due magneti (di seguito coppia "B") e pegli con cinta adesiva alla gomma di cancellazione (Figura 2), in modo che la loro altezza sia simile a quella dei magneti della compassa. Per facilitare le misure successive, è opportuno disegnare su gomma linee che si incrociano nel punto medio dei magneti, come mostrato nella figura 2.
+c) Infine, allineare longitudinalmente gli altri due magneti (in seguito coppia "B") e fissarli con nastro adesivo alla gomma da cancellare (figura 2), in modo che la loro altezza sia simile a quella dei magneti della bussola. Per agevolare le misurazioni successive, è utile disegnare sulla gomma delle linee che si incrocino nel punto medio dei magneti, come mostrato in figura 2.
 
-**Processo sperimentale**
+**Procedimento sperimentale**
 
-Con il montaggio precedente, la compassa è inizialmente orientata nella direzione della componente orizzontale del campo magnetico terrestre (direzione NS). Se la coppia di magneti B è posizionata a perpendicolare (direzione EO), la compassa gira fino a orientarsi nella direzione del campo magnetico totale, somma del terreno e del prodotto dai magneti B.
+Con il montaggio precedente, la bussola è inizialmente orientata nella direzione della componente orizzontale del campo magnetico terrestre (direzione N–S). Se si posizionano perpendicolarmente (direzione E–O) la coppia di magneti B, la bussola ruota fino a orientarsi nella direzione del campo magnetico totale, somma di quello terrestre e di quello prodotto dai magneti B.
 
-Nella prima parte di questo test sperimentale si misurerà la deviazione angolare della compassa avvicinandosi gradualmente alla coppia di magneti B e, a partire da queste misure, si determinerà come diminuisce con la distanza il campo magnetico che creano.
+Nella prima parte di questo esperimento si misurerà la deviazione angolare della bussola avvicinando gradualmente la coppia di magneti B e, a partire da queste misure, si determinerà come decresce con la distanza il campo magnetico da essa generato.
 
-Nella seconda parte, si misurerà il periodo delle oscillazioni torsionali della compassa, ora formata dalla coppia di magneti B, in presenza del campo terrestre, e si determinerà il valore di tale campo (del suo componente orizzontale) e del momento magnetico di questo coppia di magneti.
+Nella seconda parte, si misurerà il periodo delle oscillazioni torsionali della bussola, ora costituita dalla coppia di magneti B, in presenza del campo terrestre, e si determinerà il valore di tale campo (della sua componente orizzontale) e del momento magnetico di questa coppia di magneti.
 
-La Commissione ha adottato una decisione che non prevede che il regime di cui all'articolo 1 del regolamento (CE) n. Dipendenze dalla distanza del campo magnetico di un magnete**
+**Prima Parte. Dipendenza con la distanza del campo magnetico di un magnete**
 
-Il campo magnetico prodotto da un magnete cilindrico in un punto del suo asse di simmetria porta la direzione di tale asse, e il suo modulo può essere espresso, in punti lontani rispetto alla dimensione del magnete, nella forma
+Il campo magnetico prodotto da un magnete cilindrico in un punto del suo asse di simmetria ha direzione parallela all'asse, e il suo modulo può essere espresso, in punti lontani rispetto alle dimensioni del magnete, nella forma
 
 $$B_m = \frac{\mu_0}{2\pi} \frac{m}{r^n}$$
 
-dove $m$ è il cosiddetto momento magnetico del magnete, che caratterizza la sua "potenza", $r$ è la distanza al centro del magnete e $n$ è un intero positivo che vogliamo determinare sperimentalmente.
+dove $m$ è detto momento magnetico del magnete, che ne caratterizza la "potenza", $r$ è la distanza dal centro del magnete e $n$ è un numero intero positivo che vogliamo determinare sperimentalmente.
 
-Data: $\mu_0 = 4\pi \times 10^{-7}\,\text{N/A}^2$
+Dato: $\mu_0 = 4\pi \times 10^{-7}\,\text{N/A}^2$
 
-Con la geometria del nostro montaggio, il campo $B_m$ prodotto dalla coppia di magneti B, orientata nella direzione EO, è perpendicolare alla componente orizzontale della terra, $B_H$, in modo che la compassa si orienti ad un angolo $\theta$ con la direzione NS data da (vedi figura 3)
+Con la geometría del nostro montaggio, il campo $B_m$ prodotto dalla coppia di magneti B, orientati nella direzione E–O, è perpendicolare alla componente orizzontale del campo terrestre, $B_H$, in modo che la bussola si orienti a un angolo $\theta$ rispetto alla direzione N–S dato da (vedi figura 3)
 
 $$\tan\theta = \frac{\mu_0}{2\pi} \frac{m}{B_H\, r^n} \quad (1)$$
 
-1) Misurare la deviazione angolare della compassa per valori $r$ compresi tra 20 cm e 40 cm, ad intervalli di 2 cm.
+1) Misurare la deviazione angolare della bussola per valori di $r$ compresi tra 20 cm e 40 cm, con intervalli di 2 cm.
 
-Per evitare errori sistematici dovuti a piccoli errori di allineamento, è opportuno misurare le deviazioni angolari in direzioni opposte, $\theta_1$ e $\theta_2$, ottenute mediante l'orientamento dei magneti B in una direzione o nell'altra sulla direzione EO, in modo da invertire il senso di $B_m$. Per $\theta$ si deve considerare la media di queste due deviazioni.
+Per evitare errori sistematici dovuti a piccoli errori di allineamento, è consigliabile misurare le deviazioni angolari nei due sensi opposti, $\theta_1$ e $\theta_2$, ottenute ruotando i magneti B in un senso o nell'altro rispetto alla direzione E–O, in modo da invertire il verso di $B_m$. Si prenda come valore per $\theta$ la media di queste due deviazioni.
 
-Suggerimento: disegnare tracciati trasversali sulla linea lunga della croce stampata su carta, alle distanze $r$ in cui effettuerai le misure. Questi tratti sono facili da allineare con i marchi precedentemente fatti sulla gomma, che segnano il punto medio della coppia B di magneti.
+Suggerimento: tracciare segni trasversali sulla linea lunga della croce stampata sul foglio, alle distanze $r$ in cui si effettueranno le misure. Tali segni sono facili da allineare con i segni precedentemente realizzati sulla gomma, che indicano il punto medio della coppia B di magneti.
 
-Su queste misure, costruisce la tabella seguente, riservando l'ultima colonna al paragrafo 5:
+A partire da queste misure, costruire la seguente tabella, riservando l'ultima colonna per il punto 5:
 
 | $r$ | $\theta_1$ | $\theta_2$ | $\theta$ | $\tan\theta$ | $\ln(\tan\theta)$ | $\ln(r)$ | $1/r^n$ |
 |---|---|---|---|---|---|---|---|
 | ... | | | | | | | |
 
-2) Trasforma l'equazione (1) e dimostra che si può aspettare una dipendenza lineare tra $\ln(\tan\theta)$ e $\ln(r)$.
+2) Trasformare l'equazione (1) e dimostrare che ci si può attendere una dipendenza lineare tra $\ln(\tan\theta)$ e $\ln(r)$.
 
-3) Rappresenta graficamente i punti sperimentali $\ln(\tan\theta)$, ordinati, rispetto a $\ln(r)$, in abcissi.
+3) Rappresentare graficamente i punti sperimentali $\ln(\tan\theta)$, in ordinata, rispetto a $\ln(r)$, in ascissa.
 
-4) A partire dal fissamento a una linea retta di questi punti, determinare il valore di $n$. Si noti che $n$ deve essere un intero, quindi deve avvicinare il valore ottenuto all'intero più vicino.
+4) Dopo aver effettuato l'adattamento a una retta di questi punti, determinare il valore di $n$. Si tenga presente che $n$ deve essere un numero intero, quindi si deve approssimare il valore ottenuto all'intero più vicino.
 
-5) Completa la colonna finale della tabella di cui al paragrafo 1 con i valori $1/r^n$.
+5) Completare l'ultima colonna della tabella del punto 1 con i valori di $1/r^n$.
 
-6) Rappresenta graficamente i punti $\tan\theta$ rispetto a $1/r^n$.
+6) Rappresentare graficamente i punti $\tan\theta$ rispetto a $1/r^n$.
 
-7) Sulla base della rappresentazione precedente, e tenendo conto dell'equazione (1), determinare il valore di $m/B_H$.
+7) A partire dalla rappresentazione precedente, tenendo conto dell'equazione (1), determinare il valore di $m/B_H$.
 
 **Seconda parte. Determinazione di $B_H$ e di $m$.**
 
-Il valore del coefficiente $m/B_H$ è stato determinato nel precedente punto. In questa seconda parte si determina il valore del prodotto $m \cdot B_H$ a partire dal periodo di oscillazione di questa coppia di magneti appesa a un filo, formando una compassa. Una volta conosciuti i valori di $m/B_H$ e $m \cdot B_H$, si ottengono i valori di $m$ e $B_H$.
+Nel precedente punto è stato determinato il valore del rapporto $m/B_H$. Nella presente seconda parte si determinerà il valore del prodotto $m \cdot B_H$ a partire dal periodo di oscillazione di questa coppia di magneti appesi a un filo, formando una bussola. Una volta noti i valori di $m/B_H$ e $m \cdot B_H$, si otterranno quelli di $m$ e di $B_H$.
 
-In presenza del campo magnetico terrestre, la nostra compassa segna in equilibrio la direzione NS. Se viene dato un piccolo impulso angolare (in senso di torcere il filo di cui i magneti pendono), oscilla intorno alla direzione di equilibrio. Questo sistema oscilante costituisce un pendolo di torsione. Il par di forze che tende a portare la compassa alla sua orientamento di equilibrio è dovuto all'interazione tra il campo magnetico terrestre (componente orizzontale), $B_H$, e il momento magnetico della compassa, $m$. Scommetendo il piccolo effetto di recupero dovuto alla torsione del filo, si dimostra che il periodo $T$ di piccole oscillazioni torsionali della compassa è
+In presenza del campo magnetico terrestre, la nostra bussola indica in equilibrio la direzione N-S. Se le viene impartito un piccolo impulso angolare (nel senso di torcere il filo del quale sono appesi i magneti), essa oscilla attorno alla direzione di equilibrio. Questo sistema oscillante costituisce un pendolo torsionale. Il momento delle forze che tende a riportare la bussola nella sua orientazione di equilibrio è dovuto all'interazione tra il campo magnetico terrestre (componente orizzontale), $B_H$, e il momento magnetico della bussola, $m$. Trascurando l'effetto di richiamo dovuto alla torsione del filo, si dimostra che il periodo $T$ delle piccole oscillazioni torsionali della bussola è
 
 $$T = 2\pi\sqrt{\frac{I}{m B_H}} \quad (2)$$
 
-dove $I$ è il momento di inerzia della compassa. Questa magnitudo rappresenta l'inerzia di un oggetto a cambiare il suo movimento di rotazione. Dipende dalla massa dell'oggetto e dalla sua distribuzione rispetto all'asse di rotazione. Se il corpo è un cilindro retto di massa $M$, lunghezza $L$ e raggio $R$, che gira verso un'asse perpendicolare all'asse principale di simmetria per il punto medio (come nel nostro caso), il valore di $I$ viene ottenuto in forma
+dove $I$ è il momento d'inerzia della bussola. Questa grandezza rappresenta l'inerzia di un corpo nel cambiare il suo moto rotatorio. Dipende dalla massa del corpo e dalla sua distribuzione rispetto all'asse di rotazione. Se il corpo è un cilindro retto di massa $M$, lunghezza $L$ e raggio $R$, che ruota rispetto a un asse perpendicolare all'asse principale di simmetria e passante per il suo punto medio (come nel nostro caso), il valore di $I$ si ottiene nella forma
 
 $$I = \frac{MR^2}{4} + \frac{ML^2}{12}$$
 
-Utilizza come compasso la coppia di magneti B appesa al supporto, come la coppia A nella prima parte ma senza il palito. Allontanate gli A magneti per non influenzare la misura.
+Utilizzate come bussola la coppia di magneti B appesa al supporto, come la coppia A nella prima parte ma senza il bastoncino. Allontanate i magneti A in modo che non influiscano sulla misura.
 
-8) Calcola il momento di inerzia della compassa rispetto all'asse di rotazione indicato, $I$. Data di ciascun dei due magneti: massa $M_i = 3{,}10\,\text{g}$, radio $R_i = 7{,}5\,\text{mm}$, lunghezza $L_i = 30{,}0\,\text{mm}$.
+8) Calcolare il momento d'inerzia della bussola rispetto all'asse di rotazione indicato, $I$. Dati relativi a ciascuno dei due magneti: massa $M_i = 3{,}10\,\text{g}$, raggio $R_i = 7{,}5\,\text{mm}$, lunghezza $L_i = 30{,}0\,\text{mm}$.
 
-9) Misura il periodo $T$ delle oscillazioni torsionali della compassa. Per migliorare l'accuratezza della misura, misurare il tempo di almeno 10 oscillazioni complete.
+9) Misurare il periodo $T$ delle oscillazioni torsionali della bussola. Per migliorare la precisione della misura, misurare il tempo di almeno 10 oscillazioni complete.
 
-10) Sulla base dei risultati dei paragrafi 7 e 9 e della formula (2), determinare i valori del momento magnetico $m$ della coppia di magneti B e della componente orizzontale del campo magnetico terrestre $B_H$.
+10) A partire dai risultati dei punti 7 e 9 e dalla formula (2), determinare i valori del momento magnetico $m$ della coppia di magneti B e della componente orizzontale del campo magnetico terrestre $B_H$.
 
 <!--fig:start-->
 ![[_attachments/P-EXPERIMENTAL-OEF-2007/P-EXPERIMENTAL-OEF-2007_p1_f1.png]]
@@ -257,14 +257,9 @@ Utilizza come compasso la coppia di magneti B appesa al supporto, come la coppia
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/P-EXPERIMENTAL-OEF-2007/P-EXPERIMENTAL-OEF-2007_p2_f3.png]]
-*Fig. 3: compass deviation angle theta, BH e Bm vectors*
+*Fig. 3: compass deviation angle theta, BH and Bm vectors*
 <!--fig:end-->
 
-**Topic:** [[Magnetism]], [[Oscillations & Waves]], [[Rotational Dynamics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Magnet (object)|Magnet]], [[Pendulum (object)|Pendulum]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X7tPIpPb7bwLLg0JD8bB1T7W9RXdQqjp/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -389,3 +384,5 @@ Use the pair of B magnets hanging from the support as a compass, like the pair A
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Magnet (object)|Magnet]], [[Pendulum (object)|Pendulum]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X7tPIpPb7bwLLg0JD8bB1T7W9RXdQqjp/view)
+
+

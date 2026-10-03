@@ -78,33 +78,19 @@ Il topo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-1. A piece of cheese $m_2$ is held in a certain position supported by a
-string, which runs through a horizontal table in the center. On top of the table and tied to it
-There is a disk of mass $m_1$ spinning. So that this equilibrium situation can
-Keeping up with the times,
-(a) How fast should the disk be spinning on the table? There is no friction between the
-the disc and the table. Datos: $m_2 = 4{,}5\ \text{kg}$; $m_1 = 1{,}5\ \text{kg}$; $R = 60\ \text{cm}$.
-(b) What central force is the disc subjected to?
-Determine its value.
-(c) If a 150 g mouse rests on the cheese, indicate
-What percentage of speed change should
-The Commission has not yet adopted a proposal for a regulation on the
-I'm not going to say.
-(d) Could the balance be maintained with the mouse on the cheese if only the
-change the radius of spin of the disc? Reason your answer and, if so, calculate
-the value of the radio.
-(e) Determine what kinetic energy the disk should have when that same mouse, after
-You've eaten 50 grams of cheese, you've dropped the cheese. For the latter case, suppose that
-part of a situation with a radius of 60 cm as at the beginning.
-It should be understood that there will be no influence by pendulum movements as the
-The mouse.
+1. A piece of cheese with mass $m_2$ is held in a certain position, suspended by a string that passes through the center of a horizontal table. Above the table and attached to the same string, there is a disk of mass $m_1$ rotating. For this equilibrium condition to be maintained over time,
 
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Conservation of Energy]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1btoVE_OifV94Myh_kaCdVD97q3w7-Ppn/view)
+a) What should be the rotational speed of the disk on the table? There is no friction between the disk and the table. Given: $m_2 = 4{,}5\ \text{kg}$; $m_1 = 1{,}5\ \text{kg}$; $R = 60\ \text{cm}$.
 
+b) What central force is the disk subjected to? Determine its value.
+
+c) If a mouse of 150 g rests on the cheese, what percentage change in speed should occur so that the position of the cheese remains unchanged?
+
+d) Could this equilibrium situation be maintained with the mouse on the cheese if only the rotation radius of the disk were changed? Justify your answer, and if yes, calculate the value of the radius.
+
+e) Determine what kinetic energy the disk should have when that same mouse, after having eaten 50 g of cheese, descends from the cheese. For this final case, assume it starts from a situation with a radius of 60 cm as initially.
+
+It should be understood that there will be no influence from pendular motions when the mouse gets on or off.
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Spagna 2024 — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Gravitazione e Astrofisica,object/point-charge"></span>

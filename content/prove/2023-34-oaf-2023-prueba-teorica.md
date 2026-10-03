@@ -1374,154 +1374,99 @@ $$h = h_0 + s = 6870\ \text{m}$$
 <div class="qlang-split" data-lang="en"></div>
 
 P3. Einstein and the speed of light.
-In his visit to Zaragoza, Einstein gave two lectures at the Paraninfo of the University. The first one
-He devoted some of these to expounding his theory of special relativity. One of the most important proposals of the
-This theory is that the speed of light in vacuum, $c$, is constant and independent of relative motion.
-between the transmitter, receiver and observer. With a simple mental experiment we can deduce some of the
-The Commission has not yet taken any further action.
-Consider a train moving at constant speed $v$. One of them.
-A young physics student riding a train (Fig. 1) observes
-a pulse of light is emitted from a ground-based focus towards the
-a mirror placed on the roof of the train, at a height $L$ from the
-So the light is reflected back into the focus.
 
-(a) Calculate the time
-$\Delta t$ que, desde el punto de vista de la
-Student, it takes the pulse from the exit of the focus until the
-It's back to the same.
+During his visit to Zaragoza, Einstein gave two lectures at the University's Paraninfo. The first of these was devoted to presenting his Special Theory of Relativity. One of the most important postulates of this theory is that the speed of light in vacuum, $c$, is constant and independent of the relative motion between emitter, receiver, and observers. With a simple thought experiment we can deduce some of the consequences of this postulate.
 
-A colleague of yours, watching the train pass, observes that
-The light describes a different path (Fig. 2), although according to the
-Einstein's postulate, the speed of light, $c$, is the same for him
-than the one watching her partner on the train. Therefore, for him, the
-Pulse will take a while
-$\Delta t_0 > \Delta t$ en volver al foco.
+Consider a train moving at constant velocity $v$. A young physics student riding on the train (Figure 1) observes that a pulse of light is emitted from a source located on the floor toward a mirror mounted on the ceiling of the train, at height $L$ above the floor, so that the light reflects and returns to the source.
 
-(b) Calculate based on time
-$\Delta t_0$ the distance $D$ travelled
-The light from the focus to the mirror from the point of view of the
-student on leave.
+a) Calculate the time $\Delta t$, from the student’s point of view, that the pulse takes to travel from the source until it returns to the same point.
 
-(c) Calculate, based on $v$, $c$ and $L$, the time
-$\Delta t_0$ que, desde el punto de vista del estudiante en reposo, tarda
-pulse from the moment it exits the focus until it returns to the same.
+Her classmate, who is watching the train pass by, observes that the light follows a different trajectory (Figure 2), although according to Einstein’s postulate, the speed of light, $c$, is the same for him as it is for his companion on the train. Therefore, from his point of view, the pulse takes a time $\Delta t_0 > \Delta t$ to return to the source.
 
-(d) Expressed
-$\Delta t$ depending on the
-$\Delta t_0$.
+b) Calculate, in terms of time $\Delta t_0$, the distance $D$ that the light travels from the source to the mirror, as seen by the student at rest.
 
-The expression
-the amount of time you have received in d) corresponds to the time dilation
-Relativist: a moving clock lags behind a resting clock.
-This effect allows particles like charged pions to reach the Earth's surface
-$\pi^\pm$, which
-They occur in the upper atmosphere by the constant bombardment of charged particles.
-(mainly protons and heavier atomic nuclei) coming from outer space, known as
-like cosmic rays. The resting pions have a half-life of 25 ns, before disintegrating.
-In other particles, they would hardly have time to reach the Earth's surface. However,
-And because of the time dilation that occurs when they're seen moving at high speed, they could be
-first detected in 1947 at the Cosmic Ray Physics Laboratory in Chacaltaya, Bolivia,
-located at 5200 m above sea level. Suppose the pions travel through the atmosphere at a speed
-constant
-$v$ close to that of the light,
-$v = 0{,}99999c$.
+c) Calculate, in terms of $v$, $c$ and $L$, the time $\Delta t_0$ that, from the point of view of the student at rest, the pulse takes to travel from the source and return to it.
 
-(e) Determines the half-life of the pions at that speed which an observer will measure at the
-The lab.
+d) Express $\Delta t$ in terms of $\Delta t_0$.
 
-(f) Calculate the average elevation above sea level at which these pions were generated in the atmosphere.
+The expression you obtained in d) corresponds to relativistic time dilation: a moving clock runs slow compared to one at rest. This effect allows particles such as charged pions $\pi^\pm$, produced in the upper layers of the atmosphere by constant bombardment from charged particles (mainly protons and nuclei of heavier atoms) coming from outer space, known as cosmic rays, to reach Earth's surface. Pions at rest have a mean lifetime of 25 ns before decaying into other particles, so they would hardly have time to reach Earth's surface. However, thanks to relativistic time dilation when observed moving at high speed, they were first detected in 1947 at the Chacaltaya Cosmic Ray Physics Laboratory (Bolivia), located 5200 m above sea level. Suppose the pions travel through the atmosphere at a constant speed $v$ close to that of light, $v = 0{,}99999c$.
+
+e) Determine the mean lifetime of pions at this speed as measured by an observer in the laboratory.
+
+f) Calculate the average height above sea level at which these pions were generated in the atmosphere.
 
 $c = 3\cdot 10^5\ \text{km/s}$
 
 P3. Solution
 
-(a) For the observation apparatus mounted on the train, the light pulse travels a distance $2L$ and moves at speed
-$c$, therefore
+a) For the observer riding on the train, the light pulse travels a distance $2L$ and moves with velocity $c$, therefore
 
 $$\Delta t = \frac{2L}{c} \quad (1)$$
 
-(b) For the observer watching the train passing at $v$, the distance $s$ travelled by the train from
-The pulse of light that comes out of the focus until it comes back to the same is given by
+b) For the observer watching the train pass with velocity $v$, the distance $s$ that the train travels from when the light pulse leaves the source until it returns to the same point is given by
 
 $$s = v\,\Delta t_0 \quad (2)$$
 
-Applying the Pythagorean theorem (Fig. 3), the $D$ distance travelled by the light between
-The focus and the mirror is
+Applying the Pythagorean theorem (Fig. 3), the distance $D$ that light travels between source and mirror is
 
 $$D = \sqrt{L^2 + \left(\frac{s}{2}\right)^2} \;\Rightarrow\; D = \sqrt{L^2 + \left(\frac{v\,\Delta t_0}{2}\right)^2} \quad (3)$$
 
-(c) For the observer at rest, the pulse of light travels a distance $2D$ and, according to the postulate of
-Einstein, it also moves at $c$, so
+c) For the observer at rest, the light pulse travels a distance $2D$ and, according to Einstein's postulate, also moves with velocity $c$, therefore
 
 $$\Delta t_0 = \frac{2D}{c} \quad (4)$$
 
-Substituting (4) for (3) we find the following relationship,
+Substituting (4) into (3), we find the following relation:
 
 $$\Delta t_0 = \frac{2}{c}\sqrt{L^2 + \left(\frac{v\,\Delta t_0}{2}\right)^2} \quad (5)$$
 
-By passing $c/2$ by multiplying to the left and by squaring both terms we can remove the root
-square,
+Moving $c/2$ to the left side, multiplying by it and squaring both sides allows us to eliminate the square root:
 
 $$\frac{c^2}{4}\,\Delta t_0^2 = L^2 + \left(\frac{v\,\Delta t_0}{2}\right)^2 \quad (6)$$
 
-where, with a little bit of algebra, we can clear
-$\Delta t_0$,
+From which, with a bit of algebra, we can solve for $\Delta t_0$,
 
 $$\Delta t_0 = \frac{2L}{\sqrt{c^2 - v^2}} \quad (7)$$
 
-To compare the value of
-$\Delta t$ obtained for the moving observer, the expression (7) is
-You can write in the form
+To compare with the value of $\Delta t$ obtained by the moving observer, expression (7) can be rewritten in the form
 
 $$\Delta t_0 = \frac{2L}{c}\frac{1}{\sqrt{1 - \left(\dfrac{v}{c}\right)^2}} \quad (8)$$
 
-(d) From the expression (8) we can write,
+d) From expression (8), we can write,
 
 $$\Delta t_0\sqrt{1 - \left(\frac{v}{c}\right)^2} = \frac{2L}{c} \quad (9)$$
 
-Comparing the expression (9) with the expression (1) is obtained
+Comparing expression (9) with (1), we obtain
 
 $$\Delta t = \Delta t_0\sqrt{1 - \left(\frac{v}{c}\right)^2} \quad (10)$$
 
-(e) In the pione reference system (in motion at speed)
-$v = 0{,}99999c$ for the laboratory)
-Its half-life is
-$\Delta t = 25$ ns. For the lab observer, who is at rest, the weather
-the half-life of the pion,
-$\Delta t_0$, can be obtained by clearing the equation (10),
+e) In the pion's reference frame (moving with velocity $v = 0{,}99999c$ relative to the laboratory),
+its mean lifetime is $\Delta t = 25$ ns. For the observer in the laboratory, who is at rest, the pion's mean lifetime $\Delta t_0$ can be obtained by solving equation (10):
 
 $$\Delta t_0 = \frac{\Delta t}{\sqrt{1 - (v/c)^2}} \;\Rightarrow\; \Delta t_0 = 5590\ \text{ns} \quad (11)$$
 
-(f) The average distance travelled by the furthest pions from the time they occur to the point of
-The detection, $s$, shall be given by:
+f) The average distance traveled by the most distant pions from their production point to the detection point, $s$, is given by
 
 $$s = v \cdot \Delta t_0 \quad (12)$$
 
-So that
+Therefore,
 
 $$s = 0{,}99999c \cdot \Delta t_0 \;\Rightarrow\; s = 1670\ \text{m} \quad (13)$$
 
-As the laboratory at Chacaltaya is located at an altitude
-$h_0 = 5200\ \text{m}$, the average height above the level
-The sea from which these pions are produced is
+Since the Chacaltaya laboratory is located at an altitude $h_0 = 5200\ \text{m}$, the average height above sea level at which these pions are produced is
 
 $$h = h_0 + s = 6870\ \text{m}$$
 
 <!--fig:start-->
 ![[_attachments/2023 34 OAF 2023 PRUEBA TEORICA/2023 34 OAF 2023 PRUEBA TEORICA_p10_f4.png]]
-*Luce verticale nel treno (Figura 1)*
+*Vertical light beam in the train (Figure 1)*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2023 34 OAF 2023 PRUEBA TEORICA/2023 34 OAF 2023 PRUEBA TEORICA_p10_f5.png]]
-*Luce diagonale D osservatore fermo (Figura 2)*
+*Diagonal light beam D for the stationary observer (Figure 2)*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2023 34 OAF 2023 PRUEBA TEORICA/2023 34 OAF 2023 PRUEBA TEORICA_p11_f6.png]]
-*Triangolo pitagorico percorso luce (Figura 3)*
+*Right triangle for light path (Figure 3)*
 <!--fig:end-->
 
-**Topic:** [[Special Relativity]], [[Nuclear & Particle Physics]]
-**Metodi:** [[Lorentz Transformation (metodo)|Lorentz Transformation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1UaxomltixM7jARUskPOIsQLA3pL8aVw6/view)
+

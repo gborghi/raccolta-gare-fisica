@@ -282,131 +282,110 @@ rispettivamente. Determina ragionevolmente il periodo e l'ampiezza del movimento
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Gravedad - Dinámica**
+**Gravity - Dynamics**
 
-XXVII Olympiad of Physics - Local phase (Cordoba 2016)
-Proof of:
+XXVII Physics Olympiad – Local Phase (Córdoba 2016)
+Test in:
 Gravity - Dynamics
-Local phase of the XXVII National Physics Olympiad
-Cordoba, 7th of March 2016
-Family names:
-Name of the company:
+Local Phase of the XXVII National Physics Olympiad
+Córdoba, March 7, 2016
+
+Last names:
+First name:
+
 Problems
-1. Two bodies of 2.5 and 0.5 kg are joined by one
-An unextended rope and an ideal pole, both of despicable mass. The first of the bodies rests on a surface
-que forma un ángulo de $20^\circ$ con la horizontal, mientras que
-The second is suspended in the air. Determine the
-Minimum coefficient of friction between the contact mass
-with the surface and this, so that the system stays in
-I'm going to rest.
+
+1. Two bodies of mass 2.5 kg and 0.5 kg are connected by an inextensible string passing over an ideal pulley, both of negligible mass. The first body rests on a surface inclined at angle $20^\circ$ to the horizontal, while the second hangs freely in air. Determine the minimum coefficient of friction between the mass in contact with the surface and the surface itself, so that the system remains at rest.
+
 2.5 kg
 0.5 kg
 $20^{\circ}$
-2. D.J. Stephens got the NBA to look at him because of the preliminary tests that are being done.
-days the Brooklyn Nets, the so-called draft-combine. The Memphis University player has jumped.
-to fame thanks to his ability to jump precisely. Despite his height, 6 feet, this young alero
-The Tigers' first-ever vertical jump was 116.8 centimeters. The Commission has already decided to extend the periodicity of the budget.
-- **A.** What was the initial speed of the jump from D. J. What about Stephens?
-- **B ** Assuming it is capable of developing exactly the same jump power, what height would it be?
-reached D. J. Stephens on the surface of the moon?
-Datos: $g = 9{,}8\ \text{m/s}^2$ ; $M_L = 7{,}349\times10^{22}\ \text{kg}$ ; $R_L = 1{,}737\times10^6\ \text{m}$ ; $G = 6{,}637\times10^{-11}\ \text{N}\cdot\text{m}^2/\text{kg}^2$
+
+2. D.J. Stephens has gained attention from the NBA due to recent pre-draft evaluations conducted by the Brooklyn Nets, known as the Draft Combine. The player from the University of Memphis has become famous precisely because of his jumping ability. Despite his height of 1.95 meters, this young forward from the Tigers managed to jump vertically 116.8 centimeters. (Marca newspaper, May 24, 2013)
+
+- **A.** What was the initial velocity of D.J. Stephens’ jump?
+- **B.** Assuming he can generate exactly the same jumping power, what height would D.J. Stephens have reached on the surface of the Moon?
+
+Data: $g = 9{,}8\ \text{m/s}^2$ ; $M_L = 7{,}349\times10^{22}\ \text{kg}$ ; $R_L = 1{,}737\times10^6\ \text{m}$ ; $G = 6{,}637\times10^{-11}\ \text{N}\cdot\text{m}^2/\text{kg}^2$
+
 Questions
-1. By the year 2028, humanity is wiping out the planet, we're generating more trash than the ecosystem.
-You can take it. A group of NASA engineers propose launching a rocket into the sun with all the garbage
-which we cannot get rid of. In order to reduce costs, the launch speed of the rocket
-It must be the least it can do to get it to the sun. Please state which of the following statements is reasonable:
-It 's true .
-- **A.** The launch speed of the rocket is higher than the escape speed from the ground.
-- **B.** The launch speed of the rocket is less than the escape speed from the ground.
-- **C.** The launch speed of the rocket is equal to the escape speed from the ground.
-- **D.** None of the above claims are true.
-x
-y
-h
-h/2
+1. In the year 2028 humanity is destroying the planet, producing more waste than the ecosystem can sustain. A group of NASA engineers proposes launching a rocket toward the Sun carrying all the waste we cannot dispose of. In order to reduce costs, the launch velocity of the rocket must be the minimum possible for it to reach the Sun. Reasonably determine which of the following statements is correct:
+- **A.** The launch velocity of the rocket is greater than Earth's escape velocity.
+- **B.** The launch velocity of the rocket is less than Earth's escape velocity.
+- **C.** The launch velocity of the rocket is equal to Earth's escape velocity.
+- **D.** None of the above statements is correct.
+
+x y h h/2
 A
 B
 C
-2. A wagon starts from the resting place of the top of a roller coaster, point A, whose profile
-It's shown schematically in the figure on the left. Discussion of Truth in a Reasoned Way
-The speed of the cart at point B is twice the speed of the
-cart at point C.
 
-XXVII Olympiad of Physics - Local phase (Cordoba 2016)
-Proof of:
+2. A cart starts from rest at the top of a roller coaster, point A, whose profile is schematically shown in the figure on the left. Reasonably discuss the truth of the following statement: “The velocity of the cart at point B is twice the velocity of the cart at point C.”
+
+XXVII Physics Olympiad – Local Phase (Córdoba 2016)
+Test in:
 Electromagnetism
-Local phase of the XXVII National Physics Olympiad
-Cordoba, 7th of March 2016
-Family names:
-Name of the company:
-The problem
-1. A triode consists essentially of the following three elements: a flat surface (the cathode)
-It emits electrons at negligible initial speeds, parallel to the surface and at 3 mm of
-distance a metal grid that allows electrons to pass freely and a potential difference
-of +18 V with respect to the cathode, parallel to the above surfaces a second flat surface (anode)
-located 12 mm from the grid and at a potential difference of +15 V from the cathode.
+Local Phase of the XXVII National Physics Olympiad
+Córdoba, March 7, 2016
+
+Last names:
+First name:
+Problem
+
+1. A triode essentially consists of the following three elements: a flat surface (the cathode)
+which emits electrons with negligible initial velocities, parallel to the front surface and 3 mm away from a metallic grid that freely allows electrons to pass, and at a potential difference of +18 V relative to the cathode; parallel to the front surfaces, a second flat surface (anode) is located 12 mm from the grid and at a potential difference of +15 V relative to the cathode.
+
 +18V
 +15V
-Catode
+Cathode
 Grid
-Other
+Anode
 12 mm
 3 mm
-Assuming the electric fields are uniform
-- **A.** Graphically represents the potential within the triode in relation to the distance to the cathode
-- **B.** Determine the module, direction and direction of the electric field between the cathode and the grid and between the
-the grid and the anode
-(c) Calculate the electron acceleration in each region of the triode.
-(d) Calculate the speed at which electrons pass through the grid
-(e) Calculate the speed at which electrons reach the anode
-Datos: Carga del electrón: $e = -1{,}602\times10^{-19}$ C ; Masa del electrón: $m_e = 9{,}109\times10^{-31}$ kg ; Constante
-de Coulomb: $K = 8{,}988\times10^9\ \text{N m}^2\,\text{C}^{-2}$ .
-Questions
-1. Please indicate which of the following answers is correct. When a charged particle moves in the breast
-The force acting on the particle is proportional to the magnetic field. . .
-- **A.** . . . The value of the load and not dependent on its speed
-- **B.** . . . the value of its load and speed
-- **C.** . . . the value of its load and its acceleration
-- **D.** . . . the value of its load and mass
-I
-2. Suppose a conductive wire through which a
-It's a continuous current. We put a magnet with its poles.
-The following points are added to the list of the following points: Determining
-The poles of the magnet are oriented. Determine what happens if we move the magnet around the thread while keeping
-the plane of motion and the distance to the fixed thread.
 
-XXVII Olympiad of Physics - Local phase (Cordoba 2016)
-Proof of:
-Wave movement
-Local phase of the XXVII National Physics Olympiad
-Cordoba, 7th of March 2016
-Family names:
-Name of the company:
-The problem
-1. A Kundt tube is a device that allows the formation of stationary sound waves in its
-inside and is used to determine the speed of sound. It consists of a glass tube in
-whose interior is the sound. One of the ends is open (belly) and has a mounted
-The sound wave is synusoidal. The other end of the tube is closed by
-a wall reflecting sound waves (node).
-The wall
-(knot)
-Speakers
-(belly)
+Assuming the electric fields are uniform:
+
+- **A.** Graphically represent the potential inside the triode as a function of distance from the cathode
+- **B.** Determine the magnitude, direction, and sense of the electric field between the cathode and grid, and between the grid and anode
+- **C.** Calculate the acceleration of electrons in each region of the triode
+- **D.** Calculate the velocity with which electrons pass through the grid
+- **E.** Calculate the velocity with which electrons reach the anode
+
+Data: Electron charge: $e = -1{,}602\times10^{-19}$ C; Electron mass: $m_e = 9{,}109\times10^{-31}$ kg; Coulomb constant: $K = 8{,}988\times10^9\ \text{N m}^2\,\text{C}^{-2}$.
+
+Questions
+1. Indicate which of the following answers is correct. "When a charged particle moves inside a magnetic field, the force acting on the particle is proportional to...
+- **A.** ...the value of its charge and does not depend on its velocity"
+- **B.** ...the value of its charge and its velocity"
+- **C.** ...the value of its charge and its acceleration"
+- **D.** ...the value of its charge and its mass"
+2. Suppose a current-carrying conductor through which a steady current flows. We place a magnet with its poles located in a plane perpendicular to the wire. Determine how the poles of the magnet are oriented. Determine what happens if we move the magnet around the wire while keeping the plane of motion and the distance to the wire fixed.
+
+XXVII Physics Olympiad – Local Phase (Córdoba 2016)
+Test in:
+Wave Motion
+Local Phase of the XXVII National Physics Olympiad
+Córdoba, March 7, 2016
+
+Last names:
+First name:
+
+Problem
+1. A "Kundt’s tube" is a device used to produce stationary sound waves inside it and to determine the speed of sound. It consists of a glass tube through which sound propagates. One end is open (antinode) and has a speaker mounted, generating sinusoidal sound waves. The other end of the tube is closed by a wall that reflects sound waves (node).
+
+Wall (node)
+Speaker (antinode)
 1 m
-In this case, a 1 m long kundt tube is used, as shown in the figure.
-Calculate what the first four frequency permissions would be if this tube were filled with pressurized helium.
-atmospheric, knowing that in such a case the speed of sound is 975 m/s.
-Questions
-1. It raises the question of how the mechanical energy of a body performing a simple harmonic movement would vary if
-doubled:
-- **A** the frequency.
-- **B.** maximum acceleration
-2. A body, situated on a smooth horizontal surface and attached to the end of a spring, makes a
-The maximum values for the single harmonic movement and its speed and acceleration are $0{,}6$ m/s and $7{,}2\ \text{m/s}^2$
-the Commission. Determine the period and extent of movement reasonably.
 
-**Topic:** [[Newtonian Mechanics]], [[Electrostatics]], [[Oscillations & Waves]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1bpRK8vRJQo4Z_OG4H7EXMqWn7Wzktkm9/view)
+In this case, a Kundt’s tube of length 1 m is used, as shown in the figure.
+
+Calculate the four lowest allowed frequencies if this tube were filled with helium at atmospheric pressure, knowing that in such conditions the speed of sound is 975 m/s.
+
+Questions
+1. Explain how the mechanical energy of a body undergoing simple harmonic motion would change if:
+- **A.** the frequency were doubled.
+- **B.** the maximum acceleration were doubled.
+
+2. A body placed on a smooth horizontal surface and attached to one end of a spring performs simple harmonic motion, with maximum values of velocity and acceleration given by $0{,}6$ m/s and $7{,}2\ \text{m/s}^2$, respectively. Determine, with reasoning, the period and amplitude of the motion.
+
+

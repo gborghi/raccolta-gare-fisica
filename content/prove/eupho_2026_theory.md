@@ -10,11 +10,8 @@ tags:
 
 
 
+
 <span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2026 — Teorica — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/newtonian-mechanics,topic/rotational-dynamics,argomento/meccanica,object/rod"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
 
 **T1: Jumper (10 pts)**
 
@@ -35,12 +32,7 @@ Jumper jumps after the hinge is released. Determine the maximum height $h$ reach
 
 
 
-
 <span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2026 — Teorica — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/magnetism,topic/electromagnetic-induction,argomento/elettromagnetismo,object/solenoid"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
 
 **T2: Hysteresis (10 pts)**
 
@@ -65,12 +57,7 @@ c) (4.7 pts) The current $I(t)$ exhibits two qualitatively distinct phases of be
 
 
 
-
 <span class="atom-split" id="q03" data-atom="q03" data-title="EuPhO 2026 — Teorica — Quesito 3" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,topic/fluid-mechanics,argomento/termodinamica,object/disk"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
 
 **T3: Dry ice hockey (10 pts)**
 
@@ -94,6 +81,3 @@ Treat the $\mathrm{CO}_2$ gas as ideal. Assume no tilting of the puck at any mom
 **Objects:** [[Puck (object)]]
 **Fonte:** [Testo (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Theory_ENG.pdf)
 **Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Theory_AC__Copy_v1.0.pdf)
-
-
-

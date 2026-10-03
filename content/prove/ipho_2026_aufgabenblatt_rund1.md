@@ -243,16 +243,13 @@ Hint: It is possible to reach voltage values greater than $3U$.
 <div class="qlang-split" data-lang="it"></div>
 
 Problema 3 (10 punti)
-Bene caricato
-In a box in the physics collection you find a battery with voltage $U$, cables, and two identical capacitors of capacitance $C$.
-Trova un modo per raggiungere la massima tensione possibile con questi componenti. Descrivere come devi procedere a farlo e determinare il valore della tensione raggiungibile in questo modo.
-Insegna: è possibile raggiungere valori di tensione superiori a $3U$.
+Batteria ben carica
 
-**Topic:** [[Circuits]], [[Electrostatics]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Battery (object)|Battery]], [[Capacitor (object)|Capacitor]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1KQ2FJj8BUAgU5zRVudm9X6N3uj9fBjr9/view)
+In una scatola della raccolta di fisica trovi una batteria con tensione $U$, cavi e due condensatori identici di capacità $C$.
+
+Trova un modo per raggiungere la massima tensione possibile con questi componenti. Descrivi come devi procedere per farlo e determina il valore della tensione raggiungibile in questo modo.
+
+Suggerimento: è possibile raggiungere valori di tensione maggiori di $3U$.
 
 
 

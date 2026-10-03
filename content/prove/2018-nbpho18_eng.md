@@ -612,40 +612,14 @@ due to equalized pressures?
 
 <div class="qlang-split" data-lang="it"></div>
 
-8. AIR IN A SUBMARINE (6 punti)  Johan
-Runeson, Jaan Kalda. Un sottomarino di sconosciuti
-La cittadinanza si sta spostando vicino alla parte inferiore del
-Mar Baltico, a profondità $h = 300\ \text{m}$. Il suo interno
-è una grande stanza di volume $V = 10\ \text{m}^3$ piena di
-aria ($M = 29\ \text{g/mol}$) a pressione $p_0 = 100\ \text{kPa}$ e
-temperatura $t_0 = 20\ ^\circ\text{C}$. Improvvisamente colpisce una roccia
-e si forma un grande buco di superficie $A = 20\ \text{cm}^2$ al
-il fondo del sottomarino. Di conseguenza, il
-Il sottomarino affonda al fondo e la maggior parte
-è riempito rapidamente di acqua, lasciando una bolla d'aria
-a pressione aumentata (nessun aria sfugge dal sottomarino). La densità dell'acqua $\rho = 1000\ \text{kg/m}^3$ e
-accelerazione di caduta libera $g = 9.81\ \text{m/s}^2$. Calore molare
-capacità dell'aria a volume costante $c_V = \frac{5}{2}R$,
-dove $R = 8.31\ \text{J/Kmol}$ è la costante del gas.
-(i) (2 punti) Qual è il volume ($\text{m}^3$/s) al
-che l'acqua scorre nel sottomarino subito dopo la formazione del buco?
-(ii) (2 punti) Il flusso è così elevato che il sottomarino si riempie di acqua così velocemente che il calore di
-Il gas e l'acqua possono essere scambiati
-La Commissione ha adottato una decisione che non è stata adottata.
-Qual è il volume della bolla d'aria una volta acqua
-Il flusso si è fermato?
-(iii) (2 punti) Il flusso d'acqua che si precipita in
-il sottomarino crea acqua turbolenta all'interno del
-Submarino; qual è l'energia cinetica totale di
-La turbolenza dell'acqua (che poi finisce per essere
-di calore), una volta che l'afflusso si è fermato
-- per le pressioni eguali?
+8. ARIA IN UN SOTTOMARINO (6 punti) — Johan Runeson, Jaan Kalda. Un sottomarino di nazionalità ignota si muove vicino al fondo del Mar Baltico, alla profondità di $h = 300\ \text{m}$. Il suo interno è una grande stanza di volume $V = 10\ \text{m}^3$ riempita d'aria ($M = 29\ \text{g/mol}$) alla pressione $p_0 = 100\ \text{kPa}$ e alla temperatura $t_0 = 20\ ^\circ\text{C}$. All'improvviso urta una roccia e si forma un foro grande di area $A = 20\ \text{cm}^2$ sul fondo del sottomarino. Di conseguenza, il sottomarino affonda fino al fondo e viene rapidamente riempito d'acqua, lasciando una bolla d'aria a pressione maggiore (nessuna aria esce dal sottomarino). La densità dell'acqua è $\rho = 1000\ \text{kg/m}^3$ e l'accelerazione di gravità è $g = 9.81\ \text{m/s}^2$. La capacità termica molare dell'aria a volume costante è $c_V = \frac{5}{2}R$, dove $R = 8.31\ \text{J/Kmol}$ è la costante dei gas.
 
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Conservation of Energy]]
-**Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gas (object)|Gas]], [[Bubble (object)|Bubble]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1ncMY4Duo6hG0kKtcBE8IPTZnwt4xB3p8/view)
+i) (2 punti) Qual è il flusso volumetrico ($\text{m}^3$/s) con cui l'acqua entra nel sottomarino immediatamente dopo la formazione del foro?
+
+ii) (2 punti) Il flusso è così elevato che il sottomarino si riempie d'acqua con tale rapidità che lo scambio termico tra il gas e l'acqua può essere trascurato (questo vale anche per la domanda successiva).
+Qual è il volume della bolla d'aria una volta che il flusso di acqua si è arrestato?
+
+iii) (2 punti) Il getto d'acqua che entra nel sottomarino crea turbolenza interna; qual è l'energia cinetica totale di questa turbolenza d'acqua (che in seguito si dissipa come calore), una volta che l'afflusso si è arrestato a causa dell'eguaglianza delle pressioni?
 
 
 

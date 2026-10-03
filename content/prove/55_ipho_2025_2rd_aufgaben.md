@@ -391,14 +391,13 @@ Code: Code
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 5 Immagine di un anello luminoso (problema MC)
-(5,0 p. d.)
-Un anello luminoso è immaginato con l'aiuto di una lente sottile. La posizione e la dimensione del ring
-sono mostrati nella figura a scala. La lunghezza focale $f$ del lente è $15\ \text{cm}$ e la lunghezza focale $f$ del
-lo spessore dell'anello può essere trascurato.
+Problema 5 Immagine di un anello luminoso (problema a scelta multipla)
+(5,0 punti)
+
+Un anello luminoso viene immaginato con l'aiuto di una lente sottile. La posizione e le dimensioni dell'anello sono indicate nella figura in scala. La lunghezza focale $f$ della lente è $15\ \text{cm}$ e lo spessore dell'anello può essere trascurato.
+
 $20{,}0\ \text{cm}$
-Lenti
-a) Axi ottica
+Asse ottico della lente
 $f$
 $f$
 Anello
@@ -406,9 +405,10 @@ A
 B
 C
 D
+
 Il rapporto tra la lunghezza del segmento da B a D e la lunghezza del segmento da A a C è 1.
-Qual è il rapporto tra i punti corrispondenti nell'immagine del segmento
-- Un anello?
+Qual è il rapporto tra le lunghezze dei segmenti corrispondenti nell'immagine dell'anello?
+
 A
 $0{,}6$
 B
@@ -417,26 +417,21 @@ C
 $1{,}8$
 D
 $2{,}0$
-Answer section
+
+Sezione risposta
 Calcoli e spiegazioni
-55° IPhO 2025 - 2° Round Exam
-Codice: Codice
-Calcoli e spiegazioni (continuato)
-Corretta risposta:
-55° IPhO 2025 - 2° Round Exam
+55ª Olimpiade Fisica Internazionale 2025 - Prova seconda fase
 Codice: Codice
 
+Calcoli e spiegazioni (continuazione)
+Risposta corretta:
+55ª Olimpiade Fisica Internazionale 2025 - Prova seconda fase
+Codice: Codice
 
 <!--fig:start-->
 ![[_attachments/55_IPhO_2025_2Rd_Aufgaben/55_IPhO_2025_2Rd_Aufgaben_p7_f3.png]]
-*diagrafo ottico anello luminoso e lente *
+*diagramma ottico anello luminoso e lente*
 <!--fig:end-->
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)
 
 
 

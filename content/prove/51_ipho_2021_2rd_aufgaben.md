@@ -43,26 +43,19 @@ Code: Code
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 1 Temperature units (problema MC)
-(cfr.
-The fictitious temperature unit Nups is defined by setting $0\ \text{K} = 1000$ Nups, $0\ ^\circ\text{C} = 400$ Nups
-e una variazione lineare con la temperatura.
-Quale temperatura in $^\circ\text{C}$ corrisponde più strettamente a 0 Nups?
+Problema 1 Unità di temperatura (problema a scelta multipla)
+(5 punti)
+L'unità di temperatura fittizia Nups è definita fissando $0\ \text{K} = 1000$ Nups, $0\ ^\circ\text{C} = 400$ Nups e una variazione lineare con la temperatura.
+Quale temperatura in $^\circ\text{C}$ corrisponde più da vicino a 0 Nups?
 A $120\ ^\circ\text{C}$
 B $150\ ^\circ\text{C}$
 C $180\ ^\circ\text{C}$
 D $210\ ^\circ\text{C}$
-Answer section
+Sezione risposta
 Calcoli e spiegazioni
-Corretta risposta:
-51° IPhO 2021 - 2° round exam
+Risposta corretta:
+51ª Olimpiade Fisica Internazionale 2021 - Esame del secondo turno
 Codice: Codice
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1MmZ4cdFpvTivMTO4m_jdVgy2YMJRPfdu/view)
 
 
 
@@ -199,28 +192,23 @@ Code: Code
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 3 Due piastre in vuoto (problema MC)
-(cfr.
-Due conducenti, plates parallele di area $A$ sono situate a distanza $d$ separate in vuoto. A causa di
-l'effetto quantomeccanico di Casimir, una forza che agisce tra i piatti che dipende dal
-velocità di luce $c$ in vacuum e la costante di planck $\hbar = \dfrac{h}{2\pi}$ ridotta.
-Which of the following expressions could represent a suitable expression for the force $F$ with
-- Which the plates are pressed together? - Cosa?
+Problema 3 Due lastre nel vuoto (problema a scelta multipla)
+(5 punti)
+
+Due lastre conduttrici, parallele, di area $A$ sono poste a distanza $d$ l'una dall'altra nel vuoto. A causa dell’effetto Casimir, di natura quantistica, tra le lastre agisce una forza che dipende dalla velocità della luce $c$ nel vuoto e dalla costante di Planck ridotta $\hbar = \dfrac{h}{2\pi}$.
+
+Quale delle seguenti espressioni potrebbe rappresentare un'espressione adeguata per la forza $F$ con cui le lastre sono premute l’una contro l'altra?
+
 A $F = \dfrac{\pi^2 \hbar c}{240 d^3}\, A$
 B $F = \dfrac{\pi^2 \hbar c}{240 d^3}\, A^2$
 C $F = \dfrac{\pi^2 \hbar c}{240 d^4}\, A$
 D $F = \dfrac{\pi^2 \hbar c}{240 d^4}\, A^2$
-Answer section
-Calcoli e spiegazioni
-Corretta risposta:
-51° IPhO 2021 - 2° round exam
-Codice: Codice
 
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1MmZ4cdFpvTivMTO4m_jdVgy2YMJRPfdu/view)
+Sezione risposta
+Calcoli e spiegazioni
+Risposta corretta:
+51ª Olimpiade Fisica Internazionale 2021 - Esame seconda fase
+Codice: Codice
 
 
 
@@ -288,17 +276,14 @@ Code: Code
 <div class="qlang-split" data-lang="it"></div>
 
 Problema 4 Due trasmettitori (problema MC)
-(cfr.
-Due identici dipoli elettrici trasmettenti, orientati perpendicolare al piano del disegno, che irradiano in fase dai punti $S_1$ e
-$S_2$ into space with frequency $f$.
-A receiver E is moved, starting from
-$S_2$, along a circle around $S_1$.
-L'intensità misurata al ricevitore come funzione del
-angle $\alpha$ is shown in the diagram
-e mostra i massimi e i minimi.
-Se il ricevitore viene anche
-close to the transmitter $S_2$, it overloads, so that no
-misurazione è possibile.
+(5 punti)
+
+Due dipoli elettrici trasmittenti identici, orientati perpendicolarmente al piano del disegno, emettono in fase dai punti $S_1$ e
+$S_2$ nello spazio con frequenza $f$.
+Un ricevitore E viene spostato, partendo da
+$S_2$, lungo una circonferenza intorno a $S_1$.
+L'intensità misurata dal ricevitore in funzione dell'angolo $\alpha$ è mostrata nel diagramma e presenta chiari massimi e minimi.
+Se il ricevitore si avvicina troppo al trasmettitore $S_2$, si sovraccarica, rendendo impossibile la misurazione.
 Qual è la frequenza $f$ della radiazione?
 A 1,5 GHz
 B 3,0 GHz
@@ -319,12 +304,11 @@ $360^\circ$
 $\alpha$
 $I(\alpha)$
 Fig. 2. Distribuzione dell'intensità in unità relative.
-Answer section
+Sezione risposta
 Calcoli e spiegazioni
-Corretta risposta:
-51° IPhO 2021 - 2° round exam
+Risposta corretta:
+51ª Olimpiade Fisica Internazionale 2021 - Prova del secondo turno
 Codice: Codice
-
 
 <!--fig:start-->
 ![[_attachments/51_IPhO_2021_2Rd_Aufgaben/51_IPhO_2021_2Rd_Aufgaben_p6_f2.png]]
@@ -334,12 +318,6 @@ Codice: Codice
 ![[_attachments/51_IPhO_2021_2Rd_Aufgaben/51_IPhO_2021_2Rd_Aufgaben_p6_f3.png]]
 *Distribuzione intensità vs angolo alpha*
 <!--fig:end-->
-
-**Topic:** [[Oscillations & Waves]], [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]], [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Magnetic Dipole (object)|Magnetic Dipole]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1MmZ4cdFpvTivMTO4m_jdVgy2YMJRPfdu/view)
 
 
 
@@ -558,61 +536,40 @@ that it is easy to follow but not unnecessarily long. So if, for example, you us
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 7 Falling conducting loop in a magnetic field (problema MC)
-(cfr.
-A square conducting loop with edge length $a$, resistance $R$ and mass $m$ falls, as sketched alongside, from
-rest into a sharply bounded region of width
-$b > a$ con un campo magnetico omogeneo di densità di flusso $\vec{B}$,
-orientato verso il piano del disegno. I grafici A,
-B, C e D sono destinati a rappresentare la tempo evoluzione della velocità del loop di conduttore per varie forze di campo magnetico.
-Which of the graphs shows a physically possible
-processo?
-Conducting loop
-Regione con campo magnetico
-a
-b
+Problema 7 Anello conduttore in caduta in un campo magnetico (problema a scelta multipla)
+(5 punti)
+
+Un anello quadrato conduttore di lunghezza del lato $a$, resistenza $R$ e massa $m$ cade, come mostrato nello schizzo accanto, da fermo in una regione con campo magnetico omogeneo di spessore $b > a$ e densità del flusso magnetico $\vec{B}$, orientato verso il piano del disegno. I grafici A, B, C e D sono intesi a rappresentare l’evoluzione temporale della velocità dell’anello conduttore per diverse intensità del campo magnetico.
+Quale dei grafici rappresenta un processo fisicamente possibile?
+
+Anello conduttore
+Regione con campo magnetico a b
 $\vec{B}$
 A
-0
-t
-v
+0 t v
 B
-0
-t
-v
+0 t v
 C
-0
-t
-v
+0 t v
 D
-0
-t
-v
-Answer section
-Calcoli e spiegazioni
-Corretta risposta:
-51° IPhO 2021 - 2° round exam
-Codice: Codice
-Problemi di risposta lunga
-La Commissione ha inoltre presentato una serie di proposte di risoluzione sulle misure di sicurezza e di sicurezza. A differenza dei
-problemi di scelta multipla, non sono state indicate le opzioni di risposta. Descrivi il tuo metodo di soluzione in questo modo:
-che è facile da seguire ma non troppo lungo. Quindi se, per esempio, si utilizza la legge sulla conservazione dell'energia, scrivete brevemente.
+0 t v
 
+Sezione delle risposte
+Calcoli e spiegazioni
+Risposta corretta:
+51ª Olimpiade Fisica Internazionale 2021 - Esame della seconda fase
+Codice: Codice
+Problemi a risposta lunga
+Lavora sui seguenti tre problemi negli spazi appositi. A differenza dei problemi a scelta multipla, non sono fornite opzioni di risposta. Descrivi il metodo con cui hai risolto il problema in modo chiaro ma non eccessivamente lungo. Ad esempio, se usi la conservazione dell’energia, indica brevemente questo fatto.
 
 <!--fig:start-->
 ![[_attachments/51_IPhO_2021_2Rd_Aufgaben/51_IPhO_2021_2Rd_Aufgaben_p9_f5.png]]
-*Leichi di condotta che cadono in campo magnetico *
+*Leiterschleife che cade in campo magnetico*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/51_IPhO_2021_2Rd_Aufgaben/51_IPhO_2021_2Rd_Aufgaben_p9_f6.png]]
-Grafici per vari campi magnetici
+*Grafici v(t) per vari campi magnetici*
 <!--fig:end-->
-
-**Topic:** [[Electromagnetic Induction]], [[Newtonian Mechanics]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lenz's Law (metodo)|Lenz's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Coil (object)|Coil]], [[Magnet (object)|Magnet]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1MmZ4cdFpvTivMTO4m_jdVgy2YMJRPfdu/view)
 
 
 
@@ -662,42 +619,30 @@ Code: Code
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 8 Fontana di Coriolis
-(cfr.
-La fontana di Coriolis mostrato accanto consiste di un anello fuori di cui
-I jetti d'acqua emergono a intervalli regolari attraverso piccoli fori nella direzione del
-- Centro. L' anello è situato ad una quota fissa parallela sopra
-Il terreno può ruotare intorno al suo asse centrale.
-Le cifre mostrano la fontana di Coriolis dall'alto con il percorso dei getti d'acqua fino al punto in cui colpiscono il terreno. Nella figura sinistra, la fontana di Coriolis è a riposo. In the right part it rotates
-con velocità angolare costante $\omega$.
-r
-r
-Fig. 4. To-scale representation of the Coriolis fountain and the water jets from above in the resting case
-(left) and during rotation with angular velocity $\omega$
-(Ritto)
-Il raggio interno del ring è $r = 1{,}00\ \text{m}$ e la velocità di uscita dell'acqua in
-la direzione del centro del ring è $2{,}2\ \text{m s}^{-1}$.
-State in which direction the ring in the right figure rotates and determine the angular velocity $\omega$ of the rotation.
-Answer section
-Calcoli e spiegazioni
-51° IPhO 2021 - 2° round exam
-Codice: Codice
-Calcoli e spiegazioni (continuato)
-Result for angular velocity and direction of rotation:
-51° IPhO 2021 - 2° round exam
-Codice: Codice
+Problema 8 Fontana di Coriolis (10 punti)
+La fontana di Coriolis mostrata qui accanto è costituita da un anello dal quale getti d'acqua emergono a intervalli regolari attraverso piccoli fori nella direzione del centro. L'anello si trova a un'altezza fissa parallela al suolo e può ruotare attorno al suo asse centrale.
 
+Le figure mostrano la fontana di Coriolis vista dall'alto, con il percorso dei getti d'acqua fino al punto in cui colpiscono il terreno. Nella figura a sinistra la fontana di Coriolis è ferma. Nella figura a destra ruota con una velocità angolare costante $\omega$.
+r r
+Fig. 4. Rappresentazione in scala della fontana di Coriolis e dei getti d'acqua vista dall'alto nel caso in cui è ferma (sinistra) e durante la rotazione con velocità angolare $\omega$ (destra).
+
+Il raggio interno dell'anello è $r = 1{,}00\ \text{m}$ e la velocità di uscita dell'acqua nella direzione del centro dell'anello è $2{,}2\ \text{m s}^{-1}$.
+
+Indicare in quale direzione ruota l’anello nella figura a destra e determinare la velocità angolare $\omega$ della rotazione.
+
+Sezione delle risposte
+Calcoli e spiegazioni
+51ª Olimpiade Fisica Internazionale 2021 - Prova del secondo turno
+Codice: Codice
+Calcoli e spiegazioni (continuazione)
+Risultato per la velocità angolare e direzione di rotazione:
+51ª Olimpiade Fisica Internazionale 2021 - Prova del secondo turno
+Codice: Codice
 
 <!--fig:start-->
 ![[_attachments/51_IPhO_2021_2Rd_Aufgaben/51_IPhO_2021_2Rd_Aufgaben_p10_f7.png]]
-Fonte di corioli da sopra due viste
+*Coriolisbrunnen da sopra due viste*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1MmZ4cdFpvTivMTO4m_jdVgy2YMJRPfdu/view)
 
 
 
@@ -944,147 +889,115 @@ Graph
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 10 cicloni tropicali come motori di calore
-(cfr.
-I cicloni a latitudini tropicali possono mostrare velocità di vento notevolmente più elevate e quindi
-"Aggettare in modo molto più distruttivo di altre tempeste". Il extensively riscaldato
-La superficie del mare vicino all'equatore svolge un ruolo essenziale qui come fornitore di energia per il
-Le tempeste.
-Con una semplice termodinamica
-modello, come rappresentato nella figura 6,
-Le proprietà fondamentali di questi cicloni possono essere indagate.
-Considerare un piccolo parcel di aria di massa $\Delta m$ che si muove, al livello della superficie del mare, dalla regione ad alta pressione a A a
-l'esterno del centro tempestale
-at B.
-superficie mare ($T_1$)
-r
-z
+Problema 10 I cicloni tropicali come macchine termiche (20 punti)
+I cicloni alle latitudini tropicali possono raggiungere velocità del vento molto più elevate e quindi agire in modo notevolmente più distruttivo rispetto ad altri tempeste. La superficie marina estesamente riscaldata vicino all'equatore svolge qui un ruolo essenziale come fonte di energia per le tempeste.
+Con un semplice modello termodinamico, come quello rappresentato nella Figura 6, è possibile studiare alcune proprietà fondamentali di questi cicloni.
+Si consideri un piccolo pacchetto d'aria di massa $\Delta m$ che si muove, al livello della superficie marina, dalla regione di alta pressione in A all'estremità esterna del centro della tempesta in B.
+Superficie marina ($T_1$)
+r z
 Tropopausa ($T_2$)
 A
 B
 C
 D
-Centro tempesta
-Fig. 6. Sketch of the motion of an air parcel in
-un ciclone tropicale. z dà l'altezza sopra il
-la distanza dal mezzo del
-- Storm Center.
-La temperatura dell'aria rimane approssimativamente costante, pari alla temperatura del mare $T_1$. Tuttavia,
-l'acqua di mare evapora continuamente, aumentando l'umidità nell'aria. Near
-L'aria è quindi satura e l'umidità è inoltre assorbita
-- Rains out. - È tutto ok. L'energia è quindi fornita all'aria, che
-è composto dal calore di vaporizzazione del vapore d'acqua assorbito e dal
-lavoro fatto sul pacco per la differenza di pressione. Denote by $\Delta m_\text{Dampf}$ the mass
-di vapore di acqua assorbito e di $\lambda_W$ il calore di vaporizzazione di acqua a
-temperatura $T_1$. Quindi il calore assorbito può essere espresso come
+Centro della tempesta
+Fig. 6. Schizzo del moto di un pacchetto d'aria in un ciclone tropicale. z indica l'altezza rispetto alla superficie marina e r la distanza dal centro del ciclone.
+La temperatura dell'aria rimane approssimativamente costante, pari alla temperatura del mare $T_1$. Tuttavia, l'acqua marina evapora continuamente, per cui l'umidità nel pacchetto d'aria aumenta. Vicino al centro della tempesta l'aria diventa saturata e l'umidità aggiuntivamente assorbita precipita sotto forma di pioggia. Lungo il percorso da A a B, quindi, calore viene fornito al pacchetto d'aria, composto dal calore di vaporizzazione dell'acqua assorbita e dal lavoro fatto sul pacchetto dalla differenza di pressione. Si indichi con $\Delta m_\text{Dampf}$ la massa del vapore acqueo assorbito e con $\lambda_W$ il calore di vaporizzazione dell'acqua alla temperatura $T_1$. Allora il calore assorbito può essere espresso come
 
-$$Q_{A\to B} = \lambda_W\, \Delta m_\text{Dampf} + \frac{\Delta m}{M_L}\, R\, T_1 \ln \frac{p_A}{p_B}.$$
-(10.1)
+$$Q_{A\to B} = \lambda_W\, \Delta m_\text{Dampf} + \frac{\Delta m}{M_L}\, R\, T_1 \ln \frac{p_A}{p_B}.$$ (10.1)
 
-Qui $R$ è la costante del gas e $M_L$ la massa molare dell'aria. Inoltre $p_A$ e $p_B$ indicano il
-Pressioni d'aria a A e B. You may use the relation (10.1) in what follows.
-Al limite del centro le masse d'aria poi salire a grandi altezze e quindi freddo al
-temperatura $T_2$ della tropopausa. This process from B up to the region marked C
-in the figure proceeds, to a good approximation, without heat exchange with the surroundings.
-A temperatura costante circa l'aria quindi viaggia lungo la tropopausa lontano dal
-Centro della tempesta di nuovo. Finalmente l'aria si raffreddano attraverso il rilascio di calore sotto forma di radiazioni
-e si scende dalla regione segnata D verso il basso alla regione A. Questo
-Il processo di scarico si verifica anche senza apprezzabile scambio di calore con l'ambiente circostante.
-In questo modo si verifica un processo ciclico termodinamico, che in questo modello è presunto essere reversibile.
-10.a) Derive an expression for the total work $W$ done on the air parcel in one cycle of the cyclic process and express it in terms of the quantities used in (10.1)
-come pure $T_2$. (6 punti)
-51° IPhO 2021 - 2° round exam
+Qui $R$ è la costante dei gas e $M_L$ la massa molare dell'aria. Inoltre, $p_A$ e $p_B$ indicano le pressioni atmosferiche nei punti A e B. Si può utilizzare la relazione (10.1) nel seguito.
+
+Alla periferia del centro, le masse d'aria salgono fino a grandi altezze e si raffreddano così alla temperatura $T_2$ della tropopausa. Questo processo dal punto B fino alla regione contrassegnata con C nella figura avviene, in buona approssimazione, senza scambio di calore con l'ambiente.
+
+A temperatura approssimativamente costante, l'aria si muove poi lungo la tropopausa allontanandosi nuovamente dal centro dell'uragano. Infine, l'aria si raffredda per emissione di radiazione e scende dalla regione contrassegnata con D fino alla regione A. Questo abbassamento avviene anch'esso senza scambio apprezzabile di calore con l'ambiente.
+
+In questo modo si instaura un ciclo termodinamico, che in questo modello è assunto reversibile.
+
+10.a) Derivare un'espressione per il lavoro totale $W$ compiuto sull'elemento d'aria in un ciclo del processo ciclico e esprimerlo in termini delle grandezze utilizzate nella (10.1), nonché di $T_2$. (6 punti)
+
+51ª Olimpiade Fisica Internazionale 2021 - Esame della seconda fase
 Codice: Codice
-Supponiamo che circa il 50% del lavoro fatto sull'aeroporto porti direttamente ad un aumento del
-energia rotazionale dell'aria parcel about the center of the storm on the path from A to B.
-10.b) Derivo di un'espressione per la velocità di rotazione del ciclone $v_B$ all'orlo del
-Centrale in termini di quantità utilizzate nelle precedenti parti del problema e
-la velocità di rotazione $v_A$ all'esterno del temporale. - 2 punti
-Per le ultime parti del problema utilizzare i seguenti valori numerici:
-Costante universale del gas
+
+Si assuma che circa il 50 % del lavoro compiuto sull'elemento d'aria porti direttamente a un aumento dell'energia rotazionale dell'elemento d'aria rispetto al centro dell'uragano lungo il percorso da A a B.
+10.b) Deriva un'espressione per la velocità rotazionale del ciclone $v_B$ al bordo del centro in termini delle grandezze utilizzate nelle parti precedenti del problema e della velocità rotazionale $v_A$ al bordo esterno dell'uragano. (2 punti)
+
+Per le ultime parti del problema utilizza i seguenti valori numerici:
+Costante universale dei gas
 $R = 8{,}314\,46\ \text{J K}^{-1}\,\text{mol}^{-1}$
-Temperatura al mare
+Temperatura alla superficie del mare
 $T_1 = 303\ \text{K}$
-Temperature al tropopause
+Temperatura al tropopausa
 $T_2 = 213\ \text{K}$
-A. Pressione dell'aria a A (edge of the cyclone)
+Pressione dell'aria in A (bordo del ciclone)
 $p_A = 1000\ \text{mbar}$
-Pressione dell'aria a B (edge of the storm centre)
+Pressione dell'aria in B (bordo del centro dell'uragano)
 $p_B = 950\ \text{mbar}$
-Saturation vapore pressure over water
-$E_W = 43\ \text{mbar}$
-a pressione $p_B$ e temperatura $T_1$
-Relative humidity of the air at A
+Pressione parziale di saturazione del vapore acqueo sull'acqua
+$E_W = 43\ \text{mbar}$ alla pressione $p_B$ e temperatura $T_1$
+Umidità relativa dell'aria in A
 $\varphi = 75\ \%$
-Mean molar mass of air
+Massa molare media dell'aria
 $M_L = 28{,}9 \cdot 10^{-3}\ \text{kg mol}^{-1}$
-Mollar mass of water
+Massa molare dell'acqua
 $M_W = 18{,}0 \cdot 10^{-3}\ \text{kg mol}^{-1}$
-Calore di vaporizzazione di acqua a temperatura $T_1$
+Calore di vaporizzazione dell'acqua alla temperatura $T_1$
 $\lambda_W = 2{,}41 \cdot 10^6\ \text{J kg}^{-1}$
-10.c) Determina, per $v_A \approx 10\ \text{m s}^{-1}$, la velocità di rotazione del ciclone $v_B$ all'orlo
-di centro. (cfr.
-Nota: se non si può determinare il valore della velocità di rotazione, si può
-utilizzare il valore sostitutivo $v_B = 250\ \text{km h}^{-1}$ per i seguenti sub-problemi.
-The rotational velocity $v$ of the air in a cyclone is, outside the centre of the
-Storm, approximately proporzionale all'inverso della radice quadrata della distanza $r$, cioè $v \sim 1/\sqrt{r}$ è solido.
-10.d) Calcolare il diametro approssimativo del ciclone considerato sotto l'assunzione
-che punto B si trova a $r \approx 10\ \text{km}$. - 2 punti
-10.e) Estimare l'energia di rotazione dell'intero ciclone e confrontare il valore con
-Il consumo annuo di energia primaria in Germania, che nel 2019 era di circa $1{,}3 \cdot 10^{19}\ \text{J}$.
-Per questo, assumere una densità di aria costante di $1{,}2\ \text{kg m}^{-3}$ e un'altezza del ciclone di
-Circa 12 chilometri. - 4 punti
-10.f) Quando il ciclone colpisce il paese, il suo approvvigionamento energetico è interrotta e si
-- Infatti. Supponiamo che il ciclone considerato si dissolva completamente su terra all'interno
-circa 10 giorni e stimare cosa media potenza
-rilasci di cicloni nel farlo. (1 pt.)
-51° IPhO 2021 - 2° round exam
+
+10.c) Determina, per $v_A \approx 10\ \text{m s}^{-1}$, la velocità rotazionale del ciclone $v_B$ al bordo del centro. (5 punti)
+
+Nota: Se non riesci a determinare il valore della velocità rotazionale, puoi utilizzare il valore sostitutivo $v_B = 250\ \text{km h}^{-1}$ per le sottoparti successive.
+
+La velocità rotazionale $v$ dell'aria in un ciclone, al di fuori del centro dello stormo, è approssimativamente proporzionale all'inverso della radice quadrata della distanza $r$, cioè vale la relazione $v \sim 1/\sqrt{r}$.
+
+10.d) Calcola il diametro approssimativo del ciclone considerato, assumendo che il punto B si trovi a $r \approx 10\ \text{km}$. (2 punti)
+
+10.e) Stimare l'energia rotazionale dell'intero ciclone e confrontarla con il consumo energetico primario annuo in Germania, che nel 2019 era di circa $1{,}3 \cdot 10^{19}\ \text{J}$.
+Per questo, si assuma una densità dell'aria costante di $1{,}2\ \text{kg m}^{-3}$ e un'altezza del ciclone di circa 12 km. (4 punti)
+10.f) Quando il ciclone colpisce la terra, l'approvvigionamento di energia viene interrotto e si indebolisce. Si assuma che il ciclone considerato si dissolva completamente sulla terra in circa 10 giorni e stimi la potenza media rilasciata dal ciclone durante questo processo. (1 punto)
+51ª Olimpiade Internazionale di Fisica 2021 - Prova del secondo turno
 Codice: Codice
-Answer section
+Sezione delle risposte
 10.a)
 Calcoli e spiegazioni
-Expression for the work $W$ done on the air parcel:
+Espressione per il lavoro $W$ compiuto sull'elemento d'aria:
 10.b)
 Calcoli e spiegazioni
-Espressione per la velocità di rotazione del ciclone $v_B$ at the edge of the centre:
-51° IPhO 2021 - 2° round exam
+Espressione per la velocità rotazionale del ciclone $v_B$ al bordo del centro:
+51ª Olimpiade Internazionale di Fisica 2021 - Prova del secondo turno
 Codice: Codice
 10.c)
 Calcoli e spiegazioni
-Risultato per la velocità di rotazione del ciclone $v_B$ at the edge of the centre:
-51° IPhO 2021 - 2° round exam
+Risultato per la velocità rotazionale del ciclone $v_B$ al bordo del centro:
+51ª Olimpiade Internazionale di Fisica 2021 - Prova del secondo turno
 Codice: Codice
 10.d)
 Calcoli e spiegazioni
-Result for the diameter of the cyclone
+Risultato per il diametro del ciclone
 10.e)
 Calcoli e spiegazioni
-Risultato per l'energia rotazionale del ciclone e confronto con il consumo di energia primaria:
+Risultato per l'energia rotazionale del ciclone e confronto con il consumo primario di energia:
 10.f)
 Calcoli e spiegazioni
-Result for the average power released by the cyclone:
-51° IPhO 2021 - 2° round exam
+Risultato per la potenza media rilasciata dal ciclone:
+51ª Olimpiade Internazionale di Fisica 2021 - Prova del secondo turno
 Codice: Codice
-Ulteriori fogli di lavoro
-51° IPhO 2021 - 2° round exam
+Foglio aggiuntivo
+51ª Olimpiade Internazionale di Fisica 2021 - Prova del secondo turno
 Codice: Codice
-Ulteriori fogli di lavoro
-51° IPhO 2021 - 2° round exam
+Foglio aggiuntivo
+51ª Olimpiade Internazionale di Fisica 2021 - Prova del secondo turno
 Codice: Codice
-Ulteriori fogli di lavoro
-51° IPhO 2021 - 2° round exam
+Foglio aggiuntivo
+51ª Olimpiade Internazionale di Fisica 2021 - Prova del secondo turno
 Codice: Codice
-Ulteriori fogli di lavoro
+Foglio aggiuntivo
+51ª Olimpiade Internazionale di Fisica 2021 - Prova del secondo turno
+Codice: Codice
+Foglio aggiuntivo
 Grafico
-
 
 <!--fig:start-->
 ![[_attachments/51_IPhO_2021_2Rd_Aufgaben/51_IPhO_2021_2Rd_Aufgaben_p14_f9.png]]
 *Schema ciclo termodinamico ciclone tropicale*
 <!--fig:end-->
-
-**Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gas (object)|Gas]], [[Heat Engine (object)|Heat Engine]]
-**Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1MmZ4cdFpvTivMTO4m_jdVgy2YMJRPfdu/view)

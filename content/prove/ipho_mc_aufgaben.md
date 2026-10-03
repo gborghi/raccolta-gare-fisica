@@ -138,27 +138,21 @@ D … place a weight of mass $0{,}9\ \mathrm{kg}$ on the left-hand side of the b
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Stone in a glass of water**
+**Pietra in un bicchiere d'acqua**
 
-Un bicchiere pieno di acqua di densità $1000\ \mathrm{kg\,m^{-3}}$ è in equilibrio. Il equilibrio viene portato in equilibrio mettendo un peso su di esso.
+Un bicchiere pieno di acqua con densità $1000\ \mathrm{kg\,m^{-3}}$ è posto su una bilancia. La bilancia viene portata in equilibrio posizionando un peso su di essa.
 
-Ora una pietra con un volume di $300\ \mathrm{cm^3}$ e una densità di $3000\ \mathrm{kg\,m^{-3}}$ è immersa nell'acqua, appesa a un filo sottile attaccato a un stand, senza toccare il fondo.
+Ora una pietra con volume $300\ \mathrm{cm^3}$ e densità $3000\ \mathrm{kg\,m^{-3}}$ viene immersa nell'acqua, appesa a un sottile filo fissato a un supporto, senza toccare il fondo.
 
-Per riportare l'equilibrio, bisogna
+Per ripristinare l'equilibrio della bilancia, si deve…
 
-A … non fare nulla, dal momento che il bilancio resta in equilibrio.
+A … non fare nulla, poiché la bilancia rimane in equilibrio.
 
-B … place a weight of mass $0{,}3\ \mathrm{kg}$ on the left hand side of the balance.
+B … posizionare un peso di massa $0{,}3\ \mathrm{kg}$ sul lato sinistro della bilancia.
 
-C … place a weight of mass $0{,}6\ \mathrm{kg}$ on the left hand side of the balance.
+C … posizionare un peso di massa $0{,}6\ \mathrm{kg}$ sul lato sinistro della bilancia.
 
-D … place a weight of mass $0{,}9\ \mathrm{kg}$ on the left hand side of the balance.
-
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
+D … posizionare un peso di massa $0{,}9\ \mathrm{kg}$ sul lato sinistro della bilancia.
 
 
 
@@ -285,17 +279,11 @@ Which of the following graphs correctly represents the velocity $v$ of the body 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Motion!**
+**Movimento!**
 
-The graph alongside shows the acceleration $a$ of a body in a one-dimensional motion as a function of time $t$.
+Il grafico accanto mostra l'accelerazione $a$ di un corpo in un moto unidimensionale in funzione del tempo $t$.
 
-Quale dei seguenti grafici rappresenta correttamente la velocità $v$ del corpo come funzione di tempo? (AD sono ciascuna un diagramma $v$-$t$.)
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
+Quale dei seguenti grafici rappresenta correttamente la velocità $v$ del corpo in funzione del tempo? (Le opzioni di risposta A–D sono ciascuna un diagramma $v$-$t$.)
 
 
 
@@ -471,27 +459,21 @@ D … four times the Earth's mass and four times the Earth's radius.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Fall on an exoplanet**
+**Caduta su un esopianeta**
 
-On the surface of an extrasolar planet (exoplanet), the fall time of a body from a small height $h$, neglecting all friction effects, is exactly twice as long as on Earth.
+Sulla superficie di un pianeta extrasolare (esopianeta), il tempo di caduta di un corpo da una piccola altezza $h$, trascurando tutti gli effetti di attrito, è esattamente il doppio rispetto a quello sulla Terra.
 
-Quali delle seguenti affermazioni sono coerenti con questo, assumendo una struttura sfericamente simmetrica dell'esoplaneta?
+Quale delle seguenti affermazioni è coerente con questo, supponendo una struttura sfericamente simmetrica dell'esopianeta?
 
-Il pianeta esoplanet ha …
+L'esopianeta ha…
 
-A … half the Earth's mass and twice the Earth's radius.
+A … metà della massa terrestre e il doppio del raggio terrestre.
 
-B … esattamente la massa della Terra e quattro volte il raggio della Terra.
+B … esattamente la stessa massa della Terra e quattro volte il raggio terrestre.
 
-C … due volte la massa della Terra e due volte il raggio della Terra.
+C … il doppio della massa terrestre e il doppio del raggio terrestre.
 
-D … quattro volte la massa della Terra e quattro volte il raggio della Terra.
-
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
+D … quattro volte la massa terrestre e quattro volte il raggio terrestre.
 
 
 
@@ -567,17 +549,11 @@ State which of the figures (A–D) is correct, and justify your answer.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Earth and Mars**
+**Terra e Marte**
 
-Le seguenti figure sono intese a mostrare, da destra a sinistra, cinque snapshot delle posizioni orbitali di Terra e Marte, ciascuna presa a intervalli di tempo uguali. I rapporti dei raggi orbitali sono scalabili, ma i pianeti sono molto più grandi.
+Le figure seguenti devono mostrare, da destra a sinistra, cinque istantanee delle posizioni orbitali della Terra e di Marte, ciascuna acquisita a intervalli di tempo uguali. I rapporti tra i raggi orbitali sono in scala, ma i pianeti sono notevolmente ingranditi.
 
-State which of the figures (AD) is correct, and justify your answer.
-
-**Topic:** [[Gravitation]], [[Astrophysics]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
+Indicate quale delle figure (A–D) è corretta e giustificate la vostra risposta.
 
 
 
@@ -661,21 +637,15 @@ $$A\quad \ell' = \frac{m_A}{m_B}\,\ell \qquad B\quad \ell' = \frac{2\,m_A}{m_A +
 
 <div class="qlang-split" data-lang="it"></div>
 
-**pendolo in ascensore**
+**Pendolo in un ascensore**
 
-Due ascensori di masse $m_A$ e $m_B$ con $m_A < m_B$ pendono dalle estremità di una lunga corda che corre sopra un'autolivello fissa. A simple pendulum of length $\ell$ hangs in the left car. Con le auto a riposo e per piccole deflezioni, il periodo del pendolo è $T$.
+Due cabine di ascensore di masse $m_A$ e $m_B$ con $m_A < m_B$ sono appese agli estremi di una lunga fune che passa sopra una carrucola fissa. Un pendolo semplice di lunghezza $\ell$ è appeso nella cabina sinistra. Quando le cabine sono ferme e per piccole deviazioni, il periodo del pendolo è $T$.
 
-Quando le auto vengono rilasciate, si muovono senza attrito sotto l'influenza della gravità.
+Quando le cabine vengono rilasciate, si muovono senza attrito sotto l'azione della gravità.
 
-How must the length $\ell'$ of the simple pendulum in the left car be chosen so that, after the car is released, it oscillates with period $T$?
+Come deve essere scelta la lunghezza $\ell'$ del pendolo semplice nella cabina sinistra affinché, dopo il rilascio della cabina, esso oscilli con periodo $T$?
 
 $$A\quad \ell' = \frac{m_A}{m_B}\,\ell \qquad B\quad \ell' = \frac{2\,m_A}{m_A + m_B}\,\ell \qquad C\quad \ell' = \frac{2\,m_B}{m_A + m_B}\,\ell \qquad D\quad \ell' = \frac{m_B}{m_A}\,\ell$$
-
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
-**Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
 
@@ -910,13 +880,13 @@ D $440\ \mathrm{V}$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Fields**
+**Campi**
 
-Una particella molto leggera è accelerata attraverso una tensione $U$. Poi vola in una regione permeata da un campo magnetico costante perpendicolare alla sua direzione di movimento. La particella segue un arco circolare di radius $r = 1{,}50\ \mathrm{cm}$.
+Una particella leggera carica viene accelerata attraverso una differenza di potenziale $U$. Successivamente penetra in una regione permeata da un campo magnetico costante, perpendicolare alla sua direzione di moto. La particella descrive un arco circolare di raggio $r = 1{,}50\ \mathrm{cm}$.
 
-Now an electric field of constant field strength $E = 4{,}40 \times 10^4\ \mathrm{V\,m^{-1}}$ is switched on, oriented perpendicular to both the magnetic field and the particle's instantaneous direction of motion. Di conseguenza, la particella continua a muoversi in linea retta.
+Ora viene acceso un campo elettrico di intensità costante $E = 4{,}40 \times 10^4\ \mathrm{V\,m^{-1}}$, orientato perpendicolarmente sia al campo magnetico che alla direzione istantanea del moto della particella. Di conseguenza, la particella continua a muoversi in linea retta.
 
-What is the voltage $U$ with which the particle was initially accelerated?
+Qual è la differenza di potenziale $U$ con cui la particella era inizialmente accelerata?
 
 A $110\ \mathrm{V}$
 
@@ -925,12 +895,6 @@ B $220\ \mathrm{V}$
 C $330\ \mathrm{V}$
 
 D $440\ \mathrm{V}$
-
-**Topic:** [[Electromagnetism]], [[Electrostatics]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Electric Potential Method (metodo)|Electric Potential Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
 
@@ -1014,11 +978,11 @@ D $|U_a| < |U_b| = |U_c| < |U_d|$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Induzione in circuiti di condotta**
+**Induzione in anelli conduttori**
 
-I quattro circuiti che conducono mostrati (a attraverso d) hanno lunghezze di bordo $\ell$ o $2\ell$. Si muovono con velocità costante $v$ in una regione nettamente limitata contenente un campo magnetico uniforme di densità di flusso $B$, orientato verso il piano del disegno.
+I quattro anelli conduttori mostrati (a attraverso d) hanno ciascuno lunghezze di bordo $\ell$ o $2\ell$. Essi si muovono con velocità costante $v$ in una regione nettamente delimitata contenente un campo magnetico uniforme di densità di flusso $B$, orientato verso il piano del disegno.
 
-How do the voltages $U_a$ through $U_d$ induced in the loops just as they enter the region with the magnetic field compare to one another?
+Come si confrontano tra loro le tensioni $U_a$ attraverso $U_d$ indotte negli anelli nel preciso istante in cui entrano nella regione con il campo magnetico?
 
 A $|U_a| = |U_b| = |U_c| = |U_d|$
 
@@ -1027,12 +991,6 @@ B $|U_a| < |U_b| < |U_c| < |U_d|$
 C $|U_a| = |U_b| < |U_c| = |U_d|$
 
 D $|U_a| < |U_b| = |U_c| < |U_d|$
-
-**Topic:** [[Electromagnetic Induction]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lenz's Law (metodo)|Lenz's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
 
@@ -1075,21 +1033,21 @@ D $6{,}6 \times 10^7\ \mathrm{A\,V^{-1}\,m^{-1}}$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Falling Magnet**
+**Magnete in caduta**
 
-Un magnete cilindrico viene scaricato attraverso tre diversi tubi verticalmente stabili. I tubi hanno dimensioni identiche ma sono fatti di materiali diversi: uno di plexiglas, uno di rame e uno di alluminio.
+Un magnete cilindrico viene fatto cadere attraverso tre tubi verticalmente posizionati. I tubi hanno dimensioni identiche ma sono realizzati con materiali diversi: uno in Plexiglas, uno in ottone e uno in alluminio.
 
-Per una distanza di caduta di $L = 1{,}0\ \mathrm{m}$ nei tubi, i seguenti tempi di caduta sono misurati:
+Per un percorso di caduta di $L = 1{,}0\ \mathrm{m}$ nei tubi, sono stati misurati i seguenti tempi di caduta:
 
-♬ Materiale ♬ Tempo di caso ♬
+| Materiale | Tempo di caduta |
 |---|---|
 | Plexiglas | $t_\text{Plexiglas} = 0{,}46\ \mathrm{s}$ |
-| Brass | $t_\text{Messing} = 2{,}15\ \mathrm{s}$ |
-| Aluminium | $t_\text{Aluminium} = 3{,}81\ \mathrm{s}$ |
+| Ottone | $t_\text{Messing} = 2{,}15\ \mathrm{s}$ |
+| Alluminio | $t_\text{Aluminium} = 3{,}81\ \mathrm{s}$ |
 
-La conductività elettrica del tubo di alluminio è $\sigma_\text{Aluminium} = 3{,}7 \times 10^7\ \mathrm{A\,V^{-1}\,m^{-1}}$.
+La conducibilità elettrica del tubo in alluminio è $\sigma_\text{Aluminium} = 3{,}7 \times 10^7\ \mathrm{A\,V^{-1}\,m^{-1}}$.
 
-What value for the electrical conductivity $\sigma_\text{Messing}$ is obtained as an estimate from the fall times?
+Quale valore per la conducibilità elettrica $\sigma_\text{Messing}$ viene stimato a partire dai tempi di caduta?
 
 A $1{,}2 \times 10^7\ \mathrm{A\,V^{-1}\,m^{-1}}$
 
@@ -1098,12 +1056,6 @@ B $2{,}1 \times 10^7\ \mathrm{A\,V^{-1}\,m^{-1}}$
 C $4{,}9 \times 10^7\ \mathrm{A\,V^{-1}\,m^{-1}}$
 
 D $6{,}6 \times 10^7\ \mathrm{A\,V^{-1}\,m^{-1}}$
-
-**Topic:** [[Electromagnetic Induction]], [[Electromagnetism]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Magnet (object)|Magnet]], [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
 
@@ -1222,25 +1174,19 @@ D If the batteries are connected in parallel and the bulbs are likewise connecte
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Battery Operation**
+**Funzionamento della batteria**
 
-A single battery can keep a light bulb glowing for a time $t$. Per semplicità, supponiamo che la lampadina brilla con costante luminosità fino a quando la batteria non è esaurita e che la resistenza della lampadina sia costante.
+Una singola batteria può mantenere accesa una lampadina per un tempo $t$. Per semplicità, si assuma che la lampadina brilli con luminosità costante fino a quando la batteria non è esaurita, e che la resistenza della lampadina sia costante.
 
-Quale dichiarazione è corretta quando due di queste batterie vengono utilizzate per operare due delle lampadine?
+Quale affermazione è corretta quando si utilizzano due di queste batterie per alimentare due delle lampadine?
 
-A If the batteries are connected in series and the bulbs are connected in series, the bulbs can be operated for about a time $t/4$.
+A Se le batterie sono collegate in serie e le lampadine sono collegate in serie, le lampadine possono essere alimentate per un tempo di circa $t/4$.
 
-B If the batteries are connected in series and the bulbs are connected in parallel, the bulbs can be operated for about a time $t/2$.
+B Se le batterie sono collegate in serie e le lampadine sono collegate in parallelo, le lampadine possono essere alimentate per un tempo di circa $t/2$.
 
-C If the batteries are connected in parallel and the bulbs are connected in series, the bulbs can be operated for about a time $2t$.
+C Se le batterie sono collegate in parallelo e le lampadine sono collegate in serie, le lampadine possono essere alimentate per un tempo di circa $2t$.
 
-D Se le batterie sono collegate in parallelo e le lampadine sono collegate in parallelo, le lampadine possono essere utilizzate per circa un tempo $t$.
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
+D Se le batterie sono collegate in parallelo e le lampadine sono anch'esse collegate in parallelo, le lampadine possono essere alimentate per un tempo di circa $t$.
 
 
 
@@ -1459,9 +1405,9 @@ D $210\ ^\circ\mathrm{C}$
 
 **Unità di temperatura**
 
-Il fictitious temperature unit Nups is defined by setting $0\ \mathrm{K} = 1000\ \mathrm{Nups}$, $0\ ^\circ\mathrm{C} = 400\ \mathrm{Nups}$ and a linear variation with temperature.
+L'unità di temperatura fittizia Nups è definita fissando $0\ \mathrm{K} = 1000\ \mathrm{Nups}$, $0\ ^\circ\mathrm{C} = 400\ \mathrm{Nups}$ e una variazione lineare con la temperatura.
 
-Which temperature in $^\circ\mathrm{C}$ most closely corresponds to $0\ \mathrm{Nups}$?
+Quale temperatura in $^\circ\mathrm{C}$ corrisponde più da vicino a $0\ \mathrm{Nups}$?
 
 A $120\ ^\circ\mathrm{C}$
 
@@ -1470,12 +1416,6 @@ B $150\ ^\circ\mathrm{C}$
 C $180\ ^\circ\mathrm{C}$
 
 D $210\ ^\circ\mathrm{C}$
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Unit Conversion (competenza)|Unit Conversion]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.23](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
 
@@ -1549,13 +1489,13 @@ D $145\ \mathrm{g}$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Kettle with Ice Cube**
+**Bollitore con cubetto di ghiaccio**
 
-L'acqua è riscaldata in una bombola. Durante il riscaldamento, un ice cube a temperatura $\vartheta_0 = 0\ ^\circ\mathrm{C}$ viene gettato nell'acqua. La figura mostra la temperatura dell'acqua in funzione del tempo. La temperatura dell'acqua è inizialmente pari a temperatura ambiente e può essere presunta essere la stessa in tutto il cottello in qualsiasi momento.
+L'acqua viene riscaldata in un bollitore. Durante il riscaldamento, un cubetto di ghiaccio alla temperatura $\vartheta_0 = 0\ ^\circ\mathrm{C}$ viene gettato nell'acqua. La figura mostra la temperatura dell'acqua in funzione del tempo. La temperatura iniziale dell'acqua è pari alla temperatura ambiente e può essere assunta uguale ovunque nel bollitore in ogni istante.
 
-Il potere di riscaldamento del pozzolo è $900\ \mathrm{W}$. Per la specific heat capacity of water, $c = 4{,}2\ \mathrm{kJ\,kg^{-1}\,K^{-1}}$, and for the specific heat of fusion (enthalpy of fusion) of ice, $h = 335\ \mathrm{kJ\,kg^{-1}}$.
+La potenza di riscaldamento del bollitore è $900\ \mathrm{W}$. Per il calore specifico dell'acqua, $c = 4{,}2\ \mathrm{kJ\,kg^{-1}\,K^{-1}}$, e per il calore latente di fusione (entalpia di fusione) del ghiaccio, $h = 335\ \mathrm{kJ\,kg^{-1}}$.
 
-Qual era la massa del cubo di ghiaccio quando fu gettato in acqua?
+Qual era la massa del cubetto di ghiaccio quando è stato gettato nell'acqua?
 
 A $16\ \mathrm{g}$
 
@@ -1564,12 +1504,6 @@ B $26\ \mathrm{g}$
 C $56\ \mathrm{g}$
 
 D $145\ \mathrm{g}$
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.24](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
 
@@ -1604,27 +1538,21 @@ D With the voltage used, it is not possible to melt all the ice.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Melting Ice**
+**Ghiaccio che si scioglie**
 
-In un giorno di inverno freddo, tre scatole di legno identiche e non isolate erano fuori casa, ciascuna piena della stessa quantità di ghiaccio a temperatura $0{,}0\ ^\circ\mathrm{C}$. Per fondere il ghiaccio, un elemento di riscaldamento elettrico viene posto in ciascuna delle scatole. I calori sono identici ma operano a tensioni diverse.
+In un freddo giorno invernale, tre scatole di legno identiche e non isolate si trovano all'esterno della casa, ognuna riempita con la stessa quantità di ghiaccio alla temperatura $0{,}0\ ^\circ\mathrm{C}$. Per fondere il ghiaccio, in ciascuna scatola è inserito un elemento riscaldante elettrico. Gli elementi riscaldanti sono identici, ma funzionano a tensioni diverse.
 
-In the first box the heating element is operated at a voltage of $80\ \mathrm{V}$  all the ice melts in $20{,}0\ \mathrm{min}$. Un voltage di $120\ \mathrm{V}$ è applicato all'elemento di riscaldamento della seconda scatola  il ghiaccio si melta in $4{,}0\ \mathrm{min}$. In the third box a voltage of $40\ \mathrm{V}$ is used.
+Nella prima scatola l'elemento riscaldante è alimentato a una tensione di $80\ \mathrm{V}$ — tutto il ghiaccio si scioglie in $20{,}0\ \mathrm{min}$. Nella seconda scatola viene applicata una tensione di $120\ \mathrm{V}$ — il ghiaccio si scioglie in $4{,}0\ \mathrm{min}$. Nella terza scatola viene utilizzata una tensione di $40\ \mathrm{V}$.
 
-Quale delle seguenti affermazioni è corretta per il melting of the ice in the third box?
+Quale delle seguenti affermazioni è corretta per lo scioglimento del ghiaccio nella terza scatola?
 
-A About $80\ \mathrm{min}$ sono necessari per melting all the ice.
+A Sono necessari circa $80\ \mathrm{min}$ per fondere tutto il ghiaccio.
 
-B About $100\ \mathrm{min}$ sono necessari per melt all the ice.
+B Sono necessari circa $100\ \mathrm{min}$ per fondere tutto il ghiaccio.
 
-C About $130\ \mathrm{min}$ sono necessari per melting all the ice.
+C Sono necessari circa $130\ \mathrm{min}$ per fondere tutto il ghiaccio.
 
 D Con la tensione utilizzata, non è possibile fondere tutto il ghiaccio.
-
-**Topic:** [[Thermodynamics]], [[Circuits]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.25](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
 
@@ -1661,15 +1589,15 @@ D $P_\mathrm{III} < P_\mathrm{II} < P_\mathrm{I}$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Heat conduction**
+**Conduzione del calore**
 
-Le estremità di tre barre di metallo rotondo fatte di materiale identico sono ciascuna tenuta a temperature costanti:
+Gli estremi di tre barre metalliche cilindriche realizzate con lo stesso materiale sono mantenuti a temperature costanti:
 
-- Rod I: diametro $2{,}0\ \mathrm{cm}$, lunghezza $20\ \mathrm{cm}$, estremità di rod: $50\ ^\circ\mathrm{C}$ e $20\ ^\circ\mathrm{C}$
-- Rod II: diametro $3{,}0\ \mathrm{cm}$, lunghezza $50\ \mathrm{cm}$, estremità del rod: $60\ ^\circ\mathrm{C}$ e $30\ ^\circ\mathrm{C}$
-- Rod III: diametro $4{,}0\ \mathrm{cm}$, lunghezza $80\ \mathrm{cm}$, estremità del rod: $70\ ^\circ\mathrm{C}$ e $40\ ^\circ\mathrm{C}$
+- Barra I: diametro $2{,}0\ \mathrm{cm}$, lunghezza $20\ \mathrm{cm}$, estremi della barra: $50\ ^\circ\mathrm{C}$ e $20\ ^\circ\mathrm{C}$
+- Barra II: diametro $3{,}0\ \mathrm{cm}$, lunghezza $50\ \mathrm{cm}$, estremi della barra: $60\ ^\circ\mathrm{C}$ e $30\ ^\circ\mathrm{C}$
+- Barra III: diametro $4{,}0\ \mathrm{cm}$, lunghezza $80\ \mathrm{cm}$, estremi della barra: $70\ ^\circ\mathrm{C}$ e $40\ ^\circ\mathrm{C}$
 
-How do the heat powers $P_\mathrm{I}$, $P_\mathrm{II}$ and $P_\mathrm{III}$ transferred through the rods by heat conduction compare to one another?
+Come si confrontano tra loro le potenze termiche $P_\mathrm{I}$, $P_\mathrm{II}$ e $P_\mathrm{III}$ trasferite attraverso le barre per conduzione termica?
 
 A $P_\mathrm{I} < P_\mathrm{II} = P_\mathrm{III}$
 
@@ -1678,12 +1606,6 @@ B $P_\mathrm{I} = P_\mathrm{II} < P_\mathrm{III}$
 C $P_\mathrm{II} < P_\mathrm{I} = P_\mathrm{III}$
 
 D $P_\mathrm{III} < P_\mathrm{II} < P_\mathrm{I}$
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.26](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
 
@@ -1818,25 +1740,19 @@ D about $5{,}6\ \mathrm{K}$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Stopping global warming**
+**Fermare il riscaldamento globale**
 
-Il scienziato pazzo Knox ha trovato un metodo per fermare il riscaldamento globale. To do so, he wants to increase the radius $r$ of the Earth's orbit, assumed to be circular, by $1{,}0\ \%$.
+Il folle scienziato Knox ha trovato un metodo per fermare il riscaldamento globale. A tale scopo, egli vuole aumentare il raggio $r$ dell'orbita terrestre, supposta circolare, di un valore $1{,}0\ \%$.
 
-By approximately how much could the mean temperature $T$ at the Earth's surface (currently about $15\ ^\circ\mathrm{C}$) thereby drop?
+Di circa quanto potrebbe diminuire la temperatura media $T$ alla superficie terrestre (attualmente circa $15\ ^\circ\mathrm{C}$) in tal modo?
 
-A about $0{,}7\ \mathrm{K}$
+A circa $0{,}7\ \mathrm{K}$
 
-B about $1{,}4\ \mathrm{K}$
+B circa $1{,}4\ \mathrm{K}$
 
-C about $2{,}8\ \mathrm{K}$
+C circa $2{,}8\ \mathrm{K}$
 
-D about $5{,}6\ \mathrm{K}$
-
-**Topic:** [[Thermodynamics]], [[Astrophysics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.27](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
+D circa $5{,}6\ \mathrm{K}$
 
 
 
@@ -1926,27 +1842,21 @@ D about $3{,}0 \times 10^3\ \mathrm{g\,m^{-3}}$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Humid bathroom air**
+**Aria umida nel bagno**
 
-Dopo un lungo bagno, la temperatura in bagno è $28\ ^\circ\mathrm{C}$ e l'umidità relativa è $80\ \%$.
+Dopo una lunga doccia, la temperatura nell'ambiente del bagno è $28\ ^\circ\mathrm{C}$ e l'umidità relativa è $80\ \%$.
 
-La saturation vapour pressure curve for water vapour gives the maximum water vapour pressure $p_\text{sat}$ possible at a temperature $\vartheta$ before the water vapour condenses.
+La curva della pressione di saturazione del vapore acqueo fornisce la massima pressione parziale del vapore acqueo $p_\text{sat}$ possibile a una temperatura $\vartheta$ prima che il vapore acqueo si condensi.
 
-Quanto vapore d'acqua (in $\mathrm{g\,m^{-3}}$) è presente nell'aria del bagno? Usare $M_\text{Wasser} = 18{,}0\ \mathrm{g\,mol^{-1}}$.
+Quanta quantità di vapore acqueo (in $\mathrm{g\,m^{-3}}$) è presente nell'aria del bagno? Utilizzare $M_\text{Wasser} = 18{,}0\ \mathrm{g\,mol^{-1}}$.
 
-A about $22\ \mathrm{g\,m^{-3}}$
+A circa $22\ \mathrm{g\,m^{-3}}$
 
-B about $27\ \mathrm{g\,m^{-3}}$
+B circa $27\ \mathrm{g\,m^{-3}}$
 
-C about $2{,}3 \times 10^2\ \mathrm{g\,m^{-3}}$
+C circa $2{,}3 \times 10^2\ \mathrm{g\,m^{-3}}$
 
-D about $3{,}0 \times 10^3\ \mathrm{g\,m^{-3}}$
-
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.29](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
+D circa $3{,}0 \times 10^3\ \mathrm{g\,m^{-3}}$
 
 
 
@@ -2008,19 +1918,13 @@ $$A\quad a\!\left(\sqrt{2}-1\right) \qquad B\quad a\!\left(2-\sqrt{3}\right) \qq
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Glass block**
+**Blocco di vetro**
 
-Un laser beam running in the plane of the drawing strikes a glass block (refractive index $n = 1{,}5$) with side lengths $a$ and $4a$ from the left at an angle of incidence $\alpha = 30^\circ$. Come indicato nello schizzo, all'interno del blocco di vetro, finalmente colpisce esattamente l'angolo inferiore destro.
+Un fascio laser che si muove nel piano del disegno colpisce un blocco di vetro (indice di rifrazione $n = 1{,}5$) con lunghezze dei lati $a$ e $4a$ da sinistra con un angolo di incidenza $\alpha = 30^\circ$. Come indicato nel disegno, all'interno del blocco di vetro esso colpisce esattamente l'angolo in basso a destra.
 
-Qual è la distanza $x$ del punto di entrata dalla superficie di confine superiore del blocco?
+Qual è la distanza $x$ del punto di entrata dalla superficie superiore del blocco?
 
 $$A\quad a\!\left(\sqrt{2}-1\right) \qquad B\quad a\!\left(2-\sqrt{3}\right) \qquad C\quad a\!\left(1-\frac{\sqrt{2}}{2}\right) \qquad D\quad a\!\left(1-\frac{\sqrt{3}}{3}\right)$$
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.31](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
 
@@ -2228,27 +2132,21 @@ D about $690\ \mathrm{nm}$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**interferenza**
+**Interferenza**
 
-In un esperimento, la luce laser monocromatica cade perpendicularmente su una griglia ottica con $300\ \mathrm{Linien\,mm^{-1}}$. Behind the grating, the interference pattern is observed on a screen (screen distance very large compared to the extent of the pattern).
+In un esperimento, una luce laser monocromatica incide perpendicolarmente su una graticola ottica con $300\ \mathrm{Linien\,mm^{-1}}$. Dietro la graticola, si osserva sullo schermo il pattern di interferenza (distanza schermo molto grande rispetto alle dimensioni del pattern).
 
-La lunghezza d'onda del primo laser è $650\ \mathrm{nm}$. Un secondo laser con una lunghezza d'onda sconosciuta produce un diverso pattern di interferenza con un setup altrimenti identico.
+La lunghezza d'onda del primo laser è $650\ \mathrm{nm}$. Un secondo laser con una lunghezza d'onda sconosciuta produce un diverso pattern di interferenza, con una configurazione altrimenti identica.
 
 Qual è la lunghezza d'onda della luce emessa dal secondo laser?
 
-A about $450\ \mathrm{nm}$
+A circa $450\ \mathrm{nm}$
 
-B about $530\ \mathrm{nm}$
+B circa $530\ \mathrm{nm}$
 
-C about $610\ \mathrm{nm}$
+C circa $610\ \mathrm{nm}$
 
-D about $690\ \mathrm{nm}$
-
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Diffraction Grating (object)|Diffraction Grating]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.34](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
+D circa $690\ \mathrm{nm}$
 
 
 
@@ -2283,27 +2181,21 @@ D about $9\ \mathrm{\mu m\,h^{-1}}$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Reflessione a livello di acqua**
+**Riflessione su strato d'acqua**
 
-La superficie di una piastra di vetro liscia e orizzontale è coperta da un sottile e piatto strato d'acqua. Da sopra, la luce monocromatica di lunghezza d'onda $680\ \mathrm{nm}$ cade sulla superficie dell'acqua ad un angolo $\alpha = 30^\circ$ alla superficie normale. L'indice di refraczione della piastra è $1{,}50$ e quello dell'acqua è $1{,}33$.
+La superficie di una lastra di vetro liscia e orizzontale è ricoperta da uno strato sottile e piano d'acqua. Dall'alto, luce monocromatica di lunghezza d'onda $680\ \mathrm{nm}$ incide sulla superficie dell'acqua con un angolo $\alpha = 30^\circ$ rispetto alla normale alla superficie. L'indice di rifrazione della lastra di vetro è $1{,}50$ e quello dell'acqua è $1{,}33$.
 
-A causa dell'evaporazione dell'acqua, l'intensità della luce riflessa cambia periodicamente. A time of $15\ \mathrm{min}$ elapses between the occurrence of two intensity maxima.
+A causa dell'evaporazione dell'acqua, l'intensità della luce riflessa varia periodicamente. Tra due massimi di intensità si verifica un intervallo di tempo $15\ \mathrm{min}$.
 
-At what rate does the thickness $d$ of the water layer decrease?
+A quale velocità diminuisce lo spessore $d$ dello strato d'acqua?
 
-A about $0{,}3\ \mathrm{\mu m\,h^{-1}}$
+A circa $0{,}3\ \mathrm{\mu m\,h^{-1}}$
 
-B about $1\ \mathrm{\mu m\,h^{-1}}$
+B circa $1\ \mathrm{\mu m\,h^{-1}}$
 
-C about $3\ \mathrm{\mu m\,h^{-1}}$
+C circa $3\ \mathrm{\mu m\,h^{-1}}$
 
-D about $9\ \mathrm{\mu m\,h^{-1}}$
-
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.34](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
+D circa $9\ \mathrm{\mu m\,h^{-1}}$
 
 
 
@@ -2434,21 +2326,15 @@ Which of the spectra shown below (A–D), scaled linearly in wavelength, correct
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Spectra**
+**Spettri**
 
-The atoms of a fictitious element occupy states on the energy levels
+Gli atomi di un elemento fittizio occupano stati sui livelli energetici
 
 $$E_n = -\frac{C}{n^2}, \quad n = 1,\, 2,\, \ldots$$
 
-dove $C$ è una costante. Only the lines of the series of transitions to the ground state $n = 1$ lie in the optical range, but these do so completely.
+dove $C$ è una costante. Solo le righe della serie di transizioni allo stato fondamentale $n = 1$ si trovano nell'intervallo ottico, e lo fanno completamente.
 
-Quale dei specteri mostrati di seguito (AD), scalato linearmente in lunghezza d'onda, rappresenta correttamente le linee di emissione dell'elemento descritto?
-
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]], [[Photon Energy Relation (metodo)|Photon Energy Relation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Atom (object)|Atom]]
-**Fonte:** [Testo (PDF) — p.36](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
+Quale degli spettri mostrati qui sotto (A–D), rappresentato con scala lineare della lunghezza d'onda, corrisponde correttamente alle righe di emissione dell'elemento descritto?
 
 
 
@@ -2644,19 +2530,13 @@ $$A\quad P = \frac{32}{5}\,\frac{G^5\,m^5}{c^5\,r^4} \qquad B\quad P = \frac{32}
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Power of gravitational waves**
+**Potenza delle onde gravitazionali**
 
-La teoria generale della relatività predice l'esistenza di onde gravitazionali. For two bodies of equal mass $m$ orbiting each other at a distance $r$, the power $P$ radiated by gravitational waves can be expressed with the help of the gravitational constant $G$ and the speed of light in vacuum $c$.
+La teoria della relatività generale prevede l'esistenza delle onde gravitazionali (onde nel tessuto dello spazio-tempo). Per due corpi di massa uguale $m$ che orbitano l'uno intorno all'altro a una distanza $r$, la potenza $P$ irraggiata da onde gravitazionali può essere espressa con l'aiuto della costante gravitazionale $G$ e della velocità della luce nel vuoto $c$.
 
-Quali delle seguenti espressioni potrebbero rappresentare un'espressione adatta per la potenza $P$?
+Quale delle seguenti espressioni potrebbe rappresentare un'espressione idonea per la potenza $P$?
 
 $$A\quad P = \frac{32}{5}\,\frac{G^5\,m^5}{c^5\,r^4} \qquad B\quad P = \frac{32}{5}\,\frac{G^5\,m^5}{c^4\,r^5} \qquad C\quad P = \frac{32}{5}\,\frac{G^5\,m^4}{c^5\,r^5} \qquad D\quad P = \frac{32}{5}\,\frac{G^4\,m^5}{c^5\,r^5}$$
-
-**Topic:** [[Order-of-Magnitude Estimation]], [[Gravitation]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.38](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
 
 
 
@@ -2742,16 +2622,10 @@ $$A\quad F = \frac{\pi^2\,\hbar\,c}{240\,d^3}\,A \qquad B\quad F = \frac{\pi^2\,
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Two platte in vacuum**
+**Due piastre nel vuoto**
 
-Due conducenti, plates parallele di area $A$ sono posizionate a distanza $d$ separate in vuoto. A causa dell'effetto quantomeccanico di Casimir, una forza agisce tra le piastre che dipende dalla velocità di luce $c$ in vuoto e sulla costante di Planck ridotta $\hbar = \tfrac{h}{2\pi}$.
+Due lastre conduttrici parallele di area $A$ sono poste a una distanza $d$ l'una dall'altra nel vuoto. A causa dell’effetto Casimir, di natura quantistica, tra le lastre agisce una forza che dipende dalla velocità della luce $c$ nel vuoto e dalla costante di Planck ridotta $\hbar = \tfrac{h}{2\pi}$.
 
-Which of the following could be a suitable expression for the force $F$ with which the plates are pushed together?
+Quale delle seguenti espressioni potrebbe essere corretta per la forza $F$ con cui le lastre sono spinte l’una verso l’altra?
 
 $$A\quad F = \frac{\pi^2\,\hbar\,c}{240\,d^3}\,A \qquad B\quad F = \frac{\pi^2\,\hbar\,c}{240\,d^3}\,A^2 \qquad C\quad F = \frac{\pi^2\,\hbar\,c}{240\,d^4}\,A \qquad D\quad F = \frac{\pi^2\,\hbar\,c}{240\,d^4}\,A^2$$
-
-**Topic:** [[Modern-Quantum Physics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.39](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)

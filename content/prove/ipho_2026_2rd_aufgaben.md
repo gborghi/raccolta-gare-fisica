@@ -153,45 +153,34 @@ Code: Code
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 2 della macchina Atwood (problema MC)
-(5,0 p. d.)
-Il professor Atwood è appena tornato da una conferenza, e lui è già
-Tinkering with his next experiment: Egli mette una corda su un pallone
-and attaches to each end of the string a body of mass $m$.
-Supponiamo che la corda e la polla siano senza massa e che la polla
-può girare liberamente intorno al suo asse centrale. Lui ora tiene l'asse del pallone
-fixed and measures the force $F$ with which he must pull it upward in order to
-Tenete il pallone con i corpi in posto.
-Now he hangs, as shown in the figure, an additional body of mass $4m$
-sul pezzo di massa a destra. Ancora una volta, ha il suo asse
-- Non è stato fatto.
-What is the magnitude of the force $F'$ with which, in the situation shown, he must
-Tirare sull'asse per tenerlo in posto?
-A
-$\frac{5}{3} F$
-B
-$2F$
-C
-$\frac{5}{2} F$
-D
-$3F$
-String
-Pulley
+Problema 2 Macchina di Atwood (problema a scelta multipla)
+(5,0 punti)
+
+Il professor Atwood è appena tornato da una conferenza e già si sta dedicando al suo prossimo esperimento: pone una corda sopra una carrucola e attacca a ciascun capo della corda un corpo di massa $m$.
+
+Si assuma che la corda e la carrucola siano prive di massa e che la carrucola possa ruotare liberamente attorno al suo asse centrale. Egli fissa ora l’asse della carrucola e misura la forza $F$ con cui deve tirare verso l’alto per mantenere fissa la carrucola insieme ai corpi.
+
+Ora appende, come mostrato in figura, un ulteriore corpo di massa $4m$ al pezzo di massa sulla destra. Di nuovo fissa l’asse della carrucola.
+
+Qual è il modulo della forza $F'$ con cui, nella situazione mostrata, deve tirare sull’asse per mantenerlo fermo?
+
+A $\frac{5}{3} F$
+B $2F$
+C $\frac{5}{2} F$
+D $3F$
+
+Stringa
+Carrucola
 $F'$
 $m$
 $m$
 $4m$
-Answer section
-Calcoli e spiegazioni
-Corretta risposta:
-56. IPhO 2026 - 2° round
-Codice: Codice
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1SImVXkVhhxfo_3vHw7ZPGRrNXXF0iC2s/view)
+Sezione risposta
+Calcoli e spiegazioni
+Risposta corretta:
+56. IPhO 2026 - Prova del secondo turno
+Codice: Codice
 
 
 
@@ -524,31 +513,25 @@ that it is easy to follow but not unnecessarily long. So if, for example, you us
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 7 decadimento del caon (problema MC)
-(cfr.
-Un kaon che si muove a una velocità di 0,80 c, cioè l'80% della velocità della luce, nel laboratorio decade in due pioni, che successivamente si muovono lungo e opposto alla direzione originale di movimento del kaon, rispettivamente. Non ci sono ulteriori particelle prodotte dal decadimento. Per il
-rest energies $E_{0,K}$ and $E_{0,\pi}$ of the kaon and the pion, respectively, the relation holds
+Problema 7 Decadimento del kaone (problema a scelta multipla)
+(5 punti)
+
+Un kaone in movimento con una velocità di 0,80 c, ossia l'80 % della velocità della luce, nel sistema di laboratorio decade in due pioni, che successivamente si muovono rispettivamente lungo e in senso opposto alla direzione originale del moto del kaone. Nessun altro particella viene prodotta nel decadimento. Per le energie a riposo $E_{0,K}$ e $E_{0,\pi}$ del kaone e del pione, rispettivamente, vale la relazione
 $$\kappa = \frac{E_{0,K}}{E_{0,\pi}} = 3{,}68 .$$
-Con che velocità i due pioni si muovono dopo il decadimento nel laboratorio?
+
+Con quale velocità si muovono i due pioni dopo il decadimento nel sistema di laboratorio?
 A $-0{,}039$ c e 0,99 c
 B $-0{,}12$ c e 0,98 c
-C $-0{,}19$ c and 0,92 c
+C $-0{,}19$ c e 0,92 c
 D $-0{,}21$ c e 0,89 c
-Answer section
-Calcoli e spiegazioni
-Corretta risposta:
-56. IPhO 2026 - 2° round
-Codice: Codice
-Problemi di risposta lunga
-La Commissione ha inoltre presentato una serie di proposte di risoluzione sulle misure di sicurezza e di sicurezza. A differenza dei
-problemi di scelta multipla, non sono state indicate le opzioni di risposta. Descrivere il tuo percorso di soluzione in questo modo
-che è facile da seguire ma non troppo lungo. Quindi se, per esempio, si usa la legge della conservazione dell'energia, scrivete brevemente.
 
-**Topic:** [[Special Relativity]], [[Nuclear & Particle Physics]]
-**Metodi:** [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1SImVXkVhhxfo_3vHw7ZPGRrNXXF0iC2s/view)
+Sezione delle risposte
+Calcoli ed spiegazioni
+Risposta corretta:
+56. IPhO 2026 - Secondo turno della prova scritta
+Codice: Codice
+Problemi a risposta lunga
+Lavora sui due problemi seguenti anche negli spazi appositi. A differenza dei problemi a scelta multipla, non sono fornite opzioni di risposta. Descrivi il tuo percorso risolutivo in modo chiaro ma non eccessivamente lungo. Quindi, se ad esempio utilizzi la conservazione dell'energia, scrivilo brevemente.
 
 
 
@@ -602,46 +585,34 @@ Code: Code
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 8 Pennale lead
-(P. 17,0 p.
-Un matita lead slides, in un campo magnetico verticale omogeneo di densità di flusso magnetico
-$B$, frictionlessly down two parallel, idealmente
-con un'angolazione di $\alpha = 30^\circ$ verso l'orizzontale. Il spaziamento dei binari è $L = 10\ \text{cm}$ e l'overhang
-di Lead Beyond the Metal Rails può essere trascurato. Per il meglio
-voltage source of voltage $U_0 = 10\ \text{mV}$ with a switch is connected to the rails. Il lead, i rails,
-Smutare, e la fonte di tensione insieme formare un circuito. La struttura è schizzata in Figura 5.
-Fig. 5. Sketch of the sliding pencil lead
-Quando il cambio è chiuso, il lead della matita resta a riposo. Quando il switch è aperto, il
-Lead continua a slide. Use for the resistivity of the lead the value $\rho_{el} = 5{,}0 \cdot 10^{-6}\ \Omega\,\text{m}$ and for the density $\rho = 2{,}3 \cdot 10^3\ \text{kg m}^{-3}$.
-8. (a) Indicare se la prima o la seconda linea della figura è collegata al polo positivo della fonte di tensione DC e giustificare questo fisicamente. (punto 2.0)
-8.b) Determina la magnitude $B$ della densità del flusso magnetico e verifica la correttezza del flusso magnetico.
-unità del tuo risultato con un assegno unitario. (8,0 pts.)
-8.c) Determina la velocità di stato staady $v_H$ con cui il matitale conduce
-Slide down the incline quando la densità di flusso del campo magnetico è dimezzata. Conduire un controllo unitario per
-il risultato. (7,0 p.s.)
-56. IPhO 2026 - 2° round
+Problema 8 Penna di grafite (17,0 punti)
+Una punta di grafite scivola, in un campo magnetico omogeneo verticale di densità del flusso magnetico $B$, senza attrito lungo due binari metallici paralleli, ideali conduttori, inclinati di un angolo $\alpha = 30^\circ$ rispetto all’orizzontale. La distanza tra i binari è $L = 10\ \text{cm}$ e il tratto di punta che sporge oltre i binari può essere trascurato. Un generatore ideale di tensione con tensione $U_0 = 10\ \text{mV}$, dotato di interruttore, è collegato ai binari. La punta, i binari, l’interruttore e il generatore formano un circuito. L’impianto è rappresentato nella Figura 5.
+
+Fig. 5. Rappresentazione schematica della punta di grafite che scivola
+
+Quando l’interruttore è chiuso, la punta di grafite rimane ferma. Quando l’interruttore è aperto, la punta continua a scivolare. Utilizzare per la resistività della punta il valore $\rho_{el} = 5{,}0 \cdot 10^{-6}\ \Omega\,\text{m}$ e per la densità $\rho = 2{,}3 \cdot 10^3\ \text{kg m}^{-3}$.
+
+8.a) Indicare se il binario anteriore o posteriore nella figura è collegato al polo positivo della sorgente di tensione continua e giustificare fisicamente questa scelta. (2,0 punti)
+8.b) Determinare il modulo $B$ della densità del flusso magnetico e verificare la correttezza delle unità di misura del risultato mediante un controllo dimensionale. (8,0 punti)
+8.c) Determinare la velocità di regime $v_H$ con cui la punta di grafite scivola lungo il piano inclinato quando la densità del flusso magnetico viene dimezzata. Effettuare un controllo dimensionale del risultato. (7,0 punti)
+
+56. IPhO 2026 - Esame secondo turno
 Codice: Codice
-Answer section
+Sezione delle risposte
 8.a)
 Calcoli e spiegazioni
-56. IPhO 2026 - 2° round
+56. IPhO 2026 - Esame secondo turno
 Codice: Codice
 8.b)
 Calcoli e spiegazioni
-Espressione e valore per la densità del flusso magnetico con controllo unitario:
-56. IPhO 2026 - 2° round
+Espressione e valore per la densità del flusso magnetico con controllo delle unità di misura:
+56. IPhO 2026 - Prova del secondo turno
 Codice: Codice
 8.c)
 Calcoli e spiegazioni
-Espressione e valore per la velocità di stato stabile con controllo unitario:
-56. IPhO 2026 - 2° round
+Espressione e valore per la velocità a regime con controllo delle unità di misura:
+56. IPhO 2026 - Prova del secondo turno
 Codice: Codice
-
-**Topic:** [[Electromagnetic Induction]], [[Newtonian Mechanics]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]], [[Wire (object)|Wire]], [[Battery (object)|Battery]], [[Switch (object)|Switch]]
-**Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1SImVXkVhhxfo_3vHw7ZPGRrNXXF0iC2s/view)
 
 
 
@@ -734,82 +705,60 @@ Graph paper
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problematica 9 Swing-by manovra e anomalia di pioniere
-(8,0 pts.)
-La sonda spaziale Pioneer 10 è stata lanciata nel 1972 per esplorare il sistema solare esterno e
-che sarebbe stata una delle prime navi spaziali a lasciare il sistema solare per sempre. Ora è situato
-Circa 140 unità astronomiche dal Sole.
-Dopo il lancio, Pioneer 10 lasciò il campo gravitazionale della Terra con una velocità di $v_0 = 9{,}4\ \text{km s}^{-1}$ relativa alla Terra e tangenziale alla sua orbita. Da lì il test volava
-verso Giove per eseguire una manovra di swing-by che ha
-permettendole di lasciare il sistema solare.
-In seguito, consideriamo tutti i processi all'interno dell'ecliptica e supponiamo che i pianeti orbitino intorno all'Ecliptica.
-Il Sole in orbita circolare nello stesso senso di rotazione. Inoltre, i seguenti valori possono essere
-Usato per il lavoro:
-Radius of the Earth's orbit (unit astronomical)
+Problema 9 Manovra di swing-by e anomalia Pioneer (18,0 punti)
+La sonda spaziale Pioneer 10 è stata lanciata nel 1972 per esplorare la fascia esterna del sistema solare ed era destinata a diventare uno dei primi veicoli spaziali a lasciare definitivamente il sistema solare. Al giorno d'oggi si trova a circa 140 unità astronomiche dal Sole.
+Dopo il lancio, Pioneer 10 ha abbandonato il campo gravitazionale della Terra con una velocità $v_0 = 9{,}4\ \text{km s}^{-1}$ rispetto alla Terra e tangenziale all'orbita terrestre. Da lì la sonda ha volato verso Giove al fine di effettuare una manovra di swing-by che avrebbe dovuto consentirle di lasciare il sistema solare.
+Nel seguito si considerino tutti i processi nel piano dell'eclittica e si assuma che i pianeti orbitino intorno al Sole su orbite circolari nello stesso senso di rotazione. Inoltre, per i calcoli si possono utilizzare i seguenti valori:
+Raggio dell'orbita terrestre (unità astronomica)
 $1\ \text{AE} = 149{,}6 \cdot 10^6\ \text{km}$
-Radius di orbita di Giove
+Raggio dell'orbita di Giove
 $r_J = 5{,}2\ \text{AE}$
-Mass of the Sun
+Massa del Sole
 $M_S = 1{,}99 \cdot 10^{30}\ \text{kg}$
-Costante solare (potenza della radiazione solare in orbita terrestre)
+Costante solare (potenza della radiazione solare all'orbita terrestre)
 $E_0 = 1367\ \text{W m}^{-2}$
-9.a) Determine the orbital speed $v_2$ with which the probe arrived at the orbit of the planet
-Giove. Supponiamo che solo la forza gravitazionale del
-Sun è in grado di intervenire. Determine i componenti di velocità $v_{2,\phi}$ tangentiali e $v_{2,r}$ perpendicolare a
-L'orbita di Giove. (6,0 p.p.)
-Con l'aiuto di una manovra di volo attraverso il campo gravitazionale di Giove, la sonda spaziale è stata in grado di aumentare la sua velocità
-rispetto al sole in modo considerevole. Supponiamo che questo swing-by manovra cosa
-La sonda può lasciare il sistema solare con la massima velocità possibile. Potresti anche supporre che il tempo durante il quale Pioneer 10 interagisce
-gravitationally with Jupiter is small compared with the orbital period e che durante la manovra il
-La forza gravitazionale tra la sonda e Giove è dominante.
-9.b) Determina la velocità radial $v_r(r)$ e in particolare la velocità limitante $v_r(\infty)$
-di questa sonda dopo la manovra di swing-by a funzione della distanza $r$ al Sole. (6,0 p.p.)
-Dopo la sonda nel 1980, a 20 AE, si era spostata abbastanza lontano dal Sole per
-essere in grado di prevedere l'influenza di varie forze con sufficiente precisione, in modo inspiegabile,
-Un piccolo componente che è stato scoperto nella sua accelerazione. Questa cosiddetta anomalia pionieristica ha
-Le sue origini sono state evidenti e hanno dato luogo a numerose speculazioni su possibili modifiche delle leggi della natura.
-La forza più forte sulla sonda, il cui peso può essere presunto essere di 241 kg, è, dopo
-gravità, causata dalla pressione delle radiazioni da parte della radiazione solare. L'antenna parabolica,
-che ha un diametro di $d = 2{,}77\ \text{m}$ e a più grandi distanze punti circa verso il
-Il sole, assorbe il 20% della luce solare e riflette il resto verso il sole.
-9.c) Determina approssimativamente quali sono i risultati dell'accelerazione derivanti dalla pressione di radiazione del Sole
-on the probe at a distance $r \gg 1\ \text{AE}$ from the Sun. Stat how large the contribution
-In particolare, il tasso di crescita è stato aumentato nel 1990 per $r = 50\ \text{AE}$ e comparato con l'accelerazione dovuta a
-gravità nel campo gravitazionale del Sole. (6,0 p.p.)
-56. IPhO 2026 - 2° round
+
+9.a) Determinare la velocità orbitale $v_2$ con cui la sonda è giunta all'orbita del pianeta Giove. Si assuma che sulla sonda agisca soltanto la forza gravitazionale del Sole. Determinare i componenti della velocità $v_{2,\phi}$ tangenziale e $v_{2,r}$ perpendicolare all'orbita di Giove. (6,0 punti)
+Con l'aiuto di un manovra di volo attraverso il campo gravitazionale di Giove, la sonda spaziale è riuscita ad aumentare notevolmente la sua velocità rispetto al Sole. Si assuma che questa manovra di slingshot sia stata eseguita in modo tale da consentire alla sonda di uscire dal sistema solare con la massima velocità possibile. Si può inoltre assumere che il tempo durante il quale Pioneer 10 interagisce gravitazionalmente con Giove sia trascurabile rispetto al periodo orbitale e che durante la manovra la forza gravitazionale tra sonda e Giove sia dominante.
+
+9.b) Determinare la velocità radiale $v_r(r)$ e in particolare la velocità limite $v_r(\infty)$ della sonda dopo la manovra di slingshot in funzione della distanza $r$ dal Sole. (6,0 punti)
+
+Dopo che la sonda, nel 1980, si trovava a 20 UA, si era allontanata abbastanza dal Sole da poter prevedere con sufficiente precisione l'influenza di varie forze, fu scoperta un'inspiegabile componente molto piccola nella sua accelerazione. Questo fenomeno, noto come anomalia Pioneer, ha generato numerose speculazioni su possibili modifiche delle leggi della natura.
+
+La forza più intensa sulla sonda, la cui massa può essere assunta pari a 241 kg, dopo quella gravitazionale è dovuta alla pressione della radiazione solare. L'antenna parabolica, che ha un diametro di $d = 2{,}77\ \text{m}$ e a grandi distanze punta approssimativamente verso il Sole, assorbe il 20 % della luce solare e riflette il resto verso il Sole.
+9.c) Determinare approssimativamente quale accelerazione si ottiene dalla pressione della radiazione solare sulla sonda a una distanza $r \gg 1\ \text{AE}$ dal Sole. Indicare quanto era grande tale contributo nel 1990 per $r = 50\ \text{AE}$ e confrontarlo con l'accelerazione dovuta alla gravità nel campo gravitazionale solare. (6,0 punti)
+
+56. IPhO 2026 - Prova del secondo turno
 Codice: Codice
-L'accelerazione osservata, inesplicata, era indeed of a similar order of magnitude, but pointed
-verso il sole. Pertanto, altri effetti come il vento solare, l'influenza di altri
-celestial bodies, the recoil from the radio module, and above all non isotropic thermal
-Le emissioni sono state anche investigate, che alla fine, a parte le deviazioni all'interno delle incertezze, sono state in grado di fornire un'efficacia di
-spiegazione dell'anomalia del pioniere.
-Answer section
+
+L'accelerazione osservata, non spiegata, era effettivamente dell'ordine di grandezza corrispondente, ma puntava verso il Sole. Sono state quindi esaminate ulteriori cause come il vento solare, l'influenza di altri corpi celesti, il rinculo dovuto al modulo radio e soprattutto l'emissione termica non isotropa, che alla fine, esclusi gli scostamenti entro le incertezze, sono riuscite a spiegare l'anomalia Pioneer.
+
+Sezione delle risposte
 9.a)
 Calcoli e spiegazioni
-Result for the orbital speed and its components:
-56. IPhO 2026 - 2° round
+Risultato per la velocità orbitale e le sue componenti:
+56. IPhO 2026 - Prova del secondo turno
 Codice: Codice
+
 9.b)
 Calcoli e spiegazioni
-Espressione per la velocità radial e risultato per la velocità limitante:
-56. IPhO 2026 - 2° round
+Espressione per la velocità radiale e risultato per la velocità limite:
+56. IPhO 2026 - Prova del secondo turno
 Codice: Codice
+
 9.c)
 Calcoli e spiegazioni
-Risultato per l'accelerazione dovuta alla pressione di radiazione e confronto con l'accelerazione gravitazionale:
-56. IPhO 2026 - 2° round
+Risultato per l'accelerazione dovuta alla pressione della radiazione e confronto con l'accelerazione gravitazionale:
+56. IPhO 2026 - Prova del secondo turno
 Codice: Codice
-Ulteriori fogli di lavoro
-56. IPhO 2026 - 2° round
-Codice: Codice
-Ulteriori fogli di lavoro
-56. IPhO 2026 - 2° round
-Codice: Codice
-Ulteriori fogli di lavoro
-Carta grafica
 
-**Topic:** [[Gravitation]], [[Astrophysics]]
-**Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Kepler's Laws (metodo)|Kepler's Laws]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/1SImVXkVhhxfo_3vHw7ZPGRrNXXF0iC2s/view)
+Foglio aggiuntivo
+56. IPhO 2026 - Prova del secondo turno
+Codice: Codice
+
+Foglio aggiuntivo
+56. IPhO 2026 - Prova del secondo turno
+Codice: Codice
+
+Foglio aggiuntivo
+Carta millimetrata

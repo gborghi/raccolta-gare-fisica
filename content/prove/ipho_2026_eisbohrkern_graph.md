@@ -67,23 +67,23 @@ Examination of the samples allows conclusions to be drawn about climate changes.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problem 1 (10 points) — Ice-cold research**
+**Problema 1 (10 punti) — Ricerca freddissima**
 
-I campioni delle profondità dei ghiacci dell'Artico e dell'Antartide possono fornire informazioni sul clima di tempi lunghi passati. Durante i perforazioni nel progetto NEEM (North Greenland Eemian Ice Drilling), campioni di ghiaccio-core dal calotto centrale sono stati ottenuti in Groenlandia da profondità di oltre 2500 m. I livelli più alti della calotta glaciale del Groenlandia sono composti da cosiddetti firn snow, compressi in ghiaccio con una profondità crescente. Il grafico mostrato sotto mostra la densità nella parte superiore del ghiaccio della Groenlandia come funzione della profondità sotto la superficie.
+I campioni prelevati dalle profondità dei ghiacciai artici e antartici possono offrire informazioni sul clima di epoche lontane. Durante le perforazioni del progetto NEEM (North Greenland Eemian Ice Drilling), campioni di carote di ghiaccio sono stati estratti dal centro del ghiacciaio groenlandese a profondità superiori ai 2500 m. Le parti più superficiali del ghiacciaio groenlandese sono costituite da neve compatta detta "firn", che si trasforma in ghiaccio con l'aumentare della profondità. Il grafico riportato sotto mostra la densità nella parte più superficiale del ghiacciaio groenlandese in funzione della profondità sotto la superficie.
 
-Considerate un campione del nucleo di ghiaccio che ha circa la forma di un cilindro con diametro $d = 9{,}8\,\text{cm}$ e altezza $h = 2{,}0\,\text{cm}$. La massa del campione è $m_\text{Eis} = 119{,}5\,\text{g}$.
+Si consideri un campione proveniente dalla carota di ghiaccio, avente approssimativamente forma cilindrica con diametro $d = 9{,}8\,\text{cm}$ e altezza $h = 2{,}0\,\text{cm}$. La massa del campione è $m_\text{Eis} = 119{,}5\,\text{g}$.
 
-**1.a) ** Calcolare la densità approssimativa del campione e determinare da quale profondità del ghiaccio esso si origina.
+**1.a)** Calcolare la densità approssimata del campione e determinare da quale profondità del ghiacciaio proviene.
 
 In realtà, il campione non è perfettamente cilindrico, il che introduce errori nella determinazione della densità. Un metodo alternativo per determinare la densità evita questo problema.
 
-Per questo, un bicchiere è riempito di acqua e posto su un equilibrio. Il campione viene poi inserito nel beaker in modo che galleggi in acqua. Finalmente, il campione è spinto sotto l'acqua con un oggetto puntato. Le masse indicate dal equilibrio in queste tre situazioni sono $m_1 = 726{,}3\,\text{g}$ (beaker with water), $m_2 = 845{,}8\,\text{g}$ (with the sample added), e $m_3 = 873{,}0\,\text{g}$ (with the sample pushed down).
+A tale scopo, si riempie un becher con acqua e lo si pone su una bilancia. Il campione viene quindi posto nel becher in modo da galleggiare nell'acqua. Infine, il campione viene spinto sott’acqua mediante un oggetto punteggiato. Le masse indicate dalla bilancia in queste tre situazioni sono rispettivamente $m_1 = 726{,}3\,\text{g}$ (becher con acqua), $m_2 = 845{,}8\,\text{g}$ (con il campione aggiunto) e $m_3 = 873{,}0\,\text{g}$ (con il campione spinto sotto).
 
-**1.b) ** Usando questo, determinare un valore più accurato per la densità del campione e la profondità del campionamento. Non fare alcuna ipotesi sulla forma del campione e utilizzare il valore $\rho_\text{Wasser} = 1000\,\text{kg}\,\text{m}^{-3}$ per la densità di acqua.
+**1.b)** Utilizzando questo, determina un valore più accurato per la densità del campione e per la profondità di prelievo. Non fare alcuna ipotesi sulla forma del campione, e utilizza il valore $\rho_\text{Wasser} = 1000\,\text{kg}\,\text{m}^{-3}$ per la densità dell'acqua.
 
-Esaminando le impurità chimiche e i rapporti isotopici, si può determinare lo spessore dei livelli di ghiaccio depositati annualmente nel nucleo glaciale. Sotto pressione, il ghiaccio mostra proprietà di un fluido. Quindi il ghiaccio della copertura glaciale della Groenlandia non solo si comprime ma si muove dalla piattaforma glaciale verso le coste. Ciò provoca che gli strati di ghiaccio depositati annualmente diventino più sottili con una profondità crescente. La tabella seguente dà lo spessore dei livelli di ghiaccio in metri per anno per il nucleo NEEM:
+Esaminando le impurità chimiche e i rapporti isotopici, è possibile determinare lo spessore degli strati annuali di ghiaccio depositati nel nucleo di ghiaccio. Sottoposto a pressione, il ghiaccio presenta proprietà di un fluido. Pertanto, il ghiaccio della copertura glaciale groenlandese non è soltanto compresso, ma si muove anche dall'imbocco del ghiacciaio verso le coste. Ciò fa sì che gli strati annuali di ghiaccio diventino sempre più sottili con l'aumentare della profondità. La seguente tabella fornisce lo spessore degli strati di ghiaccio in metri all'anno per il nucleo NEEM:
 
-| Depth $z$ in m | Thickness per year $\lambda$ in m a$^{-1}$ |
+| Profondità $z$ in m | Spessore all'anno $\lambda$ in m a$^{-1}$ |
 |---|---|
 | 0 | 0.25 |
 | 500 | 0.20 |
@@ -93,21 +93,15 @@ Esaminando le impurità chimiche e i rapporti isotopici, si può determinare lo 
 | 1500 | 0.018 |
 | 1600 | 0.010 |
 
-**1.c)** Using the data from the table, construct a graph that approximately shows the age $t$ of an ice sample as a function of the depth $z$ of the sampling.
+**1.c)** Utilizzando i dati della tabella, costruisci un grafico che mostri in modo approssimato l'età $t$ di un campione di ghiaccio in funzione della profondità $z$ del prelievo.
 
-**1.d) ** Using this, determine the age $t_1$ and $t_2$ of two ice-core samples taken at depths of $z_1 = 300\,\text{m}$ and $z_2 = 1600\,\text{m}$.
+**1.d)** Utilizzando questo, determina l'età $t_1$ e $t_2$ di due campioni di nucleo di ghiaccio prelevati alle profondità $z_1 = 300\,\text{m}$ e $z_2 = 1600\,\text{m}$.
 
-L'esame dei campioni consente di trarre conclusioni sui cambiamenti climatici. Un indicatore importante per questo è la quantità $\delta^{18}\text{O}$, che confronta il rapporto degli isotopi di ossigeno stabile $^{18}\text{O}$ a $^{16}\text{O}$ nel ghiaccio con un valore di riferimento. Studi sul livello di ghiaccio della Groenlandia mostrano che c'è una relazione lineare approssimativa tra questa quantità e la temperatura sopra il livello di ghiaccio. Per i due campioni esaminati, i valori $\delta^{18}\text{O}$ sono $\delta_1 = -34{,}5\,\text{‰}$ e $\delta_2 = -43{,}2\,\text{‰}$.
+L'esame dei campioni consente di trarre conclusioni sui cambiamenti climatici. Un importante indicatore per questo è la quantità $\delta^{18}\text{O}$, che confronta il rapporto tra gli isotopi stabili dell'ossigeno $^{18}\text{O}$ e $^{16}\text{O}$ nel ghiaccio con un valore di riferimento. Studi dell'accumulo glaciale in Groenlandia mostrano che esiste una relazione approssimativamente lineare tra questa quantità e la temperatura sopra lo strato di ghiaccio. Per i due campioni esaminati, i valori $\delta^{18}\text{O}$ sono $\delta_1 = -34{,}5\,\text{‰}$ e $\delta_2 = -43{,}2\,\text{‰}$.
 
-**1.e)** Determine approximately the temperatures $T_1$ and $T_2$ that prevailed above the ice layer at the time the two ice samples formed, and calculate the difference between the temperatures.
+**1.e)** Determinare in modo approssimato le temperature $T_1$ e $T_2$ che si sono verificate sopra lo strato di ghiaccio al momento della formazione dei due campioni di ghiaccio, e calcolare la differenza tra le temperature.
 
 <!--fig:start-->
 ![[_attachments/IPhO_2026_eisbohrkern_graph/IPhO_2026_eisbohrkern_graph_p1_f1.png]]
 *Density vs. depth in the NEEM ice core*
 <!--fig:end-->
-
-**Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Modern-Quantum Physics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/15J75OX3rUvJlwIePv0MmwUzVW-i6DsqE/view)

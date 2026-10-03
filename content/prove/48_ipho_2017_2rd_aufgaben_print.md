@@ -119,102 +119,54 @@ helium, i.e.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 1 Noni bianchi
-(cfr. punto 6+9+7+8)
-1.1 La scoperta di Sirius B
-La stella Sirius A, situata a circa 8,6 anni luce dalla Terra,
-ha, con una massa di circa $4{,}2\cdot10^{30}\ \text{kg}$, una luminosità di circa 25 volte
-Grande come il Sole. La stella emette quindi circa 25 volte la potenza radiante del Sole, la cui potenza radiante è $3{,}8\cdot10^{26}\ \text{W}$. A causa della sua relativamente piccola
-distance from the solar system, Sirius A, with an apparent magnitude1 of $-1,46$ mag, is the brightest star in the night sky
-E quindi è stato oggetto di ricerche astronomiche per molto tempo. Intorno al mezzo del 19 ° secolo, un compagno
-di questa stella che inferito da
-- Non è vero.
-Nei decenni successivi è stato confermato che Sirius
-è un sistema stellare binario. La seconda stella, Sirius B, ha circa
-la massa di Sirius A e una temperatura di superficie di circa $2{,}5\cdot10^{4}\ \text{K}$. Questo ha causato un grande tumulto, dal
-la stella, con una magnitudo apparente di 8,44 mag, splende molto di più
-"Svelto di quanto si aspettasse".
-basandosi su questi dati. Sirius B doveva quindi essere molto piccolo e molto denso.
-Figura 1: Sirius A e Sirius B
-Foto del telescopio spaziale Hubble (NASA, ESA, H. Bond
-(STScI), e M. Barstow (U. of
-Leicester, lic. CC BY 3.0).
-L'astronomo inglese Arthur Stanley Eddington ha riassunto questo come segue:
-Impareremo sulle stelle ricevendone e interpretando i messaggi che la loro luce porta
-to us. Il messaggio del compagno di Sirius quando è stato decodificato ran:
-materiale 3.000 volte più denso di qualsiasi cosa tu abbia mai incontrato; un tonnellata di mio materiale
-sarebbe un piccolo nugget che potresti mettere in una scatola di match. What reply can one make
-- Un messaggio simile? La risposta che la maggior parte di noi ha fatto nel 1914 è stata "Shut up". Non parlare
-- Non è una cosa.
-(Eddington, A.S. (1927). Star and Atoms. La Commissione ha adottato una decisione che prevede che il regime di pesca sia stato applicato.
-1.a) Usando le informazioni fornite nel testo, stimare la luminosità della stella compagnia Sirius B
-e il suo raggio. Si noti che, a causa del più alto
-La temperatura di superficie, lo spettro di Sirius B è spostato rispetto a quello di Sirius A e, come conseguenza, la luminosità determinata dal
-La magnitudo apparente è troppo bassa per circa un fattore di 10. - 4 punti
-1.b) Con questo calcolo, calcola approssimativamente quanto pesa un centimetro cubo di materia di Sirio B in media e
-quanto grande è l'accelerazione gravitazionale alla sua superficie circa. - 2 punti
-I risultati dei problemi sopra indicano che Sirius B deve essere una stella molto speciale.
-In effetti, appartiene a una classe di stelle chiamate nane bianche. Bianco
-Le stelle sono molto compatte, in cui i processi di fusione hanno già
-- Non lo so. Ma cosa impedisce a queste stelle di collassare ulteriormente su se stesse? Questa domanda
-le seguenti problematiche.
-1La magnitudo apparente m di un oggetto è una misura di quanto brillante appare ad un osservatore sulla Terra. It
-è definito attraverso la potenza radiante $S$ che arriva sulla Terra per unità di area dall'oggetto all'interno di un certo intervallo di lunghezza d'onda. Per la magnitudo apparente uno ha $m = -2{,}5\,\log_{10}\dfrac{S}{S_0}$, dove $S_0$ è un valore di riferimento fisso per la
-potenza radiante nella gamma di lunghezza d'onda considerata. La magnitudine apparente è data come un numero e
-porta il suffisso mag per "magnitude".
+Problema 1 Nane Bianche (6+9+7+8 punti)
+1.1 La scoperta di Sirio B
+La stella Sirio A, situata a circa 8,6 anni luce dalla Terra, ha una massa di circa $4{,}2\cdot10^{30}\ \text{kg}$ e una luminosità circa 25 volte maggiore rispetto a quella del Sole. La stella emette quindi un potenza irradiata circa 25 volte maggiore rispetto a quello del Sole, il cui potenza irradiata è $3{,}8\cdot10^{26}\ \text{W}$. A causa della sua relativamente piccola distanza dal sistema solare, Sirio A, con una magnitudine apparente1 di $-1,46$ mag, è la stella più luminosa nel cielo notturno ed è quindi da tempo oggetto di indagini astronomiche. Intorno alla metà del XIX secolo, si dedusse l'esistenza di una compagna per questa stella a partire da irregolarità nel moto di Sirio.
+Nei decenni successivi si confermò che Sirio è un sistema stellare binario. La seconda stella, Sirio B, ha una massa di circa la metà rispetto a quella di Sirio A e una temperatura superficiale approssimativamente pari a $2{,}5\cdot10^{4}\ \text{K}$. Ciò provocò grande scalpore, poiché la stella, con una magnitudine apparente di 8,44 mag, risplende molto meno intensamente di quanto ci si aspetterebbe in base a questi dati. Sirio B doveva quindi essere estremamente piccola e molto densa.
+Figura 1: Sirio A e Sirio B fotografate dal telescopio spaziale Hubble (NASA, ESA, H. Bond (STScI), e M. Barstow (Università di Leicester), licenza CC BY 3.0).
+L'astronomo inglese Arthur Stanley Eddington riassunse questo fatto nel seguente modo:
+Impariamo a conoscere le stelle ricevendo e interpretando i messaggi che la loro luce ci porta. Quando il messaggio dell'Orsa Minore fu decodificato, diceva: «Sono composto da materiale 3.000 volte più denso di qualsiasi cosa tu abbia mai incontrato; un tonnellato del mio materiale sarebbe una piccola pepita che potresti mettere in una scatola di fiammiferi». Qual è la risposta che si può dare a un messaggio del genere? La risposta data dalla maggior parte di noi nel 1914 fu: «Taci. Non parlare sciocchezze». (Eddington, A.S. (1927). Stars and Atoms. Clarendon Press, p.50.)
 
-1.2 Considerare lo spazio di fase e degenerare il gas Fermi
-In meccanica classica, lo stato di una particella di punto è descritto dalla sua posizione $\vec{r}$ e dal suo
-velocità $\vec{v}$. Alternatively, instead of the velocity, the momentum $\vec{p}$ of the particle can also be used. La posizione e il momento della particella possono essere considerati come coordinate nel cosiddetto
-- Stazione spaziale. Ogni possibile stato della particella corrisponde a una posizione nello spazio di fase. Poiché ci sono tre dimensioni ciascuna per posizione e impulso, lo spazio di fase in
-Questo caso ha sei dimensioni.
-The Heisenberg uncertainty relation of quantum mechanics now afferma che la posizione e il momento di un
-la particella non può essere determinata simultaneamente con precisione arbitraria. Per le incertezze $\Delta r_x$ e $\Delta p_x$ in
-an arbitrary spatial direction $x$, Heisenberg's formulation gives
+1.a) Utilizzando le informazioni fornite nel testo, stimare la luminosità della stella compagna di Sirio B e il suo raggio. Si noti che, a causa della temperatura superficiale più elevata, lo spettro di Sirio B è spostato rispetto a quello di Sirio A e, di conseguenza, la luminosità determinata dall'ammontare apparente è troppo bassa di circa un fattore 10. (4 punti)
+
+1.b) Utilizzando questo risultato, calcolare in modo approssimativo quanto pesa mediamente un centimetro cubo di materia della stella compagna di Sirio B e quanto è grande approssimativamente l'accelerazione gravitazionale alla sua superficie. (2 punti)
+
+I risultati dei problemi precedenti mostrano che Sirio B deve essere una stella molto particolare.
+Infatti, appartiene a una classe di stelle chiamate nane bianche. Le nane bianche sono residui molto compatti di stelle in cui i processi di fusione nucleare si sono già arrestati. Ma cosa impedisce a queste stelle di contrarsi ulteriormente su se stesse? A questa domanda si deve rispondere nei problemi seguenti.
+1. L'entità apparente m di un oggetto è una misura della luminosità che esso appare avere a un osservatore sulla Terra. È definita tramite il flusso di potenza irradiata $S$ che raggiunge la Terra per unità di superficie da parte dell'oggetto all'interno di un certo intervallo di lunghezza d'onda. Per l'entità apparente vale $m = -2{,}5\,\log_{10}\dfrac{S}{S_0}$, dove $S_0$ è un valore di riferimento fisso per il flusso di potenza irradiata nell'intervallo di lunghezza d'onda considerato. L'entità apparente è espressa come un numero e porta il suffisso mag per "magnitudo".
+
+1.2 Considerazione nello spazio delle fasi e gas di Fermi degenere
+Nella meccanica classica, lo stato di una particella puntiforme è descritto dalla sua posizione $\vec{r}$ e dalla sua velocità $\vec{v}$. Alternativamente, invece della velocità, si può utilizzare anche il momento $\vec{p}$ della particella. Posizione e momento della particella possono essere considerati coordinate nello spazio delle fasi detto "spazio delle fasi". Ogni stato possibile della particella corrisponde a una posizione nello spazio delle fasi. Poiché ci sono tre dimensioni per la posizione e tre per il momento, lo spazio delle fasi in questo caso ha sei dimensioni.
+
+La relazione di indeterminazione di Heisenberg della meccanica quantistica afferma ora che posizione e momento di una particella non possono essere determinati simultaneamente con precisione arbitraria. Per le incertezze $\Delta r_x$ e $\Delta p_x$ in una qualsiasi direzione spaziale $x$, la formulazione di Heisenberg fornisce
 $$\Delta r_x \cdot \Delta p_x \geq h \,.$$
-Qui $h \approx 6{,}626\cdot10^{-34}$ J's denota la costante di Planck. Così un stato di particella corrisponde meno a un punto in fase space che a un volume di dimensioni $h^3$. Per i cosiddetti fermioni2, che includono elettroni, così come protoni e neutroni, il principio di Pauli è inoltre
-Holds, secondo il quale due particelle dello stesso genere non possono esistere contemporaneamente nello stesso stato. Pertanto i volumi di fase-spazio appena descritti non si sovrappongono per queste particelle. A causa dei due possibili orientamenti di spin dei fermioni, tuttavia, ogni elemento di volume di fase-spazio può ospitare due particelle.
-Considerate un gas di un tipo di particelle fermioniche di massa m. Lasciate che il gas sia distribuito su un volume sferico di raggio R e abbiate una densità di particelle n. Supponiamo che il numero di
-particelle è molto grande. In stato di base, cioè A zero temperature, i fermioni occupano un
-La velocità di attuazione è la massima. Tuttavia, a causa delle considerazioni di cui sopra, le particelle non possono avere un picco di impulso e
-Quindi, ha una bassa energia cinetica.
-1.c) Using the above considerations, determine the maximum momentum magnitude $p_F$ of a particle
-nel gas di Fermi al punto zero di temperatura. Prendendo in considerazione solo gli effetti quantomeccanici descritti e trascurando tutte le altre interazioni. Mostrare che
-la corrispondente energia cinetica $E_F$, la cosiddetta energia di Fermi, di una particella è data
-per (punto 3)
+Qui $h \approx 6{,}626\cdot10^{-34}$ J s indica la costante di Planck. Pertanto uno stato di particella corrisponde meno a un punto nello spazio delle fasi che a un volume di grandezza $h^3$. Per quanto riguarda i cosiddetti fermioni2, che includono elettroni così come protoni e neutroni, vale inoltre il principio di esclusione di Pauli, secondo cui due particelle dello stesso tipo non possono esistere contemporaneamente nello stesso stato. I volumi nello spazio delle fasi così descritti non si sovrappongono pertanto per queste particelle. Tuttavia, poiché i fermioni possiedono due possibili orientamenti di spin, ogni elemento di volume nello spazio delle fasi può ospitare due particelle.
+
+Si consideri un gas formato da una specie di particelle fermioniche di massa m. Si assuma che il gas sia distribuito in un volume sferico di raggio R e abbia una densità di particelle n. Si assuma inoltre che il numero di particelle sia molto grande. Nello stato fondamentale, ovvero al punto zero della temperatura, i fermioni occupano lo stato di energia più bassa possibile e quindi anche il momento più piccolo possibile. Tuttavia, in base alle considerazioni precedenti, le particelle non possono tutte avere un momento molto piccolo e quindi un'energia cinetica bassa.
+
+1.c) Utilizzando le considerazioni precedenti, determinare l'entità massima del momento $p_F$ di una particella nel gas di Fermi al punto zero della temperatura. Tenere conto soltanto degli effetti quantomeccanici descritti e trascurare tutte le altre interazioni. Dimostrare che l'energia cinetica corrispondente $E_F$, detta energia di Fermi, di una particella è data da (3 punti)
 $$E_F = \frac{h^2}{8m}\left(\frac{3}{\pi}\right)^{2/3} n^{2/3} \,.$$
-Se l'energia termica delle particelle è significativamente inferiore all'energia di Fermi, quest'ultima determina anche
-il comportamento di un gas di Fermi sopra il punto zero di temperatura. Il gas può quindi essere trattato come se fosse al punto zero di temperatura. In questo caso si parla di
-- Un gas Fermi degenerato.
-1.d) Determinare l'energia cinetica totale del gas Fermi degenerato a funzione della massa, del raggio e della densità delle particelle. (3 punti)
-Se il raggio del volume del gas è ridotto, la sua energia cinetica aumenta secondo la considerazione sopra.
-Il lavoro deve quindi essere fatto contro una pressione per comprimere il volume del gas. Questa pressione è chiamata pressione degenerativa.
-2La descrizione completa di un gas di Fermi effettivamente si svolge all'interno del quadro delle statistiche quantistiche. Il presentato
-Il trattamento semiclassico, tuttavia, riproduce le dipendenze che si presentano correttamente.
+Se l'energia termica delle particelle è significativamente minore dell'energia di Fermi, anche quest'ultima determina il comportamento di un gas di Fermi al di sopra del punto zero della temperatura. Il gas può quindi essere approssimativamente trattato come se si trovasse al punto zero della temperatura. In questo caso si parla di gas di Fermi degenere.
 
-1.e) Determina la forza esterna del gas Fermi non relativistico risultante dalla pressione di degenerazione. Confrontare la magnitudine di questa forza per un gas elettronico e un gas protonico. Usare questo per giustificare perché la pressione degenerazione in una stella è portato circa quasi esclusivamente
-- Gli elettroni. (3 punti)
+1.d) Determinare l'energia cinetica totale del gas di Fermi degenere in funzione della massa delle particelle, del raggio e della densità delle particelle. (3 punti)
+
+Se il raggio del volume del gas viene ridotto, la sua energia cinetica aumenta secondo quanto sopra considerato. È quindi necessario compiere lavoro contro una pressione per comprimere il volume del gas. Tale pressione è detta pressione di degenerazione.
+
+2 La descrizione completa di un gas di Fermi avviene effettivamente nel quadro della statistica quantistica. Tuttavia, il trattamento semicla sso presentato riproduce correttamente le dipendenze che ne derivano.
+
+1.e) Determinare la forza rivolta verso l'esterno del gas di Fermi non relativistico derivante dalla pressione di degenerazione. Confrontare l'entità di questa forza per un gas elettronico e per un gas protonico. Utilizzare questo confronto per giustificare perché la pressione di degenerazione in una stella è causata quasi esclusivamente dagli elettroni. (3 punti)
+
 1.3 Evoluzione stellare
-Ma ora torniamo alle stelle: in una stella come il nostro Sole, la pressione radiativa prodotta dai processi di fusione
-in the interior contraddice la contrazione della stella a causa della gravità.
-1.f) Derivo di espressione per la potenziale energia che una stella di radius $R$, costante
-density and mass $M$ possede a causa del suo campo gravitazionale. (3 punti)
-Quando i processi di fusione cessano, la stella si raffredda e si contrae. Una volta
-La stella si è raffreddata sufficientemente, la pressione delle radiazioni non svolge più un ruolo dominante e la temperatura del pianeta è aumentata.
-I gas fermionici nella stella sono completamente degenerati. Supponiamo che la stella estinuta sia composta interamente da
-I prodotti di cui all'allegato I sono stati modificati per la prima volta.
+Ma ora torniamo alle stelle: in una stella come il nostro Sole, la pressione di radiazione generata dai processi di fusione nel suo interno contrasta la contrazione della stella dovuta alla gravità.
 
+1.f) Derivare un'espressione per l'energia potenziale che una stella di raggio $R$, densità costante e massa $M$ possiede a causa del suo campo gravitazionale. (3 punti)
+
+Quando i processi di fusione si arrestano, la stella si raffredda e contrai. Una volta che la stella si è sufficientemente raffreddata, la pressione di radiazione non gioca più un ruolo dominante e i gas fermionici nella stella diventano completamente degeneri. Si assuma che la stella estinta sia costituita interamente di elio, cioè
 
 <!--fig:start-->
 ![[_attachments/48_IPhO_2017_2Rd_Aufgaben_print/48_IPhO_2017_2Rd_Aufgaben_print_p3_f1.png]]
 *Sirius A and B from the Hubble telescope*
 <!--fig:end-->
-
-**Topic:** [[Astrophysics]], [[Modern-Quantum Physics]], [[Gravitation]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Star (object)|Star]], [[Gas (object)|Gas]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1TQ9PPqVfz8v5lv9u2RxQIPHKPl7BVbuT/view)
 
 
 

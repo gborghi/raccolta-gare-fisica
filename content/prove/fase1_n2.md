@@ -963,21 +963,13 @@ il parafuso è $V_f/2$. È corretto affermare che:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question number fourteen. A screw comes off the top of a beam of a building height $h$ and falls
-under the exclusive action of gravity. Ele atinge o solo no instante $t_f$ com velocidade $V_f$. Be it
-$t_a$ the moment the screw is at a height $h/2$ and $t_b$ the moment the speed of the screw is at a height $h/2$ and $t_b$ the moment the speed of the screw is at a height $h/2$
-the screw is $V_f/2$. It is correct to state that:
-- **A.** $t_b = t_a$ e $t_b = t_f/2$.
-- **B.** $t_b = t_a$ e $t_b < t_f/2$.
-- **C.** $t_b = t_a$ e $t_b > t_f/2$.
-- **D.** $t_b < t_a$ e $t_b = t_f/2$.
-- **E.** $t_b > t_a$ e $t_b = t_f/2$.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1I-ZwxqXwH7TGhXzL7sc8LdOq7yfsHP1X/view)
+Problem 14. A screw detaches from the top of a roof edge of a building of height $h$ and falls under the exclusive action of gravity. It hits the ground at time $t_f$ with velocity $V_f$. Let
+$t_a$ be the instant when the screw is at height $h/2$ and $t_b$ the instant when the screw's velocity is $V_f/2$. It is correct to state that:
+- **A.** $t_b = t_a$ and $t_b = t_f/2$.
+- **B.** $t_b = t_a$ and $t_b < t_f/2$.
+- **C.** $t_b = t_a$ and $t_b > t_f/2$.
+- **D.** $t_b < t_a$ and $t_b = t_f/2$.
+- **E.** $t_b > t_a$ and $t_b = t_f/2$.
 
 
 

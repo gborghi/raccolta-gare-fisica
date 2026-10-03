@@ -13,10 +13,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2025 — Sperimentale — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/meccanica,object/resistor"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
-
 **E1 – Deep Learning (10 pts)**
 
 Modern ANNs (artificial neural networks) are made of billions of neurons. Each neuron transforms its input(s) $x_1, x_2, \dots, x_n$ to an output $y$. First,
@@ -74,12 +70,7 @@ tolerances.
 
 
 
-
 <span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2025 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/meccanica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
 
 Task 2 - (0.5 pts)
 Sketch how the terminals have to be connected so
@@ -95,12 +86,7 @@ widest possible range.
 
 
 
-
 <span class="atom-split" id="q03" data-atom="q03" data-title="EuPhO 2025 — Sperimentale — Quesito 3" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/meccanica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
 
 Task 3 - (1.5 pts)
 Devise (and document) a strategy allowing you to
@@ -118,12 +104,7 @@ and document your measurements.
 
 
 
-
 <span class="atom-split" id="q04" data-atom="q04" data-title="EuPhO 2025 — Sperimentale — Quesito 4" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/meccanica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
 
 Task 4 - (3.5 pts)
 Determine the weights w1, w2 and the bias b. Describe
@@ -146,12 +127,7 @@ you define are clearly marked in your circuits.
 
 
 
-
 <span class="atom-split" id="q05" data-atom="q05" data-title="EuPhO 2025 — Sperimentale — Quesito 5" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/meccanica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
 
 Task 5 - (1.5 pts)
 Connect the terminal X1 directly to +V. Design
@@ -175,12 +151,7 @@ the value of b5 from your data.
 
 
 
-
 <span class="atom-split" id="q06" data-atom="q06" data-title="EuPhO 2025 — Sperimentale — Quesito 6" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/circuits,topic/wave-optics,topic/oscillations-e-waves,argomento/meccanica,object/lens,object/screen"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
 
 Task 6 - (2.5 pts)
 a Determine the internal series output resistance
@@ -285,4 +256,3 @@ tabular form;
 **Objects:** [[Lens (object)|Lens]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1DvpXIKjZRI_KOWGw1JwZSV3LQ4dZO_xv/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1WRE7F2jIP-Xtoms0RfOmDpVlwdViJ6PQ/view)
-

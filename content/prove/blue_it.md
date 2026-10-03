@@ -48,33 +48,25 @@ Trova $\alpha$, $\beta$ e $\gamma$ usando l'analisi dimensionale.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Costanti fondamentali ed Analisi Dimensionale**
-**1.1** *(0.8 pt)*  Trova, in termini delle dimensioni di lunghezza, massa, tempo e temperatura, le dimensioni delle costanti fondamentali: la costante di Planck $\hbar$, la velocità della luce $c$, la costante di gravitazione universale $G$, la costante di Boltzmann $k_B$.
+**Fundamental Constants and Dimensional Analysis**
 
-**1.2** *(0.5 pt)*  La legge di Stefan-Boltzmann stabilisce che la potenza di emissione di un corpo nero — cioè l'energia irraggiata nell'unità di tempo dall'unità di superficie — è pari a
+**1.1** *(0.8 pt)*  Find, in terms of the dimensions of length, mass, time, and temperature, the dimensions of the fundamental constants: Planck's constant $\hbar$, the speed of light $c$, the universal gravitational constant $G$, and Boltzmann's constant $k_B$.
+
+**1.2** *(0.5 pt)*  The Stefan-Boltzmann law states that the power emitted by a black body — i.e., the energy radiated per unit time per unit surface area — is given by
 
 $$\frac{P}{A} = \sigma\, T^4,$$
 
 where $\sigma$ is the Stefan-Boltzmann constant and $T$ is the absolute temperature of the black body.
 
-Determine the dimensions of the Stefan-Boltzmann constant $[\sigma]$ in terms of length, mass, time and temperature dimensions.
+Determine the dimensions of the Stefan-Boltzmann constant $[\sigma]$ in terms of the dimensions of length, mass, time, and temperature.
 
-**1.3** *(1.0 pt)*  La costante di Stefan-Boltzmann non è una costante fondamentale e quindi si può scrivere in termini delle costanti fondamentali nella forma
+**1.3** *(1.0 pt)*  The Stefan-Boltzmann constant is not a fundamental constant and thus can be expressed in terms of the fundamental constants as
 
 $$\sigma \sim \hbar^{\alpha}\, c^{\beta}\, k_B^{\gamma}.$$
 
-In this report $\sim$ indicates an additive factor whose value is of the order of unit (which we put equal to 1).
+In this relation, $\sim$ denotes a dimensionless factor whose value is of the order of unity (which we take to be 1).
 
-Find $\alpha$, $\beta$ and $\gamma$ using the dimensional analysis.
-
-
----
-
-**Topic:** [[Thermodynamics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1oNRGVJiad7mYNCSatM1KE965t_H1ogo_/view)
+Find $\alpha$, $\beta$, and $\gamma$ using dimensional analysis.
 
 
 
@@ -246,25 +238,20 @@ in funzione della massa stessa $M$, della temperatura della radiazione cosmica d
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Buchi Neri e Radiazione Cosmica di Fondo**
-> Consider a black hole exposed to background cosmic radiation. The background cosmic radiation is a black body radiation with a temperature of $T_0$ that fills the entire universe. An object of area $A$ will then receive an energy equal to $\sigma T_0^4 A$ per unit time. So a black hole loses energy because of Hawking radiation and instead absorbs energy from the background cosmic radiation.
+**Black Holes and Cosmic Microwave Background Radiation**
 
-**4.1** *(0.8 pt)*  Trova la velocità con cui varia la massa di un buco nero,
+Consider a black hole exposed to the cosmic microwave background radiation. The cosmic microwave background radiation is blackbody radiation with temperature $T_0$, filling the entire universe. An object of area $A$ therefore receives energy per unit time equal to $\sigma T_0^4 A$. A black hole thus loses energy due to Hawking radiation and simultaneously absorbs energy from the cosmic microwave background radiation.
+
+**4.1** *(0.8 pt)* Find the rate of change of the mass of a black hole,
 
 $$\frac{dM}{dt} = f\!\left(M,\, T_0,\, \hbar,\, c,\, G,\, k_B\right),$$
 
-in funzione della massa stessa $M$, della temperatura della radiazione cosmica di fondo $T_0$ e delle costanti universali.
+as a function of its own mass $M$, the temperature of the cosmic microwave background radiation $T_0$, and fundamental constants.
 
-**4.2** *(0.4 pt)*  Per un certo valore della massa $M^*$, la velocità di variazione della massa si annulla. Find $M^*$ and express it in terms of $T_0$ and fundamental constants.
+**4.2** *(0.4 pt)* For a certain value of mass $M^*$, the rate of change of mass vanishes. Find $M^*$ and express it in terms of $T_0$ and fundamental constants.
 
-**4.3** *(0.2 pt) * Based on what you found in section 4.2, replace $M^*$ in your answer to question 4.1 and express the rate at which the mass of a black hole varies in terms of $M$, $M^*$ and fundamental constants.
+**4.3** *(0.2 pt)* Based on your result in part 4.2, substitute $M^*$ into your answer to question 4.1 and express the rate of change of mass of a black hole in terms of $M$, $M^*$, and fundamental constants.
 
-**4.4** *(0.4 pt)*  Trova la temperatura di Hawking $T_H^*$ per un buco nero in equilibrio termico con la radiazione del fondo cosmico.
+**4.4** *(0.4 pt)* Find the Hawking temperature $T_H^*$ for a black hole in thermal equilibrium with the cosmic microwave background radiation.
 
-**4.5** *(0.6 pt) * Is the equilibrium referred to in the previous paragraph stable or unstable? Why? Why? (Express your answer in mathematical form.)
-
-**Topic:** [[Thermodynamics]], [[Gravitation]], [[Astrophysics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Differential Equations (metodo)|Differential Equations]], [[Physical Modeling (metodo)|Physical Modeling]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Black Hole (object)|Black Hole]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1oNRGVJiad7mYNCSatM1KE965t_H1ogo_/view)
+**4.5** *(0.6 pt)* Is the equilibrium mentioned in the previous point stable or unstable? Why? (Express your answer mathematically.)

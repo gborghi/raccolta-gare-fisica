@@ -1011,37 +1011,30 @@ it is easy to follow but not unnecessarily long. So if, for example, you use the
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 10 Melting ice (problema MC)
-(cfr.
-In un giorno di inverno freddo, tre identiche, scatole di legno non isolate si trovavano di fronte alla casa, ognuna
-filled with the same amount of ice at a temperature of $0{,}0\ ^\circ\text{C}$. Per sciogliere il ghiaccio,
-un elemento di riscaldamento elettrico viene inserito in ciascuna delle scatole. I calori sono identici
-Ma sono operati a diverse tensioni.
-In the first box the heating element is operated at a voltage of 80 V. Tutti i
-Il ghiaccio nella scatola si scioglie in 20,0 minuti. Una volta di 120 V viene applicata all'elemento di riscaldamento della seconda scatola, e il ghiaccio si scioglie completamente in soli 4,0 minuti. In
-per il caldo è utilizzata una volta di 40 V.
-Gli elementi di riscaldamento sono costruiti in modo da riscaldare simultaneamente l'intera massa di ghiaccio nella rispettiva scatola. Supponiamo che l'acqua di fusione non sia riscaldata dall'elemento di riscaldamento.
-Quale delle seguenti affermazioni è corretta per il melting of the ice in the third box?
-Un melting all the ice in the third box richiede circa 80 minuti.
-B: Fonde tutto il ghiaccio nella terza scatola, ci vogliono circa 100 minuti.
-C. Fondere tutto il ghiaccio nella terza scatola richiede circa 130 minuti.
+Problema 10 Ghiaccio che fonde (problema a scelta multipla)
+(5 punti)
+
+In un freddo giorno invernale, tre scatole di legno identiche e non isolate si trovano davanti alla casa, ognuna riempita con la stessa quantità di ghiaccio a una temperatura di $0{,}0\ ^\circ\text{C}$. Per fondere il ghiaccio, in ciascuna scatola è inserito un elemento riscaldante elettrico. Gli elementi riscaldanti sono identici ma funzionano a diverse tensioni.
+
+Nella prima scatola l'elemento riscaldante è alimentato con una tensione di 80 V. Tutto il ghiaccio nella scatola si fonde in 20,0 minuti. Una tensione di 120 V è applicata all'elemento riscaldante della seconda scatola, dove il ghiaccio si fonde completamente in soli 4,0 minuti. Nella terza scatola viene utilizzata una tensione di 40 V per l'elemento riscaldante.
+
+Gli elementi riscaldanti sono costruiti in modo che scaldino simultaneamente tutta la massa di ghiaccio contenuta nella rispettiva scatola. Si assuma che l'acqua di fusione non venga riscaldata dall'elemento riscaldante.
+
+Quale delle seguenti affermazioni è corretta per la fusione del ghiaccio nella terza scatola?
+
+A Il tempo necessario per fondere tutto il ghiaccio nella terza scatola è di circa 80 minuti.
+B Il tempo necessario per fondere tutto il ghiaccio nella terza scatola è di circa 100 minuti.
+C Il tempo necessario per fondere tutto il ghiaccio nella terza scatola è di circa 130 minuti.
 D Con la tensione utilizzata non è possibile fondere tutto il ghiaccio.
-Answer section
+
+Sezione risposta
 Calcoli e spiegazioni
-Corretta risposta:
-50° IPhO 2019 - 2° round exam
+Risposta corretta:
+50ª Olimpiade Fisica Internazionale 2019 - Esame seconda fase
 Codice: Codice
 12 / 24
-Long problemi
-Work on the following three problems similarly in the boxes provided. A differenza dei
-problemi di scelta multipla, non sono state indicate le opzioni di risposta. Descrivere il metodo di soluzione in modo tale che
-E' facile da seguire, ma non troppo a lungo. Quindi se, per esempio, si usa la legge della conservazione dell'energia, scrivete brevemente.
-
-**Topic:** [[Thermodynamics]], [[Circuits]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1NQd5b3UW6CWc9x6WqE_z_TdxcpwkzwVY/view)
+Problemi lunghi
+Lavora sui seguenti tre problemi nello stesso modo, nei riquadri forniti. A differenza dei problemi a scelta multipla, non sono dati opzioni di risposta. Descrivi il metodo con cui risolvi il problema in modo che sia facile da seguire, ma senza essere eccessivamente lungo. Ad esempio, se utilizzi la legge di conservazione dell'energia, scrivilo brevemente.
 
 
 

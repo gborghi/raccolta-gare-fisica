@@ -529,22 +529,16 @@ Eintauchtiefe (mm)
 
 <div class="qlang-split" data-lang="it"></div>
 
-Fisicolimpiade 2019
-Determine la situazione
-Risoluti
+Fisica Olimpiade 2019
+Determinazione della densità dell'olio
+Soluzioni
 
-1
-(a)
+1 (a)
 
-Risultato negativo
-In quanto punto di riferimento per le messaggi
-Rendizione di un'operazione di cui al paragrafo 1 del regolamento (CE) n.
-- E' un'occasione per il quale il mio gruppo ha avuto un'incapacità di
-Errore che possono portare. Die Werte der zusätzlichen (Il valore aggiunto)
-Flüssigkeitssäule $h'$ und Eintauchtiefe $t'$ lassen
-Non è più facile. Sono stati graficamente oscurati.
+Risultati sperimentali
+Come punto di riferimento per le misurazioni si sceglie ragionevolmente il bordo superiore del RG (in questo modo si evitano fastidiosi valori negativi che potrebbero generare errori). I valori dell'altezza aggiuntiva della colonna di liquido $h'$ e della profondità immersa $t'$ si possono facilmente calcolare da questi dati. Essi vengono rappresentati graficamente.
 
-Wasser (o Muttern)
+Acqua (senza dadi)
 y = 0.879x - 0.302
 -5
 0
@@ -563,33 +557,23 @@ y = 0.879x - 0.302
 30
 40
 50
-Einfüllhöhe Wasser $h'$ (mm)
-aggiuntive Eintauchtiefe $t'$ in Wasser
-(mm)
+Altezza di riempimento acqua $h'$ (mm)
+profondità immersa aggiuntiva $t'$ in acqua (mm)
 
-Stigno
+Pendenza
 0.879
 
-Classifica
-La misura è stata definita da una parte dalla stabilità, dall'altra da un'intera limitata partecipazione delle RG.
-limitzt (das RG steht auf dem Boden auf!). L'ultimo punto di incontro non è chiaro su una delle parole, non posso dire.
-Infine, il Consiglio ha deciso di non limitare la sua attenzione al fatto che la Commissione non ha fatto alcun esame.
+Osservazioni
+L'intervallo di misura è limitato da un lato dalla stabilità del RG, dall'altro dal limite di immersione massima (il RG poggia sul fondo del becher!). Se l'ultimo punto sperimentale risulta chiaramente non allineato con la retta, si può supporre che il RG abbia toccato il fondo del becher e quindi l'esperimento è stato condotto con poca cura.
 
-Un Stelle der Grössen $h'$ und $t'$ può essere
-Anche il $h$ e il $t$ sono registrati. Al di fuori
-Auswertung kommt es nur auf die (l'uswertung viene solo a morire)
-- Un'inclinazione!
+Al posto delle grandezze $h'$ e $t'$ si possono registrare anche $h$ e $t$. Nell'analisi dei dati conta soltanto la pendenza!
 
-L'uomo è in grado di morire con due metodi
-Steigung simile.
-t
-(mm)
-h
-(mm)
-h' = 97 - h
-(mm)
-t' = 54 - t
-(mm)
+Si ottiene la stessa pendenza con entrambi i metodi.
+
+t (mm)
+h (mm)
+h' = 97 - h (mm)
+t' = 54 - t (mm)
 54
 97
 0
@@ -598,7 +582,7 @@ t' = 54 - t
 81
 16
 13
- 32
+32
 72
 25
 22
@@ -611,18 +595,12 @@ t' = 54 - t
 47
 41
 t
-Wasserspiegel
-t’
-senza addosso (bzw. Oel)
+Livello dell'acqua t’ senza acqua aggiuntiva (o olio)
 
-- il controllo delle attività di controllo delle risorse (bzw. Oel)
-h
-h’
-t
-h
-h' = 0
-Wasser (o Muttern)
-y = 0.879x - 30.986
+con acqua aggiuntiva (o olio)
+h h’ t h h' = 0
+
+Acqua (senza dadi) y = 0.879x - 30.986
 0
 10
 20
@@ -637,31 +615,460 @@ y = 0.879x - 30.986
 80
 90
 100
-Einfüllhöhe Wasser von oben gemessen (mm)
-Länge RG über dem Wasserspiegel (mm)
+Altezza di riempimento acqua misurata dall'alto (mm)
+Lunghezza del RG sopra il livello dell'acqua (mm)
 
-Fisicolimpiade 2019
-Determine la situazione
-Risoluti
+Fisica Olimpiade 2019
+Determinazione della densità dell'olio
+Soluzioni
 
-2
-(b)
-Optimierung des Messbereichs
+2 (b)
+Ottimizzazione del campo di misura
 
 1. Metodo
-Messung der Eintauchtiefe als Funktion der Anzahl Muttern (Funkzione del numero di donne)
+Misurazione della profondità d'immersione in funzione del numero di viti
 
-Numero di donne in RG geben
+Inserire il numero di viti nel cilindro graduato (CG)
 
-Met Wasser auffüllen, bis RG stabil
+Riempire con acqua fino al raggiungimento della stabilità del CG
 
-$t$ und $h$ messen (zusätzlich Wasser nachfüllen, bis RG maximal eingetaucht: $t_\text{max}$ und $h_\text{max}$)
+Misurare $t$ e $h$ (riempire ulteriormente con acqua fino al massimo immersione: $t_\text{max}$ e $h_\text{max}$)
 
-Risultato negativo
+Risultati delle misure
 
-# Mutterno t
+#viti t
+h t_max h_max d_h
+0
+53
+96
+15
+53
+43
+1
+60
+107
+15
+56
+51
+2
+64
+116
+15
+60
+56
+3
+67
+125
+15
+64
+61
+4
+70
+132
+15
+69
+63
+5
+72
+138
+15
+73
+65
+6
+73
+144
+15
+77
+67
+7
+72
+147
+15
+80,5 66,5
+
+La profondità massima d'immersione si ha per circa 6 viti (73 mm). Questo è maggiore rispetto al valore ottenuto con 13 viti (64 mm).
+
+2. Metodo inizialmente vuoto: aggiungere viti al CG fino a quando il CG galleggia appena stabilmente
+
+Poi coprire le viti con acqua
+
+Iniziare quindi la misurazione
+
+Risultati delle misure (sono necessarie 13 viti)
+
+È ora possibile aggiungere 49 mm di acqua (rispetto ai precedenti 41 mm)
+
+Pendenza: 0,873 (deviazione rispetto al caso (a): 0,7 %)
+
+Anche in questo caso vale che:
+Il campo di misura è limitato da un lato dalla stabilità, dall'altro dalla profondità massima d'immersione del CG. Se l'ultimo punto misurato è chiaramente non allineato con la retta, si può supporre che il CG abbia toccato il fondo del becher e quindi l'esperimento è stato condotto in modo non accurato.
+
+In sostanza, il carico aggiunto nel CG è leggermente eccessivo, poiché oltre alle viti si deve aggiungere acqua per raggiungere la regione con sezione trasversale lineare.
+
+Acqua (con 3 dadi)
+y = 0,873x + 0,168
+0
+10
+20
+30
+40
+50
+60
+0
+10
+20
+30
+40
+50
+60 altezza aggiunta $h'$ Acqua (mm)
+profondità immersa aggiuntiva $t'$ in acqua (m)
+t mm h mm h' = 155 - h mm t' = 49 - t mm
+64
+155
+0
+0
+55
+145
+10
+9
+47
+136
+19
+17
+37
+124
+31
+27
+27
+113
+42
+37
+15
+99
+56
+49
+
+Profondità immersa in funzione del numero di dadi
+0
+10
+20
+30
+40
+50
+60
+70
+80
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Numero di dadi
+Profondità immersa t (mm)
+
+Olimpiade di Fisica 2019
+Determinazione della densità dell'olio
+Soluzioni
+
+3
+Acqua/acqua con 6 dadi M5 y = 0,869x + 0,274
+$R^2 = 1.000$
+0
+10
+20
+30
+40
+50
+60
+70
+0
+10
+20
+30
+40
+50
+60
+70
+80 altezza di riempimento acqua (mm)
+profondità immersa in acqua (mm)
+Misurazione acqua/acqua con 6 dadi
+
+La misura è stata effettuata con 6 dadi (analogo a (a))
+
+t h h' = 144 - h t' = 74 - t mm mm mm mm
+74
+144
+0
+0
+62
+130
+14
+12
+52 119,5
+24,5
+22
+41
+107
+37
+33
+30
+94
+50
+44
+13
+73,5
+70,5
+61
+
+Il campo di misura con i dadi è significativamente più ampio rispetto a quello senza, ma anche migliore di quello con 13 dadi.
+
+Questa misurazione fornisce probabilmente il valore migliore per la pendenza.
+
+$s_W = 0.869$
+
+Olimpiade di Fisica 2019
+Determinazione della densità dell'olio
+Soluzioni
+
+4 (d)
+Misurazione con olio
+
+(d1)
+Misurazione con dadi (6 pezzi, buona metodologia)
+
+t h h' = 134 - h t' = 69,5 - t mm mm mm mm
+69,5
+134
+0
+0
+60
+120,5
+13,5
+9,5
+49
+106
+28
+20,5
+39
+92,5
+41,5
+30,5
+29,5
+79,5
+54,5
+40
+12,5
+56,5
+77,5
+57
+
+Il campo di misura per l'olio è 77,5 mm, la variazione della profondità immersa è 57 mm.
+
+La pendenza è $s_O = 0.738$.
+
+Con la misurazione per l'acqua (pendenza $s_W = 0.869$) si ricava la densità dell'olio come
+
+$\rho_O = (s_O/s_W)\cdot\rho_W = (0.783/0.869)\cdot10\cdot1.00\cdot10^3\ \text{kg/m}^3 = 0.849\cdot10^3\ \text{kg/m}^3$
+
+(valore misurato con idrometro: $0.846\cdot10^3\ \text{kg/m}^3$, deviazione 0.35 %)
+
+(d2)
+Misurazione senza dadi (metodo poco accurato)
+
+t h h' = 56.5 - h t' = 34.5 - t mm mm mm mm
+34.5
+56.5
+0
+0
+28
+47.5
+9
+6.5
+21
+38.5
+18
+13.5
+13
+27.5
+29
+21.5
+
+Campo di misura per l'altezza di riempimento olio: 29 mm
+Profondità di immersione 21.5 mm.
+Questo rappresenta solo il 37 % rispetto alla misurazione con 6 dadi!
+
+Ciò si riflette direttamente sull'errore di misura!
+
+Stima dell'errore
+Errore di una pendenza (errore tipico)
+1 mm su 77.5 mm: errore relativo 1.3 %.
+
+Per due pendenze, tipico 2.5 %, errore assoluto della densità:
+2.5 % di 0.85 $\to$ 0.02
+
+Indicazione della densità
+$\rho_O = (s_O/s_W)\cdot\rho_W = 0.849\cdot10^3 \pm 0.020\ \text{kg/m}^3$
+
+oppure
+
+$\rho_O = (s_O/s_W)\cdot\rho_W = 0.85\cdot10^3 \pm 0.02\ \text{kg/m}^3$
+
+Probabilmente la stima dell'errore è un po’ pessimistica.
+
+18.3.2019 Olimpiade Svizzera di Fisica / Markus Meier
+Olio/acqua con 6 dadi M5 y = 0.738x - 0.183
+0
+10
+20
+30
+40
+50
+60
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Altezza di riempimento olio (mm)
+Profondità di immersione acqua (mm)
+Olio/acqua senza dadi y = 0.745x - 0.049
+0
+5
+10
+15
+20
+25
+0
+5
+10
+15
+20
+25
+30
+35
+Altezza di riempimento olio (mm)
+Profondità di immersione (mm)
+
+<div class="qlang-split" data-lang="en"></div>
+
+Physics Olympiad 2019
+Determination of the Density of Oil
+Solutions
+
+1 (a)
+
+Measurement Results
+For the measurements, it is more practical to choose the upper edge of the glass rod (RG) as the reference point (thus avoiding inconvenient negative measurement values that may lead to errors). The values of the additional fluid column $h'$ and immersion depth $t'$ can be easily calculated from this. These values are plotted graphically.
+
+Water (without nuts)
+y = 0.879x - 0.302
+-5
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+0
+10
+20
+30
+40
+50
+Filling height of water $h'$ (mm)
+Additional immersion depth $t'$ in water (mm)
+
+Slope
+0.879
+
+Remarks
+The measurement range is limited on one side by stability and on the other by the maximum immersion depth of the RG (the RG rests on the bottom!). If the last measurement point clearly does not lie on a straight line, one may assume that the RG touches the bottom of the beaker, indicating careless experimentation.
+
+Instead of quantities $h'$ and $t'$, one may also record $h$ and $t$. For evaluation, only the slope matters!
+
+Both methods yield the same slope.
+
+t (mm)
+h (mm)
+h' = 97 - h (mm)
+t' = 54 - t (mm)
+54
+97
+0
+0
+41
+81
+16
+13
+32
+72
+25
+22
+26
+65
+32
+28
+13
+50
+47
+41
+t
+Water level t' without additional water (or oil)
+
+with additional water (or oil)
 h
-t_max h_max d_h
+h' = 0
+Water (without nuts) y = 0.879x - 30.986
+0
+10
+20
+30
+40
+50
+60
+40
+50
+60
+70
+80
+90
+100
+Filling height of water measured from above (mm)
+Length of RG above the water surface (mm)
+
+Physics Olympiad 2019
+Determination of the Density of Oil
+Solutions
+
+2 (b)
+Optimization of the Measurement Range
+
+1. Method
+Measurement of immersion depth as a function of the number of nuts
+
+Insert nuts into the glass container (RG)
+
+Fill with water until RG is stable
+
+Measure $t$ and $h$ (add additional water until RG is maximally immersed: measure $t_\text{max}$ and $h_\text{max}$)
+
+Measurement results
+
+#Nuts t
+h t_max h_max d_h
 0
 53
 96
@@ -710,34 +1117,27 @@ t_max h_max d_h
 15
 80.5 66.5
 
-La possibilità di un'intera interazione è di circa. 6 La matrice
-massimo (73 mm). Dies ist mehr, anche in 13 muttern
-(64 mm).
+The maximum possible immersion depth is approximately at 6 nuts (73 mm). This exceeds the value for 13 nuts (64 mm).
 
-2. Metodo
-in leeres RG Muttern zugeben, bis das RG gerade stabil schwimmt
+2. Method
+Add nuts to empty RG until the RG just floats stably
 
-Dann die Muttern mit Wasser überdecken (l'acqua è sopra del latte)
+Then cover the nuts with water
 
-Poi comincerà il messing
+Begin measurements at this point
 
-Risultato negativo (es sind 13 Muttern notwendig)
+Measurement results (13 nuts required)
 
-Uomo può essere 49 mm
-(gegenüber früher 41 mm)
+Now 49 mm of water can be added (compared to previously 41 mm)
 
-Steigung 0,873
-(Abbreviamento rispetto alla lettera a): 0,7 %
+Slope: 0.873 (deviation compared to (a): 0.7 %)
 
-Anche qui:
-La misura è stata definita da una parte dalla stabilità, dall'altra da un'intera limitata partecipazione delle RG.
-- Il limite. L'ultimo punto di riferimento non è chiaro su una delle basi, non si può accettare che la RG nel Becherglas
-Infine, il progetto di bilancio è stato approvato.
+In both cases:
+The measurement range is limited on one side by stability and on the other side by the maximum immersion depth of the RG. If the last measurement point clearly does not lie on a straight line, one may assume that the RG has touched the bottom of the beaker, indicating careless experimentation.
 
-In sostanza, la morte è un po' troppo grave, perché l'uomo ha bisogno di qualcosa di più per la madre e per la madre.
-Wasser, um, in RG in den linearen Querschnittsberecht zu gelangen.
+In principle, the loading in the RG is slightly too large, because additional water is needed besides the nuts to reach the linear cross-sectional region within the RG.
 
-Wasser (mit 33 Muttern)
+Water (with 33 nuts)
 y = 0.873x + 0.168
 0
 10
@@ -752,18 +1152,9 @@ y = 0.873x + 0.168
 30
 40
 50
-60
-aggiuntive Einfüllhöhe $h'$ Wasser (mm)
-aggiuntive Eintauchtiefe $t'$ in Wasser
-(m)
-t
-mm
-h
-mm
-h' = 155 - h
-mm
-t' = 49 - t
-mm
+60 additional filling height $h'$ Water (mm)
+additional immersion depth $t'$ in water (m)
+t mm h mm h' = 155 - h mm t' = 49 - t mm
 64
 155
 0
@@ -788,7 +1179,7 @@ mm
 99
 56
 49
-Eintauchtiefe als Fkt Anzahl Muttern
+Immersion depth as function of number of nuts
 0
 10
 20
@@ -807,16 +1198,15 @@ Eintauchtiefe als Fkt Anzahl Muttern
 6
 7
 8
-Numero di mutter
-T (mm)
+Number of nuts
+Immersion depth t (mm)
 
-Fisicolimpiade 2019
-Determine la situazione
-Risoluti
+Physics Olympiad 2019
+Determination of the density of oil
+Solutions
 
 3
-Wasser/Wasser mit 6 Muttern M5
-y = 0.869x + 0.274
+Water/Water with 6 nuts M5 y = 0.869x + 0.274
 $R^2 = 1.000$
 0
 10
@@ -835,20 +1225,14 @@ $R^2 = 1.000$
 60
 70
 80
-Einfüllhöhe Wasser (mm)
-Eintauchtiefe in Wasser (mm)
-Messung Wasser/Wasser mit 6 Muttern
+Filling height water (mm)
+Immersion depth in water (mm)
 
-Die Messung wurde mit 6 Muttern durchgeführt (analogamente a)
+Measurement Water/Water with 6 nuts
 
-t
-h
-h' = 144 - h
-t' = 74 - t
-mm
-mm
-mm
-mm
+The measurement was performed using 6 nuts (analogous to (a))
+
+t h h' = 144 - h t' = 74 - t mm mm mm mm
 74
 144
 0
@@ -873,34 +1257,23 @@ mm
 70.5
 61
 
-Il settore della salute è molto più ampio
-Non è più facile, ma è anche meglio.
-- La mia madre.
+The measurement range with nuts is significantly larger than without, but also better than with 13 nuts.
 
-Questa storia è la migliore
-Per la Steigung.
+This measurement likely provides the best value for the slope.
 
 $s_W = 0.869$
 
-Fisicolimpiade 2019
-Determine la situazione
-Risoluti
+Physics Olympiad 2019
+Determination of the density of oil
+Solutions
 
-4
-(d)
-Messung mit Oel
+4 (d)
+Measurement with oil
 
 (d1)
-Messung mit Muttern (6 Stk., gute Methode)
+Measurement with nuts (6 pieces, good method)
 
-t
-h
-h' = 134 - h
-t' = 69.5 - t
-mm
-mm
-mm
-mm
+t h h' = 134 - h t' = 69.5 - t mm mm mm mm
 69.5
 134
 0
@@ -926,28 +1299,20 @@ mm
 77.5
 57
 
-Il settore dell'olio è di 77,5 mm,
-Modifica dell'interfaccia di 57 mm
+The measurement range for oil is 77.5 mm, the change in immersion depth is 57 mm.
 
-La Steigung è $s_O = 0.738$.
+The slope is $s_O = 0.738$.
 
-Mit der Messung für Wasser (Steigung $s_W = 0.869$) ergibt sich die Dichte von Oel zu
+Using the measurement for water (slope $s_W = 0.869$), the density of oil is found to be
 
 $\rho_O = (s_O/s_W)\cdot\rho_W = (0.783/0.869)\cdot10\cdot1.00\cdot10^3\ \text{kg/m}^3 = 0.849\cdot10^3\ \text{kg/m}^3$
 
-(Gemesser Wert mit Araeometer: $0.846\cdot10^3\ \text{kg/m}^3$, abbeichung 0,35%)
+(measured value using hydrometer: $0.846\cdot10^3\ \text{kg/m}^3$, deviation 0.35 %)
 
 (d2)
-Messung ohne Muttern (metodo di scambio)
+Measurement without nuts (poor method)
 
-t
-h
-h' = 56.5 - h
-t' = 34.5 - t
-mm
-mm
-mm
-mm
+t h h' = 56.5 - h t' = 34.5 - t mm mm mm mm
 34.5
 56.5
 0
@@ -965,34 +1330,30 @@ mm
 29
 21.5
 
-Messbereich für Einfüllhöhe Oel: 29 mm
-- Un'interruzione di 21,5 mm.
-Questo è solo il 37% rispetto alla Messung
-- Muttone!
+Measurement range for oil filling height: 29 mm
+Immerged depth: 21.5 mm.
+This is only 37 % compared to the measurement with 6 nuts!
 
-- E' un'operazione diretta!
+This directly affects the measurement error!
 
-Fehlerabschätzung
-Errore di una rallentamento
-(tip. Errore)
-1 mm a 77,5 mm: rel. Errore 1,3%.
+Error estimation
+Error of a slope (typical error)
+1 mm on 77.5 mm: relative error 1.3 %.
 
-Tipo Bei 2 Steigungen. 2.5 %,
-Il giudice del Consiglio ha deciso di non accettare il parere del Consiglio.
-2,5% di 0,85 $\to$ 0,02
+For 2 slopes, typical error is 2.5 %, absolute error of density:
+2.5 % of 0.85 $\to$ 0.02
 
-Angabe der Dichte
+Reporting the density
 $\rho_O = (s_O/s_W)\cdot\rho_W = 0.849\cdot10^3 \pm 0.020\ \text{kg/m}^3$
 
-o
+or
 
 $\rho_O = (s_O/s_W)\cdot\rho_W = 0.85\cdot10^3 \pm 0.02\ \text{kg/m}^3$
 
-Vermutlich ist die Fehlerschätzung etwas pessimistico.
+Probably, the error estimation is somewhat pessimistic.
 
-18.3.2019 Svizzera Fizica / Markus Meier
-Oel/Wasser mit 6 Muttern M5
-y = 0.738x - 0.183
+18.3.2019 Swiss Physics Olympiad / Markus Meier
+Oil/water with 6 nuts M5 y = 0.738x - 0.183
 0
 10
 20
@@ -1010,10 +1371,9 @@ y = 0.738x - 0.183
 70
 80
 90
-Oel Einfüllhöhe (mm)
-Eintauchtiefe Wasser (mm)
-Oel/Wasser ohne Muttern
-y = 0.745x - 0.049
+Oil filling height (mm)
+Water immersed depth (mm)
+Oil/water without nuts y = 0.745x - 0.049
 0
 5
 10
@@ -1028,11 +1388,5 @@ y = 0.745x - 0.049
 25
 30
 35
-Oel Einfüllhöhe (mm)
-Fabbricazione di contenitori
-
-**Topic:** [[Fluid Mechanics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1RcW4MOf2qfA8bThcF8TcJCNcuo6gD9_0/view)
+Oil filling height (mm)
+Immersed depth (mm)

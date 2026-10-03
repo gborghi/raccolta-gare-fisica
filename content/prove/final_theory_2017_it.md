@@ -463,6 +463,53 @@ Problemi
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 2: Photon Gas (16 points)
+
+Although photons differ from atoms and molecules in many aspects, a photon gas can be described similarly to an ideal gas. The internal energy u of a photon gas can be expressed as a function of temperature according to
+`a termodinamiche usuali, come temperatura, pressione ed entropia. Per esempio, la densit`
+where $$u(T) = \frac{4\sigma T^4}{c},\qquad (1)$$, $\sigma$ and `e la costante di Stefan–Boltzmann e c ` are constants, and c is the speed of light in vacuum. The pressure of the gas is
+$$p(T) = \frac{u(T)}{3}.\qquad (2)$$
+
+Now consider a reversible thermodynamic cycle of the photon gas composed of the following four processes:
+
+1. Adiabatic expansion from volume $V_1$ and temperature $T_1$ to volume $V_2$ and temperature $T_2$.
+2. Isothermal compression down to volume $V_3$.
+3. Adiabatic compression from volume $V_3$ and temperature $T_2$ to volume $V_4$ and temperature $T_1$.
+4. Isothermal expansion back to volume $V_1$.
+
+i. (3 pt) Draw a p-V diagram and an T-S diagram for the thermodynamic cycle just described.
+
+ii. (2 pt) Use the first law of thermodynamics and equations (1)-(2) to determine the amount of heat exchanged with the gas during each of the four processes.
+
+iii. (2 pt) By how much does the entropy change in each process?
+
+iv. (0.5 pt) What condition must be satisfied by the sum of entropy changes?
+
+v. (1.5 pt) Using results from parts iii and iv, prove that
+$$T_1^3 (V_1 - V_4) = T_2^3 (V_2 - V_3)$$
+
+vi. (2 pt) Determine the efficiency of the thermodynamic cycle and prove that it corresponds to the Carnot cycle efficiency.
+
+Hint:
+$$\eta \stackrel{\text{def}}{=} \frac{W_\text{ciclo}}{Q_\text{fornito}}$$
+
+vii. (3 pt) Using the relation from part v, prove that $V T^\beta$ and $p V^\gamma$ are constant during an adiabatic process. What are the values of these constants $\beta$ and $\gamma$?
+Compare your result with that of an ideal gas.
+Hint: How is it possible to satisfy the relation from point v. for any volume $V_1$?
+
+viii. (1 pt) What is the pressure of a photon gas at room temperature?
+Is it small or large compared to the pressures encountered in everyday life?
+
+ix. (1 pt) Describe an experimental setup with which you could realize the thermodynamic cycle.
+What practical difficulties might you encounter?
+
+SwissPhO: $2^\circ$ turn
+Problems
+25.03.2017
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2017 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/electron"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -934,6 +981,23 @@ Il tennis. Perché non raggiunger ̆a questa altezza?
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 2: A medicine ball kick (4 Points)
+
+In the gym, we drop a medicine ball and a tennis ball from the same height. The medicine ball reaches the floor first and bounces back upward.
+It then collides with the tennis ball at a height $h_0 = 48\ \text{cm}$, while the latter is still falling toward the floor, sending it back upward.
+
+Some data:
+The tennis ball has a mass of $m = 60\ \text{g}$ and a diameter of $d = 6.7\ \text{cm}$.
+The medicine ball has a mass of $M = 1.00\ \text{kg}$ and a diameter of $D = 22\ \text{cm}$.
+
+i. (2.5 Points) Initially, we consider the collision between both balls. Thanks to a high-speed camera, we measure that just before impact, the velocity of the medicine ball is $v^\text{prima}_M = 2.8\ \text{m}\cdot\text{s}^{-1}$, while for the tennis ball it is $v^\text{prima}_t = 4.6\ \text{m}\cdot\text{s}^{-1}$. We assume a perfectly elastic collision and neglect the effects of gravity, since the impact lasts only a very short time $\Delta t < 1/40\ \text{s}$.
+Calculate the velocity $v^\text{dopo}_t$ of the tennis ball after the collision.
+
+ii. (1.5 Points) Indicate a maximum limit for the height that the tennis ball could reach. Why will it not achieve this height?
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2017 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -1058,6 +1122,24 @@ Circuito modificato?
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 4: Parallel Oscillatory Circuit (4 Points)
+Consider a parallel oscillatory circuit as shown in the figure. The component values are $L = 1\ \text{mH}$, $C = 100\ \mu\text{F}$, $R = 10\ \Omega$. The quality factor `a di un circuito ` is defined as $Q = R \cdot \sqrt{\dfrac{C}{L}}$.
+
+u
+C
+L
+R u
+C
+$L'$
+$R'$
+Figure 2: Left: initial circuit. Right: transformed circuit.
+
+i. (2 Points) Calculate the resonance frequency of the initial electric circuit.
+ii. (2 Points) Transform the initial circuit into a strictly parallel oscillatory circuit such that the impedance of both circuits is equal at the resonance frequency. Let $f_0 = 10\ \text{kHz}$ be the resonance frequency of the modified circuit. What is `e il fattore di qualit` for the modified circuit?
+
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2017 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -1107,6 +1189,24 @@ Domande Brevi
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1wIrDrj5Dv0NoyCDCtTtadB2oyu-oSn4c/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 5: The Flow of Ideas (4 Points)
+
+Blaise has built a new swimming pool in his garden, which he designed himself. The pool is a perfect cylinder lying on a horizontal plane and has the following dimensions:
+a diameter of $1\ \text{m}$ and a height of $1.5\ \text{m}$. Blaise fills the pool completely with water.
+
+i. (2 Points) Evangelista, Blaise's younger brother, makes a hole in the wall at a height h above the ground. Water then starts to exit through this hole. With what speed does water exit from this hole? Justify your answer with calculations.
+
+ii. (1 Point) At what horizontal distance from the hole will the water hit the ground?
+
+iii. (1 Point) At what height above the ground should Evangelista make the hole so that the water reaches the maximum possible horizontal distance from the hole?
+
+SwissPhO: Second Round
+Short Questions
+26.03.2017
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2017 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/nucleus"></span>

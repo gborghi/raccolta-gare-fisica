@@ -259,40 +259,32 @@ Olimpiadi Internazionali di Fisica
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 4 (25 points).
-A microwave detector is located on the edge of a lake 0.5 m high in the
-water level. When a star emitting a 20 cm monochrome microwave
-Wavelength appears slowly on the horizon, the detector indicates successive
-maximum and minimum intensity signals. Determine which angle above the horizon
-Will the star be there when the first maximum is detected?
+Problem 4 (25 points).
+A microwave detector is located at the edge of a lake, 0.5 m above the water level. When a star emitting monochromatic microwaves of wavelength 20 cm slowly rises above the horizon, the detector registers successive maxima and minima in the signal intensity. Determine the angle above the horizon at which the star will be located when the first maximum is detected?
+
 3
+Theoretical Examination II Final Selection 2016
+International Physics Olympiad
+April 12, 2016
 
-The following is the list of the countries of the European Union and the European Union:
-International Physics Olympiads
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
 4
+Theoretical Examination II Final Selection 2016
+International Physics Olympiad
+April 12, 2016
 
-The following is the list of the countries of the European Union and the European Union:
-International Physics Olympiads
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
 5
+Theoretical Examination II Final Selection 2016
+International Physics Olympiad
+April 12, 2016
 
-The following is the list of the countries of the European Union and the European Union:
-International Physics Olympiads
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
 6
+Theoretical Examination II Final Selection 2016
+International Physics Olympiad
+April 12, 2016
 
-The following is the list of the countries of the European Union and the European Union:
-International Physics Olympiads
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
 7
+Theoretical Examination II Final Selection 2016
+International Physics Olympiad
+April 12, 2016
 
-The following is the list of the countries of the European Union and the European Union:
-International Physics Olympiads
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
 
-**Topic:** [[Wave Optics]], [[Oscillations & Waves]]
-**Metodi:** [[Superposition Principle (metodo)|Superposition Principle]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/10YL7yroN2ayZOVMDOVQepaktpAGyPLoU/view)

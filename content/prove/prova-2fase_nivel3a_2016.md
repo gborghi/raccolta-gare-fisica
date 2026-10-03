@@ -63,46 +63,32 @@ Densidade da água líquida $= 1{,}00\ \text{g/cm}^3$
 
 <div class="qlang-split" data-lang="it"></div>
 
-Per studiare la fluttuazione dei corpi, uno studente ha usato
-due blocchi cilindrici, rispettivamente $V$ e $6V$, per costruire una parte
-Unico come illustrato in figura (I). Poi la pezzo fu messa a galla in acqua,
-in due modi diversi, A e B, come indicato nelle figure (II) e (III). Dopo osservazione
-Il bambino ha osservato che in modalità A, due terzi del volume del blocco più grande è rimasto
-in modo B una frazione $f$ del volume del blocco maggiore è rimasta
-- Sotto l'acqua. Determina il valore di $f$.
+Quesito 1 – Al fine di studiare la galleggiabilità dei corpi, uno studente ha utilizzato due blocchi cilindrici, di volumi $V$ e $6V$ rispettivamente, per costruire un unico pezzo come illustrato nella figura (I). Successivamente, il pezzo è stato fatto galleggiare in acqua in due modi diversi, A e B, come mostrato nelle figure (II) e (III). Dopo un'osservazione attenta, lo studente ha verificato che nel modo A, 2/3 del volume del blocco maggiore era immerso, mentre nel modo B una frazione $f$ del volume del blocco maggiore era immersa. Determinare il valore di $f$.
 
-Figura I Figura II (modulo A) Figura III (modulo B)
+Figura I  Figura II (modo A)  Figura III (modo B)
 
-Nivel III
+LIVELLO III
 
-Medio scolastico  terza elementare
-Formazione tecnica - 4° grado
-Leggi attentamente le istruzioni qui sotto:
+Scuola Secondaria di II grado – 3ª classe
+Formazione Tecnica – 4ª classe
+LEGGI ATTENTAMENTE LE ISTRUZIONI DI SEGUITO:
 
-1 - Questo test è destinato esclusivamente agli studenti della terza e quarta elementari
-- La serie di insegnamento tecnico. Contiene otto domande.
-2 - La prova è composta da due tipi di domande:
-II) Domande di risposta aperta. In questioni di risposta diretta solo
-In caso di correzione, la risposta finale è considerata, mentre nelle domande di risposta aperta, il
-se il risultato finale non è corretto, la evoluzione può essere considerata nel punteggio
-la Commissione ha adottato una decisione che stabilisce la procedura di procedura di cui all'articolo 1, paragrafo 1, del regolamento (CE) n.
-3 - Il Libro delle Risposte contiene istruzioni che devono essere lette con attenzione prima di
-dall'inizio della prova.
-4 - Tutti i risultati numerici devono essere espressi in unità nel sistema
-La Commissione ha adottato una decisione che non è stata adottata.
-5 - La durata di questo esame è di 4 (quattro) ore, e il partecipante deve rimanere in sala per
-non più di 60 (sessanta) minuti.
-Se necessario, e salvo indicazione contraria, utilizzare:
-La velocità della luce nel vuoto $= 3{,}0\times10^8$ m/s; $g = 10\ \text{m/s}^2$; 1hp = 750 W;
+1 - Questo esame è rivolto esclusivamente agli studenti della terza classe del Liceo e della quarta classe dell'istruzione tecnica. Contiene 8 (otto) domande.
+
+2 - La prova è composta da due tipi di domande: I) Domande a risposta diretta e II) Domande a risposta aperta. Nelle domande a risposta diretta, nella correzione verrà considerata soltanto la risposta finale, mentre nelle domande a risposta aperta, se il risultato finale non è corretto, lo svolgimento potrebbe essere preso in considerazione per il punteggio finale, secondo i criteri di correzione adottati.
+
+3 - Il quaderno delle risposte contiene istruzioni che devono essere lette con attenzione prima dell'inizio della prova.
+
+4 - Tutti i risultati numerici devono essere espressi in unità del Sistema Internazionale o secondo le istruzioni specifiche della domanda.
+
+5 - La durata di questo esame è di 4 (quattro) ore, e lo studente deve rimanere in aula per almeno 60 (sessanta) minuti.
+
+Qualora necessario, e a meno che non sia indicato diversamente, utilizzare:
+Velocità della luce nel vuoto $= 3{,}0\times10^8$ m/s; $g = 10\ \text{m/s}^2$; 1hp = 750 W;
 $\sqrt{2} = 1{,}4$;
 $\sqrt{3} = 1{,}7$; $\sqrt{5} = 2{,}2$; $\pi = 3$; $\text{sen}\,30^\circ = 0{,}5$; $\cos 30^\circ = 0{,}85$; $1\,\text{atm} = 10^5$ Pa; $1\,\text{L} = 1.000\ \text{cm}^3$;
 Densità dell'acqua liquida $= 1{,}00\ \text{g/cm}^3$
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Conservation Laws (metodo)|Conservation Laws]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1r20kP0mMyEHWinj96iPgffAXNePIxcsg/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -178,25 +164,8 @@ rendimento de cada turbina dessa central hidrelétrica.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 2  La centrale idroelettrica occupa una posizione di primo piano nel sistema energetico
-Brasiliano. È costruita sul fiume e costituita da lago, diga, casa di forza,
-la stazione di supporto elevatore e le linee di trasmissione. Per produrre energia, l'acqua scorre dalla
-La struttura è stata costruita in un sistema di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di stazione di
-turbine e generatori elettrici. Non tutta l'energia disponibile nel calo della
-l'acqua può essere convertita in energia elettrica. La resa di una turbina è una
-misura dell'efficienza di tale conversione ed è definita come il rapporto tra potenza
-fornita dalla potenza disponibile. Considerate un esempio in cui la corrente necessaria
-per la propulsione di ogni turbina di una centrale elettrica $700\ \text{m}^3/\text{s}$, guidata da
-di una tubulazione di caduta nominale pari a 100 m. Considerando la densità dell'acqua
-$\rho_\text{água} = 1000\ \text{kg/m}^3$ e l'accelerazione della gravità pari a $10\ \text{m/s}^2$, e sapendo che la
-la potenza elettrica generata in ciascuna turbina è di 630 MW, determinata in percentuale, o
-il rendimento di ogni turbina di questa centrale idraulica.
+Quesito 2 – L’impianto idroelettrico riveste un ruolo di primo piano nel sistema energetico brasiliano. È costruito sul fiume ed è composto da un lago, una diga, una centrale elettrica, una sottostazione di elevazione tensione e linee di trasmissione. Per produrre energia, l’acqua esce dal serbatoio e viene convogliata tramite enormi tubi fino alla centrale, dove si trovano le turbine e i generatori di corrente elettrica. Non tutta l’energia disponibile nella caduta dell’acqua riesce a essere convertita in energia elettrica. L’efficienza di una turbina è un indice della bontà di tale conversione ed è definita come il rapporto tra la potenza fornita e la potenza disponibile. Si consideri un esempio in cui la portata necessaria per azionare ciascuna turbina di una centrale elettrica sia pari a $700\ \text{m}^3/\text{s}$, guidata tramite un tubo con caduta nominale di 100 m. Considerando la densità dell’acqua $\rho_\text{água} = 1000\ \text{kg/m}^3$ e l’accelerazione di gravità pari a $10\ \text{m/s}^2$, e sapendo che la potenza elettrica generata da ciascuna turbina è di 630 MW, determinare in percentuale l’efficienza di ciascuna turbina di questa centrale idroelettrica.
 
-**Topic:** [[Conservation of Energy]], [[Fluid Mechanics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Continuity Equation (metodo)|Continuity Equation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1r20kP0mMyEHWinj96iPgffAXNePIxcsg/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -536,46 +505,17 @@ $x \ll 1$.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 7  In giorni caldi è comune che l'asfalto secco sembri bagnato, in funzione della sua presenza in superficie.
-la riflessione della luce che il nostro cervello associa istintivamente alla presenza di acqua. Na
-È vero che la riflessione è causata dal riscaldamento della strata d'aria vicino all'asfalto
-che raggiunge temperature elevate a causa della radiazione termica solare. La luce che si diffonde
-L'asfalto subisce un riflesso interno totale quando raggiunge l'aria calda, dove la
-La velocità di diffusione è maggiore. Nella figura qui sotto vediamo una rappresentazione
-La Commissione ha adottato una decisione che non è stata adottata. Gli occhi del conducente sono a 1 m sopra la frontiera
-che si verifica al riflesso della luce, e il miraggio sembra iniziare a 10 metri di distanza.
-Usando $n_\text{frio} = 1{,}010$ per l'indice di refrazione dell'aria fredda, calcola l'indice di refrazione del
-aria calda vicino all'asfalto. Potrebbe essere utile usare l'approccio
-$\dfrac{1}{\sqrt{1+x}} \cong 1 - \dfrac{x}{2}$ valido per
+Quesito 7 – In giorni caldi è comune che l'asfalto asciutto sembri bagnato a causa della riflessione della luce che il nostro cervello associa istintivamente alla presenza d'acqua. In realtà, la riflessione è provocata dal riscaldamento dello strato d'aria vicino all'asfalto che raggiunge alte temperature a causa della radiazione termica solare. La luce che si propaga verso l'asfalto subisce riflessione totale interna al raggiungere l'aria calda, dove la velocità di propagazione è maggiore. Nella figura qui sotto viene mostrata una rappresentazione semplificata di questo fenomeno. Gli occhi del guidatore si trovano a 1 m sopra il confine in cui avviene la riflessione della luce, e la miraggio sembra cominciare a 10 m di distanza.
+Utilizzando $n_\text{frio} = 1{,}010$ per l'indice di rifrazione dell'aria fredda, calcolare l'indice di rifrazione dell'aria calda vicino all'asfalto. Potrebbe essere utile usare l'approssimazione
+$\dfrac{1}{\sqrt{1+x}} \cong 1 - \dfrac{x}{2}$ valida per
 $x \ll 1$.
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1r20kP0mMyEHWinj96iPgffAXNePIxcsg/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 7  On hot days it is common for dry asphalt to appear wet, as a function of the
-The reflection of light that our brains instinctively associate with the presence of water. Na
-Indeed, the reflection is caused by the warming of the air layer near the asphalt
-which reaches high temperatures due to solar thermal radiation. The Light That Spreads
-The resulting asphalt is a total internal reflection when it reaches hot air, where the
-The speed of propagation is higher. In the figure below we see a representation of the
-The Commission has already made a number of proposals. The driver 's eyes are 1 m above the border at the
-which happens when the light reflects, and the mirage seems to start at 10 meters away.
-Using $n_\text{frio} = 1{,}010$ for the cold air refractive index, calculate the refractive index of the
-Hot air near the asphalt. It may be useful to use the approximation
-$\dfrac{1}{\sqrt{1+x}} \cong 1 - \dfrac{x}{2}$ valid for
-$x \ll 1$.
+Problem 7 – On hot days it is common for dry asphalt to appear wet due to light reflection, a phenomenon our brain instinctively associates with the presence of water. In reality, this reflection is caused by heating of the air layer near the asphalt, which reaches high temperatures due to solar thermal radiation. Light propagating toward the asphalt undergoes total internal reflection when it reaches the hot air, where its propagation speed is greater. The figure below shows a simplified representation of this phenomenon. The driver's eyes are 1 m above the boundary at which light reflection occurs, and the mirage appears to start 10 m away.
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1r20kP0mMyEHWinj96iPgffAXNePIxcsg/view)
-
+Using $n_\text{frio} = 1{,}010$ for the refractive index of cold air, calculate the refractive index of hot air near the asphalt. It may be helpful to use the approximation $\dfrac{1}{\sqrt{1+x}} \cong 1 - \dfrac{x}{2}$, valid for $x \ll 1$.
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Brasil 2016 — Prova 2fase_Nivel3a_2016.pdf — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Fisica Moderna,object/photon,object/electron"></span>
@@ -623,19 +563,6 @@ eV, funzione di lavoro del metallo usato. Utilizzare $1\,\text{eV} = 1{,}6\times
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 8  The discovery of the photoelectric effect opened up a huge possibility of
-The Commission has also proposed that the Commission should take into account the specificities of the
-The Commission has not yet adopted a proposal for a directive. Discovered in the late 19th century, this effect occurs when
-The light, at a sufficiently high frequency, hits a metal surface and makes
-electrons are ejected from the surface. In a lab experiment, a
-a photocell exposed to a wavelength radiation of 500 nm, has its
-Fully brake photovoltaic current when subjected to a voltage inversion of 1
-eV between the electrodes. Given the Planck constant $h = 6{,}6\times10^{-34}\ \text{Js}$, the load
-elementary electricity $e = 1{,}6\times10^{-19}$ C and the speed of light $c = 3\times10^8$ m/s, determined at
-eV, the working function of the metal used. Use $1\,\text{eV} = 1{,}6\times10^{-19}\ \text{J}$.
+Problem 8 – The discovery of the photoelectric effect opened up vast possibilities for technological applications, ranging from automatic doors to accident prevention in industries. Discovered at the end of the 19th century, this effect occurs when light with sufficiently high frequency strikes a metallic surface, causing electrons to be ejected from it. In a laboratory experiment, a photocell exposed to radiation with a wavelength of 500 nm has its photoelectric current completely stopped when subjected to a reverse voltage of 1 eV between the electrodes. Considering Planck's constant $h = 6{,}6\times10^{-34}\ \text{Js}$, the elementary charge $e = 1{,}6\times10^{-19}$ C, and the speed of light $c = 3\times10^8$ m/s, determine in eV the work function of the metal used. Use $1\,\text{eV} = 1{,}6\times10^{-19}\ \text{J}$.
 
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Photon (object)|Photon]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1r20kP0mMyEHWinj96iPgffAXNePIxcsg/view)
+

@@ -309,116 +309,63 @@ Come up with an experimental setup to determine the impedance $Z_0$
 
 <div class="qlang-split" data-lang="it"></div>
 
-6. Imposta le impostazioni secondo le necessità. Le seguenti fasi potrebbero essere necessarie o ripetute, a seconda delle condizioni
-Il problema:
-• Per iniziare è di solito opportuno premere il pulsante AUTO, vedere M nella figura Ax1.2. Di solito questo
-dà un primo buon set di impostazioni, in alcuni casi tuttavia fallisce e poi devono essere trovati
-- Manuale.
-• Verificare che le impostazioni del trigger (punto 5) non siano cambiate.
-• Impostare/verificare il livello di scatto, ovvero il momento in cui la tensione della fonte di scatto attraversa questo punto
-corrisponde al tempo zero. Il livello del trigger può essere modificato con il pulsante J nella figura Ax1.2
-• Impostare la gamma di tensione con il pulsante D1 o D2 (a seconda del canale) nella figura Ax1.2. - E' anche il
-compensato per ciascun canale girando il pulsante E1 o E2 nella figura Ax1.2
-• Impostare il intervallo temporale rotando il pulsante H, è anche possibile spostare il tempo a zero con il pulsante I.
-Figura Ax1.1: Le spiegazioni mostrano l'oscilloscopio: 1: linea di tensione zero (si tenga tuttavia conto che la
-I canali possono essere spostati verticalmente e possono avere il loro zero. Controllare disconnetendo il
-canale), 2: traccia del canale 1, 3: traccia del canale 2, 4: scala di tensione del canale 1. Il valore corrisponde a
-una piastrella (cioè l'altezza della voce 9, cfr. sotto), 5: scala di tensione del canale 2. Il valore corrisponde a una piastrella
-(i.e. l'altezza della voce 9, cfr. sotto), 6: scala temporale di entrambi i canali, il valore corrisponde alla larghezza di
-ogni piastrella (vedi 10), 7: impostazioni del grilletto, qui il canale 2 è usato come grilletto e sta scatenando alla
-il bordo cadente attraversa la tensione di tiratura del canale 2 (vedere anche punto 8). 8: livello di scatto (qui per il canale 2,
-cfr. punto 7). 9: Altezza di una piastrella corrisponde alla scala di tensione della voce 4 o della voce 5. 10: larghezza di una piastrella,
-corrisponde alla scala temporale della voce 6. Le voci 11-15 si applicano solo al menu dei canali: 11: accoppiamento,
-onda: se il compensamento di corrente continua è tagliato (di solito utilizzato ad alte frequenze), linea retta sopra di punteggiato: anche
-inclusa la compensazione di corrente continua, simbolo di terra: scorciato, nulla può essere misurato. 12: Inversione della curva, dovrebbe
-- Non lo so. 13: Limite di larghezza di banda, un po' di filtrazione (interruzione a 20 MHz), di solito spento. 14: Scendi tra tensione e
-corrente, tensione selezionata 1x. Meglio rimanere a 1. 15: Tipo di zoom, Centre dovrebbe essere migliore
-Figura Ax1.2: pulsanti e pulsanti di spiegazione osciloscopo: A: canale di ingresso BNC 1, B: canale di ingresso BNC
-2, C: Trigger esterno di ingresso (se utilizzato/necessario), D1 e D2: pulsante per modificare la scala di tensione verticale della
-canale corrispondente, E1 e E2: compensazione verticale del canale corrispondente, F: al canale attivo 1, G:
-per attivare il canale 2, H: cambiare la scala orizzontale per entrambi i canali, io spostare orizzontale le due curve, J:
-livello di scatto, vedi anche 7 e 8 nella figura Ax1.1, K: se l'oscilloscopio non scatta, può essere costretto a
-so. Potrebbe dare qualche idea della curva e aiutare a fissare il grilletto. L: Menù di scatenazione, apparirà alla pagina
-il lato destro del display, pulsante M: Auto, imposta tutti i parametri ai valori che l'oscilloscopio ritiene appropriati.
-A volte è una buona prima ipotesi, a volte completamente sbagliata. ..
+6. Configura le impostazioni necessarie. I seguenti passaggi potrebbero essere richiesti o ripetuti, a seconda del problema:
+• Per iniziare è di solito opportuno premere il pulsante AUTO, vedere M nella figura Ax1.2. Questo fornisce di solito un primo set ottimale di impostazioni; in alcuni casi però fallisce e allora devono essere trovate manualmente.
+• Verifica che le impostazioni del trigger (punto 5) non siano cambiate.
+• Imposta il livello di trigger, ovvero il momento in cui la tensione della sorgente del trigger attraversa tale valore corrisponde al tempo zero. Il livello di trigger può essere modificato con il pulsante J nella figura Ax1.2.
+• Imposta la scala di tensione mediante il pulsante D1 o D2 (a seconda del canale) nella figura Ax1.2. Imposta inoltre il valore di offset per ogni canale ruotando il pulsante E1 o E2 nella figura Ax1.2.
+• Imposta la scala temporale ruotando il pulsante H; puoi anche spostare lo zero del tempo mediante il pulsante I.
+Figura Ax1.1: Spiegazione del display dell'oscilloscopio: 1: linea di tensione nulla (tuttavia, tenere presente che i diversi canali possono essere spostati verticalmente e possiedono un proprio zero. Verificare scollegando il canale), 2: traccia del canale 1, 3: traccia del canale 2, 4: scala di tensione del canale 1. Il valore corrisponde a un quadratino (cioè all'altezza dell'elemento 9, vedere sotto), 5: scala di tensione del canale 2. Il valore corrisponde a un quadratino (cioè all'altezza dell'elemento 9, vedere sotto), 6: scala temporale per entrambi i canali, il valore corrisponde alla larghezza di ogni quadratino (vedere 10), 7: impostazioni del trigger, qui viene utilizzato il canale 2 come trigger e si attiva al passaggio in discesa attraverso la tensione di trigger del canale 2 (vedere anche l'elemento 8). 8: Livello di trigger (qui per il canale 2, vedere l'elemento 7). 9: Altezza di un quadratino, corrisponde alla scala di tensione dell'elemento 4 o dell'elemento 5. 10: Larghezza di un quadratino, corrisponde alla scala temporale dell'elemento 6. Gli elementi da 11 a 15 si applicano solo al menu del canale: 11: accoppiamento, "wave": se viene eliminato lo spostamento in corrente continua (di solito usato ad alte frequenze), linea retta sopra la tratteggiata: include anche lo spostamento in corrente continua, simbolo di massa: cortocircuito, nulla può essere misurato. 12: Inversione della curva, dovrebbe essere spento. 13: Limite di banda, alcuni filtraggi (taglio a 20 MHz), di solito spento. 14: Interruttore tra tensione e corrente, selezionare tensione 1x. Meglio lasciare a 1. 15: Tipo di zoom, "Centro" dovrebbe essere preferibile
+Figura Ax1.2: Spiegazione manopole e pulsanti dell'oscilloscopio: A: ingresso BNC canale 1, B: ingresso BNC canale 2, C: ingresso esterno per il trigger (se utilizzato/occorrente), D1 e D2: manopole per modificare la scala di tensione verticale dei rispettivi canali, E1 ed E2: offset verticale dei rispettivi canali, F: per attivare il canale 1, G: per attivare il canale 2, H: per modificare la scala orizzontale per entrambi i canali, I: spostamento orizzontale delle due tracce, J: livello del trigger, vedere anche 7 e 8 nella figura Ax1.1, K: se l'oscilloscopio non si triggera, può essere forzato a farlo. Potrebbe fornire alcuni elementi utili per analizzare la traccia e aiutare a risolvere problemi di trigger. L: menu del trigger, apparirà sul lato destro dello schermo, M: pulsante Auto, imposta tutti i parametri ai valori che l'oscilloscopio ritiene adatti. A volte è una buona prima scelta, a volte completamente fuori strada.
+
 Appendice 2: Generatore di segnali
-Per questo esperimento, un segnale periodico potrebbe essere utile. Il generatore di segnali disponibile consente di
-forme d'onda ad un'ampia gamma di frequenze. Tuttavia, per l'esperimento un altro ambiente potrebbe essere più utile:
-Un segnale TTL, cioè una forma d'onda rettangolare con un bordo particolarmente nitido. Questo segnale è disponibile al
-Port TTL, vedere sottotitoli della figura Ax2.1. Assicurarsi che tutti i pulsanti siano premuti, in particolare DUTY (come impostato)
-per impostazione predefinita).
-Figura Ax2.1: Generatore di segnale di spiegazione: 1: Nodo per accenderlo e spegnerlo. 2: Imposta la gamma di frequenza. 3:
-Display della frequenza. 4: Nodo per impostare la frequenza grosso, 5: Nodo per regolare la frequenza. 6:
-- TTL.
+Per questo esperimento potrebbe essere utile un segnale periodico. Il generatore di segnali disponibile permette diverse forme d'onda in un ampio intervallo di frequenze. Tuttavia, per l'esperimento potrebbe essere più utile una configurazione diversa:
+Un segnale TTL, ovvero un'onda rettangolare con un bordo particolarmente netto. Questo segnale è disponibile nel connettore TTL, vedere la didascalia della figura Ax2.1. Assicurarsi che tutte le manopole siano premute, in particolare DUTY (impostata di default).
+
+Figura Ax2.1: Spiegazione generatore di segnali: 1: Manopola per accendere e spegnere. 2: Selezione della gamma di frequenza. 3: Visualizzazione della frequenza. 4: Manopola per impostare la frequenza grossolana, 5: Manopola per il regolaggio fine della frequenza. 6:
+Uscita TTL.
 Appendice 3: Il multimetro
-Per le misurazioni generali si può utilizzare un multimetro, cfr. figura Ax3.1. Alcuni punti generali:
-• Un cavo deve essere sempre presente nella presa COM. Questo è il punto zero (di solito il cavo nero).
-• L'input per la misurazione della tensione ha un'impedenza elevata, cioè Solo una piccola corrente scorre attraverso il
-- Multimetro.
-• L'input per la misurazione della corrente ha una bassa impedenza, cioè una grande corrente può fluire attraverso il
-- Multimetro.
-• In generale, quando si misurano correnti: la corrente scorre attraverso il multimetro, che ha un numero molto elevato di
-resistenza inferiore rispetto alla misurazione di una tensione. Ciò significa che le grandi correnti possono fluire e distruggere
-il multimetro (o la fonte di tensione)! Pertanto, il multimetro in questa configurazione non deve mai
-essere collegati in parallelo alla fonte di tensione, ma solo in serie con carico!
-Figura Ax3.1: Spiegazione delle diverse voci: 1: posizione spenta, 2: presa COM, 3: presa di tensione e
-resistenza (e altre quantità), 4: porta per piccole correnti, 5: presa per grandi correnti.6: misurazione di
-piccole tensioni (AC e DC, per cambiare uso 11), 7: tensioni di DC,8: tensioni di CA, 9: Misura di ohmi
-resistenza, 10: misurazioni di corrente (vari intervalli), 11: commutazione tra corrente continua e corrente alternata per piccole tensioni
-(6) o correnti (10). L'impostazione corrente è visualizzata sul display 12. 12: Display
-Soluzione
-Esperimenti: soluzioni
-Esperimento 3.1: Propagazione del segnale nei cavi coassiali
+Un multimetro può essere utilizzato per misurazioni generali, come mostrato in Figura Ax3.1. Alcuni punti generali:
+• Un cavo deve sempre essere inserito nel morsetto COM. Questo rappresenta il punto zero (di solito il cavo nero).
+• Il morsetto per la misura della tensione ha un'impedenza elevata, ovvero attraverso il multimetro circola una corrente molto piccola.
+• Il morsetto per la misura della corrente ha un'impedenza bassa, ovvero può circolare una grande corrente attraverso il multimetro.
+• In generale, quando si misurano le correnti: la corrente passa attraverso il multimetro, che ha una resistenza molto più bassa rispetto alla misura della tensione. Ciò significa che possono circolare correnti elevate e danneggiare il multimetro (o la sorgente di tensione)! Pertanto, in questa configurazione il multimetro NON DEVE MAI essere collegato in parallelo alla sorgente di tensione, ma soltanto in serie con un carico!
+Figura Ax3.1: Spiegazione degli elementi diversi: 1: posizione spento, 2: morsetto COM, 3: morsetto per tensione e resistenza (e altre grandezze), 4: morsetto per correnti piccole, 5: morsetto per correnti grandi.6: misura di piccole tensioni (AC e DC, per commutare usare 11), 7: tensioni continue (DC),8: tensioni alternate (AC), 9: misura della resistenza ohmica, 10: misure di corrente (diverse gamme), 11: commutatore tra DC e AC per piccole tensioni (6) o correnti (10). Il valore della corrente è visualizzato sul display 12. 12: Display
+
+SOLUZIONE
+Esperienze: soluzioni
+Esperienza 3.1: Propagazione del segnale nei cavi coassiali
 Introduzione
-Questo esperimento indaga sulla propagazione delle onde nei cavi coassiali. Questi cavi sono costituiti da due linee, una
-uno interno che porta il segnale e uno cilindrico esterno circonda quello interno. Questa linea esterna è
-di solito collegato al suolo. La norma BNC (conformità di
-La Commissione ha adottato una decisione che prevede l'applicazione di un sistema di controllo dei cavi coassiali.
-Per consentire un circuito chiuso, i cavi hanno di solito almeno 2 linee in geometria fissa rispetto a
-- Ci siamo. La geometria e i materiali coinvolti definiscono le proprietà di propagazione dei segnali nel
-- Cable. Denote rispettivamente $L'$ e $C'$ l'inductanza e la capacitanza (cioè Induttività e capacità per
-lunghezza). Il rapporto tra l'ampiezza della corrente $I_0$ che scorre nelle linee e la tensione $V_0$ tra
-le linee sono indicate con l'impedenza caratteristica $Z_0$ (in limite di alta frequenza) come
+Questo esperimento studia la propagazione delle onde nei cavi coassiali. Questi cavi sono formati da due conduttori, uno interno che di solito trasporta il segnale e uno esterno cilindrico che avvolge l'intero conduttore interno. Quest’ultimo è di solito collegato a massa. Esamineremo lo standard BNC comunemente usato (una particolare configurazione di cavi coassiali) e da ora in poi chiameremo il cavo utilizzato cavi BNC.
+
+Per consentire un circuito chiuso, i cavi presentano di solito almeno due conduttori disposti in geometria fissa rispetto a ciascun altro. La geometria e i materiali coinvolti definiscono le proprietà di propagazione dei segnali nel cavo. Indichiamo con $L'$ e $C'$ rispettivamente l'induttanza e la capacità (ovvero, induttività e capacità per unità di lunghezza). Il rapporto tra l'ampiezza della corrente $I_0$ che scorre nei conduttori e la tensione $V_0$ tra i due conduttori è dato dall'impedenza caratteristica $Z_0$ (nel limite di alta frequenza) come
 
 $$\frac{V_0}{I_0} = Z_0 = \sqrt{\frac{L'}{C'}}$$
 
-e è una proprietà del cavo stesso.
-Se due cavi con impedenza diversa sono collegati tra loro (o se è collegato un resistore ohmico a
-L'onda può essere trasmessa completamente solo se l'impedenza dei due cavi è la
-- Lo stesso. In caso contrario, si verifica un riflesso alla connessione tale che il rapporto tra corrente e tensione sia in
-I cavi sono dati dalle loro corrispondenti impedanze. Inoltre, la velocità $v_p$ con cui un'onda si propaga
-(velocità di fase) è data da
+ed è una proprietà intrinseca del cavo stesso.
+
+Se due cavi con impedenze diverse sono collegati tra loro (o un resistore ohmico è collegato all'estremità del cavo), l'onda può essere completamente trasmessa solo se le impedenze dei due cavi sono uguali. In caso contrario, si verifica una riflessione nel punto di collegamento tale che il rapporto tra corrente e tensione nei due cavi è dato dalle rispettive impedenze. Inoltre, la velocità $v_p$ con cui si propaga un'onda (velocità di fase) è data da
 
 $$v_p = \frac{1}{\sqrt{L'C'}}$$
 
-e è indipendente dalla frequenza (dato il modello semplice che usiamo qui). In modo corrispondente, questa velocità
-coincide con la velocità di un segnale (velocità di gruppo).
-Per eseguire gli esperimenti, si dispone del seguente materiale:
+e non dipende dalla frequenza (dato il semplice modello utilizzato qui). Di conseguenza, questa velocità coincide con la velocità di un segnale (velocità di gruppo).
+Per effettuare gli esperimenti, hai a disposizione il seguente materiale:
 Materiale
-• Generatore di segnali, dettagli vedere appendice. Per questo esperimento, usi solo la connessione media,
-etichettato con TTL di uscita e non tirare fuori i pulsanti. Questo vi fornirà un rettangolo
-- Un segnale che potrebbe essere utile.
-• Un osciloscopio, dettagli vedere l'appendice. Nota: ogni canale può essere utilizzato con un $50\ \Omega$
-terminazione interna o ad alta impedanza ($1\ \text{M}\Omega$). Scegli attentamente quello che ti serve.
-• Un Multimetro, dettagli vedere l'appendice.
-• Cavi BNC di lunghezza 1m, 2m, 3m (2x).
-• Un cavo con le pinze alla fine.
-• 2 pezzi per collegare un cavo BNC ad un altro.
-• Un T-piece che può essere collegato all'oscilloscopio e due cavi possono essere collegati.
-• Un insieme di varie resistenze.
-Soluzione
+• Un generatore di segnali, dettagli vedere appendice. Per questo esperimento, utilizza soltanto la connessione centrale, contrassegnata con uscita TTL e non estrarre i comandi. Questo fornirà un segnale rettangolare che potrebbe essere utile.
+• Un oscilloscopio, dettagli vedere appendice. Nota che ogni canale può essere utilizzato con la terminazione interna $50\ \Omega$ oppure con impedenza elevata ($1\ \text{M}\Omega$). Scegli attentamente in base alle tue esigenze.
+• Un multimetro, dettagli vedere appendice.
+• Cavi BNC di lunghezza 1 m, 2 m, 3 m (2 pezzi).
+• Un cavo con morsetti all’estremità.
+• 2 pezzi per collegare un cavo BNC a un altro.
+• Un connettore a T che può essere inserito nell’oscilloscopio e al quale possono essere collegati due cavi.
+• Un insieme di vari resistori.
+
+SOLUZIONE
 Compiti
-Parte A. Misurazione dell'impedenza
-Qui vogliamo stimare l'impedenza d'onda $Z_0$ nei nostri cavi BNC.
+Parte A. Misura dell’impedenza
+In questo caso vogliamo stimare l’impedenza d’onda $Z_0$ nei nostri cavi BNC.
 i.
-Si può trovare una configurazione sperimentale per determinare l'impedenza $Z_0$
-
-**Topic:** [[Oscillations & Waves]], [[Circuits]], [[Electromagnetism]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.35](https://drive.google.com/file/d/1US0g0BQx5TDZVe5x47De3bBF43QNKTts/view)
-
+Proponi un montaggio sperimentale per determinare l’impedenza $Z_0$
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2026 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>

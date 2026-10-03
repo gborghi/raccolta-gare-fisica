@@ -379,58 +379,34 @@ water inlet point, and that neglecting these contributions was therefore permiss
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 2 Disco galleggiante
-(punto 30)
-(idea: Fabian Bühler)
-La maggior parte delle persone probabilmente hanno visto a un certo punto una fontana ornamentale in cui una sfera di pietra riposa su un sottile
-film di acqua. Grazie al cuscino d'acqua, il
-solitamente una sfera pesante in una fonte
-può anche essere trasformato a mano.
-In questo problema si deve usare un po 'più semplice
-"Arrangement to Investigate How It Comes About That A Stone Body Slides on a Film of Water". Per questo motivo, considerate, come
-Scatto in figura 4, un disco di granito cilindrico
-con un raggio $R$ e una spessura $D$ above a stone
-base. Da sotto, l'acqua scorre a un ritmo $Q$ in
-il gap tra il disco e la base, in modo che
-Il disco è un film di acqua. Restrict
-se stessi alla considerazione di un disco non rotante.
-Figura 3: Sphere fountain a Breisach.
-The base covers the lateral surface in the angular range $-\vartheta_\text{max} \leq \vartheta \leq \vartheta_\text{max}$ and is shaped so that
-Il gap ha la stessa larghezza ovunque. In the gap the water flows with varying flow velocity $u$. Along a cross-section running in the radial direction, the flow velocity depends on the distance $x$ from the lateral surface of the disc (cf. la parte destra di Fig. 4). Direttamente
-a disc ($x = 0$) e alla base ($x = h$) la velocità di flusso è in ogni caso pari a
-- Non c'è niente. Il gap è molto stretto, quindi il gap width $h$ è molto più piccolo di $R$.
+Problema 2 Disco galleggiante (30 punti)
+(Idea: Fabian Bühler)
+
+Molte persone avranno probabilmente visto in qualche momento una fontana ornamentale in cui una sfera di pietra poggia su un sottile strato d'acqua. Grazie al cuscino d'acqua, la sfera solitamente molto pesante in una tale fontana può persino essere fatta ruotare a mano.
+
+In questo problema si deve utilizzare un'impostazione leggermente più semplice per indagare il motivo per cui un corpo di pietra scivola su uno strato d'acqua. A tale scopo, si consideri, come illustrato nella Figura 4, un disco cilindrico in granito con raggio $R$ e spessore $D$ posto sopra una base di pietra. Dall'alto, l'acqua fluisce con portata $Q$ nel vano tra il disco e la base, in modo che il disco poggia su uno strato d'acqua. Limitarsi all'esame di un disco non rotante.
+
+Figura 3: Fontana con sfera a Breisach.
+
+La base copre la superficie laterale nell'intervallo angolare $-\vartheta_\text{max} \leq \vartheta \leq \vartheta_\text{max}$ ed è modellata in modo che il vano abbia sempre la stessa larghezza. Nel vano, l'acqua fluisce con velocità di flusso variabile $u$. Lungo una sezione trasversale che si estende nella direzione radiale, la velocità di flusso dipende dalla distanza $x$ dalla superficie laterale del disco (cfr. la parte destra della Figura 4). Direttamente sul disco ($x = 0$) e sulla base ($x = h$), la velocità di flusso è nulla in entrambi i casi. Il vano è molto stretto, quindi la larghezza del vano $h$ è molto minore di $R$.
+
 R
 $\vartheta_\text{max}$
 D
-Q
-h
-x
-u(x)
-Figura 4: Sketch of the water-borne disc on the base (left) and an enlarged detail
-di quella spazzatura di acqua (a destra). La larghezza del gap è esagerata per la chiarezza.
-Per le seguenti considerazioni, supponiamo che l'acqua nel gap si muova solo tangentialmente alla superficie laterale, cioè come indicato in figura 4, né nella direzione radiale né lungo il
-L'asse cilindrico. La pressione dell'acqua $p$ nel gap dipende dall'angolo $\vartheta$. Si può presumere, tuttavia, che
-la pressione dell'acqua nel gap è costante nella direzione radial, cioè a un angolo fisso $\vartheta$, e che il
-la pressione idrostatica dell'acqua può essere trascurata.
-2.a) Determina un'espressione per il profilo di velocità $u(x)$ nel gap come funzione di
-la larghezza del gap $h$, il tasso $Q$ al quale l'acqua scorre nel gap, e lo spessore $D$ del disco.
-Sketta la forma del profilo di velocità. (14 pag.)
-2.b) Derivare un'espressione per la pressione di acqua $p(\vartheta)$ nel gap come funzione del dato
-Quantità, la viscosità dinamica $\eta$ dell'acqua e la pressione ambientale $p_0$. - 4 punti
-Ora considerate nel seguente un disco di granito con un raggio $R = 50\ \text{cm}$ e uno spessore
-$D = 30\ \text{cm}$, che è coperto dal gap di acqua fino ad un angolo $\vartheta_\text{max} = 35^\circ$. La densità di
-granite is $\rho_\text{Granit} = 2{,}75\cdot10^3\ \text{kg}\ \text{m}^{-3}$ and for the viscosity of water you may take the value $\eta = 1{,}0\cdot10^{-3}\ \text{Pa s}$. Il tasso al quale l'acqua scorre nel gap è $Q = 3{,}0\cdot10^{-4}\ \text{m}^3\ \text{s}^{-1}$.
-2.c) Calcolare, utilizzando i dati forniti, la larghezza del gap $h$ e la sovrapposizione $p(0) - p_0$ al
-punto di ingresso idrico. (7 punti)
-2.d) Usando i risultati, giustificare che la differenza di pressione nella direzione radial e la
-La pressione gravitazionale dell'acqua sono in questo caso indeed very small compared with the overpressure at the
-Il problema è che la Commissione ha deciso di non dare il massimo di informazioni. (cfr.
+Q h x u(x)
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1Gn8ncSEVyFGCg5XLird4SOMgfC6UWhsg/view)
+Figura 4: Schizzo del disco sostenuto dall'acqua sulla base (a sinistra) e dettaglio ingrandito del vano riempito d'acqua (a destra). La larghezza del vano è esagerata per chiarezza.
+Per i seguenti ragionamenti, si assuma che l'acqua nel gap si muova soltanto tangenzialmente alla superficie laterale, ossia come indicato nella Figura 4, né in direzione radiale né lungo l'asse del cilindro. La pressione dell’acqua $p$ nel gap dipende dall'angolo $\vartheta$. Si può tuttavia assumere che la pressione dell’acqua nel gap sia costante nella direzione radiale, ossia a un angolo fisso $\vartheta$, e che la pressione idrostatica dell’acqua possa essere trascurata.
+
+2.a) Determinare un’espressione per il profilo di velocità $u(x)$ nel gap in funzione della larghezza del gap $h$, del tasso $Q$ con cui l’acqua entra nel gap e dello spessore $D$ del disco. Rappresentare graficamente la forma del profilo di velocità. (14 punti)
+
+2.b) Derivare un’espressione per la pressione dell’acqua $p(\vartheta)$ nel gap in funzione delle grandezze date, della viscosità dinamica $\eta$ dell’acqua e della pressione ambiente $p_0$. (4 punti)
+
+Ora si consideri un disco di granito con raggio $R = 50\ \text{cm}$ e spessore $D = 30\ \text{cm}$, coperto dal gap d’acqua fino a un angolo $\vartheta_\text{max} = 35^\circ$. La densità del granito è $\rho_\text{Granit} = 2{,}75\cdot10^3\ \text{kg}\ \text{m}^{-3}$ e per la viscosità dell’acqua si può assumere il valore $\eta = 1{,}0\cdot10^{-3}\ \text{Pa s}$. Il tasso con cui l’acqua entra nel gap è $Q = 3{,}0\cdot10^{-4}\ \text{m}^3\ \text{s}^{-1}$.
+
+2.c) Utilizzando i valori dati, calcolare la larghezza del gap $h$ e il sovrappressione $p(0) - p_0$ nel punto di ingresso dell’acqua. (7 punti)
+2.d) Utilizzando i tuoi risultati, giustifica che in questo caso la differenza di pressione nella direzione radiale e la pressione gravitazionale dell'acqua sono effettivamente molto piccole rispetto alla sovrappressione nel punto di ingresso dell'acqua, e che pertanto trascurare questi contributi era permesso. (5 punti)
+
 
 <div class="qlang-split" data-lang="en"></div>
 

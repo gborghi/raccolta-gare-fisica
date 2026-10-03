@@ -598,25 +598,11 @@ Qual è l'intensità di $F$ in N?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question nine. Making a trail with his bike, a cyclist descends a ramp with a
-velocidade constante de $6{,}0$ m/s. The figure below on the left, in which $H = 9{,}00$ m and $L = 12{,}0$ m, shows the ramp and the figure below on the right shows the disc braking system installed on the
-Two wheels of the bicycle. When the brake is actuated with the wheel in motion, part A applies a
-força dissipativa de intensidade $F$ no disco a uma distância média de $R = 80$ mm do eixo de
-rotation. The wheels on this bike are 700 mm in diameter, the discs are made of steel (heat)
-específico de $0{,}100\ \text{cal/g}\ ^\circ\text{C}$) e cada um tem uma massa de 150 g. The Commission has not yet taken any further action.
-too many dissipative forces. The mass of the cyclist-bicycle set is 80 kg.
-(a) Consider that 60% of the mechanical energy dissipated during descent is converted into
-heat transferred to discs (the remaining 40% is transferred to the environment by wind,
-radiation, and so on. What is the difference in the temperature of the discs in $^\circ\text{C}$?
-(b) Consider that the brake is applied to both wheels uniformly throughout the descent.
-What is the intensity of $F$ in N?
+Question 9. While riding his bicycle down a ramp, a cyclist descends at a constant speed of $6{,}0$ m/s. The figure on the left below, where $H = 9{,}00$ m and $L = 12{,}0$ m are given, shows the ramp; the figure on the right illustrates the disc brake system installed on both wheels of the bicycle. When braking is applied while the wheel is rotating, part A applies a dissipative force of magnitude $F$ at an average distance of $R = 80$ mm from the wheel's axis of rotation. In this bicycle, the wheels have a diameter of 700 mm, the discs are made of steel (specific heat capacity of $0{,}100\ \text{cal/g}\ ^\circ\text{C}$), and each disc has a mass of 150 g. Neglect the effect of all other dissipative forces. The total mass of the cyclist-bicycle system is 80 kg.
 
-**Topic:** [[Conservation of Energy]], [[Thermodynamics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Disk (object)|Disk]], [[Wheel (object)|Wheel]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1TeNe_F6s2vATPjXHNodkwWb0T5bGZAWk/view)
+(a) Assume that 60% of the mechanical energy dissipated during descent is converted into heat transferred to the discs (the remaining 40% is transferred to the environment via wind, radiation, etc.). What is the temperature change of the discs in $^\circ\text{C}$?
 
+(b) Assume that braking force is applied uniformly to both wheels throughout the descent. What is the magnitude of $F$ in N?
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Brasil 2024 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Onde e Oscillazioni"></span>

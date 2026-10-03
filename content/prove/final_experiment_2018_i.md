@@ -44,6 +44,15 @@ Determina in modo più accurato possibile il diametro $d$ del filo di tungsteno 
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Problem 1: Determination of the tungsten wire diameter (total 9 points)**
+
+Determine as accurately as possible the diameter $d$ of the tungsten wire using a laser (hint: diffraction). Carefully sketch the experimental setup (including specifications). Additionally, describe how the quantities are measured and which physical laws are applied. Determine also the uncertainty of the result. Which measurement is the main source of uncertainty?
+
+> **Hint:** The diffraction pattern produced by a thin wire is identical to that of a slit with width $d$. The tungsten wire provided does not have the same diameter as that in 6 V lamps. Use only the left side of the power supply to power the laser, absolutely include the resistor in the circuit, and do not turn the voltage regulator above 5 V!
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2018 '' — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/wire,object/resistor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -79,6 +88,15 @@ Il Consiglio: "Evitare di misurare la resistenza del filamento direttamente con 
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Problem 2: Determine the cold filament resistance (total 10 points)**
+
+Determine as accurately as possible the resistance of the filament in lamp $R$ at room temperature. Sketch the circuit diagram used to measure the resistance. Then calculate the length of the filament $l$. For this purpose, use a filament diameter of $d = 50\ \mu\text{m} \pm 1\ \mu\text{m}$ in all the following exercises. From your measurements, determine the resulting uncertainty for $R$ and finally also for $l$.
+
+> **Hint:** Avoid measuring the filament resistance directly with the ohmmeter—this would yield no meaningful result! The resistance of the connecting wires may be neglected.
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2018 '' — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/wire,object/resistor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -112,6 +130,15 @@ Il Consiglio: Hai solo tre lampadine a disposizione! Le lampadine possono essere
 **Objects:** [[Wire (object)|Wire]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1wbAScsKOe4ZIMxK1dwbK2iNB77XBmRUX/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Problem 3: Characterization of the current-voltage relationship for the filament (total 12 points)**
+
+Perform measurements aiming to draw the characteristic curve of the current-voltage relationship for the filament of the light bulb. Choose the voltage range from $0\ \text{V}$ up to the point when the bulb burns out. Sketch the circuit diagram for measuring current and voltage. Determine the maximum temperature reached by the filament, just before it melts.
+
+> **Hint:** You have only three bulbs available! The bulbs can be considered identical.
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2018 '' — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/wire"></span>
@@ -150,3 +177,14 @@ Utilizzare le misure precedenti per determinare l'emissività $k$ del filamento 
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1wbAScsKOe4ZIMxK1dwbK2iNB77XBmRUX/view)
+<div class="qlang-split" data-lang="en"></div>
+
+**Problem 4: Determination of the filament's emissivity (total 17 points)**
+
+Assume that all energy emitted by the filament occurs in the form of radiation. Furthermore, the incandescent filament may be considered a "gray body," meaning its emissivity $k$ does not depend on the emitted wavelength. Under these assumptions, the Stefan-Boltzmann law (see Chapter 2) can be applied to derive the emitted power $P$:
+
+$$P = A \cdot k \cdot \sigma \cdot T^4$$
+
+Use the previous measurements to determine the emissivity $k$ of the filament in the lamp as a function of temperature, and represent the result graphically. Discuss extensively the relationship visible in the graph.
+
+

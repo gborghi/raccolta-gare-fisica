@@ -206,6 +206,60 @@ Riadattato dalle Olimpiadi Italiane della Fisica
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 1: Mirror Nuclei (16 points)
+
+In this problem, we aim to estimate the size and density of atomic nuclei. We will denote nuclei using the notation $^A_Z X_N$, where $A = Z + N$ is the mass number of the nucleus, $Z$ the number of protons, and $N$ the number of neutrons. We assume that each nucleon (proton, neutron) is spherical and has a uniform volumetric mass $\delta$, identical for all nucleons.
+
+Additionally, we assume that each nucleon (proton, neutron) has a mass $m$ (for the purposes of this exercise, the small difference in mass—0.14%—between neutron and proton may be neglected).
+
+i. (pt) The radius $R$ of nuclei depends on the mass number $A$; it must be shown that the relationship between these two quantities is of the form: $R(A) = R_0 A^\alpha$. Find the expression for $R_0$ and the value of $\alpha$.
+
+In the remainder of the problem, we aim to derive a numerical value for $R_0$, and for this purpose a rough estimate of the electrostatic potential energy of a nucleus, $U_e$, will be needed. To this end, suppose that the charge $+Ze$ of the nucleus is uniformly distributed throughout its volume (it is evident that this approximation will be reasonable only for $Z$ sufficiently large). Consider therefore a sphere of radius $R$ with a uniformly distributed electric charge quantity $+Ze$.
+
+ii. (4 pt) Determine the electrostatic potential energy of the sphere; an expression of the form $U_e = \beta Z^2 A^\gamma$ will be obtained. Determine $\beta$ and $\gamma$.
+We say that two nuclei are specular if the relations $Z_1 = N_2$ and $Z_2 = N_1$ hold, along with the additional condition that the two elements are adjacent in the periodic table, i.e., such that $Z_2 = Z_1 + 1$; they form a pair of specular nuclei, for example,
+$^{13}_6 C_7$ and $^{13}_7 N_6$.
+
+In nuclear physics, the binding energy, $E_l$, of a nucleus is defined as the energy required to separate all the nucleons that compose it. Based on a model proposed in 1939 by Bohr and Wheeler, which regards the atomic nucleus as a liquid drop, Bethe and Weizsäcker derived a semi-empirical formula expressing the binding energy as the sum of:
+• two terms due to the strong interaction that holds nucleons together (a volume term, $a_V A$, and a surface term, $a_S A^{2/3}$);
+these terms depend only on $A$ (since the strong interaction does not distinguish between protons and neutrons) and we will denote them collectively as $F(A)$;
+• a term due to the electrostatic interaction between protons, $U_e$, calculated above; this term has a negative sign because repulsion tends to disrupt the nucleus;
+• two terms due to Pauli's exclusion principle; the first of these is directly proportional to $(A - 2Z)^2/A$; the second vanishes in our case.
+
+Therefore, finally, we can write for the specular nuclei considered here,
+$$E_l = F(A) - U_e + \eta\frac{(A - 2Z)^2}{A} \quad (1)$$ where $\eta$ is a proportionality coefficient.
+iii. (0.5 pt) It is proven that the difference in binding energy between two mirror nuclei is the opposite of their difference in electrostatic potential energy.
+
+iv. (1 pt) Write the difference in binding energy as a function of $A$, using for $U_e$ the expression derived in point ii, where, to account for the fact that repulsion occurs only for $Z > 1$, it is appropriate to substitute $Z^2$ with $Z(Z - 1)$.
+
+The following table lists various pairs of mirror nuclei for different values of the mass number. For each nucleus, the binding energy in MeV ($1\ \text{eV} = 1.602 \times 10^{-19}$ J) is indicated in parentheses.
+
+| $A$ | Nucleus 1 | Nucleus 2 |
+|---|---|---|
+| 35 | $^{35}_{17}\text{Cl}_{18}$ (298.2) | $^{35}_{18}\text{Ar}_{17}$ (291.5) |
+| 45 | $^{45}_{22}\text{Ti}_{23}$ (385.0) | $^{45}_{23}\text{V}_{22}$ (377.1) |
+| 55 | $^{55}_{27}\text{Co}_{28}$ (476.8) | $^{55}_{28}\text{Ni}_{27}$ (467.3) |
+| 65 | $^{65}_{32}\text{Ge}_{33}$ (556.0) | $^{65}_{33}\text{As}_{32}$ (545.9) |
+| 75 | $^{75}_{37}\text{Rb}_{38}$ (633.6) | $^{75}_{38}\text{Sr}_{37}$ (622.3) |
+
+v. (4 pt) Using these data, draw an appropriate graph that allows for the easy determination of $\beta$. Subsequently determine $R_0$.
+
+vi. (1.5 points) Using the value found for $R_0$, provide an estimate of the mass density (assume the mass of a nucleon to be $1.674 \times 10^{-27}$ kg) of nuclei. Additionally, provide an estimate of the charge density $[\text{C}\cdot\text{m}^{-3}]$ of nucleus $^{35}_{18}\text{Ar}_{17}$.
+
+We briefly return to the binding energy in its simplified form:
+$$E_l = a_V A - a_S A^{2/3} - \beta Z^2 A^\gamma + \eta\frac{(A - 2Z)^2}{A} \quad (2)$$
+
+There exist nuclear configurations that are more stable than others, depending on the number of nucleons contained in the nucleus.
+
+vii. (3 points) For a known mass number $A$, what is the ideal neutron-to-proton ratio $N/Z$?
+Express your result in terms of $A$, $a_V$, $a_S$, $\beta$, $\eta$ (and of $\gamma$ if you did not find its value).
+
+Adapted from the Italian Physics Olympiad
+2011
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2018 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror,object/diffraction-grating,object/slit,object/screen,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -640,6 +694,91 @@ Costanti fondamentali
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 3: Magnetic Dipoles (16 points)
+
+Part A. Gilbert Dipole (4.5 points)
+A Gilbert dipole consists of a pair of "monopoles" magnetically separated by a distance $d$ (the distance $d$ is small); both monopoles carry a magnetic charge $q_m$, but of opposite sign (see Fig. 4). In this case, the charge $-q_m$ is located at $z = 0$, and $+q_m$ at $z = d$.
+
+Fig. 4 – Gilbert Dipole
+
+Assume that magnetic monopoles behave similarly to electric monopoles, with a force of "Coulomb" type,
+$$F = \frac{\mu_0}{4\pi}\frac{q_{m1} q_{m2}}{r^2} \quad (5)$$ and a magnetic field
+$$B = \frac{F}{q_m}. \quad (6)$$.
+
+i. (1 pt) What are the dimensions of the magnetic charge $q_m$? Express your answer in SI units.
+
+ii. (2 pt) Determine the equation for the magnetic field $B(z)$ along the axis $z$, for $z > d$. Express the result in terms of $q_m$, $d$, $z$ and fundamental constants.
+
+iii. (1.5 pt) How does $B(z)$ behave when $d \to 0$? Assume that the product $q_m d \equiv p_m$ remains constant.
+Express the result in terms of $p_m$, $z$ and fundamental constants.
+
+Part B. Ampère Dipole (7.5 points)
+An Ampère dipole is a magnetic dipole generated by a circular current $I$ flowing around a circle of radius $r$, with $r$ appropriately small. Assume that the axis $z$ is the symmetry axis of the circle and that the circle lies in the plane $xy$, at $z = 0$ (see Fig. 5).
+Figure 5 – Ampère dipole i. (4 pts) Determine the equation of the magnetic field $B(z)$ along the axis $z$, for $z > 0$. Express the result in terms of $I$, $r$ and fundamental constants.
+
+Assume that the expression $kIr^\gamma$ has the same units as the quantity $q_m$ defined in part A, where $k$ and $\gamma$ are dimensionless.
+
+ii. (1 pt) Determine the value of $\gamma$.
+
+iii. (1.5 pts) How does $B(z)$ change if $r \to 0$? Assume that the expression $kIr^\gamma \equiv p'_m$ remains constant.
+Express the result in terms of $p'_m$, $z$ and fundamental constants.
+
+iv. (1 pt) Assuming from now on that the two approaches are equivalent, we then have $p_m = p'_m$. What is the value of $k$ in this case?
+
+Part C. Dipoles everywhere! (4 pts)
+Now we try to compare the two approaches by modeling a magnet as composed of densely packed microscopic dipoles.
+
+Figure 6 – A cylindrical magnet
+A cylinder made of this magnetic material has a radius $R$ and a length $L$. It consists of $N$ magnetic dipoles, which may be either Gilbert-type or Ampère-type. $N$ is to be considered very large. The rotation axis of the cylinder, as well as all dipoles, are aligned along the axis $z$; furthermore, all dipoles point in the same direction (as previously defined), so that the magnetic field outside the magnet is identical in both dipole cases, as previously determined. Figure Fig. 7 illustrates the two dipole models: they are cubes of side $d \ll R$ and $d \ll L$, with a volume $V_m = d^3$.
+
+Fig. 7 – Gilbert dipole (on the left) and Ampère dipole (on the right).
+
+First assume that $R \gg L$, and consider only Gilbert-type dipoles.
+
+i. (2 pt) Determine the magnitude and direction of the magnetic field $B$ at the center of the cylinder, in terms of $p_m$, $R$, $L$, $V_m$, and fundamental constants.
+
+Now assume that $R \ll L$, and consider only Ampère-type dipoles.
+
+ii. (2 pt) Determine the magnitude and direction of the magnetic field $B$ at the center of the cylinder, in terms of $p_m$, $R$, $L$, $V_m$, and fundamental constants.
+
+Adapted from the USA Physics Olympiad 2015.
+
+Swiss Physics Olympiad
+SwissPhO
+Aarau, March 25, 2018
+Theoretical Part 1: 6 short questions
+Duration: 60 minutes
+Total: 24 points ($3\cdot16$)
+
+Allowed materials:
+- Non-programmable calculator
+- Writing and drawing tools
+
+NB: Begin each problem on a new sheet
+Good luck!
+
+Fundamental Constants
+
+| Quantity | Symbol | Value |
+|---|---|---|
+| Speed of light in vacuum | $c$ | $299\,792\,458\ \text{m}\cdot\text{s}^{-1}$ |
+| Magnetic permeability of vacuum | $\mu_0$ | $4\pi \times 10^{-7}\ \text{kg}\cdot\text{m}\cdot\text{A}^{-2}\cdot\text{s}^{-2}$ |
+| Electric permittivity of vacuum | $\epsilon_0$ | $8.854\,187\,817 \times 10^{-12}\ \text{A}^2\cdot\text{s}^4\cdot\text{kg}^{-1}\cdot\text{m}^{-3}$ |
+| Planck constant | $h$ | $6.626\,069\,57 \times 10^{-34}\ \text{kg}\cdot\text{m}^2\cdot\text{s}^{-1}$ |
+| Elementary charge | $e$ | $1.602\,176\,565(35) \times 10^{-19}\ \text{A}\cdot\text{s}$ |
+| Gravitational constant | $G$ | $6.673\,84(80) \times 10^{-11}\ \text{m}^3\cdot\text{kg}^{-1}\cdot\text{s}^{-2}$ |
+| Earth's acceleration due to gravity | $g$ | $9.81\ \text{m}\cdot\text{s}^{-2}$ |
+| Avogadro's number | $N_A$ | $6.022\,141\,29(27) \times 10^{23}\ \text{mol}^{-1}$ |
+| Gas constant | $R$ | $8.314\,459\,8(48)\ \text{J}\cdot\text{mol}^{-1}\cdot\text{K}^{-1}$ |
+| Boltzmann constant | $k_B$ | $1.380\,648\,8(13) \times 10^{-23}\ \text{J}\cdot\text{K}^{-1}$ |
+| Stefan-Boltzmann constant | $\sigma$ | $5.670\,373(21) \times 10^{-8}\ \text{W}\cdot\text{m}^{-2}\cdot\text{K}^{-4}$ |
+| Electron mass | $m_e$ | $9.109\,382\,6(16) \times 10^{-31}$ kg |
+| Proton mass | $m_p$ | $1.672\,621\,71(29) \times 10^{-27}$ kg |
+| Neutron mass | $m_n$ | $1.674\,927\,28(29) \times 10^{-27}$ kg |
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2018 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/wire,object/spring"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -687,6 +826,24 @@ iii. Cosa può servire questo dispositivo ?
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 1: A Special Balance (4 points)
+
+Consider two parallel conducting wires, each of length $L$, attached at their ends to metal springs. Each spring has a natural (unstretched) length $l_0$ and a spring constant $k$ (see Fig. 1).
+In this problem, we neglect the effect of gravitational force.
+
+Fig. 1 – Two wires attached by two springs.
+
+A current $I$ is passed through the device.
+
+i. (0.5 pt) Briefly describe what happens before and after current begins to flow.
+
+ii. (3 pt) Determine the current $I$ required so that the total length of each spring becomes $l_1$.
+
+iii. (0.5 pt) What could this device be used for?
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2018 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/lever,object/sphere,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -728,6 +885,17 @@ Infine, il bilancio per mantenerlo in equilibrio?
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 2: Another balance (4 points)
+
+A two-arm balance is kept in equilibrium by a lead sphere ($\rho_{Pb}$ = 11.3 $\times$ 10$^3$ $\text{kg}\cdot\text{m}^{-3}$) on one side and an gold sphere ($\rho_{Au}$ = 19.3 $\times$ 10$^3$ $\text{kg}\cdot\text{m}^{-3}$) on the other side. The two arms have equal length.
+
+i. (2.5 points) The two spheres are immersed in two containers completely filled with water. On which side will the balance tilt? Justify your answer.
+
+ii. (1.5 points) What density should the liquid in the container toward which the balance tilts have, in order to keep the balance in equilibrium?
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2018 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -767,6 +935,18 @@ ii. 2 p) Supponendo che il rotolino senza scivolare ?
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 3: Marbles Track (4 points)
+
+Two marbles roll along a flat section of a marble track at the same speed $v_0$, and are initially separated by a distance $d_0$. After passing through a loop-the-loop, they find themselves in another flat region, at a height $\Delta h$ lower than before.
+
+What is now the distance between the two marbles?
+
+i. (2 points) Assuming they slide without friction?
+ii. (2 points) Assuming they roll without slipping?
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2018 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -804,6 +984,17 @@ Esprimere la risposta in funzione delle grandezze data.
 **Objects:** [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 4: Capacitors in Series (4 points)
+Figure Fig. 2 shows two parallel-plate capacitors connected in series, where the central part of length $b$ can be moved vertically. The area of each plate is $S$. A constant voltage $U$ is maintained between points A and B.
+
+Fig. 2 – Two parallel-plate capacitors.
+
+i. (4 pt) How does the energy stored in the capacitors change when the central part is removed?
+Express your answer in terms of the given quantities.
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2018 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container,object/sphere"></span>
@@ -849,6 +1040,17 @@ $$\int x^\alpha\, dx = \frac{x^{\alpha+1}}{\alpha + 1} + K, \quad \alpha \neq -1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 5: Heat flux in a spherical container (4 points)
+Inside a spherical container, a constant temperature $T_{in}$ is maintained. The inner wall is located at radius $r_{in}$. Measuring on the outer surface, at radius $r_{out} > r_{in}$, a temperature $T_{out}$ is obtained. The insulating material between the two walls has a thermal conductivity of $\lambda$.
+
+i. (4 pt) What is the value of the thermal power transfer $Q$ from inside the sphere to the outside? Express your result in terms of the provided constants, where temperatures are in [K], lengths in [m], thermal conductivity in $[\text{W/(m}\cdot\text{K)}]$, and thermal power transfer in [W].
+
+Hint:
+$$\int x^\alpha\, dx = \frac{x^{\alpha+1}}{\alpha + 1} + K, \quad \alpha \neq -1 \qquad \int x^{-1}\, dx = \ln|x| + K$$
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2018 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/star,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -887,3 +1089,15 @@ ii. (1.5 p) Calcolare la grandezza della semi-asse maggiore dell'orbita.
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Star (object)|Star]], [[Planet (object)|Planet]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 6: Exoplanet (4 points)
+Around the star Kepler-22 ($M_K = 0.97\,M_\text{Sole}$, $R_K = 0.979\,R_\text{Sole}$), an exoplanet named Kepler-22b orbits. The orbital plane of this planet is oriented such that, as seen from Earth, it passes in front of its star. During a transit, a decrease in brightness can be observed. The following graph shows the observed brightness during one such transit of Kepler-22b.
+
+i. (2.5 points) Calculate the radius $R_p$ of the planet.
+Hint: $M_\text{Sole} \approx 1.989 \times 10^{30}$ kg, $R_\text{Sole} \approx 6.955 \times 10^5$ km.
+The period $\Delta T$ between successive brightness reductions is 289.9 days.
+
+ii. (1.5 points) Calculate the semi-major axis of the orbit.
+
+

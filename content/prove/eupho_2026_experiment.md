@@ -67,6 +67,27 @@ b) Use your tool to roughly estimate the distance between two adjacent antinodes
 
 
 
+<div class="qlang-split" data-lang="it"></div>
+
+**Compito E1: Indagine del campo acustico (1.0 punti)**
+
+Un levitatore acustico è costituito da trasduttori che convertono un segnale elettrico in onde sonore intense. La pressione acustica del pattern di interferenza risultante può sollevare oggetti piccoli nelle vicinanze dei nodi del pattern.
+
+Avviso: Evitare di cortocircuitare i collegamenti sulla parte superiore e inferiore del levitatore.
+
+I compiti E1–E7 di questo esame sono progettati per essere indipendenti dai risultati degli altri. Puoi saltare i compiti con cui hai difficoltà. Per i seguenti compiti, considera soltanto i nodi sull’asse $z$. Per il compito E3 e successivi, utilizza soltanto il nodo centrale più esteso. L’interruttore Mode X sulla scatola elettrica (F) deve essere posizionato nella posizione O.
+
+**Compito E1: Indagine del campo acustico (1.0 punti)**
+
+Per familiarizzare con il campo acustico, utilizza gli LED verdi (A) e il trasduttore (B) per costruire uno strumento che emetta luce in funzione dell’intensità acustica locale. Un trasduttore è un condensatore il cui carico dipende dalla pressione meccanica applicata su di esso.
+
+a) Disegna lo schema del circuito per il tuo strumento. (0.5 punti)
+
+b) Utilizza lo strumento per stimare approssimativamente la distanza tra due antinodi adiacenti sull’asse $z$ al centro del levitatore. (0.5 punti)
+
+**Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Experiment_solution_final.pdf)
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2026 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/membrane"></span>
 
 **Task E2: Acoustic levitator properties (4.0 pts)**
@@ -88,6 +109,21 @@ Remember to return the Mode X switch to position O for the rest of the exam.
 
 
 
+<div class="qlang-split" data-lang="it"></div>
+
+**Compito E2: Proprietà dell'attrezzo per levitazione acustica (4,0 punti)**
+
+Nel seguito, per sollevare un piccolo oggetto solido, la tensione dell'alimentatore collegato può essere inizialmente impostata a un valore elevato, ad esempio $17\,\mathrm{V}$. L'oggetto può essere collocato nei nodi utilizzando le pinze. Notare che l'oggetto in levitazione può oscillare orizzontalmente a causa delle turbolenze dell'aria; attendere un momento perché le cose si stabilizzino. Piccole oscillazioni non danneggiano i risultati delle misurazioni.
+
+a) Progettare, disegnare e utilizzare un'impostazione per determinare con la massima precisione possibile la frequenza dei trasduttori. La velocità del suono nell'aria è $v \approx 340\,\mathrm{m/s}$. (2,0 punti)
+
+b) Passare il commutatore Mode X nella posizione sull'unità elettrica (F) per passare a un diverso modo di funzionamento in cui i trasduttori nella metà superiore dell'attrezzo per levitazione sono alimentati con una frequenza leggermente diversa ($f + \Delta f$) rispetto a quelli nella metà inferiore. Descrivere il comportamento modificato degli oggetti in levitazione in questo modo e determinare la differenza di frequenza $\Delta f$ e il suo segno. (2,0 punti)
+
+Ricordarsi di ripristinare il commutatore Mode X nella posizione O per il resto dell'esame.
+
+**Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Experiment_solution_final.pdf)
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="EuPhO 2026 — Sperimentale — Quesito 3" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/sphere"></span>
 
 **Task E3: Density of solid beads (3.0 pts)**
@@ -107,6 +143,21 @@ Here, $f(R)$ is some unknown function of the radius $R$ of the levitated object.
 **Fonte:** [Testo (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Experiment_ENG.pdf)
 **Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Experiment_solution_final.pdf)
 
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Compito E3: Densità delle palline solide (3,0 punti)**
+
+Gli oggetti levitati si trovano leggermente al di sotto del nodo a causa della gravità. La forza acustica di richiamo $\vec{F}$ che agisce sull'oggetto levitato è proporzionale a $P^2$, dove $P \propto U$ è l'ampiezza della pressione acustica nei antinodi e $U$ è la tensione fornita dalla sorgente di potenza.
+
+Determinare sperimentalmente con la massima precisione la densità delle palline incognite (O). La densità delle palline di vetro (P) è $\rho_{\mathrm{glass}} = 2500\,\mathrm{kg/m}^3$. Queste palline sferiche (O, P) hanno lo stesso diametro. (3,0 punti)
+
+Suggerimento: A seconda del tuo approccio, per oggetti sferici e piccole oscillazioni $\Delta\vec{z}$ rispetto al nodo, puoi utilizzare l'approssimazione
+$$\vec{F} = -f(R) P^2 \Delta\vec{z}.$$
+dove $f(R)$ è una funzione sconosciuta del raggio $R$ dell'oggetto levitato.
+
+**Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Experiment_solution_final.pdf)
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="EuPhO 2026 — Sperimentale — Quesito 4" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/droplet"></span>
@@ -139,6 +190,29 @@ b) Would you over- or underestimate the time it takes for a droplet to evaporate
 
 
 
+<div class="qlang-split" data-lang="it"></div>
+
+**Compito E4: Evaporazione (3.0 punti)**
+
+Per i compiti rimanenti, dovrai far galleggiare liquidi, che formeranno piccole gocce nei nodi. Posiziona le gocce nel levitatore usando gli siringhi (R) con aghi (S). Per evitare contaminazioni incrociate, usa uno siringo separato per ciascun liquido. Una buona tensione iniziale per la maggior parte delle dimensioni delle gocce è $8$--$12\,\mathrm{V}$; a tensioni più elevate le gocce potrebbero esplodere.
+
+Avviso: Evita di versare liquidi sugli elementi elettronici e sui trasduttori.
+
+La forma esatta delle gocce galleggianti può essere complessa. Gocce leggermente deformate possono essere approssimate come un ellissoide con semi-assi $a,b,c$, il cui volume è
+$$V = \frac{4\pi}{3} abc.$$
+
+In questo compito studierai l’evaporazione di una goccia liquida nel levitatore. Una descrizione semplificata per l’evaporazione di una goccia con diametro equivalente $D \gtrsim 1.5\,\mathrm{mm}$ è data da
+$$\frac{\mathrm{d}(D^2)}{\mathrm{d}t} = -\gamma,$$, dove $D$ è il diametro equivalente della goccia, ovvero il diametro di una sfera con lo stesso volume $V$ della goccia reale, e $\gamma$ è la costante di evaporazione.
+
+Per questo compito, considera solo il liquido I e mantieni costante la tensione.
+
+a) Determina la costante di evaporazione $\gamma$ nelle unità $\mathrm{m}^2/\mathrm{s}$ per gocce con un diametro equivalente $D \gtrsim 1.5\,\mathrm{mm}$. (2.5 punti)
+
+b) Sarebbe un sovrastima o un sottostima del tempo necessario affinché una goccia si evapori completamente, utilizzando il risultato del punto a)? (0.5 punti)
+
+**Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Experiment_solution_final.pdf)
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="EuPhO 2026 — Sperimentale — Quesito 5" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/fluid-mechanics,argomento/fluidi,object/droplet"></span>
 
 **Task E5: Surface tension (2.5 pts)**
@@ -156,6 +230,19 @@ b) Experimentally determine the surface tension of liquid I, given that the surf
 **Fonte:** [Testo (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Experiment_ENG.pdf)
 **Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Experiment_solution_final.pdf)
 
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Problema E5: Tensione superficiale (2.5 punti)**
+
+La forma della goccia dipende soltanto dal suo volume $V$ e dal rapporto $P^2/\sigma$. Qui, $\sigma$ è la tensione superficiale del liquido.
+
+a) Eseguire una misurazione per determinare quale liquido, I o II, ha una tensione superficiale più bassa. (0.5 punti)
+
+b) Determinare sperimentalmente la tensione superficiale del liquido I, noto che quella del liquido II è $0.073\,\mathrm{N/m}$. (2.0 punti)
+
+**Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Experiment_solution_final.pdf)
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="EuPhO 2026 — Sperimentale — Quesito 6" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/droplet"></span>
@@ -181,6 +268,22 @@ b) Estimate the maximum diameter of a droplet that can be levitated. (2.0 pts)
 
 
 
+<div class="qlang-split" data-lang="it"></div>
+
+**Problema E6: Esplosione (4,0 punti)**
+
+Quando la pressione acustica è troppo elevata, la goccia levitante esplode. Una formula teorica per la massima tensione che può essere applicata alla goccia prima dell'esplosione è
+$$U_{\max} = \frac{\sqrt{\alpha}}{D} + \beta,$$ dove $\alpha$ e $\beta$ sono delle costanti.
+
+Per questo problema, considera soltanto il liquido II.
+
+a) Determina le costanti $\alpha$ e $\beta$ nelle unità $\mathrm{V}^2\cdot\mathrm{mm}$ e $\mathrm{V}^2$, rispettivamente. (2,0 punti)
+
+b) Stimare il diametro massimo di una goccia che può essere levitata. (2,0 punti)
+
+**Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Experiment_solution_final.pdf)
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="EuPhO 2026 — Sperimentale — Quesito 7" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/geometric-optics,argomento/ottica,object/droplet"></span>
 
 **Task E7: Mysterious line (2.5 pts)**
@@ -199,3 +302,20 @@ Hint: For the line to be visible, the LED must be well aligned with the droplet.
 **Objects:** [[Droplet (object)]]
 **Fonte:** [Testo (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Experiment_ENG.pdf)
 **Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Experiment_solution_final.pdf)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**Compito E7: Linea misteriosa (2,5 punti)**
+
+Quando la goccia levitante diventa piuttosto piatta, si può trovare una tensione del levitatore per cui la luce proveniente dal LED rosso che attraversa la goccia forma una linea orizzontale netta sullo schermo dietro.
+
+Per questo compito, considera soltanto il liquido III.
+
+Disegna uno schizzo della propagazione dei raggi all'interno della goccia quando si osserva la linea. Utilizza il fenomeno della linea descritto sopra per stimare l'indice di rifrazione $n$ del liquido III. (2,5 punti)
+
+Suggerimento: perché la linea sia visibile, il LED deve essere ben allineato con la goccia.
+
+**Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Experiment_solution_final.pdf)
+
+

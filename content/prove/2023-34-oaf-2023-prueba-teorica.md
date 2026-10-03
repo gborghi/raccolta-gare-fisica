@@ -203,95 +203,70 @@ era de esperar.
 <div class="qlang-split" data-lang="it"></div>
 
 P1. Fisica sul treno.
-Albert Einstein e la sua seconda moglie hanno visitato la Spagna tra marzo e marzo.
-Aprile 1923, quando era già pubblico che gli erano stati concessi il premio
-Il Nobel di fisica. Il suo arrivo in treno a Barcellona è stato pittoresco, perché
-Si dimenticò di segnalare con quale treno arrivarono, così non c'era nessuno che li aspettava.
-- La stazione. Fortunatamente, all'arrivo a Saragozza, il 12 marzo,
-fu accolto come meritava un genio del suo livello.
-I lunghi viaggi in treno dell'epoca sicura che permettevano di
-Einstein meditare sulle sue teorie. Infatti, uno dei suoi esperimenti
-e che gli ha aiutato a dedurre la sua teoria della relatività,
-È legato a un treno e a un raggio di luce.
-Se avete l'occasione di viaggiare in treno, potete fare il seguente:
-Esperimento: Immaginate un pendolo appeso all'interno del treno. Se il treno
-Se il pendolo è fermo, rimane in posizione di equilibrio (Fig. 1a).
-Al contrario, quando il treno parte, il pendolo si muove
-misteriosamente a causa dell'inerzia (Fig. 1b).
 
-a) Indica in che direzione il treno sta accelerando.
-Considera che il treno si muove a costante accelerazione, $a$, e il
-il pendolo ha una lunghezza $L$ e una massa $m$.
+Albert Einstein e sua seconda moglie visitarono la Spagna tra marzo e aprile del 1923, quando ormai era di pubblico dominio che gli era stato assegnato il premio Nobel per la Fisica. Il loro arrivo in treno a Barcellona fu pittoresco, poiché dimenticarono di avvisare su quale treno arrivassero, con il risultato che non c’era nessuno ad aspettarli alla stazione. Per fortuna, all'arrivo a Saragozza il 12 marzo, fu ricevuto come si conveniva a un genio del suo livello.
 
-b) Disegna il diagramma del corpo libero del pendolo, cioè le forze
-che agiscono su di lui.
+I lunghi viaggi in treno dell’epoca probabilmente diedero ad Einstein l’opportunità di riflettere sulle sue teorie. Infatti, uno dei suoi esperimenti mentali più famosi, che lo aiutò a dedurre la sua teoria della relatività, è legato a un treno e a un raggio di luce.
 
-c) Calcola il rapporto tra l'accelerazione del treno, $a$, e l'angolo di inclinamento del pendolo, $\theta$.
+Se hai occasione di viaggiare in treno puoi effettuare il seguente esperimento: immagina un pendolo appeso all’interno del treno. Se il treno è fermo, il pendolo rimarrà nella sua posizione di equilibrio (Fig. 1a).
+Al contrario, quando il treno partirà, il pendolo si muoverà “misteriosamente” a causa dell’inerzia (Fig. 1b).
 
-Questo semplice sistema può essere utilizzato1 per calcolare la distanza tra due stazioni ferroviarie, supponendo che
-che il movimento del treno è composto dalla concatenamento di molteplici movimenti rettilini
-l'accelerazione per ciascuno di essi dall'angolo che forma l'angolo
-pendolo con la verticale.
-Immaginiamo che il treno parte dal riposo e misuriamo l'angolo medio in intervalli di 10 secondi,
-considerando che l'accelerazione è praticamente costante nell'intervallo. Noi otteniamo
-i seguenti valori:
+a) Indica in che senso sta accelerando il treno.
+
+Considera che il treno si muove con accelerazione costante, $a$, e che il pendolo ha una lunghezza $L$ e massa $m$.
+
+b) Disegna il diagramma di corpo libero del pendolo, ossia le forze che agiscono su di esso.
+
+c) Calcola il rapporto tra l’accelerazione del treno, $a$, e l’angolo di inclinazione del pendolo, $\theta$.
+
+Questo semplice sistema può essere utilizzato per calcolare la distanza tra due stazioni ferroviarie, supponendo che lo spostamento del treno sia composto dalla concatenazione di numerose fasi di moto rettilineo uniformemente accelerato e determinando l'accelerazione per ciascuna di esse a partire dall'angolo formato dal pendolo con la verticale.
+
+Immaginiamo che il treno sia parte da fermo e misuriamo l'angolo medio in intervalli di 10 secondi, assumendo che l'accelerazione rimanga praticamente costante nell'intervallo. Otteniamo i seguenti valori:
 
 | $t_i - t_f$ (s) | 0-10 | 11-20 | 21-30 | 31-40 | 41-50 |
 | --- | --- | --- | --- | --- | --- |
 | $\theta$ ($^\circ$) | 3 | 5 | 7 | 6 | 4 |
 
-d) Calcola la distanza percorsa durante i 50 secondi.
+d) Calcola la distanza percorsa dal treno nei 50 secondi.
 
-Quando il treno viaggia a costante accelerazione, $a$, separamo leggermente il pendolo dalla sua posizione di
-equilibrio.
+Quando il treno si muove con accelerazione costante, $a$, il pendolo si sposta leggermente rispetto alla sua posizione di equilibrio.
 
-e) Calcola il periodo di oscillazione risultante intorno alla posizione di equilibrio.
+e) Calcola il periodo dell'oscillazione risultante intorno alla posizione di equilibrio.
 
-A partire da un certo momento il treno si muove a velocità costante.
+A partire da un certo istante, il treno si muove con velocità costante.
 
-f) Calcola in questo caso il periodo di oscillazione intorno alla posizione di equilibrio.
+f) Calcola in questo caso il periodo dell'oscillazione intorno alla posizione di equilibrio.
 
-1 Claire Tham et al. "Using a Simple Pendulum to Calculate the Distance Between Two Train Stations", The Physics Teacher 60,
-La Commissione ha adottato una decisione che prevede che il Consiglio europeo di sicurezza possa prendere decisioni in merito a tali decisioni.
+1 Claire Tham et al. "Using a Simple Pendulum to Calculate the Distance Between Two Train Stations", The Physics Teacher 60, 748-751 (2022) https://doi.org/10.1119/5.0043205
 
 P1. Soluzione
 
-a) La massa sospesa del pendolo tende a rimanere a riposo a causa dell'inerzia
-mentre il treno accelera, essendo la componente della tensione della corda in
-direzione orizzontale che lo fa muoversi in solidarietà con il treno. Pertanto, come
-mostra la figura. 2, il treno sta accelerando a destra.
+a) La massa appesa del pendolo tende a rimanere in quiete per effetto dell'inerzia mentre il treno accelera, essendo la componente della tensione del filo nella direzione orizzontale quella che lo fa muovere solidamente con il treno. Pertanto, come mostrato in Figura 2, il treno sta accelerando verso destra.
 
-b) Le uniche forze reali che agiscono sul pendolo sono il peso,
-$m\vec{g}$, y la
-tensione della corda,
-$\vec{T}$, con cui il diagramma di corpo libero sarebbe rimasto come
-mostra la figura 2.
+b) Le uniche forze "reali" che agiscono sul pendolo sono il peso, $m\vec{g}$, e la tensione del filo, $\vec{T}$; pertanto il diagramma delle forze sul corpo libero risulterà come mostrato in Figura 2.
 
-c) Applicando la seconda legge di Newton, abbiamo
+c) Applicando la seconda legge di Newton, otteniamo
 
 $$\vec{F} = m\sum \vec{a} \quad (1)$$
 
-Se si decompone in assi orizzontali, $x$, e verticali, $y$, si ottiene
+Scomponendo lungo gli assi orizzontale, $x$, e verticale, $y$, otteniamo
 
 $$\begin{cases} T\cos\theta - mg = 0 \\ T\,\text{sen}\,\theta = ma \end{cases} \quad (2)$$
 
-Da dove possiamo chiarire $a$ in funzione di $\theta$,
+Da cui possiamo ricavare $a$ in funzione di $\theta$,
 
 $$a = g\,\text{tg}\,\theta \quad (3)$$
 
-d) Lo spazio percorso in ogni tratto sarà dato dall'equazione di spostamento in movimento
-accelerato uniformemente,
+d) Lo spazio percorso in ciascun tratto sarà dato dall'equazione del moto uniformemente accelerato,
 
 $$x_i = v_{0,i}\,\Delta t_i + \tfrac{1}{2} a_i\,\Delta t_i^2 \quad (4)$$
 
-Per ogni tratto dobbiamo sapere la velocità iniziale, che verrà data dall'accelerazione e dalla velocità
-iniziale del precedente tratto
+Per ciascun tratto dobbiamo conoscere la velocità iniziale, che sarà determinata dall'accelerazione e dalla velocità iniziale del tratto precedente
 
 $$v_{0,i+1} = v_{0,i} + a_i\,\Delta t_i \quad (5)$$
 
-con
-$v_{0,1} = 0$, poiché il treno parte dal riposo.
-Da queste equazioni (3), (4) e (5) si ottiene
+con $v_{0,1} = 0$, poiché il treno parte da fermo.
+A partire dalle equazioni (3), (4) e (5) otteniamo
 
 | $i$ | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -301,86 +276,68 @@ Da queste equazioni (3), (4) e (5) si ottiene
 | $v_{0,i}$ (m/s) | 0 | 5,1 | 13,7 | 25,7 | 36,0 |
 | $x_i$ (m) | 25,5 | 94,0 | 197,0 | 308,5 | 394,5 |
 
-Quindi il totale dello spazio percorso nei primi 50 secondi sarà
+Così lo spazio totale percorso nei primi 50 secondi sarà
 
 $$x = \sum_{i=1}^{5} x_i = 1019{,}5\ \text{m} \quad (6)$$
 
-e) In un pendolo che è solo sottoposto all'accelerazione della gravità, il periodo di oscillazione è dato da
+e) Nel caso di un pendolo soggetto soltanto all'accelerazione di gravità, il periodo di oscillazione è dato da
 
 $$P_0 = 2\pi\sqrt{\frac{L}{g}} \quad (7)$$
 
-Un osservatore montato sul treno è un osservatore non inerziale (si muove a velocità non costante).
-Quando si parte il treno con una certa accelerazione
-$\vec{a}$, l'osservatore montato sul treno vede che il pendolo si
-inclina senza che apparentemente non agisca alcuna forza su di lui, quindi decide
-inventare una forza indietro,
-$\vec{F}_i = -m\vec{a}$, che definisce la forza di
-Inerzia (Fig. 3).
-Questa è la misteriosa forza che sembra spingerci indietro quando
-Siamo in un treno ad alta velocità. Ma questa forza è immaginaria, non esiste. Visto
-da un osservatore inertile esterno, fissato al pavimento della strada, ciò che accade è
-che il treno accelera mentre il passeggero tende a mantenere la velocità
-costante. Per questo il passeggero deve aggrapparsi alla barra del treno per non
-restare indietro rispetto al treno, e quindi cadere a terra.
-Per l'osservatore che viaggia in treno il pendolo è in equilibrio, quindi
-che il diagramma delle forze sul pendolo sarebbe quello mostrato nella figura 3,
-Quindi
+Un osservatore montato sul treno è un osservatore non inerziale (si muove con velocità non costante).
+All'accensione del treno con una certa accelerazione
+$\vec{a}$, l'osservatore montato sul treno osserva che il pendolo si inclina senza che su di esso apparentemente agisca alcuna forza, per cui decide di inventarsi una forza indietro,
+$\vec{F}_i = -m\vec{a}$, che denomina "forza d'inerzia" (Fig. 3).
+Questa è la misteriosa forza che sembra spingerci indietro quando viaggiamo su un treno che accelera. Ma questa forza è fittizia, non esiste. Vista da un osservatore inerziale esterno, fisso al suolo della strada, ciò che avviene è che il treno accelera mentre il passeggero tende a mantenere una velocità costante. Per questo motivo, il passeggero deve aggrapparsi alla sbarra del treno per non rimanere indietro rispetto al treno, e quindi cadere sul pavimento.
+Per l'osservatore che viaggia sul treno, il pendolo è in equilibrio, per cui il diagramma delle forze sul pendolo sarebbe quello mostrato in figura 3, tale che
 
 $$\vec{T} = m(\vec{g} - \vec{a}) \quad (8)$$
 
-L'osservatore non inerziale interpreta che il pendolo si orienta in direzione di una gravità
-apparece
-$\vec{g}\,'$, mostrato in figura 3, dato da
+L'osservatore non inerziale interpreta che il pendolo si orienta nella direzione di una gravità
+"apparente"
+$\vec{g}\,'$, mostrata in figura 3, data da
 
 $$\vec{g}\,' = \vec{g} - \vec{a} \quad (9)$$
 
-Per analogia con l'espressione (7) sottoposta a questa gravità apparente, separandola leggermente dalla
-posizione di equilibrio il pendolo oscilla con un periodo
+Per analogia con l'espressione (7), soggetto a questa "gravità apparente", allontanandolo leggermente dalla posizione di equilibrio, il pendolo oscilla con un periodo
 
 $$P = 2\pi\sqrt{\frac{L}{g'}} \quad (10)$$
 
-A partire da (9) si ottiene il modulo della gravità apparente,
-$g'$,
+Dalla (9) otteniamo il modulo dell'accelerazione gravitazionale apparente,
+
+$g'$
 
 $$g' = \sqrt{g^2 + a^2} \quad (11)$$
 
-E sostituendo $a$ con l'espressione ottenuta in (3),
+Sostituendo $a$ con l'espressione ottenuta in (3),
 
 $$g' = \sqrt{g^2 + (g\,\text{tg}\,\theta)^2} = g\sqrt{1 + (\text{tg}\,\theta)^2} = \frac{g}{\cos\theta} \quad (12)$$
 
-Quindi il periodo del pendolo che si muove con l'accelerazione $a$ viene dato da
+Così il periodo del pendolo che si muove con accelerazione $a$ è dato da
 
 $$P = 2\pi\sqrt{\frac{L\cos\theta}{g}} \quad (13)$$
 
-f) Se il treno si muove a velocità costante, un osservatore montato sul treno sarà un osservatore
-Inerziale e quindi applicherà le leggi di Newton come se fosse a riposo. Il periodo di
-il pendolo sarà il dato per l'espressione (7).
+f) Se il treno si muove con velocità costante, un osservatore a bordo del treno è un osservatore inerziale e pertanto applicherà le leggi di Newton come se fosse fermo. Di conseguenza, il periodo del pendolo sarà quello dato dall'espressione (7).
 
 $$P_0 = 2\pi\sqrt{\frac{L}{g}}$$
 
-Si può verificare che questa espressione coincida con la (12) quando
+Si può verificare che questa espressione coincide con la (12) quando
 $a = 0$ (e quindi
-$\theta = 0$), come
-Era da aspettare.
+$\theta = 0$), come ci si aspettava.
 
 <!--fig:start-->
 ![[_attachments/2023 34 OAF 2023 PRUEBA TEORICA/2023 34 OAF 2023 PRUEBA TEORICA_p2_f1.png]]
-*Pendila sul treno fermo e in frenata*
+*Pendolo nel treno fermo e accelerante*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2023 34 OAF 2023 PRUEBA TEORICA/2023 34 OAF 2023 PRUEBA TEORICA_p3_f2.png]]
-*Diagramma corpo libero pendolo (Fig. 2) *
+*Diagramma corpo libero pendolo (Fig 2)*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2023 34 OAF 2023 PRUEBA TEORICA/2023 34 OAF 2023 PRUEBA TEORICA_p4_f3.png]]
-*FBD pendolo con forza d'inerzia (Fig. 3)*
+*FBD pendolo con forza d'inerzia (Fig 3)*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1UaxomltixM7jARUskPOIsQLA3pL8aVw6/view)
 
 <div class="qlang-split" data-lang="en"></div>
 

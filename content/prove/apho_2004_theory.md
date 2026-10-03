@@ -41,27 +41,19 @@ Note: The mass of the spring is negligible and the astronaut is floating.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Misura la massa nello stato senza peso**
+**Misurare la massa nello stato di assenza di peso**
 
-Nella sonda spaziale che orbita intorno alla Terra, c'è uno stato di assenza di peso, in modo che non si possa usare strumenti ordinari per misurare il peso e quindi dedurre la massa dell'astronauta. Skylab 2 e alcune altre astronavi sono dotati di un dispositivo di misurazione della massa del corpo che consiste in una sedia attaccata ad una estremità di una molla. L'altra estremità della molla è attaccata a un punto fisso della sonda spaziale. L'asse della molla passa attraverso il centro di massa dell'imbarcazione. La costante di forza (durezza) della molla è $k = 605.6 \ \text{N/m}$.
+Nelle navicelle spaziali in orbita attorno alla Terra si ha uno stato di assenza di peso, per cui non è possibile usare strumenti comuni per misurare il peso e quindi dedurre la massa dell'astronauta. Skylab 2 e alcune altre navicelle spaziali sono dotate di un Dispositivo per la Misura della Massa del Corpo, che consiste in una sedia fissata a un'estremità di una molla. L'altra estremità della molla è fissata a un punto fisso della navicella. L'asse della molla passa per il centro di massa della navicella. La costante elastica (la rigidità) della molla è $k = 605.6 \ \text{N/m}$.
 
-**1.** When the craft is fixed on the pad, the chair (without person) oscillates with the period $T_0 = 1.28195 \ \text{s}$.
+**1.** Quando la navicella è ferma sul banco di prova, la sedia (senza persona) oscilla con il periodo $T_0 = 1.28195 \ \text{s}$.
 
-Calcolare la massa $m_0$ della sedia. * [2 pts] *
+Calcolare la massa $m_0$ della sedia. *[2 punti]*
 
-**2.** When the craft orbits the Earth the astronaut straps himself into the chair and measures the period $T'$ of the chair oscillations. Ottiene $T' = 2.33044 \ \text{s}$, quindi calcola approssimativamente la sua massa. Sente qualche dubbio e cerca di trovare il vero valore della sua massa. Misura di nuovo il periodo di oscillazione della sedia (senza persona) e trova $T_0' = 1.27395 \ \text{s}$.
+**2.** Quando la navicella orbita attorno alla Terra, l'astronauta si sistema sulla sedia e misura il periodo $T'$ delle oscillazioni della sedia. Ottiene $T' = 2.33044 \ \text{s}$, quindi calcola in modo approssimato la sua massa. Si sente però insicuro e cerca di trovare il valore esatto della sua massa. Effettua nuovamente la misura del periodo di oscillazione della sedia (senza persona) e ottiene $T_0' = 1.27395 \ \text{s}$.
 
-Qual è il vero valore della massa dell'astronauta e della massa dell'astronauta? * [4 pts] *
+Qual è il valore esatto della massa dell'astronauta e della massa della navicella? *[4 punti]*
 
-Nota: la massa della sorgente è trascurabile e l'astronauta galleggia.
-
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/14M5FHgQIszdvVNrL5F14Hk6yMLeYUF8e/view)
-
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Hooke's Law (metodo)|Hooke's Law]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Significant Figures (competenza)|Significant Figures]]
-**Objects:** [[Spring (object)|Spring]], [[Satellite (object)|Satellite]]
-
+Nota: La massa della molla è trascurabile e l'astronauta è in sospensione.
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="APhO 2004 — Teorica — Quesito 2" data-tags="kg/prova,paese/Asia,comp/APhO,topic/geometric-optics,argomento/ottica,difficolta/5,multidisciplina/mono,object/pipe-tube"></span>

@@ -84,6 +84,35 @@ In questo lavoro dovrete studiare un macchinista serio. Per l'esecuzione di un c
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**9th Grade — Problem No. 1: The Long Box**
+
+**Attention!** Before starting the experiment, study its description and record your setup number! This problem requires estimation of uncertainties!
+
+**Equipment:** a mechanical "gray box", 50 cm ruler, balance scale, five M4 nuts, paper clip, graph paper with coordinate grid for plotting graphs.
+
+The mechanical "gray box" consists of a housing and a shaft, with 20 M4 nuts tightly screwed onto one end of the shaft. The shaft is pivotally connected to the housing via a threaded bushing.
+
+*It is strictly forbidden to turn the nuts on the shaft!*
+
+To reduce the length of the protruding part, carefully rotate the shaft clockwise; to increase it, turn counterclockwise. When rotating the shaft clockwise or counterclockwise, you will reach a limiting position (stop), which is felt as noticeable resistance or complete inability to continue rotating. **After reaching the stop in either direction, it is forbidden to continue rotating the shaft further in that same direction.**
+
+In this experiment you are required to investigate the mechanical "gray box". When performing the tasks, use the following notations:
+- $y$ — current distance from the protruding end of the shaft to the outer wall of the housing;
+- $b$ — distance from the outer wall of the housing to the axis of rotation of the bushing;
+- $a$ — distance from the center of mass of the shaft with nuts to the edge of the protruding part;
+- $L$ — length of the shaft;
+- $M$ — mass of the shaft with nuts.
+
+**Tasks:**
+
+1. Determine $b$ — the distance from the outer wall of the box to the axis of rotation of the bushing.
+2. Determine $M$ — the mass of the bolt with nuts.
+3. Determine $a$ — the distance from the center of mass of the bolt with nuts to the edge of the protruding part.
+4. Determine $L$ — the length of the bolt.
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="[VsOSh 2025 Final Experimental] — Problema 2" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/resistor,object/switch"></span>
 
 <div class="qlang-switch" data-default="ru"></div>
@@ -149,6 +178,35 @@ Il tok attraverso il serïýýýýýýýýýk è determinato attraverso la tensi
 **Objects:** [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1HBeIkDOcbE22XejgCjP3kR5mfI_fQoJo/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Grade 9 — Problem No. 2: "Three Times Two"**
+
+**Equipment:** A gray box, a power supply, a voltmeter (multimeter with probes), a resistor with known resistance $R = (430 \pm 5)\ \text{Ом}$, a potentiometer, a breadboard, 8 connecting wires, 2 alligator-to-alligator cables, labels, graph paper with scale and coordinates for plotting graphs.
+
+The gray box contains two resistors of resistance $R_1$ and $R_2$, a nonlinear element (NЭ), and two switches — $K_1$ and $K_2$. The polarity of the power supply $U_0$ connected to the gray box is indicated on the diagram (Figure 1). The internal resistance of the power supply and the resistance of connecting wires may be neglected. Consider the voltmeter to be ideal.
+
+**Warning!**
+1. Under no circumstances short-circuit the power supply (do not connect points B and C) or directly connect the gray box to the power source (do not connect points A and C). To apply voltage to the gray box, connect in series with it at point A the provided resistor $R$.
+2. The multimeter may only be used in voltmeter mode. Using the ohmmeter or ammeter modes is strictly prohibited.
+
+Schematic of the gray box: switch $K_1$ and nonlinear element NЭ are connected between points $K_1$ (terminal) and $B$; resistors $R_1$ and $R_2$ are connected between points $A$ and $B$; switch $K_2$ is located between point $A$ and $C$; power supply $U_0$ is connected between $B$ (positive) and $C$ (negative).
+
+**Tasks:**
+
+1. Determine the voltage of the source $U_0$.
+
+2. Experimentally determine the volt-ampere characteristic (VAC) of the gray box for all four positions of the switch, using the measurement circuit. Plot the VAC graphs. For linear dependencies, use no fewer than 7 points; for nonlinear ones, use at least 11. It is allowed to plot several dependencies on one graph provided they are clearly labeled.
+
+3. Determine whether the switches inside the gray box are closed in the left position (toward terminal A) or in the right position (toward terminals B and C), and whether they are open in the other. Justify your answer. Do not rely on the ON/OFF labeling on the switches.
+
+4. Find the resistance values of resistors $R_1$ and $R_2$. Estimate the uncertainties in the determined resistance values.
+
+5. Plot the VAC of the nonlinear element. No uncertainty estimation is required in this part.
+
+The current through the gray box is determined from the voltage across a known resistor: $I = U_R / R$.
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="[VsOSh 2025 Final Experimental] — Problema 3" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/rope-string"></span>
@@ -226,6 +284,41 @@ $$\left(\frac{L-s}{H}\right)^2 - 1 = 2\mu \cdot \frac{s}{H}$$
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**10th Grade — Problem No. 1. The Catenary**
+
+**Equipment:** a metal chain of mass $m = (10{,}7 \pm 0{,}2)\ \text{г}$; a measuring tape; a plywood board (‘working surface’); a stand with clamp and holder, in which the chain attachment is fixed; two sheets of millimeter paper for plotting graphs.
+
+**Task.** Place the provided chain on the horizontal white surface of the plywood board (the ‘working surface’) as shown in Figure 1: $H$ — the height of the chain’s attachment point above the working surface, $s$ — the length of the horizontal segment of the chain in equilibrium when the free end is maximally distant from the stand. Both parts of the chain (horizontal and hanging) must lie in one vertical plane passing through the attachment point. Ensure that the chain is not twisted and has no knots.
+
+The chain may be considered uniform. Acceleration due to gravity $g = (9{,}80 \pm 0{,}05)\ \text{м/с}^2$.
+
+*Do not detach the chain from the stand’s clamp or move the stand!*
+
+**Tasks:**
+
+1. Measure the length of the provided chain $L$. Estimate the uncertainty of the obtained value.
+
+2. Experimentally investigate the dependence of the length $s$ of the horizontal part of the chain on the height $H$ of its suspension point above the working surface. Record at least 15 data points.
+
+3. Derive a theoretical formula relating $H$, $s$ and $\mu$ — the coefficient of sliding friction between the chain links and the working surface.
+
+4. Using the experimental data obtained in point 3 and the result from point 3, construct a graph connecting $s$ and $H$. Choose the variables to be plotted on the axes so that the resulting graph is a straight line.
+
+5. Using the graph constructed in point 4, determine the coefficient of friction $\mu$ between the chain links and the working surface. Estimate the uncertainty of the obtained value.
+
+6. Using the experimental values from point 2 and applying extrapolation, construct a graph of $(L - s)$ versus $H$ over the entire range of $H \in [0;\ L]$.
+
+7. Using the graph obtained in point 6, calculate the work $A$ done by the force acting on the chain from the suspension point during a slow lifting of the suspension point from height $H_1 = 30{,}0\ \text{см}$ to height $H_2 = L$. Estimate the uncertainty of the obtained value. In this point, assume that during motion the suspension point moves strictly vertically.
+
+Theoretical relation between $H$, $s$ and $\mu$ (for derivation):
+$$H = \sqrt{(L-s)^2 + \mu^2 s^2} - \mu s$$
+
+Linearized form:
+$$\left(\frac{L-s}{H}\right)^2 - 1 = 2\mu \cdot \frac{s}{H}$$
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="[VsOSh 2025 Final Experimental] — Problema 4" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/resistor,object/switch"></span>
 
 <div class="qlang-switch" data-default="ru"></div>
@@ -285,6 +378,28 @@ Vigilanza!
 **Objects:** [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1HBeIkDOcbE22XejgCjP3kR5mfI_fQoJo/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**10th Grade — Problem No. 2: Three Times Two**
+
+**Equipment:** a gray box, power supply, voltmeter (multimeter with probes), resistor with known resistance $R = (430 \pm 5)\ \text{Ом}$, potentiometer, breadboard, 8 connecting wires, 2 alligator-to-alligator cables, millimeter paper for plotting graphs.
+
+The gray box (circuit shown in Fig. 1) contains two resistors with resistances $R_1$ and $R_2$, a nonlinear element (NE), and two switches — $K_1$ and $K_2$. The polarity of the power supply $U_0$ connected to the gray box is indicated in the figure. The internal resistance of the power supply and the resistance of connecting wires may be neglected. Consider the voltmeter to be ideal. The relative error of the voltmeter is 1%.
+
+**Attention!**
+1. Under no circumstances short-circuit the power supply (do not connect points B and C) or directly connect the gray box to the power supply (do not connect points A and C). To apply voltage, connect in series with point A the resistor $R$.
+2. Note that a large current through the potentiometer may damage it.
+3. Be aware that the labels «ON»/«OFF» on switches $K_1$ and $K_2$ do not necessarily correspond to closed/open positions.
+4. The multimeter may only be used in voltmeter mode.
+
+**Tasks:**
+
+1. Determine the voltage of the source $U_0$.
+2. Determine whether the switches in the gray box are closed or open in the left position (toward terminal A) and in the right position (toward terminals B and C). Justify your answer.
+3. Find the resistance values of resistors $R_1$ and $R_2$. Graph plotting is not required in this part.
+4. Perform measurements and construct the volt-ampere characteristic of the nonlinear element. Error estimation is not required in this part.
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="[VsOSh 2025 Final Experimental] — Problema 5" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/diffraction-grating,object/slit"></span>
@@ -463,3 +578,82 @@ Questa dipendenza è chiamata spettro di una immagine differenziale.
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
 **Objects:** [[Diffraction Grating (object)|Diffraction Grating]], [[Slit (object)|Slit]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1HBeIkDOcbE22XejgCjP3kR5mfI_fQoJo/view)
+<div class="qlang-split" data-lang="en"></div>
+
+**Grade 11 — Problem No. 1: 532 nm**
+
+**Attention!** In this problem, error estimation is not required in parts where it is not explicitly specified.
+
+**Equipment:** an infrared LED with a built-in current-limiting resistor, a photodiode with a built-in current-limiting resistor enclosed in an opaque housing, a green laser pointer, a 9 V "Krona" battery, two AA batteries, an AA battery holder, connecting wires, a 500 Ω variable resistor, two multimeters, two 15 cm rulers, two 50 cm rulers, long/medium/short aluminum profiles, three C-clamps, two 41 mm-wide paper clips, four 25 mm-wide paper clips, a diffraction grating with 500 lines/mm, a cuvette containing potassium permanganate solution, modeling clay, a paper protractor, black electrical tape, scissors.
+
+**Setup.** Assemble the circuit for measuring the photodiode's photocurrent: connect one of the multimeters in ammeter mode in series with the "Krona" 9 V battery, and close the circuit using the photodiode connected in reverse polarity. Also assemble the LED power supply circuit using two AA batteries. **Do not connect the LED to the "Krona" 9 V battery!** For verification: the current through the LED $I > 20\ \text{мА}$; when placing the LED inside the photodiode's housing, the current through the photodiode increases to at least 100 μA.
+
+Place two 50 cm long rulers on a long profile, clamp the profile with the rulers to the table using clothespins. Fix a photodiode and an LED on a 15 cm long ruler, which in turn is attached to the aluminum profile. Assemble the setup so that direct light from the window does not fall onto the photodiode surface.
+
+The I-V characteristic of the photodiode in reverse bias reaches saturation at voltage $\sim 2\ \text{В}$—exactly this photocurrent $I_\text{ph}$ is measured in the problem.
+
+---
+
+**Part 1. Linearity of the Photodetector**
+
+1.1. Measure the dependence of the photodiode's photocurrent on the distance $r$ between the photodiode surface and the nearest point of the LED. The active surface of the photodiode and the lens of the LED must be at the same horizontal level.
+
+1.2. Disconnect the power circuit for the LED. Measure the background current of the photodiode with accuracy not less than 5%. Estimate the measurement uncertainty. If necessary, modify the measurement setup.
+
+1.3. Check whether the photodiode current is proportional to the intensity of light incident on it. To do this, plot the measured dependence in a linearized form and draw an appropriate conclusion.
+
+---
+
+**Part 2. Linearity of the LED**
+
+Place the LED directly against the photodiode. Modify the LED power circuit so that it becomes possible to vary the current through the LED from 0 to $I_\text{max}$.
+
+2.1. Measure the dependence of the current through the photodiode on the current through the LED.
+
+2.2. Construct the graph of the measured dependence. Draw a conclusion: can it be considered that the graph is described by direct proportionality over the entire range of measurements?
+
+---
+
+**Part 3. Directional Diagram of the LED**
+
+Position the LED at the edge of a long aluminum profile so that the lens apex of the LED lies in the same vertical plane as the end face of the profile. Place the photodiode at the same height as the LED, fixing it on the middle profile so that the sensitive surface of the photodiode is located 5 cm from the end face of the middle (in length) profile. Assemble a goniometer using two segments of the profile.
+
+3.1. Apply voltage to the LED from two AA batteries. By changing the relative position of the photodiode and the LED, measure the dependence of the photodiode current on the angle $\varphi$ between the LED axis and the line connecting the LED apex and the central point of the photodiode's sensitive surface.
+
+3.2. Construct the graph of the measured dependence. Determine the angle corresponding to a fivefold decrease in photodiode current.
+
+---
+
+**Part 4. Emission Spectrum of the LED**
+
+Cover the diffraction grating with tape so that only a vertical slit approximately 2 mm wide remains. Place the LED at a distance of 5 cm from the end face of the long profile. Install the diffraction grating at the end face of the profile. Align the middle profile with the photodiode so that it is coaxial with the LED emission. Adjust the position of the diffraction grating to maximize the photodiode reading.
+
+The setup allows approximately measuring the emission spectrum of an LED, which has a maximum at wavelength $\lambda_\text{led}$.
+
+4.1. By changing the relative position of the photodiode and LED, determine the angle $\varphi_1$ corresponding to the first diffraction maximum associated with wavelength $\lambda_\text{led}$.
+
+4.2. Calculate the wavelength of the emission spectrum maximum of the LED $\lambda_\text{led}$ using the diffraction grating formula:
+$$\lambda_\text{led} = \frac{\sin\varphi_1}{N}$$
+where $N = 500\ \text{штр/мм}$.
+
+---
+
+**Part 5. Emission spectrum of a green laser**
+
+Replace the LED with a green laser (secure it using a paper clip so that the power button remains continuously pressed). Remove the tape from the diffraction grating and reinstall it. Invite a jury member on duty to remove the photodiode from its light-shielding housing. Secure the photodiode at a distance of 10 cm from the diffraction grating.
+
+5.1. By changing the relative position of the photodiode and laser, measure the dependence of the photodiode current on the angle between the laser axis and the line connecting the center of the diffraction grating slit to the central point on the photodiode's measurement surface. For each position of the photodiode, block the laser beam at its output window and measure the background current value $I_\text{ph0}$. Perform measurements in the range from 0 to 40 degrees, with a step of one degree.
+
+5.2. Calculate the difference in photocurrent with laser radiation and without it at the zero position of the photodiode $(I_\text{ph} - I_\text{ph0})(\varphi = 0)$. Calculate the difference in photocurrent with laser radiation and without it across the entire range of measured angles $(I_\text{ph} - I_\text{ph0})(\varphi)$. Construct a graph of the natural logarithm of the ratio of the measured quantities: $$\ln\frac{(I_\text{ph} - I_\text{ph0})(\varphi)}{(I_\text{ph} - I_\text{ph0})(\varphi = 0)}\ \text{от угла}\ \varphi.$$. This dependence is called a diffraction pattern spectrum.
+
+5.3. Indicate the angles of maxima in the diffraction pattern spectrum (excluding the zeroth order). Which of the indicated angles correspond to the wavelength of laser radiation $\lambda_1 = 532\ \text{нм}$?
+
+5.4. Immediately after aligning, place the cuvette containing potassium permanganate solution. Indicate whether green fluorescence of the laser spot passing through the permanganate solution is visible.
+
+5.5. Once again measure the diffraction pattern spectrum in the range from 0 to 40 degrees.
+
+5.6. Construct a graph of the measured spectrum.
+
+5.7. Indicate the wavelengths corresponding to the peaks in the laser emission spectrum. Explain the obtained result.
+
+

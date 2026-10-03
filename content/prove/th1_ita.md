@@ -61,43 +61,40 @@ Nel circuito mostrato nella figura a destra, inizialmente l'interruttore $S$ è 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Theoretical competition. The following is the list of the countries of the European Union:
+Theoretical Competition. Tuesday, 15 July 2014 1/1
 
-The Commission shall adopt the following: 1 (9 points)
+Problem No. 1 (9 points)
 
-This problem is made up of three independent parties.
+This problem consists of three independent parts.
 
 Part A (3 points)
 
-A small mass block $m$ is gently placed on the inner surface of a thin cable cylinder of mass $M$ and radius $R$. Initially the cylinder is fixed on a horizontal plane and the block is fixed at a height $R$ above the plane, as shown in the figure on the left. Find the force of interaction $F$ between the block and the cylinder at the time the block describes the lowest point of its trajectory. It is assumed that there is no friction between the block and the inner surface of the cylinder and that the cylinder moves flat without cracking. The acceleration by gravity is $g$.
+A small block of mass $m$ is gently placed on the inner surface of a thin hollow cylinder of mass $M$ and radius $R$. Initially, the cylinder is at rest on a horizontal plane, and the block is placed at rest at a height $R$ above the plane, as shown in the figure on the left. Find the interaction force $F$ between the block and the cylinder at the instant when the block reaches the lowest point of its trajectory. It is assumed that there is no friction between the block and the inner surface of the cylinder, and that the cylinder rolls on the plane without slipping. The acceleration due to gravity is $g$.
 
 Part B (3 points)
 
-A $r=5.00\ \text{cm}$ beam bubble, containing a perfect biatomic gas, is made of a soap film of $h=10.0\ \mu\text{m}$ thickness and is placed in the vacuum. The soap film has a surface tension $\sigma=4.00\cdot10^{-2}\ \text{N/m}$ and a density $\rho=1.10\ \text{g/cm}^3$.
+A bubble of radius $r=5.00\ \text{cm}$, containing a perfect diatomic gas, is formed by a soap film of thickness $h=10.0\ \mu\text{m}$ and placed in vacuum. The soap film has surface tension $\sigma=4.00\cdot10^{-2}\ \text{N/m}$ and density $\rho=1.10\ \text{g/cm}^3$.
 
-1) Find the formula for the molar thermal capacity of the gas in the bubble for a process where the gas is heated so slowly that the bubble remains in mechanical equilibrium and then calculate its value.
+1) Find the formula for the molar heat capacity of the gas inside the bubble for a process in which the gas is heated so slowly that the bubble remains in mechanical equilibrium, and subsequently compute its value.
 
-2) Consider now that the radius of the bubble may vary. Find the formula for the frequency $\omega$ of small radius oscillations and calculate its value assuming that the thermal capacity of the soap film is much greater than the thermal capacity of the gas in the bubble. It is also assumed that the thermal balance within the bubble is reached much faster than the duration of the oscillation period.
+2) Now consider that the bubble's radius may vary. Derive the formula for the frequency $\omega$ of small oscillations of the radius, and compute its value under the assumption that the thermal capacity of the soap film is much greater than the thermal capacity of the gas inside the bubble. Also assume that thermal equilibrium within the bubble is established much more rapidly than the duration of the oscillation period.
 
-Tip: Laplace showed that there is a pressure difference between the two spaces separated by a generic curved surface, which is caused by the surface tension that forms on the interface separating a liquid from a gas, or $\Delta p=\dfrac{2\sigma}{r}$.
+Hint: Laplace showed that there is a pressure difference between two regions separated by a generic curved surface, caused by the surface tension that forms at the interface separating a liquid from a gas, namely $\Delta p=\dfrac{2\sigma}{r}$.
 
 Part C (3 points)
 
-In the circuit shown in the figure to the right, the $S$ switch is initially open, the capacitor $2C$ has an electrical charge $q_0$ and the capacitor $C$ is discharged, and no electric current is passed to either of the two induction coils $L$ and $2L$ respectively. The capacitor will now start discharging and when the current in the coils reaches its maximum value, the $S$ switch will be shut down instantly. Find the maximum current $I_\text{max}$ that passes through the $S$ switch immediately afterwards.
+In the circuit shown in the figure on the right, initially switch $S$ is open, capacitor with capacitance $2C$ carries electric charge $q_0$, while the capacitor with capacitance $C$ is uncharged. Moreover, no electric current flows through either of the two inductors with inductances $L$ and $2L$. The capacitor now begins to discharge, and at the instant when the current in the inductors reaches its maximum value, switch $S$ is instantaneously closed. Find the maximum current $I_\text{max}$ passing through switch $S$ immediately after.
 
 <!--fig:start-->
-The following table shows the number of units of the vehicle:
+**p.1** — Block m inside hollow cylinder M, R
 ![[_attachments/TH1_ITA/TH1_ITA_p1_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.1 **  Circuit with 2C, C capacitors and L, 2L inductors
+**p.1** — Circuit with capacitors 2C, C and inductors L, 2L
 ![[_attachments/TH1_ITA/TH1_ITA_p1_f2.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]], [[Thermodynamics]], [[Circuits]]
-**Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Cylinder (object)|Cylinder]], [[Bubble (object)|Bubble]], [[Gas (object)|Gas]], [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1GKyuiV_j_0xe60-eMu25m8mklKN1Dz56/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1dKtjIKBi5rSL4D5RiqGiQT3fdqMBaDJJ/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1dKtjIKBi5rSL4D5RiqGiQT3fdqMBaDJJ/view)
+
+

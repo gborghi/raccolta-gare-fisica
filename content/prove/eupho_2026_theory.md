@@ -32,6 +32,20 @@ Jumper jumps after the hinge is released. Determine the maximum height $h$ reach
 
 
 
+<div class="qlang-split" data-lang="it"></div>
+
+**T1: Salto (10 punti)**
+
+Due aste omogenee, ciascuna di massa $m$ e lunghezza $\ell$, sono collegate in un estremo da un cerniera dotata di una molla torsionale. La molla esercita coppie ripristinatrici uguali e opposte $\tau$ sulle aste rispetto alla cerniera,
+$$\tau = 2k\theta,$$ dove $2\theta$ è l'angolo tra le aste (in radianti), e $k$ ($k \gg mg\ell$) è la costante elastica della molla torsionale.
+
+Il sistema viene posto su una superficie orizzontale piana con gli estremi liberi delle aste appoggiati al pavimento e la cerniera sopra di esse. La cerniera viene quindi spinta verso il basso fino a far giacere le aste piatte sul pavimento in direzioni opposte, corrispondenti a $\theta = \pi/2$. L'attrito tra le aste e il pavimento è trascurabile.
+
+Dopo aver rilasciato la cerniera, il Salto si solleva. Determinare l'altezza massima $h$ raggiunta dal centro di massa del sistema con una precisione migliore di $1\%$.
+
+**Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Theory_AC__Copy_v1.0.pdf)
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2026 — Teorica — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/magnetism,topic/electromagnetic-induction,argomento/elettromagnetismo,object/solenoid"></span>
 
 **T2: Hysteresis (10 pts)**
@@ -55,6 +69,23 @@ c) (4.7 pts) The current $I(t)$ exhibits two qualitatively distinct phases of be
 **Fonte:** [Testo (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Theory_ENG.pdf)
 **Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Theory_AC__Copy_v1.0.pdf)
 
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**T2: Isteresi (10 punti)**
+
+Si consideri un solenoide con $N \gg 1$ spire, raggio $R$ e lunghezza $\ell \gg R$. Il solenoide ha un nucleo ferromagnetico con curva di isteresi come mostrato in figura. $M$ indica la magnetizzazione del nucleo e sarebbe nulla senza il materiale del nucleo. Essa è legata a $H$, l'intensità di campo magnetico generato dalla corrente nel solenoide, e a $B$ tramite la relazione $B = \mu_0 (H + M)$. $M_0$ e $H_0$ sono dello stesso ordine di grandezza. Si assuma che $M$ possa variare soltanto se $|H| \ge H_0$.
+
+Ora si collega in serie al solenoide un condensatore ideale di capacità $C$, formando un circuito chiuso. Si assuma che tutti i fili abbiano resistenza trascurabile.
+
+a) (3.0 punti) Inizialmente scorre una corrente $I_i$ nel circuito e il condensatore è scarico. $I_i$ è sufficientemente grande da garantire che $H(I_i) \gg H_0$. Dopo un'oscillazione, la corrente raggiunge nuovamente il valore massimo. Determinare la differenza tra $I_i$ e questo valore.
+
+b) (2.3 punti) Trovare il massimo valore di corrente che può essere raggiunto dopo molte oscillazioni.
+
+c) (4.7 punti) La corrente $I(t)$ presenta due fasi di comportamento qualitativamente diverse, A e B. Il sistema può rimanere indefinitamente nella fase A, mentre ogni singolo intervallo trascorso nella fase B ha durata limitata. Determinare la massima durata possibile di un intervallo nella fase B, se $I_i$ viene scelto in modo ottimale.
+
+**Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Theory_AC__Copy_v1.0.pdf)
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="EuPhO 2026 — Teorica — Quesito 3" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,topic/fluid-mechanics,argomento/termodinamica,object/disk"></span>
@@ -81,3 +112,25 @@ Treat the $\mathrm{CO}_2$ gas as ideal. Assume no tilting of the puck at any mom
 **Objects:** [[Puck (object)]]
 **Fonte:** [Testo (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Theory_ENG.pdf)
 **Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Theory_AC__Copy_v1.0.pdf)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**T3: Hockey con ghiaccio secco (10 punti)**
+
+A pressione $p_0 = 100\,\mathrm{kPa}$, il solido $\mathrm{CO}_2$ (ghiaccio secco) sublima (passa dallo stato solido allo stato gassoso) alla temperatura $T_s = -78.5\,^\circ\mathrm{C}$. La sua pressione di vapore saturo segue la relazione di Clausius-Clapeyron:
+$$\frac{\mathrm{d}p_{\mathrm{sat}}}{\mathrm{d}T} = \frac{\mu\lambda p_{\mathrm{sat}}}{R T^2},$$, dove il calore latente di sublimazione è $\lambda = 600\,\mathrm{kJ/kg}$, la massa molare è $\mu = 0.044\,\mathrm{kg/mol}$ e la costante dei gas è $R = 8.3\,\mathrm{J/(mol\cdot K)}$. La conducibilità termica del gas $\mathrm{CO}_2$ è $\kappa = 10\,\mathrm{mW/(m\cdot K)}$ e la sua viscosità dinamica è $\eta = 10\,\mu\mathrm{Pa\cdot s}$. La densità del ghiaccio secco è $\rho = 1500\,\mathrm{kg/m}^3$ e l'accelerazione di gravità è $g = 10\,\mathrm{m/s}^2$.
+
+Un disco da hockey di raggio $r = 10\,\mathrm{mm}$ è costituito da un disco di ghiaccio secco dello spessore $h = 1\,\mathrm{mm}$, con sopra un disco metallico di massa $M = 0.01\,\mathrm{kg}$. La temperatura iniziale del disco è $T_s$ e la pressione ambiente è $p_0$.
+
+Il disco viene posto su una piastra metallica orizzontale mantenuta a temperatura costante $T = T_s + \Delta T$ e impartita una velocità orizzontale iniziale $v = 10\,\mathrm{mm/s}$. Dopo un tempo molto lungo, viene misurato lo spostamento orizzontale $L$ del disco metallico.
+
+a) (2 punti) Quando $\Delta T$ è sufficientemente piccolo, $L$ è trascurabile e indipendente da $\Delta T$. Tuttavia, quando $\Delta T$ raggiunge un valore critico $\Delta T_c$, la funzione $L(\Delta T)$ comincia a crescere. Stimare $\Delta T_c$.
+
+b) (8 punti) Stimare il valore massimo $L_{\max}$ della funzione $L(\Delta T)$.
+
+Si consideri il gas $\mathrm{CO}_2$ come ideale. Si assuma che il disco non si inclini mai, tutte le superfici siano perfettamente lisce e che le conducibilità termiche del metallo, del ghiaccio secco e del gas soddisfino $\kappa_{\mathrm{metal}} \gg \kappa_{\mathrm{ice}} \gg \kappa$.
+
+**Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Theory_AC__Copy_v1.0.pdf)
+
+

@@ -642,38 +642,30 @@ The heating elements are designed in such a way that they heat the entire mass o
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Testione 10  Fusione di ghiaccio (Testione MC) **
+**Problema 10 — Sciogliere il ghiaccio (domanda a scelta multipla)**
 
-**Deutscher.** An einem kalten Wintertag stehen drei identische, nicht isolierte Holzkisten vor dem Haus, die jeweils mit der gleichen Menge Eis der Temperatur $0{,}0\ ^\circ\text{C}$ befüllt werden. Per far fondere il ghiaccio, viene inserito un elemento elettrico di riscaldamento in ciascuna delle scatole. Gli elementi di riscaldamento sono identici, ma sono operati con tensioni diverse.
+**Italiano.** In un freddo giorno invernale, tre scatole di legno identiche e non isolate sono poste davanti alla casa, ognuna riempita con la stessa quantità di ghiaccio alla temperatura $0{,}0\ ^\circ\text{C}$. Per sciogliere il ghiaccio, in ciascuna scatola viene inserito un elemento riscaldante elettrico. Gli elementi riscaldanti sono identici, ma vengono alimentati con tensioni diverse.
 
-Nella prima casella, il caldaio è operato con una tensione $80\ \text{V}$. Tutto il ghiaccio nella scatola si scioglie in $20{,}0$ minuti. All'elemento di riscaldamento della seconda scatola viene applicata una tensione $120\ \text{V}$, che completa il ghiaccio in soli $4{,}0$ minuti. Nella terza casella viene utilizzata una tensione $40\ \text{V}$ per il caldo.
+Nella prima scatola, l'elemento riscaldante viene alimentato con una tensione di $80\ \text{V}$. L'intero ghiaccio nella scatola si scioglie in $20{,}0$ minuti. All'elemento riscaldante della seconda scatola viene applicata una tensione di $120\ \text{V}$, con il risultato che il ghiaccio si scioglie completamente in soli $4{,}0$ minuti. Nella terza scatola viene utilizzata una tensione di $40\ \text{V}$ per l'elemento riscaldante.
 
-Gli elementi di riscaldamento sono progettati per riscaldare contemporaneamente l'intera massa di ghiaccio nella cassa. Supponiamo che l'acqua in fumo non si riscalda attraverso l'elemento termico. Quale delle seguenti affermazioni è quindi corretta per il fuso dell'acqua in questa terza scatola?
+Gli elementi riscaldanti sono progettati in modo da scaldare contemporaneamente tutta la massa di ghiaccio contenuta nella rispettiva scatola. Si assuma che l'acqua di fusione non venga riscaldata dall'elemento riscaldante. Quale delle seguenti affermazioni è corretta riguardo allo scioglimento del ghiaccio nella terza scatola?
 
-- (A) Per fondere l'intero ghiaccio nella terza scatola occorrono circa $80$ minuti.
-- (B) Per fondere l'intero ghiaccio nella terza scatola occorrono circa $100$ minuti.
-- (C) Per fondere l'intero ghiaccio nella terza scatola occorrono circa $130$ minuti.
-- (D) Con la tensione utilizzata non è possibile fondere l'intero ghiaccio.
+- (A) Per sciogliere tutto il ghiaccio nella terza scatola sono necessari circa $80$ minuti.
+- (B) Per sciogliere tutto il ghiaccio nella terza scatola sono necessari circa $100$ minuti.
+- (C) Per sciogliere tutto il ghiaccio nella terza scatola sono necessari circa $130$ minuti.
+- (D) Con la tensione utilizzata, non è possibile sciogliere tutto il ghiaccio.
 
-**Problem (English translation).** On a cold winter's day, there are three identical, non-insulated wooden boxes in front of the house, each filled with the same amount of ice at a temperature of $0.0\ ^\circ\text{C}$. Per fondere il ghiaccio, un elemento di riscaldamento elettrico viene posto in ciascuna delle scatole. Gli elementi di riscaldamento sono identici, ma sono operati con voltaggi diversi.
+**Problema (traduzione italiana).** In un freddo giorno invernale si trovano davanti alla casa tre scatole di legno identiche, non isolate, ognuna riempita con la stessa quantità di ghiaccio alla temperatura di $0.0\ ^\circ\text{C}$. Per fondere il ghiaccio, in ciascuna scatola viene inserito un elemento riscaldante elettrico. Gli elementi riscaldanti sono identici, ma funzionano con tensioni diverse.
 
-In the first box, the heating element is operated with a voltage of $80\ \text{V}$. All of the ice in the box si scioglierà in $20.0$ minuti. Un voltage di $120\ \text{V}$ viene applicato all'elemento di riscaldamento della seconda scatola, in cui il ghiaccio si scioglie completamente in appena $4.0$ minuti. In the third box, a voltage of $40\ \text{V}$ is used for the heating element.
+Nella prima scatola, l'elemento riscaldante è alimentato con una tensione di $80\ \text{V}$. In questo caso, tutto il ghiaccio nella scatola si scioglierà in $20.0$ minuti. Nella seconda scatola, viene applicata una tensione di $120\ \text{V}$ all'elemento riscaldante, e il ghiaccio si scioglie completamente in soli $4.0$ minuti. Nella terza scatola, viene utilizzata una tensione di $40\ \text{V}$ per l'elemento riscaldante.
 
-Gli elementi di riscaldamento sono progettati in modo da riscaldare l'intera massa di ghiaccio nella rispettiva scatola allo stesso tempo. Supponiamo che l'acqua meltante non sia riscaldata dall'elemento riscaldante. Quale delle seguenti affermazioni è quindi vero per il melting of the ice in the third box?
+Gli elementi riscaldanti sono progettati in modo tale da scaldare contemporaneamente tutta la massa di ghiaccio contenuta nella rispettiva scatola. Si assuma che l'acqua di fusione non venga riscaldata dall'elemento riscaldante. Quale delle seguenti affermazioni è allora vera per la fusione del ghiaccio nella terza scatola?
 
-- (A) It takes about $80$ minutes to melt all of the ice in the third box.
-- (B) It takes about $100$ minutes to melt all of the ice in the third box.
-- (C) It will take about $130$ minutes to melt all of the ice in the third box.
+- (A) Per fondere tutto il ghiaccio nella terza scatola occorrono circa $80$ minuti.
+- (B) Per fondere tutto il ghiaccio nella terza scatola occorrono circa $100$ minuti.
+- (C) Per fondere tutto il ghiaccio nella terza scatola occorrono circa $130$ minuti.
 - (D) Con la tensione utilizzata, non è possibile fondere tutto il ghiaccio.
 
-
----
-
-**Topic:** [[Thermodynamics]], [[Circuits]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Resistor (object)|Resistor]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/15cWia_5qcPIIwU_24vuKXL4H1EtGSj0T/view)
 
 <div class="qlang-split" data-lang="en"></div>
 

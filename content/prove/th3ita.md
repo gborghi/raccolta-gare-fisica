@@ -180,21 +180,10 @@ Fig. 3. Lo schema della reazione di trasferimento.
 4.
 M(58Ni)
 57.93535 a.m.u.
-The following table is provided: Resting mass of the reactants in their basic states. 1 a.m.u.= 1.6605 10
-$\cdot$
--27 kg.
-b)
-The nucleus 58Ni produced in the excited state as discussed in the previous point, is dehydrated in its
-It was critical by emitting a gamma photon in the direction of its motor. Consider this.
-decay in the reference system in which 58Ni is at rest and finds its bounce energy
-(i.e. the kinetic energy acquired by the nucleus 58Ni after the photon is emitted). How much is it worth ?
-The photon energy in this reference system? What is the value of the photon energy in the system?
-The laboratory reference (i.e. how much would be the photon energy measured by a detector)
-positioned in the direction of motion of the 58Ni core)? The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-- What? 3. The pattern of the transfer reaction.
+Table 1. Rest mass of the reactants in their ground states. 1 a.m.u. = 1.6605 × 10$\cdot$⁻²⁷ kg.
 
-**Topic:** [[Nuclear & Particle Physics]], [[Special Relativity]], [[Modern-Quantum Physics]]
-**Metodi:** [[Mass-Energy Equivalence (metodo)|Mass-Energy Equivalence]], [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Photon Energy Relation (metodo)|Photon Energy Relation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Nucleus (object)|Nucleus]], [[Photon (object)|Photon]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jIyTSjqsoLD9QV__eEGPMx_ZipFUErdJ/view)
+b) The 58Ni nucleus, produced in an excited state as discussed in the previous point, de-excites to its ground state by emitting a gamma photon in the direction of its motion. Consider this decay in the reference frame where 58Ni is at rest, and determine its recoil energy (i.e., the kinetic energy acquired by the 58Ni nucleus after photon emission). What is the energy of the photon in this reference frame? What is the energy of the photon in the laboratory reference frame (i.e., what would be the photon energy measured by a detector positioned along the direction of motion of the 58Ni nucleus)? (1.6 points)
+
+Figure 3. Schematic diagram of the transfer reaction.
+
+

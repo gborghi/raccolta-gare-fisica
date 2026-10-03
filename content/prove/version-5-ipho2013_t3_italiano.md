@@ -38,24 +38,18 @@ tags:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**(3.1) ** Using the hypotheses 13 and mass conservation, it derives an expression for the horizontal component of the ice flow rate $v_x(x)$ as a function of $x$, the accumulation rate $a$ and the height of the ice sheet $H$.
+**(3.1)** Using assumptions 1–3 and mass conservation, derive an expression for the horizontal component of the ice sliding velocity $v_x(x)$ in terms of $x$, the accumulation rate $a$, and the ice layer height $H$.
 
-The following is the list of the countries of the European Union:
+*(points: 0.5)*
 
 ---
 
 <!--fig:start-->
-**p.1**  Greenland map and ice sheet model
+**p.1** — Greenland map and ice layer model
 ![[_attachments/Version 5 IPhO2013_T3_italiano/Version 5 IPhO2013_T3_italiano_p1_f1.png]]
 <!--fig:end-->
 
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Continuity Equation (metodo)|Continuity Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1FQnv8kKJ7hATOb8DSNIOadNUxzK9nLks/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/181XaRk8rlzLuC3eafGZXvO2xQi54tabZ/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/181XaRk8rlzLuC3eafGZXvO2xQi54tabZ/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2013 — Teorica — T3 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/newtonian-mechanics"></span>
@@ -80,19 +74,13 @@ The following is the list of the countries of the European Union:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**(3.2) ** Using the 13 hypothesis, estimate the $v_x$ flow rate of ice near the coast ($x \approx L$), given the accumulation rate $a \approx 0.5\ \text{m/anno}$, the height of the layer $H \approx 2\ \text{km}$, and the distance from the divider to the coast $L \approx 700\ \text{km}$.
+**(3.2)** Using assumptions 1–3, estimate the ice sliding velocity $v_x$ near the coast ($x \approx L$), given the accumulation rate $a \approx 0.5\ \text{m/anno}$, the thickness of the ice layer $H \approx 2\ \text{km}$, and the distance from the divide to the coast $L \approx 700\ \text{km}$.
 
-The following is the list of the countries of the European Union:
+*(points: 0.3)*
 
 ---
 
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1FQnv8kKJ7hATOb8DSNIOadNUxzK9nLks/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/181XaRk8rlzLuC3eafGZXvO2xQi54tabZ/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/181XaRk8rlzLuC3eafGZXvO2xQi54tabZ/view)
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2013 — Teorica — T3 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/thermodynamics"></span>
@@ -121,23 +109,17 @@ $$\frac{\partial v_x}{\partial x} + \frac{\partial v_z}{\partial z} = 0$$
 
 <div class="qlang-split" data-lang="en"></div>
 
-**(3.3) ** uses mass storage to obtain an expression for the horizontal velocity of ice flow $v_x$ as a function of $x$, $a$ and $H$.
+**(3.3)** Use mass conservation to derive an expression for the horizontal sliding velocity of the ice $v_x$ in terms of $x$, $a$ and $H$.
 
-The following is the list of the countries of the European Union:
+*(score: 0.6)*
 
-From the hypothesis of non-compressibility, i.e. of constant density of ice $\rho$, it follows that mass conservation implies the following restriction on the components of the ice flow rate:
+From the assumption of incompressibility, i.e., constant density of ice $\rho$, it follows that mass conservation implies the following constraint on the components of the ice's sliding velocity:
 
 $$\frac{\partial v_x}{\partial x} + \frac{\partial v_z}{\partial z} = 0$$
 
 ---
 
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1FQnv8kKJ7hATOb8DSNIOadNUxzK9nLks/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/181XaRk8rlzLuC3eafGZXvO2xQi54tabZ/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/181XaRk8rlzLuC3eafGZXvO2xQi54tabZ/view)
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2013 — Teorica — T3 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/fluid-mechanics,topic/newtonian-mechanics"></span>
@@ -168,25 +150,19 @@ e dall'ipotesi 5 (che $v_x$ sia indipendente da $z$), ricava $v_z$ in funzione d
 
 <div class="qlang-split" data-lang="en"></div>
 
-**(3.4) ** Write an expression for the dependence on $z$ of the vertical component of the ice flow rate $v_z(z)$.
+**(3.4)** Write an expression for the dependence on $z$ of the vertical component of the ice's sliding velocity $v_z(z)$.
 
-The following is the list of the countries of the European Union:
+*(score: 0.6)*
 
 From the continuity equation for an incompressible fluid:
 
 $$\frac{\partial v_x}{\partial x} + \frac{\partial v_z}{\partial z} = 0$$
 
-and from hypothesis 5 (that $v_x$ is independent of $z$), it derives $v_z$ as a function of $z$, $a$ and $H$.
+and using assumption 5 (that $v_x$ is independent of $z$), derive $v_z$ as a function of $z$, $a$ and $H$.
 
 ---
 
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Continuity Equation (metodo)|Continuity Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1FQnv8kKJ7hATOb8DSNIOadNUxzK9nLks/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/181XaRk8rlzLuC3eafGZXvO2xQi54tabZ/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/181XaRk8rlzLuC3eafGZXvO2xQi54tabZ/view)
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2013 — Teorica — T3 — Quesito 5" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/fluid-mechanics,topic/gravitation,topic/thermodynamics,object/planet"></span>

@@ -387,26 +387,19 @@ A ball is thrown horizontally from the top of a cliff of height $H$ with initial
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Il problema 2.2. Ball thrown off a cliff**
+**Problema 2.2. Pallina lanciata da un dirupo**
 
-Una palla viene lanciata orizzontalmente dalla parte superiore di una scogliera di altezza $H$ con velocità iniziale $v_0$.
+Una pallina viene lanciata orizzontalmente dalla cima di un dirupo alto $H$ con velocità iniziale $v_0$.
 
-(1) Find the time $t$ it takes to hit the ground.
+(1) Determinare il tempo $t$ impiegato per colpire il suolo.
 
-(2) Trova la distanza orizzontale $x$ percorsa.
+(2) Determinare la distanza orizzontale $x$ percorsa.
 
-(3) Calcolare la velocità della palla poco prima che colpisca il terreno.
+(3) Determinare la velocità della pallina subito prima dell'impatto con il suolo.
 
-(4) Trova l'angolo $\alpha$ che il vettore di velocità fa con l'orizzontale poco prima dell'impatto.
+(4) Determinare l'angolo $\alpha$ che il vettore velocità forma con l'orizzontale subito prima dell'impatto.
 
 (Prima sfida)
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]], [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.49](https://drive.google.com/file/d/1j0sRhYUcwMA12L6LbZyLA4ICY-NlXN3w/view)
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Giappo na — Quesito 9" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/ball,object/projectile,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>

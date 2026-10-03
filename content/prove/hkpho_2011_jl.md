@@ -200,22 +200,13 @@ $*$ The first two extra-solar planets were discovered in 1992 to be revolving ar
 
 <div class="qlang-split" data-lang="it"></div>
 
-$*$ The first two extra-solar planets were discovered in 1992 to be revolving around a pulsar of $1.5$ solar mass. Il periodo di orbita circolare di uno dei due pianeti è $98$ giorni. Ignorate l'interazione gravitazionale tra i pianeti. Trova la distanza tra il pulsare e il pianeta in termini di unità astronomiche (AU).
+$*$ I primi due esopianeti extrasolari sono stati scoperti nel 1992 come in orbita attorno a un pulsar di $1.5$ masse solari. Il periodo dell'orbita circolare di uno dei due pianeti è di $98$ giorni. Trascurare l'interazione gravitazionale tra i pianeti. Determinare la distanza tra il pulsar e il pianeta in unità astronomiche (UA).
 
 - **(a)** $0.11$
 - **(b)** $0.17$
 - **(c)** $0.36$
 - **(d)** $0.40$
 - **(e)** $0.48$
-
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1oA0ki7i4tg6bLrXzrEXTha1UAWWdMHQD/view)
-**Topic:** [[Gravitation]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Star (object)|Star]], [[Planet (object)|Planet]]
-
----
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="HKPhO 2011 — Junior — Quesito 4" data-tags="kg/prova,paese/Hong Kong,comp/HKPhO,topic/conservation-of-momentum,argomento/meccanica,difficolta/2,multidisciplina/mono,object/ball"></span>

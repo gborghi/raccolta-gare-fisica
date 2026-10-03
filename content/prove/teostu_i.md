@@ -114,100 +114,82 @@ Se sì, qual è il suo nuovo valore? $\dots\dots\dots\dots\dots\dots\dots\dots\d
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem is
+Problem 1
 Radiation absorption by a gas
-A cylindrical container with a vertical axis contains a molecular gas in equilibrium
-The thermodynamic effect. The upper cylinder base can be moved freely and is made of a sheet of
-The glass is not gas-filled and the friction between the glass plate and the cylinder is
-The resulting fluctuations are not sufficient to dampen the oscillations but do not result in appreciable energy losses in the
-The overall energy budget. The gas temperature is initially the same as the ambient temperature.
-around. Gas can be considered perfect with good approximation. Let's also assume
-The cylinder walls (including the bases) have a very high conductivity and thermal capacity.
-The Commission has already adopted a proposal for a directive on the approximation of the laws of the Member States relating to the use of energy in the production of energy.
-This is a problem that can be overlooked.
-Through the sheet of glass, we send the light emitted by a powerful laser into the cylinder.
-The air and glass are transparent to this radiation, but it is totally absorbed by the
-gas inside the container. By absorbing this radiation, the molecules are transported to excited states.
-From which they quickly emit infrared radiation, returning to the state in a waterfall.
-This radiation is also absorbed by other molecules and reflected by the
-from the walls of the container, including the sheet of glass. The energy absorbed is therefore ultimately
-The laser is transferred in a very short time in thermal motion (molecular chaos), and
-And then it stays in the gas for quite a while.
-We observe the glass plate rising; after a certain radiation time we turn off the
-Let's take a laser and measure this elevation.
+
+A cylindrical container, with its axis vertical, contains a molecular gas in thermodynamic equilibrium. The upper base of the cylinder can move freely and is made of a glass plate; we assume no gas leakage occurs, and the friction between the glass plate and the cylinder is just sufficient to dampen oscillations but does not cause appreciable energy losses in the overall energy balance. Initially, the gas temperature is equal to that of the surrounding environment. The gas may be considered ideal with good approximation. We also assume that the cylinder walls (including both bases) have very low thermal conductivity and heat capacity, so that heat exchange between the gas and the environment is extremely slow; in solving this problem, such exchanges may be neglected.
+Through the glass plate, we send light from a laser with constant power into the cylinder; air and glass are transparent to this radiation, but it is completely absorbed by the gas inside the container. Upon absorbing this radiation, molecules are excited to higher energy states, from which they rapidly re-emit infrared radiation as they cascade back down to the ground state. However, this emitted radiation is further absorbed by other molecules and reflected off the container walls, including the glass plate. In the end, therefore, the energy absorbed from the laser is converted into thermal motion (molecular chaos) in a very short time, and subsequently remains trapped in the gas for a rather long period.
+
+We observe that the glass plate rises; after a certain irradiation time, we turn off the laser and measure this elevation.
+
 1.
-Using the data provided at the bottom and  if necessary  those on the sheet with the physical constants,
-The temperature and pressure of the gas after irradiation shall be calculated.
-The following points shall be added:
+Using the data provided at the bottom and – if necessary – those on the sheet with physical constants, calculate the temperature and pressure of the gas after irradiation.
+[2 points]
+
 2.
-The mechanical work done by the gas as a result of radiation absorption is calculated.
-The following points shall be added:
+Calculate the mechanical work done by the gas as a result of absorbing radiation.
+[1 point]
+
 3.
-The radiant energy absorbed during irradiation is calculated.
-The following points shall be added:
+Calculate the radiant energy absorbed during irradiation.
+[2 points]
+
 4.
-The laser output power is calculated and the corresponding number of
-absorbed photons (and therefore of elementary absorption processes) per unit of time.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Calculate the power emitted by the laser that is absorbed by the gas, and the corresponding number of photons absorbed (and thus elementary absorption processes) per unit time.
+[1.5 points]
+
 5.
-Calculate the efficiency of the process of conversion of optical energy into potential energy
-The mechanics of the glass plate.
-The following points shall be added:
-The cylinder is then rotated slowly by $90^{\circ}$, leading its axis in a horizontal direction. The
-The heat exchange between gas and container can still be neglected.
+Calculate the efficiency of the process converting optical energy into mechanical potential energy of the glass plate.
+[1 point]
+
+Subsequently, the cylinder is slowly rotated by $90^{\circ}$, bringing its axis into a horizontal direction. Heat exchange between the gas and the container can still be neglected.
+
 6.
-Tell if the gas pressure and/or temperature change as a result of this rotation and 
-If so, what is its new value?
-The following points shall be added:
-The data
-Pressione ambiente: $p_0 = 1013\ \text{kPa}$
-Temperatura ambiente: $T_0 = 20.0\ ^\circ\text{C}$
-The cylinder diameter shall be: $2r = 100\ \text{mm}$
+State whether the pressure and/or temperature of the gas change as a result of this rotation, and if so, determine their new values.
+[2.5 points]
+
+Data
+Ambient pressure: $p_0 = 1013\ \text{kPa}$
+Ambient temperature: $T_0 = 20.0\ ^\circ\text{C}$
+Internal diameter of the cylinder: $2r = 100\ \text{mm}$
 Mass of the glass plate: $m = 800\ \text{g}$
-Amount of gas in the container: $n = 0.100\ \text{mol}$
-Specific molar heat at constant gas volume: $c_V = 20.8\ \text{J/(mol}\cdot\text{K)}$
-The laser emission wavelength: $\lambda = 514\ \text{nm}$
-Tempo di irraggiamento: $\Delta t = 10.0\ \text{s}$
-Movement of the movable plate following irradiation: $\Delta s = 30.0\ \text{mm}$
-The following is the list of the countries of the European Union:
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The following is the list of the countries of the European Union:
-Paper-reactions
-In this problem you are asked to give your results in the form of both analytical and
-Number results with units: first write the formula and then the numerical result (p. es. $A = bc = 1.23\ \text{m}^2$).
+Amount of gas inside the container: $n = 0.100\ \text{mol}$
+Molar specific heat at constant volume of the gas: $c_V = 20.8\ \text{J/(mol}\cdot\text{K)}$
+Wavelength of laser emission: $\lambda = 514\ \text{nm}$
+Irradiation time: $\Delta t = 10.0\ \text{s}$
+Displacement of the movable plate due to irradiation: $\Delta s = 30.0\ \text{mm}$
+
+NAME____________________________
+TEAM_____________________________
+CODE______________________________
+Answer Sheet
+
+In this problem, you are asked to provide your results both in analytical expressions and numerical values with units: write the formula first, then the numerical result (e.g., $A = bc = 1.23\ \text{m}^2$).
+
 1.
-The temperature of the gas after irradiation $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
-Gas pressure after irradiation $.\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
+Temperature of the gas after irradiation: $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
+Pressure of the gas after irradiation: $.\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
+
 2.
-Mechanical work performed $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$...
+Mechanical work performed: $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
+
 3.
-Optical energy absorbed by the gas as a whole $.\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
+Total optical energy absorbed by the gas: $.\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
+
 4.
-Optical power from the laser absorbed by the gas $.\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
-Frequency of absorption of
-The number of photons
-Other, of a width of not more than 600 mm
-per unit of
-tempo) $\dots\dots\dots\dots\dots\dots\dots.\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
+Optical power emitted by the laser and absorbed by the gas: $.\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
+Photon absorption frequency (number of photons absorbed per unit time) $\dots\dots\dots\dots\dots\dots\dots.\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
 5.
-Performance in the conversion of optical energy to potential energy
-Mechanical working of glass plate $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$..
+Efficiency in the conversion of optical energy into change of mechanical potential energy of the glass plate $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
 6.
-Is there a change in pressure as a result of the cylinder rotation?
-SI
+Is there a pressure change due to the rotation of the cylinder?
+YES
 NO
-If so, what is its new value? $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
-Is there a temperature change as a result of the cylinder rotation?
-SI
+If yes, what is its new value? $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
+Is there a temperature change due to the rotation of the cylinder?
+YES
 NO
-If so, what is its new value? $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
-
-**Topic:** [[Thermodynamics]], [[Modern-Quantum Physics]], [[Newtonian Mechanics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[Photon (object)|Photon]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1RHwzdDm0V1CtnCCDQ6qLK7qXRs3HHoll/view)
-
+If yes, what is its new value? $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 1999 — Teorica — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/magnetism,topic/oscillations-e-waves,topic/electromagnetism,argomento/meccanica,object/wire,object/magnet"></span>
@@ -310,97 +292,81 @@ $\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem two
-Magnetic field produced by a V-wire
-One of the first successes of Ampere's interpretation of magnetic phenomena was the calculation of the
-magnetic field generated by currents in wires. This interpretation was in some cases at odds with the
-The Commission has therefore considered that the Commission should be able to assess the compatibility of the measures with the internal market.
-A particularly interesting case is that of a thin, very long wire in which a
-a constant current $i$, made up of two straight lines folded to form a "V", with an angular half-aperture
-$\alpha$ (vedi figura). According to Ampère's calculations the magnitude $B$ of the magnetic field at a point $P$
-on the 'V' axis, outside it and at a distance $d$ from its vertex, is proportional to
-$\tan\left(\dfrac{\alpha}{2}\right)$.
-Ampère's work was later incorporated into Maxwell's theory of electromagnetism, and is now
-The Commission has already adopted a number of proposals.
+Problem 2
+Magnetic field produced by a V-shaped wire
+
+One of the early successes of Ampère’s interpretation of magnetic phenomena was the calculation of the magnetic field generated by currents in wires. This interpretation sometimes disagreed with earlier hypotheses originally formulated by Biot and Savart.
+
+A particularly interesting case is that of a thin, very long wire carrying a constant current $i$, made of two straight segments bent to form a "V" shape, with angular semi-opening $\alpha$ (see figure). According to Ampère’s calculations, the magnitude $B$ of the magnetic field at a point $P$ located on the axis of the "V", outside it, and at a distance $d$ from its vertex, is proportional to $\tan\left(\dfrac{\alpha}{2}\right)$.
+
+Ampère’s work was later incorporated into Maxwell’s theory of electromagnetism, and is now universally accepted.
+
 Using our current knowledge of electromagnetism,
+
 1.
-The direction of the $B$ field is in $P$.
-The following points shall be added:
+Determine the direction of the magnetic field $B$ at point $P$.
+[1 point]
+
 2.
-Knowing that the field is proportional to $\tan\left(\dfrac{\alpha}{2}\right)$, the proportionality factor $k$ is found in
-$B(P) = k\,\tan\left(\dfrac{\alpha}{2}\right)$.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Knowing that the field is proportional to $\tan\left(\dfrac{\alpha}{2}\right)$, determine the proportionality factor $k$ in $B(P) = k\,\tan\left(\dfrac{\alpha}{2}\right)$.
+[1.5 points]
+
 3.
-The $B$ field is calculated at a point $P^*$ symmetrical to $P$ with respect to the vertex, i.e. along the axis and
-at the same distance $d$, but within the 'V' (see figure).
-The following points shall be added:
+Calculate the magnetic field $B$ at a point $P^*$ symmetric to $P$ with respect to the vertex, that is, along the axis and at the same distance $d$, but inside the "V" (see figure).
+[2 points]
+
 1 In this problem $\alpha$ is always measured in radians.
-4.
-To measure the magnetic field, we place in $P$ a small magnetic needle with momentum
-d’inerzia $I$ e momento di dipolo magnetico $\mu$; esso oscilla attorno a un punto fisso in un
-Plan containing the direction of $B$. The period of the small oscillations of
-This is the function of $B$.
-The following points shall be added:
-In the same conditions, Biot and Savart had instead hypothesized that the magnetic field in $P$
-fosse (usando la notazione moderna) $B(P) = \dfrac{i\,\mu_0\,\alpha}{\pi^2 d}$, dove $\mu_0$ è la permeabilità magnetica del vuoto.
-In fact, they tried to decide between the two interpretations (Ampère's and Biot's and
-Savart) with an experiment, measuring the period of oscillation of the magnetic field at varying
-The opening of the "V". However, for some values of $\alpha$ the differences are too small to be
-easily measurable.
+To measure the magnetic field, we place a small magnetic needle with moment of inertia $I$ and magnetic dipole moment $\mu$ at $P$; it oscillates about a fixed point in a plane containing the direction of $B$. Calculate the period of small oscillations of this needle as a function of $B$.
+[2.5 points]
+
+Under the same conditions, Biot and Savart instead assumed that the magnetic field at $P$ was (using modern notation) $B(P) = \dfrac{i\,\mu_0\,\alpha}{\pi^2 d}$, where $\mu_0$ is the magnetic permeability of vacuum.
+
+Indeed, they attempted to decide between the two interpretations (Ampère’s and Biot–Savart’s) through an experiment, measuring the oscillation period of the magnetic needle as a function of the opening angle of the "V". However, for some values of $\alpha$, the differences are too small to be easily measurable.
+
 5.
-If, to experimentally distinguish between the two forecasts for the $T$ oscillation period
-If we have a magnetic needle in $P$, we need a difference of at least 10%, that is $T_1 > 1.10\,T_2$
-($T_1$ is Ampère's prediction and $T_2$ is Biot and Savart's), let's say in which case
-interval, approximately, we have to choose the half-opening $\alpha$ of the "V" so we can
-The Commission will be able to draw up a draft directive on the protection of workers' rights.
-The following points shall be added:
-Suggestion
-Depending on the path you take in the solution, the following trigonometric equation could be
-be useful:
+If, in order to experimentally discriminate between the two predictions for the oscillation period $T$ of the magnetic needle at $P$, we require a difference of at least 10%, i.e., $T_1 > 1.10\,T_2$ (where $T_1$ is Ampère’s prediction and $T_2$ Biot–Savart’s), determine approximately in which interval we must choose the semi-opening angle $\alpha$ of the "V" in order to distinguish between the two interpretations.
+[3 points]
+
+Hint
+Depending on the approach you take in solving, the following trigonometric equation might be useful:
 $\tan\left(\dfrac{\alpha}{2}\right) = \dfrac{\sin\alpha}{1 + \cos\alpha}$
-The following is the list of the countries of the European Union:
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The following is the list of the countries of the European Union:
-Paper-reactions
-In this problem, write the results in the form of analytical expressions, not results.
-The Commission shall adopt the following measures:
+
+NAME____________________________
+TEAM_____________________________
+CODE______________________________
+Answer Sheet
+In this problem, write the results in analytical expression form, not as numerical values, unless explicitly required.
+
 1.
-Using the following diagram, the direction and direction of the $B$ field (length) are drawn
-The carrier is not important). The sketch is from a spatial perspective.
+Using the following sketch, draw the direction and sense of the field $B$ (the vector length is irrelevant). The sketch is in spatial perspective view.
+
 2.
-Fattore di proporzionalità $k$ $\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
+Proportionality factor $k$ $\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
+
 3.
-Intensity (absolute value) of the magnetic field in $P^*$ described
-in $\dots\dots\dots\dots\dots\dots\dots\dots\dots$, the direction of $B$ is drawn in the previous diagram.
+Magnitude (absolute value) of the magnetic field at point $P^*$ described in the text $\dots\dots\dots\dots\dots\dots\dots\dots\dots$. Draw on the previous sketch the direction of $B$.
+
 4.
-Period of small magnetic field oscillations $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
+Period of small oscillations of the magnetic needle $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
+
 5.
-Write in which range of values of $\alpha$ (indicating here the numerical values of the extremes)
-The ratio between the periods of oscillation, according to Ampère's forecasts, is the
-and of Biot and Savart, it's greater than 1.10:
+Write in which interval of values of $\alpha$ (indicating here the numerical values of the endpoints of the interval) the ratio between the oscillation periods, according to Ampère's and Biot–Savart’s predictions, is greater than 1.10:
 $\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
 
 <!--fig:start-->
-**p.5** — Filo a V con punto P, distanza d, angolo alfa
+**p.5** — V-shaped wire with point P, distance d, angle alpha
 ![[_attachments/TEOSTU_I/TEOSTU_I_p5_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.6 **  V-string with points P and P asterisk
+**p.6** — V-shaped wire with points P and P asterisk
 ![[_attachments/TEOSTU_I/TEOSTU_I_p6_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.7** — Vista prospettica spaziale del filo a V
+**p.7** — Spatial perspective view of the V-shaped wire
 ![[_attachments/TEOSTU_I/TEOSTU_I_p7_f3.png]]
 <!--fig:end-->
-
-**Topic:** [[Magnetism]], [[Oscillations & Waves]], [[Electromagnetism]]
-**Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Ampère's Law (metodo)|Ampère's Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wire (object)|Wire]], [[Magnet (object)|Magnet]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1RHwzdDm0V1CtnCCDQ6qLK7qXRs3HHoll/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 1999 — Teorica — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/gravitation,topic/newtonian-mechanics,topic/conservation-of-energy,argomento/meccanica,object/satellite,object/planet,object/star"></span>

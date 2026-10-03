@@ -755,20 +755,13 @@ Un semplice pendolo di lunghezza $l$ e massa $m$ è sospeso da un punto fisso in
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the calculation of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight
+**1999 – Theoretical Problem P1: Pendulum on an Inclined Plane**
 
-A simple pendulum of length $l$ and mass $m$ is suspended from a fixed point on an inclined plane of angle $\theta$. The thread forms an angle $\phi$ with the vertical in equilibrium.
+A simple pendulum of length $l$ and mass $m$ is suspended from a fixed point on an inclined plane with angle $\theta$. The string makes an angle $\phi$ with the vertical at equilibrium.
 
-- **A.** Find the angle of equilibrium $\phi$ with respect to $\theta$.
-- **B.** Determine the period of small oscillations around the equilibrium.
-- **C.** Analyze the limit case $\theta \to 90°$.
-
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.26](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
+- **A.** Find the equilibrium angle $\phi$ as a function of $\theta$.
+- **B.** Determine the period of small oscillations around equilibrium.
+- **C.** Analyze the limiting case $\theta \to 90°$.
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="iberoa 1991 — Quesito 15" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/capacitor"></span>
@@ -2020,20 +2013,13 @@ Utilizzando una rete di diffrazione e un laser di lunghezza d'onda conosciuta, c
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission in the field of information technology:
+**2005 – Experimental: Diffraction Grating Spectroscope**
 
-Using a diffraction network and a known wavelength laser, calibrate the spectroscope and measure the spectrum of a mercury vapor lamp.
+Using a diffraction grating and a laser of known wavelength, calibrate the spectroscope and measure the spectrum of a mercury vapor lamp.
 
-- **A.** Calibrate the angle of the net using the laser.
-- **B.** Measuring the angles of the lines of the Hg spectrum.
-- **C.** Calculate wavelengths with their uncertainties.
-
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Diffraction Grating (object)|Diffraction Grating]]
-**Fonte:** [Testo (PDF) — p.72](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
+- **A.** Calibrate the grating angle using the laser.
+- **B.** Measure the angles of the spectral lines from Hg.
+- **C.** Calculate the wavelengths along with their uncertainties.
 
 
 <span class="atom-split" id="q38" data-atom="q38" data-title="iberoa 1991 — Quesito 38" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/pendulum,object/spring"></span>
@@ -4165,20 +4151,13 @@ Due pendoli identici di lunghezza $L$ e di massa $m$ con cariche $+q$ e $-q$ son
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the calculation of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight
+**2014 – Theoretical Problem P1: Charged Pendulums in Equilibrium and Free Motion**
 
-Two identical pendulums of length $L$ and mass $m$ with loads $+q$ and $-q$ are in equilibrium forming angles $\pm\theta_0$ with the vertical, separated by distance $d$.
+Two identical pendulums of length $L$ and mass $m$, carrying charges $+q$ and $-q$, are in equilibrium, each forming an angle $\pm\theta_0$ with the vertical, and separated by a distance $d$.
 
-- **A.** Find the relationship between $\theta_0$, $q$, $m$, $L$ and $d$.
-- **B.** The threads are cut simultaneously. Determine the subsequent movement.
-- **C.** Calculate the time until loads are found.
-
-**Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.228](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
+- **A.** Find the relationship among $\theta_0$, $q$, $m$, $L$ and $d$.
+- **B.** The strings are cut simultaneously. Determine the subsequent motion.
+- **C.** Calculate the time until the charges meet.
 
 
 <span class="atom-split" id="q77" data-atom="q77" data-title="iberoa 1991 — Quesito 77" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/star,object/planet"></span>
@@ -4330,20 +4309,13 @@ Usando una fonte UV e un fotodettor, studiare l'attenuazione dei raggi UV in acq
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided for in the Annex to Regulation (EC) No 1907/2006:
+**2015 – Experimental: UV Disinfection and Absorption in Plastics**
 
-Using a UV source and a photodetector, study the attenuation of UV radiation in water and different plastics.
+Using a UV source and a photodetector, study the attenuation of UV radiation in water and in different plastics.
 
-- **A.** Measure the transmittance of plastics of different thicknesses to $\lambda = 254$ nm.
+- **A.** Measure the transmittance of plastics of varying thickness at $\lambda = 254$ nm.
 - **B.** Verify the Beer-Lambert law and determine the absorption coefficient.
-- **C.** Measure exponential attenuation in water columns of different depths.
-
-**Topic:** [[Wave Optics]], [[Modern-Quantum Physics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Photon Energy Relation (metodo)|Photon Energy Relation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Photon (object)|Photon]]
-**Fonte:** [Testo (PDF) — p.234](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
+- **C.** Measure the exponential attenuation in water columns of different depths.
 
 
 <span class="atom-split" id="q80" data-atom="q80" data-title="iberoa 1991 — Quesito 80" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/spring"></span>
@@ -4662,21 +4634,14 @@ Il 14 settembre 2015, LIGO ha rilevato le onde gravitazionali della fusione di d
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculations for the calculation of the calculation of the weighted average weight of the weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average weighted average
+**2016 – Theoretical Problem P1: LIGO and gravitational waves (GW150914)**
 
-On 14 September 2015, LIGO detected the gravitational waves from the merger of two black holes (GW150914).
+On September 14, 2015, LIGO detected gravitational waves from the merger of two black holes (GW150914).
 
-- **A.** Modeling the binary system of black holes with Newtonian mechanics: calculating the orbital frequency based on the $r$ separation.
-- **B.** Calculate the frequency of gravitational waves ($f_{GW} = 2f_{orb}$) at the time of fusion, when the separation is $r \approx R_{ISCO} = 6GM/c^2$.
-- **C.** Calculate the variation in the separation of LIGO mirrors (arm length $L = 4$ km) given that $h = \Delta L/L \approx 10^{-21}$.
-- **D.** Estimate the mass of the system using observed frequency data.
-
-**Topic:** [[Astrophysics]], [[Special Relativity]], [[Gravitation]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kepler's Laws (metodo)|Kepler's Laws]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Black Hole (object)|Black Hole]], [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.247](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
+- **A.** Model the binary black hole system using Newtonian mechanics: calculate the orbital frequency as a function of separation $r$.
+- **B.** Calculate the gravitational wave frequency ($f_{GW} = 2f_{orb}$) at the moment of merger, when the separation is $r \approx R_{ISCO} = 6GM/c^2$.
+- **C.** Calculate the change in separation of LIGO’s mirrors (arm length $L = 4$ km) given that $h = \Delta L/L \approx 10^{-21}$.
+- **D.** Estimate the system’s mass using the observed frequency data.
 
 
 <span class="atom-split" id="q86" data-atom="q86" data-title="iberoa 1991 — Quesito 86" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/spring,object/capacitor,object/pendulum"></span>
@@ -5160,21 +5125,14 @@ Un tubo metallico vuoto di massa $M$, lunghezza $L$ e raggio $r$ è sospeso da u
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided for in the Annex to Regulation (EU) No 575/2013:
+**2017 – Experimental (oscillations of tube-spring system): Oscillating tube-spring system**
 
-A hollow metal tube of mass $M$, length $L$ and radius $r$ is suspended from a spring of constant $k$. Vertical and rotational oscillations are studied.
+A hollow metallic tube of mass $M$, length $L$, and radius $r$ is suspended from a spring with constant $k$. Vertical and rotational oscillations are studied.
 
-- **A.** Measuring the spring constant by static and dynamic method.
+- **A.** Measure the spring constant using static and dynamic methods.
 - **B.** Determine the equivalent mass of the spring from the oscillation frequency.
-- **C.** Measure the tube moment of inertia with respect to a transverse axis ($I_{yy}$) and the equivalent spring moment of inertia.
-- **D.** Measure the cushioning coefficient $\lambda$ from the oscillation decay.
-
-**Topic:** [[Oscillations & Waves]], [[Rotational Dynamics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Curve Fitting (competenza)|Curve Fitting]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Spring (object)|Spring]], [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.278](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
+- **C.** Measure the moment of inertia of the tube about a transverse axis ($I_{yy}$) and the equivalent moment of inertia of the spring.
+- **D.** Measure the damping coefficient $\lambda$ from the decay of oscillations.
 
 
 <span class="atom-split" id="q95" data-atom="q95" data-title="iberoa 1991 — Quesito 95" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/ball,object/inclined-plane"></span>
@@ -6376,21 +6334,14 @@ Un iceberg tabulare di altezza $H$, lunghezza $L$ e larghezza $W$ galleggia nell
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years in which the number of years has been recorded is not exceeded is not included in the total:
+**2023 – Theoretical T2: Tabular Iceberg: Buoyancy and Capsizing**
 
-A tabular iceberg of height $H$, length $L$ and width $W$ floats in the ocean. The submerged fraction is $f = \rho_{hielo}/\rho_{agua}$.
+A tabular iceberg of height $H$, length $L$, and width $W$ floats in the ocean. The submerged fraction is $f = \rho_{hielo}/\rho_{agua}$.
 
 - **A.** Calculate the submerged fraction $f$ of the iceberg.
-- **B.** Analyze the potential energy based on the angle of inclination $\alpha$ for two cases: (a) spin around the long axis, (b) spin around the short axis.
-- **C.** Find the optimal angle $\alpha^* = 0.5$ to minimize the energy barrier and calculate the energy released in the rollover.
+- **B.** Analyze the potential energy as a function of the inclination angle $\alpha$ for two cases: (a) rotation about the long axis, (b) rotation about the short axis.
+- **C.** Find the optimal angle $\alpha^* = 0.5$ that minimizes the energy barrier and compute the energy released during capsizing.
 - **D.** Calculate the period of small oscillations around the equilibrium position.
-
-**Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]], [[Rigid Body Statics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.417](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
 
 
 <span class="atom-split" id="q117" data-atom="q117" data-title="iberoa 1991 — Quesito 117" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica,object/electron"></span>
@@ -6487,20 +6438,13 @@ Un pendolo di Foucault di lunghezza $L$ oscilla in latitudine $\lambda$. La rota
 
 <div class="qlang-split" data-lang="en"></div>
 
-The theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the theory of the
+**2013 – Theoretical T1: Foucault Pendulum and Earth's Rotation**
 
-A Foucault pendulum of length $L$ oscillates at latitude $\lambda$. The earth rotation causes the oscillating plane to rotate slowly.
+A Foucault pendulum of length $L$ oscillates at latitude $\lambda$. Earth's rotation causes the plane of oscillation to rotate slowly.
 
-- **A.** Derive the precision frequency $\Omega_{prec} = \Omega_{Tierra}\sin\lambda$.
-- **B.** Calculate the time required for a complete rotation of the oscillation plane in Mexico City ($\lambda = 19°N$).
-- **C.** Comparing Foucault's precession to the periastral precession due to general relativity.
-
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.148](https://drive.google.com/file/d/1qBjtTiqZjzMnIOEQjlOjht06bI5jvMhH/view)
-
+- **A.** Derive the precession frequency $\Omega_{prec} = \Omega_{Tierra}\sin\lambda$.
+- **B.** Calculate the time required for a complete rotation of the plane of oscillation in Mexico City ($\lambda = 19°N$).
+- **C.** Compare Foucault's precession with the relativistic precession of the periapsis.
 
 
 <span class="atom-split" id="q119" data-atom="q119" data-title="iberoa 1991 — Quesito 119" data-tags="kg/prova,paese/iberoamericana,comp/iberoa,cluster/Meccanica"></span>

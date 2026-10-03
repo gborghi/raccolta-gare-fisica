@@ -72,31 +72,34 @@ tolerances.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Compito 1 (0,5 punti)
-I morsetti A1, A2 e A3 sono collegati all’apotenzimetro RP e a un ulteriore resistore di carico RL.
-Quale dei schemi seguenti corrisponde al circuito contenuto nella scatola? Determinare i valori delle resistenze RL e RP; documentare le misurazioni effettuate.
+**E1 – Deep Learning (10 punti)**
 
+Le moderne ANN (reti neurali artificiali) sono fatte di miliardi di neuroni. Ogni neurone trasforma il suo input $x_1, x_2, \dots, x_n$ in un output $y$. Prima viene calcolato $$z = w_1 x_1 + w_2 x_2 + \dots + w_n x_n + b$$, con pesi reali $w_i$ e bias reale $b$. Poi una funzione di attivazione viene applicata a $z$ per produrre l'output finale $y(x_1, x_2, \dots)$. Nel presente problema studierai un modello fisico di un neurone con le tensioni elettriche $x_1$ e $x_2$ come input, con la funzione di attivazione che è $A\sigma(z)$, dove $\sigma(z) = 1/(1+\exp(-z))$ è chiamata funzione sigmoide.
+
+La scatola contiene un generatore di tensione, un circuito elettronico che modella il neurone ($z(x) = w_1x_1 + w_2x_2 + b$, output $A\sigma(z)$ attraverso un resistore di uscita in serie $R_{\mathrm{out}}$ al terminale Y), e due potenziometri (A e B, terminali A1–A3 e B1–B3). GND è il terminale negativo comune per $+V$, $x_1$, $x_2$ e $y$; X1 e X2 sono i terminali positivi delle tensioni di ingresso $x_1$ e $x_2$ (l'output si comporta in modo imprevedibile se uno di questi terminali non ha tensione di ingresso); Y si comporta come un generatore di tensione reale (generatore ideale $y$ in serie con $R_{\mathrm{out}}$). Il terminale T non deve essere utilizzato.
+
+Compito 1 (0,5 punti)
+I terminali A1, A2 e A3 sono collegati al potenziometro RP e a un resistore di carico aggiuntivo RL.
+Quale degli schemi sottostanti corrisponde al circuito nella scatola? Determina le resistenze RL e
+RP ; documenta le misurazioni effettuate.
 A1
 A2
 RP RL
 1
 A3
-
 A1
 A2
 RP
 RL
 2
 A3
-
 A1
 A2
 RL RP
 3
 A3
-
 Nota
-L’apotenzimetro B è collegato ai morsetti B1, B2 e B3 esattamente nello stesso modo con le stesse resistenze RL e RP, entro i limiti delle tolleranze di fabbricazione.
+Il potenziometro B è collegato ai terminali B1, B2, B3 esattamente nello stesso modo con le stesse resistenze RL e RP , entro le tolleranze di fabbricazione.
 
 <!--fig:start-->
 **p.2** — Schema sinusoidi con ampiezza e periodo
@@ -225,8 +228,9 @@ the value of b5 from your data.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 5 - (1,5 punti)
-Collegare il terminale X1 direttamente al +V. Progettare un circuito per approssimare la funzione y5(x) = $A\sigma$ (w2x/2 + b5), dove x è la tensione applicata al tuo nuovo terminale di ingresso definito. Determinare teoricamente il valore di b5. Realizzare il circuito, effettuare misurazioni e verificare che il tuo montaggio funzioni come previsto. Validare il valore di b5 dai tuoi dati.
+Attività 5 - (1.5 punti)
+Collegare il terminale X1 direttamente a +V. Progettare un circuito per approssimare la funzione
+$y_5(x) = A\,\sigma(w_2 x/2 + b_5)$, dove x è la tensione applicata al terminale di ingresso da te appena definito. Determinare b5 teoricamente. Implementare il circuito, effettuare misurazioni e verificare che il tuo setup funzioni come previsto. Convalidare il valore di b5 dai tuoi dati.
 
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1WRE7F2jIP-Xtoms0RfOmDpVlwdViJ6PQ/view)
 
@@ -340,52 +344,66 @@ tabular form;
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 6 - (2,5 punti)
-a Determinare la resistenza in serie interna all'uscita Rout del terminale Y. (0,5 punti)
-b Progettare e realizzare un circuito per approssimare la funzione y6(x) = A6 $\cdot \sigma(w2x$ + b) + B6, dove B6 = 1,48 V.
+Quesito 6 - (2.5 punti)
+a Determinare la resistenza di uscita interna in serie
+Rout del terminale Y. (0.5 punti)
+b Progettare e realizzare un circuito per approssimare la funzione $y_6(x) = A_6\,\sigma(w_2 x + b) + B_6$, dove
+B6 = 1.48 V.
 Determinare teoricamente A6.
-Realizzare il circuito e verificare sperimentalmente che il dispositivo funzioni come previsto. Confermare i valori di A6 e B6 dai dati raccolti. (2,0 punti)
-
-Problemi sperimentali Lingua: Inglese
+Realizzare il circuito e verificare sperimentalmente che il vostro allestimento funzioni come previsto. Confermare i valori di A6 e B6 dai vostri dati. (2.0 punti)
+Problemi Sperimentali Lingua: Inglese
 E2 – Pattern nascosto (10 punti)
-Ti viene fornito un foglio sottile e semitrasparente con un microschema stampato sulla superficie, invisibile ad occhio nudo.
-Il pattern è composto da un gran numero di sinusoidi identiche con ampiezza A, orientate orizzontalmente e con periodo spaziale $\Lambda$, ciascuna spostata verticalmente di una distanza d rispetto alle altre, come schematicamente mostrato in Fig. 1. Al microscopio si osserva che il pattern stampato è formato da segmenti di linee strettamente orizzontali, ciascuno spostato verticalmente rispetto al vicino di un passo costante s, come mostrato in Fig. 2.
-
+Vi viene fornita una pellicola piatta semitrasparente con un micropattern stampato sulla sua superficie che è invisibile a occhio nudo.
+Il pattern è costituito da un gran numero di sinusoidi identiche di ampiezza A, che corrono orizzontalmente con periodo spaziale $\Lambda$, e traslate verticalmente di una distanza d l'una rispetto all'altra, come schematicamente mostrato in Fig. 1. Al microscopio, si può vedere che il pattern stampato è composto da segmenti di linea rigorosamente orizzontali, ciascuno spostato verticalmente rispetto ai suoi vicini di un passo costante s, come mostrato in Fig. 2.
 2A d
 $\Lambda$
-Figura 1: Schema del pattern (non in scala)
+Figura 1: Pattern (non in scala)
 d s
-Figura 2: Pattern osservato al microscopio
-
+Figura 2: Pattern come visto al microscopio
 Attrezzatura (vedi anche Fig. 3)
-A Foglio semitrasparente con microschema stampato sulla superficie.
-B Diodo laser con lunghezza d'onda $\lambda$ = (654 $\pm$ 5) nm. Il diodo laser può essere messo a fuoco alla distanza desiderata ruotando la capsula esterna che contiene una lente.
+Una pellicola semitrasparente con un micropattern stampato sulla sua superficie.
+Un diodo laser con lunghezza d'onda $\lambda$ = (654 $\pm$ 5) nm. Il diodo laser può essere focalizzato alla distanza desiderata ruotando il tappo terminale con una lente all'interno.
 Avvertenza:
-Non svitare completamente la capsula esterna! All'interno c'è una lente orientata e una molla.
-Non sarà fornito un laser di ricambio se danneggiato o smontato.
-C Due piani in acciaio a forma di L da 90 gradi, utilizzati come supporti per la lamina e il diodo laser. La lamina può essere fissata a uno dei piani mediante gli appositi piccoli morsetti.
-Il diodo laser può essere montato sull'altro piano con un morsetto più grande e colorato o con la fascetta in gomma fornita.
-D Una carta con un goniometro stampato – un sistema di coordinate polari con divisioni radiali da 1 mm e suddivisioni angolari in gradi.
-E Uno schermo: la superficie grande della scatola contenente i materiali sperimentali. Vuotare la scatola e posizionarla sul tavolo con la superficie grande verticale.
+Non svitare completamente il tappo terminale! All'interno, ci sono una lente orientata e una molla.
+Nessun laser di ricambio sarà fornito se danneggiato o smontato.
+C Due assi di acciaio a forma di L con angolo di 90 gradi che servono da supporti per la pellicola e il diodo laser. La pellicola può essere fissata a una delle assi usando le piccole clip fornite.
+Il diodo laser può essere montato sull'altra asse con una clip colorata più grande o con l'elastico fornito.
+D Un foglio di carta con un goniometro stampato – un sistema di coordinate polari con passi radiali di 1 mm e
+A
+C
+C
+J
+B
+H
+H
+A
+C
+C
+J
+B
+H
+H
+Figura 3: Componenti A, B, C, H e J disposti per l'esperimento.
+divisioni angolari in gradi.
+E Uno schermo: la superficie grande della scatola contenente i materiali sperimentali. Svuotare la scatola e collocarla sulla scrivania con la sua superficie grande verticale.
 F Righello.
-G Nastro metrico.
-H Nastro adesivo fissato al righello. Usare pezzi di nastro per fissare il goniometro stampato allo schermo o per tenere fermi i componenti al tavolo. È possibile chiedere ulteriore nastro se necessario.
+G Metro a nastro.
+H Nastro adesivo attaccato al righello. Usare pezzi di nastro per fissare il goniometro stampato allo schermo o per assicurare i componenti al tavolo. È possibile chiedere altro nastro se necessario.
 I Carta millimetrata.
-J Una scala per la misura di 80 mm con linee di riferimento diagonali che consentono di misurare frazioni delle divisioni principali, con precisione fino a $\pm0.1$ mm.
-Suggerimento: in tutte le tue misurazioni sei libero di disegnare o mettere segni sullo schermo.
-Importante: si assuma che la superficie del tavolo sperimentale sia piana e che lo schermo sia rigorosamente perpendicolare al tavolo.
-
-Compiti (10,0 punti)
-Determina con la massima precisione possibile:
+J Una scala di misura in carta da 80 mm con linee di riferimento diagonali che consentono di misurare frazioni delle divisioni principali della scala, con precisione di
+$\pm0.1$ mm.
+Suggerimento: in tutte le vostre misurazioni siete liberi di disegnare o apporre segni sullo schermo.
+Importante: Assumere che la superficie del tavolo sperimentale sia piana, e che lo schermo sia strettamente perpendicolare al tavolo.
+Compiti (10.0 punti)
+Determinare il più precisamente possibile:
 a Il periodo della sinusoide $\Lambda$. (2 punti)
-b Lo spostamento verticale d delle sinusoide adiacenti (2 punti)
+b Lo scostamento verticale d delle sinusoidi adiacenti (2 punti)
 c L'ampiezza della sinusoide A (3 punti)
-d L'altezza del passo s (3 punti)
-
-In tutti i compiti ti si richiede di:
-1. tracciare un disegno del montaggio e/o motivare un metodo per misurare le grandezze corrispondenti;
+d L'altezza del gradino s (3 punti)
+In tutti i compiti ci si aspetta che:
+1. disegnare un setup e/o motivare un metodo per misurare le grandezze corrispondenti;
 2. riportare le misure e i calcoli in forma tabellare;
-3. stimare le grandezze richieste e le rispettive incertezze in modo grafico, ove ragionevole.
+3. stimare le grandezze desiderate e le loro incertezze graficamente, ove ragionevole.
 
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1WRE7F2jIP-Xtoms0RfOmDpVlwdViJ6PQ/view)
 

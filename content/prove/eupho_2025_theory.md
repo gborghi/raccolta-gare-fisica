@@ -41,13 +41,13 @@ b) (5 pts) In the following figure some fingers are blocking some of the light f
 
 <div class="qlang-split" data-lang="it"></div>
 
-**T1: Soleggiato (10 punti)**
+**T1: Sunny (10 punti)**
 
-Ti viene chiesto di studiare le caratteristiche del cerchio luminoso e degli anelli scuri nelle figure riportate di seguito. Esegui i tuoi calcoli in una situazione idealizzata: il piede della sedia è strettamente cilindrico di raggio $a$, perfettamente verticale, con una superficie cilindrica perfettamente liscia e perfettamente riflettente. Puoi fare qualsiasi ulteriore ipotesi di modello e approssimazioni ragionevoli che semplifichino i tuoi calcoli.
+Ti viene chiesto di studiare le caratteristiche del cerchio luminoso e degli anelli scuri nelle figure seguenti. Esegui i calcoli per una situazione idealizzata: la gamba della sedia è rigorosamente cilindrica di raggio $a$, rigorosamente verticale, con una superficie perfettamente liscia, cilindrica e perfettamente riflettente. Puoi fare qualsiasi ulteriore ipotesi di modello e approssimazione che ritieni ragionevole e che semplificherà i tuoi calcoli.
 
-a) (5 punti) Determina come il surplus di illuminamento $I(r,\theta)$ all'interno del cerchio luminoso sul pavimento dipende dalle coordinate polari $r \gg a$ e $\theta$. L'illuminamento quantifica la quantità di luce incidente per unità di superficie. Con "surplus" si intende l'illuminamento aggiuntivo introdotto dalla presenza del cilindro. Espri il risultato in termini di $I_0$, definito come la differenza di illuminamento tra i punti A e B nella figura.
+a) (5 punti) Determina come il surplus di illuminamento $I(r,\theta)$ all'interno del cerchio luminoso sul pavimento dipende dalle coordinate polari $r \gg a$ e $\theta$. L'illuminamento quantifica la quantità di luce incidente per area. Per "surplus" intendiamo l'illuminamento aggiuntivo introdotto a causa della presenza del cilindro. Esprimi la risposta in termini di $I_0$ definito come la differenza di illuminamento tra i punti A e B nella figura.
 
-b) (5 punti) Nella seguente figura alcune dita bloccano parte della luce che raggiunge il piede della sedia. Sia $R(\theta)$ la distanza radiale dell'anello scuro centrale come funzione dell'angolo $\theta$ e sia $R_{\min}$ il valore minimo di $R(\theta)$. Determina $R(\theta) - R_{\min}$.
+b) (5 punti) Nella figura seguente alcune dita bloccano parte della luce che raggiunge la gamba della sedia. Sia $R(\theta)$ la distanza radiale dell'anello scuro centrale in funzione dell'angolo $\theta$ e sia $R_{\min}$ il valore minimo di $R(\theta)$. Determina $R(\theta) - R_{\min}$.
 
 <!--fig:start-->
 ![[_attachments/EuPhO_2025_theory/EuPhO_2025_theory_p1_f1.png]]
@@ -56,10 +56,6 @@ b) (5 punti) Nella seguente figura alcune dita bloccano parte della luce che rag
 <!--fig:start-->
 ![[_attachments/EuPhO_2025_theory/EuPhO_2025_theory_p1_f2.png]]
 *Fingers blocking light, dark ring R(θ)*
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/EuPhO_2025_theory/EuPhO_2025_theory_p1_f4.png]]
-*Two crossed current-carrying wires X and Y with point P*
 <!--fig:end-->
 
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1YX6XKs1Ou7I9pAhUtxy0_lZESabvUXKQ/view)
@@ -137,13 +133,18 @@ c) (4 pts) Let $L$ be the length of this field line between P and its point of c
 
 <div class="qlang-split" data-lang="it"></div>
 
-**T3: Filo incrociato (10 punti)**
+**T3: Fili incrociati (10 punti)**
 
-a) (1 punto) Una corrente scorre in un filo rettilineo, infinito e sottile. È presente un campo magnetico esterno uniforme diretto parallelamente al filo. Rappresenta qualitativamente una delle linee di campo magnetico.
+a) (1 punto) Una corrente scorre attraverso un filo infinito, rettilineo e sottile. È presente un campo magnetico uniforme imposto dall'esterno, diretto parallelamente al filo. Disegna qualitativamente una delle linee del campo magnetico.
 
-b) (5 punti) Considera ora due fili rettilinei, infiniti e sottili (fili $X$ e $Y$), ognuno dei quali porta una corrente $I$ come mostrato nella figura. L'asse $x$ coincide con il filo $X$, mentre il filo $Y$ è parallelo all'asse $y$ e passa per il punto $(0, 0, -a)$. Sia P il punto $(3a, 0, r)$. Supponendo $r \ll a$, calcola $d$, la distanza minima tra la linea di campo magnetico che passa per P e il filo $X$.
+b) (5 punti) Considera ora due fili infiniti, rettilinei e sottili (fili $X$ e $Y$), ciascuno percorso da una corrente $I$ come mostrato in figura. L'asse $x$ coincide con il filo $X$, mentre il filo $Y$ è parallelo all'asse $y$ e passa per il punto $(0, 0, -a)$. Sia P il punto $(3a, 0, r)$. Assumendo $r \ll a$, calcola $d$, la distanza di massimo avvicinamento della linea del campo magnetico che passa per P al filo $X$.
 
-c) (4 punti) Sia $L$ la lunghezza di questa linea di campo tra P e il suo punto più vicino al filo $X$. Utilizzando i valori $a = 10$ cm e $r = 1.0$ mm, calcola $L$ con un errore relativo non superiore al 20%.
+<!--fig:start-->
+![[_attachments/EuPhO_2025_theory/EuPhO_2025_theory_p1_f4.png]]
+*Two crossed current-carrying wires X and Y with point P*
+<!--fig:end-->
+
+c) (4 punti) Sia $L$ la lunghezza di questa linea di campo tra P e il suo punto di massimo avvicinamento al filo $X$. Usando i valori $a = 10$ cm e $r = 1.0$ mm, calcola $L$ con un errore relativo entro il 20%.
 
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1YX6XKs1Ou7I9pAhUtxy0_lZESabvUXKQ/view)
 

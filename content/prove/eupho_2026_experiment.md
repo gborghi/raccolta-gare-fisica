@@ -69,21 +69,50 @@ b) Use your tool to roughly estimate the distance between two adjacent antinodes
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Compito E1: Indagine del campo acustico (1.0 punti)**
+**Levitazione acustica (20 punti)**
 
-Un levitatore acustico è costituito da trasduttori che convertono un segnale elettrico in onde sonore intense. La pressione acustica del pattern di interferenza risultante può sollevare oggetti piccoli nelle vicinanze dei nodi del pattern.
+Un levitatore acustico è costituito da trasduttori che convertono un segnale elettrico in onde sonore intense. La pressione acustica della figura di interferenza risultante può levitare piccoli oggetti vicino ai nodi della figura.
 
-Avviso: Evitare di cortocircuitare i collegamenti sulla parte superiore e inferiore del levitatore.
+Attenzione: evitare di cortocircuitare i collegamenti sulla parte superiore e inferiore del levitatore.
 
-I compiti E1–E7 di questo esame sono progettati per essere indipendenti dai risultati degli altri. Puoi saltare i compiti con cui hai difficoltà. Per i seguenti compiti, considera soltanto i nodi sull’asse $z$. Per il compito E3 e successivi, utilizza soltanto il nodo centrale più esteso. L’interruttore Mode X sulla scatola elettrica (F) deve essere posizionato nella posizione O.
+I quesiti E1–E7 di questo esame sono progettati per essere indipendenti dai risultati l'uno dell'altro. Puoi saltare i quesiti con cui hai difficoltà. Per i quesiti seguenti, considera solo i nodi sull'asse $z$. Per il quesito E3 e successivi, usa solo il nodo più centrale. L'interruttore Mode X sulla scatola elettrica (F) dovrebbe essere in posizione O.
 
-**Compito E1: Indagine del campo acustico (1.0 punti)**
+**Attrezzatura**
 
-Per familiarizzare con il campo acustico, utilizza gli LED verdi (A) e il trasduttore (B) per costruire uno strumento che emetta luce in funzione dell’intensità acustica locale. Un trasduttore è un condensatore il cui carico dipende dalla pressione meccanica applicata su di esso.
+- A. Due LED verdi (diodi a emissione luminosa). Non collegare i LED all'alimentatore (G).
+- B. Trasduttore singolo.
+- C. Telaio metallico con un modulo levitatore e un LED rosso, che può essere modellato come sorgente puntiforme.
+- D. Unità di cattura per raccogliere gli oggetti in caduta.
+- E. 2 chiavi a brugola per montare e allineare l'apparecchiatura.
+- F. Custodia elettrica con interruttori LED e Mode X.
+- G. Alimentatore.
+- H. Cavi a banana.
+- I. Schermo.
+- J. Nastro adesivo.
+- K. Righello trasparente.
+- L. Rete metallica.
+- M. Pinzette.
+- N. 15 perline blu di polistirolo.
+- O. Più perline sferiche bianche di materiale sconosciuto ($\varnothing\,2.0$ mm).
+- P. Più perline sferiche trasparenti di vetro ($\varnothing\,2.0$ mm, $\rho_{\text{glass}} = 2500\ \mathrm{kg\,m^{-3}}$).
+- Q. 3 liquidi sconosciuti diversi etichettati I, II e III. Possono essere tutti toccati con le mani senza pericolo, ma non devono essere ingeriti.
+- R. 3 siringhe.
+- S. 3 aghi a punta smussata per le siringhe (attenzione!).
+- T. 2 mollette per panni.
+- U. Cronometro.
+- V. Lampada.
+- W. Cavo di alimentazione.
+- X. Pezzo di carta per asciugare la rete metallica (non presente nell'immagine).
 
-a) Disegna lo schema del circuito per il tuo strumento. (0.5 punti)
+Se sospetti che un componente si sia guastato per qualche motivo durante la gara, informa il sorvegliante per ottenere assistenza.
 
-b) Utilizza lo strumento per stimare approssimativamente la distanza tra due antinodi adiacenti sull’asse $z$ al centro del levitatore. (0.5 punti)
+**Quesito E1: Sondare il campo acustico (1.0 punti)**
+
+Per familiarizzare con il campo acustico, usa i LED verdi (A) e il trasduttore (B) per costruire uno strumento che emette luce in base all'intensità acustica locale. Un trasduttore è un condensatore la cui carica dipende dalla pressione meccanica applicata ad esso.
+
+a) Disegna uno schema circuitale per il tuo strumento. (0.5 punti)
+
+b) Usa il tuo strumento per stimare approssimativamente la distanza tra due antinodi adiacenti sull'asse $z$ al centro del levitatore. (0,5 punti)
 
 **Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Experiment_solution_final.pdf)
 
@@ -270,16 +299,16 @@ b) Estimate the maximum diameter of a droplet that can be levitated. (2.0 pts)
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema E6: Esplosione (4,0 punti)**
+**Quesito E6: Esplosione (4.0 punti)**
 
-Quando la pressione acustica è troppo elevata, la goccia levitante esplode. Una formula teorica per la massima tensione che può essere applicata alla goccia prima dell'esplosione è
-$$U_{\max} = \frac{\sqrt{\alpha}}{D} + \beta,$$ dove $\alpha$ e $\beta$ sono delle costanti.
+Quando la pressione acustica è troppo elevata, la goccia in levitazione esplode. Una formula teorica per la tensione massima che può essere applicata alla goccia prima che esploda è
+$$U_{\max} = \sqrt{\frac{\alpha}{D} + \beta},$$ dove $\alpha$ e $\beta$ sono alcune costanti.
 
-Per questo problema, considera soltanto il liquido II.
+Per questo quesito considera solo il liquido II.
 
-a) Determina le costanti $\alpha$ e $\beta$ nelle unità $\mathrm{V}^2\cdot\mathrm{mm}$ e $\mathrm{V}^2$, rispettivamente. (2,0 punti)
+a) Determina le costanti $\alpha$ e $\beta$ nelle unità $\mathrm{V}^2\cdot\mathrm{mm}$ e $\mathrm{V}^2$, rispettivamente. (2.0 punti)
 
-b) Stimare il diametro massimo di una goccia che può essere levitata. (2,0 punti)
+b) Stima il diametro massimo di una goccia che può essere levitata. (2.0 punti)
 
 **Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Experiment_solution_final.pdf)
 

@@ -75,15 +75,17 @@ c) (4.7 pts) The current $I(t)$ exhibits two qualitatively distinct phases of be
 
 **T2: Isteresi (10 punti)**
 
-Si consideri un solenoide con $N \gg 1$ spire, raggio $R$ e lunghezza $\ell \gg R$. Il solenoide ha un nucleo ferromagnetico con curva di isteresi come mostrato in figura. $M$ indica la magnetizzazione del nucleo e sarebbe nulla senza il materiale del nucleo. Essa è legata a $H$, l'intensità di campo magnetico generato dalla corrente nel solenoide, e a $B$ tramite la relazione $B = \mu_0 (H + M)$. $M_0$ e $H_0$ sono dello stesso ordine di grandezza. Si assuma che $M$ possa variare soltanto se $|H| \ge H_0$.
+Si consideri un solenoide con $N \gg 1$ spire, raggio $R$ e lunghezza $\ell \gg R$. Il solenoide ha un nucleo ferromagnetico con curva di isteresi come mostrato in figura. $M$ denota la magnetizzazione del nucleo e sarebbe zero senza il materiale del nucleo. Essa è legata a $H$, l'intensità del campo magnetico generato dalla corrente nella bobina del solenoide, e a $B$ da $B = \mu_0 (H + M)$. $M_0$ e $H_0$ sono dello stesso ordine di grandezza. Si assuma che $M$ possa cambiare solo se $|H| \ge H_0$.
 
-Ora si collega in serie al solenoide un condensatore ideale di capacità $C$, formando un circuito chiuso. Si assuma che tutti i fili abbiano resistenza trascurabile.
+![[_attachments/eupho_2026_theory/eupho_2026_theory_t2_f1.png|Hysteresis curve]]
 
-a) (3.0 punti) Inizialmente scorre una corrente $I_i$ nel circuito e il condensatore è scarico. $I_i$ è sufficientemente grande da garantire che $H(I_i) \gg H_0$. Dopo un'oscillazione, la corrente raggiunge nuovamente il valore massimo. Determinare la differenza tra $I_i$ e questo valore.
+Un condensatore ideale con capacità $C$ è ora collegato al solenoide formando un circuito chiuso. Si assuma che tutti i fili abbiano resistenza trascurabile.
 
-b) (2.3 punti) Trovare il massimo valore di corrente che può essere raggiunto dopo molte oscillazioni.
+a) (3.0 punti) Inizialmente nel circuito scorre una corrente $I_i$ e il condensatore è scarico. $I_i$ è sufficientemente grande affinché $H(I_i) \gg H_0$. Dopo un'oscillazione la corrente raggiunge nuovamente un valore massimo. Determinare la differenza tra $I_i$ e questo valore.
 
-c) (4.7 punti) La corrente $I(t)$ presenta due fasi di comportamento qualitativamente diverse, A e B. Il sistema può rimanere indefinitamente nella fase A, mentre ogni singolo intervallo trascorso nella fase B ha durata limitata. Determinare la massima durata possibile di un intervallo nella fase B, se $I_i$ viene scelto in modo ottimale.
+b) (2.3 punti) Trovare la corrente massima che può essere raggiunta dopo molte oscillazioni.
+
+c) (4.7 punti) La corrente $I(t)$ presenta due fasi di comportamento qualitativamente distinte, A e B. Il sistema può rimanere nella fase A indefinitamente, mentre qualsiasi singolo intervallo trascorso nella fase B ha durata limitata. Trovare la massima durata possibile di un intervallo in fase B, se $I_i$ è scelto in modo ottimale.
 
 **Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Theory_AC__Copy_v1.0.pdf)
 

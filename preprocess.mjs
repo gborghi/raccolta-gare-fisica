@@ -10,6 +10,7 @@ import { fileURLToPath } from "node:url"
 import matter from "gray-matter"
 import { stripLocalPdfLinks } from "./scripts/pdf-links.mjs"
 import { addSibling, mergeSiblings, newSiblingStats } from "./scripts/siblings.mjs"
+import { nationInfo } from "./scripts/nation.mjs"
 
 const NUL = String.fromCharCode(0)
 
@@ -135,36 +136,7 @@ function flagFor(country, comp, pdf) {
   return FLAGS[country] || "🌍"
 }
 
-// country (Italian/variant name as stored) -> { ISO-3166-1 alpha-2 (lowercase, for
-// flagcdn), English name (tooltip) }. Windows can't render flag EMOJI (🇮🇹 shows as
-// "IT"), so the tables use flagcdn images instead. International/multi-country comps
-// have no single flag -> iso "" -> globe.
-const COUNTRY = {
-  Italia: ["it", "Italy"], Brasile: ["br", "Brazil"], Brasil: ["br", "Brazil"],
-  India: ["in", "India"], Singapore: ["sg", "Singapore"], Canada: ["ca", "Canada"],
-  USA: ["us", "United States"], Russia: ["ru", "Russia"], Spagna: ["es", "Spain"],
-  Spain: ["es", "Spain"], UK: ["gb", "United Kingdom"], Germania: ["de", "Germany"],
-  Germany: ["de", "Germany"], Deutschland: ["de", "Germany"], Argentina: ["ar", "Argentina"],
-  Svizzera: ["ch", "Switzerland"], Australia: ["au", "Australia"], Colombia: ["co", "Colombia"],
-  Giappone: ["jp", "Japan"], Kazakhstan: ["kz", "Kazakhstan"], Indonesia: ["id", "Indonesia"],
-  Portogallo: ["pt", "Portugal"], "Hong Kong": ["hk", "Hong Kong"],
-  Brazil: ["br", "Brazil"], Estonia: ["ee", "Estonia"], China: ["cn", "China"],
-  Taiwan: ["tw", "Taiwan"], Romania: ["ro", "Romania"], Hungary: ["hu", "Hungary"],
-  Azerbaijan: ["az", "Azerbaijan"], Portugal: ["pt", "Portugal"],
-}
-// -> { iso, name }. iso "" means render the globe (international / multi-country / unmapped).
-function nationInfo(country, comp, pdf) {
-  const p = (pdf || "").toLowerCase()
-  const e = COUNTRY[country]
-  // comp_code IPhO is also the German selection (paese/Germania). A mapped country
-  // keeps its flag; only a real international paper (path, or no single country) is a globe.
-  const pathIntl = /\/ipho\/|\/eupho\//.test(p)
-  const nameIntl = /^intern/i.test(country || "")
-  const compIntl = (comp === "IPhO" || comp === "EuPhO") && !e
-  const intl = pathIntl || nameIntl || compIntl
-  if (e && !intl) return { iso: e[0], name: e[1] }
-  return { iso: "", name: intl ? "International" : (country || "International") }
-}
+// country -> { iso, name } for the flag column: see scripts/nation.mjs (nationInfo).
 
 // Wikilinks are rewritten to prove/<stem> before the list is extracted, but the
 // flag maps are keyed by the file basename. Look up both, or every row is a globe.

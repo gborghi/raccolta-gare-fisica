@@ -15,7 +15,7 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2025 — Quesito 1" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/conducting-sphere"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -82,43 +82,11 @@ Codice: Codice
 **Objects:** [[Conducting Sphere (object)|Conducting Sphere]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The problem is that the loaded spheres (MC problem)
-(5.0 p.p.)
-Of the three identical metal spheres shown, sphere A is charged with a charge $Q$.
-Spheres B and C are initially uncharged. First of all,
-The two spheres A and B are brought into conducting
-contact and then separated again.
-A
-$Q$
-B
-C
-The same is then done in turn with spheres A and C and finally with spheres B and C.
-You can assume that only the two spheres brought into contact at any given time
-influence each other, while the third is located far away.
-What charge does sphere C carry in the end?
-A $\dfrac{1}{4}Q$
-B $\dfrac{1}{3}Q$
-C $\dfrac{3}{8}Q$
-D $\dfrac{1}{2}Q$
-Answer section
-Calculations and explanations
-Correct answer:
-55th IPhO 2025 - Second Round Exam
-The code: Code
-
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Conducting Sphere (object)|Conducting Sphere]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2025 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/projectile"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -167,34 +135,11 @@ Codice: Codice
 **Objects:** [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the types of waste and waste management and the types of waste and waste management and the types of waste and waste management and the types of waste and waste management and the types of waste and waste management and the types of waste and waste management and the types of waste and waste management and the types of waste and waste management and the types of waste and waste management and the types of waste and waste management and the types of waste and waste management and the types of waste and waste management and the types of waste and waste management and the types of waste and waste management and the types of waste and waste management and the types of waste and waste management and the following:
-(5.0 p.p.)
-A stone falls vertically downwards. In the first three seconds of the case it covers the same distance
-As in the last second before impact. Friction is to be neglected during the fall.
-At what speed does the stone hit the ground?
-A about $50\ \text{km h}^{-1}$
-B about $120\ \text{km h}^{-1}$
-C about $140\ \text{km h}^{-1}$
-D about $180\ \text{km h}^{-1}$
-Answer section
-Calculations and explanations
-Correct answer:
-55th IPhO 2025 - Second Round Exam
-The code: Code
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2025 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/magnet"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -335,80 +280,11 @@ Codice: Codice
 **Objects:** [[Magnet (object)|Magnet]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The problem is that the magnetic force is not a magnetic force.
-(5.0 p.p.)
-In an experiment, the force interaction between
-A ring magnet and a bar magnet is investigated. The poles of the two magnets are, as shown in
-The figure, oriented in the same direction. The bar magnet can be displaced along the
-Axis shown. The graph shows the force on the
-bar magnet as a function of its position $x$ on
-The axis.
-Bar magnet
-$40\ \text{mm}$
-Ring magnet
-0
-$x$
-$-60$
-$-40$
-$-20$
-20
-40
-60
-$-15$
-$-10$
-$-5$
-5
-10
-15
-$x$ / mm
-$F$ / N
-Fig. 1. Graph of the force on the bar magnet as a function of position $x$.
-From the graph, the equilibrium positions of the bar magnet along the axis can be
-Read off. An equilibrium position is called stable if the magnet, after a small
-Displacement, returns to this position. Now the bar magnet is turned around, so that the poles
-The magnets are oriented in opposite directions.
-How many stable equilibrium positions along the axis are there for the bar magnet in
-This orientation?
-A
-1
-B
-2
-C
-3
-D
-5
-Answer section
-Calculations and explanations
-55th IPhO 2025 - Second Round Exam
-The code: Code
-Calculations and explanations (continued)
-Correct answer:
-55th IPhO 2025 - Second Round Exam
-The code: Code
-
-
-<!--fig:start-->
-![[_attachments/55_IPhO_2025_2Rd_Aufgaben/55_IPhO_2025_2Rd_Aufgaben_p4_f1.png]]
-The following table shows the characteristics of the magnetic field:
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/55_IPhO_2025_2Rd_Aufgaben/55_IPhO_2025_2Rd_Aufgaben_p4_f2.png]]
-The following table shows the results of the calculations:
-<!--fig:end-->
-
-**Topic:** [[Magnetism]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Magnet (object)|Magnet]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2025 — Quesito 4" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/gas"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -457,34 +333,11 @@ Codice: Codice
 **Objects:** [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the problems:
-(5.0 p.p.)
-A quantity of an ideal gas expands from an initial state to a state with double the volume.
-Does the gas do more work if the expansion is isobaric, i.e. at constant pressure, or isothermal, i.e. At a constant temperature?
-A The gas does more work in the isobaric expansion.
-B The gas does more work in the isothermal expansion.
-C The gas does the same job in both cases.
-D With the given information it cannot be decided in which case more work
-It's done.
-Answer section
-Calculations and explanations
-Correct answer:
-55th IPhO 2025 - Second Round Exam
-The code: Code
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2025 — Quesito 5" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/lens"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -585,60 +438,11 @@ Codice: Codice
 **Objects:** [[Lens (object)|Lens]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the types of luminous rings:
-(5.0 p.p.)
-A luminous ring is imaged with the help of a thin lens. The position and size of the ring
-are shown in the to-scale figure. The focal length $f$ of the lens is $15\ \text{cm}$ and the
-The thickness of the ring can be neglected.
-$20{,}0\ \text{cm}$
-Lens
-optical axis
-$f$
-$f$
-Ring
-A
-B
-C
-D
-The ratio of the length of the segment from B to D to the length of the segment from A to C is 1.
-What is the ratio of the segment lengths between the corresponding points in the image of the
-- What?
-A
-$0{,}6$
-B
-$1{,}0$
-C
-$1{,}8$
-D
-$2{,}0$
-Answer section
-Calculations and explanations
-55th IPhO 2025 - Second Round Exam
-The code: Code
-Calculations and explanations (continued)
-Correct answer:
-55th IPhO 2025 - Second Round Exam
-The code: Code
-
-
-<!--fig:start-->
-![[_attachments/55_IPhO_2025_2Rd_Aufgaben/55_IPhO_2025_2Rd_Aufgaben_p7_f3.png]]
-*diagramma ottico anello luminoso e lente*
-<!--fig:end-->
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="IPhO 2025 — Quesito 6" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -695,38 +499,11 @@ Codice: Codice
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 6 Twins on a Journey (MC problem)
-(5.0 p.p.)
-Max and Sepp are twins. On their shared 20th birthday, Max sets off from Earth
-on a journey into space at the constant speed $\beta c$, where $c$ is the speed of light
-and $0 < \beta < 1$. Exactly five years later his twin brother Sepp also sets off and follows Max at
-$v = 0{,}8\,c$.
-The day Sepp catches up with his brother Max, they realize that the two can celebrate again
-They're having their birthday together, but they're puzzled. Max is celebrating his 36th birthday.
-Which birthday is Sepp celebrating?
-A Sepp is celebrating his 30th birthday.
-B Sepp is celebrating his 32nd birthday.
-C Sepp is celebrating his 34th birthday.
-D Sepp is celebrating his 40th birthday.
-Answer section
-Calculations and explanations
-Correct answer:
-55th IPhO 2025 - Second Round Exam
-The code: Code
-
-**Topic:** [[Special Relativity]]
-**Metodi:** [[Lorentz Transformation (metodo)|Lorentz Transformation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="IPhO 2025 — Quesito 7" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/wire"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -861,77 +638,11 @@ La legge della conservazione dell'energia, scrivete brevemente.
 **Objects:** [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 7 Magnetic field of a bent wire (MC problem)
-(5.0 p.p.)
-A square conductor is bent from a piece of wire which,
-As shown alongside, can be considered as
-the edges of one face of a cube with edge length $a$. A voltage source with a voltage $U$
-is connected to the ends of the conductor. As a result, a current of magnitude $I$ flows through the conductor.
-$I$
-$U$
-$B$
-$a$
-The current generates a magnetic field in the surroundings of the conductor. At the center of the cube
-This has a magnetic flux density with a magnitude $B$. The magnetic flux density is a
-measurement of the strength of the magnetic field.
-Another piece of the wire is now bent so
-That it runs along the edges of the cube shown
-I'm going to be right next to you. A voltage source with a voltage $U$
-is also connected to the ends of the wire.
-As a result, a current $I'$ flows through the
-The conductor.
-The resistance of the leads can be neglected in both configurations.
-$I'$
-$U$
-$B'=$?
-$a$
-What is now the magnitude $B'$ of the magnetic flux density of the magnetic field generated by the
-Current at the center of the cube?
-A
-$0$
-B
-$\dfrac{2}{\sqrt{3}}B$
-C
-$\dfrac{3}{2}B$
-D
-$\sqrt{3}\,B$
-Answer section
-Calculations and explanations
-55th IPhO 2025 - Second Round Exam
-The code: Code
-Calculations and explanations (continued)
-Correct answer:
-55th IPhO 2025 - Second Round Exam
-The code: Code
-Long problems
-Work on the following three problems also in the boxes provided. Unlike the
-Multiple-choice problems, no answer options are given. Describe your solution
-So that it's easy to follow but not unnecessarily long. So if, for example, you use
-The Law of Conservation of Energy, write this down briefly.
-
-
-<!--fig:start-->
-![[_attachments/55_IPhO_2025_2Rd_Aufgaben/55_IPhO_2025_2Rd_Aufgaben_p10_f4.png]]
-*filo piegato su cubo (primo schema)*
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/55_IPhO_2025_2Rd_Aufgaben/55_IPhO_2025_2Rd_Aufgaben_p10_f5.png]]
-*filo piegato su cubo (secondo schema)*
-<!--fig:end-->
-
-**Topic:** [[Magnetism]]
-**Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Superposition Principle (metodo)|Superposition Principle]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="IPhO 2025 — Quesito 8" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/spring"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -1170,129 +881,12 @@ Codice: Codice
 **Objects:** [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 8 Elevator Oscillations
-(including the following:
-Sophia and Alexander use the elevator of a tall building for physics experiments. When the elevator comes to a stop at a
-floor, they jump into the air together inside the cabin. They notice that the elevator cabin oscillates vertically right
-after landing. They want to investigate this more closely and use an acceleration sensor to determine the period
-of this oscillation. In doing so, they find that the
-The oscillation period $T$ depends on the floor at which the
-Elevator is currently on.
-You're to investigate this behavior with a simple model. Assume that the elevator cabin hangs only from a steel cable that behaves like an elastic spring. The spring constant $k$ of the cable can be expressed as
-
-$$k = \frac{E A}{\ell}.$$
-
-(8.1)
-Here $E$ denotes the elastic modulus of the steel cable, $A$ its
-cross-sectional area and $\ell$ the length of the cable. The mass of the cable
-is to be neglected compared to the mass of the cabin.
-Furthermore, assume that the drive wheel and the cable are
-completely locked by the brake and that friction can otherwise
-be neglected.
-8. (a) Determining an expression for the restoring force on
-the elevator cabin when it is displaced in the vertical direction by a small distance $x$
-with $|x| \ll \ell$ from its respective rest position. (b) the number of persons who are not members of the
-Counterweight
-Cabin
-Drive wheel
-Cable
-Brake
-Fig. 2. Sketch of the elevator
-with its suspension.
-The restoring force leads to a vertical oscillation of the elevator cabin
-8.b) Give the period $T$ of this oscillation and express it in terms of the quantities $E$, $A$, $\ell$
-as well as the total mass $m$ of the elevator cabin with the people inside it. (including the following)
-55th IPhO 2025 - Second Round Exam
-The code: Code
-The following table shows the oscillation periods $T$ determined by Sophia and Alexander for
-A stop at various floors. The ground floor (GF) is located approximately at ground level and each floor is about $3{,}0\ \text{m}$ high.
-Floor
-18
-16
-14
-12
-10
-8
-6
-4
-2
-GF
-$T$ / s
-$0{,}21$
-$0{,}23$
-$0{,}28$
-$0{,}29$
-$0{,}30$
-$0{,}33$
-$0{,}36$
-$0{,}38$
-$0{,}40$
-$0{,}42$
-$T'$ / s
-$0{,}24$
-$0{,}30$
-$0{,}32$
-$0{,}34$
-$0{,}38$
-$0{,}42$
-$0{,}43$
-$0{,}48$
-$0{,}50$
-$0{,}53$
-The lower row of the table with values for $T'$ is only needed in the last part of the problem.
-8.c) Make a graph of $T^2$ as a function of the floor. From it, determine the
-approximate height of the building. (6.0 pts)
-The reports of Alexander and Sophie also motivate their circle of friends. They repeat the
-experiment on another day with an additional mass of $500\ \text{kg}$ in the elevator cabin
-- The two obviously have many friends. The oscillation periods determined in this case are listed as $T'$ in the table above.
-8.d) Using the data, approximately determine the mass $m$ of the elevator cabin with Sophia
-And Alexander in it. (7.0 pts)
-The model considered is only a more or less good approximation to reality.
-8. (e) Name at least two physical aspects that in reality probably lead to deviations from the model. (b) the number of persons who are not members of the
-Answer section
-8.a)
-Calculations and explanations
-Expression for the restoring force:
-55th IPhO 2025 - Second Round Exam
-The code: Code
-8.b)
-Calculations and explanations
-Expression for the period:
-8.c)
-Calculations and explanations
-55th IPhO 2025 - Second Round Exam
-The code: Code
-Graph
-Result for the height of the building:
-55th IPhO 2025 - Second Round Exam
-The code: Code
-8.d)
-Calculations and explanations
-Result for the mass:
-8.e)
-Calculations and explanations
-55th IPhO 2025 - Second Round Exam
-The code: Code
-
-
-<!--fig:start-->
-![[_attachments/55_IPhO_2025_2Rd_Aufgaben/55_IPhO_2025_2Rd_Aufgaben_p12_f6.png]]
-*illustrazione ascensore con bilancia e persona*
-<!--fig:end-->
-
-**Topic:** [[Oscillations & Waves]], [[Elasticity & Materials]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Hooke's Law (metodo)|Hooke's Law]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)
-
+[[55_IPhO_2025_2Rd_Aufgaben__Q08]]
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="IPhO 2025 — Quesito 9" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/photon"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -1449,88 +1043,11 @@ La tecnologia di controllo delle cellule colpiche (Fig. 3)*
 **Objects:** [[Photon (object)|Photon]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The problem is that the optical stretcher
-The Commission has also adopted a proposal for a directive on the protection of workers' rights.
-Laser beams can be used to manipulate microscopic objects, such as cells, in a targeted way.
-One tool for this is the so-called Optical Stretcher, which is used to investigate the elastic
-The properties of cells. In this problem you are to investigate how it works.
-For this, consider a cell, taken in a simplified way to be cube-shaped, with a length of $\ell =
-10\ \mu\text{m}$ and a refractive index of $n_2 = 1{,}45$. The cell is located in water, which has a
-The following table shows the results of the measurement of the refractive index of $n_1 = 1{,}33$:
-A laser beam with a power $P = 500\ \text{mW}$ strikes the cell perpendicularly, as sketched alongside. At the interfaces
-A momentum transfer takes place through reflection. The fraction $R$ of the
-incident photons reflected at the interface between two
-media with refractive indices $n$ and $n'$ is
-
-$$R = \left(\frac{n - n'}{n + n'}\right)^2.$$
-
-Assume that no absorption occurs and that multiple reflections in the cell can be neglected.
-$\ell$
-$n_1$
-$n_2$
-$n_1$
-Fig. 3. A laser beam strikes
-The cell.
-Denote by $E$ the energy of a photon in the laser beam and by $p$ its momentum. With
-Planck's constant $h$, the following hold independently of the medium in which the photon is located
-
-$$E = h f \qquad \text{sowie} \qquad p = \frac{h}{\lambda}.$$
-
-Here $f$ and $\lambda$ denote the frequency and wavelength of the photon, respectively.
-9. (a) Using the relations above, show that the momentum of the photon in a medium is
-with refractive index $n$ can be written as
-
-$$p = \frac{n E}{c},$$
-
-where $c$ denotes the speed of light in vacuum. (b) the number of persons who are not members of the
-9.b) Consider the impact of the laser beam's photons on the front cell wall and determine an expression for the momentum transfer $\Delta p_1$ to the cell wall. (4.0 p.m.)
-9.c) Derive an expression for each of the forces $F_1$ and $F_2$ that act on the front and rear
-cell wall, respectively. (4.0 p.m.)
-The two forces lead both to an acceleration of the cell as a whole and to a
-deformation of the cell along the laser beam.
-9. (d) Describe in what way the cell is deformed by the forces. Calculate both
-the total force $F_1 + F_2$ on the cell and the deformation force $F_D$. So give the
-ratio of the total force to the deformation force. (5.0 p.p.)
-In practice, two counter-propagating laser beams of equal frequency and power are used.
-This cancels the total force on the cell, leaving only a deforming force.
-Answer section
-55th IPhO 2025 - Second Round Exam
-The code: Code
-9.a)
-Calculations and explanations
-9.b)
-Calculations and explanations
-Expression for the momentum transfer:
-55th IPhO 2025 - Second Round Exam
-The code: Code
-9.c)
-Calculations and explanations
-Expressions for the forces:
-9.d)
-Calculations and explanations
-Values for the forces and their ratio:
-55th IPhO 2025 - Second Round Exam
-The code: Code
-
-
-<!--fig:start-->
-![[_attachments/55_IPhO_2025_2Rd_Aufgaben/55_IPhO_2025_2Rd_Aufgaben_p17_f7.png]]
-*laser che colpisce cellula (Abb. 3)*
-<!--fig:end-->
-
-**Topic:** [[Modern-Quantum Physics]], [[Geometric Optics]]
-**Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Photon (object)|Photon]]
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="IPhO 2025 — Quesito 10" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/resistor,object/inductor,object/capacitor"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -1753,112 +1270,3 @@ Carta grafica
 **Objects:** [[Resistor (object)|Resistor]], [[Inductor (object)|Inductor]], [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.20](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 10 Circuit Tangle
-(including the following:
-In a well-sorted physics collection there are three small
-boxes, each with two electrical terminals. The boxes contain circuits made of identical components: resistors
-with resistance value $R$, inductors with inductance $L$ and capacitors with capacitance $C$. In boxes A and B exactly one
-of each component is installed, while in box C a
-further resistor with resistance value $R$ is connected, so that four
-Elements in total are connected together.
-A
-B
-C
-To find out how the components in the boxes are connected, the boxes are connected to
-an AC voltage source with variable frequency and the apparent resistance,
-i.e. The magnitude of the complex impedance is determined. The following graphs show the curves of the
-apparent resistances $|Z|$ of the boxes as a function of the angular frequency $\omega$ of the AC voltage.
-A
-20
-40
-60
-80 100 120 140
-100
-200
-300
-400
-500
-$\omega / (10^3\ \text{s}^{-1})$
-$|Z| / \Omega$
-B
-20
-40
-60
-80 100 120 140
-100
-200
-300
-400
-500
-$\omega / (10^3\ \text{s}^{-1})$
-$|Z| / \Omega$
-C
-20
-40
-60
-80 100 120 140
-100
-200
-300
-400
-500
-$\omega / (10^3\ \text{s}^{-1})$
-$|Z| / \Omega$
-Fig. 4. Graphs of the apparent resistances $|Z|$ of the three boxes as a function of the angular frequency
-$\omega$ of the applied AC voltage.
-You can assume all components to be ideal and assume that the elements in the
-boxes are neither short-circuited nor have open terminals. Circuits that differ only by
-swapping the order of the elements in a series connection or the arrangement of the
-Individual branches in a parallel connection may be considered equivalent and
-need not be considered separately.
-10. (a) Give all possible, distinct circuit diagrams for the construction of the three boxes A, B and
-C that are compatible with the respective curves of the apparent resistance. Justify
-Your circuits and why no others are possible. (including the European Parliament and the Council)
-55th IPhO 2025 - Second Round Exam
-The code: Code
-10.b) Using the graphs, determine the values $R$, $L$ and $C$. (5.0 p.p.)
-If boxes A and B are connected in series, the apparent resistance of the circuit
-at certain angular frequencies of the applied voltage is exactly $2R$.
-10. (c) Determine the values of these angular frequencies. (4.0 p.m.)
-Answer section
-10.a)
-Calculations and explanations
-55th IPhO 2025 - Second Round Exam
-The code: Code
-10.b)
-Calculations and explanations
-The following values are used for $R$, $L$ and $C$:
-10.c)
-Calculations and explanations
-Values for the angular frequencies:
-55th IPhO 2025 - Second Round Exam
-The code: Code
-Additional worksheet
-55th IPhO 2025 - Second Round Exam
-The code: Code
-Additional worksheet
-55th IPhO 2025 - Second Round Exam
-The code: Code
-Additional worksheet
-55th IPhO 2025 - Second Round Exam
-The code: Code
-Additional worksheet
-Graph paper
-
-
-<!--fig:start-->
-![[_attachments/55_IPhO_2025_2Rd_Aufgaben/55_IPhO_2025_2Rd_Aufgaben_p20_f8.png]]
-*schemi circuits in boxes A, B, C*
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/55_IPhO_2025_2Rd_Aufgaben/55_IPhO_2025_2Rd_Aufgaben_p20_f9.png]]
-*grafici impedenza |Z| vs frequenza A B C*
-<!--fig:end-->
-
-**Topic:** [[Circuits]], [[Oscillations & Waves]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Resistor (object)|Resistor]], [[Inductor (object)|Inductor]], [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.20](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)

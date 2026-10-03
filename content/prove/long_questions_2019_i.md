@@ -226,6 +226,65 @@ Campo magnetico sulla superficie terrestre: $\vec{B}$ =
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 2: In the clouds (16 points)
+Note: The two parts of this problem are independent and can be solved separately.
+Part A. The halo phenomenon (11 points)
+Observing the sky, sometimes it is possible to see halos of light, as in Figure 1, caused by the refraction of solar rays through the ice crystals that form the cirrostratus, clouds located at an altitude of about 5.5 km. Figure 2 illustrates this phenomenon.
+Fig. 1: A halo, with the sun at the center.
+Ice crystal
+Sun
+Observer
+Halo
+Fig. 2: Diagram of the formation of the halo.
+We now propose to find the deviation angle
+$\theta_D$ and to understand this halo phenomenon.
+For the rest of this part, we will simply work in two dimensions. The convention will be
+$\theta_i$ the angle of incidence on the ice crystal,
+$\theta_r$ the angle of refraction upon exiting the crystal and
+$\theta_D$ the deflection angle between the incoming and outgoing ray (NB: the angles of incidence or refraction are always measured between the light ray and the normal to the surface of the crystal).
+i. (1 pt) Consider a hexagonal ice crystal. From which side will the refracted ray exit, so that a halo is formed? Reproduce the diagram below by drawing the path of the light until it exits the crystal, and indicate in particular the angles $\theta_i$ and $\theta_r$.
+Sun
+A
+B
+C ii. (2.5 pt) Give the algebraic expressions for $\theta_r$ and $\theta_D$ in terms of $\theta_i$, $n_\text{aria}$ and $n_\text{ghiaccio}$, where $n_i$ is the refractive index in the medium $i$.
+The following diagram shows the functions $\theta_r(\theta_i)$ and
+$\theta_D(\theta_i)$.
+Fig. 3: Refraction angles $\theta_r$ and deviation angles $\theta_D$ as functions of the incidence angle $\theta_i$.
+iii. (1.5 pt) How do you explain the empty field corresponding to $\theta_i \in [0^\circ, 13.5^\circ]$? Justify your answer with a calculation.
+iv. (1.5 pt) What is the angle $\theta_D$ of a halo?
+Justify your answer.
+v. (1.5 pt) In Figure 1, you can see that the area inside the halo is darker than outside.
+Why?
+vi. (1.5 pt) For an observer on the ground, the size of a halo should be given by $\theta_O$ (as in figure 2). Why is it reasonable to say that its size can be given by $\theta_D$?
+Hint: find a relation between the angles
+$\theta_O$, $\theta_S$ and $\theta_D$ shown in figure 2.
+vii. (1.5 pt) Careful observation of a halo allows the spectrum of light to be observed over the entire circumference. Between red and blue, which color is inside the halo, and which is outside?
+Justify your answer.
+Hint: In a transparent medium, the following relation can be established between the refractive index n and the wavelength $\lambda$ (Cauchy's equation): $n(\lambda)$ = A + $B/\lambda^2$, where A and B are two constants.
+Data (part A):
+$n_\text{aria}$ = 1,
+$n_\text{ghiaccio} \approx 1.31$
+Note: In this problem, only a two-dimensional crystal is used, but the ice crystals that form the cirrostratus are actually`a prismi a base esagonale. Cos`when a ray of light passes through a lateral face of this prism, but emerges from one of the bases, a second halo can sometimes be observed, larger than the one studied in the problem.
+Part B. Why a cloud does not fall (5 points)
+When we look at the sky, we can see that the clouds located at a certain altitude remain there`ı e non cadono mai sulla terra, nonostante siano soggette alla gravit`.
+i. (2 pts) First consider a cloud made up of a set of spherical water droplets and located at an altitude h = 2000 m from the ground.
+Subjected to gravity`a, la nuvola comincer`to fall, but thanks to friction, after a few moments it will reach`a un limite di velocit`a $v_\text{lim}$. Determine the algebraic expression of this speed limit.
+Note: The air friction`e qui caratterizzato da una forza $F = k\eta^\alpha r^\beta v^\gamma$, con k una costante senza dimensione chiamata ”coefficiente di forma”, $\eta$ la viscosit`of the air, r the radius of a water droplet and v its speed. $\alpha$, $\beta$, $\gamma \in \mathbb{Z}$ must be determined.
+ii. (1 pt) Calculate an order of magnitude for this speed limit. How long would it take for such a cloud to reach the ground? State the assumptions and simplifications that are made.
+iii. (2 pts) In reality, clouds never reach the ground. How can we explain that they remain at high altitude? Imagine and explain the main processes that can help solve this problem.
+Data (part B):
+Shape coefficient (sphere): k = $6\pi$
+Air viscosity: $\eta_\text{aria} \approx 1.8 \times 10^{-5}\ \text{kg}\cdot\text{s}^{-1}\cdot\text{m}^{-1}$
+$\rho_\text{acqua} \approx 1 \times 10^3\ \text{kg}\cdot\text{m}^{-3}$
+$\rho_\text{aria} \approx 1.3\ \text{kg}\cdot\text{m}^{-3}$
+Elementary charge: e = 1.602 $\times 10^{-19}$ C
+Electron mass: $m_e$ = 9.1 $\times 10^{-31}$ kg
+Magnetic field on the Earth's surface: $\vec{B}$ =
+4.7 $\times 10^{-5}$ T
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2019 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas,object/cylinder,object/piston,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>

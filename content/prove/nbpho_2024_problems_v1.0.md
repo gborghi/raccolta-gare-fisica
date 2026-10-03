@@ -375,26 +375,25 @@ hood anywhere on Earth.
 
 <div class="qlang-split" data-lang="it"></div>
 
-4. TOTALITÀ (8 punti) — Taavet Kalda, Jaan Kalda.
-Le eclissi solari totali sono un fenomeno raro che si verifica quando la Luna copre completamente il disco del Sole per alcune zone della Terra. Questo non accade durante ogni eclissi solare perché la dimensione apparente della Luna nel cielo è talvolta troppo piccola per coprire interamente il Sole, ma anche perché l'ombra della Luna solitamente manca la Terra a causa dell'inclinazione della sua orbita. Di conseguenza, le eclissi solari totali si verificano in media ogni 18 mesi.
-Consideriamo un'eclissi solare totale in cui, durante il picco, i punti centrali della Terra, della Luna e del Sole giacciono su una retta nello stesso piano dell'equatore. Misuriamo che, subito prima che l'eclissi solare totale termini alla latitudine $\lambda = 28.5^{\circ}$, la totalità dura $t_0 = 2$ min. Il raggio della Terra è $r_e = 6370$ km, il raggio della Luna è $r_m = 1740$ km, il periodo orbitale della Luna $T_m = 27.3$ d, il raggio orbitale della Luna $R_m = 384\,000$ km. Un giorno sulla Terra è $T_0 = 24$ hrs.
-i) (1.5 punti) Per quanto tempo esiste un luogo sulla Terra in cui l'eclissi solare totale è osservabile?
+4. TOTALITÀ (8 punti) — Taavet Kalda, Jaan
+Kalda.
+Le eclissi solari totali sono un fenomeno raro che si verifica quando la Luna copre completamente il disco del Sole per alcune parti della Terra. Ciò non accade durante ogni eclissi solare perché la dimensione apparente della Luna nel cielo a volte è troppo piccola per coprire completamente il Sole, ma anche perché l'ombra della Luna di solito manca la
+Terra a causa della sua inclinazione orbitale. Di conseguenza, le eclissi solari totali si verificano in media ogni 18 mesi.
+Consideriamo un'eclissi solare totale in cui durante il picco, i punti centrali della Terra, della Luna e del Sole giacciono su una linea sullo stesso piano dell'equatore. Misuriamo che subito prima che l'eclissi solare totale termini alla latitudine $\lambda = 28.5^{\circ}$, la totalità dura $t_0 =
+2$ min. Il raggio della Terra è $r_e = 6370$ km, il raggio della Luna è $r_m = 1740$ km, il periodo orbitale della Luna $T_m = 27.3$ d, il raggio orbitale della
+Luna $R_m = 384\,000$ km. Un giorno sulla Terra è
+$T_0 = 24$ ore.
+i) (1.5 punti) Per quanto tempo esiste un luogo sulla
+Terra dove l'eclissi solare totale è osservabile?
 ii) (1 punto) Quanti gradi di longitudine sulla Terra copre l'eclissi solare totale?
 iii) (1.5 punti) Qual è la larghezza della fascia di totalità vicino all'equatore?
-iv) (1.5 punti) Qual è il tempo massimo per cui l'eclissi totale è visibile da un singolo luogo sulla Terra?
+iv) (1.5 punti) Qual è il tempo massimo durante il quale l'eclissi totale è visibile da un singolo luogo sulla Terra?
 v) (1 punto) Per quanto tempo dura l'eclissi totale vicino al luogo descritto in iii), alla distanza di $a = 50$ km dalla linea centrale della fascia dell'eclissi?
-vi) (1.5 punti) Trova l'intervallo di tempo medio tra due eclissi solari totali per un dato luogo sulla Terra facendo le seguenti ipotesi semplificative:
-a) la larghezza media dell'intera fascia dell'eclissi è uguale alla media aritmetica della sua larghezza minima e massima;
-b) la larghezza tipica di un'intera fascia di eclissi è metà della larghezza media dell'eclissi studiata sopra;
-c) la lunghezza tipica di un'intera fascia di eclissi è uguale alla lunghezza della fascia dell'eclissi studiata sopra se la Terra non ruotasse;
+vi) (1,5 punti) Trovare l'intervallo di tempo medio tra due eclissi solari totali per una data località sulla Terra facendo le seguenti assunzioni semplificatrici:
+a) la larghezza media del percorso dell'eclissi totale è uguale alla media aritmetica della sua larghezza minima e massima;
+b) la larghezza tipica di un percorso di eclissi totale è la metà della larghezza media dell'eclissi studiata sopra;
+c) la lunghezza tipica di un percorso di eclissi totale è uguale alla lunghezza del percorso dell'eclissi studiata sopra se la Terra non ruotasse;
 d) le eclissi solari totali si verificano con uguale probabilità in qualsiasi punto della Terra.
-
-**Topic:** [[Astrophysics]], [[Gravitation]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]], [[Satellite (object)|Satellite]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1xwIRzHYUJpkZ0CYYKj3Dq7xdjPDJf42y/view)
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="BPhO 2024 — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica,object/pendulum,object/rope-string"></span>
@@ -602,13 +601,13 @@ ONDE (4 punti)
 — Janis Huns, Jaan
 Kalda. La relazione di dispersione (cioè la di‐ pendenza della frequenza circolare $\omega$ dal vettore d'onda $k = \frac{2\pi}{\lambda}$) delle onde capillari‐gravitazionali è
 $$\omega^2 = gk^\alpha + \frac{\sigma}{\rho}k^\beta,$$ dove $\sigma$ denota la tensione superficiale, $g =
-9.81\ \text{m s}^{-2}$, and $\rho = 1000\ \text{kg m}^{-3}$.
+9.81\ \text{m s}^{-2}$, e $\rho = 1000\ \text{kg m}^{-3}$.
 i) (1 punto) determinare i valori degli espo‐ nenti $\alpha$ e $\beta$.
 F. Moisy, M. Rabaud, PRE 90, 023009 (2014)
 ii) (3 punti) Nell'immagine sopra, possiamo vedere come un oggetto che si muove con velocità costante
 $U
 = 60\ \text{cm s}^{-1}$ genera una scia — un insieme di onde di diverse lunghezze d'onda.
-Presta at‐ tenzione alle onde di corta lunghezza d'onda la cui cresta si estende dall'oggetto quasi fino ai bordi della foto: la presenza di un fronte d'onda molto lungo testimonia che per queste particolari onde, le velocità di fase e di gruppo sono uguali. Determina la tensione superficiale dell'acqua. Puoi prendere misure dalla foto. Nota che mentre la velocità di fase è la velocità di una fase costante dell'onda, la velocità di gruppo $v_g = \frac{d\omega}{dk}$ è la velocità di un pacchetto d'onde (un treno d'onde).
+Presta at‐ tenzione alle onde di corta lunghezza d'onda il cui fronte d'onda si estende dall'oggetto quasi fino ai bordi della foto: la presenza di un fronte d'onda molto lungo testimonia che per queste particolari onde, le velocità di fase e di gruppo sono uguali. Determina la tensione superficiale dell'acqua. Puoi prendere misure dalla foto. Nota che mentre la velocità di fase è la velocità di una fase costante dell'onda, la velocità di gruppo $v_g = \frac{d\omega}{dk}$ è la velocità di un pacchetto d'onda (un treno d'onde).
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="BPhO 2024 — Quesito 8" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica"></span>

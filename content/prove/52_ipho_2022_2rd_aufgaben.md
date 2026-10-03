@@ -618,7 +618,7 @@ rivoluzioni raggiungono il bordo del dispositivo, dove lasciano il ciclotrone (c
 Considera un ciclotrone come quello sviluppato dal suo inventore E.O. Lawrence alla fine degli anni '30. Gli elettrodi del ciclotrone avevano un raggio di $R = 0{,}76\ \text{m}$, e la
 densità di flusso magnetico, approssimativamente costante sulla sezione trasversale del ciclotrone, era $B = 0{,}71\ \text{T}$.
 Nel ciclotrone venivano accelerati protoni con carica $e = 1{,}602 \cdot 10^{-19}\ \text{As}$ e massa $m =
-1{,}673 \cdot 10^{-27}\ \text{kg}$ were accelerated. The amplitude of the high-frequency voltage was $U_0 = 87\ \text{kV}$.
+1{,}673 \cdot 10^{-27}\ \text{kg}$. L'ampiezza della tensione ad alta frequenza era $U_0 = 87\ \text{kV}$.
 Trascura gli effetti relativistici nelle tue considerazioni.
 9.a) Ricava un'espressione per la frequenza angolare $\omega$ necessaria per accelerare i protoni
 e fornisci il valore della frequenza angolare per il dispositivo descritto. (4 punti)
@@ -667,6 +667,7 @@ Espressione per la densità di flusso magnetico:
 **Objects:** [[Magnet (object)|Magnet]], [[Particle Beam (object)|Particle Beam]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1gYSSbF6hSz7oCDo0yTxxZPDXGSoLbAJV/view)
 
+[[52_IPhO_2022_2Rd_Aufgaben__Q09]]
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="IPhO 2022 — Quesito 10" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/capacitor"></span>

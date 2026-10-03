@@ -1048,7 +1048,7 @@ Hints:
 Measuring also the curve of $T_\perp$ helps to improve the precision of the data, but the data for $T_\perp$ are not necessary to answer the following questions.
 In the most critical regions where things vary rapidly, take more data if necessary (especially in the range 0.5-4.0 V)
 Question C-(2) (3.0 points)
-Measure, and put the data in a table and in a graph, the electro-optic switching curve $T_\parallel$ for this LC cell with parallel alignment in the configuration with $\theta =
+Measure, and put the data in a table and in a graph, the electro-optic switching curve $T_\parallel$ for this parallel-aligned LC cell in the configuration with $\theta =
 45^\circ$.
 Question C-(3) (2.0 points)
 From the electro-optical switching data, find the value of the externally applied potential difference $V_\pi$.

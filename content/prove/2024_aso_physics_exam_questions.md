@@ -80,7 +80,7 @@ Quando la terra è nel terreno, la sua densità è $\rho_1$. Man mano che scavi 
 
 **6.** Un operaio ha uno strumento di scavo da $3.00\,\text{kW}$ efficiente al 10%. Spiega il procedimento che useresti per determinare il tempo che gli servirebbe per scavare la buca della Domanda 4. In base al tuo procedimento, trova una stima di quanto tempo gli servirebbe per scavare la buca (in secondi). Mostra i passaggi. (2 punti)
 
-**7.** I prezzi dell'elettricità stanno salendo alle stelle a $0.44 per kilowatt hour (kWh). How much will the electricity cost to dig this hole using the machine (in dollars)? What fraction is this of the tradie's wage ($100 all'ora)? (3 punti)
+**7.** I prezzi dell'elettricità stanno salendo alle stelle a $0.44 per kilowattora (kWh). Quanto costerà l'elettricità per scavare questa buca usando la macchina (in dollari)? Che frazione è questa della paga dell'operaio ($100 all'ora)? (3 punti)
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Order-of-Magnitude Estimation]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]

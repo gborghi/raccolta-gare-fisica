@@ -336,120 +336,85 @@ L'elettricità e il magnetismo
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem two:
+Problem 2:
 
-The figure system. Initially at rest, it is set in motion under the
-The power output of the vehicle shall be the power output of the vehicle. Inside the mass cabin $m_2 =
-100\ \text{kg}$ hay una maleta de masa $m_3 = 10\ \text{kg}$. The coefficient of friction between the
-mass $m_1$ and horizontal surface area is $\mu = 0{,}2$. The mass $m_1 = 30\ \text{kg}$, the mass of
-The pulley and the rope are despicable. Calculate:
-- **A.** The system acceleration and the rope tension.
-- **B.** The force of contact between the mass $m_3$ and the cab floor.
+The system in the figure. Initially at rest, it is set in motion under the action of the force F, of magnitude 1370 N. Inside the cabin of mass $m_2 =
+100\ \text{kg}$ there is a suitcase of mass $m_3 = 10\ \text{kg}$. The coefficient of friction between the mass $m_1$ and the horizontal surface is $\mu = 0{,}2$. The mass $m_1 = 30\ \text{kg}$, the masses of the pulley and of the rope are negligible. Calculate:
+- **A.** The acceleration of the system and the tension of the rope.
+- **B.** The contact force between the mass $m_3$ and the floor of the cabin.
 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Court of Justice has held that the Court of Justice has not
+ DYNAMICS-GRAVITY
+EXERCISE OF QUESTIONS
 
 Questions
 
-1. It shows that the total energy of a satellite describing a circular orbit is
-equal to half of its potential gravitational energy.
+1. Show that the total energy of a satellite describing a circular orbit is equal to half of its gravitational potential energy.
 
-2. It reasonably deduces the expression of the escape velocity of a projectile that is
-It's launching upwards from the Earth's surface.
+2. Deduce with reasoning the expression for the escape velocity of a projectile launched upward from the surface of the Earth.
 
-3. Two contact blocks, of $m_1$ and $m_2$ masses, can be sliding without friction on the
-A horizontal table. A constant force (F) is applied to the mass block $m_1$
-inducing movement of the set, as shown in Figure:
-(c) Draw, by means of a diagram, all the forces to which it is subjected
-Each block, indicating its value based on mass, gravity and
-the acceleration of the set of the two blocks.
-(d) What are the action and reaction forces between the blocks, corresponding to the
-to Newton's third law?
-XXIII Spanish Olympics in Physics
-Local phase. Cordoba, 22 February 2012
+3. Two blocks in contact, of masses $m_1$ and $m_2$, can slide without friction on a horizontal table. A constant force (F) is exerted on the block of mass $m_1$ which induces a motion of the system, as indicated in the figure:
+c) Draw, by means of a diagram, all the forces to which each of the blocks is subjected, indicating their value as a function of the mass, gravity and the acceleration of the system of the two blocks.
+d) What are the action and reaction forces between the blocks, corresponding to Newton's third law?
+XXIII SPANISH PHYSICS OLYMPIAD
+Local phase. Córdoba, February 22, 2012
 
-Family name:
+Surnames: Name:
 
-The problem is:
+Problem:
 
-A transverse harmonic wave moves in the direction of the X-axis in the direction of the
-positive and has a width of 2 cm, a wavelength of 4 cm and a frequency
-de 8 Hz. Determine:
+A transverse harmonic wave travels in the direction of the X axis in the positive sense and has an amplitude of 2 cm, a wavelength of 4 cm and a frequency of 8 Hz. Determine:
 
-- **A.** the speed of propagation of the wave
-- **B.** the initial phase, knowing that for x = 0 and t = 0 the elongation is $y = -2$ cm
-- **C.** the mathematical expression representing the wave.
-- **D.** the minimum distance of separation between two X-axis particles oscillating
-desfasadas $\pi/3$ rad.
+- **A.** the propagation speed of the wave
+- **B.** the initial phase, knowing that for x = 0 and t = 0 the displacement is $y = -2$ cm
+- **C.** the mathematical expression that represents the wave.
+- **D.** the minimum separation distance between two particles on the X axis that oscillate out of phase by $\pi/3$ rad.
 
 Questions:
 
-1. In a simple harmonious movement:
-(a) At what moments and positions are kinetic and potential energies equalized?
-For a mobile that describes a simple harmonic movement?
-(b) When the elongation is equal to half the width, what fraction of the
-The total energy corresponds to kinetic energy and what fraction to the potential?
+1. In a simple harmonic motion:
+a) At what instants and positions are the kinetic and potential energies equal for a body that describes a simple harmonic motion?
+b) When the displacement is equal to half the amplitude, what fraction of the total energy corresponds to the kinetic energy and what fraction to the potential energy?
 
-2. Write the mathematical expression of a one-dimensional harmonic wave as a
-function of x (distance) and t (time) and containing the magnitudes indicated in
-each of the following paragraphs:
+2. Write the mathematical expression of a one-dimensional harmonic wave as a function of x (distance) and t (time) and that contains the magnitudes indicated in each of the following sections:
 - **A.** angular frequency w and propagation speed v.
 - **B.** period T and wavelength $\lambda$.
 - **C.** angular frequency w and wave number k.
 - **D.** Explain why it is a doubly periodic function.
 
-Vibrations and Waves
-XXIII Spanish Olympics in Physics
-Local phase. Cordoba, 22 February 2012
+VIBRATIONS AND WAVES
+XXIII SPANISH PHYSICS OLYMPIAD
+Local phase. Córdoba, February 22, 2012
 
-Family name:
+Surnames: Name:
 
-The problem is:
+Problem:
 
-Two particles with equal positive loads $4\times10^{-6}$ C occupy two vertices
-consecutive A and B of a 1 m square side (see figure). It answers the questions
-the following questions:
+Two particles with equal positive charges of $4\times10^{-6}$ C occupy two consecutive vertices A and B of a square with a side of 1 m (see the drawing). Answer the following questions:
 
-- **A.** Draw the forces acting on each load and determine its value.
-- **B.** Calculate the electrostatic field in the center of the square.
-- **C.** It explains how the electrostatic field varies between points A and B and represents
-The following shall be reported in the following table:
-(i) Is there a point where the field is zero? If so, what is
-his position?
-(ii) Is the electrostatic potential also zero at the point (s) at which the
-Cancel the field?
+- **A.** Draw the forces acting on each charge and determine their value.
+- **B.** Calculate the electrostatic field at the center of the square.
+- **C.** Explain how the electrostatic field varies between points A and B and represent this variation graphically as a function of the distance to point A.
+i) Is there any point at which the field is zero? If so, what is its position?
+ii) Is the electrostatic potential also zero at that point (or points) at which the field vanishes?
 
-(d) Calculates the work required to move a load of $5\times10^{-7}$ C from the
-Vertical C to the center of the square. Does this result depend on the trajectory
-followed by the load?
+d) Calculate the work required to move a charge of $5\times10^{-7}$ C from vertex C to the center of the square. Does this result depend on the path followed by the charge?
 
-Datos: $K_e = 9\times10^9$ $\text{N}\cdot\text{m}^2\cdot\text{C}^{-2}$
+Data: $K_e = 9\times10^9$ $\text{N}\cdot\text{m}^2\cdot\text{C}^{-2}$
 
 Questions:
 
-1. An electron, proton and helium atom penetrate a region of space in the
-that there is a uniform magnetic field in a direction perpendicular to the velocity
-The particles. Draw the path each of the particles would follow and
-indicates which of them is the most forcefully applied.
+1. An electron, a proton, and a helium atom enter a region of space in which there is a uniform magnetic field in a direction perpendicular to the velocity of the particles. Draw the trajectory that each of the particles would follow and indicate on which of them a greater force is exerted.
 
-2. Reason whether the following statements are true or false:
+2. Explain whether the following statements are true or false:
 
-(a) The electromotive force induced in a spindle is proportional to the flow
-magnetic that runs through it.
-(b) The magnetic flux through a spindle placed in a region where the magnetic flux is
-If there is a magnetic field, it can be zero.
-(c) An electrical transformer cannot be used with direct current.
+a) The electromotive force induced in a loop is proportional to the magnetic flux passing through it.
+b) The magnetic flux through a loop placed in a region where a magnetic field exists can be zero.
+c) An electrical transformer cannot be used with direct current.
 A
 B
 C
-D
-x
-y
+D x y
 
-Electricity and magnetism
+ELECTRICITY AND MAGNETISM
 
-**Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]], [[Electrostatics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Wave Equation (metodo)|Wave Equation]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Point Charge (object)|Point Charge]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Dyp9tFsHLXjm0dHxED65bE1ic5WCo8yS/view)
+

@@ -1434,7 +1434,7 @@ Considering that the speed after the collision is slightly less than before, tha
 0{,}95|\vec{V}_i|$, analyze the following statements:
 1. In the interval $t_i < t < t_i + \tau/2$ there is predominantly conversion of kinetic energy into elastic potential energy.
 2. The rigid floor accumulates the energy necessary to launch the ball upward again.
-3. The system is not conservative. At each collision of the ball with the floor, part of the mechanical energy is transformed into thermal energy.
+3. The system is not conservative. With each collision of the ball with the floor, part of the mechanical energy is transformed into thermal energy.
 The true statements are:
 - **A.** only 1;
 - **B.** only 2;

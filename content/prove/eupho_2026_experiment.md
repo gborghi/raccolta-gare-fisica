@@ -10,11 +10,8 @@ tags:
 
 
 
+
 <span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2026 — Sperimentale — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/membrane"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
 
 **Acoustic levitation (20 pts)**
 
@@ -70,12 +67,7 @@ b) Use your tool to roughly estimate the distance between two adjacent antinodes
 
 
 
-
 <span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2026 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/membrane"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
 
 **Task E2: Acoustic levitator properties (4.0 pts)**
 
@@ -96,12 +88,7 @@ Remember to return the Mode X switch to position O for the rest of the exam.
 
 
 
-
 <span class="atom-split" id="q03" data-atom="q03" data-title="EuPhO 2026 — Sperimentale — Quesito 3" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/sphere"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
 
 **Task E3: Density of solid beads (3.0 pts)**
 
@@ -122,12 +109,7 @@ Here, $f(R)$ is some unknown function of the radius $R$ of the levitated object.
 
 
 
-
 <span class="atom-split" id="q04" data-atom="q04" data-title="EuPhO 2026 — Sperimentale — Quesito 4" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/droplet"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
 
 **Task E4: Evaporation (3.0 pts)**
 
@@ -157,12 +139,7 @@ b) Would you over- or underestimate the time it takes for a droplet to evaporate
 
 
 
-
 <span class="atom-split" id="q05" data-atom="q05" data-title="EuPhO 2026 — Sperimentale — Quesito 5" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/fluid-mechanics,argomento/fluidi,object/droplet"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
 
 **Task E5: Surface tension (2.5 pts)**
 
@@ -181,12 +158,7 @@ b) Experimentally determine the surface tension of liquid I, given that the surf
 
 
 
-
 <span class="atom-split" id="q06" data-atom="q06" data-title="EuPhO 2026 — Sperimentale — Quesito 6" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/droplet"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
 
 **Task E6: Explosion (4.0 pts)**
 
@@ -209,12 +181,7 @@ b) Estimate the maximum diameter of a droplet that can be levitated. (2.0 pts)
 
 
 
-
 <span class="atom-split" id="q07" data-atom="q07" data-title="EuPhO 2026 — Sperimentale — Quesito 7" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/geometric-optics,argomento/ottica,object/droplet"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
 
 **Task E7: Mysterious line (2.5 pts)**
 
@@ -232,6 +199,3 @@ Hint: For the line to be visible, the LED must be well aligned with the droplet.
 **Objects:** [[Droplet (object)]]
 **Fonte:** [Testo (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Experiment_ENG.pdf)
 **Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Experiment_solution_final.pdf)
-
-
-

@@ -687,66 +687,63 @@ Stating the correct solution
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 5 Risoluzione del problema del riscaldamento del mare
-(cfr.
-(Problema group of the PhysicsOlympiad - Tim Pokart)
-Sebbene un'épace strata di ghiaccio rifletta la maggior parte dell'incidente di luce solare sulla luna di Saturno Enceladus, la sonda spaziale Cassini è stata in grado di fotografare fonti d'acqua diverse centinaia di chilometri di altezza sulla sua superficie. La luna ottiene l'energia necessaria per questo da
-Le forze di marea, che lo calano attraverso la loro conversione in lavoro fratturoso.
-Consider a celestial body with radius $r$ that orbits a planet of mass $M_P$ on a path
-con semi-major axis $a$ e eccentricità $e$. The eccentricity is, for closed
-Orbit, un valore con $0 \leq e < 1$ che indica quanto forte l'orbita deviasse da un'orbita circolare.
-Il potere di riscaldamento che il corpo sperimenta può essere espresso da
+Problema 5 Riscaldamento mareale (problema a scelta multipla)
+(5 punti)
+(Gruppo di problemi della Olimpiade di Fisica - Tim Pokart)
+
+Anche se uno spesso strato di ghiaccio riflette la maggior parte della luce solare incidente sulla luna Encelado di Saturno, la sonda spaziale Cassini è riuscita a riprendere fontane di acqua alte alcune centinaia di chilometri sulla sua superficie. La luna ottiene l'energia necessaria per questo processo dalle forze mareali, che la riscaldano attraverso la loro conversione in lavoro dissipativo dovuto all'attrito.
+
+Considera un corpo celeste di raggio $r$ che orbita intorno a un pianeta di massa $M_P$ su un'orbita con semiasse maggiore $a$ e eccentricità $e$. L'eccentricità, per orbite chiuse, è un valore con $0 \leq e < 1$ che indica quanto l'orbita si discosta da una circolare.
+
+La potenza di riscaldamento che il corpo subisce può essere espressa da
 $$P \approx \frac{21}{100} r^5 e^2 \frac{G^\alpha M_P^\beta}{a^\gamma} .$$
 Quali valori hanno gli esponenti $\alpha$, $\beta$ e $\gamma$?
 A $\alpha = -3/2$, $\beta = 5/2$ e $\gamma = -15/2$.
 B $\alpha = 3/2$, $\beta = 5/2$ e $\gamma = -15/2$.
 C $\alpha = 3/2$, $\beta = -5/2$ e $\gamma = 15/2$.
 D $\alpha = -3/2$, $\beta = 5/2$ e $\gamma = 15/2$.
+
 Soluzione
-Calcoli e spiegazioni
-Il risultato può essere derivato da un'analisi dimensionale. Denote by $M$, $L$ and $T$ the dimensions mass, length and time. Quindi le quantità nella formula hanno le seguenti dimensioni:
+Calcoli ed spiegazioni
+Il risultato può essere derivato da un'analisi dimensionale. Indichiamo con $M$, $L$ e $T$ le dimensioni massa, lunghezza e tempo. Allora le grandezze nella formula hanno le seguenti dimensioni:
 $$[P] = M L^2 T^{-3}$$
 $$[G] = L^3 T^{-2} M^{-1}$$
 $$[M_P] = M$$
 $$[r] = L$$
-$$[a] = L .$$
-(5.1)
-Pertanto, per le dimensioni nella formula data si ritiene che
+$$[a] = L .$$ (5.1)
+
+Di conseguenza, per le dimensioni nella formula data vale che
 $$M L^2 T^{-3} = L^5\, L^{3\alpha}\, T^{-2\alpha}\, M^{-\alpha}\, M^\beta\, L^\gamma = M^{\beta-\alpha}\, L^{5+3\alpha+\gamma}\, T^{-2\alpha} .$$
-Per gli esponenti questo rende il sistema di equazioni
+
+Per gli esponenti si ottiene il sistema di equazioni
 $$1 = \beta - \alpha$$
 $$2 = 5 + 3\alpha + \gamma$$
-$$-3 = -2\alpha .$$
-(5.2)
-This is solved by
-$$\alpha = 3/2 \qquad \beta = 5/2 \qquad \gamma = -15/2 .$$
-(5.3)
+$$-3 = -2\alpha .$$ (5.2)
+
+La cui soluzione è
+$$\alpha = 3/2 \qquad \beta = 5/2 \qquad \gamma = -15/2 .$$ (5.3)
+
 Risposta corretta: B
-Nota: Per una soluzione alternativa, si può usare il comportamento fisico atteso della formula
-Per il potere. Il potere di riscaldamento dovrebbe aumentare con l'aumento del massa del pianeta
-53° IPhO 2023 - 2° Round Exam - Sample Solution - 07.12.2022
-- parametri costanti. Pertanto $\beta > 0$ must hold. Invece, il potere di riscaldamento dovrebbe essere
-decrease with increasing semi-major axis, which requires $\gamma < 0$. L'unica risposta che
-"che soddisfa queste due condizioni è B".
-Classificazione - riscaldamento del mare (problema MC)
+Osservazione: per una soluzione alternativa, si può utilizzare il comportamento fisico atteso della formula per la potenza. La potenza di riscaldamento dovrebbe aumentare con la massa del pianeta, mantenendo costanti gli altri parametri. Pertanto deve valere $\beta > 0$. Al contrario, la potenza di riscaldamento dovrebbe diminuire con l'aumentare del semiasse maggiore, il che richiede $\gamma < 0$. L'unica opzione tra quelle proposte che soddisfa queste due condizioni è la B.
+
+Valutazione - Riscaldamento mareale (problema a scelta multipla)
 Punti
 5
-Stating the relevant units/dimensions
-1.0
-Usando un'analisi dimensionale
-1.0
-Setting up and solving the system of equations (5.2)
-1.0
-Stating the correct solution
-2.0
-5.0
-53° IPhO 2023 - 2° Round Exam - Sample Solution - 07.12.2022
 
-**Topic:** [[Astrophysics]], [[Gravitation]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kepler's Laws (metodo)|Kepler's Laws]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1UjowBl2NmEisJn9N-RI0S3gXTW0fLVn9/view)
+Indicare le unità di misura/dimensioni pertinenti
+1,0
+
+Utilizzare un'analisi dimensionale
+1,0
+
+Impostare e risolvere il sistema di equazioni (5.2)
+1,0
+
+Indicare la soluzione corretta
+2,0
+
+Totale
+5,0
 
 
 
@@ -824,19 +821,14 @@ Stating the correct solution
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 6 Cable coaxial (problema MC)
-(cfr.
-(Problema group of the PhysicsOlympiad - Arne Wolf)
-Un cavo coaxial è costituito, come mostrato nel
-di un lungo
-cilindro con resistenza specifica
-$\rho_1$ incassato da un cilindro vuoto con resistenza specifica $\rho_2 > \rho_1$. Attraverso il cavo
-flussi a corrente di magnitudo $I$.
-Un secondo cavo coaxial, mostrato sulla destra,
-Sembra lo stesso dall'esterno come il primo, ma sul
-inside è composto da un solo materiale. La resistenza specifica di questo materiale è $\rho$ e
-il corrente nel secondo cavo è
-di tipo simile $I$.
+Problema 6 Cavo coassiale (problema a scelta multipla)
+(5 punti)
+(Gruppo di problemi della Olimpiade di Fisica - Arne Wolf)
+
+Un cavo coassiale è costituito, come mostrato nella sezione trasversale a sinistra accanto, da un lungo cilindro sottile con resistività specifica $\rho_1$ avvolto da un cilindro cavo con resistività specifica $\rho_2 > \rho_1$. Nel cavo circola una corrente di intensità $I$.
+
+Un secondo cavo coassiale, mostrato a destra, ha lo stesso aspetto esterno del primo, ma al suo interno è costituito da un solo materiale. La resistività specifica di questo materiale è $\rho$ e la corrente nel secondo cavo è anch'essa $I$.
+
 $\rho_1$
 $\rho_2$
 A
@@ -846,48 +838,40 @@ $\rho$
 A
 B
 C
-Fig. 2. Sezione trasversale del primo (sinistra) e del secondo
-(destra) cavo coaxial.
-A how many of the marked points A, B e C fanno i campi magnetici prodotti dal rispettivo
-- Cable differ?
+
+Fig. 2. Sezione trasversale del primo (a sinistra) e del secondo (a destra) cavo coassiale.
+
+In quanti dei punti contrassegnati A, B e C i campi magnetici prodotti dai rispettivi cavi differiscono?
+
 A 0
 B 1
 C 2
 D 3
+
 Soluzione
 Calcoli e spiegazioni
-Dal momento che la corrente totale è la stessa in entrambi i cavi e la resistenza specifica del nucleo
-in primo cavo è più piccolo di quello della sua tenda, più corrente scorre nel nucleo del primo cavo che
-- In secondo. Secondo la legge di Ampere, il campo magnetico generato da un filo dritto
-a distance $r$ from the wire axis is proportional to the current that flows at a distance less than or equal to $r$ from the
-- Il filo.
-Poiché questo corrente è aumentato per i punti A e B nel primo cavo ed è uguale al punto C per entrambi
-I cavi, il campo magnetico differisce ai punti A e B. Quindi C è il corretto
-- Risposta.
-Corretta risposta: C
-Cable a coassi (problema MC)
+
+Poiché la corrente totale è la stessa nei due cavi e la resistività specifica del nucleo nel primo cavo è minore di quella della guaina, in esso passa una corrente maggiore rispetto al secondo cavo. Secondo la legge di Ampère, il campo magnetico generato da un filo rettilineo a distanza $r$ dall'asse del filo è proporzionale alla corrente che fluisce a distanza minore o uguale di $r$ dall'asse del filo.
+
+Poiché questa corrente è maggiore nei punti A e B nel primo cavo, mentre risulta uguale al punto C nei due cavi, il campo magnetico differisce nei punti A e B. Pertanto la risposta corretta è C.
+
+Risposta corretta: C
+Valutazione - Cavo coassiale (problema a scelta multipla)
 Punti
 6
-Riconoscere dove più corrente scorre
-1.5
-Usando la legge di Ampere
-1.5
-Stating the correct solution
-2.0
-5.0
-53° IPhO 2023 - 2° Round Exam - Sample Solution - 07.12.2022
-
+Riconoscere dove scorre più corrente
+1,5
+Applicare la legge di Ampère
+1,5
+Affermare la soluzione corretta
+2,0
+5,0
+53ª Olimpiade Fisica Internazionale 2023 - Prova seconda fase - Soluzione campione - 07.12.2022
 
 <!--fig:start-->
 ![[_attachments/53_IPhO_2023_2Rd_Aufgaben_Lsg_web/53_IPhO_2023_2Rd_Aufgaben_Lsg_web_p10_f4.png]]
-Sezione trasversale cavi coassiali (Fig. 2)*
+*Sezione trasversale cavi coassiali (Abb. 2)*
 <!--fig:end-->
-
-**Topic:** [[Magnetism]], [[Electromagnetism]]
-**Metodi:** [[Ampère's Law (metodo)|Ampère's Law]], [[Physical Modeling (metodo)|Physical Modeling]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wire (object)|Wire]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1UjowBl2NmEisJn9N-RI0S3gXTW0fLVn9/view)
 
 
 
@@ -982,23 +966,22 @@ that it is easy to follow but not unnecessarily long. If, for example, you use t
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 7 Blocco di vetro
-(cfr.
-(idea: gruppo di problemi della PhysicsOlympiad - Thomas Hellerl & Titus Bornträger)
-Un fascio laser che corre nel piano del disegno colpisce un blocco di vetro (indice refraettivo $n = 1{,}5$) con lunghezze laterali $a$ e $4a$ da sinistra all'angolo di incidenza $\alpha = 30^\circ$.
-Come indicato nello schema non a scala nella figura 3, infine colpisce esattamente il
-Cortile inferiore a destra all'interno del blocco di vetro.
+Problema 7 Blocco di vetro (5 punti)
+(Idea: gruppo di problemi della Olimpiade di Fisica - Thomas Hellerl & Titus Bornträger)
+Un fascio laser che si muove nel piano del disegno colpisce un blocco di vetro (indice di rifrazione $n = 1{,}5$) con lunghezze dei lati $a$ e $4a$ da sinistra con l'angolo di incidenza $\alpha = 30^\circ$.
+Come indicato nello schizzo non in scala nella Figura 3, esso colpisce esattamente l'angolo inferiore destro all'interno del blocco di vetro.
 $4a$
 $a$
 $n = 1,5$
 $\alpha$
 $x$
-Fig. 3. Sketch non a scala del raggio laser nel blocco di vetro in vista laterale.
-Qual è la distanza $x$ del punto di ingresso dalla superficie di confine superiore del blocco?
+Fig. 3. Schizzo non in scala del percorso del fascio laser nel blocco di vetro in vista laterale.
+Qual è la distanza $x$ del punto di entrata dalla superficie superiore del blocco?
 A $a \cdot \left( \sqrt{2} - 1 \right)$
 B $a \cdot \left( 2 - \sqrt{3} \right)$
 C $a \cdot \left( 1 - \frac{\sqrt{2}}{2} \right)$
 D $a \cdot \left( 1 - \frac{\sqrt{3}}{3} \right)$
+
 Soluzione
 Calcoli e spiegazioni
 $a$
@@ -1008,46 +991,37 @@ $x$
 $y$
 $4a - y$
 $\alpha'$
-Fig. 4. Complete sketch of the beam path in the glass block in side view
-Per la legge della refrazione:
-$$\sin \alpha = n \cdot \sin \alpha' .$$
-(7.1)
-Il fascio che corre all'interno del vetro è totalmente riflesso internamente sul lato superiore. In quello sinistro e
-il triangolo destro, uno trova a causa della somiglianza
-$$\frac{a}{4a - y} = \frac{x}{y} = \tan \alpha' .$$
-(7.2)
-Il valore di $\tan \alpha'$ può essere determinato direttamente
-$$\tan \alpha' = \frac{\sin \alpha'}{\cos \alpha'} = \frac{\frac{1}{n} \cdot \sin \alpha}{\sqrt{1 - \frac{\sin^2 \alpha}{n^2}}} = \frac{\frac{1}{1,5} \cdot \sin 30^\circ}{\sqrt{1 - \frac{\sin^2 30^\circ}{1,5^2}}} = \frac{1}{2\sqrt{2}} .$$
-(7.3)
-Here $\sin \alpha = \sin 30^\circ = 0{,}5$ was used. Il seguente è stato risposto immediatamente a (7.2):
-$$y = 2\sqrt{2}\, x .$$
-(7.4)
-53° IPhO 2023 - 2° Round Exam - Sample Solution - 07.12.2022
-Substituing into equation (7.2) and solving for $x$ dà:
-$$\frac{a}{4a - 2\sqrt{2}\, x} = \frac{1}{2\sqrt{2}} \quad \text{bzw.} \quad 2\sqrt{2}\, a = 4a - 2\sqrt{2}\, x$$
-(7.5)
-e così
-$$x = 2\sqrt{2}\, a - a = a \cdot \left( \sqrt{2} - 1 \right) .$$
-(7.6)
+Fig. 4. Schizzo completo del percorso del fascio nel blocco di vetro in vista laterale
+Per la legge della rifrazione:
+$$\sin \alpha = n \cdot \sin \alpha' .$$ (7.1)
+Il fascio che si muove all'interno del vetro subisce una riflessione totale interna sulla superficie superiore. Nei triangoli a sinistra e a destra, per similitudine si ha:
+$$\frac{a}{4a - y} = \frac{x}{y} = \tan \alpha' .$$ (7.2)
+Il valore di $\tan \alpha'$ può essere determinato direttamente mediante:
+$$\tan \alpha' = \frac{\sin \alpha'}{\cos \alpha'} = \frac{\frac{1}{n} \cdot \sin \alpha}{\sqrt{1 - \frac{\sin^2 \alpha}{n^2}}} = \frac{\frac{1}{1,5} \cdot \sin 30^\circ}{\sqrt{1 - \frac{\sin^2 30^\circ}{1,5^2}}} = \frac{1}{2\sqrt{2}} .$$ (7.3)
+È stato usato $\sin \alpha = \sin 30^\circ = 0{,}5$. Si ricava immediatamente da (7.2):
+$$y = 2\sqrt{2}\, x .$$ (7.4)
+53ª IPhO 2023 - Prova del secondo turno - Soluzione campione - 07.12.2022
+Sostituendo in (7.2) e risolvendo per $x$ si ottiene:
+$$\frac{a}{4a - 2\sqrt{2}\, x} = \frac{1}{2\sqrt{2}} \quad \text{bzw.} \quad 2\sqrt{2}\, a = 4a - 2\sqrt{2}\, x$$ (7.5)
+e quindi
+$$x = 2\sqrt{2}\, a - a = a \cdot \left( \sqrt{2} - 1 \right) .$$ (7.6)
 Risposta corretta: A
-Grading - Blocco di vetro
+
+Valutazione - Blocco di vetro
 Punti
 7
-Usando la similitudine dei triangoli (7.2)
-1.0
-Usando il valore corretto per $\tan \alpha'$ with (7.3)
-1.0
-Deriving the result for $x$ from (7.2)
-1.0
-Stating the correct solution
+Utilizzo della similitudine dei triangoli (7.2)
+1,0
+Utilizzo del valore corretto per $\tan \alpha'$ con (7.3)
+1,0
+Derivazione del risultato per $x$ da (7.2)
+1,0
+Stabilire la soluzione corretta
 2.0
 5.0
-53° IPhO 2023 - 2° Round Exam - Sample Solution - 07.12.2022
-Problemi di risposta lunga
-La Commissione ha inoltre presentato una serie di proposte di risoluzione. Un'altra cosa è la
-problemi di scelta multipla, non sono state indicate le opzioni di risposta. Descrivere il metodo di soluzione in un modo simile
-che è facile da seguire ma non troppo lungo. Se, per esempio, usi la legge della conservazione dell'energia, scrivi questo brevemente.
-
+53ª Olimpiade Fisica Internazionale 2023 - Prova di seconda fase - Soluzione campione - 07.12.2022
+Problemi a risposta lunga
+Lavora sui seguenti tre problemi nello spazio apposito fornito. A differenza dei problemi a scelta multipla, non sono fornite opzioni di risposta. Descrivi il metodo utilizzato per la soluzione in modo chiaro ma non eccessivamente prolisso. Se, ad esempio, utilizzi la conservazione dell'energia, menzionalo brevemente.
 
 <!--fig:start-->
 ![[_attachments/53_IPhO_2023_2Rd_Aufgaben_Lsg_web/53_IPhO_2023_2Rd_Aufgaben_Lsg_web_p11_f5.png]]
@@ -1057,12 +1031,6 @@ che è facile da seguire ma non troppo lungo. Se, per esempio, usi la legge dell
 ![[_attachments/53_IPhO_2023_2Rd_Aufgaben_Lsg_web/53_IPhO_2023_2Rd_Aufgaben_Lsg_web_p11_f6.png]]
 *Percorso completo raggio laser vetro (Abb. 4)*
 <!--fig:end-->
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1UjowBl2NmEisJn9N-RI0S3gXTW0fLVn9/view)
 
 
 
@@ -1620,7 +1588,50 @@ the rocket would aga
 *Velocità e pressione atmosferica vs quota (Abb. 6)*
 <!--fig:end-->
 <!--fig:start-->
-![[_attachments/53_IPhO_2023_2Rd_Aufgaben_Lsg_web/53_IPhO_2023_2Rd_Aufgaben_Lsg_web_p18_f11.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='108.168887pt' height='104.29099pt' viewBox='-67.868282 -68.01595 108.168887 104.29099'>
+<defs>
+<path id='g0-11' d='M4.752179-2.351183C4.752179-3.915318 3.825654-4.403487 3.088418-4.403487C1.723537-4.403487 .408468-2.978829 .408468-1.574097C.408468-.647572 1.006227 .109589 2.022416 .109589C2.650062 .109589 3.367372-.119552 4.124533-.727273C4.254047-.199253 4.582814 .109589 5.031133 .109589C5.559153 .109589 5.867995-.438356 5.867995-.597758C5.867995-.667497 5.808219-.697385 5.748443-.697385C5.678705-.697385 5.648817-.667497 5.618929-.597758C5.439601-.109589 5.080946-.109589 5.061021-.109589C4.752179-.109589 4.752179-.886675 4.752179-1.125778C4.752179-1.334994 4.752179-1.354919 4.851806-1.474471C5.788294-2.650062 5.997509-3.805729 5.997509-3.815691C5.997509-3.835616 5.987547-3.915318 5.877958-3.915318C5.778331-3.915318 5.778331-3.88543 5.728518-3.706102C5.549191-3.078456 5.220423-2.321295 4.752179-1.733499V-2.351183ZM4.084682-.986301C3.20797-.219178 2.440847-.109589 2.042341-.109589C1.444583-.109589 1.145704-.557908 1.145704-1.195517C1.145704-1.683686 1.404732-2.759651 1.723537-3.267746C2.191781-3.995019 2.729763-4.184309 3.078456-4.184309C4.064757-4.184309 4.064757-2.879203 4.064757-2.102117C4.064757-1.733499 4.064757-1.155666 4.084682-.986301Z'/>
+<path id='g0-100' d='M5.140722-6.804483C5.140722-6.814446 5.140722-6.914072 5.011208-6.914072C4.861768-6.914072 3.915318-6.824408 3.745953-6.804483C3.666252-6.794521 3.606476-6.744707 3.606476-6.615193C3.606476-6.495641 3.696139-6.495641 3.845579-6.495641C4.323786-6.495641 4.343711-6.425903 4.343711-6.326276L4.313823-6.127024L3.716065-3.765878C3.536737-4.134496 3.247821-4.403487 2.799502-4.403487C1.633873-4.403487 .398506-2.938979 .398506-1.484433C.398506-.547945 .946451 .109589 1.723537 .109589C1.92279 .109589 2.420922 .069738 3.01868-.637609C3.098381-.219178 3.447073 .109589 3.92528 .109589C4.273973 .109589 4.503113-.119552 4.662516-.438356C4.83188-.797011 4.961395-1.404732 4.961395-1.424658C4.961395-1.524284 4.871731-1.524284 4.841843-1.524284C4.742217-1.524284 4.732254-1.484433 4.702366-1.344956C4.533001-.697385 4.353674-.109589 3.945205-.109589C3.676214-.109589 3.646326-.368618 3.646326-.56787C3.646326-.806974 3.666252-.876712 3.706102-1.046077L5.140722-6.804483ZM3.068493-1.185554C3.01868-1.006227 3.01868-.986301 2.86924-.816936C2.430884-.268991 2.022416-.109589 1.743462-.109589C1.24533-.109589 1.105853-.657534 1.105853-1.046077C1.105853-1.544209 1.424658-2.769614 1.653798-3.227895C1.96264-3.815691 2.410959-4.184309 2.809465-4.184309C3.457036-4.184309 3.596513-3.367372 3.596513-3.307597S3.576588-3.188045 3.566625-3.138232L3.068493-1.185554Z'/>
+<path id='g0-118' d='M4.662516-3.706102C4.662516-4.244085 4.403487-4.403487 4.224159-4.403487C3.975093-4.403487 3.73599-4.144458 3.73599-3.92528C3.73599-3.795766 3.785803-3.73599 3.895392-3.626401C4.104608-3.427148 4.234122-3.16812 4.234122-2.809465C4.234122-2.391034 3.626401-.109589 2.460772-.109589C1.952677-.109589 1.723537-.458281 1.723537-.976339C1.723537-1.534247 1.992528-2.261519 2.30137-3.088418C2.371108-3.257783 2.420922-3.39726 2.420922-3.58655C2.420922-4.034869 2.102117-4.403487 1.603985-4.403487C.667497-4.403487 .288917-2.958904 .288917-2.86924C.288917-2.769614 .388543-2.769614 .408468-2.769614C.508095-2.769614 .518057-2.789539 .56787-2.948941C.856787-3.955168 1.285181-4.184309 1.574097-4.184309C1.653798-4.184309 1.823163-4.184309 1.823163-3.865504C1.823163-3.616438 1.723537-3.347447 1.653798-3.16812C1.215442-2.012453 1.085928-1.554172 1.085928-1.125778C1.085928-.049813 1.96264 .109589 2.420922 .109589C4.094645 .109589 4.662516-3.188045 4.662516-3.706102Z'/>
+</defs>
+<g id='page1'>
+<path d='M-45.1367 14.3867H39.9021L-2.6172-64.9847Z' fill='#ffffeb'/>
+<path d='M-45.1367 14.3867H39.9021L-2.6172-64.9847Z' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
+<path d='M-11.6875-45.707C-2.6172-40.8867-2.6172-40.8867 6.4531-45.707' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 67.66197 -94.8013)'>
+<use x='-73.484899' y='42.735251' xlink:href='#g0-11'/>
+</g>
+<path d='M-22.4609-67.8167V-34.1328' stroke='#8c0000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-22.460955-30.37109C-22.347674-30.83203-21.710955-32.86328-21.01564-34.132809H-23.90627C-23.210955-32.86328-22.574236-30.83203-22.460955-30.37109Z' fill='#8c0000'/>
+<path d='M-22.460955-30.37109C-22.347674-30.83203-21.710955-32.86328-21.01564-34.132809H-23.90627C-23.210955-32.86328-22.574236-30.83203-22.460955-30.37109Z' stroke='#8c0000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g fill='#8c0000' transform='matrix(1 0 0 1 41.3443 -89.9824)'>
+<use x='-73.484899' y='42.735251' xlink:href='#g0-118'/>
+</g>
+<path d='M-22.4609-27.5664V3.0508' stroke='#8c0000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883 2.98883'/>
+<path d='M-22.4609-27.5664L-63.90625-2.1797' stroke='#8c0000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-67.113242-.21484C-66.664017-.359369-64.597616-.874995-63.1523-.94531L-64.66402-3.410154C-65.382766-2.156249-66.781204-.550775-67.113242-.21484Z' fill='#8c0000'/>
+<path d='M-67.113242-.21484C-66.664017-.359369-64.597616-.874995-63.1523-.94531L-64.66402-3.410154C-65.382766-2.156249-66.781204-.550775-67.113242-.21484Z' stroke='#8c0000' fill='none' stroke-width='.398482' stroke-miterlimit='10'/>
+<path d='M-22.4609-10.5547C-28.3242-10.5547-33.7773-13.5781-36.8828-18.5508' stroke='#8c0000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g fill='#8c0000' transform='matrix(1 0 0 1 39.3152 -51.71399)'>
+<use x='-73.484899' y='42.735251' xlink:href='#g0-11'/>
+</g>
+<path d='M-40.5547 25.7266H35.3201' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-44.31637 25.726604C-43.85543 25.839885-41.82418 26.476604-40.554647 27.17192V24.28129C-41.82418 24.976604-43.85543 25.613323-44.31637 25.726604Z'/>
+<path d='M-44.31637 25.726604C-43.85543 25.839885-41.82418 26.476604-40.554647 27.17192V24.28129C-41.82418 24.976604-43.85543 25.613323-44.31637 25.726604Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M39.08205 25.726604C38.61721 25.613323 36.58986 24.976604 35.320332 24.28129V27.17192C36.58986 26.476604 38.61721 25.839885 39.08205 25.726604Z'/>
+<path d='M39.08205 25.726604C38.61721 25.613323 36.58986 24.976604 35.320332 24.28129V27.17192C36.58986 26.476604 38.61721 25.839885 39.08205 25.726604Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 68.27426 -6.5698)'>
+<use x='-73.484899' y='42.735251' xlink:href='#g0-100'/>
+</g>
+<path d='M-45.1367 14.3867V27.1445' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='.3985 1.99255'/>
+<path d='M39.9021 14.3867V27.1445' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='.3985 1.99255'/>
+</g>
+</svg>
+</figure>
 
 
 *Schema cono razzo con molecole incidenti*
@@ -1828,7 +1839,50 @@ Il razzo sarebbe andato
 *Velocità e pressione atmosferica vs quota (Abb. 6)*
 <!--fig:end-->
 <!--fig:start-->
-![[_attachments/53_IPhO_2023_2Rd_Aufgaben_Lsg_web/53_IPhO_2023_2Rd_Aufgaben_Lsg_web_p18_f11.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='108.168887pt' height='104.29099pt' viewBox='-67.868282 -68.01595 108.168887 104.29099'>
+<defs>
+<path id='g0-11' d='M4.752179-2.351183C4.752179-3.915318 3.825654-4.403487 3.088418-4.403487C1.723537-4.403487 .408468-2.978829 .408468-1.574097C.408468-.647572 1.006227 .109589 2.022416 .109589C2.650062 .109589 3.367372-.119552 4.124533-.727273C4.254047-.199253 4.582814 .109589 5.031133 .109589C5.559153 .109589 5.867995-.438356 5.867995-.597758C5.867995-.667497 5.808219-.697385 5.748443-.697385C5.678705-.697385 5.648817-.667497 5.618929-.597758C5.439601-.109589 5.080946-.109589 5.061021-.109589C4.752179-.109589 4.752179-.886675 4.752179-1.125778C4.752179-1.334994 4.752179-1.354919 4.851806-1.474471C5.788294-2.650062 5.997509-3.805729 5.997509-3.815691C5.997509-3.835616 5.987547-3.915318 5.877958-3.915318C5.778331-3.915318 5.778331-3.88543 5.728518-3.706102C5.549191-3.078456 5.220423-2.321295 4.752179-1.733499V-2.351183ZM4.084682-.986301C3.20797-.219178 2.440847-.109589 2.042341-.109589C1.444583-.109589 1.145704-.557908 1.145704-1.195517C1.145704-1.683686 1.404732-2.759651 1.723537-3.267746C2.191781-3.995019 2.729763-4.184309 3.078456-4.184309C4.064757-4.184309 4.064757-2.879203 4.064757-2.102117C4.064757-1.733499 4.064757-1.155666 4.084682-.986301Z'/>
+<path id='g0-100' d='M5.140722-6.804483C5.140722-6.814446 5.140722-6.914072 5.011208-6.914072C4.861768-6.914072 3.915318-6.824408 3.745953-6.804483C3.666252-6.794521 3.606476-6.744707 3.606476-6.615193C3.606476-6.495641 3.696139-6.495641 3.845579-6.495641C4.323786-6.495641 4.343711-6.425903 4.343711-6.326276L4.313823-6.127024L3.716065-3.765878C3.536737-4.134496 3.247821-4.403487 2.799502-4.403487C1.633873-4.403487 .398506-2.938979 .398506-1.484433C.398506-.547945 .946451 .109589 1.723537 .109589C1.92279 .109589 2.420922 .069738 3.01868-.637609C3.098381-.219178 3.447073 .109589 3.92528 .109589C4.273973 .109589 4.503113-.119552 4.662516-.438356C4.83188-.797011 4.961395-1.404732 4.961395-1.424658C4.961395-1.524284 4.871731-1.524284 4.841843-1.524284C4.742217-1.524284 4.732254-1.484433 4.702366-1.344956C4.533001-.697385 4.353674-.109589 3.945205-.109589C3.676214-.109589 3.646326-.368618 3.646326-.56787C3.646326-.806974 3.666252-.876712 3.706102-1.046077L5.140722-6.804483ZM3.068493-1.185554C3.01868-1.006227 3.01868-.986301 2.86924-.816936C2.430884-.268991 2.022416-.109589 1.743462-.109589C1.24533-.109589 1.105853-.657534 1.105853-1.046077C1.105853-1.544209 1.424658-2.769614 1.653798-3.227895C1.96264-3.815691 2.410959-4.184309 2.809465-4.184309C3.457036-4.184309 3.596513-3.367372 3.596513-3.307597S3.576588-3.188045 3.566625-3.138232L3.068493-1.185554Z'/>
+<path id='g0-118' d='M4.662516-3.706102C4.662516-4.244085 4.403487-4.403487 4.224159-4.403487C3.975093-4.403487 3.73599-4.144458 3.73599-3.92528C3.73599-3.795766 3.785803-3.73599 3.895392-3.626401C4.104608-3.427148 4.234122-3.16812 4.234122-2.809465C4.234122-2.391034 3.626401-.109589 2.460772-.109589C1.952677-.109589 1.723537-.458281 1.723537-.976339C1.723537-1.534247 1.992528-2.261519 2.30137-3.088418C2.371108-3.257783 2.420922-3.39726 2.420922-3.58655C2.420922-4.034869 2.102117-4.403487 1.603985-4.403487C.667497-4.403487 .288917-2.958904 .288917-2.86924C.288917-2.769614 .388543-2.769614 .408468-2.769614C.508095-2.769614 .518057-2.789539 .56787-2.948941C.856787-3.955168 1.285181-4.184309 1.574097-4.184309C1.653798-4.184309 1.823163-4.184309 1.823163-3.865504C1.823163-3.616438 1.723537-3.347447 1.653798-3.16812C1.215442-2.012453 1.085928-1.554172 1.085928-1.125778C1.085928-.049813 1.96264 .109589 2.420922 .109589C4.094645 .109589 4.662516-3.188045 4.662516-3.706102Z'/>
+</defs>
+<g id='page1'>
+<path d='M-45.1367 14.3867H39.9021L-2.6172-64.9847Z' fill='#ffffeb'/>
+<path d='M-45.1367 14.3867H39.9021L-2.6172-64.9847Z' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
+<path d='M-11.6875-45.707C-2.6172-40.8867-2.6172-40.8867 6.4531-45.707' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 67.66197 -94.8013)'>
+<use x='-73.484899' y='42.735251' xlink:href='#g0-11'/>
+</g>
+<path d='M-22.4609-67.8167V-34.1328' stroke='#8c0000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-22.460955-30.37109C-22.347674-30.83203-21.710955-32.86328-21.01564-34.132809H-23.90627C-23.210955-32.86328-22.574236-30.83203-22.460955-30.37109Z' fill='#8c0000'/>
+<path d='M-22.460955-30.37109C-22.347674-30.83203-21.710955-32.86328-21.01564-34.132809H-23.90627C-23.210955-32.86328-22.574236-30.83203-22.460955-30.37109Z' stroke='#8c0000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g fill='#8c0000' transform='matrix(1 0 0 1 41.3443 -89.9824)'>
+<use x='-73.484899' y='42.735251' xlink:href='#g0-118'/>
+</g>
+<path d='M-22.4609-27.5664V3.0508' stroke='#8c0000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883 2.98883'/>
+<path d='M-22.4609-27.5664L-63.90625-2.1797' stroke='#8c0000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-67.113242-.21484C-66.664017-.359369-64.597616-.874995-63.1523-.94531L-64.66402-3.410154C-65.382766-2.156249-66.781204-.550775-67.113242-.21484Z' fill='#8c0000'/>
+<path d='M-67.113242-.21484C-66.664017-.359369-64.597616-.874995-63.1523-.94531L-64.66402-3.410154C-65.382766-2.156249-66.781204-.550775-67.113242-.21484Z' stroke='#8c0000' fill='none' stroke-width='.398482' stroke-miterlimit='10'/>
+<path d='M-22.4609-10.5547C-28.3242-10.5547-33.7773-13.5781-36.8828-18.5508' stroke='#8c0000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g fill='#8c0000' transform='matrix(1 0 0 1 39.3152 -51.71399)'>
+<use x='-73.484899' y='42.735251' xlink:href='#g0-11'/>
+</g>
+<path d='M-40.5547 25.7266H35.3201' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-44.31637 25.726604C-43.85543 25.839885-41.82418 26.476604-40.554647 27.17192V24.28129C-41.82418 24.976604-43.85543 25.613323-44.31637 25.726604Z'/>
+<path d='M-44.31637 25.726604C-43.85543 25.839885-41.82418 26.476604-40.554647 27.17192V24.28129C-41.82418 24.976604-43.85543 25.613323-44.31637 25.726604Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M39.08205 25.726604C38.61721 25.613323 36.58986 24.976604 35.320332 24.28129V27.17192C36.58986 26.476604 38.61721 25.839885 39.08205 25.726604Z'/>
+<path d='M39.08205 25.726604C38.61721 25.613323 36.58986 24.976604 35.320332 24.28129V27.17192C36.58986 26.476604 38.61721 25.839885 39.08205 25.726604Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 68.27426 -6.5698)'>
+<use x='-73.484899' y='42.735251' xlink:href='#g0-100'/>
+</g>
+<path d='M-45.1367 14.3867V27.1445' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='.3985 1.99255'/>
+<path d='M39.9021 14.3867V27.1445' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='.3985 1.99255'/>
+</g>
+</svg>
+</figure>
 
 
 *Schema cono razzo con molecole incidenti*

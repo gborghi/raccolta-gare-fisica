@@ -13,10 +13,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2025 — Teorica — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/geometric-optics,topic/wave-optics,argomento/meccanica,object/cylinder"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
-
 **T1: Sunny (10 pts)**
 
 You are asked to study the features of the brightly lit circle and dark rings in the figures below. Make your calculations for an idealized situation: the chair leg is strictly cylindrical of radius $a$, strictly vertical, with a perfectly smooth, cylindrical, and perfectly reflecting surface. You may make any additional model assumptions and approximations you deem reasonable that will simplify your calculations.
@@ -43,12 +39,7 @@ b) (5 pts) In the following figure some fingers are blocking some of the light f
 
 
 
-
 <span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2025 — Teorica — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/oscillations-e-waves,argomento/meccanica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
 
 **T2: Floating table (10 pts)**
 
@@ -74,12 +65,7 @@ The masses of the chains and the frame can be neglected. The chains are friction
 
 
 
-
 <span class="atom-split" id="q03" data-atom="q03" data-title="EuPhO 2025 — Teorica — Quesito 3" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/magnetism,topic/electromagnetism,argomento/meccanica,object/wire"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
 
 **T3: Crossed wires (10 pts)**
 
@@ -101,4 +87,3 @@ c) (4 pts) Let $L$ be the length of this field line between P and its point of c
 **Objects:** [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1wtSbzc8AVx7cWl_qYUiIxoYuUTkyDV-l/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1YX6XKs1Ou7I9pAhUtxy0_lZESabvUXKQ/view)
-

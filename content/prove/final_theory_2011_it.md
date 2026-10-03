@@ -15,6 +15,10 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2011 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/sphere,object/nucleus,object/gas,object/capacitor,object/coil"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 **Buona fortuna!**
 
 SwissPhO 2011
@@ -312,3 +316,263 @@ $\Phi = N_2 B \pi r_2^2 = N_2 \dfrac{I \mu_0}{R} r_2^2$
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Sphere (object)|Sphere]], [[Nucleus (object)|Nucleus]], [[Gas (object)|Gas]], [[Capacitor (object)|Capacitor]], [[Coil (object)|Coil]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1SH1eCXn0MIsnZwOdz8lIXf-UD-dBzAYB/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Good luck!**
+
+SwissPhO 2011
+Swiss Physics Olympiad
+National Selection
+Aarau, April 2–3, 2011
+Theoretical Part
+6 Mini-Problems
+Duration: 60 minutes
+Scoring: 6 × 4 points = 24 points
+
+Name $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$ Points $\dots\dots$
+Allowed Materials:
+- Hand-held calculator without data storage.
+- Writing and drawing materials.
+
+Good luck!
+
+SwissPhO 2011 Theory
+Name:
+Page 2 of 27
+
+Moment of Inertia
+1
+A hollow homogeneous sphere of mass $m$ is bounded by two concentric spheres with radii $r$ and $R$, respectively, where $r < R$. Note that the moment of inertia of a solid homogeneous sphere of radius $R$ and mass $M$ is given by $I = (2/5)\cdot M\cdot R^2$.
+
+(a)
+[2 Points]
+Determine the moment of inertia $I$ of the hollow sphere in terms of its diameters.
+
+(b)
+[1 Point]
+Subsequently, verify that the obtained formula is consistent with that of a solid sphere.
+
+(c)
+[1 Point]
+Finally, compute the value of $I$ when $r$ tends toward $R$, to obtain the moment of inertia of a spherical balloon of radius $R$ and mass $m$.
+
+Hint:
+To compute $I$, it is not necessary to perform an integral calculation. A physical reflection combined with the judicious use of the given formula allows reaching the result directly.
+
+SwissPho 2011 theory
+Name:
+Page 3 of 27
+Elastic collision
+2
+A particle $\alpha$ (= He nucleus, $m = 6{.}64\times10^{-27}\ \text{kg}$) collides with an energy of $7{.}66\times10^{-13}\ \text{J}$ against a helium nucleus and is deflected by $30^\circ$ from its previous trajectory. As a model, the two nuclei may be considered as small spheres and the collision may be regarded as perfectly elastic.
+
+(a)
+[2 Points]
+What angle do the trajectories of motion of the two particles form with each other after the collision?
+
+(b)
+[2 Points]
+What is the speed of the particle before and after the collision?
+
+SwissPho 2011 Theory
+Name:
+Page 4 of 27
+Gasometer
+
+3
+The so-called gasometers, which today represent industrial historical monuments, were until their abandonment large containers for methane. In the following problem, methane may be considered an ideal gas.
+
+Methane was stored in the cylindrical gasometer beneath a movable lid (mass 1270 t). The cylinder diameter is $d = 67{.}6\ \text{m}$, the molar mass of methane is $M_{\text{CH}_4} = 16\ \text{g/mol}$, its specific heat capacity at constant volume is $c_V = 1{.}7\ \text{kJ/(kg K)}$, and at constant pressure it is $c_p = 2{.}2\ \text{kJ/(kg K)}$.
+
+(a)
+[1 Pt]
+What is the pressure of the methane beneath the lid?
+
+(b)
+[1 Pt]
+Determine the mass of stored methane, if the lid is located at a height of $h_1 = 100\ \text{m}$. The temperature is $T = 20\ ^\circ\text{C}$.
+
+(c)
+[1 Pt]
+At night, the gas in the gasometer cools down isobarically to a temperature of $T = 10\ ^\circ\text{C}$. At what height $h_2$ is the lid located, assuming the gas mass remains constant?
+
+(d)
+[1 Pt]
+What work is done by the gas on the lid?
+
+SwissPho 2011 theory
+Name:
+Page 5 of 27
+Electricity
+4
+A small electrically charged sphere is suspended by a well-insulated silk thread of negligible mass, between two vertical plates of a parallel-plate capacitor. The suspension point is equidistant from the two plates.
+
+Sphere charge:
+$q = -5{.}00\ \text{C}$
+Sphere mass:
+$m = 4{.}00\ \text{g}$
+Sphere radius:
+$r = 1{.}00\ \text{cm}$
+Distance from suspension point to sphere center:
+$l = 50{.}0\ \text{cm}$
+Plate separation:
+$d = 40{.}0\ \text{cm}$
+Voltage applied to the capacitor:
+$U = 100\ \text{V}$
+Capacitor capacitance:
+$C = 8{.}00\ \text{pF}$
+Gravitational field strength:
+$g = 9{.}80\ \text{N/kg}$
+
+Calculate (a)
+[2 Pt]
+the angle by which the thread is inclined with respect to the vertical.
+
+(b)
+[2 Pt]
+the minimum distance between the positively charged plate and the sphere surface.
+
+Neglect displacement of charges on the sphere due to electrostatic induction.
+
+SwissPho 2011 theory
+Name:
+Page 6 of 27
+Magnetism
+5
+A wire is uniformly wound around a tube of radius $r$, forming $N$ turns. The tube is then bent into a circular loop of radius $R$.
+
+(a)
+[1.5 Pt]
+Find the expression for the magnetic field (directed tangentially to the circle) at the center of the tube, in terms of the current flowing through the wire.
+
+Note: Ampère's law $\oint \vec{B}\cdot d\vec{l} = \mu_0 I$, $\mu_0 = 4\pi\cdot10^{-7}\ \text{VsA}^{-1}\text{m}^{-1}$
+
+(b)
+[2.5 Points]
+Consider two ring-shaped coils arranged coaxially, one placed inside the other. Given $R_1 = R_2 = 0{.}50\ \text{m}$, $r_1 = 5{.}0\ \text{cm}$, $r_2 = 3{.}0\ \text{cm}$, $N_1 = 2000$, $N_2 = 3000$. The outer coil is traversed by an alternating current with effective value $I_\text{eff} = 3{.}0\ \text{A}$ and frequency $f = 50\ \text{Hz}$. The inner coil is connected to an oscilloscope.
+Assuming that the magnetic field inside the coil is equal to the magnetic field at the center of the tube, calculate the peak voltage displayed on the oscilloscope.
+Note: In case part (a) was not answered, use for the magnetic field the relation $B = \dfrac{\mu_0 I}{R}$.
+
+SwissPho 2011 theory
+Name:
+Page 7 of 27
+Alternating Current
+
+6. The circuit shown in the figure is given, where $D_1$ and $D_2$ are ideal diodes (threshold voltage 0 V, perfect blocking). The following values are known: $C = \dfrac{1}{4\pi^2}\ \text{F}$, $L_1 = 1\ \text{H}$, $L_2 = 4\ \text{H}$.
+The switch S is open and the capacitor $C$ is charged to 1.0 V (polarity as indicated in the figure). At time $t = 0$, switch S is closed.
+
+(a)
+[1Pt]
+Calculate the oscillation period.
+
+(b)
+[1Pt]
+Qualitatively sketch the time dependence of the voltage across the capacitor, starting from $t = 0$, for one period of the generated oscillation.
+Indicate relative times corresponding to zero voltage and extreme values.
+
+(c)
+[2Pt]
+Qualitatively sketch the time dependence of the current, starting from $t = 0$, for one period of the generated oscillation.
+The two graphs in (b) and (c) must be drawn superimposed, with the same time axis.
+
+C
+L
+D1
+L
+D2
+
+S
+
+SwissPho 2011 theory
+Name:
+Page 8 of 27
+Swiss Physics Olympiad
+National Selection
+Aarau, April 2–3, 2011
+Solution
+6 Mini-problems
+
+SwissPho 2011 theory
+Name:
+Page 9 of 27
+Solution for moment of inertia
+1 (a)
+[2 P]
+Fill the sphere with the same material; masses and moments of inertia add up. The mass density remains constant. After two steps of algebraic manipulation, one obtains
+$I = \dfrac{2}{5} m \dfrac{R^5 - r^5}{R^3 - r^3}$ (b)
+[1 P]
+Set $r = 0$ (c)
+[1 P]
+$I' = \dfrac{2}{3} m R^2$ (limit calculation; apply l'Hôpital's rule or factor numerator and denominator)
+
+Solution for elastic collision
+2
+Point distribution (a)
+Energy conservation equation established
+$\tfrac{1}{2}$ P
+Momentum conservation equation established
+$\tfrac{1}{2}$ P
+Recognize Pythagoras’ theorem, from which the angle for helium is $60^\circ$
+1P (b)
+Velocity of alpha particle before collision
+1P after collision
+1P
+
+SwissPho 2011 theory
+Name:
+Page 10 of 27
+Solution for gasometer
+3 (d)
+Work done on the gas is $p\,\Delta V$, work done on the disk is $p\,\Delta V$ (sign matters!)
+$\Delta V = \Delta h\, A = (h_2 - h_2)\, A = (96{.}6\ \text{m} - 100\ \text{m})\,(67{.}6)^2\ \text{m} = -12202{.}9\ \text{m}^3$
+$W = mg\, \Delta V = 1{.}27\times10^6\ \text{kg} \cdot 9{.}81\ \text{m/s}^2 \cdot (-12202{.}9\ \text{m}^3) = -1{.}52\times10^6\ \text{J}$
+[1 P]
+
+SwissPho 2011 theory
+Name:
+Page 11 of 27
+Solution: Electricity
+4 (a)
+$E = U / d$ ( $= 250\ \text{V/m}$)
+$F_E = q * E = q * U / d$ ( $= 1{.}25\ \text{mN}$)
+($\tfrac{1}{2}$ P falls Endresultat falsch)
+$F_G = m * g$ ( $= 39{.}2\ \text{mN}$)
+$\alpha = \arctan(F_E / F_G)$ ($\tfrac{1}{2}$ P falls Endresultat falsch)
+$\alpha = \arctan(q * U / (m * g * d))$ ($\tfrac{1}{2}$ P falls Endresultat falsch)
+$\alpha = 0{.}0319\ \text{(rad)}$ ( $= 1{.}83^\circ$)
+(2 P falls Endresultat richtig)
+
+(b)
+$x = l * \sin(\alpha)$
+$x = l * \sin(\arctan(q * U / (m * g * y)))$ ( $= 1{.}59\ \text{cm}$) ($\tfrac{1}{2}$ P falls Endresultat falsch)
+$\Delta s = d/2 - r - x$ ($\tfrac{1}{2}$ P falls Endresultat falsch)
+$\Delta s = d/2 - r - l * \sin(\arctan(q * U / (m * g * d)))$ ( $= 20\ \text{cm} - 1\ \text{cm} - 1{.}59\ \text{cm}$)
+$\Delta s = 17{.}4\ \text{cm}$ (2 P falls Endresultat richtig)
+
+Deductions:
+- $\tfrac{1}{2}$ P for less than 2 or more than 4 significant figures (or as agreed);
+- $\tfrac{3}{4}$ P for confusing radians and degrees in a) (i.e. $\alpha = 0{.}0319^\circ$ or $\alpha = 1{.}83$);
+- $\tfrac{3}{4}$ P for forgetting the radius in b) (i.e. $\Delta s = 18{.}4\ \text{cm}$);
+- $\tfrac{3}{4}$ P for calculating the distance to the wrong
+
+SwissPho 2011 theory
+Name:
+Page 12 of 27
+Solution: Magnetism
+5 (a)
+$\oint \vec{B}\cdot d\vec{l} = 2\pi R B = \mu_0 I_\text{tot} = \mu_0 N I$
+1 pt.
+$B = \dfrac{\mu_0 I N}{2\pi R}$
+0.5 pt.
+
+(b)
+$\Phi = N_2 B \pi r_2^2 = N_2 N_1 \dfrac{I \mu_0}{2R} r_2^2$
+1 pt.
+$U = \dot{\Phi} = \sqrt{2}\,\omega \cos(\omega t)\, I_\text{eff}\, \mu_0 \dfrac{N_1 N_2}{2R} r_2^2$
+1 pt.
+$\hat{U} = \sqrt{2}\,(2\pi f)\, I_\text{eff}\, \mu_0 \dfrac{N_1 N_2}{2R} r_2^2 = 9{.}05\ \text{V}$
+0.5 pt.
+if an alternative value for B was used:
+$\Phi = N_2 B \pi r_2^2 = N_2 \dfrac{I \mu_0}{R} r_2^2$

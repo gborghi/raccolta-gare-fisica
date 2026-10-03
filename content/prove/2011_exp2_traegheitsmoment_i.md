@@ -15,6 +15,10 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2011 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk,object/rod,object/rope-string"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 **A1 (12 punti)**
 
 Determinate il momento d'inerzia del disco di legno con i materiali a disposizione.
@@ -39,8 +43,32 @@ Riguardo alla precisione, potete decidere se stimare l'errore, calcolarlo o misu
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/16bKzwPkt-xZU5c_aZ6uzUQVpaBK4935s/view)
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**A1 (12 points)**
+
+Determine the moment of inertia of the wooden disk using the available materials.
+
+The laboratory is poorly equipped and you have limited materials with unknown properties. To measure the moment of inertia, it is first necessary to determine a few characteristics of the materials.
+
+Available materials: wooden disk, stone, rod with screw hook, string, scissors, adhesive tape, permanent marker, container full of water, graduated cylinder full, vessel, stopwatch, spool, clamp and rod base, rotational apparatus, meter stick.
+
+Permitted approximations without explanation:
+- Acceleration due to gravity: $g = 9{,}81 \text{ m/s}^2$
+- Density of water: $\rho = 1{,}0 \text{ g/ml}$
+- Room temperature: $T = 293 \text{ K}$
+
+Write the intermediate steps in the table with columns: *What is measured* — *Why* — *Method (detailed)* — *Result* — *Precision*.
+
+Regarding precision, you may decide whether to estimate the error, calculate it, or measure it through repeated measurements, depending on the time available.
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2011 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **A2 (3 punti)**
 
@@ -57,8 +85,23 @@ Confermate o contraddite tale asserzione sperimentalmente.
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/16bKzwPkt-xZU5c_aZ6uzUQVpaBK4935s/view)
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**A2 (3 points)**
+
+Since the rotational base has a small amount of friction, the rotation of the wooden disk slows down.
+
+Assertion: The friction is proportional to the angular velocity, i.e., $F_R \propto \omega$.
+
+Confirm or refute this assertion experimentally.
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2011 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **A3 (1 punto)**
 
@@ -69,3 +112,10 @@ Quale passo è secondo voi il più impreciso (secondo l'errore relativo)? Spiega
 **Competenze:** [[Error Propagation (competenza)|Error Propagation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Disk (object)|Disk]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/16bKzwPkt-xZU5c_aZ6uzUQVpaBK4935s/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**A3 (1 point)**
+
+Which step do you consider the most imprecise (according to relative error)? Explain your reasoning.

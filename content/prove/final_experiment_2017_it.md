@@ -11,6 +11,10 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2017 '' — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/rope-string,object/rod,object/tank-container"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 **Esercizio 1: Determinazione delle forze e del coefficiente d'attrito con massimo attrito statico** (9 punti totali)
 
 ### Legge di Eulero-Eytelwein
@@ -42,8 +46,39 @@ Bisogna determinare le forze tra la corda e la sbarra con massimo attrito static
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1lvaVL16ABiV6-GQWAKzOa6j9oPcECSSq/view)
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Problem 1: Determination of Forces and the Coefficient of Friction with Maximum Static Friction** (9 points total)
+
+### Euler-Eytelwein Law
+
+A rope $S$ slides over a rod $S_t$ with an angle of wrap $\varphi$. To maintain the load mass $M$ in equilibrium, a force $F$ must be applied at the other end of the rope. Due to the frictional force between the rope $S$ and the rod $S_t$, the required force $F$ is less than the weight of the mass $M$, and it is given by the following relation:
+
+$$F = F_M \cdot e^{-\mu\varphi}$$
+
+where:
+
+- $F_M$: weight of the load
+- $F$: pulling force applied
+- $\varphi$: angle of wrap (in radians)
+- $\mu$: coefficient of friction
+- $e$: Euler's number
+
+### Description
+
+It is necessary to determine the forces between the rope and the rod under maximum static friction for different load masses. The wrapping angle must remain constant $\varphi = \pi$. To this end, the applied force $F$ is gradually increased until the rope begins to slip on the rod. The load mass is attached at one end of the rope. The applied force is generated as follows: a water container is fixed to the other end of the rope. Water is slowly poured into the container until the rope begins to move, and the load mass starts moving upward. The total mass of the container with water determines the applied pulling force under static friction. Caution: to prevent the container from touching the load mass, the container must initially be positioned lower than the load mass. The rope must always remain dry!
+
+**(a)** Perform the measurement with a wrapping angle $\varphi = \pi$ using 8 different load masses between $0\ \text{g}$ and $160\ \text{g}$. For each load mass, the measurement must be repeated at least three times in order to compute the average value. (5 points)
+
+**(b)** For each of the 8 load masses, use the values obtained in (a) to determine the coefficient of static friction $\mu_\text{statico}$ between the rope and the rod. Then compute the average value for $\mu_\text{statico}$. (4 points)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2017 '' — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/rope-string,object/rod"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Esercizio 2: Determinazione delle forze e del coefficiente d'attrito con attrito dinamico** (17 punti totali)
 
@@ -64,8 +99,27 @@ Utilizza adesso una nuova corda. Useremo ancora un angolo di avvolgimento costan
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1lvaVL16ABiV6-GQWAKzOa6j9oPcECSSq/view)
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Problem 2: Determination of forces and the coefficient of dynamic friction** (17 points total)
+
+Now use a new rope. We will again employ a constant winding angle $\varphi = \pi$. To determine the dynamic friction forces, we will use two different methods based on spring scales (dynamometers). In the first method, the load mass is pulled upward; in the second method, the mass is lowered downward. For the first method — see (a) — gradually increase the applied force by slowly pulling the dynamometer until the rope begins to move relative to the rod. Then continue pulling with constant velocity and read the value on the dynamometer. For the second method — see (b) — use the dynamometer to reduce the applied force until the rope begins to move relative to the rod. Then continue moving with constant velocity and read the value on the dynamometer.
+
+**(a)** Perform measurements of the pulling force required to lift the load mass for 8 different masses between $0$ and $160\ \text{g}$, keeping the winding angle $\varphi = \pi$ constant. For each load mass, measure at least three values and compute the average value. (4 points)
+
+**(b)** Perform the measurement of the applied pulling force by lowering the load mass for 8 different values between $0$ and $160\ \text{g}$, keeping the winding angle $\varphi = \pi$ constant (use the same masses as in point (a)). For each load mass, measure at least three values and compute the average value. (4 points)
+
+**(c)** Graphically represent all (average) values obtained in (a) and (b) as a function of the load force. Plot both data series on the same graph. (3 points)
+
+**(d)** Prepare a table in which, for each load force, the ratio between the applied pulling force and the load force is shown, separately for point (a) and point (b). What relationship exists between these two ratios? For each load force, calculate the dynamic friction coefficient $\mu_\text{dinamico}$ between rope and rod using both values measured in points (a) and (b). Determine the average value of the individual coefficients $\mu_\text{dinamico}$. (6 points)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2017 '' — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/rope-string,object/rod"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Esercizio 3: Determinazione delle forze con attrito dinamico in funzione dell'angolo di avvolgimento e del coefficiente di attrito dinamico** (22 punti totali)
 
@@ -88,3 +142,22 @@ In questa parte studiamo la dipendenza delle forze dall'angolo di avvolgimento (
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Rope/String (object)|Rope/String]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1lvaVL16ABiV6-GQWAKzOa6j9oPcECSSq/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Problem 3: Determination of forces with dynamic friction as a function of winding angle and coefficient of dynamic friction** (22 points total)
+
+In this part, we study the dependence of forces on the winding angle (only when the mass is being lifted). The forces are measured using the dynamometer. In this exercise, always use only the mass $55\ \text{g}$.
+
+**(a)** Determine the pulling force applied for at least 6 winding angles between $\varphi = 0$ and $\varphi = 8\pi$. For each angle, measure the force at least five times. (4 points)
+
+**(b)** For each winding angle, determine the mean value as well as the standard deviation (root mean square deviation) for the measured pulling forces. (3 points)
+
+**(c)** Check the validity of Euler-Eytelwein's law using an appropriate graph. Explain the method you chose! (4 points)
+
+**(d)** Include error bars for all relevant quantities in your graph. (4 points)
+
+**(e)** Determine the coefficient of dynamic friction between rope and rod $\mu_\text{dinamico}$ from the graph in (c). Estimate the error of the coefficient of dynamic friction appropriately. Document your analysis. (5 points)
+
+**(f)** Compare $\mu_\text{dinamico}$ obtained in point 3(e) with that from exercise 2(d), and calculate the relative error of the value from exercise 2(d) with respect to that from 3(e). (2 points)

@@ -96,79 +96,60 @@ Stating the correct solution
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 1 Mapping costiero (problema di scelta multipla)
-(5,0 p. d.)
-(Problema group of the PhysicsOlympiad - Stefan Petersen)
-Usando laser montati su aeromobili, le acque costiere possono essere
-- Mappa. Per fare questo, vengono emessi brevi impulsi laser
-Le direzioni di questo fenomeno sono diverse, che si riflettono in modo diffuso, in parte sulla superficie dell'acqua e in parte sul fondo del mare. Di conseguenza, parte della luce emessa ritorna all'aeromobile, dove viene rilevata e valutata.
-Considerate un aereo che vola a costante altitudine lungo
-Una striscia costiera. Il grafico seguente mostra la forza del segnale del segnale riflesso di un impulso laser come funzione
-- Non è tempo. Il tempo di origine è scelto in modo che il
-intero segnale riflesso è mostrato. Supponiamo che il pulso laser colpisca la superficie dell'acqua ad un angolo di incidenza (measure from the normal) di $40^\circ$
-e che l'indice di rifrazione dell'acqua è di 1,33.
-Fig. 1. Illocalizzazione di
-mapping with a laser
-(Image source GEUS)
+Problema 1 Cartografia costiera (problema a scelta multipla)
+(5,0 punti)
+(Gruppo di problemi della Olimpiade di Fisica - Stefan Petersen)
+
+Utilizzando laser montati su aeroplani, è possibile mappare le acque costiere. A tale scopo vengono emessi impulsi laser brevi in diverse direzioni, che vengono riflessi diffusamente sia dalla superficie dell'acqua che dal fondo marino. Di conseguenza, una parte della luce emessa ritorna verso l'aeroplano, dove viene rilevata e analizzata.
+
+Si consideri un aeroplano che vola a quota costante lungo una striscia costiera. Il seguente grafico mostra l'intensità del segnale del raggio laser riflesso in funzione del tempo. L'origine temporale è scelta in modo che sia visibile l'intero segnale riflesso. Si assuma che il raggio laser colpisca la superficie dell'acqua con un angolo di incidenza (misurato rispetto alla normale) di $40^\circ$ e che l'indice di rifrazione dell'acqua sia 1,33.
+
+Fig. 1. Rappresentazione schematica della mappatura con laser (fonte dell'immagine GEUS).
 Tempo in ns
-Signal strength in unità arbitrarie
-Fig. 2. Signal strength as a function of time (il punto $t = 0$ è arbitrario).
-Quanto profondo è l'acqua alla località indagata?
-A
-2.7 m
-B
-3.1 m
-C
-4.1 m
-D
-6.1 m
+Intensità del segnale in unità arbitrarie
+
+Fig. 2. Intensità del segnale in funzione del tempo (il punto $t = 0$ è arbitrario).
+
+A quale profondità si trova l'acqua nel punto indagato?
+
+A 2,7 m
+B 3,1 m
+C 4,1 m
+D 6,1 m
+
 Soluzione
 Calcoli e spiegazioni
-La differenza di tempo $\Delta t \approx 60$ ns $- 29$ ns = 31 ns
-due massime nella curva di forza del segnale corrisponde al tempo
-Il raggio di luce ha bisogno nell'acqua per viaggiare dalla superficie dell'acqua al fondo del mare e indietro.
-L'angolo $\beta$ del raggio luminoso nell'acqua (measure from the normal) è, according to
-La legge di refrazione di Snell, data da (cfr. Fig. 3)
-$$\beta = \arcsin\left(\frac{1}{n}\sin\alpha\right) = 28{,}9^\circ,$$
-(1.1)
-dove $\alpha = 40{,}0^\circ$ è l'angolo di incidenza del raggio di luce.
+La differenza temporale $\Delta t \approx 60$ ns $- 29$ ns = 31 ns tra i due massimi nella curva dell'intensità del segnale corrisponde al tempo che la radiazione luminosa impiega nell'acqua per percorrere il tragitto dalla superficie dell'acqua al fondo marino e ritorno.
+L'angolo $\beta$ della radiazione luminosa nell'acqua (misurato rispetto alla normale) è, secondo la legge di Snell,
+...
+La legge di Snell della rifrazione, data da (cfr. Fig. 3)
+$$\beta = \arcsin\left(\frac{1}{n}\sin\alpha\right) = 28{,}9^\circ,$$ (1.1)
+dove $\alpha = 40{,}0^\circ$ è l'angolo di incidenza del raggio luminoso.
 $d$
 $\alpha$
 $\beta$
 Acqua
-Sotto
-Fig. 3. Sketch del sentiero dei raggi.
-La distanza percorsa dalla luce nell'acqua durante il tempo $\Delta t$ è $\frac{c\,\Delta t}{n}$, dove $n = 1{,}33$ indica la
-Indice di refraczione dell'acqua. From this, the water depth $d$ follows by projection
-$$d = \frac{c\,\Delta t}{2 n \cos\beta} = \frac{c\,\Delta t}{2 n \cos\left(\arcsin\left(\frac{1}{n}\sin\alpha\right)\right)} \approx 3{,}1 \text{ m} .$$
-(1.2)
+Fondo
+Fig. 3. Schizzo del percorso del raggio luminoso.
+La distanza percorsa dalla luce nell'acqua nel tempo $\Delta t$ è $\frac{c\,\Delta t}{n}$, dove $n = 1{,}33$ indica l'indice di rifrazione dell'acqua. Da questo si ricava la profondità dell'acqua $d$ per proiezione
+$$d = \frac{c\,\Delta t}{2 n \cos\beta} = \frac{c\,\Delta t}{2 n \cos\left(\arcsin\left(\frac{1}{n}\sin\alpha\right)\right)} \approx 3{,}1 \text{ m} .$$ (1.2)
 Risposta corretta: B
-Remark: Answer option A results if the refraction at the water surface is not
-"Tatto è il caso di un'opzione C senza il lungo percorso ottico in acqua".
-e risposta opzione D se il fattore 2 per l'outward and return path del raggio di luce non è
-considerato.
-Classificazione - Mapping costiero (problema di scelta multipla)
+Osservazione: L'opzione A si ottiene trascurando la rifrazione alla superficie dell'acqua, l'opzione C senza considerare allungamento del cammino ottico nell'acqua, e l'opzione D se non si tiene conto del fattore 2 per il cammino in uscita e ritorno della luce.
+Valutazione - Mappatura costiera (problema a scelta multipla)
 Punti
-Riconoscendo che la differenza di tempo del massimo è decisiva e leggendo fuori il
-Valore dal grafico
+Riconoscere che la differenza di tempo tra i massimi è decisiva e leggere il valore dal grafico
 1.0
-Usando la legge della refrazione e determinando l'angolo di refrazione (1.1)
+Utilizzare la legge della rifrazione e determinare l'angolo di rifrazione (1.1)
 1.0
-Considerando il lungo percorso ottico
+Tenere conto dell'allungamento del cammino ottico
 0.5
-Considerando il fattore 2 per il percorso della luce
+Tenere conto del fattore 2 per il cammino della luce
 0.5
-Setting up an expression for the water depth with projection (1.2)
+Impostare un'espressione per la profondità dell'acqua con proiezione (1.2)
 1.0
-Stating the correct solution
+Affermare la soluzione corretta
 1.0
 5.0
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
 
 
 
@@ -265,89 +246,65 @@ Stating the correct solution
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 2 della macchina Atwood (problema di scelta multipla)
-(5,0 p. d.)
-(Problema group of the PhysicsOlympiad - Titus Bornträger)
-Il professor Atwood è appena tornato da una conferenza e è già
-Tincando con il suo prossimo esperimento:
-and attaches to each end of the string a body of mass $m$.
-Supponiamo che la corda e la polla siano senza massa e che la polla
-può girare liberamente intorno al suo asse centrale. # Ora tiene l'asse del pallino #
-fixed and measures the force $F$ with which he must pull it upward in order
-Per tenere il carrozzino con i corpi in posizione.
-Now, as shown in the figure, he hangs an additional body of mass $4m$
-sul giusto pezzo di massa. # Ha ancora il suo asse #
-- Non è stato fatto.
-What is the force $F'$ with which, in the situation shown, he must pull on the
-- Axis per tenerlo in posizione?
-A
-$\frac{5}{3} F$
-B
-$2 F$
-C
-$\frac{5}{2} F$
-D
-$3 F$
-String
-Pulley
+Problema 2 Macchina di Atwood (problema a scelta multipla)
+(5,0 punti)
+(Gruppo di problemi della Olimpiade di Fisica - Titus Bornträger)
+
+Il professor Atwood è appena tornato da una conferenza e già si sta dedicando al suo prossimo esperimento: dispone una corda sopra una carrucola e alle estremità della corda collega due corpi di massa $m$.
+Si assuma che la corda e la carrucola siano prive di massa e che la carrucola possa ruotare liberamente attorno al suo asse centrale. Egli fissa ora l’asse della carrucola e misura la forza $F$ con cui deve tirare verso l’alto per mantenere fissa la carrucola, insieme ai corpi, nella sua posizione.
+
+Ora, come mostrato in figura, appende un ulteriore corpo di massa $4m$ al pezzo di corda sul lato destro. Fissa nuovamente l’asse della carrucola.
+
+Qual è la forza $F'$ con cui, nella situazione mostrata, deve tirare sull’asse per mantenere la carrucola ferma nella sua posizione?
+A $\frac{5}{3} F$
+B $2 F$
+C $\frac{5}{2} F$
+D $3 F$
+
+Stringa
+Carrucola
 $F'$
 $m$
 $m$
 $4m$
+
 Soluzione
 Calcoli e spiegazioni
-Nel primo caso, i pesi dei corpi su entrambi i lati della polla sono identici. Il peso del corpo su un lato è trasmesso dalla tensione della corda al corpo su
-l'altro lato del pollice, in modo che non si agisca forza risultante su entrambi i corpi
-e quindi non sono accelerati.
-La forza $F$ è quindi data come la somma dei pesi dei due corpi, cioè
-$$F = 2 m g .$$
-(2.1)
-Nel secondo esperimento, una forza risultante agisce sui corpi, poiché la massa totale sui due lati del pollice è diversa. La forza totale di accelerazione
-on the bodies corrisponde alla differenza dei pesi dei corpi sui due lati, cioè $4 m g$.
-Tutti i corpi sono accelerati, tuttavia, in modo che la massa accelerata corrisponde alla somma delle masse di tutti
-corpi, cioè $6 m$. Quindi la grandezza dell'accelerazione è data da
-$$a = \frac{4 m g}{6 m} = \frac{2}{3} g .$$
-(2.2)
-The force $F'$ with which the pulley must be held at the axis can be determined by
-trovare la tensione nella corda sul lato sinistro o destro del pallone e prenderla
-times two$^a$. Così
-$$F' = 2 \cdot m (g + a) = \frac{10}{3} m g = \frac{5}{3} F$$
-or
-$$F' = 2 \cdot 5 m (g - a) = \frac{10}{3} m g = \frac{5}{3} F .$$
-(2.3)
-Risposta corretta: A
-Nota: La soluzione può essere ottenuta anche con altri mezzi. Per esempio, si può considerare il
-tempo rate of change $\dot{p}$ of the total momentum of the three bodies, which is produced by the sum
-of the weights and the force $F'$ on the pulley's axis. Uno deve prestare attenzione qui
-L'orientamento delle forze e delle accelerazioni. Tieni che
-$$F' - (2 + 4) m g = \dot{p} = m a - (1 + 4) m a .$$
-(2.4)
-Con l'accelerazione (2.2) questo rende
-$$F' = m (6 g - 4 a) = \left(6 - \frac{8}{3}\right) m g = \frac{10}{3} m g = \frac{5}{3} F .$$
-(2.5)
-$^a$Il fattore 2 si verifica perché la tensione nella corda deve essere identica su entrambi i lati del pulley; altrimenti
-La corda sarebbe strappata o non sarebbe più viva.
-Grading - Atwood machine (problema di scelta multipla)
-Punti
-Determinare la forza $F$ nel primo esperimento (2.1)
-0.5
-Riconoscendo che la massa accelerante e la massa accelerata sono diverse
-1.0
-Determinare l'accelerazione (2.2)
-1.0
-Determinare la tensione nella stringa ((2.3) without the factor 2)
-1.0
-Considerando il fattore 2
-0.5
-Stating the correct solution
-1.0
-5.0
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
+Nel primo caso i pesi dei corpi ai due lati della carrucola sono identici. Il peso del corpo da un lato viene trasmesso attraverso la tensione della corda all’altro corpo, in modo che non agisca alcuna forza risultante su ciascun corpo e quindi essi non sono accelerati.
+La forza $F$ è pertanto data dalla somma dei pesi dei due corpi, ossia
+$$F = 2 m g .$$ (2.1)
+Nell'esperimento successivo rappresentato, una forza risultante agisce sui corpi, poiché la massa totale sui due lati della carrucola è diversa. La forza accelerante totale sui corpi corrisponde alla differenza dei pesi dei corpi sui due lati, ovvero $4 m g$.
+Tutti i corpi sono accelerati, in modo che la massa da accelerare corrisponda alla somma delle masse di tutti i corpi, ovvero $6 m$. La grandezza dell'accelerazione è quindi data da
+$$a = \frac{4 m g}{6 m} = \frac{2}{3} g .$$ (2.2)
+La forza $F'$ con cui la carrucola deve essere trattenuta sull'asse può essere determinata trovando la tensione della corda sul lato sinistro o destro della carrucola e moltiplicandola per due $^a$. Si ottiene così
+$$F' = 2 \cdot m (g + a) = \frac{10}{3} m g = \frac{5}{3} F$$ oppure
+$$F' = 2 \cdot 5 m (g - a) = \frac{10}{3} m g = \frac{5}{3} F .$$ (2.3)
+Risposta corretta: A
+Osservazione: La soluzione può essere ottenuta anche in altri modi. Ad esempio, si può considerare la variazione temporale $\dot{p}$ della quantità di moto totale dei tre corpi, che è prodotta dalla somma dei pesi e della forza $F'$ sull'asse della carrucola. È necessario prestare attenzione all’orientamento delle forze e delle accelerazioni. Vale infatti
+$$F' - (2 + 4) m g = \dot{p} = m a - (1 + 4) m a .$$ (2.4)
+Con l’accelerazione (2.2), si ottiene ugualmente
+$$F' = m (6 g - 4 a) = \left(6 - \frac{8}{3}\right) m g = \frac{10}{3} m g = \frac{5}{3} F .$$ (2.5)
+$^a$Il fattore 2 deriva dal fatto che la tensione nella corda deve essere identica sui due lati della carrucola; altrimenti la corda si spezzerebbe o non rimarrebbe tesa.
+Valutazione - Macchina di Atwood (problema a scelta multipla)
+Punti
+Determinazione della forza $F$ nell'esperimento iniziale (2.1)
+0,5
+Riconoscimento che la massa da accelerare e la massa accelerata sono diverse
+1,0
+Determinazione dell'accelerazione (2.2)
+1,0
+
+Determinazione della tensione nella corda ((2.3) senza il fattore 2)
+1,0
+
+Tenendo conto del fattore 2
+0,5
+
+Affermazione della soluzione corretta
+1,0
+
+5,0
 
 
 
@@ -692,71 +649,56 @@ Stating the correct solution
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 5 del pendolo di Lissajous (problema di scelta multipla)
-(5,0 p. d.)
-(Problema group of the PhysicsOlympiad - Johannes Rothe)
-Un pendolo a corda è, come disegnato accanto, sospeso da due
-stringhe che convergono in forma di V. La altezza
-di V è pari alla lunghezza $l$ del pendolo della stringa sotto di esso. Bob e le masse delle corde
-Le condizioni di lavoro sono trascurabili.
-Il pendolo Bob è ora leggermente spostato dalla sua posizione di riposo e rilasciato. Se si registra il movimento del
-pendolo bob in piano orizzontale,
-- E' un risultato di belle schemi.
-Quale dei seguenti modelli potrebbe essere stato prodotto con il pendolo sopra?
+Problema 5 Pendolo di Lissajous (problema a scelta multipla)
+(5.0 punti)
+(Gruppo di problemi della Olimpiade di Fisica - Johannes Rothe)
+
+Un pendolo a filo è, come mostrato nel disegno accanto, sospeso da due fili che convergono in una configurazione a V. L'altezza della V è uguale alla lunghezza $l$ del pendolo a filo posto al di sotto. Le dimensioni della massa del pendolo e le masse dei fili sono trascurabili.
+
+Il pendolo viene ora spostato leggermente dalla sua posizione di equilibrio e lasciato andare. Se si registra il moto della massa del pendolo nel piano orizzontale, si ottengono dei bei disegni.
+
+Quale dei seguenti schemi potrebbe essere stato prodotto dal pendolo sopra descritto?
 $l$
 $l$
-Fig. 4. Sketch del pendolo di impostazione.
+Fig. 4. Schizzo del dispositivo del pendolo.
 A
 B
 C
 D
-Fig. 5. Candidati per tracce del pendolo bob in piano orizzontale.
+Fig. 5. Criteri per le tracce della massa del pendolo nel piano orizzontale.
+
 Soluzione
 Calcoli e spiegazioni
-Il V è rigido nel piano del disegno ma può essere deflezionato perpendicolare a esso. Pertanto, in questi due piani
-Pendulums of different pendulum lengths result - $l$ in the plane of the drawing and $2l$
-perpendicolare a essa.
-Le oscillazioni armoniche risultanti da piccole deflezioni hanno quindi periodi diversi. Per un pendolo a string a small deflections, $T$ è proporzionale al
-la radice quadrata della lunghezza della corda, e quindi i periodi del pendolo sono in rapporto
+
+La V è rigida nel piano del disegno, ma può essere flessa perpendicolarmente ad esso. Pertanto, in questi due piani si ottengono pendoli di lunghezze diverse – $l$ nel piano del disegno e $2l$ perpendicolare ad esso.
+
+Le oscillazioni armoniche che ne derivano a piccole deviazioni hanno quindi periodi diversi. Per un pendolo a filo con piccole deviazioni, $T$ è proporzionale alla radice quadrata della lunghezza del filo, e pertanto i periodi dei pendoli sono nel rapporto
 $1 : \sqrt{2}$.
-Poiché questo rapporto è irrazionale, le (sezioni del) traiettorie viste nei modelli non sono mai chiuse. Le opzioni A e D sono quindi escluse, poiché
-- Show closed trajectories.
-Dal punto di svolta dei modelli si può anche concludere che i modelli mostrati sono orientati
-così che il piano del disegno nello schizzo in Fig. 4 run verticalmente (in B e D) o orizzontalmente
-(in A e C).
-Per distinguere le rimanenti opzioni B e C, si possono contare i periodi di oscillazione a metà.
-Per questo uno sceglie un punto di partenza con massima deflessione in una delle due direzioni, cioè con un tangente orizzontale o verticale nella rispettiva figura.
-Se uno ora conta tre delle oscillazioni a metà più veloci, cioè in B le oscillazioni verticali o orizzontali in C, allora nel caso B uno vede leggermente più di due oscillazioni a metà
-l'altra direzione, ma in caso C leggermente meno.
-Denote by $T_1$ the period of the pendulum motion in the plane of the drawing of the sketch and by
-$T_2 > T_1$ che del movimento del pendolo perpendicolare a esso. Poi, con l'osservazione sopra, si ritiene che
-ratio dei rispettivi periodi
-$$\left.\frac{T_2}{T_1}\right|_B < \frac{3}{2} < \left.\frac{T_2}{T_1}\right|_C .$$
-(5.1)
-Dal momento che $\frac{T_2}{T_1} = \sqrt{2} \approx 1{,}41 < 1{,}5$, only option B remains as a possible answer.
+
+Poiché questo rapporto è irrazionale, le traiettorie (in particolare i suoi tratti) osservate nei disegni non si chiudono mai. Le opzioni di risposta A e D vengono quindi scartate, poiché mostrano traiettorie chiuse.
+Dai punti di inversione nei modelli si può anche dedurre che i modelli mostrati siano orientati in modo tale che il piano del disegno nel disegno della Figura 4 sia o verticale (in B e D) oppure orizzontale (in A e C).
+Per distinguere le opzioni rimanenti B e C, si può contare i semiperiodi di oscillazione.
+A tale scopo si sceglie un punto iniziale con massima deviazione in una delle due direzioni, ossia con tangente orizzontale o verticale nella rispettiva figura.
+Se ora si contano tre dei semiperiodi più rapidi, ossia le oscillazioni verticali nella figura B o quelle orizzontali nella figura C, si osserva che nel caso B ne compaiono leggermente più di due nell'altra direzione, mentre nel caso C ne compaiono leggermente meno.
+Si indichi con $T_1$ il periodo del moto del pendolo nel piano del disegno dello schizzo e con $T_2 > T_1$ quello del moto del pendolo perpendicolare ad esso. Allora, sulla base dell'osservazione precedente, vale per il rapporto dei rispettivi periodi
+$$\left.\frac{T_2}{T_1}\right|_B < \frac{3}{2} < \left.\frac{T_2}{T_1}\right|_C .$$ (5.1)
+Poiché $\frac{T_2}{T_1} = \sqrt{2} \approx 1{,}41 < 1{,}5$, rimane come unica possibilità l'opzione B.
 Risposta corretta: B
-Remark: Answer option A results for the ratio $T_1 : T_2 = 1 : 2$, answer option C
-per il rapporto $T_1 : T_2 = 1 : \sqrt{3}$, e risposta opzione D per il rapporto $T_1 : T_2 = 2 : 3$.
-L'orientamento della figura nel piano orizzontale non è identico attraverso i modelli.
-Grading - Pendale di Lissajous (problema di scelta multipla)
+Osservazione: l'opzione A dà per il rapporto $T_1 : T_2 = 1 : 2$, l'opzione C per il rapporto $T_1 : T_2 = 1 : \sqrt{3}$ e l'opzione D per il rapporto $T_1 : T_2 = 2 : 3$.
+L’orientamento della figura nel piano orizzontale non è identico nei diversi modelli.
+Valutazione – Pendolo di Lissajous (problema a scelta multipla)
 Punti
-Riconoscere oscillazioni armoniche di diverse frequenze
+Riconoscere oscillazioni armoniche di frequenze diverse
 1.0
-Usando $T \sim \sqrt{L}$ e dichiarando il corretto rapporto di periodo $1 : \sqrt{2}$
+Utilizzare $T \sim \sqrt{L}$ e indicare il rapporto corretto dei periodi $1 : \sqrt{2}$
 1.0
-Ruling out the closed trajectories in A and D
+Escludere le traiettorie chiuse in A e D
 1.0
-Counting oscillations to distinguish B and C
+Contare le oscillazioni per distinguere B e C
 1.0
-Stating the correct solution
+Affermare la soluzione corretta
 1.0
 5.0
-
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
 
 
 
@@ -834,70 +776,52 @@ Correct answer
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 6 è quello dell'acqua congelata (problema di scelta multipla)
-(5,0 p. d.)
-(Problema group of the PhysicsOlympiad - Stefan Petersen)
-Con una pompa di calore di potenza elettrica 50 W, 2,0 kg di acqua a temperatura
-di $0\ ^\circ\text{C}$ è da congelare in un recipiente termicamente perfettamente isolato. La temperatura esterna è
-$25\ ^\circ\text{C}$. L'enthalpy of fusion of water è $334 \text{ kJ/kg}$.
-Qual è il minimo di tempo necessario per il congelamento?
-A
-circa 6 minuti
-B
-circa 11 minuti
-C
-circa 15 minuti
-D
-circa 20 minuti
+Problema 6 Acqua congelante (problema a scelta multipla)
+(5.0 punti)
+(Gruppo di problemi della Olimpiade di Fisica - Stefan Petersen)
+
+Con una pompa di calore con potenza elettrica 50 W, si devono congelare 2,0 kg di acqua alla temperatura di $0\ ^\circ\text{C}$ in un recipiente termicamente perfettamente isolato. La temperatura esterna è $25\ ^\circ\text{C}$. L'entalpia di fusione dell'acqua è $334 \text{ kJ/kg}$.
+
+Qual è il tempo minimo necessario per la congelazione in ogni caso?
+A circa 6 min
+B circa 11 min
+C circa 15 min
+D circa 20 min
+
 Soluzione
 Calcoli e spiegazioni
-Nel gelo dell'acqua, il caldo
-$$Q = 334 \text{ kJ/kg} \cdot 2{,}0 \text{ kg} = 6{,}7 \cdot 10^5 \text{ J}$$
-(6.1)
-è rilasciato. Questo calore deve essere rimosso dalla pompa di calore. La pompa di calore
-operato tra due serbatoi a temperature $T_k = 0\ ^\circ\text{C} = 273$ K e $T_w = 25\ ^\circ\text{C} = 298$ K. L'efficienza $\varepsilon$ di un frigorifero che opera tra questi due serbatoi è
-Termodinamica limitata. Denote by $W$ the work done by the heat pump, which at
-La potenza costante è pari al prodotto della potenza elettrica $P$ e al tempo $t$ per il quale la potenza elettrica $P$ è
-- La pompa corre. Quindi per l'efficienza che contiene
-$$\varepsilon = \frac{Q}{W} = \frac{Q}{Q_\text{ab} - Q} ,$$
-(6.2)
-dove $Q_\text{ab}$ denota il calore rilasciato agli ambienti circostanti a temperatura $T_w$. Se il
-il frigorifero opera in modo reversibile, cioè teoricamente ottimale, l'entropia è conservata e tiene
-per il calore assorbito e rilasciato che
-$$\frac{Q}{T_k} = \frac{Q_\text{ab}}{T_w} .$$
-(6.3)
-Substituito in (6.2), this gives the maximum possible efficiency$^a$ as
-$$\varepsilon_\text{max} = \frac{Q}{Q \left(\frac{T_w}{T_k} - 1\right)} = \frac{T_k}{T_w - T_k} .$$
-(6.4)
-From this the minimum time $t_\text{min}$ for the freezing can be estimated as
-$$t_\text{min} = \frac{Q}{P} \frac{1}{\varepsilon_\text{max}} = \frac{Q}{P} \frac{T_w - T_k}{T_k} \approx \frac{6{,}7 \cdot 10^5 \text{ J}}{50 \text{ W}} \frac{25}{273} \approx 1{,}2 \cdot 10^3 \text{ s} \approx 20 \text{ min} .$$
-(6.5)
-Risposta corretta: D
-$^a$This can also be expressed through the Carnot efficiency $\eta_C = 1 - T_k/T_w$ at the two temperatures as
-$\varepsilon_\text{max} = 1/\eta_C - 1$.
-Grading - Freezing water (problema di scelta multipla)
-Punti
-Determinare il calore (6.1)
-1.0
-Riconoscendo che l'efficienza è limitata
-0.5
-Usando la conservazione dell'entropia o l'efficienza di Carnot
-0.5
-Stating the maximum efficiency (6.4)
-1.0
-Usando quel lavoro è il prodotto del potere e del tempo
-0.5
-Deriving a formula for the time (6.5)
-0.5
-Corretta risposta
-1.0
-5.0
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Heat Engine (object)|Heat Engine]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
+Nella congelazione dell'acqua, il calore
+$$Q = 334 \text{ kJ/kg} \cdot 2{,}0 \text{ kg} = 6{,}7 \cdot 10^5 \text{ J}$$ (6.1)
+viene rilasciato. Tale calore deve essere rimosso dalla pompa di calore. La pompa di calore funziona tra due serbatoi alle temperature $T_k = 0\ ^\circ\text{C} = 273$ K e $T_w = 25\ ^\circ\text{C} = 298$ K. L'efficienza $\varepsilon$ di un frigorifero che opera tra questi due serbatoi è termodinamicamente limitata. Indichiamo con $W$ il lavoro compiuto dalla pompa di calore, che a potenza costante è uguale al prodotto della potenza elettrica $P$ e del tempo $t$ durante il quale la pompa funziona. Allora per l'efficienza vale che
+$$\varepsilon = \frac{Q}{W} = \frac{Q}{Q_\text{ab} - Q} ,$$ (6.2)
+dove $Q_\text{ab}$ indica il calore ceduto all'ambiente alla temperatura $T_w$. Se il frigorifero funziona in modo reversibile, cioè teoricamente ottimale, l'entropia si conserva e vale per il calore assorbito e ceduto che
+$$\frac{Q}{T_k} = \frac{Q_\text{ab}}{T_w} .$$ (6.3)
+Sostituendo in (6.2), si ottiene l'efficienza massima possibile $^a$ come
+$$\varepsilon_\text{max} = \frac{Q}{Q \left(\frac{T_w}{T_k} - 1\right)} = \frac{T_k}{T_w - T_k} .$$ (6.4)
+Da questa si può stimare il tempo minimo $t_\text{min}$ per la congelazione come
+$$t_\text{min} = \frac{Q}{P} \frac{1}{\varepsilon_\text{max}} = \frac{Q}{P} \frac{T_w - T_k}{T_k} \approx \frac{6{,}7 \cdot 10^5 \text{ J}}{50 \text{ W}} \frac{25}{273} \approx 1{,}2 \cdot 10^3 \text{ s} \approx 20 \text{ min} .$$ (6.5)
+
+Risposta corretta: D
+$^a$Questo può anche essere espresso attraverso l'efficienza di Carnot $\eta_C = 1 - T_k/T_w$ alle due temperature come
+$\varepsilon_\text{max} = 1/\eta_C - 1$.
+Valutazione - Acqua congelante (problema a scelta multipla)
+Punti
+Determinazione del calore (6.1)
+1,0
+Riconoscere che l'efficienza è limitata
+0,5
+Utilizzo della conservazione dell’entropia o dell'efficienza di Carnot
+0,5
+Affermare l’efficienza massima (6.4)
+1,0
+Utilizzo del fatto che il lavoro è prodotto della potenza per il tempo
+0,5
+Derivazione di una formula per il tempo (6.5)
+0,5
+Risposta corretta
+1,0
+5,0
 
 
 
@@ -970,65 +894,54 @@ so that it is easy to follow but not unnecessarily long. So if you use, for exam
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 7 del decadimento dei caoni (problema di scelta multipla)
-(cfr.
-(Problema group of the PhysicsOlympiad - Thomas Hellerl)
-Un kaon che si muove con velocità $0{,}80\,c$, cioè l'80% della velocità della luce, nel laboratorio decade in due pioni, che successivamente si muovono lungo e contro, rispettivamente, la direzione originale del movimento del kaon. Non si producono ulteriori particelle nel decadimento. Per il
-rest energies $E_{0,K}$ and $E_{0,\pi}$ of the kaon and the pion, respectively, the relation
-$$\kappa = \frac{E_{0,K}}{E_{0,\pi}} = 3{,}68 .$$
-- Tieni.
-A che velocità si muovono i due pioni dopo il declino nel laboratorio?
+Problema 7 Decadimento del kaone (problema a scelta multipla)
+(5 punti)
+(Gruppo di problemi della Olimpiade di Fisica – Thomas Hellerl)
+
+Un kaone in moto con velocità $0{,}80\,c$, pari al 80 % della velocità della luce, nel sistema di laboratorio decade in due pioni, che successivamente si muovono rispettivamente lungo e contro la direzione iniziale del moto del kaone. Nel decadimento non si producono ulteriori particelle. Per le energie a riposo $E_{0,K}$ e $E_{0,\pi}$ del kaone e del pione, rispettivamente, vale la relazione
+$$\kappa = \frac{E_{0,K}}{E_{0,\pi}} = 3{,}68 .$$.
+
+A quali velocità si muovono i due pioni dopo il decadimento nel sistema di laboratorio?
 A $-0{,}039\,c$ e $0{,}99\,c$
 B $-0{,}12\,c$ e $0{,}98\,c$
 C $-0{,}19\,c$ e $0{,}92\,c$
 D $-0{,}21\,c$ e $0{,}89\,c$
+
 Soluzione
-Calcoli e spiegazioni
-Nel resto del kaon, la velocità è zero. Dopo il decadimento i pioni devono quindi, a causa di
-Conservation of momentum, have opposite but equal magnitude moments. Per questo
-Le loro energie sono identiche, quindi in questo frame l'energia restante iniziale del kaon è $E_{0,K}$
-è diviso simmetricamente tra i due pioni. Il rapporto di cui sopra
-$$E_{0,K} = 2 E_\pi = 2 \gamma E_{0,\pi} = \frac{2}{\sqrt{1 - \frac{u^2}{c^2}}} E_{0,\pi} ,$$
-(7.1)
-dove $\gamma = \left(1 - \frac{u^2}{c^2}\right)^{-1/2}$ denota il fattore di Lorentz e $u$ la velocità dei pioni in quel frame.
-Con il valore dato di $E_{0,K}/E_{0,\pi} = \kappa$, la velocità $u$ può essere determinata da questo.
-It is
-$$\kappa = \frac{2}{\sqrt{1 - \frac{u^2}{c^2}}} \qquad \text{and thus} \qquad u = \sqrt{1 - \frac{4}{\kappa^2}}\, c \approx 0{,}839\,c ,$$
-(7.2)
-Le velocità $v_{1,2}$ dei due pioni nel laboratorio sono ottenute da relativistici
-- Insomma, velocità di somma. Let $w = 0{,}80\,c$ be the velocity of the kaon in the laboratory frame. Allora
-$$v_{1,2} = \frac{w \pm u}{1 \pm \frac{w u}{c^2}} .$$
-(7.3)
-Il pion in movimento in avanti ha quindi la velocità:
-$$v_1 = \frac{0{,}80 + 0{,}839}{1 + 0{,}80 \cdot 0{,}839}\, c \approx 0{,}98\,c .$$
-(7.4)
-Il pion che si muove nella direzione opposta ha la velocità
-$$v_2 = \frac{0{,}80 - 0{,}839}{1 - 0{,}80 \cdot 0{,}839}\, c \approx -0{,}12\,c .$$
-(7.5)
+Calcoli ed spiegazioni
+
+Nel sistema di riposo del kaone il momento è nullo. Dopo il decadimento i pioni devono quindi, per conservazione del momento, avere momenti uguali in modulo ma opposti in direzione. Pertanto le loro energie sono anch'esse uguali, e in questo sistema il valore iniziale dell'energia a riposo del kaone $E_{0,K}$ si divide simmetricamente tra i due pioni. Vale pertanto
+$$E_{0,K} = 2 E_\pi = 2 \gamma E_{0,\pi} = \frac{2}{\sqrt{1 - \frac{u^2}{c^2}}} E_{0,\pi} ,$$ (7.1)
+dove $\gamma = \left(1 - \frac{u^2}{c^2}\right)^{-1/2}$ indica il fattore di Lorentz e $u$ la velocità dei pioni in questo sistema.
+
+Con il valore dato di $E_{0,K}/E_{0,\pi} = \kappa$, la velocità $u$ può essere determinata da questa equazione.
+
+Si ha
+$$\kappa = \frac{2}{\sqrt{1 - \frac{u^2}{c^2}}} \qquad \text{and thus} \qquad u = \sqrt{1 - \frac{4}{\kappa^2}}\, c \approx 0{,}839\,c ,$$ (7.2)
+
+Le velocità $v_{1,2}$ dei due pioni nel sistema di laboratorio si ottengono tramite l'addizione relativistica delle velocità. Sia $w = 0{,}80\,c$ la velocità del kaone nel sistema di laboratorio. Allora
+$$v_{1,2} = \frac{w \pm u}{1 \pm \frac{w u}{c^2}} .$$ (7.3)
+
+Il pione in avanti ha pertanto la velocità:
+$$v_1 = \frac{0{,}80 + 0{,}839}{1 + 0{,}80 \cdot 0{,}839}\, c \approx 0{,}98\,c .$$ (7.4)
+Il pioone in moto nella direzione opposta ha la velocità
+$$v_2 = \frac{0{,}80 - 0{,}839}{1 - 0{,}80 \cdot 0{,}839}\, c \approx -0{,}12\,c .$$ (7.5)
 Risposta corretta: B
-La classificazione - decadimento del caon (problema di scelta multipla)
+Valutazione - Decadimento del kaone (problema a scelta multipla)
 Punti
-Working in a suitable inertial frame (es. il resto del kaon)
+Lavorare in un sistema di riferimento inerziale opportuno (ad esempio il sistema a riposo del kaone)
 1.0
-Usando la conservazione del momento e dell'energia (7.1)
+Applicare la conservazione della quantità di moto e dell'energia (7.1)
 1.0
-Determinare le velocità di pion in quel frame (7.2)
+Determinare le velocità del pioone in tale sistema (7.2)
 1.0
-Usando relativistic velocity addition (7.3)
+Applicare l'addizione relativistica delle velocità (7.3)
 1.0
-Stating the correct solution
+Affermare la soluzione corretta
 1.0
 5.0
-Long problemi
-La Commissione ha inoltre presentato una serie di proposte di risoluzione. A differenza dei
-problemi di scelta multipla, non sono state indicate le opzioni di risposta. Descrivere la soluzione
-Quindi è facile da seguire, ma non è troppo lungo. Quindi se usi, per esempio, la legge della conservazione dell'energia, scrivi questo brevemente.
-
-**Topic:** [[Special Relativity]], [[Nuclear & Particle Physics]]
-**Metodi:** [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
+Problemi lunghi
+Svolgete i due problemi seguenti nello stesso modo, utilizzando gli spazi appositi. A differenza dei problemi a scelta multipla, non sono fornite opzioni di risposta. Descrivete la vostra soluzione in modo chiaro ma senza eccessi di lunghezza. Se, ad esempio, utilizzate la conservazione dell'energia, scrivete brevemente tale principio.
 
 
 
@@ -1178,142 +1091,133 @@ Carrying out a units check (8.13)
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 8 Pennale lead
-(P. 17,0 p.
-(Problem group of the PhysicsOlympiad - Joachim Brucherseifer & Pascal Reeck)
-Un matita lead scorre senza attrito in un campo magnetico verticale omogeneo di densità di flusso magnetico
-$B$ down two parallel, ideally conducting metal rails inclined at an angle $\alpha = 30^\circ$ to the horizontal. Il spaziamento dei binari è $L = 10$ cm e l'overhang
-di Lead Beyond the Metal Rails può essere trascurato. Per il meglio
-voltage source of voltage $U_0 = 10$ mV with a switch is connected to the rails. Lead, rails,
-Scommutazione e fonte di tensione insieme formano un circuito elettrico. La struttura è schizzata in figura 6.
-Fig. 6. Sketch of the sliding pencil lead
-Quando il switch è chiuso, il lead della matita resta a riposo. Quando il switch è aperto, il
-Lead slides on. Use for the resistivity of the lead the value $\rho_\text{el} = 5{,}0 \cdot 10^{-6} \ \Omega\text{m}$ and for the density $\rho = 2{,}3 \cdot 10^3 \text{ kg/m}^3$.
-8. (a) Indicare se la linea frontale o la linea posteriore nella figura è collegata al terminale positivo della fonte di tensione DC, e giustificare questo fisicamente. (punto 2.0)
-8.b) Determina la magnitude $B$ della densità del flusso magnetico e verifica la correttezza del flusso magnetico.
-unità del tuo risultato con un controllo delle unità. (8,0 pts.)
-8.c) Determine la velocità $v_H$ che diventa established, with which the pencil lead slides
-Down the slope, quando la densità di flusso del campo magnetico è dimezzata. Carry out a units check for
-il risultato. (7,0 p.s.)
+Problema 8 Grafite della matita (17,0 punti)
+(Gruppo di problemi della Olimpiade di Fisica - Joachim Brucherseifer & Pascal Reeck)
+
+Un grafite della matita scivola senza attrito in un campo magnetico verticale omogeneo di densità del flusso magnetico $B$ lungo due binari metallici paralleli, ideali e conduttivi, inclinati di un angolo $\alpha = 30^\circ$ rispetto all'orizzontale. La distanza tra i binari è $L = 10$ cm e il tratto di grafite che sporge oltre i binari può essere trascurato. Un generatore ideale di tensione continua con tensione $U_0 = 10$ mV, dotato di un interruttore, è collegato ai binari. Grafite, binari, interruttore e generatore formano un circuito elettrico. L'impianto è rappresentato nella Figura 6.
+
+Fig. 6. Rappresentazione schematica del grafite della matita che scivola
+
+Quando l'interruttore viene chiuso, il grafite resta fermo. Quando l'interruttore viene aperto, il grafite scivola lungo i binari. Utilizzare per la resistività del grafite il valore $\rho_\text{el} = 5{,}0 \cdot 10^{-6} \ \Omega\text{m}$ e per la densità $\rho = 2{,}3 \cdot 10^3 \text{ kg/m}^3$.
+
+8.a) Indicare se il binario anteriore o quello posteriore nella figura è collegato al terminale positivo della sorgente di tensione continua, e giustificare fisicamente questa scelta. (2,0 punti)
+
+8.b) Determinare il modulo $B$ della densità del flusso magnetico e verificare la correttezza delle unità di misura del risultato mediante un controllo dimensionale. (8,0 punti)
+
+8.c) Determinare la velocità $v_H$ che si stabilisce, con cui il grafite scivola lungo la pendenza, quando la densità del flusso magnetico viene dimezzata. Effettuare un controllo dimensionale del risultato. (7,0 punti)
+
 Soluzione
 8.a)
 Calcoli e spiegazioni
-Quando il lead viene a riposo con il switch chiuso, solo la fonte di tensione esterna agisce; la sua corrente produce una forza di Lorentz che è uguale in magnitudo e opposta alla componente di slope del peso. Secondo la regola di destra, questo è possibile solo se il
-Il terminal positivo è collegato al primo binario.
-Fig. 7. Sketch che spiega la direzione corrente e la polarità della fonte di tensione.
+Quando il grafite si ferma con l'interruttore chiuso, agisce unicamente la sorgente di tensione esterna; la corrente da essa generata produce una forza di Lorentz che ha modulo uguale e verso opposto alla componente discendente del peso lungo il piano inclinato. Secondo la regola della mano destra, ciò è possibile soltanto se il terminale positivo è collegato al binario anteriore.
+
+Fig. 7. Schizzo esplicativo della direzione della corrente e della polarità della sorgente di tensione.
+
 8.b)
-Calcoli e spiegazioni
-On the lead at rest on the rails act the vertical weight $\vec{F}_G$ and the
-La forza di Lorentz orizzontale $\vec{F}_L$. La somma di queste forze deve essere perpendicolare ai binari,
-Così il lead non scivola lungo le binarie.
-La figura che si trova al fianco illustra il
-- Addition of the forces. - Addition of the forces. Per le magnitudini delle forze, si ritiene che:
-$$\frac{F_L}{F_G} = \tan 30^\circ = \frac{1}{\sqrt{3}} .$$
-(8.1)
+Calcoli ed spiegazioni
+
+Sul grafite fermo sui binari agiscono il peso verticale $\vec{F}_G$ e la forza di Lorentz orizzontale $\vec{F}_L$. La somma di queste forze deve essere perpendicolare ai binari, affinché il grafite non scivoli lungo di essi.
+
+La figura a fianco illustra la somma delle forze. Per i moduli delle forze vale pertanto:
+
+$$\frac{F_L}{F_G} = \tan 30^\circ = \frac{1}{\sqrt{3}} .$$ (8.1)
+
 La forza di Lorentz è data da
-$$\vec{F}_L = L \cdot \vec{I} \times \vec{B} .$$
-(8.2)
-Poiché la densità di corrente e di flusso sono perpendicolari a ciascuna
-In altre parole, la forma scalare è
-$$F_L = L I B .$$
-(8.3)
-Fig. 8. Sketch della decomposizione della forza.
-Con il lead a riposo, la corrente è determinata esclusivamente dalla fonte di voltage e dalla resistenza del lead. Il corrente $I$ segue dalla legge di Ohm e la resistenza
-$R$ from the resistance law as
-$$I = \frac{U_0}{R} = \frac{U_0}{\rho_\text{el} \frac{L}{A}} ,$$
-(8.4)
-dove $A$ indica l'area cross-sectional del piombo della matita. Substituzione in equazione (8.3)
-per il Lorentz force dà
-$$F_L = \frac{L U_0}{R} B = \frac{U_0 A}{\rho_\text{el}} B .$$
-(8.5)
-Per il peso, la geometria cilindrica del lead dà
-$$F_G = \rho L A g .$$
-(8.6)
-Substituendo (8.5) e (8.6) into the force ratio (8.1)
-$$\frac{\frac{U_0 A}{\rho_\text{el}} B}{\rho L A g} = \frac{1}{\sqrt{3}}$$
-e così
-$$B = \frac{\rho L g \rho_\text{el}}{\sqrt{3}\, U_0} .$$
-(8.7)
-Il flusso di densità ricercato è quindi indipendente dal cross-section del conduttore e ha il valore
-$$B = \frac{2{,}3 \cdot 10^3 \text{ kg/m}^3 \cdot 0{,}10 \text{ m} \cdot 9{,}81 \text{ m/s}^2 \cdot 5{,}0 \cdot 10^{-6}\ \Omega\text{m}}{\sqrt{3} \cdot 0{,}01 \text{ V}} \approx 0{,}65 \text{ T} .$$
-(8.8)
-I seguenti controlli mostrano che le unità sono corrette:
-$$[B] = \frac{\text{kg/m}^3 \cdot \text{m} \cdot \text{m/s}^2 \cdot \text{V/A}\ \text{m}}{\text{V}} .$$
-(8.9)
+
+$$\vec{F}_L = L \cdot \vec{I} \times \vec{B} .$$ (8.2)
+
+Poiché corrente e densità di flusso sono perpendicolari tra loro, vale anche la forma scalare
+
+$$F_L = L I B .$$ (8.3)
+
+Fig. 8. Schizzo della scomposizione delle forze.
+
+Con il grafite fermo, la corrente è determinata esclusivamente dalla sorgente di tensione e dalla resistenza del grafite. La corrente $I$ segue dalla legge di Ohm e dalla resistenza
+
+$R$ dalla legge della resistenza come
+
+$$I = \frac{U_0}{R} = \frac{U_0}{\rho_\text{el} \frac{L}{A}} ,$$ (8.4)
+
+dove $A$ indica l'area della sezione trasversale del grafite. Sostituendo nella formula (8.3) per la forza di Lorentz si ottiene
+
+$$F_L = \frac{L U_0}{R} B = \frac{U_0 A}{\rho_\text{el}} B .$$ (8.5)
+
+Per il peso, la geometria cilindrica del grafite fornisce
+
+$$F_G = \rho L A g .$$ (8.6)
+
+Sostituendo (8.5) e (8.6) nel rapporto delle forze (8.1) si ha
+
+$$\frac{\frac{U_0 A}{\rho_\text{el}} B}{\rho L A g} = \frac{1}{\sqrt{3}}$$ e quindi
+
+$$B = \frac{\rho L g \rho_\text{el}}{\sqrt{3}\, U_0} .$$ (8.7)
+La densità di flusso cercata è quindi indipendente dalla sezione del conduttore e ha il valore
+$$B = \frac{2{,}3 \cdot 10^3 \text{ kg/m}^3 \cdot 0{,}10 \text{ m} \cdot 9{,}81 \text{ m/s}^2 \cdot 5{,}0 \cdot 10^{-6}\ \Omega\text{m}}{\sqrt{3} \cdot 0{,}01 \text{ V}} \approx 0{,}65 \text{ T} .$$ (8.8)
+Il seguente controllo mostra che anche le unità di misura sono corrette:
+$$[B] = \frac{\text{kg/m}^3 \cdot \text{m} \cdot \text{m/s}^2 \cdot \text{V/A}\ \text{m}}{\text{V}} .$$ (8.9)
+
 8.c)
 Calcoli e spiegazioni
-A metà della densità del flusso la forza di Lorentz non è più sufficiente a compensare il componente di declino del peso.
-Ora un conduttore si muove attraverso il campo magnetico, in cui un
-voltage è indotto in esso che, secondo la regola di Lenz, opponente alla causa dell'induzione, cioè il
-- Il movimento. In questo modo, un corrente deve essere indotta che rafforzi il corrente prodotta dal
-fonte di tensione. Il lead raggiunge una velocità limitante a cui le forze sono ancora una volta in equilibrio.
-La figura seguente descrive il movimento degli elettroni nel sliding verso il basso
-lead, seen from above
-Fig. 9. Sketch dell'induzione nella guida, illustrando la direzione dalla regola di sinistra.
-Il carico separato causò così rendimenti di voltage indotto $U_i$ sui binari,
-che è collegato in serie con la tensione esterna $U_0$. La tensione totale attraverso il
-Lead è così
-$$U = U_0 + L \cos(\alpha) v_H \frac{B}{2} .$$
-(8.10)
-Il risultante corrente indotta rafforza il corrente di campo esistente. Per il
-Lorentz forza, in questa situazione, ora si tiene con (8.5)
-$$F'_L = \frac{U A}{\rho_\text{el}} \frac{B}{2} = \left(U_0 + L \cos(\alpha) v_H \frac{B}{2}\right) \frac{A B}{2 \rho_\text{el}} .$$
-(8.11)
-Il contributo del primo termine corrisponde, per $B/2$ invece di $B$, esattamente a metà del
-La forza necessaria per mantenere il lead secondo (8.5). Nel caso in cui il lead non sperimenti più alcuna accelerazione lungo i binari, il contributo del secondo termine
-Il sistema di controllo deve quindi fornire l'altra metà della forza necessaria per l'equilibrio di forza e
-Quindi, essere esattamente grande.
-Da $U_0 = L \cos(\alpha) v_H \frac{B}{2}$ segue per la velocità di slope del lead che diventa stabilito
-$$v_H = \frac{2 U_0}{L \cos(\alpha) B} = \frac{2 \cdot 0{,}01 \text{ V}}{0{,}10 \text{ m} \cos(30^\circ)\, 0{,}65 \text{ T}} \approx 0{,}36 \text{ m/s} .$$
-(8.12)
-I seguenti controlli mostrano che le unità sono corrette:
-$$[v_H] = \frac{\text{V}}{\text{m kg A}^{-1} \text{s}^{-2}} = \frac{\text{V A s}^2}{\text{kg m}} = \frac{\text{kg m}^2\, \text{s}^{-1}}{\text{kg m}} = \text{m s}^{-1} .$$
-(8.13)
-Here it was used that $1 \text{ V A s} = 1 \text{ J} = 1 \text{ kg m}^2\, \text{s}^{-2}$.
-Classificazione - Pennale di piombo
+A metà della densità di flusso, la forza di Lorentz non è più sufficiente a bilanciare il componente discesa del peso.
+Ora un conduttore si muove attraverso il campo magnetico, inducendo una tensione in esso che, secondo la regola di Lenz, si oppone alla causa dell'induzione, ossia il moto. Di conseguenza, deve essere indotta una corrente che rafforza la corrente prodotta dalla sorgente di tensione. Il conduttore raggiunge una velocità limite in cui le forze sono nuovamente in equilibrio.
+
+La seguente figura illustra il moto degli elettroni nel conduttore in discesa, visto dall'alto
+Fig. 9. Schizzo dell’induzione nel conduttore, che illustra la direzione mediante la regola della mano sinistra.
+
+La separazione delle cariche così causata produce una tensione indotta $U_i$ sui binari, collegata in serie alla tensione esterna $U_0$. La tensione totale ai capi del conduttore è quindi
+$$U = U_0 + L \cos(\alpha) v_H \frac{B}{2} .$$ (8.10)
+La corrente indotta risultante rafforza la corrente di campo esistente. Per la forza di Lorentz, in questa situazione vale ora con (8.5)
+$$F'_L = \frac{U A}{\rho_\text{el}} \frac{B}{2} = \left(U_0 + L \cos(\alpha) v_H \frac{B}{2}\right) \frac{A B}{2 \rho_\text{el}} .$$ (8.11)
+Il contributo del primo termine corrisponde, a causa di $B/2$ invece di $B$, esattamente alla metà della forza necessaria per mantenere il piombo secondo (8.5). Nel caso in cui il piombo non subisca più alcuna accelerazione lungo i binari, il contributo del secondo termine deve quindi fornire l'altra metà della forza necessaria per l'equilibrio delle forze e pertanto essere esattamente altrettanto grande.
+
+Dall'equazione $U_0 = L \cos(\alpha) v_H \frac{B}{2}$ si deduce per la velocità di scorrimento del piombo che si stabilisce:
+$$v_H = \frac{2 U_0}{L \cos(\alpha) B} = \frac{2 \cdot 0{,}01 \text{ V}}{0{,}10 \text{ m} \cos(30^\circ)\, 0{,}65 \text{ T}} \approx 0{,}36 \text{ m/s} .$$ (8.12)
+
+Il controllo seguente mostra che anche le unità di misura sono corrette:
+$$[v_H] = \frac{\text{V}}{\text{m kg A}^{-1} \text{s}^{-2}} = \frac{\text{V A s}^2}{\text{kg m}} = \frac{\text{kg m}^2\, \text{s}^{-1}}{\text{kg m}} = \text{m s}^{-1} .$$ (8.13)
+
+È stato utilizzato il fatto che $1 \text{ V A s} = 1 \text{ J} = 1 \text{ kg m}^2\, \text{s}^{-2}$.
+
+Valutazione - Matita a grafite
 Punti
 8.a)
-Stating the correct polarity
-1.0
-Justificando la polarità con la direzione della forza di Lorentz
-1.0
+Affermare la polarità corretta
+1,0
+Giustificare la polarità con il verso della forza di Lorentz
+1,0
+
 8.b)
-Stating the relevant forces with direction (also implicitly)
-1.0
-Recognising the force equilibrium and stating the force ratio (8.1)
-1.0
-Esprimendo la forza di Lorentz attraverso dati quantitativi e $B$ (8.5)
-2.0
-Esprimendo il peso attraverso quantitativi dati (8.6)
-1.0
-Deriving an expression for the flux density $B$ (8.7)
-1.0
+Indicare le forze rilevanti con il relativo verso (anche in modo implicito)
+1,0
+Riconoscere l'equilibrio delle forze e affermare il rapporto tra le forze (8.1)
+1,0
+Esprimere la forza di Lorentz in termini delle grandezze date e $B$ (8.5)
+2,0
+Esprimere il peso in termini delle grandezze date (8.6)
+1,0
+Derivare un'espressione per la densità del flusso $B$ (8.7)
+1,0
 Calcolare il valore della densità del flusso (8.8)
-1.0
-Carrying out a units check (8.9)
-1.0
+1,0
+Effettuare il controllo delle unità di misura (8.9)
+1,0
+
 8.c)
-Riconoscendo che una tensione è indotta che opponga la causa
+Riconoscere che si induce una tensione che oppone la causa
+1,0
+Riconoscere che si stabilisce una velocità terminale
+1,0
+Affermare un'espressione per la tensione indotta come in (8.10)
+1,0
+Riconoscere che la tensione indotta deve essere uguale a $U_0$
+1,0
+Derivare un'espressione per la velocità $v_H$ (8.12)
+1,0
+Calcolo del valore della velocità in (8.12)
 1.0
-Riconoscendo che una velocità terminale diventa established
-1.0
-Stating an expression for the induced voltage as in (8.10)
-1.0
-Recognising that the induced voltage must equal $U_0$
-1.0
-Deriving an expression for the velocity $v_H$ (8.12)
-1.0
-Calcolare il valore della velocità in (8.12)
-1.0
-Carrying out a units check (8.13)
+Eseguendo il controllo delle unità di misura in (8.13)
 1.0
 17.0
-
-**Topic:** [[Electromagnetic Induction]], [[Magnetism]], [[Newtonian Mechanics]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]], [[Battery (object)|Battery]], [[Switch (object)|Switch]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
 
 
 

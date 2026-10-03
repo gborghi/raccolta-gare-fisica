@@ -15,6 +15,10 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2019 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Ottica,object/pipe-tube,object/tank-container"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 **Finale**
 
 Olimpiadi della Fisica 2019
@@ -103,3 +107,77 @@ cilindrica.
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
 **Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1A7DlSpoDJlm499RCJ7FpZDmYIG8McGNT/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Final**
+
+Physics Olympiad 2019
+
+Final
+
+Aarau, March 16, 2019
+
+Experimental Exercise
+Determine the density of the oil
+
+Duration: 150 minutes (2½ hours)
+
+Maximum points: 48
+
+Allowed aids
+
+Non-programmable calculator
+
+Writing and drawing materials
+
+This experiment is based on an idea proposed during the APhO 2000. Part (c) was developed by the Physics Olympiad.
+
+Physics Olympiad 2019
+Experiment
+CH-2019 i
+
+Page 2 of 2
+
+Materials
+Test tube
+Container (capacity 1 liter, height 180 mm)
+Ruler (Aluminum)
+2 disposable pipettes
+Absorbent paper
+Water (density $1.00\cdot10^3\ \text{kg/m}^3$), in bottle
+Oil (in bottle), refractive index $n = 1.462$
+Graph paper (millimeter grid)
+Dice/bolts
+Multimeter with cable
+Beaker
+
+Exercise
+In this experiment, you must determine the density of the oil provided to you, without considering the dimensions of the test tubes. To achieve this goal, solve the following tasks:
+
+(a) (12 Pt.) Observe how changing the amount of water in the test tube affects its depth of immersion. Plot this relationship graphically. For this part, use only water.
+
+(b) (12 Pt.) Derive mathematically the relationship between the measured quantities in part (a). (A formal derivation procedure is required)
+
+In task (a), you will have noticed that the measurement range is limited by a stability issue.
+
+(c) (12 Pt) What measures can be adopted to extend the measurement range for the analysis described in (a)? Determine, using only water, the maximum achievable measurement range with these measures. Illustrate the results graphically.
+
+- **D.** (12 Pt.) Using the results obtained in tasks (a), **B**, and (c), determine the density of the oil under investigation by means of measurements, providing an error estimate for the obtained value.
+
+The solution must include:
+- Clear presentation of the theory used to evaluate measurement data (task (b), derivation with comments)
+- Description of the measurement method, highlighting key points
+- The obtained value for the oil’s density
+- An error estimate for the determined oil density (task (d))
+- Necessary graphical representations
+
+Tips:
+First, read and study the entire exercise carefully. Plan your experiment!
+Water and oil must never be placed simultaneously in the test tube, nor mixed.
+Before pouring the oil into the test tube, ensure it is completely dry.
+The internal and external diameter of the test tube may be considered constant in its cylindrical section.
+All nuts/bolts have identical mass.
+Work carefully and cleanly. Oil is harmless (e.g., skin contact is safe).
+Do not drop any object into the test tube; it could be damaged.

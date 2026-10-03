@@ -151,39 +151,16 @@ aceleração da queda, em $\text{m/s}^2$?
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 3. Un parco di divertimenti nel sud del Brasile descrive così uno dei suoi principali
-Attrazioni: Con 100 metri, la Big Tower è una delle più grandi torri radicali del mondo! La sua
-L'altezza è equivalente a un edificio di 30 piani.
-In caduta l'ascensore raggiunge una velocità di 120 km/h. Per i coraggiosi amanti dell'adrenalina è una sfida e tanto.
-riferimento:
-Il regolamento (CE) n. 1370/2009 è stato adottato dal Consiglio nel corso del suo mandato.
-Considerando che il movimento dell'ascensore è uniformemente accelerato durante le prime
-20 piani di caduta e che raggiunga la velocità massima in questo intervallo, che è il valore di
-l'accelerazione della caduta, in $\text{m/s}^2$?
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1UE843YfmdLKeMiKJfATKfXwMRGbgFQHS/view)
+Quesito 3. Un parco divertimenti nel sud del Brasile descrive così una delle sue principali attrazioni: «Con 100 metri, la Big Tower è una delle più grandi torri verticali del mondo! La sua altezza corrisponde a un edificio di 30 piani.
+Durante la caduta l'ascensore raggiunge una velocità di 120 km/h. Per gli amanti coraggiosi dell'adrenalina è una sfida davvero grande.» riferimento:
+https://www.betocarrero.com.br/atracoes/big-tower, consultato il 18/06/2024, adattato.
+Considerando che il moto dell'ascensore è uniformemente accelerato nei primi 20 piani di caduta e che raggiunge la velocità massima in questo intervallo, qual è il valore dell'accelerazione della caduta, in $\text{m/s}^2$?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question three. An amusement park in southern Brazil describes one of its main attractions
-Attractions: At 100 meters, the Big Tower is one of the largest radical towers in the world! Your
-Height is equivalent to a 30-story building.
-In the fall, the elevator reaches a speed of 120 km/h. For the brave adrenaline lovers it is a challenge and so much.
-reference:
-The Commission has therefore decided to take the necessary measures to ensure that the measures are implemented in a manner consistent with the objectives of the Union's internal market.
-Whereas the movement of the lift is uniformly accelerated during the first
-20 floors down and it reaches the maximum speed in this interval, which is the value of the
-aceleração da queda, em $\text{m/s}^2$?
+Problem 3. A theme park in southern Brazil describes one of its main attractions as follows: “With 100 meters, Big Tower is one of the tallest free-fall towers in the world! Its height is equivalent to a 30-story building. During the fall, the elevator reaches a speed of 120 km/h. For brave adrenaline lovers, it's quite a challenge.” Reference: https://www.betocarrero.com.br/atracoes/big-tower, accessed on 18/06/2024, adapted.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1UE843YfmdLKeMiKJfATKfXwMRGbgFQHS/view)
+Considering that the elevator's motion is uniformly accelerated during the first 20 floors of descent and that it reaches its maximum speed within this interval, what is the value of the acceleration during the fall, in $\text{m/s}^2$?
 
 
 

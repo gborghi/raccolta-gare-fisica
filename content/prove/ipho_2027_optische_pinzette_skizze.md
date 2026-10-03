@@ -38,22 +38,16 @@ Consider a transparent and fixed polymer sphere with radius $r = 12{,}0\,\mu\tex
 
 <div class="qlang-split" data-lang="it"></div>
 
-I raggi laser possono essere utilizzati per esercitare forze su particelle microscopiche. Il funzionamento di un pinzetto ottico, che viene utilizzato per esempio nello studio dei sistemi biologici, è basato su questo fenomeno. Nel 2018, Arthur Ashkin è stato premiato con il Premio Nobel di Fisica, tra le altre cose per il suo lavoro su questa tecnica. Per le particelle molto più grandi della lunghezza d'onda della luce laser utilizzata, l'effetto forza può essere compreso attraverso la refrazione dei raggi luminosi.
+I fasci laser possono essere utilizzati per esercitare forze su particelle microscopiche. Il funzionamento di una pinza ottica, utilizzata ad esempio nello studio dei sistemi biologici, si basa su questo fenomeno. Nel 2018, Arthur Ashkin ha ricevuto il Premio Nobel per la Fisica, tra l’altro per i suoi lavori su questa tecnica. Per particelle molto più grandi della lunghezza d’onda della luce laser utilizzata, l’effetto di forza può essere compreso attraverso la rifrazione dei raggi luminosi.
 
-Considerare una sfera polimerica trasparente e fissa con radius $r = 12{,}0\,\mu\text{m}$ e indice refraettivo $n = 1{,}40$. Un fascio laser colpisce la sfera, come illustrato nella figura, a una distanza $d = 6{,}0\,\mu\text{m}$ dall'asse centrale tracciata. Supponiamo che non si rifletta luce.
+Si consideri una sfera di polimero trasparente e fissa, con raggio $r = 12{,}0\,\mu\text{m}$ e indice di rifrazione $n = 1{,}40$. Un fascio laser colpisce la sfera, come mostrato nella figura, a una distanza $d = 6{,}0\,\mu\text{m}$ dall’asse centrale disegnato. Si assuma che non vi sia luce riflessa.
 
-**3.a) ** Draw the path of the laser beam as it passes through the polymer sphere and determine the angle $\theta$ by which the laser beam is deflected from its original direction.
+**3.a)** Disegnare il percorso del fascio laser mentre attraversa la sfera di polimero e determinare l’angolo $\theta$ di deviazione del fascio laser rispetto alla sua direzione iniziale.
 
 <!--fig:start-->
 ![[_attachments/IPhO_2027_optische_pinzette_skizze/IPhO_2027_optische_pinzette_skizze_p1_f1.png]]
 *Polymer sphere radius r refractive index n laser offset d*
 <!--fig:end-->
-
-**Topic:** [[Geometric Optics]], [[Wave Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1R4hKqfr9aqqRfrriNnVFyoRuvMzm3f3q/view)
 
 
 
@@ -81,20 +75,14 @@ Consider a photon of the laser beam with momentum magnitude $p$ that is deflecte
 
 <div class="qlang-split" data-lang="it"></div>
 
-Consider a photon of the laser beam with momentum magnitude $p$ that is deflected by the polymer sphere. A causa della refrazione, il momento cambia la sua direzione, ma la magnitudine del momento rimane conservata ad una buona approssimazione.
+Consideriamo un fotone del fascio laser avente modulo della quantità di moto $p$ che viene deviato dalla sfera polimerica. A causa della rifrazione, la direzione della quantità di moto cambia, ma il modulo della quantità di moto resta conservato con ottima approssimazione.
 
-**3.b) ** Determine i risultati dei cambiamenti dei componenti di momentum lungo la direzione originale di propagazione e perpendicolare a essa.
+**3.b)** Determinare le variazioni risultanti dei componenti della quantità di moto lungo la direzione iniziale di propagazione e perpendicolarmente ad essa.
 
 <!--fig:start-->
 ![[_attachments/IPhO_2027_optische_pinzette_skizze/IPhO_2027_optische_pinzette_skizze_p1_f2.png]]
 *Polymer sphere radius r refractive index n laser offset d*
 <!--fig:end-->
-
-**Topic:** [[Geometric Optics]], [[Modern-Quantum Physics]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Photon (object)|Photon]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1R4hKqfr9aqqRfrriNnVFyoRuvMzm3f3q/view)
 
 
 

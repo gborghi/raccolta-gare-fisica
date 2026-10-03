@@ -315,16 +315,9 @@ vinte questões.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a number of proposals for the 'Settlement of the European Union's financial instruments.
+**twenty questions**
 
-01) This test is intended exclusively for students in grades 8 and 9 of primary school. It contains
-20 questions.
-
-**Topic:** [[Mathematics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** -
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1pUR0FqUMdvHsjonJhg31PKSGWEM2jzpZ/view)
+01) This exam is intended exclusively for students in the 8th and 9th years of elementary school. It contains twenty questions.
 
 
 
@@ -666,35 +659,15 @@ a) 5 b) 10 c) 2,5 d) 20 e) 50
 
 <div class="qlang-split" data-lang="it"></div>
 
-8. Un professore di fisica, fanatico del calcio, ha proposto ai suoi studenti il seguente problema:
-Per un fallimento, durante una partita di calcio locale, la palla è stata calpestata a $30\ \text{m}$ distanza dal gol,
-con velocità $108\ \text{km/h}$, vetoricamente costante. Considerando che il tempo che il portiere prende
-per giocare e cadere sul lato destro della trave, evitando il gol, è lo stesso tempo che un oggetto richiede per raggiungere
-il pavimento quando rilasciato dal riposo di un'altezza h. La Commissione ha adottato una proposta di direttiva che prevede che le misure di sicurezza e di sicurezza siano adottate in modo da ridurre la
-situazione, determinare tale altezza in metri:
+8. Un professore di Fisica, appassionato di calcio, propose ai suoi studenti il seguente problema:
+Durante un calcio d'angolo in una partita di calcio locale, il pallone è stato calciato da una distanza di $30\ \text{m}$ dalla porta, con una velocità di $108\ \text{km/h}$, costante in direzione e modulo. Considerando che il tempo impiegato dal portiere per lanciarsi e cadere sul lato destro del palo, evitando il gol, è uguale al tempo impiegato da un oggetto per raggiungere il suolo quando lasciato cadere dal riposo da un'altezza h. Trascurando ogni forma di attrito nella situazione, determinare tale altezza in metri:
 a) 5 b) 10 c) 2,5 d) 20 e) 50
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1pUR0FqUMdvHsjonJhg31PKSGWEM2jzpZ/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-8. A football fanatic physics teacher proposed the following problem to his students:
-In the charge of a foul, during a local football game, the ball was kicked at a distance of $30\ \text{m}$ from the goal,
-with a velocity $108\ \text{km/h}$, vectorally constant. Considering the time the goalkeeper takes
-to play and fall on the right side of the barrel, avoiding the goal, is the same time it takes an object to hit
-the ground when released from a resting h. The Commission has already taken a number of measures to combat the
-situation, determine that height in metres:
-a) 5 b) 10 c) 2,5 d) 20 e) 50
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1pUR0FqUMdvHsjonJhg31PKSGWEM2jzpZ/view)
+8. A Physics teacher, a football enthusiast, proposed the following problem to his students:
+During a local football match, on a free kick, the ball was kicked from a distance of $30\ \text{m}$ from the goal with a constant velocity vector of $108\ \text{km/h}$. It is given that the time it takes for the goalkeeper to dive and fall to the right post, thus avoiding a goal, is equal to the time it takes for an object dropped from rest at a height h to reach the ground. Neglecting all forms of friction in this situation, determine this height in meters:
+a) 5 b) 10 c) 2.5 d) 20 e) 50
 
 
 
@@ -929,43 +902,21 @@ e) Ao se iniciar o movimento, a energia cinética de A é sempre igual à energi
 
 <div class="qlang-split" data-lang="it"></div>
 
-12. Dopo aver spiegato le leggi di Newton, il professor ha suggerito la seguente domanda:
-nella figura seguente, non si consideri l'effetto dello scosciamento tra le barche e l'acqua. In questo caso, la Commissione ha deciso di
-Riposa all'inizio, un ragazzo tira con la mano una corda che è legata all'altra barca. Considera che
-la barca vuota (B) ha la metà della massa della barca più la persona che compone la squadra (A). Segna la
-Proposta corretta.
-Dopo che il bambino ha tirato la corda, il modulo di velocità di B sarà doppio del modulo di velocità di A.
-Dopo che il ragazzo tira la corda, le barche si muovono alla stessa velocità.
-- **C.** Non è possibile fare alcuna affermazione sulle velocità delle parti del sistema quando si inizia il sistema
-movimento.
-d) Dopo il tirare la corda, le forze applicate a entrambe le barche sono uguali in modulo, direzione e direzione.
-e) Quando si inizia il movimento, l'energia cinetica di A è sempre uguale all'energia cinetica di B.
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1pUR0FqUMdvHsjonJhg31PKSGWEM2jzpZ/view)
+12. Dopo aver spiegato le leggi di Newton, il professore ha proposto la seguente domanda: Per la situazione illustrata nella figura riportata di seguito, trascurare gli effetti dell'attrito tra i barchi e l'acqua. Inizialmente tutte le parti sono ferme. Un ragazzo tira con la mano una corda legata all'altro barcone. Si consideri che il barcone vuoto (B) abbia metà della massa del complesso formato dal barcone con la persona (A). Scegliere l'affermazione CORRETTA.
+- **A.** Dopo che il ragazzo ha tirato la corda, l'intensità della velocità di B sarà il doppio dell'intensità della velocità di A.
+- **B.** Dopo che il ragazzo ha tirato la corda, entrambi i barconi si muoveranno con la stessa velocità.
+- **C.** È impossibile formulare qualsiasi affermazione sulle velocità delle parti del sistema all'inizio del movimento.
+- **d)** Dopo aver tirato la corda, le forze applicate sui due barconi sono uguali in modulo, direzione e verso.
+- **e)** All'inizio del movimento, l'energia cinetica di A è sempre uguale all'energia cinetica di B.
 
 <div class="qlang-split" data-lang="en"></div>
 
-12. After explaining Newton's laws, the professor suggested the following question:
-In the following figure, consider the effects of friction between boats and water. The Commission has already adopted a proposal for a regulation on the
-resting at the beginning, a boy pulls with his hand a rope that is tied to the other boat. Consider that
-the empty boat (B) has half the mass of the boat plus the person forming the set (A). Sign this
-The right proposal.
-After the boy pulls the rope, the speed module of B will be twice the speed module of A.
-After the boy pulls the rope, both boats will move at the same speed.
-- **C.** It is impossible to make any statement about the system parts speeds when starting the
-Move it.
-(d) After pulling the rope, the forces applied on both boats are the same in modulus, direction and direction.
-(e) When the motion is initiated, the kinetic energy of A is always equal to the kinetic energy of B.
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1pUR0FqUMdvHsjonJhg31PKSGWEM2jzpZ/view)
+12. After explaining Newton's laws, the teacher suggested the following question: For the situation shown in the figure below, neglect the effects of friction between the boats and the water. Initially, all parts are at rest. A boy pulls on a rope attached to the other boat with his hand. Consider that the empty boat (B) has half the mass of the combined system formed by the other boat and the person (A). Select the CORRECT statement.
+- **A.** After the boy pulls on the rope, the magnitude of B's velocity will be twice that of A's velocity.
+- **B.** After the boy pulls on the rope, both boats will move with the same velocity.
+- **C.** It is impossible to make any statement about the velocities of the system components when motion begins.
+- **d.** After pulling on the rope, the forces applied to both boats are equal in magnitude, direction, and sense.
+- **e.** When motion begins, the kinetic energy of A is always equal to that of B.
 
 
 
@@ -1145,22 +1096,17 @@ a) I b) II c) III d) I e II e II e III
 
 <div class="qlang-split" data-lang="en"></div>
 
-15. During the classes on universal gravity, most primary school teachers report through a
-The first thing that Isaac Newton would have thought about was that the moment an apple fell on him
-head. Of course, because of Newton's genius, it didn't have to happen. Whereas the
-If this is the case, please identify the correct proposals:
-I. Since the weight of the apple is small, this situation would not pose any risk, regardless of the height from which it is grown
-fall;
-II. The force the apple will exert on Newton's head takes into account the speed at which it collides and the
-the time interval of the collision, in addition to its own weight;
-The Commission shall adopt implementing acts. In this case, the force exerted on the head by the apple depends only on the speed at which it arrives.
-(a) I b) II c) III d) I and II e) II and III
+15. During lessons on universal gravitation, most basic education teachers recount through a pseudo-story that Isaac Newton would have thought about this law at the moment an apple fell on his head. Clearly, due to Newton's genius, it was not necessary for this actually to happen. Considering the possibility of such a situation, identify the correct statement(s):
 
-**Topic:** [[Newtonian Mechanics]], [[Gravitation]]
-**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1pUR0FqUMdvHsjonJhg31PKSGWEM2jzpZ/view)
+I. Since the apple's weight is small, this situation would pose no risk whatsoever, regardless of the height from which it falls;
+II. The force that the apple exerts on Newton's head takes into account the speed at which it collides, the duration of the collision, and its own weight;
+III. For this case, the force exerted on the head by the apple depends only on the speed with which it arrives.
+
+a) I
+b) II
+c) III
+d) I and II
+e) II and III
 
 
 
@@ -1190,41 +1136,32 @@ a) I, II e III b) I e III c) III d) I, II e IV e) III e IV
 
 <div class="qlang-split" data-lang="it"></div>
 
-16. Nella nostra vita quotidiana usiamo alcune frasi che spiegano o risolvono determinate situazioni senza attentarci
-per il fatto che possono contenere informazioni fisicamente inadeguate. Generalmente, queste concezioni
-Le nostre spiegazioni sono considerate errate o fuori dal campo scientifico.
-Il contesto scientifico. Tra le frasi qui sotto, indicare le parole che possono contenere inadeguatezza o falsità.
-La Commissione ha adottato una decisione che non prevede alcuna modifica.
-I. Ho un caldo molto caldo;
-II. Gioiani ha molta forza;
-III. Gioiani ha molta energia .
-IV. Dopo il colpo, la palla venne con molta forza;
-a) I, II e III b) I e III c) III d) I, II e IV e) III e IV
+16. Nella nostra vita quotidiana usiamo alcune frasi che spiegano o risolvono determinate situazioni, senza prestare attenzione al fatto che potrebbero contenere informazioni fisicamente inadeguate. Di solito, queste concezioni intuitive non sono conformi a quelle scientifiche e quindi le nostre spiegazioni vengono considerate errate o fuori dal contesto scientifico. Tra le frasi seguenti, identificate quella/e che potrebbe/possono contenere inadeguatezze o false concezioni.
 
-**Topic:** [[Newtonian Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1pUR0FqUMdvHsjonJhg31PKSGWEM2jzpZ/view)
+I. Sono molto caldo;
+II. Joãozinho ha molta forza;
+III. Joãozinho ha molta energia;
+IV. Dopo il calcio, la palla è arrivata con molta forza;
+a) I, II e III
+b) I e III
+c) III
+d) I, II e IV
+e) III e IV
 
 <div class="qlang-split" data-lang="en"></div>
 
-16. In our daily lives, we use some phrases that explain or solve certain situations without paying attention to them.
-to the fact that they may contain physically inappropriate information. Generally, these concepts
-Intuitive explanations are not in agreement with scientific ones and so our explanations are considered erroneous or out of place.
-The Commission has already taken a number of steps to ensure that the Commission is able to take the necessary measures. Identify among the sentences below which may contain inadequacies or false ones
-The Commission has also adopted a proposal for a regulation on the
-I. I 'm too hot;
-II. Little Joao has a lot of strength;
-The Commission shall adopt implementing acts. Little Joao has a lot of energy;
-IV. After the kick, the ball came with great force;
-(a) I, II and III (b) I and III (c) III (d) I, II and IV (e) III and IV
+16. In our daily lives, we use certain phrases to explain or resolve specific situations without noticing that they might contain physically inaccurate information. Usually, these intuitive ideas do not align with scientific concepts, and thus our explanations are considered incorrect or outside the scientific context. Among the following phrases, identify the one(s) that may contain inaccuracies or false concepts.
 
-**Topic:** [[Newtonian Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1pUR0FqUMdvHsjonJhg31PKSGWEM2jzpZ/view)
+I. I am feeling very hot;
+II. Joãozinho has a lot of strength;
+III. Joãozinho has a lot of energy;
+IV. After the kick, the ball came with great force;
+
+a) I, II and III
+b) I and III
+c) III
+d) I, II and IV
+e) III and IV
 
 
 
@@ -1265,18 +1202,15 @@ le loro superfici. Sicuramente la massima pressione si verifica sulla sua superf
 
 <div class="qlang-split" data-lang="en"></div>
 
-17. Judge the following items as true (V) or False (F):
-I. The force a liquid exerts on a body immersed in it depends only on the density of that liquid;
-II. If a body is released into a lower density liquid, it will surely sink;
-The Commission shall adopt implementing acts. A fully submerged submarine, without touching the ocean floor, undergoes different hydrostatic pressures on the ocean floor.
-their surfaces. Surely, the maximum pressure occurs on its upper surface.
-(a) FVF b) FFV c) VVF d) VFV e) FFF
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1pUR0FqUMdvHsjonJhg31PKSGWEM2jzpZ/view)
+17. Judge the following statements as true (V) or false (F):
+I. The buoyant force a liquid exerts on a body immersed in it depends only on the density of this liquid;
+II. If a body is released inside a liquid with lower density, it will surely sink;
+III. A submarine fully submerged, not touching the ocean floor, experiences different hydrostatic pressures on its surfaces. Certainly, the maximum pressure occurs on its upper surface.
+a) FVF
+b) FFV
+c) VVF
+d) VFV
+e) FFF
 
 
 

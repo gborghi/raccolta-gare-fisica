@@ -220,30 +220,8 @@ e agitazione lieve si osserva che il liquido si solidifica
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 3 (exclusive for first graders). One of them.
-The Commission has already made a number of proposals for a new
-The main purpose of the water treatment plant is to bring liquid water to a temperature below its freezing point. When
-That's what happens. We say the water is in a super-cool state. This is a metastable equilibrium state because
-If disturbed, the water passes from liquid to solid
-Almost instantly. Perhaps you have witnessed this surprising phenomenon when you take a drink
-I'm sorry, but I'm not sure what I'm talking about. To reproduce this
-The problem is that it is easier to work with water.
-distilled, because the impurities dissolved in the water are
-They facilitate the process of ice formation. Suppose a container A with a liter of mineral water and a container B
-with one litre of distilled water, both at room temperature $T_a = 20\ ^\circ\text{C}$. These containers are then placed
-in a freezer that is $T_c = -6\ ^\circ\text{C}$ and you expect a
-sufficient time for A to contain $-6\ ^\circ\text{C}$ ice but
-with the B water still in liquid state. What is the amount of heat exchanged between the freezer and (a) water
-from A and (b) from B? If B is removed from the freezer
-and slightly stirred, it is observed that the liquid solidifies
-I'll be right there. (c) Does this process emit or absorb heat?
-(d) Estimate the amount of heat exchanged in the latter process.
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1JvtBp8IzL8mHzsUgRTIXuubjXEY64M2i/view)
+Problem 3 (exclusive for first-year students). An interesting experiment that can be done at home consists of bringing liquid water to a temperature below its freezing point. When this occurs, we say the water is in a supercooled state. This is a metastable equilibrium state because, if disturbed, the water rapidly transitions from liquid to solid. Perhaps you have already witnessed this surprising phenomenon when taking a cold drink that was accidentally left in the freezer. To reproduce this effect more easily, it is necessary to use distilled water, since dissolved impurities in the water facilitate ice formation. Suppose container A contains one liter of mineral water and container B contains one liter of distilled water, both at room temperature $T_a = 20\ ^\circ\text{C}$. These containers are then placed in a freezer maintained at $T_c = -6\ ^\circ\text{C}$, and sufficient time is allowed so that container A contains ice at $-6\ ^\circ\text{C}$ while the water in container B remains in the liquid state. What are the amounts of heat exchanged between the freezer and (a) the water in container A and (b) the water in container B? If container B is removed from the freezer and gently shaken, the liquid immediately solidifies. (c) Does this process emit or absorb heat?
+(d) Estimate the amount of heat exchanged in this final process.
 
 
 
@@ -454,24 +432,7 @@ in cui $\theta = 30^\circ$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question number six. A physics student is investigating conditions
-of static equilibrium of objects found on its table
-The Commission's proposal for a directive on the protection of workers' rights Initially, she fixes a cylindrical can of lightning.
-$r = 5{,}00$ cm on a horizontal table and on top of it supports
-a uniform plastic formula of $L = 30{,}0$ length
-cm and mass $m = 40{,}0$ g in the static equilibrium situation
-as shown in Figure A. Then she applies a vertical force $\vec{F}$ to one of the ends of the line and observes that
-the support point of the same over the cylinder moves
-as shown in Figure B. She notes that the rule
-can assume static equilibrium configurations provided that:
-$\theta \leq 30^\circ$. Determine (a) the value of the static friction coefficient between the rod and the can and (b) the force intensity
-external in the situation where $\theta = 30^\circ$.
-
-**Topic:** [[Rigid Body Statics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1JvtBp8IzL8mHzsUgRTIXuubjXEY64M2i/view)
+Problem 6. A physics student is investigating conditions for static equilibrium of objects found on her study desk. Initially, she fixes a cylindrical can of radius $r = 5{,}00$ cm on a horizontal table and places a homogeneous plastic ruler of length $L = 30{,}0$ cm and mass $m = 40{,}0$ g in static equilibrium as shown in Figure A. Then, she applies a vertical force $\vec{F}$ at one end of the ruler and observes that the point where the ruler contacts the cylinder shifts, as illustrated in Figure B. She notes that the ruler can assume configurations of static equilibrium provided that $\theta \leq 30^\circ$. Determine (a) the value of the coefficient of static friction between the ruler and the can, and (b) the magnitude of the external force in the situation where $\theta = 30^\circ$.
 
 
 
@@ -729,23 +690,9 @@ Camera 2 in equilibrio?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question number ten. If a container containing a rarefied gas has a small opening, a phenomenon occurs.
-The number of molecules in the
-out of the container is proportional $n\bar{v}$ where n is the density
-The mean molecular velocity of the molecules is the mean gas velocity and $\bar{v}$ is the mean molecular velocity.
-Consider a container divided into two chambers with
-a small opening between them and containing a gas
-I'm a little weird. The conditions are such that the phenomenon of
-The resulting gas is a gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fueled gas-fuelled gas-fueled gas-fuelled gas-fuelled gas-fuelled gas-fuelled gas-fuelled gas-fuelled gas-fuelled gas-fuelled gas-fuelled gas-fired gas-fuelled gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired gas-fired power plant. If cameras 1 and 2
-are maintained at $T_1$ and $T_2$ respectively, and
-the pressure of chamber 1 is $P_1$, which is the pressure value at
-Chamber 2 in the equilibrium situation?
+Problem 10. If a container holding a rarefied gas has a small opening, a phenomenon called effusion occurs in which the number of molecules escaping from the container is proportional to $n\bar{v}$, where n is the gas density and $\bar{v}$ is the average speed of the molecules.
 
-**Topic:** [[Kinetic Theory]], [[Thermodynamics]]
-**Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Statistical Averaging (metodo)|Statistical Averaging]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1JvtBp8IzL8mHzsUgRTIXuubjXEY64M2i/view)
+Consider a container divided into two chambers by a small opening between them, containing a rarefied gas. The conditions are such that effusion occurs between one chamber and the other. If chambers 1 and 2 are maintained at temperatures $T_1$ and $T_2$, respectively, and the pressure in chamber 1 is $P_1$, what is the value of the pressure in chamber 2 at equilibrium?
 
 
 

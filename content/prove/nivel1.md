@@ -39,41 +39,11 @@ percorrer em um deslocamento em linha reta de P para C?
 
 <div class="qlang-split" data-lang="it"></div>
 
-- Quesito 1. Gli studenti stanno lavorando su un progetto con un robot mobile che è posizionato a partire da segnali ricevuti da tre stazioni fisse, A, B e C, di posizioni
-Conosciute, disposte sul pavimento di un palestra piatto e senza ostacoli, le posizioni dei quali sono indicate
-come mostrato qui sotto. Gli studenti comandano il robot di una stanza allegata in modo
-La Commissione ha adottato una decisione che non può essere adottata.
-Stazioni. In un momento determinato, il robot è al punto P e riceve segnali dalle stazioni A e B che
-le distanze tra loro sono rispettivamente $6{,}0\ \text{m}$ e $4{,}0\ \text{m}$. A
-Stazione C è disattivata e gli studenti devono pianificare una missione in cui il robot si muoverà
-per collegarla (simulando un errore di riparazione). Prima di partire, devono
-Verificare se c'è energia per coprire un percorso. Qual è la distanza più lunga che il robot dovrà percorrere?
-percorrere in un spostamento in linea retta da P a C?
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Vector Decomposition (metodo)|Vector Decomposition]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/13t7TlWgul-LR1-phQRZKfArroqUJDVcL/view)
+Quesito 1. Gli studenti stanno lavorando a un progetto con un robot mobile la cui posizione viene determinata tramite segnali ricevuti da tre stazioni fisse, A, B e C, posizionate in punti noti sul pavimento piatto e privo di ostacoli di un palazzetto sportivo, le cui posizioni sono indicate nel diagramma riportato sotto. Gli studenti controllano il robot da una stanza adiacente dalla quale non possono vederlo, pertanto devono prendere le loro decisioni soltanto in base alle informazioni ricevute dalle stazioni. In un certo istante, il robot si trova nel punto P e riceve segnali dalle stazioni A e B che comunicano rispettivamente le distanze del robot da tali stazioni, pari a $6{,}0\ \text{m}$ e $4{,}0\ \text{m}$. La stazione C è spenta e gli studenti devono pianificare una missione durante la quale il robot si sposta per accenderla (simulando una missione di riparazione a un guasto). Prima della partenza devono verificare se c'è energia sufficiente per coprire un tragitto. Qual è la massima distanza che il robot dovrà percorrere in uno spostamento rettilineo da P a C?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question number one. Students are working on a project with a mobile robot whose location is made from signals received by three fixed stations, A, B and C, of positions
-known, arranged on the floor of a flat and unobstructed gym, the positions of which are given
-as shown in the diagram below. Students control the robot of an annexed room in a form
-The Commission has already decided to take a decision on the basis of the information received from the Member States.
-The stations. At a given moment, the robot is at the point P and receives signals from stations A and B that
-indicate that their distances to them are $6{,}0\ \text{m}$ and $4{,}0\ \text{m}$ respectively. A
-Station C is off and students must plan a mission in which the robot moves
-to connect it (simultaneously a repair mission to a malfunction). Before you leave, you must
-Check if there's power to cover a route. What is the longest distance the robot will have to go
-travel in a straight line shift from P to C?
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Vector Decomposition (metodo)|Vector Decomposition]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/13t7TlWgul-LR1-phQRZKfArroqUJDVcL/view)
+Problem 1. Students are working on a project involving a mobile robot whose position is determined by signals received from three fixed stations, A, B, and C, located on the flat floor of a gymnasium with no obstacles. The positions of these stations are known and given according to the diagram below. The students control the robot from an adjacent room, where they cannot see it, so they must make their decisions based solely on information received from the stations. At a given instant, the robot is at point P and receives signals from stations A and B indicating that its distances to these stations are, respectively, $6{,}0\ \text{m}$ and $4{,}0\ \text{m}$. Station C is turned off, and the students must plan a mission in which the robot moves to turn it back on (simulating a repair task due to malfunction). Before departing, they must verify whether there is enough energy to cover the required journey. What is the maximum distance the robot will have to travel in a straight-line displacement from P to C?
 
 
 
@@ -396,28 +366,11 @@ che è stata scambiata in quest'ultimo processo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question number six.
-A very interesting experience that can be done at home consists of
-in bringing liquid water to a temperature state below its freezing point.
-When that happens, we say the water is in a super-cool state. This is a state
-The water is disrupted and the water is moved from liquid to solid.
-That instantly. Perhaps you have witnessed this surprising phenomenon when you pick up
-A cold drink you forgot in the freezer. To reproduce this phenomenon more easily
-You have to work with distilled water, because it is the impurities dissolved in the water that facilitate the
-the process of ice formation. Suppose a container A with a liter of mineral water and a
-B-container with one liter of distilled water, both at room temperature $T_a = 20\ ^\circ\text{C}$. These
-containers are then placed in a freezer that is $T_c = -6\ ^\circ\text{C}$ and a time is waited
-enough to keep A ice at $-6\ ^\circ\text{C}$ but with B's water still in liquid state.
-What is the amount of heat exchanged between the freezer and (a) water from A and (b) water from
-B? If B is removed from the freezer and shaken slightly, the liquid is observed to solidify.
-I'll be right there. (c) Does this process emit or absorb heat? (d) Estimate the amount of heat
-The Commission has already taken a number of measures to ensure that the Community's financial resources are not used to finance the implementation of the programme.
+Problem 6.
+An interesting experiment that can be done at home consists of bringing liquid water to a temperature below its freezing point.
+When this occurs, we say the water is in a supercooled state. This is a metastable equilibrium state because, if disturbed, the water rapidly transitions from liquid to solid. Perhaps you have already witnessed this surprising phenomenon when taking a cold drink that was accidentally left in the freezer. To reproduce this effect more easily, it is necessary to use distilled water, since dissolved impurities in the water facilitate ice formation. Suppose container A contains one liter of mineral water and container B contains one liter of distilled water, both initially at room temperature $T_a = 20\ ^\circ\text{C}$. These containers are then placed in a freezer maintained at $T_c = -6\ ^\circ\text{C}$, and sufficient time is allowed so that container A contains ice at $-6\ ^\circ\text{C}$ while the water in container B remains in the liquid state.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/13t7TlWgul-LR1-phQRZKfArroqUJDVcL/view)
+What are the amounts of heat exchanged between the freezer and (a) the water in container A and (b) the water in container B? If container B is removed from the freezer and gently shaken, the liquid immediately solidifies. (c) Does this process emit or absorb heat? (d) Estimate the amount of heat exchanged in this final process.
 
 
 

@@ -15,6 +15,10 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="BPhO 2009 Locale Round 1 — Quesito 1" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/calorimeter,object/droplet,object/lens,object/spring,object/capacitor"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Domanda compulsoria, con brevi quesiti indipendenti:
 
 - a) Un riscaldatore a immersione da $10\ \text{W}$ è posto in $0{,}25\ \text{kg}$ di un liquido contenuto in un calorimetro di capacità termica $50\ \text{J K}^{-1}$. È acceso e dopo un certo tempo la temperatura del liquido raggiunge un valore costante. Il riscaldatore è spento e il tasso di calo di temperatura è $15\ \text{mK s}^{-1}$. Qual è il calore specifico del liquido?
@@ -48,8 +52,67 @@ Domanda compulsoria, con brevi quesiti indipendenti:
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1xH8l9ivRhN2zw3tAnN_1mLAjww5M5IX6/view)
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Compulsory question, with brief independent sub-questions:
+
+- a) An immersion heater of power $10\ \text{W}$ is placed in $0{,}25\ \text{kg}$ of a liquid contained in a calorimeter with heat capacity $50\ \text{J K}^{-1}$. It is turned on and after some time the liquid reaches a constant temperature. The heater is then switched off, and the rate of temperature decrease is $15\ \text{mK s}^{-1}$. What is the specific heat capacity of the liquid?
+
+- b) Comment on the following statements:
+(i) Planets move with constant speed in circles around the Sun;
+(ii) The horizontal component of energy of a tennis ball remains constant after being hit by a racket;
+(iii) The speed of a light spot projected onto a distant wall by a rotating laser can exceed $c$;
+(iv) The north magnetic pole is near the geographic North Pole, and the north end of a compass needle always points toward the magnetic north pole;
+(v) The specific heat capacity of a gas at constant volume differs from that at constant pressure;
+(vi) Gases cool down when they expand rapidly.
+
+- c) A viola string of length $0{,}50\ \text{m}$ is tuned to note A, frequency $440{,}0\ \text{Hz}$.
+(i) What change in length would raise the frequency to $550{,}0\ \text{Hz}$?
+(ii) If it goes out of tune and vibrates at frequency $435{,}6\ \text{Hz}$, by what fractional amount, and in which direction, must the string tension be changed to retune it?
+
+- d) A man rides his bicycle to work with the wind behind him at $8{,}0\ \text{m/s}$, and returns home against the wind at $4{,}0\ \text{m/s}$. What is his average speed for the entire trip?
+- e) A machine gun fires bullets of mass $10\ \text{g}$ at a velocity of $12\ \text{km/s}$. If the gunner can exert a maximum average force of $80\ \text{N}$ against the weapon, calculate the maximum number of bullets that can be fired per minute. Draw a force-time graph for the recoil of the weapon on the gunner’s shoulder, and show graphically what is meant by average force.
+
+- f) An oil droplet is observed between the plates of a capacitor. (i) In an electric field of $0{,}30\ \text{MV m}^{-1}$, a droplet is observed to be stationary with one excess electron. What is the weight of the droplet? (ii) The same droplet is then observed to fall with a terminal velocity of $0{,}20\ \text{mm s}^{-1}$, independent of the potential difference between the plates. Explain this observation.
+
+- g) Qualitatively explain how Newton’s rings are formed using an optical flat and a convex lens.
+
+- h) A body of mass $m$ rests on the pan of a scale supported by a spring. The oscillation period of the pan is $0{,}50\ \text{s}$. It is observed that when the amplitude of oscillations increases beyond a certain value, the mass loses contact with the pan. Explain this phenomenon. At which point in the motion does the mass first lose contact with the pan?
+
+- i) A uniform capillary tube, closed at one end, contains trapped air sealed by a mercury thread of length $85\ \text{mm}$. When the tube is held horizontally, the length of the air column is $50\ \text{mm}$. When held vertically with the closed end down, the length becomes $45\ \text{mm}$. Determine the atmospheric pressure.
+- j) A sinusoidal voltage of frequency $1250\ \text{Hz}$ is applied to the Y plates of a cathode ray oscilloscope (CRO). The resulting trace is shown in Figure 1.j (deflection $A$). If a radar transmitter emits short pulses and, simultaneously, a voltage is applied to the Y plates of the oscilloscope with the same time base, deflection $A$ is produced. An object reflects the radar pulse, which, upon reception at the transmitter and amplification, gives rise to deflection $B$. What is the distance of the object from the transmitter?
+
+- k) Answer the following questions, providing an example where possible:
+(i) Can a body accelerate while moving at constant speed (magnitude)?
+(ii) Can a body have constant velocity (vector) but variable magnitude?
+(iii) If a body has zero velocity, can it still accelerate?
+(iv) Can a body accelerate in a direction opposite to its velocity?
+
+- l) The equation $y = A\sin(\omega t - kx)$ represents a plane wave traveling along the $x$ axis in a medium; $y$ is the displacement of a point at position $x$ at time $t$. $A$, $k$ and $\omega$ are constants. Deduce the direction and speed of the wave. If $A = 1{,}0\times 10^{-7}\ \text{m}$, $\omega = 6{,}6\times 10^3\ \text{s}^{-1}$ and $k = 20\ \text{m}^{-1}$, calculate:
+(i) the wave speed;
+(ii) the maximum particle velocity in the medium due to the wave.
+- m) $20$ identical electric lamps, each rated at $12\ \text{V}$, are connected in series to a power supply network of $240\ \text{V}$. The total power consumed is $24\ \text{W}$. (i) What is the resistance of each lamp? (ii) If one lamp is short-circuited, what is the power consumed? (iii) When testing one of the lamps by applying a potential difference of $0{,}10\ \text{V}$, a current of $10\ \text{mA}$ is measured. Explain.
+
+- n) The maximum kinetic energy of photoelectrons emitted from a tungsten surface by light of wavelength $248\ \text{nm}$ is $8{,}6\times 10^{-20}\ \text{J}$. What is the work function of tungsten, in eV?
+
+- o) An electron and a positron annihilate to produce two $\gamma$ rays. Calculate the minimum energy of the photons.
+
+- p) Qualitatively explain using sound waves as an example: (i) Doppler effect; (ii) beat phenomenon; (iii) standing waves.
+
+- q) What is a magnetic field line? Draw the magnetic field lines in a plane perpendicular to: (i) a current $I$ flowing through an infinite straight wire; (ii) the axis of a bar magnet near one end.
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2009_QP/BPhO_Paper2_2009_QP_p3_f1.png]]
+*Oscilloscope traces with radar signal*
+<!--fig:end-->
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="BPhO 2009 Locale Round 1 — Quesito 2" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/ball,object/projectile"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Una pietra sferica è lasciata cadere dalla cima di una rupe di altezza $h$ al tempo $t = 0$. Nello stesso istante un'altra pietra identica è lanciata verticalmente verso l'alto dal fondo della rupe con velocità *positiva* $u$, sulla stessa verticale della prima pietra.
 
@@ -69,8 +132,26 @@ b)
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1xH8l9ivRhN2zw3tAnN_1mLAjww5M5IX6/view)
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+A spherical stone is released from the top of a cliff of height $h$ at time $t = 0$. At the same instant, another identical stone is thrown vertically upward from the base of the cliff with a positive velocity $u$, along the same vertical line as the first stone.
+
+a)
+- (i) After what time, $T_c$, do the stones collide?
+- (ii) If the stones have equal speeds (in magnitude) at collision, what are the values of $u$ and $T_c$?
+- (iii) If the collision in (ii) is elastic, determine the time interval between the impacts of the stones on the ground.
+
+b)
+- (i) Draw a completely labeled velocity-time graph for the motion of both stones on the same plot, using a solid curve for the stone released from the top and a dashed curve for the stone thrown upward from the base.
+- (ii) Draw a completely labeled height-time graph for both stones using the notation specified in (i).
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2009 Locale Round 1 — Quesito 3" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/spring"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 a) Un uomo di altezza $h_0 = 2{,}00\ \text{m}$ e massa $m$ deve fare un salto col bungee da una piattaforma posta a un'altezza $h = 25{,}0\ \text{m}$ sopra un lago. Un'estremità di una corda elastica è attaccata al suo piede e l'altra estremità è fissata alla piattaforma. Cade verticalmente. La lunghezza a riposo della corda è $l_0$ e la sua costante elastica è $k$. La corda è scelta in modo che la sua velocità si riduca a zero proprio nell'istante in cui la sua testa raggiunge la superficie dell'acqua. Quando è a riposo, in equilibrio, all'estremità della corda, la sua testa è a $8{,}00\ \text{m}$ sopra l'acqua. Assumere che il centro di gravità dell'uomo sia a metà del suo corpo.
 Scrivere un'espressione algebrica per:
@@ -87,8 +168,24 @@ b) Determinare i valori massimi dell'uomo per: (i) la velocità; (ii) l'accelera
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1xH8l9ivRhN2zw3tAnN_1mLAjww5M5IX6/view)
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+a) An man of height $h_0 = 2{,}00\ \text{m}$ and mass $m$ must perform a bungee jump from a platform located at height $h = 25{,}0\ \text{m}$ above a lake. One end of an elastic cord is attached to his foot, and the other end is fixed to the platform. He falls vertically downward. The natural (unstretched) length of the cord is $l_0$, and its spring constant is $k$. The cord is chosen so that his speed becomes zero exactly at the instant his head reaches the water surface. When at rest in equilibrium, with the cord fully extended, his head is located $8{,}00\ \text{m}$ above the water surface. Assume that the man’s center of gravity lies at the midpoint of his body.
+
+Write an algebraic expression for:
+- (i) the energy equation at his lowest point;
+- (ii) the force equilibrium equation;
+- (iii) determine $l_0$ numerically.
+
+b) Determine the maximum values for: (i) velocity; (ii) acceleration.
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="BPhO 2009 Locale Round 1 — Quesito 4" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/nucleus"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 a)
 - (i) Determinare la relazione fra la costante di decadimento $\lambda$ e l'emivita $\tau$ di una sorgente radioattiva.
@@ -105,8 +202,23 @@ c) Una sorgente puntiforme di raggi $\gamma$ ha emivita di $30$ minuti. Il tasso
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1xH8l9ivRhN2zw3tAnN_1mLAjww5M5IX6/view)
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+a)
+(i) Determine the relationship between the decay constant $\lambda$ and the half-life $\tau$ of a radioactive source.
+(ii) How long would it take for $87{,}5\%$ of the atoms of $\text{Pb}^{209}$, with a half-life of $3{,}3$ hours, to decay?
+
+b) A small volume of solution containing a radioactive isotope of sodium has an activity of $1200$ disintegrations per minute when injected into the bloodstream of a patient. After $30$ hours, the activity of a blood sample of volume $1{,}00\ \text{cc}$ is $0{,}50$ disintegrations per minute. If the half-life of the sodium isotope is $15$ hours, determine the volume of blood in the patient's body.
+
+c) A point source of $\gamma$ rays has a half-life of $30$ minutes. The initial count rate, measured by a Geiger counter placed at $2{,}0\ \text{m}$ from the source, is $360\ \text{s}^{-1}$. The distance between the counter and the source is changed. After $90$ minutes, the count rate is $5{,}0\ \text{s}^{-1}$. What is the distance between the source and the counter?
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="BPhO 2009 Locale Round 1 — Quesito 5" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/disk,object/rod"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 a) Un disco uniforme, di raggio $R$ e densità superficiale $\rho$, ha il suo centro $O$ nell'origine di un sistema di coordinate cartesiane. Sono rimossi un disco di raggio $R/2$ e centro $(R/2, 0)$, insieme a due dischi di raggio $R/4$ con centri in $(0, +5R/8)$ e $(0, -5R/8)$.
 - (i) Verificare che i tre fori circolari non si sovrappongono.
@@ -160,5 +272,57 @@ b) Un'asta uniforme $OP$ di lunghezza $l$ e massa $M$ è appoggiata con $P$ cont
 
 <!--fig:start-->
 **Quesito 8** — Trasferimento orbitale cerchio ed ellisse
+![[_attachments/BPhO_Paper2_2009_QP/BPhO_Paper2_2009_QP_p11_f6.png]]
+<!--fig:end-->
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+a) A uniform disk of radius $R$ and surface density $\rho$ has its center $O$ located at the origin of a Cartesian coordinate system. A disk of radius $R/2$ and center $(R/2, 0)$ has been removed, along with two disks of radius $R/4$ and centers at $(0, +5R/8)$ and $(0, -5R/8)$.
+- (i) Verify that the three circular holes do not overlap.
+- (ii) Determine the center of gravity of the remaining object.
+
+b) An uniform rod $OP$ of length $l$ and mass $M$ is leaning with $P$ against a vertical wall. $O$ rests on a horizontal floor, which has coefficient of friction $\mu = 0{,}35$, so that $OP$ forms an angle $\theta$ with the floor.
+- (i) Draw a diagram including all forces, including horizontal components $F_{HO}$ and $F_{HP}$ at $O$ and $P$ respectively. The vertical component at $O$ is $F_{VO}$ and that at $P$ is $F_{VP}$.
+- (ii) Write the conditions for equilibrium of forces acting on the rod.
+- (iii) Obtain an expression for $(F_{VO}/F_{HO})$ in terms of $\theta$ from (ii), assuming the wall is frictionless.
+- (iv) Deduce the minimum value of $\theta$.
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+<!--fig:start-->
+**Problem 6** — Interference pattern with plane mirror
+![[_attachments/BPhO_Paper2_2009_QP/BPhO_Paper2_2009_QP_p9_f2.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**Problem 7** — Circuit with 9V battery and resistors
+![[_attachments/BPhO_Paper2_2009_QP/BPhO_Paper2_2009_QP_p10_f3.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**Problem 7** — Three resistor configurations with batteries
+![[_attachments/BPhO_Paper2_2009_QP/BPhO_Paper2_2009_QP_p10_f4.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**Problem 8** — Elliptical orbit of a planet with focus S
+![[_attachments/BPhO_Paper2_2009_QP/BPhO_Paper2_2009_QP_p11_f5.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**Problem 8** — Orbital transfer between circle and ellipse
 ![[_attachments/BPhO_Paper2_2009_QP/BPhO_Paper2_2009_QP_p11_f6.png]]
 <!--fig:end-->

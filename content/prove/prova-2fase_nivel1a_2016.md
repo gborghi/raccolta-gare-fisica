@@ -114,42 +114,29 @@ Densidade da água líquida $\rho = 1{,}00\ \text{g/cm}^3$
 
 <div class="qlang-split" data-lang="it"></div>
 
-Infine, il problema è che la pressione è una pressione meccanica.
-su una tavola piana e orizzontale due blocchi A e B, cubici, massicci e
-omogenei. Sapendo che i blocchi erano fatti dello stesso materiale e avevano le estremità
-di lunghezza $a$ e $5a$, rispettivamente, determina il rapporto $p_B/p_A$ tra le pressioni
-esercitate rispettivamente dai blocchi B e A sul tavolo.
+Quesito 2 - Al fine di esplorare il concetto di pressione meccanica, un insegnante ha appoggiato su un tavolo piano e orizzontale due blocchi cubici, solidi ed omogenei, A e B. Sapendo che i blocchi erano realizzati dello stesso materiale e avevano spigoli di lunghezza $a$ e $5a$, rispettivamente, determinare il rapporto $p_B/p_A$ tra le pressioni esercitate rispettivamente dal blocco B e dal blocco A sul tavolo.
 
-Nivel 1
+NIVELLO I
 
-Istruzione elementare
-8° e 9° anni
+Scuola Secondaria di Primo Grado
+8º e 9º anno
 
-Leggi attentamente le istruzioni qui sotto:
+LEGGI ATTENTAMENTE LE ISTRUZIONI DI SEGUITO:
 
-1 - Questo test è rivolto esclusivamente agli studenti dell'ottavo e del nono anno di scuola
-Fondamentale. Contiene otto domande.
-2 - La prova è composta da due tipi di domande:
-II) Domande di risposta aperta. In questioni di risposta diretta solo
-In caso di correzione, la risposta finale è considerata, mentre nelle domande di risposta aperta, il
-se il risultato finale non è corretto, la evoluzione può essere considerata nel punteggio
-la Commissione ha adottato una decisione che stabilisce la procedura di procedura di cui all'articolo 1, paragrafo 1, del regolamento (CE) n.
-3 - Il Libro delle Risposte contiene istruzioni che devono essere lette con attenzione prima di
-dall'inizio della prova.
-4 - Tutti i risultati numerici devono essere espressi in unità nel sistema
-La Commissione ha adottato una decisione che non è stata adottata.
-5 - La durata di questo esame è di 4 (quattro) ore, e il partecipante deve rimanere in sala per
-non più di 60 (sessanta) minuti.
-Se necessario, e salvo indicazione contraria, utilizzare:
-La velocità della luce nel vuoto $= 3{,}0\times10^8\ \text{m/s}$; $g = 10\ \text{m/s}^2$; 1hp = 750 W;
+1 - Questo esame è destinato esclusivamente agli studenti delle classi 8ª e 9ª della Scuola Secondaria di Primo Grado. Contiene 8 (otto) domande.
+
+2 - La prova è composta da due tipi di domande: I) Domande a risposta diretta e II) Domande a risposta aperta. Nelle domande a risposta diretta, nella correzione verrà considerata soltanto la risposta finale, mentre nelle domande a risposta aperta, se il risultato finale non è corretto, lo svolgimento potrebbe essere preso in considerazione per il punteggio finale, secondo i criteri di correzione adottati.
+
+3 - Il quaderno delle risposte contiene istruzioni che devono essere lette con attenzione prima dell'inizio della prova.
+
+4 - Tutti i risultati numerici devono essere espressi in unità del Sistema Internazionale o secondo le istruzioni specifiche della domanda.
+
+5 - La durata di questa prova è di 4 (quattro) ore, e lo studente deve rimanere in aula per almeno 60 (sessanta) minuti.
+
+Qualora necessario, e a meno che non sia indicato diversamente, utilizzare:
+Velocità della luce nel vuoto $= 3{,}0\times10^8\ \text{m/s}$; $g = 10\ \text{m/s}^2$; 1hp = 750 W;
 $\sqrt2 = 1{,}4$; $\sqrt3 = 1{,}7$; $\sqrt5 = 2{,}2$; $\pi = 3$; $\text{sen}\,30^\circ = 0{,}5$; $\cos 30^\circ = 0{,}85$; $1\,\text{atm} = 10^5\ \text{Pa}$; $1\,\text{L} = 1.000\ \text{cm}^3$;
 Densità dell'acqua liquida $\rho = 1{,}00\ \text{g/cm}^3$
-
-**Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1qnsOnB1K9vKklFNaMjATB26asLx-Stxb/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -239,23 +226,11 @@ Figura III (modulo B)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 3 - With the intention of studying the fluctuation of bodies, a student used
-Two cylindrical blocks, of $V$ and $6V$ volumes, respectively, for the construction of a piece
-The following table shows the number of units in the unit: Then the piece was floated in water.
-in two different modes, A and B, as shown in Figures II and III. Following the observations
-Carefully, the student found that in mode A, two-thirds of the volume of the larger block was left
-Submerged, while in mode B a fraction $f$ of the larger block volume remained
-I'm going underwater. Determine the value of $f$.
+Problem 3 - In order to study the flotation of bodies, a student used two cylindrical blocks with volumes $V$ and $6V$, respectively, to construct a single piece as illustrated in Figure (I). Subsequently, the piece was made to float in water in two different ways, A and B, as shown in Figures (II) and (III). After careful observation, the student verified that in mode A, 2/3 of the volume of the larger block was submerged, while in mode B a fraction $f$ of the volume of the larger block was submerged. Determine the value of $f$.
 
-The following table shows the following:
-The following information is provided for in the Annex to Implementing Regulation (EU) No 1303/2013.
-The following information is provided for in the Annex to Implementing Regulation (EU) No 1308/2013:
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qnsOnB1K9vKklFNaMjATB26asLx-Stxb/view)
+Figure I
+Figure II (mode A)
+Figure III (mode B)
 
 
 

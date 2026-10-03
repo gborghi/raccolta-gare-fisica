@@ -189,6 +189,10 @@ Campo magnetico sulla superficie terrestre: $\vec{B}$ =
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2019 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas,object/cylinder,object/piston,object/resistor"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Esercizio 3 : Termodinamica (16 punti)
 Un tubo cilindrico con una parete laterale di vetro
 di spessore d (conducibilit`a termica k) viene chiuso ermeticamente con un coperchio di massa m in
@@ -242,3 +246,40 @@ dell’altezza di equilibrio del coperchio)
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1GM6I_cMVfcsXiKT-ECoWhZxufkv-jVDI/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 3: Thermodynamics (16 points)
+A cylindrical tube with a glass lateral wall of thickness d (thermal conductivity `a termica k) viene chiuso ermeticamente con un coperchio di massa m in grado di scivolare verticalmente senza attrito. Il sistema si trova sotto l’influsso della gravit`). The lid and base are perfect thermal insulators. Inside the volume, n moles of a monatomic ideal gas are contained. Additionally, there is a filament resistor $R_W$ subjected to an electric voltage U.
+The external environment remains constantly at temperature $T_R$ and atmospheric pressure $P_\text{atm}$.
+Figure 4: Experimental setup.
+Let $h^*$ be the distance between base and lid at equilibrium, i.e., when all physical quantities are constant in time (steady state). The goal of the problem is to determine $h^*$. Proceed as follows:
+
+i. (0.75 pt) Determine the thermal power dissipated through the resistor.
+
+ii. (0.75 pt) What is the expression for the heat flux [J/s] exchanged by the system with the exterior through the walls?
+
+iii. (1.5 pt) Determine the temperature inside the cylinder as a function of $P_\text{atm}$, m, r, n, and A, where A is the lateral surface area of the cylinder (bounded by base and lid).
+
+iv. (0.75 pt) How is the equilibrium condition expressed (all quantities constant in time)?
+
+v. (3.5 pt) Calculate $h^*$.
+
+vi. (0.75 pt) Provide the numerical solution for $h^*$ when $P_\text{atm}$ = 1.0 bar, $T_R$ = $20\ ^\circ\text{C}$, n = 1.0 mol, m = 1.5 kg, d = 5.0 mm, r = 10 cm, U = 10 V,
+$R_W$ = 1.0 $\Omega$, k = 1.0 $\text{W}\cdot\text{K}^{-1}\cdot\text{m}^{-1}$, g = 9.81 $\text{m}\cdot\text{s}^2$,
+R = 8.314 $\text{l}\cdot\text{mol}^{-1}\cdot\text{K}^{-1}$.
+We assume the system is in a steady state. At time t = 0, the experimenter wraps the tube completely with thermal insulation and ensures the lid remains at height $h^*$ by applying the necessary force on the lid.
+
+vii. (2.5 points) The experimenter wants to hold the lid at height $h^*$ for 3.0 s.
+To what maximum value will the force increase?
+Does the wall thickness d play a significant role in determining this force?
+
+viii. (1.5 points) After t = 3.0 s, the experimenter releases the lid and simultaneously turns off the electric voltage.
+Around which equilibrium position (height) will the lid oscillate?
+
+ix. (2 points) Determine the velocity of the lid as it passes through the equilibrium position.
+
+x. (2 points) The experimenter measures an oscillation frequency of 10.5 Hz.
+How can you verify that the gas inside the tube is actually a monatomic gas?
+(Assume the oscillation amplitude is small compared to the equilibrium height of the lid)

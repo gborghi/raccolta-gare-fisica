@@ -138,27 +138,21 @@ Quali di queste spiegazioni sono corrette fisicamente?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question two.
-A student visits a museum with a wooden floor and,
-So you need to wear a special shoe. Near the
-A painting, he sees a sign saying, "No photography with flash".
-He thinks of the following explanations:
-I. The shoe protects the floor because it slides better and doesn't scratch like the shoe.
-II. The shoe protects the floor because it makes less force down than the shoe.
-The Commission shall adopt implementing acts. The flash light, when absorbed by the paint, can change the color of the paint.
-IV. The flash light, reflected by the paint, can change the color of the paint.
-Which of these explanations is physically correct?
-- **A ** I and III
-- **B.** I e IV
-- **C.** II and III
-- **D.** II e IV
-- **E ** All of them
+Problem 2.
+A student visits a museum with a wooden floor and therefore needs to wear special slippers. Near a painting, he sees a sign saying: "Photography with flash is prohibited."
 
-**Topic:** [[Newtonian Mechanics]], [[Geometric Optics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1tuCChUoT39JkRPiyTPhLp00GeApqR5Mz/view)
+He considers the following explanations:
+I. The slippers protect the floor because they slide better and do not scratch like regular shoes.
+II. The slippers protect the floor because they exert less downward force than shoes.
+III. The flash light, upon being absorbed by the painting, may change the color of the paint.
+IV. The flash light, upon being reflected by the painting, may change the color of the paint.
+
+Which of these explanations are physically correct?
+- **A.** I and III
+- **B.** I and IV
+- **C.** II and III
+- **D.** II and IV
+- **E.** All
 
 
 
@@ -427,27 +421,20 @@ Le sentenze vere sono:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question number six. A satellite is in geosynchronous orbit when its orbital period coincides with the
-The rotation period of the Earth. A satellite in geostationary orbit always remains above the
-The same point on the Earth's surface, from the perspective of a fixed observer on Earth.
-On the basis of this information and your knowledge, consider the following sentences:
-I. Satellites in geosynchronous and geostationary orbits have the same orbital period.
-II. A satellite in geostationary orbit must be above the
-Earth's equator.
-The Commission shall adopt implementing acts. Satellites in geosynchronous and geostationary orbits necessarily rotate in the same orbit.
-sense of the Earth's rotation.
-The true sentences are:
-- **A ** None
-- **B.** I e II
-- **C.** I and III
-- **D** II and III
-- **E ** All of them
+Question 6. A satellite is in geosynchronous orbit when its orbital period coincides with the Earth's rotation period. A satellite in geostationary orbit remains always above the same point on the Earth's surface, from the perspective of an observer fixed on Earth.
 
-**Topic:** [[Gravitation]], [[Astrophysics]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1tuCChUoT39JkRPiyTPhLp00GeApqR5Mz/view)
+Based on this information and your knowledge, analyze the following statements:
+
+I. Satellites in geosynchronous and geostationary orbits have the same orbital period.
+II. A satellite in geostationary orbit must necessarily be located above the Earth's Equator.
+III. Satellites in geosynchronous and geostationary orbits necessarily rotate in the same direction as Earth's rotation.
+
+The true statements are:
+- **A.** None
+- **B.** I and II
+- **C.** I and III
+- **D.** II and III
+- **E.** All
 
 
 
@@ -587,31 +574,21 @@ Sono corrette le affermazioni:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question eight.
-The cells in our eyes that allow us to see colors
-They're called cones. A person with normal vision
-It has three types of cones, sensitive to primary colors: red, green and blue.
-Some animals, like the jumping spider, have four.
-I mean, cones. Suppose the spider cones are
-sensitive to colours: red, yellow, green and blue.
+Problem 8.
+The cells in our eyes that allow us to see colors are called cones. A person with normal vision has three types of cones, sensitive to the primary colors: red, green, and blue.
+Some animals, such as the jumping spider, have four types of cones. Suppose the spider's cones are sensitive to the colors: red, yellow, green, and blue.
+
 Consider the following statements:
-I. A beam of pure yellow light (monochromatic) stimulates a single type of cone in the spider
-And two types of cones in a human being.
-II. An object that is seen as black by the spider is also seen as black by a human.
-The Commission shall adopt implementing acts. Two objects that the spider sees as having different colors may look the same color
-to a human being.
-The following statements are correct:
+I. A pure yellow light beam (monochromatic) stimulates a single type of cone in the spider and two types of cones in a human.
+II. An object seen as black by the spider is also seen as black by a human.
+III. Two objects that appear to have different colors to the spider may seem to have the same color to a human.
+
+Which of the following statements are correct?
 - **A.** I
 - **B.** II
-- **C ** III
-- **D** II and III
-- **E ** All of them
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1tuCChUoT39JkRPiyTPhLp00GeApqR5Mz/view)
+- **C.** III
+- **D.** II and III
+- **E.** All
 
 
 
@@ -874,30 +851,24 @@ Sono vere solo le affermazioni:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 12 The principle of impenetrability states that two bodies cannot occupy
-Same space at the same time. However, when mixing two gases or two liquids, this
-mix seems to violate that principle.
-For example, imagine that you add a drop of dye to a glass of water. After
-In a few moments, all the water turns blue.
-Consider the following statements that seek to explain this apparent contradiction:
-I. In gases and liquids, the principle of impenetrability applies at the molecular level. Em
-No moment two molecules occupy the same place at the same time.
-II. Gas and liquid behave like waves and can overlap, not if
-applying the principle of impenetrability.
-The Commission shall adopt implementing acts. Gases and liquids are soft, and their molecules fuse. In this case, water molecules
-Pure and colored are replaced by a new colored water molecule.
-Only the statements are true:
+Question 12. The principle of impenetrability states that two bodies cannot occupy the same space at the same time. However, when mixing two gases or two liquids, this mixture seems to violate that principle.
+
+For example, imagine you add a drop of dye to a cup of water. After some time, the entire water becomes bluish.
+
+Consider the following statements attempting to explain this apparent contradiction:
+
+I. In gases and liquids, the principle of impenetrability applies at the molecular level. At no instant do two molecules occupy the same place simultaneously.
+
+II. Gases and liquids behave like waves and can overlap each other, so the principle of impenetrability does not apply.
+
+III. Gases and liquids are soft, and their molecules merge. In this case, pure water molecules and dye molecules are replaced by a new colored water molecule.
+
+Only the following statements are true:
 - **A.** I
 - **B.** II
-- **C ** III
-- **D.** I e II
-- **E ** I and III
-
-**Topic:** [[Kinetic Theory]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Droplet (object)|Droplet]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1tuCChUoT39JkRPiyTPhLp00GeApqR5Mz/view)
+- **C.** III
+- **D.** I and II
+- **E.** I and III
 
 
 
@@ -962,30 +933,21 @@ Sono vere solo le affermazioni:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question number 13. To ensure more road safety, it is important to control speed
-of the vehicles. One way to do that is by using what are called medium-speed radars.
-These radars operate in pairs: one records the vehicle's passage at the beginning of the stretch, and
-The other one at the end. Then a system calculates how long it took the vehicle to travel
-That distance.
+Problem 13. To ensure greater road safety, it is important to control vehicle speeds. One way of doing this is by using so-called average speed radars.
+
+These radars operate in pairs: one records the vehicle's passage at the beginning of the stretch, and the other at the end. Then, a system calculates how much time the vehicle took to cover this distance.
+
 Consider the following statements:
-I. The average speed is obtained by dividing the distance between the two radars by the time spent
-On the way.
-II. If the average speed exceeds the maximum speed allowed, the driver shall:
-You committed a crime.
-The Commission shall adopt implementing acts. If the average speed is less than the maximum speed allowed, the driver shall:
-It never exceeded the speed limit.
-Only the statements are true:
+I. The average speed is obtained by dividing the distance between the two radars by the time taken for the journey.
+II. If the average speed is greater than the maximum allowed speed, the driver has committed an infraction.
+III. If the average speed is less than the maximum allowed speed, the driver never exceeded the speed limit.
+
+Which of the following statements are true?
 - **A.** I
 - **B.** II
-- **C ** III
-- **D.** I e II
-- **E ** I and III
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1tuCChUoT39JkRPiyTPhLp00GeApqR5Mz/view)
+- **C.** III
+- **D.** I and II
+- **E.** I and III
 
 
 
@@ -1310,31 +1272,19 @@ Sono corrette solo le considerazioni:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question number 17.
-In cities subjected to strong winds or earthquakes, some modern skyscrapers use giant pendulums as a form of protection. These
-heavy pendulums, called tuned-mass shock absorbers, are
-They are attached to the top of buildings and are designed to oscillate in the direction
-contrary to the movement of the building.
-The aim is to reduce the width of the building's oscillations and increase the
-the safety of the people inside it.
-A student makes the following considerations about the functioning of the pendulum:
-I. When oscillating in the opposite direction to the structure of the building, the pendulum absorbs energy from the
-oscillation, decreasing the amplitude of the building's motion.
+Problem 17.
+In cities subject to strong winds or earthquakes, some modern skyscrapers use giant pendulums as a protective measure. These heavy pendulums, known as tuned mass dampers, are attached near the top of buildings and designed to oscillate in the opposite direction to the building's motion.
+The goal is to reduce the amplitude of the building's oscillations and increase safety for people inside.
+A student makes the following observations about how the pendulum works:
+I. By oscillating in the opposite direction to the building's structure, the pendulum absorbs energy from the vibration, reducing the amplitude of the building's motion.
 II. The pendulum oscillates in the direction opposite to that of the wind or seismic wave.
-The Commission shall adopt implementing acts. The damping of the pendulum converts its kinetic energy into thermal energy, which is
-dissolved without compromising the structure of the building.
-Only the following considerations are physically correct:
-- **A ** Only I
+III. The pendulum's damping converts its kinetic energy into thermal energy, which is dissipated without damaging the building's structure.
+Which of these statements are physically correct?
+- **A.** Only I
 - **B.** Only II
 - **C.** Only III
 - **D.** Only I and II
 - **E.** Only I and III
-
-**Topic:** [[Oscillations & Waves]], [[Conservation of Energy]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1tuCChUoT39JkRPiyTPhLp00GeApqR5Mz/view)
 
 
 
@@ -1399,30 +1349,19 @@ Le spiegazioni che sono fisicamente corrette sono:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question number 18.
-In a science class, the professor put together an experiment with a bucket
-tied to a rope that went through a polish, as shown in the figure.
-He then asked the students, "Why is this type of system so widely used?
-to lift loads? What is the function of the polish?
-A student thinks of the following explanations:
-I. The polish system changes the direction of the force required to lift the bucket: instead of
-pull up, you can pull down.
-II. The student can use his own weight as part of the strength needed to lift the
-- You can't.
-The Commission shall adopt implementing acts. The polishing makes the bucket effectively lighter because the traction force required to
-Holding him up is half his weight.
-The explanations that are physically correct are:
-- **A ** only I
-- **B ** only II
+Problem 18.
+In a science class, the teacher set up an experiment with a bucket attached to a rope passing over a pulley, as shown in the figure.
+He then asked the students: "Why is this type of system widely used to lift loads? What is the function of the pulley?"
+A student considers the following explanations:
+I. The pulley system changes the direction of the force required to lift the bucket: instead of pulling upward, one can pull downward.
+II. The student can use their own weight as part of the force needed to lift the bucket.
+III. The pulley effectively makes the bucket lighter, because the tension force required to support it is half its weight.
+The physically correct explanations are:
+- **A.** only I
+- **B.** only II
 - **C.** only III
-- **D** only I and II
+- **D.** only I and II
 - **E.** only I and III
-
-**Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1tuCChUoT39JkRPiyTPhLp00GeApqR5Mz/view)
 
 
 
@@ -1523,58 +1462,30 @@ movimento.
 
 <div class="qlang-split" data-lang="it"></div>
 
-- Quessione 20.
-Dawid Godziek è un noto ciclista di stile libero
-nelle modalità MTB e BMX. Ha accettato la sfida di un produttore di bevande e ha realizzato i suoi
-manovre su una pista di BMX montata lungo
-di un numero di vagoni di un treno in movimento reticolo
-e uniforme. L'impresa è stata filmata da una telecamera
-posta sulla strada, in modo da catturare il movimento
-del treno e dell'atleta.
-In relazione alla telecamera, l'atleta praticamente non si
-si muove in direzione orizzontale.
-Ref:
-La Commissione ha deciso di non intervenire nei confronti di tali persone.
-Considerando i movimenti coinvolti, è corretto affermare che:
-- **A.** Il ciclista deve sviluppare una velocità orizzontale rispetto al treno uguale alla velocità del treno rispetto al suolo, ma in senso opposto.
-- **B.** Il ciclista deve sviluppare una velocità orizzontale rispetto al suolo pari alla velocità del treno rispetto al suolo, ma in senso opposto.
-- **C.** Il ciclista deve sviluppare una velocità orizzontale rispetto al suolo pari a doppio
-la velocità del treno, nel senso opposto.
-(d) Per quanto riguarda il ciclista, né il terreno né la pista si muovono orizzontalmente.
-(e) Il ciclista non ha bisogno di pedalare; le ruote della bicicletta sono spinte dalla pista in
-movimento.
+Quesito 20.
+Dawid Godziek è un noto ciclista di stile libero nelle discipline MTB e BMX. Ha accettato la sfida di un produttore di bevande ed ha eseguito le sue manovre su una pista da BMX montata lungo diversi vagoni di un treno in moto rettilineo e uniforme. L'impresa è stata ripresa da una telecamera posizionata sulla strada, in modo da catturare il movimento del treno e dell'atleta.
+Rispetto alla telecamera, l'atleta praticamente non si muove nella direzione orizzontale.
+ref: https://www.redbull.com/int-en/dawid-godziekinterview-red-bull-bike-express
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1tuCChUoT39JkRPiyTPhLp00GeApqR5Mz/view)
+Considerando i movimenti coinvolti, è corretto affermare che:
+- **A.** Il ciclista deve sviluppare una velocità orizzontale rispetto al treno pari alla velocità del treno rispetto al suolo, ma in senso opposto.
+- **B.** Il ciclista deve sviluppare una velocità orizzontale rispetto al suolo pari alla velocità del treno rispetto al suolo, ma in senso opposto.
+- **C.** Il ciclista deve sviluppare una velocità orizzontale rispetto al suolo pari al doppio della velocità del treno, in senso opposto.
+(d) Rispetto al ciclista, né il suolo né la pista si muovono orizzontalmente.
+(e) Il ciclista non deve pedalare; le ruote della bicicletta sono spinte dalla pista in movimento.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question number 20.
-Dawid Godziek is a well-known freestyle cyclist.
-in the MTB and BMX modes. He accepted the challenge of a beverage manufacturer and carried out his
-Manoeuvres on a BMX track mounted along
-of several railway cars in a straight line
-And uniforms. The feat was captured by a camera.
-placed on the road, so as to capture movement
-The train and the athlete.
-In terms of the camera, the athlete practically does not
-It moves in a horizontal direction.
-ref:
-The Commission has also adopted a number of measures to combat the use of the 'space-specific' technologies.
-In view of the movements involved, it is correct to state that:
-- **A.** The rider must develop a horizontal speed with respect to the train equal to the speed of the train with respect to the ground but in the opposite direction.
-- **B.** The rider must develop a horizontal speed with respect to the ground equal to the speed of the train with respect to the ground but in the opposite direction.
-- **C.** The rider needs to develop a horizontal speed with respect to the ground equal to twice the speed of the rider.
-the speed of the train, in the opposite direction.
-(d) For the rider, neither the ground nor the track move horizontally.
-(e) The rider does not have to pedal; the wheels of the bicycle are driven by the track at
-Move it.
+Problem 20.
+Dawid Godziek is a well-known freestyle cyclist in the MTB and BMX disciplines. He accepted a challenge from a beverage manufacturer and performed his maneuvers on a BMX track built along several wagons of a train moving in a straight line at constant speed. The feat was filmed by a camera placed on the road, capturing both the train's and the athlete's motion.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1tuCChUoT39JkRPiyTPhLp00GeApqR5Mz/view)
+With respect to the camera, the athlete appears almost stationary in the horizontal direction.
+ref: https://www.redbull.com/int-en/dawid-godziekinterview-red-bull-bike-express
+
+Considering the motions involved, which of the following statements is correct?
+
+- **A.** The cyclist must develop a horizontal velocity relative to the train equal in magnitude to the train's velocity relative to the ground, but opposite in direction.
+- **B.** The cyclist must develop a horizontal velocity relative to the ground equal in magnitude to the train's velocity relative to the ground, but opposite in direction.
+- **C.** The cyclist must develop a horizontal velocity relative to the ground equal to twice the train's velocity, in the opposite direction.
+(d) With respect to the cyclist, neither the ground nor the track moves horizontally.
+(e) The cyclist does not need to pedal; the bicycle wheels are driven by the moving track.

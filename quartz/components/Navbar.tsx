@@ -13,7 +13,7 @@ const LINKS: [string, string][] = [
   ["Argomenti", "topics"],
   ["Metodi", "methods"],
   ["Abilità", "skills"],
-  ["Objects", "objects"],
+  ["Oggetti", "objects"],
   ["Prove", "prove"],
   ["Soluzioni", "soluzioni"],
 ]

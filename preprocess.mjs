@@ -13,6 +13,7 @@ import matter from "gray-matter"
 import { stripLocalPdfLinks } from "./scripts/pdf-links.mjs"
 import { addSibling, mergeSiblings, newSiblingStats } from "./scripts/siblings.mjs"
 import { nationInfo } from "./scripts/nation.mjs"
+import { fixCompTitle } from "./scripts/comp-label.mjs"
 
 const NUL = String.fromCharCode(0)
 
@@ -638,6 +639,8 @@ async function main() {
         content = content.replace(/^#\s+.+?[ \t]*(\r?\n|$)/m, "")
       }
     }
+    // full competition name instead of a 6-char cut comp_code ("Svizze 2011")
+    if (data.title && data.comp_code) data.title = fixCompTitle(data.title, data.comp_code, data.country)
     let outContent = transform(content)
     // Big concept lists -> JSON + client pagination (tiny page HTML).
     const topDir = rel.split(path.sep)[0]
@@ -733,6 +736,7 @@ async function main() {
       if (pf.data.title) title = pf.data.title
       const h1 = pf.content.match(/^#\s+(.+?)\s*$/m)
       if (!pf.data.title && h1) title = h1[1].trim()
+      title = fixCompTitle(title, pf.data.comp_code, pf.data.country)
       if (Array.isArray(pf.data.tags)) ptags = pf.data.tags
     }
     const blocks = []
@@ -742,7 +746,7 @@ async function main() {
       // atom title: frontmatter title, else atom body's own H1 (captured before
       // it's stripped below), else fall back to the raw atomId.
       const bodyH1 = pf.content.match(/^#\s+(.+?)\s*$/m)
-      const atomTitle = pf.data.title || (bodyH1 ? bodyH1[1].trim() : a.atomId)
+      const atomTitle = fixCompTitle(pf.data.title || (bodyH1 ? bodyH1[1].trim() : a.atomId), pf.data.comp_code, pf.data.country)
       let body = pf.content.replace(/^#\s+.+?[ \t]*(\r?\n|$)/m, "")   // drop leading H1 (title rendered by marker)
       const bodyForIndex = body   // TEXT body (pre-transform), for keywordCounts -- NOT the emitted HTML
       body = transform(body)
@@ -769,6 +773,11 @@ async function main() {
       )
     }
     const mount = `<div class="atom-reader" data-prova="${esc(stemSlug)}"></div>\n`
+    // parent without comp_code/country: fix its title from the first atom's
+    if (atoms.length && title === fixCompTitle(title, "", "")) {
+      const first = parseFrontmatter(await fs.readFile(vaultPath(atoms[0].rel), "utf8")).data
+      title = fixCompTitle(title, first.comp_code, first.country)
+    }
     const data = { title, tipo: "prova", tags: ptags }
     const body = mount + "\n\n" + blocks.join("\n\n")
     const dest = path.join(CONTENT, "prove", `${stemSlug}.md`)

@@ -1052,4 +1052,3 @@ Carta grafica
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Point Charge (object)|Point Charge]]
 **Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/1TazLsNpSu3l4XuyC9hMCo9QpXYSC-7XO/view)
-

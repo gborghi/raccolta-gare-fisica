@@ -574,4 +574,3 @@ plasma.
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Nucleus (object)|Nucleus]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/18pxJrkjWoou2ORJ0LP598wFRaaDU_1fE/view)
-

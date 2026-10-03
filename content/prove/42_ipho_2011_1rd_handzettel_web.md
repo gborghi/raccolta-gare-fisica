@@ -143,6 +143,7 @@ Indicare quale forma di trasporto del calore alle alte temperature è principalm
 <!--fig:end-->
 
 
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2011 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/disk"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -674,4 +675,3 @@ Leibniz Institute for the Pedagogy of Natural Sciences and Mathematics (Istituto
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1nRI9-48z3AqR2qOM-FrzK0E1IPfnFGxe/view)
-

@@ -15,10 +15,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2025 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
-
-
-
 Come sapete, le Olimpiadi della Fisica rimborsano ai partecipanti il costo dei biglietti ferroviari. Siete alla ricerca di un partner che copra questi costi per il secondo turno. Quanto può aspettarsi di pagare il vostro partner?
 
 - **A.** CHF 9.-
@@ -35,11 +31,8 @@ Come sapete, le Olimpiadi della Fisica rimborsano ai partecipanti il costo dei b
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2025 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Il signor Fogg e Passepartout hanno accettato la sfida di circumnavigare il globo. Scelsero di seguire l'equatore. Il signor Fix, che li inseguiva, si trovava sempre nel punto della Terra diametralmente opposto ai due compagni. Quante volte Fix e Fogg si troveranno alla stessa altitudine nello stesso momento?
 
@@ -55,11 +48,8 @@ Il signor Fogg e Passepartout hanno accettato la sfida di circumnavigare il glob
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2025 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/spring"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Quale delle seguenti configurazioni ha la più bassa costante elastica equivalente $k_{\text{eq}}$? Tutte le singole molle hanno la stessa costante elastica $k$ e la stessa lunghezza.
 
@@ -80,11 +70,8 @@ Quale delle seguenti configurazioni ha la più bassa costante elastica equivalen
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2025 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/spring,object/satellite"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Globi ha deciso di volare sulla luna. Vorrebbe andare a trovare gli extraterrestri che si suppone vivano sulla luna. Poiché naturalmente non vuole arrivare senza nulla, ha deciso di portare con sé una forma di formaggio svizzero. Poiché vuole dividerlo equamente, porta con sé anche una bilancia a molla. Le bilance sono calibrate sulla Terra e la costante gravitazionale sulla Luna è circa sei volte più piccola che sulla Terra. Cosa scopre quando pesa la forma di formaggio sulla Luna?
 
@@ -100,11 +87,8 @@ Globi ha deciso di volare sulla luna. Vorrebbe andare a trovare gli extraterrest
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2025 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Siete in spedizione su un sottomarino sulla luna di Saturno Titano, che ha laghi di etano e metano liquidi. Hanno una densità di circa $500\,\text{g}\cdot\text{L}^{-1}$ e Titano ha un'accelerazione gravitazionale di $1.35\,\text{m}\cdot\text{s}^{-2}$. Si sa che Titano ha una pressione superficiale di $1.5\,\text{bar}$ ($1\,\text{bar}=1\times10^5\,\text{Pa}$). Il barometro del vostro sottomarino mostra una pressione di $3\,\text{bar}$. A che profondità siete nel lago?
 
@@ -122,11 +106,8 @@ Siete in spedizione su un sottomarino sulla luna di Saturno Titano, che ha laghi
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2025 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Una noce di cocco con velocità costante esplode e si divide in 3 pezzi che volano via in direzioni diverse. Quale delle seguenti affermazioni è corretta per i rispettivi vettori quantità di moto nel quadro di riferimento della noce di cocco?
 
@@ -142,11 +123,8 @@ Una noce di cocco con velocità costante esplode e si divide in 3 pezzi che vola
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2025 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/wheel"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Una moto si trova in un salto a mezz'aria e la sua ruota anteriore sta girando in senso orario dal punto di vista di Alice, che osserva da un lato. Inizialmente la moto non sta ruotando e l'asse della ruota anteriore è allineato con quello della ruota posteriore. Quale delle seguenti affermazioni descrive ciò che accade e perché accade quando il conducente preme il freno sulla ruota anteriore (e la ruota smette completamente di ruotare rispetto alla moto)?
 
@@ -164,11 +142,8 @@ Una moto si trova in un salto a mezz'aria e la sua ruota anteriore sta girando i
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2025 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Come abbiamo imparato nel primo round, una persona di altezza $h$ ha solo bisogno di uno specchio di altezza $h/2$ per vedersi completamente. Come deve essere appeso lo specchio affinché possa effettivamente vedersi?
 
@@ -184,11 +159,8 @@ Come abbiamo imparato nel primo round, una persona di altezza $h$ ha solo bisogn
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2025 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/lens"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Una sottile lente convessa è mostrata in figura. La distanza dell'oggetto dalla lente e della sua immagine dalla lente è contrassegnata rispettivamente da $g$ e $b$. La lunghezza focale è indicata con $f$. A quale distanza dalla lente deve essere posto un oggetto affinché l'immagine abbia esattamente le stesse dimensioni dall'altra parte della lente?
 
@@ -209,11 +181,8 @@ Una sottile lente convessa è mostrata in figura. La distanza dell'oggetto dalla
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q10" data-atom="q10" data-title="Svizze 2025 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/slit"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Data una fenditura unidimensionale di larghezza $l=3\,\text{mm}$, qual è la minima separazione angolare in arcosecondi tra due luci di lunghezza d'onda $\lambda=500\,\text{nm}$, in modo che possano essere risolte attraverso la fenditura?
 
@@ -229,11 +198,8 @@ Data una fenditura unidimensionale di larghezza $l=3\,\text{mm}$, qual è la min
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q11" data-atom="q11" data-title="Svizze 2025 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/heat-engine"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 È fisicamente possibile un motore termico che opera tra due serbatoi termici a temperature $T_1=0\,°\text{C}$ e $T_2=100\,°\text{C}$ con un'efficienza di $30\%$?
 
@@ -249,11 +215,8 @@ Data una fenditura unidimensionale di larghezza $l=3\,\text{mm}$, qual è la min
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q12" data-atom="q12" data-title="Svizze 2025 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Alice usa un cubetto di ghiaccio per raffreddare il suo bicchiere d'acqua. Subito dopo aver aggiunto il cubetto di ghiaccio, l'altezza dell'acqua nel bicchiere è $h_1$. Dopo un po', il cubetto di ghiaccio si è completamente sciolto. Cosa si può dire dell'altezza dell'acqua $h_2$ a questo punto?
 
@@ -269,11 +232,8 @@ Alice usa un cubetto di ghiaccio per raffreddare il suo bicchiere d'acqua. Subit
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q13" data-atom="q13" data-title="Svizze 2025 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Gli pneumatici svolgono un ruolo essenziale in Formula 1. La pressione degli pneumatici deve quindi essere ottimale. Vogliamo gonfiare uno pneumatico in modo da poter guidare a una pressione di $21\,\text{psi}$, dove $1\,\text{psi}$ corrisponde approssimativamente a $0.07\,\text{bar}$. Guidando, si raggiunge una temperatura del pneumatico di $90\,°\text{C}$ e la pressione del pneumatico di $21\,\text{psi}$ è prevista per questa temperatura. A quale pressione dobbiamo gonfiare lo pneumatico nella corsia dei box a una temperatura di $35\,°\text{C}$? Supponiamo che il volume sia costante.
 
@@ -291,11 +251,8 @@ Gli pneumatici svolgono un ruolo essenziale in Formula 1. La pressione degli pne
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q14" data-atom="q14" data-title="Svizze 2025 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container,object/gas"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Una candela accesa si trova in una bacinella riempita d'acqua fino a metà dell'altezza della candela. Albertina mette un bicchiere sopra la candela in modo che il bicchiere sia immerso nell'acqua. La candela si spegne. Cosa succede al livello dell'acqua all'interno del bicchiere?
 
@@ -311,11 +268,8 @@ Una candela accesa si trova in una bacinella riempita d'acqua fino a metà dell'
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q15" data-atom="q15" data-title="Svizze 2025 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Osservate il circuito in figura. Attraverso quali resistenze passa la corrente più piccola (il valore più basso di ampere) se tutte hanno la stessa resistenza $R$?
 
@@ -336,11 +290,8 @@ Osservate il circuito in figura. Attraverso quali resistenze passa la corrente p
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q16" data-atom="q16" data-title="Svizze 2025 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 In quale situazione è maggiore il rischio di essere colpiti e feriti da un fulmine?
 
@@ -356,11 +307,8 @@ In quale situazione è maggiore il rischio di essere colpiti e feriti da un fulm
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q17" data-atom="q17" data-title="Svizze 2025 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 La velocità di fuga della Terra per una particella di massa $m=1\,\text{kg}$ e carica $q=1\,\text{C}$ è circa $11.18\,\text{km}\cdot\text{s}^{-1}$. Quale sarebbe se la Terra avesse una carica totale di $Q=-44.3\,\text{kC}$? La massa della Terra è $M=5.97\times10^{24}\,\text{kg}$, il suo raggio è $R=6371\,\text{km}$, la costante di Coulomb è $\frac{1}{4\pi\varepsilon_0}=8.99\times10^9\,\text{kg}\cdot\text{m}^3\cdot\text{s}^{-2}\cdot\text{C}^{-2}$ e la costante gravitazionale è $G=6.67\times10^{-11}\,\text{m}^3\cdot\text{kg}^{-1}\cdot\text{s}^{-2}$.
 
@@ -376,11 +324,8 @@ La velocità di fuga della Terra per una particella di massa $m=1\,\text{kg}$ e 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q18" data-atom="q18" data-title="Svizze 2025 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/sphere,object/conducting-sphere"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Consideriamo due sfere, ciascuna con la stessa carica totale $q$. Una sfera è uniformemente carica in tutto il suo volume, mentre l'altra è una sfera conduttrice con la carica distribuita solo sulla sua superficie. Le sfere possono avere raggi diversi. Determinare quale sfera produce un campo elettrico più forte a una distanza $d$ dal centro della sfera, dove $d > R$ (il raggio della sfera).
 
@@ -397,11 +342,8 @@ Consideriamo due sfere, ciascuna con la stessa carica totale $q$. Una sfera è u
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q19" data-atom="q19" data-title="Svizze 2025 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 La chef Clara vuole riscaldare il cibo il più rapidamente possibile. Decide di utilizzare il suo piano cottura a induzione, che genera un campo magnetico mutevole per indurre correnti nelle pentole di metallo. Cosa le consigliereste?
 
@@ -417,11 +359,8 @@ La chef Clara vuole riscaldare il cibo il più rapidamente possibile. Decide di 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q20" data-atom="q20" data-title="Svizze 2025 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 È noto che è possibile rompere un bicchiere di vino con il giusto suono. Cosa succede al suono necessario per rompere il bicchiere se lo riempiamo parzialmente d'acqua?
 
@@ -437,11 +376,8 @@ La chef Clara vuole riscaldare il cibo il più rapidamente possibile. Decide di 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q21" data-atom="q21" data-title="Svizze 2025 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 L'immagine mostra un'onda stazionaria su una corda tra due pareti al tempo $t=0\,\text{s}$. La corda vibra a una frequenza di $100\,\text{Hz}$. Quale delle seguenti immagini mostra lo stato della corda al tempo $t=10\,\text{ms}$?
 
@@ -462,11 +398,8 @@ L'immagine mostra un'onda stazionaria su una corda tra due pareti al tempo $t=0\
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q22" data-atom="q22" data-title="Svizze 2025 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container,object/rope-string,object/cylinder"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Problema lungo 2.1: Ascensore per barche Strépy-Thieu (16 punti)**
 
@@ -517,11 +450,8 @@ iii. (1.5 pt) Calcolare la potenza media necessaria durante la fase di acceleraz
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q23" data-atom="q23" data-title="Svizze 2025 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor,object/mirror"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Problema lungo 2.2: Cristalli liquidi (16 punti)**
 
@@ -585,11 +515,8 @@ ii. (1 pt) Qual è il valore della frazione $\dfrac{V_1}{V_2}$?
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
+
 <span class="atom-split" id="q24" data-atom="q24" data-title="Svizze 2025 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor,object/galvanometer,object/capacitor"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Problema lungo 2.3: Voltmetro (16 punti)**
 
@@ -654,5 +581,3 @@ v. (0.5 pt) Calcolare ora l'angolo di deviazione per i seguenti valori:
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Galvanometer (object)|Galvanometer]], [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
-
-

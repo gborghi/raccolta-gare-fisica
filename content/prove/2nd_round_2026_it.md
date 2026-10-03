@@ -15,10 +15,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2026 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
-
-
-
 **Domanda 1.1 (MC)**
 
 Stimare quanti litri d'acqua cadono ogni anno dalle cascate del Reno.
@@ -35,11 +31,8 @@ Stimare quanti litri d'acqua cadono ogni anno dalle cascate del Reno.
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2026 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 1.2 (MC)**
 
@@ -57,11 +50,8 @@ Tre oggetti celesti approssimati come masse puntiformi con le masse $m_1$, $m_2$
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2026 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 1.3 (MC)**
 
@@ -79,11 +69,8 @@ Due specchi semitrasparenti, ciascuno dei quali riflette il 75% della luce incid
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2026 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 1.4 (MC)**
 
@@ -105,11 +92,8 @@ Una particella si muove in modo casuale tra le tre posizioni A, B e C. Da un pas
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2026 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 1.5 (MC)**
 
@@ -127,11 +111,8 @@ Una lavatrice ruota a 1500 giri al minuto. Non appena viene spenta, frena con un
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2026 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pendulum"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 1.6 (MC)**
 
@@ -148,11 +129,8 @@ Un pendolo è sospeso al soffitto di un ascensore. Quando l'ascensore inizia ad 
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2026 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 1.7 (MC)**
 
@@ -178,11 +156,8 @@ Quali informazioni utilizza il powermeter per calcolare la potenza di Remco?
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2026 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/beam,object/lever"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 1.8 (MC)**
 
@@ -204,11 +179,8 @@ Osservate la bilancia a trave qui sotto. Che cosa mostra la bilancia quando il p
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2026 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 1.9 (MC)**
 
@@ -227,11 +199,8 @@ Alice sale e scende dal Monte Bianco, salendo $h = 4806$ m sul livello del mare.
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q10" data-atom="q10" data-title="Svizze 2026 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/atom,object/electron"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 1.10 (MC)**
 
@@ -249,11 +218,8 @@ Quando un elettrone in un atomo eccitato effettua una transizione da un livello 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q11" data-atom="q11" data-title="Svizze 2026 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 1.11 (MC)**
 
@@ -274,11 +240,8 @@ Perché il cielo appare blu durante il giorno?
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q12" data-atom="q12" data-title="Svizze 2026 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 1.12 (MC)**
 
@@ -295,11 +258,8 @@ Un ghiacciaio si muove a velocità costante sulla sua base. Consideriamo una las
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q13" data-atom="q13" data-title="Svizze 2026 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 1.13 (MC)**
 
@@ -322,11 +282,8 @@ Vi ricordate i miei avanzi del primo turno? Non importa se non li ricordate. Li 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q14" data-atom="q14" data-title="Svizze 2026 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 1.14 (MC)**
 
@@ -346,11 +303,8 @@ $$U(T) = 3N\hbar\omega_E \left(\frac{1}{2} + \frac{1}{\exp\!\left(\dfrac{\hbar\o
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q15" data-atom="q15" data-title="Svizze 2026 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/wire"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 1.15 (MC)**
 
@@ -368,11 +322,8 @@ Quale corrente scorrerà attraverso una linea elettrica aerea se viene applicata
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q16" data-atom="q16" data-title="Svizze 2026 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 1.16 (MC)**
 
@@ -395,11 +346,8 @@ Quale forza agisce sulla carica $Q$ quando una delle cariche $q$ viene rimossa d
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q17" data-atom="q17" data-title="Svizze 2026 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge,object/capacitor"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 1.17 (MC)**
 
@@ -418,11 +366,8 @@ Una particella con massa $m = 3 \times 10^{-15}\,\text{kg}$ e carica $q = e$ ent
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q18" data-atom="q18" data-title="Svizze 2026 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 1.18 (MC)**
 
@@ -447,11 +392,8 @@ III: Un potenziale elettrico maggiore significa un campo elettrico più intenso.
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q19" data-atom="q19" data-title="Svizze 2026 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 1.19 (MC)**
 
@@ -470,11 +412,8 @@ Una particella carica con massa $m$ e carica $q$ si trova su un percorso circola
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q20" data-atom="q20" data-title="Svizze 2026 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pulley,object/rope-string"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 1.20 (MC)**
 
@@ -494,11 +433,8 @@ Nel parco avventura, Emmy corre da un albero all'altro su una teleferica. Il con
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q21" data-atom="q21" data-title="Svizze 2026 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pipe-tube"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 1.21 (MC)**
 
@@ -516,11 +452,8 @@ Tre frequenze risonanti consecutive di una canna d'organo hanno i valori 1310 Hz
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q22" data-atom="q22" data-title="Svizze 2026 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pendulum,object/rod"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 1.22 (MC)**
 
@@ -540,11 +473,8 @@ Sono dati un pendolo ideale a filo e un'asta omogenea vincolata a ruotare a un'e
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q23" data-atom="q23" data-title="Svizze 2026 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk,object/droplet"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Problema lungo 2.1: Riflessioni su un ombrello** (16 punti)
 
@@ -597,11 +527,8 @@ i. (1,5 pt) Calcolare quanto lontano dall'ombrello schizza l'acqua quando esso r
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q24" data-atom="q24" data-title="Svizze 2026 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Problema lungo 2.2: Miraggio inferiore** (16 punti)
 
@@ -655,11 +582,8 @@ iv. (1,5 pt) Disegnare qualitativamente la temperatura $T(y)$ in funzione dell'a
 **Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
+
 <span class="atom-split" id="q25" data-atom="q25" data-title="Svizze 2026 — Quesito 25" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/magnetic-dipole"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Problema lungo 2.3: Cristallo paramagnetico** (16 punti)
 
@@ -736,5 +660,3 @@ Per $-1 < x < 1$: $\tanh\!\left(\tfrac{1}{2}\ln\dfrac{1-x}{1+x}\right) = -x$
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Magnetic Dipole (object)|Magnetic Dipole]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
-
-

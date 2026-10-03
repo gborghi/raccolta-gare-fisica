@@ -502,5 +502,3 @@ Lloyd Gymnasium
 Grazer Str. 61
 27568 Bremerhaven
 Pweinhold@t-online.de
-
-

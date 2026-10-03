@@ -733,4 +733,3 @@ Informazioni sui quattro round di selezione per il 45° IPhO 2014
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zH1cZd9q0ws3fZIODZ3wX6DO8FWbCcIu/view)
-

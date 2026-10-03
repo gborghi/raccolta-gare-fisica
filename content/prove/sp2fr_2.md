@@ -1,19 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2000 — Sperimentale — Problema 2 (fr)
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="sp2fr_2"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/order-of-magnitude-estimation,object/inclined-plane,object/magnet"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2000 — Sperimentale — Problema 2 (fr) — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/order-of-magnitude-estimation,object/inclined-plane,object/magnet"></span>
 
 **IPhO 2000**
 
@@ -36,5 +34,3 @@ Relazione tra dk e v e
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Magnet (object)|Magnet]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1bySeNFc_fkX-4MG4g3chC6v9wuIABrCS/view)
-
-

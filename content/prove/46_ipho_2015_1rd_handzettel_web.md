@@ -59,6 +59,7 @@ Si trascurino gli effetti dell’attrito e le dimensioni dell’auto da gioco.
 <!--fig:end-->
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2015 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/resistor,object/battery,object/star,object/planet,object/ball,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -222,4 +223,3 @@ The figure is available in higher resolution sul sito IPhO.
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Lens (object)|Lens]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1KIJp1fefY0u29isN5rdkMNs-TtLpA4QV/view)
-

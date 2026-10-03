@@ -11,10 +11,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2018 '' — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/wire,object/slit"></span>
 
-<div class="qlang-switch" data-default="it"></div>
-
-
-
 **Esercizio 1: Determinazione del diametro del filo di tungsteno (totale 9 punti)**
 
 Determina in modo più accurato possibile il diametro $d$ del filo di tungsteno con l'ausilio del laser (suggerimento: la diffrazione). Schizza in modo accurato la costruzione di tale esperimento (incluse le specifiche). Descrivi inoltre come vengono misurate le grandezze, e che leggi fisiche vengono applicate. Determina inoltre l'incertezza del risultato. Quale misura è la principale causa di incertezza?
@@ -28,11 +24,8 @@ Determina in modo più accurato possibile il diametro $d$ del filo di tungsteno 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1wbAScsKOe4ZIMxK1dwbK2iNB77XBmRUX/view)
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2018 '' — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/wire,object/resistor"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Esercizio 2: Determinare la resistenza del filamento a freddo (totale 10 punti)**
 
@@ -47,11 +40,8 @@ Determina in modo più accurato possibile la resistenza del filamento nella lamp
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1wbAScsKOe4ZIMxK1dwbK2iNB77XBmRUX/view)
 
 
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2018 '' — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/wire,object/resistor"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Esercizio 3: Caratterizzazione del rapporto corrente-tensione per il filamento (totale 12 punti)**
 
@@ -66,11 +56,8 @@ Esegui delle misure con lo scopo di disegnare la curva caratteristica per il rap
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1wbAScsKOe4ZIMxK1dwbK2iNB77XBmRUX/view)
 
 
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2018 '' — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/wire"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Esercizio 4: Determinazione dell'emissività del filamento (totale 17 punti)**
 
@@ -85,5 +72,3 @@ Usa le misure precedenti per determinare l'emissività $k$ del filamento nella l
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1wbAScsKOe4ZIMxK1dwbK2iNB77XBmRUX/view)
-
-

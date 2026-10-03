@@ -15,10 +15,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2011 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk,object/rod,object/rope-string"></span>
 
-<div class="qlang-switch" data-default="it"></div>
-
-
-
 **A1 (12 punti)**
 
 Determinate il momento d'inerzia del disco di legno con i materiali a disposizione.
@@ -43,11 +39,8 @@ Riguardo alla precisione, potete decidere se stimare l'errore, calcolarlo o misu
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/16bKzwPkt-xZU5c_aZ6uzUQVpaBK4935s/view)
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2011 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **A2 (3 punti)**
 
@@ -64,11 +57,8 @@ Confermate o contraddite tale asserzione sperimentalmente.
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/16bKzwPkt-xZU5c_aZ6uzUQVpaBK4935s/view)
 
 
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2011 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **A3 (1 punto)**
 
@@ -79,5 +69,3 @@ Quale passo è secondo voi il più impreciso (secondo l'errore relativo)? Spiega
 **Competenze:** [[Error Propagation (competenza)|Error Propagation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Disk (object)|Disk]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/16bKzwPkt-xZU5c_aZ6uzUQVpaBK4935s/view)
-
-

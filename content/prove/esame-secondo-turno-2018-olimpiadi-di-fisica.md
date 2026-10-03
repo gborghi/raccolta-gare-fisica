@@ -15,10 +15,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2018 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
 
-<div class="qlang-switch" data-default="it"></div>
-
-
-
 Lanciamo una palla verticalmente verso l'alto. Quale grafico rappresenta meglio l'evoluzione dell'energia cinetica della palla nel corso del tempo?
 
 - **A.** grafico a forma di V (energia cinetica diminuisce linearmente a zero poi risale linearmente)
@@ -38,11 +34,8 @@ Lanciamo una palla verticalmente verso l'alto. Quale grafico rappresenta meglio 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2018 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pendulum,object/rope-string,object/ball"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Una palla è tenuta a riposo nella posizione A da due corde che sono molto leggere. Tagliamo la corda orizzontale, in modo che la palla oscilla come un pendolo. La posizione B rappresenta la distanza massima raggiunta da questa palla, opposta al punto A.
 
@@ -61,11 +54,8 @@ Qual'è la relazione tra la forza di tensione nella corda del pendolo nella posi
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2018 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/block,object/inclined-plane"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Un blocco di massa $m = 10\,\mathrm{kg}$ è posto su un piano inclinato con un angolo di $30^\circ$ rispetto all'orizzontale. Questo blocco viene lanciato verso la cima del piano con una velocità iniziale $v = 14\,\mathrm{m\cdot s^{-1}}$. La forza di attrito risultante è di $20\,\mathrm{N}$. Dopo quanto tempo il blocco tornerà alla sua posizione iniziale?
 
@@ -83,11 +73,8 @@ Un blocco di massa $m = 10\,\mathrm{kg}$ è posto su un piano inclinato con un a
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2018 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Consideriamo una velocità $v$, una massa $M$ e una lunghezza $L$. Le unità $v^\alpha M^\beta L^\gamma$ sono quelle di una pressione per che valori degli esponenti?
 
@@ -105,11 +92,8 @@ Consideriamo una velocità $v$, una massa $M$ e una lunghezza $L$. Le unità $v^
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2018 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Due biglie di massa $m$ e $2m$ subiscono una collisione elastica. Prima della collisione, la biglia di massa $2m$ è a riposo, mentre la biglia di massa $m$ si sposta verso destra con una velocità $v$. Quali sono le velocità dopo la collisione?
 
@@ -126,11 +110,8 @@ Due biglie di massa $m$ e $2m$ subiscono una collisione elastica. Prima della co
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2018 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Ogni primo mercoledì di febbraio in Svizzera viene effettuato un test di allarme in tutto il paese. L'allarme dell'acqua consiste per esempio da una successione di 12 suoni da 20 secondi, emessi ad una frequenza di 200 Hz. Un automobilista alla guida sente questo allarme, ma a una frequenza di 215 Hz. A quale velocità si muove l'automobilista? Consideriamo la velocità del suono $340\,\mathrm{m\cdot s^{-1}}$.
 
@@ -148,11 +129,8 @@ Ogni primo mercoledì di febbraio in Svizzera viene effettuato un test di allarm
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2018 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/block"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Possediamo tre blocchi aventi ciascuno una massa di 100 g: un blocco di ferro (calore specifico $c_{\mathrm{Fe}} = 460\,\mathrm{J\cdot K^{-1}\cdot kg^{-1}}$), un blocco di alluminio (calore specifico $c_{\mathrm{Al}} = 870\,\mathrm{J\cdot K^{-1}\cdot kg^{-1}}$) e un blocco in cartone (calore specifico $c_c = 1340\,\mathrm{J\cdot K^{-1}\cdot kg^{-1}}$). Questi tre blocchi hanno una temperatura iniziale di $20\,^\circ\mathrm{C}$. Ora li mettiamo in un frigorifero avente una temperatura di $3\,^\circ\mathrm{C}$ per 12 h. Cosa possiamo dire sulla relazione tra la temperatura dei blocchi?
 
@@ -170,11 +148,8 @@ Possediamo tre blocchi aventi ciascuno una massa di 100 g: un blocco di ferro (c
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2018 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/heat-engine,object/gas"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Due macchine termiche A e B hanno dei cicli $p$-$V$ come indicato negli schemi sottostanti. Entrambe le macchine lavorano con l'azoto come gas (che è considerato un gas perfetto). Quale affermazione è falsa?
 
@@ -196,11 +171,8 @@ Due macchine termiche A e B hanno dei cicli $p$-$V$ come indicato negli schemi s
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2018 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Per un gas perfetto, quale espressione vale
 $$\frac{\partial p}{\partial V} \cdot \frac{\partial V}{\partial T} \cdot \frac{\partial T}{\partial p}\;?$$
@@ -219,11 +191,8 @@ $$\frac{\partial p}{\partial V} \cdot \frac{\partial V}{\partial T} \cdot \frac{
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q10" data-atom="q10" data-title="Svizze 2018 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/star"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Considera due stelle A e B. Il raggio della stella A è il doppio di quello della stella B. Inoltre, la temperatura sulla superficie della stella A è anche il doppio della temperatura sulla superficie della stella B. Qual è il rapporto $P_A/P_B$ tra le potenze totali della radiazione di A e B?
 
@@ -240,11 +209,8 @@ Considera due stelle A e B. Il raggio della stella A è il doppio di quello dell
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q11" data-atom="q11" data-title="Svizze 2018 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Nel 1883 l'esplosione del vulcano Krakatoa (Indonesia) fu così grande che fu possibile rilevare l'onda d'urto in tutto il pianeta! Dopo quanti secondi un abitante di Bogotà, agli antipodi dell'Indonesia, ha "sentito" l'eruzione?
 
@@ -262,11 +228,8 @@ Nel 1883 l'esplosione del vulcano Krakatoa (Indonesia) fu così grande che fu po
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q12" data-atom="q12" data-title="Svizze 2018 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Due corde di pianoforte identiche, di lunghezza $L$, sono accordate a 440 Hz. Riduciamo leggermente la lunghezza di una corda, del 0.5%, ma manteniamo la sua tensione iniziale. Eccitiamo le due corde alla loro frequenza fondamentale. Qual'è la frequenza di battimento?
 
@@ -284,11 +247,8 @@ Due corde di pianoforte identiche, di lunghezza $L$, sono accordate a 440 Hz. Ri
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q13" data-atom="q13" data-title="Svizze 2018 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 L'indice di rifrazione del mezzo 1 è $n_1 = 1.0$. Qual'è l'indice di rifrazione $n_3$ del mezzo 3?
 
@@ -310,11 +270,8 @@ L'indice di rifrazione del mezzo 1 è $n_1 = 1.0$. Qual'è l'indice di rifrazion
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q14" data-atom="q14" data-title="Svizze 2018 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/lens"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Un fascio parallelo raggiunge una lente convessa avente una distanza focale di 15 cm. A quale distanza da questa prima lente bisogna posizionare una seconda lente con distanza focale 5 cm affinché i raggi risultanti siano di nuovo paralleli?
 
@@ -331,11 +288,8 @@ Un fascio parallelo raggiunge una lente convessa avente una distanza focale di 1
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q15" data-atom="q15" data-title="Svizze 2018 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/nucleus"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Dopo 168 s l'attività di un elemento radioattivo è solo $1/8$ del suo valore iniziale. Qual'è il tempo di dimezzamento di questo elemento?
 
@@ -353,11 +307,8 @@ Dopo 168 s l'attività di un elemento radioattivo è solo $1/8$ del suo valore i
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q16" data-atom="q16" data-title="Svizze 2018 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor,object/battery"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Si consideri il circuito seguente. La corrente totale nel circuito è di 3 A. La resistenza interna della sorgente di tensione è considerata trascurabile. La resistenza $R$ è:
 
@@ -369,6 +320,8 @@ Si consideri il circuito seguente. La corrente totale nel circuito è di 3 A. La
 
 <!--fig:start-->
 ![[_attachments/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica_p8_f4.png]]
+
+
 *Schema circuito con resistenze e sorgente*
 <!--fig:end-->
 
@@ -379,11 +332,8 @@ Si consideri il circuito seguente. La corrente totale nel circuito è di 3 A. La
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q17" data-atom="q17" data-title="Svizze 2018 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor,object/battery"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Su due lampadine A e B si trovano le indicazioni 6 V/0.3 A, rispettivamente 60 W/230 V. Le connettiamo in serie a una sorgente di tensione 230 V. Che cosa succede?
 
@@ -399,11 +349,8 @@ Su due lampadine A e B si trovano le indicazioni 6 V/0.3 A, rispettivamente 60 W
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q18" data-atom="q18" data-title="Svizze 2018 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Un condensatore da $3.0\,\mu\mathrm{F}$ è collegato in serie con uno da $6.0\,\mu\mathrm{F}$. Se si applica una differenza di potenziale di 300 V al blocco formato dai due condensatori, qual è l'energia totale immagazzinata?
 
@@ -420,11 +367,8 @@ Un condensatore da $3.0\,\mu\mathrm{F}$ è collegato in serie con uno da $6.0\,\
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q19" data-atom="q19" data-title="Svizze 2018 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/electron"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Un elettrone inizialmente a riposo viene accelerato ad una distanza $d$ da una tensione elettrica di $U$. La sua velocità finale è $v$. Ripetiamo l'esperimento, ma questa volta con una tensione di $4U$. Qual'è la nuova velocità finale dell'elettrone?
 
@@ -442,11 +386,8 @@ Un elettrone inizialmente a riposo viene accelerato ad una distanza $d$ da una t
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q20" data-atom="q20" data-title="Svizze 2018 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Una massa puntiforme $m$ di carica $q$ si muove in un campo magnetico $\vec{B}_1$, con una quantità di moto $\vec{p}_1$ perpendicolare al campo magnetico. Descrive quindi un cerchio di raggio $r_1$. Una seconda massa puntiforme $m$ della stessa carica $q$ si posiziona dentro un altro campo magnetico $\vec{B}_2$, ma questa volta con una quantità di moto $\vec{p}_2 = 3\vec{p}_1$ (e quindi abbiamo $\vec{p}_2 \perp \vec{B}_2$). Quale dovrebbe essere la norma $B_2$ del campo magnetico in modo tale che il raggio della traiettoria sia di nuovo $r_1$?
 
@@ -464,11 +405,8 @@ Una massa puntiforme $m$ di carica $q$ si muove in un campo magnetico $\vec{B}_1
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q21" data-atom="q21" data-title="Svizze 2018 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Si consideri un punto P situato al bordo di una strada. All'istante $t = 0$ il punto P si trova all'origine del sistema di riferimento. La strada si sposta verso destra con una velocità costante verso destra e parallela all'asse $x$ (vedi schema). Qual'è la traiettoria del punto P?
 
@@ -489,11 +427,8 @@ Si consideri un punto P situato al bordo di una strada. All'istante $t = 0$ il p
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q22" data-atom="q22" data-title="Svizze 2018 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Si considerino due vettori $\vec{a}, \vec{b} \in \mathbb{R}^3$ e si definisca $\vec{c} = \vec{a} \times \vec{b}$. Tra le cinque affermazioni seguenti:
 
@@ -519,11 +454,8 @@ quali sono sempre corrette?
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q23" data-atom="q23" data-title="Svizze 2018 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pipe-tube,object/tank-container,object/gas,object/manometer"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Esercizio 1: Che pressione! (16 punti)**
 
@@ -565,6 +497,8 @@ iv. (6 pt) Determinare algebricamente le variazioni $\Delta l_1$ e $\Delta l_2$ 
 
 <!--fig:start-->
 ![[_attachments/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica_p12_f6.png]]
+
+
 *Fig. 1 tubo barometro verticale aperto e chiuso*
 <!--fig:end-->
 <!--fig:start-->
@@ -579,11 +513,8 @@ iv. (6 pt) Determinare algebricamente le variazioni $\Delta l_1$ e $\Delta l_2$ 
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q24" data-atom="q24" data-title="Svizze 2018 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/cylinder,object/block,object/inclined-plane"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Esercizio 2: Sistema trasportatore a rulli (16 punti)**
 
@@ -621,11 +552,8 @@ vi. (2 pt) Tracciare un grafico che esprima l'andamento temporale della velocit�
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
+
 <span class="atom-split" id="q25" data-atom="q25" data-title="Svizze 2018 — Quesito 25" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor,object/conducting-sphere,object/pendulum,object/rope-string"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Esercizio 3: Pendolo Elettrico (16 punti)**
 
@@ -675,5 +603,3 @@ ii. (6 pt) Per quale frequenza angolare $\omega$ la sfera riesce a fuoriuscire d
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Capacitor (object)|Capacitor]], [[Conducting Sphere (object)|Conducting Sphere]], [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
-
-

@@ -1,19 +1,17 @@
 ---
-title: OII 2018 Sperimentale
+title: IPhO 2018 — Sperimentale — E2
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="se2-ipho2018"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2018 Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/elasticity-e-materials,topic/wave-optics,topic/oscillations-e-waves,argomento/ottica,object/rope-string,object/mirror"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2018 — Sperimentale — E2 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/elasticity-e-materials,topic/wave-optics,topic/oscillations-e-waves,argomento/ottica,object/rope-string,object/mirror"></span>
 
 Confidential
 Solutions to Experimental Problem 2
@@ -515,5 +513,3 @@ $\ln y$
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
 **Objects:** [[Rope/String (object)|Rope/String]], [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/12ovL6DVRsA9uKDwa1Eapy7hyKpz05Zj6/view)
-
-

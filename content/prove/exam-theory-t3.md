@@ -1,19 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2024 — Teorica — T3
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="exam-theory-t3"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/astrophysics,topic/gravitation,topic/thermodynamics,argomento/meccanica,object/star"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2024 — Teorica — T3 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/astrophysics,topic/gravitation,topic/thermodynamics,argomento/meccanica,object/star"></span>
 
 Black Widow Pulsar
 
@@ -172,5 +170,3 @@ angular frequency of the star.
 **Objects:** [[Star (object)|Star]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1hEwdH675Uzf7fRvwV-givpqu_mVfYkh-/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/16il1lSEyRaHe7Leh01FP_4NqeWr2YAv_/view)
-
-

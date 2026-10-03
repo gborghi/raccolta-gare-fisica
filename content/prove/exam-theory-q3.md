@@ -1,19 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2025 — Teorica — Q3
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="exam-theory-q3"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/fluid-mechanics,topic/thermodynamics,topic/oscillations-e-waves,argomento/meccanica,object/bubble,object/tank-container"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2025 — Teorica — Q3 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/fluid-mechanics,topic/thermodynamics,topic/oscillations-e-waves,argomento/meccanica,object/bubble,object/tank-container"></span>
 
 1. A glass filled with champagne.
 
@@ -191,11 +189,8 @@ Give the numerical value $T_f$ of the CO2 gas at the end of the expansion, af
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HENXB2FVaGcLTN46WfrSwZAnBwO-sMEJ/view)
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/meccanica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2025 — Teorica — Q3 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/meccanica"></span>
 
 2. At $T_0 = 6\ ^\circ\text{C}$ a blue fog appears while opening the bottle.
 
@@ -207,11 +202,8 @@ Give the numerical value $T_f$ of the CO2 gas at the end of the expansion, af
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HENXB2FVaGcLTN46WfrSwZAnBwO-sMEJ/view)
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/meccanica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2025 — Teorica — Q3 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,argomento/meccanica"></span>
 
 3. At $T_0 = 20\ ^\circ\text{C}$ a grey-white fog appears while opening the bottle.
 
@@ -223,11 +215,8 @@ Give the numerical value $T_f$ of the CO2 gas at the end of the expansion, af
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HENXB2FVaGcLTN46WfrSwZAnBwO-sMEJ/view)
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Teorica — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/thermodynamics,argomento/meccanica,object/tank-container,object/projectile"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2025 — Teorica — Q3 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/thermodynamics,argomento/meccanica,object/tank-container,object/projectile"></span>
 
 4. At $T_0 = 20\ ^\circ\text{C}$ a blue fog appears while opening the bottle.
 0.7pt
@@ -257,5 +246,3 @@ Give the numerical value of $H_c$ if the external temperature is $T_0 = 6\ ^\cir
 **Objects:** [[Tank/Container (object)|Tank/Container]], [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1hG6fb-vBIyfJsv1_MKEsQcARXufWaq6G/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HENXB2FVaGcLTN46WfrSwZAnBwO-sMEJ/view)
-
-

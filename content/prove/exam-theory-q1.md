@@ -1,19 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2025 — Teorica — Q1
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="exam-theory-q1"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/gravitation,topic/astrophysics,argomento/meccanica,object/atom,object/electron,object/star"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2025 — Teorica — Q1 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/modern-quantum-physics,topic/gravitation,topic/astrophysics,argomento/meccanica,object/atom,object/electron,object/star"></span>
 
 Theory
 Q1-1
@@ -198,5 +196,3 @@ Part D
 **Objects:** [[Atom (object)|Atom]], [[Electron (object)|Electron]], [[Star (object)|Star]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1fZhJr1GgNn0Lgvw4AKYKlYSKmSP_onw0/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HENXB2FVaGcLTN46WfrSwZAnBwO-sMEJ/view)
-
-

@@ -676,4 +676,3 @@ Work well togethe
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1RaDn_iXNjAnWQlaqgEuc6X35XMQHD34Y/view)
-

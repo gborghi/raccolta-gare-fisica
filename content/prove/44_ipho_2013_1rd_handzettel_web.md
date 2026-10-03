@@ -777,4 +777,3 @@ Informazioni sui quattro round di selezione per il 44o IPhO 2013
 **Quesito 4 **  riflettore a semisfera argentata
 ![[_attachments/44_IPhO_2013_1Rd_Handzettel_web/44_IPhO_2013_1Rd_Handzettel_web_p3_f3.png]]
 <!--fig:end-->
-

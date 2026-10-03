@@ -376,4 +376,3 @@ Ecco perché abbiamo bisogno di voi, cari fan di STEM, con tanta urgenza. Natura
 **Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** [[Spring (object)|Spring]], [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1KQ2FJj8BUAgU5zRVudm9X6N3uj9fBjr9/view)
-

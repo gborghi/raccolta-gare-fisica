@@ -1088,4 +1088,3 @@ Grafico
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** [[Gas (object)|Gas]], [[Heat Engine (object)|Heat Engine]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1MmZ4cdFpvTivMTO4m_jdVgy2YMJRPfdu/view)
-

@@ -1,19 +1,17 @@
 ---
-title: IPhO 2017 Internazionale Sperimentale
+title: IPhO 2017 — Sperimentale — AE1
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="translation_experiment_ae1_italy_attempt_4_final"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2017 Internazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/geometric-optics,topic/fluid-mechanics,argomento/ottica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2017 — Sperimentale — AE1 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/geometric-optics,topic/fluid-mechanics,argomento/ottica"></span>
 
 > ⚠️ Il PDF disponibile è il *foglio risposte* (answer sheet) del Problema sperimentale AE1 dell'IPhO 2017 (versione italiana). Riporta la struttura dei quesiti, le tabelle dati e i grafici da compilare, ma non l'intero testo introduttivo con il setup sperimentale. Lo svolgimento completo richiede il foglio del testo originale (non presente in questo archivio).
 
@@ -40,5 +38,3 @@ Le misure vengono ripetute per tre concentrazioni iniziali della soluzione: $C_0
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1T-06pBkxPHnNyFL7HgI_zEGskVY3OwEf/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1w-Ws3YBjuO5In8GGcbxE7QXKXUlCEyjI/view)
-
-

@@ -315,6 +315,7 @@ a) Determinare il modulo e la direzione del campo elettrico che causa la deviazi
 b) Calcolare il tempo necessario all'elettrone per percorrere questo tratto. (3 punti)
 
 
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2016 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/block,object/inclined-plane,object/beam,object/lever"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -390,6 +391,8 @@ All who in the 2015/2016 school year attend a general-education German school an
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/47_IPhO_2016_1Rd_Handzettel_web/47_IPhO_2016_1Rd_Handzettel_web_p3_f4.png]]
+
+
 *beam on a fulcrum with a 1 kg mass*
 <!--fig:end-->
 
@@ -500,6 +503,8 @@ Tutti coloro che nell'anno scolastico 2015/2016 frequentano una scuola tedesca d
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/47_IPhO_2016_1Rd_Handzettel_web/47_IPhO_2016_1Rd_Handzettel_web_p3_f4.png]]
+
+
 *beam on a fulcrum with a 1 kg mass*
 <!--fig:end-->
 
@@ -537,4 +542,3 @@ Tutti coloro che nell'anno scolastico 2015/2016 frequentano una scuola tedesca d
 Quesito 4  trajectory of electron on a grid, point A
 ![[_attachments/47_IPhO_2016_1Rd_Handzettel_web/47_IPhO_2016_1Rd_Handzettel_web_p3_f3.png]]
 <!--fig:end-->
-

@@ -95,6 +95,7 @@ Si può assumere che i componenti siano ideali e che gli elementi in tutte le sc
 <!--fig:end-->
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2013 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/tank-container,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -199,6 +200,7 @@ Determinare l'altezza massima raggiunta dal liquido inferiore durante questo pro
 ![[_attachments/44_IPhO_2013_2Rd_Aufgaben/44_IPhO_2013_2Rd_Aufgaben_p3_f2.png]]
 *cylindrical glass with rotating liquid*
 <!--fig:end-->
+
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2013 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/droplet,object/sphere"></span>
@@ -481,5 +483,3 @@ Descrivi in modo chiaro e comprensibile le tue considerazioni teoriche, i montag
 ![[_attachments/44_IPhO_2013_2Rd_Aufgaben/44_IPhO_2013_2Rd_Aufgaben_p6_f5.png]]
 *elastic cylinder twisted by angle alpha*
 <!--fig:end-->
-
-

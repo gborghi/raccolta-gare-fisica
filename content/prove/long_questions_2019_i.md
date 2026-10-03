@@ -15,10 +15,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2019 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/photon,object/nucleus,object/projectile"></span>
 
-<div class="qlang-switch" data-default="it"></div>
-
-
-
 Esercizio 1 : Decadimento di un pione (16
 punti)
 Un pione $(\pi^0)$ `e una particella instabile con un’energia a riposo $m_{\pi^0}c^2$ = 135 MeV 1 che decade
@@ -86,11 +82,8 @@ una quantit`a di moto e $\text{MeV}/c^2$ per una massa.
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1GM6I_cMVfcsXiKT-ECoWhZxufkv-jVDI/view)
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2019 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/prism,object/droplet"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Esercizio 2 : Nelle nuvole (16 punti)
 Nota : Le due parti di questo esercizio sono indipendenti e possono essere risolte separatamente.
@@ -193,11 +186,8 @@ Campo magnetico sulla superficie terrestre: $\vec{B}$ =
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1GM6I_cMVfcsXiKT-ECoWhZxufkv-jVDI/view)
 
 
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2019 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas,object/cylinder,object/piston,object/resistor"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Esercizio 3 : Termodinamica (16 punti)
 Un tubo cilindrico con una parete laterale di vetro
@@ -252,5 +242,3 @@ dell’altezza di equilibrio del coperchio)
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1GM6I_cMVfcsXiKT-ECoWhZxufkv-jVDI/view)
-
-

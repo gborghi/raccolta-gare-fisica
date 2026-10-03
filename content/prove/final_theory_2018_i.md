@@ -15,10 +15,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2018 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/nucleus,object/sphere"></span>
 
-<div class="qlang-switch" data-default="it"></div>
-
-
-
 Esercizio 1 : Nuclei speculari (16 punti)
 In questo problema ci proponiamo di fornire una
 stima delle dimensioni e della densità dei nuclei
@@ -111,11 +107,8 @@ Riadattato dalle Olimpiadi Italiane della Fisica
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2018 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror,object/diffraction-grating,object/slit,object/screen,object/planet"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Esercizio 2 : Si gira (16 punti)
 Parte A. Si riflette (5 punti)
@@ -223,11 +216,8 @@ Fonte : O. Gingerich, Sky & Telescope 28, 278, 1964.
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
 
 
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2018 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/magnetic-dipole,object/magnet,object/cylinder,object/coil"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Esercizio 3 : Dipoli magnetici (16 punti)
 Parte A. Dipolo di Gilbert (4.5 punti)
@@ -331,11 +321,8 @@ Costanti fondamentali
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
 
 
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2018 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/wire,object/spring"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Esercizio 1 : Una bilancia particolare (4 punti)
 Consideriamo due fili conduttori paralleli, di lunghezza $L$, attaccati alle loro estremità per due
@@ -356,11 +343,8 @@ iii. (0.5 pt) A cosa può servire questo dispositivo ?
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
 
 
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2018 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/lever,object/sphere,object/tank-container"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Esercizio 2 : Un'altra bilancia (4 punti)
 Una bilancia a due bracci è mantenuta in equilibrio da una parte, da una sfera di piombo
@@ -378,11 +362,8 @@ inclina la bilancia, per mantenerla in equilibrio ?
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
 
 
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2018 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Esercizio 3 : Pista delle biglie (4 punti)
 Due biglie rotolano in una delle parti in piano di una pista delle biglie alla stessa velocità $v_0$, e
@@ -399,11 +380,8 @@ ii. (2 pt) assumendo che rotolino senza scivolare ?
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
 
 
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2018 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Esercizio 4 : Condensatori in serie (4 punti)
 La figura Fig. 2 rappresenta due condensatori a piastre collegati in serie, in cui la parte centrale,
@@ -420,11 +398,8 @@ Esprimete la risposta in funzione delle grandezze date.
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
 
 
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2018 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container,object/sphere"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Esercizio 5 : Flusso di calore in un contenitore rotondo (4 punti)
 All'interno di un contenitore sferico viene mantenuta una temperatura costate $T_{in}$. La parete
@@ -443,11 +418,8 @@ $$\int x^\alpha\, dx = \frac{x^{\alpha+1}}{\alpha + 1} + K, \quad \alpha \neq -1
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
 
 
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2018 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/star,object/planet"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Esercizio 6 : Exopianeta (4 punti)
 Attorno alla stella Kepler-22 ($M_K = 0.97\,M_\text{Sole}$, $R_K = 0.979\,R_\text{Sole}$) orbita un Exopianeta Kepler-22b. Il piano dell'orbita di questo pianeta è orientato in modo che, visto dalla Terra, passi davanti
@@ -463,5 +435,3 @@ ii. (1.5 pt) Calcolate la grandezza del semi-asse maggiore dell'orbita.
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Star (object)|Star]], [[Planet (object)|Planet]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
-
-

@@ -545,4 +545,3 @@ Prof. Dr. Giovanni
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1XF4Cvis4z4s_hmwG8ltvXu3WCed8iMC0/view)
-

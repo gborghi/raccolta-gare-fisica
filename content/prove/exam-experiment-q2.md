@@ -1,19 +1,17 @@
 ---
-title: OII na Sperimentale
+title: IPhO 2025 — Sperimentale — Q2
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="exam-experiment-q2"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/conservation-of-energy,topic/rotational-dynamics,argomento/meccanica,object/ball,object/inclined-plane,object/projectile"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2025 — Sperimentale — Q2 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/conservation-of-energy,topic/rotational-dynamics,argomento/meccanica,object/ball,object/inclined-plane,object/projectile"></span>
 
 Experiment
 Q2-1
@@ -254,5 +252,3 @@ characterizes the force $T$.
 **Objects:** [[Ball (object)|Ball]], [[Inclined Plane (object)|Inclined Plane]], [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/15P2VOq5GmUzCqe7FjfHM20hgTAKtkSVk/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1psHRX2DWCBW373Tc5I_tmI3MlK7YSpXc/view)
-
-

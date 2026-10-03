@@ -1,19 +1,17 @@
 ---
-title: OII 2018 Teorica
+title: IPhO 2018 — Teorica — T2
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="st2-ipho2018"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2018 Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/special-relativity,topic/nuclear-e-particle-physics,topic/magnetism,argomento/meccanica,object/electron"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2018 — Teorica — T2 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/special-relativity,topic/nuclear-e-particle-physics,topic/magnetism,argomento/meccanica,object/electron"></span>
 
 Solutions to Theory Problem 2
 Where is the neutrino?
@@ -187,5 +185,3 @@ B.5: $d= 2 \times 10^{-16}\ \text{m} .$ (1.0pt)
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1oikNPyW5SM2kFxGGpZwZ4r9eBdkBRiQi/view)
-
-

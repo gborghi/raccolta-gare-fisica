@@ -318,6 +318,8 @@ The mass of the Earth is 6,0 $\cdot$ 1024 kg.
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/52_IPhO_2021_1Rd_Handzettel_web/52_IPhO_2021_1Rd_Handzettel_web_p3_f3.png]]
+
+
 *Glass flask with raw milk (Junior problem)*
 <!--fig:end-->
 
@@ -352,6 +354,8 @@ Orbit di Shuttle, Stazione 1 e 2 attorno alla Terra
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/52_IPhO_2021_1Rd_Handzettel_web/52_IPhO_2021_1Rd_Handzettel_web_p3_f3.png]]
+
+
 *Folla di vetro con latte greggio (problema junior) *
 <!--fig:end-->
 
@@ -756,4 +760,3 @@ per sviluppare ulteriormente
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1TLvj-zK1_aARXiqd8loH1P9wdbaiO2FN/view)
-

@@ -15,10 +15,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2017 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet,object/satellite"></span>
 
-<div class="qlang-switch" data-default="it"></div>
-
-
-
 Esercizio 1 : Sincronizzazione degli orologi
 (16 punti)
 In questo problema, vogliamo derivare le trasformazioni di Lorentz. Le trasformazioni di Lorentz sono le trasformazioni fondamentali dello
@@ -173,11 +169,8 @@ che la lunghezza del metro di riferimento `e esattamente un metro nel sistema in
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1wIrDrj5Dv0NoyCDCtTtadB2oyu-oSn4c/view)
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2017 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas,object/photon"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Esercizio 2 : Gas di fotoni (16 punti)
 Nonostante i fotoni si differenzino in molti
@@ -241,11 +234,8 @@ Problemi
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1wIrDrj5Dv0NoyCDCtTtadB2oyu-oSn4c/view)
 
 
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2017 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/electron"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Esercizio 3 : Effetto Hall (16 punti)
 In questo problema ci interessiamo al funzionamento di un sensore a effetto Hall e alle sue
@@ -420,11 +410,8 @@ Domande brevi
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1wIrDrj5Dv0NoyCDCtTtadB2oyu-oSn4c/view)
 
 
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2017 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Problema 1 : Il marziano (4 Punti)
 Vogliamo stimare il balzo di un astronauta di massa $70\ \text{kg}$. A questo scopo gli preghiamo
@@ -452,11 +439,8 @@ non picchi la testa sul soffitto)
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1wIrDrj5Dv0NoyCDCtTtadB2oyu-oSn4c/view)
 
 
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2017 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Problema 2 : Un calcio al pallone medicinale (4 Punti)
 In palestra lasciamo cadere un pallone medicinale e una pallina da tennis dalla stessa
@@ -481,11 +465,8 @@ da tennis. Perch ́e non raggiunger`a questa altezza?
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1wIrDrj5Dv0NoyCDCtTtadB2oyu-oSn4c/view)
 
 
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2017 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet,object/star"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Problema 3 : Doppio tramonto (4 Punti)
 Vuoi trascorrere un serata romantica con la tua compagna/il tuo compagno e ti rechi
@@ -515,11 +496,8 @@ Figura 1: Source : xkcd.com
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1wIrDrj5Dv0NoyCDCtTtadB2oyu-oSn4c/view)
 
 
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2017 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor,object/inductor,object/resistor"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Problema 4 : Circuito oscillatorio in parallelo (4 Punti)
 Sia dato un circuito oscillatorio in parallelo come rappresentato nella figura. I valori
@@ -546,11 +524,8 @@ circuito modificato?
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1wIrDrj5Dv0NoyCDCtTtadB2oyu-oSn4c/view)
 
 
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2017 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Problema 5 : Il flusso delle idee (4 Punti)
 Blaise ha costruito una nuova piscina nel suo giardino che ha progettato da solo. La
@@ -573,11 +548,8 @@ Domande brevi
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1wIrDrj5Dv0NoyCDCtTtadB2oyu-oSn4c/view)
 
 
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2017 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/nucleus"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Problema 6 : Datazione al carbonio 14 (4 Punti)
 $^{14}$C (Carbonio-14) `e un isotopo radioattivo del carbonio, presente in ogni materiale
@@ -622,5 +594,3 @@ indicata come Bq.
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Nucleus (object)|Nucleus]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1wIrDrj5Dv0NoyCDCtTtadB2oyu-oSn4c/view)
-
-

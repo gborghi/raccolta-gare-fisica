@@ -1,19 +1,17 @@
 ---
-title: IPhO 2011 sperimentale
+title: IPhO 2011 — Sperimentale — Q1
 tipo: prova
 tags:
   - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="q1_experiment_question_translated"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2011 sperimentale — Problema 1" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/circuits,topic/electrostatics,topic/oscillations-e-waves,object/capacitor,object/battery,object/switch"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2011 — Sperimentale — Q1 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/circuits,topic/electrostatics,topic/oscillations-e-waves,object/capacitor,object/battery,object/switch"></span>
 
 **Una "Scatola Nera" Elettrica: come usare la capacità elettrica per misurare lunghezze.**
 
@@ -108,5 +106,3 @@ Quando si varia la posizione relativa delle armature, la capacità $C$ cambia; q
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
 **Objects:** [[Capacitor (object)|Capacitor]], [[Battery (object)|Battery]], [[Switch (object)|Switch]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1WSufRT04y3ZSZ3yogd33MNfzivFhWhUw/view)
-
-

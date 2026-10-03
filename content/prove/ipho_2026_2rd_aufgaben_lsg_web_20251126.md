@@ -1605,4 +1605,3 @@ $$a_G(r) = -\frac{G M_S}{(50 \text{ AE})^2}$$
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]], [[Star (object)|Star]]
 **Fonte:** [Testo (PDF) — p.18](https://drive.google.com/file/d/1-CrBo9A9I4DPhcq1eIi4llL-9ckqSoKP/view)
-

@@ -15,10 +15,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2023 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/slit"></span>
 
-<div class="qlang-switch" data-default="it"></div>
-
-
-
 1. Il filtro verde viene sostituito da un filtro blu.
 
 
@@ -38,11 +34,8 @@ tags:
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/195GBFiez4dGHhXlYBAB8HCCjzNnLOgfd/view)
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2023 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/slit"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 2. La doppia fenditura viene sostituita da
 un’altra
@@ -60,11 +53,8 @@ fenditure.
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/195GBFiez4dGHhXlYBAB8HCCjzNnLOgfd/view)
 
 
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2023 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror,object/star,object/photon,object/cylinder,object/ball"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 3. Viene impiegata una sorgente luminosa più
 intensa.
@@ -541,6 +531,8 @@ iv. (2 pt) Assumendo che l’appartamento perda calore solo tramite conduzione
 <!--fig:start-->
 **p.4** — Due piastre conducibilita termica diversa
 ![[_attachments/2nd_round_2023_it/2nd_round_2023_it_p4_f1.png]]
+
+
 <!--fig:end-->
 
 <!--fig:start-->
@@ -581,6 +573,8 @@ iv. (2 pt) Assumendo che l’appartamento perda calore solo tramite conduzione
 <!--fig:start-->
 **p.11** — Schema calcio angolo Shaqiri porta theta
 ![[_attachments/2nd_round_2023_it/2nd_round_2023_it_p11_f11.png]]
+
+
 <!--fig:end-->
 
 <!--fig:start-->
@@ -601,11 +595,11 @@ iv. (2 pt) Assumendo che l’appartamento perda calore solo tramite conduzione
 <!--fig:start-->
 **p.17** — Traiettoria pallone angolo theta soluzione
 ![[_attachments/2nd_round_2023_it/2nd_round_2023_it_p17_f15.png]]
+
+
 <!--fig:end-->
 
 <!--fig:start-->
 **p.21** — Analizzatore emisferico soluzione
 ![[_attachments/2nd_round_2023_it/2nd_round_2023_it_p21_f16.png]]
 <!--fig:end-->
-
-

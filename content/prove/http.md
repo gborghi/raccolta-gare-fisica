@@ -1,19 +1,17 @@
 ---
-title: OII na Sperimentale
+title: IPhO 2022 — Sperimentale
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="http"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/conservation-of-momentum,topic/conservation-of-energy"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2022 — Sperimentale — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/newtonian-mechanics,topic/conservation-of-momentum,topic/conservation-of-energy"></span>
 
 http://ipho.elte.hu/marbles/
 https://eupho.ee/wp-content/uploads/2020/07/Exp_codes.zip
@@ -26,5 +24,3 @@ https://app.graxaim.org/oibf/2021/slsim.html
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1mOJ58oRY71mhpSbpCXHLbW8ZHD11j8Bw/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1KXuT6bDQq8jiG9IX-LCpWdWEAMX1ndDS/view)
-
-

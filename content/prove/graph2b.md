@@ -13,11 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2000 Internazionale Teorica — Quesito 1" data-tags="kg/prova,paese/UK,comp/IPhO,cluster/Termodinamica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2000 Internazionale Teorica — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,cluster/Termodinamica"></span>
 
 **Grafico 2 — Curve di Planck 2750/3000/3250 K (foglio dati)**
 
@@ -35,5 +31,3 @@ tags:
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1IHbcnz2X0RozebdvJYAeU32s8N4DXhY3/view)
-
-

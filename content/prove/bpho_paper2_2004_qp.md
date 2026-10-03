@@ -15,10 +15,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="BPhO 2004 Locale Round 1 — Quesito 1" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/resistor,object/mirror,object/block,object/gas,object/planet"></span>
 
-<div class="qlang-switch" data-default="it"></div>
-
-
-
 Domanda compulsoria, con brevi quesiti indipendenti:
 
 - a)
@@ -80,11 +76,8 @@ Domanda compulsoria, con brevi quesiti indipendenti:
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1ijBCZtriOujgMa7ISu34u2MwXnPHX0Q4/view)
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="BPhO 2004 Locale Round 1 — Quesito 2" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 a) Una pietra è lasciata cadere in un canyon profondo. Dopo $10{,}2\ \text{s}$ si sente il rumore del fondo. Stimare approssimativamente:
 - (i) la profondità del canyon, trascurando il tempo che impiega l'onda di ritorno a raggiungere la cima del canyon;
@@ -107,11 +100,8 @@ d) Se la pietra è invece lanciata verticalmente verso l'alto con velocità $u$,
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1ijBCZtriOujgMa7ISu34u2MwXnPHX0Q4/view)
 
 
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2004 Locale Round 1 — Quesito 3" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/rod,object/wire,object/block"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Un'asta rigida leggera lunga $2{,}00\ \text{m}$ è sospesa dal soffitto mediante due fili verticali $A$ e $B$, ciascuno di lunghezza naturale $\ell = 1{,}00\ \text{m}$, attaccati alle estremità dell'asta. $A$ è un filo di rame con modulo di Young $Y_A = 12{,}4\times 10^{10}\ \text{Pa}$, diametro $1{,}60\ \text{mm}$; $B$ è un filo di ottone con modulo di Young $Y_B = 9{,}00\times 10^{10}\ \text{Pa}$, diametro $1{,}00\ \text{mm}$.
 
@@ -133,11 +123,8 @@ b) L'attacco della massa di $80\ \text{kg}$ è spostato in un punto $D$, a dista
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1ijBCZtriOujgMa7ISu34u2MwXnPHX0Q4/view)
 
 
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="BPhO 2004 Locale Round 1 — Quesito 4" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/battery,object/coil,object/magnet"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 a)
 
@@ -177,11 +164,8 @@ d) Perché le celle solari surriscaldano l'auto quando essa è stazionaria e le 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1ijBCZtriOujgMa7ISu34u2MwXnPHX0Q4/view)
 
 
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="BPhO 2004 Locale Round 1 — Quesito 5" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/planet,object/star,object/satellite,object/wheel"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Misure storiche della velocità della luce: Galileo, Roemer (lune di Giove), Fizeau (ruota dentata)**
 
@@ -209,11 +193,8 @@ c) Fizeau, nel 1849, ideò un metodo più accurato per misurare $c$ usando uno s
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1ijBCZtriOujgMa7ISu34u2MwXnPHX0Q4/view)
 
 
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="BPhO 2004 Locale Round 1 — Quesito 6" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/point-charge"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 a)
 
@@ -248,11 +229,8 @@ $$y = \frac{qEL^2}{2mv^2}.$$
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1ijBCZtriOujgMa7ISu34u2MwXnPHX0Q4/view)
 
 
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="BPhO 2004 Locale Round 1 — Quesito 7" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/mirror,object/slit,object/screen"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 a) Un oggetto puntiforme è posto di fronte a uno specchio piano, in un piano perpendicolare a quello dello specchio. Disegnare due raggi di luce dall'oggetto che sono riflessi nello specchio. Indicare la posizione dell'immagine.
 
@@ -291,11 +269,8 @@ L'angolo $A\hat{O}B$ fra specchi adiacenti $AD$ e $OB$ è $135^\circ$, Figura 7.
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1ijBCZtriOujgMa7ISu34u2MwXnPHX0Q4/view)
 
 
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="BPhO 2004 Locale Round 1 — Quesito 8" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/nucleus,object/particle-beam"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 a) Neutroni veloci, massa $m_1$, con velocità $v_1 = 2{,}0\times 10^7\ \text{m/s}$ sono rallentati da un nucleo bersaglio fermo. Mentre il neutrone rallenta, è elasticamente diffuso da un nucleo. Entrambi sono inizialmente in quiete. Il neutrone rimbalza e si muove a velocità $v_1$. Dopo l'urto, l'altro nucleo $m_2$ riacquista velocità. *[Determinare le velocità dopo un urto elastico frontale fra un neutrone e un nucleo bersaglio inizialmente in quiete.]*
 
@@ -310,11 +285,8 @@ b) Il nucleo bersaglio è ora idealmente fermo. La velocità del neutrone è rid
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1ijBCZtriOujgMa7ISu34u2MwXnPHX0Q4/view)
 
 
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="BPhO 2004 Locale Round 1 — Quesito 9" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/nucleus"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 > ⚠️ Questa domanda è solo parzialmente visibile in fondo a pagina 12 del PDF sorgente.
 
@@ -325,5 +297,3 @@ Un nuclide radioattivo $A$, con costante di decadimento $\lambda_A$, decade nel 
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Graph Linearization (competenza)|Graph Linearization]]
 **Objects:** [[Nucleus (object)|Nucleus]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1ijBCZtriOujgMa7ISu34u2MwXnPHX0Q4/view)
-
-

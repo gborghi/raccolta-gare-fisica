@@ -15,10 +15,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2017 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
-
-
-
 **Domanda 1**
 
 Il nostro universo attualmente è
@@ -36,11 +32,8 @@ Il nostro universo attualmente è
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2017 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 2**
 
@@ -58,11 +51,8 @@ Un uccello è posato su una barca su un lago. Ad un certo istante l’uccello pr
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2017 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 3**
 
@@ -80,11 +70,8 @@ Supponendo che si possa piegare un foglio di carta per più di 7 o 8 volte. Quan
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2017 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 4**
 
@@ -102,11 +89,8 @@ Un piccolo villaggio situato dietro una collina desidera ascoltare la radio. Nel
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2017 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pulley,object/rope-string"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 5**
 
@@ -129,11 +113,8 @@ Un casco di banane di massa $m$ è appeso a 20 m da una carrucola (vedi figura s
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2017 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 6**
 
@@ -157,11 +138,8 @@ Quali assi di rotazione del parallelepipedo rappresentato nella figura sottostan
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2017 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 7**
 
@@ -179,11 +157,8 @@ Una persona si guarda allo specchio. Osserva che la sommità della sua testa coi
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2017 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 8**
 
@@ -202,11 +177,8 @@ Sei in giro in auto per una corsa. Vuoi fare due giri del percorso. Il primo gir
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2017 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/cylinder"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 9**
 
@@ -224,11 +196,8 @@ Aiuti tua mamma a sgomberare il solaio. Ti dà il compito di arrotolare un tappe
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q10" data-atom="q10" data-title="Svizze 2017 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 10**
 
@@ -247,11 +216,8 @@ Una ditta ti chiede di valutare il numero massimo di persone che possono stare n
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q11" data-atom="q11" data-title="Svizze 2017 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rod,object/star"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 11**
 
@@ -269,11 +235,8 @@ Il 21 marzo ci troviamo all’equatore. In questo giorno di equinozio il sole so
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q12" data-atom="q12" data-title="Svizze 2017 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 12**
 
@@ -292,11 +255,8 @@ Due lampadine da 75 W (a 220 V) sono connesse in serie. Il tutto è connesso ad 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q13" data-atom="q13" data-title="Svizze 2017 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 13**
 
@@ -309,6 +269,8 @@ Sei a $x = 0$ e ascolti un suono generato con frequenza $f_0$. Il grafico sottos
 
 <!--fig:start-->
 ![[_attachments/Esame-Secondo-Turno-2017-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2017-Olimpiadi-di-Fisica_p7_f3.png]]
+
+
 *Frequenza percepita vs tempo (effetto Doppler)*
 <!--fig:end-->
 
@@ -319,11 +281,8 @@ Sei a $x = 0$ e ascolti un suono generato con frequenza $f_0$. Il grafico sottos
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q14" data-atom="q14" data-title="Svizze 2017 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 14**
 
@@ -341,11 +300,8 @@ Stimando la superficie delle vostre spalle a $50 \text{ cm} \times 10 \text{ cm}
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q15" data-atom="q15" data-title="Svizze 2017 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 15**
 
@@ -370,11 +326,8 @@ Costanti:
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q16" data-atom="q16" data-title="Svizze 2017 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 16**
 
@@ -392,11 +345,8 @@ L’aereo Solar Impulse SI2 è un veicolo elettrico dotato di 17 248 celle fot
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q17" data-atom="q17" data-title="Svizze 2017 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 17**
 
@@ -415,11 +365,8 @@ Quale di queste dimensioni fisiche non corrisponde ad un’unità di energia?
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q18" data-atom="q18" data-title="Svizze 2017 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/satellite"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 18**
 
@@ -438,11 +385,8 @@ Un satellite geostazionario ha:
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q19" data-atom="q19" data-title="Svizze 2017 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor,object/capacitor"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 19**
 
@@ -465,11 +409,8 @@ Il circuito seguente è connesso da diverso tempo. Qual è la tensione $V^*$ del
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q20" data-atom="q20" data-title="Svizze 2017 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/electron"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 20**
 
@@ -488,11 +429,8 @@ Quale delle seguenti affermazioni è corretta?
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q21" data-atom="q21" data-title="Svizze 2017 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/block"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 21**
 
@@ -505,6 +443,8 @@ Per Natale hai ricevuto un numero infinito di ceppi di legno a sezione rettangol
 
 <!--fig:start-->
 ![[_attachments/Esame-Secondo-Turno-2017-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2017-Olimpiadi-di-Fisica_p10_f5.png]]
+
+
 *Ceppi impilati a sbalzo verso il lago*
 <!--fig:end-->
 
@@ -515,11 +455,8 @@ Per Natale hai ricevuto un numero infinito di ceppi di legno a sezione rettangol
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q22" data-atom="q22" data-title="Svizze 2017 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Domanda 22**
 
@@ -538,11 +475,8 @@ Qual è la distanza media tra due molecole di un gas a temperatura $T = 0\,^\cir
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q23" data-atom="q23" data-title="Svizze 2017 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Esercizio 1: Viaggio al centro della Terra** (16 punti)
 
@@ -585,11 +519,8 @@ iii. (3 pt) Calcola nuovamente la velocità $v_m$ al centro della Terra. Sfrutta
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q24" data-atom="q24" data-title="Svizze 2017 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror,object/satellite,object/star"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Esercizio 2: Volo verso le stelle** (16 punti)
 
@@ -638,11 +569,8 @@ iv. (2 pt) Utilizza le tue risposte alle domande A.iii e B.ii per calcolare la p
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
 
+
 <span class="atom-split" id="q25" data-atom="q25" data-title="Svizze 2017 — Quesito 25" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas,object/cylinder,object/piston"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Esercizio 3: Sotto pressione** (16 punti)
 
@@ -688,5 +616,3 @@ iii. (4 pt) Quale dev’essere la massa del cilindro in funzione della temperatu
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]]
 **Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
-
-

@@ -1,19 +1,17 @@
 ---
-title: IPhO 2011
+title: IPhO 2011 — Teorica — Q2
 tipo: prova
 tags:
   - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="q2_theory_question_translated"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2011 — Problema 1" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/fluid-mechanics,topic/electrostatics,topic/thermodynamics,object/bubble"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2011 — Teorica — Q2 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/fluid-mechanics,topic/electrostatics,topic/thermodynamics,object/bubble"></span>
 
 ### 2. Una bolla di sapone elettrificata
 
@@ -66,5 +64,3 @@ I calcoli precedenti suggeriscono che i termini dovuti alla tensione superficial
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** [[Bubble (object)|Bubble]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1PHvV-xnCcVIQe0Na94JlpCDLSkrHtUTf/view)
-
-

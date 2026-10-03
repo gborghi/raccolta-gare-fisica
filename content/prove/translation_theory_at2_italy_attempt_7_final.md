@@ -1,19 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2017 — Teorica — AT2
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="translation_theory_at2_italy_attempt_7_final"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/oscillations-e-waves,topic/newtonian-mechanics,topic/order-of-magnitude-estimation,object/planet"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2017 — Teorica — AT2 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/oscillations-e-waves,topic/newtonian-mechanics,topic/order-of-magnitude-estimation,object/planet"></span>
 
 **tdirect**
 
@@ -58,5 +56,3 @@ page 4 of 4
 **Objects:** [[Planet (object)|Planet]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1oGlIZ2JzftuARlHYPIrqf5HsqqEcYRoU/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1XwMfArYpSm4TqxPOelRzxe-0E-co-3UE/view)
-
-

@@ -420,4 +420,3 @@ Foto di stalla in vetro con scala
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1wSo7yiIMbVg1Pm5bey5w4xocThRVXK1L/view)
-

@@ -1427,4 +1427,3 @@ Grafico
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1NQd5b3UW6CWc9x6WqE_z_TdxcpwkzwVY/view)
-

@@ -665,6 +665,8 @@ Code: Code
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/51_IPhO_2020_2Rd_Aufgaben/51_IPhO_2020_2Rd_Aufgaben_p7_f8.png]]
+
+
 *Circuit with diode and resistors*
 <!--fig:end-->
 
@@ -722,6 +724,8 @@ Codice: Codice
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/51_IPhO_2020_2Rd_Aufgaben/51_IPhO_2020_2Rd_Aufgaben_p7_f8.png]]
+
+
 *Circuito con diodo e resistori*
 <!--fig:end-->
 
@@ -1230,4 +1234,3 @@ Grafico
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** [[Nucleus (object)|Nucleus]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1s177_CI0-6JKTkZHhfKpHXtxrCvEPfNt/view)
-

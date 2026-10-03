@@ -1088,4 +1088,3 @@ Carta grafica
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Manometer (object)|Manometer]], [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/1mon2WlFqN_uAImAm2fKQgcKMJdtVCjbP/view)
-

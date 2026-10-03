@@ -11,10 +11,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="OII na Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
-
 **CD0EF8=/%;B**
 
  !"
@@ -262,5 +258,3 @@ H^[<ROSH%S] L<NOROS ]^PHK2PX L PX0[<L<HNOL<MOU ] SW%UMOL<[<SH%W%S
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1GAMaiFCjpGb7OSco57EaFGyqNvPcyRhU/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1jT-qp-FVJg6KFHvfBHE-VsjkGJp0ZkHw/view)
-
-

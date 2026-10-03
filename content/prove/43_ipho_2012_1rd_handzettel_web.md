@@ -212,6 +212,7 @@ Da questi dati, determinare sia la lunghezza totale del piombo che le lunghezze 
 Il piombo ha un diametro di 0,5 mm ed è realizzato con un materiale avente una resistività di 0,11 $\Omega$ mm.
 
 
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2012 — Quesito 4" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Ottica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -612,5 +613,3 @@ Indirizzi dei coordinatori regionali
 NUOVO!
 Da quest’anno gli studenti e i docenti responsabili possono iscriversi online alla gara su www.ipho.info.
 Informazioni sulle quattro fasi di selezione per la 43ª Olimpiade Internazionale di Fisica (IPhO) 2012
-
-

@@ -1,19 +1,17 @@
 ---
-title: IPhO 2017 Internazionale Teorica
+title: IPhO 2017 — Teorica — T3
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="translation_theory_t3_italy_attempt_2_final"></div>
 
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2017 Internazionale Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/astrophysics,topic/gravitation,topic/thermodynamics,argomento/gravitazione-e-astrofisica,object/photon"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2017 — Teorica — T3 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/astrophysics,topic/gravitation,topic/thermodynamics,argomento/gravitazione-e-astrofisica,object/photon"></span>
 
 **Inflazione cosmica**
 
@@ -82,5 +80,3 @@ Le previsioni dedotte con qualunque modello inflativo devono essere confrontate 
 **Objects:** [[Photon (object)|Photon]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1tB12uxoerPLwzqrBFlrtpufyZTi7fIK4/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hbE0-n6vfZGpL7hnQ6Egmqeza4UEFJYh/view)
-
-

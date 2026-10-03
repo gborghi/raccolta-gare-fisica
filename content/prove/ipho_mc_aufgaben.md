@@ -2755,4 +2755,3 @@ $$A\quad F = \frac{\pi^2\,\hbar\,c}{240\,d^3}\,A \qquad B\quad F = \frac{\pi^2\,
 **Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.39](https://drive.google.com/file/d/1nRC2FUiu5lrr-aUHPHlPIrKE4iQzos-B/view)
-

@@ -104,6 +104,7 @@ Problema bonus: Con la seguente parte puoi guadagnare 5 punti bonus.
 <!--fig:end-->
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2015 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/lens,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -344,4 +345,3 @@ sono facili da seguire.
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]]
 **Objects:** [[Bubble (object)|Bubble]], [[Pipe/Tube (object)|Pipe/Tube]], [[Rope/String (object)|Rope/String]], [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1f1l9Og9w9vNzQsgcRFzp6ugbCWdalLnn/view)
-

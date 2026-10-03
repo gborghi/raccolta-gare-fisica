@@ -1,19 +1,17 @@
 ---
-title: OII na Teorica
+title: IPhO 2025 — Teorica — Q2
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="exam-theory-q2"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/fluid-mechanics,topic/newtonian-mechanics,topic/thermodynamics,argomento/meccanica,object/pipe-tube,object/pulley,object/rope-string"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2025 — Teorica — Q2 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/fluid-mechanics,topic/newtonian-mechanics,topic/thermodynamics,argomento/meccanica,object/pipe-tube,object/pulley,object/rope-string"></span>
 
 Cox's Timepiece (10 points)
 
@@ -201,5 +199,3 @@ Credits:
 **Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1btNEa--kewT9exacZGxJ8Md8wa2j1qte/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HENXB2FVaGcLTN46WfrSwZAnBwO-sMEJ/view)
-
-

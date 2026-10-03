@@ -73,6 +73,8 @@ D about $16\ P$
 
 <!--fig:start-->
 ![[_attachments/51_IPhO_2020_1Rd_Handzettel_web/51_IPhO_2020_1Rd_Handzettel_web_p2_f1.png]]
+
+
 *Ruler, can and table with arrow*
 <!--fig:end-->
 
@@ -139,6 +141,8 @@ D about $16\ P$
 
 <!--fig:start-->
 ![[_attachments/51_IPhO_2020_1Rd_Handzettel_web/51_IPhO_2020_1Rd_Handzettel_web_p2_f1.png]]
+
+
 *Ruler, can and table with arrow*
 <!--fig:end-->
 
@@ -176,6 +180,8 @@ M
 
 <!--fig:start-->
 ![[_attachments/51_IPhO_2020_1Rd_Handzettel_web/51_IPhO_2020_1Rd_Handzettel_web_p2_f2.png]]
+
+
 *Ball M held by two fingers*
 <!--fig:end-->
 
@@ -208,6 +214,8 @@ M
 
 <!--fig:start-->
 ![[_attachments/51_IPhO_2020_1Rd_Handzettel_web/51_IPhO_2020_1Rd_Handzettel_web_p2_f2.png]]
+
+
 Ball M held by two fingers
 <!--fig:end-->
 
@@ -596,4 +604,3 @@ Il motto è: "Taking part is everything". In questo modo, gli studenti risolvono
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
 **Objects:** [[Lens (object)|Lens]], [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1E1BJr3xSzyjKaNsOSybdeK2T3zsA3OBC/view)
-

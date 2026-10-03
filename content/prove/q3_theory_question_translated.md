@@ -1,19 +1,17 @@
 ---
-title: IPhO 2011
+title: IPhO 2011 — Teorica — Q3
 tipo: prova
 tags:
   - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="q3_theory_question_translated"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2011 — Problema 1" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electrostatics,topic/conservation-of-energy,topic/conservation-of-momentum,object/point-charge,object/atom"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2011 — Teorica — Q3 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electrostatics,topic/conservation-of-energy,topic/conservation-of-momentum,object/point-charge,object/atom"></span>
 
 **Per commemorare il centenario del nucleo atomico di Rutherford: lo scattering di uno ione su un atomo neutro**
 
@@ -56,5 +54,3 @@ $$[2{,}5 \text{ punti}]$$
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Point Charge (object)|Point Charge]], [[Atom (object)|Atom]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1YPR2iYQYIVz8Tp_A6a2fl6Swfi4I4UN6/view)
-
-

@@ -487,4 +487,3 @@ Come i gas ideali.
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]], [[Graph Linearization (competenza)|Graph Linearization]]
 **Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1BdHA95pOUH-r_m9zIcx3D2T-b1qN4oLF/view)
-

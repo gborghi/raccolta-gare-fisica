@@ -169,6 +169,7 @@ $$B_z(\vec{r}) = B_0 \left(\frac{R}{r}\right)^n$$ con una costante $n \in \mathb
 1.g) Determinare per quali valori di $n$ l'orbita circolare è stabile sia a piccole perturbazioni radiali che a piccole perturbazioni verticali. Si assuma che la velocità dell'elettrone non cambi sotto le perturbazioni orbitali e che le perturbazioni possano essere studiate separatamente l'una dall'altra. (11 punti)
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2016 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/disk,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -376,4 +377,3 @@ Nota generale sul problema sperimentale
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
 **Objects:** [[Slit (object)|Slit]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Gn8ncSEVyFGCg5XLird4SOMgfC6UWhsg/view)
-

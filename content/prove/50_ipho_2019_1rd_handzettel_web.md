@@ -300,4 +300,3 @@ e
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1h-iHNS5D0kKij3tMsziiKhs4-djWsS83/view)
-

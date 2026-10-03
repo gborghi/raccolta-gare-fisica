@@ -996,4 +996,3 @@ Risultato:
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.26](https://drive.google.com/file/d/1tG5BAqy-TuNiDM4fbKxWNHu7Xg7FUOdo/view)
-

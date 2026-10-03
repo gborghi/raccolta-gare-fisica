@@ -13,11 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2000 Internazionale Teorica — Quesito 1" data-tags="kg/prova,paese/UK,comp/IPhO,cluster/Elettromagnetismo"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2000 Internazionale Teorica — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,cluster/Elettromagnetismo"></span>
 
 **Grafico 1 — Resistività del tungsteno (foglio dati)**
 
@@ -35,5 +31,3 @@ tags:
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Curve Fitting (competenza)|Curve Fitting]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Qgmh8mX97g5iMGlYDzZzYPycpx2Zau0G/view)
-
-

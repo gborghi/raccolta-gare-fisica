@@ -15,10 +15,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="USAPhO 2019 Nazionale Teorica — Quesito 1" data-tags="kg/prova,paese/USA,comp/USAPhO,cluster/Meccanica,object/block,object/inclined-plane"></span>
 
-<div class="qlang-switch" data-default="it"></div>
-
-
-
 Due blocchi $A$ e $B$ della stessa massa sono su un piano inclinato fisso che forma un angolo di $30^\circ$ con l'orizzontale. Al tempo $t=0$, $A$ si trova a distanza $\ell = 5\ \text{cm}$ lungo il piano sopra $B$, ed entrambi i blocchi sono in quiete. I coefficienti di attrito statico e dinamico tra i blocchi e il piano sono
 $$\mu_A = \frac{\sqrt 3}{6}, \qquad \mu_B = \frac{\sqrt 3}{3},$$
 e i blocchi collidono in modo perfettamente elastico. Siano $v_A(t)$ e $v_B(t)$ le velocità dei blocchi lungo il piano. Usare $g = 10\ \text{m/s}^2$, assumere che entrambi i blocchi restino sul piano per tutto il tempo e trascurare le dimensioni dei blocchi.
@@ -38,11 +34,8 @@ Si supponga ora che il coefficiente del blocco $B$ sia invece $\mu_B = \sqrt 3/2
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1V4fBjKsYJMTjKN0dHxZucaG74k_1dE_X/view)
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="USAPhO 2019 Nazionale Teorica — Quesito 2" data-tags="kg/prova,paese/USA,comp/USAPhO,cluster/Meccanica,object/planet,object/star,object/heat-engine"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 In questo problema si studia un semplice modello termodinamico per la conversione dell'energia solare in vento. Si consideri un pianeta di raggio $R$ che si suppone ruoti in modo che il lato sempre rivolto al Sole abbia temperatura uniforme costante $T_1$, mentre il lato in ombra abbia temperatura uniforme costante $T_2$. Il raggio orbitale del pianeta è $R_0$, il Sole ha temperatura $T_s$ e raggio $R_s$. Si assuma che lo spazio esterno abbia temperatura nulla e si trattino tutti gli oggetti come corpi neri ideali.
 
@@ -61,11 +54,8 @@ Per mantenere $T_1$ e $T_2$ costanti, il calore deve essere continuamente trasfe
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1V4fBjKsYJMTjKN0dHxZucaG74k_1dE_X/view)
 
 
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="USAPhO 2019 Nazionale Teorica — Quesito 3" data-tags="kg/prova,paese/USA,comp/USAPhO,cluster/Meccanica,object/capacitor,object/point-charge"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Due grandi armature parallele di area $A$ sono poste a $x=0$ e $x=d\ll\sqrt A$ in un mezzo semiconduttore. L'armatura a $x=0$ è collegata a terra e quella a $x=d$ è a potenziale fisso $-V_0$, con $V_0>0$. Particelle di carica positiva $q$ fluiscono tra queste armature. Si trascurino effetti dielettrici del mezzo.
 
@@ -84,11 +74,8 @@ Due grandi armature parallele di area $A$ sono poste a $x=0$ e $x=d\ll\sqrt A$ i
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1V4fBjKsYJMTjKN0dHxZucaG74k_1dE_X/view)
 
 
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="USAPhO 2019 Nazionale Teorica — Quesito 4" data-tags="kg/prova,paese/USA,comp/USAPhO,cluster/Meccanica,object/membrane,object/spring"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 La parete di un neurone è fatta di una membrana elastica che resiste alla compressione come una molla. Ha una costante elastica effettiva $k$ e uno spessore di equilibrio $d_0$. Si assuma che la membrana abbia area molto grande $A$ e curvatura trascurabile. Il neurone ha pompe ioniche che possono spostare ioni attraverso la membrana. La carica risultante, in stato stazionario, fa sì che cariche ioniche positive e negative siano disposte uniformemente lungo le superfici esterna e interna della membrana, rispettivamente. La permittività della membrana è $\epsilon$.
 
@@ -114,11 +101,8 @@ Si assuma in ogni caso che lo spessore della membrana $d$ non possa diventare ne
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1V4fBjKsYJMTjKN0dHxZucaG74k_1dE_X/view)
 
 
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="USAPhO 2019 Nazionale Teorica — Quesito 5" data-tags="kg/prova,paese/USA,comp/USAPhO,cluster/Meccanica,object/star,object/atom,object/planet"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Gli scienziati hanno recentemente rilevato una nuova stella, MAR-Kappa. La stella è quasi un corpo nero perfetto e il suo spettro misurato di intensità è mostrato in figura. L'intensità luminosa totale misurata da MAR-Kappa è $I = 1{,}12\times 10^{-8}\ \text{W/m}^2$. La massa di MAR-Kappa è stimata in $3{,}5\times 10^{30}\ \text{kg}$. Si può usare la legge di Stefan-Boltzmann, che lega l'area $A$ alla potenza emessa da un corpo nero con $\sigma AT^4$.
 
@@ -143,16 +127,15 @@ Gli scienziati hanno recentemente rilevato una nuova stella, MAR-Kappa. La stell
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1V4fBjKsYJMTjKN0dHxZucaG74k_1dE_X/view)
 
 
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="USAPhO 2019 Nazionale Teorica — Quesito 6" data-tags="kg/prova,paese/USA,comp/USAPhO,cluster/Meccanica,object/rod,object/ball"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Una pallina di massa $m$ è posta su una guida orizzontale, lungo la quale può scivolare senza attrito. È attaccata all'estremità di un'asta rigida priva di massa di lunghezza $R$. All'altro capo dell'asta è attaccata una pallina di massa $M$. La pallina di massa $M$ è inizialmente in quiete, con l'asta direttamente sopra la pallina di massa $m$. Al sistema viene dato un impulso infinitesimo *parallelo* alla guida.
 
 <!--fig:start-->
 ![[_attachments/2019_USAPhO/2019_USAPhO_p10_f3.png]]
+
+
 *Perla su guida con asta e palla (stato iniziale)*
 <!--fig:end-->
 <!--fig:start-->
@@ -172,5 +155,3 @@ Si assuma che l'asta e la pallina siano progettate in modo che possano attravers
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Rod (object)|Rod]], [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1V4fBjKsYJMTjKN0dHxZucaG74k_1dE_X/view)
-
-

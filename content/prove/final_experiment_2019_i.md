@@ -15,10 +15,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2019 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Ottica,object/pipe-tube,object/tank-container"></span>
 
-<div class="qlang-switch" data-default="it"></div>
-
-
-
 **Finale**
 
 Olimpiadi della Fisica 2019
@@ -107,5 +103,3 @@ cilindrica.
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
 **Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1A7DlSpoDJlm499RCJ7FpZDmYIG8McGNT/view)
-
-

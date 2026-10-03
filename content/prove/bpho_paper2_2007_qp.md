@@ -15,10 +15,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="BPhO 2007 Locale Round 1 — Quesito 1" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Elettromagnetismo,object/point-charge,object/battery,object/resistor,object/spring,object/wheel"></span>
 
-<div class="qlang-switch" data-default="it"></div>
-
-
-
 Domanda compulsoria, con brevi quesiti indipendenti:
 
 - a) Come cambiano il numero di protoni $Z$ e il numero di nucleoni $A$ di un nucleo in seguito a: (i) emissione di una particella alfa; (ii) emissione di una particella beta; (iii) fusione con un nucleo di deuterio?
@@ -54,11 +50,8 @@ Domanda compulsoria, con brevi quesiti indipendenti:
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1uq-PMSMU6OjRsqLEgzFau8fxlo4vHEsc/view)
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="BPhO 2007 Locale Round 1 — Quesito 2" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Elettromagnetismo,object/resistor"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Il circuito di Figura 2.1 ha correnti $i_1$..$i_{12}$ nei bracci indicati, dovute a una differenza di potenziale $V$ ai capi di $AB$. Ogni braccio ha un resistore di resistenza $R$.
 
@@ -88,11 +81,8 @@ b) Usando i metodi applicati in (a)(ii) e (a)(iii), determinare la resistenza fr
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1uq-PMSMU6OjRsqLEgzFau8fxlo4vHEsc/view)
 
 
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2007 Locale Round 1 — Quesito 3" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Elettromagnetismo"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Effetto Doppler (sorgente/osservatore in moto), osservatore in moto non direttamente verso la sorgente (analisi dati f-t)**
 
@@ -119,11 +109,8 @@ b) *[Tabella 3.1]* Una sorgente stazionaria emette una nota di frequenza $f_0$. 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1uq-PMSMU6OjRsqLEgzFau8fxlo4vHEsc/view)
 
 
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="BPhO 2007 Locale Round 1 — Quesito 4" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Elettromagnetismo,object/sphere"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Una sfera d'acciaio dura, massa $m$, cade verticalmente per una distanza $h_1$ sulla superficie orizzontale di un'incudine d'acciaio tenera. Rimbalza per una distanza $h_2$ dopo aver prodotto una piccola indentazione circolare di diametro $d$. Per $h_1$ piccoli la teoria prevede
 $$3 m g\, h_2 = P\, d^3,$$
@@ -151,11 +138,8 @@ Esperimenti sono stati eseguiti con $m = 4{,}00\times 10^{-3}\ \text{kg}$. I dat
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1uq-PMSMU6OjRsqLEgzFau8fxlo4vHEsc/view)
 
 
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="BPhO 2007 Locale Round 1 — Quesito 5" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Elettromagnetismo,object/capacitor,object/battery,object/switch,object/resistor"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 a) Due condensatori scarichi $C_1$ e $C_2$, con capacità $C_1$ e $C_2$, sono collegati in serie con una batteria e un interruttore $S$. Quando l'interruttore è chiuso c'è una carica $Q_1$ su $C_1$ e $Q_2$ su $C_2$.
 - (i) Qual è la relazione fra $Q_1$ e $Q_2$?
@@ -183,11 +167,8 @@ b) Una sorgente a.c. di tensione $V$ e frequenza $f$ è in serie con un diodo e 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1uq-PMSMU6OjRsqLEgzFau8fxlo4vHEsc/view)
 
 
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="BPhO 2007 Locale Round 1 — Quesito 6" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Elettromagnetismo,object/rod"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 a) La legge di Faraday dell'induzione elettromagnetica può essere espressa come
 $$E = -\,\text{tasso di aumento di }\Phi.$$
@@ -204,11 +185,8 @@ c) Una sbarra di rame di lunghezza $L$ è imperniata nel suo punto medio e ruota
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1uq-PMSMU6OjRsqLEgzFau8fxlo4vHEsc/view)
 
 
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="BPhO 2007 Locale Round 1 — Quesito 7" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Elettromagnetismo,object/planet,object/star,object/satellite"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 a) *[Tabella 7.1]* Assumendo che i pianeti siano in moto circolare attorno al Sole, con raggio $R$ e periodo $T$, usare i dati della Tabella 7.1 per verificare, graficamente, l'ipotesi che $T$ sia proporzionale a $R^\alpha$, dove $\alpha$ è una costante. Ottenere dal grafico: (i) un valore di $\alpha$ e la sua accuratezza; (ii) la costante di proporzionalità in unità SI.
 
@@ -229,5 +207,3 @@ b)
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Planet (object)|Planet]], [[Star (object)|Star]], [[Satellite (object)|Satellite]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1uq-PMSMU6OjRsqLEgzFau8fxlo4vHEsc/view)
-
-

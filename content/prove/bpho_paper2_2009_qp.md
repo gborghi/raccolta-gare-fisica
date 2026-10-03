@@ -15,10 +15,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="BPhO 2009 Locale Round 1 — Quesito 1" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/calorimeter,object/droplet,object/lens,object/spring,object/capacitor"></span>
 
-<div class="qlang-switch" data-default="it"></div>
-
-
-
 Domanda compulsoria, con brevi quesiti indipendenti:
 
 - a) Un riscaldatore a immersione da $10\ \text{W}$ è posto in $0{,}25\ \text{kg}$ di un liquido contenuto in un calorimetro di capacità termica $50\ \text{J K}^{-1}$. È acceso e dopo un certo tempo la temperatura del liquido raggiunge un valore costante. Il riscaldatore è spento e il tasso di calo di temperatura è $15\ \text{mK s}^{-1}$. Qual è il calore specifico del liquido?
@@ -52,11 +48,8 @@ Domanda compulsoria, con brevi quesiti indipendenti:
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1xH8l9ivRhN2zw3tAnN_1mLAjww5M5IX6/view)
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="BPhO 2009 Locale Round 1 — Quesito 2" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/ball,object/projectile"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Una pietra sferica è lasciata cadere dalla cima di una rupe di altezza $h$ al tempo $t = 0$. Nello stesso istante un'altra pietra identica è lanciata verticalmente verso l'alto dal fondo della rupe con velocità *positiva* $u$, sulla stessa verticale della prima pietra.
 
@@ -76,11 +69,8 @@ b)
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1xH8l9ivRhN2zw3tAnN_1mLAjww5M5IX6/view)
 
 
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2009 Locale Round 1 — Quesito 3" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/spring"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 a) Un uomo di altezza $h_0 = 2{,}00\ \text{m}$ e massa $m$ deve fare un salto col bungee da una piattaforma posta a un'altezza $h = 25{,}0\ \text{m}$ sopra un lago. Un'estremità di una corda elastica è attaccata al suo piede e l'altra estremità è fissata alla piattaforma. Cade verticalmente. La lunghezza a riposo della corda è $l_0$ e la sua costante elastica è $k$. La corda è scelta in modo che la sua velocità si riduca a zero proprio nell'istante in cui la sua testa raggiunge la superficie dell'acqua. Quando è a riposo, in equilibrio, all'estremità della corda, la sua testa è a $8{,}00\ \text{m}$ sopra l'acqua. Assumere che il centro di gravità dell'uomo sia a metà del suo corpo.
 Scrivere un'espressione algebrica per:
@@ -97,11 +87,8 @@ b) Determinare i valori massimi dell'uomo per: (i) la velocità; (ii) l'accelera
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1xH8l9ivRhN2zw3tAnN_1mLAjww5M5IX6/view)
 
 
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="BPhO 2009 Locale Round 1 — Quesito 4" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/nucleus"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 a)
 - (i) Determinare la relazione fra la costante di decadimento $\lambda$ e l'emivita $\tau$ di una sorgente radioattiva.
@@ -118,11 +105,8 @@ c) Una sorgente puntiforme di raggi $\gamma$ ha emivita di $30$ minuti. Il tasso
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1xH8l9ivRhN2zw3tAnN_1mLAjww5M5IX6/view)
 
 
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="BPhO 2009 Locale Round 1 — Quesito 5" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/disk,object/rod"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 a) Un disco uniforme, di raggio $R$ e densità superficiale $\rho$, ha il suo centro $O$ nell'origine di un sistema di coordinate cartesiane. Sono rimossi un disco di raggio $R/2$ e centro $(R/2, 0)$, insieme a due dischi di raggio $R/4$ con centri in $(0, +5R/8)$ e $(0, -5R/8)$.
 - (i) Verificare che i tre fori circolari non si sovrappongono.
@@ -178,5 +162,3 @@ b) Un'asta uniforme $OP$ di lunghezza $l$ e massa $M$ è appoggiata con $P$ cont
 **Quesito 8** — Trasferimento orbitale cerchio ed ellisse
 ![[_attachments/BPhO_Paper2_2009_QP/BPhO_Paper2_2009_QP_p11_f6.png]]
 <!--fig:end-->
-
-

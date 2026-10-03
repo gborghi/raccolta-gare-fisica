@@ -424,4 +424,3 @@ Gli indirizzi dei rappresentanti statali che coordinano la condotta dei primi du
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
 **Objects:** [[Tank/Container (object)|Tank/Container]], [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1ytusmXXSEtLOYUvBLRUYRMVwogT7_xuK/view)
-

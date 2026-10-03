@@ -2709,4 +2709,3 @@ Which of the following expressions could be a suitable expression for the force 
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.77](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-

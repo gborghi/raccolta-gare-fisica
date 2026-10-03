@@ -2450,4 +2450,3 @@ $$Z_{C\,II} = \frac{(R + i \omega L) \left( R - \dfrac{i}{\omega C} \right)}{2 R
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Resistor (object)|Resistor]], [[Inductor (object)|Inductor]], [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.25](https://drive.google.com/file/d/1vB4HmSUJ5GCTMHpfaqizNQMAsWSWC2yB/view)
-

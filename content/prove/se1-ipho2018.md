@@ -1,19 +1,17 @@
 ---
-title: IPhO 2018 Internazionale Sperimentale
+title: IPhO 2018 — Sperimentale — E1
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - paese/international
+  - comp/IPhO
 ---
 <div class="atom-reader" data-prova="se1-ipho2018"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2018 Internazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/circuits,topic/electromagnetism,topic/elasticity-e-materials,argomento/elettromagnetismo,object/resistor"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2018 — Sperimentale — E1 — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/circuits,topic/electromagnetism,topic/elasticity-e-materials,argomento/elettromagnetismo,object/resistor"></span>
 
 **Paper transistor**
 
@@ -31,5 +29,3 @@ Il problema studia un dispositivo simile a un transistor realizzato su carta: si
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Curve Fitting (competenza)|Curve Fitting]]
 **Objects:** [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1p_vQJ56POSNT4DKeNqqtwazaBL8-pEl1/view)
-
-

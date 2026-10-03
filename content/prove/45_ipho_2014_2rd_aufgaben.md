@@ -87,6 +87,7 @@ Fig. 1: Schema del circuito per il convertitore di tensione "boost".
 <!--fig:end-->
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2014 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Fisica Moderna,object/atom,object/spring,object/diffraction-grating,object/photon"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -420,6 +421,7 @@ g) Quando il ciclone raggiunge la terraferma, il suo approvvigionamento energeti
 <!--fig:end-->
 
 
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2014 — Quesito 4" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Fisica Moderna,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -556,5 +558,3 @@ Il team della IPhO ti augura tanti divertimenti e successi nella seconda fase!
 ![[_attachments/45_IPhO_2014_2Rd_Aufgaben/45_IPhO_2014_2Rd_Aufgaben_p7_f3.png]]
 *audio recording of ping-pong ball bounces*
 <!--fig:end-->
-
-

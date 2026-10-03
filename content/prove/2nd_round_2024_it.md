@@ -15,10 +15,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2024 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge,object/conducting-sphere"></span>
 
-<div class="qlang-switch" data-default="it"></div>
-
-
-
 Figura B.1: Conduttore piano a massa infinitamente lungo con una carica $Q_1$ in una posizione $\vec{r}_1 = (x_1, y_1, z_1) = (0, 0, d)$.
 
 i. (0.25 pt) Quali sono le condizioni al contorno per il potenziale elettrostatico $V$ di questo sistema?
@@ -193,11 +189,8 @@ The egg is not very dissymmetric, so $t = \frac{1}{2}$ is a good starting point,
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/14f5cOECox8iz56s6uHvon5QiZdkP6xLO/view)
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2024 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge,object/manometer,object/gas"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 e i termini di ordine superiore.
 
@@ -392,6 +385,8 @@ A more explicit computation making less explicit use of symmetries, or a more im
 <!--fig:start-->
 **p.6** — circuito con batterie resistori corrente
 ![[_attachments/2nd_round_2024_it/2nd_round_2024_it_p6_f4.png]]
+
+
 <!--fig:end-->
 
 <!--fig:start-->
@@ -412,6 +407,6 @@ A more explicit computation making less explicit use of symmetries, or a more im
 <!--fig:start-->
 **p.18** — uovo su superficie soluzione equilibrio
 ![[_attachments/2nd_round_2024_it/2nd_round_2024_it_p18_f10.png]]
+
+
 <!--fig:end-->
-
-

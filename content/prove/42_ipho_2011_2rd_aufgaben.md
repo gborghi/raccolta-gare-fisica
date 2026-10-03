@@ -245,6 +245,7 @@ f) Descrivere qualitativamente cosa accade se, nel cono considerato al punto e),
 <!--fig:end-->
 
 
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2011 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/particle-beam,object/point-charge,object/electron"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -520,4 +521,3 @@ Leibniz Institute for the Pedagogy of Natural Sciences and Mathematics, Olshause
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
 **Objects:** [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1yo8oALUhwBPb7eNAbTA1ak-fwgtDu5Dh/view)
-

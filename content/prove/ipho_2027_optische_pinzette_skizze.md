@@ -136,4 +136,3 @@ La sfera polimerica è ora irradiata alla posizione segnata con un laser di lung
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1R4hKqfr9aqqRfrriNnVFyoRuvMzm3f3q/view)
-

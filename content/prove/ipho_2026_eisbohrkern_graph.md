@@ -111,4 +111,3 @@ L'esame dei campioni consente di trarre conclusioni sui cambiamenti climatici. U
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
 **Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/15J75OX3rUvJlwIePv0MmwUzVW-i6DsqE/view)
-

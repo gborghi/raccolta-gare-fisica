@@ -11,10 +11,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2017 '' — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/rope-string,object/rod,object/tank-container"></span>
 
-<div class="qlang-switch" data-default="it"></div>
-
-
-
 **Esercizio 1: Determinazione delle forze e del coefficiente d'attrito con massimo attrito statico** (9 punti totali)
 
 ### Legge di Eulero-Eytelwein
@@ -46,11 +42,8 @@ Bisogna determinare le forze tra la corda e la sbarra con massimo attrito static
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1lvaVL16ABiV6-GQWAKzOa6j9oPcECSSq/view)
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2017 '' — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/rope-string,object/rod"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Esercizio 2: Determinazione delle forze e del coefficiente d'attrito con attrito dinamico** (17 punti totali)
 
@@ -71,11 +64,8 @@ Utilizza adesso una nuova corda. Useremo ancora un angolo di avvolgimento costan
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1lvaVL16ABiV6-GQWAKzOa6j9oPcECSSq/view)
 
 
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2017 '' — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/rope-string,object/rod"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 **Esercizio 3: Determinazione delle forze con attrito dinamico in funzione dell'angolo di avvolgimento e del coefficiente di attrito dinamico** (22 punti totali)
 
@@ -98,5 +88,3 @@ In questa parte studiamo la dipendenza delle forze dall'angolo di avvolgimento (
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Rope/String (object)|Rope/String]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1lvaVL16ABiV6-GQWAKzOa6j9oPcECSSq/view)
-
-

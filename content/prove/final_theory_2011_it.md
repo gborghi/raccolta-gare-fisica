@@ -15,10 +15,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2011 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/sphere,object/nucleus,object/gas,object/capacitor,object/coil"></span>
 
-<div class="qlang-switch" data-default="it"></div>
-
-
-
 **Buona fortuna!**
 
 SwissPhO 2011
@@ -316,5 +312,3 @@ $\Phi = N_2 B \pi r_2^2 = N_2 \dfrac{I \mu_0}{R} r_2^2$
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Sphere (object)|Sphere]], [[Nucleus (object)|Nucleus]], [[Gas (object)|Gas]], [[Capacitor (object)|Capacitor]], [[Coil (object)|Coil]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1SH1eCXn0MIsnZwOdz8lIXf-UD-dBzAYB/view)
-
-

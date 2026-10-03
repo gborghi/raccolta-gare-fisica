@@ -813,4 +813,3 @@ Carta grafica
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]], [[Star (object)|Star]]
 **Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/1SImVXkVhhxfo_3vHw7ZPGRrNXXF0iC2s/view)
-

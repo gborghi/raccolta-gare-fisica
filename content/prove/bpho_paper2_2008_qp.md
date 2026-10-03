@@ -15,10 +15,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="BPhO 2008 Locale Round 1 — Quesito 1" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/ball,object/pendulum,object/spring,object/wheel,object/resistor"></span>
 
-<div class="qlang-switch" data-default="it"></div>
-
-
-
 Domanda compulsoria, con brevi quesiti indipendenti:
 
 - a) Una palla da cricket di massa $0{,}167\ \text{kg}$ è lanciata verticalmente verso l'alto con velocità iniziale $25{,}0\ \text{m/s}$. Se raggiunge un'altezza massima di $20{,}0\ \text{m}$, determinare la percentuale di perdita di energia causata dalla resistenza dell'aria.
@@ -29,6 +25,8 @@ Domanda compulsoria, con brevi quesiti indipendenti:
 
 <!--fig:start-->
 ![[_attachments/BPhO_Paper2_2008_QP/BPhO_Paper2_2008_QP_p2_f1.png]]
+
+
 *recipiente cilindrico con molla e uscita*
 <!--fig:end-->
 
@@ -61,11 +59,8 @@ Domanda compulsoria, con brevi quesiti indipendenti:
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1WYcqqUMi2AIfBe3_kNZa7uifjuhTviKA/view)
 
 
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="BPhO 2008 Locale Round 1 — Quesito 2" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/resistor"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Sei resistori con resistenze, in ohm, di $r_1, r_2, r_3, r_4, r_5, r_6$ sono collegati come indicato in Figura 2.1.
 
@@ -93,11 +88,8 @@ b) I resistori in Figura 2.1 hanno resistenze di $1, 2, 3, 4, 5$ e $6$ ohm, con 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1WYcqqUMi2AIfBe3_kNZa7uifjuhTviKA/view)
 
 
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2008 Locale Round 1 — Quesito 3" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/star,object/photon,object/planet"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 a) Una stella doppia consiste di due stelle, ciascuna con la stessa massa del nostro Sole, $M_S$, separate da una distanza $d$. Si osserva che compiono una rotazione completa attorno al loro centro di massa in una settimana. Determinare, a due cifre significative, il rapporto $d/R_{SE}$, dove $R_{SE}$ è la distanza Sole-Terra, senza assumere il valore numerico di $M_S$.
 
@@ -117,11 +109,8 @@ c) Spiegare perché il valore di $g$ all'equatore terrestre differisce dal suo v
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1WYcqqUMi2AIfBe3_kNZa7uifjuhTviKA/view)
 
 
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="BPhO 2008 Locale Round 1 — Quesito 4" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/beam,object/rope-string,object/projectile"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 a) Una massa $M = 100\ \text{kg}$ pende da un'estremità di una trave uniforme di lunghezza $3{,}00\ \text{m}$ e massa $m = 2{,}00\ \text{kg}$. L'altra estremità è incernierata a una parete verticale in $P$. Un cavo orizzontale, di massa trascurabile, è attaccato alla trave in un punto a $2{,}00\ \text{m}$ da $P$ per tenere la trave in equilibrio a un angolo di $30^\circ$ con l'orizzontale.
 Determinare: (i) la tensione $T$ nel cavo; (ii) le componenti orizzontale e verticale delle forze della cerniera sulla trave, $F_H$ e $F_V$ rispettivamente.
@@ -145,11 +134,8 @@ b) Un tiratore a terra in $A$ spara il fucile in direzione di un piccione d'argi
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1WYcqqUMi2AIfBe3_kNZa7uifjuhTviKA/view)
 
 
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="BPhO 2008 Locale Round 1 — Quesito 5" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/sphere,object/cylinder,object/piston,object/gas"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 a) Una sfera $A$ che viaggia orizzontalmente su un tavolo liscio, con velocità $u$, collide simmetricamente, ed elasticamente, con due sfere stazionarie $B$ e $C$ che si toccano. Tutte le sfere sono identiche e di massa $m$. Determinare le velocità di tutte le sfere dopo l'urto. $C$ ha un'ulteriore collisione con una sfera identica $D$, inizialmente in quiete e a contatto con essa. I centri di $B$, $C$ e $D$ giacciono su una linea retta. Determinare l'esito di questa collisione.
 
@@ -177,11 +163,8 @@ b) Due contenitori cilindrici identici, $A$ e $B$, entrambi di volume $V$ e capa
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1WYcqqUMi2AIfBe3_kNZa7uifjuhTviKA/view)
 
 
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="BPhO 2008 Locale Round 1 — Quesito 6" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/photon"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 In un esperimento per studiare l'effetto fotoelettrico, luce di lunghezza d'onda $\lambda$ incide su una superficie metallica e si produce una corrente. La corrente è soppressa fornendo una differenza di potenziale $V$ fra la superficie metallica e la piastra collettrice.
 
@@ -208,11 +191,8 @@ b) *[Tabella 6.b]* I risultati ottenuti nell'esperimento sono nella Tabella 6.b.
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1WYcqqUMi2AIfBe3_kNZa7uifjuhTviKA/view)
 
 
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="BPhO 2008 Locale Round 1 — Quesito 7" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/nucleus"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Una sorgente radioattiva contiene una miscela di due sostanze radioattive non correlate, $A$ e $B$, con costanti di decadimento $\lambda_A$ e $\lambda_B$; $A$ ha la costante di decadimento maggiore. Un contatore è efficiente al $60\%$ nel rilevare tutti i decadimenti dei nuclei $A$, ma solo all'$11\%$ per quelli della sostanza $B$. Al tempo $t = 0$, $A$ e $B$ producono $N_A$ e $N_B$ conteggi al minuto rispettivamente. I risultati delle misure sperimentali dei conteggi totali sono nella Tabella 7.1.
 
@@ -241,11 +221,8 @@ b)
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1WYcqqUMi2AIfBe3_kNZa7uifjuhTviKA/view)
 
 
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="BPhO 2008 Locale Round 1 — Quesito 8" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/capacitor,object/electron"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
 
 Due armature conduttrici circolari parallele, distanti $1{,}00\ \text{mm}$, sono in un recipiente sotto vuoto. Le armature sono a una differenza di potenziale di $100\ \text{V}$ e poste in un campo magnetico costante di densità di flusso $B = 0{,}010\ \text{T}$ parallelo alla superficie delle armature. Una sorgente radioattiva di particelle beta, con energia massima di $15{,}0\ \text{keV}$, è posta, simmetricamente, al centro $O$ del gap fra le armature.
 
@@ -272,5 +249,3 @@ b)
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Capacitor (object)|Capacitor]], [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1WYcqqUMi2AIfBe3_kNZa7uifjuhTviKA/view)
-
-

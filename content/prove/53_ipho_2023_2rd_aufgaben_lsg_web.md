@@ -1621,6 +1621,8 @@ the rocket would aga
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/53_IPhO_2023_2Rd_Aufgaben_Lsg_web/53_IPhO_2023_2Rd_Aufgaben_Lsg_web_p18_f11.png]]
+
+
 *Schema cono razzo con molecole incidenti*
 <!--fig:end-->
 <!--fig:start-->
@@ -1827,6 +1829,8 @@ Il razzo sarebbe andato
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/53_IPhO_2023_2Rd_Aufgaben_Lsg_web/53_IPhO_2023_2Rd_Aufgaben_Lsg_web_p18_f11.png]]
+
+
 *Schema cono razzo con molecole incidenti*
 <!--fig:end-->
 <!--fig:start-->
@@ -2076,4 +2080,3 @@ Calcolare l'altezza di aumento nel termometro scalato (10.9)
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Manometer (object)|Manometer]], [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.23](https://drive.google.com/file/d/1UjowBl2NmEisJn9N-RI0S3gXTW0fLVn9/view)
-

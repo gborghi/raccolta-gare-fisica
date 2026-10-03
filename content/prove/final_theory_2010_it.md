@@ -15,10 +15,6 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2010 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/sphere,object/lever,object/planet,object/electron,object/droplet"></span>
 
-<div class="qlang-switch" data-default="it"></div>
-
-
-
 **Buona fortuna!**
 
 SwissPhO 2010
@@ -261,5 +257,3 @@ uniforme. Il cavaliere di massa $m_1 = 200\ \text{g}$ vien
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Sphere (object)|Sphere]], [[Lever (object)|Lever]], [[Planet (object)|Planet]], [[Electron (object)|Electron]], [[Droplet (object)|Droplet]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ax1H8qryw8UvJu0gCQxtdA2diD10HP2E/view)
-
-
